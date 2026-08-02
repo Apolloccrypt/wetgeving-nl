@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 21 maart 1996, houdende verlening van enige vrijstellingen van de verboden van de Winkeltijdenwet"
+citeertitel: "Vrijstellingenbesluit Winkeltijdenwet"
 identifier: "BWBR0007953"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-07-04"
-last_updated: "2015-07-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007953"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "30433"
-version_id: "9966402"
-internal_id: "C13451911"
-label_id: "30844"
-dtd_version: "2.0"
-original_entry_into_force: "2003-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007953/2015-07-04/0"
-intitule_bron: "Stb.1996-183"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-03-21"
-intitule_published: "1996-03-28"
-intitule_in_force: "1996-04-11"
-intitule_status: "goed"
-original_publication: "Stb.2003-539"
-original_signed_date: "2003-12-08"
-original_published_date: "2003-12-23"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2003-539"
-entry_into_force_date: "2003-12-08"
-jci_1_3: "jci1.3:c:BWBR0007953&z=2015-07-04&g=2015-07-04"
-jci_1_0: "1.0:c:BWBR0007953&g=2015-07-04"
-citeertitel_status: "officieel"
-short_title: "Vrijstellingenbesluit Winkeltijdenwet"
-signed_date: "2003-12-08"
-entry_into_force: "2003-12-08"
+publicatiedatum: 2003-12-08
+laatste_update: 2015-07-04
+status: geldig
+toestand: 2015-07-04
+bron: "https://wetten.overheid.nl/BWBR0007953"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 21 maart 1996, houdende verlening van enige vrijstellingen van de verboden van de Winkeltijdenwet
-
-Op de voordracht van Onze Minister van Economische Zaken van 18 januari 1996, nr. 96003321 WJA/W;
-
-Gelet op de [artikelen 5 en 8 van de Winkeltijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=5);
-
-De Raad van State gehoord (advies van 19 februari 1996, nr. W10.96.0019);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 20 maart 1996, nr. 96018847 WJA/W;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -84,7 +52,11 @@ De in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 7. (wegrestaurants)
 
-De in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2) vervatte verboden gelden niet ten aanzien van een winkel in een restaurant, dat is gelegen aan een autosnelweg als bedoeld in [artikel 1, onder **c**, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1), mits in dat restaurant de omzet grotendeels wordt behaald met het verstrekken van maaltijden, dranken en kleine eetwaren voor directe consumptie ter plaatse en het aanbieden van logiesaccommodatie.
+De in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2) vervatte verboden gelden niet ten aanzien van een winkel in een restaurant, dat is gelegen aan een autosnelweg als bedoeld in [artikel 1, onder *c*, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1), mits in dat restaurant de omzet grotendeels wordt behaald met het verstrekken van maaltijden, dranken en kleine eetwaren voor directe consumptie ter plaatse en het aanbieden van logiesaccommodatie.
+
+##### Artikel 7a
+
+De in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2) vervatte verboden gelden niet ten aanzien van een winkel in een aan een autosnelweg gelegen onderneming waarin de functie van een benzinestation als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=6&z=2015-07-04&g=2015-07-04) en van een restaurant als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=7&z=2015-07-04&g=2015-07-04), wordt gecombineerd, mits in die winkel of in relatie tot die winkel de omzet grotendeels wordt behaald uit het totaal van de verkoop van goederen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=6&z=2015-07-04&g=2015-07-04) alsmede het verstrekken van eet- en drinkwaren en het aanbieden van logiesaccommodatie als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=7&z=2015-07-04&g=2015-07-04).
 
 ##### Artikel 8. (beroepsscheepvaart)
 
@@ -100,55 +72,55 @@ De in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 10. (bepaalde winkels)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11. (openstelling anders dan voor verkoop)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12. (straatverkoop van bepaalde goederen)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13. (begraafplaatsen)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. (culturele evenementen)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15. (sportcomplexen)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16. (bejaardenoorden)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17. (E.H. Communie)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18. (Allerheiligen en Allerzielen)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19. (Ramadan)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20. (bedevaartplaats)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21. (carnaval)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22. (kermis)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
@@ -157,11 +129,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 24
 
 Dit besluit wordt aangehaald als: Vrijstellingenbesluit Winkeltijdenwet.
-
-Lasten en bevelen dat dit besluit met de nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a
-
-De in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2) vervatte verboden gelden niet ten aanzien van een winkel in een aan een autosnelweg gelegen onderneming waarin de functie van een benzinestation als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=6&z=2015-07-04&g=2015-07-04) en van een restaurant als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=7&z=2015-07-04&g=2015-07-04), wordt gecombineerd, mits in die winkel of in relatie tot die winkel de omzet grotendeels wordt behaald uit het totaal van de verkoop van goederen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=6&z=2015-07-04&g=2015-07-04) alsmede het verstrekken van eet- en drinkwaren en het aanbieden van logiesaccommodatie als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=7&z=2015-07-04&g=2015-07-04).
-
-Lasten en bevelen dat dit besluit met de nota van toelichting in het Staatsblad zal worden geplaatst.

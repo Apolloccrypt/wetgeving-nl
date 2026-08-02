@@ -1,54 +1,65 @@
 ---
 title: "Reglement klachtencommissie sexuele intimidatie Ministerie van Justitie"
 identifier: "BWBR0007347"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-05-01"
-last_updated: "1995-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007347"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3627313"
-version_id: "5410552"
-internal_id: "C5603641"
-label_id: "3607434"
-dtd_version: "2.0"
-original_entry_into_force: "1995-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007347/1995-05-01/0"
-intitule_bron: "Stcrt.1995-83"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-04-19"
-intitule_published: "1995-04-28"
-intitule_in_force: "1995-04-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-83"
-original_signed_date: "1995-04-19"
-original_published_date: "1995-04-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-05-01"
-jci_1_3: "jci1.3:c:BWBR0007347&z=1995-05-01&g=1995-05-01"
-jci_1_0: "1.0:c:BWBR0007347&g=1995-05-01"
-citeertitel_status: "officieel"
-signed_date: "1995-04-19"
-entry_into_force: "1995-05-01"
+publicatiedatum: 1995-05-01
+laatste_update: 1995-05-01
+status: geldig
+toestand: 1995-05-01
+bron: "https://wetten.overheid.nl/BWBR0007347"
+opgehaald: 2026-08-02
 ---
+
 # Reglement klachtencommissie sexuele intimidatie Ministerie van Justitie
-
-Gelet op artikel 6 van het Besluit van de Minister van Binnenlandse Zaken van 22 juli 1994, nummer AD94/U854 inzake de klachtenregeling sexuele intimidatie burgerlijk rijkspersoneel;
-
-Gelet op bijlage 3f van het Handboek Arbeidsomstandigheden Ministerie van Justitie inzake behandeling klachten sexuele intimidatie;
-
-Overwegende dat het wenselijk is met betrekking tot de klachtencommissie Justitie specifieke regels te stellen;
-
-Gehoord de Bijzondere Commissie Ministerie van Justitie;
-
-Besluit:
 
 #### Begripsomschrijvingen
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+a.
+
+minister:
+
+de Minister van Justitie;
+
+b.
+
+bevoegd gezag:
+
+het hoofd van de diensteenheid waarbij een dienstcommissie is ingesteld;
+
+c.
+
+commissie:
+
+de klachtencommissie sexuele intimidatie Ministerie van Justitie;
+
+d.
+
+klager:
+
+de persoon die zich met een klacht over sexuele intimidatie wendt tot het bevoegd gezag, de vertrouwens-persoon sexuele intimidatie of de commissie;
+
+e.
+
+beklaagde:
+
+de persoon tegen wie de klacht gericht is;
+
+f.
+
+sexuele intimidatie:
+
+sexueel getinte aandacht voor een persoon, die tot uiting komt in verbaal, fysiek of ander non-verbaal gedrag, dat zowel onopzettelijk als opzettelijk kan zijn en dat door de persoon in kwestie als ongewenst, kwetsend of bedreigend wordt ervaren.
+
+g.
+
+derde:
+
+persoon die niet werkzaam is in dienst van of onder het gezag van de Minister.
 
 #### Taak en samenstelling van de commissie
 

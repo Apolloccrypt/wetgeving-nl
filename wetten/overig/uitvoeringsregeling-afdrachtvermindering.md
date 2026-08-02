@@ -1,44 +1,17 @@
 ---
 title: "Uitvoeringsregeling afdrachtvermindering"
 identifier: "BWBR0007780"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007780"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "1035613"
-version_id: "1521622"
-internal_id: "C22584631"
-label_id: "1003594"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007780/2025-07-01/0"
-intitule_bron: "Stcrt.1995-251"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-21"
-intitule_published: "1995-12-28"
-intitule_in_force: "1995-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-250"
-original_signed_date: "2000-12-19"
-original_published_date: "2000-12-27"
-original_effect: "structuurwijziging"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0007780&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0007780&g=2025-07-01"
-citeertitel_status: "officieel"
-signed_date: "2000-12-19"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0007780"
+opgehaald: 2026-08-02
 ---
+
 # Uitvoeringsregeling afdrachtvermindering
-
-Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=12), [14](onbekend), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=16), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=23) en [32 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=32);
-
-Voor zoveel nodig in overeenstemming of na overleg met de Minister van Sociale Zaken en Werkgelegenheid, de Minister van Onderwijs, Cultuur en Wetenschappen, de Minister van Verkeer en Waterstaat en de Minister van Economische Zaken,
-
-Besluit:
 
 ### Hoofdstuk I. Algemeen
 
@@ -56,119 +29,127 @@ De inhoudingsplichtige rekent tot het loon voor de door hem betaalde aanvullinge
 
 ##### Artikel 1b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. Afdrachtvermindering langdurig werklozen
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11b
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Afdrachtvermindering onderwijs
 
 ##### Artikel 11c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12aa
 
-Vervallen
+*Vervallen*
+
+##### Artikel 12bb
+
+*Vervallen*
+
+##### Artikel 12cc
+
+*Vervallen*
 
 ### Hoofdstuk IVA. Afdrachtvermindering scholing
 
 ##### Artikel 12b
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk IVA. Afdrachtvermindering scholing
+### Hoofdstuk V. Afdrachtvermindering kinderopvang
 
 ##### Artikel 12c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14b
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VA. Afdrachtvermindering betaald ouderschapsverlof
 
 ##### Artikel 14c
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk VA. Afdrachtvermindering betaald ouderschapsverlof
+### Hoofdstuk VI. Afdrachtvermindering zeevaart
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
@@ -190,23 +171,27 @@ Vervallen
 
 - a. de afschriften, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18);
 
-- b. per zeevarende met betrekking tot wie de afdrachtvermindering zeevaart is toegepast: de wijzigingen op de bemanningslijsten, bedoeld in [artikel 21 van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=21).
+- b. per zeevarende met betrekking tot wie de afdrachtvermindering zeevaart is toegepast: de wijzigingen op de bemanningslijsten, bedoeld in [artikel 21 van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=21).
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
 Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip in het kader van een onderneming grotendeels op zee geëxploiteerd indien het in de kalendermaand waarin het inhoudingstijdstip valt grotendeels op zee wordt geëxploiteerd.
+
+##### Artikel 20a
+
+Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip dat in droogdok ligt gedurende ten hoogste een maand geacht grotendeels op zee te worden geëxploiteerd.
 
 ##### Artikel 21
 
@@ -218,84 +203,46 @@ Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip in het k
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VIIA. Arbo-afdrachtvermindering
 
 ##### Artikel 25a
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk VIIA. Arbo-afdrachtvermindering
+### Hoofdstuk VIII. Overgangs- en slotbepalingen
 
 ##### Artikel 26
 
-Met betrekking tot gevallen waarin [artikel 2 van de Wet belasting- en premiefaciliteit voor de zeevaart 1995](onbekend)toepassing heeft gevonden, blijven de bepalingen van de [Uitvoeringsregeling belasting- en premiefaciliteit voor de zeevaart 1995](onbekend) van kracht naar de tekst zoals die luidde op 31 december 1995.
+Met betrekking tot gevallen waarin artikel 2 van de Wet belasting- en premiefaciliteit voor de zeevaart 1995toepassing heeft gevonden, blijven de bepalingen van de Uitvoeringsregeling belasting- en premiefaciliteit voor de zeevaart 1995 van kracht naar de tekst zoals die luidde op 31 december 1995.
 
 ##### Artikel 26a
 
-Vervallen
+*Vervallen*
+
+##### Artikel 26b
+
+*Vervallen*
 
 ##### Artikel 27
 
 1. Deze regeling treedt in werking met ingang van 1 januari 1996.
 
 2. Deze regeling kan worden aangehaald als: Uitvoeringsregeling afdrachtvermindering.
-
-##### Artikel 20a
-
-Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip dat in droogdok ligt gedurende ten hoogste een maand geacht grotendeels op zee te worden geëxploiteerd.
-
-### Hoofdstuk VII. S&O-afdrachtvermindering
-
-### Hoofdstuk VIIA. Arbo-afdrachtvermindering
-
-### Hoofdstuk VIIA. Arbo-afdrachtvermindering
-
-##### Artikel 26b
-
-Vervallen
-
-##### Artikel 12bb
-
-Vervallen
-
-### Hoofdstuk IVA. Afdrachtvermindering scholing
-
-### Hoofdstuk V. Afdrachtvermindering kinderopvang
-
-### Hoofdstuk VA. Afdrachtvermindering betaald ouderschapsverlof
-
-### Hoofdstuk VI. Afdrachtvermindering zeevaart
-
-### Hoofdstuk VII. S&O-afdrachtvermindering
-
-### Hoofdstuk VIII. Overgangs- en slotbepalingen
-
-##### Artikel 12cc
-
-Vervallen
-
-### Hoofdstuk V. Afdrachtvermindering kinderopvang
-
-### Hoofdstuk VI. Afdrachtvermindering zeevaart
-
-### Hoofdstuk VII. S&O-afdrachtvermindering
-
-### Hoofdstuk VIII. Overgangs- en slotbepalingen

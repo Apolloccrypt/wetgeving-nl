@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 11 november 1994, houdende regels ter uitvoering van artikel 142, vierde lid, van het Wetboek van Strafvordering betreffende de bekwaamheid en betrouwbaarheid, beëdiging en instructie van, alsmede het toezicht op buitengewoon opsporingsambtenaren, het grondgebied waarvoor de opsporingsbevoegdheid geldt, de beëindiging van de opsporingsbevoegdheid en enige andere onderwerpen"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar"
 identifier: "BWBR0007013"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007013"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "307763"
-version_id: "446262"
-internal_id: "C446261"
-label_id: "302054"
-dtd_version: "2.0"
-original_entry_into_force: "1994-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007013/2022-01-01/0"
-intitule_bron: "Stb.1994-825"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-11-11"
-intitule_status: "goed"
-original_publication: "Stb.1994-825"
-original_signed_date: "1994-11-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-12-07"
-jci_1_3: "jci1.3:c:BWBR0007013&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0007013&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar"
-signed_date: "1994-11-11"
-entry_into_force: "1994-12-07"
+publicatiedatum: 1994-12-07
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0007013"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 11 november 1994, houdende regels ter uitvoering van artikel 142, vierde lid, van het Wetboek van Strafvordering betreffende de bekwaamheid en betrouwbaarheid, beëdiging en instructie van, alsmede het toezicht op buitengewoon opsporingsambtenaren, het grondgebied waarvoor de opsporingsbevoegdheid geldt, de beëindiging van de opsporingsbevoegdheid en enige andere onderwerpen
-
-Op voordracht van Onze Minister van Justitie van 22 april 1994, Stafafdeling Wetgeving Publiekrecht, nr. 436121/94/6;
-
-Gelet op [artikel 142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17), Wet economische delicten, en [artikel 3](onbekend), [hoofdstuk 2](onbekend), [afdeling 1, van de Invoeringswet Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006300&afdeling=1);
-
-De Raad van State gehoord (advies van 30 augustus 1994, nummer W03.94.0246);
-
-Gezien het nader rapport van Onze Minister van Justitie van 28 oktober 1994, Stafafdeling Wetgeving Publiekrecht, nr. 461681/94/6,
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -78,9 +50,9 @@ Hebben goedgevonden en verstaan:
 
 - b. indien de buitengewoon opsporingsambtenaar bevoegd is zijn taak uit te oefenen in het gebied waarin één regionale eenheid van de politie de politietaak uitvoert:
 
-- 1°. de gemeente waar hij zijn hoofdwerkzaamheden verricht, dan wel
+   - 1°. de gemeente waar hij zijn hoofdwerkzaamheden verricht, dan wel
 
-- 2°. een gekozen gemeente uit de gemeenten, waarin hij werkzaam is.
+   - 2°. een gekozen gemeente uit de gemeenten, waarin hij werkzaam is.
 
 3. In dit besluit wordt verstaan onder het College van procureurs-generaal: het College van procureurs-generaal, bedoeld in [artikel 130 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=130).
 
@@ -180,7 +152,7 @@ Onze Minister verleent de akte van opsporingsbevoegdheid, waarin staan vermeld h
 
 ##### Artikel 12
 
-1. De werkgever dient een aanvraag tot aanwijzing van categorieën of eenheden als bedoeld in [artikel 142, eerste lid, onder **b**, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) in bij Onze Minister.
+1. De werkgever dient een aanvraag tot aanwijzing van categorieën of eenheden als bedoeld in [artikel 142, eerste lid, onder *b*, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) in bij Onze Minister.
 
 2. De aanvraag bevat, naast de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-01-01&g=2022-01-01) genoemde gegevens, de volgende gegevens:
 
@@ -210,7 +182,7 @@ In de beschikking wordt het hoogste aantal personen vermeld dat op grond van de 
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. De bekwaamheid en de betrouwbaarheid
 
@@ -306,6 +278,12 @@ Vervallen
 
 3. Onverminderd [artikel 1, eerste en tweede lid, van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=1) toont de buitengewoon opsporingsambtenaar zijn legitimatiebewijs desgevraagd aanstonds.
 
+##### Artikel 26a
+
+1. Indien de buitengewoon opsporingsambtenaar een uniform of bedrijfskleding draagt, wordt dat uniform of die bedrijfskleding op een duidelijk zichtbare plaats voorzien van een insigne, waarvan het model door Onze Minister wordt vastgesteld.
+
+2. Het eerste lid is niet van toepassing op het uniform van een buitengewoon opsporingsambtenaar werkzaam bij de politie, de Koninklijke marechaussee of de Belastingdienst/Douane.
+
 ##### Artikel 27
 
 In het proces-verbaal van opsporingshandelingen of in enige andere schriftelijke verslaglegging van de uitoefening van bevoegdheden vermeldt de buitengewoon opsporingsambtenaar zijn standplaats en het nummer van zijn akte van beëdiging.
@@ -380,7 +358,7 @@ De buitengewoon opsporingsambtenaar volgt bij de opsporing de door of namens het
 
 - d. indien de buitengewoon opsporingsambtenaar heeft gehandeld in strijd met enige andere bepaling bij of krachtens dit besluit of voor zover op hem van toepassing, de [Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006589).
 
-3. Onze Minister kan de opsporingsbevoegdheid van een buitengewoon opsporingsambtenaar opschorten voor de duur van het onderzoek naar de in het tweede lid, onder **b** tot en met **d**, genoemde handelingen.
+3. Onze Minister kan de opsporingsbevoegdheid van een buitengewoon opsporingsambtenaar opschorten voor de duur van het onderzoek naar de in het tweede lid, onder *b* tot en met *d*, genoemde handelingen.
 
 #### § 2. De toezichthouder en direct toezichthouder
 
@@ -400,7 +378,7 @@ De buitengewoon opsporingsambtenaar volgt bij de opsporing de door of namens het
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
@@ -475,9 +453,9 @@ De toezichthouder ziet er op toe dat de buitengewoon opsporingsambtenaar zijn ta
 | Zutphen | Oost-Nederland |
 | Zwolle-Lelystad | Oost-Nederland |
 
-2. In afwijking van het eerste lid is met ingang van 1 januari 2013 als toezichthouder aangewezen de hoofdofficier van justitie van het arrondissementsparket Midden-Nederland, indien voor 1 januari 2013 als toezichthouder is aangewezen de hoofdofficier van justitie van het arrondissementparket Zwolle-Lelystad en het grondgebied, bedoeld in [artikel 5, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-01-01&g=2022-01-01), is gelegen binnen de grenzen van de politieregio Flevoland als bedoeld in de [bijlage bij de Politiewet 1993](onbekend), zoals deze wet luidde voor 1 januari 2013.
+2. In afwijking van het eerste lid is met ingang van 1 januari 2013 als toezichthouder aangewezen de hoofdofficier van justitie van het arrondissementsparket Midden-Nederland, indien voor 1 januari 2013 als toezichthouder is aangewezen de hoofdofficier van justitie van het arrondissementparket Zwolle-Lelystad en het grondgebied, bedoeld in [artikel 5, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-01-01&g=2022-01-01), is gelegen binnen de grenzen van de politieregio Flevoland als bedoeld in de [bijlage bij de Politiewet 1993](https://wetten.overheid.nl/BWBR0006299), zoals deze wet luidde voor 1 januari 2013.
 
-3. In afwijking van het eerste lid is met ingang van 1 januari 2013 als toezichthouder aangewezen de hoofdofficier van justitie van het arrondissementsparket Midden-Nederland, indien voor 1 januari 2013 als toezichthouder is aangewezen de hoofdofficier van justitie van het arrondissementsparket Amsterdam en het gebied, bedoeld in [artikel 5, onder 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-01-01&g=2022-01-01), is gelegen binnen de grenzen van de politieregio Gooi en Vechtstreek als bedoel in de [bijlage bij de Politiewet 1993](onbekend), zoals deze wet luidde voor 1 januari 2013.
+3. In afwijking van het eerste lid is met ingang van 1 januari 2013 als toezichthouder aangewezen de hoofdofficier van justitie van het arrondissementsparket Midden-Nederland, indien voor 1 januari 2013 als toezichthouder is aangewezen de hoofdofficier van justitie van het arrondissementsparket Amsterdam en het gebied, bedoeld in [artikel 5, onder 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-01-01&g=2022-01-01), is gelegen binnen de grenzen van de politieregio Gooi en Vechtstreek als bedoel in de [bijlage bij de Politiewet 1993](https://wetten.overheid.nl/BWBR0006299), zoals deze wet luidde voor 1 januari 2013.
 
 ##### Artikel 45
 
@@ -513,58 +491,16 @@ Indien voor 1 januari 2013 als direct toezichthouder is aangewezen de korpschef 
 
 ##### Artikel 46
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48
 
-Dit besluit treedt in werking met ingang van de eerste dag na datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt het terug tot en met 1 april 1994.
+Dit besluit treedt in werking met ingang van de eerste dag na datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt het terug tot en met 1 april 1994.
 
 ##### Artikel 49
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar.
-
-## Bijlage A. bedoeld in artikel 19, eerste lid
-
-Bij aanvaarding van de aanwijzing tot buitengewoon opsporingsambtenaar legt de desbetreffende persoon de navolgende eden (verklaringen en beloften) af:
-
-- 1. De eed (verklaring en belofte) van zuivering: "Ik zweer (verklaar), dat ik middelijk of onmiddellijk onder welke vorm of voorwendsel ook, tot het verkrijgen van mijn aanstelling of beëdiging tot buitengewoon opsporingsambtenaar aan niemand, wie hij ook zij, iets heb gegeven of beloofd, of zal geven of beloven. Ik zweer (beloof), dat ik, om iets hoegenaamd in mijn functie als buitengewoon opsporingsambtenaar te doen of te laten van niemand hoegenaamd, middelijk of onmiddellijk, enige beloften of geschenken zal aannemen. Zo waarlijk helpe mij God almachtig (Dat verklaar en beloof ik)!". .
-
-- 2. De ambtseed of ambtsbelofte: "Ik zweer (beloof) trouw aan de Koning, aan de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en de wetten des Rijks. Ik zweer (beloof), dat ik, voor zover in mijn vermogen ligt en tot mijn taak als buitengewoon opsporingsambtenaar behoort, zal toezien op de naleving van wetten, krachtens de wet uitgevaardigde voorschriften en verordeningen, mijn verdere plichten als buitengewoon opsporingsambtenaar naar mijn beste weten, eer en geweten zonder aanzien des persoons zal vervullen, de mij als buitengewoon opsporingsambtenaar verstrekte opdrachten zal volbrengen en de zaken, waarvan ik door mijn functie kennis draag en die mij als geheim zijn toevertrouwd, of waarvan ik het vertrouwelijk karakter moet begrijpen, niet zal openbaren aan anderen dan aan hen, aan wie ik volgens wet of uit hoofde van mijn functie als buitengewoon opsporingsambtenaar tot mededeling verplicht ben. Zo waarlijk helpe mij God almachtig (Dat beloof ik)!". .
-
-## Bijlage A
-
-Bij aanvaarding van de aanwijzing tot buitengewoon opsporingsambtenaar legt de desbetreffende persoon de navolgende eden (verklaringen en beloften) af:
-
-- 1. De eed (verklaring en belofte) van zuivering: «Ik zweer (verklaar), dat ik middellijk of onmiddellijk, in welke vorm dan ook, tot het verkrijgen van mijn aanstelling of beëdiging als buitengewoon opsporingsambtenaar aan niemand iets heb gegeven of beloofd. Ik zweer (beloof), dat ik, om iets in mijn betrekking als buitengewoon opsporingsambtenaar te doen of te laten, van niemand, middellijk of onmiddellijk, enige beloften of geschenken zal aannemen. Zo waarlijk helpe mij God almachtig (Dat verklaar en beloof ik)!»
-
-- 2. De ambtseed of ambtsbelofte: «Ik zweer (beloof) trouw aan de Koning, aan de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en aan de wetten van ons land. Ik zweer (beloof) dat ik de krachtens de wet uitgevaardigde voorschriften en verordeningen zal nakomen en handhaven, dat ik de aan mij verstrekte opdrachten plichtsgetrouw en nauwgezet zal volbrengen en de zaken, waarvan ik door mijn ambt kennis draag en die mij als geheim zijn toevertrouwd, of waarvan ik het vertrouwelijke karakter moet begrijpen, niet zal openbaren aan anderen dan aan hen, aan wie ik volgens de wet of ambtshalve tot mededeling verplicht ben. Ik zweer (beloof) dat ik mij zal gedragen zoals een goed buitengewoon opsporingsambtenaar betaamt, dat ik zorgvuldig, onkreukbaar en betrouwbaar zal zijn en dat ik niets zal doen dat het aanzien van het ambt zal schaden. Zo waarlijk helpe mij God almachtig (Dat beloof ik)!»
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 26a
-
-1. Indien de buitengewoon opsporingsambtenaar een uniform of bedrijfskleding draagt, wordt dat uniform of die bedrijfskleding op een duidelijk zichtbare plaats voorzien van een insigne, waarvan het model door Onze Minister wordt vastgesteld.
-
-2. Het eerste lid is niet van toepassing op het uniform van een buitengewoon opsporingsambtenaar werkzaam bij de politie, de Koninklijke marechaussee of de Belastingdienst/Douane.
-
-### Hoofdstuk 6. Het toezicht
-
-#### § 1. Algemeen
-
-#### § 2. De toezichthouder en direct toezichthouder
-
-#### § 3. De werkgever
-
-### Hoofdstuk 7. Registratie
-
-### Hoofdstuk 8. Overgangs- en slotbepalingen
-
-## Bijlage B. bedoeld in artikel 44, eerste lid
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

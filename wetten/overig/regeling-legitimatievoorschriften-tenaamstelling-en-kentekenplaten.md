@@ -1,18 +1,18 @@
 ---
-title: "Regeling legitimatievoorschriften tenaamstelling en kentekenplaten"
+title: "Regeling legitimatievoorschriften kentekenbewijzen en kentekenplaten"
+citeertitel: "Regeling legitimatievoorschriften tenaamstelling en kentekenplaten"
 identifier: "BWBR0007091"
 categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-05-14
+soort: "ministeriele-regeling"
+publicatiedatum: 1995-01-01
+laatste_update: 2026-01-01
 status: geldig
+toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0007091"
+opgehaald: 2026-08-02
 ---
 
 # Regeling legitimatievoorschriften kentekenbewijzen en kentekenplaten
-
-Gelet op [artikel 50, vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50) en de [artikelen 25, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=26), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=28), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=29), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=30), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33), [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=36), [50 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=50), en [51 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=51);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -20,17 +20,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671)
+- *besluit:*
+ [Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671)
 
-- **erkenning inschrijven met onderzoek:** erkenning als bedoeld in [artikel 6 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=6)
+- *erkenning inschrijven met onderzoek:* erkenning als bedoeld in [artikel 6 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=6)
 
-- **erkenning inschrijven zonder onderzoek:** erkenning als bedoeld in [artikel 5 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=5);
+- *erkenning inschrijven zonder onderzoek:* erkenning als bedoeld in [artikel 5 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=5);
 
-- **erkenning tenaamstellen voertuigen bedrijfsvoorraad of importeursvoorraad:** erkenning als bedoeld in [artikel 4 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=4);
+- *erkenning tenaamstellen voertuigen bedrijfsvoorraad of importeursvoorraad:* erkenning als bedoeld in [artikel 4 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=4);
 
-- **erkenning tenaamstellen voertuigen voor derden:** erkenning als bedoeld in [artikel 3 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=3);
+- *erkenning tenaamstellen voertuigen voor derden:* erkenning als bedoeld in [artikel 3 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=3);
 
-- **wet:** [Wegenverkeerswet 1994](onbekend).
+- *wet:*
+ [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622).
 
 ### Hoofdstuk 2. Aanvraag tenaamstelling
 
@@ -58,19 +60,19 @@ In deze regeling wordt verstaan onder:
 
 - a. bij indiening door een tekenbevoegde voor een rechtspersoon:
 
-  - 1°. een actueel uittreksel uit het handelsregister als bedoeld in [artikel 22 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=22), of een afschrift daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen, en
+   - 1°. een actueel uittreksel uit het handelsregister als bedoeld in [artikel 22 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=22), of een afschrift daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen, en
 
-  - 2°. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), genoemde legitimatiebewijzen van de tekenbevoegde.
+   - 2°. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), genoemde legitimatiebewijzen van de tekenbevoegde.
 
 - b. bij indiening door een door een tekenbevoegde gemachtigde:
 
-  - 1°. een actueel uittreksel uit het handelsregister als bedoeld in [artikel 22 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=22), of een afschrift daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen;
+   - 1°. een actueel uittreksel uit het handelsregister als bedoeld in [artikel 22 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=22), of een afschrift daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen;
 
-  - 2°. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), genoemde legitimatiebewijzen van de tekenbevoegde, of een afschrift daarvan;
+   - 2°. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), genoemde legitimatiebewijzen van de tekenbevoegde, of een afschrift daarvan;
 
-  - 3°. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), genoemde legitimatiebewijzen van de door de tekenbevoegde gemachtigde, en
+   - 3°. een van de in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), genoemde legitimatiebewijzen van de door de tekenbevoegde gemachtigde, en
 
-  - 4°. het voor de aanvraag bestemde machtigingsformulier, als bedoeld in [artikel 15, derde lid van de Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&artikel=15).
+   - 4°. het voor de aanvraag bestemde machtigingsformulier, als bedoeld in [artikel 15, derde lid van de Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&artikel=15).
 
 2. Bij een aanvraag van een tenaamstelling, ingediend door een erkend bedrijf tenaamstellen voertuigen voor derden of een erkend bedrijf tenaamstellen bedrijfsvoorraad of importeursvoorraad is het eerste lid van overeenkomstige toepassing, met dien verstande dat uitsluitend een geldig Nederlands rijbewijs, als bedoeld in [artikel 107 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107), als legitimatiebewijs kan dienen.
 
@@ -78,23 +80,31 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Aanvrager niet-ingeschreven rechtspersoon
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. Aanvraag vervangend kentekenbewijs met contante of electronische betaling
 
-##### Artikel 9. Aanvraag verval tenaamstelling bij voorgoed buiten Nederland brengen en aanvraag transitokenteken
+##### Artikel 5
 
-Bij de aanvraag tot verval van de tenaamstelling op grond van de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31) en [32 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32) dan wel bij de aanvraag van een kenteken als bedoeld in [artikel 4, derde lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), legt de aanvrager een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), genoemde legitimatiebewijzen over, met dien verstande dat bij de aanvraag van een kenteken als bedoeld in [artikel 4, derde lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) kan ook een ander in Nederland geldig buitenlands reisdocument worden overgelegd dan de in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), genoemde.
+*Vervallen*
 
-##### Artikel 10
+##### Artikel 6. Aanvrager natuurlijke persoon
 
-De regeling van de Minister van Verkeer en Waterstaat van 6 december 1991, nr. RV 110015, Hoofddirectie van de Waterstaat (Stcrt. 244), houdende voorschriften legitimatie bij aanvraag kentekenbewijs, wordt ingetrokken.
+*Vervallen*
 
-##### Artikel 11
+##### Artikel 7. Aanvrager ingeschreven rechtspersoon
 
-Deze regeling treedt in werking met ingang van 1 januari 1995.
+*Vervallen*
 
-### Hoofdstuk 4. Aanvraag (opheffing) schorsing en vervangend deel II voor versleten of geheel of ten dele onleesbaar deel II
+##### Artikel 7a. Aanvrager niet-ingeschreven rechtspersoon
+
+*Vervallen*
+
+##### Artikel 7b. Aanvrager erkend bedrijf
+
+*Vervallen*
+
+### Hoofdstuk 4. Aanvraag schorsing tenaamstelling en aanvraag beëindiging schorsing tenaamstelling
 
 ##### Artikel 8
 
@@ -112,27 +122,21 @@ Indien de aanvraag wordt ingediend door een tekenbevoegde voor een rechtspersoon
 
 ##### Artikel 8c. Aanvrager niet-ingeschreven rechtspersoon
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4a. Aanvraag kentekenbewijs niet-nederlandse aanhangwagen
 
 ##### Artikel 8d
 
-Vervallen
-
-### Hoofdstuk 4a. Aanvraag kentekenbewijs niet-nederlandse aanhangwagen
-
-##### Artikel 9
-
-Bij het overleggen van de in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32) en [33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) bedoelde verklaring alsmede bij de aanvraag van een kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, zesde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), dient degene die de verklaring overlegt, een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2002-09-01&g=2002-09-01), genoemde legitimatiebewijzen over te leggen, met dien verstande dat:
-
-- a. geen afschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=1&artikel=1&z=2002-09-01&g=2002-09-01) behoeft te worden overgelegd,
-
-- b. ook een ander in Nederland geldig buitenlands reisdocument kan worden overgelegd dan de in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2002-09-01&g=2002-09-01), genoemde, en
-
-- c. indien de in het eerste lid bedoelde verklaring wordt overgelegd door een erkend bedrijf, uitsluitend een aan het bedrijf afgegeven geldige bedrijfsvoorraadpas dient te worden overgelegd.
+*Vervallen*
 
 ### Hoofdstuk 5. Aanvraag verval tenaamstelling bij voorgoed buiten Nederland brengen, bij aanvraag transitokenteken
+
+##### Artikel 9. Aanvraag verval tenaamstelling bij voorgoed buiten Nederland brengen en aanvraag transitokenteken
+
+Bij de aanvraag tot verval van de tenaamstelling op grond van de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31) en [32 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32) dan wel bij de aanvraag van een kenteken als bedoeld in [artikel 4, derde lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), legt de aanvrager een van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), genoemde legitimatiebewijzen over, met dien verstande dat bij de aanvraag van een kenteken als bedoeld in [artikel 4, derde lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) kan ook een ander in Nederland geldig buitenlands reisdocument worden overgelegd dan de in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), genoemde.
+
+### Hoofdstuk 5 a. Verkrijging kentekenplaten
 
 ##### Artikel 9 a. Verkrijging door een natuurlijk persoon
 
@@ -162,17 +166,17 @@ In afwijking van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&ho
 
 ##### Artikel 9d. Uitzonderingen
 
-1. Een legitimatiebewijs als bedoeld in onderdeel a van de [artikelen 9 a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2026-01-01&g=2026-01-01) en [9 c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_c&z=2026-01-01&g=2026-01-01) hoeft niet te worden overgelegd bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot en met 27.29 en 30.7 tot en met 30.16 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend).
+1. Een legitimatiebewijs als bedoeld in onderdeel a van de [artikelen 9 a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2026-01-01&g=2026-01-01) en [9 c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_c&z=2026-01-01&g=2026-01-01) hoeft niet te worden overgelegd bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot en met 27.29 en 30.7 tot en met 30.16 van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071).
 
 2. Een kentekenbewijs als bedoeld in onderdeel b van de [artikelen 9 a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2026-01-01&g=2026-01-01) en [9 c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_c&z=2026-01-01&g=2026-01-01) hoeft niet te worden overgelegd bij vervanging van beschadigde kentekenplaten
 
-3. Bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot 27.17E, 30.7 en 30.8 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) kan in plaats van het kentekenbewijs een proces-verbaal van aangifte van vermissing of diefstal van het kentekenbewijs en de desbetreffende kentekenplaten worden overgelegd.
+3. Bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot 27.17E, 30.7 en 30.8 van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071) kan in plaats van het kentekenbewijs een proces-verbaal van aangifte van vermissing of diefstal van het kentekenbewijs en de desbetreffende kentekenplaten worden overgelegd.
 
-4. Bij de verkrijging van kentekenplaten volgens de modellen 27.24A tot en met 27.26E van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) kan in plaats van de kentekencard, het deel IA of het deel I van het kentekenbewijs, het kentekenbewijs deel II als bedoeld in [artikel 17, tweede lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=17) worden overgelegd.
+4. Bij de verkrijging van kentekenplaten volgens de modellen 27.24A tot en met 27.26E van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071) kan in plaats van de kentekencard, het deel IA of het deel I van het kentekenbewijs, het kentekenbewijs deel II als bedoeld in [artikel 17, tweede lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=17) worden overgelegd.
 
 ##### Artikel 9e. Verkrijging van een taxikentekenplaat
 
-1. In afwijking in zoverre van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2026-01-01&g=2026-01-01) en [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_c&z=2026-01-01&g=2026-01-01), worden bij de verkrijging van kentekenplaten volgens de [modellen 18.2A tot en met 18.2E](onbekend) met lichtblauwe kleur, en 27.30A tot en met 27.31E door een natuurlijke persoon, respectievelijk een rechtspersoon, overgelegd:
+1. In afwijking in zoverre van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2026-01-01&g=2026-01-01) en [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_c&z=2026-01-01&g=2026-01-01), worden bij de verkrijging van kentekenplaten volgens de [modellen 18.2A tot en met 18.2E](https://wetten.overheid.nl/BWBR0009071) met lichtblauwe kleur, en 27.30A tot en met 27.31E door een natuurlijke persoon, respectievelijk een rechtspersoon, overgelegd:
 
 - a. de in de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2026-01-01&g=2026-01-01), bedoelde documenten, en
 
@@ -186,15 +190,15 @@ In afwijking van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&ho
 
 - c. voor wat betreft:
 
-  - 1°. na 30 mei 2004 afgegeven kentekenbewijzen, een afschrift van een te naam gesteld kentekenbewijs, niet zijnde een kentekenbewijs dat is afgegeven voor een voertuig in bedrijfsvoorraad, delen I A en I B, afgegeven voor het betrokken voertuig, waarbij op het deel I A of deel I een aantekening moet zijn geplaatst waaruit blijkt dat het voertuig als taxi is goedgekeurd dan wel een aanvraag voor een zodanig kentekenbewijs dan wel
+   - 1°. na 30 mei 2004 afgegeven kentekenbewijzen, een afschrift van een te naam gesteld kentekenbewijs, niet zijnde een kentekenbewijs dat is afgegeven voor een voertuig in bedrijfsvoorraad, delen I A en I B, afgegeven voor het betrokken voertuig, waarbij op het deel I A of deel I een aantekening moet zijn geplaatst waaruit blijkt dat het voertuig als taxi is goedgekeurd dan wel een aanvraag voor een zodanig kentekenbewijs dan wel
 
-  - 2°. voor 31 mei 2004 afgegeven kentekenbewijzen, een afschrift van een te naam gesteld kentekenbewijs, niet zijnde een kentekenbewijs dat is afgegeven voor een voertuig in bedrijfsvoorraad, delen I en II, afgegeven voor het betrokken voertuig, waarbij op het deel I een aantekening moet zijn geplaatst waaruit blijkt dat het voertuig als taxi is goedgekeurd dan wel een aanvraag voor een zodanig kentekenbewijs, en
+   - 2°. voor 31 mei 2004 afgegeven kentekenbewijzen, een afschrift van een te naam gesteld kentekenbewijs, niet zijnde een kentekenbewijs dat is afgegeven voor een voertuig in bedrijfsvoorraad, delen I en II, afgegeven voor het betrokken voertuig, waarbij op het deel I een aantekening moet zijn geplaatst waaruit blijkt dat het voertuig als taxi is goedgekeurd dan wel een aanvraag voor een zodanig kentekenbewijs, en
 
 - d. ingeval de tenaamstelling op het kentekenbewijs en die op de in onderdeel a bedoelde vergunning niet overeenkomen, een gezamenlijke verklaring van de vergunninghouder en de tenaamgestelde op het kentekenbewijs, inhoudende dat het voertuig waarvoor de kentekenplaten worden verkregen, voor taxivervoer wordt gebruikt in het kader van de onderneming van de vergunninghouder.
 
 3. Bij vervanging van de in het eerste lid bedoelde kentekenplaten na beëindiging van het gebruik van het voertuig als taxi, door andere kentekenplaten dient een legitimatiebewijs als bedoeld van [artikel 9a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&hoofdstuk=5_a&artikel=9_a&z=2026-01-01&g=2026-01-01) overgelegd te worden.
 
-### Hoofdstuk 6
+### Hoofdstuk 6. Slotbepalingen
 
 ##### Artikel 10
 
@@ -207,29 +211,3 @@ Deze regeling treedt in werking met ingang van 1 januari 1995.
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling legitimatievoorschriften tenaamstelling en kentekenplaten.
-
-##### Artikel 5
-
-Vervallen
-
-##### Artikel 6. Aanvrager natuurlijke persoon
-
-Vervallen
-
-##### Artikel 7. Aanvrager ingeschreven rechtspersoon
-
-Vervallen
-
-##### Artikel 7a. Aanvrager niet-ingeschreven rechtspersoon
-
-Vervallen
-
-##### Artikel 7b. Aanvrager erkend bedrijf
-
-Vervallen
-
-### Hoofdstuk 4. Aanvraag schorsing tenaamstelling en aanvraag beëindiging schorsing tenaamstelling
-
-### Hoofdstuk 5 a. Verkrijging kentekenplaten
-
-### Hoofdstuk 6. Slotbepalingen

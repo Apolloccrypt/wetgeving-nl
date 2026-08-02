@@ -1,46 +1,43 @@
 ---
 title: "Tijdelijke beleidsregeling bijdragen vaarwegaansluitingen"
 identifier: "BWBR0007716"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-01-01"
-last_updated: "1996-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007716"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3632133"
-version_id: "5415382"
-internal_id: "C5608471"
-label_id: "3612264"
-dtd_version: "2.0"
-original_entry_into_force: "1996-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007716/1996-01-01/0"
-intitule_bron: "Stcrt.1995-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-11"
-intitule_published: "1995-12-20"
-intitule_in_force: "1995-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-247"
-original_signed_date: "1995-12-11"
-original_published_date: "1995-12-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-01-01"
-jci_1_3: "jci1.3:c:BWBR0007716&z=1996-01-01&g=1996-01-01"
-jci_1_0: "1.0:c:BWBR0007716&g=1996-01-01"
-citeertitel_status: "officieel"
-signed_date: "1995-12-11"
-entry_into_force: "1996-01-01"
+publicatiedatum: 1996-01-01
+laatste_update: 1996-01-01
+status: geldig
+toestand: 1996-01-01
+bron: "https://wetten.overheid.nl/BWBR0007716"
+opgehaald: 2026-08-02
 ---
-# Tijdelijke beleidsregeling bijdragen vaarwegaansluitingen
 
-Besluit:
+# Tijdelijke beleidsregeling bijdragen vaarwegaansluitingen
 
 #### § 1. Algemeen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+vaarwegaansluiting:
+
+aansluiting van een bedrijfsterrein of haventerrein op het vaarwegennet via een niet-openbare terminal waar overslag plaatsvindt uitsluitend ten behoeve van één of enkele verladers;
+
+Minister:
+
+Minister van Verkeer en Waterstaat;
+
+Besluit:
+
+[Besluit Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006264);
+
+bijdrage:
+
+bijdrage voor een investering, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006264&artikel=2), van het Besluit.
+
+infrastructuur:
+
+voorzieningen die ten behoeve van een vaarwegaansluiting moeten worden gerealiseerd, niet zijnde overslagfaciliteiten
 
 ##### Artikel 2
 
@@ -197,5 +194,3 @@ In 2001 brengt de Minister een rapport uit, houdende evaluatie van de doelmatigh
 ##### Artikel 16
 
 Deze beleidsregeling wordt aangehaald als: Tijdelijke beleidsregeling bijdragen vaarwegaansluitingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

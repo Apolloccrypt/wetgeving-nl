@@ -1,40 +1,17 @@
 ---
 title: "Instellingsbesluit veiligheidsadviescommissie Schiphol"
 identifier: "BWBR0007251"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-03-02"
-last_updated: "1995-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007251"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3542513"
-version_id: "5325642"
-internal_id: "C5518731"
-label_id: "3522514"
-dtd_version: "2.0"
-original_entry_into_force: "1995-03-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007251/1995-03-02/0"
-intitule_bron: "Stcrt.1995-42"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-02-21"
-intitule_published: "1995-02-28"
-intitule_in_force: "1995-02-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-42"
-original_signed_date: "1995-02-21"
-original_published_date: "1995-02-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-03-02"
-jci_1_3: "jci1.3:c:BWBR0007251&z=1995-03-02&g=1995-03-02"
-jci_1_0: "1.0:c:BWBR0007251&g=1995-03-02"
-citeertitel_status: "officieel"
-signed_date: "1995-02-21"
-entry_into_force: "1995-03-02"
+publicatiedatum: 1995-03-02
+laatste_update: 1995-03-02
+status: geldig
+toestand: 1995-03-02
+bron: "https://wetten.overheid.nl/BWBR0007251"
+opgehaald: 2026-08-02
 ---
-# Instellingsbesluit veiligheidsadviescommissie Schiphol
 
-Besluit:
+# Instellingsbesluit veiligheidsadviescommissie Schiphol
 
 ##### Artikel 1
 

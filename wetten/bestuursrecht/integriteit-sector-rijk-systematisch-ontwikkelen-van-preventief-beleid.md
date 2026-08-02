@@ -1,40 +1,17 @@
 ---
 title: "Integriteit sector Rijk; systematisch ontwikkelen van preventief beleid"
 identifier: "BWBR0007059"
-country: "nl"
-rank: "circulaire"
-publication_date: "1994-12-06"
-last_updated: "1994-12-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007059"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6267963"
-version_id: "10951802"
-internal_id: "C14849411"
-label_id: "6256884"
-original_entry_into_force: "1994-12-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007059/1994-12-06/0"
-intitule_bron: "Stcrt.1995-19"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-06"
-intitule_published: "1995-01-26"
-intitule_in_force: "1995-01-26"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-19"
-original_signed_date: "1994-12-06"
-original_published_date: "1995-01-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1995-19-p0-SC1873"
-entry_into_force_date: "1994-12-06"
-jci_1_3: "jci1.3:c:BWBR0007059&z=1994-12-06&g=1994-12-06"
-jci_1_0: "1.0:c:BWBR0007059&g=1994-12-06"
-citeertitel_status: "redactioneel"
-signed_date: "1994-12-06"
-entry_into_force: "1994-12-06"
+publicatiedatum: 1994-12-06
+laatste_update: 1994-12-06
+status: geldig
+toestand: 1994-12-06
+bron: "https://wetten.overheid.nl/BWBR0007059"
+opgehaald: 2026-08-02
 ---
-# Integriteit sector Rijk; systematisch ontwikkelen van preventief beleid
 
-Circulaire aan de ministers
+# Integriteit sector Rijk; systematisch ontwikkelen van preventief beleid
 
 ### I. Samenvatting
 
@@ -66,6 +43,54 @@ Ik merk hierbij nog het volgende op.
 
 Bij het ontwikkelen van preventief beleid worden de volgende zeven stappen onderscheiden; per stap worden de mogelijke maatregelen en instrumenten aangeduid.
 
+- 1. Het doorlichten van de organisatie
+
+   - a. bepaling van intrinsiek kwetsbare onderdelen van de organisatie en onderdelen daarvan;
+
+   - b. inventarisatie van kwetsbare functies.
+
+- 2. Het veilig stellen van de integriteit van de organisatie
+
+   - a. functiescheiding en controle;
+
+   - b. aanwijzen van bijzondere functies;
+
+   - c. functieroulatie;
+
+   - d. instellen visitatiecommissies en aanstellen van vertrouwensfiguren;
+
+   - e. transparant maken van overheidshandelen.
+
+- 3. Het systematisch bewaken van de toetreding
+
+   - a. beëdiging;
+
+   - b. werving en selectie.
+
+- 4. De gedragsregels voor medewerkers
+
+   - a. gedragsregels voor ambtenaren
+
+   - b. praktische regels met betrekking tot de omgang met burgers.
+
+- 5. Het levend houden van de gedragsregels
+
+   - a. functioneringsgesprekken;
+
+   - b. opleiding en vorming;
+
+   - c. op managementagenda plaatsen.
+
+- 6. De controle op de naleving van de gedragsregels
+
+- 7. De maatregelen in geval van ontoelaatbare handelingen of het risico daarop
+
+   - a. overplaatsing/ontheffing;
+
+   - b. aangifte;
+
+   - c. disciplinaire bestraffing.
+
 Bij de concretisering van het bovenstaande kunt u gebruik maken van de inhoud van de twee bovengenoemde notities. Afhankelijk van de situatie kan het, te uwer beoordeling, nodig zijn andere accenten te leggen of bestaande instrumenten aan te scherpen.
 
 Ik teken hier nog bij aan dat het aanbeveling verdient de genoemde maatregelen en instrumenten in samenhang te bezien. Een optimaal beleid wordt met name verkregen indien niet slechts aan onderdelen, maar juist aan alle aspecten die in de onderscheiden stappen zijn genoemd bij de beleidsontwikkeling aandacht wordt geschonken.
@@ -85,11 +110,3 @@ Het grote belang van het onderwerp Integriteit in de openbare sector blijkt onde
 Het ligt in mijn voornemen ook deze circulaire en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0007059&bijlage=1&z=1994-12-06&g=1994-12-06) aan te bieden aan de Kamer en daarbij mee te delen dat ik de ontwikkelingen bij de departementen zal volgen. Ik wil daarbij toezeggen dat ik eind volgend jaar de Kamer op de hoogte zal brengen van de vorderingen terzake. Tegen die tijd zal ik met u contact opnemen voor de verkrijging van de daarvoor nodige informatie.
 
 Gelijktijdig verschijnt in het kader van het thema Integriteit, een [circulaire Nevenwerkzaamheden rijksambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0007060) (kenmerk AD94/U 825).
-
-## Bijlage 1
-
-Ligt ter inzage bij het ministerie van Binnenlandse Zaken.
-
-## Bijlage 2
-
-Ligt ter inzage bij het ministerie van Binnenlandse Zaken.

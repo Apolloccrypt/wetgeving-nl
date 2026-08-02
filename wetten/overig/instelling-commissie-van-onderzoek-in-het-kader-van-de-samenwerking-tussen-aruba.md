@@ -1,44 +1,17 @@
 ---
 title: "Instelling Commissie van onderzoek in het kader van de samenwerking tussen Aruba en Nederland op het gebied van criminaliteitsbestrijding"
 identifier: "BWBR0008067"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-07-01"
-last_updated: "1996-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008067"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3539593"
-version_id: "5322712"
-internal_id: "C5515801"
-label_id: "3519584"
-dtd_version: "2.0"
-original_entry_into_force: "1996-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008067/1996-07-01/0"
-intitule_bron: "Stcrt.1996-99"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-05-24"
-intitule_published: "1996-05-28"
-intitule_in_force: "1996-05-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-99"
-original_signed_date: "1996-05-24"
-original_published_date: "1996-05-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-07-01"
-jci_1_3: "jci1.3:c:BWBR0008067&z=1996-07-01&g=1996-07-01"
-jci_1_0: "1.0:c:BWBR0008067&g=1996-07-01"
-citeertitel_status: "officieel"
-signed_date: "1996-05-24"
-entry_into_force: "1996-07-01"
+publicatiedatum: 1996-07-01
+laatste_update: 1996-07-01
+status: geldig
+toestand: 1996-07-01
+bron: "https://wetten.overheid.nl/BWBR0008067"
+opgehaald: 2026-08-02
 ---
+
 # Instelling Commissie van onderzoek in het kader van de samenwerking tussen Aruba en Nederland op het gebied van criminaliteitsbestrijding
-
-Overwegende, dat het overleg in het kader van de justitiële samenwerking tussen Nederland en Aruba zoals vastgelegd in het Protocol van 9 september 1995 en mede naar aanleiding van het verzoek van de regering van Aruba te overleggen over diverse rapportages en evaluaties met betrekking tot de justitiële samenwerking, tot overeenstemming heeft geleid;
-
-handelende in overeenstemming met het gevoelen van de raad van ministers van het Koninkrijk;
-
-Besluit:
 
 ##### Artikel 1
 

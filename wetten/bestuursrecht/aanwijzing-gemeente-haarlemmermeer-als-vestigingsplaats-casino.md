@@ -1,46 +1,17 @@
 ---
 title: "Aanwijzing gemeente Haarlemmermeer als vestigingsplaats casino"
 identifier: "BWBR0007252"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-03-01"
-last_updated: "1995-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007252"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "4861543"
-version_id: "7791602"
-internal_id: "C9507891"
-label_id: "4839494"
-dtd_version: "2.0"
-original_entry_into_force: "1995-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007252/1995-03-01/0"
-intitule_bron: "Stcrt.1995-42"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-02-21"
-intitule_published: "1995-02-28"
-intitule_in_force: "1995-02-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-42"
-original_signed_date: "1995-02-21"
-original_published_date: "1995-02-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-03-01"
-jci_1_3: "jci1.3:c:BWBR0007252&z=1995-03-01&g=1995-03-01"
-jci_1_0: "1.0:c:BWBR0007252&g=1995-03-01"
-citeertitel_status: "officieel"
-signed_date: "1995-02-21"
-entry_into_force: "1995-03-01"
+publicatiedatum: 1995-03-01
+laatste_update: 1995-03-01
+status: geldig
+toestand: 1995-03-01
+bron: "https://wetten.overheid.nl/BWBR0007252"
+opgehaald: 2026-08-02
 ---
+
 # Aanwijzing gemeente Haarlemmermeer als vestigingsplaats casino
-
-Gelet op [artikel 27p van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27p);
-
-Gezien de voordracht van de Raad voor de Casinospelen dd. 22 januari 1993;
-
-Overwegende dat blijkens mededeling van Burgemeester en Wethouders van Haarlemmermeer dd. 23 september 1994, de gemeenteraad van Haarlemmermeer heeft ingestemd met de aanwijzing van die gemeente als vestigingsplaats van een casino;
-
-Besluiten:
 
 ##### Artikel 1
 

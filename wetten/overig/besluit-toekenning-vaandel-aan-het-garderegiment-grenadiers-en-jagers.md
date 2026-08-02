@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 22 september 1994, houdende toekenning vaandel aan het Garderegiment Grenadiers en Jagers"
+citeertitel: "Besluit toekenning vaandel aan het Garderegiment Grenadiers en Jagers"
 identifier: "BWBR0006934"
-country: "nl"
-rank: "kb"
-publication_date: "1995-04-06"
-last_updated: "1995-04-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006934"
+categorie: "Overig"
 soort: "KB"
-stam_id: "1037333"
-version_id: "1523372"
-internal_id: "C1523371"
-label_id: "1004824"
-dtd_version: "2.0"
-original_entry_into_force: "1995-04-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006934/1995-04-06/0"
-intitule_bron: "Stb.1994-778"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-09-22"
-intitule_status: "goed"
-original_publication: "Stb.1994-778"
-original_signed_date: "1994-09-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-04-06"
-jci_1_3: "jci1.3:c:BWBR0006934&z=1995-04-06&g=1995-04-06"
-jci_1_0: "1.0:c:BWBR0006934&g=1995-04-06"
-citeertitel_status: "officieel"
-short_title: "Besluit toekenning vaandel aan het Garderegiment Grenadiers en Jagers"
-signed_date: "1994-09-22"
-entry_into_force: "1995-04-06"
+publicatiedatum: 1995-04-06
+laatste_update: 1995-04-06
+status: geldig
+toestand: 1995-04-06
+bron: "https://wetten.overheid.nl/BWBR0006934"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 22 september 1994, houdende toekenning vaandel aan het Garderegiment Grenadiers en Jagers
-
-Op de voordracht van Onze Minister van Defensie van 13 september 1994, Bevelhebber der Landstrijdkrachten nummer KAB/8659;
-
-Overwegende dat het is gewenst, in verband met de herstructurering van de Koninklijke Landmacht, wijziging te brengen in de vredessamenstelling van het Garderegiment Grenadiers en van het Garderegiment Jagers, de plaatsing van officieren, de traditiehandhaving en de vaandels alsmede de opschriften.
-
-Gelet op het gestelde in het Koninklijk Besluit van 7 juli 1829, nummer 104 sindsdien herhaaldelijk gewijzigd en het Koninklijk Besluit van 12 maart 1977, nummer 101 laatstelijk gewijzigd bij Ons besluit van 26 januari 1983, nummer 72.
-
-Hebben goedgevonden en verstaan;
 
 ##### Artikel 1
 
@@ -83,5 +57,3 @@ In het Koninklijk Besluit van 12 maart 1977, nummer 101, [artikel 3 lid 2](https
 ##### Artikel 6
 
 Dit Besluit treedt per 6 april 1995 in werking.
-
-Onze Minister van Defensie is belast met de uitvoering van dit Besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan Onze Adjudant-Generaal, tevens Chef van Ons Militaire Huis.

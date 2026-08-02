@@ -1,38 +1,17 @@
 ---
 title: "Voorschriften van Bangladesh tot uitvoering van het op 13 juli 1993 tussen Nederland en Bangladesh gesloten Verdrag tot het vermijden van dubbele belasting"
+citeertitel: "Voorschriften van Bangladesh tot uitvoering belastingverdrag Nederland-Bangladesh"
 identifier: "BWBR0007426"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-08-01"
-last_updated: "1995-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007426"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4030463"
-version_id: "5803562"
-internal_id: "C6006301"
-label_id: "4010434"
-dtd_version: "2.0"
-original_entry_into_force: "1995-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007426/1995-08-01/0"
-intitule_bron: "Stcrt.1995-110"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-06-02"
-intitule_published: "1995-06-12"
-intitule_in_force: "1995-06-12"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-110"
-original_signed_date: "1995-06-02"
-original_published_date: "1995-06-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-08-01"
-jci_1_3: "jci1.3:c:BWBR0007426&z=1995-08-01&g=1995-08-01"
-jci_1_0: "1.0:c:BWBR0007426&g=1995-08-01"
-citeertitel_status: "officieel"
-short_title: "Voorschriften van Bangladesh tot uitvoering belastingverdrag Nederland-Bangladesh"
-signed_date: "1995-06-02"
-entry_into_force: "1995-08-01"
+publicatiedatum: 1995-08-01
+laatste_update: 1995-08-01
+status: geldig
+toestand: 1995-08-01
+bron: "https://wetten.overheid.nl/BWBR0007426"
+opgehaald: 2026-08-02
 ---
+
 # Voorschriften van Bangladesh tot uitvoering van het op 13 juli 1993 tussen Nederland en Bangladesh gesloten Verdrag tot het vermijden van dubbele belasting
 
 #### Regeling inzake vermindering en vrijstelling van belasting van Bangladesh op dividenden, interest, en royalty's, genoten door inwoners van Nederland
@@ -63,25 +42,25 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007426&a
 
 - 1. Belasting van Bangladesh Volgens de huidige wetgeving in Bangladesh:
 
-- a. zijn dividenden betaald aan natuurlijke personen en lichamen die geen inwoner zijn van Bangladesh onderworpen aan een bronheffing van respectievelijk 25 en 15 percent;
+   - a. zijn dividenden betaald aan natuurlijke personen en lichamen die geen inwoner zijn van Bangladesh onderworpen aan een bronheffing van respectievelijk 25 en 15 percent;
 
-- b. is interest betaald aan natuurlijke personen die geen inwoner zijn van Bangladesh onderworpen aan een bronheffing van 25 percent;
+   - b. is interest betaald aan natuurlijke personen die geen inwoner zijn van Bangladesh onderworpen aan een bronheffing van 25 percent;
 
-- c. is interest betaald aan lichamen die geen inwoner zijn van Bangladesh onderworpen aan een belastingheffing die varieert in hoogte tussen 37,5 en 50 percent, naar gelang het karakter van het ontvangende lichaam;
+   - c. is interest betaald aan lichamen die geen inwoner zijn van Bangladesh onderworpen aan een belastingheffing die varieert in hoogte tussen 37,5 en 50 percent, naar gelang het karakter van het ontvangende lichaam;
 
-- d. zijn royalty’s betaald aan natuurlijke personen en lichamen die geen inwoner zijn van Bangladesh onderworpen aan een bronbelasting van 25 percent;
+   - d. zijn royalty’s betaald aan natuurlijke personen en lichamen die geen inwoner zijn van Bangladesh onderworpen aan een bronbelasting van 25 percent;
 
 - 2. Wijze waarop de vermindering of vrijstelling met betrekking tot dividenden, interest en royalty’s wordt verleend Als algemene regel geldt dat in Bangladesh de belasting bij de uitbetaling van de dividenden, interest en royalty’s ten volle wordt ingehouden of geheven en dat vervolgens de vermindering of vrijstelling waarop de belanghebbende inwoner van Nederland op grond van het Verdrag aanspraak heeft, hem/haar wordt verleend door teruggaaf van hetgeen te veel is ingehouden of geheven. Voor het verkrijgen van deze teruggaaf is geen speciaal formulier vastgesteld. De betrokken inwoner van Nederland dient zich met een verzoek om teruggaaf te wenden tot de Deputy Commissioner of Taxes die ten aanzien van hem/haar bevoegd is. De naam en het adres van vorenbedoelde Deputy Commissioner of Taxes dient de Nederlandse genieter van de dividenden, interest en royalty’s te vragen aan de in Bangladesh wonende of gevestigde schuldenaar van die inkomsten. In het verzoek om teruggaaf, gesteld in de Engelse taal, dient de betrokken inwoner van Nederland de volgende gegevens te verstrekken:
 
-- a. de naam en het adres van het uitbetalende lichaam, het aantal aandelen, de datum(s) van betaalbaarstelling van de dividenden, de brutobedragen van de dividenden en de be-dragen van de daarop ingehouden belasting;
+   - a. de naam en het adres van het uitbetalende lichaam, het aantal aandelen, de datum(s) van betaalbaarstelling van de dividenden, de brutobedragen van de dividenden en de be-dragen van de daarop ingehouden belasting;
 
-- b. de dividendnota’s (of gewaarmerkte afschriften daarvan) dan wel enige andere bewijsstukken, die werden afgegeven met betrekking tot de dividenden. Uit de dividendnota’s/bewijsstukken moeten de brutobedragen van de dividenden blijken alsmede dat de terug te geven belasting ten laste van de verzoeker werd ingehouden;
+   - b. de dividendnota’s (of gewaarmerkte afschriften daarvan) dan wel enige andere bewijsstukken, die werden afgegeven met betrekking tot de dividenden. Uit de dividendnota’s/bewijsstukken moeten de brutobedragen van de dividenden blijken alsmede dat de terug te geven belasting ten laste van de verzoeker werd ingehouden;
 
-- c. de gegevens omtrent de interest of royalty’s;
+   - c. de gegevens omtrent de interest of royalty’s;
 
-- d. de naam en het adres in Bangladesh van de schuldenaar van de interest of royalty’s, de datum(s) van betaalbaarstelling van de interest of royalty’s, de brutobedragen van de interest of royalty’s en de bedragen van de daarop ingehouden of daarover geheven belasting van Bangladesh;
+   - d. de naam en het adres in Bangladesh van de schuldenaar van de interest of royalty’s, de datum(s) van betaalbaarstelling van de interest of royalty’s, de brutobedragen van de interest of royalty’s en de bedragen van de daarop ingehouden of daarover geheven belasting van Bangladesh;
 
-- e. dat hij/zij op de datum van betaalbaarstelling van de desbetreffende dividenden, interest of royalty’s de uiteindelijk gerechtigde was tot die inkomsten. Bij het verzoek om teruggaaf moet de belanghebbende inwoner van Nederland overleggen een gedateerde en ondertekende verklaring van de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij/zij woont of gevestigd is, inhoudende een bevestiging dat hij/zij op de datum(s) van betaling van de desbetreffende dividenden, interest of royalty’s inwoner van Nederland was in de zin van artikel 4 van het tussen Nederland en Bangladesh gesloten belastingverdrag. Deze verklaring kan door de belanghebbende inwoner van Nederland worden aangevraagd bij vorenbedoelde inspecteur van de eenheid van de Belastingdienst. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Inspector of the Local Office of the Tax and Customs Administration at............... certifies that ........................... (name and address of the applicant) on the payable date(s) of the dividends/interest/ royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and the People’s Republic of Bangladesh for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
+   - e. dat hij/zij op de datum van betaalbaarstelling van de desbetreffende dividenden, interest of royalty’s de uiteindelijk gerechtigde was tot die inkomsten. Bij het verzoek om teruggaaf moet de belanghebbende inwoner van Nederland overleggen een gedateerde en ondertekende verklaring van de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij/zij woont of gevestigd is, inhoudende een bevestiging dat hij/zij op de datum(s) van betaling van de desbetreffende dividenden, interest of royalty’s inwoner van Nederland was in de zin van artikel 4 van het tussen Nederland en Bangladesh gesloten belastingverdrag. Deze verklaring kan door de belanghebbende inwoner van Nederland worden aangevraagd bij vorenbedoelde inspecteur van de eenheid van de Belastingdienst. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Inspector of the Local Office of the Tax and Customs Administration at............... certifies that ........................... (name and address of the applicant) on the payable date(s) of the dividends/interest/ royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and the People’s Republic of Bangladesh for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
 
 - 3. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf van belasting van Bangladesh moeten worden ingediend binnen een tijdvak van vier jaren na afloop van het aanslagjaar waarin de belasting is geheven (onderdeel III van het Protocol).
 

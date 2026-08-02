@@ -1,46 +1,51 @@
 ---
 title: "Liquiditeitsregeling Centrale Sociale Verzekeringsfondsen"
 identifier: "BWBR0008154"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008154"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "4428733"
-version_id: "6225202"
-internal_id: "C6429411"
-label_id: "4407284"
-dtd_version: "2.0"
-original_entry_into_force: "1996-07-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008154/2015-01-01/0"
-intitule_bron: "Stcrt.1996-129"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-07-03"
-intitule_published: "1996-07-09"
-intitule_in_force: "1996-07-09"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-129"
-original_signed_date: "1996-07-03"
-original_published_date: "1996-07-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-07-11"
-jci_1_3: "jci1.3:c:BWBR0008154&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0008154&g=2015-01-01"
-citeertitel_status: "officieel"
-signed_date: "1996-07-03"
-entry_into_force: "1996-07-11"
+publicatiedatum: 1996-07-11
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0008154"
+opgehaald: 2026-08-02
 ---
+
 # Liquiditeitsregeling Centrale Sociale Verzekeringsfondsen
-
-Gelet op [artikel 71, Organisatiewet sociale verzekeringen, artikel 106a, Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=106a) en [artikel 41, Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538&artikel=41);
-
-Besluiten:
 
 ##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder:
+
+a.
+
+de Lisv-cluster:
+
+het Algemeen Arbeidsongeschiktheidsfonds, genoemd in [artikel 34 van de Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538&artikel=34); het Algemeen Werkloosheidsfonds, genoemd in [artikel 103 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=103), het Uitvoeringsfonds voor de overheid, genoemd in [artikel 104 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=104) en het Arbeidsongeschiktheidsfonds, genoemd in [artikel 72 van de Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=72);
+
+b.
+
+de SVb-cluster:
+
+het Ouderdomsfonds en het Nabestaandenfonds, genoemd in [artikel 28 van de Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538&artikel=28);
+
+c.
+
+de Zfr-cluster:
+
+het Fonds langdurige zorg, genoemd in [artikel 89 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=89), en het Zorgverzekeringsfonds, genoemd in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39);
+
+d.
+
+centrale sociale verzekeringsfondsen:
+
+de fondsen, genoemd in de in onderdeel a,b, en c genoemde clusters;
+
+e.
+
+lening:
+
+een lening als bedoeld in artikel 67, zesde lid, Organisatiewet sociale verzekeringen 1997.
 
 ##### Artikel 2
 

@@ -8,7 +8,7 @@ laatste_update: 2026-07-27
 status: geldig
 toestand: 2026-07-27
 bron: "https://wetten.overheid.nl/BWBR0052892"
-opgehaald: 2026-07-31
+opgehaald: 2026-08-02
 ---
 
 # Besluit verhoging subsidieplafond en indieningstermijn paragraaf 2: Projecten Projectregeling cultuureducatie in het vmbo, vso en pro 2025–2028

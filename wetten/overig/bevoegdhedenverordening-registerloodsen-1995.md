@@ -1,45 +1,18 @@
 ---
 title: "Verordening inzake de aanwijzing van regionale loodsstations, alsmede inzake de vaststelling van de bevoegdheden van registerloodsen (Bevoegdhedenverordening registerloodsen 1995)"
+citeertitel: "Bevoegdhedenverordening registerloodsen 1995"
 identifier: "BWBR0007399"
-country: "nl"
-rank: "pbo"
-publication_date: "2020-04-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007399"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6639793"
-version_id: "11473402"
-internal_id: "C15462371"
-label_id: "6628304"
-original_entry_into_force: "1995-06-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007399/2020-04-01/0"
-intitule_bron: "Stcrt.1995-112"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-05-16"
-intitule_published: "1995-06-14"
-intitule_in_force: "1995-06-14"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-112"
-original_signed_date: "1995-05-16"
-original_published_date: "1995-06-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1995-112-p12-SC2887"
-entry_into_force_date: "1995-06-16"
-jci_1_3: "jci1.3:c:BWBR0007399&z=2020-04-01&g=2020-04-01"
-jci_1_0: "1.0:c:BWBR0007399&g=2020-04-01"
-citeertitel_status: "officieel"
-short_title: "Bevoegdhedenverordening registerloodsen 1995"
-signed_date: "1995-05-16"
-entry_into_force: "1995-06-16"
+publicatiedatum: 1995-06-16
+laatste_update: 2020-04-01
+status: geldig
+toestand: 2020-04-01
+bron: "https://wetten.overheid.nl/BWBR0007399"
+opgehaald: 2026-08-02
 ---
+
 # Verordening inzake de aanwijzing van regionale loodsstations, alsmede inzake de vaststelling van de bevoegdheden van registerloodsen (Bevoegdhedenverordening registerloodsen 1995)
-
-Gelet op de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=4), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=15) en [16 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=16) (Stb. 1988, 353);
-
-Besluit:
-
-De verordening, bedoeld in [artikel 4, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=4) wordt als volgt vastgesteld:
 
 ### Hoofdstuk 1. Regionale loodsstations
 
@@ -49,63 +22,63 @@ De volgende regionale loodsstations worden vastgesteld:
 
 - a. voor de regionale loodsencorporatie Noord:
 
-- 1. Delfzijl,
+   - 1. Delfzijl,
 
-- 2. loodsstation Harlingen;
+   - 2. loodsstation Harlingen;
 
 - b. voor de regionale loodsencorporatie Amsterdam-IJmond:
 
-- 1. Den Helder,
+   - 1. Den Helder,
 
-- 2. IJmuiden/Amsterdam;
+   - 2. IJmuiden/Amsterdam;
 
 - c. voor de regionale loodsencorporatie Rotterdam-Rijnmond:
 
-- 1. Rijnmond,
+   - 1 Rijnmond,
 
 - d. voor de regionale loodsencorporatie Scheldemonden:
 
-- 1. Scheldemonden.
+   - 1. Scheldemonden.
 
 ##### Artikel 2
 
-1. Tot het regionale loodsstation Delfzijl behoren de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet (Stb. 1988, 352), onder punt I, nummer 1](onbekend).
+1. Tot het regionale loodsstation Delfzijl behoren de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet (Stb. 1988, 352), onder punt I, nummer 1](https://wetten.overheid.nl/BWBR0004364).
 
-2. Tot het regionale loodsstation Harlingen behoren de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt I, de nummers 2](onbekend), – althans de Vlierede, en 3 – althans de trajecten tussen Vlierede, Terschelling, Vlieland, Harlingen, Kornwerderzand, en de trajecten tussen die gebieden of plaatsen en Den Oever, Oude Schild en de Rede van Texel.
+2. Tot het regionale loodsstation Harlingen behoren de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt I, de nummers 2](https://wetten.overheid.nl/BWBR0004364), – althans de Vlierede, en 3 – althans de trajecten tussen Vlierede, Terschelling, Vlieland, Harlingen, Kornwerderzand, en de trajecten tussen die gebieden of plaatsen en Den Oever, Oude Schild en de Rede van Texel.
 
-3. Tot het regionale loodsstation Den Helder behoren de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt I, de nummers 2](onbekend), – althans de Rede van Texel en 3, – althans de trajecten tussen de Rede van Texel, Oude Schild, en Den Oever, en de trajecten tussen die gebieden of plaatsen en Kornwerderzand en Harlingen en de Vlierede, alsmede de trajecten van en naar de loodskruispost IJmuiden, Maasmond en Stortemelk.
+3. Tot het regionale loodsstation Den Helder behoren de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt I, de nummers 2](https://wetten.overheid.nl/BWBR0004364), – althans de Rede van Texel en 3, – althans de trajecten tussen de Rede van Texel, Oude Schild, en Den Oever, en de trajecten tussen die gebieden of plaatsen en Kornwerderzand en Harlingen en de Vlierede, alsmede de trajecten van en naar de loodskruispost IJmuiden, Maasmond en Stortemelk.
 
-4. Tot het regionale loodsstation IJmuiden/Amsterdam behoren de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt II](onbekend), alsmede de trajecten tussen de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt II.1](onbekend), en de loodskruisposten Maasmond en Steenbank, de rede van Den Helder.
+4. Tot het regionale loodsstation IJmuiden/Amsterdam behoren de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt II](https://wetten.overheid.nl/BWBR0004364), alsmede de trajecten tussen de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt II.1](https://wetten.overheid.nl/BWBR0004364), en de loodskruisposten Maasmond en Steenbank, de rede van Den Helder.
 
 5. Tot het regionale loodsenstation Rijnmond behoren de volgende gebieden:
 
-**Gebied I**: Van de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt III](onbekend): de Nieuwe Maas boven de Erasmusbrug tot kilometerraai 991,7, de Hollandsche IJssel tot aan de stuw bij Krimpen aan de IJssel, de Koningshaven, de Oude Maas tussen de Dordtse Spoorbrug en de Spijkenisserbrug, de Dordtse Kil, de Krabbegeul, het Mallegat, het Hollands Diep met inbegrip van het Zuid Hollands Diep bewesten de Moerdijkbruggen tot aan Noordschans met inbegrip van alle havens en sluizen gelegen aan of in voornoemde scheepvaartwegen.
+*Gebied I*: Van de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt III](https://wetten.overheid.nl/BWBR0004364): de Nieuwe Maas boven de Erasmusbrug tot kilometerraai 991,7, de Hollandsche IJssel tot aan de stuw bij Krimpen aan de IJssel, de Koningshaven, de Oude Maas tussen de Dordtse Spoorbrug en de Spijkenisserbrug, de Dordtse Kil, de Krabbegeul, het Mallegat, het Hollands Diep met inbegrip van het Zuid Hollands Diep bewesten de Moerdijkbruggen tot aan Noordschans met inbegrip van alle havens en sluizen gelegen aan of in voornoemde scheepvaartwegen.
 
-**Gebied II**: Van de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt III](onbekend): de territoriale zee alsmede de trajecten van deze scheepvaartweg naar en van de loodskruisposten Steenbank, Wandelaar en IJmuiden, de Maasgeul en de Eurogeul, de Maasmond, de Nieuwe Waterweg tot kilometerraai 1028, het Breeddiep, het Beerkanaal, het Yangtzekanaal, het Calandkanaal en het Hartelkanaal met inbegrip van alle havens en sluizen gelegen aan of in voornoemde scheepvaartwegen.
+*Gebied II*: Van de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt III](https://wetten.overheid.nl/BWBR0004364): de territoriale zee alsmede de trajecten van deze scheepvaartweg naar en van de loodskruisposten Steenbank, Wandelaar en IJmuiden, de Maasgeul en de Eurogeul, de Maasmond, de Nieuwe Waterweg tot kilometerraai 1028, het Breeddiep, het Beerkanaal, het Yangtzekanaal, het Calandkanaal en het Hartelkanaal met inbegrip van alle havens en sluizen gelegen aan of in voornoemde scheepvaartwegen.
 
-**Gebied III**: Van de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt III](onbekend): de territoriale zee alsmede de trajecten van deze scheepvaartweg naar en van de loodskruisposten Steenbank, Wandelaar en IJmuiden; de Maasmond, de Maasgeul, de Nieuwe Waterweg, de Nieuwe Maas beneden de Erasmusbrug, de Oude Maas beneden de Spijkenisserbrug met inbegrip van alle havens en sluizen gelegen aan of in voornoemde scheepvaartwegen.
+*Gebied III*: Van de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onder punt III](https://wetten.overheid.nl/BWBR0004364): de territoriale zee alsmede de trajecten van deze scheepvaartweg naar en van de loodskruisposten Steenbank, Wandelaar en IJmuiden; de Maasmond, de Maasgeul, de Nieuwe Waterweg, de Nieuwe Maas beneden de Erasmusbrug, de Oude Maas beneden de Spijkenisserbrug met inbegrip van alle havens en sluizen gelegen aan of in voornoemde scheepvaartwegen.
 
-**Gebied IV**: De Nieuwe Maas boven kilometerraai 991,7, de Oude Maas bovenstrooms de Dordtse Spoorbrug, de Noord, de Rietbaan, het Spui, de Beningen, de Beneden Merwede tot aan Hardinxveld-Giessendam, het Wantij, het Hollands Diep bewesten Noordschans, het Haringvliet, het Vuile Gat, de Krammer benoorden de Krammersluizen, het Zuid-Vlije, het Volkerak, het Slijkgat, het Schelde-Rijnkanaal aan de noordzijde begrensd door het Volkerak en aan de zuidzijde begrensd door de Kreekraksluizen met inbegrip van alle havens en sluizen gelegen aan voornoemde scheepvaartwegen.
+*Gebied IV*: De Nieuwe Maas boven kilometerraai 991,7, de Oude Maas bovenstrooms de Dordtse Spoorbrug, de Noord, de Rietbaan, het Spui, de Beningen, de Beneden Merwede tot aan Hardinxveld-Giessendam, het Wantij, het Hollands Diep bewesten Noordschans, het Haringvliet, het Vuile Gat, de Krammer benoorden de Krammersluizen, het Zuid-Vlije, het Volkerak, het Slijkgat, het Schelde-Rijnkanaal aan de noordzijde begrensd door het Volkerak en aan de zuidzijde begrensd door de Kreekraksluizen met inbegrip van alle havens en sluizen gelegen aan voornoemde scheepvaartwegen.
 
-**Gebied Va**: De aanloop en de haven van Scheveningen.
+*Gebied Va*: De aanloop en de haven van Scheveningen.
 
-**Gebied Vb**: De passage van de Calandbrug.
+*Gebied Vb*: De passage van de Calandbrug.
 
 6. Tot het regionale loodsstation Scheldemonden behoren de volgende gebieden:
 
-**Gebied VI**: De scheepvaartwegen van de reguliere loodskruisposten Wandelaar en Steenbank naar Vlissingen rede, met inbegrip van de rede van Oostende en de rede van Zeebrugge, en de loodskruisposten Maasmond en IJmuiden.
+*Gebied VI*: De scheepvaartwegen van de reguliere loodskruisposten Wandelaar en Steenbank naar Vlissingen rede, met inbegrip van de rede van Oostende en de rede van Zeebrugge, en de loodskruisposten Maasmond en IJmuiden.
 
-**Gebied VII**: De Westerschelde ten westen van de meridiaan over de lichtopstand van Margarethapolder, met inbegrip van Vlissingen rede en de met de Westerschelde in open verbinding staande havens en voorhavens.
+*Gebied VII*: De Westerschelde ten westen van de meridiaan over de lichtopstand van Margarethapolder, met inbegrip van Vlissingen rede en de met de Westerschelde in open verbinding staande havens en voorhavens.
 
-**Gebied VIII**: De Westerschelde ten oosten van de meridiaan over de lichtopstand van Margarethapolder, en de Beneden Zeeschelde met inbegrip van Antwerpen rede en de hiermee in open verbinding staande havens en voorhavens.
+*Gebied VIII*: De Westerschelde ten oosten van de meridiaan over de lichtopstand van Margarethapolder, en de Beneden Zeeschelde met inbegrip van Antwerpen rede en de hiermee in open verbinding staande havens en voorhavens.
 
-**Gebied IX**: Het Kanaal van Gent naar Terneuzen en alle hieraan gelegen havens en ligplaatsen.
+*Gebied IX*: Het Kanaal van Gent naar Terneuzen en alle hieraan gelegen havens en ligplaatsen.
 
-**Gebied X**: De Oosterschelde, het Veerse meer, het Kanaal door Zuid-Beveland, de Zuid Vlije, het Noord Volkerak, het Kanaal door Walcheren vanaf Veere tot de ingang van het Arnekanaal, de Schelde-Rijn-Verbinding en de scheepvaartwegen van de reguliere loodskruispost Steenbank tot de Roompotsluis, met inbegrip van alle met de voorgaande scheepvaartwegen in open verbinding staande havens en voorhavens.
+*Gebied X*: De Oosterschelde, het Veerse meer, het Kanaal door Zuid-Beveland, de Zuid Vlije, het Noord Volkerak, het Kanaal door Walcheren vanaf Veere tot de ingang van het Arnekanaal, de Schelde-Rijn-Verbinding en de scheepvaartwegen van de reguliere loodskruispost Steenbank tot de Roompotsluis, met inbegrip van alle met de voorgaande scheepvaartwegen in open verbinding staande havens en voorhavens.
 
-**Gebied XI**: De binnenhavens van Vlissingen.
+*Gebied XI*: De binnenhavens van Vlissingen.
 
-**Gebied XII**: Het Kanaal door Walcheren van Vlissingen tot 100 m noord van de ingang van het Arnekanaal.
+*Gebied XII*: Het Kanaal door Walcheren van Vlissingen tot 100 m noord van de ingang van het Arnekanaal.
 
 7. De scheepvaartwegen, aangewezen krachtens [artikel 11, eerste lid, onderdeel b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11), behoren tot het regionale loodsstation, waaraan zij door de algemene raad zijn toebedeeld. De aanloop van Scheveningen en de haven van Scheveningen behoren tot het regionale Ioodsstation Rijnmond. Het Schelde-Rijnkanaal, aan de noordzijde begrensd door het Volkerak en aan de zuidzijde begrensd door de Kreekraksluizen behoort zowel tot het regionale loodsstation Rijnmond als tot het regionale loodsstation Scheldemonden.
 
@@ -126,6 +99,90 @@ De volgende regionale loodsstations worden vastgesteld:
 2. Indien van toepassing is de registerloods voor de in de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2020-04-01&g=2020-04-01) genoemde specialisaties eerst bevoegd nadat hij heeft voldaan aan de eisen met betrekking tot een aanvullende opleiding, ervaring, training of vaardigheid, vastgesteld door het bestuur van de betreffende regionale loodsencorporatie. Het bestuur van een regionale loodsencorporatie kan dergelijke eisen ook vaststellen voor de toelating tot een hogere bevoegdheid.
 
 3. De registerloods, die een aanvullende opleiding als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2020-04-01&g=2020-04-01), of een aanvullende opleiding of training als bedoeld in het vorige lid wenst te volgen, behoeft hiervoor de goedkeuring van het bestuur van de desbetreffende regionale loodsencorporatie.
+
+##### Artikel 4a
+
+1. Het bestuur van de betreffende regionale loodsencorporatie stelt regels waarin zij besluit:
+
+- a. voor de toelating tot of het behouden van een specialisatie, of voor de toelating tot een hogere bevoegdheid bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2020-04-01&g=2020-04-01), of het een aanvullende opleiding, ervaring, training of vaardigheid betreft;
+
+- b. voor het op peil houden van de ervaring of vaardigheid van de registerloods ten aanzien van een bevoegdheid of specialisatie, of het een aanvullende opleiding of training betreft; of
+
+- c. voor de toelating tot een aanvullende opleiding of training, bedoeld onder a of b, welke vooropleiding, vaardigheid of ervaring vereist is.
+
+2. Indien het bestuur van de betreffende regionale loodsencorporatie besluit dat het een aanvullende opleiding betreft, dient de registerloods een daarbij behorend en door het betreffende bestuur vastgesteld examen, met goed gevolg te hebben afgelegd.
+
+##### Artikel 4b
+
+Het bestuur van de betreffende regionale loodsencorporatie draagt zorg voor een aanvullende opleiding bedoeld in artikel 3, derde lid, of een aanvullende opleiding of training bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2020-04-01&g=2020-04-01), waarbij ten minste wordt voorzien in:
+
+- a. indien het een opleiding betreft:
+
+   - i. een lesprogramma voor de desbetreffende opleiding;
+
+   - ii. de faciliteiten om in een opleiding te voorzien;
+
+   - iii. de borging van de rechtspositie van een registerloods tijdens de opleiding;
+
+   - iv. een onafhankelijk en deskundig functionerende examencommissie;
+
+   - v. het vaststellen van een examen met bijbehorende toetsbeschrijving; en
+
+   - vi. het afgeven van een verklaring waaruit blijkt dat een examen met goed gevolg is afgelegd;
+
+of
+
+- b. indien het een training betreft:
+
+   - i. een trainingsprogramma en de faciliteiten om in een training te voorzien; en
+
+   - ii. het afgeven van een verklaring waaruit blijkt dat een training is gevolgd.
+
+##### Artikel 4c
+
+1. In een lesprogramma als bedoeld in [artikel 4b, onder a, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01), is in ieder geval het volgende vastgelegd:
+
+- a. algemene informatie van de desbetreffende opleiding;
+
+- b. het doel van de opleiding;
+
+- c. de organisatorische inbedding;
+
+- d. de opzet van de opleiding;
+
+- e. de inhoudsgebieden;
+
+- f. examenrooster; en
+
+- g. lesrooster.
+
+2. In een trainingsprogramma als bedoeld in [artikel 4b, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01), is in ieder geval het volgende vastgelegd:
+
+- a. algemene informatie van de desbetreffende training;
+
+- b. het doel van de training;
+
+- c. de organisatorische inbedding;
+
+- d. de opzet van de training; en
+
+- e. het trainingsrooster.
+
+##### Artikel 4d
+
+1. De examencommissie genoemd in [artikel 4b, onder a, onderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01), bestaat uit ten minste zes en ten hoogste negen leden, waaronder een voorzitter, een toetsdeskundige, een of meerdere werkveldvertegenwoordigers en een registerloods van elke regionale loodsencorporatie, niet zijnde een bestuurslid, tenzij bijzondere omstandigheden zich daar tegen verzetten.
+
+2. De examencommissie, bedoeld in het eerste lid, heeft in ieder geval de volgende taken:
+
+- a. het op objectieve en deskundige wijze borgen van de kwaliteit van de door het bestuur van de betreffende regionale loodsencorporatie vast te stellen examens en bijbehorende toetsbeschrijvingen van de opleidingen bedoeld in de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2020-04-01&g=2020-04-01), of [4b, onder a, onderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01);
+
+- b. het op objectieve en deskundige wijze borgen van de kwaliteit van de organisatie en de procedures omtrent de examens van de aanvullende opleidingen, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2020-04-01&g=2020-04-01), of [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01);
+
+- c. het benoemen van de door het bestuur van de betreffende regionale loodsencorporatie voorgedragen kandidaten tot examinatoren; en
+
+- d. het uitbrengen van een verslag van haar activiteiten omtrent het toezicht op de opleidingen bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2020-04-01&g=2020-04-01), of [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01) en de daaruit voortvloeiende bevindingen aan het bestuur van de regionale loodsencorporatie.
+
+3. De algemene raad kan, indien het bestuur van de regionale loodsencorporatie geen regels stelt als bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4a&z=2020-04-01&g=2020-04-01) of geen uitvoering geeft aan haar zorgplicht als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01), hier zelf in voorzien.
 
 ##### Artikel 5
 
@@ -205,11 +262,11 @@ De registerloods die in het register is ingeschreven voor de scheepvaartwegen di
 
 - a. Algemeen loods
 
-- i. in gebied l: voor schepen met een lengte over alles tot 135 m of met een diepgang tot 70 dm; met uitzondering van de Nieuwe Maas tussen de Erasmusbrug en kilometerraai 991,7 en de Hollandse IJssel tot aan de stuw te Krimpen aan de IJssel waar een lengte over alles tot 100 m geldt of een diepgang tot 60 dm;
+   - i. in gebied l: voor schepen met een lengte over alles tot 135 m of met een diepgang tot 70 dm; met uitzondering van de Nieuwe Maas tussen de Erasmusbrug en kilometerraai 991,7 en de Hollandse IJssel tot aan de stuw te Krimpen aan de IJssel waar een lengte over alles tot 100 m geldt of een diepgang tot 60 dm;
 
-- ii. in gebied II: voor schepen met een lengte over alles tot 300 m of met een diepgang tot 143 dm, met uitzondering van gebied Vb waar een lengte over alles van 150 m geldt; en
+   - ii. in gebied II: voor schepen met een lengte over alles tot 300 m of met een diepgang tot 143 dm, met uitzondering van gebied Vb waar een lengte over alles van 150 m geldt; en
 
-- iii. in gebied III: voor schepen met een lengte over alles tot 200 m of met een diepgang tot 110 dm voor de Nieuwe Waterweg bovenstrooms kilometerraai 1028, de Nieuwe Maas tot aan de Erasmusbrug en de Oude Maas beneden de Spijkenisserbrug met inbegrip van alle havens en sluizen gelegen aan voornoemde vaarwegen;
+   - iii. in gebied III: voor schepen met een lengte over alles tot 200 m of met een diepgang tot 110 dm voor de Nieuwe Waterweg bovenstrooms kilometerraai 1028, de Nieuwe Maas tot aan de Erasmusbrug en de Oude Maas beneden de Spijkenisserbrug met inbegrip van alle havens en sluizen gelegen aan voornoemde vaarwegen;
 
 - b. Europoort loods in gebied II voor alle schepen, met uitzondering van gebied Vb waar een lengte over alles van 150 m geldt;
 
@@ -293,7 +350,7 @@ De registerloods die in het register is ingeschreven voor de scheepvaartwegen di
 
 ##### Artikel 10
 
-1. De registerloods die in het register is ingeschreven voor het regionale loodsstation Scheldemonden voor het gebied VI, is op de betreffende scheepvaartwegen bevoegd:
+1. De registerloods die in het register is ingeschreven voor het regionale loodsstation Scheldemonden voor het gebied VI, is op de betreffende scheepvaartwegen bevoegd:
 
 - a. vanaf het moment van inschrijving in het register, voor schepen met een lengte over alles tot 100m;
 
@@ -313,33 +370,33 @@ De registerloods die in het register is ingeschreven voor de scheepvaartwegen di
 
 2. De registerloods die in het register is ingeschreven voor het regionale loodsstation Scheldemonden voor een van de gebieden VII tot en met XII, is op de betreffende scheepvaartwegen bevoegd:
 
-- a. vanaf het moment van inschrijving in het register, voor schepen met een lengte over alles tot 100 m;
+- a. vanaf het moment van inschrijving in het register, voor schepen met een lengte over alles tot 100 m;
 
-- b. vanaf 6 maanden na inschrijving in het register voor schepen met een lengte over alles tot 125 m;
+- b. vanaf 6 maanden na inschrijving in het register voor schepen met een lengte over alles tot 125 m;
 
-- c. vanaf 18 maanden na inschrijving in het register voor schepen met een lengte over alles tot 140 m;
+- c. vanaf 18 maanden na inschrijving in het register voor schepen met een lengte over alles tot 140 m;
 
-- d. vanaf 30 maanden na inschrijving in het register voor schepen met een lengte over alles tot 160 m;
+- d. vanaf 30 maanden na inschrijving in het register voor schepen met een lengte over alles tot 160 m;
 
-- e. vanaf 48 maanden na inschrijving in het register voor schepen met een lengte over alles tot 180 m;
+- e. vanaf 48 maanden na inschrijving in het register voor schepen met een lengte over alles tot 180 m;
 
-- f. vanaf 72 maanden na inschrijving in het register voor schepen met een lengte over alles tot 210 m;
+- f. vanaf 72 maanden na inschrijving in het register voor schepen met een lengte over alles tot 210 m;
 
 - g. vanaf 96 maanden na inschrijving in het register voor alle schepen, met uitzondering van de in het vierde lid genoemde specialisaties.
 
 3. Onverminderd het eerste en tweede lid, geschiedt inschrijving in een naasthogere categorie steeds eerst nadat voor overgang naar de categorie:
 
-- a. schepen met een lengte over alles tot 125 m, ten minste 80 reizen zijn afgelegd;
+- a. schepen met een lengte over alles tot 125 m, ten minste 80 reizen zijn afgelegd;
 
-- b. schepen met een lengte over alles tot 140 m, ten minste 240 reizen zijn afgelegd;
+- b. schepen met een lengte over alles tot 140 m, ten minste 240 reizen zijn afgelegd;
 
-- c. schepen met een lengte over alles tot 160 m, ten minste 400 reizen zijn afgelegd;
+- c. schepen met een lengte over alles tot 160 m, ten minste 400 reizen zijn afgelegd;
 
-- d. schepen met een lengte over alles tot 180 m, ten minste 640 reizen zijn afgelegd;
+- d. schepen met een lengte over alles tot 180 m, ten minste 640 reizen zijn afgelegd;
 
-- e. schepen met een lengte over alles tot 210 m, ten minste 960 reizen zijn afgelegd; en
+- e. schepen met een lengte over alles tot 210 m, ten minste 960 reizen zijn afgelegd; en
 
-- f. schepen met een lengte over alles tot 260 m, ten minste 1120 reizen zijn afgelegd .
+- f. schepen met een lengte over alles tot 260 m, ten minste 1120 reizen zijn afgelegd .
 
 4. Voor de registerloods die in het register is ingeschreven voor het regionale loodsstation Scheldemonden voor de gebieden VII, VIII of IX, zijn specialisaties:
 
@@ -351,11 +408,11 @@ De registerloods die in het register is ingeschreven voor de scheepvaartwegen di
 
 - d. op de scheepvaartwegen die behoren tot: schepen met een lengte over alles van 225 m of meer of een diepgang van 115 dm of meer, alsmede zogenoemde ‘autoschepen’ met een lengte over alles van 160 m of meer waaraan voor de vaart door de bevoegde autoriteit bijzondere eisen zijn gesteld;
 
-- 1°. de Braakmanhaven;
+   - 1° de Braakmanhaven;
 
-- 2°. de Westbuitenhaven Terneuzen; of
+   - 2° de Westbuitenhaven Terneuzen; of
 
-- 3°. het Kanaal van Gent naar Terneuzen;
+   - 3° het Kanaal van Gent naar Terneuzen;
 
 - e. op de scheepvaartwegen die behoren tot de Put van Terneuzen, schepen met een lengte over alles van 260 m of meer of een diepgang van 125 dm of meer;
 
@@ -375,7 +432,7 @@ Voor de registerloods zijn eveneens specialisaties:
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -416,89 +473,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na die van plaat
 Aldus vastgesteld in de ledenvergadering van de Nederlandse Loodsencorporatie op 16 mei 1995 te Utrecht.
 
 Goedgekeurd bij besluit van de Minister van Verkeer en Waterstaat van 31 mei 1995, DGSM/J-12.743/95.
-
-##### Artikel 4a
-
-1. Het bestuur van de betreffende regionale loodsencorporatie stelt regels waarin zij besluit:
-
-- a. voor de toelating tot of het behouden van een specialisatie, of voor de toelating tot een hogere bevoegdheid bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2020-04-01&g=2020-04-01), of het een aanvullende opleiding, ervaring, training of vaardigheid betreft;
-
-- b. voor het op peil houden van de ervaring of vaardigheid van de registerloods ten aanzien van een bevoegdheid of specialisatie, of het een aanvullende opleiding of training betreft; of
-
-- c. voor de toelating tot een aanvullende opleiding of training, bedoeld onder a of b, welke vooropleiding, vaardigheid of ervaring vereist is.
-
-2. Indien het bestuur van de betreffende regionale loodsencorporatie besluit dat het een aanvullende opleiding betreft, dient de registerloods een daarbij behorend en door het betreffende bestuur vastgesteld examen, met goed gevolg te hebben afgelegd.
-
-##### Artikel 4b
-
-Het bestuur van de betreffende regionale loodsencorporatie draagt zorg voor een aanvullende opleiding bedoeld in artikel 3, derde lid, of een aanvullende opleiding of training bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2020-04-01&g=2020-04-01), waarbij ten minste wordt voorzien in:
-
-- a. indien het een opleiding betreft:
-
-- i. een lesprogramma voor de desbetreffende opleiding;
-
-- ii. de faciliteiten om in een opleiding te voorzien;
-
-- iii. de borging van de rechtspositie van een registerloods tijdens de opleiding;
-
-- iv. een onafhankelijk en deskundig functionerende examencommissie;
-
-- v. het vaststellen van een examen met bijbehorende toetsbeschrijving; en
-
-- vi. het afgeven van een verklaring waaruit blijkt dat een examen met goed gevolg is afgelegd;
-
-of
-
-- b. indien het een training betreft:
-
-- i. een trainingsprogramma en de faciliteiten om in een training te voorzien; en
-
-- ii. het afgeven van een verklaring waaruit blijkt dat een training is gevolgd.
-
-##### Artikel 4c
-
-1. In een lesprogramma als bedoeld in [artikel 4b, onder a, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01), is in ieder geval het volgende vastgelegd:
-
-- a. algemene informatie van de desbetreffende opleiding;
-
-- b. het doel van de opleiding;
-
-- c. de organisatorische inbedding;
-
-- d. de opzet van de opleiding;
-
-- e. de inhoudsgebieden;
-
-- f. examenrooster; en
-
-- g. lesrooster.
-
-2. In een trainingsprogramma als bedoeld in [artikel 4b, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01), is in ieder geval het volgende vastgelegd:
-
-- a. algemene informatie van de desbetreffende training;
-
-- b. het doel van de training;
-
-- c. de organisatorische inbedding;
-
-- d. de opzet van de training; en
-
-- e. het trainingsrooster.
-
-##### Artikel 4d
-
-1. De examencommissie genoemd in [artikel 4b, onder a, onderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01), bestaat uit ten minste zes en ten hoogste negen leden, waaronder een voorzitter, een toetsdeskundige, een of meerdere werkveldvertegenwoordigers en een registerloods van elke regionale loodsencorporatie, niet zijnde een bestuurslid, tenzij bijzondere omstandigheden zich daar tegen verzetten.
-
-2. De examencommissie, bedoeld in het eerste lid, heeft in ieder geval de volgende taken:
-
-- a. het op objectieve en deskundige wijze borgen van de kwaliteit van de door het bestuur van de betreffende regionale loodsencorporatie vast te stellen examens en bijbehorende toetsbeschrijvingen van de opleidingen bedoeld in de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2020-04-01&g=2020-04-01), of [4b, onder a, onderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01);
-
-- b. het op objectieve en deskundige wijze borgen van de kwaliteit van de organisatie en de procedures omtrent de examens van de aanvullende opleidingen, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2020-04-01&g=2020-04-01), of [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01);
-
-- c. het benoemen van de door het bestuur van de betreffende regionale loodsencorporatie voorgedragen kandidaten tot examinatoren; en
-
-- d. het uitbrengen van een verslag van haar activiteiten omtrent het toezicht op de opleidingen bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2020-04-01&g=2020-04-01), of [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01) en de daaruit voortvloeiende bevindingen aan het bestuur van de regionale loodsencorporatie.
-
-3. De algemene raad kan, indien het bestuur van de regionale loodsencorporatie geen regels stelt als bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4a&z=2020-04-01&g=2020-04-01) of geen uitvoering geeft aan haar zorgplicht als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01), hier zelf in voorzien.
-
-### Hoofdstuk 3. Overige bepalingen

@@ -1,42 +1,17 @@
 ---
 title: "Ziektekostentegemoetkoming en interimuitkering"
 identifier: "BWBR0007287"
-country: "nl"
-rank: "circulaire"
-publication_date: "1995-01-01"
-last_updated: "1995-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007287"
+categorie: "Sociaal recht"
 soort: "circulaire"
-stam_id: "6267103"
-version_id: "10950732"
-internal_id: "C14848241"
-label_id: "6255994"
-original_entry_into_force: "1995-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007287/1995-01-01/0"
-intitule_bron: "Stcrt.1995-62"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-03-16"
-intitule_published: "1995-03-28"
-intitule_in_force: "1995-03-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-62"
-original_signed_date: "1995-03-16"
-original_published_date: "1995-03-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1995-62-p12-SC2250"
-entry_into_force_date: "1995-01-01"
-jci_1_3: "jci1.3:c:BWBR0007287&z=1995-01-01&g=1995-01-01"
-jci_1_0: "1.0:c:BWBR0007287&g=1995-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "1995-03-16"
-entry_into_force: "1995-01-01"
+publicatiedatum: 1995-01-01
+laatste_update: 1995-01-01
+status: geldig
+toestand: 1995-01-01
+bron: "https://wetten.overheid.nl/BWBR0007287"
+opgehaald: 2026-08-02
 ---
+
 # Ziektekostentegemoetkoming en interimuitkering
-
-Circulaire aan de ministers
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### I. Samenvatting
 
@@ -44,7 +19,7 @@ In deze circulaire worden de ziektekostentegemoetkomingen respectievelijk de int
 
 ### II. Inleiding
 
-De tegemoetkoming die op basis van het [Besluit tegemoetkoming ziektekosten rijkspersoneel](onbekend) (BTZR) respectievelijk de [Interimregeling ziektekosten ambtenaren 1982](onbekend) (IRZK) aan de desbetreffende ambtenaar wordt toegekend, is gelijk aan de som van een basisbedrag en de halft van de MOOZ-omslagbijdrage en van de WTZ-pooling. Jaarlijks wordt deze tegemoetkoming per 1 januari aangepast.
+De tegemoetkoming die op basis van het Besluit tegemoetkoming ziektekosten rijkspersoneel (BTZR) respectievelijk de Interimregeling ziektekosten ambtenaren 1982 (IRZK) aan de desbetreffende ambtenaar wordt toegekend, is gelijk aan de som van een basisbedrag en de halft van de MOOZ-omslagbijdrage en van de WTZ-pooling. Jaarlijks wordt deze tegemoetkoming per 1 januari aangepast.
 
 Het basisbedrag wordt gewijzigd overeenkomstig het gewogen gemiddelde van de procentuele wijziging van de premies die door 15 (voorheen 18) niet op winst gerichte ziektekostenverzekeraars worden vastgesteld voor een verzekering tegen ziektekosten. Deze door Zorgverzekeraars Nederland (voorheen door het KLOZ, dat hiervan thans onderdeel uitmaakt) berekende wijziging bestaat per 1 januari 1995 – ten opzichte van 1 januari 1994 – uit een stijging van 1,9%.
 
@@ -54,8 +29,26 @@ De MOOZ-omslagbijdrage is verhoogd. Voor een volwassene bedraagt deze thans f 9,
 
 De tegemoetkomingen per maand, zoals die gelden vanaf 1 januari 1995, worden als volgt vastgesteld:
 
+- a. Voor (mede-)betrokkenen (bedoeld in artikel 4, eerste lid, onder a, IRZK respectievelijk BTZR):
+
+   - 1. met een WTZ-standaardpolis als bedoeld in genoemd lid: f 76,73 + f 4,65 (MOOZ) + f 17,25 (WTZ-pooling) + f 5,00 (overgangsbepaling) = f 103,63 (was f 98,70);
+
+   - 2. voor anderszins (mede-)betrokkenen: f 76,73 + f 4,65 (MOOZ) + f 17,25 (WTZ-pooling) = f 98,63 (was f 93,70).
+
+- b. Voor één medebetrokken kind jonger dan 16 jaar (bedoeld in artikel 4, eerste lid, onder b, IZRK respectievelijk BTZR):
+
+   - 1. verzekerd via een WTZ-standaardpolis als bedoeld in genoemd lid: f 38,36 + f 2,33 (MOOZ) + f 8,63 (WTZ-pooling) + f 2,50 (overgangsbepaling) = f 51,82 (was f 49,36);
+
+   - 2. anders particulier verzekerd: f 38,36 + f 2,33 (MOOZ) + f 8,63 (WTZ-pooling) = f 49,32 (was f 46,86).
+
+- c. Voor medebetrokken kinderen tussen 16 respectievelijk 18 en 27 jaar (bedoeld in artikel; 4, eerste lid, onder c, IRZK respectievelijk BTZR):
+
+   - 1. verzekerd via een WTZ-standaardpolis als bedoeld in genoemd lid: f 38,36 + f 4,65 (MOOZ) + f 17,25 (WTZ-pooling) + f 2,50 (overgangsbepaling) = f 62,76 (was f 58,55);
+
+   - 2. anders particulier verzekerd: f 38,36 + f 4,65 (MOOZ) + f 17,25 (WTZ-pooling) = f 60,26 (was f 56,05).
+
 ### IV. Inkomenstoeslag per 1 januari 1995
 
-De bedragen van de inkomenstoeslag en aanvullende toeslag, als bedoeld in [artikel 2, eerste en tweede lid, van het Besluit inkomenstoeslag rijkspersoneel](onbekend) (BIR) en van het [Besluit inkomenstoeslag betrokkenen in de zin van de Interimregeling ziektekosten ambtenaren 1982](onbekend) (IBIZA), van f 26,50 respectievelijk f 11,50 wijzigen per 1 januari 1995 niet.
+De bedragen van de inkomenstoeslag en aanvullende toeslag, als bedoeld in artikel 2, eerste en tweede lid, van het Besluit inkomenstoeslag rijkspersoneel (BIR) en van het Besluit inkomenstoeslag betrokkenen in de zin van de Interimregeling ziektekosten ambtenaren 1982 (IBIZA), van f 26,50 respectievelijk f 11,50 wijzigen per 1 januari 1995 niet.
 
 Ik verzoek u met het bovenstaande rekening te houden. Inlichtingen uitsluitend voor afdelingen Personeels-zaken van geadresseerden bij de heer Martens respectievelijk het secretariaat van de afdeling Arbeidsvoorwaarden en Sociaal Beleid (telefoon 070-3026904 respectievelijk 3026847).

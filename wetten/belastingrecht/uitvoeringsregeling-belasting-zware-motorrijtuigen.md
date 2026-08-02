@@ -2,28 +2,27 @@
 title: "Uitvoeringsregeling belasting zware motorrijtuigen"
 identifier: "BWBR0007677"
 categorie: "Belastingrecht"
-publicatiedatum: 2019-01-01
+soort: "ministeriele-regeling"
+publicatiedatum: 1995-12-01
 laatste_update: 2019-01-01
 status: vervallen
+vervallen_op: 2026-06-30
+toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0007677"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-02
 ---
 
 # Uitvoeringsregeling belasting zware motorrijtuigen
 
-Gelet op [artikel 11, derde lid, van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=11);
-
-Besluit:
-
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling geeft uitvoering aan de [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=11), [artikel 14a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=14a), en [artikel 18 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=18).
 
-#### Artikel 2
+##### Artikel 2
 
 In deze regeling wordt onder wet verstaan: [Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Als aangiftepunten, bedoeld in [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=11), worden aangewezen:
 
@@ -33,7 +32,7 @@ In deze regeling wordt onder wet verstaan: [Wet belasting zware motorrijtuigen](
 
 2. Voor bedrijven die daarvoor een overeenkomst hebben afgesloten met de Belastingdienst wordt naast de aangiftepunten in het eerste lid als aangiftepunt, bedoeld in [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=11) aangewezen het digitale aangiftepunt van de Belastingdienst op internetadres https://secure.eurovignet.nl/nluserportal/login.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Als station van inlading of station van uitlading als bedoeld in [artikel 14a, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=14a) worden aangewezen de stations opgenomen op de door mij bijgehouden lijst van stations van in- en uitlading, te raadplegen op internetadres http://www.belastingdienst.nl.
 
@@ -67,22 +66,14 @@ In deze regeling wordt onder wet verstaan: [Wet belasting zware motorrijtuigen](
 
 4. Indien een verzoek om teruggaaf betrekking heeft op belasting die voor tijdvakken van een dag, een week of een maand is betaald, dient dat verzoek te worden gedaan voor de belasting die in een periode van drie maanden of een jaar is betaald. Indien het verzoek betrekking heeft op de belasting die voor een tijdvak van een jaar is betaald, wordt het verzoek na afloop van dat jaar ingediend. Het verzoek wordt gedaan uiterlijk binnen drie maanden na afloop van de periode waarop het verzoek betrekking heeft.
 
-#### Artikel 3b
+##### Artikel 3b
 
 Als ambtenaren van het Ministerie van Infrastructuur en Waterstaat, bedoeld in [artikel 18 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=18), worden aangewezen de ambtenaren van de Inspectie Verkeer en Waterstaat.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag waarop de wet in werking treedt.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling belasting zware motorrijtuigen.
-
-## Bijlage I,. houdende aanwijzing van de plaatsen, bedoeld in artikel 3 van de Uitvoeringsregeling belasting zware motorrijtuigen
-
-Vervallen
-
-## Bijlage II,. houdende aanwijzing van de stations van inlading en de stations van uitlading, bedoeld in artikel 3a, eerste lid, van de Uitvoeringsregeling belasting zware motorrijtuigen
-
-Vervallen

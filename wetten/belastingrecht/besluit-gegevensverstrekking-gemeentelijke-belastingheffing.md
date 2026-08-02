@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 27 juni 1995, houdende regels inzake de verstrekking van gegevens ten behoeve van gemeentelijke belastingheffing"
+citeertitel: "Besluit gegevensverstrekking gemeentelijke belastingheffing"
 identifier: "BWBR0007466"
-country: "nl"
-rank: "amvb"
-publication_date: "2009-03-18"
-last_updated: "2009-03-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007466"
+categorie: "Belastingrecht"
 soort: "AMvB"
-stam_id: "458223"
-version_id: "676072"
-internal_id: "C676071"
-label_id: "446034"
-dtd_version: "2.0"
-original_entry_into_force: "1995-07-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007466/2009-03-18/0"
-intitule_bron: "Stb.1995-346"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-06-27"
-intitule_published: "1995-07-11"
-intitule_in_force: "1995-07-11"
-intitule_status: "goed"
-original_publication: "Stb.1995-346"
-original_signed_date: "1995-06-27"
-original_published_date: "1995-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1995-346"
-entry_into_force_date: "1995-07-12"
-jci_1_3: "jci1.3:c:BWBR0007466&z=2009-03-18&g=2009-03-18"
-jci_1_0: "1.0:c:BWBR0007466&g=2009-03-18"
-citeertitel_status: "officieel"
-short_title: "Besluit gegevensverstrekking gemeentelijke belastingheffing"
-signed_date: "1995-06-27"
-entry_into_force: "1995-07-12"
+publicatiedatum: 1995-07-12
+laatste_update: 2009-03-18
+status: geldig
+toestand: 2009-03-18
+bron: "https://wetten.overheid.nl/BWBR0007466"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 27 juni 1995, houdende regels inzake de verstrekking van gegevens ten behoeve van gemeentelijke belastingheffing
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken, mw. A. G. M. van de Vondervoort, van 4 november 1994, nr. FBA94/U2085, directoraat-generaal Openbaar Bestuur, gedaan mede namens de Staatssecretaris van Financiën;
-
-Gelet op [artikel 246**a** van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=246a);
-
-De Raad van State gehoord (advies van 1 maart 1995, nr. WO4940685);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken, mw. A. G. M. van de Vondervoort, van 22 juni 1995, nr. FO95/433, directoraat-generaal Openbaar Bestuur, uitgebracht mede namens de Staatssecretaris van Financiën;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -128,10 +96,8 @@ Indien een belastingschuldige een verzoek heeft ingediend tot het verlenen van k
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit gegevensverstrekking gemeentelijke belastingheffing.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

@@ -1,45 +1,17 @@
 ---
 title: "Financiële verordening Loodswezen"
 identifier: "BWBR0007548"
-country: "nl"
-rank: "pbo"
-publication_date: "2024-10-17"
-last_updated: "2024-10-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007548"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6639533"
-version_id: "15373292"
-internal_id: "C20962741"
-label_id: "6628044"
-dtd_version: "2.0"
-original_entry_into_force: "2008-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007548/2024-10-17/0"
-intitule_bron: "Stcrt.1995-185"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-09-12"
-intitule_published: "1995-09-25"
-intitule_in_force: "1995-09-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-101"
-original_signed_date: "2008-05-20"
-original_published_date: "2008-05-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2008-101-p15-SC85847"
-entry_into_force_date: "2008-05-20"
-jci_1_3: "jci1.3:c:BWBR0007548&z=2024-10-17&g=2024-10-17"
-jci_1_0: "1.0:c:BWBR0007548&g=2024-10-17"
-citeertitel_status: "officieel"
-signed_date: "2008-05-20"
-entry_into_force: "2008-05-20"
+publicatiedatum: 2008-05-20
+laatste_update: 2024-10-17
+status: geldig
+toestand: 2024-10-17
+bron: "https://wetten.overheid.nl/BWBR0007548"
+opgehaald: 2026-08-02
 ---
+
 # Financiële verordening Loodswezen
-
-Gelet op [artikel 26, derde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=26);
-
-Besluit:
-
-De verordening als bedoeld in [artikel 26, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=26) wordt vastgesteld als volgt:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -47,31 +19,31 @@ De verordening als bedoeld in [artikel 26, eerste lid, van de Loodsenwet](https:
 
 In deze verordening wordt verstaan onder:
 
-- –. **afbestelling:** een van de situaties als bedoeld in [artikel 4.6, eerste lid, onder a, van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.6);
+- – *afbestelling:* een van de situaties als bedoeld in [artikel 4.6, eerste lid, onder a, van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.6);
 
-- –. **ankerwacht:** een van de aanvullende loodsdiensten, als bedoeld in [artikel 4.5, onder e, van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.5);
+- – *ankerwacht:* een van de aanvullende loodsdiensten, als bedoeld in [artikel 4.5, onder e, van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.5);
 
-- –. **direct productieve loodstaak:** verrichting aan boord inclusief de daarop betrekking hebbende reistijd, wachttijd en beschikbaarheidsuren, loodsen op afstand of een afbestelling;
+- – *direct productieve loodstaak:* verrichting aan boord inclusief de daarop betrekking hebbende reistijd, wachttijd en beschikbaarheidsuren, loodsen op afstand of een afbestelling;
 
-- –. **indirecte productieve loodstaak:** iedere taak, niet zijnde een direct productieve loodstaak, ter uitvoering van een bij of krachtens een wet aan een registerloods opgedragen taak, alsmede elke vorm van bijscholing ten behoeve van het beroep;
+- – *indirecte productieve loodstaak:* iedere taak, niet zijnde een direct productieve loodstaak, ter uitvoering van een bij of krachtens een wet aan een registerloods opgedragen taak, alsmede elke vorm van bijscholing ten behoeve van het beroep;
 
-- –. **inzet- en planningssysteem:** inzet- en planningssysteem als bedoeld in [artikel 3, derde lid, onder a, van de Loodsenregisterverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0034558&artikel=3);
+- – *inzet- en planningssysteem:* inzet- en planningssysteem als bedoeld in [artikel 3, derde lid, onder a, van de Loodsenregisterverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0034558&artikel=3);
 
-- –. **loodsen op afstand:** de functie-uitoefening als bedoeld in [artikel 1, onder d, van de Voorschriftenverordening registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0034571&artikel=1);
+- – *loodsen op afstand:* de functie-uitoefening als bedoeld in [artikel 1, onder d, van de Voorschriftenverordening registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0034571&artikel=1);
 
-- –. **loodsgebied:** ieder in de tot deze verordening behorende [bijlage I, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&bijlage=I&z=2024-10-17&g=2024-10-17), als zodanig omschreven gebied;
+- – *loodsgebied:* ieder in de tot deze verordening behorende [bijlage I, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&bijlage=I&z=2024-10-17&g=2024-10-17), als zodanig omschreven gebied;
 
-- –. **loodsgeld:** de krachtens wettelijk voorschrift verschuldigde bedragen in verband met het gebruik maken van de diensten van een registerloods met uitzondering van de vergoedingen als bedoeld in [artikel 4.6, eerste lid, onder f, van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.6);
+- – *loodsgeld:* de krachtens wettelijk voorschrift verschuldigde bedragen in verband met het gebruik maken van de diensten van een registerloods met uitzondering van de vergoedingen als bedoeld in [artikel 4.6, eerste lid, onder f, van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.6);
 
-- –. **opleiding tot MMP:** opleiding tot registerloods: Master in Maritime Piloting;
+- – *opleiding tot MMP:* opleiding tot registerloods: Master in Maritime Piloting;
 
-- –. **organisatie:** organisatie aangewezen krachtens [artikel 15a, tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15a);
+- – *organisatie:* organisatie aangewezen krachtens [artikel 15a, tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15a);
 
-- –. **personeel:** werknemers in dienst van de organisatie;
+- – *personeel:* werknemers in dienst van de organisatie;
 
-- –. **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 2 van de Dienstverleningsverordening registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004385&artikel=2); en
+- – *samenwerkingsverband:* samenwerkingsverband als bedoeld in [artikel 2 van de Dienstverleningsverordening registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004385&artikel=2); en
 
-- –. **verrichting:** beroepsuitoefening door iedere registerloods aan boord van een schip dan wel vanaf een ander schip in een loodsgebied.
+- – *verrichting:* beroepsuitoefening door iedere registerloods aan boord van een schip dan wel vanaf een ander schip in een loodsgebied.
 
 ### Hoofdstuk II. Maatstaven voor betalingen
 
@@ -119,60 +91,6 @@ De vergoedingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.n
 
 2. Als vaststelling van een verrichting geldt de registratie van deze verrichting in het inzet- en planningssysteem.
 
-#### Paragraaf 3. Aan de bij verordening aangewezen rechtspersoon
-
-##### Artikel 7
-
-1. De bruto-vergoeding uit hoofde van functioneel leeftijdspensioen van een registerloods bedraagt voor de eerste zestig maanden € 58.544,91 op jaarbasis en daarna € 52.103,04 op jaarbasis.
-
-2. De vergoeding wordt toegekend aan de registerloodsen die vóór 1 april 2004 in het register zijn ingeschreven en waarvan de inschrijving uiterlijk op 1 juli 2008 is doorgehaald krachtens de [Inschrijvingsverordening registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004383). De toekenning vindt plaats met ingang van de datum van doorhaling in het register krachtens de Inschrijvingsverordening registerloodsen en wordt beëindigd per de eerste van de maand volgend op die waarin de betreffende registerloods de leeftijd van vijfenzestig jaar heeft bereikt. Op de vergoeding wordt in mindering gebracht de uitkering die aan betrokkene is toegekend krachtens de Algemene Arbeidsongeschiktheidswet of de [Wet Arbeidsongeschiktheidsverzekering Zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) en het tijdelijk ouderdomspensioen als bedoeld in artikel 41 van het Pensioenstatuut 2004 van de Stichting Beroepspensioenfonds Loodsen, alsmede in het laatste geval tevens het bedrag gelijk aan de pensioenpremie die degenen, aan wie vóór 1 april 2004 de vergoeding is toegekend, verschuldigd zijn aan de Stichting Beroepspensioenfonds Loodsen.
-
-3. De rechtspersoon die is belast met de uitkering van het functioneel leeftijdspensioen aan registerloodsen is verplicht de vergoeding, met inachtneming van de vorige leden, volledig uit te keren aan degene die recht heeft op functioneel leeftijdspensioen.
-
-4. Met betrekking tot de vergoeding uit hoofde van functioneel leeftijdspensioen is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=4&z=2024-10-17&g=2024-10-17), van overeenkomstige toepassing.
-
-5. Indien in het eerste of tweede lid een wijziging wordt aangebracht die inhoudt of tot gevolg heeft een vermindering van de daarin genoemde of bedoelde vergoedingen, een vermindering van de genoemde termijn van zestig maanden dan wel een wijziging wordt aangebracht in de strekking van het vierde of dit lid, geldt deze wijziging voor degenen die op de datum van die wijziging reeds een functioneel leeftijdspensioen hebben, eerst met ingang van de eerste dag van de maand die volgt na honderdtwintig aaneengesloten maanden, te rekenen vanaf de eerste dag van de maand die aansluit op de maand waarin die wijziging is aangebracht.
-
-#### Paragraaf 4. Financiering ondersteunende taken
-
-##### Artikel 8
-
-De vaststelling van de bedragen, de verschuldigdheid daarvan en de maatstaven voor de vaststelling en de betaling met betrekking tot de taken van de ten behoeve van de registerloodsen te verlenen diensten geschiedt volgens de regels met betrekking tot de samenwerkingsverbanden.
-
-##### Artikel 9
-
-1. Het door de organisatie te betalen bedrag uit hoofde van functioneel leeftijdsontslag van personeel wordt berekend op basis van de voor dat personeel bij of krachtens de collectieve arbeidsovereenkomst geldende uitkeringsregeling wegens functioneel leeftijdsontslag.
-
-2. De vergoeding wordt toegekend per de eerste van de maand volgende op de maand, waarin betrokkene de voor hem bij de in het eerste lid bedoelde collectieve arbeidsovereenkomst bepaalde leeftijdsgrens wegens functioneel leeftijdsontslag heeft bereikt, en uit dien hoofde de betreffende arbeidsovereenkomst eindigt, en wordt beëindigd per de eerste van de maand volgende op die, waarin betrokkene de leeftijd van vijfenzestig jaar heeft bereikt.
-
-3. Met betrekking tot de in het eerste lid bedoelde vergoedingen is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=4&z=2024-10-17&g=2024-10-17), van overeenkomstige toepassing.
-
-#### Paragraaf 5. Aan de met het beheer van het bufferfonds belaste rechtspersoon
-
-##### Artikel 10
-
-Vervallen
-
-##### Artikel 11
-
-Deze verordening wordt geplaatst in de Staatscourant en treedt in werking met ingang van 1 oktober 1995.
-
-##### Artikel 12
-
-Deze verordening wordt geplaatst in de Staatscourant en treedt in werking met ingang van 1 oktober 1995.
-
-## Bijlage. bij de Financiële verordening Loodswezen, bedoeld in artikel 1, onderdeel i, van deze verordening
-
-### A
-
-Het loodsgebied, bedoeld in [artikel 1, onderdeel i, van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=I&artikel=1&z=2004-04-01&g=2008-01-01) is een van de navolgende:
-
-### A
-
-Het loodsgebied, bedoeld in [artikel 1, onderdeel i, van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=I&artikel=1&z=2008-03-06&g=2008-03-06) is een van de navolgende:
-
-**Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
-
 ##### Artikel 6a
 
 1. Als vaststelling voor de tijdsduur van het loodsen vanaf de wal geldt het door de registerloods ingevulde en ondertekende loodsjournaal, zoals dit is vastgesteld krachtens [artikel 2.5, eerste lid, van het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=2.5).
@@ -187,7 +105,7 @@ Als vaststelling van een afbestelling geldt de registratie daarvan in het inzet-
 
 De vergoeding voor een in [artikel 4.6 van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.6) genoemde bijzondere loodsreis is gelijk aan het voor de betreffende bijzondere loodsreis vastgestelde tarief.
 
-#### Paragraaf 4. Financiering ondersteunende taken
+#### Paragraaf 2a. Indirect productieve loodstaken
 
 ##### Artikel 6d
 
@@ -207,7 +125,7 @@ De vergoeding voor een in [artikel 4.6 van het Besluit markttoezicht registerloo
 
 2. De deelname van registerloodsen aan bij of krachtens een wet ingestelde organen, indien deze deelname voortvloeit uit het zijn van registerloods, wordt vergoed op basis van werkelijke uren.
 
-#### Paragraaf 5. Aan de met het beheer van het bufferfonds belaste rechtspersoon
+#### Paragraaf 2b. Aan de corporatie
 
 ##### Artikel 6g
 
@@ -215,122 +133,46 @@ De vergoedingen voor de kosten, bedoeld in [artikel 3, tweede lid, onderdeel b, 
 
 #### Paragraaf 3. Aan de bij verordening aangewezen rechtspersoon
 
-#### Paragraaf 4. Financiering ondersteunende taken
+##### Artikel 7
 
-#### Paragraaf 5. Aan de met het beheer van het bufferfonds belaste rechtspersoon
+1. De bruto-vergoeding uit hoofde van functioneel leeftijdspensioen van een registerloods bedraagt voor de eerste zestig maanden € 58.544,91 op jaarbasis en daarna € 52.103,04 op jaarbasis.
 
-## Bijlage. bij de Financiële verordening Loodswezen, bedoeld in artikel 1, onderdeel i, van deze verordening
+2. De vergoeding wordt toegekend aan de registerloodsen die vóór 1 april 2004 in het register zijn ingeschreven en waarvan de inschrijving uiterlijk op 1 juli 2008 is doorgehaald krachtens de [Inschrijvingsverordening registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004383). De toekenning vindt plaats met ingang van de datum van doorhaling in het register krachtens de Inschrijvingsverordening registerloodsen en wordt beëindigd per de eerste van de maand volgend op die waarin de betreffende registerloods de leeftijd van vijfenzestig jaar heeft bereikt. Op de vergoeding wordt in mindering gebracht de uitkering die aan betrokkene is toegekend krachtens de Algemene Arbeidsongeschiktheidswet of de [Wet Arbeidsongeschiktheidsverzekering Zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) en het tijdelijk ouderdomspensioen als bedoeld in artikel 41 van het Pensioenstatuut 2004 van de Stichting Beroepspensioenfonds Loodsen, alsmede in het laatste geval tevens het bedrag gelijk aan de pensioenpremie die degenen, aan wie vóór 1 april 2004 de vergoeding is toegekend, verschuldigd zijn aan de Stichting Beroepspensioenfonds Loodsen.
 
-Vervallen
+3. De rechtspersoon die is belast met de uitkering van het functioneel leeftijdspensioen aan registerloodsen is verplicht de vergoeding, met inachtneming van de vorige leden, volledig uit te keren aan degene die recht heeft op functioneel leeftijdspensioen.
 
-### A
+4. Met betrekking tot de vergoeding uit hoofde van functioneel leeftijdspensioen is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=4&z=2024-10-17&g=2024-10-17), van overeenkomstige toepassing.
 
-Het loodsgebied, bedoeld in [artikel 1, onderdeel i, van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=I&artikel=1&z=2008-05-31&g=2008-01-01) is een van de navolgende:
-
-### A
-
-Het loodsgebied, bedoeld in [artikel 1, onderdeel i, van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=I&artikel=1&z=2008-05-31&g=2008-07-01) is een van de navolgende:
-
-## Bijlage I
-
-Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Pernis-Rotterdam.
-
-## Bijlage II
-
-Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Pernis-Rotterdam.
-
-## Bijlage I
-
-Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Pernis-Rotterdam.
-
-**Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
+5. Indien in het eerste of tweede lid een wijziging wordt aangebracht die inhoudt of tot gevolg heeft een vermindering van de daarin genoemde of bedoelde vergoedingen, een vermindering van de genoemde termijn van zestig maanden dan wel een wijziging wordt aangebracht in de strekking van het vierde of dit lid, geldt deze wijziging voor degenen die op de datum van die wijziging reeds een functioneel leeftijdspensioen hebben, eerst met ingang van de eerste dag van de maand die volgt na honderdtwintig aaneengesloten maanden, te rekenen vanaf de eerste dag van de maand die aansluit op de maand waarin die wijziging is aangebracht.
 
 ##### Artikel 7a
 
 De reserveringen met betrekking tot het functioneel leeftijdspensioen van registerloodsen die moeten plaatsvinden vanuit de jaarlijks werkelijke in rekening gebrachte som van loodsgelden worden door de rechtspersoon die belast is met de uitkering van het leeftijdspensioen aan registerloodsen gestort in een daarvoor bestemd volledig separaat fonds of andere overeenkomstige voorziening.
 
+#### Paragraaf 4. Financiering ondersteunende taken
+
+##### Artikel 8
+
+De vaststelling van de bedragen, de verschuldigdheid daarvan en de maatstaven voor de vaststelling en de betaling met betrekking tot de taken van de ten behoeve van de registerloodsen te verlenen diensten geschiedt volgens de regels met betrekking tot de samenwerkingsverbanden.
+
 ##### Artikel 8a
 
 De reserveringen met betrekking tot het functioneel leeftijdsontslag die moeten plaatsvinden vanuit de jaarlijks werkelijke in rekening gebrachte som van loodsgelden worden door de organisatie gestort in een daarvoor bestemd volledig separaat fonds of andere overeenkomstige voorziening.
 
-## Bijlage. bij de Financiële verordening Loodswezen, bedoeld in artikel 1, onderdeel i, van deze verordening
+##### Artikel 9
 
-### B
+1. Het door de organisatie te betalen bedrag uit hoofde van functioneel leeftijdsontslag van personeel wordt berekend op basis van de voor dat personeel bij of krachtens de collectieve arbeidsovereenkomst geldende uitkeringsregeling wegens functioneel leeftijdsontslag.
 
-Voor de toepassing van de onder A, nrs. 6 tot en met 11, omschreven loodsgebieden worden de navolgende trajectgebieden onderscheiden:
+2. De vergoeding wordt toegekend per de eerste van de maand volgende op de maand, waarin betrokkene de voor hem bij de in het eerste lid bedoelde collectieve arbeidsovereenkomst bepaalde leeftijdsgrens wegens functioneel leeftijdsontslag heeft bereikt, en uit dien hoofde de betreffende arbeidsovereenkomst eindigt, en wordt beëindigd per de eerste van de maand volgende op die, waarin betrokkene de leeftijd van vijfenzestig jaar heeft bereikt.
 
-**Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
-
-#### Paragraaf 4. Financiering ondersteunende taken
+3. Met betrekking tot de in het eerste lid bedoelde vergoedingen is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=4&z=2024-10-17&g=2024-10-17), van overeenkomstige toepassing.
 
 #### Paragraaf 5. Slotbepalingen
 
-## Bijlage I
-
-Ligt ter inzage bij de Nederlandse Loodsencorporatie.
-
-### A
-
-Het loodsgebied, bedoeld in [artikel 1, onderdeel i, van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=I&artikel=1&z=2008-10-03&g=2008-07-01) is een van de navolgende:
-
-## Bijlage II
-
-Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Pernis-Rotterdam.
-
-## Bijlage I
-
-Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Pernis-Rotterdam.
-
-**Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
-
-#### Paragraaf 5. Aan de met het beheer van het bufferfonds belaste rechtspersoon
-
 ##### Artikel 10
 
-1. De algemene raad draagt zorg voor het bestaan van een rechtspersoon tot beheer van een bufferfonds voor financiering van risico’s met betrekking tot het loodsen en de bedrijfsvoering.
-
-2. De maximale omvang van het bufferfonds bedraagt € 11.344.505,40
-
-3. De voeding van het bufferfonds vindt plaats vanuit de samenwerkingsverbanden door middel van jaarlijkse dotaties.
-
-4. De jaarlijkse dotatie bedraagt 5% van het op dat jaar betrekking hebbende loodsgeld, berekend over het loodsgeld dat het bedrag van € 104.369.449,70 te boven gaat met een maximum van
-
-€ 907.560,43 per jaar.
-
-5. In afwijking van het vierde lid bedraagt de dotatie € 907.560,43 indien de omvang van het bufferfonds minder is dan € 4.537.802,16. Deze dotatie vindt plaats in het jaar waarin de omvang van het bufferfonds minder is dan € 4.537.802,16.
-
-6. Eveneens in afwijking van het vierde lid vindt er gedurende een jaar geen dotatie plaats indien bij het bereikt hebben van de maximale omvang van het bufferfonds de maximale omvang volgens de jaarrekening uitsluitend is verminderd als gevolg van de waardedaling van het vermogen van het bufferfonds.
+*Vervallen*
 
 ##### Artikel 11
 
-Deze verordening kan worden aangehaald als Financiële verordening Loodswezen.
-
-## Bijlage III
-
-Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Pernis-Rotterdam.
-
-### B
-
-Voor de toepassing van de onder A, nrs. 6 tot en met 11, omschreven loodsgebieden worden de navolgende trajectgebieden onderscheiden:
-
-## Bijlage II
-
-Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Pernis-Rotterdam.
-
-## Bijlage III
-
-Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Pernis-Rotterdam.
-
-**Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
-
-## Bijlage. bij de Financiële verordening Loodswezen, bedoeld in artikel 1, onderdeel i, van deze verordening
-
-Vervallen
-
-## Bijlage II
-
-Ligt ter inzage bij de Nederlandse Loodsencorporatie.
-
-**Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
-
-**Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
+Deze verordening wordt geplaatst in de Staatscourant en treedt in werking met ingang van 1 oktober 1995.

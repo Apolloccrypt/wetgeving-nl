@@ -1,40 +1,17 @@
 ---
 title: "Circulaire bereddingskosten evacués"
 identifier: "BWBR0007612"
-country: "nl"
-rank: "circulaire"
-publication_date: "1995-10-27"
-last_updated: "1995-10-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007612"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6414813"
-version_id: "11081852"
-internal_id: "C14994111"
-label_id: "6403654"
-original_entry_into_force: "1995-10-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007612/1995-10-27/0"
-intitule_bron: "Stcrt.1995-209"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-10-18"
-intitule_published: "1995-10-27"
-intitule_in_force: "1995-10-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-209"
-original_signed_date: "1995-10-18"
-original_published_date: "1995-10-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1995-209-p13-SC4060"
-entry_into_force_date: "1995-10-27"
-jci_1_3: "jci1.3:c:BWBR0007612&z=1995-10-27&g=1995-10-27"
-jci_1_0: "1.0:c:BWBR0007612&g=1995-10-27"
-citeertitel_status: "redactioneel"
-signed_date: "1995-10-18"
-entry_into_force: "1995-10-27"
+publicatiedatum: 1995-10-27
+laatste_update: 1995-10-27
+status: geldig
+toestand: 1995-10-27
+bron: "https://wetten.overheid.nl/BWBR0007612"
+opgehaald: 2026-08-02
 ---
-# Circulaire bereddingskosten evacués
 
-Geacht gemeentebestuur!
+# Circulaire bereddingskosten evacués
 
 ### Inleiding
 
@@ -68,7 +45,7 @@ De uitvoering van de regeling zal verzorgd worden door het Tijdelijk Bureau Scha
 
 Ik verzoek u om via de gebruikelijke gemeentelijke voorlichtingskanalen bekend te maken dat een vergoeding voor bereddingskosten kan wordenaangevraagd, bijvoorbeeld door publicatie in huis-aan-huis-bladen. Eventuele advertentiekosten kunt u op basis van de bijbehorende factuur en een kopie van de advertentie bij Binnenlandse Zaken declareren.
 
-Ik verzoek u om bijgaand aanvraagformulier op zijn verzoek aan gedupeerde ter beschikking te stellen en dit formulier weer in te nemen nadat het door de gedupeerde is ingevuld. Ik vraag u na te gaan of de aanvrager gedurende de wateroverlast op een woonadres als bedoeld in [artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens](onbekend) stond ingeschreven in een basisadministratie van uw gemeente en na te gaan of hij in een evacuatiegebied woonde en van beide punten melding te maken op het formulier. Van een evacuatiegebied is sprake als er een gemeentelijk bevel tot evacuatie van kracht was of als er een gemeentelijk advies tot evacuatie was gegeven of als de woning daadwerkelijk overstroomd werd.
+Ik verzoek u om bijgaand aanvraagformulier op zijn verzoek aan gedupeerde ter beschikking te stellen en dit formulier weer in te nemen nadat het door de gedupeerde is ingevuld. Ik vraag u na te gaan of de aanvrager gedurende de wateroverlast op een woonadres als bedoeld in artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens stond ingeschreven in een basisadministratie van uw gemeente en na te gaan of hij in een evacuatiegebied woonde en van beide punten melding te maken op het formulier. Van een evacuatiegebied is sprake als er een gemeentelijk bevel tot evacuatie van kracht was of als er een gemeentelijk advies tot evacuatie was gegeven of als de woning daadwerkelijk overstroomd werd.
 
 Wilt u vervolgens de formulieren naar het TBSW van Binnenlandse Zaken sturen? Dit bureau neemt de verdere afwikkeling en betaling aan aanvragers voor zijn rekening. U hoeft met de eerste verzending naar het TBSW niet te wachten tot alle formulieren bij u zijn ingeleverd. Voor de door u te maken administratieve kosten (excl. advertentiekosten) zal ik u een bedrag van f 5,– per (bij BiZa ingediende) aanvraag vergoeden.
 

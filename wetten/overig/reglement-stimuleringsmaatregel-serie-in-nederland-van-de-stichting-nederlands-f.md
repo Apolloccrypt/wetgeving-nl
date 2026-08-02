@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052902"
-opgehaald: 2026-07-31
+opgehaald: 2026-08-02
 ---
 
 # Reglement Stimuleringsmaatregel Serie in Nederland van de Stichting Nederlands Fonds voor de Film

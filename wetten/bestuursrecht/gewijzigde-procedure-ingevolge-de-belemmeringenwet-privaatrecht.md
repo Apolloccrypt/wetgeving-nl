@@ -1,51 +1,30 @@
 ---
 title: "Circulaire van de Minister van Verkeer en Waterstaat aan de hoofdingenieur-directeuren in de regionale directies van de Rijkswaterstaat, met uitzondering van de directie Noordzee, alsmede de hoofdingenieur-directeur van het Rijksinstituut voor Integraal Zoetwaterbeheer en Afvalwaterbehandeling, inzake de gewijzigde procedure ingevolge de Belemmeringenwet Privaatrecht"
+citeertitel: "Gewijzigde procedure ingevolge de Belemmeringenwet Privaatrecht"
 identifier: "BWBR0007589"
-country: "nl"
-rank: "circulaire"
-publication_date: "1995-10-16"
-last_updated: "1995-10-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007589"
+categorie: "Milieu"
 soort: "circulaire"
-stam_id: "6411643"
-version_id: "11078512"
-internal_id: "C14990261"
-label_id: "6400414"
-original_entry_into_force: "1995-10-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007589/1995-10-16/0"
-intitule_bron: "Stcrt.1995-200"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-09-29"
-intitule_published: "1995-10-16"
-intitule_in_force: "1995-10-16"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-200"
-original_signed_date: "1995-09-29"
-original_published_date: "1995-10-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1995-200-p0-SC3942"
-entry_into_force_date: "1995-10-16"
-jci_1_3: "jci1.3:c:BWBR0007589&z=1995-10-16&g=1995-10-16"
-jci_1_0: "1.0:c:BWBR0007589&g=1995-10-16"
-citeertitel_status: "redactioneel"
-short_title: "Gewijzigde procedure ingevolge de Belemmeringenwet Privaatrecht"
-signed_date: "1995-09-29"
-entry_into_force: "1995-10-16"
+publicatiedatum: 1995-10-16
+laatste_update: 1995-10-16
+status: geldig
+toestand: 1995-10-16
+bron: "https://wetten.overheid.nl/BWBR0007589"
+opgehaald: 2026-08-02
 ---
+
 # Circulaire van de Minister van Verkeer en Waterstaat aan de hoofdingenieur-directeuren in de regionale directies van de Rijkswaterstaat, met uitzondering van de directie Noordzee, alsmede de hoofdingenieur-directeur van het Rijksinstituut voor Integraal Zoetwaterbeheer en Afvalwaterbehandeling, inzake de gewijzigde procedure ingevolge de Belemmeringenwet Privaatrecht
 
-Zoals u bekend is wordt de procedure ingevolge de [Belemmeringenwet Privaatrecht](onbekend), welke leidt tot een door de Minister van Verkeer en Waterstaat op te leggen plicht tot het gedogen van de aanleg en/of instandhouding, dan wel verplaatsing van een openbaar werk, gevoerd vanuit de Hoofddirectie van de Waterstaat.
+Zoals u bekend is wordt de procedure ingevolge de Belemmeringenwet Privaatrecht, welke leidt tot een door de Minister van Verkeer en Waterstaat op te leggen plicht tot het gedogen van de aanleg en/of instandhouding, dan wel verplaatsing van een openbaar werk, gevoerd vanuit de Hoofddirectie van de Waterstaat.
 
-### De praktijk ingevolge de [Belemmeringenwet Privaatrecht](onbekend) tot op heden
+### De praktijk ingevolge de Belemmeringenwet Privaatrecht tot op heden
 
 Sedert het verschijnen van het Rondschrijven van de Minister van Verkeer en Waterstaat van 24 december 1971, no. HW/ROO 82 133, gericht aan de colleges van Gedeputeerde Staten in de provincies, betreffende de versnelling van de procedure bij toepassing van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936), worden de verzoeken om toepassing van deze wet rechtstreeks ingediend bij de dagelijkse besturen van de provincies. Gedeputeerde Staten van de betreffende provincie vervullen vervolgens een coördinerende rol in de te doorlopen procedure en brengen uiteindelijk verslag en advies uit aan de Minister van Verkeer en Waterstaat. Nadat ook andere departementen (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, dan wel Economische Zaken), de hoofdingenieur-directeur in de betrokken regionale directie van de Rijkswaterstaat, alsmede in voorkomende gevallen de hoofdingenieur-directeur van het Rijksinstituut voor Integraal Zoetwaterbeheer en Afvalwaterbehandeling van hun adviezen hebben doen blijken, kan vervolgens ter hoofddirectie na toetsing aan de wettelijke criteria de ministeriële beschikking, houdende oplegging van de gedoogplicht, worden voorbereid en genomen.
 
-De taak van de regionale directie van de Rijkswaterstaat is derhalve tot op heden materieel beperkt tot het uitbrengen van advies aan de Directeur-Generaal van de Rijkswaterstaat naar aanleiding van de ingevolge artikel 2, vierde lid, der wet gehouden zitting. Hierbij wordt aangetekend dat de [Regeling Mandaat Rijkswaterstaat 1994](onbekend), in tegenstelling tot de daaraan voorafgaande regeling, toepassing van deze wet niet meer uitzondert van mandaat.
+De taak van de regionale directie van de Rijkswaterstaat is derhalve tot op heden materieel beperkt tot het uitbrengen van advies aan de Directeur-Generaal van de Rijkswaterstaat naar aanleiding van de ingevolge artikel 2, vierde lid, der wet gehouden zitting. Hierbij wordt aangetekend dat de Regeling Mandaat Rijkswaterstaat 1994, in tegenstelling tot de daaraan voorafgaande regeling, toepassing van deze wet niet meer uitzondert van mandaat.
 
 ### Deconcentratie
 
-Vanuit de Hoofddirectie van de Waterstaat (Hoofdafdeling Bestuurlijke en Juridische Zaken) is in het kader van de herijking van taken binnen de Afdeling Infrastructuur en Algemeen Bestuurlijke Zaken de wens ontstaan de praktijk in overeenstemming te brengen met het per 1 januari 1994 verstrekte mandaat, in die zin dat de regionale directies van de Rijkswater-staat zonder tussenkomst van de hoofddirectie, namens de Minister van Verkeer en Waterstaat beslissingen in het kader van de toepassing van de [Belemmeringenwet Privaatrecht](onbekend) kunnen nemen. In de praktijk wordt namelijk geen gebruik van het mandaat gemaakt. Het belangrijkste doel van deze circulaire, alsmede het tot stand gekomen ’Handboek Belemmeringenwet Privaatrecht c.a.’ is dan ook het overdragen van de bij de hoofddirectie aanwezige kennis op het terrein van de belemmeringenwetgeving, zodat de regionale directies van de Rijkswaterstaat het aan de hoofdingenieur-directeur in de regionale directies van de Rijkswaterstaat verleende mandaat kunnen waarmaken.
+Vanuit de Hoofddirectie van de Waterstaat (Hoofdafdeling Bestuurlijke en Juridische Zaken) is in het kader van de herijking van taken binnen de Afdeling Infrastructuur en Algemeen Bestuurlijke Zaken de wens ontstaan de praktijk in overeenstemming te brengen met het per 1 januari 1994 verstrekte mandaat, in die zin dat de regionale directies van de Rijkswater-staat zonder tussenkomst van de hoofddirectie, namens de Minister van Verkeer en Waterstaat beslissingen in het kader van de toepassing van de Belemmeringenwet Privaatrecht kunnen nemen. In de praktijk wordt namelijk geen gebruik van het mandaat gemaakt. Het belangrijkste doel van deze circulaire, alsmede het tot stand gekomen ’Handboek Belemmeringenwet Privaatrecht c.a.’ is dan ook het overdragen van de bij de hoofddirectie aanwezige kennis op het terrein van de belemmeringenwetgeving, zodat de regionale directies van de Rijkswaterstaat het aan de hoofdingenieur-directeur in de regionale directies van de Rijkswaterstaat verleende mandaat kunnen waarmaken.
 
 ### Gevolgen voor de praktijk
 
@@ -63,10 +42,42 @@ Meergenoemde circulaire daterend uit 1971 wordt op een nog nader te bepalen tijd
 
 De procedure, welke op voordracht van de Minister van Verkeer en Waterstaat leidt tot de totstandkoming van een koninklijk besluit, houdende de erkenning van het openbaar belang van werken als bedoeld in [artikel 1, van de Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=1), zal tevens – zoals tot op heden gebruikelijk is – vanuit de hoofddirectie gevoerd worden.
 
-De [circulaires van de Ministers van Verkeer en Waterstaat van 17 november 1965](onbekend), no. 63 856, afdeling Waterstaatsrecht, 13 januari 1967, no. 609, afdeling R, [4 november 1968](onbekend), no. ROO 73 907, [6 augustus 1969](onbekend), no. HW/ROO 47 290, alsmede [12 november 1979](onbekend), no. HW/ROO 82 133, blijven ten aanzien van (toekomstige) verzoeken om toepassing der wet onverminderd van kracht.
+De circulaires van de Ministers van Verkeer en Waterstaat van 17 november 1965, no. 63 856, afdeling Waterstaatsrecht, 13 januari 1967, no. 609, afdeling R, 4 november 1968, no. ROO 73 907, 6 augustus 1969, no. HW/ROO 47 290, alsmede 12 november 1979, no. HW/ROO 82 133, blijven ten aanzien van (toekomstige) verzoeken om toepassing der wet onverminderd van kracht.
 
-### Leidraad gewijzigde procedure ingevolge de [Belemmeringenwet Privaatrecht](onbekend)
+### Leidraad gewijzigde procedure ingevolge de Belemmeringenwet Privaatrecht
 
 De te volgen (gewijzigde) procedure ingevolge de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) kan als volgt puntsgewijs weergegeven worden:
+
+- 1. De voortoetsing van het verzoek c.a. om toepassing van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) geschiedt door de hoofdingenieur-directeur in de betrokken regionale directie van de Rijkswaterstaat.
+
+- 2. De indiening van het verzoek c.a. geschiedt bij de hoofdingenieur-directeur in de betrokken regionale directie van de Rijkswaterstaat. Indiening van het verzoek c.a. geschiedt tenminste in viervoud. Extra exemplaren dienen bijgevoegd te worden ingeval de onroerende zaken, waarvan het gebruiksrecht benodigd is, in meer dan één gemeente gelegen zijn. Voor elke gemeente afzonderlijk dient een exemplaar van het verzoek c.a. ingezonden te worden. Meer dan vier exemplaren kunnen tevens benodigd zijn in geval van advisering door beide departementen (VROM/EZ) en/of door de hoofdingenieur-directeur van het Rijksinstituut voor Integraal Zoetwaterbeheer en Afvalwaterbehandeling.
+
+- 3. Voldoende exemplaren van het verzoek c.a. worden na ontvangst door de hoofdingenieur-directeur gezonden aan het betreffende college van Gedeputeerde Staten, onder verwijzing naar de inhoud van deze circulaire.
+
+- 4. Het college van Gedeputeerde Staten bepaalt in overleg met de burgemeester(s) van de gemeente(n) waarbinnen de onroerende zaak/zaken gelegen is/zijn plaats, datum en tijdstip van de ingevolge artikel 2, vierde lid, der wet te houden zitting en doet daarvan mededeling aan de hoofdingenieur-directeur in de betrokken regionale directie van de Rijkswaterstaat.
+
+- 5. Een exemplaar van het verzoek c.a. wordt door het college van Gedeputeerde Staten gezonden aan de burgemeester(s) van de betrokken gemeente(n), met het verzoek toepassing te geven aan artikel 2, eerste tot en met derde lid, der wet (publicatie en tervisielegging verzoek c.a./kennisgeving aan rechthebbende(n)), onder verwijzing naar de inhoud van deze circulaire.
+
+- 6. De hoofdingenieur-directeur in de betrokken regionale directie van de Rijkswaterstaat machtigt vooraf een of meerdere deskundige(n) ter bijwoning van de te houden zitting.
+
+- 7. Na genoemde zitting, alwaar de mogelijkheid bestaat tot het indienen/verwoorden van schriftelijke/mondelinge bezwaren en het voeren van overleg tussen verzoeker en rechthebbende(n), wordt het onder 3 genoemde verzoek c.a., alsmede het advies van het college van Gedeputeerde Staten daaromtrent door dit bestuursorgaan aan de hoofdingenieur-directeur in de betrokken regionale directie van de Rijkswaterstaat toegezonden, vergezeld van: Bij overlegging van bovengenoemde stukken ware door het college van Gedeputeerde Staten in het uit te brengen advies zekerheidshalve te vermelden dat de in deze circulaire voorgestelde procedure is gevolgd.
+
+   - a. de stukken, welke ter inzage hebben gelegen met op elk dezer stukken een verklaring van de desbetreffende burgemeester dat het stuk ter voldoening aan het bepaalde in artikel 2, eerste lid, der wet ter gemeentesecretarie ter inzage heeft gelegen, met vermelding daarbij van het tijdvak waarbinnen deze tervisielegging heeft plaatsgevonden;
+
+   - b. het proces-verbaal, dan wel de processen-verbaal van de gehouden zitting(en), onder bijvoeging van ontvangen bezwaarschriften;
+
+   - c. een exemplaar van het nieuwsblad of de nieuwsbladen en/of een afschrift van de bekendmaking van gemeentewege op het publicatiebord, waarin mededeling is gedaan van de terinzagelegging, als bedoeld in artikel 2, der wet;
+
+   - d. een afschrift van elk van de kennisgevingen aan de rechthebbenden, als bedoeld in artikel 2, der wet;
+
+   - e. een uittreksel uit de kadastrale registratie en/of het hypotheekregister;
+
+   - f. voorts alle overige stukken, waarvan de kennisneming bevorderlijk kan zijn voor een juiste beoordeling van de zaak in kwestie.
+
+- 8. Na de zitting worden eveneens afschriften van het advies van het college van Gedeputeerde Staten en het uitgebrachte proces-verbaal inclusief eventueel ontvangen bezwaarschriften, alsmede een exemplaar van het verzoek c.a. om toepassing der wet, door dit bestuursorgaan, al naar gelang de aard van de werken waarvoor toepassing van de wet is verzocht, gezonden aan de Minister van Economische Zaken en/of de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, met het verzoek aan deze(n) zijn/hun advies/adviezen omtrent de desbetreffende aangelegenheid uit te brengen aan de hoofdingenieur-directeur in de betrokken regionale directie van de Rijkswaterstaat.
+
+- 9. Ingeval het verzoek om toepassing der wet werken betreft die verband houden met de zuivering van afvalwater, worden door het college van Gedeputeerde Staten afschriften van de onder 8 genoemde stukken, alsmede een exemplaar van het verzoek c.a. om toepassing der wet gezonden aan de hoofdingenieur-directeur van het Rijksinstituut voor Integraal Zoetwater-beheer en Afvalwaterbehandeling, met het verzoek zijn advies uit te brengen aan de hoofdingenieur-directeur in de betrokken regionale directie van de Rijkswaterstaat.
+
+- 10. Na ontvangst door de hoofdingenieur-directeur in de betrokken regionale directie van de Rijkswaterstaat van de onder 7 genoemde stukken, alsmede de ingewonnen adviezen, beslist deze omtrent het opleggen van de gedoogplicht.
 
 Ik verzoek u overeenkomstig de voorgestelde gedragslijn te handelen ten aanzien van die verzoeken om toepassing van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936), welke na bekendmaking van deze circulaire in de Staatscourant ingediend worden.

@@ -1,42 +1,17 @@
 ---
 title: "Instellingsbesluit Commissie onderzoek aan het lichaam"
 identifier: "BWBR0007431"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-06-16"
-last_updated: "1995-06-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007431"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4278103"
-version_id: "6041692"
-internal_id: "C6245091"
-label_id: "4256664"
-dtd_version: "2.0"
-original_entry_into_force: "1995-06-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007431/1995-06-16/0"
-intitule_bron: "Stcrt.1995-113"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-06-07"
-intitule_published: "1995-06-15"
-intitule_in_force: "1995-06-15"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-113"
-original_signed_date: "1995-06-07"
-original_published_date: "1995-06-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-06-16"
-jci_1_3: "jci1.3:c:BWBR0007431&z=1995-06-16&g=1995-06-16"
-jci_1_0: "1.0:c:BWBR0007431&g=1995-06-16"
-citeertitel_status: "officieel"
-signed_date: "1995-06-07"
-entry_into_force: "1995-06-16"
+publicatiedatum: 1995-06-16
+laatste_update: 1995-06-16
+status: geldig
+toestand: 1995-06-16
+bron: "https://wetten.overheid.nl/BWBR0007431"
+opgehaald: 2026-08-02
 ---
+
 # Instellingsbesluit Commissie onderzoek aan het lichaam
-
-Overwegende dat het wenselijk is dat het onderzoek aan het lichaam, zoals o.a. vervat in de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=56) en [195 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195), wordt herzien.
-
-Besluit:
 
 ##### Artikel 1
 
@@ -56,13 +31,13 @@ De Commissie heeft tot taak de minister van Justitie van advies te dienen over d
 
 In de commissie hebben zitting:
 
-- a. **als voorzitter:** prof. mr. L.C.M. Meijers, advocaat-generaal bij de Hoge Raad der Nederlanden en bijzonder hoogleraar (em.) op het gebied van de internationaalrechtelijke, in het bijzonder mensenrechtelijke aspecten van het strafrecht, aan de Rijksuniversiteit Groningen;
+- a. *als voorzitter:* prof. mr. L.C.M. Meijers, advocaat-generaal bij de Hoge Raad der Nederlanden en bijzonder hoogleraar (em.) op het gebied van de internationaalrechtelijke, in het bijzonder mensenrechtelijke aspecten van het strafrecht, aan de Rijksuniversiteit Groningen;
 
-- b. **als leden:** mw. mr. A.G. Korvinus, advocaat-generaal bij het Gerechtshof te Amsterdam; prof. dr. J. Naeyé, bijzonder hoogleraar op het gebied van het politierecht aan de Vrije Universiteit te Amsterdam; mr. P.J. Baauw, advocaat te Utrecht en universitair hoofddocent Rijksuniversiteit Utrecht; mr. W.C.J. Robert, rechter in de arrondissementsrechtbank te Haarlem; prof. mr. B. Sluyters, advocaat te Amsterdam en bijzonder hoogleraar op het gebied van het gezondheidsrecht aan de Rijksuniversiteit Leiden;
+- b. *als leden:* mw. mr. A.G. Korvinus, advocaat-generaal bij het Gerechtshof te Amsterdam; prof. dr. J. Naeyé, bijzonder hoogleraar op het gebied van het politierecht aan de Vrije Universiteit te Amsterdam; mr. P.J. Baauw, advocaat te Utrecht en universitair hoofddocent Rijksuniversiteit Utrecht; mr. W.C.J. Robert, rechter in de arrondissementsrechtbank te Haarlem; prof. mr. B. Sluyters, advocaat te Amsterdam en bijzonder hoogleraar op het gebied van het gezondheidsrecht aan de Rijksuniversiteit Leiden;
 
-- c. **als adviserend lid:** mr. F.D. van Asbeck, raadadviseur bij de Directie Wetgeving van het Ministerie van Justitie;
+- c. *als adviserend lid:* mr. F.D. van Asbeck, raadadviseur bij de Directie Wetgeving van het Ministerie van Justitie;
 
-- d. **als secretaris:** mw. mr. G.M. Mintjes, raadadviseur bij de Directie Wetgeving van het Ministerie van Justitie.
+- d. *als secretaris:* mw. mr. G.M. Mintjes, raadadviseur bij de Directie Wetgeving van het Ministerie van Justitie.
 
 ##### Artikel 4
 

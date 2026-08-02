@@ -1,45 +1,18 @@
 ---
 title: "Griekse voorschriften tot uitvoering van de op 16 juli 1981 tussen Nederland en Griekenland gesloten Overeenkomst tot het vermijden van dubbele belasting"
+citeertitel: "Griekse uitvoeringsvoorschriften belastingovereenkomst Nederland-Griekenland"
 identifier: "BWBR0007906"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-06-19"
-last_updated: "1997-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007906"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4275603"
-version_id: "6039202"
-internal_id: "C6242601"
-label_id: "4254174"
-dtd_version: "2.0"
-original_entry_into_force: "1996-03-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007906/1997-06-19/0"
-intitule_bron: "Stcrt.1996-45"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-02-23"
-intitule_published: "1996-03-04"
-intitule_in_force: "1996-03-04"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-45"
-original_signed_date: "1996-02-23"
-original_published_date: "1996-03-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-03-06"
-jci_1_3: "jci1.3:c:BWBR0007906&z=1997-06-19&g=1997-06-19"
-jci_1_0: "1.0:c:BWBR0007906&g=1997-06-19"
-citeertitel_status: "officieel"
-short_title: "Griekse uitvoeringsvoorschriften belastingovereenkomst Nederland-Griekenland"
-signed_date: "1996-02-23"
-entry_into_force: "1996-03-06"
+publicatiedatum: 1996-03-06
+laatste_update: 1997-06-19
+status: geldig
+toestand: 1997-06-19
+bron: "https://wetten.overheid.nl/BWBR0007906"
+opgehaald: 2026-08-02
 ---
+
 # Griekse voorschriften tot uitvoering van de op 16 juli 1981 tussen Nederland en Griekenland gesloten Overeenkomst tot het vermijden van dubbele belasting
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
-
-Regeling inzake vermindering van Griekse belasting op dividenden, interest, royalty’s en enige andere soorten van inkomsten uit Griekse bron, genoten door inwoners van Nederland
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -65,9 +38,9 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007906&a
 
 - 1. Griekse belasting Volgens de huidige Griekse wetgeving zijn :
 
-- a. dividenden uit bronnen in Griekenland die door een niet-inwoner worden verkregen, in het algemeen vrijgesteld van inkomstenbelasting;
+   - a. dividenden uit bronnen in Griekenland die door een niet-inwoner worden verkregen, in het algemeen vrijgesteld van inkomstenbelasting;
 
-- b. interest en royalty’s uit bronnen in Griekenland die door een niet-inwoner worden verkregen, onderworpen aan een bronbelasting van onderscheidenlijk 40% en 25%. Deze bronbelasting op interest en royalty’s is voor de niet-inwoner eindheffing, tenzij hij deze inkomsten ontvangt door middel van een vaste inrichting in Griekenland.
+   - b. interest en royalty’s uit bronnen in Griekenland die door een niet-inwoner worden verkregen, onderworpen aan een bronbelasting van onderscheidenlijk 40% en 25%. Deze bronbelasting op interest en royalty’s is voor de niet-inwoner eindheffing, tenzij hij deze inkomsten ontvangt door middel van een vaste inrichting in Griekenland.
 
 - 2. Verzoek om vermindering bij de bron Als algemene regel geldt dat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007906&artikel=1&z=1997-06-19&g=1997-06-19) vermelde verminderingen in Griekenland bij de bron worden verleend. Tot het verkrijgen van de vermindering bij de bron dient de belanghebbende inwoner van Nederland gebruik te maken van een formulier ’Claim for the application of the Double Taxation Convention’. Dit formulier, luidende in de Griekse en in de Engelse taal, bestaat uit een exemplaar. Het formulier ’Claim for the application of the Double Taxation Convention’ moet de belanghebbende inwoner van Nederland, na invulling en ondertekening, zenden aan het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. Vorenbedoeld hoofd voorziet het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging, maakt vervolgens daarvan een fotocopie ten behoeve van de legger van de aanvrager en zendt het formulier daarna aan hem terug. Nadat de belanghebbende inwoner van Nederland het formulier van vorenbedoeld hoofd heeft terugontvangen, zendt hij dit naar de Griekse schuldenaar van de inkomsten, die vervolgens die inkomsten mag uitbetalen onder inhouding van Griekse belasting naar ten hoogste het in de Nederlands-Griekse belastingovereenkomst neergelegde percentage. Voor elke Griekse schuldenaar van de inkomsten moet een apart formulier ’Claim for the application of the Double Taxation Convention’ worden gebruikt. Dit formulier is geldig vanaf de datum waarop het bij de Griekse schuldenaar van de inkomsten is ingediend tot en met 31 december van het jaar van indiening. Indien bijvoorbeeld de belanghebbende inwoner van Nederland het formulier op 1 maart 1996 voor de eerste keer bij de Griekse schuldenaar van de inkomsten heeft ingediend, mag die schuldenaar die inkomsten gedurende de periode van 1 maart 1996 tot en met 31 december 1996 uitbetalen onder inhouding van Griekse belasting naar ten hoogste het in de Overeenkomst neergelegde percentage.
 
@@ -75,9 +48,9 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007906&a
 
 - 4. Termijn van indiening van verzoeken om teruggaaf van belasting In de gevallen waarin teruggaaf van de te veel ingehouden Griekse belasting wordt verzocht moet het formulier E 230 worden ingediend:
 
-- a. met betrekking tot interest en royalty’s binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel II van het Protocol bij de Overeenkomst);
+   - a. met betrekking tot interest en royalty’s binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel II van het Protocol bij de Overeenkomst);
 
-- b. met betrekking tot de overige Griekse inkomsten binnen de termijn die daarvoor geldt in de Griekse nationale wetgeving.
+   - b. met betrekking tot de overige Griekse inkomsten binnen de termijn die daarvoor geldt in de Griekse nationale wetgeving.
 
 - 5. Verkrijgbaarheid van de Griekse formulieren Exemplaren van de Griekse formulieren ’Claim for the application of the Double Taxation Convention’ en E 230 zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Griekenland bij The Ministry of Finance, International Relations Division, Section A: Tax Affairs, 20, Panepistimiou Street, GR-101 84 Athens, Greece.
 

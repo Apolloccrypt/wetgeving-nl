@@ -1,50 +1,22 @@
 ---
 title: "Besluit van 23 december 1994, tot wijziging van het Besluit voorkoming dubbele belasting 1989; maatregelen met het oog op het fiscale vestigingsklimaat"
+citeertitel: "Wijzigingsbesluit Besluit voorkoming dubbele belasting 1989 (maatregelen met het oog op het fiscale vestigingsklimaat)"
 identifier: "BWBR0007180"
-country: "nl"
-rank: "amvb"
-publication_date: "1995-01-01"
-last_updated: "1995-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007180"
+categorie: "Belastingrecht"
 soort: "AMvB"
-stam_id: "1475243"
-version_id: "2203922"
-internal_id: "C2203921"
-label_id: "1433044"
-dtd_version: "2.0"
-original_entry_into_force: "1995-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007180/1995-01-01/0"
-intitule_bron: "Stb.1994-964"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-23"
-intitule_status: "goed"
-original_publication: "Stb.1994-964"
-original_signed_date: "1994-12-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-01-01"
-jci_1_3: "jci1.3:c:BWBR0007180&z=1995-01-01&g=1995-01-01"
-jci_1_0: "1.0:c:BWBR0007180&g=1995-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingsbesluit Besluit voorkoming dubbele belasting 1989 (maatregelen met het oog op het fiscale vestigingsklimaat)"
-signed_date: "1994-12-23"
-entry_into_force: "1995-01-01"
+publicatiedatum: 1995-01-01
+laatste_update: 1995-01-01
+status: geldig
+toestand: 1995-01-01
+bron: "https://wetten.overheid.nl/BWBR0007180"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 23 december 1994, tot wijziging van het Besluit voorkoming dubbele belasting 1989; maatregelen met het oog op het fiscale vestigingsklimaat
-
-Op de voordracht van de Staatssecretaris van Financiën van 28 oktober 1994, nr. IFZ94/1275M, Directoraat-Generaal voor Fiscale Zaken, Directie Internationale Fiscale Zaken;
-
-Gelet op [artikel 38, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=38);
-
-De Raad van State gehoord (advies van 21 december 1994, nr. W06.94.0670);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 22 december 1994, nr IFZ94/1525U, Directoraat-Generaal voor Fiscale Zaken, Directie Internationale Fiscale Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
@@ -77,5 +49,3 @@ Artikel 3, tweede en derde lid, en de artikelen 3a en 3b van het Besluit voorkom
 1. Dit besluit treedt in werking met ingang van 1 januari 1995.
 
 2. Voor de heffing van de vennootschapsbelasting vindt dit besluit voor het eerst toepassing met ingang van het jaar dat met of in 1995 aanvangt.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting met de bijlagen 1 en 2 in het **Staatsblad** zal worden geplaatst.

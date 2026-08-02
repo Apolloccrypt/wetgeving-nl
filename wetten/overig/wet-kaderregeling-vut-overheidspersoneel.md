@@ -1,48 +1,18 @@
 ---
 title: "Wet van 21 december 1995, tot vaststelling van een kader voor regeling van rechten en verplichtingen van overheidspersoneel, onderwijspersoneel en daarmee gelijk te stellen personeel ter zake van vrijwillig vervroegd uittreden"
+citeertitel: "Wet kaderregeling vut overheidspersoneel"
 identifier: "BWBR0007792"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007792"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "539073"
-version_id: "790502"
-internal_id: "C790501"
-label_id: "523544"
-dtd_version: "2.0"
-original_entry_into_force: "1995-12-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007792/2013-01-01/0"
-intitule_bron: "Stb.1995-640"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-21"
-intitule_published: "1995-12-27"
-intitule_in_force: "1995-12-27"
-intitule_status: "goed"
-original_publication: "Stb.1995-640"
-original_signed_date: "1995-12-21"
-original_published_date: "1995-12-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "24217"
-original_url_id: "stb-1995-640"
-entry_into_force_date: "1995-12-28"
-entry_into_force_dossier: "24217"
-jci_1_3: "jci1.3:c:BWBR0007792&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0007792&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet kaderregeling vut overheidspersoneel"
-signed_date: "1995-12-21"
-entry_into_force: "1995-12-28"
+publicatiedatum: 1995-12-28
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0007792"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 21 december 1995, tot vaststelling van een kader voor regeling van rechten en verplichtingen van overheidspersoneel, onderwijspersoneel en daarmee gelijk te stellen personeel ter zake van vrijwillig vervroegd uittreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat geldelijke aanspraken en daarmee verband houdende verplichtingen bij vrijwillig vervroegd uittreden, van overheidspersoneel, onderwijspersoneel en daarmee gelijk te stellen personeel, de wijze van financiering van die aanspraken en de verdeling van de financieringslasten tussen de overheids-, de onderwijs- en daarmee overeenkomende organisaties en het personeel van die organisaties, kunnen worden geregeld naar privaatrechtelijk model;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -56,15 +26,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. partijen: sectorwerkgevers, gezamenlijk of afzonderlijk, ter ene zijde en centrales ter andere zijde;
 
-- e. vut-overeenkomst: een schriftelijke overeenkomst, waarmee partijen beogen een regeling te treffen inzake geldelijke aanspraken en daarmee verband houdende verplichtingen bij vrijwillig vervroegd uittreden van personeel dat behoort tot de in onderdeel **b** bedoelde sectoren en voorts verplichtingen in het leven te roepen ter zake van de financiering van de vorenbedoelde aanspraken;
+- e. vut-overeenkomst: een schriftelijke overeenkomst, waarmee partijen beogen een regeling te treffen inzake geldelijke aanspraken en daarmee verband houdende verplichtingen bij vrijwillig vervroegd uittreden van personeel dat behoort tot de in onderdeel *b* bedoelde sectoren en voorts verplichtingen in het leven te roepen ter zake van de financiering van de vorenbedoelde aanspraken;
 
 - f. Vut-fonds: de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel, bedoeld in [artikel 11 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=11).
 
-2. Bij ministeriële regeling wordt zonodig vastgesteld tot welke sector groepen van het personeel, bedoeld in het eerste lid, onderdeel **e**, behoren.
+2. Bij ministeriële regeling wordt zonodig vastgesteld tot welke sector groepen van het personeel, bedoeld in het eerste lid, onderdeel *e*, behoren.
 
-3. Een organisatie die ten doel heeft of mede ten doel heeft het behartigen van arbeidsvoorwaardelijke belangen van overheidspersoneel, treedt op als partij ter andere zijde, als bedoeld in het eerste lid, onderdeel **d**, ter zake van een vut-overeenkomst waarbij een sectorwerkgever afzonderlijk partij is te ener zijde, indien die organisatie op grond van een wettelijke bepaling in het bijzonder representatief moet worden geacht voor het personeel, werkzaam in een sector.
+3. Een organisatie die ten doel heeft of mede ten doel heeft het behartigen van arbeidsvoorwaardelijke belangen van overheidspersoneel, treedt op als partij ter andere zijde, als bedoeld in het eerste lid, onderdeel *d*, ter zake van een vut-overeenkomst waarbij een sectorwerkgever afzonderlijk partij is te ener zijde, indien die organisatie op grond van een wettelijke bepaling in het bijzonder representatief moet worden geacht voor het personeel, werkzaam in een sector.
 
-4. Een organisatie die ten doel heeft of mede ten doel heeft het behartigen van arbeidsvoorwaardelijke belangen van overheids- en onderwijspersoneel kan optreden als partij ter andere zijde, als bedoeld in het eerste lid, onderdeel **d**, indien die organisatie door een sectorwerkgever als representatief wordt beschouwd voor het personeel, werkzaam in de desbetreffende sector.
+4. Een organisatie die ten doel heeft of mede ten doel heeft het behartigen van arbeidsvoorwaardelijke belangen van overheids- en onderwijspersoneel kan optreden als partij ter andere zijde, als bedoeld in het eerste lid, onderdeel *d*, indien die organisatie door een sectorwerkgever als representatief wordt beschouwd voor het personeel, werkzaam in de desbetreffende sector.
 
 ##### Artikel 2
 
@@ -72,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Een sectorwerkgever kan in overeenstemming met centrales en indien aanwezig organisaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=1&z=2013-01-01&g=2013-01-01), derde dan wel vierde lid, zijn in het eerste lid vervatte bevoegdheid geheel of ten dele overdragen aan een gezag of bestuur dan wel een verband van meer dan één gezag of bestuur, ten aanzien van door hem aan te geven groepen van personeel, werkzaam in de desbetreffende sector.
 
-3. De tekst van een vut-overeenkomst wordt door Onze Minister in de **Staatscourant** geplaatst. Een vut-overeenkomst treedt niet eerder in werking dan met ingang van de tweede dag na de dagtekening van de **Staatscourant** waarin zij wordt geplaatst.
+3. De tekst van een vut-overeenkomst wordt door Onze Minister in de *Staatscourant* geplaatst. Een vut-overeenkomst treedt niet eerder in werking dan met ingang van de tweede dag na de dagtekening van de *Staatscourant* waarin zij wordt geplaatst.
 
 ##### Artikel 3
 
@@ -104,7 +74,7 @@ Een gezag of bestuur van een instelling als bedoeld in [artikel 4, eerste lid](h
 
 ##### Artikel 7
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 8
 
@@ -112,7 +82,7 @@ Bevat wijzigingen in andere regelgeving.
 
 2. Op de dag vóór het in het eerste lid bedoelde tijdstip bestaande rechten en verplichtingen van belanghebbenden, lichamen en het Algemeen burgerlijk pensioenfonds, op grond van de in het eerste lid genoemde wet, de bepalingen van de Wet bevordering doorstroming onderwijspersoneel en van de [Wet bevordering doorstroming onderwijspersoneel II](https://wetten.overheid.nl/jci1.3:c:BWBR0004586), blijven, mits zij niet op dat tijdstip volgens de bepalingen van die wetten eindigen, met ingang van dat tijdstip op de voet van die bepalingen bestaan maar worden beschouwd als uit een vut-overeenkomst ontstane rechten en verplichtingen.
 
-3. De Wet van 28 september 1989, houdende bijzondere regelen met betrekking tot het recht op uitkering als bedoeld in de Wet uitkering wegens vrijwillig vervroegd uittreden (**Stb.** 1989, 478), wordt ingetrokken met ingang van het in het eerste lid bedoelde tijdstip.
+3. De Wet van 28 september 1989, houdende bijzondere regelen met betrekking tot het recht op uitkering als bedoeld in de Wet uitkering wegens vrijwillig vervroegd uittreden (*Stb.* 1989, 478), wordt ingetrokken met ingang van het in het eerste lid bedoelde tijdstip.
 
 4. Rechten en verplichtingen van belanghebbenden, lichamen en het Algemeen burgerlijk pensioenfonds, die op of na het in het eerste lid bedoelde tijdstip zouden ontstaan uit hoofde van de in het derde lid genoemde wet ontstaan dienovereenkomstig, met dien verstande dat te dien aanzien een vut-overeenkomst waaraan de belanghebbende rechten zou hebben kunnen ontlenen indien hij niet met recht op wachtgeld zou zijn ontslagen, in de plaats treedt van de in het eerste lid genoemde wet.
 
@@ -130,7 +100,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 9
 
-1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=1), onderdeel **o**, [11](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=20), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=38), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=40) en [41 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=41) vervallen met ingang van het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2013-01-01&g=2013-01-01), bedoelde tijdstip.
+1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=1), onderdeel *o*, [11](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=20), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=38), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=40) en [41 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=41) vervallen met ingang van het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2013-01-01&g=2013-01-01), bedoelde tijdstip.
 
 2. In afwijking van het eerste lid blijft het Algemeen burgerlijk pensioenfonds aan het Vut-fonds de jaarlijkse bijdrage verschuldigd, bedoeld in artikel 41, eerste lid, van de in het eerste lid genoemde wet, met dien verstande dat, in afwijking van het tweede en derde lid van dat artikel:
 
@@ -160,20 +130,18 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 11
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 12
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst. De [artikelen 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2013-01-01&g=2013-01-01), en [9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=9&z=2013-01-01&g=2013-01-01), werken terug tot en met 1 maart 1987.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. De [artikelen 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2013-01-01&g=2013-01-01), en [9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=9&z=2013-01-01&g=2013-01-01), werken terug tot en met 1 maart 1987.
 
 [Artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=11&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 januari 1995.
 
 [Artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=11&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 mei 1993.
 
-2. Indien het **Staatsblad** waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 1995, wordt de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2013-01-01&g=2013-01-01), genoemde datum vervangen door de dag van inwerkingtreding van deze wet.
+2. Indien het *Staatsblad* waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 1995, wordt de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2013-01-01&g=2013-01-01), genoemde datum vervangen door de dag van inwerkingtreding van deze wet.
 
 ##### Artikel 13
 
 Deze wet wordt aangehaald als: Wet kaderregeling vut overheidspersoneel.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

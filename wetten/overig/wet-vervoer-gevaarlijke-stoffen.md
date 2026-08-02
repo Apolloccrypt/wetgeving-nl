@@ -1,47 +1,18 @@
 ---
 title: "Wet van 12 oktober 1995, houdende regels voor het vervoer van gevaarlijke stoffen"
+citeertitel: "Wet vervoer gevaarlijke stoffen"
 identifier: "BWBR0007606"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007606"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1952573"
-version_id: "20661692"
-internal_id: "C31815931"
-label_id: "1902964"
-dtd_version: "2.0"
-original_entry_into_force: "2015-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007606/2025-01-01/0"
-intitule_bron: "Stb.1995-525"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-10-12"
-intitule_published: "1995-11-09"
-intitule_in_force: "1996-06-20"
-intitule_status: "goed"
-original_publication: "Stb.2013-307"
-original_signed_date: "2013-07-10"
-original_published_date: "2013-07-25"
-original_effect: "structuurwijziging"
-original_dossier: "32862"
-original_url_id: "stb-2013-307"
-entry_into_force_date: "2015-04-01"
-jci_1_3: "jci1.3:c:BWBR0007606&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0007606&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet vervoer gevaarlijke stoffen"
-signed_date: "2013-07-10"
-entry_into_force: "2015-04-01"
+publicatiedatum: 2015-04-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0007606"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 12 oktober 1995, houdende regels voor het vervoer van gevaarlijke stoffen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het op grond van maatschappelijke ontwikkelingen noodzakelijk is in het belang van de openbare veiligheid nieuwe regels te geven voor het vervoer van gevaarlijke stoffen, welke mede kunnen dienen ter uitvoering van verdragen of besluiten van volkenrechtelijke organisaties;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
@@ -51,45 +22,47 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **binnenwateren:** de wateren die in Nederland zijn gelegen binnen een langs de Nederlandse kust gaande, krachtens artikel 1, eerste lid, onderdeel a van de Schepenwet aangewezen lijn;
+- *binnenwateren:* de wateren die in Nederland zijn gelegen binnen een langs de Nederlandse kust gaande, krachtens artikel 1, eerste lid, onderdeel a van de Schepenwet aangewezen lijn;
 
-- **EU-richtlijn vervoerbare drukapparatuur:** [Richtlijn (EU) nr. 2010/35](32010L0035) van het Europees Parlement en de Raad van 16 juni 2010 betreffende vervoerbare drukapparatuur en houdende intrekking van [Richtlijnen 76/767/EEG](31976L0767), [84/525/EEG](31984L0525), [85/526/EEG](31985L0526), [84/527/EEG](31984L0527), en [1999/36/EG](31999L0036) van de Raad (PbEU 2010, L 165);
+- *EU-richtlijn vervoerbare drukapparatuur:*
+ Richtlijn (EU) nr. 2010/35 van het Europees Parlement en de Raad van 16 juni 2010 betreffende vervoerbare drukapparatuur en houdende intrekking van Richtlijnen 76/767/EEG, 84/525/EEG, 85/526/EEG, 84/527/EEG, en 1999/36/EG van de Raad (PbEU 2010, L 165);
 
-- **EU-verordening markttoezicht:** [Verordening (EU) nr. 2019/1020](32920R2019) van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van [Richtlijn 2004/42/EG](32004L0042) en [Verordeningen (EG) nr. 765/2008](32008R0765) en (EU) [nr. 305/2011](32011R0305) (PbEU 2019 L169);
+- *EU-verordening markttoezicht:*
+ Verordening (EU) nr. 2019/1020 van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van Richtlijn 2004/42/EG en Verordeningen (EG) nr. 765/2008 en (EU) nr. 305/2011 (PbEU 2019 L169);
 
-- **gevaarlijke stoffen:**
+- *gevaarlijke stoffen:*
 
-- a. ontplofbare stoffen en voorwerpen,
+   - a. ontplofbare stoffen en voorwerpen,
 
-- b. samengeperste, vloeibaar gemaakte of onder druk opgeloste gassen,
+   - b. samengeperste, vloeibaar gemaakte of onder druk opgeloste gassen,
 
-- c. brandbare vloeistoffen,
+   - c. brandbare vloeistoffen,
 
-- d. brandbare vaste stoffen,
+   - d. brandbare vaste stoffen,
 
-- e. voor zelfontbranding vatbare stoffen,
+   - e. voor zelfontbranding vatbare stoffen,
 
-- f. stoffen die bij aanraking met water brandbare gassen ontwikkelen,
+   - f. stoffen die bij aanraking met water brandbare gassen ontwikkelen,
 
-- g. stoffen die de verbranding bevorderen,
+   - g. stoffen die de verbranding bevorderen,
 
-- h. organische peroxiden,
+   - h. organische peroxiden,
 
-- i. giftige stoffen,
+   - i. giftige stoffen,
 
-- j. infectieuze stoffen,
+   - j. infectieuze stoffen,
 
-- k. bijtende stoffen, of
+   - k. bijtende stoffen, of
 
-- l. andere stoffen die voor de mens of het milieu gevaarlijk kunnen zijn, indien de stof krachtens artikel 3 is aangewezen;
+   - l. andere stoffen die voor de mens of het milieu gevaarlijk kunnen zijn, indien de stof krachtens artikel 3 is aangewezen;
 
-- **hoofdspoorweg:** een krachtens artikel 2 van de Spoorwegwet aangewezen hoofdspoorweg;
+- *hoofdspoorweg:* een krachtens artikel 2 van de Spoorwegwet aangewezen hoofdspoorweg;
 
-- **internationaal vervoer:** vervoer waarbij de Nederlandse grens wordt gepasseerd;
+- *internationaal vervoer:* vervoer waarbij de Nederlandse grens wordt gepasseerd;
 
-- **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
+- *Onze Minister:* Onze Minister van Infrastructuur en Milieu;
 
-- **vervoermiddel:** voertuig, vaartuig of wagen als bedoeld in richtlijn 2008/68/EG van het Europees Parlement en de Raad van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land.
+- *vervoermiddel:* voertuig, vaartuig of wagen als bedoeld in richtlijn 2008/68/EG van het Europees Parlement en de Raad van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land.
 
 2. In deze wet en de daarop berustende bepalingen worden onder gevaarlijke stoffen mede verstaan: voorwerpen die zodanige stoffen met behoud van de gevaarlijke eigenschappen bevatten.
 
@@ -137,25 +110,35 @@ Bij of krachtens algemene maatregel van bestuur worden gevaarlijke stoffen of ca
 
 - b. is toegestaan mits de bij of krachtens die maatregel terzake gestelde regels in acht zijn genomen.
 
+##### Artikel 3a
+
+1. Bij ministeriële regeling kunnen in het belang van de openbare veiligheid regels worden gesteld met betrekking tot de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=I&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), voor zover die worden verricht op of in de openbare lichamen Bonaire, Sint Eustatius en Saba met bij of krachtens die maatregel aangewezen gevaarlijke stoffen. De regels kunnen voor elk van de openbare lichamen verschillend zijn.
+
+2. De in het eerste lid bedoelde regels hebben in elk geval betrekking op de vervoermiddelen waarmee de handelingen, bedoeld in het eerste lid, worden verricht.
+
+3. Het is verboden de handelingen, bedoeld in het eerste lid, te verrichten anders dan met inachtneming van de krachtens het eerste lid gestelde regels.
+
+4. De [artikelen 9, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=9&z=2025-01-01&g=2025-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=10&z=2025-01-01&g=2025-01-01), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=10a&z=2025-01-01&g=2025-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=IV&paragraaf=1&artikel=34&z=2025-01-01&g=2025-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=V&artikel=49&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing.
+
 ##### Artikel 4
 
-Het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=I&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), te verrichten ten aanzien van gevaarlijke stoffen en met vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01).
+Het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=I&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), te verrichten ten aanzien van gevaarlijke stoffen en met vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 5
 
-Het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=I&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), te verrichten ten aanzien van gevaarlijke stoffen en met vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01), anders dan met inachtneming van de in dat onderdeel bedoelde regels.
+Het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=I&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), te verrichten ten aanzien van gevaarlijke stoffen en met vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01), anders dan met inachtneming van de in dat onderdeel bedoelde regels.
 
 ##### Artikel 6
 
-De regels, bedoeld in [artikel 3, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01), kunnen onder meer betrekking hebben op:
+De regels, bedoeld in [artikel 3, onderdeel *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01), kunnen onder meer betrekking hebben op:
 
 - a. eisen ten aanzien van constructie, inrichting en uitrusting van vervoermiddelen, waarmee gevaarlijke stoffen worden vervoerd;
 
-- b. keuring van vervoermiddelen als bedoeld in onderdeel **a**;
+- b. keuring van vervoermiddelen als bedoeld in onderdeel *a*;
 
 - c. aanduidingen die de vervoermiddelen bij het vervoeren van daartoe bij of krachtens algemene maatregel van bestuur aangewezen gevaarlijke stoffen, zowel in beladen als in lege, ongereinigde toestand, dienen te voeren;
 
-- d. het verwijderen of bedekken van aanduidingen als bedoeld in onderdeel **c**, na het lossen en reinigen of ontgassen van het vervoermiddel;
+- d. het verwijderen of bedekken van aanduidingen als bedoeld in onderdeel *c*, na het lossen en reinigen of ontgassen van het vervoermiddel;
 
 - e. reinigen van vervoermiddelen waarmee gevaarlijke stoffen zijn vervoerd;
 
@@ -163,7 +146,7 @@ De regels, bedoeld in [artikel 3, onderdeel **b**](https://wetten.overheid.nl/jc
 
 - g. eisen ten aanzien van de verpakking van gevaarlijke stoffen, met inbegrip van de daarbij behorende inrichting of uitrusting, en het testen of keuren daarvan;
 
-- h. aanduidingen of aanwijzingen op de verpakking, bedoeld in onderdeel **g**;
+- h. aanduidingen of aanwijzingen op de verpakking, bedoeld in onderdeel *g*;
 
 - i. deskundigheid van personen die handelingen met gevaarlijke stoffen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=I&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), verrichten, afgifte van vakbekwaamheidscertificaten en erkenning van vakbekwaamheidscertificaten afgegeven in andere landen;
 
@@ -173,17 +156,17 @@ De regels, bedoeld in [artikel 3, onderdeel **b**](https://wetten.overheid.nl/jc
 
 - l. eisen ten aanzien van constructie, inrichting en uitrusting van inrichtingen of werktuigen met behulp waarvan gevaarlijke stoffen worden geladen of gelost;
 
-- m. keuring van de inrichtingen of werktuigen, bedoeld in onderdeel **l**;
+- m. keuring van de inrichtingen of werktuigen, bedoeld in onderdeel *l*;
 
 - n. melding voorafgaande aan het verrichten van een handeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=I&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 7
 
-Tunnels als bedoeld in [artikel 6, onderdeel **k**](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=6&z=2025-01-01&g=2025-01-01), die zijn bestemd voor het wegverkeer, worden aangeduid door borden overeenkomstig het daartoe krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) aangewezen model.
+Tunnels als bedoeld in [artikel 6, onderdeel *k*](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=6&z=2025-01-01&g=2025-01-01), die zijn bestemd voor het wegverkeer, worden aangeduid door borden overeenkomstig het daartoe krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) aangewezen model.
 
 ##### Artikel 8
 
-1. De regels, bedoeld in [artikel 3, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01), kunnen worden gesteld bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister van Defensie, voor zover het betreft de onderwerpen, bedoeld in [artikel 6, onderdelen **a**, **b**, **g**, **h**, **l** en **m**](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=6&z=2025-01-01&g=2025-01-01) en voor zover het tevens betreft de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=I&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), met ontplofbare stoffen en voorwerpen, verricht met of ten aanzien van vervoermiddelen die in eigendom toebehoren aan of zich bevinden onder de verantwoordelijkheid van de krijgsmacht of van de krijgsmacht van een andere mogendheid.
+1. De regels, bedoeld in [artikel 3, onderdeel *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01), kunnen worden gesteld bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister van Defensie, voor zover het betreft de onderwerpen, bedoeld in [artikel 6, onderdelen *a*, *b*, *g*, *h*, *l* en *m*](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=6&z=2025-01-01&g=2025-01-01) en voor zover het tevens betreft de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=I&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), met ontplofbare stoffen en voorwerpen, verricht met of ten aanzien van vervoermiddelen die in eigendom toebehoren aan of zich bevinden onder de verantwoordelijkheid van de krijgsmacht of van de krijgsmacht van een andere mogendheid.
 
 2. Onze Minister van Defensie kan in bijzondere gevallen ontheffing of vrijstelling verlenen van het bepaalde krachtens het eerste lid. Artikel 9 tweede, derde en vierde lid, is van overeenkomstige toepassing.
 
@@ -211,27 +194,35 @@ Tunnels als bedoeld in [artikel 6, onderdeel **k**](https://wetten.overheid.nl/j
 
 Het is verboden te handelen in strijd met een beperking waaronder een ontheffing of een vrijstelling als bedoeld in de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=8&z=2025-01-01&g=2025-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=9&z=2025-01-01&g=2025-01-01) is verleend of met een voorschrift dat aan een zodanige ontheffing of vrijstelling is verbonden.
 
-### Hoofdstuk III. Routering
+##### Artikel 10a
 
-#### § 1. Algemeen
+1. Onze Minister kan instanties erkennen die belast zijn met de door hem aan te geven, in het kader van de krachtens [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01), vastgestelde regels te verrichten taken. De taken kunnen mede betrekking hebben op het afgeven van certificaten of het erkennen van andere documenten dan wel voorschriften alsmede op het verlenen van de op grond van de regels bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01) benodigde goedkeuring.
+
+2. Onze Minister stelt regels met betrekking tot de voorwaarden om voor erkenning in aanmerking te komen, de werkwijze van de erkende instanties, de periodieke verslaglegging over de verrichte werkzaamheden, alsmede de uitoefening van het toezicht op de erkende instanties.
+
+3. Onze Minister kan aan de erkenning voorschriften verbinden betreffende de uit te voeren taken, welke voorschriften mede betrekking kunnen hebben op de door de erkende instantie in rekening te brengen tarieven.
+
+4. Onze Minister kan de erkenning schorsen dan wel intrekken indien de betrokken instantie niet meer voldoet aan de bij of krachtens deze wet gestelde regels. De betrokken instantie verstrekt desgevraagd de inlichtingen en verleent inzage in de zakelijke gegevens en bescheiden aan onze Minister die deze ten behoeve van zijn taakuitoefening nodig oordeelt.
+
+### Hoofdstuk III. Het basisnet
+
+#### Paragraaf 1. Algemene bepalingen
 
 ##### Artikel 11
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- **basisnet:** de krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-01-01&g=2025-01-01), aangewezen wegen, binnenwateren en hoofdspoorwegen;
+- *basisnet:* de krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-01-01&g=2025-01-01), aangewezen wegen, binnenwateren en hoofdspoorwegen;
 
-- **groepsrisico:** cumulatieve kansen per jaar per kilometer basisnet dat tien of meer personen overlijden als rechtstreeks gevolg van een ongewoon voorval op het basisnet waarbij één of meer gevaarlijke stoffen zijn betrokken;
+- *groepsrisico:* cumulatieve kansen per jaar per kilometer basisnet dat tien of meer personen overlijden als rechtstreeks gevolg van een ongewoon voorval op het basisnet waarbij één of meer gevaarlijke stoffen zijn betrokken;
 
-- **plaatsgebonden risico:** risico op een plaats op of langs het basisnet, uitgedrukt in een waarde voor de kans per jaar dat een persoon die onafgebroken en onbeschermd op die plaats zou verblijven, overlijdt als rechtstreeks gevolg van een ongewoon voorval op het basisnet waarbij één of meer gevaarlijke stoffen zijn betrokken;
+- *plaatsgebonden risico:* risico op een plaats op of langs het basisnet, uitgedrukt in een waarde voor de kans per jaar dat een persoon die onafgebroken en onbeschermd op die plaats zou verblijven, overlijdt als rechtstreeks gevolg van een ongewoon voorval op het basisnet waarbij één of meer gevaarlijke stoffen zijn betrokken;
 
-- **risicoplafond:** het maximaal toegestane plaatsgebonden risico op de krachtens [artikel 14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=III&paragraaf=2&artikel=14&z=2025-01-01&g=2025-01-01), aangewezen plaatsen;
+- *risicoplafond:* het maximaal toegestane plaatsgebonden risico op de krachtens [artikel 14, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=III&paragraaf=2&artikel=14&z=2025-01-01&g=2025-01-01), aangewezen plaatsen;
 
-- **vervoer van gevaarlijke stoffen:** handeling als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=I&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01);
+- *vervoer van gevaarlijke stoffen:* handeling als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=I&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01);
 
-- **wegen:** voor het openbaar verkeer openstaande wegen in de zin van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
-
-#### Paragraaf 1. Algemene bepalingen
+- *wegen:* voor het openbaar verkeer openstaande wegen in de zin van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
 
 ##### Artikel 12
 
@@ -243,8 +234,6 @@ De toepassing van de bevoegdheden genoemd in dit hoofdstuk is gericht op het tot
 
 - c. een maatschappelijk aanvaardbaar veiligheidsniveau in de nabijheid van dat basisnet.
 
-#### § 2. Aanwijzing van stoffen
-
 ##### Artikel 13
 
 1. Bij regeling van Onze Minister worden de wegen, hoofdspoorwegen en binnenwateren aangewezen die van belang worden geacht voor het vervoer van gevaarlijke stoffen.
@@ -252,6 +241,8 @@ De toepassing van de bevoegdheden genoemd in dit hoofdstuk is gericht op het tot
 2. Dit hoofdstuk is van toepassing op het binnenwatervervoer van gevaarlijke stoffen in tankschepen, op het weg- en spoorvervoer van gevaarlijke stoffen in transporttanks, reservoirwagens, tankwagens, afneembare tanks, tankcontainers en druk- of vacuümtanks en op daarmee vergelijkbare manieren van vervoer, voor zover dat vervoer plaatsvindt op het basisnet.
 
 3. In afwijking van het tweede lid, is dit hoofdstuk niet van toepassing op het vervoer in ongereinigde lege tanks.
+
+#### Paragraaf 2. Normen voor het basisnet
 
 ##### Artikel 14
 
@@ -270,6 +261,8 @@ De toepassing van de bevoegdheden genoemd in dit hoofdstuk is gericht op het tot
 5. De krachtens het eerste en tweede lid voor hoofdspoorwegen vastgestelde risicoplafonds hebben geen betrekking op het risico vanwege het vervoer van gevaarlijke stoffen dat op een spoorwegemplacement plaatsvindt, voor zover [artikel 5.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) op dat risico van toepassing is.
 
 6. De vaststelling van een ministeriële regeling krachtens het eerste lid, vindt niet eerder plaats dan nadat het ontwerp in de Staatscourant bekend is gemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen.
+
+#### Paragraaf 3. Beheersing van het risico
 
 ##### Artikel 15
 
@@ -308,6 +301,8 @@ De toepassing van de bevoegdheden genoemd in dit hoofdstuk is gericht op het tot
 1. Een verschuiving van een plaats als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=III&paragraaf=2&artikel=14&z=2025-01-01&g=2025-01-01), vindt niet eerder plaats dan vier weken nadat het voornemen daartoe is gemeld aan de Tweede Kamer der Staten-Generaal.
 
 2. Het eerste lid is niet van toepassing in geval de verschuiving van de plaats niet leidt tot een verhoging of verlaging van het risicoplafond, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=III&paragraaf=2&artikel=14&z=2025-01-01&g=2025-01-01).
+
+### Hoofdstuk IIIa. Routering
 
 ##### Artikel 19
 
@@ -379,8 +374,6 @@ De toepassing van de bevoegdheden genoemd in dit hoofdstuk is gericht op het tot
 
 10. Het negende lid is van overeenkomstige toepassing met betrekking tot de krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-01-01&g=2025-01-01), aangewezen wegen.
 
-#### § 4. Aanwijzing van vaarwegen
-
 ##### Artikel 25
 
 De door de gemeenteraad op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=IIIa&artikel=24&z=2025-01-01&g=2025-01-01) onderscheidenlijk door Onze Minister op grond van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=IIIa&artikel=20&z=2025-01-01&g=2025-01-01) aangewezen wegen of weggedeelten worden aangeduid door borden overeenkomstig de daarvoor op grond van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) aangewezen modellen.
@@ -441,23 +434,21 @@ Onverminderd [artikel 24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. [Artikel 9, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=9&z=2025-01-01&g=2025-01-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=10&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing.
 
-#### § 5. Aanwijzing van spoorwegen
-
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Handhaving
 
@@ -475,7 +466,7 @@ Vervallen
 
 5. Onze Minister kan met het oog op de coördinatie van het beleid ten aanzien van het toezicht op de naleving beleidsregels stellen.
 
-6. Van een besluit als bedoeld in het eerste, tweede of derde lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+6. Van een besluit als bedoeld in het eerste, tweede of derde lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 ##### Artikel 35
 
@@ -529,23 +520,23 @@ Vervallen
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 #### § 2. Opsporing
 
@@ -559,15 +550,61 @@ Vervallen
 
 - c. de bij besluit van Onze Minister en Onze Minister van Justitie, en waar nodig Onze Ministers wie het mede aangaat, aangewezen ambtenaren.
 
-2. Onze Minister kan de bevoegdheid tot opsporing van de ambtenaren, bedoeld in het eerste lid, onder **c** bij de aldaar bedoelde aanwijzing beperken.
+2. Onze Minister kan de bevoegdheid tot opsporing van de ambtenaren, bedoeld in het eerste lid, onder *c* bij de aldaar bedoelde aanwijzing beperken.
 
 3. De ambtenaren, bedoeld in het eerste lid, zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) tot en met [182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=182) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
-4. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+4. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.
+
+##### Artikel 44a
+
+1. Handelingen in strijd met [artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3a&z=2025-01-01&g=2025-01-01), voor zover opzettelijk begaan, zijn misdrijven en worden gestraft met een gevangenisstraf van ten hoogste zes jaren of geldboete van ten hoogste de vijfde categorie.
+
+2. Handelingen, als bedoeld in het eerste lid, die geen misdrijven zijn, zijn overtredingen en worden gestraft met hechtenis van ten hoogste een jaar of geldboete van de vierde categorie.
+
+3. Als bijkomende straf kan worden opgelegd:
+
+- a. gehele of gedeeltelijke stillegging van de onderneming van de veroordeelde, waarin de overtreding is begaan voor een tijd van ten hoogste een jaar; of,
+
+- b. verbeurdverklaring van de voorwerpen, genoemd in artikel 35 van het Wetboek van Strafvordering BES.
+
+4. Met het opsporen van de in het eerste en tweede lid strafbaar gestelde feiten zijn, onverminderd de bij of krachtens artikel 184 van het Wetboek van Strafvordering BES aangewezen ambtenaren, de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren belast.
+
+##### Artikel 44b
+
+1. Indien tegen de verdachte ernstige bezwaren zijn gerezen en tevens de belangen, welke door het vermoedelijk overtreden voorschrift worden beschermd, een onmiddellijk ingrijpen vereisen, is de officier van justitie in alle zaken als bedoeld in [artikel 44a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=IV&paragraaf=2&artikel=44a&z=2025-01-01&g=2025-01-01), bevoegd zolang de behandeling ter terechtzitting nog niet is aangevangen, de verdachte bij te betekenen kennisgeving als voorlopige maatregel te bevelen:
+
+- a. zich te onthouden van bepaalde handelingen;
+
+- b. zorg te dragen, dat in het bevel aangeduide voorwerpen, welke vatbaar zijn voor inbeslagneming, opgeslagen en bewaard worden ter plaatse, in het bevel aangegeven.
+
+2. De voorgenoemde bevelen zijn dadelijk uitvoerbaar en worden onverwijld aan de verdachte betekend.
+
+3. De voorgenoemde bevelen verliezen hun kracht door een tijdsverloop van zes maanden en blijven uiterlijk van kracht totdat de rechterlijke einduitspraak in de zaak, waarin zij zijn gegeven, onherroepelijk is geworden. Zij kunnen tussentijds door de officier van justitie bij aan de verdachte te betekenen kennisgeving worden gewijzigd of ingetrokken of door het gerecht, waarvoor de zaak wordt vervolgd, worden gewijzigd of opgeheven. Het gerecht kan dit doen ambtshalve, op de voordracht van de rechter-commissaris, met het gerechtelijk vooronderzoek belast, of op het verzoek van de verdachte; deze wordt steeds gehoord, althans behoorlijk opgeroepen, tenzij:
+
+- a. het gerecht reeds aanstonds tot wijziging overeenkomstig het verzoek van de verdachte dan wel tot opheffing besluit;
+
+- b. nog geen twee maanden zijn verstreken sedert op een vorig verzoek van de verdachte van gelijke strekking is beslist.
+
+Het gerecht beslist op een verzoek van de verdachte binnen vijf dagen nadat het ter griffie is ingediend.
+
+4. Tegen voorgenoemde rechterlijke beschikkingen kan het openbaar ministerie binnen veertien dagen en de verdachte binnen veertien dagen na de betekening in hoger beroep komen bij het Gemeenschappelijk Hof, bedoeld in [artikel 14, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=14).
+
+5. De artikelen 43, tiende en elfde lid, van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing.
+
+##### Artikel 44c
+
+1. Indien de zaak eindigt hetzij zonder oplegging van straf of maatregel, hetzij met oplegging van een zodanige straf of maatregel dat de opgelegde voorlopige maatregel als onevenredig hard moet worden beschouwd, kan het gerecht, op verzoek van de gewezen verdachte hem een geldelijke tegemoetkoming ten laste van de Staat toekennen voor de schade, welke hij ten gevolge van de opgelegde voorlopige maatregel werkelijk heeft geleden.
+
+2. De artikelen 179 tot en met 181 van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing.
 
 ##### Artikel 45
 
 De uitreiking van gerechtelijke mededelingen in zaken betreffende overtredingen van het bepaalde bij of krachtens deze wet, begaan door een niet in Nederland gevestigde onderneming, kan eveneens geschieden aan de bestuurder van het betrokken voertuig of aan de schipper van het betrokken vaartuig die zich bereid verklaart de mededeling onverwijld te doen toekomen aan degene voor wie zij is bestemd.
+
+##### Artikel 45a
+
+Ingeval bij of krachtens deze wet wordt verwezen naar in het kader van de Internationale Maritieme Organisatie van de Verenigde Naties tot stand gekomen besluiten die betrekking hebben op het vervoer van gevaarlijke stoffen met zeeschepen, kan overtreding van deze besluiten ook als strafbaar feit worden aangemerkt indien deze besluiten in de Engelse taal zijn gesteld en bekend gemaakt.
 
 ### Hoofdstuk V. Overige bepalingen
 
@@ -613,7 +650,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 Tegen een besluit als bedoeld in de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=IIIa&artikel=20&z=2025-01-01&g=2025-01-01), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=IIIa&artikel=23&z=2025-01-01&g=2025-01-01) en [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=IIIa&artikel=24&z=2025-01-01&g=2025-01-01), staat beroep open als bedoeld in [Hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8).
 
-### Hoofdstuk V. Overige bepalingen
+### Hoofdstuk VI. Overgangs- en slotbepalingen
 
 ##### Artikel 51
 
@@ -625,27 +662,27 @@ Op de dag voor de datum van inwerkingtreding van deze wet geldende besluiten die
 
 ##### Artikel 53
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 54
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 55
 
-Bevat wijzingingen in andere regelgeving.
+*Bevat wijzingingen in andere regelgeving.*
 
 ##### Artikel 56
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 59
 
@@ -659,11 +696,11 @@ Bevat wijzigingen in andere regelgeving.
 
 5. Het in het eerste, derde en vierde lid bedoelde besluit wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ##### Artikel 60
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister van Defensie is bevoegd, voor zover militaire belangen zulks vorderen, van de krachtens deze wet uitgevaardigde regelen en voorschriften af te wijken, dan wel deze voor zolang dat nodig is buiten werking te stellen en zelf ter zake een tijdelijke regeling te geven.
 
@@ -674,123 +711,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 62
 
 Deze wet kan worden aangehaald als: Wet vervoer gevaarlijke stoffen.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 10a
-
-1. Onze Minister kan instanties erkennen die belast zijn met de door hem aan te geven, in het kader van de krachtens [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01), vastgestelde regels te verrichten taken. De taken kunnen mede betrekking hebben op het afgeven van certificaten of het erkennen van andere documenten dan wel voorschriften alsmede op het verlenen van de op grond van de regels bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01) benodigde goedkeuring.
-
-2. Onze Minister stelt regels met betrekking tot de voorwaarden om voor erkenning in aanmerking te komen, de werkwijze van de erkende instanties, de periodieke verslaglegging over de verrichte werkzaamheden, alsmede de uitoefening van het toezicht op de erkende instanties.
-
-3. Onze Minister kan aan de erkenning voorschriften verbinden betreffende de uit te voeren taken, welke voorschriften mede betrekking kunnen hebben op de door de erkende instantie in rekening te brengen tarieven.
-
-4. Onze Minister kan de erkenning schorsen dan wel intrekken indien de betrokken instantie niet meer voldoet aan de bij of krachtens deze wet gestelde regels. De betrokken instantie verstrekt desgevraagd de inlichtingen en verleent inzage in de zakelijke gegevens en bescheiden aan onze Minister die deze ten behoeve van zijn taakuitoefening nodig oordeelt.
-
-### Hoofdstuk III. Routering
-
-#### § 1. Algemeen
-
-#### § 2. Aanwijzing van stoffen
-
-#### § 3. Aanwijzing van wegen
-
-#### § 4. Aanwijzing van vaarwegen
-
-#### § 5. Aanwijzing van spoorwegen
-
-### Hoofdstuk IV. Handhaving
-
-#### § 1. Toezicht
-
-#### § 2. Opsporing
-
-### Hoofdstuk V. Overige bepalingen
-
-### Hoofdstuk VI. Overgangs- en slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-1. Bij ministeriële regeling kunnen in het belang van de openbare veiligheid regels worden gesteld met betrekking tot de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=I&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), voor zover die worden verricht op of in de openbare lichamen Bonaire, Sint Eustatius en Saba met bij of krachtens die maatregel aangewezen gevaarlijke stoffen. De regels kunnen voor elk van de openbare lichamen verschillend zijn.
-
-2. De in het eerste lid bedoelde regels hebben in elk geval betrekking op de vervoermiddelen waarmee de handelingen, bedoeld in het eerste lid, worden verricht.
-
-3. Het is verboden de handelingen, bedoeld in het eerste lid, te verrichten anders dan met inachtneming van de krachtens het eerste lid gestelde regels.
-
-4. De [artikelen 9, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=9&z=2025-01-01&g=2025-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=10&z=2025-01-01&g=2025-01-01), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=10a&z=2025-01-01&g=2025-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=IV&paragraaf=1&artikel=34&z=2025-01-01&g=2025-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=V&artikel=49&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing.
-
-### Hoofdstuk III. Het basisnet
-
-#### Paragraaf 2. Normen voor het basisnet
-
-#### § 4. Aanwijzing van vaarwegen
-
-#### § 5. Aanwijzing van spoorwegen
-
-### Hoofdstuk IV. Handhaving
-
-#### § 1. Toezicht
-
-#### § 2. Opsporing
-
-##### Artikel 44a
-
-1. Handelingen in strijd met [artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=II&artikel=3a&z=2025-01-01&g=2025-01-01), voor zover opzettelijk begaan, zijn misdrijven en worden gestraft met een gevangenisstraf van ten hoogste zes jaren of geldboete van ten hoogste de vijfde categorie.
-
-2. Handelingen, als bedoeld in het eerste lid, die geen misdrijven zijn, zijn overtredingen en worden gestraft met hechtenis van ten hoogste een jaar of geldboete van de vierde categorie.
-
-3. Als bijkomende straf kan worden opgelegd:
-
-- a. gehele of gedeeltelijke stillegging van de onderneming van de veroordeelde, waarin de overtreding is begaan voor een tijd van ten hoogste een jaar; of,
-
-- b. verbeurdverklaring van de voorwerpen, genoemd in artikel 35 van het Wetboek van Strafvordering BES.
-
-4. Met het opsporen van de in het eerste en tweede lid strafbaar gestelde feiten zijn, onverminderd de bij of krachtens artikel 184 van het Wetboek van Strafvordering BES aangewezen ambtenaren, de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren belast.
-
-##### Artikel 44b
-
-1. Indien tegen de verdachte ernstige bezwaren zijn gerezen en tevens de belangen, welke door het vermoedelijk overtreden voorschrift worden beschermd, een onmiddellijk ingrijpen vereisen, is de officier van justitie in alle zaken als bedoeld in [artikel 44a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=IV&paragraaf=2&artikel=44a&z=2025-01-01&g=2025-01-01), bevoegd zolang de behandeling ter terechtzitting nog niet is aangevangen, de verdachte bij te betekenen kennisgeving als voorlopige maatregel te bevelen:
-
-- a. zich te onthouden van bepaalde handelingen;
-
-- b. zorg te dragen, dat in het bevel aangeduide voorwerpen, welke vatbaar zijn voor inbeslagneming, opgeslagen en bewaard worden ter plaatse, in het bevel aangegeven.
-
-2. De voorgenoemde bevelen zijn dadelijk uitvoerbaar en worden onverwijld aan de verdachte betekend.
-
-3. De voorgenoemde bevelen verliezen hun kracht door een tijdsverloop van zes maanden en blijven uiterlijk van kracht totdat de rechterlijke einduitspraak in de zaak, waarin zij zijn gegeven, onherroepelijk is geworden. Zij kunnen tussentijds door de officier van justitie bij aan de verdachte te betekenen kennisgeving worden gewijzigd of ingetrokken of door het gerecht, waarvoor de zaak wordt vervolgd, worden gewijzigd of opgeheven. Het gerecht kan dit doen ambtshalve, op de voordracht van de rechter-commissaris, met het gerechtelijk vooronderzoek belast, of op het verzoek van de verdachte; deze wordt steeds gehoord, althans behoorlijk opgeroepen, tenzij:
-
-- a. het gerecht reeds aanstonds tot wijziging overeenkomstig het verzoek van de verdachte dan wel tot opheffing besluit;
-
-- b. nog geen twee maanden zijn verstreken sedert op een vorig verzoek van de verdachte van gelijke strekking is beslist.
-
-Het gerecht beslist op een verzoek van de verdachte binnen vijf dagen nadat het ter griffie is ingediend.
-
-4. Tegen voorgenoemde rechterlijke beschikkingen kan het openbaar ministerie binnen veertien dagen en de verdachte binnen veertien dagen na de betekening in hoger beroep komen bij het Gemeenschappelijk Hof, bedoeld in [artikel 14, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=14).
-
-5. De artikelen 43, tiende en elfde lid, van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing.
-
-##### Artikel 44c
-
-1. Indien de zaak eindigt hetzij zonder oplegging van straf of maatregel, hetzij met oplegging van een zodanige straf of maatregel dat de opgelegde voorlopige maatregel als onevenredig hard moet worden beschouwd, kan het gerecht, op verzoek van de gewezen verdachte hem een geldelijke tegemoetkoming ten laste van de Staat toekennen voor de schade, welke hij ten gevolge van de opgelegde voorlopige maatregel werkelijk heeft geleden.
-
-2. De artikelen 179 tot en met 181 van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing.
-
-### Hoofdstuk V. Overige bepalingen
-
-### Hoofdstuk VI. Overgangs- en slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 45a
-
-Ingeval bij of krachtens deze wet wordt verwezen naar in het kader van de Internationale Maritieme Organisatie van de Verenigde Naties tot stand gekomen besluiten die betrekking hebben op het vervoer van gevaarlijke stoffen met zeeschepen, kan overtreding van deze besluiten ook als strafbaar feit worden aangemerkt indien deze besluiten in de Engelse taal zijn gesteld en bekend gemaakt.
-
-### Hoofdstuk VI. Overgangs- en slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Paragraaf 3. Beheersing van het risico
-
-### Hoofdstuk IIIa. Routering

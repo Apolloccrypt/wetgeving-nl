@@ -1,37 +1,16 @@
 ---
 title: "Risicobeoordeling bestaande stoffen"
 identifier: "BWBR0007449"
-country: "nl"
-rank: "circulaire"
-publication_date: "1995-07-15"
-last_updated: "1995-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007449"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6439493"
-version_id: "11109712"
-internal_id: "C15024271"
-label_id: "6428324"
-original_entry_into_force: "1995-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007449/1995-07-15/0"
-intitule_bron: "Stcrt.1995-122"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-06-18"
-intitule_published: "1995-06-28"
-intitule_in_force: "1995-06-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-122"
-original_signed_date: "1995-06-18"
-original_published_date: "1995-06-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1995-122-p13-SC2998"
-entry_into_force_date: "1995-07-15"
-jci_1_3: "jci1.3:c:BWBR0007449&z=1995-07-15&g=1995-07-15"
-jci_1_0: "1.0:c:BWBR0007449&g=1995-07-15"
-citeertitel_status: "redactioneel"
-signed_date: "1995-06-18"
-entry_into_force: "1995-07-15"
+publicatiedatum: 1995-07-15
+laatste_update: 1995-07-15
+status: geldig
+toestand: 1995-07-15
+bron: "https://wetten.overheid.nl/BWBR0007449"
+opgehaald: 2026-08-02
 ---
+
 # Risicobeoordeling bestaande stoffen
 
 ### § 1. Inleiding
@@ -46,6 +25,10 @@ Met de dag dat deze circulaire in werking treedt, 15 juli 1995, wordt de Mededel
 
 Deze circulaire heeft betrekking op twee EG-verordeningen:
 
+- – verordening (EEG) nr. 793/93 van de Raad van 23 maart 1993 inzake de beoordeling en beperking van de risico’s van bestaande stoffen (PbEG L 84) (gerectificeerd in PbEG 1993, L 224), kortweg de basisverordening,
+
+- – verordening (EG) nr. 1488/94 van de Commissie van de Europese Gemeenschappen van 28 juni 1994 tot vaststelling van de beginselen voor de beoordeling van de risico’s voor mens of milieu van bestaande stoffen krachtens Verordening (EEG) nr. 793/93 (PbEG L 161), hierna te noemen de uitvoeringsverordening.
+
 Met deze circulaire wordt ten eerste beoogd aan te geven op welke wijze fabrikanten en importeurs, alsmede eventuele anderen, het beste de stukken aan de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kunnen overleggen, als ze daartoe verplicht zijn op grond van de basisverordening. Dit advies wordt gegeven omwille van een soepele uitvoering van de basisverordening.
 
 Daarnaast is in deze circulaire weergegeven op welke wijze de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (hierna: de minister) procedureel uitvoering zal geven aan diens in het kader van de basisverordening toebedeelde taken. Over deze procedure wordt op dit moment in Europees verband gesproken. Indien dit overleg leidt tot concrete afspraken zal worden bezien of, en zo ja: hoe, deze circulaire wordt aangepast.
@@ -58,9 +41,9 @@ Ten slotte bevat deze circulaire de nodige informatie en achtergronden.
 
 ### Doel van de verordeningen
 
-Met de beide EG-verordeningen is een nieuwe stap gezet naar het in kaart brengen en het beheersen van de risico’s van de zogenoemde bestaande**stoffen.**
+Met de beide EG-verordeningen is een nieuwe stap gezet naar het in kaart brengen en het beheersen van de risico’s van de zogenoemde bestaande*stoffen.*
 
-Met EG-[richtlijn 67/548/EEG](31967L0548) inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG L 196) was reeds een kennisgevingsstelsel voor het binnen de Europese Unie op de markt brengen van nieuwe stoffen geïntroduceerd. Van de verplichting tot het doen van een kennisgeving waren echter de stoffen uitgezonderd die op 18 september 1981 reeds binnen de Europese Unie op de markt waren gebracht. Deze bestaande stoffen zijn, ingevolge [richtlijn nr. 67/548/EEG](31967L0548), opgenomen in de zogenaamde Europese Inventaris van bestaande commerciële chemicaliën (EINECS) (PbEG 1990, C 146).
+Met EG-richtlijn 67/548/EEG inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG L 196) was reeds een kennisgevingsstelsel voor het binnen de Europese Unie op de markt brengen van nieuwe stoffen geïntroduceerd. Van de verplichting tot het doen van een kennisgeving waren echter de stoffen uitgezonderd die op 18 september 1981 reeds binnen de Europese Unie op de markt waren gebracht. Deze bestaande stoffen zijn, ingevolge richtlijn nr. 67/548/EEG, opgenomen in de zogenaamde Europese Inventaris van bestaande commerciële chemicaliën (EINECS) (PbEG 1990, C 146).
 
 Met de basisverordening wordt beoogd binnen de Europese Unie een systematische beoordeling van de risico’s van deze EINECS-stoffen tot stand te brengen. Daarbij wordt de meeste aandacht geschonken aan de bestaande stoffen die in de Europese Unie in grote hoeveelheden worden geproduceerd dan wel geïmporteerd. Ten aanzien van een groot aantal van deze bestaande stoffen moet de fabrikant of importeur bepaalde informatie verstrekken aan de Europese Commissie.
 
@@ -116,6 +99,10 @@ fax. 31 – 70 3391314
 
 Een verzoek van een fabrikant of importeur om:
 
+- 1. van het verrichten van onderzoek te worden vrijgesteld dan wel een langere termijn voor het verrichten van onderzoek te verkrijgen, of
+
+- 2. geheimhouding van gegevens, moet eveneens schriftelijk bij het bureau worden ingediend. Een dergelijk verzoek moet worden gemotiveerd.
+
 Indien de gegevens geheim moeten worden gehouden, zullen zij uiteraard niet ter inzage worden gelegd (zie verder § 6).
 
 Voorts wordt aan een ieder verzocht gegevens in de Engelse taal in te dienen. Daardoor kunnen de vertaallasten bij de uitvoering zoveel als mogelijk worden beperkt. Voor de meeste bedrijven zal dit geen problemen opleveren.
@@ -126,7 +113,7 @@ Bij de uitoefening van de werkzaamheden die door het Bureau zullen worden verric
 
 ### § 5. Rechtsbescherming
 
-Tegen de door de minister in diens hoedanigheid als rapporteur genomen beschikkingen op grond van de basisverordening, zoals te verlenen vrijstellingen, zal bezwaar kunnen worden gemaakt op grond van [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1). Beroep dient te worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State ([artikel 20.1, eerste en derde lid van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.1)). Het verslag van de risicobeoordeling (zie verder § 6) zal echter waarschijnlijk geen ’besluit’ in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) zijn. Dat betekent dat, indien het verslag onrechtmatig wordt geacht, bij de burgerlijke rechter een actie uit onrechtmatige overheidsdaad ingesteld zal moeten worden.
+Tegen de door de minister in diens hoedanigheid als rapporteur genomen beschikkingen op grond van de basisverordening, zoals te verlenen vrijstellingen, zal bezwaar kunnen worden gemaakt op grond van [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1). Beroep dient te worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State ([artikel 20.1, eerste en derde lid van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.1)). Het verslag van de risicobeoordeling (zie verder [§ 6](https://wetten.overheid.nl/BWBR0007449)) zal echter waarschijnlijk geen ’besluit’ in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) zijn. Dat betekent dat, indien het verslag onrechtmatig wordt geacht, bij de burgerlijke rechter een actie uit onrechtmatige overheidsdaad ingesteld zal moeten worden.
 
 De basisverordening bepaalt dat de Europese Commissie op basis van het verslag een voorstel opstelt voor de resultaten van de risicobeoordeling en, indien nodig, een aanbeveling voor een strategie om de risico’s van de stof te beperken (artikel 11, eerste lid). Het Comité, bedoeld in artikel 15 van de basisverordening, neemt een beslissing over dit voorstel. De definitieve risicobeoordeling en de definitieve strategie worden gepubliceerd in het Publikatieblad van de Europese Gemeenschappen. Tegen deze risicobeoordeling en strategie staat op communautair niveau beroep open: voor particulieren echter in geringe mate (artikelen 173 en 215 EG-verdrag). Op basis van de risicobeoordeling en van de strategie besluit de Europese Commissie, indien nodig, communautaire maatregelen voor te stellen of te nemen. Laat de Europese Commissie dit na, dan zal zij onder de voorwaarden van artikel 175 EG-verdrag uitgenodigd kunnen worden terzake actie te ondernemen. Voor de beslissing op deze uitnodiging geldt het hierboven gestelde ten aanzien van de artikelen 173 en 215 EG-verdrag.
 
@@ -144,6 +131,14 @@ De resultaten daarvan worden neergelegd in een ontwerp van een rapport van de mi
 
 De gegevens van dit ontwerp van een rapport omvatten ten minste:
 
+- a. de in bijlage 5 van de uitvoeringsverordening genoemde gegevens alsmede een samenvatting daarvan;
+
+- b. een toelichting op de wijze waarop rekening is gehouden met voorgaande risicobeoordelingen van de stof;
+
+- c. indien van toepassing: een voorstel voor een strategie om de risico’s van de stof te beperken, en
+
+- d. zo nodig: een analyse betreffende de voor- en nadelen van de stof en de beschikbaarheid van vervangingsstoffen.
+
 Het ontwerp-rapport wordt gezonden aan de fabrikanten en importeurs die op grond van de basisverordening gegevens over de stof hebben geleverd. Het gaat daarbij niet alleen om de in Nederland gevestigde fabrikanten en importeurs, maar ook om de daarbuiten in de Europese Unie, of in andere staten van de Europese Economische Ruimte gevestigde fabrikanten en importeurs.
 
 Op de voorbereiding van het rapport is tevens de in [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) geregelde openbare voorbereidingsprocedure van toepassing. De procedure is grafisch weergegeven in de bijlage bij deze circulaire en houdt het volgende in.
@@ -157,9 +152,3 @@ Nadat de termijn van de terinzagelegging is verlopen wordt het rapport door de m
 Een afschrift van het verslag wordt toegezonden aan de fabrikanten en importeurs die op grond van de basisverordening nadere gegevens met betrekking tot de stof hebben overlegd.
 
 Tevens ontvangen degenen die hun zienswijzen met betrekking tot het ontwerp-rapport naar voren hebben gebracht hiervan afschrift, dan wel, indien de gegevens geheim zijn, een samenvatting. Gegevens die als vertrouwelijk moeten worden behandeld komen niet voor in de stukken die worden toegezonden aan derden die hun zienswijzen met betrekking tot het ontwerp-rapport naar voren hebben gebracht.
-
-## Bijlage. behorende bij de Circulaire risicobeoordeling bestaande stoffen – Schema met betrekking tot de procedure van de risicobeoordeling
-
-### Deel A: het Nederlandse deel van de procedure van de risicobeoordeling
-
-### Deel B: het communautaire deel van de procedure van de risicobeoordeling

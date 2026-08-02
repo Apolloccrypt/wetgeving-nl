@@ -1,44 +1,17 @@
 ---
 title: "Regeling subsidiëring Extra Impuls natuur- en milieu-educatie"
 identifier: "BWBR0007927"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007927"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "4598223"
-version_id: "6414822"
-internal_id: "C6660381"
-label_id: "4576894"
-dtd_version: "2.0"
-original_entry_into_force: "1996-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007927/2002-01-01/0"
-intitule_bron: "Stcrt.1996-52"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-03-06"
-intitule_published: "1996-03-13"
-intitule_in_force: "1996-03-13"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-52"
-original_signed_date: "1996-03-06"
-original_published_date: "1996-03-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-03-15"
-jci_1_3: "jci1.3:c:BWBR0007927&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0007927&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "1996-03-06"
-entry_into_force: "1996-03-15"
+publicatiedatum: 1996-03-15
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0007927"
+opgehaald: 2026-08-02
 ---
+
 # Regeling subsidiëring Extra Impuls natuur- en milieu-educatie
-
-Handelende in overeenstemming met de Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Verkeer en Waterstaat, voor Ontwikkelingssamenwerking, van Volksgezondheid, Welzijn en Sport en van Onderwijs, Cultuur en Wetenschappen;
-
-Mede gelet op artikel 13 van het Verdrag inzake biologische diversiteit, met bijlagen, Rio de Janeiro, 5 juni 1992 (Trb. 1992, 164 en 1993, 54);
-
-Besluit:
 
 #### 1. Definitiebepalingen
 
@@ -46,7 +19,33 @@ Besluit:
 
 1. Voor de toepassing van deze regeling wordt verstaan onder:
 
-minister: minister van Landbouw, Natuurbeheer en Visserij; stichting: Stichting Nationale Commissie voor Internationale Samenwerking en Duurzame Ontwikkeling; instelling: rechtspersoon zonder winstoogmerk die zijn domicilie in Nederland heeft; project: tijdelijke activiteit, uitgevoerd door een instelling, met een start- en einddatum, waarvan de looptijd uiterlijk 31 juli 2000 eindigt; aanvrager: instelling die op grond van deze regeling een aanvraag tot subsidieverlening indient of heeft ingediend; stuurgroep: stuurgroep als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007927&paragraaf=2&artikel=2&z=2002-01-01&g=2002-01-01); Extra Impuls: Extra Impuls als bedoeld in het Kaderplan Natuur- en Milieu-educatie (Kamerstukken II, 1993-1994, 20487, nr. 13).
+minister:
+
+minister van Landbouw, Natuurbeheer en Visserij;
+
+stichting:
+
+Stichting Nationale Commissie voor Internationale Samenwerking en Duurzame Ontwikkeling;
+
+instelling:
+
+rechtspersoon zonder winstoogmerk die zijn domicilie in Nederland heeft;
+
+project:
+
+tijdelijke activiteit, uitgevoerd door een instelling, met een start- en einddatum, waarvan de looptijd uiterlijk 31 juli 2000 eindigt;
+
+aanvrager:
+
+instelling die op grond van deze regeling een aanvraag tot subsidieverlening indient of heeft ingediend;
+
+stuurgroep:
+
+stuurgroep als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007927&paragraaf=2&artikel=2&z=2002-01-01&g=2002-01-01);
+
+Extra Impuls:
+
+Extra Impuls als bedoeld in het Kaderplan Natuur- en Milieu-educatie (Kamerstukken II, 1993-1994, 20487, nr. 13).
 
 2. In deze regeling worden onder subsidiabele kosten verstaan kosten voortvloeiende uit een project, onder aftrek van de uit een project voortvloeiende opbrengsten.
 
@@ -212,19 +211,19 @@ De minister geeft een beschikking tot subsidievaststelling
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 #### 8. Slotbepalingen
 
@@ -240,15 +239,15 @@ Deze regeling berust op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
@@ -257,5 +256,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 28
 
 Deze regeling kan worden aangehaald als: Regeling subsidiëring Extra Impuls natuur- en milieu-educatie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

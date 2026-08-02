@@ -1,53 +1,22 @@
 ---
 title: "Wet van 20 juni 1996 tot aanvulling van de Algemene wet bestuursrecht (Derde tranche Algemene wet bestuursrecht)"
+citeertitel: "Derde tranche Algemene wet bestuursrecht"
 identifier: "BWBR0008120"
-country: "nl"
-rank: "wet"
-publication_date: "2001-01-01"
-last_updated: "2001-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008120"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "55393"
-version_id: "69592"
-internal_id: "C69591"
-label_id: "55004"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008120/2001-01-01/0"
-intitule_bron: "Stb.1996-333"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-06-20"
-intitule_published: "1996-07-04"
-intitule_in_force: "1997-12-18"
-intitule_status: "goed"
-original_publication: "Stb.1996-333"
-original_signed_date: "1996-06-20"
-original_published_date: "1996-07-04"
-original_effect: "nieuwe-regeling"
-original_dossier: "23700"
-original_url_id: "stb-1996-333"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0008120&z=2001-01-01&g=2001-01-01"
-jci_1_0: "1.0:c:BWBR0008120&g=2001-01-01"
-citeertitel_status: "officieel"
-short_title: "Derde tranche Algemene wet bestuursrecht"
-signed_date: "1996-06-20"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2001-01-01
+status: geldig
+toestand: 2001-01-01
+bron: "https://wetten.overheid.nl/BWBR0008120"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 20 juni 1996 tot aanvulling van de Algemene wet bestuursrecht (Derde tranche Algemene wet bestuursrecht)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het, ter nadere uitwerking van [artikel 107, tweede lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=107), gewenst is de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) aan te vullen met bepalingen inzake mandaat en delegatie, inzake toezicht op bestuursorganen, inzake subsidies, inzake beleidsregels en inzake handhaving;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Bij Stb. 2001/208 is bepaald dat met ingang van 11 mei 2001 deze wet ook van toepassing is op de wetten genoemd in artikel VI, tweede lid.
 
 ##### ARTIKEL I
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### ARTIKEL II
 
@@ -106,5 +75,3 @@ Degene die volgens het recht zoals dat gold voor het tijdstip van inwerkingtredi
 - l. de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628).
 
 3. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop titel 4.2 van deze wet in werking treedt voor de toepassing van de [Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149).
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

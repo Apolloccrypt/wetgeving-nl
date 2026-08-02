@@ -1,40 +1,17 @@
 ---
 title: "Instelling bestuurlijke begeleidingsgroep Noord-oostelijke verbinding - RW 15"
 identifier: "BWBR0007889"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-02-25"
-last_updated: "2005-02-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007889"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "4258253"
-version_id: "6021662"
-internal_id: "C6225051"
-label_id: "4236804"
-dtd_version: "2.0"
-original_entry_into_force: "1996-02-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007889/2005-02-25/0"
-intitule_bron: "Stcrt.1996-33"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-02-05"
-intitule_published: "1996-02-15"
-intitule_in_force: "1996-02-15"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-33"
-original_signed_date: "1996-02-05"
-original_published_date: "1996-02-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-02-16"
-jci_1_3: "jci1.3:c:BWBR0007889&z=2005-02-25&g=2005-02-25"
-jci_1_0: "1.0:c:BWBR0007889&g=2005-02-25"
-citeertitel_status: "officieel"
-signed_date: "1996-02-05"
-entry_into_force: "1996-02-16"
+publicatiedatum: 1996-02-16
+laatste_update: 2005-02-25
+status: geldig
+toestand: 2005-02-25
+bron: "https://wetten.overheid.nl/BWBR0007889"
+opgehaald: 2026-08-02
 ---
-# Instelling bestuurlijke begeleidingsgroep Noord-oostelijke verbinding - RW 15
 
-Besluit:
+# Instelling bestuurlijke begeleidingsgroep Noord-oostelijke verbinding - RW 15
 
 ##### Artikel 1
 
@@ -52,9 +29,9 @@ Daartoe heeft de begeleidingsgroep de volgende functies:
 
 - a. kwaliteit:
 
-- het inbrengen van de regionale aspecten in de studies
+   - het inbrengen van de regionale aspecten in de studies
 
-- het bewaken van de kwaliteit van de studies
+   - het bewaken van de kwaliteit van de studies
 
 - b. zorgvuldigheid: het bewaken van de zorgvuldigheid van de procedures (waarbij de onderlinge afstemming van beide studies een belangrijk element is) en het proces (waaronder begrepen de voortgang van de beide projecten)
 

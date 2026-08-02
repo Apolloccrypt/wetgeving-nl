@@ -5,11 +5,11 @@ identifier: "BWBR0003848"
 categorie: "Onderwijs"
 soort: "AMvB"
 publicatiedatum: 1985-08-01
-laatste_update: 2022-04-01
+laatste_update: 2026-08-01
 status: geldig
-toestand: 2022-04-01
+toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0003848"
-opgehaald: 2026-07-30
+opgehaald: 2026-08-02
 ---
 
 # Besluit van 18 september 1985, houdende voorschriften van onderwijskundige aard voor het speciaal onderwijs en het voortgezet speciaal onderwijs
@@ -71,7 +71,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Afdelingen voor meervoudig gehandicapte kinderen
 
-1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel a tot en met c, f, en h](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2022-04-01&g=2022-04-01) tot en met m van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
+1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel a tot en met c, f, en h](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2026-08-01&g=2026-08-01) tot en met m van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
 
 2. De afdeling bedoeld in het eerste lid, is bestemd voor kinderen met eenzelfde meervoudige handicap.
 
@@ -177,9 +177,9 @@ Het bevoegd gezag kan, in het kader van [artikel 14b van de wet](https://wetten.
 
 ##### Artikel 14. Afwijkingen delen onderwijsprogramma arbeidsmarktgericht uitstroomprofiel en uitstroomprofiel dagbesteding
 
-1. Voor afwijkingen als bedoeld in [artikel 14c, elfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), onderscheidenlijk in [artikel 14f, tiende lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) kunnen in aanmerking komen leerlingen die naar het oordeel van het bevoegd gezag niet in staat zijn al het onderwijs dat wordt verzorgd op basis van de kerndoelen te volgen.
+1. Voor afwijkingen als bedoeld in [artikel 14c, dertiende lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), onderscheidenlijk in [artikel 14f, twaalfde lid, eerste volzin van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) kunnen in aanmerking komen leerlingen die naar het oordeel van het bevoegd gezag niet in staat zijn al het onderwijs dat wordt verzorgd op basis van de kerndoelen te volgen.
 
-2. De commissie voor de begeleiding, bedoeld in [artikel 40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=40b), dan wel de commissie van onderzoek, bedoeld in [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41), adviseert het bevoegd gezag ten aanzien van welke leerlingen [artikel 14c, elfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), onderscheidenlijk [artikel 14f, tiende lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) toepassing kan vinden.
+2. De commissie voor de begeleiding, bedoeld in [artikel 40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=40b), dan wel de commissie van onderzoek, bedoeld in [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41), adviseert het bevoegd gezag ten aanzien van welke leerlingen in [artikel 14c, dertiende lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), onderscheidenlijk in [artikel 14f, twaalfde lid, eerste volzin van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) toepassing kan vinden.
 
 3. In haar advies doet de commissie aan het bevoegd gezag voorstellen ten aanzien van de aard van de in het tweede lid bedoelde afwijkingen. Daarbij geeft zij aan waarop deze voorstellen zijn gegrond.
 
@@ -267,7 +267,7 @@ Het percentage, bedoeld in [artikel 18, derde lid, van de wet](https://wetten.ov
 
 ##### Artikel 26. Omhangbepaling
 
-Dit besluit is gebaseerd op de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), [14c, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), [14f, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=17), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18), [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=24), [41a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a), en [45, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=45).
+Dit besluit is gebaseerd op de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), [14c, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), [14f, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=17), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18), [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=24), [41a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a), en [45, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=45).
 
 ##### Artikel 27. Inwerkingtreding en citeertitel
 

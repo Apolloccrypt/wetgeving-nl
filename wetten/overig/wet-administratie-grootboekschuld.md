@@ -1,47 +1,18 @@
 ---
 title: "Wet van 4 oktober 1995, tot regeling van een vereenvoudigde administratie van de Grootboekschuld"
+citeertitel: "Wet administratie grootboekschuld"
 identifier: "BWBR0007597"
-country: "nl"
-rank: "wet"
-publication_date: "1999-02-17"
-last_updated: "1999-02-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007597"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1828793"
-version_id: "2726952"
-internal_id: "C2726951"
-label_id: "1783734"
-dtd_version: "2.0"
-original_entry_into_force: "1996-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007597/1999-02-17/0"
-intitule_bron: "Stb.1995-497"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-10-04"
-intitule_published: "1995-10-24"
-intitule_in_force: "1996-03-21"
-intitule_status: "goed"
-original_publication: "Stb.1995-497"
-original_signed_date: "1995-10-04"
-original_published_date: "1995-10-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "24117"
-original_url_id: "stb-1995-497"
-entry_into_force_date: "1996-04-01"
-jci_1_3: "jci1.3:c:BWBR0007597&z=1999-02-17&g=1999-02-17"
-jci_1_0: "1.0:c:BWBR0007597&g=1999-02-17"
-citeertitel_status: "officieel"
-short_title: "Wet administratie grootboekschuld"
-signed_date: "1995-10-04"
-entry_into_force: "1996-04-01"
+publicatiedatum: 1996-04-01
+laatste_update: 1999-02-17
+status: geldig
+toestand: 1999-02-17
+bron: "https://wetten.overheid.nl/BWBR0007597"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 4 oktober 1995, tot regeling van een vereenvoudigde administratie van de Grootboekschuld
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de schulden van de Staat der Nederlanden, welke zijn ingeschreven in de Grootboeken der Nationale Schuld als bedoeld in de Grootboekwet, worden gebracht onder een administratief stelsel dat beter is afgestemd op de huidige eisen van het maatschappelijk verkeer dan het stelsel van de Grootboekwet.
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. de grootboeken: de Grootboeken der Nationale Schuld bedoeld in de [Grootboekwet](onbekend);
+- a. de grootboeken: de Grootboeken der Nationale Schuld bedoeld in de Grootboekwet;
 
 - b. de schuldregisters: de schuldregisters bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&hoofdstuk=2&artikel=2&z=1999-02-17&g=1999-02-17);
 
@@ -65,7 +36,7 @@ Onze Minister draagt zorg voor het openen van schuldregisters, bestemd voor de i
 
 ##### Artikel 3
 
-Op de schuldregisters is de Wet van 30 november 1949, houdende regelen nopens het beheer van schuldregisters voor geldleningen ten laste van het Rijk (**Stb.** J 529), van toepassing.
+Op de schuldregisters is de Wet van 30 november 1949, houdende regelen nopens het beheer van schuldregisters voor geldleningen ten laste van het Rijk (*Stb.* J 529), van toepassing.
 
 ### Hoofdstuk 4. Overgangsbepalingen
 
@@ -97,7 +68,7 @@ Op de schuldregisters is de Wet van 30 november 1949, houdende regelen nopens he
 
 1. Onze Minister draagt zorg voor het openen van tussenrekeningen bestemd voor de tijdelijke inschrijving van schulden van de Staat der Nederlanden overeenkomstig hetgeen bij of krachtens deze wet is bepaald.
 
-2. Op de tussenrekeningen is de Wet van 30 november 1949, houdende regelen nopens het beheer van schuldregisters voor geldleningen ten laste van het Rijk (**Stb.** J 529), van toepassing.
+2. Op de tussenrekeningen is de Wet van 30 november 1949, houdende regelen nopens het beheer van schuldregisters voor geldleningen ten laste van het Rijk (*Stb.* J 529), van toepassing.
 
 ##### Artikel 7
 
@@ -149,7 +120,7 @@ Is boeking van de inschrijving of een deel van de inschrijving op een rekening i
 
 ##### Artikel 14
 
-Krachtens de [Grootboekwet](onbekend) uitgegeven schuldbewijzen aan toonder kunnen worden ingeleverd tegen in- of bijschrijving van het bedrag van deze schuldbewijzen op een rekening in de schuldregisters of afgifte van schuldbewijzen aan toonder als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&hoofdstuk=4&artikel=13&z=1999-02-17&g=1999-02-17).
+Krachtens de Grootboekwet uitgegeven schuldbewijzen aan toonder kunnen worden ingeleverd tegen in- of bijschrijving van het bedrag van deze schuldbewijzen op een rekening in de schuldregisters of afgifte van schuldbewijzen aan toonder als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&hoofdstuk=4&artikel=13&z=1999-02-17&g=1999-02-17).
 
 ##### Artikel 15
 
@@ -167,27 +138,27 @@ Krachtens de [Grootboekwet](onbekend) uitgegeven schuldbewijzen aan toonder kunn
 
 ##### Artikel 17
 
-De [Grootboekwet](onbekend) en de wet van 12 april 1978 tot wijziging van de Grootboekwet (**Stb.** 1978, 188) worden ingetrokken.
+De Grootboekwet en de wet van 12 april 1978 tot wijziging van de Grootboekwet (*Stb.* 1978, 188) worden ingetrokken.
 
 ### Hoofdstuk 5. Wijziging van andere wetten
 
 ##### Artikel 18
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ### Hoofdstuk 6. Slotbepalingen
 
 ##### Artikel 19
 
-De Grootboeken der Nationale Schuld, bedoeld in artikel 15 van de wet van 14 mei 1814 tot herstel der nationale schuld en tot vinding der fondsen benoodigd tot stijving van ’s Lands kas (**Stb.** 1814, 58), artikel 6 van de wet van 25 juni 1844 tot aflossing of verwisseling van Nationale Schuld (**Stb.** 1844, 28), artikel 8 van de wet van 30 december 1895 tot conversie van drie en een half ten honderd in drie ten honderd rentegevende Nationale Schuld (**Stb.** 1895, 236) en artikel 1 van de Wet van 31 december 1910 betreffende het aangaan van eene geldleening ten laste van den Staat (**Stb.** 1910, 412) worden gesloten.
+De Grootboeken der Nationale Schuld, bedoeld in artikel 15 van de wet van 14 mei 1814 tot herstel der nationale schuld en tot vinding der fondsen benoodigd tot stijving van ’s Lands kas (*Stb.* 1814, 58), artikel 6 van de wet van 25 juni 1844 tot aflossing of verwisseling van Nationale Schuld (*Stb.* 1844, 28), artikel 8 van de wet van 30 december 1895 tot conversie van drie en een half ten honderd in drie ten honderd rentegevende Nationale Schuld (*Stb.* 1895, 236) en artikel 1 van de Wet van 31 december 1910 betreffende het aangaan van eene geldleening ten laste van den Staat (*Stb.* 1910, 412) worden gesloten.
 
 ##### Artikel 20
 
-Het koninklijk besluit van 8 december 1814 houdende een reglement op de inschrijving in het Grootboek der Nationale Schuld, ten gevolge der wet van den 14den mei 1814 (**Stb.** 1814, 111), het koninklijk besluit van 22 december 1814 arresterende een reglement op de overschrijving van ingeschrevene kapitalen in het Grootboek der Nationale Schuld (**Stb.** 1814, 113), het koninklijk besluit van 18 mei 1818 vaststellende het reglement op de rentebetaling der nationale werkelijke rentegevende schuld (**Stb.** 1818, 24) en het koninklijk besluit van 11 maart 1818, nr. 83 worden ingetrokken.
+Het koninklijk besluit van 8 december 1814 houdende een reglement op de inschrijving in het Grootboek der Nationale Schuld, ten gevolge der wet van den 14den mei 1814 (*Stb.* 1814, 111), het koninklijk besluit van 22 december 1814 arresterende een reglement op de overschrijving van ingeschrevene kapitalen in het Grootboek der Nationale Schuld (*Stb.* 1814, 113), het koninklijk besluit van 18 mei 1818 vaststellende het reglement op de rentebetaling der nationale werkelijke rentegevende schuld (*Stb.* 1818, 24) en het koninklijk besluit van 11 maart 1818, nr. 83 worden ingetrokken.
 
 ##### Artikel 21
 
-Onze Minister stelt nadere regels voor de aanmelding, de inschrijving van schulden op tussenrekeningen en in de schuldregisters, de afgifte van schuldbewijzen aan toonder, de inlevering van krachtens de [Grootboekwet](onbekend) uitgegeven schuldbewijzen, de inrichting en het beheer van de tussenrekeningen en de schuldregisters en de betaalbaarstelling van de rente.
+Onze Minister stelt nadere regels voor de aanmelding, de inschrijving van schulden op tussenrekeningen en in de schuldregisters, de afgifte van schuldbewijzen aan toonder, de inlevering van krachtens de Grootboekwet uitgegeven schuldbewijzen, de inrichting en het beheer van de tussenrekeningen en de schuldregisters en de betaalbaarstelling van de rente.
 
 ##### Artikel 22
 
@@ -196,5 +167,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 23
 
 Deze wet kan worden aangehaald als: Wet administratie grootboekschuld.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

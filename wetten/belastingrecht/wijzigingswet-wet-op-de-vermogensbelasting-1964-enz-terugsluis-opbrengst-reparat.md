@@ -1,74 +1,44 @@
 ---
 title: "Wet in 18 december 1995 tot wijziging van de Wet op de vermogensbelasting 1964, de Wet op de omzetbelasting 1968, de Wet op belastingen van rechtsverkeer, de Wet op de vennootschapsbelasting 1969 en de Invorderingswet 1990 (terugsluis opbrengst reparatiewetsvoorstel-btw)"
+citeertitel: "Wijzigingswet Wet op de vermogensbelasting 1964, enz. (terugsluis opbrengst reparatiewetsvoorstel-btw)"
 identifier: "BWBR0007757"
-country: "nl"
-rank: "wet"
-publication_date: "1998-09-01"
-last_updated: "1998-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007757"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "547453"
-version_id: "799472"
-internal_id: "C799471"
-label_id: "531484"
-dtd_version: "2.0"
-original_entry_into_force: "1996-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007757/1998-09-01/0"
-intitule_bron: "Stb.1995-660"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-18"
-intitule_published: "1995-12-28"
-intitule_in_force: "1995-12-28"
-intitule_status: "goed"
-original_publication: "Stb.1995-660"
-original_signed_date: "1995-12-18"
-original_published_date: "1995-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "24428"
-original_url_id: "stb-1995-660"
-entry_into_force_date: "1996-01-01"
-entry_into_force_dossier: "24428"
-jci_1_3: "jci1.3:c:BWBR0007757&z=1998-09-01&g=1998-09-01"
-jci_1_0: "1.0:c:BWBR0007757&g=1998-09-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet op de vermogensbelasting 1964, enz. (terugsluis opbrengst reparatiewetsvoorstel-btw)"
-signed_date: "1995-12-18"
-entry_into_force: "1996-01-01"
+publicatiedatum: 1996-01-01
+laatste_update: 1998-09-01
+status: geldig
+toestand: 1998-09-01
+bron: "https://wetten.overheid.nl/BWBR0007757"
+opgehaald: 2026-08-02
 ---
+
 # Wet in 18 december 1995 tot wijziging van de Wet op de vermogensbelasting 1964, de Wet op de omzetbelasting 1968, de Wet op belastingen van rechtsverkeer, de Wet op de vennootschapsbelasting 1969 en de Invorderingswet 1990 (terugsluis opbrengst reparatiewetsvoorstel-btw)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treffen om lasten te verlichten ter stimulering van de economische infrastructuur, van de cultuur en de sport en ter bevordering van het fiscale klimaat voor ondernemingen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelingen.
+*Bevat wijzigingen in andere regelingen.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelingen.
+*Bevat wijzigingen in andere regelingen.*
 
 ##### Artikel III
 
-Bevat wijzigingen in andere regelingen.
+*Bevat wijzigingen in andere regelingen.*
 
 ##### Artikel IV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel V
 
 Indien het bij koninklijke boodschap van 14 september 1995 ingediende voorstel van wet tot wijziging van de inkomstenbelasting en de vennootschapsbelasting in verband met de invoering van een regulerende energiebelasting (Kamerstukken II 1994/95, 24 344, nrs. 1-2) tot wet wordt verheven en met ingang van 1 januari 1996 in werking treedt, vervallen daarvan de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007757&artikel=IV&z=1998-09-01&g=1998-09-01) tot en met [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0007757&artikel=IX&z=1998-09-01&g=1998-09-01), vervalt artikel IV van de onderhavige wet, wordt [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22) als volgt gewijzigd en wordt de vennootschapsbelasting over een gebroken boekjaar als volgt berekend.
 
-- A. Bevat wijzigingen in andere regelgeving.
+- A. *Bevat wijzigingen in andere regelgeving.*
 
-- B. Bevat wijzigingen in andere regelgeving.
+- B. *Bevat wijzigingen in andere regelgeving.*
 
-- C. Bevat wijzigingen in andere regelgeving.
+- C. *Bevat wijzigingen in andere regelgeving.*
 
 - D. De vennootschapsbelasting over een boekjaar dat voor 1 januari 1996 begint en op of na die datum eindigt wordt, in afwijking in zoverre van [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), berekend volgens de volgende formule:
 
@@ -94,11 +64,11 @@ G voorstelt: het belastbare bedrag of het belastbare binnenlandse bedrag.
 
 ##### Artikel VI
 
-Bevat wijzigingen in andere regelingen.
+*Bevat wijzigingen in andere regelingen.*
 
 ##### Artikel VII
 
-Bevat wijzigingen in andere regelingen.
+*Bevat wijzigingen in andere regelingen.*
 
 ##### Artikel VIII
 
@@ -117,5 +87,3 @@ Bevat wijzigingen in andere regelingen.
 3. In afwijking van het eerste lid treedt [artikel II, onder C.2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007757&artikel=II&z=1998-09-01&g=1998-09-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 4. In afwijking in zoverre van het eerste lid werken de [artikelen III, onderdelen A, B.2 en B.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007757&artikel=III&z=1998-09-01&g=1998-09-01), en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0007757&artikel=VII&z=1998-09-01&g=1998-09-01) terug tot en met 31 maart 1995, 18.00 uur.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

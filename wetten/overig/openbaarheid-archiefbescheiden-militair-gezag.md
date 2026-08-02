@@ -1,44 +1,17 @@
 ---
 title: "Openbaarheid archiefbescheiden Militair Gezag"
 identifier: "BWBR0007284"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-06-02"
-last_updated: "1995-06-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007284"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3592843"
-version_id: "5375942"
-internal_id: "C5569031"
-label_id: "3572824"
-dtd_version: "2.0"
-original_entry_into_force: "1995-06-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007284/1995-06-02/0"
-intitule_bron: "Stcrt.1995-103"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-03-16"
-intitule_published: "1995-05-31"
-intitule_in_force: "1995-05-31"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-103"
-original_signed_date: "1995-03-16"
-original_published_date: "1995-05-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-06-02"
-jci_1_3: "jci1.3:c:BWBR0007284&z=1995-06-02&g=1995-06-02"
-jci_1_0: "1.0:c:BWBR0007284&g=1995-06-02"
-citeertitel_status: "officieel"
-signed_date: "1995-03-16"
-entry_into_force: "1995-06-02"
+publicatiedatum: 1995-06-02
+laatste_update: 1995-06-02
+status: geldig
+toestand: 1995-06-02
+bron: "https://wetten.overheid.nl/BWBR0007284"
+opgehaald: 2026-08-02
 ---
+
 # Openbaarheid archiefbescheiden Militair Gezag
-
-Gelet op artikel 7a, tweede lid, van de Archiefwet 1962,
-
-Gehoord de Minister van Defensie,
-
-Besluit:
 
 ##### Artikel 1
 

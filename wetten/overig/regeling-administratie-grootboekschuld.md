@@ -1,46 +1,39 @@
 ---
 title: "Regeling administratie grootboekschuld"
 identifier: "BWBR0007938"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007938"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4359623"
-version_id: "6116242"
-internal_id: "C16538621"
-label_id: "4338324"
-dtd_version: "2.0"
-original_entry_into_force: "1996-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007938/2002-01-01/0"
-intitule_bron: "Stcrt.1996-60"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-03-13"
-intitule_published: "1996-03-25"
-intitule_in_force: "1996-03-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-60"
-original_signed_date: "1996-03-13"
-original_published_date: "1996-03-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-04-01"
-jci_1_3: "jci1.3:c:BWBR0007938&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0007938&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "1996-03-13"
-entry_into_force: "1996-04-01"
+publicatiedatum: 1996-04-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0007938"
+opgehaald: 2026-08-02
 ---
+
 # Regeling administratie grootboekschuld
-
-Gelet op [artikel 21 van de Wet administratie grootboekschuld](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=21);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+de wet:
+
+de [Wet administratie grootboekschuld](https://wetten.overheid.nl/jci1.3:c:BWBR0007597);
+
+b.
+
+een tussenrekening:
+
+een tussenrekening als bedoeld in de [Wet administratie grootboekschuld](https://wetten.overheid.nl/jci1.3:c:BWBR0007597);
+
+c.
+
+het Agentschap:
+
+het Agentschap van het Ministerie van Financiën te Amsterdam.
 
 ##### Artikel 2
 
@@ -205,5 +198,3 @@ Deze regeling treedt in werking met ingang van 1 april 1996.
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling administratie grootboekschuld.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

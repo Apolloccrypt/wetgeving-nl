@@ -1,82 +1,56 @@
 ---
 title: "Besluit van 8 december 1995, houdende uitvoering van artikel 40, eerste lid, van de Wet toezicht effectenverkeer 1995"
+citeertitel: "Overdrachtsbesluit Wet toezicht effectenverkeer 1995"
 identifier: "BWBR0007709"
-country: "nl"
-rank: "amvb"
-publication_date: "2003-12-01"
-last_updated: "2003-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007709"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "2563403"
-version_id: "4786002"
-internal_id: "C4805371"
-label_id: "2508824"
-dtd_version: "2.0"
-original_entry_into_force: "2002-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007709/2003-12-01/0"
-intitule_bron: "Stb.1995-624"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-08"
-intitule_published: "1995-12-27"
-intitule_in_force: "1995-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2002-452"
-original_signed_date: "2002-08-23"
-original_published_date: "2002-08-29"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2002-452"
-entry_into_force_date: "2002-09-01"
-jci_1_3: "jci1.3:c:BWBR0007709&z=2003-12-01&g=2003-12-01"
-jci_1_0: "1.0:c:BWBR0007709&g=2003-12-01"
-citeertitel_status: "officieel"
-short_title: "Overdrachtsbesluit Wet toezicht effectenverkeer 1995"
-signed_date: "2002-08-23"
-entry_into_force: "2002-09-01"
+publicatiedatum: 2002-09-01
+laatste_update: 2003-12-01
+status: geldig
+toestand: 2003-12-01
+bron: "https://wetten.overheid.nl/BWBR0007709"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 8 december 1995, houdende uitvoering van artikel 40, eerste lid, van de Wet toezicht effectenverkeer 1995
-
-Op de voordracht van Onze Minister van Financiën van 19 juli 1995, nr. BGW 95/1677-M, Generale Thesaurie, Directie Binnenlands Geldwezen, Afdeling Effecten, Banken en Monetaire aangelegenheden;
-
-Gelet op [artikel 40, eerste lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=40);
-
-De Raad van State gehoord (advies van 31 oktober 1995, nr. W06.95.0403);
-
-Gezien het nader rapport van Onze Minister van Financiën van 5 december 1995, nr. BGW 95/2513-U, Generale Thesaurie, Directie Binnenlands Geldwezen, Afdeling Effecten, Banken en Monetaire aangelegenheden;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. wet: de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657);
+- a wet: de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657);
 
-- b. de Autoriteit Financiële Markten: de Stichting Autoriteit Financiële Markten;
+- b de Autoriteit Financiële Markten: de Stichting Autoriteit Financiële Markten;
 
-- c. de Bank: De Nederlandsche Bank N.V.;
+- c de Bank: De Nederlandsche Bank N.V.;
 
-- d. Onze Minister: Onze Minister van Financiën.
+- d Onze Minister: Onze Minister van Financiën.
 
 ##### Artikel 2
 
 1. Met inachtneming van [artikel 40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=40) worden de taken en bevoegdheden die Onze Minister op grond van de wet heeft, overgedragen aan de Autoriteit Financiële Markten, met uitzondering van:
 
-- a. de bevoegdheid, bedoeld in [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=6), voor zover het betreft het doen van een mededeling dan wel het geven van een aanwijzing aan de houder van een effectenbeurs met betrekking tot de voor die effectenbeurs te hanteren regels inzake beschermingsconstructies en hun toepassing;
+- a de bevoegdheid, bedoeld in [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=6), voor zover het betreft het doen van een mededeling dan wel het geven van een aanwijzing aan de houder van een effectenbeurs met betrekking tot de voor die effectenbeurs te hanteren regels inzake beschermingsconstructies en hun toepassing;
 
-- b. de bevoegdheid, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=6), voor zover het betreft het bepalen van een termijn met betrekking tot een aanwijzing als bedoeld onder **a**;
+- b de bevoegdheid, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=6), voor zover het betreft het bepalen van een termijn met betrekking tot een aanwijzing als bedoeld onder *a*;
 
-- c. de bevoegdheid, bedoeld in [artikel 24, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=24), voor zover het betreft het geven van voorschriften aan de houder van een effectenbeurs met betrekking tot de voor die effectenbeurs te hanteren regels inzake beschermingsconstructies en hun toepassing, alsmede voor zover het betreft het geven van voorschriften met betrekking tot de opening en sluiting van effectenbeurzen;
+- c de bevoegdheid, bedoeld in [artikel 24, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=24), voor zover het betreft het geven van voorschriften aan de houder van een effectenbeurs met betrekking tot de voor die effectenbeurs te hanteren regels inzake beschermingsconstructies en hun toepassing, alsmede voor zover het betreft het geven van voorschriften met betrekking tot de opening en sluiting van effectenbeurzen;
 
-- d. de taken en bevoegdheden die Onze Minister heeft op grond van de [artikelen 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=12), [28, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=29), [29a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=29a), [31, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=31), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=33), [33a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=33a), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=38), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=39), [48b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48b), [48c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48c), [48d, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48d), [48f](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48f), [48g](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48g), [48i, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48i), en [48m, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48m), voor zover deze taken en bevoegdheden betrekking hebben op het toezicht op de naleving van:
+- d de taken en bevoegdheden die Onze Minister heeft op grond van de [artikelen 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=12), [28, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=29), [29a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=29a), [31, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=31), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=33), [33a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=33a), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=38), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=39), [48b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48b), [48c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48c), [48d, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48d), [48f](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48f), [48g](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48g), [48i, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48i), en [48m, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48m), voor zover deze taken en bevoegdheden betrekking hebben op het toezicht op de naleving van:
 
-- 1. de krachtens [artikel 11, eerste lid, aanhef en onderdeel b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=11) gestelde regels; en
+   - 1 de krachtens [artikel 11, eerste lid, aanhef en onderdeel b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=11) gestelde regels; en
 
-- 2. de krachtens [artikel 11, eerste lid, aanhef en onderdelen c en d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=11) gestelde regels zover noodzakelijk voor het toezicht op financiële waarborgen; en
+   - 2 de krachtens [artikel 11, eerste lid, aanhef en onderdelen c en d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=11) gestelde regels zover noodzakelijk voor het toezicht op financiële waarborgen; en
 
-- e. de taken en bevoegdheden die Onze Minister heeft op grond van de [artikelen 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=13), en [28a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=28a).
+- e de taken en bevoegdheden die Onze Minister heeft op grond van de [artikelen 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=13), en [28a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=28a).
 
 2. Met inachtneming van het bepaalde in [artikel 40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=40) worden de taken en bevoegdheden genoemd in het eerste lid, onderdelen d en e, overgedragen aan de Bank.
+
+##### Artikel 2a
+
+De Autoriteit Financiële Markten raadpleegt de Bank in het kader van de aanvraag van een vergunning als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=7) over de vraag of de aanvrager voldoet aan de bij en krachtens de wet gestelde regels ten aanzien van de financiële waarborgen, alsmede de bedrijfsvoering en informatieverstrekking, voor zover noodzakelijk voor het toezicht op financiële waarborgen.
+
+Tot de bedrijfsvoering behoren de maatregelen gericht op het bevorderen en handhaven van een integere bedrijfsvoering met uitzondering van de maatregelen ter naleving van de effectentypische gedragsregels, bedoeld in [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=18a).
 
 ##### Artikel 3
 
@@ -100,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 - b. het doen van een mededeling dan wel het geven van een aanwijzing als bedoeld in [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=6), voor zover het een mededeling of een aanwijzing betreft aan de houder van een effectenbeurs met betrekking tot de voor die effectenbeurs te hanteren regels inzake beschermingsconstructies en hun toepassing;
 
-- c. het bepalen van een termijn als bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=6), voor zover het een termijn betreft met betrekking tot een aanwijzing als bedoeld onder **b**;
+- c. het bepalen van een termijn als bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=6), voor zover het een termijn betreft met betrekking tot een aanwijzing als bedoeld onder *b*;
 
 - d. het treffen of intrekken van een maatregel als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=8);
 
@@ -147,13 +121,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Overdrachtsbesluit Wet toezicht effectenverkeer 1995.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 2a
-
-De Autoriteit Financiële Markten raadpleegt de Bank in het kader van de aanvraag van een vergunning als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=7) over de vraag of de aanvrager voldoet aan de bij en krachtens de wet gestelde regels ten aanzien van de financiële waarborgen, alsmede de bedrijfsvoering en informatieverstrekking, voor zover noodzakelijk voor het toezicht op financiële waarborgen.
-
-Tot de bedrijfsvoering behoren de maatregelen gericht op het bevorderen en handhaven van een integere bedrijfsvoering met uitzondering van de maatregelen ter naleving van de effectentypische gedragsregels, bedoeld in [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=18a).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

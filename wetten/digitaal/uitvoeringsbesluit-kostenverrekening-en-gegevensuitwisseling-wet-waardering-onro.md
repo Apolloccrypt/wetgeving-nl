@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 4 februari 1995, tot vaststelling van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken"
+citeertitel: "Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken"
 identifier: "BWBR0007230"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007230"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "997403"
-version_id: "19780112"
-internal_id: "C27779811"
-label_id: "966534"
-dtd_version: "2.0"
-original_entry_into_force: "2012-11-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007230/2026-01-01/0"
-intitule_bron: "Stb.1995-67"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-02-04"
-intitule_published: "1995-02-14"
-intitule_in_force: "1995-02-14"
-intitule_status: "goed"
-original_publication: "Stb.2012-557"
-original_signed_date: "2012-11-06"
-original_published_date: "2012-11-16"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2012-557"
-entry_into_force_date: "2012-11-06"
-jci_1_3: "jci1.3:c:BWBR0007230&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0007230&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken"
-signed_date: "2012-11-06"
-entry_into_force: "2012-11-06"
+publicatiedatum: 2012-11-06
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0007230"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 4 februari 1995, tot vaststelling van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken
-
-Op de voordracht van de Staatssecretaris van Financiën van 23 november 1994, nr. WV 94/508 M, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken Van de Vondervoort;
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=3) en [39 van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=39);
-
-De Raad van State gehoord (advies van 16 januari 1995, nr. W 06.94.0709);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 2 februari 1995, nr. WV 95/40U, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen, uitgebracht mede namens de Staatssecretaris van Binnenlandse Zaken Van de Vondervoort;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Definities
 
@@ -84,6 +52,10 @@ Hebben goedgevonden en verstaan:
 
 6. De Waarderingskamer stelt regels omtrent de verdeling over de gemeenten van de vergoeding voor het aandeel van de gemeenten in de kosten van de Waarderingskamer.
 
+##### Artikel 2a
+
+*Vervallen*
+
 ##### Artikel 3
 
 Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
@@ -104,7 +76,7 @@ Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://we
 
 ##### Artikel 4a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
@@ -116,7 +88,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. De kosten van de landelijke voorziening WOZ komen ten laste van de afnemers. Het Rijk betaalt 40 percent, de gemeenten 45 percent en de waterschappen 15 percent.
+1. De kosten van de landelijke voorziening WOZ komen ten laste van de afnemers. Het Rijk betaalt 40 percent, de gemeenten 45 percent en de waterschappen 15 percent.
 
 2. De Waarderingskamer draagt zorg voor de verrekening van de vergoeding van de kosten van de landelijke voorziening WOZ door de afnemers met de Dienst.
 
@@ -134,13 +106,13 @@ Vervallen
 
 ##### Artikel 7
 
-1. Ten behoeve van de heffing van belastingen door de afnemers worden door het college van burgemeester en wethouders ten minste de in de bijlage vermelde gegevens geregistreerd met betrekking tot:
+1. Ten behoeve van de heffing van belastingen door de afnemers worden door het college van burgemeester en wethouders ten minste de in de [bijlage](https://wetten.overheid.nl/BWBR0007230) vermelde gegevens geregistreerd met betrekking tot:
 
 - a. onroerende zaken die bij de waardebepaling op grond van de wet in aanmerking worden genomen;
 
 - b. onroerende zaken waarvan de waarde op grond van [artikel 121, derde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=121) bij de bepaling van de heffingsmaatstaf buiten aanmerking wordt gelaten.
 
-2. De authentieke gegevens uit andere basisregistraties die worden opgenomen in de basisregistratie WOZ, bedoeld in [artikel 37a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37a), zijn de in de bijlage genoemde gegevens met de codenummers 10.20, 11.10, 11.20, 11.30, 11.40, 11.70, 51.10, 51.20, 51.30, 51.40, 51.50, 41.20, 01.10, 02.30, 04.05, 03.10, 02.31, 02.41, 08.10 en 08.11.
+2. De authentieke gegevens uit andere basisregistraties die worden opgenomen in de basisregistratie WOZ, bedoeld in [artikel 37a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37a), zijn de in de [bijlage](https://wetten.overheid.nl/BWBR0007230) genoemde gegevens met de codenummers 10.20, 11.10, 11.20, 11.30, 11.40, 11.70, 51.10, 51.20, 51.30, 51.40, 51.50, 41.20, 01.10, 02.30, 04.05, 03.10, 02.31, 02.41, 08.10 en 08.11.
 
 ##### Artikel 8
 
@@ -160,7 +132,15 @@ Vervallen
 
 De specificaties voor de aanlevering van gegevens door het college van burgemeester en wethouders aan de Dienst worden door de Waarderingskamer vastgesteld in overleg met de afnemers en de Dienst en gepubliceerd door de Waarderingskamer.
 
-### Hoofdstuk 4. Overgangs- en slotbepalingen
+### Hoofdstuk 3a. Beheer landelijke voorziening WOZ
+
+##### Artikel 9a
+
+1. De Dienst beheert de landelijke voorziening WOZ in overleg met de afnemers.
+
+2. Het overleg met de afnemers vindt plaats in de Waarderingskamer.
+
+### Hoofdstuk 4. Gegevensverstrekking
 
 ##### Artikel 10
 
@@ -208,294 +188,12 @@ indien deze om het waardegegeven en de daarbij behorende temporele en meta-kenme
 
 3. Als derden als bedoeld in [artikel 40a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a), waaraan het waardegegeven en de daarbij behorende temporele en meta-kenmerken van een onroerende zaak die in hoofdzaak tot woning dient, kan worden verstrekt, worden mede aangewezen instellingen als bedoeld in [artikel 1, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1), indien deze om het waardegegeven en de daarbij behorende temporele en meta-kenmerken verzoeken ten behoeve van het verrichten van cliëntenonderzoek of melden van verrichte of voorgenomen ongebruikelijke transacties, bedoeld in [artikel 2a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2a).
 
+### Hoofdstuk 5. Overgangs- en slotbepalingen
+
 ##### Artikel 12
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 januari 1995.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1995.
 
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
-
-## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
-
-### Lijst met te registreren en aan de afnemers te verstrekken gegevens
-
-– Voor ieder WOZ-object:
-
-(01.01) uniek WOZ-objectnummer
-
-– Voor ieder WOZ-object:
-
-(01.01) uniek WOZ-objectnummer
-
-– Voor ieder WOZ-object:
-
-(01.01) uniek WOZ-objectnummer
-
-Unieke adressering voorzover noodzakelijk bestaande uit:
-
-(10.20) woonplaatsnaam
-
-(11.10) straatnaam
-
-(11.20) huisnummer
-
-(11.30) huisletter
-
-(11.40) huisnummertoevoeging
-
-(11.50) aanduiding bij huisnummer
-
-(11.60) postcode
-
-(11.70) lokatieomschrijving
-
-(12.20) gebruikscode
-
-(14.10) code gebouwd/ongebouwd
-
-(15.10) vastgestelde waarde
-
-(15.20) waardepeildatum
-
-(15.30) bijzondere-waarderingscode
-
-(15.40) aanduiding valutasoort
-
-(15.50) code blokkeren
-
-Indien het WOZ-object door middel van een sluimerend WOZ-object geen onderdeel gemaakt is van een complex (anders wordt dit gegeven geregistreerd en geleverd voor het sluimerend WOZ-object):
-
-(12.10) grondoppervlakte
-
-Indien het WOZ-object bij het gegeven «(14.10) code gebouwd/ongebouwd» is gemerkt als «gedeeltelijk gebouwd, gedeeltelijk ongebouwd»:
-
-(14.20) meegetaxeerde oppervlakte gebouwd
-
-(14.30) aandeel waarde gebouwd
-
-(81.10) mutatiecode
-
-(81.20) ingangsdatum
-
-(81.30) einddatum
-
-– Per WOZ-object dat door middel van een sluimerend WOZ-object geen onderdeel gemaakt is van een complex, voor ieder kadastraal object dat betrokken is bij dat WOZ-object (anders worden deze gegevens geregistreerd en geleverd voor het sluimerend WOZ-object):
-
-(01.01) uniek WOZ-objectnummer
-
-(51.10) kadastrale gemeentecode
-
-(51.20) sectie
-
-(51.30) perceelnummer
-
-(51.40) perceel-index-letter
-
-(51.50) perceel-index-nummer
-
-(52.10) toegekende oppervlakte
-
-Indien het WOZ-object bij het gegeven «(14.10) code gebouwd/ongebouwd» is gemerkt als «gedeeltelijk gebouwd, gedeeltelijk ongebouwd»:
-
-(52.20) meegetaxeerde oppervlakte gebouwd per kadastraal object
-
-(81.10) mutatiecode
-
-(81.20) ingangsdatum
-
-(81.30) einddatum
-
-– Voor ieder WOZ-object dat doorsneden wordt door een waterschapsgrens, per waterschap waarin het WOZ-object gelegen is:
-
-(01.01) uniek WOZ-objectnummer
-
-(15.10) vastgestelde waarde
-
-(71.10) code afnemer
-
-(81.10) mutatiecode
-
-(81.20) ingangsdatum
-
-(81.30) einddatum
-
-– Per WOZ-object voor ieder subject te wiens aanzien een beschikking is genomen met betrekking tot dat WOZ-object:
-
-(01.01) uniek WOZ-objectnummer
-
-(01.20) burgerservicenummer/een door een kamer toegekend uniek nummer als bedoeld in de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777)
-
-(01.21) aanvullend subjectnummer
-
-(41.10) aanduiding eigenaar/gebruiker
-
-(41.30) c.s.-code
-
-Indien subject een natuurlijk persoon is:
-
-(01.10) A-nummer natuurlijk persoon
-
-Indien subject de eigenaar is:
-
-(41.20) zakelijk-rechtcode
-
-(81.10) mutatiecode
-
-(81.20) ingangsdatum
-
-(81.30) einddatum
-
-– Voor ieder subject dat als belanghebbende een beschikking heeft ontvangen:
-
-(01.20) burgerservicenummer/een door een kamer toegekend uniek nummer als bedoeld in de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777)
-
-(01.21) aanvullend subjectnummer
-
-Indien subject een natuurlijk persoon is:
-
-(01.10) A-nummer natuurlijk persoon
-
-(02.11) voorletters
-
-(02.30) voorvoegsels
-
-(04.05) aanduiding naamgebruik
-
-(03.10) geboortedatum natuurlijk persoon
-
-Indien subject een niet-natuurlijk persoon is:
-
-(01.30) Handelsregisternummer
-
-(02.40) geslachtsnaam/statutaire naam
-
-Indien tenaamstelling bij natuurlijk persoon anders luidt dan de geslachtsnaam:
-
-(02.31) voorvoegsels behorend bij partnernaam
-
-(02.41) partnernaam/bedrijfsnaam verkort
-
-Indien tenaamstelling bij niet-natuurlijk persoon anders luidt dan de statutaire naam:
-
-(02.41) partnernaam/bedrijfsnaam verkort
-
-Indien natuurlijk persoon overleden is:
-
-(08.10) datum overlijden natuurlijk persoon
-
-(08.11) status subject
-
-(10.10) functie adres
-
-Volledig postadres van subject voorzover noodzakelijk bestaande uit:
-
-(11.10) straatnaam
-
-(11.20) huisnummer
-
-(11.30) huisletter
-
-(11.40) huisnummertoevoeging
-
-(11.50) aanduiding bij huisnummer
-
-(11.60) postcode
-
-(11.70) lokatieomschrijving
-
-(10.20) woonplaatsnaam
-
-(13.10) landnaam
-
-(81.10) mutatiecode
-
-(81.20) ingangsdatum
-
-(81.30) einddatum
-
-– Voor iedere genomen WOZ-beschikking en voor iedere wijziging van de status van een genomen beschikking:
-
-(01.01) uniek WOZ-objectnummer
-
-(01.10) A-nummer natuurlijk persoon
-
-(01.20) burgerservicenummer/een door een kamer toegekend uniek nummer als bedoeld in de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777)
-
-(01.21) aanvullend subjectnummer
-
-(15.20) waardepeildatum
-
-(22.10) code status beschikking
-
-(22.20) datum status
-
-(81.10) mutatiecode
-
-(81.20) ingangsdatum
-
-(81.30) einddatum
-
-– Voor iedere levering van gegevens aan een afnemer:
-
-(09.10) gemeentecode
-
-(09.11) gemeentenaam
-
-(71.10) code afnemer
-
-(91.10) contactpersoon
-
-(91.20) telefoonnummer contactpersoon
-
-(91.30) softwareleverancier
-
-(91.40) versie Stuf-WOZ
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 2a
-
-Vervallen
-
-### Hoofdstuk 3. Gegevensbeheer
-
-### Hoofdstuk 3a. Beheer landelijke voorziening WOZ
-
-## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
-
-### Lijst met te registreren en aan de afnemers te verstrekken gegevens
-
-(92.10) aanmaakdatum
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-### Hoofdstuk 5. Overgangs- en slotbepalingen
-
-## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
-
-### Lijst met te registreren en aan de afnemers te verstrekken gegevens
-
-(92.20) bijgewerkt tot en met maand
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 9a
-
-1. De Dienst beheert de landelijke voorziening WOZ in overleg met de afnemers.
-
-2. Het overleg met de afnemers vindt plaats in de Waarderingskamer.
-
-### Hoofdstuk 4. Gegevensverstrekking
-
-### Hoofdstuk 5. Overgangs- en slotbepalingen
-
-## Bijlage. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01) van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
-
-### Lijst met te registreren en aan de afnemers te verstrekken gegevens
-
-(92.30) datum vorige aanlevering
-
-(93.30) aard leveringsbestand
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

@@ -1,40 +1,17 @@
 ---
 title: "Faillissementskosten"
 identifier: "BWBR0007607"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1995-10-13"
-last_updated: "1995-10-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007607"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "8373843"
-version_id: "13246502"
-internal_id: "C18426211"
-label_id: "8354544"
-dtd_version: "2.0"
-original_entry_into_force: "1995-10-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007607/1995-10-13/0"
-intitule_bron: "Infob.1995-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-10-13"
-intitule_published: "1995-01-01"
-intitule_in_force: "1995-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1995-10"
-original_signed_date: "1995-10-13"
-original_published_date: "1995-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-10-13"
-jci_1_3: "jci1.3:c:BWBR0007607&z=1995-10-13&g=1995-10-13"
-jci_1_0: "1.0:c:BWBR0007607&g=1995-10-13"
-citeertitel_status: "redactioneel"
-signed_date: "1995-10-13"
-entry_into_force: "1995-10-13"
+publicatiedatum: 1995-10-13
+laatste_update: 1995-10-13
+status: geldig
+toestand: 1995-10-13
+bron: "https://wetten.overheid.nl/BWBR0007607"
+opgehaald: 2026-08-02
 ---
-# Faillissementskosten
 
-De plv. Directeur-Generaal der Belastingen heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Faillissementskosten
 
 Op 30 juni jl. heeft de Hoge Raad uitspraak gedaan in een zaak – waarin overigens de Belastingdienst geen partij was – waarin o.a. ter discussie stond welke kosten in aanmerking moeten worden genomen bij de omslag van de faillissementskosten (artikel 182 Faillissementswet (Fw)) jegens een hypotheekhouder die geen gebruik heeft gemaakt van zijn recht om op grond van artikel 57, eerste lid, Fw zelf over te gaan tot executie van (in casu) het verhypothekeerde erfpachtsrecht (HR 30 juni 1995, RvdW 1995, 148). De beschikking die de Hoge Raad in deze zaak heeft gegeven, is ook voor de invordering van belastingen van belang.
 

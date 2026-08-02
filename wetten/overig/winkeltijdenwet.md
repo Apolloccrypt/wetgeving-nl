@@ -1,47 +1,18 @@
 ---
 title: "Wet van 21 maart 1996, houdende vaststelling van ruimere regels met betrekking tot de openingstijden van winkels"
+citeertitel: "Winkeltijdenwet"
 identifier: "BWBR0007952"
-country: "nl"
-rank: "wet"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007952"
+categorie: "Overig"
 soort: "wet"
-stam_id: "28863"
-version_id: "27923602"
-internal_id: "C39617981"
-label_id: "29084"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007952/2022-01-01/0"
-intitule_bron: "Stb.1996-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-03-21"
-intitule_published: "1996-03-28"
-intitule_in_force: "1996-04-11"
-intitule_status: "goed"
-original_publication: "Stb.2021-376"
-original_signed_date: "2021-07-14"
-original_published_date: "2021-07-22"
-original_effect: "structuurwijziging"
-original_dossier: "35522"
-original_url_id: "stb-2021-376"
-entry_into_force_date: "2022-01-01"
-jci_1_3: "jci1.3:c:BWBR0007952&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0007952&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Winkeltijdenwet"
-signed_date: "2021-07-14"
-entry_into_force: "2022-01-01"
+publicatiedatum: 2022-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0007952"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 21 maart 1996, houdende vaststelling van ruimere regels met betrekking tot de openingstijden van winkels
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met maatschappelijke ontwikkelingen en met de behoefte aan vermindering en vereenvoudiging van regels wenselijk is de Winkelsluitingswet 1976 te vervangen door ruimere regels met betrekking tot de openingstijden van winkels en de tijden waarop goederen, anders dan in een winkel, bedrijfsmatig aan particulieren mogen worden te koop aangeboden of verkocht;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -75,11 +46,11 @@ winkel: een voor het publiek toegankelijke besloten ruimte, waarin goederen aan 
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -89,7 +60,7 @@ Vervallen
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -119,7 +90,7 @@ De Winkelsluitingswet 1976 wordt ingetrokken.
 
 ##### Artikel 12
 
-Wijzigt de Wet op economische delicten
+*Wijzigt de Wet op economische delicten*
 
 ##### Artikel 13
 
@@ -128,5 +99,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 14
 
 Deze wet wordt aangehaald als: Winkeltijdenwet.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

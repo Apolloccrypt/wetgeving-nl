@@ -1,60 +1,43 @@
 ---
 title: "Nevenfunctie-circulaire 1995"
 identifier: "BWBR0007269"
-country: "nl"
-rank: "circulaire"
-publication_date: "1995-03-16"
-last_updated: "1995-03-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007269"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6410983"
-version_id: "11077852"
-internal_id: "C14993511"
-label_id: "6400004"
-original_entry_into_force: "1995-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007269/1995-03-16/0"
-intitule_bron: "Stcrt.1995-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-03-02"
-intitule_published: "1995-03-16"
-intitule_in_force: "1995-03-16"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-54"
-original_signed_date: "1995-03-02"
-original_published_date: "1995-03-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1995-54-p12-SC2166"
-entry_into_force_date: "1995-03-16"
-jci_1_3: "jci1.3:c:BWBR0007269&z=1995-03-16&g=1995-03-16"
-jci_1_0: "1.0:c:BWBR0007269&g=1995-03-16"
-citeertitel_status: "redactioneel"
-signed_date: "1995-03-02"
-entry_into_force: "1995-03-16"
+publicatiedatum: 1995-03-16
+laatste_update: 1995-03-16
+status: geldig
+toestand: 1995-03-16
+bron: "https://wetten.overheid.nl/BWBR0007269"
+opgehaald: 2026-08-02
 ---
+
 # Nevenfunctie-circulaire 1995
 
 ### 1. Inleiding
 
 In verband met de naderende verkiezingen van de provinciale staten op 8 maart a.s. informeer ik u hierbij over het beleid ten aanzien van de melding, openbaarmaking en vergoeding voor werkzaamheden in het kader van nevenfuncties door commissarissen van de Koningin, gedeputeerden en statenleden.
 
-In de [brief van 18 februari 1994](onbekend) (nr. BW94/U336-BK94/479) van de toenmalige staatssecretaris van Binnenlandse Zaken is deze circulaire U reeds toegezegd. De noodzaak voor deze circulaire is gelegen in het feit dat een aantal nieuwe artikelen ter zake in de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) per 1 januari 1994 is opgenomen en anderzijds uit het vervallen per medio 1992 van de [circulaire van 25 juli 1988](onbekend) (B88/U524) met betrekking tot melding en openbaarmaking van nevenfuncties van personen die een openbaar ambt vervullen. Hierdoor kan bij bestuurders onduidelijkheid ontstaan over hoe ten aanzien van nevenfuncties gehandeld dient te worden.
+In de brief van 18 februari 1994 (nr. BW94/U336-BK94/479) van de toenmalige staatssecretaris van Binnenlandse Zaken is deze circulaire U reeds toegezegd. De noodzaak voor deze circulaire is gelegen in het feit dat een aantal nieuwe artikelen ter zake in de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) per 1 januari 1994 is opgenomen en anderzijds uit het vervallen per medio 1992 van de circulaire van 25 juli 1988 (B88/U524) met betrekking tot melding en openbaarmaking van nevenfuncties van personen die een openbaar ambt vervullen. Hierdoor kan bij bestuurders onduidelijkheid ontstaan over hoe ten aanzien van nevenfuncties gehandeld dient te worden.
 
-De tekst van de circulaire is zowel gebaseerd op de [circulaire van 18 februari 1994](onbekend) die aan de gemeenten is gezonden, als op praktijkvoorbeelden, zoals deze zich hebben voorgedaan in gemeenten sinds de gemeenteraadsverkiezingen van vorig jaar.
+De tekst van de circulaire is zowel gebaseerd op de circulaire van 18 februari 1994 die aan de gemeenten is gezonden, als op praktijkvoorbeelden, zoals deze zich hebben voorgedaan in gemeenten sinds de gemeenteraadsverkiezingen van vorig jaar.
 
 De circulaire is als volgt opgebouwd.
 
-In paragraaf 2 worden de bepalingen uit de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) ten aanzien van de melding, openbaarmaking en vergoeding voor werkzaamheden van nevenfuncties vermeld, alsmede de bepalingen ter zake uit de [Wet gemeenschap- pelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) (Wgr).
+In [paragraaf 2](https://wetten.overheid.nl/BWBR0007269) worden de bepalingen uit de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) ten aanzien van de melding, openbaarmaking en vergoeding voor werkzaamheden van nevenfuncties vermeld, alsmede de bepalingen ter zake uit de [Wet gemeenschap- pelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) (Wgr).
 
-In paragraaf 3 ga ik in op het vervullen van nevenfuncties door bestuurders. Voor zover er ten aanzien van de commissaris van de Koningin, de gedeputeerden en de statenleden gemeenschappelijke, overeenkomstige bepalingen gelden, worden die in algemene, samenvattende zin behandeld. In onderdeel 2 van paragraaf 3 wordt nader ingegaan op de melding en de openbaarmaking van deze functies. In onderdeel 3 wordt aandacht besteed aan de reikwijdte van het begrip nevenfuncties die uit hoofde van het ambt worden vervuld, de zgn. qualitate-qua nevenfuncties (verder aangeduid als q.q.-nevenfuncties). De onderdelen 4 en 5 van paragraaf 3 gaan in op de bepalingen die van toepassing zijn op het al dan niet kunnen behouden van vergoedingen voor nevenfuncties en op de werking van [artikel 21 Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21). De fiscale aspecten en het tijdstip van inwerkingtreding van de stortingsplicht van commissarissen van de Koningin en gedeputeerden komen in de onderdelen 6 en 7 van paragraaf 3 aan de orde.
+In [paragraaf 3](https://wetten.overheid.nl/BWBR0007269) ga ik in op het vervullen van nevenfuncties door bestuurders. Voor zover er ten aanzien van de commissaris van de Koningin, de gedeputeerden en de statenleden gemeenschappelijke, overeenkomstige bepalingen gelden, worden die in algemene, samenvattende zin behandeld. In [onderdeel 2 van paragraaf 3](https://wetten.overheid.nl/BWBR0007269) wordt nader ingegaan op de melding en de openbaarmaking van deze functies. In [onderdeel 3](https://wetten.overheid.nl/BWBR0007269) wordt aandacht besteed aan de reikwijdte van het begrip nevenfuncties die uit hoofde van het ambt worden vervuld, de zgn. qualitate-qua nevenfuncties (verder aangeduid als q.q.-nevenfuncties). De [onderdelen 4](https://wetten.overheid.nl/BWBR0007269) en [5 van paragraaf 3](https://wetten.overheid.nl/BWBR0007269) gaan in op de bepalingen die van toepassing zijn op het al dan niet kunnen behouden van vergoedingen voor nevenfuncties en op de werking van [artikel 21 Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21). De fiscale aspecten en het tijdstip van inwerkingtreding van de stortingsplicht van commissarissen van de Koningin en gedeputeerden komen in de [onderdelen 6](https://wetten.overheid.nl/BWBR0007269) en [7 van paragraaf 3](https://wetten.overheid.nl/BWBR0007269) aan de orde.
 
 ### 2. Wettelijke bepalingen
 
-### 2.1. [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645)
+### 2.1. Provinciewet
 
 ### Statenleden (en gedeputeerden)
 
 [Artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=11)
+
+- 1. De leden van provinciale staten maken openbaar welke andere functies dan het lidmaatschap van provinciale staten zij vervullen.
+
+- 2. Openbaarmaking geschiedt door terinzagelegging van een opgave van de in het eerste lid bedoelde functies op het provinciehuis.
 
 ### Gedeputeerden
 
@@ -70,11 +53,17 @@ In paragraaf 3 ga ik in op het vervullen van nevenfuncties door bestuurders. Voo
 
 [Artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=66)
 
+- 1. De commissaris vervult geen nevenfuncties waarvan de uitoefening ongewenst is met het oog op de goede vervulling van het ambt van commissaris of op de handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
+
+- 2. De commissaris meldt zijn voornemen tot aanvaarding van een nevenfunctie, anders dan uit hoofde van het ambt van commissaris, aan provinciale staten.
+
+- 3. De commissaris maakt openbaar welke nevenfuncties hij, anders dan uit hoofde van het ambt van commissaris vervult.
+
 [Artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=284)
 
 [Artikel 43, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=43), en [artikel 65, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=65), treden in werking op de dag van het eerste periodieke aftreden van de leden van gedeputeerde staten na de inwerkingtreding van deze wet.
 
-### 2.2. [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) (Wgr)
+### 2.2. Wet gemeenschappelijke regelingen (Wgr)
 
 [Artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21)
 
@@ -88,7 +77,11 @@ De [artikelen 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&ar
 
 Voor de goede orde wijs ik erop dat met nevenfuncties vooral wordt gedoeld op functies van degenen voor wie het ambt van commissaris of gedeputeerde een hoofdfunctie is. In het geval van statenleden ligt dat anders. Bij hen is het statenlidmaatschap veelal een functie 'erbij', naast een hoofdfunctie die elders wordt vervuld. Het hierna volgende is vooral toegespitst op de bestuurders, de commissaris en de gedeputeerden. Dat neemt echter niet weg dat de strekking ervan waar mogelijk van overeenkomstige toepassing is op statenleden.
 
-De vervulling van nevenfuncties is uit maatschappelijk, bestuurlijk en ook persoonlijk oogpunt positief te waarderen. Nevenfuncties kunnen bijdragen tot een betere vervulling van het ambt van commissaris en van gedeputeerde. Deze gedachte ligt mede ten grondslag aan de in paragraaf 2 weergegeven bepalingen van de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) en de [Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740). Van een verbod op het vervullen van nevenfuncties is in deze wetten dan ook geen sprake. Het aanvaarden van nevenfuncties, in het bijzonder nevenfuncties buiten de publieke sfeer, vindt echter haar grens waar dit afbreuk zou kunnen doen aan het aanzien van een publiek ambt en aan een optimaal functioneren van degene die het publieke ambt vervult. Een goede functievervulling en handhaving van onpartijdigheid en onafhankelijkheid dienen bepalend te zijn bij de beslissing of een nevenfunctie aanvaard wordt. In algemene zin zijn bij het aanvaarden van nevenfuncties twee afwegingen van belang:
+De vervulling van nevenfuncties is uit maatschappelijk, bestuurlijk en ook persoonlijk oogpunt positief te waarderen. Nevenfuncties kunnen bijdragen tot een betere vervulling van het ambt van commissaris en van gedeputeerde. Deze gedachte ligt mede ten grondslag aan de in [paragraaf 2](https://wetten.overheid.nl/BWBR0007269) weergegeven bepalingen van de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) en de [Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740). Van een verbod op het vervullen van nevenfuncties is in deze wetten dan ook geen sprake. Het aanvaarden van nevenfuncties, in het bijzonder nevenfuncties buiten de publieke sfeer, vindt echter haar grens waar dit afbreuk zou kunnen doen aan het aanzien van een publiek ambt en aan een optimaal functioneren van degene die het publieke ambt vervult. Een goede functievervulling en handhaving van onpartijdigheid en onafhankelijkheid dienen bepalend te zijn bij de beslissing of een nevenfunctie aanvaard wordt. In algemene zin zijn bij het aanvaarden van nevenfuncties twee afwegingen van belang:
+
+- – er mag geen verstrengeling van belangen optreden tussen het ambt en de nevenfunctie;
+
+- – de nevenfunctie mag niet leiden tot een zodanig tijdbeslag dat daardoor het functioneren als commissaris en als gedeputeerde in het gedrang komt.
 
 Dit vereist op de eerste plaats een zorgvuldige beoordeling door degene die de nevenfunctie wil gaan vervullen, juist ook wegens de voorbeeldfunctie van bestuurders. Maar niet alleen de eigen afweging is hierbij voldoende.
 
@@ -104,7 +97,7 @@ De ratio achter de verplichting tot openbaarmaking is dat het hierdoor mogelijk 
 
 ### Commissarissen van de Koningin –
 
-Het voorkomen van de schijn van belangenverstrengeling door degene die het ambt van commissaris vervult is de reden geweest om in [artikel 66 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=66) op te nemen, dat het voornemen van aanvaarding van een niet-ambtshalve nevenfunctie door de commissaris in de betrokken provincie bekend dient te zijn. Met een melding aan provinciale staten wordt daarin voorzien. Publiekelijk moet kunnen worden beoordeeld of de nevenfunctie al dan niet tot strijdigheid van belangen aanleiding kan geven. Ten aanzien van de nevenfuncties die de commissaris vervult uit hoofde van zijn ambt (de zgn. q.q.-nevenfuncties, zie paragraaf 3.3.), is er geen meldingsplicht, omdat provinciale staten voor dit soort functies de commissaris aanwijzen als vertegenwoordiger van de provincie of omdat provinciale staten uit andere hoofde reeds over deze functies zijn geïnformeerd.
+Het voorkomen van de schijn van belangenverstrengeling door degene die het ambt van commissaris vervult is de reden geweest om in [artikel 66 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=66) op te nemen, dat het voornemen van aanvaarding van een niet-ambtshalve nevenfunctie door de commissaris in de betrokken provincie bekend dient te zijn. Met een melding aan provinciale staten wordt daarin voorzien. Publiekelijk moet kunnen worden beoordeeld of de nevenfunctie al dan niet tot strijdigheid van belangen aanleiding kan geven. Ten aanzien van de nevenfuncties die de commissaris vervult uit hoofde van zijn ambt (de zgn. q.q.-nevenfuncties, zie [paragraaf 3.3.](https://wetten.overheid.nl/BWBR0007269)), is er geen meldingsplicht, omdat provinciale staten voor dit soort functies de commissaris aanwijzen als vertegenwoordiger van de provincie of omdat provinciale staten uit andere hoofde reeds over deze functies zijn geïnformeerd.
 
 De tekst van [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=66), noopt strikt genomen niet tot openbaarmaking van alle nevenfuncties. Niettemin lijkt bestendiging en, waar nodig, uitbreiding van de praktijk dat commissarissen jaarlijks een overzicht publiceren in het provinciaal publicatieblad van al hun nevenfuncties, met daarbij de vermelding van het tijdsbeslag en de aanduiding 'bezoldigd/niet bezoldigd', mij een juiste lijn. Daarnaast blijft het gewenst dat een actuele lijst van nevenfuncties ter inzage wordt gelegd in het provinciehuis opdat een ieder deze kan raadplegen.
 
@@ -124,6 +117,10 @@ Bij de parlementaire behandeling van het gelijkluidende artikel in de [Gemeentew
 
 Op grond van het bovenstaande zijn de volgende criteria van belang om te bepalen of een bepaalde nevenfunctie een q.q.-nevenfunctie is:
 
+- – er is een aantoonbaar belang voor de provincie dat de nevenfunctie door een provinciebestuurder wordt vervuld. De gedeputeerde of de commissaris bekleedt de nevenfunctie in dat geval uit hoofde van zijn ambt. Er dient m.a.w. sprake te zijn van een directe of indirecte vorm van behartiging van de belangen van de provincie;
+
+- – de nevenfunctie is gekoppeld aan de inhoud en de duur van het ambt, m.a.w. de nevenfunctie moet worden neergelegd bij de beëindiging van het ambt van gedeputeerde of commissaris. Of dit het geval is zal in laatste instantie uit de feitelijke context moeten blijken; wat statuten of de oprichtingsakte van (nuts)bedrijven, stichtingen en instellingen hierover zeggen is niet alleen maatgevend. Ook al stellen de statuten of de oprichtingsakte geen eisen, maar blijkt in de praktijk dat commissariaten of bestuursfuncties van een (nuts)bedrijf, stichting of instelling worden vervuld door bijvoorbeeld gedeputeerden van een (deelnemende) provincie(s)1Met 'deelnemende provincies' wordt het volgende bedoeld:bij (nuts)bedrijven, stichtingen en instellingen opgericht bij of voortvloeiend uit een gemeenschappelijke regeling: de provincies die de regeling hebben ingesteld of naderhand zijn toegetreden;bij de overige (nuts)bedrijven: de provincies of het verband van provincies die door middel van een meerderheid van aandelen deelnemen in het bedrijf;bij de overige stichtingen en instellingen: de provincies die zijn gelegen binnen het verzorgingsgebied en de stichting of instelling., dan is in die gevallen sprake van een q.q.-nevenfunctie.
+
 Aan de hand van een of beide van deze criteria zal in verreweg de meeste gevallen uitsluitsel kunnen worden gegeven over de vraag of van een q.q.-nevenfunctie sprake is. Ik ben mij ervan bewust dat zich in de praktijk situaties kunnen voordoen waarin ook deze criteria niet tot volstrekte duidelijkheid leiden. In die gevallen acht ik het gewenst dat wordt overlegd met provinciale staten of met een commissie uit provinciale staten, om tot een afgewogen oordeel te komen dat recht doet aan de bedoeling van de wetgever. Met het oog daarop kan tevens advies worden ingewonnen bij het ministerie van Binnenlandse Zaken2In de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0007269&bijlage=I&z=1995-03-16&g=1995-03-16) zijn voorbeelden van q.q.-nevenfuncties en niet-q.q.-nevenfuncties opgenomen. Die zijn mede gebaseerd op vragen die aan Binnenlandse Zaken zijn voorgelegd. .
 
 Wellicht ten overvloede wordt vermeld dat voor gedeputeerden geen ontheffingsmogelijkheid bestaat, zoals wel is geregeld voor wethouders van gemeenten onder de 18.000 inwoners in [artikel 44, vijfde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=44). Dit vijfde lid is tijdens de parlementaire behandeling bij nota van wijziging ingevoerd (Kamerstukken II 1988/89, 19403, nr. 11, p. 2) om tegemoet te komen aan de suggestie van de VVD om voor de deeltijd-wethouders in de gemeenten onder de full-timegrens een ontheffingsmogelijkheid in te voeren (Kamerstukken II, 1988/89, 19403, nr. 10, p. 154). Dit hangt samen met het feit dat in gemeenten onder de 18.000 inwoners het wethouderschap een tijdsbestedingsnorm kent van minder dan 100%, en sommige q.q.-nevenfuncties in de zgn. eigen tijd moeten worden verricht. Op basis van [artikel 36 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=36) en [artikel 35 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=35) kunnen deeltijd-wethouders en deeltijd-gedeputeerden worden benoemd. De ontheffingsmogelijkheid is op deze deeltijd-wethouder en deeltijd-gedeputeerde niet van toepassing.
@@ -136,7 +133,15 @@ Indien sprake is van een q.q.-nevenfunctie dient de eventuele vergoeding voor de
 
 Bovenstaande verplichtingen kunnen in het kort als volgt worden samengevat:
 
-### 3.5. [Artikel 21 Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21) en andere artikelen
+- *Statenleden –* Statenleden zijn verplicht tot het openbaarmaken van alle nevenfuncties naast het statenlidmaatschap. (Zie [paragraaf 3.2.](https://wetten.overheid.nl/BWBR0007269))
+
+- *Gedeputeerden –* Gedeputeerden zijn verplicht tot het openbaarmaken van alle nevenfuncties naast het statenlidmaatschap. Zij zijn tevens verplicht de inkomsten uit q.q.-nevenfuncties te storten in de provinciale kas. (Zie [paragafen 3.2 – 3.4.](https://wetten.overheid.nl/BWBR0007269))
+
+- *Commissaris van de Koningin –* De commissaris van de Koningin is verplicht tot het openbaar maken van alle nevenfuncties welke hij vervult, anders dan uit hoofde van zijn ambt.
+
+- De commissaris is verplicht zijn voornemen tot aanvaarding van een nevenfunctie, anders dan uit hoofde van zijn ambt, te melden aan provinciale staten. De commissaris is verplicht de inkomsten uit q.q.-nevenfuncties te storten in de provinciale kas. (Zie [paragrafen 3.2 – 3.4.](https://wetten.overheid.nl/BWBR0007269))
+
+### 3.5. Artikel 21 Wgr en andere artikelen
 
 In de[Wet van 21 april 1994 houdende wijziging van de Wet gemeenschappelijke regelingen in verband met aanpassing en uitbreiding van de bepalingen inzake verplichte samenwerking](https://wetten.overheid.nl/jci1.3:c:BWBR0006621) (Stb. 1994, 399) is [artikel 21 Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21) gewijzigd. Deze wijziging is op 1 juli 1994 in werking getreden en houdt in dat leden van het algemeen of dagelijks bestuur van een openbaar lichaam of gemeenschappelijk orgaan, voor zover zij de functie van wethouder, burgemeester of secretaris vervullen, geen vergoedingen voor hun werkzaamheden mogen ontvangen. Door de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=41), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=52), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=74)[84](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=84) en [98 van de Wgr](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=98) is [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21) ook van toepassing verklaard op samenwerkingsverbanden waarbij de provincies zijn betrokken. Op grond hiervan mogen leden van het algemeen of dagelijks bestuur van een dergelijk openbaar lichaam of gemeenschappelijk orgaan, voor zover zij de functie van gedeputeerde, commissaris van de Koningin of griffier vervullen, geen vergoedingen voor hun werkzaamheden ontvangen.
 
@@ -149,33 +154,3 @@ De vergoeding voor werkzaamheden verricht in q.q.-nevenfuncties naast het ambt v
 De stortingsplicht van zowel commissarissen als gedeputeerden treedt in werking op de dag van het eerste periodieke aftreden van de gedeputeerden na de inwerkingtreding van de Provinciewet, te weten 18 april 1995. De reden dat deze bepaling niet bij inwerkingtreding van de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) van kracht is geworden ligt in het feit dat bij de voorbereiding van de collegevorming onder meer over de verdeling van q.q.-nevenfuncties gesproken zal worden en bepaald zal worden welke provinciebestuurder namens de provincie zal worden afgevaardigd. In de portefeuille van de commissaris en de eventueel terugkerende gedeputeerden zullen dan wijzigingen plaatsvinden. Het is daarom logisch pas dan de nieuwe financiële situatie voor de q.q.-nevenfuncties in werking te laten treden.
 
 Ik hoop u hiermee voldoende te hebben geïnformeerd.
-
-## Bijlage I
-
-### Voorbeelden van q.q.-nevenfuncties
-
-### Voorbeelden van niet-q.q.-nevenfuncties
-
-### Vergoedingen voor werkzaamheden uit q.q.-nevenfuncties die wel in de provinciale kas moeten worden gestort
-
-Dit zijn vergoedingen in geld of in natura voor een q.q.-nevenfunctie die een beloningselement bevatten en derhalve door de Belastingdienst worden beschouwd als fiscaal inkomen.
-
-Voorbeelden van vergoedingen in natura zijn:
-
-Een voor het verrichten van werkzaamheden ontvangen beloning in natura wordt voor de belastingheffing als inkomen beschouwd. Het bedrag daarvan wordt door middel van waardering van de concrete situatie bepaald. Indien voor werkzaamheden verricht in een q.q.-nevenfunctie bijvoorbeeld een vergoeding wordt verstrekt in de vorm van een reis naar het buitenland (waarvan de kostprijs f 9.000,– bedraagt) en de Belastingdienst neemt ter zake een bedrag van f 6.000,– als inkomen in aanmerking, dan dient de commissaris of de gedeputeerde een bedrag van f 6000,– in de provinciale kas te storten.
-
-N.B. Indien een commissaris of gedeputeerde vóór het aanvaarden van een vergoeding in natura zekerheid wilt hebben over de belastbaarheid van deze vergoeding, dan kan te allen tijde contact worden opgenomen met de Belastingdienst.
-
-Voor alle duidelijkheid wijs ik er nog op dat vergoedingen die worden verstrekt ten behoeve van de uitoefening van de hoofdfunctie, buiten het bereik van deze circulaire vallen.
-
-### Vergoedingen van onkosten uit q.q.-nevenfuncties die niet in de provinciale kas hoeven te worden gestort
-
-Dit zijn vergoedingen van kosten die door de Belastingdienst als belastingvrije kostenvergoeding kunnen worden aangemerkt.
-
-Voorbeelden van kostenvergoedingen die als zodanig in aanmerking kunnen komen:
-
-### Informatie
-
-Inlichtingen over nevenfuncties van commissarissen van de Koningin kunnen worden verkregen: van 9.30 – 12.00 uur op dinsdag t/m vrijdag bij mw. drs. J.M.D. Munnichs-Van der Krabben, tel. 070-3026159 en mw. drs. M.J.H. Derks, tel. 070-3027143.
-
-Inlichtingen over nevenfuncties van gedeputeerden en statenleden kunnen worden verkregen: van 9.00 – 11.00 uur bij mw. mr. A.M.F. Loof-Donker, tel. 070-3026252 en van 15.00 – 17.00 uur bij mw. mr. R.M.W.A. van Vroonhoven, tel. 070-3026574.

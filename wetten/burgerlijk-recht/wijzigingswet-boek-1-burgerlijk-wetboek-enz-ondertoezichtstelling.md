@@ -1,79 +1,50 @@
 ---
 title: "Wet van 26 april 1995, tot herziening van de maatregel van ondertoezichtstelling van minderjarigen (artikelen 254 en volgende van Boek 1 van het Burgerlijk Wetboek)"
+citeertitel: "Wijzigingswet Boek 1 Burgerlijk Wetboek, enz. (ondertoezichtstelling)"
 identifier: "BWBR0007365"
-country: "nl"
-rank: "wet"
-publication_date: "1995-11-01"
-last_updated: "1995-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007365"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "492963"
-version_id: "730922"
-internal_id: "C730921"
-label_id: "479244"
-dtd_version: "2.0"
-original_entry_into_force: "1995-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007365/1995-11-01/0"
-intitule_bron: "Stb.1995-255"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-04-26"
-intitule_published: "1995-05-16"
-intitule_in_force: "1995-10-19"
-intitule_status: "goed"
-original_publication: "Stb.1995-255"
-original_signed_date: "1995-04-26"
-original_published_date: "1995-05-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "23003"
-original_url_id: "stb-1995-255"
-entry_into_force_date: "1995-11-01"
-jci_1_3: "jci1.3:c:BWBR0007365&z=1995-11-01&g=1995-11-01"
-jci_1_0: "1.0:c:BWBR0007365&g=1995-11-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Boek 1 Burgerlijk Wetboek, enz. (ondertoezichtstelling)"
-signed_date: "1995-04-26"
-entry_into_force: "1995-11-01"
+publicatiedatum: 1995-11-01
+laatste_update: 1995-11-01
+status: geldig
+toestand: 1995-11-01
+bron: "https://wetten.overheid.nl/BWBR0007365"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 26 april 1995, tot herziening van de maatregel van ondertoezichtstelling van minderjarigen (artikelen 254 en volgende van Boek 1 van het Burgerlijk Wetboek)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de maatregel van ondertoezichtstelling van kinderen, in het bijzonder ten aanzien van de bevoegdheden van de kinderrechter, de gezinsvoogd en de gezinsvoogdij-instelling, herziening behoeft;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
-Vervallen
+*Vervallen*
 
 ##### Artikel IV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel V
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VIII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IX
 
@@ -105,6 +76,4 @@ Een voor de inwerkingtreding van de wet door de kinderrechter bevolen opneming i
 
 ##### Artikel XV
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, behoudens [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0007365&artikel=XI&z=1995-11-01&g=1995-11-01) dat in werking treedt op de dag na plaatsing van deze wet in het **Staatsblad**.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, behoudens [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0007365&artikel=XI&z=1995-11-01&g=1995-11-01) dat in werking treedt op de dag na plaatsing van deze wet in het *Staatsblad*.

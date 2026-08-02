@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0004627"
-opgehaald: 2026-07-31
+opgehaald: 2026-08-02
 ---
 
 # Wet van 28 september 1989, houdende nieuwe bepalingen inzake het kiesrecht en de verkiezingen
@@ -52,7 +52,7 @@ Er is een Kiesraad, gevestigd te 's-Gravenhage.
 
 2. De taak, bedoeld in het eerste lid, onderdeel a, wordt door de voorzitter, de daartoe aangewezen leden en de buitengewone leden van de Kiesraad uitgeoefend.
 
-3. Indien het een verkiezing betreft als bedoeld in het eerste lid, onderdeel a, worden de taken en bevoegdheden, bedoeld in de artikelen A 12, A 13, Ea 10, Ea 11 en Ea 12 uitgeoefend door een ondervoorzitter en daartoe aangewezen leden van de Kiesraad die niet tevens belast zijn met de uitoefening van de taak, bedoeld in het eerste lid, onderdeel a.
+3. Indien het een verkiezing betreft als bedoeld in het eerste lid, onderdeel a, worden de taken en bevoegdheden, bedoeld in de [artikelen A 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=I&hoofdstuk=A&paragraaf=3&artikel=A_12&z=2026-01-01&g=2026-01-01), [A 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=I&hoofdstuk=A&paragraaf=3&artikel=A_13&z=2026-01-01&g=2026-01-01), [Ea 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=Ea&artikel=Ea_10&z=2026-01-01&g=2026-01-01), [Ea 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=Ea&artikel=Ea_11&z=2026-01-01&g=2026-01-01) en [Ea 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=Ea&artikel=Ea_12&z=2026-01-01&g=2026-01-01) uitgeoefend door een ondervoorzitter en daartoe aangewezen leden van de Kiesraad die niet tevens belast zijn met de uitoefening van de taak, bedoeld in het eerste lid, onderdeel a.
 
 ##### Artikel A 4
 
@@ -62,9 +62,9 @@ De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:B
 
 1. De Kiesraad bestaat uit een voorzitter, zes andere leden en twee buitengewone leden. De Kiesraad kan uit de leden ondervoorzitters aanwijzen.
 
-2. De buitengewone leden oefenen alleen de taak van de Kiesraad, bedoeld in artikel A 3, eerste lid, onderdeel a, uit. Zij worden niet als ondervoorzitter aangewezen.
+2. De buitengewone leden oefenen alleen de taak van de Kiesraad, bedoeld in [artikel A 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=I&hoofdstuk=A&paragraaf=2&artikel=A_3&z=2026-01-01&g=2026-01-01), uit. Zij worden niet als ondervoorzitter aangewezen.
 
-3. Artikel 11 van de Kaderwet adviescolleges is van toepassing op de Kiesraad.
+3. [Artikel 11 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=11) is van toepassing op de Kiesraad.
 
 4. De leden en de buitengewone leden van de Kiesraad worden benoemd op grond van hun deskundigheid op het gebied van het kiesrecht en de verkiezingen. [Artikel 12, derde lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=12) is van toepassing.
 
@@ -72,13 +72,13 @@ De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel A 6
 
-1. Artikel 16 van de Kaderwet adviescolleges is van toepassing op de Kiesraad.
+1. [Artikel 16 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=16) is van toepassing op de Kiesraad.
 
 2. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=21) en [29 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=29) zijn niet van toepassing op de Kiesraad.
 
 ##### Artikel A 7
 
-De Kiesraad stelt een bestuursreglement vast en maakt het reglement na de goedkeuring, bedoeld in artikel 11 van de Kaderwet zelfstandige bestuursorganen, bekend in de Staatscourant.
+De Kiesraad stelt een bestuursreglement vast en maakt het reglement na de goedkeuring, bedoeld in [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11), bekend in de Staatscourant.
 
 ##### Artikel A 8
 
@@ -86,13 +86,13 @@ De Kiesraad stelt een bestuursreglement vast en maakt het reglement na de goedke
 
 2. De secretaris en de medewerkers van het bureau zijn geen lid van de Kiesraad.
 
-3. In afwijking van artikel 4.6, eerste lid, van de Comptabiliteitswet 2016 vertegenwoordigt de voorzitter van de Kiesraad de Staat bij het sluiten, wijzigen en beëindigen van individuele arbeidsovereenkomsten met de secretaris en de medewerkers van de Kiesraad.
+3. In afwijking van [artikel 4.6, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.6) vertegenwoordigt de voorzitter van de Kiesraad de Staat bij het sluiten, wijzigen en beëindigen van individuele arbeidsovereenkomsten met de secretaris en de medewerkers van de Kiesraad.
 
 ##### Artikel A 9
 
-1. De Kiesraad kan personen aanwijzen die namens hem uitvoering geven aan de taak, bedoeld in artikel A 11, eerste lid.
+1. De Kiesraad kan personen aanwijzen die namens hem uitvoering geven aan de taak, bedoeld in [artikel A 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=I&hoofdstuk=A&paragraaf=3&artikel=A_11&z=2026-01-01&g=2026-01-01).
 
-2. De personen, bedoeld in het eerste lid, zijn geen lid van de Kiesraad of een persoon die een functie vervult in het verkiezingsproces die onverenigbaar is met de taak, bedoeld in artikel A 11, eerste lid, en kunnen worden aangewezen, indien zij:
+2. De personen, bedoeld in het eerste lid, zijn geen lid van de Kiesraad of een persoon die een functie vervult in het verkiezingsproces die onverenigbaar is met de taak, bedoeld in [artikel A 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=I&hoofdstuk=A&paragraaf=3&artikel=A_11&z=2026-01-01&g=2026-01-01), en kunnen worden aangewezen, indien zij:
 
 - a. op de dag van de stemming de leeftijd van achttien jaar hebben bereikt;
 
@@ -118,7 +118,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Ter bevordering van de kwaliteit van het verkiezingsproces ondersteunt de Kiesraad de burgemeester, burgemeester en wethouders, het dagelijks bestuur en een stembureau bij de uitvoering van de taken die op grond van deze wet aldaar zijn belegd.
 
-2. De Kiesraad stelt, na overleg met een instantie die representatief kan worden geacht voor de colleges van burgemeester en wethouders, een instantie die representatief kan worden geacht voor de dagelijkse besturen, dan wel de openbare lichamen, bedoeld in artikel Ya 2, onderdeel a, een plan op voor de wijze waarop de Kiesraad met de burgemeester, het college van burgemeester en wethouders, de dagelijkse besturen, de bestuurscolleges en de gezaghebbers van de openbare lichamen, bedoeld in artikel Ya 2, onderdeel a, en een stembureau samenwerkt en de wijze waarop de ondersteuning, bedoeld in het eerste lid, en de bevoegdheid, bedoeld in artikel A 12, worden uitgeoefend. De Kiesraad maakt het plan op een algemeen toegankelijke wijze elektronisch openbaar.
+2. De Kiesraad stelt, na overleg met een instantie die representatief kan worden geacht voor de colleges van burgemeester en wethouders, een instantie die representatief kan worden geacht voor de dagelijkse besturen, dan wel de openbare lichamen, bedoeld in [artikel Ya 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=1&artikel=Ya_2&z=2026-01-01&g=2026-01-01), een plan op voor de wijze waarop de Kiesraad met de burgemeester, het college van burgemeester en wethouders, de dagelijkse besturen, de bestuurscolleges en de gezaghebbers van de openbare lichamen, bedoeld in artikel Ya 2, onderdeel a, en een stembureau samenwerkt en de wijze waarop de ondersteuning, bedoeld in het eerste lid, en de bevoegdheid, bedoeld in [artikel A 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=I&hoofdstuk=A&paragraaf=3&artikel=A_12&z=2026-01-01&g=2026-01-01), worden uitgeoefend. De Kiesraad maakt het plan op een algemeen toegankelijke wijze elektronisch openbaar.
 
 3. Ter ondersteuning van de uitvoering van het verkiezingsproces kan de Kiesraad instructies en kwaliteitsstandaarden voor een goede uitvoering van het bepaalde bij of krachtens deze wet opstellen.
 
@@ -138,7 +138,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de uitoefening van de taken en bevoegdheden die in deze wet aan de burgemeester, burgemeester en wethouders, dan wel het dagelijks bestuur zijn toegekend, en
 
-- b. de uitkomst van een vaststelling als bedoeld in de artikelen N 6, N 25, Na 18, Na 26, O 5, P 20 en T 10.
+- b. de uitkomst van een vaststelling als bedoeld in de [artikelen N 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_6&z=2026-01-01&g=2026-01-01), [N 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_25&z=2026-01-01&g=2026-01-01), [Na 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=Na&paragraaf=3&artikel=Na_18&z=2026-01-01&g=2026-01-01), [Na 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=Na&paragraaf=4&artikel=Na_26&z=2026-01-01&g=2026-01-01), [O 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=O&paragraaf=1&artikel=O_5&z=2026-01-01&g=2026-01-01), [P 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_20&z=2026-01-01&g=2026-01-01) en [T 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=T&artikel=T_10&z=2026-01-01&g=2026-01-01).
 
 3. Een procesaanwijzing is evenredig aan het doel waarvoor zij wordt gegeven.
 
@@ -148,13 +148,13 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel A 13
 
-1. De Kiesraad stelt bij een verkiezing een rapportage van bevindingen op over de onregelmatigheden die door de Kiesraad zijn vastgesteld met betrekking tot de feitelijke gang van zaken op plaatsen of gedeelten daarvan die door een stembureau in gebruik zijn ten behoeve van de uitvoering van een verkiezing als bedoeld in deze wet en van de procesaanwijzingen die op grond van artikel A 12, eerste lid, zijn gegeven.
+1. De Kiesraad stelt bij een verkiezing een rapportage van bevindingen op over de onregelmatigheden die door de Kiesraad zijn vastgesteld met betrekking tot de feitelijke gang van zaken op plaatsen of gedeelten daarvan die door een stembureau in gebruik zijn ten behoeve van de uitvoering van een verkiezing als bedoeld in deze wet en van de procesaanwijzingen die op grond van [artikel A 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=I&hoofdstuk=A&paragraaf=3&artikel=A_12&z=2026-01-01&g=2026-01-01), zijn gegeven.
 
 2. De Kiesraad zendt de rapportage van bevindingen zo spoedig mogelijk na vaststelling ervan aan het betrokken vertegenwoordigend orgaan en maakt deze op algemeen toegankelijke wijze elektronisch openbaar.
 
 ##### Artikel A 14
 
-1. Indien de Kiesraad naar aanleiding van geconstateerde onregelmatigheden met betrekking tot een verkiezing die leiden tot risico’s voor de geldigheid van de stemming van oordeel is dat een nieuwe stemming als bedoeld in artikel V 6, tweede lid, in één of meer stembureaus of provincies noodzakelijk is, maakt de Kiesraad dit uiterlijk voor aanvang van het onderzoek, bedoeld in artikel V 4, eerste lid, schriftelijk aan het vertegenwoordigend orgaan kenbaar en vermeldt daarbij de stembureaus of provincies die het betreft.
+1. Indien de Kiesraad naar aanleiding van geconstateerde onregelmatigheden met betrekking tot een verkiezing die leiden tot risico’s voor de geldigheid van de stemming van oordeel is dat een nieuwe stemming als bedoeld in [artikel V 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_6&z=2026-01-01&g=2026-01-01), in één of meer stembureaus of provincies noodzakelijk is, maakt de Kiesraad dit uiterlijk voor aanvang van het onderzoek, bedoeld in [artikel V 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_4&z=2026-01-01&g=2026-01-01), schriftelijk aan het vertegenwoordigend orgaan kenbaar en vermeldt daarbij de stembureaus of provincies die het betreft.
 
 2. De Kiesraad maakt een oordeel als bedoeld in het eerste lid op algemeen toegankelijke wijze elektronisch openbaar.
 
@@ -164,7 +164,7 @@ Burgemeester, burgemeester en wethouders, het dagelijks bestuur, het gemeentelij
 
 ##### Artikel A 16
 
-Onverminderd artikel 20 van de Kaderwet zelfstandige bestuursorganen verstrekt de Kiesraad aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties uit eigen beweging inlichtingen over een door de Kiesraad geconstateerde onregelmatigheid die leidt tot ernstige risico’s voor het verloop van de verkiezing of de betrouwbaarheid van de uitslag van de verkiezing.
+Onverminderd [artikel 20 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20) verstrekt de Kiesraad aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties uit eigen beweging inlichtingen over een door de Kiesraad geconstateerde onregelmatigheid die leidt tot ernstige risico’s voor het verloop van de verkiezing of de betrouwbaarheid van de uitslag van de verkiezing.
 
 #### Afdeling II. De verkiezing van de leden van de Tweede Kamer der Staten-Generaal, van provinciale staten, van de algemene besturen, van de gemeenteraden en van het kiescollege voor Nederlanders die geen ingezetenen zijn
 
@@ -5248,9 +5248,9 @@ Degene die bij een verkiezing als gemachtigde stemt voor een persoon, wetende da
 
 Degene die opzettelijk een persoon benadert om die persoon ertoe te bewegen:
 
-- a. het formulier op zijn stempas, bestemd voor het stemmen bij volmacht als bedoeld in artikel L 14, te ondertekenen en deze pas af te geven; of
+- a. het formulier op zijn stempas, bestemd voor het stemmen bij volmacht als bedoeld in [artikel L 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=3&artikel=L_14&z=2026-01-01&g=2026-01-01), te ondertekenen en deze pas af te geven; of
 
-- b. een verzoekschrift als bedoeld in artikel L 8 in te dienen,
+- b. een verzoekschrift als bedoeld in [artikel L 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=2&artikel=L_8&z=2026-01-01&g=2026-01-01) in te dienen,
 
 wordt, als schuldig aan ronselen, gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 

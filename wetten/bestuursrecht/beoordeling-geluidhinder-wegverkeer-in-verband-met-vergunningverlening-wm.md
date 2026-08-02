@@ -1,43 +1,17 @@
 ---
-title: "Beoordeling geluidhinder wegverkeer in verband met vergunningverlening w.m"
+title: "Beoordeling geluidhinder wegverkeer in verband met vergunningverlening w.m."
 identifier: "BWBR0007921"
-country: "nl"
-rank: "circulaire"
-publication_date: "1996-03-01"
-last_updated: "1996-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007921"
+categorie: "Bestuursrecht"
 soort: "circulaire"
-stam_id: "6408543"
-version_id: "11074982"
-internal_id: "C14985101"
-label_id: "6397394"
-original_entry_into_force: "1996-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007921/1996-03-01/0"
-intitule_bron: "Stcrt.1996-44"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-02-29"
-intitule_published: "1996-03-01"
-intitule_in_force: "1996-03-01"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-44"
-original_signed_date: "1996-02-29"
-original_published_date: "1996-03-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1996-44-p10-SC5356"
-entry_into_force_date: "1996-03-01"
-jci_1_3: "jci1.3:c:BWBR0007921&z=1996-03-01&g=1996-03-01"
-jci_1_0: "1.0:c:BWBR0007921&g=1996-03-01"
-citeertitel_status: "redactioneel"
-short_title: "Beoordeling geluidhinder wegverkeer in verband met vergunningverlening w.m."
-signed_date: "1996-02-29"
-entry_into_force: "1996-03-01"
+publicatiedatum: 1996-03-01
+laatste_update: 1996-03-01
+status: geldig
+toestand: 1996-03-01
+bron: "https://wetten.overheid.nl/BWBR0007921"
+opgehaald: 2026-08-02
 ---
-# Beoordeling geluidhinder wegverkeer in verband met vergunningverlening w.m
 
-Circulaire aan de besturen van provincies en gemeenten
-
-Geacht college,
+# Beoordeling geluidhinder wegverkeer in verband met vergunningverlening w.m.
 
 ### 1. Samenvatting
 
@@ -51,9 +25,9 @@ Tot slot ga ik aan het einde van deze brief in op de beoordeling van verkeersbew
 
 ### 2. Inleiding
 
-Bij de beoordeling van een vergunningaanvraag voor een inrichting als bedoeld in [hoofdstuk 8 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8) moet ook de door de inrichting veroorzaakte ’indirecte hinder’ betrokken worden. Onder indirecte hinder wordt hier ingevolge [artikel 1.1, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) verstaan de nadelige gevolgen voor het milieu veroorzaakt door activiteiten die, hoewel plaatsvindend buiten het terrein van de inrichting, aan de inrichting zijn toe te rekenen. Een belangrijke vorm van indirecte hinder is af- en aanrijdend verkeer, met name vrachtverkeer. Naast overlast als gevolg van stank, stof en parkeerdruk speelt hier ook het probleem van de geluidhinder. Deze geluidhinder wordt door het bevoegd gezag in de praktijk beoordeeld aan de hand van de [Circulaire industrielawaai uit 1979](onbekend). In deze [Circulaire](onbekend) worden aanbevelingen gedaan voor de toepassing van de [Hinderwet](onbekend). In 1979 was het echter nog niet mogelijk om in de milieuvergunning (op grond van de Hinderwet) voorschriften op te nemen ter voorkoming of beperking van indirecte hinder. Dit werd pas mogelijk na wijziging van de [Hinderwet in 1981](onbekend). De [Circulaire industrielawaai](onbekend) was dan ook niet bedoeld voor de beoordeling van geluidhinder veroorzaakt door bronnen buiten de inrichting.
+Bij de beoordeling van een vergunningaanvraag voor een inrichting als bedoeld in [hoofdstuk 8 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8) moet ook de door de inrichting veroorzaakte ’indirecte hinder’ betrokken worden. Onder indirecte hinder wordt hier ingevolge [artikel 1.1, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) verstaan de nadelige gevolgen voor het milieu veroorzaakt door activiteiten die, hoewel plaatsvindend buiten het terrein van de inrichting, aan de inrichting zijn toe te rekenen. Een belangrijke vorm van indirecte hinder is af- en aanrijdend verkeer, met name vrachtverkeer. Naast overlast als gevolg van stank, stof en parkeerdruk speelt hier ook het probleem van de geluidhinder. Deze geluidhinder wordt door het bevoegd gezag in de praktijk beoordeeld aan de hand van de Circulaire industrielawaai uit 1979. In deze Circulaire worden aanbevelingen gedaan voor de toepassing van de Hinderwet. In 1979 was het echter nog niet mogelijk om in de milieuvergunning (op grond van de Hinderwet) voorschriften op te nemen ter voorkoming of beperking van indirecte hinder. Dit werd pas mogelijk na wijziging van de Hinderwet in 1981. De Circulaire industrielawaai was dan ook niet bedoeld voor de beoordeling van geluidhinder veroorzaakt door bronnen buiten de inrichting.
 
-De onbedoelde toepassing van de [Circulaire industrielawaai](onbekend) op het verkeer van en naar de inrichting blijkt in de praktijk tot problemen te leiden. Daarbij gaat het met name om de nu in milieuvergunningen voorgeschreven grenswaarde voor de kortstondige verhogingen van het geluidsniveau (piekbelasting, Lmax) op de gevels van omliggende woningen gedurende de nacht. Wanneer aan de weg die naar de inrichting leidt, woningen gelegen zijn, is één passerende vrachtwagen vaak al voldoende voor overschrijding van die grenswaarde. Om dat te voorkomen, zijn geluidbeperkende maatregelen nodig, bijvoorbeeld een andere ontsluitingsroute. De grenswaarde voor Lmax kan tot gevolg hebben dat, indien geluidbeperkende maatregelen niet mogelijk zijn, af- en aanrijdend verkeer gedurende de nachtelijke uren niet kan worden toegestaan. Dit leidt naar mijn mening niet in alle gevallen tot een verantwoord evenwicht tussen de belangen van de omwonenden en de belangen van de inrichting.
+De onbedoelde toepassing van de Circulaire industrielawaai op het verkeer van en naar de inrichting blijkt in de praktijk tot problemen te leiden. Daarbij gaat het met name om de nu in milieuvergunningen voorgeschreven grenswaarde voor de kortstondige verhogingen van het geluidsniveau (piekbelasting, Lmax) op de gevels van omliggende woningen gedurende de nacht. Wanneer aan de weg die naar de inrichting leidt, woningen gelegen zijn, is één passerende vrachtwagen vaak al voldoende voor overschrijding van die grenswaarde. Om dat te voorkomen, zijn geluidbeperkende maatregelen nodig, bijvoorbeeld een andere ontsluitingsroute. De grenswaarde voor Lmax kan tot gevolg hebben dat, indien geluidbeperkende maatregelen niet mogelijk zijn, af- en aanrijdend verkeer gedurende de nachtelijke uren niet kan worden toegestaan. Dit leidt naar mijn mening niet in alle gevallen tot een verantwoord evenwicht tussen de belangen van de omwonenden en de belangen van de inrichting.
 
 Bovendien geldt het bovenstaande alleen als de door de passerende vrachtwagen veroorzaakte geluidsbelasting beschouwd moet worden als ’indirecte hinder’. Blijkens de jurisprudentie is dat het geval zo lang de vrachtwagen nog duidelijk akoestisch herkenbaar is als op weg naar of afkomstig van de inrichting. Dat betekent bijvoorbeeld dat een solitaire inrichting aan het eind van een doodlopende weg waarlangs geen andere inrichtingen maar wel woningen gelegen zijn, wordt benadeeld ten opzichte van een inrichting die samen met andere inrichtingen gesitueerd is aan het eind van zo’n weg. In het eerste geval zal de vrachtwagen immers gedurende het gehele traject op die weg duidelijk herkenbaar zijn als op weg naar of afkomstig van de solitaire inrichting. In het tweede geval zullen vrachtwagenbewegingen veel moeilijker zijn toe te rekenen aan een bepaalde inrichting.
 
@@ -61,9 +35,9 @@ Mede naar aanleiding van het bovenstaande ben ik tot de conclusie gekomen dat he
 
 De door mij geadviseerde nieuwe beoordelingswijze heeft alleen betrekking op inrichtingen die op grond van de Wet milieubeheer vergunningplichtig zijn. Voor inrichtingen die thans vallen onder algemene regels als bedoeld in [artikel 8.40 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40) zal wordt momenteel nagegaan of het noodzakelijk is om in de vorm van standaardvoorschriften de geluidsoverlast veroorzaakt door verkeer van en naar deze inrichtingen te reguleren.
 
-Benadrukt zij dat de nieuwe beoordelingswijze geen betrekking heeft op geluidhinder veroorzaakt door bronnen binnen de inrichting, dus ook niet op geluidhinder veroorzaakt door motorvoertuigen op het terrein van de inrichting. Hierop blijven de [Circulaire industrielawaai](onbekend) en uiteraard de bestaande regelgeving (bijvoorbeeld [hoofdstuk V van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&hoofdstuk=V)) onverkort van toepassing.
+Benadrukt zij dat de nieuwe beoordelingswijze geen betrekking heeft op geluidhinder veroorzaakt door bronnen binnen de inrichting, dus ook niet op geluidhinder veroorzaakt door motorvoertuigen op het terrein van de inrichting. Hierop blijven de Circulaire industrielawaai en uiteraard de bestaande regelgeving (bijvoorbeeld [hoofdstuk V van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&hoofdstuk=V)) onverkort van toepassing.
 
-De [Circulaire industrielawaai](onbekend) is overigens naar mijn oordeel ook op andere onderdelen aan herziening toe. Ik ben voornemens om in de loop van 1996 hiermee aan te vangen. De herziening zal in nauwe samenwerking met de andere overheden en het bedrijfsleven plaats vinden. Ik onderzoek thans de mogelijkheid de resultaten van deze herziening de vorm te geven van gezamenlijke richtlijnen, die als nieuw richtsnoer voor de vergunningverlening zullen gelden. Vooruitlopend op deze algehele herziening adviseer ik u om in het vervolg, in zoverre in afwijking van de [Circulaire industrielawaai](onbekend), de hieronder beschreven nieuwe beoordelingswijze toe te passen.
+De Circulaire industrielawaai is overigens naar mijn oordeel ook op andere onderdelen aan herziening toe. Ik ben voornemens om in de loop van 1996 hiermee aan te vangen. De herziening zal in nauwe samenwerking met de andere overheden en het bedrijfsleven plaats vinden. Ik onderzoek thans de mogelijkheid de resultaten van deze herziening de vorm te geven van gezamenlijke richtlijnen, die als nieuw richtsnoer voor de vergunningverlening zullen gelden. Vooruitlopend op deze algehele herziening adviseer ik u om in het vervolg, in zoverre in afwijking van de Circulaire industrielawaai, de hieronder beschreven nieuwe beoordelingswijze toe te passen.
 
 ### 3. Nieuwe beoordelingswijze
 
@@ -105,7 +79,7 @@ Het onderzoek naar het LAeq van het inrichtinggebonden verkeer zal in de regel n
 
 Bij het beoordelen van een vergunningaanvraag van een inrichting met af- een aanrijdend verkeer blijkt het vaak lastig te bepalen in hoeverre de verkeersbewegingen zijn toe te rekenen aan de inrichting. Blijkens de huidige jurisprudentie moet regulerend worden opgetreden als het verkeer van en naar de inrichting akoestisch herkenbaar is ten opzichte van het overige verkeer. Ik besef dat de nieuwe beoordelingsmethode hiervoor geen nieuwe aanknopingspunten biedt. Mij is gebleken dat de behoefte aan een ondubbelzinnig criterium voor het vaststellen van het toepassingsbereik van het begrip indirecte hinder wel degelijk bestaat. Vanuit deze constatering zal door mij in overleg met de VNG, IPO en het bedrijfsleven worden bezien of het mogelijk is hiervoor richtlijnen op te stellen.
 
-### 7. Verkeer van en naar een inrichting op een gezoneerd industrieterrein ([Wet geluidhinder](onbekend))
+### 7. Verkeer van en naar een inrichting op een gezoneerd industrieterrein (Wet geluidhinder)
 
 Over de beoordeling van verkeersbewegingen van en naar inrichtingen gelegen op krachtens [hoofdstuk V van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&hoofdstuk=V) gezoneerde industrieterreinen, merk ik het volgende op. Rond een groot aantal industrieterreinen in Nederland is een geluidszone vastgesteld. Door het bevoegd gezag is in het kader van de zonevaststelling rond deze ’bestaande’ industrieterreinen geen rekening gehouden met de hierbedoelde transportbewegingen. Dit is naar mijn oordeel in lijn met de in [artikel 1 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=1) gegeven definitie van de geluidsbelasting vanwege een industrieterrein. Aangezien de zone wordt bepaald op basis van de geluidsbelasting vanwege het industrieterrein, wordt geluid afkomstig van motorvoertuigen aanwezig op een openbare weg hierbij niet in aanmerking genomen. Dit brengt mij tot de conclusie dat in het kader van de vergunningverlening toetsing van de geluidsbelasting vanwege deze motorvoertuigen aan de zonegrens niet in overeenstemming is met [artikel 1 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=1) en derhalve niet zou moeten plaatsvinden. Aangezien in de praktijk is gebleken van onduidelijkheid over het bovenstaande, ben ik voornemens om een wetswijziging te bevorderen, zodanig dat [artikel 1 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=1) in deze zin zal worden verduidelijkt.
 

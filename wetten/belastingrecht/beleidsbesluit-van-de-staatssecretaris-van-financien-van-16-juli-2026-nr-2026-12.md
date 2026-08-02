@@ -9,7 +9,7 @@ laatste_update: 2026-07-25
 status: geldig
 toestand: 2026-07-25
 bron: "https://wetten.overheid.nl/BWBR0052914"
-opgehaald: 2026-07-31
+opgehaald: 2026-08-02
 ---
 
 # Beleidsbesluit van de Staatssecretaris van Financiën van 16 juli 2026 nr. 2026-12123 over hybridemismatches vennootschapsbelasting (Beleidsbesluit hybridemismatches 2026)

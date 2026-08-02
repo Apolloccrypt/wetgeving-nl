@@ -1,46 +1,17 @@
 ---
 title: "Aanwijzing inzake tussenbalanskorting algemene ziekenhuizen"
 identifier: "BWBR0007358"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-05-11"
-last_updated: "1995-05-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007358"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4332633"
-version_id: "6096902"
-internal_id: "C6300411"
-label_id: "4311194"
-dtd_version: "2.0"
-original_entry_into_force: "1995-05-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007358/1995-05-11/0"
-intitule_bron: "Stcrt.1995-89"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-04-24"
-intitule_published: "1995-05-09"
-intitule_in_force: "1995-05-09"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-89"
-original_signed_date: "1995-04-24"
-original_published_date: "1995-05-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-05-11"
-jci_1_3: "jci1.3:c:BWBR0007358&z=1995-05-11&g=1995-05-11"
-jci_1_0: "1.0:c:BWBR0007358&g=1995-05-11"
-citeertitel_status: "officieel"
-signed_date: "1995-04-24"
-entry_into_force: "1995-05-11"
+publicatiedatum: 1995-05-11
+laatste_update: 1995-05-11
+status: geldig
+toestand: 1995-05-11
+bron: "https://wetten.overheid.nl/BWBR0007358"
+opgehaald: 2026-08-02
 ---
+
 # Aanwijzing inzake tussenbalanskorting algemene ziekenhuizen
-
-Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=14), laatstelijk gewijzigd bij wet van 20 november 1991;
-
-Gehoord het Centraal orgaan tarieven gezondheidszorg (advies van 28 maart 1995, kenmerk Ho/mvd/A/95/019, vastgesteld in de vergadering van 20 maart 1995);
-
-Na schriftelijke mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief van 10 april 1995, kenmerk VMP/O-951170),
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -67,5 +38,3 @@ In de bedoelde richtlijnen ter uitvoering van de onderhavige aanwijzing wordt be
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.

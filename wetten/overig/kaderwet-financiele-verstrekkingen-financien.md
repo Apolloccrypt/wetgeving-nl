@@ -1,47 +1,18 @@
 ---
 title: "Wet van 31 januari 1996, houdende regels betreffende de financiële verstrekkingen ten laste van de begroting van het Ministerie van Financiën"
+citeertitel: "Kaderwet financiële verstrekkingen Financiën"
 identifier: "BWBR0007886"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007886"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2698203"
-version_id: "4107852"
-internal_id: "C4107851"
-label_id: "2643654"
-dtd_version: "2.0"
-original_entry_into_force: "1997-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007886/2015-01-01/0"
-intitule_bron: "Stb.1996-98"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-01-31"
-intitule_published: "1996-02-20"
-intitule_in_force: "1996-12-20"
-intitule_status: "goed"
-original_publication: "Stb.1996-98"
-original_signed_date: "1996-01-31"
-original_published_date: "1996-02-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "24176"
-original_url_id: "stb-1996-98"
-entry_into_force_date: "1997-01-01"
-jci_1_3: "jci1.3:c:BWBR0007886&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0007886&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Kaderwet financiële verstrekkingen Financiën"
-signed_date: "1996-01-31"
-entry_into_force: "1997-01-01"
+publicatiedatum: 1997-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0007886"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 31 januari 1996, houdende regels betreffende de financiële verstrekkingen ten laste van de begroting van het Ministerie van Financiën
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een wettelijk kader te scheppen voor de financiële verstrekkingen ten laste van de begroting van het Ministerie van Financiën;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -51,9 +22,9 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - b. ondernemer:
 
-- 1°. een natuurlijk persoon die belastbare winst uit onderneming in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) geniet;
+   - 1°. een natuurlijk persoon die belastbare winst uit onderneming in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) geniet;
 
-- 2°. een belastingplichtige in de zin van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672);
+   - 2°. een belastingplichtige in de zin van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672);
 
 - c. verstrekking van financiële middelen: de terbeschikkingstelling van financiële middelen, anders dan als betaling voor zaken of diensten of ter voldoening aan een verplichting tot schadevergoeding.
 
@@ -85,11 +56,11 @@ Onze Minister kan aan een naamloze of besloten vennootschap waarvan de Staat in 
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -100,5 +71,3 @@ Vervallen
 ##### Artikel 8
 
 Deze wet kan worden aangehaald als: Kaderwet financiële verstrekkingen Financiën.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,50 +1,17 @@
 ---
 title: "Instellingsbeschikking Raad van Advies voor de CID"
 identifier: "BWBR0007238"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-05-01"
-last_updated: "1995-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007238"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3532603"
-version_id: "5315742"
-internal_id: "C5508831"
-label_id: "3512614"
-dtd_version: "2.0"
-original_entry_into_force: "1995-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007238/1995-05-01/0"
-intitule_bron: "Stcrt.1995-46"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-02-15"
-intitule_published: "1995-03-06"
-intitule_in_force: "1995-03-06"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-46"
-original_signed_date: "1995-02-15"
-original_published_date: "1995-03-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-05-01"
-jci_1_3: "jci1.3:c:BWBR0007238&z=1995-05-01&g=1995-05-01"
-jci_1_0: "1.0:c:BWBR0007238&g=1995-05-01"
-citeertitel_status: "officieel"
-signed_date: "1995-02-15"
-entry_into_force: "1995-05-01"
+publicatiedatum: 1995-05-01
+laatste_update: 1995-05-01
+status: geldig
+toestand: 1995-05-01
+bron: "https://wetten.overheid.nl/BWBR0007238"
+opgehaald: 2026-08-02
 ---
+
 # Instellingsbeschikking Raad van Advies voor de CID
-
-Gelet op:
-
-het eindverslag 1992/1993 van de toenmalige Begeleidingscommissie CID;
-
-het advies van de Adviescommissie Criminaliteit (ACC) van de Raad van Hoofdcommissarissen;
-
-de ontwikkelingen die zich voordoen op het terrein van het vergaren en het gebruiken van criminele inlichtingen,
-
-Overwegende dat het, gelet op het bovenstaande, wenselijk is op het terrein van de criminele inlichtingendiensten (CID) een permanente adviesraad in te stellen;
-
-Besluiten:
 
 ##### Artikel 1
 

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-30
 toestand: 2024-12-03
 bron: "https://wetten.overheid.nl/BWBR0045421"
-opgehaald: 2026-07-31
+opgehaald: 2026-08-02
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 7 juli 2021, nr. 1161666, houdende instelling van de Wetenschappelijke Expertgroep Nationaal Programma Onderwijs (Instellingsbesluit Wetenschappelijke Expertgroep Nationaal Programma Onderwijs)

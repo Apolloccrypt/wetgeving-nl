@@ -1,44 +1,21 @@
 ---
 title: "WAO-conforme regeling"
 identifier: "BWBR0007785"
-country: "nl"
-rank: "circulaire"
-publication_date: "1996-01-01"
-last_updated: "1996-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007785"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6321473"
-version_id: "10983262"
-internal_id: "C14873721"
-label_id: "6310474"
-original_entry_into_force: "1996-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007785/1996-01-01/0"
-intitule_bron: "Stcrt.1995-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-21"
-intitule_published: "1995-12-29"
-intitule_in_force: "1995-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-252"
-original_signed_date: "1995-12-21"
-original_published_date: "1995-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1995-252-p11-SC4886"
-entry_into_force_date: "1996-01-01"
-jci_1_3: "jci1.3:c:BWBR0007785&z=1996-01-01&g=1996-01-01"
-jci_1_0: "1.0:c:BWBR0007785&g=1996-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "1995-12-21"
-entry_into_force: "1996-01-01"
+publicatiedatum: 1996-01-01
+laatste_update: 1996-01-01
+status: geldig
+toestand: 1996-01-01
+bron: "https://wetten.overheid.nl/BWBR0007785"
+opgehaald: 2026-08-02
 ---
-# WAO-conforme regeling
 
-Circulaire aan de ministers
+# WAO-conforme regeling
 
 ### Inleiding
 
-In deze circulaire verschaf ik informatie over de invoering van de zgn. WAO-conforme regeling per 1 januari 1996. De invoering van deze regeling vindt plaats in het kader van de beslissing van het kabinet om de sociale werknemersverzekeringen ([ZW](onbekend), [WW](onbekend) en [WAO](onbekend)) ook te doen gelden voor de ambtenaren. In deze circulaire wordt ingegaan op de meest relevante wijzigingen in de rechtspositie en de gevolgen daarvan voor enerzijds de werknemer en anderzijds de werkgever.
+In deze circulaire verschaf ik informatie over de invoering van de zgn. WAO-conforme regeling per 1 januari 1996. De invoering van deze regeling vindt plaats in het kader van de beslissing van het kabinet om de sociale werknemersverzekeringen (ZW, WW en WAO) ook te doen gelden voor de ambtenaren. In deze circulaire wordt ingegaan op de meest relevante wijzigingen in de rechtspositie en de gevolgen daarvan voor enerzijds de werknemer en anderzijds de werkgever.
 
 ### Algemeen
 
@@ -46,9 +23,9 @@ In het kader van de normalisering van de arbeidsverhoudingen van het overheidspe
 
 Het beoogde tijdstip waarop het OOW-project haar beslag zou krijgen, was aanvankelijk 1 januari 1996. Om hoofdzakelijk uitvoeringstechnische redenen bleek deze datum niet verantwoord te zijn en heeft het kabinet besloten de ingangsdatum te stellen op 1 januari 1998.
 
-Met name in verband met de privatisering van het ABP per 1 januari 1996 is voor het onderdeel arbeidsongeschiktheid besloten vooruitlopend op 1 januari 1998 reeds ingaande 1 januari 1996 zo veel mogelijk aan te sluiten bij de [WAO](onbekend).
+Met name in verband met de privatisering van het ABP per 1 januari 1996 is voor het onderdeel arbeidsongeschiktheid besloten vooruitlopend op 1 januari 1998 reeds ingaande 1 januari 1996 zo veel mogelijk aan te sluiten bij de WAO.
 
-Hiertoe wordt de WAO-conforme regeling ingevoerd. Dit gebeurt door middel van de [Wet privatisering ABP](onbekend) (WPA). Daarin is vrijwel de gehele [WAO](onbekend) van overeenkomstige toepassing verklaard op het overheidspersoneel. Per 1 januari 1998 zal de [WAO](onbekend) vervolgens rechtstreeks van toepassing worden.
+Hiertoe wordt de WAO-conforme regeling ingevoerd. Dit gebeurt door middel van de Wet privatisering ABP (WPA). Daarin is vrijwel de gehele WAO van overeenkomstige toepassing verklaard op het overheidspersoneel. Per 1 januari 1998 zal de WAO vervolgens rechtstreeks van toepassing worden.
 
 ### Wao-conforme regeling
 
@@ -56,7 +33,7 @@ De WAO-conforme regeling houdt in dat ambtenaren na 1 jaar ziekte recht krijgen 
 
 Het bovenwettelijk deel is deels geregeld in het pensioenreglement en deels in de rechtspositieregelingen. Over de WAO-conforme regeling en het pensioenreglement bent u reeds geïnformeerd door USZO (zie punt 7) en het ABP, onder meer door voorlichtingsbijeenkomsten en door de aan u als werkgever gerichte mailing. In deze circulaire zal met name worden ingegaan op de wijzigingen in de rechtspositie van het rijkspersoneel.
 
-De invoering van genoemde regeling maakte het noodzakelijk om wijzigingen aan te brengen in de volgende regelingen: het [Algemeen Rijksambtenarenreglement](onbekend), het [Ambtenarenreglement Staten-Generaal](onbekend), het [Reglement Dienst Buitenlandse Zaken](onbekend), het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](onbekend), het [Verplaatsingskostenbesluit 1989](onbekend), het [Rijkswachtgeldbesluit 1959](onbekend), de [Uitkeringsregeling 1966](onbekend), de [Regeling uitkering wegens functioneel leeftijdsontslag](onbekend), [Regeling wachtgeld en uitkering bij privatisering](onbekend) en de [Regeling ziektekostenvoorziening overheidspersoneel](onbekend). Voorts diende, ter vervanging van het herplaatsingswachtgeld ingevolge [hoofdstuk K van de Algemene burgerlijke pensioenwet](onbekend), een suppletieregeling tot stand te worden gebracht. Genoemde wijzigingen c.q. de nieuwe regeling zullen zeer binnenkort in het Staatsblad worden geplaatst.
+De invoering van genoemde regeling maakte het noodzakelijk om wijzigingen aan te brengen in de volgende regelingen: het Algemeen Rijksambtenarenreglement, het Ambtenarenreglement Staten-Generaal, het Reglement Dienst Buitenlandse Zaken, het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, het Verplaatsingskostenbesluit 1989, het Rijkswachtgeldbesluit 1959, de Uitkeringsregeling 1966, de Regeling uitkering wegens functioneel leeftijdsontslag, Regeling wachtgeld en uitkering bij privatisering en de Regeling ziektekostenvoorziening overheidspersoneel. Voorts diende, ter vervanging van het herplaatsingswachtgeld ingevolge hoofdstuk K van de Algemene burgerlijke pensioenwet, een suppletieregeling tot stand te worden gebracht. Genoemde wijzigingen c.q. de nieuwe regeling zullen zeer binnenkort in het Staatsblad worden geplaatst.
 
 Onderstaand geef ik u van de meest relevante wijzigingen een korte uiteenzetting.
 
@@ -68,7 +45,7 @@ Aan de verruiming voor tijdelijk aangestelden is geen terugwerkende kracht verle
 
 ### 2. Reïntegratieverplichtingen
 
-Ik wil u er met nadruk op wijzen dat de lijn zoals uitgezet in de [wet Terugdringing Arbeidsongeschiktheidsvolume](onbekend) (TAV) en de [wet Terugdringing Beroep op de Arbeidsongeschiktheidsregelingen](onbekend) (TBA) in de nieuwe situatie van kracht blijft. Als werkgever bent u verantwoordelijk voor een snelle terugkeer van uw zieke werknemer naar de werkplek. Invulling hiervan geschiedt in nauwe samenwerking met de Arbodienst (RBB).
+Ik wil u er met nadruk op wijzen dat de lijn zoals uitgezet in de wet Terugdringing Arbeidsongeschiktheidsvolume (TAV) en de wet Terugdringing Beroep op de Arbeidsongeschiktheidsregelingen (TBA) in de nieuwe situatie van kracht blijft. Als werkgever bent u verantwoordelijk voor een snelle terugkeer van uw zieke werknemer naar de werkplek. Invulling hiervan geschiedt in nauwe samenwerking met de Arbodienst (RBB).
 
 Dit brengt gedurende de hele ziekteperiode reïntegratieverplichtingen met zich mee.
 
@@ -76,9 +53,9 @@ Voor meer informatie omtrent dit onderwerp kan ik u o.a. verwijzen naar de broch
 
 ### 3. Herplaatsing
 
-Indien het uitoefenen van de oude functie niet meer mogelijk is, kan de ambtenaar herplaatst worden in een andere functie. In de nieuwe regeling kan dit vóór het ontslag. Hiertoe wordt een nieuw artikel opgenomen in het [ARAR (artikel 57a)](onbekend). Bovendien wordt een artikel opgenomen waarin een aanvullende toelage wordt opgenomen om eventuele negatieve inkomensconsequenties te compenseren ([artikel 39a](onbekend)). Deze toelage komt ten laste van de oude werkgever. Omdat de zieke werknemer niet eerder dan na 24 maanden wegens arbeidsongeschiktheid mag worden ontslagen (zie punt 4), heeft de werknemer recht op 80% doorbetaling van zijn bezoldiging gedurende tenminste 6 maanden. Zoals boven reeds vermeld, betekent invoering van de WAO-conforme regeling dat de werknemer na een jaar ziekte in aanmerking kan komen voor een WAO-conforme uitkering. Dit als bij een WAO-keuring blijkt dat de ambtenaar arbeidsongeschikt is. Deze uitkering wordt in mindering gebracht op het bedrag van de tijdens ziekte uitbetaalde bezoldiging. Om de ambtenaar slechts met één loket te confronteren zal de USZO de WAO-conforme uitkering aan de werkgever verstrekken, waarna de werkgever zijn werknemer 100 dan wel 80% van zijn bezoldiging doorbetaalt.
+Indien het uitoefenen van de oude functie niet meer mogelijk is, kan de ambtenaar herplaatst worden in een andere functie. In de nieuwe regeling kan dit vóór het ontslag. Hiertoe wordt een nieuw artikel opgenomen in het ARAR (artikel 57a). Bovendien wordt een artikel opgenomen waarin een aanvullende toelage wordt opgenomen om eventuele negatieve inkomensconsequenties te compenseren (artikel 39a). Deze toelage komt ten laste van de oude werkgever. Omdat de zieke werknemer niet eerder dan na 24 maanden wegens arbeidsongeschiktheid mag worden ontslagen (zie punt 4), heeft de werknemer recht op 80% doorbetaling van zijn bezoldiging gedurende tenminste 6 maanden. Zoals boven reeds vermeld, betekent invoering van de WAO-conforme regeling dat de werknemer na een jaar ziekte in aanmerking kan komen voor een WAO-conforme uitkering. Dit als bij een WAO-keuring blijkt dat de ambtenaar arbeidsongeschikt is. Deze uitkering wordt in mindering gebracht op het bedrag van de tijdens ziekte uitbetaalde bezoldiging. Om de ambtenaar slechts met één loket te confronteren zal de USZO de WAO-conforme uitkering aan de werkgever verstrekken, waarna de werkgever zijn werknemer 100 dan wel 80% van zijn bezoldiging doorbetaalt.
 
-Gedurende het eerste ziektejaar wordt een verplichtingen- en sanctieregime gehanteerd dat zoveel mogelijk is afgestemd op de [Ziektewet](onbekend). Voor de periode daarna geldt een WAO-conform verplichtingen- en sanctieregime.
+Gedurende het eerste ziektejaar wordt een verplichtingen- en sanctieregime gehanteerd dat zoveel mogelijk is afgestemd op de Ziektewet. Voor de periode daarna geldt een WAO-conform verplichtingen- en sanctieregime.
 
 ### 4. Ontslag op grond van ongeschiktheid wegens ziekte
 
@@ -86,13 +63,19 @@ Ook het ontslag op grond van ongeschiktheid tot het verrichten van arbeid wegens
 
 Indien herplaatsing alleen in een deeltijdfunctie mogelijk is, kan uitsluitend ontslag worden verleend voor het aantal uren waarvoor herplaatsing niet mogelijk is.
 
-Uit het bovenstaande kan overigens worden afgeleid dat de ontslagprocedure op z’n vroegst na 18 maanden in gang kan worden gezet. Voor de goede orde wijs ik u er op dat bij een ontslag op grond van arbeidsongeschiktheid wegens ziekte slechts dan van een opzeggingstermijn sprake is, als de rechtspositieregeling op dit punt nu al een opzeggingstermijn hanteert. Voor het [ARAR](onbekend) is dit niet het geval.
+Uit het bovenstaande kan overigens worden afgeleid dat de ontslagprocedure op z’n vroegst na 18 maanden in gang kan worden gezet. Voor de goede orde wijs ik u er op dat bij een ontslag op grond van arbeidsongeschiktheid wegens ziekte slechts dan van een opzeggingstermijn sprake is, als de rechtspositieregeling op dit punt nu al een opzeggingstermijn hanteert. Voor het ARAR is dit niet het geval.
 
 ### 5. Suppletieregeling
 
-Zoals eerder opgemerkt, is voor het herplaatsingswachtgeld, conform [hoofdstuk K van de Algemene burgerlijke pensioenwet](onbekend), een nieuwe regeling in het leven geroepen, genaamd ’Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk’.
+Zoals eerder opgemerkt, is voor het herplaatsingswachtgeld, conform hoofdstuk K van de Algemene burgerlijke pensioenwet, een nieuwe regeling in het leven geroepen, genaamd ’Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk’.
 
 Om in aanmerking te komen voor een uitkering op grond van bedoelde regeling moet aan de volgende voorwaarden worden voldaan:
+
+- – de betrokken werknemer moet ontslagen zijn op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte;
+
+- – op het moment van ontslag moet de betrokken werknemer voor minder dan 80% arbeidsongeschikt zijn en
+
+- – de betrokken werknemer is niet herplaatst in een andere functie dan wel de betrokken werknemer heeft geen recht op een herplaatsingstoelage.
 
 Bij een arbeidsongeschiktheid van 80% of meer is er geen aanspraak op suppletie. Deze werknemer zal een WAO-conforme uitkering ontvangen en eventueel een aanvullend invaliditeitspensioen.
 
@@ -105,6 +88,10 @@ De werknemer kan na afloop van de suppletieregeling (in beginsel 66 maanden) eve
 ### 6. Overige van belang zijnde wijzigingen
 
 De werknemer die:
+
+- – of ontslagen is op grond van arbeidsongeschiktheid en voor 80% of meer arbeidsongeschikt is;
+
+- – of ontslagen is op grond van arbeidsongeschiktheid en voor minder dan 80% arbeidsongeschikt is en voor wie de suppletietermijn is beëindigd,
 
 heeft aanspraak op een WAO-conforme uitkering eventueel vermeerderd met een invaliditeitspensioen.
 

@@ -1,42 +1,17 @@
 ---
 title: "Vaststelling bijdragen gemoedsbezwaarden 1996"
 identifier: "BWBR0007696"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-01-01"
-last_updated: "1996-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007696"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3784953"
-version_id: "5567742"
-internal_id: "C5760831"
-label_id: "3764624"
-dtd_version: "2.0"
-original_entry_into_force: "1996-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007696/1996-01-01/0"
-intitule_bron: "Stcrt.1995-239"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-06"
-intitule_published: "1995-12-08"
-intitule_in_force: "1995-12-08"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-239"
-original_signed_date: "1995-12-06"
-original_published_date: "1995-12-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-01-01"
-jci_1_3: "jci1.3:c:BWBR0007696&z=1996-01-01&g=1996-01-01"
-jci_1_0: "1.0:c:BWBR0007696&g=1996-01-01"
-citeertitel_status: "officieel"
-signed_date: "1995-12-06"
-entry_into_force: "1996-01-01"
+publicatiedatum: 1996-01-01
+laatste_update: 1996-01-01
+status: geldig
+toestand: 1996-01-01
+bron: "https://wetten.overheid.nl/BWBR0007696"
+opgehaald: 2026-08-02
 ---
+
 # Vaststelling bijdragen gemoedsbezwaarden 1996
-
-Gelet op [artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=20);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -61,5 +36,3 @@ Categorie 8 f 70 voor rijwielen met hulpmotor.
 ##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 januari 1996.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

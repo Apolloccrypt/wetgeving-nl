@@ -1,44 +1,17 @@
 ---
 title: "Instellingsbesluit Raad voor Europese en Internationale Aangelegenheden"
 identifier: "BWBR0007888"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-02-16"
-last_updated: "1996-02-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007888"
+categorie: "Internationaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3535943"
-version_id: "5319092"
-internal_id: "C5512181"
-label_id: "3515964"
-dtd_version: "2.0"
-original_entry_into_force: "1996-02-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007888/1996-02-16/0"
-intitule_bron: "Stcrt.1996-32"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-02-02"
-intitule_published: "1996-02-14"
-intitule_in_force: "1996-02-14"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-32"
-original_signed_date: "1996-02-02"
-original_published_date: "1996-02-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-02-16"
-jci_1_3: "jci1.3:c:BWBR0007888&z=1996-02-16&g=1996-02-16"
-jci_1_0: "1.0:c:BWBR0007888&g=1996-02-16"
-citeertitel_status: "officieel"
-signed_date: "1996-02-02"
-entry_into_force: "1996-02-16"
+publicatiedatum: 1996-02-16
+laatste_update: 1996-02-16
+status: geldig
+toestand: 1996-02-16
+bron: "https://wetten.overheid.nl/BWBR0007888"
+opgehaald: 2026-08-02
 ---
+
 # Instellingsbesluit Raad voor Europese en Internationale Aangelegenheden
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 25, eerste lid, van het Reglement van Orde voor de Ministerraad](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&artikel=25);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -78,57 +51,57 @@ De Raad heeft tot taak het voorbereiden van de besluitvorming door de ministerra
 
 - in de REIA-EA samenstelling:
 
-- a. de minister-president, tevens voorzitter
+   - a. de minister-president, tevens voorzitter
 
-- b. de minister van Buitenlandse Zaken, tevens coördinerend bewindspersoon
+   - b. de minister van Buitenlandse Zaken, tevens coördinerend bewindspersoon
 
-- c. de minister van Binnenlandse Zaken
+   - c. de minister van Binnenlandse Zaken
 
-- d. de minister van Onderwijs, Cultuur en Wetenschappen
+   - d. de minister van Onderwijs, Cultuur en Wetenschappen
 
-- e. de minister van Defensie
+   - e. de minister van Defensie
 
-- f. de minister van Justitie
+   - f. de minister van Justitie
 
-- g. de minister van Financiën
+   - g. de minister van Financiën
 
-- h. de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+   - h. de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
-- i. de minister van Verkeer en Waterstaat
+   - i. de minister van Verkeer en Waterstaat
 
-- j. de minister van Economische Zaken
+   - j. de minister van Economische Zaken
 
-- k. de minister van Landbouw, Natuurbeheer en Visserij
+   - k. de minister van Landbouw, Natuurbeheer en Visserij
 
-- l. de minister van Sociale Zaken en Werkgelegenheid
+   - l. de minister van Sociale Zaken en Werkgelegenheid
 
-- m. de minister van Volksgezondheid, Welzijn en Sport
+   - m. de minister van Volksgezondheid, Welzijn en Sport
 
-- n. de minister voor Ontwikkelings-samenwerking
+   - n. de minister voor Ontwikkelings-samenwerking
 
-- o. de staatssecretaris van Buitenlandse Zaken
+   - o. de staatssecretaris van Buitenlandse Zaken
 
-- p. de staatssecretaris van Economische Zaken
+   - p. de staatssecretaris van Economische Zaken
 
 - in de REIA-IA samenstelling:
 
-- a. de minister-president, tevens voorzitter
+   - a. de minister-president, tevens voorzitter
 
-- b. de minister van Buitenlandse Zaken, tevens coördinerend bewindspersoon
+   - b. de minister van Buitenlandse Zaken, tevens coördinerend bewindspersoon
 
-- c. de minister van Financiën
+   - c. de minister van Financiën
 
-- d. de minister van Defensie
+   - d. de minister van Defensie
 
-- e. de minister van Economische Zaken
+   - e. de minister van Economische Zaken
 
-- f. de minister voor Nederlands Antilliaanse en Arubaanse Zaken
+   - f. de minister voor Nederlands Antilliaanse en Arubaanse Zaken
 
-- g. de minister voor Ontwikkelingssamenwerking
+   - g. de minister voor Ontwikkelingssamenwerking
 
-- h. de staatssecretaris van Buitenlandse Zaken
+   - h. de staatssecretaris van Buitenlandse Zaken
 
-- i. de staatssecretaris van Economische Zaken
+   - i. de staatssecretaris van Economische Zaken
 
 3. Afhankelijk van de agenda wordt de Raad aangevuld met de voor het te behandelen onderwerp eerstverantwoordelijke minister.
 
@@ -155,5 +128,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Raad voor Europese en Internationale Aangelegenheden.
-
-Dit besluit zal met de toelichting in de Nederlandse Staatscourant worden geplaatst.

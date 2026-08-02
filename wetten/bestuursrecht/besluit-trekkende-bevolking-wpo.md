@@ -5,11 +5,11 @@ identifier: "BWBR0003833"
 categorie: "Overig"
 soort: "AMvB"
 publicatiedatum: 1985-08-01
-laatste_update: 2022-04-01
+laatste_update: 2026-08-01
 status: geldig
-toestand: 2022-04-01
+toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0003833"
-opgehaald: 2026-07-30
+opgehaald: 2026-08-02
 ---
 
 # Besluit van 13 augustus 1985, houdende voorschriften omtrent de bekostiging van scholen voor kinderen van wie de ouders een trekkend bestaan leiden
@@ -22,13 +22,13 @@ In dit besluit wordt verstaan onder:
 
 *wet*: [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-*school*: een basisschool als bedoeld in de [titels B](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&z=2022-04-01&g=2022-04-01) en [C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2022-04-01&g=2022-04-01), tenzij het tegendeel blijkt;
+*school*: een basisschool als bedoeld in de [titels B](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&z=2026-08-01&g=2026-08-01) en [C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2026-08-01&g=2026-08-01), tenzij het tegendeel blijkt;
 
 *schooljaar*: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend voor zover in dit besluit niet anders is bepaald.
 
 ##### Artikel A 2. Afwijking van bepalingen en van overeenkomstige toepassing zijnde bepalingen van de WPO
 
-1. [Artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=4) is niet van toepassing op een school als bedoeld in dit besluit. [Artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=2) is niet van toepassing op de school, bedoeld in [titel C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2022-04-01&g=2022-04-01).
+1. [Artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=4) is niet van toepassing op een school als bedoeld in dit besluit. [Artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=2) is niet van toepassing op de school, bedoeld in [titel C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2026-08-01&g=2026-08-01).
 
 2. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8), [10 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10), behoudens de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13) bedoelde algemene maatregel van bestuur, [29 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=29), [38a](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38a), [40, eerste, tweede en negende tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40), [40b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40b), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=41), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=42), [45a](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45a), [50 tot en met 63](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=50), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=66), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=67), [69, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=69), [120](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=120), [152](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=152), [155](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=155), [165 tot en met 179](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165), [181](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=181), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=182), [183](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183), [187 tot en met 191](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=187) en [194 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=194) zijn van overeenkomstige toepassing. Voorts is het [Besluit vernieuwde kerndoelen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0018844) van overeenkomstige toepassing.
 
@@ -60,7 +60,7 @@ Het onderwijs aan kinderen van wie de ouders in het kermisbedrijf, onderscheiden
 
 ##### Artikel B 3. Inhoud onderwijs
 
-Artikel 9, eerste tot en met derde lid, vijfde en zesde lid, van de wet is van overeenkomstige toepassing.
+[Artikel 9, eerste tot en met zevende lid en negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9) is van overeenkomstige toepassing.
 
 ##### Artikel B 3a
 
@@ -96,7 +96,7 @@ Artikel 9, eerste tot en met derde lid, vijfde en zesde lid, van de wet is van o
 
 ##### Artikel B 10. Toelatingsleeftijd, duur onderwijs
 
-1. Om als leerling tot een school voor kinderen als bedoeld in [artikel B 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=2&artikel=B_2&z=2022-04-01&g=2022-04-01) te worden toegelaten, moet het kind de leeftijd van 4 jaar hebben bereikt.
+1. Om als leerling tot een school voor kinderen als bedoeld in [artikel B 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=2&artikel=B_2&z=2026-08-01&g=2026-08-01) te worden toegelaten, moet het kind de leeftijd van 4 jaar hebben bereikt.
 
 2. De leerlingen verlaten de school, bedoeld in het eerste lid, in elk geval na afloop van het schooljaar waarin zij de leeftijd van 14 jaar hebben bereikt.
 
@@ -160,7 +160,7 @@ De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=1), [2]
 
 - a. de kosten, bedoeld in [artikel 115, tweede lid, onderdelen a tot en met d, f tot en met i en k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=115);
 
-- b. het onderhoud en de schoonmaak van het voertuig, bedoeld in [artikel B 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=3&artikel=B_14&z=2022-04-01&g=2022-04-01);
+- b. het onderhoud en de schoonmaak van het voertuig, bedoeld in [artikel B 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=3&artikel=B_14&z=2026-08-01&g=2026-08-01);
 
 - c. de kosten voor verplaatsing en inneming van standplaats;
 
@@ -174,7 +174,7 @@ De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=1), [2]
 
 ##### Artikel B 16. Aanvullende bekostiging bij bijzondere ontwikkelingen
 
-1. In geval van bijzondere ontwikkelingen in het basisonderwijs, kan Onze Minister in aanvulling op de bekostiging, bedoeld in [artikel B 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4&artikel=B_15&z=2022-04-01&g=2022-04-01), bekostiging verstrekken.
+1. In geval van bijzondere ontwikkelingen in het basisonderwijs, kan Onze Minister in aanvulling op de bekostiging, bedoeld in [artikel B 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4&artikel=B_15&z=2026-08-01&g=2026-08-01), bekostiging verstrekken.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over het verstrekken van de aanvullende bekostiging, bedoeld in het eerste lid.
 
@@ -266,7 +266,7 @@ Het Rijk vergoedt aan het bevoegd gezag van een bijzondere school de kosten van 
 
 ##### Artikel B 20. Vaststelling bekostiging en latere wijziging bekostiging
 
-1. Onze Minister stelt jaarlijks uiterlijk op 1 januari, de bekostigingsbedragen, bedoeld in [artikel B 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4&artikel=B_15&z=2022-04-01&g=2022-04-01) vast. De bedragen hebben betrekking op een kalenderjaar.
+1. Onze Minister stelt jaarlijks uiterlijk op 1 januari, de bekostigingsbedragen, bedoeld in [artikel B 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4&artikel=B_15&z=2026-08-01&g=2026-08-01) vast. De bedragen hebben betrekking op een kalenderjaar.
 
 2. De in het eerste lid bedoelde bekostigingsbedragen kunnen gedurende het kalenderjaar door Onze Minister worden gewijzigd wegens algemene salarismaatregelen of wegens andere al dan niet uit de rijksbegroting voortvloeiende maatregelen.
 
@@ -278,7 +278,7 @@ De betaling van de bekostiging vindt maandelijks plaats in een bij ministeriële
 
 ##### Artikel B 21a. Berekening aantal leerlingen
 
-1. In deze paragraaf wordt onder het aantal leerlingen van de school verstaan: het aantal unieke leerlingen als bedoeld in [artikel B 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=4&artikel=B_10&z=2022-04-01&g=2022-04-01), tot 1 oktober van het schooljaar, geteld over de periode vanaf 1 oktober van het voorafgaande schooljaar.
+1. In deze paragraaf wordt onder het aantal leerlingen van de school verstaan: het aantal unieke leerlingen als bedoeld in [artikel B 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=4&artikel=B_10&z=2026-08-01&g=2026-08-01), tot 1 oktober van het schooljaar, geteld over de periode vanaf 1 oktober van het voorafgaande schooljaar.
 
 2. Het bevoegd gezag vermeldt het aantal leerlingen van de school in het jaarverslag, bedoeld in [artikel 165, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165).
 
@@ -382,11 +382,11 @@ De [artikelen 7, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:
 
 3. Bij ministeriële regeling worden jaarlijks de bedragen, bedoeld in het tweede lid vastgesteld en worden nadere regels gesteld over de wijze waarop de hoogte van de bekostiging wordt berekend.
 
-4. Bij de toepassing van het tweede lid wordt uitgegaan van het aantal leerlingen, bedoeld in [artikel C 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=2&artikel=C_2&z=2022-04-01&g=2022-04-01), dat op 1 februari van het voorafgaande jaar, aan de school voor varende kinderen is ingeschreven.
+4. Bij de toepassing van het tweede lid wordt uitgegaan van het aantal leerlingen, bedoeld in [artikel C 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=2&artikel=C_2&z=2026-08-01&g=2026-08-01), dat op 1 februari van het voorafgaande jaar, aan de school voor varende kinderen is ingeschreven.
 
 ##### Artikel C 12. Aanvullende bekostiging bij bijzondere ontwikkelingen
 
-1. In geval van bijzondere ontwikkelingen in het basisonderwijs, kan Onze Minister in aanvulling op de bekostiging, bedoeld in [artikel C 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2022-04-01&g=2022-04-01) bekostiging verstrekken.
+1. In geval van bijzondere ontwikkelingen in het basisonderwijs, kan Onze Minister in aanvulling op de bekostiging, bedoeld in [artikel C 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2026-08-01&g=2026-08-01) bekostiging verstrekken.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over het verstrekken van de aanvullende bekostiging, bedoeld in het eerste lid.
 
@@ -398,7 +398,7 @@ De [artikelen 7, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:
 
 1. Het Rijk bekostigt ten behoeve van elk kalenderjaar de uitgaven voor voorzieningen in de huisvesting.
 
-2. De bekostiging van voorzieningen in de huisvesting ten behoeve van een kalenderjaar, bestaat uit een vast bedrag, verhoogd met een bedrag voor elke leerling, bedoeld in [artikel C 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2022-04-01&g=2022-04-01).
+2. De bekostiging van voorzieningen in de huisvesting ten behoeve van een kalenderjaar, bestaat uit een vast bedrag, verhoogd met een bedrag voor elke leerling, bedoeld in [artikel C 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2026-08-01&g=2026-08-01).
 
 3. De bekostiging, bedoeld in het tweede lid, wordt jaarlijks aangepast overeenkomstig de prijsmutatie van de netto materiële consumptie, zoals opgenomen in de Macro Economische Verkenning, die naar verwachting zal optreden tussen het prijsniveau in het kalenderjaar waarvoor de bekostiging wordt vastgesteld en het prijsniveau in het daaraan voorafgaande jaar.
 
@@ -412,7 +412,7 @@ De [artikelen 7, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel C 16. Vaststelling bekostiging en latere wijziging bekostiging
 
-1. Onze Minister stelt jaarlijks uiterlijk op 1 januari, de bekostigingsbedragen, bedoeld in [artikel C 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2022-04-01&g=2022-04-01) vast. De bedragen hebben betrekking op een kalenderjaar.
+1. Onze Minister stelt jaarlijks uiterlijk op 1 januari, de bekostigingsbedragen, bedoeld in [artikel C 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2026-08-01&g=2026-08-01) vast. De bedragen hebben betrekking op een kalenderjaar.
 
 2. De in het eerste lid bedoelde bekostigingsbedragen kunnen door Onze Minister worden gewijzigd wegens algemene salarismaatregelen of wegens andere al dan niet uit de rijksbegroting voortvloeiende maatregelen.
 
@@ -422,7 +422,7 @@ De betaling van de bekostiging vindt maandelijks plaats in een bij ministeriële
 
 ##### Artikel C 17. Overschrijdingsregeling
 
-De [artikelen 128 tot en met 134 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=126) zijn van overeenkomstige toepassing, met dien verstande dat in [artikel 130, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=130), «nevenvestiging» wordt gelezen als: vestiging, bedoeld in [artikel C 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=1&artikel=C_1&z=2022-04-01&g=2022-04-01), van het Besluit trekkende bevolking WPO.
+De [artikelen 128 tot en met 134 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=126) zijn van overeenkomstige toepassing, met dien verstande dat in [artikel 130, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=130), «nevenvestiging» wordt gelezen als: vestiging, bedoeld in [artikel C 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=1&artikel=C_1&z=2026-08-01&g=2026-08-01), van het Besluit trekkende bevolking WPO.
 
 ##### Artikel C 18. Besteding bekostiging personeel en overschrijdingsbedragen
 

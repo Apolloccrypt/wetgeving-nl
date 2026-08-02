@@ -1,62 +1,17 @@
 ---
 title: "Instellingsbesluit Stuurgroep preventie en bestrijding voertuigcriminaliteit"
 identifier: "BWBR0007027"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-07-01"
-last_updated: "1996-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007027"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4286143"
-version_id: "6049712"
-internal_id: "C6253111"
-label_id: "4264684"
-dtd_version: "2.0"
-original_entry_into_force: "1994-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007027/1996-07-01/0"
-intitule_bron: "Stcrt.1994-228"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-11-21"
-intitule_published: "1994-11-25"
-intitule_in_force: "1994-11-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-228"
-original_signed_date: "1994-11-21"
-original_published_date: "1994-11-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-11-27"
-jci_1_3: "jci1.3:c:BWBR0007027&z=1996-07-01&g=1996-07-01"
-jci_1_0: "1.0:c:BWBR0007027&g=1996-07-01"
-citeertitel_status: "officieel"
-signed_date: "1994-11-21"
-entry_into_force: "1994-11-27"
+publicatiedatum: 1994-11-27
+laatste_update: 1996-07-01
+status: geldig
+toestand: 1996-07-01
+bron: "https://wetten.overheid.nl/BWBR0007027"
+opgehaald: 2026-08-02
 ---
+
 # Instellingsbesluit Stuurgroep preventie en bestrijding voertuigcriminaliteit
-
-overwegende,
-
-dat er politiek en maatschappelijk hoge prioriteit wordt gegeven aan preventie en bestrijding van autocriminaliteit;
-
-dat criminaliteit in toenemende mate internationaliseert;
-
-dat met betrekking tot het voertuig sprake is van sterk toenemende fraude en criminaliteit, zoals
-
-ontduiken van voertuigverplichtingen (belasting, keuring, verzekering),
-
-verzekeringsfraude,
-
-verduistering, vermissing en diefstal,
-
-malafide import en export;
-
-dat het coördinerend ministerschap voor wat betreft voertuiginformatievoorziening zijn verantwoordelijkheid is;
-
-dat in het kader van het informatiebeleid van de rijksoverheid op het gebied van voertuigen het kentekenregister de basisregistratie is en dat de Dienst Wegverkeer is aangewezen als houder hiervan;
-
-dat optimale kaders worden gecreëerd bij het Ministerie van Verkeer en Waterstaat ter bestrijding van voertuigcriminaliteit;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -73,6 +28,18 @@ De stuurgroep heeft tot taak:
 - afstemming van activiteiten op dit gebied.
 
 ##### Artikel 3
+
+lid 1:
+
+In de stuurgroep worden benoemd tot lid en voorzitter de Plaatsvervangend Secretaris-Generaal van het Ministerie van Verkeer en Waterstaat.
+
+Tot Leden:
+
+de hoofddirecteur Bestuurlijke en Juridische Zaken van de Hoofddirectie van de Waterstaat en de directeur van de Dienst Wegverkeer.
+
+lid 2:
+
+Aan de stuurgroep worden de volgende adviserende leden toegevoegd; het hoofd Korps Landelijke Politie Diensten, de heer J. E. de Wijs en de voorzitter van de stichting RDC Datacentrum, de heer W. M. de Grefte, tevens de adjunct-directeur van de Dienst Wegverkeer, de heer J. A. F. van der Bruggen.
 
 ##### Artikel 4
 

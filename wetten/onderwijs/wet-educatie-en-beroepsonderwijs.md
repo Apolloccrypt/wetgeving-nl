@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-31
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0007625"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-02
 ---
 
 # Wet van 31 oktober 1995, houdende bepalingen met betrekking tot de educatie en het beroepsonderwijs

@@ -1,42 +1,17 @@
 ---
 title: "Instelling Commissie werkbelasting strafkamer Hoge Raad"
 identifier: "BWBR0007546"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-10-05"
-last_updated: "1995-10-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007546"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3579873"
-version_id: "5362972"
-internal_id: "C5556061"
-label_id: "3559854"
-dtd_version: "2.0"
-original_entry_into_force: "1995-10-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007546/1995-10-05/0"
-intitule_bron: "Stcrt.1995-192"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-09-11"
-intitule_published: "1995-10-04"
-intitule_in_force: "1995-10-04"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-192"
-original_signed_date: "1995-09-11"
-original_published_date: "1995-10-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-10-05"
-jci_1_3: "jci1.3:c:BWBR0007546&z=1995-10-05&g=1995-10-05"
-jci_1_0: "1.0:c:BWBR0007546&g=1995-10-05"
-citeertitel_status: "officieel"
-signed_date: "1995-09-11"
-entry_into_force: "1995-10-05"
+publicatiedatum: 1995-10-05
+laatste_update: 1995-10-05
+status: geldig
+toestand: 1995-10-05
+bron: "https://wetten.overheid.nl/BWBR0007546"
+opgehaald: 2026-08-02
 ---
+
 # Instelling Commissie werkbelasting strafkamer Hoge Raad
-
-Overwegende dat het wenselijk is, gelet op de werkbelasting van de strafkamer van de Hoge Raad, te onderzoeken of er mogelijkheden zijn in verband met de grote instroom van zaken de belasting van deze kamer te beperken.
-
-Besluit:
 
 ##### Artikel 1
 

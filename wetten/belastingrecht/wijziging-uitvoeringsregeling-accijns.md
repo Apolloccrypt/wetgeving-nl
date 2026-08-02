@@ -1,46 +1,21 @@
 ---
 title: "Wijziging Uitvoeringsregeling accijns"
 identifier: "BWBR0006985"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-11-05"
-last_updated: "1994-11-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006985"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3798573"
-version_id: "5581342"
-internal_id: "C5774431"
-label_id: "3778224"
-dtd_version: "2.0"
-original_entry_into_force: "1994-11-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006985/1994-11-05/0"
-intitule_bron: "Stcrt.1994-212"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-10-27"
-intitule_published: "1994-11-03"
-intitule_in_force: "1994-11-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-212"
-original_signed_date: "1994-10-27"
-original_published_date: "1994-11-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-11-05"
-jci_1_3: "jci1.3:c:BWBR0006985&z=1994-11-05&g=1994-11-05"
-jci_1_0: "1.0:c:BWBR0006985&g=1994-11-05"
-citeertitel_status: "officieel"
-signed_date: "1994-10-27"
-entry_into_force: "1994-11-05"
+publicatiedatum: 1994-11-05
+laatste_update: 1994-11-05
+status: geldig
+toestand: 1994-11-05
+bron: "https://wetten.overheid.nl/BWBR0006985"
+opgehaald: 2026-08-02
 ---
+
 # Wijziging Uitvoeringsregeling accijns
-
-Gelet op [artikel 78, vierde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=78) (Stb. 1991, 561);
-
-Besluit:
 
 ##### Artikel I
 
-Wijzigt de Uitvoeringsregeling accijns.
+*Wijzigt de Uitvoeringsregeling accijns.*
 
 ##### Artikel II
 

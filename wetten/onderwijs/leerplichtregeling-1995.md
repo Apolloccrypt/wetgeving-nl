@@ -1,44 +1,17 @@
 ---
 title: "Leerplichtregeling 1995"
 identifier: "BWBR0007471"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-02-15"
-last_updated: "2014-02-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007471"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "5671523"
-version_id: "10155442"
-internal_id: "C13702201"
-label_id: "5652024"
-dtd_version: "2.0"
-original_entry_into_force: "1995-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007471/2014-02-15/0"
-intitule_bron: "Uitleg.1995-18a"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-07-04"
-intitule_published: "1995-07-12"
-intitule_in_force: "1995-07-12"
-intitule_status: "goed"
-original_publication: "Uitleg.1995-18a"
-original_signed_date: "1995-07-04"
-original_published_date: "1995-07-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-08-01"
-jci_1_3: "jci1.3:c:BWBR0007471&z=2014-02-15&g=2014-02-15"
-jci_1_0: "1.0:c:BWBR0007471&g=2014-02-15"
-citeertitel_status: "officieel"
-signed_date: "1995-07-04"
-entry_into_force: "1995-08-01"
+publicatiedatum: 1995-08-01
+laatste_update: 2014-02-15
+status: geldig
+toestand: 2014-02-15
+bron: "https://wetten.overheid.nl/BWBR0007471"
+opgehaald: 2026-08-02
 ---
+
 # Leerplichtregeling 1995
-
-Handelende in overeenstemming met de minister van landbouw, natuurbeheer en visserij;
-
-Gelet op de [artikelen 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=16), en [29, eerste lid, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=29);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -50,9 +23,9 @@ Deze regeling verstaat onder:
 
 - c. leerling:
 
-- 1. leerplichtige jongere,
+   - 1 leerplichtige jongere,
 
-- 2. partieel leerplichige jongere.
+   - 2 partieel leerplichige jongere.
 
 ##### Artikel 2. Verantwoordelijkheid hoofd
 

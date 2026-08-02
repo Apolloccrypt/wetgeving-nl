@@ -1,42 +1,17 @@
 ---
 title: "Instelling Stuurgroep ontvlechting parketpolitietaken"
 identifier: "BWBR0007101"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-12-23"
-last_updated: "1994-12-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007101"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3729003"
-version_id: "5511892"
-internal_id: "C5704981"
-label_id: "3708774"
-dtd_version: "2.0"
-original_entry_into_force: "1994-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007101/1994-12-23/0"
-intitule_bron: "Stcrt.1994-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-14"
-intitule_published: "1994-12-22"
-intitule_in_force: "1994-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-247"
-original_signed_date: "1994-12-14"
-original_published_date: "1994-12-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-12-23"
-jci_1_3: "jci1.3:c:BWBR0007101&z=1994-12-23&g=1994-12-23"
-jci_1_0: "1.0:c:BWBR0007101&g=1994-12-23"
-citeertitel_status: "officieel"
-signed_date: "1994-12-14"
-entry_into_force: "1994-12-23"
+publicatiedatum: 1994-12-23
+laatste_update: 1994-12-23
+status: geldig
+toestand: 1994-12-23
+bron: "https://wetten.overheid.nl/BWBR0007101"
+opgehaald: 2026-08-02
 ---
+
 # Instelling Stuurgroep ontvlechting parketpolitietaken
-
-Overwegende dat een adequate rechtshandhaving een optimale uitvoering van de parketpolitietaken vereist,
-
-Besluit:
 
 ##### Artikel 1
 

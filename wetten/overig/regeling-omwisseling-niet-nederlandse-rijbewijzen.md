@@ -1,42 +1,17 @@
 ---
 title: "Regeling omwisseling niet-Nederlandse rijbewijzen"
 identifier: "BWBR0008041"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008041"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4540883"
-version_id: "6347132"
-internal_id: "C6591601"
-label_id: "4519204"
-dtd_version: "2.0"
-original_entry_into_force: "1996-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008041/2021-01-01/0"
-intitule_bron: "Stcrt.1996-101"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-05-14"
-intitule_published: "1996-05-30"
-intitule_in_force: "1996-05-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-101"
-original_signed_date: "1996-05-14"
-original_published_date: "1996-05-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-06-01"
-jci_1_3: "jci1.3:c:BWBR0008041&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0008041&g=2021-01-01"
-citeertitel_status: "officieel"
-signed_date: "1996-05-14"
-entry_into_force: "1996-06-01"
+publicatiedatum: 1996-06-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0008041"
+opgehaald: 2026-08-02
 ---
+
 # Regeling omwisseling niet-Nederlandse rijbewijzen
-
-Gelet op [artikel 46, derde lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=46);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -50,11 +25,11 @@ Voor omwisseling tegen een Nederlands rijbewijs komen in aanmerking de door de h
 
 - Gibraltar en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland: alle rijbewijscategorieën, indien de houder:
 
-- a. op of na 1 januari 2021 in Nederland is komen te wonen, mits het om te wisselen rijbewijs geen voorlopig rijbewijs (‘provisional driving licence’) of een learners permit betreft
+   - a. op of na 1 januari 2021 in Nederland is komen te wonen, mits het om te wisselen rijbewijs geen voorlopig rijbewijs (‘provisional driving licence’) of een learners permit betreft
 
-- b. in de periode tussen 1 februari 2020 en 1 januari 2021 in Nederland is komen te wonen, maar niet voor 1 januari 2021 een omwisselingsaanvraag heeft gedaan, mits het om te wisselen rijbewijs geen voorlopig rijbewijs (‘provisional driving licence’) of een learners permit betreft
+   - b. in de periode tussen 1 februari 2020 en 1 januari 2021 in Nederland is komen te wonen, maar niet voor 1 januari 2021 een omwisselingsaanvraag heeft gedaan, mits het om te wisselen rijbewijs geen voorlopig rijbewijs (‘provisional driving licence’) of een learners permit betreft
 
-- c. voor 1 februari 2020 in Nederland is komen te wonen, maar niet voor 1 mei 2021 een omwisselingsaanvraag heeft gedaan, mits het om te wisselen rijbewijs geen voorlopig rijbewijs (‘provisional driving licence’) of een learners permit betreft
+   - c. voor 1 februari 2020 in Nederland is komen te wonen, maar niet voor 1 mei 2021 een omwisselingsaanvraag heeft gedaan, mits het om te wisselen rijbewijs geen voorlopig rijbewijs (‘provisional driving licence’) of een learners permit betreft
 
 - Guernsey: alle rijbewijscategorieën, mits het om te wisselen rijbewijs geen voorlopig rijbewijs (‘provisional driving licence’) of een learners permit betreft
 
@@ -95,5 +70,3 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling omwisseling niet-Nederlandse rijbewijzen.
-
-Deze regeling zal worden geplaatst in de Staatscourant.

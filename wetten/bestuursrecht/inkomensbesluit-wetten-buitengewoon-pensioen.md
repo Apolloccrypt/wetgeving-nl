@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 4 november 1994, houdende nadere regels met betrekking tot de vaststelling van het maandinkomen, bedoeld in de artikelen 31e, tweede lid, van de Wet buitengewoon pensioen 1940-1945, 28e, tweede lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers en 35a, tweede lid, van de Wet buitengewoon pensioen Indisch verzet (Inkomensbesluit wetten buitengewoon pensioen)"
+citeertitel: "Inkomensbesluit wetten buitengewoon pensioen"
 identifier: "BWBR0007007"
-country: "nl"
-rank: "amvb"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007007"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "347933"
-version_id: "511442"
-internal_id: "C511441"
-label_id: "340034"
-dtd_version: "2.0"
-original_entry_into_force: "1994-12-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007007/2011-01-01/0"
-intitule_bron: "Stb.1994-885"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-11-04"
-intitule_status: "goed"
-original_publication: "Stb.1994-885"
-original_signed_date: "1994-11-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-12-29"
-jci_1_3: "jci1.3:c:BWBR0007007&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0007007&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Inkomensbesluit wetten buitengewoon pensioen"
-signed_date: "1994-11-04"
-entry_into_force: "1994-12-29"
+publicatiedatum: 1994-12-29
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0007007"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 4 november 1994, houdende nadere regels met betrekking tot de vaststelling van het maandinkomen, bedoeld in de artikelen 31e, tweede lid, van de Wet buitengewoon pensioen 1940-1945, 28e, tweede lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers en 35a, tweede lid, van de Wet buitengewoon pensioen Indisch verzet (Inkomensbesluit wetten buitengewoon pensioen)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 15 september 1994, DVVB/WUP/U-941166;
-
-Gelet op de [artikelen 31**e**, tweede lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=31e), 28**e**, tweede lid, van de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) en 35**a**, tweede lid, van de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968);
-
-Gezien de adviezen van de Pensioen- en Uitkeringsraad, de Stichting 1940-1945, de Stichting Pelita en de Commissie Indisch Verzet;
-
-De Raad van State gehoord (advies van 12 oktober 1994, no. W13.94.0568);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 19 oktober 1994, nr. DVVB/WUP/U-941415;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -78,10 +48,8 @@ De voor de vaststelling van het maandinkomen in aanmerking te nemen inkomsten va
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt terug tot en met 1 januari 1993.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt terug tot en met 1 januari 1993.
 
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Inkomensbesluit wetten buitengewoon pensioen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

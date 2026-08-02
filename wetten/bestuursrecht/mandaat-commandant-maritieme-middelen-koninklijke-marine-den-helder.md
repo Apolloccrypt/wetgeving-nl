@@ -1,42 +1,17 @@
 ---
 title: "Mandaat Commandant Maritieme Middelen Koninklijke marine Den Helder"
 identifier: "BWBR0007130"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-01-01"
-last_updated: "1995-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007130"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4001593"
-version_id: "5764652"
-internal_id: "C5967391"
-label_id: "3981584"
-dtd_version: "2.0"
-original_entry_into_force: "1995-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007130/1995-01-01/0"
-intitule_bron: "Stcrt.1994-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-19"
-intitule_published: "1994-12-30"
-intitule_in_force: "1994-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-252"
-original_signed_date: "1994-12-19"
-original_published_date: "1994-12-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-01-01"
-jci_1_3: "jci1.3:c:BWBR0007130&z=1995-01-01&g=1995-01-01"
-jci_1_0: "1.0:c:BWBR0007130&g=1995-01-01"
-citeertitel_status: "officieel"
-signed_date: "1994-12-19"
-entry_into_force: "1995-01-01"
+publicatiedatum: 1995-01-01
+laatste_update: 1995-01-01
+status: geldig
+toestand: 1995-01-01
+bron: "https://wetten.overheid.nl/BWBR0007130"
+opgehaald: 2026-08-02
 ---
+
 # Mandaat Commandant Maritieme Middelen Koninklijke marine Den Helder
-
-Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=5), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=7), en [8 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=8);
-
-Besluit:
 
 ##### Artikel 1
 

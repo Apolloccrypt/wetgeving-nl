@@ -1,44 +1,17 @@
 ---
 title: "Regeling 'Extra investeringsimpuls infrastructuur in het stads- en streekvervoer'"
 identifier: "BWBR0007961"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007961"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4428923"
-version_id: "6225522"
-internal_id: "C6429731"
-label_id: "4407604"
-dtd_version: "2.0"
-original_entry_into_force: "1996-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007961/2002-01-01/0"
-intitule_bron: "Stcrt.1996-66"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-03-25"
-intitule_published: "1996-04-02"
-intitule_in_force: "1996-04-02"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-66"
-original_signed_date: "1996-03-25"
-original_published_date: "1996-04-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-04-04"
-jci_1_3: "jci1.3:c:BWBR0007961&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0007961&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "1996-03-25"
-entry_into_force: "1996-04-04"
+publicatiedatum: 1996-04-04
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0007961"
+opgehaald: 2026-08-02
 ---
+
 # Regeling 'Extra investeringsimpuls infrastructuur in het stads- en streekvervoer'
-
-Na overleg met de Ministers van Binnenlandse Zaken en Financiën;
-
-Gezien het rapport van bevindingen van het Overlegorgaan Personenvervoer van 26 februari 1996, alsmede de adviezen en schriftelijke reacties van Provincies en regionaal openbare lichamen en gemeenten met lokaal openbaar vervoer;
-
-Besluit:
 
 #### I. Algemene bepalingen
 
@@ -46,25 +19,25 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- 1. **Regionaal openbaar lichaam:** krachtens de [Kaderwet bestuur in verandering](https://wetten.overheid.nl/jci1.3:c:BWBR0006620) ingesteld regionaal openbaar lichaam.
+- 1. *Regionaal openbaar lichaam:* krachtens de [Kaderwet bestuur in verandering](https://wetten.overheid.nl/jci1.3:c:BWBR0006620) ingesteld regionaal openbaar lichaam.
 
-- 2. **Dagelijks bestuur:** dagelijks bestuur van een regionaal openbaar lichaam dan wel van een bij gemeenschappelijke regeling ingesteld openbaar lichaam, als bedoeld in artikel 24 of 25, eerste lid, van de Wet personenvervoer.
+- 2. *Dagelijks bestuur:* dagelijks bestuur van een regionaal openbaar lichaam dan wel van een bij gemeenschappelijke regeling ingesteld openbaar lichaam, als bedoeld in artikel 24 of 25, eerste lid, van de Wet personenvervoer.
 
 - 3. Gemeente: een gemeente die is aangewezen op grond van artikel 39 van de Wet personenvervoer.
 
-- 4. **Project:** Een op zichzelf staande investering gericht op dan wel samenhangend met snelheidsbevorderende maatregelen in o.v.-infrastructuur.
+- 4. *Project:* Een op zichzelf staande investering gericht op dan wel samenhangend met snelheidsbevorderende maatregelen in o.v.-infrastructuur.
 
-- 5. **O.v-infrastructuur:** Infrastructurele voorzieningen voor het lokaal en interlokaal openbaar vervoer per auto, (trolley)bus, (snel)tram en metro.
+- 5. *O.v-infrastructuur:* Infrastructurele voorzieningen voor het lokaal en interlokaal openbaar vervoer per auto, (trolley)bus, (snel)tram en metro.
 
-- 6. **Reizigerskilometer:** vervoerprestatie die wordt volbracht wanneer één passagier met een geldig vervoerbewijs over één voertuigkilometer wordt vervoerd.
+- 6. *Reizigerskilometer:* vervoerprestatie die wordt volbracht wanneer één passagier met een geldig vervoerbewijs over één voertuigkilometer wordt vervoerd.
 
-- 7. **Voertuigkilometer:** Kilometer afgelegd door een auto, (trolley)bus, (snel)tram of metro.
+- 7. *Voertuigkilometer:* Kilometer afgelegd door een auto, (trolley)bus, (snel)tram of metro.
 
-- 8. **Nationaal Tariefsysteem (NTS):** Het tariefsysteem, bedoeld in de Regeling vaststelling tarieven en modellen van vervoerbewijzen, met uitzondering van de vervoerbewijzen voor openbaar vervoer per buurtbus, alsmede met inbegrip van vervoerbewijzen en de eventueel daarmee samenhangende opbrengstderving welke conform artikel 45 van het besluit personenvervoer zijn goedgekeurd.
+- 8. *Nationaal Tariefsysteem (NTS):* Het tariefsysteem, bedoeld in de Regeling vaststelling tarieven en modellen van vervoerbewijzen, met uitzondering van de vervoerbewijzen voor openbaar vervoer per buurtbus, alsmede met inbegrip van vervoerbewijzen en de eventueel daarmee samenhangende opbrengstderving welke conform artikel 45 van het besluit personenvervoer zijn goedgekeurd.
 
-- 9. **IMOC:** Index materiële overheidsconsumptie voor een bepaald jaar volgens de Macro Economische Verkenning voor dat jaar.
+- 9. *IMOC:* Index materiële overheidsconsumptie voor een bepaald jaar volgens de Macro Economische Verkenning voor dat jaar.
 
-- 10. **De minister:** de Minister van Verkeer en Waterstaat.
+- 10. *De minister:* de Minister van Verkeer en Waterstaat.
 
 ##### Artikel 2
 
@@ -154,7 +127,7 @@ verstande dat:
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 #### III. Wijze van indiening en te stellen eisen aan projecten
 
@@ -283,5 +256,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dag-tekening 
 ##### Artikel 19
 
 Deze regeling kan worden aangehaald als: Regeling ’Extra investerings-impuls infrastructuur in het stads- en streekvervoer’.
-
-Deze regeling wordt met toelichting maar zonder bijlagen in de Staatscou-rant geplaatst. De bijlagen liggen ter inzage ten kantore van de Directeur-Generaal voor het Vervoer en de regionale directies van Rijkswaterstaat.

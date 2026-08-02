@@ -1,54 +1,18 @@
 ---
 title: "Besluit van 10 mei 1995, houdende nadere regels met betrekking tot de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau"
+citeertitel: "Reglement op de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau"
 identifier: "BWBR0007391"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007391"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "774223"
-version_id: "1124032"
-internal_id: "C1124031"
-label_id: "750454"
-dtd_version: "2.0"
-original_entry_into_force: "1995-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007391/2010-10-10/0"
-intitule_bron: "Stb.1995-264"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-05-10"
-intitule_published: "1995-05-16"
-intitule_in_force: "1995-05-16"
-intitule_status: "goed"
-original_publication: "Stb.1995-264"
-original_signed_date: "1995-05-10"
-original_published_date: "1995-05-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1995-264"
-entry_into_force_date: "1995-08-01"
-jci_1_3: "jci1.3:c:BWBR0007391&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0007391&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Reglement op de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau"
-signed_date: "1995-05-10"
-entry_into_force: "1995-08-01"
+publicatiedatum: 1995-08-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0007391"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 10 mei 1995, houdende nadere regels met betrekking tot de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 10 maart 1994, Directoraat-Generaal Openbaar Bestuur;
-
-Gelet op artikel 14 van de wet van 29 september 1815, houdende instelling van de Orde van de Nederlandse Leeuw (**Stb.** 1994, 352) en op artikel 13 van de wet van 4 april 1892, houdende instelling van de Orde van Oranje-Nassau (**Stb.** 1994, 351);
-
-Gezien het advies van het Kapittel voor de civiele orden;
-
-De Raad van State van het Koninkrijk gehoord (advies van 13 april 1995, No. W04.95.0151/K);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 8 mei 1995, Stafafdeling Constitutionele Zaken en Wetgeving;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Verleningscriteria
 
@@ -82,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-In de artikelen 4 en 5 worden onder versiersel en lint verstaan het versiersel en het lint, zoals omschreven in artikel 7 van de wet van 29 september 1815, houdende instelling van de Orde van de Nederlandse Leeuw (**Stb.** 1994, 352).
+In de artikelen 4 en 5 worden onder versiersel en lint verstaan het versiersel en het lint, zoals omschreven in artikel 7 van de wet van 29 september 1815, houdende instelling van de Orde van de Nederlandse Leeuw (*Stb.* 1994, 352).
 
 ##### Artikel 4
 
@@ -90,37 +54,37 @@ De uit te reiken onderscheidingstekens zijn voor de onderscheiden graden van:
 
 - a. Ridder Grootkruis:
 
-- 1°. het versiersel waarvan het kruis een diameter heeft van 60 millimeter, hangende aan het lint, opgemaakt in de vorm van een sjerp, die wordt gedragen van de rechterschouder naar de linkerheup. Het lint voor mannen is 101 millimeter en voor vrouwen 68 millimeter breed;
+   - 1°. het versiersel waarvan het kruis een diameter heeft van 60 millimeter, hangende aan het lint, opgemaakt in de vorm van een sjerp, die wordt gedragen van de rechterschouder naar de linkerheup. Het lint voor mannen is 101 millimeter en voor vrouwen 68 millimeter breed;
 
-- 2°. de ster, bestaande uit het versiersel zonder kroon met een diameter van 73 millimeter, bevestigd op een achtpuntige, uit achtenveertig stralen bestaande, licht bolvormige gouden ster met een diameter van 85 millimeter. De stralen van de ster zijn om en om geschubd en alle aan de uiteinden geknopt. De ster wordt direct boven het middel gedragen op de linkerzijde van de kleding. De ster en het onder 1° bedoelde onderscheidingsteken worden uitsluitend tezamen gedragen;
+   - 2°. de ster, bestaande uit het versiersel zonder kroon met een diameter van 73 millimeter, bevestigd op een achtpuntige, uit achtenveertig stralen bestaande, licht bolvormige gouden ster met een diameter van 85 millimeter. De stralen van de ster zijn om en om geschubd en alle aan de uiteinden geknopt. De ster wordt direct boven het middel gedragen op de linkerzijde van de kleding. De ster en het onder 1° bedoelde onderscheidingsteken worden uitsluitend tezamen gedragen;
 
-- 3°. het draagteken, zijnde het in rozetvorm opgemaakte lint waarachter een balk van goudgalon is bevestigd. Het geheel is bevestigd op een strik. Het draagteken wordt gedragen in plaats van de onder 1° en 2° genoemde onderscheidingstekens.
+   - 3°. het draagteken, zijnde het in rozetvorm opgemaakte lint waarachter een balk van goudgalon is bevestigd. Het geheel is bevestigd op een strik. Het draagteken wordt gedragen in plaats van de onder 1° en 2° genoemde onderscheidingstekens.
 
 - b. Commandeur:
 
-- 1°. het versiersel waarvan het kruis een diameter heeft van 60 millimeter, hangende aan het lint, dat door mannen om de hals en door vrouwen opgemaakt in de vorm van een strik op borsthoogte op de linkerzijde van de kleding wordt gedragen. Het lint is voor mannen 55 millimeter en voor vrouwen 37 millimeter breed;
+   - 1°. het versiersel waarvan het kruis een diameter heeft van 60 millimeter, hangende aan het lint, dat door mannen om de hals en door vrouwen opgemaakt in de vorm van een strik op borsthoogte op de linkerzijde van de kleding wordt gedragen. Het lint is voor mannen 55 millimeter en voor vrouwen 37 millimeter breed;
 
-- 2°. de ster, bestaande uit het versiersel waarvan het kruis een diameter heeft van 79 millimeter, dat direct boven het middel wordt gedragen op de linkerzijde van de kleding. De ster en het onder 1° bedoelde onderscheidingsteken worden uitsluitend tezamen gedragen;
+   - 2°. de ster, bestaande uit het versiersel waarvan het kruis een diameter heeft van 79 millimeter, dat direct boven het middel wordt gedragen op de linkerzijde van de kleding. De ster en het onder 1° bedoelde onderscheidingsteken worden uitsluitend tezamen gedragen;
 
-- 3°. het draagteken, zijnde het in rozetvorm opgemaakte lint, waarachter een balk van zilvergalon is bevestigd. Het geheel is bevestigd op een strik. Het draagteken wordt gedragen in plaats van de onder 1° en 2° genoemde onderscheidingstekens.
+   - 3°. het draagteken, zijnde het in rozetvorm opgemaakte lint, waarachter een balk van zilvergalon is bevestigd. Het geheel is bevestigd op een strik. Het draagteken wordt gedragen in plaats van de onder 1° en 2° genoemde onderscheidingstekens.
 
 - c. Ridder:
 
-- 1°. het versiersel waarvan het kruis een diameter heeft van 46 millimeter, hangende aan het lint, dat op borsthoogte wordt gedragen op de linkerzijde van de kleding. Het lint voor mannen is 37 millimeter breed. Het lint voor vrouwen is 27 millimeter breed en is opgemaakt in de vorm van een strik;
+   - 1°. het versiersel waarvan het kruis een diameter heeft van 46 millimeter, hangende aan het lint, dat op borsthoogte wordt gedragen op de linkerzijde van de kleding. Het lint voor mannen is 37 millimeter breed. Het lint voor vrouwen is 27 millimeter breed en is opgemaakt in de vorm van een strik;
 
-- 2°. het draagteken, opgemaakt in de vorm van een strik. Het wordt gedragen in plaats van het onder 1° genoemde onderscheidingsteken.
+   - 2°. het draagteken, opgemaakt in de vorm van een strik. Het wordt gedragen in plaats van het onder 1° genoemde onderscheidingsteken.
 
 ##### Artikel 5
 
 1. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10) genoemde versierselen met lint kunnen in een verkleinde vorm worden gedragen in plaats van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10) genoemde onderscheidingstekens.
 
-2. Leden van de Orde die een uniform dragen kunnen het draagteken in de vorm van een bâton van 27 bij 11 millimeter dragen. Indien de graad van Ridder Grootkruis of Commandeur is verleend, wordt op de bâton een rozet met daarachter een balk als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10), respectievelijk onderdeel **a**, onder 3°, en onderdeel **b**, onder 3°, bevestigd.
+2. Leden van de Orde die een uniform dragen kunnen het draagteken in de vorm van een bâton van 27 bij 11 millimeter dragen. Indien de graad van Ridder Grootkruis of Commandeur is verleend, wordt op de bâton een rozet met daarachter een balk als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10), respectievelijk onderdeel *a*, onder 3°, en onderdeel *b*, onder 3°, bevestigd.
 
 #### § 2. De onderscheidingstekens van de Orde van Oranje-Nassau
 
 ##### Artikel 6
 
-In de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=2&artikel=8&z=2010-10-10&g=2010-10-10) worden onder versiersel en lint verstaan het versiersel en lint, zoals omschreven in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001859&artikel=7) van de wet van 4 april 1892, houdende instelling van de Orde van Oranje-Nassau (**Stb.** 1994, 351).
+In de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=2&artikel=8&z=2010-10-10&g=2010-10-10) worden onder versiersel en lint verstaan het versiersel en lint, zoals omschreven in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001859&artikel=7) van de wet van 4 april 1892, houdende instelling van de Orde van Oranje-Nassau (*Stb.* 1994, 351).
 
 ##### Artikel 7
 
@@ -128,49 +92,49 @@ De uit te reiken onderscheidingstekens zijn voor de onderscheiden graden van:
 
 - a. Ridder Grootkruis:
 
-- 1°. het versiersel waarvan het kruis een diameter heeft van 60 millimeter, hangende aan het lint, opgemaakt in de vorm van een sjerp, die wordt gedragen van de rechterschouder naar de linkerheup. Het lint voor mannen is 101 millimeter en voor vrouwen 68 millimeter breed;
+   - 1°. het versiersel waarvan het kruis een diameter heeft van 60 millimeter, hangende aan het lint, opgemaakt in de vorm van een sjerp, die wordt gedragen van de rechterschouder naar de linkerheup. Het lint voor mannen is 101 millimeter en voor vrouwen 68 millimeter breed;
 
-- 2°. de ster, bestaande uit een blauw geëmailleerd rond schild, omgeven door een wit geëmailleerde rand, beide met goud omlijst met een diameter van 48 millimeter, bevestigd op een achtpuntige, uit achtenveertig stralen bestaande zilveren ster met een diameter van 85 millimeter. Op het schild staan afgebeeld de Leeuw en de omschrift, zoals omschreven in artikel 7, eerste lid, van de wet. Op de witte rand is aan de onderzijde een laurierkrans aangebracht. Voor militairen bevinden zich achter het schild twee schuin gekruiste zwaarden, zoals omschreven in artikel 7, tweede lid, van de wet. De ster wordt direct boven het middel gedragen op de linkerzijde van de kleding. De ster en het onder 1° bedoelde onderscheidingsteken worden uitsluitend tezamen gedragen;
+   - 2°. de ster, bestaande uit een blauw geëmailleerd rond schild, omgeven door een wit geëmailleerde rand, beide met goud omlijst met een diameter van 48 millimeter, bevestigd op een achtpuntige, uit achtenveertig stralen bestaande zilveren ster met een diameter van 85 millimeter. Op het schild staan afgebeeld de Leeuw en de omschrift, zoals omschreven in artikel 7, eerste lid, van de wet. Op de witte rand is aan de onderzijde een laurierkrans aangebracht. Voor militairen bevinden zich achter het schild twee schuin gekruiste zwaarden, zoals omschreven in artikel 7, tweede lid, van de wet. De ster wordt direct boven het middel gedragen op de linkerzijde van de kleding. De ster en het onder 1° bedoelde onderscheidingsteken worden uitsluitend tezamen gedragen;
 
-- 3°. het draagteken, zijnde het in rozetvorm opgemaakte lint waarachter een balk van goudgalon is bevestigd. Het geheel is bevestigd op een strik. Het draagteken wordt gedragen in plaats van de onder 1° en 2° genoemde onderscheidingstekens.
+   - 3°. het draagteken, zijnde het in rozetvorm opgemaakte lint waarachter een balk van goudgalon is bevestigd. Het geheel is bevestigd op een strik. Het draagteken wordt gedragen in plaats van de onder 1° en 2° genoemde onderscheidingstekens.
 
 - b. Grootofficier:
 
-- 1°. het versiersel waarvan het kruis een diameter heeft van 60 millimeter, hangende aan het lint, dat door mannen om de hals en door vrouwen opgemaakt in de vorm van een strik op borsthoogte op de linkerzijde van de kleding wordt gedragen. Het lint voor mannen is 55 millimeter en voor vrouwen 37 millimeter breed;
+   - 1°. het versiersel waarvan het kruis een diameter heeft van 60 millimeter, hangende aan het lint, dat door mannen om de hals en door vrouwen opgemaakt in de vorm van een strik op borsthoogte op de linkerzijde van de kleding wordt gedragen. Het lint voor mannen is 55 millimeter en voor vrouwen 37 millimeter breed;
 
-- 2°. de ster, bestaande uit het schild, zoals omschreven in onderdeel **a**, onder 2°, bevestigd op een vierpuntige, uit achtenveertig stralen bestaande zilveren ster met een diameter van 85 millimeter. De ster wordt direct boven het middel gedragen op de linkerzijde van de kleding. De ster en het onder 1° bedoelde onderscheidingsteken worden uitsluitend tezamen gedragen;
+   - 2°. de ster, bestaande uit het schild, zoals omschreven in onderdeel *a*, onder 2°, bevestigd op een vierpuntige, uit achtenveertig stralen bestaande zilveren ster met een diameter van 85 millimeter. De ster wordt direct boven het middel gedragen op de linkerzijde van de kleding. De ster en het onder 1° bedoelde onderscheidingsteken worden uitsluitend tezamen gedragen;
 
-- 3°. het draagteken, zijnde het in rozetvorm opgemaakte lint, waarachter een balk van goudgalon aan de ene zijde en een balk van zilvergalon aan de andere zijde is bevestigd. Het geheel is bevestigd op een strik. Het draagteken wordt gedragen in plaats van de onder 1° en 2° genoemde onderscheidingstekens.
+   - 3°. het draagteken, zijnde het in rozetvorm opgemaakte lint, waarachter een balk van goudgalon aan de ene zijde en een balk van zilvergalon aan de andere zijde is bevestigd. Het geheel is bevestigd op een strik. Het draagteken wordt gedragen in plaats van de onder 1° en 2° genoemde onderscheidingstekens.
 
 - c. Commandeur:
 
-- 1°. het onderscheidingsteken, zoals omschreven in onderdeel **b**, onder 1°;
+   - 1°. het onderscheidingsteken, zoals omschreven in onderdeel *b*, onder 1°;
 
-- 2°. het draagteken, zijnde het in rozetvorm opgemaakte lint, waarachter een balk van zilvergalon is bevestigd. Het geheel is bevestigd op een strik. Het draagteken wordt gedragen in plaats van het onder 1° genoemde onderscheidingsteken.
+   - 2°. het draagteken, zijnde het in rozetvorm opgemaakte lint, waarachter een balk van zilvergalon is bevestigd. Het geheel is bevestigd op een strik. Het draagteken wordt gedragen in plaats van het onder 1° genoemde onderscheidingsteken.
 
 - d. Officier:
 
-- 1°. het versiersel waarvan het kruis een diameter heeft van 46 millimeter, hangende aan het lint, voorzien van een rozet in de kleuren van het lint, dat op borsthoogte op de linkerzijde van de kleding wordt gedragen. Het lint voor mannen is 37 millimeter en voor vrouwen 27 millimeter breed. Vrouwen dragen het lint opgemaakt in de vorm van een strik;
+   - 1°. het versiersel waarvan het kruis een diameter heeft van 46 millimeter, hangende aan het lint, voorzien van een rozet in de kleuren van het lint, dat op borsthoogte op de linkerzijde van de kleding wordt gedragen. Het lint voor mannen is 37 millimeter en voor vrouwen 27 millimeter breed. Vrouwen dragen het lint opgemaakt in de vorm van een strik;
 
-- 2°. het draagteken, zijnde het in rozetvorm opgemaakte lint. Het geheel is bevestigd op een strik. Het draagteken wordt gedragen in plaats van het onder 1° genoemde onderscheidingsteken.
+   - 2°. het draagteken, zijnde het in rozetvorm opgemaakte lint. Het geheel is bevestigd op een strik. Het draagteken wordt gedragen in plaats van het onder 1° genoemde onderscheidingsteken.
 
 - e. Ridder:
 
-- 1°. het versiersel waarvan het kruis een diameter heeft van 46 millimeter, hangende aan het lint, dat op borsthoogte op de linkerzijde van de kleding wordt gedragen. Het lint voor mannen is 37 millimeter en voor vrouwen 27 millimeter. Vrouwen dragen het lint opgemaakt in de vorm van een strik;
+   - 1°. het versiersel waarvan het kruis een diameter heeft van 46 millimeter, hangende aan het lint, dat op borsthoogte op de linkerzijde van de kleding wordt gedragen. Het lint voor mannen is 37 millimeter en voor vrouwen 27 millimeter. Vrouwen dragen het lint opgemaakt in de vorm van een strik;
 
-- 2°. het draagteken, zijnde het lint, opgemaakt in de vorm van een strik, waaraan is toegevoegd een kleine zilveren kroon. Het draagteken wordt gedragen in plaats van het onder 1° genoemde onderscheidingsteken.
+   - 2°. het draagteken, zijnde het lint, opgemaakt in de vorm van een strik, waaraan is toegevoegd een kleine zilveren kroon. Het draagteken wordt gedragen in plaats van het onder 1° genoemde onderscheidingsteken.
 
 - f. Lid:
 
-- 1°. het versiersel waarvan het kruis een diameter heeft van 35 millimeter, hangende aan het lint met een breedte van 27 millimeter, dat op borsthoogte op de linkerzijde van de kleding wordt gedragen. Vrouwen dragen het lint opgemaakt in de vorm van een strik;
+   - 1°. het versiersel waarvan het kruis een diameter heeft van 35 millimeter, hangende aan het lint met een breedte van 27 millimeter, dat op borsthoogte op de linkerzijde van de kleding wordt gedragen. Vrouwen dragen het lint opgemaakt in de vorm van een strik;
 
-- 2°. het draagteken, zijnde het lint, opgemaakt in de vorm van een strik. Het draagteken wordt gedragen in plaats van het onder 1° genoemde onderscheidingsteken.
+   - 2°. het draagteken, zijnde het lint, opgemaakt in de vorm van een strik. Het draagteken wordt gedragen in plaats van het onder 1° genoemde onderscheidingsteken.
 
 ##### Artikel 8
 
 1. De in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10) genoemde versierselen met lint kunnen in een verkleinde vorm worden gedragen in plaats van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10) genoemde onderscheidingstekens.
 
-2. Leden van de Orde die een uniform dragen kunnen het draagteken in de vorm van een bâton van 27 bij 11 millimeter dragen. Indien de graad van Ridder Grootkruis, Grootofficier of Commandeur is verleend, wordt op de bâton een rozet met daarachter een balk als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10), respectievelijk onderdeel **a**, onder 3°, onderdeel **b**, onder 3°, en onderdeel **c**, onder 2°, bevestigd. Indien de graad van Officier, dan wel Ridder is verleend, wordt op de bâton een rozet respectievelijk een kleine zilveren kroon bevestigd.
+2. Leden van de Orde die een uniform dragen kunnen het draagteken in de vorm van een bâton van 27 bij 11 millimeter dragen. Indien de graad van Ridder Grootkruis, Grootofficier of Commandeur is verleend, wordt op de bâton een rozet met daarachter een balk als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10), respectievelijk onderdeel *a*, onder 3°, onderdeel *b*, onder 3°, en onderdeel *c*, onder 2°, bevestigd. Indien de graad van Officier, dan wel Ridder is verleend, wordt op de bâton een rozet respectievelijk een kleine zilveren kroon bevestigd.
 
 ### Hoofdstuk III. Procedure
 
@@ -180,7 +144,7 @@ De uit te reiken onderscheidingstekens zijn voor de onderscheiden graden van:
 
 2. De burgemeester of de gezaghebber zendt het voorstel met zijn advies aan de commissaris van de Koning onderscheidenlijk de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-3. De commissaris van de Koning of de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba zendt het voorstel met zijn advies en het advies van de burgemeester onderscheidenlijk de gezaghebber aan het Kapittel voor de civiele orden, genoemd in [artikel III van de rijkswet van 15 april 1994 tot wijziging van de wet van 4 april 1892, houdende instelling van de Orde van Oranje Nassau, en de wet van 29 september 1815, houdende instelling van de Orde van de Nederlandse Leeuw, alsmede instelling van het Kapittel voor de civiele orden](https://wetten.overheid.nl/jci1.3:c:BWBR0006597&artikel=III) (**Stb.** 1994, 350).
+3. De commissaris van de Koning of de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba zendt het voorstel met zijn advies en het advies van de burgemeester onderscheidenlijk de gezaghebber aan het Kapittel voor de civiele orden, genoemd in [artikel III van de rijkswet van 15 april 1994 tot wijziging van de wet van 4 april 1892, houdende instelling van de Orde van Oranje Nassau, en de wet van 29 september 1815, houdende instelling van de Orde van de Nederlandse Leeuw, alsmede instelling van het Kapittel voor de civiele orden](https://wetten.overheid.nl/jci1.3:c:BWBR0006597&artikel=III) (*Stb.* 1994, 350).
 
 4. Het Kapittel zendt het voorstel met zijn advies aan Onze Minister wie het aangaat. Het Kapittel houdt de stukken die betrekking hebben op de voorbereiding van zijn adviezen ter beschikking van Onze Minister wie het aangaat.
 
@@ -195,6 +159,12 @@ De uit te reiken onderscheidingstekens zijn voor de onderscheiden graden van:
 1. Een voorstel tot verlening van een onderscheiding aan een burgemeester wordt gericht aan de commissaris van de Koning van de provincie waarin de burgemeester woont. De commissaris zendt het voorstel met zijn advies aan het Kapittel. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), vierde tot en met zevende lid, is van toepassing.
 
 2. Een voorstel tot verlening van een onderscheiding aan een commissaris van de Koning wordt gericht aan de burgemeester van de woonplaats van de commissaris. De burgemeester zendt het voorstel met zijn advies aan het Kapittel. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), vierde tot en met zevende lid, is van toepassing.
+
+##### Artikel 10a
+
+1. Een voorstel tot verlening van een onderscheiding aan een gezaghebber wordt gericht aan de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba. De Rijksvertegenwoordiger zendt het voorstel met zijn advies aan het Kapittel. [Artikel 9, vierde lid tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), is van toepassing.
+
+2. Een voorstel tot verlening van een onderscheiding aan de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba wordt gericht aan de gezaghebber van Bonaire. De gezaghebber van Bonaire zendt het voorstel met zijn advies aan het Kapittel. [Artikel 9, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), is van toepassing.
 
 ##### Artikel 11
 
@@ -278,20 +248,8 @@ De richtlijnen voor het verlenen van koninklijke onderscheidingen, zoals vastges
 
 ##### Artikel 21
 
-Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
 
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Reglement op de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
-
-##### Artikel 10a
-
-1. Een voorstel tot verlening van een onderscheiding aan een gezaghebber wordt gericht aan de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba. De Rijksvertegenwoordiger zendt het voorstel met zijn advies aan het Kapittel. [Artikel 9, vierde lid tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), is van toepassing.
-
-2. Een voorstel tot verlening van een onderscheiding aan de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba wordt gericht aan de gezaghebber van Bonaire. De gezaghebber van Bonaire zendt het voorstel met zijn advies aan het Kapittel. [Artikel 9, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), is van toepassing.
-
-### Hoofdstuk IV. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.

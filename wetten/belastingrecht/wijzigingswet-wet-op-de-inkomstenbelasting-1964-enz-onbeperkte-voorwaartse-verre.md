@@ -1,52 +1,26 @@
 ---
 title: "Wet van 23 december 1994, tot wijziging van de Wet op de inkomstenbelasting 1964 en de Wet op de vennootschapsbelasting 1969 (onbeperkte voorwaartse verrekening van ondernemingsverliezen en vaststelling van verliezen bij beschikking)"
+citeertitel: "Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (onbeperkte voorwaartse verrekening van ondernemingsverliezen en vaststelling van verliezen bij beschikking)"
 identifier: "BWBR0007174"
-country: "nl"
-rank: "wet"
-publication_date: "1994-12-30"
-last_updated: "1994-12-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007174"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "533983"
-version_id: "783482"
-internal_id: "C783481"
-label_id: "518544"
-dtd_version: "2.0"
-original_entry_into_force: "1994-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007174/1994-12-30/0"
-intitule_bron: "Stb.1994-937"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-23"
-intitule_status: "goed"
-original_publication: "Stb.1994-937"
-original_signed_date: "1994-12-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "23962"
-entry_into_force_date: "1994-12-30"
-entry_into_force_dossier: "23962"
-jci_1_3: "jci1.3:c:BWBR0007174&z=1994-12-30&g=1994-12-30"
-jci_1_0: "1.0:c:BWBR0007174&g=1994-12-30"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (onbeperkte voorwaartse verrekening van ondernemingsverliezen en vaststelling van verliezen bij beschikking)"
-signed_date: "1994-12-23"
-entry_into_force: "1994-12-30"
+publicatiedatum: 1994-12-30
+laatste_update: 1994-12-30
+status: geldig
+toestand: 1994-12-30
+bron: "https://wetten.overheid.nl/BWBR0007174"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 23 december 1994, tot wijziging van de Wet op de inkomstenbelasting 1964 en de Wet op de vennootschapsbelasting 1969 (onbeperkte voorwaartse verrekening van ondernemingsverliezen en vaststelling van verliezen bij beschikking)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het mede met het oog op het fiscale vestigingsklimaat in Nederland wenselijk is, zowel voor de heffing van de inkomstenbelasting als voor de heffing van de vennootschapsbelasting, te bepalen dat ondernemingsverliezen onbeperkt voorwaarts kunnen worden verrekend, alsmede dat het wenselijk is te bepalen dat verliezen bij voor bezwaar vatbare beschikking worden vastgesteld;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
@@ -62,9 +36,9 @@ Bevat wijzigingen in andere regelgeving.
 
 6. Bij de berekening van het gezamenlijke bedrag is artikel 51, vierde en zevende lid, van de Wet op de inkomstenbelasting 1964, zoals dat luidt met betrekking tot de heffing over het kalenderjaar 1995, van overeenkomstige toepassing.
 
-7. Indien enig feit grond oplevert voor het vermoeden dat het in het tweede lid bedoelde bedrag te hoog is vastgesteld, kan de inspecteur de in dat lid bedoelde beschikking herzien bij voor bezwaar vatbare beschikking. Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor herziening opleveren, behoudens in de gevallen waarin de belastingplichtige ter zake van dit feit te kwader trouw is. Artikel 16, tweede lid, onderdeel **b**, derde en vierde lid, van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) is van overeenkomstige toepassing.
+7. Indien enig feit grond oplevert voor het vermoeden dat het in het tweede lid bedoelde bedrag te hoog is vastgesteld, kan de inspecteur de in dat lid bedoelde beschikking herzien bij voor bezwaar vatbare beschikking. Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor herziening opleveren, behoudens in de gevallen waarin de belastingplichtige ter zake van dit feit te kwader trouw is. Artikel 16, tweede lid, onderdeel *b*, derde en vierde lid, van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) is van overeenkomstige toepassing.
 
-8. Artikel 64, tweede lid, onderdeel **i**, en vierde lid, van de Wet op de inkomstenbelasting 1964, zoals dat luidt met betrekking tot de heffing over het kalenderjaar 1995 is van overeenkomstige toepassing.
+8. Artikel 64, tweede lid, onderdeel *i*, en vierde lid, van de Wet op de inkomstenbelasting 1964, zoals dat luidt met betrekking tot de heffing over het kalenderjaar 1995 is van overeenkomstige toepassing.
 
 ##### Artikel IV
 
@@ -80,10 +54,8 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel V
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.
 
 2. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007174&artikel=I&z=1994-12-30&g=1994-12-30) vindt voor het eerst toepassing met betrekking tot de heffing over het kalenderjaar 1995.
 
 3. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0007174&artikel=II&z=1994-12-30&g=1994-12-30) vindt voor het eerst toepassing met betrekking tot de heffing over het jaar dat aanvangt met of in het kalenderjaar 1995, met dien verstande dat onderdeel C.2 niet van toepassing is op de voorwaartse verrekening van verliezen die daarvoor door beleggingsinstellingen zijn geleden.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

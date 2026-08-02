@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-08-01",
+ "gegenereerd": "2026-08-02",
  "geverifieerd": true,
- "bwb_regelingen": 46430,
- "bwb_geldend": 22191,
+ "bwb_regelingen": 46499,
+ "bwb_geldend": 22192,
  "site_totaal": 22334,
- "site_geldend": 22177,
+ "site_geldend": 22178,
  "dekkingsgraad": 0.9994,
  "aantal_ontbrekend": 14,
- "aantal_ten_onrechte_geldig": 156,
+ "aantal_ten_onrechte_geldig": 155,
  "aantal_onbekend": 1,
  "ontbrekend": [
   {
@@ -83,20 +83,16 @@
  ],
  "ten_onrechte_geldig": [
   {
-   "id": "BWBR0006938",
-   "titel": "Vergoedingenregeling reiskosten Kiesraad"
-  },
-  {
    "id": "BWBR0007677",
    "titel": "Uitvoeringsregeling belasting zware motorrijtuigen"
   },
   {
    "id": "BWBR0007678",
-   "titel": "Wet belasting zware motorrijtuigen"
+   "titel": "Wet van 29 november 1995, tot goedkeuring van het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens alsmede invoering van een belasting met betrekking tot zware motorrijtuigen"
   },
   {
    "id": "BWBR0007679",
-   "titel": "Uitvoeringsbesluit belasting zware motorrijtuigen"
+   "titel": "Besluit van 29 november 1995, tot vaststelling van het Uitvoeringsbesluit belasting zware motorrijtuigen"
   },
   {
    "id": "BWBR0011531",
@@ -419,10 +415,6 @@
    "titel": "Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024"
   },
   {
-   "id": "BWBR0047084",
-   "titel": "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 augustus 2022, PO/F&V/33525597, houdende vaststelling van de bedragen voor personele bekostiging voor het primair onderwijs in Caribisch Nederland voor de eerste vijf maanden van het schooljaar 2022–2023 (Definitieve Regeling bekostiging personeel PO BES 2022–2023)"
-  },
-  {
    "id": "BWBR0047117",
    "titel": "Beleidsregel van de Inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister en de Staatssecretaris van Volksgezondheid, Welzijn en Sport, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister voor Natuur en Stikstof en de Minister van Economische Zaken en Klimaat van 14 juli 2022, NVWA/2022/5640, over het prioriteringsbeleid bij de behandeling van handhavingsverzoeken"
   },
@@ -529,6 +521,10 @@
   {
    "id": "BWBR0050117",
    "titel": "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Justitie en Veiligheid van 28 juni 2024 tot vaststelling van het Specifiek interventiebeleid NVWA experiment gesloten coffeeshopketen (IB03-SPEC 30, versie 04)"
+  },
+  {
+   "id": "BWBR0050230",
+   "titel": "Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024"
   },
   {
    "id": "BWBR0050285",
@@ -709,8 +705,8 @@
  ],
  "onbekend": [
   {
-   "id": "BWBR0050230",
-   "titel": "Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024"
+   "id": "BWBR0006938",
+   "titel": "Vergoedingenregeling reiskosten Kiesraad"
   }
  ]
 }

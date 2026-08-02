@@ -1,48 +1,18 @@
 ---
 title: "Wet van 3 april 1996, houdende hernieuwde vaststelling van de Wet buitengewone bevoegdheden burgerlijk gezag ter aanpassing aan de Coördinatiewet uitzonderingstoestanden (Wet buitengewone bevoegdheden burgerlijk gezag)"
+citeertitel: "Wet buitengewone bevoegdheden burgerlijk gezag"
 identifier: "BWBR0007982"
-country: "nl"
-rank: "wet"
-publication_date: "2021-02-22"
-last_updated: "2021-02-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007982"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "2731723"
-version_id: "4170802"
-internal_id: "C4170801"
-label_id: "2679244"
-dtd_version: "2.0"
-original_entry_into_force: "1996-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007982/2021-02-22/0"
-intitule_bron: "Stb.1996-367"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-04-03"
-intitule_published: "1996-07-09"
-intitule_in_force: "1996-07-09"
-intitule_status: "goed"
-original_publication: "Stb.1996-367"
-original_signed_date: "1996-04-03"
-original_published_date: "1996-07-09"
-original_effect: "nieuwe-regeling"
-original_dossier: "23789"
-original_url_id: "stb-1996-367"
-entry_into_force_date: "1996-09-01"
-entry_into_force_dossier: "23789"
-jci_1_3: "jci1.3:c:BWBR0007982&z=2021-02-22&g=2021-02-22"
-jci_1_0: "1.0:c:BWBR0007982&g=2021-02-22"
-citeertitel_status: "officieel"
-short_title: "Wet buitengewone bevoegdheden burgerlijk gezag"
-signed_date: "1996-04-03"
-entry_into_force: "1996-09-01"
+publicatiedatum: 1996-09-01
+laatste_update: 2021-02-22
+status: geldig
+toestand: 2021-02-22
+bron: "https://wetten.overheid.nl/BWBR0007982"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 3 april 1996, houdende hernieuwde vaststelling van de Wet buitengewone bevoegdheden burgerlijk gezag ter aanpassing aan de Coördinatiewet uitzonderingstoestanden (Wet buitengewone bevoegdheden burgerlijk gezag)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met de totstandkoming van de [Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981) wenselijk is de regels met betrekking tot buitengewone bevoegdheden van burgerlijk gezag opnieuw vast te stellen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -58,7 +28,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ##### Artikel 2
 
@@ -76,7 +46,7 @@ Onder maatregel wordt in deze wet begrepen een voorschrift, een beslissing alsme
 
 ##### Artikel 5
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Minister van Veiligheid en Justitie, de commissaris van de Koning en de burgemeester zijn bevoegd, indien kennis daarvan naar hun oordeel voor de uitoefening van de in dit hoofdstuk gegeven bevoegdheden noodzakelijk is, van een ieder inlichtingen te verlangen en inzage te vorderen van bescheiden alsmede van informatiedragers waarop gegevens zijn vastgelegd.
 
@@ -90,7 +60,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 6
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. De commissaris van de Koning en de burgemeester handelen bij de uitoefening van hun bevoegdheden die betrekking hebben op de handhaving van de openbare orde en veiligheid, in overeenstemming met de aanwijzingen van Onze Minister van Veiligheid en Justitie.
 
@@ -102,7 +72,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 7
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Minister van Veiligheid en Justitie is bevoegd te voorzien in de uitoefening van de bevoegdheden van de commissaris van de Koning en de burgemeester die betrekking hebben op de handhaving van de openbare orde en veiligheid, door die uitoefening geheel of ten dele aan zich te trekken dan wel daarmee geheel of ten dele een ander orgaan van burgerlijk gezag te belasten.
 
@@ -110,13 +80,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 8
 
-1. Dit lid is buiten werking gesteld door Stb. 2021/86.
+1. *Dit lid is buiten werking gesteld door Stb. 2021/86.*
 
 Onze Minister van Veiligheid en Justitie en de commissaris van de Koning zijn bevoegd het vertoeven in de open lucht te beperken.
 
 2. Bij algemene maatregel van bestuur worden nadere regels gegeven met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.
 
-3. Dit lid is buiten werking gesteld door Stb. 2021/86.
+3. *Dit lid is buiten werking gesteld door Stb. 2021/86.*
 
 Onze Minister van Veiligheid en Justitie is bevoegd in spoedeisende gevallen regels te geven waarbij wordt afgeweken van de regels, bedoeld in het tweede lid, of deze buiten werking worden gesteld. De door Onze voornoemde Minister gegeven regels worden op een door hem te bepalen wijze bekendgemaakt en treden na deze bekendmaking terstond in werking. Deze regels worden in ieder geval geplaatst in de Staatscourant.
 
@@ -134,7 +104,7 @@ Onze Minister van Veiligheid en Justitie is bevoegd in spoedeisende gevallen reg
 
 ##### Artikel 10
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Minister van Veiligheid en Justitie kan [artikel 56 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=56) of afzonderlijke artikelleden daarvan voor het gehele land of een gedeelte daarvan buiten werking stellen.
 
@@ -144,7 +114,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 11
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. De burgemeester is bevoegd te bepalen dat geen samenkomsten of vergaderingen op openbare plaatsen, geen samenkomsten of vergaderingen van meer dan tien personen op andere dan openbare plaatsen of geen betogingen zullen worden gehouden dan met zijn schriftelijke vergunning.
 
@@ -156,21 +126,21 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 12
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister van Veiligheid en Justitie is bevoegd de vertoning in het openbaar, dan wel in tegenwoordigheid van meer dan tien personen van alle, dan wel van door Onze voornoemde Minister niet met name toegelaten films voor een door hem daarbij te bepalen tijdsduur te verbieden.
 
 ##### Artikel 13
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Minister van Veiligheid en Justitie is bevoegd beperkende bepalingen vast te stellen omtrent het vervaardigen, uitgeven, voorhanden hebben, verspreiden, aanbrengen of in de handel brengen van geschriften, opschriften, tekeningen of afbeeldingen. Hij kan een en ander ten aanzien van bepaalde geschriften, opschriften, tekeningen of afbeeldingen geheel verbieden.
 
-2. De daartoe strekkende regelingen van Onze voornoemde Minister worden op een door hem te bepalen wijze bekendgemaakt en treden na deze bekendmaking terstond in werking. Deze regels worden in ieder geval geplaatst in de **Staatscourant**.
+2. De daartoe strekkende regelingen van Onze voornoemde Minister worden op een door hem te bepalen wijze bekendgemaakt en treden na deze bekendmaking terstond in werking. Deze regels worden in ieder geval geplaatst in de *Staatscourant*.
 
 ##### Artikel 14
 
-1. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
+1. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
 De autoriteiten die daartoe door Onze Minister van Veiligheid en Justitie zijn aangewezen, zijn bevoegd elk aan de post of aan andere instellingen van vervoer of aan een inrichting van telecommunicatie toevertrouwd stuk of bericht in beslag te nemen, af te luisteren of op te nemen, te onderzoeken, achter te houden, geheel of gedeeltelijk te vernietigen, te wijzigen, onleesbaar te maken of te verhinderen dat het zijn bestemming bereikt.
 
@@ -178,27 +148,27 @@ De autoriteiten die daartoe door Onze Minister van Veiligheid en Justitie zijn a
 
 ##### Artikel 15
 
-1. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
+1. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
 De burgemeester is bevoegd een ieder aan zijn kleding en degene die de openbare orde en veiligheid verstoort of ten aanzien van wie een gegrond vermoeden bestaat dat hij zich daaraan schuldig zal maken, ook aan zijn lichaam te onderzoeken.
 
 2. Bij regeling van Onze Minister van Veiligheid en Justitie worden nadere regels gegeven met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.
 
-3. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
+3. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
 Indien een of meer van de [artikelen 9 tot en met 53 van de Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&artikel=9) in werking zijn gesteld, wordt van de bevoegdheid, bedoeld in het eerste lid, geen gebruik gemaakt jegens militairen.
 
 ##### Artikel 16
 
-1. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
+1. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
 De burgemeester is bevoegd alle plaatsen, ook tegen de wil van de rechthebbende, te betreden dan wel door ambtenaren van politie of buitengewone opsporingsambtenaren te doen betreden en aldaar onderzoek of een doorzoeking te verrichten of door die ambtenaren te doen verrichten, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm.
 
-2. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
+2. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
 De ambtenaren, bedoeld in het eerste lid, zijn bevoegd zich bij het betreden door andere personen te doen vergezellen.
 
-3. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
+3. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
 Een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) kan worden gegeven voor een groter aantal woningen dan bedoeld in [artikel 5, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=5). Het verslag, bedoeld in [artikel 10 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=10), wordt mede toegezonden aan Onze Minister van Veiligheid en Justitie.
 
@@ -206,15 +176,15 @@ Een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden
 
 ##### Artikel 17
 
-1. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
+1. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
 De autoriteiten die daartoe door Onze Minister van Veiligheid en Justitie zijn aangewezen, zijn bevoegd alle voorwerpen ten aanzien waarvan ernstig vermoeden bestaat dat zij zullen dienen tot verstoring van de openbare orde en veiligheid, of waaruit aanwijzingen kunnen worden verkregen omtrent een mogelijke verstoring van de openbare orde, te onderzoeken, in beslag te nemen, dan wel het gebruik daarvan te beperken of geheel te verbieden.
 
-2. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
+2. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
 Van elke inbeslagneming wordt proces-verbaal opgemaakt. Dit proces-verbaal, dat mede de redenen van de inbeslagneming vermeldt, wordt binnen tweemaal vierentwintig uren aan Onze Minister van Veiligheid en Justitie en aan de belanghebbende in afschrift medegedeeld, voor zover mededeling aan de belanghebbende niet strijdig kan worden geoordeeld met het belang van de staat. Voorts wordt van elke beperking en elk verbod aan Onze voornoemde Minister onverwijld kennis gegeven, onder opgave van de redenen die tot deze maatregel hebben geleid.
 
-3. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
+3. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
 Tegen elke inbeslagneming, elke beperking of elk verbod kan door belanghebbenden beroep worden ingesteld bij Onze Minister van Veiligheid en Justitie. Onze Minister beslist hierop zo spoedig mogelijk, doch in elk geval binnen acht weken.
 
@@ -222,7 +192,7 @@ Tegen elke inbeslagneming, elke beperking of elk verbod kan door belanghebbenden
 
 ##### Artikel 18
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Indien de omstandigheden die tot de afkondiging van de algemene noodtoestand hebben geleid, een bedreiging voor het volksbestaan inhouden, zijn Onze Minister van Veiligheid en Justitie en, indien onverwijld ingrijpen noodzakelijk is, de commissaris van de Koning bevoegd iedere persoon ten aanzien van wie gegrond vermoeden bestaat dat hij de openbare orde en veiligheid in gevaar zal brengen, te interneren.
 
@@ -232,13 +202,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 4. Op verzoek van de rechtbank zendt Onze Minister van Veiligheid en Justitie haar alle ter zake dienende stukken en verschaft hij haar mondeling alle gevraagde inlichtingen. Onze voornoemde Minister is bevoegd bij het verschaffen van schriftelijke en mondelinge gegevens te bepalen dat het belang van de staat zich verzet tegen kennisneming daarvan door anderen dan de rechtbank.
 
-5. Op verzoek van de geïnterneerde die geen raadsman heeft, wordt voor hem een raadsman aangewezen. De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=38) en [43 tot en met 45 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=43) zijn van overeenkomstige toepassing.
+5. Op verzoek van de geïnterneerde die geen raadsman heeft, wordt voor hem een raadsman aangewezen. De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=38) en [43 tot en met 45 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=43) zijn van overeenkomstige toepassing.
 
 6. De geïnterneerde heeft recht op kennisneming van de processtukken, behoudens voor zover het bepaalde in de laatste volzin van het vierde lid toepassing heeft gevonden.
 
 ##### Artikel 19
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. De geïnterneerde kan de in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=18&z=2021-02-22&g=2021-02-22), bedoelde rechtbank schriftelijk verzoeken te beslissen over de rechtmatigheid van de internering en zijn invrijheidstelling te gelasten. De rechtbank hoort hem zo spoedig mogelijk, doch uiterlijk binnen een maand na de indiening van het verzoekschrift.
 
@@ -270,13 +240,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 20
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 De rechtbank is bevoegd een verzoekschrift niet in behandeling te nemen, indien binnen twee maanden voorafgaand aan de indiening op een eerder verzoekschrift ter zake van dezelfde internering is beslist, tenzij uit het latere verzoekschrift blijkt van nieuwe feiten of omstandigheden.
 
 ##### Artikel 21
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. De rechtbank is bevoegd ambtshalve te beslissen over de rechtmatigheid van een internering.
 
@@ -286,21 +256,21 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 22
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
-1. Tegen een beslissing van de rechtbank genomen op grond van [artikel 19, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=19&z=2021-02-22&g=2021-02-22), of [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=21&z=2021-02-22&g=2021-02-22), kan binnen twee maanden na verzending van de beschikking beroep in cassatie worden ingesteld door de geïnterneerde en Onze Minister van Veiligheid en Justitie. De [artikelen 426**a** tot en met 429 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=427) zijn op de behandeling van dit beroep van toepassing.
+1. Tegen een beslissing van de rechtbank genomen op grond van [artikel 19, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=19&z=2021-02-22&g=2021-02-22), of [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=21&z=2021-02-22&g=2021-02-22), kan binnen twee maanden na verzending van de beschikking beroep in cassatie worden ingesteld door de geïnterneerde en Onze Minister van Veiligheid en Justitie. De [artikelen 426*a* tot en met 429 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=427) zijn op de behandeling van dit beroep van toepassing.
 
 2. Tegen een afwijzende beslissing ingevolge [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=19&z=2021-02-22&g=2021-02-22), staat beroep in cassatie slechts open gelijktijdig met dat tegen een in het eerste lid bedoelde beslissing.
 
 ##### Artikel 23
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 In het bestuur van de goederen van de geïnterneerde en het waarnemen van diens belangen wordt zonodig voorzien op de wijze voorgeschreven in [afdeling 1 van titel 18 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&afdeling=1). Te dien einde wordt aan de officier van justitie in het arrondissement van de woonplaats van de geïnterneerde onverwijld kennis gegeven van de internering. [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=9&z=2021-02-22&g=2021-02-22), is van overeenkomstige toepassing.
 
 ##### Artikel 24
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Minister van Veiligheid en Justitie bepaalt waar de internering geschiedt.
 
@@ -308,7 +278,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 25
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onverminderd de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=19&z=2021-02-22&g=2021-02-22), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=21&z=2021-02-22&g=2021-02-22) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=22&z=2021-02-22&g=2021-02-22) wordt een geïnterneerde in vrijheid gesteld, zodra dit naar het oordeel van Onze Minister van Veiligheid en Justitie mogelijk is.
 
@@ -320,13 +290,13 @@ Onverminderd de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&h
 
 ##### Artikel 27
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 In zaken betreffende een verzoek als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=19&z=2021-02-22&g=2021-02-22), en betreffende beroep in cassatie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=22&z=2021-02-22&g=2021-02-22) is geen griffierecht ingevolge de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) verschuldigd.
 
 ##### Artikel 28
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Minister van Veiligheid en Justitie kan, indien bij nader onderzoek blijkt dat een internering ten onrechte heeft plaatsgevonden, op verzoek van een gewezen geïnterneerde of diens erfgenamen naar billijkheid een geldelijke tegemoetkoming toekennen voor de schade die de gewezen geïnterneerde als onmiddellijk gevolg van de internering heeft geleden.
 
@@ -370,11 +340,11 @@ Indien de misdrijven, bedoeld in de [artikelen 131](https://wetten.overheid.nl/j
 
 ##### Artikel 33
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel 34
 
-De Wet buitengewone bevoegdheden burgerlijk gezag (**Stb**. 1952, 361) wordt ingetrokken.
+De Wet buitengewone bevoegdheden burgerlijk gezag (*Stb*. 1952, 361) wordt ingetrokken.
 
 ##### Artikel 35
 
@@ -383,5 +353,3 @@ Deze wet treedt, met uitzondering van [de artikelen 5](https://wetten.overheid.n
 ##### Artikel 36
 
 Deze wet wordt aangehaald als: Wet buitengewone bevoegdheden burgerlijk gezag.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

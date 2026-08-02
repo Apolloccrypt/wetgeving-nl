@@ -1,49 +1,18 @@
 ---
 title: "Regeling houdende bepalingen waarmee een aantal sanciemaatregelen tegen de 'Federale Republiek Joegoslavië' (Servië en Montenegro) buiten werking worden gesteld"
+citeertitel: "Sanctieregeling buiten werking stelling sanctiemaatregelen Servië en Montenegro 1994"
 identifier: "BWBR0006993"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-11-18"
-last_updated: "1994-11-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006993"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3772163"
-version_id: "5555022"
-internal_id: "C5748111"
-label_id: "3751904"
-dtd_version: "2.0"
-original_entry_into_force: "1994-11-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006993/1994-11-18/0"
-intitule_bron: "Stcrt.1994-221"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-10-31"
-intitule_published: "1994-11-16"
-intitule_in_force: "1994-11-16"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-221"
-original_signed_date: "1994-10-31"
-original_published_date: "1994-11-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-11-18"
-jci_1_3: "jci1.3:c:BWBR0006993&z=1994-11-18&g=1994-11-18"
-jci_1_0: "1.0:c:BWBR0006993&g=1994-11-18"
-citeertitel_status: "officieel"
-short_title: "Sanctieregeling buiten werking stelling sanctiemaatregelen Servië en Montenegro 1994"
-signed_date: "1994-10-31"
-entry_into_force: "1994-11-18"
+publicatiedatum: 1994-11-18
+laatste_update: 1994-11-18
+status: geldig
+toestand: 1994-11-18
+bron: "https://wetten.overheid.nl/BWBR0006993"
+opgehaald: 2026-08-02
 ---
+
 # Regeling houdende bepalingen waarmee een aantal sanciemaatregelen tegen de 'Federale Republiek Joegoslavië' (Servië en Montenegro) buiten werking worden gesteld
-
-De Minister van Verkeer en Waterstaat, en de Staatssecretaris van Economische Zaken;
-
-Overwegende dat de Veiligheidsraad van de Verenigde Naties op 22 september 1994 Resolutie 943 (1994) heeft aanvaard, ingevolge waarvan een aantal sanctiemaatregelen tegen de ‘Federale Republiek Joegoslavië’ (Servië en Montenegro) wordt opgeschort voor een initiële periode van 100 dagen;
-
-Gelet op [verordening 2472/94](31994R2472) van de Raad van de Europese Gemeenschap van 10 oktober 1994;
-
-Gelet op [artikel 7 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=7) (Stb. 1980, 93);
-
-Besluiten:
 
 ##### Artikel 1
 

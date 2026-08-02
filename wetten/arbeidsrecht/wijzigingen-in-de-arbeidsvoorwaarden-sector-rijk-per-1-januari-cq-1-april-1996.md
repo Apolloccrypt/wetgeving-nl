@@ -1,70 +1,61 @@
 ---
 title: "Wijzigingen in de arbeidsvoorwaarden sector Rijk per 1 januari c.q. 1 april 1996"
 identifier: "BWBR0007752"
-country: "nl"
-rank: "circulaire"
-publication_date: "1995-12-22"
-last_updated: "1995-12-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007752"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "6302253"
-version_id: "10967872"
-internal_id: "C14863991"
-label_id: "6291474"
-original_entry_into_force: "1995-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007752/1995-12-22/0"
-intitule_bron: "Stcrt.1995-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-18"
-intitule_published: "1995-12-22"
-intitule_in_force: "1995-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-249"
-original_signed_date: "1995-12-18"
-original_published_date: "1995-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1995-249-p12-SC4699"
-entry_into_force_date: "1995-12-22"
-jci_1_3: "jci1.3:c:BWBR0007752&z=1995-12-22&g=1995-12-22"
-jci_1_0: "1.0:c:BWBR0007752&g=1995-12-22"
-citeertitel_status: "redactioneel"
-signed_date: "1995-12-18"
-entry_into_force: "1995-12-22"
+publicatiedatum: 1995-12-22
+laatste_update: 1995-12-22
+status: geldig
+toestand: 1995-12-22
+bron: "https://wetten.overheid.nl/BWBR0007752"
+opgehaald: 2026-08-02
 ---
-# Wijzigingen in de arbeidsvoorwaarden sector Rijk per 1 januari c.q. 1 april 1996
 
-«Circulaire aan de ministers»
+# Wijzigingen in de arbeidsvoorwaarden sector Rijk per 1 januari c.q. 1 april 1996
 
 ### Inleiding
 
 Deze circulaire op het terrein van de arbeidsvoorwaarden van het personeel van de sector Rijk betreft de hieronder genoemde aangelegenheden. De onderdelen A tot en met E zijn van belang met ingang van 1 januari 1996. Onderdeel F betreft een wijziging met ingang van 1 april 1996.
 
-**Onderdeel A:** Protocol aanstellingskeuringen.
+*Onderdeel A:* Protocol aanstellingskeuringen.
 
-**Onderdeel B:** Toepassing verhaal van pensioenpremies en van vut-bijdrage indien de ambtenaar (langdurig) is ontheven van de uitoefening van zijn betrekking.
+*Onderdeel B:* Toepassing verhaal van pensioenpremies en van vut-bijdrage indien de ambtenaar (langdurig) is ontheven van de uitoefening van zijn betrekking.
 
-**Onderdeel C:** Aanpassing van diverse bedragen en percentages, te weten:
+*Onderdeel C:* Aanpassing van diverse bedragen en percentages, te weten:
 
-**Onderdeel D:** Wijziging van het salarisgrensbedrag voor de toekenning van de distorsietoeslag.
+- 1. bedragen, bedoeld in het [Besluit betaling emolumenten burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003632);
 
-**Onderdeel E:** Enkele mededelingen, te weten over:
+- 2. bedragen en percentages, bedoeld in de [Verplaatsingskostenregeling 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004633);
 
-**Onderdeel F:** Wijziging van het Besluit inkomenstoeslag rijkspersoneel met ingang van 1 april 1996.
+- 3. bedragen, bedoeld in de [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912);
+
+- 4. een bedrag, bedoeld in de [Reisregeling buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006914).
+
+*Onderdeel D:* Wijziging van het salarisgrensbedrag voor de toekenning van de distorsietoeslag.
+
+*Onderdeel E:* Enkele mededelingen, te weten over:
+
+- 1. de hoogte van de eindejaarsuitkering ingaande 1 januari 1996;
+
+- 2. de hoogte van het maximum-spaarloonbedrag in 1996;
+
+- 3. de bedragen van het wettelijk minimum(jeugd)loon ingaande 1 januari 1996.
+
+*Onderdeel F:* Wijziging van het Besluit inkomenstoeslag rijkspersoneel met ingang van 1 april 1996.
 
 Voor de goede orde merk ik op dat over de invoering van de WAO-conforme uitkering bij de sector Rijk per 1 januari 1996 dezer dagen een afzonderlijke circulaire verschijnt. Voorts vermeld ik dat in de loop van de maand januari 1996 een circulaire zal verschijnen over de wijzigingen met betrekking tot personele aspecten van reorganisatie bij de sector Rijk.
 
 ### A. Protocol aanstellingskeuringen
 
-Met de centrales is overeenstemming bereikt over een wijziging van het [Algemeen Rijksambtenarenreglement](onbekend) (ARAR) per 1 januari 1996, voor wat de aanstellingskeuring betreft. Een en ander betekent dat uitsluitend een aanstellingskeuring zal mogen plaatsvinden indien daartoe een wettelijke verplichting bestaat, danwel indien een dergelijk onderzoek op grond van de functie-eisen die in medische termen kunnen worden vertaald, naar het oordeel van de betrokken minister noodzakelijk is.
+Met de centrales is overeenstemming bereikt over een wijziging van het Algemeen Rijksambtenarenreglement (ARAR) per 1 januari 1996, voor wat de aanstellingskeuring betreft. Een en ander betekent dat uitsluitend een aanstellingskeuring zal mogen plaatsvinden indien daartoe een wettelijke verplichting bestaat, danwel indien een dergelijk onderzoek op grond van de functie-eisen die in medische termen kunnen worden vertaald, naar het oordeel van de betrokken minister noodzakelijk is.
 
 Een voorlopige inventarisatie van functies binnen de sector Rijk waarvoor een wettelijke verplichting tot het keuren bij aanstelling bestaat, is door de Rijks bedrijfsgezondheids- en bedrijfsveiligheidsdienst gepleegd en binnen uw departement bekend. Over de inventarisatie van functies waarvoor naar het oordeel van de betrokken minister een geneeskundig onderzoek bij de aanstelling noodzakelijk is, zijn inmiddels afspraken gemaakt. Bij een aantal ministeries is de samenstelling van de lijst van betrokken functies inmiddels afgerond; bij andere ministeries wordt nog aan het samenstellen van die lijst gewerkt.
 
-Voor de goede orde wijs ik erop dat de algemene maatregel van bestuur waarbij het [ARAR](onbekend) zal worden gewijzigd niet voor 1 januari 1996 in het Staatsblad wordt gepubliceerd. Aan de AmvB zal echter terugwerkende kracht worden verleend tot en met 1 januari 1996 zodat u vooruitlopende op de bedoelde AmvB het keuren van personeelsleden bij aanstelling dient te beperken tot de categorieën van personeel waarvoor een wettelijke verplichting geldt en de functies die zijn opgenomen op de lijst van functies waarvoor naar het oordeel van de betrokken minister een geneeskundig onderzoek bij de aanstelling noodzakelijk is.
+Voor de goede orde wijs ik erop dat de algemene maatregel van bestuur waarbij het ARAR zal worden gewijzigd niet voor 1 januari 1996 in het Staatsblad wordt gepubliceerd. Aan de AmvB zal echter terugwerkende kracht worden verleend tot en met 1 januari 1996 zodat u vooruitlopende op de bedoelde AmvB het keuren van personeelsleden bij aanstelling dient te beperken tot de categorieën van personeel waarvoor een wettelijke verplichting geldt en de functies die zijn opgenomen op de lijst van functies waarvoor naar het oordeel van de betrokken minister een geneeskundig onderzoek bij de aanstelling noodzakelijk is.
 
 In dat verband vermeld ik nog dat de risicowerende bepaling (artikel N 5 van de Abp-wet) per 1 januari 1996 zal worden vervangen door artikel 15.2 van het Pensioenreglement Stichting Pensioenfonds ABP. Op grond van artikel 15.2 geldt dat het bestuur van het Abp de bevoegdheid heeft om zijn risio te weren in het geval een ambtenaar is tewerkgesteld in strijd met een over hem uitgebracht medisch advies. In het geval een ambtenaar zonder dat hij bij zijn aanstelling wordt gekeurd, wordt aangesteld, is er met andere woorden geen sprake van enige risico-wering. Benadrukt moet overigens worden dat de term medisch advies in artikel 15.2 van het Pensioenreglement Stichting Pensioenfonds ABP zowel kan slaan op het medisch advies naar aanleiding van een aanstellingskeuring als het medisch advies – dat overigens aan de werkgever moet zijn uitgebracht – naar aanleiding van een geneeskundig onderzoek na de aanstelling (intrede-onderzoek).
 
-Het ontwerp van bedoelde [ARAR](onbekend)-wijziging zend ik u zo spoedig mogelijk toe.
+Het ontwerp van bedoelde ARAR-wijziging zend ik u zo spoedig mogelijk toe.
 
 ### B. Toepassing verhaal van pensioenpremies en van vut-bijdrage indien de ambtenaar (langdurig) is ontheven van de uitoefening van zijn betrekking
 
@@ -86,7 +77,7 @@ In afwachting daarvan verzoek ik u daarom ook ten aanzien van het vut-bijdrageve
 
 ### C. Aanpassing van diverse bedragen en percentages
 
-### 1. [Besluit betaling emolumenten burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003632)
+### 1. Besluit betaling emolumenten burgerlijk rijkspersoneel
 
 ### a. Maximumverrekeningsbedragen kost en inwoning
 
@@ -102,11 +93,19 @@ Het in [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003632&
 
 De ministeriële regeling waarin de bovengenoemde bedragen zijn opgenomen zal in de Staatscourant worden gepubliceerd.
 
-### 2. [Verplaatsingskostenregeling 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004633)
+### 2. Verplaatsingskostenregeling 1989
 
 ### a. Wijziging bedragen verband houdende met het woon/werkverkeer
 
 De aanpassingen per 1 januari 1996 houden het volgende in:
+
+- – het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=11), van de regeling genoemde maximumbedrag van f 186,00 wordt verhoogd tot f 188,00 (het maximumbedrag aan reiskosten woon/werkverkeer voor niet- verhuisplichtige ambtenaren die naar het oordeel van de minister werkzaam zijn op per openbaar vervoer te bereiken plaatsen van tewerkstelling);
+
+- – het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=11), genoemde bedrag dat de ambtenaar te allen tijde van de reiskosten woon/werkverkeer voor eigen rekening moet nemen wordt verhoogd van f 81,00 tot f 84,50;
+
+- – het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=12), genoemde maximumbedrag wordt verhoogd van f 433,25 tot f 439,75 (het maximumbedrag aan reiskosten woon/werkverkeer voor verhuisplichtige ambtenaren die werkzaam zijn op per openbaar vervoer te bereiken plaatsen van tewerkstelling);
+
+- – de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=12), genoemde tabel wordt vervangen door de volgende tabel: van meer dan 20 km tot en met 30 km f 286,68 van meer dan 30 km tot en met 40 km f 337,52 van meer dan 40 km tot en met 50 km f 422,52 van meer dan 50 km tot en met 60 km f 464,20 van meer dan 60 km tot en met 70 km f 511,68 van meer dan 70 km tot en met 80 km f 532,52 van meer dan 80 km f 538,36
 
 (maximaal uit te betalen vergoedingsbedragen voor reiskosten woon/werkverkeer voor verhuisplichtige ambtenaren die naar het oordeel van de minister werkzaam zijn op plaatsen van tewerkstelling die niet per openbaar vervoer zijn te bereiken.)
 
@@ -116,11 +115,15 @@ De bedragen f 0,30, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.
 
 Per 1 januari 1996 vinden de volgende wijzigingen in [artikel 16a van de Verplaatsingskostenregeling 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=16a) plaats:
 
+- – de in het vierde lid genoemde percentages van 2,58% en 1,29% worden gewijzigd in respectievelijk 2,01% en 1,01%;
+
+- – het in het vierde lid genoemde bedrag van f 89.200,00 wordt verhoogd tot f 90.800,00.
+
 De ministeriële regeling waarin de wijzigingen zijn opgenomen wordt gepubliceerd in de Staatscourant.
 
-Volledigheidshalve merk ik op dat in verband met een algemene maatregel van bestuur, houdende wijziging van het [Algemeen Rijksambtenarenreglement](onbekend), het [Amtenarenreglement Staten-Generaal](onbekend) , het[Rijkswachtgeldbesluit 1959](https://wetten.overheid.nl/jci1.3:c:BWBR0002326), de [Uitkeringsregeling 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) en het [Verplaatsingskostenbesluit 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004630), in verband met het rechtspositioneel regelen van de personele aspecten van reorganisaties, per 1 januari 1996 (streefdatum) genoemd [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=16a) hieraan zal worden aangepast. Die aanpassing zal echter eerst kunnen plaatsvinden na de totstandkoming van bedoelde algemene maatregel van bestuur. Daarover zal ik u te zijner tijd nog nader informeren.
+Volledigheidshalve merk ik op dat in verband met een algemene maatregel van bestuur, houdende wijziging van het Algemeen Rijksambtenarenreglement, het Amtenarenreglement Staten-Generaal , het[Rijkswachtgeldbesluit 1959](https://wetten.overheid.nl/jci1.3:c:BWBR0002326), de [Uitkeringsregeling 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) en het [Verplaatsingskostenbesluit 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004630), in verband met het rechtspositioneel regelen van de personele aspecten van reorganisaties, per 1 januari 1996 (streefdatum) genoemd [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=16a) hieraan zal worden aangepast. Die aanpassing zal echter eerst kunnen plaatsvinden na de totstandkoming van bedoelde algemene maatregel van bestuur. Daarover zal ik u te zijner tijd nog nader informeren.
 
-### 3. [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912)
+### 3. Reisregeling binnenland
 
 ### a. Wijziging vergoeding voor het noodzakelijk gebruik van een eigen auto
 
@@ -134,11 +137,21 @@ De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005912&artikel=4) gen
 
 In [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005912&artikel=5), vinden per 1 januari 1996 de volgende wijzigingen plaats:
 
+- – het bedrag voor kleine uitgaven ’s avonds (avondcomponent) wordt verhoogd van f 16,00 tot f 16,50;
+
+- – het in onderdeel a genoemde bedrag voor een lunch (lunchcomponent) wordt verhoogd van f 17,50 tot f 18,00;
+
+- – het in onderdeel b genoemde bedrag voor een avondmaaltijd (dinercomponent) wordt verhoogd van f 26,00 tot f 26,50;
+
+- – het in onderdeel c genoemde bedrag voor logies (logiescomponent) wordt verhoogd van f 107,00 tot f 110,50;
+
+- – het in onderdeel d genoemde bedrag voor een ontbijt (ontbijtcomponent) wordt verhoogd van f 9,50 tot f 10,00.
+
 Het bedrag voor kleine uitgaven overdag (dagcomponent) ad f 5,50 wijzigt niet per 1 januari 1996.
 
 De ministeriële regeling waarin de wijzigingen zijn opgenomen wordt gepubliceerd in de Staatscourant.
 
-### 4. [Reisregeling buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006914)
+### 4. Reisregeling buitenland
 
 Wijziging vergoeding voor het noodzakelijk gebruik van een eigen auto
 
@@ -148,7 +161,7 @@ De ministeriële regeling waarin deze wijziging is opgenomen wordt gepubliceerd 
 
 ### D. Wijziging van het salarisgrens-bedrag voor de toekenning van de distorsietoeslag
 
-Van de toekenning van de distorsietoeslag, genoemd onder [punt C van de circulaire](onbekend) van 15 december 1994, AD94/U1450, zijn uitgezonderd degenen voor wie een salaris geldt dat bij volledige werktijd meer bedraagt dan f 5743,77 per maand. Dit bedrag is afgeleid van de premie-inkomensgrens voor de pseudo-premies. Aangezien deze premie-inkomensgrens met ingang van 1 januari 1996 wijzigt, komt bedoeld salarisbedrag ingaande 1 januari 1996 f 5777,34 te luiden. De ministeriële regeling inzake deze wijziging wordt gepubliceerd in de Staatscourant.
+Van de toekenning van de distorsietoeslag, genoemd onder punt C van de circulaire van 15 december 1994, AD94/U1450, zijn uitgezonderd degenen voor wie een salaris geldt dat bij volledige werktijd meer bedraagt dan f 5743,77 per maand. Dit bedrag is afgeleid van de premie-inkomensgrens voor de pseudo-premies. Aangezien deze premie-inkomensgrens met ingang van 1 januari 1996 wijzigt, komt bedoeld salarisbedrag ingaande 1 januari 1996 f 5777,34 te luiden. De ministeriële regeling inzake deze wijziging wordt gepubliceerd in de Staatscourant.
 
 Zoals u bekend is, bedraagt de distorsietoeslag over het jaar 1996 4,4%.
 
@@ -156,7 +169,7 @@ Zoals u bekend is, bedraagt de distorsietoeslag over het jaar 1996 4,4%.
 
 ### 1. Eindejaarsuitkering over 1996
 
-Volledigheidshalve herinner ik u eraan dat over 1996 de maandelijkse opbouw van de aanspraak op de eindejaarsuitkering als bedoeld in [artikel 20a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](onbekend) (BBRA 1984) 0,8% van het salaris bedraagt.
+Volledigheidshalve herinner ik u eraan dat over 1996 de maandelijkse opbouw van de aanspraak op de eindejaarsuitkering als bedoeld in artikel 20a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 (BBRA 1984) 0,8% van het salaris bedraagt.
 
 ### 2. Spaarloonregeling rijkspersoneel
 
@@ -164,13 +177,25 @@ Het maximale spaarbedrag over 1996 bedraagt f 1615,00.
 
 ### 3. Garantietoelage wettelijk minimumloon
 
-De bedragen van het wettelijk minimumloon en minimumjeugdloon die van belang zijn voor de bepaling van de garantietoelage, bedoeld in [artikel 16 van het BBRA 1984](onbekend), luiden ingaande 1 januari 1996 als volgt (zie ook Staatscourant van 29 september 1995, nr. 189):
+De bedragen van het wettelijk minimumloon en minimumjeugdloon die van belang zijn voor de bepaling van de garantietoelage, bedoeld in artikel 16 van het BBRA 1984, luiden ingaande 1 januari 1996 als volgt (zie ook Staatscourant van 29 september 1995, nr. 189):
+
+| leeftijd: | bedrag per maand: |
+| --- | --- |
+| 23 jaar of ouder | f 2184,00 |
+| 22 jaar | f 1856,40 |
+| 21 jaar | f 1583,40 |
+| 20 jaar | f 1343,20 |
+| 19 jaar | f 1146,60 |
+| 18 jaar | f 993,70 |
+| 17 jaar | f 862,70 |
+| 16 jaar | f 753,50 |
+| 15 jaar | f 655,20. |
 
 ### F. Wijziging van het Besluit inkomenstoeslag rijkspersoneel met ingang van 1 april 1996
 
 In het Sectoroverleg Rijkspersoneel is overeenstemming bereikt over een wijziging van het Besluit inkomenstoeslag rijkspersoneel. Deze wijziging houdt verband met een overheveling per 1 januari 1996 van bepaalde verstrekkingen van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) naar de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) en de particuliere ziektekostenverzekeringen. Uit deze overheveling vloeien inkomenseffecten voort die voor het rijkspersoneel, voor zover behorend tot de categorie van alleenverdiener met twee kinderen aanzienlijk negatiever zijn dan voor vergelijkbare werknemers in de marktsector. Volledigheidshalve merk ik op dat de effecten in de overige categorieën voor het rijkspersoneel gunstiger zijn dan voor de werknemers in de marktsector.
 
-Het Besluit inkomenstoeslag rijkspersoneel voorziet onder meer in de toekenning van een aanvullende toeslag naast de tegemoetkoming in de zin van het [Besluit tegemoetkoming ziektekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006855) aan degenen die niet zo’n tegemoetkoming ontvangen voor een gezinslid en bij volledige werktijd een salaris heeft gelijk aan dan wel lager is dan het maximum van schaal 7 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](onbekend). Deze aanvullende toeslag, die thans f 138,00 per jaar bedraagt, zal voortaan niet meer aan de zojuist genoemde categorie worden toegekend maar aan degenen die een tegemoetkoming in ziektekosten ontvangen voor zichzelf en voor een of meer gezinsleden en voor wie bij volledige werktijd een salaris geldt dat gelijk is aan of lager dan het maximum van genoemde schaal 7. De aanvullende toeslag wordt daarbij verhoogd tot f 144,00 per jaar. Hiermee worden de hiervoor bedoelde relatief negatieve inkomenseffecten afgevlakt.
+Het Besluit inkomenstoeslag rijkspersoneel voorziet onder meer in de toekenning van een aanvullende toeslag naast de tegemoetkoming in de zin van het [Besluit tegemoetkoming ziektekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006855) aan degenen die niet zo’n tegemoetkoming ontvangen voor een gezinslid en bij volledige werktijd een salaris heeft gelijk aan dan wel lager is dan het maximum van schaal 7 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. Deze aanvullende toeslag, die thans f 138,00 per jaar bedraagt, zal voortaan niet meer aan de zojuist genoemde categorie worden toegekend maar aan degenen die een tegemoetkoming in ziektekosten ontvangen voor zichzelf en voor een of meer gezinsleden en voor wie bij volledige werktijd een salaris geldt dat gelijk is aan of lager dan het maximum van genoemde schaal 7. De aanvullende toeslag wordt daarbij verhoogd tot f 144,00 per jaar. Hiermee worden de hiervoor bedoelde relatief negatieve inkomenseffecten afgevlakt.
 
 Voor deze wijziging zal de totstandkoming van een algemene maatregel van bestuur worden bevorderd met als beoogde datum van ingang 1 april 1996. Ik zal u te zijner tijd van de totstandkoming van die maatregel nog in kennis stellen.
 
@@ -193,21 +218,3 @@ onderdelen C en F: H. Martens,
 tel. 070 - 3026904.
 
 Bij geen gehoor kan contact worden opgenomen met het secretariaat van de afdeling Arbeidsvoorwaarden en Sociaal Beleid, telefoon 070 - 3026847 of 3027095.
-
-## Bijlage. Pensioenovereenkomst
-
-De Minister van Binnenlandse Zaken en de Algemene Centrale van Overheidspersoneel (ACOP), de Christelijke Centrale van Overheids- en Onderwijspersoneel (CCOOP), het Ambtenarencentrum (AC), de Centrale van Middelbare en Hogere Functionarissen bij Overheid, Onderwijs, Bedrijven en Instellingen (CMHF), hierna aangeduid als partijen;
-
-gelet op het ontwerp van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) d.d. 3 februari 1995;
-
-gezien:
-
-zijn, onder het voorbehoud dat het ontwerp van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) tot wet wordt verheven en uiterlijk 1 januari 1996 in werking treedt, overeengekomen als volgt:
-
-### Artikel 1
-
-### Artikel 2
-
-### Artikel 3
-
-### Artikel 4

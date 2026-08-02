@@ -1,47 +1,18 @@
 ---
 title: "Wet van 3 april 1996, houdende hernieuwde vaststelling van de Oorlogswet voor Nederland ter aanpassing aan de Grondwet en aan de Coördinatiewet uitzonderingstoestanden (Oorlogswet voor Nederland)"
+citeertitel: "Oorlogswet voor Nederland"
 identifier: "BWBR0007983"
-country: "nl"
-rank: "wet"
-publication_date: "1999-02-17"
-last_updated: "1999-02-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007983"
+categorie: "Staatsinrichting en bestuur"
 soort: "wet"
-stam_id: "84413"
-version_id: "118492"
-internal_id: "C118491"
-label_id: "85994"
-dtd_version: "2.0"
-original_entry_into_force: "1997-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007983/1999-02-17/0"
-intitule_bron: "Stb.1996-368"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-04-03"
-intitule_published: "1996-07-09"
-intitule_in_force: "1997-04-29"
-intitule_status: "goed"
-original_publication: "Stb.1996-368"
-original_signed_date: "1996-04-03"
-original_published_date: "1996-07-09"
-original_effect: "nieuwe-regeling"
-original_dossier: "23788"
-original_url_id: "stb-1996-368"
-entry_into_force_date: "1997-05-01"
-jci_1_3: "jci1.3:c:BWBR0007983&z=1999-02-17&g=1999-02-17"
-jci_1_0: "1.0:c:BWBR0007983&g=1999-02-17"
-citeertitel_status: "officieel"
-short_title: "Oorlogswet voor Nederland"
-signed_date: "1996-04-03"
-entry_into_force: "1997-05-01"
+publicatiedatum: 1997-05-01
+laatste_update: 1999-02-17
+status: geldig
+toestand: 1999-02-17
+bron: "https://wetten.overheid.nl/BWBR0007983"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 3 april 1996, houdende hernieuwde vaststelling van de Oorlogswet voor Nederland ter aanpassing aan de Grondwet en aan de Coördinatiewet uitzonderingstoestanden (Oorlogswet voor Nederland)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met de totstandkoming van de [Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981) en met de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=11), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=81) en [89 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=89) wenselijk is de Oorlogswet voor Nederland opnieuw vast te stellen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -57,7 +28,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ##### Artikel 2
 
@@ -73,7 +44,7 @@ De bevoegdheden die in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 2. Bij die aanwijzing wordt tevens geregeld de hiërarchische verhouding van de militaire gezagsdragers met betrekking tot de uitoefening van die bevoegdheden.
 
-3. De aanwijzing, krachtens het eerste lid gedaan, wordt bekend gemaakt in de **Staatscourant** en verder op de wijze vastgesteld in het desbetreffende besluit.
+3. De aanwijzing, krachtens het eerste lid gedaan, wordt bekend gemaakt in de *Staatscourant* en verder op de wijze vastgesteld in het desbetreffende besluit.
 
 ##### Artikel 5
 
@@ -111,7 +82,7 @@ Onder maatregel wordt in deze wet begrepen een voorschrift, een beslissing, alsm
 
 ##### Artikel 9
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Minister van Defensie dan wel in geval van de beperkte of de algemene noodtoestand het militair gezag, is bevoegd, indien kennis daarvan naar zijn oordeel voor de uitoefening van de in [dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&z=1999-02-17&g=1999-02-17) gegeven bevoegdheden noodzakelijk is, van een ieder inlichtingen te verlangen en inzage te vorderen van bescheiden alsmede van informatiedragers waarop gegevens zijn vastgelegd.
 
@@ -125,53 +96,53 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 10
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister van Defensie dan wel in geval van de beperkte of de algemene noodtoestand het militair gezag, is bevoegd de toegang tot of het gebruik van bepaalde gebouwen, verblijfplaatsen of terreinen voor een bepaalde of onbepaalde tijdsduur te beperken of geheel te verbieden.
 
 ##### Artikel 11
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister van Defensie dan wel in geval van de beperkte of de algemene noodtoestand het militair gezag, is bevoegd het vertoeven in de open lucht te beperken.
 
 ##### Artikel 12
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister van Defensie dan wel in geval van de beperkte of de algemene noodtoestand het militair gezag, is bevoegd de toegang tot, het verkeer binnen en het verlaten van gebieden te regelen.
 
 ##### Artikel 13
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister van Defensie dan wel in geval van de beperkte of de algemene noodtoestand het militair gezag, is bevoegd bij verordening de uitoefening van zijn bevoegdheden, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=10&z=1999-02-17&g=1999-02-17), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=11&z=1999-02-17&g=1999-02-17) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=12&z=1999-02-17&g=1999-02-17), op te dragen aan andere organen.
 
 ##### Artikel 14
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 De commissaris van de Koning en de burgemeester oefenen hun bevoegdheden tot het inroepen van bijstand van de Koninklijke marechaussee of van andere onderdelen van de krijgsmacht niet uit, maar kunnen bedoelde bijstand ter handhaving van de openbare orde en veiligheid verzoeken aan Onze Minister van Defensie dan wel in geval van de beperkte of de algemene noodtoestand aan het militair gezag.
 
 ##### Artikel 15
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Het militair gezag is bevoegd van algemeen verbindende voorschriften, waarvan de vaststelling krachtens andere wetten toekomt aan organen van andere lichamen dan het Rijk, af te wijken, dan wel deze bij verordening voor zolang dat nodig is buiten werking te stellen en zelf ter zake een tijdelijke regeling te geven.
 
 ##### Artikel 16
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 17
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Het militair gezag is bevoegd het aanbrengen van veranderingen in, aan of op terreinen en opstallen voor te schrijven, te beperken of te verbieden, onder zo spoedig mogelijke verstrekking van een schriftelijk bewijsstuk.
 
 ##### Artikel 18
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd onroerende en roerende zaken te gebruiken, dan wel in gebruik of in eigendom te vorderen, onder zo spoedig mogelijke verstrekking van een schriftelijk bewijsstuk.
 
@@ -181,7 +152,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 19
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd te beschikken over de inrichtingen van telecommunicatie, onder zo spoedig mogelijke verstrekking van een schriftelijk bewijsstuk.
 
@@ -191,7 +162,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 20
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd de inlevering van wapenen, munitie, ontplofbare en anderszins voor de uitwendige of inwendige veiligheid gevaarlijke stoffen te bevelen, onder zo spoedig mogelijke verstrekking van een schriftelijk bewijsstuk.
 
@@ -201,7 +172,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 21
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd gebieden geheel of gedeeltelijk te ontruimen.
 
@@ -211,7 +182,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 22
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd aan niet-militairen die voor de verdediging nuttig kunnen zijn, het verlaten van een gebied te verbieden.
 
@@ -219,13 +190,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 23
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Het militair gezag is bevoegd bij verordening de uitoefening van zijn bevoegdheden, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=17&z=1999-02-17&g=1999-02-17), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=20&z=1999-02-17&g=1999-02-17), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=21&z=1999-02-17&g=1999-02-17), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=22&z=1999-02-17&g=1999-02-17), op te dragen aan andere organen.
 
 ##### Artikel 24
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd regels te stellen nopens de werkzaamheden, welke niet-militairen die de leeftijd van 18 jaar hebben bereikt, in het belang van de taak van de krijgsmacht moeten verrichten. Deze werkzaamheden mogen geen deelneming aan gevechtshandelingen inhouden. Tot oproeping voor het verrichten van deze werkzaamheden zijn bevoegd het militair gezag en de door dit gezag gemachtigde officieren van de krijgsmacht.
 
@@ -235,19 +206,19 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 25
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Het militair gezag is bevoegd van de wettelijke bepalingen omtrent de beperking van de arbeidsduur, de veiligheid en de hygiëne bij de arbeid en het tegengaan van gevaar, schade of hinder, teweeggebracht door inrichtingen, af te wijken, dan wel deze bij verordening voor zolang dat nodig is buiten werking te stellen en zelf ter zake een tijdelijke regeling te geven.
 
 ##### Artikel 26
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Het militair gezag is bevoegd van de wettelijke bepalingen omtrent het vervoer en de bezorging van lijken af te wijken, dan wel deze bij verordening voor zolang dat nodig is buiten werking te stellen en zelf ter zake een tijdelijke regeling te geven.
 
 ##### Artikel 27
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag kan werkzaamheden welke voortvloeien uit zijn taak opdragen aan organen van burgerlijk gezag.
 
@@ -255,7 +226,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 28
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. De organen van burgerlijk gezag en het in burgerlijke overheidsdienst zijnde personeel zijn verplicht de aanwijzingen van het militair gezag op te volgen.
 
@@ -263,7 +234,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 29
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd te voorzien in de uitoefening van de bevoegdheden van de burgemeester en van de commissaris van de Koning inzake de bestrijding van branden, rampen en zware ongevallen, door die uitoefening geheel of ten dele aan zich te trekken dan wel daarmee geheel of ten dele een andere autoriteit te belasten.
 
@@ -271,13 +242,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 30
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Het militair gezag is bevoegd te voorzien in de uitoefening van de bevoegdheden van de burgemeester en van de commissaris van de Koning betrekking hebbend op de handhaving van de openbare orde en veiligheid of van enig ander orgaan van burgerlijk gezag, daarmee krachtens [artikel 7 van de Wet buitengewone bevoegdheden burgerlijk gezag](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=7) belast, door die uitoefening geheel of ten dele aan zich te trekken dan wel daarmee geheel of ten dele een andere autoriteit te belasten. Artikel 29, tweede lid, is van overeenkomstige toepassing.
 
 ##### Artikel 31
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd elk aan de post of aan andere instellingen van vervoer of aan een inrichting van telecommunicatie toevertrouwd stuk of bericht in beslag te nemen, af te luisteren of op te nemen, te onderzoeken, achter te houden, geheel of gedeeltelijk te vernietigen, te wijzigen, onleesbaar te maken of te verhinderen, dat het zijn bestemming bereikt. Zodra de militaire noodzaak is vervallen worden belanghebbenden van gebruik van deze bevoegdheid van het militair gezag schriftelijk op de hoogte gesteld.
 
@@ -285,7 +256,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 32
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd te beschikken over de voorzieningen ten behoeve van de uitvoering van de postdienst, onder zo spoedig mogelijke verstrekking van een schriftelijk bewijsstuk.
 
@@ -293,9 +264,9 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 33
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
-1. Het militair gezag is mede bevoegd de bijzondere last als bedoeld in de [artikelen 139**a**, derde lid onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139a), en [139**b**, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139b) te geven.
+1. Het militair gezag is mede bevoegd de bijzondere last als bedoeld in de [artikelen 139*a*, derde lid onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139a), en [139*b*, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139b) te geven.
 
 2. Het militair gezag is bevoegd van de wettelijke bepalingen omtrent het afluisteren, aftappen en opnemen van ander dan niet voor het publiek bestemd gespreksverkeer via telecommunicatienetwerken af te wijken, dan wel deze bij verordening voor zolang dat nodig is buiten werking te stellen en zelf ter zake een tijdelijke regeling te geven.
 
@@ -303,19 +274,19 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 34
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Het militair gezag is bevoegd bij verordening beperkende bepalingen vast te stellen omtrent het vervaardigen, uitgeven, voorhanden hebben, verspreiden, aanbrengen of in de handel brengen van geschriften, opschriften, tekeningen of afbeeldingen. Het kan een en ander ten aanzien van bepaalde geschriften, opschriften, tekeningen of afbeeldingen geheel verbieden.
 
 ##### Artikel 35
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Het militair gezag is bevoegd bij verordening vertoningen – die van films daaronder begrepen – voor een bepaalde tijdsduur te verbieden.
 
 ##### Artikel 36
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd te bepalen dat geen samenkomsten of vergaderingen op openbare plaatsen, geen samenkomsten of vergaderingen van meer dan tien personen op andere dan openbare plaatsen of geen betogingen zullen worden gehouden dan met zijn schriftelijke vergunning.
 
@@ -327,7 +298,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 37
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd niet-militairen, die de leeftijd van 18 jaar hebben bereikt, op te roepen om deel uit te maken van de krijgsmacht.
 
@@ -335,7 +306,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 38
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd een ieder aan zijn kleding te onderzoeken.
 
@@ -343,11 +314,11 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 39
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 40
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. De officieren of opsporingsambtenaren, aangewezen door het militair gezag, zijn bevoegd alle voorwerpen, waarvan ernstig vermoeden bestaat dat zij zullen dienen tot het in gevaar brengen van de uitwendige of inwendige veiligheid, dan wel van belang zijn voor de waarheidsvinding omtrent een mogelijk in gevaar brengen van die veiligheid, te onderzoeken of voor het militair gezag in beslag te nemen.
 
@@ -355,7 +326,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 41
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Het militair gezag is bevoegd aan personen, van wie gegrond vermoeden bestaat, dat zij de uitwendige of inwendige veiligheid in gevaar zullen brengen, te bevelen een door het militair gezag aangewezen gebied te verlaten, dan wel te verbieden zich daarheen te begeven of daarin terug te keren.
 
@@ -365,33 +336,33 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 42
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Het militair gezag is bevoegd te bepalen, dat een bij de wet toegelaten vrijheidsbeneming ten uitvoer wordt gelegd in andere dan bij of krachtens andere wetten aangewezen plaatsen. De bepalingen uit de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709) worden daarbij zoveel mogelijk toegepast.
 
 ##### Artikel 43
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Het militair gezag is bevoegd bij verordening de uitoefening van zijn bevoegdheden, bedoeld in de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=31&z=1999-02-17&g=1999-02-17), [36, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=36&z=1999-02-17&g=1999-02-17), [37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=37&z=1999-02-17&g=1999-02-17), en [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=41&z=1999-02-17&g=1999-02-17), op te dragen aan andere organen.
 
 ##### Artikel 44
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 45
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 46
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 De rechtbank is bevoegd een verzoekschrift niet in behandeling te nemen, indien binnen twee maanden voorafgaand aan de indiening op een eerder verzoekschrift ter zake van dezelfde internering is beslist, tenzij uit het latere verzoekschrift blijkt van nieuwe feiten of omstandigheden.
 
 ##### Artikel 47
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. De rechtbank is bevoegd ambtshalve te beslissen over de rechtmatigheid van de internering.
 
@@ -401,21 +372,21 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 48
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
-1. Tegen een beslissing van de rechtbank genomen op grond van [artikel 45, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=45&z=1999-02-17&g=1999-02-17), of [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=47&z=1999-02-17&g=1999-02-17), kan binnen twee maanden na verzending van de beschikking beroep in cassatie worden ingesteld door de geïnterneerde en Onze Minister van Defensie. De [artikelen 426**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=426a)–[429 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=429) zijn op de behandeling van dit beroep van toepassing.
+1. Tegen een beslissing van de rechtbank genomen op grond van [artikel 45, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=45&z=1999-02-17&g=1999-02-17), of [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=47&z=1999-02-17&g=1999-02-17), kan binnen twee maanden na verzending van de beschikking beroep in cassatie worden ingesteld door de geïnterneerde en Onze Minister van Defensie. De [artikelen 426*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=426a)–[429 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=429) zijn op de behandeling van dit beroep van toepassing.
 
 2. Tegen een afwijzende beslissing ingevolge [artikel 45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=45&z=1999-02-17&g=1999-02-17), staat beroep in cassatie slechts open gelijktijdig met dat tegen een in het eerste lid bedoelde beslissing.
 
 ##### Artikel 49
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 In het bestuur van de zaken van de geïnterneerde en het waarnemen van diens belangen wordt zonodig voorzien op de wijze voorgeschreven in afdeling I van titel 18 van Boek I van het Burgerlijk Wetboek. Te dien einde wordt aan de officier van justitie bij de rechtbank van de woonplaats van de geïnterneerde onverwijld kennis gegeven van de internering. Artikel 41, tweede lid, is van overeenkomstige toepassing.
 
 ##### Artikel 50
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Minister van Defensie bepaalt, in overeenstemming met Onze Minister van Justitie, waar de internering geschiedt.
 
@@ -423,19 +394,19 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 51
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onverminderd [de artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=45&z=1999-02-17&g=1999-02-17) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=47&z=1999-02-17&g=1999-02-17) wordt een geïnterneerde in vrijheid gesteld, zodra dit naar het oordeel van het militair gezag mogelijk is.
 
 ##### Artikel 52
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 In zaken betreffende een verzoek als bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=45&z=1999-02-17&g=1999-02-17), en betreffende beroep in cassatie als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II&artikel=48&z=1999-02-17&g=1999-02-17) van deze wet is geen recht ingevolge de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) verschuldigd.
 
 ##### Artikel 53
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Minister van Defensie kan indien bij nader onderzoek blijkt dat een internering ten onrechte heeft plaatsgevonden, op verzoek van een gewezen geïnterneerde of diens erfgenamen naar billijkheid een geldelijke tegemoetkoming toekennen voor schade, welke de gewezen geïnterneerde als onmiddellijk gevolg van de internering heeft geleden.
 
@@ -539,19 +510,19 @@ Indien de misdrijven, bedoeld bij de [artikelen 131](https://wetten.overheid.nl/
 
 1. Behalve de bij de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) genoemde ambtenaren zijn, gedurende de beperkte en de algemene noodtoestand, met de opsporing van strafbare feiten de door het militair gezag, na overleg met Onze Minister van Justitie, aangewezen en daartoe beëdigde personen belast.
 
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 3. Bij algemene maatregel van bestuur worden nadere regels vastgesteld over de beëdiging van de in het eerste lid bedoelde personen.
 
 ##### Artikel 67
 
-Op de gronden, bedoeld in [artikel 67**a** van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67a), is gedurende de beperkte en de algemene noodtoestand voorlopige hechtenis toegelaten ten aanzien van overtredingen van bepalingen bij of krachtens deze wet vastgesteld, alsmede voor alle misdrijven.
+Op de gronden, bedoeld in [artikel 67*a* van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67a), is gedurende de beperkte en de algemene noodtoestand voorlopige hechtenis toegelaten ten aanzien van overtredingen van bepalingen bij of krachtens deze wet vastgesteld, alsmede voor alle misdrijven.
 
 ### Hoofdstuk V. Slotbepalingen
 
 ##### Artikel 68
 
-De Oorlogswet voor Nederland (**Stb**. 1964, 337) wordt ingetrokken.
+De Oorlogswet voor Nederland (*Stb*. 1964, 337) wordt ingetrokken.
 
 ##### Artikel 69
 
@@ -559,6 +530,4 @@ Deze wet treedt, met uitzondering van [de artikelen 9](https://wetten.overheid.n
 
 ##### Artikel 70
 
-Deze wet wordt aangehaald als: Oorlogswet voor Nederland.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet wordt aangehaald als: [Oorlogswet voor Nederland](https://wetten.overheid.nl/BWBR0007983).

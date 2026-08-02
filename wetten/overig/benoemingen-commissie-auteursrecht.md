@@ -1,42 +1,17 @@
 ---
 title: "Benoemingen Commissie Auteursrecht"
 identifier: "BWBR0007289"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-05-01"
-last_updated: "1995-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007289"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3557743"
-version_id: "5340882"
-internal_id: "C5533971"
-label_id: "3537764"
-dtd_version: "2.0"
-original_entry_into_force: "1995-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007289/1995-05-01/0"
-intitule_bron: "Stcrt.1995-60"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-03-20"
-intitule_published: "1995-03-24"
-intitule_in_force: "1995-03-24"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-60"
-original_signed_date: "1995-03-20"
-original_published_date: "1995-03-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-05-01"
-jci_1_3: "jci1.3:c:BWBR0007289&z=1995-05-01&g=1995-05-01"
-jci_1_0: "1.0:c:BWBR0007289&g=1995-05-01"
-citeertitel_status: "officieel"
-signed_date: "1995-03-20"
-entry_into_force: "1995-05-01"
+publicatiedatum: 1995-05-01
+laatste_update: 1995-05-01
+status: geldig
+toestand: 1995-05-01
+bron: "https://wetten.overheid.nl/BWBR0007289"
+opgehaald: 2026-08-02
 ---
+
 # Benoemingen Commissie Auteursrecht
-
-Overwegende dat het wenselijk is een commissie in te stellen om advies uit te brengen op het terrein van het auteursrecht en de naburige rechten;
-
-Besluit:
 
 #### Instelling en taak
 

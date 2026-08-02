@@ -1,46 +1,17 @@
 ---
 title: "Openbaarheid archiefbescheiden ‹Archiefwet 1962›"
 identifier: "BWBR0007198"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-03-01"
-last_updated: "1995-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007198"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3592743"
-version_id: "5375822"
-internal_id: "C5568911"
-label_id: "3572704"
-dtd_version: "2.0"
-original_entry_into_force: "1995-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007198/1995-03-01/0"
-intitule_bron: "Stcrt.1995-12"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-01-06"
-intitule_published: "1995-01-17"
-intitule_in_force: "1995-01-17"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-12"
-original_signed_date: "1995-01-06"
-original_published_date: "1995-01-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-03-01"
-jci_1_3: "jci1.3:c:BWBR0007198&z=1995-03-01&g=1995-03-01"
-jci_1_0: "1.0:c:BWBR0007198&g=1995-03-01"
-citeertitel_status: "officieel"
-signed_date: "1995-01-06"
-entry_into_force: "1995-03-01"
+publicatiedatum: 1995-03-01
+laatste_update: 1995-03-01
+status: geldig
+toestand: 1995-03-01
+bron: "https://wetten.overheid.nl/BWBR0007198"
+opgehaald: 2026-08-02
 ---
+
 # Openbaarheid archiefbescheiden ‹Archiefwet 1962›
-
-Overwegende dat bij de overbrenging naar de algemene rijksarchiefbewaarplaats de openbaarheid van de hierna te noemen archiefbescheiden is beperkt voor een termijn aflopende op 1 januari 1995;
-
-dat de openbaarheid van deze archiefbescheiden evenwel onevenredige schade zou kunnen toebrengen aan de persoonlijke levenssfeer van nog levende personen;
-
-Gelet op artikel 7a, tweede lid, van de Archiefwet 1962;
-
-Besluit:
 
 ##### Artikel 1
 

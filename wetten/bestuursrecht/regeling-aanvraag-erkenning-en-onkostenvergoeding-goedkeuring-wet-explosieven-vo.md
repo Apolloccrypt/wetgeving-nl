@@ -1,46 +1,37 @@
 ---
 title: "Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik"
 identifier: "BWBR0006962"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006962"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4329553"
-version_id: "6093862"
-internal_id: "C6297371"
-label_id: "4308154"
-dtd_version: "2.0"
-original_entry_into_force: "1994-10-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006962/2021-01-01/0"
-intitule_bron: "Stcrt.1994-204"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-10-12"
-intitule_published: "1994-10-24"
-intitule_in_force: "1994-10-24"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-204"
-original_signed_date: "1994-10-12"
-original_published_date: "1994-10-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-10-26"
-jci_1_3: "jci1.3:c:BWBR0006962&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0006962&g=2021-01-01"
-citeertitel_status: "officieel"
-signed_date: "1994-10-12"
-entry_into_force: "1994-10-26"
+publicatiedatum: 1994-10-26
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0006962"
+opgehaald: 2026-08-02
 ---
+
 # Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik
-
-Gelet op [artikel 19, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=19), en [artikel 32 van de Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=32);
-
-Besluit
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+de wet:
+
+de [Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803);
+
+erkenning:
+
+erkenning als bedoeld in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=17);
+
+goedkeuring:
+
+goedkeuring als bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=10);
+
+vergunning:
+
+vergunning als bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=10).
 
 ##### Artikel 2
 
@@ -70,17 +61,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De aanvrager van een erkenning of, indien de aanvrager een rechtspersoon is, degene die onmiddellijk leiding geeft aan het bedrijf legt bij zijn aanvraag de gegevens over, genoemd in de bijlage bij deze regeling.
+1. De aanvrager van een erkenning of, indien de aanvrager een rechtspersoon is, degene die onmiddellijk leiding geeft aan het bedrijf legt bij zijn aanvraag de gegevens over, genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0006962) bij deze regeling.
 
 2. Indien het bedrijf, bedoeld in het eerste lid, meer dan één vestiging heeft, wordt voor iedere vestiging een afzonderlijke erkenning aangevraagd.
 
 ##### Artikel 4
 
-1. Ter vergoeding van de kosten die voortvloeien uit de behandeling van een aanvraag om goedkeuring is de aanvrager aan het Rijk verschuldigd: € 127,–.
+1. Ter vergoeding van de kosten die voortvloeien uit de behandeling van een aanvraag om goedkeuring is de aanvrager aan het Rijk verschuldigd: € 127,–.
 
-2. Ter vergoeding van de kosten die voortvloeien uit de behandeling van een aanvraag om een vergunning is de aanvrager aan de betrokken gemeente verschuldigd: € 121,–.
+2. Ter vergoeding van de kosten die voortvloeien uit de behandeling van een aanvraag om een vergunning is de aanvrager aan de betrokken gemeente verschuldigd: € 121,–.
 
-3. Ter vergoeding van de kosten die voortvloeien uit de behandeling van een aanvraag om erkenning of verlenging van de geldigheidsduur daarvan is de aanvrager aan de betrokken regio verschuldigd: € 121,–, respectievelijk € 60,–.
+3. Ter vergoeding van de kosten die voortvloeien uit de behandeling van een aanvraag om erkenning of verlenging van de geldigheidsduur daarvan is de aanvrager aan de betrokken regio verschuldigd: € 121,–, respectievelijk € 60,–.
 
 ##### Artikel 5
 
@@ -91,27 +82,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage. (Behoort bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006962&artikel=3&z=2021-01-01&g=2021-01-01), van de Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik)
-
-##### **Aanvraag van een erkenning**
-
-1. Met betrekking tot de aanvrager:
-
-- a. naam, adres, postcode, woonplaats en telefoonnummer;
-
-- b. indien de aanvrager een rechtspersoon is: naam, adres, postcode, plaats, telefoonnummer en rechtsvorm van het bedrijf;
-
-- c. naam, adres, postcode, plaats en telefoonnummer van de vestiging waar de werkzaamheden, waarvoor de erkenning wordt gevraagd, zullen worden uitgeoefend alsmede de activiteiten die gewoonlijk in deze vestiging worden of zullen worden verricht;
-
-- d. handelingen waarvoor de erkenning wordt gevraagd;
-
-- e. explosieven of soort explosieven waarvoor de erkenning wordt gevraagd.
-
-2. Met betrekking tot de directeur van het onder 1, onder b, genoemde bedrijf: naam, voornamen, geboortedatum, geboorteplaats, privé-adres, postcode, woonplaats en telefoonnummer.
-
-3. Met betrekking tot degene die onmiddellijk leiding geeft aan de onder 1, onder c, genoemde vestiging:
-
-- a. naam, voornamen, geboortedatum, geboorteplaats, privé-adres, postcode, woonplaats en telefoonnummer;
-
-- b. twee recente, goedgelijkende pasfoto's.

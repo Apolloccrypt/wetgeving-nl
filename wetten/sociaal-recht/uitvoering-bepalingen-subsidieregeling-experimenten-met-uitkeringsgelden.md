@@ -1,44 +1,21 @@
 ---
 title: "Uitvoering bepalingen Subsidieregeling experimenten met uitkeringsgelden"
 identifier: "BWBR0007661"
-country: "nl"
-rank: "circulaire"
-publication_date: "1995-11-27"
-last_updated: "1995-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007661"
+categorie: "Sociaal recht"
 soort: "circulaire"
-stam_id: "6413073"
-version_id: "11079972"
-internal_id: "C14991851"
-label_id: "6401774"
-original_entry_into_force: "1995-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007661/1995-11-27/0"
-intitule_bron: "Stcrt.1995-230"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-11-21"
-intitule_published: "1995-11-27"
-intitule_in_force: "1995-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-230"
-original_signed_date: "1995-11-21"
-original_published_date: "1995-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1995-230-p10-SC4317"
-entry_into_force_date: "1995-11-27"
-jci_1_3: "jci1.3:c:BWBR0007661&z=1995-11-27&g=1995-11-27"
-jci_1_0: "1.0:c:BWBR0007661&g=1995-11-27"
-citeertitel_status: "redactioneel"
-signed_date: "1995-11-21"
-entry_into_force: "1995-11-27"
+publicatiedatum: 1995-11-27
+laatste_update: 1995-11-27
+status: geldig
+toestand: 1995-11-27
+bron: "https://wetten.overheid.nl/BWBR0007661"
+opgehaald: 2026-08-02
 ---
+
 # Uitvoering bepalingen Subsidieregeling experimenten met uitkeringsgelden
 
-Aan de uitvoeders van de Experimenten Activering van Uitkeringsgelden
+Uit signalen uit de praktijk is mij gebleken dat bij de uitvoering van de bepalingen van de Subsidieregeling experimenten van uitkeringsgelden van 18 januari 1995 (BZ/VOL/95/113) belemmeringen ontstaan voor bepaalde groepen bijstandsgerechtigheden.
 
-Uit signalen uit de praktijk is mij gebleken dat bij de uitvoering van de bepalingen van de [Subsidieregeling experimenten van uitkeringsgelden](onbekend) van 18 januari 1995 (BZ/VOL/95/113) belemmeringen ontstaan voor bepaalde groepen bijstandsgerechtigheden.
-
-Het betreft in de eerste plaats de hantering van de **werkloosheidstermijn** bij het begrip langdurige werkloze. Volgens de regeling wordt die termijn gesteld op tenminste een jaar (art. 1 onder a.).
+Het betreft in de eerste plaats de hantering van de *werkloosheidstermijn* bij het begrip langdurige werkloze. Volgens de regeling wordt die termijn gesteld op tenminste een jaar (art. 1 onder a.).
 
 Achtergrond van deze keuze destijds is dat voorkomen diende te worden dat de regeling voornamelijk zou worden ingezet voor de werklozen die nog redelijke kansen hebben op de reguliere arbeidsmarkt.
 
@@ -50,9 +27,13 @@ Ik doel daarmee op diegenen, die zelf activiteiten ontplooien om – al is het m
 
 Tegen deze achtergrond ga ik er mee akkoord dat in de uitvoeringspraktijk de termijn van één jaar zodanig wordt gehanteerd, dat dagen waarop de betrokkene arbeid in dienstverband of als zelfstandige heeft verricht meetellen als dagen van werkloosheidsduur, met dien verstande dat:
 
-Met deze hantering wordt aangesloten bij de termijnen die worden genoemd in het op de ’[Wet bevordering arbeidsinpassing](onbekend)’ gebaseerde ’[Uitvoeringsbesluit arbeidsinpassing](onbekend)’.
+- a. de arbeidsperiode(s) in totaal niet langer hebben geduurd dan maximaal 50 dagen òf
 
-Een tweede signaal betreft het **32-uurs criterium.** In de regeling wordt gesteld dat de gemiddelde arbeidsduur per project niet meer dan 32 uur mag bedragen.
+- b. de werkzaamheden totaal niet langer hebben geduurd dan maximaal 400 uren.
+
+Met deze hantering wordt aangesloten bij de termijnen die worden genoemd in het op de ’Wet bevordering arbeidsinpassing’ gebaseerde ’Uitvoeringsbesluit arbeidsinpassing’.
+
+Een tweede signaal betreft het *32-uurs criterium.* In de regeling wordt gesteld dat de gemiddelde arbeidsduur per project niet meer dan 32 uur mag bedragen.
 
 In de praktijk blijkt nu dat dit kan leiden tot problemen met de arbeidsinschakeling van alleenstaande ouders en kostwinners via de experimenten.
 

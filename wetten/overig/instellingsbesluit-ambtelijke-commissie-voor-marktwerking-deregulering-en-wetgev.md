@@ -1,46 +1,33 @@
 ---
 title: "Instellingsbesluit ambtelijke commissie voor marktwerking, deregulering en wetgevingskwaliteit"
 identifier: "BWBR0007202"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-01-22"
-last_updated: "1995-01-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007202"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4256033"
-version_id: "6019542"
-internal_id: "C6222931"
-label_id: "4234684"
-dtd_version: "2.0"
-original_entry_into_force: "1995-01-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007202/1995-01-22/0"
-intitule_bron: "Stcrt.1995-15"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-01-10"
-intitule_published: "1995-01-20"
-intitule_in_force: "1995-01-20"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-15"
-original_signed_date: "1995-01-10"
-original_published_date: "1995-01-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-01-20"
-jci_1_3: "jci1.3:c:BWBR0007202&z=1995-01-22&g=1995-01-22"
-jci_1_0: "1.0:c:BWBR0007202&g=1995-01-22"
-citeertitel_status: "officieel"
-signed_date: "1995-01-10"
-entry_into_force: "1995-01-20"
+publicatiedatum: 1995-01-20
+laatste_update: 1995-01-22
+status: geldig
+toestand: 1995-01-22
+bron: "https://wetten.overheid.nl/BWBR0007202"
+opgehaald: 2026-08-02
 ---
+
 # Instellingsbesluit ambtelijke commissie voor marktwerking, deregulering en wetgevingskwaliteit
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+a.
+
+ambtelijke commissie:
+
+de commissie genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007202&artikel=2&z=1995-01-22&g=1995-01-22);
+
+b.
+
+ministeriële commissie:
+
+de commissie genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007202&artikel=1&z=1995-01-22&g=1995-01-22) van het Instellingsbesluit ministeriële commissie voor martkwerking, deregulering en wetgevingskwaliteit.
 
 ##### Artikel 2
 
@@ -115,5 +102,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Instellingsbesluit ambtelijke commissie voor marktwerking, deregulering en wetgevingskwaliteit.
-
-Dit besluit zal met de toelichting in de Nederlandse Staatscourant worden geplaatst.

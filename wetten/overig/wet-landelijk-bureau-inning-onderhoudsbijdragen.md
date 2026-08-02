@@ -1,48 +1,18 @@
 ---
 title: "Wet van 23 maart 1995, houdende regeling van de organisatie belast met de inning van onderhoudsbijdragen voor kinderen en met de vaststelling en inning van ouderbijdragen voor jeugdhulpverlening"
+citeertitel: "Wet Landelijk Bureau Inning Onderhoudsbijdragen"
 identifier: "BWBR0007292"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007292"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2569873"
-version_id: "3871462"
-internal_id: "C3871461"
-label_id: "2515754"
-dtd_version: "2.0"
-original_entry_into_force: "1997-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007292/2021-07-01/0"
-intitule_bron: "Stb.1995-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-03-23"
-intitule_published: "1995-04-18"
-intitule_in_force: "1995-04-18"
-intitule_status: "goed"
-original_publication: "Stb.1995-198"
-original_signed_date: "1995-03-23"
-original_published_date: "1995-04-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "23938"
-original_url_id: "stb-1995-198"
-entry_into_force_date: "1997-01-01"
-entry_into_force_dossier: "23938"
-jci_1_3: "jci1.3:c:BWBR0007292&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0007292&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet Landelijk Bureau Inning Onderhoudsbijdragen"
-signed_date: "1995-03-23"
-entry_into_force: "1997-01-01"
+publicatiedatum: 1997-01-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0007292"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 23 maart 1995, houdende regeling van de organisatie belast met de inning van onderhoudsbijdragen voor kinderen en met de vaststelling en inning van ouderbijdragen voor jeugdhulpverlening
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de uitoefening van de taken met betrekking tot de inning van onderhoudsbijdragen voor kinderen en de vaststelling en inning van ouderbijdragen jeugdhulpverlening door de dependance Gouda van de raad voor de kinderbescherming Den Haag en door de daar gedetacheerde werkeenheid van het Ministerie van Volksgezondheid, Welzijn en Sport te verzelfstandigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -70,7 +40,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. bij andere wetten opgedragen taken.
 
-4. Het Bureau treedt op als ontvangende en verzendende instelling als bedoeld in artikel 2 van het Verdrag inzake het verhaal in het buitenland van uitkeringen tot onderhoud en als bedoeld in artikel 11, derde lid, van het Europees Verdrag inzake de rechtspositie van migrerende werknemers. Het Bureau treedt op als centrale autoriteit, bedoeld in artikel 4 van het op 23 november 2007 te ’s-Gravenhage tot stand gekomen Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden (PbEU 2011, L 192/51) en artikel 49 van verordening (EG) nr. 4/2009 van de Raad van 18 december 2008 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen, en de samenwerking op het gebied van onderhoudsverplichtingen (PbEU L 7/1).
+4. Het Bureau treedt op als ontvangende en verzendende instelling als bedoeld in artikel 2 van het Verdrag inzake het verhaal in het buitenland van uitkeringen tot onderhoud en als bedoeld in artikel 11, derde lid, van het Europees Verdrag inzake de rechtspositie van migrerende werknemers. Het Bureau treedt op als centrale autoriteit, bedoeld in artikel 4 van het op 23 november 2007 te ’s-Gravenhage tot stand gekomen Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden (PbEU 2011, L 192/51) en artikel 49 van verordening (EG) nr. 4/2009 van de Raad van 18 december 2008 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen, en de samenwerking op het gebied van onderhoudsverplichtingen (PbEU L 7/1).
 
 5. Bij algemene maatregel van bestuur kan worden bepaald dat het Bureau daarbij aangegeven andere taken kan verrichten dan die, bedoeld in het derde en vierde lid, indien deze taken:
 
@@ -112,43 +82,37 @@ De directie is belast met de dagelijkse leiding van het Bureau.
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
-
-#### § 3. De raad van toezicht
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk 3. Organisatie en personeel
-
-#### § 1. De organisatie
+### Hoofdstuk 3. Organisatie
 
 ##### Artikel 13
 
 De directie stelt bij bestuursreglement de hoofdlijnen vast van de organisatie van het Bureau.
 
-#### § 1. Financieel beheer
-
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. Financieel beheer en verslaglegging
 
@@ -170,7 +134,7 @@ Vervallen
 
 4. In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is [titel 4.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van toepassing op de subsidies, bedoeld in het tweede en derde lid.
 
-5. Onze Minister geeft jaarlijks voor 1 september, nadat hij daarover met het Bureau heeft overlegd, het bedrag van de subsidie aan dat in het daarop volgende kalenderjaar aan het Bureau zal worden verstrekt en neemt dit bedrag op in het voorstel van wet tot vaststelling van de begroting van het Ministerie van Veiligheid en Justitie.
+5. Onze Minister geeft jaarlijks voor 1 september, nadat hij daarover met het Bureau heeft overlegd, het bedrag van de subsidie aan dat in het daarop volgende kalenderjaar aan het Bureau zal worden verstrekt en neemt dit bedrag op in het voorstel van wet tot vaststelling van de begroting van het Ministerie van Veiligheid en Justitie.
 
 6. Indien de subsidie wordt verstrekt ten laste van een begroting die nog niet is vastgesteld, wordt zij verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
@@ -200,7 +164,7 @@ De directie stelt tijdig voor de afloop van het boekjaar het ontwerp van een fin
 
 ##### Artikel 19
 
-1. De directie zendt de vastgestelde begroting en het vastgestelde meerjarenbeleidsplan voor 1 juli van het daaraan voorafgaande boekjaar toe aan Onze minister.
+1. De directie zendt de vastgestelde begroting en het vastgestelde meerjarenbeleidsplan voor 1 juli van het daaraan voorafgaande boekjaar toe aan Onze minister.
 
 2. Bij toezending van de in het eerste lid bedoelde stukken kan de directie aan Onze minister een beredeneerd voorstel doen tot wijziging van de kostenopslag, bedoeld in [artikel 408 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=408).
 
@@ -214,7 +178,7 @@ Het meerjarenbeleidsplan behoeft de goedkeuring van Onze minister. Onze minister
 
 Binnen acht dagen na de vaststelling maakt het Bureau de jaarrekening openbaar door terinzagelegging op het kantoor van het Bureau. Van de terinzagelegging wordt kennisgegeven in de Staatscourant. De directie ziet erop toe dat aan een ieder die daarom verzoekt, inzage wordt verleend in de jaarrekening en het jaarverslag, en een volledig of gedeeltelijk afschrift daarvan wordt verstrekt tegen ten hoogste de kostprijs van het maken van zodanig afschrift.
 
-### Hoofdstuk 5. Inlichtingen en voorziening bij nalatigheid
+### Hoofdstuk 5. Inlichtingen
 
 ##### Artikel 22
 
@@ -226,41 +190,41 @@ De Gemeentelijke Sociale Diensten, Onze Minister van Onderwijs, Cultuur en Weten
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 6. Wijziging van andere wetten
 
 ##### Artikel 25
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 26
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 27
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 28
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 29
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 30
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 31
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 32
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
@@ -307,19 +271,3 @@ Deze wet treedt in werking met ingang van 1 januari 1997.
 ##### Artikel 40
 
 Deze wet kan worden aangehaald als: Wet Landelijk Bureau Inning Onderhoudsbijdragen.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 3. Organisatie
-
-### Hoofdstuk 4. Financieel beheer en verslaglegging
-
-#### § 2. De jaarrekening en het jaarverslag
-
-### Hoofdstuk 5. Inlichtingen
-
-### Hoofdstuk 6. Wijziging van andere wetten
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,48 +1,18 @@
 ---
 title: "Wet van 3 juli 1996, houdende algemene regels over de advisering in zaken van algemeen verbindende voorschriften of te voeren beleid van het Rijk (Kaderwet adviescolleges)"
+citeertitel: "Kaderwet adviescolleges"
 identifier: "BWBR0008159"
-country: "nl"
-rank: "wet"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008159"
+categorie: "Overig"
 soort: "wet"
-stam_id: "92613"
-version_id: "129272"
-internal_id: "C129271"
-label_id: "93934"
-dtd_version: "2.0"
-original_entry_into_force: "1997-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008159/2022-07-01/0"
-intitule_bron: "Stb.1996-378"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-07-03"
-intitule_published: "1996-07-11"
-intitule_in_force: "1996-07-11"
-intitule_status: "goed"
-original_publication: "Stb.1996-378"
-original_signed_date: "1996-07-03"
-original_published_date: "1996-07-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "24503"
-original_url_id: "stb-1996-378"
-entry_into_force_date: "1997-01-01"
-entry_into_force_dossier: "24503"
-jci_1_3: "jci1.3:c:BWBR0008159&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0008159&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Kaderwet adviescolleges"
-signed_date: "1996-07-03"
-entry_into_force: "1997-01-01"
+publicatiedatum: 1997-01-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0008159"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 3 juli 1996, houdende algemene regels over de advisering in zaken van algemeen verbindende voorschriften of te voeren beleid van het Rijk (Kaderwet adviescolleges)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is, mede in verband met [artikel 79 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=79), algemene regels te stellen over de advisering in zaken van algemeen verbindende voorschriften of te voeren beleid van het Rijk;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
@@ -128,7 +98,7 @@ Leden van adviescolleges worden op eigen aanvraag door Onze Minister ontslagen. 
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
@@ -145,6 +115,10 @@ Vervallen
 ##### Artikel 16
 
 Een adviescollege kan ter voorbereiding van een of meer adviezen uit zijn midden commissies instellen.
+
+##### Artikel 16a
+
+De archiefbescheiden van een adviescollege als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=5&z=2022-07-01&g=2022-07-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=6&z=2022-07-01&g=2022-07-01), worden na zijn opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van Onze Minister.
 
 ### HOOFDSTUK 4. ADVISERING EN STANDPUNTBEPALING
 
@@ -246,11 +220,11 @@ Onze Minister van Binnenlandse Zaken zendt elke vier jaar aan de Staten-Generaal
 
 ##### Artikel 31
 
-Wijzigt de Ambtenarenwet.
+*Wijzigt de Ambtenarenwet.*
 
 ##### Artikel 32
 
-Wijzigt de Comptabiliteitswet.
+*Wijzigt de Comptabiliteitswet.*
 
 ##### Artikel 33
 
@@ -269,19 +243,3 @@ Deze wet treedt in werking met ingang van 1 januari 1997.
 ##### Artikel 36
 
 Deze wet wordt aangehaald als: Kaderwet adviescolleges.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 16a
-
-De archiefbescheiden van een adviescollege als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=5&z=2022-07-01&g=2022-07-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=6&z=2022-07-01&g=2022-07-01), worden na zijn opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van Onze Minister.
-
-### HOOFDSTUK 4. ADVISERING EN STANDPUNTBEPALING
-
-### HOOFDSTUK 5. BEGROTING EN PROGRAMMERING
-
-### HOOFDSTUK 6. VERSLAGLEGGING EN EVALUATIE
-
-### HOOFDSTUK 7. OVERGANGS- EN SLOTBEPALINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

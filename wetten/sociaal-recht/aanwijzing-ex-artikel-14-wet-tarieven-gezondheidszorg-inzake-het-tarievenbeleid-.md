@@ -1,48 +1,17 @@
 ---
 title: "Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1995 voor medisch specialisten"
 identifier: "BWBR0007112"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-02-05"
-last_updated: "1995-02-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007112"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "3837083"
-version_id: "5615112"
-internal_id: "C5808341"
-label_id: "3817044"
-dtd_version: "2.0"
-original_entry_into_force: "1995-02-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007112/1995-02-05/0"
-intitule_bron: "Stcrt.1995-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-15"
-intitule_published: "1995-02-03"
-intitule_in_force: "1995-02-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-25"
-original_signed_date: "1994-12-15"
-original_published_date: "1995-02-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-02-05"
-jci_1_3: "jci1.3:c:BWBR0007112&z=1995-02-05&g=1995-02-05"
-jci_1_0: "1.0:c:BWBR0007112&g=1995-02-05"
-citeertitel_status: "officieel"
-signed_date: "1994-12-15"
-entry_into_force: "1995-02-05"
+publicatiedatum: 1995-02-05
+laatste_update: 1995-02-05
+status: geldig
+toestand: 1995-02-05
+bron: "https://wetten.overheid.nl/BWBR0007112"
+opgehaald: 2026-08-02
 ---
+
 # Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1995 voor medisch specialisten
-
-en de Minister van Economische Zaken, en de Minister van Onderwijs, Cultuur en Wetenschappen,
-
-Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=14);
-
-Gehoord het Centraal Orgaan Tarieven Gezondheidszorg (advies van 25 november 1994, kenmerk HV/th/VI/94/352, vastgesteld in de vergadering van 21 november 1994);
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief van 30 november 1994, kenmerk VMP/O-943591);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -61,5 +30,3 @@ Besluiten:
 ##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

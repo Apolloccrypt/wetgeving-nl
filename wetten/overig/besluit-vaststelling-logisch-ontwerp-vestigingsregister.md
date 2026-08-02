@@ -1,42 +1,17 @@
 ---
 title: "Besluit vaststelling Logisch ontwerp Vestigingsregister"
 identifier: "BWBR0006928"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-10-01"
-last_updated: "1994-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006928"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4656643"
-version_id: "6472792"
-internal_id: "C6719671"
-label_id: "4634794"
-dtd_version: "2.0"
-original_entry_into_force: "1994-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006928/1994-10-01/0"
-intitule_bron: "Stcrt.1994-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-09-19"
-intitule_published: "1994-09-29"
-intitule_in_force: "1994-09-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-187"
-original_signed_date: "1994-09-19"
-original_published_date: "1994-09-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-10-01"
-jci_1_3: "jci1.3:c:BWBR0006928&z=1994-10-01&g=1994-10-01"
-jci_1_0: "1.0:c:BWBR0006928&g=1994-10-01"
-citeertitel_status: "officieel"
-signed_date: "1994-09-19"
-entry_into_force: "1994-10-01"
+publicatiedatum: 1994-10-01
+laatste_update: 1994-10-01
+status: geldig
+toestand: 1994-10-01
+bron: "https://wetten.overheid.nl/BWBR0006928"
+opgehaald: 2026-08-02
 ---
+
 # Besluit vaststelling Logisch ontwerp Vestigingsregister
-
-Gelet op het besluit van 19 september 1994, GBA 94/U118, tot wijziging van het besluit tot vaststelling van de systeembeschrijving gemeentelijke basisadministratie persoonsgegevens;
-
-Besluit:
 
 ##### Artikel 1
 

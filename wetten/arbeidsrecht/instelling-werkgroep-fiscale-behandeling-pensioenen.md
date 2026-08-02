@@ -1,42 +1,17 @@
 ---
 title: "Instelling Werkgroep fiscale behandeling pensioenen"
 identifier: "BWBR0006966"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-12-01"
-last_updated: "1994-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006966"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3729743"
-version_id: "5512712"
-internal_id: "C5705801"
-label_id: "3709594"
-dtd_version: "2.0"
-original_entry_into_force: "1994-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006966/1994-12-01/0"
-intitule_bron: "Stcrt.1994-201"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-10-13"
-intitule_published: "1994-10-19"
-intitule_in_force: "1994-10-19"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-201"
-original_signed_date: "1994-10-13"
-original_published_date: "1994-10-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-12-01"
-jci_1_3: "jci1.3:c:BWBR0006966&z=1994-12-01&g=1994-12-01"
-jci_1_0: "1.0:c:BWBR0006966&g=1994-12-01"
-citeertitel_status: "officieel"
-signed_date: "1994-10-13"
-entry_into_force: "1994-12-01"
+publicatiedatum: 1994-12-01
+laatste_update: 1994-12-01
+status: geldig
+toestand: 1994-12-01
+bron: "https://wetten.overheid.nl/BWBR0006966"
+opgehaald: 2026-08-02
 ---
+
 # Instelling Werkgroep fiscale behandeling pensioenen
-
-Overwegende dat het wenselijk is de werkgroep fiscale behandeling pensioenen in te stellen;
-
-Besluit:
 
 #### § 1. Instelling en taak
 

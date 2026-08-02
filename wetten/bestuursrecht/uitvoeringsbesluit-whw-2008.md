@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0006152"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-02
 ---
 
 # Besluit van 22 september 1993, houdende uitvoeringsbepalingen van de Wet op het hoger onderwijs en wetenschappelijk onderzoek

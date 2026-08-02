@@ -1,44 +1,18 @@
 ---
 title: "Wet van 13 oktober 1994, houdende regels omtrent de vrijwillige verplaatsing naar het buitenland van de statutaire zetel van naamloze vennootschappen, besloten vennootschappen, coöperaties, onderlinge waarborgmaatschappijen en stichtingen in tijden van nood"
+citeertitel: "Wet vrijwillige zetelverplaatsing derde landen"
 identifier: "BWBR0006968"
-country: "nl"
-rank: "wet"
-publication_date: "2011-07-01"
-last_updated: "2011-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006968"
+categorie: "Overig"
 soort: "wet"
-stam_id: "463563"
-version_id: "683902"
-internal_id: "C683911"
-label_id: "450984"
-dtd_version: "2.0"
-original_entry_into_force: "1994-11-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006968/2011-07-01/0"
-intitule_bron: "Stb.1994-800"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-10-13"
-intitule_status: "goed"
-original_publication: "Stb.1994-800"
-original_signed_date: "1994-10-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "23316"
-entry_into_force_date: "1994-11-23"
-entry_into_force_dossier: "23316"
-jci_1_3: "jci1.3:c:BWBR0006968&z=2011-07-01&g=2011-07-01"
-jci_1_0: "1.0:c:BWBR0006968&g=2011-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet vrijwillige zetelverplaatsing derde landen"
-signed_date: "1994-10-13"
-entry_into_force: "1994-11-23"
+publicatiedatum: 1994-11-23
+laatste_update: 2011-07-01
+status: geldig
+toestand: 2011-07-01
+bron: "https://wetten.overheid.nl/BWBR0006968"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 13 oktober 1994, houdende regels omtrent de vrijwillige verplaatsing naar het buitenland van de statutaire zetel van naamloze vennootschappen, besloten vennootschappen, coöperaties, onderlinge waarborgmaatschappijen en stichtingen in tijden van nood
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het gewenst is voor naamloze vennootschappen, besloten vennootschappen met beperkte aansprakelijkheid, coöperaties, onderlinge waarborgmaatschappijen en stichtingen de mogelijkheid te openen in tijden van nood hun statutaire zetel vanuit Nederland naar een plaats buiten het Koninkrijk over te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -68,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Bij het besluit tot zetelverplaatsing kunnen bestuurders en commissarissen en, bij een stichting, leden van een toezichthoudend orgaan worden benoemd en ontslagen.
 
-7. Bij een aanwijzing als bedoeld in het eerste lid, onder **c**, kunnen de bevoegdheden bedoeld in het derde tot en met het zesde lid voor een of meer van de aangewezen personen worden uitgesloten of beperkt.
+7. Bij een aanwijzing als bedoeld in het eerste lid, onder *c*, kunnen de bevoegdheden bedoeld in het derde tot en met het zesde lid voor een of meer van de aangewezen personen worden uitgesloten of beperkt.
 
 ##### Artikel 3
 
@@ -120,7 +94,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 6
 
-1. Een consulaire ambtenaar als bedoeld in de [Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847) is bevoegd tot het verlijden van een akte als bedoeld in de [artikelen 2, eerste lid, onder **c**, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=2&z=2011-07-01&g=2011-07-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=3&z=2011-07-01&g=2011-07-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=4&z=2011-07-01&g=2011-07-01), en [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=5&z=2011-07-01&g=2011-07-01), met dien verstande dat de beperking tot Nederlanders in [artikel 1, vierde lid, van de Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&artikel=1) niet van toepassing is.
+1. Een consulaire ambtenaar als bedoeld in de [Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847) is bevoegd tot het verlijden van een akte als bedoeld in de [artikelen 2, eerste lid, onder *c*, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=2&z=2011-07-01&g=2011-07-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=3&z=2011-07-01&g=2011-07-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=4&z=2011-07-01&g=2011-07-01), en [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=5&z=2011-07-01&g=2011-07-01), met dien verstande dat de beperking tot Nederlanders in [artikel 1, vierde lid, van de Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&artikel=1) niet van toepassing is.
 
 2. De [artikelen 3, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=3&z=2011-07-01&g=2011-07-01), en [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=4&z=2011-07-01&g=2011-07-01), zijn ten aanzien van de consulaire ambtenaar van overeenkomstige toepassing.
 
@@ -128,10 +102,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 7
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.
 
 ##### Artikel 8
 
 Deze wet kan worden aangehaald als: Wet vrijwillige zetelverplaatsing derde landen.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

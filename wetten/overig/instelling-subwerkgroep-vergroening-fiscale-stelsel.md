@@ -1,45 +1,18 @@
 ---
 title: "Instelling subwerkgroep vergroening van het fiscale stelsel van de Werkgroep fiscaal-technische herziening loon- en inkomstenbelasting"
+citeertitel: "Instelling subwerkgroep vergroening fiscale stelsel"
 identifier: "BWBR0007297"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-05-01"
-last_updated: "1995-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007297"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3960213"
-version_id: "5733402"
-internal_id: "C5936131"
-label_id: "3940314"
-dtd_version: "2.0"
-original_entry_into_force: "1995-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007297/1995-05-01/0"
-intitule_bron: "Stcrt.1995-62"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-03-24"
-intitule_published: "1995-03-28"
-intitule_in_force: "1995-03-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-62"
-original_signed_date: "1995-03-24"
-original_published_date: "1995-03-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-05-01"
-jci_1_3: "jci1.3:c:BWBR0007297&z=1995-05-01&g=1995-05-01"
-jci_1_0: "1.0:c:BWBR0007297&g=1995-05-01"
-citeertitel_status: "officieel"
-short_title: "Instelling subwerkgroep vergroening fiscale stelsel"
-signed_date: "1995-03-24"
-entry_into_force: "1995-05-01"
+publicatiedatum: 1995-05-01
+laatste_update: 1995-05-01
+status: geldig
+toestand: 1995-05-01
+bron: "https://wetten.overheid.nl/BWBR0007297"
+opgehaald: 2026-08-02
 ---
+
 # Instelling subwerkgroep vergroening van het fiscale stelsel van de Werkgroep fiscaal-technische herziening loon- en inkomstenbelasting
-
-Overwegende dat het wenselijk is een werkgroep vergroening van het fiscale stelsel als subwerkgroep van de werkgroep fiscaal-technische herziening van de loon- en inkomstenbelasting bij afzonderlijk besluit in te stellen;
-
-Gelet op het besluit van 22 december 1994/nr. [AFP94/443M](https://wetten.overheid.nl/jci1.3:c:BWBR0007153) tot instelling van de werkgroep fiscaal-technische herziening van de loon- en inkomstenbelasting, in het bijzonder op artikel 5 van dat besluit;
-
-Besluit:
 
 #### § 1. Instelling en taak
 

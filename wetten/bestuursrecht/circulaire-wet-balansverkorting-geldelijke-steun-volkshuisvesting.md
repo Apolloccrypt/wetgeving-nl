@@ -1,40 +1,17 @@
 ---
 title: "Circulaire Wet balansverkorting geldelijke steun volkshuisvesting"
 identifier: "BWBR0007485"
-country: "nl"
-rank: "circulaire"
-publication_date: "1995-07-28"
-last_updated: "1995-07-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007485"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6333743"
-version_id: "10987122"
-internal_id: "C14878591"
-label_id: "6322554"
-original_entry_into_force: "1995-07-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007485/1995-07-28/0"
-intitule_bron: "Stcrt.1995-144"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-07-14"
-intitule_published: "1995-07-28"
-intitule_in_force: "1995-07-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-144"
-original_signed_date: "1995-07-14"
-original_published_date: "1995-07-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1995-144-p4-SC3289"
-entry_into_force_date: "1995-07-28"
-jci_1_3: "jci1.3:c:BWBR0007485&z=1995-07-28&g=1995-07-28"
-jci_1_0: "1.0:c:BWBR0007485&g=1995-07-28"
-citeertitel_status: "redactioneel"
-signed_date: "1995-07-14"
-entry_into_force: "1995-07-28"
+publicatiedatum: 1995-07-28
+laatste_update: 1995-07-28
+status: geldig
+toestand: 1995-07-28
+bron: "https://wetten.overheid.nl/BWBR0007485"
+opgehaald: 2026-08-02
 ---
-# Circulaire Wet balansverkorting geldelijke steun volkshuisvesting
 
-Circulaire aan de colleges van burgemeester en wethouders en aan de besturen van toegelaten instellingen, MG 95-25 van 19 juli 1995
+# Circulaire Wet balansverkorting geldelijke steun volkshuisvesting
 
 In verband met de inwerkingtreding van de [Wet balansverkorting geldelijke steun volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0007419) heb ik de circulaire MG 95-25 verzonden aan de Colleges van burgemeester en wethouders en de besturen van toegelaten instellingen.
 

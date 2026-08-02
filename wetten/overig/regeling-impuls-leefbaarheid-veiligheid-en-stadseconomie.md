@@ -1,40 +1,17 @@
 ---
 title: "Regeling impuls leefbaarheid, veiligheid en stadseconomie"
 identifier: "BWBR0007765"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007765"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4596673"
-version_id: "6412952"
-internal_id: "C6658511"
-label_id: "4575024"
-dtd_version: "2.0"
-original_entry_into_force: "1995-12-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007765/2002-01-01/0"
-intitule_bron: "Stcrt.1995-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-19"
-intitule_published: "1995-12-22"
-intitule_in_force: "1995-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-249"
-original_signed_date: "1995-12-19"
-original_published_date: "1995-12-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-12-24"
-jci_1_3: "jci1.3:c:BWBR0007765&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0007765&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "1995-12-19"
-entry_into_force: "1995-12-24"
+publicatiedatum: 1995-12-24
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0007765"
+opgehaald: 2026-08-02
 ---
-# Regeling impuls leefbaarheid, veiligheid en stadseconomie
 
-Besluit:
+# Regeling impuls leefbaarheid, veiligheid en stadseconomie
 
 ##### Artikel 1
 
@@ -56,12 +33,12 @@ Plannen
 
 - Utrecht: Utrecht werkt aan leefbaarheid
 
-|   | Rijksbijdrage | Annuïteit |
+|  | Rijksbijdrage | Annuïteit |
 | --- | --- | --- |
 | Amsterdam | 43,125 mln. | € 1.701.675,81 |
 | Rotterdam | 32,775 mln. | € 1.293.273,62 |
 | Den Haag | 25,30 mln. | € 998.316,48 |
-| Utrecht | **13,80 mln.** | **€ 544.536,26** |
+| Utrecht | 13,80 mln. | € 544.536,26 |
 | Totaal | 115,0 mln. | € 4.537.802,17 |
 
 ##### Artikel 2

@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-24
 toestand: 2022-11-04
 bron: "https://wetten.overheid.nl/BWBR0047425"
-opgehaald: 2026-07-31
+opgehaald: 2026-08-02
 ---
 
 # Besluit Hybridemismatches

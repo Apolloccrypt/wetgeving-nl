@@ -1,72 +1,41 @@
 ---
 title: "Regels inzake de financiering van vut-lasten"
 identifier: "BWBR0007824"
-country: "nl"
-rank: "zbo"
-publication_date: "1996-01-01"
-last_updated: "1996-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007824"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6564113"
-version_id: "11369762"
-internal_id: "C15312451"
-label_id: "6552844"
-original_entry_into_force: "1996-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007824/1996-01-01/0"
-intitule_bron: "Stcrt.1996-16"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-28"
-intitule_published: "1996-01-23"
-intitule_in_force: "1996-01-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-16"
-original_signed_date: "1995-12-28"
-original_published_date: "1996-01-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1996-16-p12-SC5027"
-entry_into_force_date: "1996-01-01"
-jci_1_3: "jci1.3:c:BWBR0007824&z=1996-01-01&g=1996-01-01"
-jci_1_0: "1.0:c:BWBR0007824&g=1996-01-01"
-citeertitel_status: "officieel"
-signed_date: "1995-12-28"
-entry_into_force: "1996-01-01"
+publicatiedatum: 1996-01-01
+laatste_update: 1996-01-01
+status: geldig
+toestand: 1996-01-01
+bron: "https://wetten.overheid.nl/BWBR0007824"
+opgehaald: 2026-08-02
 ---
+
 # Regels inzake de financiering van vut-lasten
-
-Het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel,
-
-gezien de goedkeuring van de Minister van Binnenlandse Zaken en de Centrale Commissie voor Georganiseerd Overleg in Ambtenarenzaken d.d. 13 december 1995,
-
-gelet op [artikel 9, zesde lid van de Wet kaderregeling vut overheidspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=9) (Stb. 1995, 640),
-
-Bepaalt:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 Voor de toepassing van dit besluit wordt, tenzij uit de bepaling het tegendeel blijkt, verstaan onder:
 
-- a. **pensioenreglement**: het pensioenreglement van de Stichting Pensioenfonds ABP;
+- a. *pensioenreglement*: het pensioenreglement van de Stichting Pensioenfonds ABP;
 
-- b. **inkomen**: het inkomen bedoeld in artikel 3.1, eerste tot en met vijfde lid van het pensioenreglement;
+- b. *inkomen*: het inkomen bedoeld in artikel 3.1, eerste tot en met vijfde lid van het pensioenreglement;
 
-- c. **werkgever**: de werkgever bedoeld in artikel 2.2 van het pensioenreglement;
+- c. *werkgever*: de werkgever bedoeld in artikel 2.2 van het pensioenreglement;
 
-- d. **werknemer**: de werknemer bedoeld in artikel 2.3 van het pensioenreglement;
+- d. *werknemer*: de werknemer bedoeld in artikel 2.3 van het pensioenreglement;
 
-- e. **deeltijdfactor**: de deeltijdfactor bedoeld in artikel 1.4 van het pensioenreglement;
+- e. *deeltijdfactor*: de deeltijdfactor bedoeld in artikel 1.4 van het pensioenreglement;
 
-- f. **belanghebbende**: de werknemer die door vrijwillig vervroegd uittreden recht op uitkering heeft verkregen;
+- f. *belanghebbende*: de werknemer die door vrijwillig vervroegd uittreden recht op uitkering heeft verkregen;
 
-- g. **vut-fonds**: de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel, gevestigd te Heerlen;
+- g. *vut-fonds*: de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel, gevestigd te Heerlen;
 
-- h. **kaderwet**: de [Wet kaderregeling vut overheidspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0007792) (Stb. 1995, 640);
+- h. *kaderwet*: de [Wet kaderregeling vut overheidspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0007792) (Stb. 1995, 640);
 
-- i. **vut-overeenkomst**: de centrale vut-overeenkomst overheids- en onderwijspersoneel, zoals door de gezamenlijke sectorwerkgevers en de centrales van overheids- en onderwijspersoneel aangegaan op 30 oktober 1995 en nader vastgesteld op 20 december 1995;
+- i. *vut-overeenkomst*: de centrale vut-overeenkomst overheids- en onderwijspersoneel, zoals door de gezamenlijke sectorwerkgevers en de centrales van overheids- en onderwijspersoneel aangegaan op 30 oktober 1995 en nader vastgesteld op 20 december 1995;
 
-- j. **vut-wet**: de [Wet uitkering wegens vrijwillig vervroegd uittreden](onbekend) (Stb. 1984, 273).
+- j. *vut-wet*: de Wet uitkering wegens vrijwillig vervroegd uittreden (Stb. 1984, 273).
 
 #### Dekking van de Vut-lasten
 
@@ -74,7 +43,7 @@ Voor de toepassing van dit besluit wordt, tenzij uit de bepaling het tegendeel b
 
 1. De lasten die voor het Vut-fonds ontstaan uit het bepaalde in [artikel 8 van de kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8) en uit de vut-overeenkomst, worden met inachtneming van het bepaalde in [artikel 9, derde en vierde lid van die kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=9), respectievelijk artikel 2, derde lid van die overeenkomst gedekt door bijdragen (vut-bijdragen) van de werkgevers.
 
-2. In afwijking van het bepaalde in het eerste lid, worden de lasten met inachtneming van het bepaalde in [artikel 9, derde lid van de kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=9) respectievelijk artikel 3, derde lid van de vut-overeenkomst tot de eerste dag van de maand volgende op die waarin de belanghebbende de leeftijd van 61 jaar heeft bereikt, gedekt door vergoedingen (vut-vergoedingen) van de werkgever uit wiens dienst een werknemer vrijwillig vervroegd is uitgetreden, zulks indien en voorzover de lasten verband houden met uitkeringen waarop recht is verkregen door toepassing van het bepaalde in de [artikelen 3, negende tot en met elfde lid](onbekend) en [6, achtste lid van de vut-wet](onbekend) dan wel krachtens artikel 3, eerste en tweede lid van de vut-overeenkomst.
+2. In afwijking van het bepaalde in het eerste lid, worden de lasten met inachtneming van het bepaalde in [artikel 9, derde lid van de kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=9) respectievelijk artikel 3, derde lid van de vut-overeenkomst tot de eerste dag van de maand volgende op die waarin de belanghebbende de leeftijd van 61 jaar heeft bereikt, gedekt door vergoedingen (vut-vergoedingen) van de werkgever uit wiens dienst een werknemer vrijwillig vervroegd is uitgetreden, zulks indien en voorzover de lasten verband houden met uitkeringen waarop recht is verkregen door toepassing van het bepaalde in de artikelen 3, negende tot en met elfde lid en 6, achtste lid van de vut-wet dan wel krachtens artikel 3, eerste en tweede lid van de vut-overeenkomst.
 
 3. In afwijking van het bepaalde in de vorige twee leden, worden de lasten die verband houden met uitkeringen waarop recht is verkregen krachtens de [Wet bevordering doorstroming onderwijspersoneel II](https://wetten.overheid.nl/jci1.3:c:BWBR0004586), overeenkomstig het bepaalde in [artikel 15, eerste lid van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004586&artikel=15), door het Rijk aan het Vut-fonds vergoed tot de dag waarop de belanghebbende de leeftijd van 61 jaar heeft bereikt.
 

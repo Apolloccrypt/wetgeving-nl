@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 12 mei 1995, houdende uitvoering van de artikelen 41, vijfde lid, 42, tweede lid, en 45, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg"
+citeertitel: "Besluit buitenslands gediplomeerden volksgezondheid"
 identifier: "BWBR0007397"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-10-01"
-last_updated: "2020-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007397"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "309573"
-version_id: "25736322"
-internal_id: "C36709011"
-label_id: "302954"
-dtd_version: "2.0"
-original_entry_into_force: "2019-02-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007397/2020-10-01/0"
-intitule_bron: "Stb.1996-69"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-05-12"
-intitule_published: "1996-02-08"
-intitule_in_force: "1997-11-27"
-intitule_status: "goed"
-original_publication: "Stb.2019-111"
-original_signed_date: "2019-02-22"
-original_published_date: "2019-03-14"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2019-111"
-entry_into_force_date: "2019-02-22"
-jci_1_3: "jci1.3:c:BWBR0007397&z=2020-10-01&g=2020-10-01"
-jci_1_0: "1.0:c:BWBR0007397&g=2020-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit buitenslands gediplomeerden volksgezondheid"
-signed_date: "2019-02-22"
-entry_into_force: "2019-02-22"
+publicatiedatum: 2019-02-22
+laatste_update: 2020-10-01
+status: geldig
+toestand: 2020-10-01
+bron: "https://wetten.overheid.nl/BWBR0007397"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 12 mei 1995, houdende uitvoering van de artikelen 41, vijfde lid, 42, tweede lid, en 45, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 24 november 1994, PAO/BOG 9414146;
-
-Gelet op de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), vijfde lid, [42](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=42), tweede lid, en [45, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45);
-
-De Raad van State gehoord (advies van 1 maart 1995, no. W13.94.0726);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 2 mei 1995, DGVgz/PAO/BOG-953685;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -56,7 +24,7 @@ In dit besluit wordt verstaan onder:
 
 - c. commissie: de Commissie buitenslands gediplomeerden volksgezondheid;
 
-- d. EER-overeenkomst: de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (**Trb.** 1992, 132);
+- d. EER-overeenkomst: de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (*Trb.* 1992, 132);
 
 - e. EER-gebied: het grondgebied van de staten die partij zijn bij de EER-overeenkomst.
 
@@ -92,7 +60,15 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie heeft voorts tot taak Onze Minister van advies te dienen over de vraag of werkervaring als bedoeld in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8), welke is opgedaan buiten het EER-gebied en buiten Zwitserland, kan meetellen bij het vaststellen van het aantal uren waarbinnen de werkzaamheden zijn verricht op het terrein van het desbetreffende beroep binnen de individuele gezondheidszorg.
 
-3. Op verzoek van Onze Minister adviseert de commissie Onze Minister over de vraag of de werkervaring die een fysiotherapeut, een gezondheidszorgpsycholoog, een psychotherapeut, een physician assistant, een orthopedagoog-generalist of een klinisch technoloog heeft opgedaan buiten Nederland, doch binnen het EER-gebied of in Zwitserland, kan meetellen bij het vaststellen van het aantal uren waarbinnen de werkzaamheden zijn verricht op het terrein van de fysiotherapie, de gezondheidszorgpsychologie, de psychotherapie, de physician assistant, de orthopedagoog-generalist onderscheidenlijk het terrein van de klinisch technoloog.
+3. Op verzoek van Onze Minister adviseert de commissie Onze Minister over de vraag of de werkervaring die een fysiotherapeut, een gezondheidszorgpsycholoog, een psychotherapeut, een physician assistant, een orthopedagoog-generalist of een klinisch technoloog heeft opgedaan buiten Nederland, doch binnen het EER-gebied of in Zwitserland, kan meetellen bij het vaststellen van het aantal uren waarbinnen de werkzaamheden zijn verricht op het terrein van de fysiotherapie, de gezondheidszorgpsychologie, de psychotherapie, de physician assistant, de orthopedagoog-generalist onderscheidenlijk het terrein van de klinisch technoloog.
+
+##### Artikel 3a
+
+1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2020-10-01&g=2020-10-01).
+
+2. Onze Minister stelt per beroepsgroep een tarief vast voor de kennis- en vaardighedentoets.
+
+3. De in het eerste lid bedoelde buitenslands gediplomeerde voldoet voor het afleggen van de kennis- en vaardighedentoets het in het tweede lid genoemde tarief.
 
 ##### Artikel 4
 
@@ -109,6 +85,24 @@ Een advies van de commissie bevat de gronden waarop het berust.
 2. De commissie kan externe deskundigen raadplegen.
 
 3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2020-10-01&g=2020-10-01), voor het desbetreffende beroep bedoelde samenstelling.
+
+##### Artikel 6a
+
+1. Bij een aanvraag om erkenning van een getuigschrift als bedoeld in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), worden de volgende bescheiden overgelegd:
+
+- a. een door Onze Minister beschikbaar te stellen formulier, dat door de aanvrager is ingevuld;
+
+- b. het in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) bedoelde getuigschrift;
+
+- c. een bewijs van zijn nationaliteit alsmede:
+
+   - 1° indien de aanvrager een onder 2° aangewezen migrerende beroepsbeoefenaar is, als bedoeld in [artikel 1, Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van Richtlijn 2003/109/EG van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU 2004, L 16), of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14);
+
+   - 2° indien de aanvrager een onder 3° aangewezen migrerende beroepsbeoefenaar is, als bedoeld in [artikel 1, Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van Richtlijn 2004/38/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU 2004, L 158 en L 229).
+
+2. Van een getuigschrift als bedoeld in het eerste lid, onderdeel b, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door een in Nederland gevestigde notaris, de instelling die het betreffende getuigschrift heeft afgegeven, of door de daartoe bevoegde autoriteit in een lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland.
+
+3. Het getuigschrift, bedoeld in [artikel 41, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), is gesteld, dan wel door een beëdigd vertaler vertaald in de taal waarin de getuigschriften in bijlage V van richtlijn nr. 2005/36/EG van de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PBEU 2005 L 255) onderscheidenlijk in [bijlagen 1 tot en met 5 van de Regeling aanwijzing buitenlandse diploma’s volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=1) zijn weergegeven.
 
 ##### Artikel 7
 
@@ -136,7 +130,7 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -149,35 +143,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit buitenslands gediplomeerden volksgezondheid.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 3a
-
-1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2020-10-01&g=2020-10-01).
-
-2. Onze Minister stelt per beroepsgroep een tarief vast voor de kennis- en vaardighedentoets.
-
-3. De in het eerste lid bedoelde buitenslands gediplomeerde voldoet voor het afleggen van de kennis- en vaardighedentoets het in het tweede lid genoemde tarief.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 6a
-
-1. Bij een aanvraag om erkenning van een getuigschrift als bedoeld in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), worden de volgende bescheiden overgelegd:
-
-- a. een door Onze Minister beschikbaar te stellen formulier, dat door de aanvrager is ingevuld;
-
-- b. het in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) bedoelde getuigschrift;
-
-- c. een bewijs van zijn nationaliteit alsmede:
-
-- 1°. indien de aanvrager een onder 2° aangewezen migrerende beroepsbeoefenaar is, als bedoeld in [artikel 1, Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van [Richtlijn 2003/109/EG](32003L0109) van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU 2004, L 16), of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14);
-
-- 2°. indien de aanvrager een onder 3° aangewezen migrerende beroepsbeoefenaar is, als bedoeld in [artikel 1, Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van [Richtlijn 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU 2004, L 158 en L 229).
-
-2. Van een getuigschrift als bedoeld in het eerste lid, onderdeel b, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door een in Nederland gevestigde notaris, de instelling die het betreffende getuigschrift heeft afgegeven, of door de daartoe bevoegde autoriteit in een lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland.
-
-3. Het getuigschrift, bedoeld in [artikel 41, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), is gesteld, dan wel door een beëdigd vertaler vertaald in de taal waarin de getuigschriften in bijlage V van [richtlijn nr. 2005/36/EG](32005L0036) van de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PBEU 2005 L 255) onderscheidenlijk in [bijlagen 1 tot en met 5 van de Regeling aanwijzing buitenlandse diploma’s volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=1) zijn weergegeven.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

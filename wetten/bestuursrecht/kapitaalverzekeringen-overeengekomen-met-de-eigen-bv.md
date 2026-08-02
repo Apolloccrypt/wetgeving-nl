@@ -1,44 +1,23 @@
 ---
 title: "Kapitaalverzekeringen overeengekomen met de eigen BV"
 identifier: "BWBR0007505"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1995-08-10"
-last_updated: "1995-08-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007505"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "8285153"
-version_id: "13145702"
-internal_id: "C17708151"
-label_id: "8266594"
-dtd_version: "2.0"
-original_entry_into_force: "1995-08-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007505/1995-08-10/0"
-intitule_bron: "Infob.1995-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-08-10"
-intitule_published: "1995-01-01"
-intitule_in_force: "1995-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1995-8"
-original_signed_date: "1995-08-10"
-original_published_date: "1995-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-08-10"
-jci_1_3: "jci1.3:c:BWBR0007505&z=1995-08-10&g=1995-08-10"
-jci_1_0: "1.0:c:BWBR0007505&g=1995-08-10"
-citeertitel_status: "redactioneel"
-signed_date: "1995-08-10"
-entry_into_force: "1995-08-10"
+publicatiedatum: 1995-08-10
+laatste_update: 1995-08-10
+status: geldig
+toestand: 1995-08-10
+bron: "https://wetten.overheid.nl/BWBR0007505"
+opgehaald: 2026-08-02
 ---
-# Kapitaalverzekeringen overeengekomen met de eigen BV
 
-De Staatssecretaris van Financiën heeft het volgende besloten.
+# Kapitaalverzekeringen overeengekomen met de eigen BV
 
 ### 1. Inleiding
 
 Het komt veelvuldig voor dat levensverzekeringen waarbij een kapitaal bij leven en/of overlijden is verzekerd (hierna: de kapitaalverzekering) door directeuren/grootaandeelhouders (hierna: digra’s) worden gesloten met hun eigen besloten vennootschap (hierna: de BV). Met betrekking tot die kapitaalverzekeringen en voorgenomen kapitaalverzekeringen zijn mij vele vragen gesteld door digra’s en hun adviseurs. Daaruit is naar voren gekomen dat de onderhavige kapitaalverzekeringen velerlei verschijningsvormen kennen en dat de BV’s doorgaans ook andere activiteiten ontwikkelen. De daarmee gepaard gaande onzekerheid over de fiscale behandeling van de individuele gevallen alsmede de wijzigingen van het wettelijke regime met betrekking tot het begrip levensverzekering op 1 januari 1992 hebben voor mij de aanleiding gevormd onderstaand richtsnoer voor de uitvoeringspraktijk te ontwikkelen.
+
+Richtlijnen realiteitstoets; regulerend karakter
 
 Met nadruk merk ik op dat de door mij in paragraaf 5 ontwikkelde richtlijnen voor de beoordeling of daadwerkelijk een kapitaalverzekering is overeengekomen, niet een dwingend doch een regulerend karakter hebben. Indien de feiten en omstandigheden van een concreet geval stroken met die richtlijnen, is een nader onderzoek naar het realiteitsgehalte van de kapitaalverzekering overeengekomen met de BV in het algemeen niet noodzakelijk. Indien de feiten en omstandigheden niet overeenkomen met de richtlijnen – en men geen gebruik wenst te maken van de in paragraaf 11 gegeven mogelijkheid tot aanpassing daaraan – is niet op voorhand duidelijk of een reële kapitaalverzekering is overeengekomen; er zou bij voorbeeld in wezen sprake kunnen zijn van een spaarvorm of een betaling die als informele kapitaalstorting dient te worden aangemerkt. Voor de beoordeling daarvan is alsdan een nader onderzoek noodzakelijk.
 
@@ -134,9 +113,15 @@ Indien aan de in paragraaf 4 en 5 opgenomen beoordelingspunten wordt voldaan, st
 
 Indien niet aan de richtlijnen voor de beoordeling van het realiteitsgehalte van de verzekering wordt voldaan, is een nadere beoordeling noodzakelijk om te bepalen of sprake is van een reële kapitaalverzekering. Zie paragraaf 12 voor de beoordeling van dergelijke gevallen.
 
+Verlies karakter kapitaalverzekering gedurende looptijd
+
 Indien de kapitaalverzekering aanvankelijk wel als een reële kapitaalverzekering was aan te merken, doch op enig tijdstip niet meer, wordt het standpunt ingenomen dat sprake is van afkoop van de kapitaalverzekering. Ingeval aan de desbetreffende voorwaarden, zoals het aantal jaren premiebetaling, wordt voldaan, kunnen de vrijstellingen voor kapitaalsuitkeringen hierbij van toepassing zijn. Is dit niet het geval, dan wordt voor de heffing van de inkomstenbelasting op het tijdstip van afkoop het rente-element in de overeenkomst – bedrag uitkering verminderd met de ter zake betaalde premies – behoudens toepassing van de rentevrijstelling van artikel 47a van de Wet, tot het inkomen gerekend. Voor de heffing van de vermogensbelasting bestaat geen recht meer op de specifieke vrijstelling voor kapitaalverzekeringen.
 
+Genietingstijdstip bij ontbreken karakter kapitaalverzekering
+
 In situaties waarin van aanvang af geen kapitaalverzekering in fiscale zin aanwezig is, is niet geheel duidelijk op welk tijdstip een te belasten element wordt genoten in de zin van artikel 33 van de Wet. De overeenkomst geeft in beginsel recht op één uitkering. Denkbaar is alsdan dat op grond van HR 2 juni 1993, BNB 1993/248, geen eerder genietingstijdstip is vast te stellen dan de vervaldatum van de uitkering bij leven of ten gevolge van overlijden. Niettemin dienen de inspecteurs, om duidelijkheid in rechte te verkrijgen, in voorkomende gevallen stellen dat van jaar tot jaar een inkomst – want rentedragend geworden – wordt genoten.
+
+Herverzekerde overlijdensverzekering
 
 In afwijking van het vorenstaande keur ik voor zover nodig goed dat inzoverre de in een overeenkomst met de BV besloten liggende overlijdensverzekering is herverzekerd bij een professionele verzekeraar, deze wordt aangemerkt als een reële kapitaalverzekering ongeacht het feit dat wellicht de overige elementen van de verzekeringsovereenkomst niet als zodanig zijn aan te merken. Voor de fiscale behandeling wordt een zodanige overlijdensverzekering beschouwd los te staan van de overige elementen van de overeenkomst. Een eventuele uitkering ten gevolge van overlijden is derhalve het regime voor overlijdensuitkeringen in de Wet deelachtig. Met de op die overlijdensuitkering betrekking hebbende premiecomponent kan alsdan geen rekening worden gehouden bij de bepaling van het belastbare rente-element in de overige elementen van de kapitaalverzekering.
 
@@ -144,11 +129,17 @@ In afwijking van het vorenstaande keur ik voor zover nodig goed dat inzoverre de
 
 Indien de kapitaalverzekering met de BV is aan te merken als een levensverzekering in fiscale zin is vervolgens de vraag aan de orde of de verzekering elementen bevat die tussen onafhankelijke derden niet zouden zijn overeengekomen en of deze elementen zijn terug te voeren op een bewuste bevoordeling van de aandeelhouder door de BV (uitdeling). Zoals hiervóór in paragraaf 5 gesteld, ligt een actuariële berekening van de verzekerde uitkeringen en de verschuldigde premies ten grondslag aan een reële kapitaalverzekering met de BV. Deze actuariële berekening houdt in dat er, op basis van gekozen grondslagen, een gelijkwaardigheid (equivalentie) bestaat tussen de contante waarde van de uitkeringen en kosten enerzijds en de contante waarde van de premies/koopsommen anderzijds. Indien sprake is van een lage rekenrente (tariefrente) voorzien de verzekeringen vaak in een vorm van winst- of overrentedeling.
 
+Winstdelingen
+
 Met betrekking tot winstdelingen merk ik op dat deze naar mijn oordeel uiteraard kunnen voortvloeien uit de rendementen die door de BV worden behaald met de ter zake van de overeenkomst ontvangen premies. Voor zover winstdelingen zijn terug te voeren op winsten die door de BV uit andere hoofde zijn gemaakt, is naar mijn oordeel sprake van een uitdeling van winst aan de aandeelhouder. Deze uitdeling wordt naar mijn oordeel genoten op het tijdstip dat de winstdeling onderdeel gaat uitmaken van de rechten uit de overeenkomst.
 
 Ter voorkoming van misverstand zij opgemerkt dat indien de onderhavige winstdeling uiteindelijk nog wordt uitgekeerd in de vorm van de overeengekomen kapitaalsuitkering, daarop het regime voor kapitaalsuitkeringen naar mijn oordeel niet van toepassing is. Enig vrijstellingsregime in de sfeer van de kapitaalverzekeringen is niet aan de orde. Een eventuele oprenting van de onderhavige aanspraak op winstdeling dient, behoudens toepassing van de rentevrijstelling, tot het inkomen te worden gerekend. Zekerheidshalve dient de rente-aangroei telkenjare tot het inkomen te worden gerekend; vergelijk hetgeen ik in paragraaf 6 hiervóór heb medegedeeld over het tijdstip van genieten.
 
+Eigen behoud rendement voor de BV
+
 Met betrekking tot rendementen door de BV behaald op de verzekeringspremies merk ik op dat het naar mijn oordeel te ver zou voeren indien die rendementen ten volle in de vorm van winstdelingen onderdeel gaan uitmaken van de rechten uit de kapitaalverzekering. Dergelijke rendementen worden door professionele verzekeraars evenmin ten volle op die wijze aangewend. Een onafhankelijk optredende BV zou evenmin een verzekeringsovereenkomst aangaan waarop geen winst zou zijn te behalen. Naar mijn oordeel is geen sprake van een uitdeling indien de onderhavige rendementen tot ten hoogste 90% onderdeel gaan uitmaken van de verzekerde rechten. Evenmin zijn uitdelingsaspecten aanwezig in een winstdeling die is gebaseerd op een algemeen marktrentecijfer, zoals het zogenoemde CBS-rendement of het t-rendement. In alle gevallen acht ik het noodzakelijk dat de BV een minimum van 0,5% van de beleggingswaarde als eigen behoud in aanmerking neemt.
+
+Rendementsgarantie
 
 Voor zover door de BV bij het aangaan van de kapitaalverzekering een rendementsgarantie wordt gegeven die uitgaat boven hetgeen op dat tijdstip in de markt haalbaar is, dienen de inspecteurs inzoverre de contante waarde van het bovenmatige rendement op dat tijdstip als uitdeling aan te merken.
 

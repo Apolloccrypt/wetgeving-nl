@@ -1,68 +1,38 @@
 ---
 title: "Wet van 30 maart 1995, houdende inwerkingtreding van en aanpassing van wetgeving aan de Wet op de motorrijtuigenbelasting 1994"
+citeertitel: "Invoeringswet Wet op de motorrijtuigenbelasting 1994"
 identifier: "BWBR0007310"
-country: "nl"
-rank: "wet"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007310"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "1521063"
-version_id: "2263702"
-internal_id: "C2263701"
-label_id: "1477564"
-dtd_version: "2.0"
-original_entry_into_force: "1995-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007310/2012-01-01/0"
-intitule_bron: "Stb.1995-152"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-03-31"
-intitule_published: "1995-03-31"
-intitule_in_force: "1995-03-31"
-intitule_status: "goed"
-original_publication: "Stb.1995-152"
-original_signed_date: "1995-03-31"
-original_published_date: "1995-03-31"
-original_effect: "nieuwe-regeling"
-original_dossier: "23934"
-original_url_id: "stb-1995-152"
-entry_into_force_date: "1995-04-01"
-entry_into_force_dossier: "23934"
-jci_1_3: "jci1.3:c:BWBR0007310&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0007310&g=2012-01-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet Wet op de motorrijtuigenbelasting 1994"
-signed_date: "1995-03-31"
-entry_into_force: "1995-04-01"
+publicatiedatum: 1995-04-01
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0007310"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 30 maart 1995, houdende inwerkingtreding van en aanpassing van wetgeving aan de Wet op de motorrijtuigenbelasting 1994
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de inwerkingtreding van de [Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324) te regelen, enkele wijzigingen in deze wet aan te brengen, de [Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534) in te trekken en enige andere wetten hieraan aan te passen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel V
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VI
 
@@ -128,7 +98,7 @@ In afwijking van [artikel 222, derde lid, van de Provinciewet](https://wetten.ov
 
 ##### Artikel XVII
 
-Indien de inspecteur een beschikking heeft gegeven krachtens artikel VII, vierde of vijfde lid, van de wet van 16 december 1993 tot wijziging van de Wet op de belasting van personenauto’s en motorrijwielen 1992 in verband met verruiming van het begrip personenauto (**Stb.** 1993, 673) waarin aan een in die leden bedoeld verzoek is tegemoetgekomen, worden de motorrijtuigen waarop de beschikking betrekking heeft, zolang zij voldoen aan de gestelde voorwaarden, voor de heffing van motorrijtuigenbelasting aangemerkt als een bestelauto in de zin van [artikel 2, onderdeel **c**, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=2).
+Indien de inspecteur een beschikking heeft gegeven krachtens artikel VII, vierde of vijfde lid, van de wet van 16 december 1993 tot wijziging van de Wet op de belasting van personenauto’s en motorrijwielen 1992 in verband met verruiming van het begrip personenauto (*Stb.* 1993, 673) waarin aan een in die leden bedoeld verzoek is tegemoetgekomen, worden de motorrijtuigen waarop de beschikking betrekking heeft, zolang zij voldoen aan de gestelde voorwaarden, voor de heffing van motorrijtuigenbelasting aangemerkt als een bestelauto in de zin van [artikel 2, onderdeel *c*, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=2).
 
 ##### Artikel XVIII
 
@@ -145,5 +115,3 @@ De [Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:
 ##### Artikel XXI
 
 Deze wet kan worden aangehaald als Invoeringswet Wet op de motorrijtuigenbelasting 1994.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

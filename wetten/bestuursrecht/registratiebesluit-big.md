@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 13 november 1995, houdende regelen inzake de registratie van beoefenaren van beroepen in de individuele gezondheidszorg"
+citeertitel: "Registratiebesluit BIG"
 identifier: "BWBR0007648"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-08-27"
-last_updated: "2022-08-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007648"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "778973"
-version_id: "28840722"
-internal_id: "C40838421"
-label_id: "754834"
-dtd_version: "2.0"
-original_entry_into_force: "2022-08-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007648/2022-08-27/0"
-intitule_bron: "Stb.1995-558"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-11-13"
-intitule_published: "1995-11-28"
-intitule_in_force: "1995-11-28"
-intitule_status: "goed"
-original_publication: "Stb.2022-323"
-original_signed_date: "2022-08-22"
-original_published_date: "2022-08-26"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2022-323"
-entry_into_force_date: "2022-08-22"
-jci_1_3: "jci1.3:c:BWBR0007648&z=2022-08-27&g=2022-08-27"
-jci_1_0: "1.0:c:BWBR0007648&g=2022-08-27"
-citeertitel_status: "officieel"
-short_title: "Registratiebesluit BIG"
-signed_date: "2022-08-22"
-entry_into_force: "2022-08-22"
+publicatiedatum: 2022-08-22
+laatste_update: 2022-08-27
+status: geldig
+toestand: 2022-08-27
+bron: "https://wetten.overheid.nl/BWBR0007648"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 13 november 1995, houdende regelen inzake de registratie van beoefenaren van beroepen in de individuele gezondheidszorg
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 1 maart 1995, PAO/BOG-951921;
-
-Gelet op de artikelen 5, tweede lid, 11, 12, tweede lid, onder **d**, en derde lid, 42, vijfde lid, en 105, derde lid, van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
-
-De Raad van State gehoord (advies van 15 juni 1995, no. W13.95.0099);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 1 november 1995, PAO/BOG-9510951;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -88,11 +56,11 @@ In dit besluit wordt verstaan onder:
 
 - c. een certificaat voor een examen Nederlandse taal waarbij de mondelinge en schriftelijke vaardigheden in de Nederlandse taal zijn geëxamineerd op ten minste het niveau:
 
-- –. B1 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen voor inschrijving in het register van verpleegkundigen;
+   - – B1 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen voor inschrijving in het register van verpleegkundigen;
 
-- –. B2 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen voor inschrijving in het register van fysiotherapeuten, verloskundigen of physician assistants;
+   - – B2 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen voor inschrijving in het register van fysiotherapeuten, verloskundigen of physician assistants;
 
-- –. B2+ van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen voor inschrijving in het register van artsen, tandartsen, apothekers, psychotherapeuten, gezondheidszorgpsychologen, orthopedagogen-generalist en klinisch technologen;
+   - – B2+ van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen voor inschrijving in het register van artsen, tandartsen, apothekers, psychotherapeuten, gezondheidszorgpsychologen, orthopedagogen-generalist en klinisch technologen;
 
 - d. de verklaring van Onze Minister, bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41).
 
@@ -111,6 +79,18 @@ In afwijking van [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci
 1. Bij het indienen van een aanvrage als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=5), wordt een tarief in rekening gebracht. Het tarief wordt voldaan binnen vier weken na het indienen van de aanvraag. Indien het bedrag niet is voldaan, wordt de aanvraag niet in behandeling genomen.
 
 2. Onze Minister stelt regels omtrent de hoogte van het tarief, bedoeld in het eerste lid.
+
+##### Artikel 4a
+
+Een beoefenaar van een beroep als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) draagt er zorg voor dat zijn BIG-nummer kenbaar wordt gemaakt:
+
+- a. wanneer hem daarom wordt verzocht;
+
+- b. wanneer de beroepsbeoefenaar zijn naam in het kader van de uitoefening van het beroep of van een specialisme daarvan als bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14), kenbaar maakt, dan wel ermee instemt dat zijn naam in dat kader kenbaar wordt gemaakt:
+
+   - 1° bij het gebruik van zijn naam op de website van de beroepsbeoefenaar of van de organisatie waarvoor hij het beroep of het specialisme daarvan uitoefent;
+
+   - 2° onder door de beroepsbeoefenaar of onder diens naam door zijn werkgever verzonden e-mailberichten.
 
 ##### Artikel 5
 
@@ -148,19 +128,27 @@ Indien een voorwaardelijke maatregel als bedoeld in [artikel 48, zevende lid, va
 
 8. In afwijking van het derde, vierde en zesde lid, eindigt de openbare kennisgeving en de aantekening in het BIG-register bij overlijden van betrokkene.
 
+##### Artikel 5a
+
+Aan een beoefenaar van een beroep als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of [36a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a) wordt op diens verzoek binnen twee maanden een document verstrekt, waaruit blijkt dat, voor zover van toepassing, ten aanzien van de betrokkene geen maatregel berustend op een in Nederland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de betrokkene zijn rechten tot de uitoefening van het betrokken beroep in Nederland, geheel of gedeeltelijk, tijdelijk of blijvend is verloren.
+
 ##### Artikel 6
 
 Aan een ieder die dat verlangt, wordt meegedeeld hetgeen in het register staat aangetekend met betrekking tot de voorwaarden die een ingeschrevene zijn opgelegd met toepassing van [artikel 50, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50), dan wel onderdeel uitmaken van de aan een ingeschrevene opgelegde maatregel van voorwaardelijke schorsing, bedoeld in [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=48), of van de maatregel, bedoeld in [artikel 80, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=80). Hetzelfde geldt met betrekking tot de voorwaarden, bedoeld in [artikel 105, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=105).
 
 ##### Artikel 7
 
-1. Van de totstandkoming van een inschrijving in een register met toepassing van [artikel 41, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en van de duur van die inschrijving of van de aard van de andere beperkingen die aan die inschrijving zijn verbonden, wordt kennis gegeven in de **Staatscourant** en, indien deze bekend zijn, aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2022-08-27&g=2022-08-27), bedoelde instanties.
+1. Van de totstandkoming van een inschrijving in een register met toepassing van [artikel 41, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en van de duur van die inschrijving of van de aard van de andere beperkingen die aan die inschrijving zijn verbonden, wordt kennis gegeven in de *Staatscourant* en, indien deze bekend zijn, aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2022-08-27&g=2022-08-27), bedoelde instanties.
 
 2. Van de doorhaling van een met toepassing van [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) tot stand gekomen inschrijving op grond van het intreden of bekend worden van omstandigheden als bedoeld in [artikel 7, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), ten aanzien van de betrokkene, wordt kennis gegeven aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2022-08-27&g=2022-08-27), bedoelde instanties, in een of meer dag- of weekbladen die in het gebied waarin de betrokkene zijn beroep uitoefent, worden verspreid, in de Staatscourant en door middel van publicatie op daartoe bestemde websites op internet.
 
 ##### Artikel 8
 
 Voor zover de verstrekking van een mededeling als bedoeld in artikel 12, derde lid, van de wet, of artikel 6, schriftelijk geschiedt, wordt een bedrag van € 5 in rekening gebracht.
+
+##### Artikel 8a
+
+*Vervallen*
 
 ##### Artikel 9
 
@@ -169,31 +157,3 @@ Dit besluit treedt in werking met ingang van 1 december 1995.
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Registratiebesluit BIG.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 8a
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 4a
-
-Een beoefenaar van een beroep als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) draagt er zorg voor dat zijn BIG-nummer kenbaar wordt gemaakt:
-
-- a. wanneer hem daarom wordt verzocht;
-
-- b. wanneer de beroepsbeoefenaar zijn naam in het kader van de uitoefening van het beroep of van een specialisme daarvan als bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14), kenbaar maakt, dan wel ermee instemt dat zijn naam in dat kader kenbaar wordt gemaakt:
-
-- 1°. bij het gebruik van zijn naam op de website van de beroepsbeoefenaar of van de organisatie waarvoor hij het beroep of het specialisme daarvan uitoefent;
-
-- 2°. onder door de beroepsbeoefenaar of onder diens naam door zijn werkgever verzonden e-mailberichten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 5a
-
-Aan een beoefenaar van een beroep als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of [36a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a) wordt op diens verzoek binnen twee maanden een document verstrekt, waaruit blijkt dat, voor zover van toepassing, ten aanzien van de betrokkene geen maatregel berustend op een in Nederland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de betrokkene zijn rechten tot de uitoefening van het betrokken beroep in Nederland, geheel of gedeeltelijk, tijdelijk of blijvend is verloren.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

@@ -1,44 +1,17 @@
 ---
 title: "Selectielijst neerslag handelingen minister van Verkeer en Waterstaat"
 identifier: "BWBR0008077"
-country: "nl"
-rank: "archiefselectielijst"
-publication_date: "1996-07-07"
-last_updated: "1996-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008077"
+categorie: "Milieu"
 soort: "ministeriele-regeling-archiefselectielijst"
-stam_id: "4571503"
-version_id: "6387592"
-internal_id: "C25308661"
-label_id: "4549804"
-dtd_version: "2.0"
-original_entry_into_force: "1996-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008077/1996-07-07/0"
-intitule_bron: "Stcrt.1996-127"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-06-04"
-intitule_published: "1996-07-05"
-intitule_in_force: "1996-07-05"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-127"
-original_signed_date: "1996-06-04"
-original_published_date: "1996-07-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-07-07"
-jci_1_3: "jci1.3:c:BWBR0008077&z=1996-07-07&g=1996-07-07"
-jci_1_0: "1.0:c:BWBR0008077&g=1996-07-07"
-citeertitel_status: "officieel"
-signed_date: "1996-06-04"
-entry_into_force: "1996-07-07"
+publicatiedatum: 1996-07-07
+laatste_update: 1996-07-07
+status: geldig
+toestand: 1996-07-07
+bron: "https://wetten.overheid.nl/BWBR0008077"
+opgehaald: 2026-08-02
 ---
+
 # Selectielijst neerslag handelingen minister van Verkeer en Waterstaat
-
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5),
-
-De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 27 februari 1995, nr. 453);
-
-Besluiten:
 
 ##### Artikel 1
 

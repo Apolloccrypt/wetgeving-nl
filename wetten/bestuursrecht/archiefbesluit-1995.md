@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 15 december 1995, houdende regelen ter uitvoering van een aantal bepalingen van de Archiefwet 1995"
+citeertitel: "Archiefbesluit 1995"
 identifier: "BWBR0007748"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007748"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1054553"
-version_id: "1549942"
-internal_id: "C1549941"
-label_id: "1022084"
-dtd_version: "2.0"
-original_entry_into_force: "1996-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007748/2020-01-01/0"
-intitule_bron: "Stb.1995-671"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-15"
-intitule_published: "1995-12-28"
-intitule_in_force: "1995-12-28"
-intitule_status: "goed"
-original_publication: "Stb.1995-671"
-original_signed_date: "1995-12-15"
-original_published_date: "1995-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1995-671"
-entry_into_force_date: "1996-01-01"
-jci_1_3: "jci1.3:c:BWBR0007748&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0007748&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Archiefbesluit 1995"
-signed_date: "1995-12-15"
-entry_into_force: "1996-01-01"
+publicatiedatum: 1996-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0007748"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 15 december 1995, houdende regelen ter uitvoering van een aantal bepalingen van de Archiefwet 1995
-
-Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, A. Nuis, van 6 september 1995, 95022683/8010, directie Wetgeving en Juridische Zaken;
-
-Gelet op de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=9), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12), [21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=21), [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=23), [25, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=25), en [41, tweede lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=41);
-
-Gezien het advies van de Raad voor het cultuurbeheer;
-
-De Raad van State gehoord (advies van 31 oktober 1995, nr. W05.95.0489);
-
-Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, A. Nuis, van 12 december 1995, 95031870/8010, directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -88,6 +54,12 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Indien de gedeputeerde staten van twee of meer provincies, de colleges van burgemeester en wethouders van twee of meer gemeenten, of de besturen van twee of meer waterschappen gezamenlijk een selectielijst ontwerpen, kan volstaan worden met de betrokkenheid van een aangewezen persoon als bedoeld in het eerste lid, onderdeel a, en met de betrokkenheid van een provinciearchivaris, onderscheidenlijk gemeentearchivaris of waterschapsarchivaris.
 
+##### Artikel 3a
+
+1. De zorgdrager ten aanzien van de archiefbewaarplaats die is bestemd of mede is bestemd voor de bewaring van de archiefbescheiden van de zorgdrager, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), benoemt de deskundige, bedoeld in artikel 3, eerste lid, onderdeel d, op voordracht van de personen, bedoeld in artikel 3, eerste lid, onderdelen a tot en met c.
+
+2. De deskundige verricht anders dan uit hoofde van zijn benoeming geen werkzaamheden voor de zorgdrager, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), noch verricht hij werkzaamheden voor de zorgdrager die hem heeft benoemd, noch heeft hij anderszins belangen of functies waardoor de onafhankelijkheid van zijn inbreng of het vertrouwen in die onafhankelijkheid in het geding kan zijn.
+
 ##### Artikel 4
 
 1. Op de voorbereiding van een selectielijst is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing. Onze minister geeft toepassing aan deze procedure.
@@ -106,11 +78,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. een toelichting die in ieder geval bevat:
 
-- 1°. een verantwoording van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01),
+   - 1°. een verantwoording van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01),
 
-- 2°. een verslag van de wijze waarop derden en in elk geval de personen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), bij het ontwerpen van de selectielijst betrokken zijn en van de inhoud van het met hen gevoerde overleg, en
+   - 2°. een verslag van de wijze waarop derden en in elk geval de personen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), bij het ontwerpen van de selectielijst betrokken zijn en van de inhoud van het met hen gevoerde overleg, en
 
-- 3°. een verslag van de procedure, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=4&z=2020-01-01&g=2020-01-01);
+   - 3°. een verslag van de procedure, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=4&z=2020-01-01&g=2020-01-01);
 
 - e. een opsomming van de criteria aan de hand waarvan de zorgdrager archiefbescheiden die ingevolge de selectielijst voor vernietiging in aanmerking komen, van vernietiging kan uitzonderen.
 
@@ -190,35 +162,43 @@ De zorgdragers, genoemd in de [artikelen 23, eerste lid](https://wetten.overheid
 
 3. Op aanvraag van een instelling voor hoger beroepsonderwijs kan Onze minister een opleiding als bedoeld in het eerste lid, onder b, aanwijzen als een opleiding ter verkrijging van het diploma archivistiek B, indien de onderwijseenheden van die opleiding de archivistiek naar zijn oordeel in voldoende mate betreffen.
 
+### Hoofdstuk VII. Overgangs- en slotbepalingen
+
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
+*Vervallen*
 
 ##### Artikel 20
 
 [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2020-01-01&g=2020-01-01), blijft ten aanzien van bij de inwerkingtreding van dit besluit bestaande archiefruimten en archiefbewaarplaatsen vijf jaar buiten toepassing.
 
+##### Artikel 20a
+
+Een besluit tot aanwijzing dat is genomen op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=2), of [artikel 3, tweede lid, van het Tijdelijk besluit opleidingen en diploma’s archivistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=3), geldt als een besluit op grond van [artikel 15, tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=VI&artikel=15&z=2020-01-01&g=2020-01-01).
+
+##### Artikel 20b
+
+Degene die de hoedanigheid bezit van middelbaar of hoger archiefambtenaar, bedoeld in artikel 9 van de Archiefwet 1962, voldoet aan de aanwijzingsvereisten, bedoeld in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=25), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=26), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=28), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=32), en [37, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=37).
+
 ##### Artikel 21
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 22
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 23
 
@@ -229,35 +209,3 @@ Dit besluit wordt aangehaald als: Archiefbesluit 1995.
 1. De [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) treedt in werking met ingang van 1 januari 1996.
 
 2. Dit besluit treedt op hetzelfde tijdstip in werking, met uitzondering van de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=11&z=2020-01-01&g=2020-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=12&z=2020-01-01&g=2020-01-01) en [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2020-01-01&g=2020-01-01), die in werking treden op een nader bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-##### Artikel 20a
-
-Een besluit tot aanwijzing dat is genomen op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=2), of [artikel 3, tweede lid, van het Tijdelijk besluit opleidingen en diploma’s archivistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=3), geldt als een besluit op grond van [artikel 15, tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=VI&artikel=15&z=2020-01-01&g=2020-01-01).
-
-##### Artikel 20b
-
-Degene die de hoedanigheid bezit van middelbaar of hoger archiefambtenaar, bedoeld in artikel 9 van de Archiefwet 1962, voldoet aan de aanwijzingsvereisten, bedoeld in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=25), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=26), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=28), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=32), en [37, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=37).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 3a
-
-1. De zorgdrager ten aanzien van de archiefbewaarplaats die is bestemd of mede is bestemd voor de bewaring van de archiefbescheiden van de zorgdrager, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), benoemt de deskundige, bedoeld in artikel 3, eerste lid, onderdeel d, op voordracht van de personen, bedoeld in artikel 3, eerste lid, onderdelen a tot en met c.
-
-2. De deskundige verricht anders dan uit hoofde van zijn benoeming geen werkzaamheden voor de zorgdrager, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), noch verricht hij werkzaamheden voor de zorgdrager die hem heeft benoemd, noch heeft hij anderszins belangen of functies waardoor de onafhankelijkheid van zijn inbreng of het vertrouwen in die onafhankelijkheid in het geding kan zijn.
-
-### Hoofdstuk III. Overbrenging van archiefbescheiden
-
-### Hoofdstuk IV. Duurzaamheid, ordening en toegankelijkheid van archiefbescheiden; bouw, verbouwing, inrichting en verandering van inrichting van archiefruimten en archiefbewaarplaatsen; ingebruikneming van gebouwen of gedeelten van gebouwen als archiefruimte of archiefbewaarplaats
-
-### Hoofdstuk V. Zorg voor de archiefbescheiden van het rijk en van de in artikel 41, eerste lid, van de wet bedoelde overheidsorganen, voor zover deze archiefbescheiden niet zijn overgebracht naar een archiefbewaarplaats
-
-### Hoofdstuk VI. Opleiding tot en het verkrijgen van diploma’s in de archivistiek
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

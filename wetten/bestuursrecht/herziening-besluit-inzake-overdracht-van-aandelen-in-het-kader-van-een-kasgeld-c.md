@@ -1,40 +1,17 @@
 ---
 title: "Herziening besluit inzake overdracht van aandelen in het kader van een kasgeld- c.q. holdingconstructie"
 identifier: "BWBR0007507"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1995-08-14"
-last_updated: "1995-08-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007507"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "8375573"
-version_id: "13248732"
-internal_id: "C18427061"
-label_id: "8356664"
-dtd_version: "2.0"
-original_entry_into_force: "1995-08-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007507/1995-08-14/0"
-intitule_bron: "Infob.1995-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-08-14"
-intitule_published: "1995-01-01"
-intitule_in_force: "1995-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1995-8"
-original_signed_date: "1995-08-14"
-original_published_date: "1995-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-08-14"
-jci_1_3: "jci1.3:c:BWBR0007507&z=1995-08-14&g=1995-08-14"
-jci_1_0: "1.0:c:BWBR0007507&g=1995-08-14"
-citeertitel_status: "redactioneel"
-signed_date: "1995-08-14"
-entry_into_force: "1995-08-14"
+publicatiedatum: 1995-08-14
+laatste_update: 1995-08-14
+status: geldig
+toestand: 1995-08-14
+bron: "https://wetten.overheid.nl/BWBR0007507"
+opgehaald: 2026-08-02
 ---
-# Herziening besluit inzake overdracht van aandelen in het kader van een kasgeld- c.q. holdingconstructie
 
-De Staatssecretaris van Financiën heeft het volgende besloten.
+# Herziening besluit inzake overdracht van aandelen in het kader van een kasgeld- c.q. holdingconstructie
 
 ### 1. Kasgeldbeleid
 

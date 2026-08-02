@@ -1,46 +1,18 @@
 ---
 title: "Nummerplan voor pakket- en circuitgeschakelde datadiensten Wet op de telecommunicatie-voorzieningen"
+citeertitel: "Nummerplan pakket- en circuitgeschakelde datadiensten"
 identifier: "BWBR0008187"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-05-19"
-last_updated: "2004-05-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008187"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "3549273"
-version_id: "10414142"
-internal_id: "C14119071"
-label_id: "3529284"
-dtd_version: "2.0"
-original_entry_into_force: "2004-04-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008187/2004-05-19/0"
-intitule_bron: "Stcrt.1996-144"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-07-19"
-intitule_published: "1996-07-30"
-intitule_in_force: "1996-07-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-84"
-original_signed_date: "2004-04-28"
-original_published_date: "2004-05-04"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2004-84-p16-SC64883"
-entry_into_force_date: "2004-04-28"
-jci_1_3: "jci1.3:c:BWBR0008187&z=2004-05-19&g=2004-05-19"
-jci_1_0: "1.0:c:BWBR0008187&g=2004-05-19"
-citeertitel_status: "officieel"
-short_title: "Nummerplan pakket- en circuitgeschakelde datadiensten"
-signed_date: "2004-04-28"
-entry_into_force: "2004-04-28"
+publicatiedatum: 2004-04-28
+laatste_update: 2004-05-19
+status: geldig
+toestand: 2004-05-19
+bron: "https://wetten.overheid.nl/BWBR0008187"
+opgehaald: 2026-08-02
 ---
+
 # Nummerplan voor pakket- en circuitgeschakelde datadiensten Wet op de telecommunicatie-voorzieningen
-
-Gelet op artikel 40d, eerste lid, onder a, van de Wet op de telecommunicatievoorzieningen;
-
-Gezien Aanbeveling X.121 International numbering plan for public data networks van de Telecommunication Standardization Sector van de International Telecommunication Union (ITU-T);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -66,7 +38,7 @@ Aan de toekenning of reservering van een nummer wordt het voorschrift verbonden 
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -76,12 +48,4 @@ Dit besluit treedt in werking met ingang van 1 augustus 1996.
 
 Dit besluit wordt aangehaald als: Nummerplan pakket- en circuitgeschakelde datadiensten.
 
-Dit besluit met de bijbehorende bijlage en toelichting wordt ter inzage gelegd bij de Onafhankelijke Post en Telecommunicatie Autoriteit.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-## Bijlage
-
-Ligt ter inzage bij de Onafhankelijke Post en Telecommunicatie Autoriteit.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
+Dit besluit met de bijbehorende [bijlage](https://wetten.overheid.nl/BWBR0008187) en toelichting wordt ter inzage gelegd bij de Onafhankelijke Post en Telecommunicatie Autoriteit.

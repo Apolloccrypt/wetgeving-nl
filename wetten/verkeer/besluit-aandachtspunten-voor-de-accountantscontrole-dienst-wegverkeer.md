@@ -1,46 +1,33 @@
 ---
 title: "Besluit aandachtspunten voor de accountantscontrole Dienst Wegverkeer"
 identifier: "BWBR0008148"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-07-01"
-last_updated: "1996-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008148"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "4778363"
-version_id: "6584592"
-internal_id: "C7041831"
-label_id: "4756404"
-dtd_version: "2.0"
-original_entry_into_force: "1996-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008148/1996-07-01/0"
-intitule_bron: "Stcrt.1996-234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-06-28"
-intitule_published: "1996-12-03"
-intitule_in_force: "1996-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-234"
-original_signed_date: "1996-06-28"
-original_published_date: "1996-12-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-07-01"
-jci_1_3: "jci1.3:c:BWBR0008148&z=1996-07-01&g=1996-07-01"
-jci_1_0: "1.0:c:BWBR0008148&g=1996-07-01"
-citeertitel_status: "officieel"
-signed_date: "1996-06-28"
-entry_into_force: "1996-07-01"
+publicatiedatum: 1996-07-01
+laatste_update: 1996-07-01
+status: geldig
+toestand: 1996-07-01
+bron: "https://wetten.overheid.nl/BWBR0008148"
+opgehaald: 2026-08-02
 ---
+
 # Besluit aandachtspunten voor de accountantscontrole Dienst Wegverkeer
-
-Gelet op [artikel 4t, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4t);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
+
+a.
+
+de dienst:
+
+de Dienst Wegverkeer
+
+b.
+
+de wet:
+
+de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622)
 
 ##### Artikel 2. Aandachtspunten voor de accountantscontrole
 

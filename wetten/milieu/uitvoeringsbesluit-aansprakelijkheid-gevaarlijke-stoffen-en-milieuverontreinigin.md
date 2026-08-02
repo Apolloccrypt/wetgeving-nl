@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 15 december 1994, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de artikelen 175, zesde lid, van Boek 6, en 620, onderdeel a, 1030, onderdeel a, 1210, onderdeel a, 1218, 1670, onderdeel a, en 1678 van Boek 8 van het Burgerlijk Wetboek, alsmede tot wijziging van het Besluit van 19 februari 1990 ter uitvoering van artikel 951f van het Wetboek van Koophandel"
+citeertitel: "Uitvoeringsbesluit aansprakelijkheid gevaarlijke stoffen en milieuverontreiniging"
 identifier: "BWBR0007122"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007122"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "973013"
-version_id: "1427442"
-internal_id: "C1427441"
-label_id: "943214"
-dtd_version: "2.0"
-original_entry_into_force: "1995-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007122/2019-07-01/0"
-intitule_bron: "Stb.1994-888"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-15"
-intitule_status: "goed"
-original_publication: "Stb.1994-888"
-original_signed_date: "1994-12-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-02-01"
-jci_1_3: "jci1.3:c:BWBR0007122&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0007122&g=2019-07-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit aansprakelijkheid gevaarlijke stoffen en milieuverontreiniging"
-signed_date: "1994-12-15"
-entry_into_force: "1995-02-01"
+publicatiedatum: 1995-02-01
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0007122"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 15 december 1994, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de artikelen 175, zesde lid, van Boek 6, en 620, onderdeel a, 1030, onderdeel a, 1210, onderdeel a, 1218, 1670, onderdeel a, en 1678 van Boek 8 van het Burgerlijk Wetboek, alsmede tot wijziging van het Besluit van 19 februari 1990 ter uitvoering van artikel 951f van het Wetboek van Koophandel
-
-Op de voordracht van Onze Minister van Justitie van 25 maart 1994, Stafafdeling Wetgeving Privaatrecht, nr. 431900/94/6;
-
-Gelet op de artikelen 175, zesde lid, van Boek 6, en 620, onderdeel **a**, 1030, onderdeel **a**, 1210, onderdeel **a**, 1218, 1670, onderdeel **a**, en 1678 van Boek 8 van het Burgerlijk Wetboek, alsmede [artikel 951**f** van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=951f);
-
-De Raad van State gehoord (advies van 18 juli 1994, No. W03.94.0292);
-
-Gezien het nader rapport van Onze Minister van Justitie van 12 december 1994, stafafdeling Wetgeving Privaatrecht nr. 471491/94/6;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Aanwijzing gevaarlijke stoffen
 
@@ -48,17 +20,17 @@ Hebben goedgevonden en verstaan:
 
 Als stoffen die worden geacht aan de omschrijving van [artikel 175, eerste lid, eerste zin, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=175) te voldoen worden aangewezen:
 
-- a. de stoffen die zijn opgenomen in Bijlage I bij [richtlijn nr. 67/548/EEG](31967L0548) van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (**PbEG** L 196), zoals gewijzigd door [richtlijn nr. 92/32/EEG](31992L0032) van de Raad van de Europese Gemeenschappen van 30 april 1992 (**PbEG** L 154);
+- a. de stoffen die zijn opgenomen in Bijlage I bij richtlijn nr. 67/548/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (*PbEG* L 196), zoals gewijzigd door richtlijn nr. 92/32/EEG van de Raad van de Europese Gemeenschappen van 30 april 1992 (*PbEG* L 154);
 
-- b. de gevaarlijke afvalstoffen aangewezen ingevolge [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), voor zover zij niet reeds onder de in onderdeel **a** bedoelde stoffen vallen.
+- b. de gevaarlijke afvalstoffen aangewezen ingevolge [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), voor zover zij niet reeds onder de in onderdeel *a* bedoelde stoffen vallen.
 
 ##### Artikel 2
 
-1. Als gevaarlijke stof als bedoeld in artikel 620, onderdeel **a**, van Boek 8 van het Burgerlijk Wetboek wordt aangewezen een stof die behoort tot een van de volgende categorieën:
+1. Als gevaarlijke stof als bedoeld in artikel 620, onderdeel *a*, van Boek 8 van het Burgerlijk Wetboek wordt aangewezen een stof die behoort tot een van de volgende categorieën:
 
-- a. olie in bulk als opgenomen in Appendix I van Annex I van het Internationaal Verdrag ter voorkoming van verontreiniging van schepen (**Trb.** 1975, 147) en het bijbehorende Protocol van 1978 (**Trb.** 1978, 188), daaronder begrepen de latere wijzigingen daarvan, voor zover de aansprakelijkheid ter zake van deze olie niet reeds valt onder de [Wet aansprakelijkheid olietankschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0002976);
+- a. olie in bulk als opgenomen in Appendix I van Annex I van het Internationaal Verdrag ter voorkoming van verontreiniging van schepen (*Trb.* 1975, 147) en het bijbehorende Protocol van 1978 (*Trb.* 1978, 188), daaronder begrepen de latere wijzigingen daarvan, voor zover de aansprakelijkheid ter zake van deze olie niet reeds valt onder de [Wet aansprakelijkheid olietankschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0002976);
 
-- b. schadelijke vloeistoffen in bulk als bedoeld in Appendix II van Annex II van het Internationaal Verdrag ter voorkoming van verontreiniging van schepen (**Trb.** 1975, 147) en het bijbehorende Protocol van 1978 ( **Trb.** 1978, 188), daaronder begrepen de latere wijzigingen daarvan, en die stoffen en mengsels welke in overeenstemming met artikel 3(4) van Annex II van het Verdrag voorlopig zijn ingedeeld in een van de Categorieën A, B, C of D;
+- b. schadelijke vloeistoffen in bulk als bedoeld in Appendix II van Annex II van het Internationaal Verdrag ter voorkoming van verontreiniging van schepen (*Trb.* 1975, 147) en het bijbehorende Protocol van 1978 ( *Trb.* 1978, 188), daaronder begrepen de latere wijzigingen daarvan, en die stoffen en mengsels welke in overeenstemming met artikel 3(4) van Annex II van het Verdrag voorlopig zijn ingedeeld in een van de Categorieën A, B, C of D;
 
 - c. gevaarlijke vloeistoffen in bulk als opgenomen op de lijst van Hoofdstuk 17 van de door de Internationale Maritieme Organisatie vastgestelde International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk, 1983, daaronder begrepen de latere wijzigingen daarvan, en de produkten voor welke overeenkomstig artikel 1.1.3 van de Code door de betrokken bevoegde autoriteit of havenautoriteit voorlopig geschikte vervoersvoorwaarden zijn gegeven;
 
@@ -70,7 +42,7 @@ Als stoffen die worden geacht aan de omschrijving van [artikel 175, eerste lid, 
 
 - g. vaste bulkstoffen die chemisch gevaarlijke eigenschappen bezitten die vallen onder Appendix B van de door de Internationale Maritieme Organisatie vastgestelde Code of Safe Practice for Solid Bulk Cargoes, daaronder begrepen de latere wijzigingen daarvan, en die gestort worden vervoerd.
 
-2. Als gevaarlijke stof als bedoeld in artikel 620, onderdeel **a**, van Boek 8 van het Burgerlijk Wetboek wordt tevens aangewezen het residu van een stof in bulk met een vlampunt van niet meer dan 60°C (gemeten met de gesloten kroes methode).
+2. Als gevaarlijke stof als bedoeld in artikel 620, onderdeel *a*, van Boek 8 van het Burgerlijk Wetboek wordt tevens aangewezen het residu van een stof in bulk met een vlampunt van niet meer dan 60°C (gemeten met de gesloten kroes methode).
 
 ##### Artikel 3
 
@@ -78,11 +50,11 @@ Een gevaarlijke stof als bedoeld in [artikel 1030, onderdeel a](https://wetten.o
 
 ##### Artikel 4
 
-Een gevaarlijke stof als bedoeld in artikel 1210, onderdeel **a**, van Boek 8 van het Burgerlijk Wetboek is een stof of voorwerp waarvan de bijlagen A en B van de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen langs de weg (**Trb.** 1959, 171), daaronder begrepen de latere wijzigingen daarvan, het internationale vervoer over de weg verbieden of slechts onder bepaalde voorwaarden toelaten, met uitzondering van die stoffen of voorwerpen welke overeenkomstig de voorwaarden van randnummer 10 010 worden vervoerd dan wel waarvan de hoeveelheden tijdens het vervoer die van randnummer 10 011 niet overschrijden.
+Een gevaarlijke stof als bedoeld in artikel 1210, onderdeel *a*, van Boek 8 van het Burgerlijk Wetboek is een stof of voorwerp waarvan de bijlagen A en B van de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen langs de weg (*Trb.* 1959, 171), daaronder begrepen de latere wijzigingen daarvan, het internationale vervoer over de weg verbieden of slechts onder bepaalde voorwaarden toelaten, met uitzondering van die stoffen of voorwerpen welke overeenkomstig de voorwaarden van randnummer 10 010 worden vervoerd dan wel waarvan de hoeveelheden tijdens het vervoer die van randnummer 10 011 niet overschrijden.
 
 ##### Artikel 5
 
-Een gevaarlijke stof als bedoeld in artikel 1670, onderdeel **a**, van Boek 8 van het Burgerlijk Wetboek is een stof of voorwerp waarvan de bijlagen A en B van de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen langs de weg (**Trb.** 1959, 171), daaronder begrepen de latere wijzigingen daarvan, het internationale vervoer over de weg verbieden of slechts onder bepaalde voorwaarden toelaten, met uitzondering van die stoffen of voorwerpen welke overeenkomstig de voorwaarden van randnummer 10 010 worden vervoerd dan wel waarvan de hoeveelheden tijdens het vervoer die van randnummer 10 011 niet overschrijden.
+Een gevaarlijke stof als bedoeld in artikel 1670, onderdeel *a*, van Boek 8 van het Burgerlijk Wetboek is een stof of voorwerp waarvan de bijlagen A en B van de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen langs de weg (*Trb.* 1959, 171), daaronder begrepen de latere wijzigingen daarvan, het internationale vervoer over de weg verbieden of slechts onder bepaalde voorwaarden toelaten, met uitzondering van die stoffen of voorwerpen welke overeenkomstig de voorwaarden van randnummer 10 010 worden vervoerd dan wel waarvan de hoeveelheden tijdens het vervoer die van randnummer 10 011 niet overschrijden.
 
 #### § 2. Vaststelling bedragen beperking aansprakelijkheid
 
@@ -114,16 +86,14 @@ De rekeneenheid, genoemd in de artikelen 6 en 7 is het bijzondere trekkingsrecht
 
 ##### Artikel 9
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 #### § 3. Slotbepalingen
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
 
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit aansprakelijkheid gevaarlijke stoffen en milieuverontreiniging
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

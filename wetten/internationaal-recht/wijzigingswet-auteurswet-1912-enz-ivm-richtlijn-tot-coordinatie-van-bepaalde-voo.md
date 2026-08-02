@@ -1,55 +1,26 @@
 ---
 title: "Wet van 20 juni 1996, houdende wijziging van de Auteurswet 1912 en de Wet op de naburige rechten in verband met richtlijn nr. 93/83/EEG van de Raad van de Europese Gemeenschappen van 27 september 1993 tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel (PbEG L 248)"
+citeertitel: "Wijzigingswet Auteurswet 1912, enz. ivm richtlijn tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel"
 identifier: "BWBR0008122"
-country: "nl"
-rank: "wet"
-publication_date: "2008-03-26"
-last_updated: "2008-03-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008122"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "118883"
-version_id: "161882"
-internal_id: "C161881"
-label_id: "118714"
-dtd_version: "2.0"
-original_entry_into_force: "1996-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008122/2008-03-26/0"
-intitule_bron: "Stb.1996-364"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-06-20"
-intitule_published: "1996-07-09"
-intitule_in_force: "1996-08-15"
-intitule_status: "goed"
-original_publication: "Stb.1996-364"
-original_signed_date: "1996-06-20"
-original_published_date: "1996-07-09"
-original_effect: "nieuwe-regeling"
-original_dossier: "23813"
-original_url_id: "stb-1996-364"
-entry_into_force_date: "1996-09-01"
-jci_1_3: "jci1.3:c:BWBR0008122&z=2008-03-26&g=2008-03-26"
-jci_1_0: "1.0:c:BWBR0008122&g=2008-03-26"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Auteurswet 1912, enz. ivm richtlijn tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel"
-signed_date: "1996-06-20"
-entry_into_force: "1996-09-01"
+publicatiedatum: 1996-09-01
+laatste_update: 2008-03-26
+status: geldig
+toestand: 2008-03-26
+bron: "https://wetten.overheid.nl/BWBR0008122"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 20 juni 1996, houdende wijziging van de Auteurswet 1912 en de Wet op de naburige rechten in verband met richtlijn nr. 93/83/EEG van de Raad van de Europese Gemeenschappen van 27 september 1993 tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel (PbEG L 248)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ter uitvoering van [richtlijn nr. 93/83/EEG](31993L0083) van de Raad van de Europese Gemeenschappen van 27 september 1993 tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel (**PbEG** L 248) noodzakelijk is de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### ARTIKEL I
 
-Wijzigt de Auteurswet 1912.
+*Wijzigt de Auteurswet 1912.*
 
 ##### ARTIKEL II
 
-Wijzigt de Wet op de naburige rechten.
+*Wijzigt de Wet op de naburige rechten.*
 
 ##### ARTIKEL III
 
@@ -62,5 +33,3 @@ Wijzigt de Wet op de naburige rechten.
 ##### ARTIKEL IV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze wet in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

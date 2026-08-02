@@ -1,51 +1,18 @@
 ---
 title: "Besluit van 18 augustus 1994, houdende nadere omschrijving van gevallen waarin het geslacht bepalend is, van gevallen waarin het de bescherming van de vrouw betreft, van gevallen waarin uiterlijke kenmerken die samenhangen met het ras van een persoon bepalend zijn en van gevallen waarin de nationaliteit bepalend is"
+citeertitel: "Besluit gelijke behandeling"
 identifier: "BWBR0007270"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-12-21"
-last_updated: "2012-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007270"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "462363"
-version_id: "681872"
-internal_id: "C681871"
-label_id: "449474"
-dtd_version: "2.0"
-original_entry_into_force: "1994-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007270/2012-12-21/0"
-intitule_bron: "Stb.1994-657"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-03-02"
-intitule_published: "1994-08-30"
-intitule_status: "goed"
-original_publication: "Stb.1994-657"
-original_signed_date: "1995-03-02"
-original_published_date: "1994-08-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-09-01"
-entry_into_force_dossier: "22014"
-jci_1_3: "jci1.3:c:BWBR0007270&z=2012-12-21&g=2012-12-21"
-jci_1_0: "1.0:c:BWBR0007270&g=2012-12-21"
-citeertitel_status: "officieel"
-short_title: "Besluit gelijke behandeling"
-signed_date: "1995-03-02"
-entry_into_force: "1994-09-01"
+publicatiedatum: 1994-09-01
+laatste_update: 2012-12-21
+status: geldig
+toestand: 2012-12-21
+bron: "https://wetten.overheid.nl/BWBR0007270"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 18 augustus 1994, houdende nadere omschrijving van gevallen waarin het geslacht bepalend is, van gevallen waarin het de bescherming van de vrouw betreft, van gevallen waarin uiterlijke kenmerken die samenhangen met het ras van een persoon bepalend zijn en van gevallen waarin de nationaliteit bepalend is
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 29 april 1994, nr. CW94/409, stafafdeling Constitutionele Zaken en Wetgeving, gedaan mede namens Onze Minister van Justitie, de Staatssecretaris van Sociale Zaken en Werkgelegenheid, Onze Minister van Onderwijs en Wetenschappen en Onze Minister van Welzijn, Volksgezondheid en Cultuur;
-
-Gelet op [artikel 2, zesde lid, van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=2);
-
-Gezien het advies van de Emancipatieraad (advies van 14 oktober 1993, nr. IV/06/93) en het advies van de Commissie gelijke behandeling van mannen en vrouwen bij de arbeid (advies van 5 oktober 1993, nr. 93/CMS/1621);
-
-De Raad van State gehoord (advies van 12 juli 1994, No. W04.94.0238);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 9 augustus 1994, nr. CW94/851, stafafdeling Constitutionele Zaken en Wetgeving, uitgebracht mede namens Onze Minister van Justitie, de Staatssecretaris van Sociale Zaken en Werkgelegenheid, Onze Minister van Onderwijs en Wetenschappen en Onze Minister van Welzijn, Volksgezondheid en Cultuur;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -67,11 +34,11 @@ Als gevallen waarin het geslacht bepalend is, bedoeld in [artikel 2, tweede lid,
 
 - h. de verzekering van een risico dat afhankelijk is van het leven van een persoon tegen een van het geslacht van die persoon afhankelijke premie, voor zover het verschil in levensverwachting tussen mannen en vrouwen het verschil in premie redelijkerwijs meebrengt, tenzij:
 
-- 1°. de verzekeringsovereenkomst op of na 21 december 2012 is gesloten,
+   - 1°. de verzekeringsovereenkomst op of na 21 december 2012 is gesloten,
 
-- 2°. in de overeenkomst op of na 21 december 2012 een wijziging is aangebracht, waarmee alle partijen uitdrukkelijk moeten instemmen, of
+   - 2°. in de overeenkomst op of na 21 december 2012 een wijziging is aangebracht, waarmee alle partijen uitdrukkelijk moeten instemmen, of
 
-- 3°. een partij de voor het sluiten van de overeenkomst vereiste instemming laatstelijk heeft betuigd op of na 21 december 2012;
+   - 3°. een partij de voor het sluiten van de overeenkomst vereiste instemming laatstelijk heeft betuigd op of na 21 december 2012;
 
 - i. het verlenen van diensten die uitsluitend kunnen worden verleend aan mannen dan wel vrouwen.
 
@@ -85,7 +52,7 @@ Als gevallen waarin uiterlijke kenmerken die samenhangen met het ras van een per
 
 ##### Artikel 3
 
-Als gevallen waarin de nationaliteit bepalend is, bedoeld in [artikel 2, vijfde lid, onderdeel **b**, van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=2), worden aangemerkt de gevallen waarin het op grond van een regeling of praktijk van een organisatie op het gebied van sport of spel aan Nederlanders is voorbehouden om deel te nemen aan wedstrijden ter vertegenwoordiging van het land.
+Als gevallen waarin de nationaliteit bepalend is, bedoeld in [artikel 2, vijfde lid, onderdeel *b*, van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=2), worden aangemerkt de gevallen waarin het op grond van een regeling of praktijk van een organisatie op het gebied van sport of spel aan Nederlanders is voorbehouden om deel te nemen aan wedstrijden ter vertegenwoordiging van het land.
 
 ##### Artikel 4
 
@@ -94,5 +61,3 @@ Dit besluit treedt in werking met ingang van de dag waarop de [Algemene wet geli
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit gelijke behandeling.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

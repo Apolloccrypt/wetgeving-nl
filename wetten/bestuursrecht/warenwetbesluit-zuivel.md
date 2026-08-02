@@ -1,70 +1,18 @@
 ---
 title: "Besluit van 25 oktober 1994, houdende het Warenwetbesluit Zuivel"
+citeertitel: "Warenwetbesluit Zuivel"
 identifier: "BWBR0006982"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006982"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1451223"
-version_id: "12277532"
-internal_id: "C16515411"
-label_id: "1410274"
-dtd_version: "2.0"
-original_entry_into_force: "2005-09-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006982/2026-01-01/0"
-intitule_bron: "Stb.1994-813"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-10-25"
-intitule_published: "1994-11-29"
-intitule_in_force: "1994-11-29"
-intitule_status: "goed"
-original_publication: "Stb.2005-439"
-original_signed_date: "2005-08-24"
-original_published_date: "2005-09-13"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2005-439"
-entry_into_force_date: "2005-09-14"
-jci_1_3: "jci1.3:c:BWBR0006982&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0006982&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit Zuivel"
-signed_date: "2005-08-24"
-entry_into_force: "2005-09-14"
+publicatiedatum: 2005-09-14
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0006982"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 25 oktober 1994, houdende het Warenwetbesluit Zuivel
-
-Op de voordracht van Onze Minister van Welzijn, Volksgezondheid en Cultuur van 11 mei 1994, nr DGVgz/VVP/L 94916, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
-
-Gelet op [Verordening (EEG) nr 1411/71](31971R1411) van de Raad van 29 juni 1971 houdende aanvullende voorschriften voor de gemeenschappelijke ordening der markten in de sector melk en zuivelprodukten met betrekking tot melk bestemd voor menselijke consumptie (**PbEG** L 148);
-
-op [Verordening (EEG) nr 1898/87](31987R1898) van de Raad van 2 juli 1987 betreffende de bescherming van de benaming van melk en zuivelprodukten bij het in de handel brengen (**PbEG** L 182);
-
-op [Richtlijn nr 76/118/EEG](31976L0118) van de Raad van de Europese Gemeenschappen van 18 december 1975 houdende onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende bepaalde voor menselijke voeding bestemde geheel of gedeeltelijk gedehydrateerde verduurzaamde melk (**PbEG** L 24);
-
-op [Richtlijn nr 79/1067/EEG](31979L1067) van de Commissie van de Europese Gemeenschappen van 13 november 1979 tot vaststelling van communautaire analyse-methoden voor de controle van bepaalde voor menselijke voeding bestemde geheel of gedeeltelijk gedehydrateerde verduurzaamde melk (**PbEG** L 327);
-
-op [Richtlijn nr 83/417/EEG](31983L0417) van de Raad van 25 juli 1983 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake bepaalde voor menselijke voeding bestemde melkeiwitten (caseïne en caseïnaten) (**PbEG** L 237);
-
-op [Richtlijn nr 85/503/EEG](31985L0503) van de Commissie van 25 oktober 1985 betreffende analysemethoden inzake voor menselijke voeding bestemde caseïnen en caseïnaten (**PbEG** L 308);
-
-op [Richtlijn nr 92/46/EEG](31992L0046) van de Raad van de Europese Gemeenschappen van 16 juni 1992 tot vaststelling van gezondheidsvoorschriften voor de produktie en het in de handel brengen van rauwe melk, warmtebehandelde melk en produkten op basis van melk (**PbEG** L 268);
-
-op [Richtlijn nr 92/47/EEG](31992L0047) van de Raad van de Europese Gemeenschappen van 16 juni 1992 houdende vaststelling van de voorschriften voor het toestaan van tijdelijke en beperkte afwijkingen op de specifieke communautaire gezondheidsvoorschriften voor de produktie en het in de handel brengen van melk en produkten op basis van melk (**PbEG** L 268);
-
-op artikel II van de Wijzigingswet 1988 Warenwet jo. de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14), [14**a**](onbekend), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=16) en [16**a** van de Warenwet](onbekend) (**Stb.** 1935, 793);
-
-alsmede op [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=1), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [artikel 5, eerste lid, onder a en b, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=5), [artikel 6, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=6), [artikel 8, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), [artikel 9, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=9), en de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13) en [14 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14) (**Stb.** 1988, 360);
-
-Gezien het advies van de Adviescommissie Warenwet van 8 april 1994 met nummer 14 721/(21)5;
-
-De Raad van State gehoord (advies van 1 augustus 1994, no. W13.94.0306);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 14 oktober 1994 met nummer DGVgz/VVP/L 942092, uitgebracht in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -72,49 +20,54 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- −. **kaasstandaard:** internationale kaasstandaard, opgesteld in het kader van de «FAO/WHO Code of Principles concerning Milk and Milk Products»;
+- − *kaasstandaard:* internationale kaasstandaard, opgesteld in het kader van de «FAO/WHO Code of Principles concerning Milk and Milk Products»;
 
-- −. **melk:** melk als bedoeld in bijlage VII, deel III, van [verordening (EU) 1308/2013](32013R1308);
+- − *melk:* melk als bedoeld in bijlage VII, deel III, van verordening (EU) 1308/2013;
 
-- −. **melk bestemd voor de bereiding van producten op basis van melk:**
+- − *melk bestemd voor de bereiding van producten op basis van melk:*
 
-- 1°. rauwe melk bestemd voor verwerking;
+   - 1°. rauwe melk bestemd voor verwerking;
 
-- 2°. vloeibare of bevroren melk, verkregen uit rauwe melk die al dan niet een toegestane fysische behandeling, zoals een warmtebehandeling of een thermisatie, heeft ondergaan en waarvan de samenstelling al dan niet is gewijzigd, mits deze wijziging beperkt blijft tot het toevoegen of het onttrekken van natuurlijke melkbestanddelen;
+   - 2°. vloeibare of bevroren melk, verkregen uit rauwe melk die al dan niet een toegestane fysische behandeling, zoals een warmtebehandeling of een thermisatie, heeft ondergaan en waarvan de samenstelling al dan niet is gewijzigd, mits deze wijziging beperkt blijft tot het toevoegen of het onttrekken van natuurlijke melkbestanddelen;
 
-- −. **micro-organismen van yoghurt-cultuur:** micro-organismen van de soorten Lactobacillus del-brueckii ssp. bulgaricus en Streptococcus thermophilus;
+- − *micro-organismen van yoghurt-cultuur:* micro-organismen van de soorten Lactobacillus del-brueckii ssp. bulgaricus en Streptococcus thermophilus;
 
-- −. **producten op basis van melk:** zuivelproducten en samengestelde zuivelproducten;
+- − *producten op basis van melk:* zuivelproducten en samengestelde zuivelproducten;
 
-- −. **rauwe melk:** rauwe melk als bedoeld in bijlage VII, deel IV, van [verordening (EU) 1308/2013](32013R1308);
+- − *rauwe melk:* rauwe melk als bedoeld in bijlage VII, deel IV, van verordening (EU) 1308/2013;
 
-- −. **richtlijn 79/1067/EEG:** Eerste [Richtlijn 79/1067/EEG](31979L1067) van de Commissie van 13 november 1979 tot vaststelling van communautaire analysemethoden voor de controle van bepaalde voor menselijke voeding bestemde geheel of gedeeltelijk gedehydreerde verduurzaamde melk (PbEG 1979, L 327);
+- − *richtlijn 79/1067/EEG:* Eerste Richtlijn 79/1067/EEG van de Commissie van 13 november 1979 tot vaststelling van communautaire analysemethoden voor de controle van bepaalde voor menselijke voeding bestemde geheel of gedeeltelijk gedehydreerde verduurzaamde melk (PbEG 1979, L 327);
 
-- −. **richtlijn 85/503/EEG:** Eerste [Richtlijn 85/503/EEG](31985L0503) van de Commissie van 25 oktober 1985 betreffende analysemethoden inzake voor menselijke voeding bestemde caseïnen en caseïnaten (PbEG 1985, L 308);
+- − *richtlijn 85/503/EEG:* Eerste Richtlijn 85/503/EEG van de Commissie van 25 oktober 1985 betreffende analysemethoden inzake voor menselijke voeding bestemde caseïnen en caseïnaten (PbEG 1985, L 308);
 
-- −. **richtlijn 2001/114/EG:** Richtlijn van de Raad van 20 december 2001 inzake bepaalde voor menselijke voeding bestemde, geheel of gedeeltelijk gedehydrateerde verduurzaamde melk (PbEG 2002, L 15);
+- − *richtlijn 2001/114/EG:* Richtlijn van de Raad van 20 december 2001 inzake bepaalde voor menselijke voeding bestemde, geheel of gedeeltelijk gedehydrateerde verduurzaamde melk (PbEG 2002, L 15);
 
-- −. **richtlijn (EU) 2015/2203:** [Richtlijn (EU) 2015/2203](32015L2203) van het Europees Parlement en de Raad van 25 november 2015 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten met betrekking tot voor menselijke voeding bestemde caseïne en caseïnaten en tot intrekking van [Richtlijn 83/417/EEG](31983L0417) van de Raad (PbEU 2015, L 314);
+- − *richtlijn (EU) 2015/2203:*
+ Richtlijn (EU) 2015/2203 van het Europees Parlement en de Raad van 25 november 2015 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten met betrekking tot voor menselijke voeding bestemde caseïne en caseïnaten en tot intrekking van Richtlijn 83/417/EEG van de Raad (PbEU 2015, L 314);
 
-- −. **het samengestelde zuivelproduct:** product waarvan geen enkel element de plaats van een bestanddeel van melk inneemt of met dit doel wordt toegevoegd en waarvan de melk of een zuivelproduct een essentieel bestanddeel is, hetzij door zijn hoeveelheid, hetzij omdat zijn effect kenmerkend is voor het product;
+- − *het samengestelde zuivelproduct:* product waarvan geen enkel element de plaats van een bestanddeel van melk inneemt of met dit doel wordt toegevoegd en waarvan de melk of een zuivelproduct een essentieel bestanddeel is, hetzij door zijn hoeveelheid, hetzij omdat zijn effect kenmerkend is voor het product;
 
-- −. **thermisatie:** verhitting van rauwe melk tot een temperatuur tussen 57°C en 68°C, zodanig dat de melk na deze behandeling positief blijft reageren op de fosfatase-test;
+- − *thermisatie:* verhitting van rauwe melk tot een temperatuur tussen 57°C en 68°C, zodanig dat de melk na deze behandeling positief blijft reageren op de fosfatase-test;
 
-- −. **verordening (EG) 1332/2008:** [Verordening (EG) nr. 1332/2008](32008R1332) van het Europees Parlement en de Raad van 16 december 2008 inzake voedingsenzymen en tot wijziging van [Richtlijn 83/417/EEG](31983L0417) van de Raad, [Verordening (EG) nr. 1493/1999](31999R1493) van de Raad, [Richtlijn 2000/13/EG](32000L0013), [Richtlijn 2001/112/EG](32001L0112) van de Raad en [Verordening (EG) nr. 258/97](31997R0258) (PbEU 2008, L 354);
+- − *verordening (EG) 1332/2008:*
+ Verordening (EG) nr. 1332/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake voedingsenzymen en tot wijziging van Richtlijn 83/417/EEG van de Raad, Verordening (EG) nr. 1493/1999 van de Raad, Richtlijn 2000/13/EG, Richtlijn 2001/112/EG van de Raad en Verordening (EG) nr. 258/97 (PbEU 2008, L 354);
 
-- −. **verordening (EG) 1333/2008:** [Verordening (EG) nr. 1333/2008](32008R1333) van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354);
+- − *verordening (EG) 1333/2008:*
+ Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354);
 
-- −. **verordening (EU) 1308/2013:** [Verordening (EU) nr. 1308/2013](32013R1308) van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de [Verordeningen (EEG) nr. 922/72](31972R0922), [(EEG) nr. 234/79](31979R0234), [(EG) nr. 1037/2001](32001R1037) en [(EG) nr. 1234/2007](32007R1234) van de Raad (PbEU 2013, L 347);
+- − *verordening (EU) 1308/2013:*
+ Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347);
 
-- −. **verordening (EU) 2024/1143:** [Verordening (EU) 2024/1143](32024R1143) van het Europees Parlement en de Raad van 11 april 2024 betreffende geografische aanduidingen voor wijn, gedistilleerde dranken en landbouwproducten, evenals gegarandeerde traditionele specialiteiten en facultatieve kwaliteitsaanduidingen voor landbouwproducten, tot wijziging van de [Verordeningen (EU) nr. 1308/2013](32013R1308), [(EU) 2019/787](32019R0787) en [(EU) 2019/1753](32019R1753) en tot intrekking van [Verordening (EU) nr. 1151/2012](32012R1151) (PbEU L 2024/1143);
+- − *verordening (EU) 2024/1143:*
+ Verordening (EU) 2024/1143 van het Europees Parlement en de Raad van 11 april 2024 betreffende geografische aanduidingen voor wijn, gedistilleerde dranken en landbouwproducten, evenals gegarandeerde traditionele specialiteiten en facultatieve kwaliteitsaanduidingen voor landbouwproducten, tot wijziging van de Verordeningen (EU) nr. 1308/2013, (EU) 2019/787 en (EU) 2019/1753 en tot intrekking van Verordening (EU) nr. 1151/2012 (PbEU L 2024/1143);
 
-- −. **warmtebehandeling:** elke behandeling door verhitting die, onmiddellijk na de toepassing ervan, een negatieve reactie bij de fosfatase-test tot gevolg heeft;
+- − *warmtebehandeling:* elke behandeling door verhitting die, onmiddellijk na de toepassing ervan, een negatieve reactie bij de fosfatase-test tot gevolg heeft;
 
-- −. **zuivelproduct:** zuivelproduct als bedoeld in bijlage VII, deel III, van [verordening (EU) 1308/2013](32013R1308).
+- − *zuivelproduct:* zuivelproduct als bedoeld in bijlage VII, deel III, van verordening (EU) 1308/2013.
 
 ##### Artikel 2
 
-1. Het is verboden te handelen in strijd met de eisen gesteld bij of krachtens artikel 78, tweede tot en met vijfde lid, en bijlage VII, deel III en IV, van [verordening (EU) 1308/2013](32013R1308) voor zover deze betrekking hebben op melk en zuivelproducten voor menselijke consumptie.
+1. Het is verboden te handelen in strijd met de eisen gesteld bij of krachtens artikel 78, tweede tot en met vijfde lid, en bijlage VII, deel III en IV, van verordening (EU) 1308/2013 voor zover deze betrekking hebben op melk en zuivelproducten voor menselijke consumptie.
 
 2. Het is verboden eet- en drinkwaren te bereiden, te behandelen, te verwerken, te verpakken, te bewaren, te vervoeren, te verhandelen of te bezigen, anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 
@@ -124,7 +77,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 #### § 3. Uitvoering EU-richtlijnen
 
@@ -132,15 +85,15 @@ Vervallen
 
 Onze Minister stelt nadere regels vast ter uitvoering van:
 
-- a. [richtlijn 2001/114/EG](32001L0114); en
+- a. richtlijn 2001/114/EG; en
 
-- b. [richtlijn (EU) 2015/2203](32015L2203).
+- b. richtlijn (EU) 2015/2203.
 
 #### § 3a. uitvoering EG-verordeningen
 
 ##### Artikel 4a
 
-Vervallen
+*Vervallen*
 
 #### § 4. Stremsel bij de bereiding van kaas
 
@@ -154,13 +107,13 @@ Vervallen
 
 - c. chymosine dat is verkregen met behulp van een genetisch gemodificeerd micro-organisme.
 
-2. Stremsels als bedoeld in het eerste lid voldoen aan de voorschriften van [verordening (EG) 1332/2008](32008R1332).
+2. Stremsels als bedoeld in het eerste lid voldoen aan de voorschriften van verordening (EG) 1332/2008.
 
 #### § 5. Etikettering van producten op basis van melk
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -210,7 +163,7 @@ waaraan voor, tijdens of na de verzuring uitsluitend wei-eiwitconcentraat of cas
 
 - b. procestechnieken waarbij geheel of gedeeltelijke stremming van melk, waaraan al dan niet melkbestanddelen zijn toegevoegd of onttrokken, een onderdeel is en die leiden tot een product met soortgelijke fysische, chemische en organoleptische kenmerken als het product bedoeld onder a.
 
-2. Onverminderd de benamingen, genoemd in de [artikelen 2.28 tot en met 2.30 van de Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.28) en de kwaliteitsregelingen geregistreerd op grond van [verordening (EU) 2024/1143](32024R1143) mag voor kaas een van de benamingen, bedoeld in de bijlage worden gebezigd, voor zover het een waar betreft waarvan de aard en de samenstelling voldoet aan de desbetreffende kaasstandaard.
+2. Onverminderd de benamingen, genoemd in de [artikelen 2.28 tot en met 2.30 van de Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.28) en de kwaliteitsregelingen geregistreerd op grond van verordening (EU) 2024/1143 mag voor kaas een van de benamingen, bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0006982) worden gebezigd, voor zover het een waar betreft waarvan de aard en de samenstelling voldoet aan de desbetreffende kaasstandaard.
 
 ##### Artikel 10
 
@@ -236,7 +189,7 @@ Aan de vermeldingen 50+, 48+ en 45+ mag worden toegevoegd: volvet(te).
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -314,9 +267,9 @@ Van de aanduiding van een vloeibaar of dikvloeibaar product op basis van melk ma
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot de bij dit besluit bedoelde waren al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere lid-staat van de Europese Unie aangewezen methoden.
 
-2. In afwijking van het eerste lid worden aangewezen als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot geheel of gedeeltelijk gedehydrateerde verduurzaamde melk al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, de communautaire analyse-methoden, bedoeld in [richtlijn 79/1067/EEG](31979L1067).
+2. In afwijking van het eerste lid worden aangewezen als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot geheel of gedeeltelijk gedehydrateerde verduurzaamde melk al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, de communautaire analyse-methoden, bedoeld in richtlijn 79/1067/EEG.
 
-3. In afwijking van het eerste lid worden aangewezen als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot voor menselijke voeding bestemde caseïnen en caseïnaten al dan niet is aan de bij of krachtens dit besluit gestelde regels, de communautaire analyse-methoden, bedoeld in [richtlijn 85/503/EEG](31985L0503).
+3. In afwijking van het eerste lid worden aangewezen als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot voor menselijke voeding bestemde caseïnen en caseïnaten al dan niet is aan de bij of krachtens dit besluit gestelde regels, de communautaire analyse-methoden, bedoeld in richtlijn 85/503/EEG.
 
 4. Onze Minister kan ter uitvoering van een krachtens het Verdrag tot oprichting van de Europese Gemeenschap of krachtens het Verdrag tot instelling van de Benelux Economische Unie tot stand gekomen bindende regeling, nadere regels stellen met betrekking tot het eerste lid, voor zover die bindende regeling de Nederlandse wetgever, behoudens op ondergeschikte punten, geen ruimte laat voor het maken van keuzen van beleidsinhoudelijke aard.
 
@@ -340,7 +293,7 @@ Ingetrokken worden:
 
 ##### Artikel 20
 
-Na de inwerkingtreding van het besluit van 4 november 2025 houdende wijziging van het Warenwetbesluit Vlees, gehakt en vleesproducten, het Warenwetbesluit Zuivel en het Warenwetbesluit bestuurlijke boeten in verband met wijzigingen in Europese regelgeving en enkele technische aanpassingen (Stb. 2025, 335), berusten de [Warenwetregeling gedehydrateerde melk 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014856) en de [Warenwetregeling caseïne en caseïnaten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038717) mede op [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01), respectievelijk artikel 4, onderdeel b, van dit besluit.
+Na de inwerkingtreding van het besluit van 4 november 2025 houdende wijziging van het Warenwetbesluit Vlees, gehakt en vleesproducten, het Warenwetbesluit Zuivel en het Warenwetbesluit bestuurlijke boeten in verband met wijzigingen in Europese regelgeving en enkele technische aanpassingen (Stb. 2025, 335), berusten de [Warenwetregeling gedehydrateerde melk 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014856) en de [Warenwetregeling caseïne en caseïnaten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038717) mede op [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01), respectievelijk artikel 4, onderdeel b, van dit besluit.
 
 ##### Artikel 21
 
@@ -349,129 +302,3 @@ Dit besluit treedt in werking met ingang van 1 januari 1995.
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Zuivel.
-
-## Bijlage. Lijst van toegelaten benamingen van kaas die voldoet aan de betreffende kaasstandaard van de Codex Alimentarius
-
-Deze bijlage behoort bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2026-01-01&g=2026-01-01)
-
-Mozzarella
-
-Cheddar
-
-Edam
-
-Gouda
-
-Samsø
-
-Emmental
-
-Tilsiter
-
-Saint-Paulin
-
-Provolone
-
-Cottage Cheese
-
-Coulommiers
-
-Cream Cheese
-
-Camembert
-
-Brie
-
-Extra Hard Grating Cheese
-
-## Bijlage II. Deze bijlage behoort bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2003-07-17&g=2003-07-17), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=10&z=2003-07-17&g=2003-07-17).
-
-Lijst van namen van kaassoorten, waarvoor kaasstandaarden bestaan die aanvaard zijn door de Nederlandse Regering, gevolgd door het land van origine van die soort.
-
-A In het kader van de FAO/WHO:
-
-Brie (Frankrijk)
-
-Butterkäse
-
-Camembert (Frankrijk)
-
-Cheshire kaas (Verenigd Koninkrijk)
-
-Coulommiers (Frankrijk)
-
-Danablu (Denemarken)
-
-Danbo (Denemarken)
-
-Emmentaler (Zwitserland)
-
-Esrom (Denemarken)
-
-Gruyère (Zwitserland en Frankrijk)
-
-Harzer Käse of Harzer Kaas
-
-Herrgardsost (Zweden)
-
-Hushallsost (Zweden)
-
-Limburger (België)
-
-Norvegia (Noorwegen)
-
-Provolone (Italië)
-
-Romadur
-
-Samsö (Denemarken)
-
-Svecia (Zweden)
-
-Tilsiter kaas
-
-B Op grond van de Conventie van Stresa:
-
-1. Uit de A-lijst:
-
-Gorgonzola (Italië)
-
-Parmigiano Reggiano (Italië)
-
-Pecorino Romano (Italië)
-
-Roquefort (Frankrijk)
-
-2. Uit de B-lijst:
-
-Adelost (Zweden)
-
-Asiago (Italië)
-
-Caciocavallo (Italië)
-
-Elbo (Denemarken)
-
-Fontina (Italië)
-
-Fiore Sardo (Italië)
-
-Fynbo (Denemarken)
-
-Harvarti (Denemarken)
-
-Maribo (Denemarken)
-
-Mycella (Denemarken)
-
-Noekkelost (Noorwegen)
-
-Saint-Paulin (Frankrijk)
-
-Sbrinz (Zwitserland)
-
-Tybo (Denemarken)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

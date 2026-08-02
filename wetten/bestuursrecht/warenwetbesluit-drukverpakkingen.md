@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 26 maart 1996 houdende regels inzake de veiligheid van verpakkingen onder druk (Warenwetbesluit drukverpakkingen)"
+citeertitel: "Warenwetbesluit drukverpakkingen"
 identifier: "BWBR0007965"
-country: "nl"
-rank: "amvb"
-publication_date: "2014-11-14"
-last_updated: "2014-11-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007965"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "2730293"
-version_id: "4168382"
-internal_id: "C4168381"
-label_id: "2677604"
-dtd_version: "2.0"
-original_entry_into_force: "1996-05-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007965/2014-11-14/0"
-intitule_bron: "Stb.1996-251"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-03-26"
-intitule_published: "1996-05-09"
-intitule_in_force: "1996-05-09"
-intitule_status: "goed"
-original_publication: "Stb.1996-251"
-original_signed_date: "1996-03-26"
-original_published_date: "1996-05-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1996-251"
-entry_into_force_date: "1996-05-10"
-jci_1_3: "jci1.3:c:BWBR0007965&z=2014-11-14&g=2014-11-14"
-jci_1_0: "1.0:c:BWBR0007965&g=2014-11-14"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit drukverpakkingen"
-signed_date: "1996-03-26"
-entry_into_force: "1996-05-10"
+publicatiedatum: 1996-05-10
+laatste_update: 2014-11-14
+status: geldig
+toestand: 2014-11-14
+bron: "https://wetten.overheid.nl/BWBR0007965"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 26 maart 1996 houdende regels inzake de veiligheid van verpakkingen onder druk (Warenwetbesluit drukverpakkingen)
-
-Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 juli 1995, nr. DGVgz/VVP/P 951612, gedaan in overeenstemming met Onze Minister van Economische Zaken;
-
-Gelet op [Richtlijn nr. 94/1/EG](31994L0001) van de Commissie van de Europese Gemeenschappen van 6 januari 1994, houdende technische aanpassing van [richtlijn 75/324/EEG](31975L0324) van de Raad inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende aërosols (**PbEG** L 23), op de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=1), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [6, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=6), [8, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13) en [14 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14), op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet, alsmede op de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=34), [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=37), [39, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=39), en [60, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=60);
-
-Gezien het advies van de Adviescommissie Warenwet van 30 maart 1995, no. 14854/(32)5;
-
-De Raad van State gehoord (advies van 17 januari 1996, nr. W13.95.0470);
-
-Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 maart 1996, nr. DGVgz/VVP/P 96182, uitgebracht in overeenstemming met Onze Minister van Economische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemeen
 
@@ -64,7 +30,7 @@ Hebben goedgevonden en verstaan:
 
 - e. koolzuur: het kooldioxide (E290) zoals omschreven in het Conserveermiddelenbesluit (Warenwet);
 
-- f. richtlijn: [Richtlijn nr. 75/324/EEG](31975L0324) van de Raad van de Europese Gemeenschappen van 20 mei 1975 inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende aërosols (**PbEG** L 147).
+- f. richtlijn: Richtlijn nr. 75/324/EEG van de Raad van de Europese Gemeenschappen van 20 mei 1975 inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende aërosols (*PbEG* L 147).
 
 2. Dit besluit is niet van toepassing op aërosols met een totale capaciteit van de houder van minder dan 50 ml.
 
@@ -138,20 +104,18 @@ Dit besluit berust mede op de [artikelen 9.2.3.1, derde en vierde lid](https://w
 
 ##### Artikel 10
 
-1. Wijzigt het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparatenCaret .
+1. *Wijzigt het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten .*
 
-2. Wijzigt de nadere regels verpakking en aanduiding milieugevaarlijke stoffen en preparaten.
+2. *Wijzigt de nadere regels verpakking en aanduiding milieugevaarlijke stoffen en preparaten.*
 
 ##### Artikel 11
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, met uitzondering van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14) dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, met uitzondering van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14) dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 2. Bestrijdingsmiddelen in de vorm van aërosols, die vóór de datum van inwerkingtreding van dit besluit voor het eerst zijn verhandeld, mogen nog tot 24 maanden na die inwerkingtreding worden verhandeld.
 
-3. Een wijziging van de bijlage bij de richtlijn, voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=3&z=2014-11-14&g=2014-11-14), [4, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=7&z=2014-11-14&g=2014-11-14), maakt Onze Minister bekend in de **Staatscourant**; hij vermeldt daarbij met ingang van welke datum de wijziging moet worden toegepast.
+3. Een wijziging van de bijlage bij de richtlijn, voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=3&z=2014-11-14&g=2014-11-14), [4, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=7&z=2014-11-14&g=2014-11-14), maakt Onze Minister bekend in de *Staatscourant*; hij vermeldt daarbij met ingang van welke datum de wijziging moet worden toegepast.
 
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Warenwetbesluit drukverpakkingen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

@@ -1,46 +1,57 @@
 ---
 title: "Regeling rekenmethode inhoudingen"
 identifier: "BWBR0007102"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-01-01"
-last_updated: "1995-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007102"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3753333"
-version_id: "5536212"
-internal_id: "C5729301"
-label_id: "3733094"
-dtd_version: "2.0"
-original_entry_into_force: "1995-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007102/1995-01-01/0"
-intitule_bron: "Stcrt.1994-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-14"
-intitule_published: "1994-12-22"
-intitule_in_force: "1994-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-247"
-original_signed_date: "1994-12-14"
-original_published_date: "1994-12-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-01-01"
-jci_1_3: "jci1.3:c:BWBR0007102&z=1995-01-01&g=1995-01-01"
-jci_1_0: "1.0:c:BWBR0007102&g=1995-01-01"
-citeertitel_status: "officieel"
-signed_date: "1994-12-14"
-entry_into_force: "1995-01-01"
+publicatiedatum: 1995-01-01
+laatste_update: 1995-01-01
+status: geldig
+toestand: 1995-01-01
+bron: "https://wetten.overheid.nl/BWBR0007102"
+opgehaald: 2026-08-02
 ---
+
 # Regeling rekenmethode inhoudingen
-
-Gelet op de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=31) en [32 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=32);
-
-Besluiten:
 
 ##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder:
+
+a.
+
+heffingsgrondslag:
+
+de heffingsgrondslag, bedoeld in [artikel 29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=29);
+
+b.
+
+inhouding:
+
+een inhouding als bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=31) en [32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=32);
+
+c.
+
+ontheffing:
+
+een ontheffing van de uitoefening van de betrekking in verband met verlof, ziekte, militaire dienst of andere de werknemer persoonlijk betreffende omstandigheden;
+
+d.
+
+werkgever:
+
+de werkgever, bedoeld in [artikel 1, onderdeel s, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=1);
+
+e.
+
+werknemer:
+
+de werknemer, bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=28);
+
+f.
+
+de wet:
+
+de [Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211).
 
 ##### Artikel 2
 

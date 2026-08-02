@@ -1,42 +1,17 @@
 ---
 title: "Beschikking vacatiegeld voor de luchtvaartexamencommissies"
 identifier: "BWBR0007993"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007993"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "4646783"
-version_id: "6463072"
-internal_id: "C6709951"
-label_id: "4625074"
-dtd_version: "2.0"
-original_entry_into_force: "1996-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007993/2002-01-01/0"
-intitule_bron: "Stcrt.1996-116"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-04-11"
-intitule_published: "1996-06-20"
-intitule_in_force: "1996-06-20"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-116"
-original_signed_date: "1996-04-11"
-original_published_date: "1996-06-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-05-01"
-jci_1_3: "jci1.3:c:BWBR0007993&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0007993&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "1996-04-11"
-entry_into_force: "1996-05-01"
+publicatiedatum: 1996-05-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0007993"
+opgehaald: 2026-08-02
 ---
+
 # Beschikking vacatiegeld voor de luchtvaartexamencommissies
-
-Gelet op [artikel 1 van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=1);
-
-Besluit:
 
 ##### Artikel 1
 

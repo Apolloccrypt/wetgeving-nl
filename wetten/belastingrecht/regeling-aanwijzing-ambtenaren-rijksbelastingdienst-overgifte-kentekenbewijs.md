@@ -1,45 +1,18 @@
 ---
 title: "Regeling aanwijzing ambtenaren rijksbelastingdienst invordering kentekenbewijs"
+citeertitel: "Regeling aanwijzing ambtenaren rijksbelastingdienst overgifte kentekenbewijs"
 identifier: "BWBR0007038"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007038"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3553543"
-version_id: "5336662"
-internal_id: "C5529751"
-label_id: "3533544"
-dtd_version: "2.0"
-original_entry_into_force: "1995-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007038/2014-01-01/0"
-intitule_bron: "Stcrt.1994-237"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-11-28"
-intitule_published: "1994-12-08"
-intitule_in_force: "1994-12-08"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-237"
-original_signed_date: "1994-11-28"
-original_published_date: "1994-12-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-01-01"
-jci_1_3: "jci1.3:c:BWBR0007038&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0007038&g=2014-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling aanwijzing ambtenaren rijksbelastingdienst overgifte kentekenbewijs"
-signed_date: "1994-11-28"
-entry_into_force: "1995-01-01"
+publicatiedatum: 1995-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0007038"
+opgehaald: 2026-08-02
 ---
+
 # Regeling aanwijzing ambtenaren rijksbelastingdienst invordering kentekenbewijs
-
-Handelende in overeenstemming met de Minister van Financiën;
-
-Gelet op [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=39), [aanhef en onderdeel b, van het Kentekenreglement](onbekend);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -53,11 +26,11 @@ Als ambtenaren der rijksbelastingdienst, bedoeld in [artikel 39, eerste lid, ond
 
 ##### Artikel 2
 
-Wijzigt deze regeling.
+*Wijzigt deze regeling.*
 
 ##### Artikel 3
 
-Wijzigt deze regeling.
+*Wijzigt deze regeling.*
 
 ##### Artikel 4
 

@@ -1,59 +1,41 @@
 ---
 title: "Regeling kabelvliegers en kleine ballons"
 identifier: "BWBR0007094"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-12-12"
-last_updated: "2014-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007094"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4512643"
-version_id: "21883082"
-internal_id: "C31405771"
-label_id: "4491134"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007094/2014-12-12/0"
-intitule_bron: "Stcrt.1994-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-13"
-intitule_published: "1994-12-27"
-intitule_in_force: "1994-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-35427"
-original_signed_date: "2014-12-09"
-original_published_date: "2014-12-11"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2014-35427"
-entry_into_force_date: "2014-12-09"
-jci_1_3: "jci1.3:c:BWBR0007094&z=2014-12-12&g=2014-12-12"
-jci_1_0: "1.0:c:BWBR0007094&g=2014-12-12"
-citeertitel_status: "officieel"
-signed_date: "2014-12-09"
-entry_into_force: "2014-12-09"
+publicatiedatum: 2014-12-09
+laatste_update: 2014-12-12
+status: geldig
+toestand: 2014-12-12
+bron: "https://wetten.overheid.nl/BWBR0007094"
+opgehaald: 2026-08-02
 ---
+
 # Regeling kabelvliegers en kleine ballons
-
-Handelende in overeenstemming met de Staatssecretaris van Defensie;
-
-Gelet op [artikel 59, tweede lid onder d en e, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=59),
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-**kabelvlieger:** een toestel, zwaarder dan lucht en niet voorzien van een voortstuwingsinrichting, dat door middel van (een) ankerkabel(s) of lijn(en) is verbonden met het aardoppervlak;
+*kabelvlieger:* een toestel, zwaarder dan lucht en niet voorzien van een voortstuwingsinrichting, dat door middel van (een) ankerkabel(s) of lijn(en) is verbonden met het aardoppervlak;
 
-**kleine ballon:** een kleine kabelballon of een kleine vrije ballon;
+*kleine ballon:* een kleine kabelballon of een kleine vrije ballon;
 
-**kleine kabelballon:** een ballon, die door middel van (een) ankerkabel(s) of lijn(en) is verbonden met het aardoppervlak en die op zeeniveau in de internationale standaardatmosfeer in geheel gevulde toestand een diameter van ten hoogste 2 m of een inhoud van ten hoogste 4 m³ heeft, dan wel een samenstel van ballons waarvan de gezamenlijke diameter of inhoud deze waarde niet te boven gaan;
+*kleine kabelballon:* een ballon, die door middel van (een) ankerkabel(s) of lijn(en) is verbonden met het aardoppervlak en die op zeeniveau in de internationale standaardatmosfeer in geheel gevulde toestand een diameter van ten hoogste 2 m of een inhoud van ten hoogste 4 m³ heeft, dan wel een samenstel van ballons waarvan de gezamenlijke diameter of inhoud deze waarde niet te boven gaan;
 
-**kleine vrije ballon:** een ballon die niet is verbonden met het aardoppervlak en die op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een diameter van ten hoogste 2 m of een inhoud van ten hoogste 4 m³ heeft, dan wel een samenstel van ballons waarvan de gezamenlijke diameter of inhoud deze waarden niet te boven gaan;
+*kleine vrije ballon:* een ballon die niet is verbonden met het aardoppervlak en die op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een diameter van ten hoogste 2 m of een inhoud van ten hoogste 4 m³ heeft, dan wel een samenstel van ballons waarvan de gezamenlijke diameter of inhoud deze waarden niet te boven gaan;
 
-**sfeerballon:** kleine vrije ballon, of samenstel van kleine vrije ballons, waarvan de hoogte of de breedte niet meer dan 75 cm bedraagt.
+*sfeerballon:* kleine vrije ballon, of samenstel van kleine vrije ballons, waarvan de hoogte of de breedte niet meer dan 75 cm bedraagt.
+
+##### Artikel 1a. Grondslag
+
+Deze regeling berust op [artikel 4 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=4).
+
+##### Artikel 1b. Kruisende koersen
+
+1. De kabelvlieger, kleine kabelballon en onbemande vrije ballon verlenen voorrang aan vliegtuigen, helikopters, zweeftoestellen, vrije ballonen en luchtschepen.
+
+2. In alle overige gevallen dat twee luchtvaartuigen kruisen op of omstreeks hetzelfde niveau, verleent het luchtvaartuig dat het andere aan zijn rechterzijde heeft voorrang.
 
 ##### Artikel 2. Kabelvliegers en kleine kabelballons
 
@@ -109,14 +91,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8
 
-Vervallen
-
-##### Artikel 1a. Grondslag
-
-Deze regeling berust op [artikel 4 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=4).
-
-##### Artikel 1b. Kruisende koersen
-
-1. De kabelvlieger, kleine kabelballon en onbemande vrije ballon verlenen voorrang aan vliegtuigen, helikopters, zweeftoestellen, vrije ballonen en luchtschepen.
-
-2. In alle overige gevallen dat twee luchtvaartuigen kruisen op of omstreeks hetzelfde niveau, verleent het luchtvaartuig dat het andere aan zijn rechterzijde heeft voorrang.
+*Vervallen*

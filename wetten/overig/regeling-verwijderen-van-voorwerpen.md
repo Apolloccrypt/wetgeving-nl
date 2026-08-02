@@ -1,45 +1,17 @@
 ---
 title: "Regeling verwijderen van voorwerpen"
 identifier: "BWBR0007097"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-12-12"
-last_updated: "2014-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007097"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3765383"
-version_id: "21889292"
-internal_id: "C31413521"
-label_id: "3745124"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007097/2014-12-12/0"
-intitule_bron: "Stcrt.1994-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-13"
-intitule_published: "1994-12-27"
-intitule_in_force: "1994-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-35427"
-original_signed_date: "2014-12-09"
-original_published_date: "2014-12-11"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2014-35427"
-entry_into_force_date: "2014-12-09"
-jci_1_3: "jci1.3:c:BWBR0007097&z=2014-12-12&g=2014-12-12"
-jci_1_0: "1.0:c:BWBR0007097&g=2014-12-12"
-citeertitel_status: "officieel"
-signed_date: "2014-12-09"
-entry_into_force: "2014-12-09"
+publicatiedatum: 2014-12-09
+laatste_update: 2014-12-12
+status: geldig
+toestand: 2014-12-12
+bron: "https://wetten.overheid.nl/BWBR0007097"
+opgehaald: 2026-08-02
 ---
+
 # Regeling verwijderen van voorwerpen
-
-Handelende in overeenstemming met de Staatssecretaris van Defensie;
-
-Gelet op [artikel 13, tweede lid onder d, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=13);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -65,6 +37,10 @@ Voor het verwijderen tijdens de vlucht van voorwerpen waarvan de massa niet meer
 
 - j. voorwerpen worden door een ander dan de bestuurder van het luchtvaartuig verwijderd en wel zodanig dat de voorwerpen daarbij het luchtvaartuig niet raken.
 
+##### Artikel 1a
+
+Deze regeling berust op [artikel 10, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=10).
+
 ##### Artikel 2
 
 Het besluit van de Directeur-Generaal van de Rijksluchtvaartdienst van 28 juli 1981, nr LVB/L 23872 (Stcrt. 1981, 164) wordt ingetrokken.
@@ -80,7 +56,3 @@ Deze regeling wordt aangehaald als:
 Regeling verwijderen van voorwerpen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 10, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=10).

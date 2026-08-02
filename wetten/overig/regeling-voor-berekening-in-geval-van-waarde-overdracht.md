@@ -1,47 +1,18 @@
 ---
 title: "Vaststelling van regels als bedoeld in artikel 7, vierde lid, van de Wet verevening pensioenrechten bij scheiding voor de berekening in geval van waarde-overdracht"
+citeertitel: "Regeling voor berekening in geval van waarde-overdracht"
 identifier: "BWBR0007369"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007369"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "1168343"
-version_id: "1727522"
-internal_id: "C1727521"
-label_id: "1132204"
-dtd_version: "2.0"
-original_entry_into_force: "1995-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007369/2007-01-01/0"
-intitule_bron: "Stcrt.1995-83"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-04-26"
-intitule_published: "1995-04-28"
-intitule_in_force: "1995-04-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-83"
-original_signed_date: "1995-04-26"
-original_published_date: "1995-04-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-05-01"
-jci_1_3: "jci1.3:c:BWBR0007369&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0007369&g=2007-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling voor berekening in geval van waarde-overdracht"
-signed_date: "1995-04-26"
-entry_into_force: "1995-05-01"
+publicatiedatum: 1995-05-01
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0007369"
+opgehaald: 2026-08-02
 ---
+
 # Vaststelling van regels als bedoeld in artikel 7, vierde lid, van de Wet verevening pensioenrechten bij scheiding voor de berekening in geval van waarde-overdracht
-
-Handelende in overeenstemming met de Staatssecretaris van Justitie, de Minister van Binnenlandse Zaken en de Minister van Defensie;
-
-Gelet op [artikel 7, vierde lid, van de Wet verevening pensioenrechten bij scheiding](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=7);
-
-Gezien het advies van de Verzekeringskamer;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -61,15 +32,15 @@ In deze regeling wordt verstaan onder:
 
 - g. pensioen op het tijdstip van scheiding:
 
-- –. voor deelnemers: de aanspraak per de datum van scheiding welke wordt vastgesteld overeenkomstig [artikel 55 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=55),
+   - – voor deelnemers: de aanspraak per de datum van scheiding welke wordt vastgesteld overeenkomstig [artikel 55 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=55),
 
-- –. voor gewezen deelnemers: het ingegane pensioen of de ten tijde van beëindiging van het deelnemerschap vastgestelde pensioenaanspraak vermeerderd met de eventueel daarna toegepaste verhogingen voorzover toe te rekenen aan de huwelijksperiode;
+   - – voor gewezen deelnemers: het ingegane pensioen of de ten tijde van beëindiging van het deelnemerschap vastgestelde pensioenaanspraak vermeerderd met de eventueel daarna toegepaste verhogingen voorzover toe te rekenen aan de huwelijksperiode;
 
 - h. pensioen op de datum van ontvangst van de mededeling:
 
-- –. voor deelnemers: de tijdsevenredige pensioenaanspraak per de datum van ontvangst van de mededeling, welke wordt vastgesteld overeenkomstig het bepaalde in [artikel 8, tweede lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=8),
+   - – voor deelnemers: de tijdsevenredige pensioenaanspraak per de datum van ontvangst van de mededeling, welke wordt vastgesteld overeenkomstig het bepaalde in [artikel 8, tweede lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=8),
 
-- –. voor gewezen deelnemers: het ingegane pensioen of de ten tijde van beëindiging van het deelnemerschap vastgestelde pensioenaanspraak vermeerderd met de eventueel daarna toegepaste verhogingen.
+   - – voor gewezen deelnemers: het ingegane pensioen of de ten tijde van beëindiging van het deelnemerschap vastgestelde pensioenaanspraak vermeerderd met de eventueel daarna toegepaste verhogingen.
 
 ##### Artikel 2
 
@@ -89,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 1. Bij waarde-overdracht is het overdragende uitvoeringsorgaan verplicht aan het overnemende uitvoeringsorgaan, naast de gegevens die op grond van [artikel 18 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=18) moeten worden verstrekt, tevens mede te delen de datum van aanvang van het deelnemerschap in de regeling, die door het overdragende uitvoeringsorgaan wordt uitgevoerd, alsmede in geval van een eerdere niet aansluitende waarde-overdracht de datum van eerdere beëindiging van het deelnemerschap in de pensioenregeling van het overdragende uitvoeringsorgaan. Het overnemende uitvoeringsorgaan legt deze gegevens in zijn administratie vast.
 
-2. Indien de datum van waarde-overdracht is gelegen vóór 1 mei 1995 en de datum van aanvang van het deelnemerschap in de regeling van het overdragende uitvoeringsorgaan niet bekend is bij het overnemende uitvoeringsorgaan, wordt voor de vaststelling van deze datum uitgegaan van artikel 23 van de regels als bedoeld in artikel 10 van de wet, betreffende pensioenberekening over deelnemingsjaren voor 1 mei 1995 ([regeling van 23 december 1994, nr. SZ/SV/P/94/5170](onbekend), Stcrt. 252)
+2. Indien de datum van waarde-overdracht is gelegen vóór 1 mei 1995 en de datum van aanvang van het deelnemerschap in de regeling van het overdragende uitvoeringsorgaan niet bekend is bij het overnemende uitvoeringsorgaan, wordt voor de vaststelling van deze datum uitgegaan van artikel 23 van de regels als bedoeld in artikel 10 van de wet, betreffende pensioenberekening over deelnemingsjaren voor 1 mei 1995 (regeling van 23 december 1994, nr. SZ/SV/P/94/5170, Stcrt. 252)
 
 3. Indien de datum van beëindiging van het deelnemerschap in de pensioenregeling van het overdragende uitvoeringsorgaan niet bekend is bij het overnemende uitvoeringsorgaan en dit gegeven niet kan worden verkregen door het overnemende uitvoeringsorgaan overeenkomstig artikel 23 van de in het tweede lid genoemde regels, wordt uitgegaan van de datum van opneming in de pensioenregeling van het overnemende uitvoeringsorgaan.
 

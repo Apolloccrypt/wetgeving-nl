@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 15 december 1994, houdende nieuwe regels inzake de reclassering"
+citeertitel: "Reclasseringsregeling 1995"
 identifier: "BWBR0007120"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-06-26"
-last_updated: "2019-06-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007120"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "732503"
-version_id: "1068622"
-internal_id: "C1068621"
-label_id: "710114"
-dtd_version: "2.0"
-original_entry_into_force: "1995-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007120/2019-06-26/0"
-intitule_bron: "Stb.1994-875"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-15"
-intitule_status: "goed"
-original_publication: "Stb.1994-875"
-original_signed_date: "1994-12-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-01-01"
-jci_1_3: "jci1.3:c:BWBR0007120&z=2019-06-26&g=2019-06-26"
-jci_1_0: "1.0:c:BWBR0007120&g=2019-06-26"
-citeertitel_status: "officieel"
-short_title: "Reclasseringsregeling 1995"
-signed_date: "1994-12-15"
-entry_into_force: "1995-01-01"
+publicatiedatum: 1995-01-01
+laatste_update: 2019-06-26
+status: geldig
+toestand: 2019-06-26
+bron: "https://wetten.overheid.nl/BWBR0007120"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 15 december 1994, houdende nieuwe regels inzake de reclassering
-
-Op de voordracht van Onze Minister van Justitie a.i. van 7 september 1994, Stafafdeling Wetgeving Publiekrecht, nr. 455985/94/6;
-
-Gelet op de [artikelen 14**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14d), tweede lid, [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=16) en [22**e** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=22e), de [artikelen 147](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=147), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=177), tweede lid, en [310 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=310), [artikel 19, eerste lid, van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=19) en [artikel 15, eerste lid, van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=15);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing (advies van 24 juni 1994, nr. SR 45/94);
-
-De Raad van State gehoord (advies van 29 november 1994, no. W03.94.0564);
-
-Gezien het nader rapport van Onze Minister van Justitie van 14 december 1994, Stafafdeling Wetgeving Publiekrecht, nr. 471960/94/6;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -178,7 +148,7 @@ De in de [hoofdstukken 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofd
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. De subsidiëring van de reclassering
 
@@ -198,11 +168,11 @@ Vervallen
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
@@ -302,7 +272,7 @@ Voor 1 oktober van het op het subsidiejaar volgende jaar stelt Onze Minister het
 
 2. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is vastgesteld, tenzij bij de intrekking of wijziging anders is bepaald.
 
-3. De subsidievaststelling kan niet meer worden ingetrokken of ten nadele van de reclasseringsinstelling worden gewijzigd indien vijf jaren zijn verstreken sinds de dag waarop zij is bekendgemaakt dan wel, in het geval, bedoeld in het eerste lid, onderdeel **c**, sinds de dag waarop de handeling in strijd met de verplichting is verricht of de dag waarop aan de verplichting had moeten zijn voldaan.
+3. De subsidievaststelling kan niet meer worden ingetrokken of ten nadele van de reclasseringsinstelling worden gewijzigd indien vijf jaren zijn verstreken sinds de dag waarop zij is bekendgemaakt dan wel, in het geval, bedoeld in het eerste lid, onderdeel *c*, sinds de dag waarop de handeling in strijd met de verplichting is verricht of de dag waarop aan de verplichting had moeten zijn voldaan.
 
 ### Hoofdstuk 5. Klachtenregeling
 
@@ -382,7 +352,7 @@ Indien een instelling erkend is op grond van [artikel 4, eerste lid](https://wet
 
 ##### Artikel 39
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 40
 
@@ -399,5 +369,3 @@ Dit besluit treedt in werking met ingang van 1 januari 1995.
 ##### Artikel 43
 
 Dit besluit wordt aangehaald als Reclasseringsregeling 1995.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst.

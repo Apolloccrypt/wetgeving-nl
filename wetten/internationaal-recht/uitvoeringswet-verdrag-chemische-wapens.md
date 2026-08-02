@@ -1,47 +1,18 @@
 ---
 title: "Wet van 8 juni 1995, houdende regels betreffende de uitvoering van het Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens"
+citeertitel: "Uitvoeringswet verdrag chemische wapens"
 identifier: "BWBR0007434"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007434"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "1780103"
-version_id: "2645422"
-internal_id: "C2645421"
-label_id: "1735944"
-dtd_version: "2.0"
-original_entry_into_force: "1997-04-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007434/2024-01-01/0"
-intitule_bron: "Stb.1995-338"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-06-08"
-intitule_published: "1995-07-04"
-intitule_in_force: "1997-04-29"
-intitule_status: "goed"
-original_publication: "Stb.1995-338"
-original_signed_date: "1995-06-08"
-original_published_date: "1995-07-04"
-original_effect: "nieuwe-regeling"
-original_dossier: "23911"
-original_url_id: "stb-1995-338"
-entry_into_force_date: "1997-04-30"
-jci_1_3: "jci1.3:c:BWBR0007434&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0007434&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet verdrag chemische wapens"
-signed_date: "1995-06-08"
-entry_into_force: "1997-04-30"
+publicatiedatum: 1997-04-30
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0007434"
+opgehaald: 2026-08-02
 ---
+
 # Wet van 8 juni 1995, houdende regels betreffende de uitvoering van het Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het, mede gelet op [artikel 12 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=12), noodzakelijk is regels te stellen ter uitvoering van het Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsomschrijvingen
 
@@ -49,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. verdrag: het op 13 januari 1993 te Parijs tot stand gekomen Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (**Trb.** 1993, 162);
+- a. verdrag: het op 13 januari 1993 te Parijs tot stand gekomen Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (*Trb.* 1993, 162);
 
 - b. stoffen: chemische elementen en hun verbindingen, zoals zij voorkomen in hun natuurlijke toestand of bij de produktie ontstaan, met inbegrip van de additieven die nodig zijn voor het behoud van de stabiliteit van het produkt en de onzuiverheden ten gevolge van het produktieprocédé;
 
@@ -59,11 +30,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. chemische wapens:
 
-- 1. giftige stoffen en hun voorlopers, die niet zijn bestemd voor doeleinden die ingevolge het verdrag zijn toegestaan, tenzij het betreft hoeveelheden die met die doeleinden niet in overeenstemming zijn;
+   - 1. giftige stoffen en hun voorlopers, die niet zijn bestemd voor doeleinden die ingevolge het verdrag zijn toegestaan, tenzij het betreft hoeveelheden die met die doeleinden niet in overeenstemming zijn;
 
-- 2. munitie en andere inzetmiddelen, ontworpen om de dood of andere schade te veroorzaken door de toxische eigenschappen van giftige stoffen, die kunnen vrijkomen als gevolg van het gebruik van zodanige munitie en andere inzetmiddelen;
+   - 2. munitie en andere inzetmiddelen, ontworpen om de dood of andere schade te veroorzaken door de toxische eigenschappen van giftige stoffen, die kunnen vrijkomen als gevolg van het gebruik van zodanige munitie en andere inzetmiddelen;
 
-- 3. uitrusting ontworpen voor gebruik dat rechtstreeks verband houdt met het gebruik van munitie en andere inzetmiddelen;
+   - 3. uitrusting ontworpen voor gebruik dat rechtstreeks verband houdt met het gebruik van munitie en andere inzetmiddelen;
 
 - f. inrichting: een inrichting als bedoeld in de Verificatiebijlage, afdeling I, onderdeel 6, van het verdrag;
 
@@ -75,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - j. verbruiken van stoffen: omzetten in andere stoffen door middel van een chemische reactie;
 
-- k. Douanewetboek van de Unie: Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269);
+- k. Douanewetboek van de Unie: Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269);
 
 - l. invoer: het binnenbrengen van goederen in Nederland, anders dan voor doorvoer;
 
@@ -119,7 +90,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. het produceren, het verwerven, het opslaan, het voorhanden hebben en het gebruiken van de stoffen voor onderzoek dan wel medische of farmaceutische doeleinden in een andere dan in het derde lid bedoelde inrichting, indien de hoeveelheid van die stoffen minder dan 10 kg per jaar is;
 
-- b. het overdragen van de stoffen ten behoeve van de onder **a** genoemde doeleinden naar een inrichting als bedoeld in het derde lid en vierde lid onder **a**, of naar een staat die partij is bij het verdrag, tenzij de stoffen zijn bestemd voor doorvoer naar een staat die geen partij is bij het verdrag.
+- b. het overdragen van de stoffen ten behoeve van de onder *a* genoemde doeleinden naar een inrichting als bedoeld in het derde lid en vierde lid onder *a*, of naar een staat die partij is bij het verdrag, tenzij de stoffen zijn bestemd voor doorvoer naar een staat die geen partij is bij het verdrag.
 
 #### § 2. Kennisgevingen
 
@@ -159,11 +130,11 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ter
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -197,7 +168,7 @@ De Nederlandse strafwet is van toepassing op de Nederlander die zich buiten Nede
 
 ##### Artikel 15
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -208,5 +179,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 17
 
 Deze wet wordt aangehaald als: Uitvoeringswet verdrag chemische wapens.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

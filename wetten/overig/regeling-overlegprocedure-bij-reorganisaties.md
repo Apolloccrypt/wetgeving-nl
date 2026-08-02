@@ -8,7 +8,7 @@ laatste_update: 2026-07-31
 status: geldig
 toestand: 2026-07-31
 bron: "https://wetten.overheid.nl/BWBR0011097"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-02
 ---
 
 # Regeling overlegprocedure bij reorganisaties

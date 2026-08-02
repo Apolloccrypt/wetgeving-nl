@@ -1,48 +1,17 @@
 ---
 title: "Instelling Beleidscommissie Remote Sensing"
 identifier: "BWBR0007714"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-01-01"
-last_updated: "1996-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007714"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4277203"
-version_id: "6040872"
-internal_id: "C6244271"
-label_id: "4255844"
-dtd_version: "2.0"
-original_entry_into_force: "1996-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007714/1996-01-01/0"
-intitule_bron: "Stcrt.1995-246"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-11"
-intitule_published: "1995-12-19"
-intitule_in_force: "1995-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-246"
-original_signed_date: "1995-12-11"
-original_published_date: "1995-12-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-01-01"
-jci_1_3: "jci1.3:c:BWBR0007714&z=1996-01-01&g=1996-01-01"
-jci_1_0: "1.0:c:BWBR0007714&g=1996-01-01"
-citeertitel_status: "officieel"
-signed_date: "1995-12-11"
-entry_into_force: "1996-01-01"
+publicatiedatum: 1996-01-01
+laatste_update: 1996-01-01
+status: geldig
+toestand: 1996-01-01
+bron: "https://wetten.overheid.nl/BWBR0007714"
+opgehaald: 2026-08-02
 ---
+
 # Instelling Beleidscommissie Remote Sensing
-
-Gezien mijn beschikking inzake de instelling van de Beleidscommissie Remote Sensing van 29 mei 1986, (Stcrt. 1986, nr. 223) en de wijziging van deze beschikking van kracht sedert 1 november 1989;
-
-Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschappen inzake het besluit van de Ministerraad op 7 mei 1993 betreffende het Plan Gebruikersondersteu-ning 1993 - 1995;
-
-Gelet op het besluit van de Ministerraad van 1 december 1995, inzake het vervolg van het Nationaal Remote sensing Programma in samenhang met het vervolg van het Programma Gebruikersondersteuning vanaf 1996;
-
-Overwegende dat de Beleidscommissie Remote Sensing een gemotiveerd voorstel tot wijzigingen heeft ingediend;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -76,31 +45,31 @@ Er is een Beleidscommissie Remote Sensing.
 
 - a. als lid:
 
-- de Hoofdingenieur-Directeur van de Meetkundige Dienst van de Rijkswaterstaat als vertegenwoordiger van het Ministerie van Verkeer en Waterstaat, tevens plaatsvervangend voorzitter;
+   - de Hoofdingenieur-Directeur van de Meetkundige Dienst van de Rijkswaterstaat als vertegenwoordiger van het Ministerie van Verkeer en Waterstaat, tevens plaatsvervangend voorzitter;
 
-- het Hoofd van de Afdeling Milieu & Leven en Verkenningen van de Horizondirectie Onderzoek en Wetenschapsbeleid als vertegenwoordiger van het Ministerie van Onderwijs, Cultuur en Wetenschappen;
+   - het Hoofd van de Afdeling Milieu & Leven en Verkenningen van de Horizondirectie Onderzoek en Wetenschapsbeleid als vertegenwoordiger van het Ministerie van Onderwijs, Cultuur en Wetenschappen;
 
-- de Directeur Wetenschap en Kennisoverdracht als vertegenwoordiger van het Ministerie van Landbouw, Natuurbeheer en Visserij;
+   - de Directeur Wetenschap en Kennisoverdracht als vertegenwoordiger van het Ministerie van Landbouw, Natuurbeheer en Visserij;
 
-- de secretaris van de Interdepartementale Commissie Ruimtevaart als vertegenwoordiger van het Ministerie van Economische zaken;
+   - de secretaris van de Interdepartementale Commissie Ruimtevaart als vertegenwoordiger van het Ministerie van Economische zaken;
 
-- de Directeur Coördinatie Speerpuntprogramma’s en Technische Advisering als vertegenwoordiger van het Directoraat-Generaal Internationale Samenwerking van het Ministerie van Buitenlandse Zaken;
+   - de Directeur Coördinatie Speerpuntprogramma’s en Technische Advisering als vertegenwoordiger van het Directoraat-Generaal Internationale Samenwerking van het Ministerie van Buitenlandse Zaken;
 
-- de Directeur Wetenschappelijk Onderzoek en Ontwikkeling als vertegenwoordiger van het Ministerie van Defensie;
+   - de Directeur Wetenschappelijk Onderzoek en Ontwikkeling als vertegenwoordiger van het Ministerie van Defensie;
 
-- de Directeur van NEDECO als vertegenwoordiger van de dienstverlenende ingenieursbureaus in Nederland;
+   - de Directeur van NEDECO als vertegenwoordiger van de dienstverlenende ingenieursbureaus in Nederland;
 
-- de Directeur van het Nederlands Instituut voor Vliegtuigontwikkeling en Ruimtevaart als vertegenwoordiger van de industrie, TNO en de GTI’s;
+   - de Directeur van het Nederlands Instituut voor Vliegtuigontwikkeling en Ruimtevaart als vertegenwoordiger van de industrie, TNO en de GTI’s;
 
-- de adjunct-Directeur van de Stichting Ruimteonderzoek Nederland namens de Nederlandse Organisatie voor Wetenschappelijk Onderzoek.
+   - de adjunct-Directeur van de Stichting Ruimteonderzoek Nederland namens de Nederlandse Organisatie voor Wetenschappelijk Onderzoek.
 
 - b. als waarnemer:
 
-- de Themacoördinator mondiale luchtverontreiniging en klimaatverandering van de Directie Lucht van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+   - de Themacoördinator mondiale luchtverontreiniging en klimaatverandering van de Directie Lucht van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
 - c. als secretaris:
 
-- het Hoofd van het Programma-bureau.
+   - het Hoofd van het Programma-bureau.
 
 ##### Artikel 3
 
@@ -134,19 +103,19 @@ De taken van het Programmabureau zijn:
 
 - het programma management:
 
-- beheer van gelden
+   - beheer van gelden
 
-- beoordeling van projecten
+   - beoordeling van projecten
 
-- contractering van projecten
+   - contractering van projecten
 
-- coördinatie en begeleiding van de uitvoering van projecten
+   - coördinatie en begeleiding van de uitvoering van projecten
 
-- coördinatie van de werkzaamheden van de onder de commissie fungerende werkgroepen
+   - coördinatie van de werkzaamheden van de onder de commissie fungerende werkgroepen
 
-- evaluatie van het programma
+   - evaluatie van het programma
 
-- beheer van de instrumentenpool;
+   - beheer van de instrumentenpool;
 
 - het zorgdragen voor de informatievoorziening, onder meer door het uitbrengen van de Remote Sensing Nieuwsbrief en het Jaarverslag van de commissie;
 
@@ -163,29 +132,3 @@ Tevoren dient de commissie zorg te dragen voor de overdracht van de onder beheer
 ##### Artikel 11
 
 Deze beschikking treedt in werking met ingang van 1 januari 1996.
-
-Deze beschikking zal worden gepubliceerd in de Staatscourant en in afschrift worden gezonden aan:
-
-a. belanghebbenden;
-
-b. de Minister van Onderwijs, Cultuur en Wetenschappen;
-
-c. de Minister van Landbouw, Natuurbeheer en Visserij;
-
-d. de Minister van Economische Zaken;
-
-e. de Minister van Ontwikkelings-samenwerking;
-
-f. de Minister van Defensie;
-
-g. de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-h. de voorzitter van de Adviesraad voor het Wetenschaps- en Technologiebeleid;
-
-i. de voorzitter van het Interdeparte-mentaal Overleg voor het Wetenschapsbeleid;
-
-j. de voorzitter van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek;
-
-k. de president van de Koninklijke Nederlandse Akademie van Weten-schappen;
-
-l. de Directeur-Generaal van de Rijkswaterstaat.

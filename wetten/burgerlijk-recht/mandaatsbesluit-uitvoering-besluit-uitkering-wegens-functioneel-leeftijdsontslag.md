@@ -1,44 +1,39 @@
 ---
 title: "Mandaatsbesluit uitvoering Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren Defensie"
 identifier: "BWBR0008110"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-08-29"
-last_updated: "1996-08-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008110"
+categorie: "Burgerlijk recht"
 soort: "ministeriele-regeling"
-stam_id: "4326043"
-version_id: "6090372"
-internal_id: "C6293881"
-label_id: "4304664"
-dtd_version: "2.0"
-original_entry_into_force: "1996-08-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008110/1996-08-29/0"
-intitule_bron: "Stcrt.1996-166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-06-19"
-intitule_published: "1996-08-29"
-intitule_in_force: "1996-08-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-166"
-original_signed_date: "1996-06-19"
-original_published_date: "1996-08-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-08-29"
-jci_1_3: "jci1.3:c:BWBR0008110&z=1996-08-29&g=1996-08-29"
-jci_1_0: "1.0:c:BWBR0008110&g=1996-08-29"
-citeertitel_status: "officieel"
-signed_date: "1996-06-19"
-entry_into_force: "1996-08-29"
+publicatiedatum: 1996-08-29
+laatste_update: 1996-08-29
+status: geldig
+toestand: 1996-08-29
+bron: "https://wetten.overheid.nl/BWBR0008110"
+opgehaald: 2026-08-02
 ---
-# Mandaatsbesluit uitvoering Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren Defensie
 
-Besluit:
+# Mandaatsbesluit uitvoering Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren Defensie
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+a.
+
+het ABP:
+
+de Stichting Pensioenfonds ABP;
+
+b.
+
+de Staatssecretaris:
+
+de Staatssecretaris van Defensie;
+
+c.
+
+de FLO-regeling:
+
+het Besluit van 25 juni 1993, houdende de regeling uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie.
 
 ##### Artikel 2
 

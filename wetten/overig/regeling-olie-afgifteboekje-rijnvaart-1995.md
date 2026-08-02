@@ -1,42 +1,17 @@
 ---
 title: "Regeling olie-afgifteboekje Rijnvaart 1995"
 identifier: "BWBR0007137"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007137"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4540753"
-version_id: "6347012"
-internal_id: "C6591481"
-label_id: "4519084"
-dtd_version: "2.0"
-original_entry_into_force: "1995-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007137/2023-01-01/0"
-intitule_bron: "Stcrt.1994-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-20"
-intitule_published: "1994-12-23"
-intitule_in_force: "1994-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-248"
-original_signed_date: "1994-12-20"
-original_published_date: "1994-12-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-01-01"
-jci_1_3: "jci1.3:c:BWBR0007137&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0007137&g=2023-01-01"
-citeertitel_status: "officieel"
-signed_date: "1994-12-20"
-entry_into_force: "1995-01-01"
+publicatiedatum: 1995-01-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0007137"
+opgehaald: 2026-08-02
 ---
+
 # Regeling olie-afgifteboekje Rijnvaart 1995
-
-Gelet op [artikel 15.05, eerste lid, van het Rijnvaartpolitiereglement 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&artikel=15.05);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -52,11 +27,11 @@ Besluit:
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-1. Voor een olie-afgifteboekje dat geheel of ten dele onleesbaar is dan wel verloren is geraakt of teniet gegaan wordt tegen betaling van het tarief voor een aanvraag tot afgifte van een olie-afgifteboekje zoals vastgesteld in de [Regeling tarieven transportsectoren](onbekend) een vervangend exemplaar afgegeven.
+1. Voor een olie-afgifteboekje dat geheel of ten dele onleesbaar is dan wel verloren is geraakt of teniet gegaan wordt tegen betaling van het tarief voor een aanvraag tot afgifte van een olie-afgifteboekje zoals vastgesteld in de Regeling tarieven transportsectoren een vervangend exemplaar afgegeven.
 
 2. Het vervangend exemplaar treedt in plaats van het eerder afgegeven olie-afgifteboekje en wordt niet eerder afgegeven dan nadat het geheel of ten dele onleesbaar geworden exemplaar, waarvoor het wordt afgegeven is ingeleverd.
 

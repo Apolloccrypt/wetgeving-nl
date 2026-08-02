@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 27 december 1995, houdende vaststelling van een algemene maatregel van bestuur tot uitvoering van de artikelen 117, eerste tot en met derde lid, en 118 van het Wetboek van Strafvordering betreffende de bewaring van inbeslaggenomen voorwerpen"
+citeertitel: "Besluit inbeslaggenomen voorwerpen"
 identifier: "BWBR0007823"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007823"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "2031283"
-version_id: "3035052"
-internal_id: "C3035051"
-label_id: "1979594"
-dtd_version: "2.0"
-original_entry_into_force: "1996-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007823/2025-01-01/0"
-intitule_bron: "Stb.1995-699"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-27"
-intitule_published: "1995-12-28"
-intitule_in_force: "1995-12-28"
-intitule_status: "goed"
-original_publication: "Stb.1995-699"
-original_signed_date: "1995-12-27"
-original_published_date: "1995-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1995-699"
-entry_into_force_date: "1996-01-01"
-jci_1_3: "jci1.3:c:BWBR0007823&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0007823&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit inbeslaggenomen voorwerpen"
-signed_date: "1995-12-27"
-entry_into_force: "1996-01-01"
+publicatiedatum: 1996-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0007823"
+opgehaald: 2026-08-02
 ---
+
 # Besluit van 27 december 1995, houdende vaststelling van een algemene maatregel van bestuur tot uitvoering van de artikelen 117, eerste tot en met derde lid, en 118 van het Wetboek van Strafvordering betreffende de bewaring van inbeslaggenomen voorwerpen
-
-Op de voordracht van Onze Minister van Justitie van 28 november 1995, directie wetgeving nr. 527684/95/6.
-
-Gelet op [artikelen 118](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=118), eerste lid en [119**a** van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=119a);
-
-De Raad van State gehoord (advies van 20 december 1995, no. WO3.95.0660.
-
-Gezien het nader rapport van Onze Minister van Justitie van 21 december 1995, directie wetgeving nr. 531971/95/6.
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -54,13 +22,13 @@ Als bewaarders, bedoeld in [artikel 118, eerste lid, van het Wetboek van Strafvo
 
 - b. de door Onze Minister van Economische Zaken aangewezen dienst voor de bewaring van de navolgende voorwerpen:
 
-- 1. levende en dode dieren, daaronder begrepen delen en producten van dieren;
+   - 1. levende en dode dieren, daaronder begrepen delen en producten van dieren;
 
-- 2. voedingsmiddelen en dranken;
+   - 2. voedingsmiddelen en dranken;
 
-- 3. levende en dode planten, daaronder begrepen delen en producten van planten, met uitzondering van de planten als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) en [3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3);
+   - 3. levende en dode planten, daaronder begrepen delen en producten van planten, met uitzondering van de planten als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) en [3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3);
 
-- 4. diergeneesmiddelen, diervoeders en diervoeders met medicinale werking als bedoeld in [artikel 1.1 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=1.1), kunstmeststoffen, alsmede gewasbeschermingsmiddelen of biociden als bedoeld in [artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=1);
+   - 4. diergeneesmiddelen, diervoeders en diervoeders met medicinale werking als bedoeld in [artikel 1.1 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=1.1), kunstmeststoffen, alsmede gewasbeschermingsmiddelen of biociden als bedoeld in [artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=1);
 
 - c. een op grond van [artikel 25, eerste lid, onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25) aangewezen ondersteunende dienst voor de bewaring van wapens en munitie in de zin van [artikel 2 van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=2), alsmede de voorwerpen bedoeld in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=3);
 
@@ -122,7 +90,7 @@ Voorwerpen die om bijzondere redenen niet kunnen worden opgeslagen in een onder 
 
 - 3°. gevaarlijke afvalstoffen als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1);
 
-- 4°. gevaarlijke stoffen en preparaten in de zin van artikel 2 van de Richtlijn van de Raad van Europese Gemeenschappen van 18 september 1979, 79/831/EEG (**Pb EG** 1979, L 259);
+- 4°. gevaarlijke stoffen en preparaten in de zin van artikel 2 van de Richtlijn van de Raad van Europese Gemeenschappen van 18 september 1979, 79/831/EEG (*Pb EG* 1979, L 259);
 
 - 5°. voor bederf vatbare dode dieren, delen en producten van dode dieren;
 
@@ -196,7 +164,7 @@ De bewaarders zijn na het verstrijken van de termijn bedoeld in [artikel 11, der
 
 1. Alvorens aan een verkregen machtiging tot het vernietigen, prijsgeven of bestemmen tot een ander doel dan het onderzoek uitvoering wordt gegeven, wordt de prijs geschat, die het betrokken voorwerp bij verkoop redelijkerwijs zou moeten opbrengen.
 
-2. De schatting geschiedt door of namens de bewaarder. Indien aannemelijk is dat de waarde van het voorwerp meer bedraagt dan € 35.000 of indien de specifieke aard van het voorwerp daartoe aanleiding geeft, vraagt deze daartoe het oordeel van tenminste één persoon die geacht kan worden goed op de hoogte te zijn van de marktprijzen van dergelijke voorwerpen.
+2. De schatting geschiedt door of namens de bewaarder. Indien aannemelijk is dat de waarde van het voorwerp meer bedraagt dan € 35.000 of indien de specifieke aard van het voorwerp daartoe aanleiding geeft, vraagt deze daartoe het oordeel van tenminste één persoon die geacht kan worden goed op de hoogte te zijn van de marktprijzen van dergelijke voorwerpen.
 
 3. De geschatte prijs en het oordeel van de in het tweede lid bedoelde deskundige worden in een rapport aan de officier van justitie vermeld.
 
@@ -218,7 +186,7 @@ De bewaarder die een machtiging tot vervreemding om baat heeft uitgevoerd ten aa
 
 ##### Artikel 17
 
-Het besluit van 6 augustus 1993, **Stb.** 440 wordt ingetrokken.
+Het besluit van 6 augustus 1993, *Stb.* 440 wordt ingetrokken.
 
 ##### Artikel 18
 
@@ -227,5 +195,3 @@ Dit besluit treedt in werking op 1 januari 1996.
 ##### Artikel 19
 
 Dit besluit kan worden aangehaald als Besluit inbeslaggenomen voorwerpen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

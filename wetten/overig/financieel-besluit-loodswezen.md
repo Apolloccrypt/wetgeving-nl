@@ -1,44 +1,17 @@
 ---
 title: "Financieel besluit Loodswezen"
 identifier: "BWBR0007549"
-country: "nl"
-rank: "pbo"
-publication_date: "2015-03-26"
-last_updated: "2015-03-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007549"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6640053"
-version_id: "11473532"
-internal_id: "C15462691"
-label_id: "6628434"
-original_entry_into_force: "1995-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007549/2015-03-26/0"
-intitule_bron: "Stcrt.1995-185"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-09-12"
-intitule_published: "1995-09-25"
-intitule_in_force: "1995-09-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-185"
-original_signed_date: "1995-09-12"
-original_published_date: "1995-09-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1995-185-p14-SC3734"
-entry_into_force_date: "1995-10-01"
-jci_1_3: "jci1.3:c:BWBR0007549&z=2015-03-26&g=2015-03-26"
-jci_1_0: "1.0:c:BWBR0007549&g=2015-03-26"
-citeertitel_status: "officieel"
-signed_date: "1995-09-12"
-entry_into_force: "1995-10-01"
+publicatiedatum: 1995-10-01
+laatste_update: 2015-03-26
+status: geldig
+toestand: 2015-03-26
+bron: "https://wetten.overheid.nl/BWBR0007549"
+opgehaald: 2026-08-02
 ---
+
 # Financieel besluit Loodswezen
-
-Gelet op [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15a), en [artikel 15b, eerste en derde lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15b);
-
-Besluit:
-
-De aanwijzing en voorschriften als bedoeld in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15a), en [artikel 15b, eerste en derde lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15b) worden vastgesteld als volgt:
 
 ##### Artikel 1
 
@@ -70,13 +43,13 @@ In dit besluit wordt verstaan onder:
 
 - d. Vergoedingen ten behoeve van registerloodsen ter zake van:
 
-- 1°. directe productieve loodstaken als bedoeld in de [Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548);
+   - 1°. directe productieve loodstaken als bedoeld in de [Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548);
 
-- 2°. indirecte productieve loodstaken als bedoeld in de [Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548);
+   - 2°. indirecte productieve loodstaken als bedoeld in de [Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548);
 
-- 3°. aanspraken waarop krachtens een wettelijk voorschrift een beroep kan worden gedaan.
+   - 3°. aanspraken waarop krachtens een wettelijk voorschrift een beroep kan worden gedaan.
 
-- e. Vervallen.
+- e. *Vervallen.*
 
 3. De organisatie draagt zorg voor de uit de lasten, genoemd in het tweede lid, voortvloeiende betalingen, met inachtneming van de regels, vastgesteld bij de verordening als bedoeld in [artikel 26, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=26) en draagt er zorg voor dat de reservering met betrekking tot het functioneel leeftijdsontslag als bedoeld in onderdeel a volgens het door de raad van bestuur van de NMa op grond van [artikel 27e, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27e) vastgestelde schema wordt gestort in het daarvoor krachtens [artikel 8a van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&artikel=8a) aangewezen fonds dan wel voorziening. De volgorde van de opsomming van de lasten, genoemd in het tweede lid, is tevens de rangorde van de betalingen.
 
@@ -86,7 +59,7 @@ In dit besluit wordt verstaan onder:
 
 6. De vergoedingen, bedoeld in het tweede lid, onderdeel d, komen ten gunste van het betreffende samenwerkingsverband.
 
-7. Vervallen.
+7. *Vervallen.*
 
 8. De vergoeding als bedoeld in [artikel 13, derde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=13) wordt, op verzoek van de betreffende regionale loodsencorporatie, geïnd door de organisatie en betaald aan het betreffende samenwerkingsverband.
 
@@ -101,5 +74,3 @@ De organisatie is ten aanzien van de verkrijging van de informatie als bedoeld i
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 oktober 1995 en kan worden aangehaald als Financieel besluit Loodswezen.
-
-**Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**

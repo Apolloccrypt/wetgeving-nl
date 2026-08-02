@@ -1,47 +1,22 @@
 ---
 title: "Wijziging van de Uitvoeringsbeschikking omzetbelasting 1968 en vaststelling ministeriële regeling in verband met de bestrijding van constructies met betrekking tot onroerende zaken"
+citeertitel: "Wijziging Uitvoeringsbeschikking omzetbelasting 1968 en vaststelling regeling voor bestrijding van constructies m.b.t. onroerende zaken"
 identifier: "BWBR0007808"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-06-09"
-last_updated: "1996-06-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007808"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4520953"
-version_id: "6327312"
-internal_id: "C6533971"
-label_id: "4499384"
-dtd_version: "2.0"
-original_entry_into_force: "1995-12-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007808/1996-06-09/0"
-intitule_bron: "Stcrt.1995-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-22"
-intitule_published: "1995-12-27"
-intitule_in_force: "1995-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-250"
-original_signed_date: "1995-12-22"
-original_published_date: "1995-12-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-12-29"
-jci_1_3: "jci1.3:c:BWBR0007808&z=1996-06-09&g=1996-06-09"
-jci_1_0: "1.0:c:BWBR0007808&g=1996-06-09"
-citeertitel_status: "officieel"
-short_title: "Wijziging Uitvoeringsbeschikking omzetbelasting 1968 en vaststelling regeling voor bestrijding van constructies m.b.t. onroerende zaken"
-signed_date: "1995-12-22"
-entry_into_force: "1995-12-29"
+publicatiedatum: 1995-12-29
+laatste_update: 1996-06-09
+status: geldig
+toestand: 1996-06-09
+bron: "https://wetten.overheid.nl/BWBR0007808"
+opgehaald: 2026-08-02
 ---
+
 # Wijziging van de Uitvoeringsbeschikking omzetbelasting 1968 en vaststelling ministeriële regeling in verband met de bestrijding van constructies met betrekking tot onroerende zaken
-
-Gelet op [artikel 11, eerste lid, onderdeel a, onder 2°, en onderdeel b, onder 5°, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), alsmede op [artikel V, achtste en negende lid, onder c, van de Wet van 18 december 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007756&artikel=V), Stb. 659;
-
-Besluit:
 
 ##### Artikel I
 
-Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968
+*Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968*
 
 ##### Artikel II
 
