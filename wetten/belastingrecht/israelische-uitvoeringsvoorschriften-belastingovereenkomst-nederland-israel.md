@@ -1,38 +1,17 @@
 ---
 title: "Israëlische voorschriften tot uitvoering van de op 2 juli 1973 tussen Nederland en Israël gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzgd bij het protocol van 16 janauri 1996"
+citeertitel: "Israëlische uitvoeringsvoorschriften belastingovereenkomst Nederland-Israël"
 identifier: "BWBR0008885"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-09-21"
-last_updated: "1997-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008885"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4299143"
-version_id: "6061892"
-internal_id: "C6265501"
-label_id: "4277724"
-dtd_version: "2.0"
-original_entry_into_force: "1997-09-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008885/1997-09-21/0"
-intitule_bron: "Stcrt.1997-170"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-08-26"
-intitule_published: "1997-09-05"
-intitule_in_force: "1997-09-05"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-170"
-original_signed_date: "1997-08-26"
-original_published_date: "1997-09-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-09-21"
-jci_1_3: "jci1.3:c:BWBR0008885&z=1997-09-21&g=1997-09-21"
-jci_1_0: "1.0:c:BWBR0008885&g=1997-09-21"
-citeertitel_status: "officieel"
-short_title: "Israëlische uitvoeringsvoorschriften belastingovereenkomst Nederland-Israël"
-signed_date: "1997-08-26"
-entry_into_force: "1997-09-21"
+publicatiedatum: 1997-09-21
+laatste_update: 1997-09-21
+status: geldig
+toestand: 1997-09-21
+bron: "https://wetten.overheid.nl/BWBR0008885"
+opgehaald: 2026-08-03
 ---
+
 # Israëlische voorschriften tot uitvoering van de op 2 juli 1973 tussen Nederland en Israël gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzgd bij het protocol van 16 janauri 1996
 
 #### Regeling inzake vermindering van Israëlische belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland
@@ -67,21 +46,21 @@ De in de onderdelen a, b, c, d, e, f en g van dit artikel bedoelde verminderinge
 
 Ter uitvoering van artikel 1 is van Israëlische zijde de volgende regeling getroVen:
 
-Israëlische belasting
+1. Israëlische belasting
 
-1. Op grond van de Israëlische nationale wetgeving zijn dividenden, interest en royalty’s onderworpen aan een bronbelasting van 25 percent.
+Op grond van de Israëlische nationale wetgeving zijn dividenden, interest en royalty’s onderworpen aan een bronbelasting van 25 percent.
 
-Wijze waarop de vermindering met betrekking tot dividenden, interest en royalty's wordt verleend
+2. Wijze waarop de vermindering met betrekking tot dividenden, interest en royalty's wordt verleend
 
-2. Als algemene regel geldt dat de in artikel 1 vermelde verminderingen in Israël bij de bron worden verleend. Voor het verkrijgen van de vermindering aan de bron moet de belanghebbende inwoner van Nederland gebruik maken van het formulier ’Claim for reduced rate of withholding tax/exemption from withholding tax in Israel on payments to a non resident (Form A/114)’. Dit formulier, luidende in de Engelse taal, moet door de belanghebbende inwoner van Nederland in tweevoud worden ingevuld en ondertekend. Vervolgens moet hij de twee ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is.
+Als algemene regel geldt dat de in artikel 1 vermelde verminderingen in Israël bij de bron worden verleend. Voor het verkrijgen van de vermindering aan de bron moet de belanghebbende inwoner van Nederland gebruik maken van het formulier ’Claim for reduced rate of withholding tax/exemption from withholding tax in Israel on payments to a non resident (Form A/114)’. Dit formulier, luidende in de Engelse taal, moet door de belanghebbende inwoner van Nederland in tweevoud worden ingevuld en ondertekend. Vervolgens moet hij de twee ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is.
 
 De inspecteur voorziet de twee exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging (onderdeel H), behoudt een exemplaar van het formulier ten behoeve van de legger van de verzoeker en zendt het andere exemplaar aan hem terug. Nadat de belanghebbende inwoner van Nederland het gecertificeerde exemplaar van het formulier heeft terugontvangen, zendt hij dat exemplaar naar de Israëlische schuldenaar van de dividenden, interest en royalty’s, die vervolgens die inkomsten mag uitbetalen onder inhouding van het volgens de Overeenkomst verlaagde tarief van de Israëlische belasting.
 
 Indien het formulier door een gemachtigde wordt ingevuld en ondertekend, moet een machtiging worden bijgevoegd.
 
-Verzoek om teruggaaf van de te veel ingehouden belasting
+3. Verzoek om teruggaaf van de te veel ingehouden belasting
 
-3. Indien bij de uitbetaling van de Israëlische dividenden, interest en royalty’s de Israëlische belasting ten volle is ingehouden, dan kan teruggaaf van de op grond van de Overeenkomst te veel ingehouden belasting worden verzocht door middel van het formulier ’Claim for reduced rate of withholding tax/exemption from withholding tax in Israel on payments to a non resident (Form A/114)’. Dit formulier, luidende in de Engelse taal, moet door de belanghebbende inwoner van Nederland in tweevoud worden ingevuld en ondertekend. Vervolgens moet hij de twee ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is.
+Indien bij de uitbetaling van de Israëlische dividenden, interest en royalty’s de Israëlische belasting ten volle is ingehouden, dan kan teruggaaf van de op grond van de Overeenkomst te veel ingehouden belasting worden verzocht door middel van het formulier ’Claim for reduced rate of withholding tax/exemption from withholding tax in Israel on payments to a non resident (Form A/114)’. Dit formulier, luidende in de Engelse taal, moet door de belanghebbende inwoner van Nederland in tweevoud worden ingevuld en ondertekend. Vervolgens moet hij de twee ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is.
 
 De inspecteur voorziet de twee exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging (onderdeel H), behoudt een exemplaar van het formulier ten behoeve van de legger van de verzoeker en zendt het andere exemplaar aan hem terug. Nadat de belanghebbende inwoner van Nederland het gecertificeerde exemplaar van het formulier heeft terugontvangen, zendt hij dat exemplaar naar het Israëlische belastingkantoor waarbij het Israëlische lichaam dat de dividenden, interest en royalty’s heeft uitbetaald is geregistreerd.
 
@@ -89,13 +68,13 @@ Het vorenbedoelde Israëlische belastingkantoor onderzoekt of het ingediende for
 
 Indien het formulier door een gemachtigde wordt ingevuld en ondertekend, moet een machtiging worden bijgevoegd.
 
-Termijn indiening van verzoeken om teruggaaf van belasting
+4. Termijn indiening van verzoeken om teruggaaf van belasting
 
-4. In de gevallen waarin teruggaaf wordt verzocht van de op de dividenden, interest en royalty’s te veel ingehouden Israëlische belasting moet het formulier ’Claim for reduced rate of withholding tax/exemption from withholding tax in Israel on payments to a non-resident (Form A/114)’ worden ingediend binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel III van het Protocol).
+In de gevallen waarin teruggaaf wordt verzocht van de op de dividenden, interest en royalty’s te veel ingehouden Israëlische belasting moet het formulier ’Claim for reduced rate of withholding tax/exemption from withholding tax in Israel on payments to a non-resident (Form A/114)’ worden ingediend binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel III van het Protocol).
 
-Verkrijgbaarheid van het Israëlische formulier
+5. Verkrijgbaarheid van het Israëlische formulier
 
-5. Exemplaren van het Israëlische formulier ’Claim for reduced rate of withholding tax/exemption from withholding tax in Israel on payments to a non-resident (Form A/114)’ zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Israël bij het Department of Economy and State Revenues, International Tax Department, P.O. Box 1170, Jerusalem 91010.
+Exemplaren van het Israëlische formulier ’Claim for reduced rate of withholding tax/exemption from withholding tax in Israel on payments to a non-resident (Form A/114)’ zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Israël bij het Department of Economy and State Revenues, International Tax Department, P.O. Box 1170, Jerusalem 91010.
 
 ##### Artikel 3. Inwerkingtreding
 

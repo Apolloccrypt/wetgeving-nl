@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 17 maart 1998, houdende regels inzake de opleiding tot en de deskundigheid van de gezondheidszorgpsycholoog (Besluit gezondheidszorgpsycholoog)"
+citeertitel: "Besluit gezondheidszorgpsycholoog"
 identifier: "BWBR0009467"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009467"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "779303"
-version_id: "1131222"
-internal_id: "C1131221"
-label_id: "755094"
-dtd_version: "2.0"
-original_entry_into_force: "1998-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009467/2024-01-01/0"
-intitule_bron: "Stb.1998-156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-03-17"
-intitule_published: "1998-03-24"
-intitule_in_force: "1998-03-24"
-intitule_status: "goed"
-original_publication: "Stb.1998-156"
-original_signed_date: "1998-03-17"
-original_published_date: "1998-03-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1998-156"
-entry_into_force_date: "1998-04-01"
-jci_1_3: "jci1.3:c:BWBR0009467&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0009467&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit gezondheidszorgpsycholoog"
-signed_date: "1998-03-17"
-entry_into_force: "1998-04-01"
+publicatiedatum: 1998-04-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0009467"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 17 maart 1998, houdende regels inzake de opleiding tot en de deskundigheid van de gezondheidszorgpsycholoog (Besluit gezondheidszorgpsycholoog)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 30 juni 1997, CSZ/BenO-979473;
-
-Gelet op de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=24) en [25 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=25);
-
-Gezien de adviezen van de Raad voor de beroepen in de individuele gezondheidszorg van september 1995 en van mei 1996;
-
-De Raad van State gehoord (advies van 7 januari 1998, no. W13.97.0384);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 maart 1998, GVM/GGZ/981425;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -104,63 +70,63 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - a. 200 uren psychodiagnostiek, bestaande uit:
 
-- 1°. psychopathologie, met inbegrip van psychologische aspecten van somatische stoornissen;
+   - 1° psychopathologie, met inbegrip van psychologische aspecten van somatische stoornissen;
 
-- 2°. methodologie van het diagnostisch redeneerproces;
+   - 2° methodologie van het diagnostisch redeneerproces;
 
-- 3°. diagnostische modellen;
+   - 3° diagnostische modellen;
 
-- 4°. meettheorie, psychometrie en testconstructie;
+   - 4° meettheorie, psychometrie en testconstructie;
 
-- 5°. vaardigheid in de toepassing van de belangrijkste diagnostische methoden;
+   - 5° vaardigheid in de toepassing van de belangrijkste diagnostische methoden;
 
-- 6°. specifieke diagnostische vaardigheden ten behoeve van verschillende leeftijdsgroepen en maatschappelijke groeperingen, waaronder cultuurgebonden problematiek;
+   - 6° specifieke diagnostische vaardigheden ten behoeve van verschillende leeftijdsgroepen en maatschappelijke groeperingen, waaronder cultuurgebonden problematiek;
 
-- 7°. reflectie op de diagnostische attitude, met inbegrip van beroepsethische aspecten.
+   - 7° reflectie op de diagnostische attitude, met inbegrip van beroepsethische aspecten.
 
 - b. 40 uren indicatiestelling, bestaande uit:
 
-- 1°. indicaties en contra-indicaties van de onderscheiden psychologische, pedagogische en psychotherapeutische behandelingsvormen;
+   - 1° indicaties en contra-indicaties van de onderscheiden psychologische, pedagogische en psychotherapeutische behandelingsvormen;
 
-- 2°. organisatie van de hulpverlening en maatschappelijke voorzieningen;
+   - 2° organisatie van de hulpverlening en maatschappelijke voorzieningen;
 
-- 3°. rapportage en dossiervorming.
+   - 3° rapportage en dossiervorming.
 
 - c. 200 uren behandelingsmethoden, bestaande uit:
 
-- 1°. toepassing van psychologische en pedagogische technieken en psychotherapeutische deeltechnieken zowel individu- als systeemgericht;
+   - 1° toepassing van psychologische en pedagogische technieken en psychotherapeutische deeltechnieken zowel individu- als systeemgericht;
 
-- 2°. leer- en cognitieve theorieën, psychodynamische theorieën, experiëntiële theorieën, systeemtheorieën en groepsdynamica;
+   - 2° leer- en cognitieve theorieën, psychodynamische theorieën, experiëntiële theorieën, systeemtheorieën en groepsdynamica;
 
-- 3°. behandelingsplanning;
+   - 3° behandelingsplanning;
 
-- 4°. tot stand brengen en hantering van de behandelingsrelatie;
+   - 4° tot stand brengen en hantering van de behandelingsrelatie;
 
-- 5°. omgaan met weerstanden;
+   - 5° omgaan met weerstanden;
 
-- 6°. procesevaluatie;
+   - 6° procesevaluatie;
 
-- 7°. hanteren van groepsprocessen;
+   - 7° hanteren van groepsprocessen;
 
-- 8°. effecten van farmacotherapie;
+   - 8° effecten van farmacotherapie;
 
-- 9°. specifieke therapeutische vaardigheden ten behoeve van verschillende leeftijdsgroepen en maatschappelijke groeperingen, waaronder cultuurgebonden problematiek;
+   - 9° specifieke therapeutische vaardigheden ten behoeve van verschillende leeftijdsgroepen en maatschappelijke groeperingen, waaronder cultuurgebonden problematiek;
 
-- 10°. reflectie op de therapeutische attitude, met inbegrip van beroepsethische aspecten.
+   - 10° reflectie op de therapeutische attitude, met inbegrip van beroepsethische aspecten.
 
 - d. 40 uren overige beroepsspecifieke vaardigheden, bestaande uit:
 
-- 1°. methodologie van praktijkonderzoek;
+   - 1° methodologie van praktijkonderzoek;
 
-- 2°. voorlichtingskunde;
+   - 2° voorlichtingskunde;
 
-- 3°. didactiek;
+   - 3° didactiek;
 
-- 4°. werken in teamverband;
+   - 4° werken in teamverband;
 
-- 5°. interdisciplinaire samenwerking;
+   - 5° interdisciplinaire samenwerking;
 
-- 6°. betrekken van beschikbaar wetenschappelijk bewijs bij beslissingen en handelingen in de praktijk.
+   - 6° betrekken van beschikbaar wetenschappelijk bewijs bij beslissingen en handelingen in de praktijk.
 
 ##### Artikel 5
 
@@ -220,13 +186,13 @@ Voor aanwijzing komen in aanmerking opleidingsinstellingen waarvan in redelijkhe
 
 - d. zorg dragen voor het op zodanige wijze inrichten van de opleiding dat degene die tot de opleiding is toegelaten in de gelegenheid wordt gesteld om aan de opleidingseisen te voldoen door:
 
-- 1°. het bewaken en bevorderen van de inhoudelijke en didactische deskundigheid van het docententeam;
+   - 1°. het bewaken en bevorderen van de inhoudelijke en didactische deskundigheid van het docententeam;
 
-- 2°. zorg te dragen voor voldoende en deskundige begeleiding bij het praktisch onderwijs en het opdoen van de vereiste werkervaring;
+   - 2°. zorg te dragen voor voldoende en deskundige begeleiding bij het praktisch onderwijs en het opdoen van de vereiste werkervaring;
 
-- 3°. zorg te dragen voor een deugdelijke wijze van beoordeling, toetsing en examinering; en
+   - 3°. zorg te dragen voor een deugdelijke wijze van beoordeling, toetsing en examinering; en
 
-- 4°. zorg te dragen voor een veilig leer- en werkklimaat.
+   - 4°. zorg te dragen voor een veilig leer- en werkklimaat.
 
 ##### Artikel 8
 
@@ -279,5 +245,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit gezondheidszorgpsycholoog.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

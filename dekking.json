@@ -1,73 +1,18 @@
 {
- "gegenereerd": "2026-08-02",
+ "gegenereerd": "2026-08-03",
  "geverifieerd": true,
- "bwb_regelingen": 46499,
- "bwb_geldend": 22192,
- "site_totaal": 22334,
- "site_geldend": 22178,
- "dekkingsgraad": 0.9994,
- "aantal_ontbrekend": 14,
- "aantal_ten_onrechte_geldig": 155,
- "aantal_onbekend": 1,
+ "bwb_regelingen": 46733,
+ "bwb_geldend": 22183,
+ "site_totaal": 22346,
+ "site_geldend": 22180,
+ "dekkingsgraad": 0.9999,
+ "aantal_ontbrekend": 3,
+ "aantal_ten_onrechte_geldig": 166,
+ "aantal_onbekend": 0,
  "ontbrekend": [
-  {
-   "id": "BWBR0052683",
-   "titel": "Besluit aanwijzing invoering prestatie activiteiten en diensten verloskundig samenwerkingsverband",
-   "type": "ministeriele-regeling"
-  },
-  {
-   "id": "BWBR0052698",
-   "titel": "Wet herziening wettelijke grondslagen kerndoelen",
-   "type": "wet"
-  },
-  {
-   "id": "BWBR0052763",
-   "titel": "Besluit veilige jaarwisseling",
-   "type": "AMvB"
-  },
   {
    "id": "BWBR0052795",
    "titel": "Instellingsbesluit Commissie Toekomst Rijksdienst",
-   "type": "ministeriele-regeling"
-  },
-  {
-   "id": "BWBR0052838",
-   "titel": "Regeling vaststelling keuzedelen mbo",
-   "type": "ministeriele-regeling"
-  },
-  {
-   "id": "BWBR0052849",
-   "titel": "Beleidsregel aanvraagprocedure diploma-erkenning voor niet-bekostigde beroepsopleidingen 2026",
-   "type": "beleidsregel"
-  },
-  {
-   "id": "BWBR0052860",
-   "titel": "Regeling aanvraagprocedure erkenning niet bekostigde beroepsopleidingen mbo",
-   "type": "ministeriele-regeling"
-  },
-  {
-   "id": "BWBR0052864",
-   "titel": "Besluit kerndoelen primair en speciaal onderwijs 2026",
-   "type": "AMvB"
-  },
-  {
-   "id": "BWBR0052866",
-   "titel": "Besluit vernieuwde kerndoelen Nederlands en rekenen en wiskunde",
-   "type": "AMvB"
-  },
-  {
-   "id": "BWBR0052867",
-   "titel": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (verbetering aansluiting beroepsonderwijs-arbeidsmarkt)",
-   "type": "wet"
-  },
-  {
-   "id": "BWBR0052918",
-   "titel": "Besluit ondermandaat, volmacht en machtiging voor de directie Bestuurlijke en Politieke Zaken van het Ministerie van Economische Zaken en Klimaat 2026",
-   "type": "ministeriele-regeling"
-  },
-  {
-   "id": "BWBR0052919",
-   "titel": "Besluit verlening ondermandaat, ondermachtiging en ondervolmacht handhaving Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies",
    "type": "ministeriele-regeling"
   },
   {
@@ -82,6 +27,10 @@
   }
  ],
  "ten_onrechte_geldig": [
+  {
+   "id": "BWBR0006938",
+   "titel": "Vergoedingenregeling reiskosten Kiesraad"
+  },
   {
    "id": "BWBR0007677",
    "titel": "Uitvoeringsregeling belasting zware motorrijtuigen"
@@ -167,6 +116,10 @@
    "titel": "Regeling digitale vervanging personele archiefbescheiden SZW systeem cRMA van P-Direkt"
   },
   {
+   "id": "BWBR0037303",
+   "titel": "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 december 2015, kenmerk 874466-144542-WJZ, houdende regels voor een subsidie voor het faciliteren van medisch specialisten bij de overgang naar integrale tarieven voor medisch specialistische zorg en kaakchirurgie (Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2016)"
+  },
+  {
    "id": "BWBR0037446",
    "titel": "Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015"
   },
@@ -181,6 +134,10 @@
   {
    "id": "BWBR0037549",
    "titel": "Regeling benoeming leden en plaatsvervangende leden en goedkeuring werkwijze Algemene Commissie tot Voorkoming van Arbeidsongevallen Zeevarenden"
+  },
+  {
+   "id": "BWBR0037674",
+   "titel": "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016, nr. MBO/845264 houdende vaststelling van keuzedelen welke onderdeel uitmaken van de kwalificatiestructuur van het middelbaar beroepsonderwijs (Regeling vaststelling keuzedelen)"
   },
   {
    "id": "BWBR0038720",
@@ -215,6 +172,10 @@
    "titel": "Besluit digitale vervanging archiefbescheiden van het Ministerie van Sociale Zaken en Werkgelegenheid systeem Diane"
   },
   {
+   "id": "BWBR0041819",
+   "titel": "Besluit van 14 december 2018, houdende bepalingen voor een experiment met beroepsopleidingen en kwalificaties met een regionale specialisatie in het middelbaar beroepsonderwijs (Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties mbo)"
+  },
+  {
    "id": "BWBR0041827",
    "titel": "Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat 2019"
   },
@@ -229,6 +190,10 @@
   {
    "id": "BWBR0041897",
    "titel": "Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019"
+  },
+  {
+   "id": "BWBR0042079",
+   "titel": "Besluit van de directeur Bureau Bestuursraad van 11 maart 2019, nr. 19067296, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor de directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat 2019)"
   },
   {
    "id": "BWBR0042098",
@@ -255,8 +220,16 @@
    "titel": "Regeling vakwedstrijden vmbo en mbo"
   },
   {
+   "id": "BWBR0042524",
+   "titel": "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 26 augustus 2019, nr. MBO-1456697, houdende vaststellen van modellen en toetsingskaders op grond van het Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties mbo (Regeling modellen en toetsingskader geregionaliseerde beroepsopleidingen en kwalificaties mbo)"
+  },
+  {
    "id": "BWBR0042676",
    "titel": "Besluit verlenen ondervolmacht afdelingshoofd Jeugd van de Programmadirectie Zorg en Jeugd in Caribisch Nederland i.o."
+  },
+  {
+   "id": "BWBR0043095",
+   "titel": "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 januari 2020, MBO-17983694 houdende vaststelling van een aantal kwalificaties op grond waarvan een landelijk deel kan worden ontwikkeld (Regeling vaststelling aanvullende kwalificaties experiment ruimte voor de regio)"
   },
   {
    "id": "BWBR0043395",
@@ -323,6 +296,10 @@
    "titel": "Besluit buitengewoon opsporingsambtenaar gemeente Venlo 2021"
   },
   {
+   "id": "BWBR0045128",
+   "titel": "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 29 april 2021, nr. 26561189, houdende beleid over de wijze waarop de bevoegdheid wordt uitgeoefend tot het verlenen van het recht op diploma-erkenning voor niet-bekostigde beroepsopleidingen als bedoeld in artikel 1.4.1 van de Wet educatie en beroepsonderwijs (Beleidsregel diploma-erkenning niet-bekostigde beroepsopleidingen (2021))"
+  },
+  {
    "id": "BWBR0045140",
    "titel": "Besluit buitengewoon opsporingsambtenaar BOA CAT 2021-015"
   },
@@ -383,6 +360,10 @@
    "titel": "Boetebeleidsregels voor het aanbieden van kansspelen op afstand zonder vergunning, Kansspelautoriteit"
   },
   {
+   "id": "BWBR0045657",
+   "titel": "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 23 september 2021, nr. VO/29518735, houdende regels voor de subsidieverstrekking voor heterogene brugklassen (Subsidieregeling heterogene brugklassen)"
+  },
+  {
    "id": "BWBR0045807",
    "titel": "Regeling modellen van akte gerechtelijke mededelingen 2021"
   },
@@ -413,6 +394,10 @@
   {
    "id": "BWBR0046997",
    "titel": "Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024"
+  },
+  {
+   "id": "BWBR0047084",
+   "titel": "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 augustus 2022, PO/F&V/33525597, houdende vaststelling van de bedragen voor personele bekostiging voor het primair onderwijs in Caribisch Nederland voor de eerste vijf maanden van het schooljaar 2022–2023 (Definitieve Regeling bekostiging personeel PO BES 2022–2023)."
   },
   {
    "id": "BWBR0047117",
@@ -529,6 +514,10 @@
   {
    "id": "BWBR0050285",
    "titel": "Regeling aanlevering declaratiegegevens door ziektekostenverzekeraars"
+  },
+  {
+   "id": "BWBR0050322",
+   "titel": "Besluit van het Stimuleringsfonds voor de Journalistiek van 17 juli 2024, nr. OT2426, tot vaststelling van een subsidieregeling Onderzoek naar de journalistieke praktijk: thematische oproep 2024–2026"
   },
   {
    "id": "BWBR0050368",
@@ -703,10 +692,5 @@
    "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 16 juli 2026, nr. 107479116, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van tabakstrips in de teelt van zaaiuien (Tijdelijke vrijstelling voor de beheersing van tabakstrips in de teelt van zaaiuien, 2026)"
   }
  ],
- "onbekend": [
-  {
-   "id": "BWBR0006938",
-   "titel": "Vergoedingenregeling reiskosten Kiesraad"
-  }
- ]
+ "onbekend": []
 }

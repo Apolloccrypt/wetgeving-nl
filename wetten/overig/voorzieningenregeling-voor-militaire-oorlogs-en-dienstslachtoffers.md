@@ -1,45 +1,17 @@
 ---
 title: "Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers"
 identifier: "BWBR0008406"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-06-24"
-last_updated: "2015-06-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008406"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5688793"
-version_id: "10182722"
-internal_id: "C13751161"
-label_id: "5669284"
-dtd_version: "2.0"
-original_entry_into_force: "1998-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008406/2015-06-24/0"
-intitule_bron: "Stcrt.1996-244"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-11"
-intitule_published: "1996-12-17"
-intitule_in_force: "1996-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-240"
-original_signed_date: "1998-12-14"
-original_published_date: "1998-12-16"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-1998-241-p8-SC16700"
-entry_into_force_date: "1998-12-05"
-jci_1_3: "jci1.3:c:BWBR0008406&z=2015-06-24&g=2015-06-24"
-jci_1_0: "1.0:c:BWBR0008406&g=2015-06-24"
-citeertitel_status: "officieel"
-signed_date: "1998-12-14"
-entry_into_force: "1998-12-05"
+publicatiedatum: 1998-12-05
+laatste_update: 2015-06-24
+status: geldig
+toestand: 2015-06-24
+bron: "https://wetten.overheid.nl/BWBR0008406"
+opgehaald: 2026-08-03
 ---
+
 # Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers
-
-Gelet op [artikel 21 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223);
-
-Besluit:
-
-Abusievelijk is een wijzigingsopdracht geformuleerd die niet geheel juist is.
 
 ### Hoofdstuk 1. Begripsomschrijvingen
 
@@ -47,19 +19,19 @@ Abusievelijk is een wijzigingsopdracht geformuleerd die niet geheel juist is.
 
 In deze regeling wordt verstaan onder:
 
-- a. **betrokkene:** de beroepsmilitair, de gewezen beroepsmilitair, de dienstplichtige militair, de gewezen dienstplichtige, alsmede de reservist en de gewezen reservist die ten gevolge van invaliditeit aantoonbare beperkingen ondervindt;
+- a. *betrokkene:* de beroepsmilitair, de gewezen beroepsmilitair, de dienstplichtige militair, de gewezen dienstplichtige, alsmede de reservist en de gewezen reservist die ten gevolge van invaliditeit aantoonbare beperkingen ondervindt;
 
-- b. **invaliditeit:** de invaliditeit met dienstverband, bedoeld in [artikel 2, derde lid, van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=2), ook indien sprake is van een invaliditeit van minder dan 10%;
+- b. *invaliditeit:* de invaliditeit met dienstverband, bedoeld in [artikel 2, derde lid, van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=2), ook indien sprake is van een invaliditeit van minder dan 10%;
 
-- c. **voorziening:** het middel dat direct dan wel indirect de nadelige gevolgen van de beperkingen die de betrokkene ten gevolge van zijn invaliditeit ondervindt, opheft of vermindert dan wel voorziet in een financiële tegemoetkoming in of een financiële vergoeding van de kosten die daarvan een gevolg zijn;
+- c. *voorziening:* het middel dat direct dan wel indirect de nadelige gevolgen van de beperkingen die de betrokkene ten gevolge van zijn invaliditeit ondervindt, opheft of vermindert dan wel voorziet in een financiële tegemoetkoming in of een financiële vergoeding van de kosten die daarvan een gevolg zijn;
 
-- d. **kosten:** de kosten die de betrokkene in verband met invaliditeit noodzakelijkerwijs moet maken en zonder invaliditeit niet of niet in dezelfde mate gemaakt zouden worden;
+- d. *kosten:* de kosten die de betrokkene in verband met invaliditeit noodzakelijkerwijs moet maken en zonder invaliditeit niet of niet in dezelfde mate gemaakt zouden worden;
 
-- e. **financiële tegemoetkoming:** een gedeeltelijke vergoeding van de kosten van een voorziening;
+- e. *financiële tegemoetkoming:* een gedeeltelijke vergoeding van de kosten van een voorziening;
 
-- f. **financiële vergoeding:** een volledige vergoeding van de kosten van een voorziening;
+- f. *financiële vergoeding:* een volledige vergoeding van de kosten van een voorziening;
 
-- g. **begeleider:** degene die de betrokkene begeleidt, omdat de toestand van de betrokkene begeleiding nodig maakt.
+- g. *begeleider:* degene die de betrokkene begeleidt, omdat de toestand van de betrokkene begeleiding nodig maakt.
 
 ### Hoofdstuk 2. Voorzieningenpakket
 
@@ -69,27 +41,27 @@ Voorzieningen worden verleend in de vorm van:
 
 - a. leefvoorzieningen als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&z=2015-06-24&g=2015-06-24); deze voorzieningen kunnen betrekking hebben op:
 
-- 1. verplaatsing per taxi of auto;
+   - 1. verplaatsing per taxi of auto;
 
-- 2. verplaatsing binnenshuis en buitenshuis per rolstoel;
+   - 2. verplaatsing binnenshuis en buitenshuis per rolstoel;
 
-- 3. wonen;
+   - 3. wonen;
 
-- 4. kosten verbonden aan op zich normale huishoudelijke uitgaven;
+   - 4. kosten verbonden aan op zich normale huishoudelijke uitgaven;
 
-- 5. ontspanning of ontwikkeling;
+   - 5. ontspanning of ontwikkeling;
 
-- 6. conditietraining;
+   - 6. conditietraining;
 
-- 7. verplaatsing per fiets;
+   - 7. verplaatsing per fiets;
 
-- 8. kosten verbonden aan alarmeringstoestellen;
+   - 8. kosten verbonden aan alarmeringstoestellen;
 
-- 9. algemene dagelijkse levensverrichtingen;
+   - 9. algemene dagelijkse levensverrichtingen;
 
-- 10. kinderopvang;
+   - 10. kinderopvang;
 
-- 11. Gezinsbegeleiding.
+   - 11. Gezinsbegeleiding.
 
 - b. werkvoorzieningen als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4&z=2015-06-24&g=2015-06-24);
 
@@ -121,15 +93,15 @@ Onder leefvoorzieningen die betrekking hebben op verplaatsing per taxi of auto w
 
 - a. de financiële tegemoetkoming in de kosten van het gebruik van:
 
-- 1. een (rolstoel)taxi;
+   - 1. een (rolstoel)taxi;
 
-- 2. vervoer door derden;
+   - 2. vervoer door derden;
 
 - b. de financiële vergoeding van de kosten van: De meerkosten die op grond van dit onderdeel worden vergoed, worden niet buiten beschouwing gelaten bij de vaststelling van de restwaarde van de auto op het moment van inruil.
 
-- 1. een standaard auto;
+   - 1. een standaard auto;
 
-- 2. een duurdere auto dan de standaard auto indien de standaard auto niet geschikt is; de meerprijs van de duurdere auto ten opzichte van de standaard auto wordt aangemerkt als aanpassingskosten als bedoeld in onderdeel d;
+   - 2. een duurdere auto dan de standaard auto indien de standaard auto niet geschikt is; de meerprijs van de duurdere auto ten opzichte van de standaard auto wordt aangemerkt als aanpassingskosten als bedoeld in onderdeel d;
 
 - c. de verstrekking van een al dan niet aangepaste auto in bruikleen indien de standaard auto bedoeld in onderdeel b, onder 1, of de duurdere auto, bedoeld in onderdeel b, onder 2, niet geschikt is;
 
@@ -139,31 +111,31 @@ Onder leefvoorzieningen die betrekking hebben op verplaatsing per taxi of auto w
 
 - f. de financiële tegemoetkoming in de kosten van het gebruik van:
 
-- 1. een eigen auto;
+   - 1. een eigen auto;
 
-- 2. een standaard auto als bedoeld in onderdeel b, onder 1;
+   - 2. een standaard auto als bedoeld in onderdeel b, onder 1;
 
-- 3. een duurdere auto als bedoeld in onderdeel b, onder 2;
+   - 3. een duurdere auto als bedoeld in onderdeel b, onder 2;
 
-- 4. een auto in bruikleen als bedoeld in onderdeel c;
+   - 4. een auto in bruikleen als bedoeld in onderdeel c;
 
 - g. de financiële vergoeding van de kosten van:
 
-- 1. de aanleg alsmede de huur van een gehandicaptenparkeerplaats en/of Europese parkeerontheffing in verband met de invaliditeit van de betrokkene;
+   - 1. de aanleg alsmede de huur van een gehandicaptenparkeerplaats en/of Europese parkeerontheffing in verband met de invaliditeit van de betrokkene;
 
-- 2. het verlengen van het rijbewijs van de betrokkene in verband met de invaliditeit van de betrokkene;
+   - 2. het verlengen van het rijbewijs van de betrokkene in verband met de invaliditeit van de betrokkene;
 
-- 3. de keuring met het oog op het aanbrengen van noodzakelijke aanpassingen van een auto als bedoeld in onderdeel b en c in verband met de invaliditeit van de betrokkene;
+   - 3. de keuring met het oog op het aanbrengen van noodzakelijke aanpassingen van een auto als bedoeld in onderdeel b en c in verband met de invaliditeit van de betrokkene;
 
 - h. de financiële tegemoetkoming in de kosten van:
 
-- 1. autorijlessen en proef- en gewenningslessen; deze tegemoetkomingen kunnen worden toegekend aan de betrokkene of aan diens begeleider in de meerijsituatie.
+   - 1. autorijlessen en proef- en gewenningslessen; deze tegemoetkomingen kunnen worden toegekend aan de betrokkene of aan diens begeleider in de meerijsituatie.
 
-- 2. aflevering van een auto als bedoeld in onderdeel b en c;
+   - 2. aflevering van een auto als bedoeld in onderdeel b en c;
 
-- 3. de woonplaatsservice bij een organisatie die deze hulp biedt;
+   - 3. de woonplaatsservice bij een organisatie die deze hulp biedt;
 
-- 4. een kaartkluis.
+   - 4. een kaartkluis.
 
 - i. de financiële vergoeding van de kosten van het rij-examen; deze vergoeding kan worden toegekend aan de betrokkene of aan diens begeleider in de meerijsituatie.
 
@@ -229,25 +201,25 @@ Onder leefvoorzieningen die betrekking hebben op verplaatsing binnenshuis en bui
 
 - b. de financiële vergoeding van de kosten van:
 
-- 1. de noodzakelijke aanpassingen van een rolstoel;
+   - 1. de noodzakelijke aanpassingen van een rolstoel;
 
-- 2. de accessoires van een rolstoel;
+   - 2. de accessoires van een rolstoel;
 
-- 3. het onderhoud, de reparatie en de keuring van een rolstoel;
+   - 3. het onderhoud, de reparatie en de keuring van een rolstoel;
 
-- 4. een rolstoeltraining;
+   - 4. een rolstoeltraining;
 
-- 5. de premie van de verzekering van een buitenrolstoel.
+   - 5. de premie van de verzekering van een buitenrolstoel.
 
 - c. de financiële tegemoetkoming in de kosten van:
 
-- 1. weerbestendige rolstoelkleding;
+   - 1. weerbestendige rolstoelkleding;
 
-- 2. rolstoelbestendige vloerbedekking;
+   - 2. rolstoelbestendige vloerbedekking;
 
-- 3. een sportrolstoel, exclusief afleveringskosten;
+   - 3. een sportrolstoel, exclusief afleveringskosten;
 
-- 4. het onderhoud en de reparatie van een sportrolstoel.
+   - 4. het onderhoud en de reparatie van een sportrolstoel.
 
 ##### Artikel 8
 
@@ -259,9 +231,9 @@ Onder leefvoorzieningen die betrekking hebben op wonen wordt verstaan:
 
 - c. de financiële tegemoetkoming in de kosten van:
 
-- 1. de inrichting van de nieuwe woning;
+   - 1. de inrichting van de nieuwe woning;
 
-- 2. de herinrichting van de woning.
+   - 2. de herinrichting van de woning.
 
 ##### Artikel 9
 
@@ -269,33 +241,33 @@ Onder leefvoorzieningen die betrekking hebben op de kosten verbonden aan op zich
 
 - a. de financiële vergoeding van de kosten van:
 
-- 1. de eigen bijdrage voor huishoudelijke hulp voor zover deze hulp door een instelling voor gezinsverzorging kan worden verleend;
+   - 1. de eigen bijdrage voor huishoudelijke hulp voor zover deze hulp door een instelling voor gezinsverzorging kan worden verleend;
 
-- 2. de factuur in verband met de indicatiestelling van de onder 1, bedoelde instelling;
+   - 2. de factuur in verband met de indicatiestelling van de onder 1, bedoelde instelling;
 
-- 3. de extra huurkosten van een woning indien betrokkene voor het eerst zelfstandig gaat wonen en deze kosten een bedrag van 12% van het bruto jaarinkomen overschrijden. Voor verlenging van de voorziening kan betrokkene jaarlijks een verzoek hiertoe indienen.
+   - 3. de extra huurkosten van een woning indien betrokkene voor het eerst zelfstandig gaat wonen en deze kosten een bedrag van 12% van het bruto jaarinkomen overschrijden. Voor verlenging van de voorziening kan betrokkene jaarlijks een verzoek hiertoe indienen.
 
 - b. de financiële tegemoetkoming in de kosten van:
 
-- 1. het zelf inhuren van huishoudelijke hulp volgens een jaarlijks vast te stellen uurloon indien de in onderdeel a, onder 1, bedoelde instelling deze hulp niet kan leveren;
+   - 1. het zelf inhuren van huishoudelijke hulp volgens een jaarlijks vast te stellen uurloon indien de in onderdeel a, onder 1, bedoelde instelling deze hulp niet kan leveren;
 
-- 2. de extra slijtage van de kleding, schoeisel en het beddengoed;
+   - 2. de extra slijtage van de kleding, schoeisel en het beddengoed;
 
-- 3. de vervanging van een garderobe in verband met de invaliditeit van de betrokkene;
+   - 3. de vervanging van een garderobe in verband met de invaliditeit van de betrokkene;
 
-- 4. de extra verwarming en elektriciteit;
+   - 4. de extra verwarming en elektriciteit;
 
 - c. de financiële tegemoetkoming in de premiekosten met betrekking tot:
 
-- 1. een ongevallenverzekering, voor zover deze de risico’s, verbonden aan het uitgeoefende beroep, dekt;
+   - 1. een ongevallenverzekering, voor zover deze de risico’s, verbonden aan het uitgeoefende beroep, dekt;
 
-- 2. een verzekering ter verkrijging van een periodieke uitkering wegens inkomstenderving als gevolg van arbeidsongeschiktheid;
+   - 2. een verzekering ter verkrijging van een periodieke uitkering wegens inkomstenderving als gevolg van arbeidsongeschiktheid;
 
-- 3. een levensverzekering ten behoeve van nabestaanden;
+   - 3. een levensverzekering ten behoeve van nabestaanden;
 
-- 4. een pensioenverzekering ten behoeve van een nabestaandenpensioen;
+   - 4. een pensioenverzekering ten behoeve van een nabestaandenpensioen;
 
-- 5. een verzekering van het WAO-hiaat.
+   - 5. een verzekering van het WAO-hiaat.
 
 ##### Artikel 9a
 
@@ -351,53 +323,53 @@ Onder voorzieningen ter zake van de kosten van geneeskundige verzorging worden v
 
 - a. de financiële vergoeding van de kosten van:
 
-- 1. de eigen bijdrage voor de aanschaf van orthopedische schoenen indien sprake is van een eerste verstrekking dan wel van extra slijtage alsmede de ten gevolge van de orthopedische schoenen noodzakelijke steunzolen;
+   - 1. de eigen bijdrage voor de aanschaf van orthopedische schoenen indien sprake is van een eerste verstrekking dan wel van extra slijtage alsmede de ten gevolge van de orthopedische schoenen noodzakelijke steunzolen;
 
-- 2. de eigen bijdrage, bedoeld in de [artikelen 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.1) en [3.3.2.2 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.2);
+   - 2. de eigen bijdrage, bedoeld in de [artikelen 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.1) en [3.3.2.2 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.2);
 
-- 3. de eigen bijdrage voor de aanschaf van een ringleiding;
+   - 3. de eigen bijdrage voor de aanschaf van een ringleiding;
 
-- 4. de eigen bijdrage voor de aanschaf van een geruismaskeerder;
+   - 4. de eigen bijdrage voor de aanschaf van een geruismaskeerder;
 
-- 5. de eigen bijdrage voor de aanschaf van een koptelefoon;
+   - 5. de eigen bijdrage voor de aanschaf van een koptelefoon;
 
-- 6. de eigen bijdrage voor de aanschaf van elastische kousen;
+   - 6. de eigen bijdrage voor de aanschaf van elastische kousen;
 
-- 7. de aanpassing aan een specifiek hulpmiddel dan wel aan een algemeen gebruiksmiddel.
+   - 7. de aanpassing aan een specifiek hulpmiddel dan wel aan een algemeen gebruiksmiddel.
 
 - b. de financiële tegemoetkoming in de kosten van:
 
-- 1. een hoortoestel;
+   - 1. een hoortoestel;
 
-- 2. een prothese;
+   - 2. een prothese;
 
-- 3. een sta-op-stoel;
+   - 3. een sta-op-stoel;
 
-- 4. een sta-stoel;
+   - 4. een sta-stoel;
 
-- 5. een bureaustoel i.v.m. thuis te verrichten werkzaamheden;
+   - 5. een bureaustoel i.v.m. thuis te verrichten werkzaamheden;
 
-- 6. twee éénpersoonsbedden inclusief de eerste aankleding;
+   - 6. twee éénpersoonsbedden inclusief de eerste aankleding;
 
-- 7. een speciaal bed inclusief de eerste aankleding bed en/of bodem en/of matras;
+   - 7. een speciaal bed inclusief de eerste aankleding bed en/of bodem en/of matras;
 
-- 8. een douche-toiletstoel;
+   - 8. een douche-toiletstoel;
 
-- 9. psychologische hulp;
+   - 9. psychologische hulp;
 
-- 10. zelfverzorgingsproducten voor brandwonden;
+   - 10. zelfverzorgingsproducten voor brandwonden;
 
-- 11. geïndiceerde contactlenzen;
+   - 11. geïndiceerde contactlenzen;
 
-- 12. geïndiceerde brillenglazen;
+   - 12. geïndiceerde brillenglazen;
 
-- 13. een brilmontuur;
+   - 13. een brilmontuur;
 
-- 14. een sportprothese;
+   - 14. een sportprothese;
 
-- 15. braces en aanpassingen van sportschoeisel;
+   - 15. braces en aanpassingen van sportschoeisel;
 
-- 16. Een veteranen hulphond.
+   - 16. Een veteranen hulphond.
 
 - c. de financiële tegemoetkoming in de kosten van kleine medische hulpmiddelen dan wel behandelingen noodzakelijk tengevolge van de invaliditeit;
 
@@ -469,25 +441,25 @@ In individuele gevallen, waarin de regeling niet of niet in redelijkheid voorzie
 
 - a. het vervoer door derden, bedoeld in [artikel 4, onderdeel a, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2015-06-24&g=2015-06-24), of het gebruik van een eigen auto als bedoeld in [artikel 4, onderdeel f, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2015-06-24&g=2015-06-24):
 
-- tot 15.000 kilometers f 0,46 per kilometer;
+   - tot 15.000 kilometers f 0,46 per kilometer;
 
-- tot 20.000 kilometers f 0,36 per kilometer;
+   - tot 20.000 kilometers f 0,36 per kilometer;
 
-- bij meer dan 25.000 kilometers f 0,32 per kilometer;
+   - bij meer dan 25.000 kilometers f 0,32 per kilometer;
 
 - b. het gebruik van een standaard auto als bedoeld in [artikel 4, onderdeel f, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2015-06-24&g=2015-06-24), of een duurdere auto als bedoeld in [artikel 4, onderdeel f, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2015-06-24&g=2015-06-24):
 
-- tot 15.000 kilometers f 0,49 per kilometer;
+   - tot 15.000 kilometers f 0,49 per kilometer;
 
-- tot 20.000 kilometers f 0,38 per kilometer;
+   - tot 20.000 kilometers f 0,38 per kilometer;
 
-- tot 25.000 kilometers f 0,34 per kilometer;
+   - tot 25.000 kilometers f 0,34 per kilometer;
 
-- tot 30.000 kilometers f 0,32 per kilometer;
+   - tot 30.000 kilometers f 0,32 per kilometer;
 
-- tot 33.000 kilometers f 0,29 per kilometer;
+   - tot 33.000 kilometers f 0,29 per kilometer;
 
-- bij meer dan 33.000 kilometers f 0,27 per kilometer;
+   - bij meer dan 33.000 kilometers f 0,27 per kilometer;
 
 - c. het gebruik van een auto in bruikleen als bedoeld in [artikel 4, onderdeel f, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2015-06-24&g=2015-06-24), bij meer dan 10.000 kilometers het feitelijk aantal kilometers X de kilometervergoeding die is afgestemd op het merk en type auto.
 
@@ -551,7 +523,7 @@ Bij de vaststelling van het inkomen is het bepaalde in [artikel 6, tweede en der
 
 11. De in [artikel 9a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9a&z=2015-06-24&g=2015-06-24), bedoelde financiële vergoeding, wordt verlaagd met aanspraken op vergoeding van ziektekostenverzekering en wordt hooguit tweemaal voor een jaar toegekend.
 
-**Voorwaarden voor toekenning**
+*Voorwaarden voor toekenning*
 
 - a. er is t.a.v. cliënt sprake van de dienstverbandaandoening PTSS,
 
@@ -559,7 +531,7 @@ Bij de vaststelling van het inkomen is het bepaalde in [artikel 6, tweede en der
 
 - c. de zorgcoördinator/casemanager (ZC/CM) geeft een onderbouwd advies af waaruit blijkt dat begeleiding noodzakelijk is om ernstige gevolgen (financieel, relationeel, sociaal maatschappelijk e.d.) te voorkomen.
 
-**Duur van de toekenning**
+*Duur van de toekenning*
 
 - a. De onderhavige vergoeding wordt toegekend voor de duur van maximaal 1 jaar (korter indien de ZC/CM een kortere periode voldoende acht).
 
@@ -575,39 +547,43 @@ Bij de vaststelling van het inkomen is het bepaalde in [artikel 6, tweede en der
 
 3. De in het [artikel 10a, onderdeel b, onder 3 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2015-06-24&g=2015-06-24), bedoelde financiële tegemoetkomingen bestaan ten hoogste uit de aanschafkosten van de onder die punten vermelde verstrekkingen verminderd met de aanspraken op vergoedingen zoals een vergoeding van de zorgverzekering of een vergoeding op grond van de Regeling ziektekostenverzekering militairen en bedragen ten hoogste voor:
 
-- –. een sta-op-stoel € 3008,–;
+- – een sta-op-stoel € 3008,–;
 
-- –. een sta-stoel € 1206,–;
+- – een sta-stoel € 1206,–;
 
-- –. een bureaustoel i.v.m. thuis te verrichten werkzaamheden € 1809,–;
+- – een bureaustoel i.v.m. thuis te verrichten werkzaamheden € 1809,–;
 
-- –. twee eenpersoonsbedden inclusief de eerste aankleding € 2408,–;
+- – twee eenpersoonsbedden inclusief de eerste aankleding € 2408,–;
 
-- –. een speciaal bed inclusief de eerste aankleding en of bodem en of matras € 2408,–;
+- – een speciaal bed inclusief de eerste aankleding en of bodem en of matras € 2408,–;
 
-- –. een douche - toiletstoel € 3611,–;
+- – een douche - toiletstoel € 3611,–;
 
-- –. psychologische hulp € 2408,– ;
+- – psychologische hulp € 2408,– ;
 
-- –. € 2408,– ;
+- – € 2408,– ;
 
-- –. zelfverzorgingsproducten voor brandwonden € 1206,–;
+- – zelfverzorgingsproducten voor brandwonden € 1206,–;
 
-- –. geïndiceerde contactlenzen: de kostprijs;
+- – geïndiceerde contactlenzen: de kostprijs;
 
-- –. geïndiceerde brillenglazen: de kostprijs maximaal één maal per vier jaar;
+- – geïndiceerde brillenglazen: de kostprijs maximaal één maal per vier jaar;
 
-- –. een brilmontuur: één maal per vier jaar € 164,–;
+- – een brilmontuur: één maal per vier jaar € 164,–;
 
-- –. een sportprothese: € 11.685,– ; braces en aanpassingen aan sportschoeisel: de kostprijs;
+- – een sportprothese: € 11.685,– ; braces en aanpassingen aan sportschoeisel: de kostprijs;
 
-- –. veteranen hulphond € 1050,–.
+- – veteranen hulphond € 1050,–.
 
 4. De in [artikel 10a, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2015-06-24&g=2015-06-24), bedoelde financiële tegemoetkoming bedraagt maximaal € 544,– per middel dan wel behandeling per jaar.
 
 5. De in [artikel 10a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2015-06-24&g=2015-06-24), bedoelde financiële tegemoetkoming in de extra kosten van de premie van een ziektekostenverzekering bestaat ten hoogste uit het verschil tussen de verschuldigde hogere premie en de gemiddelde premie voor particuliere ziektekostenverze-keringen die als uitgangspunt wordt genomen voor de toepassing van het Interimbesluit ziektekosten burgerlijke ambtenaren defensie.
 
 6. De in [artikel 10a, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2015-06-24&g=2015-06-24), bedoelde financiële tegemoetkoming bedraagt maximaal het bedrag van het eigen risico genoemd in [artikel 19 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=19), in voorkomend geval verminderd met het bedrag aan compensatie verplicht eigen risico voor chronisch zieken en gehandicapten ingevolge [artikel 118a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a).
+
+##### Artikel 20c
+
+De in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=16&z=2015-06-24&g=2015-06-24),, [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=18&z=2015-06-24&g=2015-06-24), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20&z=2015-06-24&g=2015-06-24),, [20a](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20a&z=2015-06-24&g=2015-06-24) en [20b](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20b&z=2015-06-24&g=2015-06-24) genoemde bedragen aan financiële tegemoetkomingen worden per 1 januari van elk kalenderjaar geïndexeerd aan de hand van het consumentenprijsindexcijfer. De geïndexeerde bedragen worden afgerond naar boven op gehele bedragen met uitzondering van de tegemoetkoming voor de veteranen hulphond. De tegemoetkoming veteranen hulphond van [art. 20b lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20b&z=2015-06-24&g=2015-06-24) volgt de hoogte van het bedrag zoals dat jaarlijks vanuit SZVK-polis /Reglement Hulpmiddelen kan worden toegekend voor onderhoudskosten van ADL- en blindengeleidehonden.
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
@@ -635,7 +611,11 @@ De vóór 1 januari 1997 ingediende aanvragen voor een voorziening als bedoeld i
 
 ##### Artikel 22b
 
-In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=6&z=2015-06-24&g=2015-06-24), wordt de voorziening die met toepassing van het [Besluit inkomensgrens vervoersvoorzieningen buitenshuis/AAW](onbekend) voor 1 juli 1998 is verstrekt, na 1 juli 1998 gedurende de resterende looptijd van de voorziening ongewijzigd voortgezet.
+In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=6&z=2015-06-24&g=2015-06-24), wordt de voorziening die met toepassing van het Besluit inkomensgrens vervoersvoorzieningen buitenshuis/AAW voor 1 juli 1998 is verstrekt, na 1 juli 1998 gedurende de resterende looptijd van de voorziening ongewijzigd voortgezet.
+
+##### Artikel 22c
+
+De in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20&z=2015-06-24&g=2015-06-24), genoemde financiële tegemoetkoming in de kosten van de extra slijtage van kleding en beddengoed wordt éénmalig opgehoogd met een percentage van 14.
 
 ##### Artikel 23
 
@@ -646,13 +626,3 @@ De regeling zal worden geplaatst in de MP-31-serie.
 ##### Artikel 24
 
 Deze regeling wordt aangehaald als: Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers.
-
-##### Artikel 22c
-
-De in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20&z=2015-06-24&g=2015-06-24), genoemde financiële tegemoetkoming in de kosten van de extra slijtage van kleding en beddengoed wordt éénmalig opgehoogd met een percentage van 14.
-
-##### Artikel 20c
-
-De in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=16&z=2015-06-24&g=2015-06-24),, [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=18&z=2015-06-24&g=2015-06-24), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20&z=2015-06-24&g=2015-06-24),, [20a](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20a&z=2015-06-24&g=2015-06-24) en [20b](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20b&z=2015-06-24&g=2015-06-24) genoemde bedragen aan financiële tegemoetkomingen worden per 1 januari van elk kalenderjaar geïndexeerd aan de hand van het consumentenprijsindexcijfer. De geïndexeerde bedragen worden afgerond naar boven op gehele bedragen met uitzondering van de tegemoetkoming voor de veteranen hulphond. De tegemoetkoming veteranen hulphond van [art. 20b lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20b&z=2015-06-24&g=2015-06-24) volgt de hoogte van het bedrag zoals dat jaarlijks vanuit SZVK-polis /Reglement Hulpmiddelen kan worden toegekend voor onderhoudskosten van ADL- en blindengeleidehonden.
-
-### Hoofdstuk 8. Overgangs- en slotbepalingen

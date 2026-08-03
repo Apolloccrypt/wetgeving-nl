@@ -1,40 +1,17 @@
 ---
 title: "Regeling impuls leefbaarheid, veiligheid en stadseconomie G15"
 identifier: "BWBR0008340"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008340"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4596793"
-version_id: "6413082"
-internal_id: "C6658641"
-label_id: "4575154"
-dtd_version: "2.0"
-original_entry_into_force: "1996-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008340/2002-01-01/0"
-intitule_bron: "Stcrt.1996-232"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-11-20"
-intitule_published: "1996-11-29"
-intitule_in_force: "1996-11-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-232"
-original_signed_date: "1996-11-20"
-original_published_date: "1996-11-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-12-01"
-jci_1_3: "jci1.3:c:BWBR0008340&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0008340&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "1996-11-20"
-entry_into_force: "1996-12-01"
+publicatiedatum: 1996-12-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0008340"
+opgehaald: 2026-08-03
 ---
-# Regeling impuls leefbaarheid, veiligheid en stadseconomie G15
 
-Besluit:
+# Regeling impuls leefbaarheid, veiligheid en stadseconomie G15
 
 ##### Artikel 1
 
@@ -75,58 +52,3 @@ Deze regeling wordt aangehaald als: Regeling impuls leefbaarheid, veiligheid en 
 ##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-## Bijlage A
-
-| **Gemeente** | **rijksbijdrage** | **annuïteit** |
-| --- | --- | --- |
-|   |   |   |
-| Almelo | 4,07 mln | € 160.638,20 |
-| Arnhem | 9,08 mln | € 358.486,37 |
-| Breda | 8,34 mln | € 328.990,66 |
-| Deventer | 4,27 mln | € 168.352,46 |
-| Eindhoven | 13,03 mln | € 514.132,98 |
-| Enschede | 9,08 mln | € 358.486,37 |
-| Groningen | 11,07 mln | € 436.990,35 |
-| Helmond | 4,68 mln | € 184.688,55 |
-| Hengelo | 4,28 mln | € 168.806,24 |
-| ’s-Hertogenbosch | 6,85 mln | € 270.453,01 |
-| Leeuwarden | 5,62 mln | € 221.898,53 |
-| Maastricht | 7,54 mln | € 297.679,82 |
-| Nijmegen | 10,19 mln | € 402.049,27 |
-| Tilburg | 10,86 mln | € 428.368,52 |
-| Zwolle | 6,03 mln | € 237.780,83 |
-|   |   |   |
-| **totaal G15** | **115 mln** | **€ 4.537.802,16** |
-
-Het betreft de volgende plannen:
-
-- Almelo: actieplan economie en werk, wijk- en actieplannen;
-
-- Arnhem: actieplannen werk en economie, resp. wijkleefbaarheid en -veiligheid;
-
-- Breda: actieplan werk en economie, districtsprogramma’s 1997-2001;
-
-- Deventer: actieplan Ruimte voor economie en werk, wijkplannen Deventer wijkaanpak;
-
-- Eindhoven: programma leefbaarheid, wijkeconomie en veiligheid, actieplan werk en economie;
-
-- Enschede: actieplan werk en economie, intregrale wijkplannen;
-
-- Groningen: actieplan werk en economie, integrale actieplannen leefbaarheid, wijkveiligheidsplannen;
-
-- Helmond: actieplannen werk en economie, veiligheid, leefbaarheid;
-
-- Hengelo: actieplan werk en economie, actieplan leefbaarheid, van wijkbeheer naar wijkontwikkeling;
-
-- ’s-Hertogenbosch: actieplan werk en economie, actieplan leefbaarheid;
-
-- Leeuwarden: actieplannen economie en werk, leefbaarheid en veiligheid;
-
-- Maastricht: actieplannen Werk en economie, leefbaarheid, wonen en milieu en de buurtplannen en integrale veiligheidsplannen;
-
-- Nijmegen: actieplan werk en economie, wijk- en actieplannen;
-
-- Tilburg: actieplan economie en werk, het projectplan, wijkplannen Oud-Noord en Zuid;
-
-- Zwolle: actieplannen werk en economie, veiligheid, leefbaarheid.

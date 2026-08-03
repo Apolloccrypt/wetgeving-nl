@@ -1,44 +1,21 @@
 ---
 title: "Uitvoering wachtgeldvutmaatregel en wachtgeldvutgarantie"
 identifier: "BWBR0009122"
-country: "nl"
-rank: "circulaire"
-publication_date: "1998-01-01"
-last_updated: "1998-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009122"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6345303"
-version_id: "11001622"
-internal_id: "C14894461"
-label_id: "6334694"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009122/1998-01-01/0"
-intitule_bron: "Stcrt.1997-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-11"
-intitule_published: "1997-12-29"
-intitule_in_force: "1997-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-249"
-original_signed_date: "1997-12-11"
-original_published_date: "1997-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1997-249-p12-SC12050"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0009122&z=1998-01-01&g=1998-01-01"
-jci_1_0: "1.0:c:BWBR0009122&g=1998-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "1997-12-11"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 1998-01-01
+status: geldig
+toestand: 1998-01-01
+bron: "https://wetten.overheid.nl/BWBR0009122"
+opgehaald: 2026-08-03
 ---
-# Uitvoering wachtgeldvutmaatregel en wachtgeldvutgarantie
 
-Circulaire aan de Ministers
+# Uitvoering wachtgeldvutmaatregel en wachtgeldvutgarantie
 
 ### Inleiding
 
-Bij mijn [circulaire](onbekend) van 7 april 1995, nummer AD95/U289 informeerde ik U onder andere over de toepassing van de wachtgeldvutmaatregel en de wachtgeldvutgarantie gedurende de periode tussen 1 april 1995 en 1 januari 1996 en voor wat een aantal met name genoemde reorganisaties (Stb. 1996, 431) betreft, gedurende de periode tussen 1 april 1995 en 1 januari 1997.
+Bij mijn circulaire van 7 april 1995, nummer AD95/U289 informeerde ik U onder andere over de toepassing van de wachtgeldvutmaatregel en de wachtgeldvutgarantie gedurende de periode tussen 1 april 1995 en 1 januari 1996 en voor wat een aantal met name genoemde reorganisaties (Stb. 1996, 431) betreft, gedurende de periode tussen 1 april 1995 en 1 januari 1997.
 
 Zoals U bekend is, is de VUT-regeling per 1 april 1997 vervangen door een regeling van flexibel pensioen en uittreden (FPU). Om die reden is het vanaf 1 april 1997 voor ambtenaren die de wachtgeldvutmaatregel of de wachtgeldvutgarantie is toegezegd, niet meer mogelijk om de VUT-regeling in te stromen. In plaats daarvan ontvangen zij - zodra zij voldoen aan de gestelde criteria voor een VUT-uitkering1De ambtenaar kon aanspraak maken op een VUT-uitkering:–bij het bereiken van de leeftijd van 61 jaar indien hij een niet onderbroken diensttijd heeft van tenminste 10 jaren die direct voorafgaat aan de datum van het ontslag, of;–bij een diensttijd van 40 jaren een FPU-uitkering. Ambtenaren die reeds voor 1 april 1997 de VUT-regeling zijn ingestroomd blijven aanspraak maken op een VUT-uitkering.
 
@@ -48,7 +25,7 @@ Middels deze circulaire informeer ik U thans over de uitvoering van de wachtgeld
 
 De wachtgeldvutmaatregel is een maatregel die op het niveau van het Centraal georganiseerd overleg in ambtenarenzaken is overeengekomen voor de gehele overheid. De maatregel is destijds neergelegd in de Wet van 28 september 1989 (Stb. 478) en voorziet erin dat ambtenaren van 55 jaar of ouder aan wie reorganisatie-ontslag is verleend met aanspraak op een wachtgelduitkering in kunnen stromen in de VUT regeling zodra zij voldoen aan de eisen voor een VUT-uitkering. De wachtgeldvutmaatregel heeft een werkingsduur van 1 juli 1987 tot en met 30 september 1995.
 
-De wachtgeldvutgarantie houdt in dat ambtenaren aan wie deze garantie is toegekend geen enkel financieel nadeel ondervinden van de afschaffing of verslechtering van de [VUT-wet](onbekend). Aan de betrokken ambtenaar dient derhalve een uitkering te worden toegekend die de ambtenaar materieel gezien in de positie brengt alsof deze op de datum van het ontslag een VUT-aanspraak is toegekend op basis van de [VUT-wet](onbekend) zoals die op dat moment gold. Voor alle duidelijkheid vermeld ik nog dat de tijdelijke verlaging van de VUT leeftijd tot 60 jaar niet onder de werkingssfeer van de wachtgeldvutgarantie valt.
+De wachtgeldvutgarantie houdt in dat ambtenaren aan wie deze garantie is toegekend geen enkel financieel nadeel ondervinden van de afschaffing of verslechtering van de VUT-wet. Aan de betrokken ambtenaar dient derhalve een uitkering te worden toegekend die de ambtenaar materieel gezien in de positie brengt alsof deze op de datum van het ontslag een VUT-aanspraak is toegekend op basis van de VUT-wet zoals die op dat moment gold. Voor alle duidelijkheid vermeld ik nog dat de tijdelijke verlaging van de VUT leeftijd tot 60 jaar niet onder de werkingssfeer van de wachtgeldvutgarantie valt.
 
 In concreto betekent het voorgaande dat de hoogte van de bruto uitkering, het bruto-netto traject, de pensioenopbouw en de aanspraak op de tegemoetkoming in de ziektekosten is gegarandeerd. De wachtgeldvutgarantie heeft een werkingsduur van 1 juli 1987 tot en met 31 maart 1995. Voor een aantal met name genoemde reorganisaties2Tijdelijk Besluit SBK RO 1995-1996 (Stb. 1996, 431). is de werkingsduur van de wachtgeldvutgarantie verder verlengd tot en met 31 december 1996. Tenslotte geldt dat een aantal ministeries tot en met heden de wachtgeldvutgarantie is blijven toezeggen op basis van het geldende departementaal sociaal plan.
 
@@ -61,6 +38,10 @@ Er kunnen op basis van het voorgaande een aantal categorieën ambtenaren worden 
 ### 1. Categorie 1
 
 Ambtenaren aan wie – in de periode van 1 juli 1987 tot en met 30 september 1995 – de wachtgeldvutmaatregel in combinatie met de wachtgeldvutgarantie is toegezegd. In deze categorie zijn er ambtenaren die op grond van de toezeggingen materieel aanspraak kunnen maken op:
+
+- a. een VUT-uitkering bij het bereiken van de leeftijd van 61 jaar tegen een uitkeringspercentage van 80% (ontslag vanaf 1 april 1992 en voor 1 mei 1993);
+
+- b. een VUT-uitkering bij het bereiken van de leeftijd van 61 jaar tegen een uitkeringspercentage van 75% (ontslag vanaf 1 mei 1993).
 
 ### 2. Categorie 2
 
@@ -90,6 +71,22 @@ De uitvoering van de wachtgeldvutmaatregel en de wachtgeldvutgarantie zal – nu
 
 Ter informatie treft U hieronder een vergelijkend overzicht aan van de bruto netto trajecten van wachtgeld, FPU en VUT:
 
+|  | Wachtgeld | FPU | VUT |
+| --- | --- | --- | --- |
+| Bruto |  |  |  |
+| – inkomsten nevenwerkzaamheden | 80, 75 of 70% Leiden tot korting van het wachtgeld indien deze tesamen met het wachtgeld bezoldiging overschrijden | 75 of 70% Leiden tot korting op de basisuitkering tot ten hoogste 70% van de franchise | 80 of 75% Leiden tot korting op de VUT-uitkering tot ten hoogste de gehele VUT-uitkering |
+| – premie OP/NP | Bij ontslag vóór 1 april 1997 – Inhouding pensioenpremie (50%) Bij ontslag op of na 1 april 1997 – tot 62 jaar inhouding pensioenpremie. – tussen 62 en 65 geen inhouding pensioenpremie | ja, (1/2 tot 62 jaar) | ja, (1/2 tot 65 jaar) |
+| – premie FPU / Vut | neen | neen | neen |
+| – premie Ipbw | ja | neen | neen |
+| heffingsgrondslag | ja | ja | ja |
+| sociale zekerheid |  |  |  |
+| – premie pseudo WW | ja | neen | neen |
+| – premie pseudo WAO | ja | neen | neen |
+| + overhevelingstoeslag | ja | ja | ja |
+| Fiscaal loon | ja | ja | ja |
+| – loonheffing | ja | ja | ja |
+| Netto salaris | ja | ja | ja |
+
 Aangezien de VUT-regeling per 1 april 1997 is vervangen door de FPU-regeling zal de ambtenaar aan wie de wachtgeldvutmaatregel is toegezegd, bij het bereiken van de leeftijd van 61 jaar in de FPU-regeling kunnen instromen. Instroom in de FPU regeling is overigens voor hen verplicht bij het bereiken van de leeftijd van 61 jaar. Ambtenaren uit de categorie 3 blijven aanspraak maken op een wachtgelduitkering totdat de pensioengerechtigde leeftijd is bereikt.
 
 ### a. Wachtgeld als basis voor de uitvoering van de wachtgeldvutmaatregel en wachtgeldvutgarantie
@@ -98,7 +95,16 @@ De Stichting USZO is met de uitvoering van de wachtgeldvutmaatregel en de wachtg
 
 Voor ambtenaren die behoren tot de categorie 3 levert het wachtgeld ten opzicht van een VUT-uitkering de hiernavolgende – te compenseren – verschillen op:
 
-Ten aanzien van de verschillen bedoeld onder 1 tot en met 6, zal de Stichting USZO het navolgende uitvoeren.
+| Onderwerp | materieel verschillen wachtgeld | t.o.v. VUT-regeling |
+| --- | --- | --- |
+| 1. bruto uitkering | 80, 75 of 70% | 80 of 75% |
+| 2. Anticumulatie neveninkomsten | Korting van het wachtgeld indien de neveninkomsten tesamen met het wachtgeld de bezoldiging overschrijden | Algehele korting op de VUT-uitkering tot ten hoogste de gehele VUT-uitkering |
+| 3. inhouding pensioenpremie | Bij ontslag vóór 1 april 1997 – Inhouding pensioenpremie (50%) Bij ontslag op of na 1 april 1997 – tot 62 jaar inhouding pensioenpremie. – tussen 62 en 65 geen inhouding pensioenpremie | Inhouding pensioenpremie (50%) |
+| 4. opbouw pensioenaanspraken | Bij ontslag vóór 1 april 1997 Gehele periode is voor 50% voor pensioen geldig Bij ontslag op of na 1 april 1997 – tot 62 jaar telt de wachtgeldtijd voor de helft mee als pensioengeldige tijd – vanaf 62 jaar geen pensioen geldige tijd | – Gehele periode is voor 50% voor pensioen geldig |
+| 5. netto uitkering | inhouding pseudo premie | geen inhouding pseudo premies |
+| 6. tegemoetkoming ziektekosten | geen | Tegemoetkoming in de ziektekosten op basis van BTZR |
+
+Ten aanzien van de verschillen bedoeld onder [1 tot en met 6](https://wetten.overheid.nl/BWBR0009122), zal de Stichting USZO het navolgende uitvoeren.
 
 ### 1. Het bruto wachtgeld
 
@@ -108,7 +114,7 @@ N.B. Bij het ministerie van Volksgezondheid, Welzijn en Sport is een aantal ambt
 
 ### 2. Anticumulatieregeling
 
-De anticumulatieregeling zoals die voor de VUT-regeling gold zal worden toegepast. Een en ander houdt in dat alle neveninkomsten op de uitkering worden gekort tenzij de ambtenaar de inkomsten tenminste één jaar voor de datum van ingang van het ontslag of de non-activiteit genoot. Verwezen wordt naar [artikel 7 van de Wet uitkering wegens vrijwillig vervroegd uittreden](onbekend).
+De anticumulatieregeling zoals die voor de VUT-regeling gold zal worden toegepast. Een en ander houdt in dat alle neveninkomsten op de uitkering worden gekort tenzij de ambtenaar de inkomsten tenminste één jaar voor de datum van ingang van het ontslag of de non-activiteit genoot. Verwezen wordt naar artikel 7 van de Wet uitkering wegens vrijwillig vervroegd uittreden.
 
 ### 3. Inhouding werknemers- en werkgeversdeel pensioenpremie
 
@@ -120,7 +126,7 @@ De totale pensioenpremie (werknemers- en werkgeversdeel) zal aan de Stichting Pe
 
 ### 5. De netto wachtgeld-uitkering
 
-Aangezien het bruto netto traject van wachtgeld verschilt van het bruto-netto traject van de VUT regeling, levert het gestelde onder 1 niet in alle gevallen een juist netto resultaat op. In die gevallen zal het bruto wachtgeld verder worden verhoogd totdat de netto wachtgeld uitkering overeenkomt met de netto VUT uitkering zoals die zou zijn toegekend indien de VUT-regeling niet zou zijn vervangen door de FPU-regeling.
+Aangezien het bruto netto traject van wachtgeld verschilt van het bruto-netto traject van de VUT regeling, levert het gestelde [onder 1](https://wetten.overheid.nl/BWBR0009122) niet in alle gevallen een juist netto resultaat op. In die gevallen zal het bruto wachtgeld verder worden verhoogd totdat de netto wachtgeld uitkering overeenkomt met de netto VUT uitkering zoals die zou zijn toegekend indien de VUT-regeling niet zou zijn vervangen door de FPU-regeling.
 
 Om uitvoeringstechnische redenen zal het totale verhogingspercentage per 1 april 1997 collectief en periodiek worden vastgesteld. (Zie ook hierna).
 
@@ -138,9 +144,22 @@ Voor de betrokken ambtenaar betekent het voorgaande dat met ingang van de dag wa
 
 Zodra de betrokken ambtenaren uit de categorieën 1 en 2 ingevolge artikel 8.1 van het FPU-reglement basis- en aanvullende uitkering, aanspraak heeft op een FPU-uitkering zal de aanspraak op een wachtgelduitkering worden beëindigd met ingang van de eerste dag van de maand daaropvolgende. Dit is het eerste tijdstip waarop de ambtenaar voldoet aan één van de navolgende voorwaarden:
 
+- – de eerste dag van de maand volgend op die waarin de ambtenaar de leeftijd van 61 jaar heeft bereikt, mits hij voldoet aan de diensttijdeis van 10 jaar en zo hij daaraan nog niet voldoet het eerste moment waarop hij daaraan wel voldoet;
+
+- – het tijdstip waarop de ambtenaar voldoet aan de diensttijdeis van 40 jaar (voor 1 april 2000) of 41 jaar (voor 1 april 2003).
+
 Ten aanzien van betrokken ambtenaren worden de navolgende materiële verschillen tussen de FPU-uitkering en de VUT-uitkering gecompenseerd.
 
-Ten aanzien van de verschillen bedoeld onder 1 tot en met 6, zal de Stichting ABP het navolgende uitvoeren.
+| Onderwerp | materiële verschillen FPU-regeling | t.o.v. VUT-regeling |
+| --- | --- | --- |
+| 1. berekeningsbasis | Het salaris op 1 januari van het jaar voorafgaand aan de ingangsdatum van de FPU uitkering | de laatst genoten bezoldiging |
+| 2. indexering | – volgens het gewogen berekeningsbasis gemiddelde van de loonontwikkeling in de overheidssectoren – indexering tweemaal per jaar, te weten op 1 januari en op 1 juli | de algemene salarismaatregelen in de sector Rijk worden gevolgd |
+| 3. bruto uitkering | 75 of 70% | 80 of 75% |
+| 4. anticumulatie inkomsten | Leiden tot korting op de basisuitkering tot ten hoogste 70% van de franchise | Leiden tot korting op de VUT- uitkering tot ten hoogste de gehele VUT-uitkering |
+| 5. inhouding pensioenpremie | – tot 62 jaar inhouding pensioenpremie (1/2) – tussen 62 en 65 geen inhouding pensioenpremie | gedurende gehele uitkeringsduur inhouding pensioenpremie |
+| 6. opbouw pensioenaanspraken | – tot 62 jaar telt de wachtgeld tijd voor de helft mee als pensioengeldige tijd – vanaf 62 jaar geen pensioen geldige tijd | gedurende gehele uitkerings- duur wordt de helft van de tijd als pensioen geldige tijd opgebouwd |
+
+Ten aanzien van de verschillen bedoeld onder [1 tot en met 6](https://wetten.overheid.nl/BWBR0009122), zal de Stichting ABP het navolgende uitvoeren.
 
 ### 1. berekeningsbasis
 
@@ -148,11 +167,11 @@ De FPU uitkering zal worden aangevuld met een aanvullende FPU-uitkering tot het 
 
 ### 2. indexering berekeningsbasis
 
-De som van de FPU-uitkering vermeerderd met de aanvullende uitkering zal worden geïndexeerd volgens de systematiek zoals die gold voor de [Wet vrijwillig vervroegd uittreden](onbekend). De algemene salarismaatregelen in de sector Rijk zullen daarbij worden gevolgd.
+De som van de FPU-uitkering vermeerderd met de aanvullende uitkering zal worden geïndexeerd volgens de systematiek zoals die gold voor de Wet vrijwillig vervroegd uittreden. De algemene salarismaatregelen in de sector Rijk zullen daarbij worden gevolgd.
 
 ### 3. bruto uitkering
 
-Ambtenaren uit de categorie 1, onderdeel a, zullen een uitkering ontvangen ter grootte van 80% van de laatstgenoten bezoldiging. De overigen ontvangen een uitkering ter grootte van 75% van de laatstgenoten bezoldiging.
+Ambtenaren uit de [categorie 1, onderdeel a](https://wetten.overheid.nl/BWBR0009122), zullen een uitkering ontvangen ter grootte van 80% van de laatstgenoten bezoldiging. De overigen ontvangen een uitkering ter grootte van 75% van de laatstgenoten bezoldiging.
 
 ### 4. anticumulatie inkomsten
 
@@ -199,95 +218,3 @@ De Stichting Pensioenfonds ABP zal op een vergelijkbare wijze verantwoording afl
 ### Datum ingang
 
 De Stichting USZO en de Stichting Pensioenfonds ABP zullen de wachtgeldvutmaatregel en de wachtgeldvutgarantie zoals in deze circulaire verwoord, uitvoeren ingaande 1 januari 1998. Aangezien er reeds met ingang van 1 april 1997 aanspraken kunnen zijn ontstaan op basis van de wachtgeldvutmaatregel en de wachtgeldvutgarantie, zal aan de uitvoering door de Stichting USZO en de Stichting Pensioenfonds ABP terugwerkende kracht worden verleend uiterlijk tot en met 1 april 1997.
-
-## Bijlage 1. Overzicht percentage wachtgeld (per 1 april 1997) behorende bij een VUT% van 80%
-
-| **Schaal** | **Maximum van de schaal** | **Bruto VUT 80%** | **Netto VUT 80%** | **Wachtgeld %** |
-| --- | --- | --- | --- | --- |
-| Schaal 1 | 2869 | 2511 | 1960 | 84,00% |
-| Schaal 2 | 3163 | 2753 | 2123 | 84,50% |
-| Schaal 3 | 3460 | 3011 | 2297 | 85,00% |
-| Schaal 4 | 3658 | 3183 | 2412 | 85,00% |
-| Schaal 5 | 3855 | 3355 | 2529 | 85,50% |
-| Schaal 6 | 4053 | 3527 | 2644 | 85,50% |
-| Schaal 7 | 4446 | 3869 | 2874 | 86,00% |
-| Schaal 8 | 5032 | 4379 | 3183 | 86,50% |
-| Schaal 9 | 5691 | 4953 | 3495 | 87,00% |
-| Schaal 10 | 6350 | 5527 | 3803 | 87,50% |
-| Schaal 11 | 7267 | 6325 | 4233 | 87,00% |
-| Schaal 12 | 8282 | 7208 | 4686 | 86,50% |
-| Schaal 13 | 9299 | 8093 | 5118 | 85,50% |
-| Schaal 14 | 10317 | 8979 | 5479 | 85,00% |
-| Schaal 15 | 11336 | 9866 | 5826 | 84,50% |
-| Schaal 16 | 12353 | 10752 | 6177 | 84,00% |
-| Schaal 17 | 13371 | 11638 | 6523 | 84,00% |
-| Schaal 18 | 14480 | 12603 | 6897 | 83,50% |
-
-## Bijlage 2. Overzicht percentage wachtgeld (per 1 april 1997) behorende bij een VUT% van 75%
-
-| **Schaal** | **Maximum van de schaal** | **Bruto VUT 75%** | **Netto VUT 75%** | **Wachtgeld %** |
-| --- | --- | --- | --- | --- |
-| Schaal 1 | 2869 | 2432 | 1903 | 81,00% |
-| Schaal 2 | 3163 | 2581 | 2002 | 78,50% |
-| Schaal 3 | 3460 | 2823 | 2164 | 79,00% |
-| Schaal 4 | 3658 | 2984 | 2275 | 79,50% |
-| Schaal 5 | 3855 | 3145 | 2385 | 80,00% |
-| Schaal 6 | 4053 | 3307 | 2491 | 80,00% |
-| Schaal 7 | 4446 | 3627 | 2709 | 80,50% |
-| Schaal 8 | 5032 | 4106 | 3029 | 81,00% |
-| Schaal 9 | 5691 | 4643 | 3326 | 81,50% |
-| Schaal 10 | 6350 | 5181 | 3613 | 81,50% |
-| Schaal 11 | 7267 | 5929 | 4013 | 82,00% |
-| Schaal 12 | 8282 | 6758 | 4460 | 81,50% |
-| Schaal 13 | 9299 | 7587 | 4867 | 80,50% |
-| Schaal 14 | 10317 | 8418 | 5254 | 80,00% |
-| Schaal 15 | 11336 | 9250 | 5581 | 79,50% |
-| Schaal 16 | 12353 | 10180 | 5907 | 79,00% |
-| Schaal 17 | 13371 | 10910 | 6228 | 79,00% |
-| Schaal 18 | 14480 | 11815 | 6582 | 78,50% |
-
-## Bijlage 3. Overzicht percentage wachtgeld (per 1 januari 1998) behorende bij een VUT% van 80%
-
-| **Schaal** | **Maximum van de schaal** | **Bruto VUT 80%** | **Netto VUT 80%** | **Wachtgeld %** |
-| --- | --- | --- | --- | --- |
-| Schaal 1 | 2922 | 2558 | 1928 | 81,5% |
-| Schaal 2 | 3216 | 2799 | 2081 | 82,0% |
-| Schaal 3 | 3508 | 3053 | 2243 | 82,0% |
-| Schaal 4 | 3706 | 3225 | 2349 | 82,0% |
-| Schaal 5 | 3903 | 3397 | 2459 | 82,5% |
-| Schaal 6 | 4101 | 3569 | 2569 | 82,5% |
-| Schaal 7 | 4494 | 3913 | 2778 | 83,0% |
-| Schaal 8 | 5067 | 4410 | 3102 | 83,5% |
-| Schaal 9 | 5724 | 4982 | 3424 | 83,5% |
-| Schaal 10 | 6373 | 5547 | 3707 | 84,0% |
-| Schaal 11 | 7285 | 6340 | 4104 | 84,0% |
-| Schaal 12 | 8296 | 7220 | 4540 | 83,5% |
-| Schaal 13 | 9313 | 8106 | 4973 | 83,5% |
-| Schaal 14 | 10326 | 8987 | 5403 | 83,0% |
-| Schaal 15 | 11341 | 9871 | 5799 | 82,5% |
-| Schaal 16 | 12353 | 10752 | 6140 | 82,5% |
-| Schaal 17 | 13371 | 11638 | 6487 | 82,5% |
-| Schaal 18 | 14480 | 12603 | 6865 | 82,0% |
-
-## Bijlage 4. Overzicht percentage wachtgeld (per 1 januari 1998) behorende bij een VUT% van 75%
-
-| **Schaal** | **Maximum van de schaal** | **Bruto VUT 75%** | **Netto VUT 75%** | **Wachtgeld %** |
-| --- | --- | --- | --- | --- |
-| Schaal 1 | 2922 | 2432 | 1847 | 77,00% |
-| Schaal 2 | 3216 | 2624 | 1968 | 76,50% |
-| Schaal 3 | 3508 | 2862 | 2118 | 76,50% |
-| Schaal 4 | 3706 | 3024 | 2221 | 77,00% |
-| Schaal 5 | 3903 | 3184 | 2323 | 77,00% |
-| Schaal 6 | 4101 | 3346 | 2425 | 77,50% |
-| Schaal 7 | 4494 | 3669 | 2622 | 77,50% |
-| Schaal 8 | 5067 | 4134 | 2923 | 78,00% |
-| Schaal 9 | 5724 | 4670 | 3264 | 78,50% |
-| Schaal 10 | 6373 | 5200 | 3529 | 78,50% |
-| Schaal 11 | 7285 | 5944 | 3901 | 78,50% |
-| Schaal 12 | 8296 | 6769 | 4312 | 78,50% |
-| Schaal 13 | 9313 | 7599 | 4717 | 78,50% |
-| Schaal 14 | 10326 | 8426 | 5121 | 78,00% |
-| Schaal 15 | 11341 | 9254 | 5527 | 78,00% |
-| Schaal 16 | 12353 | 10080 | 5876 | 77,50% |
-| Schaal 17 | 13371 | 10910 | 6198 | 77,50% |
-| Schaal 18 | 14480 | 11815 | 6556 | 77,00% |

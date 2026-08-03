@@ -1,377 +1,348 @@
 ---
 title: "Wet van 17 december 1997 tot aanpassing van wetgeving aan de invoering van het geregistreerd partnerschap in Boek 1 van het Burgerlijk Wetboek (Aanpassingswet geregistreerd partnerschap)"
+citeertitel: "Aanpassingswet geregistreerd partnerschap"
 identifier: "BWBR0009190"
-country: "nl"
-rank: "wet"
-publication_date: "1999-09-01"
-last_updated: "1999-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009190"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "3311563"
-version_id: "5081112"
-internal_id: "C5261511"
-label_id: "3292774"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009190/1999-09-01/0"
-intitule_bron: "Stb.1997-660"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-17"
-intitule_published: "1997-12-23"
-intitule_in_force: "1997-12-29"
-intitule_status: "goed"
-original_publication: "Stb.1997-660"
-original_signed_date: "1997-12-17"
-original_published_date: "1997-12-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "25407"
-original_url_id: "stb-1997-660"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0009190&z=1999-09-01&g=1999-09-01"
-jci_1_0: "1.0:c:BWBR0009190&g=1999-09-01"
-citeertitel_status: "officieel"
-short_title: "Aanpassingswet geregistreerd partnerschap"
-signed_date: "1997-12-17"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 1999-09-01
+status: geldig
+toestand: 1999-09-01
+bron: "https://wetten.overheid.nl/BWBR0009190"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 17 december 1997 tot aanpassing van wetgeving aan de invoering van het geregistreerd partnerschap in Boek 1 van het Burgerlijk Wetboek (Aanpassingswet geregistreerd partnerschap)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het met het oog op de invoering van het geregistreerd partnerschap in [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656) wenselijk is andere wetten daarmee in overeenstemming te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Ministerie van Algemene Zaken
 
 ##### Artikel 1
 
-Wijzigt de Wet verplaatsing bevolking.
+*Wijzigt de Wet verplaatsing bevolking.*
 
 ##### Artikel 2
 
-Wijzigt de Wet ministeriële verantwoordelijkheid.
+*Wijzigt de Wet ministeriële verantwoordelijkheid.*
 
 ### Hoofdstuk 2. Ministerie van Binnenlandse Zaken
 
 ##### Artikel 1
 
-Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.
+*Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.*
 
 ##### Artikel 2
 
-Wijzigt de Wet op de lijkbezorging.
+*Wijzigt de Wet op de lijkbezorging.*
 
 ##### Artikel 3
 
-Wijzigt de Wet rechtspositionele voorzieningen rampbestrijders.
+*Wijzigt de Wet rechtspositionele voorzieningen rampbestrijders.*
 
 ##### Artikel 4
 
-Wijzigt de Wet schadeloosstelling leden Tweede Kamer.
+*Wijzigt de Wet schadeloosstelling leden Tweede Kamer.*
 
 ##### Artikel 5
 
-Wijzigt de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement.
+*Wijzigt de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement.*
 
 ##### Artikel 6
 
-Wijzigt de Kieswet.
+*Wijzigt de Kieswet.*
 
 ##### Artikel 7
 
-Wijzigt de Wet buitengewone bevoegdheden burgerlijk gezag.
+*Wijzigt de Wet buitengewone bevoegdheden burgerlijk gezag.*
 
 ##### Artikel 8
 
-Wijzigt de Algemene wet gelijke behandeling.
+*Wijzigt de Algemene wet gelijke behandeling.*
 
 ##### Artikel 9
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ### Hoofdstuk 3. Ministerie van Defensie
 
 ##### Artikel 1
 
-Wijzigt de Wet gewetensbezwaren militaire dienst.
+*Wijzigt de Wet gewetensbezwaren militaire dienst.*
 
 ##### Artikel 2
 
-Wijzigt de Oorlogswet voor Nederland.
+*Wijzigt de Oorlogswet voor Nederland.*
 
 ##### Artikel 3
 
-Wijzigt de Uitkeringswet gewezen militairen.
+*Wijzigt de Uitkeringswet gewezen militairen.*
 
 ### Hoofdstuk 4. Ministerie van Economische zaken
 
 ##### Artikel 1
 
-Wijzigt de Vestigingswet Bedrijven 1954.
+*Wijzigt de Vestigingswet Bedrijven 1954.*
 
 ##### Artikel 2
 
-Wijzigt de Wet op de Registeraccountants.
+*Wijzigt de Wet op de Registeraccountants.*
 
 ##### Artikel 3
 
-Wijzigt de Wet op de Accountants-Administratieconsulenten.
+*Wijzigt de Wet op de Accountants-Administratieconsulenten.*
 
 ##### Artikel 4
 
-Wijzigt de Wet op het consumentenkrediet.
+*Wijzigt de Wet op het consumentenkrediet.*
 
 ### Hoofdstuk 5. Ministerie van Financiën
 
 ##### Artikel 1
 
-Wijzigt de Comptabiliteitswet.
+*Wijzigt de Comptabiliteitswet.*
 
 ##### Artikel 2
 
-Wijzigt de Natuurschoonwet 1928.
+*Wijzigt de Natuurschoonwet 1928.*
 
 ##### Artikel 3
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel 4
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel 5
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel 6
 
-Wijzigt de Wet op de inkomstenbelasting 1964.
+*Wijzigt de Wet op de inkomstenbelasting 1964.*
 
 ##### Artikel 7
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel 8
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel 9
 
-Wijzigt de Wet op de vermogensbelasting 1964.
+*Wijzigt de Wet op de vermogensbelasting 1964.*
 
 ##### Artikel 10
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel 11
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ### Hoofdstuk 6. Ministerie van Justitie
 
 ##### Artikel 1
 
-Wijzigt Boek 1, Boek 2, Boek 3, Boek 4, Boek 6, Boek 7 en Boek 7A van het Burgerlijk Wetboek.
+*Wijzigt Boek 1, Boek 2, Boek 3, Boek 4, Boek 6, Boek 7 en Boek 7A van het Burgerlijk Wetboek.*
 
 ##### Artikel 2
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel 3
 
-Wijzigt het Wetboek van Koophandel.
+*Wijzigt het Wetboek van Koophandel.*
 
 ##### Artikel 4
 
-Wijzigt de Faillissementswet.
+*Wijzigt de Faillissementswet.*
 
 ##### Artikel 5
 
-Wijzigt de Wet op de rechtsbijstand.
+*Wijzigt de Wet op de rechtsbijstand.*
 
 ##### Artikel 6
 
-Wijzigt de Wet rechten burgerlijke stand.
+*Wijzigt de Wet rechten burgerlijke stand.*
 
 ##### Artikel 7
 
-Wijzigt de Wet tarieven in burgerlijke zaken.
+*Wijzigt de Wet tarieven in burgerlijke zaken.*
 
 ##### Artikel 8
 
-Wijzigt de Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds.
+*Wijzigt de Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds.*
 
 ##### Artikel 9
 
-Wijzigt de Wet op het Notarisambt.
+*Wijzigt de Wet op het Notarisambt.*
 
 ##### Artikel 10
 
-Wijzigt de Advocatenwet.
+*Wijzigt de Advocatenwet.*
 
 ##### Artikel 11
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
 ##### Artikel 12
 
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
 
 ##### Artikel 13
 
-Wijzigt de Wet verevening pensioenrechten bij scheiding.
+*Wijzigt de Wet verevening pensioenrechten bij scheiding.*
 
 ##### Artikel 14
 
-Wijzigt de Auteurswet 1912.
+*Wijzigt de Auteurswet 1912.*
 
 ##### Artikel 15
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel 18
 
-Wijzigt het Wetboek van Militair Strafrecht.
+*Wijzigt het Wetboek van Militair Strafrecht.*
 
 ##### Artikel 19
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel 20
 
-Wijzigt de Wet schadefonds geweldsmisdrijven.
+*Wijzigt de Wet schadefonds geweldsmisdrijven.*
 
 ##### Artikel 21
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel 22
 
-Wijzigt de Gerechtsdeurwaarderswet.
+*Wijzigt de Gerechtsdeurwaarderswet.*
 
 ##### Artikel 23
 
-Wijzigt de Faillissementswet.
+*Wijzigt de Faillissementswet.*
 
 ##### Artikel 24
 
-Wijzigt de Wet op het notarisambt.
+*Wijzigt de Wet op het notarisambt.*
 
 ##### Artikel 25
 
-Wijzigt de Wijzigingswet Boek 1 Burgerlijk Wetboek en Wetboek van Burgerlijke Rechtsvordering (opneming van bepalingen voor het geregistreerd partnerschap).
+*Wijzigt de Wijzigingswet Boek 1 Burgerlijk Wetboek en Wetboek van Burgerlijke Rechtsvordering (opneming van bepalingen voor het geregistreerd partnerschap).*
 
 ##### Artikel 26
 
-Wijzigt de Wijzigingswet Burgerlijk Wetboek, Buitengewoon Besluit Arbeidsverhoudingen 1945, enz. (Reparatiewet flexibiliteit en zekerheid).
+*Wijzigt de Wijzigingswet Burgerlijk Wetboek, Buitengewoon Besluit Arbeidsverhoudingen 1945, enz. (Reparatiewet flexibiliteit en zekerheid).*
 
 ##### Artikel 27
 
-Wijzigt de Wijzigingswet Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds.
+*Wijzigt de Wijzigingswet Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds.*
 
 ##### Artikel 28
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 29
 
-Wijzigt de Wet herziening afstammingsrecht en regeling van adoptie.
+*Wijzigt de Wet herziening afstammingsrecht en regeling van adoptie.*
 
 ### Hoofdstuk 7. Ministerie van Landbouw, Natuurbeheer en Visserij
 
 ##### Artikel 1
 
-Wijzigt de Jachtwet.
+*Wijzigt de Jachtwet.*
 
 ##### Artikel 2
 
-Wijzigt de Zaaizaad- en Plantgoedwet.
+*Wijzigt de Zaaizaad- en Plantgoedwet.*
 
 ##### Artikel 3
 
-Wijzigt de Wet agrarisch grondverkeer.
+*Wijzigt de Wet agrarisch grondverkeer.*
 
 ##### Artikel 4
 
-Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.
+*Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.*
 
 ##### Artikel 5
 
-Wijzigt de Pachtwet.
+*Wijzigt de Pachtwet.*
 
 ### Hoofdstuk 8. Ministerie van Onderwijs, Cultuur en Wetenschappen.
 
 ##### Artikel 1
 
-Wijzigt de Wet op de studiefinanciering.
+*Wijzigt de Wet op de studiefinanciering.*
 
 ##### Artikel 2
 
-Wijzigt de Wet tegemoetkoming studiekosten.
+*Wijzigt de Wet tegemoetkoming studiekosten.*
 
 ##### Artikel 3
 
-Wijzigt de Mediawet.
+*Wijzigt de Mediawet.*
 
 ### Hoofdstuk 9. Ministerie van Sociale Zaken en Werkgelegenheid
 
 ##### Artikel 1
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel 2
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
 ##### Artikel 3
 
-Wijzigt de Algemene Arbeidsongeschiktheidswet.
+*Wijzigt de Algemene Arbeidsongeschiktheidswet.*
 
 ##### Artikel 4
 
-Wijzigt de Toeslagenwet.
+*Wijzigt de Toeslagenwet.*
 
 ##### Artikel 5
 
-Wijzigt de Wet Werkloosheidsvoorziening.
+*Wijzigt de Wet Werkloosheidsvoorziening.*
 
 ##### Artikel 6
 
-Wijzigt de Invoeringswet stelselherziening sociale zekerheid.
+*Wijzigt de Invoeringswet stelselherziening sociale zekerheid.*
 
 ##### Artikel 7
 
-Wijzigt de Algemene Ouderdomswet.
+*Wijzigt de Algemene Ouderdomswet.*
 
 ##### Artikel 8
 
-Wijzigt de Algemene nabestaandenwet.
+*Wijzigt de Algemene nabestaandenwet.*
 
 ##### Artikel 9
 
-Wijzigt de Coördinatiewet sociale verzekeringen.
+*Wijzigt de Coördinatiewet sociale verzekeringen.*
 
 ##### Artikel 10
 
-Wijzigt de Algemene bijstandswet.
+*Wijzigt de Algemene bijstandswet.*
 
 ##### Artikel 11
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.*
 
 ##### Artikel 12
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.*
 
 ##### Artikel 13
 
@@ -379,121 +350,121 @@ Na de inwerkingtreding van deze wet berust de algemene maatregel van bestuur, op
 
 ##### Artikel 14
 
-Wijzigt de Wet voorzieningen gehandicapten.
+*Wijzigt de Wet voorzieningen gehandicapten.*
 
 ##### Artikel 15
 
-Wijzigt de Pensioen- en spaarfondsenwet.
+*Wijzigt de Pensioen- en spaarfondsenwet.*
 
 ##### Artikel 16
 
-Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.
+*Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.*
 
 ##### Artikel 17
 
-Wijzigt de Arbeidswet 1919.
+*Wijzigt de Arbeidswet 1919.*
 
 ##### Artikel 18
 
-Wijzigt de Noodwet Arbeidsvoorziening.
+*Wijzigt de Noodwet Arbeidsvoorziening.*
 
 ##### Artikel 19
 
-Wijzigt de Wet op de loonvorming.
+*Wijzigt de Wet op de loonvorming.*
 
 ##### Artikel 20
 
-Wijzigt het Buitengewoon Besluit Arbeidsverhoudingen 1945.
+*Wijzigt het Buitengewoon Besluit Arbeidsverhoudingen 1945.*
 
 ##### Artikel 21
 
-Wijzigt de Wet op de bedrijfsorganisatie.
+*Wijzigt de Wet op de bedrijfsorganisatie.*
 
 ##### Artikel 22
 
-Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
+*Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.*
 
 ##### Artikel 23
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorzieningen jong-gehandicapten.
+*Wijzigt de Wet arbeidsongeschiktheidsvoorzieningen jong-gehandicapten.*
 
 ##### Artikel 24
 
-Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.
+*Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.*
 
 ##### Artikel 25
 
-Wijzigt de Wet inkomensvoorziening kunstenaars.
+*Wijzigt de Wet inkomensvoorziening kunstenaars.*
 
 ### Hoofdstuk 10. Ministerie van Verkeer en Waterstaat
 
 ##### Artikel 1
 
-Wijzigt de Loodsenwet.
+*Wijzigt de Loodsenwet.*
 
 ##### Artikel 2
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel 3
 
-Wijzigt de Wet stimulering zeescheepvaart.
+*Wijzigt de Wet stimulering zeescheepvaart.*
 
 ### Hoofdstuk 11. Ministerie van Volksgezondheid, Welzijn en Sport
 
 ##### Artikel 1
 
-Wijzigt de Wet buitengewoon pensioen 1940-1945.
+*Wijzigt de Wet buitengewoon pensioen 1940-1945.*
 
 ##### Artikel 2
 
-Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
+*Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.*
 
 ##### Artikel 3
 
-Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.
+*Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.*
 
 ##### Artikel 4
 
-Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.
+*Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.*
 
 ##### Artikel 5
 
-Wijzigt de Wet buitengewoon pensioen Indisch verzet.
+*Wijzigt de Wet buitengewoon pensioen Indisch verzet.*
 
 ##### Artikel 6
 
-Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
+*Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.*
 
 ##### Artikel 7
 
-Wijzigt de Drank- en Horecawet.
+*Wijzigt de Drank- en Horecawet.*
 
 ##### Artikel 8
 
-Wijzigt de Algemene Wet Bijzondere Ziektekosten.
+*Wijzigt de Algemene Wet Bijzondere Ziektekosten.*
 
 ##### Artikel 9
 
-Wijzigt de Ziekenfondswet.
+*Wijzigt de Ziekenfondswet.*
 
 ##### Artikel 10
 
-Wijzigt de Wet op de orgaandonatie.
+*Wijzigt de Wet op de orgaandonatie.*
 
 ##### Artikel 11
 
-Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.
+*Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.*
 
 ### Hoofdstuk 12. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
 ##### Artikel 1
 
-Wijzigt de Woonwagenwet.
+*Wijzigt de Woonwagenwet.*
 
 ##### Artikel 2
 
-Wijzigt de Kadasterwet.
+*Wijzigt de Kadasterwet.*
 
 ### Hoofdstuk 13. Slotbepalingen
 
@@ -508,5 +479,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 3
 
 Deze wet wordt aangehaald als: Aanpassingswet geregistreerd partnerschap.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

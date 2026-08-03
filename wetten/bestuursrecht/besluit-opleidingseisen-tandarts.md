@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 3 oktober 1997, houdende regels inzake de opleiding tot tandarts (Besluit opleidingseisen tandarts)"
+citeertitel: "Besluit opleidingseisen tandarts"
 identifier: "BWBR0008949"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008949"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "629143"
-version_id: "913802"
-internal_id: "C913801"
-label_id: "610424"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008949/2026-01-01/0"
-intitule_bron: "Stb.1997-480"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-10-03"
-intitule_published: "1997-10-28"
-intitule_in_force: "1997-11-27"
-intitule_status: "goed"
-original_publication: "Stb.1997-480"
-original_signed_date: "1997-10-03"
-original_published_date: "1997-10-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-480"
-entry_into_force_date: "1997-12-01"
-jci_1_3: "jci1.3:c:BWBR0008949&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0008949&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit opleidingseisen tandarts"
-signed_date: "1997-10-03"
-entry_into_force: "1997-12-01"
+publicatiedatum: 1997-12-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0008949"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 3 oktober 1997, houdende regels inzake de opleiding tot tandarts (Besluit opleidingseisen tandarts)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 1 oktober 1996, CSZ/BenO-9610517);
-
-Gelet op [artikel 20 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=20);
-
-Gezien het advies van de Raad voor de beroepen in de individuele gezondheidszorg (advies van 16 februari 1996, B1/'96);
-
-De Raad van State gehoord (advies van 3 februari 1997, No. W13.96.0461);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 29 september 1997, CSZ/BO 9715396;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -59,6 +25,14 @@ In dit besluit wordt verstaan onder «wet»: de [Wet op de beroepen in de indivi
 Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) van de wet ingestelde register van tandartsen te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot tandarts die voldoet aan de [artikelen 2a tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) van dit besluit.
 
 #### § 2. Opleidingseisen
+
+##### Artikel 2a
+
+1. De opleiding tot tandarts duurt ten minste vijf jaar en omvat ten minste 5.000 uur voltijds theoretisch en praktisch onderwijs.
+
+2. Het theoretisch en praktisch onderwijs voldoen ten minste aan de eisen, gesteld in punt 5.3.1 van Bijlage V van Richtlijn 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU 2005, L 255).
+
+3. Een wijziging van punt 5.3.1 van Bijlage V, bedoeld in het tweede lid, gaat voor de toepassing van het tweede lid gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 3
 
@@ -203,17 +177,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen tandarts.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 2a
-
-1. De opleiding tot tandarts duurt ten minste vijf jaar en omvat ten minste 5.000 uur voltijds theoretisch en praktisch onderwijs.
-
-2. Het theoretisch en praktisch onderwijs voldoen ten minste aan de eisen, gesteld in punt 5.3.1 van Bijlage V van [Richtlijn 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU 2005, L 255).
-
-3. Een wijziging van punt 5.3.1 van Bijlage V, bedoeld in het tweede lid, gaat voor de toepassing van het tweede lid gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
-
-#### § 3. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

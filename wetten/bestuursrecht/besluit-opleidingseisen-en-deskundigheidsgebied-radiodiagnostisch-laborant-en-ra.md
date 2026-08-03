@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 19 november 1997, houdende regels inzake de opleiding tot en de deskundigheid van de radiodiagnostisch laborant en de radiotherapeutisch laborant (Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant)"
+citeertitel: "Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant"
 identifier: "BWBR0009024"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009024"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "643843"
-version_id: "933202"
-internal_id: "C933201"
-label_id: "624894"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009024/2023-01-01/0"
-intitule_bron: "Stb.1997-551"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-11-19"
-intitule_published: "1997-11-27"
-intitule_in_force: "1997-11-27"
-intitule_status: "goed"
-original_publication: "Stb.1997-551"
-original_signed_date: "1997-11-19"
-original_published_date: "1997-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-551"
-entry_into_force_date: "1997-12-01"
-jci_1_3: "jci1.3:c:BWBR0009024&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0009024&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant"
-signed_date: "1997-11-19"
-entry_into_force: "1997-12-01"
+publicatiedatum: 1997-12-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0009024"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 19 november 1997, houdende regels inzake de opleiding tot en de deskundigheid van de radiodiagnostisch laborant en de radiotherapeutisch laborant (Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 juni 1997, CSZ/BO-978518;
-
-Gelet op [artikel 34 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34);
-
-Gezien het advies van de Raad voor de beroepen in de individuele gezondheidszorg (adviezen van 8 juli 1994 en 4 oktober 1996);
-
-De Raad van State gehoord (advies van 11 november 1997, No. W13.97.0347);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 17 november 1997, CSZ/BO-9718 054;
-
-Hebben goedgevonden en verstaan:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
@@ -110,7 +76,7 @@ Een opleiding voor medisch beeldvormende en radiotherapeutische technieken als b
 
 3. De aanwijzing wordt ingetrokken, indien blijkt dat de examenorganisatie niet meer aan de in het tweede lid genoemde voorwaarden voldoet.
 
-4. Van een aanwijzing of een intrekking van een aanwijzing wordt kennis gegeven in de **Staatscourant**.
+4. Van een aanwijzing of een intrekking van een aanwijzing wordt kennis gegeven in de *Staatscourant*.
 
 ##### Artikel 6
 
@@ -206,7 +172,7 @@ Het examenonderdeel stralingshygiëne omvat:
 
 In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01) kan de kandidaat die in het bezit is van het getuigschrift van radiotherapeutisch laborant volstaan met het overleggen van dat getuigschrift en de in [artikel 13, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01), bedoelde bescheiden, met dien verstande dat:
 
-- a. het bewijsstuk, bedoeld in [artikel 13, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01), betrekking heeft op het door een in onderdeel **a** van dat lid bedoelde examenorganisatie voor de onderhavige categorie van kandidaten vast te stellen vereiste onderricht, en
+- a. het bewijsstuk, bedoeld in [artikel 13, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01), betrekking heeft op het door een in onderdeel *a* van dat lid bedoelde examenorganisatie voor de onderhavige categorie van kandidaten vast te stellen vereiste onderricht, en
 
 - b. het opleidingsboek, bedoeld in [artikel 13, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01), betrekking heeft op een studielast van 42 studiepunten.
 
@@ -322,7 +288,7 @@ In afwijking van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&ho
 
 - a. een bewijsstuk heeft overgelegd, waaruit blijkt dat hij voorafgaande aan de tweede toelating een aanvullende praktijkopleiding heeft genoten met een totale studielast van 17 studiepunten;
 
-- b. een bewijsstuk heeft overgelegd, waaruit blijkt dat hij voorafgaande aan de tweede toelating aanvullend onderricht heeft gevolgd in de in [artikel 17, tweede lid, onder **a**, **b**, en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2023-01-01&g=2023-01-01), genoemde examenonderdelen met een door een in [artikel 22, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2023-01-01&g=2023-01-01), bedoelde examenorganisatie vast te stellen studielast;
+- b. een bewijsstuk heeft overgelegd, waaruit blijkt dat hij voorafgaande aan de tweede toelating aanvullend onderricht heeft gevolgd in de in [artikel 17, tweede lid, onder *a*, *b*, en *c*](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2023-01-01&g=2023-01-01), genoemde examenonderdelen met een door een in [artikel 22, eerste lid, onder *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2023-01-01&g=2023-01-01), bedoelde examenorganisatie vast te stellen studielast;
 
 - c. een bewijsstuk heeft overgelegd, waaruit blijkt dat het door Onze Minister vastgestelde examengeld is betaald.
 
@@ -377,5 +343,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 29
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

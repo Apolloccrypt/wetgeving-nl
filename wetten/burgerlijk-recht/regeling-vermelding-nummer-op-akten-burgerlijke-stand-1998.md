@@ -1,43 +1,18 @@
 ---
 title: "Regeling vermelding nummer op akten burgerlijke stand"
+citeertitel: "Regeling vermelding nummer op akten burgerlijke stand (1998)"
 identifier: "BWBR0009208"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-05-01"
-last_updated: "1998-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009208"
+categorie: "Burgerlijk recht"
 soort: "ministeriele-regeling"
-stam_id: "4650223"
-version_id: "6466442"
-internal_id: "C6713321"
-label_id: "4628444"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009208/1998-05-01/0"
-intitule_bron: "Stcrt.1997-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-18"
-intitule_published: "1997-12-24"
-intitule_in_force: "1997-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-248"
-original_signed_date: "1997-12-18"
-original_published_date: "1997-12-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0009208&z=1998-05-01&g=1998-05-01"
-jci_1_0: "1.0:c:BWBR0009208&g=1998-05-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling vermelding nummer op akten burgerlijke stand (1998)"
-signed_date: "1997-12-18"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 1998-05-01
+status: geldig
+toestand: 1998-05-01
+bron: "https://wetten.overheid.nl/BWBR0009208"
+opgehaald: 2026-08-03
 ---
+
 # Regeling vermelding nummer op akten burgerlijke stand
-
-Gelet op de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&artikel=38) en [39, derde lid van het Besluit burgerlijke stand 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&artikel=39);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -47,17 +22,17 @@ In het hoofd van elke akte van geboorte, van huwelijk, van geregistreerd partner
 
 De eerste positie van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009208&artikel=1&z=1998-05-01&g=1998-05-01) bedoelde nummer is bestemd voor de aanduiding van het register waarin de akte wordt opgenomen. De registersoort wordt als volgt aangeduid:
 
-- 1 =. register van geboorten
+- 1 = register van geboorten
 
-- 2 =. register van overlijden
+- 2 = register van overlijden
 
-- 3 =. register van huwelijken
+- 3 = register van huwelijken
 
-- 4 =. register van echtscheidingen, bedoeld in [artikel 6 van Titel 4 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&afdeling=6)
+- 4 = register van echtscheidingen, bedoeld in [artikel 6 van Titel 4 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&afdeling=6)
 
-- 5 =. register van geregistreerde partnerschappen
+- 5 = register van geregistreerde partnerschappen
 
-- 6 =. register van beëindiging van geregistreerde partnerschappen, bedoeld in [artikel 6 van Titel 4 van Boek I van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&afdeling=6)
+- 6 = register van beëindiging van geregistreerde partnerschappen, bedoeld in [artikel 6 van Titel 4 van Boek I van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&afdeling=6)
 
 ##### Artikel 3
 

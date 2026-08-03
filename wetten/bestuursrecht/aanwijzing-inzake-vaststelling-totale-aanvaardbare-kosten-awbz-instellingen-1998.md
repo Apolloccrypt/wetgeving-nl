@@ -1,46 +1,17 @@
 ---
 title: "Aanwijzing inzake vaststelling totale aanvaardbare kosten AWBZ-instellingen 1998"
 identifier: "BWBR0009062"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-12-05"
-last_updated: "1997-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009062"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "4801733"
-version_id: "6608152"
-internal_id: "C7065391"
-label_id: "4779824"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009062/1997-12-05/0"
-intitule_bron: "Stcrt.1997-233"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-11-28"
-intitule_published: "1997-12-03"
-intitule_in_force: "1997-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-233"
-original_signed_date: "1997-11-28"
-original_published_date: "1997-12-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-12-05"
-jci_1_3: "jci1.3:c:BWBR0009062&z=1997-12-05&g=1997-12-05"
-jci_1_0: "1.0:c:BWBR0009062&g=1997-12-05"
-citeertitel_status: "officieel"
-signed_date: "1997-11-28"
-entry_into_force: "1997-12-05"
+publicatiedatum: 1997-12-05
+laatste_update: 1997-12-05
+status: geldig
+toestand: 1997-12-05
+bron: "https://wetten.overheid.nl/BWBR0009062"
+opgehaald: 2026-08-03
 ---
+
 # Aanwijzing inzake vaststelling totale aanvaardbare kosten AWBZ-instellingen 1998
-
-Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=14);
-
-Gehoord het Centraal orgaan tarieven gezondheidszorg, (brief van 21 oktober 1997, kenmerk TY/tbk/A/97/117), vastgesteld in de vergadering van 20 oktober 1997;
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief van 6 november 1997, kenmerk VPZ/P-974000);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -81,5 +52,3 @@ In de bedoelde richtlijnen ter uitvoering van de onderhavige aanwijzing wordt be
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

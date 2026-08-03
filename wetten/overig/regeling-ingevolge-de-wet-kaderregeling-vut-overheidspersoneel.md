@@ -1,44 +1,17 @@
 ---
 title: "Regeling ingevolge de Wet kaderregeling vut overheidspersoneel"
 identifier: "BWBR0009157"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-04-01"
-last_updated: "2012-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009157"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3578973"
-version_id: "5362092"
-internal_id: "C5555181"
-label_id: "3558974"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009157/2012-04-01/0"
-intitule_bron: "Stcrt.1997-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-15"
-intitule_published: "1997-12-29"
-intitule_in_force: "1997-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-249"
-original_signed_date: "1997-12-15"
-original_published_date: "1997-12-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-12-31"
-jci_1_3: "jci1.3:c:BWBR0009157&z=2012-04-01&g=2012-04-01"
-jci_1_0: "1.0:c:BWBR0009157&g=2012-04-01"
-citeertitel_status: "officieel"
-signed_date: "1997-12-15"
-entry_into_force: "1997-12-31"
+publicatiedatum: 1997-12-31
+laatste_update: 2012-04-01
+status: geldig
+toestand: 2012-04-01
+bron: "https://wetten.overheid.nl/BWBR0009157"
+opgehaald: 2026-08-03
 ---
+
 # Regeling ingevolge de Wet kaderregeling vut overheidspersoneel
-
-Gelet op [artikel 4, vijfde lid, van de Wet kaderregeling vut overheidspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=4);
-
-Gezien de brief van 30 september 1997 (PK97.01003) van de pensioenkamer uit de Raad voor het Overheidsperso-neelsbeleid;
-
-Besluit:
 
 ##### Artikel 1
 

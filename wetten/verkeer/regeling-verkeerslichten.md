@@ -1,78 +1,57 @@
 ---
 title: "Regeling verkeerslichten"
 identifier: "BWBR0009151"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009151"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "5145583"
-version_id: "9222312"
-internal_id: "C12252101"
-label_id: "5121234"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009151/2019-07-01/0"
-intitule_bron: "Stcrt.1997-245"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-15"
-intitule_published: "1997-12-19"
-intitule_in_force: "1997-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-245"
-original_signed_date: "1997-12-15"
-original_published_date: "1997-12-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-12-21"
-jci_1_3: "jci1.3:c:BWBR0009151&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0009151&g=2019-07-01"
-citeertitel_status: "officieel"
-signed_date: "1997-12-15"
-entry_into_force: "1997-12-21"
+publicatiedatum: 1997-12-21
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0009151"
+opgehaald: 2026-08-03
 ---
+
 # Regeling verkeerslichten
-
-Gelet op [artikel 14 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=14);
-
-Besluit:
 
 ##### Artikel 1
 
 Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materiaal van verkeersregelinstallaties worden de volgende voorschriften vastgesteld:
 
+Paragraaf 1 Definities
+
 - 1. Voor de toepassing van deze regeling wordt verstaan onder:
 
-- a. verkeerslichten, driekleurige verkeerslichten, tweekleurige verkeerslichten en tram/bus-lichten: hetgeen daaronder wordt verstaan in het [Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825);
+   - a. verkeerslichten, driekleurige verkeerslichten, tweekleurige verkeerslichten en tram/bus-lichten: hetgeen daaronder wordt verstaan in het [Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825);
 
-- b. driekleurige fietslichten: driekleurige verkeerslichten waarin afbeeldingen van een fiets zijn aangebracht;
+   - b. driekleurige fietslichten: driekleurige verkeerslichten waarin afbeeldingen van een fiets zijn aangebracht;
 
-- c. tweekleurige fietslichten: tweekleurige verkeerslichten waarin afbeeldingen van een fiets zijn aangebracht;
+   - c. tweekleurige fietslichten: tweekleurige verkeerslichten waarin afbeeldingen van een fiets zijn aangebracht;
 
-- d. rijstrooklichten: verkeerslichten als bedoeld in [artikel 73 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=73);
+   - d. rijstrooklichten: verkeerslichten als bedoeld in [artikel 73 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=73);
 
-- e. voetgangerslichten: verkeerslichten als bedoeld in [artikel 74 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=74);
+   - e. voetgangerslichten: verkeerslichten als bedoeld in [artikel 74 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=74);
 
-- f. bruglichten: verkeerslichten als bedoeld in [artikel 72 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=72);
+   - f. bruglichten: verkeerslichten als bedoeld in [artikel 72 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=72);
 
-- g. verkeerslantaarns: toestellen voor het tonen van verkeerslichten;
+   - g. verkeerslantaarns: toestellen voor het tonen van verkeerslichten;
 
-- h. norm NEN 3322: de norm NEN 3322:2010, Verkeersregelinstallaties – Verkeerslantaarns – Aanvullende eisen, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidt op 1 mei 2010;
+   - h. norm NEN 3322: de norm NEN 3322:2010, Verkeersregelinstallaties – Verkeerslantaarns – Aanvullende eisen, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidt op 1 mei 2010;
 
-- i. norm NEN 3384: de norm NEN 3384:2017, Verkeersregelinstallaties – Aanvullende eisen, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidt op 1 september 2017;
+   - i. norm NEN 3384: de norm NEN 3384:2017, Verkeersregelinstallaties – Aanvullende eisen, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidt op 1 september 2017;
 
-- j. conflictpunt: het punt, waar het eerste conflict optreedt van een verkeersbeweging met een andere verkeersbeweging, met het oog waarop de verkeersregeling plaatsvindt;
+   - j. conflictpunt: het punt, waar het eerste conflict optreedt van een verkeersbeweging met een andere verkeersbeweging, met het oog waarop de verkeersregeling plaatsvindt;
 
-- k. norm NEN-EN 12368: de norm NEN-EN 12368:2006, Verkeersregelinstallaties – Verkeerslantaarns, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidt op 1 september 2006;
+   - k. norm NEN-EN 12368: de norm NEN-EN 12368:2006, Verkeersregelinstallaties – Verkeerslantaarns, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidt op 1 september 2006;
 
-- l. verkeersregelinstallatie: voorziening voor het regelen van het verkeer door het tonen van verkeerslichten aan weggebruikers;
+   - l. verkeersregelinstallatie: voorziening voor het regelen van het verkeer door het tonen van verkeerslichten aan weggebruikers;
 
-- m. toeritdoseringslichten: verkeerslichten voor het doseren van verkeer op een toerit;
+   - m. toeritdoseringslichten: verkeerslichten voor het doseren van verkeer op een toerit;
 
-- n. rotondedoseerlichten: verkeerslichten voor het doseren van verkeer bij nadering van een rotonde;
+   - n. rotondedoseerlichten: verkeerslichten voor het doseren van verkeer bij nadering van een rotonde;
 
-- o. lensmiddellijn: middellijn van het licht uitstralende deel van de lens van een verkeerslicht.
+   - o. lensmiddellijn: middellijn van het licht uitstralende deel van de lens van een verkeerslicht.
+
+Paragraaf 2 Algemene eisen
 
 - 2. Bij de plaatsing van verkeerslichten moet worden vermeden dat weggebruikers door het verkeerslicht dan wel door de verkeerslantaarn worden gehinderd in de waarneming van het overige verkeer.
 
@@ -82,23 +61,23 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 5. Verkeersregelinstallaties moeten voldoen aan de in de normen NEN-EN 12368 en NEN 3322 gestelde eisen, met dien verstande dat bij toepassing van de eisen van de norm NEN-EN 12368:
 
-- a. lantaarns worden toegepast die geschikt zijn voor het temperatuurgebied volgens klasse B (§ 5.1 NEN-EN 12368);
+   - a. lantaarns worden toegepast die geschikt zijn voor het temperatuurgebied volgens klasse B (§ 5.1 NEN-EN 12368);
 
-- b. brede bundellichten worden toegepast van type W (§ 6.4 NEN-EN 12368) met:
+   - b. brede bundellichten worden toegepast van type W (§ 6.4 NEN-EN 12368) met:
 
-- –. lichtsterkteniveau (§ 6.3/6.4 NEN-EN 12368) volgens A 3/1;
+      - – lichtsterkteniveau (§ 6.3/6.4 NEN-EN 12368) volgens A 3/1;
 
-- –. maximum fantoomeffect (§ 6.6 NEN-EN 12368) volgens minimaal klasse 4 of hoger;
+      - – maximum fantoomeffect (§ 6.6 NEN-EN 12368) volgens minimaal klasse 4 of hoger;
 
-- –. optisch niveau bij toepassing van symbolen (§ 6.8 NEN-EN 12368) volgens klasse S1; en
+      - – optisch niveau bij toepassing van symbolen (§ 6.8 NEN-EN 12368) volgens klasse S1; en
 
-- –. achtergrondschilden (§ 6.9 NEN-EN 12368) volgens klasse C4.
+      - – achtergrondschilden (§ 6.9 NEN-EN 12368) volgens klasse C4.
 
 - 6. Bij de regeling van het verkeer door middel van drie- of tweekleurige verkeerslichten, drie- of tweekleurige fietslichten, tram/bus-lichten, voetgangerslichten, rotondedoseerlichten en toeritdoseringslichten moet worden voldaan aan de gestelde eisen in hoofdstuk 4 en hoofdstuk 5, paragraaf 1, 2 en 4, van NEN 3384.
 
 - 6a. Bij driekleurige verkeerslichten die incidenteel het verkeer regelen nabij het inrijden van een tunnel, maar geen conflicterende verkeersstromen regelen, en bij toeritdoseringslichten, mag de in de NEN 3384, paragraaf 4.4.3, bedoelde geelknipperfase korter duren dan 15 seconden, maar moet deze minimaal 6 seconden bedragen.
 
-**Driekleurige verkeerslichten**
+*Driekleurige verkeerslichten*
 
 - 7. De verkeerslantaarns van driekleurige verkeerslichten zijn samengesteld uit een rood, een geel en een groen licht, die in een verticaal vlak zijn aangebracht; het rode licht boven, het gele licht in het midden en het groene licht onder.
 
@@ -142,17 +121,17 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 26. Het toegevoegde groene licht mag worden ontstoken gelijktijdig met het ontsteken van het gele licht dan wel gedurende de tijd dat het rode licht van de verkeerslantaarn, waaraan het is toegevoegd, brandt. Het wordt gedoofd gelijktijdig met het doven van het rode licht van de verkeerslantaarn waaraan het is toegevoegd.
 
-- 27. Vervallen.
+- 27. *Vervallen.*
 
 - 28. Indien bestuurders die afslaan een verkeersstroom die hen kruist op grond van de in het [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) vervatte regels voor moeten laten gaan moeten, in geval de verkeersstroom van deze bestuurders wordt geregeld met een verkeerslicht voorzien van een richtingpijl, beide richtingen worden beschouwd als conflictrichtingen volgens norm NEN 3384 en als zodanig in de verkeerslichtenregeling worden behandeld.
 
-**Rechtsaf voor (brom)fietsers vrij of rechtsaf voor fietsers vrij bij verkeerslichten**
+*Rechtsaf voor (brom)fietsers vrij of rechtsaf voor fietsers vrij bij verkeerslichten*
 
 - 28a. Onder de verkeerslantaarn van een driekleurig verkeerslicht kan een bord met de tekst ’Rechtsaf voor (brom)fietsers vrij’ of ’Rechtsaf voor fietsers vrij’ aanwezig zijn.
 
 - 28b. In plaats van het bord als genoemd in punt 28a kan rechts naast de verkeerslantaarn van een driekleurig verkeerslicht een bord in verschijnuitvoering met de tekst ’Rechtsaf voor (brom)fietsers vrij’ of ’Rechtsaf voor fietsers vrij’ aanwezig zijn.
 
-**Driekleurige fietslichten**
+*Driekleurige fietslichten*
 
 - 29. Het gestelde in de punten 7, 8, 10, 22, 24 tot en met 28c is van overeenkomstige toepassing op driekleurige fietslichten.
 
@@ -176,7 +155,7 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 38a. Indien aan conflicterende richtingen voor (brom)fietsers gelijktijdig groen wordt getoond, kan nabij elk driekleurig fietslicht een bord volgens [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009151&bijlage=I&z=2019-07-01&g=2019-07-01), afbeelding 3 geplaatst worden.
 
-**Tweekleurige verkeerslichten**
+*Tweekleurige verkeerslichten*
 
 - 39. Het gestelde in de punten 9 tot en met 23, 28a en 28b is van overeenkomstige toepassing op tweekleurige verkeerslichten.
 
@@ -188,51 +167,51 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 43. Tweekleurige verkeerslichten mogen worden toegepast in situaties waarin slechts bepaalde verkeersstromen moeten worden gestopt en wel In deze gevallen worden ten behoeve van het overige verkeer geen verkeerslichten toegepast. In de ruststand van een dergelijke regeling zijn de lichten van de tweekleurige verkeerslichten gedoofd.
 
-- –. op kruisingen en splitsingen van wegen nabij beveiligde overwegen en beweegbare bruggen. Alleen die richtingen, die de ontruiming van de overweg of de brug in de weg staan mogen worden voorzien van tweekleurige verkeerslichten;
+   - – op kruisingen en splitsingen van wegen nabij beveiligde overwegen en beweegbare bruggen. Alleen die richtingen, die de ontruiming van de overweg of de brug in de weg staan mogen worden voorzien van tweekleurige verkeerslichten;
 
-- –. in geval van automatische hoogtedetectie;
+   - – in geval van automatische hoogtedetectie;
 
-- –. bij uitritten van hulpverleningsdiensten;
+   - – bij uitritten van hulpverleningsdiensten;
 
-- –. bij beweegbare bruggen in de plaats van bruglichten. In afwijking van het bepaalde in punt 39 zijn in dit geval de punten 9, 10, 12, 14, 17, 18, 19, 20, 21, 22, 23, 88, 89, 97, 98 en 99 van overeenkomstige toepassing.
+   - – bij beweegbare bruggen in de plaats van bruglichten. In afwijking van het bepaalde in punt 39 zijn in dit geval de punten 9, 10, 12, 14, 17, 18, 19, 20, 21, 22, 23, 88, 89, 97, 98 en 99 van overeenkomstige toepassing.
 
 - 44. Tweekleurige verkeerslichten mogen voorts worden toegepast in situaties waarin een incidenteel voorkomende verkeersstroom onderling regelen van conflicterende verkeersstromen met verkeerslichten tijdelijk noodzakelijk maakt en wel In deze gevallen worden op de hoofdrichting tweekleurige verkeerslichten toegepast en op de zijrichting al naar gelang het geval driekleurige verkeerslichten, driekleurige fietslichten, voetgangerslichten, tram/bus-lichten dan wel een combinatie van deze lichten. Zolang zich geen verkeer op de zijrichting heeft gemeld zijn de lichten van de tweekleurige verkeerslichten gedoofd en wordt in de op de zijrichting geplaatste verkeerslichten het rode licht getoond.
 
-- –. bij het oversteken van een weg of rijbaan door langzaam verkeer;
+   - – bij het oversteken van een weg of rijbaan door langzaam verkeer;
 
-- –. bij het oversteken of afbuigen van of naar een weg of rijbaan door openbaar vervoer;
+   - – bij het oversteken of afbuigen van of naar een weg of rijbaan door openbaar vervoer;
 
-- –. bij het oversteken van een weg of rijbaan door ander verkeer bij zeer lage verkeersintensiteiten;
+   - – bij het oversteken van een weg of rijbaan door ander verkeer bij zeer lage verkeersintensiteiten;
 
-- –. bij het gebruik van een uitrit door openbaar vervoer.
+   - – bij het gebruik van een uitrit door openbaar vervoer.
 
 - 45. In andere situaties dan genoemd in de punten 43 en 44 worden tweekleurige verkeerslichten niet toegepast.
 
-**Tweekleurige fietslichten**
+*Tweekleurige fietslichten*
 
 - 46. Het gestelde in de punten 10, 22, 28a, 28b, 30 tot en met 36, 37, 38, 40, 41 en 43 tot en met 45 is van overeenkomstige toepassing op tweekleurige fietslichten.
 
-**Rijstrooklichten**
+*Rijstrooklichten*
 
 - 47. De verkeerslantaarns van rijstrooklichten zijn samengesteld uit:
 
-- a. een rood licht voorzien van een kruis;
+   - a. een rood licht voorzien van een kruis;
 
-- b. een groen licht voorzien van een loodrecht naar beneden wijzende pijl;
+   - b. een groen licht voorzien van een loodrecht naar beneden wijzende pijl;
 
-- c. een wit licht voorzien van een schuin naar links naar beneden wijzende pijl;
+   - c. een wit licht voorzien van een schuin naar links naar beneden wijzende pijl;
 
-- d. een wit licht voorzien van een schuin naar rechts naar beneden wijzende pijl;
+   - d. een wit licht voorzien van een schuin naar rechts naar beneden wijzende pijl;
 
-- e. een wit licht voorzien van de afbeelding van het woord BUS;
+   - e. een wit licht voorzien van de afbeelding van het woord BUS;
 
-- ea. een wit licht voorzien van de afbeelding van het woord LIJNBUS;
+   - ea. een wit licht voorzien van de afbeelding van het woord LIJNBUS;
 
-- f. een wit licht voorzien van de afbeelding van bord A3 van [bijlage 1 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1);
+   - f. een wit licht voorzien van de afbeelding van bord A3 van [bijlage 1 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1);
 
-- g. een wit licht voorzien van de afbeelding van bord F9 van [bijlage 1 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1) of
+   - g. een wit licht voorzien van de afbeelding van bord F9 van [bijlage 1 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1) of
 
-- h. een wit en rood licht uitstralende afbeelding van bord A1 van [bijlage 1 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1).
+   - h. een wit en rood licht uitstralende afbeelding van bord A1 van [bijlage 1 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1).
 
 - 48. Achtergrondschilden worden aangebracht om of achter de verkeerslantaarns van rijstrooklichten. De achtergrondschilden mogen slechts in tunnels achterwege blijven.
 
@@ -250,21 +229,21 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 55. Tijdens de inschakelprocedure en uitschakelprocedure behoeft aan het gestelde in punt 54 niet te worden voldaan.
 
-**Tram/bus-lichten**
+*Tram/bus-lichten*
 
 - 56. De verkeerslantaarns van tram/bus-lichten zijn samengesteld uit twee, drie of vier witte lichten, een geel licht en twee rode lichten, die zijn aangebracht als aangegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0009151&bijlage=II&z=2019-07-01&g=2019-07-01) behorende bij dit besluit. Knipperend wit licht mag worden toegepast overeenkomstig het bepaalde in de punten 70 en 71.
 
 - 57. De volgorde, waarin de lichten verschijnen is: (knipperend) wit, geel, rood, (knipperend) wit, enz.
 
-- 58. Vervallen.
+- 58. *Vervallen.*
 
-- 59. Vervallen.
+- 59. *Vervallen.*
 
 - 60. Tram/bus-lichten moeten worden toegepast bij drie- of tweekleurige verkeerslichten:
 
-- –. indien ter plaatse voor trams en/of autobussen een eigen ruimte, gescheiden van het overige verkeer, beschikbaar is, of
+   - – indien ter plaatse voor trams en/of autobussen een eigen ruimte, gescheiden van het overige verkeer, beschikbaar is, of
 
-- –. indien ter plaatse bestuurders van trams en/of autobussen vanuit eenrijstrook een richting mogen volgen die aan het overige verkeer in die rijstrook niet is toegestaan.
+   - – indien ter plaatse bestuurders van trams en/of autobussen vanuit eenrijstrook een richting mogen volgen die aan het overige verkeer in die rijstrook niet is toegestaan.
 
 - 61. Tram/bus-lichten worden zo geplaatst dat het voor de betrokken bestuurder van de tram en/of autobus duidelijk is naar welk licht hij zich moet richten. Desgewenst mag bij het tram/bus-licht worden aangegeven voor welk openbaar vervoermiddel het tram/bus-licht geldt.
 
@@ -286,15 +265,15 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 70. Knipperend wit licht mag slechts worden toegepast in de volgende gevallen:
 
-- –. voor de onderlinge afwikkeling van openbaar vervoerbewegingen;
+   - – voor de onderlinge afwikkeling van openbaar vervoerbewegingen;
 
-- –. voor afslaande autobussen indien aan het rechtdoorgaande verkeer of afslaande verkeer, waaraan voorrang moet worden verleend, groen licht of geel licht wordt getoond;
+   - – voor afslaande autobussen indien aan het rechtdoorgaande verkeer of afslaande verkeer, waaraan voorrang moet worden verleend, groen licht of geel licht wordt getoond;
 
-- –. indien de openbaar vervoerbeweging op een overigens geregelde kruising of splitsing van wegen een niet-geregelde voetgangersbeweging kruist.
+   - – indien de openbaar vervoerbeweging op een overigens geregelde kruising of splitsing van wegen een niet-geregelde voetgangersbeweging kruist.
 
 - 71. De frequentie van het knipperend wit bedraagt 80 tot 120 onderbrekingen per minuut met een licht-donkerverhouding van 1:1.
 
-**Voetgangerslichten**
+*Voetgangerslichten*
 
 - 72. De verkeerslantaarns van voetgangerslichten zijn samengesteld uit een rood en een groen licht of uit een geel en een groen licht, in een verticaal vlak aangebracht. Het groene licht wordt geplaatst onder het rode of gele licht.
 
@@ -306,7 +285,7 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 76. Indien nabij een plaats, waar blijkens een verkeersteken op het wegdek voetgangers plegen over te steken, drie- of tweekleurige verkeerslichten zijn aangebracht, moet het voetgangersverkeer worden geregeld door middel van voetgangerslichten.
 
-- 77. Vervallen.
+- 77. *Vervallen.*
 
 - 78. Voetgangerslichten worden aan weerszijden van de oversteekplaats aangebracht, zodanig dat zij zich voor de overstekende voetganger aan het einde van de oversteekplaats bevinden.
 
@@ -318,7 +297,7 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 81. De frequentie van het knipperend groen bedraagt 80 tot 120 onderbrekingen per minuut met een licht-donkerverhouding van 1:1. De frequentie en de licht-donkerverhouding van het knipperend geel komen overeen met die genoemd in punt 114.
 
-- 82. Vervallen.
+- 82. *Vervallen.*
 
 - 83. Bij de bepaling van de duur van de ontruimingsfase na het knipperend groen moet rekening worden gehouden met de voetgangerssnelheid ter plaatse. Deze snelheid mag niet op meer dan 1,20 m per seconde worden gesteld.
 
@@ -326,15 +305,15 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 85. De drukknop moet op een hoogte van ongeveer 1,25 m worden aangebracht.
 
-**Bruglichten**
+*Bruglichten*
 
 - 86. Het gestelde in de punten 9, 12, 14 en 17 tot en met 21 is van overeenkomstige toepassing op bruglichten.
 
 - 87. Als bruglicht mag worden toegepast:
 
-- a. een knipperend rood licht, of
+   - a. een knipperend rood licht, of
 
-- b. een rood licht. In de plaats van bruglichten mogen tweekleurige verkeerslichten worden aangebracht.
+   - b. een rood licht. In de plaats van bruglichten mogen tweekleurige verkeerslichten worden aangebracht.
 
 - 88. Achtergrondschilden worden aangebracht om of achter de verkeerslantaarns van bruglichten. De achtergrondschilden mogen slechts achterwege blijven, indien de beschikbare ruimte zo gering is dat het schild zich te dicht naast de rijbaan zou bevinden of indien de bruglichten uitsluitend zijn bedoeld voor voetgangers en/of (brom)fietsers.
 
@@ -360,7 +339,7 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 99. De lensmiddellijn van de lichten op de slagbomen bedraagt ten hoogste 150 mm.
 
-**Gele knipperlichten**
+*Gele knipperlichten*
 
 - 100. Een geel knipperlicht is een knipperend geel verkeerslicht.
 
@@ -368,7 +347,7 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 101a. Bij twee gele knipperlichten op één mast is de lensmiddellijn van beide gele knipperlichten gelijk.
 
-- 102. Vervallen.
+- 102. *Vervallen.*
 
 - 103. Het gele licht van drie- of tweekleurige verkeerslichten, drie- of tweekleurige fietslichten en tram/bus-lichten mag als knipperlicht worden gebruikt wanneer de verkeerslichten overigens buiten werking zijn.
 
@@ -376,17 +355,17 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 105. De lensmiddellijn van een geel knipperlicht als bedoeld in punt 100 bedraagt 200 mm (±10%) of 300 mm (±10%). Indien buiten de bebouwde kom richtingpijlen worden gebruikt bedraagt de lensmiddellijn 300 mm (±10%).
 
-- 106. Vervallen.
+- 106. *Vervallen.*
 
 - 107. De lensmiddellijn van een geel knipperlicht bij een rijstrooklicht of bord bedraagt 125 mm (±10%) of 200 mm (±10%).
 
-- 108. Vervallen.
+- 108. *Vervallen.*
 
 - 109. Achtergrondschilden worden aangebracht om of achter de verkeerslantaarns van gele knipperlichten. De achtergrondschilden mogen slechts achterwege blijven indien de beschikbare ruimte zo gering is dat het schild zich te dicht naast de rijbaan zou bevinden.
 
 - 110. Bij een combinatie van een bord ter aanduiding van een gevaar en gele knipperlichten als bedoeld in de punten 100 en 101 worden de knipperlichten boven het bord geplaatst.
 
-- 111. Vervallen.
+- 111. *Vervallen.*
 
 - 112. Bij plaatsing buiten de bebouwde kom van gele knipperlichten in combinatie met een verkeersbord van [bijlage 1 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1), wordt achter deze combinatie een achtergrondschild aangebracht.
 
@@ -396,7 +375,7 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 115. De in de punten 101 en 102 bedoelde lichten moeten beurtelings boven dan wel beneden verlicht en gedoofd zijn.
 
-**Rotondedoseerlichten**
+*Rotondedoseerlichten*
 
 - 116. Het gestelde in de punten 9, 10, 11, 12, 14, 17, 18, 19, 20, 21 en 40 is van overeenkomstige toepassing op rotondedoseerlichten.
 
@@ -408,7 +387,7 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 120. Rotondedoseerlichten worden gezien vanuit de richting waaruit het verkeer nadert aangebracht op ten minste 30 m en ten hoogste 45 m vóór het conflictpunt met het verkeer op de rotonde.
 
-**Akoestische signalen bij voetgangerslichten**
+*Akoestische signalen bij voetgangerslichten*
 
 - 121. Bij voetgangerslichten kunnen akoestische signalen van de verkeerslichtkleuren aanwezig zijn.
 
@@ -422,7 +401,7 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 126. Het geluidsniveau van het tiksignaal is afgestemd op het geluidsniveau van het omgevingsgeluid.
 
-**Akoestische signalen bij gele knipperlichten bij openbaar vervoer banen**
+*Akoestische signalen bij gele knipperlichten bij openbaar vervoer banen*
 
 - 127. Bij gele knipperlichten bij openbaar vervoer banen kan een akoestisch signaal aanwezig zijn.
 
@@ -431,6 +410,8 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 - 129. Tijdens de werking van een geel knipperlicht bij een openbaar vervoer baan is het aantal belsignalen per seconde ten minste 2 en ten hoogste 3.
 
 - 130. Het geluidsniveau van het belsignaal is afgestemd op het geluidsniveau van het omgevingsgeluid.
+
+Paragraaf 3 Overgangs- en slotbepalingen
 
 - 131. Verkeersregelinstallaties, of onderdelen daarvan, die in gebruik zijn genomen voor 1 juli 2019, die niet voldoen aan deze regeling voldoen aan de Regeling verkeerslichten zoals deze luidde op 30 juni 2019.
 
@@ -445,19 +426,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: [Regeling verkeerslichten](https://wetten.overheid.nl/jci1.3:c:BWBR0009151).
-
-## Bijlage I
-
-### Afbeelding 1
-
-### Afbeelding 2
-
-### Afbeelding 2a
-
-### Afbeelding 3
-
-## Bijlage II
-
-### Tram/buslichten
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

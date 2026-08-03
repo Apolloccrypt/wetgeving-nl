@@ -1,70 +1,34 @@
 ---
 title: "Wet van 11 december 1996, houdende regels betreffende advies en overleg over het beleid inzake verkeer en waterstaat (Wet advies en overleg verkeer en waterstaat)"
+citeertitel: "Wet overleg fysieke leefomgeving"
 identifier: "BWBR0008410"
-country: "nl"
-rank: "wet"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008410"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "210823"
-version_id: "19243492"
-internal_id: "C26849321"
-label_id: "207454"
-dtd_version: "2.0"
-original_entry_into_force: "2012-02-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008410/2021-01-01/0"
-intitule_bron: "Stb.1996-621"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-11"
-intitule_published: "1996-12-19"
-intitule_in_force: "1996-12-19"
-intitule_status: "goed"
-original_publication: "Stb.2012-35"
-original_signed_date: "2012-01-19"
-original_published_date: "2012-02-10"
-original_effect: "structuurwijziging"
-original_dossier: "32314"
-original_url_id: "stb-2012-35"
-entry_into_force_date: "2012-02-11"
-entry_into_force_dossier: "32314"
-jci_1_3: "jci1.3:c:BWBR0008410&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0008410&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet overleg fysieke leefomgeving"
-signed_date: "2012-01-19"
-entry_into_force: "2012-02-11"
+publicatiedatum: 2012-02-11
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0008410"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 11 december 1996, houdende regels betreffende advies en overleg over het beleid inzake verkeer en waterstaat (Wet advies en overleg verkeer en waterstaat)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met de [Herzieningswet adviesstelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0008158) wenselijk is de Raad voor verkeer en waterstaat opnieuw in te stellen met handhaving van de bestaande regeling van het overleg met betrekking tot het terrein van verkeer en waterstaat;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-### HOOFDSTUK 1. BEGRIPSBEPALINGEN
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Onze Minister:** Onze Minister van Infrastructuur en Waterstaat;
+- *Onze Minister:* Onze Minister van Infrastructuur en Waterstaat;
 
-- **overlegorgaan:** Overlegorgaan Fysieke Leefomgeving, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=4&z=2021-01-01&g=2021-01-01).
-
-### HOOFDSTUK 2. RAAD VOOR VERKEER EN WATERSTAAT
+- *overlegorgaan:* Overlegorgaan Fysieke Leefomgeving, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=4&z=2021-01-01&g=2021-01-01).
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
-
-### HOOFDSTUK 3. OVERLEGORGANEN
+*Vervallen*
 
 ##### Artikel 4
 
@@ -88,7 +52,7 @@ In het overlegorgaan wordt door of namens Onze Minister en waar daartoe aanleidi
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -104,7 +68,7 @@ Vervallen
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -116,11 +80,11 @@ De gezichtspunten van de in het overlegorgaan vertegenwoordigde afzonderlijke be
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
@@ -136,13 +100,11 @@ Vervallen
 
 ##### Artikel 16
 
-Vervallen
-
-### HOOFDSTUK 4. SLOTBEPALINGEN
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
@@ -151,7 +113,3 @@ Deze wet treedt in werking met ingang van 1 januari 1997.
 ##### Artikel 19
 
 Deze wet wordt aangehaald als: Wet overleg fysieke leefomgeving.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

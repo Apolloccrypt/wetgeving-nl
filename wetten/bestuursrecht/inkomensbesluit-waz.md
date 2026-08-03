@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 17 december 1997 tot vaststelling van regels als bedoeld in artikel 8, elfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen (Inkomensbesluit Waz)"
+citeertitel: "Inkomensbesluit Waz"
 identifier: "BWBR0009200"
-country: "nl"
-rank: "amvb"
-publication_date: "2005-05-25"
-last_updated: "2005-05-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009200"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "715903"
-version_id: "1043772"
-internal_id: "C1043771"
-label_id: "693764"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009200/2005-05-25/0"
-intitule_bron: "Stb.1997-762"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-17"
-intitule_published: "1997-12-29"
-intitule_in_force: "1997-12-29"
-intitule_status: "goed"
-original_publication: "Stb.1997-762"
-original_signed_date: "1997-12-17"
-original_published_date: "1997-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-762"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0009200&z=2005-05-25&g=2005-05-25"
-jci_1_0: "1.0:c:BWBR0009200&g=2005-05-25"
-citeertitel_status: "officieel"
-short_title: "Inkomensbesluit Waz"
-signed_date: "1997-12-17"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2005-05-25
+status: geldig
+toestand: 2005-05-25
+bron: "https://wetten.overheid.nl/BWBR0009200"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 17 december 1997 tot vaststelling van regels als bedoeld in artikel 8, elfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen (Inkomensbesluit Waz)
-
-Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 4 november 1997, nr. SV/WV/97/4413;
-
-Gelet op artikel 8, elfde lid, van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
-
-De Raad van State gehoord (advies van 5 december 1997, no. W12.97.0713);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 15 december 1997, nr. SV/WV/97/5234;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Algemeen
 
@@ -64,7 +32,7 @@ In dit besluit wordt verstaan onder de Wet: de [Wet arbeidsongeschiktheidsverzek
 
 Voor de toepassing van [artikel 8, derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=8) wordt voor de vaststelling van de grondslag waarnaar de arbeidsongeschiktheidsuitkering wordt berekend, onder inkomsten verstaan al hetgeen anders dan uit dienstbetrekking wordt genoten als belastbaar loon uit tegenwoordige arbeid of belastbaar resultaat uit overige werkzaamheden, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3) en [7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7), behoudens voorzover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92).
 
-##### Artikel 4. Grondslag bij toepassing [artikel 12a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a)
+##### Artikel 4. Grondslag bij toepassing artikel 12a van de Wet op de loonbelasting 1964
 
 Zonodig in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009200&artikel=3&z=2005-05-25&g=2005-05-25) wordt voor de verzekerde, ten aanzien van wie [artikel 12a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a) toepassing heeft gevonden in het kalenderjaar onmiddellijk voorafgaande aan het intreden van zijn arbeidsongeschiktheid, de grondslag waarnaar de arbeidsongeschiktheidsuitkering wordt berekend gesteld op het bedrag van het in dat kalenderjaar genoten loon, vastgesteld op grond van dit [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a), onverminderd [artikel 8, zevende lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=8).
 
@@ -129,5 +97,3 @@ Dit besluit treedt in werking met ingang van 1 januari 1998.
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Inkomensbesluit Waz.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,48 +1,18 @@
 ---
 title: "Wet van 23 januari 1997 tot uitvoering van richtlijn nr. 94/45/EG van de Raad van de Europese Unie van 22 september 1994 inzake de instelling van een Europese ondernemingsraad of van een procedure in ondernemingen of concerns met een communautaire dimensie ter informatie en raadpleging van de werknemers (Wet op de Europese ondernemingsraden)"
+citeertitel: "Wet op de Europese ondernemingsraden"
 identifier: "BWBR0008508"
-country: "nl"
-rank: "wet"
-publication_date: "2017-12-16"
-last_updated: "2017-12-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008508"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "230683"
-version_id: "318772"
-internal_id: "C318771"
-label_id: "226434"
-dtd_version: "2.0"
-original_entry_into_force: "1997-02-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008508/2017-12-16/0"
-intitule_bron: "Stb.1997-32"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-01-23"
-intitule_published: "1997-02-04"
-intitule_in_force: "1997-02-04"
-intitule_status: "goed"
-original_publication: "Stb.1997-32"
-original_signed_date: "1997-01-23"
-original_published_date: "1997-02-04"
-original_effect: "nieuwe-regeling"
-original_dossier: "24641"
-original_url_id: "stb-1997-32"
-entry_into_force_date: "1997-02-05"
-entry_into_force_dossier: "24641"
-jci_1_3: "jci1.3:c:BWBR0008508&z=2017-12-16&g=2017-12-16"
-jci_1_0: "1.0:c:BWBR0008508&g=2017-12-16"
-citeertitel_status: "officieel"
-short_title: "Wet op de Europese ondernemingsraden"
-signed_date: "1997-01-23"
-entry_into_force: "1997-02-05"
+publicatiedatum: 1997-02-05
+laatste_update: 2017-12-16
+status: geldig
+toestand: 2017-12-16
+bron: "https://wetten.overheid.nl/BWBR0008508"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 23 januari 1997 tot uitvoering van richtlijn nr. 94/45/EG van de Raad van de Europese Unie van 22 september 1994 inzake de instelling van een Europese ondernemingsraad of van een procedure in ondernemingen of concerns met een communautaire dimensie ter informatie en raadpleging van de werknemers (Wet op de Europese ondernemingsraden)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is uitvoering te geven aan de [richtlijn nr. 94/45/EG](31994L0045) van de Raad van de Europese Unie van 22 september 1994 inzake de instelling van een Europese ondernemingsraad of van een procedure in ondernemingen of concerns met een communautaire dimensie ter informatie en raadpleging van de werknemers;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -58,19 +28,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. een communautaire groep: het geheel van ondernemingen bestaande uit een moederonderneming als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2017-12-16&g=2017-12-16) en de onderneming of ondernemingen waarover zij de zeggenschap uitoefent en waarvan:
 
-- 1°. ten minste twee ondernemingen in verschillende betrokken staten zijn gevestigd en
+   - 1°. ten minste twee ondernemingen in verschillende betrokken staten zijn gevestigd en
 
-- 2°. sinds twee jaar ten minste een onderneming gemiddeld ten minste 150 werknemers in een betrokken staat en een andere onderneming gemiddeld ten minste 150 werknemers in een andere betrokken staat heeft en
+   - 2°. sinds twee jaar ten minste een onderneming gemiddeld ten minste 150 werknemers in een betrokken staat en een andere onderneming gemiddeld ten minste 150 werknemers in een andere betrokken staat heeft en
 
-- 3°. alle ondernemingen tezamen sinds twee jaar gemiddeld ten minste 1000 werknemers in de betrokken staten hebben;
+   - 3°. alle ondernemingen tezamen sinds twee jaar gemiddeld ten minste 1000 werknemers in de betrokken staten hebben;
 
-- e. **grensoverschrijdende aangelegenheden:** aangelegenheden die voor de gehele communautaire onderneming of voor de gehele communautaire groep van belang zijn, of voor ten minste twee ondernemingen of vestigingen van een communautaire onderneming of een communautaire groep in twee verschillende betrokken staten;
+- e. *grensoverschrijdende aangelegenheden:* aangelegenheden die voor de gehele communautaire onderneming of voor de gehele communautaire groep van belang zijn, of voor ten minste twee ondernemingen of vestigingen van een communautaire onderneming of een communautaire groep in twee verschillende betrokken staten;
 
 - f. hoofdbestuur: in het geval van een communautaire onderneming: het bestuur van deze onderneming; in het geval van een communautaire groep: het bestuur van de moederonderneming, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2017-12-16&g=2017-12-16);
 
-- g. **informatieverstrekking:** het verstrekken van gegevens over grensoverschrijdende aangelegenheden door het hoofdbestuur of een ander passender bestuursniveau aan werknemersvertegenwoordigers, op een zodanig tijdstip, op een zodanige wijze en met een zodanige inhoud dat werknemersvertegenwoordigers zich een grondig oordeel kunnen vormen over de gevolgen en, desgewenst, raadpleging met het hoofdbestuur of een ander passender bestuursniveau kunnen voorbereiden;
+- g. *informatieverstrekking:* het verstrekken van gegevens over grensoverschrijdende aangelegenheden door het hoofdbestuur of een ander passender bestuursniveau aan werknemersvertegenwoordigers, op een zodanig tijdstip, op een zodanige wijze en met een zodanige inhoud dat werknemersvertegenwoordigers zich een grondig oordeel kunnen vormen over de gevolgen en, desgewenst, raadpleging met het hoofdbestuur of een ander passender bestuursniveau kunnen voorbereiden;
 
-- h. **raadpleging:** het instellen van een dialoog en de uitwisseling van standpunten over voorgestelde maatregelen tussen het hoofdbestuur of een ander passender bestuursniveau en werknemersvertegenwoordigers, op een zodanig tijdstip, op een zodanige wijze en met een zodanige inhoud dat werknemersvertegenwoordigers in staat zijn op basis van de verstrekte informatie over voorgestelde maatregelen ten aanzien van grensoverschrijdende aangelegenheden waarmee de raadpleging verband houdt, binnen een redelijke termijn advies uit te brengen, waarmee rekening kan worden gehouden bij het nemen van het besluit.
+- h. *raadpleging:* het instellen van een dialoog en de uitwisseling van standpunten over voorgestelde maatregelen tussen het hoofdbestuur of een ander passender bestuursniveau en werknemersvertegenwoordigers, op een zodanig tijdstip, op een zodanige wijze en met een zodanige inhoud dat werknemersvertegenwoordigers in staat zijn op basis van de verstrekte informatie over voorgestelde maatregelen ten aanzien van grensoverschrijdende aangelegenheden waarmee de raadpleging verband houdt, binnen een redelijke termijn advies uit te brengen, waarmee rekening kan worden gehouden bij het nemen van het besluit.
 
 2. Indien een communautaire onderneming haar woonplaats of zetel buiten de betrokken staten heeft, wordt als hoofdbestuur aangemerkt:
 
@@ -80,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Indien de moederonderneming, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2017-12-16&g=2017-12-16), haar woonplaats of zetel buiten de betrokken staten heeft, kan zij als haar vertegenwoordiger aanwijzen het bestuur van een groepsonderneming met woonplaats of zetel binnen de betrokken staten. Bij gebreke van zulk een aanwijzing wordt het bestuur van de groepsonderneming met woonplaats of zetel binnen de betrokken staten die het grootste aantal werknemers heeft in één betrokken staat, als zodanig aangemerkt.
 
-4. Handelen of nalaten door het hoofdbestuur, bedoeld in het eerste lid, onderdeel **e** onderscheidenlijk het derde lid, wordt toegerekend aan de natuurlijke persoon of rechtspersoon, die de communautaire onderneming of de moederonderneming onderscheidenlijk de in het derde lid bedoelde groepsonderneming in stand houdt.
+4. Handelen of nalaten door het hoofdbestuur, bedoeld in het eerste lid, onderdeel *e* onderscheidenlijk het derde lid, wordt toegerekend aan de natuurlijke persoon of rechtspersoon, die de communautaire onderneming of de moederonderneming onderscheidenlijk de in het derde lid bedoelde groepsonderneming in stand houdt.
 
 ##### Artikel 2
 
@@ -102,7 +72,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Voor de toepassing van het eerste lid worden stemrechten, verbonden aan verpande aandelen, toegerekend aan de pandhouder, indien hij mag bepalen hoe de rechten worden uitgeoefend. Zijn de aandelen evenwel verpand voor een lening die de pandhouder heeft verstrekt in de gewone uitoefening van zijn bedrijf, dan worden de stemrechten hem slechts toegerekend, indien hij deze in eigen belang heeft uitgeoefend.
 
-5. Geen moederonderneming is een onderneming als bedoeld in [artikel 3, vijfde lid, onder **a.** of **c.**](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=3&z=2017-12-16&g=2017-12-16) van Verordening (EG) 139/2004 van de Raad van 20 januari 2004 betreffende de controle op concentraties van ondernemingen (PbEG 2004 L 24).
+5. Geen moederonderneming is een onderneming als bedoeld in [artikel 3, vijfde lid, onder *a.* of *c.*](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=3&z=2017-12-16&g=2017-12-16) van Verordening (EG) 139/2004 van de Raad van 20 januari 2004 betreffende de controle op concentraties van ondernemingen (PbEG 2004 L 24).
 
 6. Het recht dat op een onderneming van toepassing is, bepaalt of die onderneming een moederonderneming is als bedoeld in het eerste lid. Indien dat recht niet het recht van een betrokken staat is, wordt dat bepaald door het recht dat van toepassing is op de groepsonderneming, waarvan het bestuur de moederonderneming vertegenwoordigt krachtens [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=1&z=2017-12-16&g=2017-12-16).
 
@@ -230,7 +200,7 @@ een en ander onverminderd het bewijs dat een andere onderneming een overheersend
 
 - b. hoe de werknemers of hun vertegenwoordigers worden ingelicht en geraadpleegd over grensoverschrijdende aangelegenheden die belangrijke gevolgen voor de werknemers hebben;
 
-- c. de wijze waarop de werknemers of hun vertegenwoordigers over de in [onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2017-12-16&g=2017-12-16) bedoelde aangelegenheden kunnen vergaderen;
+- c. de wijze waarop de werknemers of hun vertegenwoordigers over de in [onderdeel *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2017-12-16&g=2017-12-16) bedoelde aangelegenheden kunnen vergaderen;
 
 - d. de financiële en materiële middelen die voor de uitvoering van de procedure ter beschikking worden gesteld.
 
@@ -263,6 +233,14 @@ een en ander onverminderd het bewijs dat een andere onderneming een overheersend
 1. Het hoofdbestuur draagt er zorg voor dat binnen de communautaire onderneming of groep de samenstelling van de bijzondere onderhandelingsgroep alsmede het tijdstip waarop een vergadering als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2017-12-16&g=2017-12-16) zal worden gehouden, wordt bekendgemaakt.
 
 2. Het hoofdbestuur stelt tevens de bevoegde en erkende werknemers- en werkgeversorganisaties op communautair niveau als bedoeld in artikel 154 van het Verdrag betreffende werking van de Europese Unie, in kennis van de samenstelling van de bijzondere onderhandelingsgroep, alsmede van het begin van de onderhandelingen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2017-12-16&g=2017-12-16).
+
+##### Artikel 14a
+
+1. Indien de structuur van de communautaire onderneming of groep, ingrijpend wordt gewijzigd en in de toepasselijke overeenkomsten daarover geen of strijdige bepalingen zijn opgenomen start het hoofdbestuur op eigen initiatief of op schriftelijk verzoek van ten minste 100 werknemers of hun vertegenwoordigers afkomstig uit ten minste twee ondernemingen of vestigingen in ten minste twee verschillende betrokken staten de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2017-12-16&g=2017-12-16), bedoelde onderhandelingen en richt daartoe een bijzondere onderhandelingsgroep op.
+
+2. Behalve de overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=9&z=2017-12-16&g=2017-12-16) gekozen of aangewezen leden van de bijzondere onderhandelingsgroep, zijn ten minste drie leden van de bestaande Europese ondernemingsraad of van elk van de bestaande Europese ondernemingsraden lid van de bijzondere onderhandelingsgroep.
+
+3. Tijdens de onderhandelingen, bedoeld in het eerste lid, blijven de bestaande Europese ondernemingsraad of -raden functioneren in overeenstemming met de toepasselijke overeenkomst of overeenkomsten, danwel blijft een andere procedure van informatieverstrekking en raadpleging van werknemers van toepassing, indien die is overeengekomen.
 
 #### Paragraaf 3. Subsidiaire bepalingen over informatieverstrekking en raadpleging buiten overeenkomst
 
@@ -364,30 +342,12 @@ Indien ter uitvoering van de richtlijn in een andere betrokken staat dan Nederla
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Deze wet treedt in werking met ingang van 22 september 1996. Indien het **Staatsblad** waarin deze wet wordt geplaatst wordt uitgegeven na 21 september 1996, treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+Deze wet treedt in werking met ingang van 22 september 1996. Indien het *Staatsblad* waarin deze wet wordt geplaatst wordt uitgegeven na 21 september 1996, treedt zij in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.
 
 ##### Artikel 28
 
 Deze wet wordt aangehaald als: Wet op de Europese ondernemingsraden.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 14a
-
-1. Indien de structuur van de communautaire onderneming of groep, ingrijpend wordt gewijzigd en in de toepasselijke overeenkomsten daarover geen of strijdige bepalingen zijn opgenomen start het hoofdbestuur op eigen initiatief of op schriftelijk verzoek van ten minste 100 werknemers of hun vertegenwoordigers afkomstig uit ten minste twee ondernemingen of vestigingen in ten minste twee verschillende betrokken staten de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2017-12-16&g=2017-12-16), bedoelde onderhandelingen en richt daartoe een bijzondere onderhandelingsgroep op.
-
-2. Behalve de overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=9&z=2017-12-16&g=2017-12-16) gekozen of aangewezen leden van de bijzondere onderhandelingsgroep, zijn ten minste drie leden van de bestaande Europese ondernemingsraad of van elk van de bestaande Europese ondernemingsraden lid van de bijzondere onderhandelingsgroep.
-
-3. Tijdens de onderhandelingen, bedoeld in het eerste lid, blijven de bestaande Europese ondernemingsraad of -raden functioneren in overeenstemming met de toepasselijke overeenkomst of overeenkomsten, danwel blijft een andere procedure van informatieverstrekking en raadpleging van werknemers van toepassing, indien die is overeengekomen.
-
-#### Paragraaf 3. Subsidiaire bepalingen over informatieverstrekking en raadpleging buiten overeenkomst
-
-### Hoofdstuk 3. Informatieverstrekking en raadpleging van werknemers in niet-Nederlandse communautaire ondernemingen en groepen
-
-### Hoofdstuk 4. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

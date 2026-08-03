@@ -1,43 +1,18 @@
 ---
 title: "Regeling inzake vermindering en vrijstelling van Letse belasting op dividenden, interest en royalty’s en sommige andere soorten van inkomsten, genoten door inwoner van Nederland"
+citeertitel: "Letse uitvoeringsvoorschriften belastingverdrag Nederland-Letland"
 identifier: "BWBR0008539"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-03-19"
-last_updated: "1996-03-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008539"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3960773"
-version_id: "5733922"
-internal_id: "C5936651"
-label_id: "3940834"
-dtd_version: "2.0"
-original_entry_into_force: "1996-03-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008539/1996-03-19/0"
-intitule_bron: "Stcrt.1997-32"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-02-06"
-intitule_published: "1997-02-14"
-intitule_in_force: "1997-02-14"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-32"
-original_signed_date: "1997-02-06"
-original_published_date: "1997-02-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-03-19"
-jci_1_3: "jci1.3:c:BWBR0008539&z=1996-03-19&g=1996-03-19"
-jci_1_0: "1.0:c:BWBR0008539&g=1996-03-19"
-citeertitel_status: "officieel"
-short_title: "Letse uitvoeringsvoorschriften belastingverdrag Nederland-Letland"
-signed_date: "1997-02-06"
-entry_into_force: "1996-03-19"
+publicatiedatum: 1996-03-19
+laatste_update: 1996-03-19
+status: geldig
+toestand: 1996-03-19
+bron: "https://wetten.overheid.nl/BWBR0008539"
+opgehaald: 2026-08-03
 ---
+
 # Regeling inzake vermindering en vrijstelling van Letse belasting op dividenden, interest en royalty’s en sommige andere soorten van inkomsten, genoten door inwoner van Nederland
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
 ##### Artikel 1
 
@@ -53,9 +28,9 @@ Aan het op 14 maart 1994 tussen Nederland en Letland gesloten Verdrag tot het ve
 
 - e. algehele vrijstelling van de Letse belasting op uit Letland afkomstige interest, genoten door een onderneming die inwoner van Nederland is en de uiteindelijk gerechtigde daarvan is, en:
 
-- i. de interest wordt betaald ter zake van een schuld ontstaan uit de verkoop op krediet van koopwaar of nijverheids-, handels-of wetenschappelijke uitrusting door die onderneming, aan een onderneming in Letland, behoudens waar het een verkoop of schuld betreft tussen gelieerde personen (artikel 11, derde lid, onderdeel d (i)); of
+   - i. de interest wordt betaald ter zake van een schuld ontstaan uit de verkoop op krediet van koopwaar of nijverheids-, handels-of wetenschappelijke uitrusting door die onderneming, aan een onderneming in Letland, behoudens waar het een verkoop of schuld betreft tussen gelieerde personen (artikel 11, derde lid, onderdeel d (i)); of
 
-- ii. deze interest wordt betaald ter zake van een lening van welke aard ook met een looptijd van langer dan een jaar, verstrekt aan een onderneming door een bank die als zodanig is erkend volgens de wettelijke bepalingen in Nederland (artikel 11, derde lid, onderdeel d (ii)). De bepalingen van artikel 11, derde lid, onderdeel d (ii) zijn slechts van toepassing gedurende de eerste vijf jaren nadat dit Verdrag voor het eerst toepassing vindt. Deze periode kan in onderlinge overeenstemming tussen de bevoegde autoriteiten van Nederland en Letland worden verlengd. Nederland en Letland zullen elkaar schriftelijk via diplomatieke kanalen van een zodanige overeenstemming op de hoogte stellen (onderdeel IX van het Protocol);
+   - ii. deze interest wordt betaald ter zake van een lening van welke aard ook met een looptijd van langer dan een jaar, verstrekt aan een onderneming door een bank die als zodanig is erkend volgens de wettelijke bepalingen in Nederland (artikel 11, derde lid, onderdeel d (ii)). De bepalingen van artikel 11, derde lid, onderdeel d (ii) zijn slechts van toepassing gedurende de eerste vijf jaren nadat dit Verdrag voor het eerst toepassing vindt. Deze periode kan in onderlinge overeenstemming tussen de bevoegde autoriteiten van Nederland en Letland worden verlengd. Nederland en Letland zullen elkaar schriftelijk via diplomatieke kanalen van een zodanige overeenstemming op de hoogte stellen (onderdeel IX van het Protocol);
 
 - f. vermindering tot 10 percent van de Letse belasting op de niet onder de onderdelen c, d en e vallende interest, afkomstig uit Letland en betaald aan een inwoner van Nederland die de uiteindelijk gerechtigde daarvan is (artikel 11, tweede lid). Ingeval Letland in zijn nationale wetgeving een bronbelasting op interest invoert, dan zal, niettegenstaande de bepalingen van artikel 11, tweede lid, gedurende een tijdvak van vijf jaren na zodanige invoering geen bronbelasting worden geheven over interest betaald ter zake van overeenkomsten gesloten voor 14 maart 1994 (onderdeel X van het Protocol);
 
@@ -71,9 +46,9 @@ Ter uitvoering van de door Letland met andere landen gesloten verdragen ter voor
 
 Hierna wordt voor inwoners van Nederland aangegeven op welke wijze zij hun uit het Nederlands-Letse belastingverdrag voortvloeiende aanspraak op gehele of gedeeltelijke vrijstelling of teruggaaf van Letse belasting kunnen realiseren.
 
-Letse belasting
+1. Letse belasting
 
-1. Volgens de huidige Letse wetgeving zijn dividenden, interest (indien betaald aan gelieerde lichamen of personen), vergoedingen voor diensten van bestuurlijke en raadgevende aard, huuropbrengsten en royalty’s (uitgezonderd royalty’s betaald aan natuurlijke personen) betaald aan niet inwoners van Letland onderworpen aan ondernemingsbelasting (enterprise income tax), waarvan de tarieven als volgt bedragen:
+Volgens de huidige Letse wetgeving zijn dividenden, interest (indien betaald aan gelieerde lichamen of personen), vergoedingen voor diensten van bestuurlijke en raadgevende aard, huuropbrengsten en royalty’s (uitgezonderd royalty’s betaald aan natuurlijke personen) betaald aan niet inwoners van Letland onderworpen aan ondernemingsbelasting (enterprise income tax), waarvan de tarieven als volgt bedragen:
 
 - dividenden 10%
 
@@ -91,9 +66,9 @@ Letse belasting
 
 Voorts zijn in Letland royalty’s betaald aan natuurlijke personen die geen inwoner van Letland zijn onderworpen aan inkomstenbelasting (personal income tax) naar een tarief van 25%. Ook zijn aan die belasting onderworpen natuurlijke personen die geen inwoner van Letland zijn voor hun salaris, hun loon en andere soortgelijke beloningen die zij in of vanuit Letland ontvangen ter zake van een binnen of buiten Letland uitgeoefende dienstbetrekking, voor hun directeursbeloning en voor hun inkomsten uit zelfstandige arbeid (met inbegrip van de inkomsten van artiesten en sportbeoefenaars).
 
-Vrijstellingsprocedure
+2. Vrijstellingsprocedure
 
-2. Als algemene regel geldt dat de in het Nederlands-Letse belastingverdrag neergelegd verminderingen en vrijstellingen in Letland, waarvan de belangrijkste zijn vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008539&artikel=1&z=1996-03-19&g=1996-03-19) hiervoor, bij de bron worden verleend. Tot het verkrijgen van de vermindering of vrijstelling aan de bron dient de belanghebbende inwoner van Nederland gebruik te maken van het formulier ’Residence certificate-application for reduction of or exemption from Latvian taxes’. Dit formulier, luidende in de Letse en Engelse taal, moet door de belanghebbende inwoner van Nederland in drievoud worden ingevuld en ondertekend. Vervolgens moet hij de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is.
+Als algemene regel geldt dat de in het Nederlands-Letse belastingverdrag neergelegd verminderingen en vrijstellingen in Letland, waarvan de belangrijkste zijn vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008539&artikel=1&z=1996-03-19&g=1996-03-19) hiervoor, bij de bron worden verleend. Tot het verkrijgen van de vermindering of vrijstelling aan de bron dient de belanghebbende inwoner van Nederland gebruik te maken van het formulier ’Residence certificate-application for reduction of or exemption from Latvian taxes’. Dit formulier, luidende in de Letse en Engelse taal, moet door de belanghebbende inwoner van Nederland in drievoud worden ingevuld en ondertekend. Vervolgens moet hij de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is.
 
 De inspecteur voorziet de drie exemplaren van het formulier van dag-tekening en ondertekening van de daarop voorkomende bevestiging, maakt een fotokopie van het formulier ten behoeve van de legger van de aanvrager en zendt de drie exemplaren aan hem terug. Nadat de belanghebbende inwoner van Nederland de drie gecertificeerde exemplaren van het formulier heeft terugontvangen, behoudt hij het derde exemplaar van het formulier en zendt hij het eerste en het tweede exemplaar aan de Letse schuldenaar van de inkomsten, die vervolgens die inkomsten mag uitbetalen zonder inhouding van Letse belasting of onder inhouding van Letse belasting naar ten hoogste het in het Nederlands-Letse belastingverdrag neergelegde percentage.
 
@@ -101,25 +76,25 @@ Indien het formulier door een gemachtigde wordt ingevuld en ondertekend, moet ee
 
 Het formulier ’Residence certificate-application for reduction of or exemption from Latvian taxes’ heeft een geldigheidsduur van één belastingjaar, tenzij als gevolg van de uitwisseling van informatie tussen de bevoegde autoriteiten van Letland en Nederland de duur daarvan korter is (bijvoorbeeld de genieter van de inkomsten wordt niet het gehele belastingjaar maar een deel daarvan als inwoner van Nederland aangemerkt).
 
-Teruggaafprocedure
+3. Teruggaafprocedure
 
-3. Indien bij de uitbetaling van de Letse inkomsten de Letse belasting ten volle is ingehouden, dan kan teruggaaf van de op grond van het Verdrag te veel ingehouden belasting worden verzocht door middel van het formulier ’Residence certificate-application for refund of Latvian taxes’. Dit formulier, luidende in de Engelse en Letse taal, moet door de belanghebbende inwoner van Nederland in enkelvoud worden ingevuld en ondertekend. Vervolgens moet hij het ingevulde en ondertekende formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. De inspecteur voorziet het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging, maakt een fotokopie van het formulier ten behoeve van de legger van de aanvrager en zendt het formulier aan hem terug. Nadat de belanghebbende inwoner van Nederland het gecertificeerde formulier heeft terugontvangen, zendt hij dat formulier naar State Revenue Service, Smilsu iela 1, Riga LV-1978, Republic of Latvia. Vervolgens verleent de State Revenue Service de gevraagde teruggaaf onder de voorwaarden en in overeenstemming met de procedure voorzien in artikel 28 van de Wet op belastingen en vergoedingen.
+Indien bij de uitbetaling van de Letse inkomsten de Letse belasting ten volle is ingehouden, dan kan teruggaaf van de op grond van het Verdrag te veel ingehouden belasting worden verzocht door middel van het formulier ’Residence certificate-application for refund of Latvian taxes’. Dit formulier, luidende in de Engelse en Letse taal, moet door de belanghebbende inwoner van Nederland in enkelvoud worden ingevuld en ondertekend. Vervolgens moet hij het ingevulde en ondertekende formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. De inspecteur voorziet het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging, maakt een fotokopie van het formulier ten behoeve van de legger van de aanvrager en zendt het formulier aan hem terug. Nadat de belanghebbende inwoner van Nederland het gecertificeerde formulier heeft terugontvangen, zendt hij dat formulier naar State Revenue Service, Smilsu iela 1, Riga LV-1978, Republic of Latvia. Vervolgens verleent de State Revenue Service de gevraagde teruggaaf onder de voorwaarden en in overeenstemming met de procedure voorzien in artikel 28 van de Wet op belastingen en vergoedingen.
 
 Indien het formulier door een gemachtigde wordt ingevuld en ondertekend, moet een machtiging worden bijgevoegd.
 
 Het formulier ’Residence certificate-application for refund of Latvian taxes’ is slechts geldig voor het verkrijgen van teruggaaf van Letse belasting die is geheven van de in dat formulier genoemde inkomsten.
 
-Verzoek om nadere informatie
+4. Verzoek om nadere informatie
 
-4. De State Revenue Service kan de belanghebbende inwoner van Nederland om nadere informatie vragen waaruit blijkt dat hij op het moment van betaling van de Letse inkomsten op grond van het Nederlands-Letse belastingverdrag gerechtigd is/was tot gehele of gedeeltelijke vrijstelling of teruggaaf van Letse belasting.
+De State Revenue Service kan de belanghebbende inwoner van Nederland om nadere informatie vragen waaruit blijkt dat hij op het moment van betaling van de Letse inkomsten op grond van het Nederlands-Letse belastingverdrag gerechtigd is/was tot gehele of gedeeltelijke vrijstelling of teruggaaf van Letse belasting.
 
-Termijn van indiening van verzoeken om teruggaaf van belasting
+5. Termijn van indiening van verzoeken om teruggaaf van belasting
 
-5. In de gevallen waarin teruggaaf wordt verzocht van de op de Letse inkomsten te veel ingehouden Letse belasting, moet het formulier ’Residence certificate-application for refund of Latvian taxes’ worden ingediend binnen een tijdvak van drie jaren na afloop van het kalenderjaar waarin de belasting is geheven (onderdeel 8 van de Letse uitvoeringsvoorschriften en onderdeel VIII van het Protocol bij het Verdrag)
+In de gevallen waarin teruggaaf wordt verzocht van de op de Letse inkomsten te veel ingehouden Letse belasting, moet het formulier ’Residence certificate-application for refund of Latvian taxes’ worden ingediend binnen een tijdvak van drie jaren na afloop van het kalenderjaar waarin de belasting is geheven (onderdeel 8 van de Letse uitvoeringsvoorschriften en onderdeel VIII van het Protocol bij het Verdrag)
 
-Verkrijgbaarheid van de Letse formulieren
+6. Verkrijgbaarheid van de Letse formulieren
 
-6. Exemplaren van de Letse formulieren ’Residence certificate-application for reduction of or exemption from Latvian taxes’ en ’Residence certificate-application for refund of Latvian taxes’ zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/
+Exemplaren van de Letse formulieren ’Residence certificate-application for reduction of or exemption from Latvian taxes’ en ’Residence certificate-application for refund of Latvian taxes’ zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/
 
 Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Letland bij de State Revenue Service, Smilsu iela 1, Riga
 

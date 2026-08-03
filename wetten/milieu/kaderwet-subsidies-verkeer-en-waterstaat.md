@@ -1,49 +1,18 @@
 ---
 title: "Wet van 17 december 1997, houdende regels inzake de verstrekking van subsidies door de Minister van Verkeer en Waterstaat (Kaderwet subsidies Verkeer en Waterstaat)"
+citeertitel: "Kaderwet subsidies Verkeer en Waterstaat"
 identifier: "BWBR0009196"
-country: "nl"
-rank: "wet"
-publication_date: "2009-11-25"
-last_updated: "2009-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009196"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "657953"
-version_id: "955992"
-internal_id: "C955991"
-label_id: "637994"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009196/2009-11-25/0"
-intitule_bron: "Stb.1997-724"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-17"
-intitule_published: "1997-12-29"
-intitule_in_force: "1997-12-18"
-intitule_status: "goed"
-original_publication: "Stb.1997-724"
-original_signed_date: "1997-12-17"
-original_published_date: "1997-12-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "25534"
-original_url_id: "stb-1997-724"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0009196&z=2009-11-25&g=2009-11-25"
-jci_1_0: "1.0:c:BWBR0009196&g=2009-11-25"
-citeertitel_status: "officieel"
-short_title: "Kaderwet subsidies Verkeer en Waterstaat"
-signed_date: "1997-12-17"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2009-11-25
+status: geldig
+toestand: 2009-11-25
+bron: "https://wetten.overheid.nl/BWBR0009196"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 17 december 1997, houdende regels inzake de verstrekking van subsidies door de Minister van Verkeer en Waterstaat (Kaderwet subsidies Verkeer en Waterstaat)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de totstandkoming van de derde tranche van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) het wenselijk maakt een wettelijk kader te scheppen voor de verstrekking van een aantal subsidies door de Minister van Verkeer en Waterstaat;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt volgens Stb. 1997/725 in werking met ingang van de dag dat de Derde tranche Algemene wet bestuursrecht in werking treedt.
 
 ##### Artikel 1
 
@@ -126,5 +95,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 8
 
 Deze wet wordt aangehaald als: Kaderwet subsidies Verkeer en Waterstaat.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

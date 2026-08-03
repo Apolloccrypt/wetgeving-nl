@@ -1,40 +1,17 @@
 ---
 title: "Mexicaanse procedure tot uitvoering belastingverdrag Nederland-Mexico"
 identifier: "BWBR0008596"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-03-23"
-last_updated: "1997-03-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008596"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4326323"
-version_id: "6090592"
-internal_id: "C6294101"
-label_id: "4304884"
-dtd_version: "2.0"
-original_entry_into_force: "1997-03-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008596/1997-03-23/0"
-intitule_bron: "Stcrt.1997-57"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-03-14"
-intitule_published: "1997-02-21"
-intitule_in_force: "1997-02-21"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-57"
-original_signed_date: "1997-03-14"
-original_published_date: "1997-02-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-03-23"
-jci_1_3: "jci1.3:c:BWBR0008596&z=1997-03-23&g=1997-03-23"
-jci_1_0: "1.0:c:BWBR0008596&g=1997-03-23"
-citeertitel_status: "officieel"
-signed_date: "1997-03-14"
-entry_into_force: "1997-03-23"
+publicatiedatum: 1997-03-23
+laatste_update: 1997-03-23
+status: geldig
+toestand: 1997-03-23
+bron: "https://wetten.overheid.nl/BWBR0008596"
+opgehaald: 2026-08-03
 ---
-# Mexicaanse procedure tot uitvoering belastingverdrag Nederland-Mexico
 
-Besluit:
+# Mexicaanse procedure tot uitvoering belastingverdrag Nederland-Mexico
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -48,35 +25,35 @@ Aan het op 27 september 1993 tussen Nederland en Mexico gesloten Verdrag tot het
 
 - d. algehele vrijstelling van Mexicaanse belasting op interest, afkomstig uit Mexico en voor zover deze interest wordt betaald:
 
-- 1. ter zake van een obligatie, schuldbewijs of soortgelijke verplichting van de Regering van Mexico, de Centrale Bank van Mexico, een staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan (artikel 11, derde lid, onderdeel a);
+   - 1. ter zake van een obligatie, schuldbewijs of soortgelijke verplichting van de Regering van Mexico, de Centrale Bank van Mexico, een staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan (artikel 11, derde lid, onderdeel a);
 
-- 2. ter zake van een obligatie, schuldbewijs of soortgelijke verplichting aan de Regering van Nederland, de Centrale Bank van Nederland (Nederlandsche Bank NV), een staatkundig onderdeel of publiekrechtelijk lichaam daarvan (artikel 11, derde lid, onderdeel b);
+   - 2. ter zake van een obligatie, schuldbewijs of soortgelijke verplichting aan de Regering van Nederland, de Centrale Bank van Nederland (Nederlandsche Bank NV), een staatkundig onderdeel of publiekrechtelijk lichaam daarvan (artikel 11, derde lid, onderdeel b);
 
-- 3. ter zake van leningen op preferentiële voorwaarden, bedoeld ter bevordering van de ontwikkeling en export, met een looptijd van drie jaren of meer, en gegarandeerd of verzekerd door de Regering van Nederland, de Centrale Bank van Nederland (Nederlandsche Bank NV) of enig agentschap dat of enige instantie (waaronder begrepen een financiële instelling) die eigendom is van de Nederlandse Regering (artikel 11, derde lid, onderdeel c). De bepalingen van dit punt zijn van toepassing op de Nederlandse Financieringsmaatschappij voor Ontwikkelingslanden NV en de Nederlandse Investeringsbank voor Ontwikkelingslanden NV. De bevoegde autoriteiten kunnen in onderling overleg andere agentschappen of instanties aanwijzen, waarop de bepalingen van dit punt in elk geval van toepassing zijn (onderdeel IX, vierde lid, van het Protocol);
+   - 3. ter zake van leningen op preferentiële voorwaarden, bedoeld ter bevordering van de ontwikkeling en export, met een looptijd van drie jaren of meer, en gegarandeerd of verzekerd door de Regering van Nederland, de Centrale Bank van Nederland (Nederlandsche Bank NV) of enig agentschap dat of enige instantie (waaronder begrepen een financiële instelling) die eigendom is van de Nederlandse Regering (artikel 11, derde lid, onderdeel c). De bepalingen van dit punt zijn van toepassing op de Nederlandse Financieringsmaatschappij voor Ontwikkelingslanden NV en de Nederlandse Investeringsbank voor Ontwikkelingslanden NV. De bevoegde autoriteiten kunnen in onderling overleg andere agentschappen of instanties aanwijzen, waarop de bepalingen van dit punt in elk geval van toepassing zijn (onderdeel IX, vierde lid, van het Protocol);
 
-- 4. aan een erkend pensioenfonds in Nederland (artikel 11, derde lid, onderdeel d). Een pensioenfonds dat als zodanig erkend is in Nederland en waarvan het inkomen in het algemeen is vrijgesteld van belasting in Nederland zal als inwoner van Nederland worden beschouwd. Als zulk een pensioenfonds zal worden beschouwd elk pensioenfonds dat in Nederland erkend is en volgens de Nederlandse wettelijke bepalingen onder toezicht staat (onderdeel I van het Protocol);
+   - 4. aan een erkend pensioenfonds in Nederland (artikel 11, derde lid, onderdeel d). Een pensioenfonds dat als zodanig erkend is in Nederland en waarvan het inkomen in het algemeen is vrijgesteld van belasting in Nederland zal als inwoner van Nederland worden beschouwd. Als zulk een pensioenfonds zal worden beschouwd elk pensioenfonds dat in Nederland erkend is en volgens de Nederlandse wettelijke bepalingen onder toezicht staat (onderdeel I van het Protocol);
 
 - e. vermindering tot 10% van de Mexicaanse belasting op interest afkomstig uit Mexico en betaald aan een inwoner van Nederland die de uiteindelijk gerechtigde daarvan is ter zake van:
 
-- 1. elke lening van welke soort dan ook die verstrekt is door een bank of enige andere financiële instelling, met inbegrip van investeringsbanken en spaarbanken, en verzekeringsmaatschappijen (onderdeel IX, eerste lid, letter A, sub i, van het Protocol);
+   - 1. elke lening van welke soort dan ook die verstrekt is door een bank of enige andere financiële instelling, met inbegrip van investeringsbanken en spaarbanken, en verzekeringsmaatschappijen (onderdeel IX, eerste lid, letter A, sub i, van het Protocol);
 
-- 2. obligaties en waardepapieren die in wezenlijke mate en regelmatig worden verhandeld aan een erkende effectenbeurs (onderdeel IX, eerste lid, letter A, sub ii, van het Protocol);
+   - 2. obligaties en waardepapieren die in wezenlijke mate en regelmatig worden verhandeld aan een erkende effectenbeurs (onderdeel IX, eerste lid, letter A, sub ii, van het Protocol);
 
 - f. vermindering tot 5 percent van de Mexicaanse belasting op interest afkomstig uit Mexico en betaald na 13 oktober 1999 aan een inwoner van Nederland die de uiteindelijk gerechtigde daarvan is ter zake van: De bepalingen van dit onderdeel zijn slechts van toepassing zolang Nederland op grond van zijn nationale wetgeving geen bronbelasting heft op interest betaald aan een inwoner van Mexico (onderdeel IX, eerste lid, laatste volzin, van het Protocol). Voor de toepassing van de onderdelen e, punt 2, en f, punt 2, betekent de uitdrukking ’erkende effectenbeurs’: Ingeval Mexico voornemens is de voordelen van de onderdelen e en f, te ontzeggen in verband met het vereiste van ’in wezenlijke mate en regelmatig worden verhandeld’, als genoemd in de onderdelen e, punt 2, en f, punt 2, zal zijn bevoegde autoriteit van te voren met de bevoegde autoriteit van Nederland overleggen, teneinde in onderlinge overeenstemming vast te stellen of de bepaling van de onderdelen e en f van toepassing is (onderdeel IX, derde lid, van het Protocol);
 
-- 1. elke lening van welke soort dan ook die verstrekt is door een bank, met inbegrip van investeringsbanken en spaarbanken en verzekeringsmaatschappijen (onderdeel IX, eerste lid, letter B, onderdeel a, sub i, van het Protocol);
+   - 1. elke lening van welke soort dan ook die verstrekt is door een bank, met inbegrip van investeringsbanken en spaarbanken en verzekeringsmaatschappijen (onderdeel IX, eerste lid, letter B, onderdeel a, sub i, van het Protocol);
 
-- 2. obligaties en waardepapieren die in wezenlijke mate en regelmatig worden verhandeld aan een erkende effectenbeurs (onderdeel IX, eerste lid, letter B, onderdeel a, sub ii, van het Protocol). In afwijking van het vorenstaande bedraagt het percentage echter 10 percent indien de uiteindelijk gerechtigde niet een persoon is als beschreven in dit onderdeel in geval van rente:
+   - 2. obligaties en waardepapieren die in wezenlijke mate en regelmatig worden verhandeld aan een erkende effectenbeurs (onderdeel IX, eerste lid, letter B, onderdeel a, sub ii, van het Protocol). In afwijking van het vorenstaande bedraagt het percentage echter 10 percent indien de uiteindelijk gerechtigde niet een persoon is als beschreven in dit onderdeel in geval van rente:
 
-- 1. betaald door een bank, met inbegrip van investeringsbanken en spaarbanken (onderdeel IX, eerste lid, letter B, onderdeel b, sub i, van het Protocol);
+      - 1. betaald door een bank, met inbegrip van investeringsbanken en spaarbanken (onderdeel IX, eerste lid, letter B, onderdeel b, sub i, van het Protocol);
 
-- 2. betaald door de koper van machines en uitrusting aan een uiteindelijk gerechtigde die de verkoper van die machines of uitrusting is in samenhang met een verkoop op krediet (onderdeel IX, eerste lid, letter B, onderdeel b, sub ii, van het Protocol).
+      - 2. betaald door de koper van machines en uitrusting aan een uiteindelijk gerechtigde die de verkoper van die machines of uitrusting is in samenhang met een verkoop op krediet (onderdeel IX, eerste lid, letter B, onderdeel b, sub ii, van het Protocol).
 
-- 1. in het geval van Nederland: effectenbeurzen die zijn erkend op grond van artikel 16 van de Wet Toezicht Effectenverkeer (onderdeel IX, tweede lid, onderdeel a, van het Protocol);
+   - 1. in het geval van Nederland: effectenbeurzen die zijn erkend op grond van artikel 16 van de Wet Toezicht Effectenverkeer (onderdeel IX, tweede lid, onderdeel a, van het Protocol);
 
-- 2. in het geval van Mexico: effectenbeurzen die voldoen aan de voorwaarden van de Wet op de Effectenbeurs (Mercado de Valores) van 2 januari 1975 (onderdeel IX, tweede lid, onderdeel b, van het Protocol);
+   - 2. in het geval van Mexico: effectenbeurzen die voldoen aan de voorwaarden van de Wet op de Effectenbeurs (Mercado de Valores) van 2 januari 1975 (onderdeel IX, tweede lid, onderdeel b, van het Protocol);
 
-- 3. elke andere effectenbeurs waarover de bevoegde autoriteiten van de beide Staten overeenstemming bereiken (onderdeel IX, tweede lid, onderdeel c, van het Protocol).
+   - 3. elke andere effectenbeurs waarover de bevoegde autoriteiten van de beide Staten overeenstemming bereiken (onderdeel IX, tweede lid, onderdeel c, van het Protocol).
 
 - g. vermindering tot 15 percent van de Mexicaanse belasting op niet onder de onderdelen e en f vallende interest, afkomstig uit Mexico en betaald aan een inwoner van Nederland, die de uiteindelijk gerechtigde daarvan is (artikel 11, tweede lid);
 
@@ -100,17 +77,17 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008596&a
 
 - 2. Wijze waarop met betrekking tot interest en royalty’s in Mexico vermindering of vrijstelling wordt verleend. Onder de werking van de door Mexico gesloten belastingverdragen, waar-onder dat met Nederland, zijn door Mexico geen speciale voorschriften tot uitvoering van die belastingverdragen vastgesteld. In de praktijk worden de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008596&artikel=1&z=1997-03-23&g=1997-03-23) met betrekking tot interest en royalty’s vermelde vrijstellingen en verminderingen in Mexico in beginsel bij de bron verleend. Daartoe dient de in Nederland wonende genieter van de interest en royalty’s aan de Mexicaanse schuldenaar van die inkomsten (inhoudingsplichtige) over te leggen:
 
-- a. een gedateerde en ondertekende woonplaatsverklaring van de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is;
+   - a. een gedateerde en ondertekende woonplaatsverklaring van de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is;
 
-- b. een verklaring dat hij de uiteindelijk gerechtigde tot de desbetreffende Mexicaanse inkomsten is. Op basis van deze verklaringen mag de inhoudingsplichtige de desbetreffende Mexicaanse inkomsten zonder inhouding van Mexicaanse belasting of onder inhouding van Mexicaanse belasting naar de in het Nederlands-Mexicaanse belastingverdrag neergelegde percentages uitbetalen.
+   - b. een verklaring dat hij de uiteindelijk gerechtigde tot de desbetreffende Mexicaanse inkomsten is. Op basis van deze verklaringen mag de inhoudingsplichtige de desbetreffende Mexicaanse inkomsten zonder inhouding van Mexicaanse belasting of onder inhouding van Mexicaanse belasting naar de in het Nederlands-Mexicaanse belastingverdrag neergelegde percentages uitbetalen.
 
 - 3. Verzoek om teruggaaf, indien te veel Mexicaanse belasting is ingehouden. In gevallen waarin in afwijking van het bepaalde in het tweede lid, van dit artikel, bij de uitbetaling van de interest en royalty’s ten onrechte of te veel Mexicaanse belasting is ingehouden, dient de in Nederland wonende genieter van die inkomsten aan het Hoofd van de Administration Especial de Recaudación bij wie de Mexicaanse schuldenaar van die inkomsten (inhoudingsplichtige) zijn belastingaangifte doet, over te leggen:
 
-- a. een kopie van het formulier 28, dat door de Mexicaanse inhoudingsplichtige is afgegeven en door hem volledig moet zijn ingevuld en ondertekend;
+   - a. een kopie van het formulier 28, dat door de Mexicaanse inhoudingsplichtige is afgegeven en door hem volledig moet zijn ingevuld en ondertekend;
 
-- b. een gedateerde en ondertekende woonplaatsverklaring van de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is;
+   - b. een gedateerde en ondertekende woonplaatsverklaring van de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is;
 
-- c. een verklaring dat hij de uiteindelijk gerechtigde tot de desbetreffende Mexicaanse inkomsten is.
+   - c. een verklaring dat hij de uiteindelijk gerechtigde tot de desbetreffende Mexicaanse inkomsten is.
 
 - 4. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf van belasting ingehouden op interest en royalty’s moeten worden ingediend binnen een tijdvak van drie jaren na afloop van het kalenderjaar waarin de belasting is geheven (onderdeel VIII van het Protocol).
 

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 25 juni 1997 tot vaststelling van een Beginselenwet verpleging ter beschikking gestelden en overige verpleegden strafrechtstoepassing en daarmede verband houdende wijzigingen van het Wetboek van Strafrecht en de Beginselenwet gevangeniswezen (Beginselenwet verpleging ter beschikking gestelden)"
+citeertitel: "Beginselenwet verpleging ter beschikking gestelden"
 identifier: "BWBR0008765"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008765"
+categorie: "Strafrecht"
 soort: "wet"
-stam_id: "3228993"
-version_id: "25793592"
-internal_id: "C38438401"
-label_id: "3201124"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008765/2025-07-01/0"
-intitule_bron: "Stb.1997-280"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-06-25"
-intitule_published: "1997-07-08"
-intitule_in_force: "1997-07-10"
-intitule_status: "goed"
-original_publication: "Stb.2019-141"
-original_signed_date: "2019-04-03"
-original_published_date: "2019-04-12"
-original_effect: "structuurwijziging"
-original_dossier: "33844"
-original_url_id: "stb-2019-141"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0008765&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0008765&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Beginselenwet verpleging ter beschikking gestelden"
-signed_date: "2019-04-03"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0008765"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 25 juni 1997 tot vaststelling van een Beginselenwet verpleging ter beschikking gestelden en overige verpleegden strafrechtstoepassing en daarmede verband houdende wijzigingen van het Wetboek van Strafrecht en de Beginselenwet gevangeniswezen (Beginselenwet verpleging ter beschikking gestelden)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regels vast te stellen omtrent de beginselen waarop de verpleging in inrichtingen voor verpleging van ter beschikking gestelden en de rechtspositie van verpleegden, in het bijzonder van de ter beschikking gestelden die in justitiële inrichtingen als bedoeld in [artikel 90quinquies, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=90), worden verpleegd, berusten en in verband daarmee enige bepalingen van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) en de Beginselenwet gevangeniswezen te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### HOOFDSTUK I. BEGRIPSBEPALINGEN
 
@@ -53,11 +24,11 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 - b. instelling: een instelling voor de verpleging van ter beschikking gestelden als bedoeld in [artikel 1.1, onderdeel g, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1);
 
-- c. vervallen;
+- c. *vervallen;*
 
-- d. vervallen;
+- d. *vervallen;*
 
-- e. vervallen;
+- e. *vervallen;*
 
 - f. hoofd van de instelling: het hoofd van de instelling, alsmede diens plaatsvervanger als bedoeld in [artikel 3.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.1), of [artikel 3.3, vierde lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.3);
 
@@ -89,31 +60,31 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 - t. gevaar:
 
-- 1. gevaar voor de verpleegde, die het veroorzaakt, hetgeen onder meer bestaat uit:
+   - 1. gevaar voor de verpleegde, die het veroorzaakt, hetgeen onder meer bestaat uit:
 
-- a. het gevaar dat de verpleegde zich van het leven zal beroven of zichzelf ernstig lichamelijk letsel zal toebrengen;
+      - a. het gevaar dat de verpleegde zich van het leven zal beroven of zichzelf ernstig lichamelijk letsel zal toebrengen;
 
-- b. het gevaar dat de verpleegde maatschappelijk te gronde gaat;
+      - b. het gevaar dat de verpleegde maatschappelijk te gronde gaat;
 
-- c. het gevaar dat de verpleegde zichzelf in ernstige mate zal verwaarlozen;
+      - c. het gevaar dat de verpleegde zichzelf in ernstige mate zal verwaarlozen;
 
-- d. het gevaar dat de verpleegde met hinderlijk gedrag agressie van anderen zal oproepen.
+      - d. het gevaar dat de verpleegde met hinderlijk gedrag agressie van anderen zal oproepen.
 
-- 2. gevaar voor een of meer anderen, hetgeen onder meer bestaat uit:
+   - 2. gevaar voor een of meer anderen, hetgeen onder meer bestaat uit:
 
-- a. het gevaar dat verpleegde een ander van het leven zal beroven of hem ernstig lichamelijk letsel zal toebrengen;
+      - a. het gevaar dat verpleegde een ander van het leven zal beroven of hem ernstig lichamelijk letsel zal toebrengen;
 
-- b. het gevaar voor de psychische gezondheid van een ander;
+      - b. het gevaar voor de psychische gezondheid van een ander;
 
-- c. het gevaar dat de verpleegde een ander, die aan zijn zorg is toevertrouwd, zal verwaarlozen.
+      - c. het gevaar dat de verpleegde een ander, die aan zijn zorg is toevertrouwd, zal verwaarlozen.
 
-- 3. gevaar voor de algemene veiligheid van personen of goederen;
+   - 3. gevaar voor de algemene veiligheid van personen of goederen;
 
 - u. verpleging: het samenstel van handelingen, gericht op:
 
-- 1°. de bescherming van de maatschappij tegen de gevaarlijkheid van de verpleegde voor de veiligheid van anderen dan de verpleegde of de algemene veiligheid van personen of goederen, en
+   - 1°. de bescherming van de maatschappij tegen de gevaarlijkheid van de verpleegde voor de veiligheid van anderen dan de verpleegde of de algemene veiligheid van personen of goederen, en
 
-- 2°. de verzorging van de verpleegde tijdens de tenuitvoerlegging van de vrijheidsbenemende straf of maatregel, waaronder begrepen het doen van een aanbod aan de verpleegde tot en het bevorderen en vergemakkelijken van zijn behandeling;
+   - 2°. de verzorging van de verpleegde tijdens de tenuitvoerlegging van de vrijheidsbenemende straf of maatregel, waaronder begrepen het doen van een aanbod aan de verpleegde tot en het bevorderen en vergemakkelijken van zijn behandeling;
 
 - v. behandeling: het samenstel van handelingen, gericht op een dusdanige vermindering van de uit de psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap voortvloeiende gevaarlijkheid van de verpleegde voor de veiligheid van anderen dan de verpleegde of de algemene veiligheid van personen of goederen dat het doen terugkeren van de verpleegde in de maatschappij verantwoord is;
 
@@ -169,25 +140,33 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
+
+##### Artikel 7a
+
+*Vervallen*
+
+##### Artikel 7b
+
+*Vervallen*
 
 #### Paragraaf 3. Toezicht
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -205,7 +184,7 @@ De Raad behandelt beroepschriften ingevolge de [hoofdstukken XV](https://wetten.
 
 - c. zorg te dragen voor de behandeling van klaagschriften ingevolge het bepaalde in [hoofdstuk XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&z=2025-07-01&g=2025-07-01);
 
-- d. aan Onze Minister, de Raad en het bestuur advies en inlichtingen te geven omtrent het onder **a** gestelde.
+- d. aan Onze Minister, de Raad en het bestuur advies en inlichtingen te geven omtrent het onder *a* gestelde.
 
 3. Indien het advies of de inlichtingen een private instelling met een bijzondere aanwijzing als bedoeld in [artikel 3.3, eerste lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.3) betreffen en zijn bestemd voor Onze Minister of de Raad, voegt de commissie de desbetreffende opmerkingen van het betrokken bestuur daarbij, tenzij naar het oordeel van Onze Minister of de commissie bijzondere spoed geboden is dan wel het bestuur zijn opmerkingen naar het oordeel van de commissie niet binnen een redelijke termijn op schrift heeft gesteld.
 
@@ -213,7 +192,7 @@ De Raad behandelt beroepschriften ingevolge de [hoofdstukken XV](https://wetten.
 
 5. Bij algemene maatregel van bestuur worden regels gesteld over de bevoegdheden, de samenstelling en de werkwijze van de commissie, de benoeming en het ontslag van haar leden alsmede over de werkzaamheden van de maandcommissaris.
 
-### HOOFDSTUK III. PLAATSING EN OVERPLAATSING
+### HOOFDSTUK III. Vervoer
 
 ##### Artikel 11
 
@@ -237,15 +216,15 @@ Onze Minister kan nadere regels stellen omtrent de wijze waarop het vervoer van 
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ### HOOFDSTUK IV. VERPLEGING, BEHANDELING EN EVALUATIE
 
@@ -264,6 +243,40 @@ Vervallen
 - b. de mentor, indien ten behoeve van de verpleegde een mentorschap is ingesteld;
 
 - c. de ouders of voogd, indien de verpleegde minderjarig is.
+
+##### Artikel 16a
+
+Behandeling van de verpleegde vindt slechts plaats:
+
+- a. voor zover deze is voorzien in het behandelingsplan
+
+- b. indien het overleg over het behandelingsplan als bedoeld in [artikel 16, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16&z=2025-07-01&g=2025-07-01), tot overeenstemming heeft geleid, en
+
+- c. indien de verpleegde of -indien van toepassing- de in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16&z=2025-07-01&g=2025-07-01), bedoelde persoon zich niet tegen behandeling verzet.
+
+##### Artikel 16b
+
+Indien niet voldaan wordt aan de voorwaarden van [artikel 16a, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16a&z=2025-07-01&g=2025-07-01), kan als uiterste middel niettemin behandeling plaatsvinden:
+
+- a. voor zover aannemelijk is dat zonder die behandeling het gevaar dat de psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap de verpleegde doet veroorzaken niet binnen een redelijke termijn kan worden weggenomen, of
+
+- b. indien het hoofd van de instelling daartoe een besluit heeft genomen en dit naar het oordeel van een arts volstrekt noodzakelijk is om het gevaar dat de psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap de verpleegde binnen de instelling doet veroorzaken, af te wenden.
+
+##### Artikel 16c
+
+1. Behandeling overeenkomstig [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16b&z=2025-07-01&g=2025-07-01), onder a, vindt plaats na een schriftelijke beslissing van het hoofd van de instelling waarin wordt vermeld voor welke termijn zij geldt.
+
+2. Ten behoeve van de in het eerste lid genoemde beslissing dient te worden overgelegd een verklaring van de behandelend psychiater alsmede een verklaring van een psychiater die de verpleegde met het oog daarop kort tevoren heeft onderzocht maar niet bij diens behandeling betrokken was. Uit deze verklaringen dient te blijken dat de persoon op wie de verklaring betrekking heeft, een psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap heeft en dat een geval als bedoeld in [artikel 16b, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16b&z=2025-07-01&g=2025-07-01), zich voordoet. De verklaringen moeten met redenen zijn omkleed en ondertekend.
+
+3. De beslissing als bedoeld in het eerste lid wordt gemeld aan de voorzitter van de Commissie van Toezicht. De voorzitter van de Commissie van Toezicht doet onverwijld een melding aan de maandcommissaris.
+
+4. De termijn als bedoeld in het eerste lid is zo kort mogelijk, maar niet langer dan drie maanden, gerekend vanaf de dag waarop de beslissing tot stand komt. Het hoofd van de instelling doet onverwijld een afschrift van de beslissing toekomen aan de verpleegde of de persoon als bedoeld in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16&z=2025-07-01&g=2025-07-01).
+
+5. Indien na afloop van de termijn als bedoeld in het eerste lid, voortzetting van de behandeling overeenkomstig [artikel 16b, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16b&z=2025-07-01&g=2025-07-01), nodig is, geschiedt dit slechts krachtens een schriftelijke beslissing van het hoofd van de instelling. Het bepaalde in de voorgaande volzin is eveneens van toepassing indien binnen zes maanden na afloop van de termijn, bedoeld in het vierde lid, opnieuw behandeling overeenkomstig artikel 16b, onder a, nodig is. Het hoofd van de instelling geeft in zijn beslissing aan waarom van een behandeling alsnog het beoogde effect wordt verwacht. Op zodanige beslissingen is het vierde lid, eerste volzin van toepassing.
+
+6. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste, tweede, vierde en vijfde lid alsmede omtrent de toepassing van [artikel 16b, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16b&z=2025-07-01&g=2025-07-01).
+
+7. Deze in het zesde lid bedoelde regels betreffen in ieder geval de melding en de registratie van de behandeling alsmede de taak van de behandelend arts. Tevens kunnen categorieën van behandelingsmiddelen of -maatregelen worden aangewezen die niet mogen worden toegepast bij een behandeling als bedoeld in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16b&z=2025-07-01&g=2025-07-01). Bij algemene maatregel van bestuur kunnen voorts ten aanzien van daarbij aangegeven categorieën van behandelingsmiddelen of -maatregelen regels worden gegeven met betrekking tot de wijze waarop tot toepassing daarvan moet worden besloten.
 
 ##### Artikel 17
 
@@ -369,7 +382,7 @@ Vervallen
 
 2. [Artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=V&artikel=25&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-3. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste lid. Deze regels betreffen in ieder geval de melding en de registratie van de geneeskundige handeling. De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
+3. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste lid. Deze regels betreffen in ieder geval de melding en de registratie van de geneeskundige handeling. De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
 ##### Artikel 27
 
@@ -419,7 +432,7 @@ Vervallen
 
 - d. de uitvoering van een ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) of de [Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212) door de officier van justitie of de rechter-commissaris genomen beslissing.
 
-2. Het hoofd van de instelling is bevoegd jegens een ter beschikking gestelde geweld te gebruiken of vrijheidsbeperkende middelen aan te wenden met het oog op een belang als bedoeld in het eerste lid, onder **b** of **c**.
+2. Het hoofd van de instelling is bevoegd jegens een ter beschikking gestelde geweld te gebruiken of vrijheidsbeperkende middelen aan te wenden met het oog op een belang als bedoeld in het eerste lid, onder *b* of *c*.
 
 3. Onze Minister is bevoegd jegens een verpleegde geweld te gebruiken of vrijheidsbeperkende middelen aan te wenden met het oog op een van de volgende belangen:
 
@@ -483,7 +496,13 @@ Indien de bewegingsvrijheid waarop de verpleegde op grond van de bij of krachten
 
 7. Onze Minister stelt nadere regels omtrent de toepassing van de afzondering of separatie. Deze regels betreffen in elk geval de rechten die tijdens de afzondering of separatie aan de verpleegde toekomen.
 
-### HOOFDSTUK VI. BEWEGINGSVRIJHEID BINNEN DE INRICHTING
+##### Artikel 34a
+
+1. Het hoofd van de instelling kan, indien dit ter bescherming van de geestelijke of lichamelijke toestand van de verpleegde noodzakelijk is, bepalen dat de verpleegde die in afzondering of separatie verblijft, dag en nacht door middel van een camera wordt geobserveerd.
+
+2. Alvorens hij hiertoe beslist, wint hij het advies in van de voor de behandeling verantwoordelijke psychiater onderscheidenlijk een aan de inrichting verbonden arts, tenzij dit advies niet kan worden afgewacht. In dat geval wint het hoofd van de instelling het advies zo spoedig mogelijk na zijn beslissing in.
+
+### HOOFDSTUK VII. CONTACT MET DE BUITENWERELD
 
 ##### Artikel 35
 
@@ -531,9 +550,9 @@ Indien de bewegingsvrijheid waarop de verpleegde op grond van de bij of krachten
 
 - i. organen, of leden daarvan, die krachtens een wettelijk voorschrift of een in Nederland geldend verdrag:
 
-- 1°. bevoegd zijn tot kennisneming van klachten of behandeling van met een klacht aangevangen zaken; dan wel
+   - 1°. bevoegd zijn tot kennisneming van klachten of behandeling van met een klacht aangevangen zaken; dan wel
 
-- 2°. zijn belast met het houden van toezicht op inrichtingen als bedoeld in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=II&z=2025-07-01&g=2025-07-01);
+   - 2°. zijn belast met het houden van toezicht op inrichtingen als bedoeld in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=II&z=2025-07-01&g=2025-07-01);
 
 - j. diens rechtsbijstandverlener;
 
@@ -589,7 +608,7 @@ Indien de bewegingsvrijheid waarop de verpleegde op grond van de bij of krachten
 
 3. Het hoofd van de instelling kan op het contact met een vertegenwoordiger van de media toezicht uitoefenen, indien dit noodzakelijk is met het oog op een belang als bedoeld in het tweede lid. Artikel 37, vierde lid, tweede en derde volzin, en vijfde lid is van overeenkomstige toepassing.
 
-### HOOFDSTUK VII. CONTACT MET DE BUITENWERELD
+### HOOFDSTUK VIII. VERZORGING, ACTIVITEITEN, WERKZAAMHEDEN EN ARBEID
 
 #### Paragraaf 1. Verzorging en activiteiten
 
@@ -603,7 +622,7 @@ Indien de bewegingsvrijheid waarop de verpleegde op grond van de bij of krachten
 
 - a. persoonlijk contact te onderhouden met de geestelijke verzorger van de godsdienst of levensovertuiging van zijn keuze, die aan de instelling is verbonden;
 
-- b. contact te onderhouden met andere dan de onder **a** genoemde geestelijke verzorgers volgens het bepaalde in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=VII&artikel=37&z=2025-07-01&g=2025-07-01);
+- b. contact te onderhouden met andere dan de onder *a* genoemde geestelijke verzorgers volgens het bepaalde in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=VII&artikel=37&z=2025-07-01&g=2025-07-01);
 
 - c. in de instelling te houden godsdienstige en levensbeschouwelijke bijeenkomsten van zijn keuze bij te wonen, tenzij het hoofd van de instelling dit verbiedt in verband met de handhaving van de orde of de veiligheid in de instelling.
 
@@ -629,7 +648,7 @@ Indien de bewegingsvrijheid waarop de verpleegde op grond van de bij of krachten
 
 - b. de behandeling van de verpleegde op aanwijzing van een aan de instelling verbonden arts voor zover deze niet kan worden aangemerkt als een behandeling, bedoeld in [artikel 1, onder v](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=I&artikel=1&z=2025-07-01&g=2025-07-01);
 
-- c. de overbrenging van de verpleegde naar een ziekenhuis dan wel andere instelling, indien de onder **b** bedoelde behandeling aldaar plaatsvindt.
+- c. de overbrenging van de verpleegde naar een ziekenhuis dan wel andere instelling, indien de onder *b* bedoelde behandeling aldaar plaatsvindt.
 
 ##### Artikel 42
 
@@ -683,7 +702,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 
 - b. deze werkzaamheden van huishoudelijke aard zijn en betrekking hebben op de ruimten waar zij verblijven, de persoonlijke verblijfsruimte daaronder begrepen.
 
-2. Voor het verrichten van werkzaamheden, met uitzondering van de in het eerste lid, onder **b**, omschreven werkzaamheden, heeft de verpleegde recht op een door Onze Minister vast te stellen vergoeding. Deze vergoeding wordt bij de vaststelling van het bijdrageplichtig inkomen overeenkomstig het bepaalde bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) buiten beschouwing gelaten.
+2. Voor het verrichten van werkzaamheden, met uitzondering van de in het eerste lid, onder *b*, omschreven werkzaamheden, heeft de verpleegde recht op een door Onze Minister vast te stellen vergoeding. Deze vergoeding wordt bij de vaststelling van het bijdrageplichtig inkomen overeenkomstig het bepaalde bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) buiten beschouwing gelaten.
 
 3. De verpleegde is niet verplicht buiten de instelling arbeid te verrichten, behoudens voor zover dit voortvloeit uit een aan het verlof of het proefverlof verbonden voorwaarde als bedoeld in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XI&artikel=50&z=2025-07-01&g=2025-07-01), onderscheidenlijk [artikel 51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XI&artikel=51&z=2025-07-01&g=2025-07-01). Indien de verpleegde buiten de instelling arbeid verricht, blijft het door hem verdiende arbeidsloon zijn eigendom, onverminderd het bepaalde bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
@@ -711,7 +730,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 
 7. De kosten van de verzorging van het kind komen alleen voor rekening van het Rijk, voor zover de verpleegde zelf niet in die kosten kan voorzien.
 
-### HOOFDSTUK IX. ONDERBRENGING VAN EEN KIND IN DE INRICHTING
+### HOOFDSTUK X. DISCIPLINAIRE STRAFFEN
 
 ##### Artikel 48
 
@@ -747,7 +766,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 
 7. Van elke strafoplegging dan wel wijziging daarvan houdt het hoofd van de instelling aantekening. Indien een straf ingevolge [hoofdstuk XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIII&z=2025-07-01&g=2025-07-01), [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&z=2025-07-01&g=2025-07-01) of [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XV&z=2025-07-01&g=2025-07-01) geheel of ten dele wordt herzien, houdt het hoofd van de instelling hiervan aantekening.
 
-### HOOFDSTUK IX. ONDERBRENGING VAN EEN KIND IN DE INRICHTING
+### HOOFDSTUK XI. VERLOF EN PROEFVERLOF
 
 ##### Artikel 50
 
@@ -779,7 +798,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 
 4. Bij of krachtens algemene maatregel van bestuur worden met betrekking tot het verlof en het proefverlof nadere regels gesteld.
 
-### HOOFDSTUK X. DISCIPLINAIRE STRAFFEN
+### HOOFDSTUK XII. INFORMATIE EN HOORPLICHT
 
 ##### Artikel 52
 
@@ -861,7 +880,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 
 6. Indien het hoofd van de instelling of de verpleegde hierom verzoekt, wordt hem zo spoedig mogelijk een gedagtekend afschrift van de mededeling toegezonden of uitgereikt. De datum van die toezending of uitreiking wordt op dit afschrift aangetekend. Indien de verpleegde de Nederlandse taal niet voldoende begrijpt, draagt de commissie van toezicht zorg voor een vertaling van de mededeling.
 
-### HOOFDSTUK XII. INFORMATIE EN HOORPLICHT
+### HOOFDSTUK XIV. BEKLAG
 
 ##### Artikel 56
 
@@ -1009,13 +1028,29 @@ De voorzitter van de beklagcommissie kan de behandeling van het klaagschrift voo
 
 - c. volstaan met de gehele of gedeeltelijke vernietiging.
 
-4. Bij toepassing van het bepaalde in het derde lid, onder **a**, kan de beklagcommissie in haar uitspraak een termijn stellen.
+4. Bij toepassing van het bepaalde in het derde lid, onder *a*, kan de beklagcommissie in haar uitspraak een termijn stellen.
 
 5. De beklagcommissie kan bepalen dat de uitspraak geheel of gedeeltelijk buiten werking blijft totdat deze onherroepelijk is geworden.
 
 6. Indien het bepaalde in het tweede lid toepassing vindt, worden de rechtsgevolgen van de vernietigde beslissing, voor zover mogelijk, door het hoofd van de instelling ongedaan gemaakt, dan wel in overeenstemming gebracht met de uitspraak van de beklagcommissie.
 
 7. Voor zover de in het zesde lid bedoelde gevolgen niet meer ongedaan te maken zijn, bepaalt de beklagcommissie, na het hoofd van de instelling te hebben gehoord, of enige tegemoetkoming aan de klager geboden is. Zij stelt de tegemoetkoming, die geldelijk van aard kan zijn, vast.
+
+### HOOFDSTUK XIVa. Beklag inzake vervoer
+
+##### Artikel 66a
+
+1. Een verpleegde kan bij de beklagcommissie van de commissie van toezicht voor het vervoer, bedoeld in artikel 15b, beklag doen over de beslissingen, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=V&artikel=23&z=2025-07-01&g=2025-07-01) en [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=V&artikel=30&z=2025-07-01&g=2025-07-01), voor zover de beslissing is genomen ten behoeve van het vervoer van de verpleegde.
+
+2. Het hoofd van de inrichting waar de verpleegde verblijft, draagt zorg dat een verpleegde die beklag wenst te doen daartoe zo spoedig mogelijk in de gelegenheid wordt gesteld.
+
+3. De [artikelen 58 tot en met 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=58&z=2025-07-01&g=2025-07-01) en [65](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=65&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing, met dien verstande dat onder het hoofd van de inrichting in de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=60&z=2025-07-01&g=2025-07-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=61&z=2025-07-01&g=2025-07-01) en 65 steeds wordt verstaan Onze Minister.
+
+##### Artikel 66b
+
+1. [Artikel 66, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=66&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
+
+2. Indien het beklag geheel of gedeeltelijk gegrond wordt geacht, bepaalt de beklagcommissie of enige tegemoetkoming aan de verpleegde geboden is. Zij stelt de tegemoetkoming, die geldelijk van aard kan zijn, vast.
 
 ### HOOFDSTUK XV. BEROEP TEGEN DE UITSPRAAK VAN DE BEKLAGCOMMISSIE
 
@@ -1051,9 +1086,15 @@ De voorzitter van de beklagcommissie kan de behandeling van het klaagschrift voo
 
 - c. vernietiging van de uitspraak van de beklagcommissie.
 
-3. Indien het bepaalde in het tweede lid, onder **c**, toepassing vindt, doet de beroepscommissie hetgeen de beklagcommissie had behoren te doen.
+3. Indien het bepaalde in het tweede lid, onder *c*, toepassing vindt, doet de beroepscommissie hetgeen de beklagcommissie had behoren te doen.
 
 4. Ten aanzien van de uitspraak van de beroepscommissie zijn de [artikelen 65, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=65&z=2025-07-01&g=2025-07-01), en [66, met uitzondering van het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=66&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
+
+### HOOFDSTUK XVa. Beroep inzake vervoer
+
+##### Artikel 68a
+
+Tegen de uitspraak van de beklagcommissie bedoeld in [hoofdstuk XIVA](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIVa&z=2025-07-01&g=2025-07-01) kunnen Onze Minister en de verpleegde beroep instellen. [Hoofdstuk XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XV&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing, met uitzondering van [artikel 67, vierde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XV&artikel=67&z=2025-07-01&g=2025-07-01).
 
 ### HOOFDSTUK XVI. BEROEP TEGEN BESLISSINGEN WAARTEGEN GEEN BEKLAG OPENSTAAT
 
@@ -1089,7 +1130,7 @@ De voorzitter van de beklagcommissie kan de behandeling van het klaagschrift voo
 
 5. De commissie doet zo spoedig mogelijk uitspraak. Met betrekking tot de uitspraak zijn de [artikelen 65, tweede en vierde lid, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=65&z=2025-07-01&g=2025-07-01), met uitzondering van de eerste volzin, en [66](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=66&z=2025-07-01&g=2025-07-01), met uitzondering van het vijfde lid, van overeenkomstige toepassing.
 
-### HOOFDSTUK XV. BEROEP TEGEN DE UITSPRAAK VAN DE BEKLAGCOMMISSIE
+### HOOFDSTUK XVII. MEDEZEGGENSCHAP EN VERTEGENWOORDIGING
 
 ##### Artikel 70
 
@@ -1111,63 +1152,63 @@ De voorzitter van de beklagcommissie kan de behandeling van het klaagschrift voo
 
 2. Het hoofd van de instelling draagt zorg dat de in het eerste lid genoemde personen op deze rechten opmerkzaam worden gemaakt.
 
-### HOOFDSTUK XVI. BEROEP TEGEN BESLISSINGEN WAARTEGEN GEEN BEKLAG OPENSTAAT
+### HOOFDSTUK XVIII. BIJZONDERE BEPALING TEN AANZIEN VAN MET HUN INSTEMMING OPGENOMEN VERPLEEGDEN
 
 ##### Artikel 72
 
-Vervallen
+*Vervallen*
 
-### HOOFDSTUK XVII. MEDEZEGGENSCHAP EN VERTEGENWOORDIGING
+### HOOFDSTUK XVIIIA. SUBSIDIËRING VAN JUSTITIËLE PARTICULIERE INRICHTINGEN
 
 ##### Artikel 73
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 75
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 76
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 77
 
-Vervallen
+*Vervallen*
 
-### HOOFDSTUK XVII. MEDEZEGGENSCHAP EN VERTEGENWOORDIGING
+### HOOFDSTUK XIX. OVERGANGS- EN SLOTBEPALINGEN
 
 ##### Artikel 78
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel 79
 
-Wijzigt de Beginselenwet gevangeniswezen.
+*Wijzigt de Beginselenwet gevangeniswezen.*
 
 ##### Artikel 80
 
-Wijzigt de Wet ziekenhuisvoorzieningen.
+*Wijzigt de Wet ziekenhuisvoorzieningen.*
 
 ##### Artikel 81
 
-Wijzigt de Arbeidsomstandighedenwet.
+*Wijzigt de Arbeidsomstandighedenwet.*
 
 ##### Artikel 82
 
-Wijzigt de Wet op het voortgezet onderwijs.
+*Wijzigt de Wet op het voortgezet onderwijs.*
 
 ##### Artikel 83
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 84
 
-De regels vastgesteld krachtens [artikel 37**c** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37c), zoals dit artikel gold vóór de inwerkingtreding van deze wet, worden geacht te zijn vastgesteld krachtens de toepasselijke bepalingen van deze wet.
+De regels vastgesteld krachtens [artikel 37*c* van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37c), zoals dit artikel gold vóór de inwerkingtreding van deze wet, worden geacht te zijn vastgesteld krachtens de toepasselijke bepalingen van deze wet.
 
 ##### Artikel 85
 
@@ -1180,173 +1221,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bi
 ##### Artikel 87
 
 Deze wet kan worden aangehaald als: Beginselenwet verpleging ter beschikking gestelden.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7a
-
-Vervallen
-
-#### Paragraaf 3. Toezicht
-
-### HOOFDSTUK III. PLAATSING EN OVERPLAATSING
-
-### HOOFDSTUK IV. VERPLEGING, BEHANDELING EN EVALUATIE
-
-### HOOFDSTUK V. CONTROLE EN GEWELDGEBRUIK
-
-### HOOFDSTUK VI. BEWEGINGSVRIJHEID BINNEN DE INRICHTING
-
-##### Artikel 34a
-
-1. Het hoofd van de instelling kan, indien dit ter bescherming van de geestelijke of lichamelijke toestand van de verpleegde noodzakelijk is, bepalen dat de verpleegde die in afzondering of separatie verblijft, dag en nacht door middel van een camera wordt geobserveerd.
-
-2. Alvorens hij hiertoe beslist, wint hij het advies in van de voor de behandeling verantwoordelijke psychiater onderscheidenlijk een aan de inrichting verbonden arts, tenzij dit advies niet kan worden afgewacht. In dat geval wint het hoofd van de instelling het advies zo spoedig mogelijk na zijn beslissing in.
-
-### HOOFDSTUK VII. CONTACT MET DE BUITENWERELD
-
-### HOOFDSTUK VIII. VERZORGING, ACTIVITEITEN, WERKZAAMHEDEN EN ARBEID
-
-#### Paragraaf 1. Verzorging en activiteiten
-
-#### Paragraaf 2. Werkzaamheden en arbeid
-
-### HOOFDSTUK X. DISCIPLINAIRE STRAFFEN
-
-### HOOFDSTUK X. DISCIPLINAIRE STRAFFEN
-
-### HOOFDSTUK XI. VERLOF EN PROEFVERLOF
-
-### HOOFDSTUK XIV. BEKLAG
-
-### HOOFDSTUK XV. BEROEP TEGEN DE UITSPRAAK VAN DE BEKLAGCOMMISSIE
-
-### HOOFDSTUK XVII. MEDEZEGGENSCHAP EN VERTEGENWOORDIGING
-
-### HOOFDSTUK XVa. Beroep inzake vervoer
-
-### HOOFDSTUK XIX. OVERGANGS- EN SLOTBEPALINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 16a
-
-Behandeling van de verpleegde vindt slechts plaats:
-
-- a. voor zover deze is voorzien in het behandelingsplan
-
-- b. indien het overleg over het behandelingsplan als bedoeld in [artikel 16, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16&z=2025-07-01&g=2025-07-01), tot overeenstemming heeft geleid, en
-
-- c. indien de verpleegde of -indien van toepassing- de in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16&z=2025-07-01&g=2025-07-01), bedoelde persoon zich niet tegen behandeling verzet.
-
-##### Artikel 16b
-
-Indien niet voldaan wordt aan de voorwaarden van [artikel 16a, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16a&z=2025-07-01&g=2025-07-01), kan als uiterste middel niettemin behandeling plaatsvinden:
-
-- a. voor zover aannemelijk is dat zonder die behandeling het gevaar dat de psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap de verpleegde doet veroorzaken niet binnen een redelijke termijn kan worden weggenomen, of
-
-- b. indien het hoofd van de instelling daartoe een besluit heeft genomen en dit naar het oordeel van een arts volstrekt noodzakelijk is om het gevaar dat de psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap de verpleegde binnen de instelling doet veroorzaken, af te wenden.
-
-##### Artikel 16c
-
-1. Behandeling overeenkomstig [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16b&z=2025-07-01&g=2025-07-01), onder a, vindt plaats na een schriftelijke beslissing van het hoofd van de instelling waarin wordt vermeld voor welke termijn zij geldt.
-
-2. Ten behoeve van de in het eerste lid genoemde beslissing dient te worden overgelegd een verklaring van de behandelend psychiater alsmede een verklaring van een psychiater die de verpleegde met het oog daarop kort tevoren heeft onderzocht maar niet bij diens behandeling betrokken was. Uit deze verklaringen dient te blijken dat de persoon op wie de verklaring betrekking heeft, een psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap heeft en dat een geval als bedoeld in [artikel 16b, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16b&z=2025-07-01&g=2025-07-01), zich voordoet. De verklaringen moeten met redenen zijn omkleed en ondertekend.
-
-3. De beslissing als bedoeld in het eerste lid wordt gemeld aan de voorzitter van de Commissie van Toezicht. De voorzitter van de Commissie van Toezicht doet onverwijld een melding aan de maandcommissaris.
-
-4. De termijn als bedoeld in het eerste lid is zo kort mogelijk, maar niet langer dan drie maanden, gerekend vanaf de dag waarop de beslissing tot stand komt. Het hoofd van de instelling doet onverwijld een afschrift van de beslissing toekomen aan de verpleegde of de persoon als bedoeld in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16&z=2025-07-01&g=2025-07-01).
-
-5. Indien na afloop van de termijn als bedoeld in het eerste lid, voortzetting van de behandeling overeenkomstig [artikel 16b, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16b&z=2025-07-01&g=2025-07-01), nodig is, geschiedt dit slechts krachtens een schriftelijke beslissing van het hoofd van de instelling. Het bepaalde in de voorgaande volzin is eveneens van toepassing indien binnen zes maanden na afloop van de termijn, bedoeld in het vierde lid, opnieuw behandeling overeenkomstig artikel 16b, onder a, nodig is. Het hoofd van de instelling geeft in zijn beslissing aan waarom van een behandeling alsnog het beoogde effect wordt verwacht. Op zodanige beslissingen is het vierde lid, eerste volzin van toepassing.
-
-6. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste, tweede, vierde en vijfde lid alsmede omtrent de toepassing van [artikel 16b, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16b&z=2025-07-01&g=2025-07-01).
-
-7. Deze in het zesde lid bedoelde regels betreffen in ieder geval de melding en de registratie van de behandeling alsmede de taak van de behandelend arts. Tevens kunnen categorieën van behandelingsmiddelen of -maatregelen worden aangewezen die niet mogen worden toegepast bij een behandeling als bedoeld in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=IV&artikel=16b&z=2025-07-01&g=2025-07-01). Bij algemene maatregel van bestuur kunnen voorts ten aanzien van daarbij aangegeven categorieën van behandelingsmiddelen of -maatregelen regels worden gegeven met betrekking tot de wijze waarop tot toepassing daarvan moet worden besloten.
-
-### HOOFDSTUK V. CONTROLE EN GEWELDGEBRUIK
-
-### HOOFDSTUK VI. BEWEGINGSVRIJHEID BINNEN DE INRICHTING
-
-### HOOFDSTUK VII. CONTACT MET DE BUITENWERELD
-
-### HOOFDSTUK VIII. VERZORGING, ACTIVITEITEN, WERKZAAMHEDEN EN ARBEID
-
-#### Paragraaf 1. Verzorging en activiteiten
-
-#### Paragraaf 2. Werkzaamheden en arbeid
-
-### HOOFDSTUK XII. INFORMATIE EN HOORPLICHT
-
-### HOOFDSTUK XIII. BEMIDDELING
-
-### HOOFDSTUK XIV. BEKLAG
-
-### HOOFDSTUK XVIII. BIJZONDERE BEPALING TEN AANZIEN VAN MET HUN INSTEMMING OPGENOMEN VERPLEEGDEN
-
-### HOOFDSTUK XVIIIA. SUBSIDIËRING VAN JUSTITIËLE PARTICULIERE INRICHTINGEN
-
-### HOOFDSTUK XVIIIA. SUBSIDIËRING VAN JUSTITIËLE PARTICULIERE INRICHTINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7b
-
-Vervallen
-
-#### Paragraaf 3. Toezicht
-
-### HOOFDSTUK III. Vervoer
-
-### HOOFDSTUK IV. VERPLEGING, BEHANDELING EN EVALUATIE
-
-### HOOFDSTUK V. CONTROLE EN GEWELDGEBRUIK
-
-### HOOFDSTUK VIII. VERZORGING, ACTIVITEITEN, WERKZAAMHEDEN EN ARBEID
-
-#### Paragraaf 1. Verzorging en activiteiten
-
-#### Paragraaf 2. Werkzaamheden en arbeid
-
-### HOOFDSTUK IX. ONDERBRENGING VAN EEN KIND IN DE INRICHTING
-
-### HOOFDSTUK XI. VERLOF EN PROEFVERLOF
-
-### HOOFDSTUK XIII. BEMIDDELING
-
-### HOOFDSTUK XIV. BEKLAG
-
-### HOOFDSTUK XIVa. Beklag inzake vervoer
-
-### HOOFDSTUK XV. BEROEP TEGEN DE UITSPRAAK VAN DE BEKLAGCOMMISSIE
-
-### HOOFDSTUK XVII. MEDEZEGGENSCHAP EN VERTEGENWOORDIGING
-
-### HOOFDSTUK XVI. BEROEP TEGEN BESLISSINGEN WAARTEGEN GEEN BEKLAG OPENSTAAT
-
-### HOOFDSTUK XIX. OVERGANGS- EN SLOTBEPALINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 66a
-
-1. Een verpleegde kan bij de beklagcommissie van de commissie van toezicht voor het vervoer, bedoeld in artikel 15b, beklag doen over de beslissingen, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=V&artikel=23&z=2025-07-01&g=2025-07-01) en [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=V&artikel=30&z=2025-07-01&g=2025-07-01), voor zover de beslissing is genomen ten behoeve van het vervoer van de verpleegde.
-
-2. Het hoofd van de inrichting waar de verpleegde verblijft, draagt zorg dat een verpleegde die beklag wenst te doen daartoe zo spoedig mogelijk in de gelegenheid wordt gesteld.
-
-3. De [artikelen 58 tot en met 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=58&z=2025-07-01&g=2025-07-01) en [65](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=65&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing, met dien verstande dat onder het hoofd van de inrichting in de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=60&z=2025-07-01&g=2025-07-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=61&z=2025-07-01&g=2025-07-01) en 65 steeds wordt verstaan Onze Minister.
-
-##### Artikel 66b
-
-1. [Artikel 66, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIV&artikel=66&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
-
-2. Indien het beklag geheel of gedeeltelijk gegrond wordt geacht, bepaalt de beklagcommissie of enige tegemoetkoming aan de verpleegde geboden is. Zij stelt de tegemoetkoming, die geldelijk van aard kan zijn, vast.
-
-##### Artikel 68a
-
-Tegen de uitspraak van de beklagcommissie bedoeld in [hoofdstuk XIVA](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XIVa&z=2025-07-01&g=2025-07-01) kunnen Onze Minister en de verpleegde beroep instellen. [Hoofdstuk XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XV&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing, met uitzondering van [artikel 67, vierde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&hoofdstuk=XV&artikel=67&z=2025-07-01&g=2025-07-01).
-
-### HOOFDSTUK XVIII. BIJZONDERE BEPALING TEN AANZIEN VAN MET HUN INSTEMMING OPGENOMEN VERPLEEGDEN
-
-### HOOFDSTUK XIX. OVERGANGS- EN SLOTBEPALINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

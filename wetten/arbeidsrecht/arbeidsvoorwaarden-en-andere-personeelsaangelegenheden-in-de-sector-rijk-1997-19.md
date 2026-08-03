@@ -1,40 +1,17 @@
 ---
 title: "Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 1997-1999"
 identifier: "BWBR0008678"
-country: "nl"
-rank: "circulaire"
-publication_date: "1997-05-30"
-last_updated: "1997-05-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008678"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "6335113"
-version_id: "10989472"
-internal_id: "C14881521"
-label_id: "6324594"
-original_entry_into_force: "1997-05-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008678/1997-05-30/0"
-intitule_bron: "Stcrt.1997-100"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-05-12"
-intitule_published: "1997-05-30"
-intitule_in_force: "1997-05-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-100"
-original_signed_date: "1997-05-12"
-original_published_date: "1997-05-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1997-100-p8-SC9427"
-entry_into_force_date: "1997-05-30"
-jci_1_3: "jci1.3:c:BWBR0008678&z=1997-05-30&g=1997-05-30"
-jci_1_0: "1.0:c:BWBR0008678&g=1997-05-30"
-citeertitel_status: "redactioneel"
-signed_date: "1997-05-12"
-entry_into_force: "1997-05-30"
+publicatiedatum: 1997-05-30
+laatste_update: 1997-05-30
+status: geldig
+toestand: 1997-05-30
+bron: "https://wetten.overheid.nl/BWBR0008678"
+opgehaald: 2026-08-03
 ---
-# Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 1997-1999
 
-«Circulaire aan de ministers»
+# Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 1997-1999
 
 ### Inleiding/managementinformatie
 
@@ -150,7 +127,7 @@ In het verlengde van het najaarsoverleg tussen de sociale partners is in de CAO 
 
 ### 2. Allochtonen (onderdeel 6.3 van de overeenkomst)
 
-In het kader van de [Wet Bevordering Evenredige Arbeidsdeelname Allochtonen](onbekend) wordt het voorkeursbeleid ten aanzien van allochtonen voortgezet, waarbij met name aandacht besteed zal moeten worden aan evenredige vertegenwoordiging van allochtonen op alle functieniveaus. In de nota ’Mensen en management 1997’ zal de Tweede Kamer geïnformeerd worden over de realisatiecijfers van 1996. Deze informatie is gebaseerd op de opgaven van de afzonderlijke ministeries, waartoe al afspraken zijn gemaakt.
+In het kader van de Wet Bevordering Evenredige Arbeidsdeelname Allochtonen wordt het voorkeursbeleid ten aanzien van allochtonen voortgezet, waarbij met name aandacht besteed zal moeten worden aan evenredige vertegenwoordiging van allochtonen op alle functieniveaus. In de nota ’Mensen en management 1997’ zal de Tweede Kamer geïnformeerd worden over de realisatiecijfers van 1996. Deze informatie is gebaseerd op de opgaven van de afzonderlijke ministeries, waartoe al afspraken zijn gemaakt.
 
 ### 3. Instroom jongeren (onderdeel 6.4 van de overeenkomst)
 
@@ -198,6 +175,10 @@ Ten aanzien van het onderwerp nevenwerkzaamheden is een voorstel van wet tot wij
 
 Het voorstel, dat thans bij de Eerste Kamer in behandeling is, voorziet in een formeel wettelijke basis voor:
 
+- – de melding en registratie van nevenwerkzaamheden die de belangen van de dienst, voor zover deze in verband staan met de functievervulling, kunnen raken;
+
+- – het verbieden van nevenwerkzaamheden waardoor de goede vervulling van de openbare dienst, voor zover deze in verband staat met de functievervulling, niet in redelijkheid zou zijn verzekerd.
+
 Na de totstandkoming van de wijziging van de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) zal het hiervoor bedoelde verbod tot het vervullen van bepaalde neven-werkzaamheden op een nog nader te bepalen tijdstip in het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) opgenomen worden. Het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) zal eveneens worden uitgebreid met bepalingen omtrent melding en registratie. Het handelt in dit verband om de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=61), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=63) en [63a van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=63a).
 
 ### b. Eed/belofte
@@ -218,259 +199,19 @@ Zodra de formalisering, voor zover dat noodzakelijk is, van de hiervoor vermelde
 
 Medewerkers van de afdelingen Personeelszaken van geadresseerden, kunnen inlichtingen verkrijgen over de maatregel genoemd
 
+| onder: | bij: | telefoonnummer: |
+| --- | --- | --- |
+| I, III.2, III.3, V.4, VI.3 | A.W.M. Buurman | (070) 302 76 64 |
+| II | E.F. van Bokhoven | (070) 302 65 95 |
+| III.1, III.5, VI.1 | P.H. Warnier | (070) 302 68 53 |
+| III.4, III.6, V.6 | P.A. Keij | (070) 302 76 61 |
+| IV.1, V.2 | R.S.L.M. van Beelen | (070) 302 61 43 |
+| IV.2 | J.J.C. Somers | (070) 302 60 96 |
+| IV.3 | mw. N. Riksen-Borsje | (070) 302 64 50 |
+| V.1 | G.H. Vlieger | (070) 302 72 45 |
+| V.3 | A.W. Maas | (070) 302 76 97 |
+| V.5 | H.J. Jonkhart | (070) 302 76 83 |
+| VI.2.a | H.G.W. Kicken | (070) 302 72 66 |
+| VI.2.b | mw. M. Propstra | (070) 302 66 09 |
+
 Bij geen gehoor kan contact worden opgenomen met het secretariaat van de afdeling Arbeidsvoorwaarden en Sociaal Beleid, telefoon (070) 302 68 47 of 302 70 95.
-
-## Bijlage 1. Arbeidsvoorwaardenovereenkomst sector rijk 1997-1999
-
-Partijen in het Sectoroverleg Rijkspersoneel zijn met betrekking tot de arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk het volgende overeengekomen.
-
-### 1. Looptijd van de overeenkomst
-
-Deze overeenkomst heeft een looptijd van 1 april 1997 tot 1 juni 1999.
-
-### 2. Inkomen
-
-Per 1 mei 1997 worden de salarissen met 2,8% structureel verhoogd.
-
-De eindejaarsuitkering wordt voor het jaar 1997 eenmalig verhoogd met 0,5%.
-
-Per 1 juli 1998 worden de salarissen met 2,4% structureel verhoogd.
-
-De eindejaarsuitkering wordt voor het jaar 1998 eenmalig verhoogd met 0,5%.
-
-De eenmalige verhogingen van de eindejaarsuitkering in 1997 en 1998 zijn een inkomensbestanddeel als bedoeld in het pensioenreglement.
-
-### 3. Ziektekosten
-
-### 3.1
-
-Het Besluit inkomenstoeslag rijkspersoneel (BIR) wordt met ingang van 1 oktober 1997 ingetrokken. De hiermee vrijkomende middelen worden aangewend voor een gedifferentieerde verhoging van de salarisbedragen per 1 januari 1998. Deze wijziging is geen algemene wijziging van het salaris als bedoeld in het [Rijkswachtgeldbesluit 1959](https://wetten.overheid.nl/jci1.3:c:BWBR0002326) en overeenkomstige uitkeringsregelingen.
-
-### 3.2
-
-Momenteel wordt op bovensectoraal niveau overleg gevoerd over een eventueel nieuw ziektekostenstelsel. Wanneer deze besprekingen onverhoopt niet tot resultaten leiden, zal als ’next-best’ een SOR-werkgroep worden ingesteld met de taak binnen een half jaar na instelling te rapporteren over de mogelijkheden voor een inhoudelijke en uitvoeringstechnische herijking van de Zvo-regeling en het [Besluit tegemoetkoming ziektekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006855) (de ’Interim-regeling’). Partijen spreken af de rapportage in het SOR te bespreken en – indien overeenstemming wordt bereikt, kan het zijn met ingang van 1 januari 1999 – de overeengekomen wijzigingen door te voeren.
-
-### 4. Differentiatie, flexibiliteit en zekerheid
-
-Bij het management en het personeel bestaat in toenemende mate behoefte aan mogelijkheden om de arbeidsvoorwaarden af te stemmen op de kenmerken van de bedrijfsvoering en op de persoonlijke wensen van de medewerkers. Bestaande vormen van differentiatie en flexibiliteit in arbeidsvoorwaarden worden daarom op hun waarde beoordeeld. Waar gewenst en mogelijk worden nieuwe vormen geïntroduceerd dan wel worden bestaande verruimd. Voorop staat dat het evenwicht behouden dient te blijven tussen differentiatie/flexibiliteit en zekerheid voor het personeel. De aanstelling in vaste dienst zal en moet de gebruikelijke aanstellingsvorm blijven. Verder is het van belang dat de departementen inzicht verschaffen in de wijze waarop van de verruimde mogelijkheden gebruik wordt gemaakt.
-
-De verruiming van de mogelijkheden tot differentiatie en flexibiliteit stelt inmiddels hoge eisen aan het personeels- en lijnmanagement. Van werkgeverszijde zullen de activiteiten gericht op verdere professionalisering van het personeels- en lijnmanagement worden voortgezet.
-
-### 4.1
-
-De huidige toelagen, premies en gratificaties voor bewust belonen worden per 1 januari 1998 vervangen door één toeslag. Het oogmerk is de regelgeving te vereenvoudigen en de transparantie in de toepassing van bewust belonen te vergroten. Er zullen op sectorniveau geen andere voorschriften worden vastgesteld, dan dat de departementen op niet op personen herleidbaar niveau inzicht verschaffen in de wijze waarop dit instrument van bewust belonen wordt toegepast. De per 1 januari 1997 geïntroduceerde maatregel om uitstekend functionerende ambtenaren een salarisverhoging toe te kennen tot maximaal het maximumsalaris van de naasthogere schaal, wordt gehandhaafd.
-
-### 4.2
-
-De administratieve lasten die voortvloeien uit het betaalbaar stellen van toelagen voor het werken op onregelmatige tijden en het bereikbaar/
-
-beschikbaar moeten zijn om bij oproep arbeid te gaan verrichten, zijn hoog. Bovendien heeft de huidige wijze van vaststellen van deze toelagen tot gevolg dat het inkomen van de ambtenaar maandelijks wisselt. Daarom wordt de departementen de mogelijkheid geboden om voor deze inconveniënten een vaste toelage toe te kennen. Deze vaste toelage wordt berekend aan de hand van het voor de ambtenaar vastgestelde rooster.
-
-### 4.3
-
-Ter bevordering van de functionele mobiliteit krijgt het management de bevoegdheid om een afbouwtoelage voor onregelmatige diensten ook toe te kennen aan een ambtenaar die minder toelage voor onregelmatige diensten gaat ontvangen nadat hij op eigen initiatief wordt geplaatst in een andere functie.
-
-### 4.4
-
-Partijen zullen in 1997 overleg voeren over verdere modernisering van het arbeidsvoorwaarden- en beloningsbeleid. Hierbij zullen onder meer worden betrokken de aanbevelingen van een binnenkort te verwachten rapport over vergroting van de mogelijkheden voor ambtenaren om zelf voorstellen te doen voor invulling van hun pakket secundaire arbeidsvoorwaarden. Daarbij zal ook besproken worden of, en zo ja onder welke voorwaarden, het wenselijk is om een enkel dienstonderdeel extra beleidsruimte te bieden om de secundaire arbeidsvoorwaarden beter af te stemmen op de arbeids- of bedrijfsomstandigheden van dat dienstonderdeel.
-
-### 4.5
-
-Per 1 januari 1998 wordt de mogelijkheid gecreëerd om het aantal vakantie-uren waarop de ambtenaar aanspraak heeft op zijn verzoek te verlagen. Voor verlaging komen in aanmerking de vakantie-uren waarop de ambtenaar in het desbetreffende jaar aanspraak heeft, verminderd met 144 uur. Bij deeltijders wordt dit naar rato berekend. Voor elk uur waarmee de aanspraak op vakantie-uren op verzoek van de ambtenaar wordt verlaagd ontvangt hij een uur salaris. Verlaging van de vakantieaanspraak kan voor zover het dienstbelang in organisatorische en budgettaire zin het toelaat. Aanvragen worden ingediend op een door het management aangegeven tijdstip. Op de aanvragen wordt door het management gelijktijdig een beslissing genomen, opdat een evenwichtige beslissing naar individuen kan plaatsvinden. Partijen wijzen overigens op de bestaande mogelijkheid om de ambtenaar die tijdelijk behoefte heeft aan extra vrije tijd, buitengewoon verlof uitsluitend in het persoonlijk belang te verlenen zonder behoud van bezoldiging.
-
-### 4.6
-
-Partijen stellen vast dat na afloop van een tijdelijke aanstelling een werkloosheidsuitkering die naar hoogte en duur is afgestemd op de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) als een toereikende uitkering kan worden beschouwd. Indien ambtenaren onder de werkingssfeer van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) worden gebracht, zal voor ambtenaren in de sector Rijk na afloop van een tijdelijke aanstelling de werkloosheidsuitkering uitsluitend worden gebaseerd op de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045). Indien ambtenaren niet per uiterlijk 1 januari 1999 onder de werkingssfeer van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) zijn gebracht, wordt de [Uitkeringsregeling 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) per 1 januari 1999 aangepast zodat de hoogte van de uitkering tijdens de loongerelateerde uitkeringsfase 70% van de bezoldiging bedraagt. Deze aanpassing geldt voor ambtenaren van wie de tijdelijke aanstelling op of na 31 december 1998 afloopt. Deze aanpassing geldt echter niet voor ambtenaren die op 1 juli 1997 in tijdelijke dienst zijn aangesteld binnen de sector Rijk.
-
-### 4.7
-
-De mogelijkheid wordt gecreëerd om in zeer bijzondere gevallen aan hoge functionarissen die daarom zelf verzoeken een tijdelijke ambtelijke aanstelling te verlenen met een op de persoon toegesneden samenstel van primaire en secundaire arbeidsvoorwaarden. De departementen verschaffen tot op niet op personen herleidbaar niveau inzicht in de mate waarin en de voorwaarden waaronder dergelijke bijzondere dienstverbanden zijn aangegaan.
-
-### 5. Seniorenbeleid
-
-### 5.1
-
-Er dient een actief seniorenbeleid te worden gevoerd, gericht op participatie van ouderen in het arbeidsproces. De gevolgen van de demografische ontwikkeling voor de bedrijfsvoering en de kostenstructuur worden in kaart gebracht, opdat afspraken gemaakt kunnen worden over de verdere vormgeving van het seniorenbeleid.
-
-### 5.2
-
-Reeds enkele jaren bestaat de [regeling Partiële arbeidsparticipatie senioren](onbekend) (PAS). De FPU maakt ook deeltijduittreding mogelijk. Partijen komen daarom overeen, onder de randvoorwaarde van een gelijkwaardig aansprakenniveau, de PAS om te zetten in een op de FPU aansluitende voorziening. Partijen streven ernaar deze omzetting met ingang van 1 januari 1998 te realiseren.
-
-### 5.3
-
-De regeling Functioneel leeftijdsontslag (FLO) biedt een vervroegd ontslag- en uitkeringsvoorziening voor functies met een substantieel bezwarend karakter.
-
-Ten behoeve van de volgende contractonderhandelingen zal gezamenlijk worden vastgesteld welke functies aan het criterium ’substantieel bezwarend’ voldoen. Er zullen daartoe voorstellen worden gedaan teneinde de lijst met FLO-functies te herijken.
-
-Inmiddels zijn projecten gestart gericht op het tot aanvaardbare proporties terugbrengen van bezwarende elementen in de desbetreffende functies. Dit preventief beleid dient te worden uitgebouwd. Daartoe spreken partijen af dat deze projecten in tempo worden afgerond en voorts dat gedurende de looptijd van deze overeenkomst de bij de projecten ontwikkelde systematiek op de FLO-functies wordt toegepast.
-
-### 6. Inzetbaarheid en arbeidsmarktbeleid
-
-Tegen de achtergrond van het najaarsoverleg tussen kabinet en sociale partners is het van belang om, passend binnen de bedrijfsvoering, aandacht te besteden aan de positie van de sector Rijk op de arbeidsmarkt. Partijen maken de volgende afspraken.
-
-### 6.1
-
-Partijen zullen zich inspannen om gedurende de looptijd van deze overeenkomst 100 werkzoekenden te laten instromen op het niveau van salarisschaal 1 en 2. Uitgangspunt is dat deze functies passend moeten zijn binnen de bedrijfsvoering van de departementen. Voor de financiering van deze functies kunnen de departementen zo mogelijk een beroep doen op de Melkert I regeling of op een tijdelijke, maar volledige, loonkostensubsidie van het A+O fonds.
-
-### 6.2
-
-Er komt een voorstel over de wijze waarop moeilijk plaatsbare werklozen werkervaring kunnen opdoen. Daartoe vindt in 1998 een evaluatieonderzoek plaats door het A+O fonds over het scheppen van 500 werkervaringsplaatsen in de periode 1995 – 1997. Lijn is dat het management beleidsvrijheid moet hebben bij de invulling van deze additionele werkgelegenheid hetgeen de instroom ten goede komt.
-
-### 6.3
-
-Het voorkeursbeleid ten aanzien van allochtonen in het kader van de [Wet Bevordering Evenredige Arbeidsdeelname Allochtonen](onbekend) wordt voortgezet. In de taakstellende werkplannen van de departementen zal aandacht besteed worden aan evenredige vertegenwoordiging van allochtonen op de diverse functieniveaus. In het sectoroverleg wordt gesproken over de voortgang van dit voorkeursbeleid. Het A+O fonds stelt op verzoek van de departementen middelen beschikbaar voor onderzoek, scholing en begeleiding gericht op behoud en doorstroom naar de hogere functieniveaus van allochtonen.
-
-### 6.4
-
-Partijen komen overeen jongeren meer kansen te geven om in te stromen in de rijksdienst. Daartoe wordt een plan van aanpak uitgewerkt, dat in 1998 en 1999 in uitvoering wordt genomen. Enkele honderden bovenformatieve plaatsen worden gecreëerd en vervolgens vervuld volgens een traineeformule. Gedacht wordt aan aanstelling van pas afgestudeerde HBO’ers en WO’ers voor twee jaar. Voorts wordt voorzien in een intensief opleidings- en mobiliteitstraject. Het oogmerk is om deze trainees – bij gebleken geschiktheid – in te laten stromen in reguliere functies indien de mogelijkheden daartoe aanwezig zijn.
-
-### 6.5
-
-Instroom, behoud en reïntegratie van gedeeltelijk arbeidsgeschikten is een belangrijke doelstelling. Partijen zullen overleggen over het te voeren beleid aan de hand van binnenkort beschikbare WAGW-cijfers.
-
-### 6.6
-
-Partijen zijn van mening dat de huidige scholingsinspanningen in financiële zin op niveau zijn. Mede daarom komen partijen doeltreffendheid bevorderende maatregelen overeen.
-
-In het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) wordt zowel een recht op scholingsfaciliteiten als een scholingsplicht opgenomen. De nieuwe bepalingen bieden het management in arbeidsvoorwaardelijke zin ruime mogelijkheden tot het voeren van een optimaal scholingsbeleid. Daarbij wordt ter bevordering van scholing en mobiliteit het management de mogelijkheid geboden om af te zien van een vordering tot terugbetaling van de vergoeding van de studiekosten indien de ambtenaar tijdens of kort na afronding van de op eigen initiatief gevolgde scholing ontslag wordt verleend. De huidige Studiefaciliteitenregeling is aldus overbodig en wordt ingetrokken.
-
-– Het A+O fonds stelt middelen beschikbaar aan departementen die aangeven dat deelnemers aan de Melkert II regeling extra scholing nodig hebben om op structurele plaatsen te kunnen instromen. Ook zijn uit dit fonds gelden beschikbaar voor scholing van oudere werknemers en allochtonen.
-
-### 6.7
-
-Er wordt een mobiliteitsbank ontwikkeld met als doel het inzicht in de arbeidsmarkt binnen de sector Rijk te vergroten. Mede via deze bank zal de mobiliteit van ambtenaren worden bevorderd.
-
-### 6.8
-
-Ter bevordering van de geografische mobiliteit wordt het management de mogelijkheid geboden om een ambtenaar die in een andere functie wordt geplaatst een extra financiële tegemoetkoming toe te kennen. De ambtenaar voor wie de afstand tussen de woning en het werk door de verplaatsing toeneemt zonder dat hij behoeft te verhuizen, kan een hogere tegemoetkoming in de kosten van het woon-werkverkeer worden toegekend gedurende maximaal zes jaren. De ambtenaar die in verband met de verplaatsing in opdracht van het management moet verhuizen, kan een eenmalige uitkering van maximaal f 24.000,- bruto worden toegekend.
-
-### 7. Overige onderwerpen
-
-### 7.1
-
-De regeling ouderschapsverlof wordt op vier punten aangepast. De voorwaarde dat de arbeidsduur tenminste 14,4 uren per week bedraagt komt te vervallen. Voortaan komen dus alle ambtenaren ongeacht de omvang van hun aanstelling voor ouderschapsverlof in aanmerking. De leeftijd van het kind tot welke het ouderschapsverlof kan worden genoten wordt verhoogd van vier naar acht jaar. Wanneer de dienstbetrekking in het buitenland wordt vervuld kan ouderschapsverlof worden genoten tenzij gewichtige redenen van dienstbelang zich daartegen verzetten. Tenslotte wordt ter bevordering van de mobiliteit het management de mogelijkheid geboden om af te zien van een vordering tot terugbetaling van de bezoldiging over de genoten verlofuren indien de ambtenaar tijdens het ouderschapsverlof of binnen een jaar na afloop daarvan ontslag wordt verleend op eigen verzoek dan wel op grond van aan hem te wijten feiten of omstandigheden.
-
-### 7.2
-
-Partijen hechten veel waarde aan de bescherming en de bevordering van de integriteit van het openbaar bestuur. Daarom worden de bepalingen aangescherpt omtrent het verbieden, melden en registreren van nevenwerkzaamheden die de belangen van de dienst kunnen raken. Verder worden de bepalingen omtrent het afleggen van de eed of belofte herzien.
-
-### 7.3
-
-Het is van groot belang dat het management invulling geeft aan de uit de Arbeidsomstandighedenwet voortvloeiende verplichting tot inventarisatie en evaluatie van alle risico’s in verband met de veiligheid, de gezondheid en het welzijn van de werknemers. Deze inventarisatie en evaluatie dienen in goede samenspraak met de ondernemingsraad te worden uitgevoerd en periodiek te worden herhaald. Aan het onderwerp werkdruk en het bepalen van de mate daarvan dient daarbij nadrukkelijk aandacht te worden geschonken.
-
-### 7.4
-
-De bedragen inzake de representatievergoeding vermeld in het [Besluit vergoeding representatiekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) worden met terugwerkende kracht tot 1 januari 1997 overeenkomstig de geldende index verhoogd.
-
-### 8. Regelgeving
-
-De bijlagen bij deze overeenkomst1De bijlagen worden niet gepubliceerd in de Staatscourant. bevatten de voorgenomen wijzigingen van de rechtspositionele regelingen die voortvloeien uit de in deze overeenkomst vastgelegde afspraken. Partijen streven ernaar op korte termijn overeenstemming te bereiken over de definitieve formulering van deze wijzigingen.
-
-## Bijlage 2. Inpassingstabel per 1 mei 1997 voor de salarisbedragen voor volwassenen
-
-| Nr. | 1-01-97 | 1-05-97 |
-| --- | --- | --- |
-| 1 | 2209 | 2271 |
-| 2 | 2260 | 2323 |
-| 3 | 2310 | 2375 |
-| 4 | 2366 | 2432 |
-| 5 | 2426 | 2494 |
-| 6 | 2485 | 2555 |
-| 7 | 2545 | 2616 |
-| 8 | 2605 | 2678 |
-| 9 | 2666 | 2741 |
-| 10 | 2728 | 2804 |
-| 11 | 2791 | 2869 |
-| 12 | 2886 | 2967 |
-| 13 | 2981 | 2064 |
-| 14 | 3077 | 3163 |
-| 15 | 3173 | 3262 |
-| 16 | 3270 | 3362 |
-| 17 | 3366 | 3460 |
-| 18 | 3462 | 3559 |
-| 19 | 3558 | 3658 |
-| 20 | 3654 | 3756 |
-| 21 | 3750 | 3855 |
-| 22 | 3847 | 3945 |
-| 23 | 3943 | 4053 |
-| 24 | 4039 | 4152 |
-| 25 | 4172 | 4289 |
-| 26 | 4325 | 4446 |
-| 27 | 4512 | 4638 |
-| 28 | 4702 | 4834 |
-| 29 | 4895 | 5032 |
-| 30 | 5108 | 5251 |
-| 31 | 5322 | 5471 |
-| 32 | 5536 | 5691 |
-| 33 | 5749 | 5910 |
-| 34 | 5963 | 6130 |
-| 35 | 6177 | 6350 |
-| 36 | 6461 | 6642 |
-| 37 | 6765 | 6954 |
-| 38 | 7069 | 7267 |
-| 39 | 7397 | 7604 |
-| 40 | 7726 | 7942 |
-| 41 | 8056 | 8282 |
-| 42 | 8386 | 8621 |
-| 43 | 8716 | 8960 |
-| 44 | 9046 | 9299 |
-| 45 | 9376 | 9639 |
-| 46 | 9706 | 9978 |
-| 47 | 10036 | 10317 |
-| 48 | 10366 | 10656 |
-| 49 | 10697 | 10997 |
-| 50 | 11027 | 11336 |
-| 51 | 11357 | 11675 |
-| 52 | 11687 | 12014 |
-| 53 | 12017 | 12353 |
-| 54 | 12347 | 12693 |
-| 55 | 12677 | 13032 |
-| 56 | 13007 | 13371 |
-| 57 | 13366 | 13740 |
-| 58 | 13726 | 14110 |
-| 59 | 14086 | 14480 |
-|   | 14398 | 14801 |
-|   | 14710 | 15122 |
-| A | 15023 | 15444 |
-| B | 16022 | 16471 |
-| C | 17088 | 17566 |
-
-## Bijlage 3. Inpassingstabel garantie-salarissen per 1 mei 1997
-
-De hierna vermelde nummers verwijzen naar de nummers zoals die golden voor 1 januari 1997
-
-| Nr. | 1-01-97 | 1-05-97 |
-| --- | --- | --- |
-| 33 | 5051 | 5193 |
-| 35 | 5234 | 5381 |
-| 37 | 5429 | 5581 |
-| 39 | 5596 | 5753 |
-| 41 | 5763 | 5924 |
-| 43 | 5946 | 6112 |
-| 45 | 6140 | 6312 |
-| 47 | 6332 | 6509 |
-| 49 | 6517 | 6699 |
-| 51 | 6702 | 6890 |
-| 53 | 6880 | 7073 |
-| 57 | 7254 | 7457 |
-| 59 | 7432 | 7640 |
-| 61 | 7618 | 7831 |
-| 63 | 7826 | 8046 |
-| 67 | 8289 | 8521 |
-| 69 | 8521 | 8760 |
-| 73 | 8982 | 9234 |
-| 75 | 9215 | 9473 |
-| 77 | 9481 | 9747 |
-| 79 | 9742 | 10014 |
-| 81 | 10003 | 10283 |
-| 83 | 10287 | 10575 |
-| 85 | 10594 | 10890 |
-| 87 | 10900 | 11205 |
-| 89 | 11209 | 11523 |
-| 91 | 11516 | 11838 |
-| 93 | 11822 | 12154 |
-| 95 | 12134 | 12474 |
-
-## Bijlage 4. Inpassingstabel betreffende salarisbedragen voor jeugdige ambtenaren
-
-## Bijlage 5. Schalen van het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) per 1 mei 1997

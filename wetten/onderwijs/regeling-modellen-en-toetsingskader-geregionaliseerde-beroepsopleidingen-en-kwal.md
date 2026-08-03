@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-31
 toestand: 2020-11-25
 bron: "https://wetten.overheid.nl/BWBR0042524"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-03
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 26 augustus 2019, nr. MBO-1456697, houdende vaststellen van modellen en toetsingskaders op grond van het Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties mbo (Regeling modellen en toetsingskader geregionaliseerde beroepsopleidingen en kwalificaties mbo)

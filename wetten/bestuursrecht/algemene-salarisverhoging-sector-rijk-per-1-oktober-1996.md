@@ -1,46 +1,23 @@
 ---
 title: "Algemene salarisverhoging sector Rijk per 1 oktober 1996"
 identifier: "BWBR0008229"
-country: "nl"
-rank: "circulaire"
-publication_date: "1996-10-01"
-last_updated: "1996-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008229"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6374733"
-version_id: "11039332"
-internal_id: "C14938321"
-label_id: "6363694"
-original_entry_into_force: "1996-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008229/1996-10-01/0"
-intitule_bron: "Stcrt.1996-180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-09-09"
-intitule_published: "1996-09-18"
-intitule_in_force: "1996-09-18"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-180"
-original_signed_date: "1996-09-09"
-original_published_date: "1996-09-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1996-180-p16-SC6976"
-entry_into_force_date: "1996-10-01"
-jci_1_3: "jci1.3:c:BWBR0008229&z=1996-10-01&g=1996-10-01"
-jci_1_0: "1.0:c:BWBR0008229&g=1996-10-01"
-citeertitel_status: "redactioneel"
-signed_date: "1996-09-09"
-entry_into_force: "1996-10-01"
+publicatiedatum: 1996-10-01
+laatste_update: 1996-10-01
+status: geldig
+toestand: 1996-10-01
+bron: "https://wetten.overheid.nl/BWBR0008229"
+opgehaald: 2026-08-03
 ---
-# Algemene salarisverhoging sector Rijk per 1 oktober 1996
 
-«Circulaire aan de ministers»
+# Algemene salarisverhoging sector Rijk per 1 oktober 1996
 
 ### Inleiding/Managementinformatie
 
-In mijn [circulaire](onbekend) van 22 september 1995, kenmerk AD95/U915, kondigde ik onder meer aan dat ik bij afzonderlijke circulaire nog nadere informatie zou verstrekken over de salarisverhoging per 1 oktober 1996 ter grootte van 0,75% en over de wijzigingen in het beloningsbeleid per 1 januari 1997. Bij deze voldoe ik daaraan met betrekking tot de salarisverhoging per 1 oktober aanstaande. Tijdig voor 1 januari 1997 zal ik u nader informeren over de wijzigingen in het beloningsbeleid per 1 januari 1997.
+In mijn circulaire van 22 september 1995, kenmerk AD95/U915, kondigde ik onder meer aan dat ik bij afzonderlijke circulaire nog nadere informatie zou verstrekken over de salarisverhoging per 1 oktober 1996 ter grootte van 0,75% en over de wijzigingen in het beloningsbeleid per 1 januari 1997. Bij deze voldoe ik daaraan met betrekking tot de salarisverhoging per 1 oktober aanstaande. Tijdig voor 1 januari 1997 zal ik u nader informeren over de wijzigingen in het beloningsbeleid per 1 januari 1997.
 
-De salarisverhoging per 1 oktober 1996 houdt een algemene aanpassing in van de salarisbedragen met de gebruikelijke doorwerking daarvan naar de van het salaris afgeleide of daaraan gerelateerde bedragen. De algemene salarisverhoging wordt centraal in het geautomatiseerde IPA-salaris-systeem aangebracht. Dit betekent dat voor de verwerking van deze maatregel in het algemeen – behoudens ten aanzien van een eventuele aanpassing van bepaalde toelagen: zie daarvoor onder punt A.2.a – geen afzonderlijke maatregelen door het management behoeven te worden getroffen.
+De salarisverhoging per 1 oktober 1996 houdt een algemene aanpassing in van de salarisbedragen met de gebruikelijke doorwerking daarvan naar de van het salaris afgeleide of daaraan gerelateerde bedragen. De algemene salarisverhoging wordt centraal in het geautomatiseerde IPA-salaris-systeem aangebracht. Dit betekent dat voor de verwerking van deze maatregel in het algemeen – behoudens ten aanzien van een eventuele aanpassing van bepaalde toelagen: zie daarvoor onder [punt A.2.a](https://wetten.overheid.nl/BWBR0008229) – geen afzonderlijke maatregelen door het management behoeven te worden getroffen.
 
 ### A. Salarisverhoging per 1 oktober 1996
 
@@ -54,6 +31,12 @@ De nieuwe salarisbedragen voor de jeugdigen (de zgn. ’J’-bedragen), voorkome
 
 ### 2. Aanpassing van toelagen, vergoedingen en dergelijke
 
+- a. Toelagen, toegekend met toepassing van het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) en toelagen welke krachtens een BBRA-overgangsregeling nog van toepassing zijn, dienen in het algemeen in verband met de algemene salarisverhoging te worden verhoogd met ingang van 1 oktober 1996. Veelal vindt dit automatisch plaats, bijvoorbeeld voor toelagen die zijn uitgedrukt in een percentage van het salaris van de ambtenaar of die overeenkomen met één of meer periodieke salarisverhogingen in de salarisreeks. Hiervoor kan onder meer worden gedacht aan de toelage onregelmatige dienst ([artikel 17, tweede lid, BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=17)) en aan de functioneringstoelage ([artikel 12b BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=12b)). Indien zo’n automatische aanpassing niet plaatsvindt, dient – behoudens het gestelde in de laatste alinea van dit punt – met ingang van 1 oktober 1996 een verhoging te worden toegepast van 0,75%. Dit geldt bijvoorbeeld voor de vaste toelage onregelmatige dienst ([artikel 17, vierde lid, BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=17)). Tenslotte zijn er toelagen die geen aanpassing behoren te ondergaan, bijvoorbeeld op grond van hun aard, op grond van de desbetreffende toekenningsbeschikking, of anderszins naar uw oordeel. Deze toelagen blijven dus ongewijzigd.
+
+- b. De herziening van bijzondere regelingen, getroffen met toepassing van [artikel 26 van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=26), dient – zo nodig in overleg met de afdeling Arbeidsvoorwaarden en Sociaal Beleid (PMR/ASB) van mijn ministerie – van geval tot geval te worden beoordeeld. Ingeval tot bijstelling wordt overgegaan, dient een afschrift daarvan ter informatie te worden gezonden aan genoemde afdeling.
+
+- c. De ingevolge [artikel 13, derde lid, van de Overgangsregeling BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003631&artikel=13) gehandhaafde EHBO-toelage wordt per 1 oktober 1996 gewijzigd van f 16,01 in f 16,13 per maand. De uurvergoeding bedrijfshulpverlening wordt met ingang van 1 oktober 1996 gewijzigd van f 25,91 in f 26,11.
+
 ### 3. Minimumbedrag van de vakantie-uitkering
 
 In verband met de algemene salarisverhoging wordt het minimumbedrag van de vakantie-uitkering per 1 oktober 1996 verhoogd van f 239,28 tot f 241,08 per maand.
@@ -65,11 +48,3 @@ Ik verzoek u vooruitlopend op de formele wijziging van het [BBRA 1984](https://w
 ### B. Eindejaarsuitkering met ingang van 1 januari 1997
 
 Voor de goede orde wijs ik u er tenslotte nog op dat met ingang van 1 januari 1997 de hoogte van de eindejaarsuitkering weer 0,3% bedraagt.
-
-## Bijlage I. Inpassingstabel per 1 oktober 1996 voor de salarisbedragen voor volwassenen
-
-## Bijlage II. Inpassingstabel garantie-salarissen
-
-## Bijlage III. Inpassingstabel betreffende salarisbedragen voor jeugdige ambtenaren
-
-## Bijlage IV. Schalen van het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) per 1 oktober 1996

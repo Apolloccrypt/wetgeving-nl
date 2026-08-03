@@ -1,44 +1,17 @@
 ---
 title: "Besluit toezicht en opsporing vervoer gevaarlijke stoffen"
 identifier: "BWBR0008295"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008295"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4868603"
-version_id: "7798732"
-internal_id: "C9515021"
-label_id: "4846624"
-dtd_version: "2.0"
-original_entry_into_force: "1996-10-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008295/2013-04-01/0"
-intitule_bron: "Stcrt.1996-209"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-10-23"
-intitule_published: "1996-10-29"
-intitule_in_force: "1996-10-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-209"
-original_signed_date: "1996-10-23"
-original_published_date: "1996-10-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-10-31"
-jci_1_3: "jci1.3:c:BWBR0008295&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0008295&g=2013-04-01"
-citeertitel_status: "officieel"
-signed_date: "1996-10-23"
-entry_into_force: "1996-10-31"
+publicatiedatum: 1996-10-31
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0008295"
+opgehaald: 2026-08-03
 ---
+
 # Besluit toezicht en opsporing vervoer gevaarlijke stoffen
-
-Handelende mede namens de Ministers van Justitie, van Defensie, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, en de staatssecretarissen van Financiën en van Volksgezondheid, Welzijn en Sport;
-
-Gelet op de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=34) en [44 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=44);
-
-Besluit:
 
 #### § 1. Toezicht op de naleving van de Wet vervoer gevaarlijke stoffen
 
@@ -56,9 +29,9 @@ Als ambtenaren in de zin van [artikel 34, derde lid, van de Wet vervoer gevaarli
 
 - a. de ambtenaren van de divisie Scheepvaart van de Inspectie Leefomgeving en Transport, voor zover het betreft:
 
-- 1º. het vervoer per zeeschip over de binnenwateren,
+   - 1º het vervoer per zeeschip over de binnenwateren,
 
-- 2º. bouw, inrichting en uitrusting van schepen;
+   - 2º bouw, inrichting en uitrusting van schepen;
 
 - b. de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane;
 
@@ -99,7 +72,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit toezicht en opsporing vervoer gevaarlijke stoffen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-Tegen dit besluit staan voor belanghebbenden bezwaar en beroep open ingevolge de Algemene wet bestuursrecht. Het gemotiveerde bezwaarschrift moet binnen zes weken na de bekendmaking van deze beschikking worden ingediend bij de Minister van Verkeer en Waterstaat, t.a.v. het Directoraat-Generaal voor het Vervoer, Hoofdafdeling Transport Gevaarlijke Stoffen en Externe Veiligheid, postbus 20901, 2500 EX Den Haag.

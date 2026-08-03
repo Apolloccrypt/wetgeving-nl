@@ -1,48 +1,18 @@
 ---
 title: "Wet van 27 februari 1997, houdende enige regels ter uitvoering van een aantal EG-verordeningen op het gebied van de mededinging (Wet uitvoering EG-mededingingsverordeningen)"
+citeertitel: "Wet uitvoering EG-mededingingsverordeningen"
 identifier: "BWBR0008575"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008575"
+categorie: "Overig"
 soort: "wet"
-stam_id: "387603"
-version_id: "571522"
-internal_id: "C571521"
-label_id: "378264"
-dtd_version: "2.0"
-original_entry_into_force: "1997-03-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008575/2019-01-01/0"
-intitule_bron: "Stb.1997-129"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-02-27"
-intitule_published: "1997-03-25"
-intitule_in_force: "1997-03-25"
-intitule_status: "goed"
-original_publication: "Stb.1997-129"
-original_signed_date: "1997-02-27"
-original_published_date: "1997-03-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "24617"
-original_url_id: "stb-1997-129"
-entry_into_force_date: "1997-03-26"
-entry_into_force_dossier: "24617"
-jci_1_3: "jci1.3:c:BWBR0008575&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0008575&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet uitvoering EG-mededingingsverordeningen"
-signed_date: "1997-02-27"
-entry_into_force: "1997-03-26"
+publicatiedatum: 1997-03-26
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0008575"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 27 februari 1997, houdende enige regels ter uitvoering van een aantal EG-verordeningen op het gebied van de mededinging (Wet uitvoering EG-mededingingsverordeningen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het nodig is ter uitvoering van een aantal EG-verordeningen op het gebied van de mededinging enige regels te stellen ten aanzien van het verrichten van verificaties bij ondernemingen en ondernemersverenigingen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -50,7 +20,7 @@ In deze wet wordt verstaan onder:
 
 Commissie: de Commissie van de Europese Gemeenschappen;
 
-EG-mededingingsverordeningen: [verordening (EG) nr. 659/1999](31999R0659) van de Raad van 22 maart 1999 tot vaststelling van nadere bepalingen voor de toepassing van artikel 93 van het EG-Verdrag (PbEG L 83);
+EG-mededingingsverordeningen: verordening (EG) nr. 659/1999 van de Raad van 22 maart 1999 tot vaststelling van nadere bepalingen voor de toepassing van artikel 93 van het EG-Verdrag (PbEG L 83);
 
 Onze Ministers: Onze Minister van Economische Zaken en Klimaat en Onze Minister, wie de zaak mede aangaat, tezamen.
 
@@ -68,7 +38,7 @@ Onze Ministers: Onze Minister van Economische Zaken en Klimaat en Onze Minister,
 
 - d. het betreden van alle plaatsen.
 
-3. De bevoegdheid, bedoeld in het tweede lid, onder **d**, strekt zich niet uit tot het betreden van woningen zonder toestemming van de bewoner.
+3. De bevoegdheid, bedoeld in het tweede lid, onder *d*, strekt zich niet uit tot het betreden van woningen zonder toestemming van de bewoner.
 
 4. In geval van het verrichten van een verificatie die de Commissie krachtens een van de EG-mededingingsverordeningen bij beschikking heeft gelast, zijn de in het eerste lid bedoelde ambtenaren voorts bevoegd om bedrijfsruimten en voorwerpen te verzegelen gedurende de tijd gelegen tussen 18.00 uur en 8.00 uur.
 
@@ -84,7 +54,7 @@ Onze Ministers: Onze Minister van Economische Zaken en Klimaat en Onze Minister,
 
 ##### Artikel 4
 
-Wanneer van de zijde van een onderneming of een ondernemersvereniging verzet wordt gepleegd tegen het verrichten van een verificatie, die de Commissie krachtens een van de EG-mededingingsverordeningen bij beschikking heeft gelast, kunnen de ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=3&z=2019-01-01&g=2019-01-01), aangewezen ambtenaren hun bevoegdheden, bedoeld in [artikel 2, tweede lid, onder **a**, **b** en **d**, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01), zo nodig uitoefenen met behulp van de sterke arm.
+Wanneer van de zijde van een onderneming of een ondernemersvereniging verzet wordt gepleegd tegen het verrichten van een verificatie, die de Commissie krachtens een van de EG-mededingingsverordeningen bij beschikking heeft gelast, kunnen de ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=3&z=2019-01-01&g=2019-01-01), aangewezen ambtenaren hun bevoegdheden, bedoeld in [artikel 2, tweede lid, onder *a*, *b* en *d*, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008575&artikel=2&z=2019-01-01&g=2019-01-01), zo nodig uitoefenen met behulp van de sterke arm.
 
 ##### Artikel 5
 
@@ -140,14 +110,12 @@ De functionarissen van de Commissie, die met het verrichten van een verificatie 
 
 ##### Artikel 13
 
-De wet van 10 juli 1968 tot uitvoering van de Verordening No. 17 van de Raad van de Europese Economische Gemeenschap (**Stb.** 395) wordt ingetrokken.
+De wet van 10 juli 1968 tot uitvoering van de Verordening No. 17 van de Raad van de Europese Economische Gemeenschap (*Stb.* 395) wordt ingetrokken.
 
 ##### Artikel 14
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.
 
 ##### Artikel 15
 
 Deze wet wordt aangehaald als: Wet uitvoering EG-mededingingsverordeningen.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

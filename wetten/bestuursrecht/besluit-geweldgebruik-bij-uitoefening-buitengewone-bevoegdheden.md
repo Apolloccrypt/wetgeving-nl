@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 23 april 1997, houdende vaststelling nadere regels inzake gebruik geweld bij uitoefening van buitengewone bevoegdheden (Besluit geweldgebruik bij uitoefening buitengewone bevoegdheden)"
+citeertitel: "Besluit geweldgebruik bij uitoefening buitengewone bevoegdheden"
 identifier: "BWBR0008650"
-country: "nl"
-rank: "amvb"
-publication_date: "1997-05-01"
-last_updated: "1997-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008650"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "408853"
-version_id: "600252"
-internal_id: "C600251"
-label_id: "398494"
-dtd_version: "2.0"
-original_entry_into_force: "1997-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008650/1997-05-01/0"
-intitule_bron: "Stb.1997-173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-04-23"
-intitule_published: "1997-04-29"
-intitule_in_force: "1997-04-29"
-intitule_status: "goed"
-original_publication: "Stb.1997-173"
-original_signed_date: "1997-04-23"
-original_published_date: "1997-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-173"
-entry_into_force_date: "1997-05-01"
-jci_1_3: "jci1.3:c:BWBR0008650&z=1997-05-01&g=1997-05-01"
-jci_1_0: "1.0:c:BWBR0008650&g=1997-05-01"
-citeertitel_status: "officieel"
-short_title: "Besluit geweldgebruik bij uitoefening buitengewone bevoegdheden"
-signed_date: "1997-04-23"
-entry_into_force: "1997-05-01"
+publicatiedatum: 1997-05-01
+laatste_update: 1997-05-01
+status: geldig
+toestand: 1997-05-01
+bron: "https://wetten.overheid.nl/BWBR0008650"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 23 april 1997, houdende vaststelling nadere regels inzake gebruik geweld bij uitoefening van buitengewone bevoegdheden (Besluit geweldgebruik bij uitoefening buitengewone bevoegdheden)
-
-Op de voordracht van Onze Minister van Defensie, directie juridische zaken, afdeling wet- en regelgeving, van 30 oktober 1996, nr. CWW 88/014;
-
-Gelet op [artikel 8, vierde lid, van de Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&artikel=8);
-
-De Raad van State gehoord (advies van 20 december 1996, nr. W07.96.0515);
-
-Gezien het nader rapport van Onze Minister van Defensie van 22 april 1997, nr. CWW 88/014;
-
-HEBBEN GOEDGEVONDEN EN VERSTAAN:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -66,7 +34,7 @@ HEBBEN GOEDGEVONDEN EN VERSTAAN:
 
 ##### Artikel 2
 
-Dit besluit is niet van toepassing in geval van een internationaal gewapend conflict of een intern gewapend conflict als bedoeld in de gemeenschappelijke artikelen 2 en 3 van de op 12 augustus 1949 tot stand gekomen Verdragen van Genève (**Trb.** 1951, 72 t/m 75), alsmede de op 10 juni 1977 te Genève tot stand gekomen Aanvullende Protocollen (**Trb.** 1980, 87 en 88), in welk geval de voor dat internationaal gewapend conflict of intern gewapend conflict vastgestelde geweldsinstructie van toepassing is op het gebruik van geweld door militairen in de uitoefening van de buitengewone bevoegdheden uit [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II) van de wet.
+Dit besluit is niet van toepassing in geval van een internationaal gewapend conflict of een intern gewapend conflict als bedoeld in de gemeenschappelijke artikelen 2 en 3 van de op 12 augustus 1949 tot stand gekomen Verdragen van Genève (*Trb.* 1951, 72 t/m 75), alsmede de op 10 juni 1977 te Genève tot stand gekomen Aanvullende Protocollen (*Trb.* 1980, 87 en 88), in welk geval de voor dat internationaal gewapend conflict of intern gewapend conflict vastgestelde geweldsinstructie van toepassing is op het gebruik van geweld door militairen in de uitoefening van de buitengewone bevoegdheden uit [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&hoofdstuk=II) van de wet.
 
 #### Paragraaf 2. Algemene voorwaarden voorafgaand aan gebruik van geweld
 
@@ -156,10 +124,8 @@ De militair mag slechts uit voorzorg een vuurwapen ter hand nemen, indien redeli
 
 ##### Artikel 13
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&artikel=8), van de wet in werking treedt. Indien het **Staatsblad** waarin dit besluit wordt geplaatst, wordt uitgegeven na dat tijdstip, treedt het in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+Dit besluit treedt in werking op het tijdstip waarop [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&artikel=8), van de wet in werking treedt. Indien het *Staatsblad* waarin dit besluit wordt geplaatst, wordt uitgegeven na dat tijdstip, treedt het in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
 
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit geweldgebruik bij uitoefening buitengewone bevoegdheden.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0002063"
-opgehaald: 2026-08-02
+opgehaald: 2026-08-03
 ---
 
 # Wet van 22 juni 1950, houdende vaststelling van regelen voor de opsporing, de vervolging en de berechting van economische delicten

@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 23 februari 1998, houdende vaststelling van de Penitentiaire maatregel en daarmee verband houdende wijziging van enige andere regelingen (Penitentiaire maatregel)"
+citeertitel: "Penitentiaire maatregel"
 identifier: "BWBR0009398"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-11-01"
-last_updated: "2025-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009398"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "750433"
-version_id: "30915052"
-internal_id: "C44302211"
-label_id: "728284"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009398/2025-11-01/0"
-intitule_bron: "Stb.1998-111"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-02-23"
-intitule_published: "1998-03-05"
-intitule_in_force: "1998-11-17"
-intitule_status: "goed"
-original_publication: "Stb.2025-205"
-original_signed_date: "2025-09-04"
-original_published_date: "2025-09-09"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2025-205"
-entry_into_force_date: "2025-11-01"
-jci_1_3: "jci1.3:c:BWBR0009398&z=2025-11-01&g=2025-11-01"
-jci_1_0: "1.0:c:BWBR0009398&g=2025-11-01"
-citeertitel_status: "officieel"
-short_title: "Penitentiaire maatregel"
-signed_date: "2025-09-04"
-entry_into_force: "2025-11-01"
+publicatiedatum: 2025-11-01
+laatste_update: 2025-11-01
+status: geldig
+toestand: 2025-11-01
+bron: "https://wetten.overheid.nl/BWBR0009398"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 23 februari 1998, houdende vaststelling van de Penitentiaire maatregel en daarmee verband houdende wijziging van enige andere regelingen (Penitentiaire maatregel)
-
-Op de voordracht van de Onze Minister van Justitie, van 8 juli 1997, nr. 640008/97/6;
-
-Gelet op [artikel 89 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=89), [artikel 13 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=13) en voorts de [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=4), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=7), [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=32), [41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=41), [42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=42), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=45), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=59), [61, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), [65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=65), [67, vierde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=67) en [artikel 40, vierde lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=40);
-
-Gezien de adviezen van de Centrale Raad voor Strafrechtstoepassing van 11 november 1996, nr. RA/98/96, 25 maart 1997, nr. RA 20/97 en 6 juni 1997, nr. 631365/97, en het advies van de Registratiekamer van 23 oktober 1996, nr. 96.A.495/1;
-
-De Raad van State gehoord (advies van 26 november 1997, No.W03.97 0476);
-
-Gezien het nader rapport van Onze Minister van Justitie van 16 februari 1998, nr. 680358/98/6;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -58,7 +24,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 - b. reclassering: een reclasseringsinstelling als bedoeld in [artikel 1, onder b, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=1);
 
-- c. **college:** het college van burgemeester en wethouders van de gemeente waar de gedetineerde ingezetene was of overwegend verbleef voorafgaand aan de detentie dan wel van de gemeente waarin de gedetineerde zich na afloop van zijn detentie wil vestigen.
+- c. *college:* het college van burgemeester en wethouders van de gemeente waar de gedetineerde ingezetene was of overwegend verbleef voorafgaand aan de detentie dan wel van de gemeente waarin de gedetineerde zich na afloop van zijn detentie wil vestigen.
 
 ### Hoofdstuk 2. Opperbeheer inrichtingen en regime
 
@@ -86,7 +52,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. Penitentiair programma
 
@@ -131,6 +97,26 @@ Voor deelname aan een penitentiair programma komen niet in aanmerking:
 - c. de beschikbaarheid van een aanvaardbaar verblijfadres.
 
 4. De selectiefunctionaris neemt zijn beslissing tot deelname aan een penitentiair programma slechts indien de gedetineerde zich bereid heeft verklaard tot deelname aan het programma en de in verband daarmee gestelde algemene en bijzondere voorwaarden.
+
+##### Artikel 7a
+
+1. De deelnemer aan een penitentiair programma wordt onder elektronisch toezicht gesteld, indien:
+
+- a. het gedrag van de deelnemer daartoe aanleiding geeft;
+
+- b. aan de deelname aan een penitentiair programma bijzondere risico’s zijn verbonden, of;
+
+- c. dit voor de bescherming van de belangen van slachtoffers noodzakelijk is.
+
+2. Elektronisch toezicht kan vervallen indien het gedrag, de risico’s of de belangen bedoeld in het eerste lid niet langer tot het toezicht aanleiding geven. De deelnemer kan wederom onder elektronisch toezicht worden gesteld indien het gedrag, de risico’s of de belangen bedoeld in het eerste lid daartoe aanleiding geven.
+
+3. De selectiefunctionaris is belast met de beslissingen, bedoeld in het eerste en tweede lid. Hij kan bepalen dat geen elektronisch toezicht wordt toegepast indien:
+
+- a. een andere vorm van vierentwintiguurstoezicht aanwezig is,
+
+- b. het elektronisch toezicht afbreuk doet aan de resocialisatie van de deelnemer, of
+
+- c. bijzondere omstandigheden daartoe aanleiding geven.
 
 ##### Artikel 8
 
@@ -177,6 +163,24 @@ Voor deelname aan een penitentiair programma komen niet in aanmerking:
 - l. andere voorwaarden, het gedrag van de veroordeelde betreffend, waaraan deze gedurende de deelname aan het penitentiair programma heeft te voldoen.
 
 4. Van het stellen van bijzondere voorwaarden doet de directeur mededeling aan de selectiefunctionaris.
+
+##### Artikel 9a
+
+1. Bij overtreding van de algemene of bijzondere voorwaarden of verzuim van deelname aan het programma kan de directeur, afhankelijk van de ernst van de gedraging, beslissen tot:
+
+- a. het geven van een waarschuwing aan de deelnemer aan het penitentiair programma;
+
+- b. wijziging of aanvulling van de bijzondere voorwaarden gesteld aan deelname aan een penitentiair programma;
+
+- c. het adviseren van de selectiefunctionaris om de deelname aan het penitentiair programma te beëindigen;
+
+- d. het onmiddellijk zelfstandig beëindigen van deelname aan het penitentiair programma indien dit dringend noodzakelijk is.
+
+2. De directeur wint advies in bij degene die is belast is met het toezicht op de tenuitvoerlegging van het penitentiair programma, tenzij spoed dit verhindert. Diegene kan ook ongevraagd aan de directeur adviseren.
+
+3. De directeur geeft de deelnemer aan een penitentiair programma van een beslissing als bedoeld in het eerste lid onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling.
+
+4. Van het wijzigen of aanvullen van bijzondere voorwaarden, de overtreding van de voorwaarden of verzuim van deelname aan het programma en een beslissing als bedoeld in het eerste lid doet de directeur mededeling aan de selectiefunctionaris.
 
 ##### Artikel 10
 
@@ -290,25 +294,143 @@ Voor benoeming als lid, secretaris of plaatsvervangend secretaris komen niet in 
 
 3. Voor zover de secretaris of de plaatsvervangend secretaris geen ambtenaar is geniet deze tevens de in het tweede lid bedoelde vergoeding.
 
-### Hoofdstuk 5. Gedwongen geneeskundige handelingen
+### Hoofdstuk 4a. Commissie van toezicht en beklagcommissie voor het vervoer
+
+##### Artikel 20a
+
+1. De leden van de commissie van toezicht voor het vervoer, genoemd in [artikel 18e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18e), worden benoemd voor een periode van vijf jaren. Zij kunnen tweemaal voor herbenoeming in aanmerking komen.
+
+2. De [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=11&z=2025-11-01&g=2025-11-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=12&z=2025-11-01&g=2025-11-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=14&z=2025-11-01&g=2025-11-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=16&z=2025-11-01&g=2025-11-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=18&z=2025-11-01&g=2025-11-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=19&z=2025-11-01&g=2025-11-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=20&z=2025-11-01&g=2025-11-01) zijn van overeenkomstige toepassing.
+
+3. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=13&z=2025-11-01&g=2025-11-01) is van overeenkomstige toepassing, met dien verstande dat voor benoeming als lid eveneens niet in aanmerking komen ambtenaren of andere personen, werkzaam onder de verantwoordelijkheid van Onze Minister op het terrein van de tenuitvoerlegging van vrijheidsbenemende straffen en maatregelen, niet zijnde ambtenaren bij het openbaar ministerie.
+
+##### Artikel 20b
+
+1. De leden van de commissie van toezicht voor het vervoer hebben te allen tijde toegang tot de plaatsen waar en de vervoersmiddelen waarmee handelingen betreffende het vervoer worden uitgeoefend.
+
+2. De leden van de commissie van toezicht ontvangen van Onze Minister en de directeur van de inrichting alle door hen gewenste inlichtingen ten aanzien van het vervoer van gedetineerden en kunnen alle op het vervoer betreffende stukken inzien. Zij zijn tot geheimhouding verplicht, behoudens voor zover enig wettelijk voorschrift hen tot bekendmaking verplicht of uit de tenuitvoerlegging van hun taak de noodzaak tot bekendmaking voortvloeit.
+
+3. Onze Minister en de directeur van de inrichting brengen alle voor de uitoefening van de taak van de commissie van toezicht belangrijke feiten en omstandigheden ter kennis van de commissie van toezicht.
+
+### Hoofdstuk 4b. Detentie- en re-integratieplan
+
+##### Artikel 20c
+
+Onze Minister kan nadere regels stellen over de inrichting van het detentie- en re-integratieplan, bedoeld in [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18a).
+
+##### Artikel 20d
+
+1. Voor zover dit noodzakelijk is ten behoeve van het vaststellen, aanpassen en uitvoeren van het detentie- en re-integratieplan van de gedetineerde kunnen gegevens, waaronder persoonsgegevens betreffende de gezondheid, over de essentiële voorwaarden voor deelname aan het maatschappelijk leven aan elkaar worden verstrekt door de directeur, de reclassering en het college.
+
+2. De in het eerste lid bedoelde gegevens betreffen:
+
+- a. persoonsidentificerende gegevens:
+
+   - 1°. de geslachtsnaam;
+
+   - 2°. voornamen;
+
+   - 3°. adres;
+
+   - 4°. geboorteplaats en geboortedatum;
+
+   - 5°. nationaliteit;
+
+   - 6°. persoonsidentificerende nummers.
+
+- b. de datum van aanvang van de vrijheidsbeneming en van de invrijheidstelling.
+
+- c. de vaststelling dat de gedetineerde al dan niet beschikt over een geldig identiteitsbewijs als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en, indien hij over een dergelijk document beschikt, wat daarvan de geldigheidsduur is.
+
+- d. het behoud of het verkrijgen van huisvesting of onderdak na detentie, zoals:
+
+   - 1°. de inschrijving als woningzoekende;
+
+   - 2°. de woonsituatie vóór detentie;
+
+   - 3°. het bestaan van een betalingsachterstand bij een huurovereenkomst.
+
+- e. het verkrijgen van een inkomen uit betaald werk of uitkering na detentie, zoals:
+
+   - 1°. het arbeidsverleden;
+
+   - 2°. eerdere uitkeringen of werkinkomen en de hoogte daarvan;
+
+   - 3°. het opleidingsniveau en eventueel lopende opleidingstrajecten.
+
+- f. gegevens als bedoeld in [artikel 8 van de Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=8) ten behoeve van de toeleiding naar schuldhulpverlening.
+
+- g. de ondersteuning van de gedetineerde bij het opschorten en weer opstarten, of aanvragen van een zorgverzekering, zoals:
+
+   - 1°. het hebben van een zorgverzekering vóór detentie;
+
+   - 2°. de naam van de zorgverzekeraar;
+
+   - 3°. het polisnummer behorende bij de verzekering.
+
+- h. het behoud of de versterking van een positief sociaal netwerk, met inbegrip van een hulpvraag namens de gedetineerde voor ondersteuning in de thuissituatie na detentie en een hulpvraag namens de gedetineerde aan de gemeente voor ondersteuning van gezinsleden tijdens de detentie.
+
+3. De directeur, de reclassering en het college verstrekken elkaar, indien zorg of maatschappelijke ondersteuning tijdens of na detentie nodig is, de door hen verwerkte persoonsgegevens betreffende de gezondheid als bedoeld in het eerste lid, die noodzakelijk zijn voor het organiseren van deze zorg of maatschappelijke ondersteuning. Die gegevens kunnen betrekking hebben op:
+
+- a. eerdere en lopende zorgtrajecten in het kader van de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635), de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632), de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) of de [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634);
+
+- b. de naam van de zorgaanbieder die de trajecten uitvoert of bij de eerdere uitvoering betrokken is geweest;
+
+- c. de gemeente waar de zorg of maatschappelijke ondersteuning is of wordt verleend.
+
+4. Ten behoeve van het vaststellen, aanpassen en uitvoeren van het detentie- en re-integratieplan, kunnen de directeur, de reclassering en het college overleggen over het inzetten van reclasseringstoezicht, het uitbrengen van advies en de inzet van interventies voor de invulling en uitvoering van het detentie- en re-integratieplan. Hiertoe kunnen gegevens worden verstrekt over:
+
+- a. eerdere reclasseringscontacten, het detentieverloop en de detentiefasering;
+
+- b. de motivatie van de gedetineerde;
+
+- c. het gedrag van de gedetineerde tijdens detentie.
+
+### Hoofdstuk 5. (Onvrijwillige) geneeskundige behandeling
 
 ##### Artikel 21
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **a-dwangbehandeling:** een onvrijwillige geneeskundige behandeling als bedoeld in [artikel 46d, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46d);
+- a. *a-dwangbehandeling:* een onvrijwillige geneeskundige behandeling als bedoeld in [artikel 46d, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46d);
 
-- b. **b-dwangbehandeling:** een onvrijwillige geneeskundige behandeling als bedoeld in [artikel 46d, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46b);
+- b. *b-dwangbehandeling:* een onvrijwillige geneeskundige behandeling als bedoeld in [artikel 46d, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46b);
 
-- c. **gedwongen geneeskundige handeling:** de gedwongen geneeskundige handeling, bedoeld in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=32);
+- c. *gedwongen geneeskundige handeling:* de gedwongen geneeskundige handeling, bedoeld in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=32);
 
-- d. **geneeskundige behandeling:** de onvrijwillige geneeskundige behandelingen, bedoeld in de onderdelen a tot en met c, en de vrijwillige geneeskundige behandeling, bedoeld in [artikel 46c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46c);
+- d. *geneeskundige behandeling:* de onvrijwillige geneeskundige behandelingen, bedoeld in de onderdelen a tot en met c, en de vrijwillige geneeskundige behandeling, bedoeld in [artikel 46c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46c);
 
-- e. **geneeskundig behandelingsplan:** het geneeskundig behandelingsplan, bedoeld in [artikel 46b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46b);
+- e. *geneeskundig behandelingsplan:* het geneeskundig behandelingsplan, bedoeld in [artikel 46b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46b);
 
-- f. **inspecteur:** de inspecteur, bedoeld in [artikel 1, onder c, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=1);
+- f. *inspecteur:* de inspecteur, bedoeld in [artikel 1, onder c, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=1);
 
-- g. **voorzetting van a-dwangbehandeling:** de voortzetting van a-dwangbehandeling, bedoeld in [artikel 46e, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46e).
+- g. *voorzetting van a-dwangbehandeling:* de voortzetting van a-dwangbehandeling, bedoeld in [artikel 46e, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46e).
+
+##### Artikel 21a
+
+1. Een geneeskundige behandeling wordt verricht in een daartoe geschikte ruimte, onder verantwoordelijkheid van de behandelend arts.
+
+2. In een inrichting of op een afdeling als bedoeld in [artikel 14, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=14) is vierentwintig uur per dag, zeven dagen per week, voldoende psychiatrisch geschoold verpleegkundig personeel aanwezig. Bovendien is vierentwintig uur per dag, zeven dagen per week, een psychiater beschikbaar.
+
+3. Een geneeskundige behandeling wordt slechts uitgevoerd door een arts of verpleegkundige die over voldoende deskundigheid beschikt deze behandeling uit te voeren en indien daartoe voldoende voorzieningen beschikbaar zijn.
+
+4. Eens per twee weken, of vaker indien het belang van de gedetineerde dit eist, vindt een multidisciplinair overleg plaats, waaraan in ieder geval een psychiater, een arts, een psycholoog en een verpleegkundige deelnemen. De resultaten van het overleg alsmede de afspraken die daarbij zijn gemaakt worden geregistreerd in het medische dossier.
+
+5. Een geneeskundige behandeling van een gedetineerde die verblijft in een afdeling voor intensief toezicht als bedoeld in [artikel 1, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1) of in een extra beveiligde inrichting als bedoeld in [artikel 13, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=13), wordt verricht door twee artsen, waarvan ten minste één arts is verbonden aan de inrichting, of door een aan de inrichting verbonden arts en een verpleegkundige.
+
+##### Artikel 21b
+
+1. In het geneeskundig behandelingsplan worden ten minste opgenomen:
+
+- a. de diagnose van de stoornis van de geestvermogens van de gedetineerde;
+
+- b. de therapeutische middelen, zo mogelijk gerelateerd aan de verschillende aspecten die in de stoornis te onderscheiden zijn, die zullen worden toegepast teneinde een zodanige verbetering van de stoornis van de geestvermogens van de gedetineerde te bereiken, dat het gevaar op grond waarvan deze in verband met zijn geestelijke gezondheidstoestand in een daartoe krachtens [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=14) aangewezen afdeling of inrichting behoeft te verblijven, wordt weggenomen;
+
+- c. of er overeenstemming over het geneeskundig behandelingsplan is.
+
+2. Gedurende de behandeling, kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging worden de uitkomsten van het multidisciplinair overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2025-11-01&g=2025-11-01), betrokken.
+
+3. Een wijziging van het geneeskundig behandelingsplan wordt, in overleg met de gedetineerde, vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.
 
 ##### Artikel 22
 
@@ -322,13 +444,111 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. Ingeval van a-dwangbehandeling worden de verklaringen van de psychiaters, bedoeld in [artikel 46e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46e), bij het in het tweede lid bedoelde overleg betrokken.
 
+##### Artikel 22a
+
+1. Voordat de directeur beslist dat een door de arts noodzakelijk geachte b-dwangbehandeling of gedwongen geneeskundige handeling zal worden toegepast, pleegt de directeur overleg met die arts en met het hoofd van de afdeling waar de gedetineerde verblijft. Indien de behandeling door een andere arts wordt verricht, wordt tevens met hem overlegd.
+
+2. Ingeval van b-dwangbehandeling of indien het verrichten van een gedwongen geneeskundige handeling noodzakelijk is ter afwending van gevaar dat voortvloeit uit de stoornis van de geestvermogens van de gedetineerde, pleegt de directeur bovendien overleg met de voor de behandeling verantwoordelijke psychiater.
+
+3. In het in het eerste en tweede lid bedoelde overleg wordt nagegaan of het gevaar niet op een andere wijze kan worden afgewend.
+
+##### Artikel 22b
+
+1. Zo spoedig mogelijk na de aanvang van de gedwongen geneeskundige handeling wordt door of onder verantwoordelijkheid van een arts een plan opgesteld gericht op een zodanige verbetering van de toestand van de gedetineerde dat de toepassing van de gedwongen geneeskundige handeling kan worden beëindigd. Dit plan wordt opgenomen in het geneeskundig behandelingsplan.
+
+2. Bij de keuze voor een bepaalde geneeskundige handeling wordt steeds gekozen voor de voor de gedetineerde minst ingrijpende handeling.
+
+##### Artikel 22c
+
+1. Voordat de directeur de beslissing tot verlenging van a-dwangbehandeling neemt, pleegt hij in ieder geval overleg met de voor de behandeling verantwoordelijke psychiater en met het hoofd van de afdeling waar de gedetineerde verblijft.
+
+2. In het in het eerste lid bedoelde overleg wordt nagegaan of van de voortzetting van de behandeling alsnog het beoogde effect kan worden verwacht.
+
+3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2025-11-01&g=2025-11-01), worden bij de beslissing meegenomen.
+
+##### Artikel 22d
+
+De gedetineerde wordt gedurende de periode dat de a- of b-dwangbehandeling of de gedwongen geneeskundige handeling wordt verricht, zo vaak als nodig is bezocht door een arts of in diens opdracht een verpleegkundige. Het verslag van diens bevindingen wordt opgenomen in het medische dossier.
+
+##### Artikel 22e
+
+1. De directeur stelt de voorzitter van de commissie van toezicht, de raadsman van de gedetineerde, de curator en de mentor in kennis van een voorgenomen beslissing tot a-dwangbehandeling uiterlijk drie dagen voor het nemen van die beslissing. Zij worden in de gelegenheid gesteld bezwaren tegen de beslissing kenbaar te maken.
+
+2. De voorzitter van de commissie van toezicht doet onverwijld een melding aan de maandcommissaris. De maandcommissaris bezoekt na de melding onverwijld de gedetineerde.
+
+3. Van de toepassing van een a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van een a-dwangbehandeling wordt uiterlijk bij de aanvang van de behandeling melding gedaan aan Onze Minister en de commissie van toezicht. Ingeval van a- en b- dwangbehandeling en indien een gedwongen geneeskundige handeling wordt toegepast in verband met een gevaar dat voortvloeit uit een stoornis van de geestvermogens van de verpleegde, wordt bovendien melding gedaan aan de inspecteur.
+
+4. Bij de aanvang van een a-dwangbehandeling geeft de directeur daarvan eveneens kennis aan de in het eerste lid genoemde personen.
+
+5. De directeur zendt met de melding, bedoeld in het derde lid, een afschrift van de beslissing tot de behandeling mee waarin hij in ieder geval vermeldt:
+
+- a. in verband met welk gevaar is besloten tot een a- of b-dwangbehandeling, dan wel een gedwongen geneeskundige handeling;
+
+- b. welke minder bezwarende middelen zijn aangewend om het gevaar dat de gedetineerde doet veroorzaken weg te nemen dan wel af te wenden;
+
+- c. welke personen, bedoeld in [artikel 46c, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46c), zich tegen de behandeling verzetten;
+
+- d. de wijze waarop rekening wordt gehouden met de voorkeuren van de gedetineerde ten aanzien van de behandeling; en
+
+- e. indien een behandeling plaatsvindt in een situatie waarin het de gedetineerde is die zich verzet, of deze in staat kan worden geacht gebruik te kunnen maken van de regeling, vervat in de [hoofdstukken XI–XII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI) respectievelijk [XIII van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII).
+
+6. Ingeval van een beslissing tot a-dwangbehandeling, b-dwangbehandeling en een beslissing tot voortzetting van a-dwangbehandeling, vermeldt de directeur tevens welke pogingen zijn gedaan om tot overeenstemming als bedoeld in [artikel 46c, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46c) te komen. Ingeval van een beslissing tot a-dwangbehandeling vermeldt hij bovendien welke bezwaren tegen de behandeling zijn aangevoerd door de personen, bedoeld in het eerste lid.
+
+7. Van een beëindiging van een a-dwangbehandeling, b-dwangbehandeling of gedwongen geneeskundige handeling geeft de directeur kennis aan de personen, genoemd in het derde en – indien van toepassing – vierde lid.
+
+##### Artikel 22f
+
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2025-11-01&g=2025-11-01), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2025-11-01&g=2025-11-01) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22c&z=2025-11-01&g=2025-11-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden geregistreerd in het medische dossier.
+
+##### Artikel 22g
+
+1. De inspecteur stelt na beëindiging van elke a- of b-dwangbehandeling doch in ieder geval na afloop van de termijn, bedoeld in [artikel 46e, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46e), een onderzoek in of de beslissing tot de behandeling zorgvuldig is genomen en of de uitvoering van de behandeling zorgvuldig is geschied.
+
+2. De inspecteur stelt eveneens een onderzoek in na beëindiging van elke gedwongen geneeskundige handeling indien die handeling is verricht ter afwending van een gevaar dat voortvloeit uit de stoornis van de geestvermogens van de gedetineerde.
+
 ##### Artikel 23
 
 1. Indien de toepassing van de behandeling, bedoeld in [artikel 22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2025-11-01&g=2025-11-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
 
 2. De in het eerste lid bedoelde commissie brengt binnen twee dagen na de in het eerste lid bedoelde termijn en, indien de onvrijwillige geneeskundige behandeling langer wordt voortgezet, om de twee weken, advies uit aan de directeur over de voortzetting van die behandeling.
 
-### Hoofdstuk 5. (Onvrijwillige) geneeskundige behandeling
+### Hoofdstuk 5a. Toezicht op gesprekken
+
+##### Artikel 23a
+
+1. Telefoongesprekken die in verband met het toezicht, bedoeld in [artikel 39, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=39) worden opgenomen, worden bewaard voor een periode van ten hoogste vier maanden.
+
+2. Na het verstrijken van de periode, genoemd in het eerste lid, wordt een opgenomen telefoongesprek gewist.
+
+3. Indien bij de uitoefening van het toezicht blijkt dat een telefoongesprek met een persoon als bedoeld in [artikel 37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=37) is opgenomen, wordt dit opgenomen gesprek terstond gewist.
+
+4. De gedetineerde wordt van het opnemen van het telefoonverkeer op de hoogte gesteld.
+
+5. Opgenomen telefoongesprekken worden slechts verstrekt aan derden die ingevolge de uitvoering van hen bij of krachtens de wet opgedragen taken, tot kennisneming daarvan bevoegd zijn.
+
+6. De verstrekking, bedoeld in het vijfde lid, kan slechts geschieden in verband met:
+
+- a. de handhaving van de orde of de veiligheid in de inrichting;
+
+- b. de bescherming van de openbare orde of nationale veiligheid;
+
+- c. de voorkoming of opsporing van strafbare feiten;
+
+- d. de bescherming van slachtoffers van of anderszins betrokkenen bij misdrijven.
+
+##### Artikel 23b
+
+1. De gedetineerde en de rechtsbijstandverlener worden op de hoogte gesteld van het visueel toezicht op gesprekken tussen de gedetineerde en de rechtsbijstandverlener als bedoeld in [artikel 38, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=38).
+
+2. Het visueel toezicht vindt plaats door middel van cameraobservatie. De camerabeelden worden terstond na het gesprek gewist.
+
+3. In afwijking van het tweede lid worden de camerabeelden bewaard als een ambtenaar of medewerker bij de inrichting of afdeling het gesprek tussen de gedetineerde en de rechtsbijstandverlener onderbreekt en de directeur na het horen van de ambtenaar of medewerker beslist tot beëindiging van het gesprek.
+
+4. De op grond van het derde lid bewaarde camerabeelden worden verwijderd zes weken na het verstrijken van de beklagtermijn als bedoeld in [artikel 61, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), tenzij beklag is ingesteld. In dat geval volgt verwijdering zes weken na het verstrijken van de beroepstermijn als bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=69), tenzij beroep is ingesteld. In dat geval volgt verwijdering de dag na de uitspraak van de beroepscommissie.
+
+5. In het kader van het in [artikel 45a, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=45a) bedoelde toezicht licht de directeur de deken in het arrondissement waar de rechtsbijstandverlener kantoor houdt in over het beëindigen van een gesprek, als bedoeld in het derde lid.
+
+### Hoofdstuk 6. Geestelijke verzorging
 
 ##### Artikel 24
 
@@ -348,11 +568,11 @@ De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische,
 
 Een andere geestelijk verzorger dan de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=25&z=2025-11-01&g=2025-11-01) genoemde kan door de directeur toegang worden verleend tot de inrichting. De directeur neemt deze beslissing niet dan na overleg met Onze Minister.
 
-### Hoofdstuk 7. Beroep tegen medisch handelen
-
 ##### Artikel 28
 
 Geestelijke verzorging van een gedetineerde die verblijft in een afdeling voor intensief toezicht als bedoeld in [artikel 1, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1) of in een extra beveiligde inrichting, bedoeld in [artikel 13, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=13), wordt verleend door twee geestelijke verzorgers van in beginsel dezelfde godsdienst of levensovertuiging, waarvan ten minste één geestelijk verzorger is verbonden aan een inrichting.
+
+### Hoofdstuk 7. Maatregelen tegen georganiseerde criminaliteit tijdens detentie
 
 ##### Artikel 29
 
@@ -374,13 +594,13 @@ Op een verzoek tot het toestaan van een of meer andere rechtsbijstandverleners a
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk 5a. Toezicht op telefoongesprekken
+### Hoofdstuk 8. Dossiers
 
 ##### Artikel 35
 
@@ -412,17 +632,17 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 - d. andere belangrijke justitiële documenten, waaronder:
 
-- 1°. de grond voor opneming, bedoeld in [artikel 6:2:1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:1);
+   - 1° de grond voor opneming, bedoeld in [artikel 6:2:1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:1);
 
-- 2°. formulieren betreffende verlof en de daarop genomen beslissing;
+   - 2° formulieren betreffende verlof en de daarop genomen beslissing;
 
-- 3°. verzoeken onderscheidenlijk machtigingen tot plaatsing en overplaatsing en deelname aan een penitentiair programma;
+   - 3° verzoeken onderscheidenlijk machtigingen tot plaatsing en overplaatsing en deelname aan een penitentiair programma;
 
-- 4°. gratieverzoeken en de daarop genomen beslissing;
+   - 4° gratieverzoeken en de daarop genomen beslissing;
 
-- 5°. verzoeken om strafonderbreking en de daarop genomen beslissing;
+   - 5° verzoeken om strafonderbreking en de daarop genomen beslissing;
 
-- 6°. mededelingen omtrent de voorwaardelijke invrijheidstelling.
+   - 6° mededelingen omtrent de voorwaardelijke invrijheidstelling.
 
 - e. uitslagen van urinecontroles, dan wel een samenvattend overzicht daarvan;
 
@@ -482,29 +702,29 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 Hetzelfde geldt voor de selectiefunctionaris, de directeur en de door hen aangewezen ambtenaren of medewerkers.
 
-### Hoofdstuk 6. Geestelijke verzorging
+### Hoofdstuk 9. Overplaatsing naar een justitiële inrichting voor verpleging van ter beschikking gestelden
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44a
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk 7. Maatregelen tegen georganiseerde criminaliteit tijdens detentie
+### Hoofdstuk 9A. Bijzondere bepalingen met betrekking tot veroordeelden tot de maatregel tot plaatsing in een inrichting voor stelselmatige daders
 
 ##### Artikel 44b
 
@@ -710,7 +930,7 @@ Daarbij wordt in ieder geval aandacht besteed aan de volgende aspecten ten aanzi
 
 2. De secretaris van de beklag- of beroepscommissie stelt op basis van de in het eerste lid bedoelde bepalingen de hoogte van de beloning en vergoeding vast. Met de uitbetaling is de directeur belast.
 
-### Hoofdstuk 9A. Bijzondere bepalingen met betrekking tot veroordeelden tot de maatregel tot plaatsing in een inrichting voor stelselmatige daders
+### Hoofdstuk 11. Kosten en aansprakelijkheid directeur
 
 ##### Artikel 46
 
@@ -732,35 +952,35 @@ Buiten geval van opzet of bewuste roekeloosheid is de aansprakelijkheid van de d
 
 ##### Artikel 50
 
-Wijzigt het Besluit politieregisters.
+*Wijzigt het Besluit politieregisters.*
 
 ##### Artikel 51
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 1994.
+*Wijzigt het Besluit vergoedingen rechtsbijstand 1994.*
 
 ##### Artikel 52
 
-Wijzigt het Besluit buitengewoon strafrecht.
+*Wijzigt het Besluit buitengewoon strafrecht.*
 
 ##### Artikel 53
 
-Wijzigt het Besluit van 9 juni 1982, omtrent het regiem voor militairen die in het huis van bewaring en de gevangenis van het Militair Penitentiair Centrum «Nieuwersluis» voorlopig arrest, respectievelijk gevangenisstraf, hechtenis of militaire detentie ondergaan.
+*Wijzigt het Besluit van 9 juni 1982, omtrent het regiem voor militairen die in het huis van bewaring en de gevangenis van het Militair Penitentiair Centrum «Nieuwersluis» voorlopig arrest, respectievelijk gevangenisstraf, hechtenis of militaire detentie ondergaan.*
 
 ##### Artikel 54
 
-Wijzigt het Besluit van 22 februari 1896 tot invoering van signalementkaarten.
+*Wijzigt het Besluit van 22 februari 1896 tot invoering van signalementkaarten.*
 
 ##### Artikel 55
 
-Wijzigt het Dienstplichtbesluit.
+*Wijzigt het Dienstplichtbesluit.*
 
 ##### Artikel 56
 
-Wijzigt het Reglement verpleging ter beschikking gestelden.
+*Wijzigt het Reglement verpleging ter beschikking gestelden.*
 
 ##### Artikel 57
 
-Wijzigt het Arbeidsomstandighedenbesluit.
+*Wijzigt het Arbeidsomstandighedenbesluit.*
 
 ### Hoofdstuk 13. Slotbepalingen
 
@@ -779,363 +999,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 61
 
 Dit besluit wordt aangehaald als: Penitentiaire maatregel.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a
-
-1. De deelnemer aan een penitentiair programma wordt onder elektronisch toezicht gesteld, indien:
-
-- a. het gedrag van de deelnemer daartoe aanleiding geeft;
-
-- b. aan de deelname aan een penitentiair programma bijzondere risico’s zijn verbonden, of;
-
-- c. dit voor de bescherming van de belangen van slachtoffers noodzakelijk is.
-
-2. Elektronisch toezicht kan vervallen indien het gedrag, de risico’s of de belangen bedoeld in het eerste lid niet langer tot het toezicht aanleiding geven. De deelnemer kan wederom onder elektronisch toezicht worden gesteld indien het gedrag, de risico’s of de belangen bedoeld in het eerste lid daartoe aanleiding geven.
-
-3. De selectiefunctionaris is belast met de beslissingen, bedoeld in het eerste en tweede lid. Hij kan bepalen dat geen elektronisch toezicht wordt toegepast indien:
-
-- a. een andere vorm van vierentwintiguurstoezicht aanwezig is,
-
-- b. het elektronisch toezicht afbreuk doet aan de resocialisatie van de deelnemer, of
-
-- c. bijzondere omstandigheden daartoe aanleiding geven.
-
-### Hoofdstuk 4. Commissie van toezicht en beklagcommissie
-
-### Hoofdstuk 4a. Commissie van toezicht en beklagcommissie voor het vervoer
-
-### Hoofdstuk 4b. Detentie- en re-integratieplan
-
-### Hoofdstuk 7. Beroep tegen medisch handelen
-
-### Hoofdstuk 8. Dossiers
-
-### Hoofdstuk 9. Overplaatsing naar een justitiële inrichting voor verpleging van ter beschikking gestelden
-
-### Hoofdstuk 9A. Bijzondere bepalingen met betrekking tot veroordeelden tot de maatregel tot plaatsing in een inrichting voor stelselmatige daders
-
-### Hoofdstuk 10. Vergoedingen beklag- en beroepsprocedures
-
-### Hoofdstuk 9A. Bijzondere bepalingen met betrekking tot veroordeelden tot de maatregel tot plaatsing in een inrichting voor stelselmatige daders
-
-### Hoofdstuk 12. Wijziging andere regelgeving
-
-### Hoofdstuk 11. Kosten en aansprakelijkheid directeur
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 23a
-
-1. Telefoongesprekken die in verband met het toezicht, bedoeld in [artikel 39, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=39) worden opgenomen, worden bewaard voor een periode van ten hoogste vier maanden.
-
-2. Na het verstrijken van de periode, genoemd in het eerste lid, wordt een opgenomen telefoongesprek gewist.
-
-3. Indien bij de uitoefening van het toezicht blijkt dat een telefoongesprek met een persoon als bedoeld in [artikel 37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=37) is opgenomen, wordt dit opgenomen gesprek terstond gewist.
-
-4. De gedetineerde wordt van het opnemen van het telefoonverkeer op de hoogte gesteld.
-
-5. Opgenomen telefoongesprekken worden slechts verstrekt aan derden die ingevolge de uitvoering van hen bij of krachtens de wet opgedragen taken, tot kennisneming daarvan bevoegd zijn.
-
-6. De verstrekking, bedoeld in het vijfde lid, kan slechts geschieden in verband met:
-
-- a. de handhaving van de orde of de veiligheid in de inrichting;
-
-- b. de bescherming van de openbare orde of nationale veiligheid;
-
-- c. de voorkoming of opsporing van strafbare feiten;
-
-- d. de bescherming van slachtoffers van of anderszins betrokkenen bij misdrijven.
-
-### Hoofdstuk 6. Geestelijke verzorging
-
-### Hoofdstuk 7. Beroep tegen medisch handelen
-
-### Hoofdstuk 8. Dossiers
-
-### Hoofdstuk 9. Overplaatsing naar een justitiële inrichting voor verpleging van ter beschikking gestelden
-
-### Hoofdstuk 9A. Bijzondere bepalingen met betrekking tot veroordeelden tot de maatregel tot plaatsing in een inrichting voor stelselmatige daders
-
-### Hoofdstuk 11. Kosten en aansprakelijkheid directeur
-
-### Hoofdstuk 12. Wijziging andere regelgeving
-
-### Hoofdstuk 10. Vergoedingen beklag- en beroepsprocedures
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 21a
-
-1. Een geneeskundige behandeling wordt verricht in een daartoe geschikte ruimte, onder verantwoordelijkheid van de behandelend arts.
-
-2. In een inrichting of op een afdeling als bedoeld in [artikel 14, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=14) is vierentwintig uur per dag, zeven dagen per week, voldoende psychiatrisch geschoold verpleegkundig personeel aanwezig. Bovendien is vierentwintig uur per dag, zeven dagen per week, een psychiater beschikbaar.
-
-3. Een geneeskundige behandeling wordt slechts uitgevoerd door een arts of verpleegkundige die over voldoende deskundigheid beschikt deze behandeling uit te voeren en indien daartoe voldoende voorzieningen beschikbaar zijn.
-
-4. Eens per twee weken, of vaker indien het belang van de gedetineerde dit eist, vindt een multidisciplinair overleg plaats, waaraan in ieder geval een psychiater, een arts, een psycholoog en een verpleegkundige deelnemen. De resultaten van het overleg alsmede de afspraken die daarbij zijn gemaakt worden geregistreerd in het medische dossier.
-
-5. Een geneeskundige behandeling van een gedetineerde die verblijft in een afdeling voor intensief toezicht als bedoeld in [artikel 1, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1) of in een extra beveiligde inrichting als bedoeld in [artikel 13, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=13), wordt verricht door twee artsen, waarvan ten minste één arts is verbonden aan de inrichting, of door een aan de inrichting verbonden arts en een verpleegkundige.
-
-##### Artikel 21b
-
-1. In het geneeskundig behandelingsplan worden ten minste opgenomen:
-
-- a. de diagnose van de stoornis van de geestvermogens van de gedetineerde;
-
-- b. de therapeutische middelen, zo mogelijk gerelateerd aan de verschillende aspecten die in de stoornis te onderscheiden zijn, die zullen worden toegepast teneinde een zodanige verbetering van de stoornis van de geestvermogens van de gedetineerde te bereiken, dat het gevaar op grond waarvan deze in verband met zijn geestelijke gezondheidstoestand in een daartoe krachtens [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=14) aangewezen afdeling of inrichting behoeft te verblijven, wordt weggenomen;
-
-- c. of er overeenstemming over het geneeskundig behandelingsplan is.
-
-2. Gedurende de behandeling, kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging worden de uitkomsten van het multidisciplinair overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2025-11-01&g=2025-11-01), betrokken.
-
-3. Een wijziging van het geneeskundig behandelingsplan wordt, in overleg met de gedetineerde, vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.
-
-##### Artikel 22a
-
-1. Voordat de directeur beslist dat een door de arts noodzakelijk geachte b-dwangbehandeling of gedwongen geneeskundige handeling zal worden toegepast, pleegt de directeur overleg met die arts en met het hoofd van de afdeling waar de gedetineerde verblijft. Indien de behandeling door een andere arts wordt verricht, wordt tevens met hem overlegd.
-
-2. Ingeval van b-dwangbehandeling of indien het verrichten van een gedwongen geneeskundige handeling noodzakelijk is ter afwending van gevaar dat voortvloeit uit de stoornis van de geestvermogens van de gedetineerde, pleegt de directeur bovendien overleg met de voor de behandeling verantwoordelijke psychiater.
-
-3. In het in het eerste en tweede lid bedoelde overleg wordt nagegaan of het gevaar niet op een andere wijze kan worden afgewend.
-
-##### Artikel 22b
-
-1. Zo spoedig mogelijk na de aanvang van de gedwongen geneeskundige handeling wordt door of onder verantwoordelijkheid van een arts een plan opgesteld gericht op een zodanige verbetering van de toestand van de gedetineerde dat de toepassing van de gedwongen geneeskundige handeling kan worden beëindigd. Dit plan wordt opgenomen in het geneeskundig behandelingsplan.
-
-2. Bij de keuze voor een bepaalde geneeskundige handeling wordt steeds gekozen voor de voor de gedetineerde minst ingrijpende handeling.
-
-##### Artikel 22c
-
-1. Voordat de directeur de beslissing tot verlenging van a-dwangbehandeling neemt, pleegt hij in ieder geval overleg met de voor de behandeling verantwoordelijke psychiater en met het hoofd van de afdeling waar de gedetineerde verblijft.
-
-2. In het in het eerste lid bedoelde overleg wordt nagegaan of van de voortzetting van de behandeling alsnog het beoogde effect kan worden verwacht.
-
-3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2025-11-01&g=2025-11-01), worden bij de beslissing meegenomen.
-
-##### Artikel 22d
-
-De gedetineerde wordt gedurende de periode dat de a- of b-dwangbehandeling of de gedwongen geneeskundige handeling wordt verricht, zo vaak als nodig is bezocht door een arts of in diens opdracht een verpleegkundige. Het verslag van diens bevindingen wordt opgenomen in het medische dossier.
-
-##### Artikel 22e
-
-1. De directeur stelt de voorzitter van de commissie van toezicht, de raadsman van de gedetineerde, de curator en de mentor in kennis van een voorgenomen beslissing tot a-dwangbehandeling uiterlijk drie dagen voor het nemen van die beslissing. Zij worden in de gelegenheid gesteld bezwaren tegen de beslissing kenbaar te maken.
-
-2. De voorzitter van de commissie van toezicht doet onverwijld een melding aan de maandcommissaris. De maandcommissaris bezoekt na de melding onverwijld de gedetineerde.
-
-3. Van de toepassing van een a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van een a-dwangbehandeling wordt uiterlijk bij de aanvang van de behandeling melding gedaan aan Onze Minister en de commissie van toezicht. Ingeval van a- en b- dwangbehandeling en indien een gedwongen geneeskundige handeling wordt toegepast in verband met een gevaar dat voortvloeit uit een stoornis van de geestvermogens van de verpleegde, wordt bovendien melding gedaan aan de inspecteur.
-
-4. Bij de aanvang van een a-dwangbehandeling geeft de directeur daarvan eveneens kennis aan de in het eerste lid genoemde personen.
-
-5. De directeur zendt met de melding, bedoeld in het derde lid, een afschrift van de beslissing tot de behandeling mee waarin hij in ieder geval vermeldt:
-
-- a. in verband met welk gevaar is besloten tot een a- of b-dwangbehandeling, dan wel een gedwongen geneeskundige handeling;
-
-- b. welke minder bezwarende middelen zijn aangewend om het gevaar dat de gedetineerde doet veroorzaken weg te nemen dan wel af te wenden;
-
-- c. welke personen, bedoeld in [artikel 46c, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46c), zich tegen de behandeling verzetten;
-
-- d. de wijze waarop rekening wordt gehouden met de voorkeuren van de gedetineerde ten aanzien van de behandeling; en
-
-- e. indien een behandeling plaatsvindt in een situatie waarin het de gedetineerde is die zich verzet, of deze in staat kan worden geacht gebruik te kunnen maken van de regeling, vervat in de [hoofdstukken XI–XII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI) respectievelijk [XIII van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII).
-
-6. Ingeval van een beslissing tot a-dwangbehandeling, b-dwangbehandeling en een beslissing tot voortzetting van a-dwangbehandeling, vermeldt de directeur tevens welke pogingen zijn gedaan om tot overeenstemming als bedoeld in [artikel 46c, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46c) te komen. Ingeval van een beslissing tot a-dwangbehandeling vermeldt hij bovendien welke bezwaren tegen de behandeling zijn aangevoerd door de personen, bedoeld in het eerste lid.
-
-7. Van een beëindiging van een a-dwangbehandeling, b-dwangbehandeling of gedwongen geneeskundige handeling geeft de directeur kennis aan de personen, genoemd in het derde en – indien van toepassing – vierde lid.
-
-##### Artikel 22f
-
-De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2025-11-01&g=2025-11-01), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2025-11-01&g=2025-11-01) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22c&z=2025-11-01&g=2025-11-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden geregistreerd in het medische dossier.
-
-##### Artikel 22g
-
-1. De inspecteur stelt na beëindiging van elke a- of b-dwangbehandeling doch in ieder geval na afloop van de termijn, bedoeld in [artikel 46e, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=46e), een onderzoek in of de beslissing tot de behandeling zorgvuldig is genomen en of de uitvoering van de behandeling zorgvuldig is geschied.
-
-2. De inspecteur stelt eveneens een onderzoek in na beëindiging van elke gedwongen geneeskundige handeling indien die handeling is verricht ter afwending van een gevaar dat voortvloeit uit de stoornis van de geestvermogens van de gedetineerde.
-
-### Hoofdstuk 5a. Toezicht op telefoongesprekken
-
-### Hoofdstuk 6. Geestelijke verzorging
-
-### Hoofdstuk 5a. Toezicht op gesprekken
-
-### Hoofdstuk 8. Dossiers
-
-### Hoofdstuk 8. Dossiers
-
-### Hoofdstuk 9A. Bijzondere bepalingen met betrekking tot veroordeelden tot de maatregel tot plaatsing in een inrichting voor stelselmatige daders
-
-### Hoofdstuk 10. Vergoedingen beklag- en beroepsprocedures
-
-### Hoofdstuk 11. Kosten en aansprakelijkheid directeur
-
-### Hoofdstuk 13. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 20a
-
-1. De leden van de commissie van toezicht voor het vervoer, genoemd in [artikel 18e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18e), worden benoemd voor een periode van vijf jaren. Zij kunnen tweemaal voor herbenoeming in aanmerking komen.
-
-2. De [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=11&z=2025-11-01&g=2025-11-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=12&z=2025-11-01&g=2025-11-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=14&z=2025-11-01&g=2025-11-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=16&z=2025-11-01&g=2025-11-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=18&z=2025-11-01&g=2025-11-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=19&z=2025-11-01&g=2025-11-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=20&z=2025-11-01&g=2025-11-01) zijn van overeenkomstige toepassing.
-
-3. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=13&z=2025-11-01&g=2025-11-01) is van overeenkomstige toepassing, met dien verstande dat voor benoeming als lid eveneens niet in aanmerking komen ambtenaren of andere personen, werkzaam onder de verantwoordelijkheid van Onze Minister op het terrein van de tenuitvoerlegging van vrijheidsbenemende straffen en maatregelen, niet zijnde ambtenaren bij het openbaar ministerie.
-
-##### Artikel 20b
-
-1. De leden van de commissie van toezicht voor het vervoer hebben te allen tijde toegang tot de plaatsen waar en de vervoersmiddelen waarmee handelingen betreffende het vervoer worden uitgeoefend.
-
-2. De leden van de commissie van toezicht ontvangen van Onze Minister en de directeur van de inrichting alle door hen gewenste inlichtingen ten aanzien van het vervoer van gedetineerden en kunnen alle op het vervoer betreffende stukken inzien. Zij zijn tot geheimhouding verplicht, behoudens voor zover enig wettelijk voorschrift hen tot bekendmaking verplicht of uit de tenuitvoerlegging van hun taak de noodzaak tot bekendmaking voortvloeit.
-
-3. Onze Minister en de directeur van de inrichting brengen alle voor de uitoefening van de taak van de commissie van toezicht belangrijke feiten en omstandigheden ter kennis van de commissie van toezicht.
-
-### Hoofdstuk 6. Geestelijke verzorging
-
-### Hoofdstuk 8. Dossiers
-
-### Hoofdstuk 9. Overplaatsing naar een justitiële inrichting voor verpleging van ter beschikking gestelden
-
-### Hoofdstuk 9A. Bijzondere bepalingen met betrekking tot veroordeelden tot de maatregel tot plaatsing in een inrichting voor stelselmatige daders
-
-### Hoofdstuk 10. Vergoedingen beklag- en beroepsprocedures
-
-### Hoofdstuk 11. Kosten en aansprakelijkheid directeur
-
-### Hoofdstuk 13. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 9a
-
-1. Bij overtreding van de algemene of bijzondere voorwaarden of verzuim van deelname aan het programma kan de directeur, afhankelijk van de ernst van de gedraging, beslissen tot:
-
-- a. het geven van een waarschuwing aan de deelnemer aan het penitentiair programma;
-
-- b. wijziging of aanvulling van de bijzondere voorwaarden gesteld aan deelname aan een penitentiair programma;
-
-- c. het adviseren van de selectiefunctionaris om de deelname aan het penitentiair programma te beëindigen;
-
-- d. het onmiddellijk zelfstandig beëindigen van deelname aan het penitentiair programma indien dit dringend noodzakelijk is.
-
-2. De directeur wint advies in bij degene die is belast is met het toezicht op de tenuitvoerlegging van het penitentiair programma, tenzij spoed dit verhindert. Diegene kan ook ongevraagd aan de directeur adviseren.
-
-3. De directeur geeft de deelnemer aan een penitentiair programma van een beslissing als bedoeld in het eerste lid onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling.
-
-4. Van het wijzigen of aanvullen van bijzondere voorwaarden, de overtreding van de voorwaarden of verzuim van deelname aan het programma en een beslissing als bedoeld in het eerste lid doet de directeur mededeling aan de selectiefunctionaris.
-
-### Hoofdstuk 4. Commissie van toezicht en beklagcommissie
-
-### Hoofdstuk 4a. Commissie van toezicht en beklagcommissie voor het vervoer
-
-##### Artikel 20c
-
-Onze Minister kan nadere regels stellen over de inrichting van het detentie- en re-integratieplan, bedoeld in [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18a).
-
-##### Artikel 20d
-
-1. Voor zover dit noodzakelijk is ten behoeve van het vaststellen, aanpassen en uitvoeren van het detentie- en re-integratieplan van de gedetineerde kunnen gegevens, waaronder persoonsgegevens betreffende de gezondheid, over de essentiële voorwaarden voor deelname aan het maatschappelijk leven aan elkaar worden verstrekt door de directeur, de reclassering en het college.
-
-2. De in het eerste lid bedoelde gegevens betreffen:
-
-- a. persoonsidentificerende gegevens:
-
-- 1°. de geslachtsnaam;
-
-- 2°. voornamen;
-
-- 3°. adres;
-
-- 4°. geboorteplaats en geboortedatum;
-
-- 5°. nationaliteit;
-
-- 6°. persoonsidentificerende nummers.
-
-- b. de datum van aanvang van de vrijheidsbeneming en van de invrijheidstelling.
-
-- c. de vaststelling dat de gedetineerde al dan niet beschikt over een geldig identiteitsbewijs als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en, indien hij over een dergelijk document beschikt, wat daarvan de geldigheidsduur is.
-
-- d. het behoud of het verkrijgen van huisvesting of onderdak na detentie, zoals:
-
-- 1°. de inschrijving als woningzoekende;
-
-- 2°. de woonsituatie vóór detentie;
-
-- 3°. het bestaan van een betalingsachterstand bij een huurovereenkomst.
-
-- e. het verkrijgen van een inkomen uit betaald werk of uitkering na detentie, zoals:
-
-- 1°. het arbeidsverleden;
-
-- 2°. eerdere uitkeringen of werkinkomen en de hoogte daarvan;
-
-- 3°. het opleidingsniveau en eventueel lopende opleidingstrajecten.
-
-- f. gegevens als bedoeld in [artikel 8 van de Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=8) ten behoeve van de toeleiding naar schuldhulpverlening.
-
-- g. de ondersteuning van de gedetineerde bij het opschorten en weer opstarten, of aanvragen van een zorgverzekering, zoals:
-
-- 1°. het hebben van een zorgverzekering vóór detentie;
-
-- 2°. de naam van de zorgverzekeraar;
-
-- 3°. het polisnummer behorende bij de verzekering.
-
-- h. het behoud of de versterking van een positief sociaal netwerk, met inbegrip van een hulpvraag namens de gedetineerde voor ondersteuning in de thuissituatie na detentie en een hulpvraag namens de gedetineerde aan de gemeente voor ondersteuning van gezinsleden tijdens de detentie.
-
-3. De directeur, de reclassering en het college verstrekken elkaar, indien zorg of maatschappelijke ondersteuning tijdens of na detentie nodig is, de door hen verwerkte persoonsgegevens betreffende de gezondheid als bedoeld in het eerste lid, die noodzakelijk zijn voor het organiseren van deze zorg of maatschappelijke ondersteuning. Die gegevens kunnen betrekking hebben op:
-
-- a. eerdere en lopende zorgtrajecten in het kader van de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635), de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632), de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) of de [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634);
-
-- b. de naam van de zorgaanbieder die de trajecten uitvoert of bij de eerdere uitvoering betrokken is geweest;
-
-- c. de gemeente waar de zorg of maatschappelijke ondersteuning is of wordt verleend.
-
-4. Ten behoeve van het vaststellen, aanpassen en uitvoeren van het detentie- en re-integratieplan, kunnen de directeur, de reclassering en het college overleggen over het inzetten van reclasseringstoezicht, het uitbrengen van advies en de inzet van interventies voor de invulling en uitvoering van het detentie- en re-integratieplan. Hiertoe kunnen gegevens worden verstrekt over:
-
-- a. eerdere reclasseringscontacten, het detentieverloop en de detentiefasering;
-
-- b. de motivatie van de gedetineerde;
-
-- c. het gedrag van de gedetineerde tijdens detentie.
-
-### Hoofdstuk 5. (Onvrijwillige) geneeskundige behandeling
-
-### Hoofdstuk 6. Geestelijke verzorging
-
-### Hoofdstuk 7. Beroep tegen medisch handelen
-
-### Hoofdstuk 9. Overplaatsing naar een justitiële inrichting voor verpleging van ter beschikking gestelden
-
-### Hoofdstuk 11. Kosten en aansprakelijkheid directeur
-
-### Hoofdstuk 12. Wijziging andere regelgeving
-
-### Hoofdstuk 13. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 23b
-
-1. De gedetineerde en de rechtsbijstandverlener worden op de hoogte gesteld van het visueel toezicht op gesprekken tussen de gedetineerde en de rechtsbijstandverlener als bedoeld in [artikel 38, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=38).
-
-2. Het visueel toezicht vindt plaats door middel van cameraobservatie. De camerabeelden worden terstond na het gesprek gewist.
-
-3. In afwijking van het tweede lid worden de camerabeelden bewaard als een ambtenaar of medewerker bij de inrichting of afdeling het gesprek tussen de gedetineerde en de rechtsbijstandverlener onderbreekt en de directeur na het horen van de ambtenaar of medewerker beslist tot beëindiging van het gesprek.
-
-4. De op grond van het derde lid bewaarde camerabeelden worden verwijderd zes weken na het verstrijken van de beklagtermijn als bedoeld in [artikel 61, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), tenzij beklag is ingesteld. In dat geval volgt verwijdering zes weken na het verstrijken van de beroepstermijn als bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=69), tenzij beroep is ingesteld. In dat geval volgt verwijdering de dag na de uitspraak van de beroepscommissie.
-
-5. In het kader van het in [artikel 45a, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=45a) bedoelde toezicht licht de directeur de deken in het arrondissement waar de rechtsbijstandverlener kantoor houdt in over het beëindigen van een gesprek, als bedoeld in het derde lid.
-
-### Hoofdstuk 8. Dossiers
-
-### Hoofdstuk 9. Overplaatsing naar een justitiële inrichting voor verpleging van ter beschikking gestelden
-
-### Hoofdstuk 10. Vergoedingen beklag- en beroepsprocedures
-
-### Hoofdstuk 12. Wijziging andere regelgeving
-
-### Hoofdstuk 13. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,54 +1,83 @@
 ---
 title: "Regeling duurzaam veilig"
 identifier: "BWBR0009505"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009505"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4376353"
-version_id: "6143192"
-internal_id: "C6347401"
-label_id: "4354974"
-dtd_version: "2.0"
-original_entry_into_force: "1998-04-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009505/2002-01-01/0"
-intitule_bron: "Stcrt.1998-62"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-03-25"
-intitule_published: "1998-03-31"
-intitule_in_force: "1998-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-62"
-original_signed_date: "1998-03-25"
-original_published_date: "1998-03-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-04-02"
-jci_1_3: "jci1.3:c:BWBR0009505&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0009505&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "1998-03-25"
-entry_into_force: "1998-04-02"
+publicatiedatum: 1998-04-02
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0009505"
+opgehaald: 2026-08-03
 ---
+
 # Regeling duurzaam veilig
-
-Gelet op [artikel 185, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=185);
-
-Gelet op [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=16) en [17 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Gelet op [artikel 2, derde lid, van het Besluit Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006264&artikel=2);
-
-Gezien het convenant Startprogramma Duurzaam Veilig, gesloten op 15 december 1997 tussen Onze Minister van Verkeer en Waterstaat, het Interprovinciaal Overleg, de Vereniging van Nederlandse Gemeenten, en de Unie van Waterschappen.
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+minister:
+
+Minister van Verkeer en Waterstaat;
+
+b.
+
+besluit:
+
+[Besluit Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006264);
+
+c.
+
+de aanvrager:
+
+het bestuur van een gemeente, een provincie, of een waterschap dat op grond van deze regeling een aanvraag heeft ingediend;
+
+d.
+
+30 km-project:
+
+project tot omvorming van wegen binnen de bebouwde kom en in beheer bij de aanvrager tot een gebied waarbinnen een maximumsnelheid van 30 kilometer per uur geldt, aangeduid met het verkeersbord A1 als bedoeld in [bijlage 1 bij het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1);
+
+e.
+
+60 km-project:
+
+project tot omvorming van wegen buiten de bebouwde kom en in beheer bij de aanvrager tot een gebied waarbinnen een maximumsnelheid van 60 kilometer per uur geldt, aangeduid met het verkeersbord A1 als bedoeld in [bijlage 1 bij het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1);
+
+f.
+
+fiets- en bromfietsmaatregelen:
+
+infrastructurele maatregelen tot aanpassing van wegen en verkeerstekens met het oog op wijzigingen in de nationale regelgeving op het punt van voorrang verlenen aan o.a. fietsers en bromfietsers en op het punt van het al dan niet toelaten van bromfietsers op fietspaden, waaronder het op bepaalde locaties systematisch regelen van de voorrang.
+
+g.
+
+weglengte:
+
+lengte in hectometers van de wegen voorzien van een aaneengesloten verharde bovenlaag, in beheer bij de aanvrager, en waarop verkeer met motorvoertuigen op meer dan twee wielen is toegestaan, met dien verstande dat de lengte van een weg met gescheiden rijbanen is de lengte van één van de rijbanen.
+
+h.
+
+bebouwde kom:
+
+gebied binnen de grenzen overeenkomstig [artikel 20a, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20a);
+
+i.
+
+subsidieplafond:
+
+ten hoogste beschikbare bedrag als bedoeld in [artikel 4:22 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:22);
+
+j.
+
+verkeersbesluit:
+
+besluit als bedoeld in [artikel 15 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=15), inhoudende het vaststellen van de maximumsnelheid in een gebied op 30 of 60 kilometer per uur.
 
 ##### Artikel 2
 
@@ -120,7 +149,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7
 
-- 1. Een aanvraag wordt ingediend bij de hoofdingenieur-directeur van de regionale directie van Directoraat-Generaal Rijkswaterstaat in de regio van de aanvrager met gebruikmaking van een bij deze verkrijgbaar formulier en gaat in ieder geval vergezeld van een opgave van de weglengte per 1 januari 1998 van de aanvrager, onderscheiden naar weglengte binnen- en buiten de bebouwde kom.
+1. - 1. Een aanvraag wordt ingediend bij de hoofdingenieur-directeur van de regionale directie van Directoraat-Generaal Rijkswaterstaat in de regio van de aanvrager met gebruikmaking van een bij deze verkrijgbaar formulier en gaat in ieder geval vergezeld van een opgave van de weglengte per 1 januari 1998 van de aanvrager, onderscheiden naar weglengte binnen- en buiten de bebouwde kom.
 
 2. Een aanvraag voor de uitvoering van een 30 km-project gaat tevens vergezeld van een raming van de totale projectkosten van omvorming, berekend volgens [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009505&paragraaf=2&artikel=5&z=2002-01-01&g=2002-01-01), en een opgave van het aantal om te vormen hectometers.
 
@@ -245,5 +274,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 24
 
 Deze regeling wordt aangehaald als: Regeling duurzaam veilig.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

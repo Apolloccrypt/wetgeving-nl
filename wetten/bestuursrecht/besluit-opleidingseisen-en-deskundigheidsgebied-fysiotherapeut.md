@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 13 oktober 1997, houdende regels inzake de opleiding tot en de deskundigheid van de fysiotherapeut (Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut)"
+citeertitel: "Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut"
 identifier: "BWBR0008962"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008962"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "635413"
-version_id: "921882"
-internal_id: "C921881"
-label_id: "616244"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008962/2023-01-01/0"
-intitule_bron: "Stb.1997-516"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-10-13"
-intitule_published: "1997-11-18"
-intitule_in_force: "1997-11-27"
-intitule_status: "goed"
-original_publication: "Stb.1997-516"
-original_signed_date: "1997-10-13"
-original_published_date: "1997-11-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-516"
-entry_into_force_date: "1997-12-01"
-jci_1_3: "jci1.3:c:BWBR0008962&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0008962&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut"
-signed_date: "1997-10-13"
-entry_into_force: "1997-12-01"
+publicatiedatum: 1997-12-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0008962"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 13 oktober 1997, houdende regels inzake de opleiding tot en de deskundigheid van de fysiotherapeut (Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut)
-
-Op de voordracht Van Onze Minister van Volksgezondheid, Welzijn en Sport van 13 mei 1997, CSZ/BO-976967;
-
-Gelet op de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=28) en [29, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=29);
-
-Gezien het advies van de Raad voor de beroepen in de individuele gezondheidszorg (advies van 20 september 1996);
-
-De Raad van State gehoord (advies van 26 augustus 1997, No. W13.97.0289);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 3 oktober 1997, CSZ/BO-9714269;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
@@ -190,7 +156,7 @@ Om in het in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 #### § 4. Slotbepalingen
 
@@ -201,5 +167,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

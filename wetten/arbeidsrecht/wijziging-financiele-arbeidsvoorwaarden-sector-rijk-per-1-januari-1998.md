@@ -1,60 +1,75 @@
 ---
 title: "Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 1998"
 identifier: "BWBR0009140"
-country: "nl"
-rank: "circulaire"
-publication_date: "1997-12-30"
-last_updated: "1997-12-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009140"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "6372643"
-version_id: "11036692"
-internal_id: "C14935501"
-label_id: "6361784"
-original_entry_into_force: "1997-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009140/1997-12-30/0"
-intitule_bron: "Stcrt.1997-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-12"
-intitule_published: "1997-12-30"
-intitule_in_force: "1997-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-250"
-original_signed_date: "1997-12-12"
-original_published_date: "1997-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1997-250-p6-SC12110"
-entry_into_force_date: "1997-12-30"
-jci_1_3: "jci1.3:c:BWBR0009140&z=1997-12-30&g=1997-12-30"
-jci_1_0: "1.0:c:BWBR0009140&g=1997-12-30"
-citeertitel_status: "redactioneel"
-signed_date: "1997-12-12"
-entry_into_force: "1997-12-30"
+publicatiedatum: 1997-12-30
+laatste_update: 1997-12-30
+status: geldig
+toestand: 1997-12-30
+bron: "https://wetten.overheid.nl/BWBR0009140"
+opgehaald: 2026-08-03
 ---
-# Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 1998
 
-Circulaire aan de Ministers
+# Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 1998
 
 ### Inleiding/managementinformatie
 
 Deze circulaire op het terrein van de financiële arbeidsvoorwaarden van het personeel van de sector Rijk betreft de hieronder genoemde aangelegenheden.
 
-Voor de ambtenaar die reeds in het IPA-salarissysteem is opgenomen, zullen de onderhavige wijzigingen voor zover van toepassing automatisch worden aangepast. Daar waar betalingen op basis van declaratie plaatsvinden zal uw eigen personeelsadministratie de desbetreffende wijzigingen dienen aan te brengen. Dit laatste betreft onder meer de wijzigingen vermeld onder A.3 (bedragen inzake dienstreizen binnenland).
+- A. Aanpassing van diverse bedragen, te weten:
+
+   - 1. krachtens het [Besluit betaling emolumenten burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003632);
+
+   - 2. in de [Verplaatsingskostenregeling 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004633);
+
+   - 3. in de [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912).
+
+- B. Overige mededelingen, te weten over:
+
+   - 1. het aantal te werken uren op jaarbasis in 1998;
+
+   - 2. de salariswijziging per 1 januari 1998;
+
+   - 3. de bedragen van het wettelijk minimum(jeugd)loon ingaande 1 januari 1998;
+
+   - 4. de hoogte van de eindejaarsuitkering in 1998;
+
+   - 5. het vervallen van de distorsietoeslag per 1 januari 1998;
+
+   - 6. de hoogte van het maximum spaarloonbedrag in 1998;
+
+   - 7. inhoudingen en afdrachten inzake pensioenen e.d. per 1 januari 1998;
+
+   - 8. de totstandkoming van enige regelgeving;
+
+   - 9. de WAO bij uitzending naar het buitenland.
+
+Voor de ambtenaar die reeds in het IPA-salarissysteem is opgenomen, zullen de onderhavige wijzigingen voor zover van toepassing automatisch worden aangepast. Daar waar betalingen op basis van declaratie plaatsvinden zal uw eigen personeelsadministratie de desbetreffende wijzigingen dienen aan te brengen. Dit laatste betreft onder meer de wijzigingen vermeld onder [A.3](https://wetten.overheid.nl/BWBR0009140) (bedragen inzake dienstreizen binnenland).
 
 ### A. Aanpassing van diverse bedragen
 
-### 1. [Besluit betaling emolumenten burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003632)
+### 1. Besluit betaling emolumenten burgerlijk rijkspersoneel
 
 Voor diegenen voor wie de berekeningsbasis gelijk is aan of lager dan het voor 23-jarigen en ouderen geldende bedrag van het minimumloon, zal het verrekeningsbedrag voor genot van inwoning, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003632&artikel=2), van genoemd besluit ingaande 1 januari 1998 worden verhoogd van f 241 tot f 250 per maand.
 
 De overige bedragen krachtens dit besluit, vermeld in de ministeriële regeling van 17 juni 1997, zijn niet gewijzigd. De ministeriële regeling waarin het gewijzigde bedrag is opgenomen, wordt in de Staatscourant gepubliceerd.
 
-### 2. [Verplaatsingskostenregeling 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004633)
+### 2. Verplaatsingskostenregeling 1989
 
 De wijzigingen in de [Verplaatsingskostenregeling 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004633) per 1 januari 1998 houden het volgende in:
 
 ### a. Wijziging bedragen verband houdende met het woon/werkverkeer
+
+- – het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=11), genoemde maximum bedrag van f 193 wordt verhoogd tot f 197 (het maximum bedrag aan reiskosten woon/werkverkeer voor niet-verhuisplichtige ambtenaren die naar het oordeel van de minister werkzaam zijn op per openbaar vervoer te bereiken plaatsen van tewerkstelling).
+
+- – het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=11), genoemde bedrag dat de ambtenaar te allen tijde van de reiskosten woon/werkverkeer voor eigen rekening moet nemen, wordt verhoogd van f 86,75 tot f 92,25.
+
+- – het in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=11), genoemde maximum bedrag wordt verhoogd van f 297,50 tot f 312,75 (het maximum bedrag aan reiskosten woon/werkverkeer voor niet-verhuisplichtige ambtenaren die naar het oordeel van de minister werkzaam zijn op plaatsen van tewerkstelling die niet per openbaar vervoer zijn te bereiken).
+
+- – het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=12), genoemde maximum bedrag wordt verhoogd van f 449,75 tot f 471,75 (het maximum bedrag aan reiskosten woon/werkverkeer voor verhuisplichtige ambtenaren die werkzaam zijn op per openbaar vervoer te bereiken plaatsen van tewerkstelling).
+
+- – de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=12), genoemde tabel wordt vervangen door de volgende tabel:
 
 van meer dan 20 km
 
@@ -94,11 +109,19 @@ De in dit lid vermelde percentages van 1,8% en 0,9% wijzigen niet.
 
 De ministeriële regeling waarin de wijzigingen zijn opgenomen wordt gepubliceerd in de Staatscourant.
 
-### 3. [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912)
+### 3. Reisregeling binnenland
 
 De wijzigingen van de [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912) per 1 januari 1998 houden het volgende in:
 
 In [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005912&artikel=5), worden de vergoedingen wegens verblijfkosten als volgt gewijzigd:
+
+- – het bedrag voor kleine uitgaven ’s-avonds (avondcomponent) wordt verhoogd van f 17,50 tot f 18;
+
+- – het in onderdeel a genoemde bedrag voor een lunch (lunchcomponent) wordt verhoogd van f 18,50 tot f 19;
+
+- – het in onderdeel b genoemde bedrag voor een avondmaaltijd (dinercomponent) wordt verhoogd van f 28 tot f 29;
+
+- – het in onderdeel c genoemde bedrag voor logies (logiescomponent) wordt verhoogd van f 109 tot f 110.
 
 De bedragen van de dag- (f 6) en ontbijtcomponent (f 10,50) en van de vergoedingen per kilometer voor een motorvoertuig (f 0,60 resp. f 0,19), bromfiets (f 0,21 resp. f 0,19) en fiets (f 0,12) zijn niet gewijzigd. De ministeriële regeling waarin de wijzigingen zijn opgenomen wordt in de Staatscourant gepubliceerd.
 
@@ -110,11 +133,23 @@ Het aantal te werken uren bedraagt in 1998 voor een voltijds ambtenaar 1828,8 (=
 
 ### 2. Salariswijziging per 1 januari 1998
 
-Per 1 januari 1998 vindt er een gedifferentieerde salarisverhoging plaats. Bij [circulaire](onbekend) van 23 oktober 1997, nr. AD97/U998, bent u hierover reeds geïnformeerd.
+Per 1 januari 1998 vindt er een gedifferentieerde salarisverhoging plaats. Bij circulaire van 23 oktober 1997, nr. AD97/U998, bent u hierover reeds geïnformeerd.
 
 ### 3. Garantietoelage wettelijk minimumloon
 
 De bedragen van het wettelijk minimumloon en minimumjeugdloon die van belang zijn voor de bepaling van de garantietoelage, bedoeld in [artikel 16 van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=16), luiden ingaande 1 januari 1998 als volgt:
+
+| leeftijd: | bedrag per maand: |
+| --- | --- |
+| 23 jaar of ouder | f 2276,30 |
+| 22 jaar | f 1934,90 |
+| 21 jaar | f 1650,30 |
+| 20 jaar | f 1399,90 |
+| 19 jaar | f 1195,10 |
+| 18 jaar | f 1035,70 |
+| 17 jaar | f 899,10 |
+| 16 jaar | f 785,30 |
+| 15 jaar | f 682,90 |
 
 ### 4. Eindejaarsuitkering over 1998
 
@@ -122,7 +157,7 @@ Volledigheidshalve herinner ik u eraan dat over 1998 de maandelijkse opbouw van 
 
 ### 5. Vervallen van de distorsietoeslag
 
-De distorsietoeslag, genoemd onder punt C van de [circulaire](onbekend) van 15 december 1994, nr. AD94/U1450, zijnde een tijdelijke en afnemende toeslag, vervalt per 1 januari 1998.
+De distorsietoeslag, genoemd onder punt C van de circulaire van 15 december 1994, nr. AD94/U1450, zijnde een tijdelijke en afnemende toeslag, vervalt per 1 januari 1998.
 
 ### 6. Spaarloonregeling rijkspersoneel
 
@@ -136,7 +171,11 @@ De inhoudingen en afdrachten inzake pensioenen (OP/NP, IP/bw, FPU), pseudo-premi
 
 Er zijn twee koninklijke besluiten totstandgekomen en gepubliceerd in het Staatsblad, te weten het koninklijk besluit van:
 
-### 9. De [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) bij uitzending naar het buitenland
+- a. 5 juli 1997 [tot vervanging van de Regeling ziektekosten-voorziening overheidspersoneel (Z.v.o.-regeling) door sectorale regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008814), gepubliceerd in Staatsblad 357. Voor de sector Rijk is in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0008814&artikel=I) van dit besluit de Regeling ziektekostenvoorziening rijkspersoneel opgenomen. Bij koninklijk besluit van 17 oktober 1997 (Stb. 496) is bepaald dat de [Regeling ziektekostenvoorziening rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008818) met ingang van 1 januari 1998 in werking treedt. De Regeling ziektekostenvoorziening rijkspersoneel wijkt inhoudelijk niet af van de Z.v.o.-regeling. De hierbij behorende ministeriële regeling, het [Besluit uitvoering Regeling ziektekosten-voorziening rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0009252), zal nog in de Staatscourant worden gepubliceerd. Deze ministeriële regeling vervangt de drie ministeriële regelingen die van toepassing waren op grond van de Z.v.o.-regeling, te weten het Uitvoeringsbesluit Z.v.o.-regeling, het Besluit vergoedingen Z.v.o.-regeling en de Regeling nominale premie Z.v.o.-regeling. De nieuwe ministeriële regeling komt inhoudelijk overeen met de drie vervallen regelingen.
+
+- b. 4 december 1997 houdende [wijziging van het Algemeen Rijksambtenarenreglement en enkele andere besluiten in verband met de formalisering van de Arbeidsvoorwaardenovereenkomst sector Rijk 1997-1999](https://wetten.overheid.nl/jci1.3:c:BWBR0009081), gepubliceerd in Staatsblad 655.
+
+### 9. De WAO bij uitzending naar het buitenland
 
 Zoals bekend is de ambtenaar niet in alle gevallen verzekerd tegen arbeidsongeschiktheid indien er sprake is van uitzending naar het buitenland. Daarbij dient onderscheid te worden gemaakt tussen enerzijds EG- en andere landen waarmee een verdrag is gesloten met betrekking tot de sociale zekerheid en anderzijds landen waarmee geen verdrag met betrekking tot de sociale zekerheid is gesloten.
 

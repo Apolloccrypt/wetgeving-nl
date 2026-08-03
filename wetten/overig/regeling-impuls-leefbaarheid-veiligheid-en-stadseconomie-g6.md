@@ -1,40 +1,17 @@
 ---
 title: "Regeling impuls leefbaarheid, veiligheid en stadseconomie G6"
 identifier: "BWBR0009023"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009023"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4596923"
-version_id: "6413192"
-internal_id: "C6658751"
-label_id: "4575264"
-dtd_version: "2.0"
-original_entry_into_force: "1997-11-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009023/2002-01-01/0"
-intitule_bron: "Stcrt.1997-225"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-11-17"
-intitule_published: "1997-11-21"
-intitule_in_force: "1997-11-21"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-225"
-original_signed_date: "1997-11-17"
-original_published_date: "1997-11-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-11-23"
-jci_1_3: "jci1.3:c:BWBR0009023&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0009023&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "1997-11-17"
-entry_into_force: "1997-11-23"
+publicatiedatum: 1997-11-23
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0009023"
+opgehaald: 2026-08-03
 ---
-# Regeling impuls leefbaarheid, veiligheid en stadseconomie G6
 
-Besluit:
+# Regeling impuls leefbaarheid, veiligheid en stadseconomie G6
 
 ##### Artikel 1
 
@@ -46,7 +23,7 @@ Besluit:
 
 4. De annuïteiten worden voor 1 april van elk jaar uitgekeerd, met uitzondering van de eerste annuïteit die voor 1 december 1997 wordt uitgekeerd.
 
-| **Gemeente** | **rijksbijdrage** | **annuïteit** |
+| Gemeente | rijksbijdrage | annuïteit |
 | --- | --- | --- |
 | Dordrecht | f 5.918.762,- | € 233.549,33 |
 | Haarlem | f 8.288.891,- | € 327.067,08 |
@@ -58,7 +35,29 @@ Besluit:
 
 Het betreft de volgende plannen:
 
-Dordrecht: werk en economie, jeugd en veiligheid, leefbaarheid en jaarplannen. Haarlem: lokale economie, veiligheid, leefbaarheid en wijkplannen. Heerlen: werk en economie, leefbaarheid, veiligheid. Leiden: economie en werk, jeugd en veiligheid en actieplan van wijkbeheer naar wijkontwikkeling. Schiedam: ’Grote steden beleid, net op tijd’, wijkveiligheidsplannen Schiedam-oost, Schiedam Nieuwland. Venlo: werk en economie, leefbaarheid, veiligheid, zorg en opvang en pilotproject.
+Dordrecht:
+
+werk en economie, jeugd en veiligheid, leefbaarheid en jaarplannen.
+
+Haarlem:
+
+lokale economie, veiligheid, leefbaarheid en wijkplannen.
+
+Heerlen:
+
+werk en economie, leefbaarheid, veiligheid.
+
+Leiden:
+
+economie en werk, jeugd en veiligheid en actieplan van wijkbeheer naar wijkontwikkeling.
+
+Schiedam:
+
+’Grote steden beleid, net op tijd’, wijkveiligheidsplannen Schiedam-oost, Schiedam Nieuwland.
+
+Venlo:
+
+werk en economie, leefbaarheid, veiligheid, zorg en opvang en pilotproject.
 
 ##### Artikel 2
 

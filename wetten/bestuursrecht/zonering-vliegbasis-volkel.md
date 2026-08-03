@@ -1,48 +1,27 @@
 ---
 title: "Zonering vliegbasis Volkel"
 identifier: "BWBR0008708"
-country: "nl"
-rank: "circulaire"
-publication_date: "1997-06-06"
-last_updated: "1997-06-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008708"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6368063"
-version_id: "11028892"
-internal_id: "C14925821"
-label_id: "6357004"
-original_entry_into_force: "1997-06-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008708/1997-06-06/0"
-intitule_bron: "Stcrt.1997-105"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-05-30"
-intitule_published: "1997-06-06"
-intitule_in_force: "1997-06-06"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-105"
-original_signed_date: "1997-05-30"
-original_published_date: "1997-06-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1997-105-p18-SC9499"
-entry_into_force_date: "1997-06-06"
-jci_1_3: "jci1.3:c:BWBR0008708&z=1997-06-06&g=1997-06-06"
-jci_1_0: "1.0:c:BWBR0008708&g=1997-06-06"
-citeertitel_status: "redactioneel"
-signed_date: "1997-05-30"
-entry_into_force: "1997-06-06"
+publicatiedatum: 1997-06-06
+laatste_update: 1997-06-06
+status: geldig
+toestand: 1997-06-06
+bron: "https://wetten.overheid.nl/BWBR0008708"
+opgehaald: 2026-08-03
 ---
+
 # Zonering vliegbasis Volkel
 
 ### Bekendmaking besluiten en terinzagelegging
 
 Bekendmaking inzake de terinzagelegging van het besluit tot het geven van aanwijzingen ex artikel VII van de Wet van 7 juni 1978, Stb. 354, houdende wijziging van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) (LVW), juncto [artikel 26 van de LVW](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=26) en [artikel 37 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37) (WRO) van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, en het besluit tot vaststelling van de geluidszone ex artikel VII van de Wet van 7 juni 1978, Stb. 354, houdende wijziging van de [LVW](https://wetten.overheid.nl/jci1.3:c:BWBR0002267), juncto [artikel 25a van de LVW](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=25a) van de Staatssecretaris van Defensie, voor het luchtvaartterrein van de vliegbasis Volkel.
 
-### Besluit tot het geven van aanwijzingen ex[artikel 26 van de LVW](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=26) juncto [artikel 37 van de WRO](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37)
+### Besluit tot het geven van aanwijzingen ex artikel 26 van de LVW juncto artikel 37 van de WRO
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer maakt, ter voldoening aan het bepaalde in [artikel 37, derde lid, van de WRO](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37), bekend dat met ingang van de eerste dag na deze bekendmaking het besluit op grond van [artikel 26 van de LVW](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=26) juncto [artikel 37 van de WRO](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37) tot het geven van aanwijzingen aan de raden van de gemeenten Boekel, Cuijk, Landerd, Mill en St. Hubert, Uden en Veghel, gedurende zes weken ter inzage zal liggen op het gemeentehuis van genoemde gemeenten en op het provinciehuis van de provincie Noord-Brabant. Het besluit treedt in werking met ingang van de tweede dag na datum van publicatie van deze bekendmaking in de Staatscourant.
 
-### Besluit tot het vaststellen van de geluidszone ex [artikel 25a van de LVW](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=25a) voor het luchtvaartterrein van de vliegbasis Volkel
+### Besluit tot het vaststellen van de geluidszone ex artikel 25a van de LVW voor het luchtvaartterrein van de vliegbasis Volkel
 
 De Staatssecretaris van Defensie maakt, ter voldoening aan het bepaalde in [artikel 24b van de LVW](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=24), bekend dat met ingang van de eerste dag na deze bekendmaking het besluit tot het vaststellen van de geluidszone ex [artikel 25a van de LVW](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=25) voor het luchtvaartterrein van de vliegbasis Volkel, gedurende zes weken ter inzage zal liggen op het gemeentehuis van de gemeenten Boekel, Cuijk, Landerd, Mill en St. Hubert, Uden en Veghel, ten provinciehuize van de provincie Noord-Brabant en in het Defensievoorlichtingscentrum, Kalvermarkt 38, ’s-Gravenhage. Het besluit treedt in werking met ingang van de tweede dag na datum van publicatie van deze bekendmaking in de Staatscourant. De terinzagelegging is tevens bedoeld in plaats van toezending van het besluit aan reclamanten.
 
@@ -74,6 +53,22 @@ Overwegende dat de procedure van de Luchtvaartwet voor het vaststellen van de ge
 
 Besluit:
 
+- 1. St. Huize St. Antonius en de Dames Korfbal Vereniging Volkel in hun bezwaren niet ontvankelijk te verklaren wegens het niet voldoen aan het bepaalde in [artikel 21, lid 3, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=21).
+
+- 2. De ingediende bezwaren van de overige reclamanten ongegrond te verklaren.
+
+- 3. Niet over te gaan tot het toepassen van bestuurscompensatie.
+
+- 4. Rond het luchtvaartterrein van de vliegbasis Volkel, aangewezen bij beschikking nr. 202.620/5L van 1 juni 1960 (Stcrt. nr. 112), zoals gewijzigd bij beschikking nr. 202.620/7L van 23 juni 1961 (Stcrt. nr. 127), een geluidszone vast te stellen zoals aangegeven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0008708&bijlage=E&z=1997-06-06&g=1997-06-06).
+
+- 5. Dit besluit bekend te maken in de Staatscourant en de daarvoor in aanmerking komende plaatselijke bladen, waarbij wordt gewezen op de mogelijkheid tot het indienen van bezwaar en beroep.
+
+- 6. Dit besluit in werking te doen treden met ingang van de tweede dag na de bekendmaking van het besluit in de Staatscourant.
+
+- 7. Dit besluit gedurende zes weken ter inzage ter secretarie van de gemeenten Boekel, Cuijk, Landerd, Mill en St. Hubert, Uden en Veghel en ten provinciehuize van de provincie Noord-Brabant te leggen.
+
+- 8. Een exemplaar van dit besluit te zenden aan de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Verkeer en Waterstaat, de Rijksplanologische Commissie, de Rijksmilieuhygiënische Commissie en de leden van de commissie bedoeld in [artikel 21 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=21).
+
 ### Bezwaar en beroep
 
 Binnen zes weken ingaand op de dag na de datum van bekendmaking van bovenstaande besluiten kunnen belanghebbenden schriftelijk een bezwaarschrift indienen. Bezwaarschriften dienen te worden ingediend bij de Staatssecretaris van Defensie, per adres de Directeur Juridische Zaken, Postbus 20701, 2500 ES Den Haag. Voor de behandeling van een bezwaarschrift bij het Rijk is geen griffierecht verschuldigd.
@@ -85,23 +80,3 @@ Indien onverwijlde spoed is vereist is het mogelijk schorsing van het besluit en
 ### Nadere inlichtingen
 
 Nadere inlichtingen kunnen worden ingewonnen bij de Afdeling Beheer, Ruimtelijke Ordening en Milieu van de Dienst Gebouwen, Werken en Terreinen van het Ministerie van Defensie, Kalvermarkt 32, ’s-Gravenhage, telefoonnummer 070 - 318 8189.
-
-## Bijlage A
-
-Bijlage ligt ter inzage op het gemeentehuis van de gemeenten Boekel, Cuijk, Landerd, Mill en St. Hubert, Uden en Veghel, ten provinciehuize van de provincie Noord-Brabant en in het Defensievoorlichtingscentrum te ’s-Gravenhage.
-
-## Bijlage B
-
-Bijlage ligt ter inzage op het gemeentehuis van de gemeenten Boekel, Cuijk, Landerd, Mill en St. Hubert, Uden en Veghel, ten provinciehuize van de provincie Noord-Brabant en in het Defensievoorlichtingscentrum te ’s-Gravenhage.
-
-## Bijlage C
-
-Bijlage ligt ter inzage op het gemeentehuis van de gemeenten Boekel, Cuijk, Landerd, Mill en St. Hubert, Uden en Veghel, ten provinciehuize van de provincie Noord-Brabant en in het Defensievoorlichtingscentrum te ’s-Gravenhage.
-
-## Bijlage D
-
-Bijlage ligt ter inzage op het gemeentehuis van de gemeenten Boekel, Cuijk, Landerd, Mill en St. Hubert, Uden en Veghel, ten provinciehuize van de provincie Noord-Brabant en in het Defensievoorlichtingscentrum te ’s-Gravenhage.
-
-## Bijlage E
-
-Bijlage ligt ter inzage op het gemeentehuis van de gemeenten Boekel, Cuijk, Landerd, Mill en St. Hubert, Uden en Veghel, ten provinciehuize van de provincie Noord-Brabant en in het Defensievoorlichtingscentrum te ’s-Gravenhage.

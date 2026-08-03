@@ -1,75 +1,46 @@
 ---
 title: "Wet van 23 januari 1997 tot wijziging van het Burgerlijk Wetboek en enige andere wetten in verband met de herziening van de voorlopige maatregelen van kinderbescherming"
+citeertitel: "Wijzigingswet Burgerlijk Wetboek en enige andere wetten (herziening voorlopige maatregelen kinderbescherming)"
 identifier: "BWBR0008509"
-country: "nl"
-rank: "wet"
-publication_date: "1999-02-17"
-last_updated: "1999-02-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008509"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "231403"
-version_id: "319372"
-internal_id: "C319371"
-label_id: "226884"
-dtd_version: "2.0"
-original_entry_into_force: "1997-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008509/1999-02-17/0"
-intitule_bron: "Stb.1997-38"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-01-23"
-intitule_published: "1997-02-06"
-intitule_in_force: "1997-05-06"
-intitule_status: "goed"
-original_publication: "Stb.1997-38"
-original_signed_date: "1997-01-23"
-original_published_date: "1997-02-06"
-original_effect: "nieuwe-regeling"
-original_dossier: "23808"
-original_url_id: "stb-1997-38"
-entry_into_force_date: "1997-07-01"
-jci_1_3: "jci1.3:c:BWBR0008509&z=1999-02-17&g=1999-02-17"
-jci_1_0: "1.0:c:BWBR0008509&g=1999-02-17"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Burgerlijk Wetboek en enige andere wetten (herziening voorlopige maatregelen kinderbescherming)"
-signed_date: "1997-01-23"
-entry_into_force: "1997-07-01"
+publicatiedatum: 1997-07-01
+laatste_update: 1999-02-17
+status: geldig
+toestand: 1999-02-17
+bron: "https://wetten.overheid.nl/BWBR0008509"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 23 januari 1997 tot wijziging van het Burgerlijk Wetboek en enige andere wetten in verband met de herziening van de voorlopige maatregelen van kinderbescherming
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de voorlopige maatregelen ter bescherming van minderjarigen, in het bijzonder ten aanzien van de rechtswaarborgen, herziening behoeven;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### ARTIKEL I
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.
+*Wijzigt Boek 1 van het Burgerlijk Wetboek.*
 
 ##### ARTIKEL II
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### ARTIKEL III
 
-Wijzigt de Wet op de Jeugdhulpverlening.
+*Wijzigt de Wet op de Jeugdhulpverlening.*
 
 ##### ARTIKEL IV
 
-Wijzigt de Wet opneming buitenlandse pleegkinderen.
+*Wijzigt de Wet opneming buitenlandse pleegkinderen.*
 
 ##### ARTIKEL V
 
-Wijzigt de Wet van 2 mei 1990 tot uitvoering van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese Verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen, uitvoering van het op 25 oktober 1980 te 's-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen alsmede algemene bepalingen met betrekking tot verzoeken tot teruggeleiding van ontvoerde kinderen over de Nederlandse grens en de uitvoering daarvan (Stb. 1990, 202).
+*Wijzigt de Wet van 2 mei 1990 tot uitvoering van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese Verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen, uitvoering van het op 25 oktober 1980 te 's-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen alsmede algemene bepalingen met betrekking tot verzoeken tot teruggeleiding van ontvoerde kinderen over de Nederlandse grens en de uitvoering daarvan (Stb. 1990, 202).*
 
 ##### ARTIKEL VI
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.
+*Wijzigt Boek 1 van het Burgerlijk Wetboek.*
 
 ##### ARTIKEL VII
 
-Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.
+*Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.*
 
 ##### ARTIKEL VIII
 
@@ -96,5 +67,3 @@ Op de voorlopige toevertrouwing van een minderjarige aan de raad voor de kinderb
 ##### ARTIKEL XI
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

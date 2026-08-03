@@ -1,52 +1,20 @@
 ---
 title: "Wet van 12 maart 1998, houdende regels inzake de verstrekking van subsidies door de Minister van Onderwijs, Cultuur en Wetenschappen (Wet overige OCenW-subsidies)"
+citeertitel: "Wet overige OCW-subsidies"
 identifier: "BWBR0009458"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009458"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "2218593"
-version_id: "18383702"
-internal_id: "C25608151"
-label_id: "2170084"
-dtd_version: "2.0"
-original_entry_into_force: "2011-02-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009458/2019-01-01/0"
-intitule_bron: "Stb.1998-275"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-03-12"
-intitule_published: "1998-05-19"
-intitule_in_force: "1998-05-19"
-intitule_status: "goed"
-original_publication: "Stb.2011-29"
-original_signed_date: "2011-01-27"
-original_published_date: "2011-02-10"
-original_effect: "structuurwijziging"
-original_dossier: "32556"
-original_url_id: "stb-2011-29"
-entry_into_force_date: "2011-02-11"
-entry_into_force_dossier: "32556"
-jci_1_3: "jci1.3:c:BWBR0009458&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0009458&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet overige OCW-subsidies"
-signed_date: "2011-01-27"
-entry_into_force: "2011-02-11"
+publicatiedatum: 2011-02-11
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0009458"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 12 maart 1998, houdende regels inzake de verstrekking van subsidies door de Minister van Onderwijs, Cultuur en Wetenschappen (Wet overige OCenW-subsidies)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de totstandkoming van de derde tranche van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) het noodzakelijk maakt een wettelijk kader te scheppen voor de verstrekking van subsidies op de beleidsterreinen van Onze Minister van Onderwijs, Cultuur en Wetenschappen, voorzover een dergelijk kader ontbreekt;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Werkt terug tot en met 1 januari 1998.
-
-### Hoofdstuk 1. Algemene bepalingen
+#### § 1. Subsidies
 
 ##### Artikel 1. Begripsbepaling
 
@@ -66,21 +34,27 @@ In deze wet en de daarop berustende bepalingen wordt onder Onze Minister verstaa
 
 2. Bij de subsidieverstrekking aan onderwijsinstellingen wordt geen onderscheid gemaakt tussen openbaar en bijzonder onderwijs en wordt voorzien in een behandeling van die instellingen naar dezelfde maatstaf.
 
-##### Artikel 3. Reikwijdte
+##### Artikel 3. Aanvullende werking
 
-1. Deze wet is niet van toepassing op subsidie die Onze Minister verstrekt krachtens een andere wet, behoudens de tweede volzin en het tweede lid. De [artikelen 4 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=4&z=2010-01-01&g=2010-01-01) zijn van toepassing op subsidie die Onze Minister verstrekt krachtens de [artikelen 70 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=70), [71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), [46, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=46), [47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=47), en [75d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=75d) en [2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.7).
+1. Onze Minister verstrekt geen subsidie op grond van deze wet, indien Onze Minister op grond van een andere wettelijke bepaling subsidie kan verstrekken.
 
-2. Onze Minister kan in afwijking van een andere wet als bedoeld in het eerste lid, in dringende gevallen subsidie op grond van deze wet verstrekken ten behoeve van extra activiteiten van bepaalde omvang en duur of extra voorzieningen, een en ander gericht op een specifieke bestemming der middelen. Verstrekking van subsidie als bedoeld in de eerste volzin, vindt slechts plaats indien die subsidie incidenteel van aard is of de subsidieverstrekking vooruitloopt op de totstandkoming van wetgeving terzake. Deze subsidieverstrekking geschiedt dan:
+2. In afwijking van het eerste lid kan Onze Minister op grond van deze wet subsidie verstrekken, indien:
 
-- a. op grond van een algemene maatregel van bestuur of een ministeriële regeling,
+- a. die andere wettelijke bepaling dat uitdrukkelijk bepaalt,
 
-- b. voor ten hoogste vier jaren, en
+- b. de subsidie incidenteel van aard is, of
 
-- c. voorzover het betreft onderwijsinstellingen zonder onderscheid tussen openbaar en bijzonder onderwijs en met behandeling van die instellingen naar dezelfde maatstaf.
+- c. de subsidie vooruitloopt op wijziging van die andere wettelijke bepaling.
 
-3. De in het tweede lid bedoelde algemene maatregel van bestuur of ministeriële regeling wordt aan de beide kamers der Staten-Generaal overgelegd. De algemene maatregel van bestuur of ministeriële regeling treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een der kamers de wens wordt te kennen gegeven dat het in die algemene maatregel van bestuur of ministeriële regeling geregelde onderwerp bij wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.
+3. Onze Minister verstrekt subsidie als bedoeld in het tweede lid, onderdelen b en c, slechts:
 
-4. In geval van subsidieverstrekking als bedoeld in het tweede lid is [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=4&z=2010-01-01&g=2010-01-01), niet van toepassing.
+- a. in dringende gevallen,
+
+- b. op grond van een algemene maatregel van bestuur of een ministeriële regeling, en
+
+- c. voor ten hoogste vier jaren.
+
+4. De voordracht van een algemene maatregel van bestuur of de vaststelling van een ministeriële regeling krachtens het derde lid wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overlegd.
 
 ##### Artikel 4. Grondslag subsidieverstrekking; nadere voorschriften
 
@@ -122,15 +96,15 @@ Onze Minister kan een subsidieplafond vaststellen voor de verschillende activite
 
 ##### Artikel 6. Begrotingsvoorbehoud
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Verlening van voorschotten
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8. Subsidiëring mede door andere bestuursorganen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9. Intrekking wegens strijd met verdragen
 
@@ -152,77 +126,43 @@ Vervallen
 
 3. De toezichthouder beschikt niet over de bevoegdheden, bedoeld in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-### Hoofdstuk 2. Per boekjaar verstrekte subsidies
-
 ##### Artikel 11. Toepassing
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12. Egalisatiereserve
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13. Accountantsonderzoek
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. Vergoedingsplicht
 
-Vervallen
-
-### Hoofdstuk 3. Projectsubsidies
+*Vervallen*
 
 ##### Artikel 15. Aanvraag tot subsidieverlening
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16. Vereisten subsidieaanvraag
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17. Verplichtingen subsidieontvanger
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18. Aanvraag tot subsidievaststelling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19. Financiële verantwoording
 
-Vervallen
+*Vervallen*
 
-##### Artikel 20. Subsidievaststelling
-
-Vervallen
-
-### Hoofdstuk 4. Overgangs- en slotbepalingen
-
-##### Artikel 21. Overgangsbepaling
-
-1. Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.
-
-2. De persoon of het orgaan waaraan de bevoegdheid op grond van [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01), zoals dat luidde voor inwerkingtreding van deze wet, is gedelegeerd om besluiten omtrent subsidie te nemen, blijft die bevoegdheid houden.
-
-##### Artikel 22. Inwerkingtreding
-
-Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1998.
-
-##### Artikel 23. Citeertitel
-
-Deze wet wordt aangehaald als: Wet overige OCW-subsidies.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-## Deel I. Subsidies
-
-### Hoofdstuk 1. Algemene bepalingen
-
-### Hoofdstuk 2. Per boekjaar verstrekte subsidies
-
-### Hoofdstuk 3. Projectsubsidies
-
-## Deel II. Onderwijsvoorzieningen voor jongeren met een handicap
+#### § 2. Onderwijsvoorzieningen voor jongeren met een handicap
 
 ##### Artikel 19a. Onderwijsvoorzieningen voor jongeren met een handicap
 
@@ -248,18 +188,22 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot dit artikel nadere regels worden gesteld.
 
-### Hoofdstuk 4. Overgangs- en slotbepalingen
+##### Artikel 20. Subsidievaststelling
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 1. Subsidies
-
-#### § 2. Onderwijsvoorzieningen voor jongeren met een handicap
+*Vervallen*
 
 #### § 3. Overgangs- en slotbepalingen
 
-## Deel I. Subsidies
+##### Artikel 21. Overgangsbepaling
 
-## Deel II. Onderwijsvoorzieningen voor jongeren met een handicap
+1. Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+2. De persoon of het orgaan waaraan de bevoegdheid op grond van [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01), zoals dat luidde voor inwerkingtreding van deze wet, is gedelegeerd om besluiten omtrent subsidie te nemen, blijft die bevoegdheid houden.
+
+##### Artikel 22. Inwerkingtreding
+
+Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1998.
+
+##### Artikel 23. Citeertitel
+
+Deze wet wordt aangehaald als: Wet overige OCW-subsidies.

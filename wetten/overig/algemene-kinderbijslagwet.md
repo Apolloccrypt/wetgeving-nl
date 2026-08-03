@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0002368"
-opgehaald: 2026-08-02
+opgehaald: 2026-08-03
 ---
 
 # Wet van 26 april 1962, tot vaststelling van een algemene kinderbijslagverzekering

@@ -1,44 +1,17 @@
 ---
 title: "Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet privatisering ABP"
 identifier: "BWBR0008871"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008871"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "5049013"
-version_id: "9112872"
-internal_id: "C12119301"
-label_id: "5025074"
-dtd_version: "2.0"
-original_entry_into_force: "1997-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008871/2026-01-01/0"
-intitule_bron: "Stcrt.1997-164"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-08-19"
-intitule_published: "1997-08-28"
-intitule_in_force: "1997-08-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-164"
-original_signed_date: "1997-08-19"
-original_published_date: "1997-08-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-09-01"
-jci_1_3: "jci1.3:c:BWBR0008871&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0008871&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "1997-08-19"
-entry_into_force: "1997-09-01"
+publicatiedatum: 1997-09-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0008871"
+opgehaald: 2026-08-03
 ---
+
 # Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet privatisering ABP
-
-Handelende in overeenstemming met het bestuur van de Stichting Pensioenfonds ABP,
-
-Gelet op [artikel 2, tweede lid, onderdeel j van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -66,15 +39,15 @@ De volgende personen of groepen van personen zijn, uit hoofde van hun bijzondere
 
 - k. de leden van de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen, genoemd in de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060), alsmede de personen in dienst van dat lichaam;
 
-- l. de leden, onder wie de voorzitter, en de personeelsleden die op 31 december 2016 in dienst zijn van het CAK, bedoeld in [artikel 6.1.1. van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
+- l. de leden, onder wie de voorzitter, en de personeelsleden die op 31 december 2016 in dienst zijn van het CAK, bedoeld in [artikel 6.1.1. van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
 
 - m. personen in dienst genomen op arbeidsovereenkomst naar burgerlijk recht, die deelnemen in een bedrijfstakpensioenfonds waarin hun deelneming krachtens de wet verplicht zou zijn, wanneer zij in particuliere dienst zouden zijn, mits het werkgeversgedeelte van de pensioen- of spaarbijdragen door hun werkgever wordt gedragen, voor zover zij behoren tot de volgende groepen:
 
-- 1º. personen in dienst bij het onder het Ministerie van Financiën ressorterende Dienst der Domeinen op arbeids-voorwaarden, neergelegd in een collectieve arbeidsovereenkomst geldende voor overeenkomstig personeel in het particuliere bedrijf;
+   - 1º. personen in dienst bij het onder het Ministerie van Financiën ressorterende Dienst der Domeinen op arbeids-voorwaarden, neergelegd in een collectieve arbeidsovereenkomst geldende voor overeenkomstig personeel in het particuliere bedrijf;
 
-- 2º. personen in dienst van de Directie IJsselmeergebied van de Rijkswater-staat op arbeidsvoorwaarden, neergelegd in een collectieve arbeidsovereenkomst geldende voor overeenkomstig personeel in het particuliere bedrijf, of vervat in het Reglement op de arbeidsvoorwaarden voor arbeiders in dienst van genoemde directie; of
+   - 2º. personen in dienst van de Directie IJsselmeergebied van de Rijkswater-staat op arbeidsvoorwaarden, neergelegd in een collectieve arbeidsovereenkomst geldende voor overeenkomstig personeel in het particuliere bedrijf, of vervat in het Reglement op de arbeidsvoorwaarden voor arbeiders in dienst van genoemde directie; of
 
-- 3º. personen die werkzaam zijn ten behoeve van de landbouw-, bos- of veenbedrijven en wier arbeidsvoorwaarden worden bepaald volgens de collectieve arbeidsovereenkomst geldende voor overeenkomstig personeel in het particuliere bedrijf;
+   - 3º. personen die werkzaam zijn ten behoeve van de landbouw-, bos- of veenbedrijven en wier arbeidsvoorwaarden worden bepaald volgens de collectieve arbeidsovereenkomst geldende voor overeenkomstig personeel in het particuliere bedrijf;
 
 - n. de voorzitters en leden van besturen van de openbare lichamen voor beroep en bedrijf, bedoeld in [artikel 134 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=134);
 
@@ -84,9 +57,9 @@ De volgende personen of groepen van personen zijn, uit hoofde van hun bijzondere
 
 - q. personen: ten behoeve van wie loonkostensubsidie wordt verstrekt op grond van [artikel 10d van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d) of die werkzaam zijn met loondispensatie als bedoeld in [artikel 2:20](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:20) of [artikel 3:63 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:63) en die tevens:
 
-- 1. hetzij arbeidsbeperkte zijn als bedoeld in [artikel 38b van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38b) of daarmee gelijkgesteld op grond van [artikel 38f, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38f), hetzij werkzaam zijn in een dienstbetrekking als bedoeld in [artikel 10b, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b); en
+   - 1. hetzij arbeidsbeperkte zijn als bedoeld in [artikel 38b van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38b) of daarmee gelijkgesteld op grond van [artikel 38f, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38f), hetzij werkzaam zijn in een dienstbetrekking als bedoeld in [artikel 10b, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b); en
 
-- 2. in dienstbetrekking zijn bij een gemeente of een openbaar lichaam dat op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) is ingesteld, bij welke indienstneming het college van burgemeester en wethouders van die gemeente of het bestuur van dat openbaar lichaam uitvoering geeft aan de opdracht, bedoeld in [artikel 7, eerste lid, onderdeel a, of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), of [artikel 7a, eerste lid, onderdeel a, of derde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a).
+   - 2. in dienstbetrekking zijn bij een gemeente of een openbaar lichaam dat op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) is ingesteld, bij welke indienstneming het college van burgemeester en wethouders van die gemeente of het bestuur van dat openbaar lichaam uitvoering geeft aan de opdracht, bedoeld in [artikel 7, eerste lid, onderdeel a, of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), of [artikel 7a, eerste lid, onderdeel a, of derde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a).
 
 ##### Artikel 2
 
@@ -113,5 +86,3 @@ De Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet p
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet privatisering ABP.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

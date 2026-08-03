@@ -1,56 +1,19 @@
 ---
 title: "Circulaire uitvoering en handhaving van het Asbest-verwijderingsbesluit"
 identifier: "BWBR0008441"
-country: "nl"
-rank: "circulaire"
-publication_date: "1997-04-16"
-last_updated: "1997-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008441"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6338533"
-version_id: "10992822"
-internal_id: "C14885401"
-label_id: "6327594"
-original_entry_into_force: "1997-04-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008441/1997-04-16/0"
-intitule_bron: "Stcrt.1997-73"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-17"
-intitule_published: "1997-04-16"
-intitule_in_force: "1997-04-16"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-73"
-original_signed_date: "1996-12-17"
-original_published_date: "1997-04-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1997-73-p73-SC9032"
-entry_into_force_date: "1997-04-16"
-jci_1_3: "jci1.3:c:BWBR0008441&z=1997-04-16&g=1997-04-16"
-jci_1_0: "1.0:c:BWBR0008441&g=1997-04-16"
-citeertitel_status: "redactioneel"
-signed_date: "1996-12-17"
-entry_into_force: "1997-04-16"
+publicatiedatum: 1997-04-16
+laatste_update: 1997-04-16
+status: geldig
+toestand: 1997-04-16
+bron: "https://wetten.overheid.nl/BWBR0008441"
+opgehaald: 2026-08-03
 ---
+
 # Circulaire uitvoering en handhaving van het Asbest-verwijderingsbesluit
 
-Aan:
-
-– de colleges van burgemeester en wethouders
-
-– de besturen van de gemeentelijke samenwerkingsverbanden
-
-– de regionale inspecteurs voor de milieuhygiëne
-
-– de regionale inspecteurs voor de volkshuisvesting
-
-– de commandanten van de regionale corpsen van politie
-
-– de regiodirecteuren van de Arbeidsinspectie
-
-– de directeur van het stafbureau openbaar ministerie
-
-Hierbij doe ik u recente informatie over de uitvoering en handhaving van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) en de daarmee in overeenstemming gebrachte voorschriften van de bouwverordening toekomen. Deze informatie betreft het onderscheid tussen een bouwwerk en een object (paragraaf 1), de inwerkingtreding van de artikelen van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) m.b.t. asbestonderzoek (paragraaf 2), het ontwerp-besluit tot wijziging van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) (paragraaf 3) en overige informatie (paragraaf 4).
+Hierbij doe ik u recente informatie over de uitvoering en handhaving van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) en de daarmee in overeenstemming gebrachte voorschriften van de bouwverordening toekomen. Deze informatie betreft het onderscheid tussen een bouwwerk en een object ([paragraaf 1](https://wetten.overheid.nl/BWBR0008441)), de inwerkingtreding van de artikelen van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) m.b.t. asbestonderzoek ([paragraaf 2](https://wetten.overheid.nl/BWBR0008441)), het ontwerp-besluit tot wijziging van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) ([paragraaf 3](https://wetten.overheid.nl/BWBR0008441)) en overige informatie ([paragraaf 4](https://wetten.overheid.nl/BWBR0008441)).
 
 Ik verzoek u, voor zover van toepassing, de inhoud van deze circulaire bekend te maken aan een ieder die binnen uw organisatie belast is met een taak op het gebied van de asbestregelgeving. Voor gemeenten kan dit betreffen: de afdelingen of diensten Bouw- en Woningtoezicht, Gemeentewerken, Milieuzaken, Juridische Zaken en Voorlichting.
 
@@ -61,6 +24,14 @@ Het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR000600
 ### Bouwwerken
 
 Uit jurisprudentie blijkt dat iets aan vier criteria moet voldoen om als een bouwwerk te worden beschouwd. Deze criteria zijn:
+
+- – Het moet van enige omvang zijn. (Een simpele grafsteen is niet van enige omvang en derhalve geen bouwwerk. Een grafmonument is wel van enige omvang en derhalve wel een bouwwerk.)
+
+- – Het moet een constructie zijn.
+
+- – Het moet driedimensionaal zijn.
+
+- – Het moet plaatsgebonden zijn. (Een verrijdbare viskraam die ergens zes maanden staat is een bouwwerk. Dezelfde verrijdbare viskraam die elke dag ergens anders staat, is geen bouwwerk.)
 
 Voorbeelden van een bouwwerk zijn: utiliteitsgebouwen, woningen, schuren, woonwagens, fietsenstallingen, stallen, midgetgolfbanen, lantaarnpalen, fabriekshallen, transformatorhuisjes, viaducten, grafmonumenten, industriële installaties die zich op een vaste plaats bevinden, stacaravans en verrijdbare viskramen met een vaste standplaats.
 
@@ -78,7 +49,7 @@ Voorbeelden van een object zijn: gas-, waterleiding- en rioolbuizen buiten een b
 
 Asbesthoudende bodem en asbesthoudend puingranulaat (bsa-granulaat) zijn geen bouwwerk en ook geen object. Op het verwijderen van asbest hieruit zijn de voorschriften van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) derhalve niet van toepassing, maar wel de voorschriften van het Asbestbesluit Arbeidsomstandighedenwet.
 
-### 2. Inwerkingtreding van de artikelen van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) m.b.t. asbestonderzoek
+### 2. Inwerkingtreding van de artikelen van het Asbest-verwijderingsbesluit m.b.t. asbestonderzoek
 
 Een asbestonderzoeksbedrijf is deskundig in de zin van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006), indien het beschikt over een KOMO-procescertificaat asbestonderzoek ([artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006006&artikel=1), en [artikel 11 van het Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006&artikel=11), juncto de [Regeling merkteken asbestonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0008033)).
 
@@ -98,11 +69,15 @@ Ik stel het op prijs wanneer het aanpassen van de gemeentelijke bouwverordening 
 
 [Artikel 5, tweede en derde lid, van het Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006&artikel=5) bevat voorschriften met betrekking tot onderzoek door een deskundig onderzoeksbedrijf naar de aanwezigheid van asbest in een object voorafgaand aan het geheel of gedeeltelijk uit elkaar nemen van dat object. Deze artikelen treden op 1 januari 1997 in werking ([artikel 12, tweede lid, van het Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006&artikel=12), juncto koninklijk besluit houdende vaststelling van het tijdstip van inwerkingtreding van de artikelen 2, onder h, en 3, onder c en 5, tweede en derde lid, van het Asbest-verwijderingsbesluit).
 
-### 3. Ontwerp-besluit tot wijziging van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006)
+### 3. Ontwerp-besluit tot wijziging van het Asbest-verwijderingsbesluit
 
 Op 26 november 1996 is een ontwerp-besluit tot wijziging van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) worden voorgepubliceerd in de Staatscourant (Stcrt. 1996, 229). Het besluit betreft met name:
 
-De tekst van het ontwerp-besluit tot wijziging van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) is als bijlage bij deze circulaire gevoegd. Voor de tekst van het oorspronkelijke besluit en van ministeriële regelingen en het koninklijk besluit op grond van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) verwijs ik u naar de ’Uitvoerings- en handhavingsbundel Asbest-verwijderingsbesluit’, die in augustus 1996 is gepubliceerd (voor bestelling zie paragraaf 4).
+- – vrijstellingen van de certificatieplicht voor de verwijdering van asbest;
+
+- – overgangsregeling voor niet-gecertificeerde asbestverwijderings- en asbestonderzoeksbedrijven.
+
+De tekst van het ontwerp-besluit tot wijziging van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) is als [bijlage](https://wetten.overheid.nl/BWBR0008441) bij deze circulaire gevoegd. Voor de tekst van het oorspronkelijke besluit en van ministeriële regelingen en het koninklijk besluit op grond van het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) verwijs ik u naar de ’Uitvoerings- en handhavingsbundel Asbest-verwijderingsbesluit’, die in augustus 1996 is gepubliceerd (voor bestelling zie [paragraaf 4](https://wetten.overheid.nl/BWBR0008441)).
 
 Hieronder wordt de essentie van het wijzigingsbesluit kort toegelicht.
 
@@ -112,15 +87,27 @@ Het verwijderen van asbest uit een bouwwerk of object moet sinds 1 maart 1996 pl
 
 Van de verplichting het verwijderen van asbest op te dragen aan een asbestverwijderingsbedrijf dat beschikt over een KOMO-procescertificaat voor het verwijderen van asbest zijn thans enkele werkzaamheden vrijgesteld, die een relatief beheersbaar risico voor mens en milieu meebrengen. Het betreft:
 
+- – het verwijderen door een particulier van bepaalde asbestbevattende materialen uit zijn woning of bijgebouw bij die woning (in de regel: asbestbevattende vloerbedekking, asbestbevattende vloertegels, geschroefde hechtgebonden asbestbevattende materialen binnen, geschroefde hechtgebonden asbestbevattende materialen buiten met een maximum van 35 vierkante meter);
+
+- – het in het kader van de uitoefening van beroep of bedrijf geheel of gedeeltelijk uit elkaar nemen van asbestbevattende gas- en waterleidingbuizen die onderdeel van een ondergronds gas- of waterleidingnet zijn (en derhalve worden beschouwd als objecten);
+
+- – het in het kader van de uitoefening van beroep of bedrijf verwijderen van asbestbevattende pakkingen en rem- en frictiematerialen uit objecten.
+
 Bij de bovengenoemde vrijstellingen van de certificatieplicht is aangesloten bij de vrijstellingen van de verplichting op grond van het Asbestbesluit Arbeidsomstandighedenwet dat bij het verwijderen van asbest een zogenoemde deskundig toezichthouder asbest-sloop (DTA) aanwezig moet zijn.
 
 Thans is gebleken dat de verplichting op grond van het Asbestbesluit Arbeidsomstandighedenwet dat bij de verwijdering van asbest een DTA aanwezig dient te zijn, niet langer van toepassing hoeft te zijn op enkele andere asbestverwijderingswerkzaamheden. Voorts is de Staatssecretaris van Sociale Zaken en Werkgelegenheid voornemens nog enkele asbestverwijderingswerkzaamheden vrij te stellen van de verplichting dat daarbij een DTA aanwezig dient te zijn. In het onderhavige wijzigingsbesluit worden deze werkzaamheden, die een relatief beheersbaar risico voor mens en milieu hebben, eveneens vrijgesteld van de certificatieplicht. Het betreft:
+
+- – het in het kader van de uitoefening van beroep of bedrijf als één geheel uit een bouwwerk verwijderen van asbestbevattende verwarmingstoestellen, asbestbevattende boilers en onder verwarmingstoestellen geklemde, asbestbevattende platen waarin de asbestvezels hechtgebonden zijn;
+
+- – het in het kader van de uitoefening van beroep of bedrijf geheel of gedeeltelijk uit een bouwwerk verwijderen van asbestbevattende pakkingen en rem- en frictiematerialen;
+
+- – het geheel of gedeeltelijk uit elkaar nemen van asbestbevattende rioolleidingbuizen die deel uitmaken van een ondergronds rioolleidingnet (en derhalve worden beschouwd als objecten).
 
 Overigens zijn op alle werkzaamheden die zijn vrijgesteld van de certificatieplicht en de DTA-plicht wel andere voorschriften van de gemeentelijke bouwverordening, het [Asbestverwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) en het Asbestbesluit Arbeidsomstandighedenwet van toepassing.
 
 ### Overgangsregeling voor niet-gecertificeerde asbestverwijderings- en asbestonderzoeksbedrijven
 
-De verplichting het verwijderen van asbest op te dragen aan een asbestverwijderingsbedrijf dat beschikt over een KOMO-procescertificaat voor het verwijderen van asbest geldt, zoals eerder in deze paragraaf is gesteld, sinds 1 maart 1996. In paragraaf 2 van deze circulaire is beschreven wanneer de verplichting in werking treedt om voorafgaand aan sloop een onderzoek naar de aanwezigheid van asbest te laten uitvoeren door een asbestonderzoeksbedrijf dat beschikt over een KOMO-procescertificaat asbestonderzoek.
+De verplichting het verwijderen van asbest op te dragen aan een asbestverwijderingsbedrijf dat beschikt over een KOMO-procescertificaat voor het verwijderen van asbest geldt, zoals eerder in deze paragraaf is gesteld, sinds 1 maart 1996. In [paragraaf 2](https://wetten.overheid.nl/BWBR0008441) van deze circulaire is beschreven wanneer de verplichting in werking treedt om voorafgaand aan sloop een onderzoek naar de aanwezigheid van asbest te laten uitvoeren door een asbestonderzoeksbedrijf dat beschikt over een KOMO-procescertificaat asbestonderzoek.
 
 Vanwege de noodzakelijke toegankelijkheid tot de markt voor asbestverwijderings- en asbestonderzoeksbedrijven die nog niet over een KOMO-procescertificaat beschikken, dient de mogelijkheid te bestaan om ook na de data van ingang van de certificatieplicht een KOMO-procescertificaat voor het verwijderen van asbest of voor asbestonderzoek te verwerven. De laatste stap in de daarvoor geldende procedure is een beoordeling op twee projectlokaties (waar asbestverwijdering of asbestonderzoek plaatsvindt) door de desbetreffende certificatie-instelling. In dat geval wordt echter het [Asbest-verwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006) en/of worden daarmee in overeenstemming gebrachte voorschriften van de gemeentelijke bouwverordening overtreden, omdat het asbestverwijderingsbedrijf respectievelijk asbestonderzoeksbedrijf niet beschikt over het vereiste KOMO-procescertificaat.
 
@@ -137,7 +124,3 @@ Begin 1997 vindt een viertal voorlichtingsbijeenkomsten plaats, waarin aandacht 
 Met vragen over asbest in het milieu kunt u terecht bij het Bureau Persoonlijke Voorlichting van het Ministerie van VROM, telefoon 070-3395050. Personen die zijn belast met de uitvoering en handhaving van de wet- en regelgeving op het gebied van asbest kunnen met vragen eveneens terecht bij Infomil, telefoon 070-3630575. Informatie over asbest en arbeidsomstandigheden kunt u krijgen bij het Ministerie van Sociale Zaken en Werkgelegenheid, afdeling Informatie, telefoon 070-3334455.
 
 Publicaties en circulaires over asbest van het Ministerie van VROM, waaronder de in augustus 1996 verschenen ’Uitvoerings- en handhavingsbundel Asbest-verwijderingsbesluit’ (distributienummer 20303) kunt u bestellen bij het Distributiecentrum VROM, telefoon 079-3449449. Recente overzichten van asbestverwijderings- en asbestonderzoeksbedrijven die beschikken over een KOMO-procescertificaat voor het verwijderen van asbest respectievelijk asbestonderzoek kunt u verkrijgen bij de Stichting Bouwkwaliteit, telefoon 070-3998467, telefax 070-3902947. De VNG-uitgave ’Standaardregelingen in de bouw’, deel 1, kunt u bestellen bij de VNG-uitgeverij, telefoon 070-3738888. De NEN 2631 kunt u bestellen bij het Nederlands Normalisatie Instituut (NNI), telefoon 015-2690390.
-
-## Bijlage
-
-Niet opgenomen.

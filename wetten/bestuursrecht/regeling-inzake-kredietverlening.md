@@ -1,38 +1,17 @@
 ---
 title: "Regeling inzake kredietverlening als afzonderlijke, vrijgestelde nevenprestatie"
+citeertitel: "Regeling inzake kredietverlening"
 identifier: "BWBR0008777"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1997-06-30"
-last_updated: "1997-06-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008777"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "8444263"
-version_id: "13322062"
-internal_id: "C17894051"
-label_id: "8425034"
-dtd_version: "2.0"
-original_entry_into_force: "1997-06-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008777/1997-06-30/0"
-intitule_bron: "Infob.1997-6"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-06-30"
-intitule_published: "1997-01-01"
-intitule_in_force: "1997-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1997-6"
-original_signed_date: "1997-06-30"
-original_published_date: "1997-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-06-30"
-jci_1_3: "jci1.3:c:BWBR0008777&z=1997-06-30&g=1997-06-30"
-jci_1_0: "1.0:c:BWBR0008777&g=1997-06-30"
-citeertitel_status: "officieel"
-short_title: "Regeling inzake kredietverlening"
-signed_date: "1997-06-30"
-entry_into_force: "1997-06-30"
+publicatiedatum: 1997-06-30
+laatste_update: 1997-06-30
+status: geldig
+toestand: 1997-06-30
+bron: "https://wetten.overheid.nl/BWBR0008777"
+opgehaald: 2026-08-03
 ---
+
 # Regeling inzake kredietverlening als afzonderlijke, vrijgestelde nevenprestatie
 
 ### 1.1. Inleiding
@@ -89,8 +68,22 @@ Dit besluit treedt heden in werking. Op het verleden wordt niet teruggekomen. Vo
 
 In verband met het vorenstaande worden de volgende aanschrijvingen en mededelingen ingetrokken:
 
+- – vraag en antwoord 93, inzake rente wegens te late betaling
+
+- – de aanschrijving van 6 februari 1969, nr. D69/786 (OB/BTW-76), gewijzigd bij beschikking van 27 oktober 1970, nr. B70/21178, inzake financieringstoeslagen
+
+- – de aanschrijving van 17 augustus 1987, nr. VB 87/888 (BTW/R-299), inzake bouwrente bij koop-/aannemingsovereenkomsten, alsmede de daarop betrekking hebbende brief van 24 november 1987, nr. VB 87/1420, Infobulletin 88/40, inzake de ingangsdatum van de aanschrijving BTW/R-299 en de brief van 11 februari 1994, nr. VB 94/362, Infobulletin 94/188, inzake de toepassing van de aanschrijving BTW/R-299
+
+- – de brief van 10 november 1987, nr. VB 285-17794, Infobulletin 88/38, inzake financieringstoeslag bij postorderbedrijven
+
 en wordt het besluit van 10 mei 1995, nr. VB 95/1237 (Voorschrift Marge-regeling), zoals dit besluit is gewijzigd bij het besluit van 10 november 1995, nr. VB 95/3344 als volgt gewijzigd:
 
 In § 4 van Hoofdstuk 7:
+
+- – wordt de laatste volzin van de tweede alinea vervangen door: ‘Als de crediteur het kasstelsel toepast, komt toepassing van artikel 29, lid 1, van de Wet niet aan de orde.’
+
+- – wordt de vierde alinea vervangen door: ‘Het vorenstaande is van overeenkomstige toepassing ten aanzien van goederen die zijn geleverd op grond van een huurkoopovereenkomst of een overeenkomst van financial lease en die door de huurverkoper onderscheidenlijk lessor zijn teruggenomen omdat de afnemer niet aan zijn betalingsverplichtingen heeft voldaan. Voor zover geen omzetbelasting geheven is over de in de oorspronkelijke termijnen begrepen financieringstoeslag, kan de financieringstoeslag ook niet worden gerekend tot de ‘inkoopprijs’ die bij wederverkoop op de opbrengst in mindering gebracht mag worden. Het ontmoet geen bezwaar, dat de financieringstoeslag in dit verband naar evenredigheid wordt toegerekend aan de betaalde en de niet betaalde termijnen.’
+
+- – vervalt de laatste alinea.
 
 Dit besluit kan worden aangehaald als de Regeling inzake kredietverlening.

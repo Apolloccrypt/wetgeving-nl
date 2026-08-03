@@ -1,49 +1,42 @@
 ---
 title: "Regeling van de Minister van Verkeer en Waterstaat, houdende een Informatiestatuut, alsmede regels inzake inrichting van de begroting en het financieel verslag van de Onafhankelijke Post en Telecommunicatieautoriteit"
+citeertitel: "Informatiestatuut Onafhankelijke Post en Telecommunicatie Autoriteit"
 identifier: "BWBR0008852"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-05-19"
-last_updated: "2004-05-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008852"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "4484103"
-version_id: "6290652"
-internal_id: "C6494861"
-label_id: "4462734"
-dtd_version: "2.0"
-original_entry_into_force: "1997-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008852/2004-05-19/0"
-intitule_bron: "Stcrt.1997-142"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-07-23"
-intitule_published: "1997-07-29"
-intitule_in_force: "1997-07-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-142"
-original_signed_date: "1997-07-23"
-original_published_date: "1997-07-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-08-01"
-jci_1_3: "jci1.3:c:BWBR0008852&z=2004-05-19&g=2004-05-19"
-jci_1_0: "1.0:c:BWBR0008852&g=2004-05-19"
-citeertitel_status: "officieel"
-short_title: "Informatiestatuut Onafhankelijke Post en Telecommunicatie Autoriteit"
-signed_date: "1997-07-23"
-entry_into_force: "1997-08-01"
+publicatiedatum: 1997-08-01
+laatste_update: 2004-05-19
+status: geldig
+toestand: 2004-05-19
+bron: "https://wetten.overheid.nl/BWBR0008852"
+opgehaald: 2026-08-03
 ---
+
 # Regeling van de Minister van Verkeer en Waterstaat, houdende een Informatiestatuut, alsmede regels inzake inrichting van de begroting en het financieel verslag van de Onafhankelijke Post en Telecommunicatieautoriteit
-
-Gelet op de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=18) en [21 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=21);
-
-Besluit:
 
 ### Hoofdstuk I. Algemeen
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+minister:
+
+Minister van Economische Zaken;
+
+b.
+
+wet:
+
+[Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807);
+
+c.
+
+college:
+
+college, genoemd in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=2).
 
 ##### Artikel 2. Wijze van informatie-uitwisseling
 
@@ -147,41 +140,41 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 - a. Personeelsuitgaven, exclusief de bezoldiging van de vaste leden van het college, uitgesplitst in de navolgende kostenposten:
 
-- 1º. personele omvang in formatieenheden en bezetting per 1 januari en per 31 december van elk kalenderjaar;
+   - 1º personele omvang in formatieenheden en bezetting per 1 januari en per 31 december van elk kalenderjaar;
 
-- 2º. formatie-opbouw;
+   - 2º formatie-opbouw;
 
-- 3º. totale salarissom, inclusief afdrachten, exclusief toelagen;
+   - 3º totale salarissom, inclusief afdrachten, exclusief toelagen;
 
-- 4º. gemiddelde loonsom in de vorm van een indexcijfer, waarbij de gemiddelde loonsom per werknemer per 1 augustus 1997 op 100 is gesteld;
+   - 4º gemiddelde loonsom in de vorm van een indexcijfer, waarbij de gemiddelde loonsom per werknemer per 1 augustus 1997 op 100 is gesteld;
 
-- 5º. aantal, aard en som van uitbetaalde toelagen;
+   - 5º aantal, aard en som van uitbetaalde toelagen;
 
-- 6º. aantallen en kosten ontslaguitkeringen;
+   - 6º aantallen en kosten ontslaguitkeringen;
 
-- 7º. kosten overige personele uitgaven;
+   - 7º kosten overige personele uitgaven;
 
 - b. De totale bezoldiging, inclusief pensioenafdracht van, en andere uitkeringen aan de vaste leden van het college, alsmede vergoedingen aan de geassocieerde leden van het college;
 
 - c. Kosten (personeel en materieel) en opbrengsten per (markt)categorie, waarbij de volgende (markt)categorieën worden onderscheiden: De kosten van bezwaar en beroep alsmede de kosten van advisering aan de minister op grond van deze regeling worden hierbij afzonderlijk in beeld gebracht.
 
-- 1°. openbare elektronische communicatienetwerken;
+   - 1°. openbare elektronische communicatienetwerken;
 
-- 2°. openbare elektronische communicatiediensten;
+   - 2°. openbare elektronische communicatiediensten;
 
-- 3°. systemen voor voorwaardelijke toegang;
+   - 3°. systemen voor voorwaardelijke toegang;
 
-- 4°. toegang tot het programma-aanbod;
+   - 4°. toegang tot het programma-aanbod;
 
-- 5°. vergunningen als bedoeld in [artikel 20.7, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.7);
+   - 5°. vergunningen als bedoeld in [artikel 20.7, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.7);
 
-- 6°. vergunningen als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3), en [20.2, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.2);
+   - 6°. vergunningen als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3), en [20.2, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.2);
 
-- 7°. nummers;
+   - 7°. nummers;
 
-- 8°. diensten van certificatiedienstverleners;
+   - 8°. diensten van certificatiedienstverleners;
 
-- 9°. concessie post en geregistreerde postkoeriers.
+   - 9°. concessie post en geregistreerde postkoeriers.
 
 - d. Doorlooptijden van aanvragen van machtigingen, vergunningen, nummers en registraties;
 
@@ -261,6 +254,8 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 ##### Artikel 12. De Jaarstukken
 
+Het Jaarverslag
+
 1. Het jaarverslag bedoeld in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=17), geeft een getrouw beeld omtrent de toestand op 31 december van het jaar waarover gerapporteerd wordt en de gang van zaken gedurende dat jaar.
 
 2. In het jaarverslag wordt ingegaan op de werkzaamheden, het gevoerde beleid in het algemeen, en de doelmatigheid en doeltreffendheid van de werkwijze in het bijzonder in het afgelopen boekjaar, mede in relatie tot de in de meerjarenraming en de begroting vooraf gestelde doelen en verwachte ontwikkelingen, alsmede de factoren die daarbij van invloed zijn geweest.
@@ -276,6 +271,8 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 7. Het jaarverslag mag niet in strijd zijn met de jaarrekening.
 
 8. Uiterlijk met ingang van het tweede verslagjaar bevat het jaarverslag tevens een globale beschrijving van de ontwikkelingen op de postmarkt en de elektronische communicatiemarkt.
+
+De Jaarrekening
 
 9. Bij het opstellen van de jaarrekening, bedoeld in [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=20), zijn de [artikelen 361](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), [362, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362), [362, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362), [363 tot en met 390](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=363) en [392 van Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392) van overeenkomstige toepassing; voor ’de algemene vergadering van leden of aandeelhouders’ of ’de algemene vergadering’ of ’de leden’ of ’de aandeelhouders’ moet worden gelezen: ’Onze Minister’; voor ’het bestuur’ of ’bestuurders’ moet worden gelezen: ’het college’ respectievelijk ’de vaste leden van het college’.
 
@@ -330,5 +327,3 @@ Deze regeling treedt in werking met ingang van 1 augustus 1997.
 ##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Informatiestatuut Onafhankelijke Post en Telecommunicatie Autoriteit.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

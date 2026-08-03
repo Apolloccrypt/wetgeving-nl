@@ -1,39 +1,23 @@
 ---
 title: "Regeling aanwijzingen ten aanzien van verplichtingen van de eigenaar of houder van een luchtvaartuig met betrekking tot onderhoud, revisie en herstelling"
 identifier: "BWBR0009485"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-04-01"
-last_updated: "1998-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009485"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "5250343"
-version_id: "9444722"
-internal_id: "C12653691"
-label_id: "5226264"
-dtd_version: "2.0"
-original_entry_into_force: "1998-03-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009485/1998-04-01/0"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-60"
-original_signed_date: "1998-03-20"
-original_published_date: "1998-03-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-03-29"
-jci_1_3: "jci1.3:c:BWBR0009485&z=1998-04-01&g=1998-04-01"
-jci_1_0: "1.0:c:BWBR0009485&g=1998-04-01"
-citeertitel_status: "officieel"
-signed_date: "1998-03-20"
-entry_into_force: "1998-03-29"
+publicatiedatum: 1998-03-29
+laatste_update: 1998-04-01
+status: geldig
+toestand: 1998-04-01
+bron: "https://wetten.overheid.nl/BWBR0009485"
+opgehaald: 2026-08-03
 ---
+
 # Regeling aanwijzingen ten aanzien van verplichtingen van de eigenaar of houder van een luchtvaartuig met betrekking tot onderhoud, revisie en herstelling
 
 ##### Artikel 1. Algemeen
 
 1. Met betrekking tot het onderhoud, de revisie en de herstelling van een Nederlands luchtvaartuig is de eigenaar of houder verplicht:
 
-- a. vervallen.
+- a. *vervallen.*
 
 - b. ervoor te zorgen, dat de Directeur Luchtvaartinspectie van het Directoraat-Generaal Rijksluchtvaartdienst op zijn verzoek wordt ingelicht omtrent het tijdstip, waarop met het onderhoud, de revisie of de herstelling dan wel met bepaalde daartoe behorende werkzaamheden zal worden aangevangen;
 

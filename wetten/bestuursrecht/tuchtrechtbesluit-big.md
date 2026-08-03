@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 20 mei 1997, houdende regelen inzake tuchtrechtspraak en maatregelen wegens ongeschiktheid (Tuchtrechtbesluit BIG)"
+citeertitel: "Tuchtrechtbesluit BIG"
 identifier: "BWBR0008688"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-04-01"
-last_updated: "2022-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008688"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "552113"
-version_id: "28449042"
-internal_id: "C40143751"
-label_id: "536614"
-dtd_version: "2.0"
-original_entry_into_force: "2022-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008688/2022-04-01/0"
-intitule_bron: "Stb.1997-238"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-05-20"
-intitule_published: "1997-06-19"
-intitule_in_force: "1997-11-27"
-intitule_status: "goed"
-original_publication: "Stb.2022-97"
-original_signed_date: "2022-02-24"
-original_published_date: "2022-03-01"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2022-97"
-entry_into_force_date: "2022-02-24"
-jci_1_3: "jci1.3:c:BWBR0008688&z=2022-04-01&g=2022-04-01"
-jci_1_0: "1.0:c:BWBR0008688&g=2022-04-01"
-citeertitel_status: "officieel"
-short_title: "Tuchtrechtbesluit BIG"
-signed_date: "2022-02-24"
-entry_into_force: "2022-02-24"
+publicatiedatum: 2022-02-24
+laatste_update: 2022-04-01
+status: geldig
+toestand: 2022-04-01
+bron: "https://wetten.overheid.nl/BWBR0008688"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 20 mei 1997, houdende regelen inzake tuchtrechtspraak en maatregelen wegens ongeschiktheid (Tuchtrechtbesluit BIG)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 15 juli 1996, nr. CSZ/BenO-966209, gedaan mede namens Onze Minister van Justitie;
-
-Gelet op de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=52), [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=53), [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=54), [65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=65), [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=70), [73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=73), [79, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=79), [83, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=83), [84, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=84), en [94 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=94);
-
-De Raad van State gehoord (advies van 19 november 1996, no. W13.96.0306)
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 29 april 1997, CSZ/BenO-976120, uitgebracht mede namens Onze Minister van Justitie;
-
-Hebben goedgevonden en verstaan:
 
 ### HOOFDSTUK 1. BEGRIPSBEPALING
 
@@ -66,7 +34,7 @@ ln dit besluit wordt verstaan onder «de wet»: de [Wet op de beroepen in de ind
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 2. Procedure in eerste aanleg
 
@@ -84,13 +52,13 @@ Vervallen
 
 - e. indien geklaagd wordt door:
 
-- 1°. een rechtstreeks belanghebbende: een duidelijke aanduiding van het belang dat de klager bij het onderwerp van de klacht heeft;
+   - 1°. een rechtstreeks belanghebbende: een duidelijke aanduiding van het belang dat de klager bij het onderwerp van de klacht heeft;
 
-- 2°. de beroepsbeoefenaar die aan degene over wie wordt geklaagd een opdracht heeft gegeven: een duidelijke omschrijving van de onderlinge verhouding;
+   - 2°. de beroepsbeoefenaar die aan degene over wie wordt geklaagd een opdracht heeft gegeven: een duidelijke omschrijving van de onderlinge verhouding;
 
-- 3°. een persoon of een orgaan als bedoeld in [artikel 65, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=65): een duidelijke omschrijving van de verhouding tot degene over wie wordt geklaagd;
+   - 3°. een persoon of een orgaan als bedoeld in [artikel 65, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=65): een duidelijke omschrijving van de verhouding tot degene over wie wordt geklaagd;
 
-- 4°. de inspecteur als bedoeld in [artikel 65, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=65): vermelding van diens hoedanigheid.
+   - 4°. de inspecteur als bedoeld in [artikel 65, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=65): vermelding van diens hoedanigheid.
 
 2. Het klaagschrift is ondertekend door de klager, zijn advocaat of een andere gemachtigde.
 
@@ -110,7 +78,7 @@ Indien het klaagschrift niet voldoet aan [artikel 4, eerste of tweede lid](https
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -296,13 +264,19 @@ Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [art
 
 ##### Artikel 32
 
-1. Indien het regionale tuchtcollege in de verwezen zaak beslist dat de eindbeslissing waarbij een maatregel als bedoeld in artikel 48, eerste lid, onder **d**, **e** of **f**, of derde lid, van de wet was opgelegd, wordt gehandhaafd, verwijdert Onze Minister de aantekening van de opschorting, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=30&z=2022-04-01&g=2022-04-01), zodra hij het afschrift van de beslissing heeft ontvangen.
+1. Indien het regionale tuchtcollege in de verwezen zaak beslist dat de eindbeslissing waarbij een maatregel als bedoeld in artikel 48, eerste lid, onder *d*, *e* of *f*, of derde lid, van de wet was opgelegd, wordt gehandhaafd, verwijdert Onze Minister de aantekening van de opschorting, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=30&z=2022-04-01&g=2022-04-01), zodra hij het afschrift van de beslissing heeft ontvangen.
 
-2. Indien de beslissing van het regionale tuchtcollege in de verwezen zaak inhoudt dat de eindbeslissing waarvan herziening is gevraagd, wordt vernietigd en dat een maatregel als bedoeld in artikel 48, eerste lid, onder **e**, van de wet wordt opgelegd, wordt die maatregel aangetekend in het register onder gelijktijdige verwijdering van de aantekening van de oorspronkelijk opgelegde maatregel en van die van de opschorting. Indien bij de beslissing van het college in de verwezen zaak de maatregel van schorsing wordt opgelegd, worden de aantekeningen van de oorspronkelijk opgelegde maatregel en van de opschorting daarvan in het register verwijderd. Van de schorsing wordt slechts aantekening gemaakt in het register voor zover de duur daarvan langer is dan de periode gedurende welke de oorspronkelijk opgelegde maatregel reeds ten uitvoer is gelegd.
+2. Indien de beslissing van het regionale tuchtcollege in de verwezen zaak inhoudt dat de eindbeslissing waarvan herziening is gevraagd, wordt vernietigd en dat een maatregel als bedoeld in artikel 48, eerste lid, onder *e*, van de wet wordt opgelegd, wordt die maatregel aangetekend in het register onder gelijktijdige verwijdering van de aantekening van de oorspronkelijk opgelegde maatregel en van die van de opschorting. Indien bij de beslissing van het college in de verwezen zaak de maatregel van schorsing wordt opgelegd, worden de aantekeningen van de oorspronkelijk opgelegde maatregel en van de opschorting daarvan in het register verwijderd. Van de schorsing wordt slechts aantekening gemaakt in het register voor zover de duur daarvan langer is dan de periode gedurende welke de oorspronkelijk opgelegde maatregel reeds ten uitvoer is gelegd.
 
-3. Indien de beslissing van het regionale tuchtcollege inhoudt dat de eindbeslissing waarbij een maatregel als bedoeld in artikel 48, eerste lid, onder **d**, **e** of **f**, of derde lid, van de wet was opgelegd, wordt vernietigd en dat de klager niet-ontvankelijk wordt verklaard, de klacht wordt afgewezen dan wel ten aanzien van de betrokkene een maatregel als bedoeld in artikel 48, eerste lid, onder **a**, **b** of **c**, van de wet wordt opgelegd, worden de aantekeningen in het register van de oorspronkelijke maatregel en van de opschorting, verwijderd.
+3. Indien de beslissing van het regionale tuchtcollege inhoudt dat de eindbeslissing waarbij een maatregel als bedoeld in artikel 48, eerste lid, onder *d*, *e* of *f*, of derde lid, van de wet was opgelegd, wordt vernietigd en dat de klager niet-ontvankelijk wordt verklaard, de klacht wordt afgewezen dan wel ten aanzien van de betrokkene een maatregel als bedoeld in artikel 48, eerste lid, onder *a*, *b* of *c*, van de wet wordt opgelegd, worden de aantekeningen in het register van de oorspronkelijke maatregel en van de opschorting, verwijderd.
 
 ### HOOFDSTUK 3a. HERSTEL
+
+##### Artikel 32a
+
+Voor de toepassing van [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50) wordt voor zaken waar in hoogste instantie een maatregel is opgelegd door de voormalige regionale tuchtcolleges van Den Haag, Eindhoven en Groningen, advies ingewonnen bij de colleges van respectievelijk Amsterdam, ’s-Hertogenbosch en Zwolle.
+
+### HOOFDSTUK 4. MAATREGELEN WEGENS ONGESCHIKTHEID
 
 ##### Artikel 33
 
@@ -310,7 +284,7 @@ De voordracht aan het regionale tuchtcollege tot het treffen van een voorziening
 
 ##### Artikel 34
 
-1. Met betrekking tot de behandeling van een zaak door het regionale tuchtcollege zijn [de artikelen 6 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-04-01&g=2022-04-01) van overeenkomstige toepassing, met dien verstande dat in plaats van «de klager» en «degene over wie is geklaagd» telkens wordt gelezen «de inspecteur, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=4&artikel=33&z=2022-04-01&g=2022-04-01)» onderscheidenlijk «degene op wie de voordracht betrekking heeft» en dat in [artikel 17, eerste lid, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2022-04-01&g=2022-04-01), in plaats van «de klacht» wordt gelezen «de voordracht».
+1. Met betrekking tot de behandeling van een zaak door het regionale tuchtcollege zijn [de artikelen 6 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-04-01&g=2022-04-01) van overeenkomstige toepassing, met dien verstande dat in plaats van «de klager» en «degene over wie is geklaagd» telkens wordt gelezen «de inspecteur, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=4&artikel=33&z=2022-04-01&g=2022-04-01)» onderscheidenlijk «degene op wie de voordracht betrekking heeft» en dat in [artikel 17, eerste lid, onder *d*](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2022-04-01&g=2022-04-01), in plaats van «de klacht» wordt gelezen «de voordracht».
 
 2. Op de procedure in beroep tegen een eindbeslissing van het regionale tuchtcollege zijn [de artikelen 19 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=3&artikel=19&z=2022-04-01&g=2022-04-01) van overeenkomstige toepassing.
 
@@ -323,15 +297,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 36
 
 Dit besluit wordt aangehaald als: Tuchtrechtbesluit BIG.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 32a
-
-Voor de toepassing van [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50) wordt voor zaken waar in hoogste instantie een maatregel is opgelegd door de voormalige regionale tuchtcolleges van Den Haag, Eindhoven en Groningen, advies ingewonnen bij de colleges van respectievelijk Amsterdam, ’s-Hertogenbosch en Zwolle.
-
-### HOOFDSTUK 4. MAATREGELEN WEGENS ONGESCHIKTHEID
-
-### HOOFDSTUK 5. SLOTBEPALINGEN
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

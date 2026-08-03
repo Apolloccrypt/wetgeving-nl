@@ -1,43 +1,18 @@
 ---
 title: "Privacyreglement geautomatiseerde administratie invordering onderhoudsgelden LBIO"
+citeertitel: "Privacyreglement LBIO"
 identifier: "BWBR0008421"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008421"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "4301683"
-version_id: "6064542"
-internal_id: "C6268151"
-label_id: "4280374"
-dtd_version: "2.0"
-original_entry_into_force: "1997-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008421/2006-01-01/0"
-intitule_bron: "Stcrt.1996-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-13"
-intitule_published: "1996-12-20"
-intitule_in_force: "1996-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-247"
-original_signed_date: "1996-12-13"
-original_published_date: "1996-12-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-01-01"
-jci_1_3: "jci1.3:c:BWBR0008421&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0008421&g=2006-01-01"
-citeertitel_status: "officieel"
-short_title: "Privacyreglement LBIO"
-signed_date: "1996-12-13"
-entry_into_force: "1997-01-01"
+publicatiedatum: 1997-01-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0008421"
+opgehaald: 2026-08-03
 ---
+
 # Privacyreglement geautomatiseerde administratie invordering onderhoudsgelden LBIO
-
-Overwegende dat, ingevolge de artikelen 17, 19, 20 en 22 van de Wet persoonsregistraties (Stb. 1988, nr. 665) een reglement dient te worden vastgesteld voor de geautomatiseerde administratie ten behoeve van de invordering van onderhoudsgelden van het Landelijk Bureau Inning Onderhoudsbijdragen.
-
-Besluit in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport het volgende reglement vast te stellen:
 
 #### Paragraaf 1. Algemene bepalingen
 

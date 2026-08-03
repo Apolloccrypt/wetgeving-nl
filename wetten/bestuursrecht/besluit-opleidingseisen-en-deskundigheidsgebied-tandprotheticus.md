@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 22 augustus 1997, houdende regels inzake de opleiding tot en de deskundigheid van de tandprotheticus (Besluit opleidingseisen en deskundigheidsgebied tandprotheticus)"
+citeertitel: "Besluit opleidingseisen en deskundigheidsgebied tandprotheticus"
 identifier: "BWBR0008882"
-country: "nl"
-rank: "amvb"
-publication_date: "1997-12-01"
-last_updated: "1997-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008882"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "711443"
-version_id: "1038672"
-internal_id: "C1038671"
-label_id: "689644"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008882/1997-12-01/0"
-intitule_bron: "Stb.1997-477"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-08-22"
-intitule_published: "1997-10-23"
-intitule_in_force: "1997-11-27"
-intitule_status: "goed"
-original_publication: "Stb.1997-477"
-original_signed_date: "1997-08-22"
-original_published_date: "1997-10-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-477"
-entry_into_force_date: "1997-12-01"
-jci_1_3: "jci1.3:c:BWBR0008882&z=1997-12-01&g=1997-12-01"
-jci_1_0: "1.0:c:BWBR0008882&g=1997-12-01"
-citeertitel_status: "officieel"
-short_title: "Besluit opleidingseisen en deskundigheidsgebied tandprotheticus"
-signed_date: "1997-08-22"
-entry_into_force: "1997-12-01"
+publicatiedatum: 1997-12-01
+laatste_update: 1997-12-01
+status: geldig
+toestand: 1997-12-01
+bron: "https://wetten.overheid.nl/BWBR0008882"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 22 augustus 1997, houdende regels inzake de opleiding tot en de deskundigheid van de tandprotheticus (Besluit opleidingseisen en deskundigheidsgebied tandprotheticus)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 juni 1997, CSZ/BO-978516;
-
-Gelet op [artikel 34 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34);
-
-Gezien het advies van de Raad voor de beroepen in de individuele gezondheidszorg (adviezen van 8 juli 1994 en 4 oktober 1996);
-
-De Raad van State gehoord (advies van 24 juli 1997, No. W13.97.0346);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 15 augustus 1997, CSZ/BO-9712646;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
@@ -157,5 +123,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied tandprotheticus.
-
-Lasten en bevelen dat dit besluit met de daarbij horende nota van toelichting in het Staatsblad zal worden geplaatst.

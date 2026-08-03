@@ -1,42 +1,17 @@
 ---
 title: "Regeling aanvullende uitkering gemeentefonds"
 identifier: "BWBR0008324"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008324"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "4357753"
-version_id: "6114332"
-internal_id: "C6318541"
-label_id: "4336414"
-dtd_version: "2.0"
-original_entry_into_force: "1997-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008324/2010-01-01/0"
-intitule_bron: "Stcrt.1996-239"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-11-14"
-intitule_published: "1996-12-10"
-intitule_in_force: "1996-12-10"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-239"
-original_signed_date: "1996-11-14"
-original_published_date: "1996-12-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-01-01"
-jci_1_3: "jci1.3:c:BWBR0008324&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBR0008324&g=2010-01-01"
-citeertitel_status: "officieel"
-signed_date: "1996-11-14"
-entry_into_force: "1997-01-01"
+publicatiedatum: 1997-01-01
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBR0008324"
+opgehaald: 2026-08-03
 ---
+
 # Regeling aanvullende uitkering gemeentefonds
-
-Gelet op [artikel 12 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=12) en artikel 8 van het Besluit financiële verhouding Rijk-gemeenten;
-
-Besluiten:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -44,7 +19,29 @@ Besluiten:
 
 1. In deze regeling wordt verstaan onder:
 
-a. de ministers: de Minister van Binnenlandse Zaken en de Minister van Financiën; b. de wet: de [Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290); c. het besluit: het [Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216); d. de gemeente: de gemeente die een aanvraag heeft ingediend op grond van [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=12).
+a.
+
+de ministers:
+
+de Minister van Binnenlandse Zaken en de Minister van Financiën;
+
+b.
+
+de wet:
+
+de [Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290);
+
+c.
+
+het besluit:
+
+het [Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216);
+
+d.
+
+de gemeente:
+
+de gemeente die een aanvraag heeft ingediend op grond van [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=12).
 
 2. De waarden bedoeld in [artikel 23, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=23) zijn:
 
@@ -82,7 +79,7 @@ a. de ministers: de Minister van Binnenlandse Zaken en de Minister van Financië
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -119,5 +116,3 @@ Deze regeling treedt in werking met ingang van 1 januari 1997.
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling aanvullende uitkering gemeentefonds.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

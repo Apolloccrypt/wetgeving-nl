@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 12 september 1996, houdende vaststelling van de Maatregel te boek gestelde luchtvaartuigen 1996"
+citeertitel: "Maatregel te boek gestelde luchtvaartuigen 1996"
 identifier: "BWBR0008233"
-country: "nl"
-rank: "amvb"
-publication_date: "2008-01-01"
-last_updated: "2008-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008233"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "2198953"
-version_id: "3365242"
-internal_id: "C3365241"
-label_id: "2150654"
-dtd_version: "2.0"
-original_entry_into_force: "1996-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008233/2008-01-01/0"
-intitule_bron: "Stb.1996-471"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-09-12"
-intitule_published: "1996-09-26"
-intitule_in_force: "1996-09-26"
-intitule_status: "goed"
-original_publication: "Stb.1996-471"
-original_signed_date: "1996-09-12"
-original_published_date: "1996-09-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1996-471"
-entry_into_force_date: "1996-10-01"
-jci_1_3: "jci1.3:c:BWBR0008233&z=2008-01-01&g=2008-01-01"
-jci_1_0: "1.0:c:BWBR0008233&g=2008-01-01"
-citeertitel_status: "officieel"
-short_title: "Maatregel te boek gestelde luchtvaartuigen 1996"
-signed_date: "1996-09-12"
-entry_into_force: "1996-10-01"
+publicatiedatum: 1996-10-01
+laatste_update: 2008-01-01
+status: geldig
+toestand: 2008-01-01
+bron: "https://wetten.overheid.nl/BWBR0008233"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 12 september 1996, houdende vaststelling van de Maatregel te boek gestelde luchtvaartuigen 1996
-
-Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 20 maart 1996, nr. MJZ96011826, Centrale Directie Juridische Zaken, afdeling Wetgeving, gedaan mede namens Onze Ministers van Justitie en van Verkeer en Waterstaat;
-
-Gelet op het op 19 juni 1948 te Genève tot stand gekomen Verdrag inzake de internationale erkenning van rechten op luchtvaartuigen (**Trb.**1952, 86), alsmede op de artikelen 1303, eerste lid, onder **b**, en 1321 van Boek 8 van het Burgerlijk Wetboek, [artikel 584**f**, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=584f) en [artikel 10, vierde juncto derde lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=10);
-
-De Raad van State gehoord (advies van 11 juni 1996, nr. W08.96.0128);
-
-Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 6 september 1996, nr. MJZ 96050717, Centrale Directie Juridische Zaken, afdeling Wetgeving, uitgebracht mede namens Onze Ministers van Justitie en van Verkeer en Waterstaat;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -61,6 +29,10 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 ##### Artikel 2
 
 De verplichtingen die krachtens dit besluit rusten op de eigenaar van een luchtvaartuig, rusten, indien het luchtvaartuig toebehoort aan meer personen, aan een vennootschap onder firma, aan een commanditaire vennootschap of aan een rechtspersoon, mede op iedere mede-eigenaar, beherende vennoot of bestuurder.
+
+##### Artikel 2a
+
+*Vervallen*
 
 ##### Artikel 3
 
@@ -156,7 +128,7 @@ Ingeval een verzoek of aangifte is gedaan met het oog op doorhaling van de teboe
 
 ##### Artikel 13
 
-Het ter openbare kennis brengen van de voor de verkoop van een luchtvaartuig bestemde dag, bedoeld in [artikel 584**f**, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=584f), geschiedt door aankondiging van de voorgenomen verkoop in de Staatscourant en in ten minste twee te 's-Gravenhage veel gelezen dagbladen, welke zullen worden aangewezen door de rechtbank, bedoeld in [artikel 584**f**, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=584f).
+Het ter openbare kennis brengen van de voor de verkoop van een luchtvaartuig bestemde dag, bedoeld in [artikel 584*f*, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=584f), geschiedt door aankondiging van de voorgenomen verkoop in de Staatscourant en in ten minste twee te 's-Gravenhage veel gelezen dagbladen, welke zullen worden aangewezen door de rechtbank, bedoeld in [artikel 584*f*, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=584f).
 
 ### Hoofdstuk 4. Wijziging
 
@@ -172,11 +144,11 @@ Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer stelt d
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
@@ -185,19 +157,3 @@ Dit besluit treedt in werking op 1 oktober 1996.
 ##### Artikel 19
 
 Dit besluit wordt aangehaald als: Maatregel te boek gestelde luchtvaartuigen, met vermelding van het jaartal van het Staatsblad waarin het zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 2a
-
-Vervallen
-
-### Hoofdstuk 2. Teboekstelling en doorhaling van de teboekstelling
-
-### Hoofdstuk 3. Kennisgeving van verkoop na beslag
-
-### Hoofdstuk 4. Wijziging
-
-### Hoofdstuk 5. Overige en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

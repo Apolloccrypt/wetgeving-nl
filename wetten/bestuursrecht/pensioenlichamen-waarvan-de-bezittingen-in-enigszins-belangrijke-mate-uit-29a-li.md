@@ -1,40 +1,17 @@
 ---
 title: "Pensioenlichamen waarvan de bezittingen in enigszins belangrijke mate uit 29a-lichamen bestaan"
 identifier: "BWBR0009373"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1998-02-09"
-last_updated: "1998-02-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009373"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "8376503"
-version_id: "13249262"
-internal_id: "C18427171"
-label_id: "8357194"
-dtd_version: "2.0"
-original_entry_into_force: "1998-02-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009373/1998-02-09/0"
-intitule_bron: "Infob.1998-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-02-09"
-intitule_published: "1998-01-01"
-intitule_in_force: "1998-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1998-2"
-original_signed_date: "1998-02-09"
-original_published_date: "1998-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-02-09"
-jci_1_3: "jci1.3:c:BWBR0009373&z=1998-02-09&g=1998-02-09"
-jci_1_0: "1.0:c:BWBR0009373&g=1998-02-09"
-citeertitel_status: "redactioneel"
-signed_date: "1998-02-09"
-entry_into_force: "1998-02-09"
+publicatiedatum: 1998-02-09
+laatste_update: 1998-02-09
+status: geldig
+toestand: 1998-02-09
+bron: "https://wetten.overheid.nl/BWBR0009373"
+opgehaald: 2026-08-03
 ---
-# Pensioenlichamen waarvan de bezittingen in enigszins belangrijke mate uit 29a-lichamen bestaan
 
-De plv. Directeur-Generaal der Belastingen heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Pensioenlichamen waarvan de bezittingen in enigszins belangrijke mate uit 29a-lichamen bestaan
 
 Ingevolge het bepaalde in het zesde lid van artikel 29a van de Wet op de inkomstenbelasting 1964 worden, ingeval de bezittingen van een lichaam als bedoeld in artikel 2, eerste lid, onderdelen a tot en met e, van de Wet op de vennootschapsbelasting 1969 (hierna worden deze lichamen aangeduid als ‘binnenlandse lichamen’) in enigszins belangrijke mate bestaan uit aandelen als zijn bedoeld in het eerste en tweede lid en lidmaatschapsrechten als zijn bedoeld in het tweede lid van voormeld artikel 29a (hierna worden deze laatste aandelen en lidmaatschapsrechten aangeduid als ‘29a-aandelen’), die 29a-aandelen geacht toe te behoren aan degenen bij wie het belang in het binnenlandse lichaam berust. Tot de binnenlandse lichamen behoren ook lichamen als bedoeld in artikel 5, onderdeel b, van de Wet op de vennootschapsbelasting 1969 en die voldoen aan de eisen gesteld in artikel 3 van het Uitvoeringsbesluit vennootschapsbelasting 1971 (hierna aangeduid als ‘pensioenlichamen’). Ingevolge voornoemd artikel 3 kunnen degenen bij wie het belang in het pensioenlichaam berust, behalve een uitkering van ten hoogste 5% per jaar over het gestorte kapitaal, geen rechten doen gelden op de winst van het pensioenlichaam.
 

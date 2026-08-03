@@ -1,42 +1,17 @@
 ---
 title: "Regeling wapens en munitie krijgsmachtpersoneel 1997"
 identifier: "BWBR0008473"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-23"
-last_updated: "2025-01-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008473"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3626163"
-version_id: "5409242"
-internal_id: "C5602331"
-label_id: "3606124"
-dtd_version: "2.0"
-original_entry_into_force: "1997-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008473/2025-01-23/0"
-intitule_bron: "Stcrt.1996-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-23"
-intitule_published: "1996-12-30"
-intitule_in_force: "1996-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-250"
-original_signed_date: "1996-12-23"
-original_published_date: "1996-12-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-01-01"
-jci_1_3: "jci1.3:c:BWBR0008473&z=2025-01-23&g=2025-01-23"
-jci_1_0: "1.0:c:BWBR0008473&g=2025-01-23"
-citeertitel_status: "officieel"
-signed_date: "1996-12-23"
-entry_into_force: "1997-01-01"
+publicatiedatum: 1997-01-01
+laatste_update: 2025-01-23
+status: geldig
+toestand: 2025-01-23
+bron: "https://wetten.overheid.nl/BWBR0008473"
+opgehaald: 2026-08-03
 ---
+
 # Regeling wapens en munitie krijgsmachtpersoneel 1997
-
-Gelet op artikel 3a, eerste en vierde lid, van de Wet wapens en munitie;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -58,9 +33,9 @@ personen die deel uitmaken van of werkzaam zijn voor de krijgsmacht:
 
 - g. vrijwilligers werkzaam bij een door Defensie erkende historische wapen- of dienstvakcollectie, regimentsverzameling, traditiekamer of bij de rekwisietencommissie Koninklijke landmacht, bestaande uit:
 
-- 1°. burgerambtenaren in dienst van de Minister van Defensie,
+   - 1° burgerambtenaren in dienst van de Minister van Defensie,
 
-- 2°. voormalig defensiepersoneel dat als vrijwilliger is geregistreerd in het personeelssysteem.
+   - 2° voormalig defensiepersoneel dat als vrijwilliger is geregistreerd in het personeelssysteem.
 
 ##### Artikel 2
 
@@ -68,13 +43,13 @@ personen die deel uitmaken van of werkzaam zijn voor de krijgsmacht:
 
 - a. voor zover de uitoefening van de dienst zulks vereist:
 
-- 1°. het vervaardigen, transformeren, herstellen, beproeven, voorhanden hebben, vervoeren, doen binnenkomen en uitgaan van een wapen of munitie van de categorieën II en III;
+   - 1°. het vervaardigen, transformeren, herstellen, beproeven, voorhanden hebben, vervoeren, doen binnenkomen en uitgaan van een wapen of munitie van de categorieën II en III;
 
-- 2°. het dragen van een wapen van de categorieën II en III;
+   - 2°. het dragen van een wapen van de categorieën II en III;
 
-- 3°. het dragen, vervaardigen, transformeren, herstellen en beproeven van een wapen van categorie IV;
+   - 3°. het dragen, vervaardigen, transformeren, herstellen en beproeven van een wapen van categorie IV;
 
-- 4°. het dragen, vervaardigen, transformeren, herstellen, beproeven, doen binnenkomen of uitgaan, voorhanden hebben en vervoeren van een wapen van categorie I, onder 3°, voor zover het betreft een geluidsdemper en van categorie I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens of voor ontploffing bestemde voorwerpen;
+   - 4°. het dragen, vervaardigen, transformeren, herstellen, beproeven, doen binnenkomen of uitgaan, voorhanden hebben en vervoeren van een wapen van categorie I, onder 3°, voor zover het betreft een geluidsdemper en van categorie I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens of voor ontploffing bestemde voorwerpen;
 
 - b. het dragen van een wapen van categorie IV, onder 1° en 2°, dat is voorgeschreven bij een tenue.
 
@@ -159,5 +134,3 @@ Deze regeling treedt in werking met ingang van 1 januari 1997. Indien de Staatsc
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als Regeling wapens en munitie krijgsmachtpersoneel 1997.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

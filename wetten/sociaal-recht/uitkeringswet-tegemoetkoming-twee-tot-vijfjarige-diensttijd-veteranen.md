@@ -1,48 +1,18 @@
 ---
 title: "Wet van 17 december 1997, houdende eenmalige uitkering aan gewezen militairen die meer dan twee jaar doch minder dan vijf jaar hebben gediend (Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen)"
+citeertitel: "Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen"
 identifier: "BWBR0009197"
-country: "nl"
-rank: "wet"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009197"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "669623"
-version_id: "973292"
-internal_id: "C973291"
-label_id: "649224"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009197/2006-01-01/0"
-intitule_bron: "Stb.1997-728"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-17"
-intitule_published: "1997-12-29"
-intitule_in_force: "1997-12-29"
-intitule_status: "goed"
-original_publication: "Stb.1997-728"
-original_signed_date: "1997-12-17"
-original_published_date: "1997-12-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "25447"
-original_url_id: "stb-1997-728"
-entry_into_force_date: "1997-12-30"
-entry_into_force_dossier: "25447"
-jci_1_3: "jci1.3:c:BWBR0009197&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0009197&g=2006-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen"
-signed_date: "1997-12-17"
-entry_into_force: "1997-12-30"
+publicatiedatum: 1997-12-30
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0009197"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 17 december 1997, houdende eenmalige uitkering aan gewezen militairen die meer dan twee jaar doch minder dan vijf jaar hebben gediend (Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het veteranenbeleid wenselijk is regels te stellen inzake een tegemoetkoming in de vorm van een eenmalige uitkering door het Rijk aan militairen die meer dan twee doch minder dan vijf jaar als dienst- of reserveplichtige, als oorlogsvrijwilliger dan wel als schutterplichtige bij de krijgsmacht van het Koninkrijk hetzij tijdens de Tweede Wereldoorlog, dan wel in het voormalig Nederlands-Indië, in Korea of in het voormalig Nederlands Nieuw-Guinea in werkelijke dienst zijn geweest en daarvoor in de overheidspensioenwetgeving, dan wel krachtens een pensioenvervangende of in een pensioengerelateerde [uitkeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002537), geen financiële compensatie hebben ontvangen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goed gevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -50,31 +20,31 @@ In deze wet wordt verstaan onder:
 
 - a. militair:
 
-- 1°. degene die krachtens de Dienstplichtwet werkelijke dienst heeft verricht;
+   - 1°. degene die krachtens de Dienstplichtwet werkelijke dienst heeft verricht;
 
-- 2°. degene die krachtens het Oorlogsvrijwilligersbesluit werkelijke dienst heeft verricht;
+   - 2°. degene die krachtens het Oorlogsvrijwilligersbesluit werkelijke dienst heeft verricht;
 
-- 3°. degene die krachtens de Surinaamse Schutterijverordening 1941, dan wel krachtens de Antilliaanse Schutterij-landsverordening 1940 werkelijke dienst heeft verricht; of
+   - 3°. degene die krachtens de Surinaamse Schutterijverordening 1941, dan wel krachtens de Antilliaanse Schutterij-landsverordening 1940 werkelijke dienst heeft verricht; of
 
-- 4°. degene die onder de vlag van het Koninkrijk der Nederlanden als dienst- of reserveplichtige bij het Koninklijk Nederlands-Indisch Leger/Koninklijk Nederlands-Indonesisch Leger (KNIL), dan wel krachtens het Dienstplichtbesluit voor Nederlands-Indië werkelijke dienst heeft verricht, tijdens die vervulling Nederlander was of in die periode geen Nederlander was maar thans op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) bij de toepassing van de Nederlandse wetgeving als Nederlander wordt behandeld, en die na afloop van zijn werkelijke dienst naar Nederland is vertrokken of teruggekeerd dan wel door de zorg van de Nederlandse regering is overgebracht naar Nederland.
+   - 4°. degene die onder de vlag van het Koninkrijk der Nederlanden als dienst- of reserveplichtige bij het Koninklijk Nederlands-Indisch Leger/Koninklijk Nederlands-Indonesisch Leger (KNIL), dan wel krachtens het Dienstplichtbesluit voor Nederlands-Indië werkelijke dienst heeft verricht, tijdens die vervulling Nederlander was of in die periode geen Nederlander was maar thans op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) bij de toepassing van de Nederlandse wetgeving als Nederlander wordt behandeld, en die na afloop van zijn werkelijke dienst naar Nederland is vertrokken of teruggekeerd dan wel door de zorg van de Nederlandse regering is overgebracht naar Nederland.
 
 - b. werkelijke dienst:
 
-- 1°. de door de militair bij de Nederlandse krijgsmacht in de periode van 1 januari 1938 tot en met 31 december 1962 verrichte militaire dienst krachtens de Dienstplichtwet;
+   - 1°. de door de militair bij de Nederlandse krijgsmacht in de periode van 1 januari 1938 tot en met 31 december 1962 verrichte militaire dienst krachtens de Dienstplichtwet;
 
-- 2°. de door de militair bij de Nederlandse krijgsmacht in de periode van 1 januari 1938 tot en met 31 december 1962 verrichte militaire dienst krachtens het Oorlogsvrijwilligersbesluit;
+   - 2°. de door de militair bij de Nederlandse krijgsmacht in de periode van 1 januari 1938 tot en met 31 december 1962 verrichte militaire dienst krachtens het Oorlogsvrijwilligersbesluit;
 
-- 3°. de door de militair in de periode van 1 januari 1938 tot en met 31 december 1962 krachtens de Surinaamse Schutterijverordening 1941 dan wel krachtens de Antilliaanse Schutterij-landsverordening 1940 verrichte militaire dienst; of
+   - 3°. de door de militair in de periode van 1 januari 1938 tot en met 31 december 1962 krachtens de Surinaamse Schutterijverordening 1941 dan wel krachtens de Antilliaanse Schutterij-landsverordening 1940 verrichte militaire dienst; of
 
-- 4°. de door de militair vóór 26 juli 1950 bij het KNIL verrichte militaire dienst krachtens het Dienstplichtbesluit voor Nederlandsch-Indië en de daarop berustende uitvoeringsregelingen;
+   - 4°. de door de militair vóór 26 juli 1950 bij het KNIL verrichte militaire dienst krachtens het Dienstplichtbesluit voor Nederlandsch-Indië en de daarop berustende uitvoeringsregelingen;
 
-- 5°. de tijd doorgebracht in hechtenis en tijd van ongeoorloofde afwezigheid wordt niet meegeteld bij de berekening van de werkelijke dienst;
+   - 5°. de tijd doorgebracht in hechtenis en tijd van ongeoorloofde afwezigheid wordt niet meegeteld bij de berekening van de werkelijke dienst;
 
 - c. weduwe: degene die Onder weduwe wordt mede verstaan de weduwnaar van de vrouwelijke militair.
 
-- 1°. met de militair was gehuwd en die in Nederland, Suriname of de Nederlandse Antillen woonde, dan wel naar Nederland is vertrokken of teruggekeerd dan wel door de zorg van de Nederlandse regering is overgebracht naar Nederland, dan wel
+   - 1°. met de militair was gehuwd en die in Nederland, Suriname of de Nederlandse Antillen woonde, dan wel naar Nederland is vertrokken of teruggekeerd dan wel door de zorg van de Nederlandse regering is overgebracht naar Nederland, dan wel
 
-- 2°. gehuwd was met een militair die is overleden in het tijdvak ingaande 1 januari 1996 en eindigend op de dag na plaatsing van deze wet in het Staatsblad.
+   - 2°. gehuwd was met een militair die is overleden in het tijdvak ingaande 1 januari 1996 en eindigend op de dag na plaatsing van deze wet in het Staatsblad.
 
 ##### Artikel 2
 
@@ -110,7 +80,7 @@ De uitkering blijft buiten beschouwing bij de verlening van op het inkomen afges
 
 ##### Artikel 8
 
-Wijzigt de Algemene bijstandswet.
+*Wijzigt de Algemene bijstandswet.*
 
 ##### Artikel 9
 
@@ -119,5 +89,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel 10
 
 Deze wet wordt aangehaald als: Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

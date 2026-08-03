@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 19 november 1997, houdende vaststelling van het Reglement voor de binnenvisserij 1985"
+citeertitel: "Reglement voor de binnenvisserij 1985"
 identifier: "BWBR0009027"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009027"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "2052663"
-version_id: "19657212"
-internal_id: "C27582511"
-label_id: "2000884"
-dtd_version: "2.0"
-original_entry_into_force: "2012-09-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009027/2019-07-01/0"
-intitule_bron: "Stb.1997-639"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-11-19"
-intitule_published: "1997-12-16"
-intitule_in_force: "1997-12-16"
-intitule_status: "goed"
-original_publication: "Stb.2012-439"
-original_signed_date: "2012-09-22"
-original_published_date: "2012-09-28"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2012-439"
-entry_into_force_date: "2012-09-22"
-jci_1_3: "jci1.3:c:BWBR0009027&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0009027&g=2019-07-01"
-citeertitel_status: "officieel"
-short_title: "Reglement voor de binnenvisserij 1985"
-signed_date: "2012-09-22"
-entry_into_force: "2012-09-22"
+publicatiedatum: 2012-09-22
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0009027"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 19 november 1997, houdende vaststelling van het Reglement voor de binnenvisserij 1985
-
-Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij, van 23 juli 1997, no. J. 977964, Directie Juridische Zaken;
-
-Gelet op [artikel 16 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=16);
-
-De Raad van State gehoord (advies van 12 augustus 1997, no. W11.97.0503);
-
-Gezien het nader rapport van Onze Minister van Landbouw, Natuurbeheer en Visserij van 11 november 1997, No. J. 9712264, Directie Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -214,6 +182,12 @@ Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis
 
 - e. voor het vissen in de Rijn, de Maas, de IJssel en alle andere stromende wateren die met deze wateren in open verbinding staan en daarvan water afvoeren.
 
+##### Artikel 7a
+
+1. Het is verboden te vissen met de vistuigen genoemd in [artikel 2, eerste lid, onderdelen c tot en met q](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2019-07-01&g=2019-07-01), tenzij dat vissen plaatsvindt in het IJsselmeer.
+
+2. Het verbod is niet van toepassing op de visrechthebbende en de houder van een schriftelijke toestemming, als bedoeld in [artikel 21, tweede lid, onderdeel a, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=21), die beroepsmatig de visserij uitoefent en voldoet aan bij ministeriële regeling gestelde voorwaarden.
+
 ##### Artikel 8
 
 1. Het is verboden te vissen in het IJsselmeer zonder voorzien te zijn van een vergunning van Onze Minister geldende voor de visserij, welke wordt uitgeoefend.
@@ -256,6 +230,18 @@ Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis
 
 3. Het is verboden op het IJsselmeer, anders dan in een haven, vistuig aan boord van een vissersvaartuig als bedoeld in [artikel 1, onderdeel b, van het Besluit registratie vissersvaartuigen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=1) te hebben, indien het gebruik daarvan, ingevolge het bij of krachtens dit besluit bepaalde, verboden is.
 
+##### Artikel 10a
+
+1. Een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, aan- of verkoopt of onder zich houdt, of die bemiddeling verleent bij het veilen van die vis, is verplicht een administratie te voeren en aan Onze Minister periodiek of op verzoek opgave te doen van de hoeveelheden vis door hem aangevoerd, aan- of verkocht, onder zich gehouden, dan wel aan hem ter veiling aangeboden.
+
+2. In aanvulling op het eerste lid, is een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, tevens verplicht een administratie te voeren en aan Onze Minister periodiek of op verzoek opgave te doen van andere bij ministeriële regeling aangewezen gegevens betreffende visserij-inspanning, dan wel andere gegevens die van belang kunnen zijn voor het bepalen van de visstand in het IJsselmeer.
+
+3. Onze Minister stelt nadere regels ten aanzien van de eisen waaraan de in het eerste lid bedoelde administratie dient te voldoen en de wijze waarop de in dat lid bedoelde opgave dient te geschieden, en kan voorschriften geven in het belang van de naleving van deze regels.
+
+##### Artikel 10b
+
+In het belang van de visserij is Onze Minister bevoegd regelen te stellen ter uitvoering van op grond van internationale overeenkomsten of van besluiten van volkenrechtelijke organisaties opgelegde verplichtingen of verleende bevoegdheden.
+
 ##### Artikel 11
 
 Onze Minister kan vrijstelling of ontheffing verlenen van de bepalingen bij of krachtens dit besluit.
@@ -278,38 +264,12 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ##### Artikel 16
 
-Dit besluit wordt aangehaald als: Reglement voor de binnenvisserij 1985.
+Dit besluit wordt aangehaald als: [Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/BWBR0009027).
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10a
-
-1. Een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, aan- of verkoopt of onder zich houdt, of die bemiddeling verleent bij het veilen van die vis, is verplicht een administratie te voeren en aan Onze Minister periodiek of op verzoek opgave te doen van de hoeveelheden vis door hem aangevoerd, aan- of verkocht, onder zich gehouden, dan wel aan hem ter veiling aangeboden.
-
-2. In aanvulling op het eerste lid, is een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, tevens verplicht een administratie te voeren en aan Onze Minister periodiek of op verzoek opgave te doen van andere bij ministeriële regeling aangewezen gegevens betreffende visserij-inspanning, dan wel andere gegevens die van belang kunnen zijn voor het bepalen van de visstand in het IJsselmeer.
-
-3. Onze Minister stelt nadere regels ten aanzien van de eisen waaraan de in het eerste lid bedoelde administratie dient te voldoen en de wijze waarop de in dat lid bedoelde opgave dient te geschieden, en kan voorschriften geven in het belang van de naleving van deze regels.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10b
-
-In het belang van de visserij is Onze Minister bevoegd regelen te stellen ter uitvoering van op grond van internationale overeenkomsten of van besluiten van volkenrechtelijke organisaties opgelegde verplichtingen of verleende bevoegdheden.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a
-
-1. Het is verboden te vissen met de vistuigen genoemd in [artikel 2, eerste lid, onderdelen c tot en met q](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2019-07-01&g=2019-07-01), tenzij dat vissen plaatsvindt in het IJsselmeer.
-
-2. Het verbod is niet van toepassing op de visrechthebbende en de houder van een schriftelijke toestemming, als bedoeld in [artikel 21, tweede lid, onderdeel a, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=21), die beroepsmatig de visserij uitoefent en voldoet aan bij ministeriële regeling gestelde voorwaarden.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+*Vervallen*

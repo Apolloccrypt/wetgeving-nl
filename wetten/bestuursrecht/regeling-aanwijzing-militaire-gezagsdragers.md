@@ -1,43 +1,18 @@
 ---
 title: "Regeling, houdende aanwijzing militaire gezagsdragers en vaststelling hiërarchische verhoudingen met betrekking tot de uitoefening van buitengewone bevoegdheden"
+citeertitel: "Regeling aanwijzing militaire gezagsdragers"
 identifier: "BWBR0008873"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-07-23"
-last_updated: "2006-07-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008873"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4861633"
-version_id: "7791732"
-internal_id: "C9508021"
-label_id: "4839624"
-dtd_version: "2.0"
-original_entry_into_force: "1997-08-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008873/2006-07-23/0"
-intitule_bron: "Stcrt.1997-161"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-08-20"
-intitule_published: "1997-08-25"
-intitule_in_force: "1997-08-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-161"
-original_signed_date: "1997-08-20"
-original_published_date: "1997-08-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-08-27"
-jci_1_3: "jci1.3:c:BWBR0008873&z=2006-07-23&g=2006-07-23"
-jci_1_0: "1.0:c:BWBR0008873&g=2006-07-23"
-citeertitel_status: "officieel"
-short_title: "Regeling aanwijzing militaire gezagsdragers"
-signed_date: "1997-08-20"
-entry_into_force: "1997-08-27"
+publicatiedatum: 1997-08-27
+laatste_update: 2006-07-23
+status: geldig
+toestand: 2006-07-23
+bron: "https://wetten.overheid.nl/BWBR0008873"
+opgehaald: 2026-08-03
 ---
+
 # Regeling, houdende aanwijzing militaire gezagsdragers en vaststelling hiërarchische verhoudingen met betrekking tot de uitoefening van buitengewone bevoegdheden
-
-Gelet op [artikel 4 van de Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&artikel=4);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -75,15 +50,15 @@ De gezagsgebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BW
 
 - e. voor wat betreft de Commandant Zeestrijdkrachten:
 
-- 1°. de territoriale wateren, de zeegaten, het IJsselmeer, het Markermeer en de Waddenzee;
+   - 1°. de territoriale wateren, de zeegaten, het IJsselmeer, het Markermeer en de Waddenzee;
 
-- 2°. de haven en rede van Den Helder, alsmede de gemeenten Den Helder, Texel, Eemsmond en Delfzijl;
+   - 2°. de haven en rede van Den Helder, alsmede de gemeenten Den Helder, Texel, Eemsmond en Delfzijl;
 
-- 3°. het Noordzeekanaal met de daaraan gelegen havens, alsmede de gemeenten Amsterdam, Eemnes, Weesp, Zaanstad, Velsen en Bloemendaal;
+   - 3°. het Noordzeekanaal met de daaraan gelegen havens, alsmede de gemeenten Amsterdam, Eemnes, Weesp, Zaanstad, Velsen en Bloemendaal;
 
-- 4°. de waterwegen van Dordrecht tot en met Hoek van Holland met de daaraan gelegen havens, alsmede de gemeenten Dordrecht, Rotterdam met inbegrip van Hoek van Holland, Schiedam, Vlaardingen, Maassluis, Rozenburg, Hellevoetsluis, Goedereede, Wassenaar, Katwijk, Noordwijk en Doorn;
+   - 4°. de waterwegen van Dordrecht tot en met Hoek van Holland met de daaraan gelegen havens, alsmede de gemeenten Dordrecht, Rotterdam met inbegrip van Hoek van Holland, Schiedam, Vlaardingen, Maassluis, Rozenburg, Hellevoetsluis, Goedereede, Wassenaar, Katwijk, Noordwijk en Doorn;
 
-- 5°. de haven en rede van Vlissingen, de gemeenten Vlissingen, Borsele, Kapelle, Reimerswaal en Terneuzen, alsmede de plaatsen Oostburg, Valkenisse, Westkapelle en Hontenisse.
+   - 5°. de haven en rede van Vlissingen, de gemeenten Vlissingen, Borsele, Kapelle, Reimerswaal en Terneuzen, alsmede de plaatsen Oostburg, Valkenisse, Westkapelle en Hontenisse.
 
 ##### Artikel 5
 
@@ -92,5 +67,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing militaire gezagsdragers.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

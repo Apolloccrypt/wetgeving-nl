@@ -1,40 +1,17 @@
 ---
 title: "Finse uitvoeringsvoorschriften belastingverdrag Nederland-Finland 1995"
 identifier: "BWBR0009169"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-01-01"
-last_updated: "1998-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009169"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4275493"
-version_id: "6039102"
-internal_id: "C6242501"
-label_id: "4254074"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009169/1998-01-01/0"
-intitule_bron: "Stcrt.1997-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-16"
-intitule_published: "1997-12-30"
-intitule_in_force: "1997-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-250"
-original_signed_date: "1997-12-16"
-original_published_date: "1997-12-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0009169&z=1998-01-01&g=1998-01-01"
-jci_1_0: "1.0:c:BWBR0009169&g=1998-01-01"
-citeertitel_status: "officieel"
-signed_date: "1997-12-16"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 1998-01-01
+status: geldig
+toestand: 1998-01-01
+bron: "https://wetten.overheid.nl/BWBR0009169"
+opgehaald: 2026-08-03
 ---
-# Finse uitvoeringsvoorschriften belastingverdrag Nederland-Finland 1995
 
-Besluit:
+# Finse uitvoeringsvoorschriften belastingverdrag Nederland-Finland 1995
 
 ### Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
@@ -54,11 +31,11 @@ Aan het op 28 december 1995 tussen Nederland en Finland gesloten Verdrag tot het
 
 - f. algehele vrijstelling van Finse belasting op royalty’s, afkomstig uit Finland en betaald aan een inwoner van Nederland die de uiteindelijk gerechtigde daarvan is (artikel 12, eerste lid). De uitdrukking ’royalty’s’, zoals gebezigd in deze bepaling, betekent vergoedingen van welke aard ook ontvangen als vergoeding:
 
-- 1). voor het gebruik van, of het recht van gebruik van, een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap, daaronder begrepen bioscoopfilms, en films of beeld- en geluidsbanden voor radio- of televisie-uitzendingen;
+   - 1) voor het gebruik van, of het recht van gebruik van, een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap, daaronder begrepen bioscoopfilms, en films of beeld- en geluidsbanden voor radio- of televisie-uitzendingen;
 
-- 2). voor het gebruik van, of het recht van gebruik van, een octrooi, een fabrieks- of handelsmerk, een tekening of model, een plan, een geheim recept of een geheime werkwijze;
+   - 2) voor het gebruik van, of het recht van gebruik van, een octrooi, een fabrieks- of handelsmerk, een tekening of model, een plan, een geheim recept of een geheime werkwijze;
 
-- 3). voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap (artikel 12, tweede lid).
+   - 3) voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap (artikel 12, tweede lid).
 
 De onder a tot en met f bedoelde vermindering en vrijstellingen zijn niet van toepassing, indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty’s in Finland een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Finland zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty’s worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, achtste lid, respectievelijk artikel 11, derde lid, en artikel 12, derde lid).
 
@@ -70,19 +47,19 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009169&a
 
 - 2. Wijze waarop de vermindering of vrijstelling met betrekking tot dividenden, interest en royalty's wordt verleend Als algemene regel geldt dat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009169&artikel=1&z=1998-01-01&g=1998-01-01) vermelde vermindering en vrijstellingen in Finland bij de bron worden verleend. Voor het verkrijgen van de vermindering of vrijstelling is van Finse zijde geen formulier vastgesteld. De Finse betaler van de dividenden, interest en royalty’s mag deze inkomsten uitbetalen zonder inhouding van Finse belasting of onder inhouding van het volgens het Verdrag verlaagde tarief van de Finse belasting. De in Nederland wonende gerechtigde van vorenbedoelde inkomsten dient echter, teneinde de Finse betaler in staat te stellen de jaarlijkse verklaring inzake die inkomsten aan de Finse belastingautoriteiten te kunnen doen, aan de Finse betaler van de inkomsten te verstrekken:
 
-- a. in het geval van een natuurlijke persoon: de naam, de geboortedatum, het adres, de woonplaats en het SoFi-nummer;
+   - a. in het geval van een natuurlijke persoon: de naam, de geboortedatum, het adres, de woonplaats en het SoFi-nummer;
 
-- b. in het geval van een lichaam: de naam, het adres, de vestigingsplaats en het entiteitsnummer.
+   - b. in het geval van een lichaam: de naam, het adres, de vestigingsplaats en het entiteitsnummer.
 
 - 3. Verzoek om teruggaaf vande te veel ingehouden belasting Indien de in Nederland wonende gerechtigde tot de dividenden, interest en royalty’s niet vóór de uitbetaling van deze inkomsten aan de betaler daarvan de onder 2a of 2b vermelde gegevens heeft verstrekt, waardoor op de inkomsten Finse belasting naar het volle tarief is ingehouden, kan belanghebbende de te veel ingehouden belasting terugvragen. Het verzoek om teruggaaf moet door de belanghebbende inwoner van Nederland worden gezonden aan: Uudenmaan lääninverovirasto PL 6, 00052 VEROTUS Finland De vorm waarin het verzoek om teruggaaf moet worden gedaan is vrij. Wel dient de belanghebbende inwoner van Nederland aan voornoemde Finse belastingautoriteit te verstrekken: Bij het verzoek om teruggaaf moet de belanghebbende inwoner van Nederland voegen een bewijsstuk, waaruit blijken:
 
-- a. in het geval van een natuurlijke persoon: de naam, de geboortedatum, het adres, de woonplaats en het SoFi-nummer;
+   - a. in het geval van een natuurlijke persoon: de naam, de geboortedatum, het adres, de woonplaats en het SoFi-nummer;
 
-- b. in het geval van een lichaam: de naam, het adres, de vestigingsplaats en het entiteitsnummer.
+   - b. in het geval van een lichaam: de naam, het adres, de vestigingsplaats en het entiteitsnummer.
 
-- het bruto bedrag van de dividenden, interest en royalty’s;
+   - het bruto bedrag van de dividenden, interest en royalty’s;
 
-- het bedrag van de ingehouden Finse belasting.
+   - het bedrag van de ingehouden Finse belasting.
 
 - 4. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf van belasting moeten ingevolge de Finse nationale wetgeving worden ingediend binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is ingehouden.
 

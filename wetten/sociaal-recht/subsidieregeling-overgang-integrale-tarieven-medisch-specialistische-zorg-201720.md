@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-31
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0037303"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-03
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 december 2015, kenmerk 874466-144542-WJZ, houdende regels voor een subsidie voor het faciliteren van medisch specialisten bij de overgang naar integrale tarieven voor medisch specialistische zorg en kaakchirurgie (Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2016)

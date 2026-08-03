@@ -1,44 +1,17 @@
 ---
 title: "Vaststelling selectielijst grondprijsbeleid"
 identifier: "BWBR0009446"
-country: "nl"
-rank: "archiefselectielijst"
-publication_date: "1998-03-18"
-last_updated: "1998-03-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009446"
+categorie: "Overig"
 soort: "ministeriele-regeling-archiefselectielijst"
-stam_id: "4604763"
-version_id: "6420982"
-internal_id: "C25308721"
-label_id: "4583054"
-dtd_version: "2.0"
-original_entry_into_force: "1998-03-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009446/1998-03-18/0"
-intitule_bron: "Stcrt.1998-51"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-03-04"
-intitule_published: "1998-03-16"
-intitule_in_force: "1998-03-16"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-51"
-original_signed_date: "1998-03-04"
-original_published_date: "1998-03-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-03-18"
-jci_1_3: "jci1.3:c:BWBR0009446&z=1998-03-18&g=1998-03-18"
-jci_1_0: "1.0:c:BWBR0009446&g=1998-03-18"
-citeertitel_status: "officieel"
-signed_date: "1998-03-04"
-entry_into_force: "1998-03-18"
+publicatiedatum: 1998-03-18
+laatste_update: 1998-03-18
+status: geldig
+toestand: 1998-03-18
+bron: "https://wetten.overheid.nl/BWBR0009446"
+opgehaald: 2026-08-03
 ---
+
 # Vaststelling selectielijst grondprijsbeleid
-
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
-
-De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 1 september 1997, nr. arc-97.6796/1);
-
-Besluiten:
 
 ##### Artikel 1
 

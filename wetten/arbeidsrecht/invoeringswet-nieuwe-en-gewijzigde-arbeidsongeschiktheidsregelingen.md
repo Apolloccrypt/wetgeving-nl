@@ -1,48 +1,18 @@
 ---
 title: "Wet van 24 april 1997, houdende overgangs- en invoeringsrecht voor de totstandkoming van de Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen, de Wet arbeidsongeschiktheidsverzekering zelfstandigen en de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen)"
+citeertitel: "Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen"
 identifier: "BWBR0008658"
-country: "nl"
-rank: "wet"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008658"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "2759003"
-version_id: "4224802"
-internal_id: "C4224801"
-label_id: "2706574"
-dtd_version: "2.0"
-original_entry_into_force: "1997-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008658/2021-01-01/0"
-intitule_bron: "Stb.1997-178"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-04-24"
-intitule_published: "1997-04-29"
-intitule_in_force: "1997-04-29"
-intitule_status: "goed"
-original_publication: "Stb.1997-178"
-original_signed_date: "1997-04-24"
-original_published_date: "1997-04-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "24776"
-original_url_id: "stb-1997-178"
-entry_into_force_date: "1997-05-01"
-entry_into_force_dossier: "24776"
-jci_1_3: "jci1.3:c:BWBR0008658&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0008658&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen"
-signed_date: "1997-04-24"
-entry_into_force: "1997-05-01"
+publicatiedatum: 1997-05-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0008658"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 24 april 1997, houdende overgangs- en invoeringsrecht voor de totstandkoming van de Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen, de Wet arbeidsongeschiktheidsverzekering zelfstandigen en de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de invoering van de [Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008655), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) en de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) te regelen, de Algemene Arbeidsongeschiktheidswet in te trekken en in verband daarmee enige wetten te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### HOOFDSTUK 1. ALGEMEEN
 
@@ -84,7 +54,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 [Titel 4.2. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) is niet van toepassing op aanspraken uit hoofde van de in [artikel II, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=1&artikel=II&z=2021-01-01&g=2021-01-01), genoemde artikelen.
 
-### HOOFDSTUK 2. OVERGANGS- EN INVOERINGSBEPALINGEN MET BETREKKING TOT DE [WET OP DE ARBEIDSONGESCHIKTHEIDSVERZEKERING](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), DE [ZIEKTEWET](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) EN DE [WERKLOOSHEIDSWET](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+### HOOFDSTUK 2. OVERGANGS- EN INVOERINGSBEPALINGEN MET BETREKKING TOT DE WET OP DE ARBEIDSONGESCHIKTHEIDSVERZEKERING, DE ZIEKTEWET EN DE WERKLOOSHEIDSWET
 
 ##### ARTIKEL IV. INVOERINGSBEPALING INZAKE ARTIKEL 82 WAO/64 ZW
 
@@ -122,7 +92,7 @@ De algemene maatregel van bestuur, op grond van [artikel 52 van de Wet op de arb
 
 ##### ARTIKEL VII. SAMENLOOP AAW- EN WAO-UITKERING VRIJWILLIG VERZEKERDEN
 
-[Artikel 84**a** van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=84a), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, blijft van toepassing op de persoon, bedoeld in [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=3&paragraaf=1&artikel=XII&z=2021-01-01&g=2021-01-01), ten aanzien van wie de Algemene Arbeidsongeschiktheidswet op grond van [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=3&paragraaf=1&artikel=XIII&z=2021-01-01&g=2021-01-01) van toepassing blijft, met dien verstande dat in [artikel 84**a** van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=84a) in plaats van «Algemene Arbeidsongeschiktheidswet» wordt gelezen: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656).
+[Artikel 84*a* van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=84a), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, blijft van toepassing op de persoon, bedoeld in [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=3&paragraaf=1&artikel=XII&z=2021-01-01&g=2021-01-01), ten aanzien van wie de Algemene Arbeidsongeschiktheidswet op grond van [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=3&paragraaf=1&artikel=XIII&z=2021-01-01&g=2021-01-01) van toepassing blijft, met dien verstande dat in [artikel 84*a* van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=84a) in plaats van «Algemene Arbeidsongeschiktheidswet» wordt gelezen: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656).
 
 ##### ARTIKEL VIII. OVERGANG VERMOGENSBESTANDDELEN AAF EN FAOP
 
@@ -134,15 +104,33 @@ De algemene maatregel van bestuur, op grond van [artikel 52 van de Wet op de arb
 
 De op basis van artikel 8, derde lid, van de Algemene Arbeidsongeschiktheidswet bij het Uitvoeringsinstituut werknemersverzekeringen ingediende declaraties die op de datum van inwerkingtreding van deze wet nog niet zijn afgehandeld worden met ingang van die datum afgehandeld door het Uitvoeringsinstituut werknemersverzekeringen ten laste van het Algemeen Arbeidsongeschiktheidsfonds.
 
-##### ARTIKEL X. OVERGANGSBEPALING INZAKE [ARTIKEL 17 WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=17)
+##### ARTIKEL IXA. OVERGANGSRECHT AAW EN WAO
+
+1. In dit artikel wordt verstaan onder arbeidsongeschiktheidsuitkering: een uitkering op grond van de Algemene Arbeidsongeschiktheidswet of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of beide wetten.
+
+2. De artikelen 5, 12, tweede tot en met vierde lid, en 23, van de Algemene Arbeidsongeschiktheidswet en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), [21, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21), en [32 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=32), zoals die artikelen luidden op de dag, voorafgaande aan die waarop de wet van 6 november 1986, houdende nadere wijziging van de Algemene Arbeidsongeschiktheidswet en de Wet op de arbeidsongeschiktheidsverzekering (nadere regeling in verband met verminderde gelegenheid tot het verkrijgen van arbeid) in werking is getreden, blijven van toepassing op de persoon die op die dag recht had op een arbeidsongeschiktheidsuitkering en op die dag de leeftijd van 35 jaar heeft bereikt.
+
+3. De artikelen 5, 12, tweede tot en met vierde lid, en 23 van de Algemene Arbeidsongeschiktheidswet, zoals die artikelen luidden op de dag, voorafgaande aan die, waarop de wet van 6 november 1986, houdende nadere wijziging van de Algemene Arbeidsongeschiktheidswet en de Wet op de arbeidsongeschiktheidsverzekering (nadere regeling in verband met verminderde gelegenheid tot het verkrijgen van arbeid) in werking is getreden, blijven van toepassing op de persoon, die op die dag recht had op een arbeidsongeschiktheidsuitkering op grond van artikel 6, eerste lid, onderdeel b, van die wet.
+
+4. Vanaf de datum dat de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072) (Stb. 1993, 412) in werking is getreden vinden de voorgaande leden nog slechts toepassing met betrekking tot personen die op die datum de leeftijd van 45 jaar hebben bereikt.
+
+5. De uitkeringsgerechtigde op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), die zowel op 31 december 1986, als op 1 januari 1987, recht had op een uitkering op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), berekend naar een arbeidsongeschiktheid van 55 tot 65% of 65 tot 80%, heeft, zolang hij in dezelfde arbeidsongeschiktheidsklasse blijft ingedeeld, in afwijking [artikel 21, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21), recht op een uitkering die per dag, de zaterdagen en de zondagen niet meegerekend, bedraagt bij een arbeidsongeschiktheid van:
+
+- 55–65%: 44% van 100/108 maal het dagloon of het vervolgdagloon
+
+- 65–80%: 57% van 100/108 maal het dagloon of het vervolgdagloon.
+
+6. Voor de toepassing van het vijfde lid wordt te rekenen vanaf 30 januari 1986 een herziening van een uitkering als bedoeld in [artikel 38 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=38) geacht niet te hebben plaatsgevonden, indien de uitkeringsgerechtigde binnen 48 weken na de herziening weer wordt ingedeeld in dezelfde arbeidsongeschiktheidsklasse als voor die herziening.
+
+##### ARTIKEL X. OVERGANGSBEPALING INZAKE ARTIKEL 17 WAJONG
 
 1. [Artikel 17, eerste lid, onderdeel c, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=17) is niet van toepassing ten aanzien van de jonggehandicapte die op de dag vóór de inwerkingtreding van deze wet recht had op arbeidsongeschiktheidsuitkering op grond van de Algemene Arbeidsongeschiktheidswet en niet in Nederland woonde, zolang laatstgenoemde omstandigheid voortduurt.
 
-2. Het eerste lid is eveneens van toepassing ten aanzien van de in dat lid genoemde jonggehandicapte die na de inwerkingtreding van deze wet, maar voor 1 januari 2003, in Nederland is gaan wonen en vervolgens weer niet in Nederland is gaan wonen, zolang laatstgenoemde omstandigheid voorduurt.
+2. Het eerste lid is eveneens van toepassing ten aanzien van de in dat lid genoemde jonggehandicapte die na de inwerkingtreding van deze wet, maar voor 1 januari 2003, in Nederland is gaan wonen en vervolgens weer niet in Nederland is gaan wonen, zolang laatstgenoemde omstandigheid voorduurt.
 
 ##### ARTIKEL XI. OVERGANGSBEPALING INZAKE ARTIKEL 29B ZW
 
-Voor de toepassing van [artikel 29**b**, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b), zoals dit artikellid luidt na inwerkingtreding van deze wet, wordt een uitkering op grond van de Algemene Arbeidsongeschiktheidswet of de wachttijd van 52 weken, bedoeld in artikel 6 van de Algemene Arbeidsongeschiktheidswet, genoten of doorgemaakt voor de dag van inwerkingtreding van deze wet, aangemerkt als uitkering of wachttijd als bedoeld in een wet, genoemd in [artikel 29**b**, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b).
+Voor de toepassing van [artikel 29*b*, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b), zoals dit artikellid luidt na inwerkingtreding van deze wet, wordt een uitkering op grond van de Algemene Arbeidsongeschiktheidswet of de wachttijd van 52 weken, bedoeld in artikel 6 van de Algemene Arbeidsongeschiktheidswet, genoten of doorgemaakt voor de dag van inwerkingtreding van deze wet, aangemerkt als uitkering of wachttijd als bedoeld in een wet, genoemd in [artikel 29*b*, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b).
 
 ##### ARTIKEL XIA. OVERGANGSBEPALING INZAKE ARTIKEL 90 WAO
 
@@ -172,7 +160,7 @@ Voor de toepassing van [artikel 29**b**, eerste lid, van de Ziektewet](https://w
 
 - b. die op de dag voorafgaand aan de inwerkingtreding van deze wet recht had op een arbeidsongeschiktheidsuitkering op grond van de Algemene Arbeidsongeschiktheidswet, met betrekking tot dat recht;
 
-- c. vervallen;
+- c. *vervallen;*
 
 - d. die op de dag voorafgaand aan de inwerkingtreding van deze wet geen recht op arbeidsongeschiktheidsuitkering op grond van de Algemene Arbeidsongeschiktheidswet had, doch met toepassing van artikel 32a, 37 of 38 van die wet in aanmerking zou komen voor toekenning of heropening van de arbeidsongeschiktheidsuitkering, met betrekking tot die arbeidsongeschiktheidsuitkering;
 
@@ -210,7 +198,7 @@ Voor de toepassing van [artikel 29**b**, eerste lid, van de Ziektewet](https://w
 
 - a. de artikelen 5, 12, tweede tot en met vierde lid, en 23, van de Algemene Arbeidsongeschiktheidswet, zoals die artikelen luidden op 31 december 1986, van toepassing, indien hij op die dag recht had op een arbeidsongeschiktheidsuitkering en op 1 augustus 1993 de leeftijd van 45 jaar heeft bereikt;
 
-- b. indien onderdeel **a** niet van toepassing is, artikel 5 van de Algemene Arbeidsongeschiktheidswet, zoals dat artikel luidde op 31 juli 1993, van toepassing, indien hij op die dag recht had op een arbeidsongeschiktheidsuitkering en op 1 augustus 1993 de leeftijd van 45 jaar heeft bereikt;
+- b. indien onderdeel *a* niet van toepassing is, artikel 5 van de Algemene Arbeidsongeschiktheidswet, zoals dat artikel luidde op 31 juli 1993, van toepassing, indien hij op die dag recht had op een arbeidsongeschiktheidsuitkering en op 1 augustus 1993 de leeftijd van 45 jaar heeft bereikt;
 
 - c. de artikelen 24 en 26 van de Algemene Arbeidsongeschiktheidswet, zoals die artikelen luidden op 31 juli 1993, van toepassing, indien hij op die dag recht had op een arbeidsongeschiktheidsuitkering en op 1 augustus 1993 de leeftijd van 50 jaar heeft bereikt.
 
@@ -220,17 +208,17 @@ Voor de toepassing van [artikel 29**b**, eerste lid, van de Ziektewet](https://w
 
 ##### Artikel XV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XVI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XVII
 
-Vervallen
+*Vervallen*
 
-#### § 4. Uitkeringsrecht in verband met bevalling op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+#### § 4. Uitkeringsrecht in verband met bevalling op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
 ##### ARTIKEL XVIII. TOEPASSELIJKHEID WAZ TEN AANZIEN VAN BEVALLINGSUITKERING
 
@@ -240,7 +228,7 @@ De vrouw die verzekerd is op grond van de [Wet arbeidsongeschiktheidsverzekering
 
 Ten aanzien van de vrouw die vanaf de dag van inwerkingtreding van deze wet op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) is verzekerd en wier bevalling blijkens een verklaring van een arts of verloskundige binnen drie maanden na de dag van inwerkingtreding van deze wet is te verwachten blijft [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=34) buiten toepassing.
 
-#### § 5. Overige invoerings- en overgangsbepalingen met betrekking tot de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+#### § 5. Overige invoerings- en overgangsbepalingen met betrekking tot de Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
 ##### ARTIKEL XX. AAW-UITKERING BASIS VOOR VAKANTIEBIJSLAG
 
@@ -248,13 +236,13 @@ Voor de toepassing van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### ARTIKEL XXI. TOEKENNINGSPERIODE WAZ-UITKERING
 
-Vervallen
+*Vervallen*
 
 ##### ARTIKEL XXII. AAW- EN WAZ-VERZEKERING ÉÉN VERZEKERING
 
 Aaneensluitende verzekeringen op grond van de Algemene Arbeidsongeschiktheidswet en op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) gelden als één verzekering.
 
-### HOOFDSTUK 4. OVERGANGSBEPALINGEN TEN AANZIEN VAN DE WET ARBEIDSONGESCHIKTHEIDSVOORZIENING JONGGEHANDICAPTEN
+### Hoofdstuk 4. Overgangsbepalingen ten aanzien van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 
 #### § 1. Overgangsrecht met betrekking tot bestaande rechten op arbeidsongeschiktheidsuitkering
 
@@ -278,7 +266,7 @@ Aaneensluitende verzekeringen op grond van de Algemene Arbeidsongeschiktheidswet
 
 - b. die op de dag voorafgaand aan de inwerkingtreding van deze wet recht had op een arbeidsongeschiktheidsuitkering op grond van de Algemene Arbeidsongeschiktheidswet, met betrekking tot dat recht;
 
-- c. vervallen;
+- c. *vervallen;*
 
 - d. die op de dag voorafgaand aan de inwerkingtreding van deze wet geen recht op arbeidsongeschiktheidsuitkering op grond van de Algemene Arbeidsongeschiktheidswet had, doch met toepassing van artikel 32a, 37 of 38 van die wet in aanmerking zou komen voor toekenning of heropening van de arbeidsongeschiktheidsuitkering, met betrekking tot die arbeidsongeschiktheidsuitkering;
 
@@ -306,7 +294,7 @@ Aaneensluitende verzekeringen op grond van de Algemene Arbeidsongeschiktheidswet
 
 - e. het van toepassing verklaren van bepalingen van de Algemene Arbeidsongeschiktheidswet ten aanzien van bepaalde groepen van personen, anders dan uit het eerste tot en met derde lid voortvloeit.
 
-8. Dit artikel is niet van toepassing, indien de in het eerste lid genoemde persoon de aanvraag van de arbeidsongeschiktheidsuitkering voor het eerst heeft ingediend op of na de datum van inwerkingtreding van artikel II van de wet van 27 mei 2020 tot Wijziging van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en enkele andere wetten in verband met verdere activering van de participatie van jonggehandicapten en het harmoniseren van de verschillende regimes Wajong (Stb. 2020, 173).
+8. Dit artikel is niet van toepassing, indien de in het eerste lid genoemde persoon de aanvraag van de arbeidsongeschiktheidsuitkering voor het eerst heeft ingediend op of na de datum van inwerkingtreding van artikel II van de wet van 27 mei 2020 tot Wijziging van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en enkele andere wetten in verband met verdere activering van de participatie van jonggehandicapten en het harmoniseren van de verschillende regimes Wajong (Stb. 2020, 173).
 
 #### § 2. Overgangsrecht met betrekking tot nieuwe rechten op arbeidsongeschiktheidsuitkering
 
@@ -316,7 +304,7 @@ Aaneensluitende verzekeringen op grond van de Algemene Arbeidsongeschiktheidswet
 
 2. Bij algemene maatregel van bestuur kan worden bepaald dat voor gevallen waarin dit artikel niet voorziet, dan wel toepassing van dit artikel tot onbedoelde consequenties leidt, zonodig in afwijking van het eerste lid, artikelen van de Algemene Arbeidsongeschiktheidswet, zoals die artikelen luidden tot een bij die maatregel te bepalen datum, gelegen voor de datum van inwerkingtreding van deze wet, voor al dan niet bepaalde duur van toepassing blijven op een persoon als bedoeld in het eerste lid.
 
-#### § 3. Overige invoerings- en overgangsbepalingen met betrekking tot de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+#### § 3. Overige invoerings- en overgangsbepalingen met betrekking tot de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 
 ##### ARTIKEL XXVI. AAW-UITKERING BASIS VOOR VAKANTIEBIJSLAG
 
@@ -324,7 +312,7 @@ Voor de toepassing van de [artikelen 3:24](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### ARTIKEL XXVII. TOEKENNINGSPERIODE WAJONG-UITKERING
 
-Vervallen
+*Vervallen*
 
 ##### ARTIKEL XXVIII. AAW-VERZEKERING EN WAJONG ÉÉN VERZEKERING
 
@@ -334,117 +322,117 @@ Aaneensluitende verzekering op grond van de Algemene Arbeidsongeschiktheidswet e
 
 ##### Artikel XXIX
 
-Vervallen
+*Vervallen*
 
 ##### ARTIKEL XXX. COÖRDINATIEWET SOCIALE VERZEKERING
 
-Wijzigt de Coördinatiewet Sociale Verzekering.
+*Wijzigt de Coördinatiewet Sociale Verzekering.*
 
 ##### ARTIKEL XXXI. ALGEMENE ARBEIDSONGESCHIKTHEIDSWET
 
-Wijzigt de Algemene Arbeidsongeschiktheidswet.
+*Wijzigt de Algemene Arbeidsongeschiktheidswet.*
 
 ##### ARTIKEL XXXII. WET OP DE ARBEIDSONGESCHIKTHEIDSVERZEKERING
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
 ##### ARTIKEL XXXIII. WET TERUGDRINGING BEROEP OP DE ARBEIDSONGESCHIKTHEIDSREGELINGEN
 
-Wijzigt de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen.
+*Wijzigt de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen.*
 
 ##### ARTIKEL XXXIV. ZIEKTEWET
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### ARTIKEL XXXV. WERKLOOSHEIDSWET
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
 ##### ARTIKEL XXXVI. WET FINANCIERING VOLKSVERZEKERINGEN
 
-Wijzigt de Wet financiering volksverzekeringen.
+*Wijzigt de Wet financiering volksverzekeringen.*
 
 ##### ARTIKEL XXXVII. TOESLAGENWET
 
-Wijzigt de Toeslagenwet.
+*Wijzigt de Toeslagenwet.*
 
 ##### ARTIKEL XXXVIII. WET INKOMENSVOORZIENING OUDERE EN GEDEELTELIJK ARBEIDSONGESCHIKTE WERKLOZE WERKNEMERS
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.*
 
 ##### ARTIKEL XXXIX. WET INKOMENSVOORZIENING OUDERE EN GEDEELTELIJK ARBEIDSONGESCHIKTE GEWEZEN ZELFSTANDIGEN
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.*
 
 ##### ARTIKEL XL. ALGEMENE BIJSTANDSWET
 
-Wijzigt de Algemene bijstandswet.
+*Wijzigt de Algemene bijstandswet.*
 
 ##### ARTIKEL XLI. WET ARBEID GEHANDICAPTE WERKNEMERS
 
-Wijzigt de Wet arbeid gehandicapte werknemers.
+*Wijzigt de Wet arbeid gehandicapte werknemers.*
 
 ##### ARTIKEL XLII. WET OP DE ONDERNEMINGSRADEN
 
-Wijzigt de Wet op de ondernemingsraden.
+*Wijzigt de Wet op de ondernemingsraden.*
 
 ##### ARTIKEL XLIII. ARBEIDSOMSTANDIGHEDENWET
 
-Wijzigt de Arbeidsomstandighedenwet.
+*Wijzigt de Arbeidsomstandighedenwet.*
 
 ##### ARTIKEL XLIV. ZIEKENFONDSWET
 
-Wijzigt de Ziekenfondswet.
+*Wijzigt de Ziekenfondswet.*
 
 ##### ARTIKEL XLV. WET OP DE TOEGANG TOT ZIEKTEKOSTENVERZEKERINGEN
 
-Wijzigt de Wet op de toegang tot ziektekostenverzekeringen.
+*Wijzigt de Wet op de toegang tot ziektekostenverzekeringen.*
 
 ##### ARTIKEL XLVI. WET OP DE INKOMSTENBELASTING 1964
 
-Wijzigt de Wet op de inkomstenbelasting 1964.
+*Wijzigt de Wet op de inkomstenbelasting 1964.*
 
 ##### Artikel XLVII
 
-Vervallen
+*Vervallen*
 
 ##### ARTIKEL XLVIII. WET PRIVATISERING ABP
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XLIX
 
-Vervallen
+*Vervallen*
 
 ##### Artikel L
 
-Vervallen
+*Vervallen*
 
 ##### Artikel LI
 
-Vervallen
+*Vervallen*
 
 ##### ARTIKEL LII. WET ARBEIDSONGESCHIKTHEIDSVOORZIENING MILITAIREN
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening militairen.
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening militairen.*
 
 ##### ARTIKEL LIII. BURGERLIJK WETBOEK
 
-Wijzigt Boek 7 van het Burgerlijk Wetboek.
+*Wijzigt Boek 7 van het Burgerlijk Wetboek.*
 
 ##### ARTIKEL LIV. WET BRUTERING OVERHEVELINGSTOESLAG LONEN
 
-Wijzigt de Wet brutering overhevelingstoeslag lonen.
+*Wijzigt de Wet brutering overhevelingstoeslag lonen.*
 
 ### HOOFDSTUK 6. OVERGANGS- EN SLOTBEPALINGEN
 
 ##### ARTIKEL LV. WIJZIGINGEN IN VERBAND MET INVOERINGSWET OSV 1997
 
-Wijzigt de Ziektewet, de Algemene Arbeidsongeschiktheidswet, de Wet op de arbeidsongeschiktheidsverzekering en de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen.
+*Wijzigt de Ziektewet, de Algemene Arbeidsongeschiktheidswet, de Wet op de arbeidsongeschiktheidsverzekering en de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen.*
 
 ##### Artikel LVA. OVERGANGSRECHT ARTIKEL 16, TWEEDE LID, ONDERDEEL A, WTZ
 
-Vervallen
+*Vervallen*
 
 ##### ARTIKEL LVI. VAN TOEPASSING BLIJVEND RECHT INZAKE BEZWAAR EN BEROEP
 
@@ -454,9 +442,9 @@ Vervallen
 
 - b. de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- c. de Algemene Arbeidsongeschiktheidswet met uitzondering van de artikelen 57, 57**a** en 58;
+- c. de Algemene Arbeidsongeschiktheidswet met uitzondering van de artikelen 57, 57*a* en 58;
 
-- d. de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) over de toeslag op een uitkering op grond van de in de onderdelen **a** tot en met **c** genoemde wetten;
+- d. de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) over de toeslag op een uitkering op grond van de in de onderdelen *a* tot en met *c* genoemde wetten;
 
 - e. de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072); die zijn bekendgemaakt voor de datum van inwerkingtreding als bedoeld in [artikel LVII, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=6&artikel=LVII&z=2021-01-01&g=2021-01-01), blijven de wettelijke bepalingen van toepassing zoals deze golden voor die datum.
 
@@ -468,7 +456,7 @@ Vervallen
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor verschillende artikelen, onderdelen of subonderdelen verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid treden de [artikelen XXXI](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=5&artikel=XXXI&z=2021-01-01&g=2021-01-01), [XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=5&artikel=XXXIII&z=2021-01-01&g=2021-01-01), [XXXIV, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=5&artikel=XXXIV&z=2021-01-01&g=2021-01-01), [XXXVII onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=5&artikel=XXXVII&z=2021-01-01&g=2021-01-01), [XLVIII, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=5&artikel=XLVIII&z=2021-01-01&g=2021-01-01), [LV](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=6&artikel=LV&z=2021-01-01&g=2021-01-01) en [LVI](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=6&artikel=LVI&z=2021-01-01&g=2021-01-01) in werking met ingang van 1 januari 1997. Indien het **Staatsblad** waarin deze wet wordt geplaatst, dan wel het **Staatsblad** waarin de [Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) wordt geplaatst, wordt uitgegeven na 31 december 1996, treden de in het eerste zin bedoelde artikelen in werking met ingang van de eerste dag van de kalendermaand na zowel de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst als de datum van uitgifte van het **Staatsblad** waarin de [Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) wordt geplaatst.
+2. In afwijking van het eerste lid treden de [artikelen XXXI](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=5&artikel=XXXI&z=2021-01-01&g=2021-01-01), [XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=5&artikel=XXXIII&z=2021-01-01&g=2021-01-01), [XXXIV, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=5&artikel=XXXIV&z=2021-01-01&g=2021-01-01), [XXXVII onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=5&artikel=XXXVII&z=2021-01-01&g=2021-01-01), [XLVIII, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=5&artikel=XLVIII&z=2021-01-01&g=2021-01-01), [LV](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=6&artikel=LV&z=2021-01-01&g=2021-01-01) en [LVI](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&hoofdstuk=6&artikel=LVI&z=2021-01-01&g=2021-01-01) in werking met ingang van 1 januari 1997. Indien het *Staatsblad* waarin deze wet wordt geplaatst, dan wel het *Staatsblad* waarin de [Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) wordt geplaatst, wordt uitgegeven na 31 december 1996, treden de in het eerste zin bedoelde artikelen in werking met ingang van de eerste dag van de kalendermaand na zowel de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst als de datum van uitgifte van het *Staatsblad* waarin de [Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) wordt geplaatst.
 
 3. Indien de datum van inwerkingtreding als bedoeld in het tweede lid is gelegen na 1 januari 1997, is [afdeling 7.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=7.1) tot die datum niet van toepassing op besluiten, die geen betrekking hebben op de verzekeringsplicht of de verschuldigde premie op grond van:
 
@@ -476,9 +464,9 @@ Vervallen
 
 - b. de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- c. de Algemene Arbeidsongeschiktheidswet met uitzondering van de artikelen 57, 57**a** en 58;
+- c. de Algemene Arbeidsongeschiktheidswet met uitzondering van de artikelen 57, 57*a* en 58;
 
-- d. de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) over de toeslag op een uitkering op grond van de in de onderdelen **a** tot en met **c** genoemde wetten;
+- d. de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) over de toeslag op een uitkering op grond van de in de onderdelen *a* tot en met *c* genoemde wetten;
 
 - e. de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072);
 
@@ -487,49 +475,3 @@ Vervallen
 ##### ARTIKEL LVIII
 
 Deze wet wordt aangehaald als «Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen».
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### ARTIKEL IXA. OVERGANGSRECHT AAW EN [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
-
-1. In dit artikel wordt verstaan onder arbeidsongeschiktheidsuitkering: een uitkering op grond van de Algemene Arbeidsongeschiktheidswet of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of beide wetten.
-
-2. De artikelen 5, 12, tweede tot en met vierde lid, en 23, van de Algemene Arbeidsongeschiktheidswet en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), [21, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21), en [32 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=32), zoals die artikelen luidden op de dag, voorafgaande aan die waarop de wet van 6 november 1986, houdende nadere wijziging van de Algemene Arbeidsongeschiktheidswet en de Wet op de arbeidsongeschiktheidsverzekering (nadere regeling in verband met verminderde gelegenheid tot het verkrijgen van arbeid) in werking is getreden, blijven van toepassing op de persoon die op die dag recht had op een arbeidsongeschiktheidsuitkering en op die dag de leeftijd van 35 jaar heeft bereikt.
-
-3. De artikelen 5, 12, tweede tot en met vierde lid, en 23 van de Algemene Arbeidsongeschiktheidswet, zoals die artikelen luidden op de dag, voorafgaande aan die, waarop de wet van 6 november 1986, houdende nadere wijziging van de Algemene Arbeidsongeschiktheidswet en de Wet op de arbeidsongeschiktheidsverzekering (nadere regeling in verband met verminderde gelegenheid tot het verkrijgen van arbeid) in werking is getreden, blijven van toepassing op de persoon, die op die dag recht had op een arbeidsongeschiktheidsuitkering op grond van artikel 6, eerste lid, onderdeel b, van die wet.
-
-4. Vanaf de datum dat de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072) (Stb. 1993, 412) in werking is getreden vinden de voorgaande leden nog slechts toepassing met betrekking tot personen die op die datum de leeftijd van 45 jaar hebben bereikt.
-
-5. De uitkeringsgerechtigde op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), die zowel op 31 december 1986, als op 1 januari 1987, recht had op een uitkering op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), berekend naar een arbeidsongeschiktheid van 55 tot 65% of 65 tot 80%, heeft, zolang hij in dezelfde arbeidsongeschiktheidsklasse blijft ingedeeld, in afwijking [artikel 21, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21), recht op een uitkering die per dag, de zaterdagen en de zondagen niet meegerekend, bedraagt bij een arbeidsongeschiktheid van:
-
-- 55–65%: 44% van 100/108 maal het dagloon of het vervolgdagloon
-
-- 65–80%: 57% van 100/108 maal het dagloon of het vervolgdagloon.
-
-6. Voor de toepassing van het vijfde lid wordt te rekenen vanaf 30 januari 1986 een herziening van een uitkering als bedoeld in [artikel 38 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=38) geacht niet te hebben plaatsgevonden, indien de uitkeringsgerechtigde binnen 48 weken na de herziening weer wordt ingedeeld in dezelfde arbeidsongeschiktheidsklasse als voor die herziening.
-
-### HOOFDSTUK 3. OVERGANGSBEPALINGEN MET BETREKKING TOT DE WET ARBEIDSONGESCHIKTHEIDSVERZEKERING ZELFSTANDIGEN
-
-#### § 1. Overgangsrecht met betrekking tot bestaande rechten op arbeidsongeschiktheidsuitkering
-
-#### § 2. Overgangsrecht met betrekking tot nieuwe rechten op arbeidsongeschiktheidsuitkering
-
-#### § 3
-
-#### § 4. Uitkeringsrecht in verband met bevalling op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
-
-#### § 5. Overige invoerings- en overgangsbepalingen met betrekking tot de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
-
-### Hoofdstuk 4. Overgangsbepalingen ten aanzien van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
-
-#### § 1. Overgangsrecht met betrekking tot bestaande rechten op arbeidsongeschiktheidsuitkering
-
-#### § 2. Overgangsrecht met betrekking tot nieuwe rechten op arbeidsongeschiktheidsuitkering
-
-#### § 3. Overige invoerings- en overgangsbepalingen met betrekking tot de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
-
-### HOOFDSTUK 5. WIJZIGING VAN VERSCHILLENDE WETTEN
-
-### HOOFDSTUK 6. OVERGANGS- EN SLOTBEPALINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

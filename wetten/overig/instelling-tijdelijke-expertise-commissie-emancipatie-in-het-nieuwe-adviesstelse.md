@@ -1,46 +1,17 @@
 ---
 title: "Instelling Tijdelijke Expertise Commissie Emancipatie in het Nieuwe Adviesstelsel"
 identifier: "BWBR0009238"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-01-01"
-last_updated: "1998-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009238"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3542263"
-version_id: "5325402"
-internal_id: "C5518491"
-label_id: "3522274"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009238/1998-01-01/0"
-intitule_bron: "Stcrt.1997-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-19"
-intitule_published: "1997-12-29"
-intitule_in_force: "1997-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-249"
-original_signed_date: "1997-12-19"
-original_published_date: "1997-12-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0009238&z=1998-01-01&g=1998-01-01"
-jci_1_0: "1.0:c:BWBR0009238&g=1998-01-01"
-citeertitel_status: "officieel"
-signed_date: "1997-12-19"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 1998-01-01
+status: geldig
+toestand: 1998-01-01
+bron: "https://wetten.overheid.nl/BWBR0009238"
+opgehaald: 2026-08-03
 ---
+
 # Instelling Tijdelijke Expertise Commissie Emancipatie in het Nieuwe Adviesstelsel
-
-Handelende in overeenstemming met de Staatssecretaris van Binnenlandse Zaken;
-
-Overwegende dat de implementatie van emancipatoire aspecten als integraal onderdeel in het nieuwe adviesstelsel en de evenredige participatie van vrouwen in adviesraden tijdelijk begeleiding en ondersteuning behoeft;
-
-Gezien de antwoorden op de kamervragen Te Veldhuis en De Vries dd. 17 april 1997 betreffende het aantal deskundige vrouwen in adviesraden en gezien de toezegging in de brief aan de Voorzitter van de Tweede Kamer d.d. 21 april 1997, kenmerk DCE/97/310;
-
-Besluit:
 
 ##### Artikel 1
 

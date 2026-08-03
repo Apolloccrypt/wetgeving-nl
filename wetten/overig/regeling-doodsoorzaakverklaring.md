@@ -1,42 +1,17 @@
 ---
 title: "Regeling doodsoorzaakverklaring"
 identifier: "BWBR0009096"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-12-13"
-last_updated: "1997-12-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009096"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5083303"
-version_id: "9141402"
-internal_id: "C12148991"
-label_id: "5058994"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009096/1997-12-13/0"
-intitule_bron: "Stcrt.1997-239"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-09"
-intitule_published: "1997-12-11"
-intitule_in_force: "1997-12-11"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-239"
-original_signed_date: "1997-12-09"
-original_published_date: "1997-12-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-12-13"
-jci_1_3: "jci1.3:c:BWBR0009096&z=1997-12-13&g=1997-12-13"
-jci_1_0: "1.0:c:BWBR0009096&g=1997-12-13"
-citeertitel_status: "officieel"
-signed_date: "1997-12-09"
-entry_into_force: "1997-12-13"
+publicatiedatum: 1997-12-13
+laatste_update: 1997-12-13
+status: geldig
+toestand: 1997-12-13
+bron: "https://wetten.overheid.nl/BWBR0009096"
+opgehaald: 2026-08-03
 ---
+
 # Regeling doodsoorzaakverklaring
-
-Gelet op [artikel 12a, derde lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=12a);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -53,11 +28,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling doodsoorzaakverklaring.
-
-## Bijlage 1
-
-## Bijlage 2
-
-## Bijlage 3
-
-Deze regeling zal met de bijlage in de Staatscourant worden geplaatst.

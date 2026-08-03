@@ -1,48 +1,18 @@
 ---
 title: "Wet van 11 september 1996 tot gemeentelijke herindeling in de samenwerkingsgebieden Midden-Brabant, Breda en Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch"
+citeertitel: "Wet tot gemeentelijke herindeling samenwerkingsgebieden Midden-Brabant, Breda en Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch"
 identifier: "BWBR0008231"
-country: "nl"
-rank: "wet"
-publication_date: "1998-08-01"
-last_updated: "1998-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008231"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "2733863"
-version_id: "4173842"
-internal_id: "C4173841"
-label_id: "2681184"
-dtd_version: "2.0"
-original_entry_into_force: "1998-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008231/1998-08-01/0"
-intitule_bron: "Stb.1996-449"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-09-11"
-intitule_published: "1996-09-12"
-intitule_in_force: "1996-09-12"
-intitule_status: "goed"
-original_publication: "Stb.1998-228"
-original_signed_date: "1998-04-02"
-original_published_date: "1998-04-28"
-original_effect: "structuurwijziging"
-original_dossier: "25409"
-original_url_id: "stb-1998-228"
-entry_into_force_date: "1998-08-01"
-entry_into_force_dossier: "25409"
-jci_1_3: "jci1.3:c:BWBR0008231&z=1998-08-01&g=1998-08-01"
-jci_1_0: "1.0:c:BWBR0008231&g=1998-08-01"
-citeertitel_status: "officieel"
-short_title: "Wet tot gemeentelijke herindeling samenwerkingsgebieden Midden-Brabant, Breda en Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch"
-signed_date: "1998-04-02"
-entry_into_force: "1998-08-01"
+publicatiedatum: 1998-08-01
+laatste_update: 1998-08-01
+status: geldig
+toestand: 1998-08-01
+bron: "https://wetten.overheid.nl/BWBR0008231"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 11 september 1996 tot gemeentelijke herindeling in de samenwerkingsgebieden Midden-Brabant, Breda en Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeentelijke indeling in de samenwerkingsgebieden Midden-Brabant, Breda en Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Opheffing en instelling van gemeenten
 
@@ -88,13 +58,13 @@ De in [artikel 48, tweede lid, van de Wet algemene regels herindeling](https://w
 
 ##### Artikel 9
 
-1. Ingevolge [artikel 52, tweede lid, onder **a**, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52) worden tussentijdse raadsverkiezingen gehouden voor de nieuwe gemeenten die bij deze wet zijn ingesteld. Met de voorbereiding van de verkiezingen bedoeld in de eerste volzin worden de in bijlage 2 bij deze wet genoemde op te heffen gemeenten belast.
+1. Ingevolge [artikel 52, tweede lid, onder *a*, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52) worden tussentijdse raadsverkiezingen gehouden voor de nieuwe gemeenten die bij deze wet zijn ingesteld. Met de voorbereiding van de verkiezingen bedoeld in de eerste volzin worden de in bijlage 2 bij deze wet genoemde op te heffen gemeenten belast.
 
 2. Indien de datum van herindeling valt binnen twee jaar voor de datum waarop reguliere verkiezingen voor de leden van de gemeenteraden ingevolge de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) moeten worden gehouden, dan vinden deze verkiezingen niet plaats in de gemeenten die bij deze wet zijn ingesteld.
 
 3. Indien de datum van herindeling valt binnen een jaar voor de datum waarop de reguliere verkiezingen voor de leden van de gemeenteraden ingevolge de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) moeten worden gehouden, dan eindigt de zittingsperiode van de leden van de raden van de nieuwe gemeenten gelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste verkiezingen voor de gemeenteraden na de datum van herindeling.
 
-4. Ingevolge [artikel 52, tweede lid, onder **b**, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52) worden in de gemeenten Goirle en Haaren tussentijdse raadsverkiezingen gehouden. Het tweede, derde vijfde, zesde en zevende lid zijn van overeenkomstige toepassing.
+4. Ingevolge [artikel 52, tweede lid, onder *b*, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52) worden in de gemeenten Goirle en Haaren tussentijdse raadsverkiezingen gehouden. Het tweede, derde vijfde, zesde en zevende lid zijn van overeenkomstige toepassing.
 
 5. Indien de datum van herindeling valt tussen een en twee jaar voor de datum waarop de reguliere verkiezingen voor de leden van de gemeenteraden ingevolge de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) moeten worden gehouden, dan treden de leden van de raden van de nieuwe gemeenten tegelijk af met ingang van dinsdag 13 april 1999.
 
@@ -116,15 +86,15 @@ De in [artikel 71, derde lid, van de Wet algemene regels herindeling](https://we
 
 ##### Artikel 13
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 14
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 15
 
-Wijzigt de Wet verplaatsing mestproduktie.
+*Wijzigt de Wet verplaatsing mestproduktie.*
 
 ##### Artikel 16
 
@@ -149,172 +119,3 @@ Gedeputeerde staten van Noord-Brabant kunnen bij vaststelling van de grensbeschr
 ##### Artikel 19
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-## BIJLAGE 1
-
-| **Op te heffen gemeente** | **Nieuwe gemeente** |
-| --- | --- |
-| Alphen en Riel | Alphen-Chaam |
-| Chaam |   |
-|   |   |
-| Bergen op Zoom | Bergen op Zoom |
-| Halsteren |   |
-|   |   |
-| Bergeyk | Bergeyk |
-| Luyksgestel |   |
-| Riethoven |   |
-| Westerhoven |   |
-|   |   |
-| Bladel en Netersel | Bladel |
-| Hoogeloon, Hapert en Casteren |   |
-|   |   |
-| Breda | Breda |
-| Nieuw-Ginneken |   |
-| Prinsenbeek |   |
-| Teteringen |   |
-|   |   |
-| Budel | Budel |
-| Maarheeze |   |
-|   |   |
-| Dongen | Dongen |
-| 's-Gravenmoer |   |
-|   |   |
-| Drunen | Heusden |
-| Heusden |   |
-| Vlijmen |   |
-|   |   |
-| Eersel | Eersel |
-| Vessem, Wintelre en Knegsel |   |
-|   |   |
-| Geertruidenberg | Geertruidenberg |
-| Raamsdonk |   |
-|   |   |
-| Bakel en Milheeze | Gemert-Bakel |
-| Gemert |   |
-|   |   |
-| Hoeven | Halderberge |
-| Oud en Nieuw Gastel |   |
-| Oudenbosch |   |
-|   |   |
-| Heeze | Heeze-Leende |
-| Leende |   |
-|   |   |
-| Diessen | Hilvarenbeek |
-| Hilvarenbeek |   |
-|   |   |
-| Aarle-Rixtel | Laarbeek |
-| Beek en Donk |   |
-| Lieshout |   |
-|   |   |
-| Hooge en Lage Zwaluwe | Made |
-| Made en Drimmelen |   |
-| Terheijden |   |
-|   |   |
-| Oirschot | Oirschot |
-| Oost-, West- en Middelbeers |   |
-|   |   |
-| Moergestel | Oisterwijk |
-| Oisterwijk |   |
-|   |   |
-| Hooge en Lage Mierde | Reusel-De Mierden |
-| Reusel |   |
-|   |   |
-| Roosendaal en Nispen | Roosendaal |
-| Wouw |   |
-|   |   |
-| Dinteloord en Prinsenland | Steenbergen |
-| Nieuw-Vossemeer |   |
-| Steenbergen |   |
-|   |   |
-| Berkel-Enschot | Tilburg |
-| Tilburg |   |
-| Udenhout |   |
-|   |   |
-| Sprang-Capelle | Waalwijk |
-| Waalwijk |   |
-| Waspik |   |
-|   |   |
-| Dussen | Werkendam |
-| Werkendam |   |
-|   |   |
-| Huijbergen | Woensdrecht |
-| Ossendrecht |   |
-| Putte |   |
-| Woensdrecht |   |
-|   |   |
-| Fijnaart en Heijningen | Zevenbergen |
-| Klundert |   |
-| Standdaarbuiten |   |
-| Willemstad |   |
-| Zevenbergen |   |
-|   |   |
-| Rijsbergen | Zundert |
-| Zundert |   |
-
-## BIJLAGE 2
-
-| **Op te heffen gemeente** | **Nieuwe gemeente** |
-| --- | --- |
-| Alphen en Riel | Alphen-Chaam |
-|   |   |
-| Beek en Donk | Laarbeek |
-|   |   |
-| Bergen op Zoom | Bergen op Zoom |
-|   |   |
-| Bergeyk | Bergeyk |
-|   |   |
-| Bladel en Netersel | Bladel |
-|   |   |
-| Breda | Breda |
-|   |   |
-| Budel | Budel |
-|   |   |
-| Dongen | Dongen |
-|   |   |
-| Drunen | Heusden |
-|   |   |
-| Eersel | Eersel |
-|   |   |
-| Geertruidenberg | Geertruidenberg |
-|   |   |
-| Gemert | Gemert-Bakel |
-|   |   |
-| Heeze | Heeze-Leende |
-|   |   |
-| Hilvarenbeek | Hilvarenbeek |
-|   |   |
-| Made en Drimmelen | Made |
-|   |   |
-| Oirschot | Oirschot |
-|   |   |
-| Oisterwijk | Oisterwijk |
-|   |   |
-| Oudenbosch | Halderberge |
-|   |   |
-| Reusel | Reusel-De Mierden |
-|   |   |
-| Roosendaal en Nispen | Roosendaal |
-|   |   |
-| Steenbergen | Steenbergen |
-|   |   |
-| Tilburg | Tilburg |
-|   |   |
-| Waalwijk | Waalwijk |
-|   |   |
-| Werkendam | Werkendam |
-|   |   |
-| Woensdrecht | Woensdrecht |
-|   |   |
-| Zevenbergen | Zevenbergen |
-|   |   |
-| Zundert | Zundert |
-
-## Gemeentelijke herindeling westelijk Noord-Brabant : kaart behorend bij de wet tot gemeentelijke herindeling in de samenwerkingsgebieden Midden-Brabant, Breda, Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch
-
-Raadpleeg voor de kaart het gedrukte Staatsblad 1996/449.
-
-## Gemeentelijke herindeling de nieuwe gemeente Heusden : kaart behorend bij de wet tot gemeentelijke herindeling in de samenwerkingsgebieden Midden-Brabant, Breda, Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch
-
-Raadpleeg voor de kaart het gedrukte Staatsblad 1996/449.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

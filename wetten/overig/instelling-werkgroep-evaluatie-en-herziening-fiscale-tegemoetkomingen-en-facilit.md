@@ -1,42 +1,17 @@
 ---
 title: "Instelling werkgroep Evaluatie en herziening fiscale tegemoetkomingen en faciliteiten voor ondernemers"
 identifier: "BWBR0009498"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-05-01"
-last_updated: "1998-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009498"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4278813"
-version_id: "6042462"
-internal_id: "C6245861"
-label_id: "4257434"
-dtd_version: "2.0"
-original_entry_into_force: "1998-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009498/1998-05-01/0"
-intitule_bron: "Stcrt.1998-62"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-03-23"
-intitule_published: "1998-03-31"
-intitule_in_force: "1998-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-62"
-original_signed_date: "1998-03-23"
-original_published_date: "1998-03-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-05-01"
-jci_1_3: "jci1.3:c:BWBR0009498&z=1998-05-01&g=1998-05-01"
-jci_1_0: "1.0:c:BWBR0009498&g=1998-05-01"
-citeertitel_status: "officieel"
-signed_date: "1998-03-23"
-entry_into_force: "1998-05-01"
+publicatiedatum: 1998-05-01
+laatste_update: 1998-05-01
+status: geldig
+toestand: 1998-05-01
+bron: "https://wetten.overheid.nl/BWBR0009498"
+opgehaald: 2026-08-03
 ---
+
 # Instelling werkgroep Evaluatie en herziening fiscale tegemoetkomingen en faciliteiten voor ondernemers
-
-Overwegende dat het wenselijk is de werkgroep Evaluatie en herziening fiscale tegemoetkomingen en faciliteiten voor ondernemers in te stellen;
-
-Besluit:
 
 #### § 1. Instelling en taak
 

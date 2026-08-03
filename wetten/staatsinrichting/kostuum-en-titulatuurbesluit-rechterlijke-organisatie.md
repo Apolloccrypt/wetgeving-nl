@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 22 december 1997 betreffende de titulatuur en het kostuum der rechterlijke ambtenaren alsmede het kostuum van de advocaten en van de procureurs (Reglement II)"
+citeertitel: "Kostuum- en titulatuurbesluit rechterlijke organisatie"
 identifier: "BWBR0009255"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009255"
+categorie: "Staatsinrichting en bestuur"
 soort: "AMvB"
-stam_id: "789293"
-version_id: "1146392"
-internal_id: "C21693111"
-label_id: "765034"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009255/2015-01-01/0"
-intitule_bron: "Stb.1997-763"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-22"
-intitule_published: "1997-12-30"
-intitule_in_force: "1997-12-30"
-intitule_status: "goed"
-original_publication: "Stb.2001-614"
-original_signed_date: "2001-12-10"
-original_published_date: "2001-12-20"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2001-614"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0009255&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0009255&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Kostuum- en titulatuurbesluit rechterlijke organisatie"
-signed_date: "2001-12-10"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0009255"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 22 december 1997 betreffende de titulatuur en het kostuum der rechterlijke ambtenaren alsmede het kostuum van de advocaten en van de procureurs (Reglement II)
-
-Op de voordracht van Onze Minister van Justitie van 19 september 1997, Directie Wetgeving, nr. 653157/97/6;
-
-Gelet op [artikel 19 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=19);
-
-De Raad van State gehoord (advies van 6 november 1997, nr. W03.79.0609);
-
-Gezien het nader rapport van Onze Minister van Justitie van 17 december 1997, Directie Wetgeving, nr. 671101/97/6;
-
-Hebben goedgevonden en verstaan:
 
 ### hoofdstuk Eerste. De titulatuur
 
@@ -100,11 +68,11 @@ Voor zover de toga is voorzien van banen, zijn deze ter breedte van ongeveer 18 
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -144,11 +112,11 @@ De baret is rond en heeft een staande rand ter hoogte van 5 cm en een 5 cm buite
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
@@ -206,7 +174,7 @@ Individueel ten Hove verschijnende of openbare plechtigheden bijwonende, kunnen 
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
@@ -246,38 +214,12 @@ De toga van de advocaten is gelijk aan die, welke is omschreven in [artikel 3](h
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
 Dit besluit wordt aangehaald als: Kostuum- en titulatuurbesluit rechterlijke organisatie.
-
-## Bijlage. bij het Reglement II
-
-### Afbeeldingen als bedoeld in artikel 3
-
-Toga met banen (vooraanzicht)
-
-Toga met banen (zij-aanzicht)
-
-Toga met banen (achteraanzicht)
-
-Toga zonder banen (vooraanzicht)
-
-Toga zonder banen (zij-aanzicht)
-
-Toga zonder banen (achteraanzicht)
-
-### Afbeeldingen als bedoeld in artikel 11
-
-Baret (zonder boordsel) (zij-aanzicht)
-
-Baret (boven-aanzicht)
-
-### Afbeelding als bedoeld in artikel 13
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

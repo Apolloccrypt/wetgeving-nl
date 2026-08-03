@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 16 januari 1998, houdende regels over de veiligheid en de deugdelijkheid van draagbare blustoestellen (Besluit draagbare blustoestellen 1997)"
+citeertitel: "Besluit draagbare blustoestellen 1997"
 identifier: "BWBR0009334"
-country: "nl"
-rank: "amvb"
-publication_date: "2016-09-18"
-last_updated: "2016-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009334"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "349513"
-version_id: "514542"
-internal_id: "C14246431"
-label_id: "341724"
-dtd_version: "2.0"
-original_entry_into_force: "1998-02-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009334/2016-09-18/0"
-intitule_bron: "Stb.1998-46"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-01-16"
-intitule_published: "1998-02-03"
-intitule_in_force: "1998-02-03"
-intitule_status: "goed"
-original_publication: "Stb.1998-46"
-original_signed_date: "1998-01-16"
-original_published_date: "1998-02-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1998-46"
-entry_into_force_date: "1998-02-04"
-jci_1_3: "jci1.3:c:BWBR0009334&z=2016-09-18&g=2016-09-18"
-jci_1_0: "1.0:c:BWBR0009334&g=2016-09-18"
-citeertitel_status: "officieel"
-short_title: "Besluit draagbare blustoestellen 1997"
-signed_date: "1998-01-16"
-entry_into_force: "1998-02-04"
+publicatiedatum: 1998-02-04
+laatste_update: 2016-09-18
+status: geldig
+toestand: 2016-09-18
+bron: "https://wetten.overheid.nl/BWBR0009334"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 16 januari 1998, houdende regels over de veiligheid en de deugdelijkheid van draagbare blustoestellen (Besluit draagbare blustoestellen 1997)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken, directoraat-generaal voor Openbare Orde en Veiligheid, directie Brandweer en Rampenbestrijding, van 1 september 1997, nr. EB97/1121;
-
-Gelet op [artikel 17, eerste lid, van de Brandweerwet 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=17);
-
-De Raad van State gehoord (advies van 27 oktober 1997, nr. W04.97.0579);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken, directoraat-generaal voor Openbare Orde en Veiligheid, directie Brandweer en Rampenbestrijding, van 12 januari 1998, nr. EB97/2134;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsomschrijvingen
 
@@ -62,7 +30,7 @@ In dit besluit wordt verstaan onder:
 
 - e. vulling: de voor een draagbaar blustoestel bestemde blusstof en de stof of de stoffen, bestemd tot uitdrijving van de blusstof uit het draagbare blustoestel;
 
-- f. onafhankelijk keuringsinstituut: een instituut tot wiens normale takenpakket het keuren van draagbare blustoestellen behoort en dat voldoet aan de criteria, genoemd in onderdeel 1 van bijlage IV van de [richtlijn nr. 97/23/EG](31997L0023) van de Raad van de Europese Unie van 29 mei 1997 inzake de onderlinge aanpassing van de wetgevingen der lidstaten betreffende drukapparatuur (PbEG L 181);
+- f. onafhankelijk keuringsinstituut: een instituut tot wiens normale takenpakket het keuren van draagbare blustoestellen behoort en dat voldoet aan de criteria, genoemd in onderdeel 1 van bijlage IV van de richtlijn nr. 97/23/EG van de Raad van de Europese Unie van 29 mei 1997 inzake de onderlinge aanpassing van de wetgevingen der lidstaten betreffende drukapparatuur (PbEG L 181);
 
 - g. NEN-EN 3-7+ A1: Draagbare blustoestellen, Deel 7, Eigenschappen, prestatie-eisen en beproevingsmethoden, uitgegeven door het Nederlands Normalisatie-Instituut zoals dit luidde in augustus 2007;
 
@@ -75,6 +43,10 @@ In dit besluit wordt verstaan onder:
 ##### Artikel 2
 
 Het is verboden draagbare blustoestellen met bijbehorende vullingen die niet behoren tot een type, waarvoor Onze Minister een bewijs heeft verleend, met het oog op gebruik in Nederland te vervaardigen, in te voeren of te verhandelen.
+
+##### Artikel 2a
+
+Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=2&z=2016-09-18&g=2016-09-18), geldt niet voor draagbare blustoestellen voor zover deze bestemd zijn voor plaatsing aan boord van schepen waarop richtlijn nr. 2014/90/EU van het Europese Parlement en de Raad van 23 juli 2014 inzake uitrusting van zeeschepen en tot intrekking van richtlijn 96/98/EG van de Raad (PbEU L 257) van toepassing is en zijn voorzien van een stuurwielmarkering als bedoeld in artikel 1 van de Wet scheepsuitrusting 2016.
 
 ##### Artikel 3
 
@@ -122,13 +94,13 @@ De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden
 
 - f. een rapport van een onafhankelijk keuringsinstituut:
 
-- 1°. dat totstandgekomen is overeenkomstig de procedure zoals omschreven is in de NPR-CEN/TR 14922 dan wel een daaraan gelijkwaardige procedure;
+   - 1°. dat totstandgekomen is overeenkomstig de procedure zoals omschreven is in de NPR-CEN/TR 14922 dan wel een daaraan gelijkwaardige procedure;
 
-- 2°. dat opgesteld is overeenkomstig het model zoals opgenomen is in de NPR-CEN/TR 14922 dan wel een model van gelijke aard;
+   - 2°. dat opgesteld is overeenkomstig het model zoals opgenomen is in de NPR-CEN/TR 14922 dan wel een model van gelijke aard;
 
-- 3°. waaruit blijkt dat het draagbare blustoestel voldoet aan de eisen inzake veiligheid en deugdelijkheid, genoemd in de NEN-EN 3-7+A1, dan wel een mate van veiligheid en deugdelijkheid biedt die ten minste gelijk is aan de mate van veiligheid en deugdelijkheid die beoogd is met de NEN-EN 3-7+A1, en
+   - 3°. waaruit blijkt dat het draagbare blustoestel voldoet aan de eisen inzake veiligheid en deugdelijkheid, genoemd in de NEN-EN 3-7+A1, dan wel een mate van veiligheid en deugdelijkheid biedt die ten minste gelijk is aan de mate van veiligheid en deugdelijkheid die beoogd is met de NEN-EN 3-7+A1, en
 
-- 4°. waaruit blijkt dat het draagbare blustoestel voor brandklasse D tevens voldoen aan de eisen in de NEN 2033 dan wel aan eisen die ten minste gelijkwaardig zijn aan de eisen van de NEN 2033.
+   - 4°. waaruit blijkt dat het draagbare blustoestel voor brandklasse D tevens voldoen aan de eisen in de NEN 2033 dan wel aan eisen die ten minste gelijkwaardig zijn aan de eisen van de NEN 2033.
 
 2. Een draagbaar blustoestel biedt in ieder geval een mate van veiligheid en deugdelijkheid die ten minste gelijk is aan de mate van veiligheid en deugdelijkheid die beoogd is met de NEN-EN 3-7+A1 zoals bedoeld in het eerste lid, onderdeel f, onder 3°, indien het draagbare blustoestel:
 
@@ -222,6 +194,10 @@ De bewijzen die zijn afgegeven vóór de datum van inwerkingtreding van dit besl
 
 Het Besluit draagbare blustoestellen wordt ingetrokken.
 
+##### Artikel 15a
+
+Dit besluit berust op [artikel 30, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=30).
+
 ##### Artikel 16
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
@@ -232,78 +208,12 @@ Dit besluit wordt aangehaald als: Besluit draagbare blustoestellen 1997.
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
-
-## Bijlage. behorende bij [artikel 8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2002-01-01&g=2002-01-01), van het Besluit draagbare blustoestellen 1997
-
-Het rijkskeurmerk is ingericht naar het volgende model:
-
-1. In de binnenste ellips wordt het rangnummer vermeld, met een cijferhoogte van 6 mm.
-
-2. In de buitenste ellips worden de volgende zaken vermeld, met een letter- en cijferhoogte van 3 mm:
-
-- -. bovenin: het derde en vierde cijfer van het jaar en de maand van afgifte van het bewijs van typekeuring in twee cijfers (bijvoorbeeld 85-04);
-
-- -. links de "B" van "Besluit draagbare blustoestellen";
-
-- -. rechts het jaartal van het Besluit draagbare blustoestellen;
-
-- -. onderin de letters "BZ" van "Binnenlandse Zaken".
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=2&z=2016-09-18&g=2016-09-18), geldt niet voor draagbare blustoestellen voor zover deze bestemd zijn voor plaatsing aan boord van schepen waarop richtlijn nr. 2014/90/EU van het Europese Parlement en de Raad van 23 juli 2014 inzake uitrusting van zeeschepen en tot intrekking van richtlijn 96/98/EG van de Raad (PbEU L 257) van toepassing is en zijn voorzien van een stuurwielmarkering als bedoeld in [artikel 1 van de Wet scheepsuitrusting 2016](onbekend).
-
-#### § 3. Dwang- en strafbepalingen
-
-#### § 4. Overgangs- en slotbepalingen
-
-## Bijlage. behorende bij [artikel 8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2008-11-19&g=2008-11-19), van het Besluit draagbare blustoestellen 1997
-
-Het rijkskeurmerk is ingericht naar het volgende model:
-
-1. In de binnenste ellips wordt het rangnummer vermeld, met een cijferhoogte van 6 mm.
-
-2. In de buitenste ellips worden de volgende zaken vermeld, met een letter- en cijferhoogte van 3 mm:
-
-- -. bovenin: het derde en vierde cijfer van het jaar en de maand van afgifte van het bewijs van typekeuring in twee cijfers (bijvoorbeeld 85-04);
-
-- -. links de "B" van "Besluit draagbare blustoestellen";
-
-- -. rechts het jaartal van het Besluit draagbare blustoestellen;
-
-- -. onderin de letters "BZ" van "Binnenlandse Zaken".
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 15a
-
-Dit besluit berust op [artikel 30, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=30).
-
-## Bijlage. behorende bij [artikel 8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2016-09-18&g=2016-09-18), van het Besluit draagbare blustoestellen 1997
-
-Het rijkskeurmerk is ingericht naar het volgende model:
-
-1. In de binnenste ellips wordt het rangnummer vermeld, met een cijferhoogte van 6 mm.
-
-2. In de buitenste ellips worden de volgende zaken vermeld, met een letter- en cijferhoogte van 3 mm:
-
-- -. bovenin: het derde en vierde cijfer van het jaar en de maand van afgifte van het bewijs van typekeuring in twee cijfers (bijvoorbeeld 85-04);
-
-- -. links de "B" van "Besluit draagbare blustoestellen";
-
-- -. rechts het jaartal van het Besluit draagbare blustoestellen;
-
-- -. onderin de letters "BZ" van "Binnenlandse Zaken".
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+*Vervallen*

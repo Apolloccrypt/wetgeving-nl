@@ -1,47 +1,18 @@
 ---
 title: "Wet van 11 september 1997, houdende nieuwe regeling inzake de sociale werkvoorziening (Wet sociale werkvoorziening)"
+citeertitel: "Wet sociale werkvoorziening"
 identifier: "BWBR0008903"
-country: "nl"
-rank: "wet"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008903"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "2764223"
-version_id: "4234802"
-internal_id: "C4234801"
-label_id: "2711544"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008903/2015-07-01/0"
-intitule_bron: "Stb.1997-465"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-09-11"
-intitule_published: "1997-10-16"
-intitule_in_force: "1997-10-16"
-intitule_status: "goed"
-original_publication: "Stb.1997-465"
-original_signed_date: "1997-09-11"
-original_published_date: "1997-10-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "24787"
-original_url_id: "stb-1997-465"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0008903&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0008903&g=2015-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet sociale werkvoorziening"
-signed_date: "1997-09-11"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0008903"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 11 september 1997, houdende nieuwe regeling inzake de sociale werkvoorziening (Wet sociale werkvoorziening)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is nieuwe regels te stellen inzake de sociale werkvoorziening, onder meer inzake de doelgroep, de indicatiestelling, voorzieningen voor begeleid werken, de rechtspositie van de werknemers en de bekostiging;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -59,7 +30,7 @@ dienstbetrekking: een arbeidsovereenkomst als bedoeld in [artikel 610, eerste li
 
 doelgroep: personen, die nog niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), hebben bereikt en die door lichamelijke, verstandelijke of psychische beperkingen uitsluitend onder aangepaste omstandigheden tot regelmatige arbeid in staat zijn;
 
-geïndiceerd: blijkens een indicatiebeschikking of herindicatiebeschikking als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2015-07-01&g=2015-07-01) tot de doelgroep behoren en op de dag voor inwerkingtreding van [artikel II, onderdeel A, van de Invoeringswet Participatiewet](onbekend) een dienstbetrekking hebben als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2015-07-01&g=2015-07-01), of [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2015-07-01&g=2015-07-01);
+geïndiceerd: blijkens een indicatiebeschikking of herindicatiebeschikking als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2015-07-01&g=2015-07-01) tot de doelgroep behoren en op de dag voor inwerkingtreding van artikel II, onderdeel A, van de Invoeringswet Participatiewet een dienstbetrekking hebben als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2015-07-01&g=2015-07-01), of [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2015-07-01&g=2015-07-01);
 
 gerealiseerd arbeidsjaar: het equivalent van een dienstbetrekking op basis van een volledige werkweek die het gehele kalenderjaar is vervuld door een geïndiceerde ingezetene of een daarmee gelijkgestelde, gebaseerd op het gemiddelde van de twaalf eindemaandsstanden;
 
@@ -145,15 +116,19 @@ Het college bedingt voor de door zijn werknemer verrichte arbeid dan wel voor te
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
+
+##### Artikel 9a
+
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. De indicatie en het aanbod
 
@@ -165,9 +140,9 @@ Vervallen
 
 - b. nadat is vastgesteld dat een geïndiceerde tot de doelgroep behoort:
 
-- 1°. de geldigheidsduur van de indicatie;
+   - 1°. de geldigheidsduur van de indicatie;
 
-- 2°. de indeling van de geïndiceerde in één van de arbeidshandicapcategorieën, die bepaald worden door de zwaarte van de aanpassing van de omstandigheden en de productiviteit.
+   - 2°. de indeling van de geïndiceerde in één van de arbeidshandicapcategorieën, die bepaald worden door de zwaarte van de aanpassing van de omstandigheden en de productiviteit.
 
 2. Op aanvraag van het college verricht het Uitvoeringsinstituut werknemersverzekeringen, overeenkomstig de krachtens [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2015-07-01&g=2015-07-01), gestelde regels, herindicatie van de werknemer die de bedongen arbeid gedurende een ononderbroken periode van ten minste 13 weken niet heeft verricht omdat hij in verband met ongeschiktheid ten gevolge van ziekte daartoe verhinderd was en die naar het inzicht van het college duurzaam niet in staat zal zijn tot het verrichten van arbeid onder aangepaste omstandigheden. Het eerste lid is van overeenkomstige toepassing.
 
@@ -205,7 +180,7 @@ Vervallen
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -225,6 +200,10 @@ Vervallen
 
 5. Het college van burgemeester en wethouders, het Uitvoeringsinstituut werknemersverzekeringen en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2015-07-01&g=2015-07-01), aangewezen rechtspersoon gebruiken het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), bij de verwerking van persoonsgegevens voor de uitvoering van deze wet, indien dat nodig is voor de uitvoering van deze wet of voor de uitvoering van andere wetten, waarbij gebruik wordt gemaakt van dat burgerservicenummer.
 
+##### Artikel 15a
+
+Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van het college aangewezen ambtenaren.
+
 ### Hoofdstuk 7. Overgangsbepalingen
 
 ##### Artikel 16
@@ -233,15 +212,15 @@ Met ingang van de datum van inwerkingtreding van deze wet worden de dienstbetrek
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-1. [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2015-07-01&g=2015-07-01), is van overeenkomstige toepassing op de persoon die op 31 december 1997 een dienstbetrekking heeft krachtens de Wet Sociale Werkvoorziening zoals deze luidde op die datum, indien hij tijdens die dienstbetrekking om een herindicatie verzoekt.
+1. [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2015-07-01&g=2015-07-01), is van overeenkomstige toepassing op de persoon die op 31 december 1997 een dienstbetrekking heeft krachtens de Wet Sociale Werkvoorziening zoals deze luidde op die datum, indien hij tijdens die dienstbetrekking om een herindicatie verzoekt.
 
 2. Met betrekking tot de uitkering aan het college voor de uitvoering van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2015-07-01&g=2015-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2015-07-01&g=2015-07-01) over de kalenderjaren gelegen voor de inwerkingtreding van [artikel II, onderdeel A, van de Invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=II) blijven de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2015-07-01&g=2015-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=9&z=2015-07-01&g=2015-07-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=9a&z=2015-07-01&g=2015-07-01) en de daarop berustende bepalingen, zoals deze luidden op de dag voor inwerkingtreding van artikel II, onderdeel A, van de Invoeringswet Participatiewet, van toepassing.
 
@@ -251,109 +230,109 @@ Vervallen
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 8
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 9. Slotbepalingen
 
@@ -372,33 +351,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 49
 
 Deze wet wordt aangehaald als: Wet sociale werkvoorziening.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 15a
-
-Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van het college aangewezen ambtenaren.
-
-### Hoofdstuk 7. Overgangsbepalingen
-
-### Hoofdstuk 8
-
-### Hoofdstuk 9. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-Vervallen
-
-### Hoofdstuk 5. De indicatie en het aanbod
-
-### Hoofdstuk 6. Toezicht en informatie
-
-### Hoofdstuk 7. Overgangsbepalingen
-
-### Hoofdstuk 8
-
-### Hoofdstuk 9. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,42 +1,17 @@
 ---
 title: "Regeling diplomatieke en internationale vrijstellingen gemeentelijke belastingen 1997"
 identifier: "BWBR0008462"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-01-18"
-last_updated: "2014-01-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008462"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4375493"
-version_id: "6142152"
-internal_id: "C6346361"
-label_id: "4353934"
-dtd_version: "2.0"
-original_entry_into_force: "1997-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008462/2014-01-18/0"
-intitule_bron: "Stcrt.1996-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-20"
-intitule_published: "1996-12-24"
-intitule_in_force: "1996-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-249"
-original_signed_date: "1996-12-20"
-original_published_date: "1996-12-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-01-01"
-jci_1_3: "jci1.3:c:BWBR0008462&z=2014-01-18&g=2014-01-18"
-jci_1_0: "1.0:c:BWBR0008462&g=2014-01-18"
-citeertitel_status: "officieel"
-signed_date: "1996-12-20"
-entry_into_force: "1997-01-01"
+publicatiedatum: 1997-01-01
+laatste_update: 2014-01-18
+status: geldig
+toestand: 2014-01-18
+bron: "https://wetten.overheid.nl/BWBR0008462"
+opgehaald: 2026-08-03
 ---
+
 # Regeling diplomatieke en internationale vrijstellingen gemeentelijke belastingen 1997
-
-Gelet op [artikel 243 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=243);
-
-Besluiten:
 
 ### Hoofdstuk I. Algemeen
 

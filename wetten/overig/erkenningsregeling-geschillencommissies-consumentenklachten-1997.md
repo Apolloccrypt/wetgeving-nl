@@ -1,43 +1,18 @@
 ---
 title: "Erkenningsregeling geschillen- commissies consumentenklachten 1997"
+citeertitel: "Erkenningsregeling geschillencommissies consumentenklachten 1997"
 identifier: "BWBR0008448"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-10-19"
-last_updated: "2012-10-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008448"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3530843"
-version_id: "5314092"
-internal_id: "C5507181"
-label_id: "3510964"
-dtd_version: "2.0"
-original_entry_into_force: "1997-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008448/2012-10-19/0"
-intitule_bron: "Stcrt.1996-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-19"
-intitule_published: "1996-12-23"
-intitule_in_force: "1996-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-248"
-original_signed_date: "1996-12-19"
-original_published_date: "1996-12-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-01-01"
-jci_1_3: "jci1.3:c:BWBR0008448&z=2012-10-19&g=2012-10-19"
-jci_1_0: "1.0:c:BWBR0008448&g=2012-10-19"
-citeertitel_status: "officieel"
-short_title: "Erkenningsregeling geschillencommissies consumentenklachten 1997"
-signed_date: "1996-12-19"
-entry_into_force: "1997-01-01"
+publicatiedatum: 1997-01-01
+laatste_update: 2012-10-19
+status: geldig
+toestand: 2012-10-19
+bron: "https://wetten.overheid.nl/BWBR0008448"
+opgehaald: 2026-08-03
 ---
+
 # Erkenningsregeling geschillen- commissies consumentenklachten 1997
-
-Overwegende, dat het gewenst is een goede consumentenklachtenbehandeling te bevorderen;
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -45,19 +20,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Minister:** de Minister van Veiligheid en Justitie;
+- a. *Minister:* de Minister van Veiligheid en Justitie;
 
-- b. **consument:** een afnemer van niet voor een beroep of bedrijf bestemde goederen of diensten;
+- b. *consument:* een afnemer van niet voor een beroep of bedrijf bestemde goederen of diensten;
 
-- c. **consumentenklacht:** een geschil tussen een consument en een ondernemer c.q. dienstverlener dat door die consument aan die ondernemer c.q. dienstverlener kenbaar is gemaakt en waarover tussen partijen is overeengekomen dat zij dat onderwerpen aan het oordeel van een geschillencommissie;
+- c. *consumentenklacht:* een geschil tussen een consument en een ondernemer c.q. dienstverlener dat door die consument aan die ondernemer c.q. dienstverlener kenbaar is gemaakt en waarover tussen partijen is overeengekomen dat zij dat onderwerpen aan het oordeel van een geschillencommissie;
 
-- d. **geschillencommissie:** een commissie, die uitspraken doet in de vorm van arbitrage of bindend advies in geschillen, die hun oorsprong vinden in consumentenklachten;
+- d. *geschillencommissie:* een commissie, die uitspraken doet in de vorm van arbitrage of bindend advies in geschillen, die hun oorsprong vinden in consumentenklachten;
 
-- e. **bij een geschillencommissie aangesloten ondernemer:** een ondernemer, die zich heeft verplicht zich aan de uitspraken van een geschillencommissie te onderwerpen;
+- e. *bij een geschillencommissie aangesloten ondernemer:* een ondernemer, die zich heeft verplicht zich aan de uitspraken van een geschillencommissie te onderwerpen;
 
-- f. **branche:** de ondernemers, die dezelfde groepen produkten of diensten aanbieden, hetzelfde distributiesysteem toepassen of een andere verwantschap vertonen die aansluiting bij eenzelfde geschillencommissie rechtvaardigt;
+- f. *branche:* de ondernemers, die dezelfde groepen produkten of diensten aanbieden, hetzelfde distributiesysteem toepassen of een andere verwantschap vertonen die aansluiting bij eenzelfde geschillencommissie rechtvaardigt;
 
-- g. **Stichting:** de Stichting Geschillencommissies voor Consumentenzaken (SGC), zijnde de overkoepelende organisatie voor instelling en instandhouding van erkende onafhankelijke geschillencommissies voor consumentenklachten.
+- g. *Stichting:* de Stichting Geschillencommissies voor Consumentenzaken (SGC), zijnde de overkoepelende organisatie voor instelling en instandhouding van erkende onafhankelijke geschillencommissies voor consumentenklachten.
 
 ##### Artikel 2
 
@@ -107,7 +82,7 @@ De Minister erkent een geschillencommissie op een overeenkomstig [artikel 5](htt
 
 - g. de mogelijkheid om getuigen en deskundigen te horen;
 
-- h. vervallen;
+- h. *vervallen;*
 
 - i. de mogelijkheid dat de commissie een minnelijke schikking tussen partijen beproeft;
 
@@ -141,7 +116,7 @@ De Minister beslist op de aanvraag binnen 6 maanden nadat de aanvraag is ingedie
 
 1. Een erkenning van een geschillencommissie geschiedt onder de volgende voorwaarden:
 
-- a. vervallen;
+- a. *vervallen;*
 
 - b. de geschillencommissie dient desgevraagd wijzigingen in de gegevens als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008448&paragraaf=3&artikel=5&z=2012-10-19&g=2012-10-19), zo spoedig mogelijk schriftelijk aan de Minister door te geven.
 
@@ -171,7 +146,7 @@ Van een beslissing tot intrekking van een erkenning van een geschillencommissie 
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -180,5 +155,3 @@ Deze regeling treedt in werking met ingang van 1 januari 1997.
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Erkenningsregeling geschillencommissies consumentenklachten 1997.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,54 +1,34 @@
 ---
 title: "Regeling Politielogo"
+citeertitel: "Regeling politielogo"
 identifier: "BWBR0009137"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-03-18"
-last_updated: "2017-03-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009137"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4543033"
-version_id: "19976292"
-internal_id: "C28072921"
-label_id: "4521374"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009137/2017-03-18/0"
-intitule_bron: "Stcrt.1997-246"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-12"
-intitule_published: "1997-12-22"
-intitule_in_force: "1997-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-26854"
-original_signed_date: "2012-12-13"
-original_published_date: "2012-12-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2012-26854"
-entry_into_force_date: "2012-12-13"
-jci_1_3: "jci1.3:c:BWBR0009137&z=2017-03-18&g=2017-03-18"
-jci_1_0: "1.0:c:BWBR0009137&g=2017-03-18"
-citeertitel_status: "officieel"
-short_title: "Regeling politielogo"
-signed_date: "2012-12-13"
-entry_into_force: "2012-12-13"
+publicatiedatum: 2012-12-13
+laatste_update: 2017-03-18
+status: geldig
+toestand: 2017-03-18
+bron: "https://wetten.overheid.nl/BWBR0009137"
+opgehaald: 2026-08-03
 ---
+
 # Regeling Politielogo
-
-Gelet op [artikel 13 van het Besluit beheer regionale politiekorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006560&artikel=13),
-
-Besluit:
-
-De Minister van Binnenlandse Zaken,
-
-Gelet op [artikel 13 van het Besluit beheer regionale politiekorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006560&artikel=13),
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+het handboek:
+
+het handboek politielogo en huisstijl, dat als bijlage bij deze regeling behoort;
+
+b.
+
+het politielogo:
+
+het politielogo, als omschreven en afgebeeld in hoofdstuk 2 van het handboek.
 
 ##### Artikel 2
 
@@ -76,7 +56,7 @@ In het geval de politie de huisstijl uit het handboek toepast, geschiedt dit ove
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -86,22 +66,10 @@ De Regeling politielogo (Stcrt. 1994, 64, gewijzigd in Stcrt. 218) wordt ingetro
 
 Deze regeling wordt aangehaald als: Regeling politielogo.
 
-##### Artikel 8
-
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-## Bijlage
-
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die bij de bibliotheek van het Ministerie van Binnenlandse Zaken ter inzage wordt gelegd.
-
 ##### Artikel 7a
 
 Deze regeling berust op [artikel 51 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=51).
 
-## Bijlage
+##### Artikel 8
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die bij de bibliotheek van het Ministerie van Binnenlandse Zaken ter inzage wordt gelegd.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.

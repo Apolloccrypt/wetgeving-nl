@@ -1,82 +1,50 @@
 ---
 title: "Wet van 18 december 1997, houdende wijziging van enkele belastingwetten c.a. (belastingplan 1998)"
+citeertitel: "Wijzigingswet enkele belastingwetten c.a. (belastingplan 1998)"
 identifier: "BWBR0009217"
-country: "nl"
-rank: "wet"
-publication_date: "2000-01-01"
-last_updated: "2000-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009217"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "688703"
-version_id: "1002652"
-internal_id: "C1002651"
-label_id: "667424"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009217/2000-01-01/0"
-intitule_bron: "Stb.1997-730"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-18"
-intitule_published: "1997-12-29"
-intitule_in_force: "1997-12-29"
-intitule_status: "goed"
-original_publication: "Stb.1997-730"
-original_signed_date: "1997-12-18"
-original_published_date: "1997-12-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "25691"
-original_url_id: "stb-1997-730"
-entry_into_force_date: "1998-01-01"
-entry_into_force_dossier: "25691"
-jci_1_3: "jci1.3:c:BWBR0009217&z=2000-01-01&g=2000-01-01"
-jci_1_0: "1.0:c:BWBR0009217&g=2000-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet enkele belastingwetten c.a. (belastingplan 1998)"
-signed_date: "1997-12-18"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2000-01-01
+status: geldig
+toestand: 2000-01-01
+bron: "https://wetten.overheid.nl/BWBR0009217"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 18 december 1997, houdende wijziging van enkele belastingwetten c.a. (belastingplan 1998)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in het kader van het belastingplan 1998 een evenwichtige inkomensontwikkeling te realiseren, de druk van de vermogensbelasting te verlagen, alsmede enige andere daarmee samenhangende maatregelen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Artikel I, onderdeel D, werkt terug tot en met 1 januari 1997.
 
 ##### Artikel I
 
-Wijzigt de Wet op de inkomstenbelasting 1964.
+*Wijzigt de Wet op de inkomstenbelasting 1964.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de vermogensbelasting 1964.
+*Wijzigt de Wet op de vermogensbelasting 1964.*
 
 ##### Artikel IV
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel V
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel VI
 
-Wijzigt de Wet bodembescherming.
+*Wijzigt de Wet bodembescherming.*
 
 ##### Artikel VII
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel IX
 
@@ -98,11 +66,11 @@ Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### ARTIKEL XI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XII
 
-Wijzigt de Financiële-verhoudingswet.
+*Wijzigt de Financiële-verhoudingswet.*
 
 ##### Artikel XIII
 
@@ -111,5 +79,3 @@ Wijzigt de Financiële-verhoudingswet.
 2. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0009217&artikel=I&z=2000-01-01&g=2000-01-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0009217&artikel=II&z=2000-01-01&g=2000-01-01), alsmede [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0009217&artikel=III&z=2000-01-01&g=2000-01-01) en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009217&artikel=IV&z=2000-01-01&g=2000-01-01) vinden toepassing nadat onderscheidenlijk artikel 66b van de Wet op de inkomstenbelasting 1964, artikel 22a van de Wet op de vermogensbelasting 1964 en 30a van de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746) bij het begin van het kalenderjaar 1998 zijn toegepast.
 
 3. De [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0009217&artikel=V&z=2000-01-01&g=2000-01-01) en [VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0009217&artikel=VII&z=2000-01-01&g=2000-01-01), vinden voor het eerst toepassing voor het jaar 1998.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

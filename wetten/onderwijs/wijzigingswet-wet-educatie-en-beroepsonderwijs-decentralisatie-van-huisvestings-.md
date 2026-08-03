@@ -1,58 +1,22 @@
 ---
 title: "Wet van 29 mei 1997 tot wijziging van de Wet educatie en beroepsonderwijs in verband met decentralisatie van huisvestings- en bestedingsbeslissingen en vervallen van het economisch claimrecht"
+citeertitel: "Wijzigingswet Wet educatie en beroepsonderwijs (decentralisatie van huisvestings- en bestedingsbeslissingen en vervallen van economisch claimrecht)"
 identifier: "BWBR0008703"
-country: "nl"
-rank: "wet"
-publication_date: "2004-06-23"
-last_updated: "2004-06-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008703"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "550783"
-version_id: "803302"
-internal_id: "C803301"
-label_id: "534834"
-dtd_version: "2.0"
-original_entry_into_force: "1997-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008703/2004-06-23/0"
-intitule_bron: "Stb.1997-229"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-05-29"
-intitule_published: "1997-06-12"
-intitule_in_force: "1997-06-12"
-intitule_status: "goed"
-original_publication: "Stb.1997-229"
-original_signed_date: "1997-05-29"
-original_published_date: "1997-06-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "24666"
-original_url_id: "stb-1997-229"
-entry_into_force_date: "1997-07-01"
-entry_into_force_dossier: "24666"
-jci_1_3: "jci1.3:c:BWBR0008703&z=2004-06-23&g=2004-06-23"
-jci_1_0: "1.0:c:BWBR0008703&g=2004-06-23"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet educatie en beroepsonderwijs (decentralisatie van huisvestings- en bestedingsbeslissingen en vervallen van economisch claimrecht)"
-signed_date: "1997-05-29"
-entry_into_force: "1997-07-01"
+publicatiedatum: 1997-07-01
+laatste_update: 2004-06-23
+status: geldig
+toestand: 2004-06-23
+bron: "https://wetten.overheid.nl/BWBR0008703"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 29 mei 1997 tot wijziging van de Wet educatie en beroepsonderwijs in verband met decentralisatie van huisvestings- en bestedingsbeslissingen en vervallen van het economisch claimrecht
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het gewenst is de bevoegde gezagsorganen van de regionale opleidingencentra, de regionale opleidingencentra in een samenwerkingsverband en de agrarische opleidingscentra, de besturen van de landelijke organen voor het beroepsonderwijs, alsmede de besturen van de innovatieve praktijkcentra grotere beslissingsbevoegdheid ten aanzien van de huisvestingsvoorzieningen te verschaffen;
-
-dat ten gevolge van de overdracht van de beslissingsbevoegdheid ten aanzien van de huisvesting geen opbrengst voor het Rijk wordt verkregen;
-
-dat in verband met de ongelijke huisvestingssituatie waarin de instellingen verkeren een verevening dient plaats te vinden, waardoor deze in een normatief gelijkwaardige uitgangspositie komen;
-
-dat in verband daarmee wijziging van de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) wenselijk is;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### ARTIKEL I
 
-Wijzigt Wet educatie en beroepsonderwijs.
+*Wijzigt Wet educatie en beroepsonderwijs.*
 
 ##### ARTIKEL II
 
@@ -78,7 +42,7 @@ Deze algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaa
 
 ##### ARTIKEL III
 
-1. Tot het tijdstip waarop de algemene maatregelen van bestuur op grond van [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.1), [2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) en [2.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.4.1) in werking treden, wordt binnen het raam van de door de begrotingswetgever beschikbaar gestelde middelen, bij ministeriële regeling jaarlijks de rijksbijdrage voor de huisvestingskosten vastgesteld met inachtneming van de artikelen 2.2.1, tweede en vierde lid, 2.3.1 en 2.4.1 van die wet. Deze ministeriële regeling stelt tevens het normatieve rentepercentage vast, bedoeld in het tweede lid, onder **a**, en de norm voor de uitgaven voor rente en aflossing, bedoeld in het tweede lid, onder **b**.
+1. Tot het tijdstip waarop de algemene maatregelen van bestuur op grond van [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.1), [2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) en [2.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.4.1) in werking treden, wordt binnen het raam van de door de begrotingswetgever beschikbaar gestelde middelen, bij ministeriële regeling jaarlijks de rijksbijdrage voor de huisvestingskosten vastgesteld met inachtneming van de artikelen 2.2.1, tweede en vierde lid, 2.3.1 en 2.4.1 van die wet. Deze ministeriële regeling stelt tevens het normatieve rentepercentage vast, bedoeld in het tweede lid, onder *a*, en de norm voor de uitgaven voor rente en aflossing, bedoeld in het tweede lid, onder *b*.
 
 2. De rijksbijdrage voor de huisvestingskosten, bedoeld in het eerste lid, omvat ten minste een vergoeding waaruit kunnen worden bestreden:
 
@@ -88,7 +52,7 @@ Deze algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaa
 
 ##### ARTIKEL IV
 
-Vervallen
+*Vervallen*
 
 ##### ARTIKEL V
 
@@ -97,5 +61,3 @@ Onze Minister van Onderwijs, Cultuur en Wetenschappen stelt ten laste van de Rij
 ##### ARTIKEL VI
 
 Deze wet treedt in werking met ingang van 1 juli 1997, met uitzondering van [artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=I&z=2004-06-23&g=2004-06-23), voor zover het betreft artikel 2.8.1, en [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=V&z=2004-06-23&g=2004-06-23), laatste volzin, die gelijktijdig in werking treden op 31 december 1997 met dien verstande dat bij koninklijk besluit een inwerkingtreding op een ander tijdstip, gelegen in 1997, kan worden vastgesteld, en met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=II&z=2004-06-23&g=2004-06-23) dat in werking treedt op 31 december 1998 met dien verstande dat bij koninklijk besluit een inwerkingtreding op een eerder tijdstip kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,47 +1,18 @@
 ---
 title: "Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake tarievenbeleid 1998 voor de tandartsen"
+citeertitel: "Aanwijzing inzake tarievenbeleid 1998 voor de tandartsen"
 identifier: "BWBR0009060"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-12-05"
-last_updated: "1997-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009060"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "4769863"
-version_id: "6576122"
-internal_id: "C7033361"
-label_id: "4747934"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009060/1997-12-05/0"
-intitule_bron: "Stcrt.1997-233"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-11-28"
-intitule_published: "1997-12-03"
-intitule_in_force: "1997-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-233"
-original_signed_date: "1997-11-28"
-original_published_date: "1997-12-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-12-05"
-jci_1_3: "jci1.3:c:BWBR0009060&z=1997-12-05&g=1997-12-05"
-jci_1_0: "1.0:c:BWBR0009060&g=1997-12-05"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing inzake tarievenbeleid 1998 voor de tandartsen"
-signed_date: "1997-11-28"
-entry_into_force: "1997-12-05"
+publicatiedatum: 1997-12-05
+laatste_update: 1997-12-05
+status: geldig
+toestand: 1997-12-05
+bron: "https://wetten.overheid.nl/BWBR0009060"
+opgehaald: 2026-08-03
 ---
+
 # Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake tarievenbeleid 1998 voor de tandartsen
-
-Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=14);
-
-Gehoord het Centraal orgaan tarieven gezondheidszorg, (brief van 21 oktober 1997, kenmerk HV/tbk/A/97/111, vastgesteld in de vergadering van 20 oktober 1997);
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief van 6 november 1997, kenmerk VPZ/P-974000);
-
-Besluiten:
 
 ##### Artikel 1
 

@@ -1,45 +1,17 @@
 ---
 title: "Instellingsbeschikking onderzoekscommissie Eurotop"
 identifier: "BWBR0008907"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-09-13"
-last_updated: "1997-09-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008907"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4325053"
-version_id: "6089322"
-internal_id: "C6292831"
-label_id: "4303614"
-original_entry_into_force: "1997-09-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008907/1997-09-13/0"
-intitule_bron: "Stcrt.1997-190"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-09-12"
-intitule_published: "1997-10-03"
-intitule_in_force: "1997-10-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-190"
-original_signed_date: "1997-09-12"
-original_published_date: "1997-10-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-09-13"
-jci_1_3: "jci1.3:c:BWBR0008907&z=1997-09-13&g=1997-09-13"
-jci_1_0: "1.0:c:BWBR0008907&g=1997-09-13"
-citeertitel_status: "officieel"
-signed_date: "1997-09-12"
-entry_into_force: "1997-09-13"
+publicatiedatum: 1997-09-13
+laatste_update: 1997-09-13
+status: geldig
+toestand: 1997-09-13
+bron: "https://wetten.overheid.nl/BWBR0008907"
+opgehaald: 2026-08-03
 ---
+
 # Instellingsbeschikking onderzoekscommissie Eurotop
-
-Overwegende dat in juni 1997 in het kader van de Eurotop 1997 sprake is geweest van ongeregeldheden tengevolge waarvan een groot aantal verdachten aangehouden werd en overgebracht werd naar een aantal penitentiaire inrichtingen;
-
-Overwegende dat bekend is dat over de opvang van deze arrestanten in de penitentiaire inrichtingen (anoniem) is geklaagd;
-
-Overwegende dat het bovenstaande aanleiding is de wijze van opvang in de desbetreffende inrichtingen te onderzoeken;
-
-Besluit:
 
 1. Een commissie in te stellen die de opdracht heeft een onderzoek in te stellen naar de wijze van opvang in de desbetreffende inrichtingen en daarover te rapporteren.
 

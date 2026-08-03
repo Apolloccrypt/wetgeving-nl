@@ -1,47 +1,18 @@
 ---
 title: "Wet van 5 juli 1997, houdende regels tot versterking van de rechtspositie van hen die een medische keuring ondergaan (Wet op de medische keuringen)"
+citeertitel: "Wet op de medische keuringen"
 identifier: "BWBR0008819"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008819"
+categorie: "Gezondheidszorg"
 soort: "wet"
-stam_id: "613273"
-version_id: "890662"
-internal_id: "C890661"
-label_id: "595224"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008819/2025-01-01/0"
-intitule_bron: "Stb.1997-365"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-07-05"
-intitule_published: "1997-08-21"
-intitule_in_force: "1997-12-16"
-intitule_status: "goed"
-original_publication: "Stb.1997-365"
-original_signed_date: "1997-07-05"
-original_published_date: "1997-08-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "23259"
-original_url_id: "stb-1997-365"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0008819&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0008819&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de medische keuringen"
-signed_date: "1997-07-05"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0008819"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 5 juli 1997, houdende regels tot versterking van de rechtspositie van hen die een medische keuring ondergaan (Wet op de medische keuringen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de rechtspositie van degenen die een medische keuring ondergaan in verband met een burgerrechtelijke arbeidsverhouding die bij of krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) als dienstbetrekking wordt aangemerkt, een burgerrechtelijke pensioen- of levensverzekering of een verzekering wegens arbeidsongeschiktheid naar burgerlijk recht, te versterken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -49,17 +20,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. keuring: vragen over de gezondheidstoestand van de keurling en het verrichten van medisch onderzoek in verband met het aangaan of wijzigen van:
 
-- 1°. een burgerrechtelijke arbeidsverhouding die bij of krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) als dienstbetrekking wordt aangemerkt,
+   - 1°. een burgerrechtelijke arbeidsverhouding die bij of krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) als dienstbetrekking wordt aangemerkt,
 
-- 2°. een aanstelling voor een functie als genoemd in [artikel 3 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3),
+   - 2°. een aanstelling voor een functie als genoemd in [artikel 3 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3),
 
-- 3°. een burgerrechtelijke pensioen- of levensverzekering,
+   - 3°. een burgerrechtelijke pensioen- of levensverzekering,
 
-- 4°. een pensioenovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1), dan wel een pensioenregeling ten aanzien waarvan [artikel 3 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=3) toepassing heeft gevonden of de pensioenregeling waaraan deelneming verplicht is op grond van de Wet op het notarisambt,
+   - 4°. een pensioenovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1), dan wel een pensioenregeling ten aanzien waarvan [artikel 3 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=3) toepassing heeft gevonden of de pensioenregeling waaraan deelneming verplicht is op grond van de Wet op het notarisambt,
 
-- 5°. een verzekering wegens arbeidsongeschiktheid naar burgerlijk recht, of
+   - 5°. een verzekering wegens arbeidsongeschiktheid naar burgerlijk recht, of
 
-- 6°. een verzekering als bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2025-01-01&g=2025-01-01), met betrekking tot een in Nederland gelegen risico;
+   - 6°. een verzekering als bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2025-01-01&g=2025-01-01), met betrekking tot een in Nederland gelegen risico;
 
 - b. keurling: een persoon die een keuring ondergaat;
 
@@ -97,7 +68,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Voor zover niet ondergebracht bij een pensioenvoorziening dan wel pensioenregeling, als bedoeld in het derde lid, vindt geen keuring plaats voor deelneming aan een aanvullende arbeidsongeschiktheidsverzekering die aan de burgerrechtelijke arbeidsverhouding die bij of krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) als dienstbetrekking wordt aangemerkt, of in verband met een aanstelling in openbare dienst is verbonden.
 
-5. Voorzover sprake is van een arbeidsverhouding die bij of krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) als dienstbetrekking wordt aangemerkt of van een aanstelling in openbare dienst, vindt geen keuring plaats in verband met een door de werkgever te sluiten of gesloten verzekering ter dekking van het risico van doorbetaling van loon als bedoeld in [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), of van de betaling van een uitkering als bedoeld in [artikel 84 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=84) dan wel betaling van arbeidsongeschiktheidsuitkering als bedoeld in [artikel 75a van de Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75a).
+5. Voorzover sprake is van een arbeidsverhouding die bij of krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) als dienstbetrekking wordt aangemerkt of van een aanstelling in openbare dienst, vindt geen keuring plaats in verband met een door de werkgever te sluiten of gesloten verzekering ter dekking van het risico van doorbetaling van loon als bedoeld in [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), of van de betaling van een uitkering als bedoeld in [artikel 84 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=84) dan wel betaling van arbeidsongeschiktheidsuitkering als bedoeld in [artikel 75a van de Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75a).
 
 6. Geen uitsluiting of vermindering van rechten op grond van ziekten, aandoeningen of gebreken wordt bedongen door de verzekeraar bij de deelneming aan een voorziening dan wel regeling als bedoeld in het derde lid en bij het aangaan of wijzigen van een verzekering als bedoeld in het vierde en vijfde lid, voorzover ingevolge deze leden een keuringsverbod geldt.
 
@@ -105,7 +76,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Bij een keuring in verband met het aangaan of wijzigen van een verzekering mogen geen vragen worden gesteld over in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2025-01-01&g=2025-01-01), genoemde ziekten, voor zover die op erfelijkheid betrekking hebben, bij de bloedverwanten van de aspirant-verzekerde en, tenzij de ziekte manifest is, bij de aspirant-verzekerde zelf en over onderzoek bij de aspirant-verzekerde en bij diens bloedverwanten gericht op de erfelijke aanleg voor ziekte en de resultaten van dergelijk onderzoek, indien de te sluiten verzekering de vragengrens niet overschrijdt. Bij de behandeling van de aanvrage voor het aangaan of wijzigen van een verzekering en bij een keuring in dat verband mogen geen uit andere hoofde reeds bij de keuringvrager, de keurend arts of geneeskundig adviseur aanwezige erfelijke gegevens over de aspirantverzekerde en diens bloedverwanten worden gebruikt.
 
-2. Voor arbeidsongeschiktheidsverzekeringen, voor zover niet vallende onder [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2025-01-01&g=2025-01-01), bedraagt de vragengrens € 36 249,– per 1 januari 2025: € 51.100,– voor het eerste jaar van arbeidsongeschiktheid en € 24 267,– per 1 januari 2025: € 34.200,– voor de daaropvolgende jaren van arbeidsongeschiktheid. Voor levensverzekeringen bedraagt de vragengrens € 250 000 per 1 januari 2025: € 352.200,–. Bedoelde bedragen worden elke drie jaar bij ministeriële regeling aangepast aan de consumentenprijsindex.
+2. Voor arbeidsongeschiktheidsverzekeringen, voor zover niet vallende onder [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2025-01-01&g=2025-01-01), bedraagt de vragengrens € 36 249,– *per 1 januari 2025: € 51.100,–* voor het eerste jaar van arbeidsongeschiktheid en € 24 267,– *per 1 januari 2025: € 34.200,–* voor de daaropvolgende jaren van arbeidsongeschiktheid. Voor levensverzekeringen bedraagt de vragengrens € 250 000 *per 1 januari 2025: € 352.200,–*. Bedoelde bedragen worden elke drie jaar bij ministeriële regeling aangepast aan de consumentenprijsindex.
 
 ##### Artikel 6
 
@@ -171,7 +142,7 @@ De keurling heeft het recht medewerking te weigeren aan een keuring of een onder
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
@@ -182,5 +153,3 @@ Vervallen
 ##### Artikel 17
 
 Deze wet wordt aangehaald als: Wet op de medische keuringen.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

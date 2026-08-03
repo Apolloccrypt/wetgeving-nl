@@ -1,44 +1,69 @@
 ---
 title: "Besluit mandaat, volmacht en machtiging secretaris-generaal Algemene Zaken"
 identifier: "BWBR0009405"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-03-21"
-last_updated: "1998-03-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009405"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4812903"
-version_id: "6619322"
-internal_id: "C7076561"
-label_id: "4790994"
-dtd_version: "2.0"
-original_entry_into_force: "1998-03-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009405/1998-03-21/0"
-intitule_bron: "Stcrt.1998-55"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-02-25"
-intitule_published: "1998-03-20"
-intitule_in_force: "1998-03-20"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-55"
-original_signed_date: "1998-02-25"
-original_published_date: "1998-03-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-03-21"
-jci_1_3: "jci1.3:c:BWBR0009405&z=1998-03-21&g=1998-03-21"
-jci_1_0: "1.0:c:BWBR0009405&g=1998-03-21"
-citeertitel_status: "officieel"
-signed_date: "1998-02-25"
-entry_into_force: "1998-03-21"
+publicatiedatum: 1998-03-21
+laatste_update: 1998-03-21
+status: geldig
+toestand: 1998-03-21
+bron: "https://wetten.overheid.nl/BWBR0009405"
+opgehaald: 2026-08-03
 ---
-# Besluit mandaat, volmacht en machtiging secretaris-generaal Algemene Zaken
 
-Besluit:
+# Besluit mandaat, volmacht en machtiging secretaris-generaal Algemene Zaken
 
 ##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+
+a.
+
+ministerie:
+
+Ministerie van Algemene Zaken;
+
+b.
+
+minister:
+
+Minister van Algemene Zaken;
+
+c.
+
+secretaris-generaal:
+
+Secretaris-Generaal van het ministerie, waaronder mede begrepen de functionaris die door de secretaris-generaal schriftelijk is aangewezen om bij afwezigheid van de secretaris-generaal diens functie waar te nemen.
+
+d.
+
+dienst:
+
+Kabinet van de Minister-President, Rijksvoorlichtingsdienst, Bureau van de Wetenschappelijke Raad voor het regeringsbeleid; Centrale afdeling Facilitaire en Informatie Aangelegenheden, Centrale Afdeling Financieel-Economische Zaken, Centrale Afdeling Personeel en Organisatie;
+
+e.
+
+diensthoofd:
+
+degene die is belast met de leiding van een dienst;
+
+f.
+
+mandaat:
+
+de bevoegdheid om in naam van de minister besluiten te nemen;
+
+g.
+
+volmacht:
+
+de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten;
+
+h.
+
+machtiging:
+
+de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2
 
@@ -145,5 +170,3 @@ Dit besluit treedt in werking met ingang van de dag na die waarop het is bekendg
 ##### Artikel 10
 
 Dit besluit kan worden aangehaald als: Besluit mandaat, volmacht en machtiging secretaris-generaal Algemene Zaken.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de Algemene Rekenkamer, de secretaris-generaal en de functionarissen, bedoeld in artikel 4, eerste lid, onder a en b, van dit besluit.

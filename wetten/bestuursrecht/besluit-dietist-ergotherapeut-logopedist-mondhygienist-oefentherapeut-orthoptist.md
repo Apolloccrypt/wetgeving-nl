@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 24 oktober 1997, houdende regels inzake de opleiding tot en de deskundigheid van de diëtist, de ergotherapeut, de logopedist, de mondhygiënist, de oefentherapeut, de orthoptist en de podotherapeut (Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut)"
+citeertitel: "Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut"
 identifier: "BWBR0008975"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008975"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "638203"
-version_id: "925652"
-internal_id: "C925651"
-label_id: "619504"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008975/2023-01-01/0"
-intitule_bron: "Stb.1997-523"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-10-24"
-intitule_published: "1997-11-20"
-intitule_in_force: "1997-11-27"
-intitule_status: "goed"
-original_publication: "Stb.1997-523"
-original_signed_date: "1997-10-24"
-original_published_date: "1997-11-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-523"
-entry_into_force_date: "1997-12-01"
-jci_1_3: "jci1.3:c:BWBR0008975&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0008975&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut"
-signed_date: "1997-10-24"
-entry_into_force: "1997-12-01"
+publicatiedatum: 1997-12-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0008975"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 24 oktober 1997, houdende regels inzake de opleiding tot en de deskundigheid van de diëtist, de ergotherapeut, de logopedist, de mondhygiënist, de oefentherapeut, de orthoptist en de podotherapeut (Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 juni 1997, CSZ/BO-978517;
-
-Gelet op [artikel 34 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34);
-
-Gezien de adviezen van de Raad voor de beroepen in de individuele gezondheidszorg (adviezen van 8 juli 1994, 23 november 1994 en 4 oktober 1996);
-
-De Raad van State gehoord (advies van 26 augustus 1997, No. W13.97.348);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 14 oktober 1997, CSZ/BO-9714 270;
-
-Hebben goedgevonden en verstaan:
 
 ### HOOFDSTUK I. BEGRIPSBEPALING
 
@@ -448,21 +414,21 @@ Tot het gebied van deskundigheid van de logopedist wordt gerekend:
 
 - b. het uitwendig onderzoeken van de patiënt of en zo ja in hoeverre:
 
-- –. de vermogens tot het spreken, leren spreken en gebruiken van taal aanwezig zijn,
+   - – de vermogens tot het spreken, leren spreken en gebruiken van taal aanwezig zijn,
 
-- –. de vermogens tot veilig en efficiënt eten, drinken en slikken aanwezig zijn,
+   - – de vermogens tot veilig en efficiënt eten, drinken en slikken aanwezig zijn,
 
-- –. de gehoor-, stem- of spraakorganen functioneren, daaronder begrepen de invloed van de ademhaling op de stemgeving,
+   - – de gehoor-, stem- of spraakorganen functioneren, daaronder begrepen de invloed van de ademhaling op de stemgeving,
 
-- –. er mede aan de persoonlijkheid van de patiënt en diens relatie tot zijn omgeving gerelateerde stoornissen in het toepassen van taal of het spreken aanwezig zijn, en op basis van de verkregen gegevens opstellen van een behandelplan;
+   - – er mede aan de persoonlijkheid van de patiënt en diens relatie tot zijn omgeving gerelateerde stoornissen in het toepassen van taal of het spreken aanwezig zijn, en op basis van de verkregen gegevens opstellen van een behandelplan;
 
 - c. het behandelen van de patiënt, gericht op:
 
-- –. het herstellen, verbeteren of onderhouden van het functioneren van diens gehoor-, stem- of spraakorganen of het voor de stemgeving noodzakelijke reguleren van diens ademhaling;
+   - – het herstellen, verbeteren of onderhouden van het functioneren van diens gehoor-, stem- of spraakorganen of het voor de stemgeving noodzakelijke reguleren van diens ademhaling;
 
-- –. het opheffen van bij de patiënt aanwezige stoornissen in het spreken of leren spreken dan wel in het gebruiken van de taal of in het adequaat eten, drinken en slikken, al dan niet in samenhang met de daartoe noodzakelijke beïnvloeding van beweging of gedrag;
+   - – het opheffen van bij de patiënt aanwezige stoornissen in het spreken of leren spreken dan wel in het gebruiken van de taal of in het adequaat eten, drinken en slikken, al dan niet in samenhang met de daartoe noodzakelijke beïnvloeding van beweging of gedrag;
 
-- –. het in het kader van de behandeling begeleiden van de patiënt bij het aanwenden van hulpmiddelen die het functioneren van de gehoor-, stem of spraakorganen bevorderen of die deze organen geheel of ten dele vervangen;
+   - – het in het kader van de behandeling begeleiden van de patiënt bij het aanwenden van hulpmiddelen die het functioneren van de gehoor-, stem of spraakorganen bevorderen of die deze organen geheel of ten dele vervangen;
 
 - d. het onderzoeken van een persoon of het geven van logopedisch advies aan een persoon, met als doel het voorkomen van stoornissen in het functioneren van de gehoor-, stem- of spraakorganen dan wel in het spreken of in het gebruiken van de taal.
 
@@ -576,11 +542,11 @@ Tot het gebied van deskundigheid van de mondhygiënist wordt gerekend:
 
 - e. het bij daarvoor in aanmerking komende patiënten in opdracht van een tandarts:
 
-- 1°. toepassen van ioniserende straling in het kader van het onderzoek, bedoeld onder a;
+   - 1°. toepassen van ioniserende straling in het kader van het onderzoek, bedoeld onder a;
 
-- 2°. toepassen van lokale anesthesie door het geven van injecties met middelen ten behoeve van geleidings- of infiltratie-anesthesie ter ondersteuning van het onderzoek, bedoeld onder a, of van de behandeling, bedoeld onder c, en onder 3°;
+   - 2°. toepassen van lokale anesthesie door het geven van injecties met middelen ten behoeve van geleidings- of infiltratie-anesthesie ter ondersteuning van het onderzoek, bedoeld onder a, of van de behandeling, bedoeld onder c, en onder 3°;
 
-- 3°. behandelen van primaire caviteiten door middel van preparatie ten behoeve van restauratie met plastische vulmaterialen.
+   - 3°. behandelen van primaire caviteiten door middel van preparatie ten behoeve van restauratie met plastische vulmaterialen.
 
 ### HOOFDSTUK VI. OEFENTHERAPEUT
 
@@ -846,13 +812,13 @@ Tot het gebied van deskundigheid van de orthoptist wordt gerekend:
 
 - c. het behandelen van stoornissen in het monoculaire of binoculaire zien van de patiënt door middel van:
 
-- 1°. het geven van instructie en advies aan de patiënt aangaande het monoculaire en binoculaire zien;
+   - 1°. het geven van instructie en advies aan de patiënt aangaande het monoculaire en binoculaire zien;
 
-- 2°. oefentherapie met orthoptische hulpmiddelen en apparatuur;
+   - 2°. oefentherapie met orthoptische hulpmiddelen en apparatuur;
 
-- 3°. amblyopiebehandeling met behulp van occlusiemateriaal, accomodatieverlammende oogdruppels of speciaal daartoe voorgeschreven brillenglazen;
+   - 3°. amblyopiebehandeling met behulp van occlusiemateriaal, accomodatieverlammende oogdruppels of speciaal daartoe voorgeschreven brillenglazen;
 
-- 4°. het aanmeten van brillenglazen of speciale brilcorrecties;
+   - 4°. het aanmeten van brillenglazen of speciale brilcorrecties;
 
 - d. het adviseren aan de oogarts inzake de indicatiestelling voor operatieve oogspiercorrecties.
 
@@ -995,5 +961,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 31
 
 Dit besluit wordt aangehaald als: Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

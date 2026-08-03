@@ -1,48 +1,69 @@
 ---
 title: "Beschikking Sporttotalisator"
 identifier: "BWBR0009239"
-country: "nl"
-rank: "zbo"
-publication_date: "2002-05-31"
-last_updated: "2002-05-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009239"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "4805323"
-version_id: "6611882"
-internal_id: "C7069121"
-label_id: "4783554"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009239/2002-05-31/0"
-intitule_bron: "Stcrt.1997-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-19"
-intitule_published: "1997-12-29"
-intitule_in_force: "1997-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-249"
-original_signed_date: "1997-12-19"
-original_published_date: "1997-12-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-12-31"
-jci_1_3: "jci1.3:c:BWBR0009239&z=2002-05-31&g=2002-05-31"
-jci_1_0: "1.0:c:BWBR0009239&g=2002-05-31"
-citeertitel_status: "officieel"
-signed_date: "1997-12-19"
-entry_into_force: "1997-12-31"
+publicatiedatum: 1997-12-31
+laatste_update: 2002-05-31
+status: geldig
+toestand: 2002-05-31
+bron: "https://wetten.overheid.nl/BWBR0009239"
+opgehaald: 2026-08-03
 ---
+
 # Beschikking Sporttotalisator
-
-Gelet op de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=16), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=21), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27b), [27c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27c) en [34 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34);
-
-Gelezen het advies van het College van toezicht op de kansspelen;
-
-Besluiten:
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
+
+a.
+
+de wet:
+
+de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) (Stb. 1964, 483);
+
+b.
+
+de ministers:
+
+de Minister van Justitie en de Minister van Welzijn, Volksge-zondheid en Cultuur;
+
+c.
+
+de stichting:
+
+de Stichting de Nationale Sporttotalisator, gevestigd te ’s-Gravenhage;
+
+d.
+
+cijferspel:
+
+een kansspel als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), en [artikel 27a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a);
+
+e.
+
+prijzenreserve:
+
+een reservering ten laste van het voor uitkering aan prijzen bestemde bedrag;
+
+f.
+
+medewerkende verenigingen:
+
+verenigingen en stichtingen aangesloten bij sportbonden die op hun beurt zijn vertegenwoordigd in de Vereniging ’N.O.C.*N.S.F.’, bij welke formulieren ten behoeve van het afsluiten van een abonnement voor deelneming aan Lotto Jackpot Abonnement verkrijgbaar worden gesteld;
+
+g.
+
+verkooppunten:
+
+ondernemers bij welke de deelnameformulieren aan lotto’s en sportprijsvragen verkrijgbaar worden gesteld;
+
+h.
+
+het college:
+
+het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
 
 ##### Artikel 2
 
@@ -66,9 +87,9 @@ In deze beschikking wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De stichting ziet er op toe dat medewerkende verenigingen en verkooppunten niet in strijd handelen met het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), [aanhef en onder b](onbekend), [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=20), en [artikel 27e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27e).
+1. De stichting ziet er op toe dat medewerkende verenigingen en verkooppunten niet in strijd handelen met het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), [aanhef en onder b](https://wetten.overheid.nl/BWBR0002469), [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=20), en [artikel 27e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27e).
 
-2. In de door de stichting met de medewerkende verenigingen en verkooppunten te sluiten overeenkomsten wordt de bepaling opgenomen dat, indien de stichting constateert dat de medewerkende vereniging of ondernemer in strijd heeft gehandeld met het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), [aanhef en onder b](onbekend), [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=20), of [artikel 27e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27e), de stichting met onmiddellijke ingang de overeenkomst beëindigt.
+2. In de door de stichting met de medewerkende verenigingen en verkooppunten te sluiten overeenkomsten wordt de bepaling opgenomen dat, indien de stichting constateert dat de medewerkende vereniging of ondernemer in strijd heeft gehandeld met het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), [aanhef en onder b](https://wetten.overheid.nl/BWBR0002469), [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=20), of [artikel 27e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27e), de stichting met onmiddellijke ingang de overeenkomst beëindigt.
 
 3. Van het ingevolge het eerste lid gehouden toezicht en van de ingevolge het tweede lid genomen maatregelen wordt mededeling gedaan in het in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009239&artikel=15&z=2002-05-31&g=2002-05-31), bedoelde jaarverslag.
 

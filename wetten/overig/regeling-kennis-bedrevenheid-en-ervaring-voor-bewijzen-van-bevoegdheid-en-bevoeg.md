@@ -1,46 +1,33 @@
 ---
 title: "Regeling kennis, bedrevenheid en ervaring voor bewijzen van bevoegdheid en bevoegdverklaringen"
 identifier: "BWBR0008246"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-05-29"
-last_updated: "1998-05-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008246"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4931233"
-version_id: "7988472"
-internal_id: "C9912531"
-label_id: "4909094"
-dtd_version: "2.0"
-original_entry_into_force: "1996-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008246/1998-05-29/0"
-intitule_bron: "Stcrt.1996-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-09-23"
-intitule_published: "1996-09-27"
-intitule_in_force: "1996-09-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-187"
-original_signed_date: "1996-09-23"
-original_published_date: "1996-09-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-10-01"
-jci_1_3: "jci1.3:c:BWBR0008246&z=1998-05-29&g=1998-05-29"
-jci_1_0: "1.0:c:BWBR0008246&g=1998-05-29"
-citeertitel_status: "officieel"
-signed_date: "1996-09-23"
-entry_into_force: "1996-10-01"
+publicatiedatum: 1996-10-01
+laatste_update: 1998-05-29
+status: geldig
+toestand: 1998-05-29
+bron: "https://wetten.overheid.nl/BWBR0008246"
+opgehaald: 2026-08-03
 ---
+
 # Regeling kennis, bedrevenheid en ervaring voor bewijzen van bevoegdheid en bevoegdverklaringen
-
-Gelet op [artikel 23, derde lid, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=23);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling en in de bij deze regeling behorende bijlagen wordt verstaan onder:
+
+a.
+
+JAR:
+
+Joint Aviation Requirements;
+
+b.
+
+FAR:
+
+Federal Aviation Regulations.
 
 ##### Artikel 2
 
@@ -52,7 +39,7 @@ Voor een bewijs van bevoegdheid voor stuurhutpersoneel gelden de op dat bewijs t
 
 | bewijzen van bevoegdheid voor stuurlieden | kennis | bedrevenheid | ervaring |
 | --- | --- | --- | --- |
-| bewijzen van bevoegdheid voor stuurlieden | in bijlage nr. | in bijlage nr. | in bijlage nr. |
+| in bijlage nr. |  |  |  |
 | OEFENBEWIJS - vleugel -en hefschroefvliegtuigen | 1 | 6/96 | 6/96 |
 | BEPERKT VLIEGTUIGBEWIJS A - vleugelvliegtuigen | 2/98 | 7/96 | 6/96 |
 | VLIEGBEWIJS A - vleugelvliegtuigen | 2/89 | 7/96 | 6/96 |
@@ -62,9 +49,9 @@ Voor een bewijs van bevoegdheid voor stuurhutpersoneel gelden de op dat bewijs t
 | VLIEGBEWIJS B2 OF B1- vleugelvliegtuigen | 5/95 | 7/96 | 6/96 |
 | VLIEGBEWIJS B1 - hefschroefvliegtuigen | 5/95 | 7/96 | 6/96 |
 | ZWEEFVLIEGBEWIJS | 11 | 11 | 11 |
-|   |   |   |   |
+|  |  |  |  |
 | Bewijs van bevoegdheid als BALLONVOERDER | 12 | 12 | 12 |
-|   |   |   |   |
+|  |  |  |  |
 | Bewijs van bevoegdheid als BOORDWERKTUIGKUNDIGE | 14 | 6/96 | 6/96 |
 
 ##### Artikel 4
@@ -73,8 +60,8 @@ Voor een bevoegdverklaring van stuurhutpersoneel gelden de op die bevoegdverklar
 
 | bevoegdverklaringen | kennis | bedrevenheid | ervaring |
 | --- | --- | --- | --- |
-| bevoegdverklaringen | in bijlage nr. | in bijlage nr. | in bijlage nr. |
-| **in een vliegbewijs** |   |   |   |
+| in bijlage nr. |  |  |  |
+| in een vliegbewijs |  |  |  |
 | "TYPE/KLASSE VAN VLIEGTUIG" - vleugelvliegtuigen | 7/96 | 7/96 | - |
 | "TYPE VAN VLIEGTUIG" - hefschroefvliegtuigen | 7/96 | 7/96 | - |
 | "BLINDVLIEGEN" - vleugelvliegtuigen | 5/95 | 7/96 | 6/96 |
@@ -84,15 +71,15 @@ Voor een bevoegdverklaring van stuurhutpersoneel gelden de op die bevoegdverklar
 | "RADIOTELEFONIE" | 37/98 | 37/98 | - |
 | "VLIEGONDERRICHT" - vleugelvliegtuigen | 38 | 38 | 38 |
 | "VLIEGONDERRICHT" - hefschroefvliegtuigen | 39 | 39 | 39 |
-|   |   |   |   |
-| **in het zweefvliegbewijs** |   |   |   |
+|  |  |  |  |
+| in het zweefvliegbewijs |  |  |  |
 | "LIEREN OF SLEEPVLIEGEN" | 11 | 11 | 11 |
 | "WOLKENVLIEGEN" | 50 | 50 | 50 |
 | "VLIEGONDERRICHT" | 52 | 52 | 52 |
 | "MOTORZWEEFVLIEGEN" | 53 | 53 | 53 |
-|   |   |   |   |
-| **in het bewijs van bevoegdheid** **als boordwerktuigkundige** |   |   |   |
-|   |   |   |   |
+|  |  |  |  |
+| in het bewijs van bevoegdheid als boordwerktuigkundige |  |  |  |
+|  |  |  |  |
 | "TYPE VAN VLIEGTUIG" - vleugelvliegtuigen | 60 | 60 | - |
 
 ##### Artikel 5
@@ -102,24 +89,24 @@ Voor een bewijs van bevoegdheid voor grondpersoneel gelden de op dat bewijs van 
 | Eisen voor bewijzen van bevoegdheid en bevoegdverklaringen | bijl. nr. |
 | --- | --- |
 | GRONDWERKTUIGKUNDIGE AB categorie 1 Z en 1 T | 70 |
-| - vleugelvliegtuigen algemeen met één motor, niet uitgerust met een drukkajuit |   |
-| - motoren |   |
+| - vleugelvliegtuigen algemeen met één motor, niet uitgerust met een drukkajuit |  |
+| - motoren |  |
 | GRONDWERKTUIGKUNDIGE AB categorie 2 Z en 2 T | 71 |
-| - type vleugelvliegtuigen tot 5700 kg met meer dan één motor of uitgerust met een drukkajuit |   |
-| - motoren |   |
+| - type vleugelvliegtuigen tot 5700 kg met meer dan één motor of uitgerust met een drukkajuit |  |
+| - motoren |  |
 | GRONDWERKTUIGKUNDIGE AB categorie 3 Z en 3 T | 72 |
-| - type hefschroefvliegtuigen tot 2700 kg |   |
-| - motoren |   |
+| - type hefschroefvliegtuigen tot 2700 kg |  |
+| - motoren |  |
 | GRONDWERKTUIGKUNDIGE C (E) F | 73 |
-| - instrumenten zonder elektronische hulpapparauur, klimaatregeling en elektrische installaties in categorie 1, 2 en 3 vliegtuigen |   |
+| - instrumenten zonder elektronische hulpapparauur, klimaatregeling en elektrische installaties in categorie 1, 2 en 3 vliegtuigen |  |
 | GRONDWERKTUIGKUNDIGE DG | 74 |
-| - automatische vluchtgeleidingssystemen alsmede communicatie-, navigatie-, en identificatie-installaties in catagorie 1, 2 en 3 vliegtuigen |   |
+| - automatische vluchtgeleidingssystemen alsmede communicatie-, navigatie-, en identificatie-installaties in catagorie 1, 2 en 3 vliegtuigen |  |
 | ZWEEFVLIEGTECHNICUS A | 75 |
-| - zweefvliegtuigen en motorzweefvliegtuigen |   |
+| - zweefvliegtuigen en motorzweefvliegtuigen |  |
 | ZWEEFVLIEGTECHNICUS B | 76 |
-| - voortstuwingsinstallaties in motorzweefvliegtuigen |   |
+| - voortstuwingsinstallaties in motorzweefvliegtuigen |  |
 | ZWEEFVLIEGTECHNICUS C | 77 |
-| - elektronische installaties in zweefvliegtuigen en elektronische installaties in (motor-) zweefvliegtuigen |   |
+| - elektronische installaties in zweefvliegtuigen en elektronische installaties in (motor-) zweefvliegtuigen |  |
 
 ##### Artikel 6
 
@@ -141,9 +128,9 @@ Voor een bewijs van bevoegdheid voor grondpersoneel gelden de op dat bewijs van 
 
 - h. het besluit van 13 februari 1984, nr LI/10393;
 
-- i. het besluit van 6 juli 1984, nr. LI/11961 voor wat betreft de eisen inzake kennis, bedrevenheid en ervaring in de bijlagen 70, 71, 72, 73, 74, 75, 76 en 77;
+   - i. het besluit van 6 juli 1984, nr. LI/11961 voor wat betreft de eisen inzake kennis, bedrevenheid en ervaring in de bijlagen 70, 71, 72, 73, 74, 75, 76 en 77;
 
-- ii. het besluit van 23 december 1985, nr. LI/9295 voor wat betreft de eisen inzake kennis, bedrevenheid en ervaring in bijlage 50;
+   - ii. het besluit van 23 december 1985, nr. LI/9295 voor wat betreft de eisen inzake kennis, bedrevenheid en ervaring in bijlage 50;
 
 2. De volgende besluiten van de Minister van Verkeer en Waterstaat worden ingetrokken:
 
@@ -166,5 +153,3 @@ Deze regeling treedt in werking met ingang van 1 oktober 1996.
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling kennis, bedrevenheid en ervaring voor bewijzen van bevoegdheid en bevoegdverklaringen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij de Luchtvaartinspectie van de Rijksluchtvaart-dienst, Saturnusstraat 71, te Hoofddorp.

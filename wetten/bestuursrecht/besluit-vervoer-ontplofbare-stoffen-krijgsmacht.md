@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 12 december 1997, houdende vaststelling van regels voor het vervoer van ontplofbare stoffen en voorwerpen ten behoeve van de krijgsmacht (Besluit vervoer ontplofbare stoffen krijgsmacht)"
+citeertitel: "Besluit vervoer ontplofbare stoffen krijgsmacht"
 identifier: "BWBR0009142"
-country: "nl"
-rank: "amvb"
-publication_date: "1998-01-01"
-last_updated: "1998-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009142"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "39773"
-version_id: "48622"
-internal_id: "C48621"
-label_id: "39754"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009142/1998-01-01/0"
-intitule_bron: "Stb.1997-727"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-12"
-intitule_published: "1997-12-29"
-intitule_in_force: "1997-12-29"
-intitule_status: "goed"
-original_publication: "Stb.1997-727"
-original_signed_date: "1997-12-12"
-original_published_date: "1997-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-727"
-entry_into_force_date: "1997-12-30"
-jci_1_3: "jci1.3:c:BWBR0009142&z=1998-01-01&g=1998-01-01"
-jci_1_0: "1.0:c:BWBR0009142&g=1998-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit vervoer ontplofbare stoffen krijgsmacht"
-signed_date: "1997-12-12"
-entry_into_force: "1997-12-30"
+publicatiedatum: 1997-12-30
+laatste_update: 1998-01-01
+status: geldig
+toestand: 1998-01-01
+bron: "https://wetten.overheid.nl/BWBR0009142"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 12 december 1997, houdende vaststelling van regels voor het vervoer van ontplofbare stoffen en voorwerpen ten behoeve van de krijgsmacht (Besluit vervoer ontplofbare stoffen krijgsmacht)
-
-Op de voordracht van Onze Minister van Defensie van 18 september 1997, nr. CWW85/089/97002604, directie juridische zaken, afdeling wet- en regelgeving;
-
-Gelet op [artikel 8 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=8);
-
-De Raad van State gehoord (advies van 6 november 1997, no. W07.97.0611);
-
-Gezien het nader rapport van Onze Minister van Defensie van 27 november 1997 nr. CWW85/089/97003326, directie juridische zaken, afdeling wet- en regelgeving;
-
-Hebben goedgevonden en verstaan:
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
@@ -191,5 +159,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit vervoer ontplofbare stoffen krijgsmacht.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

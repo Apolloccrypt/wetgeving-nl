@@ -1,43 +1,45 @@
 ---
 title: "Uitvoeringsreglement inzake aanvragen voor een financiële bijdrage voor de distributie van een film"
 identifier: "BWBR0009305"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-12-31"
-last_updated: "1998-07-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009305"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6565573"
-version_id: "11374852"
-internal_id: "C15318141"
-label_id: "6553954"
-original_entry_into_force: "1998-07-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009305/2009-12-31/0"
-intitule_bron: "Stcrt.1998-121"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1998-07-01"
-intitule_in_force: "1998-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-121"
-original_published_date: "1998-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1998-121-p17-SC14482"
-entry_into_force_date: "1998-07-03"
-jci_1_3: "jci1.3:c:BWBR0009305&z=2009-12-31&g=2009-12-31"
-jci_1_0: "1.0:c:BWBR0009305&g=2009-12-31"
-citeertitel_status: "redactioneel"
-entry_into_force: "1998-07-03"
+publicatiedatum: 1998-07-03
+laatste_update: 2009-12-31
+status: geldig
+toestand: 2009-12-31
+bron: "https://wetten.overheid.nl/BWBR0009305"
+opgehaald: 2026-08-03
 ---
-# Uitvoeringsreglement inzake aanvragen voor een financiële bijdrage voor de distributie van een film
 
-Het bestuur van Stichting Nederlands Fonds voor de Film heeft besloten tot wijziging van de navolgende uitvoeringsreglementen. Deze reglementen luiden thans als volgt.
+# Uitvoeringsreglement inzake aanvragen voor een financiële bijdrage voor de distributie van een film
 
 Ter uitvoering van artikel 2 lid 3 en artikel 6 lid 7 van het Bijdrage-Reglement van het Nederlands Fonds voor de Film geldt het volgende:
 
 1. Voor de distributie in Nederland van (low budget) lange speelfilms, documentairefilms en overige fictiefilms met een vertoningsduur van tenminste 60 minuten, alsmede van animatiefilms, overige fictiefilms en documentairefilms met een kortere vertoningsduur dan 60 minuten die als voorprogramma worden ingezet bij theatervertoning kan een financiële bijdrage worden aangevraagd, indien de film tot stand is gekomen met een financiële bijdrage van het Bestuur van het Fonds.
 
 2.1 Een distributiebijdrage kan uitsluitend worden verleend ter tegemoetkoming in de kosten die betrekking hebben op:
+
+- a. de vervaardiging van vertoningskopieën van films (zowel 16 als 35 mm);
+
+- b. de vervaardiging van een trailer;
+
+- c. de vervaardiging van vertoningskopieën van trailers;
+
+- d. het drukken van affiches;
+
+- e. de aanmaak van persmappen;
+
+- f. de verveelvoudiging van fotomateriaal;
+
+- g. advertenties;
+
+- h. de werkzaamheden van een publiciteitsbureau;
+
+- i. de organisatie van de persvoorstelling;
+
+- j. de premièrekosten;
+
+- k. de overheadkosten tot maximaal 10% van de totale distributiekosten exclusief de overheadkosten.
 
 2.2 Een bijdrage in verband met een distributiegarantie of een andersoortige bijdrage van de distributeur in de productiekosten van de film wordt niet door het Bestuur vergoed.
 
@@ -60,6 +62,18 @@ Ter uitvoering van artikel 2 lid 3 en artikel 6 lid 7 van het Bijdrage-Reglement
 10. Het totaal van de begrote distributiekosten van de film, waarvoor de financiële bijdrage wordt aangevraagd, mag ten hoogste f 200.000 bedragen. Een aanvraag voor een financiële bijdrage ten behoeve van een hoger distributiebudget wordt door het Bestuur om deze reden afgewezen.
 
 11. Bij de aanvraag voor een financiële bijdrage voor de distributie van een film dient de distributeur in ieder geval de volgende gegevens te overleggen:
+
+- a. een ingevuld en door de aanvrager ondertekend aanvraagformulier van het door het Bestuur gehanteerde model;
+
+- b. een begroting, waarin de distributiekosten worden gespecificeerd;
+
+- c. een gespecificeerd financieringsplan ter dekking van deze begroting;
+
+- d. een distributieplan voor de film;
+
+- e. de overeenkomst tussen de distributeur en de producent van de film, waaruit blijkt dat de distributeur, al dan niet door middel van een exclusieve licentie, enig rechthebbende is op de vertoningsrechten op de film voor Nederland (theatrical en eventueel non theatrical).
+
+- f. de stukken waaruit een eigen investering van de distributeur en/of een investering door derden in de distributiekosten voor de film blijkt. Deze investering dient tenminste 50% van de begrote kosten te bedragen. Bijdragen verstrekt door publieke fondsen of instellingen in of buiten Nederland, vergelijkbaar met het Nederlands Fonds voor de Film, worden niet beschouwd als eigen investering c.q. derdeninvestering.
 
 12. Indien voor de distributie van een film op grond van dit uitvoeringsreglement een financiële bijdrage is verleend, dient de distributie daarvan aan te vangen binnen zes maanden na bekendmaking van de verlening van de bijdrage.
 

@@ -1,42 +1,17 @@
 ---
 title: "Regeling grondafhandeling luchtvaartterreinen"
 identifier: "BWBR0009365"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009365"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "3998913"
-version_id: "5762252"
-internal_id: "C27802341"
-label_id: "3979184"
-dtd_version: "2.0"
-original_entry_into_force: "1998-02-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009365/2025-01-01/0"
-intitule_bron: "Stcrt.1998-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-02-04"
-intitule_published: "1998-02-10"
-intitule_in_force: "1998-02-10"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-27"
-original_signed_date: "1998-02-04"
-original_published_date: "1998-02-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-02-12"
-jci_1_3: "jci1.3:c:BWBR0009365&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0009365&g=2025-01-01"
-citeertitel_status: "officieel"
-signed_date: "1998-02-04"
-entry_into_force: "1998-02-12"
+publicatiedatum: 1998-02-12
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0009365"
+opgehaald: 2026-08-03
 ---
+
 # Regeling grondafhandeling luchtvaartterreinen
-
-Gelet op [Richtlijn nr. 96/67/EG](31996L0067) van de Raad van de Europese Unie van 15 oktober 1996 betreffende de toegang tot de grondafhandelingsmarkt op de luchthavens van de Gemeenschap (PbEG L 272/36), en op [artikel 132a van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=132a);
-
-Besluit:
 
 #### Begripsbepalingen en wettelijke grondslag
 
@@ -44,11 +19,45 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+a.
+
+gebruiker:
+
+iedere natuurlijke persoon of rechtspersoon die van of naar een luchthaven door de lucht passagiers, post of vracht vervoert;
+
+b.
+
+grondafhandelingsdiensten:
+
+de in de bijlage bij Richtlijn nr. 96/67/-EG van de Raad van de Europese Unie van 15 oktober 1996 betreffende de toegang tot de grondafhandelingsmarkt op de luchthavens van de Gemeenschap (PbEG L 272/36) genoemde diensten die op een luchthaven aan een gebruiker worden verleend;
+
+c.
+
+zelfafhandelingsdiensten:
+
+grondafhandelingsdiensten welke een gebruiker voor zichzelf verricht, zonder dat hij enige overeenkomst tot het aan hem verlenen van zodanige diensten is aangegaan, behoudens in gevallen dat hij een overeenkomst tot het aan hem verlenen van grondafhandelingsdiensten is aangegaan met een andere gebruiker waarin hij een meerderheidsbelang heeft of waarin een natuurlijke persoon of rechtspersoon die in de eerstgenoemde gebruiker een meerderheidsbelang heeft, een meerderheidsbelang heeft;
+
+d.
+
+verlener van grondafhandelingsdiensten:
+
+iedere natuurlijke persoon of rechtspersoon die een of meer categorieën grondafhandelingsdiensten verleent;
+
+e.
+
+de Minister:
+
+de Minister van Verkeer en Waterstaat.
+
+##### Artikel 1a
+
+Deze regeling berust op [artikel 8a.1, zesde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.1).
+
 #### Verrichten van zelfafhandelingsdiensten
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
@@ -70,7 +79,7 @@ het aantal gebruikers dat zelfafhandelingsdiensten verricht beperken tot niet mi
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
@@ -92,11 +101,11 @@ het aantal verleners van grondafhandelingsdiensten beperken tot niet minder dan 
 
 - a. tenminste een van hen niet rechtstreeks of onrechtstreeks onder de zeggenschap valt van:
 
-- 1. de exploitant van de luchthaven;
+   - 1. de exploitant van de luchthaven;
 
-- 2. een gebruiker die in de loop van het jaar voorafgaande aan dat waarin tot de in het tweede lid bedoelde beperking is overgegaan, meer dan 25 procent van de op de luchthaven geregistreerde passagiers of vracht heeft vervoerd, of
+   - 2. een gebruiker die in de loop van het jaar voorafgaande aan dat waarin tot de in het tweede lid bedoelde beperking is overgegaan, meer dan 25 procent van de op de luchthaven geregistreerde passagiers of vracht heeft vervoerd, of
 
-- 3. een lichaam dat rechtstreeks of onrechtstreeks zeggenschap uitoefent over of onder zeggenschap valt van de exploitant van de luchthaven of van een gebruiker als onder 2 bedoeld, en
+   - 3. een lichaam dat rechtstreeks of onrechtstreeks zeggenschap uitoefent over of onder zeggenschap valt van de exploitant van de luchthaven of van een gebruiker als onder 2 bedoeld, en
 
 - b. elke gebruiker ongeacht het deel van de luchthaven dat aan hem is toegewezen, voor elke categorie grondafhandelingsdiensten waarvoor een beperking geldt, de keuze heeft tussen niet minder dan twee verleners van grondafhandelingsdiensten.
 
@@ -262,7 +271,7 @@ Indien met toepassing van de [artikelen 5, tweede lid](https://wetten.overheid.n
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 #### Slotbepalingen
 
@@ -273,29 +282,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling grondafhandeling luchtvaartterreinen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 8a.1, zesde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.1).
-
-#### Verrichten van zelfafhandelingsdiensten
-
-#### Verlenen van grondafhandelingsdiensten
-
-#### Zelfafhandelingsdiensten en grondafhandelingsdiensten
-
-#### Overleg
-
-#### Centrale voorzieningen
-
-#### Beperkingen
-
-#### Verbodsbepalingen
-
-#### Overige bepalingen
-
-#### Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 4 december 1997, houdende voorschriften ter uitvoering van de Wet op de lijkbezorging (Besluit op de lijkbezorging)"
+citeertitel: "Besluit op de lijkbezorging"
 identifier: "BWBR0009080"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009080"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "764783"
-version_id: "1113332"
-internal_id: "C1113331"
-label_id: "742284"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009080/2025-07-01/0"
-intitule_bron: "Stb.1997-647"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-04"
-intitule_published: "1997-12-18"
-intitule_in_force: "1997-12-18"
-intitule_status: "goed"
-original_publication: "Stb.1997-647"
-original_signed_date: "1997-12-04"
-original_published_date: "1997-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-647"
-entry_into_force_date: "1997-12-19"
-jci_1_3: "jci1.3:c:BWBR0009080&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0009080&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit op de lijkbezorging"
-signed_date: "1997-12-04"
-entry_into_force: "1997-12-19"
+publicatiedatum: 1997-12-19
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0009080"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 4 december 1997, houdende voorschriften ter uitvoering van de Wet op de lijkbezorging (Besluit op de lijkbezorging)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 17 juli 1997, nr. BW97/U1169 directoraat-generaal Openbaar Bestuur;
-
-Gelet op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=9), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=15), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=32), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=57), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=66), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=70), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=78), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=79) en [81, onderdeel 7°, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=81);
-
-De Raad van State gehoord (advies van 11 augustus 1997, nr. W04.97.0462);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken, mede namens Onze Ministers van Justitie en van Volksgezondheid, Welzijn en Sport van 25 november 1997, directoraat-generaal Openbaar Bestuur;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -188,7 +156,7 @@ Indien een lijk Nederland is binnengebracht op een zodanig tijdstip dat begravin
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
@@ -296,10 +264,4 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ##### Artikel 37
 
-Dit besluit wordt aangehaald als: Besluit op de lijkbezorging
-
-## BIJLAGE I. Model van de verklaring van natuurlijk overlijden, af te geven door de behandelende arts
-
-## BIJLAGE II. Model van de verklaring van natuurlijk overlijden, af te geven door de gemeentelijke lijkschouwer
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Dit besluit wordt aangehaald als: [Besluit op de lijkbezorging](https://wetten.overheid.nl/BWBR0009080)

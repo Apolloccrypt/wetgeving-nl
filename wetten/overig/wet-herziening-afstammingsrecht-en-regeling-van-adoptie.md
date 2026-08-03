@@ -1,55 +1,26 @@
 ---
 title: "Wet van 24 december 1997 tot herziening van het afstammingsrecht alsmede van de regeling van adoptie"
+citeertitel: "Wet herziening afstammingsrecht en regeling van adoptie"
 identifier: "BWBR0009269"
-country: "nl"
-rank: "wet"
-publication_date: "1998-04-01"
-last_updated: "1998-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009269"
+categorie: "Overig"
 soort: "wet"
-stam_id: "686223"
-version_id: "998372"
-internal_id: "C998371"
-label_id: "664954"
-dtd_version: "2.0"
-original_entry_into_force: "1998-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009269/1998-04-01/0"
-intitule_bron: "Stb.1997-772"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-24"
-intitule_published: "1997-12-30"
-intitule_in_force: "1998-03-10"
-intitule_status: "goed"
-original_publication: "Stb.1997-772"
-original_signed_date: "1997-12-24"
-original_published_date: "1997-12-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "24649"
-original_url_id: "stb-1997-772"
-entry_into_force_date: "1998-04-01"
-jci_1_3: "jci1.3:c:BWBR0009269&z=1998-04-01&g=1998-04-01"
-jci_1_0: "1.0:c:BWBR0009269&g=1998-04-01"
-citeertitel_status: "officieel"
-short_title: "Wet herziening afstammingsrecht en regeling van adoptie"
-signed_date: "1997-12-24"
-entry_into_force: "1998-04-01"
+publicatiedatum: 1998-04-01
+laatste_update: 1998-04-01
+status: geldig
+toestand: 1998-04-01
+bron: "https://wetten.overheid.nl/BWBR0009269"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 24 december 1997 tot herziening van het afstammingsrecht alsmede van de regeling van adoptie
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het afstammingsrecht alsmede de regeling van de adoptie te herzien en de daarmee samenhangende bepalingen in het Burgerlijk Wetboek te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### ARTIKEL I
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.
+*Wijzigt Boek 1 van het Burgerlijk Wetboek.*
 
 ##### ARTIKEL II
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.
+*Wijzigt Boek 1 van het Burgerlijk Wetboek.*
 
 ##### ARTIKEL III. OVERGANGSBEPALING
 
@@ -70,5 +41,3 @@ Wijzigt Boek 1 van het Burgerlijk Wetboek.
 ##### ARTIKEL IV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

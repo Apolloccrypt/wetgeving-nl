@@ -1,44 +1,23 @@
 ---
 title: "Gewijzigde Richtlijn toepassing detacheringsverbod per 1 juli 1997 in de Regeling extra werkgelegenheid voor langdurigwerklozen"
 identifier: "BWBR0009054"
-country: "nl"
-rank: "circulaire"
-publication_date: "1997-12-19"
-last_updated: "1997-12-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009054"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6418073"
-version_id: "11085172"
-internal_id: "C14998101"
-label_id: "6406894"
-original_entry_into_force: "1997-12-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009054/1997-12-19/0"
-intitule_bron: "Stcrt.1997-245"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-11-27"
-intitule_published: "1997-12-19"
-intitule_in_force: "1997-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-245"
-original_signed_date: "1997-11-27"
-original_published_date: "1997-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1997-245-p35-SC11826"
-entry_into_force_date: "1997-12-19"
-jci_1_3: "jci1.3:c:BWBR0009054&z=1997-12-19&g=1997-12-19"
-jci_1_0: "1.0:c:BWBR0009054&g=1997-12-19"
-citeertitel_status: "redactioneel"
-signed_date: "1997-11-27"
-entry_into_force: "1997-12-19"
+publicatiedatum: 1997-12-19
+laatste_update: 1997-12-19
+status: geldig
+toestand: 1997-12-19
+bron: "https://wetten.overheid.nl/BWBR0009054"
+opgehaald: 2026-08-03
 ---
+
 # Gewijzigde Richtlijn toepassing detacheringsverbod per 1 juli 1997 in de Regeling extra werkgelegenheid voor langdurigwerklozen
 
 ### Inleiding
 
-De [Regeling Extra werkgelegenheid langdurig werklozen 1996](onbekend) bevat de bepaling dat in het kader van die regeling detacheringsconstructies niet zijn toegestaan. In de toelichting werd aangegeven dat dit verbod op detacheringen uiterlijk 1 juli 1997 zou worden ingevoerd.
+De Regeling Extra werkgelegenheid langdurig werklozen 1996 bevat de bepaling dat in het kader van die regeling detacheringsconstructies niet zijn toegestaan. In de toelichting werd aangegeven dat dit verbod op detacheringen uiterlijk 1 juli 1997 zou worden ingevoerd.
 
-De [Regeling extra werkgelegenheid langdurig werklozen](onbekend) is bedoeld om ondermeer de gemeenten in de gelegenheid te stellen structurele en reguliere arbeidsplaatsen te scheppen in een aantal onderdelen van de collectieve sector. Net als bij andere reguliere arbeidsplaatsen is het de bedoeling dat werknemers die werkzaam zijn in het kader van deze regeling hun werkzaamheden daadwerkelijk verrichten voor de werkgever met wie zij een arbeidsovereenkomst hebben. Met het detacheringsverbod onderscheidt de [Regeling extra werkgelegenheid langdurig werklozen](onbekend) zich dus nadrukkelijk van de [Rijksbijdrageregeling banenpools](onbekend) en de [Jeugdwerkgarantiewet](onbekend).
+De Regeling extra werkgelegenheid langdurig werklozen is bedoeld om ondermeer de gemeenten in de gelegenheid te stellen structurele en reguliere arbeidsplaatsen te scheppen in een aantal onderdelen van de collectieve sector. Net als bij andere reguliere arbeidsplaatsen is het de bedoeling dat werknemers die werkzaam zijn in het kader van deze regeling hun werkzaamheden daadwerkelijk verrichten voor de werkgever met wie zij een arbeidsovereenkomst hebben. Met het detacheringsverbod onderscheidt de Regeling extra werkgelegenheid langdurig werklozen zich dus nadrukkelijk van de Rijksbijdrageregeling banenpools en de Jeugdwerkgarantiewet.
 
 Deze circulaire, die mede namens de minister van Binnenlandse Zaken wordt uitgebracht, wil duidelijkheid scheppen over hetgeen onder detachering wordt verstaan, welke organisatievormen en wijzen van aansturing door derden met inachtneming van het detacheringsverbod kunnen worden geaccepteerd of moeten worden afgewezen en op welke wijze de naleving van het verbod op detachering zal worden gewaarborgd. Om organisaties voldoende gelegenheid te geven situaties die per 1 juli 1997 in strijd zijn met het detacheringsverbod, in overeenstemming te brengen met de aanwijzingen in deze richtlijn, is voor die organisaties een overgangstermijn voor de effectuering van het verbod bepaald. Constructies van voor 1 juli 1997 bestaande organisaties die in strijd zijn met het detacheringsverbod en het in deze richtlijn bepaalde, zullen met ingang van 1 juli 1998 aan sanctie onderhevig zijn. Organisaties opgericht na 1 juli 1997 dienen onmiddellijk in overeenstemming te zijn met het detacheringsverbod. Met betrekking tot het in deze richtlijn bepaalde over leidinggeven door derden geldt voor laatstgenoemde organisaties eveneens de sanctie-datum van 1 juli 1998.
 
@@ -52,7 +31,7 @@ Geoorloofde constructies in geval van een stichtingstructuur, in de sectoren ope
 
 Voor de beoordeling of sprake is van ongeoorloofde detachering of niet, is het van belang twee aspecten van het werkgeverschap van elkaar te onderscheiden: het formele werkgeverschap en het materiële werkgeverschap. Twee typen situaties doen zich voor. Formeel en materieel werkgeverschap vallen volledig samen, zoals in normale arbeidsverhoudingen te doen gebruikelijk is en zo ook in het kader van de onderhavige regeling. Dat betekent dat de werkgever binnen zijn organisatie arbeid laat verrichten door werknemers met wie hij een arbeidsovereenkomst heeft gesloten. Hij is als werkgever zelf verantwoordelijk voor de loonbetaling van de werknemer, de dagelijkse leiding over de werkzaamheden en het toezicht daarop.
 
-Daarnaast kan een situatie voorkomen waarbij uitsluitend sprake is van ’materieel werkgeverschap’. Hierbij laat een werkgever arbeid verrichten door werknemers die een arbeidsovereenkomst hebben met een derde. Hijzelf verzorgt echter de dagelijkse leiding en de controle op de werkzaamheden van deze werknemers. Op grond van het detacheringsverbod in de [Regeling extra werkgelegenheid langdurig werklozen](onbekend) is het niet toegestaan werknemers ter beschikking te stellen of uit te lenen aan een andere werkgever, die materieel het werkgeverschap vervult.
+Daarnaast kan een situatie voorkomen waarbij uitsluitend sprake is van ’materieel werkgeverschap’. Hierbij laat een werkgever arbeid verrichten door werknemers die een arbeidsovereenkomst hebben met een derde. Hijzelf verzorgt echter de dagelijkse leiding en de controle op de werkzaamheden van deze werknemers. Op grond van het detacheringsverbod in de Regeling extra werkgelegenheid langdurig werklozen is het niet toegestaan werknemers ter beschikking te stellen of uit te lenen aan een andere werkgever, die materieel het werkgeverschap vervult.
 
 Het detacheringsverbod sluit niet uit dat de werknemers bij of voor een andere organisatie werkzaamheden uitvoeren, mits de formele werkgever maar de leiding over, het toezicht op en de controle over de werkzaamheden behoudt. De werknemer moet in die situatie nadrukkelijk zijn opdrachten alleen van zijn formele werkgever krijgen en is alleen aan deze formele werkgever verantwoording schuldig. Voorzover de afnemer aanwijzingen geeft voor de werkzaamheden geschiedt dat via de formele werkgever en niet rechtstreeks aan de werknemer. Op deze situatie zal hierna voor diverse werkzaamheden nog nader worden ingegaan.
 
@@ -60,11 +39,11 @@ Het is evenmin toegestaan om een EWLW-werknemer werkzaamheden te laten verrichte
 
 ### Stichtingen
 
-Bij de uitvoering van de [Regeling extra werkgelegenheid](onbekend) zijn veel gemeenten overgegaan tot het oprichten van stichtingen, die optreden als werkgevers en rechtstreeks werknemers in dienst nemen op grond van de [Regeling extra werkgelegenheid](onbekend). In het spraakgebruik wordt dit wel een ’functionele stichting’ genoemd, waarmee wordt gedoeld op een rechtspersoon met een afgeronde, op het publieke domein gerichte doelstelling. Voorbeelden hiervan zijn een Stichting Stadswacht of een Stichting Schoon. Dergelijke stichtingen blijven onder het detacheringsverbod toegestaan, mits daarbij de stichting als formele en materiële werkgever optreedt.
+Bij de uitvoering van de Regeling extra werkgelegenheid zijn veel gemeenten overgegaan tot het oprichten van stichtingen, die optreden als werkgevers en rechtstreeks werknemers in dienst nemen op grond van de Regeling extra werkgelegenheid. In het spraakgebruik wordt dit wel een ’functionele stichting’ genoemd, waarmee wordt gedoeld op een rechtspersoon met een afgeronde, op het publieke domein gerichte doelstelling. Voorbeelden hiervan zijn een Stichting Stadswacht of een Stichting Schoon. Dergelijke stichtingen blijven onder het detacheringsverbod toegestaan, mits daarbij de stichting als formele en materiële werkgever optreedt.
 
 ### Toezichthoudende functies
 
-In [artikel 6, lid 2 van de Regeling extra werkgelegenheid](onbekend) langdurig werklozen is vastgelegd dat het gemeentelijk beleid voor het tot stand brengen van nieuwe arbeidsplaatsen op het gebied van openbare veiligheid en toezicht, door het gemeentebestuur wordt vastgesteld na bespreking in het reguliere driehoeksoverleg van burgemeester, officier van justitie en korpschef. In de praktijk wordt meestal afgesproken dat de gemeente moet samenwerken met de lokale politie.
+In artikel 6, lid 2 van de Regeling extra werkgelegenheid langdurig werklozen is vastgelegd dat het gemeentelijk beleid voor het tot stand brengen van nieuwe arbeidsplaatsen op het gebied van openbare veiligheid en toezicht, door het gemeentebestuur wordt vastgesteld na bespreking in het reguliere driehoeksoverleg van burgemeester, officier van justitie en korpschef. In de praktijk wordt meestal afgesproken dat de gemeente moet samenwerken met de lokale politie.
 
 Voor die samenwerking zijn in de praktijk verschillende vormen gevonden, waarbij in veel gevallen de rechtstreekse operationele aansturing wordt overgelaten aan politiefunctionarissen. Onderstaand wordt op enkele van deze varianten, en de aanvaardbaarheid daarvan in het licht van het detacheringsverbod, ingegaan.
 
@@ -88,6 +67,6 @@ Voorshands wordt er hier op gewezen dat slechts als aan alle voorwaarden van de 
 
 ### Toezicht naleving detacheringsverbod
 
-Controle op naleving van het detacheringsverbod zal worden uitgeoefend door de gemeentelijke accountant. Het controleprotocol voor de [Regeling extra werkgelegenheid](onbekend) zal daartoe in bovenstaande zin worden aangepast. Om de accountant in staat te stellen na te gaan of het detacheringsverbod wordt gerespecteerd, zal de administratie van de werkgever arbeidsovereenkomsten met werknemers moeten bevatten en in geval van preventief-toezichtfuncties, een beschrijving van de samenwerkingsafspraken met de politie. Daarnaast moet voor elke soort functie worden vastgelegd: wie de werknemer instrueert, werkzaamheden opdraagt of anderszins toezicht uitoefent op de dagelijkse werkzaamheden van de werknemer. Tenslotte zal uit de administratie van de werkgever moeten blijken waar de werknemer is gehuisvest en op welke collectieve arbeidsvoorwaardenregeling of andere arbeidsrechtelijke overeenkomst, de arbeidsrechtelijke afspraken zijn gebaseerd.
+Controle op naleving van het detacheringsverbod zal worden uitgeoefend door de gemeentelijke accountant. Het controleprotocol voor de Regeling extra werkgelegenheid zal daartoe in bovenstaande zin worden aangepast. Om de accountant in staat te stellen na te gaan of het detacheringsverbod wordt gerespecteerd, zal de administratie van de werkgever arbeidsovereenkomsten met werknemers moeten bevatten en in geval van preventief-toezichtfuncties, een beschrijving van de samenwerkingsafspraken met de politie. Daarnaast moet voor elke soort functie worden vastgelegd: wie de werknemer instrueert, werkzaamheden opdraagt of anderszins toezicht uitoefent op de dagelijkse werkzaamheden van de werknemer. Tenslotte zal uit de administratie van de werkgever moeten blijken waar de werknemer is gehuisvest en op welke collectieve arbeidsvoorwaardenregeling of andere arbeidsrechtelijke overeenkomst, de arbeidsrechtelijke afspraken zijn gebaseerd.
 
 Mocht een accountant niet in staat zijn een goedkeurende accountantsverklaring af te geven op grond van gerede twijfel over het naleven van het detacheringsverbod, dan kan een waar-neming ter plekke door de Accountantsdienst van het ministerie van Binnenlandse Zaken worden uitgevoerd.

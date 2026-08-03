@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 24 februari 1998, houdende vaststelling van de Instructie voor het militair gezag (Instructie voor het militair gezag)"
+citeertitel: "Instructie voor het militair gezag"
 identifier: "BWBR0009403"
-country: "nl"
-rank: "amvb"
-publication_date: "1998-03-18"
-last_updated: "1998-03-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009403"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "777133"
-version_id: "1128142"
-internal_id: "C1128141"
-label_id: "753074"
-dtd_version: "2.0"
-original_entry_into_force: "1998-03-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009403/1998-03-18/0"
-intitule_bron: "Stb.1998-140"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-02-24"
-intitule_published: "1998-03-17"
-intitule_in_force: "1998-03-17"
-intitule_status: "goed"
-original_publication: "Stb.1998-140"
-original_signed_date: "1998-02-24"
-original_published_date: "1998-03-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1998-140"
-entry_into_force_date: "1998-03-18"
-jci_1_3: "jci1.3:c:BWBR0009403&z=1998-03-18&g=1998-03-18"
-jci_1_0: "1.0:c:BWBR0009403&g=1998-03-18"
-citeertitel_status: "officieel"
-short_title: "Instructie voor het militair gezag"
-signed_date: "1998-02-24"
-entry_into_force: "1998-03-18"
+publicatiedatum: 1998-03-18
+laatste_update: 1998-03-18
+status: geldig
+toestand: 1998-03-18
+bron: "https://wetten.overheid.nl/BWBR0009403"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 24 februari 1998, houdende vaststelling van de Instructie voor het militair gezag (Instructie voor het militair gezag)
-
-Op de voordracht van Onze Minister-President, Minister van Algemene Zaken van 24 juni 1997, nr. 97M005051;
-
-Gelet op [artikel 5, eerste lid, van de Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&artikel=5);
-
-De Raad van State gehoord (advies van 30 september 1997, nr. W01.97.0455);
-
-Gezien het nader rapport van Onze Minister-President, Minister van Algemene Zaken van 17 februari 1998, nr. 98M001839;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -105,5 +73,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instructie voor het militair gezag.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

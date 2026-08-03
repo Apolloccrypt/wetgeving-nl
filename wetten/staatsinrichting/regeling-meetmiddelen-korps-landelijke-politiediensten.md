@@ -1,40 +1,17 @@
 ---
 title: "Regeling meetmiddelen Korps landelijke politiediensten"
 identifier: "BWBR0008802"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-07-12"
-last_updated: "1997-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008802"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3588233"
-version_id: "5371312"
-internal_id: "C5564401"
-label_id: "3568194"
-dtd_version: "2.0"
-original_entry_into_force: "1997-07-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008802/1997-07-12/0"
-intitule_bron: "Stcrt.1997-129"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-07-04"
-intitule_published: "1997-07-10"
-intitule_in_force: "1997-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-129"
-original_signed_date: "1997-07-04"
-original_published_date: "1997-07-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-07-12"
-jci_1_3: "jci1.3:c:BWBR0008802&z=1997-07-12&g=1997-07-12"
-jci_1_0: "1.0:c:BWBR0008802&g=1997-07-12"
-citeertitel_status: "officieel"
-signed_date: "1997-07-04"
-entry_into_force: "1997-07-12"
+publicatiedatum: 1997-07-12
+laatste_update: 1997-07-12
+status: geldig
+toestand: 1997-07-12
+bron: "https://wetten.overheid.nl/BWBR0008802"
+opgehaald: 2026-08-03
 ---
-# Regeling meetmiddelen Korps landelijke politiediensten
 
-Besluit:
+# Regeling meetmiddelen Korps landelijke politiediensten
 
 ##### Artikel 1
 
@@ -51,5 +28,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling meetmiddelen Korps landelijke politiediensten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,43 +1,18 @@
 ---
 title: "Regeling toekenning radiofrequenties straalverbindingen aan de concessiehouder"
+citeertitel: "Regeling toekenning radiofrequenties voor straalverbindingen aan de concessiehouder"
 identifier: "BWBR0008557"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-02-28"
-last_updated: "1997-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008557"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3610453"
-version_id: "5393542"
-internal_id: "C5586631"
-label_id: "3590424"
-dtd_version: "2.0"
-original_entry_into_force: "1997-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008557/1997-02-28/0"
-intitule_bron: "Stcrt.1997-39"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-02-19"
-intitule_published: "1997-02-25"
-intitule_in_force: "1997-02-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-39"
-original_signed_date: "1997-02-19"
-original_published_date: "1997-02-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-02-28"
-jci_1_3: "jci1.3:c:BWBR0008557&z=1997-02-28&g=1997-02-28"
-jci_1_0: "1.0:c:BWBR0008557&g=1997-02-28"
-citeertitel_status: "officieel"
-short_title: "Regeling toekenning radiofrequenties voor straalverbindingen aan de concessiehouder"
-signed_date: "1997-02-19"
-entry_into_force: "1997-02-28"
+publicatiedatum: 1997-02-28
+laatste_update: 1997-02-28
+status: geldig
+toestand: 1997-02-28
+bron: "https://wetten.overheid.nl/BWBR0008557"
+opgehaald: 2026-08-03
 ---
+
 # Regeling toekenning radiofrequenties straalverbindingen aan de concessiehouder
-
-Gelet op [artikel 1 van het Besluit toekenning radiofrequenties voor straalverbindingen aan de concessiehouder](https://wetten.overheid.nl/jci1.3:c:BWBR0008349&artikel=1);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -78,5 +53,3 @@ Deze regeling treedt in werking met ingang van het tijdstip waarop het [Besluit 
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling toekenning radiofrequenties voor straalverbindingen aan de concessiehouder.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 19 juni 1997, houdende regels inzake de verstrekking van subsidies door de Minister van Sociale Zaken en Werkgelegenheid (Kaderwet SZW-subsidies)"
+citeertitel: "Kaderwet SZW-subsidies"
 identifier: "BWBR0008754"
-country: "nl"
-rank: "wet"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008754"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "586703"
-version_id: "855212"
-internal_id: "C855211"
-label_id: "569344"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008754/2016-01-01/0"
-intitule_bron: "Stb.1997-285"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-06-19"
-intitule_published: "1997-07-10"
-intitule_in_force: "1997-12-29"
-intitule_status: "goed"
-original_publication: "Stb.1997-285"
-original_signed_date: "1997-06-19"
-original_published_date: "1997-07-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "25241"
-original_url_id: "stb-1997-285"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0008754&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0008754&g=2016-01-01"
-citeertitel_status: "officieel"
-short_title: "Kaderwet SZW-subsidies"
-signed_date: "1997-06-19"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0008754"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 19 juni 1997, houdende regels inzake de verstrekking van subsidies door de Minister van Sociale Zaken en Werkgelegenheid (Kaderwet SZW-subsidies)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de totstandkoming van de derde tranche van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) het wenselijk maakt een wettelijk kader te scheppen voor de verstrekking van subsidies door de Minister van Sociale Zaken en Werkgelegenheid;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -123,7 +94,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verle
 
 ##### Artikel 8
 
-1. Met het toezicht op de naleving van de bij of krachtens deze wet aan de subsidieontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen. Van dat besluit wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+1. Met het toezicht op de naleving van de bij of krachtens deze wet aan de subsidieontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen. Van dat besluit wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 2. Aan subsidies op grond van deze wet is de verplichting verbonden dat de subsidieontvanger aan een toezichthouder alle medewerking verleent die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.
 
@@ -138,5 +109,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Deze wet wordt aangehaald als: Kaderwet SZW-subsidies.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

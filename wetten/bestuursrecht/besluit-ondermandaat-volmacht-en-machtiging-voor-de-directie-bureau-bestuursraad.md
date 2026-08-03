@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-30
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0042079"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-03
 ---
 
 # Besluit van de directeur Bureau Bestuursraad van 11 maart 2019, nr. 19067296, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor de directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat 2019)

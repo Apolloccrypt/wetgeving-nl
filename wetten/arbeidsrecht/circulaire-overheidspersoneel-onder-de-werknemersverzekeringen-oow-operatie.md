@@ -1,40 +1,17 @@
 ---
 title: "Circulaire Overheidspersoneel onder de werknemersverzekeringen (OOW-operatie)"
 identifier: "BWBR0008751"
-country: "nl"
-rank: "circulaire"
-publication_date: "1997-07-04"
-last_updated: "1997-07-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008751"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "6337773"
-version_id: "10992342"
-internal_id: "C14884801"
-label_id: "6327114"
-original_entry_into_force: "1997-07-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008751/1997-07-04/0"
-intitule_bron: "Stcrt.1997-125"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-06-19"
-intitule_published: "1997-07-04"
-intitule_in_force: "1997-07-04"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-125"
-original_signed_date: "1997-06-19"
-original_published_date: "1997-07-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1997-125-p10-SC9813"
-entry_into_force_date: "1997-07-04"
-jci_1_3: "jci1.3:c:BWBR0008751&z=1997-07-04&g=1997-07-04"
-jci_1_0: "1.0:c:BWBR0008751&g=1997-07-04"
-citeertitel_status: "redactioneel"
-signed_date: "1997-06-19"
-entry_into_force: "1997-07-04"
+publicatiedatum: 1997-07-04
+laatste_update: 1997-07-04
+status: geldig
+toestand: 1997-07-04
+bron: "https://wetten.overheid.nl/BWBR0008751"
+opgehaald: 2026-08-03
 ---
-# Circulaire Overheidspersoneel onder de werknemersverzekeringen (OOW-operatie)
 
-«Circulaire aan de Ministers»
+# Circulaire Overheidspersoneel onder de werknemersverzekeringen (OOW-operatie)
 
 ### 1. Inleiding/managementinformatie
 
@@ -44,17 +21,29 @@ Kort samengevat houdt het voorgestelde invoeringsscenario van OOW het volgende i
 
 – Met ingang van 1 januari 1998 wordt de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) (WAO) inclusief de maatregelen van de [Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) (Pemba) ingevoerd. Bestaande WAO-conforme uitkeringen worden daarbij omgezet in WAO-uitkeringen.
 
+- – Met ingang van 1 januari 1999 wordt de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) (ZW) ingevoerd voor het overheidspersoneel (inclusief wachtgelders) dat op of na die datum ziek in de zin van die wet wordt (’de nieuwe gevallen’).
+
+- – Op overheidspersoneel dat op 31 december 1998 recht heeft op bezoldiging of uitkering ingeval van ziekte of recht heeft op een wachtgeld en op die datum ongeschikt is tot werken wegens ziekte (’de oude gevallen’) is de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) per 1 januari 1999 niet van toepassing. Voor deze categorie overheidspersoneel blijven de rechtspositionele aanspraken bij ziekte in stand. De [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) wordt echter op een oud geval van toepassing, zodra hij in 1999 gedurende vier weken is hersteld van zijn ziekte.
+
+- – Over de invoering van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) (WW) beslist het kabinet in 1998. Het besluit zal worden genomen na afronding van een onderzoek naar de wijze van financiering van de werkloosheidslasten bij de overheid en de markt. De afronding van dat onderzoek is gepland in het eerste kwartaal van 1998. De vroegst mogelijke invoeringsdatum voor de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) is 1 januari 1999. Hierbij zal verschil gemaakt worden tussen nieuwe en oude gevallen.
+
+- De [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) zal op zijn vroegst vanaf 1 januari 1999 van toepassing worden op overheidswerknemers die op of na die datum werkloos in de zin van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) worden (’de nieuwe gevallen’).
+
+- De op het moment van invoering van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) reeds bestaande wachtgelders (’de oude gevallen’) verkrijgen op zijn vroegst per 1 januari 2000, een jaar later dus, recht op een WW-uitkering.
+
+- Bij invoering van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) zal een uniform financieringsregime voor overheid en marktsector tot stand worden gebracht.
+
 Het bovenstaande is in onderhavige circulaire als volgt nader uitgewerkt.
 
-In hoofdstuk 2 wordt in herinnering gebracht wat het doel is van de OOW-operatie.
+In [hoofdstuk 2](https://wetten.overheid.nl/BWBR0008751) wordt in herinnering gebracht wat het doel is van de OOW-operatie.
 
-In hoofdstuk 3 wordt stilgestaan bij de voor u van belang zijnde wijzigingen na het van kracht worden van de [Wet OOW](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) wat betreft de arbeidsongeschiktheid. Hierbij wordt tevens ingegaan op de van u in dit kader in de loop van 1997 gevraagde activiteiten.
+In [hoofdstuk 3](https://wetten.overheid.nl/BWBR0008751) wordt stilgestaan bij de voor u van belang zijnde wijzigingen na het van kracht worden van de [Wet OOW](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) wat betreft de arbeidsongeschiktheid. Hierbij wordt tevens ingegaan op de van u in dit kader in de loop van 1997 gevraagde activiteiten.
 
-Hoofdstuk 4 betreft de gevolgen van de voorgestelde [wet OOW](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) voor de regelingen terzake van werkloosheid en ziekte.
+[Hoofdstuk 4](https://wetten.overheid.nl/BWBR0008751) betreft de gevolgen van de voorgestelde [wet OOW](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) voor de regelingen terzake van werkloosheid en ziekte.
 
-In hoofdstuk 5 wordt ingegaan op de toepassing van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de [Wet Inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044); de uitvoering van de werknemersverzekeringen voor het overheidspersoneel, de ziektekostenverzekering en de bovenwettelijke regelingen.
+In [hoofdstuk 5](https://wetten.overheid.nl/BWBR0008751) wordt ingegaan op de toepassing van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de [Wet Inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044); de uitvoering van de werknemersverzekeringen voor het overheidspersoneel, de ziektekostenverzekering en de bovenwettelijke regelingen.
 
-Hoofdstuk 6 geeft tot slot in grote lijnen een schets van het tijdpad van de van u gevraagde activiteiten tot 1 januari 1998.
+[Hoofdstuk 6](https://wetten.overheid.nl/BWBR0008751) geeft tot slot in grote lijnen een schets van het tijdpad van de van u gevraagde activiteiten tot 1 januari 1998.
 
 Als bijlage1De genoemde bijlage in deze circulaire is niet geplaatst omdat inmiddels bij het ministerie van SZW een nieuwe brochure over de [Wet Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) is verschenen: ’De nieuwe WAO-financiering’ (met een versie voor werkgevers en één voor werknemers). De brochure is gratis verkrijgbaar bij het ministerie van SZW, Informatietelefoon: 0800-9051.Vrijdag 4 juli 1997 is voor uw informatie bijgevoegd een nieuwsbrief van het ministerie van Sociale Zaken en Werkgelegenheid over de bovengenoemde [wet Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655). Daarin vindt u algemene informatie over de inhoud en betekenis van de maatregelen van de [Wet Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655). Toen deze nieuwsbrief werd geschreven, lag de [Wet Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) nog in de Eerste Kamer der Staten-Generaal. Inmiddels is de [Wet Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) door de Eerste Kamer aanvaard en zal die wet in werking treden per 1 januari 1998. Ook is intussen de Osv 1997 in werking getreden, zodat, waar in die nieuwsbrief wordt gesproken van bedrijfsverenigingen, gelezen moet worden: het Lisv.
 
@@ -76,11 +65,15 @@ Na het van kracht worden van de [Wet OOW](https://wetten.overheid.nl/jci1.3:c:BW
 
 Uw ’zittende’ werknemers alsmede uw voormalige werknemers met een bestaande uitkering (’oude gevallen’) behoren tot de doelgroep van de OOW-operatie voor zover zij:
 
+- – jonger zijn dan 65 jaar, en
+
+- – deelnemer zijn in de zin van het pensioenreglement van de Stichting Pensioenfonds ABP.
+
 De volgende groep (gewezen) werknemers blijft buiten de OOW en dus buiten de werknemersverzekeringen: (gewezen) overheidswerknemers die recht hebben op een uitkering wegens functioneel leeftijdsontslag (FLO) of op een uitkering wegens vrijwillig vervroegd uittreden (VUT/FPU).
 
 ### 3. Arbeidsongeschiktheid
 
-### 3.1. Invoeringsdatum [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)/[Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655)
+### 3.1. Invoeringsdatum WAO/Pemba
 
 Aan de Tweede Kamer is voorgesteld dat de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) met ingang van een bij koninklijk besluit te bepalen tijdstip wordt opengesteld voor het overheidspersoneel. Hierbij wordt door het kabinet uitgegaan van 1 januari 1998. Het gaat dan om de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) inclusief de maatregelen van de [Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) (Pemba). De Eerste Kamer der Staten-Generaal heeft recentelijk [Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) aanvaard en [Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) zal per 1 januari 1998 van kracht worden.
 
@@ -90,9 +83,25 @@ Aan de Tweede Kamer is voorgesteld dat de [WAO](https://wetten.overheid.nl/jci1.
 
 Met ingang van 1 januari 1998 heeft het overheidspersoneel ingeval van arbeidsongeschiktheid recht op een WAO-uitkering. Zowel de AAW als de WAO-conforme regeling komen te vervallen. Voor het overheidspersoneel gelden verder alle in de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) opgenomen overige rechten en verplichtingen. Achtereenvolgens wordt hieronder ingegaan op de wijzigingen in de financiering van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de verantwoordelijkheid voor de uitvoering en de loonkosten- en inkomensneutraliteit invoering [Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655).
 
-### a. Wijzigingen in de financiering van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+### a. Wijzigingen in de financiering van de WAO
 
 In de financiering van de arbeidsongeschiktheidsuitkeringen treden als gevolg van [Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) wijzigingen op. Kort samengevat ziet de financiering van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) na het van kracht worden van [Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) er met ingang van 1 januari 1998 als volgt uit:
+
+- A.
+
+   - 1. De op 31 december 1997 bestaande arbeidsongeschiktheidsuitkeringen (inclusief die van de overheid) komen ten laste van het fonds van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), het Arbeidsongeschiktheidsfonds (AOF). Het AOF wordt gevoed door middel van de basispremie [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) (een premie met een landelijk, inclusief de overheidswerkgevers, gemiddeld premiepercentage).
+
+   - 2. Het AOF draagt de lasten van de op of na 1 januari 1998 ingaande WAO-uitkeringen (’nieuwe uitkeringen’) met ingang van het zesde jaar van de looptijd van die nieuwe uitkeringen.
+
+   - 3. Het AOF bekostigt eveneens de werkvoorzieningen en de gecombineerde werk/leefvoorzieningen uit hoofde van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524).
+
+- B. Ten laste van de Arbeidsongeschiktheidskas (AOK) van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) komen gedurende maximaal de eerste vijf jaar de kosten van een ’nieuwe uitkering’: de werknemers die op of ná 1 januari 1998 in de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) komen. De AOK wordt gevoed met de zogenoemde gedifferentieerde premie [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524). Bij het berekenen van deze premie spelen twee componenten een rol: een landelijk gemiddeld premiepercentage (ook wel de rekenpremie genoemd) en een individuele opslag of korting. Het landelijk gemiddelde premiepercentage wordt vastgesteld op basis van de arbeidsongeschiktheidslasten voor uitkeringen die zijn verstrekt. Het betreft hier alleen de uitkeringen met een duur van minder dan vijf jaar. De opslag of korting is afhankelijk van het arbeidsongeschiktheidsrisico van de werkgever over de afgelopen vijf jaar. Had een werkgever bijvoorbeeld tijdens die periode een lager arbeidsongeschiktheidsrisico dan gemiddeld dan krijgt de werkgever een korting op de premie. Is het risico hoger dan gemiddeld dan wordt de premie verhoogd met een opslag. Het percentage van de opslag of korting wordt per werkgever individueel vastgesteld. Voor de gedifferentieerde premie geldt overigens een maximum- en een minimumpremiepercentage.
+
+- C. De werkgever kan er op een gegeven moment (ook na 1 januari 1998) echter ook voor kiezen om voor de eerste vijf jaar van de nieuwe uitkeringen eigen-risicodrager [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) te worden (zie voor de voorwaarden bijlage). De werkgever/eigen-risicodrager is enkel de basispremie [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) (zie A.1) verschuldigd, niet de gedifferentieerde premie [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) (zie B). Voor de werknemers die op het moment dat zij ziek werden bij hem in dienst waren en die vervolgens arbeidsongeschikt worden, neemt de werkgever/eigen-risicodrager gedurende de periode van vijf jaar de kosten van de WAO-uitkeringen voor zijn rekening. Tot die kosten horen ook de werkgeverslasten die over de betreffende uitkeringen verschuldigd zijn. Wat betreft de WAO-uitkering behoren tot die werkgeverslasten de basispremie en de zogenaamde rekenpremie (zie B). De werkgever kan overigens geen eigen-risicodrager worden voor de op 31 december 1997 bestaande WAO-uitkeringen noch voor lasten van de nieuwe WAO-uitkeringen die langer dan vijf jaar lopen; enkel voor de ’nieuwe uitkeringen’ gedurende de eerste vijf jaar van de looptijd van de uitkering.
+
+- D. De AAW (die nu nog een ’onderbouw’ vormt in de WAO-uitkering) verdwijnt. Hierdoor komt een einde aan de bestaande dubbele uitvoering van de AAW en de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) ten aanzien van werknemers. De franchise in de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) verdwijnt eveneens. De [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) vormt voortaan de enige wettelijke arbeids-ongeschiktheidsregeling voor werknemers.
+
+- E. De huidige WAO-premie komt volledig voor rekening van de werknemers. Op grond van [Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) wordt de WAO-premie echter een volledige werkgeverspremie zonder werknemersdeel. Het is niet toegestaan om een deel van die werkgeverspremie te verhalen op de werknemer. Voor overheidswerkgevers betekent dit dat de FAOP-premie wordt vervangen door de WAO-premie (die geen franchise meer kent) en verder dat de bestaande inhouding ter zake van arbeidsongeschiktheid (de zogenaamde pseudo-premie [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)) vervalt. Omdat de AAW verdwijnt, worden correcties in de belastingtarieven doorgevoerd (zie verder onder b).
 
 ### b. Wijzigingen in de verantwoordelijkheid voor de uitvoering
 
@@ -102,13 +111,19 @@ De invoering van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) betek
 
 Een deel van het beschikbare FAOP-vermogen, dat is opgebouwd uit werkgeverspremies, zal als bijdrage in de wettelijke reserve worden overgeheveld naar de WAO-fondsen. Het daarna resterende vermogen van het FAOP zal in 1998 worden teruggegeven aan de overheidswerkgevers. De wijze waarop dat zal gebeuren en de omvang van de terug te geven gelden zullen in overleg met het FAOP nog nader bekend worden gemaakt.
 
-### c. Loonkosten- en koopkrachtneutraliteit invoering [Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655)
+### c. Loonkosten- en koopkrachtneutraliteit invoering Pemba
 
 Per 1 januari 1998 geldt wat betreft de arbeidsongeschiktheid een uniform financieringsregime voor overheid en marktsector. Dat zal het financierings-regime zijn zoals dat geldt na de inwerkingtreding van [Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655). De invoering van [Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) zal zoveel mogelijk loonkosten- en koopkrachtneutraal verlopen. Om dat te bereiken:
 
+- 1. worden de werkgevers tegemoetgekomen door een verlaging van de overhevelingstoeslag;
+
+- 2. worden correcties in de belastingtarieven doorgevoerd; en
+
+- 3. wordt in het werkgeversdeel van de Awf-premie (ten behoeve van het Algemene werkloosheidsfonds) en in het werknemersdeel van de Wgf-premie (ten behoeve van het Wachtgeldfonds) een franchise geïntroduceerd in de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) (en dus ook in de pseudo-premie WW).
+
 Omdat het arbeidsongeschiktheidsrisico van de overheid lager is dan dat van de markt, betekent de overgang van eigen-risicodragerschap naar de verevening die het uniforme financierings-regime inhoudt, voor de overheid extra kosten. Voor zover de loonkosten van de overheidswerkgevers worden gefinancierd vanuit de algemene middelen worden zij in de kosten van deze verevening tegemoetgekomen.
 
-### 3.3. Uitkeringsgrondslag [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524): in 1998 dagloon
+### 3.3. Uitkeringsgrondslag WAO: in 1998 dagloon
 
 De WAO-conforme regeling is nagenoeg gelijk aan de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524). Er zijn echter wel verschillen, met name wat betreft het dagloon en de grondslag voor de premieheffing. De deeltijdfactor wordt niet gehanteerd in het systeem van de sociale verzekeringen waartoe ook de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) behoort. In dat systeem is het gebruikelijk om zowel de aanspraken als de premieheffing te bepalen op basis van het loon per dag en het aantal gewerkte dagen in een bepaald tijdvak.
 
@@ -120,7 +135,7 @@ De invoering van het WAO-dagloon betekent voor de salarisadministraties dat zij 
 
 Deze registratie van gewerkte dagen zal overigens later ook gebruikt moeten worden om in het kader van de WW-beoordeling aan de arbeidsverleden-eis te toetsen. Over de uitvoeringsspecifieke aspecten zal de USZO u nader informeren.
 
-### 3.4. Premieloon [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524): in 1998 nog deeltijdfactor i.p.v. loon per dag
+### 3.4. Premieloon WAO: in 1998 nog deeltijdfactor i.p.v. loon per dag
 
 Het bij de Tweede Kamer ingediende wetsvoorstel OOW houdt nog in dat de werkgevers met ingang van 1 januari 1998, bij de invoering van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), ook bij de premieheffing zouden moeten omschakelen op de dagensystematiek (dat wil zeggen: premieheffing per dag over het op die dag door de werknemer verdiende loon). Inmiddels is echter sprake van nieuwe ontwikkelingen die er toe zullen leiden dat dit element van het wetsvoorstel bij nota van wijziging zal worden geschrapt.
 
@@ -148,19 +163,19 @@ Dit houdt voor de sector Rijk in dat de ministeries (met uitzondering van het mi
 
 ### 4.1. Werkloosheid
 
-### 4.1.1. Invoering [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470)
+### 4.1.1. Invoering WW
 
 ### a. De beslissing over de invoering wordt in 1998 genomen op basis van onderzoeken naar de financiering van de werkloosheidsregeling
 
 Het kabinet heeft besloten dat er onderzoek gedaan moet worden naar de financiering van de werkloosheidsregelingen van de markt- en overheidssector. Het kabinet is daarnaast van mening dat voor de overheidssector in het kader van OOW een stabiel financieringsregime [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) moet worden ingevoerd en wil niet de kans lopen dat het financieringsregime binnen enkele jaren na de invoering daarvan op belangrijke onderdelen gewijzigd zal moeten worden. Deze noodzakelijke stabiliteit wordt bereikt doordat de invoering van de integrale [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) (financiering, uitvoering en aanspraken) voor het overheidspersoneel voorlopig niet zal plaatsvinden. Volgens planning moeten de onderzoeken uiterlijk in het eerste kwartaal van 1998 zijn afgerond. Het kabinet zal zo spoedig mogelijk daarna een besluit nemen over de invoering van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470).
 
-### b. De vroegst mogelijke invoeringsdatum voor de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) is 1 januari 1999
+### b. De vroegst mogelijke invoeringsdatum voor de WW is 1 januari 1999
 
 Indien het kabinet in 1998 zou beslissen dat de huidige [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) inclusief het huidige financieringsregime moet gelden voor de overheidssector, is invoering van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) op zijn vroegst per 1 januari 1999 mogelijk. Ingeval het kabinet zou besluiten het financieringsregime van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) te wijzigen en de aldus gewijzigde [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) ook voor de overheid in te voeren (dus met een uniform financieringsregime), is het tijdstip waarop de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) voor de overheid kan worden ingevoerd afhankelijk van het tijdstip waarop de gewijzigde [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) van kracht kan worden, alsmede van de uitvoeringstechnische mogelijkheden.
 
 De USZO heeft inmiddels van mij de opdracht gekregen om zich voor te bereiden op het kunnen uitvoeren van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) met ingang van 1 januari 1999.
 
-### c. Vanwege de met de invoering van OOW samenhangende uitvoeringstechnische complicaties worden de overheidswerknemers die op 31 december 1998 reeds recht hebben op een wachtgeld, een jaar later dan het overige overheidspersoneel onder de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) gebracht
+### c. Vanwege de met de invoering van OOW samenhangende uitvoeringstechnische complicaties worden de overheidswerknemers die op 31 december 1998 reeds recht hebben op een wachtgeld, een jaar later dan het overige overheidspersoneel onder de WW gebracht
 
 Vanwege de uitvoeringstechnische complicaties van de toepassing van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) op de overheidswerknemers die op het moment van invoering van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) reeds recht hebben op een wachtgeld, stelt het kabinet voor om extra tijd, te weten een jaar, uit te trekken voor de vaststelling van WW-uitkeringen voor die categorie wachtgelders. Dit betekent dat die wet pas een jaar nadat de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) voor het overheidspersoneel is ingevoerd, ook van toepassing wordt op deze categorie wachtgelders.
 
@@ -174,15 +189,15 @@ Gelet op bovenstaande planning, zal de OOW in 1998 geen effect hebben op de ambt
 
 ### 4.2. Ziekte
 
-### 4.2.1. Invoering [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+### 4.2.1. Invoering ZW
 
-### a. De [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) en de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) zijn wat de invoering betreft in de [Wet OOW](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) niet aan elkaar gekoppeld
+### a. De WW en de ZW zijn wat de invoering betreft in de Wet OOW niet aan elkaar gekoppeld
 
 In het kader van de [Wet uitbreiding loondoorbetalingsplicht bij ziekte](https://wetten.overheid.nl/jci1.3:c:BWBR0007892) (Wulbz) is de loondoorbetalingsplicht in de marktsector verlengd tot 52 weken. De [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is echter niet geheel afgeschaft, maar gehandhaafd voor bepaalde groepen, zoals ingeval van zwangerschaps- en bevallingsverlof en zieke werklozen.
 
 In de opvatting van het kabinet kan de beslissing over de invoering van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) worden losgekoppeld van de beslissing over de invoering van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470). Dit, ondanks de relatie tussen die beide wetten op het gebied van de techniek van de financiering. Het wetsvoorstel OOW maakt het mogelijk de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) afzonderlijk in te voeren.
 
-### b. De invoering van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) geschiedt in twee fasen
+### b. De invoering van de ZW geschiedt in twee fasen
 
 Voorgesteld wordt de invoering van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) voor nieuwe en voor oude gevallen, evenals de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470), in twee fasen te laten plaatsvinden. De reden voor deze fasering is eveneens een verdere reductie van de met de invoering van de voorgestelde [Wet OOW](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) samenhangende (met name uitvoeringstechnische) complicaties.
 
@@ -200,7 +215,7 @@ Gelet op bovenstaande planning, zal de OOW in 1998 geen effect hebben op de rech
 
 ### 5. Overige aandachtspunten
 
-### 5.1. Toepassing van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
+### 5.1. Toepassing van de TW en de IOAW
 
 Indien een werknemersverzekering op grond van de voorgestelde [Wet OOW](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) van toepassing wordt op het overheidspersoneel, gelden de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) uit dien hoofde ook voor dat personeel. De [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) is van toepassing in aanvulling op het recht op uitkering krachtens de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) en de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524). De [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) is aan de orde bij werkloosheid na afloop van het recht op uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470).
 

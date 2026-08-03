@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0031802"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-03
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 12 juni 2012, nr. DL/405352, houdende vaststelling van het overzicht van getuigschriften waarmee wordt voldaan aan de bekwaamheidseisen die gelden voor het geven van voortgezet onderwijs in de algemeen gebruikelijke vakken of programmaonderdelen waarvan niet rechtstreeks op grond van het getuigschrift kan worden vastgesteld dat aan deze bekwaamheidseisen is voldaan (Regeling conversietabel getuigschriften en vakken VO)

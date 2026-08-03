@@ -1,51 +1,62 @@
 ---
 title: "Regeling van de Staatssecretaris van Financiën van 21 augustus 1997, nr. WDB97/348M, houdende voorwaarden voor het berekenen van het belastbare bedrag in een andere geldeenheid dan de gulden"
+citeertitel: "Regeling functionele valuta"
 identifier: "BWBR0008878"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-06-23"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008878"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4435603"
-version_id: "6231952"
-internal_id: "C6436161"
-label_id: "4414034"
-dtd_version: "2.0"
-original_entry_into_force: "1997-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008878/2022-06-23/0"
-intitule_bron: "Stcrt.1997-160"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-08-21"
-intitule_published: "1997-08-22"
-intitule_in_force: "1997-08-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-160"
-original_signed_date: "1997-08-21"
-original_published_date: "1997-08-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-08-24"
-jci_1_3: "jci1.3:c:BWBR0008878&z=2022-06-23&g=2022-06-23"
-jci_1_0: "1.0:c:BWBR0008878&g=2022-06-23"
-citeertitel_status: "officieel"
-short_title: "Regeling functionele valuta"
-signed_date: "1997-08-21"
-entry_into_force: "1997-08-24"
+publicatiedatum: 1997-08-24
+laatste_update: 2022-06-23
+status: geldig
+toestand: 2022-06-23
+bron: "https://wetten.overheid.nl/BWBR0008878"
+opgehaald: 2026-08-03
 ---
+
 # Regeling van de Staatssecretaris van Financiën van 21 augustus 1997, nr. WDB97/348M, houdende voorwaarden voor het berekenen van het belastbare bedrag in een andere geldeenheid dan de gulden
-
-Gelet op [artikel 7, vijfde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=7);
-
-Besluit:
 
 ##### Artikel 1
 
 Deze regeling verstaat onder:
 
+a.
+
+wet:
+
+[Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672);
+
+b.
+
+andere geldeenheid:
+
+geldeenheid van een Mogendheid waarvan de door de Europese Centrale Bank vastgestelde informatieve wisselkoers wordt gepubliceerd op een voor het publiek algemeen toegankelijke informatiedrager van deze instelling dan wel, zolang de Europese Centrale Bank de publicatie van een wisselkoers opschort, waarvan de wisselkoers wordt gepubliceerd in de Financial Times Guide to World Currencies;
+
+c.
+
+koers van de andere geldeenheid:
+
+de in onderdeel b bedoelde wisselkoers;
+
+d.
+
+gemiddelde koers van de andere geldeenheid over het desbetreffende jaar:
+
+het rekenkundige gemiddelde van de dagkoersen van de andere geldeenheid gedurende het desbetreffende jaar;
+
+e.
+
+overgangstijdstip:
+
+tijdstip met ingang waarvan de belastingplichtige het belastbare bedrag berekent in een andere geldeenheid dan de euro;
+
+f.
+
+teruggangstijdstip:
+
+tijdstip met ingang waarvan de belastingplichtige ophoudt het belastbare bedrag te berekenen in een andere geldeenheid dan de euro.
+
 ##### Artikel 2
 
-1. Op verzoek van de belastingplichtige wordt het belastbare bedrag berekend in een andere geldeenheid dan de euro indien de belastingplichtige de jaarrekening over het jaar dat aanvangt met het overgangstijdstip op de voet van [artikel 362, zevende lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362) in die andere geldeenheid opstelt. Indien artikel 362, zevende lid, van Boek 2 van het Burgerlijk Wetboek niet op de belastingplichtige van toepassing is, is de eerste volzin van overeenkomstige toepassing indien de belastingplichtige de jaarrekening opstelt in een andere geldeenheid en dit wordt gerechtvaardigd door de werkzaamheid van de belastingplichtige of de internationale vertakking van zijn groep.
+1. Op verzoek van de belastingplichtige wordt het belastbare bedrag berekend in een andere geldeenheid dan de euro indien de belastingplichtige de jaarrekening over het jaar dat aanvangt met het overgangstijdstip op de voet van [artikel 362, zevende lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362) in die andere geldeenheid opstelt. Indien artikel 362, zevende lid, van Boek 2 van het Burgerlijk Wetboek niet op de belastingplichtige van toepassing is, is de eerste volzin van overeenkomstige toepassing indien de belastingplichtige de jaarrekening opstelt in een andere geldeenheid en dit wordt gerechtvaardigd door de werkzaamheid van de belastingplichtige of de internationale vertakking van zijn groep.
 
 2. Bij inwilliging van het verzoek geldt zulks met ingang van het jaar volgend op het jaar waarin het verzoek is gedaan en tot wederopzegging door de belastingplichtige, met dien verstande dat bij inwilliging van een verzoek dat wordt gedaan in het jaar waarin de belastingplicht een aanvang neemt, zulks geldt met ingang van het tijdstip waarop de belastingplicht een aanvang neemt.
 
@@ -73,7 +84,7 @@ De verschuldigde vennootschapsbelasting wordt berekend in euro's. Voor deze bere
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -82,5 +93,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de datum van uit
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling functionele valuta.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

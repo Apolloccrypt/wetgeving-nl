@@ -1,46 +1,45 @@
 ---
 title: "Anticumulatieregeling RPU Politie"
 identifier: "BWBR0009185"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009185"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4771853"
-version_id: "6578122"
-internal_id: "C7035361"
-label_id: "4749934"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009185/2025-04-01/0"
-intitule_bron: "Stcrt.1997-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-17"
-intitule_published: "1997-12-29"
-intitule_in_force: "1997-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-249"
-original_signed_date: "1997-12-17"
-original_published_date: "1997-12-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-12-31"
-jci_1_3: "jci1.3:c:BWBR0009185&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0009185&g=2025-04-01"
-citeertitel_status: "officieel"
-signed_date: "1997-12-17"
-entry_into_force: "1997-12-31"
+publicatiedatum: 1997-12-31
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0009185"
+opgehaald: 2026-08-03
 ---
+
 # Anticumulatieregeling RPU Politie
-
-Gelet op [artikel 13a van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=13a);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+ambtenaar:
+
+de ambtenaar van wie de wekelijkse arbeidstijd is verminderd op grond van [artikel 13a van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=13a);
+
+b.
+
+RPU-salaris:
+
+het salaris waarop een inhouding op grond van [artikel 13a Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=13a) heeft plaatsgevonden;
+
+c.
+
+deeltijdsalaris:
+
+het salaris, bedoeld in [artikel 11 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=11), dat voor de ambtenaar zou zijn vastgesteld indien voor hem de teruggebrachte werktijd als onvolledige werktijd zou gelden;
+
+d.
+
+bezoldiging:
+
+bezoldiging als bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1).
 
 ##### Artikel 2
 
@@ -67,5 +66,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Anticumulatieregeling RPU Politie.
-
-Deze regeling zal met de toelichting in de Staatscourant en het Algemene Politieblad worden geplaatst.

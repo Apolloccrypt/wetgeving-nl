@@ -1,47 +1,18 @@
 ---
 title: "Wet van 11 september 1997 tot verzelfstandiging van Staatsbosbeheer (Wet verzelfstandiging Staatsbosbeheer)"
+citeertitel: "Wet verzelfstandiging Staatsbosbeheer"
 identifier: "BWBR0008904"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008904"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2647523"
-version_id: "4005962"
-internal_id: "C4005961"
-label_id: "2592524"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008904/2020-01-01/0"
-intitule_bron: "Stb.1997-514"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-09-11"
-intitule_published: "1997-11-13"
-intitule_in_force: "1997-12-23"
-intitule_status: "goed"
-original_publication: "Stb.1997-514"
-original_signed_date: "1997-09-11"
-original_published_date: "1997-11-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "24622"
-original_url_id: "stb-1997-514"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0008904&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0008904&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet verzelfstandiging Staatsbosbeheer"
-signed_date: "1997-09-11"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0008904"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 11 september 1997 tot verzelfstandiging van Staatsbosbeheer (Wet verzelfstandiging Staatsbosbeheer)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is Staatsbosbeheer te verzelfstandigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### HOOFDSTUK I. ALGEMEEN
 
@@ -149,9 +120,9 @@ Onze Minister kan aan de leden van de raad van toezicht, ten laste van Staatsbos
 
 - f. het oprichten of mede-oprichten van een privaatrechtelijke rechtspersoon of het deelnemen in dan wel ontbinden van een vennootschap.
 
-3. De raad van toezicht verleent geen goedkeuring aan besluiten als bedoeld in het tweede lid, onderdelen **d** en **f**, dan na een verkregen verklaring van geen bezwaar van Onze Minister.
+3. De raad van toezicht verleent geen goedkeuring aan besluiten als bedoeld in het tweede lid, onderdelen *d* en *f*, dan na een verkregen verklaring van geen bezwaar van Onze Minister.
 
-4. Het reglement, bedoeld in het eerste lid, alsmede wijzigingen in dat reglement worden door de directeur bekendgemaakt in de **Staatscourant**.
+4. Het reglement, bedoeld in het eerste lid, alsmede wijzigingen in dat reglement worden door de directeur bekendgemaakt in de *Staatscourant*.
 
 #### Paragraaf 2. De raad van advies
 
@@ -299,11 +270,11 @@ Indien Staatsbosbeheer zijn taken, voortvloeiend uit [artikel 3, eerste en tweed
 
 ##### Artikel 25
 
-Wijzigt de Boswet.
+*Wijzigt de Boswet.*
 
 ##### Artikel 26
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ### HOOFDSTUK XII. OVERGANGS- EN SLOTBEPALINGEN
 
@@ -354,5 +325,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 34
 
 Deze wet wordt aangehaald als: Wet verzelfstandiging Staatsbosbeheer.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

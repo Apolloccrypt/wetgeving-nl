@@ -1,42 +1,17 @@
 ---
 title: "Bijdragen gemoedsbezwaarden als bedoeld in w.a.-verzekering motorrijtuigen"
 identifier: "BWBR0009036"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-01-01"
-last_updated: "1998-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009036"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3785223"
-version_id: "5568012"
-internal_id: "C5761101"
-label_id: "3764894"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009036/1998-01-01/0"
-intitule_bron: "Stcrt.1997-232"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-11-25"
-intitule_published: "1997-12-02"
-intitule_in_force: "1997-12-02"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-232"
-original_signed_date: "1997-11-25"
-original_published_date: "1997-12-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0009036&z=1998-01-01&g=1998-01-01"
-jci_1_0: "1.0:c:BWBR0009036&g=1998-01-01"
-citeertitel_status: "officieel"
-signed_date: "1997-11-25"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 1998-01-01
+status: geldig
+toestand: 1998-01-01
+bron: "https://wetten.overheid.nl/BWBR0009036"
+opgehaald: 2026-08-03
 ---
+
 # Bijdragen gemoedsbezwaarden als bedoeld in w.a.-verzekering motorrijtuigen
-
-Gelet op [artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=20);
-
-Besluit:
 
 ##### Artikel 1
 

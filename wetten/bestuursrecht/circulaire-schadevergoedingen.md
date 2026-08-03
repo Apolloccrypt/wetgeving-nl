@@ -1,39 +1,21 @@
 ---
 title: "Circulaire schadevergoedingen"
 identifier: "BWBR0008488"
-country: "nl"
-rank: "circulaire"
-publication_date: "1997-12-22"
-last_updated: "1997-12-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008488"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6593973"
-version_id: "11437662"
-internal_id: "C16101711"
-label_id: "6583404"
-original_entry_into_force: "1997-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008488/1997-12-22/0"
-intitule_bron: "Stcrt.1997-246"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1997-12-22"
-intitule_in_force: "1997-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-246"
-original_published_date: "1997-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1997-246-p32-SC11877"
-entry_into_force_date: "1997-12-22"
-jci_1_3: "jci1.3:c:BWBR0008488&z=1997-12-22&g=1997-12-22"
-jci_1_0: "1.0:c:BWBR0008488&g=1997-12-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "1997-12-22"
+publicatiedatum: 1997-12-22
+laatste_update: 1997-12-22
+status: geldig
+toestand: 1997-12-22
+bron: "https://wetten.overheid.nl/BWBR0008488"
+opgehaald: 2026-08-03
 ---
+
 # Circulaire schadevergoedingen
 
 ### 1. Inleiding
 
-### 1.1. De schadevergoedingsregeling in de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
+### 1.1. De schadevergoedingsregeling in de Wet milieubeheer
 
 De wetgever heeft in de [artikelen 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20) en [15.21 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21) (WM) bepaald in welke gevallen de overheid een vergoeding toekent aan een vergunninghouder die door een milieubeschikking van die betreffende overheid kosten moet maken of schade lijdt, waarin niet op een andere wijze is of kan worden voorzien. Het gaat hier om kosten of schade die redelijkerwijs niet of niet geheel voor rekening van de vergunninghouder behoren te blijven.
 
@@ -45,19 +27,27 @@ Volgens de [artikelen 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&art
 
 Deze circulaire informeert u over het instemmingsbeleid van de Minister. Verder heeft zij tot doel een eenduidige behandeling van aanvragen van schadevergoeding te bevorderen. Hierbij moet worden opgemerkt dat de circulaire een indicatief karakter heeft. De vastgestelde criteria zijn geen harde eisen in de zin van wettelijke bepalingen. Van de criteria kan worden afgeweken indien in een concrete situatie een strikte hantering ervan tot kennelijk onredelijke uitkomsten zou leiden.
 
-### 1.3. De [circulaire van 1 juli 1992](onbekend) vervalt
+### 1.3. De circulaire van 1 juli 1992 vervalt
 
 Deze circulaire vervangt de circulaire van 1 juli 1992 over de toepassing van de schadevergoedingsartikelen in de Wet algemene bepalingen milieuhygiëne. De directe aanleiding om de circulaire te herzien is het per 1 maart 1993 van kracht geworden zijn van de [WM](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 De circulaire is voorts gewijzigd door de volgende omstandigheden:
 
-### 1.4. Schadevergoeding volgens [artikel 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20) en [15.21 van de WM](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21)
+- – het doelgroepenbeleid heeft gevolgen voor het karakter van de vergunningen van bedrijven waarmee een convenant is afgesloten en daarmee voor het schadevergoedingenbeleid;
 
-In de [artikelen 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20) en [15.21 van de WM](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21) worden twee verschillende soorten milieubesluiten genoemd die tot het toekennen van een schadevergoeding kunnen leiden.1Zie voor een gedetailleerde opsomming bijlage 1.
+- – op een aantal milieubeleidsterreinen is de ruimte voor de andere overheden om een eigen invulling aan het milieubeleid te geven vergroot; dit heeft gevolgen voor het instemmingsbeleid;
 
-In [artikel 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20) gaat het hoofdzakelijk om schadevergoeding bij individuele besluiten over vergunningen voor inrichtingen. Deze circulaire is primair gericht op de toepassing van [artikel 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20). In deze circulaire worden de criteria voor het toekennen van zo’n schadevergoeding beschreven (hoofdstuk 3). Verder gaat zij over de wijze waarop die criteria in verschillende vergunningsituaties voor diverse soorten schade en kosten worden toegepast (hoofdstuk 4 en 5), de toetsing door de Minister (hoofdstuk 6) en de te volgen procedures bij een geval van schadevergoeding (hoofdstuk 7).
+- – de criteria voor het bepalen van de schadevergoedingen wegens het intrekken van vergunningen zijn gewijzigd onder andere in verband met uitspraken van de Raad van State en omdat de toepassing van de criteria tot uitvoerings- en interpretatievraagstukken leidde;
 
-In [artikel 15.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21) gaat het om schadevergoeding op grond van een aantal besluiten met een meer algemene strekking zoals algemene maatregelen van bestuur en ministeriële regelingen. Instemming met een schadevergoedingen op grond van [artikel 15.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21) wordt alleen in zeer uitzonderlijke gevallen voorzien; hierop gaat hoofdstuk 8 nader in.
+- – de beroepsprocedure in het geval dat niet geheel of slechts gedeeltelijk wordt ingestemd, is verduidelijkt.
+
+### 1.4. Schadevergoeding volgens artikel 15.20 en 15.21 van de WM
+
+In de [artikelen 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20) en [15.21 van de WM](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21) worden twee verschillende soorten milieubesluiten genoemd die tot het toekennen van een schadevergoeding kunnen leiden.1Zie voor een gedetailleerde opsomming [bijlage 1](https://wetten.overheid.nl/BWBR0008488).
+
+In [artikel 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20) gaat het hoofdzakelijk om schadevergoeding bij individuele besluiten over vergunningen voor inrichtingen. Deze circulaire is primair gericht op de toepassing van [artikel 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20). In deze circulaire worden de criteria voor het toekennen van zo’n schadevergoeding beschreven ([hoofdstuk 3](https://wetten.overheid.nl/BWBR0008488)). Verder gaat zij over de wijze waarop die criteria in verschillende vergunningsituaties voor diverse soorten schade en kosten worden toegepast ([hoofdstuk 4](https://wetten.overheid.nl/BWBR0008488) en [5](https://wetten.overheid.nl/BWBR0008488)), de toetsing door de Minister ([hoofdstuk 6](https://wetten.overheid.nl/BWBR0008488)) en de te volgen procedures bij een geval van schadevergoeding ([hoofdstuk 7](https://wetten.overheid.nl/BWBR0008488)).
+
+In [artikel 15.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21) gaat het om schadevergoeding op grond van een aantal besluiten met een meer algemene strekking zoals algemene maatregelen van bestuur en ministeriële regelingen. Instemming met een schadevergoedingen op grond van [artikel 15.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21) wordt alleen in zeer uitzonderlijke gevallen voorzien; hierop gaat [hoofdstuk 8](https://wetten.overheid.nl/BWBR0008488) nader in.
 
 ### 2. Schadevergoeding en milieubeleid
 
@@ -83,9 +73,9 @@ Het overheidsbeleid is meer en meer gebaseerd op het aanspreken van de eigen ver
 
 Voor de uitvoering van het milieubeleid op terreinen, waarop de andere overheden een grote mate van beleidsvrijheid hebben, zal in beginsel niet met het toekennen van schadevergoedingen ten laste van het ministerie worden ingestemd. Voor zover als gevolg van eigen lokale of regionale afwegingen vergunningen worden aangescherpt of ingetrokken, behoren de daaruit eventueel voortvloeiende schadevergoedingen ten laste van het bevoegd gezag te blijven. Dergelijke vergoedingen zijn immers het gevolg van de invulling van de eigen verantwoordelijkheid.
 
-### 3. Criteria om een schadevergoeding te bepalen op grond van [artikel 15.20 WM](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20)
+### 3. Criteria om een schadevergoeding te bepalen op grond van artikel 15.20 WM
 
-De wetgever heeft aan het recht op schadevergoeding vier criteria verbonden. Ze worden hier kort aangeduid. De verdere uitwerking van deze criteria voor de verschillende typen schade, te weten structurele bedrijfsschade, incidentele bedrijfsschade en vermogensschade, bespreken we in hoofdstuk 5. Volledigheidshalve zij opgemerkt, dat het bij de uitwerking van de criteria gaat om de criteria met het oog op het verkrijgen van instemming.
+De wetgever heeft aan het recht op schadevergoeding vier criteria verbonden. Ze worden hier kort aangeduid. De verdere uitwerking van deze criteria voor de verschillende typen schade, te weten structurele bedrijfsschade, incidentele bedrijfsschade en vermogensschade, bespreken we in [hoofdstuk 5](https://wetten.overheid.nl/BWBR0008488). Volledigheidshalve zij opgemerkt, dat het bij de uitwerking van de criteria gaat om de criteria met het oog op het verkrijgen van instemming.
 
 Het gaat om de volgende criteria:
 
@@ -111,9 +101,13 @@ Deze vier criteria zijn onlosmakelijk met elkaar verbonden. Ze vormen – in bov
 
 Het milieubesluit en de gevolgen ervan voor een bestaande vergunningsituatie zijn voor het verkrijgen van een schadevergoeding van essentieel belang. Er is alleen sprake van schadevergoeding als het bevoegd gezag in een bestaande vergunningsituatie ingrijpt en de vergunninghouder de maatregelen waar het om gaat – tenzij het om een intrekking of weigering van een vergunning gaat – nog niet heeft genomen.
 
-In dit hoofdstuk wordt een overzicht gegeven van de belangrijkste besluiten die volgens [artikel 15.20 WM](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20) reden kunnen zijn een schadevergoeding toe te kennen, ook worden de soorten kosten of schade genoemd waarom het hierbij gaat. Het is geen uitputtende opsomming; daarvoor wordt verwezen naar Bijlage 1 (Werkingssfeer van de schadevergoedingsregelingen).
+In dit hoofdstuk wordt een overzicht gegeven van de belangrijkste besluiten die volgens [artikel 15.20 WM](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20) reden kunnen zijn een schadevergoeding toe te kennen, ook worden de soorten kosten of schade genoemd waarom het hierbij gaat. Het is geen uitputtende opsomming; daarvoor wordt verwezen naar [Bijlage 1](https://wetten.overheid.nl/BWBR0008488) (Werkingssfeer van de schadevergoedingsregelingen).
 
 Schadevergoeding is in twee gevallen echter bij voorbaat uitgesloten.
+
+- a. Schadevergoeding is uitgesloten als het gaat om een besluit over een oprichtingsvergunning. Als het bevoegd gezag voor een nieuw te bouwen inrichting een oprichtingsvergunning verleent, kan van een schadevergoeding volgens [artikel 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20) geen sprake zijn, omdat dit artikel zich richt op de houder van een vergunning. De beslissing over het eventueel oprichten van een bedrijf dient te worden genomen met in acht neming van het feit dat de daarbij milieukosten altijd geheel voor eigen rekening blijven.
+
+- b. Schadevergoeding is uitgesloten wanneer een verlopen vergunning wordt vernieuwd. Op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) kunnen of moeten vergunningen soms tijdelijk worden verleend. De vergunninghouder moet dan een nieuwe (oprichtings-)vergunning aanvragen voordat de oude is verlopen. De schadevergoedingsregeling is niet van toepassing op het besluit op zo’n nieuwe aanvraag, ook niet als in dat besluit zwaardere eisen worden gesteld dan voorheen. De schadevergoedingsregeling is wel van toepassing als tijdens de looptijd van de vergunning zwaardere eisen worden gesteld.
 
 ### 4.1. Uitbreidings- of wijzigingsvergunning
 
@@ -141,9 +135,13 @@ Kosten of schade door het weigeren om een vergunning te verlenen komen in het al
 
 ### 5. Bepaling van schade en schadevergoeding
 
-In hoofdstuk 4 is voor de belangrijkste besluiten omschreven in welke vergunningsituaties en voor welk type kosten met een schadevergoeding wordt ingestemd. In de praktijk is dit te herleiden tot twee situaties:
+In [hoofdstuk 4](https://wetten.overheid.nl/BWBR0008488) is voor de belangrijkste besluiten omschreven in welke vergunningsituaties en voor welk type kosten met een schadevergoeding wordt ingestemd. In de praktijk is dit te herleiden tot twee situaties:
 
-In dit hoofdstuk wordt per type vergunningbesluit beschreven hoe een schadevergoeding kan worden vastgesteld. Daarbij zullen de in hoofdstuk 3 omschreven criteria nader worden uitgewerkt.
+- 1. De situatie waarin vergunningvoorschriften worden aangescherpt. In deze situatie komt de structurele bedrijfsschade in aanmerking voor een vergoeding.
+
+- 2. De situatie waarin een vergunning wordt ingetrokken. In deze situatie komen vermogensschade en incidentele bedrijfsschade in aanmerking voor een vergoeding.
+
+In dit hoofdstuk wordt per type vergunningbesluit beschreven hoe een schadevergoeding kan worden vastgesteld. Daarbij zullen de in [hoofdstuk 3](https://wetten.overheid.nl/BWBR0008488) omschreven criteria nader worden uitgewerkt.
 
 Voor alle duidelijkheid: het is de vergunninghouder die voor het verkrijgen van een schadevergoeding de informatie moet verschaffen. Het verzoek om een schadevergoeding vergt dus de nodige inspanning van de vergunninghouder.
 
@@ -173,13 +171,23 @@ Kosten gemaakt om een vergunning te krijgen of een aanvraag om schadevergoeding 
 
 Hieronder staan enkele voorbeelden, waarbij de bedrijfsschade niet aan het vergunningbesluit kan worden toegerekend:
 
+Voorbeeld 1:
+
 De milieumaatregel komt niet overeen met de middelen die in het vergunningbesluit zijn voorgeschreven of zij draagt niet of onvoldoende bij aan het milieudoel dat in het vergunningbesluit is voorgeschreven.
+
+Voorbeeld 2:
 
 De extra investeringskosten komen voort uit omstandigheden die ten tijde van het vergunningbesluit in redelijkheid niet waren te voorzien. Het bevoegd gezag vergoedt de werkelijk gemaakte kosten niet alsnog, als deze door onvoorziene omstandigheden bij de eindafrekening van de schadevergoeding hoger blijken dan geraamd. Dergelijke extra kosten worden tot het ondernemersrisico gerekend.
 
+Voorbeeld 3:
+
 De extra investeringskosten komen voort uit een beslissing van de vergunninghouder, bijvoorbeeld een beslissing extra milieumaatregelen te nemen met het doel om de productie uit te kunnen breiden.
 
+Voorbeeld 4:
+
 De extra investeringskosten zijn ontstaan doordat de milieumaatregelen onoordeelkundig zijn getroffen.
+
+Voorbeeld 5:
 
 De kosten moeten worden toegerekend aan een ander overheidsbesluit. Wanneer bijvoorbeeld een milieuvergunning moet worden aangescherpt omdat een overheid een bestemmingsplan wijzigt, behoren de kosten van de milieumaatregelen niet te worden toegerekend aan het milieubesluit.
 
@@ -187,7 +195,11 @@ De kosten moeten worden toegerekend aan een ander overheidsbesluit. Wanneer bijv
 
 Als een causaal verband is vastgesteld, moet aannemelijk worden gemaakt dat de bedrijfsschade redelijkerwijs niet of niet geheel ten laste van de vergunninghouder dient te blijven. Hiertoe is een drieledige toets ontworpen, die hieronder bij a, b en c wordt besproken:
 
+a. Doelmatigheid
+
 In de eerste plaats moet de milieu-investering doelmatig zijn, dat wil zeggen dat het gaat om een gewenst milieuresultaat dat tegen aanvaardbare kosten kan worden bereikt en dat vervolgens ook daadwerkelijk tegen de laagst mogelijke kosten wordt bereikt. Als een vergunninghouder aan de milieueisen van het bevoegd gezag ook tegen lagere kosten kan voldoen geldt het laagst mogelijke bedrag als uitgangspunt voor de berekening van een schadevergoeding.
+
+b. Hoogte in vergelijking met concurrenten
 
 Om te kunnen vaststellen of er van een bovennormale last sprake is en hoe hoog deze is, moeten het normale voorzieningenniveau en de daarbij behorende kosten worden bepaald. Daartoe moeten worden nagegaan welk voorzieningenniveau bij concurrenten normaal is. Het is mede de taak van de vergunninghouder zelf om relevante concurrenten op te sporen. Bij het ontbreken van binnenlandse concurrenten kunnen de relevante concurrenten ook buitenlandse bedrijven zijn, mits deze in moderne industrielanden zijn gevestigd.
 
@@ -197,15 +209,23 @@ De schadevergoedingsregeling is dus niet van toepassing als de overheid milieuvo
 
 Als de hoogte van de bovennormale last bepaald is, moet naar het relatieve gewicht ervan worden gekeken.
 
+c. Relatief gewicht
+
 Na het bepalen van de laagst mogelijk kosten van de investering en de hoogte van de bovennormale last, moet vervolgens het relatieve gewicht van deze last worden vastgesteld.
 
 Dit betekent dat moet worden nagegaan of de bovennormale last een aantoonbaar nadelige invloed heeft op de concurrentiepositie van het bedrijf.
 
 De vergunninghouder dient daarom na te gaan of aan onderstaande voorwaarden wordt voldaan.
 
+1. De bovennormale last is aanzienlijk
+
 De kosten van de bovennormale last moeten tenminste twintig procent hoger zijn dan de kosten van de normale milieumaatregelen.
 
+2. Het bedrijf heeft geen monopoliepositie
+
 Alleen een bedrijf dat op zijn productmarkten met wezenlijke concurrentie te maken heeft, komt voor een schadevergoeding in aanmerking.
+
+3. De bovennormale last heeft een nadelige invloed op de concurrentiepositie
 
 De invloed van een bovennormale last op de concurrentiepositie van een bedrijf is over het algemeen moeilijk ondubbelzinnig en objectief vast te stellen. Deze invloed zal groter zijn naarmate de bovennormale last een groter beslag legt op de financiële ruimte van de ondernemer om zijn concurrentiepositie te handhaven of te verbeteren. Over het algemeen zal pas een wezenlijke aantasting van de concurrentiepositie optreden als de bovennormale last ten minste tien procent bedraagt van de gemiddelde cashflow over de laatste drie boekjaren.
 
@@ -217,7 +237,7 @@ Vergoedingen uit andere bronnen worden uiteraard van de bovennormale last afgetr
 
 ### IV. Naar billijkheid
 
-Het bevoegd gezag dient de vergoeding te bepalen naar billijkheid. In hoofdstuk 3 is al aangegeven dat tenminste twintig procent van de bovennormale last tot het normale ondernemersrisico behoort.
+Het bevoegd gezag dient de vergoeding te bepalen naar billijkheid. In [hoofdstuk 3](https://wetten.overheid.nl/BWBR0008488) is al aangegeven dat tenminste twintig procent van de bovennormale last tot het normale ondernemersrisico behoort.
 
 Een vergoeding kan derhalve nooit hoger zijn dan tachtig procent van de bovennormale last.
 
@@ -263,7 +283,7 @@ De milieunormen zijn over de hele linie steeds verder aangescherpt. Naarmate een
 
 ### 6.1. Instemming van de Minister
 
-Kennen Burgemeester en Wethouders of Gedeputeerde Staten een schadevergoeding toe dan zijn de kosten daarvan voor hun rekening. Stemt echter de Minister van VROM met de toekenning in, dan zijn de kosten voor rekening van het ministerie. Voor zo’n instemming dient het bevoegd gezag een verzoek in bij de Minister. In hoofdstuk 7 wordt aangegeven welke gegevens daarvoor nodig zijn. Het ministerie toetst, voor het instemt, het ontwerpbesluit waarin een schadever-goeding wordt toegekend. Daarnaast gaat het na of het (ontwerp-)vergunningbesluit beletsels bevat om met een schadevergoeding in te stemmen. Het ministerie streeft met deze toetsing een doelmatige besteding van de rijksgelden na.
+Kennen Burgemeester en Wethouders of Gedeputeerde Staten een schadevergoeding toe dan zijn de kosten daarvan voor hun rekening. Stemt echter de Minister van VROM met de toekenning in, dan zijn de kosten voor rekening van het ministerie. Voor zo’n instemming dient het bevoegd gezag een verzoek in bij de Minister. In [hoofdstuk 7](https://wetten.overheid.nl/BWBR0008488) wordt aangegeven welke gegevens daarvoor nodig zijn. Het ministerie toetst, voor het instemt, het ontwerpbesluit waarin een schadever-goeding wordt toegekend. Daarnaast gaat het na of het (ontwerp-)vergunningbesluit beletsels bevat om met een schadevergoeding in te stemmen. Het ministerie streeft met deze toetsing een doelmatige besteding van de rijksgelden na.
 
 ### 6.2. Toetsing van het (ontwerp-)vergunningbesluit
 
@@ -271,7 +291,7 @@ De Minister toetst het (ontwerp-)vergunningbesluit om na te gaan of de vergunnin
 
 ### 6.3. Hoe het ontwerpbesluit tot toekenning van een schadevergoeding wordt getoetst
 
-Het ministerie zal het ontwerpbesluit waarin een schadevergoeding is toegekend inhoudelijk toetsen. Het zal nagaan of het bevoegd gezag in redelijkheid tot het ontwerpbesluit kon komen. De wettelijke criteria die in deze circulaire worden uitgewerkt fungeren daarbij als toetsingskader. Burgemeester en Wethouders of Gedeputeerde Staten moeten dus duidelijk aangeven op welke wijze de verschillende criteria zijn gehanteerd. In hoofdstuk 7 wordt de procedure toegelicht. Waar de inspecteur aan het bevoegd gezag een positief advies heeft uitgebracht, zal dit oordeel in de toetsing van het ontwerpbesluit zwaar worden meegewogen.
+Het ministerie zal het ontwerpbesluit waarin een schadevergoeding is toegekend inhoudelijk toetsen. Het zal nagaan of het bevoegd gezag in redelijkheid tot het ontwerpbesluit kon komen. De wettelijke criteria die in deze circulaire worden uitgewerkt fungeren daarbij als toetsingskader. Burgemeester en Wethouders of Gedeputeerde Staten moeten dus duidelijk aangeven op welke wijze de verschillende criteria zijn gehanteerd. In [hoofdstuk 7](https://wetten.overheid.nl/BWBR0008488) wordt de procedure toegelicht. Waar de inspecteur aan het bevoegd gezag een positief advies heeft uitgebracht, zal dit oordeel in de toetsing van het ontwerpbesluit zwaar worden meegewogen.
 
 ### 6.4. Beslissing van de Minister
 
@@ -291,7 +311,27 @@ Alleen de vergunninghouder kan een aanvraag om toekenning van een schadevergoedi
 
 De aanvrager dient in ieder geval de volgende gegevens te verstrekken:
 
+- – een beschrijving van de milieumaategelen waarvoor om de toekenning van een schadevergoeding wordt gevraagd;
+
+- – een opgave van de kosten van de milieumaatregelen. Hierbij moet de aanvrager aangeven;
+
+   - a. of deze kosten de laagst mogelijke zijn; hij dient daartoe zo mogelijk uitgebrachte offertes bij de aanvraag te voegen;
+
+   - b. in hoeverre en in welke mate de kosten beduidend hoger zijn dan die van concurrenten en welke deze zijn;
+
+   - c. in hoeverre deze hogere kosten invloed hebben op de concurrentiepositie van het bedrijf;
+
+- – een opgave van de andere financiële tegemoetkomingen waarop de vergunninghouder een beroep kan doen en voor welk bedrag;
+
+- – in het geval de schadevergoeding wordt aangevraagd wegens het intrekken van een vergunning een met een deskundigenrapport onderbouwde opgave van de vermogensschade en winstderving en, indien van toepassing, een met offertes onderbouwde opgave van de verhuiskosten en de kosten van vervangende huisvesting. In het geval van verhuiskosten moet tevens worden aangegeven wat de boekwaarde is van de te verhuizen kapitaalgoederen, gecorrigeerd voor de restwaarde.
+
 Voorts moet hij bij de aanvraag voegen:
+
+- – de aanvraag om vergunning;
+
+- – de meest recente voorafgaande vergunningen;
+
+- – de door een accountant goedgekeurde jaarstukken over de voorafgaande drie kalenderjaren.
 
 ### 7.3. Beslissingstermijn
 
@@ -313,6 +353,14 @@ In het algemeen is het gewenst dat het bevoegd gezag de Minister van VROM in een
 
 Als een vergunninghouder een aanvraag om schadevergoeding indient, gaat het bevoegd gezag allereerst na of het verzoek ontvankelijk is. De volgende punten zijn hierbij van belang.
 
+- 1. Gaat het om een in [artikel 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20) of [15.21 van de WM](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21) genoemd besluit?
+
+- 2. Is er een (ontwerp-)vergunningbesluit op basis waarvan schadevergoeding wordt gevraagd?
+
+- 3. Is de aanvraag ingediend bij het bevoegd gezag dat in eerste aanleg het besluit over de vergunning neemt of heeft genomen?
+
+- 4. Is het formulier juist en volledig ingevuld en zijn alle bijlagen bijgevoegd?
+
 ### b. Advisering door de inspecteur
 
 Bij verzoeken om schadevergoeding wegens het intrekken van een vergunning en bij verzoeken om schadevergoeding groter dan een miljoen gulden wegens het aanscherpen van een vergunning is het noodzakelijk dat het bevoegd gezag de inspecteur om advies vraagt. Dit advies betreft de vraag of het intrekken van de vergunning uit een oogpunt van milieubeheer absoluut nodig is dan wel of er in het geval van vergunningaanscherping sprake is van bovennormale voorzieningen. Het bevoegd gezag nodigt de inspecteur ook uit deel te nemen aan het overleg tussen het bevoegd gezag en het ministerie van VROM.
@@ -327,17 +375,41 @@ Daarna stelt het bevoegd gezag binnen vijf maanden nadat de aanvraag is ingedien
 
 Indien het ontwerpbesluit op een aanvraag om toekenning van een schadevergoeding positief is en het bevoegd gezag meent dat de schadevergoeding ten laste van het Rijk moet komen zal uit het ontwerpbesluit ten minste moeten blijken.
 
+- 1. De ontvankelijkheid.
+
+- 2. Het voorlopig oordeel over de aanvraag om schadevergoeding volgens de wettelijke criteria, uitgewerkt in deze circulaire. Daarbij kan het beste hoofdstuk vijf worden gevolgd. Afwijkingen moeten worden gemotiveerd.
+
+- 3. Het eventuele standpunt van de inspecteur; afwijkingen van dat standpunt moeten worden gemotiveerd.
+
+- 4. Het eventuele advies van deskundigen.
+
+- 5. De hoogte van de schadevergoeding die het bevoegd gezag zou willen toekennen en de daaraan verbonden voorwaarden.
+
 Valt de beslissing negatief uit, dan moeten in de beschikking de eerste drie punten duidelijk tot uiting komen.
 
 ### d. Verzoek om instemming van de Minister
 
 Onmiddellijk nadat het bevoegd gezag het ontwerpbesluit inzake de toekenning van een schadevergoeding heeft genomen, kan het de Minister om instemming verzoeken. Bij dat verzoek om instemming moet het tenminste voegen:
 
+- – het ontwerpbesluit inzake de toekenning van een schadevergoeding;
+
+- – de aanvraag om schadevergoeding met alle bijlagen;
+
+- – de (ontwerp-)vergunningbeschikking;
+
+- – een afschrift van de eventuele adviezen van de inspecteur en overige deskundigen over de besluitvorming inzake de vergunning en/of de schadevergoeding.
+
 ### e. Beslissing van de Minister
 
 Binnen twee maanden na de datum van ontvangst van het verzoek om instemming wordt hierop een beslissing genomen.
 
 Uit deze beslissing zal ten minste blijken:
+
+- – de toetsing van het ontwerpbesluit inzake de toekenning van een schadevergoeding aan de wettelijke criteria zoals uitgewerkt in deze circulaire;
+
+- – of eerder verleende vergunningen een beletsel kunnen zijn om een schadevergoeding toe te kennen;
+
+- – indien de toetsing positief uitvalt, met welke schadevergoeding wordt ingestemd en de daaraan verbonden voorwaarden.
 
 ### f. Besluit om een schadevergoeding toe te kennen of te weigeren
 
@@ -365,7 +437,7 @@ Vooruitlopend op de definitieve vaststelling kan het bevoegd gezag op verzoek va
 
 Voor de uitbetaling en declaratie van de definitieve schadevergoeding of het restant daarvan, geldt wat we onder 1 hebben gesteld. Valt de definitieve schadevergoeding hoger uit dan de voorlopige dan kan het verschil slechts ten laste komen van het departement als de Minister met de verhoging heeft ingestemd.
 
-### 8. Schadevergoedingen volgens [artikel 15.21 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21)
+### 8. Schadevergoedingen volgens artikel 15.21 Wm
 
 ### 8.1. Besluiten van meer algemene strekking
 
@@ -373,9 +445,9 @@ Naast een schadevergoedingsregeling voor besluiten over vergunningen voor inrich
 
 ### 8.2. Criteria om de schadevergoeding te bepalen
 
-De criteria om de schadevergoeding te bepalen zijn voor beide WM-artikelen gelijk. Voor een beschrijving van die criteria verwijzen we naar hoofdstuk 3. Hoofdstuk 5 is hierbij van overeenkomstige toepassing.
+De criteria om de schadevergoeding te bepalen zijn voor beide WM-artikelen gelijk. Voor een beschrijving van die criteria verwijzen we naar [hoofdstuk 3](https://wetten.overheid.nl/BWBR0008488). [Hoofdstuk 5](https://wetten.overheid.nl/BWBR0008488) is hierbij van overeenkomstige toepassing.
 
-### 8.3. De verhouding tussen [artikel 15.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21) en schadevergoeding
+### 8.3. De verhouding tussen artikel 15.21 en schadevergoeding
 
 Algemene regels opleggen gaat in principe niet samen met het verlenen van een schadevergoeding aan degene die door die regels worden getroffen. Worden die regels van kracht, dan worden ondernemingen immers in gelijke mate geraakt. Anders gezegd: hun onderlinge concurrentiepositie verandert dan niet.
 
@@ -384,51 +456,3 @@ Toch kan in individuele gevallen een onevenredig zware last optreden als gevolg 
 ### 8.4. Toepassing in de praktijk
 
 Zowel als gevolg van het feit dat [artikel 15.21 van de WM](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21) deels betrekking heeft op besluiten van landelijke, algemene strekking als vanwege het feit dat in de overige situaties veelal specifieke financiële regelingen met een ander doel zijn getroffen, sluiten [artikel 15.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21) en het op grond hiervan toekennen van een schadevergoeding elkaar vrijwel uit. Tot nu toe is dan ook niet met dergelijke vergoedingen ingestemd.
-
-## Bijlage. Werkingssfeer van de schadevergoedingsregelingen
-
-In de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) is in de [artikelen 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20) en [15.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21) bepaald in welke gevallen en door wie een vergoeding van kosten en schade kan worden toegekend aan degene tot wie een milieubeschikking is gericht of voor wie algemene milieuvoorschriften gelden ten gevolge waarvan door hem kosten moeten worden gemaakt c.q. schade wordt geleden die redelijkerwijs niet of niet geheel te zijner last behoren te blijven. Sommige beschikkingen op grond van de [Wet inzake luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0002731), de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227), de [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892) en de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) vallen onder de hiervoor genoemde artikelen (zie hierna onder I). Hetzelfde geldt voor een aantal specifiek genoemde algemene maatregelen van bestuur, ministeriële regelingen of verordeningen in de [Afvalstoffenwet](onbekend), de [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892) en de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) (zie hierna onder II).
-
-### I. Beschikkingen
-
-De schadevergoedingsregeling is ingevolge [artikel 15.20 van de WM](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20) van toepassing op degene tot wie een beschikking is gericht krachtens:
-
-### 1. De [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
-
-op grond van a:
-
-de [artikelen 8.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1), [8.1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1), juncto [8.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.21), in gevallen waarin [artikel 8.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.21), niet van toepassing is, [8.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.22), [8.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.23), [8.25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.25), [8.34](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.34) of [8.39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.39) en
-
-op grond van b:
-
-de [artikelen 10.36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.36), of [10.37](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37) juncto een of meer der onder a genoemde bepalingen.
-
-### 2. De [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227)
-
-op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=2), juncto [5, vijfde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003227).
-
-### 3. De [Wet inzake de luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0002731)
-
-op grond van de [artikelen 13, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=13), juncto [16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=13), of [43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=43).
-
-### 4. De [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892)
-
-op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24), juncto [26, zevende lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003892).
-
-### 5. De Wet bodembescherming
-
-op grond van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=23) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=24).
-
-De schadevergoedingsregeling is van overeenkomstige toepassing ten aanzien van degene op wie een maatregel als bedoeld in [artikel 40 van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=40) van toepassing is.
-
-### II. Bepalingen van AMvB's, ministriële regelingen of verordeningen
-
-De schadevergoedingsregeling is op grond van artikel 15.21 van overeenkomstige toepassing ten aanzien van degene op wie bepalingen van een algemene maatregel van bestuur, onderscheidenlijk een ministeriële regeling of een verordening van toepassing is als bedoeld in:
-
-### De [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
-
-### De [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892)
-
-### De[Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)
-
-In deze gevallen beslist de Minister over het toekennen van een schadevergoeding, behoudens in gevallen als hierboven bedoeld onder a. In die gevallen beslissen Gedeputeerde Staten over de toekenning van een schadevergoeding.

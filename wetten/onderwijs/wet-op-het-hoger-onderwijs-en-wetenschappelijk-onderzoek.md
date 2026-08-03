@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0005682"
-opgehaald: 2026-08-02
+opgehaald: 2026-08-03
 ---
 
 # Wet van 8 oktober 1992, houdende bepalingen met betrekking tot het hoger onderwijs en wetenschappelijk onderzoek

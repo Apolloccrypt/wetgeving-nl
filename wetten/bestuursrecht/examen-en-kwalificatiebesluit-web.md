@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0027963"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-03
 ---
 
 # Besluit van 2 juli 2010, houdende vaststelling van regels voor examens van beroepsopleidingen als bedoeld in de Wet educatie en beroepsonderwijs (Examenbesluit beroepsopleidingen WEB)

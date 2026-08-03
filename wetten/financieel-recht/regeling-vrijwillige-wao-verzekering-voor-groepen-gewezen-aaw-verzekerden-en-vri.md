@@ -1,49 +1,54 @@
 ---
 title: "Regeling houdende regels als bedoeld in artikel V, vijfde lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen en artikel 99 van de Wet op de arbeidsongeschiktheidsverzekering"
+citeertitel: "Regeling vrijwillige WAO-verzekering voor groepen gewezen AAW-verzekerden en vrijwillig WW-verzekerden"
 identifier: "BWBR0009438"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-02-23"
-last_updated: "2002-02-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009438"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "5028353"
-version_id: "8706252"
-internal_id: "C11285541"
-label_id: "5004674"
-dtd_version: "2.0"
-original_entry_into_force: "1998-03-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009438/2002-02-23/0"
-intitule_bron: "Stcrt.1998-43"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-03-02"
-intitule_published: "1998-03-04"
-intitule_in_force: "1998-03-04"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-43"
-original_signed_date: "1998-03-02"
-original_published_date: "1998-03-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-03-06"
-jci_1_3: "jci1.3:c:BWBR0009438&z=2002-02-23&g=2002-02-23"
-jci_1_0: "1.0:c:BWBR0009438&g=2002-02-23"
-citeertitel_status: "officieel"
-short_title: "Regeling vrijwillige WAO-verzekering voor groepen gewezen AAW-verzekerden en vrijwillig WW-verzekerden"
-signed_date: "1998-03-02"
-entry_into_force: "1998-03-06"
+publicatiedatum: 1998-03-06
+laatste_update: 2002-02-23
+status: geldig
+toestand: 2002-02-23
+bron: "https://wetten.overheid.nl/BWBR0009438"
+opgehaald: 2026-08-03
 ---
+
 # Regeling houdende regels als bedoeld in artikel V, vijfde lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen en artikel 99 van de Wet op de arbeidsongeschiktheidsverzekering
-
-Gelet op [artikel V, vijfde lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=V) en [artikel 99 van de Wet op de arbeids-ongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=99);
-
-Besluit:
 
 #### § 1. Algemeen
 
 ##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+de Wet:
+
+de [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658);
+
+b.
+
+de belanghebbende:
+
+de persoon, op wie [artikel V, tweede lid, onderdeel a of b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=V) van toepassing is;
+
+c.
+
+WAO:
+
+[Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+
+d.
+
+het loon:
+
+het daadwerkelijk loon, dat een belanghebbende geniet en dat zonder toepassing van [artikel V, tweede en derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=V), ten grondslag zou liggen aan een arbeids-ongeschiktheidsuitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+
+e.
+
+jaar:
+
+kalenderjaar.
 
 #### § 2. Overgangsregeling gewezen vrijwillig AAW-verzekerden
 
@@ -59,6 +64,34 @@ Het dagloon wordt voor elk jaar, vanaf het jaar 1998 tot en met het jaar 2002, b
 
 waarbij:
 
+1.
+
+AW is:
+
+de grondslag waarnaar voor de belanghebbende de arbeidsongeschiktheidsuitkering zou zijn berekend op grond van de Algemene Arbeidsongeschiktheidswet, indien zijn arbeidsongeschiktheid voor 1 januari 1998 zou zijn ingetreden
+
+2.
+
+L is:
+
+het loon
+
+3.
+
+a
+
+b
+
+- 5/6 in het jaar 1998
+
+- 4/6 in het jaar 1999
+
+- 3/6 in het jaar 2000
+
+- 2/6 in het jaar 2001
+
+- 1/6 in het jaar 2002.
+
 ##### Artikel 4. Dagloonvaststelling bij tussentijdse wijziging van het loon
 
 1. Bij een wijziging in het loon van de belanghebbende wordt de berekening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009438&paragraaf=2&artikel=3&z=2002-02-23&g=2002-02-23), met inachtneming van dat loon, toegepast, tenzij als gevolg van die wijziging de berekening [ (AW - L) x a/b]+ L, genoemd in dat artikel, in het eerste jaar waarin het gewijzigde loon in aanmerking wordt genomen, tot een uitkomst leidt groter dan of gelijk aan het dagloon van het daaraan voorafgaande jaar, in welk geval, wat de dagloonvaststelling betreft, [artikel V, tweede en derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=V) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009438&paragraaf=2&artikel=3&z=2002-02-23&g=2002-02-23) geen toepassing meer vinden.
@@ -73,9 +106,41 @@ De premie wordt voor elk jaar, vanaf het jaar 1998 tot en met het jaar 2002, voo
 
 waarbij
 
+1.
+
+PL is:
+
+de premie die belanghebbende zonder toepassing van [artikel V, tweede en derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=V), over zijn loon verschuldigd zou zijn uit hoofde van zijn vrijwillige verzekering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+
+2.
+
+PAW is:
+
+de premie die belanghebbende uit hoofde van de vrijwillige verzekering op grond van de Alge-mene Arbeidsongeschiktheidswet in het jaar 1997 verschuldigd was
+
+3.
+
+c
+
+d
+
+- 1/6 in het jaar 1998
+
+- 2/6 in het jaar 1999
+
+- 3/6 in het jaar 2000
+
+- 4/6 in het jaar 2001
+
+- 5/6 in het jaar 2002.
+
 ##### Artikel 6. Premievaststelling in geval van hoger dagloon
 
 Voor de persoon, op wie uitsluitend [artikel V, tweede lid, onderdeel b van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=V) van toepassing is, geldt de formule, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009438&paragraaf=2&artikel=5&z=2002-02-23&g=2002-02-23), met dien verstande dat in plaats van ‘PL’ wordt gelezen ‘PBL’ waarbij:
+
+PBL is:
+
+de premie die de persoon zonder toepassing van [artikel V, tweede en derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=V), verschuldigd zou zijn uit hoofde van zijn vrijwillige verzekering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) over het door hem op grond van [artikel 84, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=84) bepaalde dagloon, welk dagloon evenwel niet lager ligt dan de grondslag, bedoeld in [artikel V, tweede lid, onderdeel a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=V).
 
 ##### Artikel 7. Premievaststelling bij tussentijdse wijziging premiebedrag
 

@@ -1,48 +1,18 @@
 ---
 title: "Wet van 4 december 1997, houdende regelen met betrekking tot de organisatie van de bloedvoorziening (Wet inzake bloedvoorziening)"
+citeertitel: "Wet inzake bloedvoorziening"
 identifier: "BWBR0009079"
-country: "nl"
-rank: "wet"
-publication_date: "2023-10-05"
-last_updated: "2023-10-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009079"
+categorie: "Overig"
 soort: "wet"
-stam_id: "655643"
-version_id: "22231972"
-internal_id: "C31876001"
-label_id: "636044"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009079/2023-10-05/0"
-intitule_bron: "Stb.1997-645"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-04"
-intitule_published: "1997-12-16"
-intitule_in_force: "1997-12-16"
-intitule_status: "goed"
-original_publication: "Stb.2015-114"
-original_signed_date: "2015-03-04"
-original_published_date: "2015-03-17"
-original_effect: "structuurwijziging"
-original_dossier: "34018"
-original_url_id: "stb-2015-114"
-entry_into_force_date: "2015-03-04"
-entry_into_force_dossier: "34018"
-jci_1_3: "jci1.3:c:BWBR0009079&z=2023-10-05&g=2023-10-05"
-jci_1_0: "1.0:c:BWBR0009079&g=2023-10-05"
-citeertitel_status: "officieel"
-short_title: "Wet inzake bloedvoorziening"
-signed_date: "2015-03-04"
-entry_into_force: "2015-03-04"
+publicatiedatum: 2015-03-04
+laatste_update: 2023-10-05
+status: geldig
+toestand: 2023-10-05
+bron: "https://wetten.overheid.nl/BWBR0009079"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 4 december 1997, houdende regelen met betrekking tot de organisatie van de bloedvoorziening (Wet inzake bloedvoorziening)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de Wet inzake bloedtransfusie te vervangen door een Wet inzake bloedvoorziening in verband met het instellen van één landelijke organisatie voor bloedvoorziening;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### HOOFDSTUK I. BEGRIPSBEPALING
 
@@ -56,13 +26,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. rechtspersonen die producten niet gebruiken voor toediening aan de mens: rechtspersonen:
 
-- 1°. die producten uitsluitend gebruiken ten behoeve van wetenschappelijk onderzoek, educatie of het valideren van diagnostische of medische hulpmiddelen,
+   - 1°. die producten uitsluitend gebruiken ten behoeve van wetenschappelijk onderzoek, educatie of het valideren van diagnostische of medische hulpmiddelen,
 
-- 2°. die producten niet gebruiken voor toediening aan de mens, en
+   - 2°. die producten niet gebruiken voor toediening aan de mens, en
 
-- 3°. die enkel producten afleveren of afgeleverd krijgen voor zover het belang van een doelmatige voorziening in de behoefte aan producten daardoor niet wordt geschaad;
+   - 3°. die enkel producten afleveren of afgeleverd krijgen voor zover het belang van een doelmatige voorziening in de behoefte aan producten daardoor niet wordt geschaad;
 
-- d. donor: persoon die een deel van zijn bloed of een bestanddeel van een deel van zijn bloed afstaat voor gebruik in het kader van de geneeskundige behandeling van andere personen, ten behoeve van wetenschappelijk onderzoek of ten behoeve van rechtspersonen die producten niet gebruiken voor toediening aan de mens;
+- d. donor: persoon die een deel van zijn bloed of een bestanddeel van een deel van zijn bloed afstaat voor gebruik in het kader van de geneeskundige behandeling van andere personen, ten behoeve van wetenschappelijk onderzoek of ten behoeve van rechtspersonen die producten niet gebruiken voor toediening aan de mens;
 
 - e. inzamelen van bloed: het werven, oproepen en keuren van donoren en het bij donoren afnemen van bloed, bloedcellen of bloedplasma;
 
@@ -78,11 +48,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - k. overheersende invloed: de situatie waarin de Bloedvoorzieningsorganisatie al dan niet rechtstreeks ten aanzien van een andere rechtspersoon:
 
-- 1°. de meerderheid van het geplaatste kapitaal bezit;
+   - 1°. de meerderheid van het geplaatste kapitaal bezit;
 
-- 2°. over de meerderheid van de stemmen beschikt die aan de door de rechtspersoon uitgegeven aandelen zijn verbonden; of
+   - 2°. over de meerderheid van de stemmen beschikt die aan de door de rechtspersoon uitgegeven aandelen zijn verbonden; of
 
-- 3°. meer dan de helft van de leden van het bestuurs-, leidinggevend- of toezichthoudend orgaan van het bedrijf kan benoemen.
+   - 3°. meer dan de helft van de leden van het bestuurs-, leidinggevend- of toezichthoudend orgaan van het bedrijf kan benoemen.
 
 2. Met een donor wordt gelijkgesteld de persoon die een deel van zijn bloed of een bestanddeel van een deel van zijn bloed laat afzonderen ten behoeve van de geneeskundige behandeling van zichzelf.
 
@@ -102,7 +72,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Onze Minister stelt bij de voorbereiding van het plan de bij de bloedvoorziening betrokken instanties in de gelegenheid om hun opvattingen ter zake naar voren te brengen.
 
-3. Onze Minister zendt een afschrift van het plan aan de beide Kamers der Staten-Generaal. Van het plan wordt mededeling gedaan in de **Staatscourant**.
+3. Onze Minister zendt een afschrift van het plan aan de beide Kamers der Staten-Generaal. Van het plan wordt mededeling gedaan in de *Staatscourant*.
 
 ##### Artikel 3
 
@@ -138,7 +108,47 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. een bijzondere omstandigheid daartoe aanleiding geeft.
 
-6. De aanwijzing alsmede de daaraan gestelde beperkingen en verbonden voorschriften of de intrekking van de aanwijzing worden in de **Staatscourant** bekendgemaakt.
+6. De aanwijzing alsmede de daaraan gestelde beperkingen en verbonden voorschriften of de intrekking van de aanwijzing worden in de *Staatscourant* bekendgemaakt.
+
+##### Artikel 3a
+
+1. De Bloedvoorzieningsorganisatie kan in het belang van een doelmatige bloedvoorziening en met toestemming van Onze Minister werkzaamheden of goederen die essentieel zijn voor de uitvoering van de taken, bedoeld in [artikel 3, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), uit laten voeren door onderscheidenlijk in eigendom overdragen aan, één of meerdere andere rechtspersonen.
+
+2. De toestemming wordt minimaal vier maanden voor de beoogde datum waarop de werkzaamheden door een andere rechtspersoon worden uitgevoerd, dan wel de goederen aan een andere rechtspersoon in eigendom worden overgedragen, door de Bloedvoorzieningsorganisatie gezamenlijk met de andere rechtspersoon aangevraagd. Onze Minister beslist binnen drie maanden op de aanvraag.
+
+3. [Artikel 3, tweede lid, onder c, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), is op de toestemming van overeenkomstige toepassing, met dien verstande dat in plaats van «aanwijzing» wordt gelezen: toestemming.
+
+4. In de beschikking waarbij de toestemming aan de Bloedvoorzieningsorganisatie en aan één of meerdere andere rechtspersonen als bedoeld in het eerste lid, wordt verleend, wordt per andere rechtspersoon bepaald welke van de bevoegdheden, bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=5&z=2023-10-05&g=2023-10-05), [7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=7&z=2023-10-05&g=2023-10-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=8&z=2023-10-05&g=2023-10-05), [9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=9&z=2023-10-05&g=2023-10-05), [10, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=10&z=2023-10-05&g=2023-10-05), en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=11&z=2023-10-05&g=2023-10-05), ten aanzien van deze rechtspersoon kunnen worden uitgeoefend. Onze Minister kan deze bevoegdheden slechts uitoefenen indien dit noodzakelijk is voor een goede uitvoering van deze wet.
+
+5. Van de bevoegdheden die ten aanzien van de Bloedvoorzieningsorganisatie kunnen worden uitgeoefend, kan geen gebruik worden gemaakt op zodanige wijze dat andere rechtspersonen als bedoeld in het eerste lid, worden onderworpen aan bevoegdheden als bedoeld in het vierde lid, waar de beschikking tot toestemming niet in voorziet.
+
+##### Artikel 3b
+
+1. Toestemming als bedoeld in [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3a&z=2023-10-05&g=2023-10-05), wordt niet verleend indien een andere rechtspersoon als bedoeld in artikel 3a, eerste lid, op winst is gericht, tenzij het laten uitvoeren van deze werkzaamheden door deze rechtspersoon of het in eigendom overdragen van deze goederen aan deze rechtspersoon geen nadelen oplevert voor de bloedvoorziening en de doelmatigheid van de bloedvoorziening ten goede komt.
+
+2. De toestemming, bedoeld in [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3a&z=2023-10-05&g=2023-10-05), kan indien deze is gegeven voor het uitvoeren van werkzaamheden die essentieel zijn voor de uitvoering van de taken, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), worden ingetrokken. Artikel 3, vijfde lid, is van overeenkomstige toepassing, met dien verstande dat in plaats van «aanwijzing» wordt gelezen: toestemming, bedoeld in artikel 3a, eerste lid.
+
+##### Artikel 3c
+
+1. Onze Minister kan vanwege bijzondere omstandigheden in het belang van een doelmatige bloedvoorziening dan wel met oog op een algemeen belang dat buiten de bloedvoorziening ligt, op aanvraag van de Bloedvoorzieningsorganisatie met betrekking tot een andere activiteit dan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), bedoelde, ontheffing verlenen van de regels gesteld krachtens artikel 3, vierde lid. Aan de ontheffing kunnen voorwaarden worden verbonden.
+
+2. Onze Minister beslist binnen drie maanden op de aanvraag, bedoeld in het eerste lid. Van de beschikking wordt mededeling gedaan in de Staatscourant.
+
+##### Artikel 3d
+
+1. Met uitzondering van de situaties bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=III&artikel=14&z=2023-10-05&g=2023-10-05) brengt de Bloedvoorzieningsorganisatie indien zij economische activiteiten verricht ten behoeve van andere rechtspersonen, die rechtspersonen ten minste de integrale kosten van dat product of die dienst in rekening.
+
+2. [Artikel 25i, derde lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=25i) is van overeenkomstige toepassing alsmede de regels die krachtens [artikel 25m, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=25m) zijn gesteld inzake de toepassing van artikel 25i van de Mededingingswet.
+
+3. De Bloedvoorzieningsorganisatie gebruikt de gegevens die zij heeft verkregen bij de uitvoering van de taken, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), alleen voor andere activiteiten dan bedoeld in artikel 3, eerste lid, indien deze gegevens onder dezelfde voorwaarden aan vergelijkbare categorieën derden beschikbaar kunnen worden gesteld.
+
+##### Artikel 3e
+
+1. Indien de Bloedvoorzieningsorganisatie andere activiteiten dan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), bedoelde of de daarbij behorende goederen wil overdragen aan een andere rechtspersoon, vraagt de Bloedvoorzieningsorganisatie hiervoor toestemming aan Onze Minister indien deze overdracht gevolgen heeft voor de uitvoering van de taken, bedoeld in artikel 3, eerste lid.
+
+2. Onze Minister kan de toestemming weigeren of daaraan voorwaarden verbinden indien de overdracht aantoonbaar nadelige gevolgen kan hebben voor de bloedvoorziening.
+
+3. De toestemming wordt minimaal vier maanden voor de beoogde datum van de overdracht door de Bloedvoorzieningsorganisatie aangevraagd. Onze Minister beslist binnen drie maanden op de aanvraag en doet van de beschikking mededeling in de Staatscourant.
 
 ##### Artikel 4
 
@@ -162,7 +172,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. het voeren van een administratie en het verwerken van de geadministreerde gegevens.
 
-3. De voorschriften worden in de **Staatscourant** bekendgemaakt.
+3. De voorschriften worden in de *Staatscourant* bekendgemaakt.
 
 ##### Artikel 6
 
@@ -172,9 +182,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. het op systematische wijze verzamelen en registreren van gegevens betreffende de kwaliteit van de werkzaamheden en het tussen- of bloedproduct;
 
-- b. het aan de hand van de gegevens, bedoeld onder **a**, op systematische wijze toetsen in hoeverre de wijze van uitvoering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=5&z=2023-10-05&g=2023-10-05) leidt tot een verantwoorde uitvoering van de werkzaamheden;
+- b. het aan de hand van de gegevens, bedoeld onder *a*, op systematische wijze toetsen in hoeverre de wijze van uitvoering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=5&z=2023-10-05&g=2023-10-05) leidt tot een verantwoorde uitvoering van de werkzaamheden;
 
-- c. het op basis van de uitkomst van de toetsing, bedoeld onder **b**, zo nodig veranderen van de wijze waarop [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=5&z=2023-10-05&g=2023-10-05) wordt uitgevoerd.
+- c. het op basis van de uitkomst van de toetsing, bedoeld onder *b*, zo nodig veranderen van de wijze waarop [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=5&z=2023-10-05&g=2023-10-05) wordt uitgevoerd.
 
 ##### Artikel 7
 
@@ -224,6 +234,20 @@ Indien Onze Minister van oordeel is dat de Bloedvoorzieningsorganisatie haar tak
 
 ### HOOFDSTUK IIa. MILITAIRE BLOEDVOORZIENING
 
+##### Artikel 11a
+
+1. Onze Minister van Defensie is bevoegd om bloedproducten en tussenproducten afgeleverd te krijgen, te bewaren, te verpakken, te etiketteren en te vervoeren ten behoeve van de militaire bloedvoorziening en ten behoeve van wetenschappelijk onderzoek in dat kader, alsmede bloedproducten en tussenproducten te bewerken ten behoeve van dit onderzoek.
+
+2. Onze Minister van Defensie is bevoegd om bloedproducten te bewerken tot tussenproducten met als doel deze producten te conserveren. Onze Minister van Defensie is tevens bevoegd om deze tussenproducten te bewerken tot bloedproducten.
+
+3. Onze Minister van Defensie is bevoegd om producten uit Nederland uit te voeren als deze bestemd zijn om gebruikt te worden in de militaire bloedvoorziening. Onze Minster van Defensie is tevens bevoegd om de eerder uitgevoerde producten in te voeren in Nederland.
+
+4. Onze Minister van Defensie is bevoegd om na voorafgaande toestemming van Onze Minister, bloedproducten of tussenproducten afgeleverd te krijgen van anderen dan de Bloedvoorzieningsorganisatie.
+
+5. Onze Minister van Defensie neemt bij het uitoefenen van de taken, bedoeld in dit artikel, de bij ministeriële regeling gestelde regels, ter uitvoering van besluiten van instellingen van de Europese Unie en andere besluiten van volkenrechtelijke organisaties, in acht.
+
+### HOOFDSTUK III. AFLEVERING
+
 ##### Artikel 12
 
 1. Het is verboden bloedproducten, niet zijnde bloedproducten die krachtens de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) moeten worden geregistreerd, af te leveren aan anderen dan:
@@ -242,7 +266,7 @@ Indien Onze Minister van oordeel is dat de Bloedvoorzieningsorganisatie haar tak
 
 3. Aflevering als bedoeld in het eerste lid, onder c, mag slechts geschieden voor zover het bloedplasma afkomstig is van vrijwillige donoren aan wie ten hoogste een vergoeding is gegeven als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=4&z=2023-10-05&g=2023-10-05), en het bloedplasma is onderzocht op de aanwezigheid van via bloed of bloedplasma overdraagbare ziekteverwekkers, op een wijze die kwalitatief overeenkomt met de werkwijze zoals die in Nederland wordt gehanteerd.
 
-4. Onze Minister wijst slechts de personen aan, bedoeld in het eerste lid, onder e, indien naar zijn oordeel het belang van een in geneeskundig opzicht doelmatige voorziening in de behoefte aan bloedproducten zulks vordert dan wel een bijzondere omstandigheid daartoe aanleiding geeft. [Artikel 3, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), is van overeenkomstige toepassing.
+4. Onze Minister wijst slechts de personen aan, bedoeld in het eerste lid, onder e, indien naar zijn oordeel het belang van een in geneeskundig opzicht doelmatige voorziening in de behoefte aan bloedproducten zulks vordert dan wel een bijzondere omstandigheid daartoe aanleiding geeft. [Artikel 3, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), is van overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -256,7 +280,7 @@ Indien Onze Minister van oordeel is dat de Bloedvoorzieningsorganisatie haar tak
 
 - d. door Onze Minister aangewezen andere personen, rechtspersonen daaronder begrepen.
 
-2. Aflevering als bedoeld in het eerste lid, onder **b**, mag slechts geschieden voorzover de tussenproducten zijn bereid uit plasma van vrijwillige donoren aan wie ten hoogste een vergoeding is gegeven als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=4&z=2023-10-05&g=2023-10-05), en het bloed dat is gebruikt voor de bereiding ervan, is onderzocht op de aanwezigheid van via bloed of bloedplasma overdraagbare ziekteverwekkers, kwalitatief overeenkomende met de werkwijze zoals die in Nederland wordt gehanteerd.
+2. Aflevering als bedoeld in het eerste lid, onder *b*, mag slechts geschieden voorzover de tussenproducten zijn bereid uit plasma van vrijwillige donoren aan wie ten hoogste een vergoeding is gegeven als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=4&z=2023-10-05&g=2023-10-05), en het bloed dat is gebruikt voor de bereiding ervan, is onderzocht op de aanwezigheid van via bloed of bloedplasma overdraagbare ziekteverwekkers, kwalitatief overeenkomende met de werkwijze zoals die in Nederland wordt gehanteerd.
 
 3. Onze Minister wijst slechts de personen aan, bedoeld in het eerste lid, onder d, indien naar zijn oordeel het belang van een doelmatige voorziening in de behoefte aan bloedproducten daardoor niet wordt geschaad, dan wel een bijzondere omstandigheid daartoe aanleiding geeft. [Artikel 3, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), is van overeenkomstige toepassing.
 
@@ -338,7 +362,7 @@ Indien Onze Minister van oordeel is dat de Bloedvoorzieningsorganisatie haar tak
 
 3. De bedragen ter vergoeding van de kosten en de hoogte van de jaarlijkse vergoeding worden bij ministeriële regeling vastgesteld.
 
-### HOOFDSTUK V. KOSTENVERGOEDING
+### HOOFDSTUK VI. STRAFBEPALINGEN
 
 ##### Artikel 19
 
@@ -350,19 +374,29 @@ Indien Onze Minister van oordeel is dat de Bloedvoorzieningsorganisatie haar tak
 
 2. De in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
-### HOOFDSTUK VI. STRAFBEPALINGEN
+##### Artikel 19a
+
+1. Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33 500,– op te leggen ter zake van een gedraging die in strijd is met [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=4&z=2023-10-05&g=2023-10-05), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=III&artikel=12&z=2023-10-05&g=2023-10-05), [13, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=III&artikel=13&z=2023-10-05&g=2023-10-05), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=III&artikel=14&z=2023-10-05&g=2023-10-05), [15, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=IV&artikel=15&z=2023-10-05&g=2023-10-05), [16, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=IV&artikel=16&z=2023-10-05&g=2023-10-05), of [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=IV&artikel=17&z=2023-10-05&g=2023-10-05).
+
+2. Onze Minister is bevoegd een last onder dwangsom op te leggen ter zake van een gedraging die in strijd is met een krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=10&z=2023-10-05&g=2023-10-05) gegeven aanwijzing of bevel.
+
+### HOOFDSTUK VII. TOEZICHT EN OPSPORING
 
 ##### Artikel 20
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
-2. Bij besluit van Onze Minister kunnen andere ambtenaren geheel of gedeeltelijk worden belast met het in het eerste lid bedoelde toezicht. Van een besluit als bedoeld in de eerste volzin wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+2. Bij besluit van Onze Minister kunnen andere ambtenaren geheel of gedeeltelijk worden belast met het in het eerste lid bedoelde toezicht. Van een besluit als bedoeld in de eerste volzin wordt mededeling gedaan door plaatsing in de *Staatscourant*.
+
+##### Artikel 20a
+
+*Vervallen*
 
 ##### Artikel 21
 
 1. Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de ambtenaren, aangewezen bij besluit van Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Justitie. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 3. Bij de uitoefening van hun taak dragen de ambtenaren een legitimatiebewijs bij zich.
 
@@ -370,7 +404,7 @@ Indien Onze Minister van oordeel is dat de Bloedvoorzieningsorganisatie haar tak
 
 5. Het legitimatiebewijs bevat een foto van de ambtenaar en vermeldt in ieder geval diens naam en hoedanigheid.
 
-### HOOFDSTUK V. KOSTENVERGOEDING
+### HOOFDSTUK VIII. OVERGANGS- EN SLOTBEPALINGEN
 
 ##### Artikel 22
 
@@ -384,15 +418,15 @@ Indien Onze Minister van oordeel is dat de Bloedvoorzieningsorganisatie haar tak
 
 ##### Artikel 23
 
-Wijzigt de Wet op de Geneesmiddelenvoorziening.
+*Wijzigt de Wet op de Geneesmiddelenvoorziening.*
 
 ##### Artikel 24
 
-Wijzigt de Coördinatiewet uitzonderingstoestanden.
+*Wijzigt de Coördinatiewet uitzonderingstoestanden.*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
@@ -407,99 +441,3 @@ Deze wet treedt in werking met ingang van 1 januari 1998.
 ##### Artikel 28
 
 Deze wet wordt aangehaald als: Wet inzake bloedvoorziening.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 19a
-
-1. Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33 500,– op te leggen ter zake van een gedraging die in strijd is met [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=4&z=2023-10-05&g=2023-10-05), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=III&artikel=12&z=2023-10-05&g=2023-10-05), [13, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=III&artikel=13&z=2023-10-05&g=2023-10-05), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=III&artikel=14&z=2023-10-05&g=2023-10-05), [15, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=IV&artikel=15&z=2023-10-05&g=2023-10-05), [16, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=IV&artikel=16&z=2023-10-05&g=2023-10-05), of [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=IV&artikel=17&z=2023-10-05&g=2023-10-05).
-
-2. Onze Minister is bevoegd een last onder dwangsom op te leggen ter zake van een gedraging die in strijd is met een krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=10&z=2023-10-05&g=2023-10-05) gegeven aanwijzing of bevel.
-
-### HOOFDSTUK VII. TOEZICHT EN OPSPORING
-
-### HOOFDSTUK VIII. OVERGANGS- EN SLOTBEPALINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 11a
-
-1. Onze Minister van Defensie is bevoegd om bloedproducten en tussenproducten afgeleverd te krijgen, te bewaren, te verpakken, te etiketteren en te vervoeren ten behoeve van de militaire bloedvoorziening en ten behoeve van wetenschappelijk onderzoek in dat kader, alsmede bloedproducten en tussenproducten te bewerken ten behoeve van dit onderzoek.
-
-2. Onze Minister van Defensie is bevoegd om bloedproducten te bewerken tot tussenproducten met als doel deze producten te conserveren. Onze Minister van Defensie is tevens bevoegd om deze tussenproducten te bewerken tot bloedproducten.
-
-3. Onze Minister van Defensie is bevoegd om producten uit Nederland uit te voeren als deze bestemd zijn om gebruikt te worden in de militaire bloedvoorziening. Onze Minster van Defensie is tevens bevoegd om de eerder uitgevoerde producten in te voeren in Nederland.
-
-4. Onze Minister van Defensie is bevoegd om na voorafgaande toestemming van Onze Minister, bloedproducten of tussenproducten afgeleverd te krijgen van anderen dan de Bloedvoorzieningsorganisatie.
-
-5. Onze Minister van Defensie neemt bij het uitoefenen van de taken, bedoeld in dit artikel, de bij ministeriële regeling gestelde regels, ter uitvoering van besluiten van instellingen van de Europese Unie en andere besluiten van volkenrechtelijke organisaties, in acht.
-
-### HOOFDSTUK III. AFLEVERING
-
-### HOOFDSTUK IV. IN- EN UITVOER
-
-### HOOFDSTUK VIII. OVERGANGS- EN SLOTBEPALINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-1. De Bloedvoorzieningsorganisatie kan in het belang van een doelmatige bloedvoorziening en met toestemming van Onze Minister werkzaamheden of goederen die essentieel zijn voor de uitvoering van de taken, bedoeld in [artikel 3, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), uit laten voeren door onderscheidenlijk in eigendom overdragen aan, één of meerdere andere rechtspersonen.
-
-2. De toestemming wordt minimaal vier maanden voor de beoogde datum waarop de werkzaamheden door een andere rechtspersoon worden uitgevoerd, dan wel de goederen aan een andere rechtspersoon in eigendom worden overgedragen, door de Bloedvoorzieningsorganisatie gezamenlijk met de andere rechtspersoon aangevraagd. Onze Minister beslist binnen drie maanden op de aanvraag.
-
-3. [Artikel 3, tweede lid, onder c, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), is op de toestemming van overeenkomstige toepassing, met dien verstande dat in plaats van «aanwijzing» wordt gelezen: toestemming.
-
-4. In de beschikking waarbij de toestemming aan de Bloedvoorzieningsorganisatie en aan één of meerdere andere rechtspersonen als bedoeld in het eerste lid, wordt verleend, wordt per andere rechtspersoon bepaald welke van de bevoegdheden, bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=5&z=2023-10-05&g=2023-10-05), [7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=7&z=2023-10-05&g=2023-10-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=8&z=2023-10-05&g=2023-10-05), [9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=9&z=2023-10-05&g=2023-10-05), [10, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=10&z=2023-10-05&g=2023-10-05), en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=11&z=2023-10-05&g=2023-10-05), ten aanzien van deze rechtspersoon kunnen worden uitgeoefend. Onze Minister kan deze bevoegdheden slechts uitoefenen indien dit noodzakelijk is voor een goede uitvoering van deze wet.
-
-5. Van de bevoegdheden die ten aanzien van de Bloedvoorzieningsorganisatie kunnen worden uitgeoefend, kan geen gebruik worden gemaakt op zodanige wijze dat andere rechtspersonen als bedoeld in het eerste lid, worden onderworpen aan bevoegdheden als bedoeld in het vierde lid, waar de beschikking tot toestemming niet in voorziet.
-
-##### Artikel 3b
-
-1. Toestemming als bedoeld in [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3a&z=2023-10-05&g=2023-10-05), wordt niet verleend indien een andere rechtspersoon als bedoeld in artikel 3a, eerste lid, op winst is gericht, tenzij het laten uitvoeren van deze werkzaamheden door deze rechtspersoon of het in eigendom overdragen van deze goederen aan deze rechtspersoon geen nadelen oplevert voor de bloedvoorziening en de doelmatigheid van de bloedvoorziening ten goede komt.
-
-2. De toestemming, bedoeld in [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3a&z=2023-10-05&g=2023-10-05), kan indien deze is gegeven voor het uitvoeren van werkzaamheden die essentieel zijn voor de uitvoering van de taken, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), worden ingetrokken. Artikel 3, vijfde lid, is van overeenkomstige toepassing, met dien verstande dat in plaats van «aanwijzing» wordt gelezen: toestemming, bedoeld in artikel 3a, eerste lid.
-
-##### Artikel 3c
-
-1. Onze Minister kan vanwege bijzondere omstandigheden in het belang van een doelmatige bloedvoorziening dan wel met oog op een algemeen belang dat buiten de bloedvoorziening ligt, op aanvraag van de Bloedvoorzieningsorganisatie met betrekking tot een andere activiteit dan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), bedoelde, ontheffing verlenen van de regels gesteld krachtens artikel 3, vierde lid. Aan de ontheffing kunnen voorwaarden worden verbonden.
-
-2. Onze Minister beslist binnen drie maanden op de aanvraag, bedoeld in het eerste lid. Van de beschikking wordt mededeling gedaan in de Staatscourant.
-
-##### Artikel 3d
-
-1. Met uitzondering van de situaties bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=III&artikel=14&z=2023-10-05&g=2023-10-05) brengt de Bloedvoorzieningsorganisatie indien zij economische activiteiten verricht ten behoeve van andere rechtspersonen, die rechtspersonen ten minste de integrale kosten van dat product of die dienst in rekening.
-
-2. [Artikel 25i, derde lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=25i) is van overeenkomstige toepassing alsmede de regels die krachtens [artikel 25m, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=25m) zijn gesteld inzake de toepassing van artikel 25i van de Mededingingswet.
-
-3. De Bloedvoorzieningsorganisatie gebruikt de gegevens die zij heeft verkregen bij de uitvoering van de taken, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), alleen voor andere activiteiten dan bedoeld in artikel 3, eerste lid, indien deze gegevens onder dezelfde voorwaarden aan vergelijkbare categorieën derden beschikbaar kunnen worden gesteld.
-
-##### Artikel 3e
-
-1. Indien de Bloedvoorzieningsorganisatie andere activiteiten dan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&hoofdstuk=II&artikel=3&z=2023-10-05&g=2023-10-05), bedoelde of de daarbij behorende goederen wil overdragen aan een andere rechtspersoon, vraagt de Bloedvoorzieningsorganisatie hiervoor toestemming aan Onze Minister indien deze overdracht gevolgen heeft voor de uitvoering van de taken, bedoeld in artikel 3, eerste lid.
-
-2. Onze Minister kan de toestemming weigeren of daaraan voorwaarden verbinden indien de overdracht aantoonbaar nadelige gevolgen kan hebben voor de bloedvoorziening.
-
-3. De toestemming wordt minimaal vier maanden voor de beoogde datum van de overdracht door de Bloedvoorzieningsorganisatie aangevraagd. Onze Minister beslist binnen drie maanden op de aanvraag en doet van de beschikking mededeling in de Staatscourant.
-
-### HOOFDSTUK IIa. MILITAIRE BLOEDVOORZIENING
-
-### HOOFDSTUK III. AFLEVERING
-
-### HOOFDSTUK IV. IN- EN UITVOER
-
-### HOOFDSTUK VI. STRAFBEPALINGEN
-
-### HOOFDSTUK VII. TOEZICHT EN OPSPORING
-
-### HOOFDSTUK VIII. OVERGANGS- EN SLOTBEPALINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 20a
-
-Vervallen
-
-### HOOFDSTUK VIII. OVERGANGS- EN SLOTBEPALINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

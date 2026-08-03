@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 27 oktober 1997, houdende regeling tot toekenning van suppletie bij gedeeltelijke arbeidsongeschiktheid van gewezen defensiepersoneel (Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie)"
+citeertitel: "Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie"
 identifier: "BWBR0008977"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008977"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "649503"
-version_id: "943692"
-internal_id: "C943691"
-label_id: "630104"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008977/2020-01-01/0"
-intitule_bron: "Stb.1997-574"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-10-27"
-intitule_published: "1997-12-02"
-intitule_in_force: "1997-12-29"
-intitule_status: "goed"
-original_publication: "Stb.1997-574"
-original_signed_date: "1997-10-27"
-original_published_date: "1997-12-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-574"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0008977&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0008977&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie"
-signed_date: "1997-10-27"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0008977"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 27 oktober 1997, houdende regeling tot toekenning van suppletie bij gedeeltelijke arbeidsongeschiktheid van gewezen defensiepersoneel (Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie)
-
-Op de voordracht van de Staatssecretaris van Defensie van 24 juli 1997, nr. P/97004787;
-
-Gelet op de [artikelen 125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) en 12 van de [Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952);
-
-De Raad van State gehoord (advies van 27 augustus 1997, nr. WO7.97.0496);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 20 oktober 1997, nr. P97006643 ;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemeen
 
@@ -52,49 +20,49 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:**Onze Minister van Defensie;
+- a. *Onze Minister:*Onze Minister van Defensie;
 
-- b. **betrokkene:**
+- b. *betrokkene:*
 
-- 1°. de ambtenaar die op basis van het [Burgerlijke ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040) werkzaam is geweest, en aan wie ontslag is verleend op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte als bedoeld in [artikel 121, eerste lid, onderdeel f, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=121), en die ten tijde van dat ontslag minder dan 80% arbeidsongeschikt is,
+   - 1°. de ambtenaar die op basis van het [Burgerlijke ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040) werkzaam is geweest, en aan wie ontslag is verleend op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte als bedoeld in [artikel 121, eerste lid, onderdeel f, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=121), en die ten tijde van dat ontslag minder dan 80% arbeidsongeschikt is,
 
-- 2°. de beroepsmilitair, die ter zake van ziekten of gebreken is ontslagen, ten tijde van het ontslag minder dan 80% arbeidsongeschikt is, en uit dien hoofde aanspraak heeft op een pensioen ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen;
+   - 2°. de beroepsmilitair, die ter zake van ziekten of gebreken is ontslagen, ten tijde van het ontslag minder dan 80% arbeidsongeschikt is, en uit dien hoofde aanspraak heeft op een pensioen ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen;
 
-- 3°. de zonder aanspraak op een uitkering krachtens de [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540) ontslagen beroepsmilitair, die binnen een maand na zijn ontslag of indien dat ontslag is gevolgd door een pensioengevende ontslaguitkering, binnen een maand volgend op die ontslaguitkering, recht heeft op een pensioen ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen, en met ingang van het tijdstip waarop hij uit hoofde van ziekten of gebreken blijvend ongeschikt is geworden voor het vervullen van de militaire dienst minder dan 80% arbeidsongeschikt is;
+   - 3°. de zonder aanspraak op een uitkering krachtens de [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540) ontslagen beroepsmilitair, die binnen een maand na zijn ontslag of indien dat ontslag is gevolgd door een pensioengevende ontslaguitkering, binnen een maand volgend op die ontslaguitkering, recht heeft op een pensioen ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen, en met ingang van het tijdstip waarop hij uit hoofde van ziekten of gebreken blijvend ongeschikt is geworden voor het vervullen van de militaire dienst minder dan 80% arbeidsongeschikt is;
 
-- 4°. de beroepsmilitair:
+   - 4°. de beroepsmilitair:
 
-- a. die anders dan ter zake van ziekten of gebreken is ontslagen;
+      - a. die anders dan ter zake van ziekten of gebreken is ontslagen;
 
-- b. voor wie ten tijde van dat ontslag en niet reeds ten tijde van een eerder ontslag sprake was van invaliditeit met dienstverband;
+      - b. voor wie ten tijde van dat ontslag en niet reeds ten tijde van een eerder ontslag sprake was van invaliditeit met dienstverband;
 
-- c. die recht heeft op pensioen ter zake van ziekten of gebreken ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen;
+      - c. die recht heeft op pensioen ter zake van ziekten of gebreken ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen;
 
-- d. ten tijde van dat ontslag minder dan 80% arbeidsongeschikt is en;
+      - d. ten tijde van dat ontslag minder dan 80% arbeidsongeschikt is en;
 
-- e. het resterende verdienvermogen in een of meer aangehouden dienstbetrekkingen niet volledig benut.
+      - e. het resterende verdienvermogen in een of meer aangehouden dienstbetrekkingen niet volledig benut.
 
-- c. **arbeidsongeschiktheid:**arbeidsongeschiktheid als bedoeld in [artikel 18, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18);
+- c. *arbeidsongeschiktheid:*arbeidsongeschiktheid als bedoeld in [artikel 18, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18);
 
-- d. **uitkering ter zake van arbeidsongeschiktheid:**een periodieke uitkering ter zake van arbeidsongeschiktheid, die voortvloeit uit enige dienstbetrekking van de betrokkene;
+- d. *uitkering ter zake van arbeidsongeschiktheid:*een periodieke uitkering ter zake van arbeidsongeschiktheid, die voortvloeit uit enige dienstbetrekking van de betrokkene;
 
-- e. **berekeningsgrondslag van de suppletie:**het dagloon van de betrokkene op de dag voorafgaande aan het ontslag ter zake waarvan hem recht op suppletie wordt toegekend, voor zover dat betrekking heeft op het inkomen uit het dienstverband waaraan het recht op suppletie wordt ontleend;
+- e. *berekeningsgrondslag van de suppletie:*het dagloon van de betrokkene op de dag voorafgaande aan het ontslag ter zake waarvan hem recht op suppletie wordt toegekend, voor zover dat betrekking heeft op het inkomen uit het dienstverband waaraan het recht op suppletie wordt ontleend;
 
-- f. **dagloon:** het dagloon in de zin van [artikel 14 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=14) en [artikel 13 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=13) zonder toepassing van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag, vermeerderd met het bedrag aan pensioenbijdrageverhaal op grond van de overeenkomst naar burgerlijk recht, bedoeld in [artikel 4 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=4), waarin de aanspraken van overheidswerknemers in de zin van die wet, gewezen overheidswerknemers en hun nagelaten betrekkingen ter zake van pensioenen, alsmede hun daarmee samenhangende verplichtingen, zijn neergelegd;
+- f. *dagloon:* het dagloon in de zin van [artikel 14 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=14) en [artikel 13 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=13) zonder toepassing van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag, vermeerderd met het bedrag aan pensioenbijdrageverhaal op grond van de overeenkomst naar burgerlijk recht, bedoeld in [artikel 4 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=4), waarin de aanspraken van overheidswerknemers in de zin van die wet, gewezen overheidswerknemers en hun nagelaten betrekkingen ter zake van pensioenen, alsmede hun daarmee samenhangende verplichtingen, zijn neergelegd;
 
-- g. **suppletie:** de suppletie, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=3&artikel=6&z=2020-01-01&g=2020-01-01);
+- g. *suppletie:* de suppletie, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=3&artikel=6&z=2020-01-01&g=2020-01-01);
 
-- h. **Suppletieregeling:**Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie;
+- h. *Suppletieregeling:*Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie;
 
-- i. **werkloosheidsuitkering:**een periodieke uitkering ter zake van ontslag of werkloosheid, die voortvloeit uit enige dienstbetrekking van de betrokkene;
+- i. *werkloosheidsuitkering:*een periodieke uitkering ter zake van ontslag of werkloosheid, die voortvloeit uit enige dienstbetrekking van de betrokkene;
 
-- j. **WAO:**de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+- j. *WAO:*de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- k. **gangbare arbeid:** alle algemeen geaccepteerde arbeid waartoe de betrokkene met zijn krachten en bekwaamheden in staat is;
+- k. *gangbare arbeid:* alle algemeen geaccepteerde arbeid waartoe de betrokkene met zijn krachten en bekwaamheden in staat is;
 
 - l. ZW-uitkering: ziekengeld als bedoeld in [artikel 19 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=19);
 
-- m. **pensioengerechtigde leeftijd:** de pensioengerechtigde leeftijd die voor de betrokkene geldt op grond van [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
+- m. *pensioengerechtigde leeftijd:* de pensioengerechtigde leeftijd die voor de betrokkene geldt op grond van [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
 
 #### Paragraaf 2. Recht op suppletie
 
@@ -104,7 +72,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het eerste lid is niet van toepassing indien het in dat lid bedoelde ontslag wordt verleend nadat de arbeidsongeschiktheid 90 maanden onafgebroken heeft geduurd. Voor het bepalen van genoemde periode van 90 maanden worden perioden van arbeidsongeschiktheid samengeteld indien die elkaar met een onderbreking van minder dan vier weken opvolgen.
 
-3. In afwijking van het eerste lid heeft de betrokkene, bedoeld in [artikel 1, onderdeel **b**, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), recht op suppletie met ingang van het tijdstip waarop hij uit hoofde van ziekten of gebreken blijvend ongeschikt is geworden voor het vervullen van de militaire dienst.
+3. In afwijking van het eerste lid heeft de betrokkene, bedoeld in [artikel 1, onderdeel *b*, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), recht op suppletie met ingang van het tijdstip waarop hij uit hoofde van ziekten of gebreken blijvend ongeschikt is geworden voor het vervullen van de militaire dienst.
 
 ##### Artikel 3
 
@@ -130,7 +98,7 @@ Het recht op suppletie komt niet tot uitbetaling zolang:
 
 - c. met ingang van de dag waarop de betrokkene de pensioengerechtigde leeftijd bereikt.
 
-2. In afwijking van [artikel 5, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01), eindigt het recht op suppletie met ingang van de dag waarop de leeftijd van 65 jaar wordt bereikt voor de militair aan wie voor 1 januari 2017 ontslag is verleend of die een aanvraag heeft ingediend als bedoeld in [artikel 39a, eerste tot en met vierde lid, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), alsmede voor de ambtenaar aan wie voor 1 januari 2018 ontslag is verleend.
+2. In afwijking van [artikel 5, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01), eindigt het recht op suppletie met ingang van de dag waarop de leeftijd van 65 jaar wordt bereikt voor de militair aan wie voor 1 januari 2017 ontslag is verleend of die een aanvraag heeft ingediend als bedoeld in [artikel 39a, eerste tot en met vierde lid, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), alsmede voor de ambtenaar aan wie voor 1 januari 2018 ontslag is verleend.
 
 #### Paragraaf 3. Suppletie
 
@@ -174,7 +142,7 @@ Het recht op suppletie komt niet tot uitbetaling zolang:
 
 - b. gedurende buitengewoon verlof, vakantieverlof of verlof onmiddellijk voorafgaande aan het ontslag ter zake waarvan de betrokkene suppletie is toegekend;
 
-- c. vóór de dag van het ontslag ter zake waarvan de betrokkene suppletie is toegekend, anders dan bedoeld in onderdeel **a** en **b**, en [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01), voor zover uit deze arbeid of dit bedrijf na die dag inkomen of meer inkomen wordt genoten door de betrokkene, terwijl dat inkomen of dat meerdere inkomen of een gedeelte daarvan, het gevolg is van een verhoogde werkzaamheid dan wel verband houdt met het ontslag.
+- c. vóór de dag van het ontslag ter zake waarvan de betrokkene suppletie is toegekend, anders dan bedoeld in onderdeel *a* en *b*, en [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01), voor zover uit deze arbeid of dit bedrijf na die dag inkomen of meer inkomen wordt genoten door de betrokkene, terwijl dat inkomen of dat meerdere inkomen of een gedeelte daarvan, het gevolg is van een verhoogde werkzaamheid dan wel verband houdt met het ontslag.
 
 3. In bijzondere gevallen kan Onze Minister ten gunste van de betrokkene afwijken van het tweede lid, voor zover toepassing daarvan gelet op het belang dat dit artikel beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
@@ -198,9 +166,9 @@ Voor de toepassing van [de artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - a. aan de langstlevende der echtgenoten indien de overleden betrokkene niet duurzaam van de andere echtgenoot gescheiden leefde;
 
-- b. bij ontstentenis van de onder **a** bedoelde persoon aan de minderjarige wettige of natuurlijke kinderen van de overleden betrokkene;
+- b. bij ontstentenis van de onder *a* bedoelde persoon aan de minderjarige wettige of natuurlijke kinderen van de overleden betrokkene;
 
-- c. bij ontstentenis van de onder **a** en **b** bedoelde personen aan degenen ten aanzien van wie de overleden betrokkene grotendeels in de kosten van het bestaan voorzag en met wie hij in gezinsverband leefde.
+- c. bij ontstentenis van de onder *a* en *b* bedoelde personen aan degenen ten aanzien van wie de overleden betrokkene grotendeels in de kosten van het bestaan voorzag en met wie hij in gezinsverband leefde.
 
 3. Voor de toepassing van het tweede lid wordt onder echtgenoot mede verstaan de geregistreerde partner dan wel de partner die is aangemeld bij de Stichting Pensioenfonds ABP en door het bestuur van dat fonds als zodanig is aangemerkt.
 
@@ -260,7 +228,7 @@ Bij ministeriële regeling worden nadere regels vastgesteld met betrekking tot:
 
 ##### Artikel 17
 
-Indien het niveau van de uitkering op grond van de WAO een algemene neerwaartse wijziging ondergaat, wordt deze neerwaartse wijziging, tenzij door sociale partners in het sectoroverleg Defensie anders overeengekomen binnen zes maanden na de datum van het **Staatsblad** waarin de maatregel tot wijziging van de uitkering op grond van de WAO is gepubliceerd, op overeenkomstige wijze ten aanzien van de suppletie doorgevoerd. Dat geschiedt niet eerder dan zes maanden na de datum van het **Staatsblad**, waarin de betreffende wijzigingsmaatregel wordt gepubliceerd.
+Indien het niveau van de uitkering op grond van de WAO een algemene neerwaartse wijziging ondergaat, wordt deze neerwaartse wijziging, tenzij door sociale partners in het sectoroverleg Defensie anders overeengekomen binnen zes maanden na de datum van het *Staatsblad* waarin de maatregel tot wijziging van de uitkering op grond van de WAO is gepubliceerd, op overeenkomstige wijze ten aanzien van de suppletie doorgevoerd. Dat geschiedt niet eerder dan zes maanden na de datum van het *Staatsblad*, waarin de betreffende wijzigingsmaatregel wordt gepubliceerd.
 
 ##### Artikel 18
 
@@ -270,7 +238,7 @@ De in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&par
 
 ##### Artikel 19
 
-1. De betrokkene, bedoeld in [artikel 1, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), die op 31 december 1995 recht had op herplaatsingswachtgeld als bedoeld in [artikel K 4, tweede lid](onbekend), juncto [artikel K6 van de Algemene burgerlijke pensioenwet](onbekend) , en die op de dag voorafgaande aan die waarop de Suppletieregeling op hem van toepassing wordt nog recht heeft op suppletie op grond van artikel 17 van de Suppletieregeling burgerlijke ambtenaren defensie, zoals die regeling luidde op de dag voorafgaande aan die waarop de Suppletieregeling op hem van toepassing wordt, en waarvan de duur op de invoeringsdatum van de Suppletieregeling nog niet is verstreken, heeft recht op suppletie.
+1. De betrokkene, bedoeld in [artikel 1, onderdeel *b*, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), die op 31 december 1995 recht had op herplaatsingswachtgeld als bedoeld in artikel K 4, tweede lid, juncto artikel K6 van de Algemene burgerlijke pensioenwet , en die op de dag voorafgaande aan die waarop de Suppletieregeling op hem van toepassing wordt nog recht heeft op suppletie op grond van artikel 17 van de Suppletieregeling burgerlijke ambtenaren defensie, zoals die regeling luidde op de dag voorafgaande aan die waarop de Suppletieregeling op hem van toepassing wordt, en waarvan de duur op de invoeringsdatum van de Suppletieregeling nog niet is verstreken, heeft recht op suppletie.
 
 2. Het in het eerste lid bedoelde recht op suppletie bedraagt bij een op de dag voorafgaande aan die waarop de Suppletieregeling op betrokkene van toepassing wordt genoten recht op suppletie als bedoeld in artikel 17, tweede lid, van de Suppletieregeling burgerlijke ambtenaren defensie van:
 
@@ -343,7 +311,7 @@ De in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&par
 
 ##### Artikel 20
 
-1. De betrokkene, bedoeld in [artikel 1, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), heeft recht op suppletie indien:
+1. De betrokkene, bedoeld in [artikel 1, onderdeel *b*, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), heeft recht op suppletie indien:
 
 - a. het ontslag ter zake waarvan hem een recht op suppletie op grond van de Suppletieregeling burgerlijke ambtenaren defensie is toegekend, nà 31 december 1995 is verleend, en
 
@@ -359,7 +327,7 @@ De in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&par
 
 ##### Artikel 21
 
-1. De betrokkene, bedoeld in [artikel 1, onderdeel **b**, onder 2°, 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), op wie artikel III van het Besluit van de Staatssecretaris van Defensie van 30 januari 1996 (**Stb.**1996, 87) van toepassing was, en die op de dag voorafgaande aan die waarop de Suppletieregeling op hem van toepassing wordt nog recht heeft op aanvullende uitkering op grond van artikel 2, tweede lid, onderdeel **a** en **b**, van het Besluit aanvulling arbeidsongeschiktheidsuitkering militairen, zoals dat besluit luidde op de dag voorafgaande aan die waarop de Suppletieregeling op hem van toepassing wordt, en waarvan de duur op de invoeringsdatum van de Suppletieregeling nog niet is verstreken, heeft recht op suppletie.
+1. De betrokkene, bedoeld in [artikel 1, onderdeel *b*, onder 2°, 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), op wie artikel III van het Besluit van de Staatssecretaris van Defensie van 30 januari 1996 (*Stb.*1996, 87) van toepassing was, en die op de dag voorafgaande aan die waarop de Suppletieregeling op hem van toepassing wordt nog recht heeft op aanvullende uitkering op grond van artikel 2, tweede lid, onderdeel *a* en *b*, van het Besluit aanvulling arbeidsongeschiktheidsuitkering militairen, zoals dat besluit luidde op de dag voorafgaande aan die waarop de Suppletieregeling op hem van toepassing wordt, en waarvan de duur op de invoeringsdatum van de Suppletieregeling nog niet is verstreken, heeft recht op suppletie.
 
 2. Het in het eerste lid bedoelde recht op suppletie bedraagt bij een op de dag voorafgaande aan die waarop de Suppletieregeling op betrokkene van toepassing wordt genoten recht op aanvullende uitkering van:
 
@@ -434,7 +402,7 @@ De in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&par
 
 ##### Artikel 22
 
-1. De betrokkene, bedoeld in [artikel 1, onderdeel **b**, onder 2°, 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), die op de dag voorafgaande aan die waarop de Suppletieregeling op hem van toepassing wordt nog recht heeft op aanvullende uitkering op grond van artikel 2, tweede lid, onderdeel **a** en **b**, van het Besluit aanvulling arbeidsongeschiktheidsuitkering militairen, zoals dat besluit luidde op die dag voorafgaande aan die waarop de Suppletieregeling op betrokkene van toepassing wordt, en waarvan de duur op de invoeringsdatum van de Suppletieregeling nog niet is verstreken, heeft recht op suppletie.
+1. De betrokkene, bedoeld in [artikel 1, onderdeel *b*, onder 2°, 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), die op de dag voorafgaande aan die waarop de Suppletieregeling op hem van toepassing wordt nog recht heeft op aanvullende uitkering op grond van artikel 2, tweede lid, onderdeel *a* en *b*, van het Besluit aanvulling arbeidsongeschiktheidsuitkering militairen, zoals dat besluit luidde op die dag voorafgaande aan die waarop de Suppletieregeling op betrokkene van toepassing wordt, en waarvan de duur op de invoeringsdatum van de Suppletieregeling nog niet is verstreken, heeft recht op suppletie.
 
 2. Het in het eerste lid bedoelde recht op suppletie geldt voor een periode die gelijk is aan de resterende duur van het genoten recht op aanvullende uitkering op grond van het Besluit aanvulling arbeidsongeschiktheidsuitkering militairen, berekend aan de hand van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008977&paragraaf=3&artikel=6&z=2020-01-01&g=2020-01-01), met ingang van de dag waarop de Suppletieregeling op betrokkene van toepassing wordt.
 
@@ -458,6 +426,10 @@ Ingetrokken worden:
 
 - b. het Besluit aanvulling arbeidsongeschiktheidsuitkering militairen.
 
+##### Artikel 24a
+
+Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op [artikel 12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
+
 ##### Artikel 25
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
@@ -465,11 +437,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 26
 
 Dit besluit wordt aangehaald als: Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 24a
-
-Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op [artikel 12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

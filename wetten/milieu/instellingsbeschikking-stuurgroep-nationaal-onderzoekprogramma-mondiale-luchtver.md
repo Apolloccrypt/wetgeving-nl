@@ -1,46 +1,17 @@
 ---
 title: "Instellingsbeschikking stuurgroep Nationaal Onderzoekprogramma Mondiale Luchtverontreiniging en Klimaatverandering"
 identifier: "BWBR0008988"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-11-01"
-last_updated: "1997-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008988"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "3541823"
-version_id: "5324982"
-internal_id: "C5518071"
-label_id: "3521854"
-dtd_version: "2.0"
-original_entry_into_force: "1997-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008988/1997-11-01/0"
-intitule_bron: "Stcrt.1997-216"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-10-31"
-intitule_published: "1997-11-10"
-intitule_in_force: "1997-11-10"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-216"
-original_signed_date: "1997-10-31"
-original_published_date: "1997-11-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-11-01"
-jci_1_3: "jci1.3:c:BWBR0008988&z=1997-11-01&g=1997-11-01"
-jci_1_0: "1.0:c:BWBR0008988&g=1997-11-01"
-citeertitel_status: "officieel"
-signed_date: "1997-10-31"
-entry_into_force: "1997-11-01"
+publicatiedatum: 1997-11-01
+laatste_update: 1997-11-01
+status: geldig
+toestand: 1997-11-01
+bron: "https://wetten.overheid.nl/BWBR0008988"
+opgehaald: 2026-08-03
 ---
+
 # Instellingsbeschikking stuurgroep Nationaal Onderzoekprogramma Mondiale Luchtverontreiniging en Klimaatverandering
-
-Handelende in overeenstemming met de Ministers van Verkeer en Waterstaat (verder te noemen VW), Economische Zaken (verder te noemen EZ), Landbouw, Natuurbeheer en Visserij (verder te noemen LNV), Buitenlandse Zaken en Ontwikkelingssamenwerking (verder te noemen BuZa en OS), Onderwijs, Cultuur en Wetenschappen (verder te noemen OCW), en in overeenstemming met de Voorzitter van het Algemeen Bestuur van de Nederlandse Organisatie van Wetenschappelijk Onderzoek (verder te noemen NWO),
-
-Gezien het besluit betreffende het Nationaal Onderzoekprogramma Mondiale Luchtverontreiniging en Klimaatverandering van 30 oktober 1989 Stcrt. 1989,218, en het standpunt over dit programma d.d. 19 maart 1990 (Kamerstukken II, 1989/1990, 21611, nr. 1) en de Vervolgnota Klimaatverandering d.d. 24 juni 1996 (Kamerstukken II, 1995/96, 24 785, nr.1),
-
-Overwegende dat het wenselijk is het Nationaal Onderzoekprogramma Mondiale Luchtverontreiniging en Klimaatverandering te continueren ter onderbouwing van het nationaal en internationaal klimaatbeleid en de verankering van het klimaatonderzoek in de Nederlandse onderzoekswereld,
-
-Besluit:
 
 ##### Artikel 1
 

@@ -1,72 +1,42 @@
 ---
 title: "Wet van 14 februari 1998 tot wijziging van de Wet op de ondernemingsraden en titel 7.10 (arbeidsovereenkomst) van het nieuw Burgerlijk Wetboek"
+citeertitel: "Wijzigingswet Wet op de ondernemingsraden en titel 7.10 (arbeidsovereenkomst) nieuw Burgerlijk Wetboek"
 identifier: "BWBR0009392"
-country: "nl"
-rank: "wet"
-publication_date: "1999-01-01"
-last_updated: "1999-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009392"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "746913"
-version_id: "1091462"
-internal_id: "C1091461"
-label_id: "723674"
-dtd_version: "2.0"
-original_entry_into_force: "1998-03-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009392/1999-01-01/0"
-intitule_bron: "Stb.1998-107"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-02-19"
-intitule_published: "1998-03-03"
-intitule_in_force: "1998-03-03"
-intitule_status: "goed"
-original_publication: "Stb.1998-107"
-original_signed_date: "1998-02-19"
-original_published_date: "1998-03-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "24615"
-original_url_id: "stb-1998-107"
-entry_into_force_date: "1998-03-04"
-entry_into_force_dossier: "24615"
-jci_1_3: "jci1.3:c:BWBR0009392&z=1999-01-01&g=1999-01-01"
-jci_1_0: "1.0:c:BWBR0009392&g=1999-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet op de ondernemingsraden en titel 7.10 (arbeidsovereenkomst) nieuw Burgerlijk Wetboek"
-signed_date: "1998-02-19"
-entry_into_force: "1998-03-04"
+publicatiedatum: 1998-03-04
+laatste_update: 1999-01-01
+status: geldig
+toestand: 1999-01-01
+bron: "https://wetten.overheid.nl/BWBR0009392"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 14 februari 1998 tot wijziging van de Wet op de ondernemingsraden en titel 7.10 (arbeidsovereenkomst) van het nieuw Burgerlijk Wetboek
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de effectiviteit van de medezeggenschap in ondernemingen te bevorderen alsmede de werknemers bescherming te bieden tegen het eenzijdig wijzigen van arbeidsvoorwaarden en dat in verband hiermee enkele wijzigingen in de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) en in het Burgerlijk Wetboek dienen te worden aangebracht;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### ARTIKEL I
 
-Wijzigt de Wet op de ondernemingsraden.
+*Wijzigt de Wet op de ondernemingsraden.*
 
 ##### ARTIKEL II
 
-Wijzigt Boek 7 van het Burgerlijk Wetboek.
+*Wijzigt Boek 7 van het Burgerlijk Wetboek.*
 
 ##### ARTIKEL III
 
-Wijzigt de Arbeidstijdenwet.
+*Wijzigt de Arbeidstijdenwet.*
 
 ##### ARTIKEL IV
 
-Wijzigt de Arbeidsomstandighedenwet.
+*Wijzigt de Arbeidsomstandighedenwet.*
 
 ##### ARTIKEL V
 
-Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.
+*Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.*
 
 ##### ARTIKEL VI
 
-Wijzigt het bij koninklijke boodschap van 7 maart 1997 ingediende voorstel van wet houdende wijziging van het Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 en van enige andere wetten (Flexibiliteit en zekerheid) (Kamerstukken II, 1996/97, 25 263).
+*Wijzigt het bij koninklijke boodschap van 7 maart 1997 ingediende voorstel van wet houdende wijziging van het Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 en van enige andere wetten (Flexibiliteit en zekerheid) (Kamerstukken II, 1996/97, 25 263).*
 
 ##### ARTIKEL VII
 
@@ -82,7 +52,7 @@ Ondernemingsraden die op grond van [artikel 2 van de Wet op de ondernemingsraden
 
 ##### ARTIKEL X
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### ARTIKEL XI
 
@@ -93,5 +63,3 @@ Wijzigt de Wet op de economische delicten.
 ##### ARTIKEL XII
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

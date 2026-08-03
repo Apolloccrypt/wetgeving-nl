@@ -1,52 +1,17 @@
 ---
 title: "Instellingsbeschikking Begeleidingscommissie Project Mainportontwikkeling Rotterdam (PMR)"
 identifier: "BWBR0009164"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-04-01"
-last_updated: "1999-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009164"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4258093"
-version_id: "6021532"
-internal_id: "C6224921"
-label_id: "4236674"
-dtd_version: "2.0"
-original_entry_into_force: "1998-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009164/1999-04-01/0"
-intitule_bron: "Stcrt.1997-244"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-16"
-intitule_published: "1997-12-18"
-intitule_in_force: "1997-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-244"
-original_signed_date: "1997-12-16"
-original_published_date: "1997-12-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-02-01"
-jci_1_3: "jci1.3:c:BWBR0009164&z=1999-04-01&g=1999-04-01"
-jci_1_0: "1.0:c:BWBR0009164&g=1999-04-01"
-citeertitel_status: "officieel"
-signed_date: "1997-12-16"
-entry_into_force: "1998-02-01"
+publicatiedatum: 1998-02-01
+laatste_update: 1999-04-01
+status: geldig
+toestand: 1999-04-01
+bron: "https://wetten.overheid.nl/BWBR0009164"
+opgehaald: 2026-08-03
 ---
+
 # Instellingsbeschikking Begeleidingscommissie Project Mainportontwikkeling Rotterdam (PMR)
-
-In overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuurbeheer en Visserij en de Staatssecretaris van Economische Zaken;
-
-Overwegende:
-
-dat het kabinet met de projectbeslissing inzake ’Verkenning Ruimtetekort Mainport Rotterdam’ aangeeft dat er op korte termijn een ruimtetekort is in de haven van Rotterdam;
-
-dat het Kabinet bovenstaand overziende, heeft besloten een PKB/MER-procedure te starten, die zich zal richten op een landaanwinning van ongeveer 1000 ha netto aaneengesloten haven- en industrieterrein met een eigen zeehaventoegang én hoe uitwerking gegeven kan worden aan de binnen ROM-Rijnmond afgesproken 750 ha natuur- en recreatiegebied. Daarbij worden de mogelijkheden tot fasering onderzocht met als één van de varianten
-
-500 ha droog. Uitbreidbaarheid in de toekomst dient (technisch) mogelijk te blijven. Daarnaast zal onder andere een meest milieuvriendelijk alternatief en het alternatief: ’inbreiden’ in de haven van Rotterdam en het benutten van de thans bestaande en voorziene mogelijkheden in zuid-west Nederland, worden onderzocht. Dit alternatief wordt in de projectbeslissing nul-alternatief genoemd;
-
-dat daarbij zal worden aangegeven op welke manier en in welk kader op evenwichtige wijze uitwerking zal worden gegeven aan de in de aanvangsbeslissing geformuleerde doelstelling ‐ versterking van mainport Rotterdam en verbetering van de leefomgeving ‐ én aan de samenhang van de eventuele uitbreiding van de Maasvlakte met de bestaande haven en omgeving.
-
-Besluit:
 
 ##### Artikel 1
 
@@ -76,19 +41,19 @@ In de commissie worden benoemd :
 
 - a. tot voorzitter, tevens lid:
 
-- de heer J.G.M. Alders
+   - de heer J.G.M. Alders
 
 - b. tot lid:
 
-- mevrouw prof. dr. J.M. Cramer
+   - mevrouw prof. dr. J.M. Cramer
 
-- de heer ir. J. van Dixhoorn
+   - de heer ir. J. van Dixhoorn
 
-- de heer ir. B. van Nederveen
+   - de heer ir. B. van Nederveen
 
-- de heer prof. dr. P. Nijkamp
+   - de heer prof. dr. P. Nijkamp
 
-- mevrouw ir. L.E. Stolker-Nanninga.
+   - mevrouw ir. L.E. Stolker-Nanninga.
 
 - c. Het secretariaat van deze commissie zal onafhankelijk worden ingevuld.
 

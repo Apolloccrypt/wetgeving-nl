@@ -1,54 +1,17 @@
 ---
 title: "Instellingsbesluit Commissie Westerschelde"
 identifier: "BWBR0008235"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-09-16"
-last_updated: "1996-09-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008235"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3539703"
-version_id: "5322852"
-internal_id: "C5515941"
-label_id: "3519724"
-dtd_version: "2.0"
-original_entry_into_force: "1996-09-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008235/1996-09-16/0"
-intitule_bron: "Stcrt.1996-178"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-09-13"
-intitule_published: "1996-09-16"
-intitule_in_force: "1996-09-16"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-178"
-original_signed_date: "1996-09-13"
-original_published_date: "1996-09-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-09-16"
-jci_1_3: "jci1.3:c:BWBR0008235&z=1996-09-16&g=1996-09-16"
-jci_1_0: "1.0:c:BWBR0008235&g=1996-09-16"
-citeertitel_status: "officieel"
-signed_date: "1996-09-13"
-entry_into_force: "1996-09-16"
+publicatiedatum: 1996-09-16
+laatste_update: 1996-09-16
+status: geldig
+toestand: 1996-09-16
+bron: "https://wetten.overheid.nl/BWBR0008235"
+opgehaald: 2026-08-03
 ---
+
 # Instellingsbesluit Commissie Westerschelde
-
-Overwegende dat op 17 januari 1995 tussen het Koninkrijk der Nederlanden en het Vlaams Gewest een verdrag is gesloten inzake de verruiming van de vaarweg in de Westerschelde, verder aan te duiden als het Verdrag;
-
-Dat het Verdrag op 1 juli 1996 van kracht is geworden en in dit Verdrag voor Nederland verplichtingen zijn opgenomen om herstelwerken uit te voeren als gevolg van het verlies aan natuurwaarden door de aanstaande verruiming van de vaarweg in de Westerschelde;
-
-Dat in Bijlage B, punt 3, bij het Verdrag een algemene beschrijving wordt gegeven van het doel en de technische mogelijkheden van bedoelde werken;
-
-Dat de Minister van Verkeer en Waterstaat is gebleken dat het advies van 8 mei 1996 van het Bestuurlijk Overleg Westerschelde over een eerder in 1995 opgesteld plan zodanig is dat de basis ontbreekt voor een besluit over dat plan;
-
-Dat ook in het advies van de Raad voor het Natuurbeheer en in de bevindingen van het Overlegorgaan Waterbeheer en Noordzee-aangelegenheden nadelen naar voren worden gebracht en onzekerheden worden genoemd;
-
-Dat vorenstaande adviezen en bevindingen de Minister van Verkeer en Waterstaat heeft doen besluiten een externe commissie in te stellen om een wijs advies uit te brengen en te komen met een kwalitatief en kwantitatief goed plan dat voldoet aan de Verdragsverplichtingen en een zo groot mogelijk draagvlak heeft in de regio, teneinde daarna spoedig een besluit te kunnen nemen;
-
-Gelet op het advies van 8 mei 1996 van het Bestuurlijk Overleg Westerschelde en de door de Minister van Verkeer en Waterstaat gedane mededelingen over het toen nog voorliggende herstelplan tijdens de behandeling op 15 februari 1996 van het Verdrag in de Tweede Kamer der Staten Generaal en over het benoemen van een commissie van wijze personen tijdens de behandeling op 25 juni 1996 van het Verdrag in de Eerste Kamer der Staten Generaal;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -105,5 +68,3 @@ Het beheer van de bescheiden betreffende de werkzaamheden van de Commissie gesch
 ##### Artikel 7
 
 Dit besluit treedt met ingang van heden in werking en vervalt op een nader door de Minister van Verkeer en Waterstaat te bepalen tijdstip.
-
-Dit besluit wordt geplaatst in de Staatscourant.

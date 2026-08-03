@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0042355"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-03
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs, en Media van 6 juni 2019, nr. PO/1219075, houdende regels voor de subsidieverstrekking voor godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs op openbare scholen (Regeling subsidieverstrekking voor godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs)

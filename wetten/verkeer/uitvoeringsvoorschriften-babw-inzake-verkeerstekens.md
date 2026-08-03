@@ -1,45 +1,18 @@
 ---
 title: "Regeling houdende voorschriften over de toepassing, plaatsing en uitvoering van verkeerstekens, uitgezonderd verkeerslichten"
+citeertitel: "Uitvoeringsvoorschriften BABW inzake verkeerstekens"
 identifier: "BWBR0009104"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-10-01"
-last_updated: "2023-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009104"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "5261453"
-version_id: "9479252"
-internal_id: "C12712911"
-label_id: "5237614"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009104/2023-10-01/0"
-intitule_bron: "Stcrt.1997-239"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-10"
-intitule_published: "1997-12-11"
-intitule_in_force: "1997-12-11"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-239"
-original_signed_date: "1997-12-10"
-original_published_date: "1997-12-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-12-13"
-jci_1_3: "jci1.3:c:BWBR0009104&z=2023-10-01&g=2023-10-01"
-jci_1_0: "1.0:c:BWBR0009104&g=2023-10-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsvoorschriften BABW inzake verkeerstekens"
-signed_date: "1997-12-10"
-entry_into_force: "1997-12-13"
+publicatiedatum: 1997-12-13
+laatste_update: 2023-10-01
+status: geldig
+toestand: 2023-10-01
+bron: "https://wetten.overheid.nl/BWBR0009104"
+opgehaald: 2026-08-03
 ---
+
 # Regeling houdende voorschriften over de toepassing, plaatsing en uitvoering van verkeerstekens, uitgezonderd verkeerslichten
-
-Gelet op [artikel 14 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=14) en de artikelen 4, derde lid, 9, 10 eerste en tweede lid, derde lid onder a en c, 11 en 48, derde lid, van het Besluit administratieve bepalingen inzake het wegverkeer;
-
-Besluit:
-
-de volgende voorschriften vast te stellen ten aanzien van de toepassing, de plaatsing en de uitvoering van enkele in het RVV 1990 opgenomen verkeersborden, onderborden en verkeerstekens op het wegdek:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -69,15 +42,15 @@ de volgende voorschriften vast te stellen ten aanzien van de toepassing, de plaa
 
 4. Overzicht van mogelijke combinaties bij zonale toepassing.
 
-|   | A1 | E1 | E9 | E10 | C..* | G5 | G7 |
+|  | A1 | E1 | E9 | E10 | C..* | G5 | G7 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | A1 | X | J | J | J | J | N | N |
-| E1 |   | X | J | J | J | N | N |
-| E9 |   |   | X | J | J | J | J |
-| E10 |   |   |   | X | J | J | N |
-| C..* |   |   |   |   | J | J | N |
-| G5 |   |   |   |   |   | X | N |
-| G7 |   |   |   |   |   |   | X |
+| E1 |  | X | J | J | J | N | N |
+| E9 |  |  | X | J | J | J | J |
+| E10 |  |  |  | X | J | J | N |
+| C..* |  |  |  |  | J | J | N |
+| G5 |  |  |  |  |  | X | N |
+| G7 |  |  |  |  |  |  | X |
 
 * = Met dien verstande dat een geslotenverklaring voor alle motorvoertuigen, voortvloeiend uit C1 of C12 de toepassing van de andere zoneborden meestal overbodig maakt.
 
@@ -125,9 +98,9 @@ Bij tunnels, viaducten en dergelijke kan hiervan worden afgeweken.
 
 15. Borden worden weergegeven in:
 
-- –. vaste uitvoering, waarbij bij voortduring hetzelfde verkeersbord wordt getoond, of
+- – vaste uitvoering, waarbij bij voortduring hetzelfde verkeersbord wordt getoond, of
 
-- –. verschijnuitvoering, waarbij één of meerdere verkeersborden kunnen worden getoond.
+- – verschijnuitvoering, waarbij één of meerdere verkeersborden kunnen worden getoond.
 
 Borden in vaste uitvoering, met uitzondering van bord L3, voldoen aan de paragrafen 5 en 6 van norm NEN 3381 (Verkeerstekens - Algemene eisen voor borden);
 
@@ -137,13 +110,13 @@ Ingeval een bord op een elektronisch signaleringsbord wordt weergegeven kan het 
 
 16. Borden, met uitzondering van de borden G13, G14, K1 tot en met K13, L3 tot en met L7 en L10 tot en met L12 worden ten minste uitgevoerd overeenkomstig de afmetingen genoemd in paragraaf 4 van norm NEN 3381, waarbij voor de volgende wegen de volgende typen gelden:
 
-- –. op wegen waar een maximumsnelheid geldt van 130 km/h of minder tot de volgende snelheidscategorie: type III;
+- – op wegen waar een maximumsnelheid geldt van 130 km/h of minder tot de volgende snelheidscategorie: type III;
 
-- –. op wegen waar een maximumsnelheid geldt van 80 km/h of minder tot de volgende snelheidscategorie: type II;
+- – op wegen waar een maximumsnelheid geldt van 80 km/h of minder tot de volgende snelheidscategorie: type II;
 
-- –. op wegen waar een maximumsnelheid geldt van 50 km/h of minder: type I, en
+- – op wegen waar een maximumsnelheid geldt van 50 km/h of minder: type I, en
 
-- –. bord B1 als herhalingsbord, alsmede de borden D2 en D3 indien gecombineerd met de gele koker: type 0.
+- – bord B1 als herhalingsbord, alsmede de borden D2 en D3 indien gecombineerd met de gele koker: type 0.
 
 Van de minimummaat kan worden afgeweken indien het bord wordt geplaatst op een parkeerterrein, verzorgingsplaats of andere verkeersruimte bestemd voor beperkt gebruik.
 
@@ -151,19 +124,23 @@ Van de minimummaat kan worden afgeweken indien het bord wordt geplaatst op een p
 
 Niet retroreflecterend behoeven te zijn:
 
-- –. borden van hoofdstuk E, binnen de bebouwde kom;
+- – borden van hoofdstuk E, binnen de bebouwde kom;
 
-- –. bord L3;
+- – bord L3;
 
-- –. borden G7 tot en met G10 alsmede G13 en G14;
+- – borden G7 tot en met G10 alsmede G13 en G14;
 
-- –. borden in transparante uitvoering, en
+- – borden in transparante uitvoering, en
 
-- –. elektronische signaleringsborden.
+- – elektronische signaleringsborden.
 
 18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2023-10-01&g=2023-10-01) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
 
 ##### Paragraaf 4. Voorschriften voor de afzonderlijke borden
+
+Bord A1 (maximumsnelheid)
+
+Toepassing
 
 1. De in te stellen maximumsnelheid dient in overeenstemming te zijn met het wegbeeld ter plaatse. Dit betekent dat waar nodig de omstandigheden op zodanige manier zijn aangepast dat de beoogde snelheid redelijkerwijs voortvloeit uit de aard en de inrichting van de betrokken weg en van zijn omgeving.
 
@@ -171,51 +148,51 @@ Niet retroreflecterend behoeven te zijn:
 
 - a. binnen de bebouwde kom:
 
-- op wegvakken: 70, 30, 15 km/h
+   - op wegvakken: 70, 30, 15 km/h
 
-- bij gevarenpunten: 30, 20 km/h;
+   - bij gevarenpunten: 30, 20 km/h;
 
 - b. buiten de bebouwde kom:
 
-- op autowegen:
+   - op autowegen:
 
-- op wegvakken: 80 km/h
+      - op wegvakken: 80 km/h
 
-- bij gevarenpunten: 70 km/h;
+      - bij gevarenpunten: 70 km/h;
 
-- op autosnelwegen:
+   - op autosnelwegen:
 
-- op wegvakken: 130, 120, 110, 100, 90, 80, 70, 60, 50 km/h;
+      - op wegvakken: 130, 120, 110, 100, 90, 80, 70, 60, 50 km/h;
 
-- op andere wegen buiten de bebouwde kom:
+   - op andere wegen buiten de bebouwde kom:
 
-- op wegvakken: 60, 30 km/h
+      - op wegvakken: 60, 30 km/h
 
-- bij verkeerslichten: 70 km/h
+      - bij verkeerslichten: 70 km/h
 
-- bij gevarenpunten: 60, 50 km/h.
+      - bij gevarenpunten: 60, 50 km/h.
 
 3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2023-10-01&g=2023-10-01), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
 
-4. 15 km/h en 15 km/h zone, 30 km/h en 30 km/h zone, 60 km/h en 60 km/h zone
+4. 15 km/h en 15 km/h zone, 30 km/h en 30 km/h zone, 60 km/h en 60 km/h zone
 
-Bord A1 (15 km/h en 15 km/h zone) mag op woonerven worden geplaatst om expliciet aan te geven dat op woonerven slechts stapvoets, 15 km/h, mag worden gereden, zoals bepaald in [artikel 45 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=45).
+Bord A1 (15 km/h en 15 km/h zone) mag op woonerven worden geplaatst om expliciet aan te geven dat op woonerven slechts stapvoets, 15 km/h, mag worden gereden, zoals bepaald in [artikel 45 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=45).
 
-Bord A1 (30 km/h buiten de bebouwde kom en 60 km/h buiten de bebouwde kom) mag op wegvakken slechts worden toegepast indien wordt voldaan aan de volgende eisen:
+Bord A1 (30 km/h buiten de bebouwde kom en 60 km/h buiten de bebouwde kom) mag op wegvakken slechts worden toegepast indien wordt voldaan aan de volgende eisen:
 
 - iedere weg in het betrokken gebied heeft voornamelijk een verblijfsfunctie;
 
 - om te voorkomen dat de verblijfsfunctie wordt aangetast door een relatief hoge intensiteit van het gemotoriseerde verkeer, is de weg met zijn omgeving waar nodig aangepast;
 
-Voor bord A1 (30 km/h binnen en buiten de bebouwde kom en 60 km/h buiten de bebouwde kom) gelden de volgende aanvullende eisen:
+Voor bord A1 (30 km/h binnen en buiten de bebouwde kom en 60 km/h buiten de bebouwde kom) gelden de volgende aanvullende eisen:
 
 - met het oog op snelheidsbeperking en attentieverhoging is extra aandacht besteed aan potentieel gevaarlijke punten, zoals:
 
-- a. plaatsen waar voetgangers, in het bijzonder schoolkinderen en bejaarden, plegen over te steken;
+   - a. plaatsen waar voetgangers, in het bijzonder schoolkinderen en bejaarden, plegen over te steken;
 
-- b. kruispunten met een hoofdroute voor fietsers en eventueel bromfietsers;
+   - b. kruispunten met een hoofdroute voor fietsers en eventueel bromfietsers;
 
-- c. kruispunten waar de voorrang door middel van borden geregeld is;
+   - c. kruispunten waar de voorrang door middel van borden geregeld is;
 
 - de overgangen naar een andere maximumsnelheid zijn door de constructie duidelijk herkenbaar;
 
@@ -227,19 +204,39 @@ Voor bord A1 (30 km/h binnen en buiten de bebouwde kom en 60 km/h buiten de bebo
 
 - b. na een ander bord A1 dat een hogere maximumsnelheid aangeeft dan het nieuwe bord, indien dat volgende bord op een kortere afstand zou staan van het vorige bord dan de afstand die redelijkerwijs nodig kan zijn voor feitelijke aanpassing van de snelheid aan de maximumsnelheid die dat volgende bord aangeeft.
 
+Plaatsing
+
 Bij een rijbaan van meer dan 5 m breed of met twee of meer rijstroken in dezelfde richting, wordt het bord indien mogelijk tevens aan de linkerzijde van die rijbaan geplaatst.
 
+Onderborden
+
 1. Bij voorkeur wordt de reden van een vastgestelde maximumsnelheid bij een gevarenpunt zichtbaar gemaakt door bord A1 te combineren met een bord of onderbord dat de aard van het gevaar of het belang van de maximumsnelheid aangeeft.
+
+Categorale maxima
 
 1. Om een maximumsnelheid aan te geven voor een bepaalde categorie bestuurders wordt die categorie aangegeven op een onderbord, en wel zo mogelijk door het betreffende symbool dat voorkomt in bijlage 1 van het RVV 1990.
 
 Indien de maximumsnelheden betrekking hebben op motorvoertuigen die een bepaald maximum toegestane totaalmassa te boven gaan wordt op het onderbord die massa vermeld in het aantal tonnen, aangegeven door cijfers met toevoeging van de letter t.
 
+Bord A2 Einde maximumsnelheid
+
+Toepassing
+
 Het bord wordt niet toegepast bij de toegang tot een woonerf.
+
+Bord A3 (maximumsnelheid op een elektronisch signaleringsbord)
+
+Toepassing
 
 Geen andere dan de volgende maximumsnelheden worden vastgesteld op wegvakken op autosnelwegen: 130, 120, 110, 100, 90, 80, 70, 60, 50 km/h.
 
+Plaatsing
+
 1. Dit bord wordt bij plaatsing boven de rijbaan aangebracht boven elke rijstrook. Het bord kan ook rechts van de weg worden geplaatst. In dit geval moet het bord bij een rijbaanbreedte van meer dan 5 m tevens ter linkerzijde worden geplaatst.
+
+Bord A4 (adviessnelheid)
+
+Toepassing
 
 1. Een adviessnelheid wordt slechts plaatselijk toegepast om aan te geven met welke veilige snelheid een gevarenpunt gepasseerd kan worden, waarvan voor de bestuurder niet goed waarneembaar is dat in aanzienlijke mate snelheid moet worden verminderd.
 
@@ -249,7 +246,13 @@ Geen andere dan de volgende maximumsnelheden worden vastgesteld op wegvakken op 
 
 4. Een met bord A4 aan te geven adviessnelheid is tenminste 20 km/h lager dan de snelheidslimiet op het direct daaraan voorafgaande weggedeelte.
 
+Voorwaarschuwingsborden
+
 1. Voor het bord wordt geen voorwaarschuwingsbord geplaatst.
+
+Bord A5 (einde adviessnelheid)
+
+Toepassing
 
 1. Dit bord wordt niet toegepast:
 
@@ -257,23 +260,41 @@ Geen andere dan de volgende maximumsnelheden worden vastgesteld op wegvakken op 
 
 - b. ter beëindiging van een adviessnelheid bij een gevarenpunt.
 
+Bord B1 (voorrangsweg)
+
+Toepassing
+
 1. Het bord wordt niet toegepast in erven, op 30 km/h-wegen, in 30 km/h-zones, op 60 km/h-wegen en in 60 km/h-zones.
+
+Plaatsing
 
 1. Binnen de bebouwde kom wordt dit bord geplaatst direct voor zijwegen van de voorrangsweg.
 
 2. Buiten de bebouwde kom wordt dit bord geplaatst op enige afstand na zijwegen van de voorrangsweg. Op autosnelwegen wordt dit bord na toeritten niet geplaatst. Op autowegen wordt dit bord na vloeiende toeritten niet geplaatst.
 
+Onderborden
+
 1. Het verloop van de voorrangsweg kan op een onderbord worden weergegeven.
+
+Borden B3, B4 en B5 (voorrangskruispunt)
+
+Toepassing
 
 1. Het bord wordt slechts toegepast indien op de kruisende weg de voorrang geregeld is door middel van bord B6, B7 en/of door middel van haaientanden.
 
+Plaatsing
+
 1. Het bord mag achterwege blijven, indien het verwarring kan geven ten aanzien van de voorrangsregeling op een volgende, op zeer korte afstand gelegen, kruising of splitsing van wegen. In dit geval worden op de zijweg zowel bord B6 als haaientanden, dan wel bord B7 en een stopstreep toegepast.
+
+Bord B6 (verleen voorrang aan bestuurders op de kruisende weg)
+
+Toepassing
 
 1. Het bord wordt niet toegepast binnen erven.
 
-30 km/h- en 30 km/h-zones buiten de bebouwde kom
+2. 30 km/h- en 30 km/h-zones buiten de bebouwde kom
 
-2. Het bord wordt binnen 30 km/h- en 30 km/h-zones buiten de bebouwde kom slechts toegepast bij rotondes en bij kruispunten met:
+Het bord wordt binnen 30 km/h- en 30 km/h-zones buiten de bebouwde kom slechts toegepast bij rotondes en bij kruispunten met:
 
 - een vrijliggende busbaan;
 
@@ -283,6 +304,8 @@ Geen andere dan de volgende maximumsnelheden worden vastgesteld op wegvakken op 
 
 - een hoofdfietsroute, die duidelijk als zodanig herkenbaar is en waarop slechts een ondergeschikte hoeveelheid gemotoriseerd verkeer voorkomt.
 
+Plaatsing
+
 1. Bij een rijbaanbreedte van meer dan 5 m, wordt het bord buiten de bebouwde kom tevens aan de linkerzijde van de rijbaan geplaatst.
 
 2. Bij twee of meer rijstroken in dezelfde richting binnen de bebouwde kom wordt het bord tevens aan de linkerzijde van de rijbaan geplaatst.
@@ -291,11 +314,21 @@ Geen andere dan de volgende maximumsnelheden worden vastgesteld op wegvakken op 
 
 4. Indien een fietspad, of fiets/bromfietspad deel uitmaakt van de kruisende weg wordt het bord geplaatst in combinatie met een duidelijke markering van dat pad.
 
+Voorwaarschuwingsborden
+
 1. Op wegen buiten de bebouwde kom wordt een voorwaarschuwing geplaatst, zonodig aangevuld met een voorwaarschuwingsdriehoek op het wegdek.
+
+Onderborden
 
 1. Indien het bord betrekking heeft op een in twee richtingen bereden fietspad dan wel een in twee richtingen bereden fiets/bromfietspad, wordt een onderbord met een fietssymbool en eventueel een bromfietssymbool en twee naar elkaar gerichte horizontale pijlen toegepast.
 
+Bord B7 (stop; verleen voorrang aan bestuurders op de kruisende weg)
+
+Toepassing
+
 1. Dit bord wordt slechts toegepast op kruispunten en splitsingen van wegen, waar de meeste bestuurders voor het oprijden uit eigen beweging stoppen.
+
+Plaatsing
 
 1. Bij een rijbaanbreedte van meer dan 5 m, wordt het bord buiten de bebouwde kom tevens aan de linkerzijde van de rijbaan geplaatst.
 
@@ -303,55 +336,121 @@ Geen andere dan de volgende maximumsnelheden worden vastgesteld op wegvakken op 
 
 3. Dit bord wordt buiten de bebouwde kom tevens geplaatst op een middengeleider.
 
+Vooraanduiding
+
 1. Op wegen buiten de bebouwde kom wordt een vooraanduiding geplaatst. Hiervoor wordt uitsluitend bord B6 gebruikt, met een onderbord waarop een afstandaanduiding en zonodig het woord “stop” wordt vermeld. De vooraanduiding kan ondersteund worden door een voorwaarschuwingsdriehoek op het wegdek.
 
+Bord C1 (gesloten in beide richtingen voor voertuigen, ruiters en geleiders van rij- of trekdieren of vee)
+
+Toepassing
+
 1. Het bord wordt niet toegepast bij T-kruispunten, waar toepassing van bord C4, dan wel D4 of D5 mogelijk is.
+
+Bord C2 (eenrichtingweg, in deze richting gesloten voor voertuigen, ruiters en geleiders van rij- of trekdieren of vee)
+
+Toepassing
 
 1. Het bord wordt niet toegepast bij T-kruispunten, waar toepassing van bord C4, dan wel D4 of D5 mogelijk is.
 
 2. Het bord wordt ter voorkoming van spookrijden geplaatst aan het einde van afritten van autosnelwegen en dubbelbaans autowegen, ter weerszijden van de rijbaan. Dit bord wordt op een afstand van tenminste 100 m herhaald en is voorzien van een onderbord met de tekst ’ga terug’. De onderkant van het onderbord moet zich bij voorkeur op een hoogte van 0,50 m boven het wegdek bevinden.
 
+Bord C4 (eenrichtingweg)
+
+Plaatsing
+
 1. Dit bord wordt geplaatst tegenover de zijweg van een T-kruispunt, wanneer er sprake is van eenrichtingverkeer op de doorgaande weg.
+
+Toepassing
 
 1. Dit bord wordt niet toegepast bij een rotonde.
 
+Bord C5 (inrijden toegestaan)
+
+Plaatsing
+
 1. Om verwarring met naastliggende rijbanen te voorkomen mag het bord aan de linkerzijde van de weg worden geplaatst.
+
+Bord C19 (gesloten voor voertuigen die, met inbegrip van de lading, hoger zijn dan op het bord is aangegeven)
+
+Toepassing
 
 1. Het getal op het bord is niet groter dan 3,9 m.
 
 2. Het getal op het bord heeft één decimaal en is altijd 0,10 m tot 0,20 m lager dan de gemeten doorrijhoogte.
 
+Plaatsing
+
 1. Dit bord wordt in beginsel boven de rijbaan aangebracht.
+
+Bord C22 (gesloten voor voertuigen met bepaalde gevaarlijke stoffen)
+
+Toepassing en plaatsing
 
 1. Het bord wordt geplaatst bij of voor de ingang van tunnels, genoemd in de [Regeling vervoer over land van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010054), dan wel op wegen die zijn aangewezen op grond van [artikel 20, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=20).
 
 2. Het bord wordt bij toepassing voor de onder 1. bedoelde tunnels voorzien van een onderbord, overeenkomstig [bijlage 2, hoofdstuk 2, artikel 3, van de Regeling vervoer over land van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2), en bij toepassing op de onder 1. bedoelde aangewezen wegen voorzien van een onderbord waarin dezelfde systematiek als voor tunnels wordt gebruikt dan wel een andere aanduiding van stoffen overeenkomstig internationale regelgeving.
 
+Vooraanduiding
+
 1. Op autosnelwegen en autowegen wordt een vooraanduiding in de vorm van bord L10 geplaatst.
+
+Bord C23-01 Spitsstrook open
+
+Toepassing
 
 Dit bord wordt toegepast op bepaalde trajecten om aan te geven dat daar de vluchtstrook in verband met grote drukte is opengesteld als spitsstrook.
 
+Plaatsing
+
 Het bord wordt geplaatst aan de zijde van de rijbaan waar zich de spitsstrook bevindt.
 
+Uitvoering
+
 De afmeting van het bord bedraagt tenminste 1,85 meter (breedte) bij tenminste 1,25 meter (hoogte). De borden worden in verschijnuitvoering uitgevoerd. Er moet ook een blanco vlak of aanduiding kunnen worden getoond, waaruit blijkt dat de spitsstrook niet operationeel is.
+
+Onderbord
 
 Het bord kan worden voorzien van een onderbord. In dat geval luidt de tekst: ‘Spitsstrook open’.
 
+Bord C23-02 Spitsstrook vrijmaken
+
+Toepassing
+
 Dit bord wordt uitsluitend gebruikt om aan te geven dat een geopende spitsstrook dient te worden ontruimd.
+
+Plaatsing
 
 Het bord wordt geplaatst aan de zijde van de rijbaan waar zich de spitsstrook bevindt. Het bord kan zonodig op enige afstand worden herhaald.
 
+Uitvoering
+
 De afmeting van het bord bedraagt tenminste 1,85 meter (breedte) bij tenminste 1,25 meter (hoogte). De borden worden in verschijnuitvoering uitgevoerd. Er moet ook een blanco vlak of aanduiding kunnen worden getoond, waaruit blijkt dat de spitsstrook niet operationeel is.
+
+Onderbord
 
 Het bord C23-02 kan worden voorzien van een onderbord. In dat geval luidt de tekst: ‘Spitsstrook vrijmaken’.
 
+Bord C23-03 Einde spitsstrook
+
+Toepassing
+
 Het bord wordt gebruikt om het einde van de spitsstrook aan te geven.
+
+Plaatsing
 
 Het bord wordt geplaatst aan de zijde van de rijbaan waar zich de spitsstrook bevindt.
 
+Uitvoering
+
 De afmeting van het bord bedraagt tenminste 1,85 meter (breedte) bij tenminste 1,25 meter (hoogte). De borden worden in verschijnuitvoering uitgevoerd. Er moet ook een blanco vlak of aanduiding kunnen worden getoond, waaruit blijkt dat de spitsstrook niet operationeel is.
 
+Onderbord
+
 Het bord C23-03 kan worden voorzien van een onderbord. In dat geval luidt de tekst: ‘Einde spitsstrook’.
+
+Bord D1 Rotonde; verplichte rijrichting
+
+Toepassing en plaatsing
 
 1. Dit bord wordt geplaatst op het middeneiland tegenover de toeleidende wegen. Het bord kan tevens worden geplaatst op de toeleidende wegen.
 
@@ -359,13 +458,25 @@ Het bord C23-03 kan worden voorzien van een onderbord. In dat geval luidt de tek
 
 Bovenstaande gebeurt op zodanige wijze dat de bestuurders op de toeleidende weg voorrang moeten verlenen aan de bestuurders op de hoofdrijbaan van de rotonde.
 
+Vooraanduidingsborden
+
 1. Dit bord wordt niet als voorwaarschuwingsbord gebruikt. Als vooraanduiding kan uitsluitend bord J9 worden gebruikt.
+
+Borden D2 (gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de pijl aangeeft) en D3 (bord mag aan beide zijden voorbij worden gegaan)
+
+Toepassing
 
 1. Op andere plaatsen dan aan het begin van een middengeleider worden deze borden niet toegepast.
 
 2. Dit bord wordt niet toegepast op het middeneiland bij een rotonde.
 
+Plaatsing
+
 1. Binnen de bebouwde kom wordt dit bord voorzien van een reflecterend gele koker, verticaal onder het bord geplaatst. Indien deze borden bevestigd zijn aan masten van verkeerslichten of verlichting kan de gele koker achterwege blijven.
+
+Bord E1 (parkeerverbod) en bord E2 (verbod stil te staan)
+
+Plaatsing
 
 1. Het einde en het begin van een parkeer- of stopverbod wordt zonodig aangegeven door middel van een onderbord met een pijl in de richting van het wegvak waarvoor het verbod geldt. Dit onderbord wordt evenwijdig aan de wegas aangebracht. Wanneer het einde of het begin van een verbod met een zijweg samenvalt kan het onderbord achterwege blijven.
 
@@ -373,25 +484,57 @@ Het einde van deze verboden wordt niet aangegeven indien dit reeds volgt uit een
 
 2. Op rijbanen met verkeer in twee richtingen worden deze borden zodanig geplaatst dat de verboden voor verkeer in beide richtingen waarneembaar zijn. Hiertoe mogen de borden, mits voorzien van een onderbord waaruit begin of eind van het parkeerverbod blijkt, evenwijdig aan de wegas worden geplaatst.
 
-1. Dit bord mag evenwijdig aan de weg worden geplaatst.
+Bord E5 (taxistandplaats; tevens parkeerverbod voor andere voertuigen)
+
+Plaatsing
 
 1. Dit bord mag evenwijdig aan de weg worden geplaatst.
+
+Bord E6 (gehandicaptenparkeerplaats)
+
+Plaatsing
+
+1. Dit bord mag evenwijdig aan de weg worden geplaatst.
+
+Onderborden
 
 1. Indien de parkeerplaats is gereserveerd voor een motorvoertuig, wordt een onderbord met het kenteken van dat motorvoertuig aangebracht.
 
 2. Indien de parkeerplaats is gereserveerd voor een gehandicaptenvoertuig, wordt een onderbord ’gehandicaptenvoertuig’ aangebracht.
 
+Bord E7 (gelegenheid bestemd voor het onmiddellijk laden en lossen van goederen; tevens parkeerverbod voor andere voertuigen)
+
+Plaatsing
+
 1. Het bord mag evenwijdig aan de weg worden geplaatst.
+
+Bord E8 (parkeergelegenheid alleen bestemd voor de voertuigcategorie die op het bord is aangegeven; tevens parkeerverbod voor andere voertuigcategorieën)
+
+Uitvoering
 
 1. Afbeeldingen ter aanduiding van de voertuigcategorieën komen overeen met de afbeeldingen in zijaanzicht op de borden van bijlage 1 van het RVV 1990.
 
+Plaatsing
+
 1. Het bord mag evenwijdig aan de weg worden geplaatst.
 
+Bord E9 (parkeergelegenheid alleen bestemd voor vergunninghouders)
+
+Plaatsing
+
 1. Dit bord mag evenwijdig aan de weg worden geplaatst.
+
+Bord E10 (Parkeerschijf-zone)
+
+Plaatsing
 
 1. Dit bord mag evenwijdig aan de weg worden geplaatst.
 
 2. In een zone, aangeduid met bord E10, worden parkeerplaatsen waar het gebruik van de parkeerschijf niet verplicht is, aangeduid of aangegeven met een P-tegel of een P-bord.
+
+Bord E12 (Parkeergelegenheid voor openbaar-vervoer-reizigers bij een Parkeer en Reis halte)
+
+Toepassing
 
 1. De afzonderlijke parkeergelegenheid, bestemd voor openbaar vervoer reizigers, moet voldoen aan de volgende eisen:
 
@@ -403,67 +546,149 @@ Het einde van deze verboden wordt niet aangegeven indien dit reeds volgt uit een
 
 3. Dit bord mag uitsluitend worden toegepast indien het betrokken openbaar vervoer op werkdagen gedurende de spitsuren in ieder geval een frequentie heeft van zes maal per uur voor zoveel het lokaal vervoer betreft en van twee maal per uur voor zoveel het interlokaal vervoer betreft.
 
+Plaatsing
+
 1. Dit bord wordt geplaatst bij de parkeergelegenheid van een Parkeer en Reis halte.
 
 2. Het bord kan tevens als verwijzing worden toegepast. In dat geval kan het symbool van het bord worden opgenomen in de bewegwijzering, of wordt het bord voorzien van een pijlaanduiding.
 
+Bord E13 (Parkeergelegenheid ten behoeve van carpoolers)
+
+Toepassing
+
 1. De parkeergelegenheid ten behoeve van carpoolers moet voorzien zijn van een verharding, een parkeervakindeling en openbare verlichting.
+
+Plaatsing
 
 1. Dit bord wordt geplaatst bij de parkeergelegenheid ten behoeve van carpoolers.
 
 2. Het bord kan tevens als verwijzing worden toegepast. In dat geval wordt de verwijzing door middel van een pijlaanduiding op het bord aangegeven.
 
+Bord F1 (verbod voor motorvoertuigen om elkaar onderling in te halen)
+
+Plaatsing
+
 1. De plaatsing van dit bord geschiedt op enige afstand voor het punt of weggedeelte waar het inhalen gevaarlijk of hinderlijk is.
 
 2. Bij een rijbaanbreedte van meer dan 5 m, wordt het bord tevens aan de linkerzijde van de rijbaan geplaatst.
 
+Bord F2 (einde verbod voor motorvoertuigen om elkaar onderling in te halen)
+
+Plaatsing
+
 1. De plaatsing van dit bord geschiedt op enige afstand voorbij het punt of weggedeelte waar het inhalen gevaarlijk of hinderlijk is.
 
 2. Dit bord wordt niet geplaatst indien de beëindiging van het inhaalverbod samenvalt met een geplaatst bord B6 of B7.
+
+Bord F3 (verbod voor vrachtauto’s om motorvoertuigen in te halen)
+
+Plaatsing
 
 1. De plaatsing van dit bord geschiedt op enige afstand voor het punt of een weggedeelte waar het inhalen gevaarlijk of hinderlijk is.
 
 2. Bij een rijbaanbreedte van meer dan 5 m, wordt het bord tevens aan de linkerzijde van de rijbaan geplaatst.
 
+Bord F4 (einde verbod voor vrachtauto’s om motorvoertuigen in te halen)
+
+Plaatsing
+
 1. De plaatsing van dit bord geschiedt op enige afstand voorbij het punt of weggedeelte waar het inhalen gevaarlijk of hinderlijk is.
 
 2. Dit bord wordt niet geplaatst indien de beëindiging van het inhaalverbod samenvalt met een geplaatst bord B6 of B7.
 
+Bord F5 (verbod voor bestuurders door te gaan bij nadering van verkeer uit tegengestelde richting)
+
+Vooraanduidingen
+
 1. Bord F5 wordt niet als voorwaarschuwing gebruikt. Als vooraanduiding kunnen de borden J17, J18 of J19 worden gebruikt.
+
+Bord F6 (bestuurders uit tegengestelde richting moeten verkeer dat van deze richting nadert voor laten gaan)
+
+Vooraanduidingen
 
 1. Bord F6 wordt niet als voorwaarschuwing gebruikt. Als vooraanduiding kunnen de borden J17, J18 of J19 worden gebruikt.
 
+Bord F7 (keerverbod)
+
+Plaatsing
+
 1. Dit bord wordt aan de linkerzijde van de rijbaan geplaatst.
+
+Bord F10 (stop. In het bord kan worden aangegeven door wie of waarom het bord wordt toegepast)
+
+Uitvoering
 
 1. In het bord wordt zo mogelijk aangegeven door wie of waarom het bord wordt toegepast.
 
+Voorwaarschuwing
+
 1. Buiten de bebouwde kom wordt een voorwaarschuwing geplaatst.
+
+Bord F11 (verplicht gebruik passeerstrook of passeerbaan)
+
+Toepassing
 
 Het bord wordt uitsluitend toegepast aan het begin van een passeerstrook of passeerbaan.
 
+Plaatsing
+
 Het bord wordt aan de rechterkant, haaks op de as van de passeerstrook of passeerbaan, aan het begin van deze strook of baan geplaatst.
+
+Uitvoering
 
 Het bord wordt uitgevoerd in minimaal type I.
 
+Bord F12 (einde verplicht gebruik passeerstrook of passeerbaan)
+
+Toepassing
+
 Het bord wordt uitsluitend toegepast aan het einde van de passeerstrook of passeerbaan.
+
+Borden F13, F15 en F17 (rijbaan of -strook uitsluitend ten behoeve van lijnbussen, respectievelijk trams of lijnbussen en trams)
+
+Toepassing
 
 De borden worden uitsluitend toegepast aan het begin van een – niet verplicht te gebruiken – lijnbusbaan of trambaan, of lijnbus- en trambaan of -strook. Toepassing van deze borden verdient in beginsel de voorkeur boven borden van hoofdstuk C bij een besluit om een specifieke rijbaan of -strook voor een of meer van deze categorieën voertuigen in te stellen.
 
+Plaatsing
+
 De borden worden aan de rechterkant, haaks op de as van de busbaan, of de trambaan, of de bus- en trambaan, aan het begin van deze baan geplaatst.
+
+Uitvoering
 
 Deze borden worden uitgevoerd in minimaal type I.
 
+Borden F14, F16 en F18 (einde rijbaan of -strook uitsluitend ten behoeve van lijnbussen, respectievelijk trams of lijnbussen en trams)
+
+Toepassing
+
 De borden worden uitsluitend toegepast in die situaties waarin het niet duidelijk is, dat de lijnbusbaan of trambaan of lijnbus- en trambaan of -strook overgaat in een baan of strook waarvoor een ander regiem geldt.
 
+Borden F19 en F21 (rijbaan of -strook uitsluitend ten behoeve van vrachtauto’s en lijnbussen, respectievelijk vrachtauto’s)
+
+Toepassing
+
 De borden worden uitsluitend toegepast aan het begin van een – niet verplicht te gebruiken – rijbaan of -strook voor vrachtauto’s en lijnbussen, of voor vrachtauto’s. Toepassing van deze borden verdient in beginsel de voorkeur boven borden van hoofdstuk C bij een besluit om een specifieke rijbaan of -strook voor een of meer van deze categorieën voertuigen in te stellen.
+
+Plaatsing
 
 Deze borden worden aan de rechterkant, haaks op de as van de rijbaan voor vrachtauto’s en lijnbussen of voor vrachtauto’s, aan het begin van deze rijbaan geplaatst.
 
 Ten behoeve van doelgroepstroken mogen deze borden boven de rijbaan of -strook worden geplaatst conform bord L12.
 
+Uitvoering
+
 Deze borden worden uitgevoerd in minimaal type I.
 
+Borden F20 en F22 (einde rijbaan of -strook voor vrachtauto’s en lijnbussen, respectievelijk vrachtauto’s)
+
+Toepassing
+
 De borden worden uitsluitend toegepast in die situaties waarin het niet duidelijk is, dat de rijbaan of -strook voor vrachtauto’s en lijnbussen of die voor vrachtauto’s overgaat in een baan of strook welke openstaat voor andere bestuurders.
+
+Bord G1 (autosnelweg)
+
+Toepassing
 
 1. De weg waarop dit bord wordt geplaatst voldoet aan de volgende eisen:
 
@@ -472,6 +697,10 @@ De borden worden uitsluitend toegepast in die situaties waarin het niet duidelij
 - de weg is gelegen buiten de bebouwde kom en de doorgaande rijbaan is aangewezen als voorrangsweg,
 
 - de weg heeft ongelijkvloerse kruisingen, gescheiden rijbanen en vloeiend verlopende toe- en afritten.
+
+Bord G3 (autoweg)
+
+Toepassing
 
 1. De weg, waarop dit bord wordt geplaatst, voldoet aan de volgende eisen:
 
@@ -487,6 +716,10 @@ De borden worden uitsluitend toegepast in die situaties waarin het niet duidelij
 
 - bij kruispunten zijn opstelvakken voor linksafslaand verkeer aanwezig.
 
+Bord G5 (erf)
+
+Toepassing
+
 1. Het erf moet voornamelijk een verblijfsfunctie hebben. Dit houdt in, voor zover het gemotoriseerd verkeer betreft, dat de wegen binnen een erf slechts een functie mogen hebben voor verkeer dat zijn bestemming of zijn vertrekpunt binnen het erf heeft en de intensiteit van het verkeer het karakter van het erf niet mag aantasten.
 
 2. De aard en de gesteldheid van de wegen en weggedeelten in het erf moeten zodanig zijn en op of aan die wegen en weggedeelten moeten snelheidsbeperkende voorzieningen zijn aangebracht waardoor stapvoets rijden redelijkerwijze uit die omstandigheden voortvloeit.
@@ -497,9 +730,19 @@ De borden worden uitsluitend toegepast in die situaties waarin het niet duidelij
 
 5. De parkeerplaatsen moeten worden aangeduid of aangegeven met een P-tegel of een P-bord. Indien het erf tevens is aangewezen als parkeerschijf-zone moet op de parkeerplaatsen waar de parkeerschijf verplicht is een blauwe streep worden aangebracht.
 
+Bord G6 (einde erf)
+
+Toepassing
+
 1. Bord G6 wordt toegepast bij elke uitgang van een erf.
 
+Plaatsing
+
 1. Dit bord mag aan de linker- of rechterzijde van de weg worden geplaatst.
+
+Borden G7 tot en met G14 Voetpad, ruiterpad, verplicht fietspad, onverplicht fietspad en fiets/bromfietspad, respectievelijk einde van het pad.
+
+Toepassing
 
 1. Bord G12a wordt slechts toegepast:
 
@@ -507,31 +750,71 @@ De borden worden uitsluitend toegepast in die situaties waarin het niet duidelij
 
 - bij een weggedeelte voor fietsers en bromfietsers op een eenrichtingsweg, aan de zijde waar deze weg voor het overige verkeer door middel van bord C2 is gesloten, mits dit weggedeelte is gemarkeerd door een doorgetrokken streep.
 
+Plaatsing
+
 1. De borden G7 tot en met G14 mogen aan de linker- of rechterzijde van de weg worden geplaatst.
+
+Uitvoering
 
 1. Deze borden mogen op zelfstandige paden in parken, duinen en boswegen worden uitgevoerd met geringere afmetingen dan type 0.
 
+Borden H1 en H2 (bebouwde kom resp. einde bebouwde kom)
+
+Toepassing
+
 1. De grens van de bebouwde kom, aangegeven door bord H1 en H2, wordt gekenmerkt door het begin van een langs de weg gelegen aaneengesloten bebouwing van zodanige omvang en dichtheid, dat een voor de weggebruiker duidelijk herkenbaar verschil in het karakter van de wegomgeving aanwezig is met een buiten de bebouwde kom gelegen weg. Ter plaatse van de komgrens moet een zodanige wijziging van wegkenmerken voorkomen dat het verschil in karakter van de weg voor en na bord H1 of H2 aldaar zoveel mogelijk benadrukt wordt.
+
+Plaatsing
 
 1. Bord H2 kan links of rechts van de weg of rijbaan worden geplaatst.
 
 2. Beide borden kunnen worden weggelaten langs voetpaden, onverplichte fietspaden en ruiterpaden.
 
+Bord J 9 Rotonde.
+
+Toepassing
+
 1. Dit bord wordt uitsluitend toegepast als vooraanduiding op geruime afstand van een rotonde.
+
+Bord J15 (beweegbare brug)
+
+Plaatsing
 
 1. Buiten de bebouwde kom wordt dit bord bij aanwezigheid van een voorwaarschuwingssein daaronder geplaatst.
 
+Onderborden
+
 1. Indien automatische afsluitbomen aanwezig zijn wordt een onderbord ’slagbomen dalen automatisch’ geplaatst.
+
+Bord J16 (werk in uitvoering)
+
+Toepassing
 
 1. Dit bord wordt uitsluitend tijdelijk toegepast.
 
+Borden J17 tot en met J19 (rijbaanversmalling)
+
+Toepassing
+
 1. Deze borden worden niet gebruikt om het einde van een rijstrook aan te geven.
+
+Borden J21 (kinderen), J23 (voetgangers), J24 (fietsers en bromfietsers)
+
+Toepassing
 
 1. Deze borden worden in het algemeen niet toegepast indien de plaats waar wordt overgestoken, ligt bij een kruising of splitsing van wegen.
 
+Onderborden
+
 1. Indien bord J24 waarschuwt voor fietsverkeer in twee richtingen, wordt dit bord voorzien van een onderbord met twee horizontale, naar elkaar gerichte pijlen.
 
+Bord J25 (losliggende stenen)
+
+Toepassing
+
 1. Dit bord wordt uitsluitend tijdelijk gebruikt.
+
+Bord J29 (tegenliggers)
 
 Plaatsing
 
@@ -539,7 +822,13 @@ Plaatsing
 
 2. Het bord wordt geplaatst aan het begin van een wegvak waar de bestuurder geen tegenliggers verwacht.
 
+Bord J32 (verkeerslichten)
+
+Toepassing
+
 1. Dit bord wordt toegepast in situaties, waar verkeerslichten door bestuurders niet worden verwacht.
+
+Uitvoering
 
 1. Op autosnelwegen wordt dit bord uitgevoerd met twee gele knipperlichten.
 
@@ -547,35 +836,83 @@ Plaatsing
 
 3. Bij uitvoering van het bord in verschijnuitvoering zijn gele knipperlichten niet vereist, behalve op de autoweg en de autosnelweg.
 
+Onderborden
+
 1. Buiten de bebouwde kom wordt de afstand tot de verkeerslichten op een onderbord vermeld.
+
+Verlichting
 
 1. Op autowegen en autosnelwegen is het bord bij duisternis verlicht door een eigen verlichting.
 
+Bord J33 (file)
+
+Uitvoering
+
 1. Dit bord wordt als regel uitgevoerd in verschijnuitvoering.
+
+Onderborden
 
 1. Indien het bord niet is uitgevoerd in verschijnuitvoering, dan wordt op een onderbord aangegeven onder welke omstandigheden filevorming optreedt.
 
+Borden J34 (ongeval); J35 (slecht zicht door sneeuw, regen of mist; J36 (ijzel of sneeuw)
+
+Toepassing
+
 1. Deze borden worden uitsluitend tijdelijk toegepast.
+
+Bord J37 (gevaar)
+
+Toepassing
 
 1. Dit bord wordt alleen toegepast, indien het gevaar niet door een ander bord van bijlage 1 van het RVV 1990 kan worden aangeduid.
 
+Onderborden
+
 1. In alle gevallen wordt de aard van het gevaar op een onderbord aangegeven.
 
+Bord K14
+
+Toepassing
+
 1. Dit bord wordt toegepast om routes aan te duiden waarop krachtens gemeentelijke verordening het vervoer van gevaarlijke stoffen is toegestaan.
+
+Bord L1 (hoogte onderdoorgang)
+
+Toepassing
 
 1. Het getal op het bord is niet kleiner dan 4,0 m en niet groter dan 4,4 m.
 
 2. Het getal op het bord heeft één decimaal en is altijd 0,10 m tot 0,20 m lager dan de gemeten doorrijhoogte.
 
+Plaatsing
+
 1. Dit bord wordt in beginsel boven de rijbaan aangebracht.
+
+Bord L2 (voetgangersoversteekplaats)
+
+Toepassing
 
 1. Dit bord wordt uitsluitend toegepast bij een zebra.
 
+Plaatsing
+
 1. Bij voorkeur wordt dit bord in een middengeleider dan wel boven de rijbaan aangebracht.
+
+Bord L4 (voorsorteren)
+
+Plaatsing
 
 1. De plaatsing van een bord L4 geschiedt op enige afstand voor het begin van de voorsorteervakken.
 
+Bord L5 (einde rijstrook)
+
+Plaatsing
+
 1. De plaatsing van een bord L5 geschiedt voor het einde van de rijstrook of het begin van het verdrijvingsvlak.
+
+Bord L13 Verkeerstunnel
+
+Toepassing
 
 - 1. Het bord wordt geplaatst voor elke tunnel, langer dan 250 meter.
 
@@ -585,15 +922,33 @@ Plaatsing
 
 - 4. Bij tunnels, langer dan 3000 meter, wordt de resterende lengte van de tunnel om de 1000 meter aangegeven.
 
+Plaatsing
+
 Het bord wordt aan elke ingang van de tunnel geplaatst.
+
+Bord L15 Vluchthaven
+
+Toepassing
 
 De aanwezigheid van noodtelefoons en brandblusapparaten wordt aangegeven met bord L 18.
 
+Bord L19 Dichtstbijzijnde uitgang in de op het bord aangegeven richting en afstand
+
+Toepassing en plaatsing
+
 Het bord wordt om de 25 meter op een hoogte van ten hoogste 1,5 meter boven het wegdek op de tunnelwanden geplaatst om aan te geven waar zich de twee dichtstbijzijnde uitgangen bevinden.
 
-De borden worden uitsluitend toegepast op wegen buiten de bebouwde kom met een breedte van minder dan 4 m.
+Borden L20 (uitwijkplaats rechts van de weg) en L21 (uitwijkplaats links van de weg)
 
-Deze borden worden aan de rechterkant, respectievelijk linkerkant, haaks op de as van de rijbaan geplaatst op ca 20 m voor de uitwijkplaats.
+Toepassing
+
+De borden worden uitsluitend toegepast op wegen buiten de bebouwde kom met een breedte van minder dan 4 m.
+
+Plaatsing
+
+Deze borden worden aan de rechterkant, respectievelijk linkerkant, haaks op de as van de rijbaan geplaatst op ca 20 m voor de uitwijkplaats.
+
+Uitvoering
 
 Deze borden worden uitgevoerd in minimaal type 0.
 
@@ -603,7 +958,7 @@ Deze borden worden uitgevoerd in minimaal type 0.
 
 1. Onderborden zijn rechthoekig en worden in wit uitgevoerd met zwarte letters, cijfers en afbeeldingen.
 
-- a. Op onderborden worden waar mogelijk de afbeeldingen gebruikt zoals die voorkomen op de borden van bijlage 1 van het RVV 1990.
+2. - a. Op onderborden worden waar mogelijk de afbeeldingen gebruikt zoals die voorkomen op de borden van bijlage 1 van het RVV 1990.
 
 - b. Om een beperking van de werkingssfeer aan te geven wordt het woord ’uitgezonderd’ gebruikt.
 
@@ -737,20 +1092,18 @@ Uitvoering
 
 ##### Hoofdstuk V. Slotbepalingen
 
-Overgangsbepaling
+1. Overgangsbepaling
 
-1. De verkeerstekens en onderborden, die zijn geplaatst voor de datum van inwerkingtreding van deze regeling, worden geacht te zijn geplaatst overeenkomstig de bepalingen van deze regeling.
+De verkeerstekens en onderborden, die zijn geplaatst voor de datum van inwerkingtreding van deze regeling, worden geacht te zijn geplaatst overeenkomstig de bepalingen van deze regeling.
 
-Intrekking
+2. Intrekking
 
-2. De regeling van de Minister van Verkeer en Waterstaat van 28 juni 1991, nr. RV 93679A, houdende voorschriften over de toepassing, plaatsing en uitvoering van verkeerstekens, uitgezonderd verkeerslichten (Stcrt. 134), wordt ingetrokken.
+De regeling van de Minister van Verkeer en Waterstaat van 28 juni 1991, nr. RV 93679A, houdende voorschriften over de toepassing, plaatsing en uitvoering van verkeerstekens, uitgezonderd verkeerslichten (Stcrt. 134), wordt ingetrokken.
 
-Inwerkingtreding
+3. Inwerkingtreding
 
-3. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-Citeertitel
+4. Citeertitel
 
-4. Deze regeling wordt aangehaald als: [Uitvoeringsvoorschriften BABW inzake verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBR0009104).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: [Uitvoeringsvoorschriften BABW inzake verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBR0009104).

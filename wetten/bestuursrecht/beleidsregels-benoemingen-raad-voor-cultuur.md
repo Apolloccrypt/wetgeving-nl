@@ -1,48 +1,47 @@
 ---
 title: "Beleidsregels benoemingen Raad voor cultuur"
 identifier: "BWBR0008446"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-06-11"
-last_updated: "2024-06-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008446"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "4867453"
-version_id: "7797652"
-internal_id: "C9513941"
-label_id: "4845544"
-dtd_version: "2.0"
-original_entry_into_force: "1997-01-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008446/2024-06-11/0"
-intitule_bron: "Stcrt.1997-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-18"
-intitule_published: "1997-01-13"
-intitule_in_force: "1997-01-13"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-8"
-original_signed_date: "1996-12-18"
-original_published_date: "1997-01-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-01-15"
-jci_1_3: "jci1.3:c:BWBR0008446&z=2024-06-11&g=2024-06-11"
-jci_1_0: "1.0:c:BWBR0008446&g=2024-06-11"
-citeertitel_status: "officieel"
-signed_date: "1996-12-18"
-entry_into_force: "1997-01-15"
+publicatiedatum: 1997-01-15
+laatste_update: 2024-06-11
+status: geldig
+toestand: 2024-06-11
+bron: "https://wetten.overheid.nl/BWBR0008446"
+opgehaald: 2026-08-03
 ---
+
 # Beleidsregels benoemingen Raad voor cultuur
-
-Overwegende dat het wenselijk is beleidsregels vast te stellen met betrekking tot de wijze waarop de voordrachten door de Minister aan de Kroon tot benoeming van leden van de Raad voor cultuur tot stand komen alsmede met betrekking tot de wijze waarop de benoeming van commissieleden van die Raad tot stand komen, en voorts dat het wenselijk is in dat verband een benoemingenadviescommissie in te stellen;
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+de Minister:
+
+de Minister van Onderwijs, Cultuur en Wetenschappen;
+
+b.
+
+de wet:
+
+de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904);
+
+c.
+
+de Raad:
+
+de Raad voor cultuur, bedoeld in [artikel 2a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=2a);
+
+d.
+
+de benoemingenadviescommissie:
+
+de benoemingenadviescommissie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008446&paragraaf=4&artikel=8&z=2024-06-11&g=2024-06-11).
 
 ##### Artikel 1a
 
@@ -54,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1b
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 2. Benoemingsprocedure leden Raad voor cultuur
 
@@ -124,7 +123,7 @@ De Minister voegt aan de benoemingenadviescommissie een secretaris toe.
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -133,5 +132,3 @@ Deze beleidsregels worden aangehaald als: Beleidsregels benoemingen Raad voor cu
 ##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 20 november 1996.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

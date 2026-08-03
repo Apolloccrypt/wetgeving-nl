@@ -1,46 +1,33 @@
 ---
 title: "Regeling uitbetaling vakantie-uitkering"
 identifier: "BWBR0008538"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-07-01"
-last_updated: "1997-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008538"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3613263"
-version_id: "5396372"
-internal_id: "C5589461"
-label_id: "3593254"
-dtd_version: "2.0"
-original_entry_into_force: "1997-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008538/2013-07-01/0"
-intitule_bron: "Stcrt.1997-29"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-02-06"
-intitule_published: "1997-02-11"
-intitule_in_force: "1997-02-11"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-29"
-original_signed_date: "1997-02-06"
-original_published_date: "1997-02-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-02-13"
-jci_1_3: "jci1.3:c:BWBR0008538&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBR0008538&g=2013-07-01"
-citeertitel_status: "officieel"
-signed_date: "1997-02-06"
-entry_into_force: "1997-02-13"
+publicatiedatum: 1997-02-13
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBR0008538"
+opgehaald: 2026-08-03
 ---
+
 # Regeling uitbetaling vakantie-uitkering
-
-Gelet op de [artikelen 33 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=33) en [50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=50), van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+pensioen:
+
+het ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
+
+b.
+
+uitkering:
+
+de nabestaandenuitkering en de wezenuitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795).
 
 ##### Artikel 2
 
@@ -69,5 +56,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling uitbetaling vakantie-uitkering.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

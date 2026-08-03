@@ -1,52 +1,47 @@
 ---
 title: "Regeling bijdragen URBAN-programma’s"
 identifier: "BWBR0008461"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-07-13"
-last_updated: "2001-07-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008461"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4362613"
-version_id: "6119142"
-internal_id: "C6323351"
-label_id: "4341224"
-dtd_version: "2.0"
-original_entry_into_force: "1996-12-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008461/2001-07-13/0"
-intitule_bron: "Stcrt.1996-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-20"
-intitule_published: "1996-12-24"
-intitule_in_force: "1996-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-249"
-original_signed_date: "1996-12-20"
-original_published_date: "1996-12-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-12-26"
-jci_1_3: "jci1.3:c:BWBR0008461&z=2001-07-13&g=2001-07-13"
-jci_1_0: "1.0:c:BWBR0008461&g=2001-07-13"
-citeertitel_status: "officieel"
-signed_date: "1996-12-20"
-entry_into_force: "1996-12-26"
+publicatiedatum: 1996-12-26
+laatste_update: 2001-07-13
+status: geldig
+toestand: 2001-07-13
+bron: "https://wetten.overheid.nl/BWBR0008461"
+opgehaald: 2026-08-03
 ---
-# Regeling bijdragen URBAN-programma’s
 
-Besluit:
+# Regeling bijdragen URBAN-programma’s
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
+a.
+
+de Minister:
+
+de Minister van Binnenlandse Zaken;
+
+b.
+
+de Commissie:
+
+de Commissie van de Europese Gemeenschappen;
+
+c.
+
+operationeel programma:
+
+operationeel programma opgesteld in het kader van het communautair initiatief URBAN voor de uitvoering waarvan de Commissie een bijdrage heeft verleend uit het Europees Fonds voor Regionale Ontwikkeling onderscheidenlijk het Europees Sociaal Fonds.
+
 ##### Artikel 2
 
-Ten behoeve van de uitvoering van de operationele programma’s van de gemeenten Amsterdam, Rotterdam, Den Haag en Utrecht, verstrekt het Rijk een bijdrage van het in kolom A van de bij deze regeling behorende bijlage genoemde bedrag. Dit bedrag kan met toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008461&artikel=6&z=2001-07-13&g=2001-07-13) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008461&artikel=7&z=2001-07-13&g=2001-07-13) worden verminderd.
+Ten behoeve van de uitvoering van de operationele programma’s van de gemeenten Amsterdam, Rotterdam, Den Haag en Utrecht, verstrekt het Rijk een bijdrage van het in kolom A van de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/BWBR0008461) genoemde bedrag. Dit bedrag kan met toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008461&artikel=6&z=2001-07-13&g=2001-07-13) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008461&artikel=7&z=2001-07-13&g=2001-07-13) worden verminderd.
 
 ##### Artikel 3
 
-Ten behoeve van de betaling van kosten in verband met de uitvoering van de operationele programma’s, alsmede ten behoeve van de uitvoering van aanvullende projecten in de wijken waarvoor de operationele programma’s zijn opgesteld, verstrekt het Rijk een bijdrage ter hoogte van het in kolom B van de bij deze regeling behorende bijlage genoemde bedrag.
+Ten behoeve van de betaling van kosten in verband met de uitvoering van de operationele programma’s, alsmede ten behoeve van de uitvoering van aanvullende projecten in de wijken waarvoor de operationele programma’s zijn opgesteld, verstrekt het Rijk een bijdrage ter hoogte van het in kolom B van de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/BWBR0008461) genoemde bedrag.
 
 ##### Artikel 4
 
@@ -91,14 +86,3 @@ Deze regeling wordt aangehaald als: Regeling bijdragen URBAN-programma’s.
 ##### Artikel 12
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-## Bijlage
-
-|   | Kolom A | Kolom B |
-| --- | --- | --- |
-| Amsterdam | f 10.352.500 | f 6.543.750 |
-| Den Haag | f 9.532.500 | f 7.363.750 |
-| Rotterdam | f 9.942.500 | 3.161.250 |
-| Utrecht | f 8.039.075 | f 5.064.675 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,56 +1,24 @@
 ---
 title: "Besluit van 30 januari 1997, houdende regels betreffende een aanvullend beschermingscertificaat voor gewasbeschermingsmiddelen (Besluit certificaat gewasbeschermingsmiddelen)"
+citeertitel: "Besluit certificaat gewasbeschermingsmiddelen"
 identifier: "BWBR0008505"
-country: "nl"
-rank: "amvb"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008505"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "231593"
-version_id: "319592"
-internal_id: "C20581851"
-label_id: "227004"
-dtd_version: "2.0"
-original_entry_into_force: "1997-02-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008505/2002-01-01/0"
-intitule_bron: "Stb.1997-42"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-01-30"
-intitule_published: "1997-02-06"
-intitule_in_force: "1997-02-06"
-intitule_status: "goed"
-original_publication: "Stb.1997-42"
-original_signed_date: "1997-01-30"
-original_published_date: "1997-02-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-42"
-entry_into_force_date: "1997-02-08"
-jci_1_3: "jci1.3:c:BWBR0008505&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0008505&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit certificaat gewasbeschermingsmiddelen"
-signed_date: "1997-01-30"
-entry_into_force: "1997-02-08"
+publicatiedatum: 1997-02-08
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0008505"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 30 januari 1997, houdende regels betreffende een aanvullend beschermingscertificaat voor gewasbeschermingsmiddelen (Besluit certificaat gewasbeschermingsmiddelen)
-
-Op de voordracht van de Staatssecretaris van Economische Zaken van 13 september 1996, nr. 96056959 WJA/W;
-
-Gelet op [verordening (EG) nr. 1610/96](31996R1610) van het Europees Parlement en de Raad van de Europese Unie van 23 juli 1996 betreffende de invoering van een aanvullend beschermingscertificaat voor gewasbeschermingsmiddelen (PbEG L 198) en op [artikel 98 van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=98) ;
-
-De Raad van State gehoord (advies van 10 december 1996, nr. W10.96.0440);
-
-Gezien het nader rapport van de Staatssecretaris van Economische Zaken van 28 januari 1997, nr. 97000144 WJA/W;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. verordening: de [verordening (EG) nr. 1610/96](31996R1610) van het Europees Parlement en de Raad van de Europese Unie van 23 juli 1996 betreffende de invoering van een aanvullend beschermingscertificaat voor gewasbeschermingsmiddelen (**PbEG** L 198);
+- a. verordening: de verordening (EG) nr. 1610/96 van het Europees Parlement en de Raad van de Europese Unie van 23 juli 1996 betreffende de invoering van een aanvullend beschermingscertificaat voor gewasbeschermingsmiddelen (*PbEG* L 198);
 
 - b. basisoctrooi: een octrooi als bedoeld in artikel 1, onder 9, van de verordening;
 
@@ -87,5 +55,3 @@ Dit besluit treedt in werking met ingang van 8 februari 1997.
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit certificaat gewasbeschermingsmiddelen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

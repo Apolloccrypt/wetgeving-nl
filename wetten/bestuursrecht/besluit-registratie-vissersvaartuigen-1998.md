@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 26 januari 1998, houdende vaststelling van het Besluit registratie vissersvaartuigen 1998"
+citeertitel: "Besluit registratie vissersvaartuigen 1998"
 identifier: "BWBR0009353"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009353"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "738633"
-version_id: "14750892"
-internal_id: "C20066371"
-label_id: "715594"
-dtd_version: "2.0"
-original_entry_into_force: "2007-08-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009353/2018-01-01/0"
-intitule_bron: "Stb.1998-61"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-01-26"
-intitule_published: "1998-02-17"
-intitule_in_force: "1998-02-17"
-intitule_status: "goed"
-original_publication: "Stb.2007-317"
-original_signed_date: "2007-08-17"
-original_published_date: "2007-09-13"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2007-317"
-entry_into_force_date: "2007-08-17"
-jci_1_3: "jci1.3:c:BWBR0009353&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0009353&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit registratie vissersvaartuigen 1998"
-signed_date: "2007-08-17"
-entry_into_force: "2007-08-17"
+publicatiedatum: 2007-08-17
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0009353"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 26 januari 1998, houdende vaststelling van het Besluit registratie vissersvaartuigen 1998
-
-Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij van 4 december 1997, nr. J. 9713365, Directie Juridische Zaken;
-
-Gelet op [artikel 3 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=3);
-
-De Raad van State gehoord (advies van 17 december 1997, no. W11.97.0777);
-
-Gezien het nader rapport van Onze Minister van Landbouw, Natuurbeheer en Visserij van 19 januari 1998, No. J. 98360, Directie Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -54,9 +22,9 @@ In afwijking in zoverre van [artikel 1, eerste lid, van de Uitvoeringwet Visseri
 
 - b. vissersvaartuig:
 
-- 1°. vissersvaartuig als bedoeld in artikel 4, eerste lid, punt 4, van Verordening (EU) nr. 1380/2013 van het Europees Parlement en de Raad van 11 december 2013 inzake het gemeenschappelijk visserijbeleid, tot wijziging van [Verordeningen (EG) nr. 1954/2003](32003R1954) en [(EG) nr. 1224/2009](32009R1224) van de Raad en tot intrekking van Verordeningen (EG) nr. [2371/2002](32002R2371) en (EG) nr. [639/2004](32004R0639) van de Raad en Besluit [2004/585/EG](32485R2004) van de Raad (PbEU 2013, L 354), dat geldt als Nederlands op grond van [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=1), of
+   - 1°. vissersvaartuig als bedoeld in artikel 4, eerste lid, punt 4, van Verordening (EU) nr. 1380/2013 van het Europees Parlement en de Raad van 11 december 2013 inzake het gemeenschappelijk visserijbeleid, tot wijziging van Verordeningen (EG) nr. 1954/2003 en (EG) nr. 1224/2009 van de Raad en tot intrekking van Verordeningen (EG) nr. 2371/2002 en (EG) nr. 639/2004 van de Raad en Besluit 2004/585/EG van de Raad (PbEU 2013, L 354), dat geldt als Nederlands op grond van [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=1), of
 
-- 2°. vaartuig dat is uitgerust voor de commerciële exploitatie van vis in het IJsselmeer;
+   - 2°. vaartuig dat is uitgerust voor de commerciële exploitatie van vis in het IJsselmeer;
 
 - c. eigenaar: natuurlijke of rechtspersoon die de eigendom heeft;
 
@@ -64,7 +32,7 @@ In afwijking in zoverre van [artikel 1, eerste lid, van de Uitvoeringwet Visseri
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
@@ -95,6 +63,14 @@ Het is verboden een vissersvaartuig te gebruiken indien dat vaartuig niet het le
 - c. Onze Minister geen reden heeft de juistheid van de bij de aanvraag vermelde opgaven of verstrekte gegevens in twijfel te trekken.
 
 4. Onze Minister kan besluiten tot doorhaling van een inschrijving in het visserijregister indien blijkt dat de door de eigenaar van het desbetreffende vissersvaartuig bij zijn aanvraag vermelde opgaven of verstrekte gegevens niet overeenstemmen met de werkelijkheid.
+
+##### Artikel 6a
+
+1. Onze Minister doet de eigenaar van een vaartuig een bewijs van inschrijving in het visserijregister toekomen.
+
+2. Een ten behoeve van het vissersvaartuig verleende visvergunning als bedoeld in artikel 6, eerste lid van Verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen, tot wijziging van Verordeningen (EG) nr. 847/96, (EG) nr. 2371/2002, (EG) nr. 811/2004, (EG) nr. 768/2005, (EG) nr. 2115/2005, (EG) nr. 2166/2005, (EG) nr. 388/2006, (EG) nr. 509/2007, (EG) nr. 676/2007, (EG) nr. 1098/2007, (EG) nr. 1300/2008, (EG) nr. 1342/2008 en tot intrekking van Verordeningen (EEG) nr. 2847/93, (EG) nr. 1627/94 en (EG) nr. 1966/2006 (PbEU 2009, L 343), geldt als bewijs van inschrijving in het visserijregister als bedoeld in het eerste lid.
+
+3. De visvergunning, bedoeld in het tweede lid, geldt tevens als het document, bedoeld in [artikel 2, eerste lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2).
 
 ##### Artikel 7
 
@@ -132,13 +108,17 @@ Onze Minister kan de inschrijving in het visserijregister, bedoeld in [artikel 6
 
 2. Een bewijs, verkregen op grond van het [Besluit nationaliteitsbewijs vissersvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002930), wordt beschouwd als het document, bedoeld in [artikel 2, eerste lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2).
 
+##### Artikel 10a
+
+Dit besluit berust mede op [artikel 2, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2).
+
 ##### Artikel 11
 
-Wijzigt het Besluit nationaliteitsbewijs vissersvaartuigen.
+*Wijzigt het Besluit nationaliteitsbewijs vissersvaartuigen.*
 
 ##### Artikel 12
 
-Wijzigt het Reglement zee- en kustvisserij 1977.
+*Wijzigt het Reglement zee- en kustvisserij 1977.*
 
 ##### Artikel 13
 
@@ -151,19 +131,3 @@ Dit besluit treedt in werking met ingang van 1 maart 1998.
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit registratie vissersvaartuigen 1998.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-1. Onze Minister doet de eigenaar van een vaartuig een bewijs van inschrijving in het visserijregister toekomen.
-
-2. Een ten behoeve van het vissersvaartuig verleende visvergunning als bedoeld in artikel 6, eerste lid van Verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen, tot wijziging van Verordeningen (EG) nr. 847/96, (EG) nr. 2371/2002, (EG) nr. 811/2004, (EG) nr. 768/2005, (EG) nr. 2115/2005, (EG) nr. 2166/2005, (EG) nr. 388/2006, (EG) nr. 509/2007, (EG) nr. 676/2007, (EG) nr. 1098/2007, (EG) nr. 1300/2008, (EG) nr. 1342/2008 en tot intrekking van Verordeningen (EEG) nr. 2847/93, (EG) nr. 1627/94 en (EG) nr. 1966/2006 (PbEU 2009, L 343), geldt als bewijs van inschrijving in het visserijregister als bedoeld in het eerste lid.
-
-3. De visvergunning, bedoeld in het tweede lid, geldt tevens als het document, bedoeld in [artikel 2, eerste lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2).
-
-##### Artikel 10a
-
-Dit besluit berust mede op [artikel 2, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

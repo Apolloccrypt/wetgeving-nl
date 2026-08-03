@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0052194"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-03
 ---
 
 # Wet van 16 december 2025 tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling)

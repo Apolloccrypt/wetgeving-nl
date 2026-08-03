@@ -1,26 +1,24 @@
 ---
-title: "Wet op de huurtoeslag"
+title: "Wet van 24 april 1997, houdende nieuwe regels over het verstrekken van huursubsidies (Huursubsidiewet)"
+citeertitel: "Wet op de huurtoeslag"
 identifier: "BWBR0008659"
 categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-04-18
+soort: "wet"
+publicatiedatum: 1998-07-01
+laatste_update: 2026-01-01
 status: geldig
+toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0008659"
+opgehaald: 2026-08-03
 ---
 
-# Wet op de huurtoeslag
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de Wet individuele huursubsidie te herzien, ter matiging van de huurlasten van huishoudens met lagere inkomens, ter vereenvoudiging van de wettelijke bepalingen, alsmede ter vergroting van de doelmatigheid van de huursubsidieverstrekking;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+# Wet van 24 april 1997, houdende nieuwe regels over het verstrekken van huursubsidies (Huursubsidiewet)
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
@@ -30,9 +28,9 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 - c. huurder: persoon die zijn hoofdverblijf heeft in een door hem gehuurde woning, daaronder begrepen een woonwagen, tenzij:
 
-  - 1°. de overeenkomst van huur en verhuur een gebruik van de woning betreft dat naar zijn aard slechts van korte duur is, of
+   - 1°. de overeenkomst van huur en verhuur een gebruik van de woning betreft dat naar zijn aard slechts van korte duur is, of
 
-  - 2°. de woning onderdeel uitmaakt van een hotel-, pension-, kamp- of vakantiebestedingsbedrijf, ongeacht de duur van de huurovereenkomst;
+   - 2°. de woning onderdeel uitmaakt van een hotel-, pension-, kamp- of vakantiebestedingsbedrijf, ongeacht de duur van de huurovereenkomst;
 
 - d. huurprijs: de prijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van een woning;
 
@@ -52,7 +50,7 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 - l. woonwagen: voor bewoning bestemd gebouw dat is geplaatst op een standplaats en dat in zijn geheel of in delen kan worden verplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Op deze wet is de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472), met uitzondering van [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=6), van toepassing.
 
@@ -62,7 +60,7 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 #### § 2. In aanmerking te nemen bewoningssituatie en huur
 
-#### Artikel 2
+##### Artikel 2
 
 In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
@@ -70,15 +68,15 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 - b. meerpersoonshuishouden: het huishouden van een huurder die samen met diens partner of een of meer medebewoners een woning bewoont.
 
-#### Artikel 3
+##### Artikel 3
 
-Vervallen
+*Vervallen*
 
-#### Artikel 4
+##### Artikel 4
 
-Vervallen
+*Vervallen*
 
-#### Artikel 5
+##### Artikel 5
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder rekenhuur:
 
@@ -88,27 +86,31 @@ Vervallen
 
 2. Bij de toepassing van het eerste lid kan het in onderdeel b van dat lid bedoelde bedrag slechts in plaats van de verschuldigde huurprijs in aanmerking worden genomen nadat, op verzoek van de Dienst Toeslagen, de huurcommissie, dan wel de voorzitter van de huurcommissie, aan de Dienst Toeslagen en aan de huurder advies heeft uitgebracht, dan wel een verklaring heeft verstrekt, over de redelijk te achten huurprijs. Bij algemene maatregel van bestuur kunnen omtrent die verklaring nadere regels worden gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 2. Het recht op huurtoeslag
 
 #### § 1. Algemeen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het recht op en de hoogte van de huurtoeslag is afhankelijk van de draagkracht, waaronder begrepen het vermogen, van de huurder, diens partner en de medebewoners.
 
 2. Ten aanzien van een bepaalde woning kan slechts aan één huurder een huurtoeslag worden toegekend.
 
-#### § 2. Eisen aan de huurder en de medebewoners
+##### Artikel 7a
 
-#### Artikel 8
+*Vervallen*
+
+#### § 2. Eisen aan de huurder, diens partner en de medebewoners
+
+##### Artikel 8
 
 Een huurtoeslag wordt slechts toegekend aan een huurder die meerderjarig is.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een huurtoeslag wordt slechts toegekend:
 
@@ -118,13 +120,13 @@ Een huurtoeslag wordt slechts toegekend aan een huurder die meerderjarig is.
 
 2. In afwijking van het eerste lid kan een huurtoeslag worden toegekend, als de onjuiste inschrijving in de basisregistratie personen niet aan de huurder kan worden toegerekend.
 
-#### Artikel 10
+##### Artikel 10
 
-Vervallen
+De huurder die tijdelijke bescherming geniet als bedoeld in [artikel 1 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1) omdat hij onder de reikwijdte valt van het Uitvoeringsbesluit (EU) 2022/382 van de Raad van 4 maart 2022 tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van Richtlijn 2001/55/EG, en tot invoering van tijdelijke bescherming naar aanleiding daarvan (PbEU 2022, L 71/1) of een verlenging van dat besluit, heeft recht op huurtoeslag.
 
 #### § 3. Eisen aan de woning
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een huurtoeslag wordt slechts toegekend voor de huur van een woning die:
 
@@ -140,55 +142,55 @@ Vervallen
 
 - b. voldoet aan de eisen, daaraan gesteld krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
-#### Artikel 12
+##### Artikel 12
 
-Vervallen
+*Vervallen*
 
-#### Artikel 13
+##### Artikel 13
 
 1. De maximale huurgrens is:
 
-- a. € 932,93 per maand als:
+- a. € 932,93 per maand als:
 
-  - 1º. de huurder, diens partner of een van de medebewoners 21 jaar of ouder is, dan wel de woning deelt met een kind of pleegkind van de huurder, diens partner of een medebewoner of
+   - 1º. de huurder, diens partner of een van de medebewoners 21 jaar of ouder is, dan wel de woning deelt met een kind of pleegkind van de huurder, diens partner of een medebewoner of
 
-  - 2º. de huurder, diens partner of de medebewoner jonger dan 21 jaar is, en een handicap heeft of
+   - 2º. de huurder, diens partner of de medebewoner jonger dan 21 jaar is, en een handicap heeft of
 
-- b. € 498,20 per maand in andere gevallen dan bedoeld onder a.
+- b. € 498,20 per maand in andere gevallen dan bedoeld onder a.
 
-2. De in het eerste lid, onder a en b, genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2026-01-01&g=2026-01-01).
+2. De in het eerste lid, onder a en b, genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2026-01-01&g=2026-01-01).
 
 #### § 4. Eisen aan de financiële positie
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het norminkomen bedraagt:
 
-- a. € 29.400 bij een eenpersoonshuishouden;
+- a. € 29.400 bij een eenpersoonshuishouden;
 
-- b. € 39.925 bij een meerpersoonshuishouden;
+- b. € 39.925 bij een meerpersoonshuishouden;
 
-- c. € 28.089,78 bij een eenpersoonsouderenhuishouden;
+- c. € 28.089,78 bij een eenpersoonsouderenhuishouden;
 
-- d. € 37.183,99 bij een meerpersoonsouderenhuishouden.
+- d. € 37.183,99 bij een meerpersoonsouderenhuishouden.
 
-2. Het norminkomen, genoemd in het eerste lid, onderdelen c en d, wordt vermeerderd met € 665 onderscheidenlijk € 1 462.
+2. Het norminkomen, genoemd in het eerste lid, onderdelen c en d, wordt vermeerderd met € 665 onderscheidenlijk € 1 462.
 
-3. De in het eerste lid genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2026-01-01&g=2026-01-01).
+3. De in het eerste lid genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 15
+##### Artikel 15
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk 3. De hoogte van de huursubsidie
+### Hoofdstuk 3. De hoogte van de huurtoeslag
 
-#### § 1. Normhuur
+#### § 1. Basishuur en normhuur
 
-#### Artikel 16
+##### Artikel 16
 
-De basishuur is het gedeelte van de rekenhuur dat minimaal voor rekening van de huurder blijft. De basishuur is het overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-01&g=2026-01-01) berekende bedrag van de normhuur verhoogd met € 12 per 1 januari 2023 bij Stb. 2022/528: € 0.In Stb. 2023/494 wordt de basishuur aangepast vanaf 1 januari 2024..
+De basishuur is het gedeelte van de rekenhuur dat minimaal voor rekening van de huurder blijft. De basishuur is het overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-01&g=2026-01-01) berekende bedrag van de normhuur verhoogd met € 12 *per 1 januari 2023 bij Stb. 2022/528: € 0.**In Stb. 2023/494 wordt de basishuur aangepast vanaf 1 januari 2024.*.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het minimum-inkomensijkpunt wordt verkregen door:
 
@@ -196,7 +198,7 @@ De basishuur is het gedeelte van de rekenhuur dat minimaal voor rekening van de 
 
 - b. voor een meerpersoonshuishouden: de uitkomst van twee maal het bedrag van het bruto- ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9), zoals dat bedrag naar redelijke verwachting in het berekeningsjaar zal luiden, vermeerderd met het bedrag van de bruto-vakantie-uitkering, vastgesteld overeenkomstig [artikel 29, eerste lid, aanhef en onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=29), zoals dat bedrag naar redelijke verwachting in het berekeningsjaar zal luiden, te herrekenen naar een jaarinkomen in het berekeningsjaar en dat jaarinkomen te vermeerderen met € 2 512.
 
-2. Bij het minimum-inkomensijkpunt behoort een normhuur van € 252,49.
+2. Bij het minimum-inkomensijkpunt behoort een normhuur van € 252,49.
 
 3. De normhuur, bedoeld in het tweede lid, wordt verlaagd met:
 
@@ -204,33 +206,33 @@ De basishuur is het gedeelte van de rekenhuur dat minimaal voor rekening van de 
 
 - b. € 3,63 als sprake is van een meerpersoonshuishouden.
 
-4. Het in het tweede lid genoemde bedrag wordt met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2026-01-01&g=2026-01-01).
+4. Het in het tweede lid genoemde bedrag wordt met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 18
+##### Artikel 18
 
-Vervallen
+*Vervallen*
 
-#### Artikel 19
+##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 #### § 2. Kwaliteitskortings- en aftoppingsgrens
 
-#### Artikel 20
+##### Artikel 20
 
-1. De kwaliteitskortingsgrens is € 498,20 per maand.
+1. De kwaliteitskortingsgrens is € 498,20 per maand.
 
 2. De aftoppingsgrens is:
 
-- a. € 713,02 per maand als het huishouden van de huurder, afgezien van eventuele onderhuurders en personen die tot diens huishouden behoren, uit één of twee personen bestaat;
+- a. € 713,02 per maand als het huishouden van de huurder, afgezien van eventuele onderhuurders en personen die tot diens huishouden behoren, uit één of twee personen bestaat;
 
-- b. € 764,14 per maand als het huishouden van de huurder, afgezien van eventuele onderhuurders en personen die tot diens huishouden behoren, uit drie of meer personen bestaat.
+- b. € 764,14 per maand als het huishouden van de huurder, afgezien van eventuele onderhuurders en personen die tot diens huishouden behoren, uit drie of meer personen bestaat.
 
-3. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2026-01-01&g=2026-01-01).
+3. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2026-01-01&g=2026-01-01).
 
-#### § 2. Kwaliteitskortings- en aftoppingsgrens
+#### § 3. Berekening van de huurtoeslag
 
-#### Artikel 21
+##### Artikel 21
 
 1. De hoogte van de huurtoeslag wordt als volgt bepaald:
 
@@ -254,241 +256,241 @@ afbouwpercentage:
 
 - b. 22% voor meerpersoonshuishoudens.
 
-#### Artikel 22
+##### Artikel 22
 
-Vervallen
+*Vervallen*
 
-#### Artikel 22a
+##### Artikel 22a
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk 4. Wijzigingen van omstandigheden, hardheidsbepaling
+### Hoofdstuk 4. Wijzigingen van omstandigheden
 
-#### Artikel 23
+##### Artikel 23
 
 Bij verhuizing van de huurder blijft het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), bedoelde recht op huurtoeslag in stand, mits hij de woning naar welke hij verhuist huurt en vervolgens bewoont en ook overigens aan de voorwaarden voor verkrijging van huurtoeslag wordt voldaan. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 24
+##### Artikel 24
 
-Vervallen
+*Vervallen*
 
-#### Artikel 25
+##### Artikel 25
 
-Vervallen
+*Vervallen*
 
-#### Artikel 26
+##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4A. Bijzondere bijdrage in de huurlasten
 
-#### Artikel 26a
+##### Artikel 26a
 
-Vervallen
+*Vervallen*
 
-#### Artikel 26b
+##### Artikel 26b
 
-Vervallen
+*Vervallen*
 
-#### Artikel 26c
+##### Artikel 26c
 
-Vervallen
+*Vervallen*
 
-#### Artikel 26d
+##### Artikel 26d
 
-Vervallen
+*Vervallen*
 
-#### Artikel 26e
+##### Artikel 26e
 
-Vervallen
+*Vervallen*
 
-#### Artikel 26f
+##### Artikel 26f
 
-Vervallen
+*Vervallen*
 
-#### Artikel 26g
+##### Artikel 26g
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. Aanpassing van bedragen
 
-#### Artikel 27
+##### Artikel 27
 
-1. Bij ministeriële regeling worden met ingang van 1 januari van elk jaar de bedragen, genoemd in de [artikelen 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01) (maximale huurgrens), en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01) (norminkomen), gewijzigd met de factor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), met dien verstande dat in het eerste en tweede lid van laatstgenoemd artikel voor «kalenderjaar» telkens wordt gelezen «berekeningsjaar» en dat in het tweede lid van dat artikel voor «Consumentenprijsindex Alle Huishoudens afgeleid» wordt gelezen «Consumentenprijsindex Alle Huishoudens».
+1. Bij ministeriële regeling worden met ingang van 1 januari van elk jaar de bedragen, genoemd in de [artikelen 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01) (maximale huurgrens), en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01) (norminkomen), gewijzigd met de factor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), met dien verstande dat in het eerste en tweede lid van laatstgenoemd artikel voor «kalenderjaar» telkens wordt gelezen «berekeningsjaar» en dat in het tweede lid van dat artikel voor «Consumentenprijsindex Alle Huishoudens afgeleid» wordt gelezen «Consumentenprijsindex Alle Huishoudens».
 
 2. Naast de wijziging op grond van het eerste lid kan het bedrag, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01) (norminkomen), bij ministeriële regeling worden gewijzigd ter voorkoming van onbedoelde gevolgen van maatregelen met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
 
-3. Bij ministeriële regeling worden, met ingang van 1 januari van elk jaar, de bedragen, genoemd in de [artikelen 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01) (maximale huurgrens), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-01&g=2026-01-01) (bij minimum-inkomensijkpunt behorende normhuur), en [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2026-01-01&g=2026-01-01) (kwaliteitskortingsgrens en aftoppingsgrenzen), gewijzigd met het percentage van de huurprijsontwikkeling, zoals die naar redelijke verwachting in het tijdvak dat loopt van 1 juli van het aan het berekeningsjaar voorafgaande jaar tot 1 juli van het berekeningsjaar zal plaatsvinden.
+3. Bij ministeriële regeling worden, met ingang van 1 januari van elk jaar, de bedragen, genoemd in de [artikelen 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01) (maximale huurgrens), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-01&g=2026-01-01) (bij minimum-inkomensijkpunt behorende normhuur), en [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2026-01-01&g=2026-01-01) (kwaliteitskortingsgrens en aftoppingsgrenzen), gewijzigd met het percentage van de huurprijsontwikkeling, zoals die naar redelijke verwachting in het tijdvak dat loopt van 1 juli van het aan het berekeningsjaar voorafgaande jaar tot 1 juli van het berekeningsjaar zal plaatsvinden.
 
-4. Bij ministeriële regeling wordt elk jaar, na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid, de hoogte vastgesteld van de bedragen, zoals die met ingang van 1 januari krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-01&g=2026-01-01), als minimum-inkomensijkpunten gelden.
+4. Bij ministeriële regeling wordt elk jaar, na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid, de hoogte vastgesteld van de bedragen, zoals die met ingang van 1 januari krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-01&g=2026-01-01), als minimum-inkomensijkpunten gelden.
 
 5. De bedragen, bedoeld in het eerste, tweede en derde lid, worden naar boven afgerond op hele eurocenten, met uitzondering van de norminkomens, bedoeld in [artikel 14, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01) (maximum inkomen bij een- en meerpersoonshuishoudens), die naar boven worden afgerond op een veelvoud van € 25. De bedragen, bedoeld in het vierde en vijfde lid, en de som van de bedragen, genoemd in artikel 14, eerste lid, onderdelen c of d, en bedoeld in artikel 14, tweede lid (maximum inkomen bij een- en meerpersoonsouderenhuishoudens), worden naar boven afgerond op een veelvoud van € 25. Bij een volgende wijziging van de norminkomens en de bedragen, bedoeld in het vijfde lid, wordt uitgegaan van de bedragen zoals die waren, voordat zij werden afgerond.
 
-6. De overeenkomstig het eerste tot en met vijfde lid vastgestelde, vanaf 1 januari geldende minimum-inkomensijkpunten, referentie-inkomensijkpunten, maximale inkomensgrenzen, normhuren, de als gevolg daarvan voor de onderscheiden typen huishouden gewijzigde factoren, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=19&z=2026-01-01&g=2026-01-01), maximale huur-, kwaliteitskortings- en aftoppingsgrenzen, worden elk jaar uiterlijk op 1 november daaraan voorafgaand in de Staatscourant bekendgemaakt.
+6. De overeenkomstig het eerste tot en met vijfde lid vastgestelde, vanaf 1 januari geldende minimum-inkomensijkpunten, referentie-inkomensijkpunten, maximale inkomensgrenzen, normhuren, de als gevolg daarvan voor de onderscheiden typen huishouden gewijzigde factoren, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=19&z=2026-01-01&g=2026-01-01), maximale huur-, kwaliteitskortings- en aftoppingsgrenzen, worden elk jaar uiterlijk op 1 november daaraan voorafgaand in de Staatscourant bekendgemaakt.
 
 7. Bij algemene maatregel van bestuur kunnen de bedragen, genoemd in de artikelen [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=16&z=2026-01-01&g=2026-01-01) (verhoging van de normhuur), en [17, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-01&g=2026-01-01) (toeslag bij minimum-inkomensijkpunt), en derde lid, onderdelen a en b (verlaging van de normhuur bij minimum-inkomensijkpunt), hoger of lager worden gesteld.
 
 8. Bij ministeriële regeling kan het afbouwpercentage, bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=3&artikel=21&z=2026-01-01&g=2026-01-01), worden gewijzigd voor zover de wijziging van de jaarinkomens, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-01&g=2026-01-01), onbedoeld afwijkt van de wijziging welke naar verwachting plaats zal vinden met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
 
-### Hoofdstuk 5. Aanpassing van bedragen
+### Hoofdstuk 6. Hulp- en informatiepunten
 
-#### Artikel 28
+##### Artikel 28
 
 1. Burgemeester en wethouders bevorderen dat binnen hun gemeente een of meer voorzieningen tot stand komen die de dienstverlening, voortvloeiende uit de uitvoering van deze wet en van de Algemene wet inkomensafhankelijke regelingen, welke ten goede komt aan de huurders, verbeteren.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van de taken en van de inrichting van de voorzieningen, bedoeld in het eerste lid.
 
-#### Artikel 29
+##### Artikel 29
 
-Vervallen
+*Vervallen*
 
-#### Artikel 30
+##### Artikel 30
 
-Vervallen
+*Vervallen*
 
-#### Artikel 30a
+##### Artikel 30a
 
-Vervallen
+*Vervallen*
 
-#### Artikel 30aa
+##### Artikel 30aa
 
-Vervallen
+*Vervallen*
 
-#### Artikel 30ab
+##### Artikel 30ab
 
-Vervallen
+*Vervallen*
 
-#### Artikel 30b
+##### Artikel 30b
 
-Vervallen
+*Vervallen*
 
-#### Artikel 30c
+##### Artikel 30c
 
-Vervallen
+*Vervallen*
 
-#### Artikel 30d
+##### Artikel 30d
 
-Vervallen
+*Vervallen*
 
-#### Artikel 31
+##### Artikel 31
 
-Vervallen
+*Vervallen*
 
-#### Artikel 32
+##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 7. Informatieplicht, verificatie, opschorting, herziening en terugvordering
 
-#### Artikel 33
+##### Artikel 33
 
-Vervallen
+*Vervallen*
 
-#### Artikel 34
+##### Artikel 34
 
-Vervallen
+*Vervallen*
 
-#### Artikel 35
+##### Artikel 35
 
-Vervallen
+*Vervallen*
 
-#### Artikel 36
+##### Artikel 36
 
-Vervallen
+*Vervallen*
 
-#### Artikel 37
+##### Artikel 37
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk 8. Beperking huursubsidietoekenning boven de aftoppingsgrens
+### Hoofdstuk 8. Beperking huurtoeslagtoekenning boven de aftoppingsgrens
 
-#### § 1. Beperking huursubsidietoekenning boven de aftoppingsgrens
+##### Artikel 38
 
-#### Artikel 38
+*Vervallen*
 
-Vervallen
+##### Artikel 39
 
-#### Artikel 39
+*Vervallen*
 
-Vervallen
+##### Artikel 40
 
-#### Artikel 40
+*Vervallen*
 
-Vervallen
+##### Artikel 41
 
-#### § 2. Normering van het huursubsidiebudget van het Rijk
+*Vervallen*
 
-#### Artikel 41
+##### Artikel 42
 
-Vervallen
+*Vervallen*
 
-#### Artikel 42
+##### Artikel 43
 
-Vervallen
+*Vervallen*
 
-#### Artikel 43
+##### Artikel 44
 
-Vervallen
+*Vervallen*
 
-#### Artikel 44
+##### Artikel 45
 
-Vervallen
-
-#### Artikel 45
-
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 9. Gemeentelijk woonlastenfonds en experimenten
 
-#### Artikel 46
+##### Artikel 46
 
-Vervallen
+*Vervallen*
 
-#### Artikel 47
+##### Artikel 47
 
-Vervallen
+*Vervallen*
 
-#### Artikel 48
+##### Artikel 48
 
-Vervallen
+*Vervallen*
 
-#### Artikel 48a
+##### Artikel 48a
 
-Vervallen
+*Vervallen*
 
-#### Artikel 48b
+##### Artikel 48b
 
-Vervallen
+*Vervallen*
 
-#### Artikel 49
+##### Artikel 48c
+
+De Dienst Toeslagen verstrekt op verzoek aan burgemeester en wethouders de voor de uitvoering ten behoeve van het doen van uitkeringen uit een bij verordening op basis van [artikel 108 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=108) ingesteld gemeentelijk woonlastenfonds benodigde gegevens behoudens het bepaalde in [artikel 38a van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38a), uitsluitend ten behoeve van dat woonlastenfonds.
+
+##### Artikel 49
 
 1. De Dienst Toeslagen kan voor de huur van nader door Onze Minister aangewezen woningen of categorieën van woningen een huurtoeslag toekennen in afwijking van de [artikelen 1, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01), en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01), ten behoeve van experimenten die naar het oordeel van Onze Minister in het belang van de volkshuisvesting zijn. Onze Minister bepaalt hierbij vooraf de duur van het experiment.
 
 2. De Dienst Toeslagen kan op verzoek van Onze Minister na afsluiting van het experiment af blijven wijken van de in het eerste lid genoemde artikelen, voor zover het de bewoners betreft die tijdens de duur van het experiment een huurtoeslag ontvingen met toepassing van het eerste lid en zolang een door Onze Minister op basis van het experiment noodzakelijk geoordeelde wijziging van deze wet nog niet van kracht is geworden en in werking is getreden.
 
-#### Artikel 50
+##### Artikel 50
 
 De voordracht voor een algemene maatregel van bestuur krachtens de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=3&artikel=21&z=2026-01-01&g=2026-01-01), en [27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2026-01-01&g=2026-01-01), wordt niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd en sedert die overlegging vier weken zijn verstreken.
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
-#### Artikel 51
+##### Artikel 51
 
-Vervallen
+*Vervallen*
 
-#### Artikel 52
+##### Artikel 52
 
-Vervallen
+*Vervallen*
 
-#### Artikel 53
+##### Artikel 53
 
-Vervallen
+*Vervallen*
 
-#### Artikel 54
+##### Artikel 54
 
 De Wet individuele huursubsidie wordt ingetrokken.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Op subsidietijdvakken die zijn aangevangen onder de werking van de Wet individuele huursubsidie blijven de daarop vóór de inwerkingtreding van de Huursubsidiewet geldende bepalingen van toepassing. Gedurende de eerste vijf subsidiejaren na de inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=44&z=2026-01-01&g=2026-01-01), wordt de huursubsidie-uitgavennorm zodanig lager vastgesteld dan uit [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=41&z=2026-01-01&g=2026-01-01) voortvloeit, dat een eventuele overschrijding van de huursubsidie-uitgavennorm die is ontstaan gedurende het eerste subsidiejaar na inwerkingtreding van deze wet, wordt tenietgedaan.
 
@@ -496,27 +498,31 @@ De Wet individuele huursubsidie wordt ingetrokken.
 
 3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01) blijft buiten toepassing ten aanzien van een huurder van onzelfstandige woonruimte, anders dan bedoeld in dat artikel, indien die woonruimte onmiddellijk voorafgaand aan het moment dat de Wet individuele huursubsidie werd ingetrokken, was aangewezen als woonruimte aan de huurder waarvan een bijdrage op voet van die wet kon worden verstrekt.
 
-4. Vervallen.
+4. *Vervallen.*
 
-5. Bij de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), en bij de toepassing van [artikel 7 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) kan de Dienst Toeslagen op verzoek van de huurder het op 31 december 2005 van kracht zijnde beleid toepassen dat Onze Minister heeft getroffen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) en [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=26&z=2026-01-01&g=2026-01-01), eerste lid, zoals die artikelen onmiddellijk voorafgaand aan de inwerkingtreding van de [Aanpassingswet Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018471) luidden.
+5. Bij de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), en bij de toepassing van [artikel 7 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) kan de Dienst Toeslagen op verzoek van de huurder het op 31 december 2005 van kracht zijnde beleid toepassen dat Onze Minister heeft getroffen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) en [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=26&z=2026-01-01&g=2026-01-01), eerste lid, zoals die artikelen onmiddellijk voorafgaand aan de inwerkingtreding van de [Aanpassingswet Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018471) luidden.
 
 6. Het vijfde lid geldt uitsluitend in bij of krachtens algemene maatregel van bestuur vast te stellen gevallen.
 
-#### Artikel 56
+##### Artikel 56
 
-Vervallen
+*Vervallen*
 
-#### Artikel 56a
+##### Artikel 56a
 
-Vervallen
+*Vervallen*
 
-#### Artikel 57
+##### Artikel 56b
+
+*Vervallen*
+
+##### Artikel 57
 
 1. Onze Minister brengt jaarlijks verslag uit aan de Staten-Generaal over de werking van deze wet.
 
 2. Onverminderd het bepaalde in het eerste lid zendt Onze Minister binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 58
+##### Artikel 58
 
 1. Deze wet treedt in werking met ingang van 1 juli van een bij koninklijk besluit te bepalen jaar, met uitzondering van artikel 4, eerste lid, dat zes maanden later in werking treedt, en met uitzondering van artikel 10, dat in werking treedt op het tijdstip, bedoeld in artikel 56.
 
@@ -526,84 +532,6 @@ Vervallen
 
 4. Het derde lid blijft buiten toepassing als deze wet met ingang van 1 juli 1997 in werking treedt.
 
-#### Artikel 59
+##### Artikel 59
 
 Deze wet wordt aangehaald als: Wet op de huurtoeslag.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Artikel 48c
-
-De Dienst Toeslagen verstrekt op verzoek aan burgemeester en wethouders de voor de uitvoering ten behoeve van het doen van uitkeringen uit een bij verordening op basis van [artikel 108 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=108) ingesteld gemeentelijk woonlastenfonds benodigde gegevens behoudens het bepaalde in [artikel 38a van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38a), uitsluitend ten behoeve van dat woonlastenfonds.
-
-### Hoofdstuk 10. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Artikel 56b
-
-Vervallen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 9. Bestuurlijke informatievoorziening, administratie, toezicht op de naleving, gemeentelijk woonlastenfonds en experimenten
-
-### Hoofdstuk 10. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Artikel 7a
-
-Vervallen
-
-#### § 2. Eisen aan de huurder, diens partner en de medebewoners
-
-#### § 3. Eisen aan de woning
-
-#### § 4. Eisen aan de financiële positie
-
-### Hoofdstuk 3. De hoogte van de huurtoeslag
-
-#### § 1. Basishuur en normhuur
-
-#### § 2. Kwaliteitskortings- en aftoppingsgrens
-
-#### § 3. Berekening van de huurtoeslag
-
-### Hoofdstuk 4. Wijzigingen van omstandigheden
-
-### Hoofdstuk 4A. Bijzondere bijdrage in de huurlasten
-
-### Hoofdstuk 5. Aanpassing van bedragen
-
-### Hoofdstuk 6. Hulp- en informatiepunten
-
-### Hoofdstuk 7. Informatieplicht, verificatie, opschorting, herziening en terugvordering
-
-### Hoofdstuk 8. Beperking huurtoeslagtoekenning boven de aftoppingsgrens
-
-### Hoofdstuk 9. Gemeentelijk woonlastenfonds en experimenten
-
-#### Artikel 10
-
-Vervallen
-
-#### § 3. Eisen aan de woning
-
-#### § 4. Eisen aan de financiële positie
-
-### Hoofdstuk 3. De hoogte van de huurtoeslag
-
-#### § 1. Basishuur en normhuur
-
-#### § 3. Berekening van de huurtoeslag
-
-### Hoofdstuk 4. Wijzigingen van omstandigheden
-
-### Hoofdstuk 4A. Bijzondere bijdrage in de huurlasten
-
-### Hoofdstuk 6. Hulp- en informatiepunten
-
-### Hoofdstuk 7. Informatieplicht, verificatie, opschorting, herziening en terugvordering
-
-### Hoofdstuk 8. Beperking huurtoeslagtoekenning boven de aftoppingsgrens

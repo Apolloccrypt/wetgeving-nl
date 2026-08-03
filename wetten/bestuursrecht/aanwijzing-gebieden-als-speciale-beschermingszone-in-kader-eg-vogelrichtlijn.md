@@ -1,40 +1,17 @@
 ---
 title: "Aanwijzing gebieden als speciale beschermingszone in kader EG-Vogelrichtlijn"
 identifier: "BWBR0008280"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-10-13"
-last_updated: "1996-10-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008280"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3965573"
-version_id: "5738632"
-internal_id: "C5941361"
-label_id: "3945544"
-dtd_version: "2.0"
-original_entry_into_force: "1996-10-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008280/1996-10-13/0"
-intitule_bron: "Stcrt.1996-202"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-10-11"
-intitule_published: "1996-10-18"
-intitule_in_force: "1996-10-18"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-202"
-original_signed_date: "1996-10-11"
-original_published_date: "1996-10-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-10-13"
-jci_1_3: "jci1.3:c:BWBR0008280&z=1996-10-13&g=1996-10-13"
-jci_1_0: "1.0:c:BWBR0008280&g=1996-10-13"
-citeertitel_status: "officieel"
-signed_date: "1996-10-11"
-entry_into_force: "1996-10-13"
+publicatiedatum: 1996-10-13
+laatste_update: 1996-10-13
+status: geldig
+toestand: 1996-10-13
+bron: "https://wetten.overheid.nl/BWBR0008280"
+opgehaald: 2026-08-03
 ---
-# Aanwijzing gebieden als speciale beschermingszone in kader EG-Vogelrichtlijn
 
-Besluit:
+# Aanwijzing gebieden als speciale beschermingszone in kader EG-Vogelrichtlijn
 
 ##### Artikel 1
 

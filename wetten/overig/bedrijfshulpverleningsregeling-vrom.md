@@ -1,52 +1,87 @@
 ---
 title: "Bedrijfshulpverleningsregeling VROM"
 identifier: "BWBR0008679"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008679"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3885823"
-version_id: "5649442"
-internal_id: "C5842441"
-label_id: "3865794"
-dtd_version: "2.0"
-original_entry_into_force: "1997-05-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008679/2007-01-01/0"
-intitule_bron: "Stcrt.1997-97"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-05-13"
-intitule_published: "1997-05-27"
-intitule_in_force: "1997-05-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-97"
-original_signed_date: "1997-05-13"
-original_published_date: "1997-05-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-05-29"
-jci_1_3: "jci1.3:c:BWBR0008679&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0008679&g=2007-01-01"
-citeertitel_status: "officieel"
-signed_date: "1997-05-13"
-entry_into_force: "1997-05-29"
+publicatiedatum: 1997-05-29
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0008679"
+opgehaald: 2026-08-03
 ---
+
 # Bedrijfshulpverleningsregeling VROM
-
-Gelet op [artikel 58a van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=58a);
-
-Gelet op het Besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal;
-
-Gehoord de Bijzondere Commissie;
-
-Besluit:
 
 ##### Artikel 1. Algemene bepalingen
 
 1. In dit besluit wordt verstaan onder:
 
-a. minister: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; b. ministerie: ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; c. de dienst: de Centrale Sector; het Directoraat-Generaal van de Volkshuisvesting; de Rijksplanologische Dienst; het Directoraat-Generaal Milieubeheer; de Rijksgebouwendienst; d. het diensthoofd: de secretaris-generaal; de directeur-generaal van de Volkshuisvesting; de directeur-generaal van de Ruimtelijke Ordening; de directeur-generaal Milieubeheer; de directeur-generaal van de Rijksgebouwendienst; e. bedrijfshulpverlener: ambtenaar werkzaam bij het ministerie die bij besluit is aangewezen om conform [artikel 15 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=15) hulp in of rond de gebouwen van het ministerie te verlenen met een of meer van de volgende taken: ontruimer; basis-bedrijfshulpverlener; EHBO’er; brandwacht; ploegleider; plaatsvervangend hoofd bedrijfshulpverlening; hoofd bedrijfshulpverlening; f. BHV: bedrijfshulpverleningsorganisatie van het ministerie.
+a.
+
+minister:
+
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+
+b.
+
+ministerie:
+
+ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+
+c.
+
+de dienst:
+
+- de Centrale Sector;
+
+- het Directoraat-Generaal van de Volkshuisvesting;
+
+- de Rijksplanologische Dienst;
+
+- het Directoraat-Generaal Milieubeheer;
+
+- de Rijksgebouwendienst;
+
+d.
+
+het diensthoofd:
+
+- de secretaris-generaal;
+
+- de directeur-generaal van de Volkshuisvesting;
+
+- de directeur-generaal van de Ruimtelijke Ordening;
+
+- de directeur-generaal Milieubeheer;
+
+- de directeur-generaal van de Rijksgebouwendienst;
+
+e.
+
+bedrijfshulpverlener:
+
+ambtenaar werkzaam bij het ministerie die bij besluit is aangewezen om conform [artikel 15 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=15) hulp in of rond de gebouwen van het ministerie te verlenen met een of meer van de volgende taken:
+
+- ontruimer;
+
+- basis-bedrijfshulpverlener;
+
+- EHBO’er;
+
+- brandwacht;
+
+- ploegleider;
+
+- plaatsvervangend hoofd bedrijfshulpverlening;
+
+- hoofd bedrijfshulpverlening;
+
+f.
+
+BHV:
+
+bedrijfshulpverleningsorganisatie van het ministerie.
 
 2. Voor zolang de bedrijfshulpverlener nog in opleiding is, is deze aspirant-bedrijfshulpverlener.
 
@@ -54,7 +89,7 @@ a. minister: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
 ##### Artikel 2. Aanwijzing als bedrijfshulpverlener
 
-- a. Aanwijzing als bedrijfshulpverlener voor onbepaalde tijd wordt schriftelijk door het diensthoofd van de betreffende dienst, waar de bedrijfshulpverlener werkzaam is, na overleg met de ondernemingsraad, verleend;
+1. - a. Aanwijzing als bedrijfshulpverlener voor onbepaalde tijd wordt schriftelijk door het diensthoofd van de betreffende dienst, waar de bedrijfshulpverlener werkzaam is, na overleg met de ondernemingsraad, verleend;
 
 - b. Aanwijzing als aspirant-bedrijfshulpverlener geschiedt op de onder a bepaalde wijze.
 
@@ -86,71 +121,71 @@ a. minister: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
 - a. de ontruimer voldoende inzetbaar is geweest voor: Daartoe dient de ontruimer:
 
-- het ontruimen van het gebouw,
+   - het ontruimen van het gebouw,
 
-- het begeleiden van personen naar veilige plaatsen,
+   - het begeleiden van personen naar veilige plaatsen,
 
-- het controleren van het gebouw op de aanwezigheid van personen.
+   - het controleren van het gebouw op de aanwezigheid van personen.
 
-- jaarlijks de informatiebijeenkomst voor ontruimers te volgen;
+   - jaarlijks de informatiebijeenkomst voor ontruimers te volgen;
 
-- gebruik te maken van de uitrusting die bij de betreffende taak hoort.
+   - gebruik te maken van de uitrusting die bij de betreffende taak hoort.
 
 - b. de basis-bedrijfshulpverlener voldoende inzetbaar is geweest voor de primaire bedrijfshulpverlening zoals: Daartoe dient de basis-bedrijfshulpverlener:
 
-- het verrichten van levensreddende handelingen,
+   - het verrichten van levensreddende handelingen,
 
-- het bestrijden van branden met kleine blusmiddelen,
+   - het bestrijden van branden met kleine blusmiddelen,
 
-- het afvoeren van gewonden, het begeleiden van personen in geval van ontruiming en het controleren van gebouwen op de aanwezigheid van personen.
+   - het afvoeren van gewonden, het begeleiden van personen in geval van ontruiming en het controleren van gebouwen op de aanwezigheid van personen.
 
-- in het bezit te zijn van het basisdiploma bedrijfshulpverlener van het NIBRA, NVB of stichting KAM dan wel gelijkwaardige certificaten van de brandweer of erkende opleidingsinstituten;
+   - in het bezit te zijn van het basisdiploma bedrijfshulpverlener van het NIBRA, NVB of stichting KAM dan wel gelijkwaardige certificaten van de brandweer of erkende opleidingsinstituten;
 
-- jaarlijks de gebouwgebonden instructie inclusief de ontruimingsinstructie te volgen;
+   - jaarlijks de gebouwgebonden instructie inclusief de ontruimingsinstructie te volgen;
 
-- gebruik te maken van de uitrusting die bij de betreffende taak hoort.
+   - gebruik te maken van de uitrusting die bij de betreffende taak hoort.
 
 - c. de EHBO’er voldoende inzetbaar is geweest voor: Daartoe dient de EHBO’er:
 
-- het verlenen van eerste hulp, bestaande uit EHBO en reanimatie, aan personen,
+   - het verlenen van eerste hulp, bestaande uit EHBO en reanimatie, aan personen,
 
-- het afvoeren van gewonden, het begeleiden van personen in geval van ontruiming en het controleren van gebouwen op de aanwezigheid van personen.
+   - het afvoeren van gewonden, het begeleiden van personen in geval van ontruiming en het controleren van gebouwen op de aanwezigheid van personen.
 
-- in het bezit te zijn van het Eenheidsdiploma-EHBO met de aantekeningen verbandleer en reanimatie van het Oranje Kruis;
+   - in het bezit te zijn van het Eenheidsdiploma-EHBO met de aantekeningen verbandleer en reanimatie van het Oranje Kruis;
 
-- jaarlijks de gebouwgebonden instructie inclusief de ontruimingsinstructie te volgen;
+   - jaarlijks de gebouwgebonden instructie inclusief de ontruimingsinstructie te volgen;
 
-- gebruik te maken van de uitrusting die bij de betreffende taak hoort.
+   - gebruik te maken van de uitrusting die bij de betreffende taak hoort.
 
 - d. de brandwacht voldoende inzetbaar is geweest voor: Daartoe dient de brandwacht:
 
-- het verrichten van levensreddende handelingen,
+   - het verrichten van levensreddende handelingen,
 
-- het bestrijden van brand met het ter beschikking staand brandbestrijdingsmateriaal, daarbij al dan niet gebruikmakend van adembeschermende middelen,
+   - het bestrijden van brand met het ter beschikking staand brandbestrijdingsmateriaal, daarbij al dan niet gebruikmakend van adembeschermende middelen,
 
-- het ondersteunen, assisteren en begeleiden van de gemeentelijke of regionale brandweer dan wel andere professionele hulpverleners,
+   - het ondersteunen, assisteren en begeleiden van de gemeentelijke of regionale brandweer dan wel andere professionele hulpverleners,
 
-- het verrichten van schadebeperkende maatregelen,
+   - het verrichten van schadebeperkende maatregelen,
 
-- het doen van technische hulpverlening,
+   - het doen van technische hulpverlening,
 
-- het afvoeren van gewonden, het begeleiden van personen in geval van ontruiming en het controleren van gebouwen op de aanwezigheid van personen.
+   - het afvoeren van gewonden, het begeleiden van personen in geval van ontruiming en het controleren van gebouwen op de aanwezigheid van personen.
 
-- in het bezit te zijn van de NVB-certificaten 1 en 2 en indien de brandwacht gebruik maakt van adembeschermende middelen dan dient hij in het bezit te zijn van het NVB-certificaat 4 of certificaat persoonlijke bescherming van het NIBRA of het diploma brandwacht van het NIBRA;
+   - in het bezit te zijn van de NVB-certificaten 1 en 2 en indien de brandwacht gebruik maakt van adembeschermende middelen dan dient hij in het bezit te zijn van het NVB-certificaat 4 of certificaat persoonlijke bescherming van het NIBRA of het diploma brandwacht van het NIBRA;
 
-- jaarlijks de gebouwgebonden instructie inclusief de ontruimingsinstructie te volgen;
+   - jaarlijks de gebouwgebonden instructie inclusief de ontruimingsinstructie te volgen;
 
-- gebruik te maken van de uitrusting die bij de betreffende taak hoort;
+   - gebruik te maken van de uitrusting die bij de betreffende taak hoort;
 
-- indien hij gebruik maakt van adembeschermende middelen, te voldoen aan de medische eisen voor een persluchtmaskerdrager.
+   - indien hij gebruik maakt van adembeschermende middelen, te voldoen aan de medische eisen voor een persluchtmaskerdrager.
 
 - e. de ploegleider voldoende inzetbaar is geweest voor één van de taken genoemd onder het vijfde lid onder a tot en met d en bovendien leiding heeft gegeven aan meerdere leden van de bedrijfshulp-verleningsorganisatie. Daartoe dient de leidinggevende bedrijfshulpverlener met goed gevolg de opleiding ploegleider van de NVB of KAM te hebben gevolgd.
 
 - f. het hoofd bedrijfshulpverlening voldoende inzetbaar is geweest voor: Daartoe dient het hoofd bedrijfshulpverlening te voldoen aan de opleidingseisen van één van de taken genoemd onder het vijfde lid, onder b tot en met d, en bovendien met goed gevolg de opleiding voor hoofd bedrijfshulpverlening van de VZBI/NVB zuid-west te hebben gevolgd.
 
-- het dagelijks leiding geven aan de bedrijfshulpverleningsorganisatie;
+   - het dagelijks leiding geven aan de bedrijfshulpverleningsorganisatie;
 
-- het in geval van een calamiteit leiding geven aan de leden van de bedrijfshulpverleningsorganisatie.
+   - het in geval van een calamiteit leiding geven aan de leden van de bedrijfshulpverleningsorganisatie.
 
 - g. het plaatsvervangend hoofd bedrijfshulpverlening voldoende inzetbaar is geweest voor het in geval van een calamiteit leiding geven aan de leden van de bedrijfshulpverleningsorganisatie. Daartoe dient het plaatsvervangend hoofd bedrijfshulpverlening te voldoen aan de opleidingseisen van een van de taken genoemd onder het vijfde lid, onder b tot en met d, en bovendien met goed gevolg de opleiding voor hoofd bedrijfshulpverlening van de VZBI/NVB zuid-west te hebben gevolgd.
 
@@ -207,5 +242,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 8. Naamgeving
 
 Deze regeling wordt aangehaald als: Bedrijfshulpverleningsregeling VROM.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

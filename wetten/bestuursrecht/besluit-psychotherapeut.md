@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 17 maart 1998, houdende regels inzake de opleiding tot en de deskundigheid van de psychotherapeut (Besluit psychotherapeut)"
+citeertitel: "Besluit psychotherapeut"
 identifier: "BWBR0009466"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009466"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "779883"
-version_id: "1132112"
-internal_id: "C1132101"
-label_id: "755934"
-dtd_version: "2.0"
-original_entry_into_force: "1998-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009466/2024-01-01/0"
-intitule_bron: "Stb.1998-155"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-03-17"
-intitule_published: "1998-03-24"
-intitule_in_force: "1998-03-24"
-intitule_status: "goed"
-original_publication: "Stb.1998-155"
-original_signed_date: "1998-03-17"
-original_published_date: "1998-03-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1998-155"
-entry_into_force_date: "1998-04-01"
-jci_1_3: "jci1.3:c:BWBR0009466&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0009466&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit psychotherapeut"
-signed_date: "1998-03-17"
-entry_into_force: "1998-04-01"
+publicatiedatum: 1998-04-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0009466"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 17 maart 1998, houdende regels inzake de opleiding tot en de deskundigheid van de psychotherapeut (Besluit psychotherapeut)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 23 april 1997, CSZ/BO-975644;
-
-Gelet op de [artikelen 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=26), en [27 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=27);
-
-Gezien het advies van de Raad voor de beroepen in de individuele gezondheidszorg van mei 1996;
-
-De Raad van State gehoord (advies van 9 september 1997, no. W13.97.0221);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 maart 1998, GVM/GGZ/981396;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -190,13 +156,13 @@ Voor aanwijzing komen in aanmerking opleidingsinstellingen waarvan in redelijkhe
 
 - d. zorg dragen voor het op zodanige wijze inrichten van de opleiding dat degene die tot de opleiding is toegelaten in de gelegenheid wordt gesteld om aan de opleidingseisen te voldoen door:
 
-- 1°. het bewaken en bevorderen van de inhoudelijke en didactische deskundigheid van het docententeam;
+   - 1°. het bewaken en bevorderen van de inhoudelijke en didactische deskundigheid van het docententeam;
 
-- 2°. zorg te dragen voor voldoende en deskundige begeleiding bij het praktisch onderwijs en het opdoen van de vereiste werkervaring;
+   - 2°. zorg te dragen voor voldoende en deskundige begeleiding bij het praktisch onderwijs en het opdoen van de vereiste werkervaring;
 
-- 3°. zorg te dragen voor een deugdelijke wijze van beoordeling, toetsing en examinering; en
+   - 3°. zorg te dragen voor een deugdelijke wijze van beoordeling, toetsing en examinering; en
 
-- 4°. zorg te dragen voor een veilig leer- en werkklimaat.
+   - 4°. zorg te dragen voor een veilig leer- en werkklimaat.
 
 ##### Artikel 8
 
@@ -255,5 +221,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit psychotherapeut.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

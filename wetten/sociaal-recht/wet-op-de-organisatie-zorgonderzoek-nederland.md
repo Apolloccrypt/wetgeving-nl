@@ -1,47 +1,18 @@
 ---
 title: "Wet van 14 februari 1998, houdende Wet op de organisatie ZorgOnderzoek Nederland"
+citeertitel: "Wet op de organisatie ZorgOnderzoek Nederland"
 identifier: "BWBR0009385"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009385"
+categorie: "Overig"
 soort: "wet"
-stam_id: "772963"
-version_id: "1122702"
-internal_id: "C1122701"
-label_id: "749414"
-dtd_version: "2.0"
-original_entry_into_force: "1998-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009385/2025-01-01/0"
-intitule_bron: "Stb.1998-124"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-02-14"
-intitule_published: "1998-03-10"
-intitule_in_force: "1998-05-26"
-intitule_status: "goed"
-original_publication: "Stb.1998-124"
-original_signed_date: "1998-02-14"
-original_published_date: "1998-03-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "25438"
-original_url_id: "stb-1998-124"
-entry_into_force_date: "1998-07-01"
-jci_1_3: "jci1.3:c:BWBR0009385&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0009385&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de organisatie ZorgOnderzoek Nederland"
-signed_date: "1998-02-14"
-entry_into_force: "1998-07-01"
+publicatiedatum: 1998-07-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0009385"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 14 februari 1998, houdende Wet op de organisatie ZorgOnderzoek Nederland
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het met het oog op de bevordering van de samenhang en verbetering van de prioriteitenstelling met betrekking tot projecten, experimenten, onderzoek en ontwikkeling op het gebied van gezondheid, preventie en zorg wenselijk is een organisatie op te richten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Begripsbepaling
 
@@ -91,7 +62,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -113,7 +84,7 @@ Vervallen
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 #### § 4. De programma's, de jaarplannen en de bekostiging
 
@@ -173,7 +144,7 @@ Het bestuur stelt het jaarverslag en de jaarrekening, bedoeld in de [artikelen 1
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
@@ -187,11 +158,11 @@ Na afronding van een programma brengt het bestuur een verslag uit van de resulta
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 #### § 7. Overgangs- en slotbepalingen
 
@@ -207,7 +178,7 @@ In afwijking van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 22
 
-Wijzigt de Wet financiering volksverzekeringen.
+*Wijzigt de Wet financiering volksverzekeringen.*
 
 ##### Artikel 23
 
@@ -242,5 +213,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 28
 
 Deze wet kan worden aangehaald als: de Wet op de organisatie ZorgOnderzoek Nederland.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,37 +1,16 @@
 ---
 title: "Vaststellingsregeling regelen voor personen, die werkzaamheden verrichten, verband houdende met de luchtwaardigheid van vliegtuigen"
 identifier: "BWBR0009490"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-08-21"
-last_updated: "1998-08-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009490"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5253183"
-version_id: "9447582"
-internal_id: "C12656571"
-label_id: "5229144"
-dtd_version: "2.0"
-original_entry_into_force: "1998-03-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009490/1998-08-21/0"
-intitule_bron: "Stcrt.1998-60"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-03-20"
-intitule_published: "1998-03-27"
-intitule_in_force: "1998-03-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-60"
-original_signed_date: "1998-03-20"
-original_published_date: "1998-03-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-03-29"
-jci_1_3: "jci1.3:c:BWBR0009490&z=1998-08-21&g=1998-08-21"
-jci_1_0: "1.0:c:BWBR0009490&g=1998-08-21"
-citeertitel_status: "officieel"
-signed_date: "1998-03-20"
-entry_into_force: "1998-03-29"
+publicatiedatum: 1998-03-29
+laatste_update: 1998-08-21
+status: geldig
+toestand: 1998-08-21
+bron: "https://wetten.overheid.nl/BWBR0009490"
+opgehaald: 2026-08-03
 ---
+
 # Vaststellingsregeling regelen voor personen, die werkzaamheden verrichten, verband houdende met de luchtwaardigheid van vliegtuigen
 
 ##### Artikel 1. Eisen voor de verkrijging van een erkenning
@@ -62,7 +41,7 @@ entry_into_force: "1998-03-29"
 
 ##### Artikel 3. Model van de erkenning
 
-De erkenning zal geschieden in de vorm als in de bijlage van deze beschikking is aangegeven.
+De erkenning zal geschieden in de vorm als in de [bijlage](https://wetten.overheid.nl/BWBR0009490) van deze beschikking is aangegeven.
 
 ##### Artikel 4. Geldigheidsduur
 
@@ -82,8 +61,6 @@ Een erkenning wordt geheel of gedeeltelijk door de Minister van Verkeer en Water
 
 - c. indien naar het oordeel van de Minister van Verkeer en Waterstaat:
 
-- 1°. de houder niet voldoet aan de voor de verkrijging van een erkenning gestelde regelen dan wel de houder deze regelen niet nakomt,
+   - 1°. de houder niet voldoet aan de voor de verkrijging van een erkenning gestelde regelen dan wel de houder deze regelen niet nakomt,
 
-- 2°. de werkzaamheden van de houder niet langer nodig of gewenst zijn dan wel door hem niet naar behoren zijn verricht.
-
-## Bijlage
+   - 2°. de werkzaamheden van de houder niet langer nodig of gewenst zijn dan wel door hem niet naar behoren zijn verricht.

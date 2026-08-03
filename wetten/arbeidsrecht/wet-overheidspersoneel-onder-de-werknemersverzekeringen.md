@@ -1,48 +1,18 @@
 ---
 title: "Wet van 24 december 1997, houdende het onder de werkingssfeer van de wettelijke werknemersverzekeringen brengen van het overheidspersoneel (Wet overheidspersoneel onder de werknemersverzekeringen)"
+citeertitel: "Wet overheidspersoneel onder de werknemersverzekeringen"
 identifier: "BWBR0009267"
-country: "nl"
-rank: "wet"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009267"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "3027663"
-version_id: "4697032"
-internal_id: "C4697031"
-label_id: "2979014"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009267/2018-01-01/0"
-intitule_bron: "Stb.1997-768"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-24"
-intitule_published: "1997-12-30"
-intitule_in_force: "1997-12-30"
-intitule_status: "goed"
-original_publication: "Stb.1997-768"
-original_signed_date: "1997-12-24"
-original_published_date: "1997-12-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "25282"
-original_url_id: "stb-1997-768"
-entry_into_force_date: "1997-12-31"
-entry_into_force_dossier: "25282"
-jci_1_3: "jci1.3:c:BWBR0009267&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0009267&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet overheidspersoneel onder de werknemersverzekeringen"
-signed_date: "1997-12-24"
-entry_into_force: "1997-12-31"
+publicatiedatum: 1997-12-31
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0009267"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 24 december 1997, houdende het onder de werkingssfeer van de wettelijke werknemersverzekeringen brengen van het overheidspersoneel (Wet overheidspersoneel onder de werknemersverzekeringen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat wenselijk is het overheidspersoneel onder de werkingssfeer van de wettelijke werknemersverzekeringen te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Overgang naar de werknemersverzekeringen
 
@@ -70,21 +40,21 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- j. vervallen;
+- j. *vervallen;*
 
 - k. overheidswerkgever:
 
-- 1°. het orgaan van een publiekrechtelijk lichaam dan wel het privaatrechtelijk lichaam dat de overheidswerknemer rechtstreeks ten laste van dat lichaam bezoldigt of beloont; en
+   - 1°. het orgaan van een publiekrechtelijk lichaam dan wel het privaatrechtelijk lichaam dat de overheidswerknemer rechtstreeks ten laste van dat lichaam bezoldigt of beloont; en
 
-- 2°. Onze Minister van Defensie in relatie tot de in [artikel 2, tweede lid, onderdeel f, van de WPA](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2) uitgezonderde personen;
+   - 2°. Onze Minister van Defensie in relatie tot de in [artikel 2, tweede lid, onderdeel f, van de WPA](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2) uitgezonderde personen;
 
 - l. overheidswerknemer:
 
-- 1°. de overheidswerknemer in de zin van artikel 2 van de WPA, jonger dan 65 jaar; en
+   - 1°. de overheidswerknemer in de zin van artikel 2 van de WPA, jonger dan 65 jaar; en
 
-- 2°. de beroepsmilitair; en
+   - 2°. de beroepsmilitair; en
 
-- 3°. degene die door de Koning in dienst is genomen om bij de Koninklijke Hofhouding werkzaam te zijn en die uit dien hoofde onder de Pensioenregeling van de Stichting tot verzorging van de pensioenen van het personeel van de Koninklijke Hofhouding van het Huis van Oranje-Nassau valt, jonger dan 65 jaar;
+   - 3°. degene die door de Koning in dienst is genomen om bij de Koninklijke Hofhouding werkzaam te zijn en die uit dien hoofde onder de Pensioenregeling van de Stichting tot verzorging van de pensioenen van het personeel van de Koninklijke Hofhouding van het Huis van Oranje-Nassau valt, jonger dan 65 jaar;
 
 - m. pensioen ter zake van arbeidsongeschiktheid: een pensioen ter zake van arbeidsongeschiktheid ingevolge de militaire pensioenbepalingen, in voorkomende gevallen verhoogd met een ingevolge die bepalingen toegekende invaliditeitsverhoging;
 
@@ -146,11 +116,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de overheidswerknemers en gewezen overheidswerknemers die op de dag voorafgaande aan de vorenbedoelde datum uit hoofde van hun dienstverband als overheidswerknemer onderscheidenlijk voormalige dienstverband als gewezen overheidswerknemer recht hebben op:
 
-- 1°. bezoldiging of uitkering ingeval van ziekte, waarvan de uitkeringsduur niet verstrijkt op die datum;
+   - 1°. bezoldiging of uitkering ingeval van ziekte, waarvan de uitkeringsduur niet verstrijkt op die datum;
 
-- 2°. een uitkering ter zake van arbeidsongeschiktheid, die zou hebben doorgelopen op of opnieuw zou zijn ingegaan met ingang van die datum indien deze wet niet in werking zou zijn getreden; of
+   - 2°. een uitkering ter zake van arbeidsongeschiktheid, die zou hebben doorgelopen op of opnieuw zou zijn ingegaan met ingang van die datum indien deze wet niet in werking zou zijn getreden; of
 
-- 3°. een wachtgeld, waarvan de uitkeringsduur niet verstrijkt op die datum;
+   - 3°. een wachtgeld, waarvan de uitkeringsduur niet verstrijkt op die datum;
 
 - c. de overheidswerknemers wier dienstverband eindigt met ingang van de vorenbedoelde datum en die op grond daarvan met ingang van die datum een recht verkrijgen op een wachtgeld dan wel een uitkering op grond van de WW.
 
@@ -168,11 +138,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. met ingang van het tijdstip van aanvang van fase 3, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=49&z=2018-01-01&g=2018-01-01), de overheidswerknemer, die op de dag voorafgaande aan dat tijdstip recht heeft op bezoldiging of uitkering ingeval van ziekte:
 
-- 1°. in verband met of in aansluiting op zwangerschaps- of bevallingsverlof;
+   - 1°. in verband met of in aansluiting op zwangerschaps- of bevallingsverlof;
 
-- 2°. op grond van ongeschiktheid tot het verrichten van zijn arbeid in verband met orgaandonatie;
+   - 2°. op grond van ongeschiktheid tot het verrichten van zijn arbeid in verband met orgaandonatie;
 
-- 3°. die in een situatie verkeert overeenkomstig [artikel 29b, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b).
+   - 3°. die in een situatie verkeert overeenkomstig [artikel 29b, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b).
 
 2. Een op grond van het eerste lid toegekend recht op ziekengeld op grond van de ZW wordt toegekend voor de duur van 52 weken van ongeschiktheid tot werken, verminderd met de periode beginnende met de eerste dag van de ongeschiktheid tot werken wegens ziekte tot en met de dag voorafgaande aan de datum waarop de ZW ingevolge deze wet van toepassing wordt op de betrokken overheidswerknemer of gewezen overheidswerknemer. Voor zover er sprake is van een situatie als bedoeld in artikel 29a, vijfde lid, van de ZW, geldt in afwijking van de eerste volzin de termijn van 16 weken, bedoeld in dat vijfde lid.
 
@@ -192,19 +162,19 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -216,7 +186,7 @@ Vervallen
 
 #### Paragraaf 3. Arbeidsongeschiktheid
 
-#### Afdeling 1. Overheidswerknemers uitgezonderd beroepsmilitairen
+##### Afdeling 1. Overheidswerknemers uitgezonderd beroepsmilitairen
 
 ##### Artikel 11
 
@@ -306,7 +276,7 @@ De TBA wordt toegepast op een ingevolge [artikel 13, eerste of tweede lid](https
 
 2. Een loonsuppletie, een loonkostensubsidie, een reïntegratie-uitkering of een opleiding of scholing, die is toegekend op grond van [artikel 32 van de WPA](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=32) met overeenkomstige toepassing van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=60&z=2018-01-01&g=2018-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=62), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=63) of [64 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=64), wordt met ingang van het tijdstip van aanvang van fase 1 van deze wet voortgezet als een loonsuppletie, een loonkostensubsidie, een reïntegratie-uitkering of een opleiding of scholing op grond van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=60&z=2018-01-01&g=2018-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=62), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=63) of [64 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=64).
 
-#### Afdeling 2. Beroepsmilitairen
+##### Afdeling 2. Beroepsmilitairen
 
 ##### Artikel 21
 
@@ -344,11 +314,11 @@ aangemerkt als de datum van ingang van het in het eerste lid bedoelde recht op e
 
 ##### Artikel 24
 
-1. Voor de vaststelling van de hoogte van de uitkering op grond van de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde beroepsmilitair die op het tijdstip van aanvang van fase 1 van deze wet 52 weken of langer arbeidsongeschikt is in de zin van de WAO, geldt als dagloon respectievelijk vervolgdagloon in de zin van die wet de door het getal 261 gedeelde, naar een jaarbedrag herleide pensioengrondslag, bedoeld in [artikel F6](onbekend) van de Amp-wet, respectievelijk vervolguitkeringsgrondslag, bedoeld in [artikel F6a](onbekend) van de Amp-wet, die voor betrokkene zou zijn vastgesteld indien betrokkene op de dag voorafgaande aan de vorenbedoelde datum zou zijn ontslagen met recht op een pensioen ter zake van arbeidsongeschiktheid.
+1. Voor de vaststelling van de hoogte van de uitkering op grond van de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde beroepsmilitair die op het tijdstip van aanvang van fase 1 van deze wet 52 weken of langer arbeidsongeschikt is in de zin van de WAO, geldt als dagloon respectievelijk vervolgdagloon in de zin van die wet de door het getal 261 gedeelde, naar een jaarbedrag herleide pensioengrondslag, bedoeld in artikel F6 van de Amp-wet, respectievelijk vervolguitkeringsgrondslag, bedoeld in artikel F6a van de Amp-wet, die voor betrokkene zou zijn vastgesteld indien betrokkene op de dag voorafgaande aan de vorenbedoelde datum zou zijn ontslagen met recht op een pensioen ter zake van arbeidsongeschiktheid.
 
-2. Voor de vaststelling van de hoogte van de uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde gewezen beroepsmilitair, geldt als dagloon respectievelijk vervolgdagloon in de zin van die wet de voor betrokkene geldende, door het getal 261 gedeelde, naar een jaarbedrag herleide pensioengrondslag, in voorkomend geval verhoogd met het percentage van de toeslag, bedoeld in [artikel F7a](onbekend) van de Amp-wet, respectievelijk de voor betrokkene geldende, door het getal 261 gedeelde, naar een jaarbedrag herleide vervolguitkeringsgrondslag, bedoeld in [artikel F6a](onbekend) van de Amp-wet, en in voorkomend geval aangepast met het percentage waarmee het salaris, dat overeenkomt met de aangepaste pensioengrondslag, op grond van artikel 34 van de Wet FVP/ABP is aangepast.
+2. Voor de vaststelling van de hoogte van de uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde gewezen beroepsmilitair, geldt als dagloon respectievelijk vervolgdagloon in de zin van die wet de voor betrokkene geldende, door het getal 261 gedeelde, naar een jaarbedrag herleide pensioengrondslag, in voorkomend geval verhoogd met het percentage van de toeslag, bedoeld in artikel F7a van de Amp-wet, respectievelijk de voor betrokkene geldende, door het getal 261 gedeelde, naar een jaarbedrag herleide vervolguitkeringsgrondslag, bedoeld in artikel F6a van de Amp-wet, en in voorkomend geval aangepast met het percentage waarmee het salaris, dat overeenkomt met de aangepaste pensioengrondslag, op grond van artikel 34 van de Wet FVP/ABP is aangepast.
 
-3. Voor de vaststelling van de hoogte van de uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde gewezen beroepsmilitair, geldt als dagloon respectievelijk vervolgdagloon in de zin van die wet de naar een jaarbedrag herleide en door 261 gedeelde berekeningsgrondslag van de uitkering overeenkomstig de normen van de WAO zoals die geldt op de dag voorafgaande aan het tijdstip van aanvang van fase 1 van deze wet, aangepast op de voet van het Amar, zoals dat luidde op die dag, respectievelijk de voor betrokkene geldende, door het getal 261 gedeelde, naar een jaarbedrag herleide vervolguitkeringsgrondslag, bedoeld in [artikel F6a van de Amp-wet](onbekend).
+3. Voor de vaststelling van de hoogte van de uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde gewezen beroepsmilitair, geldt als dagloon respectievelijk vervolgdagloon in de zin van die wet de naar een jaarbedrag herleide en door 261 gedeelde berekeningsgrondslag van de uitkering overeenkomstig de normen van de WAO zoals die geldt op de dag voorafgaande aan het tijdstip van aanvang van fase 1 van deze wet, aangepast op de voet van het Amar, zoals dat luidde op die dag, respectievelijk de voor betrokkene geldende, door het getal 261 gedeelde, naar een jaarbedrag herleide vervolguitkeringsgrondslag, bedoeld in artikel F6a van de Amp-wet.
 
 4. Het dagloon bedraagt ten hoogste het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag.
 
@@ -362,11 +332,11 @@ aangemerkt als de datum van ingang van het in het eerste lid bedoelde recht op e
 
 ##### Artikel 26
 
-1. Voor de eerste vaststelling van het recht op uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde beroepsmilitair die op het tijdstip van aanvang van fase 1 van deze wet 52 weken of langer arbeidsongeschikt is in de zin van de WAO, is de door Onze Minister van Defensie vastgestelde mate van arbeidsongeschiktheid, bedoeld in [artikel E6 van de Amp-wet](onbekend), bepalend.
+1. Voor de eerste vaststelling van het recht op uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde beroepsmilitair die op het tijdstip van aanvang van fase 1 van deze wet 52 weken of langer arbeidsongeschikt is in de zin van de WAO, is de door Onze Minister van Defensie vastgestelde mate van arbeidsongeschiktheid, bedoeld in artikel E6 van de Amp-wet, bepalend.
 
-2. Ten aanzien van de in [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde beroepsmilitair die op het tijdstip van aanvang van fase 1 van deze wet 52 weken of langer arbeidsongeschikt is in de zin van de WAO, ten aanzien van wie op de dag voorafgaande aan dat tijdstip de mate van arbeidsongeschiktheid, bedoeld in [artikel E6 van de Amp-wet](onbekend) , nog niet is vastgesteld, wordt de mate van arbeidsongeschiktheid in de zin van de WAO voor de eerste vaststelling van het recht op uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), vastgesteld binnen een termijn van drie maanden na het vorenbedoelde tijdstip.
+2. Ten aanzien van de in [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde beroepsmilitair die op het tijdstip van aanvang van fase 1 van deze wet 52 weken of langer arbeidsongeschikt is in de zin van de WAO, ten aanzien van wie op de dag voorafgaande aan dat tijdstip de mate van arbeidsongeschiktheid, bedoeld in artikel E6 van de Amp-wet , nog niet is vastgesteld, wordt de mate van arbeidsongeschiktheid in de zin van de WAO voor de eerste vaststelling van het recht op uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), vastgesteld binnen een termijn van drie maanden na het vorenbedoelde tijdstip.
 
-3. Voor de eerste vaststelling van het recht op uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde gewezen beroepsmilitair, is de door Onze Minister van Defensie vastgestelde mate van arbeidsongeschiktheid, bedoeld in [artikel E6 van de Amp-wet](onbekend) , bepalend.
+3. Voor de eerste vaststelling van het recht op uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde gewezen beroepsmilitair, is de door Onze Minister van Defensie vastgestelde mate van arbeidsongeschiktheid, bedoeld in artikel E6 van de Amp-wet , bepalend.
 
 4. Voor de eerste vaststelling van het recht op uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde gewezen beroepsmilitair, is de mate van arbeidsongeschiktheid, waarnaar zijn uitkering overeenkomstig de normen van de WAO is berekend, bepalend.
 
@@ -382,11 +352,11 @@ De TBA wordt toegepast op een ingevolge [artikel 23, eerste lid](https://wetten.
 
 ##### Artikel 28
 
-1. Voorzieningen, vergoedingen of toelagen die zijn toegekend op grond van [artikel X5](onbekend) van de Amp-wet, met overeenkomstige toepassing van de artikelen 57, 57a en 58 van de AAW, worden met ingang van het tijdstip van aanvang van fase 1 van deze wet voortgezet als voorzieningen, vergoedingen en toelagen op grond van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=65&z=2018-01-01&g=2018-01-01), [65a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65a) of [65b van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65b).
+1. Voorzieningen, vergoedingen of toelagen die zijn toegekend op grond van artikel X5 van de Amp-wet, met overeenkomstige toepassing van de artikelen 57, 57a en 58 van de AAW, worden met ingang van het tijdstip van aanvang van fase 1 van deze wet voortgezet als voorzieningen, vergoedingen en toelagen op grond van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=65&z=2018-01-01&g=2018-01-01), [65a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65a) of [65b van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65b).
 
 2. Een loonsuppletie, een loonkostensubsidie, een reïntegratie-uitkering of een opleiding of scholing, die is toegekend op grond van artikel X 6 van de Amp-wet met overeenkomstige toepassing van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=60), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=62), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=63) of [64 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=64), wordt met ingang van het tijdstip van aanvang van fase 1 van deze wet voortgezet als een loonsuppletie, een loonkostensubsidie, een reïntegratie-uitkering of een opleiding of scholing op grond van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=60), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=62), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=63) of [64 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=64).
 
-#### Afdeling 3. Risicowering arbeidsongeschiktheid
+##### Afdeling 3. Risicowering arbeidsongeschiktheid
 
 ##### Artikel 29
 
@@ -404,11 +374,11 @@ De TBA wordt toegepast op een ingevolge [artikel 23, eerste lid](https://wetten.
 
 - b. het voormalige dienstverband van de gewezen overheidswerknemer die op de dag voorafgaande aan bedoelde datum uit hoofde van zijn voormalige dienstverband als gewezen overheidswerknemer in het genot is van:
 
-- 1°. bezoldiging of uitkering in geval van ziekte;
+   - 1°. bezoldiging of uitkering in geval van ziekte;
 
-- 2°. een uitkering ter zake van arbeidsongeschiktheid; of
+   - 2°. een uitkering ter zake van arbeidsongeschiktheid; of
 
-- 3°. een wachtgeld;
+   - 3°. een wachtgeld;
 
 - c. het voormalige dienstverband van de gewezen overheidswerknemer die in verband met omstandigheden als bedoeld in artikel 20, eerste lid, onderdeel a, b, c of d, van de WW, op de dag voorafgaande aan bedoelde datum geen wachtgeld uit hoofde van zijn voormalige dienstverband als gewezen overheidswerknemer geniet; en
 
@@ -566,27 +536,27 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan tezamen met Onze Minister
 
 - a. twee of meer van de navolgende rechten in verband met ongeschiktheid tot werken wegens ziekte:
 
-- 1°. bezoldiging of uitkering ingeval van ziekte;
+   - 1°. bezoldiging of uitkering ingeval van ziekte;
 
-- 2°. een ziekengeld op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+   - 2°. een ziekengeld op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
 - b. twee of meer van de navolgende arbeidsongeschiktheidsuitkeringen:
 
-- 1°. een WAO-conforme uitkering;
+   - 1°. een WAO-conforme uitkering;
 
-- 2°. een pensioen ter zake van arbeidsongeschiktheid;
+   - 2°. een pensioen ter zake van arbeidsongeschiktheid;
 
-- 3°. een uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+   - 3°. een uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- 4°. een of meer uitkeringen overeenkomstig de normen van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) in de zin van het Amar;
+   - 4°. een of meer uitkeringen overeenkomstig de normen van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) in de zin van het Amar;
 
-- 5°. een uitkering terzake van arbeidsongeschiktheid op grond van een wettelijke regeling van de Nederlandse Antillen, Aruba of een vreemde mogendheid;
+   - 5°. een uitkering terzake van arbeidsongeschiktheid op grond van een wettelijke regeling van de Nederlandse Antillen, Aruba of een vreemde mogendheid;
 
 - c. twee of meer van de navolgende werkloosheidsuitkeringen:
 
-- 1°. een of meer wachtgelden;
+   - 1°. een of meer wachtgelden;
 
-- 2°. een of meer uitkeringen op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+   - 2°. een of meer uitkeringen op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
 - d. twee of meer loonsuppleties op grond van dan wel overeenkomstig [artikel 60 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=60);
 
@@ -600,7 +570,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan tezamen met Onze Minister
 
 - c. het dagloon in de zin van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), dan wel in de zin van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- d. vervallen;
+- d. *vervallen;*
 
 - e. de kostenverdeling, met inbegrip van de uitvoeringskosten, ter zake van de in [onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=5&artikel=41&z=2018-01-01&g=2018-01-01) bedoelde rechten.
 
@@ -690,39 +660,39 @@ Bij algemene maatregel van bestuur op voordracht van Onze Minister van Binnenlan
 
 ##### Artikel 47
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel 48
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel 49
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel 50
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
 ##### Artikel 51
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
 ##### Artikel 52
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
 ##### Artikel 53
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
 ##### Artikel 54
 
-Wijzigt de Werkloosheidswet
+*Wijzigt de Werkloosheidswet*
 
 ##### Artikel 55
 
-Wijzigt de Invoeringswet stelselherziening sociale zekerheid.
+*Wijzigt de Invoeringswet stelselherziening sociale zekerheid.*
 
 ##### Artikel 56
 
@@ -730,33 +700,33 @@ Wijzigt de Invoeringswet stelselherziening sociale zekerheid.
 
 ##### Artikel 57
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.*
 
 ##### Artikel 58
 
-Wijzigt de Wet arbeid gehandicapte werknemers.
+*Wijzigt de Wet arbeid gehandicapte werknemers.*
 
 ##### Artikel 59
 
-Wijzigt de Wet voorzieningen gehandicapten.
+*Wijzigt de Wet voorzieningen gehandicapten.*
 
 ##### Artikel 60
 
-Wijzigt de Coördinatiewet Sociale Verzekering.
+*Wijzigt de Coördinatiewet Sociale Verzekering.*
 
 ##### Artikel 61
 
-Wijzigt de Coördinatiewet Sociale Verzekering.
+*Wijzigt de Coördinatiewet Sociale Verzekering.*
 
 ##### Artikel 62
 
-1. Wijzigt de Wet terugdringing ziekteverzuim.
+1. *Wijzigt de Wet terugdringing ziekteverzuim.*
 
-2. Wijzigt de Wet terugdringing ziekteverzuim.
+2. *Wijzigt de Wet terugdringing ziekteverzuim.*
 
 ##### Artikel 63
 
-Wijzigt de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen.
+*Wijzigt de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen.*
 
 ##### Artikel 64
 
@@ -768,9 +738,9 @@ Met ingang van het tijdstip van aanvang van fase 2 van deze wet, bedoeld in [art
 
 - C. Artikel 2, tweede lid, wordt als volgt gelezen: 2. Deze wet en de daarop berustende bepalingen zijn mede van toepassing op de persoon, bedoeld in [artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&artikel=XX) , [XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&artikel=XXI), [XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&artikel=XXIV) of [XXV van de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&artikel=XXV), zoals die wet luidde op de dag voor inwerkingtreding van de Wet overheidspersoneel onder de werknemersverzekeringen, en die op 31 december 1986 de leeftijd van 35 jaar had bereikt en:
 
-- a. die door de toepassing of overeenkomstige toepassing van [artikel 18 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18) zijn recht op een arbeidsongeschiktheidsuitkering verliest, dan wel voor een lagere arbeidsongeschiktheidsuitkering in aanmerking komt; of
+   - a. die door de toepassing of overeenkomstige toepassing van [artikel 18 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18) zijn recht op een arbeidsongeschiktheidsuitkering verliest, dan wel voor een lagere arbeidsongeschiktheidsuitkering in aanmerking komt; of
 
-- b. wiens recht op pensioen door toepassing van artikel E 6 van de Algemene militaire pensioenwet dan wel de militaire pensioenbepalingen inzake het recht op pensioen ter zake van arbeidsongeschiktheid op een lagere mate van arbeidsongeschiktheid wordt gebaseerd.
+   - b. wiens recht op pensioen door toepassing van artikel E 6 van de Algemene militaire pensioenwet dan wel de militaire pensioenbepalingen inzake het recht op pensioen ter zake van arbeidsongeschiktheid op een lagere mate van arbeidsongeschiktheid wordt gebaseerd.
 
 - D. Artikel 2, derde lid, wordt als volgt gelezen: 3. Deze wet en de daarop berustende bepalingen zijn mede van toepassing op de persoon die op 1 augustus 1993 de leeftijd van 45 jaar had bereikt en die op 31 juli 1993 recht had op een arbeidsongeschiktheidsuitkering of een herplaatsingstoelage of herplaatsingswachtgeld op grond van de Spoorwegpensioenwet, de Algemene militaire pensioenwet of de Algemene burgerlijke pensioenwet en die vanaf 1 augustus 1993 door de toepassing van artikel 5 van de Algemene Arbeidsongeschiktheidswet, artikel F 7 van de Spoorwegpensioenwet, artikel F 8a van de Algemene burgerlijke pensioenwet, artikel E 6 van de Algemene militaire pensioenwet of de toepassing of overeenkomstige toepassing van [artikel 18 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), zoals deze artikelen voor deze persoon na de inwerkingtreding van de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072) zijn blijven luiden, zijn recht op een arbeidsongeschiktheidsuitkering verliest of heeft verloren dan wel voor een lagere arbeidsongeschiktheidsuitkering in aanmerking komt of is gekomen.
 
@@ -778,67 +748,67 @@ Met ingang van het tijdstip van aanvang van fase 2 van deze wet, bedoeld in [art
 
 - F. In artikel 9, zesde tot en met het achtste lid, wordt «[artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=2&z=2018-01-01&g=2018-01-01)» vervangen door: [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=2&z=2018-01-01&g=2018-01-01).
 
-- G. Onder vernummering van het negende en tiende lid van artikel 9 tot het elfde en twaalfde lid worden in dat artikel een nieuw negende en tiende lid ingevoegd, luidende: 9. Het dagloon dat ten grondslag ligt aan de uitkering van de werkloze persoon, aan wie op de dag voor de toepassing, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=2&z=2018-01-01&g=2018-01-01), een invaliditeitspensioen wordt uitbetaald op grond van de Algemene burgerlijke pensioenwet of de Spoorwegpensioenwet, is gelijk aan de door 261 gedeelde berekeningsgrondslag waarnaar dat pensioen was berekend. Indien op het in de eerste volzin bedoelde pensioen ingevolge [artikel F 9a van de Algemene burgerlijke pensioenwet](onbekend) of artikel F 7a van de Spoorwegpensioenwet een toeslag was verleend, wordt voor de vaststelling van het dagloon het bedrag van de berekeningsgrondslag verhoogd met die toeslag. [Artikel 15 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15) is van toepassing op het dagloon, bedoeld in dit lid. 10. Indien het recht op invaliditeitspensioen is toegekend uit een deeltijdbetrekking, geldt in afwijking van het negende lid als dagloon het bedrag dat overeenkomstig dat lid wordt verkregen en vervolgens is vermenigvuldigd met de deeltijdfactor.
+- G. Onder vernummering van het negende en tiende lid van artikel 9 tot het elfde en twaalfde lid worden in dat artikel een nieuw negende en tiende lid ingevoegd, luidende: 9. Het dagloon dat ten grondslag ligt aan de uitkering van de werkloze persoon, aan wie op de dag voor de toepassing, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=2&z=2018-01-01&g=2018-01-01), een invaliditeitspensioen wordt uitbetaald op grond van de Algemene burgerlijke pensioenwet of de Spoorwegpensioenwet, is gelijk aan de door 261 gedeelde berekeningsgrondslag waarnaar dat pensioen was berekend. Indien op het in de eerste volzin bedoelde pensioen ingevolge artikel F 9a van de Algemene burgerlijke pensioenwet of artikel F 7a van de Spoorwegpensioenwet een toeslag was verleend, wordt voor de vaststelling van het dagloon het bedrag van de berekeningsgrondslag verhoogd met die toeslag. [Artikel 15 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15) is van toepassing op het dagloon, bedoeld in dit lid. 10. Indien het recht op invaliditeitspensioen is toegekend uit een deeltijdbetrekking, geldt in afwijking van het negende lid als dagloon het bedrag dat overeenkomstig dat lid wordt verkregen en vervolgens is vermenigvuldigd met de deeltijdfactor.
 
 - H. In het nieuwe [twaalfde lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=9&z=2018-01-01&g=2018-01-01) wordt «het negende lid» vervangen door: het elfde lid.
 
 ##### Artikel 65
 
-Wijzigt de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria.
+*Wijzigt de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria.*
 
 ##### Artikel 66
 
-Wijzigt de Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen.
+*Wijzigt de Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen.*
 
 ##### Artikel 67
 
-Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.
+*Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.*
 
 ##### Artikel 67a
 
-Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.
+*Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.*
 
 ##### Artikel 67b
 
-Wet financiering loopbaanonderbreking.
+*Wet financiering loopbaanonderbreking.*
 
 ### Hoofdstuk 3. Wijziging van andere wetten
 
 ##### Artikel 68
 
-Wijzigt de Wet financiële voorzieningen privatisering ABP.
+*Wijzigt de Wet financiële voorzieningen privatisering ABP.*
 
 ##### Artikel 69
 
-Wijzigt de Wet financiële voorzieningen privatisering ABP.
+*Wijzigt de Wet financiële voorzieningen privatisering ABP.*
 
 ##### Artikel 70
 
-Wijzigt de Wet financiële voorzieningen privatisering ABP.
+*Wijzigt de Wet financiële voorzieningen privatisering ABP.*
 
 ##### Artikel 71
 
-Wijzigt de Wet privatisering ABP.
+*Wijzigt de Wet privatisering ABP.*
 
 ##### Artikel 72
 
-Wijzigt de Beroepswet.
+*Wijzigt de Beroepswet.*
 
 ##### Artikel 73
 
-Wijzigt de Algemene militaire pensioenwet.
+*Wijzigt de Algemene militaire pensioenwet.*
 
 ##### Artikel 74
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 75
 
-Wijzigt de Ziekenfondswet.
+*Wijzigt de Ziekenfondswet.*
 
 ##### Artikel 76
 
-Wijzigt de Ziekenfondswet.
+*Wijzigt de Ziekenfondswet.*
 
 ##### Artikel 77
 
@@ -846,7 +816,7 @@ Met ingang van het tijdstip van aanvang van fase 1 van deze wet wordt de Wet Sti
 
 ##### Artikel 78
 
-Wijzigt de Wet op de ondernemingsraden.
+*Wijzigt de Wet op de ondernemingsraden.*
 
 ### Hoofdstuk 4. Overige en slotbepalingen
 
@@ -878,7 +848,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen verstrekt op verzoek aan een or
 
 ##### Artikel 83
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
 2. Met ingang van het tijdstip van aanvang van fase 3 van deze wet kan bij of krachtens algemene maatregel van bestuur, op voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid tezamen met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, worden bepaald dat tot een daarin te bepalen tijdstip:
 
@@ -900,7 +870,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen verstrekt op verzoek aan een or
 
 ##### Artikel 85
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 86
 
@@ -914,7 +884,7 @@ Vervallen
 
 ##### Artikel 88
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 89
 
@@ -938,9 +908,9 @@ Vervallen
 
 - a. de teller wordt gevormd door het totaal van de over een kalenderjaar ontvangen premies op grond van de [artikelen 85, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=85), en [86 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=86) over het totaal van de in het betreffende kalenderjaar uitbetaalde uitkeringen op grond van de Wet op de arbeidsongeschiktheidsverzekering van overheidswerknemers als bedoeld in [artikel 1, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=1&artikel=1&z=2018-01-01&g=2018-01-01), en gewezen overheidswerknemers, vermeerderd met de over dat bedrag ontvangen rente en onder aftrek van:
 
-- 1°. een bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, vastgesteld bedrag, dat volgens een bij die ministeriële regeling te bepalen verdeling wordt afgedragen aan de wachtgeldfondsen, bedoeld in [artikel 102 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=102), of het Algemeen werkloosheidsfonds, bedoeld in [artikel 103 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=103), en
+   - 1°. een bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, vastgesteld bedrag, dat volgens een bij die ministeriële regeling te bepalen verdeling wordt afgedragen aan de wachtgeldfondsen, bedoeld in [artikel 102 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=102), of het Algemeen werkloosheidsfonds, bedoeld in [artikel 103 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=103), en
 
-- 2°. de door het Uitvoeringsinstituut werknemersverzekeringen vastgestelde uitvoeringskosten van de toepassing van [artikel 89 en het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=4&artikel=89&z=2018-01-01&g=2018-01-01), en.
+   - 2°. de door het Uitvoeringsinstituut werknemersverzekeringen vastgestelde uitvoeringskosten van de toepassing van [artikel 89 en het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=4&artikel=89&z=2018-01-01&g=2018-01-01), en.
 
 - b. de noemer wordt gevormd door de som van de voor het totaal van de overheidswerkgevers vastgestelde premieloon voor de heffing van de in het eerste lid bedoelde premie in het betreffende kalenderjaar gedeeld door het premieloon voor de heffing van de in het eerste lid bedoelde premie van de betreffende overheidswerkgever in dat kalenderjaar.
 
@@ -962,11 +932,11 @@ Betalingen die na het tijdstip van aanvang van fase 2, bedoeld in [artikel 53](h
 
 ##### Artikel 91
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 92
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 93
 
@@ -981,5 +951,3 @@ Deze wet wordt aangehaald als: Wet overheidspersoneel onder de werknemersverzeke
 3. Het in het eerste en tweede lid bedoelde tijdstip kan voor de verschillende artikelen, onderdelen of subonderdelen daarvan alsmede voor groepen van overheidswerknemers en gewezen overheidswerknemers verschillend worden vastgesteld.
 
 4. In afwijking van het eerste en tweede lid treden [de artikelen 35 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=5&artikel=35&z=2018-01-01&g=2018-01-01) in werking met ingang van 1 oktober 1997. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 30 september 1997, treden de in de eerste volzin genoemde artikelen in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werken zij terug tot en met 1 oktober 1997.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

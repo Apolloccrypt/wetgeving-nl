@@ -6,10 +6,11 @@ categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-25
 laatste_update: 2026-07-25
-status: geldig
+status: vervallen
+vervallen_op: 2026-07-31
 toestand: 2026-07-25
 bron: "https://wetten.overheid.nl/BWBR0052888"
-opgehaald: 2026-07-31
+opgehaald: 2026-08-03
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 10 juli 2026, nr. 0000150707, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van groene slaluis in de onbedekte teelt van sla (Tijdelijke vrijstelling voor de beheersing van groene slaluis in de onbedekte teelt van sla, 2026)

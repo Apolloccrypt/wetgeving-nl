@@ -1,47 +1,18 @@
 ---
 title: "Wet van 21 oktober 1996, houdende regeling van de taakuitoefening door het RIVM (Wet op het RIVM)"
+citeertitel: "Wet op het RIVM"
 identifier: "BWBR0008289"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008289"
+categorie: "Overig"
 soort: "wet"
-stam_id: "186363"
-version_id: "254512"
-internal_id: "C254511"
-label_id: "184004"
-dtd_version: "2.0"
-original_entry_into_force: "1997-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008289/2024-01-01/0"
-intitule_bron: "Stb.1996-560"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-10-21"
-intitule_published: "1996-11-26"
-intitule_in_force: "1997-02-27"
-intitule_status: "goed"
-original_publication: "Stb.1996-560"
-original_signed_date: "1996-10-21"
-original_published_date: "1996-11-26"
-original_effect: "nieuwe-regeling"
-original_dossier: "24454"
-original_url_id: "stb-1996-560"
-entry_into_force_date: "1997-03-01"
-jci_1_3: "jci1.3:c:BWBR0008289&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0008289&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op het RIVM"
-signed_date: "1996-10-21"
-entry_into_force: "1997-03-01"
+publicatiedatum: 1997-03-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0008289"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 21 oktober 1996, houdende regeling van de taakuitoefening door het RIVM (Wet op het RIVM)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is wettelijk te regelen dat het Rijksinstituut voor volksgezondheid en milieu zijn taken ten behoeve van de beleidsontwikkeling en het toezicht op het terrein van de volksgezondheid en het terrein van het milieu zelfstandig uitoefent;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### HOOFDSTUK 1. BEGRIPSOMSCHRIJVINGEN
 
@@ -93,6 +64,8 @@ Onze Minister geeft aan de directeur-generaal geen aanwijzingen met betrekking t
 
 Onze Minister zendt rapporten als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), en meerjarenbeleidsplannen aan de Staten-Generaal.
 
+### HOOFDSTUK 3. COMMISSIE VAN TOEZICHT
+
 ##### Artikel 7
 
 1. Er is een commissie van toezicht die tot taak heeft het wetenschappelijk niveau van het RIVM en de onafhankelijkheid van het onderzoek, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), te bewaken. De commissie rapporteert hierover jaarlijks aan Onze Minister.
@@ -103,34 +76,12 @@ Onze Minister zendt rapporten als bedoeld in [artikel 3, eerste lid, onder b](ht
 
 4. Indien dat voor een specifieke onderzoeksopdracht wenselijk is, kan Onze Minister na overleg met Onze Ministers die het mede aangaat, op verzoek van de voorzitter voor de duur van het onderzoek één of meer leden aan de commissie toevoegen met deskundigheid op een specifiek terrein van wetenschappelijk onderzoek.
 
-### HOOFDSTUK 3. COMMISSIE VAN TOEZICHT
+### HOOFDSTUK 4. SLOTBEPALINGEN
 
 ##### Artikel 8
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-### HOOFDSTUK 4. SLOT- EN OVERGANGSBEPALINGEN
-
 ##### Artikel 9
 
 Deze wet wordt aangehaald als: Wet op het RIVM.
-
-##### Artikel 10
-
-Het koninklijke besluit van 30 december 1983, houdende instelling van het Rijksinstituut voor Volksgezondheid en Milieuhygiëne (**Stb**. 728) wordt ingetrokken.
-
-##### Artikel 11
-
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 12
-
-Deze wet wordt aangehaald als: Wet op het RIVM.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### HOOFDSTUK 3. COMMISSIE VAN TOEZICHT
-
-### HOOFDSTUK 4. SLOTBEPALINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

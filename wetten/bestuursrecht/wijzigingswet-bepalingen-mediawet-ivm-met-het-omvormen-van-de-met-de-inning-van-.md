@@ -1,60 +1,30 @@
 ---
 title: "Wet van 19 december 1996 tot wijziging van bepalingen van de Mediawet in verband met het omvormen van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V. tot een publiekrechtelijk vormgegeven zelfstandig bestuursorgaan"
+citeertitel: "Wijzigingswet bepalingen Mediawet ivm met het omvormen van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V. tot een publiekrechtelijk vormgegeven zelfstandig bestuursorgaan"
 identifier: "BWBR0008454"
-country: "nl"
-rank: "wet"
-publication_date: "2004-02-13"
-last_updated: "2004-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008454"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "221833"
-version_id: "307562"
-internal_id: "C307561"
-label_id: "217664"
-dtd_version: "2.0"
-original_entry_into_force: "1996-12-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008454/2004-02-13/0"
-intitule_bron: "Stb.1996-648"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-19"
-intitule_published: "1996-12-23"
-intitule_in_force: "1996-12-23"
-intitule_status: "goed"
-original_publication: "Stb.1996-648"
-original_signed_date: "1996-12-19"
-original_published_date: "1996-12-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "24648"
-original_url_id: "stb-1996-648"
-entry_into_force_date: "1996-12-24"
-entry_into_force_dossier: "24648"
-jci_1_3: "jci1.3:c:BWBR0008454&z=2004-02-13&g=2004-02-13"
-jci_1_0: "1.0:c:BWBR0008454&g=2004-02-13"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet bepalingen Mediawet ivm met het omvormen van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V. tot een publiekrechtelijk vormgegeven zelfstandig bestuursorgaan"
-signed_date: "1996-12-19"
-entry_into_force: "1996-12-24"
+publicatiedatum: 1996-12-24
+laatste_update: 2004-02-13
+status: geldig
+toestand: 2004-02-13
+bron: "https://wetten.overheid.nl/BWBR0008454"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 19 december 1996 tot wijziging van bepalingen van de Mediawet in verband met het omvormen van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V. tot een publiekrechtelijk vormgegeven zelfstandig bestuursorgaan
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V. om te vormen tot een publiekrechtelijk vormgegeven zelfstandig bestuursorgaan, en aan dit bestuursorgaan de bevoegdheid toe te kennen een aantal met de [Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149) strijdige gedragingen op administratiefrechtelijke wijze af te doen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### ARTIKEL I
 
-Wijzigt de Mediawet.
+*Wijzigt de Mediawet.*
 
 ##### ARTIKEL II
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### ARTIKEL III
 
-1. In afwijking van [artikel 122**g** van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=122g), is het personeel van de Dienst omroepbijdragen tot een bij of krachtens wet te bepalen datum werkzaam krachtens arbeidsovereenkomst naar burgerlijk recht. Het personeel is tot die datum geen overheidswerknemer in de zin van artikel 2, eerste lid, onderdeel **a**, van de Wet privatisering Abp.
+1. In afwijking van [artikel 122*g* van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=122g), is het personeel van de Dienst omroepbijdragen tot een bij of krachtens wet te bepalen datum werkzaam krachtens arbeidsovereenkomst naar burgerlijk recht. Het personeel is tot die datum geen overheidswerknemer in de zin van artikel 2, eerste lid, onderdeel *a*, van de Wet privatisering Abp.
 
 2. De personen die op de in het eerste lid bedoelde datum behoren tot het personeel van de Dienst omroepbijdragen, zijn met ingang van die datum van rechtswege aangesteld als ambtenaar in dienst van de Dienst omroepbijdragen met een rechtspositie die in totaliteit ten minste gelijkwaardig is aan die welke voor elk van hen gold krachtens zijn arbeidsovereenkomst naar burgerlijk recht.
 
@@ -62,9 +32,9 @@ Wijzigt de Provinciewet.
 
 1. Onze Minister van Onderwijs, Cultuur en Wetenschappen en Koninklijke PTT Nederland N.V. stellen gezamenlijk een lijst vast van de namen en functies van de personen die krachtens arbeidsovereenkomst naar burgerlijk recht behoren tot het personeel van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V.
 
-2. De overgang van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V. naar de Dienst omroepbijdragen wordt aangemerkt als de overgang van een onderneming, bedoeld in artikel 1639**aa** van boek 7A van het Burgerlijk Wetboek.
+2. De overgang van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V. naar de Dienst omroepbijdragen wordt aangemerkt als de overgang van een onderneming, bedoeld in artikel 1639*aa* van boek 7A van het Burgerlijk Wetboek.
 
-3. De artikelen 1639**bb** tot en met 1639**dd** van boek 7A van het Burgerlijk Wetboek zijn niet van toepassing ten aanzien van de directeur van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V.
+3. De artikelen 1639*bb* tot en met 1639*dd* van boek 7A van het Burgerlijk Wetboek zijn niet van toepassing ten aanzien van de directeur van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V.
 
 4. De directeur van de Dienst omroepbijdragen wordt voor de eerste periode van vijf jaren benoemd door Onze Minister van Onderwijs, Cultuur en Wetenschappen.
 
@@ -107,5 +77,3 @@ Onze Minister van Onderwijs, Cultuur en Wetenschap zendt binnen vijf jaar na de 
 1. [Artikel I, onderdelen A, C, D, G en O](https://wetten.overheid.nl/jci1.3:c:BWBR0008454&artikel=I&z=2004-02-13&g=2004-02-13), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008454&artikel=II&z=2004-02-13&g=2004-02-13) van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
 2. De overige artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

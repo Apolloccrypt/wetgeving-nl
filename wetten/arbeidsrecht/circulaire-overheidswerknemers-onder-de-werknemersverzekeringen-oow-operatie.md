@@ -1,43 +1,21 @@
 ---
 title: "Circulaire Overheidswerknemers onder de werknemersverzekeringen (OOW-operatie)"
 identifier: "BWBR0008483"
-country: "nl"
-rank: "circulaire"
-publication_date: "1998-01-01"
-last_updated: "1998-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008483"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "6342993"
-version_id: "10997922"
-internal_id: "C14890701"
-label_id: "6332204"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008483/1998-01-01/0"
-intitule_bron: "Stcrt.1997-241"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1997-12-15"
-intitule_in_force: "1997-12-15"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-241"
-original_published_date: "1997-12-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "010197"
-original_url_id: "stcrt-1997-241-p14-SC11694"
-entry_into_force_date: "1998-01-01"
-entry_into_force_dossier: "010197"
-jci_1_3: "jci1.3:c:BWBR0008483&z=1998-01-01&g=1998-01-01"
-jci_1_0: "1.0:c:BWBR0008483&g=1998-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 1998-01-01
+status: geldig
+toestand: 1998-01-01
+bron: "https://wetten.overheid.nl/BWBR0008483"
+opgehaald: 2026-08-03
 ---
-# Circulaire Overheidswerknemers onder de werknemersverzekeringen (OOW-operatie)
 
-Circulaire aan de Ministers
+# Circulaire Overheidswerknemers onder de werknemersverzekeringen (OOW-operatie)
 
 ### Inleiding/managementinformatie
 
-Deze circulaire heeft tot doel informatie te verschaffen over de operatie ’Overheidspersoneel onder de werknemersverzekeringen’ (OOW). Deze circulaire is een aanvulling op mijn vorige [circulaire](onbekend) over dit onderwerp, gedateerd 19 juni 1997, nr. AD97/U521.
+Deze circulaire heeft tot doel informatie te verschaffen over de operatie ’Overheidspersoneel onder de werknemersverzekeringen’ (OOW). Deze circulaire is een aanvulling op mijn vorige circulaire over dit onderwerp, gedateerd 19 juni 1997, nr. AD97/U521.
 
 Het wetsvoorstel OOW (Kamerstukken II 1996/97, 25 282, nrs 1-2) is 11 november jl. aanvaard door de Tweede Kamer en zal zo spoedig mogelijk worden doorgezonden naar de Eerste Kamer. Dit wetsvoorstel is op een aantal onderdelen gewijzigd ten opzichte van het voorstel waarover ik u bij mijn vorige circulaire berichtte. Hiertoe is op 29 augustus 1997 een nota van wijziging bij de Tweede Kamer ingediend (vindplaats: Kamerstukken II 1996/1997, 25 282, nr. 7). Van de bij nader inzien benodigde wijzigingen wil ik u bij deze op de hoogte brengen.
 
@@ -53,9 +31,31 @@ De nota van wijziging met betrekking tot het wetsvoorstel OOW verandert niets aa
 
 De veranderingen in het wetsvoorstel gaan om de volgende onderwerpen:
 
-Tevens maak ik van de gelegenheid gebruik om u te informeren over een voor overheidswerkgevers relevante wijziging van de [wet Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655). Overheidswerkgevers hoeven, indien zij eigen risicodrager willen worden, geen bankgarantie te overleggen. (zie hiervoor hoofdstuk 10).
+- • een overgangsbepaling met betrekking tot de 13e-weeksmelding aan de uitvoeringsinstelling (met het oog op de toepassing van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)) van een op 31 december 1997 bestaand geval van ziekte (zie [hoofdstuk 2](https://wetten.overheid.nl/BWBR0008483));
 
-Tenslotte heb ik in hoofdstuk 11 nogmaals het ongewijzigde invoeringstraject OOW aangegeven.
+- • een overgangsbepaling ten aanzien van het onder de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) kunnen voortzetten van op 31 december 1997 lopende werkgeversbetalingen van de WAO-conforme uitkering (zie [hoofdstuk 3](https://wetten.overheid.nl/BWBR0008483));
+
+- • een verduidelijking van het begrip overheidswerkgever in de zin van OOW (zie [hoofdstuk 4](https://wetten.overheid.nl/BWBR0008483));
+
+- • de introductie van de mogelijkheid dat een overheidswerkgever is aangesloten bij meerdere uitvoeringsinstellingen voor de uitvoering van de op zijn personeel van toepassing zijnde regelingen (zie [hoofdstuk 5](https://wetten.overheid.nl/BWBR0008483));
+
+- • over WAO-uitkeringen van (gewezen) overheidswerknemers zullen premies [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) worden ingehouden, zonder dat sprake is van afdracht van die WW-premies aan de fondsen van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) (zie [hoofdstuk 6](https://wetten.overheid.nl/BWBR0008483));
+
+- • het gebruik van de geldstroom met betrekking tot de WAO-premie om een drietal andere geldstromen te laten meeliften:
+
+   - 1e het ten gunste van de overheidswerkgevers laten komen van de WW-premie over WAO-uitkeringen van overheidswerknemers;
+
+   - 2e het ten gunste van de overheidswerkgevers laten komen van het eventuele restvermogen FAOP;
+
+   - 3e het bij WOR-plichtige overheidswerkgevers in rekening brengen van de heffing voor de scholing en opleiding van OR-leden bij de overheid (zie [hoofdstuk 7](https://wetten.overheid.nl/BWBR0008483));
+
+- • handhaving deeltijdfactor bij premieheffing (zie [hoofdstuk 8](https://wetten.overheid.nl/BWBR0008483));
+
+- • nabetaling (zie [hoofdstuk 9](https://wetten.overheid.nl/BWBR0008483)).
+
+Tevens maak ik van de gelegenheid gebruik om u te informeren over een voor overheidswerkgevers relevante wijziging van de [wet Pemba](https://wetten.overheid.nl/jci1.3:c:BWBR0008655). Overheidswerkgevers hoeven, indien zij eigen risicodrager willen worden, geen bankgarantie te overleggen. (zie hiervoor [hoofdstuk 10](https://wetten.overheid.nl/BWBR0008483)).
+
+Tenslotte heb ik in [hoofdstuk 11](https://wetten.overheid.nl/BWBR0008483) nogmaals het ongewijzigde invoeringstraject OOW aangegeven.
 
 ### 2. Dertiendeweeksmelding
 
@@ -93,6 +93,10 @@ Indien de werknemer echter meer dan één werkgever heeft, staat de [WAO](https:
 
 Evenals nu eindigt de betaling van de WAO-uitkering aan de werkgever op of na 1 januari 1998:
 
+- – bij het einde van het dienstverband met de betrokken werknemer, of
+
+- – bij herplaatsing voor het volledige resterende verdienvermogen in een andere of aangepaste betrekking zonder dat sprake is van ontslag uit de oorspronkelijke betrekking.
+
 Laatstgenoemde beëindigingsgrond komt materieel overeen met de bestaande beëindigingsgrond ’herplaatsing met recht op herplaatsingstoelage’.
 
 Aan de bestaande beëindigingsgronden is een nieuwe toegevoegd met het oog op het systeem van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524). Het systeem van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) houdt in dat de werknemer de uitvoeringsinstelling kan machtigen tot betaling aan een derde. De beslissing tot machtiging is zijn keuze. Om administratief-technische redenen is wat betreft de lopende gevallen gekozen voor voortzetting van de betaling aan de werkgever. Dit mag er echter niet toe leiden dat de werknemer, in afwijking van het systeem van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), geen keuze in dezen heeft. Daarom heeft de betrokken werknemer de mogelijkheid om de uitvoeringsinstelling te verzoeken de WAO-uitkering rechtstreeks aan hemzelf of een andere derde dan zijn werkgever te betalen. De betaling via de werkgever eindigt in dat geval. In de sector Rijk wordt er overigens vanuit gegaan dat de ambtenaar in alle gevallen meewerkt aan de doelmatige en efficiënte uitvoering van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en in dat verband de gevraagde machtiging aan de werkgever verstrekt. Indien de ambtenaar een arbeidsverhouding heeft met meerdere werkgevers is het overigens niet mogelijk om bedoelde machtiging te verstrekken. De uitbetaling van de WAO-uitkering zal in het laatste geval altijd door de uitvoeringsinstelling worden verricht.
@@ -114,6 +118,10 @@ De bedoeling was dat iedere overheidswerkgever bij één sector (of één sector
 Wat betreft het vraagstuk betreffende de aansluiting bij een uitvoeringsinstelling geldt het volgende.
 
 Momenteel kunnen overheidswerkgevers twee categorieën werknemers in dienst hebben:
+
+- a. overheidswerknemers in de zin van de [WPA](https://wetten.overheid.nl/jci1.3:c:BWBR0007791); en
+
+- b. werknemers in de zin van de wettelijke werknemersverzekeringen.
 
 Voor beide categorieën werknemers geldt een eigen systeem van sociale zekerheid met eigen uitvoeringsorganen. De verantwoordelijkheid voor de uitvoering is als volgt geregeld.
 
@@ -182,6 +190,14 @@ In de Tweede Kamer is een wijziging van de [wet Pemba](https://wetten.overheid.n
 Tenslotte zij opgemerkt dat het invoeringstraject, zoals ik u dat heb medegedeeld in mijn circulaire van 19 juni 1997, nr. AD97/U521, ongewijzigd blijft.
 
 Het voorgestelde invoeringsscenario van OOW houdt derhalve nog steeds het volgende in.
+
+- • Met ingang van 1 januari 1998 wordt de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) (WAO) inclusief de maatregelen van de [Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008655) (Pemba) ingevoerd. Bestaande WAO-conforme uitkeringen worden daarbij omgezet in WAO-uitkeringen. Per deze datum wordt naar verwachting tevens de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) (REA) ingevoerd.
+
+- • Met ingang van 1 januari 1999 wordt de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) (ZW) ingevoerd voor het overheidspersoneel (inclusief nieuwe wachtgelders) dat op of na die datum ziek in de zin van die wet wordt (’de nieuwe gevallen [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)’).
+
+- • Met ingang van 1 januari 2000 wordt de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) ingevoerd voor het overheidspersoneel (inclusief bestaande wachtgelders) dat op 31 december 1998 ziek in de zin van die wet was en dat nog steeds is op 1 januari 2000 (’de oude gevallen [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)’). De verschillende data voor nieuwe en oude gevallen zijn, zoals in de vorige circulaire geschetst, noodzakelijk om uitvoeringstechnische redenen.
+
+- • Over de invoeringsdatum van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) (WW) beslist het kabinet in 1998. Het besluit zal worden genomen na afronding van een onderzoek naar de wijze van financiering van de werkloosheidslasten bij de overheid. De afronding van dat onderzoek is gepland in het eerste kwartaal van 1998. De vroegst mogelijke invoeringsdatum voor de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) is 1 januari 1999. Hierbij zal eveneens om uitvoeringstechnische redenen verschil gemaakt worden tussen nieuwe en bestaande gevallen.
 
 De [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) zal op zijn vroegst vanaf 1 januari 1999 van toepassing worden op werknemers die op of na die datum werkloos in de zin van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) worden (’de nieuwe gevallen [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0002470)’).
 

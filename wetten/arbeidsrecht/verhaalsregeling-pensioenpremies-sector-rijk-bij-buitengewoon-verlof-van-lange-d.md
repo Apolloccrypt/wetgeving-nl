@@ -1,48 +1,37 @@
 ---
 title: "Verhaalsregeling pensioenpremies sector Rijk bij buitengewoon verlof van lange duur"
 identifier: "BWBR0008264"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-10-10"
-last_updated: "1996-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008264"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3657913"
-version_id: "5440972"
-internal_id: "C5634061"
-label_id: "3637854"
-dtd_version: "2.0"
-original_entry_into_force: "1996-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008264/1996-10-10/0"
-intitule_bron: "Stcrt.1996-194"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-10-02"
-intitule_published: "1996-10-08"
-intitule_in_force: "1996-10-08"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-194"
-original_signed_date: "1996-10-02"
-original_published_date: "1996-10-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-10-10"
-jci_1_3: "jci1.3:c:BWBR0008264&z=1996-10-10&g=1996-10-10"
-jci_1_0: "1.0:c:BWBR0008264&g=1996-10-10"
-citeertitel_status: "officieel"
-signed_date: "1996-10-02"
-entry_into_force: "1996-10-10"
+publicatiedatum: 1996-10-10
+laatste_update: 1996-10-10
+status: geldig
+toestand: 1996-10-10
+bron: "https://wetten.overheid.nl/BWBR0008264"
+opgehaald: 2026-08-03
 ---
+
 # Verhaalsregeling pensioenpremies sector Rijk bij buitengewoon verlof van lange duur
-
-gelet op artikel 3, zevende lid, van de ingevolge de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) overeengekomen Pensioenovereenkomst (Stcrt. 1995, 251);
-
-handelende in overeenstemming met het gevoelen van de Ministerraad;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+Pensioenreglement:
+
+het Pensioenreglement van de Stichting Pensioenfonds ABP;
+
+werkgever:
+
+de overheidswerkgever, bedoeld in [artikel 1, onderdeel m, van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=1);
+
+deelnemer:
+
+de deelnemer, bedoeld in artikel 2.4 van het Pensioenreglement, die op basis van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003229), het [Ambtenarenreglement Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0003229) of het [Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052) in burgerlijke rijksdienst is aangesteld;
+
+verhaal:
+
+de in artikel 3 van de Pensioenovereenkomst bedoelde inhouding op het salaris van de deelnemer wegens verhaal van pensioenpremies.
 
 ##### Artikel 2
 
@@ -81,5 +70,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Verhaalsregeling pensioenpremies sector Rijk bij buitengewoon verlof van lange duur.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

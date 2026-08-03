@@ -1,55 +1,18 @@
 ---
 title: "Besluit tot instelling van een Commissie van onderzoek naar advies over de financiële relaties tussen Aruba en Nederland"
+citeertitel: "Instelling Adviescommissie Samenwerking Aruba-Nederland"
 identifier: "BWBR0008592"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-05-01"
-last_updated: "1997-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008592"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3536833"
-version_id: "5319992"
-internal_id: "C5513081"
-label_id: "3516864"
-dtd_version: "2.0"
-original_entry_into_force: "1997-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008592/1997-05-01/0"
-intitule_bron: "Stcrt.1997-60"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-03-13"
-intitule_published: "1997-03-26"
-intitule_in_force: "1997-03-26"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-60"
-original_signed_date: "1997-03-13"
-original_published_date: "1997-03-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-05-01"
-jci_1_3: "jci1.3:c:BWBR0008592&z=1997-05-01&g=1997-05-01"
-jci_1_0: "1.0:c:BWBR0008592&g=1997-05-01"
-citeertitel_status: "officieel"
-short_title: "Instelling Adviescommissie Samenwerking Aruba-Nederland"
-signed_date: "1997-03-13"
-entry_into_force: "1997-05-01"
+publicatiedatum: 1997-05-01
+laatste_update: 1997-05-01
+status: geldig
+toestand: 1997-05-01
+bron: "https://wetten.overheid.nl/BWBR0008592"
+opgehaald: 2026-08-03
 ---
+
 # Besluit tot instelling van een Commissie van onderzoek naar advies over de financiële relaties tussen Aruba en Nederland
-
-overwegende,
-
-dat de financiële relaties tussen Aruba en Nederland in heroverweging moeten worden genomen teneinde deze beter toe te snijden op de samenwerking binnen de kaders van het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154);
-
-dat het wenselijk is voor deze heroverweging door deskundigen onderzoek te doen verrichten en advies te doen uitbrengen;
-
-gezien het memorandum van 15 januari 1997 inzake ’Herijking van de financiële relatie tussen Nederland en Aruba’;
-
-gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-en ‐ voorzover het de minister voor Nederlands-Arubaanse en Arubaanse Zaken van Nederland en de staatssecretaris van Binnenlandse Zaken, J. Kohnstamm betreft ‐ gelet op [artikel 6 Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6) (Staatsblad 1996, 378);
-
-Besluiten:
-
-een commissie van deskundigen in te stellen, waarop de volgende regels van toepassing zijn.
 
 ##### Artikel 1
 
@@ -110,5 +73,3 @@ Secretaris, niet zijnde lid, van de Commissie is de heer drs. N. F. Roest. De se
 2. De Commissie vangt haar werkzaamheden met onmiddellijke ingang aan.
 
 2. De Commissie brengt haar eindrapport uit vóór 1 juli 1997 aan de minister-president van Aruba en de minister voor Nederlands-Antilliaanse en Arubaanse Zaken van Nederland. Op hun verzoek doet de Commissie hen, gezamenlijk of elk afzonderlijk, tussentijds verslag van haar werkzaamheden en pleegt daarover overleg.
-
-Deze regeling zal in de Nederlandse Staatscourant worden geplaatst.

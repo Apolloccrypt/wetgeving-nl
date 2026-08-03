@@ -1,42 +1,17 @@
 ---
 title: "Defecte identiteitskaart: informatie en procedure-afhandeling"
 identifier: "BWBR0008702"
-country: "nl"
-rank: "circulaire"
-publication_date: "1997-05-29"
-last_updated: "1997-05-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008702"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6336133"
-version_id: "10990082"
-internal_id: "C14882131"
-label_id: "6325024"
-original_entry_into_force: "1997-05-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008702/1997-05-29/0"
-intitule_bron: "Stcrt.1997-113"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-05-29"
-intitule_published: "1997-06-18"
-intitule_in_force: "1997-06-18"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-113"
-original_signed_date: "1997-05-29"
-original_published_date: "1997-06-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1997-113-p10-SC9604"
-entry_into_force_date: "1997-05-29"
-jci_1_3: "jci1.3:c:BWBR0008702&z=1997-05-29&g=1997-05-29"
-jci_1_0: "1.0:c:BWBR0008702&g=1997-05-29"
-citeertitel_status: "redactioneel"
-signed_date: "1997-05-29"
-entry_into_force: "1997-05-29"
+publicatiedatum: 1997-05-29
+laatste_update: 1997-05-29
+status: geldig
+toestand: 1997-05-29
+bron: "https://wetten.overheid.nl/BWBR0008702"
+opgehaald: 2026-08-03
 ---
+
 # Defecte identiteitskaart: informatie en procedure-afhandeling
-
-Circulaire aan de burgemeesters
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 Sinds 1 januari 1995 zijn 2,5 miljoen Europese identiteitskaarten verstrekt. Hiervan zijn tot nu toe 250 kaarten wegens breuk van het laminaat veelal rondom de foto voor nader onderzoek naar de producent Enschedé/Sdu retour gezonden. Behoudens een aantal gevallen van evident onzorgvuldig gebruik kon de producent geen concrete oorzaak aangeven. Derhalve heeft TNO een onderzoek verricht naar de oorzaak van de beschadiging van het laminaat.
 
@@ -55,6 +30,18 @@ De aangepaste identiteitskaart zal per 1 oktober a.s. worden verstrekt.
 Gezien het aantal reeds verstrekte Europese identiteitskaarten valt te verwachten dat op enig tijdstip een defect document bij de gemeente wordt aangeboden. Om in een dergelijk geval zo zorgvuldig en snel mogelijk te kunnen handelen is in overleg met de VNG de hieronder beschreven procedure afgesproken. Uitgangspunt hierbij is of er al dan niet sprake is van onzorgvuldig gebruik. alleen in het geval van onzorgvuldig gebruik of in het geval dat de gemeente een fout heeft gemaakt bij het personaliseren en/of lamineren zal niet tot restitutie worden overgegaan. In alle andere gevallen zal het ministerie van Binnenlandse Zaken de gemeente restitueren.
 
 ### Procedure afhandeling
+
+- 1. De gemeente beoordeelt in eerste instantie of er sprake is van evident onzorgvuldig gebruik. Let hierbij op de volgende criteria: is de kaart vuil, ernstig gekreukt, gescheurd, nat geworden of gewassen of dubbelgevouwen geweest?
+
+- 2. Indien evident onzorgvuldig gebruik niet door de gemeente kan worden vastgesteld, wordt de kaart rechtstreeks (niet meer via Binnenlandse Zaken) voor onderzoek naar Enschedé/Sdu gezonden per aangetekende post. Adres: Postbus 10, 2000 AA Haarlem.
+
+- 3. Enschedé/Sdu stelt vervolgens een onderzoek in.
+
+   - a) Indien de onderzoeksresultaten uitwijzen dat er sprake is van onzorgvuldig gebruik, krijgt de gemeente hiervan binnen 4 weken bericht. Binnenlandse Zaken zal de kaart in dat geval niet restitueren.
+
+   - b) Ingeval er geen sprake is van onzorgvuldig gebruik ontvangt de gemeente hieromtrent binnen 6 weken bericht. Mocht uit het onderzoek van Enschedé/Sdu dan verder blijken dat de gemeente niet de juiste personaliseringsprocedure heeft gevolgd of dat een fout is gemaakt bij het lamineren, zal de kaart ook niet worden gerestitueerd.
+
+   - c) In alle overige gevallen zal de gemeente worden gerestitueerd. De gemeente kan dan vervolgens tot vergoeding van de kaart aan de burger overgaan.
 
 De defecte documenten worden in principe bewaard tot 3 maanden na de datum dat de onderzoeksresultaten bekend zijn gemaakt, tenzij in die periode een bezwaar wordt ingesteld. De afdeling RDB van Binnenlandse Zaken dient hiervan dan zo snel mogelijk in kennis te worden gesteld.
 

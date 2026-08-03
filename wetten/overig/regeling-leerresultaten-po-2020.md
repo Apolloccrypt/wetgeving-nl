@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0043066"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-03
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 11 december 2019 nr. PO/17846272, houdende voorschriften in het kader van de meting en beoordeling van leerresultaten als bedoeld in artikel 10a van de Wet op het primair onderwijs (Regeling leerresultaten PO 2020)

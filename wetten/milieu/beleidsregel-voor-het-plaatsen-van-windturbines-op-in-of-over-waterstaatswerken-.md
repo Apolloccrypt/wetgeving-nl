@@ -9,7 +9,7 @@ laatste_update: 2026-07-28
 status: geldig
 toestand: 2026-07-28
 bron: "https://wetten.overheid.nl/BWBR0013685"
-opgehaald: 2026-08-02
+opgehaald: 2026-08-03
 ---
 
 # Beleidsregel voor het plaatsen van windturbines op, in of over rijkswaterstaatswerken

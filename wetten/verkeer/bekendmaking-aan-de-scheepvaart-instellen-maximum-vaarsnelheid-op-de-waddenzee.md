@@ -1,42 +1,17 @@
 ---
 title: "Bekendmaking aan de scheepvaart; Instellen maximum vaarsnelheid op de Waddenzee"
 identifier: "BWBR0009519"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-02-15"
-last_updated: "2005-02-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009519"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "4296893"
-version_id: "6059652"
-internal_id: "C6263261"
-label_id: "4275484"
-dtd_version: "2.0"
-original_entry_into_force: "1998-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009519/2005-02-15/0"
-intitule_bron: "Stcrt.1998-66"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-03-31"
-intitule_published: "1998-04-06"
-intitule_in_force: "1998-04-06"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-66"
-original_signed_date: "1998-03-31"
-original_published_date: "1998-04-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-05-01"
-jci_1_3: "jci1.3:c:BWBR0009519&z=2005-02-15&g=2005-02-15"
-jci_1_0: "1.0:c:BWBR0009519&g=2005-02-15"
-citeertitel_status: "officieel"
-signed_date: "1998-03-31"
-entry_into_force: "1998-05-01"
+publicatiedatum: 1998-05-01
+laatste_update: 2005-02-15
+status: geldig
+toestand: 2005-02-15
+bron: "https://wetten.overheid.nl/BWBR0009519"
+opgehaald: 2026-08-03
 ---
+
 # Bekendmaking aan de scheepvaart; Instellen maximum vaarsnelheid op de Waddenzee
-
-Gelet op [artikel 8 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=8) en [artikel 13, van het Besluit administratieve bepalingen scheepvaartverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&artikel=13);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -59,5 +34,3 @@ zee naar de scheidingston WA 22/MG 1.
 ##### Artikel 3
 
 Dit besluit treedt inwerking met ingang van 1 mei 1998.
-
-Dit Besluit zal met de toelichting in de Staatscourant worden geplaatst.

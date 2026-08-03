@@ -1,44 +1,17 @@
 ---
 title: "Vaststelling selectielijst bosbouw"
 identifier: "BWBR0009445"
-country: "nl"
-rank: "archiefselectielijst"
-publication_date: "1998-03-18"
-last_updated: "1998-03-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009445"
+categorie: "Overig"
 soort: "ministeriele-regeling-archiefselectielijst"
-stam_id: "4029123"
-version_id: "5802222"
-internal_id: "C25309111"
-label_id: "4009094"
-dtd_version: "2.0"
-original_entry_into_force: "1998-03-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009445/1998-03-18/0"
-intitule_bron: "Stcrt.1998-51"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-03-04"
-intitule_published: "1998-03-16"
-intitule_in_force: "1998-03-16"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-51"
-original_signed_date: "1998-03-04"
-original_published_date: "1998-03-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-03-18"
-jci_1_3: "jci1.3:c:BWBR0009445&z=1998-03-18&g=1998-03-18"
-jci_1_0: "1.0:c:BWBR0009445&g=1998-03-18"
-citeertitel_status: "officieel"
-signed_date: "1998-03-04"
-entry_into_force: "1998-03-18"
+publicatiedatum: 1998-03-18
+laatste_update: 1998-03-18
+status: geldig
+toestand: 1998-03-18
+bron: "https://wetten.overheid.nl/BWBR0009445"
+opgehaald: 2026-08-03
 ---
+
 # Vaststelling selectielijst bosbouw
-
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
-
-De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 12 november 1997, nr. arc-97.6855/1);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -51,7 +24,3 @@ In te trekken de categorie ’Bossen en bosbouw vanuit nationaal gezichtspunt’
 ##### Artikel 3
 
 Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd.
-
-## Bijlage
-
-Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij het Ministerie van Landbouw, Natuurbeheer en Visserij.

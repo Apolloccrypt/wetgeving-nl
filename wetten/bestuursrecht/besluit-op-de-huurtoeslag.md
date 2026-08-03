@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 25 juni 1997 tot uitvoering van de Huursubsidiewet, met uitzondering van de bepalingen van die wet betreffende de beheersing van de huurlasten en de huursubsidieuitgaven (Huursubsidiebesluit)"
+citeertitel: "Besluit op de huurtoeslag"
 identifier: "BWBR0008763"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008763"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "576933"
-version_id: "838292"
-internal_id: "C838291"
-label_id: "560104"
-dtd_version: "2.0"
-original_entry_into_force: "1997-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008763/2026-01-01/0"
-intitule_bron: "Stb.1997-269"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-06-25"
-intitule_published: "1997-07-01"
-intitule_in_force: "1997-07-01"
-intitule_status: "goed"
-original_publication: "Stb.1997-269"
-original_signed_date: "1997-06-25"
-original_published_date: "1997-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-269"
-entry_into_force_date: "1997-07-02"
-jci_1_3: "jci1.3:c:BWBR0008763&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0008763&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit op de huurtoeslag"
-signed_date: "1997-06-25"
-entry_into_force: "1997-07-02"
+publicatiedatum: 1997-07-02
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0008763"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 25 juni 1997 tot uitvoering van de Huursubsidiewet, met uitzondering van de bepalingen van die wet betreffende de beheersing van de huurlasten en de huursubsidieuitgaven (Huursubsidiebesluit)
-
-Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 25 maart 1997, nr. MJZ 97092973, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
-
-Gelet op de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=4), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=11), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=28), en [46 van de Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=46), alsmede op [artikel 34, derde lid, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=34), [70, vijfde en zesde lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70), [34, vierde lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34), 9, zevende lid, van de Wet rechtsbijstand aan on- en minvermogenden, [7a, tweede lid, van de Algemene Bijstandswet](onbekend) en 102 van de Organisatiewet sociale voorzieningen 1997;
-
-De Raad van State gehoord (advies van 4 juni 1997, nr. W08.97.0165);
-
-Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 20 juni 1997, nr. MJZ 97109564, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
-
-Hebben goedgevonden en verstaan:
-
-Werkt terug tot en met 1 juli 1997.
 
 ### HOOFDSTUK 1. DEFINITIES
 
@@ -72,6 +38,44 @@ In dit besluit wordt verstaan onder wet: [Wet op de huurtoeslag](https://wetten.
 
 - c. een penitentiaire inrichting.
 
+##### Artikel 2a
+
+1. Op verzoek blijft voor de toepassing van [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=2), van [artikel 7 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) en de op die artikelen berustende bepalingen voor zover het betreft het toekennen van een huurtoeslag, een partner of medebewoner buiten beschouwing indien sprake is van een verzorgingsbehoefte bij de huurder, diens partner of een medebewoner.
+
+2. Het eerste lid geldt uitsluitend ten aanzien van de partner of medebewoner die met het oog op de verzorgingsbehoefte van de huurder of van hemzelf als ingezetene op hetzelfde woonadres als de huurder staat ingeschreven in de basisregistratie personen en is van toepassing indien:
+
+- a. de verzorgingsbehoefte blijkt uit een indicatiebesluit van het CIZ, genoemd in [artikel 7.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.1.1);
+
+- b. het voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 5.516 en
+
+- c. het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 60.525.
+
+3. Voor de toepassing van het eerste lid wordt geen rekening gehouden met de verzorgingsbehoefte van een minderjarige eerstegraads bloed- of aanverwant in de neergaande lijn.
+
+4. [Artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27) is van overeenkomstige toepassing op de in het tweede lid, onderdelen b en c, vermelde bedragen, waarbij ten aanzien van het in het tweede lid, onderdeel c, vermelde bedrag het resultaat naar boven wordt afgerond op een veelvoud van € 25.
+
+##### Artikel 2b
+
+1. Op verzoek blijven bij de toepassing van [artikel 7, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) voor zover het betreft het toekennen van een huurtoeslag, de navolgende bestanddelen van het toetsingsinkomen buiten beschouwing:
+
+- a. afkoopsommen van ouderdoms- of nabestaandenpensioen die in het berekeningsjaar niet meer bedragen dan het bedrag dat is opgenomen in [artikel 66, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=66) en [artikel 78, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=78);
+
+- b. nabetalingen van inkomsten als bedoeld in [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.3) en [3.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.5);
+
+- c. wezenuitkeringen die met toepassing van [artikel 49 van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=49) aan een ander dan de wettelijke vertegenwoordiger van het kind betaalbaar zijn gesteld;
+
+- d. afkoopsommen op grond van de [Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553);
+
+- e. verhogingen op grond van [artikel 10 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), [artikel 2:51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:51) of [3:9 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:9) of [artikel 22 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22) voorzover het bedrag van de verhoging niet hoger is dan het in [artikel 6.20, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.20) genoemde drempelbedrag voor uitgaven voor specifieke zorgkosten.
+
+2. Indien sprake is van een nabetaling die over de berekeningsjaren waarop deze nabetaling betrekking heeft gemiddeld meer dan € 2300 per jaar bedraagt, vindt het eerste lid, onderdeel b, uitsluitend toepassing indien over de berekeningsjaren waarop de nabetaling betrekking heeft minder huurtoeslag zou worden genoten dan indien de betrokken inkomsten niet als nabetaling zouden zijn uitbetaald.
+
+3. Indien de belanghebbende gedurende het gehele berekeningsjaar een partner heeft, wordt het in het eerste lid, onderdeel e, bedoelde drempelbedrag voor uitgaven voor specifieke zorgkosten verdubbeld.
+
+##### Artikel 2c
+
+Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2026-01-01&g=2026-01-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2026-01-01&g=2026-01-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
+
 ### Hoofdstuk 3. Onzelfstandige woonruimte
 
 ##### Artikel 3
@@ -80,9 +84,9 @@ In dit besluit wordt verstaan onder wet: [Wet op de huurtoeslag](https://wetten.
 
 - a. de desbetreffende woonruimten geschikt en bestemd zijn voor:
 
-- 1°. begeleid wonen, of een daarmee vergelijkbare woonvorm, of
+   - 1°. begeleid wonen, of een daarmee vergelijkbare woonvorm, of
 
-- 2°. groepswonen door ouderen, of een daarmee vergelijkbare woonvorm;
+   - 2°. groepswonen door ouderen, of een daarmee vergelijkbare woonvorm;
 
 - b. de desbetreffende huurovereenkomst naar haar aard niet van korte duur is;
 
@@ -116,17 +120,17 @@ In dit besluit wordt verstaan onder wet: [Wet op de huurtoeslag](https://wetten.
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
 De voorzitter van de huurcommissie vermeldt in de verklaring, bedoeld in [artikel 6, eerste lid, onder b, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=6), de hoogte van de huurprijs en of deze al dan niet redelijk is, beoordeeld naar de bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315) gestelde regels. Indien de voorzitter van oordeel is dat de huurprijs niet redelijk is, vermeldt hij tevens het puntenaantal van de woning op basis van het waarderingsstelsel, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5).
 
-### HOOFDSTUK 5. INFORMATIEPLICHT
+### Hoofdstuk 5. Kwaliteitskorting
 
 ##### Artikel 7
 
@@ -140,31 +144,31 @@ De voorzitter van de huurcommissie vermeldt in de verklaring, bedoeld in [artike
 
 ##### Artikel 8
 
-Wijzigt het Besluit draagkrachtcriteria rechtsbijstand.
+*Wijzigt het Besluit draagkrachtcriteria rechtsbijstand.*
 
 ##### Artikel 9
 
-Wijzigt het Besluit financiële toevoegingsgrenzen.
-
-#### § 1. Ministerie van Justitie
-
-##### Artikel 10
-
-Wijzigt het Bijstandsbesluit krediethypotheek.
-
-##### Artikel 11
-
-Wijzigt het Besluit gegevensverstrekking sociale verzekeringen 1997.
+*Wijzigt het Besluit financiële toevoegingsgrenzen.*
 
 #### § 2. Ministerie van Sociale Zaken en Werkgelegenheid
 
+##### Artikel 10
+
+*Wijzigt het Bijstandsbesluit krediethypotheek.*
+
+##### Artikel 11
+
+*Wijzigt het Besluit gegevensverstrekking sociale verzekeringen 1997.*
+
+#### § 3. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
 ##### Artikel 12
 
-Wijzigt het Huisvestingsbesluit.
+*Wijzigt het Huisvestingsbesluit.*
 
 ##### Artikel 13
 
-Wijzigt het Besluit beheer sociale-huursector.
+*Wijzigt het Besluit beheer sociale-huursector.*
 
 ### HOOFDSTUK 7. SLOTBEPALINGEN
 
@@ -176,62 +180,8 @@ Op subsidietijdvakken die zijn aangevangen onder de werking van de Wet individue
 
 1. Dit besluit treedt in werking met ingang van 1 juli 1997.
 
-2. Indien het **Staatsblad** waarin dit besluit wordt gepubliceerd wordt uitgegeven op of na 1 juli 1997, werkt het terug tot en met 1 juli 1997.
+2. Indien het *Staatsblad* waarin dit besluit wordt gepubliceerd wordt uitgegeven op of na 1 juli 1997, werkt het terug tot en met 1 juli 1997.
 
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit op de huurtoeslag.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 2a
-
-1. Op verzoek blijft voor de toepassing van [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=2), van [artikel 7 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) en de op die artikelen berustende bepalingen voor zover het betreft het toekennen van een huurtoeslag, een partner of medebewoner buiten beschouwing indien sprake is van een verzorgingsbehoefte bij de huurder, diens partner of een medebewoner.
-
-2. Het eerste lid geldt uitsluitend ten aanzien van de partner of medebewoner die met het oog op de verzorgingsbehoefte van de huurder of van hemzelf als ingezetene op hetzelfde woonadres als de huurder staat ingeschreven in de basisregistratie personen en is van toepassing indien:
-
-- a. de verzorgingsbehoefte blijkt uit een indicatiebesluit van het CIZ, genoemd in [artikel 7.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.1.1);
-
-- b. het voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 5.516 en
-
-- c. het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 60.525.
-
-3. Voor de toepassing van het eerste lid wordt geen rekening gehouden met de verzorgingsbehoefte van een minderjarige eerstegraads bloed- of aanverwant in de neergaande lijn.
-
-4. [Artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27) is van overeenkomstige toepassing op de in het tweede lid, onderdelen b en c, vermelde bedragen, waarbij ten aanzien van het in het tweede lid, onderdeel c, vermelde bedrag het resultaat naar boven wordt afgerond op een veelvoud van € 25.
-
-##### Artikel 2b
-
-1. Op verzoek blijven bij de toepassing van [artikel 7, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) voor zover het betreft het toekennen van een huurtoeslag, de navolgende bestanddelen van het toetsingsinkomen buiten beschouwing:
-
-- a. afkoopsommen van ouderdoms- of nabestaandenpensioen die in het berekeningsjaar niet meer bedragen dan het bedrag dat is opgenomen in [artikel 66, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=66) en [artikel 78, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=78);
-
-- b. nabetalingen van inkomsten als bedoeld in [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.3) en [3.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.5);
-
-- c. wezenuitkeringen die met toepassing van [artikel 49 van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=49) aan een ander dan de wettelijke vertegenwoordiger van het kind betaalbaar zijn gesteld;
-
-- d. afkoopsommen op grond van de [Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553);
-
-- e. verhogingen op grond van [artikel 10 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), [artikel 2:51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:51) of [3:9 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:9) of [artikel 22 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22) voorzover het bedrag van de verhoging niet hoger is dan het in [artikel 6.20, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.20) genoemde drempelbedrag voor uitgaven voor specifieke zorgkosten.
-
-2. Indien sprake is van een nabetaling die over de berekeningsjaren waarop deze nabetaling betrekking heeft gemiddeld meer dan € 2300 per jaar bedraagt, vindt het eerste lid, onderdeel b, uitsluitend toepassing indien over de berekeningsjaren waarop de nabetaling betrekking heeft minder huurtoeslag zou worden genoten dan indien de betrokken inkomsten niet als nabetaling zouden zijn uitbetaald.
-
-3. Indien de belanghebbende gedurende het gehele berekeningsjaar een partner heeft, wordt het in het eerste lid, onderdeel e, bedoelde drempelbedrag voor uitgaven voor specifieke zorgkosten verdubbeld.
-
-##### Artikel 2c
-
-Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2026-01-01&g=2026-01-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2026-01-01&g=2026-01-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
-
-### Hoofdstuk 3. Onzelfstandige woonruimte
-
-### Hoofdstuk 4. Verklaring van de voorzitter van de huurcommissie
-
-### Hoofdstuk 5. Kwaliteitskorting
-
-### HOOFDSTUK 6. WIJZIGING VAN ANDERE BESLUITEN
-
-#### § 3. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-
-### HOOFDSTUK 7. SLOTBEPALINGEN
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

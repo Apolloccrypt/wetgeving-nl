@@ -1,60 +1,67 @@
 ---
 title: "Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 1997"
 identifier: "BWBR0008435"
-country: "nl"
-rank: "circulaire"
-publication_date: "1996-12-23"
-last_updated: "1996-12-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008435"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "6331023"
-version_id: "10983932"
-internal_id: "C14874621"
-label_id: "6320044"
-original_entry_into_force: "1996-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008435/1996-12-23/0"
-intitule_bron: "Stcrt.1996-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-17"
-intitule_published: "1996-12-23"
-intitule_in_force: "1996-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-248"
-original_signed_date: "1996-12-17"
-original_published_date: "1996-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1996-248-p9-SC7857"
-entry_into_force_date: "1996-12-23"
-jci_1_3: "jci1.3:c:BWBR0008435&z=1996-12-23&g=1996-12-23"
-jci_1_0: "1.0:c:BWBR0008435&g=1996-12-23"
-citeertitel_status: "redactioneel"
-signed_date: "1996-12-17"
-entry_into_force: "1996-12-23"
+publicatiedatum: 1996-12-23
+laatste_update: 1996-12-23
+status: geldig
+toestand: 1996-12-23
+bron: "https://wetten.overheid.nl/BWBR0008435"
+opgehaald: 2026-08-03
 ---
-# Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 1997
 
-«Circulaire aan de ministers»
+# Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 1997
 
 ### Inleiding/managementinformatie
 
 Deze circulaire op het terrein van de financiële arbeidsvoorwaarden van het personeel van de sector Rijk betreft de hieronder genoemde aangelegenheden.
 
+- A. Aanpassing van diverse bedragen en percentages, te weten:
+
+   - 1. in het Besluit betaling emolumenten burgerlijk rijkspersoneel;
+
+   - 2. in de Verplaatsingskostenregeling 1989;
+
+   - 3. in de Reisregeling binnenland;
+
+- B. Wijziging van het salarisgrensbedrag voor de toekenning en het percentage van de distorsietoeslag.
+
+- C. Overige mededelingen, te weten over:
+
+   - 1. de hoogte van de eindejaarsuitkering ingaande 1 januari 1997;
+
+   - 2. de hoogte van het maximum spaarloonbedrag in 1997;
+
+   - 3. de bedragen van het wettelijk minimum(jeugd)loon ingaande 1 januari 1997;
+
+   - 4. de koffie- en theeprijzen.
+
 Voor de ambtenaar die reeds in het IPA-salarissysteem is opgenomen, zullen de onderhavige wijzigingen voor zover van toepassing automatisch worden aangepast. Daar waar betalingen op basis van declaratie plaatsvinden zal uw eigen personeelsadministratie de desbetreffende wijzigingen dienen aan te brengen. Dit laatste betreft onder meer de wijzigingen vermeld onder A.3 (bedragen inzake dienstreizen binnenland).
 
 ### A. Aanpassing van diverse bedragen en percentages
 
-### 1. [Besluit betaling emolumenten burgerlijk rijkspersoneel Maximumverrekeningsbedrag inwoning](onbekend)
+### 1. Besluit betaling emolumenten burgerlijk rijkspersoneel Maximumverrekeningsbedrag inwoning
 
-Voor diegenen voor wie de berekeningsbasis gelijk is aan of lager dan het voor 23-jarigen en ouderen geldende bedrag van het minimumloon, zal het verrekeningsbedrag voor genot van inwoning, bedoeld in [artikel 2, tweede lid](onbekend), van genoemd besluit ingaande 1 januari 1997 worden gewijzigd van f 231,00 in f 241,00 per maand.
+Voor diegenen voor wie de berekeningsbasis gelijk is aan of lager dan het voor 23-jarigen en ouderen geldende bedrag van het minimumloon, zal het verrekeningsbedrag voor genot van inwoning, bedoeld in artikel 2, tweede lid, van genoemd besluit ingaande 1 januari 1997 worden gewijzigd van f 231,00 in f 241,00 per maand.
 
 De ministeriële regeling waarin bovengenoemd bedrag is opgenomen, wordt in de Staatscourant gepubliceerd.
 
-### 2. [Verplaatsingskostenregeling 1989](onbekend)
+### 2. Verplaatsingskostenregeling 1989
 
-**a. Wijziging bedragen verband houdende met het woon/werkverkeer**
+*a. Wijziging bedragen verband houdende met het woon/werkverkeer*
 
 De aanpassingen per 1 januari 1997 houden het volgende in:
+
+- – het in artikel 11, eerste lid, van de regeling genoemde maximumbedrag van f 188,00 wordt verhoogd tot f 193,00 (het maximumbedrag aan reiskosten woon/werkverkeer voor niet-verhuisplichtige ambtenaren die naar het oordeel van de minister werkzaam zijn op per openbaar vervoer te bereiken plaatsen van tewerkstelling).
+
+- – het in artikel 11, eerste lid, genoemde bedrag dat de ambtenaar te allen tijde van de reiskosten woon/werkverkeer voor eigen rekening moet nemen wordt verhoogd van f 84,50 tot f 86,75.
+
+- – het in artikel 11, derde lid, genoemde maximumbedrag wordt verhoogd van f 289,75 tot f 297,50 (het maximumbedrag aan reiskosten woon/werkverkeer voor niet-verhuisplichtige ambtenaren die naar het oordeel van de minister werkzaam zijn op plaatsen van tewerksteling die niet per openbaar vervoer zijn te bereiken).
+
+- – het in artikel 12, eerste lid, genoemde maximumbedrag wordt verhoogd van f 439,75 tot f 449,75 (het maximumbedrag aan reiskosten woon/werkverkeer voor verhuisplichtige ambtenaren die werkzaam zijn op per openbaar vervoer te bereiken plaatsen van tewerkstelling).
+
+- – de in artikel 12, tweede lid, genoemde tabel wordt vervangen door de volgende tabel:
 
 van meer dan 20 km tot en met 30 km: f 300,83
 
@@ -72,19 +79,33 @@ van meer dan 80 km: f 558,33
 
 (maximaal uit te betalen vergoedingsbedragen voor reiskosten woon/werkverkeer voor verhuisplichtige ambtenaren die naar het oordeel van de minister werkzaam zijn op plaatsen van tewerkstelling die niet per openbaar vervoer zijn te bereiken).
 
-Het bedrag van f 0,30, bedoeld in [artikel 11, tweede lid](onbekend), wijzigt niet per 1 januari 1997.
+Het bedrag van f 0,30, bedoeld in artikel 11, tweede lid, wijzigt niet per 1 januari 1997.
 
-**b. Wijziging financiële voorzieningen bij functieverplaatsing (overgangsrecht)**
+*b. Wijziging financiële voorzieningen bij functieverplaatsing (overgangsrecht)*
 
-Per 1 januari 1997 vinden de volgende wijzigingen in [artikel 16a, tweede lid, van de Verplaatsingskostenregeling 1989](onbekend) plaats:
+Per 1 januari 1997 vinden de volgende wijzigingen in artikel 16a, tweede lid, van de Verplaatsingskostenregeling 1989 plaats:
+
+- – de genoemde percentages van 2,01% en 1,01% worden gewijzigd in respectievelijk 1,8% en 0,9%;
+
+- – het genoemde bedrag van f 90.800,00 wordt verhoogd tot f 92.500,00.
 
 De ministeriële regeling waarin de wijzigingen zijn opgenomen wordt gepubliceerd in de Staatscourant.
 
-### 3. [Reisregeling binnenland](onbekend)
+### 3. Reisregeling binnenland
 
 Wijziging vergoedingen wegens verblijfkosten
 
-In [artikel 5, eerste lid](onbekend), vinden per 1 januari 1997 de volgende wijzigingen plaats:
+In artikel 5, eerste lid, vinden per 1 januari 1997 de volgende wijzigingen plaats:
+
+- – het bedrag voor kleine uitgaven overdag (dagcomponent) en ’s-avonds (avondcomponent) wordt verhoogd van f 5,50 en f 16,50 tot onderscheidenlijk f 6,00 en f 17,50;
+
+- – het in onderdeel a genoemde bedrag voor een lunch (lunchcomponent) wordt verhoogd van f 18,00 tot f 18,50;
+
+- – het in onderdeel b genoemde bedrag voor een avondmaaltijd (dinercomponent) wordt verhoogd van f 26,50 tot f 28,00;
+
+- – het in onderdeel c genoemde bedrag voor logies (logiescomponent) wordt verlaagd van f 110,50 tot f 109,00;
+
+- – het in onderdeel d genoemde bedrag voor een ontbijt (ontbijtcomponent) wordt verhoogd van f 10,00 tot f 10,50.
 
 De ministeriële regeling waarin de wijzigingen zijn opgenomen wordt gepubliceerd in de Staatscourant.
 
@@ -100,7 +121,7 @@ De ministeriële regeling waarin deze wijziging is opgenomen wordt gepubliceerd 
 
 ### 1. Eindejaarsuitkering over 1997
 
-Volledigheidshalve herinner ik u eraan dat over 1997 de maandelijkse opbouw van de aanspraak op de eindejaarsuitkering als bedoeld in [artikel 20a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](onbekend) 0,3% van het salaris bedraagt.
+Volledigheidshalve herinner ik u eraan dat over 1997 de maandelijkse opbouw van de aanspraak op de eindejaarsuitkering als bedoeld in artikel 20a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 0,3% van het salaris bedraagt.
 
 ### 2. Spaarloonregeling rijkspersoneel
 
@@ -108,7 +129,19 @@ Het maximale spaarbedrag over 1997 bedraagt f 1.638,00 (was f 1.615,00).
 
 ### 3. Garantietoelage wettelijk minimumloon
 
-De bedragen van het wettelijk minimumloon en minimumjeugdloon die van belang zijn voor de bepaling van de garantietoelage, bedoeld in [artikel 16 van het BBRA 1984](onbekend), luiden ingaande 1 januari 1997 als volgt (zie ook Staatscourant van 29 oktober 1996, nr. 209):
+De bedragen van het wettelijk minimumloon en minimumjeugdloon die van belang zijn voor de bepaling van de garantietoelage, bedoeld in artikel 16 van het BBRA 1984, luiden ingaande 1 januari 1997 als volgt (zie ook Staatscourant van 29 oktober 1996, nr. 209):
+
+| Leeftijd | Bedrag per maand |
+| --- | --- |
+| 23 jaar of ouder | f 2.220,40 |
+| 22 jaar | f 1.887,30 |
+| 21 jaar | f 1.609,80 |
+| 20 jaar | f 1.365,50 |
+| 19 jaar | f 1.165,70 |
+| 18 jaar | f 1.010,30 |
+| 17 jaar | f 877,10 |
+| 16 jaar | f 766,00 |
+| 15 jaar | f 666,10 |
 
 ### 4. Koffie- en theeprijzen
 

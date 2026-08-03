@@ -1,42 +1,17 @@
 ---
 title: "Beleidsregel inzake het uitvoeren van verkeersvluchten door vliegers die 60 jaar of ouder zijn"
 identifier: "BWBR0008959"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1997-11-01"
-last_updated: "1997-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008959"
+categorie: "Verkeer"
 soort: "beleidsregel"
-stam_id: "4775123"
-version_id: "6581342"
-internal_id: "C7038581"
-label_id: "4753154"
-dtd_version: "2.0"
-original_entry_into_force: "1997-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008959/1997-11-01/0"
-intitule_bron: "Stcrt.1997-209"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-10-10"
-intitule_published: "1997-10-30"
-intitule_in_force: "1997-10-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-209"
-original_signed_date: "1997-10-10"
-original_published_date: "1997-10-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-11-01"
-jci_1_3: "jci1.3:c:BWBR0008959&z=1997-11-01&g=1997-11-01"
-jci_1_0: "1.0:c:BWBR0008959&g=1997-11-01"
-citeertitel_status: "officieel"
-signed_date: "1997-10-10"
-entry_into_force: "1997-11-01"
+publicatiedatum: 1997-11-01
+laatste_update: 1997-11-01
+status: geldig
+toestand: 1997-11-01
+bron: "https://wetten.overheid.nl/BWBR0008959"
+opgehaald: 2026-08-03
 ---
+
 # Beleidsregel inzake het uitvoeren van verkeersvluchten door vliegers die 60 jaar of ouder zijn
-
-Gelet op [artikel 20 van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=20);
-
-maakt bekend:
 
 ##### Artikel 1
 

@@ -1,48 +1,18 @@
 ---
 title: "Wet van 17 december 1997, houdende regels met betrekking tot naar buitenlands recht opgerichte, rechtspersoonlijkheid bezittende kapitaalvennootschappen die hun werkzaamheid geheel of nagenoeg geheel in Nederland verrichten en geen werkelijke band hebben met de staat naar welks recht zij zijn opgericht (Wet op de formeel buitenlandse vennootschappen)"
+citeertitel: "Wet op de formeel buitenlandse vennootschappen"
 identifier: "BWBR0009191"
-country: "nl"
-rank: "wet"
-publication_date: "2020-02-01"
-last_updated: "2020-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009191"
+categorie: "Overig"
 soort: "wet"
-stam_id: "671063"
-version_id: "25792502"
-internal_id: "C36775651"
-label_id: "650534"
-dtd_version: "2.0"
-original_entry_into_force: "2019-03-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009191/2020-02-01/0"
-intitule_bron: "Stb.1997-697"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-17"
-intitule_published: "1997-12-23"
-intitule_in_force: "1997-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2019-123"
-original_signed_date: "2019-03-27"
-original_published_date: "2019-04-12"
-original_effect: "structuurwijziging"
-original_dossier: "35084"
-original_url_id: "stb-2019-123"
-entry_into_force_date: "2019-03-27"
-entry_into_force_dossier: "35084"
-jci_1_3: "jci1.3:c:BWBR0009191&z=2020-02-01&g=2020-02-01"
-jci_1_0: "1.0:c:BWBR0009191&g=2020-02-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de formeel buitenlandse vennootschappen"
-signed_date: "2019-03-27"
-entry_into_force: "2019-03-27"
+publicatiedatum: 2019-03-27
+laatste_update: 2020-02-01
+status: geldig
+toestand: 2020-02-01
+bron: "https://wetten.overheid.nl/BWBR0009191"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 17 december 1997, houdende regels met betrekking tot naar buitenlands recht opgerichte, rechtspersoonlijkheid bezittende kapitaalvennootschappen die hun werkzaamheid geheel of nagenoeg geheel in Nederland verrichten en geen werkelijke band hebben met de staat naar welks recht zij zijn opgericht (Wet op de formeel buitenlandse vennootschappen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is bij de wet regels te stellen met betrekking tot naar buitenlands recht opgerichte, rechtspersoonlijkheid bezittende kapitaalvennootschappen die hun werkzaamheid geheel of nagenoeg geheel in Nederland verrichten en geen werkelijke band hebben met de staat naar welks recht zij zijn opgericht;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -86,15 +56,15 @@ Voor de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 8
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 9
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel 10
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 11
 
@@ -106,20 +76,6 @@ Ten aanzien van vennootschappen die op het tijdstip van inwerkingtreding van dez
 
 - c. [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=4&z=2020-02-01&g=2020-02-01) wordt eerst drie maanden na het tijdstip van inwerkingtreding van deze wet toepasselijk.
 
-##### Artikel 12
-
-Wijzigt deze wet.
-
-##### Artikel 13
-
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 14
-
-Deze wet wordt aangehaald als: Wet op de formeel buitenlandse vennootschappen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 11a
 
 Ten aanzien van vennootschappen afkomstig uit het Verenigd Koninkrijk die op het tijdstip van de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie voldoen aan de omschrijving van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=1&z=2020-02-01&g=2020-02-01) geldt:
@@ -130,4 +86,14 @@ Ten aanzien van vennootschappen afkomstig uit het Verenigd Koninkrijk die op het
 
 - c. [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=4&z=2020-02-01&g=2020-02-01) wordt eerst drie maanden na het tijdstip van de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie toepasselijk.
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 12
+
+*Wijzigt deze wet.*
+
+##### Artikel 13
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 14
+
+Deze wet wordt aangehaald als: Wet op de formeel buitenlandse vennootschappen.

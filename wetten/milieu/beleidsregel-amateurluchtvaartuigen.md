@@ -1,60 +1,35 @@
 ---
 title: "Beleidsregel amateurluchtvaartuigen"
 identifier: "BWBR0008263"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1996-10-30"
-last_updated: "1996-10-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008263"
+categorie: "Verkeer"
 soort: "beleidsregel"
-stam_id: "6238383"
-version_id: "10913912"
-internal_id: "C14794071"
-label_id: "6227344"
-original_entry_into_force: "1996-10-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008263/1996-10-30/0"
-intitule_bron: "Stcrt.1996-208"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-10-01"
-intitule_published: "1996-10-28"
-intitule_in_force: "1996-10-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-208"
-original_signed_date: "1996-10-01"
-original_published_date: "1996-10-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1996-208-p7-SC7270"
-entry_into_force_date: "1996-10-30"
-jci_1_3: "jci1.3:c:BWBR0008263&z=1996-10-30&g=1996-10-30"
-jci_1_0: "1.0:c:BWBR0008263&g=1996-10-30"
-citeertitel_status: "officieel"
-signed_date: "1996-10-01"
-entry_into_force: "1996-10-30"
+publicatiedatum: 1996-10-30
+laatste_update: 1996-10-30
+status: geldig
+toestand: 1996-10-30
+bron: "https://wetten.overheid.nl/BWBR0008263"
+opgehaald: 2026-08-03
 ---
+
 # Beleidsregel amateurluchtvaartuigen
-
-Gelet op de [artikelen 79, eerste lid](onbekend), [87, tweede lid](onbekend) en[88, tweede lid, van de Regeling Toezicht Luchtvaart](onbekend) en op [artikel 4, tweede lid van de Regeling luchtwaardigheid](onbekend);
-
-Maakt bekend:
 
 ##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **luchtarbeid:** een activiteit waarbij het luchtvaartuig wordt gebruikt voor speciale diensten zoals landbouwspuitvliegen, constructiewerkzaamheden, luchtfotografie, begeleiding, observatie en controle of luchtreclame;
+- a. *luchtarbeid:* een activiteit waarbij het luchtvaartuig wordt gebruikt voor speciale diensten zoals landbouwspuitvliegen, constructiewerkzaamheden, luchtfotografie, begeleiding, observatie en controle of luchtreclame;
 
-- b. **amateurluchtvaartuig:** een luchtvaartuig dat, al dan niet volgens eigen ontwerp, is gebouwd door een amateurbouwer voor privégebruik, zonder commercieel oogmerk;
+- b. *amateurluchtvaartuig:* een luchtvaartuig dat, al dan niet volgens eigen ontwerp, is gebouwd door een amateurbouwer voor privégebruik, zonder commercieel oogmerk;
 
-- c. **directeur-generaal:** directeur-generaal van de rijksluchtvaartdienst;
+- c. *directeur-generaal:* directeur-generaal van de rijksluchtvaartdienst;
 
-- d. **geluidswijziging:** een wijziging aan het luchtvaartuig die invloed kan hebben op de geluidproduktie van het luchtvaartuig;
+- d. *geluidswijziging:* een wijziging aan het luchtvaartuig die invloed kan hebben op de geluidproduktie van het luchtvaartuig;
 
-- e. **log-entry:** een verklaring met betrekking tot uitgevoerde werkzaamheden.
+- e. *log-entry:* een verklaring met betrekking tot uitgevoerde werkzaamheden.
 
 ##### Artikel 2
 
-Amateurluchtvaartuigen behoeven niet vervaardigd te worden door of onder toezicht van een hiertoe erkend bedrijf als bedoeld in [artikel 93 van de Regeling Toezicht Luchtvaart](onbekend).
+Amateurluchtvaartuigen behoeven niet vervaardigd te worden door of onder toezicht van een hiertoe erkend bedrijf als bedoeld in artikel 93 van de Regeling Toezicht Luchtvaart.
 
 ##### Artikel 3
 
@@ -90,7 +65,7 @@ De eigenaar of houder van een amateurluchtvaartuig is met betrekking tot het ond
 
 - a. de aanwijzingen van de directeur-generaal, voorzover deze betrekking hebben op verplichte instrumenten, radio-communicatie-, navigatie- en identificatieapparatuur, inzake de tijdstippen waarop onderhoud en revisie worden uitgevoerd;
 
-- b. de aanwijzigen, als bedoeld in [artikel 76, eerste lid, van de Regeling Toezicht Luchtvaart](onbekend); en
+- b. de aanwijzigen, als bedoeld in artikel 76, eerste lid, van de Regeling Toezicht Luchtvaart; en
 
 - c. de door de ontwerper aanbevolen wijzigingen die aan de luchtwaardigheid zijn gerelateerd.
 
@@ -100,19 +75,19 @@ In het RLD-vlieghandboek van een amateurluchtvaartuig worden in het algemeen de 
 
 - 1. Dit amateurluchtvaartuig mag niet worden gebruikt voor:
 
-- a. luchtarbeid;
+   - a. luchtarbeid;
 
-- b. vlieglessen;
+   - b. vlieglessen;
 
-- c. commerciële doeleinden, zoals het vervoeren van passagiers of lading, verhuur of rondvluchten;
+   - c. commerciële doeleinden, zoals het vervoeren van passagiers of lading, verhuur of rondvluchten;
 
-- e. IFR-vluchten;
+   - e. IFR-vluchten;
 
-- f. vluchten boven of binnen een afstand van 100 meter van de bebouwde kommen, gebouwen, industriegebieden, havengebieden of mensenverzamelingen;
+   - f. vluchten boven of binnen een afstand van 100 meter van de bebouwde kommen, gebouwen, industriegebieden, havengebieden of mensenverzamelingen;
 
-- g. vluchten binnen plaatselijke luchtverkeersleidingsgebieden, tenzij hiervoor voor iedere vlucht afzonderlijk toestemming van de luchtverkeersleiding is verkregen. De gezagvoerder is er voor verantwoordelijk dat de luchtverkeersleiding wordt geïnformeerd over het experimentele karakter en de opgelegde beperkingen.
+   - g. vluchten binnen plaatselijke luchtverkeersleidingsgebieden, tenzij hiervoor voor iedere vlucht afzonderlijk toestemming van de luchtverkeersleiding is verkregen. De gezagvoerder is er voor verantwoordelijk dat de luchtverkeersleiding wordt geïnformeerd over het experimentele karakter en de opgelegde beperkingen.
 
-- h. vluchten buiten het vluchtinformatiegebied Amsterdam, tenzij schriftelijk toestemming is verkregen van de betreffende luchtvaartautoriteiten.
+   - h. vluchten buiten het vluchtinformatiegebied Amsterdam, tenzij schriftelijk toestemming is verkregen van de betreffende luchtvaartautoriteiten.
 
 - 2. Het aantal vlieguren is beperkt tot 50 vlieguren per kalenderjaar.
 
@@ -127,5 +102,3 @@ Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekeni
 ##### Artikel 8
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel amateurluchtvaartuigen.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

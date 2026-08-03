@@ -1,48 +1,18 @@
 ---
 title: "Wet van 13 maart 1997, houdende bepalingen met betrekking tot de militaire dienstplicht alsmede wijziging van enige wetten en overgangsrecht (Kaderwet dienstplicht)"
+citeertitel: "Kaderwet dienstplicht"
 identifier: "BWBR0008589"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008589"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2755053"
-version_id: "4213832"
-internal_id: "C4213831"
-label_id: "2702854"
-dtd_version: "2.0"
-original_entry_into_force: "1997-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008589/2020-01-01/0"
-intitule_bron: "Stb.1997-139"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-03-13"
-intitule_published: "1997-04-03"
-intitule_in_force: "1997-04-03"
-intitule_status: "goed"
-original_publication: "Stb.1997-139"
-original_signed_date: "1997-03-13"
-original_published_date: "1997-04-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "24245"
-original_url_id: "stb-1997-139"
-entry_into_force_date: "1997-01-01"
-entry_into_force_dossier: "24245"
-jci_1_3: "jci1.3:c:BWBR0008589&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0008589&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Kaderwet dienstplicht"
-signed_date: "1997-03-13"
-entry_into_force: "1997-01-01"
+publicatiedatum: 1997-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0008589"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 13 maart 1997, houdende bepalingen met betrekking tot de militaire dienstplicht alsmede wijziging van enige wetten en overgangsrecht (Kaderwet dienstplicht)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is ingevolge [artikel 98, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=98), en het additionele [artikel XXX van de Grondwet](onbekend) regels te stellen met betrekking tot de bevoegdheid tot opschorting van de oproeping van dienstplichtigen in werkelijke dienst en de oproeping van dienstplichtigen in buitengewone omstandigheden; dat het voorts gewenst is de afzonderlijke regelingen op het gebied van de dienstplicht samen te voegen tot een Kaderwet dienstplicht;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### HOOFDSTUK 1. ALGEMEEN
 
@@ -190,7 +160,7 @@ Onze Minister verleent vrijstelling van de in [artikel 18, eerste lid](https://w
 
 ##### Artikel 15. Beroep op de administratieve rechter
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16. Nadere voorschriften uitstel, ontheffing en vrijstelling
 
@@ -242,7 +212,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ##### Artikel 21. Verlenging werkelijke dienst
 
@@ -296,7 +266,7 @@ Bij of krachtens algemene maatregel van bestuur worden voor de dienstplichtige i
 
 - m. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel en verenigingen van dienstplichtige militairen overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van dienstplichtigen, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt.
 
-##### Artikel 24. Toepassing [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 24. Toepassing Algemene wet bestuursrecht
 
 [Artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) is niet van toepassing op beschikkingen inzake functietoewijzing, bevordering en aanwijzing voor het volgen van een opleiding.
 
@@ -310,19 +280,19 @@ De uit deze wet voortvloeiende verplichtingen zijn niet langer van toepassing
 
 - a. voor zover de dienstplichtige in werkelijke dienst
 
-- 1°. blijkt voorgoed ongeschikt te zijn;
+   - 1°. blijkt voorgoed ongeschikt te zijn;
 
-- 2°. van de dienst wordt uitgesloten;
+   - 2°. van de dienst wordt uitgesloten;
 
-- 3°. door herhaald wangedrag blijkt ongevoelig te zijn voor bestraffing ingevolge de [Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788) en deswege niet in de dienst kan worden gehandhaafd; of
+   - 3°. door herhaald wangedrag blijkt ongevoelig te zijn voor bestraffing ingevolge de [Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788) en deswege niet in de dienst kan worden gehandhaafd; of
 
-- 4°. blijkens een verdrag niet tot dienstplicht is verplicht;
+   - 4°. blijkens een verdrag niet tot dienstplicht is verplicht;
 
 - b. zodra de dienstplichtige in werkelijke dienst
 
-- 1°. het Nederlanderschap verliest; of
+   - 1°. het Nederlanderschap verliest; of
 
-- 2°. een tegen deze gewezen rechterlijke uitspraak waarbij de bijkomende straf van ontzetting uit het recht om bij de gewapende macht te dienen is opgelegd zonder dat daarbij is bepaald dat deze straf geheel of gedeeltelijk niet ten uitvoer zal worden gelegd, in kracht van gewijsde is gegaan.
+   - 2°. een tegen deze gewezen rechterlijke uitspraak waarbij de bijkomende straf van ontzetting uit het recht om bij de gewapende macht te dienen is opgelegd zonder dat daarbij is bepaald dat deze straf geheel of gedeeltelijk niet ten uitvoer zal worden gelegd, in kracht van gewijsde is gegaan.
 
 #### Paragraaf 2. Uitoefening grondrechten
 
@@ -332,9 +302,9 @@ De uit deze wet voortvloeiende verplichtingen zijn niet langer van toepassing
 
 2. Het eerste lid is voor wat betreft het recht van vereniging niet van toepassing op het lidmaatschap van:
 
-- a. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig de [artikelen G1](onbekend) of [G2 van de Kieswet](onbekend);
+- a. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig de artikelen G1 of G2 van de Kieswet;
 
-- b. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig [artikel G3 van de Kieswet](onbekend), en die, indien na de inschrijving verkiezingen zijn gehouden voor de gemeenteraden, aan de laatst gehouden verkiezingen heeft deelgenomen; of
+- b. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig artikel G3 van de Kieswet, en die, indien na de inschrijving verkiezingen zijn gehouden voor de gemeenteraden, aan de laatst gehouden verkiezingen heeft deelgenomen; of
 
 - c. een vakvereniging.
 
@@ -368,7 +338,7 @@ Het is de dienstplichtige in werkelijke dienst verboden, anders dan met toestemm
 
 ##### Artikel 32. Administratief beroep
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33. Rechtsmacht
 
@@ -400,7 +370,7 @@ Ten aanzien van hetgeen bij of krachtens [hoofdstuk 2](https://wetten.overheid.n
 
 - b. degene die ingevolge deze wet voor de werkelijke dienst is opgeroepen en niet verschijnt op tijd en plaats bij dat deel van de krijgsmacht, waarbij degene is ingedeeld, tenzij degene zulks niet valt toe te rekenen.
 
-2. Opzettelijke overtreding van het bepaalde bij het eerste lid wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie. Overtreding in buitengewone omstandigheden van het bepaalde bij het eerste lid wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie. [Artikel 71**a** van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=71a) is van overeenkomstige toepassing.
+2. Opzettelijke overtreding van het bepaalde bij het eerste lid wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie. Overtreding in buitengewone omstandigheden van het bepaalde bij het eerste lid wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie. [Artikel 71*a* van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=71a) is van overeenkomstige toepassing.
 
 ##### Artikel 37. Karakter strafbare feiten
 
@@ -434,7 +404,7 @@ Met de opsporing van de in deze wet strafbare gestelde feiten zijn, onverminderd
 
 ##### Artikel 41. Intrekking regelgeving
 
-1. De Wet van 4 augustus 1947 (**Stb.** H 293) betreffende uitzending dienstplichtigen wordt ingetrokken.
+1. De Wet van 4 augustus 1947 (*Stb.* H 293) betreffende uitzending dienstplichtigen wordt ingetrokken.
 
 2. De Wet rechtstoestand dienstplichtigen wordt ingetrokken.
 
@@ -442,65 +412,65 @@ Met de opsporing van de in deze wet strafbare gestelde feiten zijn, onverminderd
 
 #### Paragraaf 2. Wijziging regelgeving
 
-##### Artikel 42. [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822)
+##### Artikel 42. Wet arbeidsongeschiktheidsvoorziening militairen
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening militairen.
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening militairen.*
 
 ##### Artikel 43. Algemene militaire pensioenwet
 
-Wijzigt de Algemene militaire pensioenwet.
+*Wijzigt de Algemene militaire pensioenwet.*
 
-##### Artikel 44. [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052)
+##### Artikel 44. Wet betreffende de positie van Molukkers
 
-Wijzigt de Wet betreffende de positie van Molukkers.
+*Wijzigt de Wet betreffende de positie van Molukkers.*
 
-##### Artikel 45. [Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952)
+##### Artikel 45. Militaire Ambtenarenwet 1931
 
-Wijzigt de Militaire Ambtenarenwet 1931.
+*Wijzigt de Militaire Ambtenarenwet 1931.*
 
-##### Artikel 46. [Wet gewetensbezwaren militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0002386)
+##### Artikel 46. Wet gewetensbezwaren militaire dienst
 
-Wijzigt de Wet gewetensbezwaren militaire dienst.
+*Wijzigt de Wet gewetensbezwaren militaire dienst.*
 
-##### Artikel 47. [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869)
+##### Artikel 47. Wetboek van Militair Strafrecht
 
-Wijzigt het Wetboek van Militair Strafrecht.
+*Wijzigt het Wetboek van Militair Strafrecht.*
 
-##### Artikel 48. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 48. Algemene wet bestuursrecht
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
-##### Artikel 49. [Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170)
+##### Artikel 49. Beroepswet
 
-Wijzigt de Beroepswet.
+*Wijzigt de Beroepswet.*
 
 ##### Artikel 50. Burgerlijk Wetboek
 
-Wijzigt Boek 7A van het Burgerlijk Wetboek.
+*Wijzigt Boek 7A van het Burgerlijk Wetboek.*
 
-##### Artikel 51. Aanpassing [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01), in verband met Invoeringswet [Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981)
+##### Artikel 51. Aanpassing artikel 20, eerste lid, in verband met Invoeringswet Coördinatiewet uitzonderingstoestanden
 
-Wijzigt de Invoeringswet Coördinatiewet uitzonderingstoestanden.
+*Wijzigt de Invoeringswet Coördinatiewet uitzonderingstoestanden.*
 
-##### Artikel 52. Wijziging [Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981)
+##### Artikel 52. Wijziging Coördinatiewet uitzonderingstoestanden
 
-Wijzigt de Coördinatiewet uitzonderingstoestanden.
+*Wijzigt de Coördinatiewet uitzonderingstoestanden.*
 
-##### Artikel 53. Wijziging [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671)
+##### Artikel 53. Wijziging Arbeidstijdenwet
 
-Wijzigt de Arbeidstijdenwet.
+*Wijzigt de Arbeidstijdenwet.*
 
-##### Artikel 54. Wijziging [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277)
+##### Artikel 54. Wijziging Wet veiligheidsonderzoeken
 
-Wijzigt de Wet veiligheidsonderzoeken.
+*Wijzigt de Wet veiligheidsonderzoeken.*
 
-##### Artikel 55. Wijziging [titel 7.10 van het nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10)
+##### Artikel 55. Wijziging titel 7.10 van het nieuw Burgerlijk Wetboek
 
-Wijzigt Boek 7 van het Burgerlijk Wetboek.
+*Wijzigt Boek 7 van het Burgerlijk Wetboek.*
 
-##### Artikel 56. Aanpassing [artikel 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=60&z=2020-01-01&g=2020-01-01), in verband met wijziging van verschillende wetten inzake de erkenning van de vrijheid van levensovertuiging als grondrecht
+##### Artikel 56. Aanpassing artikel 60, derde lid, in verband met wijziging van verschillende wetten inzake de erkenning van de vrijheid van levensovertuiging als grondrecht
 
-Wijzigt de Wijzigingswet bepalingen van verschillende wetten ivm erkenning van vrijheid van levensovertuiging als grondrecht.
+*Wijzigt de Wijzigingswet bepalingen van verschillende wetten ivm erkenning van vrijheid van levensovertuiging als grondrecht.*
 
 #### Paragraaf 3. Overgangsrecht
 
@@ -524,19 +494,19 @@ Zij die voor het tijdstip van inwerkingtreden van deze wet op grond van de Diens
 
 1. Degene aan wie op grond van:
 
-- a. artikel 15, eerste lid, onderdelen **a**, **c** of **d**, van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet een voorgoed verleende vrijstelling is of wordt verleend, wordt overeenkomstig de bepalingen van deze wet aangemerkt als dienstplichtige in het genot van een voorgoed verleende vrijstelling;
+- a. artikel 15, eerste lid, onderdelen *a*, *c* of *d*, van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet een voorgoed verleende vrijstelling is of wordt verleend, wordt overeenkomstig de bepalingen van deze wet aangemerkt als dienstplichtige in het genot van een voorgoed verleende vrijstelling;
 
-- b. artikel 15, eerste lid, onderdelen **b** of **e**, van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet een voorgoed verleende vrijstelling is of wordt verleend, wordt overeenkomstig de bepalingen van deze wet aangemerkt als dienstplichtige in het genot van een voorgoed verleende ontheffing.
+- b. artikel 15, eerste lid, onderdelen *b* of *e*, van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet een voorgoed verleende vrijstelling is of wordt verleend, wordt overeenkomstig de bepalingen van deze wet aangemerkt als dienstplichtige in het genot van een voorgoed verleende ontheffing.
 
 2. Degene aan wie op het tijdstip van inwerkingtreding van deze wet op grond van:
 
-- a. artikel 15, eerste lid, onderdelen **a**, **c** of **d**, van de Dienstplichtwet een tijdelijke vrijstelling is verleend, wordt na afloop van de duur van deze vrijstelling overeenkomstig de bepalingen van deze wet aangemerkt als dienstplichtige in het genot van een voorgoed verleende vrijstelling;
+- a. artikel 15, eerste lid, onderdelen *a*, *c* of *d*, van de Dienstplichtwet een tijdelijke vrijstelling is verleend, wordt na afloop van de duur van deze vrijstelling overeenkomstig de bepalingen van deze wet aangemerkt als dienstplichtige in het genot van een voorgoed verleende vrijstelling;
 
-- b. artikel 15, eerste lid, onderdelen **b** of **e**, van de Dienstplichtwet een tijdelijke vrijstelling is verleend, wordt na afloop van de duur van deze vrijstelling overeenkomstig de bepalingen van deze wet aangemerkt als dienstplichtige in het genot van een voorgoed verleende ontheffing.
+- b. artikel 15, eerste lid, onderdelen *b* of *e*, van de Dienstplichtwet een tijdelijke vrijstelling is verleend, wordt na afloop van de duur van deze vrijstelling overeenkomstig de bepalingen van deze wet aangemerkt als dienstplichtige in het genot van een voorgoed verleende ontheffing.
 
 3. De op het tijdstip van inwerkingtreding van deze wet ingediende doch nog niet afgedane aanvragen om vrijstelling worden overeenkomstig de bepalingen van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet verder behandeld en afgedaan, met dien verstande dat in afwijking van artikel 15, derde lid, eerste volzin, van de Dienstplichtwet aanvragen om vrijstelling wegens kostwinnerschap, persoonlijke onmisbaarheid of het bekleden van een geestelijk ambt of een godsdienstig-menslievend ambt of opleiding tot zodanig ambt voorgoed worden verleend. De eerste volzin is van overeenkomstige toepassing op de door de dienstplichtigen, bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=62&z=2020-01-01&g=2020-01-01), ingediende aanvragen om vrijstelling.
 
-4. Dienstplichtigen in het genot van een voorgoed verleende vrijstelling dan wel in het genot van een voorgoed verleende ontheffing als bedoeld in het eerste en tweede lid kunnen door Onze Minister uitsluitend in buitengewone omstandigheden worden opgeroepen. Deze verplichting gevolg te geven aan de oproeping blijft op hen rusten tot 1 oktober van het jaar waarin de leeftijd van 35 jaar wordt bereikt. Op degene aan wie op grond van artikel 15, eerste lid, onder **c**, van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet, vrijstelling is verleend, zijn de eerste en de tweede volzin slechts van toepassing, indien bij de oproeping in buitengewone omstandigheden is gebleken dat betrokkene niet meer verkeert in de omstandigheid waarvoor betrokkene ingevolge die wet vrijstelling is verleend.
+4. Dienstplichtigen in het genot van een voorgoed verleende vrijstelling dan wel in het genot van een voorgoed verleende ontheffing als bedoeld in het eerste en tweede lid kunnen door Onze Minister uitsluitend in buitengewone omstandigheden worden opgeroepen. Deze verplichting gevolg te geven aan de oproeping blijft op hen rusten tot 1 oktober van het jaar waarin de leeftijd van 35 jaar wordt bereikt. Op degene aan wie op grond van artikel 15, eerste lid, onder *c*, van de Dienstplichtwet zoals luidend voor inwerkingtreding van deze wet, vrijstelling is verleend, zijn de eerste en de tweede volzin slechts van toepassing, indien bij de oproeping in buitengewone omstandigheden is gebleken dat betrokkene niet meer verkeert in de omstandigheid waarvoor betrokkene ingevolge die wet vrijstelling is verleend.
 
 5. Overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=3&artikel=6&z=2020-01-01&g=2020-01-01) kunnen zij opnieuw worden opgeroepen voor een keuring.
 
@@ -546,9 +516,9 @@ Zij die op grond van de Dienstplichtwet zoals luidend voor inwerkingtreding van 
 
 ##### Artikel 62. Dienstplichtigen in werkelijke dienst
 
-1. Voor gewoon dienstplichtigen die op het tijdstip van inwerkingtreding van deze wet de werkelijke dienst voor eerste oefening vervullen, blijft de Dienstplichtwet zoals luidend voor het inwerkingtreden van deze wet van kracht tot 1 januari 1997, met uitzondering van hoofdstuk II, de artikelen 22 en 22**a**, voor zover het bepaalde krachtens het laatstgenoemde artikel mede van toepassing is op hoofdstuk V, en hoofdstuk XI.
+1. Voor gewoon dienstplichtigen die op het tijdstip van inwerkingtreding van deze wet de werkelijke dienst voor eerste oefening vervullen, blijft de Dienstplichtwet zoals luidend voor het inwerkingtreden van deze wet van kracht tot 1 januari 1997, met uitzondering van hoofdstuk II, de artikelen 22 en 22*a*, voor zover het bepaalde krachtens het laatstgenoemde artikel mede van toepassing is op hoofdstuk V, en hoofdstuk XI.
 
-2. Voor dienstplichtigen in werkelijke dienst en voor zover nodig voor gewezen dienstplichtigen blijft de Wet rechtstoestand dienstplichtigen zoals luidend voor het inwerkingtreden van deze wet van kracht tot 1 januari 1997, met uitzondering van artikel 2**a**, derde lid.
+2. Voor dienstplichtigen in werkelijke dienst en voor zover nodig voor gewezen dienstplichtigen blijft de Wet rechtstoestand dienstplichtigen zoals luidend voor het inwerkingtreden van deze wet van kracht tot 1 januari 1997, met uitzondering van artikel 2*a*, derde lid.
 
 ##### Artikel 63. Gewezen dienstplichtigen
 
@@ -576,7 +546,7 @@ In afwijking van [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 6. Onze Minister kan in buitengewone omstandigheden regels stellen met betrekking tot en voor zover nodig in afwijking van de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=2&paragraaf=1&artikel=23&z=2020-01-01&g=2020-01-01) genoemde onderwerpen.
 
-7. De ministeriële regeling, bedoeld in het zesde lid, wordt op de daarin te bepalen wijze bekendgemaakt. De regeling treedt in werking terstond na de bekendmaking. De regeling wordt in ieder geval geplaatst in de **Staatscourant**. Zo spoedig mogelijk na de plaatsing in de **Staatscourant** van deze regeling wordt een voordracht gedaan voor een algemene maatregel van bestuur tot nadere regeling van de betrokken onderwerpen.
+7. De ministeriële regeling, bedoeld in het zesde lid, wordt op de daarin te bepalen wijze bekendgemaakt. De regeling treedt in werking terstond na de bekendmaking. De regeling wordt in ieder geval geplaatst in de *Staatscourant*. Zo spoedig mogelijk na de plaatsing in de *Staatscourant* van deze regeling wordt een voordracht gedaan voor een algemene maatregel van bestuur tot nadere regeling van de betrokken onderwerpen.
 
 ##### Artikel 65. Buitengewoon dienstplichtigen
 
@@ -606,6 +576,10 @@ Op geschillen die tijdig krachtens de in [artikel 41, tweede en derde lid](https
 
 De op het tijdstip van inwerkingtreding van deze wet geldende algemene maatregel van bestuur, vastgesteld krachtens artikel 30, derde lid, van de Dienstplichtwet berust vanaf dat tijdstip op [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=5&artikel=19&z=2020-01-01&g=2020-01-01), van deze wet.
 
+##### Artikel 70a. Uitzondering in te schrijven vrouwen
+
+[Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), is niet van toepassing op de vrouwelijke persoon die 17 jaar of ouder is op het tijdstip van inwerkingtreding van de wet van 3 oktober 2018 tot wijziging van de Kaderwet dienstplicht en van de Wet gewetensbezwaren militaire dienst in verband met het van toepassing worden van de dienstplicht op vrouwen (Stb. 160).
+
 #### Paragraaf 4. Inwerkingtreding en citeertitel
 
 ##### Artikel 71. Inwerkingtreding
@@ -618,18 +592,8 @@ De op het tijdstip van inwerkingtreding van deze wet geldende algemene maatregel
 
 4. De in het derde lid bedoelde opschorting is niet van toepassing bij de oproeping van dienstplichtigen als bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=5&paragraaf=3&artikel=64&z=2020-01-01&g=2020-01-01).
 
-5. Wijzigt de Wet voor het reserve-personeel der krijgsmacht 1985 .
+5. *Wijzigt de Wet voor het reserve-personeel der krijgsmacht 1985 .*
 
 ##### Artikel 72. Citeertitel
 
 Deze wet wordt aangehaald als: Kaderwet dienstplicht.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 70a. Uitzondering in te schrijven vrouwen
-
-[Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), is niet van toepassing op de vrouwelijke persoon die 17 jaar of ouder is op het tijdstip van inwerkingtreding van de wet van 3 oktober 2018 tot wijziging van de Kaderwet dienstplicht en van de Wet gewetensbezwaren militaire dienst in verband met het van toepassing worden van de dienstplicht op vrouwen (Stb. 160).
-
-#### Paragraaf 4. Inwerkingtreding en citeertitel
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

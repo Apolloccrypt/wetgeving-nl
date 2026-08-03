@@ -1,79 +1,50 @@
 ---
 title: "Wet van 6 november 1997 tot wijziging van de Financiële-verhoudingswet en enkele andere wetten en regels inzake de invoering van deze wijziging in verband met een herziening van het verdeelstelsel voor het Provinciefonds"
+citeertitel: "Wijzigingswet Financiele-verhoudingswet enz. (herziening verdeelstelsel Provinciefonds)"
 identifier: "BWBR0008995"
-country: "nl"
-rank: "wet"
-publication_date: "2005-01-01"
-last_updated: "2005-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008995"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "639263"
-version_id: "926642"
-internal_id: "C926641"
-label_id: "620234"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008995/2005-01-01/0"
-intitule_bron: "Stb.1997-526"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-11-06"
-intitule_published: "1997-11-20"
-intitule_in_force: "1997-12-23"
-intitule_status: "goed"
-original_publication: "Stb.1997-526"
-original_signed_date: "1997-11-06"
-original_published_date: "1997-11-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "25185"
-original_url_id: "stb-1997-526"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0008995&z=2005-01-01&g=2005-01-01"
-jci_1_0: "1.0:c:BWBR0008995&g=2005-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Financiele-verhoudingswet enz. (herziening verdeelstelsel Provinciefonds)"
-signed_date: "1997-11-06"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2005-01-01
+status: geldig
+toestand: 2005-01-01
+bron: "https://wetten.overheid.nl/BWBR0008995"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 6 november 1997 tot wijziging van de Financiële-verhoudingswet en enkele andere wetten en regels inzake de invoering van deze wijziging in verband met een herziening van het verdeelstelsel voor het Provinciefonds
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is nieuwe regels te stellen inzake de financiële verhouding tussen het Rijk en de provincies, deze regels op te nemen in de [Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290) en daartoe deze wet en andere wetten te wijzigen en regels te stellen inzake de invoering van deze nieuwe regels;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### HOOFDSTUK I. WIJZIGING VAN ENKELE WETTEN
 
-#### Paragraaf 1.1. Wijziging [Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290)
+#### Paragraaf 1.1. Wijziging Financiële-verhoudingswet
 
 ##### Artikel 1
 
-Wijzigt de Financiële-verhoudingswet.
+*Wijzigt de Financiële-verhoudingswet.*
 
-#### Paragraaf 1.2. Wijziging [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645)
+#### Paragraaf 1.2. Wijziging Provinciewet
 
 ##### Artikel 2
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
-#### Paragraaf 1.3. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+#### Paragraaf 1.3. Wijziging Algemene wet bestuursrecht
 
 ##### Artikel 3
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
-#### Paragraaf 1.4. Wijziging [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904)
+#### Paragraaf 1.4. Wijziging Wet op het specifiek cultuurbeleid
 
 ##### Artikel 4
 
-Wijzigt de Wet op het specifiek cultuurbeleid.
+*Wijzigt de Wet op het specifiek cultuurbeleid.*
 
-#### Paragraaf 1.5. Wijziging [Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291)
+#### Paragraaf 1.5. Wijziging Invoeringswet Financiële-verhoudingswet
 
 ##### Artikel 5
 
-Wijzigt de Invoeringswet Financiële-verhoudingswet.
+*Wijzigt de Invoeringswet Financiële-verhoudingswet.*
 
 ### HOOFDSTUK II. EERSTE VASTSTELLING VAN DE VERDEELMAATSTAVEN VOOR HET PROVINCIEFONDS EN DE BEDRAGEN PER EENHEID DIE BEHOREN BIJ DE VERDEELMAATSTAVEN
 
@@ -113,7 +84,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Bij de bepaling van het totaal van de in een kalenderjaar ontvangen hoofdsommen van de motorrijtuigenbelasting, wordt het tarief van de [Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324) gehanteerd, zoals dat geldt op 1 april 1995. De verhoging van de belasting, bedoeld in artikel 23, tweede lid, van die wet en de vermindering van de belasting, bedoeld in de artikelen 28 en 68 van die wet, blijven buiten beschouwing.
 
-2. In afwijking van het eerste lid wordt voor de periode tot 1 april 1997 bij de bepaling van het totaal van de in een kalenderjaar ontvangen hoofdsommen van de motorrijtuigenbelasting, het tarief van de [Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534) gehanteerd, zoals dat luidde bij aanvang van het kalenderjaar 1980. De vermeerdering van belasting, bedoeld in artikel 6 van die wet en het vaste bedrag, genoemd in artikel 8, tweede lid, onderdeel **a**, van die wet, blijven buiten beschouwing.
+2. In afwijking van het eerste lid wordt voor de periode tot 1 april 1997 bij de bepaling van het totaal van de in een kalenderjaar ontvangen hoofdsommen van de motorrijtuigenbelasting, het tarief van de [Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534) gehanteerd, zoals dat luidde bij aanvang van het kalenderjaar 1980. De vermeerdering van belasting, bedoeld in artikel 6 van die wet en het vaste bedrag, genoemd in artikel 8, tweede lid, onderdeel *a*, van die wet, blijven buiten beschouwing.
 
 ##### Artikel 10
 
@@ -151,62 +122,10 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 14
 
-De tekst van de [Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290) wordt in het **Staatsblad** geplaatst.
+De tekst van de [Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290) wordt in het *Staatsblad* geplaatst.
 
 ##### Artikel 15
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. De tweede volzin van artikel 13, derde lid, vervalt op een bij koninklijk besluit te bepalen tijdstip.
-
-## BIJLAGE 1. De verdeelmaatstaven (bijlage bij artikel 7, eerste lid)
-
-| 1 | Het voor het kalenderjaar bepaalde totaal van de hoofdsommen van de motorrijtuigenbelasting, van de in de provincie wonende of gevestigde houders van een personenauto of motorrijwiel gedeeld door de uitkeringsfactor over het uitkeringsjaar. Het totaal wordt bepaald door aan de hand van het totaal van de in het kalenderjaar ontvangen provinciale opcenten te berekenen hoeveel hoofdsommen zouden zijn ontvangen, indien het in artikel 9 bedoelde tarief wordt gehanteerd. | Onze Minister van Financiën | 31 december van het jaar, twee jaar voorafgaand aan het uitkeringsjaar |
-| --- | --- | --- | --- |
-| 2 a en b | Het aantal inwoners van de provincie. Daarbij vindt een verdeling plaats in twee maatstaven, overeenkomstig de volgende groepsindeling: a. het aantal inwoners; b. het aantal inwoners boven de 640 000 inwoners. Bij de toepassing van maatstaf 2b wordt een aantal kleiner dan 640 000 op dat aantal vastgesteld. | CBS |   |
-| 3 a en b | Het aantal inwoners van binnen de provincie gelegen rastervierkanten. Daarbij vindt een verdeling plaats in twee maatstaven, overeenkomstig de volgende groepsindeling: a. het aantal inwoners van rastervierkanten met een omgevingsadressendichtheid die groter is dan of gelijk is aan 1500 adressen per vierkante kilometer; b. het aantal inwoners van rastervierkanten met een omgevingsadressendichtheid die kleiner is dan of gelijk is aan 1000 adressen per vierkante kilometer. Bij de toepassing van maatstaf 3b geldt een maximum-aantal van 607 000 inwoners. | CBS |   |
-| 4 | Het aantal hectaren land in de provincie. | CBS | De meest recente, vóór het uitkeringsjaar vastgestelde bodemstatistiek |
-| 5 | Het aantal hectaren water in de provincie. | CBS | De meest recente, vóór het uitkeringsjaar vastgestelde bodemstatistiek |
-| 6 | Het totaal van de volgende aantallen: 1. het aantal hectaren land in de provincie, in gebruik ten behoeve van de land-, bos- en tuinbouw; 2. het aantal hectaren natuurterrein in de provincie. | CBS | De meest recente, vóór het uitkeringsjaar vastgestelde bodemstatistiek |
-| 7 | Het aantal kilometers gewogen weglengte, van de wegen in beheer bij de provincie. |   | 1 januari 1993 |
-| 8 | Het aantal in het kalenderjaar in de provincie verbruikte eenheden elektriciteit in miljoenen Gigawattuur. | CBS | 31 december 1992 |
-| 9 | Één eenheid voor iedere provincie. |   |   |
-
-## BIJLAGE 2. De bedragen per eenheid over het uitkeringsjaar 1998 (bijlage bij artikel 7, tweede lid, als gewijzigd bij ministeriele regeling van 29 maart 1999, nr FO99/U58445, Stcrt. 1999, 71)
-
-| **Nr.** | **Verdeelmaatstaf** | **Guldens per eenheid (na aanpassing)** |
-| --- | --- | --- |
-| 1 | Motorrijtuigenbelasting | - 91,22 per f 100 hoofdsom |
-| 2a | Inwoners | 43,79 |
-| 2b | Inwoners boven 640.000 | 21,13 |
-| 3a | Inwoners in stedelijke gebieden | 30,40 |
-| 3b | Inwoners in landelijke gebieden | 37,74 |
-| 4 | Land | 101,26 |
-| 5 | Water | 69,39 |
-| 6 | Groen | 38,13 |
-| 7 | Gewogen weglengte | 53.584,61 |
-| 8 | Elektriciteitsverbruik | 779,51 |
-| 9 | Vast bedrag | 10.632.223,94 |
-
-## BIJLAGE 3. Overgangsmaatregelen in verband met de herverdeling (bijlage bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&hoofdstuk=III&paragraaf=3.1&artikel=12&z=2005-01-01&g=2005-01-01))
-
-|   |   |   |   |   |   |
-| --- | --- | --- | --- | --- | --- |
-|   | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 | Kolom 5 |
-|   | Uitkeringsjaar | Uitkeringsjaar | Uitkeringsjaar | Uitkeringsjaar | Uitkeringsjaar |
-|   | 1998 | 1999 | 2000 | 2001 en volgende | 2001 en volgende |
-|   |   |   |   | (guldens) | (euro's) |
-| Groningen | 8 117 432 | 6 851 651 | 5 585 870 | 4 320 090 | 1 960 371 |
-| Fryslân | 4 222 289 | 2 907 350 | 1 592 410 | 277 471 | 125 911 |
-| Drenthe | 7 688 098 | 5 969 923 | 4 251 748 | 2 533 572 | 1 149 685 |
-| Overijssel | – 1 231 682 | – 2 139 213 | – 3 046 744 | – 3 954 275 | – 1 794 372 |
-| Gelderland | – 10 343 350 | – 7 696 388 | – 5 049 426 | – 2 402 464 | – 1 090 191 |
-| Utrecht | 15 199 702 | 11 188 292 | 7 176 882 | 3 165 471 | 1 436 428 |
-| Noord-Holland | – 20 487 288 | – 16 230 182 | – 11 973 075 | – 7 715 969 | – 3 501 354 |
-| Zuid-Holland | – 11 624 664 | – 9 270 219 | – 6 915 774 | – 4 561 329 | – 2 069 841 |
-| Zeeland | 10 837 941 | 9 600 942 | 8 363 942 | 7 126 943 | 3 234 066 |
-| Noord-Brabant | 1 517 363 | 1 563 857 | 1 610 351 | 1 656 846 | 751 844 |
-| Limburg | 4 309 139 | 3 235 959 | 2 162 780 | 1 089 601 | 494 439 |
-| Flevoland | – 8 204 980 | – 5 981 972 | – 3 758 964 | – 1 535 957 | – 696 987 |
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-31
 toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0037674"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-03
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016, nr. MBO/845264 houdende vaststelling van keuzedelen welke onderdeel uitmaken van de kwalificatiestructuur van het middelbaar beroepsonderwijs (Regeling vaststelling keuzedelen)

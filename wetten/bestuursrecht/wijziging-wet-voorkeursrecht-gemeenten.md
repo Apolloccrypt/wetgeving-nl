@@ -1,40 +1,17 @@
 ---
 title: "Wijziging Wet voorkeursrecht gemeenten"
 identifier: "BWBR0008242"
-country: "nl"
-rank: "circulaire"
-publication_date: "1996-09-25"
-last_updated: "1996-09-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008242"
+categorie: "Bestuursrecht"
 soort: "circulaire"
-stam_id: "6423663"
-version_id: "11091802"
-internal_id: "C15005431"
-label_id: "6412904"
-original_entry_into_force: "1996-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008242/1996-09-25/0"
-intitule_bron: "Stcrt.1996-185"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-09-19"
-intitule_published: "1996-09-25"
-intitule_in_force: "1996-09-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-185"
-original_signed_date: "1996-09-19"
-original_published_date: "1996-09-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1996-185-p7-SC7019"
-entry_into_force_date: "1996-09-25"
-jci_1_3: "jci1.3:c:BWBR0008242&z=1996-09-25&g=1996-09-25"
-jci_1_0: "1.0:c:BWBR0008242&g=1996-09-25"
-citeertitel_status: "redactioneel"
-signed_date: "1996-09-19"
-entry_into_force: "1996-09-25"
+publicatiedatum: 1996-09-25
+laatste_update: 1996-09-25
+status: geldig
+toestand: 1996-09-25
+bron: "https://wetten.overheid.nl/BWBR0008242"
+opgehaald: 2026-08-03
 ---
-# Wijziging Wet voorkeursrecht gemeenten
 
-Circulaire aan de colleges van burgemeester en wethouders en de colleges van gedeputeerde staten
+# Wijziging Wet voorkeursrecht gemeenten
 
 Geacht college! – Bij [Wet van 4 juli 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008164), Stb. 389, is de [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391) gewijzigd. Deze wijzigingswet is op 17 juli 1996 in werking getreden. Op dezelfde datum is in werking getreden een wijziging van het Besluit voorkeursrecht gemeenten, Stb. 1996, 390. Voor deze wijzigingen in de Wet en het [Besluit voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003720) die voor U van belang kunnen zijn, wil ik gaarne Uw aandacht vragen.
 
@@ -42,7 +19,7 @@ Geacht college! – Bij [Wet van 4 juli 1996](https://wetten.overheid.nl/jci1.3:
 
 Tijdens het mondeling overleg in de Tweede Kamer inzake het grondbeleid en de uitvoering van de Vierde nota Extra (14 december 1993) is aangedrongen op verbetering van het instrumentarium van gemeenten inzake de verwerving van onroerend goed ten behoeve van de uitvoering van verstedelijkingstaakstellingen. Ook de Vereniging van Nederlandse gemeenten heeft daar nadrukkelijk om verzocht en stelde voor de werkingssfeer van de [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391) niet langer te beperken tot stadsvernieuwingsgebieden, maar te verruimen tot het gehele grondgebied van de gemeenten teneinde de taakstellingen uit de Vierde nota over de Ruimtelijke Ordening Extra (VINEX) te kunnen waarmaken. Naar aanleiding hiervan is destijds een voorontwerp tot wijziging van de [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391) in discussie gebracht. Uit de reacties op het voorontwerp bleek onder meer dat er behoefte bestond aan aanzienlijk ruimere toepassingsmogelijkheden van de wet dan alleen in de reeds bekende VINEX-lokaties. Mede op grond van deze reacties en adviezen is bij de indiening van het voorstel tot wijziging van de [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391) ten aanzien van het toepassingsbereik besloten de wet voor alle gemeenten in Nederland te laten gelden (kamerstukken II 1994/95, 24 235, nrs. 2 en 3). Tijdens de mondelinge behandeling in de Tweede Kamer bleek deze verruiming van het toepassingsbereik echter een stap te ver. Door aanvaarding van een amendement Esselink (kamerstukken II 1995/96, 24 235, nr. 22) is de werkingssfeer afgebakend tot gemeenten waaraan zelfstandig of samen met andere gemeenten blijkens nationaal of provinciaal ruimtelijk beleid uitbreidingscapaciteit is toegedacht of gegeven (zie [artikel 2a Wvg](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=2a)). Tijdens de behandeling in de Eerste Kamer is vervolgens de behoefte gebleken de betekenis van dit artikel in een circulaire onder de aandacht te brengen. Deze brief voorziet hierin. Van deze gelegenheid wordt tevens gebruik gemaakt ook enkele andere wijzigingen van de wet nader toe te lichten methet oog op de praktische toepassing van de wet.
 
-### 2. Bevoegdheid tot toepassing van het voorkeursrecht [(artikel 2a)](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=2a)
+### 2. Bevoegdheid tot toepassing van het voorkeursrecht (artikel 2a)
 
 Tot dusver kon elke gemeente het voorkeursrecht vestigen, zij het uitsluitend in stads- en dorpsvernieuwingsgebieden.
 
@@ -51,6 +28,10 @@ Dergelijke gebieden moesten dan ingevolge [artikel 3 van de wet](https://wetten.
 Sedert 17 juli 1996 is het toepassingsbereik van het voorkeursrecht niet meer beperkt tot gronden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=3). Na de wetswijziging is de wet in zijn volle omvang van kracht en vormt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=2) in beginsel weer de basisregeling voor een aanwijzing tot voorkeursrechtgebied, zij het dat door invoeging van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=2a) niet alle gemeenten zonder meer bevoegd zijn een voorkeursrecht te vestigen.
 
 [Artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=2) luidt:
+
+- 1. Een besluit als bedoeld in artikel 2, eerste lid, of artikel 8, eerste lid, kan genomen worden door de raad van een gemeente, waaraan zelfstandig of samen met andere gemeenten blijkens nationaal of provinciaal ruimtelijk beleid uitbreidingscapaciteit is toegedacht of gegeven. In alle gevallen waarin een zodanige capaciteit niet is toegedacht of toegekend, wordt het besluit niet genomen dan nadat van gedeputeerde staten vooraf een verklaring van geen bezwaar is verkregen.
+
+- 2. Gedeputeerde staten beslissen binnen vier weken na ontvangst van het desbetreffende verzoek. De verklaring wordt geacht te zijn verleend indien gedeputeerde staten niet binnen die termijn een beslissing hebben bekend gemaakt.
 
 Wat betekent dit artikel nu in de praktijk?
 
@@ -88,9 +69,13 @@ Dit betekent bij een voorstel als bedoeld in [artikel 8a](https://wetten.overhei
 
 Wordt de verklaring van geen bezwaar ten onrechte niet of niet tijdig aangevraagd, dan loopt de gemeente het risico dat de raad niet bevoegd blijkt te zijn het voorkeursrecht te vestigen. Burgemeester en wethouders moeten dan het voorkeursrecht doen vervallen.
 
-### 3. Toepassing van het voorkeursrecht, criteria [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=2)
+### 3. Toepassing van het voorkeursrecht, criteria artikel 2
 
 Wanneer een gemeente nu bevoegd is om het voorkeursrecht als zodanig te vestigen kan zij dat recht in concreto toepassen op haar gehele grondgebied mits daarbij voldaan wordt aan twee criteria:
+
+- 1. aan de betrokken gronden mag geen agrarische bestemming zijn toegedacht;
+
+- 2. het gebruik van de betrokken gronden moet afwijken van de bestemming.
 
 Het beoordelen of aan deze criteria wordt voldaan vergt een planologische grondslag, te weten een bestemmingsplan of een structuurplan waarbij aanwijzingen zijn gegeven omtrent de bestemming.
 
@@ -102,7 +87,7 @@ Vervallen is het vereiste dat een voorkeursrecht gevestigd op grondslag van een 
 
 Wanneer nog geen planologische grondslag in de vorm van een plan als hier bedoeld is vastgesteld of in ontwerp ter inzage is gelegd en derhalve geen voorkeursrecht kan worden gevestigd op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=2) of [6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=6), maar er toch al behoefte is aan de toepassing van een voorkeursrecht kan overgegaan worden tot vervroegde vestiging met toepassing van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=8) of[8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=8a).
 
-### 4.1. [Artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=8) en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=8a)
+### 4.1. Artikelen 8 en 8a
 
 [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=8) is zodanig gewijzigd dat het nu niet meer de Kroon, maar de gemeenteraad is die vroegtijdig, voorafgaande aan een planologische maatregel, een voorkeursrecht kan vestigen op gronden waarvan de bestemmingswijziging die aan die gronden is toegedacht op een kaart is aangegeven.
 
@@ -114,7 +99,7 @@ Voorafgaand aan het raadsbesluit kan zelfs al een voorstel van burgemeester en w
 
 [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=8) – en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=8a) – is ingevolge het tweede lid, overeenkomstig de criteria vervat in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=2), uitsluitend toepasbaar voor gronden met een beoogde bestemming in de niet-agrarische sfeer, waarbij het bestaande gebruik afwijkt van die beoogde bestemming. Er moet dus niet alleen een kaart zijn waarop die beoogde bestemming is aangegeven; er moet ook een met redenen omkleed raadsbesluit zijn waarbij die toekomstige planologische bestemming wordt beschreven. Een aantal gemeenten beschikt over een soort masterplan, een structuurvisie of een structuurschets. Zo’n document kan heel goed de redengeving vormen; in andere gevallen zal het raadsbesluit zelf de nodige onderbouwing moeten bevatten. Bovendien moet worden voldaan aan alle vereisten van de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002079&artikel=2), en [4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=4).
 
-### 5. Geldingsduur van een tijdelijk voorkeursrecht op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=8), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=8a) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=6)
+### 5. Geldingsduur van een tijdelijk voorkeursrecht op grond van artikel 8, 8a en 6
 
 Een aanwijzing op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=8) kan voor maximaal twee jaar gelden. Het eventueel daaraan voorafgaande voorstel van burgemeester en wethouders ([artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=8a)) heeft een geldingsduur van 8 weken. Na deze twee jaar, of zoveel eerder als mogelijk is, moet tenminste een ontwerp voor een structuur- of bestemmingsplan ter inzage zijn gelegd, waarin de beoogde bestemmingswijziging is vastgelegd.
 
@@ -122,21 +107,21 @@ Op grond van dit ontwerp-plan kunnen burgemeester en wethouders ingevolge [artik
 
 Tenslotte moet de raad ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=2) na de vaststelling van dat plan het voorkeursrecht wederom bestendigen door op grondslag van dat plan de betrokken gronden aan te wijzen. Komt er ergens in deze trits een kink in de kabel en worden termijnen overschreden zonder bestendiging, dan vervalt het voorkeursrecht. (Zie hierna: gevolgen bij termijnoverschrijding).
 
-### 6. Vervroegde inwerkingtreding ([artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=4))
+### 6. Vervroegde inwerkingtreding (artikel 4)
 
 De gewijzigde wet voorziet in een vroeger tijdstip van inwerkingtreding van het voorkeursrecht als zodanig op welke grondslag ook. Voorheen lag er een periode van één week tussen de aanwijzing van gronden, waarop het voorkeursrecht van toepassing is en de inwerkingtreding van die aanwijzing. Deze periode is nu bekort tot één dag na de bekendmaking in de Staatscourant.
 
 Uitgaande van verzending van het besluit of voorstel tot aanwijzing spoedshalve gelijktijdig aan de Staatscourant ter publikatie èn aan het betrokken kantoor van de Dienst voor het Kadaster en de openbare registers, is één dag na publicatie in de Staatscourant uit een oogpunt van verwerking van de gegevens in de openbare registers praktisch gezien de snelste mogelijkheid om het voorkeursrecht te vestigen. De gegevens moeten namelijk in de registratie per betrokken perceel of perceelsgedeelte worden ingevoerd. Hoewel die registratie nu geheel geautomatiseerd is, moet het invoeren van de gegevens handmatig gebeuren. Deze verwerking kan in beginsel in een dag gebeuren. Dan moet die informatie voor een ieder kenbaar zijn en moet ook ieder zich op die gegevens kunnen verlaten.
 
-### 7. Relatie met de [Algemene wet bestuursrecht](onbekend)
+### 7. Relatie met de Algemene wet bestuursrecht
 
-Op de besluiten die voor de vestiging van het voorkeursrecht moeten worden genomen is de [Algemene wet bestuursrecht](onbekend) van toepassing. Het gaat daarbij niet alleen om de rechtsgevolgen die de vestiging van het voorkeursrecht met zich meebrengt, maar ook om de voorbereiding van die besluiten.
+Op de besluiten die voor de vestiging van het voorkeursrecht moeten worden genomen is de Algemene wet bestuursrecht van toepassing. Het gaat daarbij niet alleen om de rechtsgevolgen die de vestiging van het voorkeursrecht met zich meebrengt, maar ook om de voorbereiding van die besluiten.
 
 ### 7.1. Voorbereiding van het voorstel van burgemeester en wethouders
 
-Bij de voorbereiding van een aanwijzing speelt in beginsel [artikel 4:8 van de Awb](onbekend) een rol. Dit artikel verplicht een gemeente om, voordat zij een beschikking geeft waartegen een belanghebbende, die de beschikking níet heeft aangevraagd, naar verwachting bedenkingen zal hebben, die belanghebbende in de gelegenheid te stellen zijn zienswijze naar voren te brengen, indien de beschikking zou steunen op gegevens over feiten en belangen die de belanghebbende betreffen en die gegevens niet door de belanghebbende zijn verstrekt.
+Bij de voorbereiding van een aanwijzing speelt in beginsel artikel 4:8 van de Awb een rol. Dit artikel verplicht een gemeente om, voordat zij een beschikking geeft waartegen een belanghebbende, die de beschikking níet heeft aangevraagd, naar verwachting bedenkingen zal hebben, die belanghebbende in de gelegenheid te stellen zijn zienswijze naar voren te brengen, indien de beschikking zou steunen op gegevens over feiten en belangen die de belanghebbende betreffen en die gegevens niet door de belanghebbende zijn verstrekt.
 
-Vestiging van een voorkeursrecht is hiervan een typisch voorbeeld. [Artikel 4:11, onder a en c, Awb](onbekend) biedt echter de mogelijkheid om in bepaalde gevallen toepassing van de hoorplicht van [artikel 4:8](onbekend) achterwege te laten. Het gaat dan om situaties waarbij of de vereiste spoed zich er tegen verzet of het met de beschikking beoogde doel slechts kan worden bereikt indien de belanghebbende daarvan niet reeds tevoren in kennis is gesteld. Deze situatie doet zich bij uitstek voor bij de aanwijzing tot voorkeursrechtgebied krachtens een voorstel van burgemeester en wethouders. Immers, als voorafgaande aan het voorstel van burgemeester en wethouders eerst gedurende enige tijd zienswijzen tegen dat voorstel kunnen worden ingediend, wordt de spoed die aan het voorstel als zodanig inherent is, geweld aangedaan. Ook kan het met het voorstel beoogde doel juist worden doorkruist als belanghebbenden daarvan tevoren in kennis worden gesteld.
+Vestiging van een voorkeursrecht is hiervan een typisch voorbeeld. Artikel 4:11, onder a en c, Awb biedt echter de mogelijkheid om in bepaalde gevallen toepassing van de hoorplicht van artikel 4:8 achterwege te laten. Het gaat dan om situaties waarbij of de vereiste spoed zich er tegen verzet of het met de beschikking beoogde doel slechts kan worden bereikt indien de belanghebbende daarvan niet reeds tevoren in kennis is gesteld. Deze situatie doet zich bij uitstek voor bij de aanwijzing tot voorkeursrechtgebied krachtens een voorstel van burgemeester en wethouders. Immers, als voorafgaande aan het voorstel van burgemeester en wethouders eerst gedurende enige tijd zienswijzen tegen dat voorstel kunnen worden ingediend, wordt de spoed die aan het voorstel als zodanig inherent is, geweld aangedaan. Ook kan het met het voorstel beoogde doel juist worden doorkruist als belanghebbenden daarvan tevoren in kennis worden gesteld.
 
 ### 7.2. Voorbereiding van het raadsbesluit
 
@@ -241,11 +226,3 @@ Op verzoek van de Tweede Kamer zal binnen vier jaar na inwerkingtreding van de [
 Inmiddels – nauwelijks twee maanden na de inwerkingtreding – blijken reeds vele gemeenten bezig te zijn met de toepassing van de onderhavige wet. Ongetwijfeld zullen zich daarbij nog nieuwe vragen voordoen. Verwacht mag worden dat zich over enige tijd ook nieuwe jurisprudentie over deze wet zal vormen.
 
 Ik zal deze ontwikkelingen nauwgezet volgen en deze, in overleg met de Vereniging van Nederlandse Gemeenten, nader evalueren.
-
-## Bijlagen:
-
-- –. tekst van de [Wet voorkeursrecht gemeenten](onbekend), zoals deze luidt na inwerkingtreding van de wet van 4 juli 1996, Stb. 389;
-
-- –. tekst van het [Besluit voorkeursrecht gemeenten](onbekend), zoals dit luidt na inwerkingtreding van het Besluit van 28 juni 1996, Stb. 390.
-
-**Nota bene: de bijlagen worden niet gepubliceerd in de Staatscourant, maar kunnen worden besteld bij Sdu Uitgeverijen, tel (070) 3789880.**

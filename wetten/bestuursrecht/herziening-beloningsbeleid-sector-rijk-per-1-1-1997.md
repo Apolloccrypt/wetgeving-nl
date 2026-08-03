@@ -1,44 +1,21 @@
 ---
 title: "Herziening beloningsbeleid sector Rijk per 1-1-1997"
 identifier: "BWBR0008282"
-country: "nl"
-rank: "circulaire"
-publication_date: "1997-01-01"
-last_updated: "1997-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008282"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6377053"
-version_id: "11043582"
-internal_id: "C14943831"
-label_id: "6366134"
-original_entry_into_force: "1997-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008282/1997-01-01/0"
-intitule_bron: "Stcrt.1996-209"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-10-14"
-intitule_published: "1996-10-29"
-intitule_in_force: "1996-10-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-209"
-original_signed_date: "1996-10-14"
-original_published_date: "1996-10-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1996-209-p12-SC7294"
-entry_into_force_date: "1997-01-01"
-jci_1_3: "jci1.3:c:BWBR0008282&z=1997-01-01&g=1997-01-01"
-jci_1_0: "1.0:c:BWBR0008282&g=1997-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "1996-10-14"
-entry_into_force: "1997-01-01"
+publicatiedatum: 1997-01-01
+laatste_update: 1997-01-01
+status: geldig
+toestand: 1997-01-01
+bron: "https://wetten.overheid.nl/BWBR0008282"
+opgehaald: 2026-08-03
 ---
-# Herziening beloningsbeleid sector Rijk per 1-1-1997
 
-«Circulaire aan de ministers»
+# Herziening beloningsbeleid sector Rijk per 1-1-1997
 
 ### Inleiding/managementinformatie
 
-In mijn [circulaire](onbekend) van 22 september 1995, kenmerk AD95/U915, kondigde ik onder meer aan dat ik bij afzonderlijke circulaire nog nadere informatie zou verstrekken over de wijzigingen in het beloningsbeleid per 1 januari 1997. Bij deze voldoe ik daaraan.
+In mijn circulaire van 22 september 1995, kenmerk AD95/U915, kondigde ik onder meer aan dat ik bij afzonderlijke circulaire nog nadere informatie zou verstrekken over de wijzigingen in het beloningsbeleid per 1 januari 1997. Bij deze voldoe ik daaraan.
 
 Met de wijziging van het beloningsbeleid per 1 januari 1997 wordt de ruimte voor het management om binnen de salarisschalen in individuele gevallen beloningsbeslissingen te kunnen nemen, vergroot. Hierdoor wordt het mogelijk gemaakt dat aan de ambtenaar – indien en zolang hij uitstekend functioneert – ook een salaris kan worden toegekend dat hoger is dan het maximumsalaris van de voor hem geldende salarisschaal. In samenhang hiermee komt echter ten aanzien van de ambtenaren voor wie een salarisschaal geldt de functioneringstoelage als beloningsinstrument te vervallen. Voor ’lopende’ functioneringstoelagen, toegekend op grond van [artikel 12b van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=12b) zal een overgangsvoorziening worden getroffen. Voor de toelagen, toegekend met toepassing van het [tweede lid van artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=12b), zal gelden dat deze kunnen blijven gelden tot het moment waarop het bevoegd gezag een nieuwe beslissing heeft genomen, doch uiterlijk tot 1 januari 2000. Hier dient het bevoegd gezag dus – eventueel – een afzonderlijke actie te ondernemen. Voor de toelagen, toegekend op grond van het [eerste lid van artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=12b), behoeft een afzonderlijke beslissing niet te worden genomen. Naar hun aard zullen deze toelagen immers in de loop van 1997 van rechtswege aflopen.
 
@@ -54,7 +31,7 @@ Met ingang van 1 januari 1997 zal de ruimte voor het management om binnen de BBR
 
 Voorgenomen wijzigingen van het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630):
 
-### 1. Wijziging van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=7)
+### 1. Wijziging van artikel 7
 
 De wijziging van de eerste drie leden van dit artikel betreft een nadere formulering van de eisen waaraan de ambtenaar moet voldoen om in aanmerking te komen voor een verhoging van het salaris binnen de voor hem geldende salarisschaal. Op grond van het nieuwe eerste lid kan het salaris van de ambtenaar op basis van een in het algemeen jaarlijks door het bevoegd gezag te nemen beslissing worden verhoogd tot het naasthogere salarisbedrag indien hij in voldoende mate functioneert. Het tweede lid van dit artikel gaat de mogelijkheid bieden om – eventueel naast de in het eerste lid bedoelde jaarlijkse beslissing – het salaris te verhogen tot een in de schaal voorkomend hoger bedrag (deze verhoging is dus niet als regel beperkt tot het naasthogere bedrag) indien sprake is van een in meer dan voldoende mate functioneren door de ambtenaar. Bij een en ander dient het – zoals overigens ook thans reeds het geval is – te gaan om een bewuste beloningsbeslissing van het bevoegd gezag aan de hand van zijn oordeel over de mate waarin de ambtenaar functioneert.
 
@@ -62,11 +39,11 @@ Nieuw bij dit [tweede lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Het [derde lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=7) zal uitdrukkelijk bepalen dat salarisverhoging achterwege blijft indien de ambtenaar niet in voldoende mate functioneert.
 
-### 2. Invoering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=8)
+### 2. Invoering van artikel 8
 
 Als meest kenmerkende onderdeel van de herziening van het beloningsbeleid wordt een nieuw [artikel 8 in het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=8) ingevoegd. Dit artikel zal de mogelijkheid bieden om aan de ambtenaar die het maximumbedrag van de voor hem geldende salarisschaal heeft bereikt en naar het oordeel van het bevoegd gezag uitstekend functioneert een salaris toe te kennen dat uitgaat boven het maximumbedrag van die salarisschaal. Hierbij kan het maximumbedrag van de naasthogere salarisschaal echter niet worden overschreden. Met nadruk wordt erop gewezen dat het hier gaat om de toekenning van een salaris uit een hogere schaal, zonder dat die schaal aan de ambtenaar wordt toegekend. Dit betekent dat, ook indien niet het maximumsalaris uit de hogere schaal wordt toegekend, er geen recht bestaat op een verhoging van het salaris na ommekomst van een jaar. Met andere woorden, [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=7), is op een dergelijke salarisverhoging niet van toepassing. Voor een verdere verhoging van het salaris is dan een afzonderlijke managementsbeslissing noodzakelijk. In het nieuwe [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=8) zal overigens ook worden neergelegd dat de salarisverhoging kan worden ingetrokken indien het functioneren van de ambtenaar niet langer als uitstekend kan worden gekwalificeerd. Voor de ambtenaren voor wie schaal 18 van het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) geldt, zullen afzonderlijk drie salarisbedragen worden vastgesteld die – bij uitstekend functioneren – boven het maximum van de voor hen geldende schaal kunnen worden toegekend. Deze bedragen zijn per 1 januari 1997: f 14.398,00, f 14.710,00 en f 15.023,00. Ook hierbij geldt dat [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=7), op een dergelijke toekenning niet van toepassing is.
 
-### 3. Wijziging van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=12b)/overgangsvoorziening functioneringstoelagen
+### 3. Wijziging van artikel 12b/overgangsvoorziening functioneringstoelagen
 
 In samenhang met deze wijzigingen zal [artikel 12b van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=12b) zodanig worden gewijzigd, dat de daarin bedoelde functioneringstoelage niet meer kan worden toegekend aan de ambtenaar voor wie één van de achttien salarisschalen geldt. Bij de BBRA-wijziging zal in verband hiermee voor de reeds toegekende en nog voortdurende functioneringstoelagen voor deze ambtenaren een overgangsvoorziening worden getroffen. Deze voorziet erin dat de toelagen, toegekend op grond van het eerste lid van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=12b) ook na 1 januari 1997 blijven gelden tot het moment waarop krachtens het besluit tot toekenning die toelage vervalt. Voorts wordt er daarbij in voorzien dat de toelagen, toegekend met toepassing van het [tweede lid van artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=12b) ook na 1 januari 1997 blijven gelden tot het moment dat het bevoegd gezag met betrekking tot die toelage een nadere beslissing heeft genomen doch uiterlijk tot 1 januari 2000.
 
@@ -103,53 +80,3 @@ De ambtenaren die met ingang van 1 januari 1997 worden ingepast op een gelijk sa
 De uitkering-ineens zal in de maand januari 1997 worden uitbetaald. Deze uitkering is geen bezoldiging in de zin van het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630). Dit betekent bijvoorbeeld dat deze uitkering niet meetelt voor de berekening van de vakantie-uitkering en de eindejaarsuitkering. Ook werkt deze uitkering-ineens niet door in de berekeningsgrondslag voor uitkeringen na ontslag zoals VUT-uitkering, wachtgeld, enz. De uitkering-ineens zal op de salarisspecificatie worden vermeld onder de titel ’conversietoeslag’.
 
 Ik verzoek u met het vorenstaande rekening te houden, daaraan voor zover nodig uitvoering te geven, en – indien van toepassing – betrokkenen tijdig van de voor hen van belang zijnde maatregelen in kennis te stellen.
-
-## Bijlage I. Ontwerp van een besluit houdende in hoofdzaak de formalisering van enkele maatregelen uit de Overeenkomst arbeidsvoorwaarden- en werkgelegenheidsbeleid sector Rijk voor de contractperiode 1 april 1996 tot en met 31 maart 1997
-
-### Hoofdstuk I. Wijzigingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) (...)
-
-### Paragraaf 3
-
-De herziening van het beloningsbeleid en de herstructurering van de salarisschalen per 1 januari 1997
-
-### Artikel VII
-
-Het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 wordt als volgt gewijzigd:
-
-### A
-
-In artikel 6, eerste lid, onder a en b, wordt de zinsnede ’22 jaar’ telkens vervangen door: 21 jaar.
-
-### B
-
-Artikel 7 wordt als volgt gewijzigd:
-
-### C
-
-Ingevoegd wordt een nieuw artikel 8, luidend:
-
-### Artikel 8
-
-### D
-
-Artikel 12b komt te luiden:
-
-### Artikel 12b
-
-### E
-
-Artikel 21 wordt als volgt gewijzigd:
-
-met dien verstande dat het bedrag waarop hij alsdan aanspraak heeft bij een onvolledige werktijd of bij genot van slechts een gedeelte van zijn bezoldiging, op andere gronden dan vermeld in het vierde lid, naar evenredigheid wordt verminderd.
-
-### F
-
-De bijlage B wordt vervangen door de bij dit besluit behorende bijlage III.
-
-### Artikel VIII
-
-### Artikel IX
-
-## Bijlage II. Schalen van het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) per 1 januari 1997 (herstructurering)
-
-## Bijlage III. Schematisch overzicht van de inpassingen per 1 januari 1997 per salarisschaal in verband met de herstructurering van de salarisschalen van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) per die datum

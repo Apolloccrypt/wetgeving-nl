@@ -1,43 +1,18 @@
 ---
 title: "Regeling inzake vermindering en vrijstelling van Oekraïense belasting op dividenden, interest, en royalty's, genoten door inwoners van Nederland"
+citeertitel: "Oekraïense uitvoeringsvoorschriften belastingverdrag Nederland-Oekraïne"
 identifier: "BWBR0008491"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-01-15"
-last_updated: "1997-01-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008491"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3964083"
-version_id: "5737152"
-internal_id: "C5939881"
-label_id: "3944064"
-dtd_version: "2.0"
-original_entry_into_force: "1997-01-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008491/1997-01-15/0"
-intitule_bron: "Stcrt.1997-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-01-07"
-intitule_published: "1997-01-13"
-intitule_in_force: "1997-01-13"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-8"
-original_signed_date: "1997-01-07"
-original_published_date: "1997-01-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-01-15"
-jci_1_3: "jci1.3:c:BWBR0008491&z=1997-01-15&g=1997-01-15"
-jci_1_0: "1.0:c:BWBR0008491&g=1997-01-15"
-citeertitel_status: "officieel"
-short_title: "Oekraïense uitvoeringsvoorschriften belastingverdrag Nederland-Oekraïne"
-signed_date: "1997-01-07"
-entry_into_force: "1997-01-15"
+publicatiedatum: 1997-01-15
+laatste_update: 1997-01-15
+status: geldig
+toestand: 1997-01-15
+bron: "https://wetten.overheid.nl/BWBR0008491"
+opgehaald: 2026-08-03
 ---
+
 # Regeling inzake vermindering en vrijstelling van Oekraïense belasting op dividenden, interest, en royalty's, genoten door inwoners van Nederland
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -49,9 +24,9 @@ Aan het op 24 oktober 1995 tussen Nederland en Oekraïne gesloten Verdrag tot he
 
 - c. algehele vrijstelling van de Oekraïense belasting op dividenden betaald door een lichaam dat inwoner van Oekraïne is aan lichaam (niet zijnde een maatschap of een vennootschap onder firma) dat inwoner van Nederland is, indien dat lichaam de uiteindelijk gerechtigde daarvan is en: Voor de vaststelling of aan de voorwaarde van een minimale investering van 300.000 Amerikaanse dollars of de tegenwaarde daarvan in Nederlandse of Oekraïense valuta is voldaan, wordt een investering in aanmerking genomen naar de waarde op het tijdstip waarop deze investering wordt gepleegd (onderdeel VI van het Protocol);
 
-- i). het onmiddellijk ten minste 50 percent bezit van het kapitaal van het Oekraïense lichaam dat de dividenden betaalt en mits een investering is gedaan van ten minste 300.000 Amerikaanse dollars of de tegenwaarde daarvan in Nederlandse of Oekraïense valuta in het kapitaal van het Oekraïense lichaam dat de dividenden betaalt, of
+   - i) het onmiddellijk ten minste 50 percent bezit van het kapitaal van het Oekraïense lichaam dat de dividenden betaalt en mits een investering is gedaan van ten minste 300.000 Amerikaanse dollars of de tegenwaarde daarvan in Nederlandse of Oekraïense valuta in het kapitaal van het Oekraïense lichaam dat de dividenden betaalt, of
 
-- ii). waarvan de investering in het kapitaal van het Oekraïense lichaam dat de dividenden betaalt wordt gegarandeerd of verzekerd door de Regering of de centrale bank van Nederland of door enig agentschap dat of enige instantie (waaronder begrepen een financiële instelling) die eigendom is van of wordt beheerst door de Regering van Nederland (artikel 10, derde lid).
+   - ii) waarvan de investering in het kapitaal van het Oekraïense lichaam dat de dividenden betaalt wordt gegarandeerd of verzekerd door de Regering of de centrale bank van Nederland of door enig agentschap dat of enige instantie (waaronder begrepen een financiële instelling) die eigendom is van of wordt beheerst door de Regering van Nederland (artikel 10, derde lid).
 
 - d. algehele vrijstelling van de Oekraïense belasting op uit Oekraïne afkomstige interest, indien deze wordt betaald ter zake van een obligatie, schuldbewijs of andere soort-gelijke verplichting van de Regering of de centrale bank van Oekraïne of een staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam van Oekraïne (artikel 11, derde lid, onderdeel a);
 
@@ -61,9 +36,9 @@ Aan het op 24 oktober 1995 tussen Nederland en Oekraïne gesloten Verdrag tot he
 
 - g. vermindering tot 2 percent van de Oekraïense belasting op uit Oekraïne afkomstige interest, genoten door een inwoner van Nederland die de uiteindelijk gerechtigde daar-van is, en de interest wordt betaald:
 
-- i). op leningen van welke soort dan ook, verstrekt door een bank of enige andere financiële instelling van Nederland, waaronder begrepen investeringsbanken en spaarbanken en verzekeringsmaatschappijen; of
+   - i) op leningen van welke soort dan ook, verstrekt door een bank of enige andere financiële instelling van Nederland, waaronder begrepen investeringsbanken en spaarbanken en verzekeringsmaatschappijen; of
 
-- ii). door de koper van machines en uitrusting aan de verkoper van de machines en uitrusting in verband met een verkoop op krediet (artikel 11, tweede lid, onderdeel a);
+   - ii) door de koper van machines en uitrusting aan de verkoper van de machines en uitrusting in verband met een verkoop op krediet (artikel 11, tweede lid, onderdeel a);
 
 - h. vermindering tot 10 percent van de Oekraïense belasting op de niet onder de onderdelen d, e, f en g vallende interest, afkomstig uit Oekraïne en betaald aan een inwoner van Nederland die de uiteindelijk gerechtigde daarvan is (artikel 11, tweede lid, onderdeel b);
 
@@ -81,13 +56,13 @@ De in onderdelen a, b, g, h en j van dit artikel vermelde verminderingen zijn ni
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008491&artikel=1&z=1997-01-15&g=1997-01-15) is van Oekraïense zijde de volgende regeling getroffen:
 
-Oekraïense belasting
+1. Oekraïense belasting
 
-1. Volgens de huidige Oekraïense wetgeving zijn dividenden, interest en royalty’s betaald aan niet-inwoners van Oekraïne die aldaar geen bedrijf uitoefenen met behulp van een vaste inrichting onderworpen aan een bronbelasting van 15 percent.
+Volgens de huidige Oekraïense wetgeving zijn dividenden, interest en royalty’s betaald aan niet-inwoners van Oekraïne die aldaar geen bedrijf uitoefenen met behulp van een vaste inrichting onderworpen aan een bronbelasting van 15 percent.
 
-Wijze waarop de vermindering of vrijstelling met betrekking tot dividenden, interest en royalties wordt verleend
+2. Wijze waarop de vermindering of vrijstelling met betrekking tot dividenden, interest en royalties wordt verleend
 
-2. Als algemene regel geldt dat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008491&artikel=1&z=1997-01-15&g=1997-01-15) vermelde verminderingen en vrijstellingen in de Oekraïne bij de bron worden verleend. Tot het verkrijgen van de vermindering of vrijstelling aan de bron dient de belanghebbende inwoner van Nederland gebruik te maken van het formulier ’Request for exemption from tax on profits of non-resident who does not carry on business in Ukraine through a permanent establishment’. Dit formulier, luidende in de Engelse taal, moet door de belanghebbende inwoner van Nederland in drievoud worden ingevuld en ondertekend. Vervolgens moet hij de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is.
+Als algemene regel geldt dat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008491&artikel=1&z=1997-01-15&g=1997-01-15) vermelde verminderingen en vrijstellingen in de Oekraïne bij de bron worden verleend. Tot het verkrijgen van de vermindering of vrijstelling aan de bron dient de belanghebbende inwoner van Nederland gebruik te maken van het formulier ’Request for exemption from tax on profits of non-resident who does not carry on business in Ukraine through a permanent establishment’. Dit formulier, luidende in de Engelse taal, moet door de belanghebbende inwoner van Nederland in drievoud worden ingevuld en ondertekend. Vervolgens moet hij de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is.
 
 De inspecteur voorziet de drie exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging, behoudt een exemplaar van het formulier ten behoeve van de legger van de aanvrager en zendt de overige twee exemplaren aan hem terug. Nadat de belanghebbende inwoner van Nederland de twee gecertificeerde exemplaren van het formulier heeft terugontvangen, zendt hij die exemplaren naar de Oekraïense belastinginspectie binnen wier ambtsgebied de dividenden, interest en royalty’s worden uitbetaald. Vorenbedoelde Oekraïense belastinginspectie onderzoekt of het ingediende formulier in overeenstemming is met de bepalingen van het Nederlands-Oekraïense belastingverdrag en voorziet de beide exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging. Vervolgens zendt zij de beide exemplaren van het formulier aan de verzoeker terug. Na terugontvangst zendt de verzoeker een exemplaar van het formulier aan de Oekraïense schuldenaar van de dividenden, interest en royalty’s, die vervolgens die inkomsten mag uitbetalen zonder inhouding van Oekraïense belasting of onder inhouding van Oekraïense belasting naar ten hoogste het in het Nederlands-Oekraïense belastingverdrag neergelegde percentage.
 
@@ -95,9 +70,9 @@ Alle in het formulier vermelde bedragen moeten luiden in dezelfde valuta als waa
 
 Indien het formulier door een gemachtigde wordt ingevuld en ondertekend, moet een machtiging worden bijgevoegd.
 
-Verzoek om teruggaaf van de te veel ingehouden belasting
+3. Verzoek om teruggaaf van de te veel ingehouden belasting
 
-3. Indien bij de uitbetaling van de Oekraïense dividenden, interest en royalty’s de Oekraïense belasting ten volle is ingehouden, dan kan teruggaaf van de op grond van het Verdrag te veel ingehouden belasting worden verzocht door middel van het formulier ’Request for refund of tax on profits from Ukraine source and paid to non-resident who does not carry on business in Ukraine through a permanent establishment’. Dit formulier, luidende in de Engelse taal, moet door de belanghebbende inwoner van Nederland in drievoud worden ingevuld en ondertekend. Vervolgens moet hij de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is.
+Indien bij de uitbetaling van de Oekraïense dividenden, interest en royalty’s de Oekraïense belasting ten volle is ingehouden, dan kan teruggaaf van de op grond van het Verdrag te veel ingehouden belasting worden verzocht door middel van het formulier ’Request for refund of tax on profits from Ukraine source and paid to non-resident who does not carry on business in Ukraine through a permanent establishment’. Dit formulier, luidende in de Engelse taal, moet door de belanghebbende inwoner van Nederland in drievoud worden ingevuld en ondertekend. Vervolgens moet hij de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is.
 
 De inspecteur voorziet de drie exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging, behoudt een exemplaar van het formulier ten behoeve van de legger van de aanvrager en zendt de overige twee exemplaren aan hem terug. Nadat de belanghebbende inwoner van Nederland de twee gecertificeerde exemplaren van het formulier heeft terugontvangen, zendt hij die exemplaren naar de Oekraïense belastinginspectie binnen wier ambtsgebied de dividenden, interest en royalty’s werden uitbetaald. Vorenbedoelde Oekraïense belastinginspectie onderzoekt of het ingediende formulier in overeenstemming is met de bepalingen van het Nederlands-Oekraïense belastingverdrag en voorziet de beide exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging. Vervolgens verleent zij de gevraagde teruggaaf en zendt zij een exemplaar van het formulier aan de verzoeker terug.
 
@@ -105,9 +80,9 @@ Alle in het formulier vermelde bedragen moeten luiden in dezelfde valuta als waa
 
 Indien het formulier door een gemachtigde wordt ingevuld en ondertekend, moet een machtiging worden bijgevoegd.
 
-Termijn van indiening van verzoeken om teruggaaf van belasting
+4. Termijn van indiening van verzoeken om teruggaaf van belasting
 
-4. In de gevallen waarin teruggaaf wordt verzocht van de op de dividenden, interest en royalty’s te veel ingehouden Oekraïense belasting, moet het formulier ’Request for refund of tax on profits from Ukraine source and paid to non-resident who does not carry on business in Ukraine through a permanent establishment’ worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel VIII van het Protocol).
+In de gevallen waarin teruggaaf wordt verzocht van de op de dividenden, interest en royalty’s te veel ingehouden Oekraïense belasting, moet het formulier ’Request for refund of tax on profits from Ukraine source and paid to non-resident who does not carry on business in Ukraine through a permanent establishment’ worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel VIII van het Protocol).
 
 5. Exemplaren van de Oekraïense formulieren ’Request for exemption from tax on profits of non-resident who does not carry on business in Ukraine through a permanent establishment’ en ’Request for refund of tax on profits from Ukraine source and paid to non-resident who does not carry on business in Ukraine through a permanent establishment’ zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in de Oekraïne bij Ministry of Finance of Ukraine, Main State Tax Inspectorate of Ukraine, Lvovsky square 8, 254055 Kiev-55.
 

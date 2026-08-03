@@ -1,47 +1,18 @@
 ---
 title: "Wet van 24 oktober 1997, houdende regels betreffende bijzondere verrichtingen op het gebied van de gezondheidszorg (Wet op bijzondere medische verrichtingen)"
+citeertitel: "Wet op bijzondere medische verrichtingen"
 identifier: "BWBR0008974"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-05"
-last_updated: "2025-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008974"
+categorie: "Gezondheidszorg"
 soort: "wet"
-stam_id: "2765083"
-version_id: "21404482"
-internal_id: "C30952371"
-label_id: "2712094"
-dtd_version: "2.0"
-original_entry_into_force: "2014-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008974/2025-07-05/0"
-intitule_bron: "Stb.1997-515"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-10-24"
-intitule_published: "1997-11-13"
-intitule_in_force: "1997-11-13"
-intitule_status: "goed"
-original_publication: "Stb.2014-165"
-original_signed_date: "2014-04-16"
-original_published_date: "2014-05-13"
-original_effect: "structuurwijziging"
-original_dossier: "33438"
-original_url_id: "stb-2014-165"
-entry_into_force_date: "2014-08-01"
-jci_1_3: "jci1.3:c:BWBR0008974&z=2025-07-05&g=2025-07-05"
-jci_1_0: "1.0:c:BWBR0008974&g=2025-07-05"
-citeertitel_status: "officieel"
-short_title: "Wet op bijzondere medische verrichtingen"
-signed_date: "2014-04-16"
-entry_into_force: "2014-08-01"
+publicatiedatum: 2014-08-01
+laatste_update: 2025-07-05
+status: geldig
+toestand: 2025-07-05
+bron: "https://wetten.overheid.nl/BWBR0008974"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 24 oktober 1997, houdende regels betreffende bijzondere verrichtingen op het gebied van de gezondheidszorg (Wet op bijzondere medische verrichtingen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in de regulering van de bijzondere verrichtingen zoals omschreven in de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753), een gradatie aan te brengen en de desbetreffende regels, te zamen met die inzake ontwikkelingsgeneeskunde, in een afzonderlijke wettelijke regeling onder te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepaling
 
@@ -56,6 +27,8 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 - c. ontwikkelingsgeneeskunde: de op wetenschappelijk inzicht gebaseerde ontwikkeling en evaluatie van methoden en technieken in de praktijk van de gezondheidszorg, waarvan de uiteindelijke toepassing ingrijpende kwalitatieve, maatschappelijke, ethische, juridische, financiële of organisatorische gevolgen kan hebben.
 
 ### Hoofdstuk II. Regulering door verboden
+
+#### Paragraaf 1. Algemeen
 
 ##### Artikel 2
 
@@ -97,15 +70,23 @@ Onze Minister bepaalt bij ministeriële regeling de omvang van de behoefte aan v
 
 5. Een vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05), kan worden ingetrokken indien de vergunninghouder in strijd handelt met een beperking of voorschrift als bedoeld in het tweede lid dan wel met het derde lid, alsmede indien de omstandigheden na de verlening van de vergunning zodanig zijn gewijzigd, dat de vergunning niet meer zou zijn verleend.
 
+#### Paragraaf 2. Specifieke verboden
+
+##### Artikel 6a
+
+1. Het uitvoeren van medische verrichtingen met toepassing van xenotransplantatie is verboden. Onder xenotransplantatie wordt verstaan het in- of aanbrengen van levende bestanddelen van een dier of van een foetus of embryo van een dier, dan wel een menselijk bestanddeel dat daarmee doelgericht in aanraking is gebracht, in of aan het lichaam van een mens.
+
+2. Bij algemene maatregel van bestuur kan het begrip xenotransplantatie nader worden omschreven en kunnen verrichtingen waarbij naar heersend medisch inzicht onaanvaardbare risico's voor de patiënt en de volksgezondheid redelijkerwijs zijn uitgesloten, worden aangewezen waarop het in het eerste lid bedoelde verbod niet van toepassing is.
+
 ### Hoofdstuk III. Regulering door financiële ondersteuning
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-1. Onze Minister kan met betrekking tot medische verrichtingen waarop niet een regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05) van toepassing is en die niet behoren tot de ontwikkelingsgeneeskunde, zijn beleidsvisie bekend maken ten aanzien van bijzondere aspecten van die verrichtingen, welke aspecten die verrichtingen onderscheiden van andere medische verrichtingen, en de procedure met betrekking tot het verstrekken van een aanwijzing als bedoeld in het tweede lid.
+1. Onze Minister kan met betrekking tot medische verrichtingen waarop niet een regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05) van toepassing is en die niet behoren tot de ontwikkelingsgeneeskunde, zijn beleidsvisie bekend maken ten aanzien van bijzondere aspecten van die verrichtingen, welke aspecten die verrichtingen onderscheiden van andere medische verrichtingen, en de procedure met betrekking tot het verstrekken van een aanwijzing als bedoeld in het tweede lid.
 
 2. Een instelling kan Onze Minister verzoeken haar aan te wijzen voor de uitvoering van de bijzondere aspecten van de in het eerste lid bedoelde verrichtingen. Onze Minister kan zodanige aanwijzing uitsluitend weigeren indien het geven daarvan in strijd zou zijn met zijn beleidsvisie, bedoeld in het eerste lid.
 
@@ -115,7 +96,7 @@ Vervallen
 
 5. De beleidsvisie, bedoeld in het eerste lid, kan inhouden dat Onze Minister, voor zover dat naar zijn oordeel noodzakelijk is in het belang van de volksgezondheid, zorg draagt voor bekostiging van de instandhouding dan wel continuïteit van de uitvoering van de bijzondere aspecten van de in het eerste lid bedoelde verrichtingen door een instelling die op grond van het tweede lid is aangewezen.
 
-### Hoofdstuk III. Regulering door financiële ondersteuning
+### Hoofdstuk IV. Toezicht
 
 ##### Artikel 9
 
@@ -135,33 +116,39 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 De toezichthouders zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner voor zover deze woning deel uitmaakt van een instelling.
 
-##### Artikel 12
+##### Artikel 11a
 
-1. Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33.500,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05).
-
-2. Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 13.400,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=IV&artikel=9&z=2025-07-05&g=2025-07-05).
-
-##### Artikel 13
-
-Vervallen
-
-##### Artikel 14
-
-Vervallen
-
-##### Artikel 15
-
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IVa. Sancties
 
+##### Artikel 12
+
+1. Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33.500,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05).
+
+2. Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 13.400,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=IV&artikel=9&z=2025-07-05&g=2025-07-05).
+
+### Hoofdstuk V. Overgangs- en slotbepalingen
+
+##### Artikel 13
+
+*Vervallen*
+
+##### Artikel 14
+
+*Vervallen*
+
+##### Artikel 15
+
+*Vervallen*
+
 ##### Artikel 16
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 17
 
-Wijzigt de Wet ziekenhuisvoorzieningen.
+*Wijzigt de Wet ziekenhuisvoorzieningen.*
 
 ##### Artikel 18
 
@@ -173,7 +160,7 @@ Wijzigt de Wet ziekenhuisvoorzieningen.
 
 ##### Artikel 19
 
-Wijzigt de Algemene bijstandswet.
+*Wijzigt de Algemene bijstandswet.*
 
 ##### Artikel 20
 
@@ -181,40 +168,8 @@ Onze Minister zendt binnen vier jaar na inwerkingtreding van deze wet, en vervol
 
 ##### Artikel 21
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.
 
 ##### Artikel 22
 
 Deze wet wordt aangehaald als: Wet op bijzondere medische verrichtingen.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Paragraaf 1. Algemeen
-
-#### Paragraaf 2. Specifieke verboden
-
-##### Artikel 6a
-
-1. Het uitvoeren van medische verrichtingen met toepassing van xenotransplantatie is verboden. Onder xenotransplantatie wordt verstaan het in- of aanbrengen van levende bestanddelen van een dier of van een foetus of embryo van een dier, dan wel een menselijk bestanddeel dat daarmee doelgericht in aanraking is gebracht, in of aan het lichaam van een mens.
-
-2. Bij algemene maatregel van bestuur kan het begrip xenotransplantatie nader worden omschreven en kunnen verrichtingen waarbij naar heersend medisch inzicht onaanvaardbare risico's voor de patiënt en de volksgezondheid redelijkerwijs zijn uitgesloten, worden aangewezen waarop het in het eerste lid bedoelde verbod niet van toepassing is.
-
-### Hoofdstuk IV. Toezicht
-
-### Hoofdstuk V. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk IVa. Sancties
-
-### Hoofdstuk V. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 11a
-
-Vervallen
-
-### Hoofdstuk V. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

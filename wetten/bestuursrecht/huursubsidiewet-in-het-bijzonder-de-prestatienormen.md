@@ -1,56 +1,33 @@
 ---
 title: "Huursubsidiewet, in het bijzonder de prestatienormen"
 identifier: "BWBR0008597"
-country: "nl"
-rank: "circulaire"
-publication_date: "1997-07-01"
-last_updated: "1997-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008597"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6412243"
-version_id: "11079412"
-internal_id: "C14991161"
-label_id: "6401314"
-original_entry_into_force: "1997-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008597/1997-07-01/0"
-intitule_bron: "Stcrt.1997-59"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-03-14"
-intitule_published: "1997-03-25"
-intitule_in_force: "1997-03-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-59"
-original_signed_date: "1997-03-14"
-original_published_date: "1997-03-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1997-59-p10-SC8797"
-entry_into_force_date: "1997-07-01"
-jci_1_3: "jci1.3:c:BWBR0008597&z=1997-07-01&g=1997-07-01"
-jci_1_0: "1.0:c:BWBR0008597&g=1997-07-01"
-citeertitel_status: "redactioneel"
-signed_date: "1997-03-14"
-entry_into_force: "1997-07-01"
+publicatiedatum: 1997-07-01
+laatste_update: 1997-07-01
+status: geldig
+toestand: 1997-07-01
+bron: "https://wetten.overheid.nl/BWBR0008597"
+opgehaald: 2026-08-03
 ---
-# Huursubsidiewet, in het bijzonder de prestatienormen
 
-Circulaire aan de colleges van b. en w.
+# Huursubsidiewet, in het bijzonder de prestatienormen
 
 ### 1. Inleiding
 
-Op 17 november 1995 heeft het Kabinet voorstellen gedaan voor de toekomstige vormgeving van het instrument individuele huursubsidie. In maart en april is hierover met de Tweede Kamer gedebatteerd. Er is veelvuldig en uitvoerig overleg gevoerd met VNG, koepelorganisaties en Woonbond. In november 1996 is het wetsvoorstel voor de [Huursubsidiewet](onbekend) ter behandeling naar de Tweede Kamer gestuurd. In januari 1997 heeft het debat in de Tweede Kamer plaatsgevonden en inmiddels is het wetsvoorstel naar de Eerste Kamer gezonden. Het is de bedoeling dat deze wet de huidige [Wet Individuele Huursubsidie](onbekend) per 1 juli 1997 zal gaan vervangen.
+Op 17 november 1995 heeft het Kabinet voorstellen gedaan voor de toekomstige vormgeving van het instrument individuele huursubsidie. In maart en april is hierover met de Tweede Kamer gedebatteerd. Er is veelvuldig en uitvoerig overleg gevoerd met VNG, koepelorganisaties en Woonbond. In november 1996 is het wetsvoorstel voor de Huursubsidiewet ter behandeling naar de Tweede Kamer gestuurd. In januari 1997 heeft het debat in de Tweede Kamer plaatsgevonden en inmiddels is het wetsvoorstel naar de Eerste Kamer gezonden. Het is de bedoeling dat deze wet de huidige Wet Individuele Huursubsidie per 1 juli 1997 zal gaan vervangen.
 
-Over de inhoud van het wetsvoorstel wil ik u nu op hoofdlijnen informeren. Na de definitieve parlementaire behandeling van de nieuwe [Huursubsidiewet](onbekend) zal een uitgebreid voorlichtingstraject plaatsvinden voor alle betrokkenen. De informatie in deze circulaire is dan ook onder voorbehoud van de instemming van de Eerste Kamer.
+Over de inhoud van het wetsvoorstel wil ik u nu op hoofdlijnen informeren. Na de definitieve parlementaire behandeling van de nieuwe Huursubsidiewet zal een uitgebreid voorlichtingstraject plaatsvinden voor alle betrokkenen. De informatie in deze circulaire is dan ook onder voorbehoud van de instemming van de Eerste Kamer.
 
 Wanneer het wetsvoorstel in de huidige vorm wordt aangenomen, betekent dat huishoudens met lagere inkomens extra ondersteuning krijgen. Praktisch alle huursubsidie-ontvangers gaan er op vooruit. De nieuwe wet is voornamelijk gunstig voor huishoudens in de duurdere huurwoningen. Van de huidige huursubsidie-ontvangers zal, bij een verwachte huurstijging van ca. 3,5%, 70% zelfs een huurdaling ervaren per 1 juli 1997. Dat voordeel kan oplopen tot aanzienlijke bedragen.
 
-’Waarom nu een MG-circulaire ?’, zult u zich wellicht afvragen. Deze circulaire betreft een follow-up op de info-bladen, de eerste van november 1996 (’De belangrijkste punten uit de nieuwe [Huursubsidiewet](onbekend)’) en de tweede van maart 1997 (’de nieuwe [Huursubsidiewet](onbekend)’). Door u nu reeds te informeren is er gelegenheid om u voor te bereiden. Huursubsidie zal in de praktijk een belangrijk onderdeel blijven van het integrale volkshuisvestingsbeleid. Door de nieuwe wet komt de gedeelde verantwoordelijkheid van Rijk, gemeenten en verhuurders meer naar voren. Gemeenten en verhuurders zullen door de [Huursubsidiewet](onbekend) beleidsmatig meer betrokken worden bij het gebruik van het huursubsidie-instrument. Het ligt dan ook voor de hand dat bestuurders en beleidsadviseurs bij gemeenten en verhuurders kennisnemen van de inhoud van deze circulaire.
+’Waarom nu een MG-circulaire ?’, zult u zich wellicht afvragen. Deze circulaire betreft een follow-up op de info-bladen, de eerste van november 1996 (’De belangrijkste punten uit de nieuwe Huursubsidiewet’) en de tweede van maart 1997 (’de nieuwe Huursubsidiewet’). Door u nu reeds te informeren is er gelegenheid om u voor te bereiden. Huursubsidie zal in de praktijk een belangrijk onderdeel blijven van het integrale volkshuisvestingsbeleid. Door de nieuwe wet komt de gedeelde verantwoordelijkheid van Rijk, gemeenten en verhuurders meer naar voren. Gemeenten en verhuurders zullen door de Huursubsidiewet beleidsmatig meer betrokken worden bij het gebruik van het huursubsidie-instrument. Het ligt dan ook voor de hand dat bestuurders en beleidsadviseurs bij gemeenten en verhuurders kennisnemen van de inhoud van deze circulaire.
 
-Naast deze circulaire zal u binnenkort een volgende circulaire ontvangen. Deze zal ook de [Huursubsidiewet](onbekend) als onderwerp hebben. Hierin wordt meer de nadruk gelegd op de uitvoeringspraktijk.
+Naast deze circulaire zal u binnenkort een volgende circulaire ontvangen. Deze zal ook de Huursubsidiewet als onderwerp hebben. Hierin wordt meer de nadruk gelegd op de uitvoeringspraktijk.
 
-De opbouw van de circulaire is dat eerst de belangrijkste punten uit de [Huursubsidiewet](onbekend) aan de orde komen. Daarna zal ruim aandacht worden besteed aan het onderdeel Prestatienormering, waarmee de lokale partijen een grotere verantwoordelijkheid voor het gebruik van de huursubsidie krijgen.
+De opbouw van de circulaire is dat eerst de belangrijkste punten uit de Huursubsidiewet aan de orde komen. Daarna zal ruim aandacht worden besteed aan het onderdeel Prestatienormering, waarmee de lokale partijen een grotere verantwoordelijkheid voor het gebruik van de huursubsidie krijgen.
 
-### 2. De nieuwe [Huursubsidiewet](onbekend) op hoofdlijnen
+### 2. De nieuwe Huursubsidiewet op hoofdlijnen
 
 In 1995 heeft een interdepartementale werkgroep de huidige regeling grondig tegen het licht gehouden. De werkgroep heeft voorgesteld de regeling nog meer te ijken op de woningmarktsituatie. Een uitgebreide analyse van de huurvoorraad heeft dan ook als basis gediend voor de wet, zoals deze er nu ligt.
 
@@ -84,13 +61,30 @@ De hoogte van de normhuur is niet gewijzigd. Ook is in de jaarlijks indexering v
 
 Naast de relatie huur – inkomen wordt de hoogte van de huursubsidiebijdrage ook bepaald door een tweetal toeslagen (kindertoeslag en koopkrachttoeslag). De bedragen per maand zijn:
 
+- – voor een alleenstaande: f 4
+
+- – voor een meerpersoonshuishouden, zonder kinderen: f 8
+
+- – voor een meerpersoonshuishouden, waarvan 1 of 2 kinderen (f 8 + f 32) f 40
+
+- – voor een meerpersoonshuishouden, waarvan 3 of meer kinderen (f 8 + f 43) f 51
+
 Verder is het minimum-bedrag aan subsidie verlaagd. Dient men in de huidige regeling minimaal recht te hebben op f 25 aan subsidie (zonder toeslagen) om in aanmerking te komen voor huursubsidie, in de nieuwe regeling is dat bedrag verlaagd naar f 10. In dit minimumbedrag zitten thans tevens de toeslagen verwerkt.
 
 Gezien het voorgaande is de conclusie dat de huurlasten sterk worden gematigd door de huidige prikkel (kwaliteitskorting) uit het systeem te schrappen.
 
+| Normhuur: | f 330 (bij inkomen op minimumniveau) |  |
+| --- | --- | --- |
+| Huur: | f 800 |  |
+| Systematiek wet: | tussen f 330 en f 575 (kortingsgrens) tussen f 575 en f 800 toeslag: | 100% 75% f 4 |
+| subsidie: | (f 245 x 100%) + (f 225 x 75%) + f 4 = f 418 |  |
+| Netto huur: | f 800 – f 418 = f 382 |  |
+| Huidige systematiek: | Subsidie: | f 384 |
+|  | Netto huur: | f 416 |
+
 ### Pijler twee: Vereenvoudiging
 
-De tweede pijler betreft de vereenvoudiging. De huidige regeling heeft in de loop der jaren veel van haar bestendigheid verloren. De complexe huursubsidie-regeling veroorzaakte steeds vaker ongewenste effecten, met als dieptepunt de ’tabellenproblematiek’ van 1994. De tabellen, die de uitvoering van de regeling complex maakten, zullen verdwijnen. In de nieuwe regeling is het berekenen van de subsidie makkelijker en in een paar stappen uit te voeren, zoals in bovenstaand rekenvoorbeeld is te zien. Dit komt – naast het bestendiger maken van de regeling – ook de klantvriendelijkheid en de begrijpelijkheid zeker ten goede. In de [Huursubsidiewet](onbekend) is een basis gecreëerd voor een vangnetregeling voor huishoudens die na het peiljaar een aanzienlijke inkomensdaling ervaren.
+De tweede pijler betreft de vereenvoudiging. De huidige regeling heeft in de loop der jaren veel van haar bestendigheid verloren. De complexe huursubsidie-regeling veroorzaakte steeds vaker ongewenste effecten, met als dieptepunt de ’tabellenproblematiek’ van 1994. De tabellen, die de uitvoering van de regeling complex maakten, zullen verdwijnen. In de nieuwe regeling is het berekenen van de subsidie makkelijker en in een paar stappen uit te voeren, zoals in bovenstaand rekenvoorbeeld is te zien. Dit komt – naast het bestendiger maken van de regeling – ook de klantvriendelijkheid en de begrijpelijkheid zeker ten goede. In de Huursubsidiewet is een basis gecreëerd voor een vangnetregeling voor huishoudens die na het peiljaar een aanzienlijke inkomensdaling ervaren.
 
 Tevens is het afschaffen van het schattingsinkomen in de huidige vorm een grote vereenvoudiging.
 
@@ -104,9 +98,9 @@ Het Kabinet heeft gekozen om de doelmatigheid en doeltreffendheid van de huursub
 
 De genoemde verbeteringen en vereenvoudigingen hebben er toe geleid dat het tot op heden gehanteerde beheersingsinstrumentarium (kwaliteitskorting) is afgezwakt. Prestatienormen, die verderop in deze circulaire uitgebreid zullen worden uiteengezet, worden ingevoerd om een bijdrage te leveren aan de doelmatigheid.
 
-Een ander element binnen de nieuwe [Huursubsidiewet](onbekend) betreft de aanscherping van de vermogentoets. De draagkracht van huishoudens met behoorlijk vermogen wordt voldoende geacht om de huurlasten zelf te kunnen bekostigen. Die huursubsidiemiddelen kunnen effectiever worden ingezet voor de huishoudens met lagere inkomens en zonder vermogen. Thans ligt de grens bij de vermogensbelasting (f 80.000 en f 160.000 voor respectievelijk alleenstaanden en meerpersoonshuishoudens). In de nieuwe wet zal voor een éénpersoonshuishouden, waarvan de huurder jonger is dan 65 jaar, die grens f 38.000 bedragen en voor een meerpersoonshuishouden, waarvan geen van de bewoners 65 jaar of ouder is, f 56.000. Voor huishoudens met één of meer bewoners ouder dan 65 jaar, bedragen de vermogensgrenzen respectievelijk f 65.000 en f 90.000.
+Een ander element binnen de nieuwe Huursubsidiewet betreft de aanscherping van de vermogentoets. De draagkracht van huishoudens met behoorlijk vermogen wordt voldoende geacht om de huurlasten zelf te kunnen bekostigen. Die huursubsidiemiddelen kunnen effectiever worden ingezet voor de huishoudens met lagere inkomens en zonder vermogen. Thans ligt de grens bij de vermogensbelasting (f 80.000 en f 160.000 voor respectievelijk alleenstaanden en meerpersoonshuishoudens). In de nieuwe wet zal voor een éénpersoonshuishouden, waarvan de huurder jonger is dan 65 jaar, die grens f 38.000 bedragen en voor een meerpersoonshuishouden, waarvan geen van de bewoners 65 jaar of ouder is, f 56.000. Voor huishoudens met één of meer bewoners ouder dan 65 jaar, bedragen de vermogensgrenzen respectievelijk f 65.000 en f 90.000.
 
-De Belastingdienst gaat na welk totaal vermogen er binnen een huishouden aanwezig is. Er wordt aangesloten bij wat in de [Wet op de vermogensbelasting 1964](onbekend) wordt verstaan onder vermogen. Naast spaartegoeden wordt ook bijvoorbeeld de economische waarde van de motor, de auto, de boot, de camper en de caravan als vermogen meegenomen (voor kinderen tot 23 jaar geldt een vrijstelling van f 2.000). Kapitaalverzekeringen of lijfrentepolissen ten behoeve van de oude dag tellen conform de [Wet op de vermogensbelasting](onbekend) in beginsel niet mee.
+De Belastingdienst gaat na welk totaal vermogen er binnen een huishouden aanwezig is. Er wordt aangesloten bij wat in de Wet op de vermogensbelasting 1964 wordt verstaan onder vermogen. Naast spaartegoeden wordt ook bijvoorbeeld de economische waarde van de motor, de auto, de boot, de camper en de caravan als vermogen meegenomen (voor kinderen tot 23 jaar geldt een vrijstelling van f 2.000). Kapitaalverzekeringen of lijfrentepolissen ten behoeve van de oude dag tellen conform de Wet op de vermogensbelasting in beginsel niet mee.
 
 Als datum voor de bepaling van het vermogen geldt 1 januari van het lopende subsidiejaar. Voor het eerste jaar geldt een overgangsregel. De peildatum voor het tijdvak 1997/98 is niet 1 januari 1997, maar 1 januari 1998. Echter, voor het subsidiejaar 1998/1999 is 1 januari 1998 ook de peildatum. Als er sprake is van vermogen boven de hiervoor genoemde bedragen wordt door de Belastingdienst een ’vermogensvaststellingsbeschikking’ afgegeven. In dat geval bestaat geen recht op huursubsidie. Voor het eerste jaar verliest men per 1 januari 1998 met terugwerkende kracht tot 1 juli 1997 het recht op huursubsidie.
 
@@ -124,17 +118,25 @@ Uit de oude wet is overgenomen dat de maximale huurgrens voor jongeren lager lig
 
 ### Onzelfstandige wooneenheden
 
-Het parlement heeft tijdens de behandeling van de [Huursubsidiewet](onbekend) verzocht het aantal categorieën onzelfstandige wooneenheden, waarvan de huurders in aanmerking komen voor huursubsidie, uit te breiden. Op dit moment wordt hieraan gewerkt. In de volgende MG-circulaire zal inhoudelijk op dit onderdeel worden teruggekomen.
+Het parlement heeft tijdens de behandeling van de Huursubsidiewet verzocht het aantal categorieën onzelfstandige wooneenheden, waarvan de huurders in aanmerking komen voor huursubsidie, uit te breiden. Op dit moment wordt hieraan gewerkt. In de volgende MG-circulaire zal inhoudelijk op dit onderdeel worden teruggekomen.
 
 ### Servicekosten
 
 Voor de berekening van de huursubsidie worden als subsidiabele servicekosten meegenomen:
 
+- – maandelijkse kosten gemeenschappelijke ruimten, energiekosten voor lift, ventilatie, hydrofoor- en alarminstallaties;
+
+- – maandelijkse kosten voor het schoonhouden van liften en andere gemeenschappelijke ruimten;
+
+- – maandelijkse kosten voor huismeester; en
+
+- – maandelijkse kapitaals- en ondershoudskosten voor dienstruimten en gemeenschappelijke recreatieruimten.
+
 Elk van de servicekosten is gemaximeerd op f 25 per maand. In de huidige regeling kan men hiernaast een tweetal andere servicekostenposten opgeven. Van deze twee wordt relatief weinig gebruik gemaakt (± 10% van de totale servicekosten).
 
 ### Experimenteer-artikel IKB
 
-In de wet is een experimenteer-artikel opgenomen, om huursubsidie-middelen in te kunnen zetten voor experimenten met huur-koop-omzettingen. Bij het departement wordt momenteel onderzoek verricht om het eigen woningbezit, ook bij de doelgroephuishoudens, te bevorderen. Wanneer het beleid hieromtrent is vastgesteld, zullen eventuele experimenten, in het kader van de [Huursubsidiewet](onbekend), kunnen worden opgestart.
+In de wet is een experimenteer-artikel opgenomen, om huursubsidie-middelen in te kunnen zetten voor experimenten met huur-koop-omzettingen. Bij het departement wordt momenteel onderzoek verricht om het eigen woningbezit, ook bij de doelgroephuishoudens, te bevorderen. Wanneer het beleid hieromtrent is vastgesteld, zullen eventuele experimenten, in het kader van de Huursubsidiewet, kunnen worden opgestart.
 
 ### 3. Prestatienormering Huursubsidie
 
@@ -142,7 +144,7 @@ In de wet is een experimenteer-artikel opgenomen, om huursubsidie-middelen in te
 
 Uit het voorgaande blijkt dat het Kabinet voor een sterk verruimde regeling heeft gekozen, met name door het wegnemen van de getrapte kwaliteitskorting. De meerkosten van de verbeteringen voor de doelgroep in de nieuwe subsidieregeling ten opzichte van de vorige zijn voor het Rijk aanzienlijk. In 1997 gaat het om 136 miljoen oplopend tot 294 miljoen gulden in het jaar 2000.
 
-Een vereenvoudigde en een verruimde regeling roept bij uitwerking van de voorstellen tegelijk de vraag naar de beheersing van de uitgaven huursubsidie op. Het antwoord hierop is de introductie van de prestatienormering. Het kader van deze prestatienormering is geschetst in de [Huursubsidiewet](onbekend). In een Algemene Maatregel van Bestuur zal de prestatienormering verder worden ingevuld. Deze is inmiddels naar de Tweede Kamer gestuurd en is op 11 maart jl behandeld.
+Een vereenvoudigde en een verruimde regeling roept bij uitwerking van de voorstellen tegelijk de vraag naar de beheersing van de uitgaven huursubsidie op. Het antwoord hierop is de introductie van de prestatienormering. Het kader van deze prestatienormering is geschetst in de Huursubsidiewet. In een Algemene Maatregel van Bestuur zal de prestatienormering verder worden ingevuld. Deze is inmiddels naar de Tweede Kamer gestuurd en is op 11 maart jl behandeld.
 
 ### 3.2. Een uitdaging voor de lokale partijen
 
@@ -182,6 +184,16 @@ Indien een aanvraag wordt ingediend, zal deze ook als verhuizing worden gekenmer
 
 De procedure van de verhuisnorm ziet er als volgt uit:
 
+- – De gemeente dient in alle gevallen huursubsidie-aanvragen boven de aftoppingsgrenzen i.v.m. verhuizing te beoordelen. Bij woningtoewijzing boven de aftoppingsgrenzen zal de gemeente een advies aan de minister moeten uitbrengen. De gemeente dient ervoor te zorgen, dat zowel positief als negatief advies geschiedt op volkshuisvestelijke gronden. Louter het feit dat de ruimte voor toewijzing boven de aftoppingsgrens reeds is verbruikt, is onvoldoende grond om een negatief advies te verstrekken.
+
+- – In ten hoogste 4% van alle gevallen waarin, na verhuizing, huursubsidie wordt aangevraagd mag een woning met een huurprijs boven de aftoppingsgrens worden toegewezen. Dat percentage kan hoger zijn voor bepaalde gebieden wanneer dat bij amvb is geregeld. Het gaat om een percentage van het aantal huursubsidie-aanvragen na verhuizing op lokaal niveau. In gemeenten met veel aanvragen na verhuizing is er dus in absolute zin meer ruimte boven de aftoppingsgrenzen dan in gemeenten met een gering aantal.
+
+- – Wanneer de 4% wordt overschreden dient de betreffende gemeente een bijdrage per overschrijding te betalen. De hoogte van de financiële bijdrage wordt bepaald bij algemene maatregel van bestuur, waarbij voor het subsidiejaar 1997/1998 wordt gedacht aan f 1000. Het gaat om een eenmalige bijdrage, van berekening van de meerjarige doorwerking wordt (vooralsnog) afgezien. Met het oog op een soepele invoering treedt de normering het eerste subsidiejaar wel in werking maar er zal voor dat jaar geen financiële bijdrage worden verlangd van een overschrijdende gemeente.
+
+- – Kleinere gemeenten kunnen zeker in het begin moeilijker sturen dan grotere gemeenten. Daarom is voorgesteld de inning van de bijdrage niet plaats te laten vinden als het bedrag van de bijdrage f 5000 of minder is. Vooral kleine gemeenten hebben hier baat bij.
+
+- – Voor calamiteiten is een hardheidstoets opgenomen. Deze mogelijkheid bestaat alleen achteraf. De gemeente zal dan gemotiveerd dienen aan te geven welke specifieke redenen er op de woningmarkt waarvan zij deel uit maakt zijn geweest dat zij niet aan de norm kon voldoen en zij een beroep doet op het Rijk om de verschuldigde financiële bijdrage niet de innen.
+
 ### Normering totaal huursubsidie-uitgaven op lokaal niveau (HS-norm)
 
 De verhuisnorm betreft de uitgaven boven de aftoppingsgrens. Een tweede normering is nodig: vanwege de hoge aftoppingsgrenzen – het gaat om een zeer grote huurwoningenvoorraad – èn vanwege het vrijwel ontbreken van een beheersingsmechanisme in de systematiek zelf.
@@ -206,17 +218,45 @@ De nieuwe regeling zorgt er voor dat vrijwel alle huursubsidie-ontvangers er op 
 
 De procedure van de HS-norm ziet er als volgt uit:
 
+- – Het Rijk stelt jaarlijks het stijgingspercentage van de huursubsidie-uitgaven vast. Met dit percentage kunnen de lokale uitgaven stijgen.
+
+- – In eerste instantie wordt getoetst of de stijging van de huursubsidie-uitgaven als gemeentelijk gemiddelde onder de norm is gebleven. Als dit het geval is, dan wordt geen verder onderzoek op verhuurdersniveau ingesteld.
+
+- – Een tweede zeef, binnen de gemeente, betreft een cluster van verhuurders, die gezamenlijk afspraken hebben gemaakt aangaande volkshuisvestelijke zaken, waaronder het huursubsidie-gebruik. Indien het cluster verhuurders de norm niet overschrijdt, dan zal van de individuele verhuurder die wel de norm heeft overschreden, geen bijdrage worden gevraagd.
+
+- – Pas indien zowel de gemeente als de cluster verhuurders, waartoe een individuele verhuurder behoort, de norm heeft overschreden, zijn de overschrijdende verhuurders een bijdrage aan het Rijk verschuldigd. Als de norm wordt overschreden, zal de verhuurder om een bijdrage worden gevraagd. Het gaat louter om verhuurders die 25 of meer huursubsidie-ontvangers binnen hun bestand hebben. Verhuurders die voldoen aan de norm, zullen dus geen bijdrage behoeven te betalen.
+
+- – De bijdrage bestaat uit het verschil tussen de toegestane stijging en de werkelijke stijging.
+
+- – De bijdrage wordt éénmalig geïnd. Ook hier geldt dat (vooralsnog) van berekening van de meerjarige doorwerking wordt afgezien. Met het oog op een soepele invoering treedt de normering het eerste subsidiejaar wel in werking maar er zal voor dat jaar geen financiële bijdrage worden verlangd van een overschrijdende verhuurder. Om eventuele overschrijdingen in het eerste jaar te herstellen wordt de HS-norm gedurende vijf jaar aangescherpt.
+
+- – Om vooral de kleinere verhuurders te ontzien zal de inning van de bijdrage niet plaatsvinden, zo wordt voorgesteld, als het bedrag van de bijdrage f 5.000 of minder is.
+
+- – Voor calamiteiten wordt gedacht aan een hardheidstoets. Een verhuurder zal achteraf gemotiveerd kunnen aan geven welke specifieke redenen er zijn geweest dat hij niet aan de norm kon voldoen en hij een beroep doet op het Rijk om de verschuldigde financiële bijdrage niet te innen.
+
 ### 4. Tijdsplanning
 
-Voor de planning in de tijd van het proces van het maken van afspraken over de huursubsidieprestatienormering kan worden aangesloten bij het traject van het beleidsplan/activiteitenplan ten aanzien van de prestatievelden genoemd in het [BBSH](onbekend). Het samenvallen in de tijd is ook van belang vanwege de inhoudelijke relaties tussen beide groepen prestatienormering.
+Voor de planning in de tijd van het proces van het maken van afspraken over de huursubsidieprestatienormering kan worden aangesloten bij het traject van het beleidsplan/activiteitenplan ten aanzien van de prestatievelden genoemd in het BBSH. Het samenvallen in de tijd is ook van belang vanwege de inhoudelijke relaties tussen beide groepen prestatienormering.
 
 De prestatienormering huursubsidie kent, per subsidiejaar, een aantal belangrijke momenten. Deze staan hieronder in tijdsvolgorde opgesomd.
+
+| Datum | Omschrijving activiteit |
+| --- | --- |
+| 1 mei | Bekend maken van HS-norm via een Ministeriële Regeling. Op basis van een tussenstand van het dan lopende subsidiejaar wordt, ter indicatie, voor iedere gemeente afzonderlijk een nominale norm, uitgedrukt in guldens gemiddelde bijdrage, in een MG-circulaire aangereikt. |
+| 1 juli | Aanvang subsidiejaar |
+| uiterlijk 15 september | Doorgeven van door verhuurders gemaakte afspraken aan gemeenten |
+| uiterlijk 1 oktober | Doorgeven door gemeentenvan door verhuurders gemaakte afspraken aan Rijk |
+| 1 januari | Bekendmaken realisatie voorgaand subsidiejaar. Op basis hiervan wordt op dit moment ook de definitieve, nominale HS-norm voor de gemiddelde bijdrage van de afzonderlijke gemeenten in het lopende subsidiejaar gepresenteerd. |
+| januari | De gemeenten ontvangen een tussenstand van de in het lopende subsidiejaar tot dan toe gerealiseerde gemiddelde bijdrage, alsmede het aantal toewijzingen met een huurprijs onder en boven de aftoppingsgrens. |
+| 30 juni | Feitelijke afsluiting van het subsidiejaar. |
+| 1 januari | Afsluiting van het subsidiejaar, wat betreft de prestatienormering huursubsidie: Meting van de realisatie, verzenden aan overschrijdende gemeenten en dito verhuurders van beschikkingen tot betaling van de financiële bijdragen (verhuis- en HS-norm), MG met landelijk realisatie-overzicht, tevens ter decharge van overige gemeenten. |
+| 1 april | Hardheid toetsen en afwikkeling eventuele bezwaarschriften van gemeenten en verhuurders naar aanleiding van opgelegde beschikkingen betreffende financiële bijdragen |
 
 Jaarlijks informeert het Rijk, door middel van het Jaarverslag huursubsidie, de Tweede Kamer over de behaalde resultaten.
 
 ### 5. Informatievoorziening
 
-Omdat de uitvoering van de [Huursubsidiewet](onbekend) een samenspel is van diverse partijen, is het van belang dat de uitwisseling van informatie goed verloopt. Dat geldt met name bij de toetsing van de overschrijding van de verhuisnorm en de HS-uitgavennorm. In de wet en de algemene maatregel van bestuur zal worden geregeld welke partijen gegevens dienen te verstrekken aan burgemeester en wethouders en/of de Minister.
+Omdat de uitvoering van de Huursubsidiewet een samenspel is van diverse partijen, is het van belang dat de uitwisseling van informatie goed verloopt. Dat geldt met name bij de toetsing van de overschrijding van de verhuisnorm en de HS-uitgavennorm. In de wet en de algemene maatregel van bestuur zal worden geregeld welke partijen gegevens dienen te verstrekken aan burgemeester en wethouders en/of de Minister.
 
 Dit is van belang bij de fraudebestrijding en de toetsing van de rechtmatigheid van de gedane uitgaven voor de huursubsidie.
 

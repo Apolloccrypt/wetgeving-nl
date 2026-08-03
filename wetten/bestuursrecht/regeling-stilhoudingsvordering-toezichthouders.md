@@ -1,42 +1,17 @@
 ---
 title: "Regeling stilhoudingsvordering toezichthouders"
 identifier: "BWBR0009206"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-07-10"
-last_updated: "1998-07-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009206"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4572203"
-version_id: "6388312"
-internal_id: "C6635211"
-label_id: "4550524"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009206/1998-07-10/0"
-intitule_bron: "Stcrt.1997-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-12-18"
-intitule_published: "1997-12-23"
-intitule_in_force: "1997-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-247"
-original_signed_date: "1997-12-18"
-original_published_date: "1997-12-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0009206&z=1998-07-10&g=1998-07-10"
-jci_1_0: "1.0:c:BWBR0009206&g=1998-07-10"
-citeertitel_status: "officieel"
-signed_date: "1997-12-18"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 1998-07-10
+status: geldig
+toestand: 1998-07-10
+bron: "https://wetten.overheid.nl/BWBR0009206"
+opgehaald: 2026-08-03
 ---
+
 # Regeling stilhoudingsvordering toezichthouders
-
-Gelet op [artikel 5:19, vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -46,9 +21,9 @@ Een toezichthouder doet de vordering tot stilhouden, bedoeld in [artikel 5:19, v
 
 - b. in de overige gevallen:
 
-- 1º. van een half uur vóór zonsopgang tot een half uur na zonsondergang: door het opsteken van een stopteken, bestaande uit een ronde witte schijf waaromheen een rode rand, waarin met witte letters in ieder geval de aanduiding ’STOP’ is geplaatst;
+   - 1º van een half uur vóór zonsopgang tot een half uur na zonsondergang: door het opsteken van een stopteken, bestaande uit een ronde witte schijf waaromheen een rode rand, waarin met witte letters in ieder geval de aanduiding ’STOP’ is geplaatst;
 
-- 2º. van een half uur na zonsondergang tot een half uur vóór zonsopgang: door het verticaal op en neer bewegen van een rood lichtsein dat is aangebracht in het midden van het in onderdeel 1° bedoelde stopteken.
+   - 2º van een half uur na zonsondergang tot een half uur vóór zonsopgang: door het verticaal op en neer bewegen van een rood lichtsein dat is aangebracht in het midden van het in onderdeel 1° bedoelde stopteken.
 
 ##### Artikel 2
 
@@ -61,5 +36,3 @@ Deze regeling treedt in werking met ingang van 1 januari 1998.
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling stilhoudingsvordering toezichthouders.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

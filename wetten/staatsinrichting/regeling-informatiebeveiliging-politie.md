@@ -1,49 +1,105 @@
 ---
 title: "Regeling informatiebeveiliging politie"
 identifier: "BWBR0008599"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-12-15"
-last_updated: "2017-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008599"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5049873"
-version_id: "19968802"
-internal_id: "C28056311"
-label_id: "5025944"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008599/2017-12-15/0"
-intitule_bron: "Stcrt.1997-60"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-03-17"
-intitule_published: "1997-03-26"
-intitule_in_force: "1997-03-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-26854"
-original_signed_date: "2012-12-13"
-original_published_date: "2012-12-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2012-26854"
-entry_into_force_date: "2012-12-13"
-jci_1_3: "jci1.3:c:BWBR0008599&z=2017-12-15&g=2017-12-15"
-jci_1_0: "1.0:c:BWBR0008599&g=2017-12-15"
-citeertitel_status: "officieel"
-signed_date: "2012-12-13"
-entry_into_force: "2012-12-13"
+publicatiedatum: 2012-12-13
+laatste_update: 2017-12-15
+status: geldig
+toestand: 2017-12-15
+bron: "https://wetten.overheid.nl/BWBR0008599"
+opgehaald: 2026-08-03
 ---
+
 # Regeling informatiebeveiliging politie
-
-Gelet op de [artikelen 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=38), [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=46) en [48, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=48);
-
-Gezien het advies van de korpsbeheerders, kenmerk 0113\1235\EMd’H, d.d. 17 december 1996, en van de Raad voor het Korps landelijke politiediensten, d.d. 25 oktober 1996;
-
-Besluiten:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+afhankelijkheidsanalyse:
+
+het vaststellen in hoeverre bedrijfsprocessen die door informatiesystemen ondersteund worden, afhankelijk zijn van de betrouwbaarheid van deze systemen en het vaststellen welke potentiële schades kunnen optreden als gevolg van het falen van deze informatiesystemen;
+
+d.
+
+betrouwbaarheid:
+
+de mate waarin de politie zich kan verlaten op een informatiesysteem voor haar informatievoorziening;
+
+e.
+
+beschikbaarheid:
+
+de mate waarin een informatiesysteem in bedrijf is op het moment dat de politie het nodig heeft;
+
+d.
+
+integriteit:
+
+de mate waarin een informatiesysteem zonder fouten is;
+
+e.
+
+exclusiviteit:
+
+de mate waarin de toegang tot en de kennisname van een informatiesysteem en de informatie daarin beperkt is tot een gedefinieerde groep van gerechtigden;
+
+f.
+
+informatiesysteem:
+
+een geheel van gegevensverzamelingen, personen, procedures, programmatuur en opslagverwerkings- en communicatie-apparatuur;
+
+g.
+
+gemeenschappelijke IT-dienst:
+
+een geheel van voorzieningen dat ter beschikking staat aan één of meerdere informatiesystemen binnen de politie en waarvoor de verantwoordelijkheid eenduidig is toe te wijzen aan één organisatorische eenheid;
+
+h.
+
+kwetsbaarheidsanalyse:
+
+het vaststellen van de invloed van het manifest worden van bedreigingen op het functioneren van een informatiesysteem of een gemeenschappelijke IT-dienst;
+
+i.
+
+informatiebeveiliging:
+
+het treffen en onderhouden van een samenhangend pakket van maatregelen ter waarborging van de beschikbaarheid, integriteit en exclusiviteit van een informatiesysteem en daarmee van de informatie daarin;
+
+j.
+
+informatiebeveiligingsplan:
+
+de opsomming van alle beveiligingsmaatregelen of de vindplaatsen daarvan die voor een informatiesysteem of een gemeenschappelijke IT-dienst van kracht zijn;
+
+k.
+
+calamiteitenparagraaf:
+
+de opsomming van alle maatregelen die tot uitvoering moeten komen als zich een situatie voordoet waarbij de beschikbaarheid, integriteit of exclusiviteit van een informatiesysteem in beduidende mate niet aan de eisen voldoen;
+
+l.
+
+kwaliteit:
+
+de mate waarin het geheel van eigenschappen van een informatiesysteem voldoet aan de uit het gebruiksdoel voortvloeiende eisen;
+
+m.
+
+systeemexploitatie:
+
+de zorg voor het functioneren van (een deel van) een informatiesysteem;
+
+n.
+
+systeemverwerving:
+
+de zorg voor het ontwikkelen, kopen, huren en dergelijke en het uitvoeren van aanpassingen aan (delen van) een informatiesysteem zoals procedures, programmatuur of apparatuur.
 
 ##### Artikel 2
 
@@ -91,13 +147,13 @@ De korpschef draagt er zorg voor dat voor elk informatiesysteem en voor elke gem
 
 - e. voor elk informatiesysteem en voor elke gemeenschappelijke IT-dienst een informatiebeveiligingsplan wordt vastgesteld. Hierin is in elk geval opgenomen:
 
-- 1. een actieplan ter implementatie van alle beveiligingsmaatregelen;
+   - 1. een actieplan ter implementatie van alle beveiligingsmaatregelen;
 
-- 2. een calamiteitenparagraaf waarvan de effectiviteit periodiek wordt getoetst.
+   - 2. een calamiteitenparagraaf waarvan de effectiviteit periodiek wordt getoetst.
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -113,77 +169,9 @@ De korpschef draagt er zorg voor dat voor elk bedrijfsproces de maatregelen die 
 
 - e. de uit het informatiebeveiligingsplan voortvloeiende maatregelen voor systeemverwerving worden getoetst op hun implementatie en werking.
 
-##### Artikel 7
-
-Deze regeling treedt in werking op 1 april 1997.
-
-##### Artikel 8
-
-Deze regeling wordt aangehaald als Regeling informatiebeveiliging politie.
-
-Deze regeling zal met de toelichting en de bijbehorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&bijlage=I&z=2017-12-15&g=2017-12-15) in de Staatscourant en het Algemeen Politieblad worden geplaatst.
-
-## Bijlage. Betrouwbaarheidscriteria en -normklassen
-
-### Inleiding
-
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&artikel=2&z=1998-07-22&g=1998-07-22) van de regeling bepaalt dat bij gegevensuitwisseling tussen politiekorpsen onderling (lid 3) en met andere instanties (lid 4) schriftelijke afspraken gemaakt worden over de betrouwbaarheid van de informatiesystemen en de informatie daarin.
-
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&artikel=2&z=2007-04-28&g=2007-04-28) van de regeling bepaalt dat bij gegevensuitwisseling tussen politiekorpsen onderling (lid 3) en met andere instanties (lid 4) schriftelijke afspraken gemaakt worden over de betrouwbaarheid van de informatiesystemen en de informatie daarin.
-
-Vanzelfsprekend kunnen (en dienen) dergelijke afspraken, al dan niet schriftelijk, ook gemaakt te worden bij gegevensuitwisseling binnen een politiekorps.
-
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&artikel=2&z=2017-12-15&g=2017-12-15) van de regeling bepaalt dat bij gegevensuitwisseling binnen de politie (lid 3) en met andere instanties (lid 4) schriftelijke afspraken gemaakt worden over de betrouwbaarheid van de informatiesystemen en de informatie daarin.
-
-Vanzelfsprekend kunnen (en dienen) dergelijke afspraken, al dan niet schriftelijk, ook gemaakt te worden bij gegevensuitwisseling binnen de politie.
-
-### Betrouwbaarheidscriteria
-
-Duidelijk zal zijn dat afspraken op het niveau van gevoeligheid voor de partijen in uitwisseling weinig houvast biedt bij het invullen van de beveiliging (zekerstellen van de betrouwbaarheid) van de informatie en de informatiesystemen, terwijl afspraken op het niveau van maatregelen veel omvattend en complex zullen zijn en de geldigheidsduur van de afspraken ook beperkt zal zijn als gevolg van technologische en organisatorische ontwikkelingen. Afspraken over betrouwbaarheid van informatie en informatiesystemen moeten daarom gemaakt worden op het niveau van eisen. Bovendien is het zaak de eisen kwantitatief te formuleren, ten einde de afspraken meetbaar te maken.
-
-In deze bijlage worden de criteria en -normklassen omschreven die door de politie dienen te worden gehanteerd bij het formuleren van eisen inzake de betrouwbaarheid van informatie en informatiesystemen.
-
-Beschikbaarheid wordt hier gespecificeerd in tijdafhankelijke criteria (het moment dat een politiekorps het informatiesysteem nodig heeft), niet in locatieafhankelijke criteria (de plaats waar het informatiesysteem nodig is). Indien ook locatieafhankelijke beschikbaarheidseisen moeten worden gesteld, dan kunnen de hierboven genoemde criteria nader worden gespecificeerd per werkplek, afdeling of gebouw of organisatie.
-
-Beschikbaarheid wordt omschreven als: de mate waarin een informatiesysteem in bedrijf is op het moment dat de politie het nodig heeft. Voor het formuleren van beschikbaarheidseisen zijn er de volgende criteria.
-
-Beschikbaarheid wordt hier gespecificeerd in tijdafhankelijke criteria (het moment dat de politie het informatiesysteem nodig heeft), niet in locatieafhankelijke criteria (de plaats waar het informatiesysteem nodig is). Indien ook locatieafhankelijke beschikbaarheidseisen moeten worden gesteld, dan kunnen de hierboven genoemde criteria nader worden gespecificeerd per werkplek, afdeling of gebouw of organisatie.
-
-### Normklassen
-
-In die gevallen waarin de vereiste juistheid, volledigheid en/of tijdigheid nagenoeg 100% moet zijn, is het soms praktischer de eisen te formuleren in faalkansen, bijvoorbeeld: 1 onjuist verwerkte transaktie per 1000 transakties is acceptabel.
-
-Exclusiviteit wordt omschreven als: de mate waarin de toegang tot en kennisname van een informatiesysteem en de informatie daarin beperkt is tot een gedefinieerde groep van gerechtigden. Voor het formuleren van eisen inzake exclusiviteit kunnen de volgende criteria van dienst zijn.
-
-### Normklassen
-
-Als voor elk informatiesysteem specifieke betrouwbaarheidsnormen worden geformuleerd, dan ontstaat een complex normenstelsel. Wat te doen als het ene systeem een bedrijfszekerheidsnorm stelt van 1 storing per 200 uur, het volgende systeem een norm stelt van 1 storing per 240 uur en het derde weer een norm stelt van 1 storing per 300 uur? Voor het maken van afspraken zal het op den duur handiger blijken om normklassen te hanteren. In deze regeling worden vier normklassen onderscheiden: ’laag’, ’gemiddeld’, ’hoog’ en ’zeer hoog’.
-
 ##### Artikel 6a
 
-Vervallen
-
-## Bijlage I. Betrouwbaarheidscriteria en -normklassen
-
-### Inleiding
-
-Deze betrouwbaarheidsafspraken kunnen op drie niveaus worden gemaakt:
-
-### Betrouwbaarheidscriteria
-
-Integriteit wordt omschreven als: de mate waarin een informatiesysteem zonder fouten is. ’Zonder fouten’ wil zeggen dat de informatieverwerking plaatsvindt volgens vooraf vastgestelde specificaties. De randvoorwaarde voor het maken van afspraken over de integriteit van informatiesystemen en de informatie daarin is dus de aanwezigheid van specificaties van de verwerking, zowel de geautomatiseerde als de handmatige. Voor het formuleren van integriteitseisen zijn er de volgende criteria.
-
-### Normklassen
-
-Het is de bedoeling dat de normklassen worden ingevuld door overleg tussen de politiekorpsen. Hieronder volgt een voorbeeld van een mogelijke invulling van normklassen voor de onderscheiden betrouwbaarheidscriteria.
-
-### Tot slot
-
-Het is de bedoeling dat de normklassen worden ingevuld door de politie. Hieronder volgt een voorbeeld van een mogelijke invulling van normklassen voor de onderscheiden betrouwbaarheidscriteria.
-
-## Bijlage II. Normstelling inrichting interceptiefaciliteiten
-
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+*Vervallen*
 
 ##### Artikel 6b
 
@@ -205,16 +193,12 @@ De korpschef draagt ervoor zorg dat onbevoegde kennisneming van criminele inlich
 
 Deze regeling berust op [artikel 23, eerste lid, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23).
 
-## Bijlage I. Betrouwbaarheidscriteria en -normklassen
+##### Artikel 7
 
-### Inleiding
+Deze regeling treedt in werking op 1 april 1997.
 
-### Betrouwbaarheidscriteria
+##### Artikel 8
 
-### Tot slot
+Deze regeling wordt aangehaald als Regeling informatiebeveiliging politie.
 
-De in deze bijlage beschreven verzameling van betrouwbaarheidscriteria is niet volledig en vaststaand. Zoals elke taal is ook de ’informatiebeveiligingstaal’ in ontwikkeling. Op basis van ervaringen met het toepassen van de betrouwbaarheidscriteria en van de normklassen zullen aanpassingen en uitbreidingen van de verzameling van criteria en invullingen van de normklassen kunnen worden verwacht.
-
-## Bijlage II. Normstelling inrichting interceptiefaciliteiten
-
-Vervallen
+Deze regeling zal met de toelichting en de bijbehorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&bijlage=I&z=2017-12-15&g=2017-12-15) in de Staatscourant en het Algemeen Politieblad worden geplaatst.

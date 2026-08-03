@@ -1,48 +1,37 @@
 ---
 title: "Personeelsinformatie sector Rijk"
 identifier: "BWBR0008458"
-country: "nl"
-rank: "circulaire"
-publication_date: "1997-01-01"
-last_updated: "1997-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008458"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6331823"
-version_id: "10985052"
-internal_id: "C14875781"
-label_id: "6320804"
-original_entry_into_force: "1997-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008458/1997-01-01/0"
-intitule_bron: "Stcrt.1997-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-20"
-intitule_published: "1997-01-02"
-intitule_in_force: "1997-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-1"
-original_signed_date: "1996-12-20"
-original_published_date: "1997-01-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1997-1-p5-SC8022"
-entry_into_force_date: "1997-01-01"
-jci_1_3: "jci1.3:c:BWBR0008458&z=1997-01-01&g=1997-01-01"
-jci_1_0: "1.0:c:BWBR0008458&g=1997-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "1996-12-20"
-entry_into_force: "1997-01-01"
+publicatiedatum: 1997-01-01
+laatste_update: 1997-01-01
+status: geldig
+toestand: 1997-01-01
+bron: "https://wetten.overheid.nl/BWBR0008458"
+opgehaald: 2026-08-03
 ---
+
 # Personeelsinformatie sector Rijk
 
-«Circulaire aan de ministers»
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
-
 Ingevolge [artikel 6 lid 1 van het Besluit Informatievoorziening Rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0004976&artikel=6) (IVR) 1991 draag ik de verantwoordelijkheid voor het deelgebied personeelsinformatie van alle tot de sector Rijk1Waar in deze circulaire gesproken wordt over de sector Rijk wordt de arbeidsvoorwaardelijke sector rijkspersoneel bedoeld. Deze bestaat uit het personeel van de ministeries (exclusief het ministerie van Defensie), het Kabinet van de Koningin, de Kamers der Staten-Generaal en de overige Hoge colleges van Staat en het Kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken.-behorende organisaties. Teneinde uitvoering te geven aan deze verantwoordelijkheid en vanuit mijn coördinerende rol op het terrein van het personeels- en arbeidsvoorwaardenbeleid is personeelsinformatie nodig van alle tot de sector Rijk behorende organisaties. Hiertoe is op 12 november 1996 in de vergadering van de leden van de Interdepartementale Coördinatievergadering Personeelsbeleid Rijksdienst (ICPR) een aantal afspraken gemaakt met betrekking tot de levering van informatie door alle tot de sector Rijk behorende organisaties aan mijn ministerie. De afspraken hebben betrekking op:
+
+- A. het leveren van informatie met de aangegeven frequentie en levertijd met ingang van 1 januari 1997;
+
+- B. wederzijdse verantwoordelijkheden van zowel de houder van de informatie als van de verstrekker van de informatie;
+
+- C. enige procedurele aspecten.
 
 ### Ad A
 
 De te verstrekken informatie heeft betrekking op vier categorieën:
+
+- 1. uittreksels uit het Interdepartementaal Personeelsinformatie Automatiseringssysteem (IPA-bestand) ([deel A van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008458&bijlage=1&z=1997-01-01&g=1997-01-01));
+
+- 2. enquête(s) ([deel B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008458&bijlage=1&z=1997-01-01&g=1997-01-01));
+
+- 3. incidentele, aanvullende informatie;
+
+- 4. informatievraag die op termijn is gesteld.
 
 ### Ad 1. De informatie uit IPA
 
@@ -68,7 +57,21 @@ Met betrekking tot de informatievraag die betrekking heeft op vervoersmanagement
 
 Met betrekking tot de verantwoordelijkheden van de verstrekker van de informatie, de verantwoordelijke ministers en hoofd van dienst van alle tot de sector Rijk behorende organisaties, zijn de volgende afspraken gemaakt:
 
+- – de verstrekker van de informatie zal wijzigingen in gehanteerde codes en definities ongevraagd verschaffen, die nodig zijn voor een goede interpretatie van de gegevens;
+
+- – indien de verstrekker van de informatie besluit het gebruik van IPA te beëindigen blijven de afspraken met betrekking tot het leveren van informatie van kracht.
+
 Met betrekking tot de verantwoordelijkheden van de houder van de informatie, waarbij ik vertegenwoordigd ben door de directeur Personeelsmanagement Rijksdienst, zijn de volgende afspraken gemaakt:
+
+- – alvorens tot publicatie van informatie wordt overgegaan zal steeds eerst overleg gepleegd worden met de verstrekkers van de informatie over de gehanteerde codes en over de interpretatie van de informatie;
+
+- – de informatie zal ten hoogste 5 jaar opgeslagen worden;
+
+- – op verzoek van de verstrekker van de informatie zal informatie over de eigen organisatie door de houder van de informatie beschikbaar worden gesteld;
+
+- – de verstrekker van de informatie kan informatie verkrijgen van de houder van de informatie over een andere organisatie na voorafgaande toestemming van de betrokken organisatie;
+
+- – op verzoek van de verstrekker van de informatie en in overleg met de houder van de informatie kan informatie verstrekt worden over de sector Rijk.
 
 ### Ad C
 
@@ -85,5 +88,3 @@ Ik ben voornemens om de afspraken als bedoeld in deze circulaire na een periode 
 Gaarne verzoek ik u uw medewerking te verlenen aan de in deze circulaire vermelde afspraken.
 
 De afspraken zoals opgenomen in deze circulaire treden in werking met ingang van 1 januari 1997. In de Staatscourant zal melding worden gemaakt van de totstandkoming van de afspraken zoals opgenomen in deze circulaire. De circulaire zal ter inzage worden gelegd in de bibliotheek van het ministerie van Binnenlandse Zaken.
-
-## Bijlage 1. Informatiematrix arbeidsvoorwaarden- en personeelsbeleid rijksdienst

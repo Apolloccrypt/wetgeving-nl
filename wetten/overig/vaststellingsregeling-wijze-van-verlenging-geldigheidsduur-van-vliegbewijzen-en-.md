@@ -1,37 +1,16 @@
 ---
 title: "Vaststellingsregeling wijze van verlenging geldigheidsduur van vliegbewijzen en bewijzen van bevoegdheid"
 identifier: "BWBR0009488"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-07-09"
-last_updated: "2006-07-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009488"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5282153"
-version_id: "9497172"
-internal_id: "C12756371"
-label_id: "5257904"
-dtd_version: "2.0"
-original_entry_into_force: "1998-03-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009488/2006-07-09/0"
-intitule_bron: "Stcrt.1998-60"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-03-20"
-intitule_published: "1998-03-27"
-intitule_in_force: "1998-03-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-60"
-original_signed_date: "1998-03-20"
-original_published_date: "1998-03-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-03-29"
-jci_1_3: "jci1.3:c:BWBR0009488&z=2006-07-09&g=2006-07-09"
-jci_1_0: "1.0:c:BWBR0009488&g=2006-07-09"
-citeertitel_status: "officieel"
-signed_date: "1998-03-20"
-entry_into_force: "1998-03-29"
+publicatiedatum: 1998-03-29
+laatste_update: 2006-07-09
+status: geldig
+toestand: 2006-07-09
+bron: "https://wetten.overheid.nl/BWBR0009488"
+opgehaald: 2026-08-03
 ---
+
 # Vaststellingsregeling wijze van verlenging geldigheidsduur van vliegbewijzen en bewijzen van bevoegdheid
 
 ##### Artikel 1
@@ -109,133 +88,3 @@ De houder van een verlopen Nederlands bewijs van bevoegdheid, uitgezonderd die a
 ##### Artikel 6
 
 De regeling van de directeur-generaal van de Rijksluchtvaartdienst van 22 mei 1978, nr. LI/11521, wordt ingetrokken evenals de op grond van die regeling afgegeven beschikkingen.
-
-## Bijlage 1
-
-| Bevoegdverklaringen | A en beperkt B | B3 B2 B1 |
-| --- | --- | --- |
-| Uitsluitend éénmotorige | 10 vlieguren per jaar; | 20 vlieguren per jaar; |
-| vliegtuigen (klasse I) |   |   |
-|   | 1 uur per jaar per type | 2 uur per jaar per type |
-|   | zwaarder dan 2000 kg; | zwaarder dan 2000 kg; |
-|   | Houders van geldige | 10 landingen per jaar; |
-|   | zweefvliegbewijzen kunnen |   |
-|   | volstaan met 7 vlieguren |   |
-|   | per jaar. |   |
-|   | Wanneer zij tevens in het |   |
-|   | bezit zijn van een |   |
-|   | geldige bevoegdverklaring |   |
-|   | Motorzweefvliegen kan met |   |
-|   | 5 vlieguren worden |   |
-|   | volstaan. |   |
-|   | 5 landingen per jaar; |   |
-|   | proeve van bekwaamheid |   |
-| Uitsluitend meermotorige | 10 vlieguren per jaar; | 20 vlieguren per jaar; |
-| vliegtuigen (klasse II) |   |   |
-|   | 1 uur per jaar per type | 2 uur per jaar per type |
-|   | zwaarder dan 2000 kg; | zwaarder dan 2000 kg; |
-|   | Houders van geldige |   |
-|   | zweefvliegbewijzen kunnen |   |
-|   | volstaan met 7 vlieguren |   |
-|   | per jaar. |   |
-|   | Wanneer zij tevens in het | 10 landingen per jaar; |
-|   | bezit zijn van een |   |
-|   | geldige bevoegdverklaring |   |
-|   | Motorzweefvliegen kan met |   |
-|   | 5 vlieguren worden |   |
-|   | volstaan. |   |
-|   | 5 landingen per jaar; |   |
-|   | proeve van bekwaamheid |   |
-| Uitsluitend | 10 vlieguren per jaar; |   |
-| motorzweefvliegtuigen |   |   |
-| (klasse V) Eénmotorige |   |   |
-| vliegtuigen (klasse I) en |   |   |
-| meermotorige vliegtuigen |   |   |
-| (klasse II) |   |   |
-|   | 5 landingen per jaar; |   |
-|   | proeve van bekwaamheid 5 | 10 vlieguren per jaar op |
-|   | vlieguren per jaar op | éénmotorige vliegtuigen en |
-|   | éénmotorige vliegtuigen | 20 vlieguren per jaar op |
-|   | en 10 vlieguren per jaar | meermotorige vliegtuigen; |
-|   | op meermotorige |   |
-|   | vliegtuigen; |   |
-|   | 1 uur per jaar per type |   |
-|   | zwaarder dan 2000 kg; |   |
-|   | 5 landingen per jaar; |   |
-|   | proeve van bekwaamheid op | 2 uur per jaar per type |
-|   | een meermotorig vliegtuig | zwaarder dan 2000 kg; |
-|   |   | 10 landingen per jaar; |
-| Eénmotorige vliegtuigen | 10 vlieguren per jaar op | 20 vlieguren per jaar op |
-| (klasse I) en | éénmotorige vliegtuigen | éénmotorige vliegtuigen en |
-| motorzweefvliegtuigen | en 3 vlieguren per jaar | 3 vlieguren per jaar op |
-| (klasse V) | op motorzweefvliegtuigen; | motorzweefvliegtuigen; |
-|   | 1 uur per jaar per type | 2 uur per jaar per type |
-|   | zwaarder dan 2000 kg; | zwaarder dan 2000 kg; |
-|   | 5 landingen per jaar; | 10 landingen per jaar; |
-|   | proeve van bekwaamheid |   |
-| Meermotorige vliegtuigen | 10 vlieguren per jaar op | 20 vlieguren per jaar op |
-| (klasse II) en | meermotorige vliegtuigen | meermotorige vliegtuigen |
-| motorzweefvliegtuigen | en 3 vlieguren per jaar | en 3 vlieguren per jaar op |
-|   | op motorzweefvliegtuigen; | motorzweefvliegtuigen; |
-|   | 1 uur per jaar per type | 2 uur per jaar per type |
-|   | zwaarder dan 2000 kg; | zwaarder dan 2000 kg; |
-|   | 5 landingen per jaar; | 10 landingen per jaar; |
-|   | proeve van bekwaamheid op |   |
-|   | een meermotorig vliegtuig |   |
-| Eénmotorige vliegtuigen | 5 vlieguren per jaar op | 10 vlieguren per jaar op |
-| (klasse I) en | éénmotorige vliegtuigen; | éénmotorige vliegtuigen; |
-| meermotorige vliegtuigen |   |   |
-| (klasse II) en |   |   |
-| motorzweefvliegtuigen |   |   |
-| (klasse V) |   |   |
-|   | 10 vlieguren per jaar op | 20 vlieguren per jaar op |
-|   | meermotorige vliegtuigen | meermotorige vliegtuigen |
-|   | en 3 vlieguren per jaar | en 3 vlieguren per jaar op |
-|   | op motorzweefvliegtuigen; | motorzweefvliegen; |
-|   | 1 uur per jaar per type | 2 uur per jaar per type |
-|   | zwaarder dan 2000 kg; | zwaarder dan 2000 kg; |
-|   | 5 landingen per jaar; | 10 landingen per jaar; |
-|   | proeve van bekwaamheid op |   |
-|   | een meermotorig vliegtuig |   |
-| Blindvliegen | Proeve van bekwaamheid op |   |
-|   | een vliegtuig behorende tot de klasse waarvoor de houder van het vliegbewijs |   |
-|   | is bevoegd verklaard, met dien verstande dat de |   |
-|   | houder van een vliegbewijs met zowel de klasse |   |
-|   | éénmotorige als meermotorige vliegtuigen, de proeven |   |
-|   | van bekwaamheid aflegt op een meermotorig vliegtuig. |   |
-|   | Voor vliegtuigen met een maximale startmassa van |   |
-|   | meer dan 5700 kg kan de proeve van bekwaamheid |   |
-|   | worden afgelegd op een daartoe door de Directeur- |   |
-|   | Generaal goedgekeurde vluchtnabootser |   |
-| Spuitvliegen |   | 5 uur per jaar |
-|   |   | spuitvliegervaring |
-| Sleepvliegen | 3 sleepvluchten per jaar | 3 sleepvluchten per jaar |
-| Vliegonderricht | 5 uur per jaar ervaring | 5 uur per jaar ervaring |
-|   | als instructeur | als instructeur |
-| Radiotelefonie | 10 uur per jaar ervaring | 10 uur per jaar ervaring |
-|   | als boordtelefonist | als boordtelefonist |
-
-| Bevoegdverklaring | Bevoegdverklaring |
-| --- | --- |
-| "lieren" | 20 starts per jaar of 3 zweefvlieguren per jaar, doch niet minder dan 3 lierstarts per jaar. Houders van geldige vliegbewijzen en houders van een geldige bevoegdverklaring "motorzweefvliegen" kunnen volstaan met 10 starts per jaar of 1½ uur per jaar, doch niet minder dat 3 lierstarts per jaar |
-| "slepen" | 20 starts per jaar of 3 zweefvlieguren per jaar, doch niet minder dan 3 sleepstarts per jaar. Houders van geldige vliegbewijzen en houders van een geldige bevoegdverklaring "motorzweefvliegen" kunnen volstaan met 10 starts per jaar of 1½ uur per jaar, doch niet minder dan 3 sleepstarts per jaar |
-| "lieren en slepen" | 20 starts of 3 uur per jaar, doch niet minder dan 2 lierstarts en 2 sleepstarts per jaar. Houders van geldige vliegbewijzen en houders van een geldige bevoegdverklaring "motorzweefvliegen" kunnen volstaan met 10 starts of 1½ uur, doch niet minder dan 2 lierstarts en twee sleepstarts per jaar. |
-| "motorzweefvliegen" | 10 vlieguren per jaar op motorzweefvliegtuigen. Houders van een geldige bevoegdverklaring "lieren" of een geldige bevoegdverklaring "slepen" kunnen volstaan met 3 vlieguren per jaar op motorzweefvliegtuigen |
-| "wolkenvliegen" | Proeve van bekwaamheid, af te leggen op een zweefvliegtuig of motorzweefvliegtuig |
-| "vliegonderricht" | 3 dagen per jaar dienst als zweefvlieginstructeur |
-
-**Tabel 3. Bewijs van bevoegdheid als ballonvoerder**
-
-2 vluchten per jaar, ieder van tenminste 1 uur, als gezagvoerder
-
-**Tabel 4. Bewijs van bevoegdheid als boordwerktuigkundige**
-
-10 uur ervaring per jaar in de funktie van boordwerktuigkundige waarin begrepen 5 uur per jaar per type. Per type een proeve van bekwaamheid op een daartoe goedgekeurde vluchtnabootser
-
-**Tabel 5. Bewijs van bevoegdheid als grondwerktuigkundige**
-
-In de vierentwintig maanden, onmiddellijk voorafgaande aan de datum van de aanvraag, ten aanzien van elke categorie en elk type vliegtuig, elke categorie en elk type voortstuwingsinrichting, alsmede elke categorie van installaties van het vliegtuig, waarop de aanvraag betrekking heeft, gedurende ten minste zes maanden een funktie hebbende uitgeoefend bij een vliegtuigonderhoudsbedrijf of als zelfstandig grondwerktuigkundige, waarvoor de op deze categorieën of typen betrekking hebbende bevoegdheden zijn vereist
-
-**Tabel 6. Bewijs van bevoegdheid als zweefvliegtechnicus**
-
-In de vierentwintig maanden, onmiddellijk voorafgaande aan de datum van de aanvraag, gedurende ten minste zes maanden een funktie hebbende uitgeoefend als zelfstandig zweefvliegtechnicus

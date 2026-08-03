@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 2 juli 1997 tot nadere regeling van de heffing van gelden ter bevordering van scholing en vorming van ondernemingsraadsleden bij de overheid (Besluit heffing scholing en vorming ondernemingsraadsleden bij de overheid)"
+citeertitel: "Besluit heffing scholing en vorming ondernemingsraadsleden bij de overheid"
 identifier: "BWBR0008790"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008790"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "596493"
-version_id: "867872"
-internal_id: "C867871"
-label_id: "578894"
-dtd_version: "2.0"
-original_entry_into_force: "1997-07-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008790/2020-01-01/0"
-intitule_bron: "Stb.1997-319"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-07-02"
-intitule_published: "1997-07-22"
-intitule_in_force: "1997-07-22"
-intitule_status: "goed"
-original_publication: "Stb.1997-319"
-original_signed_date: "1997-07-02"
-original_published_date: "1997-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-319"
-entry_into_force_date: "1997-07-23"
-jci_1_3: "jci1.3:c:BWBR0008790&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0008790&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit heffing scholing en vorming ondernemingsraadsleden bij de overheid"
-signed_date: "1997-07-02"
-entry_into_force: "1997-07-23"
+publicatiedatum: 1997-07-23
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0008790"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 2 juli 1997 tot nadere regeling van de heffing van gelden ter bevordering van scholing en vorming van ondernemingsraadsleden bij de overheid (Besluit heffing scholing en vorming ondernemingsraadsleden bij de overheid)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 2 april 1997, nr. AB97/U415, directoraat-generaal Management en Personeelsbeleid, directie Arbeidszaken Overheid, afdeling Arbeidsverhoudingen en Juridische Zaken;
-
-Gelet op [artikel 46**d**, onderdeel **g**, van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=46d);
-
-De Raad van State gehoord (advies van 15 mei 1997, nr. W04.97.0196);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 26 juni 1997, nr. AB97/652, directoraat-generaal Management en Personeelsbeleid, directie Arbeidszaken Overheid, afdeling Arbeidsverhoudingen en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
-
-Werkt terug tot en met 1 mei 1997.
 
 #### § 1. Begripsbepalingen
 
@@ -58,9 +24,9 @@ In dit besluit wordt verstaan onder:
 
 - b. ondernemer: een rechtspersoon die:
 
-- –. een onderneming in stand houdt waarin uitsluitend of nagenoeg uitsluitend krachtens publiekrechtelijke aanstelling arbeid wordt verricht, of;
+   - – een onderneming in stand houdt waarin uitsluitend of nagenoeg uitsluitend krachtens publiekrechtelijke aanstelling arbeid wordt verricht, of;
 
-- –. overheidswerkgever is;
+   - – overheidswerkgever is;
 
 - c. overheidswerkgever: de overheidswerkgever, bedoeld in [artikel 1, onderdeel k, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=1);
 
@@ -133,5 +99,3 @@ Dit besluit treedt in werking met ingang van 1 mei 1997. Indien het Staatsblad w
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit heffing scholing en vorming ondernemingsraadsleden bij de overheid.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

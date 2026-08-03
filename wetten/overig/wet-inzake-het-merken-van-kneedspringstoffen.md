@@ -1,48 +1,18 @@
 ---
 title: "Wet van 26 februari 1998 tot uitvoering van het op 1 maart 1991 te Montreal tot stand gekomen Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan (Wet inzake het merken van kneedspringstoffen)"
+citeertitel: "Wet inzake het merken van kneedspringstoffen"
 identifier: "BWBR0009407"
-country: "nl"
-rank: "wet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009407"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "772483"
-version_id: "17607662"
-internal_id: "C24365031"
-label_id: "748504"
-dtd_version: "2.0"
-original_entry_into_force: "2010-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009407/2010-10-10/0"
-intitule_bron: "Stb.1998-129"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-02-26"
-intitule_published: "1998-03-10"
-intitule_in_force: "1999-04-27"
-intitule_status: "goed"
-original_publication: "Stb.2010-350"
-original_signed_date: "2010-05-17"
-original_published_date: "2010-09-01"
-original_effect: "structuurwijziging"
-original_dossier: "31959"
-original_url_id: "stb-2010-350"
-entry_into_force_date: "2010-05-17"
-entry_into_force_dossier: "31959"
-jci_1_3: "jci1.3:c:BWBR0009407&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0009407&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Wet inzake het merken van kneedspringstoffen"
-signed_date: "2010-05-17"
-entry_into_force: "2010-05-17"
+publicatiedatum: 2010-05-17
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0009407"
+opgehaald: 2026-08-03
 ---
+
 # Wet van 26 februari 1998 tot uitvoering van het op 1 maart 1991 te Montreal tot stand gekomen Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan (Wet inzake het merken van kneedspringstoffen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regels te stellen ter uitvoering van het op 1 maart 1991 te Montreal tot stand gekomen Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan (Trb. 1991, 127, en 1992, 80);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -100,16 +70,6 @@ Met betrekking tot het toezicht op de naleving van deze wet is [Hoofdstuk IV van
 
 2. De in het eerste lid strafbaar gestelde feiten zijn misdrijven.
 
-##### Artikel 9
-
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 10
-
-Deze wet wordt aangehaald als: Wet inzake het merken van kneedspringstoffen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 8a
 
 Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat:
@@ -118,22 +78,28 @@ Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius 
 
 - b. in afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009407&artikel=7&z=2010-10-10&g=2010-10-10):
 
-- 1°. met controle op de naleving van deze wet zijn belast:
+   - 1°. met controle op de naleving van deze wet zijn belast:
 
-- –. de bij of krachtens artikel 184 van het Wetboek van Strafvordering BES aangewezen ambtenaren;
+      - – de bij of krachtens artikel 184 van het Wetboek van Strafvordering BES aangewezen ambtenaren;
 
-- –. de door Onze Minister van Justitie, in overeenstemming met Onze andere Ministers, wie het aangaat, aangewezen ambtenaren;
+      - – de door Onze Minister van Justitie, in overeenstemming met Onze andere Ministers, wie het aangaat, aangewezen ambtenaren;
 
-- –. de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, en
+      - – de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, en
 
-- 2°. de onder a bedoelde ambtenaren – voor zover dat redelijkerwijs voor de vervulling van voornoemde controlerende taak nodig is – bevoegd zijn:
+   - 2°. de onder a bedoelde ambtenaren – voor zover dat redelijkerwijs voor de vervulling van voornoemde controlerende taak nodig is – bevoegd zijn:
 
-- –. inzage te vorderen van gegevens en bescheiden alsmede daarvan kopieën te maken;
+      - – inzage te vorderen van gegevens en bescheiden alsmede daarvan kopieën te maken;
 
-- –. elke plaats te betreden;
+      - – elke plaats te betreden;
 
-- –. zaken te onderzoeken, aan opneming te onderwerpen en daarvan monsters te nemen en daartoe verpakkingen te openen;
+      - – zaken te onderzoeken, aan opneming te onderwerpen en daarvan monsters te nemen en daartoe verpakkingen te openen;
 
-- –. vervoermiddelen en daarmee vervoerde lading te onderzoeken.
+      - – vervoermiddelen en daarmee vervoerde lading te onderzoeken.
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 9
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 10
+
+Deze wet wordt aangehaald als: Wet inzake het merken van kneedspringstoffen.

@@ -1,47 +1,19 @@
 ---
 title: "Besluit van het Stimuleringsfonds voor de Journalistiek van 17 juli 2024, nr. OT2426, tot vaststelling van een subsidieregeling Onderzoek naar de journalistieke praktijk: thematische oproep 2024–2026"
+citeertitel: "Thematische onderzoeksregeling 2024–2026"
 identifier: "BWBR0050322"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-10-25"
-last_updated: "2024-10-25"
-status: vervallen
-source: "https://wetten.overheid.nl/BWBR0050322"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17247023"
-version_id: "30377012"
-internal_id: "C43563861"
-label_id: "17152854"
-dtd_version: "2.0"
-original_entry_into_force: "2024-10-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050322/2024-10-25/0"
-intitule_bron: "Stcrt.2024-34393"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-07-17"
-intitule_published: "2024-10-24"
-intitule_in_force: "2024-10-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-34393"
-original_signed_date: "2024-07-17"
-original_published_date: "2024-10-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-34393"
-entry_into_force_date: "2024-10-25"
-jci_1_3: "jci1.3:c:BWBR0050322&z=2024-10-25&g=2024-10-25"
-jci_1_0: "1.0:c:BWBR0050322&g=2024-10-25"
-citeertitel_status: "officieel"
-short_title: "Thematische onderzoeksregeling 2024–2026"
-signed_date: "2024-07-17"
-entry_into_force: "2024-10-25"
-gecontroleerd: 2026-08-01
+publicatiedatum: 2024-10-25
+laatste_update: 2024-10-25
+status: vervallen
+vervallen_op: 2026-07-31
+toestand: 2024-10-25
+bron: "https://wetten.overheid.nl/BWBR0050322"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 17 juli 2024, nr. OT2426, tot vaststelling van een subsidieregeling Onderzoek naar de journalistieke praktijk: thematische oproep 2024–2026
-
-Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap
-
-Gelet op de [artikelen 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.3) en [8.15a van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.15a);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,33 +21,33 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a). **Journalistieke informatiebron:** een organisatie binnen de journalistieke bedrijfstak met als (hoofd)activiteit het maken en leveren van een dienst of product waarbij:
+- a) *Journalistieke informatiebron:* een organisatie binnen de journalistieke bedrijfstak met als (hoofd)activiteit het maken en leveren van een dienst of product waarbij:
 
-- i. het product of de dienst gericht is op het Nederlandse publiek; en
+   - i. het product of de dienst gericht is op het Nederlandse publiek; en
 
-- ii. minimaal 25% van het product of de dienst tot stand is gekomen op basis van journalistiek handelen; en
+   - ii. minimaal 25% van het product of de dienst tot stand is gekomen op basis van journalistiek handelen; en
 
-- iii. de publicatiefrequentie minimaal een keer per twee weken is en daarmee sprake is van een informatiebron waartoe burgers zich met een vaste regelmaat kunnen wenden; en
+   - iii. de publicatiefrequentie minimaal een keer per twee weken is en daarmee sprake is van een informatiebron waartoe burgers zich met een vaste regelmaat kunnen wenden; en
 
-- iv. die staat ingeschreven in het Handelsregister bij de Kamer van Koophandel.
+   - iv. die staat ingeschreven in het Handelsregister bij de Kamer van Koophandel.
 
-- b). **Journalistieke bedrijfstak:** het geheel van private en publieke journalistieke informatiebronnen gevestigd in Nederland, waarvan de activiteiten zijn gericht op de Nederlandse markt.
+- b) *Journalistieke bedrijfstak:* het geheel van private en publieke journalistieke informatiebronnen gevestigd in Nederland, waarvan de activiteiten zijn gericht op de Nederlandse markt.
 
-- c). **Journalistiek handelen:** het vergaren, verwerken en verspreiden van informatie en nieuws, waarbij:
+- c) *Journalistiek handelen:* het vergaren, verwerken en verspreiden van informatie en nieuws, waarbij:
 
-- i. het gaat om onafhankelijk tot stand gekomen berichtgeving die bestemd is voor alle geledingen binnen de samenleving en die bestaat uit originele, eigen content die niet machine-gegenereerd is;
+   - i. het gaat om onafhankelijk tot stand gekomen berichtgeving die bestemd is voor alle geledingen binnen de samenleving en die bestaat uit originele, eigen content die niet machine-gegenereerd is;
 
-- ii. gestreefd wordt naar zo accuraat en evenwichtig mogelijke berichtgeving; en
+   - ii. gestreefd wordt naar zo accuraat en evenwichtig mogelijke berichtgeving; en
 
-- iii. verantwoording wordt afgelegd en transparant wordt gehandeld en waarbij de afzender van de content duidelijk wordt gemaakt.
+   - iii. verantwoording wordt afgelegd en transparant wordt gehandeld en waarbij de afzender van de content duidelijk wordt gemaakt.
 
-- d). **Onderzoek:** een praktijkgericht onderzoek dat betrekking heeft op de journalistieke bedrijfstak.
+- d) *Onderzoek:* een praktijkgericht onderzoek dat betrekking heeft op de journalistieke bedrijfstak.
 
-- e). **Onderzoeksinstellingen:** onderwijsinstellingen (zowel publiek als privaat), (commerciële) onderzoeksbureaus, organisatieadviesbureaus, collectieven van zelfstandige onderzoekers of NGO’s met een ANBI-status.
+- e) *Onderzoeksinstellingen:* onderwijsinstellingen (zowel publiek als privaat), (commerciële) onderzoeksbureaus, organisatieadviesbureaus, collectieven van zelfstandige onderzoekers of NGO’s met een ANBI-status.
 
-- f). **Stimuleringsfonds:** het Stimuleringsfonds voor de Journalistiek, bedoeld in [artikel 8.2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.2).
+- f) *Stimuleringsfonds:* het Stimuleringsfonds voor de Journalistiek, bedoeld in [artikel 8.2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.2).
 
-- g). **Thematische oproep:** een oproep waarbinnen subsidie kan worden aangevraagd om een onderzoek uit te voeren aan de hand van een door het Stimuleringsfonds uitgekozen thema en probleemstelling.
+- g) *Thematische oproep:* een oproep waarbinnen subsidie kan worden aangevraagd om een onderzoek uit te voeren aan de hand van een door het Stimuleringsfonds uitgekozen thema en probleemstelling.
 
 ##### Artikel 1.2. Doel van de subsidie
 
@@ -89,15 +61,15 @@ Deze regeling is van toepassing op het aanvragen, beoordelen en verstrekken van 
 
 1. Subsidie kan worden verstrekt voor de uitvoering van een onderzoek dat:
 
-- a). wordt uitgevoerd door een onderzoeksteam, bestaande uit tenminste twee personen met een aantoonbare onderzoeksachtergrond; en
+- a) wordt uitgevoerd door een onderzoeksteam, bestaande uit tenminste twee personen met een aantoonbare onderzoeksachtergrond; en
 
-- b). minimaal zes maanden en maximaal twaalf maanden duurt.
+- b) minimaal zes maanden en maximaal twaalf maanden duurt.
 
 2. Een onderzoek waarvoor subsidie wordt verstrekt, mag niet zijn aangevangen voordat op de subsidieaanvraag is beslist en moet binnen 3 maanden worden aangevangen na bekendmaking van het besluit tot subsidieverlening.
 
 ##### Artikel 1.5. Subsidieplafond en deelplafonds
 
-1. Voor subsidieverstrekking op grond van deze regeling is in totaal € 300.000 beschikbaar.
+1. Voor subsidieverstrekking op grond van deze regeling is in totaal € 300.000 beschikbaar.
 
 2. Als op grond van de beoordeling de in aanmerking komende aanvragen leiden tot overschrijding van het subsidieplafond, weigert het Stimuleringsfonds een subsidie voor zover door de verstrekking van de subsidie het subsidieplafond zou worden overschreden.
 
@@ -115,27 +87,27 @@ Deze regeling is van toepassing op het aanvragen, beoordelen en verstrekken van 
 
 4. Op grond van deze regeling kan uitsluitend subsidie worden verstrekt voor de volgende kosten, inclusief btw:
 
-- a). Gewerkte uren van de bij het onderzoek betrokken personen, voor de onderstaande werkzaamheden:
+- a) Gewerkte uren van de bij het onderzoek betrokken personen, voor de onderstaande werkzaamheden:
 
-- i). het verrichten van activiteiten ten behoeve van de uitvoering van het onderzoek;
+   - i) het verrichten van activiteiten ten behoeve van de uitvoering van het onderzoek;
 
-- ii). projectcoördinatie en -administratie van het onderzoek.
+   - ii) projectcoördinatie en -administratie van het onderzoek.
 
-- b). Overige onderzoekskosten, voor zover noodzakelijk voor het onderzoek, tot maximaal 10% van het aangevraagde subsidiebedrag:
+- b) Overige onderzoekskosten, voor zover noodzakelijk voor het onderzoek, tot maximaal 10% van het aangevraagde subsidiebedrag:
 
-- i). reiskosten;
+   - i) reiskosten;
 
-- ii). inhuur- of inkoopkosten voor hulpmiddelen of ondersteunende dienstverlening, voor zover noodzakelijk voor het verrichten van kwantitatief of kwalitatief onderzoek.
+   - ii) inhuur- of inkoopkosten voor hulpmiddelen of ondersteunende dienstverlening, voor zover noodzakelijk voor het verrichten van kwantitatief of kwalitatief onderzoek.
 
 5. Voor kosten als bedoeld in het vierde lid, onder a, worden de volgende bandbreedtes gehanteerd:
 
-- a). Junior onderzoeker (1 tot 3 jaar ervaring): maximaal 87 euro per uur (incl. btw);
+- a) Junior onderzoeker (1 tot 3 jaar ervaring): maximaal 87 euro per uur (incl. btw);
 
-- b). Medior onderzoeker (3 tot 5 jaar ervaring): maximaal 105 euro per uur (incl. btw);
+- b) Medior onderzoeker (3 tot 5 jaar ervaring): maximaal 105 euro per uur (incl. btw);
 
-- c). Senior onderzoeker (vanaf 5 jaar ervaring): maximaal 131 euro per uur (incl. btw);
+- c) Senior onderzoeker (vanaf 5 jaar ervaring): maximaal 131 euro per uur (incl. btw);
 
-- d). Overig personeel (projectcoördinatie en -administratie): maximaal 105 euro per uur (incl. btw).
+- d) Overig personeel (projectcoördinatie en -administratie): maximaal 105 euro per uur (incl. btw).
 
 6. Verschuldigde btw komt uitsluitend voor subsidie in aanmerking ingeval de aanvrager de btw niet kan verrekenen met de door de aanvrager af te dragen omzetbelasting.
 
@@ -169,23 +141,23 @@ Subsidie kan uitsluitend worden aangevraagd door een onderzoeksinstelling, als b
 
 1. Een aanvraag wordt uitsluitend ingediend door het invullen en ondertekenen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds, volgens de daarbij vermelde instructies, en omvat in ieder geval:
 
-- a). Een onderzoeksopzet, bestaande uit de volgende onderdelen:
+- a) Een onderzoeksopzet, bestaande uit de volgende onderdelen:
 
-- i. de onderzoeksvraag of onderzoeksvragen; en
+   - i. de onderzoeksvraag of onderzoeksvragen; en
 
-- ii. een beschrijving van de onderzoeksmethode; en
+   - ii. een beschrijving van de onderzoeksmethode; en
 
-- iii. een omschrijving van de op te leveren resultaten.
+   - iii. een omschrijving van de op te leveren resultaten.
 
-- b). een plan van aanpak voor de uitvoering van het onderzoek;
+- b) een plan van aanpak voor de uitvoering van het onderzoek;
 
-- c). KvK-nummer van de aanvrager;
+- c) KvK-nummer van de aanvrager;
 
-- d). cv’s van de bij het onderzoek betrokken personen;
+- d) cv’s van de bij het onderzoek betrokken personen;
 
-- e). een gespecificeerde en realistische begroting van de met de voorgenomen activiteiten verband houdende kosten;
+- e) een gespecificeerde en realistische begroting van de met de voorgenomen activiteiten verband houdende kosten;
 
-- f). het rapport of verslag van een door de onderzoeksinstelling eerder uitgevoerd onderzoek, dat ten hoogste 3 jaar oud is en aantoont dat deze bekend is met de in de onderzoeksopzet omschreven problematiek binnen de journalistieke bedrijfstak en/of dat deze over ervaring beschikt met het toepassen van de voorgestelde onderzoeksmethoden.
+- f) het rapport of verslag van een door de onderzoeksinstelling eerder uitgevoerd onderzoek, dat ten hoogste 3 jaar oud is en aantoont dat deze bekend is met de in de onderzoeksopzet omschreven problematiek binnen de journalistieke bedrijfstak en/of dat deze over ervaring beschikt met het toepassen van de voorgestelde onderzoeksmethoden.
 
 2. De begroting, bedoeld in het eerste lid, onderdeel e, wordt opgesteld conform de modelbegroting zoals die is vastgesteld door het Stimuleringsfonds.
 
@@ -207,7 +179,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 1. Een aanvraag tot subsidieverlening wordt door het Stimuleringsfonds eerst beoordeeld aan de hand van het volgende drempelcriterium:
 
-- a). alle voorgestelde onderdelen van het onderzoek zijn uitvoerbaar binnen de maximale termijn, bedoeld in [artikel 1.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=1&artikel=1.4&z=2024-10-25&g=2024-10-25).
+- a) alle voorgestelde onderdelen van het onderzoek zijn uitvoerbaar binnen de maximale termijn, bedoeld in [artikel 1.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=1&artikel=1.4&z=2024-10-25&g=2024-10-25).
 
 2. Als een aanvraag niet aan de drempelcriteria voldoet, wijst het Stimuleringsfonds de aanvraag af.
 
@@ -233,7 +205,7 @@ Alleen indien het drempelcriterium positief wordt beoordeeld, wordt een aanvraag
 
 4. De aanvraag met de hoogste score in de rangschikking komt als enige in aanmerking voor subsidie.
 
-5. Aanvragen die na de beoordeling op ieder afzonderlijk criterium minimaal 3 punten (voldoende) hebben behaald, komen voor rangschikking in aanmerking. Aanvragen die op één of meer criteria 1 of 2 punten behalen, komen niet voor rangschikking in aanmerking en worden afgewezen.
+5. Aanvragen die na de beoordeling op ieder afzonderlijk criterium minimaal 3 punten (voldoende) hebben behaald, komen voor rangschikking in aanmerking. Aanvragen die op één of meer criteria 1 of 2 punten behalen, komen niet voor rangschikking in aanmerking en worden afgewezen.
 
 6. Indien meerdere aanvragen dezelfde score hebben gehaald, dan worden deze gelijk geëindigde aanvragen als volgt gerangschikt:
 
@@ -251,15 +223,15 @@ Het Stimuleringsfonds beslist binnen uiterlijk 12 weken na ontvangst op de aanvr
 
 ##### Artikel 3.6. Subsidiebedrag
 
-Het minimaal te verstrekken subsidiebedrag per aanvraag is 25.000 euro, het maximaal te verstrekken bedrag euro is 75.000 euro.
+Het minimaal te verstrekken subsidiebedrag per aanvraag is 25.000 euro, het maximaal te verstrekken bedrag euro is 75.000 euro.
 
 ##### Artikel 3.7. Betaling
 
 1. Bij een subsidieverlening wordt het verleende subsidiebedrag in twee termijnen betaald, waarbij:
 
-- a). een eerste termijn van 50% van het verleende subsidiebedrag bij wijze van voorschot direct na de subsidieverlening wordt betaald;
+- a) een eerste termijn van 50% van het verleende subsidiebedrag bij wijze van voorschot direct na de subsidieverlening wordt betaald;
 
-- b). het restant na vaststelling van de subsidie wordt betaald.
+- b) het restant na vaststelling van de subsidie wordt betaald.
 
 ### Hoofdstuk 4. Verplichtingen
 
@@ -309,14 +281,12 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 
 ##### Artikel 6.2. Inwerkingtreding
 
-1. Deze regeling treedt in werking op 17 juli 2024.
+1. Deze regeling treedt in werking op 17 juli 2024.
 
-2. Als de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na17 juli 2024, treedt deze regeling in afwijking van het eerste lid in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 17 juli 2024.
+2. Als de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na17 juli 2024, treedt deze regeling in afwijking van het eerste lid in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 17 juli 2024.
 
-3. Deze regeling vervalt met ingang van 1 augustus 2026. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
+3. Deze regeling vervalt met ingang van 1 augustus 2026. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
 ##### Artikel 6.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Thematische onderzoeksregeling 2024–2026.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

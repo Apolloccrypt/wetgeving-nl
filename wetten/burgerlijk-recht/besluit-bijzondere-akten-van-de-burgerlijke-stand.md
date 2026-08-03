@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 11 september 1997, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 19j, tweede lid, van Boek 1 van het Burgerlijk Wetboek (Besluit bijzondere akten van de burgerlijke stand)"
+citeertitel: "Besluit bijzondere akten van de burgerlijke stand"
 identifier: "BWBR0008900"
-country: "nl"
-rank: "amvb"
-publication_date: "2014-04-01"
-last_updated: "2014-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008900"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "615883"
-version_id: "895542"
-internal_id: "C895541"
-label_id: "597754"
-dtd_version: "2.0"
-original_entry_into_force: "1997-09-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008900/2014-04-01/0"
-intitule_bron: "Stb.1997-400"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-09-11"
-intitule_published: "1997-09-25"
-intitule_in_force: "1997-09-25"
-intitule_status: "goed"
-original_publication: "Stb.1997-400"
-original_signed_date: "1997-09-11"
-original_published_date: "1997-09-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1997-400"
-entry_into_force_date: "1997-09-26"
-jci_1_3: "jci1.3:c:BWBR0008900&z=2014-04-01&g=2014-04-01"
-jci_1_0: "1.0:c:BWBR0008900&g=2014-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit bijzondere akten van de burgerlijke stand"
-signed_date: "1997-09-11"
-entry_into_force: "1997-09-26"
+publicatiedatum: 1997-09-26
+laatste_update: 2014-04-01
+status: geldig
+toestand: 2014-04-01
+bron: "https://wetten.overheid.nl/BWBR0008900"
+opgehaald: 2026-08-03
 ---
+
 # Besluit van 11 september 1997, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 19j, tweede lid, van Boek 1 van het Burgerlijk Wetboek (Besluit bijzondere akten van de burgerlijke stand)
-
-Op voordracht van de Staatssecretaris van Justitie van 29 januari 1997, Directie Wetgeving, nr. 603203/97/6;
-
-Gelet op artikel 19**j**, tweede lid, van Boek 1 van het Burgerlijk Wetboek;
-
-De Raad van State gehoord (advies van 24 maart 1997, nr. WO3.97.0046);
-
-Gezien het nader rapport van de Staatssecretaris van Justitie van 5 september 1996, Directie Wetgeving, nr. 621491/97/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -82,7 +50,7 @@ Bijvoegingen en doorhalingen bij het opmaken van de voorlopige akten worden duid
 
 ##### Artikel 6
 
-1. In de voorlopige akten mag, behoudens het vijfde lid van dit artikel en artikel 7, sub **a**, niets bij verkorting worden uitgedrukt.
+1. In de voorlopige akten mag, behoudens het vijfde lid van dit artikel en artikel 7, sub *a*, niets bij verkorting worden uitgedrukt.
 
 2. In de voorlopige akten worden data in cijfers aangegeven door achtereenvolgens de dag, de maand en het jaar te vermelden. De eerste negen dagen van de maand en de eerste negen maanden van het jaar worden aangegeven door de cijfers 01 tot en met 09.
 
@@ -98,11 +66,11 @@ Bijvoegingen en doorhalingen bij het opmaken van de voorlopige akten worden duid
 
 In de voorlopige akten worden opgenomen:
 
-- a). de naam en de voorletters, alsmede de hoedanigheid van degene die de akte heeft opgemaakt;
+- a) de naam en de voorletters, alsmede de hoedanigheid van degene die de akte heeft opgemaakt;
 
-- b). de plaats en de dag waarop de akte is opgemaakt;
+- b) de plaats en de dag waarop de akte is opgemaakt;
 
-- c). de handtekeningen van degene die de akte heeft opgemaakt en van de aangever, behalve in het geval, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=3&z=2014-04-01&g=2014-04-01).
+- c) de handtekeningen van degene die de akte heeft opgemaakt en van de aangever, behalve in het geval, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=3&z=2014-04-01&g=2014-04-01).
 
 ##### Artikel 8
 
@@ -210,10 +178,8 @@ Het Besluit bijzondere akten van de Burgerlijke Stand, wordt ingetrokken.
 
 ##### Artikel 15
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
 
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit bijzondere akten van de burgerlijke stand.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

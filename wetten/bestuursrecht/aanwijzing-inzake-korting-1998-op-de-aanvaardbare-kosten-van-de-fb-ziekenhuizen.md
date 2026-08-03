@@ -1,47 +1,18 @@
 ---
 title: "Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake korting 1998 op de aanvaardbare kosten van de FB-ziekenhuizen"
+citeertitel: "Aanwijzing inzake korting 1998 op de aanvaardbare kosten van de FB-ziekenhuizen"
 identifier: "BWBR0009058"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-12-05"
-last_updated: "1997-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009058"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "4769563"
-version_id: "6575822"
-internal_id: "C7033061"
-label_id: "4747634"
-dtd_version: "2.0"
-original_entry_into_force: "1997-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009058/1997-12-05/0"
-intitule_bron: "Stcrt.1997-233"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-11-28"
-intitule_published: "1997-12-03"
-intitule_in_force: "1997-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-233"
-original_signed_date: "1997-11-28"
-original_published_date: "1997-12-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-12-05"
-jci_1_3: "jci1.3:c:BWBR0009058&z=1997-12-05&g=1997-12-05"
-jci_1_0: "1.0:c:BWBR0009058&g=1997-12-05"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing inzake korting 1998 op de aanvaardbare kosten van de FB-ziekenhuizen"
-signed_date: "1997-11-28"
-entry_into_force: "1997-12-05"
+publicatiedatum: 1997-12-05
+laatste_update: 1997-12-05
+status: geldig
+toestand: 1997-12-05
+bron: "https://wetten.overheid.nl/BWBR0009058"
+opgehaald: 2026-08-03
 ---
+
 # Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake korting 1998 op de aanvaardbare kosten van de FB-ziekenhuizen
-
-Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=14);
-
-Gehoord het Centraal orgaan tarieven gezondheidszorg, (brief van 23 oktober 1997, kenmerk HO/tbk/A/97/124, vastgesteld in de vergadering van 20 oktober 1997);
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief 6 november 1997, kenmerk VPZ/P-974000)
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -54,5 +25,3 @@ In de bedoelde richtlijnen ter uitvoering van de onderhavige aanwijzing wordt be
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.

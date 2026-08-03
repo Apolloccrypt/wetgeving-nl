@@ -1,46 +1,23 @@
 ---
 title: "MDW-operatie Wet Geluidhinder"
 identifier: "BWBR0008362"
-country: "nl"
-rank: "circulaire"
-publication_date: "1996-12-18"
-last_updated: "1996-12-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008362"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6346013"
-version_id: "11002032"
-internal_id: "C14894871"
-label_id: "6334974"
-original_entry_into_force: "1996-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008362/1996-12-18/0"
-intitule_bron: "Stcrt.1996-245"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-11-29"
-intitule_published: "1996-12-18"
-intitule_in_force: "1996-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-245"
-original_signed_date: "1996-11-29"
-original_published_date: "1996-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1996-245-p19-SC7762"
-entry_into_force_date: "1996-12-18"
-jci_1_3: "jci1.3:c:BWBR0008362&z=1996-12-18&g=1996-12-18"
-jci_1_0: "1.0:c:BWBR0008362&g=1996-12-18"
-citeertitel_status: "redactioneel"
-signed_date: "1996-11-29"
-entry_into_force: "1996-12-18"
+publicatiedatum: 1996-12-18
+laatste_update: 1996-12-18
+status: geldig
+toestand: 1996-12-18
+bron: "https://wetten.overheid.nl/BWBR0008362"
+opgehaald: 2026-08-03
 ---
-# MDW-operatie Wet Geluidhinder
 
-Circulaire aan besturen van provincies en gemeenten
+# MDW-operatie Wet Geluidhinder
 
 Geacht College,
 
 ### 1. Inleiding
 
-Bij brief van 14 augustus 1996 (Kamerstukken II 1995/96, 24036, nr. 26) heb ik de Tweede Kamer geïnformeerd over de voorgenomen herziening van het geluidhinderinstrumentarium in het kader van het project ’Marktwerking, deregulering en wetgevingskwaliteit’ (MDW). Genoemde brief en het advies van de MDW-werkgroep Wet geluidhinder treft u bijgaand aan.
+Bij brief van 14 augustus 1996 (Kamerstukken II 1995/96, 24036, nr. 26) heb ik de Tweede Kamer geïnformeerd over de voorgenomen herziening van het geluidhinderinstrumentarium in het kader van het project ’Marktwerking, deregulering en wetgevingskwaliteit’ (MDW). [Genoemde brief en het advies van de MDW-werkgroep Wet geluidhinder](https://wetten.overheid.nl/BWBR0008362) treft u bijgaand aan.
 
 Op 22 oktober 1996 is het MDW-advies besproken in de Vaste commissie van de Tweede Kamer voor Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. De commissie ziet het belang in van een herziening van het geluidinstrumentarium en stemt in met de planning van het vervolgtraject. De inhoudelijke opmerkingen van de commissie zullen worden meegenomen bij de uitwerking van het MDW-advies in het kader van het Project Modernisering Instrumentarium Geluidbeleid (MIG).
 
@@ -81,7 +58,3 @@ Zoals uit het voorafgaande blijkt is met de uitwerking van het MDW-advies een tr
 Een afschrift van deze brief heb ik gezonden aan de Vereniging van Nederlandse Gemeenten en het Interprovinciaal Overleg.
 
 Indien u over deze brief nadere formatie wenst, kunt u zich wenden tot het projectbureau Modernisering Instrumentarium Geluidbeleid, bereikbaar onder telefoonnummer 070-339 4365.
-
-## Bijlage
-
-Niet opgenomen.

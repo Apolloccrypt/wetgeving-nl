@@ -1,43 +1,18 @@
 ---
 title: "Indonesische voorschriften tot uitvoering van de op 5 maart 1973 tussen Nederland en Indonesië gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzigd bij het Protocol tot wijziging van 22 juli 1991, welk Protocol is gewijzigd bij het protocol van 23 augustus 1993"
+citeertitel: "Indonesische uitvoeringsvoorschriften belastingovereenkomst Nederland-Indonesië"
 identifier: "BWBR0008578"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-03-20"
-last_updated: "1997-03-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008578"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "5099143"
-version_id: "9160922"
-internal_id: "C12188221"
-label_id: "5074624"
-dtd_version: "2.0"
-original_entry_into_force: "1997-03-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008578/1997-03-20/0"
-intitule_bron: "Stcrt.1997-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-03-03"
-intitule_published: "1997-03-18"
-intitule_in_force: "1997-03-18"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-54"
-original_signed_date: "1997-03-03"
-original_published_date: "1997-03-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1997-03-20"
-jci_1_3: "jci1.3:c:BWBR0008578&z=1997-03-20&g=1997-03-20"
-jci_1_0: "1.0:c:BWBR0008578&g=1997-03-20"
-citeertitel_status: "officieel"
-short_title: "Indonesische uitvoeringsvoorschriften belastingovereenkomst Nederland-Indonesië"
-signed_date: "1997-03-03"
-entry_into_force: "1997-03-20"
+publicatiedatum: 1997-03-20
+laatste_update: 1997-03-20
+status: geldig
+toestand: 1997-03-20
+bron: "https://wetten.overheid.nl/BWBR0008578"
+opgehaald: 2026-08-03
 ---
+
 # Indonesische voorschriften tot uitvoering van de op 5 maart 1973 tussen Nederland en Indonesië gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzigd bij het Protocol tot wijziging van 22 juli 1991, welk Protocol is gewijzigd bij het protocol van 23 augustus 1993
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
 #### Regeling inzake vermindering en vrijstelling van Indonesche belasting op dividenden, interest, royalty's en sommige andere soorten van inkomsten, genoten door inwoners van Nederland
 
@@ -51,13 +26,13 @@ Aan de op 5 maart 1973 tussen Nederland en Indonesië gesloten Overeenkomst tot 
 
 - c. algehele vrijstelling van de Indonesische belasting op interest, afkomstig uit Indonesië en voor zover deze interest wordt verkregen door:
 
-- 1. de Regering van Nederland, daaronder begrepen staatkundige onderdelen en plaatselijke publiekrechtelijke lichamen daar-van (artikel 10, derde lid, onderdeel i); of
+   - 1. de Regering van Nederland, daaronder begrepen staatkundige onderdelen en plaatselijke publiekrechtelijke lichamen daar-van (artikel 10, derde lid, onderdeel i); of
 
-- 2. de Nederlandsche Bank N.V. (artikel 10, derde lid, onderdeel ii); of
+   - 2. de Nederlandsche Bank N.V. (artikel 10, derde lid, onderdeel ii); of
 
-- 3. een financiële instelling die eigendom is van of wordt beheerst door de Regering van Nederland, daaronder begrepen staatkundige onderdelen en plaatselijke publiekrechtelijke lichamen daarvan (artikel 10, derde lid, onderdeel iii); of
+   - 3. een financiële instelling die eigendom is van of wordt beheerst door de Regering van Nederland, daaronder begrepen staatkundige onderdelen en plaatselijke publiekrechtelijke lichamen daarvan (artikel 10, derde lid, onderdeel iii); of
 
-- 4. een inwoner van Nederland ter zake van schuldvorderingen, die zijn gegarandeerd of verzekerd door de Regering van Nederland, daaronder begrepen staatkundige onderdelen en plaatselijke publiekrechtelijke lichamen daarvan, de Nederlandsche Bank N.V. of een financiële instelling die eigendom is van of beheerst wordt door de Regering van Nederland (artikel 10, derde lid, onderdeel iv). Een financiële instelling zoals vermeld in onderdeel c, punt 3, van deze bepaling omvat in het bijzonder: de Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden NV en de Nederlandse Investeringsbank voor Ontwikkelingslanden NV (onderdeel VIII van het Protocol);
+   - 4. een inwoner van Nederland ter zake van schuldvorderingen, die zijn gegarandeerd of verzekerd door de Regering van Nederland, daaronder begrepen staatkundige onderdelen en plaatselijke publiekrechtelijke lichamen daarvan, de Nederlandsche Bank N.V. of een financiële instelling die eigendom is van of beheerst wordt door de Regering van Nederland (artikel 10, derde lid, onderdeel iv). Een financiële instelling zoals vermeld in onderdeel c, punt 3, van deze bepaling omvat in het bijzonder: de Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden NV en de Nederlandse Investeringsbank voor Ontwikkelingslanden NV (onderdeel VIII van het Protocol);
 
 - d. vermindering tot 10 percent van de Indonesische belasting op niet onder onderdeel c vallende interest, afkomstig uit Indonesië en betaald aan een inwoner van Nederland die de uiteindelijke gerechtigde daarvan is (artikel 10, tweede lid);
 
@@ -67,51 +42,51 @@ Aan de op 5 maart 1973 tussen Nederland en Indonesië gesloten Overeenkomst tot 
 
 - g. algehele vrijstelling van de Indonesische belasting ter zake van inkomsten uit zelfstandige arbeid verricht in Indo-nesië, indien:
 
-- 1. de inwoner van Nederland voor het verrichten van zijn werkzaamheden in Indonesië niet geregeld over een vast middelpunt beschikt, of
+   - 1. de inwoner van Nederland voor het verrichten van zijn werkzaamheden in Indonesië niet geregeld over een vast middelpunt beschikt, of
 
-- 2. in Indonesië verblijft gedurende een tijdvak of tijdvakken, die in een tijdvak van twaalf maanden een totaal van 91 dagen niet te boven gaan (artikel 14);
+   - 2. in Indonesië verblijft gedurende een tijdvak of tijdvakken, die in een tijdvak van twaalf maanden een totaal van 91 dagen niet te boven gaan (artikel 14);
 
 - h. algehele vrijstelling van de Indonesische belasting ter zake van inkomsten uit een dienstbetrekking uitgeoefend in Indonesië, indien:
 
-- 1. de genieter in Indonesië verblijft gedurende een tijdvak of tijdvakken die in een tijdvak van twaalf maanden een totaal van 183 dagen niet te boven gaan, en
+   - 1. de genieter in Indonesië verblijft gedurende een tijdvak of tijdvakken die in een tijdvak van twaalf maanden een totaal van 183 dagen niet te boven gaan, en
 
-- 2. de beloning wordt betaald door of namens een werkgever die geen inwoner van Indonesië is, en
+   - 2. de beloning wordt betaald door of namens een werkgever die geen inwoner van Indonesië is, en
 
-- 3. de beloning niet ten laste komt van een vaste inrichting die, of een vast middelpunt dat de werkgever in Indonesië heeft (artikel 15, tweede lid). De in de onderdelen a, b, d en e vermelde verminderingen zijn te berekenen over het brutobedrag van de dividenden, interest en royalty’s. De in de onderdelen a, b, d en e vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty’s in Indonesië een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest verschuldigd is of het recht of de zaak uit hoofde waarvan de royalty’s verschuldigd zijn, tot het bedrijfsver-mogen van die vaste inrichting behoort (artikel 9, zesde lid, artikel 10, zesde lid, en artikel 11, vijfde lid).
+   - 3. de beloning niet ten laste komt van een vaste inrichting die, of een vast middelpunt dat de werkgever in Indonesië heeft (artikel 15, tweede lid). De in de onderdelen a, b, d en e vermelde verminderingen zijn te berekenen over het brutobedrag van de dividenden, interest en royalty’s. De in de onderdelen a, b, d en e vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty’s in Indonesië een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest verschuldigd is of het recht of de zaak uit hoofde waarvan de royalty’s verschuldigd zijn, tot het bedrijfsver-mogen van die vaste inrichting behoort (artikel 9, zesde lid, artikel 10, zesde lid, en artikel 11, vijfde lid).
 
 ##### Artikel 2. Indonesische regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008578&artikel=1&z=1997-03-20&g=1997-03-20) is van Indonesische zijde de volgende regeling getroffen:
 
-- 1. **Indonesische belasting** Volgens de Indonesische wetgeving zijn dividenden, interest en royalty’s betaald aan niet-inwoners van Indonesië onderworpen aan een bronheffing van 20 percent.
+- 1. *Indonesische belasting* Volgens de Indonesische wetgeving zijn dividenden, interest en royalty’s betaald aan niet-inwoners van Indonesië onderworpen aan een bronheffing van 20 percent.
 
-- 2. **Wijze waarop met betrekking tot interest, dividenden, huren, royalty's en inkomsten verschuldigd voor het gebruik van activa en inkomsten uit diensten verricht in Indonesië de vermindering of vrijstelling wordt verleend.** De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008578&artikel=1&z=1997-03-20&g=1997-03-20) vermelde vrijstellingen en verminderingen worden in Indonesië in beginsel bij de bron verleend. Daartoe dient de in Nederland wonende genieter van de interest, dividenden, huren, royalty's en andere inkomsten voor het gebruik van activa en inkomsten uit verrichten van diensten in Indonesië aan de Indonesische schuldenaar over te leggen een gedateerde en ondertekende woonplaatsverklaring van de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. Voorts dient hij een afschrift van die woonplaatsverklaring toe te zenden aan het Hoofd van het KPP (District Belastingkantoor), bij wie de Indonesische schuldenaar van voormelde inkomsten zijn belastingaangifte doet. Na ontvangst van de woonplaatsverklaring mag de Indonesische inhoudingsplichtige de desbetreffende Indonesische inkomsten zonder inhouding van Indonesische belasting of onder inhouding van Indonesische belasting naar de in de Nederlands-Indonesische belastingovereenkomst neergelegde percentages uitbetalen. Het is niet noodzakelijk bij elke uitbetaling van voornoemde inkomsten een nieuwe woonplaatsverklaring over te leggen. Dit behoeft pas te geschieden nadat de geldigheidsduur daarvan is verstreken (één jaar na de datum van afgifte). Woonplaatsverklaringen die zijn afgegeven aan in Nederland gevestigde banken blijven hun geldigheidsduur behouden gedurende de periode dat die banken in Nederland op hetzelfde adres gevestigd blijven. In afwijking van het vorenstaande behoeven in Nederland gevestigde banken en financiële instellingen die uitdrukkelijk in de Nederlands-Indonesische belastingovereenkomst worden genoemd geen woonplaatsverklaring over te leggen teneinde de algehele vrijstelling van Indonesische belasting op interest als bedoeld in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008578&artikel=1&z=1997-03-20&g=1997-03-20), hiervoor, te verkrijgen. Dit betekent dat de betrokken Indonesische inhoudingsplichtigen die interest aan vorenbedoelde banken en financiële instellingen mogen uitbetalen zonder dat zij Indonesische belasting behoeven in te houden.
+- 2. *Wijze waarop met betrekking tot interest, dividenden, huren, royalty's en inkomsten verschuldigd voor het gebruik van activa en inkomsten uit diensten verricht in Indonesië de vermindering of vrijstelling wordt verleend.* De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008578&artikel=1&z=1997-03-20&g=1997-03-20) vermelde vrijstellingen en verminderingen worden in Indonesië in beginsel bij de bron verleend. Daartoe dient de in Nederland wonende genieter van de interest, dividenden, huren, royalty's en andere inkomsten voor het gebruik van activa en inkomsten uit verrichten van diensten in Indonesië aan de Indonesische schuldenaar over te leggen een gedateerde en ondertekende woonplaatsverklaring van de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. Voorts dient hij een afschrift van die woonplaatsverklaring toe te zenden aan het Hoofd van het KPP (District Belastingkantoor), bij wie de Indonesische schuldenaar van voormelde inkomsten zijn belastingaangifte doet. Na ontvangst van de woonplaatsverklaring mag de Indonesische inhoudingsplichtige de desbetreffende Indonesische inkomsten zonder inhouding van Indonesische belasting of onder inhouding van Indonesische belasting naar de in de Nederlands-Indonesische belastingovereenkomst neergelegde percentages uitbetalen. Het is niet noodzakelijk bij elke uitbetaling van voornoemde inkomsten een nieuwe woonplaatsverklaring over te leggen. Dit behoeft pas te geschieden nadat de geldigheidsduur daarvan is verstreken (één jaar na de datum van afgifte). Woonplaatsverklaringen die zijn afgegeven aan in Nederland gevestigde banken blijven hun geldigheidsduur behouden gedurende de periode dat die banken in Nederland op hetzelfde adres gevestigd blijven. In afwijking van het vorenstaande behoeven in Nederland gevestigde banken en financiële instellingen die uitdrukkelijk in de Nederlands-Indonesische belastingovereenkomst worden genoemd geen woonplaatsverklaring over te leggen teneinde de algehele vrijstelling van Indonesische belasting op interest als bedoeld in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008578&artikel=1&z=1997-03-20&g=1997-03-20), hiervoor, te verkrijgen. Dit betekent dat de betrokken Indonesische inhoudingsplichtigen die interest aan vorenbedoelde banken en financiële instellingen mogen uitbetalen zonder dat zij Indonesische belasting behoeven in te houden.
 
-- 3. **Verzoek om teruggaaf, indien te veel Indonesische belasting is ingehouden** In gevallen waarin in afwijking van het bepaalde in het tweede lid bij de uitbetaling van de interest, dividenden, huren, royalty's en andere inkomsten voor het gebruik van activa en inkomsten uit het verrichten van diensten in Indonesië ten onrechte of te veel Indonesische belasting is ingehouden of geheven, dient de in Nederland wonende genieter van die inkomsten of zijn gemachtigde aan het Hoofd van het KPP, bij wie de Indonesische schuldenaar van die inkomsten zijn belastingaangifte doet, over te leggen:
+- 3. *Verzoek om teruggaaf, indien te veel Indonesische belasting is ingehouden* In gevallen waarin in afwijking van het bepaalde in het tweede lid bij de uitbetaling van de interest, dividenden, huren, royalty's en andere inkomsten voor het gebruik van activa en inkomsten uit het verrichten van diensten in Indonesië ten onrechte of te veel Indonesische belasting is ingehouden of geheven, dient de in Nederland wonende genieter van die inkomsten of zijn gemachtigde aan het Hoofd van het KPP, bij wie de Indonesische schuldenaar van die inkomsten zijn belastingaangifte doet, over te leggen:
 
-- 1. een volledig ingevuld en ondertekend formulier "Claim for Refund From Indonesian Income Tax Under Avoidance of Double Taxation Agreement" tezamen met de volgende documenten:
+   - 1. een volledig ingevuld en ondertekend formulier "Claim for Refund From Indonesian Income Tax Under Avoidance of Double Taxation Agreement" tezamen met de volgende documenten:
 
-- a. een machtiging indien niet de verzoeker zelf maar een gemachtigde het formulier ondertekent;
+      - a. een machtiging indien niet de verzoeker zelf maar een gemachtigde het formulier ondertekent;
 
-- b. het door de inhoudingsplichtige afgegeven bewijsstuk, waaruit de ingehouden/geheven belasting blijkt;
+      - b. het door de inhoudingsplichtige afgegeven bewijsstuk, waaruit de ingehouden/geheven belasting blijkt;
 
-- c. Andere documenten, zoals:
+      - c. Andere documenten, zoals:
 
-- de leenovereenkomst en specificatie inzake de interest-berekening;
+         - de leenovereenkomst en specificatie inzake de interest-berekening;
 
-- de dividendnota;
+         - de dividendnota;
 
-- de huurovereenkomst/de licentieovereenkomst en de specificatie inzake de huur/royalty-berekening;
+         - de huurovereenkomst/de licentieovereenkomst en de specificatie inzake de huur/royalty-berekening;
 
-- de overeenkomst inzake het verrichten van diensten; een verklaring van de betrokken inwoner van Nederland dat hij in Indonesië niet beschikt over een kantoor of een werkplaats en een verklaring van de Indonesische opdrachtgever dat de werkzaamheden zijn verricht binnen de termijn gesteld in de Nederlands-Indonesische belastingovereenkomst.
+         - de overeenkomst inzake het verrichten van diensten; een verklaring van de betrokken inwoner van Nederland dat hij in Indonesië niet beschikt over een kantoor of een werkplaats en een verklaring van de Indonesische opdrachtgever dat de werkzaamheden zijn verricht binnen de termijn gesteld in de Nederlands-Indonesische belastingovereenkomst.
 
-- 2. een gedateerde en ondertekende woonplaatsverklaring van de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is.
+   - 2. een gedateerde en ondertekende woonplaatsverklaring van de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is.
 
-- 4. **Termijn van indiening van verzoeken om teruggaaf van belasting** De Indonesische wetgeving kent geen termijn waarbinnen verzoeken om teruggaaf van belasting ingehouden op of geheven van Indonesische inkomsten moeten worden ingediend.
+- 4. *Termijn van indiening van verzoeken om teruggaaf van belasting* De Indonesische wetgeving kent geen termijn waarbinnen verzoeken om teruggaaf van belasting ingehouden op of geheven van Indonesische inkomsten moeten worden ingediend.
 
-- 5. **Woonplaatsverklaring** Blijkens het bepaalde in de onderdelen 2 en 3 van dit artikel dient de in Nederland wonende genieter van de interest, dividenden, huren, royalty’s en andere inkomsten voor het gebruik van activa en inkomsten uit het verrichten van diensten in Indonesië een woonplaatsverklaring over te leggen. Voor het verkrijgen van deze verklaring kan de desbetreffende inwoner van Nederland zich wenden tot de inspecteur van de eenheid van de Belastingdienst binnen wiens ambts-gebied hij woont of gevestigd is. Verklaard dient te worden dat de gerechtigde tot de interest, dividenden, huren, royalty’s en andere inkomsten voor het gebruik van activa en inkomsten uit diensten verricht in Indonesië inwoner van Nederland is/was in de zin van artikel 4, van de Overeenkomst tussen Nederland en Indonesië ter voorkoming van dubbele belasting. In de Engelse taal zal de tekst van deze verklaring kunnen luiden als volgt: The undersigned, Inspector of the Tax Unit at.............. .................certifies that ........................... (name and address of the applicant) on the payable date(s) of the interest/dividends/rent/royalties and other income for use of assets/income from services rendered in Indonesia concerned is/was a resident of the Netherlands within the meaning of Article 4 of the Agreement between the Netherlands and Indonesia for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
+- 5. *Woonplaatsverklaring* Blijkens het bepaalde in de onderdelen 2 en 3 van dit artikel dient de in Nederland wonende genieter van de interest, dividenden, huren, royalty’s en andere inkomsten voor het gebruik van activa en inkomsten uit het verrichten van diensten in Indonesië een woonplaatsverklaring over te leggen. Voor het verkrijgen van deze verklaring kan de desbetreffende inwoner van Nederland zich wenden tot de inspecteur van de eenheid van de Belastingdienst binnen wiens ambts-gebied hij woont of gevestigd is. Verklaard dient te worden dat de gerechtigde tot de interest, dividenden, huren, royalty’s en andere inkomsten voor het gebruik van activa en inkomsten uit diensten verricht in Indonesië inwoner van Nederland is/was in de zin van artikel 4, van de Overeenkomst tussen Nederland en Indonesië ter voorkoming van dubbele belasting. In de Engelse taal zal de tekst van deze verklaring kunnen luiden als volgt: The undersigned, Inspector of the Tax Unit at.............. .................certifies that ........................... (name and address of the applicant) on the payable date(s) of the interest/dividends/rent/royalties and other income for use of assets/income from services rendered in Indonesia concerned is/was a resident of the Netherlands within the meaning of Article 4 of the Agreement between the Netherlands and Indonesia for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
 
-- 6. **Formulier** Aangezien het formulier ’Claim For Refund From Indonesian Income Tax Under Avoidance of Double Taxation Agreement’ niet door de Indonesische belastingadministratie wordt verstrekt, dient de belanghebbende inwoner van Nederland dat formulier zelf te vervaardigen in de navolgende vorm:
+- 6. *Formulier* Aangezien het formulier ’Claim For Refund From Indonesian Income Tax Under Avoidance of Double Taxation Agreement’ niet door de Indonesische belastingadministratie wordt verstrekt, dient de belanghebbende inwoner van Nederland dat formulier zelf te vervaardigen in de navolgende vorm:
 
 ##### Artikel 3. Intrekking
 
