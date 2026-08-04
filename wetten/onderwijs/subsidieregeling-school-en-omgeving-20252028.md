@@ -9,7 +9,7 @@ laatste_update: 2026-07-24
 status: geldig
 toestand: 2026-07-24
 bron: "https://wetten.overheid.nl/BWBR0050794"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap 13 februari 2025, nr. 47049187, houdende regels voor de subsidiëring van een verrijkte schooldag voor leerlingen in het primair onderwijs, voortgezet onderwijs, speciaal onderwijs en voortgezet speciaal onderwijs 2025–2028 (Subsidieregeling School en Omgeving 2025–2028)

@@ -1,48 +1,18 @@
 ---
 title: "Wet van 9 september 1998 tot gemeentelijke herindeling in de Bommelerwaard"
+citeertitel: "Wet gemeentelijke herindeling Bommelerwaard"
 identifier: "BWBR0009889"
-country: "nl"
-rank: "wet"
-publication_date: "1998-09-11"
-last_updated: "1998-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009889"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "921193"
-version_id: "1348542"
-internal_id: "C1348541"
-label_id: "893344"
-dtd_version: "2.0"
-original_entry_into_force: "1998-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009889/1998-09-11/0"
-intitule_bron: "Stb.1998-535"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-09-09"
-intitule_published: "1998-09-10"
-intitule_in_force: "1998-09-10"
-intitule_status: "goed"
-original_publication: "Stb.1998-535"
-original_signed_date: "1998-09-09"
-original_published_date: "1998-09-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "25655"
-original_url_id: "stb-1998-535"
-entry_into_force_date: "1998-09-11"
-entry_into_force_dossier: "25655"
-jci_1_3: "jci1.3:c:BWBR0009889&z=1998-09-11&g=1998-09-11"
-jci_1_0: "1.0:c:BWBR0009889&g=1998-09-11"
-citeertitel_status: "officieel"
-short_title: "Wet gemeentelijke herindeling Bommelerwaard"
-signed_date: "1998-09-09"
-entry_into_force: "1998-09-11"
+publicatiedatum: 1998-09-11
+laatste_update: 1998-09-11
+status: geldig
+toestand: 1998-09-11
+bron: "https://wetten.overheid.nl/BWBR0009889"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 9 september 1998 tot gemeentelijke herindeling in de Bommelerwaard
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeentelijke indeling in de Bommelerwaard te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. Opheffing en instelling van gemeenten
 
@@ -94,15 +64,15 @@ Voor de op te heffen gemeenten Brakel, Kerkwijk en Zaltbommel, respectievelijk A
 
 ##### Artikel 8
 
-Wijzigt de Kieswet.
+*Wijzigt de Kieswet.*
 
 ##### Artikel 9
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 10
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 11
 
@@ -113,9 +83,3 @@ Wijzigt de Politiewet 1993.
 ##### Artikel 12
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-## Kaart genoemd in artikel 2 van de wet tot gemeentelijke herindeling in de Bommelerwaard september 1998
-
-Raadpleeg voor de kaart het gedrukte staatsblad, Stb. 1998/535.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

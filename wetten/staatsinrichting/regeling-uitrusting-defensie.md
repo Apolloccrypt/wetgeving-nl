@@ -8,7 +8,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0039887"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Regeling uitrusting Defensie

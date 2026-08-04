@@ -1,41 +1,17 @@
 ---
 title: "Instelling Werkgroep Vaarbelasting"
 identifier: "BWBR0010186"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-04-01"
-last_updated: "1999-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010186"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4278983"
-version_id: "6042652"
-internal_id: "C6246051"
-label_id: "4257624"
-dtd_version: "2.0"
-original_entry_into_force: "1999-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010186/1999-04-01/0"
-intitule_bron: "Stcrt.1999-23"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1999-02-03"
-intitule_in_force: "1999-02-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-23"
-original_published_date: "1999-02-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-04-01"
-jci_1_3: "jci1.3:c:BWBR0010186&z=1999-04-01&g=1999-04-01"
-jci_1_0: "1.0:c:BWBR0010186&g=1999-04-01"
-citeertitel_status: "officieel"
-entry_into_force: "1999-04-01"
+publicatiedatum: 1999-04-01
+laatste_update: 1999-04-01
+status: geldig
+toestand: 1999-04-01
+bron: "https://wetten.overheid.nl/BWBR0010186"
+opgehaald: 2026-08-04
 ---
+
 # Instelling Werkgroep Vaarbelasting
-
-Overwegende dat in het Regeerakkoord 1998 de opdracht is opgenomen te komen tot een vaarbelasting, welke een netto-opbrengst dient te hebben van 80 mln, dat de vormgeving van deze belasting nader dient te worden bepaald en dat het in dat verband wenselijk is een werkgroep vaarbelasting in te stellen;
-
-Gelet op het Regeerakkoord 1998, hoofdstuk I, paragraaf 6;
-
-Besluit:
 
 #### § 1. Instelling en taak
 
@@ -114,5 +90,3 @@ Een ieder die is betrokken bij de werkzaamheden van de werkgroep en daarbij de b
 ##### Artikel 9
 
 Dit besluit wordt bekend gemaakt in de Staatscourant.
-
-Afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.

@@ -1,46 +1,17 @@
 ---
 title: "Instellingsregeling Regieraad ICT Politie"
 identifier: "BWBR0010883"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-12-25"
-last_updated: "2005-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010883"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4298503"
-version_id: "6061342"
-internal_id: "C6264951"
-label_id: "4277174"
-dtd_version: "2.0"
-original_entry_into_force: "1999-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010883/2005-12-25/0"
-intitule_bron: "Stcrt.1999-234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-11-22"
-intitule_published: "1999-12-03"
-intitule_in_force: "1999-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-234"
-original_signed_date: "1999-11-22"
-original_published_date: "1999-12-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-12-05"
-jci_1_3: "jci1.3:c:BWBR0010883&z=2005-12-25&g=2005-12-25"
-jci_1_0: "1.0:c:BWBR0010883&g=2005-12-25"
-citeertitel_status: "officieel"
-signed_date: "1999-11-22"
-entry_into_force: "1999-12-05"
+publicatiedatum: 1999-12-05
+laatste_update: 2005-12-25
+status: geldig
+toestand: 2005-12-25
+bron: "https://wetten.overheid.nl/BWBR0010883"
+opgehaald: 2026-08-04
 ---
+
 # Instellingsregeling Regieraad ICT Politie
-
-Handelende in overeenstemming met de Minister van Justitie;
-
-Gehoord het Korpsbeheerdersberaad, de Raad van Hoofdcommissarissen en het Hoofdofficierenberaad;
-
-Gelet op het Convenant politie 1999, gesloten tussen de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de korpsbeheerders van de regionale politiekorpsen, kenmerk EA99/U72651, waarin is uitgesproken dat gezamenlijk geformuleerd beleid door de regio’s en de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie op het gebied van Informatie en Communicatie Technologie (ICT) noodzakelijk is,
-
-Besluit:
 
 ##### Artikel 1
 
@@ -50,11 +21,11 @@ Er is een Regieraad ICT Politie, hierna te noemen: de regieraad.
 
 De regieraad draagt zorg voor:
 
-- a). de ontwikkeling, de implementatie, de evaluatie en de bijstelling van het ICT-beleid van de Nederlandse politie;
+- a) de ontwikkeling, de implementatie, de evaluatie en de bijstelling van het ICT-beleid van de Nederlandse politie;
 
-- b). een gelijkwaardig basisniveau van ICT-voorzieningen en een homogene basisinformatievoorziening bij de politiekorpsen;
+- b) een gelijkwaardig basisniveau van ICT-voorzieningen en een homogene basisinformatievoorziening bij de politiekorpsen;
 
-- c). de ontwikkeling van standaarden voor netwerkvoorzieningen, hardware en software, ten behoeve van de politiekorpsen onderling en ten behoeve van de aansluiting tussen de politiekorpsen en de door de regieraad aangewezen derden.
+- c) de ontwikkeling van standaarden voor netwerkvoorzieningen, hardware en software, ten behoeve van de politiekorpsen onderling en ten behoeve van de aansluiting tussen de politiekorpsen en de door de regieraad aangewezen derden.
 
 ##### Artikel 3
 
@@ -92,7 +63,7 @@ De regieraad stelt op basis van de resultaten jaarlijks een jaarverslag en een j
 
 1. De regieraad wordt ondersteund door een secretariaat dat wordt gevormd door vertegenwoordigers van de Taakorganisatie-ICT/NPI, en het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. De regieraad stelt de inrichting en taken van het secretariaat vast.
 
-2. Vervallen.
+2. *Vervallen.*
 
 3. Het secretariaat archiveert de stukken van de regieraad met inachtneming van de terzake geldende bepalingen van het beheersreglement van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Na de opheffing van de regieraad wordt het archief overgedragen aan het centraal archief van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 

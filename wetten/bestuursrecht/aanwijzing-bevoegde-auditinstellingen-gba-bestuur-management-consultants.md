@@ -1,42 +1,17 @@
 ---
 title: "Aanwijzing bevoegde auditinstellingen GBA (Bestuur & Management Consultants)"
 identifier: "BWBR0010684"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-09-01"
-last_updated: "1999-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010684"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "4801083"
-version_id: "6607502"
-internal_id: "C7064741"
-label_id: "4779174"
-dtd_version: "2.0"
-original_entry_into_force: "1999-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010684/1999-09-01/0"
-intitule_bron: "Stcrt.1999-170"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-08-30"
-intitule_published: "1999-09-06"
-intitule_in_force: "1999-09-06"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-170"
-original_signed_date: "1999-08-30"
-original_published_date: "1999-09-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-09-01"
-jci_1_3: "jci1.3:c:BWBR0010684&z=1999-09-01&g=1999-09-01"
-jci_1_0: "1.0:c:BWBR0010684&g=1999-09-01"
-citeertitel_status: "officieel"
-signed_date: "1999-08-30"
-entry_into_force: "1999-09-01"
+publicatiedatum: 1999-09-01
+laatste_update: 1999-09-01
+status: geldig
+toestand: 1999-09-01
+bron: "https://wetten.overheid.nl/BWBR0010684"
+opgehaald: 2026-08-04
 ---
+
 # Aanwijzing bevoegde auditinstellingen GBA (Bestuur & Management Consultants)
-
-Gelezen het schriftelijke verzoek van de firma Bestuur & Management Consultants (BMC) van 10 augustus 1999 om ingevolge paragraaf 1.5 van de circulaire van 14 juli 1999, kenmerk BPR99/U71885 (Strct. 1999, nr. 149), houdende voorschriften inzake de uitvoering van de verplichte periodieke controle van de gemeentelijke basisadministratie persoonsgegevens (verder: de circulaire), aangewezen te worden als instelling die bevoegd is tot de uitvoering van de periodieke GBA-audit, en de bijlage, zijnde het rapport van de Stichting Raad voor Accreditatie van 22 juli 1999, Registratienummer N 001, waaruit blijkt dat genoemde firma aan de in paragraaf 1.5 en bijlage 2 van de circulaire gestelde criteria voor de bekwaamheid van de instellingen die GBA-audits uitvoeren en hun medewerkers voldoet;
-
-Besluit
 
 ##### Artikel 1
 

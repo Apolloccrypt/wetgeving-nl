@@ -1,48 +1,33 @@
 ---
 title: "Regeling Urinecontrole penitentiaire inrichtingen"
 identifier: "BWBR0010496"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-12-01"
-last_updated: "2021-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010496"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling"
-stam_id: "3613943"
-version_id: "5397082"
-internal_id: "C5590171"
-label_id: "3593964"
-dtd_version: "2.0"
-original_entry_into_force: "1999-06-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010496/2021-12-01/0"
-intitule_bron: "Stcrt.1999-128"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-06-02"
-intitule_published: "1999-07-08"
-intitule_in_force: "1999-07-08"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-128"
-original_signed_date: "1999-06-02"
-original_published_date: "1999-07-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-06-15"
-jci_1_3: "jci1.3:c:BWBR0010496&z=2021-12-01&g=2021-12-01"
-jci_1_0: "1.0:c:BWBR0010496&g=2021-12-01"
-citeertitel_status: "officieel"
-signed_date: "1999-06-02"
-entry_into_force: "1999-06-15"
+publicatiedatum: 1999-06-15
+laatste_update: 2021-12-01
+status: geldig
+toestand: 2021-12-01
+bron: "https://wetten.overheid.nl/BWBR0010496"
+opgehaald: 2026-08-04
 ---
+
 # Regeling Urinecontrole penitentiaire inrichtingen
-
-Gelet op [artikel 30, tweede lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=30);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 13 februari 1998 (nummer 681643/98), 13 mei 1998 (nummer 98/694836) en 14 december 1998 (nummer 735265/98).
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+wet:
+
+de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709).
+
+b.
+
+uitvoeringsverantwoordelijke instantie:
+
+de door de selectiefunctionaris als zodanig aangewezen penitentiaire inrichting dan wel uitvoeringseenheid van de SRN bij plaatsing van een deelnemer in een penitentiair programma.
 
 ##### Artikel 2. Algemeen
 
@@ -143,5 +128,3 @@ Deze regeling treedt in werking op 15 juni 1999.
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Urinecontrole penitentiaire inrichtingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,42 +1,17 @@
 ---
 title: "Vaststelling bijdragen gemoedsbezwaarden 1999"
 identifier: "BWBR0010077"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-01-01"
-last_updated: "1999-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010077"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3785043"
-version_id: "5567832"
-internal_id: "C5760921"
-label_id: "3764714"
-dtd_version: "2.0"
-original_entry_into_force: "1999-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010077/1999-01-01/0"
-intitule_bron: "Stcrt.1998-243"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-12-10"
-intitule_published: "1998-12-18"
-intitule_in_force: "1998-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-243"
-original_signed_date: "1998-12-10"
-original_published_date: "1998-12-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-01-01"
-jci_1_3: "jci1.3:c:BWBR0010077&z=1999-01-01&g=1999-01-01"
-jci_1_0: "1.0:c:BWBR0010077&g=1999-01-01"
-citeertitel_status: "officieel"
-signed_date: "1998-12-10"
-entry_into_force: "1999-01-01"
+publicatiedatum: 1999-01-01
+laatste_update: 1999-01-01
+status: geldig
+toestand: 1999-01-01
+bron: "https://wetten.overheid.nl/BWBR0010077"
+opgehaald: 2026-08-04
 ---
+
 # Vaststelling bijdragen gemoedsbezwaarden 1999
-
-Gelet op [artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=20);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -55,5 +30,3 @@ Het bedrag dat personen die gemoedsbezwaren hebben tegen het sluiten van een ver
 ##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 januari 1999.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

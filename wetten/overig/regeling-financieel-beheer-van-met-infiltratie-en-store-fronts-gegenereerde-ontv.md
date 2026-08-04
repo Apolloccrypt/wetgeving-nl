@@ -1,43 +1,68 @@
 ---
 title: "Regeling financieel beheer infiltratie"
+citeertitel: "Regeling financieel beheer van met infiltratie en store-fronts gegenereerde ontvangsten"
 identifier: "BWBR0009771"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009771"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3569253"
-version_id: "5352382"
-internal_id: "C5545471"
-label_id: "3549264"
-dtd_version: "2.0"
-original_entry_into_force: "1998-08-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009771/2013-01-01/0"
-intitule_bron: "Stcrt.1998-141"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-07-09"
-intitule_published: "1998-07-29"
-intitule_in_force: "1998-07-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-141"
-original_signed_date: "1998-07-09"
-original_published_date: "1998-07-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-08-12"
-jci_1_3: "jci1.3:c:BWBR0009771&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0009771&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling financieel beheer van met infiltratie en store-fronts gegenereerde ontvangsten"
-signed_date: "1998-07-09"
-entry_into_force: "1998-08-12"
+publicatiedatum: 1998-08-12
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0009771"
+opgehaald: 2026-08-04
 ---
+
 # Regeling financieel beheer infiltratie
 
-Gelet op [artikel 9 Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=9),
-
 ##### Artikel 1. Definities
+
+a.
+
+Infiltratie:
+
+het door een opsporingsambtenaar of burger, al dan niet onder dekmantel van een aangenomen identiteit, onder het gezag van het Openbaar Ministerie en onder regie van de politie, binnendringen in het criminele milieu en/of het in het criminele milieu (strafbare en niet strafbare) handelingen (zullen gaan) verrichten die het strafbare gedrag binnen het criminele milieu (kunnen) beïnvloeden dan wel aan een (criminele) organisatie goederen of diensten leveren ten behoeve van de opsporing en vervolging van gepleegde of nog te plegen strafbare feiten.
+
+b.
+
+Store-front:
+
+een voorziening ten behoeve van infiltratie, waarbij door of vanwege de politie, onder gezag van het openbaar ministerie, ten behoeve van een criminele organisatie een (structuur van) dekmantelbedrij(f) (ven) wordt opgezet en geëxploiteerd, door middel waarvan facilitaire ondersteuning aan de criminele organisatie wordt aangeboden op het moment dat die organisatie daarom vraagt.
+
+c.
+
+Aanvrager:
+
+degene die een aanvraag voor infiltratie doet bij de officier van justitie.
+
+d.
+
+Uitvoerder:
+
+degene die de infiltratie daadwerkelijk uitvoert.
+
+e.
+
+Criminele ontvangsten:
+
+alle vergoedingen, beloningen of opbrengsten, al dan niet in natura en/of waardedocumenten waarvan de tegenwaarde op geld waardeerbaar is, zoals toonderbrieven,obligaties,effecten en dergelijke welke zijn verkregen door in het kader van opsporingsonderzoeken gepleegde handelingen.
+
+f.
+
+College:
+
+het College van procureurs-generaal.
+
+g.
+
+Centrale Toetsingscommissie:
+
+de door het College ingestelde commissie die dient te adviseren over de toelaatbaarheid van bijzondere opsporingsmethoden.
+
+h.
+
+Hoofdofficier van justitie:
+
+de hoofdofficier onder wiens gezag de infiltratie plaatsvindt.
 
 ##### Artikel 2. Verantwoordelijkheden
 

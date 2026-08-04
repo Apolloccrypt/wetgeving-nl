@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 7 april 1999, houdende regels omtrent het verstrekken van subsidie aan de raden voor rechtsbijstand voor de uitvoering van hun wettelijke taak (Subsidiebesluit raden voor rechtsbijstand)"
+citeertitel: "Subsidiebesluit raad voor rechtsbijstand"
 identifier: "BWBR0010393"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-07-01"
-last_updated: "2010-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010393"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "1029533"
-version_id: "9475972"
-internal_id: "C12708911"
-label_id: "997664"
-dtd_version: "2.0"
-original_entry_into_force: "2003-08-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010393/2010-07-01/0"
-intitule_bron: "Stb.1999-181"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-04-07"
-intitule_published: "1999-04-27"
-intitule_in_force: "1999-04-27"
-intitule_status: "goed"
-original_publication: "Stb.2003-351"
-original_signed_date: "2003-08-28"
-original_published_date: "2003-09-09"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2003-351"
-entry_into_force_date: "2003-08-28"
-jci_1_3: "jci1.3:c:BWBR0010393&z=2010-07-01&g=2010-07-01"
-jci_1_0: "1.0:c:BWBR0010393&g=2010-07-01"
-citeertitel_status: "officieel"
-short_title: "Subsidiebesluit raad voor rechtsbijstand"
-signed_date: "2003-08-28"
-entry_into_force: "2003-08-28"
+publicatiedatum: 2003-08-28
+laatste_update: 2010-07-01
+status: geldig
+toestand: 2010-07-01
+bron: "https://wetten.overheid.nl/BWBR0010393"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 7 april 1999, houdende regels omtrent het verstrekken van subsidie aan de raden voor rechtsbijstand voor de uitvoering van hun wettelijke taak (Subsidiebesluit raden voor rechtsbijstand)
-
-Op de voordracht van Onze Staatssecretaris van Justitie van 17 december 1998, Directie Wetgeving, nr. 736100/98/6;
-
-Gelet op [artikel 42a, eerste lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42a);
-
-De Raad van State gehoord (advies van 4 maart 1999, nr. W03.98.0610/I)
-
-Gezien het nader rapport van Onze Staatssecretaris van Justitie van 23 maart 1999, Directie Wetgeving, nr. 754884/99/6;
-
-Hebben goedgevonden en verstaan:
-
-Werkt terug tot en met 1 januari 1999.
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
@@ -70,23 +36,23 @@ In dit besluit wordt verstaan onder:
 
 - a. de beheers- en programmakosten, waaronder zijn begrepen:
 
-- 1°. de raads- en apparaatskosten;
+   - 1°. de raads- en apparaatskosten;
 
-- 2°. de doeluitkering voor vergoedingen voor de verlening van rechtsbijstand en mediation krachtens toevoeging in civiele en bestuurszaken en in strafzaken;
+   - 2°. de doeluitkering voor vergoedingen voor de verlening van rechtsbijstand en mediation krachtens toevoeging in civiele en bestuurszaken en in strafzaken;
 
-- 3°. de doeluitkering voor vergoedingen voor rechtsbijstandverlening ten behoeve van piketregelingen;
+   - 3°. de doeluitkering voor vergoedingen voor rechtsbijstandverlening ten behoeve van piketregelingen;
 
-- 4°. de doeluitkering voor de subsidiëring van de voorzieningen, bedoeld in [artikel 42b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42b), verminderd met de wettelijk te innen eigen bijdragen van rechtzoekenden voor zover het voorzieningen betreft die belast zijn met de verlening van rechtsbijstand, anders dan rechtshulp, of mediation;
+   - 4°. de doeluitkering voor de subsidiëring van de voorzieningen, bedoeld in [artikel 42b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42b), verminderd met de wettelijk te innen eigen bijdragen van rechtzoekenden voor zover het voorzieningen betreft die belast zijn met de verlening van rechtsbijstand, anders dan rechtshulp, of mediation;
 
-- 5°. de doeluitkering voor de verlening van rechtsbijstand of mediation op basis van overeenkomsten als bedoeld in [artikel 7, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=7);
+   - 5°. de doeluitkering voor de verlening van rechtsbijstand of mediation op basis van overeenkomsten als bedoeld in [artikel 7, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=7);
 
-- 6°. overige uitgaven;
+   - 6°. overige uitgaven;
 
 - b. indien van toepassing de kosten van projecten en activiteiten.
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -148,7 +114,15 @@ Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de s
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
+
+##### Artikel 10a
+
+*Vervallen*
+
+##### Artikel 10b
+
+*Vervallen*
 
 ##### Artikel 11
 
@@ -198,17 +172,17 @@ Onze Minister beslist binnen vier maanden op de aanvraag tot vaststelling van de
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
@@ -217,55 +191,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Subsidiebesluit raad voor rechtsbijstand.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10a
-
-Vervallen
-
-##### Artikel 10b
-
-Vervallen
-
-### HOOFDSTUK 4. VASTSTELLING VAN DE SUBSIDIE
-
-### HOOFDSTUK 5. SLOTBEPALINGEN
-
-## Bijlage. bij artikel 11, tweede lid, van het Subsidiebesluit raden voor rechtsbijstand
-
-Vervallen
-
-### **Model accountantsverklaring**
-
-### **Opdracht**
-
-Wij .............. (organisatie en naam noemen) hebben de jaarrekening .............. (jaartal), van de raad voor rechtsbijstand te .............. (plaats) gecontroleerd. De jaarrekening is opgesteld onder verantwoordelijkheid van de Raad voor rechtsbijstand. De Raad voor rechtsbijstand is tevens primair verantwoordelijk voor de naleving van wet- en regelgeving. Het is onze taak een accountantsverklaring inzake de jaarrekening te verstrekken.
-
-### **Werkzaamheden**
-
-Bij onze controle hebben wij nagegaan of de jaarrekening voldoet aan de volgende eisen:
-
-• Dat de jaarrekening getrouw weergeeft zowel de baten als lasten over .............. (jaartal), als de activa en passiva per 31 december .............. (jaartal), en
-
-• Dat de in de jaarrekening opgenomen baten en lasten, alsmede de balansmutaties tot stand zijn gekomen in overeenstemming met van toepassing zijnde wettelijke regelingen.
-
-Tevens hebben we nagegaan of de jaarrekening is opgesteld in overeenstemming met het Subsidiebesluit raden voor rechtsbijstand en het controleprotocol raden voor rechtsbijstand .............. (jaartal).
-
-Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten en in overeenstemming met het controleprotocol raden voor rechtsbijstand .......... (jaartal) van het Ministerie van Justitie. Volgens de in Nederland algemeen aanvaarde richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen, dat de jaarrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen en toelichtingen in de jaarrekening. Tevens omvat een controle een beoordeling van de grondslagen voor financiële verslaggeving, die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen, die het bevoegd gezag van de instelling heeft gemaakt, alsmede een algehele evaluatie van het beeld van de jaarrekening.
-
-Wij zijn van mening, dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
-
-### **Oordeel**
-
-Wij zijn van oordeel dat de jaarrekening .............. (jaartal) van .............. (naam instelling) voldoet aan de hierboven omschreven eisen.
-
-Tevens delen we mede dat het controleprotocol raden voor rechtsbijstand .............. (jaartal) is nageleefd.
-
-### **Overig**
-
-Wij hebben zoals voorgeschreven in het controleprotocol raden voor rechtsbijstand 2002 een separaat rapport aan de Raad voor Rechtsbijstand uitgebracht. Er zijn door ons in dit kader geen bijzonderheden geconstateerd, die hier behoeven te worden vermeld.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

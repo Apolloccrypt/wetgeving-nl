@@ -8,7 +8,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBV0001716"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen)

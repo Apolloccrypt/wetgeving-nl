@@ -1,42 +1,17 @@
 ---
 title: "Vrijstellingsregeling proviandering binnenvaart"
 identifier: "BWBR0010150"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-01-01"
-last_updated: "1999-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010150"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3658763"
-version_id: "5441792"
-internal_id: "C5634881"
-label_id: "3638674"
-dtd_version: "2.0"
-original_entry_into_force: "1999-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010150/1999-01-01/0"
-intitule_bron: "Stcrt.1998-245"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-12-21"
-intitule_published: "1998-12-22"
-intitule_in_force: "1998-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-245"
-original_signed_date: "1998-12-21"
-original_published_date: "1998-12-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-01-01"
-jci_1_3: "jci1.3:c:BWBR0010150&z=1999-01-01&g=1999-01-01"
-jci_1_0: "1.0:c:BWBR0010150&g=1999-01-01"
-citeertitel_status: "officieel"
-signed_date: "1998-12-21"
-entry_into_force: "1999-01-01"
+publicatiedatum: 1999-01-01
+laatste_update: 1999-01-01
+status: geldig
+toestand: 1999-01-01
+bron: "https://wetten.overheid.nl/BWBR0010150"
+opgehaald: 2026-08-04
 ---
+
 # Vrijstellingsregeling proviandering binnenvaart
-
-Gelet op [artikel XIV van de Wet van 17 december 1998 tot wijziging van enkele belastingwetten c.a. (belastingplan 1999)](https://wetten.overheid.nl/jci1.3:c:BWBR0010137&artikel=XIV);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -61,5 +36,3 @@ Deze regeling verstaat onder sigaretten, sigaren, rooktabak, bier, wijn, tussenp
 1. Deze regeling treedt in werking met ingang van 1 januari 1999.
 
 2. Deze regeling wordt aangehaald als: Vrijstellingsregeling proviandering binnenvaart.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

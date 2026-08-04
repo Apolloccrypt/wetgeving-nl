@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 8 september 1998, houdende regels betreffende de Rijksgebouwendienst (Besluit Rijksgebouwendienst 1999)"
+citeertitel: "Besluit Rijksgebouwendienst 1999"
 identifier: "BWBR0009888"
-country: "nl"
-rank: "kb"
-publication_date: "2008-10-01"
-last_updated: "2008-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009888"
+categorie: "Overig"
 soort: "KB"
-stam_id: "923943"
-version_id: "1352852"
-internal_id: "C1352851"
-label_id: "896084"
-dtd_version: "2.0"
-original_entry_into_force: "1999-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009888/2008-10-01/0"
-intitule_bron: "Stb.1998-552"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-09-08"
-intitule_published: "1998-09-24"
-intitule_in_force: "1998-09-24"
-intitule_status: "goed"
-original_publication: "Stb.1998-552"
-original_signed_date: "1998-09-08"
-original_published_date: "1998-09-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1998-552"
-entry_into_force_date: "1999-01-01"
-jci_1_3: "jci1.3:c:BWBR0009888&z=2008-10-01&g=2008-10-01"
-jci_1_0: "1.0:c:BWBR0009888&g=2008-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Rijksgebouwendienst 1999"
-signed_date: "1998-09-08"
-entry_into_force: "1999-01-01"
+publicatiedatum: 1999-01-01
+laatste_update: 2008-10-01
+status: geldig
+toestand: 2008-10-01
+bron: "https://wetten.overheid.nl/BWBR0009888"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 8 september 1998, houdende regels betreffende de Rijksgebouwendienst (Besluit Rijksgebouwendienst 1999)
-
-Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 september 1998, nr. 980264, Rijksgebouwendienst, Directie Huisvestingsbeleid, gedaan in overeenstemming met het gevoelen van de ministerraad;
-
-Hebben goedgevonden en verstaan:
 
 ### HOOFDSTUK 1. Begripsbepalingen
 
@@ -56,7 +30,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. De Rijksgebouwendienst
 
-### AFDELING 1. Instelling, taken en bevoegdheden
+#### AFDELING 1. Instelling, taken en bevoegdheden
 
 ##### Artikel 2
 
@@ -116,7 +90,7 @@ Ter uitvoering van de taken, bedoeld in de [artikelen 3](https://wetten.overheid
 
 - e. het (doen) verrichten van onderzoek.
 
-### AFDELING 2. Werkwijze
+#### AFDELING 2. Werkwijze
 
 ##### Artikel 7
 
@@ -158,13 +132,13 @@ Ter uitvoering van de taken, bedoeld in de [artikelen 3](https://wetten.overheid
 
 Onze Minister kan nadere regels geven omtrent de taken, bevoegdheden, werkwijze en inrichting van de dienst.
 
-### Afdeling 3. De Klantenraad
+#### Afdeling 3. De Klantenraad
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
-### AFDELING 4. De Rijksbouwmeester
+#### AFDELING 4. De Rijksbouwmeester
 
 ##### Artikel 13
 
@@ -186,13 +160,19 @@ De Rijksbouwmeester brengt op verzoek, dan wel uit eigen beweging advies uit aan
 
 - c. de kwaliteit van de architectuur en van de stedenbouwkundige en landschappelijke inpassing ten aanzien van infrastructurele en ruimtelijke ordeningsprojecten, waarover de zorg van de dienst zich niet uitstrekt.
 
+#### Afdeling 5. Het Rijkshuisvestingsberaad
+
+##### Artikel 15a
+
+*Vervallen*
+
 ### HOOFDSTUK 3. Het meerjarenbeleidsplan
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
-### HOOFDSTUK 3. Het meerjarenbeleidsplan
+### HOOFDSTUK 4. Slotbepalingen
 
 ##### Artikel 17
 
@@ -203,15 +183,3 @@ Het Besluit Rijksgebouwendienst wordt ingetrokken.
 1. Dit besluit treedt in werking met ingang van 1 januari 1999.
 
 2. Dit besluit wordt aangehaald als: Besluit Rijksgebouwendienst 1999.
-
-Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de kamers der Staten-Generaal en aan de Algemene Rekenkamer.
-
-### Afdeling 5. Het Rijkshuisvestingsberaad
-
-##### Artikel 15a
-
-Vervallen
-
-### HOOFDSTUK 4. Slotbepalingen
-
-Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de kamers der Staten-Generaal en aan de Algemene Rekenkamer.

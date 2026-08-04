@@ -1,48 +1,18 @@
 ---
 title: "Wet van 25 mei 1998, houdende regels over tegemoetkoming in de schade en de kosten in geval van overstromingen door zoet water, aardbevingen of andere rampen en zware ongevallen (Wet tegemoetkoming schade bij rampen en zware ongevallen)"
+citeertitel: "Wet tegemoetkoming schade bij rampen"
 identifier: "BWBR0009637"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009637"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "804293"
-version_id: "1165492"
-internal_id: "C1165491"
-label_id: "779024"
-dtd_version: "2.0"
-original_entry_into_force: "1998-06-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009637/2021-07-01/0"
-intitule_bron: "Stb.1998-325"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-05-25"
-intitule_published: "1998-06-11"
-intitule_in_force: "1998-06-11"
-intitule_status: "goed"
-original_publication: "Stb.1998-325"
-original_signed_date: "1998-05-25"
-original_published_date: "1998-06-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "25159"
-original_url_id: "stb-1998-325"
-entry_into_force_date: "1998-06-12"
-entry_into_force_dossier: "25159"
-jci_1_3: "jci1.3:c:BWBR0009637&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0009637&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet tegemoetkoming schade bij rampen"
-signed_date: "1998-05-25"
-entry_into_force: "1998-06-12"
+publicatiedatum: 1998-06-12
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0009637"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 25 mei 1998, houdende regels over tegemoetkoming in de schade en de kosten in geval van overstromingen door zoet water, aardbevingen of andere rampen en zware ongevallen (Wet tegemoetkoming schade bij rampen en zware ongevallen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen inzake een tegemoetkoming door het Rijk aan gedupeerden in de schade en de kosten in geval van een overstroming door zoet water, een aardbeving dan wel een andere ramp of een ander zwaar ongeval;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -52,11 +22,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. overstroming door zoet water: een overstroming die een ramp is als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1) en die inhoudt:
 
-- 1°. hoge waterstanden, veroorzaakt door een rivierafvoer met een gemiddelde kans van voorkomen van minder dan 1/50 per jaar, voor zover het gaat om het gedeelte van de Maas waar geen gereglementeerde waterkeringen aanwezig zijn,
+   - 1°. hoge waterstanden, veroorzaakt door een rivierafvoer met een gemiddelde kans van voorkomen van minder dan 1/50 per jaar, voor zover het gaat om het gedeelte van de Maas waar geen gereglementeerde waterkeringen aanwezig zijn,
 
-- 2°. het buiten de oevers treden van andere wateren binnen Nederland waar geen primaire of anderszins gereglementeerde waterkeringen aanwezig zijn, of
+   - 2°. het buiten de oevers treden van andere wateren binnen Nederland waar geen primaire of anderszins gereglementeerde waterkeringen aanwezig zijn, of
 
-- 3°. het overlopen of bezwijken van primaire waterkeringen, dan wel het overlopen of bezwijken van anderszins gereglementeerde waterkeringen die binnen een door primaire waterkeringen beschermd gebied liggen, met dien verstande dat het overlopen of bezwijken van primaire waterkeringen langs de Noordzee, de Waddenzee en de Westerschelde tot de stormvloedkeringen in de Nieuwe Waterweg en de Oosterschelde, met inbegrip van deze stormvloedkeringen, en als direct gevolg daarvan het overlopen of bezwijken van andere primaire waterkeringen, niet wordt aangemerkt als overstroming door zoet water;
+   - 3°. het overlopen of bezwijken van primaire waterkeringen, dan wel het overlopen of bezwijken van anderszins gereglementeerde waterkeringen die binnen een door primaire waterkeringen beschermd gebied liggen, met dien verstande dat het overlopen of bezwijken van primaire waterkeringen langs de Noordzee, de Waddenzee en de Westerschelde tot de stormvloedkeringen in de Nieuwe Waterweg en de Oosterschelde, met inbegrip van deze stormvloedkeringen, en als direct gevolg daarvan het overlopen of bezwijken van andere primaire waterkeringen, niet wordt aangemerkt als overstroming door zoet water;
 
 - c. aardbeving: een ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1) die wordt veroorzaakt door een trilling aan het aardoppervlak als gevolg van een plotselinge beweging in de aardkorst, met een magnitude van minimaal 4,5 op de schaal van Richter, gemeten door Onze Minister van Infrastructuur en Milieu;
 
@@ -92,11 +62,11 @@ Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van
 
 - h. de evacuatiekosten per risico-adres, waaronder worden verstaan:
 
-- 1°. de reis- en verblijfkosten die de gedupeerde heeft gemaakt als gevolg van een advies of een gebod van het bevoegd gezag om zijn woon- of vestigingsplaats te verlaten, voor zover verschuldigd aan derden;
+   - 1°. de reis- en verblijfkosten die de gedupeerde heeft gemaakt als gevolg van een advies of een gebod van het bevoegd gezag om zijn woon- of vestigingsplaats te verlaten, voor zover verschuldigd aan derden;
 
-- 2°. de kosten voor transport, opslag en huisvesting van de roerende zaken van de gedupeerde, voor zover verschuldigd aan derden of toe te rekenen aan arbeid in eigen beheer volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels;
+   - 2°. de kosten voor transport, opslag en huisvesting van de roerende zaken van de gedupeerde, voor zover verschuldigd aan derden of toe te rekenen aan arbeid in eigen beheer volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels;
 
-- 3°. de met de in onderdeel 2° genoemde activiteiten samenhangende kosten voor verzekering;
+   - 3°. de met de in onderdeel 2° genoemde activiteiten samenhangende kosten voor verzekering;
 
 - i. de bereddingskosten per risico-adres, waaronder worden verstaan de kosten die de gedupeerde heeft gemaakt in verband met het treffen van maatregelen ter voorkoming of beperking van schade of kosten, voor zover verschuldigd aan derden of toe te rekenen aan arbeid in eigen beheer volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels;
 
@@ -191,5 +161,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel 15
 
 Deze wet wordt aangehaald als: Wet tegemoetkoming schade bij rampen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

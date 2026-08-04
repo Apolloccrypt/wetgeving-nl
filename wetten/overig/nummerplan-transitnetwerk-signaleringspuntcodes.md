@@ -1,47 +1,22 @@
 ---
 title: "Nummerplan voor transitnetwerk signaleringspuntcodes"
+citeertitel: "Nummerplan transitnetwerk signaleringspuntcodes"
 identifier: "BWBR0009521"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-05-02"
-last_updated: "2015-05-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009521"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3549723"
-version_id: "5332882"
-internal_id: "C5525971"
-label_id: "3529764"
-dtd_version: "2.0"
-original_entry_into_force: "1998-04-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009521/2015-05-02/0"
-intitule_bron: "Stcrt.1998-76"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-03-31"
-intitule_published: "1998-04-22"
-intitule_in_force: "1998-04-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-76"
-original_signed_date: "1998-03-31"
-original_published_date: "1998-04-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-04-24"
-jci_1_3: "jci1.3:c:BWBR0009521&z=2015-05-02&g=2015-05-02"
-jci_1_0: "1.0:c:BWBR0009521&g=2015-05-02"
-citeertitel_status: "officieel"
-short_title: "Nummerplan transitnetwerk signaleringspuntcodes"
-signed_date: "1998-03-31"
-entry_into_force: "1998-04-24"
+publicatiedatum: 1998-04-24
+laatste_update: 2015-05-02
+status: geldig
+toestand: 2015-05-02
+bron: "https://wetten.overheid.nl/BWBR0009521"
+opgehaald: 2026-08-04
 ---
+
 # Nummerplan voor transitnetwerk signaleringspuntcodes
-
-Gelet op artikel 40d, eerste lid, van de Wet op de telecommunicatievoorzieningen;
-
-Besluit:
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
@@ -49,7 +24,7 @@ Vervallen
 
 2. De lengte van een nummer bedraagt vijf cijfers.
 
-3. De in dit besluit bedoelde nummers die beschikbaar zijn voor toekenning bevinden zich uitsluitend in de nummerblokken die zijn aangegeven in de bij dit besluit behorende bijlage.
+3. De in dit besluit bedoelde nummers die beschikbaar zijn voor toekenning bevinden zich uitsluitend in de nummerblokken die zijn aangegeven in de bij dit besluit behorende [bijlage](https://wetten.overheid.nl/BWBR0009521).
 
 ##### Artikel 3
 
@@ -69,11 +44,11 @@ Aan de toekenning van een nummer worden de volgende voorschriften verbonden:
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -82,19 +57,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Nummerplan transitnetwerk signaleringspuntcodes.
-
-## Bijlage. als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009521&artikel=2&z=2015-05-02&g=2015-05-02), van het Nummerplan transitnetwerk signaleringspuntcodes
-
-| **Signaleringspuntcodes beschikbaar voor toekenning** | **Signaleringspuntcodes beschikbaar voor toekenning** | **Signaleringspuntcodes beschikbaar voor toekenning** | **Signaleringspuntcodes beschikbaar voor toekenning** | **Signaleringspuntcodes beschikbaar voor toekenning** | **Signaleringspuntcodes beschikbaar voor toekenning** |
-| --- | --- | --- | --- | --- | --- |
-| **netwerk** **indicator** | **zone** | **netwerk(deel)** | **punt** | **bestemming** | **nummer** **lengte** |
-| binair 11 | 0 | 000 t/m 255 | 0 t/m 7 | transit netwerkpunt | 5 |
-| binair 11 | 1 | 000 t/m 255 | 0 t/m 7 | transit netwerkpunt | 5 |
-| binair 11 | 2 | 000 t/m 255 | 0 t/m 7 | transit netwerkpunt | 5 |
-| binair 11 | 3 | 000 t/m 255 | 0 t/m 7 | transit netwerkpunt | 5 |
-| binair 11 | 4 | 000 t/m 255 | 0 t/m 7 | transit netwerkpunt | 5 |
-| binair 11 | 5 | 000 t/m 255 | 0 t/m 7 | transit netwerkpunt | 5 |
-| binair 11 | 6 | 000 t/m 255 | 0 t/m 7 | transit netwerkpunt | 5 |
-| binair 11 | 7 | 000 t/m 255 | 0 t/m 7 | transit netwerkpunt | 5 |
-
-Dit besluit met bijbehorende bijlage en toelichting zal in de Staatscourant worden geplaatst.

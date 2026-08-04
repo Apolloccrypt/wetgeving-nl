@@ -1,44 +1,17 @@
 ---
 title: "Uitvoeringsregeling Rijkswet administratieve bijstand douane"
 identifier: "BWBR0010885"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010885"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3637673"
-version_id: "5420752"
-internal_id: "C5613841"
-label_id: "3617634"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010885/2010-10-10/0"
-intitule_bron: "Stcrt.1999-227"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-11-23"
-intitule_published: "1999-11-24"
-intitule_in_force: "1999-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-227"
-original_signed_date: "1999-11-23"
-original_published_date: "1999-11-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-01-01"
-jci_1_3: "jci1.3:c:BWBR0010885&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0010885&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "1999-11-23"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0010885"
+opgehaald: 2026-08-04
 ---
+
 # Uitvoeringsregeling Rijkswet administratieve bijstand douane
-
-Handelende in overeenstemming met de Minister van Financiën van de Nederlandse Antillen en de Minister van Financiën van Aruba;
-
-Gelet op [artikel 17 van de Rijkswet administratieve bijstand douane](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&artikel=17);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -88,35 +61,35 @@ Met de invoering van de rijkswet zijn belast:
 
 - a. in Nederland:
 
-- 1°. de Belastingdienst/Douane;
+   - 1° de Belastingdienst/Douane;
 
-- 2°. het Douane Informatie Centrum (DIC);
+   - 2° het Douane Informatie Centrum (DIC);
 
-- 3°. de Belastingdienst/Fiscale inlichtingen- en opsporingsdienst – Economische controledienst (FIOD-ECD of FIOD);
+   - 3° de Belastingdienst/Fiscale inlichtingen- en opsporingsdienst – Economische controledienst (FIOD-ECD of FIOD);
 
-- 4°. de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+   - 4° de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
 - b. in Aruba:
 
-- 1°. de Directeur van de Directie der Belastingen;
+   - 1°. de Directeur van de Directie der Belastingen;
 
-- 2°. het Hoofd van de Dienst der Belastingen;
+   - 2°. het Hoofd van de Dienst der Belastingen;
 
 - c. in Curaçao:
 
-- 1°. de Douane Curaçao;
+   - 1° de Douane Curaçao;
 
-- 2°. de sector Fiscale Zaken van het Ministerie van Financiën;
+   - 2° de sector Fiscale Zaken van het Ministerie van Financiën;
 
-- 3°. de Landsontvanger;
+   - 3° de Landsontvanger;
 
-- 4°. de Stichting belastingaccountantsbureau;
+   - 4° de Stichting belastingaccountantsbureau;
 
 - d. in Sint Maarten:
 
-- 1°. de Afdeling Fiscale Zaken;
+   - 1°. de Afdeling Fiscale Zaken;
 
-- 2°. de Belastingdienst.
+   - 2°. de Belastingdienst.
 
 ##### Artikel 5
 
@@ -124,11 +97,11 @@ Met de invoering van de rijkswet zijn belast:
 
 - a. de in-, uit- en doorvoer van goederen, in het bijzonder ter zake van:
 
-- 1º. douane- en antidumpingrechten, alsmede belastingen en restituties in het kader van het communautaire landbouwbeleid;
+   - 1º. douane- en antidumpingrechten, alsmede belastingen en restituties in het kader van het communautaire landbouwbeleid;
 
-- 2º. omzetbelasting bij invoer en accijnzen bij invoer;
+   - 2º. omzetbelasting bij invoer en accijnzen bij invoer;
 
-- 3º. verboden, beperkingen en toezicht inzake het grensoverschrijdende goederenverkeer ter bescherming van financiële, economische (landbouweconomische daaronder begrepen), culturele, veterinaire en fytosanitaire belangen en van de binnenlandse veiligheid, de openbare orde, de volksgezondheid en het milieu;
+   - 3º. verboden, beperkingen en toezicht inzake het grensoverschrijdende goederenverkeer ter bescherming van financiële, economische (landbouweconomische daaronder begrepen), culturele, veterinaire en fytosanitaire belangen en van de binnenlandse veiligheid, de openbare orde, de volksgezondheid en het milieu;
 
 - b. omzetbelasting, onderscheidenlijk accijnzen, anders dan bij invoer.
 
@@ -167,5 +140,3 @@ Deze regeling treedt in werking met ingang van het tijdstip waarop de [Rijkswet 
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Rijkswet administratieve bijstand douane.
-
-Deze regeling zal met de toelichting worden geplaatst in de Staatscourant, de Curaçaosche Courant en het Afkondigingsblad van Aruba.

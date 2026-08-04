@@ -1,47 +1,74 @@
 ---
 title: "Regeling stimuliering multimodaal en intermodaal transport 1998"
+citeertitel: "Promit-regeling 1998"
 identifier: "BWBR0009694"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-06-21"
-last_updated: "1998-06-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009694"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5003813"
-version_id: "8671662"
-internal_id: "C11223841"
-label_id: "4980354"
-dtd_version: "2.0"
-original_entry_into_force: "1998-06-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009694/1998-06-21/0"
-intitule_bron: "Stcrt.1998-113"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-06-15"
-intitule_published: "1998-06-19"
-intitule_in_force: "1998-06-19"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-113"
-original_signed_date: "1998-06-15"
-original_published_date: "1998-06-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-06-21"
-jci_1_3: "jci1.3:c:BWBR0009694&z=1998-06-21&g=1998-06-21"
-jci_1_0: "1.0:c:BWBR0009694&g=1998-06-21"
-citeertitel_status: "officieel"
-short_title: "Promit-regeling 1998"
-signed_date: "1998-06-15"
-entry_into_force: "1998-06-21"
+publicatiedatum: 1998-06-21
+laatste_update: 1998-06-21
+status: geldig
+toestand: 1998-06-21
+bron: "https://wetten.overheid.nl/BWBR0009694"
+opgehaald: 2026-08-04
 ---
+
 # Regeling stimuliering multimodaal en intermodaal transport 1998
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+De Minister:
+
+De Minister van Verkeer en Waterstaat;
+
+b.
+
+programmabeheerder:
+
+de organisatie die krachtens mandaat met de uitvoering van deze regeling is belast;
+
+c.
+
+haalbaarheidsproject:
+
+een samenhangend geheel van activiteiten, bestaande uit een analyse en een beoordeling van de mogelijkheden om een logistiek systeem of een verkeers- of vervoerstechniek te ontwikkelen of in de praktijk toe te passen;
+
+d.
+
+onderzoeks- of ontwikkelingsproject: een samenhangend geheel van activiteiten, gericht op:
+
+- 1) het vergroten van het technisch of wetenschappelijk inzicht omtrent een logistiek systeem of een verkeers- of vervoerstechniek, of
+
+- 2) het ontwikkelen of geschikt maken van een logistiek systeem of een verkeers- of vervoerstechniek voor toepassing in de praktijk, of
+
+- 3) het verbeteren van een ontwerp van logistiek systeem of een verkeers- of vervoerstechniek;
+
+e.
+
+praktijkexperiment:
+
+een samenhangend geheel van activiteiten, bestaande uit het treffen van technische of beheersmatige voorzieningen voor zover geheel of nagenoeg geheel bestemd voor het vergroten van het inzicht in de geschiktheid voor toepassing in de praktijk van een logistiek systeem of een verkeers- of vervoerstechniek, alsmede de daarmee samenhangende activiteiten die gericht zijn op het verbeteren van die geschiktheid;
+
+f.
+
+demonstratieproject:
+
+een samenhangend geheel van activiteiten die een technisch en economisch risico inhouden, bestaande uit het door de aanvrager toepassen van logistieke problemen of verkeers- of vervoerstech- nieken die voor Nederland nieuw zijn dan wel een nieuwe toepassing betekenen van deze systemen of technieken, alsmede de daarmee samenhangende activiteiten die gericht zijn op het demonstreren van voorzieningen en de daarmee behaalde resultaten, met inbegrip van het verstrekken van gegevens aan de programmabeheer-der ten behoeve van de verspreiding van kennis omtrent de aard en de resultaten van de voorzieningen;
+
+g.
+
+kennisoverdrachtproject:
+
+een samenhangend geheel van activiteiten, gericht op het overdragen van kennis en informatie, met name aan bedrijven en organisaties op het gebied van verkeer en vervoer;
+
+h.
+
+modal shift:
+
+verandering van vervoersmodaliteit ten gunste van energie- en milieuvriendelijker vervoerswijzen.
 
 ##### Artikel 2
 
@@ -53,17 +80,17 @@ In deze regeling wordt verstaan onder:
 
 - c. geheel of gedeeltelijk in Nederland worden uitgevoerd in samenwerking tussen tenminste één van de volgende marktpartijen:
 
-- in Nederland gevestigde vervoers- en verladersbedrijven;
+   - in Nederland gevestigde vervoers- en verladersbedrijven;
 
-- in Nederland gevestigde toeleveranciers aan deze bedrijven;
+   - in Nederland gevestigde toeleveranciers aan deze bedrijven;
 
-- en tenminste één van de volgende onderzoekspartijen:
+   - en tenminste één van de volgende onderzoekspartijen:
 
-- ingenieurs- en adviesbureaus die actief zijn op logistiek gebied;
+   - ingenieurs- en adviesbureaus die actief zijn op logistiek gebied;
 
-- instellingen voor wetenschappelijk onderwijs;
+   - instellingen voor wetenschappelijk onderwijs;
 
-- instellingen voor wetenschappelijk of toegepast onderzoek.
+   - instellingen voor wetenschappelijk of toegepast onderzoek.
 
 2. De mate waarin wordt bijgedragen aan de in de eerste lid bedoelde bevordering van de modal shift wordt bepaald aan de hand van de volgende criteria:
 
@@ -71,11 +98,11 @@ In deze regeling wordt verstaan onder:
 
 - b. de slagingskans van het project, te beoordelen op basis van de volgende elementen:
 
-- technische haalbaarheid;
+   - technische haalbaarheid;
 
-- organisatorische haalbaarheid;
+   - organisatorische haalbaarheid;
 
-- economische haalbaarheid;
+   - economische haalbaarheid;
 
 - c. de innovatieve waarde van het project, te beoordelen naar de mate waarin sprake is van het toepassen van nieuwe of vernieuwende systemen en technieken dan wel het geven van een nieuwe of vernieuwende toepassing van bestaande systemen en technieken;
 
@@ -89,11 +116,11 @@ Een project behoort tot de categorie Nieuwe toetreders tot het spoor indien:
 
 - b. bij de opdracht tot uitvoering van het project een onderneming is betrokken die:
 
-- 1). in het bezit is van een door de Minister van Verkeer en Waterstaat afgegeven erkenning als spoorbedrijf;
+   - 1) in het bezit is van een door de Minister van Verkeer en Waterstaat afgegeven erkenning als spoorbedrijf;
 
-- 2). een aanvraag tot toelating bij Railned b.v. heeft ingediend en de procedure tot toelating op het spoor is gestart, en
+   - 2) een aanvraag tot toelating bij Railned b.v. heeft ingediend en de procedure tot toelating op het spoor is gestart, en
 
-- 3). een businessplan heeft opgesteld met betrekking tot de te ontwikkelen spoorvervoeractiviteiten, inclusief de financiële onderbouwing daarvan.
+   - 3) een businessplan heeft opgesteld met betrekking tot de te ontwikkelen spoorvervoeractiviteiten, inclusief de financiële onderbouwing daarvan.
 
 ##### Artikel 4
 
@@ -161,7 +188,11 @@ Het subsidieplafond dat aan het toekennen van subsidies ingevolge deze regeling 
 
 NOVEM
 
-Postbus 8242 3502 RE Utrecht tel. 030 - 2393493
+Postbus 8242
+
+3502 RE Utrecht
+
+tel. 030 - 2393493
 
 4. Een aanvraag wordt ingediend met gebruikmaking van een bij de programmabeheerder verkrijgbaar aanvraagformulier en gaat vergezeld van de in het formulier aangegeven bewijsstukken en gegevens.
 

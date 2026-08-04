@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0051196"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van het College voor toetsen en examens van 23 juni 2025, nr. CvTE-25.00950, houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2027 (Rooster voor de centrale examens voortgezet onderwijs in 2027)

@@ -1,64 +1,65 @@
 ---
 title: "Geweldsinstructie penitentiaire inrichtingen"
 identifier: "BWBR0010095"
-categorie: "Overig"
-publicatiedatum: 2026-02-05
-laatste_update: 2026-02-05
+categorie: "Strafrecht"
+soort: "ministeriele-regeling"
+publicatiedatum: 2026-06-16
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0010095"
+opgehaald: 2026-08-04
 ---
 
 # Geweldsinstructie penitentiaire inrichtingen
 
-Gelet op [artikel 35, vierde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=35);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 19 mei 1998 (nr. 697460/98);
-
-Besluit:
-
-#### Artikel 1
+##### Artikel 1
 
 In deze instructie wordt verstaan onder:
 
-- a. **meerdere:** de ambtenaar of medewerker die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel geeft over de taakuitvoering;
+- a. *meerdere:* de ambtenaar of medewerker die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel geeft over de taakuitvoering;
 
-- b. **selectiefunctionaris:** een persoon belast met de plaatsing en overplaatsing van gedetineerden als bedoeld in [artikel 15, derde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15);
+- b. *selectiefunctionaris:* een persoon belast met de plaatsing en overplaatsing van gedetineerden als bedoeld in [artikel 15, derde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15);
 
-- c. **eenheid:** een eenheid bij de Landelijke Bijzondere Bijstandseenheid van het onderdeel Landelijke Dienst Specialistische Taken van de Dienst Vervoer en Ondersteuning van de Dienst Justitiële Inrichtingen;
+- c. *eenheid:* een eenheid bij de Landelijke Bijzondere Bijstandseenheid van het onderdeel Landelijke Dienst Specialistische Taken van de Dienst Vervoer en Ondersteuning van de Dienst Justitiële Inrichtingen;
 
-- d. **geweld:** elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
+- d. *geweld:* elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
 
-- e. **aanwenden van geweld:** het gebruiken van geweld of het dreigen met geweld, waaronder niet wordt begrepen het uit voorzorg ter hand nemen van een vuurwapen;
+- e. *aanwenden van geweld:* het gebruiken van geweld of het dreigen met geweld, waaronder niet wordt begrepen het uit voorzorg ter hand nemen van een vuurwapen;
 
-- f. **geweldsmiddel:**
+- f. *geweldsmiddel:*
 
-- 1°. het semi-automatische schoudervuurwapen SIG SAUER MCX RATTLER, kaliber 7.62 x 35 millimeter;
+   - 1°. het semi-automatische schoudervuurwapen SIG SAUER MCX RATTLER, kaliber 7.62 x 35 millimeter;
 
-- 2°. het semi-automatische schoudervuurwapen FN SCAR, kaliber 7.62 x 35 millimeter;
+   - 2°. het semi-automatische schoudervuurwapen FN SCAR, kaliber 7.62 x 35 millimeter;
 
-- 3°. een semi-automatisch pistool van het merk Walther P99Q, kaliber 9 millimeter maal 19 millimeter;
+   - 3°. een semi-automatisch pistool van het merk Walther P99Q, kaliber 9 millimeter maal 19 millimeter;
 
-- 4°. een korte of lange wapenstok van een door de Minister van Justitie goedgekeurd merk en type;
+   - 4°. een korte of lange wapenstok van een door de Minister van Justitie goedgekeurd merk en type;
 
-- 5°. CS-traangasgranaten of traangasverspreidende middelen van een door de Minister van Justitie goedgekeurd merk en type;
+   - 5°. CS-traangasgranaten of traangasverspreidende middelen van een door de Minister van Justitie goedgekeurd merk en type;
 
-- 6°. pepperspray van een door de Minister van Justitie goedgekeurd merk en type.
+   - 6°. pepperspray van een door de Minister van Justitie goedgekeurd merk en type;
 
-- g. **vrijheidsbeperkende middelen:**
+   - 7°. een apparaat waarmee een onbemand mobiel object kan worden gestopt of worden beïnvloed teneinde een dreiging of mogelijke dreiging ten aanzien van de orde en veiligheid in en rondom de inrichting af te wenden.
 
-- 1°. handboeien van een door de Minister voor Rechtsbescherming goedgekeurd merk en type;
+- g. *vrijheidsbeperkende middelen:*
 
-- 2°. een broekstok;
+   - 1°. handboeien van een door de Minister voor Rechtsbescherming goedgekeurd merk en type;
 
-- 3°. middelen als bedoeld in de bijlage bij de Regeling toepassing mechanische middelen;
+   - 2°. een broekstok;
 
-- 4°. Blinderingsmiddelen van een door de Minister voor Rechtsbescherming goedgekeurd merk en type.
+   - 3°. middelen als bedoeld in de bijlage bij de Regeling toepassing mechanische middelen;
 
-- h. **het gebruik van een vuurwapen:** het trekken, het uit voorzorg ter hand nemen, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
+   - 4°. Blinderingsmiddelen van een door de Minister voor Rechtsbescherming goedgekeurd merk en type.
 
-- i. **vuurwapen:** een geweldsmiddel als bedoeld in artikel 1, onderdeel f, onder 1, 2 en 3.
+- h. *het gebruik van een vuurwapen:* het trekken, het uit voorzorg ter hand nemen, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
 
-#### Artikel 2
+- i. *vuurwapen:* een geweldsmiddel als bedoeld in artikel 1, onderdeel f, onder 1, 2 en 3;
+
+- j. *onbemand mobiel object:* een zich autonoom of op afstand bestuurd, verplaatsend object waaronder drones, robots, voertuigen en (lucht)vaartuigen;
+
+##### Artikel 2
 
 1. Het gebruik van een geweldsmiddel is uitsluitend toegestaan aan een daartoe door de directeur aangewezen ambtenaar of medewerker:
 
@@ -70,19 +71,19 @@ In deze instructie wordt verstaan onder:
 
 2. Aan het gebruik van een geweldmiddel gaat zo mogelijk een waarschuwing vooraf.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De inrichtingsdirecteur stelt een voor zijn inrichting geldende dienstinstructie voor het personeel vast.
 
-2. De directeur geeft daarin aan onder welke omstandigheden, welke ambtenaren of medewerkers bevoegd zijn, binnen en buiten de inrichting, jegens een gedetineerde geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden en van welk geweldsmiddel dan wel vrijheidsbeperkend middel daarbij gebruik mag worden gemaakt.
+2. De directeur geeft daarin aan onder welke omstandigheden, welke ambtenaren of medewerkers bevoegd zijn, binnen en buiten de inrichting, jegens een gedetineerde of zaak geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden en van welk geweldsmiddel dan wel vrijheidsbeperkend middel daarbij gebruik mag worden gemaakt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De directeur of de daartoe door hem aangewezen ambtenaar of medewerker kan de eenheid inzetten.
 
 2. De ambtenaar of medewerker zet de eenheid slechts in na toestemming van de directeur.
 
-#### Artikel 5
+##### Artikel 5
 
 Het gebruik van een semi-automatisch pistool is slechts geoorloofd:
 
@@ -94,17 +95,21 @@ Het gebruik van een semi-automatisch pistool is slechts geoorloofd:
 
 - d. ter afwending van direct gevaar voor het leven van personen of het ontstaan van zwaar lichamelijk letsel.
 
-#### Artikel 6
+##### Artikel 5a
+
+Het gebruik van een semi-automatisch schoudervuurwapen is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
+
+##### Artikel 6
 
 De ambtenaar of medewerker mag in verband met zijn eigen veiligheid of die van anderen slechts uit voorzorg een vuurwapen ter hand nemen indien redelijkerwijs kan worden aangenomen dat een situatie ontstaat waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het vuurwapen terstond opgeborgen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De ambtenaar of medewerker geeft onmiddellijk voordat hij gericht met een vuurwapen zal schieten een waarschuwing. De waarschuwing kan worden vervangen door een waarschuwingsschot, wanneer omstandigheden de waarschuwing niet toelaten.
 
 2. Een waarschuwingsschot moet op zodanige wijze worden afgevuurd dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het gebruik van CS-traangas is slechts geoorloofd:
 
@@ -116,37 +121,7 @@ De ambtenaar of medewerker mag in verband met zijn eigen veiligheid of die van a
 
 3. De directeur die bevel geeft tot het verspreiden van CS-traangas geeft bij dit bevel aan hoeveel CS-traangasgranaten worden gebruikt.
 
-#### Artikel 9
-
-1. De ambtenaar of medewerker die geweld heeft gebruikt of vrijheidsbeperkende middelen heeft aangewend, meldt dit onverwijld schriftelijk aan de directeur van de betrokken inrichting of de selectiefunctionaris. De schriftelijke melding dient duidelijkheid te verschaffen over de redenen die tot het aanwenden van geweld hebben geleid, de daaruit voortvloeiende gevolgen en op wiens last dit aanwenden van geweld heeft plaatsgevonden.
-
-2. Indien de aanwending van het geweld bij een gedetineerde heeft geleid tot lichamelijk letsel van meer dan geringe betekenis en in alle gevallen waarin van een vuurwapen, een wapenstok of CS-traangasgranaten of traangasverspreidende middelen gebruik is gemaakt, dient deze melding tevens ter kennis te worden gebracht van het hoofd van de Dienst Justitiële Inrichtingen en het Openbaar Ministerie. De directeur van de betrokken inrichting of de selectiefunctionaris dient in een dergelijk geval tevens zo spoedig mogelijk schriftelijk advies in te winnen bij een arts.
-
-3. De melding, bedoeld in het eerste en tweede lid, geschiedt in de vorm van een rapport indien:
-
-- a. de gevolgen van het aangewende geweld daartoe, naar het oordeel van de meerdere, aanleiding geven, of
-
-- b. gebruik is gemaakt van enig geweldsmiddel en lichamelijk letsel dan wel de dood veroorzaakt is.
-
-#### Artikel 10
-
-De ambtenaar of medewerker kan een gedetineerde ten behoeve van het vervoer, een broekstok, of ten behoeve van het vervoer of interne verplaatsing, handboeien aanleggen.
-
-#### Artikel 11
-
-Deze regeling wordt aangehaald als: Geweldsinstructie penitentiaire inrichtingen.
-
-#### Artikel 12
-
-Deze regeling treedt in werking op 1 januari 1999.
-
-#### Artikel 13
-
-De Geweldsinstructie gestichtspersoneel van 25 mei 1966, nr. GW 12, met de bijbehorende handleiding van 30 juni 1966, van de Directie Gevangeniswezen/ Bureau Beveiliging, de besluiten van 31 mei 1985, nr.195/ P385, van de Directie Gevangeniswezen, Staf. J.Z., tot wijziging van de Geweldsinstructie gestichtspersoneel, en het besluit van 19 maart 1991, nr. 47988/91 DJ, van de Dir. D&J, worden ingetrokken.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Artikel 8a
+##### Artikel 8a
 
 1. Het gebruik van pepperspray is slechts geoorloofd voorzover dit noodzakelijk is ter aanhouding van een gedetineerde indien redelijkerwijs mag worden aangenomen dat hij ernstig geweld tegen personen zal gebruiken.
 
@@ -166,16 +141,56 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De ambtenaar of medewerker die pepperspray heeft gebruikt is verantwoordelijk voor het verlenen van nazorg.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 8b
 
-#### Artikel 10a
+1. Het gebruik van een apparaat, bedoeld in [artikel 1, onderdeel f, onder 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0010095&artikel=1&z=2026-07-01&g=2026-07-01), jegens een onbemand mobiel object is slechts geoorloofd boven, op dan wel onder het terrein van:
+
+- a. de extra beveiligde inrichting, bedoeld in [artikel 13, eerste lid, onder d, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=13);
+
+- b. de uitgebreid beveiligde inrichting, bedoeld in [artikel 13, eerste lid, onder c, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=13); of
+
+- c. de op het terrein van een inrichting aanwezige extra beveiligde zittingszaal.
+
+##### Artikel 8c
+
+1. Indien een onbemand mobiel object wordt gesignaleerd, dan wordt op basis van de op dat moment beschikbare informatie onverwijld een inschatting gemaakt van het gevaarzettende of ongeoorloofde karakter van de (dreigende) aanwezigheid van het onbemande mobiele object en van de aard en ernst van de dreiging of het gevaar voor de orde en veiligheid in en rondom de inrichting. De eventuele inzet van een apparaat, bedoeld in[artikel 1, onderdeel f, onder 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0010095&artikel=1&z=2026-07-01&g=2026-07-01) vindt vervolgens pas plaats indien er geen andere, minder ingrijpende toereikende middelen zijn om de dreiging te stoppen.
+
+2. De inzet van een apparaat bedoeld in [artikel 1, onderdeel f, onder 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0010095&artikel=1&z=2026-07-01&g=2026-07-01), vergt een afgewogen beslissing van de ambtenaar. De ambtenaar neemt bij zijn beslissing in elk geval het volgende in acht:
+
+- a. Bij de inzet van een apparaat bedoeld in [artikel 1, onderdeel f, onder 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0010095&artikel=1&z=2026-07-01&g=2026-07-01) wordt gekozen voor het minst ingrijpende toereikende middel, dat voorts in redelijke verhouding staat tot het beoogde doel, te weten het bewaren van de orde en veiligheid in en rondom de inrichting, dan wel mogelijke bedreigingen daarvan te bestrijden;
+
+- b. Bij de inzet van een apparaat bedoeld in [artikel 1, onderdeel f, onder 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0010095&artikel=1&z=2026-07-01&g=2026-07-01), wordt tevens een inschatting gemaakt van mogelijk letsel bij personen of de schade aan zaken die als voorzienbaar gevolg kunnen optreden door de inzet van het gekozen middel. De ingeschatte gevolgen moeten in redelijke verhouding staan tot het beoogde doel, te weten het bewaren van de orde en veiligheid ten aanzien van de inrichting, dan wel mogelijke bedreigingen daarvan te bestrijden;
+
+- c. De eventuele instructies die door het bevoegde gezag zijn verschaft, worden bij de inzet van een apparaat bedoeld in [artikel 1, onderdeel f, onder 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0010095&artikel=1&z=2026-07-01&g=2026-07-01), in acht genomen.
+
+##### Artikel 9
+
+1. De ambtenaar of medewerker die geweld heeft gebruikt of vrijheidsbeperkende middelen heeft aangewend, meldt dit onverwijld schriftelijk aan de directeur van de betrokken inrichting of de selectiefunctionaris. De schriftelijke melding dient duidelijkheid te verschaffen over de redenen die tot het aanwenden van geweld hebben geleid, de daaruit voortvloeiende gevolgen en op wiens last dit aanwenden van geweld heeft plaatsgevonden.
+
+2. Indien de aanwending van het geweld bij een gedetineerde heeft geleid tot lichamelijk letsel van meer dan geringe betekenis en in alle gevallen waarin van een vuurwapen, een wapenstok of CS-traangasgranaten of traangasverspreidende middelen gebruik is gemaakt, dient deze melding tevens ter kennis te worden gebracht van het hoofd van de Dienst Justitiële Inrichtingen en het Openbaar Ministerie. De directeur van de betrokken inrichting of de selectiefunctionaris dient in een dergelijk geval tevens zo spoedig mogelijk schriftelijk advies in te winnen bij een arts.
+
+3. De melding, bedoeld in het eerste en tweede lid, geschiedt in de vorm van een rapport indien:
+
+- a. de gevolgen van het aangewende geweld daartoe, naar het oordeel van de meerdere, aanleiding geven, of
+
+- b. gebruik is gemaakt van enig geweldsmiddel en lichamelijk letsel dan wel de dood veroorzaakt is.
+
+##### Artikel 10
+
+De ambtenaar of medewerker kan een gedetineerde ten behoeve van het vervoer, een broekstok, of ten behoeve van het vervoer of interne verplaatsing, handboeien aanleggen.
+
+##### Artikel 10a
 
 De ambtenaar of medewerker kan een gedetineerde ten behoeve van het vervoer met een verhoogd veiligheidsrisico, van een blinderingsmiddel voorzien.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 11
 
-#### Artikel 5a
+Deze regeling wordt aangehaald als: Geweldsinstructie penitentiaire inrichtingen.
 
-Het gebruik van een semi-automatisch schoudervuurwapen is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
+##### Artikel 12
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking op 1 januari 1999.
+
+##### Artikel 13
+
+De Geweldsinstructie gestichtspersoneel van 25 mei 1966, nr. GW 12, met de bijbehorende handleiding van 30 juni 1966, van de Directie Gevangeniswezen/ Bureau Beveiliging, de besluiten van 31 mei 1985, nr.195/ P385, van de Directie Gevangeniswezen, Staf. J.Z., tot wijziging van de Geweldsinstructie gestichtspersoneel, en het besluit van 19 maart 1991, nr. 47988/91 DJ, van de Dir. D&J, worden ingetrokken.

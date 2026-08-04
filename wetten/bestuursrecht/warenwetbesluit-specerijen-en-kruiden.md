@@ -1,54 +1,22 @@
 ---
 title: "Besluit van 7 april 1998, houdende het Warenwetbesluit Specerijen en kruiden"
+citeertitel: "Warenwetbesluit Specerijen en kruiden"
 identifier: "BWBR0009540"
-country: "nl"
-rank: "amvb"
-publication_date: "2016-02-19"
-last_updated: "2016-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009540"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "796213"
-version_id: "1154272"
-internal_id: "C1154271"
-label_id: "771254"
-dtd_version: "2.0"
-original_entry_into_force: "1998-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009540/2016-02-19/0"
-intitule_bron: "Stb.1998-258"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-04-07"
-intitule_published: "1998-05-01"
-intitule_in_force: "1998-05-01"
-intitule_status: "goed"
-original_publication: "Stb.1998-258"
-original_signed_date: "1998-04-07"
-original_published_date: "1998-05-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1998-258"
-entry_into_force_date: "1998-05-01"
-jci_1_3: "jci1.3:c:BWBR0009540&z=2016-02-19&g=2016-02-19"
-jci_1_0: "1.0:c:BWBR0009540&g=2016-02-19"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit Specerijen en kruiden"
-signed_date: "1998-04-07"
-entry_into_force: "1998-05-01"
+publicatiedatum: 1998-05-01
+laatste_update: 2016-02-19
+status: geldig
+toestand: 2016-02-19
+bron: "https://wetten.overheid.nl/BWBR0009540"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 7 april 1998, houdende het Warenwetbesluit Specerijen en kruiden
-
-Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 september 1997, nr. GZB/VVB/975145, gedaan in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
-
-Gelet op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), eerste lid, onder b, [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), onder b, en [artikel 12 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12), alsmede op artikel II, eerste lid, van de Wijzigingswet 1988 [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969);
-
-De Raad van State gehoord (advies van 18 november 1997, no. W13.97.0623);
-
-Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 27 maart 1998 met nummer GZB/VVB/981404, uitgebracht in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder **specerijen** en **kruiden**: eetwaren, zijnde delen van planten die aromatisch smaken of ruiken dan wel een scherpe smaak bezitten, en die bestemd zijn om aan eet- en drinkwaren te worden toegevoegd.
+In dit besluit wordt verstaan onder *specerijen* en *kruiden*: eetwaren, zijnde delen van planten die aromatisch smaken of ruiken dan wel een scherpe smaak bezitten, en die bestemd zijn om aan eet- en drinkwaren te worden toegevoegd.
 
 ##### Artikel 2
 
@@ -111,5 +79,3 @@ Dit besluit treedt in werking met ingang van 1 mei 1998.
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Specerijen en kruiden.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

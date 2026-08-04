@@ -1,51 +1,22 @@
 ---
 title: "Wet van 22 december 1999 tot wijziging van de Mediawet in verband met nieuwe regels omtrent de financiering van de publieke omroep (afschaffing omroepbijdrage)"
+citeertitel: "Wijzigingswet Mediawet (afschaffing omroepbijdrage)"
 identifier: "BWBR0011027"
-country: "nl"
-rank: "wet"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011027"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1190053"
-version_id: "1754782"
-internal_id: "C1754781"
-label_id: "1152764"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011027/2002-01-01/0"
-intitule_bron: "Stb.1999-573"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-22"
-intitule_published: "1999-12-28"
-intitule_in_force: "1999-12-28"
-intitule_status: "goed"
-original_publication: "Stb.1999-573"
-original_signed_date: "1999-12-22"
-original_published_date: "1999-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "26707"
-original_url_id: "stb-1999-573"
-entry_into_force_date: "2000-01-01"
-jci_1_3: "jci1.3:c:BWBR0011027&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0011027&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Mediawet (afschaffing omroepbijdrage)"
-signed_date: "1999-12-22"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0011027"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 22 december 1999 tot wijziging van de Mediawet in verband met nieuwe regels omtrent de financiering van de publieke omroep (afschaffing omroepbijdrage)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is nieuwe regels te stellen omtrent de financiering van de publieke omroep en daartoe de Mediawet te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### ARTIKEL I
 
-Wijzigt de Mediawet.
+*Wijzigt de Mediawet.*
 
 ##### ARTIKEL II
 
@@ -83,7 +54,7 @@ Degene aan wie overeenkomstig [artikel 118, derde tot en met vijfde lid, van de 
 
 ##### ARTIKEL VIII
 
-Wijzigt de Mediawet.
+*Wijzigt de Mediawet.*
 
 ##### ARTIKEL IX
 
@@ -94,5 +65,3 @@ Wijzigt de Mediawet.
 ##### ARTIKEL X
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij terugwerkende kracht kan worden verleend tot en met een daarbij te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

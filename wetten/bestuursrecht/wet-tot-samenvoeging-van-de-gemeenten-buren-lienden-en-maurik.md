@@ -1,48 +1,18 @@
 ---
 title: "Wet van 18 juni 1998 tot samenvoeging van de gemeenten Buren, Lienden en Maurik"
+citeertitel: "Wet tot samenvoeging van de gemeenten Buren, Lienden en Maurik"
 identifier: "BWBR0009708"
-country: "nl"
-rank: "wet"
-publication_date: "1998-07-15"
-last_updated: "1998-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009708"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "860683"
-version_id: "1250492"
-internal_id: "C1250491"
-label_id: "833994"
-dtd_version: "2.0"
-original_entry_into_force: "1998-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009708/1998-07-15/0"
-intitule_bron: "Stb.1998-415"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-06-18"
-intitule_published: "1998-07-14"
-intitule_in_force: "1998-07-14"
-intitule_status: "goed"
-original_publication: "Stb.1998-415"
-original_signed_date: "1998-06-18"
-original_published_date: "1998-07-14"
-original_effect: "nieuwe-regeling"
-original_dossier: "25656"
-original_url_id: "stb-1998-415"
-entry_into_force_date: "1998-07-15"
-entry_into_force_dossier: "25656"
-jci_1_3: "jci1.3:c:BWBR0009708&z=1998-07-15&g=1998-07-15"
-jci_1_0: "1.0:c:BWBR0009708&g=1998-07-15"
-citeertitel_status: "officieel"
-short_title: "Wet tot samenvoeging van de gemeenten Buren, Lienden en Maurik"
-signed_date: "1998-06-18"
-entry_into_force: "1998-07-15"
+publicatiedatum: 1998-07-15
+laatste_update: 1998-07-15
+status: geldig
+toestand: 1998-07-15
+bron: "https://wetten.overheid.nl/BWBR0009708"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 18 juni 1998 tot samenvoeging van de gemeenten Buren, Lienden en Maurik
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Buren, Lienden en Maurik samen te voegen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. Opheffing en instelling van gemeenten
 
@@ -82,15 +52,15 @@ Voor de op te heffen gemeenten Buren, Lienden en Maurik wordt de nieuwe gemeente
 
 ##### Artikel 7
 
-Wizjigt de Kieswet.
+*Wizjigt de Kieswet.*
 
 ##### Artikel 8
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 9
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 10
 
@@ -101,7 +71,3 @@ Wijzigt de Politiewet 1993.
 ##### Artikel 11
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-## Kaart. genoemd in artikel 2 van de wet tot samenvoeging van de gemeenten Buren, Lienden en Maurik
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

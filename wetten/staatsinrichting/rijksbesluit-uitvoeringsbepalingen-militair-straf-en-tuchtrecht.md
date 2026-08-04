@@ -1,52 +1,18 @@
 ---
 title: "Rijksbesluit van 25 november 1999, houdende regels met betrekking tot de uitvoeringsbepalingen ingevolge het Wetboek van Militair Strafrecht, de Wet militair tuchtrecht en de Wet militaire strafrechtspraak (Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht)"
+citeertitel: "Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht"
 identifier: "BWBR0010902"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010902"
+categorie: "Strafrecht"
 soort: "rijksKB"
-stam_id: "1181353"
-version_id: "1743982"
-internal_id: "C1743981"
-label_id: "1144794"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010902/2017-01-01/0"
-intitule_bron: "Stb.1999-497"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-11-25"
-intitule_published: "1999-11-30"
-intitule_in_force: "1999-11-30"
-intitule_status: "goed"
-original_publication: "Stb.1999-497"
-original_signed_date: "1999-11-25"
-original_published_date: "1999-11-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1999-497"
-entry_into_force_date: "2000-01-01"
-jci_1_3: "jci1.3:c:BWBR0010902&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0010902&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht"
-signed_date: "1999-11-25"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0010902"
+opgehaald: 2026-08-04
 ---
+
 # Rijksbesluit van 25 november 1999, houdende regels met betrekking tot de uitvoeringsbepalingen ingevolge het Wetboek van Militair Strafrecht, de Wet militair tuchtrecht en de Wet militaire strafrechtspraak (Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht)
-
-Op de voordracht van de Staatssecretaris van Defensie van 14 juli 1999, nr. CST99/0117/016 99002114, directie juridische zaken, gedaan mede namens Onze Minister van Justitie;
-
-Gelet op de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=21), [36b](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=36b), [44a](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=44a), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=59), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=71) en [135 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=135), de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=46), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=65), [80p](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=80p), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=92), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=98), [103](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=103) en [105 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=105) en de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=6), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=11), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=18), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=33), en [61 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=61);
-
-De Raad van State van het Koninkrijk gehoord (advies van 18 oktober 1999);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 24 november 1999, nr. CST 99/0117/016 99.003153 uitgebracht mede namens Onze Minister van Justitie;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Nadere bepalingen met betrekking tot het Wetboek van militair strafrecht
 
@@ -116,7 +82,7 @@ Hebben goedgevonden en verstaan:
 
 2. Indien het strafbare feit is begaan in deelneming met een of meer personen op wie uitsluitend het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) van het Europese deel van Nederland van toepassing is, oefent de bevelvoerende militair zijn bevoegdheid slechts uit na verkregen toestemming van de officier van justitie bij het in [artikel 55, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55) genoemde gerecht.
 
-3. In de strafbeschikking worden enkel een geldboete of een verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer opgelegd. De strafbeschikking kan in totaal ten hoogste een betalingsverplichting van € 2.000 inhouden.
+3. In de strafbeschikking worden enkel een geldboete of een verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer opgelegd. De strafbeschikking kan in totaal ten hoogste een betalingsverplichting van € 2.000 inhouden.
 
 4. De strafbeschikking vermeldt, in aanvulling op de gegevens, bedoeld in [artikel 257a, zesde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) van het Europees deel van Nederland, de naam en rang van de bevelvoerende militair die de strafbeschikking uitvaardigt.
 
@@ -156,8 +122,6 @@ Hebben goedgevonden en verstaan:
 
 4. De commandanten van de operationele commando’s doen op de door Onze Minister van Veiligheid en Justitie te bepalen wijze opgave van de verstrekking en het beheer van de betalingsbewijzen, de afrekening en de verantwoording van de ontvangen gelden alsmede de in verband daarmee te voeren administratie.
 
-#### § 5. Bekendmaking «tijd van oorlog»
-
 ##### Artikel 8
 
 1. De officier van justitie, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=I&paragraaf=4&artikel=5&z=2017-01-01&g=2017-01-01), draagt zorg dat de krachtens [artikel 59, eerste lid, van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=59) aangewezen bevelvoerende militairen door tussenkomst van de commandanten van de operationele commando's in het bezit worden gesteld van de richtlijnen, bedoeld in artikel 59, derde lid, van het Wetboek van Militair Strafrecht, waarin per delictscategorie de geldboetebedragen worden aangegeven. Aan de betrokken personen verleent de bevelvoerende militair ter gelegenheid van de uitoefening van de bevoegdheid, bedoeld in artikel 5, desgevraagd inzage in de richtlijn.
@@ -168,7 +132,7 @@ Hebben goedgevonden en verstaan:
 
 4. Indien de redenen van de opschorting zijn vervallen, doet de officier van justitie de commandanten van de betrokken operationele commando's daarvan onverwijld schriftelijk mededeling. Deze dragen zorg dat deze mededeling de betrokken bevelvoerende militairen onverwijld bereikt.
 
-#### § 6. Dienstvoorschriften
+#### § 5. Dienstvoorschriften
 
 ##### Artikel 9
 
@@ -218,9 +182,9 @@ Herstel van het geleden nadeel ingeval een beklag of beroep over de wijze van te
 
 - b. indien het betreft een beklag of beroep over de wijze van tenuitvoerlegging van een straf van uitgaansverbod:
 
-- 1E. en de straf is ondergaan op een vrije dag: voor iedere dag waarop de wijze van tenuitvoerlegging niet passend wordt geacht, wordt een vergoeding in vrije tijd voor de duur van twee uren toegekend;
+   - 1E. en de straf is ondergaan op een vrije dag: voor iedere dag waarop de wijze van tenuitvoerlegging niet passend wordt geacht, wordt een vergoeding in vrije tijd voor de duur van twee uren toegekend;
 
-- 2E. en de straf is ondergaan op een werkdag: voor iedere dag waarop de wijze van tenuitvoerlegging niet passend wordt geacht, wordt een vergoeding in vrije tijd voor de duur van een uur toegekend.
+   - 2E. en de straf is ondergaan op een werkdag: voor iedere dag waarop de wijze van tenuitvoerlegging niet passend wordt geacht, wordt een vergoeding in vrije tijd voor de duur van een uur toegekend.
 
 ##### Artikel 13
 
@@ -320,13 +284,13 @@ Het is de met arrest gestrafte krijgsgevangene verboden de plaats waar hij zijn 
 
 Het bevelsgebied, bedoeld in [artikel 17, eerste lid, van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=17), van de commandant der zeemacht in het Caraïbisch gebied beslaat het grond- en watergebied van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba en het zeegebied van de Atlantische Oceaan, de Caraïbische Zee en de Golf van Mexico begrensd:
 
-- –. ten noorden door: de parallel van 35 graden noorderbreedte;
+- – ten noorden door: de parallel van 35 graden noorderbreedte;
 
-- –. ten oosten door: de meridiaan van 51 graden westerlengte vanaf de parallel van 35 graden noorderbreedte tot de evenaar;
+- – ten oosten door: de meridiaan van 51 graden westerlengte vanaf de parallel van 35 graden noorderbreedte tot de evenaar;
 
-- –. ten zuiden door: de evenaar;
+- – ten zuiden door: de evenaar;
 
-- –. ten westen door: de meridiaan van 100 graden westerlengte vanaf de parallel van 35 graden noorderbreedte tot de evenaar.
+- – ten westen door: de meridiaan van 100 graden westerlengte vanaf de parallel van 35 graden noorderbreedte tot de evenaar.
 
 #### § 3. Reis- en verblijfskostenvergoeding voor de officier-raadsman en voor de verdachte
 
@@ -346,7 +310,7 @@ Voorzover aan de opsporingsambtenaren, bedoeld in de [artikelen 141](https://wet
 
 - a. [het eerste of het tweede lid van artikel 8 van de Nederlandse Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8);
 
-- b. [artikel 163](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=163) of [164 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=164) dan wel;
+- b. [artikel 163](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=163) of [164 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=164) dan wel;
 
 - c. met de onder a en b genoemde bepalingen overeenkomende voorschriften van de wegenverkeerswetgeving van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
@@ -369,33 +333,3 @@ Dit besluit treedt in werking op het tijdstip dat de [Rijkswet van 2 juni 1999 t
 ##### Artikel 29
 
 Dit besluit wordt aangehaald als: Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
-
-#### § 5. Dienstvoorschriften
-
-### Hoofdstuk II. Nadere bepalingen met betrekking tot de Wet militair tuchtrecht
-
-#### § 1. Tuchtrechtelijke geldboete
-
-#### § 2. Vergoeding voor advocaat, getuige en deskundige
-
-#### § 3. Herstel geleden nadeel
-
-#### § 4. Bewaring van en klachten ten aanzien van ingenomen voorwerpen en geschriften
-
-#### § 5. Uitvoering tuchtstraffen opgelegd aan krijgsgevangenen
-
-### Hoofdstuk III. Nadere bepalingen met betrekking tot de Wet militaire strafrechtspraak
-
-#### § 1. Reis- en verblijfskosten, eedsaflegging en tenue van de militaire leden
-
-#### § 2. Bevelsgebied commandant der zeemacht in het Caraïbisch gebied
-
-#### § 3. Reis- en verblijfskostenvergoeding voor de officier-raadsman en voor de verdachte
-
-#### § 4. Bevoegdheden van de opsporingsambtenaren buiten het Koninkrijk
-
-### Hoofdstuk IV. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.

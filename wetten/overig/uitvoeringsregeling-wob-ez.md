@@ -1,46 +1,35 @@
 ---
 title: "Uitvoeringsregeling Wob EZ"
 identifier: "BWBR0009758"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-04-04"
-last_updated: "2001-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009758"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4699073"
-version_id: "6515592"
-internal_id: "C6973041"
-label_id: "4677444"
-dtd_version: "2.0"
-original_entry_into_force: "1998-07-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009758/2001-04-04/0"
-intitule_bron: "Stcrt.1998-126"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-07-03"
-intitule_published: "1998-07-08"
-intitule_in_force: "1998-07-08"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-126"
-original_signed_date: "1998-07-03"
-original_published_date: "1998-07-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-07-10"
-jci_1_3: "jci1.3:c:BWBR0009758&z=2001-04-04&g=2001-04-04"
-jci_1_0: "1.0:c:BWBR0009758&g=2001-04-04"
-citeertitel_status: "officieel"
-signed_date: "1998-07-03"
-entry_into_force: "1998-07-10"
+publicatiedatum: 1998-07-10
+laatste_update: 2001-04-04
+status: geldig
+toestand: 2001-04-04
+bron: "https://wetten.overheid.nl/BWBR0009758"
+opgehaald: 2026-08-04
 ---
-# Uitvoeringsregeling Wob EZ
 
-Besluit:
+# Uitvoeringsregeling Wob EZ
 
 ### Hoofdstuk I. Definities
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+de wet:
+
+de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252);
+
+gemachtigd ambtenaar:
+
+een ambtenaar die door de minister tot het beslissen over verzoeken om informatie is gemachtigd;
+
+informatiepunt:
+
+een persoon of een plaats binnen het ministerie en binnen de daaronder ressorterende instellingen, diensten of bedrijven waar informatie kan worden verkregen.
 
 #### Register
 
@@ -139,5 +128,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Wob EZ.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en afschrift daarvan zal worden gezonden aan de minister-president.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0008498"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van 15 januari 1997, houdende regels in het belang van de veiligheid, de gezondheid en het welzijn in verband met de arbeid (Arbeidsomstandighedenbesluit)

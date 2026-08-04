@@ -1,44 +1,17 @@
 ---
 title: "Regeling burgerluchtvaartinlichtingen"
 identifier: "BWBR0010154"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-04"
-last_updated: "2025-09-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010154"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "4363773"
-version_id: "6120442"
-internal_id: "C6324651"
-label_id: "4342524"
-dtd_version: "2.0"
-original_entry_into_force: "1998-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010154/2025-09-04/0"
-intitule_bron: "Stcrt.1998-246"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-12-21"
-intitule_published: "1998-12-23"
-intitule_in_force: "1998-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-246"
-original_signed_date: "1998-12-21"
-original_published_date: "1998-12-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-12-25"
-jci_1_3: "jci1.3:c:BWBR0010154&z=2025-09-04&g=2025-09-04"
-jci_1_0: "1.0:c:BWBR0010154&g=2025-09-04"
-citeertitel_status: "officieel"
-signed_date: "1998-12-21"
-entry_into_force: "1998-12-25"
+publicatiedatum: 1998-12-25
+laatste_update: 2025-09-04
+status: geldig
+toestand: 2025-09-04
+bron: "https://wetten.overheid.nl/BWBR0010154"
+opgehaald: 2026-08-04
 ---
+
 # Regeling burgerluchtvaartinlichtingen
-
-Handelende in overeenstemming met de Staatssecretaris van Defensie,
-
-Gelet op [artikel 61 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=61);
-
-Besluit:
 
 ### Hoofdstuk 1
 
@@ -46,35 +19,39 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Aeronautical Fixed Service (AFS):** een communicatie-netwerk voor luchtverkeersdiensten;
+- a. *Aeronautical Fixed Service (AFS):* een communicatie-netwerk voor luchtverkeersdiensten;
 
-- b. **Aeronautical Information Regulation and Control (AIRAC):** een vooraf vastgesteld tijdpad met algemene ingangsdata voor luchtvaartinlichtingen met een interval van 28 dagen;
+- b. *Aeronautical Information Regulation and Control (AIRAC):* een vooraf vastgesteld tijdpad met algemene ingangsdata voor luchtvaartinlichtingen met een interval van 28 dagen;
 
-- c. **Aeronautical Information Services (AIS):** een dienstverlening, uitgevoerd door luchtvaartinlichtingendiensten, met als doel het verzekeren van de verstrekking van die inlichtingen nodig voor een veilig, ordelijk en vlot verloop van het luchtverkeer;
+- c. *Aeronautical Information Services (AIS):* een dienstverlening, uitgevoerd door luchtvaartinlichtingendiensten, met als doel het verzekeren van de verstrekking van die inlichtingen nodig voor een veilig, ordelijk en vlot verloop van het luchtverkeer;
 
-- d. **Aeronautical Information Circular (AIC):** een circulaire voor de luchtvaart met inlichtingen die niet in aanmerking komen voor publicatie in een NOTAM of luchtvaartgids, maar wel in verband staan met de vliegveiligheid, vluchtuitvoering of technische, administratieve of wetgevende aangelegenheden;
+- d. *Aeronautical Information Circular (AIC):* een circulaire voor de luchtvaart met inlichtingen die niet in aanmerking komen voor publicatie in een NOTAM of luchtvaartgids, maar wel in verband staan met de vliegveiligheid, vluchtuitvoering of technische, administratieve of wetgevende aangelegenheden;
 
-- e. **AIS unit:** een vluchtvoorlichtingsdienst die is belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht;
+- e. *AIS unit:* een vluchtvoorlichtingsdienst die is belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht;
 
-- f. **amendement:** permanente veranderingen van de inlichtingen in de luchtvaartgids;
+- f. *amendement:* permanente veranderingen van de inlichtingen in de luchtvaartgids;
 
-- g. **bijlage 4:** aeronautical charts, bijlage 4 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);
+- g. *bijlage 4:* aeronautical charts, bijlage 4 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);
 
-- h. **bijlage 15:** aeronautical information services, bijlage 15 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);
+- h. *bijlage 15:* aeronautical information services, bijlage 15 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);
 
-- i. **homebriefing:** het door gebruikers met een toegangsaccount opvragen van luchtvaartinlichtingen op hun eigen pc, tablet of telefoon;
+- i. *homebriefing:* het door gebruikers met een toegangsaccount opvragen van luchtvaartinlichtingen op hun eigen pc, tablet of telefoon;
 
-- j. **International NOTAM office:** de luchtvaartinlichtingendienst die door de Minister van Infrastructuur en Milieu is aangewezen voor het internationaal uitwisselen van NOTAM;
+- j. *International NOTAM office:* de luchtvaartinlichtingendienst die door de Minister van Infrastructuur en Milieu is aangewezen voor het internationaal uitwisselen van NOTAM;
 
-- k. **luchtvaartinlichtingendiensten:** de onderdelen van de LVNL die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2025-09-04&g=2025-09-04);
+- k. *luchtvaartinlichtingendiensten:* de onderdelen van de LVNL die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2025-09-04&g=2025-09-04);
 
-- l. **luchtvaartkaart:** een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen.
+- l. *luchtvaartkaart:* een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen.
 
-- m. **Notice to Airmen (NOTAM):** een bericht aan luchtvarenden gedistribueerd middels AFS met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen;
+- m. *Notice to Airmen (NOTAM):* een bericht aan luchtvarenden gedistribueerd middels AFS met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen;
 
-- n. **Preflight Information Bulletin (PIB):** een presentatie van actuele NOTAM-informatie van operationele aard, welke wordt beschikbaar gesteld vóór de vlucht;
+- n. *Preflight Information Bulletin (PIB):* een presentatie van actuele NOTAM-informatie van operationele aard, welke wordt beschikbaar gesteld vóór de vlucht;
 
-- o. **supplement:** tijdelijke veranderingen van de inlichtingen in de luchtvaartgids, gedrukt op speciale pagina's;
+- o. *supplement:* tijdelijke veranderingen van de inlichtingen in de luchtvaartgids, gedrukt op speciale pagina's;
+
+##### Artikel 1a
+
+Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=6) en [26, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=26).
 
 ##### Artikel 2
 
@@ -140,13 +117,13 @@ De luchtvaartinlichtingen worden in de volgende samenstellingen verstrekt:
 
 - 1. Luchtvaartgids met als doelgroep vliegers met een abonnement op:
 
-- a. amendements op de luchtvaartgids,
+   - a. amendements op de luchtvaartgids,
 
-- b. supplements op de luchtvaartgids,
+   - b. supplements op de luchtvaartgids,
 
-- c. AIC's serie A
+   - c. AIC's serie A
 
-- d. maandelijkse samenvatting van de op dat moment geldige NOTAM's.
+   - d. maandelijkse samenvatting van de op dat moment geldige NOTAM's.
 
 - 2. AIC's serie B met een abonnement.
 
@@ -184,19 +161,19 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 ##### Artikel 15
 
-- a. Luchtvaartinlichtingen worden verstrekt via een homebriefing account.
+1. - a. Luchtvaartinlichtingen worden verstrekt via een homebriefing account.
 
 - b. De in onderdeel a bedoelde luchtvaartinlichtingen omvatten:
 
-- 1°. geïntegreerde pakketten luchtvaartinlichtingen met wereldwijde dekking;
+   - 1°. geïntegreerde pakketten luchtvaartinlichtingen met wereldwijde dekking;
 
-- 2º. luchtvaartkaarten;
+   - 2º. luchtvaartkaarten;
 
-- 3º. inlichtingen voor de vlucht in de vorm van een PIB;
+   - 3º. inlichtingen voor de vlucht in de vorm van een PIB;
 
-- 4º. briefing;
+   - 4º. briefing;
 
-- 5º. het in ontvangst nemen van inlichtingen na de vlucht.
+   - 5º. het in ontvangst nemen van inlichtingen na de vlucht.
 
 2. Indien homebriefing ontoereikend is, worden luchtvaartinlichtingen op aanvraag verstrekt en in ontvangst genomen door de AIS-unit Schiphol.
 
@@ -242,17 +219,17 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 - b. de volgende luchthavens:
 
-- i. Schiphol;
+   - i. Schiphol;
 
-- ii. Lelystad;
+   - ii. Lelystad;
 
-- iii. Eelde;
+   - iii. Eelde;
 
-- iv. Maastricht;
+   - iv. Maastricht;
 
-- v. Rotterdam;
+   - v. Rotterdam;
 
-- vi. Eindhoven.
+   - vi. Eindhoven.
 
 ### Hoofdstuk 7
 
@@ -263,19 +240,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling burgerluchtvaartinlichtingen.
-
-##### Artikel 1a
-
-Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=6) en [26, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=26).
-
-### Hoofdstuk 2
-
-### Hoofdstuk 3
-
-### Hoofdstuk 4
-
-### Hoofdstuk 5
-
-### Hoofdstuk 6
-
-### Hoofdstuk 7

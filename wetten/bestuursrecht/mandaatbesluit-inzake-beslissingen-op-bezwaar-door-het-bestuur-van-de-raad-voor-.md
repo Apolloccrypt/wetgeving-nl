@@ -1,44 +1,18 @@
 ---
 title: "Mandaatbesluit inzake beslissingen op bezwaar door de raad voor rechtsbijstand Den Bosch in het kader van verstrekking van subsidies ex artikel 48c Wet Justitie-subsidies"
+citeertitel: "Mandaatbesluit inzake beslissingen op bezwaar door het bestuur van de raad voor rechtsbijstand in het kader van verstrekking van subsidies ex artikel 48c Wet Justitie-subsidies"
 identifier: "BWBR0010732"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-07-28"
-last_updated: "2010-07-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010732"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "4325583"
-version_id: "17549822"
-internal_id: "C24288261"
-label_id: "4304174"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010732/2010-07-28/0"
-intitule_bron: "Stcrt.1999-188"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-09-22"
-intitule_published: "1999-09-30"
-intitule_in_force: "1999-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-11936"
-original_signed_date: "2010-07-13"
-original_published_date: "2010-07-27"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2010-11936"
-entry_into_force_date: "2010-07-13"
-jci_1_3: "jci1.3:c:BWBR0010732&z=2010-07-28&g=2010-07-28"
-jci_1_0: "1.0:c:BWBR0010732&g=2010-07-28"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit inzake beslissingen op bezwaar door het bestuur van de raad voor rechtsbijstand in het kader van verstrekking van subsidies ex artikel 48c Wet Justitie-subsidies"
-signed_date: "2010-07-13"
-entry_into_force: "2010-07-13"
+publicatiedatum: 2010-07-13
+laatste_update: 2010-07-28
+status: geldig
+toestand: 2010-07-28
+bron: "https://wetten.overheid.nl/BWBR0010732"
+opgehaald: 2026-08-04
 ---
+
 # Mandaatbesluit inzake beslissingen op bezwaar door de raad voor rechtsbijstand Den Bosch in het kader van verstrekking van subsidies ex artikel 48c Wet Justitie-subsidies
-
-Gelet op [artikel 10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:5), en [10:9, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9),
-
-Besluit:
 
 ##### Artikel 1
 

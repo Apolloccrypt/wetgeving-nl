@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0022061"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 juni 2007 nr. VO/OK/2007/13731, houdende vaststelling van de examenprogramma’s v.w.o., h.a.v.o. en v.m.b.o. (Regeling examenprogramma’s voortgezet onderwijs)

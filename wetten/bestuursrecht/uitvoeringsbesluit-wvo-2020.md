@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0045787"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van 14 oktober 2021, houdende nadere regels over de inrichting, examinering en bekostiging van en deelname aan het voortgezet onderwijs (Uitvoeringsbesluit WVO 2020)

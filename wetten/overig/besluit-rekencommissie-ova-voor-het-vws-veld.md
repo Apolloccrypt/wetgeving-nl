@@ -1,48 +1,41 @@
 ---
 title: "Besluit Rekencommissie ova voor het VWS-veld"
 identifier: "BWBR0011099"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-01-26"
-last_updated: "2000-01-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011099"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4814413"
-version_id: "6620872"
-internal_id: "C7078111"
-label_id: "4792544"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011099/2000-01-26/0"
-intitule_bron: "Stcrt.2000-16"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-01-18"
-intitule_published: "2000-01-24"
-intitule_in_force: "2000-01-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-16"
-original_signed_date: "2000-01-18"
-original_published_date: "2000-01-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-01-26"
-jci_1_3: "jci1.3:c:BWBR0011099&z=2000-01-26&g=2000-01-26"
-jci_1_0: "1.0:c:BWBR0011099&g=2000-01-26"
-citeertitel_status: "officieel"
-signed_date: "2000-01-18"
-entry_into_force: "2000-01-26"
+publicatiedatum: 2000-01-26
+laatste_update: 2000-01-26
+status: geldig
+toestand: 2000-01-26
+bron: "https://wetten.overheid.nl/BWBR0011099"
+opgehaald: 2026-08-04
 ---
+
 # Besluit Rekencommissie ova voor het VWS-veld
-
-Overwegende dat in het convenant van 20 september 1999 over de nieuwe aanpak voor de bepaling van de ova voor het VWS-veld is voorzien in het instellen van een rekencommissie,
-
-Besluit:
 
 #### Begripsomschrijving
 
 ##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
+
+a.
+
+de minister:
+
+de Minister van Volksgezondheid, Welzijn en sport;
+
+b.
+
+de ova:
+
+de overheidsbijdrage in de arbeidskostenontwikkeling waarvan de bepaling is vastgelegd in het convenant ’nieuwe aanpak voor de ova’;
+
+c.
+
+de commissie:
+
+de commissie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011099&artikel=2&z=2000-01-26&g=2000-01-26).
 
 #### Taak en samenstelling van de commissie
 
@@ -93,5 +86,3 @@ Het besluit adviescommissie VWS-overleg vervalt.
 ##### Artikel 9
 
 Dit besluit kan worden aangehaald als Besluit Rekencommissie ova voor het VWS-veld.
-
-Van dit besluit wordt mededeling gedaan in de Staatscourant.

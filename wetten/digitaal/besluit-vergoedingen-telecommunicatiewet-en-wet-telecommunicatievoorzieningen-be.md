@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 12 maart 1999, houdende regels inzake de in het kader van de Telecommunicatiewet in rekening te brengen vergoedingen (Besluit vergoedingen Telecommunicatiewet)"
+citeertitel: "Besluit vergoedingen Telecommunicatiewet en Wet telecommunicatievoorzieningen BES"
 identifier: "BWBR0010334"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-05-13"
-last_updated: "2022-05-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010334"
+categorie: "Digitaal en privacy"
 soort: "AMvB"
-stam_id: "1016993"
-version_id: "28622002"
-internal_id: "C40376521"
-label_id: "985514"
-dtd_version: "2.0"
-original_entry_into_force: "2022-05-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010334/2022-05-13/0"
-intitule_bron: "Stb.1999-130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-03-12"
-intitule_published: "1999-03-25"
-intitule_in_force: "1999-03-25"
-intitule_status: "goed"
-original_publication: "Stb.2022-176"
-original_signed_date: "2022-05-03"
-original_published_date: "2022-05-12"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2022-176"
-entry_into_force_date: "2022-05-03"
-jci_1_3: "jci1.3:c:BWBR0010334&z=2022-05-13&g=2022-05-13"
-jci_1_0: "1.0:c:BWBR0010334&g=2022-05-13"
-citeertitel_status: "officieel"
-short_title: "Besluit vergoedingen Telecommunicatiewet en Wet telecommunicatievoorzieningen BES"
-signed_date: "2022-05-03"
-entry_into_force: "2022-05-03"
+publicatiedatum: 2022-05-03
+laatste_update: 2022-05-13
+status: geldig
+toestand: 2022-05-13
+bron: "https://wetten.overheid.nl/BWBR0010334"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 12 maart 1999, houdende regels inzake de in het kader van de Telecommunicatiewet in rekening te brengen vergoedingen (Besluit vergoedingen Telecommunicatiewet)
-
-Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 18 november 1998, nr. HDTP/98/3612/CG, Hoofddirectie Telecommunicatie en Post;
-
-Gelet op [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) en de [artikelen 16.1, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=16.1), en [20.17 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.17), alsmede op [artikel 13a, vierde lid, van de Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423&artikel=13a);
-
-De Raad van State gehoord (advies van 29 januari 1999, no.W09.98.0533);
-
-Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 8 maart 1999, nr. DGTP/99/233/CG, Directoraat-Generaal Telecommunicatie en Post;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -82,7 +50,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de indirecte kosten worden toegerekend aan categorieën van gelijksoortige werkzaamheden of diensten naar rato van hun beslag op de onderscheiden werkzaamheden of diensten;
 
-- c. deze kosten, voor zover het kosten op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) betreft op bedrijfseconomische wijze worden berekend door middel van een door Onze Minister toe te passen kostencalculatiemodel dat zodanig is ingericht dat daaruit op elk moment op eenduidige en inzichtelijke wijze de kosten van de desbetreffende categorieën van gelijksoortige werkzaamheden of diensten kunnen worden afgeleid.
+- c. deze kosten, voor zover het kosten op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) betreft op bedrijfseconomische wijze worden berekend door middel van een door Onze Minister toe te passen kostencalculatiemodel dat zodanig is ingericht dat daaruit op elk moment op eenduidige en inzichtelijke wijze de kosten van de desbetreffende categorieën van gelijksoortige werkzaamheden of diensten kunnen worden afgeleid.
 
 2. Onze Minister maakt het kostencalculatiemodel, bedoeld in het eerste lid, onderdeel c, bekend op een door hem te bepalen wijze.
 
@@ -96,13 +64,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. het gebruik van frequentieruimte voor:
 
-- 1°. elektronische communicatienetwerken en elektronische communicatiediensten;
+   - 1°. elektronische communicatienetwerken en elektronische communicatiediensten;
 
-- 2°. omroep;
+   - 2°. omroep;
 
-- 3°. straalverbindingen;
+   - 3°. straalverbindingen;
 
-- 4°. frequentiegebruik waarvoor een meld- en registratieverplichting geldt,
+   - 4°. frequentiegebruik waarvoor een meld- en registratieverplichting geldt,
 
 - b. apparaten en radioapparaten als bedoeld in [hoofdstuk 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10),
 
@@ -114,9 +82,21 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Bij ministeriële regeling wordt de hoogte van de vergoeding per categorie of subcategorie van gelijksoortige werkzaamheden of diensten vastgesteld op basis van de geraamde kosten die per categorie of per subcategorie zijn toegerekend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2022-05-13&g=2022-05-13).
+1. Bij ministeriële regeling wordt de hoogte van de vergoeding per categorie of subcategorie van gelijksoortige werkzaamheden of diensten vastgesteld op basis van de geraamde kosten die per categorie of per subcategorie zijn toegerekend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2022-05-13&g=2022-05-13).
 
 2. Bij de regeling worden de bedragen en de jaarlijkse bijdrage, bedoeld in [artikel 2, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13), afzonderlijk vastgesteld.
+
+##### Artikel 5a
+
+*Vervallen*
+
+##### Artikel 5b
+
+*Vervallen*
+
+##### Artikel 5c
+
+*Vervallen*
 
 ##### Artikel 6
 
@@ -126,49 +106,53 @@ Onverminderd [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl
 
 Tenzij bij ministeriële regeling anders wordt bepaald, wordt de vergoeding door degene die de vergoeding is verschuldigd, bij vooruitbetaling voldaan.
 
+##### Artikel 7a
+
+Aan een krachtens dit besluit vast te stellen ministeriele regeling kan terugwerkende kracht worden verleend tot een bij die regeling te bepalen tijdstip.
+
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Wijzigt het Besluit vergoedingen OPTA.
+*Wijzigt het Besluit vergoedingen OPTA.*
 
 ##### Artikel 12
 
-1. Wijzigt de Wet op de telecommunicatievoorzieningen.
+1. *Wijzigt de Wet op de telecommunicatievoorzieningen.*
 
-2. Wijzigt de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur.
+2. *Wijzigt de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur.*
 
-3. Wijzigt het Besluit radio-elektrische inrichtingen.
+3. *Wijzigt het Besluit radio-elektrische inrichtingen.*
 
-4. Wijzigt het Besluit elektromagnetische compatibiliteit.
+4. *Wijzigt het Besluit elektromagnetische compatibiliteit.*
 
-5. Wijzigt het Besluit randapparatuur en apparatuur voor satellietgrondstations.
+5. *Wijzigt het Besluit randapparatuur en apparatuur voor satellietgrondstations.*
 
-6. Wijzigt het Besluit aanvraagprocedure nummers.
+6. *Wijzigt het Besluit aanvraagprocedure nummers.*
 
-7. Wijzigt het Besluit vergunningen mobiele telecommunicatie.
+7. *Wijzigt het Besluit vergunningen mobiele telecommunicatie.*
 
-8. Wijzigt het Besluit kabelgebonden telecommunicatie-infrastructuur.
+8. *Wijzigt het Besluit kabelgebonden telecommunicatie-infrastructuur.*
 
-9. Wijzigt van het Besluit draadomroep- en kabelinrichtingen.
+9. *Wijzigt van het Besluit draadomroep- en kabelinrichtingen.*
 
 ##### Artikel 13
 
-Wijzigt het Besluit ONP-geschillenbeslechting.
+*Wijzigt het Besluit ONP-geschillenbeslechting.*
 
 ##### Artikel 14
 
-Wijzigt het Frequentiebesluit.
+*Wijzigt het Frequentiebesluit.*
 
 ##### Artikel 15
 
@@ -176,7 +160,7 @@ Na de inwerkingtreding van dit besluit berusten de Regeling vergoedingen RDR 199
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
@@ -185,25 +169,3 @@ Dit besluit treedt in werking met ingang van 1 april 1999.
 ##### Artikel 18
 
 Dit besluit wordt aangehaald als: Besluit vergoedingen Telecommunicatiewet en Wet telecommunicatievoorzieningen BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-Vervallen
-
-##### Artikel 5b
-
-Vervallen
-
-##### Artikel 5c
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a
-
-Aan een krachtens dit besluit vast te stellen ministeriele regeling kan terugwerkende kracht worden verleend tot een bij die regeling te bepalen tijdstip.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

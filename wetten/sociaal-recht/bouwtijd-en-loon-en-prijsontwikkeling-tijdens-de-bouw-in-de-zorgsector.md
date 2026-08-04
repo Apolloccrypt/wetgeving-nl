@@ -1,40 +1,17 @@
 ---
 title: "Bouwtijd en loon- en prijsontwikkeling tijdens de bouw in de zorgsector"
 identifier: "BWBR0010995"
-country: "nl"
-rank: "circulaire"
-publication_date: "2000-09-13"
-last_updated: "2000-09-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010995"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6261993"
-version_id: "10943002"
-internal_id: "C14838151"
-label_id: "6250854"
-original_entry_into_force: "2000-09-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010995/2000-09-13/0"
-intitule_bron: "Stcrt.2000-177"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-20"
-intitule_published: "2000-09-13"
-intitule_in_force: "2000-09-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-177"
-original_signed_date: "1999-12-20"
-original_published_date: "2000-09-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2000-177-p9-SC25573"
-entry_into_force_date: "2000-09-13"
-jci_1_3: "jci1.3:c:BWBR0010995&z=2000-09-13&g=2000-09-13"
-jci_1_0: "1.0:c:BWBR0010995&g=2000-09-13"
-citeertitel_status: "redactioneel"
-signed_date: "1999-12-20"
-entry_into_force: "2000-09-13"
+publicatiedatum: 2000-09-13
+laatste_update: 2000-09-13
+status: geldig
+toestand: 2000-09-13
+bron: "https://wetten.overheid.nl/BWBR0010995"
+opgehaald: 2026-08-04
 ---
-# Bouwtijd en loon- en prijsontwikkeling tijdens de bouw in de zorgsector
 
-Circulaire aan alle besturen van inrichtingen voor gezondheidszorg
+# Bouwtijd en loon- en prijsontwikkeling tijdens de bouw in de zorgsector
 
 ### Inleiding
 
@@ -43,6 +20,10 @@ In aansluiting op mijn brief van 26 augustus 1999, kenmerk Z/PB-991945, informee
 ### Vergunning
 
 De nu te zetten stap houdt, voor alle initiatieven waarvoor ik een WZV-vergunning verleen, het volgende in:
+
+- - de bouwtijd wordt vanaf 1 mei 2000 taakstellend in de vergunning opgenomen;
+
+- - bij de berekening van de aanvaardbare kosten in het kader van de eindafrekening van het bouwinitiatief wordt voortaan uitgegaan van een normatieve berekeningsmethodiek. Deze is gebaseerd op de taakstellende bouwtijd en op de indexreeks van de Risicoregeling Woning- en Utiliteitsbouw.
 
 ### Toelichting
 

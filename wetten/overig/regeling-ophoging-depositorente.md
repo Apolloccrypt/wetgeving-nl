@@ -1,43 +1,18 @@
 ---
-title: "Regeling ophoging depositorente van de Europese Centrale Bank voor de toepassing van een aantal fiscale wetten c.a"
+title: "Regeling ophoging depositorente van de Europese Centrale Bank voor de toepassing van een aantal fiscale wetten c.a."
+citeertitel: "Regeling ophoging depositorente"
 identifier: "BWBR0010240"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-01-30"
-last_updated: "1999-01-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010240"
+categorie: "Internationaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3594743"
-version_id: "5377812"
-internal_id: "C5570901"
-label_id: "3574694"
-dtd_version: "2.0"
-original_entry_into_force: "1999-01-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010240/1999-01-30/0"
-intitule_bron: "Stcrt.1999-19"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-01-27"
-intitule_published: "1999-01-28"
-intitule_in_force: "1999-01-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-19"
-original_signed_date: "1999-01-27"
-original_published_date: "1999-01-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-01-30"
-jci_1_3: "jci1.3:c:BWBR0010240&z=1999-01-30&g=1999-01-30"
-jci_1_0: "1.0:c:BWBR0010240&g=1999-01-30"
-citeertitel_status: "officieel"
-short_title: "Regeling ophoging depositorente"
-signed_date: "1999-01-27"
-entry_into_force: "1999-01-30"
+publicatiedatum: 1999-01-30
+laatste_update: 1999-01-30
+status: geldig
+toestand: 1999-01-30
+bron: "https://wetten.overheid.nl/BWBR0010240"
+opgehaald: 2026-08-04
 ---
-# Regeling ophoging depositorente van de Europese Centrale Bank voor de toepassing van een aantal fiscale wetten c.a
 
-Gelet op de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010136&artikel=17) en [18 van de Wet overgang belastingheffing in euro’s](https://wetten.overheid.nl/jci1.3:c:BWBR0010136&artikel=18);
-
-Besluit:
+# Regeling ophoging depositorente van de Europese Centrale Bank voor de toepassing van een aantal fiscale wetten c.a.
 
 ##### Artikel 1
 
@@ -50,5 +25,3 @@ Besluit:
 1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling wordt aangehaald als: Regeling ophoging depositorente.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

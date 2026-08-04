@@ -1,42 +1,17 @@
 ---
 title: "Keuringsreglement COKZ kaas"
 identifier: "BWBR0009718"
-country: "nl"
-rank: "zbo"
-publication_date: "2002-12-13"
-last_updated: "2002-12-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009718"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6780153"
-version_id: "11639792"
-internal_id: "C19844601"
-label_id: "6768924"
-original_entry_into_force: "1998-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009718/2002-12-13/0"
-intitule_bron: "Stcrt.1998-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-06-24"
-intitule_published: "1998-10-01"
-intitule_in_force: "1998-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-187"
-original_signed_date: "1998-06-24"
-original_published_date: "1998-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1998-187-p16-SC15657"
-entry_into_force_date: "1998-10-01"
-jci_1_3: "jci1.3:c:BWBR0009718&z=2002-12-13&g=2002-12-13"
-jci_1_0: "1.0:c:BWBR0009718&g=2002-12-13"
-citeertitel_status: "officieel"
-signed_date: "1998-06-24"
-entry_into_force: "1998-10-01"
+publicatiedatum: 1998-10-01
+laatste_update: 2002-12-13
+status: geldig
+toestand: 2002-12-13
+bron: "https://wetten.overheid.nl/BWBR0009718"
+opgehaald: 2026-08-04
 ---
+
 # Keuringsreglement COKZ kaas
-
-gelet op [artikel 10, eerste lid, onder e, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) (Stb. 1971, 371), alsmede artikel 36, tweede lid, van de statuten van genoemde Stichting (Stcrt. 1992, 63),
-
-heeft in zijn vergadering van 24 juni 1998 vastgesteld het navolgende Reglement
 
 ### Hoofdstuk 1. Terminologie
 
@@ -168,11 +143,11 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 - b. een administratie te voeren van onbruikbaar geworden met een rijkskaasmerk bedrukt verpakkingsmateriaal. In deze administratie dient ten minste te worden vermeld:
 
-- -. de hoeveelheid verpakkingsmateriaal;
+   - - de hoeveelheid verpakkingsmateriaal;
 
-- -. de letters en volgnummers van het rijkskaasmerk, dan wel van het eerste en het laatste rijkskaasmerk van het verpakkingsmateriaal;
+   - - de letters en volgnummers van het rijkskaasmerk, dan wel van het eerste en het laatste rijkskaasmerk van het verpakkingsmateriaal;
 
-- -. de wijze van vernietiging van het verpakkingsmateriaal.
+   - - de wijze van vernietiging van het verpakkingsmateriaal.
 
 ### Hoofdstuk 3. Voorschriften inzake kaas, uitgezonderd boerenkaas
 
@@ -202,25 +177,25 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 - a. bij de bereiding:
 
-- -. de datum van de eerste dag van de bereiding;
+   - - de datum van de eerste dag van de bereiding;
 
-- -. de kaassoort danwel de naam van de kaas;
+   - - de kaassoort danwel de naam van de kaas;
 
-- -. het aantal kazen;
+   - - het aantal kazen;
 
-- -. indien de kaas is voorzien van een rijkskaasmerk, de letters en volgnummers van de, in de vorm van een caseïneplaatje, aangebrachte rijkskaasmerken;
+   - - indien de kaas is voorzien van een rijkskaasmerk, de letters en volgnummers van de, in de vorm van een caseïneplaatje, aangebrachte rijkskaasmerken;
 
-- -. indien de kaas niet direct bij de bereiding is voorzien van een rijkskaasmerk, de unieke codering per kaas. Zodra het rijkskaasmerk is aangebracht dient de koppeling tussen het rijkskaasmerk en de unieke codering per kaas duidelijk te zijn.
+   - - indien de kaas niet direct bij de bereiding is voorzien van een rijkskaasmerk, de unieke codering per kaas. Zodra het rijkskaasmerk is aangebracht dient de koppeling tussen het rijkskaasmerk en de unieke codering per kaas duidelijk te zijn.
 
 - b. het totale gewicht van de kaas op de vijftiende dag volgend op de eerste dag van de bereiding, dan wel indien het kaas betreft, welke op een ouderdom van minder dan vijftien dagen wordt afgeleverd, het totale gewicht van de kaas op de dag van aflevering;
 
 - c. bij aflevering voor elke aflevering afzonderlijk:
 
-- -. de datum van aflevering;
+   - - de datum van aflevering;
 
-- -. het aantal kazen en het totale gewicht van de kaas;
+   - - het aantal kazen en het totale gewicht van de kaas;
 
-- -. de naam en de plaats van vestiging van de afnemer.
+   - - de naam en de plaats van vestiging van de afnemer.
 
 2. Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze waarop de in het eerste lid bedoelde administratie moet worden gevoerd.
 
@@ -338,35 +313,35 @@ In het geval dat de verplaatsing van de kaas, uitgezonderd boerenkaas wordt beë
 
 - a. onderzoek van uit de kaas genomen monsters, op de bij het besluit en de regeling aan de desbetreffende kaassoort resp. op de bij het productdossier aan de desbetreffende kaas gestelde algemene en bijzondere eisen met betrekking tot:
 
-- -. de samenstelling in het bijzonder het vochtgehalte, het vetgehalte in de droge stof en het zoutgehalte in de droge stof;
+   - - de samenstelling in het bijzonder het vochtgehalte, het vetgehalte in de droge stof en het zoutgehalte in de droge stof;
 
-- -. de bacteriologische gesteldheid;
+   - - de bacteriologische gesteldheid;
 
-- -. de pH;
+   - - de pH;
 
-- -. hulpstoffen en toevoegingen, op de kaas aanwezige kaaskorstbehandelings-middelen daar-onder begrepen;
+   - - hulpstoffen en toevoegingen, op de kaas aanwezige kaaskorstbehandelings-middelen daar-onder begrepen;
 
-- -. vreemde bestanddelen, vuil en andere verontreinigingen;
+   - - vreemde bestanddelen, vuil en andere verontreinigingen;
 
 - b. onderzoek op de bij de regeling aan de desbetreffende kaassoort resp. op de bij het productdossier aan de desbetreffende kaas gestelde eisen met betrekking tot het gewicht;
 
 - c. onderzoek op de bij het besluit en de regeling aan de desbetreffende kaassoort resp. op de bij het productdossier aan de desbetreffende kaas gestelde algemene en bijzondere eisen met betrek-king tot:
 
-- -. het rijkskaasmerk;
+   - - het rijkskaasmerk;
 
-- -. de vorm;
+   - - de vorm;
 
-- -. het uiterlijk;
+   - - het uiterlijk;
 
-- -. de korst;
+   - - de korst;
 
-- -. het zuivel, consistentie, kleur en ogenvorming daaronder begrepen;
+   - - het zuivel, consistentie, kleur en ogenvorming daaronder begrepen;
 
-- -. de geur en de smaak;
+   - - de geur en de smaak;
 
-- -. de verpakking;
+   - - de verpakking;
 
-- -. de aanduiding;
+   - - de aanduiding;
 
 - d. onderzoek op de bij het productdossier aan de desbetreffende kaas gestelde overige genoemde eisen.
 
@@ -376,29 +351,29 @@ In het geval dat de verplaatsing van de kaas, uitgezonderd boerenkaas wordt beë
 
 1. De tweede deelkeuring van kaas, uitgezonderd boerenkaas geschiedt:
 
-- -. kort voor of op de dag waarop de gehele voor de desbetreffende kaassoort voor rijping voorgeschreven minimale rijpingsduur als bedoeld in [bijlage 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009794&bijlage=2) resp. voor de desbetreffende kaas voor rijping genoemde minimale rijpingsduur als bedoeld in het product-dossier, verstrijkt;
+- - kort voor of op de dag waarop de gehele voor de desbetreffende kaassoort voor rijping voorgeschreven minimale rijpingsduur als bedoeld in [bijlage 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009794&bijlage=2) resp. voor de desbetreffende kaas voor rijping genoemde minimale rijpingsduur als bedoeld in het product-dossier, verstrijkt;
 
-- -. binnen een termijn van drie dagen na afloop van het zoëven bedoelde tijdvak, in geval van aflevering of gereedmaken voor aflevering van kaas.
+- - binnen een termijn van drie dagen na afloop van het zoëven bedoelde tijdvak, in geval van aflevering of gereedmaken voor aflevering van kaas.
 
 2. De in het eerste lid bedoelde tweede deelkeuring van kaas omvat:
 
 - a. onderzoek op de bij het besluit en de regeling aan de desbetreffende kaassoort resp. op de bij het productdossier aan de desbetreffende kaas gestelde algemene en bijzondere eisen met betrekking tot:
 
-- -. het rijkskaasmerk;
+   - - het rijkskaasmerk;
 
-- -. de vorm;
+   - - de vorm;
 
-- -. het uiterlijk;
+   - - het uiterlijk;
 
-- -. de korst en de op de kaas aangebrachte kaaskorstbehandelingsmiddelen;
+   - - de korst en de op de kaas aangebrachte kaaskorstbehandelingsmiddelen;
 
-- -. het zuivel, consistentie, kleur en ogenvorming daaronder begrepen:
+   - - het zuivel, consistentie, kleur en ogenvorming daaronder begrepen:
 
-- -. de geur en de smaak;
+   - - de geur en de smaak;
 
-- -. de verpakking;
+   - - de verpakking;
 
-- -. de aanduiding;
+   - - de aanduiding;
 
 - b. onderzoek op de bij het productdossier aan de desbetreffende kaas gestelde overige genoemde eisen.
 
@@ -470,31 +445,31 @@ In voorkomend geval wordt hiervan melding gemaakt op het desbetreffende keurings
 
 - a. bij de bereiding:
 
-- -. de datum van de eerste dag van de bereiding;
+   - - de datum van de eerste dag van de bereiding;
 
-- -. de verkaasde hoeveelheid melk en het aantal melkmalen, in voorkomend geval met vermelding van de hoeveelheid bijgekochte melk en de herkomst van deze melk;
+   - - de verkaasde hoeveelheid melk en het aantal melkmalen, in voorkomend geval met vermelding van de hoeveelheid bijgekochte melk en de herkomst van deze melk;
 
-- -. de kaassoort danwel de naam van de kaas en het geschatte gewicht per boerenkaas in kg nauwkeurig;
+   - - de kaassoort danwel de naam van de kaas en het geschatte gewicht per boerenkaas in kg nauwkeurig;
 
-- -. het aantal boerenkazen;
+   - - het aantal boerenkazen;
 
-- -. indien de boerenkaas is voorzien van een rijkskaasmerk, de letters en volgnummers van de aangebrachte rijkskaasmerken in de vorm van een caseïneplaatje;
+   - - indien de boerenkaas is voorzien van een rijkskaasmerk, de letters en volgnummers van de aangebrachte rijkskaasmerken in de vorm van een caseïneplaatje;
 
 - b. bij aflevering aan anderen dan particulieren voor elke aflevering afzonderlijk:
 
-- -. de datum van aflevering;
+   - - de datum van aflevering;
 
-- -. het aantal boerenkazen en het totale gewicht van de kaas;
+   - - het aantal boerenkazen en het totale gewicht van de kaas;
 
-- -. de naam en de plaats van vestiging van de afnemer;
+   - - de naam en de plaats van vestiging van de afnemer;
 
 - c. op de dag waarop boerenkaas bestemd wordt voor aflevering aan particulieren of voor eigen huishoudelijk gebruik:
 
-- -. de datum;
+   - - de datum;
 
-- -. het aantal kazen en het totale gewicht van de kaas;
+   - - het aantal kazen en het totale gewicht van de kaas;
 
-- -. de aanduiding ’particulieren’;
+   - - de aanduiding ’particulieren’;
 
 - d. eventuele andere, door of namens het bestuur in het belang van de controle gevraagde bijzonderheden, het bedrijf van de bereider betreffende.
 
@@ -516,35 +491,35 @@ In voorkomend geval wordt hiervan melding gemaakt op het desbetreffende keurings
 
 - a. onderzoek op de bij het besluit en de regeling aan de desbetreffende boerenkaassoort resp. op de bij het productdossier aan de desbetreffende boerenkaas gestelde algemene en bijzondere eisen met betrekking tot:
 
-- -. het rijkskaasmerk;
+   - - het rijkskaasmerk;
 
-- -. de vorm;
+   - - de vorm;
 
-- -. het uiterlijk;
+   - - het uiterlijk;
 
-- -. de korst en de op de boerenkaas aangebrachte kaaskorstbehandelingsmiddelen;
+   - - de korst en de op de boerenkaas aangebrachte kaaskorstbehandelingsmiddelen;
 
-- -. het zuivel, consistentie, kleur en ogenvorming daaronder begrepen;
+   - - het zuivel, consistentie, kleur en ogenvorming daaronder begrepen;
 
-- -. de geur en de smaak;
+   - - de geur en de smaak;
 
-- -. het vetgehalte in de droge stof;
+   - - het vetgehalte in de droge stof;
 
-- -. het vochtgehalte;
+   - - het vochtgehalte;
 
-- -. het zoutgehalte in de droge stof;
+   - - het zoutgehalte in de droge stof;
 
-- -. de bacteriologische gesteldheid;
+   - - de bacteriologische gesteldheid;
 
-- -. hulpstoffen en toevoegingen;
+   - - hulpstoffen en toevoegingen;
 
-- -. vreemde bestanddelen, vuil en andere verontreinigingen;
+   - - vreemde bestanddelen, vuil en andere verontreinigingen;
 
-- -. het gewicht;
+   - - het gewicht;
 
-- -. de verpakking;
+   - - de verpakking;
 
-- -. de aanduiding;
+   - - de aanduiding;
 
 - b. onderzoek op de bij het productdossier aan de desbetreffende boerenkaas gestelde overige genoemde eisen.
 
@@ -582,7 +557,7 @@ Het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoo
 
 ##### Artikel 27
 
-Voor de vaststelling of kaas voldoet aan het bij het besluit of bij de regeling bepaalde moet worden gebruik gemaakt van de in de bijlage vermelde methoden van monsterneming en onderzoek. Indien voor een bepaald doel een methode ontbreekt, moet een door het bestuur goedgekeurde en gevalideerde methode worden toegepast.
+Voor de vaststelling of kaas voldoet aan het bij het besluit of bij de regeling bepaalde moet worden gebruik gemaakt van de in de [bijlage](https://wetten.overheid.nl/BWBR0009718) vermelde methoden van monsterneming en onderzoek. Indien voor een bepaald doel een methode ontbreekt, moet een door het bestuur goedgekeurde en gevalideerde methode worden toegepast.
 
 ### Hoofdstuk 6. Voorschriften inzake het maken van bezwaar tegen monsterneming en keurings-uitslagen
 
@@ -592,9 +567,9 @@ Voor de vaststelling of kaas voldoet aan het bij het besluit of bij de regeling 
 
 1. De aangeslotene kan bezwaar maken tegen
 
-- -. de wijze waarop een monster door of namens het COKZ wordt genomen;
+- - de wijze waarop een monster door of namens het COKZ wordt genomen;
 
-- -. de keuze van een monster uit de aanwezige voorraad.
+- - de keuze van een monster uit de aanwezige voorraad.
 
 2. Het in het eerste lid bedoelde bezwaar moet onmiddellijk bij de monsterneming aan degene, die het monster neemt, worden bekend gemaakt. Deze beslist of het genomen monster wordt gehandhaafd.
 
@@ -616,17 +591,17 @@ Indien bij de keuringsuitslag, waartegen bezwaar was gericht, een verbod tot afl
 
 4. Uitsluitend in geval van bezwaar tegen een keuringsuitslag ter zake van
 
-- -. de vorm van het model;
+- - de vorm van het model;
 
-- -. het uiterlijk;
+- - het uiterlijk;
 
-- -. het zuivel, consistentie, kleur en ogenvorming daaronder begrepen;
+- - het zuivel, consistentie, kleur en ogenvorming daaronder begrepen;
 
-- -. de korst;
+- - de korst;
 
-- -. de geur en de smaak;
+- - de geur en de smaak;
 
-- -. de verpakking;
+- - de verpakking;
 
 kan de aangeslotene het bestuur verzoeken de desbetreffende partij kaasproducten aan een herkeuring te doen onderwerpen. Herkeuring geschiedt met inachtneming van het bepaalde in de [artikelen 31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=6&paragraaf=B&artikel=31&z=2002-12-13&g=2002-12-13). In afwijking van het bepaalde in het derde lid, beslist in geval van herkeuring de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=6&paragraaf=B&artikel=32&z=2002-12-13&g=2002-12-13) bedoelde herkeuringscommissie op het bezwaar.
 
@@ -693,25 +668,3 @@ Aangeslotenen zijn verplicht alle plaatsen, waar bereidingshandelingen plaatsvin
 ##### Artikel 36
 
 Dit reglement kan worden aangehaald als ’Keuringsreglement COKZ kaas’.
-
-## Bijlage. bij het Keuringsreglement COKZ kaas
-
-Indien in het navolgende wordt verwezen naar elders gepubliceerde methoden van monsterneming en onderzoek is de versie waarnaar hier wordt verwezen van toepassing, tenzij anders is bepaald.
-
-In het geval van grensreacties is bij de desbetreffende methode aangegeven het aantal malen (n) dat een in de eis vermelde hoeveelheid analysemonster moet worden onderzocht en het maximum aantal malen dat een positief resultaat wordt toegelaten (a).
-
-### A. Geheel of gedeeltelijk ontroomde melk, room en kaasmelk
-
-### B. Magere melkpoeder
-
-De methoden van monsterneming en onderzoek als beschreven in bijlage 2 bij het keuringsreglement COKZ melkpoeder. De methode voor monsterneming en onderzoek op wei-eiwitdenaturatie is hierboven vermeld onder A.9.
-
-### C. Stremsel
-
-### D. Kaaskorstbehandelingsmiddelen
-
-### E. Kaaspekel
-
-### F. Kaas
-
-### G. Contaminanten

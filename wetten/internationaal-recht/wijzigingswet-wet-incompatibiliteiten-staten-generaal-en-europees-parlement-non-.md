@@ -1,51 +1,22 @@
 ---
 title: "Wet van 15 juli 1998 tot wijziging van de Wet Incompatibiliteiten Staten-Generaal en Europees parlement ter wijziging van de non-activiteitsbepalingen"
+citeertitel: "Wijzigingswet Wet Incompatibiliteiten Staten-Generaal en Europees parlement (non-activiteitsbepalingen)"
 identifier: "BWBR0009788"
-country: "nl"
-rank: "wet"
-publication_date: "2006-10-11"
-last_updated: "2006-10-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009788"
+categorie: "Overig"
 soort: "wet"
-stam_id: "917753"
-version_id: "1344062"
-internal_id: "C1344061"
-label_id: "889954"
-dtd_version: "2.0"
-original_entry_into_force: "1998-08-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009788/2006-10-11/0"
-intitule_bron: "Stb.1998-507"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-07-15"
-intitule_published: "1998-08-20"
-intitule_in_force: "1998-08-20"
-intitule_status: "goed"
-original_publication: "Stb.1998-507"
-original_signed_date: "1998-07-15"
-original_published_date: "1998-08-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "24701"
-original_url_id: "stb-1998-507"
-entry_into_force_date: "1998-08-21"
-jci_1_3: "jci1.3:c:BWBR0009788&z=2006-10-11&g=2006-10-11"
-jci_1_0: "1.0:c:BWBR0009788&g=2006-10-11"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet Incompatibiliteiten Staten-Generaal en Europees parlement (non-activiteitsbepalingen)"
-signed_date: "1998-07-15"
-entry_into_force: "1998-08-21"
+publicatiedatum: 1998-08-21
+laatste_update: 2006-10-11
+status: geldig
+toestand: 2006-10-11
+bron: "https://wetten.overheid.nl/BWBR0009788"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 15 juli 1998 tot wijziging van de Wet Incompatibiliteiten Staten-Generaal en Europees parlement ter wijziging van de non-activiteitsbepalingen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om de [Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612) te wijzigen in verband met de wijziging van de non-activiteitsbepalingen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### ARTIKEL I
 
-Wijzigt de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.
+*Wijzigt de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.*
 
 ##### ARTIKEL II
 
@@ -60,5 +31,3 @@ Wijzigt de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.
 ##### ARTIKEL III
 
 Deze wet treedt in werking met ingang van de eerste dag van de zesde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. Bij koninklijk besluit kan een eerder tijdstip worden vastgesteld waarop deze wet in werking treedt.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

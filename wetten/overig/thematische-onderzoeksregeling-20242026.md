@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-31
 toestand: 2024-10-25
 bron: "https://wetten.overheid.nl/BWBR0050322"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 17 juli 2024, nr. OT2426, tot vaststelling van een subsidieregeling Onderzoek naar de journalistieke praktijk: thematische oproep 2024–2026

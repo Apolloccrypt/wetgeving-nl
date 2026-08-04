@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0045754"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Wet van 25 oktober 2021, houdende regels over de toegankelijkheid van informatie van publiek belang (Wet open overheid)

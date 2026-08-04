@@ -1,42 +1,17 @@
 ---
 title: "Opheffingsbesluit ICONA"
 identifier: "BWBR0010303"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-05-01"
-last_updated: "1999-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010303"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3964173"
-version_id: "5737282"
-internal_id: "C5940011"
-label_id: "3944194"
-dtd_version: "2.0"
-original_entry_into_force: "1999-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010303/1999-05-01/0"
-intitule_bron: "Stcrt.1999-57"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-03-01"
-intitule_published: "1999-03-23"
-intitule_in_force: "1999-03-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-57"
-original_signed_date: "1999-03-01"
-original_published_date: "1999-03-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-05-01"
-jci_1_3: "jci1.3:c:BWBR0010303&z=1999-05-01&g=1999-05-01"
-jci_1_0: "1.0:c:BWBR0010303&g=1999-05-01"
-citeertitel_status: "officieel"
-signed_date: "1999-03-01"
-entry_into_force: "1999-05-01"
+publicatiedatum: 1999-05-01
+laatste_update: 1999-05-01
+status: geldig
+toestand: 1999-05-01
+bron: "https://wetten.overheid.nl/BWBR0010303"
+opgehaald: 2026-08-04
 ---
+
 # Opheffingsbesluit ICONA
-
-Gelet op het besluit van de Ministerraad van 22 januari 1999 tot opheffing van de Interdepartementale Coördinatiecommissie voor Noordzee-aangelegenheden (ICONA) mede inhoudende machtiging aan de Staatssecretaris van Verkeer en Waterstaat daartoe over te gaan;
-
-Besluit:
 
 ##### Artikel 1
 

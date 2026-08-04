@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-31
 toestand: 2020-08-01
 bron: "https://wetten.overheid.nl/BWBR0043095"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 januari 2020, MBO-17983694 houdende vaststelling van een aantal kwalificaties op grond waarvan een landelijk deel kan worden ontwikkeld (Regeling vaststelling aanvullende kwalificaties experiment ruimte voor de regio)

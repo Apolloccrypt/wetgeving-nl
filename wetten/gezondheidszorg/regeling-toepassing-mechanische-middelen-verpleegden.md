@@ -1,52 +1,29 @@
 ---
 title: "Regeling toepassing mechanische middelen verpleegden"
 identifier: "BWBR0011109"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-01-27"
-last_updated: "2000-01-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011109"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3611233"
-version_id: "5394362"
-internal_id: "C5587451"
-label_id: "3591244"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011109/2000-01-27/0"
-intitule_bron: "Stcrt.2000-17"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-01-20"
-intitule_published: "2000-01-25"
-intitule_in_force: "2000-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-17"
-original_signed_date: "2000-01-20"
-original_published_date: "2000-01-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-01-27"
-jci_1_3: "jci1.3:c:BWBR0011109&z=2000-01-27&g=2000-01-27"
-jci_1_0: "1.0:c:BWBR0011109&g=2000-01-27"
-citeertitel_status: "officieel"
-signed_date: "2000-01-20"
-entry_into_force: "2000-01-27"
+publicatiedatum: 2000-01-27
+laatste_update: 2000-01-27
+status: geldig
+toestand: 2000-01-27
+bron: "https://wetten.overheid.nl/BWBR0011109"
+opgehaald: 2026-08-04
 ---
+
 # Regeling toepassing mechanische middelen verpleegden
-
-Gelet op [artikel 27, vierde lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=27);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 13 mei 1998, nr. 694850/98;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
+wet:
+
+de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765).
+
 ##### Artikel 2
 
-1. Als mechanisch middel in de zin van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=27) worden slechts toegepast, de middelen die zijn opgenomen in de bijlage van deze regeling.
+1. Als mechanisch middel in de zin van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=27) worden slechts toegepast, de middelen die zijn opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0011109) van deze regeling.
 
 2. Indien de toestand van de verpleegde dit vereist, kunnen meerdere mechanische middelen tegelijkertijd worden toegepast.
 
@@ -115,23 +92,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling toepassing mechanische middelen verpleegden.
-
-## Bijlage
-
-- 1. Valhelm of schuimhelm
-
-- 2. Gecapitonneerde handschoenen
-
-- 3. Mondafscherming
-
-- 4. Polsbanden aan riem om middel
-
-- 5. Dwangjack
-
-- 6. Enkelbanden met tussenstuk
-
-- 7. Handboeien van een door de Minister van Justitie goedgekeurd merk en type
-
-- 8. Veiligheidsbed
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

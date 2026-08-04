@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0027679"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Wet van 29 april 2010 tot vaststelling van regels over referentieniveaus voor de taal- en rekenvaardigheden van leerlingen (Wet referentieniveaus Nederlandse taal en rekenen)

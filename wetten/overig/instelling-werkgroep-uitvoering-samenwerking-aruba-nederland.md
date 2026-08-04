@@ -1,53 +1,18 @@
 ---
 title: "Besluit tot instelling van een Werkgroep van advies aan Aruba en Nederland over de inwerkingtreding van een fonds voor de uitvoering van overheidsproject en en de sanering van de Arubaanse overheidsschulden bij Nederland"
+citeertitel: "Instelling Werkgroep Uitvoering samenwerking Aruba-Nederland"
 identifier: "BWBR0010881"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-03-01"
-last_updated: "2000-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010881"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4260423"
-version_id: "6023882"
-internal_id: "C6227271"
-label_id: "4239024"
-dtd_version: "2.0"
-original_entry_into_force: "2000-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010881/2000-03-01/0"
-intitule_bron: "Stcrt.2000-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-11-20"
-intitule_published: "2000-01-13"
-intitule_in_force: "2000-01-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-9"
-original_signed_date: "1999-11-20"
-original_published_date: "2000-01-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-03-01"
-jci_1_3: "jci1.3:c:BWBR0010881&z=2000-03-01&g=2000-03-01"
-jci_1_0: "1.0:c:BWBR0010881&g=2000-03-01"
-citeertitel_status: "officieel"
-short_title: "Instelling Werkgroep Uitvoering samenwerking Aruba-Nederland"
-signed_date: "1999-11-20"
-entry_into_force: "2000-03-01"
+publicatiedatum: 2000-03-01
+laatste_update: 2000-03-01
+status: geldig
+toestand: 2000-03-01
+bron: "https://wetten.overheid.nl/BWBR0010881"
+opgehaald: 2026-08-04
 ---
+
 # Besluit tot instelling van een Werkgroep van advies aan Aruba en Nederland over de inwerkingtreding van een fonds voor de uitvoering van overheidsproject en en de sanering van de Arubaanse overheidsschulden bij Nederland
-
-overwegende,
-
-dat er op 11 maart 1999 een politiek beleidsoverleg tussen Nederland en Aruba heeft plaatsgevonden;
-
-dat er tijdens het politieke beleidsoverleg afspraken zijn gemaakt die zijn vastgelegd in een Slotverklaring;
-
-dat deze afspraken zijn gemaakt als uitwerking van de aanbevelingen van de Adviescommissie Samenwerking Aruba - Nederland (Commissie Biesheuvel) en onder meer betrekking hebben op de financiële verhouding tussen Nederland en Aruba in de periode 2000-2010 en de inwerkingtreding van een (samenwerkings)fonds;
-
-gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-Besluiten:
-
-een werkgroep van deskundigen in te stellen, waarop de volgende regels van toepassing zijn:
 
 ##### Artikel 1
 
@@ -57,19 +22,19 @@ Er is een Werkgroep Uitvoering samenwerking Aruba - Nederland, die tot taak heef
 
 De Werkgroep heeft tot taak om vóór 1 oktober 1999 de invoering van de nieuwe systematiek van steunverlening zover te hebben voorbereid dat daarover politieke besluitvorming kan plaatsvinden. Deze voorbereiding heeft onder meer betrekking op:
 
-- a). De noodzakelijke formele regelingen voor de inrichting van het fonds en van het beheer daarvan door de Aruban Investment Bank N.V. (AIB);
+- a) De noodzakelijke formele regelingen voor de inrichting van het fonds en van het beheer daarvan door de Aruban Investment Bank N.V. (AIB);
 
-- b). De richtlijnen, criteria en procedures voor het projectenbeheer van het fonds door de AIB;
+- b) De richtlijnen, criteria en procedures voor het projectenbeheer van het fonds door de AIB;
 
-- c). Een sluitende regeling voor controle en toezicht op, verantwoording over en monitoring en evaluatie van samenwerkingsprojecten die worden bekostigd met middelen uit het fonds;
+- c) Een sluitende regeling voor controle en toezicht op, verantwoording over en monitoring en evaluatie van samenwerkingsprojecten die worden bekostigd met middelen uit het fonds;
 
-- d). De organisatorische en personele vereisten voor het beheer van het fonds door de AIB, en de wijze waarop de AIB bij dat beheer gebruik kan maken van bestaande kennis en ervaring aan Arubaanse en Nederlandse zijde;
+- d) De organisatorische en personele vereisten voor het beheer van het fonds door de AIB, en de wijze waarop de AIB bij dat beheer gebruik kan maken van bestaande kennis en ervaring aan Arubaanse en Nederlandse zijde;
 
-- e). De besluiten inzake de benoemingen in de functies, die in het kader van de nieuwe systematiek van steunverlening moeten worden vervuld;
+- e) De besluiten inzake de benoemingen in de functies, die in het kader van de nieuwe systematiek van steunverlening moeten worden vervuld;
 
-- f). Het aanleveren van bouwstenen voor het investeringsprogramma 2000 tot en met 2003, inclusief de voor die jaren door Aruba en Nederland – binnen de afspraken van de politieke beleidsdialoog van 11 maart 1999 – te storten bedragen;
+- f) Het aanleveren van bouwstenen voor het investeringsprogramma 2000 tot en met 2003, inclusief de voor die jaren door Aruba en Nederland – binnen de afspraken van de politieke beleidsdialoog van 11 maart 1999 – te storten bedragen;
 
-- g). Het voorstellen van criteria op basis waarvan jaarlijks ex post het evenwicht kan worden vastgesteld van de begroting van het Land Aruba en van een plan van aanpak, met inachtneming van de afspraken in de Slotverklaring, voor de sanering van de Arubaanse overheidsschulden bij Nederland.
+- g) Het voorstellen van criteria op basis waarvan jaarlijks ex post het evenwicht kan worden vastgesteld van de begroting van het Land Aruba en van een plan van aanpak, met inachtneming van de afspraken in de Slotverklaring, voor de sanering van de Arubaanse overheidsschulden bij Nederland.
 
 De praktische uitvoering van de te treffen voorbereidingen vindt plaats onder leiding van de Werkgroep, zodanig dat de steun van Nederland met ingang van het begrotingsjaar 2000 wordt verleend overeenkomstig de in het uit te werken plan van aanpak beschreven nieuwe systematiek.
 
@@ -116,5 +81,3 @@ Er wordt zowel door de staatssecretaris van Binnenlandse Zaken en Koninkrijksrel
 1. De Werkgroep vangt haar werkzaamheden met onmiddellijke ingang aan.
 
 2. De Werkgroep brengt haar plan van aanpak uit vóór 1 maart 2000 aan de minister-president van Aruba, de minister van Financiën van Aruba en de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties. Op hun verzoek doet de Werkgroep hen, gezamenlijk of elk afzonderlijk, tussentijds verslag van haar werkzaamheden en pleegt daarover overleg.
-
-Deze regeling zal worden geplaatst in de Arubaanse Landscourant en de Nederlandse Staatscourant.

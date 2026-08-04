@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 26 augustus 1998, houdende regels met betrekking tot de aanvraag om een vergunning op grond van de Wet bescherming Antarctica (Besluit bescherming Antarctica)"
+citeertitel: "Besluit bescherming Antarctica"
 identifier: "BWBR0009867"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-03-01"
-last_updated: "2015-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009867"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "922753"
-version_id: "1351202"
-internal_id: "C1351201"
-label_id: "894784"
-dtd_version: "2.0"
-original_entry_into_force: "2001-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009867/2015-03-01/0"
-intitule_bron: "Stb.1998-546"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-08-26"
-intitule_published: "1998-09-22"
-intitule_in_force: "2000-10-26"
-intitule_status: "goed"
-original_publication: "Stb.1998-546"
-original_signed_date: "1998-08-26"
-original_published_date: "1998-09-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1998-546"
-entry_into_force_date: "2001-04-01"
-jci_1_3: "jci1.3:c:BWBR0009867&z=2015-03-01&g=2015-03-01"
-jci_1_0: "1.0:c:BWBR0009867&g=2015-03-01"
-citeertitel_status: "officieel"
-short_title: "Besluit bescherming Antarctica"
-signed_date: "1998-08-26"
-entry_into_force: "2001-04-01"
+publicatiedatum: 2001-04-01
+laatste_update: 2015-03-01
+status: geldig
+toestand: 2015-03-01
+bron: "https://wetten.overheid.nl/BWBR0009867"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 26 augustus 1998, houdende regels met betrekking tot de aanvraag om een vergunning op grond van de Wet bescherming Antarctica (Besluit bescherming Antarctica)
-
-Op voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 29 mei 1998, nr. MJZ98050136, Centrale Directie Juridische Zaken, Afdeling Wetgeving, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
-
-Gelet op [artikel 10 van de Wet bescherming Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&artikel=10);
-
-De Raad van State gehoord (advies van 3 juli 1998, nr. W08.980230) Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 20 augustus, nr MJZ 98076524, Centrale Directie Juridische Zaken, Afdeling Wetgeving, uitgebracht mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
@@ -82,63 +52,63 @@ In of bij de aanvraag om een vergunning vermeldt de aanvrager:
 
 - a. een nauwkeurige beschrijving van de activiteit waarvoor een vergunning wordt gevraagd, waaronder in ieder geval wordt begrepen:
 
-- 1°. de omvang, duur en intensiteit van de activiteit;
+   - 1°. de omvang, duur en intensiteit van de activiteit;
 
-- 2°. het doel van de activiteit en de reden om de activiteit in het Antarctisch gebied te laten plaatsvinden;
+   - 2°. het doel van de activiteit en de reden om de activiteit in het Antarctisch gebied te laten plaatsvinden;
 
-- 3°. de in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&artikel=6) genoemde handelingen waarvoor toestemming wordt gevraagd, alsmede doel en noodzaak van deze handelingen;
+   - 3°. de in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&artikel=6) genoemde handelingen waarvoor toestemming wordt gevraagd, alsmede doel en noodzaak van deze handelingen;
 
-- 4°. het aantal personen dat aan de activiteit zal deelnemen;
+   - 4°. het aantal personen dat aan de activiteit zal deelnemen;
 
-- 5°. een nauwkeurige aanduiding van de plaatsen in het Antarctisch gebied, waaronder historische plaatsen en historische monumenten, speciaal beschermde Antarctische gebieden en speciaal beheerde Antarctische gebieden, die worden bezocht, de data en tijden waarop deze plaatsen worden bezocht, alsmede de plaatsen waarnaar onder omstandigheden zal worden uitgeweken en het aantal personen dat de genoemde plaatsen zal bezoeken;
+   - 5°. een nauwkeurige aanduiding van de plaatsen in het Antarctisch gebied, waaronder historische plaatsen en historische monumenten, speciaal beschermde Antarctische gebieden en speciaal beheerde Antarctische gebieden, die worden bezocht, de data en tijden waarop deze plaatsen worden bezocht, alsmede de plaatsen waarnaar onder omstandigheden zal worden uitgeweken en het aantal personen dat de genoemde plaatsen zal bezoeken;
 
-- 6°. een kaart waarop de route die de activiteit zal volgen en de onder 5° bedoelde plaatsen staan aangegeven;
+   - 6°. een kaart waarop de route die de activiteit zal volgen en de onder 5° bedoelde plaatsen staan aangegeven;
 
-- 7°. een beschouwing van de alternatieven voor de voorgenomen activiteit en de overwegingen die hebben geleid tot de keuze voor de activiteit zoals beschreven ingevolge onderdeel 1° tot en met 6°;
+   - 7°. een beschouwing van de alternatieven voor de voorgenomen activiteit en de overwegingen die hebben geleid tot de keuze voor de activiteit zoals beschreven ingevolge onderdeel 1° tot en met 6°;
 
 - b. de gegevens met betrekking tot de bij de activiteit betrokken personen, waaronder in ieder geval worden begrepen:
 
-- 1°. namen, nationaliteiten en adressen van de aanvrager en de in verband met de uitvoering van de activiteit werkzame personen;
+   - 1°. namen, nationaliteiten en adressen van de aanvrager en de in verband met de uitvoering van de activiteit werkzame personen;
 
-- 2°. een voorlopige lijst met namen, nationaliteiten en adressen van de deelnemers aan de activiteit, die uiterlijk 48 uur voor aanvang van de activiteit wordt aangevuld met de definitieve gegevens;
+   - 2°. een voorlopige lijst met namen, nationaliteiten en adressen van de deelnemers aan de activiteit, die uiterlijk 48 uur voor aanvang van de activiteit wordt aangevuld met de definitieve gegevens;
 
-- 3°. gegevens met betrekking tot de deskundigheid van de organisator onderscheidenlijk de in verband met de uitvoering van de activiteit werkzame personen;
+   - 3°. gegevens met betrekking tot de deskundigheid van de organisator onderscheidenlijk de in verband met de uitvoering van de activiteit werkzame personen;
 
 - c. de gegevens met betrekking tot de benodigdheden voor de activiteit, waaronder in ieder geval worden begrepen:
 
-- 1°. stations en andere onderkomens van al dan niet tijdelijke aard die zullen worden bezocht, geplaatst, opgericht of veranderd, alsmede de aanduiding van de plaats van deze onderkomens;
+   - 1°. stations en andere onderkomens van al dan niet tijdelijke aard die zullen worden bezocht, geplaatst, opgericht of veranderd, alsmede de aanduiding van de plaats van deze onderkomens;
 
-- 2°. vervoermiddelen die zullen worden gebruikt of ter beschikking staan;
+   - 2°. vervoermiddelen die zullen worden gebruikt of ter beschikking staan;
 
-- 3°. technieken, materialen, apparaten en installaties, die ten behoeve van de uitvoering van de activiteit worden meegenomen of gebruikt, alsmede de wijze van energievoorziening daarvan;
+   - 3°. technieken, materialen, apparaten en installaties, die ten behoeve van de uitvoering van de activiteit worden meegenomen of gebruikt, alsmede de wijze van energievoorziening daarvan;
 
-- 4°. gevaarlijke stoffen en preparaten, radio-actieve stoffen, chips, polystyrene bolletjes of daarmee naar zijn aard vergelijkbaar verpakkingsmateriaal en genetisch gemodificeerde organismen, die ten behoeve van de uitvoering van de activiteit worden meegenomen of gebruikt;
+   - 4°. gevaarlijke stoffen en preparaten, radio-actieve stoffen, chips, polystyrene bolletjes of daarmee naar zijn aard vergelijkbaar verpakkingsmateriaal en genetisch gemodificeerde organismen, die ten behoeve van de uitvoering van de activiteit worden meegenomen of gebruikt;
 
-- 5°. aard en hoeveelheid voedsel, waaronder soort en aantallen van planten en dode dieren die bestemd als voedsel binnen het Antarctisch gebied worden gebracht;
+   - 5°. aard en hoeveelheid voedsel, waaronder soort en aantallen van planten en dode dieren die bestemd als voedsel binnen het Antarctisch gebied worden gebracht;
 
-- 6°. de soorten, aantallen, en indien van toepassing de leeftijden en geslachten van de planten of de levende organismen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=5&z=2015-03-01&g=2015-03-01) die binnen het Antarctisch gebied worden gebracht en de redenen voor het binnenbrengen in het Antarctisch gebied;
+   - 6°. de soorten, aantallen, en indien van toepassing de leeftijden en geslachten van de planten of de levende organismen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=5&z=2015-03-01&g=2015-03-01) die binnen het Antarctisch gebied worden gebracht en de redenen voor het binnenbrengen in het Antarctisch gebied;
 
 - d. een nauwkeurige beschrijving van de nadelige gevolgen die de activiteit voor het Antarctisch milieu zal of kan veroorzaken, alsmede de aard en omvang van de te onderscheiden vormen van nadelige gevolgen, en de tijdseenheden waarbinnen deze zich kunnen voordoen, waaronder in ieder geval worden begrepen:
 
-- 1°. de nadelige gevolgen die kunnen worden veroorzaakt door:
+   - 1°. de nadelige gevolgen die kunnen worden veroorzaakt door:
 
-- –. het bezoeken, plaatsen, oprichten of veranderen van onderkomens als bedoeld in onderdeel c, onder 1°, en het betreden van plaatsen die niet eerder door mensen werden bezocht;
+      - – het bezoeken, plaatsen, oprichten of veranderen van onderkomens als bedoeld in onderdeel c, onder 1°, en het betreden van plaatsen die niet eerder door mensen werden bezocht;
 
-- –. het gebruik van benodigdheden als bedoeld in onderdeel c, onder 2° tot en met 4°;
+      - – het gebruik van benodigdheden als bedoeld in onderdeel c, onder 2° tot en met 4°;
 
-- –. het meenemen van voedsel naar Antarctica, met uitzondering van de nadelige gevolgen die kunnen worden veroorzaakt door het meenemen van planten en dode dieren bestemd als voedsel;
+      - – het meenemen van voedsel naar Antarctica, met uitzondering van de nadelige gevolgen die kunnen worden veroorzaakt door het meenemen van planten en dode dieren bestemd als voedsel;
 
-- –. het uit het Antarctisch gebied verwijderen of al dan niet tijdelijk verplaatsen van fysieke elementen, zoals ijs, grond, rots, fossielen, botten en schelpen;
+      - – het uit het Antarctisch gebied verwijderen of al dan niet tijdelijk verplaatsen van fysieke elementen, zoals ijs, grond, rots, fossielen, botten en schelpen;
 
-- 2°. de afvalstoffen die tijdens de uitvoering van de activiteit ontstaan, de wijze waarop deze afvalstoffen worden opgeslagen en de wijze waarop men zich van de afvalstoffen zal ontdoen, waarbij onderscheid wordt gemaakt tussen gevaarlijke afvalstoffen, andere afvalstoffen die vast en niet-brandbaar zijn, brandbare afvalstoffen en afvalwater;
+   - 2°. de afvalstoffen die tijdens de uitvoering van de activiteit ontstaan, de wijze waarop deze afvalstoffen worden opgeslagen en de wijze waarop men zich van de afvalstoffen zal ontdoen, waarbij onderscheid wordt gemaakt tussen gevaarlijke afvalstoffen, andere afvalstoffen die vast en niet-brandbaar zijn, brandbare afvalstoffen en afvalwater;
 
-- 3°. de cumulatieve effecten van de combinatie van de voorgenomen activiteit met andere bestaande of geplande activiteiten in het Antarctische gebied die de aanvrager redelijkerwijs bekend kunnen zijn;
+   - 3°. de cumulatieve effecten van de combinatie van de voorgenomen activiteit met andere bestaande of geplande activiteiten in het Antarctische gebied die de aanvrager redelijkerwijs bekend kunnen zijn;
 
 - e. de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om nadelige gevolgen voor het Antarctisch milieu, die de activiteit kan veroorzaken, zoveel mogelijk te voorkomen of te beperken,
 
-- 1°. een beschrijving van de voorzorgsmaatregelen die worden getroffen om te voorkomen dat onbedoeld niet-steriele aarde en niet in de inheemse flora en fauna aanwezig zijnde micro-organismen, zoals virussen, bacteriën, gisten en schimmels binnen het Antarctisch gebied worden gebracht.
+   - 1°. een beschrijving van de voorzorgsmaatregelen die worden getroffen om te voorkomen dat onbedoeld niet-steriele aarde en niet in de inheemse flora en fauna aanwezig zijnde micro-organismen, zoals virussen, bacteriën, gisten en schimmels binnen het Antarctisch gebied worden gebracht.
 
-- 2°. een beschrijving van de preventieve maatregelen die worden getroffen ter vermindering van het risico van milieubedreigende noodsituaties en de mogelijke gevolgen daarvan;
+   - 2°. een beschrijving van de preventieve maatregelen die worden getroffen ter vermindering van het risico van milieubedreigende noodsituaties en de mogelijke gevolgen daarvan;
 
 - f. de nadelige invloeden die de activiteit kan hebben op andere bestaande of geplande activiteiten in het Antarctische gebied die de aanvrager redelijkerwijs bekend kunnen zijn, alsmede de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om deze invloeden zoveel mogelijk te voorkomen of te beperken;
 
@@ -148,11 +118,11 @@ In of bij de aanvraag om een vergunning vermeldt de aanvrager:
 
 - i. de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om snel en doeltreffend ongevallen te bestrijden, met name ongevallen die gevolgen voor het milieu kunnen hebben, waaronder een rampenplan waarin tenminste is aangegeven:
 
-- 1°. hoe de gezondheid en veiligheid, opsporing en redding, medische zorg en evacuatie van de deelnemers aan de activiteit wordt gewaarborgd en wie betrokken is bij de uitvoering van dat onderdeel van het rampenplan;
+   - 1°. hoe de gezondheid en veiligheid, opsporing en redding, medische zorg en evacuatie van de deelnemers aan de activiteit wordt gewaarborgd en wie betrokken is bij de uitvoering van dat onderdeel van het rampenplan;
 
-- 2°. hoe ongevallen met mogelijk nadelige gevolgen voor het Antarctisch milieu worden bestreden en wie betrokken is bij de uitvoering van dat onderdeel van het rampenplan;
+   - 2°. hoe ongevallen met mogelijk nadelige gevolgen voor het Antarctisch milieu worden bestreden en wie betrokken is bij de uitvoering van dat onderdeel van het rampenplan;
 
-- 3°. indien de organisator bij de uitvoering van het rampenplan afhankelijk is van de ondersteuning door partijen of andere organisatoren, een afschrift van de overeenkomst waaruit blijkt dat deze zich daartoe hebben verbonden;
+   - 3°. indien de organisator bij de uitvoering van het rampenplan afhankelijk is van de ondersteuning door partijen of andere organisatoren, een afschrift van de overeenkomst waaruit blijkt dat deze zich daartoe hebben verbonden;
 
 - j. de voor de aanvrager redelijkerwijs te verwachten ontwikkelingen die voor de beslissing op de aanvraag van belang kunnen zijn;
 
@@ -162,13 +132,13 @@ In of bij de aanvraag om een vergunning vermeldt de aanvrager:
 
 - m. een afschrift van de verzekeringspolis of een bewijs van andere financiële waarborgen die door de organisator zijn verkregen ter dekking van:
 
-- 1°. de kosten die betrekking hebben op opsporings- en reddingsacties, medische zorg en evacuatie. Voor zover de activiteit plaatsvindt aan boord van een schip of een luchtvaartuig, kan de organisator volstaan met het aantonen dat de verzekering of financiële zekerheid door een ander dan de organisator in stand wordt gehouden;
+   - 1°. de kosten die betrekking hebben op opsporings- en reddingsacties, medische zorg en evacuatie. Voor zover de activiteit plaatsvindt aan boord van een schip of een luchtvaartuig, kan de organisator volstaan met het aantonen dat de verzekering of financiële zekerheid door een ander dan de organisator in stand wordt gehouden;
 
-- 2°. zijn aansprakelijkheid ingevolge [artikel 25c, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&artikel=25c), tot een bedrag berekend overeenkomstig [artikel 25e, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&artikel=25e);
+   - 2°. zijn aansprakelijkheid ingevolge [artikel 25c, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&artikel=25c), tot een bedrag berekend overeenkomstig [artikel 25e, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&artikel=25e);
 
-- 3°. de kosten die gemoeid zijn met de uitvoering van de activiteit;
+   - 3°. de kosten die gemoeid zijn met de uitvoering van de activiteit;
 
-- 4°. de aansprakelijkheid voor schade die voortvloeit uit door de betrokken activiteit veroorzaakte nadelige gevolgen voor het Antarctisch milieu.
+   - 4°. de aansprakelijkheid voor schade die voortvloeit uit door de betrokken activiteit veroorzaakte nadelige gevolgen voor het Antarctisch milieu.
 
 ##### Artikel 4
 
@@ -216,13 +186,25 @@ Indien de aanvraag mede betrekking heeft op het bezoeken van speciaal beschermd 
 
 - a. de handelingen die in dat gebied zullen worden verricht, alsmede:
 
-- 1°. de omvang, de duur en de intensiteit van deze handelingen;
+   - 1°. de omvang, de duur en de intensiteit van deze handelingen;
 
-- 2°. de precieze aanduiding van de plaatsen waar en data en tijden waarop deze handelingen worden uitgevoerd;
+   - 2°. de precieze aanduiding van de plaatsen waar en data en tijden waarop deze handelingen worden uitgevoerd;
 
-- 3°. een specificatie van de gegevens als bedoeld in [artikel 3, onderdeel c tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=3&z=2015-03-01&g=2015-03-01), met betrekking tot deze handelingen;
+   - 3°. een specificatie van de gegevens als bedoeld in [artikel 3, onderdeel c tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=3&z=2015-03-01&g=2015-03-01), met betrekking tot deze handelingen;
 
 - b. de wijze waarop wordt gewaarborgd dat aan het op het gebied betrekking hebbende beheersplan, als bedoeld in artikel 5 van bijlage V bij het Protocol, wordt voldaan.
+
+##### Artikel 7a
+
+Indien de aanvraag mede betrekking heeft op het vanaf een schip aan land gaan in het Antarctisch gebied, vermeldt de aanvrager in of bij de aanvraag tevens:
+
+- a. hoe wordt samengewerkt met andere in het desbetreffende deel van het Antarctisch gebied aanwezige organisatoren, om te voorkomen dat zich meer dan één toeristenschip bij een aanlandplaats bevindt;
+
+- b. hoe wordt gegarandeerd dat bij die aanlandingen het aantal passagiers dat tegelijkertijd aan wal is, op ieder moment beperkt blijft tot ten hoogste 100 personen;
+
+- c. hoe wordt gegarandeerd dat bij die aanlandingen er minimaal 1 gids per 20 passagiers aanwezig is;
+
+- d. over welke kwalificaties de gids, bedoeld in onderdeel c, beschikt.
 
 ##### Artikel 8
 
@@ -237,21 +219,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit bescherming Antarctica.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a
-
-Indien de aanvraag mede betrekking heeft op het vanaf een schip aan land gaan in het Antarctisch gebied, vermeldt de aanvrager in of bij de aanvraag tevens:
-
-- a. hoe wordt samengewerkt met andere in het desbetreffende deel van het Antarctisch gebied aanwezige organisatoren, om te voorkomen dat zich meer dan één toeristenschip bij een aanlandplaats bevindt;
-
-- b. hoe wordt gegarandeerd dat bij die aanlandingen het aantal passagiers dat tegelijkertijd aan wal is, op ieder moment beperkt blijft tot ten hoogste 100 personen;
-
-- c. hoe wordt gegarandeerd dat bij die aanlandingen er minimaal 1 gids per 20 passagiers aanwezig is;
-
-- d. over welke kwalificaties de gids, bedoeld in onderdeel c, beschikt.
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

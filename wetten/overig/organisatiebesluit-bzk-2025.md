@@ -1,42 +1,17 @@
 ---
 title: "Organisatiebesluit BZK 2025"
 identifier: "BWBR0051449"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-03-03"
-last_updated: "2026-03-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051449"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17513863"
-version_id: "30903522"
-internal_id: "C44279221"
-label_id: "17416514"
-dtd_version: "2.0"
-original_entry_into_force: "2025-09-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051449/2026-03-03/0"
-intitule_bron: "Stcrt.2025-29668"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-09-02"
-intitule_in_force: "2025-09-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-29668"
-original_published_date: "2025-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-29668"
-entry_into_force_date: "2025-09-03"
-jci_1_3: "jci1.3:c:BWBR0051449&z=2026-03-03&g=2026-03-03"
-jci_1_0: "1.0:c:BWBR0051449&g=2026-03-03"
-citeertitel_status: "officieel"
-entry_into_force: "2025-09-03"
+publicatiedatum: 2025-09-03
+laatste_update: 2026-07-29
+status: geldig
+toestand: 2026-07-29
+bron: "https://wetten.overheid.nl/BWBR0051449"
+opgehaald: 2026-08-04
 ---
+
 # Organisatiebesluit BZK 2025
-
-gelet op [artikel 3, tweede lid van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-besluit
-
-vast te stellen het navolgende Organisatiebesluit BZK 2025:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -44,17 +19,17 @@ vast te stellen het navolgende Organisatiebesluit BZK 2025:
 
 In dit besluit wordt verstaan onder:
 
-- a. **Ministerie:** het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *Ministerie:* het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties of de Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
-- c. **bewindspersonen:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties, of de Staatssecretaris Digitalisering en Koninkrijksrelaties of de Staatssecretaris Herstel Groningen, afhankelijk van wie het aangaat;
+- c. *bewindspersonen:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties, of de Minister van Volkshuisvesting en Ruimtelijke Ordening of de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, afhankelijk van wie het aangaat;
 
-- d. **capaciteitsplan:** schriftelijk stuk waarin de uitwerking van de flexibele organisatiestructuur van een dienstonderdeel wordt vastgelegd evenals de verdeling van de formatie binnen deze structuur;
+- d. *capaciteitsplan:* schriftelijk stuk waarin de uitwerking van de flexibele organisatiestructuur van een dienstonderdeel wordt vastgelegd evenals de verdeling van de formatie binnen deze structuur;
 
-- e. **BZK Kerndepartement:** de Directoraten-Generaal Openbaar Bestuur en Democratische Rechtsstaat, Volkshuisvesting en Bouwen, Koninkrijksrelaties, Digitalisering en Overheidsorganisatie, Ruimtelijke Ordening en de clusters Mensen en Middelen en Bestuursondersteuning.
+- e. *BZK Kerndepartement:* de Directoraten-Generaal Openbaar Bestuur en Democratische Rechtsstaat, Volkshuisvesting en Bouwen, Koninkrijksrelaties, Digitalisering en Overheidsorganisatie, Ruimtelijke Ordening en de clusters Mensen en Middelen en Bestuursondersteuning.
 
-- f. **secretaris-generaal:** de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+- f. *secretaris-generaal:* de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ### Hoofdstuk 2. Hoofd- en overlegstructuur
 
@@ -82,39 +57,35 @@ In dit besluit wordt verstaan onder:
 
 - j. de regeringscommissaris [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885);
 
-- k. het cluster Mensen en Middelen (M&M);
+- k. de regeringscommissaris Hersteloperatie Groningen en Noord-Drenthe;
 
-- l. het cluster Bestuursondersteuning (BO);
+- l. het cluster Mensen en Middelen (M&M);
 
-- m. het agentschap Dienst van de Huurcommissie (DHC);
+- m. het cluster Bestuursondersteuning (BO);
 
-- n. het agentschap Logius;
+- n. het agentschap Dienst van de Huurcommissie (DHC);
 
-- o. het agentschap Rijksdienst voor Identiteitsgegevens (RvIG);
+- o. het agentschap Logius;
 
-- p. de dienst Toelatingsorganisatie Kwaliteitsborging Bouw (TloKB);
+- p. het agentschap Rijksdienst voor Identiteitsgegevens (RvIG);
 
-- q. de dienst Nationaal Coördinator Groningen (NCG).
+- q. de dienst Toelatingsorganisatie Kwaliteitsborging Bouw (TloKB);
 
-2. De dienstonderdelen bestaan uit organisatieonderdelen waarvan de inrichting nader kan worden beschreven op een wijze als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2026-03-03&g=2026-03-03).
+- r. de dienst Nationaal Coördinator Groningen (NCG);
 
-3. De secretaris-generaal geeft hiërarchisch leiding aan de leidinggevende functionarissen van de dienstonderdelen genoemd in het eerste lid.
+- s. het Bureau Instituut Mijnbouwschade Groningen (IMG).
 
-4. De secretaris-generaal geeft ook functioneel leiding aan de leidinggevende functionarissen van de dienstonderdelen genoemd in het eerste lid, met uitzondering van:
+2. De dienstonderdelen bestaan uit organisatieonderdelen waarvan de inrichting nader kan worden beschreven op een wijze als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2026-07-29&g=2026-07-29).
 
-- a. het directoraat-generaal Volkshuisvesting en Bouwen;
+3. De secretaris-generaal geeft leiding aan de leidinggevende functionarissen van de dienstonderdelen genoemd in het eerste lid, met uitzondering van:
 
-- b. het directoraat-generaal Ruimtelijke Ordening;
+- a. het agentschap Dienst Huurcommissie dat ressorteert onder het bestuur van de Huurcommissie;
 
-- c. het Rijksvastgoedbedrijf dat ressorteert onder het directoraat-generaal Vastgoed en Bedrijfsvoering Rijk;
+- b. de dienst Toelatingsorganisatie Kwaliteitsborging Bouw die ressorteert onder het bestuur van de Toelatingsorganisatie Kwaliteitsborging Bouw.
 
-- d. de regeringscommissaris [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885);
+- c. het Bureau Instituut Mijnbouwschade Groningen dat ressorteert onder het bestuur van het Instituut Mijnbouwschade Groningen.
 
-- e. het agentschap Dienst van de Huurcommissie dat ressorteert onder het bestuur van de Huurcommissie;
-
-- f. de dienst Toelatingsorganisatie Kwaliteitsborging Bouw die ressorteert onder het bestuur van de Toelatingsorganisatie Kwaliteitsborging Bouw.
-
-5. De Nationaal Coördinator tegen Discriminatie en Racisme genoemd in het eerste lid, onder i, voert de opgedragen taken uit onder verantwoordelijkheid van de Minister. De regeringscommissaris [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) genoemd in het eerste lid, onder j, voert de opgedragen taken uit onder de verantwoordelijkheid van de Minister van Volkshuisvesting en Ruimtelijke Ordening.
+4. De Nationaal Coördinator tegen Discriminatie en Racisme genoemd in het eerste lid, onder i, voert de opgedragen taken uit onder verantwoordelijkheid van de Minister. De regeringscommissaris [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) genoemd in het eerste lid, onder j, voert de opgedragen taken uit onder de verantwoordelijkheid van de Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
 ##### Artikel 3
 
@@ -124,21 +95,19 @@ In dit besluit wordt verstaan onder:
 
 3. De Bestuursraad Breed is samengesteld uit de Bestuursraad Smal aangevuld met de directeuren-generaal Algemene Inlichtingen- en Veiligheidsdienst en Algemene Bestuursdienst. De leden kunnen zich incidenteel laten vervangen door hun plaatsvervangers of, in uitzonderlijke gevallen, door een andere rechtstreeks onder hen ressorterende functionaris. De CIO BZK heeft een staande uitnodiging voor de Bestuursraad Breed.
 
-4. De secretaris-generaal van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening neemt deel aan zowel de Bestuursraad breed en smal alleen voor zover het beleidsonderwerpen betreft die het Ministerie van Volkshuisvesting en Ruimtelijke Ordening aan gaan.
+4. Het overleg in de Bestuursraad Smal, respectievelijk de Bestuursraad Breed, heeft, onverminderd het bepaalde in de departementale mandaat- en volmachtsbesluiten over de bevoegdheden van de afzonderlijke leden van de Bestuursraad Smal, respectievelijk de Bestuursraad Breed ten aanzien van de onderwerpen die in het overleg aan de orde komen, ten doel het bespreken en het bereiken van overeenstemming over de departementale beleids- en beheerkaders en het toezien op de uitvoering van deze kaders.
 
-5. Het overleg in de Bestuursraad Smal, respectievelijk de Bestuursraad Breed, heeft, onverminderd het bepaalde in de departementale mandaat- en volmachtsbesluiten over de bevoegdheden van de afzonderlijke leden van de Bestuursraad Smal, respectievelijk de Bestuursraad Breed ten aanzien van de onderwerpen die in het overleg aan de orde komen, ten doel het bespreken en het bereiken van overeenstemming over de departementale beleids- en beheerkaders en het toezien op de uitvoering van deze kaders.
+5. De Bestuursraad Smal, respectievelijk de Bestuursraad Breed, heeft tevens tot doel het bespreken en het bereiken van overeenstemming over aspecten van het departementale personeelsbeleid en personele aangelegenheden alsmede het toezien op de uitvoering hiervan.
 
-6. De Bestuursraad Smal, respectievelijk de Bestuursraad Breed, heeft tevens tot doel het bespreken en het bereiken van overeenstemming over aspecten van het departementale personeelsbeleid en personele aangelegenheden alsmede het toezien op de uitvoering hiervan.
+6. Al hetgeen in de vergaderingen aan de orde komt is vertrouwelijk, voor zover niet anders is besloten of indien bij wettelijk voorschrift anders is bepaald.
 
-7. Al hetgeen in de vergaderingen aan de orde komt is vertrouwelijk, voor zover niet anders is besloten of indien bij wettelijk voorschrift anders is bepaald.
+7. Een adviseur van de directie Bestuursadvisering voert het secretariaat van de Bestuursraad.
 
-8. Een adviseur van de directie Bestuursadvisering voert het secretariaat van de Bestuursraad.
-
-9. Een adviseur van de directie P&O voert het secretariaat van de bespreking van het departementale personeelsbeleid.
+8. Een adviseur van de directie P&O voert het secretariaat van de bespreking van het departementale personeelsbeleid.
 
 ##### Artikel 4
 
-1. Overeenkomstig [artikel 1 van het Besluit regeling functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419&artikel=1) (Stb. 1988, 499), is de secretaris-generaal belast met de ambtelijke leiding van al hetgeen het Ministerie betreft. Tot deze taak behoort in ieder geval:
+Overeenkomstig [artikel 1 van het Besluit regeling functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419&artikel=1) (Stb. 1988, 499), is de secretaris-generaal belast met de ambtelijke leiding van al hetgeen het Ministerie betreft. Tot deze taak behoort in ieder geval:
 
 - a. het informeren en adviseren van de bewindspersonen over aangelegenheden, de bewindspersonen of het Ministerie betreffende;
 
@@ -157,8 +126,6 @@ In dit besluit wordt verstaan onder:
 - h. het geven van uitvoering aan de [Regeling audit committees van het Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0040281);
 
 - i. het verlenen of weigeren van goedkeuring van besluiten tot uitzonderingen op de aanbestedingsregelgeving.
-
-2. De secretaris-generaal werkt samen met de secretaris-generaal van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening op basis van de afspraken die zijn vastgelegd (Besturingsafspraken).
 
 ##### Artikel 5
 
@@ -228,15 +195,13 @@ In dit besluit wordt verstaan onder:
 
 - c. de directie Constitutionele Zaken en Wetgeving;
 
-- d. de directie Schadeherstel Groningen;
-
-- e. de directie Versterken en Perspectief Groningen.
+- d. de directie Herstel en Perspectief Groningen.
 
 ##### Artikel 7
 
 1. De directie Constitutionele Zaken en Wetgeving staat onder leiding van een directeur.
 
-2. De directie is, naast de beleidsmatige taken zoals genoemd in [artikel 6, tweede lid, onderdeel b tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2026-03-03&g=2026-03-03) van dit besluit, belast met de departement brede juridische taken en zelfstandige advisering over onder meer:
+2. De directie is, naast de beleidsmatige taken zoals genoemd in [artikel 6, tweede lid, onderdeel b tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2026-07-29&g=2026-07-29) van dit besluit, belast met de departement brede juridische taken en zelfstandige advisering over onder meer:
 
 - a. het beheer en onderhoud van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en het [Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
@@ -250,7 +215,7 @@ In dit besluit wordt verstaan onder:
 
 - f. het begeleiden en voeren van bestuursrechtelijke en civielrechtelijke (gerechtelijke) procedures namens de bewindspersonen of de Staat der Nederlanden en de advisering over juridische aangelegenheden in het algemeen, alsmede de advisering in bijzondere opdrachten van bewindspersonen en de ambtelijke top;
 
-- g. de rijksbrede stelselverantwoordelijkheid voor de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
+- g. de rijksbrede stelselverantwoordelijkheid voor de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
 #### Paragraaf 3.2. Directoraat-generaal Volkshuisvesting en Bouwen
 
@@ -258,7 +223,9 @@ In dit besluit wordt verstaan onder:
 
 1. Het directoraat-generaal Volkshuisvesting en Bouwen staat onder leiding van een directeur-generaal.
 
-2. Het directoraat-generaal richt zich op het domein van wonen en gebouwde omgeving, bouwen en de energietransitie van de gebouwde omgeving in Nederland, geeft uitvoering aan de regisserende en ondersteunende rol van de Minister van Volkshuisvesting en Ruimtelijke Ordening en heeft onder meer de volgende taken:
+2. De directeur-generaal Volkshuisvesting en Bouwen treedt op als gemandateerd continuïteitsverantwoordelijke van het Rijksvastgoedbedrijf.
+
+3. Het directoraat-generaal richt zich op het domein van wonen en gebouwde omgeving, bouwen en de energietransitie van de gebouwde omgeving in Nederland, geeft uitvoering aan de regisserende en ondersteunende rol van de Minister van Volkshuisvesting en Ruimtelijke Ordening en heeft onder meer de volgende taken:
 
 - a. het beleid en de regelgeving voor de huurwoningmarkt, woningcorporaties en koopwoningmarkt, gericht op betaalbaarheid, kwaliteit en leefbaarheid van woningen;
 
@@ -278,7 +245,7 @@ In dit besluit wordt verstaan onder:
 
 - i. de beleidsverantwoordelijke voor het zelfstandige bestuursorgaan de Huurcommissie.
 
-3. Het directoraat-generaal bestaat uit de volgende organisatieonderdelen:
+4. Het directoraat-generaal bestaat uit de volgende organisatieonderdelen:
 
 - a. de directie Bouwen en Energie;
 
@@ -290,7 +257,7 @@ In dit besluit wordt verstaan onder:
 
 - e. de programmadirectie Nationaal Programma Lokale Warmtetransitie (NPLW).
 
-4. De directeur Woningbouwbeleid is tevens plaatsvervangend directeur-generaal Volkshuisvesting en Bouwen.
+5. De directeur Woningbouwbeleid is tevens plaatsvervangend directeur-generaal Volkshuisvesting en Bouwen.
 
 #### Paragraaf 3.3. Directoraat-generaal Ruimtelijke Ordening
 
@@ -344,7 +311,7 @@ In dit besluit wordt verstaan onder:
 
 - g. het aansturen van de Rijksdienst Caribisch Nederland (RCN);
 
-- h. het ondersteunen van de Vertegenwoordiger bij het uitvoeren van zijn taken en opdracht zoals vastgelegd in het [koninklijk besluit van 4 maart 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033134) (Stcrt. 2013, nr. 8486).
+- h. het ondersteunen van de Vertegenwoordiger bij het uitvoeren van zijn taken en opdracht zoals vastgelegd in het [koninklijk besluit van 4 maart 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033134) (Stcrt. 2013, nr. 8486).
 
 3. Het directoraat-generaal bestaat uit de volgende organisatieonderdelen:
 
@@ -354,13 +321,13 @@ In dit besluit wordt verstaan onder:
 
 4. Het directoraat-generaal kent geen directies, maar wel de volgende verantwoordelijken:
 
-- a. de directeur Landen;
+- a. de directeur Beleid;
 
-- b. de directeur Caribisch Nederland.
+- b. de Vertegenwoordiger;
 
-5. Onder de directeur Landen ressorteert de Vertegenwoordiger van Nederland in Aruba, Curaçao en Sint-Maarten. De Vertegenwoordiger geeft leiding aan de Vertegenwoordiging.
+- c. de afdeling Bedrijfsbureau.
 
-6. De Vertegenwoordiger heeft de taken als bedoeld in het besluit in het tweede lid onder h.
+5. De Vertegenwoordiger van Nederland in Aruba, Curaçao en Sint-Maarten geeft leiding aan de Vertegenwoordiging. De Vertegenwoordiger heeft de taken als bedoeld in het besluit in het tweede lid onder h.
 
 #### Paragraaf 3.5. Directoraat-generaal Digitalisering en Overheidsorganisatie
 
@@ -374,11 +341,11 @@ In dit besluit wordt verstaan onder:
 
 - b. de interbestuurlijke en interdepartementale ontwikkeling van de i-Overheid voor burgers en bedrijven:
 
-- 1°. de randvoorwaardelijke beleidsontwikkeling ten behoeve van de i-samenleving waaruit onder andere voortvloeit de ontwikkeling en realisatie van de digitale basisvoorzieningen voor burgers en bedrijven, met inbegrip van de bijbehorende regelgeving, toezicht en de bijbehorende bestuurlijke structuur voor de aansturing en financiering van de voorzieningen;
+   - 1°. de randvoorwaardelijke beleidsontwikkeling ten behoeve van de i-samenleving waaruit onder andere voortvloeit de ontwikkeling en realisatie van de digitale basisvoorzieningen voor burgers en bedrijven, met inbegrip van de bijbehorende regelgeving, toezicht en de bijbehorende bestuurlijke structuur voor de aansturing en financiering van de voorzieningen;
 
-- 2°. de beleidsverantwoordelijke van RvIG, Logius, DICTU, ICTU, de Kamer van Koophandel en de samenwerkingsovereenkomsten met de Rijksdienst voor ondernemend Nederland voor zover deze voortkomen uit de verantwoordelijkheid voor de voorzieningen en beleidsverantwoordelijkheden;
+   - 2°. de beleidsverantwoordelijke van RvIG, Logius, DICTU, ICTU, de Kamer van Koophandel en de samenwerkingsovereenkomsten met de Rijksdienst voor ondernemend Nederland voor zover deze voortkomen uit de verantwoordelijkheid voor de voorzieningen en beleidsverantwoordelijkheden;
 
-- 3°. de digitale identificatie (eID);
+   - 3°. de digitale identificatie (eID);
 
 - c. het bevorderen van de optimale vormgeving van de informatisering en ICT in het Rijk en bij zelfstandige bestuursorganen door het stellen van kaders en het toezicht daarop;
 
@@ -552,7 +519,7 @@ In dit besluit wordt verstaan onder:
 
 3. De Nationaal Coördinator tegen Discriminatie en Racisme wordt bij het uitvoeren van zijn taken ondersteund door een bureau. Het hoofd van het Bureau wordt rechtstreeks aangestuurd door de Nationaal Coördinator tegen Discriminatie en Racisme.
 
-#### Paragraaf 3.10. De regeringscommissaris [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
+#### Paragraaf 3.10. De regeringscommissaris Omgevingswet
 
 ##### Artikel 16
 
@@ -566,11 +533,29 @@ In dit besluit wordt verstaan onder:
 
 - c. het bij de uitvoering van de taken onder a en b: zorgen voor verbinding met de uitvoeringspraktijk, bestuur, wetenschap en rechtelijke macht.
 
-- d. De regeringscommissaris [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) wordt voor de werkzaamheden ondersteund door de directie Constitutionele Zaken en Wetgeving en heeft een budget voor de toebedeelde taken. De middelen hiervoor worden verstrekt door het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
+3. De regeringscommissaris Omgevingswet wordt voor de werkzaamheden ondersteund door de directie Constitutionele Zaken en Wetgeving en heeft een budget voor de toebedeelde taken. De middelen hiervoor worden verstrekt door het Ministerie.
 
-#### Paragraaf 3.11. Cluster Mensen en Middelen
+#### Paragraaf 3.11. Regeringscommissaris Hersteloperatie Groningen en Noord-Drenthe
 
 ##### Artikel 17
+
+1. De regeringscommissaris Hersteloperatie Groningen en Noord-Drenthe staat beheersmatig onder leiding van de secretaris-generaal.
+
+2. De regeringscommissaris Hersteloperatie Groningen en Noord-Drenthe heeft de volgende taken:
+
+- a. het creëren van bestuurlijke rust en stabiliteit voor bewoners en uitvoeringsorganisaties in Groningen en Noord-Drenthe;
+
+- b. het verbinden en aanjagen van bij de uitvoering van Nij begun betrokken uitvoeringsorganisaties, overheden, maatschappelijke partijen en bewonersorganisaties, kennisinstellingen, bedrijven, alsmede de verantwoordelijke bewindspersonen van het kabinet;
+
+- c. het adviseren van de minister over het wegnemen van knelpunten die de voortgang van de versterking en de schadeafhandeling als gevolg van de aardgaswinning in Groningen belemmeren en over het versnellen van de schadeafhandeling en versterking rekening houdend met de uitvoerbaarheid en doeltreffendheid van de adviezen in de praktijk;
+
+- d. het fungeren als aanjager en verbinder in Groningen en Noord-Drenthe vanuit het Rijk alsmede in Den Haag vanuit de regio voor de sociale en economische agenda’s en verduurzaming en isolatieaanpak.
+
+3. De regeringscommissaris Hersteloperatie Groningen en Noord-Drenthe wordt voor de werkzaamheden ondersteund door de directie Herstel en Perspectief Groningen. De middelen hiervoor worden verstrekt door het ministerie.
+
+#### Paragraaf 3.12. Cluster Mensen en Middelen
+
+##### Artikel 18
 
 1. Het cluster Mensen en Middelen, met uitzondering van FEZ en sRob, staat onder inhoudelijke leiding van de plaatsvervangend secretaris-generaal en onder beheersmatige leiding van de clusterdirecteur Mensen en Middelen. De directeur P&O vervult de rol van clusterdirecteur Mensen en Middelen. Bij afwezigheid van de plaatsvervangend secretaris-generaal is de clusterdirecteur Mensen en Middelen plaatsvervanger ten aanzien van aangelegenheden die het cluster Mensen en Middelen als geheel betreffen. Bij afwezigheid van de clusterdirecteur Mensen en Middelen is de directeur FEZ eerste plaatsvervanger en de directeur Chief Information Officer & Informatiemanagement tweede plaatsvervanger.
 
@@ -590,7 +575,7 @@ In dit besluit wordt verstaan onder:
 
 - d. het secretariaat van de Raad voor het openbaar bestuur (sRob).
 
-##### Artikel 18
+##### Artikel 19
 
 1. De directie P&O staat onder leiding van een directeur.
 
@@ -608,7 +593,7 @@ In dit besluit wordt verstaan onder:
 
 3. Onderdeel van de Directie P&O is et Bureau Integriteit en Sociale Veiligheid. Het Bureau Integriteit en Sociale Veiligheid geeft invulling aan de stelselverantwoordelijkheid op integriteit en sociale veiligheid. Het Bureau Integriteit en Sociale Veiligheid staat beleids- en beheersmatig onder leiding van de directeur P&O en voor de behandeling van integriteitscasuïstiek onder leiding van de secretaris-generaal.
 
-##### Artikel 19
+##### Artikel 20
 
 1. De directie Financieel-economische Zaken staat onder leiding van een directeur.
 
@@ -640,7 +625,7 @@ In dit besluit wordt verstaan onder:
 
 - d. het adviseren van de (gemandateerd) continuïteitsverantwoordelijken van rijksbrede inkoopcategorieën binnen het Ministerie.
 
-##### Artikel 20
+##### Artikel 21
 
 1. De directie CIO&I staat onder leiding van een directeur. De directeur CIO&I vervult tevens de rol van CIO BZK.
 
@@ -662,9 +647,9 @@ In dit besluit wordt verstaan onder:
 
 - h. de verantwoordelijk voor het CIO stelsel van het Ministerie, het uitvoeren van de bijbehorende PDCA cyclus, CIO gesprekken, eigenaar van het I-beraad en het aanmelden van activiteiten bij het Adviescollege ICT-toetsing, als bedoeld in [artikel 11, eerste lid, van de Wet Adviescollege ICT-toetsing](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&artikel=11).
 
-#### Paragraaf 3.12. Cluster Bestuursondersteuning
+#### Paragraaf 3.13. Cluster Bestuursondersteuning
 
-##### Artikel 21
+##### Artikel 22
 
 1. Het cluster Bestuursondersteuning staat onder inhoudelijke leiding van de plaatsvervangend secretaris-generaal en onder beheersmatige leiding van de clusterdirecteur Bestuursondersteuning. De rol van clusterdirecteur Bestuursondersteuning wordt roulerend vervuld door de directeuren KIEM, BA en Communicatie. Bij afwezigheid van de plaatsvervangend secretaris-generaal is de clusterdirecteur Bestuursondersteuning plaatsvervanger ten aanzien van aangelegenheden die het cluster Bestuursondersteuning als geheel betreffen.
 
@@ -678,7 +663,7 @@ In dit besluit wordt verstaan onder:
 
 - c. de directie Kennis, Internationaal, Europa en Macro-economie (KIEM).
 
-##### Artikel 22
+##### Artikel 23
 
 1. De directie Communicatie staat onder leiding van een directeur.
 
@@ -690,13 +675,13 @@ In dit besluit wordt verstaan onder:
 
 - c. managen van de dagelijkse actualiteit (kansen, issues, crises).
 
-##### Artikel 23
+##### Artikel 24
 
 1. De directie BA staat onder leiding van een directeur.
 
 2. De directie heeft onder meer de volgende taken:
 
-- a. het Ministerie en het Ministerie van Volkshuisvesting en Ruimtelijke Ordening in de volle breedte ondersteunen bij het aanbrengen van samenhang en integraliteit in het politieke en beleidswerk, specifiek vanuit politiek-bestuurlijk oogpunt;
+- a. het Ministerie in de volle breedte ondersteunen bij het aanbrengen van samenhang en integraliteit in het politieke en beleidswerk, specifiek vanuit politiek-bestuurlijk oogpunt;
 
 - b. adviseren van directies en bewindspersonen op inhoud;
 
@@ -708,29 +693,29 @@ In dit besluit wordt verstaan onder:
 
 - f. voorbereiding van het departement op het beheersen van grootschalige incidenten, actualiteiten of crises, en invulling van de piketfunctie en interdepartementaal aanspreekpunt in geval van crisis.
 
-##### Artikel 24
+##### Artikel 25
 
 1. De directie KIEM staat onder leiding van een directeur.
 
 2. De directie heeft onder meer de volgende taken:
 
-- a. de inhoudelijke, BZK/VRO-brede strategische agenda versterken;
+- a. de inhoudelijke, strategische agenda versterken;
 
-- b. het Europees en internationaal beleid van BZK en VRO coördineren;
+- b. het Europees en internationaal beleid coördineren;
 
-- c. de economische rationaliteit inbrengen in het BZK/VRO-beleid.
+- c. de economische rationaliteit inbrengen in het beleid.
 
-#### Paragraaf 3.13. Dienst van de Huurcommissie
+#### Paragraaf 3.14. Dienst van de Huurcommissie
 
-##### Artikel 25
+##### Artikel 26
 
 1. De Dienst van de Huurcommissie staat onder leiding van het bestuur van de Huurcommissie bedoeld in de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315).
 
 2. De Dienst van de Huurcommissie heeft de taken bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=4), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=4a) en [5 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=5).
 
-#### Paragraaf 3.14. Agentschap Logius
+#### Paragraaf 3.15. Agentschap Logius
 
-##### Artikel 26
+##### Artikel 27
 
 1. Logius staat onder leiding van een algemeen directeur.
 
@@ -744,9 +729,9 @@ In dit besluit wordt verstaan onder:
 
 - d. het voeren van het secretariaat voor het Forum voor Standaardisatie.
 
-#### Paragraaf 3.15. Agentschap Rijksdienst voor Identiteitsgegevens
+#### Paragraaf 3.16. Agentschap Rijksdienst voor Identiteitsgegevens
 
-##### Artikel 27
+##### Artikel 28
 
 1. De Rijksdienst voor Identiteitsgegevens staat onder leiding van een algemeen directeur.
 
@@ -758,17 +743,17 @@ In dit besluit wordt verstaan onder:
 
 - c. het bijdragen aan onderzoek en ontwikkeling, innovatie en regie in het identiteitsdomein.
 
-#### Paragraaf 3.16. Dienst Toelatingsorganisatie Kwaliteitsborging Bouw
+#### Paragraaf 3.17. Dienst Toelatingsorganisatie Kwaliteitsborging Bouw
 
-##### Artikel 28
+##### Artikel 29
 
 1. De dienst Toelatingsorganisatie Kwaliteitsborging Bouw staat onder leiding van het bestuur van de Toelatingsorganisatie Kwaliteitsborging Bouw.
 
 2. De dienst Toelatingsorganisatie Kwaliteitsborging Bouw heeft de taken bedoeld in [artikel 7ak Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ak).
 
-#### Paragraaf 3.17. Dienst Nationaal Coördinator Groningen
+#### Paragraaf 3.18*. Dienst Nationaal Coördinator Groningen
 
-##### Artikel 29
+##### Artikel 30*
 
 1. De dienst Nationaal Coördinator Groningen staat onder leiding van een algemeen directeur.
 
@@ -776,13 +761,13 @@ In dit besluit wordt verstaan onder:
 
 - a. het zorg dragen voor de versterkingsoperatie van woningen en gebouwen in het aardbevingsgebied in Groningen, waaronder begrepen:
 
-- 1°. het begeleiden van de bewoners gedurende het versterkingsproces;
+   - 1°. het begeleiden van de bewoners gedurende het versterkingsproces;
 
-- 2°. het daartoe benodigde contracteren, het verrichten van privaatrechtelijke rechtshandelingen en het voeren van de daartoe behorende inkoopprocessen;
+   - 2°. het daartoe benodigde contracteren, het verrichten van privaatrechtelijke rechtshandelingen en het voeren van de daartoe behorende inkoopprocessen;
 
-- 3°. het nemen van de daartoe nodige besluiten, en
+   - 3°. het nemen van de daartoe nodige besluiten, en
 
-- 4°. het voeren van overleg over deze versterkingsoperatie met de partijen die hierin belang hebben dan wel een belang behartigen;
+   - 4°. het voeren van overleg over deze versterkingsoperatie met de partijen die hierin belang hebben dan wel een belang behartigen;
 
 - b. het bijdragen aan onderzoek, ontwikkeling en innovatie om de versterkingsoperatie te versnellen en het ter hand nemen van alle zaken die bijdragen aan de versterkingsoperatie;
 
@@ -820,7 +805,7 @@ In dit besluit wordt verstaan onder:
 
 - f. de regeringscommissaris [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885);
 
-- g. de directie Constitutionele Zaken en Wetgeving voor zover het de taak uit [artikel 7, tweede lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2026-03-03&g=2026-03-03), betreft.
+- g. de directie Constitutionele Zaken en Wetgeving voor zover het de taak uit [artikel 7, tweede lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2026-07-29&g=2026-07-29), betreft.
 
 2. De volgende dienstonderdelen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties verrichten ook taken voor het Ministerie van Volkshuisvesting en Ruimtelijke Ordening:
 
@@ -828,7 +813,7 @@ In dit besluit wordt verstaan onder:
 
 - b. het cluster Bestuursondersteuning;
 
-- c. de directie Constitutionele Zaken en Wetgeving met uitzondering van de taak uit [artikel 7, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2026-03-03&g=2026-03-03);
+- c. de directie Constitutionele Zaken en Wetgeving met uitzondering van de taak uit [artikel 7, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2026-07-29&g=2026-07-29);
 
 - d. de directie Bestuur, Financiën en Regio’s.
 
@@ -872,7 +857,7 @@ Wijziging van dit besluit is voorbehouden aan de Minister en geschiedt op voordr
 
 ##### Artikel 35
 
-Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2025.
+Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2025.
 
 ##### Artikel 36
 
@@ -880,6 +865,4 @@ Dit besluit wordt aangehaald als: Organisatiebesluit BZK 2025.
 
 ##### Artikel 37
 
-Het Organisatiebesluit BZK 2023 wordt met ingang van 1 juli 2025 ingetrokken.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+Het Organisatiebesluit BZK 2023 wordt met ingang van 1 juli 2025 ingetrokken.

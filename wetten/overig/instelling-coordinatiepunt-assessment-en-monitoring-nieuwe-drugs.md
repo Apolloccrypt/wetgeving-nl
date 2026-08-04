@@ -1,41 +1,17 @@
 ---
 title: "Instelling Coördinatiepunt Assessment en Monitoring nieuwe drugs"
 identifier: "BWBR0011090"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-03-01"
-last_updated: "2009-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011090"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3537893"
-version_id: "16108422"
-internal_id: "C22102781"
-label_id: "3517894"
-dtd_version: "2.0"
-original_entry_into_force: "2009-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011090/2009-03-01/0"
-intitule_bron: "Stcrt.2000-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-01-11"
-intitule_published: "2000-01-12"
-intitule_in_force: "2000-01-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20"
-original_signed_date: "2009-01-08"
-original_published_date: "2009-01-30"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2009-1463"
-entry_into_force_date: "2009-03-01"
-jci_1_3: "jci1.3:c:BWBR0011090&z=2009-03-01&g=2009-03-01"
-jci_1_0: "1.0:c:BWBR0011090&g=2009-03-01"
-citeertitel_status: "officieel"
-signed_date: "2009-01-08"
-entry_into_force: "2009-03-01"
+publicatiedatum: 2009-03-01
+laatste_update: 2009-03-01
+status: geldig
+toestand: 2009-03-01
+bron: "https://wetten.overheid.nl/BWBR0011090"
+opgehaald: 2026-08-04
 ---
-# Instelling Coördinatiepunt Assessment en Monitoring nieuwe drugs
 
-Besluit:
+# Instelling Coördinatiepunt Assessment en Monitoring nieuwe drugs
 
 ##### Artikel 1
 
@@ -66,11 +42,3 @@ Het CAM beheert de bescheiden betreffende zijn werkzaamheden overeenkomstig de w
 ##### Artikel 5
 
 Deze regeling, waarvan afschrift wordt verzonden aan de Algemene Rekenkamer, treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 april 2008.
-
-##### Artikel 6
-
-Deze regeling, waarvan afschrift wordt verzonden aan de Algemene Rekenkamer, treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1999.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

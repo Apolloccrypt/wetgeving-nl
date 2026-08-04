@@ -1,51 +1,36 @@
 ---
 title: "Regeling van de Minister van Justitie houdende de eisen waaraan een verblijfsruimte voor gedetineerden in een penitentiaire inrichting dient te voldoen"
+citeertitel: "Regeling eisen verblijfsruimte penitentiaire inrichtingen"
 identifier: "BWBR0010175"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-25"
-last_updated: "2025-01-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010175"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling"
-stam_id: "4507803"
-version_id: "6314422"
-internal_id: "C6519941"
-label_id: "4486494"
-dtd_version: "2.0"
-original_entry_into_force: "1999-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010175/2025-01-25/0"
-intitule_bron: "Stcrt.1998-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-12-24"
-intitule_published: "1998-12-30"
-intitule_in_force: "1998-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-250"
-original_signed_date: "1998-12-24"
-original_published_date: "1998-12-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-01-01"
-jci_1_3: "jci1.3:c:BWBR0010175&z=2025-01-25&g=2025-01-25"
-jci_1_0: "1.0:c:BWBR0010175&g=2025-01-25"
-citeertitel_status: "officieel"
-short_title: "Regeling eisen verblijfsruimte penitentiaire inrichtingen"
-signed_date: "1998-12-24"
-entry_into_force: "1999-01-01"
+publicatiedatum: 1999-01-01
+laatste_update: 2025-01-25
+status: geldig
+toestand: 2025-01-25
+bron: "https://wetten.overheid.nl/BWBR0010175"
+opgehaald: 2026-08-04
 ---
+
 # Regeling van de Minister van Justitie houdende de eisen waaraan een verblijfsruimte voor gedetineerden in een penitentiaire inrichting dient te voldoen
-
-Gelet op [artikel 16, vijfde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=16);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 10 december 1998, kenmerk 735266/98;
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+wet:
+
+de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709);
+
+b.
+
+raam:
+
+een voorziening waardoor de cyclus van dag en nacht kan worden waargenomen.
 
 ##### Artikel 2. Algemeen
 
@@ -153,7 +138,7 @@ Deze regeling is, met uitzondering van de [artikelen 10a](https://wetten.overhei
 
 ##### Artikel 11a. Experiment Amerswiel
 
-Vervallen
+*Vervallen*
 
 #### § 4. Bijzondere bepalingen voor verblijfsruimten
 
@@ -166,24 +151,6 @@ Vervallen
 3. De in het eerste en tweede lid genoemde verblijfsruimten zijn zodanig uitgevoerd en ingericht dat zij de individuele gedetineerde voldoende ruimte, daglicht, verwarming en ventilatie bieden.
 
 4. Is de verblijfsruimte zelf niet voorzien van sanitair, dan is dat elders in het pand in voldoende mate beschikbaar.
-
-#### § 5. Overgangsbepalingen
-
-##### Artikel 13. Overgangsbepaling
-
-Verblijfsruimten bestemd voor één of twee gedetineerden, genoemd in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&z=2025-01-25&g=2025-01-25), in inrichtingen waarvan de bouw is aangevangen voor 1996, moeten in elk geval voldoen aan de eisen gesteld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=1&artikel=2&z=2025-01-25&g=2025-01-25), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2025-01-25&g=2025-01-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2025-01-25&g=2025-01-25), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=6&z=2025-01-25&g=2025-01-25), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2025-01-25&g=2025-01-25), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=8&z=2025-01-25&g=2025-01-25) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10&z=2025-01-25&g=2025-01-25), en moeten in elk geval voor 1 januari 2006 voldoen aan de eisen vermeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2025-01-25&g=2025-01-25).
-
-#### § 5. Overgangsbepalingen
-
-##### Artikel 14. Inwerkingtreding
-
-Deze regeling treedt in werking op 1 januari 1999.
-
-##### Artikel 15. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling eisen verblijfsruimte penitentiaire inrichtingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 12a. Verblijfsruimten in andere dan beperkt beveiligde afdelingen bestemd voor meer dan twee gedetineerden
 
@@ -219,16 +186,22 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - g. voldoende wandcontactdozen.
 
-#### § 5. Overgangsbepalingen
-
-#### § 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 12b. Verblijfsruimten in normaal beveiligde inrichtingen of afdelingen
 
 Het bepaalde in [artikel 12, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=4&artikel=12&z=2025-01-25&g=2025-01-25), ten aanzien van verblijfsruimten in beperkt beveiligde afdelingen is van overeenkomstige toepassing op verblijfsruimten in normaal beveiligde inrichtingen of afdelingen, voor zover deze verblijfsruimten worden toegewezen aan gedetineerden die zichzelf hebben gemeld bij de inrichting na daartoe te zijn opgeroepen en voor wie geen plaats is in een inrichting of afdeling met verblijfsruimten die voldoen aan het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=3&z=2025-01-25&g=2025-01-25), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2025-01-25&g=2025-01-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2025-01-25&g=2025-01-25), [7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2025-01-25&g=2025-01-25), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2025-01-25&g=2025-01-25).
 
+#### § 5. Overgangsbepalingen
+
+##### Artikel 13. Overgangsbepaling
+
+Verblijfsruimten bestemd voor één of twee gedetineerden, genoemd in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&z=2025-01-25&g=2025-01-25), in inrichtingen waarvan de bouw is aangevangen voor 1996, moeten in elk geval voldoen aan de eisen gesteld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=1&artikel=2&z=2025-01-25&g=2025-01-25), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2025-01-25&g=2025-01-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2025-01-25&g=2025-01-25), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=6&z=2025-01-25&g=2025-01-25), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2025-01-25&g=2025-01-25), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=8&z=2025-01-25&g=2025-01-25) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10&z=2025-01-25&g=2025-01-25), en moeten in elk geval voor 1 januari 2006 voldoen aan de eisen vermeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2025-01-25&g=2025-01-25).
+
 #### § 6. Slotbepalingen
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 14. Inwerkingtreding
+
+Deze regeling treedt in werking op 1 januari 1999.
+
+##### Artikel 15. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling eisen verblijfsruimte penitentiaire inrichtingen.

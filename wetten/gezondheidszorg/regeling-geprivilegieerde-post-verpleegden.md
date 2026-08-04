@@ -1,54 +1,45 @@
 ---
 title: "Regeling geprivilegieerde post verpleegden"
 identifier: "BWBR0009687"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-06-18"
-last_updated: "1998-06-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009687"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5002183"
-version_id: "8669982"
-internal_id: "C11222161"
-label_id: "4978674"
-dtd_version: "2.0"
-original_entry_into_force: "1998-06-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009687/1998-06-18/0"
-intitule_bron: "Stcrt.1998-110"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-06-12"
-intitule_published: "1998-06-16"
-intitule_in_force: "1998-06-16"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-110"
-original_signed_date: "1998-06-12"
-original_published_date: "1998-06-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-06-18"
-jci_1_3: "jci1.3:c:BWBR0009687&z=1998-06-18&g=1998-06-18"
-jci_1_0: "1.0:c:BWBR0009687&g=1998-06-18"
-citeertitel_status: "officieel"
-signed_date: "1998-06-12"
-entry_into_force: "1998-06-18"
+publicatiedatum: 1998-06-18
+laatste_update: 1998-06-18
+status: geldig
+toestand: 1998-06-18
+bron: "https://wetten.overheid.nl/BWBR0009687"
+opgehaald: 2026-08-04
 ---
+
 # Regeling geprivilegieerde post verpleegden
-
-Gelet op [artikel 36, derde lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=36);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 10 februari 1998, nr. 6798742/98;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
+a.
+
+wet:
+
+[Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765);
+
+b.
+
+brief:
+
+een brief of een ander poststuk;
+
+c.
+
+envelop:
+
+een envelop of een daarmee vergelijkbare verpakking.
+
 ##### Artikel 2. Algemeen
 
 Het hoofd van de inrichting is uitsluitend bevoegd de enveloppen van brieven als bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=36), te openen ter controle op bijgesloten voorwerpen, op de wijze als hieronder bepaald.
 
-##### Artikel 3. Brieven afkomstig van personen/instanties genoemd in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=36)
+##### Artikel 3. Brieven afkomstig van personen/instanties genoemd in artikel 36, eerste lid, van de wet
 
 1. De afzender, genoemd in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=36), doet zijn brief in een gesloten envelop en adresseert deze aan de verpleegde. De afzender sluit de envelop af en voegt deze in een andere envelop en adresseert deze aan het hoofd van de inrichting met het verzoek de bijgesloten envelop aan de verpleegde uit te reiken. De afzender dient er zorg voor te dragen dat voor het hoofd van de inrichting kenbaar is in welke hoedanigheid de afzender de brief heeft geschreven.
 
@@ -58,7 +49,7 @@ Het hoofd van de inrichting is uitsluitend bevoegd de enveloppen van brieven als
 
 4. In het geval dat de envelop of ander poststuk niet herkenbaar is als zijnde afkomstig van een persoon of instantie, genoemd in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=36), dan is het hoofd van de inrichting niet gebonden aan het eerste tot en met het derde lid.
 
-##### Artikel 4. Brieven aan personen/instanties genoemd in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=36)
+##### Artikel 4. Brieven aan personen/instanties genoemd in artikel 36, eerste lid, van de wet
 
 1. Ten aanzien van enveloppen afkomstig van een verpleegde, gericht aan een van de personen of instanties genoemd in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=36), dient de verpleegde er zorg voor te dragen dat voor het hoofd van de inrichting kenbaar is aan welke persoon in welke hoedanigheid, of aan welke instantie de envelop van de brief is gericht.
 
@@ -77,5 +68,3 @@ Deze regeling treedt in werking op met ingang van de tweede dag na de dagtekenin
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling geprivilegieerde post verpleegden.
-
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.

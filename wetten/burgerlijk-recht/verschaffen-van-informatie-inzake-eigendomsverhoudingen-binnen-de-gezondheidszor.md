@@ -1,40 +1,17 @@
 ---
 title: "Verschaffen van informatie inzake eigendomsverhoudingen binnen de gezondheidszorg in Nederland"
 identifier: "BWBR0010380"
-country: "nl"
-rank: "circulaire"
-publication_date: "1999-04-08"
-last_updated: "1999-04-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010380"
+categorie: "Gezondheidszorg"
 soort: "circulaire"
-stam_id: "6260443"
-version_id: "10940992"
-internal_id: "C14835631"
-label_id: "6249404"
-original_entry_into_force: "1999-04-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010380/1999-04-08/0"
-intitule_bron: "Stcrt.1999-67"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-04-01"
-intitule_published: "1999-04-08"
-intitule_in_force: "1999-04-08"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-67"
-original_signed_date: "1999-04-01"
-original_published_date: "1999-04-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1999-67-p19-SC18407"
-entry_into_force_date: "1999-04-08"
-jci_1_3: "jci1.3:c:BWBR0010380&z=1999-04-08&g=1999-04-08"
-jci_1_0: "1.0:c:BWBR0010380&g=1999-04-08"
-citeertitel_status: "redactioneel"
-signed_date: "1999-04-01"
-entry_into_force: "1999-04-08"
+publicatiedatum: 1999-04-08
+laatste_update: 1999-04-08
+status: geldig
+toestand: 1999-04-08
+bron: "https://wetten.overheid.nl/BWBR0010380"
+opgehaald: 2026-08-04
 ---
-# Verschaffen van informatie inzake eigendomsverhoudingen binnen de gezondheidszorg in Nederland
 
-Aan alle besturen van inrichtingen voor gezondheidszorg als bedoeld in [artikel 1, eerste lid, onder c van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=1)
+# Verschaffen van informatie inzake eigendomsverhoudingen binnen de gezondheidszorg in Nederland
 
 ### 1. Inleiding
 
@@ -42,7 +19,13 @@ Voorliggende circulaire vormt een nadere uitwerking van de circulaire van 4 apri
 
 Doel van deze nadere circulaire is in de eerste plaats om aan te geven in welke gevallen volledig eigendom en in welke gevallen huur de door mij gewenste eigendomsverhouding is. In de tweede plaats om enkele zaken te verhelderen waarover sinds de circulaire van 4 april 1977 veelvuldig vragen zijn gerezen. Het betreft met name:
 
+- – het aangeven van het beoordelingskader bij situaties waarbij geen sprake is van volledig eigendom en de desbetreffende soorten van voorzieningen (paragraaf 2);
+
 specifieke situaties (paragraaf 3);
+
+- – de inhoud van de contracten bij onvolledig eigendom (paragraaf 4);
+
+- – de juridische verankering en de handhaving (paragraaf 5).
 
 De beoordelingsmethodiek, die op hoofdlijnen al staat beschreven in de circulaire van 4 april 1997, heb ik opgesteld aan de hand van uitvoeringstoetsen die door het College voor ziekenhuisvoorzieningen (College), het Centraal Orgaan Tarieven Gezondheidszorg (COTG), en de Ziekenfondsraad (ZFR) aan mij zijn toegezonden.
 
@@ -53,6 +36,22 @@ Basis voor de beoordeling vormt de constatering dat de noodzaak een zorgvoorzien
 Al naar gelang minder specifieke eisen (behoeven te) worden gesteld en sprake is van een beperkte gebruiksduur, vormen koop of het verkrijgen van een gebruiksrecht (huur, lease, erfpacht etc.) goede alternatieven voor het in eigen beheer bouwen van een voorziening.
 
 Voor onderstaande voorzieningen beschouw ik niet volledig eigendom maar huur als de aangewezen eigendomsverhouding:
+
+* Reguliere/marktconforme voorzieningen:
+
+- – woning in de sociale huursector;
+
+- – kantoor- en bedrijfsruimte;
+
+- – ontmoetingsruimte;
+
+- – warmte-krachtcentrale;
+
+- – gebruiksmogelijkheden van een winkel, therapeutisch zwembad; sporthal.
+
+* Verpleegunits in verzorgingshuizen
+
+* Interimvoorzieningen
 
 Voor alle overige voorzieningen is volledig eigendom de aangewezen eigendomsverhouding.
 
@@ -68,6 +67,16 @@ Indien een instellingsbestuur van mening is dat er voor zijn initiatief een uitz
 
 Ik heb het College gevraagd, gelet op zijn verantwoordelijkheden, de aspecten te definiëren die als voordelen mogen worden beschouwd en dat als toetsingskader te hanteren in concrete gevallen. Het moet hierbij gaan om voordelen ten aanzien van:
 
+- – beschikbaarheid/afstootbaarheid;
+
+- – functionele specialiteit;
+
+- – efficiëntie (ruimtebehoefte, wisselende locatie);
+
+- – geplande gebruiksduur (-jaren/-uren) en bezettingsgraad;
+
+- – kostenbesparing (schaalvoordeel, medegebruik, onderhuur, gebouwbeheer, huisvestingslasten).
+
 ### 4. Inhoud van de contracten bij onvolledig eigendom
 
 Door de potentiële verkrijger van het gebruiksrecht zal in alle gevallen, aan de hand van de met de bezitter van het volledig eigendom af te sluiten contracten, bij de aanvraag van een WZV-vergunning moeten worden aangetoond dat de nadelen/risico’s van het ontbreken van volledig eigendom worden beperkt. In elk geval mag de beoogde eigendomsverhouding de te verlenen zorg, voor de beoogde duur, en voor wat betreft de bekostiging op basis van de WTG-regels, niet in gevaar brengen. In de circulaire van 4 april 1997 is dit referentiekader beschreven in de punten 2.2 t/m 2.7 (pagina’s 3 en 4).
@@ -78,6 +87,6 @@ Ik heb het College en de Commissie sanering ziekenhuisvoorzieningen verzocht om,
 
 De afgelopen twee jaren zijn regelmatig vragen gesteld over de juridische verankering. Daarom geef ik nog eens aan hoe de eigendomsverhoudingen, en mogelijke wijzigingen daarin, van de onroerende zaken van een zorginstelling worden vastgelegd.
 
-In de WZV-vergunning worden, op de voet van artikel 15, vijfde lid van de WZV, in de vorm van een voorschrift de eigendomsverhoudingen vastgelegd, die gelden ten aanzien van de onroerende zaken die door de zorgvoorziening ten behoeve van de zorgverlening worden geëxploiteerd. Indien een zorgvoorziening een eigendomsverhouding wil wijzigen moet zij een verzoek tot wijziging van het desbetreffende vergunningsvoorschrift vooraf bij mij indienen. Bij dit verzoek moet informatie worden verstrekt waaruit de voordelen van de wijziging blijken en waarbij tevens wordt aangegeven hoe nadelen en risico’s worden voorkomen danwel beheersbaar worden gemaakt. Pas nadat ik het desbetreffende voorschrift heb gewijzigd, mag de beoogde wijziging van de eigendomsverhouding worden gerealiseerd. Wijziging van de eigendomsverhouding(en) zonder mijn voorafgaande schriftelijke goedkeuring is strafbaar op grond van [artikel 1, onder 4 van de Wet op de economische delicten](onbekend).
+In de WZV-vergunning worden, op de voet van artikel 15, vijfde lid van de WZV, in de vorm van een voorschrift de eigendomsverhoudingen vastgelegd, die gelden ten aanzien van de onroerende zaken die door de zorgvoorziening ten behoeve van de zorgverlening worden geëxploiteerd. Indien een zorgvoorziening een eigendomsverhouding wil wijzigen moet zij een verzoek tot wijziging van het desbetreffende vergunningsvoorschrift vooraf bij mij indienen. Bij dit verzoek moet informatie worden verstrekt waaruit de voordelen van de wijziging blijken en waarbij tevens wordt aangegeven hoe nadelen en risico’s worden voorkomen danwel beheersbaar worden gemaakt. Pas nadat ik het desbetreffende voorschrift heb gewijzigd, mag de beoogde wijziging van de eigendomsverhouding worden gerealiseerd. Wijziging van de eigendomsverhouding(en) zonder mijn voorafgaande schriftelijke goedkeuring is strafbaar op grond van artikel 1, onder 4 van de Wet op de economische delicten.
 
 Voor meer informatie over de inhoud van deze circulaire kunt u contact opnemen met de heer mr. A.C.G.M. Hesselmann van de directie Zorgverzekeringen (telefoon 070-3407219).

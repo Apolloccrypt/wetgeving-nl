@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0052849"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 30 juni 2026, nr. MBO/58212753, houdende beleid over de wijze waarop de bevoegdheid wordt uitgeoefend tot het behandelen en beoordelen van aanvragen voor het recht op diploma-erkenning voor niet-bekostigde beroepsopleidingen als bedoeld in artikel 11.1.1 van de Wet educatie en beroepsonderwijs (Beleidsregel aanvraagprocedure diploma-erkenning voor niet-bekostigde beroepsopleidingen 2026)

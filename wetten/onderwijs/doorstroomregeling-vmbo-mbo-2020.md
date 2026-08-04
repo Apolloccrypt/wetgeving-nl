@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0043852"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 mei 2020, nr. MBO/ 17219057 houdende regels over de nadere vooropleidingseisen voor toelating tot het middelbaar beroepsonderwijs (Doorstroomregeling vmbo – mbo 2020)

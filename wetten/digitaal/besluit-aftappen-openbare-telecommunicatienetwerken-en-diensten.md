@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 10 november 1998, houdende regels met betrekking tot de technische aftapbaarheid van openbare telecommunicatienetwerken en -diensten en de, inzake aftappen, te nemen organisatorische en personele maatregelen en te treffen voorzieningen (Besluit aftappen openbare telecommunicatienetwerken en -diensten)"
+citeertitel: "Besluit aftappen openbare telecommunicatienetwerken en -diensten"
 identifier: "BWBR0009999"
-country: "nl"
-rank: "amvb"
-publication_date: "2003-01-24"
-last_updated: "2003-01-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009999"
+categorie: "Digitaal en privacy"
 soort: "AMvB"
-stam_id: "971093"
-version_id: "1424022"
-internal_id: "C1424021"
-label_id: "941484"
-dtd_version: "2.0"
-original_entry_into_force: "1998-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009999/2003-01-24/0"
-intitule_bron: "Stb.1998-642"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-11-10"
-intitule_published: "1998-11-24"
-intitule_in_force: "1998-12-03"
-intitule_status: "goed"
-original_publication: "Stb.1998-642"
-original_signed_date: "1998-11-10"
-original_published_date: "1998-11-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1998-642"
-entry_into_force_date: "1998-12-15"
-jci_1_3: "jci1.3:c:BWBR0009999&z=2003-01-24&g=2003-01-24"
-jci_1_0: "1.0:c:BWBR0009999&g=2003-01-24"
-citeertitel_status: "officieel"
-short_title: "Besluit aftappen openbare telecommunicatienetwerken en -diensten"
-signed_date: "1998-11-10"
-entry_into_force: "1998-12-15"
+publicatiedatum: 1998-12-15
+laatste_update: 2003-01-24
+status: geldig
+toestand: 2003-01-24
+bron: "https://wetten.overheid.nl/BWBR0009999"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 10 november 1998, houdende regels met betrekking tot de technische aftapbaarheid van openbare telecommunicatienetwerken en -diensten en de, inzake aftappen, te nemen organisatorische en personele maatregelen en te treffen voorzieningen (Besluit aftappen openbare telecommunicatienetwerken en -diensten)
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 20 mei 1998, nr. HDTP/98/1552/HW, Hoofddirectie Telecommunicatie en Post;
-
-Gelet op de [artikelen 13.1, tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.1), en [13.2, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2);
-
-De Raad van State gehoord (advies van 13 augustus 1998, no. W09.98.0221);
-
-Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 3 november 1998, nr. HDTP/98/3284/LF, Hoofddirectie Telecommunicatie en Post;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -60,11 +28,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. bevoegde autoriteit:
 
-- 1°. de opsporingsambtenaar belast met de uitvoering van een bijzondere last,
+   - 1°. de opsporingsambtenaar belast met de uitvoering van een bijzondere last,
 
-- 2°. het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst,
+   - 2°. het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst,
 
-- 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst.
+   - 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst.
 
 ##### Artikel 2
 
@@ -105,5 +73,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit aftappen openbare telecommunicatienetwerken en -diensten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

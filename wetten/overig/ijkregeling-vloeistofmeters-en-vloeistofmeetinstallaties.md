@@ -1,62 +1,37 @@
 ---
 title: "IJkregeling vloeistofmeters en vloeistofmeetinstallaties"
 identifier: "BWBR0009898"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-10-01"
-last_updated: "1998-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009898"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4859943"
-version_id: "7790112"
-internal_id: "C9506401"
-label_id: "4838004"
-dtd_version: "2.0"
-original_entry_into_force: "1998-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009898/1998-10-01/0"
-intitule_bron: "Stcrt.1998-179"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-09-14"
-intitule_published: "1998-09-21"
-intitule_in_force: "1998-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-179"
-original_signed_date: "1998-09-14"
-original_published_date: "1998-09-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-10-01"
-jci_1_3: "jci1.3:c:BWBR0009898&z=1998-10-01&g=1998-10-01"
-jci_1_0: "1.0:c:BWBR0009898&g=1998-10-01"
-citeertitel_status: "officieel"
-signed_date: "1998-09-14"
-entry_into_force: "1998-10-01"
+publicatiedatum: 1998-10-01
+laatste_update: 1998-10-01
+status: geldig
+toestand: 1998-10-01
+bron: "https://wetten.overheid.nl/BWBR0009898"
+opgehaald: 2026-08-04
 ---
+
 # IJkregeling vloeistofmeters en vloeistofmeetinstallaties
-
-Gelet op de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009069&artikel=2), en [14, derde lid, van het IJkreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0009069&artikel=14);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082);
+- a. *wet:* de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082);
 
-- b. **keuring:** de keuring, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=10);
+- b. *keuring:* de keuring, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=10);
 
-- c. **onderzoek tot toelating van een model:** het onderzoek, bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11);
+- c. *onderzoek tot toelating van een model:* het onderzoek, bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11);
 
-- d. **herkeuring:** de herhaalde keuring, bedoeld in [artikel 11, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11);
+- d. *herkeuring:* de herhaalde keuring, bedoeld in [artikel 11, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11);
 
-- e. **toezicht:** het onderzoek, bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18);
+- e. *toezicht:* het onderzoek, bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18);
 
-- f. **vloeistofmeter:** een meetwerktuig voor hoeveelheidsmeting van vloeistof, dat bestaat uit een metend gedeelte en een aanwijsinrichting die het volume of de massa van de vloeistof die door het metend gedeelte stroomt continu en cumulatief aanwijst;
+- f. *vloeistofmeter:* een meetwerktuig voor hoeveelheidsmeting van vloeistof, dat bestaat uit een metend gedeelte en een aanwijsinrichting die het volume of de massa van de vloeistof die door het metend gedeelte stroomt continu en cumulatief aanwijst;
 
-- g. **vloeistofmeetinstallatie:** een installatie die een vloeistofmeter en daarbij behorende hulpinrichtingen of toegevoegde inrichtingen omvat;
+- g. *vloeistofmeetinstallatie:* een installatie die een vloeistofmeter en daarbij behorende hulpinrichtingen of toegevoegde inrichtingen omvat;
 
-- h. **EER-staat:** een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
+- h. *EER-staat:* een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
 ##### Artikel 2
 
@@ -143,5 +118,3 @@ Deze regeling treedt in werking op het tijdstip waarop het koninklijk besluit va
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: IJkregeling vloeistofmeters en vloeistofmeetinstallaties.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

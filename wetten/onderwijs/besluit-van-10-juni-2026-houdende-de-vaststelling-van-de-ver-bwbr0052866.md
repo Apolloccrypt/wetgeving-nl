@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0052866"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van 10 juni 2026, houdende de vaststelling van de vernieuwde kerndoelen Nederlands en rekenen en wiskunde in het primair en speciaal onderwijs (Besluit kerndoelen primair en speciaal onderwijs 2026), houdende wijziging van het Uitvoeringsbesluit WVO 2020 in verband met het vaststellen van de vernieuwde kerndoelen Nederlands en rekenen en wiskunde in het voortgezet onderwijs en houdende wijziging van diverse onderwijsbesluiten in verband met de vaststelling van vernieuwde kerndoelen Nederlands en rekenen en wiskunde in het funderend onderwijs (Besluit vernieuwde kerndoelen Nederlands en rekenen en wiskunde) [KetenID WGK027201]

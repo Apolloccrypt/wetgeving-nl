@@ -1,46 +1,33 @@
 ---
 title: "Besluit tekenbevoegdheid van de minister voor Nederlands-Antilliaanse en Arubaanse Zaken 1998"
 identifier: "BWBR0009728"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-07-01"
-last_updated: "1998-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009728"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4814613"
-version_id: "6621012"
-internal_id: "C7078251"
-label_id: "4792684"
-dtd_version: "2.0"
-original_entry_into_force: "1998-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009728/1998-07-01/0"
-intitule_bron: "Stcrt.1998-136"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-06-25"
-intitule_published: "1998-07-22"
-intitule_in_force: "1998-07-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-136"
-original_signed_date: "1998-06-25"
-original_published_date: "1998-07-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-07-01"
-jci_1_3: "jci1.3:c:BWBR0009728&z=1998-07-01&g=1998-07-01"
-jci_1_0: "1.0:c:BWBR0009728&g=1998-07-01"
-citeertitel_status: "officieel"
-signed_date: "1998-06-25"
-entry_into_force: "1998-07-01"
+publicatiedatum: 1998-07-01
+laatste_update: 1998-07-01
+status: geldig
+toestand: 1998-07-01
+bron: "https://wetten.overheid.nl/BWBR0009728"
+opgehaald: 2026-08-04
 ---
+
 # Besluit tekenbevoegdheid van de minister voor Nederlands-Antilliaanse en Arubaanse Zaken 1998
-
-Overwegende dat het, in verband met de volledige integratie van het Kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken in het ministerie van Binnenlandse Zaken en de daarmee verband houdende vorming van een directoraat-generaal Constitutionele Zaken & Koninkrijksrelaties bij genoemd ministerie per 1 juli 1998, wenselijk is een nieuw besluit inzake de tekenbevoegdheid vast te stellen;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+1.
+
+tekenbevoegdheid:
+
+de bevoegdheid om namens de minister besluiten te nemen, stukken af te doen en uitgaande brieven te ondertekenen;
+
+2.
+
+DGCZ&K:
+
+het directoraat-generaal Constitutionele Zaken & Koninkrijksrelaties van het ministerie van Binnenlandse Zaken.
 
 ##### Artikel 2
 
@@ -145,5 +132,3 @@ Een afschrift van dit besluit zal worden gezonden aan:
 - de directeur van het Kabinet van de Koningin;
 
 - de belanghebbende functionarissen van het ministerie van Binnenlandse Zaken.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

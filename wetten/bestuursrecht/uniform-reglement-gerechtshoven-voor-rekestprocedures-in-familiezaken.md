@@ -1,33 +1,16 @@
 ---
 title: "Uniform reglement gerechtshoven voor rekestprocedures in familiezaken"
 identifier: "BWBR0010187"
-country: "nl"
-rank: "circulaire"
-publication_date: "2004-06-07"
-last_updated: "2004-06-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010187"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6051183"
-version_id: "10667622"
-internal_id: "C14493251"
-label_id: "6040484"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010187/2004-06-07/0"
-intitule_bron: "Stcrt.1999-251"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1999-12-28"
-intitule_in_force: "1999-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-251"
-original_published_date: "1999-12-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-01-01"
-jci_1_3: "jci1.3:c:BWBR0010187&z=2004-06-07&g=2004-06-07"
-jci_1_0: "1.0:c:BWBR0010187&g=2004-06-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2004-06-07
+status: geldig
+toestand: 2004-06-07
+bron: "https://wetten.overheid.nl/BWBR0010187"
+opgehaald: 2026-08-04
 ---
+
 # Uniform reglement gerechtshoven voor rekestprocedures in familiezaken
 
 De gerechtshoven zijn bij elkaar te rade gegaan teneinde in aanvulling op de wettelijke regels te voorzien in een eenvormig reglement voor de voortgang van rekestprocedures in familiezaken.
@@ -40,45 +23,45 @@ Daartoe gelden met ingang van 1 januari 2000 de volgende regels.
 
 1. Stukken in rekestzaken kunnen bij het hof worden ingediend op de volgende wijzen:
 
-- **Gerechtshof te ’s-Hertogenbosch:**
+- *Gerechtshof te ’s-Hertogenbosch:*
 
-- a. per post, postbus 70583, 5201 CZ’ s-Hertogenbosch,
+   - a. per post, postbus 70583, 5201 CZ’ s-Hertogenbosch,
 
-- b. per fax, nummer 073-6204283 (liefst zonder bijlagen, met uitzondering van de beschikking waarvan beroep),
+   - b. per fax, nummer 073-6204283 (liefst zonder bijlagen, met uitzondering van de beschikking waarvan beroep),
 
-- c. in handen aan de centrale info balie, Leeghwaterlaan 8 te ’s-Hertogenbosch, kamer A-1.32 op werkdagen tussen 08.00 en 17.00 uur.
+   - c. in handen aan de centrale info balie, Leeghwaterlaan 8 te ’s-Hertogenbosch, kamer A-1.32 op werkdagen tussen 08.00 en 17.00 uur.
 
-- **Gerechtshof te Arnhem:**
+- *Gerechtshof te Arnhem:*
 
-- a. per post, postbus 9030, 6800 EM Arnhem.
+   - a. per post, postbus 9030, 6800 EM Arnhem.
 
-- b. per fax, nummer 026-3592384 (liefst zonder bijlagen, met uitzondering van de beschikking waarvan beroep),
+   - b. per fax, nummer 026-3592384 (liefst zonder bijlagen, met uitzondering van de beschikking waarvan beroep),
 
-- c. in handen, aan de Infobalie Paleis van Justitie, Walburgstraat 2-4, Arnhem, op werkdagen van 08.00 uur - 17.00 uur.
+   - c. in handen, aan de Infobalie Paleis van Justitie, Walburgstraat 2-4, Arnhem, op werkdagen van 08.00 uur - 17.00 uur.
 
-- **Gerechtshof te ’s-Gravenhage:** Balie eerste etage. Openingstijden 8.30 u - 17.00 u op werkdagen
+- *Gerechtshof te ’s-Gravenhage:* Balie eerste etage. Openingstijden 8.30 u - 17.00 u op werkdagen
 
-- a. per post, postbus 20302, 2500 EH Den Haag.
+   - a. per post, postbus 20302, 2500 EH Den Haag.
 
-- b. per fax, nummer 070-3813256 (liefst zonder bijlagen, met uitzondering van de beschikking waarvan beroep),
+   - b. per fax, nummer 070-3813256 (liefst zonder bijlagen, met uitzondering van de beschikking waarvan beroep),
 
-- c. in handen, aan de balie van de griffie, Prins Clauslaan 60, 2595 AJ Den Haag.
+   - c. in handen, aan de balie van de griffie, Prins Clauslaan 60, 2595 AJ Den Haag.
 
-- **Gerechtshof te Amsterdam:**
+- *Gerechtshof te Amsterdam:*
 
-- a. per post, postbus 1312, 1000 BH Amsterdam,
+   - a. per post, postbus 1312, 1000 BH Amsterdam,
 
-- b. per fax, nummer 020-5413423 (liefst zonder bijlagen, met uitzondering van de beschikking waarvan beroep),
+   - b. per fax, nummer 020-5413423 (liefst zonder bijlagen, met uitzondering van de beschikking waarvan beroep),
 
-- c. in handen, aan de balie van de griffie, Prinsengracht 436 te Amsterdam, kamer 17 op werkdagen tussen 9.00 en 15.00 uur.
+   - c. in handen, aan de balie van de griffie, Prinsengracht 436 te Amsterdam, kamer 17 op werkdagen tussen 9.00 en 15.00 uur.
 
-- **Gerechtshof te Leeuwarden:**
+- *Gerechtshof te Leeuwarden:*
 
-- a. per post, postbus 1704, 8901 CA Leeuwarden,
+   - a. per post, postbus 1704, 8901 CA Leeuwarden,
 
-- b. per fax, nummer 058-2341835 (liefst zonder bijlagen, met uitzondering van de beschikking waarvan beroep),
+   - b. per fax, nummer 058-2341835 (liefst zonder bijlagen, met uitzondering van de beschikking waarvan beroep),
 
-- c. in handen, aan de balie van de griffie, Wilhelminaplein 1 te Leeuwarden, kamer D109 op werkdagen van 08.30 uur - 12.30 uur en van 13.30 uur - 16.30 uur.
+   - c. in handen, aan de balie van de griffie, Wilhelminaplein 1 te Leeuwarden, kamer D109 op werkdagen van 08.30 uur - 12.30 uur en van 13.30 uur - 16.30 uur.
 
 2. Na indiening per fax moet het oorspronkelijke rekest met alle bijlagen worden nagezonden per post of worden bezorgd in het vereiste aantal.
 

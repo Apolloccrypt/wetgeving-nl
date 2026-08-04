@@ -1,45 +1,18 @@
 ---
 title: "Regeling arbeidsloon gedetineerde"
+citeertitel: "Regeling arbeid gedetineerden"
 identifier: "BWBR0010172"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-22"
-last_updated: "2025-11-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010172"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "4466943"
-version_id: "6273472"
-internal_id: "C6477681"
-label_id: "4445554"
-dtd_version: "2.0"
-original_entry_into_force: "1999-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010172/2025-11-22/0"
-intitule_bron: "Stcrt.1998-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-12-24"
-intitule_published: "1998-12-28"
-intitule_in_force: "1998-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-248"
-original_signed_date: "1998-12-24"
-original_published_date: "1998-12-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-01-01"
-jci_1_3: "jci1.3:c:BWBR0010172&z=2025-11-22&g=2025-11-22"
-jci_1_0: "1.0:c:BWBR0010172&g=2025-11-22"
-citeertitel_status: "officieel"
-short_title: "Regeling arbeid gedetineerden"
-signed_date: "1998-12-24"
-entry_into_force: "1999-01-01"
+publicatiedatum: 1999-01-01
+laatste_update: 2025-11-22
+status: geldig
+toestand: 2025-11-22
+bron: "https://wetten.overheid.nl/BWBR0010172"
+opgehaald: 2026-08-04
 ---
+
 # Regeling arbeidsloon gedetineerde
-
-Gelet op [artikel 47, vijfde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=47);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 27 april 1998, kenmerk 693657/98;
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -47,21 +20,45 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709);
+- a. *wet:* de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709);
 
-- b. **zaalarbeid:** het verrichten van werkzaamheden op een werkzaal of andere tot gezamenlijke arbeid aangewezen plaats;
+- b. *zaalarbeid:* het verrichten van werkzaamheden op een werkzaal of andere tot gezamenlijke arbeid aangewezen plaats;
 
-- c. **taakarbeid:** het verrichten van werkzaamheden die leiden tot het uitvoeren van een door de directeur nader omschreven taak;
+- c. *taakarbeid:* het verrichten van werkzaamheden die leiden tot het uitvoeren van een door de directeur nader omschreven taak;
 
-- d. **stukarbeid:** het vervaardigen van producten op een werkzaal of een andere tot gezamenlijke arbeid aangewezen plaats;
+- d. *stukarbeid:* het vervaardigen van producten op een werkzaal of een andere tot gezamenlijke arbeid aangewezen plaats;
 
-- e. **basisuurloon:** de basisbeloning voor het verrichten van arbeid gedurende een uur;
+- e. *basisuurloon:* de basisbeloning voor het verrichten van arbeid gedurende een uur;
 
-- f. **extramurale arbeid:** arbeid, verricht buiten de inrichting ten behoeve van een derde, alsmede het volgen van een dagopleiding buiten de inrichting;
+- f. *extramurale arbeid:* arbeid, verricht buiten de inrichting ten behoeve van een derde, alsmede het volgen van een dagopleiding buiten de inrichting;
 
-- g. **taakloon:** de beloning voor het uitvoeren van een taak conform de daaraan door de directeur gestelde eisen;
+- g. *taakloon:* de beloning voor het uitvoeren van een taak conform de daaraan door de directeur gestelde eisen;
 
-- h. **arbeidsloon:** het samenstel van basisuurloon, toeslagen en taakloon.
+- h. *arbeidsloon:* het samenstel van basisuurloon, toeslagen en taakloon.
+
+##### Artikel 1a
+
+1. De zorgverplichting van de directeur voor de beschikbaarheid van arbeid geldt niet:
+
+- a. gedurende de eerste twee weken van de detentie;
+
+- b. gedurende de eerste acht weken van de detentie ten aanzien van:
+
+   - 1°. een al dan niet onherroepelijk veroordeelde die is aangehouden nadat hij zich heeft onttrokken aan de tenuitvoerlegging van de gevangenisstraf of de voorlopige hechtenis;
+
+   - 2°. een veroordeelde die is aangehouden nadat ten aanzien van hem de tenuitvoerlegging van een voorwaardelijk opgelegde vrijheidsstraf is gelast;
+
+   - 3°. een persoon die is aangehouden nadat hij zich heeft onttrokken aan de vervangende hechtenis bedoeld in [artikel 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24c) juncto [artikel 36f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f), aan de gijzeling bedoeld in [artikel 28 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=28) of aan gijzeling als bedoeld in de [artikelen 6:4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:20) of [6:6:25 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25).
+
+   - 4°. een tot vrijheidsstraf veroordeelde die niet gedetineerd is op het moment waarop de rechterlijke uitspraak onherroepelijk wordt en die geen gehoor heeft gegeven aan een oproep tot het ondergaan van zijn vrijheidsstraf;
+
+   - 5°. een veroordeelde die is aangehouden nadat zijn voorwaardelijke invrijheidstelling is herroepen.
+
+- c. ten opzichte van een gedetineerde die is geplaatst in een Justitieel Medisch Centrum, als bedoeld in [artikel 19 van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=19);
+
+- d. gedurende de periode dat een gedetineerde verblijft in een afdeling voor kortgestrafte zelfmelders als bedoeld in [artikel 2 van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=2).
+
+2. De zorgverplichting van de directeur voor de beschikbaarheid van arbeid vervalt ten aanzien van een gedetineerde die vanwege zijn gedrag tijdens de arbeid op grond van een besluit van de directeur structureel is uitgesloten van toegang tot arbeid. In het besluit bepaalt de directeur de duur van de uitsluiting.
 
 #### § 2. Beloning van arbeid in de inrichting
 
@@ -71,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 2. De gedetineerde ontvangt voor verrichte zaalarbeid, taakarbeid of stukarbeid een arbeidsloon, een taakloon, of respectievelijk een stukloon.
 
-3. Het basisuurloon bedraagt € 0,90. Dit bedrag wordt op 1 januari van elk jaar aangepast op basis van de door het Centraal Bureau voor de Statistiek voor dat jaar vastgestelde index voor consumentenprijzen. Jaarlijks wordt het bedrag van het basisuurloon gepubliceerd op de internetsite van de Dienst Justitiële Inrichtingen van het Ministerie van Justitie en Veiligheid.
+3. Het basisuurloon bedraagt € 0,90. Dit bedrag wordt op 1 januari van elk jaar aangepast op basis van de door het Centraal Bureau voor de Statistiek voor dat jaar vastgestelde index voor consumentenprijzen. Jaarlijks wordt het bedrag van het basisuurloon gepubliceerd op de internetsite van de Dienst Justitiële Inrichtingen van het Ministerie van Justitie en Veiligheid.
 
 4. De hoogte van het loon per week is voor:
 
@@ -107,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het totaal bedrag van de toeslag of toeslagen bedraagt maximaal 100% van het vastgestelde basisuurloon.
 
-#### § 2a. Beloning van buitenarbeid en werkzaamheden in de huisdienst van een zeer beperkt beveiligde inrichting
+#### § 2a. Beloning voor extramurale arbeid
 
 ##### Artikel 4a
 
@@ -192,41 +189,3 @@ De Loonregeling strafgevangenissen, huizen van bewaring en rijkswerkinrichtingen
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling arbeid gedetineerden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-1. De zorgverplichting van de directeur voor de beschikbaarheid van arbeid geldt niet:
-
-- a. gedurende de eerste twee weken van de detentie;
-
-- b. gedurende de eerste acht weken van de detentie ten aanzien van:
-
-- 1°. een al dan niet onherroepelijk veroordeelde die is aangehouden nadat hij zich heeft onttrokken aan de tenuitvoerlegging van de gevangenisstraf of de voorlopige hechtenis;
-
-- 2°. een veroordeelde die is aangehouden nadat ten aanzien van hem de tenuitvoerlegging van een voorwaardelijk opgelegde vrijheidsstraf is gelast;
-
-- 3°. een persoon die is aangehouden nadat hij zich heeft onttrokken aan de vervangende hechtenis bedoeld in [artikel 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24c) juncto [artikel 36f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f), aan de gijzeling bedoeld in [artikel 28 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=28) of aan gijzeling als bedoeld in de [artikelen 6:4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:20) of [6:6:25 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25).
-
-- 4°. een tot vrijheidsstraf veroordeelde die niet gedetineerd is op het moment waarop de rechterlijke uitspraak onherroepelijk wordt en die geen gehoor heeft gegeven aan een oproep tot het ondergaan van zijn vrijheidsstraf;
-
-- 5°. een veroordeelde die is aangehouden nadat zijn voorwaardelijke invrijheidstelling is herroepen.
-
-- c. ten opzichte van een gedetineerde die is geplaatst in een Justitieel Medisch Centrum, als bedoeld in [artikel 19 van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=19);
-
-- d. gedurende de periode dat een gedetineerde verblijft in een afdeling voor kortgestrafte zelfmelders als bedoeld in [artikel 2 van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=2).
-
-2. De zorgverplichting van de directeur voor de beschikbaarheid van arbeid vervalt ten aanzien van een gedetineerde die vanwege zijn gedrag tijdens de arbeid op grond van een besluit van de directeur structureel is uitgesloten van toegang tot arbeid. In het besluit bepaalt de directeur de duur van de uitsluiting.
-
-#### § 2. Beloning van arbeid in de inrichting
-
-#### § 2a. Beloning voor extramurale arbeid
-
-#### § 3. Loonvervangende financiële tegemoetkomingen
-
-#### § 4. Uitzonderingsbepalingen
-
-#### § 5. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,42 +1,19 @@
 ---
 title: "Regeling van de Minister voor Wonen en Rijksdienst van 14 november 2012, nr. 2012-652544, houdende tijdelijke verlening van mandaat, volmacht en machtiging op het terrein van rijksvastgoed (Tijdelijke regeling mandaat, volmacht en machtiging Rijksvastgoed)"
+citeertitel: "Tijdelijke regeling mandaat, volmacht en machtiging Rijksvastgoed"
 identifier: "BWBR0032231"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-11-20"
-last_updated: "2012-11-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032231"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11910513"
-version_id: "19791072"
-internal_id: "C27794261"
-label_id: "11882434"
-dtd_version: "2.0"
-original_entry_into_force: "2012-11-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032231/2012-11-20/0"
-intitule_bron: "Stcrt.2012-23507"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-11-14"
-intitule_published: "2012-11-19"
-intitule_in_force: "2012-11-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-23507"
-original_signed_date: "2012-11-14"
-original_published_date: "2012-11-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-23507"
-entry_into_force_date: "2012-11-20"
-jci_1_3: "jci1.3:c:BWBR0032231&z=2012-11-20&g=2012-11-20"
-jci_1_0: "1.0:c:BWBR0032231&g=2012-11-20"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke regeling mandaat, volmacht en machtiging Rijksvastgoed"
-signed_date: "2012-11-14"
-entry_into_force: "2012-11-20"
+publicatiedatum: 2012-11-20
+laatste_update: 2026-02-24
+status: vervallen
+vervallen_op: 2026-07-28
+toestand: 2026-02-24
+bron: "https://wetten.overheid.nl/BWBR0032231"
+opgehaald: 2026-08-04
 ---
-# Regeling van de Minister voor Wonen en Rijksdienst van 14 november 2012, nr. 2012-652544, houdende tijdelijke verlening van mandaat, volmacht en machtiging op het terrein van rijksvastgoed (Tijdelijke regeling mandaat, volmacht en machtiging Rijksvastgoed)
 
-Besluit:
+# Regeling van de Minister voor Wonen en Rijksdienst van 14 november 2012, nr. 2012-652544, houdende tijdelijke verlening van mandaat, volmacht en machtiging op het terrein van rijksvastgoed (Tijdelijke regeling mandaat, volmacht en machtiging Rijksvastgoed)
 
 ##### Artikel 1
 
@@ -63,5 +40,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 3
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling mandaat, volmacht en machtiging Rijksvastgoed.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

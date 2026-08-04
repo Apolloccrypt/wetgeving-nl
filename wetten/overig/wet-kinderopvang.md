@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0017017"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Wet van 9 juli 2004 tot regeling met betrekking tot tegemoetkomingen in de kosten van kinderopvang en waarborging van de kwaliteit van kinderopvang (Wet kinderopvang)

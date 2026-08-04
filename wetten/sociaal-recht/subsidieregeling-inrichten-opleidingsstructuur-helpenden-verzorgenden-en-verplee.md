@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0051150"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 18 juni 2025, kenmerk 4136017-1084380-MEVA, houdende regels voor de verstrekking van subsidie ter ondersteuning van samenwerkingsverbanden bij het inrichten van een vernieuwde opleidingsstructuur voor helpenden, verzorgenden en verpleegkundigen (Subsidieregeling Inrichten Opleidingsstructuur helpenden, verzorgenden en verpleegkundigen) [KetenID WGK027676]

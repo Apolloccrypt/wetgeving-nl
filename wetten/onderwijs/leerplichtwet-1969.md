@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0002628"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Wet van 30 mei 1968, houdende vaststelling Leerplichtwet 1969

@@ -1,44 +1,18 @@
 ---
 title: "Regeling tot vaststelling van nieuwe regelen inzake vliegplannen"
+citeertitel: "Regeling vliegplannen"
 identifier: "BWBR0009900"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009900"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4651753"
-version_id: "21889432"
-internal_id: "C31414321"
-label_id: "4630104"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009900/2024-07-01/0"
-intitule_bron: "Stcrt.1998-195"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-09-15"
-intitule_published: "1998-10-13"
-intitule_in_force: "1998-10-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-35427"
-original_signed_date: "2014-12-09"
-original_published_date: "2014-12-11"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2014-35427"
-entry_into_force_date: "2014-12-09"
-jci_1_3: "jci1.3:c:BWBR0009900&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0009900&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vliegplannen"
-signed_date: "2014-12-09"
-entry_into_force: "2014-12-09"
+publicatiedatum: 2014-12-09
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0009900"
+opgehaald: 2026-08-04
 ---
+
 # Regeling tot vaststelling van nieuwe regelen inzake vliegplannen
-
-Gelet op [artikel 31, eerste en vierde lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=31);
-
-Besluiten:
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -72,29 +46,33 @@ In deze regeling wordt verstaan onder:
 
 - repeterend vliegplan (RPL): een vliegplan voor zich regelmatig herhalende vluchten met dezelfde hoofdkenmerken;
 
-- Schengen Uitvoeringsovereenkomst: de op 19 juni 1990 te Schengen tot stand gekomen Overeenkomst ter uitvoering van het tussen de regeringen van de staten van de Benelux Economische Unie, de bondsrepubliek Duitsland en de Franse republiek op 14 juni 1985 te Schengen gesloten akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen (Trb. 1990, 145), alsmede de daarop gebaseerde Protocollen;
+- Schengen Uitvoeringsovereenkomst: de op 19 juni 1990 te Schengen tot stand gekomen Overeenkomst ter uitvoering van het tussen de regeringen van de staten van de Benelux Economische Unie, de bondsrepubliek Duitsland en de Franse republiek op 14 juni 1985 te Schengen gesloten akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen (Trb. 1990, 145), alsmede de daarop gebaseerde Protocollen;
 
 - Schengengebied: het grondgebied van de staten waarop de Schengengrenscode en de Schengen Uitvoeringsovereenkomst van toepassing zijn;
 
-- Schengengrenscode: [Verordening (EU) 2016/399](32016R0399) van het Europees Parlement en de Raad van 9 maart 2016 betreffende een Uniecode voor de overschrijding van de grenzen door personen (Schengengrenscode) (PbEU, L77);
+- Schengengrenscode: Verordening (EU) 2016/399 van het Europees Parlement en de Raad van 9 maart 2016 betreffende een Uniecode voor de overschrijding van de grenzen door personen (Schengengrenscode) (PbEU, L77);
 
 - total estimated elapsed time (total EET): de berekende duur van de vlucht vanaf het opstijgen tot:
 
-- 1. voor een IFR-vlucht, de aankomst boven het - in relatie tot navigatiehulpmiddelen gedefinieerde punt, waar vandaan de voorgenomen instrumentnaderingsprocedure zal worden aangevangen dan wel, indien de luchthaven van bestemming niet beschikt over een navigatiehulpmiddel, de aankomst boven de luchthaven van bestemming;
+   - 1. voor een IFR-vlucht, de aankomst boven het - in relatie tot navigatiehulpmiddelen gedefinieerde punt, waar vandaan de voorgenomen instrumentnaderingsprocedure zal worden aangevangen dan wel, indien de luchthaven van bestemming niet beschikt over een navigatiehulpmiddel, de aankomst boven de luchthaven van bestemming;
 
-- 2. voor een VFR-vlucht, de aankomst boven de luchthaven van bestemming;
+   - 2. voor een VFR-vlucht, de aankomst boven de luchthaven van bestemming;
 
 - verkeersvlucht: een vlucht, die vervoer door een luchtvaartmaatschappij ten doel heeft;
 
 - Verwachte tijd van aankomst:
 
-- 1. voor een IFR-vlucht de tijd waarop een luchtvaartuig verwacht wordt boven een met behulp van navigatiehulpmiddelen gedefinieerd punt te zijn, vanwaar de verwachting is dat een instrumentnaderingsprocedure wordt aangevangen of, indien geen navigatiehulpmiddel verbonden is met de luchthaven, de tijd waarop het luchtvaarttuig boven de luchthaven zal arriveren;
+   - 1. voor een IFR-vlucht de tijd waarop een luchtvaartuig verwacht wordt boven een met behulp van navigatiehulpmiddelen gedefinieerd punt te zijn, vanwaar de verwachting is dat een instrumentnaderingsprocedure wordt aangevangen of, indien geen navigatiehulpmiddel verbonden is met de luchthaven, de tijd waarop het luchtvaarttuig boven de luchthaven zal arriveren;
 
-- 2. voor VFR-vluchten de tijd waarop verwacht wordt dat het luchtvaartuig boven de luchthaven zal arriveren.
+   - 2. voor VFR-vluchten de tijd waarop verwacht wordt dat het luchtvaartuig boven de luchthaven zal arriveren.
 
 - vliegcoördinator: de functionaris die door de verantwoordelijke Commandant is bevoegd verklaard namens hem leiding en toezicht uit te oefenen op de recreatieve luchtvaartbeoefening op een militaire luchthaven, buiten de militaire openstellingstijden;
 
 - vliegplan: specifieke inlichtingen, gerelateerd aan een voorgenomen vlucht, of een deel van een voorgenomen vlucht.
+
+##### Artikel 1a. Grondslag
+
+Deze regeling berust op [artikel 16, eerste, tweede en derde lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=16).
 
 ##### Artikel 2. Aanwijzing gebieden, routes met vliegplanverplichting en uitzonderingen op vliegplanverplichting
 
@@ -110,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de vlucht het luchtruim doorkruist van een staat buiten het Schengengebied; of
 
-- c. het indienen van een vliegplan verplicht is op grond van paragraaf SERA.4001, onderdeel b, subonderdelen 1, 3, 4 en 6, van [verordening (EU) nr. 923/2012](32012R0923).
+- c. het indienen van een vliegplan verplicht is op grond van paragraaf SERA.4001, onderdeel b, subonderdelen 1, 3, 4 en 6, van verordening (EU) nr. 923/2012.
 
 ##### Artikel 3. Vliegplangegevens en de wijze van indienen van het vliegplan
 
@@ -245,62 +223,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling vliegplannen.
-
-## Bijlage A1
-
-Ligt ter inzage bij de Luchtverkeersleiding Nederland, FSC.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen A1, A2, C1 en C2, die ter inzage worden gelegd bij de Luchtverkeersbeveiligingsorganisatie, afdeling Flight Information Office (FIO), Havenmeesterweg, Schiphol-Centrum.
-
-## Bijlage A1
-
-Ligt ter inzage bij de Luchtverkeersleiding Nederland, FSC.
-
-## Bijlage A2
-
-Ligt ter inzage bij de Luchtverkeersleiding Nederland, FSC.
-
-## Bijlage B. behorende bij [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2024-07-01&g=2024-07-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=6&z=2024-07-01&g=2024-07-01)
-
-| Luchthaven | Bevoegde luchtverkeersmeldingspost |
-| --- | --- |
-| Ameland (EHAL) | luchtverkeersmeldingspost Schiphol |
-| Budel (EHBD) | luchtverkeersmeldingspost Schiphol |
-| Drachten (EHDR) | luchtverkeersmeldingspost Schiphol |
-| Hilversum (EHHV) | luchtverkeersmeldingspost Schiphol |
-| Hoogeveen (EHHO) | luchtverkeersmeldingspost Schiphol |
-| Midden Zeeland (EHMZ) | luchtverkeersmeldingspost Schiphol |
-| Noordoostpolder (EHNP) | luchtverkeersmeldingspost Schiphol |
-| Seppe (EHSE) | luchtverkeersmeldingspost Schiphol |
-| Teuge (EHTE) | luchtverkeersmeldingspost Schiphol |
-| Texel (EHTX) | luchtverkeersmeldingspost Schiphol |
-| Twente (EHTW) | luchtverkeersmeldingspost Schiphol |
-|   |   |
-| **Militaire luchthavens** |   |
-| Eindhoven (EHEH) | luchtverkeersmeldingspost AOCS Nieuw Milligen |
-| Gilze-Rijen (EHGR) | luchtverkeersmeldingspost AOCS Nieuw Milligen |
-| Leeuwarden (EHLW) | luchtverkeersmeldingspost AOCS Nieuw Milligen |
-| Volkel (EHVK) | luchtverkeersmeldingspost AOCS Nieuw Milligen |
-| Woensdrecht (EHWO) | luchtverkeersmeldingspost AOCS Nieuw Milligen |
-| Deelen (EHDL) | luchtverkeersmeldingspost AOCS Nieuw Milligen |
-| De Kooy (EHKD) | luchtverkeersmeldingspost Schiphol |
-
-## Bijlage C1
-
-Ligt ter inzage bij de Luchtverkeersleiding Nederland.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen A1, A2, C1 en C2, die ter inzage worden gelegd bij de Luchtverkeersbeveiligingsorganisatie, afdeling Flight Information Office (FIO), Havenmeesterweg, Schiphol-Centrum.
-
-##### Artikel 1a. Grondslag
-
-Deze regeling berust op [artikel 16, eerste, tweede en derde lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=16).
-
-#### Afwijkingen voor bepaalde vluchten
-
-#### Slotbepalingen
-
-## Bijlage C2
-
-Ligt ter inzage bij de Luchtverkeersleiding Nederland.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen A1, A2, C1 en C2, die ter inzage worden gelegd bij de Luchtverkeersbeveiligingsorganisatie, afdeling Flight Information Office (FIO), Havenmeesterweg, Schiphol-Centrum.

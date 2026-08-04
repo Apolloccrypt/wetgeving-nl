@@ -1,40 +1,17 @@
 ---
 title: "Instellingsbesluit Centrale Directie Juridische Zaken Verkeer en Waterstaat"
 identifier: "BWBR0009629"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-06-10"
-last_updated: "1998-06-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009629"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "3957883"
-version_id: "5731032"
-internal_id: "C5933761"
-label_id: "3937944"
-dtd_version: "2.0"
-original_entry_into_force: "1998-06-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009629/1998-06-10/0"
-intitule_bron: "Stcrt.1998-104"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-05-19"
-intitule_published: "1998-06-08"
-intitule_in_force: "1998-06-08"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-104"
-original_signed_date: "1998-05-19"
-original_published_date: "1998-06-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-06-10"
-jci_1_3: "jci1.3:c:BWBR0009629&z=1998-06-10&g=1998-06-10"
-jci_1_0: "1.0:c:BWBR0009629&g=1998-06-10"
-citeertitel_status: "officieel"
-signed_date: "1998-05-19"
-entry_into_force: "1998-06-10"
+publicatiedatum: 1998-06-10
+laatste_update: 1998-06-10
+status: geldig
+toestand: 1998-06-10
+bron: "https://wetten.overheid.nl/BWBR0009629"
+opgehaald: 2026-08-04
 ---
-# Instellingsbesluit Centrale Directie Juridische Zaken Verkeer en Waterstaat
 
-Besluit:
+# Instellingsbesluit Centrale Directie Juridische Zaken Verkeer en Waterstaat
 
 ##### Artikel 1
 
@@ -64,17 +41,17 @@ Daartoe verricht zij onder meer de volgende activiteiten:
 
 - b. implementatie van dit beleid door onder meer:
 
-- 1º. toetsing van alle (voorgenomen) regelgeving op:
+   - 1º toetsing van alle (voorgenomen) regelgeving op:
 
-- nut en noodzaak,
+      - nut en noodzaak,
 
-- overeenstemming met hoger recht, waaronder internationale (notificatie-) verplichtingen,
+      - overeenstemming met hoger recht, waaronder internationale (notificatie-) verplichtingen,
 
-- integratie en samenhang met andere regelgeving, en
+      - integratie en samenhang met andere regelgeving, en
 
-- overige juridische kwaliteitseisen voor regelgeving,
+      - overige juridische kwaliteitseisen voor regelgeving,
 
-- 2º. het monitoren en adviseren met betrekking tot de kwaliteit van de gehele juridische functie,
+   - 2º het monitoren en adviseren met betrekking tot de kwaliteit van de gehele juridische functie,
 
 - c. het coördineren van aangelegenheden die meerdere diensten raken,
 
@@ -111,5 +88,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Centrale Directie Juridische Zaken Verkeer en Waterstaat.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden toegezonden aan de Algemene Rekenkamer, de secretaris-generaal en diens plaatsvervanger en de diensthoofden.

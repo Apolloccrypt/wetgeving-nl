@@ -1,55 +1,32 @@
 ---
 title: "Beleidsregels voor de uitvoering van artikel 7A van de Woningwet"
+citeertitel: "Beleidsregels voor de uitvoering van artikel 7a van de Woningwet"
 identifier: "BWBR0010248"
-country: "nl"
-rank: "circulaire"
-publication_date: "1999-02-10"
-last_updated: "1999-02-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010248"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6408363"
-version_id: "11074732"
-internal_id: "C14984851"
-label_id: "6397164"
-original_entry_into_force: "1999-02-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010248/1999-02-10/0"
-intitule_bron: "Stcrt.1999-26"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-01-29"
-intitule_published: "1999-02-08"
-intitule_in_force: "1999-02-08"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-26"
-original_signed_date: "1999-01-29"
-original_published_date: "1999-02-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1999-26-p8-SC17529"
-entry_into_force_date: "1999-02-10"
-jci_1_3: "jci1.3:c:BWBR0010248&z=1999-02-10&g=1999-02-10"
-jci_1_0: "1.0:c:BWBR0010248&g=1999-02-10"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels voor de uitvoering van artikel 7a van de Woningwet"
-signed_date: "1999-01-29"
-entry_into_force: "1999-02-10"
+publicatiedatum: 1999-02-10
+laatste_update: 1999-02-10
+status: geldig
+toestand: 1999-02-10
+bron: "https://wetten.overheid.nl/BWBR0010248"
+opgehaald: 2026-08-04
 ---
-# Beleidsregels voor de uitvoering van artikel 7A van de Woningwet
 
-Deze beleidsregels geven uitvoering aan [artikel 7a, eerste lid van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7a).
+# Beleidsregels voor de uitvoering van artikel 7A van de Woningwet
 
 ##### Artikel 1. Definities
 
 In deze beleidsregels wordt verstaan onder:
 
-**de Minister,** de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (VROM);
+*de Minister,* de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (VROM);
 
-**dubo-voorzieningen,** voorzieningen waarvan het bewezen milieurendement hoger is dan dat van conventionele voorzieningen;
+*dubo-voorzieningen,* voorzieningen waarvan het bewezen milieurendement hoger is dan dat van conventionele voorzieningen;
 
-**de bouwkosten,** de stichtingskosten verminderd met de grondkosten;
+*de bouwkosten,* de stichtingskosten verminderd met de grondkosten;
 
-**de meerkosten,** het verschil in prijs tussen enerzijds conventionele voorzieningen en anderzijds dubo-voorzieningen; en
+*de meerkosten,* het verschil in prijs tussen enerzijds conventionele voorzieningen en anderzijds dubo-voorzieningen; en
 
-**ontheffing,** toestemming van de Minister als bedoeld in [artikel 7a, lid 2 en 3 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7a).
+*ontheffing,* toestemming van de Minister als bedoeld in [artikel 7a, lid 2 en 3 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7a).
 
 ##### Artikel 2. Reikwijdte
 
@@ -63,9 +40,9 @@ Een ontheffing kan slechts door de Minister worden verleend indien is voldaan aa
 
 - b. de in het project toegepaste dubo-voorzieningen zijn voor de categorie waartoe het bouwwerk behoort nog onvoldoende toegepast, zodat nog onvoldoende inzicht is verkregen in
 
-- 1°. de milieuwinst die met de toegepaste dubo-voorzieningen wordt bereikt of
+   - 1° de milieuwinst die met de toegepaste dubo-voorzieningen wordt bereikt of
 
-- 2°. de consequenties van deze voorzieningen voor kosten, uitvoering of beheer;
+   - 2° de consequenties van deze voorzieningen voor kosten, uitvoering of beheer;
 
 - c. het project kent geen grotere omvang dan nodig is om inzicht te krijgen in de milieuwinst, meerkosten of consequenties voor uitvoering en beheer van de dubo-voorzieningen als toegepast bij de categorie waartoe het bouwwerk behoort; en
 
@@ -114,7 +91,3 @@ Deze beleidsregels treden in werking met ingang van 2 dagen na de dagtekening va
 ##### Artikel 9. Aanhaling
 
 Deze beleidsregels worden aangehaald als: Beleidsregels voor de uitvoering van artikel 7a van de Woningwet.
-
-## Bijlage 1. Aanvraagformulier bij [Artikel 5, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0010248&artikel=5&z=1999-02-10&g=1999-02-10) van de beleidsregels voor de uitvoering van Artikel 7A van de Woningwet
-
-## Bijlage 2. Gereedmeldingsformulier bij [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010248&artikel=7&z=1999-02-10&g=1999-02-10), van de beleidsregels voor de uitvoering van Artikel 7A van de woningwet

@@ -1,48 +1,25 @@
 ---
 title: "Regeling rechten tijdens afzondering en separatie"
 identifier: "BWBR0010412"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-04-22"
-last_updated: "1999-04-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010412"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3597623"
-version_id: "5380722"
-internal_id: "C5573811"
-label_id: "3577604"
-dtd_version: "2.0"
-original_entry_into_force: "1999-04-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010412/1999-04-22/0"
-intitule_bron: "Stcrt.1999-75"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-04-16"
-intitule_published: "1999-04-20"
-intitule_in_force: "1999-04-20"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-75"
-original_signed_date: "1999-04-16"
-original_published_date: "1999-04-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-04-22"
-jci_1_3: "jci1.3:c:BWBR0010412&z=1999-04-22&g=1999-04-22"
-jci_1_0: "1.0:c:BWBR0010412&g=1999-04-22"
-citeertitel_status: "officieel"
-signed_date: "1999-04-16"
-entry_into_force: "1999-04-22"
+publicatiedatum: 1999-04-22
+laatste_update: 1999-04-22
+status: geldig
+toestand: 1999-04-22
+bron: "https://wetten.overheid.nl/BWBR0010412"
+opgehaald: 2026-08-04
 ---
+
 # Regeling rechten tijdens afzondering en separatie
-
-Gelet op [artikel 34, achtste lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=34);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 6 oktober 1998, nr. 719424;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+wet:
+
+de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765).
 
 ##### Artikel 2. Afzondering
 
@@ -71,5 +48,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling rechten tijdens afzondering en separatie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

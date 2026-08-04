@@ -1,42 +1,17 @@
 ---
 title: "Instelling werkgroep modernisering successiewetgeving"
 identifier: "BWBR0010357"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-05-01"
-last_updated: "1999-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010357"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3960413"
-version_id: "5733572"
-internal_id: "C5936301"
-label_id: "3940484"
-dtd_version: "2.0"
-original_entry_into_force: "1999-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010357/1999-05-01/0"
-intitule_bron: "Stcrt.1999-58"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-03-23"
-intitule_published: "1999-03-24"
-intitule_in_force: "1999-03-24"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-58"
-original_signed_date: "1999-03-23"
-original_published_date: "1999-03-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-05-01"
-jci_1_3: "jci1.3:c:BWBR0010357&z=1999-05-01&g=1999-05-01"
-jci_1_0: "1.0:c:BWBR0010357&g=1999-05-01"
-citeertitel_status: "officieel"
-signed_date: "1999-03-23"
-entry_into_force: "1999-05-01"
+publicatiedatum: 1999-05-01
+laatste_update: 1999-05-01
+status: geldig
+toestand: 1999-05-01
+bron: "https://wetten.overheid.nl/BWBR0010357"
+opgehaald: 2026-08-04
 ---
+
 # Instelling werkgroep modernisering successiewetgeving
-
-Overwegende dat het met het oog op het in het regeerakkoord aangekondigde onderzoek naar modernisering van de successiewetgeving wenselijk is een werkgroep modernisering successiewetgeving in te stellen;
-
-Besluit:
 
 #### § 1. Instelling en taak
 

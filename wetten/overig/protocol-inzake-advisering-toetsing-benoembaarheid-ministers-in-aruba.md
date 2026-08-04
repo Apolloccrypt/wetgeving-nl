@@ -1,46 +1,17 @@
 ---
 title: "Protocol inzake advisering toetsing benoembaarheid ministers in Aruba"
 identifier: "BWBR0010873"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-01-01"
-last_updated: "2000-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010873"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4568983"
-version_id: "6385112"
-internal_id: "C6632011"
-label_id: "4547324"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010873/2000-01-01/0"
-intitule_bron: "Stcrt.1999-227"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-11-18"
-intitule_published: "1999-11-24"
-intitule_in_force: "1999-11-24"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-227"
-original_signed_date: "1999-11-18"
-original_published_date: "1999-11-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-01-01"
-jci_1_3: "jci1.3:c:BWBR0010873&z=2000-01-01&g=2000-01-01"
-jci_1_0: "1.0:c:BWBR0010873&g=2000-01-01"
-citeertitel_status: "officieel"
-signed_date: "1999-11-18"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2000-01-01
+status: geldig
+toestand: 2000-01-01
+bron: "https://wetten.overheid.nl/BWBR0010873"
+opgehaald: 2026-08-04
 ---
+
 # Protocol inzake advisering toetsing benoembaarheid ministers in Aruba
-
-overwegende: dat het gewenst is door een commissie van deskundigen te doen onderzoeken welke criteria een rol dienen te spelen bij de toetsing van benoembaarheid tot Arubaans minister;
-
-handelende in overeenstemming met het gevoelen van de raad van ministers van het Koninkrijk;
-
-gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-Besluiten:
 
 ##### Artikel 1. Instelling
 

@@ -1,40 +1,17 @@
 ---
 title: "Mandaatbesluit Aziëfaciliteit"
 identifier: "BWBR0011045"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-12-26"
-last_updated: "1999-12-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011045"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3733143"
-version_id: "5516022"
-internal_id: "C20069391"
-label_id: "3712904"
-dtd_version: "2.0"
-original_entry_into_force: "1999-12-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011045/1999-12-26/0"
-intitule_bron: "Stcrt.1999-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-23"
-intitule_published: "1999-12-24"
-intitule_in_force: "1999-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-249"
-original_signed_date: "1999-12-23"
-original_published_date: "1999-12-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-12-26"
-jci_1_3: "jci1.3:c:BWBR0011045&z=1999-12-26&g=1999-12-26"
-jci_1_0: "1.0:c:BWBR0011045&g=1999-12-26"
-citeertitel_status: "officieel"
-signed_date: "1999-12-23"
-entry_into_force: "1999-12-26"
+publicatiedatum: 1999-12-26
+laatste_update: 1999-12-26
+status: geldig
+toestand: 1999-12-26
+bron: "https://wetten.overheid.nl/BWBR0011045"
+opgehaald: 2026-08-04
 ---
-# Mandaatbesluit Aziëfaciliteit
 
-Besluit
+# Mandaatbesluit Aziëfaciliteit
 
 ##### Artikel 1
 
@@ -73,5 +50,3 @@ namens deze
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het geplaatst wordt.
-
-Dit besluit zal in de Staatscourant geplaatst worden.

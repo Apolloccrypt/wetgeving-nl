@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 9 april 1999, houdende nadere regels inzake het ondernemingsplan en de samenstelling en de werkwijze van de Commissie van deskundigen in verband met de vestiging van een notaris (Besluit ondernemingsplan notaris)"
+citeertitel: "Besluit ondernemingsplan notaris"
 identifier: "BWBR0010398"
-country: "nl"
-rank: "amvb"
-publication_date: "2004-08-01"
-last_updated: "2004-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010398"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1085363"
-version_id: "10505822"
-internal_id: "C14271611"
-label_id: "1051994"
-dtd_version: "2.0"
-original_entry_into_force: "2004-06-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010398/2004-08-01/0"
-intitule_bron: "Stb.1999-191"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-04-09"
-intitule_published: "1999-05-04"
-intitule_in_force: "1999-09-14"
-intitule_status: "goed"
-original_publication: "Stb.2004-266"
-original_signed_date: "2004-06-16"
-original_published_date: "2004-06-22"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2004-266"
-entry_into_force_date: "2004-06-16"
-jci_1_3: "jci1.3:c:BWBR0010398&z=2004-08-01&g=2004-08-01"
-jci_1_0: "1.0:c:BWBR0010398&g=2004-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ondernemingsplan notaris"
-signed_date: "2004-06-16"
-entry_into_force: "2004-06-16"
+publicatiedatum: 2004-06-16
+laatste_update: 2004-08-01
+status: geldig
+toestand: 2004-08-01
+bron: "https://wetten.overheid.nl/BWBR0010398"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 9 april 1999, houdende nadere regels inzake het ondernemingsplan en de samenstelling en de werkwijze van de Commissie van deskundigen in verband met de vestiging van een notaris (Besluit ondernemingsplan notaris)
-
-Op de voordracht van Onze Staatssecretaris van Justitie van 17 februari 1999, Directie Wetgeving nr. 747930/99/6;
-
-Gelet op de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=7), en [110, tweede lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110);
-
-De Raad van State gehoord (advies van 25 maart 1999, nr. W03.99.0076/I)
-
-Gezien het nader rapport van Onze Staatssecretaris van Justitie van 31 maart 1999, Directie Wetgeving nr. 756523/99/6;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -152,16 +120,6 @@ De Commissie geeft een negatief advies indien:
 
 De Commissie brengt jaarlijks voor 1 april aan Onze Minister van Justitie een verslag van werkzaamheden uit over het afgelopen kalenderjaar.
 
-##### Artikel 12
-
-Dit besluit treedt in werking op het tijdstip waarop [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=7) en [110, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110) in werking treden.
-
-##### Artikel 13
-
-Dit besluit wordt aangehaald als: Besluit ondernemingsplan notaris.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
 #### Paragraaf 4. De kosten van de advisering
 
 ##### Artikel 11a
@@ -172,4 +130,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 5. Slot- en overgangsbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 12
+
+Dit besluit treedt in werking op het tijdstip waarop [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=7) en [110, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110) in werking treden.
+
+##### Artikel 13
+
+Dit besluit wordt aangehaald als: Besluit ondernemingsplan notaris.

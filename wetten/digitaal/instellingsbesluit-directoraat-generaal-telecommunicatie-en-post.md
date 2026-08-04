@@ -1,41 +1,18 @@
 ---
 title: "Instellingbesluit Directoraat-Generaal Telecommunicatie en Post"
+citeertitel: "Instellingsbesluit directoraat-generaal Telecommunicatie en Post"
 identifier: "BWBR0010094"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010094"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "4506843"
-version_id: "6313262"
-internal_id: "C6518691"
-label_id: "4485334"
-dtd_version: "2.0"
-original_entry_into_force: "1999-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010094/2002-01-01/0"
-intitule_bron: "Stcrt.1998-246"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-12-14"
-intitule_published: "1998-12-23"
-intitule_in_force: "1998-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-246"
-original_signed_date: "1998-12-14"
-original_published_date: "1998-12-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-01-01"
-jci_1_3: "jci1.3:c:BWBR0010094&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0010094&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit directoraat-generaal Telecommunicatie en Post"
-signed_date: "1998-12-14"
-entry_into_force: "1999-01-01"
+publicatiedatum: 1999-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0010094"
+opgehaald: 2026-08-04
 ---
-# Instellingbesluit Directoraat-Generaal Telecommunicatie en Post
 
-Besluit:
+# Instellingbesluit Directoraat-Generaal Telecommunicatie en Post
 
 ##### Artikel 1
 
@@ -53,11 +30,11 @@ Besluit:
 
 - b. de voorbereiding en ontwikkeling van het algemene beleid inzake telecommunicatie, telematica en post, met het oog op:
 
-- 1. de versterking van de concurrentiepositie van Nederland door bevordering van de aanwezigheid en de toepassing van eersteklas voorzieningen op het gebied van de telecommunicatie, de telematica en de post;
+   - 1. de versterking van de concurrentiepositie van Nederland door bevordering van de aanwezigheid en de toepassing van eersteklas voorzieningen op het gebied van de telecommunicatie, de telematica en de post;
 
-- 2. de bewaking van de maatschappelijke belangen bij de toegang tot en het gebruik van telecommunicatie, telematica , informatie- en communicatietechnologie en post;
+   - 2. de bewaking van de maatschappelijke belangen bij de toegang tot en het gebruik van telecommunicatie, telematica , informatie- en communicatietechnologie en post;
 
-- 3. de bevordering van de internationale positie van de in en vanuit Nederland opererende bedrijven in de sectoren telecommunicatie, telematica en post;
+   - 3. de bevordering van de internationale positie van de in en vanuit Nederland opererende bedrijven in de sectoren telecommunicatie, telematica en post;
 
 - c. voorbereiding en ontwikkeling van het beleid met betrekking tot frequenties, standaardisatie en nummers;
 
@@ -88,5 +65,3 @@ Dit besluit treedt in werking met ingang van 1 januari 1999.
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Instellingsbesluit directoraat-generaal Telecommunicatie en Post.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

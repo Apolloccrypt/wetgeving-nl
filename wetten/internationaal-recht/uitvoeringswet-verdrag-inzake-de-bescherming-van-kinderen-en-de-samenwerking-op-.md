@@ -1,48 +1,18 @@
 ---
 title: "Wet van 14 mei 1998 tot uitvoering van het op 29 mei 1993 te 's-Gravenhage tot stand gekomen verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie en, in verband daarmee, wijziging van de Wet opneming buitenlandse pleegkinderen en enige andere wetten"
+citeertitel: "Uitvoeringswet Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie"
 identifier: "BWBR0009614"
-country: "nl"
-rank: "wet"
-publication_date: "2017-09-01"
-last_updated: "2017-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009614"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "2657133"
-version_id: "4018232"
-internal_id: "C4018231"
-label_id: "2601764"
-dtd_version: "2.0"
-original_entry_into_force: "1998-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009614/2017-09-01/0"
-intitule_bron: "Stb.1998-302"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-05-14"
-intitule_published: "1998-06-02"
-intitule_in_force: "1998-08-06"
-intitule_status: "goed"
-original_publication: "Stb.1998-302"
-original_signed_date: "1998-05-14"
-original_published_date: "1998-06-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "24811"
-original_url_id: "stb-1998-302"
-entry_into_force_date: "1998-10-01"
-entry_into_force_dossier: "24811"
-jci_1_3: "jci1.3:c:BWBR0009614&z=2017-09-01&g=2017-09-01"
-jci_1_0: "1.0:c:BWBR0009614&g=2017-09-01"
-citeertitel_status: "redactioneel"
-short_title: "Uitvoeringswet Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie"
-signed_date: "1998-05-14"
-entry_into_force: "1998-10-01"
+publicatiedatum: 1998-10-01
+laatste_update: 2017-09-01
+status: geldig
+toestand: 2017-09-01
+bron: "https://wetten.overheid.nl/BWBR0009614"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 14 mei 1998 tot uitvoering van het op 29 mei 1993 te 's-Gravenhage tot stand gekomen verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie en, in verband daarmee, wijziging van de Wet opneming buitenlandse pleegkinderen en enige andere wetten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om wettelijke voorzieningen te treffen ter uitvoering van het op 29 mei 1993 te 's-Gravenhage tot stand gekomen verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van interlandelijke adoptie (Trb. 1993, 197) en in verband daarmee de Wet opneming buitenlandse pleegkinderen en enige andere wetten te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
@@ -140,20 +110,18 @@ De verklaring, bedoeld in artikel 23 van het verdrag, wordt op verzoek afgegeven
 
 ##### Artikel 14
 
-Wijzigt de Wet opneming buitenlandse pleegkinderen.
+*Wijzigt de Wet opneming buitenlandse pleegkinderen.*
 
 ##### Artikel 15
 
-Wijzigt de Pleegkinderenwet.
+*Wijzigt de Pleegkinderenwet.*
 
 ##### Artikel 16
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.
+*Wijzigt Boek 1 van het Burgerlijk Wetboek.*
 
 ##### Artikel 17
 
 1. De hoofdstukken van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. Vergunningen die op grond van de [Wet opneming buitenlandse pleegkinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) zijn verleend vóór het tijdstip van inwerkingtreding van deze wet, vervallen van rechtswege twee jaren na dat tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0011453"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Wet van 29 juni 2000, houdende intrekking van de Wet op de studiefinanciering en vervanging door de Wet studiefinanciering 2000 (Wet studiefinanciering 2000)

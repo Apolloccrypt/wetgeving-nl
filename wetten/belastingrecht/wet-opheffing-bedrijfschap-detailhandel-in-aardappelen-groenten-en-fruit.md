@@ -1,47 +1,18 @@
 ---
 title: "Wet van 25 februari 1999, houdende opheffing van het Bedrijfschap Detailhandel in Aardappelen, Groenten en Fruit"
+citeertitel: "Wet opheffing Bedrijfschap Detailhandel in Aardappelen, Groenten en Fruit"
 identifier: "BWBR0010295"
-country: "nl"
-rank: "wet"
-publication_date: "1999-04-16"
-last_updated: "1999-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010295"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1027073"
-version_id: "1509622"
-internal_id: "C1509621"
-label_id: "995074"
-dtd_version: "2.0"
-original_entry_into_force: "1999-04-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010295/1999-04-16/0"
-intitule_bron: "Stb.1999-158"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-02-25"
-intitule_published: "1999-04-15"
-intitule_in_force: "1999-04-15"
-intitule_status: "goed"
-original_publication: "Stb.1999-158"
-original_signed_date: "1999-02-25"
-original_published_date: "1999-04-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "26327"
-original_url_id: "stb-1999-158"
-entry_into_force_date: "1999-04-16"
-jci_1_3: "jci1.3:c:BWBR0010295&z=1999-04-16&g=1999-04-16"
-jci_1_0: "1.0:c:BWBR0010295&g=1999-04-16"
-citeertitel_status: "officieel"
-short_title: "Wet opheffing Bedrijfschap Detailhandel in Aardappelen, Groenten en Fruit"
-signed_date: "1999-02-25"
-entry_into_force: "1999-04-16"
+publicatiedatum: 1999-04-16
+laatste_update: 1999-04-16
+status: geldig
+toestand: 1999-04-16
+bron: "https://wetten.overheid.nl/BWBR0010295"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 25 februari 1999, houdende opheffing van het Bedrijfschap Detailhandel in Aardappelen, Groenten en Fruit
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het Bedrijfschap voor de Detailhandel in Aardappelen, Groenten en Fruit op te heffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -132,5 +103,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 15
 
 Deze wet wordt aangehaald als Wet opheffing Bedrijfschap Detailhandel in Aardappelen, Groenten en Fruit.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

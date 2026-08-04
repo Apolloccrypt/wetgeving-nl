@@ -1,67 +1,38 @@
 ---
 title: "Wet van 1 juli 1999, houdende wijziging van de Wet op de Ruimtelijke Ordening"
+citeertitel: "Wijzigingswet Wet op de Ruimtelijke Ordening (1999)"
 identifier: "BWBR0010577"
-country: "nl"
-rank: "wet"
-publication_date: "2003-05-23"
-last_updated: "2003-05-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010577"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1130273"
-version_id: "1672582"
-internal_id: "C1672581"
-label_id: "1095974"
-dtd_version: "2.0"
-original_entry_into_force: "2000-04-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010577/2003-05-23/0"
-intitule_bron: "Stb.1999-302"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-07-01"
-intitule_published: "1999-07-20"
-intitule_in_force: "2000-01-13"
-intitule_status: "goed"
-original_publication: "Stb.1999-302"
-original_signed_date: "1999-07-01"
-original_published_date: "1999-07-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "25311"
-original_url_id: "stb-1999-302"
-entry_into_force_date: "2000-04-03"
-jci_1_3: "jci1.3:c:BWBR0010577&z=2003-05-23&g=2003-05-23"
-jci_1_0: "1.0:c:BWBR0010577&g=2003-05-23"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op de Ruimtelijke Ordening (1999)"
-signed_date: "1999-07-01"
-entry_into_force: "2000-04-03"
+publicatiedatum: 2000-04-03
+laatste_update: 2003-05-23
+status: geldig
+toestand: 2003-05-23
+bron: "https://wetten.overheid.nl/BWBR0010577"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 1 juli 1999, houdende wijziging van de Wet op de Ruimtelijke Ordening
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) aan te passen aan de uitkomsten van de evaluatie en voorts op enige andere punten te repareren;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op de Ruimtelijke Ordening.
+*Wijzigt de Wet op de Ruimtelijke Ordening.*
 
 ##### Artikel II
 
-Wijzigt de Woningwet.
+*Wijzigt de Woningwet.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de stads- en dorpsvernieuwing.
+*Wijzigt de Wet op de stads- en dorpsvernieuwing.*
 
 ##### Artikel IV
 
-Wijzigt de onteigeningswet.
+*Wijzigt de onteigeningswet.*
 
 ##### Artikel V
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel VI
 
@@ -94,5 +65,3 @@ De tekst van de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1
 ##### Artikel IX
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

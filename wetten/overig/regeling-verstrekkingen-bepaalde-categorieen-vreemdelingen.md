@@ -1,46 +1,17 @@
 ---
 title: "Regeling verstrekkingen bepaalde categorieën vreemdelingen"
 identifier: "BWBR0009726"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-04-17"
-last_updated: "2020-04-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009726"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4650483"
-version_id: "6466782"
-internal_id: "C6713661"
-label_id: "4628784"
-dtd_version: "2.0"
-original_entry_into_force: "1998-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009726/2020-04-17/0"
-intitule_bron: "Stcrt.1998-119"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-06-25"
-intitule_published: "1998-06-29"
-intitule_in_force: "1998-04-14"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-119"
-original_signed_date: "1998-06-25"
-original_published_date: "1998-06-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-07-01"
-jci_1_3: "jci1.3:c:BWBR0009726&z=2020-04-17&g=2020-04-17"
-jci_1_0: "1.0:c:BWBR0009726&g=2020-04-17"
-citeertitel_status: "officieel"
-signed_date: "1998-06-25"
-entry_into_force: "1998-07-01"
+publicatiedatum: 1998-07-01
+laatste_update: 2020-04-17
+status: geldig
+toestand: 2020-04-17
+bron: "https://wetten.overheid.nl/BWBR0009726"
+opgehaald: 2026-08-04
 ---
+
 # Regeling verstrekkingen bepaalde categorieën vreemdelingen
-
-Gelet op [artikel 3, tweede lid, van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3);
-
-Overwegende:
-
-dat er ingevolge de inwerkingtreding van de [Koppelingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009511) een noodzaak is ontstaan te voorzien in de noodzakelijke bestaansvoorwaarden voor een drietal categorieën vreemdelingen;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -86,11 +57,11 @@ In deze regeling wordt verstaan onder:
 
 - h. een in verband met eergerelateerd of huiselijk geweld dan wel mensenhandel hier te lande verblijvende gemeenschapsonderdaan, bedoeld in [artikel 1 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), die:
 
-- 1°. rechtmatig verblijf heeft op grond van [artikel 8, onder e, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), gedurende drie maanden na inreis; of
+   - 1°. rechtmatig verblijf heeft op grond van [artikel 8, onder e, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), gedurende drie maanden na inreis; of
 
-- 2°. indien de periode van drie maanden na inreis verstreken is, blijkens een schriftelijke verklaring van de Immigratie- en Naturalisatiedienst aan het COA, rechtmatig verblijf heeft op grond van [artikel 8, onder f, g, h of k, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), totdat drie maanden in de noodzakelijke bestaansvoorwaarden is voorzien; of
+   - 2°. indien de periode van drie maanden na inreis verstreken is, blijkens een schriftelijke verklaring van de Immigratie- en Naturalisatiedienst aan het COA, rechtmatig verblijf heeft op grond van [artikel 8, onder f, g, h of k, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), totdat drie maanden in de noodzakelijke bestaansvoorwaarden is voorzien; of
 
-- 3°. indien de periode van drie maanden na inreis nog niet verstreken is, rechtmatig verblijf heeft op grond van [artikel 8, onder e, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en daaropvolgend blijkens een schriftelijke verklaring van de Immigratie- en Naturalisatiedienst aan het COA rechtmatig verblijf heeft op grond van artikel 8, onder f, g, h of k, van de Vreemdelingenwet 2000, totdat drie maanden in de noodzakelijke bestaansvoorwaarden is voorzien.
+   - 3°. indien de periode van drie maanden na inreis nog niet verstreken is, rechtmatig verblijf heeft op grond van [artikel 8, onder e, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en daaropvolgend blijkens een schriftelijke verklaring van de Immigratie- en Naturalisatiedienst aan het COA rechtmatig verblijf heeft op grond van artikel 8, onder f, g, h of k, van de Vreemdelingenwet 2000, totdat drie maanden in de noodzakelijke bestaansvoorwaarden is voorzien.
 
 2. De schriftelijke verklaring, bedoeld in het eerste lid, houdt in dat de vreemdeling behoort tot één van de in het eerste lid bedoelde categorieën vreemdelingen.
 
@@ -156,9 +127,9 @@ Geen recht op de financiële toelage bestaat indien:
 
 - a. voor de vreemdeling, bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2020-04-17&g=2020-04-17):
 
-- 1°. 70% van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen, tenzij het betreft twee echtgenoten die beiden vreemdeling als bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2020-04-17&g=2020-04-17) zijn, in welk geval de echtgenoten ieder 50% van de berekeningsbasis toekomt, verminderd met het in aanmerking te nemen inkomen;
+   - 1°. 70% van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen, tenzij het betreft twee echtgenoten die beiden vreemdeling als bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2020-04-17&g=2020-04-17) zijn, in welk geval de echtgenoten ieder 50% van de berekeningsbasis toekomt, verminderd met het in aanmerking te nemen inkomen;
 
-- 2°. 90% van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen, indien deze vreemdeling een alleenstaande ouder is;
+   - 2°. 90% van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen, indien deze vreemdeling een alleenstaande ouder is;
 
 - b. voor de vreemdeling, bedoeld in [artikel 4 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2020-04-17&g=2020-04-17): 100 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen;
 
@@ -172,7 +143,7 @@ Geen recht op de financiële toelage bestaat indien:
 
 - g. voor de vreemdeling bedoeld in [artikel 4, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2020-04-17&g=2020-04-17): het bedrag, bedoeld in [artikel 20, eerste lid, onder a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=20), verminderd met het in aanmerking te nemen inkomen;
 
-- h. voor de vreemdeling, bedoeld in [artikel 4, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2020-04-17&g=2020-04-17): 50 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen, tenzij het betreft een alleenstaande ouder die gezinshereniging beoogt met een Nederlands kind, in welk geval aan de alleenstaande ouder 70% van de berekeningsbasis toekomt, verminderd met het in aanmerking te nemen vermogen;
+- h. voor de vreemdeling, bedoeld in [artikel 4, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2020-04-17&g=2020-04-17): 50 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen, tenzij het betreft een alleenstaande ouder die gezinshereniging beoogt met een Nederlands kind, in welk geval aan de alleenstaande ouder 70% van de berekeningsbasis toekomt, verminderd met het in aanmerking te nemen vermogen;
 
 - i. voor de vreemdeling, bedoeld in [artikel 2, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2020-04-17&g=2020-04-17): het bedrag, bedoeld in [artikel 20, eerste lid, onder a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=20), verminderd met het in aanmerking te nemen inkomen.
 
@@ -206,7 +177,7 @@ Geen recht op de financiële toelage bestaat indien:
 
 7. De toelage wordt maandelijks vastgesteld over dat deel van de kalendermaand waarover recht op de toelage bestaat.
 
-8. De financiële toelage, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2020-04-17&g=2020-04-17), wordt niet toegekend over de periode voorafgaand aan 1 januari 2007.
+8. De financiële toelage, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2020-04-17&g=2020-04-17), wordt niet toegekend over de periode voorafgaand aan 1 januari 2007.
 
 ##### Artikel 10
 

@@ -1,47 +1,18 @@
 ---
 title: "Rijkswet van 1 juli 1999, houdende regels inzake de administratieve bijstand tussen de landen van het Koninkrijk op het gebied van de douane en inzake de heffing en de invordering van accijnzen, omzetbelasting, algemene bestedingsbelasting en belasting op bedrijfsomzetten (Rijkswet administratieve bijstand douane)"
+citeertitel: "Rijkswet administratieve bijstand douane"
 identifier: "BWBR0010576"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010576"
+categorie: "Belastingrecht"
 soort: "rijkswet"
-stam_id: "1116123"
-version_id: "1649612"
-internal_id: "C1649611"
-label_id: "1082114"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010576/2010-10-10/0"
-intitule_bron: "Stb.1999-299"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-07-01"
-intitule_published: "1999-07-20"
-intitule_in_force: "1999-11-30"
-intitule_status: "goed"
-original_publication: "Stb.1999-299"
-original_signed_date: "1999-07-01"
-original_published_date: "1999-07-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "25948"
-original_url_id: "stb-1999-299"
-entry_into_force_date: "2000-01-01"
-jci_1_3: "jci1.3:c:BWBR0010576&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0010576&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijkswet administratieve bijstand douane"
-signed_date: "1999-07-01"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0010576"
+opgehaald: 2026-08-04
 ---
+
 # Rijkswet van 1 juli 1999, houdende regels inzake de administratieve bijstand tussen de landen van het Koninkrijk op het gebied van de douane en inzake de heffing en de invordering van accijnzen, omzetbelasting, algemene bestedingsbelasting en belasting op bedrijfsomzetten (Rijkswet administratieve bijstand douane)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen als bedoeld in artikel 38, eerste en tweede lid, van het Statuut voor het Koninkrijk inzake de administratieve bijstand tussen de landen van het Koninkrijk op het gebied van de douane en inzake de heffing en de invordering van accijnzen, omzetbelasting, algemene bestedingsbelasting en belasting op bedrijfsomzetten;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -294,5 +265,3 @@ Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 ##### Artikel 19
 
 Deze rijkswet wordt aangehaald als: Rijkswet administratieve bijstand douane.
-
-Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

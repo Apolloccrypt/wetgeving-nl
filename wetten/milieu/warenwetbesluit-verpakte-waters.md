@@ -1,54 +1,18 @@
 ---
 title: "Besluit van 31 juli 1998, houdende regels voor bronwater, natuurlijk mineraalwater en andere verpakte waters (Warenwetbesluit Verpakte waters)"
+citeertitel: "Warenwetbesluit Verpakte waters"
 identifier: "BWBR0009828"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-12"
-last_updated: "2023-01-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009828"
+categorie: "Milieu"
 soort: "AMvB"
-stam_id: "2267493"
-version_id: "9862042"
-internal_id: "C13328111"
-label_id: "2218124"
-dtd_version: "2.0"
-original_entry_into_force: "2003-11-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009828/2023-01-12/0"
-intitule_bron: "Stb.1998-527"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-07-31"
-intitule_published: "1998-09-03"
-intitule_in_force: "1998-09-03"
-intitule_status: "goed"
-original_publication: "Stb.2003-473"
-original_signed_date: "2003-11-06"
-original_published_date: "2003-11-25"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2003-473"
-entry_into_force_date: "2003-11-06"
-jci_1_3: "jci1.3:c:BWBR0009828&z=2023-01-12&g=2023-01-12"
-jci_1_0: "1.0:c:BWBR0009828&g=2023-01-12"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit Verpakte waters"
-signed_date: "2003-11-06"
-entry_into_force: "2003-11-06"
+publicatiedatum: 2003-11-06
+laatste_update: 2023-01-12
+status: geldig
+toestand: 2023-01-12
+bron: "https://wetten.overheid.nl/BWBR0009828"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 31 juli 1998, houdende regels voor bronwater, natuurlijk mineraalwater en andere verpakte waters (Warenwetbesluit Verpakte waters)
-
-Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 juli 1997, GZB/VVB/973729 gedaan in overeenstemming met Onze Minister van Economische Zaken;
-
-Gelet op [richtlijn nr. 96/70/EG](31996L0070) van het Europees Parlement en de Raad van 28 oktober 1996 tot wijziging van [richtlijn nr. 80/777/EEG](31980L0777) van de Raad van 15 juli 1980 betreffende de onderlinge aanpassing van de wetgevingen der lid-staten inzake de exploitatie en het in de handel brengen van natuurlijk mineraalwater (PbEG L 299);
-
-op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet;
-
-alsmede op [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=5), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=6), [artikel 8, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), [artikel 9, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=9), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13), en [artikel 14 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14);
-
-De Raad van State gehoord (advies van 3 november 1997, no. W13.97.0417);
-
-Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 27 juli 1998 met nummer GZB/VVB/983597, uitgebracht in overeenstemming met Onze Minister van Economische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -56,25 +20,27 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **richtlijn 2009/54/EG:** Richtlijn 2009/54/EG van het Europees Parlement en de Raad van 18 juni 2009 betreffende de exploitatie en het in de handel brengen van natuurlijk mineraalwater (Herschikking) (PbEU 2009, L 164);
+- a. *richtlijn 2009/54/EG:* Richtlijn 2009/54/EG van het Europees Parlement en de Raad van 18 juni 2009 betreffende de exploitatie en het in de handel brengen van natuurlijk mineraalwater (Herschikking) (PbEU 2009, L 164);
 
-- b. **richtlijn (EU) 2020/2184:** [Richtlijn (EU) 2020/2184](32020L2184) van het Europees Parlement en de Raad van 16 december 2020 betreffende de kwaliteit van voor menselijke consumptie bestemd water (herschikking) (PbEU 2020, L 435);
+- b. *richtlijn (EU) 2020/2184:*
+ Richtlijn (EU) 2020/2184 van het Europees Parlement en de Raad van 16 december 2020 betreffende de kwaliteit van voor menselijke consumptie bestemd water (herschikking) (PbEU 2020, L 435);
 
-- c. **natuurlijk mineraalwater:** bacteriologisch gezond water met als oorsprong een watervlak of een onderaardse laag, dat afkomstig is van een bron geëxploiteerd door een of meer natuurlijke of kunstmatige ontspringingspunten, met als kenmerken:
+- c. *natuurlijk mineraalwater:* bacteriologisch gezond water met als oorsprong een watervlak of een onderaardse laag, dat afkomstig is van een bron geëxploiteerd door een of meer natuurlijke of kunstmatige ontspringingspunten, met als kenmerken:
 
-- –. een natuurlijke samenstelling die gekenmerkt wordt door het gehalte aan mineralen, sporenelementen of andere bestanddelen en, in voorkomend geval, door bepaalde uitwerkingen; en
+   - – een natuurlijke samenstelling die gekenmerkt wordt door het gehalte aan mineralen, sporenelementen of andere bestanddelen en, in voorkomend geval, door bepaalde uitwerkingen; en
 
-- –. een natuurlijke zuiverheid;
+   - – een natuurlijke zuiverheid;
 
-- d. **bronwater:** in zijn natuurlijke staat voor consumptie door de mens bestemd water;
+- d. *bronwater:* in zijn natuurlijke staat voor consumptie door de mens bestemd water;
 
-- e. **water:** al het andere water dan natuurlijk mineraalwater en bronwater, dat onbehandeld of na behandeling bestemd is voor drinken, koken of voedselbereiding, ongeacht de herkomst, en dat is voorverpakt in de zin van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304);
+- e. *water:* al het andere water dan natuurlijk mineraalwater en bronwater, dat onbehandeld of na behandeling bestemd is voor drinken, koken of voedselbereiding, ongeacht de herkomst, en dat is voorverpakt in de zin van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304);
 
-- f. **richtlijn 2003/40/EG:** [richtlijn nr. 2003/40/EG](32003L0040) van de Commissie van de Europese Gemeenschappen van 16 mei 2003 tot vaststelling van de lijst, de grenswaarden voor de concentratie en de vermelding op het etiket van bestanddelen van natuurlijk mineraalwater en van de voorwaarden voor het gebruik van met ozon verrijkte lucht bij de behandeling van natuurlijk mineraalwater en bronwater (PbEU L 126);
+- f. *richtlijn 2003/40/EG:*
+ richtlijn nr. 2003/40/EG van de Commissie van de Europese Gemeenschappen van 16 mei 2003 tot vaststelling van de lijst, de grenswaarden voor de concentratie en de vermelding op het etiket van bestanddelen van natuurlijk mineraalwater en van de voorwaarden voor het gebruik van met ozon verrijkte lucht bij de behandeling van natuurlijk mineraalwater en bronwater (PbEU L 126);
 
-- g. **verordening (EU) 115/2010:** verordening (EU) nr. 115/2010 van de Commissie van de Europese Unie van 9 februari 2010 tot vaststelling van de voorwaarden voor het gebruik van geactiveerd aluminiumoxide om fluoride uit natuurlijk mineraalwater en bronwater te verwijderen (PbEU L 37);
+- g. *verordening (EU) 115/2010:* verordening (EU) nr. 115/2010 van de Commissie van de Europese Unie van 9 februari 2010 tot vaststelling van de voorwaarden voor het gebruik van geactiveerd aluminiumoxide om fluoride uit natuurlijk mineraalwater en bronwater te verwijderen (PbEU L 37);
 
-- h. **richtlijn 2013/51/Euratom:** Richtlijn 2013/51/Euratom van de Raad van 22 oktober 2013 tot vaststelling van voorschriften voor de bescherming van de volksgezondheid tegen radioactieve stoffen in voor menselijke consumptie bestemd water (PbEU 2013, L 296).
+- h. *richtlijn 2013/51/Euratom:* Richtlijn 2013/51/Euratom van de Raad van 22 oktober 2013 tot vaststelling van voorschriften voor de bescherming van de volksgezondheid tegen radioactieve stoffen in voor menselijke consumptie bestemd water (PbEU 2013, L 296).
 
 2. Dit besluit is niet van toepassing op:
 
@@ -126,7 +92,7 @@ Hebben goedgevonden en verstaan:
 
 - b. de afscheiding van ijzer-, mangaan- en zwavelverbindingen en arseen van bepaalde soorten natuurlijk mineraalwater door behandeling met lucht die met ozon is verrijkt;
 
-- c. dit onderdeel is nog niet in werking getreden;
+- c. *dit onderdeel is nog niet in werking getreden;*
 
 - d. de totale of gedeeltelijke verwijdering van vrij koolzuurgas via uitsluitend natuurkundige procédés; voor zover de onder a, b en c bedoelde behandeling geen invloed heeft op de samenstelling van het behandelde mineraalwater, wat betreft de essentiële bestanddelen waaraan dat water zijn eigenschappen te danken heeft.
 
@@ -156,11 +122,11 @@ Het totale gehalte aan kweekbare micro-organismen van een natuurlijk mineraalwat
 
 - b. bedraagt na het bottelen niet meer dan:
 
-- 1°. 100/ml, na kweken gedurende 72 uur bij 20 à 22 °C op een agar-agar-voedingsbodem of een agar-agar-gelatinemengsel; en
+   - 1°. 100/ml, na kweken gedurende 72 uur bij 20 à 22 °C op een agar-agar-voedingsbodem of een agar-agar-gelatinemengsel; en
 
-- 2°. 20/ml, na kweken gedurende 24 uur bij 37 °C op een agar-agar-voedingsbodem;
+   - 2°. 20/ml, na kweken gedurende 24 uur bij 37 °C op een agar-agar-voedingsbodem;
 
-- gemeten. binnen 12 uur na het bottelen, waarbij het water gedurende deze periode van 12 uur op 4 °C ± 1 °C wordt gehouden; en
+   - gemeten binnen 12 uur na het bottelen, waarbij het water gedurende deze periode van 12 uur op 4 °C ± 1 °C wordt gehouden; en
 
 - c. wordt tijdens de verhandeling uitsluitend bepaald door de normale ontwikkeling van het kiemgehalte van dat water bij het ontspringen.
 
@@ -238,6 +204,10 @@ Ten aanzien van natuurlijk mineraalwater mogen naast die van [artikel 10](https:
 | kan laxerend zijn | – |
 | kan diuretisch zijn | – |
 
+##### Artikel 11a
+
+Bij de vaststelling of al dan niet is voldaan aan artikel 8, derde lid, worden de prestatiekenmerken in acht genomen die zijn omschreven in bijlage II van richtlijn 2003/40/EG.
+
 #### § 3. In de Europese Unie gewonnen bronwater
 
 ##### Artikel 12
@@ -248,7 +218,7 @@ Ten aanzien van natuurlijk mineraalwater mogen naast die van [artikel 10](https:
 
 - b. [artikel 10, eerste lid, onder a, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=10&z=2023-01-12&g=2023-01-12); zijn van overeenkomstige toepassing op bronwater.
 
-2. Onverminderd het eerste lid voldoet bronwater aan de ter uitvoering van [richtlijn (EU) 2020/2184](32020L2184) bij of krachtens de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338) aan drinkwater gestelde eisen.
+2. Onverminderd het eerste lid voldoet bronwater aan de ter uitvoering van richtlijn (EU) 2020/2184 bij of krachtens de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338) aan drinkwater gestelde eisen.
 
 3. Bronwater dat rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, wordt gelijkgesteld met bronwater dat is erkend op de voet van het eerste lid.
 
@@ -279,11 +249,15 @@ b. is de pH van niet-bruisend water ten minste 4,5 en ten hoogste 9,5, met dien 
 
 ##### Artikel 14a
 
-Bij de vaststelling of al dan niet is voldaan aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14&z=2023-01-12&g=2023-01-12), worden de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn (EU) 2020/2184](32020L2184), met dien verstande dat:
+Bij de vaststelling of al dan niet is voldaan aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14&z=2023-01-12&g=2023-01-12), worden de specificaties in acht genomen die zijn omschreven in bijlage III van richtlijn (EU) 2020/2184, met dien verstande dat:
 
 - a. andere dan in bijlage III, deel A, van die richtlijn vermelde methoden gebruikt mogen worden voor zover kan worden aangetoond dat de daarmee verkregen resultaten ten minste even betrouwbaar zijn als die van de gespecificeerde methoden;
 
 - b. voor de in bijlage III, deel B, van die richtlijn genoemde parameters elke methode van onderzoek mag worden gebruikt die aan de aldaar gestelde eisen voldoet.
+
+##### Artikel 14b
+
+Bij de vaststelling of al dan niet is voldaan aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14&z=2023-01-12&g=2023-01-12), voor zover het betrekking heeft op het voldoen aan de parameterwaarden voor radioactieve stoffen, wordt gecontroleerd volgens de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties.
 
 #### § 6:. slotbepalingen
 
@@ -293,104 +267,18 @@ Het Natuurlijk mineraal- en bronwaterbesluit (Warenwet) wordt ingetrokken, met d
 
 ##### Artikel 16
 
-Wijzigt het Warenwetbesluit Frisdranken.
+*Wijzigt het Warenwetbesluit Frisdranken.*
 
 ##### Artikel 17
 
 1. Dit besluit treedt in werking met ingang van 28 oktober 1998,
 
-- –. met uitzondering van [artikel 4, eerste lid, onder b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2023-01-12&g=2023-01-12), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip,
+- – met uitzondering van [artikel 4, eerste lid, onder b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2023-01-12&g=2023-01-12), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip,
 
-- –. met dien verstande dat natuurlijk mineraalwater of bronwater dat voldoet aan het Natuurlijk mineraal- en bronwaterbesluit (Warenwet) zoals dat tot het in de aanhef genoemde tijdstip luidde, en dat voor dat tijdstip rechtmatig in het verkeer is gebracht of is geëtiketteerd, nog verhandeld mag worden zolang de voorraad strekt.
+- – met dien verstande dat natuurlijk mineraalwater of bronwater dat voldoet aan het Natuurlijk mineraal- en bronwaterbesluit (Warenwet) zoals dat tot het in de aanhef genoemde tijdstip luidde, en dat voor dat tijdstip rechtmatig in het verkeer is gebracht of is geëtiketteerd, nog verhandeld mag worden zolang de voorraad strekt.
 
 2. Een wijziging van bijlage II en III van richtlijn 2013/51/Euratom gaat voor de toepassing van [artikel 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14b&z=2023-01-12&g=2023-01-12) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 18
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Verpakte waters.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 11a
-
-Bij de vaststelling of al dan niet is voldaan aan artikel 8, derde lid, worden de prestatiekenmerken in acht genomen die zijn omschreven in bijlage II van [richtlijn 2003/40/EG](32003L0040).
-
-#### § 3. In de Europese Unie gewonnen bronwater
-
-#### § 4. Binnen Nederlands grondgebied brengen van natuurlijk mineraalwater en bronwater vanuit een derde land
-
-#### § 5. Ander verpakt water dan natuurlijk mineraalwater en bronwater
-
-#### § 6:. slotbepalingen
-
-## Bijlage I
-
-Deze bijlage behoort bij [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=8&z=2014-12-13&g=2014-12-13).
-
-De van nature in mineraalwater aanwezige bestanddelen en hoeveelheden, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=8&z=2014-12-13&g=2014-12-13), zijn:
-
-| Bestanddeel | Hoeveelheid (mg/l) |
-| --- | --- |
-| antimoon | 0,0050 |
-| arseen | 0,010 (As totaal) |
-| barium | 1,0 |
-| cadmium | 0,003 |
-| chroom | 0,050 |
-| koper | 1,0 |
-| cyanide | 0,070 |
-| fluoride | 5,0 |
-| lood | 0,010 |
-| mangaan | 0,50 |
-| kwik | 0,0010 |
-| nikkel | 0,020 |
-| nitraat | 50 |
-| nitriet | 0,1 |
-| seleen | 0,010 |
-
-## Bijlage I
-
-Deze bijlage behoort bij [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=8&z=2023-01-12&g=2023-01-12).
-
-De van nature in mineraalwater aanwezige bestanddelen en hoeveelheden, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=8&z=2023-01-12&g=2023-01-12), zijn:
-
-| Bestanddeel | Hoeveelheid (mg/l) |
-| --- | --- |
-| antimoon | 0,0050 |
-| arseen | 0,010 (As totaal) |
-| barium | 1,0 |
-| cadmium | 0,003 |
-| chroom | 0,050 |
-| koper | 1,0 |
-| cyanide | 0,070 |
-| fluoride | 5,0 |
-| lood | 0,010 |
-| mangaan | 0,50 |
-| kwik | 0,0010 |
-| nikkel | 0,020 |
-| nitraat | 50 |
-| nitriet | 0,1 |
-| seleen | 0,010 |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 14b
-
-Bij de vaststelling of al dan niet is voldaan aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14&z=2023-01-12&g=2023-01-12), voor zover het betrekking heeft op het voldoen aan de parameterwaarden voor radioactieve stoffen, wordt gecontroleerd volgens de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties.
-
-#### § 6:. slotbepalingen
-
-## Bijlage II
-
-Deze bijlage behoort bij [artikel 4, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2023-01-12&g=2023-01-12).
-
-De grenswaarden voor residuen van de behandeling van natuurlijk mineraalwater met lucht die met ozon is verrijkt, bedoeld in [artikel 4, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2023-01-12&g=2023-01-12), zijn:
-
-| Behandelingsresidu | Grenswaarde* (μg/l) |
-| --- | --- |
-| opgelost ozon | 50 |
-| bromaat | 3 |
-| bromoform | 1 |
-
-* De naleving van de grenswaarde wordt door de Nederlandse Voedsel- en Warenautoriteit nagegaan bij de botteling of andere wijze van verpakking voor de eindverbruiker.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

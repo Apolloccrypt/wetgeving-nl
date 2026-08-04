@@ -1,58 +1,22 @@
 ---
 title: "Besluit van 13 november 1999, houdende wijziging van het Besluit bijzondere voorzieningen militair nabestaandenpensioen"
+citeertitel: "Wijzigingsbesluit Besluit bijzondere voorzieningen militair nabestaandenpensioen"
 identifier: "BWBR0010857"
-country: "nl"
-rank: "amvb"
-publication_date: "2000-01-12"
-last_updated: "2000-01-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010857"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "1207043"
-version_id: "1779392"
-internal_id: "C1779391"
-label_id: "1168984"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010857/2000-01-12/0"
-intitule_bron: "Stb.2000-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-11-13"
-intitule_published: "2000-01-11"
-intitule_in_force: "2000-01-11"
-intitule_status: "goed"
-original_publication: "Stb.2000-2"
-original_signed_date: "1999-11-13"
-original_published_date: "2000-01-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2000-2"
-entry_into_force_date: "2000-01-12"
-jci_1_3: "jci1.3:c:BWBR0010857&z=2000-01-12&g=2000-01-12"
-jci_1_0: "1.0:c:BWBR0010857&g=2000-01-12"
-citeertitel_status: "officieel"
-short_title: "Wijzigingsbesluit Besluit bijzondere voorzieningen militair nabestaandenpensioen"
-signed_date: "1999-11-13"
-entry_into_force: "2000-01-12"
+publicatiedatum: 2000-01-12
+laatste_update: 2000-01-12
+status: geldig
+toestand: 2000-01-12
+bron: "https://wetten.overheid.nl/BWBR0010857"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 13 november 1999, houdende wijziging van het Besluit bijzondere voorzieningen militair nabestaandenpensioen
-
-Op de voordracht van de Staatssecretaris van Defensie van 22 maart 1999, nr. P/99001231;
-
-Gelet op [artikel 12 van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12);
-
-Gelet op [artikel 31 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=31);
-
-De Raad van State gehoord (advies van 21 mei 1999, nr. W07.99.0142);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 9 november 1999, nr. P/99003609;
-
-Hebben goedgevonden en verstaan:
-
-Artikel I werkt terug tot en met 1 januari 1998. Artikel II en artikel III, tweede en vierde lid, werken terug tot en met 1 juli 1999. Artikel III eerste lid werkt terug tot en met 1 januari 1998. Artikel III derde lid werkt terug tot en met 1 januari 1999.
 
 ##### Artikel I
 
-Wijzigt het Besluit bijzondere voorzieningen militair nabestaanden-pensioen.
+*Wijzigt het Besluit bijzondere voorzieningen militair nabestaanden-pensioen.*
 
 ##### Artikel II
 

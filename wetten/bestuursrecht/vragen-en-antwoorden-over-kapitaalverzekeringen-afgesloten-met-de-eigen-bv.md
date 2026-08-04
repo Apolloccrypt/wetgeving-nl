@@ -1,40 +1,17 @@
 ---
 title: "Vragen en antwoorden over kapitaalverzekeringen afgesloten met de eigen BV"
 identifier: "BWBR0009773"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1998-07-09"
-last_updated: "1998-07-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009773"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "8388903"
-version_id: "13261162"
-internal_id: "C17831471"
-label_id: "8371214"
-dtd_version: "2.0"
-original_entry_into_force: "1998-07-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009773/1998-07-09/0"
-intitule_bron: "Infob.1998-7"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-07-09"
-intitule_published: "1998-01-01"
-intitule_in_force: "1998-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1998-7"
-original_signed_date: "1998-07-09"
-original_published_date: "1998-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-07-09"
-jci_1_3: "jci1.3:c:BWBR0009773&z=1998-07-09&g=1998-07-09"
-jci_1_0: "1.0:c:BWBR0009773&g=1998-07-09"
-citeertitel_status: "redactioneel"
-signed_date: "1998-07-09"
-entry_into_force: "1998-07-09"
+publicatiedatum: 1998-07-09
+laatste_update: 1998-07-09
+status: geldig
+toestand: 1998-07-09
+bron: "https://wetten.overheid.nl/BWBR0009773"
+opgehaald: 2026-08-04
 ---
-# Vragen en antwoorden over kapitaalverzekeringen afgesloten met de eigen BV
 
-De plv. Directeur-Generaal der Belastingen heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Vragen en antwoorden over kapitaalverzekeringen afgesloten met de eigen BV
 
 ### Inleiding
 
@@ -43,6 +20,24 @@ Bij Besluit van 10 augustus 1995, nr. DB95/3186M, Infobulletin 1995/722 (hierna 
 Met het oog op de uitvoering van het besluit en voor de behandeling van bepaalde individuele gevallen heeft de Belastingdienst de Werkgroep Kapitaalverzekering met de eigen BV (hierna: de Werkgroep) ingesteld. Sedert haar oprichting heeft de Werkgroep een aantal individuele gevallen behandeld en vele vragen over de feitelijke toepassing van het Besluit beantwoord. Deze werkzaamheden hebben inzicht gegeven in de vragen die in de praktijk nog bestaan over de wijze van toepassen van het besluit in bepaalde situaties. Ten behoeve van de uitvoeringspraktijk geef ik hierna de antwoorden weer van de Werkgroep op de meest gestelde vragen over kapitaalverzekeringen overeengekomen met de eigen BV. Ook deze antwoorden kunnen als richtsnoer voor de uitvoeringspraktijk fungeren.
 
 Opgemerkt zij dat de vragen en antwoorden zijn gerangschikt conform de indeling op hoofdthema's van het Besluit van 10 augustus 1995. Dit houdt de volgende indeling in:
+
+- A. Tijdstip totstandkoming.
+
+- B. Formele criteria: begrip levensverzekering.
+
+- C. Materiële criteria: realiteitsgehalte.
+
+- D. Gevolgen niet voldoen aan criteria.
+
+- E. Uitdelingsaspecten.
+
+- F. Polisbelening en premiefinanciering.
+
+- G. Winstbepaling vennootschap.
+
+- H. Overgangsaspecten.
+
+- I. Overige aspecten.
 
 Van de Werkgroep heb ik vernomen dat gelet op de grote aantallen kapitaalverzekeringen die met een eigen BV zijn gesloten, het in de praktijk niet altijd mogelijk is gebleken overeenkomsten die niet voldoen aan de richtlijnen van het Besluit, aan te passen vóór 1 juli 1996. In paragraaf 11 van het Besluit is goedgekeurd dat aanpassing van de overeenkomst vóór die datum ertoe zal leiden dat de kapitaalverzekering vanaf het tijdstip van ontstaan daarvan geacht wordt te voldoen aan de in het Besluit neergelegde richtlijnen. Gelet op de in de praktijk gerezen problemen heb ik aanleiding gevonden de periode van aanpassing te verlengen tot 1 januari 1999.
 
@@ -245,6 +240,10 @@ Mag men een combinatie van een gegarandeerd rendement groter dan 4% en een winst
 ### Antwoord
 
 Dit is afhankelijk van de hoogte van het gegarandeerde rendement. Indien bijvoorbeeld een gegarandeerd rendement van 8% (gesteld dat dit percentage het marktrendement is bij afsluiten minus 0,5%) met een winstdeling is overeengekomen, is dit niet aanvaardbaar. De BV zou een dergelijk rendement in combinatie met een winstdeling niet aan een onafhankelijke derde aanbieden. Indien men een laag gegarandeerd rendement afspreekt van 4 of maximaal 5% dan kan er daarboven op nog een winstdeling afgesproken worden mits het geheel maar niet uit gaat boven het CBS-, U- of T-rendement minus het vereiste eigen behoud voor de BV. Samenvattend zijn er twee situaties te onderscheiden:
+
+- 1. of het CBS-/T-/U-rendement op het moment van afsluiten van de overeenkomst is voor de gehele looptijd gegarandeerd, een winstdeling daarboven op is dan niet mogelijk;
+
+- 2. of er is (in de markt gebruikelijk) sprake van een gegarandeerde rente van maximaal 5% met winstdeling.
 
 Steeds dient te worden voldaan aan het minimum-eigen-behoudvereiste. Zie het antwoord op vraag E.4.
 

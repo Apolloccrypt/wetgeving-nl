@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0032249"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Wet van 15 november 2012, houdende regels inzake de normering van bezoldigingen van topfunctionarissen in de publieke en semipublieke sector (Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector)

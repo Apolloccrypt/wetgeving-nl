@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 8 juni 1998, houdende het Warenwetbesluit Vlees, gehakt en vleesproducten"
+citeertitel: "Warenwetbesluit Vlees, gehakt en vleesproducten"
 identifier: "BWBR0009675"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009675"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "811973"
-version_id: "1176022"
-internal_id: "C1176021"
-label_id: "786504"
-dtd_version: "2.0"
-original_entry_into_force: "1999-09-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009675/2026-01-01/0"
-intitule_bron: "Stb.1998-351"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-06-08"
-intitule_published: "1998-06-23"
-intitule_in_force: "1998-06-23"
-intitule_status: "goed"
-original_publication: "Stb.1999-385"
-original_signed_date: "1999-08-20"
-original_published_date: "1999-09-16"
-original_effect: "structuurwijziging"
-original_url_id: "stb-1999-385"
-entry_into_force_date: "1999-09-17"
-jci_1_3: "jci1.3:c:BWBR0009675&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0009675&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit Vlees, gehakt en vleesproducten"
-signed_date: "1999-08-20"
-entry_into_force: "1999-09-17"
+publicatiedatum: 1999-09-17
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0009675"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 8 juni 1998, houdende het Warenwetbesluit Vlees, gehakt en vleesproducten
-
-Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 oktober 1997, nr. GZB/VVB/975553, gedaan in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
-
-Gelet op beschikking nr. 97/534/EG van de Commissie van 30 juli 1997 houdende verbod, in verband met overdraagbare spongiforme encefalopathieën, op het gebruik van risicomateriaal (PbEG L 216), op artikel 11, eerste lid, van de Wijzigingswet 1988 Warenwet, alsmede op [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [artikel 8, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12) en [artikel 14 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14);
-
-De Raad van State gehoord (advies van 18 december 1997, no. W13.97.0642);
-
-Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 2 juni 1998 met nummer GZB/VVB/982331, uitgebracht in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1:. algemene bepalingen
 
@@ -52,49 +20,49 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **slachtdier:** runderen (de soorten Bubalus bubalis en Bison bison daaronder begrepen), varkens, schapen, geiten en eenhoevigen en niet-gedomesticeerde landzoogdieren, niet zijnde lagomorfen, die in gevangenschap zijn gekweekt, gehouden en geslacht;
+- a. *slachtdier:* runderen (de soorten Bubalus bubalis en Bison bison daaronder begrepen), varkens, schapen, geiten en eenhoevigen en niet-gedomesticeerde landzoogdieren, niet zijnde lagomorfen, die in gevangenschap zijn gekweekt, gehouden en geslacht;
 
-- b. **vlees:** alle voor menselijke consumptie geschikte delen van als landbouwhuisdier gehouden slachtdieren;
+- b. *vlees:* alle voor menselijke consumptie geschikte delen van als landbouwhuisdier gehouden slachtdieren;
 
-- c. **separatorvlees:** vlees dat machinaal is afgescheiden van beenderen met daaraan vastzittend vlees;
+- c. *separatorvlees:* vlees dat machinaal is afgescheiden van beenderen met daaraan vastzittend vlees;
 
-- d. **gehakt vlees:** vlees dat in kleine stukken is gehakt of door een gehaktmolen is gehaald;
+- d. *gehakt vlees:* vlees dat in kleine stukken is gehakt of door een gehaktmolen is gehaald;
 
-- e. **kruiderijen:** zout voor menselijke consumptie, mosterd, specerijen en aromatische extracten daarvan, aromatische kruiden en aromatische extracten daarvan;
+- e. *kruiderijen:* zout voor menselijke consumptie, mosterd, specerijen en aromatische extracten daarvan, aromatische kruiden en aromatische extracten daarvan;
 
-- f. **vleesbereiding:** vlees waaraan eet- of drinkwaren, kruiderijen of levensmiddelenadditieven zijn toegevoegd, of dat een behandeling heeft ondergaan in een mate die niet volstaat om de inwendige celstructuur van het vlees te veranderen zodat de kenmerken van vers vlees niet zijn verdwenen;
+- f. *vleesbereiding:* vlees waaraan eet- of drinkwaren, kruiderijen of levensmiddelenadditieven zijn toegevoegd, of dat een behandeling heeft ondergaan in een mate die niet volstaat om de inwendige celstructuur van het vlees te veranderen zodat de kenmerken van vers vlees niet zijn verdwenen;
 
-- g. **gehakt:** al dan niet toebereide vleesbereiding, niet zijnde separatorvlees, afkomstig van één of meer slachtdieren, die:
+- g. *gehakt:* al dan niet toebereide vleesbereiding, niet zijnde separatorvlees, afkomstig van één of meer slachtdieren, die:
 
-- –. door hakken, malen of op andere wijze min of meer sterk verkleind is; zodanig kneedbaar is dat het tot verschillende vormen te bewerken is; en
+   - – door hakken, malen of op andere wijze min of meer sterk verkleind is; zodanig kneedbaar is dat het tot verschillende vormen te bewerken is; en
 
-- –. geen vleesvreemd eiwit bevat;
+   - – geen vleesvreemd eiwit bevat;
 
-- h. **vleesproduct:** product bereid van of met zodanig behandeld vlees dat, aan de hand van het snijvlak van de hartdoorsnijding, de verdwijning van de kenmerken van vers vlees kan worden geconstateerd, met uitzondering van vlees dat alleen een koudebehandeling heeft ondergaan, gehakt vlees en vleesbereidingen;
+- h. *vleesproduct:* product bereid van of met zodanig behandeld vlees dat, aan de hand van het snijvlak van de hartdoorsnijding, de verdwijning van de kenmerken van vers vlees kan worden geconstateerd, met uitzondering van vlees dat alleen een koudebehandeling heeft ondergaan, gehakt vlees en vleesbereidingen;
 
-- i. **zetmeelgehalte:** gehalte aan watervrij zetmeel;
+- i. *zetmeelgehalte:* gehalte aan watervrij zetmeel;
 
-- j. **procentueel gehalte aan organisch niet-vet:** het percentage dat wordt verkregen door het percentage 100 te verminderen met het procentuele water-, vet-, zetmeel- en asgehalte van de waar;
+- j. *procentueel gehalte aan organisch niet-vet:* het percentage dat wordt verkregen door het percentage 100 te verminderen met het procentuele water-, vet-, zetmeel- en asgehalte van de waar;
 
-- k. **Federgetal:** het quotiënt van het procentuele watergehalte en het procentuele gehalte aan organisch niet-vet van de waar;
+- k. *Federgetal:* het quotiënt van het procentuele watergehalte en het procentuele gehalte aan organisch niet-vet van de waar;
 
-- l. **startercultuur:** reincultuur van één type micro-organisme of een mengsel van meer dan één type micro-organismen, beide bedoeld om een fermentatieproces te sturen en te versnellen;
+- l. *startercultuur:* reincultuur van één type micro-organisme of een mengsel van meer dan één type micro-organismen, beide bedoeld om een fermentatieproces te sturen en te versnellen;
 
-- m. **%:** massaprocent;
+- m. *%:* massaprocent;
 
-- n. **wildezwijnenvlees**: spiervlees afkomstig van varkens die niet in gevangenschap zijn gekweekt, niet in gevangenschap zijn gehouden en niet in gevangenschap zijn geslacht;
+- n. *wildezwijnenvlees*: spiervlees afkomstig van varkens die niet in gevangenschap zijn gekweekt, niet in gevangenschap zijn gehouden en niet in gevangenschap zijn geslacht;
 
-- o. **verordening (EG) 1760/2000**: [verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad van de Europese Unie van 17 juli 2000 (PbEG L 204) tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van [verordening (EG) nr. 820/97](31997R0820) van de Raad van de Europese Unie;
+- o. *verordening (EG) 1760/2000*: verordening (EG) nr. 1760/2000 van het Europees Parlement en de Raad van de Europese Unie van 17 juli 2000 (PbEG L 204) tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van verordening (EG) nr. 820/97 van de Raad van de Europese Unie;
 
-- p. **verordening (EG) 1825/2000**: [verordening (EG) nr. 1825/2000](32000R1825) van de Commissie van de Europese Gemeenschappen van 25 augustus 2000 tot vaststelling van de uitvoeringsbepalingen van [verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad van de Europese Unie met betrekking tot de etikettering van rundvlees en van rundvleesproducten (PbEG L 216);
+- p. *verordening (EG) 1825/2000*: verordening (EG) nr. 1825/2000 van de Commissie van de Europese Gemeenschappen van 25 augustus 2000 tot vaststelling van de uitvoeringsbepalingen van verordening (EG) nr. 1760/2000 van het Europees Parlement en de Raad van de Europese Unie met betrekking tot de etikettering van rundvlees en van rundvleesproducten (PbEG L 216);
 
-- q. **verordening (EG) 1333/2008:** verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354);
+- q. *verordening (EG) 1333/2008:* verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354);
 
-- r. **verordening (EU) 1169/2011:** Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).
+- r. *verordening (EU) 1169/2011:* Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).
 
 2. De darm of het darmvervangend omhulsel van in dit besluit bedoelde waren is geen verpakkingsmateriaal als bedoeld in artikel 2, tweede lid, onder e, van verordening (EU) 1169/2011.
 
-3. Voor vlees, gehakt en vleesproducten wordt een startercultuur aangemerkt als technisch hulpmiddel, bedoeld in artikel 20, onderdeel b, onder ii, van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).
+3. Voor vlees, gehakt en vleesproducten wordt een startercultuur aangemerkt als technisch hulpmiddel, bedoeld in artikel 20, onderdeel b, onder ii, van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).
 
 ##### Artikel 2
 
@@ -102,13 +70,13 @@ Hebben goedgevonden en verstaan:
 
 2. Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen en vermeldingen andere waren te verhandelen dan die waaraan die aanduidingen en vermeldingen bij dit besluit zijn voorbehouden.
 
-3. Het is verboden te handelen in strijd met de artikelen 11, 13, eerste, tweede en vijfde lid, 14, 15 en 15bis van [verordening (EG) 1760/2000](32000R1760) en met de artikelen 1, 2, tweede lid, 4, eerste en tweede lid, 5bis, eerste lid, 5ter, 5quater, eerste en tweede lid, en 7, eerste en vierde lid, van [verordening (EG) 1825/2000](32000R1825).
+3. Het is verboden te handelen in strijd met de artikelen 11, 13, eerste, tweede en vijfde lid, 14, 15 en 15bis van verordening (EG) 1760/2000 en met de artikelen 1, 2, tweede lid, 4, eerste en tweede lid, 5bis, eerste lid, 5ter, 5quater, eerste en tweede lid, en 7, eerste en vierde lid, van verordening (EG) 1825/2000.
 
-#### § 2a:. implementatie [richtlijn 94/65/EG](31994L0065) – voorschriften inzake de productie en het in de handel brengen van vleesbereidingen en gehakt vlees
+#### § 2a:. implementatie richtlijn 94/65/EG – voorschriften inzake de productie en het in de handel brengen van vleesbereidingen en gehakt vlees
 
 ##### Artikel 2a
 
-Vervallen
+*Vervallen*
 
 #### § 2b:. aanvullende voorschriften inzake bereiding en samenstelling
 
@@ -168,7 +136,7 @@ Trichinella is niet aantoonbaar in 10,0 gram wildezwijnenvlees.
 
 - d. onverpakt is, en de hoeveelheid vlees van de waar voor het publiek duidelijk zichtbaar is aangebracht op het voorwerp waarin of waarop de waar zich bevindt of op een onmiddellijk boven bedoeld voorwerp geplaatst(e) bord of kaart.
 
-3. Het eerste lid is niet van toepassing op een als **bloedworst, balkenbrij, bakleverworst, hoofdkaas, beuling, preskop** of **zure zult** aangeduide eetwaar.
+3. Het eerste lid is niet van toepassing op een als *bloedworst, balkenbrij, bakleverworst, hoofdkaas, beuling, preskop* of *zure zult* aangeduide eetwaar.
 
 4. In afwijking van het eerste lid mag gehakt, of een andere eetwaar met ten minste 80% vlees, een hoger Federgetal dan 4,0 hebben, voor zover de aanduiding van die waar vergezeld gaat van beschrijvende vermeldingen waardoor de consument in staat is die waar te onderscheiden van een in het eerste lid bedoelde waar met een Federgetal van ten hoogste 4,0.
 
@@ -176,37 +144,37 @@ Trichinella is niet aantoonbaar in 10,0 gram wildezwijnenvlees.
 
 ##### Artikel 6
 
-De aanduiding **vlees** mag uitsluitend worden gebezigd voor vlees, niet zijnde bloed, voor zover die aanduiding vergezeld gaat van de naam van het soort slachtdier waarvan het vlees afkomstig is.
+De aanduiding *vlees* mag uitsluitend worden gebezigd voor vlees, niet zijnde bloed, voor zover die aanduiding vergezeld gaat van de naam van het soort slachtdier waarvan het vlees afkomstig is.
 
 ##### Artikel 7
 
-De aanduiding **gehakt** mag uitsluitend worden gebezigd voor gehakt met een vetgehalte van ten hoogste 25%, voor zover die aanduiding vergezeld gaat van:
+De aanduiding *gehakt* mag uitsluitend worden gebezigd voor gehakt met een vetgehalte van ten hoogste 25%, voor zover die aanduiding vergezeld gaat van:
 
-- –. de naam van het soort slachtdier; of
+- – de naam van het soort slachtdier; of
 
-- –. in volgorde van afnemend gewicht, de namen van de soorten slachtdieren; waarvan het vlees afkomstig is.
+- – in volgorde van afnemend gewicht, de namen van de soorten slachtdieren; waarvan het vlees afkomstig is.
 
 ##### Artikel 8
 
-De aanduiding **half om half** mag uitsluitend worden gebezigd voor gehakt dat voor de ene helft van runderen en voor de andere helft van varkens afkomstig is, waarbij in de onderlinge verhouding een afwijking van 10% absoluut is toegestaan.
+De aanduiding *half om half* mag uitsluitend worden gebezigd voor gehakt dat voor de ene helft van runderen en voor de andere helft van varkens afkomstig is, waarbij in de onderlinge verhouding een afwijking van 10% absoluut is toegestaan.
 
 ##### Artikel 9
 
-De aanduiding **tartaar** mag uitsluitend worden gebezigd voor gehakt dat afkomstig is van runderen, met een vetgehalte van ten hoogste 10%.
+De aanduiding *tartaar* mag uitsluitend worden gebezigd voor gehakt dat afkomstig is van runderen, met een vetgehalte van ten hoogste 10%.
 
 ##### Artikel 10
 
-De aanduiding **gehakte biefstuk** mag uitsluitend worden gebezigd voor gehakt dat afkomstig is van runderen, met een vetgehalte van ten hoogste 6%.
+De aanduiding *gehakte biefstuk* mag uitsluitend worden gebezigd voor gehakt dat afkomstig is van runderen, met een vetgehalte van ten hoogste 6%.
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 #### § 4:. vermeldingen
 
 ##### Artikel 12
 
-De vermelding **mager** of **magere** mag worden gebezigd bij:
+De vermelding *mager* of *magere* mag worden gebezigd bij:
 
 - a. vlees en vleesproducten, uitsluitend voor zover het vetgehalte van de waar ten hoogste 20% bedraagt;
 
@@ -222,7 +190,7 @@ De vermelding **mager** of **magere** mag worden gebezigd bij:
 
 ##### Artikel 14
 
-Onze Minister is de bevoegde autoriteit, bedoeld in artikel 22bis van [verordening (EG) 1760/2000](32000R1760), en in artikel 11, onderdeel a, van [verordening (EG) 1825/2000](32000R1825).
+Onze Minister is de bevoegde autoriteit, bedoeld in artikel 22bis van verordening (EG) 1760/2000, en in artikel 11, onderdeel a, van verordening (EG) 1825/2000.
 
 ##### Artikel 15
 
@@ -231,5 +199,3 @@ Dit besluit treedt in werking met ingang van 1 juli 1998, met dien verstande dat
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Vlees, gehakt en vleesproducten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

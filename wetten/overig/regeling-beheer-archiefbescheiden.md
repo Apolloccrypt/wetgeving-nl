@@ -1,46 +1,51 @@
 ---
 title: "Regeling beheer archiefbescheiden"
 identifier: "BWBR0009866"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-01-01"
-last_updated: "1998-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009866"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5104543"
-version_id: "9168092"
-internal_id: "C12195761"
-label_id: "5079964"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009866/1998-01-01/0"
-intitule_bron: "Stcrt.1998-186"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-08-26"
-intitule_published: "1998-09-30"
-intitule_in_force: "1998-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-186"
-original_signed_date: "1998-08-26"
-original_published_date: "1998-09-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0009866&z=1998-01-01&g=1998-01-01"
-jci_1_0: "1.0:c:BWBR0009866&g=1998-01-01"
-citeertitel_status: "officieel"
-signed_date: "1998-08-26"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 1998-01-01
+status: geldig
+toestand: 1998-01-01
+bron: "https://wetten.overheid.nl/BWBR0009866"
+opgehaald: 2026-08-04
 ---
+
 # Regeling beheer archiefbescheiden
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+archiefbescheiden:
+
+archiefbescheiden als bedoeld in [artikel 1, onder c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) waarvoor de Minister van Binnenlandse Zaken en Koninkrijksrelaties ingevolge [artikel 23, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=23) zorgdrager is;
+
+b.
+
+zorg:
+
+de verplichting, bedoeld in [artikel 3 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=3);
+
+c.
+
+beheer:
+
+het verrichten dan wel doen verrichten van de feitelijke werkzaamheden ter aanvulling van de zorg voor archiefbescheiden;
+
+d.
+
+aanverwante werkzaamheden:
+
+werkzaamheden die gerelateerd zijn aan het archiefbeheer zoals werkzaamheden met betrekking tot de postontvangst,- verzending en -distributie, elektronische post, fax- en telexverkeer, reprografie en formulierbeheer;
+
+e.
+
+documentair structuurplan:
+
+het systematische overzicht van de onder een hoofd van dienst berustende archiefbestanden, de wijze waarop deze bestanden gestructureerd en toegankelijk zijn, de vernietigingstermijnen voor onderscheiden archiefbescheiden, alsmede de interne regels betreffende de aanverwante werkzaamheden.
 
 ##### Artikel 2
 
@@ -89,15 +94,3 @@ In deze regeling wordt verstaan onder:
 ##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 januari 1998.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-Een afschrift van dit besluit wordt gezonden aan:
-
-- de plaatsvervangend secretaris-generaal
-
-- de directeuren-generaal
-
-- het hoofd van de Binnenlandse Veiligheidsdienst
-
-- de hoofden van de diensten ressorterende onder de directeuren-generaal.

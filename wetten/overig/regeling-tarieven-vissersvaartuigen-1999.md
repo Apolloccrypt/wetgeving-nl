@@ -1,44 +1,17 @@
 ---
 title: "Regeling tarieven vissersvaartuigen 1999"
 identifier: "BWBR0010426"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-09-15"
-last_updated: "2009-09-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010426"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5126383"
-version_id: "9190952"
-internal_id: "C12218251"
-label_id: "5102274"
-dtd_version: "2.0"
-original_entry_into_force: "1999-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010426/2009-09-15/0"
-intitule_bron: "Stcrt.1999-81"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-04-23"
-intitule_published: "1999-04-28"
-intitule_in_force: "1999-04-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-81"
-original_signed_date: "1999-04-23"
-original_published_date: "1999-04-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-05-01"
-jci_1_3: "jci1.3:c:BWBR0010426&z=2009-09-15&g=2009-09-15"
-jci_1_0: "1.0:c:BWBR0010426&g=2009-09-15"
-citeertitel_status: "officieel"
-signed_date: "1999-04-23"
-entry_into_force: "1999-05-01"
+publicatiedatum: 1999-05-01
+laatste_update: 2009-09-15
+status: geldig
+toestand: 2009-09-15
+bron: "https://wetten.overheid.nl/BWBR0010426"
+opgehaald: 2026-08-04
 ---
+
 # Regeling tarieven vissersvaartuigen 1999
-
-Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en de Minister van Vervoer en Communicatie van Aruba;
-
-Gelet op [artikel 72, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=72);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -54,7 +27,7 @@ In deze regeling wordt verstaan onder certificaat: het certificaat van deugdelij
 
 1. Voor het onderzoek van vissersvaartuigen en de verdere werkzaamheden nodig voor de eerste afgifte van certificaten, is het tarief verschuldigd, genoemd in onderstaande tabel:
 
-| **lengte** | **niet-geklas-** **seerde vaar-** **tuigen** | **geklasseerde** **vaartuigen** |
+| lengte | niet-geklas- seerde vaar- tuigen | geklasseerde vaartuigen |
 | --- | --- | --- |
 | tot 24 meter | f 11.512,- | - |
 | vanaf 24 meter | f 26.048,- | f 14.257,- |
@@ -63,7 +36,7 @@ In deze regeling wordt verstaan onder certificaat: het certificaat van deugdelij
 
 3. 3. Voor het onderzoek en de verdere werkzaamheden nodig voor de afgifte van certificaten voor een vissersvaartuig dat reeds eerder onderworpen is geweest aan een onderzoek als bedoeld in [artikel 12, eerste lid, onder 1°, van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=12), is, in afwijking van het eerste lid, het tarief verschuldigd, genoemd in onderstaande tabel:
 
-| **lengte** | **niet-geklasseerde** **vaartuigen** | **geklasseerde** **vaartuigen** |
+| lengte | niet-geklasseerde vaartuigen | geklasseerde vaartuigen |
 | --- | --- | --- |
 | tot 24 meter | f 4.502,- | - |
 | vanaf 24 meter | f 5.548,- | f 4.834,- |
@@ -72,7 +45,7 @@ In deze regeling wordt verstaan onder certificaat: het certificaat van deugdelij
 
 1. Voor het onderzoek van vissersvaartuigen en de verdere werkzaamheden nodig voor de vernieuwing of handhaving van certificaten, is jaarlijks het tarief verschuldigd, genoemd in onderstaande tabel:
 
-| **lengte** | **niet-geklas-** **seerde vaar-** **tuigen** | **geklasseerde** **vaartuigen** |
+| lengte | niet-geklas- seerde vaar- tuigen | geklasseerde vaartuigen |
 | --- | --- | --- |
 | tot 24 meter | f 2.251,- | - |
 | vanaf 24 meter | f 2.774,- | f 2.417,- |
@@ -107,7 +80,7 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens het [Vissers
 
 ##### Artikel 8
 
-1. Indien een onderzoek als bedoeld in deze regeling geheel of gedeeltelijk in het buitenland wordt uitgevoerd en de voor het betreffende onderzoek vastgestelde termijn, opgenomen in de bijlage, wordt overschreden, is per termijnoverschrijdende dag een aanvullend tarief verschuldigd van f 1168,-.
+1. Indien een onderzoek als bedoeld in deze regeling geheel of gedeeltelijk in het buitenland wordt uitgevoerd en de voor het betreffende onderzoek vastgestelde termijn, opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0010426), wordt overschreden, is per termijnoverschrijdende dag een aanvullend tarief verschuldigd van f 1168,-.
 
 2. De eventuele reis- en verblijfskosten van de ambtenaar ten behoeve van de in deze regeling genoemde onderzoeken in het buitenland komen voor rekening van de aanvrager van het certificaat. Deze kosten worden afzonderlijk in rekening gebracht.
 
@@ -119,11 +92,11 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens het [Vissers
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Wijzigt de Regeling tarieven vissersvaartuigen 1998.
+*Wijzigt de Regeling tarieven vissersvaartuigen 1998.*
 
 ##### Artikel 12
 
@@ -136,16 +109,3 @@ Deze regeling treedt in werking met ingang van 1 mei 1999.
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: [Regeling tarieven vissersvaartuigen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010426).
-
-## Bijlage
-
-Onderzoekstermijn als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010426&artikel=8&z=2009-09-15&g=2009-09-15). Deze termijn begint op de dag van vertrek uit Aruba en eindigt op de desbetreffende dag van terugkomst in Aruba.
-
-| **Nieuwbouw** | **Lengte** | **Aantal** **dagen** |
-| --- | --- | --- |
-| a. niet-geklasseerde vissersvaartuigen | < 24 meter | 14 |
-| b. niet-geklasseerde vissersvaartuigen | > 24 meter | 22 |
-| c. niet-geklasseerde mosselvaartuigen | > 24 meter | 12 |
-| d. geklasseerde vissersvaartuigen | > 24 meter | 18 |
-
-Deze regeling zal met de toelichting worden geplaatst in de Staatscourant, de Curaçaosche Courant en het Afkondigingsblad van Aruba.

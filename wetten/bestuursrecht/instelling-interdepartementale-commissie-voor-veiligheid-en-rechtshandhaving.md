@@ -1,42 +1,17 @@
 ---
 title: "Instelling Interdepartementale Commissie voor Veiligheid en Rechtshandhaving"
 identifier: "BWBR0010653"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-08-22"
-last_updated: "1999-08-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010653"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4296643"
-version_id: "6059422"
-internal_id: "C6263031"
-label_id: "4275254"
-dtd_version: "2.0"
-original_entry_into_force: "1999-08-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010653/1999-08-22/0"
-intitule_bron: "Stcrt.1999-159"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-08-16"
-intitule_published: "1999-08-20"
-intitule_in_force: "1999-08-20"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-159"
-original_signed_date: "1999-08-16"
-original_published_date: "1999-08-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-08-22"
-jci_1_3: "jci1.3:c:BWBR0010653&z=1999-08-22&g=1999-08-22"
-jci_1_0: "1.0:c:BWBR0010653&g=1999-08-22"
-citeertitel_status: "officieel"
-signed_date: "1999-08-16"
-entry_into_force: "1999-08-22"
+publicatiedatum: 1999-08-22
+laatste_update: 1999-08-22
+status: geldig
+toestand: 1999-08-22
+bron: "https://wetten.overheid.nl/BWBR0010653"
+opgehaald: 2026-08-04
 ---
+
 # Instelling Interdepartementale Commissie voor Veiligheid en Rechtshandhaving
-
-handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -77,5 +52,3 @@ De commissie evalueert haar functioneren voor 1 januari 2003. Zij brengt het ver
 ##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

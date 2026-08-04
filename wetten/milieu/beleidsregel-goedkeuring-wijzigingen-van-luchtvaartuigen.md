@@ -1,46 +1,45 @@
 ---
 title: "Beleidsregel goedkeuring wijzigingen van luchtvaartuigen"
 identifier: "BWBR0009605"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1998-05-31"
-last_updated: "1998-05-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009605"
+categorie: "Verkeer"
 soort: "beleidsregel"
-stam_id: "4774973"
-version_id: "6581252"
-internal_id: "C7038491"
-label_id: "4753064"
-dtd_version: "2.0"
-original_entry_into_force: "1998-05-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009605/1998-05-31/0"
-intitule_bron: "Stcrt.1998-99"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-05-11"
-intitule_published: "1998-05-29"
-intitule_in_force: "1998-05-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-99"
-original_signed_date: "1998-05-11"
-original_published_date: "1998-05-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-05-31"
-jci_1_3: "jci1.3:c:BWBR0009605&z=1998-05-31&g=1998-05-31"
-jci_1_0: "1.0:c:BWBR0009605&g=1998-05-31"
-citeertitel_status: "officieel"
-signed_date: "1998-05-11"
-entry_into_force: "1998-05-31"
+publicatiedatum: 1998-05-31
+laatste_update: 1998-05-31
+status: geldig
+toestand: 1998-05-31
+bron: "https://wetten.overheid.nl/BWBR0009605"
+opgehaald: 2026-08-04
 ---
+
 # Beleidsregel goedkeuring wijzigingen van luchtvaartuigen
-
-Gelet op [artikel 89, eerste lid, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=89);
-
-Maakt bekend:
 
 ##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
+
+a.
+
+erkend bedrijf:
+
+een bedrijf of bedrijfsonderdeel dat met toepassing van [artikel 93, eerste lid, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=93) is erkend;
+
+b.
+
+JAA:
+
+Joint Aviation Authorities;
+
+c.
+
+STC:
+
+supplementair type-certificaat;
+
+d.
+
+de Minister:
+
+de Minister van Verkeer en Waterstaat.
 
 ##### Artikel 2
 
@@ -52,39 +51,39 @@ Met het ontwerp van een wijziging van een luchtvaartuig wordt als typewijziging 
 
 - a.
 
-- 1º. met het ontwerp van de wijziging is ingestemd als Nederlands STC voor het betreffende type luchtvaartuig,
+   - 1º met het ontwerp van de wijziging is ingestemd als Nederlands STC voor het betreffende type luchtvaartuig,
 
-- 2º. met het ontwerp van de wijziging is ingestemd als typewijziging voor het betreffende type luchtvaartuig,
+   - 2º met het ontwerp van de wijziging is ingestemd als typewijziging voor het betreffende type luchtvaartuig,
 
-- 3º. met eenzelfde wijziging reeds eerder is ingestemd voor het betreffende type luchtvaartuig,
+   - 3º met eenzelfde wijziging reeds eerder is ingestemd voor het betreffende type luchtvaartuig,
 
-- 4º. indien een aldus gewijzigd luchtvaartuig reeds eerder in Nederland is toegelaten,
+   - 4º indien een aldus gewijzigd luchtvaartuig reeds eerder in Nederland is toegelaten,
 
-- 5º. het de inbouw van een in Nederland toegelaten uitrustingsstuk voor het betreffende type luchtvaartuig betreft;
+   - 5º het de inbouw van een in Nederland toegelaten uitrustingsstuk voor het betreffende type luchtvaartuig betreft;
 
-- 6º. een STC is afgegeven door een lidstaat van de JAA overeenkomstig de procedures van JAR 21,
+   - 6º een STC is afgegeven door een lidstaat van de JAA overeenkomstig de procedures van JAR 21,
 
-- 7º. een STC is afgegeven door de primair certificerende autoriteit en het betreft een gevalideerd(e)
+   - 7º een STC is afgegeven door de primair certificerende autoriteit en het betreft een gevalideerd(e)
 
-- 1. zweefvliegtuig of motorzweefvliegtuig,
+      - 1 zweefvliegtuig of motorzweefvliegtuig,
 
-- 2. vleugelvliegtuig met een maximaal toegelaten startmassa van 5700 kg of minder, of
+      - 2 vleugelvliegtuig met een maximaal toegelaten startmassa van 5700 kg of minder, of
 
-- 3. helikopter met een maximaal toegelaten startmassa van 2700 kg of minder, of
+      - 3 helikopter met een maximaal toegelaten startmassa van 2700 kg of minder, of
 
-- 8º. Service Informatie is verstrekt en de wijziging is goedgekeurd door de primair certificerende autoriteit;
+   - 8º Service Informatie is verstrekt en de wijziging is goedgekeurd door de primair certificerende autoriteit;
 
 - b.
 
-- 1º. de uitvoerende heeft vastgesteld dat de wijziging geen invloed heeft op de geluidsproductie van het luchtvaartuig, of
+   - 1º de uitvoerende heeft vastgesteld dat de wijziging geen invloed heeft op de geluidsproductie van het luchtvaartuig, of
 
-- 2º. de Minister heeft verklaard dat de gewijzigde configuratie van het luchtvaartuig voldoet aan de op het tijdstip van uitvoering geldende geluidseisen;
+   - 2º de Minister heeft verklaard dat de gewijzigde configuratie van het luchtvaartuig voldoet aan de op het tijdstip van uitvoering geldende geluidseisen;
 
 - c.
 
-- 1º. de uitvoerende heeft vastgesteld dat de wijziging geen invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlandse luchtvaartuigregister of het door de Rijksluchtvaartdienst uitgegeven vlieghandboek, of
+   - 1º de uitvoerende heeft vastgesteld dat de wijziging geen invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlandse luchtvaartuigregister of het door de Rijksluchtvaartdienst uitgegeven vlieghandboek, of
 
-- 2º. de uitvoerende de gewijzigde configuratie heeft gemeld aan de Minister, en
+   - 2º de uitvoerende de gewijzigde configuratie heeft gemeld aan de Minister, en
 
 - d. de uitvoerende heeft vastgesteld dat deze wijziging in combinatie met eerder uitgevoerde wijzigingen geen nadelige invloed op de luchtwaardigheid van het luchtvaartuig heeft.
 
@@ -149,5 +148,3 @@ Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekeni
 ##### Artikel 8
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel goedkeuring wijzigingen van luchtvaartuigen.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

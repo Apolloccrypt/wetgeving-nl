@@ -1,58 +1,17 @@
 ---
 title: "Instellingsbesluit LOCOV"
 identifier: "BWBR0010771"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-10-27"
-last_updated: "1999-10-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010771"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3535483"
-version_id: "5318662"
-internal_id: "C5511751"
-label_id: "3515534"
-dtd_version: "2.0"
-original_entry_into_force: "1999-10-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010771/1999-10-27/0"
-intitule_bron: "Stcrt.1999-205"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-10-13"
-intitule_published: "1999-10-25"
-intitule_in_force: "1999-10-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-205"
-original_signed_date: "1999-10-13"
-original_published_date: "1999-10-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-10-27"
-jci_1_3: "jci1.3:c:BWBR0010771&z=1999-10-27&g=1999-10-27"
-jci_1_0: "1.0:c:BWBR0010771&g=1999-10-27"
-citeertitel_status: "officieel"
-signed_date: "1999-10-13"
-entry_into_force: "1999-10-27"
+publicatiedatum: 1999-10-27
+laatste_update: 1999-10-27
+status: geldig
+toestand: 1999-10-27
+bron: "https://wetten.overheid.nl/BWBR0010771"
+opgehaald: 2026-08-04
 ---
+
 # Instellingsbesluit LOCOV
-
-Overwegende:
-
-dat op 23 november 1995 een brief aan de Tweede Kamer der Staten-Generaal is gestuurd waarin het beleid op hoofdlijnen is gepresenteerd ten aanzien van de inrichting van de consumentenbescherming op de spoorwegmarkt (DGV/MOVER/V-523364);
-
-dat in die brief is voorgesteld een projectorganisatie op te richten die voorstellen zou ontwikkelen voor de inrichting van de consumentenbescherming;
-
-dat daartoe in 1996 de Projectorganisatie Consumentenbescherming Openbaar Spoorwegvervoer (COS) in het leven is geroepen die op 29 oktober 1997 haar advies heeft uitgebracht;
-
-dat de Projectorganisatie COS heeft geadviseerd een landelijk platform in te richten dat het overleg faciliteert tussen consumentenorganisaties en vervoerders enerzijds en tussen consumentenorganisaties en de Minister van Verkeer en Waterstaat anderzijds;
-
-dat betrokkenen te kennen hebben gegeven, vooruitlopend op de herziening van de wetgeving inzake de spoorwegen, het overleg reeds te willen starten;
-
-dat partijen te kennen hebben gegeven om constructief overleg te willen aangaan reeds per medio september 1998, gezien de ontwikkelingen in de markt van het openbaar spoorwegvervoer;
-
-dat hiertoe een platform wordt opgericht om dit overleg te faciliteren;
-
-dat op 28 mei 1999 een brief aan de Tweede Kamer der Staten-Generaal is gestuurd inzake de uitwerking van de consumentenbescherming in het openbaar vervoer (DGP/M/MO/V920051/1);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -131,5 +90,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Instellingsbesluit LOCOV.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

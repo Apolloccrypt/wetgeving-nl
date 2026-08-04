@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0018692"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van 23 augustus 2005, houdende vaststelling van bekwaamheidseisen voor leraren in het basisonderwijs, het speciaal en voortgezet speciaal onderwijs, het voortgezet onderwijs en voor docenten educatie en beroepsonderwijs, alsmede houdende aanwijzing van vakken voor bekwaamheid als vakleerkracht in het primair onderwijs (Besluit bekwaamheidseisen onderwijspersoneel)

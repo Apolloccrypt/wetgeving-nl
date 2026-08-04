@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0025979"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van 18 mei 2009, houdende de vaststelling van kerndoelen voor het speciaal onderwijs (Besluit kerndoelen WEC)

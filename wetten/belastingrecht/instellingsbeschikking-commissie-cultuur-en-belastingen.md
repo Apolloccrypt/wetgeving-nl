@@ -1,42 +1,17 @@
 ---
 title: "Instellingsbeschikking commissie cultuur en belastingen"
 identifier: "BWBR0010292"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-05-01"
-last_updated: "1999-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010292"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3538253"
-version_id: "5321432"
-internal_id: "C5514521"
-label_id: "3518304"
-dtd_version: "2.0"
-original_entry_into_force: "1999-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010292/1999-05-01/0"
-intitule_bron: "Stcrt.1999-43"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-02-24"
-intitule_published: "1999-03-03"
-intitule_in_force: "1999-03-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-43"
-original_signed_date: "1999-02-24"
-original_published_date: "1999-03-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-05-01"
-jci_1_3: "jci1.3:c:BWBR0010292&z=1999-05-01&g=1999-05-01"
-jci_1_0: "1.0:c:BWBR0010292&g=1999-05-01"
-citeertitel_status: "officieel"
-signed_date: "1999-02-24"
-entry_into_force: "1999-05-01"
+publicatiedatum: 1999-05-01
+laatste_update: 1999-05-01
+status: geldig
+toestand: 1999-05-01
+bron: "https://wetten.overheid.nl/BWBR0010292"
+opgehaald: 2026-08-04
 ---
+
 # Instellingsbeschikking commissie cultuur en belastingen
-
-Overwegende dat het wenselijk is een commissie cultuur en belastingen in te stellen;
-
-Besluiten:
 
 #### § 1. Instelling en taak
 

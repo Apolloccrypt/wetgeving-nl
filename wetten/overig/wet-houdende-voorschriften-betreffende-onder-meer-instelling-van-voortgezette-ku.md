@@ -1,54 +1,18 @@
 ---
 title: "Wet van 14 mei 1998, houdende voorschriften betreffende onder meer instelling van voortgezette kunstopleidingen op het gebied van de muziek met ingang van het studiejaar 1998–1999"
+citeertitel: "Wet houdende voorschriften betreffende onder meer instelling van voortgezette kunstopleidingen op het gebied van de muziek met ingang van het studiejaar 1998–1999"
 identifier: "BWBR0009611"
-country: "nl"
-rank: "wet"
-publication_date: "1998-05-20"
-last_updated: "1998-05-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009611"
+categorie: "Overig"
 soort: "wet"
-stam_id: "796903"
-version_id: "1155432"
-internal_id: "C1155431"
-label_id: "772034"
-dtd_version: "2.0"
-original_entry_into_force: "1998-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009611/1998-05-20/0"
-intitule_bron: "Stb.1998-281"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-05-14"
-intitule_published: "1998-05-19"
-intitule_in_force: "1998-05-19"
-intitule_status: "goed"
-original_publication: "Stb.1998-281"
-original_signed_date: "1998-05-14"
-original_published_date: "1998-05-19"
-original_effect: "nieuwe-regeling"
-original_dossier: "25770"
-original_url_id: "stb-1998-281"
-entry_into_force_date: "1998-05-20"
-entry_into_force_dossier: "25770"
-jci_1_3: "jci1.3:c:BWBR0009611&z=1998-05-20&g=1998-05-20"
-jci_1_0: "1.0:c:BWBR0009611&g=1998-05-20"
-citeertitel_status: "officieel"
-short_title: "Wet houdende voorschriften betreffende onder meer instelling van voortgezette kunstopleidingen op het gebied van de muziek met ingang van het studiejaar 1998–1999"
-signed_date: "1998-05-14"
-entry_into_force: "1998-05-20"
+publicatiedatum: 1998-05-20
+laatste_update: 1998-05-20
+status: geldig
+toestand: 1998-05-20
+bron: "https://wetten.overheid.nl/BWBR0009611"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 14 mei 1998, houdende voorschriften betreffende onder meer instelling van voortgezette kunstopleidingen op het gebied van de muziek met ingang van het studiejaar 1998–1999
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat met ingang van het studiejaar 1998–1999 een aanvang kan worden gemaakt met het onderwijs in enkele nieuwe voortgezette kunstopleidingen op het gebied van de muziek;
-
-dat in verband hiermee een wettelijke voorziening dient te worden getroffen onder meer ter afwijking van [artikel 6.16 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.16);
-
-dat het voorts wenselijk is dat een aantal in het Centraal register opleidingen hoger onderwijs vermelde afstudeerroutes op het gebied van het kunstvakonderwijs uit dat register vervalt;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Werkt terug tot en met 15 mei 1998.
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -96,40 +60,8 @@ De uit deze wet voortvloeiende wijzigingen in het register dat op het studiejaar
 
 ##### Artikel 8. Wijzigingen van de wet HOOP-maatregelen 1996
 
-Wijzigt het voorstel van wet houdende wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering ter uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen (Kamerstukken I, 1997/98, 25 370).
+*Wijzigt het voorstel van wet houdende wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering ter uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen (Kamerstukken I, 1997/98, 25 370).*
 
 ##### Artikel 9. Inwerkingtreding
 
 Deze wet treedt in werking met ingang van 15 mei 1998. Indien het Staatsblad waarin deze wet wordt gepubliceerd wordt uitgegeven na 14 mei 1998 treedt deze wet in werking op de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 15 mei 1998.
-
-## Bijlage 1. Nieuwe voortgezette kunstopleidingen
-
-In deze bijlage wordt onder «samenwerkingsinstituut» verstaan een samenwerkingsinstituut, ingesteld bij gemeenschappelijke regeling als bedoeld in artikel 8.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek
-
-| opleiding | hogeschool | voorwaarde |
-| --- | --- | --- |
-| muziek | Hogeschool Enschede | a. de opleiding wordt ingebracht in een samenwerkingsinstituut tussen de Hogeschool Enschede, de Hogeschool voor de Kunsten Arnhem en de Christelijke Hogeschool Constantijn Huygens b. de bevoegdheden van het instellingsbestuur van de hogeschool die bij of krachtens de Wet op het hoger onderwijs en wetenschappelijk onderzoek met betrekking tot de opleiding aan het instellingsbestuur zijn toegekend, worden overgedragen aan het bestuur van het samenwerkingsinstituut |
-| muziek | Hogeschool voor de Kunsten Arnhem | a. de opleiding wordt ingebracht in een samenwerkingsinstituut tussen de Hogeschool Enschede, de Hogeschool voor de Kunsten Arnhem en de Christelijke Hogeschool Constantijn Huygens b. de bevoegdheden van het instellingsbestuur van de hogeschool die bij of krachtens de Wet op het hoger onderwijs en wetenschappelijk onderzoek met betrekking tot de opleiding aan het instellingsbestuur zijn toegekend, worden overgedragen aan het bestuur van het samenwerkingsinstituut |
-| muziek | Christelijke Hogeschool Constantijn Huygens | a. de opleiding wordt ingebracht in een samenwerkingsinstituut tussen de Hogeschool Enschede, de Hogeschool voor de Kunsten Arnhem en de Christelijke Hogeschool Constantijn Huygens b. de bevoegdheden van het instellingsbestuur van de hogeschool die bij of krachtens de Wet op het hoger onderwijs en wetenschappelijk onderzoek met betrekking tot de opleiding aan het instellingsbestuur zijn toegekend, worden overgedragen aan het bestuur van het samenwerkingsinstituut |
-| muziek | Amsterdamse Hogeschool voor de Kunsten |   |
-| muziek | Hogeschool van Beeldende Kunsten, Muziek en Dans |   |
-| muziek | Hogeschool Katholieke Leergangen Tilburg | a. de opleiding wordt ingebracht in een samenwerkingsinstituut tussen de Hogeschool Katholieke Leergangen Tilburg en de Hogeschool Maastricht b. de bevoegdheden van het instellingsbestuur van de hogeschool die bij of krachtens de Wet op het hoger onderwijs en wetenschappelijk onderzoek met betrekking tot de opleiding aan het instellingsbestuur zijn toegekend, worden overgedragen aan het bestuur van het samenwerkingsinstituut |
-| muziek | Hogeschool Maastricht | a. de opleiding wordt ingebracht in een samenwerkingsinstituut tussen de Hogeschool Katholieke Leergangen Tilburg en de Hogeschool Maastricht b. de bevoegdheden van het instellingsbestuur van de hogeschool die bij of krachtens de Wet op het hoger onderwijs en wetenschappelijk onderzoek met betrekking tot de opleiding aan het instellingsbestuur zijn toegekend, worden overgedragen aan het bestuur van het samenwerkingsinstituut |
-| muziek | Hogeschool voor Muziek en Theater Rotterdam |   |
-| muziek | Hogeschool voor de Kunsten Utrecht |   |
-
-## Bijlage 2. Vervallen afstudeerroutes
-
-| opleiding | hogeschool | afstudeerroute |
-| --- | --- | --- |
-| opleiding tot leraar voortgezet onderwijs van de tweede graad in Nederlands | Hogeschool Katholieke Leergangen Sittard | cultuur en educatie Nederlands |
-| opleiding tot leraar voortgezet onderwijs van de tweede graad in tekenen | Hogeschool Katholieke Leergangen Sittard | toegepaste beeldende vakken en publiciteitsvormgeving toegepaste beeldende vakken en illustratieve vormgeving toegepaste beeldende vakken en modegrafiek |
-| opleiding tot leraar voortgezet onderwijs van de tweede graad in handvaardigheid | Hogeschool Katholieke Leergangen Sittard | toegepaste beeldende vakken en productpresentatie toegepaste beeldende vakken en publiciteitsvormgeving toegepaste beeldende vakken en ruimtelijk-figuratieve vormgeving |
-| opleiding tot leraar voortgezet onderwijs van de eerste graad in tekenen | Hogeschool Katholieke Leergangen Tilburg | tekenen-autonoom/kunsteducatie tekenen-toegepast/kunsteducatie tekenen-autonoom/toegepast/kunsteducatie |
-| opleiding tot leraar voortgezet onderwijs van de eerste graad in handvaardigheid | Hogeschool Katholieke Leergangen Tilburg | handvaardigheid-autonoom/toegepast/kunsteducatie handvaardigheid-autonoom/multimedia/kunsteducatie handvaardigheid-autonoom/multimedia/onderwijs |
-| opleiding tot leraar voortgezet onderwijs van de eerste graad in textiele werkvormen | Hogeschool Katholieke Leergangen Tilburg | textiele werkvormen-autonoom/kunsteducatie textiele werkvormen-toegepast/kunsteducatie |
-| opleiding tot leraar voortgezet onderwijs van de tweede graad in tekenen | Hogeschool van Arnhem en Nijmegen | commerciële vormgeving |
-| opleiding tot leraar voortgezet onderwijs van de tweede graad in handvaardigheid | Hogeschool van Arnhem en Nijmegen | commerciële vormgeving |
-| opleiding tot leraar voortgezet onderwijs van de tweede graad in geschiedenis | Hogeschool van Arnhem en Nijmegen | educatie en cultuur |
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,40 +1,17 @@
 ---
 title: "Toestemming statutenwijziging pensioen BV"
 identifier: "BWBR0010649"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1999-08-11"
-last_updated: "1999-08-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010649"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "8308963"
-version_id: "13174892"
-internal_id: "C17741051"
-label_id: "8289884"
-dtd_version: "2.0"
-original_entry_into_force: "1999-08-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010649/1999-08-11/0"
-intitule_bron: "Infob.1999-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-08-11"
-intitule_published: "1999-01-01"
-intitule_in_force: "1999-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1999-8"
-original_signed_date: "1999-08-11"
-original_published_date: "1999-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-08-11"
-jci_1_3: "jci1.3:c:BWBR0010649&z=1999-08-11&g=1999-08-11"
-jci_1_0: "1.0:c:BWBR0010649&g=1999-08-11"
-citeertitel_status: "redactioneel"
-signed_date: "1999-08-11"
-entry_into_force: "1999-08-11"
+publicatiedatum: 1999-08-11
+laatste_update: 1999-08-11
+status: geldig
+toestand: 1999-08-11
+bron: "https://wetten.overheid.nl/BWBR0010649"
+opgehaald: 2026-08-04
 ---
-# Toestemming statutenwijziging pensioen BV
 
-De plaatsvervangend Directeur-Generaal der Belastingen heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Toestemming statutenwijziging pensioen BV
 
 In het verleden is in statuten van pensioenfondsen veelal de bepaling opgenomen dat voor wijziging van bepaalde – voor de vrijstelling van vennootschapsbelasting essentiële – statutaire bepalingen de toestemming van de minister van Financiën is vereist.
 

@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0040310"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 november 2017, nr. MBO/1163583, houdende regels over aanvullende eisen voor toelating tot opleidingen in het middelbaar beroepsonderwijs (Regeling aanvullende eisen toelating middelbaar beroepsonderwijs)

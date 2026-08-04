@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-31
 toestand: 2022-08-31
 bron: "https://wetten.overheid.nl/BWBR0047084"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 augustus 2022, PO/F&V/33525597, houdende vaststelling van de bedragen voor personele bekostiging voor het primair onderwijs in Caribisch Nederland voor de eerste vijf maanden van het schooljaar 2022–2023 (Definitieve Regeling bekostiging personeel PO BES 2022–2023).

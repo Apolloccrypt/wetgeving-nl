@@ -1,41 +1,23 @@
 ---
 title: "Invoering open vragen moderne vreemde talen bij de centrale examens vbo, havo en vwo"
 identifier: "BWBR0010537"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1999-07-07"
-last_updated: "1999-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010537"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6522483"
-version_id: "11229112"
-internal_id: "C15160471"
-label_id: "6511084"
-original_entry_into_force: "1999-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010537/1999-07-07/0"
-intitule_bron: "Uitleg.1999-18a"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-06-22"
-intitule_published: "1999-07-07"
-intitule_in_force: "1999-07-07"
-intitule_status: "goed"
-original_publication: "Uitleg.1999-18a"
-original_signed_date: "1999-06-22"
-original_published_date: "1999-07-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-07-07"
-jci_1_3: "jci1.3:c:BWBR0010537&z=1999-07-07&g=1999-07-07"
-jci_1_0: "1.0:c:BWBR0010537&g=1999-07-07"
-citeertitel_status: "redactioneel"
-signed_date: "1999-06-22"
-entry_into_force: "1999-07-07"
+publicatiedatum: 1999-07-07
+laatste_update: 1999-07-07
+status: geldig
+toestand: 1999-07-07
+bron: "https://wetten.overheid.nl/BWBR0010537"
+opgehaald: 2026-08-04
 ---
+
 # Invoering open vragen moderne vreemde talen bij de centrale examens vbo, havo en vwo
 
 ### 1. Open vragen moderne vreemde talen in vwo en havo
 
 Zoals uit de syllabus blijkt, zullen in de nieuwe examens vwo en havo ook open vragen voorkomen. Voor havo zullen de examens moderne vreemde talen voor het eerst ook open vragen bevatten in het jaar2000, voor het vwo in 2001. Ook in de examens oude stijl zullen wegens de overlap met nieuw (enige) open vragen voorkomen. Voor toelichting en voorbeelden van deze vragen zij verwezen naar de syllabi die vorig jaar om deze tijd door het Cito aan alle scholen zijn toegezonden. Exemplaren van deze syllabi kunnen, voor elke moderne vreemde taal afzonderlijk, worden besteld bij:
+
+- Het Cito, afdeling verkoop, Postbus 1034, 6801 MG Arnhem.
 
 ### 2. Open vragen moderne vreemde talen in mavo en vbo
 
@@ -69,23 +51,49 @@ Er zijn zowel inhoudelijke (eindtermen) als toetstechnische overwegingen voor he
 
 Onder open vragen worden in ieder geval de volgende vraagtypen gerekend:
 
+- De kort-antwoordvragen: enkele woorden of hooguit een enkelvoudige zin.
+
+- De lang-antwoordvragen: het antwoord bestaat uit enkele zinnen.
+
+- De aanvulvraag: een gegeven zin moet compleet worden gemaakt.
+
+- De citeervraag
+
 De kort-antwoordvraag is geschikt voor de eindtermen1, 2, 3 en 4. Allerlei soorten teksten zijn hierbij mogelijk.
 
 ### Voorbeelden
+
+Voorbeeld 1
+
+Voorbeeld 2
+
+Voorbeeld 3
+
+Voorbeeld 4
 
 (NB! De lang-antwoord vraag is geschikt voor de eindtermen 2, 3, 4, 5, 6. In de beginperiode van de examens- metopen- vragen zal de nadruk liggen op de kortantwoordvragen in de C/D examens. De formuleervaardigheid in het Nederlands moet niet te zeer ’meegetoetst’ worden)
 
 De aanvulvraag is met name geschikt voor eindterm2 waar er sprake is van een vraag naar de hoofdzaak van een tekst(fragment). De kandidaat antwoordt in de taal waarin de eerste woorden van de aanvulzin geschreven zijn. Er wordt gekozen voor een aanvulvraag wanneer gevreesd wordt dat de kandidaten moeite zullen hebben het antwoord te formuleren. Je zet ze alvast op het goede spoor. Een aanvulvraag kan ook voorkomen dat de afleiders van een MK vraag steeds voor een deel dezelfde woorden bevatten. Kost de kandidaat alleen maar veel leestijd. Verder is een aanvulvraag geschikt wanneer er niet genoeg zinnige afleiders te maken zijn.
 
+Voorbeeld 5
+
+Voorbeeld 6
+
 De citeervraag is met name geschikt voor de eindtermen 1, 4 en 5 en bij informatieve artikelen, ingezonden brieven en andere teksten waarin meningen en/of gevoelens geuit worden. Een MK vraag kan leiden tot lastig leesbare vragen en verwarrende regelaanduidingen.
 
 Voorbeeld
+
+Voorbeeld 7
 
 De invulopdracht is geschikt voor het toetsen van eindterm 3. Een overmaat aan informatie uit vaak verschillende teksten maakt het voor kandidaten vaak moeilijk de opdracht uit te voeren. Voorstructurering in de vorm van een schema voorkomt eindeloos gepuzzel.
 
 Voorbeeld
 
+Voorbeeld 8
+
 Het volgende voorbeeld geeft aan hoe een invulvraag een open dan wel een gesloten karakter kan hebbn:
+
+Voorbeeld 9
 
 Deze versie van de vraag is gesloten. Eigenlijk is er sprake van 4 meerkeuzeitems met 3 alternatieven.
 
@@ -93,12 +101,22 @@ Een open versie ontstaat wanneer de opdracht als volgt luidt:
 
 Wat was de weersverwachting voor het Rheinland voor zondag overdag? Wat gebeurt er met:
 
+- · Luchtdruk;
+
+- · Bewolking;
+
+- · Neerslag;
+
+- · Temperatuur.
+
 De herordeningsopdracht is geschikt voor het toetsen van eindterm 2 en 3.
 
 Er wordt detailbegrip gevraagd om gegeven informatie in de juiste volgorde te kunnen zetten, bijvoorbeeld bij een gebruiksaanwijzing, een recept of een serie gebeurtenissen.
 
+Voorbeeld 10
+
 ### 6. Eerste en tweede correctie
 
-De invoering van de open vragen heeft tot gevolg, dat voor de moderne vreemde talen in vbo, mavo en havo geen antwoordbladen meer van het Cito worden ontvangen. Leerlingen dienen het werk op door de school verstrekt papier te maken. Op de internetsite van de CEVO, **WWW.Eindexamen.nl,** zal in maart een voorbeeldantwoordblad worden opgenomen, dat scholen desgewenst kunnen gebruiken voor deze examens. Na het examen wordt de bijbehorende correctiemal op dezelfde site opgenomen.
+De invoering van de open vragen heeft tot gevolg, dat voor de moderne vreemde talen in vbo, mavo en havo geen antwoordbladen meer van het Cito worden ontvangen. Leerlingen dienen het werk op door de school verstrekt papier te maken. Op de internetsite van de CEVO, *WWW.Eindexamen.nl,* zal in maart een voorbeeldantwoordblad worden opgenomen, dat scholen desgewenst kunnen gebruiken voor deze examens. Na het examen wordt de bijbehorende correctiemal op dezelfde site opgenomen.
 
 Het werk dient te worden nagekeken door de examinator en door een door de IB-Groep aangewezen tweede corrector, zoals dat ook bij de andere vakken gebeurt.

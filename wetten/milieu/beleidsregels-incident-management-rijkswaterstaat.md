@@ -1,55 +1,75 @@
 ---
 title: "Beleidsregels incident management Rijkswaterstaat"
 identifier: "BWBR0010437"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2010-06-10"
-last_updated: "2010-06-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010437"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "4776653"
-version_id: "14899382"
-internal_id: "C20271221"
-label_id: "4754784"
-dtd_version: "2.0"
-original_entry_into_force: "2007-11-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010437/2010-06-10/0"
-intitule_bron: "Stcrt.1999-89"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-04-27"
-intitule_published: "1999-05-11"
-intitule_in_force: "1999-05-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-224"
-original_signed_date: "2007-11-09"
-original_published_date: "2007-11-19"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2007-224-p13-SC83023"
-entry_into_force_date: "2007-11-09"
-jci_1_3: "jci1.3:c:BWBR0010437&z=2010-06-10&g=2010-06-10"
-jci_1_0: "1.0:c:BWBR0010437&g=2010-06-10"
-citeertitel_status: "officieel"
-signed_date: "2007-11-09"
-entry_into_force: "2007-11-09"
+publicatiedatum: 2007-11-09
+laatste_update: 2010-06-10
+status: geldig
+toestand: 2010-06-10
+bron: "https://wetten.overheid.nl/BWBR0010437"
+opgehaald: 2026-08-04
 ---
+
 # Beleidsregels incident management Rijkswaterstaat
-
-Gelet op de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331);
-
-Overwegende:
-
-dat in 1998 op de belangrijkste autosnelwegen in Nederland incident management is ingevoerd en dat in 1999 op de overige autosnelwegen incident management wordt ingevoerd;
-
-dat incident management plaatsvindt met gebruikmaking van bestaande bevoegdheden;
-
-dat het aanbeveling verdient beleidsregels op te stellen met betrekking tot het gebruik van die bevoegdheden bij incident management.
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+incident management:
+
+het geheel van maatregelen die beogen de weg zo snel mogelijk nadat een incident heeft plaatsgevonden, voor het verkeer vrij te maken, een en ander met inachtneming van de verkeersveiligheid, de behartiging van belangen van mogelijke slachtoffers alsmede de beheersing van de ontstane schade;
+
+b.
+
+incidenten:
+
+alle gebeurtenissen (zoals ongevallen, pechgevallen, afgevallen lading, gestrande voertuigen) die de capaciteit van de weg nadelig beïnvloeden of kunnen beïnvloeden en als zodanig de doorstroming van het verkeer belemmeren of kunnen belemmeren, uitgezonderd pechgevallen op de vluchtstrook voorzover sprake is van een aanvaardbaar risico ten aanzien van de doorstroming en de veiligheid van het overige verkeer;
+
+c.
+
+wegen:
+
+wegen als bedoeld in de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622), aangeduid als (autosnel)weg en in beheer bij de Rijkswaterstaat alsmede de bijbehorende verbindingswegen naar wegen, niet in beheer bij de Rijkswaterstaat;
+
+d.
+
+eerste berging:
+
+het verwijderen van vrachtauto’s, personenauto’s en/of lading van de weg en het vervoeren naar een veilige plaats (parkeerplaats, benzinestation, Rijkswaterstaatslokatie of het eigen terrein van een bergingsbedrijf) langs de autosnelweg dan wel in bijzondere gevallen de eindbestemming;
+
+e.
+
+deskundige:
+
+een onafhankelijk persoon die fungeert als rapporteur over het incident en als adviseur inzake de meest adequate wijze (snel én met inachtneming van schades) van bergen aan het Coördinatieteam Plaats Incident (CTPI) waarin zitting hebben de bevelvoerders van brandweer, ambulancedienst, politie, de Rijkswaterstaat en de Inspectie Verkeer en Waterstaat welk team beslist over de uiteindelijk te volgen werkwijze;
+
+f.
+
+vrachtauto:
+
+een motorvoertuig met een toegestane maximummassa van meer dan 3.500 kilogram en/of de bijbehorende aanhangwagen, een en ander met inbegrip van de lading;
+
+g.
+
+personenauto:
+
+een motorvoertuig met een toegestane maximummassa van ten hoogste 3.500 kilogram en/of de bijbehorende aanhangwagen en de lading;
+
+h.
+
+aanhangwagen:
+
+voertuig dat door een motorvoertuig wordt voortbewogen of kennelijk bestemd is om aldus te worden voortbewogen, alsmede een oplegger;
+
+i.
+
+afhandelingskosten:
+
+het totaal van de voorbereidingskosten, meldingskosten, bergingskosten, met inbegrip van de kosten voor aanvullend materieel zoals telekranen, koelwagens, pompinstallaties e.d., en de kosten van inzet van een deskundige.
 
 ##### Artikel 2. Toepassing incident management
 
@@ -93,6 +113,18 @@ In deze regeling wordt verstaan onder:
 
 3. De Rijkswaterstaat en de andere betrokkenen stellen zo spoedig mogelijk de voorlopige erkenningsregeling voor bergingsbedrijven en de voorlopige erkenningsregeling voor deskundigen vast.
 
+##### Artikel 5a. Uitgestelde en versnelde berging
+
+1. In dit artikel wordt verstaan onder:
+
+- a. uitgestelde berging: eerste berging waarbij de vrachtauto eerst van de rijbaan wordt verwijderd;
+
+- b. versnelde berging: eerste berging waarbij geen maatregelen ter voorkoming van schade aan de vrachtauto genomen worden.
+
+2. Uitgestelde of versnelde berging vindt plaats wanneer naar het oordeel van Rijkswaterstaat eerste berging de verkeersdoorstroming aanzienlijk zal kunnen belemmeren.
+
+3. Schade aan lading, vrachtauto, of wegmeubilair veroorzaakt door uitgestelde of versnelde berging komt voor rekening van Rijkswaterstaat mits deze schade naar het oordeel van de deskundige onvermijdelijk is.
+
 ##### Artikel 6. Inzet van bergingsbedrijven en deskundigen bij vrachtautobergingen
 
 Het CMV beslist per incident over de inzet van (voorlopig) erkende bergingsbedrijven en (voorlopig) erkende deskundigen bij de berging van vrachtauto’s.
@@ -132,19 +164,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels incident management Rijkswaterstaat.
-
-Dit besluit zal met de toelichting worden geplaatst in de Staatscourant.
-
-##### Artikel 5a. Uitgestelde en versnelde berging
-
-1. In dit artikel wordt verstaan onder:
-
-- a. uitgestelde berging: eerste berging waarbij de vrachtauto eerst van de rijbaan wordt verwijderd;
-
-- b. versnelde berging: eerste berging waarbij geen maatregelen ter voorkoming van schade aan de vrachtauto genomen worden.
-
-2. Uitgestelde of versnelde berging vindt plaats wanneer naar het oordeel van Rijkswaterstaat eerste berging de verkeersdoorstroming aanzienlijk zal kunnen belemmeren.
-
-3. Schade aan lading, vrachtauto, of wegmeubilair veroorzaakt door uitgestelde of versnelde berging komt voor rekening van Rijkswaterstaat mits deze schade naar het oordeel van de deskundige onvermijdelijk is.
-
-Dit besluit zal met de toelichting worden geplaatst in de Staatscourant.

@@ -1,54 +1,28 @@
 ---
 title: "Organisatiebesluit VRO 2025"
 identifier: "BWBR0051573"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-10-08"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051573"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17540993"
-version_id: "30954782"
-internal_id: "C44337711"
-label_id: "17442424"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051573/2025-10-08/0"
-intitule_bron: "Stcrt.2025-33939"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-10-07"
-intitule_in_force: "2025-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-33939"
-original_published_date: "2025-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-33939"
-entry_into_force_date: "2025-10-08"
-jci_1_3: "jci1.3:c:BWBR0051573&z=2025-10-08&g=2025-10-08"
-jci_1_0: "1.0:c:BWBR0051573&g=2025-10-08"
-citeertitel_status: "officieel"
-entry_into_force: "2025-10-08"
+publicatiedatum: 2025-10-08
+laatste_update: 2026-02-24
+status: vervallen
+vervallen_op: 2026-07-28
+toestand: 2026-02-24
+bron: "https://wetten.overheid.nl/BWBR0051573"
+opgehaald: 2026-08-04
 ---
+
 # Organisatiebesluit VRO 2025
-
-gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3),
-
-gelet op het [Organisatiebesluit BZK 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051449),
-
-besluit
-
-vast te stellen het navolgende Organisatiebesluit VRO:
 
 ##### Artikel 1. Inleidende bepaling
 
-- a. **Ministerie:** het Ministerie van Volkshuisvesting en Ruimtelijke Ordening;
+- a. *Ministerie:* het Ministerie van Volkshuisvesting en Ruimtelijke Ordening;
 
-- b. **Minister:** de Minister van Volkshuisvesting en Ruimtelijke Ordening;
+- b. *Minister:* de Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
-- c. **bewindspersoon:** de Minister van Volkshuisvesting en Ruimtelijke Ordening.
+- c. *bewindspersoon:* de Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
-- d. **secretaris-generaal:** de secretaris-generaal van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
+- d. *secretaris-generaal:* de secretaris-generaal van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
 
 ##### Artikel 2. Het Ministerie
 
@@ -56,7 +30,7 @@ Het Ministerie bestaat uit de secretaris-generaal en de directeur Financieel-Eco
 
 ##### Artikel 3. De Secretaris-Generaal
 
-1. Overeenkomstig [artikel 1 van het Besluit regeling functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419&artikel=1) (Stb. 1988, 499), is de secretaris-generaal belast met de volgende taken:
+1. Overeenkomstig [artikel 1 van het Besluit regeling functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419&artikel=1) (Stb. 1988, 499), is de secretaris-generaal belast met de volgende taken:
 
 - a. het informeren en adviseren van de bewindspersoon over aangelegenheden, de bewindspersoon of het Ministerie betreffende;
 
@@ -94,7 +68,7 @@ Wijziging van dit besluit is voorbehouden aan de Minister en geschiedt op voordr
 
 ##### Artikel 6. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2025.
+Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2025.
 
 ##### Artikel 7
 

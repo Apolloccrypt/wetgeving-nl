@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0045607"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29097410, houdende regels voor de aanvullende bekostiging voor vo-scholen in uitzonderlijke omstandigheden (Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden)

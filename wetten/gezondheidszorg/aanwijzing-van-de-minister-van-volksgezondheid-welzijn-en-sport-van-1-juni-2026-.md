@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0052683"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 1 juni 2026, kenmerk 4387941-1098294 PZo, inzake de invoering van een prestatie voor de activiteiten en diensten van een verloskundig samenwerkingsverband

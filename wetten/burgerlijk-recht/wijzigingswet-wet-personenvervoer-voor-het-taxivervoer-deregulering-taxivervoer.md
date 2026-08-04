@@ -1,55 +1,26 @@
 ---
 title: "Wet van 9 december 1999 tot wijziging van de Wet personenvervoer voor het taxivervoer (deregulering taxivervoer)"
+citeertitel: "Wijzigingswet Wet personenvervoer voor het taxivervoer (deregulering taxivervoer)"
 identifier: "BWBR0010955"
-country: "nl"
-rank: "wet"
-publication_date: "2001-01-01"
-last_updated: "2001-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010955"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1190673"
-version_id: "1756962"
-internal_id: "C1756961"
-label_id: "1153474"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010955/2001-01-01/0"
-intitule_bron: "Stb.1999-535"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-09"
-intitule_published: "1999-12-21"
-intitule_in_force: "1999-12-23"
-intitule_status: "goed"
-original_publication: "Stb.1999-535"
-original_signed_date: "1999-12-09"
-original_published_date: "1999-12-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "25910"
-original_url_id: "stb-1999-535"
-entry_into_force_date: "2000-01-01"
-jci_1_3: "jci1.3:c:BWBR0010955&z=2001-01-01&g=2001-01-01"
-jci_1_0: "1.0:c:BWBR0010955&g=2001-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet personenvervoer voor het taxivervoer (deregulering taxivervoer)"
-signed_date: "1999-12-09"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2001-01-01
+status: geldig
+toestand: 2001-01-01
+bron: "https://wetten.overheid.nl/BWBR0010955"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 9 december 1999 tot wijziging van de Wet personenvervoer voor het taxivervoer (deregulering taxivervoer)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ter bevordering van marktgerichte verhoudingen en de kwaliteit in het taxivervoer wenselijk is de regels voor het verrichten van taxivervoer fasegewijs te dereguleren;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet personenvervoer.
+*Wijzigt de Wet personenvervoer.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel III
 
@@ -69,7 +40,7 @@ Tot twee jaar na de datum van inwerkingtreding van deze wet, behoudens verlengin
 
 ##### Artikel VI
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel VII
 
@@ -118,5 +89,3 @@ De eerste vaststelling van een ministeriële regeling op grond van artikel 58, e
 ##### Artikel XIV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

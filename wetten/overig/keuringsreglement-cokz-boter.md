@@ -1,44 +1,17 @@
 ---
 title: "Keuringsreglement COKZ boter"
 identifier: "BWBR0009717"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009717"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6777283"
-version_id: "11635902"
-internal_id: "C15680761"
-label_id: "6765784"
-original_entry_into_force: "1998-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009717/2006-01-01/0"
-intitule_bron: "Stcrt.1998-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-06-24"
-intitule_published: "1998-10-01"
-intitule_in_force: "1998-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-187"
-original_signed_date: "1998-06-24"
-original_published_date: "1998-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1998-187-p16-SC15657"
-entry_into_force_date: "1998-10-01"
-jci_1_3: "jci1.3:c:BWBR0009717&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0009717&g=2006-01-01"
-citeertitel_status: "officieel"
-signed_date: "1998-06-24"
-entry_into_force: "1998-10-01"
+publicatiedatum: 1998-10-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0009717"
+opgehaald: 2026-08-04
 ---
+
 # Keuringsreglement COKZ boter
-
-Het centraal bestuur van de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel (bij afkorting COKZ),
-
-gelet op [artikel 10, eerste lid, onder e, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) (Stb. 1971, 371), alsmede artikel 36, tweede lid, van de statuten van genoemde stichting (Stcrt. 1992, 63)
-
-heeft in zijn vergadering van 24 juni 1998 vastgesteld het navolgende Reglement
 
 ### Hoofdstuk 1. Terminologie
 
@@ -124,11 +97,11 @@ c. Handelsdocumenten mogen niet opnieuw worden gebruikt.
 
 b. De bereider of ompakker van boter is verplicht onbruikbaar geworden verpakkingsmateriaal dat met een rijksbotermerk is bedrukt, aan te melden bij het COKZ onder vermelding van:
 
-- -. de hoeveelheid verpakkingsmateriaal;
+- - de hoeveelheid verpakkingsmateriaal;
 
-- -. de volgnummers dan wel het eerste en het laatste volgnummer van het verpakkingsmateriaal in het geval de groot- en verzendverpakkingen zijn voorzien van een volgnummer;
+- - de volgnummers dan wel het eerste en het laatste volgnummer van het verpakkingsmateriaal in het geval de groot- en verzendverpakkingen zijn voorzien van een volgnummer;
 
-- -. de wijze van vernietiging van het verpakkingsmateriaal.
+- - de wijze van vernietiging van het verpakkingsmateriaal.
 
 c. De bereider of ompakker van boter is verplicht onbruikbaar geworden handelsdocumenten bij het eerstvolgende bezoek af te geven aan het door of namens het COKZ met keuring en toezicht belaste personeel.
 
@@ -150,41 +123,41 @@ c. De bereider of ompakker van boter is verplicht onbruikbaar geworden handelsdo
 
 - a. onderzoek van de boter op de bij het besluit en de regeling gestelde algemene en bijzondere eisen met betrekking tot:
 
-- -. de deugdelijkheid;
+   - - de deugdelijkheid;
 
-- -. het gewicht;
+   - - het gewicht;
 
-- -. de verpakking;
+   - - de verpakking;
 
-- -. de aanduiding;
+   - - de aanduiding;
 
 - b. onderzoek van uit de boter genomen monsters op de bij het besluit en de regeling gestelde algemene en bijzondere eisen met betrekking tot:
 
-- -. de samenstelling in het bijzonder het vochtgehalte, het gehalte aan vetvrije melkdroge stof, het vetgehalte, het zoutgehalte en de echtheid van het melkvet;
+   - - de samenstelling in het bijzonder het vochtgehalte, het gehalte aan vetvrije melkdroge stof, het vetgehalte, het zoutgehalte en de echtheid van het melkvet;
 
-- -. hulpstoffen en toevoegingen;
+   - - hulpstoffen en toevoegingen;
 
-- -. vreemde bestanddelen, vuil en andere verontreinigingen;
+   - - vreemde bestanddelen, vuil en andere verontreinigingen;
 
-- -. het kopergehalte;
+   - - het kopergehalte;
 
-- -. fosfatase en peroxidase;
+   - - fosfatase en peroxidase;
 
-- -. kweekbare coli-achtige bacteriën;
+   - - kweekbare coli-achtige bacteriën;
 
-- -. het aantal kweekbare gisten en schimmels
+   - - het aantal kweekbare gisten en schimmels
 
-- -. de pH in relatie tot de aanduiding;
+   - - de pH in relatie tot de aanduiding;
 
 - c. onderzoek van uit de boter genomen monsters op:
 
-- -. geur en smaak;
+   - - geur en smaak;
 
-- -. uiterlijk;
+   - - uiterlijk;
 
-- -. consistentie;
+   - - consistentie;
 
-- -. vochtverdeling.
+   - - vochtverdeling.
 
 ##### Artikel 7
 
@@ -234,13 +207,13 @@ De resultaten van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.
 
 - b. de soort boter, onderscheiden naar:
 
-- -. ongezouten, gezuurde boter, in geval van boter met een keukenzoutgehalte van minder dan 0,1 % en een pH van het serum van ten hoogste 5,3;
+   - - ongezouten, gezuurde boter, in geval van boter met een keukenzoutgehalte van minder dan 0,1 % en een pH van het serum van ten hoogste 5,3;
 
-- -. ongezouten, zoete boter, in geval van boter met een keukenzoutgehalte van minder dan 0,1 % en een pH van het serum hoger dan 5,3;
+   - - ongezouten, zoete boter, in geval van boter met een keukenzoutgehalte van minder dan 0,1 % en een pH van het serum hoger dan 5,3;
 
-- -. gezouten, gezuurde boter, in geval van boter met een keukenzoutgehalte van ten minste 0,1 % en een pH van het serum van ten hoogste 5,3;
+   - - gezouten, gezuurde boter, in geval van boter met een keukenzoutgehalte van ten minste 0,1 % en een pH van het serum van ten hoogste 5,3;
 
-- -. gezouten, zoete boter, in geval van boter met een keukenzoutgehalte van ten minste 0,1 % en een pH van het serum hoger dan 5,3;
+   - - gezouten, zoete boter, in geval van boter met een keukenzoutgehalte van ten minste 0,1 % en een pH van het serum hoger dan 5,3;
 
 - c. de hoeveelheid bereide boter;
 
@@ -248,9 +221,9 @@ De resultaten van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.
 
 - e.
 
-- -. de volgnummers van de op de verpakking van de boter aanwezige rijksbotermerken;
+   - - de volgnummers van de op de verpakking van de boter aanwezige rijksbotermerken;
 
-- -. de aanduiding ’extra kwaliteit’ voor partijen boter welke op de handelsdocumenten worden voorzien van een rijksbotermerk;
+   - - de aanduiding ’extra kwaliteit’ voor partijen boter welke op de handelsdocumenten worden voorzien van een rijksbotermerk;
 
 - f. de datum van aflevering;
 
@@ -310,7 +283,7 @@ Indien bij de keuringsuitslag, waartegen bezwaar wordt aangetekend, een verbod t
 
 Het inwinnen van advies
 
-- 1. Het bestuur kan, alvorens een beslissing op het bezwaarschrift te nemen, advies inwinnen bij het RIKILT of een ander orgaan met specifieke deskundigheid met betrekking tot de aard van het bezwaar.
+- 1 Het bestuur kan, alvorens een beslissing op het bezwaarschrift te nemen, advies inwinnen bij het RIKILT of een ander orgaan met specifieke deskundigheid met betrekking tot de aard van het bezwaar.
 
 - 2. Het advies wordt schriftelijk uitgebracht en bevat -indien de partijen zijn gehoord- een verslag van het horen.
 
@@ -331,55 +304,3 @@ Aangeslotenen zijn verplicht alle plaatsen, waar in het kader van de regeling be
 ##### Artikel 18
 
 Dit reglement kan worden aangehaald als ’Keuringsreglement COKZ boter’.
-
-## Bijlage 1. bij het Keuringsreglement COKZ boter
-
-### Handelsdocument boter, voorzien van het rijksmerk voor ’extra kwaliteit’ no.
-
-afbeelding extra kwaliteitsmerk
-
-Soort boter:
-
-Productiedatum:
-
-Partijnummer:
-
-Hoeveelheid:
-
-Naam afzender:
-
-Erkenningsmerk:
-
-Adres afzender:
-
-Verzenddatum:
-
-Naam ontvanger:
-
-Adres ontvanger:
-
-Land van bestemming:
-
-Overige informatie:
-
-Dit document mag uitsluitend worden gebruikt overeenkomstig het bepaalde in het Keuringsreglement COKZ boter.
-
-De kopie van dit handelsdocument dient te worden bewaard in de bedrijfsadministratie.
-
-## Bijlage 2. bij het Keuringsreglement COKZ boter
-
-### Methoden van monsterneming en onderzoek
-
-Indien in het navolgende wordt verwezen naar elders gepubliceerde methoden van monsterneming en onderzoek is de versie waarnaar hier wordt verwezen van toepassing, tenzij anders is bepaald.
-
-In het geval van grensreacties is bij de desbetreffende methode aangegeven het aantal malen (n) dat een in de eis vermelde hoeveelheid analysemonster moet worden onderzocht en het maximum aantal malen dat een positief resultaat wordt toegelaten (a).
-
-### A. Room en al dan niet geheel of gedeeltelijk ontroomde melk
-
-De methoden van monsterneming en onderzoek zijn vermeld in de bijlage bij het keuringsreglement COKZ Kaas, onder A.
-
-### B. Melkvet
-
-### C. Boter
-
-### D. Contaminanten

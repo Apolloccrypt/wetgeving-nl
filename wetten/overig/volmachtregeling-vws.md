@@ -1,40 +1,17 @@
 ---
 title: "Volmachtregeling VWS"
 identifier: "BWBR0010710"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010710"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5212003"
-version_id: "9369502"
-internal_id: "C12520221"
-label_id: "5187314"
-dtd_version: "2.0"
-original_entry_into_force: "1999-09-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010710/2025-04-01/0"
-intitule_bron: "Stcrt.1999-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-09-09"
-intitule_published: "1999-09-22"
-intitule_in_force: "1999-09-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-182"
-original_signed_date: "1999-09-09"
-original_published_date: "1999-09-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-09-24"
-jci_1_3: "jci1.3:c:BWBR0010710&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0010710&g=2025-04-01"
-citeertitel_status: "officieel"
-signed_date: "1999-09-09"
-entry_into_force: "1999-09-24"
+publicatiedatum: 1999-09-24
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0010710"
+opgehaald: 2026-08-04
 ---
-# Volmachtregeling VWS
 
-Besluit:
+# Volmachtregeling VWS
 
 ### Hoofdstuk 1. Definities
 
@@ -42,23 +19,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Minister:**
+- a. *Minister:*
 
 - Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **rechtshandeling:** privaatrechtelijke rechtshandeling;
+- b. *rechtshandeling:* privaatrechtelijke rechtshandeling;
 
-- c. **volmacht:** de bevoegdheid om in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten;
+- c. *volmacht:* de bevoegdheid om in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten;
 
-- d. **gevolmachtigde:** degene aan wie volmacht is verleend;
+- d. *gevolmachtigde:* degene aan wie volmacht is verleend;
 
-- e. **volmachtgever:** degene die volmacht verleent;
+- e. *volmachtgever:* degene die volmacht verleent;
 
-- f. **raamovereenkomst:** een overeenkomst met een of meer ondernemers met het doel gedurende een bepaalde periode de voorwaarden betreffende te plaatsen opdrachten vast te leggen, met name wat betreft prijs en, in voorkomend geval, de beoogde hoeveelheid;
+- f. *raamovereenkomst:* een overeenkomst met een of meer ondernemers met het doel gedurende een bepaalde periode de voorwaarden betreffende te plaatsen opdrachten vast te leggen, met name wat betreft prijs en, in voorkomend geval, de beoogde hoeveelheid;
 
-- g. **budget:**
+- g. *budget:*
 
 - budget als bedoeld in artikel 1 van het Organisatiebesluit VWS 2025.
+
+##### Artikel 1a. Personeelsaangelegenheden
+
+Deze regeling is niet van toepassing op personeelsaangelegenheden.
 
 ### Hoofdstuk 2. Algemene bepalingen
 
@@ -80,7 +61,7 @@ Een door de gevolmachtigde binnen de grenzen van zijn bevoegdheid verrichte rech
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -110,7 +91,7 @@ De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechts
 
 - b. de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu;
 
-- c. de Directeuren direct ressorterend onder de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu tot een bedrag van € 250.000 exclusief btw;
+- c. de Directeuren direct ressorterend onder de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu tot een bedrag van € 250.000 exclusief btw;
 
 - d. de inspecteur-generaal van de Inspectie gezondheidszorg en jeugd;
 
@@ -136,6 +117,10 @@ De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechts
 
 2. De volmacht, verleend in het eerste lid, heeft geen betrekking op het sluiten van borgtochtovereenkomsten, vaststellingsovereenkomsten, overeenkomsten van geldlening en overeenkomsten, waarbij zaken worden verhuurd of verkocht, met uitzondering van overeenkomsten waarbij tijdschriften op basis van abonnementen worden verkocht.
 
+##### Artikel 10a
+
+De volmacht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=8&z=2025-04-01&g=2025-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=9&z=2025-04-01&g=2025-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2025-04-01&g=2025-04-01), hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de directeuren van het kernministerie alleen binnen de aan hen toegewezen budgetten.
+
 ### Hoofdstuk 4. Beperkingen van volmacht
 
 ##### Artikel 11
@@ -160,7 +145,7 @@ In afwijking van [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.n
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -168,7 +153,7 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&ho
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. Ondervolmacht
 
@@ -190,7 +175,7 @@ Vervallen
 
 6. Van de volmachten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2025-04-01&g=2025-04-01), wordt geen ondervolmacht verleend.
 
-### Hoofdstuk 5. Ondervolmacht
+### Hoofdstuk 6. Bijzonder ondervolmacht
 
 ##### Artikel 17
 
@@ -200,7 +185,7 @@ Vervallen
 
 3. Van de volmachten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2025-04-01&g=2025-04-01), wordt geen bijzondere ondervolmacht verleend.
 
-### Hoofdstuk 6. Bijzonder ondervolmacht
+### Hoofdstuk 7. Volmachtregister
 
 ##### Artikel 18
 
@@ -208,7 +193,7 @@ Vervallen
 
 2. Bij beëindiging of wijziging van een volmacht wordt een kopie van het besluit tot beëindiging of wijziging toegezonden naar de Directeur Organisatie, Bedrijfsvoering en Personeel.
 
-### Hoofdstuk 7. Volmachtregister
+### Hoofdstuk 8. Overgangs- en slotbepalingen
 
 ##### Artikel 19
 
@@ -225,35 +210,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 22
 
 Deze regeling wordt aangehaald als: [Volmachtregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010710)
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Personeelsaangelegenheden
-
-Deze regeling is niet van toepassing op personeelsaangelegenheden.
-
-### Hoofdstuk 2. Algemene bepalingen
-
-### Hoofdstuk 3. Verlening van volmacht
-
-### Hoofdstuk 4. Beperkingen van volmacht
-
-### Hoofdstuk 5. Ondervolmacht
-
-### Hoofdstuk 6. Bijzonder ondervolmacht
-
-### Hoofdstuk 7. Volmachtregister
-
-### Hoofdstuk 8. Overgangs- en slotbepalingen
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 10a
-
-De volmacht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=8&z=2025-04-01&g=2025-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=9&z=2025-04-01&g=2025-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2025-04-01&g=2025-04-01), hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de directeuren van het kernministerie alleen binnen de aan hen toegewezen budgetten.
-
-### Hoofdstuk 4. Beperkingen van volmacht
-
-### Hoofdstuk 8. Overgangs- en slotbepalingen
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,42 +1,27 @@
 ---
 title: "Wijziging Huurprijzenwet woonruimte (onderhoud, vergoeding aan de Staat en toezicht)"
 identifier: "BWBR0010888"
-country: "nl"
-rank: "circulaire"
-publication_date: "1999-11-26"
-last_updated: "1999-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010888"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6336413"
-version_id: "10990402"
-internal_id: "C14882631"
-label_id: "6325324"
-original_entry_into_force: "1999-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010888/1999-11-26/0"
-intitule_bron: "Stcrt.1999-229"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-11-23"
-intitule_published: "1999-11-26"
-intitule_in_force: "1999-11-26"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-229"
-original_signed_date: "1999-11-23"
-original_published_date: "1999-11-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1999-229-p9-SC21340"
-entry_into_force_date: "1999-11-26"
-jci_1_3: "jci1.3:c:BWBR0010888&z=1999-11-26&g=1999-11-26"
-jci_1_0: "1.0:c:BWBR0010888&g=1999-11-26"
-citeertitel_status: "redactioneel"
-signed_date: "1999-11-23"
-entry_into_force: "1999-11-26"
+publicatiedatum: 1999-11-26
+laatste_update: 1999-11-26
+status: geldig
+toestand: 1999-11-26
+bron: "https://wetten.overheid.nl/BWBR0010888"
+opgehaald: 2026-08-04
 ---
+
 # Wijziging Huurprijzenwet woonruimte (onderhoud, vergoeding aan de Staat en toezicht)
 
 Geacht College,
 
 Met ingang van 30 november 1999 treedt een aantal wijzigingen in de [Huurprijzenwet woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003221) (Hpw), de [Wet op de huurcommissies](https://wetten.overheid.nl/jci1.3:c:BWBR0003222) (Whc) en het [Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237) (Bhw) in werking. De belangrijkste wijzigingen zijn de volgende:
+
+- · de introductie van een afzonderlijke huurcommissieprocedure ter bevordering van het opheffen van gebreken of tekortkomingen aan de woonruimte door de verhuurder (onderhoudsprocedure);
+
+- · een wijziging van de regeling van de aan de Staat verschuldigde vergoeding voor een advies of een uitspraak van de huurcommissies;
+
+- · een wijziging van het toezicht op de huurcommissies. Voorts zal een technische reparatie van het [Bhw](https://wetten.overheid.nl/jci1.3:c:BWBR0003237) (puntprijzen) plaatsvinden.
 
 Met deze circulaire informeer ik u over de belangrijkste wijzigingen en vraag ik u om medewerking ten aanzien van de vrijstellingsregeling voor de vergoeding aan de Staat.
 
@@ -58,6 +43,12 @@ Ten aanzien van de aan de Staat verschuldigde vergoeding is – op grond van een
 
 Er zijn daarbij drie categorieën te onderkennen:
 
+- 1. personen aan wie huursubsidie wordt verstrekt;
+
+- 2. personen aan wie een uitkering krachtens de Vangnetregeling van de [Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659) wordt verstrekt ([artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=26b));
+
+- 3. personen ten gunste van wie algemene bijstand krachtens de [Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333) is vastgesteld.
+
 De vrijstellingsregeling is nu als volgt vorm gegeven.
 
 De betrokken verzoeker dient via een formulier aan te geven of hij een bijdrage ingevolge de [Vangnetregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009786) of huursubsidie krachtens de [Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659), of een algemene bijstandsuitkering heeft ontvangen. Als blijkt dat zijn inkomen op of onder het minimuminkomensijkpunt van de [Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659) danwel op of onder het bijstandniveau ligt kan hij voor vrijstelling in aanmerking komen. Bij deze verklaring moet de desbetreffende beschikking worden gevoegd. Aangezien echter op de beschikking waarmee gemeenten een bijdrage op grond van [artikel 26b van de Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=26b) toekennen veelal geen naar een jaarinkomen herleid actueel inkomen wordt vermeld, is inkomenscontrole op basis van deze beschikking alleen onvoldoende. Ik vraag dan ook uw medewerking voor het volgende.
@@ -76,28 +67,4 @@ De wijziging van de [Hpw](https://wetten.overheid.nl/jci1.3:c:BWBR0003221) en da
 
 Deze circulaire wordt gepubliceerd in de Staatscourant.
 
-Ik verzoek u deze informatie onder de aandacht te brengen van zowel de sociale als de particuliere verhuurders en zo mogelijk de huurdersorganisaties in uw gemeente. Voor verdere informatie over wijzigingen in de [Hpw](https://wetten.overheid.nl/jci1.3:c:BWBR0003221) verwijs ik naar de secretariaten van de huurcommissies in de verschillende ressorten. Een adressenlijst treft u als bijlage aan.
-
-## Bijlage. Adressen en telefoonnummers van de secretariaten van de huurcommissies
-
-- 1. Assen, Beetsterzwaag, Emmen, Groningen, Heerenveen, Leeuwarden, Meppel, Sneek, Winschoten en Zuidbroek Cascadeplein 10, Postbus 563, 9700 AN Groningen. Tel. 050 - 5992999.
-
-- 2. Almelo, Deventer, Enschede, Lelystad en Zwolle Hanzelaan 310, Postbus 7001, 8007 HA Zwolle. Tel. 038 - 4695200.
-
-- 3. Apeldoorn, Arnhem, Groenlo, Harderwijk, Nijmegen, Terborg, Tiel, Wageningen en Zutphen Pels Rijckenstraat 1, 6814 DK Arnhem. Tel. 026 - 3528399.
-
-- 4. Amersfoort en Utrecht Muntstraat 7, Postbus 1548, 3500 BM Utrecht. Tel. 030 - 2333513.
-
-- 5. Amsterdam De Ruyterkade 7, Postbus 19412, 1000 GK Amsterdam. Tel. 020 - 6235156.
-
-- 6. Alkmaar, Den Helder, Haarlem, Hilversum, Hoorn en Zaandam Kennemerplein 6-8, Postbus 1163, 2001 BD Haarlem. Tel. 023 - 5121510.
-
-- 7. Brielle, Dordrecht, Gorinchem, Oud-Beijerland, Rotterdam, Schiedam en Sommelsdijk Blaak 31, Postbus 1973, 3000 BZ Rotterdam. Tel. 010 - 4119250.
-
-- 8. Alphen a/d Rijn, Delft, Gouda, ’s-Gravenhage en Leiden Huis te Landelaan 492, Postbus 564, 2280 AN Rijswijk. Tel. 070 - 3961000.
-
-- 9. Bergen op Zoom, Breda, Middelburg, Terneuzen, Tilburg, Zevenbergen en Zierikzee Chasséveld 13, Postbus 1013, 4801 BA Breda. Tel. 076 - 5307272.
-
-- 10. Boxmeer, Eindhoven, Helmond en ’s-Hertogenbosch Leeghwaterlaan 14, Postbus 90143, 5200 MA ’s-Hertogenbosch. Tel. 073 - 6207474.
-
-- 11. Heerlen, Maastricht, Roermond, Sittard en Venlo Avenue Céramique 1a, 6211 KV Maastricht. Tel. 043 - 3514250.
+Ik verzoek u deze informatie onder de aandacht te brengen van zowel de sociale als de particuliere verhuurders en zo mogelijk de huurdersorganisaties in uw gemeente. Voor verdere informatie over wijzigingen in de [Hpw](https://wetten.overheid.nl/jci1.3:c:BWBR0003221) verwijs ik naar de secretariaten van de huurcommissies in de verschillende ressorten. Een adressenlijst treft u als [bijlage](https://wetten.overheid.nl/BWBR0010888) aan.

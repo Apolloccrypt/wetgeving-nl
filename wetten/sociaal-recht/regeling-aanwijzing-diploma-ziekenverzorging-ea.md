@@ -1,43 +1,17 @@
 ---
-title: "Regeling aanwijzing diploma Ziekenverzorging e.a"
+title: "Regeling aanwijzing diploma Ziekenverzorging e.a."
 identifier: "BWBR0011010"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-08-21"
-last_updated: "2019-08-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011010"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4861443"
-version_id: "7791512"
-internal_id: "C9507801"
-label_id: "4839404"
-dtd_version: "2.0"
-original_entry_into_force: "1999-12-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011010/2019-08-21/0"
-intitule_bron: "Stcrt.1999-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-21"
-intitule_published: "1999-12-24"
-intitule_in_force: "1999-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-249"
-original_signed_date: "1999-12-21"
-original_published_date: "1999-12-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-12-26"
-jci_1_3: "jci1.3:c:BWBR0011010&z=2019-08-21&g=2019-08-21"
-jci_1_0: "1.0:c:BWBR0011010&g=2019-08-21"
-citeertitel_status: "officieel"
-short_title: "Regeling aanwijzing diploma Ziekenverzorging e.a."
-signed_date: "1999-12-21"
-entry_into_force: "1999-12-26"
+publicatiedatum: 1999-12-26
+laatste_update: 2019-08-21
+status: geldig
+toestand: 2019-08-21
+bron: "https://wetten.overheid.nl/BWBR0011010"
+opgehaald: 2026-08-04
 ---
-# Regeling aanwijzing diploma Ziekenverzorging e.a
 
-Gelet op [artikel 107a van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=107a),
-
-Besluit:
+# Regeling aanwijzing diploma Ziekenverzorging e.a.
 
 ##### Artikel 1
 
@@ -60,5 +34,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing diploma Ziekenverzorging e.a..
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

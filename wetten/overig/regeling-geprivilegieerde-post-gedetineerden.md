@@ -1,54 +1,45 @@
 ---
 title: "Regeling geprivilegieerde post gedetineerden"
 identifier: "BWBR0009955"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-01-01"
-last_updated: "1999-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009955"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3573043"
-version_id: "5356162"
-internal_id: "C5549251"
-label_id: "3553044"
-dtd_version: "2.0"
-original_entry_into_force: "1999-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009955/1999-01-01/0"
-intitule_bron: "Stcrt.1998-211"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-10-20"
-intitule_published: "1998-11-04"
-intitule_in_force: "1998-11-04"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-211"
-original_signed_date: "1998-10-20"
-original_published_date: "1998-11-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-01-01"
-jci_1_3: "jci1.3:c:BWBR0009955&z=1999-01-01&g=1999-01-01"
-jci_1_0: "1.0:c:BWBR0009955&g=1999-01-01"
-citeertitel_status: "officieel"
-signed_date: "1998-10-20"
-entry_into_force: "1999-01-01"
+publicatiedatum: 1999-01-01
+laatste_update: 1999-01-01
+status: geldig
+toestand: 1999-01-01
+bron: "https://wetten.overheid.nl/BWBR0009955"
+opgehaald: 2026-08-04
 ---
+
 # Regeling geprivilegieerde post gedetineerden
-
-Gelet op [artikel 37, vierde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=37);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 16 juli 1998, nr. 704201/98.
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
+a.
+
+wet:
+
+de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709);
+
+b.
+
+brief:
+
+een brief of een ander poststuk;
+
+c.
+
+envelop:
+
+een envelop of een daarmee vergelijkbare verpakking.
+
 ##### Artikel 2. Algemeen
 
 De directeur is uitsluitend bevoegd de enveloppen van brieven als bedoeld in [artikel 37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=37), te openen ter controle op bijgesloten voorwerpen, op de wijze als hieronder bepaald.
 
-##### Artikel 3. Brieven afkomstig van personen/ instanties genoemd in [artikel 37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=37)
+##### Artikel 3. Brieven afkomstig van personen/ instanties genoemd in artikel 37, eerste lid, van de wet
 
 1. De afzender genoemd in [artikel 37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=37), doet zijn brief in een gesloten envelop en adresseert deze aan de gedetineerde. De afzender sluit de envelop af en voegt deze in een andere envelop en adresseert deze aan de directeur met het verzoek de bijgesloten envelop aan de gedetineerde uit te reiken. De afzender dient er zorg voor te dragen dat kenbaar is in welke hoedanigheid de afzender de brief heeft geschreven.
 
@@ -58,7 +49,7 @@ De directeur is uitsluitend bevoegd de enveloppen van brieven als bedoeld in [ar
 
 4. In het geval de brief niet herkenbaar is als zijnde afkomstig van een persoon of instantie, genoemd in [artikel 37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=37), is de directeur niet gehouden aan het bepaalde in het eerste tot en met derde lid.
 
-##### Artikel 4. Brieven aan personen/instanties genoemd in [artikel 37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=37)
+##### Artikel 4. Brieven aan personen/instanties genoemd in artikel 37, eerste lid, van de wet
 
 1. Ten aanzien van een gesloten envelop met een brief afkomstig van een gedetineerde, gericht aan een van de personen of instanties genoemd in [artikel 37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=37), dient de gedetineerde er zorg voor te dragen dat voor de directeur kenbaar is aan welke persoon in welke hoedanigheid, of aan welke instantie de envelop van de brief is gericht.
 
@@ -75,5 +66,3 @@ Deze regeling treedt in werking op 1 januari 1999.
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling geprivilegieerde post gedetineerden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

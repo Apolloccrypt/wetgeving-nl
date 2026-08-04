@@ -1,44 +1,18 @@
 ---
 title: "Verordening van de Sociaal-Economische Raad van 18 juni 1999 houdende instelling van een adviseur als bedoeld in afdeling 9.3 van de Algemene wet bestuursrecht"
+citeertitel: "Verordening instelling Awb-klachtenadviseur"
 identifier: "BWBR0010530"
-country: "nl"
-rank: "pbo"
-publication_date: "1999-07-01"
-last_updated: "1999-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010530"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6679303"
-version_id: "11518392"
-internal_id: "C15532941"
-label_id: "6667694"
-original_entry_into_force: "1999-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010530/1999-07-01/0"
-intitule_bron: "Vbbo.1999-39"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-06-18"
-intitule_published: "1999-06-25"
-intitule_in_force: "1999-06-25"
-intitule_status: "goed"
-original_publication: "Vbbo.1999-39"
-original_signed_date: "1999-06-18"
-original_published_date: "1999-06-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-07-01"
-jci_1_3: "jci1.3:c:BWBR0010530&z=1999-07-01&g=1999-07-01"
-jci_1_0: "1.0:c:BWBR0010530&g=1999-07-01"
-citeertitel_status: "officieel"
-short_title: "Verordening instelling Awb-klachtenadviseur"
-signed_date: "1999-06-18"
-entry_into_force: "1999-07-01"
+publicatiedatum: 1999-07-01
+laatste_update: 1999-07-01
+status: geldig
+toestand: 1999-07-01
+bron: "https://wetten.overheid.nl/BWBR0010530"
+opgehaald: 2026-08-04
 ---
+
 # Verordening van de Sociaal-Economische Raad van 18 juni 1999 houdende instelling van een adviseur als bedoeld in afdeling 9.3 van de Algemene wet bestuursrecht
-
-Gelet op [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=31) en [artikel 35 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=35);
-
-Gelet op [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,9 +20,9 @@ Besluit:
 
 In deze verordening wordt verstaan onder:
 
-| a. Awb | : | [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537); |
+| a. Awb | : | Algemene wet bestuursrecht; |
 | --- | --- | --- |
-| b. klacht | : | elke mondelinge of schriftelijke uiting van ongenoegen over een gedraging van de Raad als bedoeld in [artikel 9:1 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voorzover tegen de gedraging niet de mogelijkheid van bezwaar of beroep als bedoeld in de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) openstaat of heeft opengestaan. |
+| b. klacht | : | elke mondelinge of schriftelijke uiting van ongenoegen over een gedraging van de Raad als bedoeld in artikel 9:1 van de Awb, voorzover tegen de gedraging niet de mogelijkheid van bezwaar of beroep als bedoeld in de Awb openstaat of heeft opengestaan. |
 
 ##### Artikel 2
 

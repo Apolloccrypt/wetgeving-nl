@@ -1,36 +1,16 @@
 ---
 title: "Voorlichting over de regeling toelagen schoolleiding basisscholen"
 identifier: "BWBR0010818"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1999-11-17"
-last_updated: "1999-11-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010818"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6520463"
-version_id: "11222122"
-internal_id: "C15153461"
-label_id: "6509274"
-original_entry_into_force: "1999-11-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010818/1999-11-17/0"
-intitule_bron: "Uitleg.1999-26/27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-11-02"
-intitule_published: "1999-11-17"
-intitule_in_force: "1999-11-17"
-intitule_status: "goed"
-original_publication: "Uitleg.1999-26/27"
-original_signed_date: "1999-11-02"
-original_published_date: "1999-11-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-11-17"
-jci_1_3: "jci1.3:c:BWBR0010818&z=1999-11-17&g=1999-11-17"
-jci_1_0: "1.0:c:BWBR0010818&g=1999-11-17"
-citeertitel_status: "redactioneel"
-signed_date: "1999-11-02"
-entry_into_force: "1999-11-17"
+publicatiedatum: 1999-11-17
+laatste_update: 1999-11-17
+status: geldig
+toestand: 1999-11-17
+bron: "https://wetten.overheid.nl/BWBR0010818"
+opgehaald: 2026-08-04
 ---
+
 # Voorlichting over de regeling toelagen schoolleiding basisscholen
 
 ### 1. Inleiding
@@ -43,9 +23,35 @@ In het laatste deel van deze publicatie vindt u een aantal voorbeelden waarin de
 
 De hoogte van de toelage hangt af van de functie en de voor de functionaris geldende maximumsalarisschaal. Per 1 januari 2000 gelden de volgende bedragen per maand:
 
+- de normfunctie-directeur met een voor de persoon geldende maximumschaal10: ƒ 250,00;
+
+- de normfunctie-directeur met een voor de persoon geldende maximumschaal11: ƒ 100,00;
+
+- de normfunctie-adjunct-directeur met een voor de persoon geldende maximumschaal 9: ƒ 100,00;
+
+- de normfunctie-adjunct-directeur met een voor de persoon geldende maximumschaal 10: ƒ 100,00;
+
+- de normfunctie-directeur van een school met400 of meer, maar minder dan900 leerlingen: ƒ200,00;
+
+- de normfunctie-adjunct-directeur van een school met 200 of meer, maar minder dan 400 leerlingen: ƒ 200,00;
+
+- ’locatieleider’ :ƒ200,00 ( onder voorwaarden);
+
+- ’niet-normfunctie directeur’ belast met de feitelijke dagelijkse leiding: ƒ200,00 (onder voorwaarden).
+
 ### 3. Systematiek
 
 De vaststelling van de toelagen heeft plaatsgevonden met inachtneming van de volgende uitgangspunten:
+
+- 1. Zoveel mogelijk is de bestaande systematiek van het [RPBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003771) gevolgd, zodat de toelagen geen belemmeringen opwerpen voor een eventuele aanpassing van de beloningsstructuur van het management op langere termijn.
+
+- 2. De toelage volgt de voor de persoon geldende maximumschaal. Op dit uitgangspunt bestaan twee uitzonderingen; namelijk de directeur van een school met 400 of meer, maar minder dan 900 leerlingen en de adjunct-directeur van een school met 200 of meer, maar minder dan 400 leerlingen. Deze leerlingaantallen hebben binnen de bestaande salarissystematiek in het [RPBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003771) geen consequenties voor de maximumschaal terwijl in de CAO voor wat betreft de hoogte van de toelage wel gevolgen zijn verbonden aan deze leerlingaantallen.
+
+- 3. De toelage wordt toegekend naar evenredigheid van de betrekkingsomvang. Om de hoogte van de toelage die voor een persoon geldt te bepalen, moet het bedrag van de toelage worden vermenigvuldigd met de werktijdfactor van die persoon. De toelage kan echter nooit hoger zijn dan de toelage die behoort bij werktijdfactor 1.
+
+- 4. Door middel van een aanpassing van [artikel I-A1 van het RPBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-A1) wordt geregeld dat de toelage deel uitmaakt van de bezoldiging. De toelage telt hierdoor bijvoorbeeld mee voor de berekening van de hoogte van de vakantie-uitkering. De toelage werkt door in de hoogte van uitkeringen op grond van het [Besluit Ziekte en arbeidsongeschiktheid onderwijs- en onderzoekpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0007800) en het [Besluit Werkloosheid onderwijs- en onderzoekpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006445). Voor de vraag of de toelage doorwerkt in de grondslag voor het pensioen zij verwezen naar het pensioenreglement.*Artikel 3.1 lid 2 van het pensioenreglement luidt:Met uitzondering van de toelagen die het karakter hebben van een inkostenvergoeding en de tegemoetkoming inzake ziektekosten, worden tot het inkomen voorts gerekend de tot een jaarbedrag te herleiden vaste toelagen, waarop de deelnemer op 1 januari van het desbetreffende jaar aanspraak heeft, indien van toepassing vermeerderd met de over die toelagen toe te kennen vakantie-uitkering. indien de toelagen, bedoeld in de vorgie volzin, in hoogte variëren, wordt tot het inkomen gerekend de som van die toelagen over het voorafgaande jaar, indien van toepassing vermeerderd met de vakantie-uitkering over die toelage.Voor de toelagensystematiek wordt het [RPBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003771) aangepast ([artikelen I-A1](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-A1), [I-Q107](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-Q107) en [I-Q211](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-Q211)).Hieronder worden de uitgangspunten werder uitgewerkt.
+
+- 5. De toelage telt niet mee voor de toepassing of overeenkomstige toepassing van de inschalingsbepalingen in [artikel I-P8 van het RPBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-P8).
 
 ### 4. Wijziging leerlingaantallen
 
@@ -53,7 +59,7 @@ Een directeur c.q. adjunct-directeur, die volgens de regels van het [RPBO](https
 
 ### Nieuwe categorie
 
-Voor het bepalen van de beschikbare toelage voor de directeur van een school 400 of meer, maar minder dan 900 leerlingen en de adjunct-directeur van een school met 200 of meer, maar minder dan 400 leerlingen, is zoveel mogelijk aangesloten bij de bestaande systematiek van [artikel I-Q106 RPBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-Q106). De desbetreffende directeur en adjunct-directeur krijgen zodoende pas recht op de hogere toelage met ingang van het derde schooljaar waarin y ( het aantal leerlingen op1 oktober van het voorafgaande schooljaar, verhoogd met3%) gelijk is aan of groter is dan 400 respectievelijk200. Afgesproken is dat bij het ingaan van deze regeling voor het bepalen van y teruggekeken mag worden naar de twee schooljaren voorafgaand aan de wijziging van de regelgeving (zie kopje inwerkingtreding). Indien deze personeelsleden eenmaal recht hebben op de hogere toelage, behouden zij die zolang zij recht op dezelfde maximumschaal behouden en benoemd blijven in die functie aan dezelfde instelling.
+Voor het bepalen van de beschikbare toelage voor de directeur van een school 400 of meer, maar minder dan 900 leerlingen en de adjunct-directeur van een school met 200 of meer, maar minder dan 400 leerlingen, is zoveel mogelijk aangesloten bij de bestaande systematiek van [artikel I-Q106 RPBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-Q106). De desbetreffende directeur en adjunct-directeur krijgen zodoende pas recht op de hogere toelage met ingang van het derde schooljaar waarin y ( het aantal leerlingen op1 oktober van het voorafgaande schooljaar, verhoogd met3%) gelijk is aan of groter is dan 400 respectievelijk200. Afgesproken is dat bij het ingaan van deze regeling voor het bepalen van y teruggekeken mag worden naar de twee schooljaren voorafgaand aan de wijziging van de regelgeving (zie [kopje inwerkingtreding](https://wetten.overheid.nl/BWBR0010818)). Indien deze personeelsleden eenmaal recht hebben op de hogere toelage, behouden zij die zolang zij recht op dezelfde maximumschaal behouden en benoemd blijven in die functie aan dezelfde instelling.
 
 ### 5. Garantie op een schaal
 
@@ -109,6 +115,10 @@ Voldoet de school in de schooljaren 1998 – 1999, 1999-2000 en 2000 – 2001 aa
 
 In de CAO is afgesproken dat de toelagen voor de eerste keer per 1 januari 2000 zullen worden toegekend. Vanwege de millenniumovergang is al eerder ( zie Uitleg van 28 juli nr. 18 c) aangekondigd dat het uitvoeren van specifieke maatregelen in januari 2000 zoveel mogelijk moet worden uitgesloten. De maatregel zal daarom in de maand februari met terugwerkende kracht tot1 januari 2000 worden verwerkt.
 
+Voorbeelden
+
+Voorbeeld 1
+
 Een directeur van een basisschool met een normfunctie is benoemd in een normbetrekking.
 
 De voor deze persoon geldende maximumsalarisschaal is schaal 11.
@@ -117,18 +127,26 @@ De school heeft al jaren een constant leerlingaantal van 350.
 
 De hoofdregel is dat de hoogte van de toelage wordt vastgesteld aan de hand van de voor de persoon geldende maximumschaal. In dit geval zijn op deze hoofdregel geen uitzonderingen van toepassing. Deze directeur ontvangt een toelage van 100 gulden.
 
+Voorbeeld 2
+
 Een adjunct-directeur van een basisschool met een normfunctie is benoemd in een betrekking met werktijdfactor 0,8. De voor deze persoon geldende maximumschaal is schaal 9. De school heeft al gedurende 5 jaar een constant leerlingenaantal van300.
 
 De hoofdregel is dat de toelage wordt vastgesteld aan de hand van de voor de persoon geldende maximumschaal. Omdat in dit geval voldaan is aan de eis dat y (het aantal leerlingen op 1 oktober van het voorafgaande jaar, verhoogd met 3%) gedurende drie jaar groter is dan of gelijk is aan 200 maar kleiner is dan400 is op deze adjunct-directeur de uitzondering van de hogere toelage van 200 gulden van toepassing.
 
 Deze adjunct-directeur is benoemd in een functie met werktijdfactor 0,8. De toelage voor deze persoon bedraagt daarom 0,8 maal 200 gulden is 160 gulden.
 
+Voorbeeld 3
+
 Een bestuur heeft 3 scholen onder zich. School A met 100 leerlingen, school B met 155 leerlingen en school C met 185 leerlingen. De leerlingaantallen van deze scholen zijn al 4 jaar constant. Aan school C is een directeur met een normfunctie werkzaam in een normbetrekking en met maximumsalarisschaal10.
 
 Ten behoeve van scholen A en B heeft het bestuur een fulltime bovenschoolse directeur benoemd, die tevens belast is met de huishoudelijke leiding op school A en B. Op school B is een fulltime adjunct-directeur benoemd in een normbetrekking.
 
+School A en B
+
 Aan deze scholen is geen directeur met een normfunctie verbonden. Er is ook geen personeelslid in een niet-normfunctie die onder leiding van een directeur belast is met directie werkzaamheden. Bovendien is er op school B maar 1 adjunct-directeur. De bovenschoolse directeur komt daarom in aanmerking voor een toelage van 200 gulden. De hoogte van de toelage is niet afhankelijk van de leerlingen aantallen van de scholen A en B.
 
 Op school B komt de adjunct-directeur tevens in aanmerking voor een toelage van 100 gulden.
+
+School C
 
 De hoofdregel is dat de hoogte van de toelage wordt vastgesteld aan de hand van de voor de persoon geldende maximumschaal. Voor de directeur van school C zijn op deze hoofdregel geen uitzonderingen van toepassing. De directeur ontvangt een toelage van 250 gulden. Aan deze school zijn geen andere personeelsleden werkzaam die recht hebben op een toelage.

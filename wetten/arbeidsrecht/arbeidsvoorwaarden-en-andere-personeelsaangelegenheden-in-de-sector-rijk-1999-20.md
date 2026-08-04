@@ -1,40 +1,17 @@
 ---
 title: "Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 1999-2000"
 identifier: "BWBR0010508"
-country: "nl"
-rank: "circulaire"
-publication_date: "1999-06-28"
-last_updated: "1999-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010508"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "6369873"
-version_id: "11032942"
-internal_id: "C15928301"
-label_id: "6359604"
-original_entry_into_force: "1999-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010508/1999-06-28/0"
-intitule_bron: "Stcrt.1999-120"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-06-08"
-intitule_published: "1999-06-28"
-intitule_in_force: "1999-06-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-120"
-original_signed_date: "1999-06-08"
-original_published_date: "1999-06-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1999-120-p10-SC19453"
-entry_into_force_date: "1999-06-28"
-jci_1_3: "jci1.3:c:BWBR0010508&z=1999-06-28&g=1999-06-28"
-jci_1_0: "1.0:c:BWBR0010508&g=1999-06-28"
-citeertitel_status: "redactioneel"
-signed_date: "1999-06-08"
-entry_into_force: "1999-06-28"
+publicatiedatum: 1999-06-28
+laatste_update: 1999-06-28
+status: geldig
+toestand: 1999-06-28
+bron: "https://wetten.overheid.nl/BWBR0010508"
+opgehaald: 2026-08-04
 ---
-# Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 1999-2000
 
-Circulaire aan de ministers
+# Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 1999-2000
 
 ### Inleiding/managementinformatie
 
@@ -102,6 +79,12 @@ In de vorige arbeidsvoorwaardenovereenkomst is aan departementen tijdelijk de mo
 
 In de huidige arbeidsvoorwaardenovereenkomst zijn de volgende afspraken gemaakt.
 
+- a. Op basis van een evaluatie (tegen de expiratiedatum van de bovengenoemde AMvB) van de proefprojecten Ikap zal het SOR besluiten of, en zo ja op welke wijze, Ikap in de gehele rijksdienst kan worden toegepast.
+
+- b. Departementen krijgen de mogelijkheid om in een proefproject Ikap de keuze voor het verkopen of kopen van verlof uit te breiden. De bovengenoemde AMvB zal daartoe worden aangepast. Indien een departement gebruik wil maken van deze verruiming, zal een desbetreffend voorstel ingediend moeten worden bij het SOR.
+
+- c. Departementen kunnen het A&O-fonds sector Rijk verzoeken faciliteiten beschikbaar te stellen voor ondersteuning bij organisatie-onderdelen die een Ikap-pilot willen uitvoeren.
+
 Ook is overeengekomen een regeling te ontwerpen die life-time sparen van verlofuren mogelijk maakt. Deze regeling dient te voldoen aan de [Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075) en aan de fiscale regelgeving ter zake.
 
 ### III. Ziektekosten (onderdeel 4 van de overeenkomst)
@@ -116,15 +99,21 @@ Met de besturen van de bestaande vrijwillige departementale collectieve ziekteko
 
 Ik zal u op de hoogte houden van de ontwikkelingen.
 
-### 2. [Besluit tegemoetkoming ziektekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006855) (Btzr)
+### 2. Besluit tegemoetkoming ziektekosten rijkspersoneel (Btzr)
 
 De Btzr-bijdrage wordt gehandhaafd op het niveau van 1999 tot het moment waarop de Btzr-bijdrage het niveau bereikt van het totaal van de helft van de MOOZ-bijdrage, de helft van de WTZ-bijdrage en 50% van het bedrag van de component ’polis’ van de particuliere ziektekostenpremie voor maatschappijpolis, zoals deze door het Centraal Plan Bureau wordt geraamd.
 
 Vervolgens wordt de Btzr-bijdrage jaarlijks vastgesteld op 50% van het totaal van de MOOZ-bijdrage, de WTZ-bijdrage en het bedrag van de component ’polis’ van de particuliere ziektekostenpremie voor maatschappijpolis, zoals deze door het Centraal Plan Bureau wordt geraamd.
 
-### 3. De [Regeling ziektekostenvoorziening rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008818) (Zvr)
+### 3. De Regeling ziektekostenvoorziening rijkspersoneel (Zvr)
 
 Per 1 januari 2000 worden de mogelijkheden om ziektekosten in aanmerking te brengen voor een tegemoetkoming op grond van de [Regeling ziektekostenvoorziening rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008818) beperkt tot:
+
+- a. de premie voor een ziektekostenverzekering, gebonden aan een maximum (voor personen van 65 jaar en ouder is het maximum gelijk aan de premie voor een Standaard Pakket Polis voor bejaarden, zoals deze ieder jaar opnieuw wordt vastgesteld; voor personen jonger dan 65 jaar is het maximum gelijk aan de particuliere ziektekostenpremie voor maatschappijpolis, zoals deze door het Centraal Plan Bureau wordt geraamd; voor kinderen is het maximum gelijk aan de helft van het door het Centraal Plan Bureau geraamde bedrag);
+
+- b. de wettelijke bijdragen MOOZ en WTZ;
+
+- c. de bedragen die betrokkene zelf betaalt omdat in de polisvoorwaarden voor zijn verzekering in het geheel niet is voorzien in een vergoeding, voor zover deze kosten voor vergoeding in aanmerking zouden komen, indien de betrokkene verzekerd zou zijn volgens de Standaard Pakket Polis (SPP).
 
 Ten overvloede merk ik op dat indien een ambtenaar wordt geconfronteerd met excessieve, te zijnen laste blijvende, kosten verband houdende met ziekte, hij een verzoek kan doen aan het bevoegd gezag om hierin een tegemoetkoming te ontvangen krachtens [artikel 47 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=47) (ARAR).
 
@@ -142,7 +131,7 @@ De departementen zullen het beleid ten aanzien van het behoud en doorstroom van 
 
 De departementen zullen in 2000 tenminste 150 additionele werkervaringsplaatsen creëren ten behoeve van langdurig werklozen en leerlingwerknemers. Voor de bekostiging kan door de departementen een beroep gedaan worden op middelen die beschikbaar komen via de [Wet Inschakeling Werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083), de Europese structuurfondsen en het A+O fonds Rijk.
 
-De departementen zullen een extra inspanning verrichten om – mede met behulp van de middelen die beschikbaar zijn via de [Wet reïntegratie arbeidsgehandicapten](onbekend) – het aandeel arbeidsgehandicapten substantieel te verhogen, op weg naar 5%.
+De departementen zullen een extra inspanning verrichten om – mede met behulp van de middelen die beschikbaar zijn via de Wet reïntegratie arbeidsgehandicapten – het aandeel arbeidsgehandicapten substantieel te verhogen, op weg naar 5%.
 
 Het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) draagt er jaarlijks zorg voor dat het SOR geïnformeerd wordt over de voortgang van het diversiteitsbeleid. De departementen zullen hiervoor de benodigde informatie aanleveren.
 
@@ -172,9 +161,21 @@ Er zullen activiteiten worden ontplooid om de beeldvorming over het werken bij d
 
 Werkdruk wordt gezien als serieus vraagstuk dat om een stevige aanpak vraagt. De ministeries worden opgeroepen om in overleg met de medezeggenschapsorganen maatregelen te treffen: maatregelen om de werkdruk te verminderen, indien daarvan sprake is, èn maatregelen om werkdruk te voorkomen. Dit gebeurt concreet door:
 
+- – overleg van het SOR met het ministerie van SZW over de opstelling van een intentieverklaring ter voorbereiding van een Arbo-convenant;
+
+- – onderzoek door het SOR naar ondersteuning door het A+O-fonds;
+
+- – het ter beschikking stellen van de door de Samenwerkende Centrales van Overheidspersoneel ontwikkelde werkdrukscan.
+
 De ministeries worden opgeroepen om elkaar en het SOR over de maatregelen te informeren, om de ondersteunende rol van het SOR verder inhoud te geven.
 
 De aanpak van werkdruk vereist maatwerk, per departement of departementsonderdeel. De rol van BZK bestaat uit:
+
+- – ondersteuning van de departementen waar nodig, zoals bij het organiseren van een conferentie over werkdruk;
+
+- – het coördineren van de inbreng in het SOR;
+
+- – het opstellen van de intentieverklaring ter voorbereiding van een Arbo-convenant ten behoeve van het SOR.
 
 Door een aantal departementen zijn al maatregelen genomen, vooral om werkdruk in kaart te brengen, maar ook ter voorkoming daarvan. Voorzover dat nog niet is gebeurd zal in overleg met medezeggenschapsorganen moeten worden geïnventariseerd waar zich te hoge werkdruk voordoet en wat de oorzaken daarvan zijn. Verder zullen zonodig maatregelen moeten worden getroffen om deze werkdruk te verminderen of te voorkomen, in het bijzonder bij reorganisatieprocessen.
 
@@ -198,6 +199,12 @@ Tevens kunnen de departementen een beroep doen op de per 1 januari 1999 beschikb
 
 Uit het evaluatieonderzoek naar de invoering van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) (WOR) bij de sector Rijk is gebleken dat deze invoering bevredigend is verlopen. Aan enkele gesignaleerde knelpunten zal aandacht worden besteed:
 
+- – er wordt een handleiding (incl. een interpretatie van [artikel 25 van de WOR](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=25)) opgesteld over de te volgen procedures en stappen bij veranderingsprocessen.
+
+- – het management dient de mogelijkheid te krijgen zich te scholen in de omgang met de medezeggenschapsorganen.
+
+- – het verdient aanbeveling om het aspect ’omgang met de OR’ in de functionerings- en beoordelingsgesprekken van bestuurders aan de orde te stellen.
+
 Al deze onderwerpen zullen in een afzonderlijke circulaire worden toegelicht. Voorts zal aandacht worden gegeven aan de kaders van de WOR ten opzichte van de positie van bestuurders en leden van ondernemingsraden. Tevens komt in bovengenoemde circulaire aan de orde het feitelijk functioneren van het decentrale overleg, waaronder de afbakening van taken en bevoegdheden van de ondernemingsraden, groepsondernemingsraden en het departementaal georganiseerd overleg (DGO). Over dit laatste onderwerp zal door het SOR een themadag worden georganiseerd.
 
 ### XI. Sociaal beleid (onderdeel 6.3.2. van de overeenkomst)
@@ -209,6 +216,10 @@ De tijdelijke voorziening ten aanzien van de inzet van kaderleden voor de begele
 ### XII. Versterking personele functie (onderdeel 6.4. van de overeenkomst)
 
 Een krachtig personeels- en lijnmanagement is wezenlijk voor het verbeteren van de slagvaardigheid en de kwaliteit van de rijksdienst in het algemeen en voor een effectieve uitvoering van de afspraken in deze overeenkomst in het bijzonder. Dit vergt de inzet van nieuwe instrumenten en vernieuwing van bestaande instrumenten. De volgende initiatieven worden ondernomen.
+
+- a. Door middel van het uitvoeren van kwaliteitsprojecten en het uitwisselen van ervaringen over het versterken van de personele functie zullen verdere stappen gezet worden op weg naar een transparant en coherent stelsel personeelsmanagement.
+
+- b. Het ministerie van BZK stelt op projectbasis een financiële bijdrage beschikbaar voor de uitvoering van kwaliteitsprojecten door de departementen.
 
 ### XIII. Zorg en arbeid (onderdeel 6.5 van de overeenkomst)
 
@@ -235,6 +246,10 @@ Het SOR acht het waarborgen van de integriteit van de rijksdienst van groot bela
 ### 1. Inzetbaarheid ouderen
 
 Ten einde de participatie van ouderen in het arbeidsproces te verhogen zijn de volgende afspraken gemaakt.
+
+- a. Het personeelsbeleid van de departementen gaat uit van het verbeteren van de inzetbaarheid van het personeel voor alle leeftijden. Bij het uitvoeren van dit beleid wordt rekening gehouden met de levensfase waarin de medewerker verkeert. Instrumenten daartoe zijn scholing, bevordering van mobiliteit en het maken van persoonlijke ontwikkelingsprofielen.
+
+- b. Door middel van een nieuw [artikel 57b in het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=57b) wordt het mogelijk gemaakt om een ambtenaar van 57 jaar en ouder op eigen verzoek een minder belastende functie te laten vervullen. De ambtenaar behoudt daarbij het voor hem geldende salaris en de voor hem geldende salarisschaal maar op zijn salaris wordt een inhouding toegepast. De inhouding is gelijk aan het verschil tussen het salaris dat de ambtenaar geniet en het salaris dat de ambtenaar zou genieten bij inpassing in de lagere schaal. De aan het salaris van de ambtenaar gerelateerde aanspraken (zoals vakantie-uitkering, eindejaarsuitkering) blijven op deze wijze in stand. Ook voor pensioenen en sociale zekerheid zijn er voor de ambtenaar geen nadelige consequenties.
 
 Het ministerie van BZK organiseert in samenwerking met het A+O en de departementen dit najaar een werkconferentie over het onderwerp ’leeftijd en personeelsbeleid’. Deze conferentie zal gericht zijn op het doen van concrete aanbevelingen op grond van de uitkomst van een gespreksronde langs departementen en van de conclusies in het IBO-rapport Arbeidsparticipatie van oudere werknemers bij de Rijksoverheid. Ter voorbereiding van de conferentie zal, onder voorzitterschap van het ministerie van BZK, een werkgroep worden gevormd met vertegenwoordigers van het A+O fonds, de departementen en de centrales.
 
@@ -300,6 +315,16 @@ Afzonderlijke departementen zullen de bevoegdheid krijgen nadere regels vast te 
 
 Hetzelfde geldt voor de aanspraken die op grond van [artikel 33e, tweede lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=33e) zijn neergelegd in eerdere circulaires. Het gaat hier om:
 
+- – de rondzendbrief van 5 oktober 1950 inzake buitengewoon verlof voor het bijwonen van kerkvergaderingen;
+
+- – de rondzendbrief van 17 november 1953 inzake buitengewoon verlof voor rijkspersoneelsleden noodwachters i.v.m. opleiding en oefening;
+
+- – de rondzendbrief van 2 februari 1960 inzake verloffaciliteiten voor rijkspersoneel dat een verbintenis heeft gesloten met het Nederlandse Rode Kruis;
+
+- – de rondzendbrief van 4 juli 1977 inzake buitengewoon verlof ten behoeve van adoptie;
+
+- – de circulaire van 10 maart 1982 inzake buitengewoon verlof ten behoeve van het jeugd- en jongerenwerk.
+
 ### 3. Inconveniëntenvergoedingen
 
 Een werkgroep van het SOR zal onderzoek doen naar mogelijke knelpunten in de inconveniëntenvergoedingen. De werkgroep bestaat uit vier vertegenwoordigers van de Samenwerkende Centrales van Overheidspersoneel en uit vier vertegenwoordigers van werkgeverszijde, waaronder de voorzitter. De werkgroep rapporteert vóór 1 januari 2000 aan het SOR. Het SOR besluit of en zo ja welke nieuwe inconveniëntenregelingen van kracht zullen worden.
@@ -318,22 +343,25 @@ Zodra de formalisering, voor zover dat noodzakelijk is, van de hiervoor vermelde
 
 Medewerkers van de afdelingen Personeelszaken van geadresseerden kunnen inlichtingen verkrijgen bij onderstaande personen over de desbetreffende onderwerpen:
 
+| Onderdeel | Onderwerp | Persoon en Emailadres | Telefoon |
+| --- | --- | --- | --- |
+| I | Salarissen/eju | A. MartensHalbe; Martens@minbzk.nl | 070-3026904 |
+| II | Individuele arbeids-voorwaarden individuele beloning IKAP | IKAP mw. C.E.M. van Niekerk; Lia.Niekerk@minbzk.nl en M.J. Reitsema; Marcus.Reitsema@minbzk.nl | 070-3027647; 070-3026185 |
+| III | Ziektekosten | mw. C.A. van Ogtrop; Chris.Ogtrop@minbzk.nl | 070-3026900 |
+| IV | Diversiteitsbeleid | G.H. Vlieger; Gerrit.Vlieger@minbzk.nl | 070-3027245 |
+| V | Traineeproject | A.W. Maas;Toon.Maas@minbzk.nl | 070-3027697 |
+| VI | Reïntegratie personen met wachtgeld | A.W.M. Buurman; Guus.Buurman@minbzk.nl | 070-3027664 |
+| VII | Arbeidsmarkt-communicatie | mw. M.F. Blommaert;Marleen.Blommaert@minbzk.nl | 070-3027247 |
+| VIII | Werkdruk | R.M.J. Voorthuis; Ronald.Voorthuis@minbzk.nl | 070-3027093 |
+| IX | Scholing | G.H. Vlieger; Gerrit.Vlieger@minbzk.nl | 070-3027245 |
+| X | Medezeggenschap | J.W. van Baarle; John.Baarle@minbzk.nl | 070-3027661 |
+| XI | Sociaal beleid | J.W. van Baarle; John.Baarle@minbzk.nl | 070-3027661 |
+| XII | Versterking personele functie | mw. M.F. Blommaert; Marleen.Blommaert@minbzk.nl | 070-3027247 |
+| XIII | Zorg en arbeid | G.H. Vlieger; Gerrit.Vlieger@minbzk.nl | 070-3027245 |
+| XIV | Mobiliteit | A. Postema; Jan.Postema@minbzk.nl | 070-3027025 |
+| XV | Integriteit | A. Verkooijen; Wim.Verkooijen@minbzk.nl | 070-3026609 |
+| XVI | Participatie ouderen | mw. C.E.M. van Niekerk; Lia.Niekerk@minbzk.nl en Mw. J. de Bruin; Joke.Bruin@minbzk.nl | 070-3027647; 070-3027665 |
+| XVII | Flexibiliteit en zekerheid | A.M.J. van Wijck; Arthur.Wijck@minbzk.nl en mw. J. de Bruin; Joke.Bruin@minbzk.nl | 070-3026853 en 070-3027665 |
+| XVIII | Deregulering | A.W.M. Buurman; Guus.Buurman@minbzk.nl | 070-3027664 |
+
 Bij geen gehoor kan contact worden opgenomen met het secretariaat van de afdeling Arbeidsvoorwaarden, telefoon 070-3026847 of 3027095 (emailadres: Marijke.Mangkoewihardjo@minbzk.nl).
-
-## Bijlage 1
-
-Bijlage ligt ter inzage bij het ministerie van Binnenlandse Zaken en Koninkrijksrelaties te Den Haag.
-
-## Bijlage 2
-
-Bijlage ligt ter inzage bij het ministerie van Binnenlandse Zaken en Koninkrijksrelaties te Den Haag.
-
-## Bijlage 3
-
-Bijlage ligt ter inzage bij het ministerie van Binnenlandse Zaken en Koninkrijksrelaties te Den Haag.
-
-## Bijlage 4
-
-Bijlage ligt ter inzage bij het ministerie van Binnenlandse Zaken en Koninkrijksrelaties te Den Haag.
-
-## Bijlage 5. Schalen van het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) per 1 augustus 1999

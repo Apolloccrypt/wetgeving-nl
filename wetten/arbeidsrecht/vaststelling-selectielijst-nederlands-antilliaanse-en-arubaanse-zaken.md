@@ -1,44 +1,17 @@
 ---
 title: "Vaststelling selectielijst Nederlands-Antilliaanse en Arubaanse Zaken"
 identifier: "BWBR0010017"
-country: "nl"
-rank: "archiefselectielijst"
-publication_date: "1999-02-04"
-last_updated: "1999-02-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010017"
+categorie: "Overig"
 soort: "ministeriele-regeling-archiefselectielijst"
-stam_id: "3648433"
-version_id: "5431462"
-internal_id: "C25308391"
-label_id: "3628344"
-dtd_version: "2.0"
-original_entry_into_force: "1999-02-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010017/1999-02-04/0"
-intitule_bron: "Stcrt.1999-22"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-11-20"
-intitule_published: "1999-02-02"
-intitule_in_force: "1999-02-02"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-22"
-original_signed_date: "1998-11-20"
-original_published_date: "1999-02-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-02-04"
-jci_1_3: "jci1.3:c:BWBR0010017&z=1999-02-04&g=1999-02-04"
-jci_1_0: "1.0:c:BWBR0010017&g=1999-02-04"
-citeertitel_status: "officieel"
-signed_date: "1998-11-20"
-entry_into_force: "1999-02-04"
+publicatiedatum: 1999-02-04
+laatste_update: 1999-02-04
+status: geldig
+toestand: 1999-02-04
+bron: "https://wetten.overheid.nl/BWBR0010017"
+opgehaald: 2026-08-04
 ---
+
 # Vaststelling selectielijst Nederlands-Antilliaanse en Arubaanse Zaken
-
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
-
-De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 3 juni 1997, nr. arc-97.932/2);
-
-Besluiten:
 
 ##### Artikel 1
 

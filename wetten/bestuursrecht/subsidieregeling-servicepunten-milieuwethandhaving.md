@@ -1,46 +1,51 @@
 ---
 title: "Subsidieregeling servicepunten milieuwethandhaving"
 identifier: "BWBR0010666"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-12-22"
-last_updated: "2009-12-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010666"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "4695783"
-version_id: "6512172"
-internal_id: "C6969561"
-label_id: "4674024"
-dtd_version: "2.0"
-original_entry_into_force: "1999-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010666/2009-12-22/0"
-intitule_bron: "Stcrt.1999-172"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-08-20"
-intitule_published: "1999-09-08"
-intitule_in_force: "1999-09-08"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-172"
-original_signed_date: "1999-08-20"
-original_published_date: "1999-09-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-11-01"
-jci_1_3: "jci1.3:c:BWBR0010666&z=2009-12-22&g=2009-12-22"
-jci_1_0: "1.0:c:BWBR0010666&g=2009-12-22"
-citeertitel_status: "officieel"
-signed_date: "1999-08-20"
-entry_into_force: "1999-11-01"
+publicatiedatum: 1999-11-01
+laatste_update: 2009-12-22
+status: geldig
+toestand: 2009-12-22
+bron: "https://wetten.overheid.nl/BWBR0010666"
+opgehaald: 2026-08-04
 ---
+
 # Subsidieregeling servicepunten milieuwethandhaving
-
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=6), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=10) en [13 van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=13);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+de minister:
+
+de Minister van Volkshisvesting, Ruimtelijke Ordening en Milieubeheer;
+
+b.
+
+beheerder:
+
+op grond van [artikel 3.2, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=3.2) aangewezen overheidslichaam;
+
+c.
+
+convenant:
+
+bestuursovereenkomst inzake de versterking van de milieuwethandhaving in een provincie waaraan in ieder geval wordt deelgenomen door het college van gedeputeerde staten van de desbetreffende provincie, de colleges van burgemeester en wethouders van ten minste vier vijfde van de gemeenten in de desbetreffende provincie, ten minste vier vijfde van de binnen de desbetreffende provincie werkzame beheerders en de minister;
+
+d.
+
+servicepunt:
+
+werkeenheid, bestaande uit daartoe aangewezen medewerkers, die ten minste tot taak heeft binnen een provincie of een deel daarvan ten behoeve van de milieuwethandhaving door de aan een convenant deelnemende partijen:
+
+- handhavingsprocessen te faciliteren;
+
+- informatieuitwisseling te faciliteren en te beheren;
+
+- te fungeren als kenniscentrum.
 
 ##### Artikel 2
 
@@ -54,7 +59,53 @@ Het subsidieplafond bedraagt voor het jaar 2004 € 2.260.000,– en voor het ja
 
 1. Het maximale subsidiebedrag bedraagt per provincie het volgende percentage van het subsidieplafond:
 
-Groningen: 5,00 Friesland: 7,50 Drenthe: 5,00 Overijssel: 7,50 Flevoland: 2,50 Gelderland: 14,06 Utrecht: 6,25 NoordHolland: 12,50 Zuid-Holland: 14,69 Zeeland: 5,00 NoordBrabant: 12,50 Limburg: 7,50
+Groningen:
+
+5,00
+
+Friesland:
+
+7,50
+
+Drenthe:
+
+5,00
+
+Overijssel:
+
+7,50
+
+Flevoland:
+
+2,50
+
+Gelderland:
+
+14,06
+
+Utrecht:
+
+6,25
+
+NoordHolland:
+
+12,50
+
+Zuid-Holland:
+
+14,69
+
+Zeeland:
+
+5,00
+
+NoordBrabant:
+
+12,50
+
+Limburg:
+
+7,50
 
 2. De subsidie aan een provincie kan niet meer bedragen dan het bedrag dat door de provincie, de gemeenten en de beheerders tezamen beschikbaar wordt gesteld voor het in stand houden van het servicepunt of de servicepunten in de desbetreffende provincie in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010666&artikel=2&z=2009-12-22&g=2009-12-22) genoemde periode.
 
@@ -83,5 +134,3 @@ Het jaarlijkse verslag, bedoeld in [artikel 13, eerste lid, van het Besluit mili
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Subsidieregeling servicepunten milieuwethandhaving.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

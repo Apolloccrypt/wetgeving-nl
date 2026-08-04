@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0052763"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van 25 juni 2026 tot wijziging van het Vuurwerkbesluit en het Besluit vervoer gevaarlijke stoffen in verband met de Wet veilige jaarwisseling (Besluit veilige jaarwisseling) [KetenID WGK028133]

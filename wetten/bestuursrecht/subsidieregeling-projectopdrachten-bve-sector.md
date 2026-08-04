@@ -1,97 +1,73 @@
 ---
 title: "Subsidieregeling projectopdrachten Bve-sector"
 identifier: "BWBR0010355"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-03-12"
-last_updated: "2013-03-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010355"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5702513"
-version_id: "10198622"
-internal_id: "C13774341"
-label_id: "5682904"
-original_entry_into_force: "1999-04-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010355/2013-03-12/0"
-intitule_bron: "Uitleg.1999-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-03-23"
-intitule_published: "1999-03-31"
-intitule_in_force: "1999-03-31"
-intitule_status: "goed"
-original_publication: "Uitleg.1999-10"
-original_signed_date: "1999-03-23"
-original_published_date: "1999-03-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-04-03"
-jci_1_3: "jci1.3:c:BWBR0010355&z=2013-03-12&g=2013-03-12"
-jci_1_0: "1.0:c:BWBR0010355&g=2013-03-12"
-citeertitel_status: "officieel"
-signed_date: "1999-03-23"
-entry_into_force: "1999-04-03"
+publicatiedatum: 1999-04-03
+laatste_update: 2013-03-12
+status: geldig
+toestand: 2013-03-12
+bron: "https://wetten.overheid.nl/BWBR0010355"
+opgehaald: 2026-08-04
 ---
+
 # Subsidieregeling projectopdrachten Bve-sector
-
-Gelet op [artikel 2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.7)
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
 ##### Artikel 1. Begripsbepalingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2. Doel
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3. Toepasselijke voorschriften Awb ( 4:58)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4. Begeleiding
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5. Voorafgaande toestemming rechtshandelingen
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 2. Subsidieverstrekking
 
 ##### Artikel 6. Boekjaar
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Subsidieverlening en voorwaarden
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8. Projectleider van het project
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9. Intellectuele eigendom
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10. Gegevens en resultaten van het project
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11. Publieke bekendheid projectopbrengst
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12. Gebruik van projectresultaten
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13. Overdracht van eigendom
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. Betaling
 
@@ -103,7 +79,7 @@ Vervallen
 
 ##### Artikel 15. Egalisatiereserve
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16. Vaststelling subsidie voor twee of meer boekjaren
 
@@ -115,11 +91,11 @@ Vervallen
 
 ##### Artikel 17. Uitgebreide accountantscontrole
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18. Vernietiging gegevens
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. Slotartikelen
 

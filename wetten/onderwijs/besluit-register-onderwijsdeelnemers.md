@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0042639"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van 27 september 2019, houdende nadere regels met betrekking tot de gegevens in het register onderwijsdeelnemers, alsmede over de levering van gegevens aan het register door onderwijsinstellingen en de verstrekking van gegevens uit het register aan derden (Besluit register onderwijsdeelnemers)

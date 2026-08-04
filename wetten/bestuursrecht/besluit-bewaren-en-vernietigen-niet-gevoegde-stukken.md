@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 15 december 1999, houdende regels ter uitvoering van de artikelen 126aa, tweede lid, en 126cc, vierde lid, van het Wetboek van Strafvordering (Besluit bewaren en vernietigen niet-gevoegde stukken)"
+citeertitel: "Besluit bewaren en vernietigen niet-gevoegde stukken"
 identifier: "BWBR0010975"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010975"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "1203343"
-version_id: "18759912"
-internal_id: "C26192031"
-label_id: "1165334"
-dtd_version: "2.0"
-original_entry_into_force: "2011-08-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010975/2017-01-01/0"
-intitule_bron: "Stb.1999-548"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-15"
-intitule_published: "1999-12-23"
-intitule_in_force: "2000-01-27"
-intitule_status: "goed"
-original_publication: "Stb.2011-380"
-original_signed_date: "2011-08-08"
-original_published_date: "2011-08-19"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2011-380"
-entry_into_force_date: "2011-08-08"
-jci_1_3: "jci1.3:c:BWBR0010975&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0010975&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit bewaren en vernietigen niet-gevoegde stukken"
-signed_date: "2011-08-08"
-entry_into_force: "2011-08-08"
+publicatiedatum: 2011-08-08
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0010975"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 15 december 1999, houdende regels ter uitvoering van de artikelen 126aa, tweede lid, en 126cc, vierde lid, van het Wetboek van Strafvordering (Besluit bewaren en vernietigen niet-gevoegde stukken)
-
-Op de voordracht van Onze Minister van Justitie van 16 juli 1999, nr. 777191/99/6;
-
-Gelet op de [artikelen 126aa, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126aa), en [126cc, vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126cc);
-
-De Raad van State gehoord (advies van 11 oktober 1999, nr. WO3.99.0423/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 9 december 1999, nr. 770087/99/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -90,6 +58,14 @@ In dit besluit wordt verstaan onder:
 
 4. In afwijking van het eerste lid kan de officier van justitie bij de uitoefening van de bevoegdheid tot het opnemen van telecommunicatie, bedoeld in de [artikelen 126m](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m), [126t](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126t) en [126zg van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zg), bevelen dat processen-verbaal en andere voorwerpen die naar het oordeel van de opsporingsambtenaar mededelingen, bedoeld in het eerste lid, bevatten, terstond worden vernietigd, voor zover zij deze mededelingen behelzen. Het generieke bevel tot vernietiging is schriftelijk. Van de vernietiging wordt proces-verbaal opgemaakt dat de nummers van de vernietigde gesprekken en de datum en het tijdstip van de communicatie en van de vernietiging daarvan bevat. Het proces-verbaal van vernietiging wordt aan de officier van justitie gezonden.
 
+##### Artikel 4a
+
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4&z=2017-01-01&g=2017-01-01) wordt, indien bij de uitoefening van de bevoegdheid tot het opnemen van telecommunicatie, bedoeld in de [artikelen 126m](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m), [126t](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126t) en [126zg van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zg), een nummer wordt herkend dat in overeenstemming met het tweede lid is aangemeld, het opnemen van de communicatie onmiddellijk beëindigd en worden uitsluitend de gegevens, bedoeld in [artikel 126n, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126n) verwerkt. Indien communicatie is opgenomen voordat het nummer is herkend, worden de voorwerpen die deze communicatie behelzen onmiddellijk langs geautomatiseerde weg vernietigd.
+
+2. Uitsluitend de in de bij dit besluit behorende bijlage aangewezen nummers kunnen door de orde langs geautomatiseerde weg worden aangemeld bij de door de korpschef aangewezen dienst van een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), ten behoeve van nummerherkenning. De aangemelde nummers worden vernietigd zodra deze niet meer nodig zijn voor dit doel.
+
+3. De korpschef legt gegevens vast over de raadpleging en de vernietiging van de door de orde ten behoeve van nummerherkenning aangemelde nummers. De vastgelegde gegevens worden drie jaar bewaard na de datum van de vastlegging, en vervolgens vernietigd.
+
 ##### Artikel 5
 
 1. Indien het proces-verbaal is opgeslagen op een afzonderlijke gegevensdrager, staat met de vernietiging van het proces-verbaal gelijk het op zodanige wijze bewerken van de gegevensdrager dat de gegevens die daaraan voor die bewerking konden worden ontleend, niet meer kenbaar zijn.
@@ -105,59 +81,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit bewaren en vernietigen niet-gevoegde stukken.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 4a
-
-1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4&z=2017-01-01&g=2017-01-01) wordt, indien bij de uitoefening van de bevoegdheid tot het opnemen van telecommunicatie, bedoeld in de [artikelen 126m](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m), [126t](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126t) en [126zg van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zg), een nummer wordt herkend dat in overeenstemming met het tweede lid is aangemeld, het opnemen van de communicatie onmiddellijk beëindigd en worden uitsluitend de gegevens, bedoeld in [artikel 126n, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126n) verwerkt. Indien communicatie is opgenomen voordat het nummer is herkend, worden de voorwerpen die deze communicatie behelzen onmiddellijk langs geautomatiseerde weg vernietigd.
-
-2. Uitsluitend de in de bij dit besluit behorende bijlage aangewezen nummers kunnen door de orde langs geautomatiseerde weg worden aangemeld bij de door de korpschef aangewezen dienst van een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), ten behoeve van nummerherkenning. De aangemelde nummers worden vernietigd zodra deze niet meer nodig zijn voor dit doel.
-
-3. De korpschef legt gegevens vast over de raadpleging en de vernietiging van de door de orde ten behoeve van nummerherkenning aangemelde nummers. De vastgelegde gegevens worden drie jaar bewaard na de datum van de vastlegging, en vervolgens vernietigd.
-
-## Bijlage. behorende bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4a&z=2017-01-01&g=2017-01-01) van het Besluit bewaren en vernietigen niet-gevoegde stukken
-
-- 1. In deze bijlage wordt verstaan onder:
-
-- a. **advocaat:** de natuurlijke persoon die als advocaat is ingeschreven op grond van [artikel 1, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=1), alsmede de advocaat bedoeld in [artikel 16h, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=16h);
-
-- b. **zakelijk gebruik:** de dienstverlening als advocaat;
-
-- c. **advocaat in dienstbetrekking:** de advocaat die de praktijk uitoefent in dienstbetrekking bij een werkgever als bedoeld in [artikel 3, eerste lid, onder b, e en f, alsmede het tweede lid van de verordening op de praktijkuitoefening in dienstbetrekking](https://wetten.overheid.nl/jci1.3:c:BWBR0007830&artikel=3);
-
-- d. **niet-geheimhouder:** een beroepsbeoefenaar voor wie geen verschoningsrecht of een van een verschoningsgerechtigde afgeleid verschoningsrecht geldt;
-
-- e. **bundelnummer:** het nummer dat op signaleringsniveau aan gesprekken via een uitgaande telefoonlijn wordt meegegeven en dat wordt bepaald in de telefooncentrale van het advocatenkantoor dan wel de nummercentrale van een aanbieder van een communicatiedienst.
-
-- 2. In deze bijlage worden als nummer, bedoeld in [artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4a&z=2017-01-01&g=2017-01-01), van het besluit, aangewezen de volgende nummers:
-
-- A. De orde kan namens een advocaat de volgende nummers opgeven:
-
-- a. het doorkiesnummer van zijn vaste telefoon;
-
-- b. het nummer van zijn mobiele telefoon;
-
-- c. het doorkiesnummer van het faxapparaat, dat alleen door de advocaat, andere geheimhouders of personen met een van hem afgeleid verschoningsrecht wordt gebruikt;
-
-- d. het doorkiesnummer van de secretaresse van de advocaat die een van hem afgeleid verschoningsrecht heeft;
-
-- e. het nummer van een vaste (afzonderlijke) telefoonaansluiting in het woonhuis van de advocaat, voorzover deze aansluiting alleen voor zakelijk gebruik is bestemd en wordt gebruikt, en de advocaat een andere (vaste) aansluiting heeft die voor privégebruik is bestemd en wordt gebruikt.
-
-- B. De orde kan namens een advocaat, niet zijnde een advocaat werkzaam op een kantoor met niet-geheimhouders of een advocaat in dienstbetrekking, aanvullend de volgende nummers opgeven:
-
-- a. het (vaste) algemene nummer(s) van zijn kantoor;
-
-- b. het algemene faxnummer van zijn kantoor;
-
-- c. het bundelnummer(s);
-
-- d. het doorkiesnummer van personen met een van hem afgeleid verschoningsrecht, te weten: paralegals, studentstagiaires en medewerkers van de financiële administratie.
-
-- C. De orde kan namens een advocaat werkzaam op een kantoor met niet-geheimhouders, niet zijnde een advocaat in dienstbetrekking, aanvullend de volgende nummers opgeven:
-
-- a. het doorkiesnummer van personen met een van hem afgeleid verschoningsrecht, te weten paralegals en studentstagiaires;
-
-- b. indien in de telefooncentrale scheiding tussen geheimhouders en niet-geheimhouders op het niveau van bundelnummers is gerealiseerd, het (IDSN)bundelnummer waar uitsluitend geheimhouders en personen met een afgeleid verschoningsrecht van gebruik maken.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

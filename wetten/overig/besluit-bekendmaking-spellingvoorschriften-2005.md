@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0019422"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 6 januari 2006, nr. WJZ/2006/288(8182), houdende bekendmaking van spellingregels en een lijst van woorden betreffende de schrijfwijze van de Nederlandse taal waartoe het Comité van Ministers op 25 april 2005 heeft beslist (Besluit bekendmaking spellingvoorschriften 2005)

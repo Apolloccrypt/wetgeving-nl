@@ -1,70 +1,38 @@
 ---
 title: "Wet van 8 juli 1999, houdende wijziging Wet Luchtverkeer (implementatie LVB-evaluatie)"
+citeertitel: "Wijzigingswet Wet Luchtverkeer (implementatie LVB-evaluatie)"
 identifier: "BWBR0010595"
-country: "nl"
-rank: "wet"
-publication_date: "2001-10-01"
-last_updated: "2001-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010595"
+categorie: "Verkeer"
 soort: "wet"
-stam_id: "1112763"
-version_id: "1645052"
-internal_id: "C1645051"
-label_id: "1078694"
-dtd_version: "2.0"
-original_entry_into_force: "1999-07-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010595/2001-10-01/0"
-intitule_bron: "Stb.1999-322"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-07-08"
-intitule_published: "1999-07-29"
-intitule_in_force: "1999-07-29"
-intitule_status: "goed"
-original_publication: "Stb.1999-322"
-original_signed_date: "1999-07-08"
-original_published_date: "1999-07-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "26287"
-original_url_id: "stb-1999-322"
-entry_into_force_date: "1999-07-30"
-entry_into_force_dossier: "26287"
-jci_1_3: "jci1.3:c:BWBR0010595&z=2001-10-01&g=2001-10-01"
-jci_1_0: "1.0:c:BWBR0010595&g=2001-10-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet Luchtverkeer (implementatie LVB-evaluatie)"
-signed_date: "1999-07-08"
-entry_into_force: "1999-07-30"
+publicatiedatum: 1999-07-30
+laatste_update: 2001-10-01
+status: geldig
+toestand: 2001-10-01
+bron: "https://wetten.overheid.nl/BWBR0010595"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 8 juli 1999, houdende wijziging Wet Luchtverkeer (implementatie LVB-evaluatie)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ter uitvoering van de Nota inzake het algemene beleidskader voor luchtverkeersbeveiliging (kamerstukken II 1997/98, 25 856, nr. 2) noodzakelijk is de bevoegdheden van Onze Minister van Verkeer en Waterstaat ten aanzien van de Luchtverkeersbeveiligingsorganisatie aan te scherpen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan gelijk Wij goedvinden en verstaan bij deze:
-
-Artikel II, onder A, werkt terug tot en met 1 januari 1999.
 
 ##### ARTIKEL I
 
-Vervallen.
+*Vervallen.*
 
 ##### Artikel II
 
-Wijzigt de Wet Luchtvaart.
+*Wijzigt de Wet Luchtvaart.*
 
 ##### Artikel III
 
-Wijzigt de Wet Luchtverkeer.
+*Wijzigt de Wet Luchtverkeer.*
 
 ##### Artikel IV
 
-Wijzigt de Wet Luchtverkeer.
+*Wijzigt de Wet Luchtverkeer.*
 
 ##### Artikel V
 
-Wijzigt de Wet Luchtverkeer.
+*Wijzigt de Wet Luchtverkeer.*
 
 ##### Artikel VI
 
@@ -82,7 +50,7 @@ Indien de [wijziging van de Wet Luchtverkeer (Stb. 1997, 255)](https://wetten.ov
 
 ##### Artikel IX
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel X
 
@@ -93,5 +61,3 @@ Wijzigt deze wet.
 1. Indien op het tijdstip van inwerkingtreding van deze wet de [wijziging van de Wet Luchtverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0008613) (Stb. 1997, 255) in werking is getreden, wordt op dat tijdstip in [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0010595&artikel=X&z=2001-10-01&g=2001-10-01) «[artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0010595&artikel=I&z=2001-10-01&g=2001-10-01)» vervangen door: [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010595&artikel=II&z=2001-10-01&g=2001-10-01).
 
 2. In geval van toepassing van het eerste lid komt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0010595&artikel=I&z=2001-10-01&g=2001-10-01) te vervallen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

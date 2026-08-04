@@ -1,39 +1,19 @@
 ---
 title: "Centrale examens profielen havo en vwo en oude stijl"
 identifier: "BWBR0010557"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1999-07-07"
-last_updated: "1999-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010557"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6510423"
-version_id: "11206942"
-internal_id: "C15137411"
-label_id: "6499524"
-original_entry_into_force: "1999-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010557/1999-07-07/0"
-intitule_bron: "Uitleg.1999-18a"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-06-28"
-intitule_published: "1999-07-07"
-intitule_in_force: "1999-07-07"
-intitule_status: "goed"
-original_publication: "Uitleg.1999-18a"
-original_signed_date: "1999-06-28"
-original_published_date: "1999-07-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-07-07"
-jci_1_3: "jci1.3:c:BWBR0010557&z=1999-07-07&g=1999-07-07"
-jci_1_0: "1.0:c:BWBR0010557&g=1999-07-07"
-citeertitel_status: "redactioneel"
-signed_date: "1999-06-28"
-entry_into_force: "1999-07-07"
+publicatiedatum: 1999-07-07
+laatste_update: 1999-07-07
+status: geldig
+toestand: 1999-07-07
+bron: "https://wetten.overheid.nl/BWBR0010557"
+opgehaald: 2026-08-04
 ---
+
 # Centrale examens profielen havo en vwo en oude stijl
 
-### 1. Correctie van de mededeling CEVO 99-050, [Regeling aanwijzing niet-c.e. examenstof havo 2000](onbekend)
+### 1. Correctie van de mededeling CEVO 99-050, Regeling aanwijzing niet-c.e. examenstof havo 2000
 
 Voor het vak Management en Organisatie is ten onrechte vermeld dat Financieel beleid in niet-commerciële organisaties een subdomein is van domein D. Dit moet zijn: domein E.
 
@@ -41,13 +21,23 @@ Voor het vak Management en Organisatie is ten onrechte vermeld dat Financieel be
 
 ### 2.1. Regeling
 
-De [regeling toegestane hulpmiddelen](onbekend), CEVO-97-767 van 12 december 1997 is geplaatst in Uitleg Gele Katern 98, 1 van 14 januari 1998. De bijlage bij deze regeling is gewijzigd en opnieuw geplaatst in Uitleg Gele Katern nr.12a van 29 april 1998. De lijsten die genoemd zijn in [artikel 3 van laatstgenoemde regeling](onbekend) zijn opgenomen in deze publicatie.
+De regeling toegestane hulpmiddelen, CEVO-97-767 van 12 december 1997 is geplaatst in Uitleg Gele Katern 98, 1 van 14 januari 1998. De bijlage bij deze regeling is gewijzigd en opnieuw geplaatst in Uitleg Gele Katern nr.12a van 29 april 1998. De lijsten die genoemd zijn in artikel 3 van laatstgenoemde regeling zijn opgenomen in deze publicatie.
 
 Als uitwerking van en toelichting bij deze regeling volgen hier nog enige gegevens
 
 ### 2.2. Grafische rekenmachines.
 
 De volgende merken en typen rekenmachine zijn aan de CEVO ter goedkeuring voorgelegd:
+
+- Texas Instruments83;
+
+- Texas Instruments83+;
+
+- Casio cfx 9850Gplus;
+
+- Hewlett Packard38G;
+
+- Sharp EL 9600.
 
 Deze machines zijn alle toegestaan, evenals iedere machine die minder kan (b.v. de TI82). De CEVO is voornemens voorlopig geen apparaten toe te staan die nog meer kunnen dan deze apparaten. Wel zijn apparaten van andere merken met vergelijkbare prestaties toegestaan.
 
@@ -71,13 +61,17 @@ Toegestaan is een eendelig woordenboek of een woordenlijst vreemde taal Nederlan
 
 Bij de havo examens is met ingang van2000 een atlas toegestaan en bij de vwo examens van2001. De laatste druk van de Bosatlas voldoet aan de specificaties van de CEVO. Voor de daarbij behorende basisstatistiek kan ook een eerdere uitgave worden gebruikt.
 
-**N.b.** Voor mavo en vbo C en D is een atlas niet toegestaan.
+*N.b.* Voor mavo en vbo C en D is een atlas niet toegestaan.
 
 ### 2.7. Informatieboek biologie
 
 Bij de havo-examens is met ingang van2000 het gebruik van een informatieboek toegestaan en bij de vwo-examens met ingang van2001. In 2000 wordt nog informatiemateriaal bij het vwo-examen verstrekt, zoals in 1999.
 
 Toegestaan als informatieboek zijn, met ingang van de genoemde jaren:
+
+- BINAS, 4e druk;
+
+- Bio-informatief,2e druk
 
 ### 3. Centrale examens havo oude stijl in 2001 en daarna.
 
@@ -88,6 +82,25 @@ Voor aardrijkskunde en voor de moderne vreemde talen zijn voor 2001 voor het eer
 De nadere besluiten komen er op neer dat, waar dat op grond van de examenprogramma’s mogelijk is, kandidaten oude stijl dezelfde opgaven op het centraal examen krijgen als kandidaten nieuwe stijl.
 
 Per vak is het percentage opgaven specifiek oude stijl als volgt:
+
+| vak | 2000 | 2001 |
+| --- | --- | --- |
+| Nederlands,tekst | 0 | 0 |
+| Fries, tekst | 0 | 0 |
+| Engels | 10 | 0 |
+| Frans | 10 | 0 |
+| Duits | 10 | 0 |
+| Spaans | 10 | 0 |
+| Russisch | 10 | 0 |
+| wiskunde A | 50 | 50 |
+| wiskunde B | 50 | 50 |
+| natuurkunde | 20 | 0 |
+| scheikunde | 20 | 20 |
+| biologie | 20 | 0 |
+| economie | 0 | 0 |
+| geschiedenis | 0 | 0 |
+| aardrijkskunde | 60 | 60 |
+| maatschappijleer | 0 | 0 |
 
 Bij de andere vakken is er alleen een centraal examen havo oude stijl (beeldende vakken, muziek, handelswetenschappen&recht) of alleen nieuwe stijl (deelvakken, management&organisatie, culturele en kunstzinnige vorming2, filosofie).
 
@@ -130,6 +143,14 @@ Het centraal examen oude stijl gaat vanaf2001 over de volledige c.e. stof van he
 ### 3.7. Aardrijkskunde
 
 In 2001 treden er geen veranderingen op in het voorgenomen specifieke productie oude stijl en nieuwe stijl. Het examen oude stijl en de overlap kunnen uit de volgende tabel worden afgelezen:
+
+| onderwerp |  | examen oude stijl | examen nieuwe stijl | overlap |
+| --- | --- | --- | --- | --- |
+| ● | Migratie en vervoer | 40% | 50% | 40% |
+| ● | Politiek en ruimte | – | 50% | - |
+| ● | Nederlandse landschap | 30% | – | - |
+| ● | Frankrijk | 30% | – | - |
+| Totaal |  | 100% | 100% | 40% |
 
 ### 4. Niet-c.e. onderwerpen v.w.o. in 2001
 

@@ -1,48 +1,27 @@
 ---
 title: "Regeling subsidie zoute veren"
 identifier: "BWBR0010237"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-06-01"
-last_updated: "2001-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010237"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4573273"
-version_id: "6389482"
-internal_id: "C6636381"
-label_id: "4551694"
-dtd_version: "2.0"
-original_entry_into_force: "1999-02-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010237/2001-06-01/0"
-intitule_bron: "Stcrt.1999-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-01-25"
-intitule_published: "1999-02-09"
-intitule_in_force: "1999-02-09"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-27"
-original_signed_date: "1999-01-25"
-original_published_date: "1999-02-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-02-11"
-jci_1_3: "jci1.3:c:BWBR0010237&z=2001-06-01&g=2001-06-01"
-jci_1_0: "1.0:c:BWBR0010237&g=2001-06-01"
-citeertitel_status: "officieel"
-signed_date: "1999-01-25"
-entry_into_force: "1999-02-11"
+publicatiedatum: 1999-02-11
+laatste_update: 2001-06-01
+status: geldig
+toestand: 2001-06-01
+bron: "https://wetten.overheid.nl/BWBR0010237"
+opgehaald: 2026-08-04
 ---
+
 # Regeling subsidie zoute veren
-
-Gelet op [artikel 3 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) (Stb. 1997, 724)
-
-Besluit:
 
 #### 1. Algemene bepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+de Minister:
+
+de Minister van Verkeer en Waterstaat.
 
 ##### Artikel 2
 

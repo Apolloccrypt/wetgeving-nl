@@ -1,45 +1,18 @@
 ---
 title: "Estse voorschriften tot uitvoering van het op 14 maart 1997 tussen Nederland en Estland gesloten Verdrag tot het vermijden van dubbele belasting"
+citeertitel: "Estse uitvoeringsvoorschriften belastingverdrag Nederland-Estland"
 identifier: "BWBR0010013"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-11-29"
-last_updated: "1998-11-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010013"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4274993"
-version_id: "6038592"
-internal_id: "C6241991"
-label_id: "4253564"
-dtd_version: "2.0"
-original_entry_into_force: "1998-11-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010013/1998-11-29/0"
-intitule_bron: "Stcrt.1998-228"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-11-19"
-intitule_published: "1998-11-27"
-intitule_in_force: "1998-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-228"
-original_signed_date: "1998-11-19"
-original_published_date: "1998-11-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-11-29"
-jci_1_3: "jci1.3:c:BWBR0010013&z=1998-11-29&g=1998-11-29"
-jci_1_0: "1.0:c:BWBR0010013&g=1998-11-29"
-citeertitel_status: "officieel"
-short_title: "Estse uitvoeringsvoorschriften belastingverdrag Nederland-Estland"
-signed_date: "1998-11-19"
-entry_into_force: "1998-11-29"
+publicatiedatum: 1998-11-29
+laatste_update: 1998-11-29
+status: geldig
+toestand: 1998-11-29
+bron: "https://wetten.overheid.nl/BWBR0010013"
+opgehaald: 2026-08-04
 ---
+
 # Estse voorschriften tot uitvoering van het op 14 maart 1997 tussen Nederland en Estland gesloten Verdrag tot het vermijden van dubbele belasting
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
-
-Regeling inzake vermindering en vrijstelling van Estse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 8 juli 1999 tot samenvoeging van de gemeenten Bergen, Egmond en Schoorl"
+citeertitel: "Wet tot samenvoeging van de gemeenten Bergen, Egmond en Schoorl"
 identifier: "BWBR0010593"
-country: "nl"
-rank: "wet"
-publication_date: "2000-01-02"
-last_updated: "2000-01-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010593"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "1117133"
-version_id: "1650982"
-internal_id: "C1650981"
-label_id: "1082934"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010593/2000-01-02/0"
-intitule_bron: "Stb.1999-317"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-07-08"
-intitule_published: "1999-07-29"
-intitule_in_force: "1999-08-31"
-intitule_status: "goed"
-original_publication: "Stb.1999-317"
-original_signed_date: "1999-07-08"
-original_published_date: "1999-07-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "26364"
-original_url_id: "stb-1999-317"
-entry_into_force_date: "2000-01-02"
-jci_1_3: "jci1.3:c:BWBR0010593&z=2000-01-02&g=2000-01-02"
-jci_1_0: "1.0:c:BWBR0010593&g=2000-01-02"
-citeertitel_status: "officieel"
-short_title: "Wet tot samenvoeging van de gemeenten Bergen, Egmond en Schoorl"
-signed_date: "1999-07-08"
-entry_into_force: "2000-01-02"
+publicatiedatum: 2000-01-02
+laatste_update: 2000-01-02
+status: geldig
+toestand: 2000-01-02
+bron: "https://wetten.overheid.nl/BWBR0010593"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 8 juli 1999 tot samenvoeging van de gemeenten Bergen, Egmond en Schoorl
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Bergen, Egmond en Schoorl samen te voegen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. Opheffing en instelling van gemeenten
 
@@ -85,16 +56,12 @@ Voor de op te heffen gemeenten Bergen, Egmond en Schoorl wordt de nieuwe gemeent
 
 ##### Artikel 7
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 8
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 9
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat niet eerder is gelegen dan 2 januari 2000.
-
-## Kaart. genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010593&paragraaf=1&artikel=2&z=2000-01-02&g=2000-01-02) van de wet van 8 juli 1999 tot samenvoeging van de gemeenten Bergen, Egmond en Schoorl
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

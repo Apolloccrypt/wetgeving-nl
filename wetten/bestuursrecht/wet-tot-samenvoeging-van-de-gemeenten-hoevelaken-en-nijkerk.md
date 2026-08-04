@@ -1,47 +1,18 @@
 ---
 title: "Wet van 8 juli 1999 tot samenvoeging van de gemeenten Hoevelaken en Nijkerk"
+citeertitel: "Wet tot samenvoeging van de gemeenten Hoevelaken en Nijkerk"
 identifier: "BWBR0010594"
-country: "nl"
-rank: "wet"
-publication_date: "1999-09-01"
-last_updated: "1999-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010594"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "1117383"
-version_id: "1651432"
-internal_id: "C1651431"
-label_id: "1083214"
-dtd_version: "2.0"
-original_entry_into_force: "1999-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010594/1999-09-01/0"
-intitule_bron: "Stb.1999-318"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-07-08"
-intitule_published: "1999-07-29"
-intitule_in_force: "1999-08-31"
-intitule_status: "goed"
-original_publication: "Stb.1999-318"
-original_signed_date: "1999-07-08"
-original_published_date: "1999-07-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "26366"
-original_url_id: "stb-1999-318"
-entry_into_force_date: "1999-09-01"
-jci_1_3: "jci1.3:c:BWBR0010594&z=1999-09-01&g=1999-09-01"
-jci_1_0: "1.0:c:BWBR0010594&g=1999-09-01"
-citeertitel_status: "officieel"
-short_title: "Wet tot samenvoeging van de gemeenten Hoevelaken en Nijkerk"
-signed_date: "1999-07-08"
-entry_into_force: "1999-09-01"
+publicatiedatum: 1999-09-01
+laatste_update: 1999-09-01
+status: geldig
+toestand: 1999-09-01
+bron: "https://wetten.overheid.nl/BWBR0010594"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 8 juli 1999 tot samenvoeging van de gemeenten Hoevelaken en Nijkerk
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Hoevelaken en Nijkerk samen te voegen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. Opheffing en instelling van gemeenten
 
@@ -81,16 +52,12 @@ Voor de op te heffen gemeenten Hoevelaken en Nijkerk wordt de nieuwe gemeente Ni
 
 ##### Artikel 7
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 8
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 9
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-## Kaart. genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010594&paragraaf=1&artikel=2&z=1999-09-01&g=1999-09-01) van de wet van 8 juli 1999 tot samenvoeging van de gemeenten Hoevelaken en Nijkerk
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

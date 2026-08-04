@@ -1,48 +1,22 @@
 ---
 title: "Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring"
+citeertitel: "Besluit aanmelding van collectieve arbeidsovereenkomsten en het verzoeken om algemeenverbindendverklaring"
 identifier: "BWBR0010051"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-12"
-last_updated: "2019-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010051"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "4272553"
-version_id: "22479472"
-internal_id: "C32260221"
-label_id: "4251354"
-dtd_version: "2.0"
-original_entry_into_force: "2015-06-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010051/2019-07-12/0"
-intitule_bron: "Stcrt.1998-240"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-12-02"
-intitule_published: "1998-12-15"
-intitule_in_force: "1998-12-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-17657"
-original_signed_date: "2015-06-22"
-original_published_date: "2015-06-30"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2015-17657"
-entry_into_force_date: "2015-06-22"
-jci_1_3: "jci1.3:c:BWBR0010051&z=2019-07-12&g=2019-07-12"
-jci_1_0: "1.0:c:BWBR0010051&g=2019-07-12"
-citeertitel_status: "officieel"
-short_title: "Besluit aanmelding van collectieve arbeidsovereenkomsten en het verzoeken om algemeenverbindendverklaring"
-signed_date: "2015-06-22"
-entry_into_force: "2015-06-22"
+publicatiedatum: 2015-06-22
+laatste_update: 2019-07-12
+status: geldig
+toestand: 2019-07-12
+bron: "https://wetten.overheid.nl/BWBR0010051"
+opgehaald: 2026-08-04
 ---
+
 # Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring
-
-Gelet op de [artikelen 4, tweede lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4) en 14 van de [Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698);
-
-Besluit:
 
 #### § 1. Aanmelding van collectieve arbeidsovereenkomsten
 
-#### Inhoud van de mededeling
+##### Inhoud van de mededeling
 
 ##### Artikel 1:1
 
@@ -60,7 +34,7 @@ Besluit:
 
 - c. het aantal werknemers dat onder de werkingssfeer van de collectieve arbeidsovereenkomst valt, met inbegrip van de werknemers, bedoeld in [artikel 14 van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=14).
 
-#### Bijlagen bij de mededeling
+##### Bijlagen bij de mededeling
 
 ##### Artikel 1:2
 
@@ -90,7 +64,7 @@ Besluit:
 
 #### § 2. Verzoek tot algemeenverbindendverklaring van bepalingen van collectieve arbeidsovereenkomsten
 
-#### Inhoud van het verzoek
+##### Inhoud van het verzoek
 
 ##### Artikel 2:1
 
@@ -102,7 +76,7 @@ Besluit:
 
 - b. voor zover van toepassing, welke arbeidsverhoudingen van het verzoek moeten worden uitgezonderd.
 
-#### Bijlagen bij het verzoek
+##### Bijlagen bij het verzoek
 
 ##### Artikel 2:2
 
@@ -112,21 +86,21 @@ Besluit:
 
 - b. een opgave van:
 
-- 1°. het aantal werkgevers dat lid is van een werkgeversvereniging die partij is bij de collectieve arbeidsovereenkomst en onderscheidenlijk het aantal werkgevers dat naar de aard van de bedrijfsactiviteiten en de werkzaamheden tot de werkingssfeer van de collectieve arbeidsovereenkomst kan worden gerekend; en
+   - 1°. het aantal werkgevers dat lid is van een werkgeversvereniging die partij is bij de collectieve arbeidsovereenkomst en onderscheidenlijk het aantal werkgevers dat naar de aard van de bedrijfsactiviteiten en de werkzaamheden tot de werkingssfeer van de collectieve arbeidsovereenkomst kan worden gerekend; en
 
-- 2°. het aantal personen werkzaam bij werkgevers die lid zijn van een werkgeversvereniging die partij is bij deze collectieve arbeidsovereenkomst en onderscheidenlijk het aantal personen werkzaam bij werkgevers die naar de aard van de bedrijfsactiviteiten en de werkzaamheden tot de werkingssfeer van de collectieve arbeidsovereenkomst gerekend kunnen worden.
+   - 2°. het aantal personen werkzaam bij werkgevers die lid zijn van een werkgeversvereniging die partij is bij deze collectieve arbeidsovereenkomst en onderscheidenlijk het aantal personen werkzaam bij werkgevers die naar de aard van de bedrijfsactiviteiten en de werkzaamheden tot de werkingssfeer van de collectieve arbeidsovereenkomst gerekend kunnen worden.
 
 - c. een toelichting op de wijze van de verzameling van de representativiteitsgegevens, die in ieder geval het volgende bevat:
 
-- 1°. een opgave van de gebruikte bronnen voor de aantallen werkgevers en personen zoals genoemd onder onderdeel b, onder 1 en 2;
+   - 1°. een opgave van de gebruikte bronnen voor de aantallen werkgevers en personen zoals genoemd onder onderdeel b, onder 1 en 2;
 
-- 2°. een opgave van de gehanteerde onderzoeksmethode;
+   - 2°. een opgave van de gehanteerde onderzoeksmethode;
 
-- 3°. een opgave van de wijze van meting;
+   - 3°. een opgave van de wijze van meting;
 
-- 4°. een opgave van de peildatum of de periode waarop de cijfers betrekking hebben;
+   - 4°. een opgave van de peildatum of de periode waarop de cijfers betrekking hebben;
 
-- 5°. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van de collectieve arbeidsovereenkomst. Daarbij dient ook duidelijk te zijn dat in de werkingssfeer van de collectieve arbeidsovereenkomst uitgesloten categorieën personen in de tellingen buiten beschouwing zijn gelaten.
+   - 5°. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van de collectieve arbeidsovereenkomst. Daarbij dient ook duidelijk te zijn dat in de werkingssfeer van de collectieve arbeidsovereenkomst uitgesloten categorieën personen in de tellingen buiten beschouwing zijn gelaten.
 
 2. De brongegevens met betrekking tot de representativiteit, bedoeld in het eerste lid, onderdelen b en c, die zijn gevoegd bij het verzoek, bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2019-07-12&g=2019-07-12), worden door de indieners van het verzoek tot algemeenverbindendverklaring bewaard teneinde deze te kunnen gebruiken voor een onderzoek door de Minister van Sociale Zaken en Werkgelegenheid naar de kwaliteit van deze gegevens. Deze gegevens worden desgevraagd beschikbaar gesteld.
 
@@ -148,35 +122,15 @@ In afwijking van [artikel 2:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 - c. de digitale tekst, bedoeld in onderdeel a, omvat tevens de integrale tekst van de werkingssfeerbepaling of werkingssfeerbepalingen, indien sprake is van een collectieve arbeidsovereenkomst:
 
-- 1°. waarin tevens fondsbepalingen zijn opgenomen die voor een langer tijdvak algemeen verbindend zijn verklaard dan de overige bepalingen en het verzoek betrekking heeft op die overige bepalingen vanwege het verstrijken van de duur ervan; en
+   - 1°. waarin tevens fondsbepalingen zijn opgenomen die voor een langer tijdvak algemeen verbindend zijn verklaard dan de overige bepalingen en het verzoek betrekking heeft op die overige bepalingen vanwege het verstrijken van de duur ervan; en
 
-- 2°. die ingevolge [artikel 19 van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=19) is verlengd en het verzoek betrekking heeft op een wijziging van een in duur verlengd besluit tot algemeenverbindendverklaring als bedoeld in [artikel 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2b&artikel=2:9&z=2019-07-12&g=2019-07-12).
+   - 2°. die ingevolge [artikel 19 van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=19) is verlengd en het verzoek betrekking heeft op een wijziging van een in duur verlengd besluit tot algemeenverbindendverklaring als bedoeld in [artikel 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2b&artikel=2:9&z=2019-07-12&g=2019-07-12).
 
 ##### Artikel 2:6
 
 Een verzoek als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2019-07-12&g=2019-07-12) wordt eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in de [artikelen 2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2019-07-12&g=2019-07-12) en [2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:4&z=2019-07-12&g=2019-07-12); bij het verzoek zijn gevoegd.
 
 #### § 2a. Dispensatie van algemeen verbindend verklaarde bepalingen van collectieve arbeidsovereenkomsten
-
-##### Artikel 3:1
-
-De Minister van Sociale Zaken en Werkgelegenheid draagt zorg voor de noodzakelijke elektronische infrastructuur waarmee alle mededelingen en verzoeken als bedoeld in dit besluit betrouwbaar en vertrouwelijk kunnen worden verzonden. Bij de verzending wordt gebruik gemaakt van door de Minister van Sociale Zaken en Werkgelegenheid ter beschikking gestelde elektronische formulieren en een door hem erkende methode van authenticatie.
-
-#### § 4. Slotbepalingen
-
-#### Inwerkingtreding
-
-##### Artikel 4:1
-
-Vervallen
-
-#### Citeertitel
-
-##### Artikel 4:2
-
-Deze regeling wordt aangehaald als: Besluit aanmelding van collectieve arbeidsovereenkomsten en het verzoeken om algemeen verbindend verklaring.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2:7
 
@@ -198,38 +152,6 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 #### § 2b. Verzoek tot ongewijzigde verlenging van de algemeenverbindendverklaring
 
-#### § 3. Elektronische communicatie
-
-#### Inwerkingtreding
-
-#### Inwerkingtreding
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 1
-
-Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid en is gepubliceerd op cao.szw.nl.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-#### § 4. **Elektronische indiening verzoek tot algemeen verbindend verklaring**
-
-##### Artikel 5:1
-
-Deze regeling treedt in werking met ingang van 1 januari 1999.
-
-#### Inwerkingtreding
-
-##### Artikel 5:2
-
-Deze regeling wordt aangehaald als: Besluit aanmelding van collectieve arbeidsovereenkomsten en het verzoeken om algemeenverbindendverklaring.
-
-## Bijlage 1
-
-Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid en is gepubliceerd op cao.szw.nl.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 2:9
 
 1. Een verzoek om eenmalige verlenging van de duur van een besluit tot algemeenverbindendverklaring van bepalingen van een collectieve arbeidsovereenkomst dat eindigt direct voorafgaand aan het tijdstip waarop de stilzwijgende verlenging van die collectieve arbeidsovereenkomst ingaat, wordt uiterlijk een maand voorafgaand aan dat tijdstip ingediend. Dit verzoek en alle daaropvolgende communicatie geschiedt uitsluitend langs elektronische weg, tenzij naar het oordeel van de Minister van Sociale Zaken en Werkgelegenheid sprake is van omstandigheden die zich daartegen verzetten.
@@ -240,34 +162,28 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 4. Van de indiening van het verzoek, bedoeld in het eerste lid, wordt mededeling gedaan in de Staatscourant. Tegen het verzoek ingediende bedenkingen worden niet gehonoreerd. Verzoeken om dispensatie van een besluit tot verlenging van een besluit tot algemeenverbindendverklaring worden niet gehonoreerd.
 
-##### Artikel 3:2
+#### § 3. Elektronische communicatie
 
-1. Indien het verzoek, bedoeld in [artikel 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2b&artikel=2:9&z=2015-07-01&g=2015-07-01), elektronisch wordt verzonden, wordt daarbij gebruik gemaakt van een speciaal daarvoor bestemd e-mailadres.
+##### Artikel 3:1
 
-2. Indien het verzoek, bedoeld in [artikel 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2b&artikel=2:9&z=2015-07-01&g=2015-07-01), elektronisch wordt verzonden, wordt een verzoek tot tussentijdse wijziging van bepalingen van dat verlengde besluit tot algemeen verbindend verklaring eveneens elektronisch verzonden.
+De Minister van Sociale Zaken en Werkgelegenheid draagt zorg voor de noodzakelijke elektronische infrastructuur waarmee alle mededelingen en verzoeken als bedoeld in dit besluit betrouwbaar en vertrouwelijk kunnen worden verzonden. Bij de verzending wordt gebruik gemaakt van door de Minister van Sociale Zaken en Werkgelegenheid ter beschikking gestelde elektronische formulieren en een door hem erkende methode van authenticatie.
 
-3. De Minister van Sociale Zaken en Werkgelegenheid zorgt voor de noodzakelijke elektronische infrastructuur met behulp waarvan de verzoeken, bedoeld in [artikel 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2b&artikel=2:9&z=2015-07-01&g=2015-07-01), betrouwbaar en vertrouwelijk kunnen worden verzonden.
+#### § 4. Elektronische indiening verzoek tot algemeen verbindend verklaring
 
-#### § 4. **Elektronische indiening verzoek tot algemeen verbindend verklaring**
+##### Artikel 4:1
 
-#### § 5. Slotbepalingen
-
-#### Inwerkingtreding
-
-#### Citeertitel
-
-## Bijlage 1
-
-Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid en is gepubliceerd op cao.szw.nl.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+*Vervallen*
 
 #### § 5. Slotbepalingen
 
-#### Citeertitel
+##### Inwerkingtreding
 
-## Bijlage 1
+##### Artikel 5:1
 
-Vervallen
+Deze regeling treedt in werking met ingang van 1 januari 1999.
 
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+##### Citeertitel
+
+##### Artikel 5:2
+
+Deze regeling wordt aangehaald als: Besluit aanmelding van collectieve arbeidsovereenkomsten en het verzoeken om algemeenverbindendverklaring.

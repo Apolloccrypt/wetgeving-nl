@@ -1,71 +1,42 @@
 ---
 title: "Wet van 1 oktober 1998 tot wijziging van het Wetboek van Strafvordering, de Uitleveringswet, de Wet economische delicten en de Wet overdracht tenuitvoerlegging strafvonnissen betreffende de bepalingen aangaande de procedure in cassatie in strafzaken, herzieningszaken, uitleveringszaken en zaken in het kader van de Wet overdracht tenuitvoerlegging strafvonnissen"
+citeertitel: "Wijzigingswet Wetboek van Strafvordering, Uitleveringswet enz. (bepalingen procedure in cassatie in strafzaken, herzieningszaken, uitleveringszaken en zaken in het kader van de Wet overdracht tenuitvoerlegging strafvonnissen)"
 identifier: "BWBR0009929"
-country: "nl"
-rank: "wet"
-publication_date: "1999-06-01"
-last_updated: "1999-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009929"
+categorie: "Strafrecht"
 soort: "wet"
-stam_id: "925783"
-version_id: "1355122"
-internal_id: "C1355121"
-label_id: "897634"
-dtd_version: "2.0"
-original_entry_into_force: "1999-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009929/1999-06-01/0"
-intitule_bron: "Stb.1998-591"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-10-01"
-intitule_published: "1998-10-15"
-intitule_in_force: "1999-02-16"
-intitule_status: "goed"
-original_publication: "Stb.1998-591"
-original_signed_date: "1998-10-01"
-original_published_date: "1998-10-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "25240"
-original_url_id: "stb-1998-591"
-entry_into_force_date: "1999-06-01"
-jci_1_3: "jci1.3:c:BWBR0009929&z=1999-06-01&g=1999-06-01"
-jci_1_0: "1.0:c:BWBR0009929&g=1999-06-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wetboek van Strafvordering, Uitleveringswet enz. (bepalingen procedure in cassatie in strafzaken, herzieningszaken, uitleveringszaken en zaken in het kader van de Wet overdracht tenuitvoerlegging strafvonnissen)"
-signed_date: "1998-10-01"
-entry_into_force: "1999-06-01"
+publicatiedatum: 1999-06-01
+laatste_update: 1999-06-01
+status: geldig
+toestand: 1999-06-01
+bron: "https://wetten.overheid.nl/BWBR0009929"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 1 oktober 1998 tot wijziging van het Wetboek van Strafvordering, de Uitleveringswet, de Wet economische delicten en de Wet overdracht tenuitvoerlegging strafvonnissen betreffende de bepalingen aangaande de procedure in cassatie in strafzaken, herzieningszaken, uitleveringszaken en zaken in het kader van de Wet overdracht tenuitvoerlegging strafvonnissen
-
-Allen, die deze zullen zien of horen lezen saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de cassatieprocedure in strafzaken, herzieningszaken, uitleveringszaken en zaken in het kader van de [Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028) op enkele punten te wijzigen in het belang van een doelmatige rechtspleging;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### ARTIKEL I
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### ARTIKEL II
 
-Wijzigt de Uitleveringswet.
+*Wijzigt de Uitleveringswet.*
 
 ##### ARTIKEL III
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### ARTIKEL IV
 
-Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.
+*Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.*
 
 ##### ARTIKEL V
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### ARTIKEL VI
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### ARTIKEL VII
 
@@ -90,5 +61,3 @@ Wijzigt deze wet.
 ##### ARTIKEL XII
 
 Deze wet treedt in werking op een nader bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

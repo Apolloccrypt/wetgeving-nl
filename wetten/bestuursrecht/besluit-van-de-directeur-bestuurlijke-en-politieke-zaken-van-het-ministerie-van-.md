@@ -9,7 +9,7 @@ laatste_update: 2026-07-31
 status: geldig
 toestand: 2026-07-31
 bron: "https://wetten.overheid.nl/BWBR0052918"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van de directeur Bestuurlijke en Politieke Zaken van het Ministerie van Economische Zaken en Klimaat van 7 juni 2026, nr. BPZ / 106470366, tot verlening van ondermandaat, volmacht en machtiging voor de directie Bestuurlijke en Politieke Zaken van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de directie Bestuurlijke en Politieke Zaken van het Ministerie van Economische Zaken en Klimaat 2026)

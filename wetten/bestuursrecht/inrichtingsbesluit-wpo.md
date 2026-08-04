@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0046350"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van 18 februari 2022, houdende onder meer nadere regels over de inrichting van het onderwijs aan scholen in het primair onderwijs (Inrichtingsbesluit WPO)

@@ -1,106 +1,74 @@
 ---
 title: "Wet van 22 december 1999, houdende wijziging van belastingwetten c.a. (belastingplan 2000)"
+citeertitel: "Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 2000)"
 identifier: "BWBR0011029"
-country: "nl"
-rank: "wet"
-publication_date: "2001-12-29"
-last_updated: "2001-12-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011029"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "2828943"
-version_id: "4353722"
-internal_id: "C4353721"
-label_id: "2778244"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011029/2001-12-29/0"
-intitule_bron: "Stb.1999-579"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-22"
-intitule_published: "1999-12-28"
-intitule_in_force: "1999-12-28"
-intitule_status: "goed"
-original_publication: "Stb.1999-579"
-original_signed_date: "1999-12-22"
-original_published_date: "1999-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "26820"
-original_url_id: "stb-1999-579"
-entry_into_force_date: "2000-01-01"
-entry_into_force_dossier: "26820"
-jci_1_3: "jci1.3:c:BWBR0011029&z=2001-12-29&g=2001-12-29"
-jci_1_0: "1.0:c:BWBR0011029&g=2001-12-29"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 2000)"
-signed_date: "1999-12-22"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2001-12-29
+status: geldig
+toestand: 2001-12-29
+bron: "https://wetten.overheid.nl/BWBR0011029"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 22 december 1999, houdende wijziging van belastingwetten c.a. (belastingplan 2000)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het belastingplan 2000 wenselijk is maatregelen te treffen op het gebied van het werkgelegenheidsbeleid en inkomensbeleid, een bijdrage te leveren aan een verdere vergroening van het fiscale stelsel, en in samenhang daarmee maatregelen te nemen in het kader van auto en vervoer, met name ter bevordering van milieuvriendelijke vervoersmodaliteiten en voorts enige andere belastingmaatregelen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Artikel XI, onder A, werkt terug tot en met 12 november 1999, 18.00 uur. Artikel XVIII werkt terug tot en met 1 januari 1999.
 
 ##### Artikel I
 
-Wijzigt de Wet op de inkomstenbelasting 1964.
+*Wijzigt de Wet op de inkomstenbelasting 1964.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel III
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel IV
 
-Wijzigt de Coördinatiewet Sociale Verzekering.
+*Wijzigt de Coördinatiewet Sociale Verzekering.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de vermogensbelasting 1964.
+*Wijzigt de Wet op de vermogensbelasting 1964.*
 
 ##### Artikel VII
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XI
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel XII
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XIII
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet van 23 februari 1983, houdende intrekking van de vrijstelling van motorrijtuigenbelasting wegens invaliditeit (Stb. 94).
+*Wijzigt de Wet van 23 februari 1983, houdende intrekking van de vrijstelling van motorrijtuigenbelasting wegens invaliditeit (Stb. 94).*
 
 ##### Artikel XV
 
@@ -140,13 +108,13 @@ Tn voorstelt: de verschuldigde belasting over het belastbare bedrag of het binne
 
 ##### Artikel XXI
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XXII
 
-1. Indien het door de Commissie van de Europese Gemeenschappen op 15 maart 1999 ingediende voorstel voor een Richtlijn van de Raad tot wijziging van [Richtlijn 77/388/EEG](31977L0388) wat de mogelijkheid betreft, bij wijze van experiment, op zeer arbeidsintensieve diensten een verlaagd BTW-tarief toe te passen (PbEG van 13 april 1999, nr. C102), al dan niet in gewijzigde vorm, door de Raad van de Europese Unie als richtlijn is vastgesteld, brengt Onze Minister van Financiën bij ministeriële regeling een wijziging aan in de bij de [Wet op de omzetbelasting 1968 behorende tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), nadat dat ingevolge genoemde [Richtlijn 77/388/EEG](31977L0388) is toegestaan.
+1. Indien het door de Commissie van de Europese Gemeenschappen op 15 maart 1999 ingediende voorstel voor een Richtlijn van de Raad tot wijziging van Richtlijn 77/388/EEG wat de mogelijkheid betreft, bij wijze van experiment, op zeer arbeidsintensieve diensten een verlaagd BTW-tarief toe te passen (PbEG van 13 april 1999, nr. C102), al dan niet in gewijzigde vorm, door de Raad van de Europese Unie als richtlijn is vastgesteld, brengt Onze Minister van Financiën bij ministeriële regeling een wijziging aan in de bij de [Wet op de omzetbelasting 1968 behorende tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), nadat dat ingevolge genoemde Richtlijn 77/388/EEG is toegestaan.
 
-2. De in het eerste lid bedoelde wijziging houdt in dat in genoemde [tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), een aantal diensten als bedoeld in [artikel 4, eerste lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=4) die zeer arbeidsintensief zijn, wordt opgenomen voor de tijdsduur waarvoor dat ingevolge de in het eerste lid genoemde [Richtlijn 77/388/EEG](31977L0388) is toegestaan.
+2. De in het eerste lid bedoelde wijziging houdt in dat in genoemde [tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), een aantal diensten als bedoeld in [artikel 4, eerste lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=4) die zeer arbeidsintensief zijn, wordt opgenomen voor de tijdsduur waarvoor dat ingevolge de in het eerste lid genoemde Richtlijn 77/388/EEG is toegestaan.
 
 ##### Artikel XXIII
 
@@ -162,15 +130,15 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XXV
 
-Wijzigt de Kaderwet SZW-subsidies.
+*Wijzigt de Kaderwet SZW-subsidies.*
 
 ##### Artikel XXVI
 
-Wijzigt de Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (technische aanpassingen 1999).
+*Wijzigt de Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (technische aanpassingen 1999).*
 
 ##### Artikel XXVII
 
-Wijzigt de Wijzigingswet Wet belastingen op milieugrondslag, enz. (bevorderen van energiezuinig en milieuvriendelijk gedrag).
+*Wijzigt de Wijzigingswet Wet belastingen op milieugrondslag, enz. (bevorderen van energiezuinig en milieuvriendelijk gedrag).*
 
 ##### Artikel XXVIII
 
@@ -191,5 +159,3 @@ Wijzigt de Wijzigingswet Wet belastingen op milieugrondslag, enz. (bevorderen va
 8. In afwijking van het eerste lid werkt [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011029&artikel=XVIII&z=2001-12-29&g=2001-12-29) terug tot en met 1 januari 1999.
 
 9. In afwijking van het eerste lid treden [artikel I, onderdeel B en onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0011029&artikel=I&z=2001-12-29&g=2001-12-29), [artikel V, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0011029&artikel=V&z=2001-12-29&g=2001-12-29), en artikel XXIV in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

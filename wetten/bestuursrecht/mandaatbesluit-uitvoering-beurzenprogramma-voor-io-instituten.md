@@ -1,44 +1,39 @@
 ---
 title: "Mandaatbesluit uitvoering Beurzenprogramma voor IO-instituten"
 identifier: "BWBR0011002"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-01-12"
-last_updated: "2000-01-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011002"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3547113"
-version_id: "5330202"
-internal_id: "C20069491"
-label_id: "3527084"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011002/2000-01-12/0"
-intitule_bron: "Stcrt.2000-6"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-20"
-intitule_published: "2000-01-10"
-intitule_in_force: "2000-01-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-6"
-original_signed_date: "1999-12-20"
-original_published_date: "2000-01-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-01-12"
-jci_1_3: "jci1.3:c:BWBR0011002&z=2000-01-12&g=2000-01-12"
-jci_1_0: "1.0:c:BWBR0011002&g=2000-01-12"
-citeertitel_status: "officieel"
-signed_date: "1999-12-20"
-entry_into_force: "2000-01-12"
+publicatiedatum: 2000-01-12
+laatste_update: 2000-01-12
+status: geldig
+toestand: 2000-01-12
+bron: "https://wetten.overheid.nl/BWBR0011002"
+opgehaald: 2026-08-04
 ---
-# Mandaatbesluit uitvoering Beurzenprogramma voor IO-instituten
 
-Besluit
+# Mandaatbesluit uitvoering Beurzenprogramma voor IO-instituten
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+a.
+
+de Minister:
+
+De Minister voor Ontwikkelingssamenwerking;
+
+b.
+
+het BIO:
+
+het Beurzenprogramma voor IO-instituten, bedoeld in het besluit van de Minister voor Ontwikkelingssamenwerking van 20 december 1999, nr [DCO/OO-701/99](https://wetten.overheid.nl/jci1.3:c:BWBR0011003)1;
+
+c.
+
+FION:
+
+De Federatie van Internationaal Onderwijsinstellingen in Nederland.
 
 ##### Artikel 2
 
@@ -59,5 +54,3 @@ De Vice-Voorzitter van de FION
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het geplaatst wordt.
-
-Dit besluit zal in de Staatscourant geplaatst worden.

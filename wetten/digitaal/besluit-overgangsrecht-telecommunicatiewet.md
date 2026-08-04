@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 10 november 1998, houdende overgangsrechtelijke bepalingen krachtens hoofdstuk 20 van de Telecommunicatiewet (Besluit overgangsrecht Telecommunicatiewet)"
+citeertitel: "Besluit overgangsrecht Telecommunicatiewet"
 identifier: "BWBR0009992"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-03-15"
-last_updated: "2013-03-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009992"
+categorie: "Digitaal en privacy"
 soort: "AMvB"
-stam_id: "969873"
-version_id: "1422462"
-internal_id: "C1422461"
-label_id: "940404"
-dtd_version: "2.0"
-original_entry_into_force: "1998-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009992/2013-03-15/0"
-intitule_bron: "Stb.1998-633"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-11-10"
-intitule_published: "1998-11-19"
-intitule_in_force: "1998-12-03"
-intitule_status: "goed"
-original_publication: "Stb.1998-633"
-original_signed_date: "1998-11-10"
-original_published_date: "1998-11-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1998-633"
-entry_into_force_date: "1998-12-15"
-jci_1_3: "jci1.3:c:BWBR0009992&z=2013-03-15&g=2013-03-15"
-jci_1_0: "1.0:c:BWBR0009992&g=2013-03-15"
-citeertitel_status: "officieel"
-short_title: "Besluit overgangsrecht Telecommunicatiewet"
-signed_date: "1998-11-10"
-entry_into_force: "1998-12-15"
+publicatiedatum: 1998-12-15
+laatste_update: 2013-03-15
+status: geldig
+toestand: 2013-03-15
+bron: "https://wetten.overheid.nl/BWBR0009992"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 10 november 1998, houdende overgangsrechtelijke bepalingen krachtens hoofdstuk 20 van de Telecommunicatiewet (Besluit overgangsrecht Telecommunicatiewet)
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 20 mei 1998, nr. HDTP/98/1541/MO, Hoofddirectie Telecommunicatie en Post;
-
-Gelet op de [artikelen 20.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.1), [20.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.3), en [20.18 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.18);
-
-De Raad van State gehoord (advies van 13 augustus 1998, nr. W09.98.0220);
-
-Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 3 november 1998, nr. HDTP/98/2584/CG, Hoofddirectie Telecommunicatie en Post;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
@@ -52,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder wet: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
-#### § 2. Criteria als bedoeld in [artikel 20.1, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.1)
+#### § 2. Criteria als bedoeld in artikel 20.1, vierde lid, van de wet
 
 ##### Artikel 2
 
@@ -144,7 +112,7 @@ Deze paragraaf is van toepassing op vergunningen als bedoeld in [artikel 20.3, e
 
 Vergunningen behouden hun werkingsduur, zoals deze krachtens de Wet op de telecommunicatievoorzieningen is bepaald.
 
-#### § 5. Regels als bedoeld in [artikel 20.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.18)
+#### § 5. Regels als bedoeld in artikel 20.18 van de wet
 
 ##### Artikel 10
 
@@ -161,5 +129,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit overgangsrecht Telecommunicatiewet.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

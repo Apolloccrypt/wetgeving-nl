@@ -1,42 +1,17 @@
 ---
 title: "Vaststelling formulier Pachtnormenbesluit"
 identifier: "BWBR0010225"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-01-23"
-last_updated: "1999-01-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010225"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3786343"
-version_id: "5569112"
-internal_id: "C5762201"
-label_id: "3765994"
-dtd_version: "2.0"
-original_entry_into_force: "1999-01-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010225/1999-01-23/0"
-intitule_bron: "Stcrt.1999-14"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-01-19"
-intitule_published: "1999-01-21"
-intitule_in_force: "1999-01-21"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-14"
-original_signed_date: "1999-01-19"
-original_published_date: "1999-01-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-01-23"
-jci_1_3: "jci1.3:c:BWBR0010225&z=1999-01-23&g=1999-01-23"
-jci_1_0: "1.0:c:BWBR0010225&g=1999-01-23"
-citeertitel_status: "officieel"
-signed_date: "1999-01-19"
-entry_into_force: "1999-01-23"
+publicatiedatum: 1999-01-23
+laatste_update: 1999-01-23
+status: geldig
+toestand: 1999-01-23
+bron: "https://wetten.overheid.nl/BWBR0010225"
+opgehaald: 2026-08-04
 ---
+
 # Vaststelling formulier Pachtnormenbesluit
-
-Gelet op artikel 10 van het Pachtnormenbesluit;
-
-Besluit:
 
 ##### Artikel 1
 

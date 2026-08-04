@@ -1,48 +1,18 @@
 ---
 title: "Wet van 24 december 1998, houdende regels inzake de verstrekking van subsidies door de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking (Kaderwet subsidies Ministerie van Buitenlandse Zaken)"
+citeertitel: "Kaderwet subsidies Ministerie van Buitenlandse Zaken"
 identifier: "BWBR0010178"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010178"
+categorie: "Overig"
 soort: "wet"
-stam_id: "984133"
-version_id: "20928472"
-internal_id: "C30045861"
-label_id: "953814"
-dtd_version: "2.0"
-original_entry_into_force: "2013-11-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010178/2021-07-01/0"
-intitule_bron: "Stb.1998-739"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-12-24"
-intitule_published: "1998-12-30"
-intitule_in_force: "1998-12-30"
-intitule_status: "goed"
-original_publication: "Stb.2013-482"
-original_signed_date: "2013-11-11"
-original_published_date: "2013-12-05"
-original_effect: "structuurwijziging"
-original_dossier: "33656"
-original_url_id: "stb-2013-482"
-entry_into_force_date: "2013-11-11"
-entry_into_force_dossier: "33656"
-jci_1_3: "jci1.3:c:BWBR0010178&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0010178&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Kaderwet subsidies Ministerie van Buitenlandse Zaken"
-signed_date: "2013-11-11"
-entry_into_force: "2013-11-11"
+publicatiedatum: 2013-11-11
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0010178"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 24 december 1998, houdende regels inzake de verstrekking van subsidies door de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking (Kaderwet subsidies Ministerie van Buitenlandse Zaken)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de totstandkoming van de derde tranche van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) het nodig maakt wettelijke regels op te stellen voor de verstrekking van subsidies door Onze Minister van Buitenlandse Zaken en Onze Minister voor Ontwikkelingssamenwerking;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk wij goed vinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -140,6 +110,12 @@ Onze Minister kan subsidies verstrekken voor activiteiten welke passen in het be
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
+##### Artikel 6a
+
+1. De op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2021-07-01&g=2021-07-01) in samenhang met [artikel 2, eerste lid, onder e, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482), vastgestelde ministeriële regelingen, berusten op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2021-07-01&g=2021-07-01), van deze wet.
+
+2. Het bij of krachtens de [Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194) bepaalde blijft van toepassing op subsidies die zijn verstrekt krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2021-07-01&g=2021-07-01) in samenhang met [artikel 2, eerste lid, onder e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482).
+
 ##### Artikel 7
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
@@ -147,13 +123,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 8
 
 Deze wet wordt aangehaald als: Kaderwet subsidies Ministerie van Buitenlandse Zaken.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6a
-
-1. De op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2021-07-01&g=2021-07-01) in samenhang met [artikel 2, eerste lid, onder e, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482), vastgestelde ministeriële regelingen, berusten op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2021-07-01&g=2021-07-01), van deze wet.
-
-2. Het bij of krachtens de [Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194) bepaalde blijft van toepassing op subsidies die zijn verstrekt krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2021-07-01&g=2021-07-01) in samenhang met [artikel 2, eerste lid, onder e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482).
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

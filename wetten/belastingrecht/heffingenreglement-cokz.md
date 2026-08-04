@@ -1,55 +1,30 @@
 ---
 title: "Reglement inzake de heffing van omslagen ter dekking van de kosten van toezicht of keuring"
+citeertitel: "Heffingenreglement COKZ"
 identifier: "BWBR0010341"
-country: "nl"
-rank: "zbo"
-publication_date: "1999-03-17"
-last_updated: "1999-03-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010341"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6638863"
-version_id: "11472412"
-internal_id: "C15460391"
-label_id: "6627314"
-original_entry_into_force: "1999-03-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010341/1999-03-17/0"
-intitule_bron: "Stcrt.1999-53"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-03-15"
-intitule_published: "1999-03-17"
-intitule_in_force: "1999-03-17"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-53"
-original_signed_date: "1999-03-15"
-original_published_date: "1999-03-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1999-53-p15-SC18048"
-entry_into_force_date: "1999-03-17"
-jci_1_3: "jci1.3:c:BWBR0010341&z=1999-03-17&g=1999-03-17"
-jci_1_0: "1.0:c:BWBR0010341&g=1999-03-17"
-citeertitel_status: "officieel"
-short_title: "Heffingenreglement COKZ"
-signed_date: "1999-03-15"
-entry_into_force: "1999-03-17"
+publicatiedatum: 1999-03-17
+laatste_update: 1999-03-17
+status: geldig
+toestand: 1999-03-17
+bron: "https://wetten.overheid.nl/BWBR0010341"
+opgehaald: 2026-08-04
 ---
+
 # Reglement inzake de heffing van omslagen ter dekking van de kosten van toezicht of keuring
-
-gelet op [artikel 11 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11) (Stb. 1971, 371), alsmede artikel 33, tweede lid, van de statuten van genoemde Stichting (Stcrt. 1992, 63),
-
-heeft in de op 2 december 1998 gehouden vergadering vastgesteld het navolgende Reglement:
 
 ##### Artikel 1
 
 1. In dit reglement wordt verstaan onder:
 
-**het COKZ:** de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
+*het COKZ:* de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
 
-**bestuur:** het bestuur van het COKZ;
+*bestuur:* het bestuur van het COKZ;
 
-**aangeslotene:** een ieder, die als aangeslotene bij het COKZ is toegelaten;
+*aangeslotene:* een ieder, die als aangeslotene bij het COKZ is toegelaten;
 
-**product:** product ten aanzien waarvan bij of krachtens een landbouwkwaliteitsbesluit toezicht of keuring aan het COKZ is opgedragen.
+*product:* product ten aanzien waarvan bij of krachtens een landbouwkwaliteitsbesluit toezicht of keuring aan het COKZ is opgedragen.
 
 2. In dit reglement dienen de daarin voorkomende aanduidingen van de producten, alsook de begrippen bereiden en verhandelen, te worden verstaan in de zin die de betrokken landbouwkwaliteitsbesluiten en de daarop berustende bepalingen daaraan toekennen.
 
@@ -73,9 +48,9 @@ heeft in de op 2 december 1998 gehouden vergadering vastgesteld het navolgende R
 
 0.2 voor het product kaas, voor zover het betreft de opslag van het product kaas gedurende het voor rijping voorgeschreven opslagtijdvak, met dien verstande dat het voor de berekening van de hoeveelheid in opslag gehouden product kaas,
 
-- –. met betrekking tot het product kaas, dat in de desbetreffende bereid- of opslagplaats is bereid, wordt uitgegaan van de hoeveelheid product kaas, die gedurende het voorgeschreven opslagtijdvak niet voor aansluitende opslag wordt afgeleverd aan een opvolgende bereider;
+- – met betrekking tot het product kaas, dat in de desbetreffende bereid- of opslagplaats is bereid, wordt uitgegaan van de hoeveelheid product kaas, die gedurende het voorgeschreven opslagtijdvak niet voor aansluitende opslag wordt afgeleverd aan een opvolgende bereider;
 
-- –. met betrekking tot het product kaas, dat niet in de desbetreffende bereid- of opslagplaats is bereid, wordt uitgegaan van de hoeveelheid product kaas, die gedurende het voorgeschreven opslagtijdvak in de betrokken bereid- of opslagplaats wordt ontvangen;
+- – met betrekking tot het product kaas, dat niet in de desbetreffende bereid- of opslagplaats is bereid, wordt uitgegaan van de hoeveelheid product kaas, die gedurende het voorgeschreven opslagtijdvak in de betrokken bereid- of opslagplaats wordt ontvangen;
 
 1.0 voor het vers bereide product boter;
 

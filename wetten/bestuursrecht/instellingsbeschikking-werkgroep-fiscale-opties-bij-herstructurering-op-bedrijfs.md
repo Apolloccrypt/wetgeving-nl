@@ -1,42 +1,17 @@
 ---
 title: "Instellingsbeschikking werkgroep ’Fiscale opties bij herstructurering op bedrijfsniveau in de land- en tuinbouw’"
 identifier: "BWBR0010279"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-05-01"
-last_updated: "1999-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010279"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3542773"
-version_id: "5325952"
-internal_id: "C5519041"
-label_id: "3522824"
-dtd_version: "2.0"
-original_entry_into_force: "1999-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010279/1999-05-01/0"
-intitule_bron: "Stcrt.1999-44"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-02-12"
-intitule_published: "1999-03-04"
-intitule_in_force: "1999-03-04"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-44"
-original_signed_date: "1999-02-12"
-original_published_date: "1999-03-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-05-01"
-jci_1_3: "jci1.3:c:BWBR0010279&z=1999-05-01&g=1999-05-01"
-jci_1_0: "1.0:c:BWBR0010279&g=1999-05-01"
-citeertitel_status: "officieel"
-signed_date: "1999-02-12"
-entry_into_force: "1999-05-01"
+publicatiedatum: 1999-05-01
+laatste_update: 1999-05-01
+status: geldig
+toestand: 1999-05-01
+bron: "https://wetten.overheid.nl/BWBR0010279"
+opgehaald: 2026-08-04
 ---
+
 # Instellingsbeschikking werkgroep ’Fiscale opties bij herstructurering op bedrijfsniveau in de land- en tuinbouw’
-
-Overwegende dat het wenselijk is de werkgroep ’Fiscale opties bij herstructurering op bedrijfsniveau in de land- en tuinbouw’ in te stellen;
-
-Besluit:
 
 #### § 1. Instelling en taak
 

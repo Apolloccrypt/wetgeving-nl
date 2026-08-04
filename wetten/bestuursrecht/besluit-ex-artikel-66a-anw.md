@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 24 juni 1998 tot vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 66a van de Algemene nabestaandenwet (Besluit ex artikel 66a ANW)"
+citeertitel: "Besluit ex artikel 66a ANW"
 identifier: "BWBR0009723"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009723"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "842063"
-version_id: "1224742"
-internal_id: "C1224741"
-label_id: "815974"
-dtd_version: "2.0"
-original_entry_into_force: "1998-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009723/2024-01-01/0"
-intitule_bron: "Stb.1998-378"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-06-24"
-intitule_published: "1998-06-30"
-intitule_in_force: "1998-06-30"
-intitule_status: "goed"
-original_publication: "Stb.1998-378"
-original_signed_date: "1998-06-24"
-original_published_date: "1998-06-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1998-378"
-entry_into_force_date: "1998-07-01"
-jci_1_3: "jci1.3:c:BWBR0009723&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0009723&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 66a ANW"
-signed_date: "1998-06-24"
-entry_into_force: "1998-07-01"
+publicatiedatum: 1998-07-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0009723"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 24 juni 1998 tot vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 66a van de Algemene nabestaandenwet (Besluit ex artikel 66a ANW)
-
-Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 april 1998, nr. SV/VP/98/1862a;
-
-Gelet op [artikel 66a, derde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=66a);
-
-De Raad van State gehoord (advies van 11 mei 1998, nr. W12.98.0154);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 19 juni 1998, nr. SV/VP/98/2215;
-
-Hebben goedgevonden en verstaan:
-
-Werkt terug tot en met 1 juli 1996.
 
 ##### Artikel 1. Definities
 
@@ -88,7 +54,7 @@ Voor de toepassing van dit besluit is onverzekerbaar de echtgenoot:
 
 1. Nadat de Sociale verzekeringsbank heeft vastgesteld dat de persoon en de echtgenoot aan de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=1&z=2024-01-01&g=2024-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=2&z=2024-01-01&g=2024-01-01) en [3, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=3&z=2024-01-01&g=2024-01-01) voldoen, wordt de persoon na het overlijden van de echtgenoot aangemerkt als rechthebbende op een nabestaandenuitkering mits de persoon of de echtgenoot vanaf 1 juli 1999 tot de eerste dag van de maand volgend op de dag van het overlijden van de persoon of van de echtgenoot, een maandelijks verschuldigde bijdrage aan de Sociale verzekeringsbank heeft betaald.
 
-2. De bijdrage, bedoeld in het eerste lid, bedraagt € 75,65 per maand. De hoogte van de bijdrage wordt jaarlijks met ingang van 1 januari gewijzigd met het percentage waarmee het prijsindexcijfer van de gezinsconsumptie over de maand oktober daaraan voorafgaand afwijkt van het prijsindexcijfer waarop de laatste vaststelling van de bijdrage is gebaseerd en wordt door of namens Onze Minister medegedeeld in de Staatscourant.
+2. De bijdrage, bedoeld in het eerste lid, bedraagt € 75,65 per maand. De hoogte van de bijdrage wordt jaarlijks met ingang van 1 januari gewijzigd met het percentage waarmee het prijsindexcijfer van de gezinsconsumptie over de maand oktober daaraan voorafgaand afwijkt van het prijsindexcijfer waarop de laatste vaststelling van de bijdrage is gebaseerd en wordt door of namens Onze Minister medegedeeld in de Staatscourant.
 
 3. Geen restitutie vindt plaats van betaalde bijdragen die betrekking hebben op de periode tot de eerste dag van de maand volgend op de dag van overlijden van de echtgenoot.
 
@@ -110,10 +76,8 @@ Indien op de dag van het overlijden van de echtgenoot de verschuldigde bijdrage,
 
 ##### Artikel 8. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag waarop het bij [koninklijke boodschap van 23 februari 1998 ingediende voorstel van wet houdende Wijziging van de Algemene nabestaandenwet in verband met gebleken onbillijkheden](onbekend) (kamerstukken 25 900) tot wet is verheven en in werking treedt.
+Dit besluit treedt in werking met ingang van de dag waarop het bij koninklijke boodschap van 23 februari 1998 ingediende voorstel van wet houdende Wijziging van de Algemene nabestaandenwet in verband met gebleken onbillijkheden (kamerstukken 25 900) tot wet is verheven en in werking treedt.
 
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit ex artikel 66a ANW.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst. toelichting in het Staatsblad zal worden geplaatst.

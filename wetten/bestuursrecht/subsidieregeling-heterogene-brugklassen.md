@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-31
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBR0045657"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 23 september 2021, nr. VO/29518735, houdende regels voor de subsidieverstrekking voor heterogene brugklassen (Subsidieregeling heterogene brugklassen)

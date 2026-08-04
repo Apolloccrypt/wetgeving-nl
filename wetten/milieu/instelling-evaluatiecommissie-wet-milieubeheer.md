@@ -1,42 +1,17 @@
 ---
 title: "Instelling Evaluatiecommissie Wet milieubeheer"
 identifier: "BWBR0010937"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-02-01"
-last_updated: "2000-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010937"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "3540063"
-version_id: "5323202"
-internal_id: "C5516291"
-label_id: "3520074"
-dtd_version: "2.0"
-original_entry_into_force: "2000-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010937/2000-02-01/0"
-intitule_bron: "Stcrt.1999-245"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-06"
-intitule_published: "1999-12-20"
-intitule_in_force: "1999-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-245"
-original_signed_date: "1999-12-06"
-original_published_date: "1999-12-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-02-01"
-jci_1_3: "jci1.3:c:BWBR0010937&z=2000-02-01&g=2000-02-01"
-jci_1_0: "1.0:c:BWBR0010937&g=2000-02-01"
-citeertitel_status: "officieel"
-signed_date: "1999-12-06"
-entry_into_force: "2000-02-01"
+publicatiedatum: 2000-02-01
+laatste_update: 2000-02-01
+status: geldig
+toestand: 2000-02-01
+bron: "https://wetten.overheid.nl/BWBR0010937"
+opgehaald: 2026-08-04
 ---
+
 # Instelling Evaluatiecommissie Wet milieubeheer
-
-Overwegende dat het met het oog op een verantwoorde onderbouwing van de in [artikel 21.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.2) bedoelde verslaglegging over de werking van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) gewenst is de Evaluatiecommissie [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) hernieuwd in te stellen.
-
-Besluit:
 
 ##### Artikel 1
 
@@ -97,5 +72,3 @@ De voor een goede taakvervulling van de commissie noodzakelijk geachte kosten ko
 1. Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
 2. De bescheiden worden bij opheffing van de commissie in het Centraal Archief van dit departement opgenomen.
-
-Deze beschikking en de daarbij behorende toelichting zullen worden bekendgemaakt in de Nederlandse Staatscourant en in afschrift worden gezonden aan de Algemene Rekenkamer en aan belanghebbenden.

@@ -1,48 +1,18 @@
 ---
 title: "Wet van 17 december 1998, houdende regels met betrekking tot de vervanging van verwijzingen in overeenkomsten, statuten en testamenten naar de Amsterdam Interbank Offered Rate en andere referentierentes, alsmede tot wijziging van de Wet toezicht effectenverkeer 1995, in verband met de deelname van Nederland aan de Economische en Monetaire Unie (Wet vervanging referentierentes)"
+citeertitel: "Wet vervanging referentierentes"
 identifier: "BWBR0010132"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010132"
+categorie: "Verkeer"
 soort: "wet"
-stam_id: "979323"
-version_id: "1436882"
-internal_id: "C1436881"
-label_id: "949244"
-dtd_version: "2.0"
-original_entry_into_force: "1999-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010132/2021-07-01/0"
-intitule_bron: "Stb.1998-716"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-12-17"
-intitule_published: "1998-12-22"
-intitule_in_force: "1998-12-22"
-intitule_status: "goed"
-original_publication: "Stb.1998-716"
-original_signed_date: "1998-12-17"
-original_published_date: "1998-12-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "26124"
-original_url_id: "stb-1998-716"
-entry_into_force_date: "1999-01-01"
-entry_into_force_dossier: "26124"
-jci_1_3: "jci1.3:c:BWBR0010132&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0010132&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet vervanging referentierentes"
-signed_date: "1998-12-17"
-entry_into_force: "1999-01-01"
+publicatiedatum: 1999-01-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0010132"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 17 december 1998, houdende regels met betrekking tot de vervanging van verwijzingen in overeenkomsten, statuten en testamenten naar de Amsterdam Interbank Offered Rate en andere referentierentes, alsmede tot wijziging van de Wet toezicht effectenverkeer 1995, in verband met de deelname van Nederland aan de Economische en Monetaire Unie (Wet vervanging referentierentes)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat De Nederlandsche Bank N.V. vanaf het tijdstip waarop Nederland de gemeenschappelijke munt zal aannemen de Amsterdam Interbank Offered Rate en de vaste voorschotrente niet langer zal vaststellen, en dat het met het oog op de rechtszekerheid en de continuïteit van overeenkomsten daarom wenselijk is een voorziening te treffen waardoor verwijzingen naar de Amsterdam Interbank Offered Rate, of een andere daarmee vergelijkbare referentierente (die niet langer wordt berekend en gepubliceerd) uit een staat die lid is van de Europese Unie en die deelneemt aan de derde fase van de Economische en Monetaire Unie, dan wel de vaste voorschotrente of het promessedisconto, in bestaande overeenkomsten, statuten en testamenten van rechtswege kunnen worden vervangen door verwijzingen naar een andere referentierente, alsmede dat het wenselijk is om de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657) te wijzigen teneinde de bestaande onzekerheid omtrent de juridische status van bepaalde vormen van transacties in effecten weg te nemen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -50,7 +20,7 @@ Onze Minister van Financiën wijst referentierentes aan die in overeenkomsten, s
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
@@ -62,7 +32,7 @@ De aanwijzingen van Onze Minister van Financiën, bedoeld in de [artikelen 1](ht
 
 ##### Artikel 5
 
-Wijzigt de Wet toezicht effectenverkeer 1995.
+*Wijzigt de Wet toezicht effectenverkeer 1995.*
 
 ##### Artikel 6
 
@@ -71,5 +41,3 @@ Deze wet treedt in werking met ingang van 1 januari 1999. Indien het Staatsblad 
 ##### Artikel 7
 
 Deze wet wordt aangehaald als: Wet vervanging referentierentes.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

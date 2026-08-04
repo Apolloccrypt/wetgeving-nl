@@ -1,62 +1,30 @@
 ---
 title: "Wet van 29 april 1999, houdende wijziging van de Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering)"
+citeertitel: "Wijzigingswet Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering)"
 identifier: "BWBR0010445"
-country: "nl"
-rank: "wet"
-publication_date: "2010-07-07"
-last_updated: "2010-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010445"
+categorie: "Verkeer"
 soort: "wet"
-stam_id: "2820933"
-version_id: "4336992"
-internal_id: "C4336991"
-label_id: "2769724"
-dtd_version: "2.0"
-original_entry_into_force: "1999-06-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010445/2010-07-07/0"
-intitule_bron: "Stb.1999-235"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-04-29"
-intitule_published: "1999-06-17"
-intitule_in_force: "1999-06-17"
-intitule_status: "goed"
-original_publication: "Stb.1999-235"
-original_signed_date: "1999-04-29"
-original_published_date: "1999-06-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "26336"
-original_url_id: "stb-1999-235"
-entry_into_force_date: "1999-06-18"
-entry_into_force_dossier: "26336"
-jci_1_3: "jci1.3:c:BWBR0010445&z=2010-07-07&g=2010-07-07"
-jci_1_0: "1.0:c:BWBR0010445&g=2010-07-07"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering)"
-signed_date: "1999-04-29"
-entry_into_force: "1999-06-18"
+publicatiedatum: 1999-06-18
+laatste_update: 2010-07-07
+status: geldig
+toestand: 2010-07-07
+bron: "https://wetten.overheid.nl/BWBR0010445"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 29 april 1999, houdende wijziging van de Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in het kader van de herziening van de luchtvaartwetgeving de regels met betrekking tot inschrijving van luchtvaartuigen en tot luchtwaardigheid met inbegrip van type-certificaten, bewijzen van luchtwaardigheid en erkenningen van bedrijven opnieuw vast te stellen en dat het wenselijk is in dat kader regels met betrekking tot de vluchtuitvoering vast te stellen; dat het voorts wenselijk is de Veiligheids Advies Commissie Schiphol bij wet in te stellen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Werkt terug tot en met 1 januari 1997.
 
 ##### Artikel I
 
-Wijzigt de Wet Luchtverkeer.
+*Wijzigt de Wet Luchtverkeer.*
 
 ##### Artikel II
 
-Vervallen
+*Vervallen*
 
 ##### Artikel III
 
-Vervallen
+*Vervallen*
 
 ##### Artikel IV
 
@@ -90,15 +58,15 @@ Vervallen
 
 ##### Artikel VI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel IX
 
@@ -134,14 +102,12 @@ De volgende op de [Wet Luchtverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ##### Artikel X
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Dit onderdeel is nog niet inwerking getreden*

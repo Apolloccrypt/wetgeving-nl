@@ -1,42 +1,17 @@
 ---
 title: "Instelling begeleidingscommissie Ontwikkeling Nationale Luchthaven Lange Termijn"
 identifier: "BWBR0010611"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-08-01"
-last_updated: "1999-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010611"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4257953"
-version_id: "6021412"
-internal_id: "C6224801"
-label_id: "4236554"
-dtd_version: "2.0"
-original_entry_into_force: "1999-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010611/1999-08-01/0"
-intitule_bron: "Stcrt.1999-144"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-07-16"
-intitule_published: "1999-07-30"
-intitule_in_force: "1999-07-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-144"
-original_signed_date: "1999-07-16"
-original_published_date: "1999-07-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-08-01"
-jci_1_3: "jci1.3:c:BWBR0010611&z=1999-08-01&g=1999-08-01"
-jci_1_0: "1.0:c:BWBR0010611&g=1999-08-01"
-citeertitel_status: "officieel"
-signed_date: "1999-07-16"
-entry_into_force: "1999-08-01"
+publicatiedatum: 1999-08-01
+laatste_update: 1999-08-01
+status: geldig
+toestand: 1999-08-01
+bron: "https://wetten.overheid.nl/BWBR0010611"
+opgehaald: 2026-08-04
 ---
+
 # Instelling begeleidingscommissie Ontwikkeling Nationale Luchthaven Lange Termijn
-
-Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Minister van Economische Zaken;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -99,5 +74,3 @@ De werkzaamheden van de begeleidingscommissie Toekomstige Nederlandse Luchtvaart
 ##### Artikel 8
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

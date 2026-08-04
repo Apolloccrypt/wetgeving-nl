@@ -1,47 +1,39 @@
 ---
 title: "Regeling opnemen vertrouwelijke communicatie politie"
 identifier: "BWBR0011085"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-02-27"
-last_updated: "2018-02-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011085"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4515173"
-version_id: "19973492"
-internal_id: "C28068571"
-label_id: "4493654"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011085/2018-02-27/0"
-intitule_bron: "Stcrt.2000-7"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-01-10"
-intitule_published: "2000-01-11"
-intitule_in_force: "2000-01-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-26854"
-original_signed_date: "2012-12-13"
-original_published_date: "2012-12-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2012-26854"
-entry_into_force_date: "2012-12-13"
-jci_1_3: "jci1.3:c:BWBR0011085&z=2018-02-27&g=2018-02-27"
-jci_1_0: "1.0:c:BWBR0011085&g=2018-02-27"
-citeertitel_status: "officieel"
-signed_date: "2012-12-13"
-entry_into_force: "2012-12-13"
+publicatiedatum: 2012-12-13
+laatste_update: 2018-02-27
+status: geldig
+toestand: 2018-02-27
+bron: "https://wetten.overheid.nl/BWBR0011085"
+opgehaald: 2026-08-04
 ---
+
 # Regeling opnemen vertrouwelijke communicatie politie
-
-Gelet op [artikel 12 van het Besluit beheer regionale politiekorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006560&artikel=12);
-
-Besluiten:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+betreden van een besloten plaats:
+
+het zonder toestemming van de rechthebbende toegang verschaffen tot en afsluiten van een besloten plaats, op zodanige wijze dat dit voor de rechthebbende of andere gebruikers van de plaats niet kenbaar is;
+
+b.
+
+plaatsen van een technisch hulpmiddel:
+
+het aanbrengen, instellen en verwijderen van een technisch hulpmiddel;
+
+c.
+
+bedienen van een technisch hulpmiddel:
+
+het bedienen van de opslagapparatuur, voorzover daarbij geen sprake is van het betreden van besloten plaatsen.
 
 ##### Artikel 2
 
@@ -69,6 +61,10 @@ Een ambtenaar van politie kan worden belast met het bedienen van een technisch h
 
 De Politieacademie beoordeelt of de ambtenaar van politie beschikt over de kennis en vaardigheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011085&artikel=2&z=2018-02-27&g=2018-02-27) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011085&artikel=3&z=2018-02-27&g=2018-02-27). Bij positieve beoordeling geeft hij daarvan een verklaring af.
 
+##### Artikel 4a
+
+Deze regeling berust op [artikel 28 van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=28).
+
 ##### Artikel 5
 
 Deze regeling treedt in werking met ingang van 1 februari 2000.
@@ -76,11 +72,3 @@ Deze regeling treedt in werking met ingang van 1 februari 2000.
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling opnemen vertrouwelijke communicatie politie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-Deze regeling berust op [artikel 28 van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=28).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0042012"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Wet van 20 februari 2019 inzake bundeling en aanpassing van regels over de registers met betrekking tot onderwijsdeelnemers (Wet register onderwijsdeelnemers)

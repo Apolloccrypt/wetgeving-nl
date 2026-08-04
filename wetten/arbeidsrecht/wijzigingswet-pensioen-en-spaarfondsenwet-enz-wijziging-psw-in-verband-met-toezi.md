@@ -1,67 +1,38 @@
 ---
 title: "Wet van 22 december 1999 tot wijziging van de Pensioen- en spaarfondsenwet en enkele andere wetten onder meer met het oog op verbetering van het toezicht op de uitvoering van aanvullende pensioenregelingen, invoering van een verbod op uitstelfinanciering van pensioenaanspraken en verduidelijking van de regels inzake waardeoverdracht van pensioen en aanspraken op pensioen (wijziging PSW in verband met toezicht, verbod op uitstelfinanciering en waardeoverdracht)"
+citeertitel: "Wijzigingswet Pensioen- en spaarfondsenwet, enz. (wijziging PSW in verband met toezicht, verbod op uitstelfinanciering en waardeoverdracht)"
 identifier: "BWBR0011031"
-country: "nl"
-rank: "wet"
-publication_date: "2001-01-17"
-last_updated: "2001-01-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011031"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "1192293"
-version_id: "1759562"
-internal_id: "C1759561"
-label_id: "1154984"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011031/2001-01-17/0"
-intitule_bron: "Stb.1999-592"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-22"
-intitule_published: "1999-12-30"
-intitule_in_force: "1999-12-30"
-intitule_status: "goed"
-original_publication: "Stb.1999-592"
-original_signed_date: "1999-12-22"
-original_published_date: "1999-12-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "26415"
-original_url_id: "stb-1999-592"
-entry_into_force_date: "2000-01-01"
-jci_1_3: "jci1.3:c:BWBR0011031&z=2001-01-17&g=2001-01-17"
-jci_1_0: "1.0:c:BWBR0011031&g=2001-01-17"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Pensioen- en spaarfondsenwet, enz. (wijziging PSW in verband met toezicht, verbod op uitstelfinanciering en waardeoverdracht)"
-signed_date: "1999-12-22"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2001-01-17
+status: geldig
+toestand: 2001-01-17
+bron: "https://wetten.overheid.nl/BWBR0011031"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 22 december 1999 tot wijziging van de Pensioen- en spaarfondsenwet en enkele andere wetten onder meer met het oog op verbetering van het toezicht op de uitvoering van aanvullende pensioenregelingen, invoering van een verbod op uitstelfinanciering van pensioenaanspraken en verduidelijking van de regels inzake waardeoverdracht van pensioen en aanspraken op pensioen (wijziging PSW in verband met toezicht, verbod op uitstelfinanciering en waardeoverdracht)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) te wijzigen teneinde het toezicht op de uitvoering van aanvullende pensioenregelingen te verbeteren, om financiering achteraf van pensioenaanspraken te verbieden, alsmede te komen tot verduidelijking van de regels inzake waardeoverdracht van pensioen en aanspraken op pensioen en voorts om in die wet en andere wetten enkele daarmee verband houdende en overige wijzigingen aan te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Pensioen- en spaarfondsenwet.
+*Wijzigt de Pensioen- en spaarfondsenwet.*
 
 ##### Artikel II
 
-Wijzigt de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds.
+*Wijzigt de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds.*
 
 ##### Artikel III
 
-Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.
+*Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.*
 
 ##### Artikel IV
 
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
+*Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.*
 
 ##### Artikel V
 
-Wijzigt de Beroepswet.
+*Wijzigt de Beroepswet.*
 
 ##### Artikel VI
 
@@ -113,20 +84,18 @@ De straffen en maatregelen gesteld op strafbare feiten waarvoor ingevolge deze w
 
 ##### Artikel XIV
 
-Wijzigingswet Pensioen- en spaarfondsenwet, enz. (wettelijk recht op waarde-overdracht en enige andere maatregelen op het aanvullende pensioenterrein).
+*Wijzigingswet Pensioen- en spaarfondsenwet, enz. (wettelijk recht op waarde-overdracht en enige andere maatregelen op het aanvullende pensioenterrein).*
 
 ##### Artikel XV
 
-Wijzigt de Pensioen – en spaarfondsenwet.
+*Wijzigt de Pensioen – en spaarfondsenwet.*
 
 ##### Artikel XVI
 
-Wijzigt de Pensioen – en spaarfondsenwet.
+*Wijzigt de Pensioen – en spaarfondsenwet.*
 
 ##### Artikel XVII
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. In afwijking van het eerste lid treedt [artikel 5, achtste lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=5), in werking één jaar na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

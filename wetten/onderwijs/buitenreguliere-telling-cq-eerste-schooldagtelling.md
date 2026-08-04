@@ -1,36 +1,16 @@
 ---
 title: "Buitenreguliere telling c.q. eerste schooldagtelling"
 identifier: "BWBR0010584"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1999-07-14"
-last_updated: "1999-07-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010584"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6510143"
-version_id: "11206162"
-internal_id: "C15136621"
-label_id: "6498754"
-original_entry_into_force: "1999-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010584/1999-07-14/0"
-intitule_bron: "Uitleg.1999-18b"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-07-05"
-intitule_published: "1999-07-14"
-intitule_in_force: "1999-07-14"
-intitule_status: "goed"
-original_publication: "Uitleg.1999-18b"
-original_signed_date: "1999-07-05"
-original_published_date: "1999-07-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-07-14"
-jci_1_3: "jci1.3:c:BWBR0010584&z=1999-07-14&g=1999-07-14"
-jci_1_0: "1.0:c:BWBR0010584&g=1999-07-14"
-citeertitel_status: "redactioneel"
-signed_date: "1999-07-05"
-entry_into_force: "1999-07-14"
+publicatiedatum: 1999-07-14
+laatste_update: 1999-07-14
+status: geldig
+toestand: 1999-07-14
+bron: "https://wetten.overheid.nl/BWBR0010584"
+opgehaald: 2026-08-04
 ---
+
 # Buitenreguliere telling c.q. eerste schooldagtelling
 
 ### 1. Inleiding
@@ -43,7 +23,7 @@ In deze publicatie zal nader worden ingegaan op het gewijzigde telformulier en z
 
 ### 2. Doelgroep
 
-Deze publicatie is bedoeld voor basisscholen die op basis van [artikel 12 van het Formatiebesluit WPO](onbekend), zoals dat is gepubliceerd in het Staatsblad 1998 nr. 569, aanspraak willen maken op verhoging van de formatie. Om dit te bereiken moet voor de school een zogeheten buitenreguliere telling worden ingediend. In het geval dat de aanspraak, in verband met ’groei op de eerste schooldag’ op verhoging van de formatie reeds per 1 augustus, in moet gaan, kan dat op hetzelfde (buitenreguliere) telformulier worden aangegeven.
+Deze publicatie is bedoeld voor basisscholen die op basis van artikel 12 van het Formatiebesluit WPO, zoals dat is gepubliceerd in het Staatsblad 1998 nr. 569, aanspraak willen maken op verhoging van de formatie. Om dit te bereiken moet voor de school een zogeheten buitenreguliere telling worden ingediend. In het geval dat de aanspraak, in verband met ’groei op de eerste schooldag’ op verhoging van de formatie reeds per 1 augustus, in moet gaan, kan dat op hetzelfde (buitenreguliere) telformulier worden aangegeven.
 
 ### 3. Procedure
 
@@ -51,9 +31,27 @@ Hieronder wordt de procedure van de buitenreguliere telling geschetst met daarbi
 
 ### 3.1. Het schoolbestuur dient een buitenregulier telformulier in
 
-Een buitenreguliere telling kan worden gedaan in de periode van **1 augustus tot en met 31 maart** van een schooljaar. Indien het gewogen aantal leerlingen zodanig is gestegen dat dit leidt tot een formatiegroei van tenminste 0,6 formatieplaats kan de formatie opnieuw worden berekend. Wanneer op het (nieuwe) telformulier is aangekruist dat het gaat om een aanspraak op groeiformatie in verband met ’groei op de eerste schooldag’, dan zal de aanspraak op groeiformatie gelden met ingang van 1 augustus Is dit niet aangekruist op het buitenreguliere telformulier, dan zal de aanspraak op formatiegroei ingaan op de eerste dag van de maand volgend op de maand waarin de teldatum valt.
+Een buitenreguliere telling kan worden gedaan in de periode van *1 augustus tot en met 31 maart* van een schooljaar. Indien het gewogen aantal leerlingen zodanig is gestegen dat dit leidt tot een formatiegroei van tenminste 0,6 formatieplaats kan de formatie opnieuw worden berekend. Wanneer op het (nieuwe) telformulier is aangekruist dat het gaat om een aanspraak op groeiformatie in verband met ’groei op de eerste schooldag’, dan zal de aanspraak op groeiformatie gelden met ingang van 1 augustus Is dit niet aangekruist op het buitenreguliere telformulier, dan zal de aanspraak op formatiegroei ingaan op de eerste dag van de maand volgend op de maand waarin de teldatum valt.
 
 Aandachtspunten zijn verder:
+
+- Een buitenreguliere telling dient te worden ingediend op het daartoe bestemde (nieuwe) formulier Cƒi 59074. Dit formulier wordt bij ministeriële regeling vastgesteld;
+
+- Ter voorkoming van misverstanden is het raadzaam de oude (blanco) formulieren te vernietigen;
+
+- Het formulier ( CFI 59074) dat voor een buitenreguliere telling moet worden gebruikt is door middel van een plaketiket aan te vragen bij: Centrale Financiën Instellingen Afdeling GVZ Postbus 606 2700 ML Zoetermeer
+
+- Het totaal aantal leerlingen van vraag 2 moet groter of gelijk zijn aan het totaal aantal leerlingen van de achterstandscategorie 1.90 van vraag 1. Voor alle leerlingen met een achterstandscategorie 1.90 geldt dat ze een niet Nederlandse culturele achtergrond hebben als gespecificeerd bij vraag 2, doch om ingedeeld te kunnen worden in de achterstandscategorie 1.90 moet er aan een aanvullende voorwaarde worden voldaan (bij voorbeeld ten aanzien van de vooropleiding van de vader of moeder of ten aanzien van het beroep van de meest verdienende ouder of verzorger);
+
+- Het telformulier moet door (of namens) het schoolbestuur worden ondertekend;
+
+- Als een school bestaat uit een hoofdvestiging en één of meer nevenvestigingen dient voor elke vestiging een afzonderlijke telling te worden ingestuurd met dezelfde teldatum. Dus ook voor vestigingen waar mogelijk geen groei heeft plaatsgevonden (zie artikel 11, vierde lid, bekostigingsbesluit WPO). Zo mogelijk dienen tellingen van hoofd- en nevenvestiging(en) in één envelop aan Cƒi te worden toegezonden;
+
+- Overzichten en uitdraaien van de leerlingen-administratie hoeven niet te worden meegestuurd;
+
+- Het telformulier moet binnen twee weken na de gekozen teldatum zijn gestuurd aan Cƒi: Centrale Financiën Instellingen Afdeling GGF Postbus 606 2700 ML Zoetermeer. Doorslaggevend bij de beoordeling of het telformulier tijdig is ingezonden zal de datum van het poststempel zijn of, wanneer een poststempel ontbreekt, de datum van binnenkomst bij Cƒi.
+
+- Niet tijdig ingezonden telformulieren zullen niet door Cƒi worden verwerkt en worden terug gezonden aan het schoolbestuur. Niet tijdige inzending kan vervelende gevolgen met zich meebrengen. Er zal een nieuwe telling moeten worden ingediend en in het bijzonder zal er een nieuwe teldatum bepaald moeten worden. Binnen 14 dagen vanaf deze nieuwe teldatum dient de telling bij Cƒi te zijn ingediend. Zeker wanneer hierdoor de nieuwe teldatum in een nieuwe maand moet komen te vallen, derft de school inkomsten: de aanspraak op de groeiformatie gaat immers pas een maand later in.
 
 ### 3.2. Cƒi verstuurt ontvangstbevestiging
 

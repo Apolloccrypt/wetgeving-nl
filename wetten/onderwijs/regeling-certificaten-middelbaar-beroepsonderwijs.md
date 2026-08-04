@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0038543"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 19 september 2016, kenmerk MBO-930125 houdende vaststelling van een aantal keuzedelen waaraan mbo-certificaten verbonden kunnen worden (Regeling certificaten aantal keuzedelen beroepsonderwijs)

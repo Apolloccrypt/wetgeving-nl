@@ -1,42 +1,17 @@
 ---
 title: "Uitvoeringsregeling artikel 13 Rijkswet administratieve bijstand douane (Nederland)"
 identifier: "BWBR0010884"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010884"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3635373"
-version_id: "5418422"
-internal_id: "C5611511"
-label_id: "3615304"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010884/2010-10-10/0"
-intitule_bron: "Stcrt.1999-227"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-11-23"
-intitule_published: "1999-11-24"
-intitule_in_force: "1999-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-227"
-original_signed_date: "1999-11-23"
-original_published_date: "1999-11-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-01-01"
-jci_1_3: "jci1.3:c:BWBR0010884&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0010884&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "1999-11-23"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0010884"
+opgehaald: 2026-08-04
 ---
+
 # Uitvoeringsregeling artikel 13 Rijkswet administratieve bijstand douane (Nederland)
-
-Gelet op [artikel 13, tweede lid, van de Rijkswet administratieve bijstand douane](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&artikel=13);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -61,5 +36,3 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling artikel 13 Rijkswet admi
 ##### Artikel 5
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop de [Rijkswet administratieve bijstand douane](https://wetten.overheid.nl/jci1.3:c:BWBR0010576) in werking treedt.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

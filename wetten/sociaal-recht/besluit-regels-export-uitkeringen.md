@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 23 december 1999, houdende afwijkende regels inzake het recht op een uitkering ten aanzien van personen die niet in Nederland wonen (Besluit afwijkende regels beperking export uitkeringen)"
+citeertitel: "Besluit regels export uitkeringen"
 identifier: "BWBR0011049"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-11-14"
-last_updated: "2018-11-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011049"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "1918803"
-version_id: "2845782"
-internal_id: "C2845781"
-label_id: "1868944"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011049/2018-11-14/0"
-intitule_bron: "Stb.1999-600"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-23"
-intitule_published: "1999-12-30"
-intitule_in_force: "1999-12-30"
-intitule_status: "goed"
-original_publication: "Stb.1999-600"
-original_signed_date: "1999-12-23"
-original_published_date: "1999-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1999-600"
-entry_into_force_date: "2000-01-01"
-jci_1_3: "jci1.3:c:BWBR0011049&z=2018-11-14&g=2018-11-14"
-jci_1_0: "1.0:c:BWBR0011049&g=2018-11-14"
-citeertitel_status: "officieel"
-short_title: "Besluit regels export uitkeringen"
-signed_date: "1999-12-23"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2018-11-14
+status: geldig
+toestand: 2018-11-14
+bron: "https://wetten.overheid.nl/BWBR0011049"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 23 december 1999, houdende afwijkende regels inzake het recht op een uitkering ten aanzien van personen die niet in Nederland wonen (Besluit afwijkende regels beperking export uitkeringen)
-
-Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst van 8 december 1999, Directie Sociale Verzekeringen, nr. SV/GSV/99/78348;
-
-Gelet op de [artikelen 19a, vierde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=19a), [20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=20), en [43b, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43b), [7a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7a), en [19a, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19a), [8a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8a), en [9a, derde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9a), [7b, vierde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7b), [32a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=32a), en [32b, vierde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=32b);
-
-De Raad van State gehoord (advies van 16 december 1999, nr. W12.99.0609/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst van 21 december 1999, Directie Sociale Verzekeringen, nr. SV/GSV/99/81589;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepaling
 
@@ -62,29 +30,33 @@ Voor de toepassing van dit besluit wordt onder werkzaamheden die in het algemeen
 
 ### Hoofdstuk 2. Recht op uitkering bij werken in het algemeen belang en het niet in Nederland wonen
 
-##### Artikel 2. Recht op ziekengeld op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel 2. Recht op ziekengeld op grond van de Ziektewet
 
 De persoon die verzekerd is op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) uit hoofde van een dienstbetrekking tot het verrichten van werkzaamheden in het algemeen belang en zijn in hetzelfde land wonende gezinslid hebben recht op ziekengeld op grond van de Ziektewet.
 
-##### Artikel 3. Recht op toekenning van arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel 3. Recht op toekenning van arbeidsongeschiktheidsuitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering
 
 De verzekerde, bedoeld in [artikel 19 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19), of zijn in hetzelfde land wonende gezinslid heeft recht op toekenning van arbeidsongeschiktheidsuitkering dan wel van die verzekerde of zijn in hetzelfde land wonende gezinslid wordt de arbeidsongeschiktheidsuitkering niet ingetrokken, indien de verzekerde werkzaamheden in het algemeen belang verricht.
 
-##### Artikel 4. Recht op arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+##### Artikel 3a. Recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen
+
+Voor de verzekerde, bedoeld in [artikel 45, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=45), of zijn in hetzelfde land wonende gezinslid ontstaat of herleeft het recht op een uitkering op grond van die wet dan wel eindigt een dergelijke uitkering niet, indien de verzekerde werkzaamheden in het algemeen belang verricht.
+
+##### Artikel 4. Recht op arbeidsongeschiktheidsuitkering op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
 Een verzekerde als bedoeld in de [artikelen 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7a), onderscheidenlijk [19a, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19a) of zijn in hetzelfde land wonende gezinslid heeft recht op arbeidsongeschiktheidsuitkering dan wel voor die verzekerde of zijn in hetzelfde land wonende gezinslid eindigt het recht op arbeidsongeschiktheidsuitkering niet indien de verzekerde werkzaamheden in het algemeen belang verricht.
 
-##### Artikel 5. Recht op toeslag en de hoogte van het bruto-ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+##### Artikel 5. Recht op toeslag en de hoogte van het bruto-ouderdomspensioen op grond van de Algemene Ouderdomswet
 
 1. De pensioengerechtigde, bedoeld in [artikel 8a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8a) heeft recht op een toeslag indien deze pensioengerechtigde werkzaamheden in het algemeen belang verricht.
 
 2. Een pensioengerechtigde als bedoeld in [artikel 9, eerste lid, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9) die niet in Nederland woont en werkzaamheden in het algemeen belang verricht heeft recht op ouderdomspensioen alsof hij in Nederland woont.
 
-##### Artikel 6. Recht op kinderbijslag op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+##### Artikel 6. Recht op kinderbijslag op grond van de Algemene Kinderbijslagwet
 
 De verzekerde, bedoeld in [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7b), heeft recht op kinderbijslag, indien hij werkzaamheden in het algemeen belang verricht en het eigen kind, het aangehuwde kind of het pleegkind woont in hetzelfde land of indien de verzekerde recht op kinderbijslag zou hebben indien hij in Nederland zou wonen.
 
-##### Artikel 7. Recht op nabestaandenuitkering en wezenuitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+##### Artikel 7. Recht op nabestaandenuitkering en wezenuitkering op grond van de Algemene nabestaandenwet
 
 1. Voor de nabestaande, bedoeld in [artikel 32a, eerste lid, van de Algemene nabestaandenwet,](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=32a) ontstaat recht op nabestaandenuitkering, indien de nabestaande werkzaamheden in het algemeen belang verricht.
 
@@ -94,31 +66,35 @@ De verzekerde, bedoeld in [artikel 7b, eerste lid, van de Algemene Kinderbijslag
 
 4. Voor het kind, bedoeld in [artikel 32b, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=32b), eindigt het recht op wezenuitkering niet, indien het kind werkzaamheden in het algemeen belang verricht.
 
-### Hoofdstuk 3. Recht op uitkering op de Nederlandse Antillen
+### Hoofdstuk 3. Recht op uitkering in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba
 
-##### Artikel 8. Recht op ziekengeld op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel 8. Recht op ziekengeld op grond van de Ziektewet
 
 De verzekerde, bedoeld in [artikel 19a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=19a), heeft recht op ziekengeld op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), indien deze verzekerde in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
-##### Artikel 9. Recht op toekenning van arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel 9. Recht op toekenning van arbeidsongeschiktheidsuitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering
 
 De verzekerde, bedoeld in [artikel 19 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19), heeft recht op toekenning van de arbeidsongeschiktheidsuitkering dan wel van die verzekerde wordt de arbeidsongeschiktheidsuitkering niet ingetrokken, indien deze verzekerde in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
-##### Artikel 10. Recht op arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+##### Artikel 9a. Recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen
+
+Voor de verzekerde, bedoeld in [artikel 45, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=45), ontstaat of herleeft het recht op een uitkering op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel eindigt een dergelijke uitkering niet, indien de verzekerde in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
+
+##### Artikel 10. Recht op arbeidsongeschiktheidsuitkering op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
 Een verzekerde als bedoeld in de [artikelen 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7a), onderscheidenlijk [19a, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19a) heeft recht op arbeidsongeschiktheidsuitkering dan wel voor die verzekerde eindigt het recht op arbeidsongeschiktheidsuitkering niet indien de verzekerde in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
-##### Artikel 11. Recht op toeslag en de hoogte van het bruto-ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+##### Artikel 11. Recht op toeslag en de hoogte van het bruto-ouderdomspensioen op grond van de Algemene Ouderdomswet
 
 1. De pensioengerechtigde, bedoeld in [artikel 8a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8a) heeft recht op een toeslag indien deze pensioengerechtigde in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
 2. Een pensioengerechtigde als bedoeld in [artikel 9, eerste lid, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9) die in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont heeft recht op ouderdomspensioen alsof hij in Nederland woont.
 
-##### Artikel 12. Recht op kinderbijslag op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+##### Artikel 12. Recht op kinderbijslag op grond van de Algemene Kinderbijslagwet
 
 De verzekerde, bedoeld in [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7b), heeft recht op kinderbijslag, indien hij dan wel het eigen kind, het aangehuwde kind of het pleegkind in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont dan wel in Nederland, of indien de verzekerde woont in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba en hij recht op kinderbijslag zou hebben indien hij in Nederland zou wonen.
 
-##### Artikel 13. Recht op nabestaandenuitkering en wezenuitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+##### Artikel 13. Recht op nabestaandenuitkering en wezenuitkering op grond van de Algemene nabestaandenwet
 
 1. Voor de nabestaande, bedoeld in [artikel 32a, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=32a), ontstaat recht op nabestaandenuitkering, indien de nabestaande in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
@@ -128,41 +104,45 @@ De verzekerde, bedoeld in [artikel 7b, eerste lid, van de Algemene Kinderbijslag
 
 4. Voor het kind, bedoeld in [artikel 32b, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=32b), eindigt het recht op wezenuitkering niet, indien het kind in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
-### Hoofdstuk 4. Recht op uitkering op Aruba
+### Hoofdstuk 4. Recht op uitkering in Aruba
 
-##### Artikel 14. Recht op ziekengeld op grond van de [Ziektewet](onbekend)
+##### Artikel 14. Recht op ziekengeld op grond van de Ziektewet
 
-Vervallen
+*Vervallen*
 
-##### Artikel 15. Recht op toekenning van arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](onbekend)
+##### Artikel 15. Recht op toekenning van arbeidsongeschiktheidsuitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering
 
-Vervallen
+*Vervallen*
 
-##### Artikel 16. Recht op arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](onbekend)
+##### Artikel 15a. Recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen
 
-Vervallen
+*Vervallen*
 
-##### Artikel 17. Recht op toeslag en de hoogte van het bruto-ouderdomspensioen op grond van de [Algemene Ouderdomswet](onbekend)
+##### Artikel 16. Recht op arbeidsongeschiktheidsuitkering op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
-Vervallen
+*Vervallen*
 
-##### Artikel 18. Recht op kinderbijslag op grond van de [Algemene Kinderbijslagwet](onbekend)
+##### Artikel 17. Recht op toeslag en de hoogte van het bruto-ouderdomspensioen op grond van de Algemene Ouderdomswet
 
-Vervallen
+*Vervallen*
 
-##### Artikel 19. Recht op nabestaandenuitkering, halfwezenuitkering en wezenuitkering op grond van de [Algemene nabestaandenwet](onbekend)
+##### Artikel 18. Recht op kinderbijslag op grond van de Algemene Kinderbijslagwet
 
-Vervallen
+*Vervallen*
+
+##### Artikel 19. Recht op nabestaandenuitkering, halfwezenuitkering en wezenuitkering op grond van de Algemene nabestaandenwet
+
+*Vervallen*
 
 ### Hoofdstuk 5. Slotbepalingen
 
 ##### Artikel 20. Tijdelijk recht op uitkering op de Nederlandse Antillen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21. Tijdelijk recht op uitkering op Aruba
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22. Inwerkingtreding
 
@@ -173,25 +153,3 @@ Vervallen
 ##### Artikel 23. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit regels export uitkeringen.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3a. Recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
-
-Voor de verzekerde, bedoeld in [artikel 45, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=45), of zijn in hetzelfde land wonende gezinslid ontstaat of herleeft het recht op een uitkering op grond van die wet dan wel eindigt een dergelijke uitkering niet, indien de verzekerde werkzaamheden in het algemeen belang verricht.
-
-### Hoofdstuk 3. Recht op uitkering in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba
-
-##### Artikel 9a. Recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
-
-Voor de verzekerde, bedoeld in [artikel 45, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=45), ontstaat of herleeft het recht op een uitkering op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel eindigt een dergelijke uitkering niet, indien de verzekerde in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
-
-### Hoofdstuk 4. Recht op uitkering in Aruba
-
-##### Artikel 15a. Recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](onbekend)
-
-Vervallen
-
-### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

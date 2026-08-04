@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 22 juni 1998, houdende de toekenning van een vaste beloning aan de voorzitter en de leden van de landelijke geschillencommissie samenwerkingsverbanden WSNS, bedoeld in artikel 13 d van de Wet op het primair onderwijs (Staatsblad 1998, 228)"
+citeertitel: "Besluit vaste beloning Landelijke geschillencommissie samenwerkingsverbanden WSNS"
 identifier: "BWBR0009714"
-country: "nl"
-rank: "kb"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009714"
+categorie: "Onderwijs"
 soort: "KB"
-stam_id: "842683"
-version_id: "1225322"
-internal_id: "C1225321"
-label_id: "816504"
-dtd_version: "2.0"
-original_entry_into_force: "1998-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009714/2002-01-01/0"
-intitule_bron: "Stb.1998-380"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-06-22"
-intitule_published: "1998-06-30"
-intitule_in_force: "1998-06-30"
-intitule_status: "goed"
-original_publication: "Stb.1998-380"
-original_signed_date: "1998-06-22"
-original_published_date: "1998-06-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1998-380"
-entry_into_force_date: "1998-07-01"
-jci_1_3: "jci1.3:c:BWBR0009714&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0009714&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit vaste beloning Landelijke geschillencommissie samenwerkingsverbanden WSNS"
-signed_date: "1998-06-22"
-entry_into_force: "1998-07-01"
+publicatiedatum: 1998-07-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0009714"
+opgehaald: 2026-08-04
 ---
+
 # Besluit van 22 juni 1998, houdende de toekenning van een vaste beloning aan de voorzitter en de leden van de landelijke geschillencommissie samenwerkingsverbanden WSNS, bedoeld in artikel 13 d van de Wet op het primair onderwijs (Staatsblad 1998, 228)
-
-Op de voordracht van Onze Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, T. Netelenbos, van 16 juni 1998, nr. PO/PJ 98 25249, directie Primair Onderwijs;
-
-Gelet op [artikel 3 van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=3);
-
-Hebben goedgevonden en verstaan:
-
-Werkt terug tot en met 15 mei 1998.
 
 ##### Artikel 1. Vaste Beloning Voorzitter
 
@@ -63,5 +33,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit vaste beloning Landelijke geschillencommissie samenwerkingsverbanden WSNS.
-
-Onze Minister van Onderwijs, Cultuur en Wetenschappen is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

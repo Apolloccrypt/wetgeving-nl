@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0029600"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van 3 februari 2011, houdende vaststelling van voorschriften inzake de kerndoelen WPO BES (Besluit kerndoelen WPO BES)

@@ -1,46 +1,71 @@
 ---
 title: "Stimuleringsregeling gecombineerd goederenvervoer 2000"
 identifier: "BWBR0010927"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-12-12"
-last_updated: "1999-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010927"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4027563"
-version_id: "5800762"
-internal_id: "C6003501"
-label_id: "4007634"
-dtd_version: "2.0"
-original_entry_into_force: "1999-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010927/1999-12-12/0"
-intitule_bron: "Stcrt.1999-239"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-03"
-intitule_published: "1999-12-10"
-intitule_in_force: "1999-12-10"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-239"
-original_signed_date: "1999-12-03"
-original_published_date: "1999-12-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-12-12"
-jci_1_3: "jci1.3:c:BWBR0010927&z=1999-12-12&g=1999-12-12"
-jci_1_0: "1.0:c:BWBR0010927&g=1999-12-12"
-citeertitel_status: "officieel"
-signed_date: "1999-12-03"
-entry_into_force: "1999-12-12"
+publicatiedatum: 1999-12-12
+laatste_update: 1999-12-12
+status: geldig
+toestand: 1999-12-12
+bron: "https://wetten.overheid.nl/BWBR0010927"
+opgehaald: 2026-08-04
 ---
+
 # Stimuleringsregeling gecombineerd goederenvervoer 2000
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4) en [6 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=6);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+de Minister:
+
+de Minister van Verkeer en Waterstaat;
+
+b.
+
+gecombineerd goederenvervoer:
+
+vervoer van goederen in dezelfde laadeenheid, met uitzondering van eenheden die onder de ISO serie I freight containers vallen, door middel van een combinatie van tenminste twee vervoersmodaliteiten die behoren tot de categorieën wegvervoer, binnenvaart, spoorvervoer of kustvaart, zonder dat daarbij de goederen zelf worden behandeld;
+
+c.
+
+transportonderneming:
+
+- 1º. de in Nederland gevestigde natuurlijke persoon of rechtspersoon die zelfstandig activiteiten uitoefent die geheel of gedeeltelijk bestaan uit het beroepsmatig exploiteren van vervoermaterieel ten behoeve van het gecombineerd goederenvervoer, of
+
+- 2º. twee of meer in Nederland gevestigde rechtspersonen of natuurlijke personen die te samen in de vorm van een vennootschap onder firma of commanditaire vennootschap activiteiten uitoefenen die geheel of gedeeltelijk bestaan uit het beroepsmatig exploiteren van vervoermaterieel ten behoeve van het gecombineerd goederenvervoer;
+
+d.
+
+groep:
+
+een economische eenheid, waarin organisatorisch zijn verbonden:
+
+- 1º. 1 een natuurlijke persoon of rechtspersoon die direct of indirect:
+
+   - meer dan de helft van het geplaatste kapitaal verschaft aan,
+
+   - volledig aansprakelijk vennoot is van, of
+
+   - overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en
+
+- 2º. laatstbedoelde rechtspersonen of vennootschappen;
+
+e.
+
+leasen:
+
+- 1º. het aangaan van een lease-overeenkomst met een looptijd van minimaal 24 maanden waarin aan de lessee het recht is toegekend het geleaste object aan het einde van de lease-periode te kopen voor een bedrag van maximaal 5% van de oorspronkelijke kostprijs, of
+
+- 2º. het aangaan van een overeenkomst tot huurkoop als bedoeld in artikel 1576h van boek 7A van het Burgerlijk Wetboek;
+
+f.
+
+Senter:
+
+het agentschap Senter van het Ministerie van Economische Zaken.
 
 ##### Artikel 2. Subsidie
 
@@ -68,7 +93,41 @@ In deze regeling wordt verstaan onder:
 
 3. Onverminderd [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010927&artikel=5&z=1999-12-12&g=1999-12-12), bedraagt de subsidie voor materieel genoemd in het eerste lid, onder:
 
-a : f 1.750,- per eenheid; b: f 1.750,- per eenheid; c: f 5.000,- per eenheid; d: f 5.000,- per eenheid; e: f 10.000,- per eenheid; f: f 3.500,- per eenheid; g: f 10.000,- per eenheid; h: f 10.000,- per eenheid; i: f 10.000,- per eenheid.
+a :
+
+f 1.750,- per eenheid;
+
+b:
+
+f 1.750,- per eenheid;
+
+c:
+
+f 5.000,- per eenheid;
+
+d:
+
+f 5.000,- per eenheid;
+
+e:
+
+f 10.000,- per eenheid;
+
+f:
+
+f 3.500,- per eenheid;
+
+g:
+
+f 10.000,- per eenheid;
+
+h:
+
+f 10.000,- per eenheid;
+
+i:
+
+f 10.000,- per eenheid.
 
 4. Per aanvraag wordt voor maximaal 40 eenheden materieel subsidie toegekend.
 
@@ -167,5 +226,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Stimuleringsregeling gecombineerd goederenvervoer 2000.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

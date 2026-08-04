@@ -1,107 +1,78 @@
 ---
 title: "Wet van 14 mei 1998, houdende wijziging van het Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 en van enige andere wetten (Flexibiliteit en zekerheid)"
+citeertitel: "Wijzigingswet Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 enz. (Flexibiliteit en zekerheid)"
 identifier: "BWBR0009612"
-country: "nl"
-rank: "wet"
-publication_date: "2006-12-20"
-last_updated: "2006-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009612"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "919093"
-version_id: "1346262"
-internal_id: "C1346261"
-label_id: "891464"
-dtd_version: "2.0"
-original_entry_into_force: "1999-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009612/2006-12-20/0"
-intitule_bron: "Stb.1998-300"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-05-14"
-intitule_published: "1998-06-02"
-intitule_in_force: "1998-06-16"
-intitule_status: "goed"
-original_publication: "Stb.1998-300"
-original_signed_date: "1998-05-14"
-original_published_date: "1998-06-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "25263"
-original_url_id: "stb-1998-300"
-entry_into_force_date: "1999-01-01"
-jci_1_3: "jci1.3:c:BWBR0009612&z=2006-12-20&g=2006-12-20"
-jci_1_0: "1.0:c:BWBR0009612&g=2006-12-20"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 enz. (Flexibiliteit en zekerheid)"
-signed_date: "1998-05-14"
-entry_into_force: "1999-01-01"
+publicatiedatum: 1999-01-01
+laatste_update: 2006-12-20
+status: geldig
+toestand: 2006-12-20
+bron: "https://wetten.overheid.nl/BWBR0009612"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 14 mei 1998, houdende wijziging van het Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 en van enige andere wetten (Flexibiliteit en zekerheid)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de flexibiliteit in het arbeidsbestel te vergroten met handhaving van een adequaat beschermingsniveau voor werknemers, alsmede de bevoegdheid tot het verlenen van de toestemming voor de opzegging van een arbeidsverhouding toe te kennen aan de Regionaal Directeur van de Arbeidsvoorzieningsorganisatie en in verband daarmee het Burgerlijk Wetboek, het [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014) en enige andere wetten te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### ARTIKEL I
 
-Wijzigt Boek 7 van het Burgerlijk Wetboek.
+*Wijzigt Boek 7 van het Burgerlijk Wetboek.*
 
 ##### ARTIKEL II
 
-Wijzigt het Buitengewoon Besluit Arbeidsverhoudingen 1945.
+*Wijzigt het Buitengewoon Besluit Arbeidsverhoudingen 1945.*
 
 ##### ARTIKEL III
 
-Wijzigt de Wet op de ondernemingsraden.
+*Wijzigt de Wet op de ondernemingsraden.*
 
 ##### ARTIKEL IV
 
-Wijzigt de Arbeidsomstandighedenwet.
+*Wijzigt de Arbeidsomstandighedenwet.*
 
 ##### ARTIKEL V
 
-Wijzigt de Wet melding collectief ontslag.
+*Wijzigt de Wet melding collectief ontslag.*
 
 ##### ARTIKEL VI
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
 ##### ARTIKEL VII
 
-Wijzigt de Uitvoeringswet Europees Verdrag inzake rechtspositie migrerende werknemers.
+*Wijzigt de Uitvoeringswet Europees Verdrag inzake rechtspositie migrerende werknemers.*
 
 ##### ARTIKEL VIII
 
-Wijzigt de Wet van 14 september 1995 houdende bijzondere bepalingen voor handelsvertegenwoordigers (Stb. 506).
+*Wijzigt de Wet van 14 september 1995 houdende bijzondere bepalingen voor handelsvertegenwoordigers (Stb. 506).*
 
 ##### ARTIKEL IX
 
-Wijzigt de Wet van 11 september 1991 tot wijziging van het Burgerlijk Wetboek in verband met de ontslagbescherming van buitenlandse werknemers (Stb. 1991, 473).
+*Wijzigt de Wet van 11 september 1991 tot wijziging van het Burgerlijk Wetboek in verband met de ontslagbescherming van buitenlandse werknemers (Stb. 1991, 473).*
 
 ##### ARTIKEL X
 
-Wijzigt de Wet van 23 december 1992, houdende enkele correcties in de Pensioen- en spaarfondsenwet en in enige andere wetten (Stb. 1993, 15).
+*Wijzigt de Wet van 23 december 1992, houdende enkele correcties in de Pensioen- en spaarfondsenwet en in enige andere wetten (Stb. 1993, 15).*
 
 ##### ARTIKEL XI
 
-Wijzigt de Wet op de Europese ondernemingsraden.
+*Wijzigt de Wet op de Europese ondernemingsraden.*
 
 ##### ARTIKEL XII
 
-Wijzigt de Faillissementswet.
+*Wijzigt de Faillissementswet.*
 
 ##### ARTIKEL XIII
 
-Wijzigt de Wet minimumloon en minimumvakantiebijslag.
+*Wijzigt de Wet minimumloon en minimumvakantiebijslag.*
 
 ##### ARTIKEL XIV
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### ARTIKEL XV
 
-Wijzigt Boek 7 van het Burgerlijk Wetboek en de Wet op het ouderschapsverlof.
+*Wijzigt Boek 7 van het Burgerlijk Wetboek en de Wet op het ouderschapsverlof.*
 
 ##### ARTIKEL XVI
 
@@ -156,5 +127,3 @@ Op een proeftijd welke is overeengekomen maar nog niet is verstreken op het tijd
 ##### ARTIKEL XXIV
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze wet in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

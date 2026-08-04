@@ -1,43 +1,18 @@
 ---
 title: "Regeling inzake vermindering en vrijstelling van Kazachse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland"
+citeertitel: "Kazachse uitvoeringsvoorschriften belastingverdrag Nederland-Kazachstan"
 identifier: "BWBR0009835"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-02-19"
-last_updated: "1999-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0009835"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4260573"
-version_id: "6023972"
-internal_id: "C6227361"
-label_id: "4239114"
-dtd_version: "2.0"
-original_entry_into_force: "1998-08-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0009835/1999-02-19/0"
-intitule_bron: "Stcrt.1998-153"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-08-07"
-intitule_published: "1998-08-14"
-intitule_in_force: "1998-08-14"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-153"
-original_signed_date: "1998-08-07"
-original_published_date: "1998-08-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-08-16"
-jci_1_3: "jci1.3:c:BWBR0009835&z=1999-02-19&g=1999-02-19"
-jci_1_0: "1.0:c:BWBR0009835&g=1999-02-19"
-citeertitel_status: "officieel"
-short_title: "Kazachse uitvoeringsvoorschriften belastingverdrag Nederland-Kazachstan"
-signed_date: "1998-08-07"
-entry_into_force: "1998-08-16"
+publicatiedatum: 1998-08-16
+laatste_update: 1999-02-19
+status: geldig
+toestand: 1999-02-19
+bron: "https://wetten.overheid.nl/BWBR0009835"
+opgehaald: 2026-08-04
 ---
+
 # Regeling inzake vermindering en vrijstelling van Kazachse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -69,41 +44,41 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009835&a
 
 - 2. Vrijstellingsprocedure Als algemene regel geldt dat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009835&artikel=1&z=1999-02-19&g=1999-02-19) vermelde verminderingen en vrijstellingen in Kazachstan bij de bron worden verleend. Bij het verzoek om teruggaaf moet de belanghebbende in Nederland wonende natuurlijke persoon overleggen een gedateerde en ondertekende verklaring van de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij/zij woont, inhoudende een bevestiging dat hij/zij op de datum van betaalbaarstelling van de desbetreffende dividenden, interest of royalty’s inwoner van Nederland is in de zin van artikel 4 van het Nederlands-Kazachse belastingverdrag en ter zake van die inkomsten aan de belasting is onderworpen. Deze verklaring kan door de belanghebbende in Nederland wonende natuurlijke persoon worden aangevraagd bij vorenbedoelde inspecteur. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Inspector of the Local Office of the Tax and Customs Administration at.................................................... certifies that ..................................................... (name and address of the applicant) on the payable date(s) of the dividends/interest/royalties concerned is a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and Kazakh-stan for the avoidance of double taxation and he is subject to tax with respect to the income concerned. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst. De hiervoor bedoelde Kazachse belastinginspectie onderzoekt of het in tweevoud ingediende verzoek in overeenstemming is met de bepalingen van het Nederlands-Kazachse belastingverdrag en voorziet de beide exemplaren van het verzoek van dagtekening en ondertekening, van de mededeling dat het verzoek in overeenstemming is met de bepalingen van artikel 10, 11 of 12 van het Nederlands-Kazachse belastingverdrag alsmede van het bedrag aan Kazachse belasting dat over de dividenden, interest of royalty’s ingevolge het verdrag verschuldigd is. Vervolgens zendt zij de beide exemplaren van het verzoek aan de verzoeker terug. Na terugontvangst zendt de verzoeker een exemplaar van het verzoek aan de Kazachse schuldenaar van de dividenden, interest en royalty’s, die vervolgens die inkomsten mag uitbetalen zonder inhouding van Kazachse belasting of onder inhouding van Kazachse belasting naar ten hoogste het in het Nederlands-Kazachse belastingverdrag neergelegde percentage. Alle in het verzoek vermelde bedragen moeten luiden in dezelfde valuta als waarin de betalingen worden gedaan. Indien het verzoek door een gemachtigde wordt ingevuld en ondertekend, moet een door een notaris opgemaakte machtiging worden bijgevoegd.
 
-- a. Lichamen Voor het verkrijgen van de vermindering of vrijstelling aan de bron moeten in Nederland gevestigde lichamen gebruik maken van het formulier ’Claim for relief from, or reduction the rate of, Kazakstan income tax, due to foreign companies carrying on business without permanent establishment in the Republic of Kazakstan (Form N° 1)’. Dit formulier, luidende in de Engelse en Russische taal, moet door het belanghebbende in Nederland gevestigde lichaam worden ingevuld en ondertekend. Vervolgens moet het de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied het gevestigd is. De inspecteur voorziet de drie exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging, behoudt een exemplaar van het formulier ten behoeve van de legger van de aanvrager en zendt de overige twee exemplaren aan hem terug. Nadat het belanghebbende in Nederland gevestigde lichaam de twee gecertificeerde exemplaren van het formulier heeft terugontvangen, zendt het die exemplaren naar de Kazachse belastinginspectie binnen wier ambtsgebied de dividenden, interest en royalty’s worden uitbetaald. Vorenbedoelde Kazachse belastinginspectie onderzoekt of het ingediende formulier in overeenstemming is met de bepalingen van het Nederlands-Kazachse belastingverdrag en voorziet de beide exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende mededeling. Vervolgens zendt zij de beide exemplaren van het formulier aan de verzoeker terug. Na terugontvangst zendt de verzoeker een exemplaar van het formulier aan de Kazachse schuldenaar van de dividenden, interest en royalty’s, die vervolgens die inkomsten mag uitbetalen zonder inhouding van Kazachse belasting of onder inhouding van Kazachse belasting naar ten hoogste het in het Nederlands-Kazachse belastingverdrag neergelegde percentage. Alle in het formulier vermelde bedragen moeten luiden in dezelfde valuta als waarin de betalingen worden gedaan. Indien het formulier door een gemachtigde wordt ingevuld en ondertekend, moet een door een notaris opgemaakte machtiging worden bijgevoegd.
+   - a. Lichamen Voor het verkrijgen van de vermindering of vrijstelling aan de bron moeten in Nederland gevestigde lichamen gebruik maken van het formulier ’Claim for relief from, or reduction the rate of, Kazakstan income tax, due to foreign companies carrying on business without permanent establishment in the Republic of Kazakstan (Form N° 1)’. Dit formulier, luidende in de Engelse en Russische taal, moet door het belanghebbende in Nederland gevestigde lichaam worden ingevuld en ondertekend. Vervolgens moet het de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied het gevestigd is. De inspecteur voorziet de drie exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging, behoudt een exemplaar van het formulier ten behoeve van de legger van de aanvrager en zendt de overige twee exemplaren aan hem terug. Nadat het belanghebbende in Nederland gevestigde lichaam de twee gecertificeerde exemplaren van het formulier heeft terugontvangen, zendt het die exemplaren naar de Kazachse belastinginspectie binnen wier ambtsgebied de dividenden, interest en royalty’s worden uitbetaald. Vorenbedoelde Kazachse belastinginspectie onderzoekt of het ingediende formulier in overeenstemming is met de bepalingen van het Nederlands-Kazachse belastingverdrag en voorziet de beide exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende mededeling. Vervolgens zendt zij de beide exemplaren van het formulier aan de verzoeker terug. Na terugontvangst zendt de verzoeker een exemplaar van het formulier aan de Kazachse schuldenaar van de dividenden, interest en royalty’s, die vervolgens die inkomsten mag uitbetalen zonder inhouding van Kazachse belasting of onder inhouding van Kazachse belasting naar ten hoogste het in het Nederlands-Kazachse belastingverdrag neergelegde percentage. Alle in het formulier vermelde bedragen moeten luiden in dezelfde valuta als waarin de betalingen worden gedaan. Indien het formulier door een gemachtigde wordt ingevuld en ondertekend, moet een door een notaris opgemaakte machtiging worden bijgevoegd.
 
-- b. Natuurlijke personen Ten aanzien van natuurlijke personen is voor het verkrijgen van de vermindering of vrijstelling aan de bron van Kazachse zijde thans nog geen speciaal formulier vastgesteld. De in Nederland wonende natuurlijke persoon dient zich met een verzoek om vermindering of vrijstelling van Kazachse belasting te wenden tot de Kazachse belastinginspectie binnen wier ambtsgebied de dividenden, interest en royalty’s worden uitbetaald. In het verzoek, gedaan in tweevoud en dat niet aan een bepaalde vorm is gebonden maar wel gesteld moet worden in de Engelse of Russische taal, dient de belanghebbende in Nederland wonende natuurlijke persoon de volgende gegevens te verstrekken:
+   - b. Natuurlijke personen Ten aanzien van natuurlijke personen is voor het verkrijgen van de vermindering of vrijstelling aan de bron van Kazachse zijde thans nog geen speciaal formulier vastgesteld. De in Nederland wonende natuurlijke persoon dient zich met een verzoek om vermindering of vrijstelling van Kazachse belasting te wenden tot de Kazachse belastinginspectie binnen wier ambtsgebied de dividenden, interest en royalty’s worden uitbetaald. In het verzoek, gedaan in tweevoud en dat niet aan een bepaalde vorm is gebonden maar wel gesteld moet worden in de Engelse of Russische taal, dient de belanghebbende in Nederland wonende natuurlijke persoon de volgende gegevens te verstrekken:
 
-- 1. de naam, het adres en het belastingindentificatienummer van de Kazchse schuldenaar van de dividenden, interest en royalty’s;
+      - 1. de naam, het adres en het belastingindentificatienummer van de Kazchse schuldenaar van de dividenden, interest en royalty’s;
 
-- 2. de gegevens omtrent de dividenden, interest en royalty’s;
+      - 2. de gegevens omtrent de dividenden, interest en royalty’s;
 
-- 3. het bronheffingstarief dat op grond van de Kazachse belastingwet-geving in Kazachstan over de onder 1 genoemde inkomsten verschuldigd is;
+      - 3. het bronheffingstarief dat op grond van de Kazachse belastingwet-geving in Kazachstan over de onder 1 genoemde inkomsten verschuldigd is;
 
-- 4. het bronheffingstarief dat op grond van het Nederlands-Kazachse belastingverdrag in Kazachstan over de onder 1 genoemde inkomsten geheven mag worden;
+      - 4. het bronheffingstarief dat op grond van het Nederlands-Kazachse belastingverdrag in Kazachstan over de onder 1 genoemde inkomsten geheven mag worden;
 
-- 5. dat hij/zij in Kazachstan geen vaste inrichting of vast middelpunt heeft;
+      - 5. dat hij/zij in Kazachstan geen vaste inrichting of vast middelpunt heeft;
 
-- 6. dat hij/zij de uiteindelijk gerechtigde is tot de dividenden, interest of royalty’s.
+      - 6. dat hij/zij de uiteindelijk gerechtigde is tot de dividenden, interest of royalty’s.
 
 - 3. Teruggaafprocedure Bij het verzoek om teruggaaf moet de belanghebbende in Nederland wonende natuurlijke persoon overleggen een gedateerde en ondertekende verklaring van de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij/zij woont, inhoudende een bevestiging dat hij/zij op de datum van betaalbaarstelling van de desbetreffende dividenden, interest of royalty’s inwoner van Nederland was in de zin van artikel 4 van het Nederlands- Kazachse belastingverdrag en ter zake van die inkomsten aan de belasting is onderworpen. Deze verklaring kan door de belanghebbende in Nederland wonende natuurlijke persoon worden aangevraagd bij vorenbedoelde inspecteur. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Inspector of the Local Office of the Tax and Customs Administration at.................................................... certifies that ..................................................... (name and address of the applicant) on the payable date(s) of the dividends/interest/royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and Kazakhstan for the avoidance of double taxation and he was subject to tax with respect to the income concerned. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst. De hiervoor bedoelde Kazachse belastinginspectie onderzoekt of het in tweevoud ingediende verzoek in overeenstemming is met de bepalingen van het Nederlands-Kazachse belastingverdrag en voorziet de beide exemplaren van het verzoek van dagtekening en ondertekening, van de mededeling dat het verzoek in overeenstemming is met de bepalingen van artikel 10, 11 of 12 van het Nederlands-Kazachse belastingverdrag alsmede van het bedrag aan Kazachse belasting dat over de dividenden, interest of royalty’s ingevolge het verdrag verschuldigd is. Vervolgens zendt zij een exemplaar van het verzoek naar de aangewezen bank, die vervolgens het bedrag van de gevraagde teruggaaf uitbetaalt. Alle in het verzoek vermelde bedragen moeten luiden in dezelfde valuta als waarin de betalingen worden gedaan. Indien het verzoek door een gemachtigde wordt ingevuld en ondertekend, moet een door een notaris opgemaakte machtiging worden bijgevoegd.
 
-- a. Lichamen Indien bij de uitbetaling van de Kazachse dividenden, interest en royalty’s de Kazachse belasting ten volle is ingehouden, dan kan teruggaaf van de op grond van het Verdrag te veel ingehouden belasting worden verzocht. In Nederland gevestigde lichamen dienen deze teruggaaf te vragen door middel van het formulier ’Claim for a refund of Kazakstan withholding tax on the income received by a foreign company carrying on business without permanent establishment in the Republic of Kazakstan (Form N° 2)’. Dit formulier, luidende in de Engelse en Russische taal, moet door het belanghebbende in Nederland gevestigde lichaam in drievoud worden ingevuld en ondertekend. Vervolgens moet het de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied het gevestigd is. De inspecteur voorziet de drie exemplaren van het formulier van dag-tekening en ondertekening van de daarop voorkomende woonplaatsbevestiging, behoudt het eerste exemplaar van het formulier ten behoeve van de legger van de aanvrager en zendt de overige twee exemplaren aan hem terug. Nadat het belanghebbende in Nederland gevestigde lichaam de twee gecertificeerde exemplaren van het formulier heeft terugontvangen, zendt het die exemplaren naar het Kazachse belastingkantoor binnen wiens ambtsgebied de dividenden, interest en royalty’s zijn uitbetaald. Vorenbedoelde Kazachse belastinginspectie onderzoekt of het ingediende formulier in overeenstemming is met de bepalingen van het Nederlands-Kazachse belastingverdrag en voorziet de beide exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende mededeling (onderdeel V van het formulier). Is dat het geval dan zendt vorenbedoelde Kazachse belastinginspectie een exemplaar van het formulier naar de aangewezen bank, die vervolgens het bedrag van de gevraagde teruggaaf uitbetaalt. Alle in het formulier vermelde bedragen moeten luiden in dezelfde valuta als waarin de betalingen werden gedaan. Indien het formulier door een gemachtigde wordt ingevuld en ondertekend, moet een door een notaris opgemaakte machtiging worden bijgevoegd.
+   - a. Lichamen Indien bij de uitbetaling van de Kazachse dividenden, interest en royalty’s de Kazachse belasting ten volle is ingehouden, dan kan teruggaaf van de op grond van het Verdrag te veel ingehouden belasting worden verzocht. In Nederland gevestigde lichamen dienen deze teruggaaf te vragen door middel van het formulier ’Claim for a refund of Kazakstan withholding tax on the income received by a foreign company carrying on business without permanent establishment in the Republic of Kazakstan (Form N° 2)’. Dit formulier, luidende in de Engelse en Russische taal, moet door het belanghebbende in Nederland gevestigde lichaam in drievoud worden ingevuld en ondertekend. Vervolgens moet het de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied het gevestigd is. De inspecteur voorziet de drie exemplaren van het formulier van dag-tekening en ondertekening van de daarop voorkomende woonplaatsbevestiging, behoudt het eerste exemplaar van het formulier ten behoeve van de legger van de aanvrager en zendt de overige twee exemplaren aan hem terug. Nadat het belanghebbende in Nederland gevestigde lichaam de twee gecertificeerde exemplaren van het formulier heeft terugontvangen, zendt het die exemplaren naar het Kazachse belastingkantoor binnen wiens ambtsgebied de dividenden, interest en royalty’s zijn uitbetaald. Vorenbedoelde Kazachse belastinginspectie onderzoekt of het ingediende formulier in overeenstemming is met de bepalingen van het Nederlands-Kazachse belastingverdrag en voorziet de beide exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende mededeling (onderdeel V van het formulier). Is dat het geval dan zendt vorenbedoelde Kazachse belastinginspectie een exemplaar van het formulier naar de aangewezen bank, die vervolgens het bedrag van de gevraagde teruggaaf uitbetaalt. Alle in het formulier vermelde bedragen moeten luiden in dezelfde valuta als waarin de betalingen werden gedaan. Indien het formulier door een gemachtigde wordt ingevuld en ondertekend, moet een door een notaris opgemaakte machtiging worden bijgevoegd.
 
-- b. Natuurlijke personen Ten aanzien van natuurlijke personen is voor het verkrijgen van teruggaaf van te veel ingehouden Kazachse belasting van Kazachse zijde thans nog geen speciaal formulier vastgesteld. De in Nederland wonende natuurlijke persoon dient zich met een verzoek om teruggaaf van Kazachse belasting te wenden tot de Kazachse belastinginspectie binnen wier ambtsgebied de dividenden, interest en royalty’s zijn uitbetaald. In het verzoek, gedaan in tweevoud en dat niet aan een bepaalde vorm is gebonden maar wel gesteld moet worden in de Engelse of Russische taal, dient de belanghebbende in Nederland wonende natuurlijke persoon de volgende gegevens te verstrekken:
+   - b. Natuurlijke personen Ten aanzien van natuurlijke personen is voor het verkrijgen van teruggaaf van te veel ingehouden Kazachse belasting van Kazachse zijde thans nog geen speciaal formulier vastgesteld. De in Nederland wonende natuurlijke persoon dient zich met een verzoek om teruggaaf van Kazachse belasting te wenden tot de Kazachse belastinginspectie binnen wier ambtsgebied de dividenden, interest en royalty’s zijn uitbetaald. In het verzoek, gedaan in tweevoud en dat niet aan een bepaalde vorm is gebonden maar wel gesteld moet worden in de Engelse of Russische taal, dient de belanghebbende in Nederland wonende natuurlijke persoon de volgende gegevens te verstrekken:
 
-- 1. de naam, het adres en het belastingidentificatienummer van de Kazachse schuldenaar van de dividenden, interest en royalty’s;
+      - 1. de naam, het adres en het belastingidentificatienummer van de Kazachse schuldenaar van de dividenden, interest en royalty’s;
 
-- 2. de datum(s) van betaalbaarstelling en de brutobedragen van de dividenden, interest en royalty’s;
+      - 2. de datum(s) van betaalbaarstelling en de brutobedragen van de dividenden, interest en royalty’s;
 
-- 3. het bedrag van de op de dividenden, interest en royalty’s ingehouden Kazachse belasting;
+      - 3. het bedrag van de op de dividenden, interest en royalty’s ingehouden Kazachse belasting;
 
-- 4. het bedrag van de op grond van het verdrag op de dividenden, interest en royalty’s te veel ingehouden Kazachse belasting;
+      - 4. het bedrag van de op grond van het verdrag op de dividenden, interest en royalty’s te veel ingehouden Kazachse belasting;
 
-- 5. dat hij/zij in Kazachstan geen vaste inrichting of vast middelpunt heeft;
+      - 5. dat hij/zij in Kazachstan geen vaste inrichting of vast middelpunt heeft;
 
-- 6. dat hij/zij de uiteindelijk gerechtigde is tot de dividenden, interest of royalty’s;
+      - 6. dat hij/zij de uiteindelijk gerechtigde is tot de dividenden, interest of royalty’s;
 
-- 7. de naam en het adres van en het rekeningnummer bij de bank in Kazachstan waarnaar het bedrag van de teruggaaf moet worden overgemaakt.
+      - 7. de naam en het adres van en het rekeningnummer bij de bank in Kazachstan waarnaar het bedrag van de teruggaaf moet worden overgemaakt.
 
 - 4. Termijn van indiening van verzoeken om teruggaaf van belasting In de gevallen waarin teruggaaf wordt verzocht van de op de dividenden, interest en royalty’s te veel ingehouden Kazachse belasting, moet het formulier ’Claim for a refund of Kazakstan withholding tax on the income received by a foreign company carrying on business withhout permanent establishment in the Republic of Kazakstan (Form 7)’ onderscheidenlijk het verzoek om teruggaaf ingevolge de Kazachse belastingwetgeving worden ingediend binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven.
 

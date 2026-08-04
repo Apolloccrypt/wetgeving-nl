@@ -1,44 +1,17 @@
 ---
 title: "Regeling straf- en afzonderingscel penitentiaire inrichtingen"
 identifier: "BWBR0010524"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-07-15"
-last_updated: "1999-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010524"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling"
-stam_id: "3605343"
-version_id: "5388842"
-internal_id: "C5581931"
-label_id: "3585724"
-dtd_version: "2.0"
-original_entry_into_force: "1999-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010524/1999-07-15/0"
-intitule_bron: "Stcrt.1999-132"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-06-15"
-intitule_published: "1999-07-14"
-intitule_in_force: "1999-07-14"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-132"
-original_signed_date: "1999-06-15"
-original_published_date: "1999-07-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-07-15"
-jci_1_3: "jci1.3:c:BWBR0010524&z=1999-07-15&g=1999-07-15"
-jci_1_0: "1.0:c:BWBR0010524&g=1999-07-15"
-citeertitel_status: "officieel"
-signed_date: "1999-06-15"
-entry_into_force: "1999-07-15"
+publicatiedatum: 1999-07-15
+laatste_update: 1999-07-15
+status: geldig
+toestand: 1999-07-15
+bron: "https://wetten.overheid.nl/BWBR0010524"
+opgehaald: 2026-08-04
 ---
+
 # Regeling straf- en afzonderingscel penitentiaire inrichtingen
-
-Gelet op [artikel 24, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=24), en [artikel 55, derde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=55);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 12 oktober 1998, nr. 715330/98,
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -259,5 +232,3 @@ Deze regeling treedt in werking op 15 juli 1999.
 ##### Artikel 38
 
 Deze regeling wordt aangehaald als: Regeling straf- en afzonderingscel penitentiaire inrichtingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

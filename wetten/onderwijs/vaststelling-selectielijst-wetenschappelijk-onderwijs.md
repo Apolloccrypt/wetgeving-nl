@@ -1,44 +1,17 @@
 ---
 title: "Vaststelling selectielijst Wetenschappelijk onderwijs"
 identifier: "BWBR0010625"
-country: "nl"
-rank: "archiefselectielijst"
-publication_date: "1999-11-11"
-last_updated: "1999-11-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010625"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling-archiefselectielijst"
-stam_id: "3648133"
-version_id: "5431152"
-internal_id: "C25308131"
-label_id: "3628034"
-dtd_version: "2.0"
-original_entry_into_force: "1999-11-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010625/1999-11-11/0"
-intitule_bron: "Stcrt.1999-216"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-07-23"
-intitule_published: "1999-11-09"
-intitule_in_force: "1999-11-09"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-216"
-original_signed_date: "1999-07-23"
-original_published_date: "1999-11-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-11-11"
-jci_1_3: "jci1.3:c:BWBR0010625&z=1999-11-11&g=1999-11-11"
-jci_1_0: "1.0:c:BWBR0010625&g=1999-11-11"
-citeertitel_status: "officieel"
-signed_date: "1999-07-23"
-entry_into_force: "1999-11-11"
+publicatiedatum: 1999-11-11
+laatste_update: 1999-11-11
+status: geldig
+toestand: 1999-11-11
+bron: "https://wetten.overheid.nl/BWBR0010625"
+opgehaald: 2026-08-04
 ---
+
 # Vaststelling selectielijst Wetenschappelijk onderwijs
-
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
-
-De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 22 februari 1999, nr. arc-98.2212/2);
-
-Besluit:
 
 ##### Artikel 1
 

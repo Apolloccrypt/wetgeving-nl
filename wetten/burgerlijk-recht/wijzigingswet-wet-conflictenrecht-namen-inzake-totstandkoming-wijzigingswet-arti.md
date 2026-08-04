@@ -1,51 +1,22 @@
 ---
 title: "Wet van 24 december 1998, houdende wijziging van de Wet conflictenrecht namen in verband met de totstandkoming van de wet van 10 april 1997 tot wijziging van de artikelen 5 en 9 van Boek 1 van het Burgerlijk Wetboek en in verband daarmede van enige andere artikelen van dit Wetboek (Stb. 161)"
+citeertitel: "Wijzigingswet Wet conflictenrecht namen inzake totstandkoming Wijzigingswet artikelen 5 en 9 van Boek 1 Burgerlijk Wetboek"
 identifier: "BWBR0010170"
-country: "nl"
-rank: "wet"
-publication_date: "1999-02-15"
-last_updated: "1999-02-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010170"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "997103"
-version_id: "1464962"
-internal_id: "C1464961"
-label_id: "966084"
-dtd_version: "2.0"
-original_entry_into_force: "1999-02-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010170/1999-02-15/0"
-intitule_bron: "Stb.1999-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-12-24"
-intitule_published: "1999-01-14"
-intitule_in_force: "1999-02-09"
-intitule_status: "goed"
-original_publication: "Stb.1999-2"
-original_signed_date: "1998-12-24"
-original_published_date: "1999-01-14"
-original_effect: "nieuwe-regeling"
-original_dossier: "25971"
-original_url_id: "stb-1999-2"
-entry_into_force_date: "1999-02-15"
-jci_1_3: "jci1.3:c:BWBR0010170&z=1999-02-15&g=1999-02-15"
-jci_1_0: "1.0:c:BWBR0010170&g=1999-02-15"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet conflictenrecht namen inzake totstandkoming Wijzigingswet artikelen 5 en 9 van Boek 1 Burgerlijk Wetboek"
-signed_date: "1998-12-24"
-entry_into_force: "1999-02-15"
+publicatiedatum: 1999-02-15
+laatste_update: 1999-02-15
+status: geldig
+toestand: 1999-02-15
+bron: "https://wetten.overheid.nl/BWBR0010170"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 24 december 1998, houdende wijziging van de Wet conflictenrecht namen in verband met de totstandkoming van de wet van 10 april 1997 tot wijziging van de artikelen 5 en 9 van Boek 1 van het Burgerlijk Wetboek en in verband daarmede van enige andere artikelen van dit Wetboek (Stb. 161)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met de totstandkoming van de [wet van 10 april 1997 tot wijziging van de artikelen 5 en 9 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0008632) (Stb. 161) wenselijk is de [Wet conflictenrecht namen](https://wetten.overheid.nl/jci1.3:c:BWBR0004580) aan te vullen met een regeling betreffende de toepassing van de nieuwe bepalingen van Nederlands naamrecht in internationale gevallen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### ARTIKEL I
 
-Wijzigt de Wet conflictenrecht namen.
+*Wijzigt de Wet conflictenrecht namen.*
 
 ##### ARTIKEL II
 
@@ -59,6 +30,4 @@ Wijzigt de Wet conflictenrecht namen.
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. Wijzigt deze wet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+2. *Wijzigt deze wet.*

@@ -8,7 +8,7 @@ laatste_update: 2008-11-08
 status: geldig
 toestand: 2008-11-08
 bron: "https://wetten.overheid.nl/BWBV0003448"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Protocol inzake tekens op het wegdek, aanvulling op de Europese Overeenkomst tot aanvulling van het Verdrag inzake verkeerstekens dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld

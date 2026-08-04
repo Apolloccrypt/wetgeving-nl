@@ -1,42 +1,17 @@
 ---
 title: "Sanctieregeling arbeidsmarktgedrag als bedoeld in artikel 25a van de Uitkeringsregeling 1966"
 identifier: "BWBR0010043"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-12-05"
-last_updated: "1998-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010043"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "5237743"
-version_id: "9435522"
-internal_id: "C12642191"
-label_id: "5212224"
-dtd_version: "2.0"
-original_entry_into_force: "1998-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010043/1998-12-05/0"
-intitule_bron: "Stcrt.1998-232"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-11-27"
-intitule_published: "1998-12-03"
-intitule_in_force: "1998-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1998-232"
-original_signed_date: "1998-11-27"
-original_published_date: "1998-12-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-12-05"
-jci_1_3: "jci1.3:c:BWBR0010043&z=1998-12-05&g=1998-12-05"
-jci_1_0: "1.0:c:BWBR0010043&g=1998-12-05"
-citeertitel_status: "officieel"
-signed_date: "1998-11-27"
-entry_into_force: "1998-12-05"
+publicatiedatum: 1998-12-05
+laatste_update: 1998-12-05
+status: geldig
+toestand: 1998-12-05
+bron: "https://wetten.overheid.nl/BWBR0010043"
+opgehaald: 2026-08-04
 ---
+
 # Sanctieregeling arbeidsmarktgedrag als bedoeld in artikel 25a van de Uitkeringsregeling 1966
-
-Gezien [artikel 25a van de Uitkeringsregeling 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002537&artikel=25a),
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 

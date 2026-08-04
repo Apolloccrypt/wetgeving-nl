@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-31
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0041819"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Besluit van 14 december 2018, houdende bepalingen voor een experiment met beroepsopleidingen en kwalificaties met een regionale specialisatie in het middelbaar beroepsonderwijs (Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties mbo)

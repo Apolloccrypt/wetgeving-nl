@@ -1,45 +1,18 @@
 ---
 title: "IJslandse voorschriften tot uitvoering van het op 25 september 1997 tussen Nedeland en IJsland gesloten Verdrag tot het vermijden van dubbele belasting"
+citeertitel: "IJslandse uitvoeringsvoorschriften belastingverdrag Nederland-IJsland"
 identifier: "BWBR0010643"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-08-13"
-last_updated: "1999-08-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010643"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3956943"
-version_id: "5730022"
-internal_id: "C5932751"
-label_id: "3936934"
-dtd_version: "2.0"
-original_entry_into_force: "1999-08-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010643/1999-08-13/0"
-intitule_bron: "Stcrt.1999-152"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-08-05"
-intitule_published: "1999-08-11"
-intitule_in_force: "1999-08-11"
-intitule_status: "goed"
-original_publication: "Stcrt.1999-152"
-original_signed_date: "1999-08-05"
-original_published_date: "1999-08-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-08-13"
-jci_1_3: "jci1.3:c:BWBR0010643&z=1999-08-13&g=1999-08-13"
-jci_1_0: "1.0:c:BWBR0010643&g=1999-08-13"
-citeertitel_status: "officieel"
-short_title: "IJslandse uitvoeringsvoorschriften belastingverdrag Nederland-IJsland"
-signed_date: "1999-08-05"
-entry_into_force: "1999-08-13"
+publicatiedatum: 1999-08-13
+laatste_update: 1999-08-13
+status: geldig
+toestand: 1999-08-13
+bron: "https://wetten.overheid.nl/BWBR0010643"
+opgehaald: 2026-08-04
 ---
+
 # IJslandse voorschriften tot uitvoering van het op 25 september 1997 tussen Nedeland en IJsland gesloten Verdrag tot het vermijden van dubbele belasting
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
-
-**Regeling inzake vermindering en vrijstelling van IJslandse belasting op dividenden, interest en royalty's genoten door inwoners van Nederland**
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -57,17 +30,17 @@ Aan het op 25 september 1997 tussen Nederland en IJsland gesloten Verdrag tot he
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010643&artikel=1&z=1999-08-13&g=1999-08-13) is van IJslandse zijde de volgende regeling getroffen:
 
-- 1. **IJslandse belasting** Volgens de IJslandse wetgeving zijn dividenden betaald door lichamen die inwoner van IJsland zijn, aan aandeelhouders die inwoner van IJsland zijn en aan aandeelhouders die geen inwoner van IJsland zijn, onderworpen aan een bronbelasting. In geval van betalingen aan niet-inwoners bedraagt het tarief 10 percent voor particuliere aandeelhouders en 20 percent voor aandeelhouders die een vennootschap zijn, tenzij het tarief door een verdrag wordt verminderd. Op grond van de IJslandse Act no. 95/1998 tot wijziging van Act no. 75/1981 inzake belastingheffing over inkomsten en vermogen kunnen uitgedeelde dividenden niet meer in mindering worden gebracht op de belastbare winst van een lichaam of worden vooruitgewenteld als een verrekenbaar verlies van dat lichaam. Interest betaald aan niet-inwoners is niet onderworpen aan een bronbelasting. Niet-inwoners dienen echter de lokale belastinginspecteur om deze vrijstelling te verzoeken. Royalty’s betaald door lichamen die inwoner van IJsland zijn, aan niet-inwoners zijn onderworpen aan een bronbelasting. Het tarief bedraagt voor het inkomstenjaar 1999 38,34 percent voor natuurlijke personen, 30 percent voor lichamen en 38 percent voor maatschappen of vennootschappen onder firma die geregistreerd zijn als belastbare personen.
+- 1. *IJslandse belasting* Volgens de IJslandse wetgeving zijn dividenden betaald door lichamen die inwoner van IJsland zijn, aan aandeelhouders die inwoner van IJsland zijn en aan aandeelhouders die geen inwoner van IJsland zijn, onderworpen aan een bronbelasting. In geval van betalingen aan niet-inwoners bedraagt het tarief 10 percent voor particuliere aandeelhouders en 20 percent voor aandeelhouders die een vennootschap zijn, tenzij het tarief door een verdrag wordt verminderd. Op grond van de IJslandse Act no. 95/1998 tot wijziging van Act no. 75/1981 inzake belastingheffing over inkomsten en vermogen kunnen uitgedeelde dividenden niet meer in mindering worden gebracht op de belastbare winst van een lichaam of worden vooruitgewenteld als een verrekenbaar verlies van dat lichaam. Interest betaald aan niet-inwoners is niet onderworpen aan een bronbelasting. Niet-inwoners dienen echter de lokale belastinginspecteur om deze vrijstelling te verzoeken. Royalty’s betaald door lichamen die inwoner van IJsland zijn, aan niet-inwoners zijn onderworpen aan een bronbelasting. Het tarief bedraagt voor het inkomstenjaar 1999 38,34 percent voor natuurlijke personen, 30 percent voor lichamen en 38 percent voor maatschappen of vennootschappen onder firma die geregistreerd zijn als belastbare personen.
 
-- 2. **Vrijstellingsprocedure voor royalty's** Als algemene regel geldt dat de in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010643&artikel=1&z=1999-08-13&g=1999-08-13), hiervoor vermelde vrijstelling van belasting op royalty’s in IJsland bij de bron wordt verleend. Tot het verkrijgen van deze vrijstelling aan de bron dient de gerechtigde tot de royalty’s, die inwoner van Nederland is, gebruik te maken van het formulier RSK 14.03. Dit formulier, luidende in de Engelse taal, moet in dat geval door de belanghebbende inwoner van Nederland in drievoud worden ingevuld en ondertekend. Vervolgens moet hij de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. De inspecteur voorziet de drie exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging, behoudt een exemplaar van het formulier ten behoeve van de legger van de aanvrager en zendt de overige twee exemplaren aan hem terug. Nadat de belanghebbende inwoner van Nederland de twee gecertificeerde exemplaren van het formulier heeft terugontvangen, behoudt hij één exemplaar en zendt hij het andere exemplaar naar: Directorate of Internal Revenue of the Icelandic Ministry of Finance, Laugavegur 166, 150 Reykjavik, Iceland. Vorenbedoelde IJslandse belastingautoriteit onderzoekt of het ingediende formulier in overeenstemming is met de bepalingen van het Nederlands-IJslandse belastingverdrag, en zendt een verklaring van vrijstelling van belasting aan de verzoeker. Na ontvangst zendt de verzoeker de verklaring aan de IJslandse schulde-naar van de desbetreffende royalty’s, die vervolgens die royalty’s mag uitbetalen zonder inhouding van IJslandse belasting. Voor elke IJslandse schuldenaar van royalty’s dient de belanghebbende inwoner van Nederland gebruik te maken van een apart formulier.
+- 2. *Vrijstellingsprocedure voor royalty's* Als algemene regel geldt dat de in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010643&artikel=1&z=1999-08-13&g=1999-08-13), hiervoor vermelde vrijstelling van belasting op royalty’s in IJsland bij de bron wordt verleend. Tot het verkrijgen van deze vrijstelling aan de bron dient de gerechtigde tot de royalty’s, die inwoner van Nederland is, gebruik te maken van het formulier RSK 14.03. Dit formulier, luidende in de Engelse taal, moet in dat geval door de belanghebbende inwoner van Nederland in drievoud worden ingevuld en ondertekend. Vervolgens moet hij de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. De inspecteur voorziet de drie exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging, behoudt een exemplaar van het formulier ten behoeve van de legger van de aanvrager en zendt de overige twee exemplaren aan hem terug. Nadat de belanghebbende inwoner van Nederland de twee gecertificeerde exemplaren van het formulier heeft terugontvangen, behoudt hij één exemplaar en zendt hij het andere exemplaar naar: Directorate of Internal Revenue of the Icelandic Ministry of Finance, Laugavegur 166, 150 Reykjavik, Iceland. Vorenbedoelde IJslandse belastingautoriteit onderzoekt of het ingediende formulier in overeenstemming is met de bepalingen van het Nederlands-IJslandse belastingverdrag, en zendt een verklaring van vrijstelling van belasting aan de verzoeker. Na ontvangst zendt de verzoeker de verklaring aan de IJslandse schulde-naar van de desbetreffende royalty’s, die vervolgens die royalty’s mag uitbetalen zonder inhouding van IJslandse belasting. Voor elke IJslandse schuldenaar van royalty’s dient de belanghebbende inwoner van Nederland gebruik te maken van een apart formulier.
 
-- 3. **Teruggaafprocedure voor royalty's** Indien in IJsland bij de uitbetaling van royalty’s de IJslandse belasting ten volle is ingehouden, kan teruggaaf worden verzocht door middel van het hiervoor genoemde formulier RSK 14.03. Dit formulier moet in dat geval door de belanghebbende inwoner van Nederland in drievoud worden ingevuld en ondertekend. Het verzoek om teruggaaf moet worden gedaan onder punt 8 van het formulier. Vervolgens moet de verzoeker de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. De inspecteur voorziet de drie exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging, behoudt een exemplaar van het formulier ten behoeve van de legger van de aanvrager en zendt de overige twee exemplaren aan hem terug. Nadat de verzoeker de twee gecertificeerde exemplaren van het formulier heeft terugontvangen, behoudt hij één exemplaar en zendt hij het andere exemplaar naar: Directorate of Internal Revenue of the Icelandic Ministry of Finance, Laugavegur 166, 150 Reykjavik, Iceland. Vorenbedoelde IJslandse belastingautoriteit onderzoekt of het ingediende formulier in overeenstemming is met de bepalingen van het Nederlands-IJslandse belastingverdrag, en zendt de beslissing op het verzoek aan de verzoeker. Voor elke IJslandse schuldenaar van royalty’s dient de belanghebbende inwoner van Nederland gebruik te maken van een apart formulier.
+- 3. *Teruggaafprocedure voor royalty's* Indien in IJsland bij de uitbetaling van royalty’s de IJslandse belasting ten volle is ingehouden, kan teruggaaf worden verzocht door middel van het hiervoor genoemde formulier RSK 14.03. Dit formulier moet in dat geval door de belanghebbende inwoner van Nederland in drievoud worden ingevuld en ondertekend. Het verzoek om teruggaaf moet worden gedaan onder punt 8 van het formulier. Vervolgens moet de verzoeker de drie ingevulde en ondertekende exemplaren van het formulier zenden aan de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. De inspecteur voorziet de drie exemplaren van het formulier van dagtekening en ondertekening van de daarop voorkomende bevestiging, behoudt een exemplaar van het formulier ten behoeve van de legger van de aanvrager en zendt de overige twee exemplaren aan hem terug. Nadat de verzoeker de twee gecertificeerde exemplaren van het formulier heeft terugontvangen, behoudt hij één exemplaar en zendt hij het andere exemplaar naar: Directorate of Internal Revenue of the Icelandic Ministry of Finance, Laugavegur 166, 150 Reykjavik, Iceland. Vorenbedoelde IJslandse belastingautoriteit onderzoekt of het ingediende formulier in overeenstemming is met de bepalingen van het Nederlands-IJslandse belastingverdrag, en zendt de beslissing op het verzoek aan de verzoeker. Voor elke IJslandse schuldenaar van royalty’s dient de belanghebbende inwoner van Nederland gebruik te maken van een apart formulier.
 
-- 4. **Dividenden en interest** Met betrekking tot dividenden zijn voor het verkrijgen van vermindering of teruggaaf van IJslandse belasting op grond van het Nederlands-IJslandse belastingverdrag van IJslandse zijde geen speciale formulieren vastgesteld. Met betrekking tot interest is formulier RSK 5.33 vastgesteld. Aangezien dit formulier alleen in de IJslandse taal verkrijgbaar is, hoeven inwoners van Nederland geen gebruik te maken van dit formulier. Inwoners van Nederland dienen zich, zowel voor dividenden als interest, met een verzoek om vermindering, vrijstelling of teruggaaf te wenden tot: Directorate of Internal Revenue of the Icelandic Ministry of Finance, Laugavegur 166, 150 Reykjavik, Iceland.
+- 4. *Dividenden en interest* Met betrekking tot dividenden zijn voor het verkrijgen van vermindering of teruggaaf van IJslandse belasting op grond van het Nederlands-IJslandse belastingverdrag van IJslandse zijde geen speciale formulieren vastgesteld. Met betrekking tot interest is formulier RSK 5.33 vastgesteld. Aangezien dit formulier alleen in de IJslandse taal verkrijgbaar is, hoeven inwoners van Nederland geen gebruik te maken van dit formulier. Inwoners van Nederland dienen zich, zowel voor dividenden als interest, met een verzoek om vermindering, vrijstelling of teruggaaf te wenden tot: Directorate of Internal Revenue of the Icelandic Ministry of Finance, Laugavegur 166, 150 Reykjavik, Iceland.
 
-- 5. **Termijn van indiening van verzoeken om teruggaaf van belasting** Verzoeken om teruggaaf van belasting moeten worden ingediend binnen een tijdvak van drie jaren na afloop van het kalenderjaar waarin de belasting is geheven (onderdeel VI van het Protocol).
+- 5. *Termijn van indiening van verzoeken om teruggaaf van belasting* Verzoeken om teruggaaf van belasting moeten worden ingediend binnen een tijdvak van drie jaren na afloop van het kalenderjaar waarin de belasting is geheven (onderdeel VI van het Protocol).
 
-- 6. **Verkrijgbaarheid van de IJslandse formulieren** Exemplaren van de IJslandse formulieren RSK 14.03 zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in IJsland bij het Ministry of Finance, Directorate of Internal Revenue, Laugavegur 166, 150 Reykjavik.
+- 6. *Verkrijgbaarheid van de IJslandse formulieren* Exemplaren van de IJslandse formulieren RSK 14.03 zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in IJsland bij het Ministry of Finance, Directorate of Internal Revenue, Laugavegur 166, 150 Reykjavik.
 
 ##### Artikel 3. Inwerkingtreding
 

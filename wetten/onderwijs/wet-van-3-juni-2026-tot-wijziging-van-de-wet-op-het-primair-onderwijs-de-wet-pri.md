@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0052698"
-opgehaald: 2026-08-03
+opgehaald: 2026-08-04
 ---
 
 # Wet van 3 juni 2026 tot wijziging van de Wet op het primair onderwijs, de Wet primair onderwijs BES, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020 en de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de herziening van de wettelijke grondslagen van de kerndoelen met focus op lezen, schrijven en rekenen (Wet herziening wettelijke grondslagen kerndoelen)

@@ -1,48 +1,18 @@
 ---
 title: "Wet van 22 december 1999, houdende intrekking van de wet van 26 mei 1870 tot regeling van het onderwijs van Rijkswege in de beeldende kunsten (Stb. 78)"
+citeertitel: "Intrekkingswet Wet regeling onderwijs van Rijkswege in beeldende kunsten"
 identifier: "BWBR0011020"
-country: "nl"
-rank: "wet"
-publication_date: "2004-02-13"
-last_updated: "2004-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011020"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "1207333"
-version_id: "1779932"
-internal_id: "C1779931"
-label_id: "1169424"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011020/2004-02-13/0"
-intitule_bron: "Stb.2000-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-22"
-intitule_published: "2000-01-25"
-intitule_in_force: "2000-01-25"
-intitule_status: "goed"
-original_publication: "Stb.2000-25"
-original_signed_date: "1999-12-22"
-original_published_date: "2000-01-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "26843"
-original_url_id: "stb-2000-25"
-entry_into_force_date: "2000-01-26"
-entry_into_force_dossier: "26843"
-jci_1_3: "jci1.3:c:BWBR0011020&z=2004-02-13&g=2004-02-13"
-jci_1_0: "1.0:c:BWBR0011020&g=2004-02-13"
-citeertitel_status: "officieel"
-short_title: "Intrekkingswet Wet regeling onderwijs van Rijkswege in beeldende kunsten"
-signed_date: "1999-12-22"
-entry_into_force: "2000-01-26"
+publicatiedatum: 2000-01-26
+laatste_update: 2004-02-13
+status: geldig
+toestand: 2004-02-13
+bron: "https://wetten.overheid.nl/BWBR0011020"
+opgehaald: 2026-08-04
 ---
+
 # Wet van 22 december 1999, houdende intrekking van de wet van 26 mei 1870 tot regeling van het onderwijs van Rijkswege in de beeldende kunsten (Stb. 78)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de wet van 26 mei 1870 tot regeling van het onderwijs van Rijkswege in de beeldende kunsten (Stb.78) in te trekken in verband met de privatisering van de Rijksakademie van beeldende kunsten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -67,5 +37,3 @@ De docenten en de directeur van de Rijksakademie, die ingevolge artikel 5 van de
 ##### Artikel 5
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

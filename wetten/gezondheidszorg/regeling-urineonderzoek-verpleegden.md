@@ -1,48 +1,45 @@
 ---
 title: "Regeling urineonderzoek verpleegden"
 identifier: "BWBR0011110"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-01-27"
-last_updated: "2000-01-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011110"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3614133"
-version_id: "5397252"
-internal_id: "C5590341"
-label_id: "3594134"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011110/2000-01-27/0"
-intitule_bron: "Stcrt.2000-17"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-01-20"
-intitule_published: "2000-01-25"
-intitule_in_force: "2000-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-17"
-original_signed_date: "2000-01-20"
-original_published_date: "2000-01-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-01-27"
-jci_1_3: "jci1.3:c:BWBR0011110&z=2000-01-27&g=2000-01-27"
-jci_1_0: "1.0:c:BWBR0011110&g=2000-01-27"
-citeertitel_status: "officieel"
-signed_date: "2000-01-20"
-entry_into_force: "2000-01-27"
+publicatiedatum: 2000-01-27
+laatste_update: 2000-01-27
+status: geldig
+toestand: 2000-01-27
+bron: "https://wetten.overheid.nl/BWBR0011110"
+opgehaald: 2026-08-04
 ---
+
 # Regeling urineonderzoek verpleegden
-
-Gelet op [artikel 24, tweede lid, Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=24),
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 13 mei 1998, nr. 98/694836;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+wet:
+
+de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765);
+
+b.
+
+urineonderzoek:
+
+een onderzoek van urine op de aanwezigheid van gedragsbeïnvloedende middelen;
+
+c.
+
+herhalingsonderzoek:
+
+een urineonderzoek dat volgens eenzelfde dan wel een vergelijkbare methode als gebruikt bij het aanvankelijke urineonderzoek op een identiek tweede monster wordt uitgevoerd met behulp van apparatuur welke vergelijkbaar is met dan wel gelijkwaardig is aan de apparatuur welke bij het aanvankelijke onderzoek is gebruikt;
+
+d.
+
+bevestigingsonderzoek:
+
+een urineonderzoek dat volgens een andere gevalideerde methode als gebruikt bij het aanvankelijke onderzoek en het herhalingsonderzoek wordt uitgevoerd op het monster dat het uitgangsmateriaal vormde voor het aanvankelijke onderzoek dan wel het herhalingsonderzoek.
 
 ##### Artikel 2. Algemeen
 
@@ -63,8 +60,6 @@ Het anders dan door een arts, tandarts of verloskundige voorgeschreven gebruik v
 6. In het bijzijn van de verpleegde controleert het personeelslid of de medewerker of het aanvraagformulier goed en volledig is ingevuld alsmede of het nummer op de buizen overeenstemt met het nummer op het aanvraagformulier.
 
 7. Het aanvraagformulier dient in ieder geval een opgave van de volledige naam en voorletters van de verpleegde, het registratienummer van de verpleegde, de afnamedatum, het tijdstip van afname, de stoffen waarop gecontroleerd dient te worden alsmede gegevens over medicatiegebruik en relevante pathologie te bevatten.
-
-9.
 
 Eén buis wordt met het aanvraagformulier zo spoedig mogelijk, doch uiterlijk de eerstvolgende werkdag, naar een laboratorium verstuurd, dan wel binnen drie werkdagen bij een laboratorium afgegeven. De andere buis wordt, gedurende ten hoogste een week na afname, ten behoeve van een eventueel herhalingsonderzoek in een voor onbevoegden niet toegankelijke diepvries of koelkast bewaard.
 
@@ -127,5 +122,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling urineonderzoek verpleegden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
