@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 19 februari 2001, houdende regels met betrekking tot de samenstelling en de werkwijze van de toetsingscommissie uittreding zittende magistratuur (Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur)"
+citeertitel: "Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur"
 identifier: "BWBR0012262"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012262"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1554923"
-version_id: "2307012"
-internal_id: "C2307011"
-label_id: "1510594"
-dtd_version: "2.0"
-original_entry_into_force: "2001-03-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012262/2017-01-01/0"
-intitule_bron: "Stb.2001-104"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-02-19"
-intitule_published: "2001-03-01"
-intitule_in_force: "2001-03-01"
-intitule_status: "goed"
-original_publication: "Stb.2001-104"
-original_signed_date: "2001-02-19"
-original_published_date: "2001-03-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-104"
-entry_into_force_date: "2001-03-02"
-jci_1_3: "jci1.3:c:BWBR0012262&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0012262&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur"
-signed_date: "2001-02-19"
-entry_into_force: "2001-03-02"
+publicatiedatum: 2001-03-02
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0012262"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 19 februari 2001, houdende regels met betrekking tot de samenstelling en de werkwijze van de toetsingscommissie uittreding zittende magistratuur (Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur)
-
-Op de voordracht van Onze Minister van Justitie van 29 december 2000, Directie Wetgeving, nr. 5071550/00/6;
-
-Gelet op [artikel VII, vierde lid, van de Wet opheffing College van beroep studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0011439&artikel=VII);
-
-De Raad van State gehoord (advies van 25 januari 2001, nr. W03.01.0007/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 12 februari 2001, nr. 5079984/01/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -119,5 +87,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

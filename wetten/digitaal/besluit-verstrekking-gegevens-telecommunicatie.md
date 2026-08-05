@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 26 januari 2000, houdende regels voor de verstrekking van gegevens door aanbieders van openbare telecommunicatienetwerken en -diensten met het oog op het onderzoek van telecommunicatie (Besluit verstrekking gegevens telecommunicatie)"
+citeertitel: "Besluit verstrekking gegevens telecommunicatie"
 identifier: "BWBR0011123"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-03-02"
-last_updated: "2022-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011123"
+categorie: "Digitaal en privacy"
 soort: "AMvB"
-stam_id: "1211343"
-version_id: "1785472"
-internal_id: "C1785471"
-label_id: "1173154"
-dtd_version: "2.0"
-original_entry_into_force: "2000-02-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011123/2022-03-02/0"
-intitule_bron: "Stb.2000-71"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-01-26"
-intitule_published: "2000-02-15"
-intitule_in_force: "2000-02-15"
-intitule_status: "goed"
-original_publication: "Stb.2000-71"
-original_signed_date: "2000-01-26"
-original_published_date: "2000-02-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2000-71"
-entry_into_force_date: "2000-02-16"
-jci_1_3: "jci1.3:c:BWBR0011123&z=2022-03-02&g=2022-03-02"
-jci_1_0: "1.0:c:BWBR0011123&g=2022-03-02"
-citeertitel_status: "officieel"
-short_title: "Besluit verstrekking gegevens telecommunicatie"
-signed_date: "2000-01-26"
-entry_into_force: "2000-02-16"
+publicatiedatum: 2000-02-16
+laatste_update: 2022-03-02
+status: geldig
+toestand: 2022-03-02
+bron: "https://wetten.overheid.nl/BWBR0011123"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 26 januari 2000, houdende regels voor de verstrekking van gegevens door aanbieders van openbare telecommunicatienetwerken en -diensten met het oog op het onderzoek van telecommunicatie (Besluit verstrekking gegevens telecommunicatie)
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van
-
-20 mei 1998, nr. HDTP/98/1553/HW, Hoofddirectie Telecommunicatie en Post in overeenstemming met Onze Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op de [artikelen 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.1), 13.2, derde lid, 13.4, derde lid, en 20.18 van de Telecommunicatiewet;
-
-De Raad van State gehoord (advies van 19 augustus 1998, nr. W09.98.0215);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 19 januari 2000, nr. DGTP/99/3602/JdJ, Directoraat-Generaal Telecommunicatie en Post uitgebracht in overeenstemming met Onze Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -60,11 +26,11 @@ In dit besluit wordt verstaan onder:
 
 - d. bevoegde autoriteit:
 
-- 1°. de rechter-commissaris in strafzaken, de officier van justitie, de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), of het hoofd van een opsporingsdienst, dan wel de door de korpschef voor zijn korps of door het hoofd voor zijn dienst aangewezen opsporingsambtenaar,
+   - 1°. de rechter-commissaris in strafzaken, de officier van justitie, de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), of het hoofd van een opsporingsdienst, dan wel de door de korpschef voor zijn korps of door het hoofd voor zijn dienst aangewezen opsporingsambtenaar,
 
-- 2°. het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar,
+   - 2°. het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar,
 
-- 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar;
+   - 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar;
 
 - e. informatie: de informatie, bedoeld in [artikel 13.4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4), voor zover deze informatie geen betrekking heeft op een ander nummer dan het aansluitnummer voor vaste of mobiele openbare telefoonnetwerken, en geen betrekking heeft op een ander nummer dan de inlognaam of gebruikersnaam, een e-mail adres, identificatienummers van eindapparaten of een toegewezen Internet-protocol-nummer voor openbare telecommunicatienetwerken en openbare telecommunicatiediensten die uitsluitend bestaan in de verlening van toegang tot Internet of de door middel van Internet te leveren of te verrichten diensten;
 
@@ -72,11 +38,11 @@ In dit besluit wordt verstaan onder:
 
 - g. aansluitnummer:
 
-- 1°. bij vaste openbare telefoonnetwerken: het bij een netwerkaansluitpunt behorende nummer;
+   - 1°. bij vaste openbare telefoonnetwerken: het bij een netwerkaansluitpunt behorende nummer;
 
-- 2°. bij mobiele openbare telefoonnetwerken: het Mobile Station Integrated Systems Digital Network Number;
+   - 2°. bij mobiele openbare telefoonnetwerken: het Mobile Station Integrated Systems Digital Network Number;
 
-- 3°. bij spraakcommunicatiediensten: het bij een netwerkaansluitpunt behorende nummer dan wel het Mobile Station Integrated Systems Digital Netwerk Number.
+   - 3°. bij spraakcommunicatiediensten: het bij een netwerkaansluitpunt behorende nummer dan wel het Mobile Station Integrated Systems Digital Netwerk Number.
 
 ##### Artikel 2
 
@@ -84,7 +50,7 @@ Onze Minister van Justitie en Veiligheid is belast met het langs geautomatiseerd
 
 ##### Artikel 3
 
-1. Het informatiepunt, de bevoegde autoriteit en de aanbieder treffen ieder de technische voorzieningen die nodig zijn teneinde uitvoering te geven aan het tweede, derde en vierde lid. De technische voorzieningen voldoen aan de voorwaarden bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2022-03-02&g=2022-03-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=5&z=2022-03-02&g=2022-03-02) en aan de specificaties die zijn opgenomen in de bijlage bij dit besluit.
+1. Het informatiepunt, de bevoegde autoriteit en de aanbieder treffen ieder de technische voorzieningen die nodig zijn teneinde uitvoering te geven aan het tweede, derde en vierde lid. De technische voorzieningen voldoen aan de voorwaarden bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2022-03-02&g=2022-03-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=5&z=2022-03-02&g=2022-03-02) en aan de specificaties die zijn opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0011123) bij dit besluit.
 
 2. De bevoegde autoriteit verzoekt om verstrekking van informatie die is opgenomen in het bestand, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2022-03-02&g=2022-03-02), door tussenkomst van het informatiepunt. De bevoegde autoriteit doet het verzoek langs geautomatiseerde weg.
 
@@ -174,62 +140,16 @@ Met de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR001112
 
 ##### Artikel 10
 
-Wijzigt het Besluit aftappen openbare telecommunicatienetwerken en -diensten.
+*Wijzigt het Besluit aftappen openbare telecommunicatienetwerken en -diensten.*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit verstrekking gegevens telecommunicatie.
-
-## Bijlage. bij het Besluit van 26 januari 2000, houdende regels voor de verstrekking van gegevens door aanbieders van openbare telecommunicatienetwerken en -diensten met het oog op het onderzoek van telecommunicatie (Besluit verstrekking gegevens telecommunicatie)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-### Specificatie interface voor aanlevering gegevens aan het informatiepunt
-
-### 1. Gegevensverstekking
-
-1. De aanbieder verstrekt de navolgende op de gebruiker betrekking hebbende gegevens:
-
-2. Onder nummers worden mede begrepen: afgeschermde en geheime nummers.
-
-### 2. Standaard voor verstrekking van de gegevens
-
-De aanbieder verstrekt de gegevens die in de bedrijfsvoering zijn opgenomen. De verstrekking geschiedt zo veel mogelijk overeenkomstig de standaarden NEN 1888 (persoonsgegevens) en NEN 5825 (adressen). Indien deze standaarden niet worden gehanteerd, worden door de aanbieder niet gebruikte velden in het bestand« leeg» opgenomen.
-
-### 3. Standaard voor de tekenset
-
-De aanbieder maakt gebruik van de tekenset «Extended ASCII» in een XML-indeling volgens een door het informatiepunt aangeleverd schema.De aanbieder draagt zorg voor goed leesbare gegevens.
-
-### 4. Informatiedrager
-
-De aanbieder maakt gebruik van een informatiedrager die functioneel is voor de interface. Bij voorkeur wordt gebruik gemaakt van een beveiligde netwerkverbinding.
-
-### 5. Veiligheidseisen
-
-De gegevens worden zodanig verstrekt dat:
-
-### 6. Anonimiteit van de gegevens
-
-De doorgeleiding van gevraagde gegevens geschiedt anoniem. Deze anonimiteit dient technisch gewaarborgd te zijn. Met uitzondering van de periode gedurende welke de gegevens worden ingevoerd of worden geactualiseerd is het bestand niet toegankelijk voor de desbetreffende aanbieder.
-
-### 7. Onbeperkte toegankelijkheid voor het informatiepunt
-
-Het bestand en de bijbehorende lokale configuratie zijn permanent voor het informatiepunt toegankelijk, behoudens de perioden waarin de gegevens worden ingevoerd, onderscheidenlijk worden geactualiseerd, en in situaties van overmacht.
-
-### 8. Actualiteit van de gegevens
-
-Het bestand wordt eenmaal per etmaal geactualiseerd aan de laatste stand van de gegevens, zoals deze voorkomen in de bedrijfsvoering van de aanbieder.
-
-### 9. Responstijd
-
-Het bestand dient met een adequate snelheid bevraagd te kunnen worden. De gevraagde gegevens dienen binnen een gering aantal minuten te kunnen worden aangeleverd. Volstaan kan worden met het verstrekken van een zogenaamde platte tabel.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

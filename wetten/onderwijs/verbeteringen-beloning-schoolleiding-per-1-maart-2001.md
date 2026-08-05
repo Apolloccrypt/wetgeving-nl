@@ -1,36 +1,16 @@
 ---
 title: "Verbeteringen beloning schoolleiding per 1 maart 2001"
 identifier: "BWBR0012246"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-03-01"
-last_updated: "2001-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012246"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6520963"
-version_id: "11223432"
-internal_id: "C15154791"
-label_id: "6509874"
-original_entry_into_force: "2001-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012246/2001-03-01/0"
-intitule_bron: "Uitleg.2001-5/6"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-02-13"
-intitule_published: "2001-02-21"
-intitule_in_force: "2001-02-21"
-intitule_status: "goed"
-original_publication: "Uitleg.2001-5/6"
-original_signed_date: "2001-02-13"
-original_published_date: "2001-02-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-03-01"
-jci_1_3: "jci1.3:c:BWBR0012246&z=2001-03-01&g=2001-03-01"
-jci_1_0: "1.0:c:BWBR0012246&g=2001-03-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-02-13"
-entry_into_force: "2001-03-01"
+publicatiedatum: 2001-03-01
+laatste_update: 2001-03-01
+status: geldig
+toestand: 2001-03-01
+bron: "https://wetten.overheid.nl/BWBR0012246"
+opgehaald: 2026-08-05
 ---
+
 # Verbeteringen beloning schoolleiding per 1 maart 2001
 
 ### Inleiding
@@ -40,6 +20,12 @@ In de CAO sector onderwijs 2000 – 2002 is afgesproken het salaris van de schoo
 De in deze publicatie genoemde maatregelen zullen in de maand april 2001 in het CASO systeem worden uitgevoerd met terugwerkende kracht tot 1 maart 2001.
 
 De opbouw van deze publicatie is als volgt:
+
+- [onderdeel 1](https://wetten.overheid.nl/BWBR0012246) bevat de nieuwe voorschriften die per 1 maart 2001 zullen gelden (in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012246&bijlage=1&z=2001-03-01&g=2001-03-01) zijn de nieuwe carrièrepatronen per 1 maart 2001 opgenomen);
+
+- [onderdeel 2](https://wetten.overheid.nl/BWBR0012246) bevat specifieke voorschriften voor de omzetting van de oude naar de nieuwe structuur (in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012246&bijlage=2&z=2001-03-01&g=2001-03-01) zijn conversietabellen opgenomen op basis waarvan elke directiefunctie kan worden ingepast in de nieuwe carrièrepatronen);
+
+- [onderdeel 3](https://wetten.overheid.nl/BWBR0012246) bevat specifieke informatie over de omzetting van bestaande salarisgaranties .
 
 ### 1. Nieuwe structuur
 
@@ -64,6 +50,12 @@ Met ingang van 1 maart 2001 geldt voor directeuren van basisscholen waarvan Y gr
 ### Grotescholenuitloop
 
 Voor directeuren van zeer grote scholen gelden twee extra salarisbedragen. Dit wordt zichtbaar gemaakt in de bijlage waar naast het carrièrepatroon van salarisschaal DC, het carrièrepatroon DC + uitloop is opgenomen. De uitloop is bestemd voor directeuren van:
+
+- basisscholen waarvan Y gelijk is aan of groter is dan 900;
+
+- speciale scholen voor basisonderwijs waarvan Y gelijk is aan of groter is dan 400 en
+
+- scholen voor (voortgezet) speciaal onderwijs waarvan Q gelijk is aan of groter is dan 42.
 
 Ook directeuren van scholen waar twee normfuncties directeur worden vervuld (meerhoofdige schoolleiding), krijgen recht op de grotescholenuitloop. Voor deze personeelsleden is een afzonderlijk carrièrepatroon in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012246&bijlage=1&z=2001-03-01&g=2001-03-01) opgenomen.
 
@@ -94,6 +86,41 @@ In aanvulling op hetgeen in verband met het vervallen van de overhevelingstoesla
 ### Overzicht
 
 De salarisschaal die bij een bepaalde directiefunctie behoort kan aan de hand van onderstaand overzicht worden bepaald. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012246&bijlage=1&z=2001-03-01&g=2001-03-01) zijn de genoemde carrièrepatronen volledig uitgeschreven.
+
+| Y | Salarisschaal | Grotescholen-uitloop |
+| --- | --- | --- |
+| Tot en met 199 | DA | Nee |
+| 200 tot en met 399 | DB | Nee |
+| 400 tot en met 899 | DC | Nee |
+| 900 en hoger | DC | Ja |
+
+| Y | Salarisschaal | Grotescholen-uitloop |
+| --- | --- | --- |
+| Tot en met 199 | DB | Nee |
+| 200 tot en met 399 | DC | Nee |
+| 400 en hoger | DC | Ja |
+
+| Q | Salarisschaal | Grotescholen-uitloop |
+| --- | --- | --- |
+| < 24 | DB | Nee |
+| 24 ≥ Q < 42 | DC | Nee |
+| ≥ 42 | DC | Ja |
+
+| Y | Salarisschaal |
+| --- | --- |
+| Tot en met 399 | AA |
+| 400 tot en met 899 | AB |
+| 900 en hoger | AC |
+
+| Y | Salarisschaal |
+| --- | --- |
+| Tot en met 199 | AB |
+| 200 en hoger | AC |
+
+| Q | Salarisschaal |
+| --- | --- |
+| Kleiner dan 24 | AB |
+| ≥ 24 | AC |
 
 ### 2. Maatregelen in verband met de overgang naar de nieuwe structuur per 1 maart 2001
 
@@ -135,188 +162,74 @@ In tabel 2 wordt de hoogte van de toelage schoolleiding weergegeven waarop per 1
 
 Wat betreft de conversie zijn salarisgaranties in te delen twee categorieën; daarom is deze paragraaf eveneens in twee delen gesplitst:
 
+- [deel a](https://wetten.overheid.nl/BWBR0012246) heeft betrekking op andere garanties dan HOS-garanties;
+
+- [deel b](https://wetten.overheid.nl/BWBR0012246) heeft betrekking op HOS-garanties.
+
 ### Deel a: garanties met uitzondering van HOS-garanties
+
+- 1. Reken het gegarandeerde maximumsalaris en het salarisbedrag waar 28 februari 2001 recht op bestaat om naar het loonpeil van 1 maart 2001 (zie voor de salarisbedragen naar het loonpeil van 1 maart 2001 bijlage 1 en 3 bij de publicatie financiële arbeidsvoorwaarden per 1 januari 2001 en 1 maart 2001, Uitleg Gele Katern nr. 29, kenmerk AB/A&A/2000/380790) en stel op grond van tabel 2 vast of per 1 maart 2001 recht zou hebben bestaan op een toelage schoolleiding alsmede op welk bedrag recht zou hebben bestaan.
+
+- 2. Tel voor zover daar op 1 maart 2001 recht op zou hebben bestaan, de toelage schoolleiding op bij zowel het gegarandeerde maximumsalaris als het salarisbedrag waarop 28 februari 2001 recht bestond. Dit alles volgens het loonpeil van 1 maart 2001.
+
+- 3. Bepaal welke nieuwe salarisschaal in de plaats is gekomen van de salarisschaal waarop oorspronkelijk de garantie is gebaseerd (zie tabel 1).
+
+- 4. Zoek binnen de bij stap 2 gevonden salarisschaal naar de bedragen die bij stap 2 zijn berekend. Is een bij stap 2 berekend bedrag hoger dan het maximumsalaris van die salarisschaal dan wordt dat bedrag opgezocht in de naasthogere salarisschaal. Indien bij toepassing van deze stap een bedrag niet exact in een gevonden salarisschaal voorkomt, vindt inpassing plaats op het naasthogere bedrag.
 
 De aldus gevonden salarisnummers geven het gegarandeerde maximumsalaris en het nieuwe salaris per 1 maart 2001 weer.
 
+Voorbeeld
+
 Betrokkene is benoemd als directeur met maximumschaal 10 en heeft op grond van een eerder vervulde directiefunctie een garantie op het maximumsalaris van salarisschaal 11 verkregen. Hij wordt bezoldigd volgens nummer 7 van salarisschaal 11.
 
+Berekening via stappenplan
+
+- 1. Het maximumsalaris van salarisschaal 11 bedraagt per 1 maart 2001 ƒ 8181,--. Zijn salaris wordt met ingang van 1 maart 2001 ƒ 7448,--.
+
+- 2. De som van het nieuwe maximumsalaris met toelage bedraagt ƒ 8287,--. De som van het salarisbedrag per 1 maart 2001 met de toelage (ƒ 106,--)bedraagt ƒ 7554,--.
+
+- 3. De garantie wordt gebaseerd op salarisschaal DB (salarisschaal 11 wordt namelijk DB).
+
+- 4. Het nieuwe maximumsalaris komt niet voor in salarisschaal DB, de garantie wordt daarom vastgesteld op het naasthogere bedrag (ƒ 8475,--) hetgeen gelijk is aan het maximum salarisbedrag van salarisschaal DB. De som van het salarisbedrag per 1 maart met de toelage komt niet voor in salarisschaal DB. Betrokkene wordt ingepast op het naasthogere bedrag: ƒ 7675 (nummer 11).
+
 ### Deel b: HOS-garanties
+
+- 1. Pas eerst stap 1 en 2 van het schema bij [deel a](https://wetten.overheid.nl/BWBR0012246) toe.
+
+- 2. Bepaal welke nieuwe salarisschaal van toepassing is op de huidige functie
+
+- 3. Pas vervolgens stap 4 toe van [deel a](https://wetten.overheid.nl/BWBR0012246) met dien verstande dat de bedragen worden gezocht in de salarisschaal die is gevonden bij stap 2. Stijgt het gegarandeerde maximumsalaris uit boven het maximumbedrag van de bij stap 2 gevonden salarisschaal, dan wordt de garantie met behulp van stap 4 (hieronder) vast gesteld. Kan zowel het salaris per 1 maart 2001 als het gegarandeerde maximum salarisbedrag worden ingepast in de salarisschaal die bij stap 2 is bepaald, dan blijft het HOS-uitzicht slechts in de vorm van een slapend recht bestaan. Het uitzicht dat bij de huidige functie behoort is immers gunstiger dan het HOS-uitzicht.
+
+- 4. Indien het gegarandeerde maximumsalaris uitstijgt boven de bij stap 2 bepaalde salarisschaal zijn er twee mogelijkheden:
+
+   - a. betrokkene zou per 1 maart geen recht hebben gehad op de toelage schoolleiding volgens [art. I-Q209b](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-Q209b). In dat geval blijft de oude HOS-garantie in zijn oorspronkelijke vorm bestaan;
+
+   - b. betrokkene zou per 1 maart 2001 wel recht hebben gehad op een toelage schoolleiding. In dat geval wordt het gegarandeerde maximumsalaris ingepast in de naasthogere schaal. Indien het salaris per 1 maart 2001 uitstijgt boven het maximumbedrag van de bij stap 2 gevonden salarisschaal wordt ook dat bedrag ingepast in de naasthogere schaal. Indien een bedrag niet exact in een gevonden salarisschaal voorkomt, vindt inpassing plaats op het naasthogere bedrag.
+
+Voorbeeld
 
 Betrokkene is directeur salarisschaal 10 aan een basisschool, wordt op 28 februari 2001 bezoldigd naar 11.7 van zijn HOS-garantie en heeft aanspraak op een toelage schoolleiding (gebaseerd op maximumschaal 11).
 
 Dit betekent dat hij totaal gerekend naar het loonpeil 1 maart 2001 een bezoldiging geniet van: ƒ 7554,- (11.7 volgens HOS-garantie: ƒ 7448,-- en toelage: ƒ 106). Dit bedrag is hoger dan het maximale bedrag van salarisschaal DA: ƒ 7475,--. De salarisgarantie wordt derhalve vastgesteld in salarisschaal DB op nummer 11: ƒ 7675,--
 
-## Bijlage 1
+| WAS |  | WORDT |
+| --- | --- | --- |
+| Salarisschaal | Directeur | Adjunct-directeur |
+| 9 | – | AA |
+| 10 | DA | AB |
+| 11 | DB | AC |
+| 12 | DC | AD |
+| 13 | DD | AE |
+| 14 | DE | – |
 
-Betreft de carrièrepatronen van directeuren, meerhoofdige schoolleiding, adjunct-directeuren en de niet-normfuncties in [hoofdstuk I-Q van het Rpbo](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&hoofdstuk=I-Q). Alle in deze bijlage opgenomen bedragen zijn gebaseerd op het loonpeil per 1 maart 2001.
-
-BO = basisschool
-
-SBO = speciale school voor basisonderwijs
-
-SO = (voortgezet) speciaal onderwijs ([WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en [WVO deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&deel=II))
-
-| BO | Y < 200 | BO SBO SO | Y 200-400 Y <200 Q < 24 | BO SBO SO | Y 400-900 Y 200-400 Q 24-42 | BO SBO SO | Y ≥ 900 Y ≥ 400 Q ≥ 42 | Niet-normfunctie | Niet-normfunctie | Niet-normfunctie | Niet-normfunctie |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DA |   | DB |   | DC |   | DC + uitloop | DC + uitloop | DD |   | DE |   |
-| 1 | 5075 | 1 | 5275 | 1 | 5475 | 1 | 5475 | 1 | 5543 | 1 | 5750 |
-| 2 | 5275 | 2 | 5675 | 2 | 6075 | 2 | 6075 | 2 | 5954 | 2 | 6180 |
-| 3 | 5475 | 3 | 6075 | 3 | 6475 | 3 | 6475 | 3 | 6381 | 3 | 6582 |
-| 4 | 5675 | 4 | 6275 | 4 | 6875 | 4 | 6875 | 4 | 6784 | 4 | 7009 |
-| 5 | 5875 | 5 | 6475 | 5 | 7275 | 5 | 7275 | 5 | 7234 | 5 | 7448 |
-| 6 | 6075 | 6 | 6675 | 6 | 7475 | 6 | 7475 | 6 | 7448 | 6 | 7869 |
-| 7 | 6275 | 7 | 6875 | 7 | 7675 | 7 | 7675 | 7 | 7658 | 7 | 8286 |
-| 8 | 6475 | 8 | 7075 | 8 | 7875 | 8 | 7875 | 8 | 7869 | 8 | 8497 |
-| 9 | 6675 | 9 | 7275 | 9 | 8075 | 9 | 8075 | 9 | 8072 | 9 | 8700 |
-| 10 | 6875 | 10 | 7475 | 10 | 8275 | 10 | 8275 | 10 | 8286 | 10 | 8911 |
-| 11 | 7075 | 11 | 7675 | 11 | 8475 | 11 | 8475 | 11 | 8497 | 11 | 9175 |
-| 12 | 7275 | 12 | 7875 | 12 | 8675 | 12 | 8675 | 12 | 8700 | 12 | 9437 |
-| 13 | 7475 | 13 | 8075 | 13 | 8875 | 13 | 8875 | 13 | 8911 | 13 | 9701 |
-|   |   | 14 | 8275 | 14 | 9075 | 14 | 9075 | 14 | 9175 | 14 | 9966 |
-|   |   | 15 | 8475 | 15 | 9275 | 15 | 9275 | 15 | 9437 | 15 | 10229 |
-|   |   |   |   | 16 | 9475 | 16 | 9475 | 16 | 9701 | 16 | 10507 |
-|   |   |   |   |   |   | U17 | 9675 | 17 | 9966 | 17 | 10794 |
-|   |   |   |   |   |   | U18 | 9875 | 18 | 10092 | 18 | 11088 |
-
-| BO | Y < 200 | BO | Y 200-400 | BO | Y 400-900 | BO | Y ≥ 900 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| DA |   | DA |   | DB |   | DB + uitloop | DB + uitloop |
-| 1 | 5075 | 1 | 5075 | 1 | 5275 | 1 | 5275 |
-| 2 | 5275 | 2 | 5275 | 2 | 5675 | 2 | 5675 |
-| 3 | 5475 | 3 | 5475 | 3 | 6075 | 3 | 6075 |
-| 4 | 5675 | 4 | 5675 | 4 | 6275 | 4 | 6275 |
-| 5 | 5875 | 5 | 5875 | 5 | 6475 | 5 | 6475 |
-| 6 | 6075 | 6 | 6075 | 6 | 6675 | 6 | 6675 |
-| 7 | 6275 | 7 | 6275 | 7 | 6875 | 7 | 6875 |
-| 8 | 6475 | 8 | 6475 | 8 | 7075 | 8 | 7075 |
-| 9 | 6675 | 9 | 6675 | 9 | 7275 | 9 | 7275 |
-| 10 | 6875 | 10 | 6875 | 10 | 7475 | 10 | 7475 |
-| 11 | 7075 | 11 | 7075 | 11 | 7675 | 11 | 7675 |
-|   |   | 12 | 7275 | 12 | 7875 | 12 | 7875 |
-|   |   | 13 | 7475 | 13 | 8075 | 13 | 8075 |
-|   |   |   |   | 14 | 8275 | 14 | 8275 |
-|   |   |   |   | 15 | 8475 | 15 | 8475 |
-|   |   |   |   |   |   | U16 | 8675 |
-|   |   |   |   |   |   | U17 | 8875 |
-
-| SBO | Y <100 | SBO Y 100 – 200 | SBO Y 100 – 200 | SBO Y 200-400 | SBO Y 200-400 | SBO Y ≥ 400 | SBO Y ≥ 400 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| DB |   | DB |   | DC |   | DC + uitloop | DC + uitloop |
-| 1 | 5275 | 1 | 5275 | 1 | 5475 | 1 | 5475 |
-| 2 | 5675 | 2 | 5675 | 2 | 6075 | 2 | 6075 |
-| 3 | 6075 | 3 | 6075 | 3 | 6475 | 3 | 6475 |
-| 4 | 6275 | 4 | 6275 | 4 | 6875 | 4 | 6875 |
-| 5 | 6475 | 5 | 6475 | 5 | 7275 | 5 | 7275 |
-| 6 | 6675 | 6 | 6675 | 6 | 7475 | 6 | 7475 |
-| 7 | 6875 | 7 | 6875 | 7 | 7675 | 7 | 7675 |
-| 8 | 7075 | 8 | 7075 | 8 | 7875 | 8 | 7875 |
-| 9 | 7275 | 9 | 7275 | 9 | 8075 | 9 | 8075 |
-| 10 | 7475 | 10 | 7475 | 10 | 8275 | 10 | 8275 |
-|   |   | 11 | 7675 | 11 | 8475 | 11 | 8475 |
-|   |   |   |   | 12 | 8675 | 12 | 8675 |
-|   |   |   |   | 13 | 8875 | 13 | 8875 |
-|   |   |   |   |   |   | U14 | 9075 |
-|   |   |   |   |   |   | U15 | 9275 |
-
-| BO | Y < 400 | BO SBO SO | Y 400-900 Y < 200 Q < 24 | BO SBO SO | Y ≥ 900 Y ≥ 200 Q ≥ 24 | niet-normfuncties | niet-normfuncties | niet-normfuncties | niet-normfuncties |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A |   | AB |   | AC |   | AD |   | AE |   |
-| 1 | 4425 | 1 | 4529 | 1 | 4631 | 1 | 4857 | 1 | 5108 |
-| 2 | 4637 | 2 | 4739 | 2 | 4857 | 2 | 5108 | 2 | 5543 |
-| 3 | 4847 | 3 | 4965 | 3 | 5108 | 3 | 5543 | 3 | 5954 |
-| 4 | 5073 | 4 | 5216 | 4 | 5325 | 4 | 5954 | 4 | 6381 |
-| 5 | 5324 | 5 | 5433 | 5 | 5543 | 5 | 6180 | 5 | 6784 |
-| 6 | 5541 | 6 | 5651 | 6 | 5750 | 6 | 6381 | 6 | 7234 |
-| 7 | 5759 | 7 | 5858 | 7 | 5954 | 7 | 6582 | 7 | 7448 |
-| 8 | 5966 | 8 | 6062 | 8 | 6180 | 8 | 6784 | 8 | 7658 |
-| 9 | 6170 | 9 | 6288 | 9 | 6381 | 9 | 7009 | 9 | 7869 |
-| 10 | 6396 | 10 | 6489 | 10 | 6582 | 10 | 7234 | 10 | 8072 |
-| 11 | 6597 | 11 | 6690 | 11 | 6784 | 11 | 7448 | 11 | 8286 |
-|   |   | 12 | 6892 | 12 | 7009 | 12 | 7658 | 12 | 8497 |
-|   |   | 13 | 7117 | 13 | 7234 | 13 | 7869 | 13 | 8700 |
-|   |   |   |   | 14 | 7448 | 14 | 8072 | 14 | 8911 |
-|   |   |   |   | 15 | 7658 | 15 | 8286 | 15 | 9175 |
-|   |   |   |   | 16 | 7869 | 16 | 8497 | 16 | 9437 |
-|   |   |   |   | 17 | 8072 | 17 | 8700 | 17 | 9701 |
-|   |   |   |   | 18 | 8181 | 18 | 8911 | 18 | 9966 |
-|   |   |   |   |   |   | 19 | 9175 | 19 | 10092 |
-|   |   |   |   |   |   |   |   | 20 | 9304 |
-
-## Bijlage 2. Conversie-overzichten per 1 maart 2001
-
-### Directeur basisschool
-
-Huidig: dir BO schaal 10 Y<200
-
-Nieuw: schaal DA
-
-Huidig: dir BO schaal 11 Y 200 <400
-
-Nieuw: schaal DB
-
-Huidig: dir BO schaal 11 Y 400 <900
-
-Nieuw: schaal DC
-
-### Directeur speciale school voor basisonderwijs, speciaal onderwijs
-
-(en directeur basisschool schaal 12)
-
-Huidig: dir SBO en SO schaal 11
-
-Nieuw: schaal DB
-
-Huidig: dir BO, SBO en SO schaal 12
-
-Nieuw: schaal DC
-
-### Meerhoofdige schoolleiding basisschool
-
-Huidig: dir BO schaal 10 (maximum salarisnummer 10 ) Y<200
-
-Nieuw: BO schaal DA (maximum salarisnummer 11)
-
-Huidig: dir BO schaal 10 (maximum salarisnummer 12) Y 200-400
-
-Nieuw: schaal DA (maximum salarisnummer 13)
-
-Huidig: dir BO schaal 10 (maximum salarisnummer 12) Y 400-900
-
-Nieuw: schaal DB (maximum salarisnummer 15)
-
-Huidig: dir BO schaal 11 (maximum salarisnummer 11) Y ≥ 900
-
-Nieuw: schaal DB (maximum salarisnummer 15 + uitloop)
-
-### Meerhoofdige schoolleiding aan speciale school voor basisonderwijs
-
-Huidig: dir SBO schaal 11 (maximum salarisnummer 6) Y < 100
-
-Nieuw: schaal DB (maximum salarisnummer 10)
-
-Huidig: dir SBO schaal 11(maximum salarisnummer 7) Y 100-200
-
-Nieuw: schaal DB (maximum salarisnummer 11)
-
-Huidig: dir SBO schaal 12 (maximum salarisnummer 7) Y 200-400
-
-Nieuw: schaal DC (maximum salarisnummer 13)
-
-Huidig: dir SBO schaal 12 (maximum salarisnummer 7) Y ≥ 400
-
-Nieuw: schaal DC (maximum salarisnummer 13 + uitloop)
-
-### Adjunct directeur
-
-Huidig: adjunct directeur BO schaal 9
-
-Nieuw: adjunct directeur BO schaal AA
-
-Huidig: adjunct directeur BO, SBO en SO schaal 10
-
-Nieuw: adjunct directeur schaal AB
-
-Huidig: adjunct directeur BO, SBO en SO schaal 11
-
-Nieuw: adjunct directeur schaal AC
+| Was | Maximum | Toelage | Toelage |
+| --- | --- | --- | --- |
+|  | schaal | Was | Wordt |
+| 28-2-2001 |  | 28-2-2001 | 1-3-2001 |
+| Directeur | 10 | 258,00 | 265,00 |
+|  | 11 | 103,00 | 106,00 |
+|  | 9 | 105,00 | 216,00 |
+|  | 9 | 210,00 | 216,00 |
+| Adjunct-directeur | 10 | 105,00 | 108,00 |
+| Onderdeel 5 bij het Rpbo |  | 207,00 | 212,00 |
+| Adjunct-directeur (SO) | 10 | 0,00 | 108,00 |

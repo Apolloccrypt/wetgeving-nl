@@ -1,78 +1,55 @@
 ---
 title: "Privacyreglement Kwaliteitsbureau Tolken en Vertalers"
 identifier: "BWBR0011552"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-09-08"
-last_updated: "2000-09-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011552"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "3551543"
-version_id: "5334822"
-internal_id: "C5527911"
-label_id: "3531704"
-dtd_version: "2.0"
-original_entry_into_force: "2000-09-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011552/2000-09-08/0"
-intitule_bron: "Stcrt.2000-172"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-08-14"
-intitule_published: "2000-09-06"
-intitule_in_force: "2000-09-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-172"
-original_signed_date: "2000-08-14"
-original_published_date: "2000-09-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-09-08"
-jci_1_3: "jci1.3:c:BWBR0011552&z=2000-09-08&g=2000-09-08"
-jci_1_0: "1.0:c:BWBR0011552&g=2000-09-08"
-citeertitel_status: "officieel"
-signed_date: "2000-08-14"
-entry_into_force: "2000-09-08"
+publicatiedatum: 2000-09-08
+laatste_update: 2000-09-08
+status: geldig
+toestand: 2000-09-08
+bron: "https://wetten.overheid.nl/BWBR0011552"
+opgehaald: 2026-08-05
 ---
-# Privacyreglement Kwaliteitsbureau Tolken en Vertalers
 
-Besluit van de Staatssecretaris van Justitie van 14 augustus juli 2000, houdende regels voor de registratie van tolken en vertalers.
+# Privacyreglement Kwaliteitsbureau Tolken en Vertalers
 
 #### Definities
 
-##### 1
+##### Artikel 1
 
 In dit reglement wordt verstaan onder:
 
-- a. **de wet:** de Wet persoonsregistraties;
+- a. *de wet:* de Wet persoonsregistraties;
 
-- b. **persoonsgegeven:** een gegeven dat herleidbaar is tot een individuele natuurlijke persoon;
+- b. *persoonsgegeven:* een gegeven dat herleidbaar is tot een individuele natuurlijke persoon;
 
-- c. **registratie:** de verzameling van gegevens van het Kwaliteitsbureau Tolken en Vertalers van de Directie Bestuurszaken van het Ministerie van Justitie ten behoeve van de doelstelling omschreven in artikel 2, eerste en tweede lid;
+- c. *registratie:* de verzameling van gegevens van het Kwaliteitsbureau Tolken en Vertalers van de Directie Bestuurszaken van het Ministerie van Justitie ten behoeve van de doelstelling omschreven in artikel 2, eerste en tweede lid;
 
-- d. **houder:** de Staatssecretaris van Justitie;
+- d. *houder:* de Staatssecretaris van Justitie;
 
-- e. **de registratiebeheerder:** de directeur van de Directie Bestuurszaken van het Ministerie van Justitie;
+- e. *de registratiebeheerder:* de directeur van de Directie Bestuurszaken van het Ministerie van Justitie;
 
-- f. **de directie:** de Directie Bestuurszaken van het Ministerie van Justitie;
+- f. *de directie:* de Directie Bestuurszaken van het Ministerie van Justitie;
 
-- g. **het Kwaliteitsbureau:** het Kwaliteitsbureau Tolken en Vertalers van de directie;
+- g. *het Kwaliteitsbureau:* het Kwaliteitsbureau Tolken en Vertalers van de directie;
 
-- h. **verstrekken van gegevens:** het bekendmaken of ter beschikking stellen van persoonsgegevens voor zover zulks geheel of grotendeels steunt op gegevens die in de registratie zijn opgenomen, of die door verwerking daarvan, al dan niet in verband met andere gegevens, zijn verkregen;
+- h. *verstrekken van gegevens:* het bekendmaken of ter beschikking stellen van persoonsgegevens voor zover zulks geheel of grotendeels steunt op gegevens die in de registratie zijn opgenomen, of die door verwerking daarvan, al dan niet in verband met andere gegevens, zijn verkregen;
 
-- i. **het kwaliteitstraject:** het kwaliteitstraject tolken en vertalers van het Ministerie van Justitie. Dit is het traject dat door de Staatssecretaris van Justitie in gang is gezet om te komen tot kwalitatief goede tolken en vertalers door middel van het stellen van uniforme kwaliteitseisen. Hierbij wordt getoetst of de tolken en vertalers voldoen aan die kwaliteitseisen. De tolk/vertaler wordt de mogelijkheid geboden door middel van bijscholingsmodules eventuele lacunes in de vaardigheden te dichten. Tolken/vertalers kunnen op vrijwillige basis participeren in het traject door ondertekening van een kwaliteitsovereenkomst en het aanleveren van gegevens (personalia, opleidingsgegevens, gegevens met betrekking tot de deskundigheid en het arbeidsverleden);
+- i. *het kwaliteitstraject:* het kwaliteitstraject tolken en vertalers van het Ministerie van Justitie. Dit is het traject dat door de Staatssecretaris van Justitie in gang is gezet om te komen tot kwalitatief goede tolken en vertalers door middel van het stellen van uniforme kwaliteitseisen. Hierbij wordt getoetst of de tolken en vertalers voldoen aan die kwaliteitseisen. De tolk/vertaler wordt de mogelijkheid geboden door middel van bijscholingsmodules eventuele lacunes in de vaardigheden te dichten. Tolken/vertalers kunnen op vrijwillige basis participeren in het traject door ondertekening van een kwaliteitsovereenkomst en het aanleveren van gegevens (personalia, opleidingsgegevens, gegevens met betrekking tot de deskundigheid en het arbeidsverleden);
 
-- j. **de tolk/vertaler:** de tolk of vertaler die door ondertekening van de kwaliteitsovereenkomst partner is in het kwaliteitstraject tolken en vertalers;
+- j. *de tolk/vertaler:* de tolk of vertaler die door ondertekening van de kwaliteitsovereenkomst partner is in het kwaliteitstraject tolken en vertalers;
 
-- k. **de afnemer:** de afnemer van tolk- en vertaaldiensten binnen de werkingssfeer van Justitie, zijnde de IND, de gerechten (waaronder de arrondissementsparketten) en de Tolkencentra;
+- k. *de afnemer:* de afnemer van tolk- en vertaaldiensten binnen de werkingssfeer van Justitie, zijnde de IND, de gerechten (waaronder de arrondissementsparketten) en de Tolkencentra;
 
-- l. **de Associatie:** de Stichting Nederlandse Associatie voor Praktijkexamens, die belast is met de logistiek van de toetsen die worden afgenomen in het kwaliteitstraject;
+- l. *de Associatie:* de Stichting Nederlandse Associatie voor Praktijkexamens, die belast is met de logistiek van de toetsen die worden afgenomen in het kwaliteitstraject;
 
-- m. **het Kernteam:** de instantie die in opdracht van de directie bijscholingsmodules en toetsen heeft ontwikkeld en het aanbieden en afnemen van deze modules en toetsen aan/van tolken/vertalers coördineert;
+- m. *het Kernteam:* de instantie die in opdracht van de directie bijscholingsmodules en toetsen heeft ontwikkeld en het aanbieden en afnemen van deze modules en toetsen aan/van tolken/vertalers coördineert;
 
-- n. **Nuffic:** de instantie die in opdracht van de directie diploma's en getuigschriften van tolken en vertalers controleert op echtheid, opleidingsniveau en de aanwezigheid van Nederlands als een van de actieve talen.
+- n. *Nuffic:* de instantie die in opdracht van de directie diploma's en getuigschriften van tolken en vertalers controleert op echtheid, opleidingsniveau en de aanwezigheid van Nederlands als een van de actieve talen.
 
 #### Doel en werking
 
-##### 2
+##### Artikel 2
 
 1. De registratie heeft primair tot doel de gegevensverwerking van de Directie ten behoeve van het kwaliteitstraject.
 
@@ -82,7 +59,7 @@ In dit reglement wordt verstaan onder:
 
 #### Hoofdlijnen van het beheer
 
-##### 3
+##### Artikel 3
 
 1. De registratiebeheerder is, onder verantwoordelijkheid van de houder, belast met de zeggenschap over de registratie. Hij volgt daarbij de aanwijzingen van de houder op.
 
@@ -96,7 +73,7 @@ In dit reglement wordt verstaan onder:
 
 #### Rechtstreekse toegang
 
-##### 4
+##### Artikel 4
 
 Rechtstreekse toegang tot de registratie hebben:
 
@@ -116,7 +93,7 @@ Rechtstreekse toegang tot de registratie hebben:
 
 #### Categorieën van geregistreerde personen
 
-##### 5
+##### Artikel 5
 
 In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de volgende categorieën van personen:
 
@@ -128,7 +105,7 @@ In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de vo
 
 #### Soorten van gegevens en de wijze van verkrijging
 
-##### 6
+##### Artikel 6
 
 1. Omtrent de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011552&artikel=5&z=2000-09-08&g=2000-09-08) genoemde personen kunnen de volgende soorten van persoonsgegevens worden opgenomen:
 
@@ -166,7 +143,7 @@ In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de vo
 
 #### Verwijdering en vernietiging
 
-##### 7
+##### Artikel 7
 
 1. De in de registratie opgenomen persoonsgegevens genoemd in [artikel 6 eerste lid onder b tot en met g en onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0011552&artikel=6&z=2000-09-08&g=2000-09-08) worden verwijderd na verloop van een termijn van drie jaren na de datum van beëindiging van deelname aan het kwaliteitstraject.
 
@@ -182,13 +159,13 @@ In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de vo
 
 #### Verbanden met andere verzamelingen
 
-##### 8
+##### Artikel 8
 
 De registratie heeft verbanden met verzamelingen van persoonsgegevens van de in [artikel 6 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011552&artikel=6&z=2000-09-08&g=2000-09-08) genoemde personen en instellingen. De genoemde verbanden bestaan eruit dat uit deze verzamelingen informatie afkomstig is die ten dienste van het doel van de registratie wordt gebruikt en opgeslagen en dat informatie uit de registratie aan deze verzamelingen wordt verstrekt ten dienste van het doel van de registratie.
 
 #### Verstrekking
 
-##### 9
+##### Artikel 9
 
 1. Verstrekking van gegevens vindt plaats aan personen werkzaam binnen de directie voor zover zij de gegevens behoeven voor de uitvoering van hun taak en in overeenstemming met het doel van de registratie.
 
@@ -208,7 +185,7 @@ De registratie heeft verbanden met verzamelingen van persoonsgegevens van de in 
 
 #### Protocollering
 
-##### 10
+##### Artikel 10
 
 1. Van iedere verstrekking wordt aangetekend de datum van verstrekking, de identiteit van de verkrijger en een omschrijving van de verstrekte gegevens.
 
@@ -218,11 +195,11 @@ De registratie heeft verbanden met verzamelingen van persoonsgegevens van de in 
 
 #### Rechten van de geregistreerde
 
-##### 11
+##### Artikel 11
 
 De geregistreerde wordt binnen vier weken na eerste opname in de registratie schriftelijk van deze opname in kennis gesteld, tenzij geregistreerde weet of redelijkerwijs kan weten dat een dergelijke opname heeft plaatsgevonden, dan wel indien een gewichtig belang van de houder zich tegen het doen van een schriftelijke mededeling verzet, dan wel op grond van de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011552&artikel=12&z=2000-09-08&g=2000-09-08) genoemde criteria.
 
-##### 12
+##### Artikel 12
 
 1. De geregistreerde kan de rechten genoemd in de artikelen 29, 31 en 32 van de wet uitoefenen door het in deze artikelen bedoelde verzoek schriftelijk te richten aan de houder, ter attentie van de directeur Bestuurszaken, per adres Postbus 20300, 2500 EH Den Haag.
 
@@ -245,9 +222,3 @@ De geregistreerde wordt binnen vier weken na eerste opname in de registratie sch
 5. De beantwoording van de verzoeken, met inbegrip van de weigering aan het verzoek te voldoen, geschiedt schriftelijk.
 
 6. Indien de houder niet voldoet aan het verzoek van betrokkene zoals bedoeld in het eerste lid van dit artikel, of daar niet schriftelijk aan voldoet, kan betrokkene zich wenden tot de arrondissementsrechtbank of de Registratiekamer, zoals bepaald in artikel 34 van de wet.
-
-Dit reglement wordt aangehaald als privacyreglement Kwaliteitsbureau Tolken en Vertalers.
-
-Dit reglement zal in de Staatscourant worden geplaatst.
-
-Dit reglement treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.

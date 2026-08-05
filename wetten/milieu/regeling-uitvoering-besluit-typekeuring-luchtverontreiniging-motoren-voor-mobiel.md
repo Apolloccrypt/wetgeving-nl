@@ -1,54 +1,33 @@
 ---
 title: "Regeling uitvoering Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines"
+citeertitel: "Regeling uitvoering Besluit typekeuring luchtverontreiniging motoren voor mobiele machines"
 identifier: "BWBR0012182"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-02-18"
-last_updated: "2014-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012182"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4010183"
-version_id: "21235632"
-internal_id: "C30496811"
-label_id: "3990204"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012182/2014-02-18/0"
-intitule_bron: "Stcrt.2001-20"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-01-23"
-intitule_published: "2001-01-29"
-intitule_in_force: "2001-01-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-4291"
-original_signed_date: "2014-02-10"
-original_published_date: "2014-02-17"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2014-4291"
-entry_into_force_date: "2014-02-10"
-jci_1_3: "jci1.3:c:BWBR0012182&z=2014-02-18&g=2014-02-18"
-jci_1_0: "1.0:c:BWBR0012182&g=2014-02-18"
-citeertitel_status: "officieel"
-short_title: "Regeling uitvoering Besluit typekeuring luchtverontreiniging motoren voor mobiele machines"
-signed_date: "2014-02-10"
-entry_into_force: "2014-02-10"
+publicatiedatum: 2014-02-10
+laatste_update: 2014-02-18
+status: geldig
+toestand: 2014-02-18
+bron: "https://wetten.overheid.nl/BWBR0012182"
+opgehaald: 2026-08-05
 ---
+
 # Regeling uitvoering Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines
-
-Gelet op [richtlijn nr. 97/68/EG](31997L0068) van het Europees Parlement en de Raad van de Europese Unie van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEG 1998, L 59), en op [richtlijn nr. 2000/25/EG](32000L0025) van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2000 (PbEG L 173) inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door motoren bestemd voor het aandrijven van landbouw- of bosbouwtrekkers en houdende wijziging van [Richtlijn 74/150/EEG](31974L0150) van de Raad en op de [artikelen 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=1), [5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=5), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=6), en [7, derde lid, van het Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=7);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Besluit typekeuring luchtverontreiniging motoren voor mobiele machines](https://wetten.overheid.nl/jci1.3:c:BWBR0012169);
+- *besluit:*
+ [Besluit typekeuring luchtverontreiniging motoren voor mobiele machines](https://wetten.overheid.nl/jci1.3:c:BWBR0012169);
 
-- **binnenschip:** binnenschip als bedoeld in artikel 2 van richtlijn 97/68;
+- *binnenschip:* binnenschip als bedoeld in artikel 2 van richtlijn 97/68;
 
-- **categorie:** categorie als bedoeld in artikel 9 van richtlijn 97/68.
+- *categorie:* categorie als bedoeld in artikel 9 van richtlijn 97/68.
+
+##### Artikel 1a
+
+Een wijziging van richtlijn 97/68 gaat voor de toepassing van deze regeling, gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 ##### Artikel 2
 
@@ -82,19 +61,27 @@ Het verbod, bedoeld in [artikel 3 van het besluit](https://wetten.overheid.nl/jc
 
 - a. in ieder geval:
 
-- 1°. de ruilmotor voldoet aan de fase IIIA-norm;
+   - 1°. de ruilmotor voldoet aan de fase IIIA-norm;
 
-- 2°. de ruilmotor dient ter vervanging van een motor voor een motortreinstel of locomotief die niet aan de fase III A-norm voldoet, of aan de fase III A-norm voldoet, maar niet voldoet aan de fase III B-norm, en
+   - 2°. de ruilmotor dient ter vervanging van een motor voor een motortreinstel of locomotief die niet aan de fase III A-norm voldoet, of aan de fase III A-norm voldoet, maar niet voldoet aan de fase III B-norm, en
 
-- 3°. het gebruik van een ruilmotor die voldoet aan de eisen van de meest recente toepasselijke emissiefase in het motortreinstel of de locomotief gepaard zal gaan met aanzienlijke technische moeilijkheden, of
+   - 3°. het gebruik van een ruilmotor die voldoet aan de eisen van de meest recente toepasselijke emissiefase in het motortreinstel of de locomotief gepaard zal gaan met aanzienlijke technische moeilijkheden, of
 
 - b. in ieder geval:
 
-- 1°. de ruilmotor dient ter vervanging van een motor voor een motortreinstel zonder besturing dat niet in staat is zelfstandig te bewegen, en
+   - 1°. de ruilmotor dient ter vervanging van een motor voor een motortreinstel zonder besturing dat niet in staat is zelfstandig te bewegen, en
 
-- 2°. de ruilmotor ten minste voldoet aan een norm die niet minder streng is dan de norm waaraan motoren die gemonteerd zijn in bestaande motortreinstellen van hetzelfde type voldoen, en
+   - 2°. de ruilmotor ten minste voldoet aan een norm die niet minder streng is dan de norm waaraan motoren die gemonteerd zijn in bestaande motortreinstellen van hetzelfde type voldoen, en
 
-- 3°. het gebruik van een ruilmotor die voldoet aan de eisen van de meest recente toepasselijke emissiefase in het motortreinstel of de locomotief gepaard zal gaan met aanzienlijke technische moeilijkheden.
+   - 3°. het gebruik van een ruilmotor die voldoet aan de eisen van de meest recente toepasselijke emissiefase in het motortreinstel of de locomotief gepaard zal gaan met aanzienlijke technische moeilijkheden.
+
+##### Artikel 5a
+
+Een typegoedkeuring die voor één fase van emissiegrenswaarden wordt verleend, loopt af met ingang van de verplichte tenuitvoerlegging van de grenswaarden van de volgende fase.
+
+##### Artikel 5b
+
+Indien een motortype of motorfamilie voor de uiterste datum, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=4&z=2014-02-18&g=2014-02-18) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=5&z=2014-02-18&g=2014-02-18), in samenhang met richtlijn 97/68, aan de emissiegrenswaarden voldoet, mag op het etiket worden aangegeven dat de motoren voor de vastgestelde data aan de emissiegrenswaarden voldoen.
 
 ##### Artikel 6
 
@@ -106,7 +93,7 @@ Degene aan wie de typekeuring is verleend:
 
 - c. voert een doelmatige en deugdelijke administratie, die inzicht biedt in de verschillende fasen die tijdens en na fabricage worden doorlopen;
 
-- d. zendt de keuringsinstantie overeenkomstig artikel 6, derde en vierde lid, van [richtlijn 97/68](31997L0068) een lijst met de volledige reeks van identificatienummers voor elk motortype bestemd om te worden gemonteerd in een mobiele machine dan wel gemonteerd in een mobiele machine;
+- d. zendt de keuringsinstantie overeenkomstig artikel 6, derde en vierde lid, van richtlijn 97/68 een lijst met de volledige reeks van identificatienummers voor elk motortype bestemd om te worden gemonteerd in een mobiele machine dan wel gemonteerd in een mobiele machine;
 
 - e. wijst binnen de organisatie een persoon aan die verantwoordelijk is met betrekking tot het bepaalde in de onderdelen a tot en met d.
 
@@ -128,13 +115,13 @@ Degene aan wie de typekeuring is verleend:
 
 ##### Artikel 8
 
-1. Nadat een typegoedkeuring is verleend, wordt ten minste éénmaal per jaar onderzocht of nog wordt voldaan aan [richtlijn 97/68](31997L0068).
+1. Nadat een typegoedkeuring is verleend, wordt ten minste éénmaal per jaar onderzocht of nog wordt voldaan aan richtlijn 97/68.
 
-2. Indien het kwaliteitsniveau ontoereikend blijkt te zijn of indien het noodzakelijk is de specificaties voor de emissie van verontreinigende stoffen, bedoeld in punt 4.1.2 van bijlage I van [richtlijn 97/68](31997L0068), te controleren wordt de procedure van punt 5.3.2 van bijlage I van [richtlijn 97/68](31997L0068) gevolgd.
+2. Indien het kwaliteitsniveau ontoereikend blijkt te zijn of indien het noodzakelijk is de specificaties voor de emissie van verontreinigende stoffen, bedoeld in punt 4.1.2 van bijlage I van richtlijn 97/68, te controleren wordt de procedure van punt 5.3.2 van bijlage I van richtlijn 97/68 gevolgd.
 
 3. Indien bij de steekproef, als bedoeld in punt 5.3.2 van bijlage I, wordt vastgesteld dat een motor niet overeenstemt met het type waarvoor de goedkeuring is verleend wordt door de functionaris van de keuringsinstantie terzake een rapport opgesteld waarvan de fabrikant een afschrift ontvangt.
 
-4. Er is gebrek aan overeenstemming met het goedgekeurde type of de goedgekeurde familie indien er afwijkingen worden geconstateerd van de gegevens op het goedkeuringsformulier en/of in het informatiepakket en indien deze afwijkingen niet zijn toegestaan op grond van artikel 5, derde lid, van [richtlijn 97/68](31997L0068).
+4. Er is gebrek aan overeenstemming met het goedgekeurde type of de goedgekeurde familie indien er afwijkingen worden geconstateerd van de gegevens op het goedkeuringsformulier en/of in het informatiepakket en indien deze afwijkingen niet zijn toegestaan op grond van artikel 5, derde lid, van richtlijn 97/68.
 
 ##### Artikel 9
 
@@ -143,21 +130,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling uitvoering Besluit typekeuring luchtverontreiniging motoren voor mobiele machines.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Een wijziging van [richtlijn 97/68](31997L0068) gaat voor de toepassing van deze regeling, gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-Een typegoedkeuring die voor één fase van emissiegrenswaarden wordt verleend, loopt af met ingang van de verplichte tenuitvoerlegging van de grenswaarden van de volgende fase.
-
-##### Artikel 5b
-
-Indien een motortype of motorfamilie voor de uiterste datum, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=4&z=2014-02-18&g=2014-02-18) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=5&z=2014-02-18&g=2014-02-18), in samenhang met richtlijn 97/68, aan de emissiegrenswaarden voldoet, mag op het etiket worden aangegeven dat de motoren voor de vastgestelde data aan de emissiegrenswaarden voldoen.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

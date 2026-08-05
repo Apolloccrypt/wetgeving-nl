@@ -1,48 +1,107 @@
 ---
 title: "Regeling aftappen openbare telecommunicatienetwerken en -diensten"
 identifier: "BWBR0012525"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-12-28"
-last_updated: "2016-12-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012525"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "4883543"
-version_id: "7822332"
-internal_id: "C9536671"
-label_id: "4861684"
-dtd_version: "2.0"
-original_entry_into_force: "2001-06-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012525/2016-12-28/0"
-intitule_bron: "Stcrt.2001-107"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-05-30"
-intitule_published: "2001-06-07"
-intitule_in_force: "2001-06-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-107"
-original_signed_date: "2001-05-30"
-original_published_date: "2001-06-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-06-15"
-jci_1_3: "jci1.3:c:BWBR0012525&z=2016-12-28&g=2016-12-28"
-jci_1_0: "1.0:c:BWBR0012525&g=2016-12-28"
-citeertitel_status: "officieel"
-signed_date: "2001-05-30"
-entry_into_force: "2001-06-15"
+publicatiedatum: 2001-06-15
+laatste_update: 2016-12-28
+status: geldig
+toestand: 2016-12-28
+bron: "https://wetten.overheid.nl/BWBR0012525"
+opgehaald: 2026-08-05
 ---
+
 # Regeling aftappen openbare telecommunicatienetwerken en -diensten
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009999&artikel=3) en [4 van het Besluit aftappen openbare Telecommunicatienetwerken en -diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0009999&artikel=4);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+besluit:
+
+[Besluit aftappen openbare telecommunicatienetwerken en -diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0009999);
+
+b.
+
+GSM:
+
+systeem voor openbare paneuropese digitale cellulaire mobiele communicatie te land, zoals omschreven in de bijlage bij aanbeveling nr. 87/371/EEG van de Raad van de Europese Gemeenschappen van 25 juni 1987, inzake de gecoördineerde invoering van openbare paneuropese digitale cellulaire mobiele communicatie te land in de Gemeenschap (PbEG L 196), en zoals omschreven in de ERC Decision van 21 maart 1997, nr. ERC/DRC/(97)/02;
+
+c.
+
+DCS 1800:
+
+systeem voor openbare digitale cellulaire mobiele telecommunicatie te land, zoals gestandaardiseerd door het Europese Telecommunicatie Standaardisatie Instituut (ETSI);
+
+d.
+
+GPRS:
+
+General Packet Radio Service, een mobiele netwerkdienst die gebruik maakt van het GSM-radiotoegangsnetwerk, zoals beschreven in document ETSI EN 301 344 V6.7.1;
+
+e.
+
+ERMES:
+
+systeem voor een openbare paneuropese semafoondienst te land, zoals omschreven in de bijlage bij aanbeveling nr. 90/543/EEG van de Raad van de Europese Gemeenschappen van 9 oktober 1990, inzake de gecoördineerde invoering in de Gemeenschap van een openbare paneuropese semafoondienst te land (PbEG L 310);
+
+f.
+
+TFTS:
+
+terrestrisch systeem voor openbare communicatie met vliegtuigen, zoals omschreven in de Bekendmaking van de Minister van Verkeer en Waterstaat inzake Terrestrial Flight Telephone System van 20 juni 1995, Stcrt. 128;
+
+g.
+
+internet:
+
+systeem van openbare netwerken die RFC 791 en RFC 792 (IPv.4), RFC 1884 en RFC 1885 (IPv. 6) dan wel een ander Internet Protocol (IP), zoals vastgesteld door de Internet Engineering Task Force (IETF), gebruiken met IP-adressen die door de Internet Corporation for Assigned Names and Numbers (ICANN) officieel zijn toegewezen;
+
+h.
+
+IMT-2000:
+
+familie van mobiele systemen voor de derde generatie, met de daarbij behorende radio-interfaces, zoals deze door de Internationale Telecommunicatie Unie (ITU) is vastgesteld op basis van resolutie 212 van de ITU;
+
+i.
+
+SIM-kaart:
+
+chipkaart met informatie die toegang geeft tot GSM- of DCS 1800-diensten;
+
+j.
+
+RIC:
+
+getal dat wordt gebruikt om een ERMES-semafoon of groep van ERMES-semafoons te identificeren waarvoor een bepaald bericht is bestemd;
+
+k.
+
+ERMES-semafoonnummer:
+
+oproepnummer van een ERMES-semafoon;
+
+l.
+
+nummer van het vliegtuig:
+
+Aircraft Station Identity (ASI), zoals toegekend door de International Civil Aviation Organization (ICAO);
+
+m.
+
+IP-adres:
+
+adres dat wordt gebruikt voor het adresseren van aansluitingen op het internet, zoals beschreven in RFC 791 en RFC 1884 van de IETF;
+
+n.
+
+elektronische post:
+
+elektronische vorm van correspondentie, zoals beschreven in de X.400 standaard van de ITU alsmede in RFC 821 (SMTP protocol) en RFC 822 (ARPA Internet Text Messages) van de IETF.
 
 #### § 2. Aanwijzing openbare telecommunicatienetwerken en -diensten
 
@@ -138,11 +197,11 @@ De afgetapte telecommunicatie die door de aanbieder van een in [artikel 2](https
 
 - b. de telecommunicatie is voorzien van de navolgende identificerende gegevens:
 
-- 1º. de nummers van de netwerkaansluitpunten of van de gebruikers waartussen de oproep plaatsvond;
+   - 1º. de nummers van de netwerkaansluitpunten of van de gebruikers waartussen de oproep plaatsvond;
 
-- 2º. de nummers van de netwerkaansluitpunten of van de gebruikers waarlangs en waartussen de oproep plaatsvond bij omleiding van de oproep;
+   - 2º. de nummers van de netwerkaansluitpunten of van de gebruikers waarlangs en waartussen de oproep plaatsvond bij omleiding van de oproep;
 
-- 3º. datum en tijdstip van begin en einde van de oproep;
+   - 3º. datum en tijdstip van begin en einde van de oproep;
 
 - c. de telecommunicatie en de identificerende gegevens worden uitsluitend eenduidig gekoppeld ter beschikking gesteld;
 
@@ -158,11 +217,11 @@ De afgetapte telecommunicatie die door de aanbieder van een in [artikel 2](https
 
 - b. de telecommunicatie is voorzien van de navolgende identificerende gegevens:
 
-- 1º. de nummers van de netwerkaansluitpunten waartussen de telecommunicatie plaatsvond;
+   - 1º. de nummers van de netwerkaansluitpunten waartussen de telecommunicatie plaatsvond;
 
-- 2º. datum en tijdstip van elk pakket waaruit de telecommunicatie bestaat;
+   - 2º. datum en tijdstip van elk pakket waaruit de telecommunicatie bestaat;
 
-- 3º. de door het netwerk of de dienst gegenereerde controlegegevens met betrekking tot de telecommunicatie.
+   - 3º. de door het netwerk of de dienst gegenereerde controlegegevens met betrekking tot de telecommunicatie.
 
 - c. de telecommunicatie en de identificerende gegevens worden uitsluitend eenduidig gekoppeld ter beschikking gesteld;
 
@@ -199,5 +258,3 @@ Deze regeling treedt in werking met ingang van 15 juni 2001.
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling aftappen openbare telecommunicatienetwerken en -diensten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

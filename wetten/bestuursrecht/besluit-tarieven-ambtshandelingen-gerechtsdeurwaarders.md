@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 4 juli 2001, houdende nadere regels inzake de ambtshandelingen van gerechtsdeurwaarders en de tarieven (Besluit tarieven ambtshandelingen gerechtsdeurwaarders)"
+citeertitel: "Besluit tarieven ambtshandelingen gerechtsdeurwaarders"
 identifier: "BWBR0012638"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012638"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1583353"
-version_id: "2345462"
-internal_id: "C2345461"
-label_id: "1538334"
-dtd_version: "2.0"
-original_entry_into_force: "2001-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012638/2026-01-01/0"
-intitule_bron: "Stb.2001-325"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-04"
-intitule_published: "2001-07-10"
-intitule_in_force: "2001-07-10"
-intitule_status: "goed"
-original_publication: "Stb.2001-325"
-original_signed_date: "2001-07-04"
-original_published_date: "2001-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-325"
-entry_into_force_date: "2001-07-15"
-jci_1_3: "jci1.3:c:BWBR0012638&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0012638&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit tarieven ambtshandelingen gerechtsdeurwaarders"
-signed_date: "2001-07-04"
-entry_into_force: "2001-07-15"
+publicatiedatum: 2001-07-15
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0012638"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 4 juli 2001, houdende nadere regels inzake de ambtshandelingen van gerechtsdeurwaarders en de tarieven (Besluit tarieven ambtshandelingen gerechtsdeurwaarders)
-
-Op de voordracht van de Staatssecretaris van Justitie van 23 mei 2001, nr. 5099743/01/6;
-
-Gelet op de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2), en [21 van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=21), en de [artikelen 57, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=57), [57a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=57a), en [434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a);
-
-De Raad van State gehoord (advies van 21 juni 2001, nr. W03.01.0251);
-
-Gezien het nader rapport van de Staatssecretaris van Justitie van 2 juli 2001, nr. 5105381/01/6;
-
-Hebben goedgevonden en verstaan:
-
-Dit besluit treedt in werking op het tijdstip waarop de artikelen 2, 21 en 89 van de Gerechtsdeurwaarderswet in werking treden.
 
 #### § 1. Vaste schuldenaarstarieven
 
@@ -114,11 +80,11 @@ De schuldenaarstarieven, vastgesteld bij of krachtens dit besluit dienen mede to
 
 Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2026-01-01&g=2026-01-01), bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), van inning, verdere tenuitvoerlegging en verdeling van de opbrengst van beslag op vorderingen tot periodieke betalingen, per maand waarin de gerechtsdeurwaarder een betaling van de derde int:
 
-- a. in geval van enkelvoudig derdenbeslag: € 15,80;
+- a. in geval van enkelvoudig derdenbeslag: € 15,80;
 
-- b. in geval van twee samenlopende derdenbeslagen: € 25,14; en
+- b. in geval van twee samenlopende derdenbeslagen: € 25,14; en
 
-- c. voor ieder daarop volgend samenlopend derdenbeslag: € 9,36 per beslag.
+- c. voor ieder daarop volgend samenlopend derdenbeslag: € 9,36 per beslag.
 
 ##### Artikel 4
 
@@ -132,15 +98,15 @@ Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&pa
 
 ##### Artikel 5
 
-Indien de gerechtsdeurwaarder met betrekking tot dezelfde roerende zaken de ambtshandelingen, bedoeld in [artikel 2, onder m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), verricht, worden de kosten van de ambtshandeling, vastgesteld in artikel 2, onder m, verminderd met € 30,28.
+Indien de gerechtsdeurwaarder met betrekking tot dezelfde roerende zaken de ambtshandelingen, bedoeld in [artikel 2, onder m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), verricht, worden de kosten van de ambtshandeling, vastgesteld in artikel 2, onder m, verminderd met € 30,28.
 
 ##### Artikel 6
 
 Indien de gerechtsdeurwaarder zich op grond van een wettelijk voorschrift voor de goede verrichting van de ambtshandeling laat bijstaan door een of meer getuigen, worden de kosten van de ambtshandeling:
 
-- a. bedoeld in [artikel 2, onder e, f, g, en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), verhoogd met € 30,84;
+- a. bedoeld in [artikel 2, onder e, f, g, en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), verhoogd met € 30,84;
 
-- b. bedoeld in [artikel 2, onder m, o, q, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), verhoogd met € 107,97.
+- b. bedoeld in [artikel 2, onder m, o, q, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), verhoogd met € 107,97.
 
 ##### Artikel 7
 
@@ -148,17 +114,17 @@ Indien uit het exploot blijkt dat de uitvoering ter plaatse van de ambtshandelin
 
 - a. bedoeld in [artikel 2, onder e, f, g, h, n en y](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), langer dan anderhalf uur heeft geduurd, of
 
-- b. bedoeld in [artikel 2, onder m, q, r, t, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), langer dan drie uur heeft geduurd, worden de kosten verhoogd met € 30,28 voor iedere 15 minuten dat de uitvoering ter plaatse van de ambtshandeling langer dan anderhalf uur, respectievelijk drie uur heeft geduurd, en worden de kosten, vastgesteld bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), verhoogd met € 17,93 voor iedere 15 minuten dat de bijstand door de getuige daarbij langer dan anderhalf uur, respectievelijk drie uur heeft geduurd.
+- b. bedoeld in [artikel 2, onder m, q, r, t, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), langer dan drie uur heeft geduurd, worden de kosten verhoogd met € 30,28 voor iedere 15 minuten dat de uitvoering ter plaatse van de ambtshandeling langer dan anderhalf uur, respectievelijk drie uur heeft geduurd, en worden de kosten, vastgesteld bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), verhoogd met € 17,93 voor iedere 15 minuten dat de bijstand door de getuige daarbij langer dan anderhalf uur, respectievelijk drie uur heeft geduurd.
 
 ##### Artikel 8
 
-1. Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), worden de kosten verhoogd met € 38,19 indien:
+1. Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), worden de kosten verhoogd met € 38,19 indien:
 
 - a. het exploot, nadat betekening aan de laatstelijk aan de opdrachtgever bekendgeworden woon- of verblijfplaats van de schuldenaar eens of meermalen niet mogelijk is gebleken, op een volgend adres wordt betekend, en
 
 - b. de gerechtsdeurwaarder aan de voet van het exploot de data vermeldt waarop dat adres is geverifieerd aan de hand van gegevens uit de basisregistratie personen of het Handelsregister, en waarop betekening aan dat adres niet mogelijk is gebleken.
 
-2. Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), worden de kosten van het exploot, bedoeld in [artikel 2, onder e en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), verhoogd met € 76,86 onderscheidenlijk € 150,29, indien de gerechtsdeurwaarder:
+2. Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), worden de kosten van het exploot, bedoeld in [artikel 2, onder e en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), verhoogd met € 76,86 onderscheidenlijk € 150,29, indien de gerechtsdeurwaarder:
 
 - a. de desbetreffende ambtshandeling heeft verricht nadat een of meer eerdere pogingen daartoe geen doorgang vonden wegens afwezigheid van de schuldenaar of een persoon die hem kan vertegenwoordigen op de plaats van het beslag, onderscheidenlijk de afwezigheid van de schuldenaar op de voorziene plaats van tenuitvoerlegging van de lijfsdwang;
 
@@ -228,7 +194,7 @@ Het Deurwaardersreglement wordt ingetrokken.
 
 ##### Artikel 16
 
-Wijzigt het Besluit tarieven in strafzaken.
+*Wijzigt het Besluit tarieven in strafzaken.*
 
 ##### Artikel 17
 
@@ -236,10 +202,8 @@ Dit besluit berust op de [artikelen 240](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 18
 
-Dit besluit, treedt in werking op het tijdstip waarop de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=21) en [89 van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=89) in werking treden, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01), dat in werking treedt met ingang van het tijdstip waarop artikel 31, onderdeel L, van hoofdstuk 5 van het bij koninklijke boodschap van 20 juni 2001 ingediende voorstel van wet tot aanpassing van de wetgeving aan de herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Kamerstukken II 2000/2001, 27 824, nrs. 1–3), nadat het tot wet is verheven, in werking treedt.
+Dit besluit, treedt in werking op het tijdstip waarop de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=21) en [89 van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=89) in werking treden, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01), dat in werking treedt met ingang van het tijdstip waarop artikel 31, onderdeel L, van hoofdstuk 5 van het bij koninklijke boodschap van 20 juni 2001 ingediende voorstel van wet tot aanpassing van de wetgeving aan de herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Kamerstukken II 2000/2001, 27 824, nrs. 1–3), nadat het tot wet is verheven, in werking treedt.
 
 ##### Artikel 19
 
 Dit besluit wordt aangehaald als: Besluit tarieven ambtshandelingen gerechtsdeurwaarders.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

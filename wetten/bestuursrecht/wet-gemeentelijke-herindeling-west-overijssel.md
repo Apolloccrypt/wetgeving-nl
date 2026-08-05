@@ -1,48 +1,18 @@
 ---
 title: "Wet van 29 juni 2000 tot gemeentelijke herindeling van West-Overijssel"
+citeertitel: "Wet gemeentelijke herindeling West-Overijssel"
 identifier: "BWBR0011454"
-country: "nl"
-rank: "wet"
-publication_date: "2000-07-28"
-last_updated: "2000-07-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011454"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "1391793"
-version_id: "2088002"
-internal_id: "C2088001"
-label_id: "1349744"
-dtd_version: "2.0"
-original_entry_into_force: "2000-07-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011454/2000-07-28/0"
-intitule_bron: "Stb.2000-311"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-06-29"
-intitule_published: "2000-07-27"
-intitule_in_force: "2000-07-27"
-intitule_status: "goed"
-original_publication: "Stb.2000-311"
-original_signed_date: "2000-06-29"
-original_published_date: "2000-07-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "26657"
-original_url_id: "stb-2000-311"
-entry_into_force_date: "2000-07-28"
-entry_into_force_dossier: "26657"
-jci_1_3: "jci1.3:c:BWBR0011454&z=2000-07-28&g=2000-07-28"
-jci_1_0: "1.0:c:BWBR0011454&g=2000-07-28"
-citeertitel_status: "officieel"
-short_title: "Wet gemeentelijke herindeling West-Overijssel"
-signed_date: "2000-06-29"
-entry_into_force: "2000-07-28"
+publicatiedatum: 2000-07-28
+laatste_update: 2000-07-28
+status: geldig
+toestand: 2000-07-28
+bron: "https://wetten.overheid.nl/BWBR0011454"
+opgehaald: 2026-08-05
 ---
+
 # Wet van 29 juni 2000 tot gemeentelijke herindeling van West-Overijssel
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeentelijke indeling in West-Overijssel te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. Opheffing en instelling van gemeenten
 
@@ -109,23 +79,23 @@ Tabel 1. Gebiedsbepaling nieuwe gemeenten
 | nieuwe gemeente | bestaande uit de op te heffen gemeenten |
 | --- | --- |
 | Dalfsen | Dalfsen |
-|   | Nieuwleusen |
+|  | Nieuwleusen |
 | Zwartewaterland | Genemuiden |
-|   | Hasselt |
-|   | Zwartsluis |
+|  | Hasselt |
+|  | Zwartsluis |
 | Hardenberg | Avereest |
-|   | Gramsbergen |
-|   | Hardenberg |
-|   |   |
+|  | Gramsbergen |
+|  | Hardenberg |
+|  |  |
 | Kampen | Kampen |
-|   | IJsselmuiden |
+|  | IJsselmuiden |
 | Olst | Olst |
-|   | Wijhe |
+|  | Wijhe |
 | Raalte | Heino |
-|   | Raalte |
+|  | Raalte |
 | Steenwijk | Brederwiede |
-|   | Steenwijk |
-|   | IJsselham |
+|  | Steenwijk |
+|  | IJsselham |
 
 #### Paragraaf 2. Grenswijzigingen van gemeenten die niet worden opgeheven
 
@@ -172,23 +142,23 @@ Tabel 3. Aanwijzing nieuwe gemeenten
 | aangewezen nieuwe gemeente | op te heffen gemeente |
 | --- | --- |
 | Dalfsen | Dalfsen |
-|   | Nieuwleusen |
+|  | Nieuwleusen |
 | Zwartewaterland | Hasselt |
-|   | Genemuiden |
-|   | Zwartsluis |
+|  | Genemuiden |
+|  | Zwartsluis |
 | Hardenberg | Avereest |
-|   | Gramsbergen |
-|   | Hardenberg |
-|   |   |
+|  | Gramsbergen |
+|  | Hardenberg |
+|  |  |
 | Kampen | Kampen |
-|   | IJsselmuiden |
+|  | IJsselmuiden |
 | Olst | Olst |
-|   | Wijhe |
+|  | Wijhe |
 | Raalte | Heino |
-|   | Raalte |
+|  | Raalte |
 | Steenwijk | Brederwiede |
-|   | Steenwijk |
-|   | IJsselham |
+|  | Steenwijk |
+|  | IJsselham |
 
 ##### Artikel 6
 
@@ -210,11 +180,11 @@ Tabel 3. Aanwijzing nieuwe gemeenten
 
 ##### Artikel 8
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 9
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 10
 
@@ -231,7 +201,3 @@ Gedeputeerde staten van Overijssel kunnen bij de vaststelling van de grensbeschr
 ##### Artikel 12
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-## Kaart. behorende bij de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011454&paragraaf=1&artikel=2&z=2000-07-28&g=2000-07-28), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0011454&paragraaf=2&artikel=3&z=2000-07-28&g=2000-07-28) van de Wet tot gemeentelijke herindeling van West-Overijssel
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

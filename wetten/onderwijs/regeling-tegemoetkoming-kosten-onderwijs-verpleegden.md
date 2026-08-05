@@ -1,48 +1,37 @@
 ---
 title: "Regeling tegemoetkoming kosten onderwijs verpleegden"
 identifier: "BWBR0011999"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-01-12"
-last_updated: "2001-01-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011999"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "3609323"
-version_id: "5392422"
-internal_id: "C5585511"
-label_id: "3589304"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011999/2001-01-12/0"
-intitule_bron: "Stcrt.2001-7"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-15"
-intitule_published: "2001-01-10"
-intitule_in_force: "2001-01-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-7"
-original_signed_date: "2000-12-15"
-original_published_date: "2001-01-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-01-12"
-jci_1_3: "jci1.3:c:BWBR0011999&z=2001-01-12&g=2001-01-12"
-jci_1_0: "1.0:c:BWBR0011999&g=2001-01-12"
-citeertitel_status: "officieel"
-signed_date: "2000-12-15"
-entry_into_force: "2001-01-12"
+publicatiedatum: 2001-01-12
+laatste_update: 2001-01-12
+status: geldig
+toestand: 2001-01-12
+bron: "https://wetten.overheid.nl/BWBR0011999"
+opgehaald: 2026-08-05
 ---
+
 # Regeling tegemoetkoming kosten onderwijs verpleegden
-
-Gelet op [artikel 43, vierde lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=43);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 22 september 2000, nr. 5053768/00/TvdW/rb;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+kosten:
+
+bedragen die in het kader van het volgen van onderwijs of het deelnemen aan andere educatieve activiteiten verschuldigd zijn voor deelname, wegens aanschaf van leermiddelen of voor het afleggen van tentamens en examens;
+
+onderwijs:
+
+onderwijs dat wordt georganiseerd door een bij of krachtens de wet erkende onderwijsinstelling, voor zover hierin niet in de inrichting wordt voorzien;
+
+educatieve activiteiten:
+
+activiteiten, niet zijnde onderwijs, gericht op de bevordering van de persoonlijke ontplooiing ten dienste van het maatschappelijk functioneren van de verpleegde door de ontwikkeling van kennis, inzicht, vaardigheden en houdingen op een wijze die aansluit bij zijn behoeften, mogelijkheden en ervaringen alsmede maatschappelijke behoeften, voor zover hierin niet in de inrichting wordt voorzien;
+
+verzoek:
+
+een verzoek om een tegemoetkoming in de kosten.
 
 ##### Artikel 2
 
@@ -73,5 +62,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming kosten onderwijs verpleegden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,51 +1,22 @@
 ---
 title: "Wet van 6 september 2000, houdende wijziging van de Tracéwet (eerste tranche)"
+citeertitel: "Wijzigingswet Tracéwet (eerste tranche)"
 identifier: "BWBR0011611"
-country: "nl"
-rank: "wet"
-publication_date: "2000-10-15"
-last_updated: "2000-10-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011611"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1419043"
-version_id: "2128862"
-internal_id: "C2128861"
-label_id: "1377294"
-dtd_version: "2.0"
-original_entry_into_force: "2000-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011611/2000-10-15/0"
-intitule_bron: "Stb.2000-396"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-06"
-intitule_published: "2000-10-10"
-intitule_in_force: "2000-10-12"
-intitule_status: "goed"
-original_publication: "Stb.2000-396"
-original_signed_date: "2000-09-06"
-original_published_date: "2000-10-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "26343"
-original_url_id: "stb-2000-396"
-entry_into_force_date: "2000-10-15"
-jci_1_3: "jci1.3:c:BWBR0011611&z=2000-10-15&g=2000-10-15"
-jci_1_0: "1.0:c:BWBR0011611&g=2000-10-15"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Tracéwet (eerste tranche)"
-signed_date: "2000-09-06"
-entry_into_force: "2000-10-15"
+publicatiedatum: 2000-10-15
+laatste_update: 2000-10-15
+status: geldig
+toestand: 2000-10-15
+bron: "https://wetten.overheid.nl/BWBR0011611"
+opgehaald: 2026-08-05
 ---
+
 # Wet van 6 september 2000, houdende wijziging van de Tracéwet (eerste tranche)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de Tracéwet te wijzigen in verband met ervaringen die zijn opgedaan bij de toepassing ervan, in het bijzonder teneinde de procedures ten behoeve van de aanleg of wijziging van hoofdwegen of landelijke railwegen te bespoedigen en te vereenvoudigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Tracéwet.
+*Wijzigt de Tracéwet.*
 
 ##### Artikel II
 
@@ -79,7 +50,7 @@ Ten aanzien van tracébesluiten die zijn vastgesteld vóór het tijdstip van inw
 
 ##### Artikel IV
 
-Wijzigt de Wet geluidhinder.
+*Wijzigt de Wet geluidhinder.*
 
 ##### Artikel V
 
@@ -87,10 +58,8 @@ Algemene maatregelen van bestuur, vastgesteld op grond van [artikel 106 van de W
 
 ##### Artikel VI
 
-Wijzigt de onteigeningswet..
+*Wijzigt de onteigeningswet.*.
 
 ##### Artikel VII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

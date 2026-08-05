@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 13 maart 2000, houdende regels ter uitvoering van artikel 24a van de Wet opneming buitenlandse kinderen ter adoptie alsmede inwerkingtreding van dat artikel (Besluit klachtencommissie vergunninghouders interlandelijke adoptie)"
+citeertitel: "Besluit klachtencommissie vergunninghouders interlandelijke adoptie"
 identifier: "BWBR0011217"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011217"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "1213943"
-version_id: "1788692"
-internal_id: "C1788691"
-label_id: "1175644"
-dtd_version: "2.0"
-original_entry_into_force: "2000-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011217/2018-08-01/0"
-intitule_bron: "Stb.2000-120"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-03-13"
-intitule_published: "2000-03-23"
-intitule_in_force: "2000-03-23"
-intitule_status: "goed"
-original_publication: "Stb.2000-120"
-original_signed_date: "2000-03-13"
-original_published_date: "2000-03-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2000-120"
-entry_into_force_date: "2000-04-01"
-jci_1_3: "jci1.3:c:BWBR0011217&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0011217&g=2018-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit klachtencommissie vergunninghouders interlandelijke adoptie"
-signed_date: "2000-03-13"
-entry_into_force: "2000-04-01"
+publicatiedatum: 2000-04-01
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0011217"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 13 maart 2000, houdende regels ter uitvoering van artikel 24a van de Wet opneming buitenlandse kinderen ter adoptie alsmede inwerkingtreding van dat artikel (Besluit klachtencommissie vergunninghouders interlandelijke adoptie)
-
-Op de voordracht van de Staatssecretaris van Justitie van 25 oktober 1999, Directie Wetgeving, nr. 798026/99/6;
-
-Gelet op [artikel 24a, eerste lid, tweede volzin, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=24a), de [artikelen 9:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:13) en [9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14) en [artikel 17, eerste lid, van de Wet van 14 mei 1998 tot uitvoering van het op 29 mei 1993 te 's-Gravenhage tot stand gekomen verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie en, in verband daarmee, wijziging van de Wet opneming buitenlandse pleegkinderen en enige andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0009614&artikel=17) (Stb. 302);
-
-De Raad van State gehoord (advies van 5 januari 2000, nr. W03.99 0531/I);
-
-Gezien het nader rapport van de Staatssecretaris van Justitie van 6 maart 2000, Directie Wetgeving, nr. 5006821/00/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -97,5 +65,3 @@ Dit besluit en [artikel 14, onderdeel R, van de Wet van 14 mei 1998 tot uitvoeri
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit klachtencommissie vergunninghouders interlandelijke adoptie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,42 +1,17 @@
 ---
 title: "Regeling aanwijzing administratief-technische functies"
 identifier: "BWBR0012102"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-09-14"
-last_updated: "2013-09-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012102"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4860673"
-version_id: "7790762"
-internal_id: "C9507051"
-label_id: "4838654"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012102/2013-09-14/0"
-intitule_bron: "Stcrt.2000-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-22"
-intitule_published: "2000-12-22"
-intitule_in_force: "2000-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-249"
-original_signed_date: "2000-12-22"
-original_published_date: "2000-12-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0012102&z=2013-09-14&g=2013-09-14"
-jci_1_0: "1.0:c:BWBR0012102&g=2013-09-14"
-citeertitel_status: "officieel"
-signed_date: "2000-12-22"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2013-09-14
+status: geldig
+toestand: 2013-09-14
+bron: "https://wetten.overheid.nl/BWBR0012102"
+opgehaald: 2026-08-05
 ---
+
 # Regeling aanwijzing administratief-technische functies
-
-gelet op [artikel 10, derde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=10);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -46,13 +21,13 @@ Besluit:
 
 - b. er is sprake van een functie waaraan risico's en ongemakken zijn verbonden, waarbij sprake is van twee of meer van de volgende omstandigheden:
 
-- –. voor het vervullen van de functie is fysieke inspanning en behendigheid vereist;
+   - – voor het vervullen van de functie is fysieke inspanning en behendigheid vereist;
 
-- –. er is kans op psychisch letsel uit eerstehandservaring door confrontatie met menselijk leed of schokkende gebeurtenissen door fysieke aanwezigheid bij, of horen of zien van die gebeurtenissen;
+   - – er is kans op psychisch letsel uit eerstehandservaring door confrontatie met menselijk leed of schokkende gebeurtenissen door fysieke aanwezigheid bij, of horen of zien van die gebeurtenissen;
 
-- –. er is kans op het oplopen van letsel bij conflicten, bij aanhoudingen of in het verkeer;
+   - – er is kans op het oplopen van letsel bij conflicten, bij aanhoudingen of in het verkeer;
 
-- –. er is sprake van psychische druk door het in luttele seconden moeten nemen van beslissingen in onoverzichtelijke of complexe situaties.
+   - – er is sprake van psychische druk door het in luttele seconden moeten nemen van beslissingen in onoverzichtelijke of complexe situaties.
 
 - c. de ambtenaren in de functie werken volgens een in overwegende mate volcontinue dienstrooster of een dienstrooster met elke 16 weken ten minste 16 maal een consignatiedienst tussen 0.00 uur–06.00 uur.
 
@@ -73,5 +48,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing administratief-technische functies.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

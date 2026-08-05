@@ -1,46 +1,45 @@
 ---
 title: "Tijdelijke Stimuleringsregeling CWI"
 identifier: "BWBR0012371"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-04-01"
-last_updated: "2001-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012371"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3633533"
-version_id: "5416612"
-internal_id: "C5609701"
-label_id: "3613494"
-dtd_version: "2.0"
-original_entry_into_force: "2001-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012371/2001-04-01/0"
-intitule_bron: "Stcrt.2001-64"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-03-27"
-intitule_published: "2001-03-30"
-intitule_in_force: "2001-03-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-64"
-original_signed_date: "2001-03-27"
-original_published_date: "2001-03-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-04-01"
-jci_1_3: "jci1.3:c:BWBR0012371&z=2001-04-01&g=2001-04-01"
-jci_1_0: "1.0:c:BWBR0012371&g=2001-04-01"
-citeertitel_status: "officieel"
-signed_date: "2001-03-27"
-entry_into_force: "2001-04-01"
+publicatiedatum: 2001-04-01
+laatste_update: 2001-04-01
+status: geldig
+toestand: 2001-04-01
+bron: "https://wetten.overheid.nl/BWBR0012371"
+opgehaald: 2026-08-05
 ---
+
 # Tijdelijke Stimuleringsregeling CWI
-
-Gelet op [artikel 3, eerste lid, van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3),
-
-Besluiten:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+CWI:
+
+een Centrum voor werk en inkomen als bedoeld in artikel 1 van het Tijdelijk besluit samenwerking CWI;
+
+b.
+
+samenwerkende partijen:
+
+de organisaties, bedoeld in artikel 1 van het Tijdelijk besluit samenwerking CWI, die verantwoordelijk zijn voor de totstandkoming van een CWI;
+
+c.
+
+CWI-kosten:
+
+de eenmalige kosten die in de periode voorafgaande aan de operationele start van een CWI worden gemaakt, alsmede eenmalige kosten voor instandhouding van een CWI in 2001, welke kosten niet terugkomen in de jaarlijkse exploitatie van het CWI;
+
+d.
+
+de minister:
+
+de Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 2. Subsidie stimulering totstandkoming en instandhouding CWI
 
@@ -105,5 +104,3 @@ Deze regeling treedt in werking met ingang van 1 april 2001.
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke Stimuleringsregeling CWI.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

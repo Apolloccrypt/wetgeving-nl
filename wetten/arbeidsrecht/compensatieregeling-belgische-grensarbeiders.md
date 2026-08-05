@@ -1,40 +1,17 @@
 ---
 title: "Compensatieregeling Belgische grensarbeiders"
 identifier: "BWBR0012084"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-01-01"
-last_updated: "2001-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012084"
+categorie: "Arbeidsrecht"
 soort: "beleidsregel"
-stam_id: "8331573"
-version_id: "13201492"
-internal_id: "C18406481"
-label_id: "8312384"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012084/2001-01-01/0"
-intitule_bron: "Infob.2001-6"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-21"
-intitule_published: "2001-01-01"
-intitule_in_force: "2001-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2001-6"
-original_signed_date: "2000-12-21"
-original_published_date: "2001-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0012084&z=2001-01-01&g=2001-01-01"
-jci_1_0: "1.0:c:BWBR0012084&g=2001-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2000-12-21"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2001-01-01
+status: geldig
+toestand: 2001-01-01
+bron: "https://wetten.overheid.nl/BWBR0012084"
+opgehaald: 2026-08-05
 ---
-# Compensatieregeling Belgische grensarbeiders
 
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten
+# Compensatieregeling Belgische grensarbeiders
 
 Dit besluit is opnieuw uitgebracht voor de toepassing van de Wet inkomstenbelasting 2001. Hiermee is geen inhoudelijke wijziging beoogd ten opzichte van de regeling die gold voor de toepassing van Wet op de inkomstenbelasting 1964, besluit van 30 oktober 1997, nr. DB4230M.
 

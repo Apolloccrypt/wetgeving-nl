@@ -1,36 +1,16 @@
 ---
 title: "Wijzigingen BRIN-mutatieprocedure en BRIN-mutatieformulier (BMF)"
 identifier: "BWBR0011359"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2000-05-24"
-last_updated: "2000-05-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011359"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6498613"
-version_id: "11185242"
-internal_id: "C15113191"
-label_id: "6487334"
-original_entry_into_force: "2000-05-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011359/2000-05-24/0"
-intitule_bron: "Uitleg.2000-14"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-05-16"
-intitule_published: "2000-05-24"
-intitule_in_force: "2000-05-24"
-intitule_status: "goed"
-original_publication: "Uitleg.2000-14"
-original_signed_date: "2000-05-16"
-original_published_date: "2000-05-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-05-24"
-jci_1_3: "jci1.3:c:BWBR0011359&z=2000-05-24&g=2000-05-24"
-jci_1_0: "1.0:c:BWBR0011359&g=2000-05-24"
-citeertitel_status: "redactioneel"
-signed_date: "2000-05-16"
-entry_into_force: "2000-05-24"
+publicatiedatum: 2000-05-24
+laatste_update: 2000-05-24
+status: geldig
+toestand: 2000-05-24
+bron: "https://wetten.overheid.nl/BWBR0011359"
+opgehaald: 2026-08-05
 ---
+
 # Wijzigingen BRIN-mutatieprocedure en BRIN-mutatieformulier (BMF)
 
 ### Algemeen
@@ -44,6 +24,14 @@ Het komt echter nog regelmatig voor dat wijzigingen in gegevens niet op de juist
 ### Procedure
 
 Voor het doorgeven van wijzigingen in BRIN gebruikt u het BRIN-mutatieformulier. Dit is voor:
+
+- het bevoegd gezag het uit 2 pagina’s bestaande BRIN-mutatieformulier nummer CFI-58071-1 en 58071-2;
+
+- de instellingen CFI-58072;
+
+- de instellingen om uitsluitend wijzigingen in de adresgegevens door te geven CFI-58073 en
+
+- de administratiekantoren CFI-58070.
 
 Mocht het BRIN-mutatieformulier niet - of niet meer- in uw bezit zijn dan kunt u een BRIN-mutatieformulier aanvragen bij het Informatie Centrum Onderwijs (ICO).
 
@@ -59,7 +47,7 @@ Een blanco formulier kan slechts worden aangevraagd in het geval van een nieuw (
 
 BRIN-mutatieformulieren worden uitsluitend toegestuurd aan een administratiekantoor of aan het bevoegd gezag (indien er geen gebruik wordt gemaakt van de diensten van een administratiekantoor).
 
-Instellingen kunnen **geen** BRIN-mutatieformulieren aanvragen of inzenden.
+Instellingen kunnen *geen* BRIN-mutatieformulieren aanvragen of inzenden.
 
 Wijzigingen in hun gegevens dienen te worden gemeld aan het administratiekantoor of bevoegd gezag. Het administratiekantoor of bevoegd gezag stuurt dan een BRIN-mutatieformulier aan de afdeling BRIN.
 
@@ -75,11 +63,13 @@ Voor het bevoegd gezag dienen altijd beide pagina’s te worden ingezonden.
 
 U stuurt het formulier naar:
 
+- Cƒi, Afdeling IGP/GDV Postbus 606 2700 LM Zoetermeer
+
 ### Ondertekening
 
 Het BRIN-mutatieformulier dient altijd van een ondertekening te zijn voorzien. Ik verzoek u om ook een telefoonnummer te vermelden zodat bij onduidelijkheden met de ondertekenaar contact kan worden opgenomen.
 
-Indien het BRIN-mutatieformulier betrekking heeft op de wijziging van een bank-of girorekening-nummer dan dient het BRIN-mutatieformulier van **twee handtekeningen** te zijn voorzien.
+Indien het BRIN-mutatieformulier betrekking heeft op de wijziging van een bank-of girorekening-nummer dan dient het BRIN-mutatieformulier van *twee handtekeningen* te zijn voorzien.
 
 Een van de penningmeester en een van een bestuurslid niet zijnde de penningmeester.
 
@@ -110,6 +100,12 @@ Inzending van stukken, waaronder BRIN-mutatieformulieren (onder andere betreffen
 Ook komt het voor dat 1 set aan CASO en 1 set aan BRIN wordt gezonden. Deze situatie brengt extra werk mee voor de afdeling BRIN en zorgt voor onnodige vertraging bij de verwerking van de gegevens.
 
 In overleg met CASO is het volgende afgesproken:
+
+- met ingang van 1 juni 2000 dienen alle stukken rechtstreeks aan BRIN te worden gestuurd;
+
+- alle stukken die na 1 juni 2000 nog aan CASO - in plaats van aan BRIN- worden gestuurd worden door CASO aan BRIN doorgestuurd;
+
+- vanaf 1 september 2000 worden stukken die nog aan CASO worden gestuurd aan de inzender geretourneerd met de mededeling dat de stukken aan BRIN dienen te worden gestuurd.
 
 ### Einddatum CASO
 

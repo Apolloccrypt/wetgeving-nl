@@ -1,36 +1,16 @@
 ---
 title: "Opleiding Nederlands als tweede taal in het primair onderwijs"
 identifier: "BWBR0012568"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-06-27"
-last_updated: "2001-06-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012568"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6461493"
-version_id: "11137362"
-internal_id: "C15055651"
-label_id: "6450234"
-original_entry_into_force: "2001-06-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012568/2001-06-27/0"
-intitule_bron: "Uitleg.2001-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-06-14"
-intitule_published: "2001-06-27"
-intitule_in_force: "2001-06-27"
-intitule_status: "goed"
-original_publication: "Uitleg.2001-18"
-original_signed_date: "2001-06-14"
-original_published_date: "2001-06-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-06-27"
-jci_1_3: "jci1.3:c:BWBR0012568&z=2001-06-27&g=2001-06-27"
-jci_1_0: "1.0:c:BWBR0012568&g=2001-06-27"
-citeertitel_status: "redactioneel"
-signed_date: "2001-06-14"
-entry_into_force: "2001-06-27"
+publicatiedatum: 2001-06-27
+laatste_update: 2001-06-27
+status: geldig
+toestand: 2001-06-27
+bron: "https://wetten.overheid.nl/BWBR0012568"
+opgehaald: 2026-08-05
 ---
+
 # Opleiding Nederlands als tweede taal in het primair onderwijs
 
 ### Inleiding
@@ -47,13 +27,17 @@ Het is gebleken dat de belangstelling voor deze opleiding de laatste jaren sterk
 
 Voor de kwaliteit van het onderwijs aan tweetalige leerlingen is het van het grootste belang dat deze post-hbo-opleiding behouden blijft. In het kader van het onderwijskansenbeleid waarbinnen taalbeleid een hoge prioriteit heeft, mag ook worden verwacht dat de behoefte aan deze opleiding zal toenemen.
 
-Om de deelname aan de opleiding te stimuleren is besloten opnieuw een subsidie te verlenen en is door middel van de [publicatie van 21 september 2000](onbekend), kenmerk PO/PJ-00/35216, gepubliceerd in Uitleg Gele katern, nummer 23 van 4 oktober 2000, opnieuw de aandacht gevestigd op de opleiding Nederlands als tweede taal.
+Om de deelname aan de opleiding te stimuleren is besloten opnieuw een subsidie te verlenen en is door middel van de publicatie van 21 september 2000, kenmerk PO/PJ-00/35216, gepubliceerd in Uitleg Gele katern, nummer 23 van 4 oktober 2000, opnieuw de aandacht gevestigd op de opleiding Nederlands als tweede taal.
 
 Hierin werd onder meer meegedeeld dat deze opleiding met ingang van 1 december 2000 van start zou gaan. Gebleken is echter dat als gevolg van het startmoment midden in het schooljaar zich te weinig deelnemers hebben aangemeld.
 
 Bovendien bleek het noodzakelijk dat het opleidingsmodel moest worden geactualiseerd.
 
 De consequentie van het een en ander is:
+
+- dat gedurende het huidige schooljaar het opleidingscurriculum is herzien en
+
+- dat de opleiding met ingang van 1 september 2001 opnieuw zal starten.
 
 ### Doel
 
@@ -118,3 +102,17 @@ Start: 1 september 2001
 Aanmelding: tot en met 5 juli 2001 bij de hierna genoemde hogescholen.
 
 Hogescholen:
+
+- Hogeschool I.PABO Amsterdam/Alkmaar Jan Tooropstraat 136 1061 AD AMSTERDAM contactpersoon: mw. E. Boer tel.nr. 020-6137079 E-mail: E.Boer@hs-ipabo.edu
+
+- Transfergroep Rotterdam Unit Onderwijs en Educatie Postbus 420 3000 AK ROTTERDAM contactpersoon: mw. W.Briaire tel.nr. 010-2414440 E-mail: W.T. Braire@hro.nl
+
+- Hogeschool van Utrecht Theo Thijssen Akademie Archimedeslaan 16 Postbus 14007 3508 SB UTRECHT contactpersoon: mw. M. van Ingen tel. 030-2547170 E-mail: posthbont2@feo.hvu.nl
+
+- Pabo Hogeschool Haarlem Santpoorterplein 28 2023 DN HAARLEM Postbus 614 2003 RP HAARLEM contactpersoon: dhr. T. van Rijn tel. 023-5412112 E-mail: a.v.rijn@hshaarlem.nl
+
+- Hanzehogeschool Groningen Afdeling Hanze Service Zernikeplein 23 9747 AS GRONINGEN contactpersoon: dhr. J.Woudenberg of mw.Y. Vosdijk tel. 050-5953300 E-mail: j.h.woudenberg@pl.hanze.nl
+
+- Hogeschool van Arnhem en Nijmegen Nascholing en Dienstverlening Onderwijs Postbus 30011 6503 HN NIJMEGEN contactpersoon: mw. T. Hermans tel.nr. 024-3459801 E-mail: Truus.Hermans@ils.han.nl
+
+- Fontys PABO Eindhoven Postbus 347 5600 AH EINDHOVEN contactpersoon: mw. E.Sánchez Garcia tel. 0877-878018 E-mail: E.Sanchezgarcia@fontys.nl

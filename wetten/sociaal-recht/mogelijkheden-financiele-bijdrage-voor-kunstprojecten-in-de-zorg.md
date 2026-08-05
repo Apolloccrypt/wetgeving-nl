@@ -1,40 +1,17 @@
 ---
 title: "Mogelijkheden financiële bijdrage voor kunstprojecten in de zorg"
 identifier: "BWBR0012313"
-country: "nl"
-rank: "circulaire"
-publication_date: "2001-03-15"
-last_updated: "2001-03-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012313"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6262193"
-version_id: "10944202"
-internal_id: "C14839351"
-label_id: "6251094"
-original_entry_into_force: "2001-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012313/2001-03-15/0"
-intitule_bron: "Stcrt.2001-53"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-03-12"
-intitule_published: "2001-03-15"
-intitule_in_force: "2001-03-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-53"
-original_signed_date: "2001-03-12"
-original_published_date: "2001-03-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-53-p10-SC28339"
-entry_into_force_date: "2001-03-15"
-jci_1_3: "jci1.3:c:BWBR0012313&z=2001-03-15&g=2001-03-15"
-jci_1_0: "1.0:c:BWBR0012313&g=2001-03-15"
-citeertitel_status: "redactioneel"
-signed_date: "2001-03-12"
-entry_into_force: "2001-03-15"
+publicatiedatum: 2001-03-15
+laatste_update: 2001-03-15
+status: geldig
+toestand: 2001-03-15
+bron: "https://wetten.overheid.nl/BWBR0012313"
+opgehaald: 2026-08-05
 ---
-# Mogelijkheden financiële bijdrage voor kunstprojecten in de zorg
 
-Circulaire aan de instellingen in de intramurale gezondheidszorg die onder de [WZV](onbekend) vallen, exclusief de academische ziekenhuizen
+# Mogelijkheden financiële bijdrage voor kunstprojecten in de zorg
 
 ### Aanleiding vervolgcirculaire
 
@@ -44,7 +21,7 @@ Het blijft mogelijk dat een financiële bijdrage wordt toegekend voor kunstproje
 
 In de vorige circulaire had ik aan de goedgekeurde investeringskosten twee ondergrenzen verbonden van f 20 mln. en f 100 mln., waarbij maximumbijdragen konden worden toegekend van respectievelijk f 50.000,- en f 100.000,-. Ik heb thans aan de goedgekeurde investeringskosten ex [WZV](https://wetten.overheid.nl/jci1.3:c:BWBR0002753) één ondergrens van f 20 mln. verbonden, met een bijdrage van minimaal f 50.000,- en maximaal f 100.000,-, zijnde 50% van het maximaal toe te kennen bedrag van f 200.000,-.
 
-Thans worden de WZV-vergunningen nog verleend door mij. In het kader van de [Wet uitvoeringsorganen zorginstellingen](onbekend) (WUV) zal de vergunningverlening worden overgedragen aan het College bouw ziekenhuisvoorzieningen (CBZ). Toekenning en verrekening van de financiële bijdrage zullen dan door het CBZ worden gedaan.
+Thans worden de WZV-vergunningen nog verleend door mij. In het kader van de Wet uitvoeringsorganen zorginstellingen (WUV) zal de vergunningverlening worden overgedragen aan het College bouw ziekenhuisvoorzieningen (CBZ). Toekenning en verrekening van de financiële bijdrage zullen dan door het CBZ worden gedaan.
 
 Tenslotte is de uitvoerende organisatie gewijzigd. De taken van de Mondriaanstichting terzake zijn overgegaan naar de Stichting Kunst en Openbare Ruimte (SKOR).
 
@@ -60,9 +37,9 @@ De taken die de Mondriaanstichting in het kader van de toekenning van financiël
 
 ### De financiële bijdrage
 
-De maximale hoogte van de financiële bijdrage is afhankelijk van de investeringskosten van het bouwproject. In verband met de overgang op de munteenheid euro zijn de bedragen die per 01-01-2002 gelden tussen haakjes in euro's opgenomen. Daarbij is het bedrag in guldens omgerekend in euro's en bij benadering omgezet in een veelvoud van 1.000 euro's. Alle bouwprojecten vanaf f 20 miljoen (€ 10 miljoen vanaf 01-01-2002) die binnen de criteria vallen, komen in het kader van de [WZV](onbekend) in beginsel in aanmerking voor inhoudelijke en financiële ondersteuning van f 50.000,- (€ 22.500 vanaf 01-01-2002) tot een maximumbedrag van f 100.000,- (€ 45.000 vanaf 01-01-2002).
+De maximale hoogte van de financiële bijdrage is afhankelijk van de investeringskosten van het bouwproject. In verband met de overgang op de munteenheid euro zijn de bedragen die per 01-01-2002 gelden tussen haakjes in euro's opgenomen. Daarbij is het bedrag in guldens omgerekend in euro's en bij benadering omgezet in een veelvoud van 1.000 euro's. Alle bouwprojecten vanaf f 20 miljoen (€ 10 miljoen vanaf 01-01-2002) die binnen de criteria vallen, komen in het kader van de WZV in beginsel in aanmerking voor inhoudelijke en financiële ondersteuning van f 50.000,- (€ 22.500 vanaf 01-01-2002) tot een maximumbedrag van f 100.000,- (€ 45.000 vanaf 01-01-2002).
 
-Voor dergelijke bouwprojecten kan de totale financiële bijdrage maximaal f 200.000,- bedragen (€ 90.000 vanaf 01-01-2002): f 100.000,- (€ 45.000 vanaf 01-01-2002) van SKOR en - vervolgens - f 100.000,- (€ 45.000 vanaf 01-01-2002) door middel van verhoging van het investeringsbedrag waarvoor een vergunning ex [WZV](onbekend) wordt verleend.
+Voor dergelijke bouwprojecten kan de totale financiële bijdrage maximaal f 200.000,- bedragen (€ 90.000 vanaf 01-01-2002): f 100.000,- (€ 45.000 vanaf 01-01-2002) van SKOR en - vervolgens - f 100.000,- (€ 45.000 vanaf 01-01-2002) door middel van verhoging van het investeringsbedrag waarvoor een vergunning ex WZV wordt verleend.
 
 Op basis van de eindafrekening van het kunstproject wordt de definitieve bijdrage vastgesteld. Dit betekent dat bij lagere kosten van het kunstproject het verschil voor 50% in de financiële bijdrage van SKOR en voor 50% in de investeringskosten neerwaarts wordt bijgesteld. U bent verplicht uw eindafrekening, voorzien van een specifieke accountantsverklaring, te sturen naar SKOR. Voor de goede orde merk ik op dat meerkosten boven het maximale toe te kennen bedrag voor uw eigen rekening zijn.
 

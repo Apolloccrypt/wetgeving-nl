@@ -1,36 +1,16 @@
 ---
 title: "ZKOO-bedragen per 1 januari 2001"
 identifier: "BWBR0012185"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-02-07"
-last_updated: "2001-02-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012185"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6525103"
-version_id: "11260922"
-internal_id: "C15193311"
-label_id: "6513644"
-original_entry_into_force: "2001-02-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012185/2001-02-07/0"
-intitule_bron: "Uitleg.2001-4"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-01-24"
-intitule_published: "2001-02-07"
-intitule_in_force: "2001-02-07"
-intitule_status: "goed"
-original_publication: "Uitleg.2001-4"
-original_signed_date: "2001-01-24"
-original_published_date: "2001-02-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-02-07"
-jci_1_3: "jci1.3:c:BWBR0012185&z=2001-02-07&g=2001-02-07"
-jci_1_0: "1.0:c:BWBR0012185&g=2001-02-07"
-citeertitel_status: "redactioneel"
-signed_date: "2001-01-24"
-entry_into_force: "2001-02-07"
+publicatiedatum: 2001-02-07
+laatste_update: 2001-02-07
+status: geldig
+toestand: 2001-02-07
+bron: "https://wetten.overheid.nl/BWBR0012185"
+opgehaald: 2026-08-05
 ---
+
 # ZKOO-bedragen per 1 januari 2001
 
 ### Inleiding
@@ -46,6 +26,12 @@ De middelen die als gevolg van deze maatregel vrijvallen worden jaarlijks terugg
 Teneinde inkomenseffecten te voorkomen, wordt het bedrag van de tegemoetkoming in de ziektekosten vanaf 1 januari 2001 tenminste gelijkgesteld op het niveau van 2000. Zodra het bedrag van de tegemoetkoming, berekend op basis van het CPB-premiegemiddelde, hoger is dan het bedrag over 2000, zal deze bodem uit de [ZKOO](https://wetten.overheid.nl/jci1.3:c:BWBR0007326) worden verwijderd.
 
 Op grond van het bovenstaande gelden vanaf 1 januari 2001 de volgende bedragen (gelijk aan die van 2000):
+
+|  | 1/1/2001 |
+| --- | --- |
+| (mede)betrokkene | ƒ 152,73 |
+| Kind jonger dan 16 | ƒ 76,36 |
+| Kind vanaf 16 | ƒ 89,24 |
 
 De bedragen die gelden voor de inkomenstoeslag, ƒ 26,50 per maand en de aanvullende inkomenstoeslag, ƒ 12,00 per maand, zijn per 1 januari 2001 eveneens niet gewijzigd.
 

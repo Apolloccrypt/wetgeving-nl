@@ -1,37 +1,17 @@
 ---
 title: "Subsidieregeling stichtingen rechtsbijstand 2002"
 identifier: "BWBR0012124"
-country: "nl"
-rank: "zbo"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012124"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "6555283"
-version_id: "11355072"
-internal_id: "C15295771"
-label_id: "6544174"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012124/2002-01-01/0"
-intitule_bron: "Stcrt.2001-249"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2001-12-27"
-intitule_in_force: "2001-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-249"
-original_published_date: "2001-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-249-p57-SC32508"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0012124&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0012124&g=2002-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0012124"
+opgehaald: 2026-08-05
 ---
-# Subsidieregeling stichtingen rechtsbijstand 2002
 
-De raden voor rechtsbijstand in de hofressorten Amsterdam, Arnhem, 's-Gravenhage, 's-Hertogenbosch en Leeuwarden besluiten gezamenlijk, gelet op [artikel 42b, eerste lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42b), de volgende regeling vast te stellen.
+# Subsidieregeling stichtingen rechtsbijstand 2002
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -39,21 +19,21 @@ De raden voor rechtsbijstand in de hofressorten Amsterdam, Arnhem, 's-Gravenhage
 
 In deze regeling wordt verstaan onder:
 
-- a. **de wet**: de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
+- a. *de wet*: de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
 
-- b. **de raad**: de raad voor rechtsbijstand, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2);
+- b. *de raad*: de raad voor rechtsbijstand, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2);
 
-- c. **rechtsbijstand**: rechtskundige bijstand aan een rechtzoekende ter zake van een rechtsbelang dat hem rechtstreeks en individueel aangaat, voor zover in de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) en de daarop rustende bepalingen geregeld, de rechtskundige bijstand als bedoeld in [artikel 19, eerste lid, aanhef en onder b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=19) aan een benadeelde als bedoeld in [artikel 51a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) en de rechtskundige bijstand aan milieugroeperingen;
+- c. *rechtsbijstand*: rechtskundige bijstand aan een rechtzoekende ter zake van een rechtsbelang dat hem rechtstreeks en individueel aangaat, voor zover in de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) en de daarop rustende bepalingen geregeld, de rechtskundige bijstand als bedoeld in [artikel 19, eerste lid, aanhef en onder b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=19) aan een benadeelde als bedoeld in [artikel 51a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) en de rechtskundige bijstand aan milieugroeperingen;
 
-- d. **de stichting**: de stichting bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=18) met uitzondering van de Stichting Rechtsbijstand Asiel;
+- d. *de stichting*: de stichting bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=18) met uitzondering van de Stichting Rechtsbijstand Asiel;
 
-- e. **het bureau**: het aan de stichting verbonden bureau bedoeld in [artikel 18, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=18)
+- e. *het bureau*: het aan de stichting verbonden bureau bedoeld in [artikel 18, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=18)
 
-- f. **het werkplan**: het werkplan bedoeld in [artikel 23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=23);
+- f. *het werkplan*: het werkplan bedoeld in [artikel 23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=23);
 
-- g. **de rechtzoekende**: de rechtzoekende bedoeld in [artikel 1, eerste lid, aanhef en onder f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1);
+- g. *de rechtzoekende*: de rechtzoekende bedoeld in [artikel 1, eerste lid, aanhef en onder f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1);
 
-- h. **de subsidie**: de subsidie bedoeld in [artikel 2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2).
+- h. *de subsidie*: de subsidie bedoeld in [artikel 2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2).
 
 ##### Artikel 2
 
@@ -189,7 +169,7 @@ De stichting draagt er zorg voor dat gelden die bestemd zijn voor rechtzoekenden
 
 2. De egalisatiereserve bedraagt ten hoogste 10% van de over het boekjaar verleende subsidie. De jaarlijkse toevoeging bedraagt niet meer dan 5% van de over het boekjaar verleende subsidie.
 
-3. Indien de stichting in het boekjaar baten heeft verworven uit vergoedingen voor activiteiten in het kader van de [Wet schuldsanering natuurlijke personen](onbekend) mag zij 10% van die baten toevoegen aan de overeenkomstig het voorgaande lid bepaalde maximum egalisatiereserve.
+3. Indien de stichting in het boekjaar baten heeft verworven uit vergoedingen voor activiteiten in het kader van de Wet schuldsanering natuurlijke personen mag zij 10% van die baten toevoegen aan de overeenkomstig het voorgaande lid bepaalde maximum egalisatiereserve.
 
 ##### Artikel 22
 
@@ -229,7 +209,7 @@ De stichting draagt er zorg voor dat gelden die bestemd zijn voor rechtzoekenden
 
 4. De aanwending van de in het eerste lid bedoelde baten kan niet leiden tot hogere financiële verplichtingen voor de raad dan die welke voortvloeien uit de subsidieverlening.
 
-5. Het eerste lid is niet van toepassing op de baten die voortvloeien uit vergoedingen ingevolge [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012124&paragraaf=4&artikel=24&z=2002-01-01&g=2002-01-01) en vergoedingen voor activiteiten in het kader van ADR (alternative dispute resolution) of van de [Wet schuldsanering natuurlijke personen](onbekend).
+5. Het eerste lid is niet van toepassing op de baten die voortvloeien uit vergoedingen ingevolge [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012124&paragraaf=4&artikel=24&z=2002-01-01&g=2002-01-01) en vergoedingen voor activiteiten in het kader van ADR (alternative dispute resolution) of van de Wet schuldsanering natuurlijke personen.
 
 #### Paragraaf 5. De subsidievaststelling
 

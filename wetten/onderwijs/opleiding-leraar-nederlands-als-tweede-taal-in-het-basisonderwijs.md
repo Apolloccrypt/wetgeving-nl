@@ -1,36 +1,16 @@
 ---
 title: "Opleiding leraar Nederlands als tweede taal in het basisonderwijs"
 identifier: "BWBR0011657"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2000-10-04"
-last_updated: "2000-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011657"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6463893"
-version_id: "11139782"
-internal_id: "C15058451"
-label_id: "6452614"
-original_entry_into_force: "2000-10-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011657/2000-10-04/0"
-intitule_bron: "Uitleg.2000-23"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-21"
-intitule_published: "2000-10-04"
-intitule_in_force: "2000-10-04"
-intitule_status: "goed"
-original_publication: "Uitleg.2000-23"
-original_signed_date: "2000-09-21"
-original_published_date: "2000-10-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-10-04"
-jci_1_3: "jci1.3:c:BWBR0011657&z=2000-10-04&g=2000-10-04"
-jci_1_0: "1.0:c:BWBR0011657&g=2000-10-04"
-citeertitel_status: "redactioneel"
-signed_date: "2000-09-21"
-entry_into_force: "2000-10-04"
+publicatiedatum: 2000-10-04
+laatste_update: 2000-10-04
+status: geldig
+toestand: 2000-10-04
+bron: "https://wetten.overheid.nl/BWBR0011657"
+opgehaald: 2026-08-05
 ---
+
 # Opleiding leraar Nederlands als tweede taal in het basisonderwijs
 
 ### Inleiding
@@ -92,3 +72,15 @@ Met ingang van het schooljaar 2001-2002 zal de opleiding wel direct bij de aanva
 ### Waar te volgen
 
 Bij de hierna genoemde hogescholen kunt u zich aanmelden:
+
+- Transfergroep RotterdamUnit Onderwijs en Educatie Postbus 420 3000 AK ROTTERDAM tel.nr. 010-2414440 contactpersoon: mw. B. Struyk
+
+- Hogeschool van Arnhem/Nijmegen Nascholing en Dienstverlening Van Schuylenburgweg 3 6538 LH NIJMEGEN tel.nr. 024-3459955 contactpersoon: dhr. J. Wolsing
+
+- Fontys hogescholen Postbus 90900 5000 GA TILBURG tel.nr. 013- 5394777 contactpersoon: dhr. T. Schouten
+
+- Hogeschool van Utrecht Archimedeslaan 16 Postbus 14007 3508 SB UTRECHT tel.nr. 030-2547313 contactpersoon: mw. H.Bisschop
+
+- Hogeschool I.PABO Amsterdam/Alkmaar Jan Tooropstraat 136 1061 AD AMSTERDAM tel.nr. 020-6137079 contactpersoon: mw. D.Kock
+
+- Noord-Nederland Indien mogelijk - d.w.z. bij voldoende aanmelding -zal in het noorden van Nederland onder auspiciën van de hogescholen in Utrecht en Amsterdam, eveneens een opleiding starten.

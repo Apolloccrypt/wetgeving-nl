@@ -1,40 +1,17 @@
 ---
 title: "Machtigingen tot vervanging archiefbescheiden Arrondissement Den Haag"
 identifier: "BWBR0011805"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-02-01"
-last_updated: "2001-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011805"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3545103"
-version_id: "5328182"
-internal_id: "C5521271"
-label_id: "3525054"
-dtd_version: "2.0"
-original_entry_into_force: "2001-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011805/2001-02-01/0"
-intitule_bron: "Stcrt.2000-239"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-11-20"
-intitule_published: "2000-12-08"
-intitule_in_force: "2000-12-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-239"
-original_signed_date: "2000-11-20"
-original_published_date: "2000-12-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-02-01"
-jci_1_3: "jci1.3:c:BWBR0011805&z=2001-02-01&g=2001-02-01"
-jci_1_0: "1.0:c:BWBR0011805&g=2001-02-01"
-citeertitel_status: "officieel"
-signed_date: "2000-11-20"
-entry_into_force: "2001-02-01"
+publicatiedatum: 2001-02-01
+laatste_update: 2001-02-01
+status: geldig
+toestand: 2001-02-01
+bron: "https://wetten.overheid.nl/BWBR0011805"
+opgehaald: 2026-08-05
 ---
-# Machtigingen tot vervanging archiefbescheiden Arrondissement Den Haag
 
-besluit:
+# Machtigingen tot vervanging archiefbescheiden Arrondissement Den Haag
 
 Het arrondissement Den Haag te machtigen tot vervanging van onderstaande archiefbescheiden uit het arrondissementsarchief over de periode 1940-1969. De archiefbescheiden zijn in het kader van het proefproject verfilming in 1992 op microfilm gezet.
 

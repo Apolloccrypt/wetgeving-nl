@@ -1,45 +1,17 @@
 ---
 title: "Richtlijnen Financiële verslaggeving TNO"
 identifier: "BWBR0011517"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2000-11-25"
-last_updated: "2000-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011517"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6450453"
-version_id: "11123582"
-internal_id: "C15039161"
-label_id: "6439294"
-original_entry_into_force: "2000-11-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011517/2000-11-25/0"
-intitule_bron: "Uitleg.2000-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-07-18"
-intitule_published: "2000-11-22"
-intitule_in_force: "2000-11-22"
-intitule_status: "goed"
-original_publication: "Uitleg.2000-27"
-original_signed_date: "2000-07-18"
-original_published_date: "2000-11-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-11-25"
-jci_1_3: "jci1.3:c:BWBR0011517&z=2000-11-25&g=2000-11-25"
-jci_1_0: "1.0:c:BWBR0011517&g=2000-11-25"
-citeertitel_status: "officieel"
-signed_date: "2000-07-18"
-entry_into_force: "2000-11-25"
+publicatiedatum: 2000-11-25
+laatste_update: 2000-11-25
+status: geldig
+toestand: 2000-11-25
+bron: "https://wetten.overheid.nl/BWBR0011517"
+opgehaald: 2026-08-05
 ---
+
 # Richtlijnen Financiële verslaggeving TNO
-
-in overeenstemming met de minister van financiën:
-
-Gelet op [artikel 26 eerste lid van de TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=26);
-
-Gehoord de Raad van Bestuur van TNO:
-
-Besluit:
 
 ### Hoofdstuk I. Algemene Bepalingen
 
@@ -49,13 +21,13 @@ Besluit:
 
 In deze richtlijnen wordt verstaan onder:
 
-- a. de Minister: de Minister van onderwijs, Ccltuur en wetenschappen tevens belast met de coördinatie van het wetenschapsbeleid:
+- a de Minister: de Minister van onderwijs, Ccltuur en wetenschappen tevens belast met de coördinatie van het wetenschapsbeleid:
 
-- b. de financiële verslaggeving: de financiële verslaggeving omvat het jaarverslag (bestuurs- of directieverslag), de jaarrekening en de overige gegevens.
+- b de financiële verslaggeving: de financiële verslaggeving omvat het jaarverslag (bestuurs- of directieverslag), de jaarrekening en de overige gegevens.
 
-- c. de jaarrekening: de (geconsolideerde) jaarrekening bestaat uit de (geconsolideerde)balans, (geconsolideerde) resultatenrekening, en de toelichting daarop;
+- c de jaarrekening: de (geconsolideerde) jaarrekening bestaat uit de (geconsolideerde)balans, (geconsolideerde) resultatenrekening, en de toelichting daarop;
 
-- d. TNO: de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk Onderzoek.
+- d TNO: de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk Onderzoek.
 
 ### Hoofdstuk II. Richtlijnen voor de opstelling van de Jaarrekening
 
@@ -104,23 +76,3 @@ De richtlijnen kunnen jaarlijks in goed bestuurlijk overleg worden bezien. Indie
 ##### Artikel 9
 
 Deze richtlijnen zullen worden aangehaald als: Richtlijnen Financiële verslaggeving TNO
-
-## Bijlage A. Presentatie van de resultatenbestemming
-
-| RESULTAAT |   |   |
-| --- | --- | --- |
-| (sluitpost van resultatenrekening) |   | XXX |
-|   |   | ------ |
-| RESULTATENBESTEMMING |   |   |
-| Resultaat |   | XXX |
-| Dotatie aan bestemmingsreserve | ...XXX |   |
-| Onttrekking aan bestemmingsreserve | ...XXX |   |
-|   | -------- |   |
-|   |   | XXX |
-|   |   | ----- |
-| Resultaat na mutaties |   |   |
-| bestemmingsreserves |   | XXX |
-| Dotaties algemene reserves |   | XXX ------ |
-|   |   | = = = |
-
-In de toelichting op het eigen vermogen wordt vervolgens het verloop (dotaties en onttrekkingen) van de desbetreffende bestemmingsreserves en van de algemene reserve weergeven.

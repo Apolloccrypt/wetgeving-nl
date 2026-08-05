@@ -1,37 +1,16 @@
 ---
 title: "Mededeling nr. 13, nieuwe verordening betreffende de ozonlaag afbrekende stoffen"
 identifier: "BWBR0012143"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-01-08"
-last_updated: "2001-01-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012143"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "8305053"
-version_id: "13171122"
-internal_id: "C17737141"
-label_id: "8286294"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012143/2001-01-08/0"
-intitule_bron: "Infob.2001-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-01-08"
-intitule_published: "2001-01-01"
-intitule_in_force: "2001-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2001-1"
-original_signed_date: "2001-01-08"
-original_published_date: "2001-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-01-08"
-jci_1_3: "jci1.3:c:BWBR0012143&z=2001-01-08&g=2001-01-08"
-jci_1_0: "1.0:c:BWBR0012143&g=2001-01-08"
-citeertitel_status: "redactioneel"
-signed_date: "2001-01-08"
-entry_into_force: "2001-01-08"
+publicatiedatum: 2001-01-08
+laatste_update: 2001-01-08
+status: geldig
+toestand: 2001-01-08
+bron: "https://wetten.overheid.nl/BWBR0012143"
+opgehaald: 2026-08-05
 ---
+
 # Mededeling nr. 13, nieuwe verordening betreffende de ozonlaag afbrekende stoffen
 
 ### Algemeen
@@ -42,15 +21,35 @@ Op 1 oktober 2000 is de nieuwe verordening (EG) nr. 2037/2000 betreffende de ozo
 
 ### B. Wettelijke bepalingen
 
-Bij [Verordening (EG) nr. 2037/2000](32000R2037) (Pb. EG L 244 van 29 september 2000), zoals gewijzigd bij de Verordeningen (EG) nrs. 2038/2000 en 2039/2000 (Pb. EG L 244 van 29 september 2000) zijn maatregelen vastgesteld betreffende de ozonlaag afbrekende stoffen. De verordening is van toepassing op de productie, de invoer, de uitvoer, het op de markt brengen, het gebruik, de terugwinning, de recycling en de regeneratie alsmede de vernietiging van chloorfluorkoolstoffen, andere volledig gehalogeneerde chloorfluorkoolstoffen, halonen, tetrachloorkoolstof 1,1,1,-trichloorethaan, methylbromide, broomfluorkoolwaterstoffen en chloorfluorkoolwaterstoffen, op de rapportage van gegevens over die stoffen en op de invoer, de uitvoer, het op de markt brengen en het gebruik van die stoffen bevattende producten en apparatuur. De verordening is bovendien van toepassing op de productie, de invoer, het op de markt brengen en het gebruik van broomchloormethaan.
+Bij Verordening (EG) nr. 2037/2000 (Pb. EG L 244 van 29 september 2000), zoals gewijzigd bij de Verordeningen (EG) nrs. 2038/2000 en 2039/2000 (Pb. EG L 244 van 29 september 2000) zijn maatregelen vastgesteld betreffende de ozonlaag afbrekende stoffen. De verordening is van toepassing op de productie, de invoer, de uitvoer, het op de markt brengen, het gebruik, de terugwinning, de recycling en de regeneratie alsmede de vernietiging van chloorfluorkoolstoffen, andere volledig gehalogeneerde chloorfluorkoolstoffen, halonen, tetrachloorkoolstof 1,1,1,-trichloorethaan, methylbromide, broomfluorkoolwaterstoffen en chloorfluorkoolwaterstoffen, op de rapportage van gegevens over die stoffen en op de invoer, de uitvoer, het op de markt brengen en het gebruik van die stoffen bevattende producten en apparatuur. De verordening is bovendien van toepassing op de productie, de invoer, het op de markt brengen en het gebruik van broomchloormethaan.
 
 De nationale bepalingen ter uitvoering van deze verordening (het Besluit inzake stoffen die de ozonlaag aantasten 1995 , moeten nog worden aangepast. Naar verwachting zal het nieuwe besluit in het voorjaar 2001 in werking treden.
 
-### Belangrijkste wijzigingen ten opzichte van [Verordening 3093/94](31994R3093)
+### Belangrijkste wijzigingen ten opzichte van Verordening 3093/94
 
 ### C. Belangrijkste wijzigingen
 
 De belangrijkste wijzigingen zijn de volgende:
+
+- – met ingang van 1 oktober 2000 is de productie en het gebruik van een nieuwe ozonlaag afbrekende stof, het broomchloormethaan, verboden;
+
+- – vanaf 1 januari 2001 is het bijvullen van koel- en klimaatregelingsapparatuur met chloorfluorkoolstoffen (CFK’s) verboden;
+
+- – halonen bevattende brandbeveiligingssystemen en blusapparaten moeten voor 1 januari 2004 buiten gebruik worden gesteld;
+
+- – het bijvullen van koelinstallaties met chloorfluorkoolwaterstoffen (HCFK’s), die in eerste instantie als vervangers voor CFK’s op de markt zijn gekomen, wordt in twee stappen beëindigd;
+
+- – de toepassing van methylbromide wordt – in de landen waar het thans nog is toegelaten – met ingang van 1 januari 2005 beëindigd, met uitzondering van nog vast te stellen kritische toepassingen en de toepassing in de quarantaine sector. In Nederland is de belangrijkste toepassing (grondontsmetting) reeds vanaf 1992 verboden. Verder zal – met uitzondering van een aantal met alle belanghebbenden vastgestelde kritische toepassingen – in Nederland het nog overgebleven gebruik eerder worden beëindigd, namelijk in 2001;
+
+- – met ingang van 1 oktober 2000 is de uitvoer verboden van producten en apparatuur die ozonlaag afbrekende stoffen bevatten of die deze stoffen nodig zullen hebben om in werking te blijven. Bepaalde toepassingen zijn hiervan uitgezonderd;
+
+- – met ingang van 1 oktober 2000 is de uitvoer van methylbromide uit de Gemeenschap naar een staat die geen partij is bij het protocol verboden;
+
+- – met ingang van 1 januari 2004 is het verboden HCFK’s uit te voeren naar een staat die geen partij is bij het protocol;
+
+- – voor elke uitvoer is een vergunning van de Europese Commissie nodig; in de vergunning wordt de eindbestemming van de goederen vastgelegd;
+
+- – de emissie van ozonlaag afbrekende stoffen moet worden voorkomen door bij het onderhoud van apparatuur deze stoffen terug te winnen, te recyclen en te vernietigen. De lidstaten dienen voor 1 januari 2001 passende maatregelen te nemen. In Nederland zijn reeds emissiebeperkende maatregelen vastgelegd in de Regeling Lekdichtheid Koelinstallaties; deze zal zo nodig worden aangepast.
 
 ### Begripsbepalingen en werkingssfeer
 

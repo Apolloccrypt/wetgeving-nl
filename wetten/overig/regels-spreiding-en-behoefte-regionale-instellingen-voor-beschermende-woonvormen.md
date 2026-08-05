@@ -1,42 +1,17 @@
 ---
 title: "Regels spreiding en behoefte Regionale Instellingen voor Beschermende Woonvormen"
 identifier: "BWBR0012034"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-01-01"
-last_updated: "2001-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012034"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3604443"
-version_id: "5387532"
-internal_id: "C5580621"
-label_id: "3584414"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012034/2001-01-01/0"
-intitule_bron: "Stcrt.2000-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-19"
-intitule_published: "2000-12-27"
-intitule_in_force: "2000-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-250"
-original_signed_date: "2000-12-19"
-original_published_date: "2000-12-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0012034&z=2001-01-01&g=2001-01-01"
-jci_1_0: "1.0:c:BWBR0012034&g=2001-01-01"
-citeertitel_status: "officieel"
-signed_date: "2000-12-19"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2001-01-01
+status: geldig
+toestand: 2001-01-01
+bron: "https://wetten.overheid.nl/BWBR0012034"
+opgehaald: 2026-08-05
 ---
+
 # Regels spreiding en behoefte Regionale Instellingen voor Beschermende Woonvormen
-
-Gelet op [artikel 8b, onder b, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=8b) en op [artikel 1, tweede lid, onder b, van het Besluit aanwijzing inrichtingen Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0003257&artikel=1),
-
-Besluit:
 
 ##### Artikel 1
 
@@ -63,5 +38,3 @@ Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012034&artikel=2&z=2
 ##### Artikel 5
 
 Deze regeling treedt in werking met ingang van 1 januari 2001.
-
-Deze regeling wordt met de toelichting in de Staatscourant geplaatst.

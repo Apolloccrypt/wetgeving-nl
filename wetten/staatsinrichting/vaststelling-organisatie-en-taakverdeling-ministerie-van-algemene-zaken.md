@@ -1,50 +1,17 @@
 ---
 title: "Vaststelling organisatie en taakverdeling Ministerie van Algemene Zaken"
 identifier: "BWBR0011650"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-07-01"
-last_updated: "2002-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011650"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4604093"
-version_id: "6420362"
-internal_id: "C6665921"
-label_id: "4582434"
-dtd_version: "2.0"
-original_entry_into_force: "2000-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011650/2002-07-01/0"
-intitule_bron: "Stcrt.2000-194"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-20"
-intitule_published: "2000-10-06"
-intitule_in_force: "2000-10-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-194"
-original_signed_date: "2000-09-20"
-original_published_date: "2000-10-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-12-01"
-jci_1_3: "jci1.3:c:BWBR0011650&z=2002-07-01&g=2002-07-01"
-jci_1_0: "1.0:c:BWBR0011650&g=2002-07-01"
-citeertitel_status: "officieel"
-signed_date: "2000-09-20"
-entry_into_force: "2000-12-01"
+publicatiedatum: 2000-12-01
+laatste_update: 2002-07-01
+status: geldig
+toestand: 2002-07-01
+bron: "https://wetten.overheid.nl/BWBR0011650"
+opgehaald: 2026-08-05
 ---
+
 # Vaststelling organisatie en taakverdeling Ministerie van Algemene Zaken
-
-Gelet op het [koninklijk besluit van 11 oktober 1947, No. H 346, tot instelling van een Departement van Algemeen Bestuur, dat de naam zal dragen van Ministerie van Algemene Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002513);
-
-Gelet op het [koninklijk besluit van 4 augustus 1971, No. 526, houdende de wijziging van de taakverdeling van departementen](https://wetten.overheid.nl/jci1.3:c:BWBR0002780);
-
-Gelet op het [koninklijk besluit van 13 december 1965, houdende regeling van de berichtgeving betreffende het Koninklijk Huis](https://wetten.overheid.nl/jci1.3:c:BWBR0002033), Staatsblad 554, 1965;
-
-Gelet op de [Wet van 30 juni 1976 tot instelling van een Wetenschappelijke Raad voor het Regeringsbeleid (Instellingswet WRR)](https://wetten.overheid.nl/jci1.3:c:BWBR0003043);
-
-Overwegende dat een duidelijke organisatie en toewijzing van taken binnen het Ministerie van Algemene Zaken van belang is voor de bedrijfsvoering;
-
-Besluit:
 
 ##### Artikel I. Kabinet Minister-President
 
@@ -122,7 +89,7 @@ Besluit:
 
 ##### Artikel VI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VII. Bureau van de Wetenschappelijke Raad voor het Regeringsbeleid
 

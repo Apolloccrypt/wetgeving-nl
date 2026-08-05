@@ -1,47 +1,33 @@
 ---
 title: "Instandhouding van basischolen"
 identifier: "BWBR0011445"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2000-07-26"
-last_updated: "2000-07-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011445"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6488253"
-version_id: "11167972"
-internal_id: "C15092331"
-label_id: "6476844"
-original_entry_into_force: "2000-07-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011445/2000-07-26/0"
-intitule_bron: "Uitleg.2000-18b"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-06-26"
-intitule_published: "2000-07-26"
-intitule_in_force: "2000-07-26"
-intitule_status: "goed"
-original_publication: "Uitleg.2000-18b"
-original_signed_date: "2000-06-26"
-original_published_date: "2000-07-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-07-26"
-jci_1_3: "jci1.3:c:BWBR0011445&z=2000-07-26&g=2000-07-26"
-jci_1_0: "1.0:c:BWBR0011445&g=2000-07-26"
-citeertitel_status: "redactioneel"
-signed_date: "2000-06-26"
-entry_into_force: "2000-07-26"
+publicatiedatum: 2000-07-26
+laatste_update: 2000-07-26
+status: geldig
+toestand: 2000-07-26
+bron: "https://wetten.overheid.nl/BWBR0011445"
+opgehaald: 2026-08-05
 ---
+
 # Instandhouding van basischolen
 
 De afgelopen tijd hebben er enkele wijzingen plaatsgevonden in de uitvoering van het Instandhoudingsbeleid basisonderwijs. Door middel van deze publicatie wil ik u hierover nadere informatie verstrekken. Bovendien wordt hieronder het beleid op een aantal punten verduidelijkt.
 
 Achtereenvolgens komen aan de orde:
 
+- 1. de berekening van het aantal leerlingen op 1 oktober,
+
+- 2. de toepassing van de gemiddelde schoolgrootte bij pas gestichte basisscholen,
+
+- 3. de aanvang van de bekostiging in relatie met de opheffing van basisscholen.
+
 ### 1. De berekening van het aantal leerlingen op 1 oktober
 
-Met ingang van 1 maart 2000 (Staatsblad 1999, 527) is [artikel 152 van de Wet op het primair onderwijs](onbekend) (WPO) gewijzigd.
+Met ingang van 1 maart 2000 (Staatsblad 1999, 527) is artikel 152 van de Wet op het primair onderwijs (WPO) gewijzigd.
 
-Deze wijziging houdt in dat voor de berekening van het aantal leerlingen, waarvan sprake is in de [artikelen 151 tot en met artikel 160 WPO](onbekend), moet worden uitgegaan van het aantal leerlingen op 1 oktober, verhoogd met 3% daarvan en waarbij de uitkomst naar beneden wordt afgerond op een geheel getal.
+Deze wijziging houdt in dat voor de berekening van het aantal leerlingen, waarvan sprake is in de artikelen 151 tot en met artikel 160 WPO, moet worden uitgegaan van het aantal leerlingen op 1 oktober, verhoogd met 3% daarvan en waarbij de uitkomst naar beneden wordt afgerond op een geheel getal.
 
 Omdat de wetswijziging is ingegaan op 1 maart 2000, betekent dit dat voor de eerste keer op 1 oktober 2000 (en ver­volgens jaarlijks op 1 oktober) op deze wijze het aantal leerlingen wordt bepaald dat van belang is voor de uitvoering van het instandhoudingsbeleid basisonderwijs. Het opslagpercentage van 3% op het aantal leerlingen op 1 oktober 1999 en eerder, dat ook van belang is voor de uitvoering van dat beleid, zal, zoals gebruikelijk was, rekenkundig worden afgerond.
 
@@ -49,13 +35,13 @@ Omdat de wetswijziging is ingegaan op 1 maart 2000, betekent dit dat voor de eer
 
 In deze paragraaf wordt informatie verstrekt over basisscholen die zich bevinden in het vijfde schooljaar van de bekostiging en die gedurende die periode van vijf jaar niet aan de stichtingsnorm hebben voldaan. Volledigheidshalve wijs ik er op dat het gestelde in deze paragraaf alleen geldt voor basisscholen die zich in deze situatie bevinden.
 
-Aanleiding voor deze voorlichting is een door mij overgenomen advies van de Commissie voor de bezwaarschriften van mijn departement inzake de toepassing van het bepaalde in [artikel 157 van de wet](onbekend), de zogenaamde gemiddelde schoolgrootte. Voorheen werd er vanuit gegaan dat deze uitzonderingsbepaling in de [wet](onbekend) niet van toepassing was op scholen zoals hierboven bedoeld. Echter, uit het advies van de genoemde commissie is gebleken dat de gemiddelde schoolgrootte wel van toepassing kan zijn op die scholen.
+Aanleiding voor deze voorlichting is een door mij overgenomen advies van de Commissie voor de bezwaarschriften van mijn departement inzake de toepassing van het bepaalde in artikel 157 van de wet, de zogenaamde gemiddelde schoolgrootte. Voorheen werd er vanuit gegaan dat deze uitzonderingsbepaling in de wet niet van toepassing was op scholen zoals hierboven bedoeld. Echter, uit het advies van de genoemde commissie is gebleken dat de gemiddelde schoolgrootte wel van toepassing kan zijn op die scholen.
 
-Overeenkomstig het bepaalde in [artikel 153, eerste lid van de WPO](onbekend) wordt de bekostiging van een bijzondere school beëindigd of wordt een openbare school opgeheven als het aantal leerlingen aan die school, hierbij het aantal leerlingen van een nevenvestiging niet meegerekend, gedurende twee achtereenvolgende schooljaren of in het eerste en derde van drie achtereenvolgende schooljaren telkens minder heeft bedragen dan de opheffingsnorm die geldt voor de gemeente, of het deel van de gemeente, waarin de school is gelegen.
+Overeenkomstig het bepaalde in artikel 153, eerste lid van de WPO wordt de bekostiging van een bijzondere school beëindigd of wordt een openbare school opgeheven als het aantal leerlingen aan die school, hierbij het aantal leerlingen van een nevenvestiging niet meegerekend, gedurende twee achtereenvolgende schooljaren of in het eerste en derde van drie achtereenvolgende schooljaren telkens minder heeft bedragen dan de opheffingsnorm die geldt voor de gemeente, of het deel van de gemeente, waarin de school is gelegen.
 
-Deze ”hoofdregel” van het instandhoudingsbeleid basisscholen is echter niet van toepassing op nieuw gestichte scholen. Onder een nieuw gestichte school wordt in dit verband verstaan een school die zich nog bevindt in de eerste vijf schooljaren van zijn bekostiging. Nieuw gestichte scholen krijgen namelijk vijf jaar de tijd om te voldoen aan de stichtingsnorm. Ik verwijs kortheidshalve naar de tweede volzin van [artikel 153, eerste lid, van de WPO](onbekend).
+Deze ”hoofdregel” van het instandhoudingsbeleid basisscholen is echter niet van toepassing op nieuw gestichte scholen. Onder een nieuw gestichte school wordt in dit verband verstaan een school die zich nog bevindt in de eerste vijf schooljaren van zijn bekostiging. Nieuw gestichte scholen krijgen namelijk vijf jaar de tijd om te voldoen aan de stichtingsnorm. Ik verwijs kortheidshalve naar de tweede volzin van artikel 153, eerste lid, van de WPO.
 
-Bij een nieuw gestichte basisschool kan zich de situatie voordoen dat deze op geen enkel moment in die periode van vijf schooljaren voldoet aan de vereiste stichtingsnorm. Als dit het geval is kan de school bij de aanvang van het zesde schooljaar slechts voor bekostiging in aanmerking blijven komen indien tijdig (dat wil zeggen in het vijfde schooljaar voor 1 februari) een daartoe strekkend verzoek wordt ingediend. Daarnaast dient met betrekking tot die school uiteraard te worden voldaan aan de gemiddelde schoolgrootte zoals bedoeld in [artikel 157 van de wet](onbekend).
+Bij een nieuw gestichte basisschool kan zich de situatie voordoen dat deze op geen enkel moment in die periode van vijf schooljaren voldoet aan de vereiste stichtingsnorm. Als dit het geval is kan de school bij de aanvang van het zesde schooljaar slechts voor bekostiging in aanmerking blijven komen indien tijdig (dat wil zeggen in het vijfde schooljaar voor 1 februari) een daartoe strekkend verzoek wordt ingediend. Daarnaast dient met betrekking tot die school uiteraard te worden voldaan aan de gemiddelde schoolgrootte zoals bedoeld in artikel 157 van de wet.
 
 ### 3. De aanvang van de bekostiging in relatie met de opheffing van basisscholen
 
@@ -64,6 +50,8 @@ Bij mij is aandacht gevraagd hoe te handelen bij een dreigende opheffing van een
 Het gaat er hierbij om dat schoolbesturen alert zijn op de situatie die kan gaan ontstaan.
 
 Aan de hand van een voorbeeld zal ik een nadere uitleg verstrekken.
+
+Voorbeeld
 
 Er is een basisschool die al gedurende meerdere jaren onder de opheffingsnorm verkeert. De in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) opgenomen uitzonderingsbepalingen op grond waarvan de opheffing van de school zou kunnen worden voorkomen, bieden geen uitkomst waardoor opheffing van de school onvermijdbaar is.
 

@@ -1,37 +1,16 @@
 ---
 title: "Ziektekostentegemoetkoming per 1 januari 2000"
 identifier: "BWBR0011313"
-country: "nl"
-rank: "circulaire"
-publication_date: "2000-01-01"
-last_updated: "2000-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011313"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6257063"
-version_id: "10939202"
-internal_id: "C14832621"
-label_id: "6245934"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011313/2000-01-01/0"
-intitule_bron: "Stcrt.2000-86"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-04-19"
-intitule_published: "2000-05-03"
-intitule_in_force: "2000-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-86"
-original_signed_date: "2000-04-19"
-original_published_date: "2000-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2000-86-p20-SC23877"
-entry_into_force_date: "2000-01-01"
-jci_1_3: "jci1.3:c:BWBR0011313&z=2000-01-01&g=2000-01-01"
-jci_1_0: "1.0:c:BWBR0011313&g=2000-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2000-04-19"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2000-01-01
+status: geldig
+toestand: 2000-01-01
+bron: "https://wetten.overheid.nl/BWBR0011313"
+opgehaald: 2026-08-05
 ---
+
 # Ziektekostentegemoetkoming per 1 januari 2000
 
 ### I. Samenvatting
@@ -48,10 +27,34 @@ De MOOZ-bijdrage en de WTZ-bijdrage zijn voor het jaar 2000 vastgesteld op f 18,
 
 Op basis van de nieuwe systematiek worden de bedragen:
 
+- a. Voor (mede-)betrokkenen (bedoeld in artikel 4, tweede lid, onder a, Btzr): f 109,54 (= f 9,25 MOOZ + f 16,50 WTZ + f 83,79 premie).
+
+- b. Voor één medebetrokken kind jonger dan 16 jaar (bedoeld in artikel 4, tweede lid, onder b, Btzr) en voor medebetrokken kinderen van 16 tot en met 19 jaar (bedoeld in artikel 4, tweede lid, onder c, Btzr): f 54,77 (= f 4,62 MOOZ + f 8,25 WTZ + f 41,90 premie).
+
+- c. Voor medebetrokken kinderen van 20 tot en met 26 jaar (bedoeld in artikel 4, tweede lid, onder c, Btzr): f 67,65 (= f 9,25 MOOZ + f 16,50 WTZ + f 41,90 premie).
+
 ### IV. Vaststelling van de ziektekostentegemoetkomingen per 1 januari 2000
 
 Aangezien de bedragen zoals die zijn vastgesteld voor 1999 hoger zijn dan de bedragen berekend volgens de nieuwe systematiek worden de bedragen van 1999 in 2000 gehandhaafd.
 
 Het bedrag van de tegemoetkoming per maand is vanaf 1 januari 2000:
+
+- a. Voor (mede-)betrokkenen (bedoeld in artikel 4, tweede lid, onder a, Btzr):
+
+   - 1. f 143,82;
+
+   - 2. voor (mede-)betrokkenen met een WTZ-standaardpolis als bedoeld in artikel 4, derde lid wordt dit bedrag vermeerderd met f 5,00.
+
+- b. Voor één medebetrokken kind jonger dan 16 jaar (bedoeld in artikel 4, tweede lid, onder b, Btzr):
+
+   - 1. f 71,91;
+
+   - 2. indien verzekerd via een WTZ-standaardpolis als bedoeld in in artikel 4, derde lid wordt dit bedrag vermeerderd met f 2,50.
+
+- c. Voor medebetrokken kinderen van 16 tot en met 26 jaar (bedoeld in artikel 4, tweede lid, onder c, Btzr):
+
+   - 1. f 85,36;
+
+   - 2. indien verzekerd via een WTZ-standaardpolis als bedoeld in in artikel 4, derde lid wordt dit bedrag vermeerderd met f 2,50.
 
 Ik verzoek u met het bovenstaande rekening te houden. Inlichtingen uitsluitend voor afdelingen Personeelszaken van geadresseerden bij mevrouw Van Ogtrop respectievelijk het secretariaat van de afdeling Pensioenen Sociale Zekerheid en Zorg (telefoon (070) 426 69 00 respectievelijk 426 69 96).

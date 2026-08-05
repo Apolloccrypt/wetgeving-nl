@@ -1,58 +1,26 @@
 ---
 title: "Wet van 13 december 2000 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren (arbeidsvoorwaarden sector Rechterlijke Macht 1997/99)"
+citeertitel: "Wijzigingswet Wet rechtspositie rechterlijke ambtenaren (arbeidsvoorwaarden sector Rechterlijke Macht 1997/99)"
 identifier: "BWBR0011954"
-country: "nl"
-rank: "wet"
-publication_date: "2001-02-01"
-last_updated: "2001-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011954"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "1511693"
-version_id: "2253892"
-internal_id: "C2253891"
-label_id: "1468474"
-dtd_version: "2.0"
-original_entry_into_force: "2001-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011954/2001-02-01/0"
-intitule_bron: "Stb.2001-32"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-13"
-intitule_published: "2001-01-25"
-intitule_in_force: "2001-01-25"
-intitule_status: "goed"
-original_publication: "Stb.2001-32"
-original_signed_date: "2000-12-13"
-original_published_date: "2001-01-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "26947"
-original_url_id: "stb-2001-32"
-entry_into_force_date: "2001-02-01"
-entry_into_force_dossier: "26947"
-jci_1_3: "jci1.3:c:BWBR0011954&z=2001-02-01&g=2001-02-01"
-jci_1_0: "1.0:c:BWBR0011954&g=2001-02-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet rechtspositie rechterlijke ambtenaren (arbeidsvoorwaarden sector Rechterlijke Macht 1997/99)"
-signed_date: "2000-12-13"
-entry_into_force: "2001-02-01"
+publicatiedatum: 2001-02-01
+laatste_update: 2001-02-01
+status: geldig
+toestand: 2001-02-01
+bron: "https://wetten.overheid.nl/BWBR0011954"
+opgehaald: 2026-08-05
 ---
+
 # Wet van 13 december 2000 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren (arbeidsvoorwaarden sector Rechterlijke Macht 1997/99)
-
-Allen, die deze zullen zien of horen lezen, saluut ! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om in verband met de uitvoering van het Akkoord arbeidsvoorwaarden 1997–1999 sector Rechterlijke Macht de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Artikel I, onderdeel B werkt terug tot en met 1 mei 1997. Artikel I, onderdelen F en G werkt terug tot en met 1 juli 1997. De artikelen I, onderdelen C en E, III, IV en V werken terug tot en met 1 januari 1998. Artikel I, onderdeel D, werkt terug tot en met 1 juli 1998.
 
 ##### ARTIKEL I
 
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
 
 ##### ARTIKEL II
 
-Wijzigt de Ambtenarenwet.
+*Wijzigt de Ambtenarenwet.*
 
 ##### ARTIKEL III
 
@@ -83,5 +51,3 @@ Deze wet treedt in werking met ingang van de eerste dag van de kalendermaand na 
 - c. wat de [artikelen I, onderdelen C en E, III, IV en V](https://wetten.overheid.nl/jci1.3:c:BWBR0011954&artikel=I&z=2001-02-01&g=2001-02-01) betreft: tot en met 1 januari 1998;
 
 - d. wat [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0011954&artikel=I&z=2001-02-01&g=2001-02-01), betreft: tot en met 1 juli 1998.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

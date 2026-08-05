@@ -1,42 +1,17 @@
 ---
 title: "Instellingsbeschikking Commissie grensarbeiders"
 identifier: "BWBR0011156"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-09-30"
-last_updated: "2000-09-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011156"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "4259413"
-version_id: "6022892"
-internal_id: "C6226281"
-label_id: "4238034"
-dtd_version: "2.0"
-original_entry_into_force: "2000-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011156/2000-09-30/0"
-intitule_bron: "Stcrt.2000-30"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-02-10"
-intitule_published: "2000-02-11"
-intitule_in_force: "2000-02-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-30"
-original_signed_date: "2000-02-10"
-original_published_date: "2000-02-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-04-01"
-jci_1_3: "jci1.3:c:BWBR0011156&z=2000-09-30&g=2000-09-30"
-jci_1_0: "1.0:c:BWBR0011156&g=2000-09-30"
-citeertitel_status: "officieel"
-signed_date: "2000-02-10"
-entry_into_force: "2000-04-01"
+publicatiedatum: 2000-04-01
+laatste_update: 2000-09-30
+status: geldig
+toestand: 2000-09-30
+bron: "https://wetten.overheid.nl/BWBR0011156"
+opgehaald: 2026-08-05
 ---
+
 # Instellingsbeschikking Commissie grensarbeiders
-
-Overwegende dat het wenselijk is te komen tot de instelling van de Commissie grensarbeiders,
-
-Besluit:
 
 #### § 1. Instelling en taak
 

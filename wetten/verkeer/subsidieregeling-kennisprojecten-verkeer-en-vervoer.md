@@ -1,48 +1,69 @@
 ---
 title: "Subsidieregeling kennisprojecten verkeer en vervoer"
 identifier: "BWBR0011844"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-11-04"
-last_updated: "2004-11-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011844"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "4726843"
-version_id: "6543792"
-internal_id: "C6994761"
-label_id: "4705164"
-dtd_version: "2.0"
-original_entry_into_force: "2000-11-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011844/2004-11-04/0"
-intitule_bron: "Stcrt.2000-231"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-11-28"
-intitule_published: "2000-11-28"
-intitule_in_force: "2000-11-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-231"
-original_signed_date: "2000-11-28"
-original_published_date: "2000-11-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-11-30"
-jci_1_3: "jci1.3:c:BWBR0011844&z=2004-11-04&g=2004-11-04"
-jci_1_0: "1.0:c:BWBR0011844&g=2004-11-04"
-citeertitel_status: "officieel"
-signed_date: "2000-11-28"
-entry_into_force: "2000-11-30"
+publicatiedatum: 2000-11-30
+laatste_update: 2004-11-04
+status: geldig
+toestand: 2004-11-04
+bron: "https://wetten.overheid.nl/BWBR0011844"
+opgehaald: 2026-08-05
 ---
+
 # Subsidieregeling kennisprojecten verkeer en vervoer
-
-Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
-a. **de minister:** de Minister van Verkeer en Waterstaat; b. **Connekt:** de stichting Connekt; c. **het bestuur:** het bestuur van de stichting Connekt; d. **kennisinfrastructuur:** de capaciteit van zowel de publieke als de private op kennis gerichte instellingen om voor de samenleving relevante kennisproducten te leveren; e. **fundamenteel/strategisch onderzoek:** uitbreiding van de algemene wetenschappelijke en technische kennis zonder industriële of commerciële doelstellingen; f. **industrieel onderzoek:** onderzoek dat gericht is op het opdoen van nieuwe kennis met het doel deze kennis bij de ontwikkeling van nieuwe producten, processen of diensten te gebruiken, of om bestaande producten, processen of diensten aanmerkelijk te verbeteren; g. **preconcurrentiële ontwikkeling:** de omzetting van de resultaten van industrieel onderzoek in plannen, schema's of ontwerpen voor nieuwe gewijzigde of verbeterde producten, processen of diensten, met inbegrip van de fabricage van een prototype, demonstratie- of modelproject, die niet voor industriële of commerciële doeleinden kunnen worden aangewend; h. **kennisverspreiding:** het actief opslaan, onderhouden, ontsluiten en verspreiden van kennis, die is ontwikkeld op basis van fundamenteel strategisch onderzoek, industrieel onderzoek, preconcurrentiële ontwikkeling en studies naar de technische haalbaarheid van industrieel onderzoek of preconcurrentiële ontwikkeling.
+a.
+
+de minister:
+
+de Minister van Verkeer en Waterstaat;
+
+b.
+
+Connekt:
+
+de stichting Connekt;
+
+c.
+
+het bestuur:
+
+het bestuur van de stichting Connekt;
+
+d.
+
+kennisinfrastructuur:
+
+de capaciteit van zowel de publieke als de private op kennis gerichte instellingen om voor de samenleving relevante kennisproducten te leveren;
+
+e.
+
+fundamenteel/strategisch onderzoek:
+
+uitbreiding van de algemene wetenschappelijke en technische kennis zonder industriële of commerciële doelstellingen;
+
+f.
+
+industrieel onderzoek:
+
+onderzoek dat gericht is op het opdoen van nieuwe kennis met het doel deze kennis bij de ontwikkeling van nieuwe producten, processen of diensten te gebruiken, of om bestaande producten, processen of diensten aanmerkelijk te verbeteren;
+
+g.
+
+preconcurrentiële ontwikkeling:
+
+de omzetting van de resultaten van industrieel onderzoek in plannen, schema's of ontwerpen voor nieuwe gewijzigde of verbeterde producten, processen of diensten, met inbegrip van de fabricage van een prototype, demonstratie- of modelproject, die niet voor industriële of commerciële doeleinden kunnen worden aangewend;
+
+h.
+
+kennisverspreiding:
+
+het actief opslaan, onderhouden, ontsluiten en verspreiden van kennis, die is ontwikkeld op basis van fundamenteel strategisch onderzoek, industrieel onderzoek, preconcurrentiële ontwikkeling en studies naar de technische haalbaarheid van industrieel onderzoek of preconcurrentiële ontwikkeling.
 
 ##### Artikel 2. Subsidieverstrekking
 
@@ -235,5 +256,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling kennisprojecten verkeer en vervoer.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,58 +1,19 @@
 ---
 title: "Verdrag inzake de zetel van het Permanente Hof van Arbitrage"
 identifier: "BWBV0001409"
-country: "nl"
-rank: "verdrag"
-publication_date: "2000-08-09"
-last_updated: "2000-08-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001409"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000586253"
-version_id: "10000604422"
-internal_id: "C10006991841"
-label_id: "10000586504"
-original_entry_into_force: "2000-08-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001409/2000-08-09/0"
-intitule_bron: "Trb.1999-68"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-07-30"
-intitule_published: "1999-04-15"
-intitule_in_force: "2000-08-24"
-intitule_status: "goed"
-original_publication: "Trb.1999-68"
-original_signed_date: "1999-07-30"
-original_published_date: "1999-04-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1999-68"
-entry_into_force_date: "2000-08-09"
-jci_1_3: "jci1.3:c:BWBV0001409&z=2000-08-09&g=2000-08-09"
-jci_1_0: "1.0:c:BWBV0001409&g=2000-08-09"
-citeertitel_status: "officieel"
-signed_date: "1999-07-30"
-entry_into_force: "2000-08-09"
+publicatiedatum: 2000-08-09
+laatste_update: 2000-08-09
+status: geldig
+toestand: 2000-08-09
+bron: "https://wetten.overheid.nl/BWBV0001409"
+opgehaald: 2026-08-05
 ---
+
 # Verdrag inzake de zetel van het Permanente Hof van Arbitrage
 
-between
-
-the Kingdom of the Netherlands,
-
-and
-
-the Permanent Court of Arbitration
-
-Whereas the Conventions for the Pacific Settlement of International Disputes, establishing the Permanent Court of Arbitration were concluded on [29 July, 1899](https://wetten.overheid.nl/jci1.3:c:BWBV0005494) and [18 October, 1907](https://wetten.overheid.nl/jci1.3:c:BWBV0005617), and the Kingdom of the Netherlands is a Contracting Power to both Conventions,
-
-Whereas the seat of the International Bureau of the Permanent Court of Arbitration is The Hague, Kingdom of the Netherlands, pursuant to [Article 22, paragraph 1, of the Convention of 1899](https://wetten.overheid.nl/jci1.3:c:BWBV0005494&artikel=22) and [Article 43 of the Convention of 1907](https://wetten.overheid.nl/jci1.3:c:BWBV0005617&artikel=43),
-
-Having regard to the provisions set forth in [Article 24 of the 1899 Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005494&artikel=24) and [Article 46, paragraph 4, of the 1907 Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005617&artikel=46), establishing, respectively, the diplomatic privileges and immunities of the Members of the Court and members of Tribunals,
-
-Having regard to exchanges of letters in 1930, 1937 and 1972–1974 between the International Bureau of the Permanent Court of Arbitration and the Ministry of Finance of the Netherlands in which provisions were made for exemption from direct tax in respect of salaries for the Secretary-General and the personnel of the Permanent Court of Arbitration, including Netherlands citizens,
-
-Whereas the Parties first named above desire to conclude a more comprehensive agreement,
-
-They have therefore agreed as follows:
+*between the Kingdom of the Netherlands, and the Permanent Court of Arbitration Whereas the Conventions for the Pacific Settlement of International Disputes, establishing the Permanent Court of Arbitration were concluded on 29 July, 1899 and 18 October, 1907, and the Kingdom of the Netherlands is a Contracting Power to both Conventions, Whereas the seat of the International Bureau of the Permanent Court of Arbitration is The Hague, Kingdom of the Netherlands, pursuant to Article 22, paragraph 1, of the Convention of 1899 and Article 43 of the Convention of 1907, Having regard to the provisions set forth in Article 24 of the 1899 Convention and Article 46, paragraph 4, of the 1907 Convention, establishing, respectively, the diplomatic privileges and immunities of the Members of the Court and members of Tribunals, Having regard to exchanges of letters in 1930, 1937 and 1972–1974 between the International Bureau of the Permanent Court of Arbitration and the Ministry of Finance of the Netherlands in which provisions were made for exemption from direct tax in respect of salaries for the Secretary-General and the personnel of the Permanent Court of Arbitration, including Netherlands citizens, Whereas the Parties first named above desire to conclude a more comprehensive agreement, They have therefore agreed as follows:*
 
 ##### Article 1. Definitions
 
@@ -94,9 +55,9 @@ The PCA shall possess full legal personality. In particular, it shall have the c
 
 1. The PCA, and its Property, wherever located and by whomsoever held, shall enjoy immunity from every form of legal process, except in the case of:
 
-- a). express waiver by the PCA of immunity in a particular case;
+- a) express waiver by the PCA of immunity in a particular case;
 
-- b). civil action by a third party for damages arising out of an accident caused by a motor vehicle belonging to, or operated on behalf of, the PCA where these damages are not recoverable from insurance.
+- b) civil action by a third party for damages arising out of an accident caused by a motor vehicle belonging to, or operated on behalf of, the PCA where these damages are not recoverable from insurance.
 
 2. The Headquarters of the PCA shall be inviolable. The Property of the PCA, wherever situated, shall be immune from search, requisition, confiscation, expropriation and any other form of interference, whether by executive, administrative, judicial or legislative action except in so far as the PCA shall have expressly waived its immunity. It is, however, understood that no waiver of immunity shall extend to any measure of execution.
 
@@ -116,11 +77,11 @@ The Appropriate Authorities shall take whatever reasonable action may be necessa
 
 4. The Secretary-General shall prevent the Headquarters from being used to harbour persons who are:
 
-- a). avoiding arrest under any law of the Kingdom of the Netherlands;
+- a) avoiding arrest under any law of the Kingdom of the Netherlands;
 
-- b). endeavouring to evade service of legal process; or
+- b) endeavouring to evade service of legal process; or
 
-- c). wanted by the Government for extradition or expulsion to another State.
+- c) wanted by the Government for extradition or expulsion to another State.
 
 5. The PCA shall have the right to use a flag and emblem, and to fly its flag at the Headquarters.
 
@@ -136,21 +97,21 @@ The Appropriate Authorities shall take whatever reasonable action may be necessa
 
 2. Within the scope of its official activities, the PCA shall be exempt from:
 
-- a). motor vehicle tax (**motorrijtuigenbelasting**);
+- a) motor vehicle tax (*motorrijtuigenbelasting*);
 
-- b). tax on passenger motor vehicles and motorcycles (**BPM**);
+- b) tax on passenger motor vehicles and motorcycles (*BPM*);
 
-- c). value-added tax (**omzetbelasting**) paid on all goods and services supplied on a recurring basis or involving considerable expenditure;
+- c) value-added tax (*omzetbelasting*) paid on all goods and services supplied on a recurring basis or involving considerable expenditure;
 
-- d). excise duties (**accijnzen**) included in the price of alcoholic beverages and hydrocarbons;
+- d) excise duties (*accijnzen*) included in the price of alcoholic beverages and hydrocarbons;
 
-- e). import taxes and duties (**belastingen bij invoer**);
+- e) import taxes and duties (*belastingen bij invoer*);
 
-- f). insurance tax (**assurantiebelasting**);
+- f) insurance tax (*assurantiebelasting*);
 
-- g). real property transfer tax (**overdrachtsbelasting**);
+- g) real property transfer tax (*overdrachtsbelasting*);
 
-- h). any other taxes and duties of a substantially similar character to the taxes and duties provided for in this paragraph, imposed by the Netherlands subsequent to the date of signature of this Agreement.
+- h) any other taxes and duties of a substantially similar character to the taxes and duties provided for in this paragraph, imposed by the Netherlands subsequent to the date of signature of this Agreement.
 
 3. The exemptions provided for in subparagraphs 2c), 2d), 2f), 2g) and 2h) of this Article may be granted by way of a refund under conditions to be agreed upon by the PCA and the Government.
 
@@ -162,13 +123,13 @@ The Appropriate Authorities shall take whatever reasonable action may be necessa
 
 1. The Government shall take all reasonable measures to facilitate and allow the entry into and sojourn in the territory of the Kingdom of the Netherlands of the persons listed below, whatever their nationality:
 
-- a). PCA Adjudicators and their partners;
+- a) PCA Adjudicators and their partners;
 
-- b). Officials of the PCA, their partners and dependent members of their household;
+- b) Officials of the PCA, their partners and dependent members of their household;
 
-- c). Participants in Proceedings;
+- c) Participants in Proceedings;
 
-- d). Persons attending PCA Meetings.
+- d) Persons attending PCA Meetings.
 
 2. The Government shall take all reasonable measures to ensure that any visas which may be required for any of the persons referred to in this Article are issued as promptly as possible in order to allow the timely conduct of official business with the PCA. Visas shall be granted without charge to those persons referred to under 1a) b) and c), above.
 
@@ -184,23 +145,23 @@ The Appropriate Authorities shall take whatever reasonable action may be necessa
 
 1. Except with respect to (i) a motor traffic offence committed by an Official of the PCA, and (ii) a civil action by a third party for damage arising from an accident caused by a motor vehicle belonging to or driven by an Official of the PCA:
 
-- a). The Secretary-General shall be accorded the privileges and immunities, exemptions and facilities accorded to the head of a diplomatic mission pursuant to the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
+- a) The Secretary-General shall be accorded the privileges and immunities, exemptions and facilities accorded to the head of a diplomatic mission pursuant to the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
 
-- b). Officials of the PCA other than the Secretary-General shall be accorded the same privileges and immunities, exemptions and facilities as the Government accords to members of diplomatic missions of comparable rank pursuant to the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+- b) Officials of the PCA other than the Secretary-General shall be accorded the same privileges and immunities, exemptions and facilities as the Government accords to members of diplomatic missions of comparable rank pursuant to the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. In addition to the immunities specified in paragraph 1 of this Article, Officials of the PCA shall enjoy within and with respect to the Kingdom of the Netherlands the following privileges and immunities:
 
-- a). exemption from taxation in respect of the salaries and emoluments paid by the PCA with the exception of pensions and annuities paid to former officials of the PCA and their dependants;
+- a) exemption from taxation in respect of the salaries and emoluments paid by the PCA with the exception of pensions and annuities paid to former officials of the PCA and their dependants;
 
-- b). the same protection and repatriation facilities with respect to themselves, their partners, their dependent relatives and other members of their households as are accorded in time of international crisis to comparably-ranked members of the staffs of diplomatic missions accredited to the Kingdom of the Netherlands.
+- b) the same protection and repatriation facilities with respect to themselves, their partners, their dependent relatives and other members of their households as are accorded in time of international crisis to comparably-ranked members of the staffs of diplomatic missions accredited to the Kingdom of the Netherlands.
 
 ##### Article 11. Notification
 
 1. The PCA shall promptly notify the Government of:
 
-- a). the appointment of the Secretary-General, the First Secretary, and other Officials of the PCA, their arrival and their final departure, or the termination of their functions with the PCA;
+- a) the appointment of the Secretary-General, the First Secretary, and other Officials of the PCA, their arrival and their final departure, or the termination of their functions with the PCA;
 
-- b). the arrival and final departure of the partners and dependant members of the households of the persons referred to in subparagraph 1a) of this Article and, where appropriate, the fact that a person has ceased to form part of the household.
+- b) the arrival and final departure of the partners and dependant members of the households of the persons referred to in subparagraph 1a) of this Article and, where appropriate, the fact that a person has ceased to form part of the household.
 
 2. The Government shall issue to the Secretary-General, the First Secretary and to other Officials of the PCA and their partners and dependant members of their household an identity card bearing the photograph of the holder. This card shall serve to identify the holder in relation to all authorities of the Kingdom of the Netherlands.
 
@@ -214,9 +175,9 @@ The Appropriate Authorities shall take whatever reasonable action may be necessa
 
 1. Persons who have been recognised by the Government as
 
-- a). partners of Officials of the PCA; or
+- a) partners of Officials of the PCA; or
 
-- b). dependent children of Officials of the PCA who have not yet reached the age of 18 shall be authorised by the Appropriate Authorities to engage in gainful employment for the duration of the employment of the said Officials.
+- b) dependent children of Officials of the PCA who have not yet reached the age of 18 shall be authorised by the Appropriate Authorities to engage in gainful employment for the duration of the employment of the said Officials.
 
 2. Persons who obtain employment under paragraph 1 of this Article shall have no immunity from criminal, civil and administrative jurisdiction with respect to matters arising in the course of or in connection with such employment provided that measures of execution can be taken without infringing the inviolability of their person or their residence.
 
@@ -244,9 +205,9 @@ The Kingdom of the Netherlands shall not incur by reason of the location of the 
 
 1. The PCA shall make provisions for appropriate methods of settlement of:
 
-- a). disputes arising out of contracts and disputes of a private law character to which the PCA is party; and
+- a) disputes arising out of contracts and disputes of a private law character to which the PCA is party; and
 
-- b). disputes involving an Official of the PCA who, by reason of his official position, enjoys immunity, if such immunity has not been waived by the PCA.
+- b) disputes involving an Official of the PCA who, by reason of his official position, enjoys immunity, if such immunity has not been waived by the PCA.
 
 2. Any dispute, controversy or claim arising between the PCA and the Government out of or relating to the interpretation, application or performance of this Agreement, including its existence, validity or termination, or any question affecting the Headquarters or the relationship between the PCA and the Government, which is not settled amicably within six months of the date on which one Party notifies the other of the existence of such dispute, shall be settled by final and binding arbitration in accordance with the Permanent Court of Arbitration Optional Rules for Arbitration Involving International Organisations and States (the “Rules”), as in force on the date of signature of this Agreement. The number of arbitrators shall be one. The language to be used in the arbitral proceedings shall be English. The appointing authority shall be the Netherlands Arbitration Institute. In any such arbitration proceedings, the registry, archive and secretariat services of the PCA, referred to in Article 1, paragraph 3 and Article 25, paragraph 3 of the Rules, will not be available, and the PCA shall not be empowered to request, hold or disburse deposits of costs as provided in Article 41, paragraph 1 of the Rules.
 
@@ -276,10 +237,10 @@ This Agreement may be terminated by either Party by giving notice to the other P
 
 DONE at The Hague on 30 March 1999, in two originals in the English language.
 
-**For the Kingdom of the Netherlands**
+*For the Kingdom of the Netherlands*
 
 (sd.) J. J. JONKER ROELANTS
 
-**For the Permanent Court of Arbitration**
+*For the Permanent Court of Arbitration*
 
 (sd.) P. J. H. JONKMAN

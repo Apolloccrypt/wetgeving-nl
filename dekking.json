@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-08-04",
+ "gegenereerd": "2026-08-05",
  "geverifieerd": true,
- "bwb_regelingen": 46734,
- "bwb_geldend": 22177,
- "site_totaal": 22347,
- "site_geldend": 22174,
+ "bwb_regelingen": 46737,
+ "bwb_geldend": 22178,
+ "site_totaal": 22350,
+ "site_geldend": 22175,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 3,
- "aantal_ten_onrechte_geldig": 173,
+ "aantal_ten_onrechte_geldig": 175,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -27,6 +27,10 @@
   }
  ],
  "ten_onrechte_geldig": [
+  {
+   "id": "BWBR0003245",
+   "titel": "Wet van 13 juni 1979, houdende regelen met betrekking tot een aantal algemene onderwerpen op het gebied van de milieuhygiëne"
+  },
   {
    "id": "BWBR0006938",
    "titel": "Vergoedingenregeling reiskosten Kiesraad"
@@ -49,7 +53,7 @@
   },
   {
    "id": "BWBR0011531",
-   "titel": "Besluit aanpassing arbeidsduur militairen"
+   "titel": "Besluit van 22 juli 2000, houdende regels voor de aanpassing van de arbeidsduur van militairen (Besluit aanpassing arbeidsduur militairen)"
   },
   {
    "id": "BWBR0014493",
@@ -114,6 +118,10 @@
   {
    "id": "BWBR0035167",
    "titel": "Besluit verlenging NSL"
+  },
+  {
+   "id": "BWBR0035729",
+   "titel": "Aanvraagprocedure diploma-erkenning derde leerweg voor bekostigde en niet-bekostigde instellingen"
   },
   {
    "id": "BWBR0036576",

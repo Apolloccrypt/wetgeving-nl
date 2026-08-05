@@ -1,42 +1,17 @@
 ---
 title: "Instellingsbesluit Voorlichtingsraad Rijksoverheid"
 identifier: "BWBR0011710"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-07-01"
-last_updated: "2009-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011710"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3536243"
-version_id: "5319402"
-internal_id: "C5512491"
-label_id: "3516274"
-dtd_version: "2.0"
-original_entry_into_force: "2000-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011710/2009-07-01/0"
-intitule_bron: "Stcrt.2000-203"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-10-16"
-intitule_published: "2000-10-19"
-intitule_in_force: "2000-10-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-203"
-original_signed_date: "2000-10-16"
-original_published_date: "2000-10-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-10-21"
-jci_1_3: "jci1.3:c:BWBR0011710&z=2009-07-01&g=2009-07-01"
-jci_1_0: "1.0:c:BWBR0011710&g=2009-07-01"
-citeertitel_status: "officieel"
-signed_date: "2000-10-16"
-entry_into_force: "2000-10-21"
+publicatiedatum: 2000-10-21
+laatste_update: 2009-07-01
+status: geldig
+toestand: 2009-07-01
+bron: "https://wetten.overheid.nl/BWBR0011710"
+opgehaald: 2026-08-05
 ---
+
 # Instellingsbesluit Voorlichtingsraad Rijksoverheid
-
-Overwegende dat regeling van de adviestaken van de Voorlichtingsraad van de Rijksoverheid aanpassing behoeft,
-
-Besluit:
 
 ##### Artikel 1. (De Raad)
 
@@ -107,5 +82,3 @@ De Minister-President kan besluiten de taken en het functioneren van de Raad en 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
 Dit besluit zal worden aangehaald als: Instellingsbesluit Voorlichtingsraad Rijksoverheid.
-
-Dit besluit wordt in de Staatscourant geplaatst.

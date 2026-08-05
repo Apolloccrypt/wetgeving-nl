@@ -1,44 +1,17 @@
 ---
 title: "Mandaat ABP inzake uitvoering ontslaguitkeringen"
 identifier: "BWBR0012416"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-05-17"
-last_updated: "2001-05-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012416"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3733013"
-version_id: "5515912"
-internal_id: "C5709001"
-label_id: "3712794"
-dtd_version: "2.0"
-original_entry_into_force: "2001-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012416/2001-05-17/0"
-intitule_bron: "Stcrt.2001-94"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-04-13"
-intitule_published: "2001-05-16"
-intitule_in_force: "2001-05-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-94"
-original_signed_date: "2001-04-13"
-original_published_date: "2001-05-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-05-17"
-jci_1_3: "jci1.3:c:BWBR0012416&z=2001-05-17&g=2001-05-17"
-jci_1_0: "1.0:c:BWBR0012416&g=2001-05-17"
-citeertitel_status: "officieel"
-signed_date: "2001-04-13"
-entry_into_force: "2001-05-17"
+publicatiedatum: 2001-05-17
+laatste_update: 2001-05-17
+status: geldig
+toestand: 2001-05-17
+bron: "https://wetten.overheid.nl/BWBR0012416"
+opgehaald: 2026-08-05
 ---
+
 # Mandaat ABP inzake uitvoering ontslaguitkeringen
-
-Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Gezien de overeenkomst inzake uitvoering uitkeringen bij functioneel leeftijdsontslag en ontslag uit substantieel bezwarende functies;
-
-Besluit:
 
 ##### Artikel 1
 

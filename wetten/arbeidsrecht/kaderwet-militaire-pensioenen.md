@@ -1,48 +1,18 @@
 ---
 title: "Wet van 13 december 2000 tot vaststelling van een kader voor de vereenvoudiging en de vernieuwing van het militaire pensioenstelsel (Kaderwet militaire pensioenen)"
+citeertitel: "Kaderwet militaire pensioenen"
 identifier: "BWBR0011955"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011955"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "1516753"
-version_id: "2259102"
-internal_id: "C2259101"
-label_id: "1473194"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011955/2020-01-01/0"
-intitule_bron: "Stb.2001-37"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-13"
-intitule_published: "2001-01-30"
-intitule_in_force: "2001-01-30"
-intitule_status: "goed"
-original_publication: "Stb.2001-37"
-original_signed_date: "2000-12-13"
-original_published_date: "2001-01-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "26686"
-original_url_id: "stb-2001-37"
-entry_into_force_date: "2001-01-31"
-entry_into_force_dossier: "26686"
-jci_1_3: "jci1.3:c:BWBR0011955&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0011955&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Kaderwet militaire pensioenen"
-signed_date: "2000-12-13"
-entry_into_force: "2001-01-31"
+publicatiedatum: 2001-01-31
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0011955"
+opgehaald: 2026-08-05
 ---
+
 # Wet van 13 december 2000 tot vaststelling van een kader voor de vereenvoudiging en de vernieuwing van het militaire pensioenstelsel (Kaderwet militaire pensioenen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het militaire pensioenstelsel te vereenvoudigen en vernieuwen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -70,7 +40,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De door het eerste en tweede lid beheerste pensioenaanspraken worden vastgelegd in het pensioenreglement. Aanspraken op militair pensioen worden rechtstreeks aan dat reglement ontleend.
 
-4. Prepensioneringsaanspraken vanaf 60 jaar zullen worden neergelegd in een overeenkomst naar burgerlijk recht.
+4. Prepensioneringsaanspraken vanaf 60 jaar zullen worden neergelegd in een overeenkomst naar burgerlijk recht.
 
 5. Aanvullende aanspraken op militair pensioen bij arbeidsongeschiktheid, invaliditeit of overlijden van de beroepsmilitair, de pensioenaanspraken voor de dienstplichtige of reservist en hun nagelaten betrekkingen, alsmede de grondslag voor het verstrekken van de met die invaliditeit samenhangende bijzondere leef- en werkvoorzieningen, worden vastgesteld bij algemene maatregel van bestuur.
 
@@ -155,5 +125,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel 10. Citeertitel
 
 Deze wet wordt aangehaald als: Kaderwet militaire pensioenen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

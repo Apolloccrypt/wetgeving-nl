@@ -1,42 +1,47 @@
 ---
 title: "Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2001"
 identifier: "BWBR0011975"
-country: "nl"
-rank: "circulaire"
-publication_date: "2001-01-01"
-last_updated: "2001-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011975"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "6265183"
-version_id: "10947862"
-internal_id: "C14843391"
-label_id: "6254464"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011975/2001-01-01/0"
-intitule_bron: "Stcrt.2000-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-14"
-intitule_published: "2000-12-22"
-intitule_in_force: "2000-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-249"
-original_signed_date: "2000-12-14"
-original_published_date: "2000-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2000-249-p9-SC26979"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0011975&z=2001-01-01&g=2001-01-01"
-jci_1_0: "1.0:c:BWBR0011975&g=2001-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2000-12-14"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2001-01-01
+status: geldig
+toestand: 2001-01-01
+bron: "https://wetten.overheid.nl/BWBR0011975"
+opgehaald: 2026-08-05
 ---
+
 # Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2001
 
 ### Inleiding/managementinformatie
 
 Zoals gebruikelijk doe ik u aan het eind van het kalenderjaar toekomen de circulaire op het terrein van de financiële arbeidsvoorwaarden van het personeel van de sector Rijk betreffende de hieronder genoemde aangelegenheden.
+
+- A. Aanpassing van diverse bedragen per 1 januari 2001, te weten:
+
+   - 1. krachtens het [Besluit betaling emolumenten burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003632);
+
+   - 2. in de [Verplaatsingskostenregeling 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004633);
+
+   - 3. in de [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912);
+
+   - 4. de EHBO-toelage.
+
+- B. Brutering van de overhevelingstoeslag.
+
+- C. Overige mededelingen, te weten over:
+
+   - 1. het aantal te werken uren op jaarbasis in 2001;
+
+   - 2. de bedragen van het wettelijk minimum(jeugd)loon ingaande 1 januari 2001;
+
+   - 3. de hoogte van de eindejaarsuitkering in 2001;
+
+   - 4. de hoogte van het maximum spaarloonbedrag in 2001;
+
+   - 5. inhoudingen en afdrachten inzake pensioenen e.d. per 1 januari 2001.
+
+- D. Tot stand gekomen wijzigingen van regelingen en circulaires en nog te verwachten wijzigingen.
 
 Voor de ambtenaar die reeds in het IPA-salarissysteem is opgenomen, zullen de onderhavige wijzigingen voor zover van toepassing automatisch worden aangepast. Daar waar betalingen op basis van declaratie plaatsvinden zal uw eigen personeelsadministratie de desbetreffende wijzigingen dienen aan te brengen. Dit laatste betreft onder meer de wijzigingen vermeld onder A.3 (bedragen inzake dienstreizen binnenland).
 
@@ -66,6 +71,16 @@ Het maximumbedrag in de verhuiskostenvergoeding voor 'alle andere uit de verhuiz
 
 ### b. Wijziging bedragen verband houdende met het woon/werkverkeer
 
+- - het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=11), eerste lid, genoemde maximum bedrag van f 205,00 wordt verhoogd tot f 212,00 (het maximum bedrag aan reiskosten woon/werkverkeer voor niet-verhuisplichtige ambtenaren die naar het oordeel van de minister werkzaam zijn op per openbaar vervoer te bereiken plaatsen van tewerkstelling).
+
+- - het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=11), eerste lid, genoemde bedrag dat de ambtenaar te allen tijde van de reiskosten woon/werkverkeer voor eigen rekening moet nemen, wordt verhoogd van f 96,25 tot f 100,35.
+
+- - het in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=11), genoemde maximum bedrag wordt verhoogd van f 332,50 tot f 345,00 (het maximum bedrag aan reiskosten woon/werkverkeer voor niet-verhuisplichtige ambtenaren die naar het oordeel van de minister werkzaam zijn op plaatsen van tewerkstelling die niet per openbaar vervoer zijn te bereiken).
+
+- - het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=12), genoemde maximum bedrag wordt verhoogd van f 499,00 tot f 510,00 (het maximum bedrag aan reiskosten woon/werkverkeer voor verhuisplichtige ambtenaren die werkzaam zijn op per openbaar vervoer te bereiken plaatsen van tewerkstelling).
+
+- - de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=12), genoemde tabel wordt vervangen door de volgende tabel:
+
 van meer dan 20 km tot en met 30 km f 360,00
 
 van meer dan 30 km tot en met
@@ -94,21 +109,31 @@ De in dit lid vermelde percentages van 1,8% respectievelijk 0,9% wijzigen in ond
 
 De ministeriële regeling waarin de wijzigingen zijn opgenomen wordt gepubliceerd in de Staatscourant.
 
-### 3. [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912)
+### 3. Reisregeling binnenland
 
 De wijzigingen van de [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912) per 1 januari 2001 houden het volgende in:
 
 In [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005912&artikel=5), worden de vergoedingen wegens verblijfkosten als volgt gewijzigd:
 
+- - het bedrag van de avondcomponent wordt verhoogd van f 19,00 tot f 20,00;
+
+- - het in onderdeel a genoemde bedrag voor een lunch (lunchcomponent) wordt verhoogd van f 20,50 tot f 21,00;
+
+- - het in onderdeel b genoemde bedrag voor een avondmaaltijd (dinercomponent) wordt verhoogd van f 30,50 tot f 31,50;
+
+- - het in onderdeel c genoemde bedrag voor logies (logiescomponent) wordt verhoogd van f 121,50 tot f 128,00;
+
+- - het in onderdeel d genoemde bedrag voor een ontbijt (ontbijtcomponent) wordt verhoogd van f 11,50 tot f 12,50.
+
 De bedragen van de vergoedingen per kilometer voor een motorvoertuig (f 0,60 resp. f 0,19), bromfiets (f 0,21 resp. f 0,19) en fiets (f 0,12) en het bedrag van de dagcomponent (f 6,50) zijn niet gewijzigd. De ministeriële regeling waarin de wijzigingen zijn opgenomen wordt in de Staatscourant gepubliceerd.
 
 ### 4. Ehbo-toelage
 
-In verband met de algemene salarisverhoging per 1 januari 2001 (zie [circulaire van 20 oktober 2000, nr. AD2000/U92989](onbekend)) wordt ingevolge [artikel 13, derde lid, van de Overgangsregeling BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003631&artikel=13) de gehandhaafde EHBO-toelage per 1 januari 2001 verhoogd van f 18,10 tot f 18,54 per maand.
+In verband met de algemene salarisverhoging per 1 januari 2001 (zie circulaire van 20 oktober 2000, nr. AD2000/U92989) wordt ingevolge [artikel 13, derde lid, van de Overgangsregeling BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003631&artikel=13) de gehandhaafde EHBO-toelage per 1 januari 2001 verhoogd van f 18,10 tot f 18,54 per maand.
 
 ### B. Brutering van de overhevelingstoeslag
 
-In mijn eerdergenoemde [circulaire van 20 oktober 2000](onbekend) zijn de wijzigingen opgenomen voortvloeiend uit de [Arbeidsvoorwaardenovereenkomst sector Rijk](onbekend). In die circulaire vindt u onder punt I.4. de hoofdlijn van de inpassing van de overhevelingstoeslag (OHT). Hierna nogmaals op hoofdlijnen deze afspraken en de uitwerking voor de nabetalingen over 2000 die in 2001 worden uitbetaald.
+In mijn eerdergenoemde circulaire van 20 oktober 2000 zijn de wijzigingen opgenomen voortvloeiend uit de Arbeidsvoorwaardenovereenkomst sector Rijk. In die circulaire vindt u onder punt I.4. de hoofdlijn van de inpassing van de overhevelingstoeslag (OHT). Hierna nogmaals op hoofdlijnen deze afspraken en de uitwerking voor de nabetalingen over 2000 die in 2001 worden uitbetaald.
 
 ### Salarisbedragen per 1 januari 2001
 
@@ -134,7 +159,11 @@ Door verwerking van de OHT in het bruto salaris zal de verhoging automatisch doo
 
 Nabetalingen over het jaar 2000 die in 2001 tot betaling komen, zijn gebaseerd op de salarisbedragen 2000 en worden daardoor niet automatisch gebruteerd. Teneinde dit te ondervangen is de volgende oplossing gekozen:
 
-De technische verwerking - zoals hiervoor omschreven - is door IVOP uiteengezet in twee circulaires van [14 november 2000 (AI2000/2459](onbekend) en van [4 december 2000 (AI2000/2696)](onbekend).
+- 1. De in 2001 uit te betalen vakantie-uitkering over 2000 (juni tot en met december) wordt verhoogd met 1,9%, zonder dat rekening wordt gehouden met het maximum. Deze correctie vindt plaats op de aanspraak vakantieuitkering op de salarisstrook over januari 2001.
+
+- 2. De in 2001 uit te betalen vergoedingen voor overwerk, onregelmatige dienst en dergelijke over de periode uit 2000, worden berekend op basis van het salaris van de periode waarin het recht is ontstaan in 2000. Het resultaat wordt verhoogd met 1,9%.
+
+De technische verwerking - zoals hiervoor omschreven - is door IVOP uiteengezet in twee circulaires van 14 november 2000 (AI2000/2459 en van 4 december 2000 (AI2000/2696).
 
 ### C. Overige mededelingen
 
@@ -146,13 +175,25 @@ Het aantal te werken uren bedraagt in 2001 voor een voltijds ambtenaar afgerond 
 
 De bedragen van het wettelijk minimumloon en minimumjeugdloon die van belang zijn voor de bepaling van de garantietoelage, bedoeld in [artikel 16 van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=16), luiden ingaande 1 januari 2001 als volgt:
 
+| leeftijd | bedrag per maand: |
+| --- | --- |
+| 23 jaar of ouder | f 2.544,10 |
+| 22 jaar | f 2.162,50 |
+| 21 jaar | f 1.844,50 |
+| 20 jaar | f 1.564,60 |
+| 19 jaar | f 1.335,70 |
+| 18 jaar | f 1.157,60 |
+| 17 jaar | f 1.004,90 |
+| 16 jaar | f 877,70 |
+| 15 jaar | f 763,20 |
+
 ### 3. Eindejaarsuitkering over 2001
 
 Volledigheidshalve herinner ik u eraan dat over 2001 de maandelijkse opbouw van de aanspraak op de procentuele eindejaarsuitkering als bedoeld in [artikel 20a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) 0,3% van het salaris bedraagt.
 
 Vanaf 2001 vindt tevens de maandelijkse opbouw van het in december 2001 uit te keren nominaal deel plaats.
 
-Voor de goede orde bericht ik u dat de nominale eindejaarsuitkering over 2000 niet, zoals is aangegeven in de [circulaire van 20 oktober 2000, nr. AD2000/U 92989](onbekend), wordt berekend over een peilperiode maar aan de hand van een peildatum. De uitkering komt toe aan alle rijksambtenaren die op 1 december 2000 in dienst zijn of waren.
+Voor de goede orde bericht ik u dat de nominale eindejaarsuitkering over 2000 niet, zoals is aangegeven in de circulaire van 20 oktober 2000, nr. AD2000/U 92989, wordt berekend over een peilperiode maar aan de hand van een peildatum. De uitkering komt toe aan alle rijksambtenaren die op 1 december 2000 in dienst zijn of waren.
 
 ### 4. Spaarloonregeling rijkspersoneel
 
@@ -166,9 +207,13 @@ De inhoudingen en afdrachten inzake pensioenen (OP/NP, IP/bw, FPU), [Ziektewet](
 
 Tot stand zijn gekomen de volgende twee amvb's:
 
+- 1. koninklijk besluit van 8 december 2000 (Stb.), houdende wijziging van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) en het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) in verband met de positie van topambtenaren binnen de Rijksdienst;
+
+- 2. koninklijk besluit van 8 december 2000 (Stb.), houdende wijziging van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) en enkele andere besluiten in verband met het onder de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) brengen van overheidspersoneel in de sector Rijk.
+
 Voor informatie over de uitvoering hiervan verwijs ik u naar de informatie die de Uitvoeringsinstelling Sociale Zekerheid voor Overheid en onderwijs (USZO) hierover heeft. Bij vragen kunt u de USZO-werkgevershelpdesk bellen (telefoon 045-579 6579, bereikbaar op werkdagen van 8.30 tot 17.00 uur) of de internetsite van USZO raadplegen: www.uszo.nl.
 
-In de bijlage vindt u een overzicht van de in dit jaar tot stand gekomen wijzigingen van regelingen en circulaires. Voorts is aangegeven welke regelingen op korte termijn worden gewijzigd.
+In de [bijlage](https://wetten.overheid.nl/BWBR0011975) vindt u een overzicht van de in dit jaar tot stand gekomen wijzigingen van regelingen en circulaires. Voorts is aangegeven welke regelingen op korte termijn worden gewijzigd.
 
 ### Slotopmerkingen
 
@@ -177,19 +222,3 @@ Ik verzoek u met het vorenstaande rekening te houden en daaraan voor zoveel nodi
 Deze circulaire is eveneens geplaatst op internet en is te vinden onder: http://www.minbzk.nl/directto.asp?subthema=16 of via http://www.minbzk.nl, en vervolgens klikken op 'Overheidspersoneel', 'Rijksoverheid', 'Rechtspositie' en 'Publicaties'.
 
 Inlichtingen, uitsluitend voor de afdelingen Personeelszaken van geadresseerden, kunnen worden verkregen bij de heer Martens (telefoon 070 - 426 6904)). Bij geen gehoor kunt u ook contact opnemen met het secretariaat van de afdeling Arbeidsvoorwaarden, telefoon 070 - 426 6847, dan wel e-mailen: e-mailadres: Halbe.Martens@minbzk.nl.
-
-## Bijlage
-
-### I. Overzicht van de dit jaar totstandgekomen regelgeving en circulaires
-
-### a. Amvb's
-
-### 2. Ministeriële regelingen
-
-### 3. Circulaires
-
-### II. Nog tot stand te brengen regelgeving
-
-### 1. Amvb's
-
-### 2. Ministeriële regelingen

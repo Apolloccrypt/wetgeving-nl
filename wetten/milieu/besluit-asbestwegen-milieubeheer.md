@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 8 september 2000, houdende regels voor wegen waarin asbestbevattend materiaal is verwerkt (Besluit asbestwegen Wms)"
+citeertitel: "Besluit asbestwegen milieubeheer"
 identifier: "BWBR0011619"
-country: "nl"
-rank: "amvb"
-publication_date: "2008-06-01"
-last_updated: "2008-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011619"
+categorie: "Milieu"
 soort: "AMvB"
-stam_id: "1417903"
-version_id: "2127612"
-internal_id: "C2127611"
-label_id: "1376214"
-dtd_version: "2.0"
-original_entry_into_force: "2000-10-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011619/2008-06-01/0"
-intitule_bron: "Stb.2000-374"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-08"
-intitule_published: "2000-09-26"
-intitule_in_force: "2000-09-26"
-intitule_status: "goed"
-original_publication: "Stb.2000-374"
-original_signed_date: "2000-09-08"
-original_published_date: "2000-09-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2000-374"
-entry_into_force_date: "2000-10-25"
-jci_1_3: "jci1.3:c:BWBR0011619&z=2008-06-01&g=2008-06-01"
-jci_1_0: "1.0:c:BWBR0011619&g=2008-06-01"
-citeertitel_status: "officieel"
-short_title: "Besluit asbestwegen milieubeheer"
-signed_date: "2000-09-08"
-entry_into_force: "2000-10-25"
+publicatiedatum: 2000-10-25
+laatste_update: 2008-06-01
+status: geldig
+toestand: 2008-06-01
+bron: "https://wetten.overheid.nl/BWBR0011619"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 8 september 2000, houdende regels voor wegen waarin asbestbevattend materiaal is verwerkt (Besluit asbestwegen Wms)
-
-Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 29 mei 2000, nr. MJZ 2000059247, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
-
-Gelet op [artikel 24 van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24);
-
-De Raad van State gehoord (advies van 3 augustus 2000, nr. W08.0220/V);
-
-Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 5 september 2000, nr. MJZ2000106793, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
@@ -112,6 +80,10 @@ Onze Minister kan, zolang aan een asbestbevattende weg als bedoeld in de [artike
 
 #### § 3. Overgangs- en slotbepalingen
 
+##### Artikel 5a
+
+Dit besluit berust op [artikel 9.2.2.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
+
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
@@ -119,11 +91,3 @@ Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verst
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit asbestwegen milieubeheer.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-Dit besluit berust op [artikel 9.2.2.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

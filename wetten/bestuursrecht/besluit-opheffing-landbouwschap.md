@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 28 september 2000, houdende opheffing van het Landbouwschap"
+citeertitel: "Besluit opheffing Landbouwschap"
 identifier: "BWBR0011674"
-country: "nl"
-rank: "amvb"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011674"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "2904283"
-version_id: "4474012"
-internal_id: "C4474011"
-label_id: "2852264"
-dtd_version: "2.0"
-original_entry_into_force: "2001-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011674/2002-01-01/0"
-intitule_bron: "Stb.2000-411"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-28"
-intitule_published: "2000-10-17"
-intitule_in_force: "2001-02-27"
-intitule_status: "goed"
-original_publication: "Stb.2000-411"
-original_signed_date: "2000-09-28"
-original_published_date: "2000-10-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2000-411"
-entry_into_force_date: "2001-07-01"
-jci_1_3: "jci1.3:c:BWBR0011674&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0011674&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit opheffing Landbouwschap"
-signed_date: "2000-09-28"
-entry_into_force: "2001-07-01"
+publicatiedatum: 2001-07-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0011674"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 28 september 2000, houdende opheffing van het Landbouwschap
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid, van 10 juli 2000, Directie Arbeidsverhoudingen, Nr. AV/A&M/2000/45114, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
-
-Gelet op [artikel XVII van de wet van 24 juni 1992, Stb. 409](https://wetten.overheid.nl/jci1.3:c:BWBR0005572&artikel=XVII), en op [artikel 70 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=70), zoals dat artikel voor de inwerkingtreding van die wet laatstelijk luidde;
-
-De Raad van State gehoord (advies van 10 augustus 2000, nr. W12.00.0289/IV);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 29 augustus 2000, Directie Arbeidsverhoudingen, Nr. AV/A&M/2000/53805, uitgebracht mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -198,7 +166,7 @@ De Raad draagt zorg, in de zin van de [Archiefwet 1995](https://wetten.overheid.
 
 ##### Artikel 14
 
-Het [Instellingsbesluit Landbouwschap](onbekend) wordt ingetrokken.
+Het Instellingsbesluit Landbouwschap wordt ingetrokken.
 
 ##### Artikel 15
 
@@ -207,33 +175,3 @@ Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepal
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit opheffing Landbouwschap.
-
-## Bijlage. bij het Besluit opheffing Landbouwschap
-
-| Hoofdproductschap Akkerbouw |   |
-| --- | --- |
-| akkerbouw (inclusief maïs, zaai-uien en landbouwambachten | 13,93% |
-|   |   |
-| Productschap Tuinbouw |   |
-| groenten onder glas | 10,70% |
-| bloemen onder glas | 19,20% |
-| groenten volle grond | 3,36% |
-| fruit (inclusief aardbeien) | 3,90% |
-| champignons | 1,66% |
-|   |   |
-| Productschap Pluimvee en Eieren |   |
-| pluimvee | 2,96% |
-| edelpelsdieren | 0,34% |
-|   |   |
-| Productschap Vee en Vlees |   |
-| roodvlees | 1,32% |
-| schapen | 0,39% |
-| varkens | 9,83% |
-| vleeskalveren | 1,14% |
-| paarden | 1,98% |
-| geiten | 0,11% |
-|   |   |
-| Produktschap voor Zuivel |   |
-| melkvee | 29,18% |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende bijlage en nota van toelichting in het Staatsblad zal worden geplaatst.

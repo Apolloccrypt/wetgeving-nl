@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 6 februari 2001, houdende vaststelling van de regels rond het recht op militair arbeidsongeschiktheids- of invaliditeitspensioen voor het bereiken van de leeftijd van 65 jaar (Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen)"
+citeertitel: "Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen"
 identifier: "BWBR0012223"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012223"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "1566183"
-version_id: "2321552"
-internal_id: "C2321551"
-label_id: "1521854"
-dtd_version: "2.0"
-original_entry_into_force: "2001-03-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012223/2023-01-01/0"
-intitule_bron: "Stb.2001-140"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-02-06"
-intitule_published: "2001-03-29"
-intitule_in_force: "2001-03-29"
-intitule_status: "goed"
-original_publication: "Stb.2001-140"
-original_signed_date: "2001-02-06"
-original_published_date: "2001-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-140"
-entry_into_force_date: "2001-03-30"
-jci_1_3: "jci1.3:c:BWBR0012223&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0012223&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen"
-signed_date: "2001-02-06"
-entry_into_force: "2001-03-30"
+publicatiedatum: 2001-03-30
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0012223"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 6 februari 2001, houdende vaststelling van de regels rond het recht op militair arbeidsongeschiktheids- of invaliditeitspensioen voor het bereiken van de leeftijd van 65 jaar (Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen)
-
-Op de voordracht van de Staatssecretaris van Defensie van 19 februari 1999, nr. P/99000777;
-
-Gelet op [artikel 2, vijfde lid, van de Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2);
-
-De Raad van State gehoord (advies van 27 april 1999, No. W07.99.0082/II);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 1 februari 2001, nr. P/2001000559;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -64,9 +32,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. berekeningsgrondslag:
 
-- 1e. voor de beroepsmilitair: voor zover daarover de verplichting tot premieafdracht in de zin van het pensioenreglement heeft bestaan, de som van de militaire inkomsten uit het jaar voorafgaande aan zijn ontslag;
+   - 1e voor de beroepsmilitair: voor zover daarover de verplichting tot premieafdracht in de zin van het pensioenreglement heeft bestaan, de som van de militaire inkomsten uit het jaar voorafgaande aan zijn ontslag;
 
-- 2e. voor de reservist en dienstplichtige: het bedrag van de inkomsten die hij in het jaar voorafgaande aan het einde van zijn werkelijke dienst uit hoofde van zijn beroep of bedrijf zou hebben kunnen genieten indien hij niet in werkelijke dienst zou zijn geweest;
+   - 2e voor de reservist en dienstplichtige: het bedrag van de inkomsten die hij in het jaar voorafgaande aan het einde van zijn werkelijke dienst uit hoofde van zijn beroep of bedrijf zou hebben kunnen genieten indien hij niet in werkelijke dienst zou zijn geweest;
 
 - g. suppletieregeling: de [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0008977);
 
@@ -194,11 +162,11 @@ De som van het arbeidsongeschiktheidspensioen, het invaliditeitspensioen, de sup
 
 4. De berekeningsgrondslag voor het invaliditeitspensioen bedraagt niet minder dan € 17 034,25.
 
-5. Het recht op een invaliditeitspensioen bestaat niet gedurende de periode dat aanspraak bestaat op de Inkomensvoorziening in verband met zorg ingevolge [hoofdstuk 5 van het Veteranenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5).
+5. Het recht op een invaliditeitspensioen bestaat niet gedurende de periode dat aanspraak bestaat op de Inkomensvoorziening in verband met zorg ingevolge [hoofdstuk 5 van het Veteranenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5).
 
 ##### Artikel 8. De bijzondere invaliditeitsverhoging
 
-1. De beroepsmilitair met een recht op invaliditeitspensioen wiens ontslag heeft plaatsgevonden vóór 1 juli 2007 heeft recht op een bijzondere invaliditeitsverhoging van:
+1. De beroepsmilitair met een recht op invaliditeitspensioen wiens ontslag heeft plaatsgevonden vóór 1 juli 2007 heeft recht op een bijzondere invaliditeitsverhoging van:
 
 - a. 40 procent van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2023-01-01&g=2023-01-01) bedoelde berekeningsgrondslag indien de mate van invaliditeit met dienstverband waaraan.
 
@@ -214,7 +182,7 @@ De som van het arbeidsongeschiktheidspensioen, het invaliditeitspensioen, de sup
 
 en daling van die percentages voor de toekomst niet aannemelijk wordt geacht.
 
-De beroepsmilitair met een recht op een invaliditeitspensioen wiens ontslag heeft plaatsgevonden op of na 1 juli 2007 heeft recht op een bijzondere invaliditeitsverhoging van:
+De beroepsmilitair met een recht op een invaliditeitspensioen wiens ontslag heeft plaatsgevonden op of na 1 juli 2007 heeft recht op een bijzondere invaliditeitsverhoging van:
 
 - a. 40 procent van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2023-01-01&g=2023-01-01) bedoelde berekeningsgrondslag indien de mate van invaliditeit met dienstverband waaraan dat recht op pensioen wordt ontleend 100 procent bedraagt,
 
@@ -267,6 +235,18 @@ bedraagt de bijzondere invaliditeitsverhoging niet minder dan 40 procent van de 
 5. Indien de invaliditeit met dienstverband bestaat uit meerdere van de in het tweede en derde lid omschreven omstandigheden, bedraagt de bijzondere invaliditeitsverhoging niet meer dan 40 procent van de in het eerste lid bedoelde berekeningsgrondslag.
 
 6. Dit artikel is van overeenkomstige toepassing op de beroepsmilitair die ondanks ongeschiktheid in militaire dienst wordt gehandhaafd. De bijzondere invaliditeitsverhoging wordt in dat geval, vanaf het moment dat tot handhaving wordt besloten, vastgesteld aan de hand van het pensioengevend inkomen dat over enige betalingstermijn wordt genoten.
+
+##### Artikel 8a. Volledige schadevergoeding
+
+1. De beroepsmilitair die op of na 1 juli 2007 is ontslagen en bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
+
+2. De beroepsmilitair die voor 1 juli 2007 is ontslagen en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe op of na 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
+
+3. Bij de vaststelling van de omvang van de volledige schadevergoeding wordt rekening gehouden met de aanspraken op grond van de militaire rechtspositie en andere uitkeringen welke in verband staan met de invaliditeit met dienstverband, uitgezonderd de bijzondere invaliditeitsverhoging.
+
+4. De aanspraak op een schadevergoeding ingevolge het eerste of tweede lid, wordt eenmalig vastgesteld en, in afwijking van [artikel 15 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=15&z=2023-01-01&g=2023-01-01), niet meer aangepast.
+
+5. Onze Minister kan nadere voorschriften geven ten aanzien van de uitvoering van dit artikel.
 
 ##### Artikel 9. De herplaatsingstoelage
 
@@ -326,7 +306,19 @@ bij een mate van arbeidsongeschiktheid van:
 
 6. Nadere voorschriften voor de vaststelling van de bij toepassing van dit artikel te hanteren berekeningsgrondslag worden neergelegd in een ministeriële regeling.
 
-7. Het recht op een invaliditeitspensioen bestaat niet gedurende de periode dat aanspraak bestaat op de Inkomensvoorziening in verband met zorg als bedoeld in [hoofdstuk 5 van het Veteranenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5).
+7. Het recht op een invaliditeitspensioen bestaat niet gedurende de periode dat aanspraak bestaat op de Inkomensvoorziening in verband met zorg als bedoeld in [hoofdstuk 5 van het Veteranenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5).
+
+##### Artikel 11a. Volledige schadevergoeding
+
+1. De reservist die op of na 1 juli 2007 is ontslagen of de dienstplichtige wiens dienstplicht op of na 1 juli 2007 is geëindigd en bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
+
+2. De reservist die voor 1 juli 2007 is ontslagen of de dienstplichtige wiens dienstplicht op of na 1 juli 2007 is geëindigd en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe op of na 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
+
+3. Bij de vaststelling van de omvang van de volledige schadevergoeding wordt rekening gehouden met de aanspraken op grond van de militaire rechtspositie en andere uitkeringen welke in verband staan met de invaliditeit met dienstverband, uitgezonderd de bijzondere invaliditeitsverhoging.
+
+4. De aanspraak op een schadevergoeding ingevolge het eerste en tweede lid, wordt eenmalig vastgesteld en, in afwijking [artikel 15 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=15&z=2023-01-01&g=2023-01-01), niet meer aangepast.
+
+5. Onze Minister kan nadere voorschriften geven ten aanzien van de uitvoering van dit artikel.
 
 #### Paragraaf 4. Gemeenschappelijke bepalingen
 
@@ -334,11 +326,11 @@ bij een mate van arbeidsongeschiktheid van:
 
 1. Op het bedrag van het krachtens de voorgaande artikelen te berekenen pensioenen bestaat recht op een toeslag van:
 
-- a. 15 procent van het totaalbedrag indien de te hanteren berekeningsgrondslag betrekking heeft op een tijdvak voor 1 januari 1986;
+- a. 15 procent van het totaalbedrag indien de te hanteren berekeningsgrondslag betrekking heeft op een tijdvak voor 1 januari 1986;
 
-- b. 4,5 procent van het totaalbedrag indien de te hanteren berekeningsgrondslag betrekking heeft op een tijdvak gelegen tussen 31 december 1985 en 1 januari 1995, en
+- b. 4,5 procent van het totaalbedrag indien de te hanteren berekeningsgrondslag betrekking heeft op een tijdvak gelegen tussen 31 december 1985 en 1 januari 1995, en
 
-- c. voor zolang er recht bestaat op een invaliditeitspensioen, 4,5 procent van het totaalbedrag indien de te hanteren berekeningsgrondslag betrekking heeft op een tijdvak na 31 december 1994.
+- c. voor zolang er recht bestaat op een invaliditeitspensioen, 4,5 procent van het totaalbedrag indien de te hanteren berekeningsgrondslag betrekking heeft op een tijdvak na 31 december 1994.
 
 2. De in het eerste lid bedoelde toeslag bedraagt ten hoogste 4,5 procent van € 37 571,59 onderscheidenlijk 15 procent van € 32 812,76.
 
@@ -390,7 +382,7 @@ bij een mate van arbeidsongeschiktheid van:
 
 3. Indien de vermiste militair, wiens aanspraken op grond van het tweede lid zijn beëindigd, in leven blijkt te zijn, herleven die aanspraken met ingang van een door Onze Minister te bepalen dag.
 
-4. In afwijking van het eerste lid, eindigen de pensioenen en verhogingen op grond van dit besluit uiterlijk op de dag waarop de rechthebbende de leeftijd van 65 jaar bereikt indien aan de rechthebbende voor 1 januari 2017 ontslag is verleend of indien de rechthebbende een militair is die een aanvraag heeft ingediend als bedoeld in [artikel 39a, eerste tot en met vierde lid van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a).
+4. In afwijking van het eerste lid, eindigen de pensioenen en verhogingen op grond van dit besluit uiterlijk op de dag waarop de rechthebbende de leeftijd van 65 jaar bereikt indien aan de rechthebbende voor 1 januari 2017 ontslag is verleend of indien de rechthebbende een militair is die een aanvraag heeft ingediend als bedoeld in [artikel 39a, eerste tot en met vierde lid van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a).
 
 ##### Artikel 17. Betaling
 
@@ -404,11 +396,11 @@ De betaling van de pensioenen, toeslagen, verhogingen en toelagen geschiedt in m
 
 2. Vanaf de dag waarop het in het eerste lid bedoelde recht in verband met de intrekking van de desbetreffende bepalingen vervalt, wordt aan de gewezen militair een pensioen krachtens dit besluit toegekend. Daarbij wordt:
 
-- 1e. gebruik gemaakt van de laatstelijk onder de werking van de in het eerste lid bedoelde wetten vastgestelde mate van arbeidsongeschiktheid, arbeidsongeschiktheid met dienstverband en invaliditeit met dienstverband;
+- 1e gebruik gemaakt van de laatstelijk onder de werking van de in het eerste lid bedoelde wetten vastgestelde mate van arbeidsongeschiktheid, arbeidsongeschiktheid met dienstverband en invaliditeit met dienstverband;
 
-- 2e. als berekeningsgrondslag voor het invaliditeitspensioen aangemerkt de pensioen- of berekeningsgrondslag die onder de werking van de in het eerste lid bedoelde wetten is of zou zijn gehanteerd;
+- 2e als berekeningsgrondslag voor het invaliditeitspensioen aangemerkt de pensioen- of berekeningsgrondslag die onder de werking van de in het eerste lid bedoelde wetten is of zou zijn gehanteerd;
 
-- 3e. als berekeningsgrondslag voor het naar diensttijd te berekenen garantiepensioen de pensioengrondslag gehanteerd die terzake onder de werking van de in het eerste lid bedoelde wetten is vastgesteld.
+- 3e als berekeningsgrondslag voor het naar diensttijd te berekenen garantiepensioen de pensioengrondslag gehanteerd die terzake onder de werking van de in het eerste lid bedoelde wetten is vastgesteld.
 
 ##### Artikel 19. Afwijkende regels
 
@@ -416,25 +408,25 @@ De betaling van de pensioenen, toeslagen, verhogingen en toelagen geschiedt in m
 
 2. Bij de toepassing van dit besluit gelden de volgende afwijkende regels.
 
-- 1e. Indien de aan het pensioenrecht ten grondslag liggende verwonding, ziekten of gebreken voor 1 januari 1998 zijn ontstaan, wordt de vraag naar het verband met de militaire dienst uitsluitend beantwoord naar hetgeen daarvoor geldt op de peildatum.
+- 1e Indien de aan het pensioenrecht ten grondslag liggende verwonding, ziekten of gebreken voor 1 januari 1998 zijn ontstaan, wordt de vraag naar het verband met de militaire dienst uitsluitend beantwoord naar hetgeen daarvoor geldt op de peildatum.
 
-- 2e. Indien het recht op een bijzondere invaliditeitsverhoging wordt ontleend aan een met een voor 1 januari 1998 liggend ontslag afgesloten periode van militaire dienst, wordt dat recht uitsluitend getoetst naar hetgeen daarvoor geldt op de peildatum.
+- 2e Indien het recht op een bijzondere invaliditeitsverhoging wordt ontleend aan een met een voor 1 januari 1998 liggend ontslag afgesloten periode van militaire dienst, wordt dat recht uitsluitend getoetst naar hetgeen daarvoor geldt op de peildatum.
 
-- 3e. Indien het recht op pensioen van de dienstplichtige of reservist wordt ontleend aan een periode van werkelijke dienst die is afgesloten met een voor 1 januari 1998 liggend ontslag, wordt [artikel 11, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=11&z=2023-01-01&g=2023-01-01), en [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=12&z=2023-01-01&g=2023-01-01), buiten toepassing gelaten.
+- 3e Indien het recht op pensioen van de dienstplichtige of reservist wordt ontleend aan een periode van werkelijke dienst die is afgesloten met een voor 1 januari 1998 liggend ontslag, wordt [artikel 11, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=11&z=2023-01-01&g=2023-01-01), en [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=12&z=2023-01-01&g=2023-01-01), buiten toepassing gelaten.
 
-- 4e. Indien het recht op pensioen wordt ontleend aan een met een voor 1 januari 1998 liggend ontslag afgesloten periode van militaire dienst, wordt [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), buiten toepassing gelaten en wordt de vraag of op het pensioen moet worden gekort uitsluitend, rekening houdend met het bij die artikelen behorende overgangsrecht, getoetst naar hetgeen daarvoor geldt op de peildatum.
+- 4e Indien het recht op pensioen wordt ontleend aan een met een voor 1 januari 1998 liggend ontslag afgesloten periode van militaire dienst, wordt [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), buiten toepassing gelaten en wordt de vraag of op het pensioen moet worden gekort uitsluitend, rekening houdend met het bij die artikelen behorende overgangsrecht, getoetst naar hetgeen daarvoor geldt op de peildatum.
 
-- 5e. Indien aan de gewezen militair een vast pensioenbedrag is toegekend, bedoeld in de artikelen E 3 en E 4 van de Algemene militaire pensioenwet, zoals die artikelen daags voor intrekking luidden, wordt dat pensioen naar dezelfde normen en voorwaarden opnieuw toegekend, en, waar mogelijk, op het krachtens dit besluit toe te kennen invaliditeitspensioen in mindering gebracht.
+- 5e Indien aan de gewezen militair een vast pensioenbedrag is toegekend, bedoeld in de artikelen E 3 en E 4 van de Algemene militaire pensioenwet, zoals die artikelen daags voor intrekking luidden, wordt dat pensioen naar dezelfde normen en voorwaarden opnieuw toegekend, en, waar mogelijk, op het krachtens dit besluit toe te kennen invaliditeitspensioen in mindering gebracht.
 
-- 6e. Indien aan de gewezen dienstplichtige of reservist in verband met een ontslag ter zake van ziekten of gebreken een naar diensttijd te berekenen pensioen was toegekend, wordt dat pensioen naar dezelfde normen en voorwaarden opnieuw toegekend, en, waar mogelijk, op het krachtens dit besluit toe te kennen invaliditeitspensioen in mindering gebracht.
+- 6e Indien aan de gewezen dienstplichtige of reservist in verband met een ontslag ter zake van ziekten of gebreken een naar diensttijd te berekenen pensioen was toegekend, wordt dat pensioen naar dezelfde normen en voorwaarden opnieuw toegekend, en, waar mogelijk, op het krachtens dit besluit toe te kennen invaliditeitspensioen in mindering gebracht.
 
-- 7e. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=10&z=2023-01-01&g=2023-01-01) wordt buiten toepassing gelaten indien de daar bedoelde dienstplichtige of reservist voor 1 januari 1998 als zodanig is ontslagen.
+- 7e [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=10&z=2023-01-01&g=2023-01-01) wordt buiten toepassing gelaten indien de daar bedoelde dienstplichtige of reservist voor 1 januari 1998 als zodanig is ontslagen.
 
-- 8e. De vast te stellen mate van invaliditeit met dienstverband die wordt ontleend aan een periode van werkelijke die voor 1 januari 1966 met een ontslag is beëindigd, wordt naar boven afgerond op veelvouden van 10.
+- 8e De vast te stellen mate van invaliditeit met dienstverband die wordt ontleend aan een periode van werkelijke die voor 1 januari 1966 met een ontslag is beëindigd, wordt naar boven afgerond op veelvouden van 10.
 
-- 9e. De invaliditeit met dienstverband, vastgesteld krachtens een in artikel A 1, onder j, van de Algemene militaire pensioenwet genoemde vroegere militaire pensioenwet, zoals deze op de peildatum luidde en behorende bij een levenslang toegekend invaliditeitspensioen, wordt alleen op aanvraag van de belanghebbende en alleen in diens voordeel herzien.
+- 9e De invaliditeit met dienstverband, vastgesteld krachtens een in artikel A 1, onder j, van de Algemene militaire pensioenwet genoemde vroegere militaire pensioenwet, zoals deze op de peildatum luidde en behorende bij een levenslang toegekend invaliditeitspensioen, wordt alleen op aanvraag van de belanghebbende en alleen in diens voordeel herzien.
 
-- 10e. De toeslag, bedoeld in [artikel 74, vijfde lid, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=74), wordt onder de daar aangegeven voorwaarden voortgezet.
+- 10e De toeslag, bedoeld in [artikel 74, vijfde lid, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=74), wordt onder de daar aangegeven voorwaarden voortgezet.
 
 ##### Artikel 20. Garantietoeslag
 
@@ -447,6 +439,30 @@ De betaling van de pensioenen, toeslagen, verhogingen en toelagen geschiedt in m
 ##### Artikel 21. Voorzieningen en verstrekkingen
 
 In aanvulling op de bij of krachtens de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) gestelde regels, kan Onze Minister ten behoeve van de beroepsmilitair, de dienstplichtige, de reservist en de militair met een recht of uitzicht op pensioen krachtens dit besluit, die lijdt aan een ziekte of gebrek waarvoor in de zin van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde militairen dan wel gewezen militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen tot behoud of herstel van de arbeidsgeschiktheid of die de arbeidsgeschiktheid bevorderen, voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden.
+
+##### Artikel 21a. Bijzondere uitkering
+
+1. De gewezen militair die voor 1 juli 2007 is ontslagen en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe voor 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld, heeft aanspraak op een eenmalige bijzondere uitkering.
+
+2. Het bedrag van de bijzondere uitkering is gelijk aan een percentage van de grondslag overeenkomend met de mate van invaliditeit.
+
+3. Een mate van invaliditeit van minder dan 10% wordt voor de toekenning van de bijzondere uitkering afgerond op 5%.
+
+4. In afwijking van het tweede en derde lid is het bedrag van de bijzondere uitkering gelijk aan een percentage van de grondslag overeenkomend met de mate van arbeidsongeschiktheid met dienstverband indien deze hoger is dan de mate van invaliditeit met dienstverband.
+
+5. Voor de vaststelling van de bijzondere uitkering wordt de definitieve mate van invaliditeit of de mate van arbeidsongeschiktheid met dienstverband gehanteerd op de peildatum, 1 juni 2012. Indien er op het moment van de peildatum nog geen definitieve mate van invaliditeit is vastgesteld, dan wordt de bijzondere uitkering vastgesteld nadat, vanwege het bereiken van een medische eindtoestand, de definitieve mate van invaliditeit is vastgesteld.
+
+6. De bijzondere uitkering wordt eenmalig vastgesteld. In afwijking van [artikel 15 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=15&z=2023-01-01&g=2023-01-01) leidt een latere wijziging in de mate van invaliditeit of arbeidsongeschiktheid met dienstverband niet tot aanpassing van de bijzondere uitkering.
+
+7. In voorkomend geval wordt de mate van arbeidsongeschiktheid met dienstverband bepaald op het hoogste percentage van de toepasselijke arbeidsongeschiktheidsklasse als bedoeld in [artikel 21 tweede lid van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21).
+
+8. De grondslag van de bijzondere uitkering is € 125.000,–.
+
+9. In afwijking van artikel 17 wordt de bijzondere uitkering in een keer uitbetaald.
+
+10. In het geval dat de gewezen militair een schadevergoeding heeft ontvangen voor zijn invaliditeit met dienstverband als bedoeld in het eerste lid bedraagt de bijzondere uitkering slechts het meerdere boven het totaal van de reeds ontvangen materiële schadevergoeding.
+
+11. De over de bijzondere uitkering verschuldigde belasting ingevolge de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) en premie voor de volksverzekeringen ingevolge de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) komen ten laste van het Rijk.
 
 #### Paragraaf 7. Slotbepalingen
 
@@ -461,67 +477,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 24. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a. Volledige schadevergoeding
-
-1. De beroepsmilitair die op of na 1 juli 2007 is ontslagen en bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
-
-2. De beroepsmilitair die voor 1 juli 2007 is ontslagen en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe op of na 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
-
-3. Bij de vaststelling van de omvang van de volledige schadevergoeding wordt rekening gehouden met de aanspraken op grond van de militaire rechtspositie en andere uitkeringen welke in verband staan met de invaliditeit met dienstverband, uitgezonderd de bijzondere invaliditeitsverhoging.
-
-4. De aanspraak op een schadevergoeding ingevolge het eerste of tweede lid, wordt eenmalig vastgesteld en, in afwijking van [artikel 15 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=15&z=2023-01-01&g=2023-01-01), niet meer aangepast.
-
-5. Onze Minister kan nadere voorschriften geven ten aanzien van de uitvoering van dit artikel.
-
-#### Paragraaf 3. Aanspraken voor de dienstplichtige en reservist
-
-##### Artikel 11a. Volledige schadevergoeding
-
-1. De reservist die op of na 1 juli 2007 is ontslagen of de dienstplichtige wiens dienstplicht op of na 1 juli 2007 is geëindigd en bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
-
-2. De reservist die voor 1 juli 2007 is ontslagen of de dienstplichtige wiens dienstplicht op of na 1 juli 2007 is geëindigd en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe op of na 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
-
-3. Bij de vaststelling van de omvang van de volledige schadevergoeding wordt rekening gehouden met de aanspraken op grond van de militaire rechtspositie en andere uitkeringen welke in verband staan met de invaliditeit met dienstverband, uitgezonderd de bijzondere invaliditeitsverhoging.
-
-4. De aanspraak op een schadevergoeding ingevolge het eerste en tweede lid, wordt eenmalig vastgesteld en, in afwijking [artikel 15 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=15&z=2023-01-01&g=2023-01-01), niet meer aangepast.
-
-5. Onze Minister kan nadere voorschriften geven ten aanzien van de uitvoering van dit artikel.
-
-#### Paragraaf 4. Gemeenschappelijke bepalingen
-
-#### Paragraaf 5. Overgangsbepalingen
-
-#### Paragraaf 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 21a. Bijzondere uitkering
-
-1. De gewezen militair die voor 1 juli 2007 is ontslagen en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe voor 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld, heeft aanspraak op een eenmalige bijzondere uitkering.
-
-2. Het bedrag van de bijzondere uitkering is gelijk aan een percentage van de grondslag overeenkomend met de mate van invaliditeit.
-
-3. Een mate van invaliditeit van minder dan 10% wordt voor de toekenning van de bijzondere uitkering afgerond op 5%.
-
-4. In afwijking van het tweede en derde lid is het bedrag van de bijzondere uitkering gelijk aan een percentage van de grondslag overeenkomend met de mate van arbeidsongeschiktheid met dienstverband indien deze hoger is dan de mate van invaliditeit met dienstverband.
-
-5. Voor de vaststelling van de bijzondere uitkering wordt de definitieve mate van invaliditeit of de mate van arbeidsongeschiktheid met dienstverband gehanteerd op de peildatum, 1 juni 2012. Indien er op het moment van de peildatum nog geen definitieve mate van invaliditeit is vastgesteld, dan wordt de bijzondere uitkering vastgesteld nadat, vanwege het bereiken van een medische eindtoestand, de definitieve mate van invaliditeit is vastgesteld.
-
-6. De bijzondere uitkering wordt eenmalig vastgesteld. In afwijking van [artikel 15 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=15&z=2023-01-01&g=2023-01-01) leidt een latere wijziging in de mate van invaliditeit of arbeidsongeschiktheid met dienstverband niet tot aanpassing van de bijzondere uitkering.
-
-7. In voorkomend geval wordt de mate van arbeidsongeschiktheid met dienstverband bepaald op het hoogste percentage van de toepasselijke arbeidsongeschiktheidsklasse als bedoeld in [artikel 21 tweede lid van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21).
-
-8. De grondslag van de bijzondere uitkering is € 125.000,–.
-
-9. In afwijking van artikel 17 wordt de bijzondere uitkering in een keer uitbetaald.
-
-10. In het geval dat de gewezen militair een schadevergoeding heeft ontvangen voor zijn invaliditeit met dienstverband als bedoeld in het eerste lid bedraagt de bijzondere uitkering slechts het meerdere boven het totaal van de reeds ontvangen materiële schadevergoeding.
-
-11. De over de bijzondere uitkering verschuldigde belasting ingevolge de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) en premie voor de volksverzekeringen ingevolge de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) komen ten laste van het Rijk.
-
-#### Paragraaf 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

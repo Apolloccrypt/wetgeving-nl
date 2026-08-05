@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-28
 toestand: 2026-02-24
 bron: "https://wetten.overheid.nl/BWBR0051576"
-opgehaald: 2026-08-04
+opgehaald: 2026-08-05
 ---
 
 # Mandaatbesluit VRO 2025

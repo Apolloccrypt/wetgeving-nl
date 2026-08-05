@@ -1,50 +1,17 @@
 ---
 title: "Verordening beroeps- en gedragsregels"
 identifier: "BWBR0011435"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-02-17"
-last_updated: "2011-02-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011435"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6832793"
-version_id: "11713862"
-internal_id: "C15789971"
-label_id: "6821524"
-dtd_version: "2.0"
-original_entry_into_force: "2000-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011435/2011-02-17/0"
-intitule_bron: "Stcrt.2000-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-06-21"
-intitule_published: "2000-09-20"
-intitule_in_force: "2000-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-182"
-original_signed_date: "2000-06-21"
-original_published_date: "2000-09-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-10-01"
-jci_1_3: "jci1.3:c:BWBR0011435&z=2011-02-17&g=2011-02-17"
-jci_1_0: "1.0:c:BWBR0011435&g=2011-02-17"
-citeertitel_status: "officieel"
-signed_date: "2000-06-21"
-entry_into_force: "2000-10-01"
+publicatiedatum: 2000-10-01
+laatste_update: 2011-02-17
+status: geldig
+toestand: 2011-02-17
+bron: "https://wetten.overheid.nl/BWBR0011435"
+opgehaald: 2026-08-05
 ---
+
 # Verordening beroeps- en gedragsregels
-
-Overwegende dat het gewenst is beroeps- en gedragsregels vast te stellen;
-
-Gelet op de [artikelen 61 lid 2 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=61);
-
-Gezien het ontwerp van het bestuur met bijbehorende toelichting;
-
-Gelet op de adviezen van de kamers van toezicht;
-
-Gelet op de adviezen van de ringen;
-
-stelt de navolgende verordening vast:
 
 #### Eer en aanzien van het notariaat
 
@@ -92,7 +59,7 @@ De notaris verleent zijn medewerking al dan met neergelegd in een proces-verbaal
 
 ##### Artikel 7
 
-1. Niet gepubliceerd.
+1. *Niet gepubliceerd.*
 
 2. Indien de notaris een ernstig vermoeden heeft van het beramen of plegen van een misdrijf dat een ernstige inbreuk op de rechtsorde oplevert en de notaris bovendien aanwijzingen heeft dat het gaat om een misdrijf beraamd of gepleegd in georganiseerd verband, dan kunnen de eer en het aanzien van het notariaat meebrengen dat de notaris van zijn vermoeden melding maakt. De melding dient te geschieden aan de Centrale Recherche Inlichtingendienst te Den Haag.
 
@@ -142,7 +109,7 @@ De notaris dient er voor te zorgen dat de inrichting en de organisatie van zijn 
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 #### Verzekeringsplicht
 
@@ -238,27 +205,27 @@ De notaris die naar buiten optreedt als partijadviseur maakt jegens derden tijdi
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 #### Notaris en kandidaat-notaris
 

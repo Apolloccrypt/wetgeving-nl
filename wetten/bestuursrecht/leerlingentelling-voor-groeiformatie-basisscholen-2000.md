@@ -1,37 +1,17 @@
 ---
 title: "Leerlingentelling voor groeiformatie basisscholen"
+citeertitel: "Leerlingentelling voor groeiformatie basisscholen (2000)"
 identifier: "BWBR0011402"
-country: "nl"
-rank: "circulaire"
-publication_date: "2000-06-28"
-last_updated: "2000-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011402"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6495593"
-version_id: "11181732"
-internal_id: "C15107451"
-label_id: "6484374"
-original_entry_into_force: "2000-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011402/2000-06-28/0"
-intitule_bron: "Uitleg.2000-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-06-08"
-intitule_published: "2000-06-28"
-intitule_in_force: "2000-06-28"
-intitule_status: "goed"
-original_publication: "Uitleg.2000-18"
-original_signed_date: "2000-06-08"
-original_published_date: "2000-06-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-06-28"
-jci_1_3: "jci1.3:c:BWBR0011402&z=2000-06-28&g=2000-06-28"
-jci_1_0: "1.0:c:BWBR0011402&g=2000-06-28"
-citeertitel_status: "redactioneel"
-short_title: "Leerlingentelling voor groeiformatie basisscholen (2000)"
-signed_date: "2000-06-08"
-entry_into_force: "2000-06-28"
+publicatiedatum: 2000-06-28
+laatste_update: 2000-06-28
+status: geldig
+toestand: 2000-06-28
+bron: "https://wetten.overheid.nl/BWBR0011402"
+opgehaald: 2026-08-05
 ---
+
 # Leerlingentelling voor groeiformatie basisscholen
 
 ### 1. Inleiding
@@ -56,7 +36,7 @@ Als in de periode 1 augustus tot en met 31 maart van het schooljaar het aantal l
 
 Een school heeft recht op groeiformatie als het aantal leerlingen tenminste 13 leerlingen hoger is dan het aantal leerlingen op de teldatum verhoogd met drie procent, welk getal naar beneden wordt afgerond op een geheel getal. Dit betekent dat een school die op de teldatum 200 leerlingen telde, in aanmerking komt voor groeiformatie op het moment dat de school (200 x 1,03 +13=) 219 leerlingen telt. Bij een tweede en volgende toekenning van groeiformatie wordt het nieuwe aantal leerlingen vergeleken met het aantal leerlingen op het vorige groeimoment. Zodra het aantal leerlingen opnieuw met 13 is toegenomen, kan opnieuw groeiformatie aangevraagd worden. Bij de school in dit rekenvoorbeeld is dat dus bij (219 + 13=) 232 leerlingen.
 
-In het geval dat de aanspraak op groeiformatie, in verband met ’groei op de eerste schooldag’, reeds per 1 augustus in moet gaan, kan dat op het telformulier worden aangegeven (zie ook onder punt 3.5).
+In het geval dat de aanspraak op groeiformatie, in verband met ’groei op de eerste schooldag’, reeds per 1 augustus in moet gaan, kan dat op het telformulier worden aangegeven (zie ook onder [punt 3.5](https://wetten.overheid.nl/BWBR0011402)).
 
 ### Bijzondere groeiformatie na 31 maart
 
@@ -68,9 +48,11 @@ De extra groeiformatie, de verhoging van het formatieve deel van de toeslag voor
 
 Voor die scholen, waarvan de formatie is aangevuld met een ’zeer kleine scholen toeslag’ tot een totale formatie van 530 fre’s, wordt de zeer kleine scholen toeslag evenredig verminderd met de berekende groeiformatie.
 
-Voor de leerlingentelling moet gebruik worden gemaakt van het formulier CFI 50074 (zie ook onder punt 4.2). Het telformulier **moet binnen twee weken na de gekozen teldatum worden ingediend.** Doorslaggevend bij de beoordeling of het telformulier tijdig is ingezonden zal de datum van het poststempel zijn of, wanneer een poststempel ontbreekt, de datum van binnenkomst bij Cƒi.
+Voor de leerlingentelling moet gebruik worden gemaakt van het formulier CFI 50074 (zie ook onder [punt 4.2](https://wetten.overheid.nl/BWBR0011402)). Het telformulier *moet binnen twee weken na de gekozen teldatum worden ingediend.* Doorslaggevend bij de beoordeling of het telformulier tijdig is ingezonden zal de datum van het poststempel zijn of, wanneer een poststempel ontbreekt, de datum van binnenkomst bij Cƒi.
 
 Het formulier moet ondertekend worden door het bevoegd gezag en gestuurd worden naar:
+
+- Centrale Financiën Instellingen Team IGP/GGF Postbus 606 2700 ML Zoetermeer.
 
 Indien uw telformulier niet tijdig is ingezonden wordt geen groeiformatie toegekend. Wel kunt u in een dergelijk geval een nieuwe telling houden. Hiervoor gelden dezelfde voorwaarden. Binnen 14 dagen vanaf deze nieuwe teldatum dient de telling bij Cfi te zijn ingediend. Wanneer hierdoor de teldatum in een nieuwe maand komt te vallen, derft de school inkomsten: de aanspraak op de groeiformatie gaat immers pas een maand later in.
 
@@ -102,10 +84,22 @@ Leidt de toename van het aantal leerlingen echter niet tot verhoging van de form
 
 Op het formulier aankruisen waar de aanvraag betrekking op heeft:
 
+- groei eerste schooldag van het schooljaar;
+
+- groei in de periode 1 augustus tot en met 31 maart van het schooljaar;
+
+- groei in de periode 1 april tot en met 31 mei van het schooljaar.
+
 ### Teldatum
 
 De door de school gekozen teldatum invullen. Ingeval het groei eerste schooldag betreft dient de teldatum de (officiële) eerste schooldag van de regio te zijn:
 
+- Aantal leerlingen op de teldatum. Het totaal aantal leerlingen dat op de gekozen teldatum op de school was ingeschreven invullen.
+
+- Aantal leerlingen op 31 maart. Alleen indien de aanvraag bijzondere groei in de periode 1 april tot en met 31 mei betreft, moet het aantal leerlingen dat op 31 maart van het betreffende schooljaar op de school was ingeschreven worden ingevuld.
+
 ### 4.2. Bestellen
 
 Het formulier dat voor de groeitelling moet worden gebruikt heeft het formuliernummer CFI 50074 en is, door middel van een plaketiket, aan te vragen bij:
+
+- Centrale Financiën Instellingen Team IGP/GVZ Postbus 606 2700 ML Zoetermeer.

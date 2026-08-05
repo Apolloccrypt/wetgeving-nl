@@ -1,46 +1,81 @@
 ---
 title: "Subsidieregeling openbare inland terminals"
 identifier: "BWBR0011721"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011721"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4672003"
-version_id: "6488452"
-internal_id: "C6736591"
-label_id: "4650424"
-dtd_version: "2.0"
-original_entry_into_force: "2000-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011721/2002-01-01/0"
-intitule_bron: "Stcrt.2000-210"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-10-20"
-intitule_published: "2000-10-30"
-intitule_in_force: "2000-10-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-210"
-original_signed_date: "2000-10-20"
-original_published_date: "2000-10-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-11-01"
-jci_1_3: "jci1.3:c:BWBR0011721&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0011721&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "2000-10-20"
-entry_into_force: "2000-11-01"
+publicatiedatum: 2000-11-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0011721"
+opgehaald: 2026-08-05
 ---
+
 # Subsidieregeling openbare inland terminals
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4),
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+Minister:
+
+Minister van Verkeer en Waterstaat;
+
+b.
+
+overslagterminal:
+
+samenhangend geheel van op Nederlands grondgebied gelegen voorzieningen die hoofdzakelijk zijn bestemd en worden gebruikt voor de overslag van goederen van de ene naar een andere vervoersmodaliteit;
+
+c.
+
+intermodaal vervoer:
+
+vervoer van goederen in één en dezelfde laadeenheid door middel van meer dan één vervoersmodaliteit;
+
+d.
+
+multimodaal vervoer:
+
+vervoer van goederen door middel van meer dan één vervoersmodaliteit;
+
+e.
+
+private rechtspersoon:
+
+een rechtspersoon die in Nederland is gevestigd of in Nederland een nevenvestiging heeft in de zin van [artikel 3, eerste lid, van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=3), met dien verstande dat de beslissende zeggenschap over die rechtspersoon, alsmede het uiteindelijk gerechtigd zijn tot de inkomsten berust bij particuliere personen, onderscheidenlijk bij andere rechtspersonen dan een overheidslichaam als bedoeld in artikel 1, eerste en tweede lid, van Boek 2 van het Burgerlijk Wetboek;
+
+f.
+
+overslagbedrijf:
+
+private rechtspersoon die activiteiten verricht of twee of meer private rechtspersonen die activiteiten verrichten, welke activiteiten geheel of gedeeltelijk bestaan of zullen bestaan uit het exploiteren of doen exploiteren van één of meer overslagterminals;
+
+g.
+
+project:
+
+het investeringsproject waarop de subsidie-aanvraag betrekking heeft;
+
+h.
+
+initiële investeringen:
+
+investeringen die betrekking hebben op de realisering van een nieuwe overslagterminal voorzover die noodzakelijk zijn om de terminal te laten functioneren;
+
+i.
+
+uitbreidingsinvesteringen:
+
+investeringen die betrekking hebben op de uitbreiding van de capaciteit van bestaande overslagterminals tot het door de aanvrager gewenste en met intentieverklaringen onderbouwde niveau;
+
+j.
+
+subsidie:
+
+subsidie voor een investering, bedoeld in [artikel 2 van het Besluit Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006264&artikel=2).
 
 ##### Artikel 2
 
@@ -136,21 +171,21 @@ In deze regeling wordt verstaan onder:
 
 - b. een bedrijfsplan, dat in elk geval de volgende onderdelen bevat:
 
-- (i). tekeningen van het project en de ruimtelijke situatie van de plaats waar het project wordt uitgevoerd, waarbij de mogelijkheden tot uitbreiding en de ontsluiting zijn aangegeven;
+   - (i) tekeningen van het project en de ruimtelijke situatie van de plaats waar het project wordt uitgevoerd, waarbij de mogelijkheden tot uitbreiding en de ontsluiting zijn aangegeven;
 
-- (ii). een marktanalyse, waarin in elk geval is opgenomen een raming van de overslagvolumes over de eerste vijf jaren, zoals bedoeld in artikel 2, vierde lid, onderdeel d, onderbouwd met intentieverklaringen van klanten en potentiële klanten;
+   - (ii) een marktanalyse, waarin in elk geval is opgenomen een raming van de overslagvolumes over de eerste vijf jaren, zoals bedoeld in artikel 2, vierde lid, onderdeel d, onderbouwd met intentieverklaringen van klanten en potentiële klanten;
 
-- (iii). een marketingplan waarin een concurrentieanalyse is opgenomen;
+   - (iii) een marketingplan waarin een concurrentieanalyse is opgenomen;
 
-- (iv). een investeringsplan, met inbegrip van een tijdsplanning van de investeringsuitgaven;
+   - (iv) een investeringsplan, met inbegrip van een tijdsplanning van de investeringsuitgaven;
 
-- (v). een financieringsplan;
+   - (v) een financieringsplan;
 
-- (vi). schema's van de ondernemingsstructuur van het overslagbedrijf en, indien dit een andere onderneming is, van de exploitant van de overslagterminal;
+   - (vi) schema's van de ondernemingsstructuur van het overslagbedrijf en, indien dit een andere onderneming is, van de exploitant van de overslagterminal;
 
-- (vii). de exploitatiebegroting, en
+   - (vii) de exploitatiebegroting, en
 
-- (viii). een opgave van de stand van zaken met betrekking tot de voor de uitvoering van het project noodzakelijke wettelijke procedures.
+   - (viii) een opgave van de stand van zaken met betrekking tot de voor de uitvoering van het project noodzakelijke wettelijke procedures.
 
 ##### Artikel 5
 
@@ -241,5 +276,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Subsidieregeling openbare inland terminals.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

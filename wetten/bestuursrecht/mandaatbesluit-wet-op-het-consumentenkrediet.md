@@ -1,50 +1,29 @@
 ---
 title: "Mandaatbesluit Wet op het consumentenkrediet"
 identifier: "BWBR0012499"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-05-31"
-last_updated: "2001-05-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012499"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3961863"
-version_id: "5734992"
-internal_id: "C5937721"
-label_id: "3941904"
-dtd_version: "2.0"
-original_entry_into_force: "2001-05-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012499/2001-05-31/0"
-intitule_bron: "Stcrt.2001-101"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-05-16"
-intitule_published: "2001-05-29"
-intitule_in_force: "2001-05-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-101"
-original_signed_date: "2001-05-16"
-original_published_date: "2001-05-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-05-31"
-jci_1_3: "jci1.3:c:BWBR0012499&z=2001-05-31&g=2001-05-31"
-jci_1_0: "1.0:c:BWBR0012499&g=2001-05-31"
-citeertitel_status: "officieel"
-signed_date: "2001-05-16"
-entry_into_force: "2001-05-31"
+publicatiedatum: 2001-05-31
+laatste_update: 2001-05-31
+status: geldig
+toestand: 2001-05-31
+bron: "https://wetten.overheid.nl/BWBR0012499"
+opgehaald: 2026-08-05
 ---
+
 # Mandaatbesluit Wet op het consumentenkrediet
-
-Gelet op [artikel 10:3 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Gelet op het [koninklijk besluit van 11 mei 2001 waarbij de Minister van Financiën belast wordt met de zorg voor het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0012484), met uitzondering van schuldbemiddeling;
-
-Gezien [artikel 10:4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en de schriftelijke instemming van De Nederlandsche Bank N.V. van 3 mei 2001, kenmerk Tz-Bbwc/2001/01395/hun,
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+de Minister:
+
+de Minister van Financiën;
+
+de Bank:
+
+De Nederlandsche Bank N.V..
 
 ##### Artikel 2
 

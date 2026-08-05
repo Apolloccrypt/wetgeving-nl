@@ -1,44 +1,18 @@
 ---
 title: "Verordening van het Productschap Tuinbouw van 3 juli 2001, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2002 (Verordening PT algemene heffing handel groenten en fruit 2002)"
+citeertitel: "Verordening PT algemene heffing handel groenten en fruit 2002"
 identifier: "BWBR0012632"
-country: "nl"
-rank: "pbo"
-publication_date: "2003-04-19"
-last_updated: "2003-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012632"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6896703"
-version_id: "11778072"
-internal_id: "C29855371"
-label_id: "6884904"
-original_entry_into_force: "2003-04-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012632/2003-04-19/0"
-intitule_bron: "Vbbo.2001-43"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-03"
-intitule_published: "2001-10-05"
-intitule_in_force: "2001-10-05"
-intitule_status: "goed"
-original_publication: "Vbbo.2003-26"
-original_signed_date: "2002-07-03"
-original_published_date: "2003-04-18"
-original_effect: "structuurwijziging"
-entry_into_force_date: "2003-04-19"
-jci_1_3: "jci1.3:c:BWBR0012632&z=2003-04-19&g=2003-04-19"
-jci_1_0: "1.0:c:BWBR0012632&g=2003-04-19"
-citeertitel_status: "officieel"
-short_title: "Verordening PT algemene heffing handel groenten en fruit 2002"
-signed_date: "2002-07-03"
-entry_into_force: "2003-04-19"
+publicatiedatum: 2003-04-19
+laatste_update: 2003-04-19
+status: geldig
+toestand: 2003-04-19
+bron: "https://wetten.overheid.nl/BWBR0012632"
+opgehaald: 2026-08-05
 ---
+
 # Verordening van het Productschap Tuinbouw van 3 juli 2001, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2002 (Verordening PT algemene heffing handel groenten en fruit 2002)
-
-Op voorstel van de Sectorcommissie voor groenten en fruit;
-
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en op de [artikelen 14](onbekend), [15](onbekend) en [19 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -56,9 +30,9 @@ Besluit:
 
 - e. de ondernemer: de natuurlijke of rechtspersoon die een onderneming drijft waarin de handel wordt uitgeoefend in de verse of bewerkte producten:
 
-- 1°. fruit, met uitzondering van slaggrondnoten en kopra;
+   - 1°. fruit, met uitzondering van slaggrondnoten en kopra;
 
-- 2°. groenten, met uitzondering van zaden van groenten;
+   - 2°. groenten, met uitzondering van zaden van groenten;
 
 - f. aankoopwaarde handel: het bedrag van de door de ondernemer gedurende een kalenderjaar aangekochte producten;
 

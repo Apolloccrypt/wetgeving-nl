@@ -1,25 +1,19 @@
 ---
-title: "Besluit aanpassing arbeidsduur militairen"
+title: "Besluit van 22 juli 2000, houdende regels voor de aanpassing van de arbeidsduur van militairen (Besluit aanpassing arbeidsduur militairen)"
+citeertitel: "Besluit aanpassing arbeidsduur militairen"
 identifier: "BWBR0011531"
 categorie: "Arbeidsrecht"
+soort: "AMvB"
 publicatiedatum: 2000-09-06
-laatste_update: 2026-07-18
+laatste_update: 2000-09-06
 status: vervallen
+vervallen_op: 2026-07-15
+toestand: 2000-09-06
 bron: "https://wetten.overheid.nl/BWBR0011531"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-05
 ---
 
 # Besluit van 22 juli 2000, houdende regels voor de aanpassing van de arbeidsduur van militairen (Besluit aanpassing arbeidsduur militairen)
-
-Op de voordracht van de Staatssecretaris van Defensie mede namens de Staatssecretaris van Sociale Zaken en Werkgelegenheid, A. E. Verstand-Bogaert, van 10 mei 2000, nr. P/2000001073;
-
-Gelet op [artikel 2, tweede lid, van de Wet aanpassing arbeidsduur](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=2);
-
-De Raad van State gehoord (advies van 23 juni 2000, no. W07.00.0192/II);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie, uitgebracht mede namens de Staatssecretaris van Sociale Zaken en Werkgelegenheid, A. E. Verstand-Bogaert, van 14 juli 2000, nr. FP/2000004445;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -62,5 +56,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit aanpassing arbeidsduur militairen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

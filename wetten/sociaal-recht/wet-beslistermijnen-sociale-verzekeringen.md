@@ -1,120 +1,90 @@
 ---
 title: "Wet van 21 december 2000 tot wijziging van een aantal socialeverzekeringswetten ter verkorting van beslistermijnen bij beschikkingen op aanvraag (Wet beslistermijnen sociale verzekeringen)"
+citeertitel: "Wet beslistermijnen sociale verzekeringen"
 identifier: "BWBR0012091"
-country: "nl"
-rank: "wet"
-publication_date: "2004-01-01"
-last_updated: "2004-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012091"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "1482423"
-version_id: "2212582"
-internal_id: "C2212581"
-label_id: "1440284"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012091/2004-01-01/0"
-intitule_bron: "Stb.2000-627"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-21"
-intitule_published: "2000-12-28"
-intitule_in_force: "2000-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2000-627"
-original_signed_date: "2000-12-21"
-original_published_date: "2000-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "27248"
-original_url_id: "stb-2000-627"
-entry_into_force_date: "2001-01-01"
-entry_into_force_dossier: "27248"
-jci_1_3: "jci1.3:c:BWBR0012091&z=2004-01-01&g=2004-01-01"
-jci_1_0: "1.0:c:BWBR0012091&g=2004-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet beslistermijnen sociale verzekeringen"
-signed_date: "2000-12-21"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2004-01-01
+status: geldig
+toestand: 2004-01-01
+bron: "https://wetten.overheid.nl/BWBR0012091"
+opgehaald: 2026-08-05
 ---
+
 # Wet van 21 december 2000 tot wijziging van een aantal socialeverzekeringswetten ter verkorting van beslistermijnen bij beschikkingen op aanvraag (Wet beslistermijnen sociale verzekeringen)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+##### Artikel I. Algemene Kinderbijslagwet
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de termijn waarbinnen een uitvoeringsorgaan een beschikking op aanvraag op grond van socialeverzekeringswetten dient te geven op eenduidige wijze in de diverse wetten vast te leggen en waar mogelijk in vergelijking met de huidige situatie te verkorten en in verband daarmee een aantal wetten te wijzigen;
+*Wijzigt de Algemene Kinderbijslagwet.*
 
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+##### Artikel II. Algemene nabestaandenwet
 
-##### Artikel I. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+*Wijzigt de Algemene nabestaandenwet.*
 
-Wijzigt de Algemene Kinderbijslagwet.
+##### Artikel III. Algemene Ouderdomswet
 
-##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+*Wijzigt de Algemene Ouderdomswet.*
 
-Wijzigt de Algemene nabestaandenwet.
+##### Artikel IV. Coördinatiewet Sociale Verzekering
 
-##### Artikel III. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+*Wijzigt de Coördinatiewet Sociale Verzekering.*
 
-Wijzigt de Algemene Ouderdomswet.
+##### Artikel V. Invoeringswet stelselherziening sociale zekerheid
 
-##### Artikel IV. [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126)
-
-Wijzigt de Coördinatiewet Sociale Verzekering.
-
-##### Artikel V. [Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046)
-
-Wijzigt de Invoeringswet stelselherziening sociale zekerheid.
+*Wijzigt de Invoeringswet stelselherziening sociale zekerheid.*
 
 ##### Artikel VI. Organisatiewet sociale verzekeringen 1997
 
-Wijzigt de Organisatiewet sociale verzekeringen 1997.
+*Wijzigt de Organisatiewet sociale verzekeringen 1997.*
 
-##### Artikel VII. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
+##### Artikel VII. Toeslagenwet
 
-Wijzigt de Toeslagenwet.
+*Wijzigt de Toeslagenwet.*
 
-##### Artikel VIII. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel VIII. Werkloosheidswet
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
-##### Artikel IX. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+##### Artikel IX. Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
-Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
+*Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.*
 
-##### Artikel X. Wijziging [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) per 2004
+##### Artikel X. Wijziging Wet arbeidsongeschiktheidsverzekering zelfstandigen per 2004
 
-Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
+*Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.*
 
-##### Artikel XI. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+##### Artikel XI. Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.*
 
-##### Artikel XII. Wijziging [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) per 2004
+##### Artikel XII. Wijziging Wet arbeidsongeschiktheidsvoorziening jonggehandicapten per 2004
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.*
 
-##### Artikel XIII. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel XIII. Wet op de arbeidsongeschiktheidsverzekering
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
-##### Artikel XIV. Wijziging [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) per 2004
+##### Artikel XIV. Wijziging Wet op de arbeidsongeschiktheidsverzekering per 2004
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
-##### Artikel XV. [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel XV. Wet op de (re)integratie arbeidsgehandicapten
 
-Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.
+*Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.*
 
-##### Artikel XVI. Wijziging [Wet op de (re)integratie arbeidsgehandicapten](onbekend) per 2004
+##### Artikel XVI. Wijziging Wet op de (re)integratie arbeidsgehandicapten per 2004
 
-Vervallen
+*Vervallen*
 
-##### Artikel XVII. [Wet premieregime bij marginale arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0008510)
+##### Artikel XVII. Wet premieregime bij marginale arbeid
 
-Wijzigt de Wet premieregime bij marginale arbeid.
+*Wijzigt de Wet premieregime bij marginale arbeid.*
 
-##### Artikel XVIII. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel XVIII. Ziektewet
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel XIX. Overgangsbepaling
 
@@ -137,5 +107,3 @@ Deze wet treedt in werking met ingang van 1 januari 2001.
 ##### Artikel XXIII. Citeertitel
 
 Deze wet wordt aangehaald als: Wet beslistermijnen sociale verzekeringen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

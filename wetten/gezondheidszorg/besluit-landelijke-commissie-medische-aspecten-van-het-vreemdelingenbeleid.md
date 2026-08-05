@@ -1,44 +1,39 @@
 ---
 title: "Besluit Landelijke commissie medische aspecten van het vreemdelingenbeleid"
 identifier: "BWBR0012480"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-05-13"
-last_updated: "2001-05-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012480"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "4811593"
-version_id: "6617992"
-internal_id: "C7075231"
-label_id: "4789664"
-dtd_version: "2.0"
-original_entry_into_force: "2001-05-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012480/2001-05-13/0"
-intitule_bron: "Stcrt.2001-91"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-05-10"
-intitule_published: "2001-05-11"
-intitule_in_force: "2001-05-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-91"
-original_signed_date: "2001-05-10"
-original_published_date: "2001-05-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-05-13"
-jci_1_3: "jci1.3:c:BWBR0012480&z=2001-05-13&g=2001-05-13"
-jci_1_0: "1.0:c:BWBR0012480&g=2001-05-13"
-citeertitel_status: "officieel"
-signed_date: "2001-05-10"
-entry_into_force: "2001-05-13"
+publicatiedatum: 2001-05-13
+laatste_update: 2001-05-13
+status: geldig
+toestand: 2001-05-13
+bron: "https://wetten.overheid.nl/BWBR0012480"
+opgehaald: 2026-08-05
 ---
-# Besluit Landelijke commissie medische aspecten van het vreemdelingenbeleid
 
-Besluiten:
+# Besluit Landelijke commissie medische aspecten van het vreemdelingenbeleid
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+a.
+
+de staatssecretaris:
+
+de Staatssecretaris van Justitie;
+
+b.
+
+de minister:
+
+de Minister van Volksgezondheid, Welzijn en Sport;
+
+c.
+
+de commissie:
+
+de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012480&artikel=2&z=2001-05-13&g=2001-05-13).
 
 ##### Artikel 2
 
@@ -48,41 +43,41 @@ In dit besluit wordt verstaan onder:
 
 - a. het verrichten van deelonderzoek I (probleemanalyse) voor de periode 1995 tot en met 2000 naar:
 
-- i). het aantal vreemdelingen waar medische gronden mede een rol hebben gespeeld bij het verzoek om toelating tot Nederland;
+   - i) het aantal vreemdelingen waar medische gronden mede een rol hebben gespeeld bij het verzoek om toelating tot Nederland;
 
-- ii). het aantal vreemdelingen waar medische gronden mede een rol hebben gespeeld bij het verkrijgen van een toelating tot Nederland;
+   - ii) het aantal vreemdelingen waar medische gronden mede een rol hebben gespeeld bij het verkrijgen van een toelating tot Nederland;
 
-- iii). het aantal vreemdelingen aan wie in Nederland uitstel van vertrek op medische gronden is verleend;
+   - iii) het aantal vreemdelingen aan wie in Nederland uitstel van vertrek op medische gronden is verleend;
 
-- iv). de aard van de medische gronden waarop toelating tot Nederland is verzocht of verkregen dan wel waarop uitstel van vertrek is verleend;
+   - iv) de aard van de medische gronden waarop toelating tot Nederland is verzocht of verkregen dan wel waarop uitstel van vertrek is verleend;
 
-- v). het stadium in de vreemdelingenrechtelijke procedure waarin de vreemdeling een beroep doet op medische gronden voor toelating of uitstel van vertrek;
+   - v) het stadium in de vreemdelingenrechtelijke procedure waarin de vreemdeling een beroep doet op medische gronden voor toelating of uitstel van vertrek;
 
-- vi). de ontwikkelingen in de toestroom in de afgelopen 5 jaar;
+   - vi) de ontwikkelingen in de toestroom in de afgelopen 5 jaar;
 
-- vii). de consequenties van de toestroom tot Nederland voor de kwaliteit en toegankelijkheid van de gezondheidszorg hier te lande;
+   - vii) de consequenties van de toestroom tot Nederland voor de kwaliteit en toegankelijkheid van de gezondheidszorg hier te lande;
 
 - b. het opdracht geven tot het verrichten van deelonderzoek II (vergelijkende studie) naar:
 
-- i. de mate waarin Nederland op grond van nationaal en internationaal recht verplicht is tot de toelating van vreemdelingen op medische gronden en verplicht is tot het doen van onderzoek bij een verzoek van vreemdelingen om toelating op medische gronden;
+   - i. de mate waarin Nederland op grond van nationaal en internationaal recht verplicht is tot de toelating van vreemdelingen op medische gronden en verplicht is tot het doen van onderzoek bij een verzoek van vreemdelingen om toelating op medische gronden;
 
-- ii. het toelatingsbeleid en uitstel van vertrekbeleid op medische gronden in de Europese landen Duitsland, Frankrijk, België, het Verenigd Koninkrijk, Spanje, Zwitserland en Zweden;
+   - ii. het toelatingsbeleid en uitstel van vertrekbeleid op medische gronden in de Europese landen Duitsland, Frankrijk, België, het Verenigd Koninkrijk, Spanje, Zwitserland en Zweden;
 
-- iii. het verschil in aanbod van medische voorzieningen voor vreemdelingen in procedure in de landen genoemd onder (ii);
+   - iii. het verschil in aanbod van medische voorzieningen voor vreemdelingen in procedure in de landen genoemd onder (ii);
 
-- iv. de positie van Nederland ten opzichte van de onder (ii) genoemde landen;
+   - iv. de positie van Nederland ten opzichte van de onder (ii) genoemde landen;
 
 - c. het op grond van deelonderzoek I en II:
 
-- i. het geven van een oordeel over de verschillende situaties waarin een beroep op medische gronden wordt gedaan;
+   - i. het geven van een oordeel over de verschillende situaties waarin een beroep op medische gronden wordt gedaan;
 
-- ii. formuleren van te treffen maatregelen ter voorkoming van naar het oordeel van de commissie ongewenst beroep op medische gronden: de commissie betrekt hierbij de positie van Nederland ten opzichte van de onder b (ii) genoemde Europese landen;
+   - ii. formuleren van te treffen maatregelen ter voorkoming van naar het oordeel van de commissie ongewenst beroep op medische gronden: de commissie betrekt hierbij de positie van Nederland ten opzichte van de onder b (ii) genoemde Europese landen;
 
 - d. het formuleren van conclusies met betrekking tot de positie van het medisch advies in de Nederlandse vreemdelingenrechtelijke procedure, in het bijzonder over:
 
-- i. de criteria en de procedure voor het verlenen van een verblijfsrecht op medische gronden;
+   - i. de criteria en de procedure voor het verlenen van een verblijfsrecht op medische gronden;
 
-- ii. de criteria en de procedure voor het verlenen van uitstel van vertrek op medische gronden, mede in relatie tot [artikel 64 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) en [artikel 3 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](onbekend).
+   - ii. de criteria en de procedure voor het verlenen van uitstel van vertrek op medische gronden, mede in relatie tot [artikel 64 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) en artikel 3 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.
 
 - e. Het maken van een integraal rapport als bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012480&artikel=4&z=2001-05-13&g=2001-05-13), op basis van de resultaten van deelonderzoek I en II en activiteit c en d, voorzien van conclusies.
 
@@ -149,5 +144,3 @@ Het beheer van de bescheiden van de commissie geschiedt op overeenkomstige wijze
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: besluit Landelijke commissie medische aspecten van het vreemdelingenbeleid.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

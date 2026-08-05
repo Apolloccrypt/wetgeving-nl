@@ -1,44 +1,39 @@
 ---
 title: "Besluit Stichting ICTU"
 identifier: "BWBR0012579"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-08-01"
-last_updated: "2001-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012579"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4298693"
-version_id: "6061442"
-internal_id: "C6265051"
-label_id: "4277274"
-dtd_version: "2.0"
-original_entry_into_force: "2001-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012579/2001-08-01/0"
-intitule_bron: "Stcrt.2001-118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-06-15"
-intitule_published: "2001-06-22"
-intitule_in_force: "2001-06-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-118"
-original_signed_date: "2001-06-15"
-original_published_date: "2001-06-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-08-01"
-jci_1_3: "jci1.3:c:BWBR0012579&z=2001-08-01&g=2001-08-01"
-jci_1_0: "1.0:c:BWBR0012579&g=2001-08-01"
-citeertitel_status: "officieel"
-signed_date: "2001-06-15"
-entry_into_force: "2001-08-01"
+publicatiedatum: 2001-08-01
+laatste_update: 2001-08-01
+status: geldig
+toestand: 2001-08-01
+bron: "https://wetten.overheid.nl/BWBR0012579"
+opgehaald: 2026-08-05
 ---
-# Besluit Stichting ICTU
 
-Besluit:
+# Besluit Stichting ICTU
 
 ##### Artikel 1
 
 In dit Besluit wordt verstaan onder:
+
+a.
+
+de minister:
+
+de minister voor Grote Steden- en Integratiebeleid;
+
+b.
+
+de stichting:
+
+de Stichting ICTU, een gezamenlijke ICT-implementatie-organisatie van en voor overheidsorganisaties welke op 11 april 2001 is opgericht door de Staat en de Vereniging voor Nederlandse Gemeenten;
+
+c.
+
+het ministerie:
+
+het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2
 

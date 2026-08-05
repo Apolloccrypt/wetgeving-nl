@@ -1,56 +1,31 @@
 ---
 title: "Instelling Commissie van Externe Deskundigen voor Subsidieprogramma Transportpreventie"
 identifier: "BWBR0011367"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-01-29"
-last_updated: "2004-01-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011367"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5075863"
-version_id: "9131682"
-internal_id: "C12138941"
-label_id: "5051704"
-dtd_version: "2.0"
-original_entry_into_force: "2000-06-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011367/2004-01-29/0"
-intitule_bron: "Stcrt.2000-108"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-05-22"
-intitule_published: "2000-06-07"
-intitule_in_force: "2000-06-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-108"
-original_signed_date: "2000-05-22"
-original_published_date: "2000-06-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-06-09"
-jci_1_3: "jci1.3:c:BWBR0011367&z=2004-01-29&g=2004-01-29"
-jci_1_0: "1.0:c:BWBR0011367&g=2004-01-29"
-citeertitel_status: "officieel"
-signed_date: "2000-05-22"
-entry_into_force: "2000-06-09"
+publicatiedatum: 2000-06-09
+laatste_update: 2004-01-29
+status: geldig
+toestand: 2004-01-29
+bron: "https://wetten.overheid.nl/BWBR0011367"
+opgehaald: 2026-08-05
 ---
+
 # Instelling Commissie van Externe Deskundigen voor Subsidieprogramma Transportpreventie
-
-Gelet op het Programma Transportpreventie (Staatscourant 2000, nr. 37);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011367&artikel=2&z=2004-01-29&g=2004-01-29);
+- a. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011367&artikel=2&z=2004-01-29&g=2004-01-29);
 
-- b. **Minister:** Minister van Verkeer en Waterstaat;
+- b. *Minister:* Minister van Verkeer en Waterstaat;
 
-- c. **programma:** door de Minister vastgesteld Programma Transportbesparing;
+- c. *programma:* door de Minister vastgesteld Programma Transportbesparing;
 
-- d. **programmabeheerder:** het agentschap van het Ministerie van Economische Zaken ‘Senter’;
+- d. *programmabeheerder:* het agentschap van het Ministerie van Economische Zaken ‘Senter’;
 
-- e. **subsidie:** subsidie in het kader van het Programma Transportbesparing.
+- e. *subsidie:* subsidie in het kader van het Programma Transportbesparing.
 
 ##### Artikel 2
 

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 26 april 2001, houdende vaststelling van het Warenwetbesluit Koffie- en cichorei-extracten"
+citeertitel: "Warenwetbesluit Koffie- en cichorei-extracten"
 identifier: "BWBR0012437"
-country: "nl"
-rank: "amvb"
-publication_date: "2001-05-16"
-last_updated: "2001-05-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012437"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1570483"
-version_id: "2326322"
-internal_id: "C2326321"
-label_id: "1525784"
-dtd_version: "2.0"
-original_entry_into_force: "2001-05-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012437/2001-05-16/0"
-intitule_bron: "Stb.2001-218"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-04-26"
-intitule_published: "2001-05-15"
-intitule_in_force: "2001-05-15"
-intitule_status: "goed"
-original_publication: "Stb.2001-218"
-original_signed_date: "2001-04-26"
-original_published_date: "2001-05-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-218"
-entry_into_force_date: "2001-05-16"
-jci_1_3: "jci1.3:c:BWBR0012437&z=2001-05-16&g=2001-05-16"
-jci_1_0: "1.0:c:BWBR0012437&g=2001-05-16"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit Koffie- en cichorei-extracten"
-signed_date: "2001-04-26"
-entry_into_force: "2001-05-16"
+publicatiedatum: 2001-05-16
+laatste_update: 2001-05-16
+status: geldig
+toestand: 2001-05-16
+bron: "https://wetten.overheid.nl/BWBR0012437"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 26 april 2001, houdende vaststelling van het Warenwetbesluit Koffie- en cichorei-extracten
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 18 december 2000, kenmerk GZB/VVB 2131294, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
-
-Gelet op [Richtlijn nr. 1999/4/EG](31999L0004) van het Europees Parlement en de Raad van 22 februari 1999 inzake extracten van koffie en extracten van cichorei (PbEG L 66), alsmede op de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=1), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [8 onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13) en [14 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14);
-
-De Raad van State gehoord (advies van 27 februari 2001, no.W13.00.0606/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 20 april 2001, GZB/VVB 2173710, uitgebracht in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -74,11 +42,11 @@ Hebben goedgevonden en verstaan:
 
 1. Koffie-extract bevat uitsluitend:
 
-- –. de oplosbare en aromatische bestanddelen van koffie,
+- – de oplosbare en aromatische bestanddelen van koffie,
 
-- –. de onoplosbare stoffen waarvan de aanwezigheid technisch niet is te vermijden, en
+- – de onoplosbare stoffen waarvan de aanwezigheid technisch niet is te vermijden, en
 
-- –. de uit koffie afkomstige onoplosbare oliën.
+- – de uit koffie afkomstige onoplosbare oliën.
 
 2. Koffie-extract in vaste of pastavorm bevat geen andere bestanddelen dan die welke afkomstig zijn van de extractie van koffie.
 
@@ -148,7 +116,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 8
 
-Wijzigt het Warenwetbesluit Koffie en cichorei.
+*Wijzigt het Warenwetbesluit Koffie en cichorei.*
 
 ##### Artikel 9
 
@@ -161,5 +129,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Koffie- en cichorei-extracten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

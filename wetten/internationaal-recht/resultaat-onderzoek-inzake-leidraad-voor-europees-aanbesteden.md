@@ -1,37 +1,17 @@
 ---
 title: "Controlebevindingen zoeklichtactie Europees aanbesteden"
+citeertitel: "Resultaat onderzoek inzake ’Leidraad voor Europees aanbesteden’"
 identifier: "BWBR0011147"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2000-02-16"
-last_updated: "2000-02-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011147"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6509553"
-version_id: "11198802"
-internal_id: "C15128671"
-label_id: "6498054"
-original_entry_into_force: "2000-02-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011147/2000-02-16/0"
-intitule_bron: "Uitleg.2000-4/5"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-02-03"
-intitule_published: "2000-02-16"
-intitule_in_force: "2000-02-16"
-intitule_status: "goed"
-original_publication: "Uitleg.2000-4/5"
-original_signed_date: "2000-02-03"
-original_published_date: "2000-02-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-02-16"
-jci_1_3: "jci1.3:c:BWBR0011147&z=2000-02-16&g=2000-02-16"
-jci_1_0: "1.0:c:BWBR0011147&g=2000-02-16"
-citeertitel_status: "redactioneel"
-short_title: "Resultaat onderzoek inzake ’Leidraad voor Europees aanbesteden’"
-signed_date: "2000-02-03"
-entry_into_force: "2000-02-16"
+publicatiedatum: 2000-02-16
+laatste_update: 2000-02-16
+status: geldig
+toestand: 2000-02-16
+bron: "https://wetten.overheid.nl/BWBR0011147"
+opgehaald: 2026-08-05
 ---
+
 # Controlebevindingen zoeklichtactie Europees aanbesteden
 
 ### Algemeen
@@ -46,7 +26,15 @@ In dit verband heeft deze dienst vorig jaar, tijdens de zogenaamde ”zoeklichta
 
 Uit het onderzoek is gebleken dat zowel de scholen/instellingen als de instellingsaccountants niet altijd rekening houden met de volgende aspecten:
 
-De leidraad voor Europees aanbesteden van 6 december 1996 staat sinds kort in herziene vorm op het internet op pagina:**http://www.dds.nl/~pdc/9221000/ leidraad.htm.** Daarvan is aankondiging gedaan in Uitleg nr. 28 van 24 november 1999.
+- Bij scholen/instellingen met decentrale eenheden moeten deze decentrale eenheden aan bepaalde voorwaarden voldoen om te worden aangemerkt als aanbestedende dienst. Er moet sprake zijn van een zelfstandige eenheid met onder meer beslissingsbevoegdheid en eigen budgetten voor de inkoop. Indien niet aan die voorwaarden wordt voldaan moet de school/instelling als geheel als aanbestedende dienst worden aangemerkt;
+
+- Enkele scholen/instellingen hebben aflopende contracten stilzwijgend verlengd. Aflopende contracten moeten echter na afloop worden herzien en zonodig opnieuw Europees worden aanbesteed;
+
+- Bij de aankoop van soortgelijke producten bij verschillende leveranciers zijn doorgaans (en onterecht) de aanschafbedragen niet bij elkaar geteld, waardoor niet is vastgesteld dat het drempelbedrag werd overschreden. Uit de leidraad blijkt dat dit wel moet plaatsvinden;
+
+- Uit de controledossiers van de instellingsaccountants bleek dat in sommige situaties de vastleggingen niet voldoende waren. Verder constateerde de Accountantsdienst dat in een aantal gevallen de niet (volledige) naleving van de regels niet door de instellingsaccountant werd vermeld in de (bijlage bij) de accountantsverklaring.
+
+De leidraad voor Europees aanbesteden van 6 december 1996 staat sinds kort in herziene vorm op het internet op pagina:*http://www.dds.nl/~pdc/9221000/ leidraad.htm.* Daarvan is aankondiging gedaan in Uitleg nr. 28 van 24 november 1999.
 
 In deze leidraad voor Europees aanbesteden is nader toegelicht dat scholen/instellingen zelf verantwoordelijk zijn voor de naleving van de richtlijnen en dat niet naleving kan leiden tot sancties, vanuit de Europese Unie en het Ministerie van Onderwijs, Cultuur en Wetenschappen (verhaalsrecht).
 

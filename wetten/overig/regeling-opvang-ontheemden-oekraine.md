@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0046503"
-opgehaald: 2026-08-04
+opgehaald: 2026-08-05
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid en de Staatssecretaris van Justitie en Veiligheid van 1 april 2022, nummer 3936963, houdende regels voor de huisvesting en verzorging van ontheemden als gevolg van het oorlogsgeweld in Oekraïne (Regeling opvang ontheemden Oekraïne)

@@ -1,49 +1,17 @@
 ---
 title: "Verordening ringen"
 identifier: "BWBR0011167"
-country: "nl"
-rank: "pbo"
-publication_date: "2000-10-01"
-last_updated: "2000-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011167"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6834043"
-version_id: "11715352"
-internal_id: "C15791531"
-label_id: "6822354"
-original_entry_into_force: "2000-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011167/2000-10-01/0"
-intitule_bron: "Stcrt.2000-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-02-16"
-intitule_published: "2000-09-20"
-intitule_in_force: "2000-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-182"
-original_signed_date: "2000-02-16"
-original_published_date: "2000-09-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-10-01"
-jci_1_3: "jci1.3:c:BWBR0011167&z=2000-10-01&g=2000-10-01"
-jci_1_0: "1.0:c:BWBR0011167&g=2000-10-01"
-citeertitel_status: "officieel"
-signed_date: "2000-02-16"
-entry_into_force: "2000-10-01"
+publicatiedatum: 2000-10-01
+laatste_update: 2000-10-01
+status: geldig
+toestand: 2000-10-01
+bron: "https://wetten.overheid.nl/BWBR0011167"
+opgehaald: 2026-08-05
 ---
+
 # Verordening ringen
-
-Overwegende dat het gewenst is regelen te stellen met betrekking tot het functioneren van de ringen;
-
-Gelet op [artikel 86 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=86);
-
-Gezien het ontwerp van het bestuur met bijbehorende toelichting;
-
-Gelet op de adviezen van de kamers van toezicht;
-
-Gelet op de adviezen van de ringen;
-
-stelt de navolgende verordening vast:
 
 #### Bestuur
 

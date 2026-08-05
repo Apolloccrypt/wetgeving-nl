@@ -1,58 +1,54 @@
 ---
 title: "Besluit van 22 juli 2000, houdende regels inzake het gebruik van geweld door defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak (Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak)"
+citeertitel: "Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak"
 identifier: "BWBR0011530"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011530"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "1413393"
-version_id: "2120152"
-internal_id: "C2120151"
-label_id: "1370574"
-dtd_version: "2.0"
-original_entry_into_force: "2000-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011530/2010-10-10/0"
-intitule_bron: "Stb.2000-337"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-07-22"
-intitule_published: "2000-08-24"
-intitule_in_force: "2000-08-24"
-intitule_status: "goed"
-original_publication: "Stb.2000-337"
-original_signed_date: "2000-07-22"
-original_published_date: "2000-08-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2000-337"
-entry_into_force_date: "2000-10-01"
-jci_1_3: "jci1.3:c:BWBR0011530&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0011530&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak"
-signed_date: "2000-07-22"
-entry_into_force: "2000-10-01"
+publicatiedatum: 2000-10-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0011530"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 22 juli 2000, houdende regels inzake het gebruik van geweld door defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak (Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak)
-
-Op de voordracht van Onze Minister van Defensie van 19 juli 1999, nr. CWW88/014, directie juridische zaken, afdeling wet- en regelgeving;
-
-Gelet op [artikel 1, zesde lid, van de Rijkswet geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak](https://wetten.overheid.nl/jci1.3:c:BWBR0007949&artikel=1);
-
-De Raad van State van het Koninkrijk gehoord (advies van 18 oktober 1999, no. W07.99.0370/II/K.);
-
-Gezien het nader rapport van Onze Minister van Defensie van 14 juli 2000, nr. CWW88/014/2000003070;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemeen
 
 ##### Artikel 1
 
 Dit besluit berust op [artikel 3, derde lid, van de Rijkswet geweldgebruik bewakers militaire objecten](https://wetten.overheid.nl/jci1.3:c:BWBR0014738&artikel=3).
+
+##### Artikel 1a
+
+1. In dit besluit wordt verstaan onder:
+
+- a. bewaker: de met het uitvoeren van de bewakings- en beveiligingstaak belaste:
+
+   - 1°. militair;
+
+   - 2°. burgerambtenaar in dienst van het Ministerie van Defensie;
+
+- b. meerdere:
+
+   - 1°. indien de bewakings- en beveiligingstaak alleen door militairen behorend tot de krijgsmacht van het Koninkrijk wordt uitgevoerd: degene die ingevolge het bepaalde bij of krachtens [artikel 67 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=67) de meerdere is;
+
+   - 2°. indien de bewakings- en beveiligingstaak alleen door burgerambtenaren in dienst van het Ministerie van Defensie wordt uitgevoerd: de burgerambtenaar die de hoogste rang bezit dan wel bij gelijkheid in rang, de burgerambtenaar die de meeste ouderdom daarin bezit;
+
+   - 3°. in andere gevallen dan bedoeld onder 1° of 2°: de militair, behorend tot de krijgsmacht van het Koninkrijk, onderscheidenlijk de burgerambtenaar, in dienst van het Ministerie van Defensie, die als zodanig is aangewezen;
+
+- c. geweld: elke dwangmatige kracht van meer dan geringe betekenis, uitgeoefend op personen of zaken;
+
+- d. geweldmiddel: een geweldmiddel als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10);
+
+- e. gebruik van een vuurwapen: het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.
+
+2. Onder het gebruiken van geweld wordt mede verstaan:
+
+- a. het dreigen met geweld;
+
+- b. het gebruik van vrijheidsbeperkende middelen.
 
 ##### Artikel 2
 
@@ -163,45 +159,3 @@ Met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgift
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
-
-##### Artikel 1a
-
-1. In dit besluit wordt verstaan onder:
-
-- a. bewaker: de met het uitvoeren van de bewakings- en beveiligingstaak belaste:
-
-- 1°. militair;
-
-- 2°. burgerambtenaar in dienst van het Ministerie van Defensie;
-
-- b. meerdere:
-
-- 1°. indien de bewakings- en beveiligingstaak alleen door militairen behorend tot de krijgsmacht van het Koninkrijk wordt uitgevoerd: degene die ingevolge het bepaalde bij of krachtens [artikel 67 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=67) de meerdere is;
-
-- 2°. indien de bewakings- en beveiligingstaak alleen door burgerambtenaren in dienst van het Ministerie van Defensie wordt uitgevoerd: de burgerambtenaar die de hoogste rang bezit dan wel bij gelijkheid in rang, de burgerambtenaar die de meeste ouderdom daarin bezit;
-
-- 3°. in andere gevallen dan bedoeld onder 1° of 2°: de militair, behorend tot de krijgsmacht van het Koninkrijk, onderscheidenlijk de burgerambtenaar, in dienst van het Ministerie van Defensie, die als zodanig is aangewezen;
-
-- c. geweld: elke dwangmatige kracht van meer dan geringe betekenis, uitgeoefend op personen of zaken;
-
-- d. geweldmiddel: een geweldmiddel als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10);
-
-- e. gebruik van een vuurwapen: het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.
-
-2. Onder het gebruiken van geweld wordt mede verstaan:
-
-- a. het dreigen met geweld;
-
-- b. het gebruik van vrijheidsbeperkende middelen.
-
-#### Paragraaf 2. Algemene geweldsbepalingen
-
-#### Paragraaf 3. Vuurwapens
-
-#### Paragraaf 4. Handboeien
-
-#### Paragraaf 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.

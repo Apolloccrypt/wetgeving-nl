@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-31
 toestand: 2025-12-01
 bron: "https://wetten.overheid.nl/BWBR0051839"
-opgehaald: 2026-08-04
+opgehaald: 2026-08-05
 ---
 
 # Regeling erkenning leerbedrijven SBB

@@ -1,50 +1,24 @@
 ---
 title: "Verordening van het Productschap Tuinbouw van 3 juli 2001, houdende de vaststelling van aan telers van en handelaren in bloembollen op te leggen heffing voor het jaar 2002 (Verordening PT Vakheffing Bloembollen Plantgoed 2002)"
+citeertitel: "Verordening PT Vakheffing Bloembollen Plantgoed 2002"
 identifier: "BWBR0012633"
-country: "nl"
-rank: "pbo"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012633"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6229393"
-version_id: "10901922"
-internal_id: "C14772771"
-label_id: "6218654"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012633/2002-01-01/0"
-intitule_bron: "Vbbo.2001-49"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-03"
-intitule_published: "2001-11-02"
-intitule_in_force: "2001-11-02"
-intitule_status: "goed"
-original_publication: "Vbbo.2001-49"
-original_signed_date: "2001-07-03"
-original_published_date: "2001-11-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0012633&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0012633&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Verordening PT Vakheffing Bloembollen Plantgoed 2002"
-signed_date: "2001-07-03"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0012633"
+opgehaald: 2026-08-05
 ---
+
 # Verordening van het Productschap Tuinbouw van 3 juli 2001, houdende de vaststelling van aan telers van en handelaren in bloembollen op te leggen heffing voor het jaar 2002 (Verordening PT Vakheffing Bloembollen Plantgoed 2002)
-
-gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en op de [artikelen 14](onbekend), [15](onbekend) en [19 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend);
-
-op voorstel van de Sectorcommissie voor bollen, knollen en wortelstokken van bloemgewassen;
-
-besluit:
 
 #### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
-1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 2](onbekend) en [3 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend).
+1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 2 en 3 van de Instellingsverordening Productschap Tuinbouw 1998.
 
 2. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -54,13 +28,13 @@ besluit:
 | c. | voorzitter | : | de voorzitter van het productschap; |
 | d. | bloembollen | : | bollen of knollen van bloemgewassen; |
 | e. | bloembollen plantgoed | : | 1e. soorten en variëteiten van bloembollen die in de lijst, welke als bijlage bij de Verordening PT Vakheffing Bloembollen Leverbaar 2002 is gevoegd, zijn vermeld voorzover deze beneden de daarachter genoemde minimum-maten zijn verhandeld; |
-|   |   |   | 2e. afgebroeide bloembollen; |
-|   |   |   | 3e. geholde en gesneden hyacinten; |
-|   |   |   | 4e. eenjarige bollen van geholde en gesneden hyacinten, voorzover verhandeld per bed of per mand; |
-|   |   |   | 5e. bollen van hyacinten, die zijn verkocht onder de uitdrukkelijke voorwaarde dat deze zullen worden gebruikt als werkbollen, in welk geval deze voorwaarde op het koopbriefje dient te worden vermeld; |
-|   |   |   | 6e. groen te velde per bed of per mand voor 15 juni van het kalenderjaar waarin het koopseizoen aanvangt verhandelde hyacinten, geplant in de maat onder zift 10, droog gesorteerd; |
-|   |   |   | 7e. schubbollen van lelies; |
-|   |   |   | 8e. voortkwekingsmateriaal, voorzover bestemd voor de teelt van bloembollen, met uitzondering van zaden; |
+|  |  |  | 2e. afgebroeide bloembollen; |
+|  |  |  | 3e. geholde en gesneden hyacinten; |
+|  |  |  | 4e. eenjarige bollen van geholde en gesneden hyacinten, voorzover verhandeld per bed of per mand; |
+|  |  |  | 5e. bollen van hyacinten, die zijn verkocht onder de uitdrukkelijke voorwaarde dat deze zullen worden gebruikt als werkbollen, in welk geval deze voorwaarde op het koopbriefje dient te worden vermeld; |
+|  |  |  | 6e. groen te velde per bed of per mand voor 15 juni van het kalenderjaar waarin het koopseizoen aanvangt verhandelde hyacinten, geplant in de maat onder zift 10, droog gesorteerd; |
+|  |  |  | 7e. schubbollen van lelies; |
+|  |  |  | 8e. voortkwekingsmateriaal, voorzover bestemd voor de teelt van bloembollen, met uitzondering van zaden; |
 | f. | handelskaarthouder | : | de ondernemer die in het bezit is van een op zijn naam gestelde handelskaart als bedoeld in artikel 4 van de Verordening PT Vakheffing Bloembollen Leverbaar 2002; |
 | g. | factuurbedrag | : | het bedrag van de factuur, exclusief behandelingskosten en exclusief kosten kleinverpakkingsmateriaal; |
 | h. | veiling | : | de veilingen c.q. bemiddelingsbureaus: Hobaho BV., Coöperatieve Nederlandse Bloembollencentrale (b.a.), Floralia en Bloembollenbemiddelingsbureau Cebeco Nederland BV; |
@@ -172,11 +146,11 @@ ontvangt van het productschap een restitutie ter grootte van 4,2% van het verkoo
 
 - a. voor zover het betreft tulpen:
 
-- 1e. indien daarin de maten zift 10, zift 11 en zift 12/op aanwezig zijn: over 50%
+   - 1e. indien daarin de maten zift 10, zift 11 en zift 12/op aanwezig zijn: over 50%
 
-- 2e. indien daaraan de maat zift 12/op ontbreekt: over 70% en
+   - 2e. indien daaraan de maat zift 12/op ontbreekt: over 70% en
 
-- 3e. indien daaraan de maten zift 11 en zift 12/op ontbreken: over 90% van het factuurbedrag van de desbetreffende partij;
+   - 3e. indien daaraan de maten zift 11 en zift 12/op ontbreken: over 90% van het factuurbedrag van de desbetreffende partij;
 
 - b. voor zover het betreft narcissen: over 20% van het factuurbedrag van de desbetreffende partij.
 

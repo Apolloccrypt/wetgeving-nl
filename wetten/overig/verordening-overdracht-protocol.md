@@ -1,49 +1,17 @@
 ---
 title: "Verordening overdracht protocol"
 identifier: "BWBR0011436"
-country: "nl"
-rank: "pbo"
-publication_date: "2021-05-13"
-last_updated: "2021-05-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011436"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6832573"
-version_id: "11713152"
-internal_id: "C15789261"
-label_id: "6820844"
-original_entry_into_force: "2000-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011436/2021-05-13/0"
-intitule_bron: "Stcrt.2000-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-06-21"
-intitule_published: "2000-09-20"
-intitule_in_force: "2000-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-182"
-original_signed_date: "2000-06-21"
-original_published_date: "2000-09-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-10-01"
-jci_1_3: "jci1.3:c:BWBR0011436&z=2021-05-13&g=2021-05-13"
-jci_1_0: "1.0:c:BWBR0011436&g=2021-05-13"
-citeertitel_status: "officieel"
-signed_date: "2000-06-21"
-entry_into_force: "2000-10-01"
+publicatiedatum: 2000-10-01
+laatste_update: 2021-05-13
+status: geldig
+toestand: 2021-05-13
+bron: "https://wetten.overheid.nl/BWBR0011436"
+opgehaald: 2026-08-05
 ---
+
 # Verordening overdracht protocol
-
-Overwegende dat het gewenst is beroeps- en gedragsregels vast te stellen;
-
-Gelet op [artikel 61 lid 2 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=61);
-
-Gezien het ontwerp van het bestuur met bijbehorende toelichting;
-
-Gelet op de adviezen van de kamers van toezicht;
-
-Gelet op de adviezen van de ringen;
-
-stelt de navolgende verordening vast:
 
 ##### Artikel 1
 
@@ -73,7 +41,7 @@ Bij de overdracht dient de protocolhouder voorzover mogelijk aan de protocolontv
 
 ##### Artikel 6
 
-1. Ook de kantoor- en dossieradministratie – tevens bevattende een lijst van crediteuren – moeten tegelijk met de overdracht dan wel zo spoedig mogelijk daarna worden overgedragen. Voor zover deze niet per de dag waarop de protocolontvanger bevoegd wordt akten te passeren zijn bijgewerkt, moet dit binnen een maand zijn geschied.
+1. Ook de kantoor- en dossieradministratie – tevens bevattende een lijst van crediteuren – moeten tegelijk met de overdracht dan wel zo spoedig mogelijk daarna worden overgedragen. Voor zover deze niet per de dag waarop de protocolontvanger bevoegd wordt akten te passeren zijn bijgewerkt, moet dit binnen een maand zijn geschied.
 
 2. De protocolhouder dient aan de protocolontvanger een verklaring te overleggen dat alle gelden van derden en derdengelden onder beheer van de opvolger zijn gebracht.
 
@@ -87,7 +55,7 @@ Met het oog op de overdracht als in de [artikelen 2 tot en met 7](https://wetten
 
 ##### Artikel 9
 
-Met het oog op de voortzetting van de notariële praktijk is de protocolhouder verplicht gedurende maximaal 6 maanden nadat de protocolontvanger de praktijk heeft overgenomen het kantoorpand waarin de notariële praktijk door hem werd gevoerd en de inventaris van die praktijk – waaronder de apparatuur – ter beschikking te stellen van de protocolontvanger, zulks tegen een redelijke vergoeding. Indien het kantoorpand en/of de inventaris worden gehuurd of geleasd dient de protocolhouder zo veel mogelijk te bevorderen dat de protocolontvanger in de huur-/leaseverhouding kan treden. Indien uitsluitend het protocol wordt overgenomen, dient de protocolhouder het kantoorpand zolang ter beschikking te stellen van de protocolontvanger als redelijkerwijs nodig is voor het overbrengen van de tot het protocol behorende zaken naar het kantoor van de protocolontvanger.
+Met het oog op de voortzetting van de notariële praktijk is de protocolhouder verplicht gedurende maximaal 6 maanden nadat de protocolontvanger de praktijk heeft overgenomen het kantoorpand waarin de notariële praktijk door hem werd gevoerd en de inventaris van die praktijk – waaronder de apparatuur – ter beschikking te stellen van de protocolontvanger, zulks tegen een redelijke vergoeding. Indien het kantoorpand en/of de inventaris worden gehuurd of geleasd dient de protocolhouder zo veel mogelijk te bevorderen dat de protocolontvanger in de huur-/leaseverhouding kan treden. Indien uitsluitend het protocol wordt overgenomen, dient de protocolhouder het kantoorpand zolang ter beschikking te stellen van de protocolontvanger als redelijkerwijs nodig is voor het overbrengen van de tot het protocol behorende zaken naar het kantoor van de protocolontvanger.
 
 ##### Artikel 10
 
@@ -115,4 +83,4 @@ Deze verordening wordt aangehaald als Verordening overdracht protocol.
 
 ##### Artikel 15
 
-Deze verordening treedt in werking met ingang van 1 oktober 2000 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.
+Deze verordening treedt in werking met ingang van 1 oktober 2000 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.

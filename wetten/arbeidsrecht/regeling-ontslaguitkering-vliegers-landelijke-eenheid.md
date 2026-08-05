@@ -1,44 +1,18 @@
 ---
 title: "Regeling ontslaguitkering vliegers KLPD"
+citeertitel: "Regeling ontslaguitkering vliegers Landelijke eenheid"
 identifier: "BWBR0012101"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-11-08"
-last_updated: "2023-11-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012101"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3592523"
-version_id: "26817462"
-internal_id: "C37996941"
-label_id: "3572604"
-dtd_version: "2.0"
-original_entry_into_force: "2020-06-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012101/2023-11-08/0"
-intitule_bron: "Stcrt.2000-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-22"
-intitule_published: "2000-12-22"
-intitule_in_force: "2000-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-33191"
-original_signed_date: "2020-06-15"
-original_published_date: "2020-06-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2020-33191"
-entry_into_force_date: "2020-06-15"
-jci_1_3: "jci1.3:c:BWBR0012101&z=2023-11-08&g=2023-11-08"
-jci_1_0: "1.0:c:BWBR0012101&g=2023-11-08"
-citeertitel_status: "officieel"
-short_title: "Regeling ontslaguitkering vliegers Landelijke eenheid"
-signed_date: "2020-06-15"
-entry_into_force: "2020-06-15"
+publicatiedatum: 2020-06-15
+laatste_update: 2023-11-08
+status: geldig
+toestand: 2023-11-08
+bron: "https://wetten.overheid.nl/BWBR0012101"
+opgehaald: 2026-08-05
 ---
+
 # Regeling ontslaguitkering vliegers KLPD
-
-gelet op [artikel 88a, vijfde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=88a);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -76,6 +50,16 @@ In deze regeling wordt verstaan onder:
 
 - p. gerechtvaardigde aanspraak: de aanspraak, bedoeld in [artikel 1, onderdeel r, van het Besluit bovenwettelijke werkloosheidsuitkering politie](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&artikel=1).
 
+##### Artikel 1a
+
+1. In deze regeling wordt verstaan onder berekeningsgrondslag: de bezoldiging berekend over een kalendermaand, waarop betrokkene op de dag voorafgaand aan zijn ontslag aanspraak had of bij uitoefening van zijn functie zou hebben gehad, vermeerderd met de vakantie-uitkering en de eindejaarsuitkering.
+
+2. Van de berekeningsgrondslag zijn uitgezonderd de toelagen die niet gedurende een jaar of langer periodiek zijn ontvangen en betalingen die het karakter hebben van een onkostenvergoeding.
+
+3. Indien de toelagen die deel uitmaken van de berekeningsgrondslag in hoogte variëren, wordt tot de berekeningsgrondslag gerekend de som van die toelagen over het jaar dat onmiddellijk voorafgaat aan de in het eerste lid genoemde datum, indien van toepassing vermeerderd met de vakantie-uitkering over die toelagen, gedeeld door twaalf.
+
+4. De bezoldiging, omschreven in het eerste lid, wordt aangepast overeenkomstig een algemene salarismaatregel in de sector Politie.
+
 ##### Artikel 2
 
 1. De betrokkene heeft recht op de uitkering met ingang van de dag van ingang van zijn ontslag.
@@ -86,11 +70,25 @@ In deze regeling wordt verstaan onder:
 
 De hoogte van de uitkering is gedurende de eerste zestig maanden 80% van de berekeningsgrondslag en vervolgens 70% van de berekeningsgrondslag.
 
+##### Artikel 3a
+
+1. Aan de betrokkene met een op 1 januari van het desbetreffende kalenderjaar pensioengevend inkomen dat het bedrag, bedoeld in [artikel 18ga, eerste lid, van de Wet op de Loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga) overschrijdt, wordt maandelijks een uitkering verstrekt.
+
+2. De uitkering bedraagt een twaalfde deel van de in het eerste lid bedoelde overschrijding, vermenigvuldigd met het voor dat kalenderjaar geldende percentage in de premie voor ouderdoms- en nabestaandenpensioen, vastgesteld op grond van hoofdstuk 7.5 van het pensioenreglement, voor zover het betreft het werkgeversdeel.
+
 ##### Artikel 4
 
 1. Het bedrag van de uitkering wordt verminderd indien de betrokkene inkomsten geniet of gaat genieten als genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2023-11-08&g=2023-11-08).
 
 2. Vermindering van de uitkering vindt plaats voor zover het totale bedrag van de inkomsten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2023-11-08&g=2023-11-08), en de onverminderde uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=3&z=2023-11-08&g=2023-11-08), tezamen de berekeningsgrondslag waarnaar de uitkering wordt berekend te boven gaat.
+
+##### Artikel 4a
+
+1. Vanaf het ontslag vindt tot het bereiken van de leeftijd van 62 jaar pensioenopbouw plaats overeenkomstig hetgeen hierover in hoofdstuk 7.1.4 van het pensioenreglement ten aanzien van de betrokkene is bepaald.
+
+2. De voor de pensioenopbouw verschuldigde premie wordt, overeenkomstig het bepaalde in artikel 4 van de pensioenovereenkomst, verhaald op de betrokkene.
+
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing indien de betrokkene na het bereiken van de leeftijd van 62 jaar gebruik maakt van de mogelijkheid tot vrijwillige aanvullende voortzetting van zijn deelneming als bedoeld in hoofdstuk 2 van het pensioenreglement.
 
 ##### Artikel 5
 
@@ -160,47 +158,13 @@ Indien de betrokkene de gegevens die noodzakelijk zijn voor de vaststelling of d
 
 De uitkering wordt in maandelijkse termijnen betaald.
 
-##### Artikel 14
-
-Deze regeling treedt in werking met ingang van 1 januari 2001.
-
-##### Artikel 15
-
-Deze regeling wordt aangehaald als: Regeling ontslaguitkering vliegers Landelijke eenheid.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-1. In deze regeling wordt verstaan onder berekeningsgrondslag: de bezoldiging berekend over een kalendermaand, waarop betrokkene op de dag voorafgaand aan zijn ontslag aanspraak had of bij uitoefening van zijn functie zou hebben gehad, vermeerderd met de vakantie-uitkering en de eindejaarsuitkering.
-
-2. Van de berekeningsgrondslag zijn uitgezonderd de toelagen die niet gedurende een jaar of langer periodiek zijn ontvangen en betalingen die het karakter hebben van een onkostenvergoeding.
-
-3. Indien de toelagen die deel uitmaken van de berekeningsgrondslag in hoogte variëren, wordt tot de berekeningsgrondslag gerekend de som van die toelagen over het jaar dat onmiddellijk voorafgaat aan de in het eerste lid genoemde datum, indien van toepassing vermeerderd met de vakantie-uitkering over die toelagen, gedeeld door twaalf.
-
-4. De bezoldiging, omschreven in het eerste lid, wordt aangepast overeenkomstig een algemene salarismaatregel in de sector Politie.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-1. Vanaf het ontslag vindt tot het bereiken van de leeftijd van 62 jaar pensioenopbouw plaats overeenkomstig hetgeen hierover in hoofdstuk 7.1.4 van het pensioenreglement ten aanzien van de betrokkene is bepaald.
-
-2. De voor de pensioenopbouw verschuldigde premie wordt, overeenkomstig het bepaalde in artikel 4 van de pensioenovereenkomst, verhaald op de betrokkene.
-
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing indien de betrokkene na het bereiken van de leeftijd van 62 jaar gebruik maakt van de mogelijkheid tot vrijwillige aanvullende voortzetting van zijn deelneming als bedoeld in hoofdstuk 2 van het pensioenreglement.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
 ##### Artikel 13a
 
-Vervallen
-
-Deze regeling zal in de Staatscourant worden geplaatst.
+*Vervallen*
 
 ##### Artikel 13b
 
-1. In afwijking van [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=11&z=2023-11-08&g=2023-11-08), heeft de betrokkene die op enig tijdstip in de periode van 1 januari 2013 tot 26 juli 2016 recht had op een uitkering op grond van deze regeling en de leeftijd van 65 jaar bereikt op of na 1 april 2017 vanaf die leeftijd recht op een tegemoetkoming die bestaat uit:
+1. In afwijking van [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=11&z=2023-11-08&g=2023-11-08), heeft de betrokkene die op enig tijdstip in de periode van 1 januari 2013 tot 26 juli 2016 recht had op een uitkering op grond van deze regeling en de leeftijd van 65 jaar bereikt op of na 1 april 2017 vanaf die leeftijd recht op een tegemoetkoming die bestaat uit:
 
 - a. een uitkering die netto een bedrag oplevert dat gelijk is aan het ouderdomspensioen, verhoogd met de vakantiebijslag, dat de betrokkene op grond van de [Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) had ontvangen, indien die wet al op hem van toepassing was geweest;
 
@@ -210,12 +174,10 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 2. De tegemoetkoming wordt met ingang van het bereiken van de leeftijd van 65 jaar maandelijks uitgekeerd en eindigt met ingang van de dag waarop de betrokkene de AOW-gerechtigde leeftijd heeft bereikt, waarbij geldt dat het op grond van het eerste lid, onderdeel b, berekende totaal in die periode wordt uitgekeerd. Indien de betrokkene overlijdt voordat hij de AOW-gerechtigde leeftijd bereikt, eindigt de tegemoetkoming met ingang van de dag volgend op de dag van overlijden.
 
-Deze regeling zal in de Staatscourant worden geplaatst.
+##### Artikel 14
 
-##### Artikel 3a
+Deze regeling treedt in werking met ingang van 1 januari 2001.
 
-1. Aan de betrokkene met een op 1 januari van het desbetreffende kalenderjaar pensioengevend inkomen dat het bedrag, bedoeld in [artikel 18ga, eerste lid, van de Wet op de Loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga) overschrijdt, wordt maandelijks een uitkering verstrekt.
+##### Artikel 15
 
-2. De uitkering bedraagt een twaalfde deel van de in het eerste lid bedoelde overschrijding, vermenigvuldigd met het voor dat kalenderjaar geldende percentage in de premie voor ouderdoms- en nabestaandenpensioen, vastgesteld op grond van hoofdstuk 7.5 van het pensioenreglement, voor zover het betreft het werkgeversdeel.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling ontslaguitkering vliegers Landelijke eenheid.

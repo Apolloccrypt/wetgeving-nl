@@ -1,44 +1,23 @@
 ---
 title: "Richtlijnen opneming buitenlandse kinderen ter adoptie 2000"
 identifier: "BWBR0011679"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-12-01"
-last_updated: "2000-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011679"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4763343"
-version_id: "6569742"
-internal_id: "C7026981"
-label_id: "4741554"
-dtd_version: "2.0"
-original_entry_into_force: "2000-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011679/2000-12-01/0"
-intitule_bron: "Stcrt.2000-234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-29"
-intitule_published: "2000-12-01"
-intitule_in_force: "2000-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-234"
-original_signed_date: "2000-09-29"
-original_published_date: "2000-12-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-12-01"
-jci_1_3: "jci1.3:c:BWBR0011679&z=2000-12-01&g=2000-12-01"
-jci_1_0: "1.0:c:BWBR0011679&g=2000-12-01"
-citeertitel_status: "officieel"
-signed_date: "2000-09-29"
-entry_into_force: "2000-12-01"
+publicatiedatum: 2000-12-01
+laatste_update: 2000-12-01
+status: geldig
+toestand: 2000-12-01
+bron: "https://wetten.overheid.nl/BWBR0011679"
+opgehaald: 2026-08-05
 ---
+
 # Richtlijnen opneming buitenlandse kinderen ter adoptie 2000
 
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=5) en [8 van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=8);
-
-Besluit:
-
 ##### Artikel 1
+
+Verlening van toestemming tot opneming van meer dan een kind (
+
+artikel 3, tweede lid, van de wet
 
 1. Een beginseltoestemming betreft slechts de opneming van één buitenlands kind ter adoptie; toestemming kan echter worden verleend voor de opneming van:
 
@@ -50,15 +29,21 @@ Besluit:
 
 ##### Artikel 2
 
+Verlening van een beginseltoestemming bij overschrijding van de leeftijdsgrens van tweeënveertig jaren door een aspirant-adoptiefouder (
+
+artikel 5, vijfde lid, onder b.
+
+artikel 3, eerste lid, laatste zin van de wet
+
 1. Indien een aspirant-adoptiefouder op het tijdstip van indiening van het verzoek om verlening van een beginseltoestemming de leeftijd van tweeënveertig jaren heeft bereikt, kan dit verzoek worden ingewilligd indien bijzondere omstandigheden inwilliging wenselijk maken.
 
 Op bijzondere omstandigheden kan geen beroep worden gedaan in de volgende gevallen:
 
 - a. bij een verzoek om verlening van een beginseltoestemming van twee met elkaar gehuwde aspirant-adoptiefouders tezamen:
 
-- indien beide aspirant-adoptiefouders op het tijdstip van de indiening van het verzoek de leeftijd van vierenveertig jaren hebben bereikt, of
+   - indien beide aspirant-adoptiefouders op het tijdstip van de indiening van het verzoek de leeftijd van vierenveertig jaren hebben bereikt, of
 
-- indien redelijkerwijs te verwachten is dat de oudste aspirant-adoptiefouder op het tijdstip van de beslissing over de verlening van een beginseltoestemming de leeftijd van zesenveertig jaren zal hebben bereikt.
+   - indien redelijkerwijs te verwachten is dat de oudste aspirant-adoptiefouder op het tijdstip van de beslissing over de verlening van een beginseltoestemming de leeftijd van zesenveertig jaren zal hebben bereikt.
 
 - b. bij een verzoek om verlening van een beginseltoestemming van één aspirant-adoptiefouder alleen, indien die aspirant-adoptiefouder op het tijdstip van de indiening van het verzoek de leeftijd van vierenveertig jaren heeft bereikt.
 
@@ -92,6 +77,10 @@ In de onder c. en d. genoemde gevallen dient bovendien door onderzoek, verricht 
 
 ##### Artikel 3
 
+Verlening van toestemming tot opneming van een buitenlands kind, indien is te verwachten dat op het mogelijke tijdstip van opneming van een buitenlands kind het leeftijdsverschil tussen een of beide aspirant-adoptiefouders en het kind meer dan veertig jaren bedraagt (
+
+artikel 5, zesde en zevende lid, van de wet
+
 1. In geval van opneming van een buitenlands kind in een gezin van aspirant-adoptiefouders, waarin eigen kinderen, Nederlandse pleegkinderen dan wel uit het buitenland geadopteerd kinderen verblijven, kan, indien dat buitenlandse kind in verband met de leeftijdsopbouw van het gezin jonger zal zijn dan de reeds in het gezin verblijvende kinderen, een overschrijding van het leeftijdsverschil van ten hoogste veertig jaren tussen een van de aspirant-adoptiefouders en het buitenlandse kind worden toegestaan met ten hoogste twee jaren, met dien verstande dat het verschil in leeftijd tussen dat kind en het jongste kind in het gezin in beginsel niet meer dan twee jaren mag bedragen.
 
 2. Het leeftijdsverschil van ten hoogste veertig jaren tussen een van de aspirant-adoptief-ouders en het buitenlandse kind mag met meer dan twee jaren worden overschreden bij opneming van een buitenlands kind, in ieder geval indien:
@@ -107,6 +96,10 @@ In de onder c. en d. genoemde gevallen dient bovendien door onderzoek, verricht 
 3. In alle gevallen dient uit specifiek daarop gericht onderzoek door de raad voor de kinderbescherming te blijken dat de aspirant-adoptiefouders geschikt zijn tot de verzorging en opvoeding van een buitenlands kind als bedoeld in het tweede lid, a. tot en met d. en dat risicofactoren redelijkerwijs uitgesloten worden geacht.
 
 ##### Artikel 4
+
+Verlening van toestemming tot opneming van een buitenlands kind dat op het tijdstip van binnenkomst in Nederland zes jaar of ouder zal zijn (
+
+artikel 8, onder a, van de wet
 
 1. De opneming van een buitenlands kind dat op het tijdstip van binnenkomst in Nederland de leeftijd van zes jaar of ouder zal hebben bereikt, kan worden toegestaan, indien:
 

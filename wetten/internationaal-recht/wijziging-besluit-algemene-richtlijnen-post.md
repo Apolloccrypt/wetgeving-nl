@@ -1,45 +1,22 @@
 ---
 title: "Wijziging Besluit algemene richtlijnen post in verband met richtlijn nr. 97/67/EG van het Europees Parlement en de Raad van de Europese Unie van 15 december 1997 betreffende gemeenschappelijke regels voor de ontwikkeling van de interne markt voor postdiensten in de Gemeenschap en de verbetering van de kwaliteit van de dienst (PbEG 1998, L 15), het rapport ‘Markt en Overheid-toets op de postmarkt’ (Kamerstukken II 1999/2000, 24 036, nr. 142) en een aantal technische wijzigingen"
+citeertitel: "Wijziging Besluit algemene richtlijnen post"
 identifier: "BWBR0011370"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-06-01"
-last_updated: "2000-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011370"
+categorie: "Internationaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3662803"
-version_id: "5445842"
-internal_id: "C5638931"
-label_id: "3642724"
-dtd_version: "2.0"
-original_entry_into_force: "2000-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011370/2000-06-01/0"
-intitule_bron: "Stcrt.2000-101"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-05-23"
-intitule_published: "2000-05-25"
-intitule_in_force: "2000-05-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-101"
-original_signed_date: "2000-05-23"
-original_published_date: "2000-05-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-06-01"
-jci_1_3: "jci1.3:c:BWBR0011370&z=2000-06-01&g=2000-06-01"
-jci_1_0: "1.0:c:BWBR0011370&g=2000-06-01"
-citeertitel_status: "officieel"
-short_title: "Wijziging Besluit algemene richtlijnen post"
-signed_date: "2000-05-23"
-entry_into_force: "2000-06-01"
+publicatiedatum: 2000-06-01
+laatste_update: 2000-06-01
+status: geldig
+toestand: 2000-06-01
+bron: "https://wetten.overheid.nl/BWBR0011370"
+opgehaald: 2026-08-05
 ---
-# Wijziging Besluit algemene richtlijnen post in verband met richtlijn nr. 97/67/EG van het Europees Parlement en de Raad van de Europese Unie van 15 december 1997 betreffende gemeenschappelijke regels voor de ontwikkeling van de interne markt voor postdiensten in de Gemeenschap en de verbetering van de kwaliteit van de dienst (PbEG 1998, L 15), het rapport ‘Markt en Overheid-toets op de postmarkt’ (Kamerstukken II 1999/2000, 24 036, nr. 142) en een aantal technische wijzigingen
 
-Besluit:
+# Wijziging Besluit algemene richtlijnen post in verband met richtlijn nr. 97/67/EG van het Europees Parlement en de Raad van de Europese Unie van 15 december 1997 betreffende gemeenschappelijke regels voor de ontwikkeling van de interne markt voor postdiensten in de Gemeenschap en de verbetering van de kwaliteit van de dienst (PbEG 1998, L 15), het rapport ‘Markt en Overheid-toets op de postmarkt’ (Kamerstukken II 1999/2000, 24 036, nr. 142) en een aantal technische wijzigingen
 
 ##### Artikel I
 
-Wijzigt het Besluit algemene richtlijnen post.
+*Wijzigt het Besluit algemene richtlijnen post.*
 
 ##### Artikel II
 
@@ -66,5 +43,3 @@ De tekst van het Besluit algemene richtlijnen post wordt in de Staatscourant gep
 ##### Artikel V
 
 Dit besluit treedt in werking op het tijdstip waarop de wet van 28 oktober 1999, houdende wijziging van de [Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423) en enige andere wetten in verband met richtlijn nr. 97.67/EG van het Europees Parlement en de Raad van de Europese Unie van 15 december 1997 betreffende gemeenschappelijke regels voor de ontwikkeling van de interne markt voor postdiensten in de gemeenschap en de verbetering van de kwaliteit van de dienst (PbEG 1998, L 15), en een aantal wetstechnische wijzigingen, alsmede het [Postbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011334) in werking treden.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

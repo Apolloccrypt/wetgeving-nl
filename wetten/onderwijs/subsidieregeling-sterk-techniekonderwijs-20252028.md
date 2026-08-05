@@ -5,11 +5,11 @@ identifier: "BWBR0049520"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2024-04-03
-laatste_update: 2026-07-24
+laatste_update: 2026-08-01
 status: geldig
-toestand: 2026-07-24
+toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0049520"
-opgehaald: 2026-07-31
+opgehaald: 2026-08-05
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 27 maart 2024, nr. OVO/43595480, houdende regels voor de subsidieverstrekking voor techniekonderwijs in het vmbo (Subsidieregeling sterk techniekonderwijs 2025–2028)
@@ -38,9 +38,9 @@ opgehaald: 2026-07-31
 
 - *minister:* Minister voor Primair en Voortgezet Onderwijs;
 
-- *mbo-instelling:* instelling als bedoeld in artikel 1 van de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+- *mbo-instelling:* instelling als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1).
 
-- *penvoerder:* penvoerder als bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.5&z=2026-07-24&g=2026-07-24);
+- *penvoerder:* penvoerder als bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.5&z=2026-08-01&g=2026-08-01);
 
 - *praktijkonderwijs:* onderwijs als bedoeld in [artikel 2.8 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
 
@@ -50,9 +50,9 @@ opgehaald: 2026-07-31
 
 - *school:* school als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
-- *techniekluwe regio:* regio als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=3&artikel=3.1&z=2026-07-24&g=2026-07-24);
+- *techniekluwe regio:* regio als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=3&artikel=3.1&z=2026-08-01&g=2026-08-01);
 
-- *techniekregio:* regio als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=2&artikel=2.1&z=2026-07-24&g=2026-07-24);
+- *techniekregio:* regio als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=2&artikel=2.1&z=2026-08-01&g=2026-08-01);
 
 - *techniekonderwijs:*
 
@@ -107,7 +107,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - d. activiteiten waarvoor de minister reeds subsidie heeft verstrekt op grond van de [Regeling regionaal investeringsfonds mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0035054) of een andere ministeriële regeling.
 
-3. In afwijking van de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2), en [4.3, eerste lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) zijn voor gewijzigde aanvragen als bedoeld in [artikel 1.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.9&z=2026-07-24&g=2026-07-24), ook de kosten subsidiabel die vanaf 1 januari 2025 vooruitlopend op de subsidieverlening zijn gemaakt ten aanzien van de uitvoering van het activiteitenplan.
+3. In afwijking van de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2), en [4.3, eerste lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) zijn voor gewijzigde aanvragen als bedoeld in [artikel 1.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.9&z=2026-08-01&g=2026-08-01), ook de kosten subsidiabel die vanaf 1 januari 2025 vooruitlopend op de subsidieverlening zijn gemaakt ten aanzien van de uitvoering van het activiteitenplan.
 
 ##### Artikel 1.4. Cofinanciering
 
@@ -149,25 +149,25 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
       - iii. het ontwikkelen en toepassen van technologie in het kader van duurzaamheid;
 
-- b. een door alle aan de regio deelnemende partijen als bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=2&artikel=2.1&z=2026-07-24&g=2026-07-24) of [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=3&artikel=3.1&z=2026-07-24&g=2026-07-24), ondertekende samenwerkingsovereenkomst, inclusief de machtiging, bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.5&z=2026-07-24&g=2026-07-24);
+- b. een door alle aan de regio deelnemende partijen als bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=2&artikel=2.1&z=2026-08-01&g=2026-08-01) of [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=3&artikel=3.1&z=2026-08-01&g=2026-08-01), ondertekende samenwerkingsovereenkomst, inclusief de machtiging, bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.5&z=2026-08-01&g=2026-08-01);
 
 - c. een activiteitenplan voor de periode 2025–2028 op hoofdlijnen; en
 
-- d. een begroting op hoofdlijnen, als bedoeld in [artikel 1.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.12&z=2026-07-24&g=2026-07-24).
+- d. een begroting op hoofdlijnen, als bedoeld in [artikel 1.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.12&z=2026-08-01&g=2026-08-01).
 
 4. De subsidieaanvraag kan worden ingediend van 1 september 2024 09:00 uur tot en met 1 oktober 2024, 16:00 uur. Aanvragen ingediend na 1 oktober 2024, 16:00 uur, worden afgewezen.
 
 ##### Artikel 1.7. Beoordeling subsidieaanvraag
 
-1. Een subsidieaanvraag wordt beoordeeld aan de hand van het beoordelingskader, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1&z=2026-07-24&g=2026-07-24).
+1. Een subsidieaanvraag wordt beoordeeld aan de hand van het beoordelingskader, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1&z=2026-08-01&g=2026-08-01).
 
-2. Subsidie wordt slechts verleend indien de aanvraag voldoet aan alle criteria, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1&z=2026-07-24&g=2026-07-24).
+2. Subsidie wordt slechts verleend indien de aanvraag voldoet aan alle criteria, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1&z=2026-08-01&g=2026-08-01).
 
 ##### Artikel 1.8. Beoordeling activiteitenplan
 
-1. De minister stelt een onafhankelijke adviescommissie in die de minister adviseert over de uitwerking van het activiteitenplan bedoeld in [artikel 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2026-07-24&g=2026-07-24), en de voortgangsrapportage, bedoeld in [artikel 1.11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2026-07-24&g=2026-07-24).
+1. De minister stelt een onafhankelijke adviescommissie in die de minister adviseert over de uitwerking van het activiteitenplan bedoeld in [artikel 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2026-08-01&g=2026-08-01), en de voortgangsrapportage, bedoeld in [artikel 1.11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2026-08-01&g=2026-08-01).
 
-2. De uitwerking van het activiteitenplan en de voortgangsrapportage worden beoordeeld aan de hand van het beoordelingskader, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=2&z=2026-07-24&g=2026-07-24). De adviescommissie geeft een positief advies wanneer de uitwerking van het activiteitenplan voldoet aan alle criteria opgenomen in bijlage 2.
+2. De uitwerking van het activiteitenplan en de voortgangsrapportage worden beoordeeld aan de hand van het beoordelingskader, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=2&z=2026-08-01&g=2026-08-01). De adviescommissie geeft een positief advies wanneer de uitwerking van het activiteitenplan voldoet aan alle criteria opgenomen in bijlage 2.
 
 3. Indien de adviescommissie een negatief advies geeft over de uitwerking van het activiteitenplan kan de penvoerder binnen 30 dagen na het ontvangen van het advies een gewijzigde uitwerking van het activiteitenplan indienen. Indien de adviescommissie de gewijzigde uitwerking opnieuw een negatieve beoordeling geeft, verwerkt zij in haar advies aan de minister mogelijke consequenties verbonden aan deze beoordeling.
 
@@ -181,7 +181,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Aan de subsidieverstrekking zijn de volgende verplichtingen verbonden:
 
-- a. de penvoerder zendt op uiterlijk 15 april 2025 een uitwerking van de activiteiten die in de periode van 1 januari 2025 tot en met 31 december 2026 worden verricht, inclusief een uitgewerkte begroting als bedoeld in [artikel 1.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.12&z=2026-07-24&g=2026-07-24), en een beschrijving van de wijze waarop de relevante lessen die zijn getrokken uit de evaluatie van de [Subsidieregeling sterk techniekonderwijs 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0041334) worden verwerkt in dit plan aan de minister;
+- a. de penvoerder zendt op uiterlijk 15 april 2025 een uitwerking van de activiteiten die in de periode van 1 januari 2025 tot en met 31 december 2026 worden verricht, inclusief een uitgewerkte begroting als bedoeld in [artikel 1.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.12&z=2026-08-01&g=2026-08-01), en een beschrijving van de wijze waarop de relevante lessen die zijn getrokken uit de evaluatie van de [Subsidieregeling sterk techniekonderwijs 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0041334) worden verwerkt in dit plan aan de minister;
 
 - b. de penvoerder zendt op uiterlijk 1 juni van het jaar volgend op het laatste bestedingsjaar een eindverslag over de gehele subsidieperiode aan de minister.
 
@@ -195,11 +195,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - a. een overzicht van de tot dan toe bestede middelen;
 
-- b. een uitwerking van de activiteiten die in de periode 1 januari 2027 tot en met 31 december 2028 worden verricht, inclusief een uitgewerkte begroting als bedoeld in [artikel 1.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.12&z=2026-07-24&g=2026-07-24), en een beschrijving van de wijze waarop de relevante lessen die zijn getrokken uit de periode 1 januari 2025 tot en met 31 juli 2026 worden verwerkt in de uitwerking van de activiteiten;
+- b. een uitwerking van de activiteiten die in de periode 1 januari 2027 tot en met 31 december 2028 worden verricht, inclusief een uitgewerkte begroting als bedoeld in [artikel 1.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.12&z=2026-08-01&g=2026-08-01), en een beschrijving van de wijze waarop de relevante lessen die zijn getrokken uit de periode 1 januari 2025 tot en met 31 juli 2026 worden verwerkt in de uitwerking van de activiteiten;
 
 - c. de voortgang ten aanzien van de geplande activiteiten in de periode 1 januari 2025 tot en met 31 juli 2026;
 
-- d. een uitgewerkte begroting over de periode 1 januari 2025 tot en met 31 juli 2026 als bedoeld in [artikel 1.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.12&z=2026-07-24&g=2026-07-24); en
+- d. een uitgewerkte begroting over de periode 1 januari 2025 tot en met 31 juli 2026 als bedoeld in [artikel 1.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.12&z=2026-08-01&g=2026-08-01); en
 
 - e. de bereikte mijlpalen en de gerealiseerde doelen over die betreffende periode.
 
@@ -209,7 +209,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - b. de voortgang ten aanzien van de geplande activiteiten in de periode 1 augustus 2026 tot en met 31 juli 2028;
 
-- c. een uitgewerkte begroting over de periode 1 augustus 2026 tot en met 31 juli 2028 als bedoeld in [artikel 1.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.12&z=2026-07-24&g=2026-07-24); en
+- c. een uitgewerkte begroting over de periode 1 augustus 2026 tot en met 31 juli 2028 als bedoeld in [artikel 1.12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.12&z=2026-08-01&g=2026-08-01); en
 
 - d. de bereikte mijlpalen en de gerealiseerde doelen over die betreffende periode.
 
@@ -217,7 +217,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 1.12. Begroting
 
-1. Er wordt onderscheid gemaakt tussen de begroting op hoofdlijnen voor vier jaar, bedoeld in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.6&z=2026-07-24&g=2026-07-24), en de uitgewerkte begroting voor twee jaar bedoeld in [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2026-07-24&g=2026-07-24) en [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2026-07-24&g=2026-07-24).
+1. Er wordt onderscheid gemaakt tussen de begroting op hoofdlijnen voor vier jaar, bedoeld in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.6&z=2026-08-01&g=2026-08-01), en de uitgewerkte begroting voor twee jaar bedoeld in [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2026-08-01&g=2026-08-01) en [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2026-08-01&g=2026-08-01).
 
 2. Voor de berekening van de personeelskosten wordt onderscheid gemaakt tussen interne en externe personeelskosten. Voor intern personeel wordt een uurtarief gehanteerd conform de meest recent geraamde GPL. Voor extern personeel wordt een integraal tarief gehanteerd van maximaal € 135,– per uur inclusief BTW.
 
@@ -225,25 +225,25 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. In aanvulling op het tweede en derde lid, omvat de begroting op hoofdlijnen:
 
-- a. de hoogte van het subsidiebedrag dat wordt aangevraagd, opgenomen in [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=3&z=2026-07-24&g=2026-07-24) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=4&z=2026-07-24&g=2026-07-24);
+- a. de hoogte van het subsidiebedrag dat wordt aangevraagd, opgenomen in [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=3&z=2026-08-01&g=2026-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=4&z=2026-08-01&g=2026-08-01);
 
 - b. een globaal overzicht van de geraamde kosten en opbrengsten van de aanvrager, voor zover deze betrekking hebben op de periode waarvoor subsidie wordt aangevraagd; en
 
-- c. een omschrijving van de cofinanciering van ten minste 10% van de totale meerjarenbegroting van het project, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.4&z=2026-07-24&g=2026-07-24).
+- c. een omschrijving van de cofinanciering van ten minste 10% van de totale meerjarenbegroting van het project, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.4&z=2026-08-01&g=2026-08-01).
 
-5. De begroting op hoofdlijnen moet bij het indienen van de uitgewerkte begroting worden herijkt voor 2025 en 2026 in een uitgewerkte begroting, als bedoeld in [artikel 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2026-07-24&g=2026-07-24), en voor de jaren 2027 en 2028 in een uitgewerkte begroting, als bedoeld in [artikel 1.11, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2026-07-24&g=2026-07-24), tot deze voldoet aan de eisen van de uitgewerkte begroting.
+5. De begroting op hoofdlijnen moet bij het indienen van de uitgewerkte begroting worden herijkt voor 2025 en 2026 in een uitgewerkte begroting, als bedoeld in [artikel 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2026-08-01&g=2026-08-01), en voor de jaren 2027 en 2028 in een uitgewerkte begroting, als bedoeld in [artikel 1.11, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2026-08-01&g=2026-08-01), tot deze voldoet aan de eisen van de uitgewerkte begroting.
 
 6. In aanvulling op het eerste en tweede lid, omvat de uitgewerkte begroting:
 
 - a. de hoogte van het deel van het totale subsidiebedrag wat deze begroting uitwerkt;
 
-- b. een onderbouwd overzicht van de geraamde inkomsten en uitgaven voor de betreffende kalenderjaren, bedoeld in [artikel 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2026-07-24&g=2026-07-24), en [artikel 1.11, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2026-07-24&g=2026-07-24);
+- b. een onderbouwd overzicht van de geraamde inkomsten en uitgaven voor de betreffende kalenderjaren, bedoeld in [artikel 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2026-08-01&g=2026-08-01), en [artikel 1.11, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2026-08-01&g=2026-08-01);
 
 - c. per activiteit een overzicht van de geraamde kosten en opbrengsten van de aanvrager, voor zover deze betrekking hebben op de periode waarvoor subsidie wordt aangevraagd, waarbij de begrotingsposten ieder afzonderlijk van een toelichting worden voorzien;
 
 - d. een omschrijving van hoe de middelen verdeeld worden over de betrokken partijen en wat de omvang van de kosten voor de overhead is; en
 
-- e. een omschrijving van de cofinanciering van het project bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.4&z=2026-07-24&g=2026-07-24).
+- e. een omschrijving van de cofinanciering van het project bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.4&z=2026-08-01&g=2026-08-01).
 
 ##### Artikel 1.13. Besteding subsidie
 
@@ -257,7 +257,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. De minister verleent een voorschot van 100%.
 
-3. De minister bepaalt in de verleningsbeschikking het betaalritme en neemt de uitwerking van de activiteiten en de begroting, bedoeld in de [artikelen 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2026-07-24&g=2026-07-24), en [1.11, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2026-07-24&g=2026-07-24), op als voorwaarden.
+3. De minister bepaalt in de verleningsbeschikking het betaalritme en neemt de uitwerking van de activiteiten en de begroting, bedoeld in de [artikelen 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2026-08-01&g=2026-08-01), en [1.11, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2026-08-01&g=2026-08-01), op als voorwaarden.
 
 ##### Artikel 1.15. Verantwoording
 
@@ -281,7 +281,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - d. in de regio binnen het beroepsgericht vmbo minimaal twee techniekprofielen worden aangeboden;
 
-- e. in de regio minimaal twee vmbo-vestigingen techniekonderwijs aanbieden als bedoeld in de begripsbepaling in [artikel 1.1 van techniekonderwijs, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.1&z=2026-07-24&g=2026-07-24);
+- e. in de regio minimaal twee vmbo-vestigingen techniekonderwijs aanbieden als bedoeld in de begripsbepaling in [artikel 1.1 van techniekonderwijs, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.1&z=2026-08-01&g=2026-08-01);
 
 - f. alle vso-vestigingen met een uitstroomprofiel vervolgonderwijs met een beroepsgericht technisch profiel desgewenst deelnemen;
 
@@ -301,13 +301,13 @@ Voor subsidieverstrekking aan penvoerders in techniekregio’s is op grond van d
 
 ##### Artikel 2.3. Subsidiebedrag
 
-1. De subsidie voor een techniekregio bestaat uit een bedrag dat wordt vastgesteld aan de hand van de in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=3&z=2026-07-24&g=2026-07-24) bij deze regeling opgenomen tabel.
+1. De subsidie voor een techniekregio bestaat uit een bedrag dat wordt vastgesteld aan de hand van de in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=3&z=2026-08-01&g=2026-08-01) bij deze regeling opgenomen tabel.
 
 2. Indien de samenstelling van een techniekregio gewijzigd is ten opzichte van de samenstelling van de techniekregio in de [Subsidieregeling sterk techniekonderwijs 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0041334), wordt het subsidiebedrag naar rato van de leerlingenaantallen die zijn gebruikt in de Subsidieregeling sterk techniekonderwijs 2020–2024 verdeeld.
 
 ##### Artikel 2.4. Toekenning subsidie
 
-Indien een aanvraag op alle criteria zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1&z=2026-07-24&g=2026-07-24) als voldoende wordt beoordeeld, wordt deze aanvraag gehonoreerd.
+Indien een aanvraag op alle criteria zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1&z=2026-08-01&g=2026-08-01) als voldoende wordt beoordeeld, wordt deze aanvraag gehonoreerd.
 
 ##### Artikel 2.5. Vooraanmelding subsidieaanvraag
 
@@ -319,7 +319,7 @@ Indien een aanvraag op alle criteria zoals bedoeld in [bijlage 1](https://wetten
 
 - a. een aanduiding van het geografisch gebied; en
 
-- b. een door de penvoerder ondertekende intentieverklaring, bevattende de partijen bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=2&artikel=2.1&z=2026-07-24&g=2026-07-24).
+- b. een door de penvoerder ondertekende intentieverklaring, bevattende de partijen bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=2&artikel=2.1&z=2026-08-01&g=2026-08-01).
 
 4. De vooraanmelding wordt ingediend van 1 tot en met 30 juni 2024.
 
@@ -357,11 +357,11 @@ Voor subsidieverstrekking aan penvoerders in techniekluwe regio’s is op grond 
 
 ##### Artikel 3.3. Subsidiebedrag
 
-De subsidie voor een techniekluwe regio bestaat uit een bedrag dat wordt vastgesteld aan de hand van de in de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=4&z=2026-07-24&g=2026-07-24) bij deze regeling opgenomen tabel.
+De subsidie voor een techniekluwe regio bestaat uit een bedrag dat wordt vastgesteld aan de hand van de in de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=4&z=2026-08-01&g=2026-08-01) bij deze regeling opgenomen tabel.
 
 ##### Artikel 3.4. Toekenning subsidie
 
-Indien een aanvraag op alle criteria zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1&z=2026-07-24&g=2026-07-24) als voldoende wordt beoordeeld, wordt deze aanvraag gehonoreerd.
+Indien een aanvraag op alle criteria zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1&z=2026-08-01&g=2026-08-01) als voldoende wordt beoordeeld, wordt deze aanvraag gehonoreerd.
 
 ##### Artikel 3.5. Vooraanmelding subsidieaanvraag
 
@@ -373,7 +373,7 @@ Indien een aanvraag op alle criteria zoals bedoeld in [bijlage 1](https://wetten
 
 - a. een aanduiding van het geografisch gebied; en
 
-- b. een door de penvoerder ondertekende intentieverklaring, bevattende de partijen bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=3&artikel=3.1&z=2026-07-24&g=2026-07-24).
+- b. een door de penvoerder ondertekende intentieverklaring, bevattende de partijen bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=3&artikel=3.1&z=2026-08-01&g=2026-08-01).
 
 4. De vooraanmelding wordt ingediend van 1 tot en met 30 juni 2024.
 

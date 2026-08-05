@@ -1,42 +1,17 @@
 ---
 title: "Besluit instelling Stuurgroep 'Handhaven op niveau'"
 identifier: "BWBR0011857"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-10-31"
-last_updated: "2003-10-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011857"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4810343"
-version_id: "6616842"
-internal_id: "C7074081"
-label_id: "4788514"
-dtd_version: "2.0"
-original_entry_into_force: "2000-12-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011857/2003-10-31/0"
-intitule_bron: "Stcrt.2000-234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-11-29"
-intitule_published: "2000-12-01"
-intitule_in_force: "2000-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-234"
-original_signed_date: "2000-11-29"
-original_published_date: "2000-12-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-12-03"
-jci_1_3: "jci1.3:c:BWBR0011857&z=2003-10-31&g=2003-10-31"
-jci_1_0: "1.0:c:BWBR0011857&g=2003-10-31"
-citeertitel_status: "officieel"
-signed_date: "2000-11-29"
-entry_into_force: "2000-12-03"
+publicatiedatum: 2000-12-03
+laatste_update: 2003-10-31
+status: geldig
+toestand: 2003-10-31
+bron: "https://wetten.overheid.nl/BWBR0011857"
+opgehaald: 2026-08-05
 ---
+
 # Besluit instelling Stuurgroep 'Handhaven op niveau'
-
-Overwegende dat de uitvoering van het kabinetsstandpunt `Handhaven op niveau' een groot aantal werkzaamheden met zich meebrengt die in nauwe samenspraak met de bestuurlijke partners en de handhavende organisaties moeten worden ontplooid en uitgevoerd;
-
-Besluit:
 
 #### Instelling en taak
 

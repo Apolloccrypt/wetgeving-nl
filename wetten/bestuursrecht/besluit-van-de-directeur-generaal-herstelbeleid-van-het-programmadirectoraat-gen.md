@@ -9,7 +9,7 @@ laatste_update: 2026-07-31
 status: geldig
 toestand: 2026-07-31
 bron: "https://wetten.overheid.nl/BWBR0052922"
-opgehaald: 2026-08-04
+opgehaald: 2026-08-05
 ---
 
 # Besluit van de directeur-generaal Herstelbeleid van het programmadirectoraat-generaal Herstel van 22 juli 2026 (2026-0000315303) tot het verlenen van ondermachtiging inzake het behandelen van klachten in de zin van de Algemene wet bestuursrecht en het ondertekenen van reactiebrieven op klachten

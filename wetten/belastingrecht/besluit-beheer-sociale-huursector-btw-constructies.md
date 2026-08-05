@@ -1,37 +1,16 @@
 ---
 title: "Besluit beheer sociale-huursector (BTW-constructies)"
 identifier: "BWBR0011256"
-country: "nl"
-rank: "circulaire"
-publication_date: "2000-03-27"
-last_updated: "2000-03-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011256"
+categorie: "Belastingrecht"
 soort: "circulaire"
-stam_id: "6349933"
-version_id: "11006422"
-internal_id: "C14899741"
-label_id: "6338844"
-original_entry_into_force: "2000-03-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011256/2000-03-27/0"
-intitule_bron: "Stcrt.2000-61"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-03-24"
-intitule_published: "2000-03-27"
-intitule_in_force: "2000-03-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-61"
-original_signed_date: "2000-03-24"
-original_published_date: "2000-03-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2000-61-p10-SC23288"
-entry_into_force_date: "2000-03-27"
-jci_1_3: "jci1.3:c:BWBR0011256&z=2000-03-27&g=2000-03-27"
-jci_1_0: "1.0:c:BWBR0011256&g=2000-03-27"
-citeertitel_status: "redactioneel"
-signed_date: "2000-03-24"
-entry_into_force: "2000-03-27"
+publicatiedatum: 2000-03-27
+laatste_update: 2000-03-27
+status: geldig
+toestand: 2000-03-27
+bron: "https://wetten.overheid.nl/BWBR0011256"
+opgehaald: 2026-08-05
 ---
+
 # Besluit beheer sociale-huursector (BTW-constructies)
 
 Geacht Bestuur/College,
@@ -52,15 +31,21 @@ In overleg met de toenmalige koepels van de toegelaten instellingen, NCIV en de 
 
 In het totaal zijn drie proefprocedures gevoerd, die betrekking hadden op de volgende situaties:
 
+- 1. Een toegelaten instelling die het voornemen had een constructie te realiseren, waarbij het voornemen in het kader van de besluit-van-aanmerkelijk-belang-procedure door de gemeente en door mijn ambtsvoorganger is verboden. (uitspraak HO1.97.0084, d.d. 10-07-1998)
+
+- 2. Een landelijk werkzame toegelaten instelling die, conform het destijds vigerende BBSH onder direct Rijkstoezicht vallend, het voornemen een BTW-constructie te realiseren rechtstreeks aan mijn ambtsvoorganger had voorgelegd en waarvoor de toestemming was geweigerd (uitspraak HO1.97.1252 d.d. 23-11-1998).
+
+- 3. Een toegelaten instelling die met instemming van de gemeente een BTW-constructie had gerealiseerd, maar waarbij mijn ambtsvoorganger door middel van een aanwijzing had aangegeven dat de constructie beëindigd moest worden (uitspraak HO1.99.0298 d.d. 15-10-1999).
+
 Daarnaast is een procedure gevoerd waarbij een landelijk werkzame toegelaten instelling in strijd met de door mijn ambtsvoorganger geweigerde toestemming een BTW-constructie had gerealiseerd (HO1 97.0972, d.d.10-07-1998).
 
 De overwegingen van de ABRS kunnen als volgt worden samengevat:
 
-Ten gevolge van de BTW-constructie wordt een wezenlijk deel van een activiteit, die een toegelaten instelling in het belang van de volkshuisvesting verricht, onttrokken aan het directe toezichtsinstrumentarium dat de overheid op grond van de [Woningwet](onbekend) en het [BBSH](onbekend) ter beschikking staat. Het belang van de volkshuisvesting ter plaatse wordt op deze wijze in ernstige mate geschaad. Het door de toegelaten instelling uitvoeren van een besluit van aanmerkelijk belang na het volgen van de daarvoor in het toenmalige [BBSH](onbekend) gegeven procedure (m.a.w. met gemeentelijke instemming) belemmert de Staatssecretaris niet alsnog gebruik te maken van zijn aanwijzingsbevoegdheid. Hoewel op grond van het destijds vigerende [BBSH](onbekend) in de uitspraak van de ABRS veel gewicht wordt toegekend aan de gemeentelijke instemming, blijft de Staatssecretaris ingevolge [artikel 70 van de Woningwet](onbekend) (toezicht) eindverantwoordelijk voor de volkshuisvesting.
+Ten gevolge van de BTW-constructie wordt een wezenlijk deel van een activiteit, die een toegelaten instelling in het belang van de volkshuisvesting verricht, onttrokken aan het directe toezichtsinstrumentarium dat de overheid op grond van de Woningwet en het BBSH ter beschikking staat. Het belang van de volkshuisvesting ter plaatse wordt op deze wijze in ernstige mate geschaad. Het door de toegelaten instelling uitvoeren van een besluit van aanmerkelijk belang na het volgen van de daarvoor in het toenmalige BBSH gegeven procedure (m.a.w. met gemeentelijke instemming) belemmert de Staatssecretaris niet alsnog gebruik te maken van zijn aanwijzingsbevoegdheid. Hoewel op grond van het destijds vigerende BBSH in de uitspraak van de ABRS veel gewicht wordt toegekend aan de gemeentelijke instemming, blijft de Staatssecretaris ingevolge artikel 70 van de Woningwet (toezicht) eindverantwoordelijk voor de volkshuisvesting.
 
 Voorts onderschrijft de ABRS de mening dat een privaatrechtelijk contract tussen een toegelaten instelling en een andere rechtspersoon niet dezelfde waarborgen biedt als een publiekrechtelijke regeling.
 
-In een van de proefprocedures is tevens een beroep gedaan op het overgangsrecht vervat in [artikel III van de wijzigingen BBSH](onbekend) per 1 januari 1997. Ook tijdens het overleg met Aedes vereniging van woningcorporaties is dit onderwerp aan de orde geweest. Genoemd artikel heeft een directe relatie met de verscherping van de regelgeving ten aanzien van het aangaan van verbindingen (invoering van de artikelen 2a en 11a en wijziging van art 26). Deze wijzigingen hadden betrekking op het uitvoeren van nevenactiviteiten in die verbindingen. Door het overgangsrecht in [artikel III](onbekend) van bedoelde wijzigingen werd een soepele overgang gecreëerd naar een situatie waarin de mogelijkheid om nevenactiviteiten in verbindingen uit te voeren duidelijker omschreven is en aan bepaalde striktere criteria dient te voldoen. Het verhuren en beheren van woningen is echter een kernactiviteit van een toegelaten instelling. Het onderbrengen van kernactiviteiten in een andere rechtspersoon, niet zijnde toegelaten instellingen deed en doet afbreuk aan het [BBSH](onbekend). De BTW-constructies en de verbindingen waarop het overgangsrecht van toepassing is, zijn derhalve verschillende grootheden. Het door de corporatie gedane beroep op dit artikel is in onder twee genoemde proefprocedure door de Arrondissementsrechtbank Utrecht afgewezen en dit is door de uitspraak van de ABRS bevestigd.
+In een van de proefprocedures is tevens een beroep gedaan op het overgangsrecht vervat in artikel III van de wijzigingen BBSH per 1 januari 1997. Ook tijdens het overleg met Aedes vereniging van woningcorporaties is dit onderwerp aan de orde geweest. Genoemd artikel heeft een directe relatie met de verscherping van de regelgeving ten aanzien van het aangaan van verbindingen (invoering van de artikelen 2a en 11a en wijziging van art 26). Deze wijzigingen hadden betrekking op het uitvoeren van nevenactiviteiten in die verbindingen. Door het overgangsrecht in artikel III van bedoelde wijzigingen werd een soepele overgang gecreëerd naar een situatie waarin de mogelijkheid om nevenactiviteiten in verbindingen uit te voeren duidelijker omschreven is en aan bepaalde striktere criteria dient te voldoen. Het verhuren en beheren van woningen is echter een kernactiviteit van een toegelaten instelling. Het onderbrengen van kernactiviteiten in een andere rechtspersoon, niet zijnde toegelaten instellingen deed en doet afbreuk aan het BBSH. De BTW-constructies en de verbindingen waarop het overgangsrecht van toepassing is, zijn derhalve verschillende grootheden. Het door de corporatie gedane beroep op dit artikel is in onder twee genoemde proefprocedure door de Arrondissementsrechtbank Utrecht afgewezen en dit is door de uitspraak van de ABRS bevestigd.
 
 Daarnaast kan het niet zo zijn dat verscherping van de regelgeving leidt tot een algemeen pardon voor constructies die op basis van de voorgaande soepelere regelgeving al niet acceptabel waren.
 
@@ -91,103 +76,3 @@ Ten aanzien van de toegelaten instellingen die, als gevolg van het onthouden van
 Ten aanzien van de toegelaten instellingen, waarvan het beroep is bevroren, ligt het thans, gezien de uitspraken van de ABRS, in de rede dat deze zelf het beroep intrekken door middel van een mededeling aan de arrondissementsrechtbank waar het beroepschrift is ingediend. Ik verzoek u een kopie van uw mededeling hieromtrent naar de Inspectie Volkshuisvesting in uw provincie te zenden.
 
 Voor nadere informatie over deze circulaire kunt u terecht bij de desbetreffende Inspectie Volkshuisvesting.
-
-## Bijlage
-
-Voor informatie omtrent het Besluit beheer sociale-huursector kunt u terecht op onderstaande telefoonnummers en adressen van de Inspectie van de Volkshuisvesting voor de provincie.
-
-### Groningen, Friesland en Drenthe
-
-Cascadeplein 10
-
-Postbus 1318
-
-9701 BH Groningen
-
-Tel: 050-5992700
-
-Fax: 050-5992711
-
-### Noord-Holland en Flevoland
-
-Kennemerplein 6-8
-
-Postbus 5054
-
-2000 GB Haarlem
-
-Tel: 023-5150700
-
-Fax: 023-5150701
-
-### Overijssel
-
-Hanzelaan 310
-
-Postbus 7006
-
-8007 HA Zwolle
-
-Tel: 038-4695555
-
-Fax: 038-4695560
-
-### Zuid-Holland
-
-Huis te Landelaan 492
-
-Postbus 3254
-
-2280 GG Rijswijk
-
-Tel: 070-3985811
-
-Fax: 070-3985800
-
-### Gelderland
-
-Pels Rijckenstraat 1
-
-Postbus 750
-
-6800 AT Arnhem
-
-Tel: 026-3528455
-
-Fax: 026-3528457
-
-### Noord-Brabant en Zeeland
-
-Schimmelt 28
-
-Postbus 6469
-
-5600 HL Eindhoven
-
-Tel: 040-2652911
-
-Fax: 040-2467311
-
-### Utrecht
-
-Maliebaan 18
-
-Postbus 85185
-
-3508 AD Utrecht
-
-Tel: 030-2335511
-
-Fax: 030-2335550
-
-### Limburg
-
-Avenue Ceramique 1-d
-
-Postbus 1118
-
-6201 BC Maastricht
-
-Tel: 043-3514100
-
-Fax: 043-3514121

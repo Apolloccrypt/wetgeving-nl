@@ -1,42 +1,17 @@
 ---
 title: "Regeling model legitimatiebewijs toezichthouders Awb"
 identifier: "BWBR0011459"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-07-06"
-last_updated: "2002-07-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011459"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "4537913"
-version_id: "6344182"
-internal_id: "C6588651"
-label_id: "4516254"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011459/2002-07-06/0"
-intitule_bron: "Stcrt.2000-131"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-07-04"
-intitule_published: "2000-07-11"
-intitule_in_force: "2000-07-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-131"
-original_signed_date: "2000-07-04"
-original_published_date: "2000-07-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0011459&z=2002-07-06&g=2002-07-06"
-jci_1_0: "1.0:c:BWBR0011459&g=2002-07-06"
-citeertitel_status: "officieel"
-signed_date: "2000-07-04"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2002-07-06
+status: geldig
+toestand: 2002-07-06
+bron: "https://wetten.overheid.nl/BWBR0011459"
+opgehaald: 2026-08-05
 ---
+
 # Regeling model legitimatiebewijs toezichthouders Awb
-
-Gelet op [artikel 5:12, derde lid, tweede volzin, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -73,5 +48,3 @@ Deze regeling wordt aangehaald als: Regeling model legitimatiebewijs toezichthou
 ##### Artikel 6
 
 Deze regeling treedt in werking met ingang van 1 januari 2001.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

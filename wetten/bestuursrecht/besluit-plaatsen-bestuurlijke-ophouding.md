@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 28 april 2000, houdende regels omtrent de geschiktheid van plaatsen waar groepen van personen bestuurlijk worden opgehouden (Besluit plaatsen bestuurlijke ophouding)"
+citeertitel: "Besluit plaatsen bestuurlijke ophouding"
 identifier: "BWBR0011332"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011332"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "1221103"
-version_id: "1798212"
-internal_id: "C1798211"
-label_id: "1182464"
-dtd_version: "2.0"
-original_entry_into_force: "2000-05-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011332/2010-10-10/0"
-intitule_bron: "Stb.2000-180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-04-28"
-intitule_published: "2000-05-04"
-intitule_in_force: "2000-05-04"
-intitule_status: "goed"
-original_publication: "Stb.2000-180"
-original_signed_date: "2000-04-28"
-original_published_date: "2000-05-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2000-180"
-entry_into_force_date: "2000-05-05"
-jci_1_3: "jci1.3:c:BWBR0011332&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0011332&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Besluit plaatsen bestuurlijke ophouding"
-signed_date: "2000-04-28"
-entry_into_force: "2000-05-05"
+publicatiedatum: 2000-05-05
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0011332"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 28 april 2000, houdende regels omtrent de geschiktheid van plaatsen waar groepen van personen bestuurlijk worden opgehouden (Besluit plaatsen bestuurlijke ophouding)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 25 februari 2000, nr. EA2000/U58162;
-
-Gelet op [artikel 154a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154a), en [176a, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=176a);
-
-De Raad van State gehoord (advies van 23 maart 2000, nr. W04.00.0088/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 25 april 2000, nr. EA2000/464269;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Begripsbepaling
 
@@ -55,6 +23,10 @@ In dit besluit wordt verstaan onder:
 - a. opgehoudenen: personen die op basis van [artikel 154a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154a), dan wel [artikel 176a, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=176a) dan wel [artikel 158, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=158), dan wel [artikel 180, derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=180) tijdelijk worden opgehouden;
 
 - b. plaats van ophouding: door de burgemeester onderscheidenlijk de gezaghebber aangewezen plaats waar opgehoudenen tijdelijk worden opgevangen.
+
+##### Artikel 1a
+
+Dit besluit berust mede op de [artikelen158, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=158), en [180, derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=180).
 
 #### Paragraaf 2. Eisen aan de plaats van ophouding
 
@@ -105,15 +77,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit plaatsen bestuurlijke ophouding.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op de [artikelen158, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=158), en [180, derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=180).
-
-#### Paragraaf 2. Eisen aan de plaats van ophouding
-
-#### Paragraaf 3. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.

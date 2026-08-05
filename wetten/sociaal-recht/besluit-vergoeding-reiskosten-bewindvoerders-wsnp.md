@@ -1,49 +1,17 @@
 ---
 title: "Besluit vergoeding reiskosten bewindvoerders Wsnp"
 identifier: "BWBR0012620"
-country: "nl"
-rank: "zbo"
-publication_date: "2001-09-01"
-last_updated: "2001-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012620"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6056213"
-version_id: "10708632"
-internal_id: "C14536981"
-label_id: "6045504"
-original_entry_into_force: "2001-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012620/2001-09-01/0"
-intitule_bron: "Stcrt.2001-130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-06-27"
-intitule_published: "2001-07-10"
-intitule_in_force: "2001-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-130"
-original_signed_date: "2001-06-27"
-original_published_date: "2001-07-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-09-01"
-jci_1_3: "jci1.3:c:BWBR0012620&z=2001-09-01&g=2001-09-01"
-jci_1_0: "1.0:c:BWBR0012620&g=2001-09-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-06-27"
-entry_into_force: "2001-09-01"
+publicatiedatum: 2001-09-01
+laatste_update: 2001-09-01
+status: geldig
+toestand: 2001-09-01
+bron: "https://wetten.overheid.nl/BWBR0012620"
+opgehaald: 2026-08-05
 ---
+
 # Besluit vergoeding reiskosten bewindvoerders Wsnp
-
-Gelet op:
-
-- De Wet schuldsanering natuurlijke personen (Staatsblad 1998, nrs. 445 en 447)
-
-- Art 4, lid 7 van het besluit subsidie bewindvoerder schuldsanering (Staatsblad 2001, nr. 80)
-
-- Titel 4.2 van de Algemene wet bestuursrecht
-
-- Artikel 8 Reisbesluit binnenland
-
-stelt aanvullende regels vast voor de vergoeding van reiskosten van bewindvoerders Wsnp.
 
 ##### Artikel 1
 
@@ -57,21 +25,21 @@ Daartoe stuurt de bewindvoerder de beschikking van de rechtbank waarin het salar
 
 Onder noodzakelijke reiskosten vallen alleen de volgende zaaksgebonden kosten:
 
-- -. kosten voor eenmalig huisbezoek
+- - kosten voor eenmalig huisbezoek
 
-- -. kosten voor zittingen
+- - kosten voor zittingen
 
-- -. kosten voor nader overleg met schuldenaar indien deze absoluut niet naar de bewindvoerder kan toekomen.
+- - kosten voor nader overleg met schuldenaar indien deze absoluut niet naar de bewindvoerder kan toekomen.
 
 Niet vergoed worden:
 
-- -. reistijd (deze is opgenomen in de reguliere vergoeding)
+- - reistijd (deze is opgenomen in de reguliere vergoeding)
 
-- -. kosten voor nader overleg met de schuldenaar als deze geen eigen vervoer heeft
+- - kosten voor nader overleg met de schuldenaar als deze geen eigen vervoer heeft
 
-- -. kosten voor nader overleg omdat de bewindvoerder ervoor kiest dit te voeren op het huisadres van de schuldenaar
+- - kosten voor nader overleg omdat de bewindvoerder ervoor kiest dit te voeren op het huisadres van de schuldenaar
 
-- -. kosten voor liquidatieactiviteiten (opslaan goederen e.d.). In dit geval mag ervan worden uitgegaan dat de boedel ruimte biedt voor vergoeding van de reiskosten.
+- - kosten voor liquidatieactiviteiten (opslaan goederen e.d.). In dit geval mag ervan worden uitgegaan dat de boedel ruimte biedt voor vergoeding van de reiskosten.
 
 ##### Artikel 4
 
@@ -81,17 +49,17 @@ Voor de noodzakelijke reiskosten wordt een vergoeding toegekend overeenkomstig d
 
 De Raad voor Rechtsbijstand kan toetsen:
 
-- -. of de bewindvoerder staat ingeschreven in het daartoe bestemde register,
+- - of de bewindvoerder staat ingeschreven in het daartoe bestemde register,
 
-- -. of de bewindvoerder inderdaad is benoemd in de opgevoerde zaken,
+- - of de bewindvoerder inderdaad is benoemd in de opgevoerde zaken,
 
-- -. of de declaratie voldoet aan het gestelde in artikel 2,
+- - of de declaratie voldoet aan het gestelde in artikel 2,
 
-- -. of de reiskosten noodzakelijk waren (artikel 3),
+- - of de reiskosten noodzakelijk waren (artikel 3),
 
-- -. of de gedeclareerde afstanden en tarieven juist zijn
+- - of de gedeclareerde afstanden en tarieven juist zijn
 
-- -. of de boedel geen ruimte laat voor vergoeding.
+- - of de boedel geen ruimte laat voor vergoeding.
 
 ##### Artikel 6
 

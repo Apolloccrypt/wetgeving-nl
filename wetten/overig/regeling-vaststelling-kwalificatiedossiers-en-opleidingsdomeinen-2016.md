@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0037678"
-opgehaald: 2026-08-04
+opgehaald: 2026-08-05
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016 nr. MBO/839405, houdende vaststelling van kwalificatiedossiers en opleidingsdomeinen (Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016)
@@ -81,7 +81,9 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 - c. of toepassing is gegeven aan [artikel 7.2.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.6); en
 
-- d. de prijsfactor.
+- d. de prijsfactor; en
+
+- e. indien het een opvolger is van een bestaande kwalificatie, de naam van de vorige kwalificatie.
 
 ##### Artikel 4. Vaststelling kwalificatiedossiers/kwalificaties OCW
 

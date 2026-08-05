@@ -1,76 +1,42 @@
 ---
 title: "Besluit van 16 juli 2001 tot wijziging van rechtspositiebesluiten ten aanzien van de gemeente- en provinciebestuurders"
+citeertitel: "Wijzigingsbesluit rechtspositiebesluiten gemeente- en provinciebestuurders"
 identifier: "BWBR0012695"
-country: "nl"
-rank: "amvb"
-publication_date: "2001-08-17"
-last_updated: "2001-08-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012695"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "1592003"
-version_id: "2355392"
-internal_id: "C20778831"
-label_id: "1546704"
-dtd_version: "2.0"
-original_entry_into_force: "2001-08-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012695/2001-08-17/0"
-intitule_bron: "Stb.2001-367"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-16"
-intitule_published: "2001-08-16"
-intitule_in_force: "2001-08-16"
-intitule_status: "goed"
-original_publication: "Stb.2001-367"
-original_signed_date: "2001-07-16"
-original_published_date: "2001-08-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-367"
-entry_into_force_date: "2001-08-17"
-jci_1_3: "jci1.3:c:BWBR0012695&z=2001-08-17&g=2001-08-17"
-jci_1_0: "1.0:c:BWBR0012695&g=2001-08-17"
-citeertitel_status: "officieel"
-short_title: "Wijzigingsbesluit rechtspositiebesluiten gemeente- en provinciebestuurders"
-signed_date: "2001-07-16"
-entry_into_force: "2001-08-17"
+publicatiedatum: 2001-08-17
+laatste_update: 2001-08-17
+status: geldig
+toestand: 2001-08-17
+bron: "https://wetten.overheid.nl/BWBR0012695"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 16 juli 2001 tot wijziging van rechtspositiebesluiten ten aanzien van de gemeente- en provinciebestuurders
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 mei 2001, directoraat-generaal Openbaar Bestuur, nr. BW2001/U1008;
-
-Gelet op de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=44), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=66), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=95) en [96 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=96) en de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=43), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=65) en [93 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=93);
-
-De Raad van State gehoord (advies van 21 juni 2001, No W04.01.0255/I);
-
-Gezien het nader rapport van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 5 juli 2001, nr. BW2001/U75794, directoraat-generaal Openbaar Bestuur;
-
-Hebben goedgevonden en verstaan:
-
-Werkt terug tot en met 1 januari 2001.
 
 ##### Artikel I
 
-Wijzigt het Rechtspositiebesluit commissarissen van de Koning.
+*Wijzigt het Rechtspositiebesluit commissarissen van de Koning.*
 
 ##### Artikel II
 
-Wijzigt het Rechtspositiebesluit burgemeesters 1994.
+*Wijzigt het Rechtspositiebesluit burgemeesters 1994.*
 
 ##### Artikel III
 
-Wijzigt het Rechtspositiebesluit gedeputeerden.
+*Wijzigt het Rechtspositiebesluit gedeputeerden.*
 
 ##### Artikel IV
 
-Wijzigt het Rechtspositiebesluit wethouders.
+*Wijzigt het Rechtspositiebesluit wethouders.*
 
 ##### Artikel V
 
-Wijzigt het Rechtspositiebesluit staten- en commissieleden.
+*Wijzigt het Rechtspositiebesluit staten- en commissieleden.*
 
 ##### Artikel VI
 
-Wijzigt het Rechtspositiebesluit raads- en commissieleden.
+*Wijzigt het Rechtspositiebesluit raads- en commissieleden.*
 
 ##### Artikel VII
 
@@ -89,5 +55,3 @@ Indien na 1 januari 2002 uitvoering wordt gegeven aan [artikel VII](https://wett
 ##### Artikel IX
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2001.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

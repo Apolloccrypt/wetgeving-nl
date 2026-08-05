@@ -1,48 +1,18 @@
 ---
 title: "Wet van 12 april 2001, houdende toetsing van levensbeëindiging op verzoek en hulp bij zelfdoding en wijziging van het Wetboek van Strafrecht en van de Wet op de lijkbezorging (Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding)"
+citeertitel: "Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding"
 identifier: "BWBR0012410"
-country: "nl"
-rank: "wet"
-publication_date: "2021-10-01"
-last_updated: "2021-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012410"
+categorie: "Strafrecht"
 soort: "wet"
-stam_id: "1568913"
-version_id: "17607202"
-internal_id: "C24364561"
-label_id: "1524504"
-dtd_version: "2.0"
-original_entry_into_force: "2010-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012410/2021-10-01/0"
-intitule_bron: "Stb.2001-194"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-04-12"
-intitule_published: "2001-04-26"
-intitule_in_force: "2002-03-26"
-intitule_status: "goed"
-original_publication: "Stb.2010-350"
-original_signed_date: "2010-05-17"
-original_published_date: "2010-09-01"
-original_effect: "structuurwijziging"
-original_dossier: "31959"
-original_url_id: "stb-2010-350"
-entry_into_force_date: "2010-05-17"
-entry_into_force_dossier: "31959"
-jci_1_3: "jci1.3:c:BWBR0012410&z=2021-10-01&g=2021-10-01"
-jci_1_0: "1.0:c:BWBR0012410&g=2021-10-01"
-citeertitel_status: "officieel"
-short_title: "Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding"
-signed_date: "2010-05-17"
-entry_into_force: "2010-05-17"
+publicatiedatum: 2010-05-17
+laatste_update: 2021-10-01
+status: geldig
+toestand: 2021-10-01
+bron: "https://wetten.overheid.nl/BWBR0012410"
+opgehaald: 2026-08-05
 ---
+
 # Wet van 12 april 2001, houdende toetsing van levensbeëindiging op verzoek en hulp bij zelfdoding en wijziging van het Wetboek van Strafrecht en van de Wet op de lijkbezorging (Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) een strafuitsluitingsgrond op te nemen voor de arts die met inachtneming van wettelijk vast te leggen zorgvuldigheidseisen levensbeëindiging op verzoek toepast of hulp bij zelfdoding verleent, en daartoe bij wet een meldings- en toetsingsprocedure vast te stellen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Begripsomschrijvingen
 
@@ -222,30 +192,6 @@ Onze Ministers brengen jaarlijks ter gelegenheid van het indienen van de begroti
 
 ### Hoofdstuk IIIa. Bonaire, Sint Eustatius en Saba
 
-##### Artikel 20
-
-Wijzigt het Wetboek van Strafrecht.
-
-##### Artikel 21
-
-Wijzigt de Wet op de lijkbezorging.
-
-##### Artikel 22
-
-Wijzigt de Algemene wet bestuursrecht.
-
-### Hoofdstuk V. Slotbepalingen
-
-##### Artikel 23
-
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 24
-
-Deze wet wordt aangehaald als: Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 19a
 
 Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba met inachtneming van het in dit hoofdstuk bepaalde.
@@ -254,17 +200,17 @@ Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius 
 
 1. Voor de toepassing van:
 
-- –. [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2021-10-01&g=2021-10-01), wordt in plaats van «[artikel 294, tweede lid, tweede volzin, Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294)» gelezen: artikel 307, tweede lid, tweede volzin, van het Wetboek van Strafrecht BES.
+- – [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2021-10-01&g=2021-10-01), wordt in plaats van «[artikel 294, tweede lid, tweede volzin, Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294)» gelezen: artikel 307, tweede lid, tweede volzin, van het Wetboek van Strafrecht BES.
 
-- –. [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2021-10-01&g=2021-10-01), wordt in plaats van «een regionale toetsingscommissie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-10-01&g=2021-10-01)» gelezen: een commissie als bedoeld in [artikel 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=IIIa&artikel=19c&z=2021-10-01&g=2021-10-01).
+- – [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2021-10-01&g=2021-10-01), wordt in plaats van «een regionale toetsingscommissie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-10-01&g=2021-10-01)» gelezen: een commissie als bedoeld in [artikel 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=IIIa&artikel=19c&z=2021-10-01&g=2021-10-01).
 
-- –. [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=II&artikel=2&z=2021-10-01&g=2021-10-01), wordt in plaats van «[artikel 293, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293)» gelezen: [artikel 306, tweede lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=306).
+- – [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=II&artikel=2&z=2021-10-01&g=2021-10-01), wordt in plaats van «[artikel 293, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293)» gelezen: [artikel 306, tweede lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=306).
 
-- –. [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2021-10-01&g=2021-10-01), wordt in plaats van «[artikel 7, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=7)» gelezen: [artikel 1, derde lid, van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1).
+- – [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2021-10-01&g=2021-10-01), wordt in plaats van «[artikel 7, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=7)» gelezen: [artikel 1, derde lid, van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1).
 
-- –. [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2021-10-01&g=2021-10-01), vervalt: of de betrokken hulpverleners.
+- – [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2021-10-01&g=2021-10-01), vervalt: of de betrokken hulpverleners.
 
-- –. [artikel 9, tweede lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=9&z=2021-10-01&g=2021-10-01), wordt in plaats van «het College van procureurs-generaal» gelezen: de procureur-generaal.
+- – [artikel 9, tweede lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=9&z=2021-10-01&g=2021-10-01), wordt in plaats van «het College van procureurs-generaal» gelezen: de procureur-generaal.
 
 2. [Artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2021-10-01&g=2021-10-01), is niet van toepassing.
 
@@ -278,6 +224,24 @@ Bij het overleg, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ### Hoofdstuk IV. Wijzigingen in andere wetten
 
+##### Artikel 20
+
+*Wijzigt het Wetboek van Strafrecht.*
+
+##### Artikel 21
+
+*Wijzigt de Wet op de lijkbezorging.*
+
+##### Artikel 22
+
+*Wijzigt de Algemene wet bestuursrecht.*
+
 ### Hoofdstuk V. Slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 23
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 24
+
+Deze wet wordt aangehaald als: Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.

@@ -6,10 +6,11 @@ categorie: "Milieu"
 soort: "wet"
 publicatiedatum: 2023-10-04
 laatste_update: 2026-06-20
-status: geldig
+status: vervallen
 toestand: 2026-06-20
 bron: "https://wetten.overheid.nl/BWBR0003245"
 opgehaald: 2026-07-30
+gecontroleerd: 2026-08-05
 ---
 
 # Wet van 13 juni 1979, houdende regelen met betrekking tot een aantal algemene onderwerpen op het gebied van de milieuhygiëne

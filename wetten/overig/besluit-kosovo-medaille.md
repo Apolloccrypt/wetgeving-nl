@@ -1,50 +1,17 @@
 ---
 title: "Besluit Kosovo-medaille"
 identifier: "BWBR0011155"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-10-01"
-last_updated: "2014-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011155"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4811313"
-version_id: "6617722"
-internal_id: "C7074961"
-label_id: "4789394"
-dtd_version: "2.0"
-original_entry_into_force: "2000-03-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011155/2014-10-01/0"
-intitule_bron: "Stcrt.2000-42"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-02-09"
-intitule_published: "2000-02-29"
-intitule_in_force: "2000-02-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-42"
-original_signed_date: "2000-02-09"
-original_published_date: "2000-02-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-03-02"
-jci_1_3: "jci1.3:c:BWBR0011155&z=2014-10-01&g=2014-10-01"
-jci_1_0: "1.0:c:BWBR0011155&g=2014-10-01"
-citeertitel_status: "officieel"
-signed_date: "2000-02-09"
-entry_into_force: "2000-03-02"
+publicatiedatum: 2000-03-02
+laatste_update: 2014-10-01
+status: geldig
+toestand: 2014-10-01
+bron: "https://wetten.overheid.nl/BWBR0011155"
+opgehaald: 2026-08-05
 ---
+
 # Besluit Kosovo-medaille
-
-Overwegende,
-
-dat personeel van alle krijgsmachtdelen heeft deelgenomen aan verschillende operaties in en rond Kosovo;
-
-dat het desbetreffende personeel op soms zeer korte termijn is uitgezonden en is ingezet onder risicovolle en primitieve omstandigheden;
-
-dat het optreden van het desbetreffende personeel in hoge mate heeft bijgedragen aan de inspanningen van de internationale gemeenschap een oplossing voor het Kosovo-conflict te bewerkstelligen;
-
-dat het wenselijk is erkentelijkheid tot uitdrukking te brengen jegens dat personeel, ongeacht de duur van die deelname,
-
-Besluit:
 
 ##### Artikel 1
 
@@ -103,5 +70,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit Kosovo-medaille.
-
-Dit besluit zal in de Staatscourant worden geplaatst. Tevens zal het besluit worden gepubliceerd in deel 10-004 van de Ministeriële Publicaties en worden verzonden volgens bijgevoegde verzendlijst.

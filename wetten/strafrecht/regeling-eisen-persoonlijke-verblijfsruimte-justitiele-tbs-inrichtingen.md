@@ -1,50 +1,31 @@
 ---
 title: "Regeling eisen persoonlijke verblijfsruimte justitiële tbs-inrichtingen"
 identifier: "BWBR0011912"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-01-12"
-last_updated: "2001-01-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011912"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3563433"
-version_id: "5346662"
-internal_id: "C5539751"
-label_id: "3543544"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011912/2001-01-12/0"
-intitule_bron: "Stcrt.2001-7"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-10"
-intitule_published: "2001-01-10"
-intitule_in_force: "2001-01-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-7"
-original_signed_date: "2000-12-10"
-original_published_date: "2001-01-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-01-12"
-jci_1_3: "jci1.3:c:BWBR0011912&z=2001-01-12&g=2001-01-12"
-jci_1_0: "1.0:c:BWBR0011912&g=2001-01-12"
-citeertitel_status: "officieel"
-signed_date: "2000-12-10"
-entry_into_force: "2001-01-12"
+publicatiedatum: 2001-01-12
+laatste_update: 2001-01-12
+status: geldig
+toestand: 2001-01-12
+bron: "https://wetten.overheid.nl/BWBR0011912"
+opgehaald: 2026-08-05
 ---
+
 # Regeling eisen persoonlijke verblijfsruimte justitiële tbs-inrichtingen
-
-Gelet op [artikel 16, eerste lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=16);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 22 september 2000, kenmerk 5053768/TvdW/rb;
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+wet:
+
+de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765);
+
+raam:
+
+glasruit met haar omlijsting
 
 ##### Artikel 2
 
@@ -127,5 +108,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling eisen persoonlijke verblijfsruimte justitiële tbs-inrichtingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

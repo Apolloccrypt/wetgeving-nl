@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 21 december 2000, houdende vaststelling van het Besluit meldingsregeling Wet Bpf 2000 (Besluit meldingsregeling Wet Bpf 2000)"
+citeertitel: "Besluit meldingsregeling Wet Bpf 2000"
 identifier: "BWBR0012093"
-country: "nl"
-rank: "amvb"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012093"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1500103"
-version_id: "2238592"
-internal_id: "C2238591"
-label_id: "1456724"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012093/2007-01-01/0"
-intitule_bron: "Stb.2000-631"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-21"
-intitule_published: "2000-12-28"
-intitule_in_force: "2000-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2000-631"
-original_signed_date: "2000-12-21"
-original_published_date: "2000-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2000-631"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0012093&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0012093&g=2007-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit meldingsregeling Wet Bpf 2000"
-signed_date: "2000-12-21"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0012093"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 21 december 2000, houdende vaststelling van het Besluit meldingsregeling Wet Bpf 2000 (Besluit meldingsregeling Wet Bpf 2000)
-
-Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst, van 11 oktober 2000, Directie Sociale Verzekeringen, Nr. SV/V&P/00/64573;
-
-Gelet op [artikel 23, tweede lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=23);
-
-De Raad van State gehoord (advies van 26 oktober 2000, No. W12.00.0480/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst, van 18 december 2000, Nr. SV/V&P/00/72194;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Definities
 
@@ -83,5 +51,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2001.
 ##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit meldingsregeling Wet Bpf 2000.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

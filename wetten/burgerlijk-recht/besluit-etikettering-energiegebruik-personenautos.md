@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 3 november 2000, houdende regels inzake de etikettering van het energiegebruik van personenauto's (Besluit etikettering energiegebruik personenauto's)"
+citeertitel: "Besluit etikettering energiegebruik personenauto's"
 identifier: "BWBR0011761"
-country: "nl"
-rank: "amvb"
-publication_date: "2014-03-20"
-last_updated: "2014-03-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011761"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1421833"
-version_id: "19729272"
-internal_id: "C27706891"
-label_id: "1380004"
-dtd_version: "2.0"
-original_entry_into_force: "2012-10-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011761/2014-03-20/0"
-intitule_bron: "Stb.2000-475"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-11-03"
-intitule_published: "2000-11-09"
-intitule_in_force: "2000-11-09"
-intitule_status: "goed"
-original_publication: "Stb.2012-508"
-original_signed_date: "2012-10-19"
-original_published_date: "2012-10-26"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2012-508"
-entry_into_force_date: "2012-10-19"
-jci_1_3: "jci1.3:c:BWBR0011761&z=2014-03-20&g=2014-03-20"
-jci_1_0: "1.0:c:BWBR0011761&g=2014-03-20"
-citeertitel_status: "officieel"
-short_title: "Besluit etikettering energiegebruik personenauto's"
-signed_date: "2012-10-19"
-entry_into_force: "2012-10-19"
+publicatiedatum: 2012-10-19
+laatste_update: 2014-03-20
+status: geldig
+toestand: 2014-03-20
+bron: "https://wetten.overheid.nl/BWBR0011761"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 3 november 2000, houdende regels inzake de etikettering van het energiegebruik van personenauto's (Besluit etikettering energiegebruik personenauto's)
-
-Op de voordracht van Onze Minister van Economische Zaken van 4 juli 2000, nr. WJZ00042055, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en in overeenstemming met Onze Minister van Verkeer en Waterstaat;
-
-Gelet op [richtlijn nr. 1999/94/EG](31999L0094) van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de beschikbaarheid van consumenteninformatie over het brandstofverbruik en de CO2-uitstoot bij het op de markt brengen van nieuwe personenauto's (PbEG 2000, L 12), op [artikel 6 van de Wet energiebesparing toestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0003916&artikel=6) en op [artikel 4b, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b);
-
-De Raad van State gehoord (advies van 24 augustus 2000, nr. W10.00.0271/II);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 26 oktober 2000, nr. WJZ 00066707, uitgebracht mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en in overeenstemming met Onze Minister van Verkeer en Waterstaat;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -54,9 +22,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. verordening (EG) 692/2008: Verordening (EG) nr. 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) 715/2007 van het Europees Parlement en de Raad van 20 juni 2007, betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEG 2008, L 199);
 
-- c. [richtlijn 2002/24/EG](32002L0024): [richtlijn nr. 2002/24/EG](32002L0024) van het Europees Parlement en de Raad van de Europese Unie van 18 maart 2002 (PbEG L 124) betreffende de goedkeuring van twee- of driewielige motorvoertuigen en de intrekking van [richtlijn nr. 92/61/EEG](31992L0061) van de Raad;
+- c. richtlijn 2002/24/EG: richtlijn nr. 2002/24/EG van het Europees Parlement en de Raad van de Europese Unie van 18 maart 2002 (PbEG L 124) betreffende de goedkeuring van twee- of driewielige motorvoertuigen en de intrekking van richtlijn nr. 92/61/EEG van de Raad;
 
-- d. [richtlijn 1999/94/EG](31999L0094): [richtlijn nr. 1999/94/EG](31999L0094) van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de beschikbaarheid van consumenteninformatie over het brandstofverbruik en de CO2-uitstoot bij het op de markt brengen van nieuwe personenauto's (PbEG 2000, L 12);
+- d. richtlijn 1999/94/EG: richtlijn nr. 1999/94/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de beschikbaarheid van consumenteninformatie over het brandstofverbruik en de CO2-uitstoot bij het op de markt brengen van nieuwe personenauto's (PbEG 2000, L 12);
 
 - e. personenauto: een motorvoertuig van categorie M1, zoals gedefinieerd in bijlage II bij richtlijn 2007/46/EG, met uitzondering van voertuigen die onder richtlijn 2002/24/EG vallen en voertuigen voor speciale doelen als omschreven in artikel 9, eerste lid, onder b, van richtlijn 2007/46/EG;
 
@@ -96,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - w. energie-etiket: een etiket met informatie ten behoeve van de consument omtrent het energiegebruik van de auto waarop het is aangebracht;
 
-- x. [richtlijn 92/21/EEG](31992L0021): [richtlijn nr. 92/21/EEG](31992L0021) van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende massa's en afmetingen van motorvoertuigen van categorie M1 (PbEEG 1992, L 129);
+- x. richtlijn 92/21/EEG: richtlijn nr. 92/21/EEG van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende massa's en afmetingen van motorvoertuigen van categorie M1 (PbEEG 1992, L 129);
 
 - y. energie-efficiëntieklasse: de klassegewijze indeling van nieuwe modellen personenauto’s op basis van de berekende waarden voor de relatieve energiezuinigheid ten opzichte van een referentiewaarde.
 
@@ -114,7 +82,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De RDW stelt jaarlijks vóór 1 december de brandstofverbruiksgids samen voor het eerstvolgende kalenderjaar.
 
-2. De brandstofverbruiksgids voldoet aan de eisen van bijlage II bij [richtlijn 1999/94/EG](31999L0094).
+2. De brandstofverbruiksgids voldoet aan de eisen van bijlage II bij richtlijn 1999/94/EG.
 
 3. De RDW stelt de brandstofverbruiksgids kosteloos beschikbaar aan de leveranciers.
 
@@ -150,6 +118,14 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Een energie-etiket als bedoeld in het eerste lid, onder a, kan in de periode van 1 november tot en met 31 december in plaats van een voor het desbetreffende kalenderjaar geldend etiket ook een etiket zijn dat betrekking heeft op het eerstvolgende kalenderjaar.
 
+##### Artikel 6a
+
+Bij regeling van Onze Minister van Infrastructuur en Milieu worden regels vastgesteld voor:
+
+- a. de bepaling van de energie-efficiëntieklasse en
+
+- b. de vaststelling van de constanten en waarden ten behoeve van de berekening van de relatieve zuinigheid.
+
 ##### Artikel 7
 
 1. De leverancier verstrekt jaarlijks vóór 1 oktober aan de RDW de volgende gegevens:
@@ -184,11 +160,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Een wijziging van de richtlijnen of van een daarbij behorende bijlage waarnaar in dit besluit wordt verwezen, treedt voor de toepassing van dit besluit in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-2. Onze Minister van Infrastructuur en Milieu doet mededeling van een wijziging van [richtlijn 1999/94/EG](31999L0094) in de Staatscourant.
+2. Onze Minister van Infrastructuur en Milieu doet mededeling van een wijziging van richtlijn 1999/94/EG in de Staatscourant.
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -197,197 +173,3 @@ Dit besluit treedt in werking met ingang van 18 januari 2001, met uitzondering v
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit etikettering energiegebruik personenauto's.
-
-## Bijlage 1. bij het Besluit etikettering energiegebruik personenauto's
-
-Het energie-etiket, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2010-01-01&g=2010-01-01), voldoet aan de volgende vereisten.
-
-Het etiket heeft de volgende vorm.
-
-Ten aanzien van de op het etiket te vermelden informatie geldt het volgende.
-
-- I. Handelsmerk of logo van de fabrikant.
-
-- II. Aanduiding van het model, met inachtneming van het bepaalde in artikel 7 van het besluit.
-
-- III. Brandstofsoort.
-
-- IV. Officieel brandstofverbruik, uitgedrukt in liters per 100 km, tot één decimaal nauwkeurig voor benzine, LPG of diesel, of in m3 per 100 km voor aardgas.
-
-- V. Officieel brandstofverbruik, uitgedrukt in «1 liter op km», tot één decimaal nauwkeurig voor benzine, LPG of diesel, of «1 m3 op km» voor aardgas.
-
-- VI. De energie-efficiëntieklasse op basis van de relatieve energiezuinigheid, bepaald overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2010-01-01&g=2010-01-01). Deze klasse wordt vermeld op hetzelfde niveau als de van toepassing zijnde pijl.
-
-- VII. Officiële specifieke CO2-uitstoot, uitgedrukt in gram per kilometer, afgerond op het dichtstbijzijnde gehele cijfer.
-
-- VIII. Het kalenderjaar waarvoor het etiket geldt.
-
-Het etiket heeft het A4-formaat (297 mm x 210 mm)
-
-De kleuren voor de energie-efficiëntieklassen en voor de pijl ter indicatie van de klasse die van toepassing is, zijn:
-
-CMYK: cyaan, magenta, geel, zwart.
-
-Voorbeeld: 07X0: 0% cyaan, 70% magenta, 100% geel, 0% zwart.
-
-Pijlen:
-
-- –. A: X0X0
-
-- –. B: 70X0
-
-- –. C: 30X0
-
-- –. D: 00X0
-
-- –. E: 03X0
-
-- –. F: 07X0
-
-- –. G: 0XX0
-
-Alle tekst wordt in zwart afgedrukt. De achtergrond is wit.
-
-## Bijlage 1. bij het Besluit etikettering energiegebruik personenauto's
-
-Het energie-etiket, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2014-03-20&g=2014-03-20), voldoet aan de volgende vereisten.
-
-Het etiket heeft de volgende vorm.
-
-Ten aanzien van de op het etiket te vermelden informatie geldt het volgende.
-
-- I. Handelsmerk of logo van de fabrikant.
-
-- II. Aanduiding van het model, met inachtneming van het bepaalde in artikel 7 van het besluit.
-
-- III. Brandstofsoort.
-
-- IV. Officieel brandstofverbruik, uitgedrukt in liters per 100 km, tot één decimaal nauwkeurig voor benzine, LPG of diesel, of in m3 per 100 km voor aardgas.
-
-- V. Officieel brandstofverbruik, uitgedrukt in «1 liter op km», tot één decimaal nauwkeurig voor benzine, LPG of diesel, of «1 m3 op km» voor aardgas.
-
-- VI. De energie-efficiëntieklasse op basis van de relatieve energiezuinigheid, bepaald overeenkomstig de regeling, bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=6a&z=2014-03-20&g=2014-03-20). Deze klasse wordt vermeld op hetzelfde niveau als de van toepassing zijnde pijl.
-
-- VII. Officiële specifieke CO2-uitstoot, uitgedrukt in gram per kilometer, afgerond op het dichtstbijzijnde gehele cijfer.
-
-- VIII. Het kalenderjaar waarvoor het etiket geldt.
-
-Het etiket heeft het A4-formaat (297 mm x 210 mm)
-
-De kleuren voor de energie-efficiëntieklassen en voor de pijl ter indicatie van de klasse die van toepassing is, zijn:
-
-CMYK: cyaan, magenta, geel, zwart.
-
-Voorbeeld: 07X0: 0% cyaan, 70% magenta, 100% geel, 0% zwart.
-
-Pijlen:
-
-- –. A: X0X0
-
-- –. B: 70X0
-
-- –. C: 30X0
-
-- –. D: 00X0
-
-- –. E: 03X0
-
-- –. F: 07X0
-
-- –. G: 0XX0
-
-Alle tekst wordt in zwart afgedrukt. De achtergrond is wit.
-
-## Bijlage 2. bij het Besluit etikettering energiegebruik personenauto's
-
-De poster en het display, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2014-03-20&g=2014-03-20), voldoen aan de volgende vereisten.
-
-- 1. De minimale afmeting is 70 cm x 50 cm.
-
-- 2. De informatie op de poster of het display is gemakkelijk leesbaar en gesteld in de Nederlandse taal.
-
-- 3. Indien het een display met een elektronisch scherm betreft, is dit scherm ten minste 25 cm x 32 cm (17") groot. De informatie op het elektronische scherm kan worden vertoond door gebruik te maken van scroll-technieken.
-
-- 4. De modellen personenauto's worden gegroepeerd per brandstoftype.
-
-- 5. Voor elk brandstoftype worden de modellen gerangschikt in volgorde van toenemende CO2-uitstoot, waarbij het model met het laagste officiële brandstofverbruik bovenaan komt te staan.
-
-- 6. Voor elk model personenauto op de lijst wordt aangegeven:
-
-- a. het merk en de benaming van het model met inachtneming van het bepaalde in [artikel 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=7&z=2014-03-20&g=2014-03-20);
-
-- b. het in cijfers uitgedrukte, tot op één decimaal nauwkeurig aangegeven, officiële brandstofverbruik, uitgedrukt in liters per 100 kilometer en kilometers per liter voor benzine, LPG of diesel, of in m3 per 100 kilometer en kilometers per m3 voor aardgas;
-
-- c. de in cijfers uitgedrukte officiële specifieke CO2-uitstoot in gram per kilometer, afgerond op het dichtstbijzijnde gehele cijfer.
-
-- 7. Op de poster of het display staan de teksten:
-
-- a. «Een gids betreffende het brandstofverbruik en de CO2-uitstoot met gegevens voor alle nieuwe modellen personenauto's is gratis verkrijgbaar op elk verkooppunt.»;
-
-- b. «Naast de brandstofefficiëntie van een auto zijn ook het rijgedrag en andere, niet-technische factoren bepalend voor het brandstofverbruik en de CO2-uitstoot van een auto. CO2 is het broeikasgas dat bij de wereldwijde klimaatverandering de belangrijkste rol speelt.»
-
-- 8. Indien het een display met een elektronisch scherm betreft, zijn de teksten, genoemd in onderdeel 7, permanent zichtbaar op het scherm.
-
-- 9. De poster of het display wordt ten minste iedere zes maanden bijgewerkt. Indien het een display met een elektronisch scherm betreft, wordt de informatie ten minste elke drie maanden bijgewerkt.
-
-- 10. Indien de poster of het display permanent vervangen wordt door een display met een elektronisch scherm wordt het elektronische scherm zodanig gepresenteerd dat daarmee op zijn minst even sterk de aandacht van de consument wordt getrokken als met een poster of display zonder elektronisch scherm het geval zou zijn geweest.
-
-## Bijlage 3. bij het Besluit etikettering energiegebruik personenauto's
-
-Reclamemateriaal, bedoeld in artikel 4 van het besluit, voldoet aan de volgende vereisten.
-
-1. De informatie is gemakkelijk leesbaar en valt niet minder op dan het hoofdbestanddeel van de in het reclamemateriaal verstrekte informatie.
-
-2. De informatie is, zelfs bij vluchtige inzage van het materiaal, gemakkelijk te begrijpen.
-
-3. In het reclamemateriaal worden het officiële brandstofverbruik en de officiële specifieke CO2-uitstoot opgenomen voor het model waarop het reclamemateriaal betrekking heeft. Indien het reclamemateriaal betrekking heeft op meer dan één model, worden hetzij de gegevens met betrekking tot het officiële brandstofverbruik en de officiële specifieke CO2-uitstoot voor alle vermelde modellen opgenomen, hetzij een reeks gegevens variërend van het slechtste tot het beste officiële brandstofverbruik en de slechtste tot de beste officiële specifieke CO2-uitstoot.
-
-4. Het officiële brandstofverbruik wordt, tot op één decimaal nauwkeurig, uitgedrukt in kilometer per liter en liters per 100 km liter voor benzine, LPG of diesel, of in m3 per 100 kilometer en kilometers per m3 voor aardgas. De officiële specifieke CO2-uitstoot wordt uitgedrukt in gram per kilometer, afgerond op het dichtstbijzijnde gehele cijfer.
-
-### I. Bepaling energie-efficiëntieklasse
-
-De energie-efficiëntieklasse van een nieuw model personenauto wordt bepaald aan de hand van de relatieve energiezuinigheid van de personenauto volgens de volgende tabel:
-
-Bij de vaststelling van de energie-efficiëntieklasse wordt de relatieve energiezuinigheid uitgedrukt als een percentage en niet afgerond. Wanneer verscheidene varianten of uitvoeringen onder één model zijn gegroepeerd, is de op te geven energie-efficiëntieklasse van het model gebaseerd op de minst zuinige variant of uitvoering binnen die groep. De relatieve energiezuinigheid wordt berekend volgens de volgende 6 stappen:
-
-Voor het bepalen van de energie-efficiëntieklasse voor personenauto’s waarvoor de test als bedoeld in Richtlijn 80/1268/EG (mede) met LPG of aardgas als brandstof is uitgevoerd, wordt de CO2-uitstoot van de auto met LPG of aardgas als brandstof gehanteerd. Hierbij wordt voor deze auto’s daar waar sprake is van de referentie CO2-uitstoot (CO2-uitstootref) uitgegaan van de referentiewaarden voor auto’s met benzine als brandstof.
-
-Personenauto's met een achteraf ingebouwde LPG- of aardgas installatie hebben de test van [richtlijn 80/1268/EEG](31980L1268) met benzine als brandstof ondergaan en worden om deze reden beschouwd als personenauto's met benzine als brandstof.
-
-De bij toepassing van de formules in te vullen lengte is de voor de variant waartoe de personenauto behoort, laagste lengtewaarde die is vermeld in de aan het EG-typegoedkeuringscertificaat gehechte bijlage I bij richtlijn 2007/46/EG. Indien de variant waartoe de personenauto behoort uitvoeringen met verschillende wielbases kent, dan wordt per wielbasisversie de laagste lengtewaarde van de desbetreffende uitvoeringen genomen die is vermeld in de aan het EG-typegoedkeuringscertificaat gehechte bijlage I bij richtlijn 2007/46/EG. De lengte is gemeten overeenkomstig [richtlijn 92/21/EEG](31992L0021).
-
-De bij toepassing van de formules in te vullen breedte is de voor de variant waartoe de personenauto behoort, laagste breedtewaarde die is vermeld in de, aan het EG-typegoedkeuringscertificaat gehechte, bijlage I bij richtlijn 2007/46/EG. De breedte is gemeten overeenkomstig [richtlijn 92/21/EEG](31992L0021).
-
-### II. Vaststelling constanten en waarden ten behoeve van de berekening
-
-De constanten C1, lengte,C2, lengte,C3, lengte,C1, benzine,C2, benzine,C3, benzine,C1, diesel,C2, diesel,C3, dieselworden berekend met behulp van de kleinste kwadraten methode. Hierbij wordt het aantal verkochte auto's van elke uitvoering in rekening gebracht.
-
-De constanten C1, lengte, C2, lengte, C3, lengte, C1, benzine, C2, benzine, C3, benzine, C1, diesel, C2, diesel, C3, diesel worden berekend met behulp van de zogenoemde kleinste-kwadraten-methode. Hierbij wordt het aantal verkochte auto’s van elke uitvoering in rekening gebracht. Varianten van voertuigtypen met een lengte x breedte groter dan 11 m2 worden bij de berekening van deze constanten buiten beschouwing gelaten.
-
-De waarden CO2-uitstoot totaal gem. benzine en CO2-uitstoot totaal gem. diesel hebben betrekking op de gemiddelde CO2-uitstoot van nieuwe benzine- en dieselpersonenauto’s bij een voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s. De waarden CO2-uitstoot totaal gem. benzine en CO2-uitstoot totaal gem. diesel worden bepaald met behulp van de formules van stap 4 uit onderdeel I van deze bijlage. De voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s wordt gevonden in de vorm van de gecorrigeerde lengte x breedte waarde, waarbij het gewogen gemiddelde van de met behulp van de formules van stap 4 gevonden gemiddelde CO2-waarden voor benzineauto's resp. dieselauto's gelijk is aan de gemiddelde CO2-uitstoot van alle verkochte nieuwe personenauto’s.
-
-De constanten en waarden worden berekend op basis van de gegevens omtrent CO2-uitstoot, de lengte, de breedte en de aantallen nieuwe personenauto’s, die zijn verkocht in het kalenderjaar voorafgaand aan het kalenderjaar, waarin de constanten en waarden worden vastgesteld.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-De waarden voor de lengte en de breedte worden in meters, met een nauwkeurigheid van drie cijfers achter de komma ingevuld. De waarde voor de specifieke CO2-uitstoot wordt in gram/km, afgerond op het dichtstbijzijnde gehele cijfer ingevuld.
-
-### II. Vaststelling constanten en waarden ten behoeve van de berekening
-
-De contanten en waarden, die voor deze periode van 12 maanden worden gevonden, worden gecorrigeerd voor de verwachte afname of toename van de gemiddelde CO2-uitstoot over de periode van 1,5 jaar gelegen tussen de 12 maanden, waarover de constanten en waarden zijn bepaald, en het kalenderjaar, waarin de constanten en waarden van toepassing zijn. Deze correctie wordt uitgevoerd door de gevonden constanten en waarden over de periode van juli tot en met juni van het voorgaande jaar voor benzine en diesel afzonderlijk met een percentage te verlagen of te verhogen. Deze percentages, die worden afgerond op een tiende procent, worden mede bepaald aan de hand van de gemiddelde afname of toename van de gemiddelde CO2-uitstoot van het derde kalenderjaar ten opzichte van het vierde kalenderjaar en van het tweede kalenderjaar ten opzichte van het derde kalenderjaar voorafgaand aan het kalenderjaar waarin de constanten van toepassing zijn.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-Bij regeling van Onze Minister van Infrastructuur en Milieu worden regels vastgesteld voor:
-
-- a. de bepaling van de energie-efficiëntieklasse en
-
-- b. de vaststelling van de constanten en waarden ten behoeve van de berekening van de relatieve zuinigheid.
-
-## Bijlage 4. bij het Besluit etikettering energiegebruik personenauto's
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

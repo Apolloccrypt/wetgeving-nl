@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 19 januari 2001, houdende vaststelling van het Warenwetbesluit Kruidenpreparaten"
+citeertitel: "Warenwetbesluit Kruidenpreparaten"
 identifier: "BWBR0012174"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012174"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1517743"
-version_id: "2260462"
-internal_id: "C2260461"
-label_id: "1474454"
-dtd_version: "2.0"
-original_entry_into_force: "2001-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012174/2022-07-01/0"
-intitule_bron: "Stb.2001-56"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-01-19"
-intitule_published: "2001-01-31"
-intitule_in_force: "2001-01-31"
-intitule_status: "goed"
-original_publication: "Stb.2001-56"
-original_signed_date: "2001-01-19"
-original_published_date: "2001-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-56"
-entry_into_force_date: "2001-02-01"
-jci_1_3: "jci1.3:c:BWBR0012174&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0012174&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit Kruidenpreparaten"
-signed_date: "2001-01-19"
-entry_into_force: "2001-02-01"
+publicatiedatum: 2001-02-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0012174"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 19 januari 2001, houdende vaststelling van het Warenwetbesluit Kruidenpreparaten
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 25 augustus 2000, kenmerk GZB/VVB 2099119, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
-
-Gelet op de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [8, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), [9 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=9), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12) en [14 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14);
-
-De Raad van State gehoord (advies van 19 oktober 2000, no. W13.00.0392/III)
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 15 januari 2001, GZB/VVB 2144381, uitgebracht in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
-
-Hebben goedgevonden en verstaan:
-
-Artikel 4, eerste en derde lid, treedt in werking op 1 augustus 2001 voor die kruidenpreparaten, niet zijnde eet- of drinkwaren, die uitsluitend bestemd zijn om in aanraking te worden gebracht met de verschillende delen van het menselijk lichaamsoppervlak, en waarin geen andere planten aanwezig zijn dan die welke met cijfer 1 in de laatste kolom van de in dit besluit toegevoegde bijlage zijn aangegeven
 
 ##### Artikel 1
 
@@ -58,7 +24,7 @@ Artikel 4, eerste en derde lid, treedt in werking op 1 augustus 2001 voor die kr
 
 - c. toxische pyrrolizidine-alkaloïden: esteralkaloïden die zijn afgeleid van necinediol (7-hydroxy-1-hydroxy-methylpyrrolizidine) met een 1,2-onverzadigde binding, inclusief de onderscheiden N-oxides;
 
-- d. **verordening (EG) 1334/2008:** verordening (EG) nr. 1334/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake aroma’s en bepaalde voedselingrediënten met aromatiserende eigenschappen voor gebruik in levensmiddelen en tot wijziging van verordening (EG) nr. 1601/91 van de Raad, verordening nr. (EG)2232/96, verordening (EG) nr. 110/2008 en richtlijn 2000/13/EG.
+- d. *verordening (EG) 1334/2008:* verordening (EG) nr. 1334/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake aroma’s en bepaalde voedselingrediënten met aromatiserende eigenschappen voor gebruik in levensmiddelen en tot wijziging van verordening (EG) nr. 1601/91 van de Raad, verordening nr. (EG)2232/96, verordening (EG) nr. 110/2008 en richtlijn 2000/13/EG.
 
 2. Dit besluit is niet van toepassing op:
 
@@ -96,7 +62,7 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 - f. m- en o-synefrine of derivaten hiervan;
 
-- g. olie uit Artemisia absinthium (absintalsem), onverminderd de bij [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2022-07-01&g=2022-07-01), en bijlage III, deel B, van [verordening (EG) 1334/2008](32008R1334) gestelde voorschriften inzake de toegelaten aanwezigheid van thujon in bepaalde samengestelde levensmiddelen;
+- g. olie uit Artemisia absinthium (absintalsem), onverminderd de bij [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2022-07-01&g=2022-07-01), en bijlage III, deel B, van verordening (EG) 1334/2008 gestelde voorschriften inzake de toegelaten aanwezigheid van thujon in bepaalde samengestelde levensmiddelen;
 
 - h. pilocarpine of derivaten hiervan;
 
@@ -106,7 +72,7 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 - k. yohimbe-alkaloïden of derivaten hiervan.
 
-2. Kruidenpreparaten bevatten geen materiaal dat geheel of ten dele afkomstig is van planten en schimmels bedoeld in de bijlage.
+2. Kruidenpreparaten bevatten geen materiaal dat geheel of ten dele afkomstig is van planten en schimmels bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0012174).
 
 3. Kruidenpreparaten bevatten per dagelijks volgens de gebruiksaanwijzing te nuttigen hoeveelheid ten hoogste 27 mg p-synefrine.
 
@@ -122,7 +88,7 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 ##### Artikel 6
 
-1. Onverminderd Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) wordt bij kruidenpreparaten, zijnde eet- of drinkwaren, een vermelding gebezigd inzake een gebruiks- en doseringsadvies.
+1. Onverminderd Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) wordt bij kruidenpreparaten, zijnde eet- of drinkwaren, een vermelding gebezigd inzake een gebruiks- en doseringsadvies.
 
 2. Bij kruidenpreparaten, niet zijnde eet- of drinkwaren, wordt een vermelding gebezigd inzake een lijst van ingrediënten, een gebruiks- en doseringsadvies en een vermelding van de naam of de handelsnaam en het adres of de vestigingsplaats van de fabrikant of persoon die verantwoordelijk is voor het in de handel brengen van de waar.
 
@@ -130,78 +96,8 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Kruidenpreparaten.
-
-## Bijlage
-
-Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2022-07-01&g=2022-07-01).
-
-De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2022-07-01&g=2022-07-01) bedoelde planten en schimmels zijn:
-
-| Aconitum carmichaelii |
-| --- |
-| Aconitum kusnezoffii |
-| Aconitum napellus (Monnikskap of Duivelskruid) |
-| Adonis vernalis (Voorjaarsadonis of Duivelsoog) |
-| Artemisia cina (Echt wormkruid) |
-| Artemisia maritima Zeealsem) |
-| Atropa belladonna (Wolfskers) |
-| Brassica nigra (Zwarte mosterd), behoudens de toepassing in levensmiddelen van het zaad Bryonia alba (Heggerank) |
-| Cephaelis acuminata of Uragoga granatensis (waaronder Ipecacuanhae radix) |
-| Chenopodium ambrosioides (var. anthelminthicum) (Welriekende ganzevoet) |
-| Chrysanthemum vulgare of Tanacetum vulgare (Boerenwormkruid of Reinvaren) |
-| Citrullus colocynthis (Kolokwint of Kwintappel) |
-| Claviceps purpurea (Moederkoorn) |
-| Colchicum autumnale (Herfsttijloos) |
-| Convallaria majalis (Lelietje-van-dalen) |
-| Convolvulus scammonia |
-| Croton tiglium |
-| Datura stramonium (Doornappel) |
-| Digitalis lanata (Wollig vingerhoedskruid) |
-| Digitalis purpurea (Vingerhoedskruid) |
-| Dryopteris filix-mas (Mannetjesvaren) |
-| Exogonium purga of Ipomoea purga (Jalappe) |
-| Genista tinctoria (Verfbrem) |
-| Hyoscyamus niger (Bilzekruid) |
-| Juglans regia (Walnotenboom of Okkernotenboom), behalve de noten |
-| Juniperus sabina (Zevenboom) |
-| Ledum palustre (Moerasrozemarijn) |
-| Lobelia inflata (Lobeliakruid) |
-| Lycopus europaeus (Wolfspoot) |
-| Mallotus philippensis of Rottlera tinctoria (Kamala) |
-| Mandragora officinarum (alruin) |
-| Nerium oleander (Oleander) |
-| Pausinystalia johimbe of Corynanthe johimbe |
-| Pilocarpus jaborandi |
-| Piper methysticum (Kava kava) |
-| Podophyllum peltatum (Voetblad, Meiappel of Eendvoet), met uitzondering van de vruchten |
-| Pulsatilla vulgaris of Anemona pulsatilla (Wildemanskruid of Paarse anemoon) |
-| Rauwolfia serpentina (Rauwolfia) |
-| Ricinus communis (Kruisboom of Wonderboom) |
-| Rubia tinctorum (Meekrap) |
-| Sarothamnus scoparius of Cystisus scoparius (Bremkruid) |
-| Scopolia carniolica (Klokbilzenkruid) |
-| Solanum dulcamara (Bitterzoet) |
-| Strophantus kombé (Strofantus) |
-| Strychnos nux-vomica (Braaknootboom) |
-| Teucrium chamaedrys (Gamander of Wilde salie) |
-| Urginea maritima of Scilla maritima (Zeeajuin) |
-| Vinca minor (Kleine maagdepalm) |
-
-Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2020-07-01&g=2020-07-01).
-
-### I. Ten minste de volgende plantensoorten worden geacht toxische pyrrolizidine-alkaloïden te bevatten.
-
-### II. De volgende planten en schimmels:
-
-### III. De volgende planten en schimmels:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,42 +1,17 @@
 ---
 title: "Instellingsbesluit Bovenregionaal Advies College management development politie"
 identifier: "BWBR0012420"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-06-25"
-last_updated: "2005-06-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012420"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4256213"
-version_id: "6019702"
-internal_id: "C6223091"
-label_id: "4234844"
-dtd_version: "2.0"
-original_entry_into_force: "2001-05-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012420/2005-06-25/0"
-intitule_bron: "Stcrt.2001-85"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-04-19"
-intitule_published: "2001-05-03"
-intitule_in_force: "2001-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-85"
-original_signed_date: "2001-04-19"
-original_published_date: "2001-05-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-05-05"
-jci_1_3: "jci1.3:c:BWBR0012420&z=2005-06-25&g=2005-06-25"
-jci_1_0: "1.0:c:BWBR0012420&g=2005-06-25"
-citeertitel_status: "officieel"
-signed_date: "2001-04-19"
-entry_into_force: "2001-05-05"
+publicatiedatum: 2001-05-05
+laatste_update: 2005-06-25
+status: geldig
+toestand: 2005-06-25
+bron: "https://wetten.overheid.nl/BWBR0012420"
+opgehaald: 2026-08-05
 ---
+
 # Instellingsbesluit Bovenregionaal Advies College management development politie
-
-in overeenstemming met de Minister van Justitie;
-
-Besluit:
 
 ##### Artikel 1
 

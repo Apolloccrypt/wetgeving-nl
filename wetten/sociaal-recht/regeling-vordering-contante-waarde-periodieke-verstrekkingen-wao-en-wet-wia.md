@@ -1,51 +1,26 @@
 ---
 title: "Regeling vordering contante waarde periodieke verstrekkingen WAO"
+citeertitel: "Regeling vordering contante waarde periodieke verstrekkingen WAO en Wet WIA"
 identifier: "BWBR0011500"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-10-27"
-last_updated: "2017-10-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011500"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "5143003"
-version_id: "9219792"
-internal_id: "C12249581"
-label_id: "5118714"
-dtd_version: "2.0"
-original_entry_into_force: "2000-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011500/2017-10-27/0"
-intitule_bron: "Stcrt.2000-137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-07-14"
-intitule_published: "2000-07-19"
-intitule_in_force: "2000-07-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-137"
-original_signed_date: "2000-07-14"
-original_published_date: "2000-07-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-07-21"
-jci_1_3: "jci1.3:c:BWBR0011500&z=2017-10-27&g=2017-10-27"
-jci_1_0: "1.0:c:BWBR0011500&g=2017-10-27"
-citeertitel_status: "officieel"
-short_title: "Regeling vordering contante waarde periodieke verstrekkingen WAO en Wet WIA"
-signed_date: "2000-07-14"
-entry_into_force: "2000-07-21"
+publicatiedatum: 2000-07-21
+laatste_update: 2017-10-27
+status: geldig
+toestand: 2017-10-27
+bron: "https://wetten.overheid.nl/BWBR0011500"
+opgehaald: 2026-08-05
 ---
+
 # Regeling vordering contante waarde periodieke verstrekkingen WAO
-
-Gelet op [artikel 90, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=90),
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. WAO: de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving);
+- a. WAO: de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- b. Wet WIA: de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving);
+- b. Wet WIA: de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
 - c. de contante waarde: de contante waarde van de periodieke verstrekkingen, bedoeld in [artikel 90, tweede lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=90) en [artikel 99, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=99);
 
@@ -143,5 +118,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vordering contante waarde van periodieke verstrekkingen WAO en Wet WIA.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

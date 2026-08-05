@@ -1,45 +1,25 @@
 ---
 title: "Aanpassing rekenregels zorgformatie en extra vergoeding materiële instandhouding speciale scholen voor basisonderwijs"
 identifier: "BWBR0011246"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2000-04-19"
-last_updated: "2000-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011246"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6501643"
-version_id: "11188452"
-internal_id: "C15116851"
-label_id: "6490244"
-original_entry_into_force: "2000-04-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011246/2000-04-19/0"
-intitule_bron: "Uitleg.2000-11/12"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-03-22"
-intitule_published: "2000-04-19"
-intitule_in_force: "2000-04-19"
-intitule_status: "goed"
-original_publication: "Uitleg.2000-11/12"
-original_signed_date: "2000-03-22"
-original_published_date: "2000-04-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-04-19"
-jci_1_3: "jci1.3:c:BWBR0011246&z=2000-04-19&g=2000-04-19"
-jci_1_0: "1.0:c:BWBR0011246&g=2000-04-19"
-citeertitel_status: "redactioneel"
-signed_date: "2000-03-22"
-entry_into_force: "2000-04-19"
+publicatiedatum: 2000-04-19
+laatste_update: 2000-04-19
+status: geldig
+toestand: 2000-04-19
+bron: "https://wetten.overheid.nl/BWBR0011246"
+opgehaald: 2026-08-05
 ---
+
 # Aanpassing rekenregels zorgformatie en extra vergoeding materiële instandhouding speciale scholen voor basisonderwijs
 
 ### 1. Inleiding
 
-De aanspraak op zorgformatie van sbo’s is geregeld in [artikel 122 van de Wet op het primair onderwijs](onbekend) (WPO). De aanspraak op een extra vergoeding voor materiële instandhouding (m.i.) is geregeld in [artikel 115 van de WPO](onbekend). Op grond van deze artikelen wordt de gezamenlijke sbo’s in een samenwerkingsverband zorgformatie, respectievelijk extra m.i. toegekend voor 2% van het aantal leerlingen van het samenwerkingsverband op 1 oktober van het voorafgaande schooljaar. Deze zorgformatie en extra m.i. wordt over de afzonderlijke sbo’s binnen een samenwerkingsverband verdeeld naar rato van het aantal leerlingen van elk van die scholen op genoemde datum.
+De aanspraak op zorgformatie van sbo’s is geregeld in artikel 122 van de Wet op het primair onderwijs (WPO). De aanspraak op een extra vergoeding voor materiële instandhouding (m.i.) is geregeld in artikel 115 van de WPO. Op grond van deze artikelen wordt de gezamenlijke sbo’s in een samenwerkingsverband zorgformatie, respectievelijk extra m.i. toegekend voor 2% van het aantal leerlingen van het samenwerkingsverband op 1 oktober van het voorafgaande schooljaar. Deze zorgformatie en extra m.i. wordt over de afzonderlijke sbo’s binnen een samenwerkingsverband verdeeld naar rato van het aantal leerlingen van elk van die scholen op genoemde datum.
 
 Met ingang van het schooljaar 2000-2001 zal de rekenregel voor de vaststelling van de wettelijke aanspraak van sbo’s op zorgformatie worden aangepast. De rekenregel voor de extra m.i. zal met ingang van het jaar 2001 worden aangepast. De aanpassing van de rekenregels heeft betrekking op de afrondingen die moeten worden toegepast en kan ten opzichte van de oude rekenregels alleen verschil maken voor sbo’s die tezamen met één of meer andere sbo’s aan hetzelfde samenwerkingsverband deelnemen. Als zich een verschil voordoet is dat doorgaans beperkt tot enkele fre’s (zorgformatie) of enkele tientallen guldens (m.i.) per sbo meer of minder.
 
-Tot deze aanpassingen is besloten omdat de nieuwe rekenregels beter aansluiten bij de wettelijk geregelde aanspraak op zorgformatie en m.i. dan de oude rekenregels. De nieuwe rekenregel voor de zorgformatie zal worden opgenomen in het [Formatiebesluit WPO](onbekend). De nieuwe rekenregel voor m.i. zal worden opgenomen in de Programma’s van eisen basisonderwijs voor het jaar 2001.
+Tot deze aanpassingen is besloten omdat de nieuwe rekenregels beter aansluiten bij de wettelijk geregelde aanspraak op zorgformatie en m.i. dan de oude rekenregels. De nieuwe rekenregel voor de zorgformatie zal worden opgenomen in het Formatiebesluit WPO. De nieuwe rekenregel voor m.i. zal worden opgenomen in de Programma’s van eisen basisonderwijs voor het jaar 2001.
 
 ### 2. Aanpassing rekenregels zorgformatie en extra m.i.
 
@@ -73,4 +53,14 @@ Hieronder wordt de rekenregel voor de zorgformatie uitgewerkt in een voorbeeld v
 
 Eerst wordt de waarde vastgesteld van 2% van alle leerlingen, rekenkundig afgerond.
 
+| Totaal sbo-lln | Totaal bo-lln | Totaal lln swv | 2% van alle leerlingen |
+| --- | --- | --- | --- |
+| 191 | 5000 | 5191 | 0,02 x 5191 = 103,82 = 104 |
+
 Vervolgens kan de (eveneens rekenkundig af te ronden) zorgformatie worden vastgesteld waarop de verschillende sbo’s aanspraak maken.
+
+| Sbo | Sbo-lln | Totaal sbo-lln | 2% van alle leerlingen | Zorgformatie per sbo |
+| --- | --- | --- | --- | --- |
+| A | 50 | 191 | 104 | 50 / 191 x 104 x 13,5 = 367,5392..= 368 |
+| B | 54 | 191 | 104 | 54 / 191 x 104 x 13,5 = 396,9424..= 397 |
+| C | 87 | 191 | 104 | 87 / 191 x 104 x 13,5 = 639,5183..= 640 |

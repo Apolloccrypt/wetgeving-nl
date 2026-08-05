@@ -1,36 +1,16 @@
 ---
 title: "Centraal examen beeldende vakken 2 voorbereidend middelbaar beroepsonderwijs (vmbo) ingaande 2003"
 identifier: "BWBR0012590"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2002-08-01"
-last_updated: "2002-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012590"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6452203"
-version_id: "11126152"
-internal_id: "C15043101"
-label_id: "6440964"
-original_entry_into_force: "2002-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012590/2002-08-01/0"
-intitule_bron: "Uitleg.2001-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-06-18"
-intitule_published: "2001-06-27"
-intitule_in_force: "2001-06-27"
-intitule_status: "goed"
-original_publication: "Uitleg.2001-18"
-original_signed_date: "2001-06-18"
-original_published_date: "2001-06-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-08-01"
-jci_1_3: "jci1.3:c:BWBR0012590&z=2002-08-01&g=2002-08-01"
-jci_1_0: "1.0:c:BWBR0012590&g=2002-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-06-18"
-entry_into_force: "2002-08-01"
+publicatiedatum: 2002-08-01
+laatste_update: 2002-08-01
+status: geldig
+toestand: 2002-08-01
+bron: "https://wetten.overheid.nl/BWBR0012590"
+opgehaald: 2026-08-05
 ---
+
 # Centraal examen beeldende vakken 2 voorbereidend middelbaar beroepsonderwijs (vmbo) ingaande 2003
 
 Het examen beeldende vakken 2 zal op een aantal punten anders van aard zijn dan het huidige examen beeldende vakken (tehatex) vbo-mavo c/d.
@@ -44,6 +24,14 @@ Er is sprake van een centraal praktisch examen, CPE, en een centraal schriftelij
 Het CPE gaat vooraf aan het CSE.
 
 ### Opgaven
+
+- Voor het vak tekenen bestaat het centraal praktisch examen uit 1 opgave, waarbinnen de kandidaat keuzemogelijkheden heeft.
+
+- Voor het vak handenarbeid bestaat het centraal praktisch examen uit 1 opgave, waarbinnen de kandidaat keuzemogelijkheden heeft.
+
+- Voor het vak textiele werkvormen bestaat het centraal praktisch examen uit 1 opgave, waarbinnen de kandidaat keuzemogelijkheden heeft.
+
+- Voor het vak audiovisuele vormgeving bestaat het centraal praktisch examen uit 1 opgave, waarbinnen de kandidaat keuzemogelijkheden heeft.
 
 De opgaven worden ingeleid aan de hand thema dat voor alle kandidaten in de beeldende disciplines gelijk is. Er is een duidelijke relatie tussen dat thema en het CSE. Het thema wordt aangeboden in de vorm van een katern.
 
@@ -72,6 +60,10 @@ Er is een duidelijk relatie tussen het gemeenschappelijk thema van het CPE en he
 De opgaven en vragen worden evenwichtig over de verschillende beeldende disciplines verdeeld.
 
 In het CSE komen beeldende kunst en vormgeving aan bod op het gebied van:
+
+- Tweedimensionale autonome en toegepaste beeldende kunst en vormgeving en audiovisuele vormgeving
+
+- Driedimensionale autonome en toegepaste beeldende kunst en vormgeving en audiovisuele vormgeving
 
 De vragen in het CSE zijn overwegend kunstbeschouwelijk van aard.
 

@@ -1,72 +1,49 @@
 ---
 title: "Regels inkomstenderving vrijgevestigde medische beroepsbeoefenaren"
 identifier: "BWBR0011753"
-country: "nl"
-rank: "zbo"
-publication_date: "2000-12-14"
-last_updated: "2000-12-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011753"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "6544883"
-version_id: "11339852"
-internal_id: "C15276661"
-label_id: "6533484"
-original_entry_into_force: "2000-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011753/2000-12-14/0"
-intitule_bron: "Stcrt.2000-243"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-11-02"
-intitule_published: "2000-12-14"
-intitule_in_force: "2000-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-243"
-original_signed_date: "2000-11-02"
-original_published_date: "2000-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2000-243-p26-SC26786"
-entry_into_force_date: "2000-12-14"
-jci_1_3: "jci1.3:c:BWBR0011753&z=2000-12-14&g=2000-12-14"
-jci_1_0: "1.0:c:BWBR0011753&g=2000-12-14"
-citeertitel_status: "redactioneel"
-signed_date: "2000-11-02"
-entry_into_force: "2000-12-14"
+publicatiedatum: 2000-12-14
+laatste_update: 2000-12-14
+status: geldig
+toestand: 2000-12-14
+bron: "https://wetten.overheid.nl/BWBR0011753"
+opgehaald: 2026-08-05
 ---
-# Regels inkomstenderving vrijgevestigde medische beroepsbeoefenaren
 
-Gelet op [artikel 2, vijfde lid, van het Besluit sanering instellingen voor gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0011192&artikel=2).
+# Regels inkomstenderving vrijgevestigde medische beroepsbeoefenaren
 
 ##### Artikel 1
 
 In deze regels wordt verstaan onder:
 
-- a. **College**: het College sanering ziekenhuisvoorzieningen,
+- a. *College*: het College sanering ziekenhuisvoorzieningen,
 
-- b. **de Wet**: de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753),
+- b. *de Wet*: de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753),
 
-- c. **ziekenhuisvoorziening**: een inrichting voor gezondheidszorg, als bedoeld in [artikel 1, lid 1, sub c van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=1),
+- c. *ziekenhuisvoorziening*: een inrichting voor gezondheidszorg, als bedoeld in [artikel 1, lid 1, sub c van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=1),
 
-- d. **vrijgevestigde medische beroepsbeoefenaren**: personen die krachtens overeenkomst met de ziekenhuisvoorziening voor eigen rekening en risico een medisch beroep uitoefenen of hebben uitgeoefend, als bedoeld in [artikel 2, lid 2, sub c, van het Besluit sanering instellingen voor gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0011192&artikel=2),
+- d. *vrijgevestigde medische beroepsbeoefenaren*: personen die krachtens overeenkomst met de ziekenhuisvoorziening voor eigen rekening en risico een medisch beroep uitoefenen of hebben uitgeoefend, als bedoeld in [artikel 2, lid 2, sub c, van het Besluit sanering instellingen voor gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0011192&artikel=2),
 
-- e. **norminkomen**: het maximum van de inkomensbestanddelen, zoals deze zijn opgenomen in de berekening van de maximumtarieven voor de vrije beroepsbeoefenaren, zoals vastgesteld door het College tarieven gezondheidszorg,
+- e. *norminkomen*: het maximum van de inkomensbestanddelen, zoals deze zijn opgenomen in de berekening van de maximumtarieven voor de vrije beroepsbeoefenaren, zoals vastgesteld door het College tarieven gezondheidszorg,
 
-- f. **praktijkomzet/praktijkontvangsten**: alle ontvangsten, verkregen door het declareren van WTG-tarieven, en onder te verdelen in een praktijkinkom(st)en(s)deel en in een praktijkkostenvergoedingscomponent,
+- f. *praktijkomzet/praktijkontvangsten*: alle ontvangsten, verkregen door het declareren van WTG-tarieven, en onder te verdelen in een praktijkinkom(st)en(s)deel en in een praktijkkostenvergoedingscomponent,
 
-- g. **praktijkkostenvergoeding**: dat gedeelte van de gedeclareerde WTG-tarieven dat bestemd is voor dekking van de praktijkkosten,
+- g. *praktijkkostenvergoeding*: dat gedeelte van de gedeclareerde WTG-tarieven dat bestemd is voor dekking van de praktijkkosten,
 
-- h. **praktijkinkom(st)en**: de praktijkomzet/praktijkontvangsten minus de praktijkkostenvergoeding,
+- h. *praktijkinkom(st)en*: de praktijkomzet/praktijkontvangsten minus de praktijkkostenvergoeding,
 
-- i. **referentiejaar**: het laatste jaar voorafgaand aan het jaar, waarin tot het voornemen tot sluiting wordt besloten, dan wel het gemiddelde van de hieraan voorafgaande drie jaren, wanneer dit lager is.
+- i. *referentiejaar*: het laatste jaar voorafgaand aan het jaar, waarin tot het voornemen tot sluiting wordt besloten, dan wel het gemiddelde van de hieraan voorafgaande drie jaren, wanneer dit lager is.
 
-| A |   | t-3 100 | t-2 80 | t-1 60 | t |   |
+| A |  | t-3 100 | t-2 80 | t-1 60 | t |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|   | gemiddeld |   |   |   |   | 80 |
-|   | t-1 |   |   |   |   | 60 |
-|   | referentiejaar |   |   |   |   | 60 |
-| B |   | t-3 60 | t-2 80 | t-1 100 | t |   |
-|   | gemiddeld |   |   |   |   | 80 |
-|   | t-1 |   |   |   |   | 100 |
-|   | referentiejaar |   |   |   |   | 80 |
+|  | gemiddeld |  |  |  |  | 80 |
+|  | t-1 |  |  |  |  | 60 |
+|  | referentiejaar |  |  |  |  | 60 |
+| B |  | t-3 60 | t-2 80 | t-1 100 | t |  |
+|  | gemiddeld |  |  |  |  | 80 |
+|  | t-1 |  |  |  |  | 100 |
+|  | referentiejaar |  |  |  |  | 80 |
 
 ##### Artikel 2
 
@@ -100,7 +77,7 @@ Er kan eerst sprake zijn van compensatie in geval van een sterke daling van de i
 
 2. Wanneer de sluiting gedurende het kalenderjaar plaatsvindt worden de inkomsten van dit jaardeel tezamen met het hieraan voorafgaande jaar vergeleken met het referentie-inkomen voor dezelfde periode bij de beoordeling van de compensatie. Geen compensatie wordt verleend voor de periode die ligt voor de datum waarop de minister zijn voornemen tot sluiting kenbaar heeft gemaakt conform [artikel 18a, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=18a).
 
-**Voorbeeld:**
+Voorbeeld:
 
 Uitgangspunt vormt dat de periode, waarover compensatie gegeven kan worden tussen 12 en 23 maanden ligt: de periode van 1 januari tot datum sluiting (X maanden) plus het hieraan voorafgaande jaar.
 
@@ -108,7 +85,7 @@ De in deze periode verworven praktijkinkomsten worden vergeleken met het referen
 
 Stel, de sluitingsdatum is 1 februari 2000. Dan is de periode, waarover compensatie geclaimd kan worden: 1 januari 2000 tot 1 februari 2000 plus het jaar 1999, tezamen 13 maanden.
 
-**Uitzondering:**
+Uitzondering:
 
 Voorafgaand aan de sluitingsbeslissing kan pas sprake zijn van saneringskosten vanaf het besluit van de minister tot het voornemen tot sluiting. Wanneer dit voornemen besloten is in het jaar voorafgaand aan de sluiting, bijvoorbeeld 1 juli 1999, dan zal de periode waarover compensatie kan worden verkregen korter worden. In dit geval wordt de periode waarover compensatie verkregen kan worden 1 juli 1999 tot 1 februari 2000, te weten 7 maanden.
 
@@ -132,7 +109,7 @@ Werkelijke hogere uitgaven voor pensioenpremie worden niet als kosten aangemerkt
 
 5. Het forfaitaire niveau van de praktijkkosten is 30% van de praktijkomzet.
 
-**Voorbeeld:**
+Voorbeeld:
 
 Kosten meewerkende echtgenote/echtgenoot of rentekosten worden niet afzonderlijk beoordeeld, maar als onderdeel van de praktijkkosten forfaitair behandeld.
 
@@ -142,16 +119,4 @@ Kosten meewerkende echtgenote/echtgenoot of rentekosten worden niet afzonderlijk
 
 Voor het verkrijgen van een eventueel voorschot dient de betrokken ziekenhuisvoorziening, dan wel, bij rechtstreekse betaling aan de vrij gevestigde medische beroepsbeoefenaar, de betrokken beroepsbeoefenaar, zich vooraf bereid te verklaren een eventueel teveel betaald voorschot terug te storten.
 
-**De Regels inkomstenderving vrijgevestigde medische beroepsbeoefenaren zijn vastgesteld door het College sanering ziekenhuisvoorzieningen in zijn vergadering van 26 januari 2000 en goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport d.d. 2 november 2000.**
-
-## Bijlage 1a
-
-Niet opgenomen.
-
-## Bijlage 1b
-
-Niet opgenomen.
-
-## Bijlage 2
-
-Niet opgenomen.
+*De Regels inkomstenderving vrijgevestigde medische beroepsbeoefenaren zijn vastgesteld door het College sanering ziekenhuisvoorzieningen in zijn vergadering van 26 januari 2000 en goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport d.d. 2 november 2000.*

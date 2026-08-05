@@ -1,49 +1,17 @@
 ---
 title: "Verordening aktepapier"
 identifier: "BWBR0011433"
-country: "nl"
-rank: "pbo"
-publication_date: "2000-10-01"
-last_updated: "2000-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011433"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6831423"
-version_id: "11711512"
-internal_id: "C15787621"
-label_id: "6819624"
-original_entry_into_force: "2000-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011433/2000-10-01/0"
-intitule_bron: "Stcrt.2000-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-06-21"
-intitule_published: "2000-09-20"
-intitule_in_force: "2000-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-182"
-original_signed_date: "2000-06-21"
-original_published_date: "2000-09-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-10-01"
-jci_1_3: "jci1.3:c:BWBR0011433&z=2000-10-01&g=2000-10-01"
-jci_1_0: "1.0:c:BWBR0011433&g=2000-10-01"
-citeertitel_status: "officieel"
-signed_date: "2000-06-21"
-entry_into_force: "2000-10-01"
+publicatiedatum: 2000-10-01
+laatste_update: 2000-10-01
+status: geldig
+toestand: 2000-10-01
+bron: "https://wetten.overheid.nl/BWBR0011433"
+opgehaald: 2026-08-05
 ---
+
 # Verordening aktepapier
-
-Overwegende dat het gewenst is regelen te stellen omtrent het papier waarop de akte wordt gesteld en de wijze waarop de tekst van de akte op dit papier wordt gesteld;
-
-Gelet op [artikel 41 lid 2 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=41);
-
-Gezien het ontwerp van het bestuur met bijbehorende toelichting;
-
-Gelet op de adviezen van de kamers van toezicht;
-
-Gelet op de adviezen van de ringen;
-
-stelt de navolgende verordening vast:
 
 #### Materiaal
 

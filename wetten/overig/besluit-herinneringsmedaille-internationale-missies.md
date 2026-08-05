@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 23 maart 2001, houdende instelling van de Herinneringsmedaille Vredesoperaties alsmede intrekking van het Besluit Herinneringsmedaille VN-Vredesoperaties en het Besluit Herinneringsmedaille Multinationale Vredesoperaties"
+citeertitel: "Besluit Herinneringsmedaille Internationale Missies"
 identifier: "BWBR0012356"
-country: "nl"
-rank: "kb"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012356"
+categorie: "Overig"
 soort: "KB"
-stam_id: "1569963"
-version_id: "23550612"
-internal_id: "C33907761"
-label_id: "1525304"
-dtd_version: "2.0"
-original_entry_into_force: "2016-06-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012356/2019-07-01/0"
-intitule_bron: "Stb.2001-186"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-03-23"
-intitule_published: "2001-04-24"
-intitule_in_force: "2001-04-24"
-intitule_status: "goed"
-original_publication: "Stb.2016-305"
-original_signed_date: "2016-06-02"
-original_published_date: "2016-09-01"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2016-305"
-entry_into_force_date: "2016-06-02"
-jci_1_3: "jci1.3:c:BWBR0012356&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0012356&g=2019-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Herinneringsmedaille Internationale Missies"
-signed_date: "2016-06-02"
-entry_into_force: "2016-06-02"
+publicatiedatum: 2016-06-02
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0012356"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 23 maart 2001, houdende instelling van de Herinneringsmedaille Vredesoperaties alsmede intrekking van het Besluit Herinneringsmedaille VN-Vredesoperaties en het Besluit Herinneringsmedaille Multinationale Vredesoperaties
-
-Op de voordracht van Onze Minister van Defensie van 21 maart 2001, nr. C2001/222 gedaan in overeenstemming met Onze Ministers van Buitenlandse Zaken, van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -148,6 +122,10 @@ De kosten van de versierselen komen ten laste van het Rijk.
 
 2. Het Besluit Herinneringsmedaille VN-Vredesoperaties en het Besluit Herinneringsmedaille Multinationale Vredesoperaties, zoals deze besluiten luidden op de dag voordat zij werden ingetrokken, blijven van toepassing ten aanzien van voordrachten voor versierselen als bedoeld in de artikelen 1, onder c, van het Besluit Herinneringsmedaille VN-Vredesoperaties en 1, onder c, van het Besluit Herinneringsmedaille Multinationale Vredesoperaties die zijn gedaan voorafgaande aan het tijdstip van inwerkingtreding van het eerste lid.
 
+##### Artikel 13a
+
+Per 1 juli 2016 berust het [Besluit gespen Herinneringsmedaille Vredesoperaties](https://wetten.overheid.nl/jci1.3:c:BWBR0012681) op het Besluit Herinneringsmedaille Internationale Missies.
+
 ##### Artikel 14
 
 Dit besluit treedt in werking met ingang van 1 juni 2001.
@@ -155,11 +133,3 @@ Dit besluit treedt in werking met ingang van 1 juni 2001.
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit Herinneringsmedaille Internationale Missies.
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
-
-##### Artikel 13a
-
-Per 1 juli 2016 berust het [Besluit gespen Herinneringsmedaille Vredesoperaties](https://wetten.overheid.nl/jci1.3:c:BWBR0012681) op het Besluit Herinneringsmedaille Internationale Missies.
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.

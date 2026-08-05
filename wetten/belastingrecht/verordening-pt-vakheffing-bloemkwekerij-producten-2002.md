@@ -1,50 +1,24 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2001, houdende vaststelling van een vakheffing voor bloemkwekerijproducten, voor het jaar 2002 (Verordening PT Vakheffing Bloemkwekerij producten 2002)"
+citeertitel: "Verordening PT Vakheffing Bloemkwekerij producten 2002"
 identifier: "BWBR0012629"
-country: "nl"
-rank: "pbo"
-publication_date: "2002-03-23"
-last_updated: "2002-03-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012629"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6037783"
-version_id: "10653952"
-internal_id: "C14476981"
-label_id: "6027224"
-original_entry_into_force: "2002-03-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012629/2002-03-23/0"
-intitule_bron: "Vbbo.2002-17"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-03"
-intitule_published: "2002-03-22"
-intitule_in_force: "2002-03-22"
-intitule_status: "goed"
-original_publication: "Vbbo.2002-17"
-original_signed_date: "2001-07-03"
-original_published_date: "2002-03-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-03-23"
-jci_1_3: "jci1.3:c:BWBR0012629&z=2002-03-23&g=2002-03-23"
-jci_1_0: "1.0:c:BWBR0012629&g=2002-03-23"
-citeertitel_status: "officieel"
-short_title: "Verordening PT Vakheffing Bloemkwekerij producten 2002"
-signed_date: "2001-07-03"
-entry_into_force: "2002-03-23"
+publicatiedatum: 2002-03-23
+laatste_update: 2002-03-23
+status: geldig
+toestand: 2002-03-23
+bron: "https://wetten.overheid.nl/BWBR0012629"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2001, houdende vaststelling van een vakheffing voor bloemkwekerijproducten, voor het jaar 2002 (Verordening PT Vakheffing Bloemkwekerij producten 2002)
-
-gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en op de [artikelen 14](onbekend), [15](onbekend) en [19 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend);
-
-op voorstel van de Sectorcommissie voor bloemkwekerij producten;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
-1. In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 2](onbekend) en [3 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend).
+1. In deze verordening worden overgenomen de begripsbepalingen van de artikelen 2 en 3 van de Instellingsverordening Productschap Tuinbouw 1998.
 
 2. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -53,7 +27,7 @@ Besluit:
 | b. | het bestuur | : | het bestuur van het productschap; |
 | c. | de voorzitter | : | de voorzitter van het productschap; |
 | d. | bloemkwekerijproducten | : | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: |
-|   |   |   | 1e. winterharde houtgewassen in hun geheel voorzover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd; 2e. voorzover in groene toestand de Japanse azalea's alsmede variëteiten en hybriden daarvan; 3e. dahliastekken, begonia- en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen; 4e. aquariumplanten en niet-levende bloemkwekerijproducten; |
+|  |  |  | 1e. winterharde houtgewassen in hun geheel voorzover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd; 2e. voorzover in groene toestand de Japanse azalea's alsmede variëteiten en hybriden daarvan; 3e. dahliastekken, begonia- en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen; 4e. aquariumplanten en niet-levende bloemkwekerijproducten; |
 | e. | uitgangsmateriaal | : | planten en plantendelen van bloemkwekerij producten welke bestemd zijn voor de teelt van gebruiksklare (voor de consument geschikte) bloemkwekerijproducten, zoals stekken, zaaikisten en weefselkweekplanten; |
 | f. | kweken van bloemkwekerij producten of uitgangsmateriaal | : | 1e . het ter verkrijging van een oogst brengen, hebben of houden in een al dan niet overdekt groeimedium van bloemkwekerij producten of uitgangsmateriaal; 2e . het ter bevordering van het verkrijgen van een oogst verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van bloemkwekerijproducten of uitgangsmateriaal, of 3e . het oogsten van bloemkwekerijproducten of uitgangsmateriaal; |
 | g. | kweker | : | de ondernemer die bloemkwekerijproducten of uitgangsmateriaal kweekt; |
@@ -123,7 +97,7 @@ Op voorstel van de Sectorcommissie voor bloemkwekerijproducten kan het bestuur d
 
 ##### Artikel 6
 
-Indien een heffingsplichtige gegevens die hem krachtens de [Verordening PT Algemene bepalingen](onbekend) ten behoeve van de onderhavige verordening of krachtens deze verordening zijn gevraagd niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met € 40 voor administratiekosten.
+Indien een heffingsplichtige gegevens die hem krachtens de Verordening PT Algemene bepalingen ten behoeve van de onderhavige verordening of krachtens deze verordening zijn gevraagd niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met € 40 voor administratiekosten.
 
 ##### Artikel 7
 

@@ -1,48 +1,41 @@
 ---
 title: "Kaderregeling subsidiëring bilaterale wetenschappelijke en technologische onderzoeksamenwerking"
 identifier: "BWBR0012454"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-02-17"
-last_updated: "2007-02-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012454"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3543233"
-version_id: "5326602"
-internal_id: "C5519691"
-label_id: "3523474"
-dtd_version: "2.0"
-original_entry_into_force: "2001-05-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012454/2007-02-17/0"
-intitule_bron: "Stcrt.2001-97"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-05-01"
-intitule_published: "2001-05-21"
-intitule_in_force: "2001-05-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-97"
-original_signed_date: "2001-05-01"
-original_published_date: "2001-05-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-05-23"
-jci_1_3: "jci1.3:c:BWBR0012454&z=2007-02-17&g=2007-02-17"
-jci_1_0: "1.0:c:BWBR0012454&g=2007-02-17"
-citeertitel_status: "officieel"
-signed_date: "2001-05-01"
-entry_into_force: "2001-05-23"
+publicatiedatum: 2001-05-23
+laatste_update: 2007-02-17
+status: geldig
+toestand: 2007-02-17
+bron: "https://wetten.overheid.nl/BWBR0012454"
+opgehaald: 2026-08-05
 ---
+
 # Kaderregeling subsidiëring bilaterale wetenschappelijke en technologische onderzoeksamenwerking
-
-Gelet op [artikel 4 van de Wet overige OCenW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4);
-
-Besluit:
 
 #### Paragraaf 1. Inleidende bepalingen
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+MoU:
+
+Memorandum of Understanding tussen Nederland en het land waarmee wetenschappelijke of technologische onderzoeksamenwerking wordt aangegaan,
+
+b.
+
+programma:
+
+het voor de wetenschappelijke of technologische onderzoeksamenwerking met een specifiek land uitgewerkte programma waarin onder andere de doelstellingen van het onderzoek, de onderzoeksgebieden en de beoogde uitvoerder worden genoemd,
+
+c.
+
+uitvoerder:
+
+de organisatie die in het kader van een verdrag of een MoU in aanmerking komt voor de uitvoering van een programma, dan wel een fase of onderdeel van een programma voor bilaterale wetenschappelijke of technologische onderzoeksamenwerking.
 
 ##### Artikel 2. Begripsbepalingen
 
@@ -203,5 +196,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Kaderregeling subsidiëring bilaterale wetenschappelijke en technologische onderzoeksamenwerking.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,265 +1,234 @@
 ---
 title: "Wet van 23 november 2000 tot invoering van de Vreemdelingenwet 2000 en daarmee verband houdende wijziging van diverse wetten alsmede intrekking van de Wet gemeentelijke zorg voor houders van een voorwaardelijke vergunning tot verblijf (Invoeringswet Vreemdelingenwet 2000)"
+citeertitel: "Invoeringswet Vreemdelingenwet 2000"
 identifier: "BWBR0011824"
-country: "nl"
-rank: "wet"
-publication_date: "2001-04-01"
-last_updated: "2001-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011824"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "1555853"
-version_id: "2310732"
-internal_id: "C2310731"
-label_id: "1513264"
-dtd_version: "2.0"
-original_entry_into_force: "2001-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011824/2001-04-01/0"
-intitule_bron: "Stb.2000-496"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-11-23"
-intitule_published: "2000-12-07"
-intitule_in_force: "2001-03-29"
-intitule_status: "goed"
-original_publication: "Stb.2000-496"
-original_signed_date: "2000-11-23"
-original_published_date: "2000-12-07"
-original_effect: "nieuwe-regeling"
-original_dossier: "26975"
-original_url_id: "stb-2000-496"
-entry_into_force_date: "2001-04-01"
-jci_1_3: "jci1.3:c:BWBR0011824&z=2001-04-01&g=2001-04-01"
-jci_1_0: "1.0:c:BWBR0011824&g=2001-04-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet Vreemdelingenwet 2000"
-signed_date: "2000-11-23"
-entry_into_force: "2001-04-01"
+publicatiedatum: 2001-04-01
+laatste_update: 2001-04-01
+status: geldig
+toestand: 2001-04-01
+bron: "https://wetten.overheid.nl/BWBR0011824"
+opgehaald: 2026-08-05
 ---
+
 # Wet van 23 november 2000 tot invoering van de Vreemdelingenwet 2000 en daarmee verband houdende wijziging van diverse wetten alsmede intrekking van de Wet gemeentelijke zorg voor houders van een voorwaardelijke vergunning tot verblijf (Invoeringswet Vreemdelingenwet 2000)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is in verband met de invoering van de Vreemdelingenwet 2000 bepalingen in diverse wetten te wijzigen, de Wet gemeentelijke zorg voor houders van een voorwaardelijke vergunning tot verblijf in te trekken alsmede enige overgangsrechtelijke voorzieningen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking als de Vreemdelingenwet 2000 in werking treedt. (Stb. 2000/495)
 
 ### Hoofdstuk 1. Ministerie van Algemene Zaken
 
 ##### artikel Enig
 
-Wijzigt de Coördinatiewet uitzonderingstoestanden.
+*Wijzigt de Coördinatiewet uitzonderingstoestanden.*
 
 ### Hoofdstuk 2. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 ##### Artikel 1
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel 2
 
-Wijzigt de Kieswet.
+*Wijzigt de Kieswet.*
 
 ##### Artikel 3
 
-Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.:
+*Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.*:
 
 ##### Artikel 4
 
-Wijzigt de Wet gemeentelijke zorg voor houders van een voorwaardelijke vergunning tot verblijf.
+*Wijzigt de Wet gemeentelijke zorg voor houders van een voorwaardelijke vergunning tot verblijf.*
 
 ##### Artikel 5
 
-Wijzigt de Wet inburgering nieuwkomers.
+*Wijzigt de Wet inburgering nieuwkomers.*
 
 ##### Artikel 6
 
-Wijzigt de Wet inburgering nieuwkomers.
+*Wijzigt de Wet inburgering nieuwkomers.*
 
 ##### Artikel 7
 
-Wijzigt de Wet op de Raad van State.
+*Wijzigt de Wet op de Raad van State.*
 
 ##### Artikel 8
 
-Wijzigt de Remigratiewet.
+*Wijzigt de Remigratiewet.*
 
 ### Hoofdstuk 3. Ministerie van Buitenlandse Zaken
 
 ##### artikel Enig
 
-Wijzigt de Sanctiewet 1977.
+*Wijzigt de Sanctiewet 1977.*
 
 ### Hoofdstuk 4. Ministerie van Financiën
 
 ##### artikel Enig
 
-Wijzigt de Wet identificatie bij financiële dienstverlening 1993 .
+*Wijzigt de Wet identificatie bij financiële dienstverlening 1993 .*
 
 ### Hoofdstuk 5. Ministerie van Justitie
 
 ##### Artikel 1
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 2
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.
+*Wijzigt Boek 1 van het Burgerlijk Wetboek.*
 
 ##### Artikel 3
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.
+*Wijzigt Boek 1 van het Burgerlijk Wetboek.*
 
 ##### Artikel 4
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 5
 
-Wijzigt de Wet op de identificatieplicht.
+*Wijzigt de Wet op de identificatieplicht.*
 
 ##### Artikel 6
 
-Wijzigt de Wet op de rechtsbijstand.
+*Wijzigt de Wet op de rechtsbijstand.*
 
 ##### Artikel 7
 
-Wijzigt de Wet Centraal Orgaan opvang asielzoekers.
+*Wijzigt de Wet Centraal Orgaan opvang asielzoekers.*
 
 ##### Artikel 8
 
-Wijzigt de Wet opneming buitenlandse kinderen ter adoptie.
+*Wijzigt de Wet opneming buitenlandse kinderen ter adoptie.*
 
 ##### Artikel 9
 
-Wijzigt de Wet politieregisters.
+*Wijzigt de Wet politieregisters.*
 
 ### Hoofdstuk 6. Ministerie van Onderwijs, Cultuur en Wetenschappen
 
 ##### Artikel 1
 
-Wijzigt de Wet educatie en beroepsonderwijs.
+*Wijzigt de Wet educatie en beroepsonderwijs.*
 
 ##### Artikel 2
 
-Wijzigt de Wet op de expertisecentra.
+*Wijzigt de Wet op de expertisecentra.*
 
 ##### Artikel 3
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
 
 ##### Artikel 4
 
-Wijzigt de Wet op het primair onderwijs.
+*Wijzigt de Wet op het primair onderwijs.*
 
 ##### Artikel 5
 
-Wijzigt de Wet op het voortgezet onderwijs.
+*Wijzigt de Wet op het voortgezet onderwijs.*
 
 ### Hoofdstuk 7. Ministerie van Sociale Zaken en Werkgelegenheid
 
 ##### Artikel 1
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
 ##### Artikel 2
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel 3
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
 ##### Artikel 4
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.*
 
 ##### Artikel 5
 
-Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
+*Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.*
 
 ##### Artikel 6
 
-Wijzigt de Algemene Ouderdomswet.
+*Wijzigt de Algemene Ouderdomswet.*
 
 ##### Artikel 7
 
-Wijzigt de Algemene Nabestaandenwet.
+*Wijzigt de Algemene Nabestaandenwet.*
 
 ##### Artikel 8
 
-Wijzigt de Algemene Kinderbijslagwet.
+*Wijzigt de Algemene Kinderbijslagwet.*
 
 ##### Artikel 9
 
-Wijzigt de Toeslagenwet.
+*Wijzigt de Toeslagenwet.*
 
 ##### Artikel 10
 
-Wijzigt de Algemene bijstandswet.
+*Wijzigt de Algemene bijstandswet.*
 
 ##### Artikel 11
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.*
 
 ##### Artikel 12
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.*
 
 ##### Artikel 13
 
-Wijzigt de Wet inkomensvoorziening kunstenaars.
+*Wijzigt de Wet inkomensvoorziening kunstenaars.*
 
 ##### Artikel 14
 
-Wijzigt de Wet voorzieningen gehandicapten.
+*Wijzigt de Wet voorzieningen gehandicapten.*
 
 ##### Artikel 15
 
-Wijzigt de Organisatiewet sociale verzekeringen 1997.
+*Wijzigt de Organisatiewet sociale verzekeringen 1997.*
 
 ##### Artikel 16
 
-Wijzigt de Arbeidsvoorzieningswet 1996.
+*Wijzigt de Arbeidsvoorzieningswet 1996.*
 
 ##### Artikel 17
 
-Wijzigt de Wet arbeid vreemdelingen.
+*Wijzigt de Wet arbeid vreemdelingen.*
 
 ### Hoofdstuk 8. Ministerie van Verkeer en Waterstaat
 
 ##### artikel Enig
 
-Wijzigt de Wegenverkeerswet 1994.
+*Wijzigt de Wegenverkeerswet 1994.*
 
 ### Hoofdstuk 9. Ministerie van Volksgezondheid, Welzijn en Sport
 
 ##### Artikel 1
 
-Wijzigt de Algemene Wet Bijzondere Ziektekosten.
+*Wijzigt de Algemene Wet Bijzondere Ziektekosten.*
 
 ##### Artikel 2
 
-Wijzigt de Ziekenfondswet.
+*Wijzigt de Ziekenfondswet.*
 
 ##### Artikel 3
 
-Wijzigt de Wet op de toegang tot ziektekostenverzekeringen 1998 .
+*Wijzigt de Wet op de toegang tot ziektekostenverzekeringen 1998 .*
 
 ##### Artikel 4
 
-Wijzigt de Welzijnswet 1994.
+*Wijzigt de Welzijnswet 1994.*
 
 ### Hoofdstuk 10. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
 ##### Artikel 1
 
-Wijzigt de Huursubsidiewet.
+*Wijzigt de Huursubsidiewet.*
 
 ##### Artikel 2
 
-Wijzigt de Huisvestingswet.
+*Wijzigt de Huisvestingswet.*
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen
 
@@ -293,7 +262,7 @@ Indien de werking van de beschikking waarbij de voorwaardelijke vergunning tot v
 
 ##### Artikel 6
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 7
 
@@ -302,5 +271,3 @@ Indien het bij koninklijke boodschap van 16 september 1999 ingediende voorstel v
 ##### Artikel 8
 
 Deze wet wordt aangehaald als: Invoeringswet Vreemdelingenwet 2000.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

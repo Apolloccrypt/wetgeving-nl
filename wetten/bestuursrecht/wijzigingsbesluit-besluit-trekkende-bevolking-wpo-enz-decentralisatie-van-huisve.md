@@ -1,66 +1,34 @@
 ---
 title: "Besluit van 24 mei 2000, houdende wijziging van een aantal algemene maatregelen van bestuur op grond van onder meer de Wet op het primair onderwijs in verband met de decentralisatie van de huisvestingsvoorzieningen"
+citeertitel: "Wijzigingsbesluit Besluit trekkende bevolking WPO, enz. (decentralisatie van huisvestingsvoorzieningen)"
 identifier: "BWBR0011380"
-country: "nl"
-rank: "amvb"
-publication_date: "2004-12-29"
-last_updated: "2004-12-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011380"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "2899003"
-version_id: "4465802"
-internal_id: "C4465801"
-label_id: "2847084"
-dtd_version: "2.0"
-original_entry_into_force: "2000-06-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011380/2004-12-29/0"
-intitule_bron: "Stb.2000-251"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-05-24"
-intitule_published: "2000-06-22"
-intitule_in_force: "2000-06-22"
-intitule_status: "goed"
-original_publication: "Stb.2000-251"
-original_signed_date: "2000-05-24"
-original_published_date: "2000-06-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2000-251"
-entry_into_force_date: "2000-06-23"
-jci_1_3: "jci1.3:c:BWBR0011380&z=2004-12-29&g=2004-12-29"
-jci_1_0: "1.0:c:BWBR0011380&g=2004-12-29"
-citeertitel_status: "officieel"
-short_title: "Wijzigingsbesluit Besluit trekkende bevolking WPO, enz. (decentralisatie van huisvestingsvoorzieningen)"
-signed_date: "2000-05-24"
-entry_into_force: "2000-06-23"
+publicatiedatum: 2000-06-23
+laatste_update: 2004-12-29
+status: geldig
+toestand: 2004-12-29
+bron: "https://wetten.overheid.nl/BWBR0011380"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 24 mei 2000, houdende wijziging van een aantal algemene maatregelen van bestuur op grond van onder meer de Wet op het primair onderwijs in verband met de decentralisatie van de huisvestingsvoorzieningen
 
-Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, drs. K.Y.I.J. Adelmund, van 16 februari 2000, nr. WJZ/2000/ 49269 (3706), directie Wetgeving en Juridische Zaken;
+##### Artikel I. Wijziging besluit trekkende bevolking WPO
 
-Gelet op [artikel 185 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=185) en op [artikel V, vijfde en zevende lid](onbekend), en [artikel VI, vijfde en zevende lid, van de Wet van 2 april 1998 tot wijziging van enkele onderwijswetten en technische wijziging van enkele andere wetten in verband met het totstandbrengen van onder meer een Wet op het primair onderwijs en een Wet op de expertisecentra (Stb. 1998, 228)](onbekend);
+*Wijzigt het Besluit trekkende bevolking WPO.*
 
-De Raad van State gehoord (advies van 31 maart 2000, No. W05.00.0061/III);
+##### Artikel II. Wijziging besluit oude eigendoms- en huurscholen WPO
 
-Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, drs. K.Y.I.J. Adelmund, van 18 mei 2000, nr. WJZ/2000/17 418 (3706), directie Wetgeving en Juridische Zaken;
+*Wijzigt het Besluit oude eigendoms- en huurscholen WPO.*
 
-Hebben goedgevonden en verstaan:
+##### Artikel III. Wijziging bekostigingsbesluit WEC
 
-##### Artikel I. Wijziging [besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833)
+*Wijzigt het Bekostigingsbesluit WEC.*
 
-Wijzigt het Besluit trekkende bevolking WPO.
+##### Artikel IV. Wijziging bekostigingsbesluit W.V.O.
 
-##### Artikel II. Wijziging [besluit oude eigendoms- en huurscholen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0004190)
-
-Wijzigt het Besluit oude eigendoms- en huurscholen WPO.
-
-##### Artikel III. Wijziging [bekostigingsbesluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259)
-
-Wijzigt het Bekostigingsbesluit WEC.
-
-##### Artikel IV. Wijziging [bekostigingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005672)
-
-Wijzigt het Bekostigingsbesluit W.V.O.
+*Wijzigt het Bekostigingsbesluit W.V.O.*
 
 ##### Artikel V. Intrekking Huisvestingsbesluit WVO/WCBO
 
@@ -74,13 +42,13 @@ Het Huisvestingsbesluit WVO/WCBO wordt ingetrokken.
 
 ##### Artikel VII. Overgangsbepaling huisvestingskosten en vergoeding materiële instandhouding scholen gehuisvest in een gebouw
 
-1. Vervallen.
+1. *Vervallen.*
 
 2. In afwijking van [artikel C 16a van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_16a) zoals gewijzigd bij dit besluit, dient het bevoegd gezag van een school als bedoeld in het eerste lid voor 1 juli 2001 een verklaring van een accountant omtrent de rechtmatigheid van de uitgaven over de jaren 1997 tot en met 2000 in bij de Minister van Onderwijs, Cultuur en Wetenschappen.
 
 ##### Artikel VIII
 
-Vervallen.
+*Vervallen.*
 
 ##### Artikel IX. Overgangsbepaling huisvestingskosten en uitgaven materiële instandhouding scholen gehuisvest op een vaartuig
 
@@ -102,7 +70,7 @@ In afwijking van [artikel C 16a van het Besluit trekkende bevolking WPO](https:/
 
 - b. in onderdeel D, vierde lid, voor «artikel 90 van de wet» wordt gelezen: [artikel 74 van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=74),
 
-- c. in onderdeel E, eerste lid, voor «[artikel VI, vierde lid van de wet van 2 april 1998, Stb. 228](onbekend)» wordt gelezen: artikel E 24, derde lid, van de Overgangswet ISOVSO zoals luidend op 31 december 1996, en
+- c. in onderdeel E, eerste lid, voor «artikel VI, vierde lid van de wet van 2 april 1998, Stb. 228» wordt gelezen: artikel E 24, derde lid, van de Overgangswet ISOVSO zoals luidend op 31 december 1996, en
 
 - d. de onderdelen D, tweede, derde en vierde lid, E en F tevens betrekking hebben op het voortgezet speciaal onderwijs voor kinderen met leer- en opvoedingsmoeilijkheden en moeilijk lerende kinderen.
 
@@ -131,5 +99,3 @@ In afwijking van [artikel C 16a van het Besluit trekkende bevolking WPO](https:/
 7. [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VIII&z=2004-12-29&g=2004-12-29) werkt terug tot en met 1 januari 1998.
 
 8. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=IX&z=2004-12-29&g=2004-12-29) werkt terug tot en met 1 januari 1999.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

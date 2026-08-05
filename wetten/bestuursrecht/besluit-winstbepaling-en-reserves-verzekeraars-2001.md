@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 21 december 2000, houdende vaststelling van het Besluit winstbepaling en reserves verzekeraars 2001"
+citeertitel: "Besluit winstbepaling en reserves verzekeraars 2001"
 identifier: "BWBR0012096"
-country: "nl"
-rank: "amvb"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012096"
+categorie: "Financieel recht"
 soort: "AMvB"
-stam_id: "1459073"
-version_id: "2186032"
-internal_id: "C2186031"
-label_id: "1417904"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012096/2011-01-01/0"
-intitule_bron: "Stb.2000-643"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-21"
-intitule_published: "2000-12-28"
-intitule_in_force: "2000-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2000-643"
-original_signed_date: "2000-12-21"
-original_published_date: "2000-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2000-643"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0012096&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0012096&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit winstbepaling en reserves verzekeraars 2001"
-signed_date: "2000-12-21"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0012096"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 21 december 2000, houdende vaststelling van het Besluit winstbepaling en reserves verzekeraars 2001
-
-Op de voordracht van de Staatssecretaris van Financiën van 20 november 2000, nr. WDB2000/873 M, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Directe Belastingen;
-
-Gelet op [artikel 29, onderdeel a, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29);
-
-De Raad van State gehoord (advies van 13 december 2000, nr. W06.00.0539/IV);
-
-Gezien het nader rapport van de staatssecretaris van Financiën van 19 december 2000, nr. WDB2000/965 U, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Directe Belastingen;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Reikwijdte en definities
 
@@ -78,11 +46,11 @@ Hebben goedgevonden en verstaan:
 
 - b. bij de omrekening en vervolgens voor de toepassing van het eerste lid de volgende grondslagen worden gehanteerd:
 
-- 1°. de op ¼ percent naar beneden afgeronde en met ¼ percent verlaagde gemiddeld behaalde rendement op de gehele beleggingsportefeuille;
+   - 1°. de op ¼ percent naar beneden afgeronde en met ¼ percent verlaagde gemiddeld behaalde rendement op de gehele beleggingsportefeuille;
 
-- 2°. de sterftetafels die op het tijdstip van de omrekening worden gehanteerd bij de bepaling van het tarief voor nieuw te sluiten verzekeringen;
+   - 2°. de sterftetafels die op het tijdstip van de omrekening worden gehanteerd bij de bepaling van het tarief voor nieuw te sluiten verzekeringen;
 
-- 3°. de batepremie die uit de brutopremie wordt afgeleid door deze te verminderen met een bedrag gelijk aan het verschil tussen de brutopremie en de nettopremie voor de op het tijdstip van de omrekening nieuw te sluiten verzekeringen.
+   - 3°. de batepremie die uit de brutopremie wordt afgeleid door deze te verminderen met een bedrag gelijk aan het verschil tussen de brutopremie en de nettopremie voor de op het tijdstip van de omrekening nieuw te sluiten verzekeringen.
 
 ##### Artikel 3. Nettomethode
 
@@ -124,9 +92,9 @@ Levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars kunnen een
 
 - a. voor:
 
-- 1°. een levensverzekeraar en een natura-uitvaartverzekeraar: vier percent van het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), gestelde maximum;
+   - 1°. een levensverzekeraar en een natura-uitvaartverzekeraar: vier percent van het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), gestelde maximum;
 
-- 2°. een schadeverzekeraar: zes percent van het in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), gestelde maximum;
+   - 2°. een schadeverzekeraar: zes percent van het in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), gestelde maximum;
 
 - b. 22,5 percent van de voor opneming in de reserve beschikbare over het jaar genoten winst, berekend zonder toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2011-01-01&g=2011-01-01);
 
@@ -140,9 +108,9 @@ Levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars kunnen een
 
 - a. de som van:
 
-- 1°. het bedrag waarmede het maximum, berekend op de voet van [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), het op de voet van dat artikel, eerste lid, onderdeel a, berekende maximum overtreft; en
+   - 1°. het bedrag waarmede het maximum, berekend op de voet van [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), het op de voet van dat artikel, eerste lid, onderdeel a, berekende maximum overtreft; en
 
-- 2°. het in het jaar berekende voordelige saldo van winsten en verliezen met betrekking tot de waarde van de beleggingen tot ten hoogste het bedrag dat gelijk is aan de helft van het maximum, berekend op de voet van [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01);
+   - 2°. het in het jaar berekende voordelige saldo van winsten en verliezen met betrekking tot de waarde van de beleggingen tot ten hoogste het bedrag dat gelijk is aan de helft van het maximum, berekend op de voet van [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01);
 
 - b. het belastbare bedrag of het belastbare binnenlandse bedrag, berekend zonder extra toevoeging aan de reserve.
 
@@ -154,9 +122,9 @@ Levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars kunnen een
 
 - a. voor:
 
-- 1°. een levensverzekeraar en een natura-uitvaartverzekeraar: een bedrag gelijk aan dat waarmede de premiereserve in het jaar toeneemt als gevolg van een herziening van de voor de berekening van de premiereserve gebruikte grondslagen;
+   - 1°. een levensverzekeraar en een natura-uitvaartverzekeraar: een bedrag gelijk aan dat waarmede de premiereserve in het jaar toeneemt als gevolg van een herziening van de voor de berekening van de premiereserve gebruikte grondslagen;
 
-- 2°. een schadeverzekeraar: een bedrag gelijk aan het negatieve technische resultaat van een branchegroep tot ten hoogste het bedrag dat op grond van de premies van tot die branchegroep behorende verzekeringen begrepen kan zijn in het op de voet van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), te berekenen maximum van de reserve;
+   - 2°. een schadeverzekeraar: een bedrag gelijk aan het negatieve technische resultaat van een branchegroep tot ten hoogste het bedrag dat op grond van de premies van tot die branchegroep behorende verzekeringen begrepen kan zijn in het op de voet van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), te berekenen maximum van de reserve;
 
 - b. een bedrag gelijk aan het in het jaar berekende nadelige saldo van winsten en verliezen met betrekking tot de waarde van de beleggingen; bij de berekening van dit saldo blijven buiten aanmerking winsten en verliezen welke voortvloeien uit een wezenlijke vermindering van de bedrijfsuitoefening;
 
@@ -261,5 +229,3 @@ Dit besluit wordt aangehaald als: Besluit winstbepaling en reserves verzekeraars
 1. Dit besluit treedt in werking met ingang van 1 januari 2001.
 
 2. Dit besluit vindt voor het eerst toepassing met betrekking tot de heffing over het jaar dat aanvangt met of in 2001.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

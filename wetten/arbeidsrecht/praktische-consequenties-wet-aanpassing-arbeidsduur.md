@@ -1,40 +1,19 @@
 ---
 title: "Praktische consequenties Wet aanpassing arbeidsduur"
 identifier: "BWBR0011369"
-country: "nl"
-rank: "circulaire"
-publication_date: "2000-06-19"
-last_updated: "2000-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011369"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "6256053"
-version_id: "10938062"
-internal_id: "C14831441"
-label_id: "6245104"
-original_entry_into_force: "2000-06-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011369/2000-06-19/0"
-intitule_bron: "Stcrt.2000-115"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-05-22"
-intitule_published: "2000-06-19"
-intitule_in_force: "2000-06-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-115"
-original_signed_date: "2000-05-22"
-original_published_date: "2000-06-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2000-115-p8-SC24461"
-entry_into_force_date: "2000-06-19"
-jci_1_3: "jci1.3:c:BWBR0011369&z=2000-06-19&g=2000-06-19"
-jci_1_0: "1.0:c:BWBR0011369&g=2000-06-19"
-citeertitel_status: "redactioneel"
-signed_date: "2000-05-22"
-entry_into_force: "2000-06-19"
+publicatiedatum: 2000-06-19
+laatste_update: 2000-06-19
+status: geldig
+toestand: 2000-06-19
+bron: "https://wetten.overheid.nl/BWBR0011369"
+opgehaald: 2026-08-05
 ---
+
 # Praktische consequenties Wet aanpassing arbeidsduur
 
-Op 1 juli 2000 treedt de [Wet aanpassing arbeidsduur](onbekend), Stb. 114 en 115, in werking. Deze wet is van toepassing op werknemers in de markt- én de overheidssector. Door middel van deze circulaire wil ik u op de hoogte brengen van de praktische consequenties van de wet voor de sector Rijk.
+Op 1 juli 2000 treedt de Wet aanpassing arbeidsduur, Stb. 114 en 115, in werking. Deze wet is van toepassing op werknemers in de markt- én de overheidssector. Door middel van deze circulaire wil ik u op de hoogte brengen van de praktische consequenties van de wet voor de sector Rijk.
 
 ### Algemeen
 
@@ -72,6 +51,12 @@ Er zij op gewezen dat in geval van bijv. langdurige ziekte of zwangerschapsverlo
 
 Ambtenaren die gebruik willen maken van hun aanspraak op aanpassing van hun arbeidsduur, moeten daartoe een schriftelijk verzoek indienen bij het bevoegd gezag, en wel ten minste 4 maanden voorafgaand aan de gewenste ingangsdatum. De ambtenaar zal hierbij aan moeten geven:
 
+- – het tijdstip van ingang;
+
+- – de omvang van de aanpassing van de arbeidsduur; en
+
+- – de gewenste spreiding van de uren over de week (of een anderszins overeengekomen tijdvak).
+
 Van belang is dat de ambtenaar uitdrukkelijk níet zijn redenen voor het verzoek hoeft aan te geven. De motieven van de ambtenaar voor zijn verzoek mogen door het bevoegd gezag niet (mede) aanleiding zijn tot afwijzing van het verzoek. Er mag geen sprake zijn van een belangenafweging; het verzoek moet worden gehonoreerd, tenzij dit in strijd is met zwaarwegende bedrijfs- of dienstbelangen.
 
 ### Overlegvereiste
@@ -87,6 +72,22 @@ Het bevoegd gezag dient ten minste één maand voor de beoogde ingangsdatum op h
 Voor de beoordeling of zwaarwegende bedrijfs- of dienstbelangen zich tegen de gevraagde aanpassing verzetten, geeft de wet enige handvatten.
 
 Blijkens de wet is bij:
+
+- a. vermindering van de arbeidsduur in ieder geval sprake van een zwaarwegend bedrijfs- of dienstbelang, als de vermindering leidt tot ernstige problemen:
+
+   - 1. voor de bedrijfsvoering bij de herbezetting van de vrijgekomen uren;
+
+   - 2. op het gebied van de veiligheid, of
+
+   - 3. van roostertechnische aard;
+
+- b. vermeerdering van de arbeidsduur in ieder geval sprake van een zwaarwegend bedrijfs- of dienstbelang, als de vermeerdering leidt tot ernstige problemen:
+
+   - 1. van financiële of organisatorische aard;
+
+   - 2. wegens het niet voorhanden zijn van voldoende werk, of
+
+   - 3. omdat de vastgestelde formatieruimte daartoe ontoereikend is.
 
 Het betreffen hier overigens uitdrukkelijk niet-limitatieve opsommingen. Ook andere economische, technische of operationele belangen die ernstig zouden worden geschaad bij honorering van het aanpassingsverzoek, kunnen reden zijn het verzoek af te wijzen.
 
@@ -130,6 +131,6 @@ In de wet is een evaluatiebepaling opgenomen. Binnen drie jaar na de inwerkingtr
 
 Tijdens de behandeling in de Eerste Kamer is bovendien toegezegd om twee jaar na inwerkingtreding reeds een voortgangsrapportage aan te leveren. Vanuit SZW zal nog worden aangegeven welke gegevens in dit kader worden verlangd. Om deze processen te zijner tijd goed te kunnen laten verlopen is nadere afstemming binnen de sector Rijk geboden. Deze afstemming zal plaatsvinden in het overleg met de Interdepartementale Contactvergadering Rechtspositieaangelegenheden (ICRA). Ik zal het initiatief hiertoe doen nemen zodra de benodigde informatie van SZW dezerzijds is ontvangen.
 
-### [Artikel 21b ARAR](onbekend)
+### Artikel 21b ARAR
 
-De [Wet aanpassing arbeidsduur](onbekend) regelt o.a. het recht om in deeltijd te gaan werken, zoals dat in [artikel 21b van het Algemeen Rijksambtenarenreglement (ARAR)](onbekend) is neergelegd. De centrales van overheidspersoneel is derhalve gevraagd om in te stemmen met het schrappen van [artikel 21b ARAR](onbekend). Naar aanleiding van de discussie daarover is besloten om een beslissing over het wel of niet schrappen van [artikel 21 ARAR](onbekend) uit te stellen tot de evaluatie van de Wet aanpassing arbeidsduur is afgerond.
+De Wet aanpassing arbeidsduur regelt o.a. het recht om in deeltijd te gaan werken, zoals dat in artikel 21b van het Algemeen Rijksambtenarenreglement (ARAR) is neergelegd. De centrales van overheidspersoneel is derhalve gevraagd om in te stemmen met het schrappen van artikel 21b ARAR. Naar aanleiding van de discussie daarover is besloten om een beslissing over het wel of niet schrappen van artikel 21 ARAR uit te stellen tot de evaluatie van de Wet aanpassing arbeidsduur is afgerond.

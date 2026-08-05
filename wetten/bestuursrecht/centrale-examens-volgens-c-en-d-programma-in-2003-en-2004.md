@@ -1,36 +1,16 @@
 ---
 title: "Centrale examens volgens C- en D-programma in 2003 en 2004"
 identifier: "BWBR0012582"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-06-27"
-last_updated: "2001-06-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012582"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6454863"
-version_id: "11129342"
-internal_id: "C15046421"
-label_id: "6443824"
-original_entry_into_force: "2001-06-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012582/2001-06-27/0"
-intitule_bron: "Uitleg.2001-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-06-15"
-intitule_published: "2001-06-27"
-intitule_in_force: "2001-06-27"
-intitule_status: "goed"
-original_publication: "Uitleg.2001-18"
-original_signed_date: "2001-06-15"
-original_published_date: "2001-06-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-06-27"
-jci_1_3: "jci1.3:c:BWBR0012582&z=2001-06-27&g=2001-06-27"
-jci_1_0: "1.0:c:BWBR0012582&g=2001-06-27"
-citeertitel_status: "redactioneel"
-signed_date: "2001-06-15"
-entry_into_force: "2001-06-27"
+publicatiedatum: 2001-06-27
+laatste_update: 2001-06-27
+status: geldig
+toestand: 2001-06-27
+bron: "https://wetten.overheid.nl/BWBR0012582"
+opgehaald: 2026-08-05
 ---
+
 # Centrale examens volgens C- en D-programma in 2003 en 2004
 
 In 2003 is de laatste reguliere gelegenheid een eindexamen oude stijl mavo of vbo af te leggen. In 2004 zijn de laatste staatsexamens mavo oude stijl. Voor een bijzondere groep leerlingen (die met toestemming van de inspectie meer dan vijf jaar over de opleiding doen) is 2004 het laatste jaar, waarin zij een eindexamen mavo of vbo oude stijl mogen afleggen.
@@ -40,6 +20,10 @@ Oude stijl betekent: met de oude vakkenpakketvoorschriften (keuze van vakken en 
 Voor wat betreft de centrale c.q. schriftelijke examens volgens C- of D-programma wordt hierbij meegedeeld over welke examenstof deze examens zich zullen uitstrekken.
 
 Voor de meeste vakken geldt het volgende:
+
+- het centraal examen volgens het C-programma heeft dezelfde opgaven als het centraal schriftelijk examen in de kaderberoepsgerichte leerweg
+
+- het centraal examen volgens het D-programma heeft dezelfde opgaven als het centraal examen in de gemengde en theoretische leerweg.
 
 Er zullen geen opgaven beschikbaar worden gesteld voor de landelijke examens. Deze examens maken (formeel) deel uit van het schoolonderzoek. Scholen dienen in 2003 en waar van toepassing in 2004, eigen opgaven voor het schoolonderzoek vast te stellen.
 

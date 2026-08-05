@@ -1,48 +1,18 @@
 ---
 title: "Wet van 14 december 2000, houdende nieuwe bepalingen inzake het financieringsbeleid van openbare lichamen (Wet financiering decentrale overheden)"
+citeertitel: "Wet financiering decentrale overheden"
 identifier: "BWBR0011987"
-country: "nl"
-rank: "wet"
-publication_date: "2013-12-15"
-last_updated: "2013-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011987"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1442463"
-version_id: "20979102"
-internal_id: "C30134261"
-label_id: "1401704"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011987/2013-12-15/0"
-intitule_bron: "Stb.2000-587"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-14"
-intitule_published: "2000-12-21"
-intitule_in_force: "2000-12-21"
-intitule_status: "goed"
-original_publication: "Stb.2013-530"
-original_signed_date: "2013-12-11"
-original_published_date: "2013-12-13"
-original_effect: "structuurwijziging"
-original_dossier: "33540"
-original_url_id: "stb-2013-530"
-entry_into_force_date: "2013-12-11"
-entry_into_force_dossier: "33540"
-jci_1_3: "jci1.3:c:BWBR0011987&z=2013-12-15&g=2013-12-15"
-jci_1_0: "1.0:c:BWBR0011987&g=2013-12-15"
-citeertitel_status: "officieel"
-short_title: "Wet financiering decentrale overheden"
-signed_date: "2013-12-11"
-entry_into_force: "2013-12-11"
+publicatiedatum: 2013-12-11
+laatste_update: 2013-12-15
+status: geldig
+toestand: 2013-12-15
+bron: "https://wetten.overheid.nl/BWBR0011987"
+opgehaald: 2026-08-05
 ---
+
 # Wet van 14 december 2000, houdende nieuwe bepalingen inzake het financieringsbeleid van openbare lichamen (Wet financiering decentrale overheden)
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het op grond van veranderde omstandigheden en nieuwe inzichten ten aanzien van het financieringsbeleid van openbare lichamen wenselijk is nieuwe regels vast te stellen ter herziening van de Wet financiering lagere overheid;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -50,15 +20,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. openbare lichamen:
 
-- 1°. provincies;
+   - 1°. provincies;
 
-- 2°. gemeenten;
+   - 2°. gemeenten;
 
-- 3°. waterschappen;
+   - 3°. waterschappen;
 
-- 4°. lichamen met rechtspersoonlijkheid, ingesteld met toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740);
+   - 4°. lichamen met rechtspersoonlijkheid, ingesteld met toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740);
 
-- 5°. door Onze Ministers aan te wijzen andere bij wet ingestelde lichamen en organen;
+   - 5°. door Onze Ministers aan te wijzen andere bij wet ingestelde lichamen en organen;
 
 - b. rentetypische looptijd: het tijdsinterval gedurende de looptijd van een geldlening, waarin op basis van de leningvoorwaarden van de geldlening sprake is van een door de verstrekker van de geldlening niet beïnvloedbare constante rentevergoeding;
 
@@ -66,19 +36,19 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. netto-vlottende schuld: het gezamenlijk bedrag van:
 
-- 1°. de opgenomen gelden met een oorspronkelijke rentetypische looptijd van korter dan één jaar;
+   - 1°. de opgenomen gelden met een oorspronkelijke rentetypische looptijd van korter dan één jaar;
 
-- 2°. de schuld in rekening-courant;
+   - 2°. de schuld in rekening-courant;
 
-- 3°. de voor een termijn van korter dan één jaar ter bewaring in de kas gestorte gelden van derden, en
+   - 3°. de voor een termijn van korter dan één jaar ter bewaring in de kas gestorte gelden van derden, en
 
-- 4°. overige geldleningen die geen onderdeel uitmaken van de vaste schuld; verminderd met het gezamenlijk bedrag van:
+   - 4°. overige geldleningen die geen onderdeel uitmaken van de vaste schuld; verminderd met het gezamenlijk bedrag van:
 
-- 5°. de contante gelden in kas;
+   - 5°. de contante gelden in kas;
 
-- 6°. de tegoeden in rekening-courant, en
+   - 6°. de tegoeden in rekening-courant, en
 
-- 7°. de overige uitstaande gelden met een rentetypische looptijd van korter dan één jaar;
+   - 7°. de overige uitstaande gelden met een rentetypische looptijd van korter dan één jaar;
 
 - e. gemiddelde netto-vlottende schuld per kwartaal: het gemiddelde van de netto-vlottende schuld op de eerste dag van iedere maand in het desbetreffende kwartaal;
 
@@ -92,11 +62,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - j. Onze Ministers:
 
-- 1°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 1°, 2° en 5° bedoelde lichamen en organen betreft;
+   - 1°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 1°, 2° en 5° bedoelde lichamen en organen betreft;
 
-- 2°. Onze Minister van Financiën en Onze Minister van Infrastructuur en Milieu indien het de in onderdeel a, onder 3°, bedoelde lichamen betreft;
+   - 2°. Onze Minister van Financiën en Onze Minister van Infrastructuur en Milieu indien het de in onderdeel a, onder 3°, bedoelde lichamen betreft;
 
-- 3°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 4°, bedoelde lichamen en organen betreft alsmede Onze Minister van Infrastructuur en Milieu voor zover aan de in onderdeel a, onder 4°, bedoelde lichamen en organen waterschappen deelnemen;
+   - 3°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 4°, bedoelde lichamen en organen betreft alsmede Onze Minister van Infrastructuur en Milieu voor zover aan de in onderdeel a, onder 4°, bedoelde lichamen en organen waterschappen deelnemen;
 
 - k. begrotingstotaal: de totale lasten op de begroting.
 
@@ -109,6 +79,22 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 3. In afwijking van het eerste lid kunnen openbare lichamen hun liquide middelen in de vorm van leningen uitzetten bij andere openbare lichamen, met dien verstande dat openbare lichamen geen leningen kunnen verstrekken aan openbare lichamen ten aanzien waarvan zij met het financiële toezicht zijn belast. Bij regeling van Onze Ministers worden met betrekking tot deze leningen nadere regels gesteld.
 
 4. Bij regeling van Onze Ministers kunnen bepaalde middelen uitgezonderd worden van de verplichting deze aan te houden in ’s Rijks schatkist.
+
+##### Artikel 2a
+
+1. Openbare lichamen kunnen geldleningen slechts aangaan en verstrekken, dan wel de nakoming van uit geldleningen voortvloeiende verplichtingen ten aanzien van de betaling van rente en aflossing slechts garanderen, indien de geldleningen voldoen aan de daarvoor bij algemene maatregel van bestuur te stellen regels.
+
+2. Openbare lichamen kunnen derivaten hanteren of de ingevolge [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2&z=2013-12-15&g=2013-12-15), uitgezonderde middelen uitzetten indien deze derivaten of uitzettingen een prudent karakter hebben en niet zijn gericht op het genereren van inkomen door het lopen van overmatig risico. Bij regeling van Onze Ministers worden ter zake van de uitvoering van dit lid nadere regels gesteld.
+
+3. Openbare lichamen sluiten ten gunste van personeel of politieke ambtsdragers geen contracten met betrekking tot hypothecaire leningen of garanties op de verstrekking van hypothecaire leningen door financiële instellingen.
+
+##### Artikel 2b
+
+1. Openbare lichamen ontvangen rente over de liquide middelen die zij in ’s Rijks schatkist aanhouden. De rente kan niet negatief zijn.
+
+2. Openbare lichamen hebben een rekening-courantovereenkomst met de Staat der Nederlanden, welke van rechtswege tot stand komt op de dag dat deze overeenkomst is ontvangen door het desbetreffende openbaar lichaam. De overeenkomst luidt overeenkomstig de modelovereenkomst die na overleg met Onze Ministers door Onze Minister van Financiën wordt vastgesteld.
+
+3. Onze Minister van Financiën kan na overleg met Onze Ministers regels stellen ten aanzien van de uitvoering van dit artikel.
 
 ##### Artikel 3
 
@@ -154,7 +140,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -186,15 +172,15 @@ Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van deze wet aan d
 
 ##### Artikel 10
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel 11
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel 12
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel 13
 
@@ -202,7 +188,7 @@ De Wet financiering lagere overheid wordt ingetrokken.
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
@@ -211,23 +197,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 16
 
 Deze wet wordt aangehaald als: Wet financiering decentrale overheden.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a
-
-1. Openbare lichamen kunnen geldleningen slechts aangaan en verstrekken, dan wel de nakoming van uit geldleningen voortvloeiende verplichtingen ten aanzien van de betaling van rente en aflossing slechts garanderen, indien de geldleningen voldoen aan de daarvoor bij algemene maatregel van bestuur te stellen regels.
-
-2. Openbare lichamen kunnen derivaten hanteren of de ingevolge [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2&z=2013-12-15&g=2013-12-15), uitgezonderde middelen uitzetten indien deze derivaten of uitzettingen een prudent karakter hebben en niet zijn gericht op het genereren van inkomen door het lopen van overmatig risico. Bij regeling van Onze Ministers worden ter zake van de uitvoering van dit lid nadere regels gesteld.
-
-3. Openbare lichamen sluiten ten gunste van personeel of politieke ambtsdragers geen contracten met betrekking tot hypothecaire leningen of garanties op de verstrekking van hypothecaire leningen door financiële instellingen.
-
-##### Artikel 2b
-
-1. Openbare lichamen ontvangen rente over de liquide middelen die zij in ’s Rijks schatkist aanhouden. De rente kan niet negatief zijn.
-
-2. Openbare lichamen hebben een rekening-courantovereenkomst met de Staat der Nederlanden, welke van rechtswege tot stand komt op de dag dat deze overeenkomst is ontvangen door het desbetreffende openbaar lichaam. De overeenkomst luidt overeenkomstig de modelovereenkomst die na overleg met Onze Ministers door Onze Minister van Financiën wordt vastgesteld.
-
-3. Onze Minister van Financiën kan na overleg met Onze Ministers regels stellen ten aanzien van de uitvoering van dit artikel.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

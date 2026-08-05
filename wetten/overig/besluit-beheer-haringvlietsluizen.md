@@ -1,91 +1,27 @@
 ---
 title: "Besluit Beheer Haringvlietsluizen"
 identifier: "BWBR0011395"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011395"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4779823"
-version_id: "16979922"
-internal_id: "C23415071"
-label_id: "4757884"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011395/2024-01-01/0"
-intitule_bron: "Stcrt.2000-110"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-06-05"
-intitule_published: "2000-06-09"
-intitule_in_force: "2000-06-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20157"
-original_signed_date: "2009-12-18"
-original_published_date: "2009-12-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2009-20157"
-entry_into_force_date: "2009-12-18"
-jci_1_3: "jci1.3:c:BWBR0011395&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0011395&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2009-12-18"
-entry_into_force: "2009-12-18"
+publicatiedatum: 2009-12-18
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0011395"
+opgehaald: 2026-08-05
 ---
+
 # Besluit Beheer Haringvlietsluizen
-
-Overwegende:
-
-dat het Haringvliet, het Hollandsch Diep en de Biesbosch vóór de uitvoering van het Deltaplan het natuurlijke overgangsgebied (estuarium) vormden tussen de zee en de Rijn en de Maas;
-
-dat het gebied met de Haringvlietdam van de directe zee-invloed werd afgesloten;
-
-dat het beheer van de sluizen in de dam sindsdien, behalve op de veiligheid tegen overstroming, vooral gericht is geweest op voordelen voor het menselijk gebruik zoals het in stand houden van een goede watervoorziening in delen van Zuid-Holland, Noord Brabant en Zeeland;
-
-dat dit heeft geleid tot verlies aan natuurlijke samenhang en kwaliteit en dat voortzetting van dit beheer op termijn bovendien tot hoge beheerskosten zal leiden;
-
-dat in verband hiermee in de derde Nota waterhuishouding, het Natuurbeleidsplan en het Rijn Actie Programma is aangegeven dat het gebied als mondingsgebied van de Rijn en de Maas niet naar wens functioneert;
-
-dat het mijn bedoeling is om na het afwegen van alle belangen de Haringvlietsluizen zo te beheren dat dit goede voorwaarden biedt voor karakteristieke estuariene levensgemeenschappen en voor duurzaam gebruik van de wateren ter weerszijden van de sluizen;
-
-dat de veiligheid tegen overstroming daarbij onveranderd gehandhaafd zal blijven;
-
-dat in een milieueffectrapport alternatieven voor het huidige beheer zijn onderzocht;
-
-dat mede op grond van dat milieueffectrapport in de vierde Nota waterhuishouding is geconcludeerd dat beheer van de Haringvlietsluizen volgens het alternatief ‘Getemd getij’ meer recht doet aan de doelstellingen van het integraal waterbeheer;
-
-dat bij beheer volgens Getemd getij de fysieke verbinding tussen het estuarium en de Voordelta, beide deel uitmakend van de Ecologische Hoofdstructuur (EHS) in Nederland en onderdeel van het Europees ecologisch netwerk Natura 2000, grotendeels wordt hersteld;
-
-dat bij dat beheer, in termen van de Habitatrichtlijn, kan worden gesproken van een ‘gunstige staat van instandhouding’ van estuarium en Voordelta;
-
-dat bij dat beheer wat betreft de Vogelrichtlijn en Wetlandconventie, de verschuivingen in de prioritaire en andere vogelsoorten in het gebied als geheel, positief worden beoordeeld;
-
-dat een beheersbesluit om Getemd getij daadwerkelijk in te voeren pas in een later stadium (naar verwachting 10-15 jaar) aan de orde zal kunnen zijn omdat eerst uitgebreide maatregelen moeten zijn genomen om o.a. de zoetwatervoorziening veilig te stellen;
-
-dat het onderhavige besluit gaat over het beheer van de sluizen volgens het - eveneens in het milieueffectrapport beschreven - beheersprogramma ‘de Kier’;
-
-dat daarbij de sluizen op een veel kleinere opening worden gezet dan bij Getemd getij;
-
-dat dit sluisbeheer al op kortere termijn (naar verwachting 5 jaar) kan worden ingevoerd nadat een aantal maatregelen zijn genomen om de zoetwatervoorziening veilig te stellen;
-
-dat het sluisbeheer conform dit besluit past in een gefaseerde openstelling van de Haringvlietsluizen, waarvan sluisbeheer volgens Getemd getij het sluitstuk kan zijn;
-
-dat wat betreft de Habitat-, de Vogelrichtlijn en de Wetlandconventie de effecten van het sluisbeheer conform dit besluit overeenkomen met die van Getemd getij, zij het in veel beperktere mate;
-
-dat bij het sluisbeheer conform dit besluit de mogelijkheid van vis(in)trek al op kortere termijn wordt verbeterd en de geleidelijke zoet-zoutovergang gedeeltelijk wordt hersteld;
-
-Gelet op: de [Wet op de waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575) en het daarop gebaseerde [Besluit van 6 juni 1990, Stb. 320, houdende regelen ter uitvoering van de Wet op de waterhuishouding (Uitvoeringsregeling waterhuishouding)](https://wetten.overheid.nl/jci1.3:c:BWBR0004778); de [Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867) en het daarop gebaseerde [Besluit van 14 januari 1971, Stb. 42, tot uitvoering van artikel 5, tweede lid, Waterstaatswet 1900 (Organiek Besluit Rijkswaterstaat)](https://wetten.overheid.nl/jci1.3:c:BWBR0002743); de vierde Nota waterhuishouding; het Natuurbeleidsplan; de Habitatrichtlijn, de Vogelrichtlijn en de Wetlandconventie; het Beheerplan voor de Rijkswateren; programma voor het beheer in de periode 1997 tot en met 2000; het Integraal Beleidsplan Haringvliet-Hollandsch Diep-Biesbosch; het Integraal Beleidsplan Voordelta; het Milieueffectrapport over het beheer van de Haringvlietsluizen en de daarbij behorende deelrapporten, zoals genoemd op pagina 113 van het hoofdrapport MER (november 1998); het Rapport van Bevindingen inzake het Milieueffectrapport Beheer Haringvlietsluizen van het Overlegorgaan Water- en Noordzeeaangelegenheden (OWN 98/46) van december 1998; de bepalingen in [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4); en de Toelichting waarop het Besluit steunt;
-
-Besluit:
-
-het beheer van de Haringvlietsluizen als volgt te wijzigen:
 
 ##### Artikel 1
 
 1. Per 1 december 2010 worden de Haringvlietsluizen beperkt opengesteld. Dit betekent dat de sluizen, afhankelijk van de Rijnafvoer bij Lobith, ook bij vloed worden geopend met een maximale doorlaatopening zoals aangegeven in de bij dit Besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&bijlage=1&z=2024-01-01&g=2024-01-01).
 
 2. In bijzondere omstandigheden als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=6&z=2024-01-01&g=2024-01-01), kan van het in lid 1 bedoelde gewijzigde sluisbeheer worden afgeweken.
+
+##### Artikel 1a
+
+Dit besluit berust mede op [artikel 1 van het Instellingsbesluit directoraat generaal Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=1) en [artikel 3.9, tweede lid, onder e, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.9).
 
 ##### Artikel 2
 
@@ -160,23 +96,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 9
 
 Dit besluit kan worden aangehaald als Besluit Beheer Haringvlietsluizen.
-
-## Bijlage 1. Sluisbeheer volgens ‘de Kier’
-
-Vergelijking van de sluisopeningen bij verschillend beheer; huidige situatie (LPH’84), het programma volgens het MER en het HOP.
-
-## Bijlage 1. Sluisbeheer volgens ‘de Kier’
-
-Vergelijking van de sluisopeningen bij verschillend beheer; huidige situatie (LPH’84), het programma volgens het MER en het HOP.
-
-## Bijlage 2
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-##### Artikel 1a
-
-Dit besluit berust mede op [artikel 1 van het Instellingsbesluit directoraat generaal Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=1) en [artikel 3.9, tweede lid, onder e, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.9).
-
-## Bijlage 3
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.

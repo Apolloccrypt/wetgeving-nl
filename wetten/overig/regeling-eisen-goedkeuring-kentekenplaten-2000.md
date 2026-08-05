@@ -1,69 +1,43 @@
 ---
 title: "Regeling eisen goedkeuring kentekenplaten 2000"
 identifier: "BWBR0012172"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012172"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4469543"
-version_id: "22813402"
-internal_id: "C32976481"
-label_id: "4448254"
-dtd_version: "2.0"
-original_entry_into_force: "2015-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012172/2016-01-01/0"
-intitule_bron: "Stcrt.2001-22"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-01-19"
-intitule_published: "2001-01-31"
-intitule_in_force: "2001-01-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-41413"
-original_signed_date: "2015-11-27"
-original_published_date: "2015-11-30"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2015-41413"
-entry_into_force_date: "2015-11-27"
-jci_1_3: "jci1.3:c:BWBR0012172&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0012172&g=2016-01-01"
-citeertitel_status: "officieel"
-signed_date: "2015-11-27"
-entry_into_force: "2015-11-27"
+publicatiedatum: 2015-11-27
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0012172"
+opgehaald: 2026-08-05
 ---
+
 # Regeling eisen goedkeuring kentekenplaten 2000
-
-Gelet op de [artikelen 36, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), en [40, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40) en [artikel 5 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=5);
-
-Besluit:
 
 #### Hoofdstuk 1. Algemeen
 
 ##### Artikel 1. Begripsomschrijvingen
 
-- a. **kentekenplaat:** een plaat die het kenteken toont van een voertuig;
+- a. *kentekenplaat:* een plaat die het kenteken toont van een voertuig;
 
-- b. **retroreflecterende kentekenplaat:** een kentekenplaat waarvan de achtergrond van retroreflecterend materiaal is voorzien;
+- b. *retroreflecterende kentekenplaat:* een kentekenplaat waarvan de achtergrond van retroreflecterend materiaal is voorzien;
 
-- c. **monster:** een gelakte kentekenplaat dan wel een retroreflecterende kentekenplaat die voor beoordeling of beproeving wordt overgelegd,
+- c. *monster:* een gelakte kentekenplaat dan wel een retroreflecterende kentekenplaat die voor beoordeling of beproeving wordt overgelegd,
 
-- 1°. een gelakte kentekenplaat dan wel een retroreflecterende kentekenplaat die voor beoordeling of beproeving wordt overgelegd,
+   - 1°. een gelakte kentekenplaat dan wel een retroreflecterende kentekenplaat die voor beoordeling of beproeving wordt overgelegd,
 
-- 2°. een halffabrikaat dat voor beoordeling of beproeving wordt overgelegd;
+   - 2°. een halffabrikaat dat voor beoordeling of beproeving wordt overgelegd;
 
-- d. **proefstuk:** uitsnijding van het monster;
+- d. *proefstuk:* uitsnijding van het monster;
 
-- e. **halffabrikaat:** voorbewerkt materiaal dat voor de vervaardiging van kentekenplaten wordt gebezigd en dat van het waarmerk is voorzien, en wel:
+- e. *halffabrikaat:* voorbewerkt materiaal dat voor de vervaardiging van kentekenplaten wordt gebezigd en dat van het waarmerk is voorzien, en wel:
 
-- 1°. gelakte aluminium plaat van de voorgeschreven afmetingen,
+   - 1°. gelakte aluminium plaat van de voorgeschreven afmetingen,
 
-- 2°. retroreflecterend materiaal, voorzien van een zelfhechtende lijmlaag aan de achterzijde, of
+   - 2°. retroreflecterend materiaal, voorzien van een zelfhechtende lijmlaag aan de achterzijde, of
 
-- 3°. aluminium plaat van de voorgeschreven afmetingen, voorzien van retroreflecterend materiaal als bedoeld onder 2°;
+   - 3°. aluminium plaat van de voorgeschreven afmetingen, voorzien van retroreflecterend materiaal als bedoeld onder 2°;
 
-- f. **goedgekeurd type:** een type kentekenplaat of halffabrikaat dat geheel voldoet aan de in deze regeling gestelde eisen en voor welk type erkenning voor het aanbrengen van het rijkskeurmerk, het keurmerk dan wel het waarmerk is verleend.
+- f. *goedgekeurd type:* een type kentekenplaat of halffabrikaat dat geheel voldoet aan de in deze regeling gestelde eisen en voor welk type erkenning voor het aanbrengen van het rijkskeurmerk, het keurmerk dan wel het waarmerk is verleend.
 
 #### Hoofdstuk 2. Algemene eisen voor kentekenplaten
 
@@ -123,7 +97,7 @@ Besluit:
 
 3. Voor de hiernavolgende begrippen geldt de door de International Commission on Illumination vastgestelde `International Lighting Vocabulary', 3rd Edition nr. 17 (E. 11) 1970: candela, invalshoek, kleur, kleurenvlak, lichtbron (primaire), lichtsoorten (standaard - van de CIE), lumen, luminantiefactor, lux, meetvlak, reflectie, gerichte reflectie, retroreflectie, reflectiemeter, reflectometerwaarde, trichromatische componenten, trichromatisch stelsel (van de CIE 1931), waarnemingshoek.
 
-#### Hoofdstuk 3. Bijzondere eisen voor kentekenplaten volgens de modellen 1.1, 2.1, 3.1, 4.1, 5.1, 6.1, 7.1, 8.1, 9.1 en 10.1 van de [bijlage behorende bij de Regeling kentekens en kentekenplaten](onbekend)
+#### Hoofdstuk 3. Bijzondere eisen voor kentekenplaten volgens de modellen 1.1, 2.1, 3.1, 4.1, 5.1, 6.1, 7.1, 8.1, 9.1 en 10.1 van de bijlage behorende bij de Regeling kentekens en kentekenplaten
 
 ##### Artikel 6. Samenstellen van het kenteken
 
@@ -167,7 +141,7 @@ Bij de vervaardiging van de kentekenplaat zijn de hiernavolgende toleranties in 
 
 2. Het keurmerk op de kentekenplaat dient te zijn aangebracht hetzij boven de tweede streep, hetzij boven de streep van het kenteken, hetzij, indien geen streep in het kenteken aanwezig is, midden tussen de groepen van tekens.
 
-#### Hoofdstuk 4. Bijzondere eisen voor kentekenplaten volgens de modellen 11.1, 12.1, 13.1, 14.1, 15.1, 16.1, 17.1, 18.1, 18.2A tot en met 18.2E, 27.1A tot en met 27.2H, 27.10A tot en met 27.26E en 27.30A tot en met 27.31E en 30.1A tot en met 30.16 van de [bijlage behorende bij de Regeling kentekens en kentekenplaten](onbekend)
+#### Hoofdstuk 4. Bijzondere eisen voor kentekenplaten volgens de modellen 11.1, 12.1, 13.1, 14.1, 15.1, 16.1, 17.1, 18.1, 18.2A tot en met 18.2E, 27.1A tot en met 27.2H, 27.10A tot en met 27.26E en 27.30A tot en met 27.31E en 30.1A tot en met 30.16 van de bijlage behorende bij de Regeling kentekens en kentekenplaten
 
 ##### Artikel 11
 
@@ -177,11 +151,11 @@ Bij de vervaardiging van de kentekenplaat zijn de volgende toleranties in de maa
 
 - b. op de totale lengte van het kenteken:
 
-- 1°. bij kentekenplaten volgens de modellen 11.1, 13.1, 15.1, 18.2A tot en met 18.2E, 27.1A tot en met 27.1G, 27.11, 27.14, 27.15A tot en met 27.15E, 27.18, 27.21, 27.24A tot en met 27.24C, 27.27 en 27.30A tot en met 27.30E: 3 mm;
+   - 1°. bij kentekenplaten volgens de modellen 11.1, 13.1, 15.1, 18.2A tot en met 18.2E, 27.1A tot en met 27.1G, 27.11, 27.14, 27.15A tot en met 27.15E, 27.18, 27.21, 27.24A tot en met 27.24C, 27.27 en 27.30A tot en met 27.30E: 3 mm;
 
-- 2°. bij kentekenplaten volgens de modellen 12.1, 14.1, 16.1, 17.1 en 18.1: 1 mm bij één groep tekens en 1,5 mm bij twee groepen tekens;
+   - 2°. bij kentekenplaten volgens de modellen 12.1, 14.1, 16.1, 17.1 en 18.1: 1 mm bij één groep tekens en 1,5 mm bij twee groepen tekens;
 
-- 3°. bij kentekenplaten volgens de modellen 27.2A tot en met 27.2H, 27.10A tot en met 27.10E, 27.12, 27.13, 27.16A tot en met 27.16E, 27.17A tot en met 27.17E, 27.19, 27.20, 27.22, 27.23, 27.25A tot en met 27.25E, 27.26A tot en met 27.26E, 27.28, 27.29, 27.31A tot en met 27.31E, 30.1A tot en met 30.4D, 30.5, 30.6, 30.7, 30.8, 30.9, 30.10, 30.11, 30.12, 30.13, 30.14, 30.15 en 30.16: 1,5 mm bij één groep tekens en 2 mm bij twee groepen tekens;
+   - 3°. bij kentekenplaten volgens de modellen 27.2A tot en met 27.2H, 27.10A tot en met 27.10E, 27.12, 27.13, 27.16A tot en met 27.16E, 27.17A tot en met 27.17E, 27.19, 27.20, 27.22, 27.23, 27.25A tot en met 27.25E, 27.26A tot en met 27.26E, 27.28, 27.29, 27.31A tot en met 27.31E, 30.1A tot en met 30.4D, 30.5, 30.6, 30.7, 30.8, 30.9, 30.10, 30.11, 30.12, 30.13, 30.14, 30.15 en 30.16: 1,5 mm bij één groep tekens en 2 mm bij twee groepen tekens;
 
 - c. op de totale hoogte van het kenteken: bij kentekenplaten volgens de modellen 12.1, 14.1, 16.1, 17.1, 18.1, 27.2A tot en met 27.2H, 27.12, 27.16A tot en met 27.16E, 27.19, 27.22, 27.25A tot en met 27.25E, 27.28 en 27.31A tot en met 27.31E: 2 mm en 27.10A tot en met 27.10E, 27.13, 27.17A tot en met 27.17E, 27.20, 27.23, 27.26A tot en met 27.26E, 27.29, 30.1A, tot en met 30.16: 1 mm.
 
@@ -231,11 +205,11 @@ Bij de vervaardiging van de kentekenplaat zijn de volgende toleranties in de maa
 
 9. Kentekenplaten volgens de modellen 27.1A tot en met 27.2H, 27.10A tot en met 27.13, 27.15A tot en met 27.17E, 27.24A tot en met 27.26E, 27.30A tot en met 27.31E, 30.1A tot en met 30.8 en 30.13 tot en met 30.16 dienen te zijn voorzien van een zwarte profielrand. Kentekenplaten volgens de modellen 30.3A tot en met 30.4D dienen te zijn voorzien van een witte profielrand.
 
-10. Kentekenplaten volgens 18.2A tot en met 18.2E, met uitzondering van platen met een donkerblauwe achtergrond, en volgens de modellen 27.1A tot en met 27.2H, 27.10A tot en met 27.14, 27.30A tot en met 27.31E en 30.1A tot en met 30.6 dienen aan de voorzijde te zijn voorzien van een lamineercode. Deze code bestaat uit het identificatienummer van de lamineerder (1e positie), de laatste twee cijfers van het jaartal van vervaardiging van de retroreflecterende plaat (2 posities) en een productievolgnummer (7 posities). Deze code met een breedte van circa 40 mm wordt, in 3 tot 4 mm hoge cijfers in zwart aangebracht volgens model E van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend). Dit lid is niet van toepassing op kentekenplaten volgens de modellen 27.11 tot en met 27.14 die zijn afgegeven vóór 31 augustus 2002.
+10. Kentekenplaten volgens 18.2A tot en met 18.2E, met uitzondering van platen met een donkerblauwe achtergrond, en volgens de modellen 27.1A tot en met 27.2H, 27.10A tot en met 27.14, 27.30A tot en met 27.31E en 30.1A tot en met 30.6 dienen aan de voorzijde te zijn voorzien van een lamineercode. Deze code bestaat uit het identificatienummer van de lamineerder (1e positie), de laatste twee cijfers van het jaartal van vervaardiging van de retroreflecterende plaat (2 posities) en een productievolgnummer (7 posities). Deze code met een breedte van circa 40 mm wordt, in 3 tot 4 mm hoge cijfers in zwart aangebracht volgens model E van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071). Dit lid is niet van toepassing op kentekenplaten volgens de modellen 27.11 tot en met 27.14 die zijn afgegeven vóór 31 augustus 2002.
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. Proeven gelakte kentekenplaten
 
@@ -283,7 +257,7 @@ Een model van een kentekenplaat wordt opgesteld:
 
 1. Ten aanzien van de hechting van de laklaag worden de volgende proeven genomen:
 
-- a. In de laklaag van de tekens van het proefstuk I van de retroreflecterende kentekenplaat worden, op een onderling gelijke afstand van 1 mm, insnijdingen aangebracht zoals bepaald in de paragrafen 3.1.**a** of 3.1.**b** en 5.1 tot en met 5.3 van de Duitse norm DIN 53151 van december 1970. Na het aanbrengen van deze insnijdingen wordt over het ingesneden gedeelte kleefband aangebracht zodanig dat het gehele oppervlak zich daaraan hecht. Vervolgens wordt het kleefband daarvan afgerukt. Het ingesneden gedeelte mag daarna geen enkele beschadiging vertonen. Het kleefband moet voldoen aan de eisen gesteld voor type I, class A in de Federal Specification L-T-90C van 17 maart 1959, met amendement-1 van 13 januari 1961 en int.-amendement-2 van 3 november 1965. De proef dient binnen drie weken na ontvangst van het monster te worden uitgevoerd bij de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969.
+- a. In de laklaag van de tekens van het proefstuk I van de retroreflecterende kentekenplaat worden, op een onderling gelijke afstand van 1 mm, insnijdingen aangebracht zoals bepaald in de paragrafen 3.1.*a* of 3.1.*b* en 5.1 tot en met 5.3 van de Duitse norm DIN 53151 van december 1970. Na het aanbrengen van deze insnijdingen wordt over het ingesneden gedeelte kleefband aangebracht zodanig dat het gehele oppervlak zich daaraan hecht. Vervolgens wordt het kleefband daarvan afgerukt. Het ingesneden gedeelte mag daarna geen enkele beschadiging vertonen. Het kleefband moet voldoen aan de eisen gesteld voor type I, class A in de Federal Specification L-T-90C van 17 maart 1959, met amendement-1 van 13 januari 1961 en int.-amendement-2 van 3 november 1965. De proef dient binnen drie weken na ontvangst van het monster te worden uitgevoerd bij de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969.
 
 - b. Het proefstuk II van de retroreflecterende kentekenplaat wordt in een tijdsbestek van 1-2 seconden over een hoek van 180o gebogen om een cilindrische doorn met een diameter van 50 mm. De laklaag van de tekens dient zich daarbij aan de buitenzijde te bevinden. Na de proef dient het beproefde gedeelte van de laklaag te worden onderzocht met behulp van een loep `10 x', waarbij de laklaag geen barstvorming of loslaten van de ondergrond mag vertonen. De proef dient binnen drie weken na ontvangst van het monster te worden uitgevoerd bij de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969.
 
@@ -291,7 +265,7 @@ Een model van een kentekenplaat wordt opgesteld:
 
 - a. Het retroreflecterende materiaal moet zodanig op de aluminium plaat zijn aangebracht dat de kentekenplaat een gelijkmatig retroreflecterend oppervlak vertoont.
 
-- b. De proefstukken III en IV dienen gedurende 2 x 24 achtereenvolgende uren te zijn geconditioneerd alvorens de proeven, bedoeld onder **c** en **d** mogen worden uitgevoerd.
+- b. De proefstukken III en IV dienen gedurende 2 x 24 achtereenvolgende uren te zijn geconditioneerd alvorens de proeven, bedoeld onder *c* en *d* mogen worden uitgevoerd.
 
 - c. In het proefstuk III van de retroreflecterende kentekenplaat wordt vanaf de achterzijde een kogel tot op een diepte van 4 mm gedrukt zoals bepaald in de paragrafen 3, 5.2, 5.3, 6.2, 6.2.1 en 6.2.2 van de Internationale Standaard ISO 1520 van 15 december 1973. Na de proef wordt het beproefde gedeelte van het retroreflecterende materiaal met behulp van een loep `10 x' onderzocht, waarbij het retroreflecterende materiaal niet mag hebben losgelaten van het aluminium materiaal. De proef dient te worden uitgevoerd bij de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969.
 
@@ -313,7 +287,7 @@ Het proefstuk VII van de retroreflecterende kentekenplaat dient gedurende 5 maal
 
 6. Ten aanzien van de bestandheid tegen hoge en lage temperaturen wordt de volgende proef genomen:
 
-De proefstukken VIII, IX, X en XI van de retroreflecterende kentekenplaat worden gedurende 6 achtereenvolgende uren gehouden in een droge atmosfeer van 60 °C ± 2 °C en onmiddellijk daarna 12 achtereenvolgende uren in een atmosfeer van -20 °C ± 2 °C. Na de proef mag het beproefde gedeelte van de laklaag en van het retroreflecterende materiaal geen zichtbare verkleuring vertonen en dienen de proeven zoals omschreven in het eerste lid, onderdelen **a** en **b**, en tweede lid, onderdelen **c** en **d**, ten aanzien van de hechting te worden herhaald.
+De proefstukken VIII, IX, X en XI van de retroreflecterende kentekenplaat worden gedurende 6 achtereenvolgende uren gehouden in een droge atmosfeer van 60 °C ± 2 °C en onmiddellijk daarna 12 achtereenvolgende uren in een atmosfeer van -20 °C ± 2 °C. Na de proef mag het beproefde gedeelte van de laklaag en van het retroreflecterende materiaal geen zichtbare verkleuring vertonen en dienen de proeven zoals omschreven in het eerste lid, onderdelen *a* en *b*, en tweede lid, onderdelen *c* en *d*, ten aanzien van de hechting te worden herhaald.
 
 7. Ten aanzien van het versneld verkleuren wordt de volgende proef genomen:
 
@@ -347,7 +321,7 @@ Het proefstuk XIII van de retroreflecterende kentekenplaat voorzien van een kuns
 
 3. Ten aanzien van de hechting van de laklaag worden de volgende proeven genomen:
 
-- a. In de laklaag van het proefstuk I van het halffabrikaat worden, op een onderlinge afstand van 1 mm, insnijdingen aangebracht zoals bepaald in de paragrafen 3.1.**a** of 3.1.**b** en 5.1 tot en met 5.3 van de Duitse norm DIN 53151 van december 1970. Na het aanbrengen van deze insnijdingen wordt over het ingesneden gedeelte kleefband aangebracht zodanig dat het gehele oppervlak zich daaraan hecht. Vervolgens wordt het kleefband daarvan afgerukt. Het ingesneden gedeelte mag daarna geen enkele beschadiging vertonen. Het kleefband moet voldoen aan de eisen gesteld voor type I, class A in de Federal Specification L-T-90C van 17 maart 1959, met amendement-1 van 13 januari 1961 en int.-amendement-2 van 3 november 1965. De proef dient binnen 3 weken na ontvangst van het monster te worden uitgevoerd bij de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969.
+- a. In de laklaag van het proefstuk I van het halffabrikaat worden, op een onderlinge afstand van 1 mm, insnijdingen aangebracht zoals bepaald in de paragrafen 3.1.*a* of 3.1.*b* en 5.1 tot en met 5.3 van de Duitse norm DIN 53151 van december 1970. Na het aanbrengen van deze insnijdingen wordt over het ingesneden gedeelte kleefband aangebracht zodanig dat het gehele oppervlak zich daaraan hecht. Vervolgens wordt het kleefband daarvan afgerukt. Het ingesneden gedeelte mag daarna geen enkele beschadiging vertonen. Het kleefband moet voldoen aan de eisen gesteld voor type I, class A in de Federal Specification L-T-90C van 17 maart 1959, met amendement-1 van 13 januari 1961 en int.-amendement-2 van 3 november 1965. De proef dient binnen 3 weken na ontvangst van het monster te worden uitgevoerd bij de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969.
 
 - b. In het proefstuk II van het halffabrikaat wordt vanaf de achterzijde een kogel tot op een diepte van 4 mm gedrukt, een en ander zoals bepaald in de paragrafen 3, 5.2, 5.3, 6.2, 6.2.1 en 6.2.2 van de Internationale Standaard ISO 1520 van 15 december 1973. Na de proef mag het beproefde gedeelte van de laklaag geen barstvorming of loslaten van de ondergrond vertonen. De proef dient binnen drie weken na ontvangst van het monster te worden uitgevoerd bij de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969.
 
@@ -397,7 +371,7 @@ Een model van een gelakte aluminium plaat wordt opgesteld:
 
 - a. Het retroreflecterende materiaal moet een gelijkmatig retroreflecterend oppervlak vertonen.
 
-- b. De proefstukken I en II dienen gedurende 2 x 24 achtereenvolgende uren te zijn geconditioneerd alvorens de proeven zoals omschreven onder **c** en **d** mogen worden uitgevoerd.
+- b. De proefstukken I en II dienen gedurende 2 x 24 achtereenvolgende uren te zijn geconditioneerd alvorens de proeven zoals omschreven onder *c* en *d* mogen worden uitgevoerd.
 
 - c. In het proefstuk I van het retroreflecterende materiaal wordt vanaf de achterzijde een kogel tot op een diepte van 4 mm gedrukt zoals bepaald in de paragrafen 3, 5.2, 5.3, 6.2, 6.2.1 en 6.2.2 van de Internationale Standaard ISO 1520 van 15 december 1973. Na de proef wordt het beproefde gedeelte van het retroreflecterende materiaal met behulp van een loep `10 x' onderzocht, waarbij het retroreflecterende materiaal niet mag hebben losgelaten van het aluminium materiaal. De proef dient te worden uitgevoerd bij de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969.
 
@@ -417,7 +391,7 @@ Het proefstuk V van het retroreflecterende materiaal dient gedurende 5 maal 22 u
 
 8. Ten aanzien van de bestandheid tegen hoge en lage temperaturen wordt de volgende proef genomen:
 
-De proefstukken VI en VII van het retroreflecterende materiaal worden gedurende 6 achtereenvolgende uren gehouden in een droge atmosfeer van 60o C ± 2o C en onmiddellijk daarna 12 achtereenvolgende uren in een atmosfeer van -20o C ± 2o C. De proefstukken worden daarna gedurende 2 x 24 achtereenvolgende uren geconditioneerd in de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969. Na de proef mag het beproefde gedeelte van het retroreflecterende materiaal geen zichtbare verkleuring vertonen en dienen de proeven zoals omschreven in het vierde lid, onderdelen **c** en **d**, te worden herhaald.
+De proefstukken VI en VII van het retroreflecterende materiaal worden gedurende 6 achtereenvolgende uren gehouden in een droge atmosfeer van 60o C ± 2o C en onmiddellijk daarna 12 achtereenvolgende uren in een atmosfeer van -20o C ± 2o C. De proefstukken worden daarna gedurende 2 x 24 achtereenvolgende uren geconditioneerd in de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969. Na de proef mag het beproefde gedeelte van het retroreflecterende materiaal geen zichtbare verkleuring vertonen en dienen de proeven zoals omschreven in het vierde lid, onderdelen *c* en *d*, te worden herhaald.
 
 9. Ten aanzien van het versneld verkleuren wordt de volgende proef genomen:
 
@@ -449,7 +423,7 @@ Een model van het retroreflecterende materiaal wordt opgesteld:
 
 - a. Het retroreflecterende materiaal moet zodanig op de aluminium plaat zijn aangebracht dat de plaat een gelijkmatig retroreflecterend oppervlak vertoont.
 
-- b. De proefstukken I en II dienen gedurende 2 x 24 achtereenvolgende uren te zijn geconditioneerd alvorens de proeven zoals omschreven onder **c** en **d** mogen worden uitgevoerd.
+- b. De proefstukken I en II dienen gedurende 2 x 24 achtereenvolgende uren te zijn geconditioneerd alvorens de proeven zoals omschreven onder *c* en *d* mogen worden uitgevoerd.
 
 - c. In het proefstuk I van de retroreflecterende plaat wordt vanaf de achterzijde een kogel tot op een diepte van 4 mm gedrukt zoals bepaald in de paragrafen 3, 5.2, 5.3, 6.2, 6.2.1 en 6.2.2 van de Internationale Standaard ISO 1520 van 15 december 1973. Na de proef wordt het beproefde gedeelte van het retroreflecterende materiaal met behulp van een loep `10 x' onderzocht, waarbij het retroreflecterende materiaal niet mag hebben losgelaten van het aluminium materiaal. De proef dient te worden uitgevoerd bij de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969.
 
@@ -469,7 +443,7 @@ Het proefstuk V van het retroreflecterende materiaal dient gedurende 5 maal 22 u
 
 7. Ten aanzien van de bestandheid tegen hoge en lage temperaturen wordt de volgende proef genomen:
 
-De proefstukken VI en VII van het retroreflecterende materiaal worden gedurende 6 achtereenvolgende uren gehouden in een droge atmosfeer van 60 °C ± 2 °C en onmiddellijk daarna 12 achtereenvolgende uren in een atmosfeer van -20o C ± 2o C. De proefstukken worden daarna gedurende 2 x 24 achtereenvolgende uren geconditioneerd in de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969. Na de proef mag het beproefde gedeelte van het retroreflecterende materiaal geen zichtbare verkleuring vertonen en dienen de proeven zoals omschreven in het derde lid, onderdelen **c** en **d**, te worden herhaald.
+De proefstukken VI en VII van het retroreflecterende materiaal worden gedurende 6 achtereenvolgende uren gehouden in een droge atmosfeer van 60 °C ± 2 °C en onmiddellijk daarna 12 achtereenvolgende uren in een atmosfeer van -20o C ± 2o C. De proefstukken worden daarna gedurende 2 x 24 achtereenvolgende uren geconditioneerd in de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969. Na de proef mag het beproefde gedeelte van het retroreflecterende materiaal geen zichtbare verkleuring vertonen en dienen de proeven zoals omschreven in het derde lid, onderdelen *c* en *d*, te worden herhaald.
 
 8. Ten aanzien van het versneld verkleuren wordt de volgende proef genomen:
 
@@ -493,7 +467,7 @@ Een model van het retroreflecterende materiaal wordt opgesteld:
 
 1. Het keurmerk op de kentekenplaat moet zichtbaar, leesbaar en onuitwisbaar aan de voorzijde daarvan zijn aangebracht.
 
-2. Het keurmerk dient overeen te komen met het model M.2 of M.3 van de [bijlage behorende bij de Regeling kentekens en kentekenplaten](onbekend).
+2. Het keurmerk dient overeen te komen met het model M.2 of M.3 van de [bijlage behorende bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071).
 
 3. Het keurmerk van de kentekenplaat dient te zijn aangebracht hetzij boven de tweede streep, hetzij boven de streep van het kenteken, hetzij, indien geen streep in het kenteken aanwezig is, midden tussen de groepen van tekens. Het keurmerk op de kentekenplaten voor bromfietsen dient te zijn aangebracht midden tussen de groepen van tekens dan wel links naast de groepen van tekens.
 
@@ -506,6 +480,20 @@ Een model van het retroreflecterende materiaal wordt opgesteld:
 - b. de werking van het retroreflecterend materiaal niet is aangetast.
 
 6. Andere met het blote oog zichtbare merktekens van fabrikanten van halffabrikaten of kentekenplaten, al dan niet in combinatie met het keurmerk, zijn niet toegestaan.
+
+##### Artikel 19a
+
+1. Het hologram dient overeen te komen met model F van de [bijlage behorende bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071).
+
+2. Het hologram op de kentekenplaat moet zichtbaar op de voorzijde van de kentekenplaat zijn aangebracht
+
+3. Het hologram dient op een zodanige wijze te zijn aangebracht dat de werking van het retroreflectieve materiaal niet is aangetast.
+
+4. Het hologram dient te zijn aan gebracht op de kentekenplaten volgens de modellen 30.1A tot en met 30.1D, 30.3A tot en met 30.3D en 30.5 in het midden van de kentekenplaat met een tolerantie van 2 mm.
+
+5. Het hologram dient te zijn aangebracht op de kentekenplaten volgens de modellen 30.2A tot en met 30.2D, 30.4A tot en met 30.4D en 30.6 links naast de tweede groep van tekens op de kentekenplaat met een tolerantie van 2 mm.
+
+6. Het hologram is 20 mm hoog en 20 mm breed met een tolerantie van 1 mm.
 
 ##### Artikel 20. Waarmerk
 
@@ -529,6 +517,14 @@ Een model van het retroreflecterende materiaal wordt opgesteld:
 
 Van ieder type kentekenplaat waarbij gebruik is gemaakt van een goedgekeurd type halffabrikaat behoeven de reeds voor het laatstgenoemde type uitgevoerde proeven niet te worden herhaald.
 
+##### Artikel 21a
+
+[Artikel 12, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=4&artikel=12&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing op kentekenplaten volgens model 18.2 van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071) zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), die zijn afgegeven na 31 augustus 2002 doch voor 1 september 2005.
+
+##### Artikel 21b
+
+In afwijking van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=4&artikel=19&z=2016-01-01&g=2016-01-01), mag bij kentekenplaten volgens model 18.2 van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071) zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281, indien de ruimte boven de tweede streep onvoldoende is, het keurmerk onder de tweede streep zijn aangebracht.
+
 ##### Artikel 22
 
 1. De regeling van de Minister van Verkeer en Waterstaat van 4 december 1997, nr. DGP/WJZ/V-725566, houdende vaststelling van eisen voor de goedkeuring van kentekenplaten (Regeling eisen goedkeuring kentekenplaten) (Stcrt. 239), wordt ingetrokken.
@@ -544,59 +540,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling eisen goedkeuring kentekenplaten 2000.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen die ter inzage worden gelegd bij het Ministerie van Verkeer en Water-staat, directie voorlichting, Plesman-weg 1-6, `s-Gravenhage alsmede de Dienst Wegverkeer, Europaweg 205, Zoetermeer.
-
-## Bijlage 1
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag en bij de Dienst Wegverkeer te Zoetermeer.
-
-## Bijlage 1a
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag en bij de Dienst Wegverkeer te Zoetermeer.
-
-## Bijlage 2
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag en bij de Dienst Wegverkeer te Zoetermeer.
-
-## Bijlage 1. Retroreflectie waarden van gelakte platen
-
-## Bijlage 1a. Retroreflectie waarden van retroreflecterend materiaal
-
-## Bijlage 2. Definitie van kleuren
-
-## Bijlage 3. Luminantie factoren
-
-## Bijlage 4. Bevestigingspunten losse kunststoftekens
-
-## Bijlage 5. Waarmerk
-
-##### Artikel 19a
-
-1. Het hologram dient overeen te komen met model F van de [bijlage behorende bij de Regeling kentekens en kentekenplaten](onbekend).
-
-2. Het hologram op de kentekenplaat moet zichtbaar op de voorzijde van de kentekenplaat zijn aangebracht
-
-3. Het hologram dient op een zodanige wijze te zijn aangebracht dat de werking van het retroreflectieve materiaal niet is aangetast.
-
-4. Het hologram dient te zijn aan gebracht op de kentekenplaten volgens de modellen 30.1A tot en met 30.1D, 30.3A tot en met 30.3D en 30.5 in het midden van de kentekenplaat met een tolerantie van 2 mm.
-
-5. Het hologram dient te zijn aangebracht op de kentekenplaten volgens de modellen 30.2A tot en met 30.2D, 30.4A tot en met 30.4D en 30.6 links naast de tweede groep van tekens op de kentekenplaat met een tolerantie van 2 mm.
-
-6. Het hologram is 20 mm hoog en 20 mm breed met een tolerantie van 1 mm.
-
-#### Hoofdstuk 5. Slotbepalingen
-
-##### Artikel 21a
-
-[Artikel 12, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=4&artikel=12&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing op kentekenplaten volgens model 18.2 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), die zijn afgegeven na 31 augustus 2002 doch voor 1 september 2005.
-
-##### Artikel 21b
-
-In afwijking van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=4&artikel=19&z=2016-01-01&g=2016-01-01), mag bij kentekenplaten volgens model 18.2 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281, indien de ruimte boven de tweede streep onvoldoende is, het keurmerk onder de tweede streep zijn aangebracht.
-
-## Bijlage 6. Bevestigingspennen kunststoftekens
-
-## Bijlage 7. Bevestigingspennen kunststof tekens behorende bij Model C.1 uit Regeling kentekens en kentekenplaten
-
-## Bijlage 7a. Bevestigingspennen kunststof tekens behorende bij model C.2 uit de Regeling kentekens en kentekenplaten
-
-## Bijlage 8. Waarmerk fabrikanten van halffabrikaten

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 6 februari 2001, houdende vaststelling van de regels rond het recht op een bijzonder militair invaliditeitspensioen vanaf het bereiken van de leeftijd van 65 jaar en op bijzonder militair nabestaandenpensioen (Besluit bijzondere militaire pensioenen)"
+citeertitel: "Besluit bijzondere militaire pensioenen"
 identifier: "BWBR0012222"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-11-24"
-last_updated: "2018-11-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012222"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "1565623"
-version_id: "2320832"
-internal_id: "C2320831"
-label_id: "1521324"
-dtd_version: "2.0"
-original_entry_into_force: "2001-03-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012222/2018-11-24/0"
-intitule_bron: "Stb.2001-139"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-02-06"
-intitule_published: "2001-03-29"
-intitule_in_force: "2001-03-29"
-intitule_status: "goed"
-original_publication: "Stb.2001-139"
-original_signed_date: "2001-02-06"
-original_published_date: "2001-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-139"
-entry_into_force_date: "2001-03-30"
-jci_1_3: "jci1.3:c:BWBR0012222&z=2018-11-24&g=2018-11-24"
-jci_1_0: "1.0:c:BWBR0012222&g=2018-11-24"
-citeertitel_status: "officieel"
-short_title: "Besluit bijzondere militaire pensioenen"
-signed_date: "2001-02-06"
-entry_into_force: "2001-03-30"
+publicatiedatum: 2001-03-30
+laatste_update: 2018-11-24
+status: geldig
+toestand: 2018-11-24
+bron: "https://wetten.overheid.nl/BWBR0012222"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 6 februari 2001, houdende vaststelling van de regels rond het recht op een bijzonder militair invaliditeitspensioen vanaf het bereiken van de leeftijd van 65 jaar en op bijzonder militair nabestaandenpensioen (Besluit bijzondere militaire pensioenen)
-
-Op de voordracht van de Staatssecretaris van Defensie van 19 februari 1999, nr. P/99000777;
-
-Gelet op [artikel 2, vijfde lid, van de Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2);
-
-De Raad van State gehoord (advies van 27 april 1999, No. W07.99.0081/II);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 1 februari 2001, nr. P/2001000558;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf. Algemene bepalingen
 
@@ -252,6 +220,16 @@ bedraagt de in het eerste lid bedoelde bijzondere invaliditeitsverhoging niet mi
 
 Voor de nabestaanden van de dienstplichtige of reservist bedragen de in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=9&z=2018-11-24&g=2018-11-24) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=10&z=2018-11-24&g=2018-11-24) bedoelde pensioenen niet minder dat het nabestaandenpensioen dat zou kunnen worden vastgesteld indien dat met gebruikmaking van de geldende berekeningsbreuk rechtstreeks werd afgeleid van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=4&z=2018-11-24&g=2018-11-24) bedoelde garantiepensioen.
 
+##### Artikel 11a. Volledige schadevergoeding
+
+1. De nabestaanden van de militair, die op of na 1 juli 2007 overleden is, die als gevolg van dat overlijden aanspraak hebben op een voortdurend partner- of wezenpensioen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=6&z=2018-11-24&g=2018-11-24), hebben recht op een volledige vergoeding van hun schade indien er verband bestaat tussen het overlijden van de militair en de verwonding, ziekten of gebreken die tot het recht op invaliditeitspensioen zouden hebben geleid.
+
+2. De aanspraak van de nabestaanden van de militair op een volledige schadevergoeding vervalt als aan de militair zelf reeds een volledige schadevergoeding als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=8a) en [11 a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=11a) is toegekend.
+
+3. Bij de vaststelling van de omvang van de in het eerste lid bedoelde schadevergoeding wordt rekening gehouden met het totaal van de aanspraken van en uitkeringen aan de nabestaanden ingevolge het overlijden van de militair.
+
+4. Onze Minister kan nadere voorschriften geven ten aanzien van de uitvoering van dit artikel.
+
 #### Paragraaf 4. Gemeenschappelijke bepalingen
 
 ##### Artikel 12. Indexering
@@ -302,37 +280,37 @@ De betaling van de pensioenen, tijdelijke pensioenen, verhogingen en toeslagen g
 
 2. Vanaf de dag waarop het in het eerste lid bedoelde recht in verband met de intrekking van de desbetreffende bepalingen vervalt, wordt aan de gewezen militair of diens nabestaanden een pensioen krachtens dit besluit toegekend. Daarbij wordt:
 
-- 1e. gebruik gemaakt van de mate van invaliditeit met dienstverband zoals die laatstelijk onder de werking van de in het eerste lid bedoelde wetten en regelingen is of had kunnen worden vastgesteld;
+- 1e gebruik gemaakt van de mate van invaliditeit met dienstverband zoals die laatstelijk onder de werking van de in het eerste lid bedoelde wetten en regelingen is of had kunnen worden vastgesteld;
 
-- 2e. als berekeningsgrondslag aangemerkt de pensioen- of berekeningsgrondslag die onder de werking van de in het eerste lid bedoelde wetten en regelingen laatstelijk is of zou zijn gehanteerd voor de vaststelling van een invaliditeitsverhoging of invaliditeitspensioen, dan wel partner- of wezenpensioen;
+- 2e als berekeningsgrondslag aangemerkt de pensioen- of berekeningsgrondslag die onder de werking van de in het eerste lid bedoelde wetten en regelingen laatstelijk is of zou zijn gehanteerd voor de vaststelling van een invaliditeitsverhoging of invaliditeitspensioen, dan wel partner- of wezenpensioen;
 
-- 3e. [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=8&z=2018-11-24&g=2018-11-24) van dit besluit toegepast met gebruikmaking van de beslissingen die krachtens vergelijkbare voorschriften uit de in het eerste lid bedoelde wetten en regelingen zijn genomen.
+- 3e [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=8&z=2018-11-24&g=2018-11-24) van dit besluit toegepast met gebruikmaking van de beslissingen die krachtens vergelijkbare voorschriften uit de in het eerste lid bedoelde wetten en regelingen zijn genomen.
 
 ##### Artikel 17
 
 In afwijking van dit besluit wordt:
 
-- 1e. invaliditeit met dienstverband vastgesteld naar de inhoud van artikel E 11 van de Algemene militaire pensioenwet, zoals die voor 1 januari 1998 gold, indien de verwonding, ziekten of gebreken waaraan een recht op invaliditeitspensioen of een recht op nabestaandenpensioen kan worden ontleend voor 1 januari 1998 zijn ontstaan;
+- 1e invaliditeit met dienstverband vastgesteld naar de inhoud van artikel E 11 van de Algemene militaire pensioenwet, zoals die voor 1 januari 1998 gold, indien de verwonding, ziekten of gebreken waaraan een recht op invaliditeitspensioen of een recht op nabestaandenpensioen kan worden ontleend voor 1 januari 1998 zijn ontstaan;
 
-- 2e. Indien het recht op invaliditeitspensioen wordt ontleend aan een met een voor 1 januari 1986 liggend ontslag afgesloten periode van militaire dienst, de in artikel III, onderdeel B, van de Wet invoering franchisesysteem militaire pensioenen bedoelde rechten daaronder begrepen, de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=2&z=2018-11-24&g=2018-11-24), bedoelde korting vastgesteld op zoveel maal 0,8 procent als de mate van invaliditeit met dienstverband beloopt, of, indien tevens recht bestaat op een aan dezelfde militaire dienstverhouding te ontlenen ouderdomspensioen ingevolge het pensioenreglement en dat in totaliteit tot een hoger percentage leidt, voor elk vol jaar van de voor de berekening van dat ouderdomspensioen in aanmerking te nemen diensttijd 2 procent en voor elke resterende maand daarvan 1/6 procent;
+- 2e Indien het recht op invaliditeitspensioen wordt ontleend aan een met een voor 1 januari 1986 liggend ontslag afgesloten periode van militaire dienst, de in artikel III, onderdeel B, van de Wet invoering franchisesysteem militaire pensioenen bedoelde rechten daaronder begrepen, de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=2&z=2018-11-24&g=2018-11-24), bedoelde korting vastgesteld op zoveel maal 0,8 procent als de mate van invaliditeit met dienstverband beloopt, of, indien tevens recht bestaat op een aan dezelfde militaire dienstverhouding te ontlenen ouderdomspensioen ingevolge het pensioenreglement en dat in totaliteit tot een hoger percentage leidt, voor elk vol jaar van de voor de berekening van dat ouderdomspensioen in aanmerking te nemen diensttijd 2 procent en voor elke resterende maand daarvan 1/6 procent;
 
-- 3e. op aanvraag van de rechthebbende bij de vaststelling van de onder 2e bedoelde korting dat deel van het AOW-pensioen buiten beschouwing gelaten waarop recht is verkregen door vrijwillige premiebetaling in de zin van die wet;
+- 3e op aanvraag van de rechthebbende bij de vaststelling van de onder 2e bedoelde korting dat deel van het AOW-pensioen buiten beschouwing gelaten waarop recht is verkregen door vrijwillige premiebetaling in de zin van die wet;
 
-- 4e. op aanvraag van de rechthebbende bij de vaststelling van de onder 2e bedoelde korting eveneens dat deel van het AOW-pensioen buiten beschouwing gelaten dat in mindering wordt gebracht of geacht kan worden in mindering te worden gebracht op een ander pensioen, niet zijnde het onder 2e bedoelde ouderdomspensioen;
+- 4e op aanvraag van de rechthebbende bij de vaststelling van de onder 2e bedoelde korting eveneens dat deel van het AOW-pensioen buiten beschouwing gelaten dat in mindering wordt gebracht of geacht kan worden in mindering te worden gebracht op een ander pensioen, niet zijnde het onder 2e bedoelde ouderdomspensioen;
 
-- 5e. indien het recht op een bijzondere invaliditeitsverhoging wordt ontleend aan een met een voor 1 januari 1998 liggend ontslag afgesloten periode van militaire dienst, dat recht uitsluitend getoets aan de inhoud van de artikelen E 8, E 9, F 8 en F 9 van de Algemene militaire pensioenwet of de daarmee vergelijkbare artikelen in een vroegere militaire pensioenwet, bedoeld in [artikel A 1, onder j, van die wet](onbekend), zoals die artikelen laatstelijk voor intrekking hebben geluid;
+- 5e indien het recht op een bijzondere invaliditeitsverhoging wordt ontleend aan een met een voor 1 januari 1998 liggend ontslag afgesloten periode van militaire dienst, dat recht uitsluitend getoets aan de inhoud van de artikelen E 8, E 9, F 8 en F 9 van de Algemene militaire pensioenwet of de daarmee vergelijkbare artikelen in een vroegere militaire pensioenwet, bedoeld in artikel A 1, onder j, van die wet, zoals die artikelen laatstelijk voor intrekking hebben geluid;
 
-- 6e. indien het recht op partner- of wezenpensioen wordt ontleend aan invaliditeit die is ontstaan in een voor 1 januari 1986 met ontslag beëindigd dienstverband, of aan een overlijden in actieve dienst voor die datum, de in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=9&z=2018-11-24&g=2018-11-24), en [10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=10&z=2018-11-24&g=2018-11-24), omschreven kortingen vastgesteld zoals hiervoor onder 2e, 3e en 4e bedoeld, met dien verstande dat daar waar het recht op pensioen wordt ontleend aan een overlijden tussen 31 december 1965 en 1 januari 1996 het aan invaliditeit met dienstverband te relateren kortingspercentage, voor de onder 2e bedoelde afweging, tot een maximum van 80 wordt vastgesteld op tien zevende gedeelten daarvan;
+- 6e indien het recht op partner- of wezenpensioen wordt ontleend aan invaliditeit die is ontstaan in een voor 1 januari 1986 met ontslag beëindigd dienstverband, of aan een overlijden in actieve dienst voor die datum, de in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=9&z=2018-11-24&g=2018-11-24), en [10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=10&z=2018-11-24&g=2018-11-24), omschreven kortingen vastgesteld zoals hiervoor onder 2e, 3e en 4e bedoeld, met dien verstande dat daar waar het recht op pensioen wordt ontleend aan een overlijden tussen 31 december 1965 en 1 januari 1996 het aan invaliditeit met dienstverband te relateren kortingspercentage, voor de onder 2e bedoelde afweging, tot een maximum van 80 wordt vastgesteld op tien zevende gedeelten daarvan;
 
-- 7e. het recht op tijdelijk nabestaandenpensioen uitsluitend verleend indien de militair na 31 december 1997 is overleden;
+- 7e het recht op tijdelijk nabestaandenpensioen uitsluitend verleend indien de militair na 31 december 1997 is overleden;
 
-- 8e. de toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=4&z=2018-11-24&g=2018-11-24) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=11&z=2018-11-24&g=2018-11-24) uitsluitend gereserveerd voor situaties waarin de invaliditeit met dienstverband waaraan het recht op pensioen kan worden ontleend na 31 december 1997 is ontstaan, tenzij op die datum recht bestond op een pensioen als bedoeld in artikel E 3, eerste lid, onder c, van de Algemene militaire pensioenwet, zoals dat artikel op dat moment luidde, dan wel een naar diensttijd berekend pensioen ter zake van ziekten of gebreken krachtens een vroegere militaire pensioenwet in de zin van [artikel A 1, onder j, van die wet](onbekend);
+- 8e de toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=4&z=2018-11-24&g=2018-11-24) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=11&z=2018-11-24&g=2018-11-24) uitsluitend gereserveerd voor situaties waarin de invaliditeit met dienstverband waaraan het recht op pensioen kan worden ontleend na 31 december 1997 is ontstaan, tenzij op die datum recht bestond op een pensioen als bedoeld in artikel E 3, eerste lid, onder c, van de Algemene militaire pensioenwet, zoals dat artikel op dat moment luidde, dan wel een naar diensttijd berekend pensioen ter zake van ziekten of gebreken krachtens een vroegere militaire pensioenwet in de zin van artikel A 1, onder j, van die wet;
 
-- 9e. indien de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=4&z=2018-11-24&g=2018-11-24) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=11&z=2018-11-24&g=2018-11-24) worden toegepast op grond van de onder 8e bedoelde uitzondering, gerekend met de diensttijd die voor de vaststelling van het daar bedoelde recht in aanmerking werd genomen;
+- 9e indien de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=4&z=2018-11-24&g=2018-11-24) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=11&z=2018-11-24&g=2018-11-24) worden toegepast op grond van de onder 8e bedoelde uitzondering, gerekend met de diensttijd die voor de vaststelling van het daar bedoelde recht in aanmerking werd genomen;
 
-- 10e. indien de belanghebbende op de dag waarop hij de leeftijd van 65 jaar bereikt uitsluitend recht heeft op het pensioen, bedoeld in [artikel 19, onder 5e, van het Besluit AO/IV](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=19), dat pensioen tot hetzelfde bedrag toegekend, waarbij het voor de korting, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=2&z=2018-11-24&g=2018-11-24), alsmede de toepassing van het onder 2e, 3e en 4e gestelde, geacht wordt te zijn berekend naar 4 voor 1 januari 1986 liggende dienstjaren en het in verband met de toepassing van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=4&artikel=12&z=2018-11-24&g=2018-11-24) geacht wordt te zijn berekend naar de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=2&z=2018-11-24&g=2018-11-24), bedoelde minimumpensioengrondslag;
+- 10e indien de belanghebbende op de dag waarop hij de leeftijd van 65 jaar bereikt uitsluitend recht heeft op het pensioen, bedoeld in [artikel 19, onder 5e, van het Besluit AO/IV](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=19), dat pensioen tot hetzelfde bedrag toegekend, waarbij het voor de korting, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=2&z=2018-11-24&g=2018-11-24), alsmede de toepassing van het onder 2e, 3e en 4e gestelde, geacht wordt te zijn berekend naar 4 voor 1 januari 1986 liggende dienstjaren en het in verband met de toepassing van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=4&artikel=12&z=2018-11-24&g=2018-11-24) geacht wordt te zijn berekend naar de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=2&z=2018-11-24&g=2018-11-24), bedoelde minimumpensioengrondslag;
 
-- 11e. bij overlijden van een onder 10e bedoelde pensioengerechtigde zijn pensioen beschouwd als het invaliditeitspensioen, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=9&z=2018-11-24&g=2018-11-24), en [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=10&z=2018-11-24&g=2018-11-24), waarbij voor de vaststelling van de korting, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=9&z=2018-11-24&g=2018-11-24), en [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=10&z=2018-11-24&g=2018-11-24), wordt gehandeld overeenkomstig het onder 2e, 3e en 4e gestelde.
+- 11e bij overlijden van een onder 10e bedoelde pensioengerechtigde zijn pensioen beschouwd als het invaliditeitspensioen, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=9&z=2018-11-24&g=2018-11-24), en [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=10&z=2018-11-24&g=2018-11-24), waarbij voor de vaststelling van de korting, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=9&z=2018-11-24&g=2018-11-24), en [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=10&z=2018-11-24&g=2018-11-24), wordt gehandeld overeenkomstig het onder 2e, 3e en 4e gestelde.
 
 ##### Artikel 18
 
@@ -355,288 +333,6 @@ Indien een lopend invaliditeits- of nabestaandenpensioen krachtens een vroegere 
 ##### Artikel 21. Voorzieningen en verstrekkingen
 
 In aanvulling op de bij of krachtens de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) gestelde regels, kan Onze Minister ten behoeve van de krachtens dit besluit gepensioneerde militair, die lijdt aan een ziekte of gebrek waarvoor in de zin van [artikel 2, derde lid, van het Besluit AO/IV](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=2), verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde gepensioneerde militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden.
-
-#### Paragraaf 7. Slotbepalingen
-
-##### Artikel 22. Bijzondere gevallen
-
-Onze Minister is bevoegd om in bijzondere gevallen, waarin de toepassing van dit besluit tot een naar zijn oordeel onredelijke uitkomst leidt, ten gunste van de belanghebbende een beslissing te nemen die met de strekking van dit besluit overeenkomt.
-
-##### Artikel 23. Inwerkingtreding
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-##### Artikel 24. Citeertitel
-
-Dit besluit wordt aangehaald als: Besluit bijzondere militaire pensioenen.
-
-## Bijlage bij het Besluit bijzondere militaire pensioenen. Transponeringstabel vernieuwingsproces militaire pensioenen
-
-| oud recht | oud recht | nieuw recht |
-| --- | --- | --- |
-| **voor de oude pensioenwetten** | **voor de oude pensioenwetten** | **voor de oude pensioenwetten** |
-|   |   |   |
-| art. 2, eerste lid, Pensioenwet voor de landmacht 1922 | art. 2, eerste lid, Pensioenwet voor de landmacht 1922 |   |
-|   |   |   |
-| diensttijdpensioenen: | diensttijdpensioenen: |   |
-|   |   |   |
-| onder 1° (langdurige dienst, direct ingaand) | onder 1° (langdurige dienst, direct ingaand) | pensioenreglement |
-| onder 4° (50 jr. niet meer ten volle geschikt; ontslag | onder 4° (50 jr. niet meer ten volle geschikt; ontslag | pensioenreglement |
-| op verzoek; ontslag in belang dienst en de artt. Y 10, Y 11 en Y 12 AMPW; uitgestelde pensioenen) | op verzoek; ontslag in belang dienst en de artt. Y 10, Y 11 en Y 12 AMPW; uitgestelde pensioenen) |   |
-| onder 5° (ontslag op verzoek met overgang naar reservepersoneel, direct ingaand) | onder 5° (ontslag op verzoek met overgang naar reservepersoneel, direct ingaand) | pensioenreglement |
-| onder 6° (onbekwaam of ongeschikt om in verkregen rang te dienen, direct ingaand) | onder 6° (onbekwaam of ongeschikt om in verkregen rang te dienen, direct ingaand) | pensioenreglement |
-|   |   |   |
-| invaliditeitspensioenen: |   |   |
-|   |   |   |
-| onder 2° (invaliditeit met dienstverband) | onder 2° (invaliditeit met dienstverband) | onder 2° (invaliditeit met dienstverband) |
-| beroeps <65jr | diensttijdpensioen | besl. AO/IV (art. 4) |
-|   | invaliditeitspensioen | besl. AO/IV (artt. 7, 8) |
-| beroeps >65jr | diensttijdpensioen | pensioenreglement |
-|   | invaliditeitspensioen | besl. IP-65+ (artt. 2, 3) |
-| dpl./res.< 65jr | diensttijdpensioen | besl. AO/IV (art. 19, onder 6e) |
-|   | invaliditeitspensioen | besl. AO/IV (art. 11) |
-| dpl./res. >65jr | diensttijdpensioen | besl. IP-65+ (art. 4) |
-|   | invaliditeitspensioen | besl. IP-65+ (artt. 2, 3) |
-|   |   |   |
-| onder 3° (invaliditeit zonder dienstverband) | onder 3° (invaliditeit zonder dienstverband) |   |
-| beroeps <65jr | diensttijdpensioen | besl. AO/IV (art. 4) |
-|   | diensttijdpensioen + ao-aanvulling via art. Y 22 AMPW | besl. AO/IV (artt. 3, 4) en WAO |
-| beroeps >65jr | diensttijdpensioen | pensioenreglement |
-| dpl./res. <65jr | diensttijdpensioen | besl. AO/IV (art. 19, onder 6e) |
-| >65jr | diensttijdpensioen | besl. IP-65+ (art. 4) |
-|   |   |   |
-| art. 2 van de Pensioenwet voor het reservepersoneel der landmacht 1923 | art. 2 van de Pensioenwet voor het reservepersoneel der landmacht 1923 |   |
-|   |   |   |
-| onder 1° of via Y 13 AMPW (5 jaar en ander pensioen of 28 jaar etc.) | onder 1° of via Y 13 AMPW (5 jaar en ander pensioen of 28 jaar etc.) | pensioenreglement |
-| onder 2° (invaliditeit met dienstverband) | onder 2° (invaliditeit met dienstverband) | onder 2° (invaliditeit met dienstverband) |
-| <65jr | diensttijdpensioen | besl. AO/IV (art. 19, onder 6e) |
-|   | invaliditeitspensioen | besl. AO/IV (art. 11) |
-| >65jr | diensttijdpensioen | besl. IP-65+ (art. 4) |
-|   | invaliditeitspensioen | besl. IP-65+ (artt. 2, 3) |
-|   |   |   |
-| **voor de Algemene militaire pensioenwet** | **voor de Algemene militaire pensioenwet** |   |
-|   |   |   |
-| art. E 1, onder a, E 2, onder a of b, diensttijdpensioenen beroepspersoneel | art. E 1, onder a, E 2, onder a of b, diensttijdpensioenen beroepspersoneel | pensioenreglement |
-|   |   |   |
-| art. E 1, onder b of c, art. E 2, onder c, gebrekenpensioenen beroepspersoneel | art. E 1, onder b of c, art. E 2, onder c, gebrekenpensioenen beroepspersoneel |   |
-| <65jr | diensttijdpensioen (E 1, E 2) | besl. AO/IV (art. 4) |
-|   | ao-aanvulling (E 6, E 6a) | besl. AO/IV (art.3) en WAO |
-|   | invaliditeitsverhogingen (E 7, E 8, E 9) | besl. AO/IV (artt. 7, 8) |
-|   | herplaatsingstoelagen (E 6b) | besl. AO/IV (art. 9) |
-| >65jr | diensttijdpensioen (E 1, E 2) | pensioenreglement |
-|   | invaliditeitsverhogingen (E 7, E 8, E 9) | besl. IP-65+ (artt. 2, 3) |
-|   |   |   |
-| art. E 3, pensioenen reservepersoneel | art. E 3, pensioenen reservepersoneel |   |
-|   |   |   |
-| diensttijdpensioenen (naast ander pensioen of 28 jaar etc. E 3, 1e lid, a of b) | diensttijdpensioenen (naast ander pensioen of 28 jaar etc. E 3, 1e lid, a of b) | pensioenreglement |
-|   |   |   |
-| invaliditeitspensioenen | invaliditeitspensioenen |   |
-| <65jr | vast bedrag (E 3, 2e lid) | besl. AO/IV (art. 19, onder 5e) |
-|   | diensttijdafrekening (E 3, 1e lid, onder c) | besl. AO/IV (art. 19, onder 6e) |
-|   | ao-aanvulling | besl. AO/IV (art. 10) |
-|   | invaliditeitspensioenen of -verhogingen (E 7, E 8, E 9) | besl. AO/IV (art. 11) |
-| >65jr | vast bedrag (E 3, 2e lid) | besl. Ip-65+ (art. 17, onder 10e) |
-|   | diensttijdafrekening (E 3, 1e lid, onder c en 5e lid) | besl. IP-65+ (art. 4) |
-|   | invaliditeitspensioenen of -verhogingen (E 7, E 8, E 9) | besl. IP-65+ (artt. 2, 3) |
-| art. E 4, pensioenen dienstplichtig personeel | art. E 4, pensioenen dienstplichtig personeel |   |
-| <65jr | vast bedrag (E 4, 1e lid) | besl. AO/IV (art. 19, onder 5e) |
-|   | ao-aanvulling (E 4, 2e lid) | besl. AO/IV (art. 10) |
-|   | invaliditeitspensioenen of -verhogingen (E 7, E 8, E 9) | besl. AO/IV (art. 11) |
-| >65jr | vast bedrag (E 4) | besl. IP-65+ (art. 17, onder 10e) |
-|   | diensttijdafrekening (E 4, 3e lid) | besl. IP-65+ (art. 4) |
-|   | invaliditeitspensioenen of -verhogingen (E 7, E 8, E 9) | besl. IP-65+ (artt. 2, 3) |
-|   |   |   |
-| **voor de nabestaandenpensioenen** | **voor de nabestaandenpensioenen** |   |
-|   |   |   |
-| vanuit het Nabestaandenreglement militairen: | vanuit het Nabestaandenreglement militairen: |   |
-|   |   |   |
-| afgeleid van alleen een diensttijdpensioen voor beroepspersoneel (art. 8, 1e lid, onder 1e) | afgeleid van alleen een diensttijdpensioen voor beroepspersoneel (art. 8, 1e lid, onder 1e) | pensioenreglement |
-| (mede) afgeleid van een invaliditeitspensioen voor beroepspersoneel (art. 8, 1e lid, onder 2e of 3e; overlijden zonder dienstverband) | (mede) afgeleid van een invaliditeitspensioen voor beroepspersoneel (art. 8, 1e lid, onder 2e of 3e; overlijden zonder dienstverband) | voor het diensttijdgedeelte pensioenreglement; voor de aanvulling besl. IP-65+ (art. 6, 2e lid, onder b) |
-|   |   |   |
-| vanuit het Besluit bijzondere voorzieningen militair nabestaandenpensioen: | vanuit het Besluit bijzondere voorzieningen militair nabestaandenpensioen: |   |
-|   |   |   |
-| afgeleid van alleen een diensttijdpensioen (art. 6, 2e lid) | afgeleid van alleen een diensttijdpensioen (art. 6, 2e lid) | pensioenreglement |
-|   |   |   |
-| bij overlijden a.g.v. invaliditeit met dienstverband (art. 6, 1e lid, onder a) | bij overlijden a.g.v. invaliditeit met dienstverband (art. 6, 1e lid, onder a) |   |
-| beroepspersoneel: | beroepspersoneel: |   |
-| diensttijdgedeelte | diensttijdgedeelte | pensioenreglement |
-| aanvullende top | aanvullende top | besl. IP-65+ (art. 6, 2e lid, onder a) |
-| dienstplichtig en reservepersoneel: | dienstplichtig en reservepersoneel: |   |
-| diensttijdgarantie | diensttijdgarantie | besl. IP-65+ (art. 11) |
-| pensioen | pensioen | besl. IP-65+ (art. 6, 2e lid, onder a) |
-|   |   |   |
-| bij overlijden a.g.v. ao met dienstverband (art. 6, 1e lid, onder b): | bij overlijden a.g.v. ao met dienstverband (art. 6, 1e lid, onder b): |   |
-| beroepspersoneel: | beroepspersoneel: |   |
-| diensttijdgedeelte | diensttijdgedeelte | pensioenreglement |
-| tijdelijke top | tijdelijke top | besl. IP-65+ (art. 7, 2e lid) |
-| dienstplichtig en reservepersoneel: | dienstplichtig en reservepersoneel: |   |
-| diensttijdgarantie | diensttijdgarantie | besl. IP-65+ (art. 11) |
-| tijdelijk pensioen | tijdelijk pensioen | besl. IP-65+ (art. 7, 2e lid) |
-|   |   |   |
-| bij invaliditeit met dienstverband en overlijden op andere gronden (art. 6, 1e lid, onder c): | bij invaliditeit met dienstverband en overlijden op andere gronden (art. 6, 1e lid, onder c): |   |
-| beroepspersoneel: | beroepspersoneel: |   |
-| diensttijdgedeelte | diensttijdgedeelte | pensioenreglement |
-| aanvullende top | aanvullende top | besl. IP-65+ (art. 6, 2e lid, onder b) |
-| dienstplichtig en reservepersoneel: | dienstplichtig en reservepersoneel: |   |
-| diensttijdgarantie | diensttijdgarantie | besl. IP-65+ (art. 11) |
-| pensioen | pensioen | besl. IP-65+ (art. 6, 2e lid, onder b) |
-|   |   |   |
-| bij overlijden terwijl er alleen van het vaste bedrag aan invaliditeitspensioen sprake is (art. 6, 1e lid, onder d) | bij overlijden terwijl er alleen van het vaste bedrag aan invaliditeitspensioen sprake is (art. 6, 1e lid, onder d) | besl. IP-65+ (art. 17, onder 11e) |
-
-N.B.
-
-– de artt. 2 van de Pensioenwet voor de landmacht 1922 en de Pensioenwet voor het reserve-personeel der landmacht 1923 geven ook voor de andere wetten een inzicht in de pensioensoorten die voor de Algemene militaire pensioenwet (AMPW) bestonden
-
-– in het pensioenreglement wordt in verband met de toetreding van het militair personeel een hoofdstuk 18c opgenomen, inhoudende het overgangsrecht in verband met die toetreding; art. 18c.3 regelt meer in het bijzonder de omzetting van het oude naar het nieuwe recht
-
-– besl. AO/IV: het [Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223)
-
-– besl. IP-65+: het Besluit bijzondere militaire pensioen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
-
-##### Artikel 11a. Volledige schadevergoeding
-
-1. De nabestaanden van de militair, die op of na 1 juli 2007 overleden is, die als gevolg van dat overlijden aanspraak hebben op een voortdurend partner- of wezenpensioen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=6&z=2018-11-24&g=2018-11-24), hebben recht op een volledige vergoeding van hun schade indien er verband bestaat tussen het overlijden van de militair en de verwonding, ziekten of gebreken die tot het recht op invaliditeitspensioen zouden hebben geleid.
-
-2. De aanspraak van de nabestaanden van de militair op een volledige schadevergoeding vervalt als aan de militair zelf reeds een volledige schadevergoeding als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=8a) en [11 a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=11a) is toegekend.
-
-3. Bij de vaststelling van de omvang van de in het eerste lid bedoelde schadevergoeding wordt rekening gehouden met het totaal van de aanspraken van en uitkeringen aan de nabestaanden ingevolge het overlijden van de militair.
-
-4. Onze Minister kan nadere voorschriften geven ten aanzien van de uitvoering van dit artikel.
-
-#### Paragraaf 4. Gemeenschappelijke bepalingen
-
-#### Paragraaf 5. Overgangsbepalingen
-
-#### Paragraaf 6. Andere voorzieningen in verband met de invaliditeit met dienstverband
-
-#### Paragraaf 7. Slotbepalingen
-
-## Bijlage bij het Besluit bijzondere militaire pensioenen. Transponeringstabel vernieuwingsproces militaire pensioenen
-
-| oud recht | oud recht | nieuw recht |
-| --- | --- | --- |
-| **voor de oude pensioenwetten** | **voor de oude pensioenwetten** | **voor de oude pensioenwetten** |
-|   |   |   |
-| art. 2, eerste lid, Pensioenwet voor de landmacht 1922 | art. 2, eerste lid, Pensioenwet voor de landmacht 1922 |   |
-|   |   |   |
-| diensttijdpensioenen: | diensttijdpensioenen: |   |
-|   |   |   |
-| onder 1° (langdurige dienst, direct ingaand) | onder 1° (langdurige dienst, direct ingaand) | pensioenreglement |
-| onder 4° (50 jr. niet meer ten volle geschikt; ontslag | onder 4° (50 jr. niet meer ten volle geschikt; ontslag | pensioenreglement |
-| op verzoek; ontslag in belang dienst en de artt. Y 10, Y 11 en Y 12 AMPW; uitgestelde pensioenen) | op verzoek; ontslag in belang dienst en de artt. Y 10, Y 11 en Y 12 AMPW; uitgestelde pensioenen) |   |
-| onder 5° (ontslag op verzoek met overgang naar reservepersoneel, direct ingaand) | onder 5° (ontslag op verzoek met overgang naar reservepersoneel, direct ingaand) | pensioenreglement |
-| onder 6° (onbekwaam of ongeschikt om in verkregen rang te dienen, direct ingaand) | onder 6° (onbekwaam of ongeschikt om in verkregen rang te dienen, direct ingaand) | pensioenreglement |
-|   |   |   |
-| invaliditeitspensioenen: |   |   |
-|   |   |   |
-| onder 2° (invaliditeit met dienstverband) | onder 2° (invaliditeit met dienstverband) | onder 2° (invaliditeit met dienstverband) |
-| beroeps <65jr | diensttijdpensioen | besl. AO/IV (art. 4) |
-|   | invaliditeitspensioen | besl. AO/IV (artt. 7, 8) |
-| beroeps >65jr | diensttijdpensioen | pensioenreglement |
-|   | invaliditeitspensioen | besl. IP-65+ (artt. 2, 3) |
-| dpl./res.< 65jr | diensttijdpensioen | besl. AO/IV (art. 19, onder 6e) |
-|   | invaliditeitspensioen | besl. AO/IV (art. 11) |
-| dpl./res. >65jr | diensttijdpensioen | besl. IP-65+ (art. 4) |
-|   | invaliditeitspensioen | besl. IP-65+ (artt. 2, 3) |
-|   |   |   |
-| onder 3° (invaliditeit zonder dienstverband) | onder 3° (invaliditeit zonder dienstverband) |   |
-| beroeps <65jr | diensttijdpensioen | besl. AO/IV (art. 4) |
-|   | diensttijdpensioen + ao-aanvulling via art. Y 22 AMPW | besl. AO/IV (artt. 3, 4) en WAO |
-| beroeps >65jr | diensttijdpensioen | pensioenreglement |
-| dpl./res. <65jr | diensttijdpensioen | besl. AO/IV (art. 19, onder 6e) |
-| >65jr | diensttijdpensioen | besl. IP-65+ (art. 4) |
-|   |   |   |
-| art. 2 van de Pensioenwet voor het reservepersoneel der landmacht 1923 | art. 2 van de Pensioenwet voor het reservepersoneel der landmacht 1923 |   |
-|   |   |   |
-| onder 1° of via Y 13 AMPW (5 jaar en ander pensioen of 28 jaar etc.) | onder 1° of via Y 13 AMPW (5 jaar en ander pensioen of 28 jaar etc.) | pensioenreglement |
-| onder 2° (invaliditeit met dienstverband) | onder 2° (invaliditeit met dienstverband) | onder 2° (invaliditeit met dienstverband) |
-| <65jr | diensttijdpensioen | besl. AO/IV (art. 19, onder 6e) |
-|   | invaliditeitspensioen | besl. AO/IV (art. 11) |
-| >65jr | diensttijdpensioen | besl. IP-65+ (art. 4) |
-|   | invaliditeitspensioen | besl. IP-65+ (artt. 2, 3) |
-|   |   |   |
-| **voor de Algemene militaire pensioenwet** | **voor de Algemene militaire pensioenwet** |   |
-|   |   |   |
-| art. E 1, onder a, E 2, onder a of b, diensttijdpensioenen beroepspersoneel | art. E 1, onder a, E 2, onder a of b, diensttijdpensioenen beroepspersoneel | pensioenreglement |
-|   |   |   |
-| art. E 1, onder b of c, art. E 2, onder c, gebrekenpensioenen beroepspersoneel | art. E 1, onder b of c, art. E 2, onder c, gebrekenpensioenen beroepspersoneel |   |
-| <65jr | diensttijdpensioen (E 1, E 2) | besl. AO/IV (art. 4) |
-|   | ao-aanvulling (E 6, E 6a) | besl. AO/IV (art.3) en WAO |
-|   | invaliditeitsverhogingen (E 7, E 8, E 9) | besl. AO/IV (artt. 7, 8) |
-|   | herplaatsingstoelagen (E 6b) | besl. AO/IV (art. 9) |
-| >65jr | diensttijdpensioen (E 1, E 2) | pensioenreglement |
-|   | invaliditeitsverhogingen (E 7, E 8, E 9) | besl. IP-65+ (artt. 2, 3) |
-|   |   |   |
-| art. E 3, pensioenen reservepersoneel | art. E 3, pensioenen reservepersoneel |   |
-|   |   |   |
-| diensttijdpensioenen (naast ander pensioen of 28 jaar etc. E 3, 1e lid, a of b) | diensttijdpensioenen (naast ander pensioen of 28 jaar etc. E 3, 1e lid, a of b) | pensioenreglement |
-|   |   |   |
-| invaliditeitspensioenen | invaliditeitspensioenen |   |
-| <65jr | vast bedrag (E 3, 2e lid) | besl. AO/IV (art. 19, onder 5e) |
-|   | diensttijdafrekening (E 3, 1e lid, onder c) | besl. AO/IV (art. 19, onder 6e) |
-|   | ao-aanvulling | besl. AO/IV (art. 10) |
-|   | invaliditeitspensioenen of -verhogingen (E 7, E 8, E 9) | besl. AO/IV (art. 11) |
-| >65jr | vast bedrag (E 3, 2e lid) | besl. Ip-65+ (art. 17, onder 10e) |
-|   | diensttijdafrekening (E 3, 1e lid, onder c en 5e lid) | besl. IP-65+ (art. 4) |
-|   | invaliditeitspensioenen of -verhogingen (E 7, E 8, E 9) | besl. IP-65+ (artt. 2, 3) |
-| art. E 4, pensioenen dienstplichtig personeel | art. E 4, pensioenen dienstplichtig personeel |   |
-| <65jr | vast bedrag (E 4, 1e lid) | besl. AO/IV (art. 19, onder 5e) |
-|   | ao-aanvulling (E 4, 2e lid) | besl. AO/IV (art. 10) |
-|   | invaliditeitspensioenen of -verhogingen (E 7, E 8, E 9) | besl. AO/IV (art. 11) |
-| >65jr | vast bedrag (E 4) | besl. IP-65+ (art. 17, onder 10e) |
-|   | diensttijdafrekening (E 4, 3e lid) | besl. IP-65+ (art. 4) |
-|   | invaliditeitspensioenen of -verhogingen (E 7, E 8, E 9) | besl. IP-65+ (artt. 2, 3) |
-|   |   |   |
-| **voor de nabestaandenpensioenen** | **voor de nabestaandenpensioenen** |   |
-|   |   |   |
-| vanuit het Nabestaandenreglement militairen: | vanuit het Nabestaandenreglement militairen: |   |
-|   |   |   |
-| afgeleid van alleen een diensttijdpensioen voor beroepspersoneel (art. 8, 1e lid, onder 1e) | afgeleid van alleen een diensttijdpensioen voor beroepspersoneel (art. 8, 1e lid, onder 1e) | pensioenreglement |
-| (mede) afgeleid van een invaliditeitspensioen voor beroepspersoneel (art. 8, 1e lid, onder 2e of 3e; overlijden zonder dienstverband) | (mede) afgeleid van een invaliditeitspensioen voor beroepspersoneel (art. 8, 1e lid, onder 2e of 3e; overlijden zonder dienstverband) | voor het diensttijdgedeelte pensioenreglement; voor de aanvulling besl. IP-65+ (art. 6, 2e lid, onder b) |
-|   |   |   |
-| vanuit het Besluit bijzondere voorzieningen militair nabestaandenpensioen: | vanuit het Besluit bijzondere voorzieningen militair nabestaandenpensioen: |   |
-|   |   |   |
-| afgeleid van alleen een diensttijdpensioen (art. 6, 2e lid) | afgeleid van alleen een diensttijdpensioen (art. 6, 2e lid) | pensioenreglement |
-|   |   |   |
-| bij overlijden a.g.v. invaliditeit met dienstverband (art. 6, 1e lid, onder a) | bij overlijden a.g.v. invaliditeit met dienstverband (art. 6, 1e lid, onder a) |   |
-| beroepspersoneel: | beroepspersoneel: |   |
-| diensttijdgedeelte | diensttijdgedeelte | pensioenreglement |
-| aanvullende top | aanvullende top | besl. IP-65+ (art. 6, 2e lid, onder a) |
-| dienstplichtig en reservepersoneel: | dienstplichtig en reservepersoneel: |   |
-| diensttijdgarantie | diensttijdgarantie | besl. IP-65+ (art. 11) |
-| pensioen | pensioen | besl. IP-65+ (art. 6, 2e lid, onder a) |
-|   |   |   |
-| bij overlijden a.g.v. ao met dienstverband (art. 6, 1e lid, onder b): | bij overlijden a.g.v. ao met dienstverband (art. 6, 1e lid, onder b): |   |
-| beroepspersoneel: | beroepspersoneel: |   |
-| diensttijdgedeelte | diensttijdgedeelte | pensioenreglement |
-| tijdelijke top | tijdelijke top | besl. IP-65+ (art. 7, 2e lid) |
-| dienstplichtig en reservepersoneel: | dienstplichtig en reservepersoneel: |   |
-| diensttijdgarantie | diensttijdgarantie | besl. IP-65+ (art. 11) |
-| tijdelijk pensioen | tijdelijk pensioen | besl. IP-65+ (art. 7, 2e lid) |
-|   |   |   |
-| bij invaliditeit met dienstverband en overlijden op andere gronden (art. 6, 1e lid, onder c): | bij invaliditeit met dienstverband en overlijden op andere gronden (art. 6, 1e lid, onder c): |   |
-| beroepspersoneel: | beroepspersoneel: |   |
-| diensttijdgedeelte | diensttijdgedeelte | pensioenreglement |
-| aanvullende top | aanvullende top | besl. IP-65+ (art. 6, 2e lid, onder b) |
-| dienstplichtig en reservepersoneel: | dienstplichtig en reservepersoneel: |   |
-| diensttijdgarantie | diensttijdgarantie | besl. IP-65+ (art. 11) |
-| pensioen | pensioen | besl. IP-65+ (art. 6, 2e lid, onder b) |
-|   |   |   |
-| bij overlijden terwijl er alleen van het vaste bedrag aan invaliditeitspensioen sprake is (art. 6, 1e lid, onder d) | bij overlijden terwijl er alleen van het vaste bedrag aan invaliditeitspensioen sprake is (art. 6, 1e lid, onder d) | besl. IP-65+ (art. 17, onder 11e) |
-
-N.B.
-
-– de artt. 2 van de Pensioenwet voor de landmacht 1922 en de Pensioenwet voor het reserve-personeel der landmacht 1923 geven ook voor de andere wetten een inzicht in de pensioensoorten die voor de Algemene militaire pensioenwet (AMPW) bestonden
-
-– in het pensioenreglement wordt in verband met de toetreding van het militair personeel een hoofdstuk 18c opgenomen, inhoudende het overgangsrecht in verband met die toetreding; art. 18c.3 regelt meer in het bijzonder de omzetting van het oude naar het nieuwe recht
-
-– besl. AO/IV: het [Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223)
-
-– besl. IP-65+: het Besluit bijzondere militaire pensioen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 21a. Bijzondere uitkering
 
@@ -664,127 +360,14 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 7. Slotbepalingen
 
-## Bijlage bij het Besluit bijzondere militaire pensioenen. Transponeringstabel vernieuwingsproces militaire pensioenen
+##### Artikel 22. Bijzondere gevallen
 
-| oud recht | oud recht | nieuw recht |
-| --- | --- | --- |
-| **voor de oude pensioenwetten** | **voor de oude pensioenwetten** | **voor de oude pensioenwetten** |
-|   |   |   |
-| art. 2, eerste lid, Pensioenwet voor de landmacht 1922 | art. 2, eerste lid, Pensioenwet voor de landmacht 1922 |   |
-|   |   |   |
-| diensttijdpensioenen: | diensttijdpensioenen: |   |
-|   |   |   |
-| onder 1° (langdurige dienst, direct ingaand) | onder 1° (langdurige dienst, direct ingaand) | pensioenreglement |
-| onder 4° (50 jr. niet meer ten volle geschikt; ontslag | onder 4° (50 jr. niet meer ten volle geschikt; ontslag | pensioenreglement |
-| op verzoek; ontslag in belang dienst en de artt. Y 10, Y 11 en Y 12 AMPW; uitgestelde pensioenen) | op verzoek; ontslag in belang dienst en de artt. Y 10, Y 11 en Y 12 AMPW; uitgestelde pensioenen) |   |
-| onder 5° (ontslag op verzoek met overgang naar reservepersoneel, direct ingaand) | onder 5° (ontslag op verzoek met overgang naar reservepersoneel, direct ingaand) | pensioenreglement |
-| onder 6° (onbekwaam of ongeschikt om in verkregen rang te dienen, direct ingaand) | onder 6° (onbekwaam of ongeschikt om in verkregen rang te dienen, direct ingaand) | pensioenreglement |
-|   |   |   |
-| invaliditeitspensioenen: |   |   |
-|   |   |   |
-| onder 2° (invaliditeit met dienstverband) | onder 2° (invaliditeit met dienstverband) | onder 2° (invaliditeit met dienstverband) |
-| beroeps <65jr | diensttijdpensioen | besl. AO/IV (art. 4) |
-|   | invaliditeitspensioen | besl. AO/IV (artt. 7, 8) |
-| beroeps >65jr | diensttijdpensioen | pensioenreglement |
-|   | invaliditeitspensioen | besl. IP-65+ (artt. 2, 3) |
-| dpl./res.< 65jr | diensttijdpensioen | besl. AO/IV (art. 19, onder 6e) |
-|   | invaliditeitspensioen | besl. AO/IV (art. 11) |
-| dpl./res. >65jr | diensttijdpensioen | besl. IP-65+ (art. 4) |
-|   | invaliditeitspensioen | besl. IP-65+ (artt. 2, 3) |
-|   |   |   |
-| onder 3° (invaliditeit zonder dienstverband) | onder 3° (invaliditeit zonder dienstverband) |   |
-| beroeps <65jr | diensttijdpensioen | besl. AO/IV (art. 4) |
-|   | diensttijdpensioen + ao-aanvulling via art. Y 22 AMPW | besl. AO/IV (artt. 3, 4) en WAO |
-| beroeps >65jr | diensttijdpensioen | pensioenreglement |
-| dpl./res. <65jr | diensttijdpensioen | besl. AO/IV (art. 19, onder 6e) |
-| >65jr | diensttijdpensioen | besl. IP-65+ (art. 4) |
-|   |   |   |
-| art. 2 van de Pensioenwet voor het reservepersoneel der landmacht 1923 | art. 2 van de Pensioenwet voor het reservepersoneel der landmacht 1923 |   |
-|   |   |   |
-| onder 1° of via Y 13 AMPW (5 jaar en ander pensioen of 28 jaar etc.) | onder 1° of via Y 13 AMPW (5 jaar en ander pensioen of 28 jaar etc.) | pensioenreglement |
-| onder 2° (invaliditeit met dienstverband) | onder 2° (invaliditeit met dienstverband) | onder 2° (invaliditeit met dienstverband) |
-| <65jr | diensttijdpensioen | besl. AO/IV (art. 19, onder 6e) |
-|   | invaliditeitspensioen | besl. AO/IV (art. 11) |
-| >65jr | diensttijdpensioen | besl. IP-65+ (art. 4) |
-|   | invaliditeitspensioen | besl. IP-65+ (artt. 2, 3) |
-|   |   |   |
-| **voor de Algemene militaire pensioenwet** | **voor de Algemene militaire pensioenwet** |   |
-|   |   |   |
-| art. E 1, onder a, E 2, onder a of b, diensttijdpensioenen beroepspersoneel | art. E 1, onder a, E 2, onder a of b, diensttijdpensioenen beroepspersoneel | pensioenreglement |
-|   |   |   |
-| art. E 1, onder b of c, art. E 2, onder c, gebrekenpensioenen beroepspersoneel | art. E 1, onder b of c, art. E 2, onder c, gebrekenpensioenen beroepspersoneel |   |
-| <65jr | diensttijdpensioen (E 1, E 2) | besl. AO/IV (art. 4) |
-|   | ao-aanvulling (E 6, E 6a) | besl. AO/IV (art.3) en WAO |
-|   | invaliditeitsverhogingen (E 7, E 8, E 9) | besl. AO/IV (artt. 7, 8) |
-|   | herplaatsingstoelagen (E 6b) | besl. AO/IV (art. 9) |
-| >65jr | diensttijdpensioen (E 1, E 2) | pensioenreglement |
-|   | invaliditeitsverhogingen (E 7, E 8, E 9) | besl. IP-65+ (artt. 2, 3) |
-|   |   |   |
-| art. E 3, pensioenen reservepersoneel | art. E 3, pensioenen reservepersoneel |   |
-|   |   |   |
-| diensttijdpensioenen (naast ander pensioen of 28 jaar etc. E 3, 1e lid, a of b) | diensttijdpensioenen (naast ander pensioen of 28 jaar etc. E 3, 1e lid, a of b) | pensioenreglement |
-|   |   |   |
-| invaliditeitspensioenen | invaliditeitspensioenen |   |
-| <65jr | vast bedrag (E 3, 2e lid) | besl. AO/IV (art. 19, onder 5e) |
-|   | diensttijdafrekening (E 3, 1e lid, onder c) | besl. AO/IV (art. 19, onder 6e) |
-|   | ao-aanvulling | besl. AO/IV (art. 10) |
-|   | invaliditeitspensioenen of -verhogingen (E 7, E 8, E 9) | besl. AO/IV (art. 11) |
-| >65jr | vast bedrag (E 3, 2e lid) | besl. Ip-65+ (art. 17, onder 10e) |
-|   | diensttijdafrekening (E 3, 1e lid, onder c en 5e lid) | besl. IP-65+ (art. 4) |
-|   | invaliditeitspensioenen of -verhogingen (E 7, E 8, E 9) | besl. IP-65+ (artt. 2, 3) |
-| art. E 4, pensioenen dienstplichtig personeel | art. E 4, pensioenen dienstplichtig personeel |   |
-| <65jr | vast bedrag (E 4, 1e lid) | besl. AO/IV (art. 19, onder 5e) |
-|   | ao-aanvulling (E 4, 2e lid) | besl. AO/IV (art. 10) |
-|   | invaliditeitspensioenen of -verhogingen (E 7, E 8, E 9) | besl. AO/IV (art. 11) |
-| >65jr | vast bedrag (E 4) | besl. IP-65+ (art. 17, onder 10e) |
-|   | diensttijdafrekening (E 4, 3e lid) | besl. IP-65+ (art. 4) |
-|   | invaliditeitspensioenen of -verhogingen (E 7, E 8, E 9) | besl. IP-65+ (artt. 2, 3) |
-|   |   |   |
-| **voor de nabestaandenpensioenen** | **voor de nabestaandenpensioenen** |   |
-|   |   |   |
-| vanuit het Nabestaandenreglement militairen: | vanuit het Nabestaandenreglement militairen: |   |
-|   |   |   |
-| afgeleid van alleen een diensttijdpensioen voor beroepspersoneel (art. 8, 1e lid, onder 1e) | afgeleid van alleen een diensttijdpensioen voor beroepspersoneel (art. 8, 1e lid, onder 1e) | pensioenreglement |
-| (mede) afgeleid van een invaliditeitspensioen voor beroepspersoneel (art. 8, 1e lid, onder 2e of 3e; overlijden zonder dienstverband) | (mede) afgeleid van een invaliditeitspensioen voor beroepspersoneel (art. 8, 1e lid, onder 2e of 3e; overlijden zonder dienstverband) | voor het diensttijdgedeelte pensioenreglement; voor de aanvulling besl. IP-65+ (art. 6, 2e lid, onder b) |
-|   |   |   |
-| vanuit het Besluit bijzondere voorzieningen militair nabestaandenpensioen: | vanuit het Besluit bijzondere voorzieningen militair nabestaandenpensioen: |   |
-|   |   |   |
-| afgeleid van alleen een diensttijdpensioen (art. 6, 2e lid) | afgeleid van alleen een diensttijdpensioen (art. 6, 2e lid) | pensioenreglement |
-|   |   |   |
-| bij overlijden a.g.v. invaliditeit met dienstverband (art. 6, 1e lid, onder a) | bij overlijden a.g.v. invaliditeit met dienstverband (art. 6, 1e lid, onder a) |   |
-| beroepspersoneel: | beroepspersoneel: |   |
-| diensttijdgedeelte | diensttijdgedeelte | pensioenreglement |
-| aanvullende top | aanvullende top | besl. IP-65+ (art. 6, 2e lid, onder a) |
-| dienstplichtig en reservepersoneel: | dienstplichtig en reservepersoneel: |   |
-| diensttijdgarantie | diensttijdgarantie | besl. IP-65+ (art. 11) |
-| pensioen | pensioen | besl. IP-65+ (art. 6, 2e lid, onder a) |
-|   |   |   |
-| bij overlijden a.g.v. ao met dienstverband (art. 6, 1e lid, onder b): | bij overlijden a.g.v. ao met dienstverband (art. 6, 1e lid, onder b): |   |
-| beroepspersoneel: | beroepspersoneel: |   |
-| diensttijdgedeelte | diensttijdgedeelte | pensioenreglement |
-| tijdelijke top | tijdelijke top | besl. IP-65+ (art. 7, 2e lid) |
-| dienstplichtig en reservepersoneel: | dienstplichtig en reservepersoneel: |   |
-| diensttijdgarantie | diensttijdgarantie | besl. IP-65+ (art. 11) |
-| tijdelijk pensioen | tijdelijk pensioen | besl. IP-65+ (art. 7, 2e lid) |
-|   |   |   |
-| bij invaliditeit met dienstverband en overlijden op andere gronden (art. 6, 1e lid, onder c): | bij invaliditeit met dienstverband en overlijden op andere gronden (art. 6, 1e lid, onder c): |   |
-| beroepspersoneel: | beroepspersoneel: |   |
-| diensttijdgedeelte | diensttijdgedeelte | pensioenreglement |
-| aanvullende top | aanvullende top | besl. IP-65+ (art. 6, 2e lid, onder b) |
-| dienstplichtig en reservepersoneel: | dienstplichtig en reservepersoneel: |   |
-| diensttijdgarantie | diensttijdgarantie | besl. IP-65+ (art. 11) |
-| pensioen | pensioen | besl. IP-65+ (art. 6, 2e lid, onder b) |
-|   |   |   |
-| bij overlijden terwijl er alleen van het vaste bedrag aan invaliditeitspensioen sprake is (art. 6, 1e lid, onder d) | bij overlijden terwijl er alleen van het vaste bedrag aan invaliditeitspensioen sprake is (art. 6, 1e lid, onder d) | besl. IP-65+ (art. 17, onder 11e) |
+Onze Minister is bevoegd om in bijzondere gevallen, waarin de toepassing van dit besluit tot een naar zijn oordeel onredelijke uitkomst leidt, ten gunste van de belanghebbende een beslissing te nemen die met de strekking van dit besluit overeenkomt.
 
-N.B.
+##### Artikel 23. Inwerkingtreding
 
-– de artt. 2 van de Pensioenwet voor de landmacht 1922 en de Pensioenwet voor het reserve-personeel der landmacht 1923 geven ook voor de andere wetten een inzicht in de pensioensoorten die voor de Algemene militaire pensioenwet (AMPW) bestonden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-– in het pensioenreglement wordt in verband met de toetreding van het militair personeel een hoofdstuk 18c opgenomen, inhoudende het overgangsrecht in verband met die toetreding; art. 18c.3 regelt meer in het bijzonder de omzetting van het oude naar het nieuwe recht
+##### Artikel 24. Citeertitel
 
-– besl. AO/IV: het [Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223)
-
-– besl. IP-65+: het Besluit bijzondere militaire pensioen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
+Dit besluit wordt aangehaald als: Besluit bijzondere militaire pensioenen.

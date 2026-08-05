@@ -1,100 +1,70 @@
 ---
 title: "Wet van 21 juni 2001 tot wijziging van de Wet milieubeheer (structuur beheer afvalstoffen)"
+citeertitel: "Wijzigingswet Wet milieubeheer, enz. (structuur beheer afvalstoffen)"
 identifier: "BWBR0012606"
-country: "nl"
-rank: "wet"
-publication_date: "2003-05-23"
-last_updated: "2002-05-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012606"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "1588633"
-version_id: "2351232"
-internal_id: "C2351231"
-label_id: "1543404"
-dtd_version: "2.0"
-original_entry_into_force: "2002-05-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012606/2003-05-23/0"
-intitule_bron: "Stb.2001-346"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-06-21"
-intitule_published: "2001-07-24"
-intitule_in_force: "2002-05-07"
-intitule_status: "goed"
-original_publication: "Stb.2001-346"
-original_signed_date: "2001-06-21"
-original_published_date: "2001-07-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "26638"
-original_url_id: "stb-2001-346"
-entry_into_force_date: "2002-05-08"
-entry_into_force_dossier: "26638"
-jci_1_3: "jci1.3:c:BWBR0012606&z=2003-05-23&g=2003-05-23"
-jci_1_0: "1.0:c:BWBR0012606&g=2003-05-23"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet milieubeheer, enz. (structuur beheer afvalstoffen)"
-signed_date: "2001-06-21"
-entry_into_force: "2002-05-08"
+publicatiedatum: 2002-05-08
+laatste_update: 2003-05-23
+status: geldig
+toestand: 2003-05-23
+bron: "https://wetten.overheid.nl/BWBR0012606"
+opgehaald: 2026-08-05
 ---
+
 # Wet van 21 juni 2001 tot wijziging van de Wet milieubeheer (structuur beheer afvalstoffen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de huidige regelingen inzake het voorkomen en beperken van het ontstaan van afvalstoffen en het verwijderen van afvalstoffen, zoals die zijn opgenomen in de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), te herzien;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel II
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel III
 
-Wijzigt de Wet op economische delicten.
+*Wijzigt de Wet op economische delicten.*
 
 ##### Artikel IV
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel V
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel VI
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel VII
 
-Wijzigt de Wet milieugevaarlijke stoffen.
+*Wijzigt de Wet milieugevaarlijke stoffen.*
 
 ##### Artikel VIII
 
-Wijzigt de Goedkeurings- en uitvoeringswet Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart.
+*Wijzigt de Goedkeurings- en uitvoeringswet Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart.*
 
 ##### Artikel IX
 
-Wijzigt de Wet verontreiniging oppervlaktewateren.
+*Wijzigt de Wet verontreiniging oppervlaktewateren.*
 
 ##### Artikel X
 
-Wijzigt de Wet verontreiniging zeewater.
+*Wijzigt de Wet verontreiniging zeewater.*
 
 ##### Artikel XI
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XII
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel XIV
 
@@ -127,5 +97,3 @@ De tekst van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR00032
 ##### Artikel XIX
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0034144"
-opgehaald: 2026-08-04
+opgehaald: 2026-08-05
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 31 oktober 2013, nr. WJZ/560472 (10352), houdende regels voor subsidieverstrekking ter stimulering van praktijkleren en het verrichten van onderzoek (Subsidieregeling praktijkleren)
@@ -213,7 +213,7 @@ Subsidie op grond van [artikel 9a, eerste, derde en vijfde lid](https://wetten.o
 
    - 3°. de diplomagegevens, bedoeld in [artikel 10, vierde lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=10);
 
-- e. de werkgever over een gunstige beoordeling beschikt door de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.5.3, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.3);
+- e. de werkgever over een gunstige beoordeling beschikt door de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven als bedoeld in [artikel 5.2.3, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=5.2.3);
 
 - f. de werkgever beschikt over een aanwezigheidsregistratie van de leerling bij het praktijkgedeelte; en
 
@@ -243,7 +243,7 @@ Subsidie op grond van [artikel 9a, eerste, derde en vijfde lid](https://wetten.o
 
    - 3°. de diplomagegevens, bedoeld in [artikel 10, vierde lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=10);
 
-- e. de werkgever over een gunstige beoordeling beschikt door de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.5.3, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.3), dan wel over een positieve beoordeling beschikt van de Raad onderwijs arbeidsmarkt, bedoeld in [artikel 1.5.2, vierde en vijfde lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.5.2);
+- e. de werkgever over een gunstige beoordeling beschikt door de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven als bedoeld in [artikel 5.2.3, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=5.2.3), dan wel over een positieve beoordeling beschikt van de Raad onderwijs arbeidsmarkt, bedoeld in [artikel 1.5.2, vierde en vijfde lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.5.2);
 
 - f. de werkgever beschikt over een aanwezigheidsregistratie van de leerling bij het praktijkgedeelte; en
 
@@ -299,7 +299,7 @@ Subsidie op grond van [artikel 9a, eerste, derde en vijfde lid](https://wetten.o
 
    - 3°. de diplomagegevens, bedoeld in [artikel 10, vierde lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=10);
 
-- e. de werkgever beschikt over een gunstige beoordeling door de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.5.3, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.3), dan wel over een positieve beoordeling beschikt van de Raad onderwijs arbeidsmarkt, bedoeld in [artikel 1.5.2, vierde en vijfde, lid van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.5.2);
+- e. de werkgever beschikt over een gunstige beoordeling door de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, bedoeld in [artikel 5.2.3, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=5.2.3), dan wel over een positieve beoordeling beschikt van de Raad onderwijs arbeidsmarkt, bedoeld in [artikel 1.5.2, vierde en vijfde, lid van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.5.2);
 
 - f. de werkgever beschikt over een aanwezigheidsregistratie van de leerling bij het praktijkgedeelte; en
 

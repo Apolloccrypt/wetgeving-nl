@@ -1,47 +1,17 @@
 ---
 title: "Besluit aanpassing zaaksoort en bijbehorende bewindvoerdersubsidies Wsnp"
 identifier: "BWBR0012619"
-country: "nl"
-rank: "zbo"
-publication_date: "2001-09-01"
-last_updated: "2001-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012619"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6054013"
-version_id: "10701872"
-internal_id: "C14528271"
-label_id: "6043294"
-original_entry_into_force: "2001-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012619/2001-09-01/0"
-intitule_bron: "Stcrt.2001-130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-06-27"
-intitule_published: "2001-07-10"
-intitule_in_force: "2001-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-130"
-original_signed_date: "2001-06-27"
-original_published_date: "2001-07-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-09-01"
-jci_1_3: "jci1.3:c:BWBR0012619&z=2001-09-01&g=2001-09-01"
-jci_1_0: "1.0:c:BWBR0012619&g=2001-09-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-06-27"
-entry_into_force: "2001-09-01"
+publicatiedatum: 2001-09-01
+laatste_update: 2001-09-01
+status: geldig
+toestand: 2001-09-01
+bron: "https://wetten.overheid.nl/BWBR0012619"
+opgehaald: 2026-08-05
 ---
+
 # Besluit aanpassing zaaksoort en bijbehorende bewindvoerdersubsidies Wsnp
-
-Gelet op:
-
-- De Wet schuldsanering natuurlijke personen (Staatsblad 1998, nrs. 445 en 447)
-
-- Art 4, lid 1 en 3 van het besluit subsidie bewindvoerder schuldsanering (Staatsblad 2001, nr. 80)
-
-- Paragraaf 3.5.6 en afdeling 4.2.3 van de Algemene wet bestuursrecht
-
-stelt aanvullende regels vast met betrekking tot het bijstellen van zaaksoorten en bijbehorende bewindvoerdersubsidies in het kader van de Wsnp.
 
 ##### Artikel 1
 

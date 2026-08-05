@@ -1,78 +1,48 @@
 ---
 title: "Wet van 21 december 2000, houdende wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten (recht van keuze voor ouderdomspensioen in plaats van nabestaandenpensioen en gelijke behandeling van mannen en vrouwen)"
+citeertitel: "Wijzigingswet Pensioen- en spaarfondsenwet (recht van keuze voor ouderdomspensioen i.p.v. nabestaandenpensioen en gelijke behandeling van mannen en vrouwen)"
 identifier: "BWBR0012090"
-country: "nl"
-rank: "wet"
-publication_date: "2004-01-01"
-last_updated: "2004-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012090"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "2906233"
-version_id: "4476462"
-internal_id: "C4476461"
-label_id: "2854084"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012090/2004-01-01/0"
-intitule_bron: "Stb.2000-625"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-21"
-intitule_published: "2000-12-28"
-intitule_in_force: "2000-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2000-625"
-original_signed_date: "2000-12-21"
-original_published_date: "2000-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "26711"
-original_url_id: "stb-2000-625"
-entry_into_force_date: "2001-01-01"
-entry_into_force_dossier: "26711"
-jci_1_3: "jci1.3:c:BWBR0012090&z=2004-01-01&g=2004-01-01"
-jci_1_0: "1.0:c:BWBR0012090&g=2004-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Pensioen- en spaarfondsenwet (recht van keuze voor ouderdomspensioen i.p.v. nabestaandenpensioen en gelijke behandeling van mannen en vrouwen)"
-signed_date: "2000-12-21"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2004-01-01
+status: geldig
+toestand: 2004-01-01
+bron: "https://wetten.overheid.nl/BWBR0012090"
+opgehaald: 2026-08-05
 ---
+
 # Wet van 21 december 2000, houdende wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten (recht van keuze voor ouderdomspensioen in plaats van nabestaandenpensioen en gelijke behandeling van mannen en vrouwen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat in pensioenregelingen het recht van keuze voor ouderdomspensioen in plaats van nabestaandenpensioen nader wordt geregeld, dat de gelijke behandeling van mannen en vrouwen bij pensioenregelingen wordt uitgebreid en dat in pensioenregelingen, met uitzondering van het nabestaandenpensioen, geen onderscheid wordt gemaakt naar burgerlijke staat;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Pensioen- en spaarfondsenwet.
+*Wijzigt de Pensioen- en spaarfondsenwet.*
 
 ##### Artikel II
 
-Wijzigt de Wet gelijke behandeling van mannen en vrouwen.
+*Wijzigt de Wet gelijke behandeling van mannen en vrouwen.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel III
 
-Wijzigt de Algemene wet gelijke behandeling.
+*Wijzigt de Algemene wet gelijke behandeling.*
 
 ##### Artikel IV
 
-Wijzigt de Wet op de loonbelasting.
+*Wijzigt de Wet op de loonbelasting.*
 
 ##### Artikel V
 
-Wijzigt de Wet privatisering ABP.
+*Wijzigt de Wet privatisering ABP.*
 
 ##### Artikel VI
 
-Wijzigt de Wet verevening pensioenrechten bij scheiding.
+*Wijzigt de Wet verevening pensioenrechten bij scheiding.*
 
 ##### Artikel VII
 
-Wijzigt de Wijzigingswet Pensioen- en spaarfondsenwet, enz. (wettelijk recht op waarde-overdracht en enige andere maatregelen op het aanvullende pensioenterrein.
+*Wijzigt de Wijzigingswet Pensioen- en spaarfondsenwet, enz. (wettelijk recht op waarde-overdracht en enige andere maatregelen op het aanvullende pensioenterrein.*
 
 ##### Artikel VIII
 
@@ -99,5 +69,3 @@ Wijzigt de Wijzigingswet Pensioen- en spaarfondsenwet, enz. (wettelijk recht op 
 1. De artikelen van deze wet met uitzondering van artikel I, onderdeel B, artikel 2b, derde lid, en artikel 2c, onderdeel J, artikel 32, zevende lid, onderdeel M, artikel 32ba, eerste lid, onderdelen d en e, voor zover het betreft pensioen dat wordt berekend of mede wordt berekend op grond van een geldelijke bijdrage, en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0012090&artikel=II&z=2004-01-01&g=2004-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. Het tijdstip van inwerkingtreding kan voorts ten aanzien van voorzieningen als bedoeld in [artikel 2, vierde lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=2) en ten aanzien van vrijwillige pensioenvoorzieningen verschillend worden vastgesteld.
 
 2. [Artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0012090&artikel=I&z=2004-01-01&g=2004-01-01), artikel 2b, derde lid, en artikel 2c, onderdeel J, artikel 32, zevende lid, onderdeel M, artikel 32ba, eerste lid, onderdelen d en e, voor zover het betreft pensioen dat wordt berekend of mede wordt berekend op grond van een geldelijke bijdrage, en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0012090&artikel=II&z=2004-01-01&g=2004-01-01) treden uiterlijk in werking op 1 januari 2005.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

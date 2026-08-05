@@ -1,46 +1,57 @@
 ---
 title: "Besluit mandaat Stichting kwaliteitsontwikkeling Gehandicaptenzorg"
 identifier: "BWBR0011671"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-10-04"
-last_updated: "2000-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011671"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3962523"
-version_id: "5735672"
-internal_id: "C5938401"
-label_id: "3942584"
-dtd_version: "2.0"
-original_entry_into_force: "2000-10-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011671/2000-10-04/0"
-intitule_bron: "Stcrt.2000-190"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-28"
-intitule_published: "2000-10-02"
-intitule_in_force: "2000-10-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-190"
-original_signed_date: "2000-09-28"
-original_published_date: "2000-10-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-10-04"
-jci_1_3: "jci1.3:c:BWBR0011671&z=2000-10-04&g=2000-10-04"
-jci_1_0: "1.0:c:BWBR0011671&g=2000-10-04"
-citeertitel_status: "officieel"
-signed_date: "2000-09-28"
-entry_into_force: "2000-10-04"
+publicatiedatum: 2000-10-04
+laatste_update: 2000-10-04
+status: geldig
+toestand: 2000-10-04
+bron: "https://wetten.overheid.nl/BWBR0011671"
+opgehaald: 2026-08-05
 ---
+
 # Besluit mandaat Stichting kwaliteitsontwikkeling Gehandicaptenzorg
-
-Gezien de schriftelijke instemming van de Stichting kwaliteitsontwikkeling gehandicaptenzorg april 1998,
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+a.
+
+Minister:
+
+de Minister van Volksgezondheid, Welzijn en Sport;
+
+b.
+
+mandaat:
+
+de bevoegdheid om namens de Minister besluiten te nemen;
+
+c.
+
+wet:
+
+[Kaderwet volksgezondheidssubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455);
+
+d.
+
+bekostigingsbesluit;
+
+het [Besluit volksgezondheidssubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009696);
+
+e.
+
+regeling:
+
+de Subsidieregeling volksgezondheid;
+
+f.
+
+gemandateerde:
+
+degene aan wie mandaat is verleend.
 
 ##### Artikel 2
 
@@ -91,5 +102,3 @@ Deze verantwoording gaat vergezeld van een mededeling van een accountant waaruit
 ##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

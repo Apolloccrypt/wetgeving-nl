@@ -1,112 +1,82 @@
 ---
 title: "Wet van 14 december 2000 tot wijziging van belastingwetten c.a. (Belastingplan 2001)"
+citeertitel: "Wijzigingswet belastingwetten c.a. (Belastingplan 2001)"
 identifier: "BWBR0011985"
-country: "nl"
-rank: "wet"
-publication_date: "2003-01-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011985"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "1460243"
-version_id: "2187282"
-internal_id: "C2187281"
-label_id: "1419064"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011985/2003-01-01/0"
-intitule_bron: "Stb.2000-569"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-14"
-intitule_published: "2000-12-27"
-intitule_in_force: "2000-12-27"
-intitule_status: "goed"
-original_publication: "Stb.2000-569"
-original_signed_date: "2000-12-14"
-original_published_date: "2000-12-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "27431"
-original_url_id: "stb-2000-569"
-entry_into_force_date: "2001-01-01"
-entry_into_force_dossier: "27431"
-jci_1_3: "jci1.3:c:BWBR0011985&z=2003-01-01&g=2003-01-01"
-jci_1_0: "1.0:c:BWBR0011985&g=2003-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet belastingwetten c.a. (Belastingplan 2001)"
-signed_date: "2000-12-14"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2003-01-01
+status: geldig
+toestand: 2003-01-01
+bron: "https://wetten.overheid.nl/BWBR0011985"
+opgehaald: 2026-08-05
 ---
+
 # Wet van 14 december 2000 tot wijziging van belastingwetten c.a. (Belastingplan 2001)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2001 wenselijk is maatregelen te treffen op het gebied van arbeidsmarktbeleid, zorg, onderwijs en kennisbevordering, natuur en milieu, stimulering van ondernemerschap alsmede enkele overige onderwerpen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel III
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel IV
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel VI
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel VIII
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel IX
 
-Wijzigt de Wet belasting zware motorrijtuigen.
+*Wijzigt de Wet belasting zware motorrijtuigen.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XI
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XII
 
-Wijzigt de Wet waardering onroerende zaken.
+*Wijzigt de Wet waardering onroerende zaken.*
 
 ##### Artikel XIII
 
-Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
+*Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet inschakeling werkzoekenden.
+*Wijzigt de Wet inschakeling werkzoekenden.*
 
 ##### Artikel XV
 
-Wijzigt de Wet sociale werkvoorziening.
+*Wijzigt de Wet sociale werkvoorziening.*
 
 ##### Artikel XVI
 
-Wijzigt de Kaderwet SZW-subsidies.
+*Wijzigt de Kaderwet SZW-subsidies.*
 
 ##### Artikel XVIA
 
@@ -136,9 +106,9 @@ Wijzigt de Kaderwet SZW-subsidies.
 
 - c. bestelauto: een bestelauto als bedoeld in [artikel 2, onderdeel c, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=2),
 
-- 1°. met een laadvermogen van meer dan 500 kg, voorzover deze hoofdzakelijk wordt gebruikt voor het vervoer van goederen en degene op wiens naam het voor de bestelauto opgegeven kenteken is gesteld de auto gebruikt in het kader van een aan hem verleende vergunning voor het verrichten van beroepsvervoer als bedoeld in [artikel 5, eerste of derde lid, van de Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=5) of een inschrijving als eigen vervoerder overeenkomstig [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=15), dan wel voor vervoer dat van de vergunningplicht is uitgezonderd op grond van het [Besluit goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005496), of
+   - 1°. met een laadvermogen van meer dan 500 kg, voorzover deze hoofdzakelijk wordt gebruikt voor het vervoer van goederen en degene op wiens naam het voor de bestelauto opgegeven kenteken is gesteld de auto gebruikt in het kader van een aan hem verleende vergunning voor het verrichten van beroepsvervoer als bedoeld in [artikel 5, eerste of derde lid, van de Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=5) of een inschrijving als eigen vervoerder overeenkomstig [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=15), dan wel voor vervoer dat van de vergunningplicht is uitgezonderd op grond van het [Besluit goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005496), of
 
-- 2°. met een laadvermogen van 500 kg of minder, voorzover degene op wiens naam het voor de bestelauto opgegeven kenteken is gesteld is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2), en uit de omschrijving van het uitgeoefende bedrijf of de uitgeoefende bedrijven kan worden afgeleid dat het vervoer van goederen tot de kerntaken daarvan behoort en de bestelauto voorts hoofdzakelijk wordt gebruikt voor het vervoer van goederen in het kader van dat bedrijf of die bedrijven.
+   - 2°. met een laadvermogen van 500 kg of minder, voorzover degene op wiens naam het voor de bestelauto opgegeven kenteken is gesteld is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2), en uit de omschrijving van het uitgeoefende bedrijf of de uitgeoefende bedrijven kan worden afgeleid dat het vervoer van goederen tot de kerntaken daarvan behoort en de bestelauto voorts hoofdzakelijk wordt gebruikt voor het vervoer van goederen in het kader van dat bedrijf of die bedrijven.
 
 3. De vergunning voor het verrichten van beroepsvervoer of de inschrijving als eigen vervoerder, dan wel de inschrijving in het handelsregister dient te zijn aangevraagd op een tijdstip dat is gelegen voor de periode waarop het verzoek om teruggaaf betrekking heeft.
 
@@ -156,7 +126,7 @@ Wijzigt de Kaderwet SZW-subsidies.
 
 ##### Artikel XVIC
 
-1. Indien daartoe overeenkomstig artikel 8, vierde lid, van [richtlijn nr. 92/81/EEG](31992L0081) van de Raad van de Europese Gemeenschappen van 19 oktober 1992 (PbEG L 316) betreffende de harmonisatie van de structuur van de accijns op minerale oliën, instemming van de Raad is verkregen, is [artikel 71a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71a) van overeenkomstige toepassing op de in dat artikel bedoelde halfzware olie en gasolie die in het jaar 2000 is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een taxi.
+1. Indien daartoe overeenkomstig artikel 8, vierde lid, van richtlijn nr. 92/81/EEG van de Raad van de Europese Gemeenschappen van 19 oktober 1992 (PbEG L 316) betreffende de harmonisatie van de structuur van de accijns op minerale oliën, instemming van de Raad is verkregen, is [artikel 71a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71a) van overeenkomstige toepassing op de in dat artikel bedoelde halfzware olie en gasolie die in het jaar 2000 is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een taxi.
 
 2. In dit artikel en de daarop gegronde bepalingen wordt verstaan onder een taxi:
 
@@ -180,7 +150,7 @@ Wijzigt de Kaderwet SZW-subsidies.
 
 ##### Artikel XVID
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XVIE
 
@@ -188,11 +158,11 @@ Artikel XVID, onderdeel A, vindt toepassing nadat artikel 27a van de Wet op de a
 
 ##### Artikel XVIF
 
-1. Wijzigt de Wet op de accijns.
+1. *Wijzigt de Wet op de accijns.*
 
-2. Wijzigt de Wet op de accijns.
+2. *Wijzigt de Wet op de accijns.*
 
-3. Wijzigt de Wet op de accijns.
+3. *Wijzigt de Wet op de accijns.*
 
 4. Ter vaststelling van het aandeel van de uitgeslagen en ingevoerde hoeveelheden van de in het eerste tot en met derde lid bedoelde halfzware olie en gasolie die voldoet aan de in het eerste lid genoemde milieutechnische specificaties dient bij de aangiften ter zake van de uitslag of invoer van halfzware olie en gasolie aangegeven te worden of en zo ja met betrekking tot welke hoeveelheden de aangifte betrekking heeft op halfzware olie en gasolie die voldoet aan de in het eerste lid genoemde milieutechnische specificaties.
 
@@ -202,7 +172,7 @@ De [artikelen 84a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) 
 
 ##### Artikel XVIH
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XVII
 
@@ -210,7 +180,7 @@ In afwijking van [artikel 83 van de Wet op de motorrijtuigenbelasting 1994](http
 
 ##### Artikel XVIJ
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XVIK
 
@@ -222,7 +192,7 @@ Indien door de Commissie van de Europese Gemeenschappen de in de [artikelen 8, a
 
 ##### Artikel XVIII
 
-Wijzigt de Zeevaartbemanningswet en de Wijzigingswet Wet op de inkomstenbelasting 1964 (technische aard).
+*Wijzigt de Zeevaartbemanningswet en de Wijzigingswet Wet op de inkomstenbelasting 1964 (technische aard).*
 
 ##### Artikel XIX
 
@@ -230,7 +200,7 @@ Wijzigt de Zeevaartbemanningswet en de Wijzigingswet Wet op de inkomstenbelastin
 
 2. In afwijking van het eerste lid treden [artikel I, onderdelen E, R, S, en T](https://wetten.overheid.nl/jci1.3:c:BWBR0011985&artikel=I&z=2003-01-01&g=2003-01-01) en artikel XVIC in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-3. Vervallen.
+3. *Vervallen.*
 
 4. In afwijking van het eerste lid treedt [artikel XI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0011985&artikel=XI&z=2003-01-01&g=2003-01-01) in werking op een bij koninklijk besluit vast te stellen tijdstip en werkt terug tot en met 1 januari 2000.
 
@@ -243,5 +213,3 @@ Wijzigt de Zeevaartbemanningswet en de Wijzigingswet Wet op de inkomstenbelastin
 8. In afwijking van het eerste lid, treden de artikelen XVID, onderdelen A en B, en XVIF in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 9. In afwijking van het eerste lid treden de artikelen XVIH, onderdelen B en C, en XVII in werking met ingang van 1 augustus 2001.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

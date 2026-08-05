@@ -1,42 +1,17 @@
 ---
 title: "Beleidsregels aanvraag ontheffing als bedoeld in de Wet particuliere beveiligingsorganisaties en recherchebureaus"
 identifier: "BWBR0011206"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2000-03-26"
-last_updated: "2000-03-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011206"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "4867163"
-version_id: "7797242"
-internal_id: "C9513531"
-label_id: "4845134"
-dtd_version: "2.0"
-original_entry_into_force: "2000-03-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011206/2000-03-26/0"
-intitule_bron: "Stcrt.2000-60"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-03-07"
-intitule_published: "2000-03-24"
-intitule_in_force: "2000-03-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-60"
-original_signed_date: "2000-03-07"
-original_published_date: "2000-03-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-03-26"
-jci_1_3: "jci1.3:c:BWBR0011206&z=2000-03-26&g=2000-03-26"
-jci_1_0: "1.0:c:BWBR0011206&g=2000-03-26"
-citeertitel_status: "officieel"
-signed_date: "2000-03-07"
-entry_into_force: "2000-03-26"
+publicatiedatum: 2000-03-26
+laatste_update: 2000-03-26
+status: geldig
+toestand: 2000-03-26
+bron: "https://wetten.overheid.nl/BWBR0011206"
+opgehaald: 2026-08-05
 ---
+
 # Beleidsregels aanvraag ontheffing als bedoeld in de Wet particuliere beveiligingsorganisaties en recherchebureaus
-
-Gelet op [artikel 5, vierde lid, van de Wet particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=5);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -101,5 +76,3 @@ Binnen drie jaar na de inwerkingtreding van deze beleidsregels evalueert de Mini
 ##### Artikel 7
 
 Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.

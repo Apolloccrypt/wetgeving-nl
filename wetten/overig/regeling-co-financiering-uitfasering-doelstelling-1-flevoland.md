@@ -1,42 +1,17 @@
 ---
 title: "Regeling co-financiering uitfasering doelstelling 1 Flevoland"
 identifier: "BWBR0012504"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-06-13"
-last_updated: "2002-06-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012504"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4372883"
-version_id: "6139532"
-internal_id: "C6343741"
-label_id: "4351314"
-dtd_version: "2.0"
-original_entry_into_force: "2001-05-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012504/2002-06-13/0"
-intitule_bron: "Stcrt.2001-97"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-05-17"
-intitule_published: "2001-05-21"
-intitule_in_force: "2001-05-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-97"
-original_signed_date: "2001-05-17"
-original_published_date: "2001-05-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-05-23"
-jci_1_3: "jci1.3:c:BWBR0012504&z=2002-06-13&g=2002-06-13"
-jci_1_0: "1.0:c:BWBR0012504&g=2002-06-13"
-citeertitel_status: "officieel"
-signed_date: "2001-05-17"
-entry_into_force: "2001-05-23"
+publicatiedatum: 2001-05-23
+laatste_update: 2002-06-13
+status: geldig
+toestand: 2002-06-13
+bron: "https://wetten.overheid.nl/BWBR0012504"
+opgehaald: 2026-08-05
 ---
+
 # Regeling co-financiering uitfasering doelstelling 1 Flevoland
-
-Gelet op [artikel 3 van het Besluit co-financiering EFRO-programma's](https://wetten.overheid.nl/jci1.3:c:BWBR0012390&artikel=3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -93,5 +68,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10
 
 Deze regeling kan worden aangehaald als: Regeling co-financiering uitfasering doelstelling 1 Flevoland.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

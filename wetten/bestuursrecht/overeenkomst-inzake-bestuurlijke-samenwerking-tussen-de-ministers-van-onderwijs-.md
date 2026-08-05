@@ -1,59 +1,31 @@
 ---
 title: "Overeenkomst inzake bestuurlijke samenwerking tussen de ministers van Onderwijs, Cultuur en Wetenschappen en Landbouw, Natuurbeheer en Visserij en de Stichting Waarborgfonds HBO"
 identifier: "BWBR0011744"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-04-04"
-last_updated: "2001-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011744"
+categorie: "Bestuursrecht"
 soort: "beleidsregel"
-stam_id: "6437223"
-version_id: "11106792"
-internal_id: "C15021341"
-label_id: "6425944"
-original_entry_into_force: "2001-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011744/2001-04-04/0"
-intitule_bron: "Uitleg.2001-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-11-01"
-intitule_published: "2001-04-04"
-intitule_in_force: "2001-04-04"
-intitule_status: "goed"
-original_publication: "Uitleg.2001-10"
-original_signed_date: "2000-11-01"
-original_published_date: "2001-04-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-04-04"
-jci_1_3: "jci1.3:c:BWBR0011744&z=2001-04-04&g=2001-04-04"
-jci_1_0: "1.0:c:BWBR0011744&g=2001-04-04"
-citeertitel_status: "redactioneel"
-signed_date: "2000-11-01"
-entry_into_force: "2001-04-04"
+publicatiedatum: 2001-04-04
+laatste_update: 2001-04-04
+status: geldig
+toestand: 2001-04-04
+bron: "https://wetten.overheid.nl/BWBR0011744"
+opgehaald: 2026-08-05
 ---
+
 # Overeenkomst inzake bestuurlijke samenwerking tussen de ministers van Onderwijs, Cultuur en Wetenschappen en Landbouw, Natuurbeheer en Visserij en de Stichting Waarborgfonds HBO
-
-Overwegende dat:
-
-● partijen het wenselijk achten afspraken te maken over contacten tussen de Minister en het Waarborgfonds met betrekking tot de informatie uitwisseling;
-
-● deze afspraken de instemming hebben van de vereniging HBO-raad;
-
-Verklaren te zijn overeengekomen als volgt:
 
 ##### Artikel 1
 
 Partijen zullen in hun onderling verkeer handelen overeenkomstig de volgende afspraken:
 
-- 1. De voorzitter van het bestuur van het Waarborgfonds zal de minister van Onderwijs, Cultuur en Wetenschappen, casu quo de minister van Landbouw, Natuurbeheer en Visserij vertrouwelijk informeren, indien de financiële toestand van een op grond van de Wet op het hoger onderwijs en wetenschappelijk onderzoek bekostigde hogeschool, hierna te noemen: hogeschool, zodanig verslechterd is dat de hogeschool niet meer in staat is, of op enig moment in het lopende begrotingsjaar niet meer in staat zal zijn, tot nakoming van de verplichtingen uit één of meer leningen.
+- 1 De voorzitter van het bestuur van het Waarborgfonds zal de minister van Onderwijs, Cultuur en Wetenschappen, casu quo de minister van Landbouw, Natuurbeheer en Visserij vertrouwelijk informeren, indien de financiële toestand van een op grond van de Wet op het hoger onderwijs en wetenschappelijk onderzoek bekostigde hogeschool, hierna te noemen: hogeschool, zodanig verslechterd is dat de hogeschool niet meer in staat is, of op enig moment in het lopende begrotingsjaar niet meer in staat zal zijn, tot nakoming van de verplichtingen uit één of meer leningen.
 
-- 2. De voorzitter van het bestuur van het Waarborgfonds zal in samenhang met het onder 1 bepaalde de minister van Onderwijs, Cultuur en Wetenschappen casu quo de minister van Landbouw, Natuurbeheer en Visserij tevens mondeling informeren over het saneringsplan van de hogeschool waarin is aangegeven op welke wijze en binnen welke termijn het evenwicht tussen de inkomsten en uitgaven van de hogeschool hersteld wordt.
+- 2 De voorzitter van het bestuur van het Waarborgfonds zal in samenhang met het onder 1 bepaalde de minister van Onderwijs, Cultuur en Wetenschappen casu quo de minister van Landbouw, Natuurbeheer en Visserij tevens mondeling informeren over het saneringsplan van de hogeschool waarin is aangegeven op welke wijze en binnen welke termijn het evenwicht tussen de inkomsten en uitgaven van de hogeschool hersteld wordt.
 
-- 3. Indien het Waarborgfonds ten behoeve van het saneringsplan aan de hogeschool voorwaarden van financiële aard stelt, die zijn gericht op het herstel van het evenwicht tussen de inkomsten en uitgaven van de hogeschool, zal de voorzitter van het bestuur van het Waarborgfonds de minister van Onderwijs, Cultuur en Wetenschappen casu quo de minister van Landbouw, Natuurbeheer en Visserij terstond mondeling over deze voorwaarden informeren.
+- 3 Indien het Waarborgfonds ten behoeve van het saneringsplan aan de hogeschool voorwaarden van financiële aard stelt, die zijn gericht op het herstel van het evenwicht tussen de inkomsten en uitgaven van de hogeschool, zal de voorzitter van het bestuur van het Waarborgfonds de minister van Onderwijs, Cultuur en Wetenschappen casu quo de minister van Landbouw, Natuurbeheer en Visserij terstond mondeling over deze voorwaarden informeren.
 
-- 4. Indien het Waarborgfonds vaststelt niet over voldoende instrumenten te beschikken op grond waarvan redelijkerwijs verwacht kan worden, dat een hogeschool binnen redelijke termijn in staat zal zijn aan zijn verplichtingen die voortvloeien uit de leningen te voldoen, zal de voorzitter van het bestuur van het Waarborgfonds de minister van Onderwijs, Cultuur en Wetenschappen casu quo de minister van Landbouw, Natuurbeheer en Visserij terstond vertrouwelijk hierover informeren.
+- 4 Indien het Waarborgfonds vaststelt niet over voldoende instrumenten te beschikken op grond waarvan redelijkerwijs verwacht kan worden, dat een hogeschool binnen redelijke termijn in staat zal zijn aan zijn verplichtingen die voortvloeien uit de leningen te voldoen, zal de voorzitter van het bestuur van het Waarborgfonds de minister van Onderwijs, Cultuur en Wetenschappen casu quo de minister van Landbouw, Natuurbeheer en Visserij terstond vertrouwelijk hierover informeren.
 
-- 5. Na ontvangst van de mededeling als bedoeld onder 4 zal de minister van Onderwijs, Cultuur en Wetenschappen, casu quo de minister van Landbouw, Natuurbeheer en Visserij nagaan of vanuit zijn verantwoordelijkheid voor het stelsel voor hoger beroepsonderwijs nadere actie gewenst is. Indien de betrokken minister actie onderneemt, zal hij het Waarborgfonds daarvan in kennis stellen.
+- 5 Na ontvangst van de mededeling als bedoeld onder 4 zal de minister van Onderwijs, Cultuur en Wetenschappen, casu quo de minister van Landbouw, Natuurbeheer en Visserij nagaan of vanuit zijn verantwoordelijkheid voor het stelsel voor hoger beroepsonderwijs nadere actie gewenst is. Indien de betrokken minister actie onderneemt, zal hij het Waarborgfonds daarvan in kennis stellen.
 
 ##### Artikel 2
 
@@ -74,5 +46,3 @@ Deze overeenkomst treedt in werking met ingang van de datum van dagtekening in d
 ##### Artikel 6
 
 Deze overeenkomst wordt bekend gemaakt in Uitleg OCenW-Regelingen.
-
-Aldus opgemaakt en in drievoud ondertekend op 1 november 2000.

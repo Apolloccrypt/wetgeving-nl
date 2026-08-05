@@ -1,36 +1,16 @@
 ---
 title: "Landelijk experimenteerkader Regionale Expertisecentra in oprichting"
 identifier: "BWBR0012240"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-02-21"
-last_updated: "2001-02-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012240"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6460383"
-version_id: "11135662"
-internal_id: "C15053121"
-label_id: "6449084"
-original_entry_into_force: "2001-02-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012240/2001-02-21/0"
-intitule_bron: "Uitleg.2001-5/6"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-02-09"
-intitule_published: "2001-02-21"
-intitule_in_force: "2001-02-21"
-intitule_status: "goed"
-original_publication: "Uitleg.2001-5/6"
-original_signed_date: "2001-02-09"
-original_published_date: "2001-02-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-02-21"
-jci_1_3: "jci1.3:c:BWBR0012240&z=2001-02-21&g=2001-02-21"
-jci_1_0: "1.0:c:BWBR0012240&g=2001-02-21"
-citeertitel_status: "redactioneel"
-signed_date: "2001-02-09"
-entry_into_force: "2001-02-21"
+publicatiedatum: 2001-02-21
+laatste_update: 2001-02-21
+status: geldig
+toestand: 2001-02-21
+bron: "https://wetten.overheid.nl/BWBR0012240"
+opgehaald: 2026-08-05
 ---
+
 # Landelijk experimenteerkader Regionale Expertisecentra in oprichting
 
 ### 1. Inleiding
@@ -51,6 +31,12 @@ De bevoegde gezagsorganen van scholen voor speciaal onderwijs, voor voortgezet s
 
 Verzoeken die vallen binnen de hierna genoemde kaders kunnen in aanmerking komen voor bekostiging op grond van de [Experimentenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002718). Op grond van de [Experimentenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) onderwijs kan een dergelijk verzoek worden ingediend door het bevoegd gezag van een school. Aangezien het hier gaat om een samenwerking van verschillende bevoegde gezagsorganen in een REC i.o. kunnen de afzonderlijke verzoeken worden gecombineerd in één verzoek dat wordt ondertekend door alle betrokken bevoegde gezagsorganen. Het bevoegd gezag van de coördinerende school van het REC i.o. kan dan dit gezamenlijke verzoek indienen met inachtneming van het navolgende:
 
+- a Bij het verzoek worden de gegevens van de coördinerende school en de deelnemende scholen in het REC i.o. vermeld: brinnummer, naam van de school en adres van de school;
+
+- b Het verzoek gaat vergezeld van een experimenteerplan waarin wordt beschreven op welke wijze het onderwijskundig experiment zal worden vormgegeven dat valt binnen de hierna onder [3.](https://wetten.overheid.nl/BWBR0012240) genoemde kaders;
+
+- c In het verzoek wordt een contactpersoon genoemd van de coördinerende school onder vermelding van diens functie en het telefoonnummer waaronder deze bereikbaar is.
+
 Het verzoek dient te worden gericht aan: de Centrale Financiën Instellingen, Postbus 606, 2700 ML
 
 Zoetermeer t.a.v. Cfi/FTO/TPL onder vermelding van: verzoek deelname experimenteerkader REC’s i.o.
@@ -63,6 +49,36 @@ De beslissing op het verzoek wordt zomogelijk in 3 maanden (uiterlijk binnen 9 m
 
 ### 3. Kaders experimenteerkader
 
+- 1. De bevoegde gezagsorganen van de scholen die deel uitmaken van het REC i.o. geven in een experimenteerplan een duidelijke omschrijving van de wijze waarop de onderwijskundige inrichting van het REC i.o. zal worden vormgegeven onder bijvoeging van een begroting van uitgaven ([art. 3 Experimentenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=3)). In het experimenteerplan wordt in ieder geval opgenomen op welke wijze het REC i.o.:
+
+   - a. in een regio een samenhangend en evenwichtig geheel van onderwijsvoorzieningen vanuit de deelnemende scholen realiseert door middel van verbrede toelating en indien daaraan behoefte bestaat de herspreiding van onderwijslocaties (lesplaatsen);
+
+   - b. een Commissie voor de Indicatiestelling (hierna CvI) zal inrichten en in stand zal houden;
+
+   - c. de vormgeving van de ambulante begeleiding en onderwijsondersteuning;
+
+   - d. handelingsgerichte diagnostiek vorm zal geven voor leerlingen die zijn ingeschreven op één van de deelnemende scholen;
+
+   - e. de eigen expertise zal ontwikkelen en;
+
+   - f. de samenwerking met de basisscholen en de samenwerkingsverbanden Weer samen naar school zal vormgeven;
+
+   - g. voorlichting aan ouders zal geven.
+
+- 2. Het REC i.o. wordt bestuurd door een bij notariële akte ingestelde rechtspersoon. Een afschrift van de notariële acte wordt meegestuurd met het verzoek om een onderwijskundig experiment te mogen starten. De in te richten bestuurlijke organisatie wordt tevens in het experimenteerplan beschreven. Dit plan bevat tenminste:
+
+   - een beschrijving van activiteiten, welke ondernomen worden om de organisatie van het REC i.o. vorm te geven;
+
+   - een planning met betrekking tot de te nemen stappen wat betreft bestuurlijke, organisatorische en beheersmatige elementen.
+
+- 3. Het REC i.o. verbindt zich om de toelaatbaarheid van een leerling tot een deelnemende school te beoordelen op basis van door de minister van OCenW vastgestelde criteria zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012240&bijlage=1&z=2001-02-21&g=2001-02-21), daarbij te werk te gaan volgens het in deze bijlage voorgeschreven protocol en het protocol en het leerling dossier geanonimiseerd aan de Landelijke commissie toetsing indicatiestelling (LCTI) ter beschikking te stellen. Tevens verbindt het REC i.o. zich om de richtlijnen voor het samenstellen en inrichten van de CvI zoals gegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012240&bijlage=1&z=2001-02-21&g=2001-02-21) te volgen.
+
+- 4. Het bestuur van het REC i.o. stelt een onderwijs-spreidingsplan op voor lesplaatsen en verbrede toelating. Het onderwijs-spreidingsplan behoeft de instemming van alle schoolbesturen die deelnemen in het REC i.o. en van de besturen van alle aangrenzende REC’s i.o. Voor elke afzonderlijke lesplaats behoeft het onderwijs-spreidingsplan o.a. vanwege de huisvestingsgevolgen de goedkeuring van de gemeente waarin de desbetreffende lesplaats wordt gevestigd. De formatieve en materiële bekostiging voor een lesplaats wordt toegekend aan de school die het onderwijs in de lesplaats verzorgt. In dit kader dient gewezen te worden op [art. 2, lid 3 Experimentenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2) waarin vermeld wordt dat niet tot bekostiging wordt besloten indien redelijkerwijs te verwachten is dat daardoor het leerlingenaantal van scholen van dezelfde richting in het voedingsgebied zodanig zal dalen dat dan hun voortbestaan wordt bedreigd.
+
+- 5. Het REC i.o. verleent alle medewerking aan de Wegbereiders en de Inspectie van het onderwijs die zullen worden betrokken bij de evaluatie en monitoring van de voortgang ten aanzien van het vormingsproces van het REC i.o.;
+
+- 6. Een REC i.o. brengt jaarlijks een rapportage uit van de activiteiten die plaats hebben gevonden in het kader van de onderwijsinhoudelijke vernieuwing. Daarin wordt inhoudelijk en financieel de stand van zaken weergegeven.
+
 ### 4. Looptijd
 
 De beslissing over deelname aan het experimenteerkader wordt gegeven voor een of meer tijdvakken, tezamen ten hoogste 10 jaar. Bij het in werking treden van de eerste fase [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) zal worden bezien op welke wijze inpassing in het wettelijk kader dient te geschieden.
@@ -73,56 +89,12 @@ Zoals hiervoor aangegeven wordt bij de beslissing op het verzoek tevens bepaald 
 
 De bekostiging kan voor de afloop van de daarvoor bepaalde termijn worden beëindigd in de volgende situaties:
 
+- 1. op een met redenen omkleed verzoek van het bevoegd gezag;
+
+- 2. door de minister van OCenW indien niet meer wordt voldaan aan de bij de beslissing gestelde voorwaarden en regels;
+
+- 3. door de minister van OCenW indien het experiment niet tot de daarmee beoogde doeleinden blijkt te leiden en
+
+- 4. indien de minister van OCenW van oordeel is dat voortzetting van het experiment niet in het belang van de leerlingen is ([art. 2, lid 6 Experimentenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2)).
+
 Indien de bekostiging van het experiment wordt beëindigd aan een school die onmiddellijk voorafgaand aan het experiment uit de openbare kas werd bekostigd, wordt wederom vergoeding toegekend volgens dezelfde regelen en voorwaarden als voor het schooltype gelden, waartoe de school behoorde voor de aanvang van het experiment ([art. 4, lid 2 Experimentenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=4)).
-
-## Bijlage 1. Indicatiecriteria toelaatbaarheid tot (v)so en leerling gebonden budget
-
-De CvI heeft tot taak te beslissen of door de ouders aangemelde kinderen, woonachtig in de REC-regio, voldoen aan de landelijke criteria en derhalve toelaatbaar zijn tot het (v)so, danwel in aanmerking komen voor ambulante begeleiding (aan te vragen door de reguliere school, zie [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)). De CvI’s verzamelen de gegevens die nodig zijn voor indicatiestelling volgens het OC&W protocol dat tevens gebruikt is in het kader van het proeftraject-indicatiestelling (in het kader van de Derde Faciliteringsregeling Regionale Expertisecentra i.o. 2000/ 2001). Indien gegevens niet door of via de ouders geleverd kunnen worden draagt de CvI er zorg voor dat het onderzoek, dat in het kader van het protocol nodig is, uitgevoerd wordt. Zo nodig wordt dit uitgevoerd door de Commissie voor Onderzoek (CvO) van een van de scholen binnen het REC.
-
-Het protocol en de bijbehorende onderzoeksdocumenten worden anoniem gemaakt. Protocol en bijlagen worden voorzien van het REC nummer. Het protocolformulier wordt zo mogelijk gedigitaliseerd opgesteld en verzonden door de CvI aan de LCTI. Het protocol met bijlagen wordt tevens per post verzonden.
-
-### Toelichting op het tot stand komen van de criteria
-
-De criteria zijn als volgt tot stand gekomen:
-
-### Toelichting bij criteria
-
-Op een drietal punten is nadere toelichting op de criteria nodig. Het betreft de indicering van meervoudig gehandicapten, de mogelijkheid om een leerling met een zware belemmering in onderwijsparticipatie toelaatbaar te verklaren ook wanneer de stoornissen niet binnen de criteria zoals omschreven in paragraaf 8, 9 of 10 vallen, en de mg indicatie als beschreven in paragraaf 9 punt 5.2.
-
-Ten aanzien van de indicatiestelling meervoudig gehandicapt (MG) is in het uitwerkingsoverleg LGF afgesproken dat combinaties zmlk/ mlk de centrale categorie vormen voor MG. Bestaande afdelingen en scholen met combinaties waarin zmlk/ mlk blijven gehandhaafd. In de criteria voor zintuiglijk gehandicapten is de IQ grens in deze MG combinaties op 75 gesteld, waardoor ook een belangrijk deel van de MLK populatie onder deze indicatie kan vallen. Ten aanzien van de MG combinaties lichamelijk en verstandelijk gehandicapt (paragraaf 9.5.2) is de IQ grens vooralsnog op 70 gehandhaafd. In de huidige praktijk worden wel kinderen met een lichamelijke handicap en een IQ tot 80 toegelaten. Daarbij is echter steeds sprake van aanvullende problematiek. Gedurende dit proeftraject zal in samenspraak met cluster 3 nagegaan worden hoe deze aanvullende problematiek in criteria te omschrijven is.
-
-MG combinaties voor epilepsiescholen en voor doof/ blinden scholen komen te vervallen. In plaats daarvan worden voorzieningen getroffen in het kader van de aparte taken en functie bekostiging. In het kader van het overleg over het taken en functieonderzoek zal worden nagegaan in hoeverre ook voor andere scholen/ afdelingen met een specifieke mg combinatie een voorziening getroffen moet worden.
-
-De CvI kan een leerling toelaatbaar verklaren wanneer de stoornissen en beperkingen van een leerling niet binnen de criteria zoals omschreven in paragraaf 8, 9 of 10 vallen maar onderbouwd wordt dat er sprake is van een even zware belemmering in onderwijsparticipatie als bij leerlingen die wel aan die criteria voldoen. Indien de CvI gebruik maakt van deze mogelijkheid, een rapportage met bevindingen uit de handelingsgerichte diagnostiek zendt naar de LCTI en/ of een evaluatie van het handelingsplan tot op dat moment van de Commissie van Begeleiding.
-
-### Criteria cluster 1
-
-Er worden, conform de specifieke positie die cluster 1 inneemt in het LGF-traject, voor cluster 1 geen indicatiecriteria geformuleerd in deze publicatie. Over de criteria voor toelaatbaarheid tot speciale scholen in cluster 1 worden met cluster 1 afspraken gemaakt.
-
-## Bijlage 2. Indicatiecriteria toelaatbaarheid tot (v)so en leerling gebonden financiering
-
-### § 1. Begripsomschrijvingen
-
-In dit document wordt verstaan onder:
-
-### § 2. Samenstelling Commissie van Indicatiestelling
-
-De CvI bestaat uit een voorzitter, die tevens lid is, en ten minste vier andere leden. De onafhankelijkheid van de voorzitter en leden van de CvI t.o.v. de scholen in het REC dient gewaarborgd te zijn. Een (adjunct)directeur van een van de scholen van het REC, of een bovenschools (adjunct)directeur binnen het REC kan geen voorzitter of lid van de CvI zijn. Tot de leden behoren in ieder geval een arts, met een specifieke deskundigheid ten aanzien van de stoornissen en beperkingen die kenmerkend zijn voor de leerlingen in het betreffende cluster of een jeugdarts en een onderzoeker met deskundigheid ten aanzien van deze stoornissen en beperkingen, een als diagnosticus gekwalificeerde gedragswetenschapper (psycholoog of orthopedagoog), een onderwijsdeskundige of orthodidacticus en een maatschappelijk deskundige. De leden dienen voorts voldoende op de hoogte te zijn van de doelgroepen en van het aanbod van de overige clusters teneinde bij de toelaatbaarheidsbepaling goed te kunnen differentiëren tussen de clusters.
-
-### § 3. Werkwijze Commissie van Indicatiestelling
-
-Als regel geldt dat onderzoeksgegevens niet ouder mogen zijn dan een jaar, tenzij het gaat om gegevens betreffende evident stabiele leerlingkenmerken. Voor het onderwijskundig rapport geldt dat dit uiterlijk drie maanden voorafgaand aan het moment van aanmelding, dan wel aan het moment van schoolverlaten mag zijn opgesteld.
-
-### § 4. Protocol indicatiestelling toelaatbaarheid tot (V)SO en leerling gebonden financiering
-
-### § 5. Indicatiecriteria algemeen
-
-### § 6. Stoornissen en beperkingen
-
-### § 7. Belemmering in de onderwijsparticipatie
-
-### § 8. Specifieke indicatiecriteria voor stoornissen en beperkingen geldend voor de onderwijssoorten deel uitmakend van cluster 2
-
-### § 9. Specifieke indicatiecriteria voor stoornissen en beperkingen geldend voor de onderwijssoorten deel uitmakend van cluster 3
-
-### § 10. Specifieke indicatiecriteria voor stoornissen en beperkingen geldend voor de onderwijssoorten deel uitmakend van cluster 4

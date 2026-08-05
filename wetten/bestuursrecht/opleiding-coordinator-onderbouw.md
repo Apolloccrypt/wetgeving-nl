@@ -1,36 +1,16 @@
 ---
 title: "Opleiding coördinator onderbouw"
 identifier: "BWBR0011425"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2000-06-28"
-last_updated: "2000-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011425"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6479813"
-version_id: "11158712"
-internal_id: "C15080031"
-label_id: "6468514"
-original_entry_into_force: "2000-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011425/2000-06-28/0"
-intitule_bron: "Uitleg.2000-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-06-19"
-intitule_published: "2000-06-28"
-intitule_in_force: "2000-06-28"
-intitule_status: "goed"
-original_publication: "Uitleg.2000-18"
-original_signed_date: "2000-06-19"
-original_published_date: "2000-06-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-06-28"
-jci_1_3: "jci1.3:c:BWBR0011425&z=2000-06-28&g=2000-06-28"
-jci_1_0: "1.0:c:BWBR0011425&g=2000-06-28"
-citeertitel_status: "redactioneel"
-signed_date: "2000-06-19"
-entry_into_force: "2000-06-28"
+publicatiedatum: 2000-06-28
+laatste_update: 2000-06-28
+status: geldig
+toestand: 2000-06-28
+bron: "https://wetten.overheid.nl/BWBR0011425"
+opgehaald: 2026-08-05
 ---
+
 # Opleiding coördinator onderbouw
 
 ### Inleiding
@@ -73,11 +53,19 @@ Bij voldoende belangstelling kan in september 2003 nog een laatste opleiding wor
 
 De opleiding is bestemd voor:
 
+- alle leraren in de onderbouw (groep 1 t/m 4) van de basisschool, en
+
+- (hoofd)leidsters van peuterspeelzalen met een relevante hbo-opleiding.
+
 Het is de bedoeling dat de scholen nauw samenwerken met deze peuterspeelzalen en dat de leraar/lerares en de leidster zich tezamen inschrijven voor de opleiding.
 
 ### Criteria voor facilitering
 
 Voor faciliteiten van het rijk komen in aanmerking:
+
+- leraren in dienst van schoolbesturen met scholen met 50% of meer gewichten leerlingen, en
+
+- (hoofd)leidsters van peuterspeelzalen met een relevante hbo-opleiding.
 
 ### De faciliteiten
 
@@ -93,10 +81,18 @@ De subsidiebijdrage van het ministerie dekt niet de totale uitvoeringskosten; da
 
 In eerste instantie zullen de hierna genoemde hogescholen de opleiding verzorgen, zo mogelijk geheel of gedeeltelijk buiten de schooluren.
 
+- Hogeschool Ipabo Amsterdam/Alkmaar Jan Tooropstraat 136 1061 AD Amsterdam (020) 6137079
+
+- Hogeschool Marnix Academie Vogelsanglaan 1 3571 ZM Utrecht (030) 2753426
+
+- Transfergroep Rotterdam Unit Primair Onderwijs Museumpark 40 3015 CX Rotterdam (010) 2414459
+
+- Hogeschool Ichtus L. Couperusplein 19 2514 HP ’s-Gravenhage (070) 3120125
+
 Ook andere hogescholen kunnen de opleiding Coördinator Onderbouw aanbieden, mits dit de door de KPC ontwikkelde opleiding betreft. Deze hogescholen moeten vooraf hierover contact opnemen met het LNP. De opleiding kan uitsluitend worden aangeboden door de nascholingsinstellingen en wordt gedragen door het Landelijk Platform Nascholingsinstellingen (LNP).
 
 De opleiding Coördinator Onderbouw maakt onderdeel uit van het stelsel van postinitiële opleidingen.
 
 Scholen worden verzocht bij aanmelding bij de Hogeschool het BRIN-nummer te vermelden en een verklaring dat men voldoet aan de gestelde criteria.
 
-Aanmelding **vóór 1 september 2000.** Plaatsing geschiedt op volgorde van binnenkomst.
+Aanmelding *vóór 1 september 2000.* Plaatsing geschiedt op volgorde van binnenkomst.

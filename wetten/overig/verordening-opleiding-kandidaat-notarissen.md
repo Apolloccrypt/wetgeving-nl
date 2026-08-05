@@ -1,49 +1,17 @@
 ---
 title: "Verordening opleiding kandidaat-notarissen"
 identifier: "BWBR0011628"
-country: "nl"
-rank: "pbo"
-publication_date: "2017-08-04"
-last_updated: "2017-08-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011628"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6831073"
-version_id: "11711152"
-internal_id: "C15787251"
-label_id: "6819324"
-original_entry_into_force: "2000-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011628/2017-08-04/0"
-intitule_bron: "Stcrt.2000-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-13"
-intitule_published: "2000-09-20"
-intitule_in_force: "2000-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-182"
-original_signed_date: "2000-09-13"
-original_published_date: "2000-09-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-10-01"
-jci_1_3: "jci1.3:c:BWBR0011628&z=2017-08-04&g=2017-08-04"
-jci_1_0: "1.0:c:BWBR0011628&g=2017-08-04"
-citeertitel_status: "officieel"
-signed_date: "2000-09-13"
-entry_into_force: "2000-10-01"
+publicatiedatum: 2000-10-01
+laatste_update: 2017-08-04
+status: geldig
+toestand: 2017-08-04
+bron: "https://wetten.overheid.nl/BWBR0011628"
+opgehaald: 2026-08-05
 ---
+
 # Verordening opleiding kandidaat-notarissen
-
-Overwegende dat het gewenst is regels te stellen met betrekking tot de opleiding voor kandidaat-notarissen;
-
-Gelet op [art. 33 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=33);
-
-Gezien het ontwerp van het bestuur met bijbehorende toelichting;
-
-Gelet op de adviezen van de kamers van toezicht;
-
-Gelet op de adviezen van de ringen;
-
-stelt de navolgende verordening vast:
 
 #### Onderwijsprogramma
 

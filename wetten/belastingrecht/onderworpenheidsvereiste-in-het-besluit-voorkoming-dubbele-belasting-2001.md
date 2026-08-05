@@ -1,40 +1,17 @@
 ---
 title: "Onderworpenheidsvereiste in het Besluit voorkoming dubbele belasting 2001"
 identifier: "BWBR0012005"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-01-01"
-last_updated: "2001-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012005"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8409763"
-version_id: "13284022"
-internal_id: "C18437481"
-label_id: "8390574"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012005/2001-01-01/0"
-intitule_bron: "Infob.2001-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-18"
-intitule_published: "2001-01-01"
-intitule_in_force: "2001-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2001-2"
-original_signed_date: "2000-12-18"
-original_published_date: "2001-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0012005&z=2001-01-01&g=2001-01-01"
-jci_1_0: "1.0:c:BWBR0012005&g=2001-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2000-12-18"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2001-01-01
+status: geldig
+toestand: 2001-01-01
+bron: "https://wetten.overheid.nl/BWBR0012005"
+opgehaald: 2026-08-05
 ---
-# Onderworpenheidsvereiste in het Besluit voorkoming dubbele belasting 2001
 
-De plv. Directeur-Generaal voor Fiscale Zaken heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Onderworpenheidsvereiste in het Besluit voorkoming dubbele belasting 2001
 
 Dit besluit is opnieuw uitgebracht naar aanleiding van de Belastingherziening 2001 en dient ter vervanging van het besluit van 12 januari 1999, nr. IFZ98/1535 M.
 

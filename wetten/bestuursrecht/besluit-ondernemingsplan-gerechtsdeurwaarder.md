@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 4 juli 2001, houdende nadere regels inzake het ondernemingsplan in verband met de vestiging van een gerechtsdeurwaarder en de advisering daarover door de Commissie van deskundigen (Besluit ondernemingsplan gerechtsdeurwaarder)"
+citeertitel: "Besluit ondernemingsplan gerechtsdeurwaarder"
 identifier: "BWBR0012636"
-country: "nl"
-rank: "amvb"
-publication_date: "2001-07-15"
-last_updated: "2001-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012636"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1583823"
-version_id: "2346072"
-internal_id: "C2346071"
-label_id: "1538754"
-dtd_version: "2.0"
-original_entry_into_force: "2001-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012636/2001-07-15/0"
-intitule_bron: "Stb.2001-323"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-04"
-intitule_published: "2001-07-10"
-intitule_in_force: "2001-07-10"
-intitule_status: "goed"
-original_publication: "Stb.2001-323"
-original_signed_date: "2001-07-04"
-original_published_date: "2001-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-323"
-entry_into_force_date: "2001-07-15"
-jci_1_3: "jci1.3:c:BWBR0012636&z=2001-07-15&g=2001-07-15"
-jci_1_0: "1.0:c:BWBR0012636&g=2001-07-15"
-citeertitel_status: "officieel"
-short_title: "Besluit ondernemingsplan gerechtsdeurwaarder"
-signed_date: "2001-07-04"
-entry_into_force: "2001-07-15"
+publicatiedatum: 2001-07-15
+laatste_update: 2001-07-15
+status: geldig
+toestand: 2001-07-15
+bron: "https://wetten.overheid.nl/BWBR0012636"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 4 juli 2001, houdende nadere regels inzake het ondernemingsplan in verband met de vestiging van een gerechtsdeurwaarder en de advisering daarover door de Commissie van deskundigen (Besluit ondernemingsplan gerechtsdeurwaarder)
-
-Op de voordracht van Onze Staatssecretaris van Justitie van 23 mei 2001, Directie Wetgeving nr. 5099672/01/6;
-
-Gelet op [artikel 6, vijfde lid, van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=6);
-
-De Raad van State gehoord (advies van 8 juni 2001, nr. W03.01.0246/I);
-
-Gezien het nader rapport van Onze Staatssecretaris van Justitie van 2 juli 2001, Directie Wetgeving nr. 5105377/01/6;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking als artikel 6 van de Gerechtsdeurwaarderswet in werking treedt.
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -171,5 +137,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel 6 van de wet](http
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit ondernemingsplan gerechtsdeurwaarder.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 5 juli 2001, houdende nadere regels ter uitvoering van de in de Wegenverkeerswet 1994 vervatte wegsleepregeling (Besluit wegslepen van voertuigen)"
+citeertitel: "Besluit wegslepen van voertuigen"
 identifier: "BWBR0012649"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012649"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "1586403"
-version_id: "2348962"
-internal_id: "C2348961"
-label_id: "1541254"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012649/2013-01-01/0"
-intitule_bron: "Stb.2001-353"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-05"
-intitule_published: "2001-07-24"
-intitule_in_force: "2001-11-06"
-intitule_status: "goed"
-original_publication: "Stb.2001-353"
-original_signed_date: "2001-07-05"
-original_published_date: "2001-07-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-353"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0012649&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0012649&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit wegslepen van voertuigen"
-signed_date: "2001-07-05"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0012649"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 5 juli 2001, houdende nadere regels ter uitvoering van de in de Wegenverkeerswet 1994 vervatte wegsleepregeling (Besluit wegslepen van voertuigen)
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 9 mei 2001, nr. CDJZ/WBI/2001-612, Centrale Directie Juridische Zaken;
-
-Gelet op [artikel 173, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=173), en op de [artikelen 130, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), [164, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164), en [174, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=174), [juncto 173, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=173);
-
-De Raad van State gehoord (advies van 14 juni 2001, nr. W09.01.0222/V);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 29 juni 2001, nr. CDJZ/WBI/2001-855, Centrale Directie Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemeen
 
@@ -66,17 +34,17 @@ De soorten van weggedeelten en wegen, bedoeld in [artikel 173, eerste lid, onder
 
 - c. parkeergelegenheden, aangeduid door bord E4 van [bijlage 1 bij het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1), waarbij ofwel op een onderbord wordt aangegeven: ofwel op het verkeersbord de aanduiding is aangebracht waarmee wordt aangegeven:
 
-- 1°. de voertuigcategorie of groep voertuigen waarvoor de parkeergelegenheid is bestemd;
+   - 1°. de voertuigcategorie of groep voertuigen waarvoor de parkeergelegenheid is bestemd;
 
-- 2°. de wijze waarop het parkeren dient te geschieden;
+   - 2°. de wijze waarop het parkeren dient te geschieden;
 
-- 3°. de dagen of uren waarop het parkeren is verboden, of
+   - 3°. de dagen of uren waarop het parkeren is verboden, of
 
-- 4°. de dagen of uren waarop een beperking als bedoeld in 1° en 2°, geldt,
+   - 4°. de dagen of uren waarop een beperking als bedoeld in 1° en 2°, geldt,
 
-- 1°. de voertuigcategorie of groep voertuigen waarvoor de parkeergelegenheid is bestemd, of
+   - 1°. de voertuigcategorie of groep voertuigen waarvoor de parkeergelegenheid is bestemd, of
 
-- 2°. de wijze waarop het parkeren dient te geschieden.
+   - 2°. de wijze waarop het parkeren dient te geschieden.
 
 - d. taxistandplaatsen, aangeduid door bord E5 van [bijlage 1 bij het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1);
 
@@ -114,11 +82,11 @@ Het proces-verbaal krachtens [artikel 5:29, tweede lid, van de Algemene wet best
 
 - a. een summiere omschrijving van het in bewaring te stellen voertuig, waarbij in elk geval wordt vermeld:
 
-- 1°. de kleur van het voertuig;
+   - 1°. de kleur van het voertuig;
 
-- 2°. indien op of aan het voertuig een kenteken is bevestigd, het kenteken, en
+   - 2°. indien op of aan het voertuig een kenteken is bevestigd, het kenteken, en
 
-- 3°. indien het voertuig tot een bepaald merk behoort, het merk;
+   - 3°. indien het voertuig tot een bepaald merk behoort, het merk;
 
 - b. de plaats van waar, alsmede de datum en het tijdstip waarop het voertuig is verwijderd;
 
@@ -202,21 +170,21 @@ Het college van burgemeester en wethouders verstrekt aan belanghebbenden desgevr
 
 - a. indien de gemeente de overbrenging zelf verzorgt:
 
-- 1°. de afschrijvingskosten en onderhoudskosten van kraanwagens, takel- en sleepmateriaal en verbindingsmiddelen, alsmede de brandstofkosten van kraanwagens;
+   - 1°. de afschrijvingskosten en onderhoudskosten van kraanwagens, takel- en sleepmateriaal en verbindingsmiddelen, alsmede de brandstofkosten van kraanwagens;
 
-- 2°. de personele en materiële kosten, verbonden aan de bediening van kraanwagens, takel- en sleepmateriaal en verbindingsmiddelen;
+   - 2°. de personele en materiële kosten, verbonden aan de bediening van kraanwagens, takel- en sleepmateriaal en verbindingsmiddelen;
 
-- 3°. de personele en materiële kosten met betrekking tot het onder 1° bedoelde onderhoud, en
+   - 3°. de personele en materiële kosten met betrekking tot het onder 1° bedoelde onderhoud, en
 
-- 4°. de kosten van stalling en opslag van kraanwagens en overig materiaal;
+   - 4°. de kosten van stalling en opslag van kraanwagens en overig materiaal;
 
 - b. indien de gemeente de bewaring zelf verzorgt:
 
-- 1°. de kosten van rente en afschrijving dan wel van huur van de plaats van bewaring;
+   - 1°. de kosten van rente en afschrijving dan wel van huur van de plaats van bewaring;
 
-- 2°. de kosten van inrichting en onderhoud van de plaats van bewaring, alsmede de kosten wegens energieverbruik, water en verbindingsmiddelen, en
+   - 2°. de kosten van inrichting en onderhoud van de plaats van bewaring, alsmede de kosten wegens energieverbruik, water en verbindingsmiddelen, en
 
-- 3°. de personele en materiële kosten, verbonden aan de bewaring;
+   - 3°. de personele en materiële kosten, verbonden aan de bewaring;
 
 - c. indien de gemeente de overbrenging, onderscheidenlijk de bewaring niet zelf verzorgt, de voor de overbrenging, onderscheidenlijk de bewaring aan de gemeente in rekening gebrachte kosten, en
 
@@ -263,5 +231,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 19
 
 Dit besluit wordt aangehaald als: Besluit wegslepen van voertuigen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

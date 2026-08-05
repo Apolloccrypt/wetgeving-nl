@@ -1,41 +1,21 @@
 ---
 title: "Verhoging flexibilisering arbeidsduur"
 identifier: "BWBR0011842"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2000-12-13"
-last_updated: "2000-12-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011842"
+categorie: "Arbeidsrecht"
 soort: "beleidsregel"
-stam_id: "6526573"
-version_id: "11284112"
-internal_id: "C15217321"
-label_id: "6515344"
-original_entry_into_force: "2000-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011842/2000-12-13/0"
-intitule_bron: "Uitleg.2000-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-11-27"
-intitule_published: "2000-12-13"
-intitule_in_force: "2000-12-13"
-intitule_status: "goed"
-original_publication: "Uitleg.2000-9"
-original_signed_date: "2000-11-27"
-original_published_date: "2000-12-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-12-13"
-jci_1_3: "jci1.3:c:BWBR0011842&z=2000-12-13&g=2000-12-13"
-jci_1_0: "1.0:c:BWBR0011842&g=2000-12-13"
-citeertitel_status: "redactioneel"
-signed_date: "2000-11-27"
-entry_into_force: "2000-12-13"
+publicatiedatum: 2000-12-13
+laatste_update: 2000-12-13
+status: geldig
+toestand: 2000-12-13
+bron: "https://wetten.overheid.nl/BWBR0011842"
+opgehaald: 2026-08-05
 ---
+
 # Verhoging flexibilisering arbeidsduur
 
 ### 1. Inleiding
 
-In deze voorlichtingspublicatie wordt u geïnformeerd over het akkoord dat op 8 november 2000 met de Centrales van Overheidspersoneel is gesloten over flexibilisering van de arbeidsduur. In de CAO sector onderwijs (PO, VO, BVE) 2000-2002 was al overeengekomen dat werknemers op hun verzoek de mogelijkheid krijgen om, bij een normbetrekking, 51 uur meer te werken, zonder dat dit leidt tot een aanspraak op verlof (verzilvering 51 uren adv-verlof). Voor deze regeling verwijs ik naar publicatie [AB/A&A-2000/28671 in het Gele katern, nr. 18b van 26 juli 2000](onbekend).
+In deze voorlichtingspublicatie wordt u geïnformeerd over het akkoord dat op 8 november 2000 met de Centrales van Overheidspersoneel is gesloten over flexibilisering van de arbeidsduur. In de CAO sector onderwijs (PO, VO, BVE) 2000-2002 was al overeengekomen dat werknemers op hun verzoek de mogelijkheid krijgen om, bij een normbetrekking, 51 uur meer te werken, zonder dat dit leidt tot een aanspraak op verlof (verzilvering 51 uren adv-verlof). Voor deze regeling verwijs ik naar publicatie AB/A&A-2000/28671 in het Gele katern, nr. 18b van 26 juli 2000.
 
 De verscherpte problematiek op de onderwijsarbeidsmarkt is aanleiding geweest om voor het Primair Onderwijs aanvullende afspraken te maken over verzilvering van adv (verzilvering van de volledige adv). Onderdeel van deze afspraak is een extra financiële impuls. Voor de sector PO komt deze overeen met een verhoging van het MOA-budget met ongeveer 10% per 1 december 2000.
 
@@ -47,7 +27,17 @@ De normjaartaak bedraagt 1659 uur en zal geen wijziging ondervinden.
 
 Voor personeel dat de adv op reguliere wijze opneemt (jaarverlof) is de invulling van de arbeidsduur als volgt:
 
+| Arbeidsduur | Feitelijk te werken | Deskundigheids-bevordering | Maximale Lessentaak | Minimale -niet Lessentaak | Adv-verlof | Les-adv | Feitelijke Maximale Lessentaak |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1790 | 1659 | 166 | 1010 | 563 | 131 | 80 | 930 |
+| 1710 | 1659 | 166 | 961 | 563 | 51 | 31 | 930 |
+
 Bij afsluiting van het akkoord is de wens uitgesproken dat bestaande mogelijkheden voor flexibilisering van de arbeidsduur optimaal worden benut. Deze mogelijkheden staan open voor alle personeelscategorieën (onderwijsgevend, onderwijsondersteunend en directie). Bestaande mogelijkheden zijn:
+
+| Arbeidsduur | Feitelijk te werken | Deskundigheidsbevordering | Maximale Lessentaak | Minimale -niet Lessentaak | Adv-Spaarverlof | Les-adv | Feitelijke Maximale Lessentaak |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1790 | 1790 | 179 | 1010 | 601 | 131 | (80) | 1010 |
+| 1710 | 1710 | 171 | 961 | 578 | 51 | (31) | 961 |
 
 ### a. Spaarverlof
 
@@ -67,6 +57,11 @@ Afgesproken is om verzilveringsmogelijkheid te verruimen tot het volledige adv-v
 
 De afgesproken verruiming betekent dat er twee mogelijkheden zijn om adv te verzilveren, waarbij de invulling van de arbeidsduur er als volgt uitziet:
 
+| Arbeidsduur | Feitelijk te werken | Deskundigheidsbevordering | Maximale Lessentaak | Minimale -niet Lessentaak | Verzilvering adv-verlof | Verzilvering-lesadv | Feitelijke Maximale Lessentaak |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1790 | 1790 | 179 | 1010 | 601 | 131 | (80) | 1010 |
+| 1710 | 1710 | 171 | 961 | 578 | 51 | (31) | 961 |
+
 ### b. Extra financiële impuls
 
 Zoals aangegeven in de inleiding, is onderdeel van de nadere afspraak een extra financiële impuls aan het arbeidsmarkt- en personeelsbeleid op instellingsniveau. Met deze extra impuls is een budget gemoeid van 24 mln structureel voor de sectoren PO, VO en BVE tezamen, ingaande 1 december 2000.
@@ -74,6 +69,10 @@ Zoals aangegeven in de inleiding, is onderdeel van de nadere afspraak een extra 
 Voor de sector PO zal dit bedrag, voor het lopende schooljaar 2000-2001, worden toegekend in de vorm van een verhoging van het MOA-budget.
 
 Voor de besteding van dit additionele budget gelden dezelfde voorwaarden als voor het MOA-budget. Het budget is derhalve op het niveau van de school vrij besteedbaar ten behoeve van specifieke omstandigheden en problemen, met dien verstande dat het budget uitsluitend besteed kan worden ten behoeve van personeel binnen de aandachtgebieden management, ondersteuning, arbeidsmarkt en arbeidsomstandigheden. Naast de, in de publicatie Schoolbudget voor management, ondersteuning, arbeidsmarkt en arbeidsomstandigheden (MOA-budget) opgenomen, suggesties voor besteding (zie publicatie PO/PJ-2000/28534, 28537 en 28539, gepubliceerd in Gele katern nr. 18b van 26 juli 2000) kan bij de besteding van het budget worden gedacht aan:
+
+- extra inzet van ondersteunend personeel, gericht op het verlichten van de werkdruk van personeel dat van de mogelijkheid gebruik maakt om de (volledige) adv te verzilveren;
+
+- bewust belonen van personeel dat zich extra inzet om de knelpunten binnen de personeelsvoorziening van de school op te lossen. Dit kan worden vormgegeven via een bonus in tijd (extra verlofuren) of in geld (toelagen, gratificaties). Werknemers kunnen deze mogelijkheden betrekken bij de keuze om meer te gaan werken.
 
 Over deze extra financiële impuls wordt u nader geïnformeerd in een op korte termijn te verschijnen afzonderlijke publicatie.
 
@@ -101,15 +100,29 @@ Bij personeel dat werkzaam is in normbetrekking, dient rekening gehouden te word
 
 ### Nadere voorwaarden
 
-Uitbreiding van de betrekkingomvang door deeltijders en verzilvering van adv-verlof door personeel met een volledige betrekking, is alleen mogelijk als de formatie van de school dit toelaat. Dit houdt in dat de keuze op generlei wijze direct mag leiden tot plaatsing in het risicodragende deel van de formatie (RDDF), zoals bedoeld in [artikel I-P76, tweede lid, onder b van het Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-P76) (RPBO), danwel direct mag leiden tot een uitkering op grond van het [BWOO](https://wetten.overheid.nl/jci1.3:c:BWBR0006445). Het bevoegd gezag moet daarnaast hebben voldaan aan de herbenoemingsverplichting op grond van de zogenoemde ”eigen wachtgeldersbepaling”. Tevens kan alleen sprake zijn van omzetting in bezoldigde uren als het bevoegd gezag, als onderdeel van een actief arbeidsmarktbeleid (zie paragraaf 5), alles in het werk heeft gesteld om arbeidsongeschikten met een restcapaciteit aan het werk te helpen. Tenslotte moet zijn voldaan aan de verplichtingen, zoals opgenomen in de CAO PO, dan wel de Raamovereenkomst.
+Uitbreiding van de betrekkingomvang door deeltijders en verzilvering van adv-verlof door personeel met een volledige betrekking, is alleen mogelijk als de formatie van de school dit toelaat. Dit houdt in dat de keuze op generlei wijze direct mag leiden tot plaatsing in het risicodragende deel van de formatie (RDDF), zoals bedoeld in [artikel I-P76, tweede lid, onder b van het Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-P76) (RPBO), danwel direct mag leiden tot een uitkering op grond van het [BWOO](https://wetten.overheid.nl/jci1.3:c:BWBR0006445). Het bevoegd gezag moet daarnaast hebben voldaan aan de herbenoemingsverplichting op grond van de zogenoemde ”eigen wachtgeldersbepaling”. Tevens kan alleen sprake zijn van omzetting in bezoldigde uren als het bevoegd gezag, als onderdeel van een actief arbeidsmarktbeleid (zie [paragraaf 5](https://wetten.overheid.nl/BWBR0011842)), alles in het werk heeft gesteld om arbeidsongeschikten met een restcapaciteit aan het werk te helpen. Tenslotte moet zijn voldaan aan de verplichtingen, zoals opgenomen in de CAO PO, dan wel de Raamovereenkomst.
 
 Ten aanzien van spaarverlof wordt voor de volledigheid nog opgemerkt dat de spaarperiode niet wordt onderbroken indien de spaarder, dan wel een ander personeelslid, in het RDDF wordt geplaatst door afname van formatie.
 
-Voor nadere informatie over adv-verlof en de invulling van de arbeidsduur, zie publicatie [AB 1998/18847, d.d. 6 mei 1998](onbekend), gepubliceerd in Gele katern nr. 12b en over het spaarverlof de [Regeling spaarverlof primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0015174), AB/A&A/1999/53786, d.d. 24 mei 2000, gepubliceerd in Gele Katern, nr. 14.
+Voor nadere informatie over adv-verlof en de invulling van de arbeidsduur, zie publicatie AB 1998/18847, d.d. 6 mei 1998, gepubliceerd in Gele katern nr. 12b en over het spaarverlof de [Regeling spaarverlof primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0015174), AB/A&A/1999/53786, d.d. 24 mei 2000, gepubliceerd in Gele Katern, nr. 14.
 
 ### 5. Flankerende maatregelen bij verzilvering van de volledige adv
 
 Voor een verantwoorde uitvoering van de afspraak is het van belang de vrijwilligheid en de tijdelijkheid van het verzilveren van adv te waarborgen. Daarnaast moet een toename van de werkdruk van personeel, dat van deze mogelijkheid gebruik maakt, zoveel mogelijk worden voorkomen. Hiervoor zijn flankerende maatregelen op instellingsniveau gewenst:
+
+- Zoals aangegeven zijn spaarverlof, uitbreiding van de deeltijdbetrekking en verzilvering van adv-uren dan alleen mogelijk, als bij het bevoegd gezag iedere arbeidsongeschikte met een restcapaciteit aan het werk is geholpen. Het is daarbij van groot belang dat het bevoegd gezag de mogelijkheden van reïntegratie die de WAO en de [wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) bieden (o.a. loonkostensubsidie, proefplaatsing, korting op de WAO-premie) maximaal benutten;
+
+- Om negatieve effecten op de werkdruk van het betreffende personeel te voorkomen, is het van belangdat het bevoegd gezag en de werknemer, voordat zij, op basis van vrijwilligheid, afspreken van de verzilveringsmogelijkheid gebruik te maken, zich er rekenschap van geven of:
+
+- vrijwilligheid en tijdelijkheid van het verzilveren van de volledige adv zijn gewaarborgd via, in de acte van benoeming c.q. aanstelling van personeel op te nemen, afspraken;
+
+- de school een actief arbeidsmarktbeleid voert en alles in het werk stelt om vacatures op zodanige wijze te vervullen dat personeel niet onnodig extra wordt belast;
+
+- de school de uitvoering van het deelconvenant ”Verzuimbegeleiding en Reïntegratie Primair en Voortgezet Onderwijs” met voortvarendheid ter hand neemt;
+
+- de school op korte termijn een plan van aanpak ziekteverzuim/ reïntegratie en arbo gereed heeft;
+
+- in dit plan van aanpak specifieke maatregelen zijn opgenomen, die gericht zijn op personeel dat gebruik maakt van de mogelijkheid om de (volledige) adv te verzilveren;
 
 De effecten van flexibilisering van de arbeidsduur zullen worden meegenomen in het onderzoek naar taakbelasting van leraren, zoals in de CAO, sector onderwijs (PO, VO, BVE) 1999-2000 is afgesproken.
 

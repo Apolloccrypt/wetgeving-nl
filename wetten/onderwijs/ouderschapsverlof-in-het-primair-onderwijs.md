@@ -1,51 +1,51 @@
 ---
 title: "Ouderschapsverlof in het primair onderwijs"
 identifier: "BWBR0011265"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2000-04-19"
-last_updated: "2000-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011265"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6503763"
-version_id: "11191652"
-internal_id: "C15120521"
-label_id: "6492544"
-original_entry_into_force: "2000-04-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011265/2000-04-19/0"
-intitule_bron: "Uitleg.2000-11/12"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-03-29"
-intitule_published: "2000-04-19"
-intitule_in_force: "2000-04-19"
-intitule_status: "goed"
-original_publication: "Uitleg.2000-11/12"
-original_signed_date: "2000-03-29"
-original_published_date: "2000-04-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-04-19"
-jci_1_3: "jci1.3:c:BWBR0011265&z=2000-04-19&g=2000-04-19"
-jci_1_0: "1.0:c:BWBR0011265&g=2000-04-19"
-citeertitel_status: "redactioneel"
-signed_date: "2000-03-29"
-entry_into_force: "2000-04-19"
+publicatiedatum: 2000-04-19
+laatste_update: 2000-04-19
+status: geldig
+toestand: 2000-04-19
+bron: "https://wetten.overheid.nl/BWBR0011265"
+opgehaald: 2026-08-05
 ---
+
 # Ouderschapsverlof in het primair onderwijs
 
 ### 1. Inleiding
 
 n het Gele Katern nummer 12 van 22 april 1998 (PO/PJ1998/5883) is aangekondigd dat met centrales en organisaties van schoolbesturen overleg zou worden gestart over wijziging van artikel I-C39 van het RPBO (ouderschapsverlof). Dat overleg is inmiddels afgerond. Daarbij zijn afspraken gemaakt over aanpassing van de regeling van het ouderschapsverlof in het [RPBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003771) aan:
 
+- de regeling van het ouderschapsverlof in het burgerlijk wetboek;
+
+- een voorgenomen wijziging van het burgerlijk wetboek in verband met de uitbreiding van de aanspraak op ouderschapsverlof voor ouders en verzorgers van meerlingen; en
+
+- de modernisering van de onderdelen van het [RPBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003771) die betrekking hebben op de arbeidsduur.
+
 Vooruitlopend op de voorgenomen wijziging van het [RPBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003771) wordt u door middel van deze publicatie op de hoogte gesteld van de regeling voor ouderschapsverlof zoals die in overleg met centrales en organisaties van schoolbesturen is overeengekomen.
 
 ### 2. Op wie is de nieuwe regeling van toepassing ?
 
-De overeengekomen regeling geldt voor alle werknemers in het primair onderwijs op wie het [RPBO](onbekend) van toepassing is. In tegenstelling tot de regeling zoals die momenteel nog is opgenomen in [artikel I-C39 van het RPBO](onbekend) wordt geen minimum meer gesteld aan de betrekkingsomvang. Dat betekent dat ook betrokkenen met een werktijdfactor die kleiner is dan 0,4, recht hebben op ouderschapsverlof. De nieuwe regeling zoals die is afgesproken maakt ouderschapsverlof mogelijk tot de datum waarop het kind de leeftijd van 8 jaar bereikt.
+De overeengekomen regeling geldt voor alle werknemers in het primair onderwijs op wie het RPBO van toepassing is. In tegenstelling tot de regeling zoals die momenteel nog is opgenomen in artikel I-C39 van het RPBO wordt geen minimum meer gesteld aan de betrekkingsomvang. Dat betekent dat ook betrokkenen met een werktijdfactor die kleiner is dan 0,4, recht hebben op ouderschapsverlof. De nieuwe regeling zoals die is afgesproken maakt ouderschapsverlof mogelijk tot de datum waarop het kind de leeftijd van 8 jaar bereikt.
 
 De volgende categorieën werknemers hebben recht op ouderschapsverlof:
 
+- 1. de ouders van kinderen die tijdens het huwelijk of het geregistreerde partnerschap zijn geboren;
+
+- 2. de vaders die kinderen hebben erkend en alleenstaande moeders;
+
+- 3. adoptieouders vanaf het moment dat de adoptieprocedure is afgerond.
+
+- 4. degenen die de verzorging van kinderen op zich hebben genomen met het doel om die kinderen te adopteren (aspirant-adoptieouders); en
+
+- 5. betrokkenen die op hetzelfde adres wonen als de kinderen waarvoor zij duurzaam de verzorging en de opvoeding op zich hebben genomen.
+
 De onder punt 4 genoemde aspirant-adoptieouders kunnen het doel om te adopteren op verschillende manieren aantonen:
+
+- 1. wanneer het de adoptie van Nederlandse kinderen betreft kan de bedoeling om te adopteren blijken uit een verklaring van de Raad voor de Kinderbescherming waaruit de plaatsing bij betrokkenen ter adoptie blijkt;
+
+- 2. wanneer het de adoptie van niet-Nederlandse kinderen betreft kan dat door middel van een afschrift van een beginseltoestemming van het Ministerie van Justitie in combinatie met een afschrift van de vergunning tot verblijf van de kinderen.
 
 ### 3. Omvang en duur
 
@@ -54,6 +54,14 @@ De onder punt 4 genoemde aspirant-adoptieouders kunnen het doel om te adopteren 
 De omvang van het ouderschapsverlof (het verlofsaldo) is afhankelijk van de relatie die de werknemer heeft met de kinderen, van het aantal kinderen en van de betrekkingsomvang. De omvang van het ouderschapsverlof wordt berekend naar evenredigheid van de werktijdfactor. De uitkomst van die berekening wordt rekenkundig afgerond op hele uren.
 
 Wanneer er sprake is van de geboorte, adoptie of aanvang van de verzorging van één kind, bedraagt het verlofsaldo bij een normbetrekking 995 uur. Als er bij de in de vorige paragraaf onder punt 1 tot en 4 genoemde werknemers sprake is van de geboorte of adoptie van meerdere kinderen tegelijkertijd bedraagt het verlofsaldo 995 uur voor het eerste kind plus 415 uur voor elk extra kind. Voor de in de voorgaande paragraaf onder punt 1 tot en met 4 genoemde personen heeft de nieuwe regeling zodoende de volgende uitwerking:
+
+| Aantal kinderen ten aanzien waarvan op hetzelfde moment verlof ontstaat | Verlofsaldo in uren |
+| --- | --- |
+| 1 | 995 |
+| 2 | 1410 (= 995 + 415) |
+| 3 | 1825 (= 995 + 2x415) |
+| 4 | 2240 (= 995 + 3x415) |
+| Enzovoort | Enzovoort |
 
 De in de voorgaande paragraaf onder punt 5 genoemde personen die op hetzelfde adres wonen als één kind of meerdere kinderen waarvoor zij duurzaam de verzorging en de opvoeding op zich hebben genomen, hebben recht op maximaal 995 uur verlof ongeacht het aantal kinderen. Het gaat in dat geval om pleegouders en betrokkenen die gaan samenwonen met een partner die één of meer kinderen heeft.
 
@@ -113,23 +121,43 @@ Meer voorbeelden van dergelijke berekeningen zijn te vinden in de ICO-vragenrubr
 
 In de nieuwe regeling zoals die is overeengekomen is een gedetailleerde procedure voor het aanvragen van ouderschapsverlof opgenomen. Deze procedure is gelijk aan de procedure die is opgenomen in de regeling van het ouderschapsverlof in het Burgerlijk Wetboek en staat er borg voor dat werkgever en werknemer in onderling overleg komen tot voor elke partij bevredigende afspraken over het opnemen van ouderschapsverlof. Hieronder wordt die procedure weergegeven:
 
+- De betrokkene meldt het voornemen om ouderschapsverlof op te nemen ten minste acht weken voor het gewenste tijdstip van ingang van het verlof schriftelijk aan het bevoegd gezag, onder opgave van de periode, het aantal verlofuren per week en de spreiding daarvan over de week. Daarbij kunnen de exacte tijdstippen van ingang en einde van het verlof afhankelijk worden gesteld van de datum van bevalling, van het einde van het bevallingsverlof of van de aanvang van de verzorging. Zodra dat mogelijk is, deelt de betrokkene ook de naam en geboortedatum mee van het kind of de kinderen waarvoor ouderschapsverlof wordt gevraagd.
+
+- Het bevoegd gezag neemt binnen vier weken een beslissing. let op: indien een betrokkene verzoekt om het verlof waar hij of zij op grond van één kind recht heeft, te mogen opnemen in een periode van een jaar of korter kan het bevoegd gezag dit niet weigeren (zie voor een verzoek om het verlof te spreiden over een langere periode [paragraaf 3 onder het kopje ’duur’](https://wetten.overheid.nl/BWBR0011265)).
+
+- Het bevoegd gezag kan, na overleg met de betrokkene, de spreiding van de verlofuren over de week op grond van gewichtige redenen wijzigen, tot vier weken voor het beoogde tijdstip van ingang van het ouderschapsverlof.
+
+- Het bevoegd gezag stemt in met een verzoek van de betrokkene om het ouderschapsverlof niet op te nemen of niet voort te zetten op grond van onvoorziene omstandigheden, tenzij gewichtige redenen zich hiertegen verzetten. Het bevoegd gezag beslist uiterlijk vier weken nadat een dergelijk verzoek is gedaan, in voorkomend geval onder opgave van de gewichtige redenen. Als het verlof nadat het is ingegaan niet wordt voortgezet, vervalt het recht op het overige deel van dat verlof. Op dit laatste is een uitzondering mogelijk; betrokkene kan verzoeken om het verlof wegens ziekte op te schorten. Gedurende de periode dat het verlof wordt opgeschort wegens ziekte vindt de normale bezoldiging plaats. Om die reden zal betrokkene zich tijdig bij het bevoegd gezag ziek en beter moeten melden zodat het bevoegd gezag in staat is om eventuele periodes van ziekte te registreren. Vervolgens dienen bevoegd gezag en betrokkene in onderling overleg met elkaar af te spreken op welk tijdstip het restant aan verlof zal worden opgenomen.
+
 ### 6. Inwerkingtreding
 
 De nieuwe regeling van het ouderschapsverlof in het Burgerlijk Wetboek is in 1997 in werking getreden. Als gevolg daarvan bestonden de oude regeling in [artikel I-C39 van het RPBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-C39) en de nieuwe regeling in het Burgerlijk Wetboek naast elkaar. Betrokkenen hebben, veelal mede op advies van het Ministerie van OCenW (zie de publicatie in Uitleg OCenW-Regelingen nr. 12 van 22 april 1998), een keuze tussen beide regelingen gemaakt die de meest gunstige uitkomst opleverde. De feitelijke uitwerking van het ouderschapsverlof was voor deze betrokkenen hetzelfde als die zou zijn geweest op grond van de nieuwe regeling zoals die hierboven is uiteengezet. Daarop moet een uitzondering worden gemaakt voor wat betreft de ouders van meerlingen of de (aspirant)-adoptieouders die de verzorging van meerdere kinderen tegelijk op zich hebben genomen. Het Burgerlijk Wetboek zal namelijk gewijzigd worden op het punt van de aanspraak op ouderschapsverlof voor ouders en verzorgers van meerlingen. Deze wijziging is al aangenomen in de Tweede Kamer en wacht nog op een akkoord van de Eerste Kamer. Voor die betrokkenen is daarom overeengekomen dat zij nogmaals recht hebben op verlof indien zij in het verleden reeds verlof hebben opgenomen op grond van de oude regeling. Uiteraard kan totaal nooit meer ouderschapsverlof worden opgenomen dan waarop op grond van de nieuwe regeling recht zou bestaan. Om dit doel te bereiken wordt de nieuwe regeling van toepassing verklaard op alle betrokkenen die voor het inwerkingtreden van de nieuwe regeling al ouderschapsverlof hebben genoten mits zij aan de overige voorwaarden van de nieuwe regeling voldoen. De beperking ’mits zij aan de overige voorwaarden van de nieuwe regeling voldoen’ heeft met name het gevolg dat de kinderen op grond waarvan (opnieuw) ouderschapsverlof wordt aangevraagd de leeftijd van acht jaren nog niet mogen hebben bereikt.
 
-### 7. Toepassing van de [Wet financiering loopbaanonderbreking](onbekend) bij ouderschapsverlof
+### 7. Toepassing van de Wet financiering loopbaanonderbreking bij ouderschapsverlof
 
-Als door betrokkene en werkgever aan een aantal voorwaarden wordt voldaan, kan betrokkene in aanmerking komen voor een uitkering op grond van de [Wet financiering loopbaanonderbreking](onbekend).
+Als door betrokkene en werkgever aan een aantal voorwaarden wordt voldaan, kan betrokkene in aanmerking komen voor een uitkering op grond van de Wet financiering loopbaanonderbreking.
 
 In grote lijnen moet dan aan de volgende voorwaarden zijn voldaan:
 
+- de overeengekomen verlofperiode bedraagt minimaal twee maanden en moet worden gebruikt voor zorgtaken of studie;
+
+- het verlof moet tenminste de helft van de gemiddelde arbeidsduur per week bedragen;
+
+- de werkgever moet een vervanger in dienst nemen die als werkzoekende staat ingeschreven bij de Arbeidsvoorziening, en
+
+   - uitkeringsgerechtigd is (WW/ BWOO, WAO, ABW, IOAW/Z) of
+
+   - in de twee jaar voorafgaand aan de vervangingsperiode niet meer dan vijftig (werk)dagen of op jaarbasis vierhonderd uur betaald werk heeft verricht (herintreder);
+
+- het dienstverband met de vervanger moet worden aangegaan voor ten minste de periode waarover de verlofganger verlof opneemt. Dit dienstverband moet daarbij worden aangegaan voor ten minste hetzelfde aantal uren per week als het aantal uren per week dat de verlofganger verlof opneemt met een minimum van 18 uur per week.
+
 De vervanger die door het bevoegd gezag in dienst wordt genomen hoeft niet de functie van de verlofganger over te nemen.
 
-De uitkering wordt verleend over de in verlofperiode liggende volle kalendermaanden gedurende ten hoogste zes maanden, tenzij bij CAO (of met het personeelsdeel van de medezeggenschapsraad) hierover andere afspraken zijn gemaakt. De [Wet financiering loopbaanonderbreking](onbekend) stelt als voorwaarde voor toekenning van de uitkering dat in een aaneengesloten periode van 12 maanden voorafgaande aan de verlofopname door betrokkene geen uitkering op grond van die wet is ontvangen. Bij CAO dan wel in een afspraak met de personeelsvertegenwoordiging kan echter worden afgesproken om deze bepaling niet toe te passen. In dat geval kan de uitkering gedurende 18 maanden worden toegekend. Per maand bedraagt de hoogte van de uitkering voor elk uur verlof dat per week wordt opgenomen bruto ƒ25,25. Maximaal bedraagt de uitkering bruto ƒ960,- per maand. De uitkering moet worden aangevraagd bij het LISV en voor het onderwijs wordt de wet uitgevoerd door de Stichting Uitvoeringsinstelling Sociale Zekerheid voor Overheid en onderwijs (USZO).
+De uitkering wordt verleend over de in verlofperiode liggende volle kalendermaanden gedurende ten hoogste zes maanden, tenzij bij CAO (of met het personeelsdeel van de medezeggenschapsraad) hierover andere afspraken zijn gemaakt. De Wet financiering loopbaanonderbreking stelt als voorwaarde voor toekenning van de uitkering dat in een aaneengesloten periode van 12 maanden voorafgaande aan de verlofopname door betrokkene geen uitkering op grond van die wet is ontvangen. Bij CAO dan wel in een afspraak met de personeelsvertegenwoordiging kan echter worden afgesproken om deze bepaling niet toe te passen. In dat geval kan de uitkering gedurende 18 maanden worden toegekend. Per maand bedraagt de hoogte van de uitkering voor elk uur verlof dat per week wordt opgenomen bruto ƒ25,25. Maximaal bedraagt de uitkering bruto ƒ960,- per maand. De uitkering moet worden aangevraagd bij het LISV en voor het onderwijs wordt de wet uitgevoerd door de Stichting Uitvoeringsinstelling Sociale Zekerheid voor Overheid en onderwijs (USZO).
 
 ### 8. Mogelijke negatieve gevolgen voor de sociale zekerheid bij het opnemen van ouderschapsverlof gedurende een langere periode
 
-Het opnemen van onbetaald verlof gedurende een langere periode kan bij de toepassing van verschillende sociale zekerheidsregelingen gevolgen hebben voor bijvoorbeeld de vaststelling van het arbeidsverleden, het verlies aan arbeidsuren of de referte-eis. [De Wet houdende wijziging van de Ziektewet, de WAO, de WW en enkele andere wetten in verband met het wegnemen van belemmeringen bij het opnemen van onbetaald verlof](onbekend) (Staatsblad 1998, 412) beperkt deze gevolgen gedurende een periode van maximaal 18 maanden in gevallen van onbetaald verlof.
+Het opnemen van onbetaald verlof gedurende een langere periode kan bij de toepassing van verschillende sociale zekerheidsregelingen gevolgen hebben voor bijvoorbeeld de vaststelling van het arbeidsverleden, het verlies aan arbeidsuren of de referte-eis. De Wet houdende wijziging van de Ziektewet, de WAO, de WW en enkele andere wetten in verband met het wegnemen van belemmeringen bij het opnemen van onbetaald verlof (Staatsblad 1998, 412) beperkt deze gevolgen gedurende een periode van maximaal 18 maanden in gevallen van onbetaald verlof.
 
 De regelingen met betrekking tot de sociale zekerheid voor het onderwijspersoneel zullen op overeenkomstige wijze worden aangepast.
 

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, houdende nadere voorschriften omtrent de toepassing van NEN 5897 en omtrent het voorhanden hebben van een asbestbevattende weg"
+citeertitel: "Regeling nadere voorschriften asbestwegen milieubeheer"
 identifier: "BWBR0011658"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-11-30"
-last_updated: "2018-11-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011658"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "4539073"
-version_id: "15362512"
-internal_id: "C20940761"
-label_id: "4517394"
-dtd_version: "2.0"
-original_entry_into_force: "2008-05-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011658/2018-11-30/0"
-intitule_bron: "Stcrt.2000-190"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-22"
-intitule_published: "2000-10-02"
-intitule_in_force: "2000-10-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-101"
-original_signed_date: "2008-05-21"
-original_published_date: "2008-05-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2008-101-p12-SC85769"
-entry_into_force_date: "2008-05-21"
-jci_1_3: "jci1.3:c:BWBR0011658&z=2018-11-30&g=2018-11-30"
-jci_1_0: "1.0:c:BWBR0011658&g=2018-11-30"
-citeertitel_status: "officieel"
-short_title: "Regeling nadere voorschriften asbestwegen milieubeheer"
-signed_date: "2008-05-21"
-entry_into_force: "2008-05-21"
+publicatiedatum: 2008-05-21
+laatste_update: 2018-11-30
+status: geldig
+toestand: 2018-11-30
+bron: "https://wetten.overheid.nl/BWBR0011658"
+opgehaald: 2026-08-05
 ---
+
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, houdende nadere voorschriften omtrent de toepassing van NEN 5897 en omtrent het voorhanden hebben van een asbestbevattende weg
-
-Gelet op [artikel 2, tweede en vierde lid, van het Besluit asbestwegen Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -56,9 +30,13 @@ Een asbestbevattende weg mag voorhanden worden gehouden indien de weg behoort to
 
 - b. die weg een duurzame afscherming van het asbest heeft, welke afscherming bestaat uit:
 
-- 1e. asfalt, klinkers of beton, welke afscherming in een goede staat verkeert, of
+   - 1e. asfalt, klinkers of beton, welke afscherming in een goede staat verkeert, of
 
-- 2e. een laag zand, grond, puingranulaat of materiaal dat een vergelijkbare afscherming biedt, waarvan de dikte ten minste 0,2 m is.
+   - 2e. een laag zand, grond, puingranulaat of materiaal dat een vergelijkbare afscherming biedt, waarvan de dikte ten minste 0,2 m is.
+
+##### Artikel 3a
+
+Deze regeling berust op [artikel 2, tweede en vierde lid, van het Besluit asbestwegen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&artikel=2).
 
 ##### Artikel 4
 
@@ -67,11 +45,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling nadere voorschriften asbestwegen milieubeheer.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-Deze regeling berust op [artikel 2, tweede en vierde lid, van het Besluit asbestwegen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&artikel=2).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

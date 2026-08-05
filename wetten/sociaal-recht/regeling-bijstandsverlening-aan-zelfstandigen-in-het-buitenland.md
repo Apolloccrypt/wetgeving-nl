@@ -1,54 +1,29 @@
 ---
 title: "Regeling bijstandsverlening aan zelfstandigen in het buitenland"
 identifier: "BWBR0011643"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011643"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "5090963"
-version_id: "9946452"
-internal_id: "C13428541"
-label_id: "5066614"
-dtd_version: "2.0"
-original_entry_into_force: "2003-11-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011643/2015-01-01/0"
-intitule_bron: "Stcrt.2000-188"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-18"
-intitule_published: "2000-09-28"
-intitule_in_force: "2000-09-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-244"
-original_signed_date: "2003-11-25"
-original_published_date: "2003-12-17"
-original_effect: "structuurwijziging"
-entry_into_force_date: "2003-11-25"
-jci_1_3: "jci1.3:c:BWBR0011643&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0011643&g=2015-01-01"
-citeertitel_status: "officieel"
-signed_date: "2003-11-25"
-entry_into_force: "2003-11-25"
+publicatiedatum: 2003-11-25
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0011643"
+opgehaald: 2026-08-05
 ---
+
 # Regeling bijstandsverlening aan zelfstandigen in het buitenland
-
-Gelet op [artikel 144a, eerste lid, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=144a),
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **de wet:** de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
+- a. *de wet:* de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
 
-- b. **het Bbz 2004:** het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711);
+- b. *het Bbz 2004:* het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711);
 
-- c. **de minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- c. *de minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- d. **boekjaar:**de periode van 12 maanden waarover de administratie van de zelfstandige wordt gevoerd.
+- d. *boekjaar:*de periode van 12 maanden waarover de administratie van de zelfstandige wordt gevoerd.
 
 ##### Artikel 2
 
@@ -84,18 +59,10 @@ De bijstand kan worden betaald door tussenkomst van het hoofd van de Nederlandse
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-##### Artikel 8
-
-Deze regeling wordt aangehaald als: Regeling bijstandsverlening aan zelfstandigen in het buitenland.
-
-## Bijlage
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 7a. Wijziging wettelijke grondslag
 
 Deze regeling berust op [artikel 37, eerste lid, van het Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=37).
 
-## Bijlage
+##### Artikel 8
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling bijstandsverlening aan zelfstandigen in het buitenland.

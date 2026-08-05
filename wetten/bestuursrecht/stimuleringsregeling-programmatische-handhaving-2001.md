@@ -1,46 +1,63 @@
 ---
 title: "Stimuleringsregeling Programmatische Handhaving 2001"
 identifier: "BWBR0012600"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-06-27"
-last_updated: "2001-06-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012600"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3629253"
-version_id: "5412342"
-internal_id: "C5605431"
-label_id: "3609224"
-dtd_version: "2.0"
-original_entry_into_force: "2001-06-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012600/2001-06-27/0"
-intitule_bron: "Stcrt.2001-119"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-06-21"
-intitule_published: "2001-06-25"
-intitule_in_force: "2001-06-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-119"
-original_signed_date: "2001-06-21"
-original_published_date: "2001-06-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-06-27"
-jci_1_3: "jci1.3:c:BWBR0012600&z=2001-06-27&g=2001-06-27"
-jci_1_0: "1.0:c:BWBR0012600&g=2001-06-27"
-citeertitel_status: "officieel"
-signed_date: "2001-06-21"
-entry_into_force: "2001-06-27"
+publicatiedatum: 2001-06-27
+laatste_update: 2001-06-27
+status: geldig
+toestand: 2001-06-27
+bron: "https://wetten.overheid.nl/BWBR0012600"
+opgehaald: 2026-08-05
 ---
+
 # Stimuleringsregeling Programmatische Handhaving 2001
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) en [artikel 98 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=98);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+minister:
+
+de Minister van Justitie;
+
+b.
+
+aanvraag:
+
+een verzoek om verlening van een bijdrage, als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012600&artikel=2&z=2001-06-27&g=2001-06-27);
+
+c.
+
+aanvrager:
+
+een gemeente, een provincie of een waterschap die een aanvraag doet op grond van deze regeling, eventueel mede namens een samenwerkingsverband met andere gemeenten, provincies, waterschappen en andere bestuursorganen;
+
+d.
+
+handhaving:
+
+doen naleven van rechtsregels;
+
+e.
+
+handhavingsbeleid:
+
+beleid om naleving van rechtsregels te bewerkstelligen;
+
+f.
+
+lokaal handhavingsprogramma:
+
+een document waarin het handhavingsbeleid in een gemeente, een provincie, een waterschap of een samenwerkingsverband van gemeenten, provincies, waterschappen en andere bestuursorganen en de activiteiten die leiden tot het realiseren van dit handhavingsbeleid worden beschreven;
+
+g.
+
+programmatische handhaving:
+
+het uitvoeren van handhavingsbeleid overeenkomstig een van te voren vastgesteld handhavingsprogramma.
 
 ##### Artikel 2
 
@@ -123,5 +140,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Stimuleringsregeling Programmatische Handhaving 2001.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

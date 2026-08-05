@@ -1,50 +1,18 @@
 ---
 title: "Wet van 21 december 2000, houdende regels met betrekking tot het beëindigen van de overeenkomst van samenwerking van de elektriciteitsproductiesector en tot het aandeelhouderschap van de netbeheerder van het landelijk hoogspanningsnet (Overgangswet elektriciteitsproductiesector)"
+citeertitel: "Overgangswet elektriciteitsproductiesector"
 identifier: "BWBR0012088"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012088"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2904993"
-version_id: "4474922"
-internal_id: "C4474921"
-label_id: "2853104"
-dtd_version: "2.0"
-original_entry_into_force: "2000-12-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012088/2013-01-01/0"
-intitule_bron: "Stb.2000-607"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-21"
-intitule_published: "2000-12-28"
-intitule_in_force: "2000-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2000-607"
-original_signed_date: "2000-12-21"
-original_published_date: "2000-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "27250"
-original_url_id: "stb-2000-607"
-entry_into_force_date: "2000-12-29"
-entry_into_force_dossier: "27250"
-jci_1_3: "jci1.3:c:BWBR0012088&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0012088&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Overgangswet elektriciteitsproductiesector"
-signed_date: "2000-12-21"
-entry_into_force: "2000-12-29"
+publicatiedatum: 2000-12-29
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0012088"
+opgehaald: 2026-08-05
 ---
+
 # Wet van 21 december 2000, houdende regels met betrekking tot het beëindigen van de overeenkomst van samenwerking van de elektriciteitsproductiesector en tot het aandeelhouderschap van de netbeheerder van het landelijk hoogspanningsnet (Overgangswet elektriciteitsproductiesector)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is in verband met de liberalisering van de elektriciteitsproductie te voorzien in regels voor de verdeling van rechten en verplichtingen bij de beëindiging van de overeenkomst van samenwerking van de elektriciteitsproductiesector, voor de tegemoetkoming in de daarmee verband houdende kosten van die sector en voor de overgang van de meerderheid van de aandelen van de vennootschap die is aangewezen als netbeheerder van het landelijk hoogspanningsnet naar de Staat;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Werkt terug tot en met 1 augustus 2000.
 
 #### Paragraaf 1. Algemeen
 
@@ -100,11 +68,15 @@ De productiebedrijven hebben naar rato van hun bijdrage in de kosten, bedoeld in
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister verstrekt jaarlijks tot 1 januari 2011 een tegemoetkoming:
+
+- a. in de kosten die voortvloeien uit overeenkomsten met betrekking tot stadsverwarming die tussen productiebedrijven en leveranciers zijn gesloten voor het tijdstip van intrekking van de Elektriciteitswet 1989, voor zover de daarbij overeengekomen projecten in uitvoering zijn genomen voor dat tijdstip, en
+
+- b. in de kosten verbonden aan het vervreemden en overdragen van de aandelen van de n.v. Demkolec of van de experimentele kolenvergassingsinstallatie Demkolec.
 
 ##### Artikel 8
 
@@ -142,7 +114,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 #### Paragraaf 5. Overige bepalingen
 
@@ -156,7 +128,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -166,29 +138,29 @@ Vervallen
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 6. Wijziging andere wetten
 
 ##### Artikel 16
 
-Wijzigt de Elektriciteitswet 1998.
+*Wijzigt de Elektriciteitswet 1998.*
 
 ##### Artikel 17
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 18
 
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
+*Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.*
 
 ##### Artikel 19
 
-Wijzigt de Wet energiedistributie.
+*Wijzigt de Wet energiedistributie.*
 
 ##### Artikel 20
 
-Wijzigt de Gaswet.
+*Wijzigt de Gaswet.*
 
 #### Paragraaf 7. Slotbepalingen
 
@@ -223,5 +195,3 @@ Deze wet wordt aangehaald als: Overgangswet elektriciteitsproductiesector.
 4. [Artikel 69, tweede en derde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=69) vervalt met ingang van een bij koninklijk besluit te bepalen datum.
 
 5. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=4&artikel=11&z=2013-01-01&g=2013-01-01) vervalt drie jaar na haar tijdstip van inwerkingtreding.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

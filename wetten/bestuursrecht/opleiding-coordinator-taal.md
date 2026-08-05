@@ -1,36 +1,16 @@
 ---
 title: "Opleiding coördinator taal"
 identifier: "BWBR0012309"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-03-21"
-last_updated: "2001-03-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012309"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6483093"
-version_id: "11162252"
-internal_id: "C15084501"
-label_id: "6471864"
-original_entry_into_force: "2001-03-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012309/2001-03-21/0"
-intitule_bron: "Uitleg.2001-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-03-09"
-intitule_published: "2001-03-21"
-intitule_in_force: "2001-03-21"
-intitule_status: "goed"
-original_publication: "Uitleg.2001-8"
-original_signed_date: "2001-03-09"
-original_published_date: "2001-03-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-03-21"
-jci_1_3: "jci1.3:c:BWBR0012309&z=2001-03-21&g=2001-03-21"
-jci_1_0: "1.0:c:BWBR0012309&g=2001-03-21"
-citeertitel_status: "redactioneel"
-signed_date: "2001-03-09"
-entry_into_force: "2001-03-21"
+publicatiedatum: 2001-03-21
+laatste_update: 2001-03-21
+status: geldig
+toestand: 2001-03-21
+bron: "https://wetten.overheid.nl/BWBR0012309"
+opgehaald: 2026-08-05
 ---
+
 # Opleiding coördinator taal
 
 ### Inleiding
@@ -40,6 +20,12 @@ In het opleidingsjaar 2001-2002 wordt voor het eerst de post-hbo opleiding ’Co
 ### Algemeen
 
 De coördinator taal kan een centrale rol spelen op de basisschool bij het doorvoeren van vernieuwingen en verbeteringen op het gebied van taalonderwijs. De coördinator taal voert in overleg met management en leerkrachten van de school en in overleg met de inspectie stapsgewijs de verbeteringen in die ertoe leiden dat:
+
+- het taalonderwijs (meer) interactief en adaptief wordt;
+
+- de mondelinge en schriftelijke productieve taalontwikkeling van leerlingen verbetert;
+
+- de resultaten op het gebied van taal op de basisschool vooruitgaan.
 
 Naast het individuele leertraject van deelnemers is de opleiding direct van belang voor de processen in de school-praktijk van de deelnemer. Het management en het team van de school worden nadrukkelijk betrokken bij de opleiding. De directeur is enkele keren aanwezig bij de opleiding. In de school dient ruimte te zijn om activiteiten vanuit de opleiding uit te voeren.
 
@@ -57,11 +43,25 @@ Bij de start van de opleiding vindt met elke deelnemer en bij voorkeur ook met d
 
 In de opleiding komen de volgende onderwerpen geïntegreerd aan de orde:
 
+- interactief taalonderwijs, waaronder aandacht voor individuele verschillen en tweedetaalonderwijs;
+
+- taalbeleid;
+
+- coaching en begeleiding.
+
 Interactief taalonderwijs gaat ervan uit dat kinderen taal leren in een krachtige leeromgeving die authentiek, sociaal, strategisch leren van taal bevordert, die kinderen aanzet tot zelfstandig leren en rekening houdt met individuele verschillen.
 
 Taalbeleid wordt opgesteld vanuit een door het team gedragen visie op (taal)onderwijs en is gericht op alle activiteiten binnen een school waarbij taal een rol speelt. Taalbeleid analyseert goede en minder goede aspecten van (taal)onderwijs en leidt tot maatregelen ter verbetering.
 
 De opleiding steunt op de volgende uitgangspunten:
+
+- constructivisme;
+
+- kleinschalige, schoolnabije implementatie vanuit collegiale samenwerking;
+
+- praktijkgerichtheid;
+
+- functioneel gebruik van (innovatieve) ICT.
 
 ### Doelgroep
 
@@ -100,5 +100,3 @@ Belangstellenden kunnen zich aanmelden bij één van de in de bijgevoegde lijst 
 De aanmelding van de deelnemer dient vergezeld te gaan van een handtekening van het bevoegd gezag of de directeur van de school. Deelnemers wordt verzocht bij aanmelding bij een hogeschool het BRIN-nummer van hun school te vermelden.
 
 Aanmelding voor de opleiding vindt plaats uiterlijk vóór 1 mei voorafgaand aan het opleidingsjaar waarin de opleiding wordt gevolgd. Plaatsing geschiedt op volgorde van binnenkomst.
-
-## Aanbieders Opleiding Coördinator Taal

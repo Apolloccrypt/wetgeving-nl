@@ -1,42 +1,17 @@
 ---
 title: "Regeling gehandicaptenparkeerkaart"
 identifier: "BWBR0012625"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012625"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4832923"
-version_id: "6640652"
-internal_id: "C7156031"
-label_id: "4811004"
-dtd_version: "2.0"
-original_entry_into_force: "2001-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012625/2013-01-01/0"
-intitule_bron: "Stcrt.2001-130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-02"
-intitule_published: "2001-07-10"
-intitule_in_force: "2001-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-130"
-original_signed_date: "2001-07-02"
-original_published_date: "2001-07-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-10-01"
-jci_1_3: "jci1.3:c:BWBR0012625&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0012625&g=2013-01-01"
-citeertitel_status: "officieel"
-signed_date: "2001-07-02"
-entry_into_force: "2001-10-01"
+publicatiedatum: 2001-10-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0012625"
+opgehaald: 2026-08-05
 ---
+
 # Regeling gehandicaptenparkeerkaart
-
-Gelet op artikel 13, tweede lid, van de Wegenverkeerswet 1994, de artikelen 49 en 55 van het Besluit administratieve bepalingen inzake het wegverkeer en de artikelen 85 en 86 van het Reglement verkeersregels en verkeerstekens 1990;
-
-Besluit:
 
 #### Paragraaf 1. Criteria voor de afgifte van gehandicaptenparkeerkaarten
 
@@ -119,11 +94,3 @@ Deze regeling treedt in werking met ingang van 1 oktober 2001.
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling gehandicaptenparkeerkaart.
-
-## Bijlage
-
-- •. Indien de kaart wordt verstrekt aan een instelling als bedoeld in artikel 1, eerste lid, onderdeel e, wordt: geen pasfoto op de kaart aangebracht. Voorts wordt in dat geval bij ‘Naam’ de naam van de directeur van de instelling, en bij ‘Voornaam’ de naam van de instelling vermeld.
-
-- •. De kaart is pas geldig indien hij volledig is ingevuld en ondertekend door de houder of, indien het om een kind gaat, door een van de ouders of verzorgers.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

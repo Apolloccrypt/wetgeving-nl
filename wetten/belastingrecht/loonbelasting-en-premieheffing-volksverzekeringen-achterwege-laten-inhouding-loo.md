@@ -1,40 +1,17 @@
 ---
 title: "Loonbelasting en premieheffing volksverzekeringen, achterwege laten inhouding loonheffing au-pairs"
 identifier: "BWBR0012080"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-01-01"
-last_updated: "2001-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012080"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8332863"
-version_id: "13202842"
-internal_id: "C18406881"
-label_id: "8313734"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012080/2001-01-01/0"
-intitule_bron: "Infob.2001-5"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-21"
-intitule_published: "2001-01-01"
-intitule_in_force: "2001-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2001-5"
-original_signed_date: "2000-12-21"
-original_published_date: "2001-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0012080&z=2001-01-01&g=2001-01-01"
-jci_1_0: "1.0:c:BWBR0012080&g=2001-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2000-12-21"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2001-01-01
+status: geldig
+toestand: 2001-01-01
+bron: "https://wetten.overheid.nl/BWBR0012080"
+opgehaald: 2026-08-05
 ---
-# Loonbelasting en premieheffing volksverzekeringen, achterwege laten inhouding loonheffing au-pairs
 
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Loonbelasting en premieheffing volksverzekeringen, achterwege laten inhouding loonheffing au-pairs
 
 Dit besluit is een herdruk van het besluit van 12 december 1995, nr. DB95/4740M voor de heffing van de loonbelasting/premie volksverzekeringen en is opnieuw uitgebracht voor de toepassing van de Wet IB 2001.
 
@@ -43,6 +20,10 @@ Dit besluit is een herdruk van het besluit van 12 december 1995, nr. DB95/4740M 
 Een au-pair is een jonge buitenlander die in het kader van culturele uitwisseling tijdelijk (voor maximaal 12 maanden) in Nederland verblijft. Tijdens het verblijf worden in het gastgezin betaalde werkzaamheden verricht. De au-pair komt niet naar Nederland met als hoofddoel het verrichten van huishoudelijk werk en/of werkzaamheden ten behoeve van het gezin. Daarom is voor de au-pair op grond van de Wet arbeid vreemdelingen en de Uitvoeringsregels Wet arbeid vreemdelingen geen tewerkstellingsvergunning vereist.
 
 Voor de heffing van de loonbelasting/premie volksverzekeringen kan de au-pair worden omschreven als
+
+- – een natuurlijk persoon die in het gastgezin kost en inwoning geniet, en
+
+- – tegen vergoeding kinderopvang en lichte huishoudelijke werkzaamheden verricht.
 
 De voor het bestaan van een dienstbetrekking vereiste elementen loon, (persoonlijk) arbeid verrichten en een gezagsverhouding zijn in verhouding tussen de au-pair en het gastgezin in het algemeen aanwezig. De omstandigheid dat de verhouding tussen het gastgezin en de au-pair mede gezien het culturele aspect niet uitsluitend wordt bepaald door het ‘arbeidscontract’ doet hier niets aan af. Het Hof Arnhem heeft dit in een concreet geval bevestigd (Hof Arnhem, 14-2-1995, rolnummer 940336, VN 1995. blz. 1557).
 
@@ -59,3 +40,17 @@ De eventueel ingehouden loonbelasting/premie volksverzekeringen zal in een groot
 De resultaten van het onderzoek hebben mij aanleiding gegeven ten aanzien van au-pairs de navolgende regeling te treffen.
 
 Ik keur om doelmatigheidsredenen voorzover nodig goed dat de inhouding van loonbelasting/premie volksverzekeringen en de daarmee samenhangende verplichtingen ten aanzien van een au-pair achterwege kunnen blijven indien:
+
+- a. het een au-pair betreft waarvoor op grond van de Wet arbeid vreemdelingen en de Uitvoeringsregels Wet arbeid vreemdelingen geen tewerkstellingsvergunning is vereist;
+
+- b. de beloning die de au-pair voor de te verrichten werkzaamheden in de huishouding en terzake van de verzorging en opvang van kinderen van het gastgezin ontvangt uitsluitend of nagenoeg uitsluitend bestaat uit:
+
+   - 1. kost en inwoning;
+
+   - 2. een vergoeding voor ziektekosten- en aansprakelijkheidsverzekeringen;
+
+   - 3. een geldbedrag van maximaal f 750 (€ 340) per maand, dat mede dient ter bestrijding van de door de au-pair te maken kosten voor reizen van en naar Nederland en bemiddelings-, inschrijvings-, visumkosten en andere direct met de (aanvaarding van de) dienstbetrekking samenhangende kosten;
+
+- c. de onder letter b bedoelde beloningen en de hoogte van het geldbedrag vastgelegd worden in een tussen de au-pair en het gastgezin te sluiten overeenkomst;
+
+- d. de au-pair geen ander belastbaar inkomen geniet in de zin van de Wet inkomstenbelasting 2001.

@@ -1,37 +1,16 @@
 ---
 title: "Ziektekostentegemoetkoming per 1 januari 2001"
 identifier: "BWBR0012397"
-country: "nl"
-rank: "circulaire"
-publication_date: "2001-01-01"
-last_updated: "2001-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012397"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6256573"
-version_id: "10938472"
-internal_id: "C14831861"
-label_id: "6245444"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012397/2001-01-01/0"
-intitule_bron: "Stcrt.2001-81"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-04-04"
-intitule_published: "2001-04-26"
-intitule_in_force: "2001-04-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-81"
-original_signed_date: "2001-04-04"
-original_published_date: "2001-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-81-p8-SC29033"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0012397&z=2001-01-01&g=2001-01-01"
-jci_1_0: "1.0:c:BWBR0012397&g=2001-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-04-04"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2001-01-01
+status: geldig
+toestand: 2001-01-01
+bron: "https://wetten.overheid.nl/BWBR0012397"
+opgehaald: 2026-08-05
 ---
+
 # Ziektekostentegemoetkoming per 1 januari 2001
 
 ### I. Samenvatting
@@ -48,10 +27,34 @@ De MOOZ-bijdrage en de WTZ-bijdrage zijn voor het jaar 2001 vastgesteld op f 18,
 
 Op basis van de nieuwe systematiek worden de bedragen:
 
+- a. Voor (mede)betrokkenen (bedoeld in artikel 4, tweede lid, onder a, Btzr): f 117,94 (= f 9,25 MOOZ + f 19,40 WTZ + f 89,29 premie).
+
+- b. Voor één medebetrokken kind jonger dan 16 jaar (bedoeld in artikel 4, tweede lid, onder b, Btzr) en voor medebetrokken kinderen van 16 tot en met 19 jaar (bedoeld in artikel 4, tweede lid, onder c, Btzr): f 58,98 (= f 4,63 MOOZ + f 9,70 WTZ + f 44,65 premie).
+
+- c. Voor medebetrokken kinderen van 20 tot en met 26 jaar (bedoeld in artikel 4, tweede lid, onder c, Btzr): f 73,30 (= f 9,25 MOOZ + f 19,40 WTZ + f 44,65 premie).
+
 ### IV. Vaststelling van de ziektekostentegemoetkomingen per 1 januari 2001
 
 Aangezien de bedragen zoals die zijn vastgesteld voor 1999 hoger zijn dan de bedragen berekend volgens de nieuwe systematiek worden de bedragen van 1999 in 2001 gehandhaafd.
 
 Het bedrag van de tegemoetkoming per maand is vanaf 1 januari 2001:
+
+- a. Voor (mede)betrokkenen (bedoeld in artikel 4, tweede lid, onder a, Btzr):
+
+   - 1. f 143,82 (€ 65,26);
+
+   - 2. voor (mede)betrokkenen met een WTZ-standaardpolis als bedoeld in artikel 4, derde lid wordt dit bedrag vermeerderd met f 5,00 (€ 2,27).
+
+- b. Voor één medebetrokken kind jonger dan 16 jaar (bedoeld in artikel 4, tweede lid, onder b, Btzr):
+
+   - 1. f 71,91 (€ 32,63);
+
+   - 2. indien verzekerd via een WTZ-standaardpolis als bedoeld in in artikel 4, derde lid wordt dit bedrag vermeerderd met f 2,50 (€ 1,13).
+
+- c. Voor medebetrokken kinderen van 16 tot en met 26 jaar (bedoeld in artikel 4, tweede lid, onder c, Btzr):
+
+   - 1. f 85,36 (€ 38,73);
+
+   - 2. indien verzekerd via een WTZ-standaardpolis als bedoeld in artikel 4, derde lid wordt dit bedrag vermeerderd met f 2,50 (€ 1,13).
 
 Ik verzoek u met het bovenstaande rekening te houden. Inlichtingen uitsluitend voor afdelingen Personeelszaken van geadresseerden bij mevrouw Van Ogtrop, mevrouw Schröter respectievelijk het secretariaat van de afdeling Pensioenen Sociale Zekerheid en Zorg (telefoon (070) 426 6900, 426 8049 respectievelijk 426 6996).

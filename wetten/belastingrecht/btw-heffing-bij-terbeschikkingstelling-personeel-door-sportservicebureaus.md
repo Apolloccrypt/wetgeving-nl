@@ -1,40 +1,17 @@
 ---
 title: "BTW-heffing bij terbeschikkingstelling personeel door sportservicebureaus"
 identifier: "BWBR0011215"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2000-03-10"
-last_updated: "2000-03-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011215"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8362003"
-version_id: "13233862"
-internal_id: "C18422181"
-label_id: "8342834"
-dtd_version: "2.0"
-original_entry_into_force: "2000-03-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011215/2000-03-10/0"
-intitule_bron: "Infob.2000-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-03-10"
-intitule_published: "2000-01-01"
-intitule_in_force: "2000-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2000-2"
-original_signed_date: "2000-03-10"
-original_published_date: "2000-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-03-10"
-jci_1_3: "jci1.3:c:BWBR0011215&z=2000-03-10&g=2000-03-10"
-jci_1_0: "1.0:c:BWBR0011215&g=2000-03-10"
-citeertitel_status: "redactioneel"
-signed_date: "2000-03-10"
-entry_into_force: "2000-03-10"
+publicatiedatum: 2000-03-10
+laatste_update: 2000-03-10
+status: geldig
+toestand: 2000-03-10
+bron: "https://wetten.overheid.nl/BWBR0011215"
+opgehaald: 2026-08-05
 ---
-# BTW-heffing bij terbeschikkingstelling personeel door sportservicebureaus
 
-De plv. Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# BTW-heffing bij terbeschikkingstelling personeel door sportservicebureaus
 
 ### 1. Activiteiten sportservicebureaus
 
@@ -45,6 +22,18 @@ Indien een sportservicebureau op verzoek van een sportvereniging als formeel wer
 ### 2. Toepassing van Wet op de omzetbelasting 1968
 
 Ter zake van het ter beschikking stellen van personeel is in beginsel omzetbelasting verschuldigd. Gelet evenwel op het bijzondere karakter van de hiervoor onder 1. vermelde overeenkomsten kunnen de onderwerpelijke sportservicebureaus met betrekking tot het ter beschikking stellen van trainers en/of coaches aan sportverenigingen buiten de heffing van omzetbelasting blijven indien wordt voldaan aan de volgende voorwaarden:
+
+- 1. de trainer of coach dient ter beschikking worden gesteld aan een ondernemer als bedoeld in artikel 11, eerste lid, onderdeel e, van de Wet op de omzetbelasting 1968 (hierna: Wet) casu quo artikel 11, eerste lid, onderdeel f, van de Wet, juncto artikel 7 van Uitvoeringsbesluit omzetbelasting 1968 en post b 21 van bijlage B, behorende bij dat Besluit;
+
+- 2. de arbeidsovereenkomst moet betrekking hebben op ten minste een geheel seizoen in de desbetreffende tak van sport;
+
+- 3. de sportvereniging waar een trainer of coach feitelijk zijn werkzaamheden zal gaan uitvoeren, moet inhoudelijk zijn betrokken bij de sollicitatieprocedure van die trainer of coach;
+
+- 4. de werkzaamheden van de trainer of coach mogen niet primair gericht zijn op het geven van sportlessen tegen een afzonderlijke vergoeding;
+
+- 5. de vergoeding voor het ter beschikking stellen van de trainer of coach dient beperkt te blijven tot de brutoloonkosten van de betrokken werknemer(s) en een eventuele bijdrage in een risicofonds voor de gevolgen van arbeidsongeschiktheid of arbeidsrechtelijke conflicten. Het berekenen van een redelijke vergoeding voor de werkzaamheden welke zijn verbonden aan het formeel werkgeverschap staat toepassing van de onderwerpelijke goedkeuring niet in de weg, mits met het ter beschikking stellen van personeel als geheel geen winst wordt beoogd of gemaakt, met dien verstande dat een incidenteel exploitatie-overschot niet direct tot heffing van omzetbelasting zal leiden als dat overschot wordt aangewend ten behoeve van de dienstverlening door het sportservicebureau jegens sportverenigingen;
+
+- 6. de sportvereniging dient de financiële gevolgen te dragen van een (voortijdige) beëindiging van de arbeidsovereenkomst(en) tussen de trainer(s) en/of coach(es) en het sportservicebureau dat de betrokken werknemer(s) heeft uitgeleend aan de sportvereniging.
 
 Aan deze goedkeuring verbind ik de voorwaarde dat het betrokken sportservicebureau geen aanspraak maakt op aftrek van de aan hem in rekening gebrachte omzetbelasting.
 

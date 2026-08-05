@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 7 september 2000, houdende vaststelling leges visserijdocumenten (Legesbesluit visserijdocumenten)"
+citeertitel: "Legesbesluit visserijdocumenten"
 identifier: "BWBR0011616"
-country: "nl"
-rank: "amvb"
-publication_date: "2006-04-12"
-last_updated: "2006-04-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011616"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1423673"
-version_id: "2134552"
-internal_id: "C2134551"
-label_id: "1381694"
-dtd_version: "2.0"
-original_entry_into_force: "2001-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011616/2006-04-12/0"
-intitule_bron: "Stb.2000-492"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-07"
-intitule_published: "2000-11-28"
-intitule_in_force: "2001-10-25"
-intitule_status: "goed"
-original_publication: "Stb.2000-492"
-original_signed_date: "2000-09-07"
-original_published_date: "2000-11-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2000-492"
-entry_into_force_date: "2001-11-01"
-jci_1_3: "jci1.3:c:BWBR0011616&z=2006-04-12&g=2006-04-12"
-jci_1_0: "1.0:c:BWBR0011616&g=2006-04-12"
-citeertitel_status: "officieel"
-short_title: "Legesbesluit visserijdocumenten"
-signed_date: "2000-09-07"
-entry_into_force: "2001-11-01"
+publicatiedatum: 2001-11-01
+laatste_update: 2006-04-12
+status: geldig
+toestand: 2006-04-12
+bron: "https://wetten.overheid.nl/BWBR0011616"
+opgehaald: 2026-08-05
 ---
+
 # Besluit van 7 september 2000, houdende vaststelling leges visserijdocumenten (Legesbesluit visserijdocumenten)
-
-Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 20 juli 2000, no. TRCJZ/2000/9628, Directie Juridische Zaken;
-
-Gelet op [artikel 74, eerste lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=74);
-
-De Raad van State gehoord (advies van 10 augustus 2000, no. W11.00.0323/V);
-
-Gezien het nader rapport van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 31 augustus 2000, no. TRCJZ/2000/10981, Directie Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -77,7 +45,7 @@ In dit besluit wordt verstaan onder vissersvaartuig: vissersvaartuig als bedoeld
 | t. | ontheffing van de voorschriften betreffende de minimummaten van gevangen vis, betreffende het gebruik of het voor handen hebben van vistuigen en betreffende de wateren onderscheidenlijk de tijdvakken, waar onderscheidenlijk waarin de visserij of de verhandeling van vis is verboden: | € 176,97; |
 | u. | ontheffing van de voorschriften betreffende de visserij met een electrovisapparaat: | € 68,07; |
 | v. | ontheffing van de voorschriften betreffende de visserij op bepaalde vissoorten in bepaalde wateren, betreffende de aanwezigheid aan boord en het gebruik van vistuigen, betreffende de verwerking van vis aan boord en betreffende het maximale aantal dagen dat een vissersvaartuig in een bepaald gebied aanwezig mag zijn: | € 306,50. |
-|   |   |   |
+|  |  |  |
 
 2. Voor de uitreiking van de bescheiden, bedoeld in de onderdelen a tot en met n, is degene aan wie het document is gericht het daarachter vermelde bedrag verschuldigd:
 
@@ -110,5 +78,3 @@ Indien op aanvraag voor één handeling twee of meer verschillende ontheffingen 
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Legesbesluit visserijdocumenten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

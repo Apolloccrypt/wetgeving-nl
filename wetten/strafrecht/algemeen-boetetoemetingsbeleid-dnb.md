@@ -8,7 +8,7 @@ laatste_update: 2026-07-30
 status: geldig
 toestand: 2026-07-30
 bron: "https://wetten.overheid.nl/BWBR0044472"
-opgehaald: 2026-08-04
+opgehaald: 2026-08-05
 ---
 
 # Algemeen boetetoemetingsbeleid DNB

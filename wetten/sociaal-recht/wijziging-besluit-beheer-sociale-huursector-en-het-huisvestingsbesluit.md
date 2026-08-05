@@ -1,40 +1,17 @@
 ---
 title: "Wijziging Besluit beheer sociale huursector en het Huisvestingsbesluit"
 identifier: "BWBR0012097"
-country: "nl"
-rank: "circulaire"
-publication_date: "2001-02-19"
-last_updated: "2001-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012097"
+categorie: "Sociaal recht"
 soort: "circulaire"
-stam_id: "6361003"
-version_id: "11019662"
-internal_id: "C14915801"
-label_id: "6349884"
-original_entry_into_force: "2001-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012097/2001-02-19/0"
-intitule_bron: "Stcrt.2001-7"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-21"
-intitule_published: "2001-01-10"
-intitule_in_force: "2001-01-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-7"
-original_signed_date: "2000-12-21"
-original_published_date: "2001-01-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-7-p18-SC27347"
-entry_into_force_date: "2001-02-19"
-jci_1_3: "jci1.3:c:BWBR0012097&z=2001-02-19&g=2001-02-19"
-jci_1_0: "1.0:c:BWBR0012097&g=2001-02-19"
-citeertitel_status: "redactioneel"
-signed_date: "2000-12-21"
-entry_into_force: "2001-02-19"
+publicatiedatum: 2001-02-19
+laatste_update: 2001-02-19
+status: geldig
+toestand: 2001-02-19
+bron: "https://wetten.overheid.nl/BWBR0012097"
+opgehaald: 2026-08-05
 ---
-# Wijziging Besluit beheer sociale huursector en het Huisvestingsbesluit
 
-Geacht college, geacht bestuur,
+# Wijziging Besluit beheer sociale huursector en het Huisvestingsbesluit
 
 ### 1. Inleiding
 
@@ -44,13 +21,13 @@ Dit besluit is ook van toepassing op overeenkomsten die gemeenten op basis van [
 
 Voor de goede orde merk ik op dat dit besluit geen betrekking heeft op de randvoorwaarden die in acht moeten worden genomen, indien een gemeente ook economische en/of maatschappelijke bindingseisen zou willen stellen.
 
-Dit besluit is reeds aangekondigd in MG 97-15 van [14 juli 1997](onbekend) en MG 99-13 van [10 juni 1999](onbekend) en vervangt met ingang van 19 februari 2001 de inkomens- en huurprijsgrens zoals vermeld in MG 98-19 van [23 juli 1998](onbekend). Gemeenten hebben tot 1 juli 2001 de tijd om hun huisvestingsverordening in de pas te laten lopen met het [Huisvestingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005893) als door dit besluit gewijzigd.
+Dit besluit is reeds aangekondigd in MG 97-15 van 14 juli 1997 en MG 99-13 van 10 juni 1999 en vervangt met ingang van 19 februari 2001 de inkomens- en huurprijsgrens zoals vermeld in MG 98-19 van 23 juli 1998. Gemeenten hebben tot 1 juli 2001 de tijd om hun huisvestingsverordening in de pas te laten lopen met het [Huisvestingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005893) als door dit besluit gewijzigd.
 
 Voorts wordt door middel van dit besluit [aanhangsel E van het BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) gewijzigd. Met dit aanhangsel dienen - met ingang van het boekjaar 2001 - de toegelaten instellingen over de verhuur van woonruimten te rapporteren. Ik stel mij voor dat de toegelaten instellingen dit nieuwe aanhangsel reeds per 1 januari 2001 gaan gebruiken.
 
 Het besluit is opgesteld in overleg met de Vereniging van Nederlandse Gemeenten en Aedes, vereniging van woningcorporaties.
 
-### 2. Context van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011890)
+### 2. Context van het besluit
 
 De [Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674) en de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) (waarop het [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) is gebaseerd) gaan in beginsel uit van vrije vestiging van burgers in alle gemeenten. Alleen in gespannen woningmarkten mag gebruik worden gemaakt van een gemeentelijke verordening voor het verdelen van schaarse woonruimte aan een beperkte doelgroep (= huursubsidiegerechtigden), teneinde verdringingseffecten te voorkomen.
 
@@ -77,9 +54,3 @@ Het is de taak van gemeenten en verhuurders om bij de ontwikkeling en uitvoering
 ### 4. Slot
 
 De Vereniging van Nederlandse Gemeenten en Aedes, vereniging van woningcorporaties, hebben toegezegd de invoering van dit besluit te zullen begeleiden met informatie.
-
-## Bijlage. [Besluit tot wijziging van het Besluit beheer sociale-huursector (BBSH) en het Huisvestingsbesluit](onbekend)
-
-Niet opgenomen.
-
-## Bijlage. met adressen Inspectie van de Volkshuisvesting

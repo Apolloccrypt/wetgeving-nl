@@ -1,40 +1,17 @@
 ---
 title: "Beleid t.a.v. buitenlandse projecten toegelaten instellingen"
 identifier: "BWBR0012208"
-country: "nl"
-rank: "circulaire"
-publication_date: "2001-02-09"
-last_updated: "2001-02-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012208"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6360793"
-version_id: "11019502"
-internal_id: "C14915641"
-label_id: "6349724"
-original_entry_into_force: "2001-02-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012208/2001-02-09/0"
-intitule_bron: "Stcrt.2001-29"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-01-31"
-intitule_published: "2001-02-09"
-intitule_in_force: "2001-02-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-29"
-original_signed_date: "2001-01-31"
-original_published_date: "2001-02-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-29-p17-SC27861"
-entry_into_force_date: "2001-02-09"
-jci_1_3: "jci1.3:c:BWBR0012208&z=2001-02-09&g=2001-02-09"
-jci_1_0: "1.0:c:BWBR0012208&g=2001-02-09"
-citeertitel_status: "redactioneel"
-signed_date: "2001-01-31"
-entry_into_force: "2001-02-09"
+publicatiedatum: 2001-02-09
+laatste_update: 2001-02-09
+status: geldig
+toestand: 2001-02-09
+bron: "https://wetten.overheid.nl/BWBR0012208"
+opgehaald: 2026-08-05
 ---
-# Beleid t.a.v. buitenlandse projecten toegelaten instellingen
 
-Geacht college/bestuur,
+# Beleid t.a.v. buitenlandse projecten toegelaten instellingen
 
 ### Inleiding
 
@@ -56,7 +33,7 @@ Het verschil in karakter van beide vormen van bijdragen is aanleiding om ondersc
 
 ### Toezicht
 
-De [Woningwet](onbekend) en het [Besluit beheer sociale-huursector](onbekend) (BBSH) zijn niet ingericht op het ontwikkelen van buitenlandse activiteiten door t.i's; de regelgeving beperkt het werkgebied van de corporatie tot gemeenten in Nederland. Strikt genomen is het daardoor niet mogelijk om buiten Nederland werkzaamheden of activiteiten te ontwikkelen, in welke vorm dan ook. Er doen zich echter situaties voor die het wenselijk of noodzakelijk maken daarop een uitzondering toe te laten. In hoeverre er naar mijn oordeel sprake is van uitzonderingssituaties en op welke wijze ik hier toezicht op houd, het navolgende.
+De Woningwet en het Besluit beheer sociale-huursector (BBSH) zijn niet ingericht op het ontwikkelen van buitenlandse activiteiten door t.i's; de regelgeving beperkt het werkgebied van de corporatie tot gemeenten in Nederland. Strikt genomen is het daardoor niet mogelijk om buiten Nederland werkzaamheden of activiteiten te ontwikkelen, in welke vorm dan ook. Er doen zich echter situaties voor die het wenselijk of noodzakelijk maken daarop een uitzondering toe te laten. In hoeverre er naar mijn oordeel sprake is van uitzonderingssituaties en op welke wijze ik hier toezicht op houd, het navolgende.
 
 ### Bijdragen in natura/schenkingen
 
@@ -74,9 +51,15 @@ Investeringsbijdragen die in alle redelijkheid het karakter van een schenking te
 
 Gezien het karakter van de bijdrage in relatie tot de bepalingen in de regelgeving dient een dergelijk voornemen tot het verstrekken van een investeringsbijdrage expliciet aan mij ter beoordeling voorgelegd te worden (preventief toezicht). Aan de hand van de mij door de t.i. ter beschikking gestelde gegevens en argumentatie alsmede na de eventueel benodigde ruggespraak met het ministerie van Ontwikkelingssamenwerking, alsmede voor wat betreft Aruba en de Nederlandse Antillen het ministerie van Binnenlandse Zaken en Koninkrijksrelaties zal ik per situatie een afweging maken. In deze afweging zal ik tevens meewegen omstandigheden die de betreffende t.i. aangaan, zoals:
 
+- 1. zijn de volkshuisvestelijke prestaties van de t.i. op de kerntaken boven elke twijfel verheven,
+
+- 2. is de financiële continuïteit van de t.i. niet in het geding, en
+
+- 3. is de t.i. voldoende actief in matching, dat wil zeggen in het conform de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=21), en [22 BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=22) besteden van overtollige middelen en batige saldi ten behoeve van de volkshuisvesting bij andere toegelaten instellingen, die hun taak zonder die financiële ondersteuning niet kunnen uitvoeren.
+
 ### Procedure
 
-Voor de melding geldt dezelfde procedure als voor nevenactiviteiten als bedoeld in [MG 99-23](onbekend). In die MG is qua behandeltermijn gesteld, dat elke melding binnen maximaal 13 weken zal worden afgehandeld, tenzij de informatie inadequaat is. Ik wijs u er wellicht ten overvloede op, dat genoemde termijn een termijn van orde is. Dit impliceert dat overschrijding van de termijn een fictieve weigering inhoudt, waartegen een bezwaar- en beroepsprocedure kan worden aangespannen. Overschrijding houdt derhalve geen automatische toestemming in.
+Voor de melding geldt dezelfde procedure als voor nevenactiviteiten als bedoeld in MG 99-23. In die MG is qua behandeltermijn gesteld, dat elke melding binnen maximaal 13 weken zal worden afgehandeld, tenzij de informatie inadequaat is. Ik wijs u er wellicht ten overvloede op, dat genoemde termijn een termijn van orde is. Dit impliceert dat overschrijding van de termijn een fictieve weigering inhoudt, waartegen een bezwaar- en beroepsprocedure kan worden aangespannen. Overschrijding houdt derhalve geen automatische toestemming in.
 
 Mede om teleurstellingen en/of overschrijding van deze termijn te voorkomen is het wenselijk, dat de t.i. die voornemens is in het buitenland te investeren als hiervoor bedoeld, tijdig met betrokken Inspectie Volkshuisvesting contact opneemt.
 
@@ -84,108 +67,12 @@ Mede om teleurstellingen en/of overschrijding van deze termijn te voorkomen is h
 
 Onverlet latend mijn bevoegdheden om in specifieke gevallen aan de hand van concrete omstandigheden in te grijpen, is mijn beleid er op gericht om:
 
+- - bijdragen in natura en schenkingen van bescheiden omvang aan buitenlandse projecten of organisaties toe te staan;
+
+- - buitenlandse investeringsbijdragen, alsmede investeringsbijdragen aan instellingen in Aruba en/of in de Nederlandse Antillen, slechts in uitzonderingssituaties en na melding en beoordeling vooraf (preventief toezicht) toe te laten.
+
 Ten aanzien van buitenlandse activiteiten die reeds plaatsvinden en die niet (meer) passen in het hier uiteengezette beleid, doe ik een dringend beroep op de besturen van toegelaten instellingen om deze zo veel mogelijk te beperken, dan wel te beëindigen.
 
 Na een jaar zullen de effecten van deze MG-circulaire worden geëvalueerd.
 
 Deze MG-circulaire zal in de Staatscourant worden geplaatst. Voor nadere informatie over deze circulaire kunt u terecht bij de desbetreffende inspectie Volkshuisvesting.
-
-## Bijlage
-
-Voor informatie omtrent het [Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) kunt u terecht op onderstaande telefoonnummers c.q. adressen van de Inspecties van de Volkshuisvesting voor de provincie.
-
-### Groningen, Friesland en Drenthe
-
-Cascadeplein 10
-
-Postbus 1318
-
-9701 BH Groningen
-
-Tel: 050-5992700
-
-Fax: 050-5992699
-
-### Overijssel
-
-Hanzelaan 310
-
-Postbus 7006
-
-8007 HA Zwolle
-
-Tel: 038-4695555
-
-Fax: 038-4695560
-
-### Gelderland
-
-Pels Rijckenstraat 1
-
-Postbus 750
-
-6800 AT Arnhem
-
-Tel: 026-3528456
-
-Fax: 026-3528457
-
-### Utrecht
-
-Maliebaan 18
-
-Postbus 85185
-
-3508 AD Utrecht
-
-Tel: 030-2335511
-
-Fax: 030-2335550
-
-### Noord-Holland en Flevoland
-
-Kennemerplein 6-8
-
-Postbus 5054
-
-2000 GB Haarlem
-
-Tel: 023-5150700
-
-Fax: 023-5150701
-
-### Zuid-Holland
-
-Huis te Landelaan 492
-
-Postbus 3254
-
-2280 GG Rijswijk
-
-Tel: 070-3985811
-
-Fax: 070-3985800
-
-### Noord-Brabant en Zeeland
-
-'t Schimmelt 28
-
-Postbus 6469
-
-5600 HL Eindhoven
-
-Tel: 040-2652911
-
-Fax: 040-2467311
-
-### Limburg
-
-Avenue Ceramique 1-d
-
-Postbus 1118
-
-6201 BC Maastricht
-
-Tel: 043-3514100
-
-Fax: 043-3514121

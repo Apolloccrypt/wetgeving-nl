@@ -1,40 +1,17 @@
 ---
 title: "Instelling Begeleidingscommissie Bureau Medicinale Cannabis"
 identifier: "BWBR0011597"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-05-25"
-last_updated: "2002-05-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011597"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4257603"
-version_id: "6021032"
-internal_id: "C6224421"
-label_id: "4236174"
-dtd_version: "2.0"
-original_entry_into_force: "2000-09-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011597/2002-05-25/0"
-intitule_bron: "Stcrt.2000-170"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-08-31"
-intitule_published: "2000-09-04"
-intitule_in_force: "2000-09-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-170"
-original_signed_date: "2000-08-31"
-original_published_date: "2000-09-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-09-06"
-jci_1_3: "jci1.3:c:BWBR0011597&z=2002-05-25&g=2002-05-25"
-jci_1_0: "1.0:c:BWBR0011597&g=2002-05-25"
-citeertitel_status: "officieel"
-signed_date: "2000-08-31"
-entry_into_force: "2000-09-06"
+publicatiedatum: 2000-09-06
+laatste_update: 2002-05-25
+status: geldig
+toestand: 2002-05-25
+bron: "https://wetten.overheid.nl/BWBR0011597"
+opgehaald: 2026-08-05
 ---
-# Instelling Begeleidingscommissie Bureau Medicinale Cannabis
 
-Besluit:
+# Instelling Begeleidingscommissie Bureau Medicinale Cannabis
 
 ##### Artikel 1
 

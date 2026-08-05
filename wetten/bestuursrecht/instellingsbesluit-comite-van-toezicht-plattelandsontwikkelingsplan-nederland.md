@@ -1,50 +1,63 @@
 ---
 title: "Instellingsbesluit Comité van Toezicht Plattelandsontwikkelingsplan Nederland"
 identifier: "BWBR0012331"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-03-22"
-last_updated: "2001-03-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012331"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3534183"
-version_id: "5317322"
-internal_id: "C5510411"
-label_id: "3514194"
-dtd_version: "2.0"
-original_entry_into_force: "2001-03-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012331/2001-03-22/0"
-intitule_bron: "Stcrt.2001-56"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-03-16"
-intitule_published: "2001-03-20"
-intitule_in_force: "2001-03-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-56"
-original_signed_date: "2001-03-16"
-original_published_date: "2001-03-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-03-22"
-jci_1_3: "jci1.3:c:BWBR0012331&z=2001-03-22&g=2001-03-22"
-jci_1_0: "1.0:c:BWBR0012331&g=2001-03-22"
-citeertitel_status: "officieel"
-signed_date: "2001-03-16"
-entry_into_force: "2001-03-22"
+publicatiedatum: 2001-03-22
+laatste_update: 2001-03-22
+status: geldig
+toestand: 2001-03-22
+bron: "https://wetten.overheid.nl/BWBR0012331"
+opgehaald: 2026-08-05
 ---
+
 # Instellingsbesluit Comité van Toezicht Plattelandsontwikkelingsplan Nederland
-
-Gelet op artikel 48, derde lid, van [verordening (EG) nr. 1257/99](31999R1257) van de Raad van 17 mei 1999 inzake steun voor plattelandsontwikkeling uit het Europees Oriëntatie- en Garantiefonds voor de Landbouw (EOGFL) en tot wijziging en instelling van een aantal verordeningen (PbEG L 160);
-
-In overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieu en de Minister van Verkeer en Waterstaat;
-
-Na overleg met de provincies,
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+a.
+
+verordening (EG) nr. 1257/99
+
+verordening (EG) nr. 1257/99 van de Raad van 17 mei 1999 inzake steun voor plattelandsontwikkeling uit het Europees Oriëntatie- en Garantiefonds voor de Landbouw (EOGFL) en tot wijziging en instelling van een aantal verordeningen (PbEG L 160);
+
+b.
+
+Plattelandsontwikkelingsplan:
+
+het door de Commissie van de Europese Gemeenschappen goedgekeurde programmeringsdocument voor plattelandsontwikkeling voor Nederland met betrekking tot de programmeringsperiode 2000-2006, met inbegrip van de door de Commissie van de Europese Gemeenschappen goedgekeurde wijzigingen;
+
+c.
+
+minister:
+
+Minister van Landbouw, Natuurbeheer en Visserij;
+
+d.
+
+betrokken ministers:
+
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en Minister van Verkeer en Waterstaat;
+
+e.
+
+gedeputeerde staten:
+
+gedeputeerde staten van de provincies die betrokken zijn bij het Plattelandsontwikke-lingsplan;
+
+f.
+
+rijksregelingen:
+
+besluiten van de minister en/of de betrokken ministers houdende regels voor subsidiever-strekking, zoals weergegeven in Bijlage 1 van het Plattelandsontwik-kelingsplan;
+
+g.
+
+provinciale programma's:
+
+programma's zoals opgenomen in Bijlage 2 van het Plattelandsontwikkelingsplan.
 
 ##### Artikel 2
 
@@ -54,15 +67,15 @@ Er is een Comité van Toezicht voor het Plattelandsontwikkelingsplan, hierna te 
 
 Het comité heeft ten aanzien van het Plattelandsontwikkelingsplan de volgende taken:
 
-- a. toezien op de voortgang van de uitvoering van het Plattelandsontwik-kelingsplan met de daarin opgenomen rijksregelingen en provinciale programma's teneinde een volledige besteding te waarborgen van de op grond van [verordening (EG) nr. 1257/99](31999R1257) door de Commissie van de Europese Gemeenschappen voor de uitvoering van het Plattelandsontwik-kelingsplan beschikbaar gestelde middelen, en daarover te rapporteren aan de minister, de betrokken ministers en de gedeputeerde staten;
+- a. toezien op de voortgang van de uitvoering van het Plattelandsontwik-kelingsplan met de daarin opgenomen rijksregelingen en provinciale programma's teneinde een volledige besteding te waarborgen van de op grond van verordening (EG) nr. 1257/99 door de Commissie van de Europese Gemeenschappen voor de uitvoering van het Plattelandsontwik-kelingsplan beschikbaar gestelde middelen, en daarover te rapporteren aan de minister, de betrokken ministers en de gedeputeerde staten;
 
 - b. voorbereiden en zo nodig coördineren van de besluitvorming door de minister, en voorzover van toepassing de betrokken ministers, respectievelijk de gedeputeerde staten, met betrekking tot de rijksregelingen respectievelijk de provinciale programma's;
 
-- c. beoordelen van de jaarlijkse voortgangsrapportages als bedoeld in artikel 48, tweede lid, van [verordening (EG) nr. 1257/99](31999R1257), haar bevindingen terzake vast te leggen en kenbaar te maken aan de minister, de betrokken ministers en de gedeputeerde staten;
+- c. beoordelen van de jaarlijkse voortgangsrapportages als bedoeld in artikel 48, tweede lid, van verordening (EG) nr. 1257/99, haar bevindingen terzake vast te leggen en kenbaar te maken aan de minister, de betrokken ministers en de gedeputeerde staten;
 
-- d. doen van voorstellen tot wijziging van het Plattelandsontwikkelingsplan aan de minister, de betrokken ministers en de gedeputeerde staten teneinde een volledige besteding te waarborgen van de op grond van [verordening (EG) nr. 1257/99](31999R1257) door de Commissie van de Europese Gemeenschappen voor de uitvoering van het Plattelandsontwikkelingsplan beschikbaar gestelde middelen en de in het Plattelandsontwikkelingsplan opgenomen doelen te realiseren.
+- d. doen van voorstellen tot wijziging van het Plattelandsontwikkelingsplan aan de minister, de betrokken ministers en de gedeputeerde staten teneinde een volledige besteding te waarborgen van de op grond van verordening (EG) nr. 1257/99 door de Commissie van de Europese Gemeenschappen voor de uitvoering van het Plattelandsontwikkelingsplan beschikbaar gestelde middelen en de in het Plattelandsontwikkelingsplan opgenomen doelen te realiseren.
 
-- e. opstellen van de tussentijdse evaluatie en eindevaluatie van het Plattelandsontwikkelingsplan ten behoeve van de Europese Commissie, als bedoeld in artikel 49, eerste lid van [verordening (EG) nr. 1257/99](31999R1257).
+- e. opstellen van de tussentijdse evaluatie en eindevaluatie van het Plattelandsontwikkelingsplan ten behoeve van de Europese Commissie, als bedoeld in artikel 49, eerste lid van verordening (EG) nr. 1257/99.
 
 ##### Artikel 4
 
@@ -101,5 +114,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Comité van Toezicht Plattelandsontwikkelings-plan Nederland.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

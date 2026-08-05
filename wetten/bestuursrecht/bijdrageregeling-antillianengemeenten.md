@@ -1,44 +1,45 @@
 ---
 title: "Bijdrageregeling Antillianengemeenten"
 identifier: "BWBR0012482"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-05-20"
-last_updated: "2001-05-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012482"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "4254213"
-version_id: "6017732"
-internal_id: "C6221121"
-label_id: "4232874"
-dtd_version: "2.0"
-original_entry_into_force: "2001-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012482/2001-05-20/0"
-intitule_bron: "Stcrt.2001-96"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-05-10"
-intitule_published: "2001-05-18"
-intitule_in_force: "2001-05-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-96"
-original_signed_date: "2001-05-10"
-original_published_date: "2001-05-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-05-20"
-jci_1_3: "jci1.3:c:BWBR0012482&z=2001-05-20&g=2001-05-20"
-jci_1_0: "1.0:c:BWBR0012482&g=2001-05-20"
-citeertitel_status: "officieel"
-signed_date: "2001-05-10"
-entry_into_force: "2001-05-20"
+publicatiedatum: 2001-05-20
+laatste_update: 2001-05-20
+status: geldig
+toestand: 2001-05-20
+bron: "https://wetten.overheid.nl/BWBR0012482"
+opgehaald: 2026-08-05
 ---
-# Bijdrageregeling Antillianengemeenten
 
-Besluit:
+# Bijdrageregeling Antillianengemeenten
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a)
+
+minister:
+
+de Minister voor Grote Steden- en Integratiebeleid;
+
+b)
+
+gemeentebestuur:
+
+het college van burgemeester en wethouders van de gemeenten Amsterdam, Den Haag, Den Helder, Dordrecht, Groningen, Nijmegen en Rotterdam;
+
+c)
+
+Antilliaanse jongeren:
+
+een groep jongeren van Antilliaanse afkomst die problemen ondervindt bij de integratie in de Nederlandse samenleving;
+
+d)
+
+meerjarig plan van aanpak:
+
+het plan, bedoel in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012482&artikel=2&z=2001-05-20&g=2001-05-20).
 
 ##### Artikel 2
 
@@ -87,21 +88,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Bijdrageregeling Antillianengemeenten.
-
-## Bijlage 1
-
-De minister is op 25 januari 2001 met de volgende verdeling voor de ƒ 24 miljoen / € 10.890.725, zoals door de Antillianengemeenten gezamenlijk is voorgesteld, akkoord gegaan. Dit bedrag wordt in vier jaarlijkse termijnen uitgekeerd.
-
-| **Gemeente** | **Totale bedrag per** **gemeente (incl. BTW)** |
-| --- | --- |
-| Amsterdam | f 3.600.000 / € 1.633.610 |
-| Den Haag | f 2.500.000 / € 1.134.450,50 |
-| Den Helder | f 3.980.000 / € 1.806.045,20 |
-| Dordrecht | f 3.700.000 / € 1.678.986,70 |
-| Groningen | f 2.900.000 / € 1.315.962,60 |
-| Nijmegen | f 2.050.000 / € 930.249,44 |
-| Rottterdam | f 5.270.000 / € 2.390.000 |
-|   |   |
-| Totaal | f 24.000.000 / € 10.890.725 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,42 +1,17 @@
 ---
 title: "Regeling gemoedsbezwaarden Bpf 2000"
 identifier: "BWBR0012078"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-01-01"
-last_updated: "2001-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012078"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3572863"
-version_id: "5356022"
-internal_id: "C5549111"
-label_id: "3552904"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012078/2001-01-01/0"
-intitule_bron: "Stcrt.2000-251"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-21"
-intitule_published: "2000-12-28"
-intitule_in_force: "2000-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-251"
-original_signed_date: "2000-12-21"
-original_published_date: "2000-12-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0012078&z=2001-01-01&g=2001-01-01"
-jci_1_0: "1.0:c:BWBR0012078&g=2001-01-01"
-citeertitel_status: "officieel"
-signed_date: "2000-12-21"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2001-01-01
+status: geldig
+toestand: 2001-01-01
+bron: "https://wetten.overheid.nl/BWBR0012078"
+opgehaald: 2026-08-05
 ---
+
 # Regeling gemoedsbezwaarden Bpf 2000
-
-Gelet op [artikel 14, tweede lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=14);
-
-Besluit:
 
 ##### Artikel 1. De aanvraag
 
@@ -121,5 +96,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling gemoedsbezwaarden Bpf 2000.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

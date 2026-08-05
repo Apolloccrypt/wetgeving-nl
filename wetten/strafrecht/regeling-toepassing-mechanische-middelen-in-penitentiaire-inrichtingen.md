@@ -1,44 +1,17 @@
 ---
 title: "Regeling toepassing mechanische middelen in penitentiaire inrichtingen"
 identifier: "BWBR0011442"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-05-31"
-last_updated: "2001-05-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011442"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling"
-stam_id: "3587223"
-version_id: "5370382"
-internal_id: "C5563471"
-label_id: "3567264"
-dtd_version: "2.0"
-original_entry_into_force: "2001-05-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011442/2001-05-31/0"
-intitule_bron: "Stcrt.2001-101"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-06-26"
-intitule_published: "2001-05-29"
-intitule_in_force: "2001-05-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-101"
-original_signed_date: "2000-06-26"
-original_published_date: "2001-05-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-05-31"
-jci_1_3: "jci1.3:c:BWBR0011442&z=2001-05-31&g=2001-05-31"
-jci_1_0: "1.0:c:BWBR0011442&g=2001-05-31"
-citeertitel_status: "officieel"
-signed_date: "2000-06-26"
-entry_into_force: "2001-05-31"
+publicatiedatum: 2001-05-31
+laatste_update: 2001-05-31
+status: geldig
+toestand: 2001-05-31
+bron: "https://wetten.overheid.nl/BWBR0011442"
+opgehaald: 2026-08-05
 ---
+
 # Regeling toepassing mechanische middelen in penitentiaire inrichtingen
-
-Gelet op [artikel 33, vierde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=33);
-
-Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 19 mei 1998 (nr. 697452/98);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -48,7 +21,7 @@ wet: de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 2
 
-1. Als mechanisch middel in de zin van [artikel 33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=33) worden slechts toegepast, de middelen die zijn opgenomen in de bijlage bij deze regeling.
+1. Als mechanisch middel in de zin van [artikel 33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=33) worden slechts toegepast, de middelen die zijn opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0011442) bij deze regeling.
 
 2. Indien de toestand van de gedetineerde dit vereist, kunnen meerdere mechanische middelen tegelijkertijd worden toegepast.
 
@@ -119,21 +92,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling mechanische middelen in penitentiaire inrichtingen.
-
-## Bijlage toegestane mechanische middelen
-
-1. Valhelm of schuimhelm
-
-2. Gecapitonneerde handschoenen
-
-3. Mondafscherming
-
-4. Polsbanden aan riem om middel
-
-5. Enkelbanden met tussenstuk
-
-6. Handboeien van een door de Minister van Justitie goedgekeurd merk en type
-
-7. Veiligheidsbed
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0043632"
-opgehaald: 2026-08-04
+opgehaald: 2026-08-05
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 29 mei 2020, nr. WJZ/24493101, houdende nadere regels over de levering van gegevens aan het register onderwijsdeelnemers en de verstrekking van gegevens uit dat register (Regeling register onderwijsdeelnemers)
@@ -319,7 +319,7 @@ Het bestuur van een onderwijsinstelling als bedoeld in de [WHW](https://wetten.o
 
 1. Uit het register onderwijsdeelnemers worden voor iedere onderwijsinstelling als bedoeld in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) afzonderlijk aan de minister en de inspectie de basisgegevens van onderwijsdeelnemers die aan die onderwijsinstelling ingeschreven zijn of ingeschreven zijn geweest verstrekt, met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen, de geboortedata en de adresgegevens van de onderwijsdeelnemers. De gegevens worden gespecificeerd overeenkomstig de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=4&z=2026-08-01&g=2026-08-01) genoemd in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=4&z=2026-08-01&g=2026-08-01).
 
-2. De verstrekking van de gegevens, bedoeld in het eerste lid, geschiedt voor de onderwijsinstellingen waaraan toepassing is gegeven aan [artikel 1.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) en [1.4a.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1), uiterlijk 15 oktober van het desbetreffende studiejaar.
+2. De verstrekking van de gegevens, bedoeld in het eerste lid, geschiedt voor de onderwijsinstellingen waaraan toepassing is gegeven aan [artikel 1.4a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1) en [artikel 11.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=11.1.1), uiterlijk 15 oktober van het desbetreffende studiejaar.
 
 3. De gegevens omtrent de examens worden onmiddellijk na opname in het register onderwijsdeelnemers aan de inspectie verstrekt.
 

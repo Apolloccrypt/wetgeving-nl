@@ -1,66 +1,43 @@
 ---
 title: "Privacyreglement Project Integriteit Bedrijfsleven Rotterdam Rijnmond"
 identifier: "BWBR0012486"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-12-15"
-last_updated: "2000-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012486"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "4328803"
-version_id: "6093162"
-internal_id: "C6296671"
-label_id: "4307454"
-dtd_version: "2.0"
-original_entry_into_force: "2000-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012486/2000-12-15/0"
-intitule_bron: "Stcrt.2001-100"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-05-14"
-intitule_published: "2001-05-28"
-intitule_in_force: "2001-05-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-100"
-original_signed_date: "2001-05-14"
-original_published_date: "2001-05-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-12-15"
-jci_1_3: "jci1.3:c:BWBR0012486&z=2000-12-15&g=2000-12-15"
-jci_1_0: "1.0:c:BWBR0012486&g=2000-12-15"
-citeertitel_status: "officieel"
-signed_date: "2001-05-14"
-entry_into_force: "2000-12-15"
+publicatiedatum: 2000-12-15
+laatste_update: 2000-12-15
+status: geldig
+toestand: 2000-12-15
+bron: "https://wetten.overheid.nl/BWBR0012486"
+opgehaald: 2026-08-05
 ---
-# Privacyreglement Project Integriteit Bedrijfsleven Rotterdam Rijnmond
 
-Besluit:
+# Privacyreglement Project Integriteit Bedrijfsleven Rotterdam Rijnmond
 
 ##### Artikel 1. Definities
 
 In dit reglement wordt verstaan onder:
 
-- a. **de wet:** de Wet persoonsregistraties;
+- a. *de wet:* de Wet persoonsregistraties;
 
-- b. **persoonsgegeven:** een gegeven dat herleidbaar is tot een individuele natuurlijke persoon;
+- b. *persoonsgegeven:* een gegeven dat herleidbaar is tot een individuele natuurlijke persoon;
 
-- c. **registratie:** de verzameling van gegevens van het project Integriteit Bedrijfsleven Rotterdam Rijnmond van de Directie Bestuurszaken van het Ministerie van Justitie ten behoeve van de doelstelling omschreven in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012486&artikel=2&z=2000-12-15&g=2000-12-15);
+- c. *registratie:* de verzameling van gegevens van het project Integriteit Bedrijfsleven Rotterdam Rijnmond van de Directie Bestuurszaken van het Ministerie van Justitie ten behoeve van de doelstelling omschreven in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012486&artikel=2&z=2000-12-15&g=2000-12-15);
 
-- d. **houder:** de Minister van Justitie;
+- d. *houder:* de Minister van Justitie;
 
-- e. **de registratiebeheerder:** de directeur van de Directie Bestuurszaken van het Ministerie van Justitie;
+- e. *de registratiebeheerder:* de directeur van de Directie Bestuurszaken van het Ministerie van Justitie;
 
-- f. **de directie:** de Directie Bestuurszaken van het Ministerie van Justitie;
+- f. *de directie:* de Directie Bestuurszaken van het Ministerie van Justitie;
 
-- g. **de afdeling:** de Afdeling Integriteit Bedrijfsleven van de directie;
+- g. *de afdeling:* de Afdeling Integriteit Bedrijfsleven van de directie;
 
-- h. **het Project IBRR:** het project Integriteit Bedrijfsleven Rotterdam Rijnmond van de afdeling van de directie;
+- h. *het Project IBRR:* het project Integriteit Bedrijfsleven Rotterdam Rijnmond van de afdeling van de directie;
 
-- i. **het advies:** het integriteitadvies dat wordt afgegeven door het project IBRR;
+- i. *het advies:* het integriteitadvies dat wordt afgegeven door het project IBRR;
 
-- j. **de vennootschap:** een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid als bedoeld in Boek 2 van het Burgerlijk Wetboek;
+- j. *de vennootschap:* een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid als bedoeld in Boek 2 van het Burgerlijk Wetboek;
 
-- k. **de aanvrager:** het bestuur van de vennootschap die deelneemt aan het project.
+- k. *de aanvrager:* het bestuur van de vennootschap die deelneemt aan het project.
 
 ##### Artikel 2. Doel en werking
 

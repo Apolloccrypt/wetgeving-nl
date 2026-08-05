@@ -1,48 +1,77 @@
 ---
 title: "Subsidieregeling bedrijfsgebonden vaarwegaansluitingen (SBV)"
 identifier: "BWBR0012284"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-03-10"
-last_updated: "2001-03-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012284"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5077043"
-version_id: "9132962"
-internal_id: "C12140221"
-label_id: "5052984"
-dtd_version: "2.0"
-original_entry_into_force: "2001-03-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012284/2001-03-10/0"
-intitule_bron: "Stcrt.2001-48"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-03-02"
-intitule_published: "2001-03-08"
-intitule_in_force: "2001-03-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-48"
-original_signed_date: "2001-03-02"
-original_published_date: "2001-03-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-03-10"
-jci_1_3: "jci1.3:c:BWBR0012284&z=2001-03-10&g=2001-03-10"
-jci_1_0: "1.0:c:BWBR0012284&g=2001-03-10"
-citeertitel_status: "officieel"
-signed_date: "2001-03-02"
-entry_into_force: "2001-03-10"
+publicatiedatum: 2001-03-10
+laatste_update: 2001-03-10
+status: geldig
+toestand: 2001-03-10
+bron: "https://wetten.overheid.nl/BWBR0012284"
+opgehaald: 2026-08-05
 ---
+
 # Subsidieregeling bedrijfsgebonden vaarwegaansluitingen (SBV)
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+Minister:
+
+Minister van Verkeer en Waterstaat;
+
+b.
+
+bedrijfsgebonden vaarwegaansluiting:
+
+aansluiting van een bedrijf op het vaarwegennet, uitsluitend bestemd en gebruikt voor de overslag van goederen van en naar de vaarweg, ten behoeve van dat bedrijf;
+
+c.
+
+infrastructuur:
+
+voorzieningen die ten behoeve van een bedrijfsgebonden vaarwegaansluiting worden gerealiseerd, niet zijnde voorzieningen ten behoeve van de overslag van goederen van en naar de vaarweg;
+
+d.
+
+project:
+
+investeringsproject waarop de subsidieaanvraag betrekking heeft;
+
+e.
+
+initiële investeringen:
+
+investeringen die betrekking hebben op de realisering van nieuwe bedrijfsgebonden vaarwegaansluitingen voorzover die noodzakelijk zijn om deze te laten functioneren;
+
+f.
+
+uitbreidingsinvesteringen:
+
+investeringen die betrekking hebben op de uitbreiding van de capaciteit van bestaande bedrijfsgebonden vaarwegaansluitingen;
+
+g.
+
+VAT-kosten:
+
+kosten ten behoeve van voorbereiding, administratie en toezicht van het project;
+
+h.
+
+indicatieve vervoersgarantie:
+
+door de Minister op te stellen formulier, in te vullen en te onderbouwen door de subsidieaanvrager, inhoudende een verklaring dat hij ten minste de aangegeven hoeveelheid goederen via de te subsidiëren bedrijfsgebonden vaarwegaansluiting zal overslaan;
+
+i.
+
+verlader:
+
+aanbieder van goederen voor transport, zijnde een onderneming die in Nederland is gevestigd of in Nederland een nevenvestiging heeft in de zin van artikel 3, eerste lid, van de Handelsregisterwet.
 
 ##### Artikel 2
 
@@ -92,7 +121,7 @@ In deze regeling wordt verstaan onder:
 
 4. De subsidie voor een project bedraagt ten hoogste 50% van de subsidiabele projectkosten (inclusief VAT-kosten en exclusief BTW), maar niet meer dan f 1.500.000,- / € 680.670,32 (inclusief VAT-kosten en exclusief BTW), met dien verstande dat, indien uit anderen hoofde dan deze regeling, financiële steun is verleend dan wel aanspraak daarop bestaat, de subsidie op grond van deze regeling zodanig wordt verlaagd dat het totaal van alle verstrekte subsidies voor initiële of uitbreidingsinvesteringen niet meer dan 50% van de totale projectkosten bedraagt.
 
-5. Om de hoogte van de in het vierde lid bedoelde subsidie te bepalen, wordt gebruik gemaakt van de berekeningsmethodiek, opgenomen in de bij deze regeling behorende bijlage.
+5. Om de hoogte van de in het vierde lid bedoelde subsidie te bepalen, wordt gebruik gemaakt van de berekeningsmethodiek, opgenomen in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/BWBR0012284).
 
 #### § 2. Aanvraag van de subsidie
 
@@ -126,21 +155,21 @@ In deze regeling wordt verstaan onder:
 
 - l. een bedrijfsplan, dat in elk geval de volgende onderdelen bevat:
 
-- 1°. een schema van de ondernemingsstructuur van de subsidieaanvrager;
+   - 1° een schema van de ondernemingsstructuur van de subsidieaanvrager;
 
-- 2°. het moment waarop met de uitvoering van het project wordt begonnen;
+   - 2° het moment waarop met de uitvoering van het project wordt begonnen;
 
-- 3°. een overzicht van de ruimtelijke situatie op de plaats waar het project wordt uitgevoerd, waarbij de ontsluiting is aangegeven;
+   - 3° een overzicht van de ruimtelijke situatie op de plaats waar het project wordt uitgevoerd, waarbij de ontsluiting is aangegeven;
 
-- 4°. een indicatieve vervoersgarantie betreVende een periode van vijf jaar gerekend vanaf het tijdstip dat het project in gebruik wordt genomen;
+   - 4° een indicatieve vervoersgarantie betreVende een periode van vijf jaar gerekend vanaf het tijdstip dat het project in gebruik wordt genomen;
 
-- 5°. het gemiddeld aantal beladen wegtonkilometers per jaar dat door middel van de bedrijfsgebonden vaarwegaansluiting wordt vermeden;
+   - 5° het gemiddeld aantal beladen wegtonkilometers per jaar dat door middel van de bedrijfsgebonden vaarwegaansluiting wordt vermeden;
 
-- 6°. een investeringsplan, met inbegrip van een tijdsplanning van investeringsuitgaven;
+   - 6° een investeringsplan, met inbegrip van een tijdsplanning van investeringsuitgaven;
 
-- 7°. een financieringsplan, en
+   - 7° een financieringsplan, en
 
-- 8°. een opgave van het jaar waarin het project wordt voltooid.
+   - 8° een opgave van het jaar waarin het project wordt voltooid.
 
 3. De Minister kan bepalen dat er, in aanvulling op de in het tweede lid bedoelde gegevens, andere noodzakelijke gegevens worden overgelegd.
 
@@ -252,7 +281,7 @@ In deze regeling wordt verstaan onder:
 
 Zolang de subsidie niet is vastgesteld kan de Minister de subsidieverlening intrekken of ten nadele van de subsidieontvanger wijzigen, indien:
 
-- a. is gebleken dat niet wordt voldaan aan de vereisten, bedoeld in [artikel 2, tweede lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012284&paragraaf=1&artikel=2&z=2001-03-10&g=2001-03-10), aanhef en onder f;
+- a. is gebleken dat niet wordt voldaan aan de vereisten, bedoeld in [artikel 2, tweede lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012284&paragraaf=1&artikel=2&z=2001-03-10&g=2001-03-10), [aanhef en onder f](https://wetten.overheid.nl/BWBR0012284);
 
 - b. het project tussentijds wordt beëindigd;
 
@@ -281,58 +310,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Subsidieregeling bedrijfsgebonden vaarwegaansluitingen (SBV).
-
-## Bijlage
-
-De hoogte van de subsidie wordt per project vastgesteld, aan de hand van de volgende drie grootheden:
-
-- 1. de subsidiabele projectkosten (inclusief VAT-kosten, exclusief BTW), zoals opgenomen in bijlage 1 bij de toelichting, onder A;
-
-- 2. het gemiddeld aantal over het water te vervoeren tonnen goederen op jaarbasis, zoals bepaald in de overeenkomstig [artikel 4, tweede lid, onderdeel l, punt 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0012284&paragraaf=2&artikel=4&z=2001-03-10&g=2001-03-10), ingevulde en onderbouwde indicatieve vervoersgarantie, en
-
-- 3. de substitutie van het gemiddeld aantal beladen wegtonkilometers op jaarbasis, zoals bepaald in artikel 4, tweede lid, onderdeel l, punt 5°, van de regeling.
-
-De door de subsidieaanvrager eventueel opgevoerde VAT-kosten worden in eerste instantie van de subsidiabele projectkosten afgetrokken, waarna de VAT-kosten forfaitair worden vastgesteld op 16% van de subsidiabele projectkosten.
-
-Het subsidiepercentage wordt berekend volgens de volgende formule:
-
-A + B = T,
-
-waarbij:
-
-A = het subsidiepercentage op basis van de subsidiabele projectkosten per ton,
-
-B = het subsidiepercentage op basis van het gemiddeld aantal beladen wegtonkilometers per jaar,
-
-T = het uiteindelijke subsidiepercentage, waarbij overeenkomstig artikel 3, vierde lid, van de regeling, is bepaald dat T maximaal 50% mag zijn.
-
-Afhankelijk van de subsidiabele projectkosten per ton, wordt het subsidiepercentage A bepaald overeenkomstig onderstaande tabel:
-
-| **subsidiabele projectkosten per ton:** | **subsidiabele projectkosten per ton:** | **A:** |
-| --- | --- | --- |
-| f 0,- tot f 5,- | € 0,- tot € 2,27 | 25% |
-| f 5,- tot f 10,- | € 2,27 tot € 4,54 | 20% |
-| f 10,- tot f 15,- | € 4,54 tot € 6,81 | 15% |
-| f 15,- tot f 25,- | € 6,81 tot € 11,34 | 10% |
-| > f 25,- | > € 11,34 | 5% |
-
-Afhankelijk van het gemiddeld aantal beladen wegtonkilometers per jaar, wordt het subsidiepercentage B bepaald overeenkomstig onderstaande tabel:
-
-| **gemiddeld aantal beladen** | **gemiddeld aantal beladen** |   |
-| --- | --- | --- |
-| **wegtonkilometers per jaar:** | **wegtonkilometers per jaar:** | **B:** |
-| 0 tot 2.500.000 | 0 tot 2.500.000 | 0% |
-| 2.500.000 tot 5.000.000 | 2.500.000 tot 5.000.000 | 5% |
-| 5.000.000 tot 10.000.000 | 5.000.000 tot 10.000.000 | 10% |
-| 10.000.000 tot 15.000.000 | 10.000.000 tot 15.000.000 | 15% |
-| 15.000.000 tot 20.000.000 | 15.000.000 tot 20.000.000 | 20% |
-| 20.000.000 tot 25.000.000 | 20.000.000 tot 25.000.000 | 25% |
-| 25.000.000 tot 35.000.000 | 25.000.000 tot 35.000.000 | 30% |
-| 35.000.000 tot 45.000.000 | 35.000.000 tot 45.000.000 | 35% |
-| > 45.000.000 | > 45.000.000 | 40% |
-
-De hoogte van de subsidie wordt bepaald door vermenigvuldiging van het uiteindelijke subsidiepercentage T met de subsidiabele projectkosten. De hoogte van de subsidie mag maximaal f 1.500.000,- / € 680.670,32 bedragen.
-
-In afwijking van het bovenstaande, kan de Minister besluiten om bij de vaststelling van de hoogte van de subsidie uit te gaan van te vervoeren volumina in plaats van te vervoeren tonnages. Daarbij zal het soortelijk gewicht van het betreffende product maatgevend zijn.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

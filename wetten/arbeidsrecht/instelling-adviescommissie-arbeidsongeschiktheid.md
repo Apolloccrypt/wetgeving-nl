@@ -1,44 +1,17 @@
 ---
 title: "Instelling Adviescommissie Arbeidsongeschiktheid"
 identifier: "BWBR0011450"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-07-05"
-last_updated: "2000-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0011450"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "3536393"
-version_id: "5319542"
-internal_id: "C5512631"
-label_id: "3516414"
-dtd_version: "2.0"
-original_entry_into_force: "2000-07-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0011450/2000-07-05/0"
-intitule_bron: "Stcrt.2000-125"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-06-28"
-intitule_published: "2000-07-03"
-intitule_in_force: "2000-07-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-125"
-original_signed_date: "2000-06-28"
-original_published_date: "2000-07-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2000-07-05"
-jci_1_3: "jci1.3:c:BWBR0011450&z=2000-07-05&g=2000-07-05"
-jci_1_0: "1.0:c:BWBR0011450&g=2000-07-05"
-citeertitel_status: "officieel"
-signed_date: "2000-06-28"
-entry_into_force: "2000-07-05"
+publicatiedatum: 2000-07-05
+laatste_update: 2000-07-05
+status: geldig
+toestand: 2000-07-05
+bron: "https://wetten.overheid.nl/BWBR0011450"
+opgehaald: 2026-08-05
 ---
+
 # Instelling Adviescommissie Arbeidsongeschiktheid
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste lid, Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6),
-
-Besluiten:
 
 ##### Artikel 1
 
