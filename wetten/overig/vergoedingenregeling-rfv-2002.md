@@ -1,42 +1,17 @@
 ---
 title: "Vergoedingenregeling Rfv 2002"
 identifier: "BWBR0013437"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-03-02"
-last_updated: "2002-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013437"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4100083"
-version_id: "5853722"
-internal_id: "C6056551"
-label_id: "4079834"
-dtd_version: "2.0"
-original_entry_into_force: "2002-03-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013437/2002-03-02/0"
-intitule_bron: "Stcrt.2002-42"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-02-22"
-intitule_published: "2002-02-28"
-intitule_in_force: "2002-02-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-42"
-original_signed_date: "2002-02-22"
-original_published_date: "2002-02-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-03-02"
-jci_1_3: "jci1.3:c:BWBR0013437&z=2002-03-02&g=2002-03-02"
-jci_1_0: "1.0:c:BWBR0013437&g=2002-03-02"
-citeertitel_status: "officieel"
-signed_date: "2002-02-22"
-entry_into_force: "2002-03-02"
+publicatiedatum: 2002-03-02
+laatste_update: 2002-03-02
+status: geldig
+toestand: 2002-03-02
+bron: "https://wetten.overheid.nl/BWBR0013437"
+opgehaald: 2026-08-06
 ---
+
 # Vergoedingenregeling Rfv 2002
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008353&artikel=3) en [5 van het Vergoedingenbesluit adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008353&artikel=5);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -59,5 +34,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Vergoedingenregeling Rfv 2002.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

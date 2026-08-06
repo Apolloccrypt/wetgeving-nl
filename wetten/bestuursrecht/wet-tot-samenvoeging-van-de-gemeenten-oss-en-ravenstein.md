@@ -1,48 +1,18 @@
 ---
 title: "Wet van 18 april 2002 tot samenvoeging van de gemeenten Oss en Ravenstein"
+citeertitel: "Wet tot samenvoeging van de gemeenten Oss en Ravenstein"
 identifier: "BWBR0013620"
-country: "nl"
-rank: "wet"
-publication_date: "2002-07-01"
-last_updated: "2002-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013620"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "1973473"
-version_id: "2923152"
-internal_id: "C14347561"
-label_id: "1922764"
-dtd_version: "2.0"
-original_entry_into_force: "2002-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013620/2002-07-01/0"
-intitule_bron: "Stb.2002-284"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-04-18"
-intitule_published: "2002-06-13"
-intitule_in_force: "2002-06-13"
-intitule_status: "goed"
-original_publication: "Stb.2002-284"
-original_signed_date: "2002-04-18"
-original_published_date: "2002-06-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "28096"
-original_url_id: "stb-2002-284"
-entry_into_force_date: "2002-07-01"
-entry_into_force_dossier: "28096"
-jci_1_3: "jci1.3:c:BWBR0013620&z=2002-07-01&g=2002-07-01"
-jci_1_0: "1.0:c:BWBR0013620&g=2002-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet tot samenvoeging van de gemeenten Oss en Ravenstein"
-signed_date: "2002-04-18"
-entry_into_force: "2002-07-01"
+publicatiedatum: 2002-07-01
+laatste_update: 2002-07-01
+status: geldig
+toestand: 2002-07-01
+bron: "https://wetten.overheid.nl/BWBR0013620"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 18 april 2002 tot samenvoeging van de gemeenten Oss en Ravenstein
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Oss en Ravenstein samen te voegen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. Opheffing en instelling van gemeenten
 
@@ -94,16 +64,12 @@ Voor de op te heffen gemeenten Oss en Ravenstein wordt de nieuwe gemeente Oss aa
 
 ##### Artikel 7
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 8
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 9
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-## Bijlage
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

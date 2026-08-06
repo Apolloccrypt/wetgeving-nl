@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 25 februari 2002, houdende de toekenning van een vaandel aan het eskader der Koninklijke marine"
+citeertitel: "Besluit toekenning vaandel aan het eskader der Koninklijke marine"
 identifier: "BWBR0013441"
-country: "nl"
-rank: "kb"
-publication_date: "2002-04-19"
-last_updated: "2002-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013441"
+categorie: "Overig"
 soort: "KB"
-stam_id: "1697813"
-version_id: "2502312"
-internal_id: "C2502311"
-label_id: "1650774"
-dtd_version: "2.0"
-original_entry_into_force: "2002-04-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013441/2002-04-19/0"
-intitule_bron: "Stb.2002-161"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-02-25"
-intitule_published: "2002-04-04"
-intitule_in_force: "2002-04-04"
-intitule_status: "goed"
-original_publication: "Stb.2002-161"
-original_signed_date: "2002-02-25"
-original_published_date: "2002-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-161"
-entry_into_force_date: "2002-04-19"
-jci_1_3: "jci1.3:c:BWBR0013441&z=2002-04-19&g=2002-04-19"
-jci_1_0: "1.0:c:BWBR0013441&g=2002-04-19"
-citeertitel_status: "officieel"
-short_title: "Besluit toekenning vaandel aan het eskader der Koninklijke marine"
-signed_date: "2002-02-25"
-entry_into_force: "2002-04-19"
+publicatiedatum: 2002-04-19
+laatste_update: 2002-04-19
+status: geldig
+toestand: 2002-04-19
+bron: "https://wetten.overheid.nl/BWBR0013441"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 25 februari 2002, houdende de toekenning van een vaandel aan het eskader der Koninklijke marine
-
-Op de voordracht van Onze Minister van Defensie van 20 februari 2002, nr. C2002/218 directie juridische zaken, afdeling wet- en regelgeving;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -111,5 +85,3 @@ Het vaandeldoek is met een broeking van oranje zijde om de vaandelstang geschove
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 19 april 2002.
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst, en waarvan afschrift zal worden gezonden aan Onze Adjudant-Generaal, tevens Chef van Ons militair Huis.

@@ -1,52 +1,41 @@
 ---
 title: "Regeling Regionaal Historisch Centrum 'Gelders Archief'"
 identifier: "BWBR0013884"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-09-06"
-last_updated: "2002-09-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013884"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4081173"
-version_id: "5835482"
-internal_id: "C6038311"
-label_id: "4061594"
-dtd_version: "2.0"
-original_entry_into_force: "2002-09-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013884/2002-09-06/0"
-intitule_bron: "Stcrt.2002-169"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-07-12"
-intitule_published: "2002-09-04"
-intitule_in_force: "2002-09-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-169"
-original_signed_date: "2002-07-12"
-original_published_date: "2002-09-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-09-06"
-jci_1_3: "jci1.3:c:BWBR0013884&z=2002-09-06&g=2002-09-06"
-jci_1_0: "1.0:c:BWBR0013884&g=2002-09-06"
-citeertitel_status: "officieel"
-signed_date: "2002-07-12"
-entry_into_force: "2002-09-06"
+publicatiedatum: 2002-09-06
+laatste_update: 2002-09-06
+status: geldig
+toestand: 2002-09-06
+bron: "https://wetten.overheid.nl/BWBR0013884"
+opgehaald: 2026-08-06
 ---
+
 # Regeling Regionaal Historisch Centrum 'Gelders Archief'
-
-Gelet op de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=96) en [97 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=97);
-
-Besluiten:
-
-De raden en de colleges van burgemeester en wethouders van de gemeenten Arnhem, Renkum, Rheden en Rozendaal,
-
-tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties, die berusten in de gemeentelijke archiefbewaarplaatsen van de gemeenten Arnhem, Renkum, Rheden en Rozendaal en in de rijksarchiefbewaarplaats in de provincie Gelderland, beheert.
 
 ### Hoofdstuk I. Begripsbepalingen
 
 ##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
+
+a.
+
+de minister:
+
+de Minister van Onderwijs, Cultuur en Wetenschappen;
+
+b.
+
+de gemeenten:
+
+de gemeenten Arnhem, Renkum, Rheden en Rozendaal;
+
+c.
+
+archiefbescheiden:
+
+archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
 
 ### Hoofdstuk II. Instelling, doel en beleid van het openbaar lichaam Gelders Archief
 
@@ -383,5 +372,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 40
 
 Deze regeling kan worden aangehaald als: Regeling Regionaal Historisch Centrum `Gelders Archief'.
-
-Deze regeling zal met de toelichting door de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen in de Staatscourant worden geplaatst.

@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Minister voor Vreemdelingenzaken en Integratie van 13 maart 2003, nr. 5213867/03/6, ter uitvoering van het Besluit verkrijging en verlies Nederlanderschap, het Besluit optie- en naturalisatiegelden 2002 en het Besluit bewijs omtrent toelating"
+citeertitel: "Regeling verkrijging en verlies Nederlanderschap"
 identifier: "BWBR0013506"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013506"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5490083"
-version_id: "9877892"
-internal_id: "C13349591"
-label_id: "5464314"
-dtd_version: "2.0"
-original_entry_into_force: "2003-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013506/2010-10-10/0"
-intitule_bron: "Stcrt.2003-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-03-13"
-intitule_published: "2003-03-18"
-intitule_in_force: "2003-03-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-54"
-original_signed_date: "2002-03-13"
-original_published_date: "2003-03-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-04-01"
-jci_1_3: "jci1.3:c:BWBR0013506&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0013506&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Regeling verkrijging en verlies Nederlanderschap"
-signed_date: "2002-03-13"
-entry_into_force: "2003-04-01"
+publicatiedatum: 2003-04-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0013506"
+opgehaald: 2026-08-06
 ---
+
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie van 13 maart 2003, nr. 5213867/03/6, ter uitvoering van het Besluit verkrijging en verlies Nederlanderschap, het Besluit optie- en naturalisatiegelden 2002 en het Besluit bewijs omtrent toelating
-
-Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=5), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=11), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=17), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=23), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=29), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=57), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=61), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=68) en [71 van het Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=71), de [artikelen 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4), en [8, eerste lid, van het Besluit optie- en naturalisatiegelden 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=8) en [artikel 6, eerste lid van het Besluit bericht omtrent toelating](https://wetten.overheid.nl/jci1.3:c:BWBR0014831&artikel=6);
-
-Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -45,21 +20,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Rijkswet:** de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738);
+- a. *Rijkswet:* de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738);
 
-- b. **De Minister:** de Minister van Justitie;
+- b. *De Minister:* de Minister van Justitie;
 
-- c. **Uitvoeringsautoriteit:** de in [artikel 2 van het Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) genoemde autoriteit of ambtenaar;
+- c. *Uitvoeringsautoriteit:* de in [artikel 2 van het Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) genoemde autoriteit of ambtenaar;
 
-- d. **Handleiding:** Handleiding voor de toepassing van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), die van kracht is in het desbetreffende Rijksdeel.
+- d. *Handleiding:* Handleiding voor de toepassing van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), die van kracht is in het desbetreffende Rijksdeel.
 
 ##### Artikel 2
 
 Tenzij in deze regeling anders is bepaald, oefent de uitvoeringsautoriteit de hem in het [Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605), het [Besluit optie- en naturalisatiegelden 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013782) en het [Besluit bericht omtrent toelating](https://wetten.overheid.nl/jci1.3:c:BWBR0014831) opgedragen werkzaamheden uit in overeenstemming met de Handleiding, alsmede met de nadere instructies terzake die in het betreffende Rijksdeel gelden. Hoofden van diplomatieke en consulaire posten oefenen deze werkzaamheden uit in overeenstemming met de Handleiding en de nadere instructies, die in Nederland van kracht zijn, met inachtneming van de bijzondere regels die de Minister van Buitenlandse Zaken daarbij heeft vastgesteld.
 
-### Hoofdstuk II. Voorschriften met betrekking tot het [Besluit verkrijging en verlies van het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605)
+### Hoofdstuk II. Voorschriften met betrekking tot het Besluit verkrijging en verlies van het Nederlanderschap
 
-### Afdeling I. Inlichtingen omtrent de behandeling van optieverklaringen en naturalisatieverzoeken
+#### Afdeling I. Inlichtingen omtrent de behandeling van optieverklaringen en naturalisatieverzoeken
 
 ##### Artikel 3
 
@@ -73,7 +48,7 @@ Tenzij in deze regeling anders is bepaald, oefent de uitvoeringsautoriteit de he
 
 5. Het hoofd van de Immigratie- en Naturalisatiedienst onderzoekt regelmatig de wijze van afdoening van de optieverklaringen. De uitvoeringsautoriteiten verlenen daaraan medewerking.
 
-### Afdeling II. Bekendmaking van optiebevestigingen en verleningen van het Nederlanderschap
+#### Afdeling II. Bekendmaking van optiebevestigingen en verleningen van het Nederlanderschap
 
 ##### Artikel 4
 
@@ -97,7 +72,7 @@ Tenzij in deze regeling anders is bepaald, oefent de uitvoeringsautoriteit de he
 
 4. Burgemeesters van naburige gemeenten kunnen tot een gemeenschappelijke bijeenkomst beslissen.
 
-- a. De uitvoeringsautoriteit bedoeld in [artikel 2, onder d Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) die een optieverklaring heeft bevestigd aan de persoon, die bij hem een optieverklaring heeft afgelegd, of aan wie de verlening van het Nederlanderschap aan een persoon, die door zijn tussenkomst is genaturaliseerd, is medegedeeld, nodigt in beginsel de betrokken persoon uit voor een bijeenkomst waarin deze verkrijging of verlening op ceremoniële wijze wordt gevierd en waarbij de optiebevestiging of het uittreksel van het besluit tot verlening van het Nederlanderschap wordt uitgereikt op de in de [artikelen 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) voorgeschreven wijze.
+5. - a. De uitvoeringsautoriteit bedoeld in [artikel 2, onder d Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) die een optieverklaring heeft bevestigd aan de persoon, die bij hem een optieverklaring heeft afgelegd, of aan wie de verlening van het Nederlanderschap aan een persoon, die door zijn tussenkomst is genaturaliseerd, is medegedeeld, nodigt in beginsel de betrokken persoon uit voor een bijeenkomst waarin deze verkrijging of verlening op ceremoniële wijze wordt gevierd en waarbij de optiebevestiging of het uittreksel van het besluit tot verlening van het Nederlanderschap wordt uitgereikt op de in de [artikelen 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) voorgeschreven wijze.
 
 - b. Uitgenodigd voor de ceremonie wordt in ieder geval de persoon aan wie een besluit tot verkrijging of verlening dan wel een besluit tot medeverlening moet worden uitgereikt.
 
@@ -107,7 +82,7 @@ Tenzij in deze regeling anders is bepaald, oefent de uitvoeringsautoriteit de he
 
 - e. Een bekendmaking per post geschiedt in beginsel onmiddellijk na de vaststelling van de optiebevestiging dan wel onmiddellijk na de ontvangst van het uittreksel van het naturalisatiebesluit doch uiterlijk binnen één week daarna.
 
-- a. Van een ingevolge [artikel 60b, achtste lid, Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) vervallen besluit tot verlening van het Nederlanderschap zendt de uitvoeringsautoriteit het uittreksel van het besluit aan het hoofd van de Immigratie- en Naturalisatiedienst, met de vermelding dat het besluit niet inwerking is getreden.
+6. - a. Van een ingevolge [artikel 60b, achtste lid, Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) vervallen besluit tot verlening van het Nederlanderschap zendt de uitvoeringsautoriteit het uittreksel van het besluit aan het hoofd van de Immigratie- en Naturalisatiedienst, met de vermelding dat het besluit niet inwerking is getreden.
 
 - b. De uitvoeringsautoriteit laat de onder a. bedoelde inzending achterwege tot het moment dat over het besluit omtrent de wijze van bekendmaking van het besluit tot verlening van het Nederlanderschap onherroepelijk in bezwaar of beroep is beslist.
 
@@ -115,7 +90,7 @@ Tenzij in deze regeling anders is bepaald, oefent de uitvoeringsautoriteit de he
 
 8. De gezaghebber van het openbaar lichaam laat de in het zevende lid bedoelde inzending achterwege tot het moment dat over het besluit omtrent de wijze van bekendmaking van het besluit tot verlening van het Nederlanderschap onherroepelijk in bezwaar of beroep is beslist.
 
-### Afdeling III. Vrijstellingen van de afstandsverplichting
+#### Afdeling III. Vrijstellingen van de afstandsverplichting
 
 ##### Artikel 6
 
@@ -143,7 +118,7 @@ Tenzij in deze regeling anders is bepaald, oefent de uitvoeringsautoriteit de he
 
 4. Indien het betreft een geval als bedoeld in het eerste lid, aanhef en onder c, dient de verzoeker zich bij zijn verzoek tot naturalisatie bereid te verklaren om na de totstandkoming van de naturalisatie het mogelijke te zullen doen om zijn andere nationaliteit of nationaliteiten te verliezen, tenzij op hem een der andere in het eerste lid genoemde gevallen van toepassing is.
 
-### Afdeling IV. Voorschriften met betrekking tot verlies van het Nederlanderschap
+#### Afdeling IV. Voorschriften met betrekking tot verlies van het Nederlanderschap
 
 ##### Artikel 7
 
@@ -151,7 +126,7 @@ Tenzij in deze regeling anders is bepaald, oefent de uitvoeringsautoriteit de he
 
 2. Onder rechtstreeks betrokken persoon als bedoeld in [artikel 66, vijfde lid, Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=66) wordt eveneens verstaan, voor zover zij daarbij een rechtstreeks belang hebben, degene die met de persoon op wie het voornemen tot intrekking rechtstreeks betrekking heeft, een duurzame relatie heeft en bij hem duurzaam inwonend is, als ook de bij deze persoon inwonende minderjarige stiefkinderen.
 
-### Hoofdstuk III. Voorschriften met betrekking tot het [Besluit optie- en naturalisatiegelden 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013782)
+### Hoofdstuk III. Voorschriften met betrekking tot het Besluit optie- en naturalisatiegelden 2002
 
 ##### Artikel 8
 
@@ -165,15 +140,15 @@ De uitvoeringsautoriteit kan van de in het [voorgaande artikel](https://wetten.o
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -183,7 +158,7 @@ Vervallen
 
 3. Het hoofd van de Immigratie- en Naturalisatiedienst kan op verzoek van een uitvoeringsautoriteit met hem andere tijdstippen en perioden van afdracht overeenkomen.
 
-### Hoofdstuk IV. Voorschriften met betrekking tot het [Besluit bericht omtrent toelating](https://wetten.overheid.nl/jci1.3:c:BWBR0014831)
+### Hoofdstuk IV. Voorschriften met betrekking tot het Besluit bericht omtrent toelating
 
 ##### Artikel 14
 
@@ -201,7 +176,7 @@ De uitvoeringautoriteiten dienen verzoeken om een bericht omtrent toelating in m
 
 ##### Artikel 16
 
-De [Machtigingsregeling naturalisatie en naturalisatiegelden 1998](onbekend) vervalt.
+De Machtigingsregeling naturalisatie en naturalisatiegelden 1998 vervalt.
 
 ##### Artikel 17
 

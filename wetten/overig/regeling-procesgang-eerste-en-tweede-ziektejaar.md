@@ -1,60 +1,34 @@
 ---
 title: "Regeling procesgang eerste ziektejaar"
+citeertitel: "Regeling procesgang eerste en tweede ziektejaar"
 identifier: "BWBR0013540"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013540"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4080913"
-version_id: "29408902"
-internal_id: "C42047251"
-label_id: "4060864"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013540/2025-07-01/0"
-intitule_bron: "Stcrt.2002-60"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-03-25"
-intitule_published: "2002-03-26"
-intitule_in_force: "2002-03-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-13931"
-original_signed_date: "2023-05-09"
-original_published_date: "2023-05-17"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-13931"
-entry_into_force_date: "2023-05-09"
-jci_1_3: "jci1.3:c:BWBR0013540&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0013540&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling procesgang eerste en tweede ziektejaar"
-signed_date: "2023-05-09"
-entry_into_force: "2023-05-09"
+publicatiedatum: 2023-05-09
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0013540"
+opgehaald: 2026-08-06
 ---
+
 # Regeling procesgang eerste ziektejaar
-
-Gelet op [artikel 71a, tweede lid en zevende lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a),
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **Arbodienst:** een dienst als bedoeld in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
+- a. *Arbodienst:* een dienst als bedoeld in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
 
-- b. **bedrijfsarts:** de persoon, bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) die belast is met de advisering, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14);
+- b. *bedrijfsarts:* de persoon, bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) die belast is met de advisering, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14);
 
-- c. **plan van aanpak:** het plan van aanpak, bedoeld in [artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a)[artikel 25, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25);
+- c. *plan van aanpak:* het plan van aanpak, bedoeld in [artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a)[artikel 25, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25);
 
-- d. **werkgever:** een werkgever als bedoeld in [artikel 71a van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a)[artikel 25, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25);
+- d. *werkgever:* een werkgever als bedoeld in [artikel 71a van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a)[artikel 25, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25);
 
-- e. **werknemer:** een werknemer als bedoeld in [artikel 71a van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) en de verzekerde, bedoeld in [artikel 25, eerste lid, van de Wet Werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25);
+- e. *werknemer:* een werknemer als bedoeld in [artikel 71a van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) en de verzekerde, bedoeld in [artikel 25, eerste lid, van de Wet Werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25);
 
-- f. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen.
+- f. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen.
 
 ##### Artikel 2. Gegevensverstrekking aan de bedrijfsarts of de arbodienst
 
@@ -124,6 +98,14 @@ Van de termijnen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Het UWV is bevoegd voor de vastlegging van de in [artikel 6, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=6&z=2025-07-01&g=2025-07-01), bedoelde gegevens standaarden vast te stellen.
 
+##### Artikel 7a. Aanvullende deskundigheid
+
+Indien voor een goede uitvoering van deze regeling naar het oordeel van de bedrijfsarts of de arbodienst aanvullende deskundigheid is vereist, draagt de bedrijfsarts of de arbodienst zorg voor tijdige inschakeling daarvan.
+
+##### Artikel 7b. Overgangsrecht
+
+*Vervallen*
+
 ##### Artikel 8. Grondslag
 
 Deze regeling is mede gebaseerd op [artikel 38, zesde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38).
@@ -131,11 +113,3 @@ Deze regeling is mede gebaseerd op [artikel 38, zesde lid, van de Ziektewet](htt
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling procesgang eerste en tweede ziektejaar.
-
-##### Artikel 7a. Aanvullende deskundigheid
-
-Indien voor een goede uitvoering van deze regeling naar het oordeel van de bedrijfsarts of de arbodienst aanvullende deskundigheid is vereist, draagt de bedrijfsarts of de arbodienst zorg voor tijdige inschakeling daarvan.
-
-##### Artikel 7b. Overgangsrecht
-
-Vervallen

@@ -1,44 +1,17 @@
 ---
 title: "Regeling bedrijfsvoering en administratieve organisatie Wet inzake de geldtransactiekantoren"
 identifier: "BWBR0013313"
-country: "nl"
-rank: "zbo"
-publication_date: "2005-10-01"
-last_updated: "2005-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013313"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6592063"
-version_id: "11434212"
-internal_id: "C15411541"
-label_id: "6580834"
-original_entry_into_force: "2002-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013313/2005-10-01/0"
-intitule_bron: "Stcrt.2002-136"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2002-07-19"
-intitule_in_force: "2002-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-136"
-original_published_date: "2002-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2002-136-p28-SC35554"
-entry_into_force_date: "2002-07-19"
-entry_into_force_dossier: "28229"
-jci_1_3: "jci1.3:c:BWBR0013313&z=2005-10-01&g=2005-10-01"
-jci_1_0: "1.0:c:BWBR0013313&g=2005-10-01"
-citeertitel_status: "officieel"
-entry_into_force: "2002-07-19"
+publicatiedatum: 2002-07-19
+laatste_update: 2005-10-01
+status: geldig
+toestand: 2005-10-01
+bron: "https://wetten.overheid.nl/BWBR0013313"
+opgehaald: 2026-08-06
 ---
+
 # Regeling bedrijfsvoering en administratieve organisatie Wet inzake de geldtransactiekantoren
-
-gelet op [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=2), [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=9), en [artikel 18,eerste lid, van de Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=18) en het [Overdrachtsbesluit Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013862):
-
-gelet op [artikel 10, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10), en [artikel 10b, eerste lid, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10b) en het [Overdrachtsbesluit Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0013887);
-
-na overleg met de Minister van Financiën;
-
-Besluit
 
 ### Hoofstuk 1. Algemene bepaling
 
@@ -104,7 +77,7 @@ Het bestuur van het geldtransactiekantoor is belast met de dagelijkse leiding va
 
 Het geldtransactiekantoor beschikt op alle lagen van de organisatie over procedures en maatregelen met betrekking tot de interne controle, die ten minste dienen te voorzien in de naleving van:
 
-- a. bij of krachtens [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013816), de [Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331), de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330), de [Sanctiewetgeving](onbekend) en de [Wet Bescherming Persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) gestelde regels;
+- a. bij of krachtens [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013816), de [Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331), de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330), de Sanctiewetgeving en de [Wet Bescherming Persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) gestelde regels;
 
 - b. het beleidsplan;
 
@@ -126,7 +99,7 @@ Het geldtransactiekantoor beschikt op alle lagen van de organisatie over procedu
 
 - b. het expliciet vragen aan betrokkene naar voorvallen uit het verleden die betekenis kunnen hebben voor het oordeel over de betrouwbaarheid van betrokkene;
 
-- c. het laten overleggen door betrokkene van een verklaring omtrent het gedrag in de zin van de [Wet op de justitiële documentatie](onbekend).
+- c. het laten overleggen door betrokkene van een verklaring omtrent het gedrag in de zin van de Wet op de justitiële documentatie.
 
 2. De werkzaamheden die zijn verricht ten behoeve van de naleving van het eerste lid en de uitkomsten van die werkzaamheden worden door het geldtransactiekantoor schriftelijk vastgelegd.
 
@@ -290,11 +263,11 @@ Het geldtransactiekantoor dat geldtransferactiviteiten verricht informeert de op
 
 - b. het bestaan van de mogelijkheid een schriftelijk beroep te doen op de bankgarantie ingeval:
 
-- (i). definitief surséance van betaling is verleend aan het geldtransactiekantoor,
+   - (i) definitief surséance van betaling is verleend aan het geldtransactiekantoor,
 
-- (ii). het geldtransactiekantoor bij in kracht van gewijsde gegane rechterlijke uitspraak in staat van faillissement is verklaard of
+   - (ii) het geldtransactiekantoor bij in kracht van gewijsde gegane rechterlijke uitspraak in staat van faillissement is verklaard of
 
-- (iii). het geldtransactiekantoor gedreven wordt door een natuurlijk persoon, ten aanzien van die natuurlijk persoon de definitieve toepassing van de schuldsaneringsregeling is uitgesproken;
+   - (iii) het geldtransactiekantoor gedreven wordt door een natuurlijk persoon, ten aanzien van die natuurlijk persoon de definitieve toepassing van de schuldsaneringsregeling is uitgesproken;
 
 - c. dat dit beroep op de bankgarantie binnen acht weken na het zich voordoen van de onder b. genoemde omstandigheden moet worden gedaan bij de curator, respectievelijk de bewindvoerder, dan wel de vereffenaar onder bijsluiting van een kopie van het/de geldtransactiecontract(en) en een schriftelijke verklaring van de derde(n) elders dat de gelden niet zijn uitbetaald dan wel betaalbaar zijn gesteld;
 
@@ -302,15 +275,15 @@ Het geldtransactiekantoor dat geldtransferactiviteiten verricht informeert de op
 
 - e. het niet van toepassing zijn van de Collectieve Garantieregeling, als bedoeld in de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792).
 
-### Hoofdstuk 6A. Naleving van de [Sanctiewet 1977](onbekend) door geldstransactiekantoren
+### Hoofdstuk 6A. Naleving van de Sanctiewet 1977 door geldstransactiekantoren
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26a
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
@@ -339,109 +312,3 @@ Deze regeling kan worden aangehaald als: Regeling bedrijfsvoering en administrat
 Deze regeling treedt in werking op het moment dat [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013816) in werking treedt, met uitzondering van [hoofdstuk 6A](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=6A&z=2005-10-01&g=2005-10-01), dat in werking treedt op een nader te bepalen tijdstip.
 
 Deze regeling zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=I&z=2005-10-01&g=2005-10-01) en de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage I. behorende bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=1&artikel=11&z=2005-10-01&g=2005-10-01) van de Regeling bedrijfsvoering en administratieve organisatie Wet inzake geldtransactiekantoren
-
-In het procedurehandboek van het geldtransactiekantoor is minimaal het volgende geregeld:
-
-### **Beveiliging van waarden**
-
-### **Het kasverkeer**
-
-### **De aanwezigheid van medewerkers**
-
-### **De informatieverstrekking aan cliënten**
-
-### **Overige procedures**
-
-### **Specifieke procedures met betrekking tot geldtransferactiviteiten:**
-
-## Bijlage II. behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=2&artikel=19&z=2005-10-01&g=2005-10-01) van de Regeling bedrijfsvoering en administratieve organisatie Wet inzake de geldtransactiekantoren
-
-### Boekingsschema 1
-
-Gelet op [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=2&artikel=19&z=2005-10-01&g=2005-10-01), van de regeling dienen de gegarandeerde geldtransfers volgens het onderstaande boekingsschema in de financiële administratie te worden opgenomen. Ten behoeve van dit boekingsschema kunnen vier achtereenvolgende gebeurtenissen worden onderscheiden, die als volgt kunnen worden omschreven:
-
-Het voorgaande betekent dat met betrekking tot de hiervoor genoemde gebeurtenissen de volgende boekingen moeten plaatsvinden:
-
-**NB: Niet uit te sluiten is, dat kantoor A en kantoor B dezelfde (financiële) instelling zijn, dan wel bijkantoren van hetzelfde geldtransactiekantoor zijn. Ook in die gevallen blijft het bovenstaand boekingsschema van overeenkomstige toepassing ,waarbij veelal gebruik zal worden gemaakt van rekeningcourant verhoudingen tussen de groepsmaatschappijen.**
-
-Zolang geen bericht is ontvangen van kantoor B dat betaling of betaalbaarstelling heeft plaatsgevonden aan de begunstigde elders, dient geldtransactiekantoor A ervoor zorg te dragen dat het totale bedrag aan schuldposities lager is dan het bedrag van de bankgarantie.
-
-Alle transacties met derden (de opdrachtgever, geldtransactiekantoren, begunstigden, bijkantoren en anderen) dienen door kantoor A à tempo te worden geregistreerd zodat, voorzover van toepassing, op ieder gewenst moment:
-
-Indien de ontvangst door kantoor A van gelden of geldwaarden van een opdrachtgever, door dit kantoor telefonisch wordt doorgegeven aan het desbetreffende kantoor B, dient dit bericht schriftelijk of elektronisch (bijvoorbeeld per fax of per e-mail) te worden bevestigd.
-
-Het geldtransactiekantoor legt bij de vereffening van vorderingen dan wel schulden in de financiële administratie vast welk soort vereffening het betreft. De volgende drie soorten vereffening dienen daarbij te worden onderscheiden:
-
-### Boekingsschema 2
-
-Gelet op [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=2&artikel=19&z=2005-10-01&g=2005-10-01), van de regeling dienen de geadviseerde geldtransfers volgens het onderstaande boekingsschema in de financiële administratie te worden opgenomen. Ten behoeve van dit boekingsschema kunnen vier achtereenvolgende gebeurtenissen worden onderscheiden, die als volgt kunnen worden omschreven:
-
-Het voorgaande betekent dat met betrekking tot de hiervoor genoemde gebeurtenissen de volgende boekingen moeten plaatsvinden:
-
-**NB: Niet uit te sluiten is, dat kantoor D en kantoor C dezelfde (financiële) instelling zijn, dan wel bijkantoren van hetzelfde geldtransactiekantoor zijn. Ook in die gevallen blijft het bovenstaand boekingsschema van overeenkomstige toepassing ,waarbij veelal gebruik zal worden gemaakt van rekeningcourant verhoudingen tussen de groepsmaatschappijen.**
-
-Alle transacties met derden (de opdrachtgever, geldtransactiekantoren, begunstigden, bijkantoren en anderen) dienen door kantoor D à tempo te worden geregistreerd zodat, voorzover van toepassing, op ieder gewenst moment:
-
-Telefonische berichtgeving van derden en bevestiging
-
-Indien de betaling of betaalbaarstelling door kantoor D van gelden of geldswaarden aan een begunstigde telefonisch wordt doorgegeven aan het desbetreffende kantoor C, dient dit bericht schriftelijk of elektronisch (bijvoorbeeld per fax of per e-mail) te worden bevestigd.
-
-Het geldtransactiekantoor legt bij de vereffening van vorderingen dan wel schulden in de financiële administratie vast welk soort vereffening het betreft. De volgende drie soorten vereffening dienen daarbij te worden onderscheiden:
-
-## Bijlage III. behorende bij [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=6&z=2005-10-01&g=2005-10-01) van de Regeling bedrijfsvoering en administratieve organisatie Wet inzake de geldtransactiekantoren
-
-### Model van de bankgarantie
-
-BANKGARANTIE
-
-Ondergetekende,...............................
-
-gevestigd te .......................................
-
-mede kantoorhoudende te ...............,
-
-hierna te noemen “de Bank”,
-
-IN AANMERKING NEMENDE:
-
-VERKLAART:
-
-## Bijlage IV. bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=1&artikel=10&z=2005-10-01&g=2005-10-01), tweede lid van de Regeling bedrijfsvoering en administratieve organisatie Wet inzake de geldtransactiekantoren
-
-De administratieve organisatie van een geldtransactiekantoor dat wisselactiviteiten verricht, dient zodanig te zijn ingericht, dat zowel in de financiële administratie als op de transactiebon ten minste de volgende informatie is opgenomen:
-
-- a. een doorlopende nummering;
-
-- b. de transactiedatum;
-
-- c. de gekochte of verkochte valuta's en het bedrag;
-
-- d. de muntsoort van de tegenwaarde en het bedrag;
-
-- e. de koers;
-
-- f. de kosten of provisies;
-
-- g. de creditcard- of cheque-organisatie;
-
-- h. de coupongegevens, het couponpercentage, de vervaldatum, de uitgevende instantie en het couponbedrag.
-
-De administratieve organisatie van een geldtransactiekantoor dat geldtransferactiviteiten verricht, dient zodanig te zijn ingericht, dat zowel in de financiële administratie als op de transactiebon ten minste de volgende informatie is opgenomen:
-
-- a. een doorlopende nummering;
-
-- b. de transactiedatum;
-
-- c. het ontvangen bedrag en de valutasoort;
-
-- d. het uit te betalen bedrag en de valutasoort;
-
-- e. de naam-, adres- en woonplaats-gegevens van de opdrachtgever;
-
-- f. de naam-, adres- en woonplaats-gegevens van de begunstigde;
-
-- g. de naam-, adres- en woonplaats- gegevens van het geldtransactiekantoor in het land van de begunstigde;
-
-- h. de naam-, adres- en woonplaats-gegevens van de vestiging van tussenpersonen en, indien van toepassing, een eventueel merkteken.

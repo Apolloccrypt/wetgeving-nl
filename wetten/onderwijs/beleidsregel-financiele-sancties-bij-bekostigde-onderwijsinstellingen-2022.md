@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0047690"
-opgehaald: 2026-08-05
+opgehaald: 2026-08-06
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 16 december 2022, nr. VO/35104710, met betrekking tot de wijze van uitoefening van de bevoegdheid tot het opleggen van financiële sancties bij bekostigde onderwijsinstellingen (Beleidsregel financiële sancties bij bekostigde onderwijsinstellingen 2022)

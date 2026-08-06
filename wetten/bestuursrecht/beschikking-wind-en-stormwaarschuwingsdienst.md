@@ -1,43 +1,18 @@
 ---
 title: "Wijzigingsvoorstel op ministeriële beschikking nr. 801, van 14 april 1972"
+citeertitel: "Beschikking wind- en stormwaarschuwingsdienst"
 identifier: "BWBR0012825"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012825"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5556493"
-version_id: "9963332"
-internal_id: "C13448761"
-label_id: "5528254"
-dtd_version: "2.0"
-original_entry_into_force: "2001-09-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012825/2019-07-01/0"
-intitule_bron: "Stcrt.2001-183"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-09-18"
-intitule_published: "2001-09-21"
-intitule_in_force: "2001-09-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-183"
-original_signed_date: "2001-09-18"
-original_published_date: "2001-09-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-09-21"
-jci_1_3: "jci1.3:c:BWBR0012825&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0012825&g=2019-07-01"
-citeertitel_status: "officieel"
-short_title: "Beschikking wind- en stormwaarschuwingsdienst"
-signed_date: "2001-09-18"
-entry_into_force: "2001-09-21"
+publicatiedatum: 2001-09-21
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0012825"
+opgehaald: 2026-08-06
 ---
+
 # Wijzigingsvoorstel op ministeriële beschikking nr. 801, van 14 april 1972
-
-Gelet op het in 1960 in Londen mede door de Nederlandse Regering ondertekende Internationale Verdrag voor de Beveiliging van Mensenlevens op Zee, Hoofdstuk 5 bepaling 4 (meteorologische dienstverlening), en gezien het rapport van overleg dat terzake heeft plaats gehad tussen met name de vertegenwoordigers van het Koninklijk Nederlands Meteorologisch Instituut, de Hoofddirectie van Rijkswaterstaat en het Ministerie van Defensie in het Interdepartementaal Directeurenoverleg Noordzee van 13 juni 2001;
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -61,7 +36,7 @@ De waarschuwingen worden bekend gemaakt door middel van
 
 ##### Artikel 4
 
-De bekendmaking van de waarschuwingen via radiocommunicatiemiddelen is opgedragen aan de directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend). Daarnaast worden de bekendmakingen van de waarschuwingen door het K.N.M.I. zo breed mogelijk bekend gesteld.
+De bekendmaking van de waarschuwingen via radiocommunicatiemiddelen is opgedragen aan de directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland. Daarnaast worden de bekendmakingen van de waarschuwingen door het K.N.M.I. zo breed mogelijk bekend gesteld.
 
 ##### Artikel 5
 
@@ -89,7 +64,7 @@ De berichten worden bekend gemaakt door middel van
 
 ##### Artikel 9
 
-De bekendmaking van de weerbulletins via radiocommunicatiemiddelen is opgedragen aan de directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend).
+De bekendmaking van de weerbulletins via radiocommunicatiemiddelen is opgedragen aan de directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland.
 
 Een zo breed mogelijke bekendmaking van de weerbulletins wordt door het K.N.M.I. nagestreefd.
 

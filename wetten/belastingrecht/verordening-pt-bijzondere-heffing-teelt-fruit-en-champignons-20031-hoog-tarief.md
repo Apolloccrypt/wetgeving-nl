@@ -1,52 +1,24 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2003 (Verordening PT bijzondere heffing teelt fruit en champignons 2003/1 (hoog tarief))"
+citeertitel: "Verordening PT bijzondere heffing teelt fruit en champignons 2003/1 (hoog tarief)"
 identifier: "BWBR0013831"
-country: "nl"
-rank: "pbo"
-publication_date: "2003-02-08"
-last_updated: "2003-02-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013831"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6051873"
-version_id: "10668532"
-internal_id: "C29084651"
-label_id: "6041284"
-original_entry_into_force: "2003-02-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013831/2003-02-08/0"
-intitule_bron: "Vbbo.2003-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-07-03"
-intitule_published: "2003-02-07"
-intitule_in_force: "2003-02-07"
-intitule_status: "goed"
-original_publication: "Vbbo.2003-10"
-original_signed_date: "2002-07-03"
-original_published_date: "2003-02-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-02-08"
-jci_1_3: "jci1.3:c:BWBR0013831&z=2003-02-08&g=2003-02-08"
-jci_1_0: "1.0:c:BWBR0013831&g=2003-02-08"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing teelt fruit en champignons 2003/1 (hoog tarief)"
-signed_date: "2002-07-03"
-entry_into_force: "2003-02-08"
+publicatiedatum: 2003-02-08
+laatste_update: 2003-02-08
+status: geldig
+toestand: 2003-02-08
+bron: "https://wetten.overheid.nl/BWBR0013831"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2003 (Verordening PT bijzondere heffing teelt fruit en champignons 2003/1 (hoog tarief))
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 14](onbekend), [15](onbekend) en [19](onbekend), van de Instellingsverordening Productschap Tuinbouw 1998;
-
-gehoord de sectorcommissie Groenten en Fruit, d.d. 20 juni 2002;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
-1. In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 2](onbekend) en [3, van de Instellingsverordening Productschap Tuinbouw](onbekend).
+1. In deze verordening worden overgenomen de begripsbepalingen van de artikelen 2 en 3, van de Instellingsverordening Productschap Tuinbouw.
 
 2. In deze verordening wordt verstaan onder:
 
@@ -57,7 +29,7 @@ BESLUIT:
 | d. | de onderneming: | onderneming waarvoor het productschap is ingesteld; |
 | e. | de ondernemer: | de natuurlijke of rechtspersoon die de onderneming drijft; |
 | f. | het braakland: | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld, alsmede niet beteelde gronden, waarop in juli of augustus in enig oogstjaar aardbeien zullen worden geplant en waarvan in het daaropvolgende jaar zal worden geoogst; |
-| g. | de cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeirnedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013831&paragraaf=3&artikel=4&z=2003-02-08&g=2003-02-08) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de [Regeling Landbouwtelling](onbekend), nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| g. | de cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeirnedium met behulp waarvan de in artikel 4 genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | h. | de teelt onder glas: | iedere andere teelt dan die in de open grond; |
 | i. | de gemeten maat: | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | j. | de contractteelt: | de teelt van gewassen of producten ingevolge een overeenkomst; |
@@ -69,7 +41,7 @@ BESLUIT:
 
 1. De ondernemer die in het jaar 2003 een onderneming drijft waarin fruit of champignons worden geteeld is aan het productschap een heffing verschuldigd,
 
-2. De berekening van de heffing als bedoeld in het eerste lid, vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de [Verordening PT registratie en verstrekking van gegevens 1997](onbekend), verstrekte gegevens.
+2. De berekening van de heffing als bedoeld in het eerste lid, vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de Verordening PT registratie en verstrekking van gegevens 1997, verstrekte gegevens.
 
 3. De heffing als bedoeld in het eerste lid, is aan het productschap verschuldigd over het kalenderjaar 2003, ten behoeve van afzetbevordering, onderzoek en milieuprojecten.
 
@@ -118,7 +90,7 @@ De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, ee
 
 ##### Artikel 6
 
-Indien een heffingsplichtige gegevens, die hem krachtens deze verordening of de [Verordening PT registratie en verstrekking van gegevens 1997](onbekend), ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, welke heffing in dat geval verhoogd wordt met € 40,= administratiekosten.
+Indien een heffingsplichtige gegevens, die hem krachtens deze verordening of de Verordening PT registratie en verstrekking van gegevens 1997, ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, welke heffing in dat geval verhoogd wordt met € 40,= administratiekosten.
 
 ##### Artikel 7
 
@@ -179,9 +151,3 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 ##### Artikel 15
 
 Deze verordening wordt aangehaald als: Verordening PT bijzondere heffing teelt fruit en champignons 2003/1 (hoog tarief).
-
-## Bijlage
-
-Niet opgenomen.
-
-Deze verordening en de daarbij behorende bijlage worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

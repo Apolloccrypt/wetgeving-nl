@@ -1,37 +1,16 @@
 ---
 title: "Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 2001-2002"
 identifier: "BWBR0013185"
-country: "nl"
-rank: "circulaire"
-publication_date: "2001-12-14"
-last_updated: "2001-12-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013185"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "6368263"
-version_id: "11029942"
-internal_id: "C14926931"
-label_id: "6357684"
-original_entry_into_force: "2001-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013185/2001-12-14/0"
-intitule_bron: "Stcrt.2001-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-14"
-intitule_published: "2001-12-27"
-intitule_in_force: "2001-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-249"
-original_signed_date: "2001-12-14"
-original_published_date: "2001-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-249-p5-SC32444"
-entry_into_force_date: "2001-12-14"
-jci_1_3: "jci1.3:c:BWBR0013185&z=2001-12-14&g=2001-12-14"
-jci_1_0: "1.0:c:BWBR0013185&g=2001-12-14"
-citeertitel_status: "redactioneel"
-signed_date: "2001-12-14"
-entry_into_force: "2001-12-14"
+publicatiedatum: 2001-12-14
+laatste_update: 2001-12-14
+status: geldig
+toestand: 2001-12-14
+bron: "https://wetten.overheid.nl/BWBR0013185"
+opgehaald: 2026-08-06
 ---
+
 # Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 2001-2002
 
 ### Inleiding/managementinformatie
@@ -92,15 +71,15 @@ De procentuele eindejaarsuitkering wordt met ingang van het jaar 2001 structuree
 
 ### 5. Salarisbedragen in euro per 1 januari 2002
 
-Bij het [Aanpassingsbesluit euro](onbekend) zijn de salarisbedragen in guldens zoals deze golden per 1 januari 2001 met ingang van 1 januari 2002 omgezet in bedragen in euro's.
+Bij het Aanpassingsbesluit euro zijn de salarisbedragen in guldens zoals deze golden per 1 januari 2001 met ingang van 1 januari 2002 omgezet in bedragen in euro's.
 
-In verband met de salarisverhoging per 1 oktober 2001 dienen de salarisbedragen in euro's per 1 januari 2002 opnieuw te worden vastgesteld. Uitgangspunt hierbij is dat de bedragen technisch worden omgezet en rekenkundig worden afgerond op twee decimalen. De omrekening vindt plaats op basis van de vastgestelde koers van € 1 = f 2,20371. Dit uitgangspunt is gebaseerd op de [Verordening (EG) nr. 1103/97](31997R1103) van de Raad van 17 juni 1997.
+In verband met de salarisverhoging per 1 oktober 2001 dienen de salarisbedragen in euro's per 1 januari 2002 opnieuw te worden vastgesteld. Uitgangspunt hierbij is dat de bedragen technisch worden omgezet en rekenkundig worden afgerond op twee decimalen. De omrekening vindt plaats op basis van de vastgestelde koers van € 1 = f 2,20371. Dit uitgangspunt is gebaseerd op de Verordening (EG) nr. 1103/97 van de Raad van 17 juni 1997.
 
 Een overzicht van de schalen van het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) per 1 januari 2002 is als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013185&bijlage=4&z=2001-12-14&g=2001-12-14) bijgevoegd. De EHBO-toelage ingevolge [artikel 13, derde lid, van de Overgangsregeling BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003631&artikel=13) van f 19,20 wordt omgezet in € 8,71.
 
 ### 6. Salarisontwikkeling per 1 juli 2002
 
-Met ingang van 1 april 2002 worden enkele wijzigingen doorgevoerd in het [Besluit tegemoetkoming ziektekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006855) (zie onderdeel III). Ter compensatie van de negatieve inkomenseffecten (die eerst vanaf 1 juli 2002 optreden) worden de salarissen met ingang van 1 juli 2002 in structurele zin verhoogd met 0,5%.
+Met ingang van 1 april 2002 worden enkele wijzigingen doorgevoerd in het [Besluit tegemoetkoming ziektekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006855) (zie [onderdeel III](https://wetten.overheid.nl/BWBR0013185)). Ter compensatie van de negatieve inkomenseffecten (die eerst vanaf 1 juli 2002 optreden) worden de salarissen met ingang van 1 juli 2002 in structurele zin verhoogd met 0,5%.
 
 ### a. Salarisbedragen per 1 juli 2002
 
@@ -130,13 +109,21 @@ Ik verzoek u in verband met de genoemde salarismaatregel met ingang van de salar
 
 ### 7. Eenmalige roosteruitkering
 
-Ambtenaren die op 1 juli 2002 in dienst zijn en die krachtens een werktijdregeling regelmatig of vrij regelmatig arbeid verrichten op andere tijden dan op de dagen maandag tot en met vrijdag tussen 8 en 18 uur ontvangen in de maand juli 2002 een eenmalige bruto uitkering van € 450. Dit bedrag geldt bij een volledige arbeidsduur van 36 uur en het wordt dus vermenigvuldigd met de voor de ambtenaar geldende arbeidsduurfactor (zie onderdeel II).
+Ambtenaren die op 1 juli 2002 in dienst zijn en die krachtens een werktijdregeling regelmatig of vrij regelmatig arbeid verrichten op andere tijden dan op de dagen maandag tot en met vrijdag tussen 8 en 18 uur ontvangen in de maand juli 2002 een eenmalige bruto uitkering van € 450. Dit bedrag geldt bij een volledige arbeidsduur van 36 uur en het wordt dus vermenigvuldigd met de voor de ambtenaar geldende arbeidsduurfactor (zie [onderdeel II](https://wetten.overheid.nl/BWBR0013185)).
 
 ### II. Flexibilisering arbeidsduur
 
 De norm voor de arbeidsduur blijft gehandhaafd op gemiddeld 36 uur per week bij een volledige betrekking. Afgesproken is echter dat met ingang van 1 april 2002 op verzoek van de ambtenaar diens individuele arbeidsduur structureel kan worden verhoogd in hele uren tot maximaal gemiddeld 40 uur per week, tenzij het dienstbelang zich daartegen verzet. Een en ander zal worden vormgegeven door de introductie van het begrip 'arbeidsduurfactor'. Dit is een breuk waarvan de teller de individuele arbeidsduur is en de noemer 36 is. Het aantal te werken uren op jaarbasis gebaseerd op een volledige betrekking van gemiddeld 36 uur per week wordt met de arbeidsduurfactor vermenigvuldigd, waarna zonodig afronding op hele uren naar boven plaatsvindt.
 
 Dit leidt voor de vier mogelijkheden tot de volgende arbeidsduurfactoren:
+
+- - bij 37 uur: 37/36,
+
+- - bij 38 uur: 38/36,
+
+- - bij 39 uur: 39/36,
+
+- - bij 40 uur: 40/36.
 
 Deze mogelijkheid van structurele verhoging van de individuele arbeidsduur komt naast de bestaande mogelijkheid om in het kader van IKAP voor de duur van een jaar de arbeidsduur met maximaal 100 uur op jaarbasis te verhogen. Er geldt echter wel een maximum. Structurele verhoging van de individuele arbeidsduur gecombineerd met het in enig jaar meer uren werken op grond van IKAP mag er niet toe leiden dat er in dat jaar een werkweek ontstaat van meer dan gemiddeld 40 uur.
 
@@ -158,21 +145,33 @@ In een afzonderlijke circulaire zal ik begin 2002 nader ingaan op een aantal ove
 
 ### III. Modernisering ziektekostenregelingen
 
-### 1. [Besluit tegemoetkoming ziektekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006855)
+### 1. Besluit tegemoetkoming ziektekosten rijkspersoneel
 
 Met ingang van 1 april 2002 worden de volgende wijzigingen doorgevoerd:
 
-### 2. [Regeling Ziektekostenvoorziening rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008818)
+- a. er wordt geen tegemoetkoming meer verstrekt voor partners met een eigen inkomen dat meer bedraagt dan tweemaal de algemene heffingskorting krachtens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353);
+
+- b. er wordt voor maximaal drie kinderen (die aan de voorwaarden voor een tegemoetkoming voldoen) een tegemoetkoming verstrekt;
+
+- c. indien sprake is van kinderen jonger dan 16 jaar wordt voor maximaal twee daarvan een tegemoetkoming verstrekt;
+
+- d. er wordt alleen een tegemoetkoming voor kinderen verstrekt als het inkomen van de ambtenaar meer bedraagt dan dat van diens partner.
+
+### 2. Regeling Ziektekostenvoorziening rijkspersoneel
 
 De volgende wijzigingen worden doorgevoerd:
 
+- a. met ingang van 1 april 2002 wordt een partner met een eigen inkomen dat meer bedraagt dan tweemaal de algemene heffingskorting ingevolge de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) niet meer aangemerkt als medebetrokkene. Een aan de partner toegekende uitkering krachtens de [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) wordt niet beschouwd als inkomen in de zin van de regeling;
+
+- b. met ingang van 1 januari 2002 wordt voor personen jonger dan 65 jaar het maximumbedrag van de premie dat bij de berekening van de tegemoetkoming in aanmerking wordt genomen vastgesteld op het premiebedrag van de Standaardpakketpolis.
+
 ### IV. Onkostenvergoedingen rijksambtenaren
 
-### 1. De [Regeling telefoonkostenvergoeding](onbekend)
+### 1. De Regeling telefoonkostenvergoeding
 
 Deze regeling, die uitsluitend een vergoeding voor het gebruik van de privé-telefoon kent, wordt met ingang van 1 juli 2002 ingetrokken. Indien het noodzakelijk is dat een ambtenaar buiten de normale werktijden en werkplek voor dienstdoeleinden de beschikking heeft over communicatieapparatuur dient dit door de dienst te worden verstrekt. Eventuele abonnementen staan op die manier op naam van de organisatie en ook de rekening voor het gebruik zal rechtstreeks aan de dienst worden gezonden. Mocht in incidentele gevallen een ambtenaar niettemin privé communicatieapparatuur voor dienstdoeleinden moeten gebruiken dan kan een vergoeding van de kosten worden toegekend op grond van [artikel 69, eerste lid, ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69).
 
-### 2. Het [Besluit vergoeding representatiekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102)
+### 2. Het Besluit vergoeding representatiekosten rijkspersoneel
 
 Dit [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) wordt met ingang van 1 januari 2002 zodanig gewijzigd dat het bevoegd gezag de mogelijkheid krijgt om een ambtenaar een vaste vergoeding toe te kennen van maximaal € 6 400 per jaar. In hoeverre een dergelijke vergoeding belastingvrij kan worden toegekend is afhankelijk van de vraag of men voldoet aan de fiscale eisen terzake. De voornaamste daarvan is dat aannemelijk gemaakt moet worden dat de toegekende vergoeding in overeenstemming is met de gedane uitgaven. Kan dit niet dan geldt dat de vergoeding door de belastingwetgeving als belastbaar inkomen wordt gezien waarover loonheffing enz. dient plaats te vinden.
 
@@ -202,7 +201,7 @@ Er zal door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in same
 
 ### IX. Overige onderwerpen
 
-Voor de overige onderwerpen verwijs ik u naar de [Arbeidsvoorwaardenovereenkomst sector Rijk 2001 -2002](onbekend).
+Voor de overige onderwerpen verwijs ik u naar de Arbeidsvoorwaardenovereenkomst sector Rijk 2001 -2002.
 
 ### Slotopmerkingen
 
@@ -210,16 +209,16 @@ Zodra de formalisering, voor zover dat noodzakelijk is, van de hiervoor genoemde
 
 Medewerkers van de afdelingen Personeelszaken van geadresseerden kunnen over de desbetreffende onderwerpen inlichtingen verkrijgen bij de onderstaande personen:
 
-## Bijlage 1
-
-(wordt hier niet gepubliceerd)
-
-## Bijlage 2. Inpassingstabel per 1 oktober 2001 voor de salarisbedragen
-
-## Bijlage 3. Schalen van het [BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) per 1 oktober 2001
-
-## Bijlage 4. Schalen van het [BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) per 1 januari 2002
-
-## Bijlage 5. Inpassingstabel per 1 juli 2002 voor de salarisbedragen
-
-## Bijlage 6. Schalen van het [BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) per 1 juli 2002
+| Onderdeel | Onderwerp | Persoon en e-mailadres | Telefoon |
+| --- | --- | --- | --- |
+| I m.u.v. I.3 en I.7 | Inkomensontwikkeling | H. Martens Halbe.Martens@minbzk.nl | 070- 426 6904 |
+| I.3 en | Afschaffing jeugdsalarissen | J.W. van Baarle | 070- 426 7661 |
+| 1.7 | Eenmalige roostertoelage | John.Baarle@minbzk.nl |  |
+| II | Flexibilisering arbeidsduur | J.W. van Baarle John.Baarle@minbzk.nl | 070- 426 7661 |
+| III | Modernisering ziektekostenregelingen | mw. C.A. van Ogtrop Chris.Ogtrop@minbzk.nl | 070- 426 6900 |
+| IV | Onkostenvergoedingen rijksambtenaren | P. Rimmelzwaan Paul.Rimmelzwaan@minbzk.nl | 070- 426 6595 |
+| V | Verlaging vakantieaanspraken tbv verlofsparen | P. Rimmelzwaan Paul.Rimmelzwaan@minbzk.nl | 070- 426 6595 |
+| VI | Verbetering arbeidsmarktpositie sector Rijk | C. Terbrack Coen.Terbrack@minbzk.nl | 070- 426 7514 |
+| VII | Verhoging arbeidsparticipatie ouderen | J.L. van Sloten Jan.Sloten@minbzk.nl | 070- 426 7093 |
+| VIII | Loopbaanscan | O. Andersen Olaf.Andersen@minbzk.nl | 070- 426 8037 |
+| IX | Overige onderwerpen | C. Terbrack Coen.Terbrack@minbzk.nl | 070- 426 7514 |

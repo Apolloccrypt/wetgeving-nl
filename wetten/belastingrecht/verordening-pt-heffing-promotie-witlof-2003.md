@@ -1,52 +1,24 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van een heffing over de teelt van witlof bestemd voor de promotie van witlof, voor het jaar 2003 (Verordening PT heffing promotie witlof 2003)"
+citeertitel: "Verordening PT heffing promotie witlof 2003"
 identifier: "BWBR0013835"
-country: "nl"
-rank: "pbo"
-publication_date: "2003-03-08"
-last_updated: "2003-03-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013835"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6052933"
-version_id: "10680262"
-internal_id: "C29085381"
-label_id: "6042294"
-original_entry_into_force: "2003-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013835/2003-03-08/0"
-intitule_bron: "Vbbo.2003-17"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-07-03"
-intitule_published: "2003-03-07"
-intitule_in_force: "2003-03-07"
-intitule_status: "goed"
-original_publication: "Vbbo.2003-17"
-original_signed_date: "2002-07-03"
-original_published_date: "2003-03-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-03-08"
-jci_1_3: "jci1.3:c:BWBR0013835&z=2003-03-08&g=2003-03-08"
-jci_1_0: "1.0:c:BWBR0013835&g=2003-03-08"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing promotie witlof 2003"
-signed_date: "2002-07-03"
-entry_into_force: "2003-03-08"
+publicatiedatum: 2003-03-08
+laatste_update: 2003-03-08
+status: geldig
+toestand: 2003-03-08
+bron: "https://wetten.overheid.nl/BWBR0013835"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van een heffing over de teelt van witlof bestemd voor de promotie van witlof, voor het jaar 2003 (Verordening PT heffing promotie witlof 2003)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 14](onbekend), [15](onbekend) en [19, van de Instellingsverordening Productschap Tuinbouw 1998](onbekend);
-
-gehoord de sectorcommissie Groenten en Fruit, d.d. 20 juni 2002;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
-1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](onbekend) en [2, van de Instellingsverordening Productschap Tuinbouw 1998](onbekend).
+1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2, van de Instellingsverordening Productschap Tuinbouw 1998.
 
 2. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -81,7 +53,7 @@ BESLUIT:
 
 ##### Artikel 4
 
-Indien de heffingsplichtige de gegevens die hem krachtens de [Verordening PT algemene bepalingen](onbekend), ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
+Indien de heffingsplichtige de gegevens die hem krachtens de Verordening PT algemene bepalingen, ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
 
 ##### Artikel 5
 
@@ -136,5 +108,3 @@ De eventueel uit het niet binnen de gestelde termijn voortvloeiende invorderings
 ##### Artikel 11
 
 Deze verordening wordt aangehaald als: Verordening PT heffing promotie witlof 2003.
-
-De verordening en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

@@ -1,44 +1,17 @@
 ---
 title: "Mandaatbesluit Zvr-regeling"
 identifier: "BWBR0012827"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-08-01"
-last_updated: "2001-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012827"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5745913"
-version_id: "10297572"
-internal_id: "C13930891"
-label_id: "5726134"
-dtd_version: "2.0"
-original_entry_into_force: "2001-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012827/2001-08-01/0"
-intitule_bron: "Stcrt.2001-191"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-09-18"
-intitule_published: "2001-10-03"
-intitule_in_force: "2001-10-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-191"
-original_signed_date: "2001-09-18"
-original_published_date: "2001-10-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-08-01"
-jci_1_3: "jci1.3:c:BWBR0012827&z=2001-08-01&g=2001-08-01"
-jci_1_0: "1.0:c:BWBR0012827&g=2001-08-01"
-citeertitel_status: "officieel"
-signed_date: "2001-09-18"
-entry_into_force: "2001-08-01"
+publicatiedatum: 2001-08-01
+laatste_update: 2001-08-01
+status: geldig
+toestand: 2001-08-01
+bron: "https://wetten.overheid.nl/BWBR0012827"
+opgehaald: 2026-08-06
 ---
+
 # Mandaatbesluit Zvr-regeling
-
-Gelet op [artikel 10:3 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Gezien de raamovereenkomst van 11 mei 2001, kenmerk MPA2001/72465 inzake uitvoering Regeling ziektekostenvoorziening rijkspersoneel,
-
-Besluit:
 
 ##### Artikel 1
 

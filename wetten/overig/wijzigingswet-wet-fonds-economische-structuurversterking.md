@@ -1,46 +1,22 @@
 ---
 title: "Wet van 16 mei 2002, houdende wijziging van de Wet Fonds economische structuurversterking"
+citeertitel: "Wijzigingswet Wet Fonds economische structuurversterking"
 identifier: "BWBR0013692"
-country: "nl"
-rank: "wet"
-publication_date: "2002-09-01"
-last_updated: "2002-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013692"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1975583"
-version_id: "2926482"
-internal_id: "C2926481"
-label_id: "1924824"
-dtd_version: "2.0"
-original_entry_into_force: "2002-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013692/2002-09-01/0"
-intitule_bron: "Stb.2002-294"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-05-16"
-intitule_published: "2002-06-18"
-intitule_in_force: "2002-06-18"
-intitule_status: "goed"
-original_publication: "Stb.2002-294"
-original_signed_date: "2002-05-16"
-original_published_date: "2002-06-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "28119"
-original_url_id: "stb-2002-294"
-entry_into_force_date: "2002-09-01"
-entry_into_force_dossier: "28119"
-jci_1_3: "jci1.3:c:BWBR0013692&z=2002-09-01&g=2002-09-01"
-jci_1_0: "1.0:c:BWBR0013692&g=2002-09-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet Fonds economische structuurversterking"
-signed_date: "2002-05-16"
-entry_into_force: "2002-09-01"
+publicatiedatum: 2002-09-01
+laatste_update: 2002-09-01
+status: geldig
+toestand: 2002-09-01
+bron: "https://wetten.overheid.nl/BWBR0013692"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 16 mei 2002, houdende wijziging van de Wet Fonds economische structuurversterking
 
 ##### Artikel I
 
-Wijzigt de Wet Fonds economische structuurversterking
+*Wijzigt de Wet Fonds economische structuurversterking*
 
 ##### Artikel II
 
@@ -55,11 +31,3 @@ Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaa
 - a. wat betreft [artikel I, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013692&artikel=I&z=2002-09-01&g=2002-09-01), tot en met 1 januari 2001;
 
 - b. wat betreft [artikel I, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013692&artikel=I&z=2002-09-01&g=2002-09-01), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013692&artikel=II&z=2002-09-01&g=2002-09-01), tot en met 1 januari 2000.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de bepalingen met betrekking tot de voeding van het Fonds economische structuurversterking te verfijnen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

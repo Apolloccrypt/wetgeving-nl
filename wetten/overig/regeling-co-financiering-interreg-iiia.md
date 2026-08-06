@@ -1,42 +1,17 @@
 ---
 title: "Regeling co-financiering Interreg IIIA"
 identifier: "BWBR0013182"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-11-16"
-last_updated: "2002-11-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013182"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4046013"
-version_id: "5819112"
-internal_id: "C6021851"
-label_id: "4025984"
-dtd_version: "2.0"
-original_entry_into_force: "2001-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013182/2002-11-16/0"
-intitule_bron: "Stcrt.2001-245"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-14"
-intitule_published: "2001-12-18"
-intitule_in_force: "2001-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-245"
-original_signed_date: "2001-12-14"
-original_published_date: "2001-12-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-12-20"
-jci_1_3: "jci1.3:c:BWBR0013182&z=2002-11-16&g=2002-11-16"
-jci_1_0: "1.0:c:BWBR0013182&g=2002-11-16"
-citeertitel_status: "officieel"
-signed_date: "2001-12-14"
-entry_into_force: "2001-12-20"
+publicatiedatum: 2001-12-20
+laatste_update: 2002-11-16
+status: geldig
+toestand: 2002-11-16
+bron: "https://wetten.overheid.nl/BWBR0013182"
+opgehaald: 2026-08-06
 ---
+
 # Regeling co-financiering Interreg IIIA
-
-Gelet op [artikel 3 van het Besluit co-financiering EFRO-programma's 2000/06](https://wetten.overheid.nl/jci1.3:c:BWBR0012390&artikel=3),
-
-Besluit:
 
 ##### Artikel 1
 
@@ -104,7 +79,7 @@ De minister beslist in ieder geval afwijzend:
 
 Tot en met 31 december 2001 geldt het volgende:
 
-- a. in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013182&artikel=3&z=2002-11-16&g=2002-11-16), aanhef, bedraagt het bedrag f 93.500.000,00,
+- a. in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013182&artikel=3&z=2002-11-16&g=2002-11-16), [aanhef](https://wetten.overheid.nl/BWBR0013182), bedraagt het bedrag f 93.500.000,00,
 
 - b. in afwijking van [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013182&artikel=3&z=2002-11-16&g=2002-11-16), bedraagt het bedrag f 23.000.000,00,
 
@@ -125,5 +100,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling co-financiering Interreg IIIA.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

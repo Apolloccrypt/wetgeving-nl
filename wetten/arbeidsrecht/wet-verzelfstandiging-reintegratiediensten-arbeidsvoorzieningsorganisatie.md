@@ -1,52 +1,18 @@
 ---
 title: "Wet van 20 december 2001, houdende regels met betrekking tot de positionering van de reïntegratiediensten van de Arbeidsvoorzieningsorganisatie (Wet verzelfstandiging reïntegratiediensten Arbeidsvoorzieningsorganisatie)"
+citeertitel: "Wet verzelfstandiging reïntegratiediensten Arbeidsvoorzieningsorganisatie"
 identifier: "BWBR0013269"
-country: "nl"
-rank: "wet"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013269"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "1662933"
-version_id: "2453112"
-internal_id: "C2453111"
-label_id: "1616034"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013269/2002-01-01/0"
-intitule_bron: "Stb.2001-690"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-20"
-intitule_published: "2001-12-28"
-intitule_in_force: "2001-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2001-690"
-original_signed_date: "2001-12-20"
-original_published_date: "2001-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "27549"
-original_url_id: "stb-2001-690"
-entry_into_force_date: "2002-01-01"
-entry_into_force_dossier: "27549"
-jci_1_3: "jci1.3:c:BWBR0013269&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0013269&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet verzelfstandiging reïntegratiediensten Arbeidsvoorzieningsorganisatie"
-signed_date: "2001-12-20"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0013269"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 20 december 2001, houdende regels met betrekking tot de positionering van de reïntegratiediensten van de Arbeidsvoorzieningsorganisatie (Wet verzelfstandiging reïntegratiediensten Arbeidsvoorzieningsorganisatie)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is voorafgaand aan de voorgenomen totstandbrenging van een nieuwe structuur voor de uitvoering van werk en inkomen voorwaarden te scheppen met het oog op de uitvoering door een privaatrechtelijk bedrijf, in concurrentie met derden, van de thans aan de Arbeidsvoorzieningsorganisatie opgedragen taken ten behoeve van de reïntegratie van moeilijk plaatsbare werkzoekenden en daarmee samenhangende dienstverlening;
-
-dat daartoe gedurende een overgangsfase de reïntegratiedienstverlening in opdracht van de Arbeidsvoorzieningsorganisatie wordt uitgevoerd door een naamloze vennootschap, tegen een vergoeding die tijdelijk wordt bekostigd uit de daarvoor bestemde, in omvang afnemende, rijksbijdrage en andere inkomsten van de Arbeidsvoorzieningsorganisatie;
-
-dat het voorts wenselijk is bij wet in verband met de oprichting van die naamloze vennootschap die reïntegratiediensten verricht, waaraan de Staat der Nederlanden bij de oprichting deelneemt als aandeelhouder en waarin vermogensbestanddelen van de Arbeidsvoorzieningsorganisatie worden ingebracht, enkele aspecten van de overgang te regelen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -104,39 +70,39 @@ Met betrekking tot de ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:
 
 ### Hoofdstuk 3. Wijziging van andere wetten
 
-##### Artikel 6. Wijziging [Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367)
+##### Artikel 6. Wijziging Arbeidsvoorzieningswet 1996
 
-Wijzigt de Arbeidsvoorzieningswet 1996.
+*Wijzigt de Arbeidsvoorzieningswet 1996.*
 
-##### Artikel 7. Wijziging [Invoeringswet Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008368)
+##### Artikel 7. Wijziging Invoeringswet Arbeidsvoorzieningswet 1996
 
-Wijzigt de Invoeringswet Arbeidsvoorzieningswet 1996.
+*Wijzigt de Invoeringswet Arbeidsvoorzieningswet 1996.*
 
 ##### Artikel 8. Intrekking Veegwetartikelen inkoop
 
-Wijzigt de wet van 21 december 1995, Stb. 691, tot nadere wijziging van enkele sociale zekerheidswetten (technische verbeteringen in verband met de wetten TAV, TBA en TZ, alsmede enige andere wijzigingen).
+*Wijzigt de wet van 21 december 1995, Stb. 691, tot nadere wijziging van enkele sociale zekerheidswetten (technische verbeteringen in verband met de wetten TAV, TBA en TZ, alsmede enige andere wijzigingen).*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
-##### Artikel 10. Wijziging [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel 10. Wijziging Werkloosheidswet
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. Overige en slotbepalingen
 
 ##### Artikel 12. Belastingplicht vennootschapsbelasting
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. Informatieverstrekking aan minister
 
@@ -148,7 +114,7 @@ Vervallen
 
 ##### Artikel 15. Wijziging in verband met Wet structuur uitvoeringsorganisatie werk en inkomen
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 16. Inwerkingtreding
 
@@ -157,5 +123,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 17. Citeertitel
 
 Deze wet wordt aangehaald als: Wet verzelfstandiging reïntegratiediensten Arbeidsvoorzieningsorganisatie.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

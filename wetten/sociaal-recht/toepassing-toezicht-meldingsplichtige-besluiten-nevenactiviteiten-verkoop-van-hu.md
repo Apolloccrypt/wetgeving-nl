@@ -1,37 +1,16 @@
 ---
 title: "Toepassing toezicht (meldingsplichtige besluiten, nevenactiviteiten), verkoop van huurwoningen en invoering euro (sociale-huursector)"
 identifier: "BWBR0012970"
-country: "nl"
-rank: "circulaire"
-publication_date: "2006-07-20"
-last_updated: "2006-07-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012970"
+categorie: "Sociaal recht"
 soort: "circulaire"
-stam_id: "6366853"
-version_id: "11027532"
-internal_id: "C14924331"
-label_id: "6356064"
-original_entry_into_force: "2001-11-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012970/2006-07-20/0"
-intitule_bron: "Stcrt.2001-218"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-05"
-intitule_published: "2001-11-09"
-intitule_in_force: "2001-11-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-218"
-original_signed_date: "2001-11-05"
-original_published_date: "2001-11-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-218-p10-SC31656"
-entry_into_force_date: "2001-11-09"
-jci_1_3: "jci1.3:c:BWBR0012970&z=2006-07-20&g=2006-07-20"
-jci_1_0: "1.0:c:BWBR0012970&g=2006-07-20"
-citeertitel_status: "redactioneel"
-signed_date: "2001-11-05"
-entry_into_force: "2001-11-09"
+publicatiedatum: 2001-11-09
+laatste_update: 2006-07-20
+status: geldig
+toestand: 2006-07-20
+bron: "https://wetten.overheid.nl/BWBR0012970"
+opgehaald: 2026-08-06
 ---
+
 # Toepassing toezicht (meldingsplichtige besluiten, nevenactiviteiten), verkoop van huurwoningen en invoering euro (sociale-huursector)
 
 Geacht college/bestuur,
@@ -40,11 +19,17 @@ Geacht college/bestuur,
 
 Met deze circulaire wil ik uw aandacht vragen voor drie onderwerpen, te weten:
 
+- I. Kerntaken en nevenactiviteiten, mede in het licht van de overgang naar de implementatie van de Nota Mensen Wensen Wonen (NMWW),
+
+- II. verkoop van woningen door toegelaten instellingen, en
+
+- III. Invoering EURO.
+
 ### Kerntaken en nevenactiviteiten c.a.
 
 ### A. Aanleiding
 
-Bij [MG-circulaire 99-23](https://wetten.overheid.nl/jci1.3:c:BWBR0010820) d.d. 3 november 1999 (BBSH, toepassing van het toezicht bij nevenactiviteiten) en [MG 2001-04](onbekend) (BBSH, toepassing van het toezicht m.b.t. buitenlandse activiteiten) heb ik u geïnformeerd over de wijze waarop ik in de periode tot aan de uit de NMWW voortvloeiende regelgeving toezicht zou houden op de werkzaamheden van de toegelaten instellingen (t.i.). In die MG's is onder meer aangegeven, dat veranderende woonwensen en de integraliteit van de aanpak van die nieuwe woonwensen kunnen leiden tot verbreding van de activiteiten van de t.i's. In de NMWW wordt ingespeeld op mogelijk toekomstige ontwikkelingen. Aldaar wordt op pagina 242 het werkdomein omschreven als: werkzaam op het gebied van wonen, woondiensten en woonmilieus, welk werkdomein op de pagina's 244 en 245 nader wordt aangeduid. Uit dat werkdomein vloeien zowel de nieuwe kerntaken, aldaar de maatschappelijke opdracht genoemd, als de overige toegestane activiteiten voort. Dit werkdomein is uitgebreider dan het 'volkshuisvestingsbelang', zoals dat nu is beschreven in het [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686). Deze circulaire is er dan ook mede voor bedoeld om vooruitlopend op de Woonwet en in lijn met de NMWW corporaties meer mogelijkheden te bieden ten opzichtte van dat [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) en [MG 99-23](https://wetten.overheid.nl/jci1.3:c:BWBR0010820). Naar aanleiding van een aantal door t.i's aan mij voorgelegde voorgenomen nevenactiviteiten, waaruit blijkt dat in de praktijk niet in alle gevallen duidelijk is welke nevenactiviteiten al dan niet onder de huidige [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), het huidige [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) en de [MG 99-23](https://wetten.overheid.nl/jci1.3:c:BWBR0010820) toelaatbaar zijn, alsmede in het licht van de NMWW, kom ik thans tot een nadere uiteenzetting van mijn beleid terzake. Daarbij zal ik tevens een aantal begrippen duidelijk afbakenen. Het zal evenwel duidelijk zijn, dat de taak van een t.i. in de eerste plaats gelegen is in de uitvoering van de in het [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) opgesomde kernactiviteiten. Slechts nadat een t.i. die kernactiviteiten heeft uitgevoerd, dan wel indien de uitvoering van voorgestelde nevenactiviteiten onlosmakelijk verbonden is met de mogelijkheid de kerntaken uit te voeren, zal sprake kunnen zijn van uitvoering van nevenactiviteiten.
+Bij [MG-circulaire 99-23](https://wetten.overheid.nl/jci1.3:c:BWBR0010820) d.d. 3 november 1999 (BBSH, toepassing van het toezicht bij nevenactiviteiten) en MG 2001-04 (BBSH, toepassing van het toezicht m.b.t. buitenlandse activiteiten) heb ik u geïnformeerd over de wijze waarop ik in de periode tot aan de uit de NMWW voortvloeiende regelgeving toezicht zou houden op de werkzaamheden van de toegelaten instellingen (t.i.). In die MG's is onder meer aangegeven, dat veranderende woonwensen en de integraliteit van de aanpak van die nieuwe woonwensen kunnen leiden tot verbreding van de activiteiten van de t.i's. In de NMWW wordt ingespeeld op mogelijk toekomstige ontwikkelingen. Aldaar wordt op pagina 242 het werkdomein omschreven als: werkzaam op het gebied van wonen, woondiensten en woonmilieus, welk werkdomein op de pagina's 244 en 245 nader wordt aangeduid. Uit dat werkdomein vloeien zowel de nieuwe kerntaken, aldaar de maatschappelijke opdracht genoemd, als de overige toegestane activiteiten voort. Dit werkdomein is uitgebreider dan het 'volkshuisvestingsbelang', zoals dat nu is beschreven in het [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686). Deze circulaire is er dan ook mede voor bedoeld om vooruitlopend op de Woonwet en in lijn met de NMWW corporaties meer mogelijkheden te bieden ten opzichtte van dat [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) en [MG 99-23](https://wetten.overheid.nl/jci1.3:c:BWBR0010820). Naar aanleiding van een aantal door t.i's aan mij voorgelegde voorgenomen nevenactiviteiten, waaruit blijkt dat in de praktijk niet in alle gevallen duidelijk is welke nevenactiviteiten al dan niet onder de huidige [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), het huidige [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) en de [MG 99-23](https://wetten.overheid.nl/jci1.3:c:BWBR0010820) toelaatbaar zijn, alsmede in het licht van de NMWW, kom ik thans tot een nadere uiteenzetting van mijn beleid terzake. Daarbij zal ik tevens een aantal begrippen duidelijk afbakenen. Het zal evenwel duidelijk zijn, dat de taak van een t.i. in de eerste plaats gelegen is in de uitvoering van de in het [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) opgesomde kernactiviteiten. Slechts nadat een t.i. die kernactiviteiten heeft uitgevoerd, dan wel indien de uitvoering van voorgestelde nevenactiviteiten onlosmakelijk verbonden is met de mogelijkheid de kerntaken uit te voeren, zal sprake kunnen zijn van uitvoering van nevenactiviteiten.
 
 ### B. Kerntaken, nevenactiviteiten en verbindingen
 
@@ -57,6 +42,16 @@ Op het terrein van de huisvesting van ouderen, gehandicapten en personen die zor
 ### b. Uitvoering nevenactiviteiten
 
 In [MG 99-23](https://wetten.overheid.nl/jci1.3:c:BWBR0010820) is reeds aangegeven, dat uitvoering van nevenactiviteiten, zijnde alle andere activiteiten dan die rechtstreeks nodig zijn ter uitvoering van de limitatief in het [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) opgesomde kerntaken, in een aantal gevallen is toegestaan, indien aan de criteria als genoemd in die [MG](https://wetten.overheid.nl/jci1.3:c:BWBR0010820) is voldaan. In genoemde [MG](https://wetten.overheid.nl/jci1.3:c:BWBR0010820) zijn die criteria als volgt omschreven:
+
+- 1. De prestaties op de kerntaken van de t.i. dienen boven elke twijfel verheven te zijn. De beoordeling hiervan vindt plaats (onder meer) op basis van het terzake bij de betrokken gemeente ingewonnen oordeel over het door de t.i. in acht nemen van het gemeentelijke beleid;
+
+- 2. Niet alleen de financiële continuïteit van de t.i. moet buiten twijfel staan. Ook bij de uitvoering van nevenactiviteiten dient sprake te zijn van een aanvaardbaar en dus beperkt financieel risico;
+
+- 3. Nevenactiviteiten worden als belastingplichtige activiteiten aangemerkt;
+
+- 4. Indien een t.i. kapitaal beschikbaar stelt aan een verbinding dient dit onder marktconforme voorwaarden te geschieden. Het moet door de t.i. aannemelijk zijn gemaakt, dat aan de kerntaken een bijdrage wordt geleverd (het in de NMWW bedoelde substantiële en causale verband);
+
+- 5. Het toezicht (op de t.i. en haar verbindingen) mag niet worden belemmerd.
 
 Met betrekking tot bedoelde nevenactiviteiten luidt mijn nadere beleid als volgt:
 
@@ -72,7 +67,27 @@ De door mij toegestane nevenactiviteiten dienen, tenzij het gaat om kleinschalig
 
 In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012970&bijlage=1&z=2006-07-20&g=2006-07-20) bij deze MG heb ik aan de hand van voorbeelden aangegeven welke nevenactiviteiten ik zal toestaan. Uit het hiervoor onder B gestelde zal zonder meer duidelijk zijn dat nevenactiviteiten zoals bijvoorbeeld het exploiteren van een TV- of radiozender of van een reisbureau niet toegestaan kunnen worden. Dat heeft immers geen enkele relatie met het wonen. Ook de volgende nevenactiviteiten vallen buiten de bandbreedte en zullen daarom niet worden toegestaan:
 
+- • projectontwikkeling die geen substantiële en causale relatie heeft met de kerntaken van de t.i.,
+
+- • bemiddeling bij aan- en verkoop van onroerend goed van derden,
+
+- • bemiddeling bij levensverzekeringen (anders dan in relatie tot het sluiten van een hypothecaire lening ten behoeve van de aankoop van een door de eigenaar/bewoner te bewonen huurwoning welke eigendom is van de t.i.),
+
+- • of het aanbieden van cursussen (anders dan aan eigen personeel of in het kader van de [Wet op het overleg huurders verhuurder](https://wetten.overheid.nl/jci1.3:c:BWBR0009810)). Dit laatste betekent uiteraard geenszins, dat het geven van voorlichting over bijvoorbeeld duurzaam bouwen niet zou zijn toegestaan. Dergelijke voorlichtingsactiviteiten acht ik juist een zeer goede zaak.
+
 Naast de hiervoor en in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012970&bijlage=1&z=2006-07-20&g=2006-07-20) genoemde nevenactiviteiten komen ook andere activiteiten voor, waarbij het vaak gaat om uitbreiding van dienstverlening aan huurders. Wil ik dergelijke activiteiten toestaan, dan dient aan de volgende criteria te worden voldaan:
+
+- • de activiteit heeft een substantieel en causaal verband met het wonen;
+
+- • er is een directe relatie met de BBSH-taken;
+
+- • de activiteit heeft slechts betrekking op de doelgroep van beleid als bedoeld in [artikel 70c Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) en [artikel 13 BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=13);
+
+- • alleen de fysieke component van de dienst (woning/gebouw, woonomgeving) wordt aangeboden;
+
+- • voor diensten, die niet onder de kerntaken vallen, vindt alleen bemiddeling plaats, dus geen feitelijke aanbieding, geen incasso, geen leningen, rentebetaling en soortgelijke financiële relaties (zie punt 6 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012970&bijlage=1&z=2006-07-20&g=2006-07-20));
+
+- • de activiteit dient ondergebracht te zijn in een verbinding, tenzij de activiteit van beperkte omvang is.
 
 ### D. Transparantie van (de bedrijfsvoering van) een toegelaten instelling
 
@@ -98,6 +113,20 @@ De accountant zal in zijn verklaring ook dienen in te gaan op de door de verbind
 
 Slechts indien nieuw voorgelegde nevenactiviteiten zowel voldoen aan [MG 99-23](https://wetten.overheid.nl/jci1.3:c:BWBR0010820) als aan het hiervoor en in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012970&bijlage=1&z=2006-07-20&g=2006-07-20) gestelde zal ik deze toestaan. De procedure ten aanzien van het melden van voorgenomen activiteiten zoals vermeld in [MG 99-23](https://wetten.overheid.nl/jci1.3:c:BWBR0010820) blijft ongewijzigd: een voorgenomen nevenactiviteit dient de corporatie te melden bij de Inspectie Volkshuisvesting onder overlegging van de navolgende informatie:
 
+- 1. Een toelichting waarom de t.i. de activiteit wil uitvoeren en in overeenstemming acht met het [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) en het in [MG 99-23](https://wetten.overheid.nl/jci1.3:c:BWBR0010820) en deze MG geschetste beleid;
+
+- 2. Informatie over de door de t.i. gekozen constructie/verbinding en een (voorlopige) oprichtingsakte;
+
+- 3. Een risicoanalyse. Daarbij kan gedacht worden aan analyses van:
+
+   - • het risico van faillissement van de verbinding terzake de voorgenomen activiteit(en);
+
+   - • risico's van stagnatie in afname van het product;
+
+   - • risico's van leegstand bij bedrijfsmatige verhuur;
+
+   - • de bedragen welke gevraagd worden ter vergoeding van de inzet van eigen personeel en dergelijke.
+
 Bij de u toegezonden beleidsregels van het centraal Fonds voor de Volkshuisvesting is een format gevoegd waarin bovenstaande punten systematisch worden afgelopen. Het is wenselijk,dat de t.i. een ingevuld format meezendt bij de melding van de voorgenomen nevenactiviteiten.
 
 Het is niet toegestaan om bij wijze van melding van een nevenactiviteit slechts het aangaan van een verbinding te melden zonder daarbij volledig aan te geven welke activiteiten in die verbinding kunnen plaatsvinden; dergelijke meldingen zullen nooit tot instemming kunnen leiden.
@@ -110,272 +139,24 @@ Onverlet mijn bevoegdheden om in specifieke gevallen aan de hand van concrete om
 
 ### II. verkoop van woningen door toegelaten instellingen
 
-Daar ik een groot voorstander ben van een verantwoorde bevordering van het eigenwoningbezit heb ik in de NMWW nadrukkelijk aandacht gevraagd voor onder meer de verkoop van een groot aantal woningen van t.i's. Dit verkoopbeleid wordt zeer breed ondersteund door de Tweede Kamer der Staten-Generaal, zoals gebleken is tijdens de behandeling op 19 maart 2001 van de NMWW. Terzake de verkoop van huurwoningen aan natuurlijke personen, die zelf de woning zullen bewonen, heb ik op 13 september j.l. een brief met kenmerk DBD2001060563 gezonden aan de besturen van de t.i's. Naast verkoop van huurwoningen aan huurders en andere toekomstige bewoners komt het uiteraard ook voor, dat huurwoningen complexgewijs worden verkocht aan collega t.i's en aan andere derden, zoals beleggers. In vervolg op MG's 96-17 van 22 juli 1996, 97-20 van 30 september 1997, 98-14 van 20 juni 1998 en 98-20 van 31 juli 1998 wil ik u mede in het licht van mijn voorkeur voor verkoop aan (zittende) bewoners op de hoogte stellen van mijn beleid, zoals ik dat terzake de beoordeling van voornemens van t.i's om over te gaan tot bedoelde complexgewijze verkoop van woningen zal voeren. Onder complexgewijze verkoop versta ik in dit verband ook de verkoop van dat deel van een complex, dat niet aan natuurlijke personen, die zelf de gekochte woning zullen bewonen, of dat niet aan een collega t.i. is verkocht. Daarnaast zal ik ingaan op de verkoopwaarde van de woningen, de voorgeschreven melding van voornemens tot verkoop en de taxatie van de te verkopen woningen.
+### a. Beleid ter zake de beoordeling van voornemens tot complexgewijze verkoop
 
 ### b. Verkoopwaarde
 
-In MG 97-20 is ten aanzien van voornemens tot verkoop het volgende gesteld: 'Aangezien t.i's veel goedkope woningen in bezit hebben, geef ik er de sterke voorkeur aan woningen in eerste instantie te verkopen aan de zittende huurders. Er kunnen zich echter omstandigheden voordoen, dat complexgewijze verkoop nodig is.'
+### c. Melding van voornemens tot verkoop
 
-Indien noodzakelijkerwijs overgegaan dient te worden tot complexgewijze verkoop gaat, zoals mijn ambtsvoorganger reeds in de toelichting bij de [wijziging van het Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0009430)van 27 februari 1998, Stb. 135, heeft aangegeven, mijn sterke voorkeur uit naar verkoop aan collega t.i's. Ik zal derhalve in principe geen toestemming geven om complexgewijs aan anderen te verkopen, tenzij dit volstrekt onmogelijk blijkt. Indien dit metterdaad niet mogelijk blijkt kan (de rest van) een complex onder de volgende voorwaarden verkocht worden aan anderen.
+### d. Taxatie van te verkopen woningen
 
-Deze voorwaarden zijn:
+### III. Invoering euro
 
 Naast aandacht voor het voorgaande verzoek ik de besturen van t.i's de nodige aandacht te schenken aan de invoering van de euro. Op 1 januari 2002 worden de euromunten en de eurobankbiljetten als betaalmiddel ingevoerd. Op dat moment dienen ook de t.i's volledig op de euro te zijn overgeschakeld. Om alles goed en op tijd te regelen moet er wellicht nog veel gebeuren. Het gaat daarbij niet alleen om het aanpassen van geautomatiseerde systemen, maar ook om de verslaglegging in euro's van de jaarrekening (over 2001 en volgende jaren) als bedoeld in [artikel 26, eerste lid, van het BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=26) en de (samenvatting) van de door de t.i. voorgenomen activiteiten als bedoeld in de artikelen [25a en 25b van het BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=25) (over 2002 en volgende jaren). Over de wijziging van de bijlagen I en II zult u separaat op de hoogte worden gesteld. Natuurlijk dienen ook de (potentiële) huurders geïnformeerd te worden over de gevolgen van de invoering van de euro. Voor algemene euro informatie kunt u terecht bij de eurolijn: 0800-1521, of op de eurosite www.euro.nl.
 
 ### IV. Slot
 
-Een aantal hiervoor onder I en II gestelde zaken zal in regelgeving worden neergelegd. Voorzover mogelijk zal dit vooruitlopend op de uit de NMWW voortvloeiende Woonwet geschieden via wijziging van het [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686).
+Een aantal hiervoor onder [I](https://wetten.overheid.nl/BWBR0012970) en [II](https://wetten.overheid.nl/BWBR0012970) gestelde zaken zal in regelgeving worden neergelegd. Voorzover mogelijk zal dit vooruitlopend op de uit de NMWW voortvloeiende Woonwet geschieden via wijziging van het [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686).
 
-### c. Melding van voornemens tot verkoop
+Uit de vele gesprekken die ik in het veld heb gevoerd heb ik de stellige indruk, dat men met het hiervoor onder [I](https://wetten.overheid.nl/BWBR0012970) en [II](https://wetten.overheid.nl/BWBR0012970) gestelde uit de voeten kan. De MG is noodzakelijk omdat ik volgens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) gehouden ben goed toezicht uit te oefenen op de t.i's. Indien ik de t.i's een grotere bewegingsvrijheid geef, dan volgens de bestaande regelgeving mogelijk is, dien ik die bewegingsvrijheid goed te duiden en op de hantering daarvan door de t.i's toezicht te houden. Dat ik daarbij, met name in onderdeel I, soms een wat negatieve toonzetting gebruik, is een gevolg van het handhavingskarakter ervan. Dit neemt niet weg, dat ik er van uit ga, dat de t.i's zich positief blijven inzetten voor de in de regelgeving en in de eigen statuten neergelegde taken.
 
 Deze MG-circulaire zal in de Staatscourant worden geplaatst.
 
-### d. Taxatie van te verkopen woningen
-
-Zowel in MG 96-17 als in MG 97-20 is gesproken over de wijze van taxeren. Dit dient aldus bedoelde MG's te geschieden door een onafhankelijke taxateur, waarbij deze uit dient te gaan van de vrije verkoopwaarde in onbewoonde staat. Dit gold en geldt ook bij complexgewijze verkoop. Bij de taxatie dient er van uitgegaan te worden, dat conform de Nota van toelichting bij het besluit van 27 februari 1998 tot [wijziging van het BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0009430) (Stb 1998, 135) de woning in volle eigendom wordt overgedragen en dat de verkrijger deze onmiddellijk geheel in gebruik kan nemen in de staat waarin deze zich dan bevindt. Bij de taxatie dient derhalve geen rekening te worden gehouden met eventuele beperkende voorwaarden in het koopcontract. Ik merk tevens op, dat mede in het licht van mijn nadrukkelijke voorkeur voor verkoop aan toekomstige eigenaar-bewoners, dus meestal de zittende huurder, ook bij verkoop van appartementen de taxatie niet complexgewijs dient plaats te vinden, maar per afzonderlijk appartement. Ik verwijs daarvoor eveneens naar de toelichting bij voornoemde [wijziging van het BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0009430).
-
-Sommige nevenactiviteiten kunnen onder dezelfde naam een wél dan wel niet toegestane invulling hebben. Hierna geef ik aan wat daarbij wél of niet toegestane activiteiten zijn.
-
-Degene, die het taxatierapport heeft opgemaakt mag, gezien bovenbedoelde onafhankelijk-heidseis op geen enkele wijze betrokken zijn bij de transactie van koop, verkoop of financie-ring, met geldnemer/koper, verkoper of geldgever.
-
-Het op te stellen taxatierapport mag conform MG 98-20 van 31 juli 1998 niet ouder zijn dan 1 jaar. Ik ga er evenwel van uit, dat de t.i's de taxatierapporten actueel zullen houden en zich, zeker bij complexgewijze verkoop, niet zullen verschuilen achter genoemde termijn van één jaar.
-
-### III. Invoering euro
-
-Het is een t.i. niet toegestaan om bij ver- of aankoop van woningen of andere panden activiteiten uit te oefenen, die een makelaar normaliter uitoefent, daar deze werkzaamheden geen relatie hebben met de kerntaak van de t.i's. Zo is het niet toegestaan om te bemiddelen bij de verkoop van onroerend goed van derden, ook al heeft die derde dat eerder van de t.i. gekocht, of als de eigenaar-bewoner een woning van de t.i. gaat huren. Overname van een bestaande makelaardij zal ik niet toestaan. Overname van een makelaardij, die zonder restricties alle diensten kan leveren die 'des makelaars' zijn, brengt immers met zich dat via de verbinding nevenactiviteiten ontplooid kunnen worden die buiten het genoemde kader van [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686), de beleidscirculaire [MG 99-23](https://wetten.overheid.nl/jci1.3:c:BWBR0010820) en deze circulaire vallen.
-
-### IV. Slot
-
-Het is een t.i. toegestaan te bemiddelen bij het aangaan van woongerelateerde verzekeringen voor de huurders van de eigen woningen van de t.i. (bijvoorbeeld een glasverzekering en een inboedelverzekering), of voor de overige leden van de doelgroep van beleid, dan wel voor de kopers welke eigenaar/-bewoners worden van de door de t.i. te verkopen eigen huurwoningen (bijvoorbeeld opstalverzekering, glasverzekering, inboedelverzekering, levensverzekering ten behoeve van een te sluiten hypotheek), en het bemiddelen voor het verkrijgen van hypotheken ten behoeve van de aankoop van een (huur)woning van de t.i. door de toekomstige eigenaar/bewoner. Onder bemiddelen wordt in dit geval verstaan het gratis, tegen kostprijs, dan wel tegen een geringe vergoeding ter beschikking stellen van bij voorbeeld adressen en folders van goedkope verzekeraars, het regelen van korting voor - al dan niet collectieve - woongerelateerde verzekeringen e.d. Indien de t.i. een vergoeding vraagt aan degene voor wie is bemiddeld, dan dient deze laatste de vrijheid te hebben om te kunnen kiezen tussen het door de t.i. bemiddelde aanbod of het voorstel van enige andere aanbieder. Daarnaast dient een deel van de door de t.i. geregelde korting altijd ten goede te komen aan de gebruiker van het aanbod. Het vragen van vergoeding mag uiteraard niet leiden tot het verkrijgen van courtage zoals dat geschiedt bij echte assurantiebemiddeling. Incasso van premies e.d. is niet toegestaan. Bemiddeling bij niet woongerelateerde verzekeringen (zoals levensverzekeringen los van hypotheek, ongevallenverzekeringen, arbeidsongeschiktheidsverzekeringen, ziektekosten- en rechtsbijstandverzekeringen, aansprakelijkheidsverzekeringen) is niet toegestaan. Het zelf verstrekken van verzekeringen en hypotheken, of het garant staan voor de betaling van rente en aflossing van deze laatste, is eveneens niet toegestaan. Overname van een verzekeringsmaatschappij, een verzekerings- of hypotheekkantoor of -agentschap e.d. kan dan ook nimmer aan de orde zijn. Voor wat betreft samenwerking geldt hetzelfde als hiervoor gesteld ten aanzien van makelaardij.
-
-Uit de vele gesprekken die ik in het veld heb gevoerd heb ik de stellige indruk, dat men met het hiervoor onder I en II gestelde uit de voeten kan. De MG is noodzakelijk omdat ik volgens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) gehouden ben goed toezicht uit te oefenen op de t.i's. Indien ik de t.i's een grotere bewegingsvrijheid geef, dan volgens de bestaande regelgeving mogelijk is, dien ik die bewegingsvrijheid goed te duiden en op de hantering daarvan door de t.i's toezicht te houden. Dat ik daarbij, met name in onderdeel I, soms een wat negatieve toonzetting gebruik, is een gevolg van het handhavingskarakter ervan. Dit neemt niet weg, dat ik er van uit ga, dat de t.i's zich positief blijven inzetten voor de in de regelgeving en in de eigen statuten neergelegde taken.
-
-Het is een t.i. toegestaan bedrijfs-, kantoor- of andere panden te bouwen voor derden, te verwerven en te verhuren, indien dit gebeurt in proportionele samenhang met de bouw van woningen voor de t.i. zelf, of indien er een directe relatie bestaat met enige kerntaak van de t.i. en de doelgroep van beleid als bedoeld in [artikel 70c Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) en [artikel 13 BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=13). Het gaat bijvoorbeeld om een wijkgebouw, praktijkruimten, kinderdagverblijven, bedrijfsgebouwen, schoolwoningen, winkels, kantoorruimten, parkeergarages en cultureel-maatschappelijke ruimten, een en ander met het oogmerk de leefbaarheid van buurten of wijken te vergroten.
-
-Het is bijvoorbeeld niet toegestaan een bedrijfspand (anders dan het eigen kantoor/bedrijfsgebouw) te ontwikkelen op een bedrijventerrein. Dit heeft immers, zoals reeds eerder gesteld, geen enkele relatie met enige kerntaak van de t.i. en/of de doelgroep van de t.i.
-
-## Bijlage 1. Nevenactiviteiten
-
-Het is t.i's op grond van [artikel 12a BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=12) (leefbaarheid) toegestaan het onderhoud te verzorgen van woningen (ten behoeve) van derden (bijvoorbeeld VVE's). Het is ook toegestaan om op vrijwillige basis aan kopers van huurwoningen van de t.i. of aan eigenaar/bewoners in het kader van de leefbaarheid of wonen/zorg contracten voor het onderhoud van hun woning aan te bieden. Deze activiteiten dienen evenwel een directe relatie te hebben met enige kerntaak van de t.i. en met doelgroep van beleid als bedoeld in [artikel 70c Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) en [artikel 13 BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=13). Van 'gedwongen winkelnering' of 'koppelverkoop' mag uiteraard geen sprake zijn. Daarnaast is het - in het kader van de BBSH-taak leefbaarheid - toegestaan scholen, schoolwoningen, dienstencentra, buurtgebouwen e.d. te beheren en/of het onderhoud ervan te verzorgen. Ook hier geldt de eis, dat er een directe relatie dient te zijn met enige kerntaak van de t.i. en met de doelgroep van beleid als bedoeld in [artikel 70c Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) en [artikel 13 BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=13). Indien er onderhoud en beheersactiviteiten voor derden (uitgezonderd collega t.i's en NWI's) worden verricht en deze activiteiten een structureel (en grootschalig) karakter hebben dient dit in een aparte verbinding te gebeuren.
-
-### 4. Bouwen van woningen
-
-### **• ten behoeve van de ver- of aankoop van woningen of andere panden**
-
-Het is toegestaan met een makelaar samen te werken ter uitvoering van de verkoop van de eigen woningen aan de eigen huurders of aan derden, bij de verhuur/verkoop van door de t.i. gerealiseerde bedrijfspanden, of - binnen het kader van de kernactiviteiten - bij de koop van woningen van derden. Er mag evenwel geen sprake zijn van een financiële, bestuurlijke of juridische band (een verbinding in de zin van het [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686)) met een makelaardij, welke alle facetten van een makelaar kan uitvoeren. Het is een t.i. uiteraard toegestaan haar eigen woningen zelf te verkopen. De waarde van het te (ver)kopen onroerend goed dient in alle gevallen echter onverkort door een onafhankelijke taxateur te worden vastgesteld (zie de MG bij onderdeel II onder d: taxatie van te verkopen woningen).
-
-De deskundigheid van t.i's ligt onder meer op het terrein van het vastgoed, maar in ieder geval niet op het terrein van het zelf aanbieden van zorg. In het licht van het nieuwe zesde prestatieveld is het, zoals reeds gesteld in de MG onder I., paragraaf B., onderdeel a. uiteraard gewenst de activiteiten ten behoeve van zorg te faciliteren (bouw kinderopvang, verzorgingstehuis e.d.) of daarbij te bemiddelen. Het is evenwel niet toegestaan zelf als nevenactiviteit zorg aan te bieden. Deelname van een t.i. in een verbinding waarin tevens aanbieders van zorg deelnemen is toegestaan, mits de door de t.i. te verrichten activiteiten in de verbinding zich beperken tot het vastgoed en de t.i. geheel zelfstandig haar activiteiten kan blijven uitvoeren. Naast het hiervoor onder 4 gestelde zal ik desgevraagd overschrijding van de bouwkostengrens toestaan, indien dit noodzakelijk is om te kunnen voldoen aan voornemens tot bouw binnen dit zesde prestatieveld.
-
-### 6. Bankieren
-
-Het is niet toegestaan te bankieren, waaronder wordt verstaan: het door de t.i. of de verbinding aantrekken van geldelijke middelen, speciaal met het doel die vervolgens aan derden uit te lenen. Ook is het niet toegestaan uit de eigen bedrijfsreserve middelen vrij te maken met het speciale doel die vervolgens aan derden uit te lenen. Vanzelfsprekend geldt dit verbod niet voor beleggen - overeenkomstig de daaraan te stellen eisen (zie ook onder G) - en evenmin voor lenen aan collega t.i's en voor interne financiering bij verbindingen (in dit laatste geval moet dit wel geschieden op marktconforme voorwaarden). Daarnaast is het niet toegestaan 'subsidies' te verstrekken, inkomensgebonden maatregelen te treffen of op enigerlei wijze financieel {via hypotheekverstrekking (ook aan de eigen medewerkers), via rentebetaling of borgstelling voor aangegane hypotheekverplichtingen, e.d.} deel te nemen in een door een eigenaar-bewoner aangegane hypothecaire verplichting. Onder subsidies wordt uiteraard niet verstaan het geven van bijdragen aan bewonerscommissies, huurdersorganisaties ten behoeve van de uitvoering van de taken waar zij voor staan, of het geven van bijdragen in het kader van leefbaarheid.
-
-### 7. Grondexploitatie
-
-Het komt voor dat t.i's, om zich een bepaalde positie in een bepaald gebied te verwerven met het oogmerk daar woningen te kunnen bouwen, gronden aankopen zonder dat daarop met zekerheid een woonbestemming ligt. Ook komt het voor dat meer grond gekocht wordt dan nodig voor de eigen woningbouw met de bedoeling de grond in de vorm van kavels door te verkopen. Op zich is grondaankoop uiteraard geoorloofd, grondspeculatie evenwel niet. Ik zal grondaankoop slechts toestaan, indien:
-
-De t.i. dient, zoals gebruikelijk, elke grondaankoop met naam en toenaam te vermelden in haar jaarverslag. Indien mij blijkt, dat de grond na de hiervoor bedoelde redelijke periode van 5 jaar nog immer geen functie heeft gekregen, zoals in het [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) of als in deze circulaire bedoeld en de t.i. daarvoor geen overtuigende argumenten kan aanvoeren, dan zal ik de aankoop alsnog aanmerken als speculatie. De grond dient dan alsnog te worden afgestoten. Het enkel verwerven van een positie aan de onderhandelingstafel door speculatieve grondaankopen zal ik derhalve niet accepteren.
-
-### 3. Onderhoud van woningen dan wel onderhoud en/of beheer van bedrijfs- en/of kantoorpanden
-
-Het is t.i's op grond van [artikel 12a BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=12) (leefbaarheid) toegestaan het onderhoud te verzorgen van woningen (ten behoeve) van derden (bijvoorbeeld VVE's). Het is ook toegestaan om op vrijwillige basis aan kopers van huurwoningen van de t.i. of aan eigenaar/bewoners in het kader van de leefbaarheid of wonen/zorg contracten voor het onderhoud van hun woning aan te bieden. Deze activiteiten dienen evenwel een directe relatie te hebben met enige kerntaak van de t.i. en met doelgroep van beleid als bedoeld in [artikel 70c Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) en [artikel 13 BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=13). Van 'gedwongen winkelnering' of 'koppelverkoop' mag uiteraard geen sprake zijn. Daarnaast is het - in het kader van de BBSH-taak leefbaarheid - toegestaan scholen, schoolwoningen, dienstencentra, buurtgebouwen e.d. te beheren en/of het onderhoud ervan te verzorgen. Ook hier geldt de eis, dat er een directe relatie dient te zijn met enige kerntaak van de t.i. en met de doelgroep van beleid als bedoeld in [artikel 70c Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) en [artikel 13 BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=13). Indien er onderhoud en beheersactiviteiten voor derden (uitgezonderd collega t.i's en NWI's) worden verricht en deze activiteiten een structureel (en grootschalig) karakter hebben dient dit in een aparte verbinding te gebeuren.
-
-### 4. Bouwen van woningen
-
-Volgens [artikel 11b BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=11) is het slechts toegestaan woningen te bouwen, waarvan de koopsom van de bouwrijpe grond vermeerderd met de aanneemsom van de in de aanbesteding begrepen woningen gemiddeld niet hoger is dan f 274.000 (prijspeil januari 2001). De middeling mag slechts tot stand komen binnen één aanbesteding en niet op grond van koppeling van verschillende aanbestedingen. Ik maak u er wat betreft de stichtingskosten reeds nu op attent, dat een wijziging van [artikel 11b BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=11) in voorbereiding is. De wijziging impliceert, dat aldaar gesproken zal worden over: 'alle kosten van het verkrijgen in eigendom van de in de aanbesteding begrepen woningen', dus de aanneemsom, de grondkosten, het architectenhonorarium, de kosten van voorbereiding en toezicht etc. Deze kosten mogen na invoering van de wijziging per woning gemiddeld genomen niet meer bedragen dan f 300.000. Indien sprake is van erfpacht, dan zullen de kosten van een vergelijkbare kavel in dit bedrag moeten zijn opgenomen. Ik heb overigens in het kader van het Nationaal Akkoord Wonen besloten om in de loop van 2002 de stichtingskostengrens zoals deze nu luidt af te schaffen. Vooruitlopend daarop zal ik, indien het gaat om de in deze circulaire omschreven gevallen, desgevraagd ruimhartig overschrijding van de bouwkostengrens toestaan. Dit is bijvoorbeeld het geval bij een integrale aanpak in een door de gemeente (beleidsmatig) vastgesteld herstructureringsgebied, waaronder begrepen inbreidingsgebieden, of als sprake is van stedelijke vernieuwing op door de gemeente als zodanig aangewezen locaties, waaronder ook de bouw op VINEX-locaties of andere uitleggebieden valt. De te bouwen duurdere woningen moeten dan wel gebouwd worden met het oog op de doorstroming van de doelgroep van beleid als bedoeld in [artikel 70c Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) en [artikel 13 BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=13). Zie ten aanzien van de overschrijding van de stichtingskostengrens ook het hierna onder 5 gestelde. Ook in een PPS-constructie, zoals een wijkontwikkelingsmaatschappij (WOM) is de bouw van duurdere woningen toegestaan. Voor de bij deze bouw aan te gane risico's wijs ik u met nadruk op het hierna in paragraaf F 'Financiële risico's bij het uitvoeren van nevenactiviteiten' gestelde. In afwijking van mijn algemene beleid ten aanzien van nevenactiviteiten in verbindingen gelden voor een verbinding, waarin naast de t.i. ook marktpartijen als projectontwikkelaars participeren (zoals een WOM) geen restricties voor commerciële nevenactiviteiten. Dit gezien het gegeven, dat daarin naast een of meer t.i's ook marktpartijen deelnemen. Dit geldt overigens slechts indien in die verbinding uitvoering gegeven wordt aan de door de gemeente gewenste herstructurering van een bepaald gebied. Dat laat echter onverlet, dat de door een t.i. in die verbinding te verrichten nevenactiviteiten gerelateerd moeten zijn aan de kerntaak van die t.i.. De financiële deelname dient in principe proportioneel te zijnaan de door de t.i. uit te voeren taak. Indien de t.i. meer dan proportioneel noodzakelijk deelneemt in een dergelijke verbinding dient de t.i. aannemelijk te maken, dat de meer dan proportionele deelname aan een dergelijke verbinding, die tevens commerciële activiteiten verricht, noodzakelijk is ter uitvoering van haar kerntaak, bijvoorbeeld om invloed te kunnen hebben op strategische beslissingen binnen deze verbinding. De deelname van de t.i. aan die verbinding dient zodanig gestructureerd te zijn, dat de t.i. niet met het gehele maatschappelijk gebonden vermogen aansprakelijk is voor een eventuele schuldpositie van die verbinding. Dit kan bijvoorbeeld bereikt worden via het deelnemen in die verbinding via een dochter van de t.i. welke de juridische status van een BV of NV heeft.
-
-### 5. Wonen/Zorg
-
-Postbus 1318
-
-### 6. Bankieren
-
-Tel: 050-5992700
-
-### 7. Grondexploitatie
-
-Het komt voor dat t.i's, om zich een bepaalde positie in een bepaald gebied te verwerven met het oogmerk daar woningen te kunnen bouwen, gronden aankopen zonder dat daarop met zekerheid een woonbestemming ligt. Ook komt het voor dat meer grond gekocht wordt dan nodig voor de eigen woningbouw met de bedoeling de grond in de vorm van kavels door te verkopen. Op zich is grondaankoop uiteraard geoorloofd, grondspeculatie evenwel niet. Ik zal grondaankoop slechts toestaan, indien:
-
-Hanzelaan 310
-
-## Bijlage 2
-
-(Model formulier; wordt hier niet gepubliceerd)
-
-## Bijlage 3
-
-Tel: 038-4695555
-
-### Groningen, Friesland en Drenthe
-
-Cascadeplein 10
-
-Pels Rijckenstraat 1
-
-Postbus 750
-
-6800 AT Arnhem
-
-Tel: 026-3528456
-
-### Overijssel
-
-Hanzelaan 310
-
-Maliebaan 18
-
-Postbus 85185
-
-3508 AD Utrecht
-
-Tel: 030-2335511
-
-### Gelderland
-
-Pels Rijckenstraat 1
-
-Kennemerplein 6-8
-
-Postbus 5054
-
-2000 GB Haar-lem
-
-Tel: 023-5150700
-
-### Utrecht
-
-Maliebaan 18
-
-Huis te Landelaan 492
-
-Postbus 3254
-
-2280 GG Rijswijk
-
-Tel: 070-3985811
-
-### Noord-Holland en Flevoland
-
-Kennemerplein 6-8
-
-'t Schimmelt 28
-
-Postbus 6469
-
-5600 HL Eindhoven
-
-Tel: 040-2652911
-
-### Zuid-Holland
-
-Huis te Landelaan 492
-
-Avenue Ceramique 1-d
-
-Postbus 1118
-
-6201 BC Maastricht
-
-Tel: 043-3514100
-
-### Noord-Brabant en Zeeland
-
-'t Schimmelt 28
-
-Postbus 6469
-
-5600 HL Eindhoven
-
-Tel: 040-2652911
-
-Fax: 040-2467311
-
-### Limburg
-
-Avenue Ceramique 1-d
-
-Postbus 1118
-
-6201 BC Maastricht
-
-Tel: 043-3514100
-
-Fax: 043-3514121
-
-### a. Beleid ter zake de beoordeling van voornemens tot complexgewijze verkoop
-
-### c. Melding van voornemens tot verkoop
-
-### d. Taxatie van te verkopen woningen
-
-### III. Invoering euro
-
-Uit de vele gesprekken die ik in het veld heb gevoerd heb ik de stellige indruk, dat men met het hiervoor onder I en II gestelde uit de voeten kan. De MG is noodzakelijk omdat ik volgens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) gehouden ben goed toezicht uit te oefenen op de t.i's. Indien ik de t.i's een grotere bewegingsvrijheid geef, dan volgens de bestaande regelgeving mogelijk is, dien ik die bewegingsvrijheid goed te duiden en op de hantering daarvan door de t.i's toezicht te houden. Dat ik daarbij, met name in onderdeel I, soms een wat negatieve toonzetting gebruik, is een gevolg van het handhavingskarakter ervan. Dit neemt niet weg, dat ik er van uit ga, dat de t.i's zich positief blijven inzetten voor de in de regelgeving en in de eigen statuten neergelegde taken.
-
 Voor nadere informatie over deze circulaire kunt u terecht bij de desbetreffende Inspectie van de Volkshuisvesting.
-
-## Bijlage 1. Nevenactiviteiten
-
-### 1. Bemiddeling
-
-### **• ten behoeve van de ver- of aankoop van woningen of andere panden**
-
-Het is toegestaan met een makelaar samen te werken ter uitvoering van de verkoop van de eigen woningen aan de eigen huurders of aan derden, bij de verhuur/verkoop van door de t.i. gerealiseerde bedrijfspanden, of - binnen het kader van de kernactiviteiten - bij de koop van woningen van derden. Er mag evenwel geen sprake zijn van een financiële, bestuurlijke of juridische band (een verbinding in de zin van het [BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686)) met een makelaardij, welke alle facetten van een makelaar kan uitvoeren. Het is een t.i. uiteraard toegestaan haar eigen woningen zelf te verkopen. De waarde van het te (ver)kopen onroerend goed dient in alle gevallen echter onverkort door een onafhankelijke taxateur te worden vastgesteld (zie de MG bij onderdeel II onder d: taxatie van te verkopen woningen).
-
-### **• ten behoeve van het afsluiten van verzekeringen en hypotheken**
-
-### 2. Bouw, verwerving en verhuur van bedrijfs-, kantoor- of andere panden
-
-### 3. Onderhoud van woningen dan wel onderhoud en/of beheer van bedrijfs- en/of kantoorpanden
-
-Volgens [artikel 11b BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=11) is het slechts toegestaan woningen te bouwen, waarvan de koopsom van de bouwrijpe grond vermeerderd met de aanneemsom van de in de aanbesteding begrepen woningen gemiddeld niet hoger is dan f 274.000 (prijspeil januari 2001). De middeling mag slechts tot stand komen binnen één aanbesteding en niet op grond van koppeling van verschillende aanbestedingen. Ik maak u er wat betreft de stichtingskosten reeds nu op attent, dat een wijziging van [artikel 11b BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=11) in voorbereiding is. De wijziging impliceert, dat aldaar gesproken zal worden over: 'alle kosten van het verkrijgen in eigendom van de in de aanbesteding begrepen woningen', dus de aanneemsom, de grondkosten, het architectenhonorarium, de kosten van voorbereiding en toezicht etc. Deze kosten mogen na invoering van de wijziging per woning gemiddeld genomen niet meer bedragen dan f 300.000. Indien sprake is van erfpacht, dan zullen de kosten van een vergelijkbare kavel in dit bedrag moeten zijn opgenomen. Ik heb overigens in het kader van het Nationaal Akkoord Wonen besloten om in de loop van 2002 de stichtingskostengrens zoals deze nu luidt af te schaffen. Vooruitlopend daarop zal ik, indien het gaat om de in deze circulaire omschreven gevallen, desgevraagd ruimhartig overschrijding van de bouwkostengrens toestaan. Dit is bijvoorbeeld het geval bij een integrale aanpak in een door de gemeente (beleidsmatig) vastgesteld herstructureringsgebied, waaronder begrepen inbreidingsgebieden, of als sprake is van stedelijke vernieuwing op door de gemeente als zodanig aangewezen locaties, waaronder ook de bouw op VINEX-locaties of andere uitleggebieden valt. De te bouwen duurdere woningen moeten dan wel gebouwd worden met het oog op de doorstroming van de doelgroep van beleid als bedoeld in [artikel 70c Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) en [artikel 13 BBSH](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=13). Zie ten aanzien van de overschrijding van de stichtingskostengrens ook het hierna onder 5 gestelde. Ook in een PPS-constructie, zoals een wijkontwikkelingsmaatschappij (WOM) is de bouw van duurdere woningen toegestaan. Voor de bij deze bouw aan te gane risico's wijs ik u met nadruk op het hierna in paragraaf F 'Financiële risico's bij het uitvoeren van nevenactiviteiten' gestelde. In afwijking van mijn algemene beleid ten aanzien van nevenactiviteiten in verbindingen gelden voor een verbinding, waarin naast de t.i. ook marktpartijen als projectontwikkelaars participeren (zoals een WOM) geen restricties voor commerciële nevenactiviteiten. Dit gezien het gegeven, dat daarin naast een of meer t.i's ook marktpartijen deelnemen. Dit geldt overigens slechts indien in die verbinding uitvoering gegeven wordt aan de door de gemeente gewenste herstructurering van een bepaald gebied. Dat laat echter onverlet, dat de door een t.i. in die verbinding te verrichten nevenactiviteiten gerelateerd moeten zijn aan de kerntaak van die t.i.. De financiële deelname dient in principe proportioneel te zijnaan de door de t.i. uit te voeren taak. Indien de t.i. meer dan proportioneel noodzakelijk deelneemt in een dergelijke verbinding dient de t.i. aannemelijk te maken, dat de meer dan proportionele deelname aan een dergelijke verbinding, die tevens commerciële activiteiten verricht, noodzakelijk is ter uitvoering van haar kerntaak, bijvoorbeeld om invloed te kunnen hebben op strategische beslissingen binnen deze verbinding. De deelname van de t.i. aan die verbinding dient zodanig gestructureerd te zijn, dat de t.i. niet met het gehele maatschappelijk gebonden vermogen aansprakelijk is voor een eventuele schuldpositie van die verbinding. Dit kan bijvoorbeeld bereikt worden via het deelnemen in die verbinding via een dochter van de t.i. welke de juridische status van een BV of NV heeft.
-
-### 5. Wonen/Zorg
-
-## Bijlage 2
-
-Vervallen
-
-## Bijlage 3
-
-Voor informatie omtrent het Besluit beheer sociale-huursector kunt u terecht op onderstaande telefoonnummers c.q. adressen van de Inspecties van de Volkshuisvesting voor de provincie.
-
-### Groningen, Friesland en Drenthe
-
-Cascadeplein 10
-
-9701 BH Groningen
-
-Fax: 050-5992699
-
-### Overijssel
-
-Postbus 7006
-
-8007 HA Zwolle
-
-Fax: 038-4695560
-
-### Gelderland
-
-Fax: 026-3528457
-
-### Utrecht
-
-Fax: 030-2335550
-
-### Noord-Holland en Flevoland
-
-Fax: 023-5150701
-
-### Zuid-Holland
-
-Fax: 070-3985800
-
-### Noord-Brabant en Zeeland
-
-Fax: 040-2467311
-
-### Limburg
-
-Fax: 043-3514121

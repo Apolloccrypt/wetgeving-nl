@@ -1,56 +1,29 @@
 ---
 title: "Regeling melding bijzondere voorvallen jeugdigen"
 identifier: "BWBR0012739"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-10-01"
-last_updated: "2015-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012739"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4955683"
-version_id: "8614132"
-internal_id: "C11156051"
-label_id: "4933074"
-dtd_version: "2.0"
-original_entry_into_force: "2001-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012739/2015-10-01/0"
-intitule_bron: "Stcrt.2001-156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-08-14"
-intitule_published: "2001-08-15"
-intitule_in_force: "2001-08-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-156"
-original_signed_date: "2001-08-14"
-original_published_date: "2001-08-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-09-01"
-jci_1_3: "jci1.3:c:BWBR0012739&z=2015-10-01&g=2015-10-01"
-jci_1_0: "1.0:c:BWBR0012739&g=2015-10-01"
-citeertitel_status: "officieel"
-signed_date: "2001-08-14"
-entry_into_force: "2001-09-01"
+publicatiedatum: 2001-09-01
+laatste_update: 2015-10-01
+status: geldig
+toestand: 2015-10-01
+bron: "https://wetten.overheid.nl/BWBR0012739"
+opgehaald: 2026-08-06
 ---
+
 # Regeling melding bijzondere voorvallen jeugdigen
-
-Gelet op [artikel 5, tweede lid van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=5);
-
-Gezien het advies van de Raad voor Strafrechtstoepassing en Jeugdbescherming van 28 juni 2001, kenmerk 5105565/TH/mk;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **bijzondere voorvallen:** de voorvallen, genoemd in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&artikel=2&z=2015-10-01&g=2015-10-01), van deze regeling;
+- a. *bijzondere voorvallen:* de voorvallen, genoemd in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&artikel=2&z=2015-10-01&g=2015-10-01), van deze regeling;
 
-- b. **ontvluchting:** onttrekking van een jeugdige aan het op hem uitgeoefende toezicht vanuit een gesloten gebouw, vanaf een beveiligd terrein, tijdens transport of tijdens begeleid verblijf buiten de inrichting;
+- b. *ontvluchting:* onttrekking van een jeugdige aan het op hem uitgeoefende toezicht vanuit een gesloten gebouw, vanaf een beveiligd terrein, tijdens transport of tijdens begeleid verblijf buiten de inrichting;
 
-- c. **DJI:** Dienst Justitiële Inrichtingen van het ministerie van Veiligheid en Justitie;
+- c. *DJI:* Dienst Justitiële Inrichtingen van het ministerie van Veiligheid en Justitie;
 
-- d. **divisiedirecteur ForZo/JJI:** de directeur van de divisie Forensische Zorg en Justitiële Jeugdinrichtingen van de DJI.
+- d. *divisiedirecteur ForZo/JJI:* de directeur van de divisie Forensische Zorg en Justitiële Jeugdinrichtingen van de DJI.
 
 ##### Artikel 2
 
@@ -103,9 +76,3 @@ Deze regeling treedt in werking op 1 september 2001.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling melding bijzondere voorvallen jeugdigen.
-
-## Bijlage 1
-
-## Bijlage 2
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

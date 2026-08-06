@@ -1,50 +1,18 @@
 ---
 title: "Wet van 27 juni 2002, houdende de Wet op het BTW-compensatiefonds"
+citeertitel: "Wet op het BTW-compensatiefonds"
 identifier: "BWBR0013817"
-country: "nl"
-rank: "wet"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013817"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "2858983"
-version_id: "4396992"
-internal_id: "C4396991"
-label_id: "2807104"
-dtd_version: "2.0"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013817/2023-01-01/0"
-intitule_bron: "Stb.2002-399"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-06-27"
-intitule_published: "2002-07-25"
-intitule_in_force: "2002-07-25"
-intitule_status: "goed"
-original_publication: "Stb.2002-399"
-original_signed_date: "2002-06-27"
-original_published_date: "2002-07-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "27293"
-original_url_id: "stb-2002-399"
-entry_into_force_date: "2003-01-01"
-entry_into_force_dossier: "27293"
-jci_1_3: "jci1.3:c:BWBR0013817&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0013817&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op het BTW-compensatiefonds"
-signed_date: "2002-06-27"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0013817"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 27 juni 2002, houdende de Wet op het BTW-compensatiefonds
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging hebben genomen dat het wenselijk is gemeenten, provincies en regionale openbare lichamen te compenseren voor de lasten van de heffing van omzetbelasting om daarmee de afweging tussen het zelf uitvoeren van activiteiten en het uitbesteden daarvan te verbeteren;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Deze wet treedt in werking voor provincies en gemeenten.
 
 ##### Artikel 1
 
@@ -52,7 +20,7 @@ Deze wet treedt in werking voor provincies en gemeenten.
 
 - a. Onze Minister: Onze Minister van Financiën;
 
-- b. BTW-richtlijn 2006: Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU 2006, L 347);
+- b. BTW-richtlijn 2006: Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU 2006, L 347);
 
 - c. publiekrechtelijk lichaam: een provincie, dan wel een gemeente;
 
@@ -140,7 +108,7 @@ Onze Minister kan nadere regels stellen omtrent de bijdrage ingeval de goederen 
 
 4. Indien uiterlijk vijf jaren na het einde van het kalenderjaar blijkt dat bijdrage over dat jaar is verstrekt tot een hoger of lager bedrag dan waarop het publiekrechtelijk lichaam of regionaal openbaar lichaam op grond van deze wet recht heeft, stelt de inspecteur de hoogte van de bijdrage over het desbetreffende kalenderjaar vast bij beschikking en wordt het verschil met de over dat kalenderjaar verstrekte bijdrage uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting en de daarover berekende belastingrente. Voor de toepassing van dit lid wordt rente berekend op grond van het vijfde lid beschouwd als bijdrage.
 
-5. In de gevallen, bedoeld in het vierde lid, wordt belastingrente berekend met overeenkomstige toepassing van de [artikelen 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30h), [30ha](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ha), [30hb](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb) en [30ia van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ia) als ware de bijdrage omzetbelasting, met dien verstande dat rente niet eerder wordt berekend dan met ingang van de eerste dag van de zevende maand volgend op het kalenderjaar waarop het recht op bijdrage betrekking heeft.
+5. In de gevallen, bedoeld in het vierde lid, wordt belastingrente berekend met overeenkomstige toepassing van de [artikelen 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30h), [30ha](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ha), [30hb](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb) en [30ia van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ia) als ware de bijdrage omzetbelasting, met dien verstande dat rente niet eerder wordt berekend dan met ingang van de eerste dag van de zevende maand volgend op het kalenderjaar waarop het recht op bijdrage betrekking heeft.
 
 6. Hetgeen voor de omzetbelasting onherroepelijk komt vast te staan, geldt mede ten aanzien van de toepassing van deze wet.
 
@@ -152,15 +120,15 @@ Onze Minister kan nadere regels stellen omtrent de bijdrage ingeval de goederen 
 
 ##### Artikel 10
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel 11
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel 12
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel 13
 
@@ -183,5 +151,3 @@ Deze wet treedt in werking met ingang van 1 januari 2003, met uitzondering voor 
 ##### Artikel 15
 
 Deze wet wordt aangehaald als: Wet op het BTW-compensatiefonds.
-
-Lasten en bevelen dat deze in het Staatsblad wordt geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,43 +1,18 @@
 ---
 title: "Vaststelling van regels betreffende de buitenomloopstelling en inwisseling van de op grond van de Muntwet 1948 en de Muntwet 1987 uitgegeven munten met de hoedanigheid van wettig betaalmiddel"
+citeertitel: "Regeling inwisseling guldenmunten"
 identifier: "BWBR0013071"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-28"
-last_updated: "2002-01-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013071"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4122823"
-version_id: "5876282"
-internal_id: "C6079111"
-label_id: "4102394"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013071/2002-01-28/0"
-intitule_bron: "Stcrt.2001-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-03"
-intitule_published: "2001-12-20"
-intitule_in_force: "2001-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-247"
-original_signed_date: "2001-12-03"
-original_published_date: "2001-12-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-01-28"
-jci_1_3: "jci1.3:c:BWBR0013071&z=2002-01-28&g=2002-01-28"
-jci_1_0: "1.0:c:BWBR0013071&g=2002-01-28"
-citeertitel_status: "officieel"
-short_title: "Regeling inwisseling guldenmunten"
-signed_date: "2001-12-03"
-entry_into_force: "2002-01-28"
+publicatiedatum: 2002-01-28
+laatste_update: 2002-01-28
+status: geldig
+toestand: 2002-01-28
+bron: "https://wetten.overheid.nl/BWBR0013071"
+opgehaald: 2026-08-06
 ---
+
 # Vaststelling van regels betreffende de buitenomloopstelling en inwisseling van de op grond van de Muntwet 1948 en de Muntwet 1987 uitgegeven munten met de hoedanigheid van wettig betaalmiddel
-
-Gelet op [artikel 9, derde lid, van de Muntwet 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=9),
-
-Besluit:
 
 ##### Artikel 1
 
@@ -60,5 +35,3 @@ Met ingang van de dag waarop de Muntwet 1987 wordt ingetrokken, worden de munten
 ##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag waarop de Muntwet 1987 wordt ingetrokken.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

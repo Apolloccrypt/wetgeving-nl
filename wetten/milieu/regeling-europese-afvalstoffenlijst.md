@@ -1,53 +1,37 @@
 ---
 title: "Regeling Europese afvalstoffenlijst"
 identifier: "BWBR0013546"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013546"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "4116923"
-version_id: "27417472"
-internal_id: "C38710871"
-label_id: "4096604"
-dtd_version: "2.0"
-original_entry_into_force: "2020-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013546/2024-01-01/0"
-intitule_bron: "Stcrt.2002-62"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-03-27"
-intitule_published: "2002-03-28"
-intitule_in_force: "2002-05-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-64380"
-original_signed_date: "2020-12-01"
-original_published_date: "2020-12-03"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2020-64380"
-entry_into_force_date: "2020-12-01"
-jci_1_3: "jci1.3:c:BWBR0013546&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0013546&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2020-12-01"
-entry_into_force: "2020-12-01"
+publicatiedatum: 2020-12-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0013546"
+opgehaald: 2026-08-06
 ---
+
 # Regeling Europese afvalstoffenlijst
-
-Gelet op beschikking nr. 2000/532/EG van de Commissie van de Europese Gemeenschappen van 3 mei 2000 tot vervanging van beschikking 94/3/EG houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a), van [Richtlijn 75/442/EEG](31975L0442) van de Raad van de Europese Gemeenschappen betreffende afvalstoffen en Beschikking 94/904/EG van de Raad van de Europese Unie tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, lid 4, van [Richtlijn 91/689/EEG](31991L0689) van de Raad van de Europese Gemeenschappen betreffende gevaarlijke afvalstoffen (PbEG L 226/3), zoals laatstelijk gewijzigd bij beschikking nr. 2001/573/EG van de Raad van de Europese Unie van 23 juli 2001 tot wijziging van Beschikking 2000/532/EG van de Commissie wat de lijst van afvalstoffen betreft (PbEG L 203/18) en op [artikel 1.1, eerste, zesde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), en [10.15 tot en met 10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.15) jo. [21.6 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6), [artikel 3, eerste lid, van de Bestrijdingsmiddelenwet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002380&artikel=3) en [artikel 2, tweede lid, van het Bestrijdingsmiddelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002450&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
-**afvalstoffenlijst:** bijlage bij beschikking nr. 2000/532/EG van de Commissie van de Europese Gemeenschappen van 3 mei 2000 tot vervanging van Beschikking 94/3/EG houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a), van [Richtlijn 75/442/EEG](31975L0442) van de Raad van de Europese Gemeenschappen betreffende afvalstoffen en Beschikking 94/904/EG van de Raad van de Europese Unie tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, lid 4, van [Richtlijn 91/689/EEG](31991L0689) van de Raad van de Europese Gemeenschappen betreffende gevaarlijke afvalstoffen (PbEG L 226/3); **complementaire categorieën:** indeling van een afvalstof in de afvalstoffenlijst in twee of meer categorieën waarbij aan de hand van de samenstelling of de fysische eigenschappen wordt bepaald of een afvalstof gevaarlijk dan wel niet-gevaarlijk is.
+afvalstoffenlijst:
+
+bijlage bij beschikking nr. 2000/532/EG van de Commissie van de Europese Gemeenschappen van 3 mei 2000 tot vervanging van Beschikking 94/3/EG houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a), van Richtlijn 75/442/EEG van de Raad van de Europese Gemeenschappen betreffende afvalstoffen en Beschikking 94/904/EG van de Raad van de Europese Unie tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, lid 4, van Richtlijn 91/689/EEG van de Raad van de Europese Gemeenschappen betreffende gevaarlijke afvalstoffen (PbEG L 226/3);
+
+complementaire categorieën:
+
+indeling van een afvalstof in de afvalstoffenlijst in twee of meer categorieën waarbij aan de hand van de samenstelling of de fysische eigenschappen wordt bepaald of een afvalstof gevaarlijk dan wel niet-gevaarlijk is.
 
 2. De tekst van de afvalstoffenlijst alsmede de tekst van de wijzigingen daarvan worden in de Staatscourant geplaatst.
 
 3. Een wijziging in de bijlage bij de beschikking, genoemd in het eerste lid, gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+
+##### Artikel 1a
+
+Deze regeling berust mede op [artikel 1.1, vierde en achtste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 
 ##### Artikel 2
 
@@ -119,11 +103,11 @@ De Regeling aanvulling aanwijzing gevaarlijke afvalstoffen wordt ingetrokken.
 
 ##### Artikel 9
 
-Wijzigt de Regeling samenstelling, indeling, verpakking en etikettering bestrijdingsmiddelen.
+*Wijzigt de Regeling samenstelling, indeling, verpakking en etikettering bestrijdingsmiddelen.*
 
 ##### Artikel 10
 
-Wijzigt de Regeling verwijdering PCB's.
+*Wijzigt de Regeling verwijdering PCB's.*
 
 ##### Artikel 11
 
@@ -144,11 +128,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdeel A, 
 ##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling Europese afvalstoffenlijst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op [artikel 1.1, vierde en achtste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

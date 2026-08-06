@@ -1,40 +1,17 @@
 ---
 title: "Vernieuwd instellingsbesluit marinemedaille"
 identifier: "BWBR0014015"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-09-01"
-last_updated: "2017-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014015"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4100363"
-version_id: "5854102"
-internal_id: "C6056931"
-label_id: "4080214"
-dtd_version: "2.0"
-original_entry_into_force: "2002-10-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014015/2017-09-01/0"
-intitule_bron: "Stcrt.2002-205"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-09-12"
-intitule_published: "2002-10-24"
-intitule_in_force: "2002-10-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-205"
-original_signed_date: "2002-09-12"
-original_published_date: "2002-10-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-10-26"
-jci_1_3: "jci1.3:c:BWBR0014015&z=2017-09-01&g=2017-09-01"
-jci_1_0: "1.0:c:BWBR0014015&g=2017-09-01"
-citeertitel_status: "officieel"
-signed_date: "2002-09-12"
-entry_into_force: "2002-10-26"
+publicatiedatum: 2002-10-26
+laatste_update: 2017-09-01
+status: geldig
+toestand: 2017-09-01
+bron: "https://wetten.overheid.nl/BWBR0014015"
+opgehaald: 2026-08-06
 ---
-# Vernieuwd instellingsbesluit marinemedaille
 
-Besluit:
+# Vernieuwd instellingsbesluit marinemedaille
 
 ##### Artikel 1
 
@@ -46,9 +23,9 @@ In dit besluit wordt verstaan onder:
 
 - c. operationele eenheid van het korps mariniers:
 
-- 1°. de bij de Directie Operaties Commando Zeestrijdkrachten ingedeelde marinierseenheden; of
+   - 1°. de bij de Directie Operaties Commando Zeestrijdkrachten ingedeelde marinierseenheden; of
 
-- 2º. een eenheid van het korps mariniers die op grond van haar operationele aard met een operationele eenheid als bedoeld onder 1° vergelijkbaar is of was;
+   - 2º. een eenheid van het korps mariniers die op grond van haar operationele aard met een operationele eenheid als bedoeld onder 1° vergelijkbaar is of was;
 
 - d. de militair: de militair, ingedeeld bij de Koninklijke marine;
 
@@ -88,7 +65,7 @@ Ingesteld wordt de marinemedaille.
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -137,5 +114,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Vernieuwd instellingsbesluit marinemedaille.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

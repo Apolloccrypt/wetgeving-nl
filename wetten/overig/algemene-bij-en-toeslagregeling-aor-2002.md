@@ -1,44 +1,33 @@
 ---
 title: "Algemene bij- en toeslagregeling AOR 2002"
 identifier: "BWBR0013139"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013139"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3813633"
-version_id: "5596432"
-internal_id: "C5789521"
-label_id: "3793314"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013139/2024-01-01/0"
-intitule_bron: "Stcrt.2001-242"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-11"
-intitule_published: "2001-12-13"
-intitule_in_force: "2001-12-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-242"
-original_signed_date: "2001-12-11"
-original_published_date: "2001-12-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0013139&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0013139&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2001-12-11"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0013139"
+opgehaald: 2026-08-06
 ---
-# Algemene bij- en toeslagregeling AOR 2002
 
-Besluit:
+# Algemene bij- en toeslagregeling AOR 2002
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+AOR:
+
+de Algemeene oorlogsongevallenregeling;
+
+b.
+
+uitkering:
+
+een periodieke uitkering krachtens de AOR, krachtens het besluit van de Luitenant-Gouverneur-Generaal van Nederlands-Indië van 5 november 1946 (Indisch Staatsblad 1946, 118) of een pensioen krachtens de Bijzondere Oorlogsongevallenregeling Dienst- en Reserveplichtigen (Indisch Staatsblad 1947, 154).
 
 ##### Artikel 2
 
@@ -52,9 +41,9 @@ Uitkeringen die na 31 december 2001 worden toegekend, dan wel met toepassing van
 
 - a. voor de periode tot 1 januari 2002 wordt de uitkering berekend overeenkomstig de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2024-01-01&g=2024-01-01) van de tot 1 januari 2002 geldende Algemene bij- en toeslagbeschikking AOR;
 
-- b. voor de periode van 1 januari 2002 tot 1 januari 2011 wordt de uitkering berekend door het overeenkomstig de onder a genoemde artikelen voor betrokkene berekende bedrag per 31 december 2001, op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2024-01-01&g=2024-01-01), aangegeven wijze vast te stellen en aan te passen overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2024-01-01&g=2024-01-01), zoals dat luidde tot 1 januari 2011;
+- b. voor de periode van 1 januari 2002 tot 1 januari 2011 wordt de uitkering berekend door het overeenkomstig de onder a genoemde artikelen voor betrokkene berekende bedrag per 31 december 2001, op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2024-01-01&g=2024-01-01), aangegeven wijze vast te stellen en aan te passen overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2024-01-01&g=2024-01-01), zoals dat luidde tot 1 januari 2011;
 
-- c. voor de periode vanaf 1 januari 2011 wordt de uitkering berekend door het overeenkomstig de onder b genoemde artikelen voor betrokkene berekende bedrag per 31 december 2010 aan te passen overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2024-01-01&g=2024-01-01).
+- c. voor de periode vanaf 1 januari 2011 wordt de uitkering berekend door het overeenkomstig de onder b genoemde artikelen voor betrokkene berekende bedrag per 31 december 2010 aan te passen overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 4
 
@@ -70,7 +59,7 @@ De met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR001313
 
 ##### Artikel 6
 
-Degene die recht heeft op een uitkering heeft, zolang hij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt, over de uitkeringsjaren vanaf 2001 recht op een toeslag:
+Degene die recht heeft op een uitkering heeft, zolang hij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt, over de uitkeringsjaren vanaf 2001 recht op een toeslag:
 
 - a. ter grootte van 5,6% van die uitkering, met een maximum van € 2.066,97 per jaar, indien het recht op die uitkering reeds voor 1 januari 1999 bestond;
 
@@ -87,5 +76,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2002.
 ##### Artikel 9
 
 Deze regeling kan worden aangehaald als: Algemene bij- en toeslagregeling AOR 2002.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

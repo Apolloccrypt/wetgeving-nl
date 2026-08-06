@@ -9,7 +9,7 @@ laatste_update: 2026-08-04
 status: geldig
 toestand: 2026-08-04
 bron: "https://wetten.overheid.nl/BWBR0052935"
-opgehaald: 2026-08-05
+opgehaald: 2026-08-06
 ---
 
 # Besluit van het bestuur van de Nederlandse Emissieautoriteit van 27 juli 2026 (NEA-DOC-522259), met betrekking tot de toewijzing van broeikasgasemissierechten voor de periode 2026–2030 (Nationale toewijzingsbesluit broeikasgasemissierechten 2026–2030)

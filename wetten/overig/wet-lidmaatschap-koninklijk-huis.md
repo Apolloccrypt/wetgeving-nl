@@ -1,48 +1,18 @@
 ---
 title: "Wet van 30 mei 2002, houdende regeling van het lidmaatschap koninklijk huis alsmede daaraan verbonden titels (Wet lidmaatschap koninklijk huis)"
+citeertitel: "Wet lidmaatschap koninklijk huis"
 identifier: "BWBR0013729"
-country: "nl"
-rank: "wet"
-publication_date: "2002-06-12"
-last_updated: "2002-06-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013729"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1971953"
-version_id: "2921182"
-internal_id: "C2921181"
-label_id: "1921354"
-dtd_version: "2.0"
-original_entry_into_force: "2002-06-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013729/2002-06-12/0"
-intitule_bron: "Stb.2002-275"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-05-30"
-intitule_published: "2002-06-11"
-intitule_in_force: "2002-06-11"
-intitule_status: "goed"
-original_publication: "Stb.2002-275"
-original_signed_date: "2002-05-30"
-original_published_date: "2002-06-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "28223"
-original_url_id: "stb-2002-275"
-entry_into_force_date: "2002-06-12"
-entry_into_force_dossier: "28223"
-jci_1_3: "jci1.3:c:BWBR0013729&z=2002-06-12&g=2002-06-12"
-jci_1_0: "1.0:c:BWBR0013729&g=2002-06-12"
-citeertitel_status: "officieel"
-short_title: "Wet lidmaatschap koninklijk huis"
-signed_date: "2002-05-30"
-entry_into_force: "2002-06-12"
+publicatiedatum: 2002-06-12
+laatste_update: 2002-06-12
+status: geldig
+toestand: 2002-06-12
+bron: "https://wetten.overheid.nl/BWBR0013729"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 30 mei 2002, houdende regeling van het lidmaatschap koninklijk huis alsmede daaraan verbonden titels (Wet lidmaatschap koninklijk huis)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een nieuwe regeling inzake het lidmaatschap van het koninklijk huis krachtens [artikel 39 Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=39) vast te stellen alsmede enkele voorzieningen inzake de daaraan verbonden titels en namen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -130,7 +100,7 @@ De [Wet lidmaatschap koninklijk huis](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 13
 
-Wijzigt de Wet op de adeldom.
+*Wijzigt de Wet op de adeldom.*
 
 ##### Artikel 14
 
@@ -139,5 +109,3 @@ Deze wet wordt aangehaald als: Wet lidmaatschap koninklijk huis.
 ##### Artikel 15
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

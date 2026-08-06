@@ -1,42 +1,22 @@
 ---
 title: "Inwerkingtreding EG-Verordening betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken"
+citeertitel: "Inwerkingtreding EG-Verordening rechterlijke bevoegdheid, erkenning en tenuitvoerlegging van beslissingen in burgerlijke- en handelszaken"
 identifier: "BWBR0013335"
-country: "nl"
-rank: "circulaire"
-publication_date: "2002-02-06"
-last_updated: "2002-02-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013335"
+categorie: "Burgerlijk recht"
 soort: "circulaire"
-stam_id: "6058013"
-version_id: "10710472"
-internal_id: "C14538861"
-label_id: "6047324"
-original_entry_into_force: "2002-02-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013335/2002-02-06/0"
-intitule_bron: "Stcrt.2002-26"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-01-04"
-intitule_published: "2002-02-06"
-intitule_in_force: "2002-02-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-26"
-original_signed_date: "2002-01-04"
-original_published_date: "2002-02-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-02-06"
-jci_1_3: "jci1.3:c:BWBR0013335&z=2002-02-06&g=2002-02-06"
-jci_1_0: "1.0:c:BWBR0013335&g=2002-02-06"
-citeertitel_status: "redactioneel"
-short_title: "Inwerkingtreding EG-Verordening rechterlijke bevoegdheid, erkenning en tenuitvoerlegging van beslissingen in burgerlijke- en handelszaken"
-signed_date: "2002-01-04"
-entry_into_force: "2002-02-06"
+publicatiedatum: 2002-02-06
+laatste_update: 2002-02-06
+status: geldig
+toestand: 2002-02-06
+bron: "https://wetten.overheid.nl/BWBR0013335"
+opgehaald: 2026-08-06
 ---
+
 # Inwerkingtreding EG-Verordening betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken
 
 ### 1. Inleiding
 
-Op 1 maart 2002 treedt de [Verordening (EG) Nr. 44/2001](32001R0044) van de Raad van 22 december 2000 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (PbEG L 12) in werking (hierna: de verordening). Deze verordening is verbindend in al haar onderdelen en geldt rechtstreeks in Nederland ingevolge het Verdrag tot oprichting van de EG. De in de artikelen 38 tot en met 58 van de verordening opgenomen regeling voor het verlof tot tenuitvoerlegging van de door de verordening bestreken executoriale titels behoeft aanvulling in ons nationale recht. Een daartoe strekkend wetsvoorstel is inmiddels aan de Raad van State voor advies voorgelegd ([Uitvoeringswet EG-executieverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0015325)). Nu dit wetsvoorstel niet gelijk met de verordening op 1 maart 2002 in werking zal treden, kunnen er vragen rijzen over de betekenis en de gevolgen van de verordening tot het tijdstip van inwerkingtreding van het wetsvoorstel. Deze circulaire beoogt hieromtrent duidelijkheid te scheppen.
+Op 1 maart 2002 treedt de Verordening (EG) Nr. 44/2001 van de Raad van 22 december 2000 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (PbEG L 12) in werking (hierna: de verordening). Deze verordening is verbindend in al haar onderdelen en geldt rechtstreeks in Nederland ingevolge het Verdrag tot oprichting van de EG. De in de artikelen 38 tot en met 58 van de verordening opgenomen regeling voor het verlof tot tenuitvoerlegging van de door de verordening bestreken executoriale titels behoeft aanvulling in ons nationale recht. Een daartoe strekkend wetsvoorstel is inmiddels aan de Raad van State voor advies voorgelegd ([Uitvoeringswet EG-executieverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0015325)). Nu dit wetsvoorstel niet gelijk met de verordening op 1 maart 2002 in werking zal treden, kunnen er vragen rijzen over de betekenis en de gevolgen van de verordening tot het tijdstip van inwerkingtreding van het wetsvoorstel. Deze circulaire beoogt hieromtrent duidelijkheid te scheppen.
 
 ### 2. Werkingssfeer EG-executieverordening
 

@@ -1,42 +1,17 @@
 ---
 title: "Beleidsregels near shore windpark"
 identifier: "BWBR0012921"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-10-28"
-last_updated: "2001-10-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012921"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6227463"
-version_id: "10899872"
-internal_id: "C14770221"
-label_id: "6216634"
-original_entry_into_force: "2001-10-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012921/2001-10-28/0"
-intitule_bron: "Stcrt.2001-208"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-10-25"
-intitule_published: "2001-10-26"
-intitule_in_force: "2001-10-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-208"
-original_signed_date: "2001-10-25"
-original_published_date: "2001-10-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-208-p9-SC31467"
-entry_into_force_date: "2001-10-28"
-jci_1_3: "jci1.3:c:BWBR0012921&z=2001-10-28&g=2001-10-28"
-jci_1_0: "1.0:c:BWBR0012921&g=2001-10-28"
-citeertitel_status: "officieel"
-signed_date: "2001-10-25"
-entry_into_force: "2001-10-28"
+publicatiedatum: 2001-10-28
+laatste_update: 2001-10-28
+status: geldig
+toestand: 2001-10-28
+bron: "https://wetten.overheid.nl/BWBR0012921"
+opgehaald: 2026-08-06
 ---
+
 # Beleidsregels near shore windpark
-
-Gelet op [artikel 4:81, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-Besluiten:
 
 #### § 1. Algemene bepalingen
 
@@ -44,33 +19,33 @@ Besluiten:
 
 In deze beleidsregels wordt verstaan onder:
 
-- a. **near shore windpark** een opstelling van permanente windturbines met een totaal constant geïnstalleerd vermogen van ten hoogste 100 MW voor de Nederlandse kust als bedoeld in de Project-planologische kernbeslissing Locatiekeuze Demonstratieproject Near Shore Windpark, deel 3 (Kamerstukken II 2000/2001, 27 041, nr. 4), dat een aansluiting op het Nederlandse elektriciteitsnet heeft, en geschikt is voor de opstelling van ten minste 1 en ten hoogste 2 tijdelijke windturbines;
+- a. *near shore windpark* een opstelling van permanente windturbines met een totaal constant geïnstalleerd vermogen van ten hoogste 100 MW voor de Nederlandse kust als bedoeld in de Project-planologische kernbeslissing Locatiekeuze Demonstratieproject Near Shore Windpark, deel 3 (Kamerstukken II 2000/2001, 27 041, nr. 4), dat een aansluiting op het Nederlandse elektriciteitsnet heeft, en geschikt is voor de opstelling van ten minste 1 en ten hoogste 2 tijdelijke windturbines;
 
-- b. **permanente windturbines** windturbines die worden geïnstalleerd voor een exploitatieperiode van ten hoogste 20 jaar met een vermogen van ten minste 1,5 MW die voor plaatsing op het land gecertificeerd zijn, en aangepast zijn aan de omstandigheden op zee;
+- b. *permanente windturbines* windturbines die worden geïnstalleerd voor een exploitatieperiode van ten hoogste 20 jaar met een vermogen van ten minste 1,5 MW die voor plaatsing op het land gecertificeerd zijn, en aangepast zijn aan de omstandigheden op zee;
 
-- c. **tijdelijke windturbines** windturbines met een vermogen van ten minste 3 MW die voor een periode van ten hoogste 3 jaar worden geïnstalleerd;
+- c. *tijdelijke windturbines* windturbines met een vermogen van ten minste 3 MW die voor een periode van ten hoogste 3 jaar worden geïnstalleerd;
 
-- d. **overeenkomst** de overeenkomst betreffende de uitvoering van het demonstratieproject near shore windpark alsmede de informatievoorziening daaromtrent zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012921&bijlage=1&z=2001-10-28&g=2001-10-28) bij deze beleidsregels;
+- d. *overeenkomst* de overeenkomst betreffende de uitvoering van het demonstratieproject near shore windpark alsmede de informatievoorziening daaromtrent zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012921&bijlage=1&z=2001-10-28&g=2001-10-28) bij deze beleidsregels;
 
-- e. **deelnemer** de ondernemer die of het samenwerkingsverband dat deelneemt aan de selectie betreffende het sluiten van de overeenkomst;
+- e. *deelnemer* de ondernemer die of het samenwerkingsverband dat deelneemt aan de selectie betreffende het sluiten van de overeenkomst;
 
-- f. **ondernemer** een natuurlijke persoon of rechtspersoon, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld, die een onderneming in stand houdt;
+- f. *ondernemer* een natuurlijke persoon of rechtspersoon, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld, die een onderneming in stand houdt;
 
-- g. **samenwerkingsverband** een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee, niet in een groep verbonden natuurlijke personen of rechtspersonen;
+- g. *samenwerkingsverband* een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee, niet in een groep verbonden natuurlijke personen of rechtspersonen;
 
-- h. **groep** een economische eenheid, waarin organisatorisch zijn verbonden:
+- h. *groep* een economische eenheid, waarin organisatorisch zijn verbonden:
 
-- 1°. een natuurlijke persoon of privaatrechtelijke rechtspersoon, die direct of indirect:
+   - 1°. een natuurlijke persoon of privaatrechtelijke rechtspersoon, die direct of indirect:
 
-- -. meer dan de helft van het geplaatste kapitaal verschaft aan,
+      - - meer dan de helft van het geplaatste kapitaal verschaft aan,
 
-- -. volledig aansprakelijk vennoot is van of
+      - - volledig aansprakelijk vennoot is van of
 
-- -. overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en
+      - - overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en
 
-- 2°. laatstbedoelde rechtspersonen of vennootschappen;
+   - 2°. laatstbedoelde rechtspersonen of vennootschappen;
 
-- i. **monitoring- en evaluatieprogramma** het Monitoring- en Evaluatie Programma Near Shore Windpark, dat is opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012921&bijlage=2&z=2001-10-28&g=2001-10-28) bij de overeenkomst.
+- i. *monitoring- en evaluatieprogramma* het Monitoring- en Evaluatie Programma Near Shore Windpark, dat is opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012921&bijlage=2&z=2001-10-28&g=2001-10-28) bij de overeenkomst.
 
 #### § 2. Van selectie naar overeenkomst
 
@@ -175,13 +150,3 @@ Deze beleidsregels treden in werking met ingang van de tweede dag na de dagteken
 ##### Artikel 10
 
 Deze beleidsregels worden aangehaald als: Beleidsregels near shore windpark.
-
-## Bijlage 1
-
-Bijlage ligt ter inzage bij het Ministerie van Economische Zaken te Den Haag.
-
-## Bijlage 2
-
-Bijlage ligt ter inzage bij het Ministerie van Economische Zaken te Den Haag.
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0012921&bijlage=1&z=2001-10-28&g=2001-10-28), die ter inzage worden gelegd. Van deze terinzagelegging wordt mededeling gedaan in de Staatscourant.

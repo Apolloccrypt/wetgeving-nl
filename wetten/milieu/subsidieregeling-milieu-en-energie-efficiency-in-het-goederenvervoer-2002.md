@@ -1,48 +1,83 @@
 ---
 title: "Subsidieregeling milieu- en energie-efficiency in het goederenvervoer 2002"
 identifier: "BWBR0013040"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-04-20"
-last_updated: "2006-04-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013040"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "5557423"
-version_id: "9964352"
-internal_id: "C13449781"
-label_id: "5529274"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013040/2006-04-20/0"
-intitule_bron: "Stcrt.2001-237"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-27"
-intitule_published: "2001-12-06"
-intitule_in_force: "2001-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-237"
-original_signed_date: "2001-11-27"
-original_published_date: "2001-12-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0013040&z=2006-04-20&g=2006-04-20"
-jci_1_0: "1.0:c:BWBR0013040&g=2006-04-20"
-citeertitel_status: "officieel"
-signed_date: "2001-11-27"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2006-04-20
+status: geldig
+toestand: 2006-04-20
+bron: "https://wetten.overheid.nl/BWBR0013040"
+opgehaald: 2026-08-06
 ---
+
 # Subsidieregeling milieu- en energie-efficiency in het goederenvervoer 2002
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+minister:
+
+de Minister van Verkeer en Waterstaat;
+
+b.
+
+programmabeheerder:
+
+de minister, danwel voorzover een orgaan of rechtspersoon met de uitvoering van deze regeling is belast, dat orgaan of die rechtspersoon;
+
+c.
+
+aanvrager:
+
+de natuurlijke persoon of rechtspersoon, gevestigd in Nederland, die een subsidie op grond van deze regeling aanvraagt of heeft aangevraagd;
+
+d.
+
+project:
+
+een haalbaarheidsproject, onderzoeks- of ontwikkelingsproject, praktijkexperiment, demonstratieproject, of kennisoverdrachtproject;
+
+e.
+
+haalbaarheidsproject:
+
+een samenhangend geheel van activiteiten, bestaande uit een analyse en een beoorderling van de mogelijkheden om een logistiek systeem of een verkeers- en vervoertechniek te ontwikkelen of in de praktijk toe te passen;
+
+f.
+
+onderzoeks- of ontwikkelingsproject:
+
+een samenhangend geheel van activiteiten gericht op
+
+1°. het vermeerderen van technisch of wetenschappelijk inzicht ten aanzien van een logistiek systeem of een verkeers- en vervoertechniek,
+
+2°. het geschikt maken of ontwikkelen van een logistiek systeem of een verkeers- en vervoertechniek voor toepassing in de praktijk, niet zijnde een praktijkexperiment, of
+
+3°. het verbeteren van het ontwerp van een logistiek systeem of een verkeers- en vervoertechniek;
+
+g.
+
+praktijkexperiment:
+
+een samenhangend geheel van activiteiten bestaande uit het treffen van technische of beheersmatige voorzieningen, voorzover geheel of nagenoeg geheel bestemd voor het vergroten van inzicht in de geschiktheid voor toepassing in de praktijk van een logistiek systeem of een verkeers- en vervoertechniek, alsmede de daarmee samenhangende activiteiten, geheel of nagenoeg geheel gericht op het verbeteren van die geschiktheid;
+
+h.
+
+demonstratieproject:
+
+een samenhangend geheel van activiteiten die een technisch en economisch risico inhouden, bestaande uit het door de aanvrager toepassen van logistieke systemen of verkeers- en vervoertechnieken die voor Nederland nieuw zijn dan wel een nieuwe toepassing betekenen van deze systemen of technieken, alsmede de daarmee samenhangende activiteiten bestemd voor het demonstreren van voorzieningen en de daarmee behaalde resultaten, met inbegrip van het verstrekken van gegevens aan de programmabeheerder ten behoeve van de verspreiding van kennis omtrent de aard en resultaten van de voorzieningen;
+
+i.
+
+kennisoverdrachtproject:
+
+een samenhangend geheel van activiteiten, gericht op het overdragen van kennis en informatie met name aan bedrijven en organisaties op het gebied van verkeer en vervoer.
 
 ##### Artikel 2
 
@@ -98,7 +133,7 @@ Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie v
 
 De in artikel 4, tweede lid, gestelde maximumpercentages voor een onderzoeks- of ontwikkelingsproject, een praktijkexperiment of een demonstratieproject kunnen worden verhoogd met:
 
-- a. ten hoogste 10 procentpunten, indien de aanvrager een kleine of middelgrote onderneming is in de zin van [verordening (EG) nr. 70/2001](32001R0070) van de Commissie van de Europese Gemeenschappen van 12 januari 2001 betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op staatssteun voor kleine en middelgrote ondernemingen (PbEG L 10);
+- a. ten hoogste 10 procentpunten, indien de aanvrager een kleine of middelgrote onderneming is in de zin van verordening (EG) nr. 70/2001 van de Commissie van de Europese Gemeenschappen van 12 januari 2001 betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op staatssteun voor kleine en middelgrote ondernemingen (PbEG L 10);
 
 - b. ten hoogste 15 procentpunten, indien het project aansluit bij de specifieke doelstellingen, taken en technische oogmerken van de werkprogramma's `vervoer', `THERMIE', `industrie- en materiaaltechnologie', `informatietechnologie', `telematicatechnologie' en `geavanceerde communicatietechnologie en -diensten' van het vierde kaderprogramma en volgende voor Onderzoek en Technologische Ontwikkeling of het SAVE-programma, met dien verstande dat het project is gericht op het uitvoeren van onderzoek dat in verschillende sectoren kan worden toegepast en blijk geeft van een multidisciplinaire aanpak.
 
@@ -263,5 +298,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2002.
 ##### Artikel 23
 
 Deze regeling wordt aangehaald als: Subsidieregeling milieu- en energie-efficiency in het goederenvervoer 2002.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,64 +1,32 @@
 ---
 title: "Besluit van 3 oktober 2002, houdende regels voor de detectie van radioactief besmet schroot (Besluit detectie radioactief besmet schroot)"
+citeertitel: "Besluit detectie radioactief besmet schroot"
 identifier: "BWBR0014106"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014106"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "3232043"
-version_id: "24573102"
-internal_id: "C35190111"
-label_id: "3203784"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014106/2024-01-01/0"
-intitule_bron: "Stb.2002-565"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-10-03"
-intitule_published: "2002-11-28"
-intitule_in_force: "2002-12-30"
-intitule_status: "goed"
-original_publication: "Stb.2017-404"
-original_signed_date: "2017-10-23"
-original_published_date: "2017-11-07"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2017-404"
-entry_into_force_date: "2017-10-23"
-jci_1_3: "jci1.3:c:BWBR0014106&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0014106&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit detectie radioactief besmet schroot"
-signed_date: "2017-10-23"
-entry_into_force: "2017-10-23"
+publicatiedatum: 2017-10-23
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0014106"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 3 oktober 2002, houdende regels voor de detectie van radioactief besmet schroot (Besluit detectie radioactief besmet schroot)
-
-Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 28 december 2001, nr. MJZ2001144238, gedaan mede namens Onze Minister van Economische Zaken en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst;
-
-Gelet op de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=21), en [32, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=32);
-
-De Raad van State gehoord (advies van 18 april 2002, nr. W08.02.0014/V);
-
-Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 19 september 2002, nr. MJZ2002078061, uitgebracht mede namens Onze Minister van Economische Zaken en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M. Rutte;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-**detectieapparatuur**: apparatuur, die ioniserende straling meet;
+*detectieapparatuur*: apparatuur, die ioniserende straling meet;
 
-**milieubelastende activiteit:** milieubelastende activiteit die is aangewezen in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3);
+*milieubelastende activiteit:* milieubelastende activiteit die is aangewezen in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3);
 
-**omzet:** hoeveelheid schroot die op de locatie waarop de milieubelastende activiteit wordt verricht wordt gebracht;
+*omzet:* hoeveelheid schroot die op de locatie waarop de milieubelastende activiteit wordt verricht wordt gebracht;
 
-**Onze Minister**: Onze Minister van Infrastructuur en Milieu;
+*Onze Minister*: Onze Minister van Infrastructuur en Milieu;
 
-**radioactief besmet schroot**: schroot voor het voorhanden hebben waarvan een vergunning vereist is ingevolge de artikelen [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) of [29 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29), dan wel het krachtens [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=34) bepaalde, of waarvan het voorhanden hebben gemeld moet worden ingevolge het bepaalde krachtens de artikelen [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=21), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=32) of [34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=34).
+*radioactief besmet schroot*: schroot voor het voorhanden hebben waarvan een vergunning vereist is ingevolge de artikelen [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) of [29 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29), dan wel het krachtens [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=34) bepaalde, of waarvan het voorhanden hebben gemeld moet worden ingevolge het bepaalde krachtens de artikelen [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=21), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=32) of [34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=34).
 
 ##### Artikel 2
 
@@ -68,11 +36,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. op het verrichten van milieubelastende activiteiten waarvan de omzet per kalenderjaar lager is dan: met dien verstande dat voor degenen die de milieubelastende activiteiten verrichten die reeds ten minste twee volle kalenderjaren een omzet aan schroot hebben gehad, de gemiddelde omzet over de twee laatst verstreken kalenderjaren bepalend is;
 
-- 1. 500 ton roestvrij-staalschroot,
+   - 1. 500 ton roestvrij-staalschroot,
 
-- 2. 1000 ton aluminiumschroot, of
+   - 2. 1000 ton aluminiumschroot, of
 
-- 3. 20 000 ton ijzerschroot,
+   - 3. 20 000 ton ijzerschroot,
 
 - b. op milieubelastende activiteiten, waarbij roestvrij-staalschroot, aluminiumschroot of ijzerschroot wordt overgeslagen in containers die bij aankomst op de locatie waarop de milieubelastende activiteiten worden verricht zijn gesloten en gedurende hun aanwezigheid op die locatie niet worden geopend.
 
@@ -100,6 +68,18 @@ Degene die de milieubelastende activiteit verricht, meet onverwijld de ioniseren
 
 2. Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels stellen met betrekking tot vaardigheden en bekwaamheden waaraan een persoon als bedoeld in het eerste lid moet voldoen.
 
+##### Artikel 6a
+
+1. Het is verboden radioactief besmet schroot of schroot waarvan men redelijkerwijs kan vermoeden dat het radioactief besmet schroot betreft te gebruiken, in de handel te brengen of te verwijderen in strijd met een daarop betrekking hebbende mededeling van de Autoriteit.
+
+2. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot het eerste lid.
+
+##### Artikel 6b
+
+1. [Artikel 6.4 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.4) is van overeenkomstige toepassing.
+
+2. In gevallen, behorend tot een bij regeling van Onze Minister aangewezen categorie, dient degene die de milieubelastende activiteit verricht te beschikken over een bedrijfsnoodplan als bedoeld in [artikel 6.7 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.7). De aanwijzing staat in een passende verhouding tot de aard en zwaarte van de betrokken risico’s, overeenkomstig de graduele benadering, bedoeld in [artikel 1.1, eerste lid, van het genoemde besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.1)
+
 ##### Artikel 7
 
 1. Degene die de milieubelastende activiteit verricht, stelt financiële zekerheid ter dekking van de kosten die voortvloeien uit het verwijderen van radioactief besmet schroot dat hij op de locatie waarop de milieubelastende activiteit wordt verricht voorhanden heeft.
@@ -114,7 +94,7 @@ Degene die de milieubelastende activiteit verricht, meet onverwijld de ioniseren
 
 - d. het treffen van enige andere voorziening, waarbij de financiële zekerheid naar het oordeel van de Autoriteit voldoende waarborg biedt dat de kosten bedoeld in het eerste lid zijn gedekt.
 
-3. De financiële zekerheid bedraagt minimaal € 110 000,–.
+3. De financiële zekerheid bedraagt minimaal € 110 000,–.
 
 4. Indien de kosten, die voortvloeien uit het verwijderen van radioactief besmet schroot als bedoeld in het eerste lid, naar redelijkerwijs kan worden verwacht, in belangrijke mate zullen afwijken van het in het derde lid bepaalde bedrag, kan de Autoriteit een hoger of lager bedrag voor de financiële zekerheid verlangen.
 
@@ -151,19 +131,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit detectie radioactief besmet schroot.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-1. Het is verboden radioactief besmet schroot of schroot waarvan men redelijkerwijs kan vermoeden dat het radioactief besmet schroot betreft te gebruiken, in de handel te brengen of te verwijderen in strijd met een daarop betrekking hebbende mededeling van de Autoriteit.
-
-2. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot het eerste lid.
-
-##### Artikel 6b
-
-1. [Artikel 6.4 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.4) is van overeenkomstige toepassing.
-
-2. In gevallen, behorend tot een bij regeling van Onze Minister aangewezen categorie, dient degene die de milieubelastende activiteit verricht te beschikken over een bedrijfsnoodplan als bedoeld in [artikel 6.7 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.7). De aanwijzing staat in een passende verhouding tot de aard en zwaarte van de betrokken risico’s, overeenkomstig de graduele benadering, bedoeld in [artikel 1.1, eerste lid, van het genoemde besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.1)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

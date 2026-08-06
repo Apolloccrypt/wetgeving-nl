@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 18 december 2001, houdende regels voor de vergaring van nummergegevens door middel van afwijkend frequentiegebruik en bestandsanalyse met het oog op het onderzoek van telecommunicatie (Besluit bijzondere vergaring nummergegevens telecommunicatie)"
+citeertitel: "Besluit bijzondere vergaring nummergegevens telecommunicatie"
 identifier: "BWBR0013213"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-07-01"
-last_updated: "2017-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013213"
+categorie: "Digitaal en privacy"
 soort: "AMvB"
-stam_id: "1668753"
-version_id: "2460602"
-internal_id: "C2460601"
-label_id: "1622114"
-dtd_version: "2.0"
-original_entry_into_force: "2002-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013213/2017-07-01/0"
-intitule_bron: "Stb.2002-31"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-18"
-intitule_published: "2002-01-29"
-intitule_in_force: "2002-02-26"
-intitule_status: "goed"
-original_publication: "Stb.2002-31"
-original_signed_date: "2001-12-18"
-original_published_date: "2002-01-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-31"
-entry_into_force_date: "2002-03-01"
-jci_1_3: "jci1.3:c:BWBR0013213&z=2017-07-01&g=2017-07-01"
-jci_1_0: "1.0:c:BWBR0013213&g=2017-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit bijzondere vergaring nummergegevens telecommunicatie"
-signed_date: "2001-12-18"
-entry_into_force: "2002-03-01"
+publicatiedatum: 2002-03-01
+laatste_update: 2017-07-01
+status: geldig
+toestand: 2017-07-01
+bron: "https://wetten.overheid.nl/BWBR0013213"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 18 december 2001, houdende regels voor de vergaring van nummergegevens door middel van afwijkend frequentiegebruik en bestandsanalyse met het oog op het onderzoek van telecommunicatie (Besluit bijzondere vergaring nummergegevens telecommunicatie)
-
-Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 16 mei 2001, nr. DGTP/01/2472/RJD, Directoraat-Generaal Telecommunicatie en Post, mede namens Onze Minister van Justitie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op de [artikelen 3.10, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), en [13.4, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4);
-
-De Raad van State gehoord (advies van 11 september 2001, nr. W09.01.0232/V);
-
-Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 12 december 2001, nr. DGTP/01/5617/RJD, Directoraat-Generaal Telecommunicatie en Post, uitgebracht mede namens Onze Minister van Justitie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
@@ -58,11 +26,11 @@ In dit besluit wordt verstaan onder:
 
 - c. bevoegde autoriteit:
 
-- 1°. de officier van justitie, dan wel de door hem in een bepaald geval schriftelijk aangewezen opsporingsambtenaar,
+   - 1°. de officier van justitie, dan wel de door hem in een bepaald geval schriftelijk aangewezen opsporingsambtenaar,
 
-- 2°. het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, dan wel door hem schriftelijk aangewezen functionarissen optredend in het kader van de uitvoering van hun taak,
+   - 2°. het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, dan wel door hem schriftelijk aangewezen functionarissen optredend in het kader van de uitvoering van hun taak,
 
-- 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst, dan wel door hem schriftelijk aangewezen functionarissen optredend in het kader van de uitvoering van hun taak.
+   - 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst, dan wel door hem schriftelijk aangewezen functionarissen optredend in het kader van de uitvoering van hun taak.
 
 - d. gebruiker: de natuurlijke of rechtspersoon die met de aanbieder een overeenkomst is aangegaan met betrekking tot het gebruik van een openbaar telecommunicatienetwerk of de levering van een openbare telecommunicatiedienst, alsmede de natuurlijke of rechtspersoon die daadwerkelijk gebruik maakt van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst.
 
@@ -147,5 +115,3 @@ Dit besluit wordt aangehaald als: Besluit bijzondere vergaring nummergegevens te
 ##### Artikel 9
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

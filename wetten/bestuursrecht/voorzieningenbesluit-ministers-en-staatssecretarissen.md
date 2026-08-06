@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 7 juni 2002, houdende bepalingen met betrekking tot voorzieningen voor ministers en staatssecretarissen (Voorzieningenbesluit ministers en staatssecretarissen)"
+citeertitel: "Voorzieningenbesluit ministers en staatssecretarissen"
 identifier: "BWBR0013753"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013753"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "2645583"
-version_id: "18136952"
-internal_id: "C25217551"
-label_id: "2590304"
-dtd_version: "2.0"
-original_entry_into_force: "2010-11-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013753/2026-01-01/0"
-intitule_bron: "Stb.2002-369"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-06-07"
-intitule_published: "2002-07-16"
-intitule_in_force: "2002-07-16"
-intitule_status: "goed"
-original_publication: "Stb.2010-795"
-original_signed_date: "2010-11-22"
-original_published_date: "2010-12-03"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2010-795"
-entry_into_force_date: "2010-11-22"
-jci_1_3: "jci1.3:c:BWBR0013753&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0013753&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Voorzieningenbesluit ministers en staatssecretarissen"
-signed_date: "2010-11-22"
-entry_into_force: "2010-11-22"
+publicatiedatum: 2010-11-22
+laatste_update: 2026-06-19
+status: geldig
+toestand: 2026-06-19
+bron: "https://wetten.overheid.nl/BWBR0013753"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 7 juni 2002, houdende bepalingen met betrekking tot voorzieningen voor ministers en staatssecretarissen (Voorzieningenbesluit ministers en staatssecretarissen)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 maart 2002, directoraat-generaal Constitutionele Zaken en Koninkrijksrelaties, directie Constitutionele Zaken en Wetgeving, nr. CW02/U61907;
-
-Gelet op [artikel 2, tweede en derde lid, van de Wet rechtspositie ministers en staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2);
-
-De Raad van State gehoord (advies van 12 april 2002, nr. W04.02.0121/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 mei 2002, directoraat-generaal Constitutionele Zaken en Koninkrijksrelaties, directie Constitutionele Zaken en Wetgeving, nr. CW02/U73895;
-
-Hebben goedgevonden en verstaan:
-
-Werkt terug tot en met 1 januari 2001.
 
 ##### Artikel 1
 
@@ -68,7 +34,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Ministers en staatssecretarissen die in verband met de vervulling van hun ambt zijn verhuisd, ontvangen een verhuiskostenvergoeding indien zij zich met de verhuizing binnen een afstand van 25 kilometer van het ministerie hebben gevestigd en de afstand tussen de oude woning en het ministerie ten minste 50 kilometer bedroeg;
+1. Ministers en staatssecretarissen die in verband met de vervulling van hun ambt zijn verhuisd, ontvangen een verhuiskostenvergoeding indien zij zich met de verhuizing binnen een afstand van 25 kilometer van het ministerie hebben gevestigd en de afstand tussen de oude woning en het ministerie ten minste 75 kilometer bedroeg;
 
 2. De verhuiskostenvergoeding bestaat uit:
 
@@ -84,25 +50,7 @@ In dit besluit wordt verstaan onder:
 
 1. Aan ministers en staatssecretarissen die niet zijn verhuisd en van wie de woning zich op een afstand van ten minste 50 kilometer van het ministerie bevindt, wordt op hun verzoek voor de duur van de vervulling van hun ambt een gemeubileerde verblijfsvoorziening binnen een afstand van 25 kilometer van het ministerie ter beschikking gesteld.
 
-2. Aan ministers en staatssecretarissen die een gemeubileerde verblijfsvoorziening als bedoeld in het eerste lid ter beschikking is gesteld, worden in verband met de verblijfsvoorziening verstrekt dan wel de kosten vergoed van:
-
-- a. huur van een parkeerplaats, voor zover deze onderdeel uitmaakt van de ter beschikking gestelde verblijfsvoorziening;
-
-- b. beveiliging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=4&z=2026-01-01&g=2026-01-01);
-
-- c. informatie- en communicatievoorzieningen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=5&z=2026-01-01&g=2026-01-01);
-
-- d. gemeentelijke belastingen als bedoeld in [hoofdstuk XV van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XV) en waterschapsbelastingen als bedoeld in [artikel 123, eerste lid, onderdeel a, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123);
-
-- e. abonnement voor ontvangst van radio en televisie;
-
-- f. abonnement voor een krant;
-
-- g. gas, licht, water;
-
-- h. wassen en strijken;
-
-- i. schoonmaak.
+2. In afwijking van het eerste lid wordt vanuit veiligheidsoverwegingen aan Onze Minister-President, Minister van Algemene Zaken te allen tijde het Catshuis als gemeubileerde verblijfsvoorziening ter beschikking gesteld.
 
 3. In plaats van de in het eerste en tweede lid bedoelde voorziening kunnen bewindslieden die niet zijn verhuisd en van wie de woning zich op een afstand van ten minste 50 kilometer van het ministerie bevindt en die op het tijdstip van benoeming reeds een gemeubileerde verblijfsvoorziening binnen een afstand van 25 kilometer van het ministerie in eigendom hebben, aanspraak maken op een bedrag ter vergoeding voor verblijfkosten waarvan de hoogte afhankelijk is van de afstand van de woonplaats of deel van de woonplaats van de betrokkene tot het gebouw van het betreffende ministerie.
 
@@ -118,13 +66,17 @@ waarbij X gelijk is aan het voor dienstreizen van ambtenaren, die krachtens een 
 
 5. Een verstrekking als bedoeld in het eerste of tweede lid of een vergoeding als bedoeld in het tweede of derde lid wordt in aanmerking genomen als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
+6. *Dit lid is nog niet in werking getreden.*
+
+7. In afwijking van het zesde lid valt de terbeschikkingstelling van het Catshuis aan onze Minister-President, Minister van Algemene Zaken als bedoeld in het tweede lid onder de gerichte vrijstelling als bedoeld in [artikel 31a, tweede lid, onderdeel b, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a).
+
 ##### Artikel 4
 
 1. Ten behoeve van ministers en staatssecretarissen en hun gezinsleden worden passende beveiligingsmaatregelen getroffen.
 
 2. Indien dit om veiligheidsredenen noodzakelijk wordt geoordeeld, wordt aan ministers en staatssecretarissen een gemeubileerde verblijfsvoorziening ter beschikking gesteld.
 
-3. [Artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+3. [Artikel 3, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2026-06-19&g=2026-06-19), is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
@@ -134,11 +86,15 @@ Aan ministers en staatssecretarissen worden informatie- en communicatievoorzieni
 
 In het geval van binnenlandse en buitenlandse dienstreizen worden de noodzakelijke faciliteiten ter beschikking gesteld ten behoeve van vervoer en verblijf voor ministers en staatssecretarissen en voor degenen die hen vergezellen.
 
+##### Artikel 6a
+
+Ministers en staatssecretarissen hebben recht op de vergoeding van gemaakte kosten voor verlies, diefstal of beschadiging van voor de dienstreis meegenomen noodzakelijke bagage tot ten hoogste het bedrag zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+
 ##### Artikel 7
 
 1. Ministers en staatssecretarissen hebben voor de duur van de vervulling van hun ambt een dienstauto met chauffeur ter beschikking.
 
-2. De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,82 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
+2. De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,82 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
 
 3. Het bedrag, genoemd in het tweede lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.
 
@@ -226,13 +182,13 @@ Aan ministers en staatssecretarissen worden de overige voorzieningen ter beschik
 
 2. De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt
 
-- a. voor Onze Minister-President, Minister van Algemene Zaken € 940,00;
+- a. voor Onze Minister-President, Minister van Algemene Zaken € 940,00;
 
-- b. voor Onze Minister van Buitenlandse Zaken € 940,00;
+- b. voor Onze Minister van Buitenlandse Zaken € 940,00;
 
-- c. voor een andere Minister € 470,01;
+- c. voor een andere Minister € 470,01;
 
-- d. voor een Staatssecretaris € 391,14.
+- d. voor een Staatssecretaris € 391,14.
 
 3. De maandelijkse vergoeding, bedoeld in het eerste lid, wordt aangewezen als een eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
@@ -248,32 +204,24 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties treft voor de minist
 
 ##### Artikel 13
 
-Wijzigt het Reisbesluit binnenland.
+*Wijzigt het Reisbesluit binnenland.*
 
 ##### Artikel 14
 
-Wijzigt het Reisbesluit buitenland.
+*Wijzigt het Reisbesluit buitenland.*
 
 ##### Artikel 15
 
-[Het Verhuis- en verblijfkostenbesluit Ministers en Staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0002556) en het [besluit van 15 mei 1992, houdende vergoeding voor ministers en staatssecretarissen voor de kosten die aan de vervulling van het ambt zijn verbonden](https://wetten.overheid.nl/jci1.3:c:BWBR0005514) (Stb. 255) worden ingetrokken.
+[Het Verhuis- en verblijfkostenbesluit Ministers en Staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0002556) en het [besluit van 15 mei 1992, houdende vergoeding voor ministers en staatssecretarissen voor de kosten die aan de vervulling van het ambt zijn verbonden](https://wetten.overheid.nl/jci1.3:c:BWBR0005514) (Stb. 255) worden ingetrokken.
+
+##### Artikel 15a
+
+*Vervallen*
 
 ##### Artikel 16
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2001.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2001.
 
 ##### Artikel 17
 
 Dit besluit wordt aangehaald als: Voorzieningenbesluit ministers en staatssecretarissen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-Ministers en staatssecretarissen hebben recht op de vergoeding van gemaakte kosten voor verlies, diefstal of beschadiging van voor de dienstreis meegenomen noodzakelijke bagage tot ten hoogste het bedrag zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-##### Artikel 15a
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

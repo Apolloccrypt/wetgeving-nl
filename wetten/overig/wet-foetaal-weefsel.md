@@ -1,48 +1,18 @@
 ---
 title: "Wet van 8 november 2001, houdende regels betreffende terbeschikkingstelling en gebruik van foetaal weefsel (Wet foetaal weefsel)"
+citeertitel: "Wet foetaal weefsel"
 identifier: "BWBR0012983"
-country: "nl"
-rank: "wet"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012983"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2927293"
-version_id: "25810022"
-internal_id: "C36798691"
-label_id: "2876764"
-dtd_version: "2.0"
-original_entry_into_force: "2019-03-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012983/2024-07-01/0"
-intitule_bron: "Stb.2001-573"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-08"
-intitule_published: "2001-12-04"
-intitule_in_force: "2002-07-16"
-intitule_status: "goed"
-original_publication: "Stb.2019-138"
-original_signed_date: "2019-03-27"
-original_published_date: "2019-04-26"
-original_effect: "structuurwijziging"
-original_dossier: "34893"
-original_url_id: "stb-2019-138"
-entry_into_force_date: "2019-03-27"
-entry_into_force_dossier: "34893"
-jci_1_3: "jci1.3:c:BWBR0012983&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0012983&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet foetaal weefsel"
-signed_date: "2019-03-27"
-entry_into_force: "2019-03-27"
+publicatiedatum: 2019-03-27
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0012983"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 8 november 2001, houdende regels betreffende terbeschikkingstelling en gebruik van foetaal weefsel (Wet foetaal weefsel)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen te stellen omtrent de voorwaarden waaronder terbeschikkingstelling en gebruik van foetaal weefsel toelaatbaar is;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -86,7 +56,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. De inlichtingen worden op een zodanige wijze verstrekt dat redelijkerwijs zeker is dat degenen wier toestemming is vereist, deze naar haar inhoud hebben begrepen. In het geval, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=3&z=2024-07-01&g=2024-07-01), wordt de vrouw ingelicht op een wijze die past bij haar bevattingsvermogen.
 
-4. De inlichtingen omvatten in ieder geval de informatie, bedoeld in de bijlage bij richtlijn 2004/23/EG van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van kwaliteits- en veiligheidsnormen voor het doneren, verkrijgen, testen, bewerken, bewaren en distribueren van menselijke weefsels en cellen (PbEU L 102).
+4. De inlichtingen omvatten in ieder geval de informatie, bedoeld in de bijlage bij richtlijn 2004/23/EG van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van kwaliteits- en veiligheidsnormen voor het doneren, verkrijgen, testen, bewerken, bewaren en distribueren van menselijke weefsels en cellen (PbEU L 102).
 
 5. Een wijziging van de in het vierde lid genoemde richtlijn gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -120,6 +90,10 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffende de inhoud en wijze van totstandkoming van het in het tweede lid bedoelde reglement.
 
+##### Artikel 7a
+
+In de gevallen, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=2&z=2024-07-01&g=2024-07-01), zijn de [artikelen 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=3&z=2024-07-01&g=2024-07-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=7&z=2024-07-01&g=2024-07-01), van deze wet, en [artikel 28 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=28), niet van toepassing, met dien verstande dat foetaal weefsel dat afkomstig is van een vrouw die de leeftijd van zestien jaar nog niet heeft bereikt of een vrouw die niet in staat is tot een redelijke waardering van haar belangen te komen of overleden is, in afwijking van artikel 3, eerste lid, zonder haar toestemming kan worden gebruikt en bewaard indien vermoed wordt dat zij voorwerp is van een misdrijf als bedoeld in artikel 2, eerste lid, onderdeel b.
+
 ##### Artikel 8
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
@@ -150,7 +124,7 @@ Het is verboden met het oog op het voorgenomen gebruik van foetaal weefsel besta
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
@@ -159,11 +133,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 16
 
 Deze wet wordt aangehaald als: Wet foetaal weefsel.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7a
-
-In de gevallen, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=2&z=2024-07-01&g=2024-07-01), zijn de [artikelen 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=3&z=2024-07-01&g=2024-07-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=7&z=2024-07-01&g=2024-07-01), van deze wet, en [artikel 28 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=28), niet van toepassing, met dien verstande dat foetaal weefsel dat afkomstig is van een vrouw die de leeftijd van zestien jaar nog niet heeft bereikt of een vrouw die niet in staat is tot een redelijke waardering van haar belangen te komen of overleden is, in afwijking van artikel 3, eerste lid, zonder haar toestemming kan worden gebruikt en bewaard indien vermoed wordt dat zij voorwerp is van een misdrijf als bedoeld in artikel 2, eerste lid, onderdeel b.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

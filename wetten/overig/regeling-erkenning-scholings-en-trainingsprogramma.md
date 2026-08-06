@@ -1,52 +1,25 @@
 ---
 title: "Regeling erkenning scholings- en trainingsprogramma"
 identifier: "BWBR0012746"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-10-01"
-last_updated: "2015-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012746"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3566153"
-version_id: "5349282"
-internal_id: "C5542371"
-label_id: "3546164"
-dtd_version: "2.0"
-original_entry_into_force: "2001-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012746/2015-10-01/0"
-intitule_bron: "Stcrt.2001-156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-08-14"
-intitule_published: "2001-08-15"
-intitule_in_force: "2001-08-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-156"
-original_signed_date: "2001-08-14"
-original_published_date: "2001-08-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-09-01"
-jci_1_3: "jci1.3:c:BWBR0012746&z=2015-10-01&g=2015-10-01"
-jci_1_0: "1.0:c:BWBR0012746&g=2015-10-01"
-citeertitel_status: "officieel"
-signed_date: "2001-08-14"
-entry_into_force: "2001-09-01"
+publicatiedatum: 2001-09-01
+laatste_update: 2015-10-01
+status: geldig
+toestand: 2015-10-01
+bron: "https://wetten.overheid.nl/BWBR0012746"
+opgehaald: 2026-08-06
 ---
+
 # Regeling erkenning scholings- en trainingsprogramma
-
-Gelet op [artikel 3, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3) en [artikel 2, vierde lid, van het Reglement justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=2);
-
-Gezien het advies van het College van advies voor de justitiële kinderbescherming van 1 februari 2001 nr. 5078699/01/TH/rb;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **derde-organisatie:** een instelling op het terrein van maatschappelijke hulp- en dienstverlening of opleiding en scholing of een vrijwilligersorganisatie op het terrein van hulpverlening;
+- a. *derde-organisatie:* een instelling op het terrein van maatschappelijke hulp- en dienstverlening of opleiding en scholing of een vrijwilligersorganisatie op het terrein van hulpverlening;
 
-- b. **werkgever:** het bedrijf waar de deelnemer arbeid verricht.
+- b. *werkgever:* het bedrijf waar de deelnemer arbeid verricht.
 
 ##### Artikel 2
 
@@ -131,5 +104,3 @@ Deze regeling treedt in werking op 1 september 2001.
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling erkenning scholings- en trainingsprogramma.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

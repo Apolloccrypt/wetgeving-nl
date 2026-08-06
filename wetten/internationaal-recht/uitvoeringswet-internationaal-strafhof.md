@@ -1,48 +1,18 @@
 ---
 title: "Rijkswet van 20 juni 2002 tot uitvoering van het Statuut van het Internationaal Strafhof met betrekking tot de samenwerking met en bijstand aan het Internationaal Strafhof en de tenuitvoerlegging van zijn vonnissen (Uitvoeringswet Internationaal Strafhof)"
+citeertitel: "Uitvoeringswet Internationaal Strafhof"
 identifier: "BWBR0013796"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2020-04-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013796"
+categorie: "Sociaal recht"
 soort: "rijkswet"
-stam_id: "1977863"
-version_id: "2931262"
-internal_id: "C2931261"
-label_id: "1928244"
-dtd_version: "2.0"
-original_entry_into_force: "2002-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013796/2020-04-01/0"
-intitule_bron: "Stb.2002-314"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-06-20"
-intitule_published: "2002-06-27"
-intitule_in_force: "2002-06-27"
-intitule_status: "goed"
-original_publication: "Stb.2002-314"
-original_signed_date: "2002-06-20"
-original_published_date: "2002-06-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "28098"
-original_url_id: "stb-2002-314"
-entry_into_force_date: "2002-07-01"
-entry_into_force_dossier: "28098"
-jci_1_3: "jci1.3:c:BWBR0013796&z=2020-04-01&g=2020-04-01"
-jci_1_0: "1.0:c:BWBR0013796&g=2020-04-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Internationaal Strafhof"
-signed_date: "2002-06-20"
-entry_into_force: "2002-07-01"
+publicatiedatum: 2002-07-01
+laatste_update: 2020-04-01
+status: geldig
+toestand: 2020-04-01
+bron: "https://wetten.overheid.nl/BWBR0013796"
+opgehaald: 2026-08-06
 ---
+
 # Rijkswet van 20 juni 2002 tot uitvoering van het Statuut van het Internationaal Strafhof met betrekking tot de samenwerking met en bijstand aan het Internationaal Strafhof en de tenuitvoerlegging van zijn vonnissen (Uitvoeringswet Internationaal Strafhof)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het nodig is om ter uitvoering van het Statuut van het Internationaal Strafhof voorzieningen te treffen met betrekking tot de samenwerking met en bijstand aan het Internationaal Strafhof en de tenuitvoerlegging van zijn vonnissen;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -154,9 +124,9 @@ Politiegegevens kunnen ook zonder daartoe strekkend verzoek worden verstrekt aan
 
 ##### Artikel 8
 
-1. Indien en zolang het Strafhof een betwisting van de ontvankelijkheid van een zaak of de rechtsmacht van het Strafhof ingevolge artikel 18 of 19 van het Statuut onderzoekt, wordt de behandeling van een op die zaak betrekking hebbend verzoek om overlevering van een persoon opgeschort.
+1. Indien en zolang het Strafhof een betwisting van de ontvankelijkheid van een zaak of de rechtsmacht van het Strafhof ingevolge artikel 18 of 19 van het Statuut onderzoekt, wordt de behandeling van een op die zaak betrekking hebbend verzoek om overlevering van een persoon opgeschort.
 
-2. In het geval, bedoeld in het eerste lid, kan de behandeling van een verzoek om enigerlei andere vorm van samenwerking door Onze Minister, onderscheidenlijk door de officier van justitie, na overleg met Onze Minister, worden opgeschort, tenzij het Strafhof heeft bepaald dat de Aanklager kan voortgaan met het vergaren van het bewijs ingevolge het genoemde artikel 18 of 19.
+2. In het geval, bedoeld in het eerste lid, kan de behandeling van een verzoek om enigerlei andere vorm van samenwerking door Onze Minister, onderscheidenlijk door de officier van justitie, na overleg met Onze Minister, worden opgeschort, tenzij het Strafhof heeft bepaald dat de Aanklager kan voortgaan met het vergaren van het bewijs ingevolge het genoemde artikel 18 of 19.
 
 ##### Artikel 9
 
@@ -243,6 +213,18 @@ Van elke beslissing, genomen krachtens een van de [artikelen 13 tot en met 16](h
 ##### Artikel 19
 
 Wanneer de opgeëiste persoon, op de dag waarop de officier van justitie het verzoek tot overlevering ontvangt, reeds krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=2&paragraaf=2&artikel=14&z=2020-04-01&g=2020-04-01) in verzekering is gesteld, kan de vrijheidsbeneming, in afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=2&paragraaf=2&artikel=15&z=2020-04-01&g=2020-04-01), op bevel van de officier van justitie worden voortgezet tot het tijdstip waarop de rechtbank over de gevangenhouding beslist.
+
+##### Artikel 19a
+
+1. Nadat de opgeëiste persoon, met inachtneming van de artikelen 55, tweede lid en 59, tweede lid, van het Statuut, is gehoord, kan de officier van justitie bij het parket in eerste aanleg van de openbare lichamen bevelen dat de opgeëiste persoon gedurende drie dagen, te rekenen vanaf het tijdstip van voorlopige aanhouding, in verzekering gesteld zal blijven. Hij overlegt daartoe met de officier van justitie bij het arrondissementsparket Den Haag.
+
+2. Indien de opgeëiste persoon op de dag waarop de officier van justitie het verzoek tot uitlevering ontvangt reeds krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=2&paragraaf=2&artikel=14&z=2020-04-01&g=2020-04-01) in de openbare lichamen Bonaire, Sint Eustatius en Saba in verzekering is gesteld, kan de vrijheidsbeneming – met afwijking van artikel 14 – uitsluitend op bevel van de officier van justitie bij het arrondissementsparket Den Haag worden voortgezet tot het tijdstip waarop de rechtbank over de gevangenhouding beslist.
+
+3. Indien de opgeëiste persoon in de openbare lichamen Bonaire, Sint Eustatius en Saba in verzekering is gesteld, wordt hij binnen de termijnen van het eerste lid overgedragen aan de officier van justitie bij het arrondissementsparket Den Haag.
+
+4. Het derde lid kan buiten toepassing blijven indien de opgeëiste persoon tegenover de officier van justitie die hem hoort, heeft verklaard in te stemmen met zijn onmiddellijke overlevering, de officier van justitie heeft beslist dat de persoon ter beschikking zal worden gesteld van het Strafhof en de feitelijke overlevering kan plaatsvinden binnen de termijn van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=2&paragraaf=2&artikel=14&z=2020-04-01&g=2020-04-01).
+
+5. Nadat de opgeëiste persoon is gehoord, kan de officier van justitie bij het arrondissementsparket Den Haag in overleg met de officier van justitie bij het gerecht in eerste aanleg van de openbare lichamen Bonaire, Sint Eustatius en Saba bevelen dat de vrijheidsbeneming wordt voortgezet tot het tijdstip waarop de rechtbank over zijn gevangenhouding beslist.
 
 ##### Artikel 20
 
@@ -356,7 +338,7 @@ Van zijn beslissing op het verzoek tot overlevering geeft Onze Minister onverwij
 
 ##### Artikel 34
 
-1. Indien zulks voor de toepassing van [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=2&paragraaf=5&artikel=33&z=2020-04-01&g=2020-04-01), of [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=2&paragraaf=5&artikel=35&z=2020-04-01&g=2020-04-01), noodzakelijk is, wordt de opgeëiste persoon op bevel van de daartoe door Onze Minister aangeschreven officier van justitie aangehouden voor ten hoogste drie dagen. Indien de overlevering niet binnen de termijn van drie dagen heeft kunnen plaatsvinden, kan het bevel tot aanhouding door de officier van justitie eenmaal voor ten hoogste drie dagen worden verlengd.
+1. Indien zulks voor de toepassing van [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=2&paragraaf=5&artikel=33&z=2020-04-01&g=2020-04-01), of [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=2&paragraaf=5&artikel=35&z=2020-04-01&g=2020-04-01), noodzakelijk is, wordt de opgeëiste persoon op bevel van de daartoe door Onze Minister aangeschreven officier van justitie aangehouden voor ten hoogste drie dagen. Indien de overlevering niet binnen de termijn van drie dagen heeft kunnen plaatsvinden, kan het bevel tot aanhouding door de officier van justitie eenmaal voor ten hoogste drie dagen worden verlengd.
 
 2. Na verlenging van de in het eerste lid bedoelde termijn door de officier van justitie, kan deze uitsluitend op vordering van de officier van justitie door de rechter-commissaris met vier dagen worden verlengd. Deze verlenging kan slechts geschieden wanneer de overlevering door bijzondere omstandigheden niet binnen de termijn van zes dagen heeft kunnen plaatsvinden.
 
@@ -424,7 +406,7 @@ In geval van overlevering krachtens deze paragraaf is [artikel 12, eerste lid](h
 
 3. Het bepaalde bij en krachtens de [artikelen 116 tot en met 119](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116), [552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552c tot en met 552e van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552c) is van overeenkomstige toepassing.
 
-4. In geval van overlevering overeenkomstig de bepalingen van [§ 6 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=2&paragraaf=6&z=2020-04-01&g=2020-04-01) beslist de officier van justitie over de afgifte, dan wel de teruggave, van de in beslag genomen voorwerpen, behoudens de bevoegdheden van de rechtbank krachtens het derde lid.
+4. In geval van overlevering overeenkomstig de bepalingen van [§ 6 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=2&paragraaf=6&z=2020-04-01&g=2020-04-01) beslist de officier van justitie over de afgifte, dan wel de teruggave, van de in beslag genomen voorwerpen, behoudens de bevoegdheden van de rechtbank krachtens het derde lid.
 
 ##### Artikel 43
 
@@ -522,7 +504,7 @@ De officier van justitie die het verzoek om samenwerking heeft ontvangen, beslis
 
 - g. het opnemen van vertrouwelijke communicatie met een technisch hulpmiddel,
 
-- h. een verkennend onderzoek, kan de officier van justitie de hem in de [titels IVa](onbekend), [V](onbekend), [Va](onbekend) en [Vc van het Eerste Boek van het Wetboek van Strafvordering](onbekend) met het oog daarop toegekende bevoegdheden uitoefenen. Voor zover het verzoek daartoe strekt, kan eveneens toepassing worden gegeven aan [artikel 126ff van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff).
+- h. een verkennend onderzoek, kan de officier van justitie de hem in de titels IVa, V, Va en Vc van het Eerste Boek van het Wetboek van Strafvordering met het oog daarop toegekende bevoegdheden uitoefenen. Voor zover het verzoek daartoe strekt, kan eveneens toepassing worden gegeven aan [artikel 126ff van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff).
 
 2. Ter voldoening aan een verzoek van het Strafhof om samenwerking kan geen gebruik van de in het eerste lid bedoelde bevoegdheden worden gemaakt en kan aan [artikel 126ff van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff) geen toepassing worden gegeven, anders dan overeenkomstig het eerste lid.
 
@@ -596,7 +578,7 @@ Ten aanzien van de bevelen tot voorlopige vrijheidsbeneming, gegeven krachtens d
 
 ##### Artikel 59
 
-De officier van justitie die een verzoek van het Strafhof als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=4&paragraaf=2&artikel=60&z=2020-04-01&g=2020-04-01), [61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=4&paragraaf=2&artikel=61&z=2020-04-01&g=2020-04-01), [62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=4&paragraaf=2&artikel=62&z=2020-04-01&g=2020-04-01), of [63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=4&paragraaf=2&artikel=63&z=2020-04-01&g=2020-04-01), heeft ontvangen, beslist onverwijld omtrent het daaraan te geven gevolg. [Artikel 49, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=3&paragraaf=2&artikel=49&z=2020-04-01&g=2020-04-01), is van overeenkomstige toepassing.
+De officier van justitie die een verzoek van het Strafhof als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=4&paragraaf=2&artikel=60&z=2020-04-01&g=2020-04-01), [61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=4&paragraaf=2&artikel=61&z=2020-04-01&g=2020-04-01), [62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=4&paragraaf=2&artikel=62&z=2020-04-01&g=2020-04-01), of [63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=4&paragraaf=2&artikel=63&z=2020-04-01&g=2020-04-01), heeft ontvangen, beslist onverwijld omtrent het daaraan te geven gevolg. [Artikel 49, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=3&paragraaf=2&artikel=49&z=2020-04-01&g=2020-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 60
 
@@ -610,7 +592,7 @@ De officier van justitie die een verzoek van het Strafhof als bedoeld in [artike
 
 ##### Artikel 61
 
-1. Naar aanleiding van een verzoek van het Strafhof om samenwerking of om tenuitvoerlegging van een verbeurdverklaring kan, overeenkomstig de bepalingen van de [negende afdeling van titel IV van het Eerste Boek van het Wetboek van Strafvordering](onbekend), een strafrechtelijk financieel onderzoek worden ingesteld dat is gericht op de bepaling van hier te lande aanwezig of verworven voordeel dat wederrechtelijk is verkregen door een persoon die aan onderzoek door het Strafhof is onderworpen. Onder wederrechtelijk verkregen voordeel worden mede verstaan voorwerpen die, middellijk of onmiddellijk, zijn verkregen door middel van het misdrijf waarvan die persoon wordt verdacht.
+1. Naar aanleiding van een verzoek van het Strafhof om samenwerking of om tenuitvoerlegging van een verbeurdverklaring kan, overeenkomstig de bepalingen van de negende afdeling van titel IV van het Eerste Boek van het Wetboek van Strafvordering, een strafrechtelijk financieel onderzoek worden ingesteld dat is gericht op de bepaling van hier te lande aanwezig of verworven voordeel dat wederrechtelijk is verkregen door een persoon die aan onderzoek door het Strafhof is onderworpen. Onder wederrechtelijk verkregen voordeel worden mede verstaan voorwerpen die, middellijk of onmiddellijk, zijn verkregen door middel van het misdrijf waarvan die persoon wordt verdacht.
 
 2. Tijdens het strafrechtelijk financieel onderzoek kan inbeslagneming van voorwerpen overeenkomstig [artikel 94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94), en [artikel 94a, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94a) slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat te dier aanzien vanwege het Strafhof een verzoek om tenuitvoerlegging van een verbeurdverklaring zal worden gedaan dan wel [artikel 82, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=4&paragraaf=4&artikel=82&z=2020-04-01&g=2020-04-01), zal worden toegepast.
 
@@ -875,47 +857,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 90
 
 Deze wet wordt aangehaald als: Uitvoeringswet Internationaal Strafhof.
-
-Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 19a
-
-1. Nadat de opgeëiste persoon, met inachtneming van de artikelen 55, tweede lid en 59, tweede lid, van het Statuut, is gehoord, kan de officier van justitie bij het parket in eerste aanleg van de openbare lichamen bevelen dat de opgeëiste persoon gedurende drie dagen, te rekenen vanaf het tijdstip van voorlopige aanhouding, in verzekering gesteld zal blijven. Hij overlegt daartoe met de officier van justitie bij het arrondissementsparket Den Haag.
-
-2. Indien de opgeëiste persoon op de dag waarop de officier van justitie het verzoek tot uitlevering ontvangt reeds krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=2&paragraaf=2&artikel=14&z=2020-04-01&g=2020-04-01) in de openbare lichamen Bonaire, Sint Eustatius en Saba in verzekering is gesteld, kan de vrijheidsbeneming – met afwijking van artikel 14 – uitsluitend op bevel van de officier van justitie bij het arrondissementsparket Den Haag worden voortgezet tot het tijdstip waarop de rechtbank over de gevangenhouding beslist.
-
-3. Indien de opgeëiste persoon in de openbare lichamen Bonaire, Sint Eustatius en Saba in verzekering is gesteld, wordt hij binnen de termijnen van het eerste lid overgedragen aan de officier van justitie bij het arrondissementsparket Den Haag.
-
-4. Het derde lid kan buiten toepassing blijven indien de opgeëiste persoon tegenover de officier van justitie die hem hoort, heeft verklaard in te stemmen met zijn onmiddellijke overlevering, de officier van justitie heeft beslist dat de persoon ter beschikking zal worden gesteld van het Strafhof en de feitelijke overlevering kan plaatsvinden binnen de termijn van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&hoofdstuk=2&paragraaf=2&artikel=14&z=2020-04-01&g=2020-04-01).
-
-5. Nadat de opgeëiste persoon is gehoord, kan de officier van justitie bij het arrondissementsparket Den Haag in overleg met de officier van justitie bij het gerecht in eerste aanleg van de openbare lichamen Bonaire, Sint Eustatius en Saba bevelen dat de vrijheidsbeneming wordt voortgezet tot het tijdstip waarop de rechtbank over zijn gevangenhouding beslist.
-
-#### § 4. Behandeling en uitspraak door de rechtbank
-
-#### § 5. Beslissing op het verzoek en feitelijke overlevering
-
-#### § 6. Verkorte procedure
-
-#### § 7. Overige bepalingen
-
-### Hoofdstuk 3. Samenwerking als bedoeld in artikel 93 van het Statuut
-
-#### § 1. Algemeen
-
-#### § 2. Optreden van de officier van justitie en de rechter-commissaris
-
-### Hoofdstuk 4. Tenuitvoerlegging van straffen
-
-#### § 1. Algemeen
-
-#### § 2. Voorlopige maatregelen
-
-#### § 3. Tenuitvoerlegging van gevangenisstraffen
-
-#### § 4. Tenuitvoerlegging van overige straffen en bevelen
-
-### Hoofdstuk 5. Bijstand van het gastland
-
-### Hoofdstuk 6. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

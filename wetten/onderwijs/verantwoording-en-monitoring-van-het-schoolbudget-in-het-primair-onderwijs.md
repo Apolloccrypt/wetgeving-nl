@@ -1,36 +1,16 @@
 ---
 title: "Verantwoording en monitoring van het schoolbudget in het primair onderwijs"
 identifier: "BWBR0013072"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-12-12"
-last_updated: "2001-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013072"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6452403"
-version_id: "11126342"
-internal_id: "C15043301"
-label_id: "6441154"
-original_entry_into_force: "2001-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013072/2001-12-12/0"
-intitule_bron: "Uitleg.2001-30"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-03"
-intitule_published: "2001-12-12"
-intitule_in_force: "2001-12-12"
-intitule_status: "goed"
-original_publication: "Uitleg.2001-30"
-original_signed_date: "2001-12-03"
-original_published_date: "2001-12-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-12-12"
-jci_1_3: "jci1.3:c:BWBR0013072&z=2001-12-12&g=2001-12-12"
-jci_1_0: "1.0:c:BWBR0013072&g=2001-12-12"
-citeertitel_status: "redactioneel"
-signed_date: "2001-12-03"
-entry_into_force: "2001-12-12"
+publicatiedatum: 2001-12-12
+laatste_update: 2001-12-12
+status: geldig
+toestand: 2001-12-12
+bron: "https://wetten.overheid.nl/BWBR0013072"
+opgehaald: 2026-08-06
 ---
+
 # Verantwoording en monitoring van het schoolbudget in het primair onderwijs
 
 ### Inleiding
@@ -55,9 +35,23 @@ Bij de registratie van de besteding van het schoolbudget wordt aangesloten bij d
 
 De wijze waarop de verantwoording plaatsvindt is uitgewerkt op basis van de volgende uitgangspunten:
 
+- het schoolbudget voor het schooljaar 2001 - 2002 vormt het begin van een nieuwe, vereenvoudigde wijze van bekostiging. Het zal nog worden uitgebreid en mogelijk is het een aanzet om te komen tot lumpsum financiering;
+
+- het schoolbudget zal het komende schooljaar naar verwachting verder worden uitgebreid. (o.a. met het schoolprofielbudget en een deel van de BGZ-vergoeding);
+
+- de opgave van de besteding van het budget zou mogelijk moeten zijn door middel van een ’druk op de knop’ en leidt in principe niet tot verzwaring van het administratieve proces;
+
+- het bestuur en de schoolleiding zijn vrij in de besteding van de middelen binnen de genoemde doelstellingen.
+
 ### Uitvoering
 
 Jaarlijks wordt bij de AVR een opgave tenminste op bestuursniveau over de besteding van het schoolbudget gevraagd. Een opgave per school is ook mogelijk en heeft de voorkeur. De opgave geeft inzicht in de uitgaven van het schoolbudget van het afgelopen jaar vermeerderd met het nog niet uitgegeven budget van de voorgaande jaren. Voor het kalenderjaar 2001 moeten de volgende eventueel aanwezige reserves worden meegenomen:
+
+- middelen voor nascholing;
+
+- middelen voor nascholing van het management PO ter voorbereiding op integraal personeelsbeleid;
+
+- verzilverde overschotten op de tot 1 augustus 2001 toegekende budgetten (bijvoorbeeld MOA en schoolspecifieke knelpunten).
 
 Consequentie van deze opgave is dat in de administratie de besteding van het schoolbudget te traceren moet zijn.
 

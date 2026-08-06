@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 24 januari 2002 inzake rijksbijdragen in de kosten van het verlenen van bijstand en van de bestrijding van een ramp of zwaar ongeval in Nederland, als ook in België of Duitsland (Besluit rijksbijdragen bijstands- en bestrijdingskosten)"
+citeertitel: "Besluit rijksbijdragen bijstands- en bestrijdingskosten"
 identifier: "BWBR0013371"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013371"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "1670553"
-version_id: "2463102"
-internal_id: "C2463101"
-label_id: "1623914"
-dtd_version: "2.0"
-original_entry_into_force: "2002-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013371/2013-01-01/0"
-intitule_bron: "Stb.2002-50"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-01-24"
-intitule_published: "2002-02-07"
-intitule_in_force: "2002-02-07"
-intitule_status: "goed"
-original_publication: "Stb.2002-50"
-original_signed_date: "2002-01-24"
-original_published_date: "2002-02-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-50"
-entry_into_force_date: "2002-04-01"
-jci_1_3: "jci1.3:c:BWBR0013371&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0013371&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit rijksbijdragen bijstands- en bestrijdingskosten"
-signed_date: "2002-01-24"
-entry_into_force: "2002-04-01"
+publicatiedatum: 2002-04-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0013371"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 24 januari 2002 inzake rijksbijdragen in de kosten van het verlenen van bijstand en van de bestrijding van een ramp of zwaar ongeval in Nederland, als ook in België of Duitsland (Besluit rijksbijdragen bijstands- en bestrijdingskosten)
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 27 november 2001, nr. EB2001/97219;
-
-Gelet op [artikel 11, tweede lid, van de Brandweerwet 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=11) en [artikel 25, derde lid, van de Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=25);
-
-De Raad van State gehoord (advies van 8 januari 2002, nr. W04/01.0637/I);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 januari 2002, nr. EB2002/51992;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
@@ -54,7 +22,7 @@ In dit besluit wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **bijstand:** bijstand door een veiligheidsregio als bedoeld in [artikel 51, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=51);
+- b. *bijstand:* bijstand door een veiligheidsregio als bedoeld in [artikel 51, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=51);
 
 - c. kosten: de kosten voor bijstand of de bestrijding van een ramp die niet in de begroting van het jaar waarin de ramp heeft plaatsgevonden hadden kunnen worden voorzien;
 
@@ -134,7 +102,7 @@ Onze Minister beslist binnen zes maanden na indiening van de aanvraag.
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -150,6 +118,10 @@ Onze Minister kan een bijdragevaststelling intrekken of ten nadele van de ontvan
 
 Het Besluit rijksbijdragen gemeenten bij rampen en zware ongevallen en het Besluit rijksbijdragen bijstandskosten gemeenten en regionale brandweren worden ingetrokken.
 
+##### Artikel 10a
+
+Dit besluit berust op [artikel 55, vijfde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=55).
+
 ##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
@@ -157,11 +129,3 @@ Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalende
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit rijksbijdragen bijstands- en bestrijdingskosten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10a
-
-Dit besluit berust op [artikel 55, vijfde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=55).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

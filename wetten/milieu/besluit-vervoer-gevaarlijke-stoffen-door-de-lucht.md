@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 14 maart 2002, houdende regels met betrekking tot het vervoer van gevaarlijke stoffen door de lucht (Besluit vervoer gevaarlijke stoffen door de lucht)"
+citeertitel: "Besluit vervoer gevaarlijke stoffen door de lucht"
 identifier: "BWBR0013514"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-06-13"
-last_updated: "2023-06-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013514"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1968663"
-version_id: "2917332"
-internal_id: "C13515131"
-label_id: "1918154"
-dtd_version: "2.0"
-original_entry_into_force: "2003-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013514/2023-06-13/0"
-intitule_bron: "Stb.2002-180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-03-14"
-intitule_published: "2002-04-11"
-intitule_in_force: "2003-03-13"
-intitule_status: "goed"
-original_publication: "Stb.2002-180"
-original_signed_date: "2002-03-14"
-original_published_date: "2002-04-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-180"
-entry_into_force_date: "2003-03-16"
-jci_1_3: "jci1.3:c:BWBR0013514&z=2023-06-13&g=2023-06-13"
-jci_1_0: "1.0:c:BWBR0013514&g=2023-06-13"
-citeertitel_status: "officieel"
-short_title: "Besluit vervoer gevaarlijke stoffen door de lucht"
-signed_date: "2002-03-14"
-entry_into_force: "2003-03-16"
+publicatiedatum: 2003-03-16
+laatste_update: 2023-06-13
+status: geldig
+toestand: 2023-06-13
+bron: "https://wetten.overheid.nl/BWBR0013514"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 14 maart 2002, houdende regels met betrekking tot het vervoer van gevaarlijke stoffen door de lucht (Besluit vervoer gevaarlijke stoffen door de lucht)
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 6 juni 2001, nr. DGRLD/DLB/01.421019, Directoraat-Generaal Rijksluchtvaartdienst, gedaan mede namens Onze Minister van Defensie;
-
-Gelet op de [artikelen 6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51), [6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.52), [6.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.53), [6.55, tweede en derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.55) en op [artikel 28, vijfde lid, van de Wet Raad voor de Transportveiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0009753&artikel=28);
-
-De Raad van State gehoord (advies van 16 juli 2001, nr. W09.01.0264/V);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 7 maart 2002, nr. DGL/02.421024, Directoraat-Generaal Luchtvaart, uitgebracht mede namens Onze Minister van Defensie;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel I van de Wijzigingswet Wet luchtvaart (vervoer van gevaarlijke stoffen en van dieren) in werking treedt.
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -142,13 +108,21 @@ Onze Minister van Infrastructuur en Waterstaat respectievelijk Onze Minister van
 
 #### Paragraaf 5. Overgangs- en slotbepalingen
 
+##### Artikel 9a
+
+1. Op verzoek van een logistiek dienstverlener zet Onze Minister van Infrastructuur en Waterstaat een aan die dienstverlener afgegeven E-erkenning om naar een D-erkenning.
+
+2. Een verzoek als bedoeld in het eerste lid kan tot 1 juli 2023 worden ingediend bij Onze Minister van Infrastructuur en Waterstaat.
+
+3. Met ingang van 1 juli 2023 wordt een D-erkenning aangevraagd overeenkomstig de krachtens het derde lid van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2023-06-13&g=2023-06-13) vastgestelde regeling.
+
 ##### Artikel 10
 
-Wijzigt het Besluit Raad voor de Transportveiligheid.
+*Wijzigt het Besluit Raad voor de Transportveiligheid.*
 
 ##### Artikel 11
 
-Wijzigt de Regeling toezicht luchtvaart.
+*Wijzigt de Regeling toezicht luchtvaart.*
 
 ##### Artikel 12
 
@@ -157,15 +131,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet houde
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit vervoer gevaarlijke stoffen door de lucht.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 9a
-
-1. Op verzoek van een logistiek dienstverlener zet Onze Minister van Infrastructuur en Waterstaat een aan die dienstverlener afgegeven E-erkenning om naar een D-erkenning.
-
-2. Een verzoek als bedoeld in het eerste lid kan tot 1 juli 2023 worden ingediend bij Onze Minister van Infrastructuur en Waterstaat.
-
-3. Met ingang van 1 juli 2023 wordt een D-erkenning aangevraagd overeenkomstig de krachtens het derde lid van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2023-06-13&g=2023-06-13) vastgestelde regeling.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

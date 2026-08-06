@@ -1,45 +1,17 @@
 ---
 title: "Besluit bemiddelaar Vrijstellingsbesluit Wet Bpf 2000"
 identifier: "BWBR0013422"
-country: "nl"
-rank: "pbo"
-publication_date: "2002-02-24"
-last_updated: "2002-02-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013422"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6161023"
-version_id: "10834362"
-internal_id: "C14695671"
-label_id: "6150124"
-original_entry_into_force: "2002-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013422/2002-02-24/0"
-intitule_bron: "Vbbo.2002-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-02-15"
-intitule_published: "2002-02-22"
-intitule_in_force: "2002-02-22"
-intitule_status: "goed"
-original_publication: "Vbbo.2002-9"
-original_signed_date: "2002-02-15"
-original_published_date: "2002-02-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-02-24"
-jci_1_3: "jci1.3:c:BWBR0013422&z=2002-02-24&g=2002-02-24"
-jci_1_0: "1.0:c:BWBR0013422&g=2002-02-24"
-citeertitel_status: "officieel"
-signed_date: "2002-02-15"
-entry_into_force: "2002-02-24"
+publicatiedatum: 2002-02-24
+laatste_update: 2002-02-24
+status: geldig
+toestand: 2002-02-24
+bron: "https://wetten.overheid.nl/BWBR0013422"
+opgehaald: 2026-08-06
 ---
+
 # Besluit bemiddelaar Vrijstellingsbesluit Wet Bpf 2000
-
-Gelet op [artikel 2 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=2);
-
-Gezien het verzoek van 3 februari 1999 van de Stichting van de Arbeid;
-
-Gehoord de Vereniging van Bedrijfstakpensioenfondsen en het Verbond van Verzekeraars;
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -47,9 +19,9 @@ Besluit:
 
 2. In dit besluit wordt voorts verstaan onder:
 
-| a. | wet | : | [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092); |
+| a. | wet | : | Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000; |
 | --- | --- | --- | --- |
-| b. | vrijstellingsbesluit | : | vrijstellingsbesluit als bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=13), van de wet; |
+| b. | vrijstellingsbesluit | : | vrijstellingsbesluit als bedoeld in artikel 13, derde lid, van de wet; |
 | c. | Vereniging | : | Vereniging van Bedrijfstakpensioenfondsen; |
 | d. | Verbond | : | Verbond van Verzekeraars |
 | e. | raad | : | Sociaal-Economische Raad. |

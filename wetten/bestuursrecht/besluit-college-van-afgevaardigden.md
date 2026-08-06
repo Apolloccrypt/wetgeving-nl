@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 10 december 2001, houdende regels omtrent de samenstelling en inrichting van het College van afgevaardigden en de afvaardiging van de leden (Besluit College van afgevaardigden)"
+citeertitel: "Besluit College van afgevaardigden"
 identifier: "BWBR0013128"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013128"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1646903"
-version_id: "2428772"
-internal_id: "C21698581"
-label_id: "1600154"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013128/2020-01-01/0"
-intitule_bron: "Stb.2001-615"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-10"
-intitule_published: "2001-12-20"
-intitule_in_force: "2001-12-20"
-intitule_status: "goed"
-original_publication: "Stb.2001-615"
-original_signed_date: "2001-12-10"
-original_published_date: "2001-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-615"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0013128&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0013128&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit College van afgevaardigden"
-signed_date: "2001-12-10"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0013128"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 10 december 2001, houdende regels omtrent de samenstelling en inrichting van het College van afgevaardigden en de afvaardiging van de leden (Besluit College van afgevaardigden)
-
-Op de voordracht van Onze Minister van Justitie van 6 november 2001, nr. 5130704/01/6;
-
-Gelet op [artikel 90, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=90);
-
-De Raad van State gehoord (advies van 3 december 2001, nr. W03.01.0582/I);
-
-Gelet op het nader rapport van de Staatssecretaris van Justitie van 6 december 2001, nr. 5138130/01/6;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -155,5 +123,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit College van afgevaardigden.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

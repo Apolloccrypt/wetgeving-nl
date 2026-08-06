@@ -1,36 +1,16 @@
 ---
 title: "Schoolbudget voor het primair onderwijs per 1 augustus 2001"
 identifier: "BWBR0012720"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-08-01"
-last_updated: "2001-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012720"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6455983"
-version_id: "11130412"
-internal_id: "C15047521"
-label_id: "6444854"
-original_entry_into_force: "2001-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012720/2001-08-01/0"
-intitule_bron: "Uitleg.2001-18b"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-31"
-intitule_published: "2001-08-15"
-intitule_in_force: "2001-08-15"
-intitule_status: "goed"
-original_publication: "Uitleg.2001-18b"
-original_signed_date: "2001-07-31"
-original_published_date: "2001-08-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-08-01"
-jci_1_3: "jci1.3:c:BWBR0012720&z=2001-08-01&g=2001-08-01"
-jci_1_0: "1.0:c:BWBR0012720&g=2001-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-07-31"
-entry_into_force: "2001-08-01"
+publicatiedatum: 2001-08-01
+laatste_update: 2001-08-01
+status: geldig
+toestand: 2001-08-01
+bron: "https://wetten.overheid.nl/BWBR0012720"
+opgehaald: 2026-08-06
 ---
+
 # Schoolbudget voor het primair onderwijs per 1 augustus 2001
 
 ### 1. Inleiding
@@ -41,17 +21,53 @@ Scholen en afdelingen voor specaal voortgezet onderwijs voor lom en mlk en schol
 
 ### Opbouw van deze publicatie
 
-Deze publicatie vervangt de eerdere publicatie over het schoolbudget per 1 augustus 2001 met uitzondering van paragraaf 8 (de in die paragraaf beschreven overgangsregeling is daarmee van toepassing op het gehele schoolbudget zoals dat per 1 augustus wordt toegekend), die is gepubliceerd in Uitleg Gele Katern nr. 11 van 11 april met kenmerk PO/PJ/01-142447. De publicatie is als volgt opgebouwd. Na de inleiding volgen in paragraaf 2 de uitgangspunten op basis waarvan de omvang van het schoolbudget per school wordt berekend. In paragraaf 3 treft u informatie aan over de eenmalige extra verhoging van het schoolbudget in verband met eventuele extra kosten die zouden kunnen voortvloeien uit een inhaalinvestering i.v.m. de nieuwe mogelijkheid voor werknemers om op grond van een beoordeling van het functioneren een beloningsverschil dat is ontstaan door loopbaanonderbreking, te kunnen inlopen. Paragrafen 4, 5 en 6 bevatten respectievelijk voor basisscholen, scholen voor speciaal basisonderwijs en scholen voor (voortgezet) speciaal onderwijs de formules waarmee in combinatie met de in de bijlage opgenomen bedragen de concrete omvang van het schoolbudget per school kan worden berekend. In paragraaf 7 treft u informatie aan over de feitelijke uitbetaling van het schoolbudget. Ten slotte wordt in paragraaf 8 aandacht besteed aan de verantwoording en monitoring van het schoolbudget.
+Deze publicatie vervangt de eerdere publicatie over het schoolbudget per 1 augustus 2001 met uitzondering van [paragraaf 8](https://wetten.overheid.nl/BWBR0012720) (de in die paragraaf beschreven overgangsregeling is daarmee van toepassing op het gehele schoolbudget zoals dat per 1 augustus wordt toegekend), die is gepubliceerd in Uitleg Gele Katern nr. 11 van 11 april met kenmerk PO/PJ/01-142447. De publicatie is als volgt opgebouwd. Na de inleiding volgen in [paragraaf 2](https://wetten.overheid.nl/BWBR0012720) de uitgangspunten op basis waarvan de omvang van het schoolbudget per school wordt berekend. In [paragraaf 3](https://wetten.overheid.nl/BWBR0012720) treft u informatie aan over de eenmalige extra verhoging van het schoolbudget in verband met eventuele extra kosten die zouden kunnen voortvloeien uit een inhaalinvestering i.v.m. de nieuwe mogelijkheid voor werknemers om op grond van een beoordeling van het functioneren een beloningsverschil dat is ontstaan door loopbaanonderbreking, te kunnen inlopen. [Paragrafen 4](https://wetten.overheid.nl/BWBR0012720), [5](https://wetten.overheid.nl/BWBR0012720) en [6](https://wetten.overheid.nl/BWBR0012720) bevatten respectievelijk voor basisscholen, scholen voor speciaal basisonderwijs en scholen voor (voortgezet) speciaal onderwijs de formules waarmee in combinatie met de in de bijlage opgenomen bedragen de concrete omvang van het schoolbudget per school kan worden berekend. In [paragraaf 7](https://wetten.overheid.nl/BWBR0012720) treft u informatie aan over de feitelijke uitbetaling van het schoolbudget. Ten slotte wordt in [paragraaf 8](https://wetten.overheid.nl/BWBR0012720) aandacht besteed aan de verantwoording en monitoring van het schoolbudget.
 
 ### Doelstellingen schoolbudget
 
 Het schoolbudget is, zoals in eerdere publicaties al is aangegeven, een vrij besteedbaar budget voor personele doeleinden dat wordt uitgekeerd in de vorm van geld. Scholen beschikken daarmee structureel over financiële ruimte om zelfstandig afwegingen maken en daarbij voldoende rekening te houden met de specifieke situatie waarin zij zich bevinden. In het algemeen kan bij de besteding van het budget zoals dat er nu per 1 augustus 2001 uitziet, gedacht worden aan dekking van de volgende kosten:
 
+- salariskosten zoals:
+
+   - kosten van managementondersteunende en andere ondersteunende functionarissen
+
+   - kosten die worden gemaakt voor LIO en hun begeleiders,
+
+   - extra salariskosten van hoger ingeschaald personeel,
+
+   - toelagen (b.v. extra periodieken voor herintreders) en gratificaties,
+
+   - extra salariskosten in verband met betaald ouderschapsverlof; en
+
+- overige personele kosten zoals:
+
+   - kosten van nascholing en deskundigheidsbevordering van het personeel en management,
+
+   - kosten in verband met arbeidsomstandighedenbeleid en arbozorg,
+
+   - kosten van arbeidsmarktbeleid,
+
+   - integraal personeelsbeleid.
+
 Meer specifiek dan hierboven al is aangegeven, worden met de verhoging van het schoolbudget onderstaande doelstellingen nagestreefd:
+
+- functiedifferentiatie binnen de leraarsfunctie. Daarbij kan met name worden gedacht aan de introductie van een leraarsfunctie met een hoger maximumsalaris dan hetgeen hoort bij de normfunctie van leraar,
+
+- functiedifferentiatie binnen onderwijsondersteunende functies en extra inzet van ondersteunend personeel,
+
+- beloningsdifferentiatie, waarbij met name kan worden gedacht aan honorering van zowel betaalde als onbetaalde relevante ervaring bij (her)indiensttreding alsmede aan het op grond van een beoordeling van het functioneren kunnen inlopen van beloningsverschil dat is ontstaan door loopbaanonderbreking; en
+
+- introductie van (gedeeltelijk) betaald ouderschapsverlof.
 
 ### 2. Uitgangspunten bij de bepaling van de omvang van het schoolbudget per school
 
 De omvang van het budget wordt per school vastgesteld op basis van
+
+- a. het aantal leerlingen, en
+
+- b. het schoolgewicht of het aantal cumileerlingen.
+
+- c. het aantal ambulant begeleide leerlingen.
 
 ### Bepaling van het aantal leerlingen
 
@@ -75,13 +91,13 @@ De kleinescholentoeslag voor basisscholen biedt ruimte voor beloningsdifferentia
 
 ### 3. Eenmalige extra vergoeding voor het schooljaar 20012002
 
-Uitsluitend voor het schooljaar 2001/2002 wordt een extra vergoeding beschikbaar gesteld. Deze vergoeding wordt toegekend vanwege extra kosten die kunnen voortvloeien uit de introductie van de mogelijkheid voor werknemers om een beloningsverschil dat is ontstaan door loopbaanonderbreking, op grond van een beoordeling van het functioneren te kunnen inlopen. De hoogte van deze eenmalige extra vergoeding bedraagt voor alle schoolsoorten in het primair onderwijs € 10,91 (f 24,04) per leerling. In de paragrafen 4 tot en met 6 is deze eenmalige extra vergoeding opgenomen onder letter B.
+Uitsluitend voor het schooljaar 2001/2002 wordt een extra vergoeding beschikbaar gesteld. Deze vergoeding wordt toegekend vanwege extra kosten die kunnen voortvloeien uit de introductie van de mogelijkheid voor werknemers om een beloningsverschil dat is ontstaan door loopbaanonderbreking, op grond van een beoordeling van het functioneren te kunnen inlopen. De hoogte van deze eenmalige extra vergoeding bedraagt voor alle schoolsoorten in het primair onderwijs € 10,91 (f 24,04) per leerling. In de [paragrafen 4 tot en met 6](https://wetten.overheid.nl/BWBR0012720) is deze eenmalige extra vergoeding opgenomen onder letter B.
 
 ### 4. Omvang van het schoolbudget voor basisscholen per 1 augustus 2001
 
 Het schoolbudget voor basisscholen bestaat inclusief de bedragen uit de publicatie met kenmerk PO/PJ/01142447, die is gepubliceerd in Uitleg Gele Katern nr. 11 van 11 april uit:
 
-**A = het aantal leerlingen vermenigvuldigd met €** 109,38 (f 241,05);
+*A = het aantal leerlingen vermenigvuldigd met €* 109,38 (f 241,05);
 
 B = uitsluitend voor schooljaar 2001/2002 het aantal leerlingen vermenigvuldigd met € 10,91 (f 24,04);
 
@@ -138,40 +154,3 @@ Zoals in de onderwijsbeleidsbrief ”Onderwijs in stelling” (november 2000) is
 Over de wijze waarop scholen geacht worden hun administratie in te richten om over de besteding van het budget verantwoording af te leggen, wordt u in september in een afzonderlijke publicatie nader geïnformeerd Over de wijze waarop uitgaven aan personeel die ten laste komen van het schoolbudget, binnen de CASOsystematiek dienen te worden geregistreerd wordt u in september geïnformeerd door CASO.
 
 De wijze waarop het schoolbudget wordt besteed, zal voorts worden gemonitord. Nadere informatie over de wijze waarop die monitoring zal worden uitgevoerd, zal spoedig worden verstrekt. Scholen worden verplicht om medewerking te verlenen aan deze monitoring.
-
-## Bijlage
-
-| [wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) naar onderwijssoort | bedrag per leerling | bedrag per leerling | bedrag per leerling | bedrag per leerling |
-| --- | --- | --- | --- | --- |
-|   | Onderdeel a | Onderdeel a | Onderdeel b | Onderdeel b |
-|   | Euro’s | Guldens | Euro’s | Guldens |
-| DOVN | 364,19 | (802,56) | 257,86 | (568,25) |
-| SH | 279,05 | (614,95) | 151,68 | (334,26) |
-| ESM | 279,05 | (614,95) | 151,68 | (334,26) |
-| LG | 364,19 | (802,56) | 257,86 | (568,25) |
-| LZ | 279,05 | (614,95) | 151,68 | (334,26) |
-| ZMLK | 279,05 | (614,95) | 151,68 | (334,26) |
-| ZMOK | 279,05 | (614,95) | 151,68 | (334,26) |
-| PI | 279,05 | (614,95) | 151,68 | (334,26) |
-| IOBK | 279,05 | (614,95) | 151,68 | (334,26) |
-| MGA01 (DO + ZMLK/MLK) | 497,95 | (1097,33) | 424,71 | (935,94) |
-| MGA02 (DO + LOM) | 497,95 | (1097,33) | 424,71 | (935,94) |
-| MGA03 (DO + ZMLK) | 497,95 | (1097,33) | 424,71 | (935,94) |
-| MGA04 (DO + LOM/ZMLK/MLK) | 497,95 | (1097,33) | 424,71 | (935,94) |
-| MGA06 (DO + VSG) | 619,56 | (1365,32) | 576,39 | (1270,20) |
-| MGA07 (DO + LOM/MLK) | 497,95 | (1097,33) | 424,71 | (935,94) |
-| MGB01 (SH/ESM + MLK/MLK) | 364,19 | (802,56) | 257,86 | (568,25) |
-| MGB02 (SH/ESM + MLK) | 364,19 | (802,56) | 257,86 | (568,25) |
-| MGB03 (SH/ESM + MLK/LOM) | 364,19 | (802,56) | 257,86 | (568,25) |
-| MGB05 (SH + LOM/MLK) | 364,19 | (802,56) | 257,86 | (568,25) |
-| MGB06 (SH/ESM + LOM) | 364,19 | (802,56) | 257,86 | (568,25) |
-| MGF01 (LG + ZMLK/MLK) | 449,31 | (990,14) | 364,03 | (802,22) |
-| MGF02 (LG + MLK) | 449,31 | (990,14) | 364,03 | (802,22) |
-| MGF03 (LG + ZMLK) | 449,31 | (990,14) | 364,03 | (802,22) |
-| MGF04 (LG + SH/ESM) | 449,31 | (990,14) | 364,03 | (802,22) |
-| MGH01 (LZ + ZMLK/MLK) | 364,19 | (802,56) | 257,86 | (568,25) |
-| MGH02 (LZ + LG + ESM + LOM/ZMLK/MLK | 364,19 | (802,56) | 257,86 | (568,25) |
-| MGF05 (LG + DO/SH/VSG + ZMLK/MLK) | 449,31 | (990,14) | 364,03 | (802,22) |
-| MGJ01 (ZMLK + LG) | 449,31 | (990,14) | 364,03 | (802,22) |
-| MGF07 (LG + DO/SH/ESM + ZMLK/MLK) | 449,31 | (990,14) | 364,03 | (802,22) |
-| VGK instellingen | 327,69 | (722,14) | 212,35 | (467,96) |

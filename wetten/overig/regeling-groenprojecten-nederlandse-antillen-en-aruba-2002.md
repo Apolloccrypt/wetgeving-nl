@@ -1,42 +1,17 @@
 ---
 title: "Regeling groenprojecten Nederlandse Antillen en Aruba 2002"
 identifier: "BWBR0013273"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-10-20"
-last_updated: "2002-10-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013273"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4119203"
-version_id: "5872762"
-internal_id: "C6075591"
-label_id: "4098874"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013273/2002-10-20/0"
-intitule_bron: "Stcrt.2002-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-21"
-intitule_published: "2002-01-02"
-intitule_in_force: "2002-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-1"
-original_signed_date: "2001-12-21"
-original_published_date: "2002-01-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-01-04"
-jci_1_3: "jci1.3:c:BWBR0013273&z=2002-10-20&g=2002-10-20"
-jci_1_0: "1.0:c:BWBR0013273&g=2002-10-20"
-citeertitel_status: "officieel"
-signed_date: "2001-12-21"
-entry_into_force: "2002-01-04"
+publicatiedatum: 2002-01-04
+laatste_update: 2002-10-20
+status: geldig
+toestand: 2002-10-20
+bron: "https://wetten.overheid.nl/BWBR0013273"
+opgehaald: 2026-08-06
 ---
+
 # Regeling groenprojecten Nederlandse Antillen en Aruba 2002
-
-Gelet op [artikel 5.14, derde lid, onderdeel a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), en [artikel 10.10, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.10);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -44,7 +19,47 @@ Besluit:
 
 2. In deze regeling wordt verstaan onder:
 
-a. **project:** in het Koninkrijk der Nederlanden buiten Europa gelegen technisch, functioneel en in de tijd samenhangend geheel van activa en werkzaamheden; b. **bestaand project:** project dat een jaar voor de dag waarop de aanvraag tot afgifte van een verklaring wordt ingediend reeds voldoet aan een van de projectomschrijvingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013273&artikel=2&z=2002-10-20&g=2002-10-20) dan wel een project waarvoor een jaar voor die dag reeds een begin met de uitvoering van de bijbehorende fysieke werkzaamheden is gemaakt; c. **projectbeheerder:** degene voor wiens rekening en risico het project wordt ontwikkeld en in stand gehouden; d. **projectvermogen:** vermogen dat nodig is voor de financiering van activa die noodzakelijk zijn voor en uitsluitend dienstbaar zijn aan de uitvoering van een project; e. **verklaring:** schriftelijk besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer als bedoeld in [artikel 10.10. derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.10), waarin wordt verklaard dat een project in het belang is van de bescherming van het milieu, waaronder natuur en bos; f. **accountantsverklaring:** verklaring afgegeven door een registeraccountant of een accountant-administratieconsulent. g. **de ministers:** de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, in overeenstemming met de Staatssecretaris van Financiën, en na overleg met de Minister van Landbouw, Natuurbeheer en Visserij en de Minister van Verkeer en Waterstaat.
+a.
+
+project:
+
+in het Koninkrijk der Nederlanden buiten Europa gelegen technisch, functioneel en in de tijd samenhangend geheel van activa en werkzaamheden;
+
+b.
+
+bestaand project:
+
+project dat een jaar voor de dag waarop de aanvraag tot afgifte van een verklaring wordt ingediend reeds voldoet aan een van de projectomschrijvingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013273&artikel=2&z=2002-10-20&g=2002-10-20) dan wel een project waarvoor een jaar voor die dag reeds een begin met de uitvoering van de bijbehorende fysieke werkzaamheden is gemaakt;
+
+c.
+
+projectbeheerder:
+
+degene voor wiens rekening en risico het project wordt ontwikkeld en in stand gehouden;
+
+d.
+
+projectvermogen:
+
+vermogen dat nodig is voor de financiering van activa die noodzakelijk zijn voor en uitsluitend dienstbaar zijn aan de uitvoering van een project;
+
+e.
+
+verklaring:
+
+schriftelijk besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer als bedoeld in [artikel 10.10. derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.10), waarin wordt verklaard dat een project in het belang is van de bescherming van het milieu, waaronder natuur en bos;
+
+f.
+
+accountantsverklaring:
+
+verklaring afgegeven door een registeraccountant of een accountant-administratieconsulent.
+
+g.
+
+de ministers:
+
+de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, in overeenstemming met de Staatssecretaris van Financiën, en na overleg met de Minister van Landbouw, Natuurbeheer en Visserij en de Minister van Verkeer en Waterstaat.
 
 ##### Artikel 2
 
@@ -52,21 +67,21 @@ Een verklaring kan slechts worden afgegeven voor projecten die naar het oordeel 
 
 - a. gericht zijn op:
 
-- 1º. het opwekken van energie uit hout en energierijke gewassen;
+   - 1º. het opwekken van energie uit hout en energierijke gewassen;
 
-- 2º. het opwekken van elektrische energie door middel van een windturbine die - voorzover deze normen daarop van toepassing zijn - is gecertificeerd volgens NEN 6096/2 indien certificatie heeft plaatsgevonden voor 1 april 2000, of volgens NVN 11400-0, indien certificatie heeft plaatsgevonden op of na 1 april 2000;
+   - 2º. het opwekken van elektrische energie door middel van een windturbine die - voorzover deze normen daarop van toepassing zijn - is gecertificeerd volgens NEN 6096/2 indien certificatie heeft plaatsgevonden voor 1 april 2000, of volgens NVN 11400-0, indien certificatie heeft plaatsgevonden op of na 1 april 2000;
 
-- 3º. het opwekken van elektrische energie met behulp van fotovoltaïsche cellen;
+   - 3º. het opwekken van elektrische energie met behulp van fotovoltaïsche cellen;
 
-- 4º. het gebruik van thermische zonne-energie door middel van zonnecollectoren;
+   - 4º. het gebruik van thermische zonne-energie door middel van zonnecollectoren;
 
-- 5º. het winnen van aardwarmte;
+   - 5º. het winnen van aardwarmte;
 
-- 6º. het opwekken van elektrische energie uit waterkracht;
+   - 6º. het opwekken van elektrische energie uit waterkracht;
 
-- 7º. het met behulp van warmtepompen, met een Seasonal Performance Factor van ten minste 1,2 opwaarderen van laagwaardige warmte naar hoogwaardige warmte, zodanig dat de hoogwaardige warmte nuttig wordt aangewend;
+   - 7º. het met behulp van warmtepompen, met een Seasonal Performance Factor van ten minste 1,2 opwaarderen van laagwaardige warmte naar hoogwaardige warmte, zodanig dat de hoogwaardige warmte nuttig wordt aangewend;
 
-- 8º. warmte-, onderscheidenlijk koude-opslag in een aquifer gedurende ten minste een maand;
+   - 8º. warmte-, onderscheidenlijk koude-opslag in een aquifer gedurende ten minste een maand;
 
 - b. die naar zijn oordeel in het belang zijn van de bescherming van het milieu, waaronder natuur en bos.
 
@@ -171,5 +186,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 13
 
 Deze regeling kan worden aangehaald als: Regeling groenprojecten Nederlandse Antillen en Aruba 2002.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

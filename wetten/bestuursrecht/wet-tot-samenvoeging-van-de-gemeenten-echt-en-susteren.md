@@ -1,47 +1,18 @@
 ---
 title: "Wet van 20 juni 2002 tot samenvoeging van de gemeenten Echt en Susteren"
+citeertitel: "Wet tot samenvoeging van de gemeenten Echt en Susteren"
 identifier: "BWBR0013799"
-country: "nl"
-rank: "wet"
-publication_date: "2002-09-01"
-last_updated: "2002-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013799"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "2857883"
-version_id: "4395682"
-internal_id: "C4395681"
-label_id: "2806004"
-dtd_version: "2.0"
-original_entry_into_force: "2002-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013799/2002-09-01/0"
-intitule_bron: "Stb.2002-382"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-06-20"
-intitule_published: "2002-07-23"
-intitule_in_force: "2002-07-23"
-intitule_status: "goed"
-original_publication: "Stb.2002-382"
-original_signed_date: "2002-06-20"
-original_published_date: "2002-07-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "28012"
-original_url_id: "stb-2002-382"
-entry_into_force_date: "2002-09-01"
-jci_1_3: "jci1.3:c:BWBR0013799&z=2002-09-01&g=2002-09-01"
-jci_1_0: "1.0:c:BWBR0013799&g=2002-09-01"
-citeertitel_status: "officieel"
-short_title: "Wet tot samenvoeging van de gemeenten Echt en Susteren"
-signed_date: "2002-06-20"
-entry_into_force: "2002-09-01"
+publicatiedatum: 2002-09-01
+laatste_update: 2002-09-01
+status: geldig
+toestand: 2002-09-01
+bron: "https://wetten.overheid.nl/BWBR0013799"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 20 juni 2002 tot samenvoeging van de gemeenten Echt en Susteren
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Echt en Susteren samen te voegen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. Opheffing en instelling van gemeenten
 
@@ -89,11 +60,11 @@ Voor de op te heffen gemeenten Echt en Susteren wordt de nieuwe gemeente Echt-Su
 
 ##### Artikel 6
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 7
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 8
 
@@ -102,7 +73,3 @@ Advocaten en procureurs die kantoor houden in dat deel van de op te heffen gemee
 ##### Artikel 9
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-## Bijlage
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

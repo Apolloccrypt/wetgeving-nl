@@ -1,48 +1,33 @@
 ---
 title: "Regeling compensatie schade luchtvaartmaatschappijen 11 tot en met 14 september 2001"
 identifier: "BWBR0013135"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-12-14"
-last_updated: "2001-12-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013135"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "4114833"
-version_id: "5868382"
-internal_id: "C6071211"
-label_id: "4094494"
-dtd_version: "2.0"
-original_entry_into_force: "2001-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013135/2001-12-14/0"
-intitule_bron: "Stcrt.2001-241"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-11"
-intitule_published: "2001-12-12"
-intitule_in_force: "2001-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-241"
-original_signed_date: "2001-12-11"
-original_published_date: "2001-12-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-12-14"
-jci_1_3: "jci1.3:c:BWBR0013135&z=2001-12-14&g=2001-12-14"
-jci_1_0: "1.0:c:BWBR0013135&g=2001-12-14"
-citeertitel_status: "officieel"
-signed_date: "2001-12-11"
-entry_into_force: "2001-12-14"
+publicatiedatum: 2001-12-14
+laatste_update: 2001-12-14
+status: geldig
+toestand: 2001-12-14
+bron: "https://wetten.overheid.nl/BWBR0013135"
+opgehaald: 2026-08-06
 ---
+
 # Regeling compensatie schade luchtvaartmaatschappijen 11 tot en met 14 september 2001
-
-Handelende na overleg met de Minister van Financiën,
-
-Gelet op de begroting van de uitgaven en ontvangsten van het Ministerie van Verkeer en Waterstaat voor het jaar 2002 (Kamerstukken II 2001-02, 28 000 hoofdstuk XII);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+de minister:
+
+de Minister van Verkeer en Waterstaat;
+
+b.
+
+luchtvaartmaatschappij:
+
+onderneming die geheel of gedeeltelijk haar bedrijf maakt van het vervoer van personen, dieren of goederen met luchtvaartuigen en in het bezit is van een vergunning als bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16a) of [artikel 16b van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16b), afgegeven op of voor 11 september 2001.
 
 ##### Artikel 2
 
@@ -91,5 +76,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling compensatie schade luchtvaartmaatschappijen 11 tot en met 14 september 2001.
-
-Deze regeling zal met de toelichting geplaatst worden in de Staatscourant.

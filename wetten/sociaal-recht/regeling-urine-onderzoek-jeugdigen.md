@@ -1,48 +1,57 @@
 ---
 title: "Regeling urine onderzoek jeugdigen"
 identifier: "BWBR0012738"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-07-17"
-last_updated: "2011-07-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012738"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3613743"
-version_id: "5396892"
-internal_id: "C5589981"
-label_id: "3593774"
-dtd_version: "2.0"
-original_entry_into_force: "2001-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012738/2011-07-17/0"
-intitule_bron: "Stcrt.2001-156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-08-14"
-intitule_published: "2001-08-15"
-intitule_in_force: "2001-08-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-156"
-original_signed_date: "2001-08-14"
-original_published_date: "2001-08-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-09-01"
-jci_1_3: "jci1.3:c:BWBR0012738&z=2011-07-17&g=2011-07-17"
-jci_1_0: "1.0:c:BWBR0012738&g=2011-07-17"
-citeertitel_status: "officieel"
-signed_date: "2001-08-14"
-entry_into_force: "2001-09-01"
+publicatiedatum: 2001-09-01
+laatste_update: 2011-07-17
+status: geldig
+toestand: 2011-07-17
+bron: "https://wetten.overheid.nl/BWBR0012738"
+opgehaald: 2026-08-06
 ---
+
 # Regeling urine onderzoek jeugdigen
-
-Gelet op [artikel 35, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=35);
-
-Gezien het advies van het College van advies voor de justitiële kinderbescherming van datum 30 mei 2000, nr.5032390/00/TH/JMO;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+wet:
+
+de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756);
+
+b.
+
+uitvoeringsverantwoordelijke instantie:
+
+de door de selectiefunctionaris als zodanig aangewezen justitiële jeugdinrichting of de instantie welke is belast met het toezicht op de deelnemer aan een scholings- en trainingsprogramma;
+
+c.
+
+indicatieonderzoek:
+
+een onderzoek van urine op de aanwezigheid van gedragsbeïnvloedende middelen waarvan de uitslag slechts een voorlopig en indicatief karakter heeft;
+
+d.
+
+urineonderzoek:
+
+een onderzoek van urine op de aanwezigheid van gedragsbeïnvloedende middelen;
+
+e.
+
+herhalingsonderzoek:
+
+een urineonderzoek dat volgens eenzelfde dan wel een vergelijkbare methode als gebruikt bij het aanvankelijke urineonderzoek op een identiek tweede monster wordt uitgevoerd met behulp van apparatuur welke vergelijkbaar is met dan wel gelijkwaardig is aan de apparatuur welke bij het aanvankelijke onderzoek is gebruikt;
+
+f.
+
+bevestigingsonderzoek:
+
+een urineonderzoek dat volgens een andere gevalideerde methode als gebruikt bij het aanvankelijke onderzoek en het herhalingsonderzoek wordt uitgevoerd op het monster dat het uitgangsmateriaal vormde voor het aanvankelijke onderzoek dan wel het herhalingsonderzoek.
 
 ##### Artikel 2
 
@@ -151,5 +160,3 @@ Deze regeling treedt in werking op 1 september 2001
 ##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling urine onderzoek jeugdigen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

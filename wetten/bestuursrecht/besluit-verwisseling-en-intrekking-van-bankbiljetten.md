@@ -1,56 +1,18 @@
 ---
 title: "Besluit van 6 december 2001, houdende vaststelling van regels met betrekking tot verwisseling en intrekking van bankbiljetten door De Nederlandsche Bank N.V. en de aan het publiek te verstrekken informatie hieromtrent (Besluit verwisseling en intrekking van bankbiljetten)"
+citeertitel: "Besluit verwisseling en intrekking van bankbiljetten"
 identifier: "BWBR0013104"
-country: "nl"
-rank: "amvb"
-publication_date: "2002-01-28"
-last_updated: "2002-01-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013104"
+categorie: "Financieel recht"
 soort: "AMvB"
-stam_id: "1652063"
-version_id: "2435892"
-internal_id: "C2435891"
-label_id: "1605094"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013104/2002-01-28/0"
-intitule_bron: "Stb.2001-652"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-06"
-intitule_published: "2001-12-21"
-intitule_in_force: "2001-12-21"
-intitule_status: "goed"
-original_publication: "Stb.2001-652"
-original_signed_date: "2001-12-06"
-original_published_date: "2001-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-652"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0013104&z=2002-01-28&g=2002-01-28"
-jci_1_0: "1.0:c:BWBR0013104&g=2002-01-28"
-citeertitel_status: "officieel"
-short_title: "Besluit verwisseling en intrekking van bankbiljetten"
-signed_date: "2001-12-06"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2002-01-28
+status: geldig
+toestand: 2002-01-28
+bron: "https://wetten.overheid.nl/BWBR0013104"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 6 december 2001, houdende vaststelling van regels met betrekking tot verwisseling en intrekking van bankbiljetten door De Nederlandsche Bank N.V. en de aan het publiek te verstrekken informatie hieromtrent (Besluit verwisseling en intrekking van bankbiljetten)
-
-Op de voordracht van Onze Minister van Financiën van 2 augustus 2001, Generale Thesaurie, Directie Financiële Markten, FM 2001-01255M, Centrale Directie Wetgeving, Juridische en Bestuurlijke Zaken;
-
-Gelet op [artikel 106 van het Verdrag tot oprichting van de Europese Gemeenschap](onbekend);
-
-Gelet op de artikelen 3 en 4 van het Besluit van de Europese Centrale Bank van 30 augustus 2001 betreffende de denominaties, specificaties, reproductie, vervanging en het uit circulatie nemen van eurobankbiljetten (ECB/2001/7);
-
-Gelet op [artikel 27, derde en vierde lid, van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=27);
-
-De Europese Centrale Bank gehoord (advies van 19 september 2001, CON/2001/26);
-
-De Raad van State gehoord (advies van 25 oktober 2001, no.W06.01.0424/IV);
-
-Gezien het nader rapport van de Minister van Financiën van 30 november 2001 , Generale Thesaurie, Directie Financiële Markten, FM2001-1949M, Centrale Directie Wetgeving, Juridische en Bestuurlijke Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Bankbiljetten luidend in guldens
 
@@ -110,7 +72,7 @@ Bankbiljetten luidend in euro's worden uit circulatie genomen overeenkomstig de 
 
 ##### Artikel 8
 
-Wijzigt de Bankwet 1998.
+*Wijzigt de Bankwet 1998.*
 
 ##### Artikel 9
 
@@ -123,5 +85,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2002, met uitzondering va
 ##### Artikel 11
 
 Dit besluit kan worden aangehaald als het Besluit verwisseling en intrekking van bankbiljetten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.

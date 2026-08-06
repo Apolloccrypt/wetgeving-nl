@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 10 december 2001, houdende nadere regels met betrekking tot de rechtspositie van de leden van de gerechtsbesturen en de leden van de Raad voor de rechtspraak (Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak)"
+citeertitel: "Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak"
 identifier: "BWBR0013131"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-10-01"
-last_updated: "2020-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013131"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1642813"
-version_id: "19818802"
-internal_id: "C27835021"
-label_id: "1596154"
-dtd_version: "2.0"
-original_entry_into_force: "2012-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013131/2020-10-01/0"
-intitule_bron: "Stb.2001-618"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-10"
-intitule_published: "2001-12-20"
-intitule_in_force: "2001-12-20"
-intitule_status: "goed"
-original_publication: "Stb.2012-600"
-original_signed_date: "2012-11-27"
-original_published_date: "2012-11-30"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2012-600"
-entry_into_force_date: "2012-11-27"
-jci_1_3: "jci1.3:c:BWBR0013131&z=2020-10-01&g=2020-10-01"
-jci_1_0: "1.0:c:BWBR0013131&g=2020-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak"
-signed_date: "2012-11-27"
-entry_into_force: "2012-11-27"
+publicatiedatum: 2012-11-27
+laatste_update: 2020-10-01
+status: geldig
+toestand: 2020-10-01
+bron: "https://wetten.overheid.nl/BWBR0013131"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 10 december 2001, houdende nadere regels met betrekking tot de rechtspositie van de leden van de gerechtsbesturen en de leden van de Raad voor de rechtspraak (Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak)
-
-Op de voordracht van Onze Minister van Justitie van 19 november 2001, Directie Wetgeving, nr. 5134463/01/6;
-
-Gelet op de [artikelen 16, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=16), [25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=25), en [86, eerste, zesde, zevende en achtste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=86), [3 van de Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&artikel=3) en [4 van de Wet bestuursrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&artikel=4);
-
-De Raad van State gehoord (advies van 28 november 2001, nr. W03.01.0619/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 6 december 2001, nr. 5137764/01/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -54,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 3. Het bruto maandsalaris behorende bij de functie van voorzitter van het bestuur van de rechtbank Amsterdam, Den Haag of Rotterdam is gelijk aan dat behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 3 zijn ingedeeld, vermeerderd met een bedrag van € 181,51.
 
-4. Het bruto maandsalaris behorende bij de functie van voorzitter van het bestuur van een rechtbank, anders dan genoemd in het derde lid, is gelijk aan dat behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 4 zijn ingedeeld, vermeerderd met een bedrag van € 181,51.
+4. Het bruto maandsalaris behorende bij de functie van voorzitter van het bestuur van een rechtbank, anders dan genoemd in het derde lid, is gelijk aan dat behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 4 zijn ingedeeld, vermeerderd met een bedrag van € 181,51.
 
 5. Het bruto maandsalaris behorende bij de functie van rechterlijk lid, niet zijnde voorzitter, van het bestuur van een gerechtshof, de rechtbank Amsterdam, Den Haag of Rotterdam, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven is gelijk aan dat behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 5 zijn ingedeeld.
 
@@ -86,7 +54,7 @@ Ten aanzien van de rechterlijke leden van de Raad voor de rechtspraak worden de 
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -100,9 +68,33 @@ Het bestuur van een gerecht onderscheidenlijk de Raad voor de rechtspraak bestee
 
 ##### Artikel 9
 
-1. Aan de rechterlijk ambtenaar met rechtspraak belast die of het lid met rechtspraak belast dat tevens is benoemd als voorzitter of ander rechterlijk lid van de Raad voor de rechtspraak, voorzitter van het bestuur van een gerecht onderscheidenlijk ander rechterlijk lid van het bestuur van een gerecht wordt, in plaats van de onkostenvergoeding overeenkomstig [artikel 7 van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=7), een onkostenvergoeding van € 4702,– per 23 augustus 2016 en met terugwerkende kracht tot en met 1 januari 2016: € 4.907, € 2711,– per 23 augustus 2016 en met terugwerkende kracht tot en met 1 januari 2016: € 2.829 onderscheidenlijk € 1807,– per 23 augustus 2016 en met terugwerkende kracht tot en met 1 januari 2016: € 1.887 per jaar toegekend.
+1. Aan de rechterlijk ambtenaar met rechtspraak belast die of het lid met rechtspraak belast dat tevens is benoemd als voorzitter of ander rechterlijk lid van de Raad voor de rechtspraak, voorzitter van het bestuur van een gerecht onderscheidenlijk ander rechterlijk lid van het bestuur van een gerecht wordt, in plaats van de onkostenvergoeding overeenkomstig [artikel 7 van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=7), een onkostenvergoeding van € 4702,– *per 23 augustus 2016 en met terugwerkende kracht tot en met 1 januari 2016: € 4.907*, € 2711,– *per 23 augustus 2016 en met terugwerkende kracht tot en met 1 januari 2016: € 2.829* onderscheidenlijk € 1807,– *per 23 augustus 2016 en met terugwerkende kracht tot en met 1 januari 2016: € 1.887* per jaar toegekend.
 
 2. Toekenning van een onkostenvergoeding als bedoeld in het eerste lid geschiedt door de Raad voor de rechtspraak, uitgezonderd het betrokken lid, onderscheidenlijk, indien het een lid van een gerechtsbestuur betreft, het gerechtsbestuur, uitgezonderd het betrokken lid.
+
+##### Artikel 9a
+
+1. De persoon, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2020-10-01&g=2020-10-01), heeft, wanneer hij voor meer dan 50% van een volledige arbeidsduur ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, maar niet volledig arbeidsongeschikt is, in afwijking van artikel 9, eerste lid, na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend, aanspraak op een onkostenvergoeding die een met zijn arbeidsduur overeenkomend deel bedraagt van de vergoeding die hij zou hebben ontvangen indien hij in het geheel niet ongeschikt tot het verrichten van zijn arbeid wegens ziekte zou zijn.
+
+2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2020-10-01&g=2020-10-01), heeft de persoon, bedoeld in artikel 9, eerste lid, in geval van volledige arbeidsongeschiktheid wegens ziekte, na ommekomst van het kalenderjaar volgend op dat waarin de arbeidsongeschiktheid is aangevangen, geen aanspraak op een onkostenvergoeding.
+
+##### Artikel 9aa
+
+1. De persoon, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2020-10-01&g=2020-10-01), heeft, wanneer aan hem voor zijn volledige arbeidsduur buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste lid, gedurende de periode van het buitengewoon verlof geen aanspraak op een onkostenvergoeding.
+
+2. De persoon, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2020-10-01&g=2020-10-01), heeft, wanneer aan hem voor 50% of meer van de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste lid, gedurende de periode van het buitengewoon verlof, aanspraak op de onkostenvergoeding naar rato van het aantal uren dat hij geen buitengewoon verlof geniet.
+
+##### Artikel 9b
+
+Bij regeling van Onze Minister kunnen de in de [artikelen 9 tot en met 9aa](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2020-10-01&g=2020-10-01) genoemde vergoedingen worden aangepast door middel van toepassing van het geldende prijsindexcijfer, waarbij de bedragen worden afgerond naar de eerstvolgende euro.
+
+##### Artikel 9ba
+
+Voor de toepasselijkheid van [artikel 16, eerste lid, vierde volzin, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=16) wordt onder de salarishoogte behorende bij de functie van voorzitter of ander rechterlijk lid van een gerechtsbestuur verstaan: de salarishoogte behorende bij de functie van voorzitter of ander rechterlijk lid van het bestuur van het gerecht die de betrokkene vervulde op de dag voorafgaand aan de datum waarop hij zijn werkzaamheden als voorzitter of ander rechterlijk lid van het bestuur van een gerecht beëindigt.
+
+##### Artikel 9c
+
+*Vervallen*
 
 ##### Artikel 10
 
@@ -111,37 +103,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 9a
-
-1. De persoon, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2020-10-01&g=2020-10-01), heeft, wanneer hij voor meer dan 50% van een volledige arbeidsduur ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, maar niet volledig arbeidsongeschikt is, in afwijking van artikel 9, eerste lid, na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend, aanspraak op een onkostenvergoeding die een met zijn arbeidsduur overeenkomend deel bedraagt van de vergoeding die hij zou hebben ontvangen indien hij in het geheel niet ongeschikt tot het verrichten van zijn arbeid wegens ziekte zou zijn.
-
-2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2020-10-01&g=2020-10-01), heeft de persoon, bedoeld in artikel 9, eerste lid, in geval van volledige arbeidsongeschiktheid wegens ziekte, na ommekomst van het kalenderjaar volgend op dat waarin de arbeidsongeschiktheid is aangevangen, geen aanspraak op een onkostenvergoeding.
-
-##### Artikel 9b
-
-Bij regeling van Onze Minister kunnen de in de [artikelen 9 tot en met 9aa](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2020-10-01&g=2020-10-01) genoemde vergoedingen worden aangepast door middel van toepassing van het geldende prijsindexcijfer, waarbij de bedragen worden afgerond naar de eerstvolgende euro.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 9c
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 9aa
-
-1. De persoon, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2020-10-01&g=2020-10-01), heeft, wanneer aan hem voor zijn volledige arbeidsduur buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste lid, gedurende de periode van het buitengewoon verlof geen aanspraak op een onkostenvergoeding.
-
-2. De persoon, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2020-10-01&g=2020-10-01), heeft, wanneer aan hem voor 50% of meer van de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste lid, gedurende de periode van het buitengewoon verlof, aanspraak op de onkostenvergoeding naar rato van het aantal uren dat hij geen buitengewoon verlof geniet.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 9ba
-
-Voor de toepasselijkheid van [artikel 16, eerste lid, vierde volzin, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=16) wordt onder de salarishoogte behorende bij de functie van voorzitter of ander rechterlijk lid van een gerechtsbestuur verstaan: de salarishoogte behorende bij de functie van voorzitter of ander rechterlijk lid van het bestuur van het gerecht die de betrokkene vervulde op de dag voorafgaand aan de datum waarop hij zijn werkzaamheden als voorzitter of ander rechterlijk lid van het bestuur van een gerecht beëindigt.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

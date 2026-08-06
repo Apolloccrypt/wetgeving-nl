@@ -1,44 +1,18 @@
 ---
 title: "Regeling houdende vaststelling van bepalingen inzake toetsing van ambtenaren van politie en buitengewoon opsporingsambtenaren terzake van geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid"
+citeertitel: "Regeling toetsing geweldsbeheersing politie"
 identifier: "BWBR0013200"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-08-01"
-last_updated: "2019-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013200"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4087613"
-version_id: "20729022"
-internal_id: "C29776191"
-label_id: "4067504"
-dtd_version: "2.0"
-original_entry_into_force: "2013-08-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013200/2019-08-01/0"
-intitule_bron: "Stcrt.2001-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-17"
-intitule_published: "2001-12-20"
-intitule_in_force: "2001-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-25078"
-original_signed_date: "2013-08-14"
-original_published_date: "2013-09-10"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2013-25078"
-entry_into_force_date: "2013-08-14"
-jci_1_3: "jci1.3:c:BWBR0013200&z=2019-08-01&g=2019-08-01"
-jci_1_0: "1.0:c:BWBR0013200&g=2019-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling toetsing geweldsbeheersing politie"
-signed_date: "2013-08-14"
-entry_into_force: "2013-08-14"
+publicatiedatum: 2013-08-14
+laatste_update: 2019-08-01
+status: geldig
+toestand: 2019-08-01
+bron: "https://wetten.overheid.nl/BWBR0013200"
+opgehaald: 2026-08-06
 ---
+
 # Regeling houdende vaststelling van bepalingen inzake toetsing van ambtenaren van politie en buitengewoon opsporingsambtenaren terzake van geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid
-
-Gelet op artikel 3a van de Wet wapens en munitie en [artikel 48a van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=48a);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -112,20 +86,14 @@ De Regeling training en toetsing vuurwapengebruik politie wordt ingetrokken.
 
 3. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2019-08-01&g=2019-08-01), en [3, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=3&z=2019-08-01&g=2019-08-01), vervallen met ingang van 1 januari 2004.
 
-##### Artikel 8
-
-Deze regeling wordt aangehaald als: Regeling toetsing geweldsbeheersing politie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 7a
 
 Deze regeling vervalt op 1 januari 2021.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7b
 
 Deze regeling berust op [artikel 26, eerste en tweede lid, van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=26).
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 8
+
+Deze regeling wordt aangehaald als: Regeling toetsing geweldsbeheersing politie.

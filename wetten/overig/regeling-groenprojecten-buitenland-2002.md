@@ -1,42 +1,17 @@
 ---
 title: "Regeling groenprojecten buitenland 2002"
 identifier: "BWBR0013272"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013272"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4119013"
-version_id: "5872562"
-internal_id: "C6075391"
-label_id: "4098674"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013272/2019-01-01/0"
-intitule_bron: "Stcrt.2002-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-21"
-intitule_published: "2002-01-02"
-intitule_in_force: "2002-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-1"
-original_signed_date: "2001-12-21"
-original_published_date: "2002-01-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-01-04"
-jci_1_3: "jci1.3:c:BWBR0013272&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0013272&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "2001-12-21"
-entry_into_force: "2002-01-04"
+publicatiedatum: 2002-01-04
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0013272"
+opgehaald: 2026-08-06
 ---
+
 # Regeling groenprojecten buitenland 2002
-
-Gelet op [artikel 5.14, zesde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -44,21 +19,21 @@ Besluit:
 
 2. In deze regeling wordt verstaan onder:
 
-- a. **project:** een niet binnen het Koninkrijk der Nederlanden gelegen technisch, functioneel en in tijd samenhangend geheel van activa;
+- a. *project:* een niet binnen het Koninkrijk der Nederlanden gelegen technisch, functioneel en in tijd samenhangend geheel van activa;
 
-- b. **bestaand project:** een project dat een jaar voor de dag waarop de aanvraag tot afgifte van een verklaring wordt ingediend reeds bestaat, dan wel een project waarvoor een jaar voor die dag reeds een begin met de uitvoering der fysieke werkzaamheden is gemaakt;
+- b. *bestaand project:* een project dat een jaar voor de dag waarop de aanvraag tot afgifte van een verklaring wordt ingediend reeds bestaat, dan wel een project waarvoor een jaar voor die dag reeds een begin met de uitvoering der fysieke werkzaamheden is gemaakt;
 
-- c. **projectbeheerder:** degene voor wiens rekening en risico het project wordt ontwikkeld en in stand wordt gehouden;
+- c. *projectbeheerder:* degene voor wiens rekening en risico het project wordt ontwikkeld en in stand wordt gehouden;
 
-- d. **projectvermogen:** het vermogen dat nodig is voor de financiering van vaste activa en de landgebruiksrechten die noodzakelijk zijn voor en uitsluitend dienstbaar zijn aan de uitvoering van een project. Het projectvermogen wordt voor een project van een projecttype dat is opgenomen in de publicatie: Normgetallen Groen Beleggen Buitenland (Publicatiereeks Groen Beleggen Buitenland 1), gelijk gesteld aan het in die publicatie genoemde bedrag;
+- d. *projectvermogen:* het vermogen dat nodig is voor de financiering van vaste activa en de landgebruiksrechten die noodzakelijk zijn voor en uitsluitend dienstbaar zijn aan de uitvoering van een project. Het projectvermogen wordt voor een project van een projecttype dat is opgenomen in de publicatie: Normgetallen Groen Beleggen Buitenland (Publicatiereeks Groen Beleggen Buitenland 1), gelijk gesteld aan het in die publicatie genoemde bedrag;
 
-- e. **verklaring:** schriftelijk besluit van de Minister van Infrastructuur en Waterstaat als bedoeld in [artikel 5.14, derde lid, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) waarin wordt verklaard dat een project in het belang is van de bescherming van het milieu, waaronder natuur en bos;
+- e. *verklaring:* schriftelijk besluit van de Minister van Infrastructuur en Waterstaat als bedoeld in [artikel 5.14, derde lid, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) waarin wordt verklaard dat een project in het belang is van de bescherming van het milieu, waaronder natuur en bos;
 
-- f. **accountantsverklaring:** verklaring afgegeven door een registeraccountant of een accountant-administratieconsulent;
+- f. *accountantsverklaring:* verklaring afgegeven door een registeraccountant of een accountant-administratieconsulent;
 
-- g. **Joint-implementationproject:** een project als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=4&z=2019-01-01&g=2019-01-01), van de United Nations Framework Convention on Climate Change, als bevestigd in het Kyoto protocol van de United Nations Framework Convention on Climate Change;
+- g. *Joint-implementationproject:* een project als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=4&z=2019-01-01&g=2019-01-01), van de United Nations Framework Convention on Climate Change, als bevestigd in het Kyoto protocol van de United Nations Framework Convention on Climate Change;
 
-- h. **de ministers:** de Minister van Infrastructuur en Waterstaat, in overeenstemming met de Minister van Financiën en na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+- h. *de ministers:* de Minister van Infrastructuur en Waterstaat, in overeenstemming met de Minister van Financiën en na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
 ##### Artikel 2
 
@@ -191,5 +166,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 12
 
 Deze regeling kan worden aangehaald als: Regeling groenprojecten buitenland 2002.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,54 +1,22 @@
 ---
 title: "Besluit van 23 november 2001 tot regeling van de klachtenbehandeling aanstellingskeuringen"
+citeertitel: "Besluit klachtenbehandeling aanstellingskeuringen"
 identifier: "BWBR0013030"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-07-01"
-last_updated: "2017-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013030"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1639323"
-version_id: "2419422"
-internal_id: "C2419421"
-label_id: "1593064"
-dtd_version: "2.0"
-original_entry_into_force: "2002-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013030/2017-07-01/0"
-intitule_bron: "Stb.2001-598"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-23"
-intitule_published: "2001-12-13"
-intitule_in_force: "2002-01-31"
-intitule_status: "goed"
-original_publication: "Stb.2001-598"
-original_signed_date: "2001-11-23"
-original_published_date: "2001-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-598"
-entry_into_force_date: "2002-02-01"
-jci_1_3: "jci1.3:c:BWBR0013030&z=2017-07-01&g=2017-07-01"
-jci_1_0: "1.0:c:BWBR0013030&g=2017-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit klachtenbehandeling aanstellingskeuringen"
-signed_date: "2001-11-23"
-entry_into_force: "2002-02-01"
+publicatiedatum: 2002-02-01
+laatste_update: 2017-07-01
+status: geldig
+toestand: 2017-07-01
+bron: "https://wetten.overheid.nl/BWBR0013030"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 23 november 2001 tot regeling van de klachtenbehandeling aanstellingskeuringen
-
-Op voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst, mede namens Onze Minister van Volksgezondheid, Welzijn en Sport van 4 juli 2001, kenmerk AV/RV/2001/44102;
-
-Gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=13) en [14, tweede lid, van de Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=14);
-
-De Raad van State gehoord (advies van 26 juli 2001, nr. W12.01.0307/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst uitgebracht mede namens Onze Minister van Volksgezondheid, Welzijn en Sport van 14 november 2001, Directie Arbeidsverhoudingen, nr. AV/RV/2001/44102;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Begripsbepaling
+##### Begripsbepaling
 
 ##### Artikel 1
 
@@ -70,7 +38,7 @@ In dit besluit wordt verstaan onder:
 
 - h. bedrijfsarts: een arts die als bedrijfsarts is ingeschreven in een erkend specialistenregister als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
 
-#### Toepasselijkheid
+##### Toepasselijkheid
 
 ##### Artikel 2
 
@@ -78,7 +46,7 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 #### § 2. De commissie
 
-#### Instelling
+##### Instelling
 
 ##### Artikel 3. Instelling
 
@@ -90,7 +58,7 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 4. Van de drie onafhankelijke leden is ten minste een lid jurist en ten minste een lid arts.
 
-#### Benoeming en zittingsduur
+##### Benoeming en zittingsduur
 
 ##### Artikel 4
 
@@ -106,7 +74,7 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 6. Hij die optreedt ter vervulling van een tussentijds opengevallen plaats, treedt af op het tijdstip waarop degene in wiens plaats hij komt had moeten aftreden.
 
-#### Taken
+##### Taken
 
 ##### Artikel 5
 
@@ -120,7 +88,7 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 2. Het verslag bedoeld in het eerste lid, onderdeel c, wordt in ieder geval gezonden aan Onze Minister.
 
-#### Bevoegdheden
+##### Bevoegdheden
 
 ##### Artikel 6
 
@@ -136,13 +104,13 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 3. De commissie kan aan Onze Minister aanbevelingen doen inzake mogelijkheden voor bewaking en bevordering van de kwaliteit van de keuring op grond van signalen, ontvangen uit door haar behandelde klachten en overige door haar verkregen informatie.
 
-#### Regeling van werkzaamheden
+##### Regeling van werkzaamheden
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
-#### Geheimhoudingsplicht
+##### Geheimhoudingsplicht
 
 ##### Artikel 8
 
@@ -226,26 +194,24 @@ Onze Minister voorziet in een bij beschikking vast te stellen tegemoetkoming ter
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 #### § 8. Slotbepalingen
 
-#### Archief
+##### Archief
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
-#### Inwerkingtreding
+##### Inwerkingtreding
 
 ##### Artikel 19
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Citeertitel
+##### Citeertitel
 
 ##### Artikel 20
 
 Dit besluit wordt aangehaald als: Besluit klachtenbehandeling aanstellingskeuringen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van de toelichting in het Staatsblad zal worden geplaatst.

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 31 oktober 2002, houdende bepalingen inzake rechtspersoonlijkheid, privileges en immuniteiten van de Hoge Commissaris inzake Nationale Minderheden (Wet HCNM)"
+citeertitel: "Wet HCNM"
 identifier: "BWBR0014169"
-country: "nl"
-rank: "wet"
-publication_date: "2003-01-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014169"
+categorie: "Overig"
 soort: "wet"
-stam_id: "3251433"
-version_id: "4999232"
-internal_id: "C5051231"
-label_id: "3223744"
-dtd_version: "2.0"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014169/2003-01-01/0"
-intitule_bron: "Stb.2002-580"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-10-31"
-intitule_published: "2002-12-05"
-intitule_in_force: "2002-12-05"
-intitule_status: "goed"
-original_publication: "Stb.2002-580"
-original_signed_date: "2002-10-31"
-original_published_date: "2002-12-05"
-original_effect: "nieuwe-regeling"
-original_dossier: "27194"
-original_url_id: "stb-2002-580"
-entry_into_force_date: "2003-01-01"
-jci_1_3: "jci1.3:c:BWBR0014169&z=2003-01-01&g=2003-01-01"
-jci_1_0: "1.0:c:BWBR0014169&g=2003-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet HCNM"
-signed_date: "2002-10-31"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2003-01-01
+status: geldig
+toestand: 2003-01-01
+bron: "https://wetten.overheid.nl/BWBR0014169"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 31 oktober 2002, houdende bepalingen inzake rechtspersoonlijkheid, privileges en immuniteiten van de Hoge Commissaris inzake Nationale Minderheden (Wet HCNM)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de Hoge Commissaris inzake Nationale Minderheden, als zijnde een instelling van de Organisatie voor Veiligheid en Samenwerking in Europa, rechtspersoonlijkheid te verlenen, alsmede deze instelling en diens functionarissen privileges en immuniteiten toe te kennen ter wille van een onafhankelijke functie-uitoefening en dat het noodzakelijk is daartoe wettelijke bepalingen vast te stellen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1. Definities
 
@@ -266,5 +237,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 18. Citeertitel
 
 Deze wet wordt aangehaald als: Wet HCNM.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,47 +1,22 @@
 ---
 title: "Regeling tot wijziging van de Subsidieregeling Ministerie van Buitenlandse Zaken met betrekking tot subsidiëring van thematische organisaties voor ontwikkelingssamenwerking (Thematische medefinanciering)"
+citeertitel: "Wijziging Subsidieregeling Ministerie van Buitenlandse Zaken"
 identifier: "BWBR0013682"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-05-17"
-last_updated: "2002-05-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013682"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4103343"
-version_id: "5856962"
-internal_id: "C6059791"
-label_id: "4083074"
-dtd_version: "2.0"
-original_entry_into_force: "2002-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013682/2002-05-17/0"
-intitule_bron: "Stcrt.2002-90"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-05-14"
-intitule_published: "2002-05-15"
-intitule_in_force: "2002-05-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-90"
-original_signed_date: "2002-05-14"
-original_published_date: "2002-05-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-05-17"
-jci_1_3: "jci1.3:c:BWBR0013682&z=2002-05-17&g=2002-05-17"
-jci_1_0: "1.0:c:BWBR0013682&g=2002-05-17"
-citeertitel_status: "officieel"
-short_title: "Wijziging Subsidieregeling Ministerie van Buitenlandse Zaken"
-signed_date: "2002-05-14"
-entry_into_force: "2002-05-17"
+publicatiedatum: 2002-05-17
+laatste_update: 2002-05-17
+status: geldig
+toestand: 2002-05-17
+bron: "https://wetten.overheid.nl/BWBR0013682"
+opgehaald: 2026-08-06
 ---
+
 # Regeling tot wijziging van de Subsidieregeling Ministerie van Buitenlandse Zaken met betrekking tot subsidiëring van thematische organisaties voor ontwikkelingssamenwerking (Thematische medefinanciering)
-
-Gelet op [artikel 3, eerste en tweede lid, van de Kaderwet subsidies Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3);
-
-Besluit:
 
 ##### Artikel I
 
-Wijzigt de [Subsidieregeling Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010173).
+*Wijzigt de [Subsidieregeling Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010173).*
 
 ##### Artikel II
 
@@ -56,15 +31,3 @@ Wijzigt de [Subsidieregeling Ministerie van Buitenlandse Zaken](https://wetten.o
 ##### Artikel IV
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-## Bijlage. Aanvraagstramien TMF-subsidie
-
-### 0. Algemeen
-
-Het voorliggende aanvraagstramien is geldig voor alle subsidieaanvragen die in het kader van de Thematische Medefinanciering (TMF) worden gedaan, d.w.z.: instellingssubsidies en activiteitensubsidies (waarbinnen kan worden onderscheiden tussen subsidies voor programma's en voor afzonderlijke projecten). De uiteindelijke indeling in een subsidiecategorie wordt niet bepaald door de aard van de vragen, maar door de kwaliteit van de antwoorden. Slechts organisaties met een zeer solide beheersstructuur, een hoogwaardig Monitoring, Kwaliteitsbeheer en Evaluatiesysteem en een uitstekende reputatie m.b.t. behaalde resultaten in het verleden, zullen zich kunnen kwalificeren voor een instellingssubsidie.
-
-In het beoordelingsproces kan de Minister, na overleg met de aanvragende organisatie, besluiten om de status van de subsidie te veranderen ten opzichte van de aangevraagde vorm; bijvoorbeeld van instellingsubsidie naar programmafinanciering. Het leidende principe hierbij zijn de kenmerken van de aanvrager.
-
-Bij het indienen van de aanvraag, geldt als leidraad de volgende indeling met betrekking tot hoofdstukken en paragrafen:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

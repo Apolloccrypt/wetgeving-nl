@@ -1,46 +1,41 @@
 ---
 title: "Regeling vrijstelling vervoer gevaarlijke stoffen militaire voertuigen 2002"
 identifier: "BWBR0013527"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-10-16"
-last_updated: "2021-10-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013527"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4998483"
-version_id: "8665592"
-internal_id: "C11217361"
-label_id: "4974954"
-dtd_version: "2.0"
-original_entry_into_force: "2002-03-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013527/2021-10-16/0"
-intitule_bron: "Stcrt.2002-61"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-03-18"
-intitule_published: "2002-03-27"
-intitule_in_force: "2002-03-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-61"
-original_signed_date: "2002-03-18"
-original_published_date: "2002-03-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-03-29"
-jci_1_3: "jci1.3:c:BWBR0013527&z=2021-10-16&g=2021-10-16"
-jci_1_0: "1.0:c:BWBR0013527&g=2021-10-16"
-citeertitel_status: "officieel"
-signed_date: "2002-03-18"
-entry_into_force: "2002-03-29"
+publicatiedatum: 2002-03-29
+laatste_update: 2021-10-16
+status: geldig
+toestand: 2021-10-16
+bron: "https://wetten.overheid.nl/BWBR0013527"
+opgehaald: 2026-08-06
 ---
+
 # Regeling vrijstelling vervoer gevaarlijke stoffen militaire voertuigen 2002
-
-Gelet op [artikel 9 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=9);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+wet:
+
+[Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606);
+
+handelingen:
+
+handelingen als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2);
+
+VLG:
+
+Regeling vervoer over land van gevaarlijke stoffen;
+
+militaire voertuigen:
+
+voertuigen die in eigendom toebehoren aan of zich bevinden onder de verantwoordelijkheid van de krijgsmacht of van de krijgsmacht van een andere mogendheid;
+
+tactische voertuigen:
+
+voertuigen ingericht voor het uitvoeren van de operationele taak.
 
 ##### Artikel 2
 
@@ -68,7 +63,7 @@ Voor het verrichten van handelingen met of ten aanzien van militaire voertuigen 
 
 ##### Artikel 8
 
-Voor het verrichten van handelingen met of ten aanzien van militaire voertuigen wordt voor wat betreft lithiumbatterijen die zijn aangeschaft vóór 1 januari 2018, tot 1 januari 2033 vrijstelling verleend van randnummer 2.2.9.1.7, onderdeel a, van [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1).
+Voor het verrichten van handelingen met of ten aanzien van militaire voertuigen wordt voor wat betreft lithiumbatterijen die zijn aangeschaft vóór 1 januari 2018, tot 1 januari 2033 vrijstelling verleend van randnummer 2.2.9.1.7, onderdeel a, van [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1).
 
 ##### Artikel 9
 
@@ -77,5 +72,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling vrijstelling vervoer gevaarlijke stoffen militaire voertuigen 2002.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

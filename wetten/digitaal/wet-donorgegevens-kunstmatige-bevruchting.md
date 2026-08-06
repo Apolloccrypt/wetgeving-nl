@@ -1,48 +1,18 @@
 ---
 title: "Wet van 25 april 2002, houdende regels voor de bewaring, het beheer en de verstrekking van gegevens van donoren bij kunstmatige donorbevruchting (Wet donorgegevens kunstmatige bevruchting)"
+citeertitel: "Wet donorgegevens kunstmatige bevruchting"
 identifier: "BWBR0013642"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-05"
-last_updated: "2025-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013642"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1980473"
-version_id: "29616552"
-internal_id: "C42371151"
-label_id: "1929644"
-dtd_version: "2.0"
-original_entry_into_force: "2023-08-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013642/2025-07-05/0"
-intitule_bron: "Stb.2002-240"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-04-25"
-intitule_published: "2002-05-28"
-intitule_in_force: "2003-12-16"
-intitule_status: "goed"
-original_publication: "Stb.2023-294"
-original_signed_date: "2023-08-25"
-original_published_date: "2023-09-14"
-original_effect: "structuurwijziging"
-original_dossier: "35870"
-original_url_id: "stb-2023-294"
-entry_into_force_date: "2023-08-25"
-entry_into_force_dossier: "35870"
-jci_1_3: "jci1.3:c:BWBR0013642&z=2025-07-05&g=2025-07-05"
-jci_1_0: "1.0:c:BWBR0013642&g=2025-07-05"
-citeertitel_status: "officieel"
-short_title: "Wet donorgegevens kunstmatige bevruchting"
-signed_date: "2023-08-25"
-entry_into_force: "2023-08-25"
+publicatiedatum: 2023-08-25
+laatste_update: 2025-07-05
+status: geldig
+toestand: 2025-07-05
+bron: "https://wetten.overheid.nl/BWBR0013642"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 25 april 2002, houdende regels voor de bewaring, het beheer en de verstrekking van gegevens van donoren bij kunstmatige donorbevruchting (Wet donorgegevens kunstmatige bevruchting)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het gewenst is regels te stellen voor de bewaring, het beheer en de verstrekking van gegevens van donoren bij kunstmatige donorbevruchting;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemene bepalingen
 
@@ -56,9 +26,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. kunstmatige donorbevruchting: het beroeps-of bedrijfsmatig verrichten van handelingen, gericht op het anders dan op natuurlijke wijze tot stand komen van een zwangerschap met gebruikmaking van:
 
-- 1. zaadcellen van een ander dan de echtgenoot, geregistreerde partner of andere levensgezel van de vrouw of
+   - 1. zaadcellen van een ander dan de echtgenoot, geregistreerde partner of andere levensgezel van de vrouw of
 
-- 2. eicellen van een andere vrouw;
+   - 2. eicellen van een andere vrouw;
 
 - d. donor: degene die zaadcellen of eicellen heeft afgestaan ten behoeve van kunstmatige donorbevruchting;
 
@@ -75,188 +45,6 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 - j. wettelijk maximumaantal moedercodes: het bij algemene maatregel van bestuur bepaalde maximumaantal moedercodes dat aan een donorcode wordt gekoppeld.
 
 #### § 1a. Donorcode en moedercode
-
-##### Artikel 2
-
-1. De verrichter is ter zake van een kunstmatige donorbevruchting verplicht om binnen een door het College bij reglement te bepalen termijn de volgende gegevens aan het College te verstrekken:
-
-- a. de donorcode van de donor van wiens zaadcellen of eicellen de verrichter gebruik heeft gemaakt, en
-
-- b. de volgende gegevens van de donor: fysieke kenmerken, opleiding en beroep, alsmede gegevens omtrent de sociale achtergrond en een aantal persoonlijke kenmerken, een en ander zoals bij algemene maatregel van bestuur nader bepaald.
-
-2. De verrichter is tevens verplicht om binnen de termijn, bedoeld in het eerste lid, de volgende gegevens aan het College te verstrekken:
-
-- a. de geslachtsnaam, voornamen, geboortedatum, woonplaats van de vrouw bij wie kunstmatige donorbevruchting heeft plaatsgevonden, alsmede het burgerservicenummer, tenzij aan de vrouw geen burgerservicenummer is toegekend krachtens de [Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428), of de reeds aan deze vrouw toegekende moedercode die gekoppeld is aan de donorcode van de donor, bedoeld in het eerste lid. In de situatie, bedoeld in [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1a&z=2025-07-05&g=2025-07-05), dient de verrichter zowel de persoonsidentificerende gegevens van de behandelde vrouw als de gebruikte reeds toegekende moedercode te verstrekken,
-
-- b. het tijdstip waarop de donorbevruchting heeft plaatsgevonden, en
-
-- c. de aantekening of de identiteit van de donor, bedoeld in het eerste lid, bekend is aan de vrouw.
-
-3. De gegevens bedoeld in het eerste lid, onderdeel b, mogen afzonderlijk of in combinatie niet herleidbaar zijn tot de individuele donor.
-
-4. De verplichtingen, bedoeld in het eerste en het tweede lid, gelden niet of vervallen, zodra komt vast te staan dat de bevruchting niet tot de geboorte van een kind heeft geleid, tenzij de terbeschikkingstelling van de betreffende gegevens voor het College noodzakelijk is ter uitvoering van de taak, bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3a&z=2025-07-05&g=2025-07-05).
-
-##### Artikel 3
-
-1. Het College verstrekt de bij hem berustende gegevens van de betrokken donor:
-
-- a. aan degene die is verwekt door en ten gevolge van kunstmatige donorbevruchting en die de leeftijd van twaalf jaren heeft bereikt, op zijn verzoek, voor zover het betreft de gegevens, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05);
-
-- b. aan de ouders of een van hen van het kind dat door en tengevolge van kunstmatige donorbevruchting is verwekt, op hun verzoek, indien het kind de leeftijd van twaalf jaren nog niet heeft bereikt en voor zover het betreft de gegevens, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05).
-
-2. De persoonsidentificerende gegevens van de donor worden aan degene die is verwekt door en ten gevolge van kunstmatige donorbevruchting en die de leeftijd van zestien jaren heeft bereikt, op zijn verzoek verstrekt, nadat de donor daarmee schriftelijk heeft ingestemd.
-
-Verstrekking blijft, indien de donor daarmee niet instemt, uitsluitend achterwege indien, in aanmerking genomen de gevolgen die niet-verstrekking voor de verzoeker zou kunnen hebben, zwaarwegende belangen van de donor meebrengen dat verstrekking niet behoort plaats te vinden. De naar aanleiding van deze belangenafweging te nemen beslissing wordt door het College genomen na daarover advies te hebben ingewonnen van een adviescommissie, tenzij naar het oordeel van het College de noodzaak daartoe ontbreekt.
-
-3. Indien de donor is overleden dan wel onvindbaar is, wordt de instemming, bedoeld in het tweede lid, geacht te zijn geweigerd, tenzij de echtgenoot, geregistreerde partner of andere levensgezel dan wel, bij het ontbreken van een van hen, een bloedverwant in de eerste of tweede graad, schriftelijk instemt met de verstrekking van de persoonsidentificerende gegevens. Na een weigering in te stemmen worden de in de eerste volzin bedoelde personen in de gelegenheid gesteld de belangen van de donor bij niet-verstrekking naar voren te brengen.
-
-4. Het bestuur van het College stelt de donor onverwijld schriftelijk in kennis van een voorgenomen verstrekking van zijn persoonsgegevens, alsmede van de gronden waarop dit voornemen berust. Tegen de voorgenomen verstrekking kan de donor bezwaar maken bij het College. Verstrekking geschiedt, indien deze niet berust op instemming van de donor, niet dan nadat de beslissing op het bezwaar onherroepelijk is geworden. Indien verstrekking van de persoonsgegevens achterwege blijft op de grond, bedoeld in het slot van het tweede lid, kan de aanvrager tegen het daartoe strekkende besluit bezwaar maken bij het College.
-
-5. [Artikel 6:5, eerste lid, aanhef en onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) is niet van toepassing ten aanzien van de donor.
-
-6. Van een verstrekking van gegevens van de donor aan een minderjarige die de leeftijd van zestien jaren nog niet heeft bereikt, worden de ouders op de hoogte gesteld. Aan de minderjarige wordt hiervan mededeling gedaan. Op verzoek van beide ouders of van een van hen worden deze gegevens eveneens aan hen verstrekt.
-
-7. Het College draagt zorg voor deskundige begeleiding bij de verstrekking van de gegevens, bedoeld in het eerste en tweede lid.
-
-8. Bij algemene maatregel van bestuur wordt bepaald welke bescheiden een verzoek tot verstrekking van gegevens van de donor moeten vergezellen.
-
-9. Het College stelt bij reglement in ieder geval regels vast omtrent de samenstelling van de adviescommissie, die tot taak heeft te adviseren over de beoordeling van door de donor aangevoerde zwaarwegende belangen als bedoeld in het tweede lid.
-
-#### § 3. De Stichting donorgegevens kunstmatige bevruchting
-
-##### Artikel 4
-
-1. Er is een College donorgegevens kunstmatige bevruchting.
-
-2. Het College heeft tot taak:
-
-- a. de gegevens, bedoeld in [paragraaf 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&z=2025-07-05&g=2025-07-05) en de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), en [3c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3c&z=2025-07-05&g=2025-07-05), te bewaren, te beheren en te verstrekken overeenkomstig de bepalingen bij of krachtens de wet gesteld. Het College stelt ter uitvoering van deze taak bij reglement regels;
-
-- b. bij reglement te bepalen op welke wijze en op welk moment de gegevens bedoeld in de [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), aan het College worden verstrekt en op welke wijze deze gegevens door het College aan een persoon als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2025-07-05&g=2025-07-05) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3c&z=2025-07-05&g=2025-07-05) worden verstrekt;
-
-- c. bij reglement te bepalen op welke wijze de gegevens, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3b&z=2025-07-05&g=2025-07-05), aan een persoon als bedoeld in dat artikel worden verstrekt;
-
-- d. voorlichting te verschaffen, voor zover de onder a, b en c omschreven taken van het College dat vereisen, alsmede zorg te dragen voor de begeleiding bij de verstrekking van deze gegevens;
-
-- e. andere bij regeling van Onze Minister opgedragen taken die verband houden met het door deze wet bestreken terrein.
-
-3. Degenen op wie de verplichtingen, bedoeld in [paragraaf 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&z=2025-07-05&g=2025-07-05) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), rusten, zijn verplicht het reglement van het College na te leven.
-
-4. De Kaderwet is van toepassing op het College. [Artikel 22 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22) is niet van toepassing op besluiten van het College inzake bewaring, beheer of verstrekking van de gegevens, bedoeld in [paragraaf 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&z=2025-07-05&g=2025-07-05) of de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05) en [3c, eerste lid.](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3c&z=2025-07-05&g=2025-07-05)
-
-##### Artikel 5
-
-1. Het College bestaat uit zeven leden, onder wie een voorzitter.
-
-2. Het College bestaat in elk geval uit:
-
-- a. een persoon die door en ten gevolge van kunstmatige donorbevruchting is verwekt,
-
-- b. een persoon die kunstmatige bevruchting beroepsmatig toepast of nauw daarbij betrokken is,
-
-- c. een persoon die deskundig is op psychosociaal terrein op het gebied van kunstmatige bevruchting,
-
-- d. een persoon die deskundig is op pedagogisch terrein,
-
-- e. een persoon die deskundig is op juridische terrein, en
-
-- f. een persoon die deskundig is op ethisch terrein.
-
-3. De leden worden benoemd voor een periode van ten hoogste vier jaar. Herbenoeming kan eenmaal voor ten hoogste eenzelfde periode plaatsvinden.
-
-4. Het College wordt in en buiten rechte vertegenwoordigd door de voorzitter.
-
-##### Artikel 6
-
-1. Het reglement van het College alsmede wijziging daarvan behoeft de goedkeuring van Onze Minister. Goedkeuring kan worden geweigerd wegens strijd met het recht of het algemeen belang.
-
-2. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de goedkeuring, bedoeld in het eerste lid.
-
-##### Artikel 7
-
-Onze Minister voorziet in het secretariaat van het College.
-
-##### Artikel 8
-
-Het College draagt zorg voor een zorgvuldige bewaring van de gegevens, bedoeld in [paragraaf 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&z=2025-07-05&g=2025-07-05) en de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), en [3c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3c&z=2025-07-05&g=2025-07-05), gedurende ten minste tachtig jaren te rekenen van de dag waarop het deze gegevens ontvangt.
-
-##### Artikel 9
-
-Vervallen
-
-#### § 4. Naleving en strafbepaling
-
-##### Artikel 10
-
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
-
-2. De aan de in het eerste lid bedoelde ambtenaren toekomende bevoegdheden, bedoeld in de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), hebben mede betrekking op de gegevens, bedoeld in de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1a&z=2025-07-05&g=2025-07-05), [2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), of [12a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=5&artikel=12a&z=2025-07-05&g=2025-07-05).
-
-3. Voor zover de verrichter dan wel het College uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van de gegevens verplicht is, kan diegene deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), niet inroepen tegenover de in het eerste lid bedoelde ambtenaren. Op deze ambtenaren rust dezelfde geheimhoudingsplicht als op de verrichter dan wel op het College.
-
-##### Artikel 11
-
-1. Met een hechtenis van ten hoogste zes maanden of een boete van de derde categorie wordt gestraft degene die handelt in strijd met een verplichting, bedoeld in de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1a&z=2025-07-05&g=2025-07-05) of [2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05).
-
-2. Het in het eerste lid strafbaar gestelde feit is een overtreding.
-
-#### § 5. Overgangs- en slotbepalingen
-
-##### Artikel 12
-
-1. De op het tijdstip waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05) in werking treedt bij natuurlijke personen of rechtspersonen aanwezige gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), worden aan de Stichting donorgegevens kunstmatige bevruchting of het College overdragen.
-
-2. Tot de volledige inwerkingtreding van de wet kan de donor die voorafgaande aan de volledige inwerkingtreding daarvan zaadcellen of eicellen heeft afgestaan, op schrift verklaren dat de op hem betrekking hebbende gegevens inzake geslachtsnaam, voornamen, geboortedatum en woonplaats niet worden verstrekt aan degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige bevruchting of aan diens ouders, indien een verzoek daartoe wordt gedaan. De verklaring wordt door de verrichter aan de Stichting donorgegevens kunstmatige bevruchting of het College verstrekt.
-
-3. De in het tweede lid bedoelde gegevens omtrent een donor die een verklaring als bedoeld in het tweede lid niet heeft afgelegd worden niet verstrekt aan degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige bevruchting of aan diens ouders dan met instemming van de donor.
-
-4. Gegevens omtrent fysieke kenmerken, opleiding en beroep, alsmede gegevens omtrent de sociale achtergrond en omtrent persoonlijke kenmerken, worden verstrekt overeenkomstig de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), en [3, eerste lid, onderdelen a en b, en zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2025-07-05&g=2025-07-05).
-
-5. Het College verzoekt een andere persoon dan de donor om de instemming, bedoeld in het derde lid, indien de donor is overleden en de donor het College toestemming heeft verleend om na zijn overlijden die andere persoon voor het vragen van instemming te benaderen. Bij de gegevensverwerking die noodzakelijk is voor de uitvoering hiervan kan gebruik worden gemaakt van het burgerservicenummer van die andere persoon.
-
-##### Artikel 13
-
-1. Indien een verrichter gebruik wenst te maken van zaadcellen of eicellen van een donor van wie de geslachtscellen reeds voorafgaand aan de inwerkingtreding van de [Wet van 25 augustus 2023 tot wijziging van de Wet donorgegevens kunstmatige bevruchting in verband met de tweede evaluatie van de wet, het actieplan ter ondersteuning van donorkinderen en de omvorming van de Stichting donorgegevens kunstmatige bevruchting tot publiekrechtelijk zelfstandig bestuursorgaan](https://wetten.overheid.nl/jci1.3:c:BWBR0048615) (Stb. 2023, 294, door hem zijn gebruikt bij een kunstmatige donorbevruchting, doet de verrichter bij de verstrekking van de gegevens, bedoeld in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1b&z=2025-07-05&g=2025-07-05), daarvan mededeling aan het College.
-
-2. Alvorens op grond van [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1c&z=2025-07-05&g=2025-07-05) aan de toegekende donorcode een of meerdere moedercodes te koppelen, verstrekt het College aan de verrichter, bedoeld in het eerste lid, een overzicht van de bij hem berustende gegevens over elke vrouw bij wie kunstmatige donorbevruchting heeft plaatsgevonden met gebruikmaking van zaadcellen of eicellen van de donor, bedoeld in het eerste lid. Indien uit de bij het College berustende gegevens blijkt dat ook een andere verrichter de geslachtscellen van de betreffende donor bij een kunstmatige donorbevruchting heeft gebruikt, verstrekt het College ook een overzicht aan die andere verrichter.
-
-3. De verrichter, bedoeld in het tweede lid, vergewist zich van de juistheid en volledigheid van het overzicht en doet daarvan mededeling aan het College. De verrichter vult het overzicht aan door verstrekking van de gegevens, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), van elke vrouw bij wie kunstmatige donorbevruchting heeft plaatsgevonden met gebruikmaking van zaadcellen of eicellen van de donor, bedoeld in het eerste lid, indien deze gegevens in het door het College verstrekte overzicht ontbreken.
-
-4. Bij de toepassing van [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1c&z=2025-07-05&g=2025-07-05) bedraagt het aantal door het College aan de donorcode van de donor, bedoeld in het eerste lid, te koppelen moedercodes ten hoogste het wettelijk maximumaantal moedercodes of het door de donor bepaalde lagere maximumaantal minus het aantal vrouwen bij wie blijkens het overzicht of de overzichten kunstmatige donorbevruchting heeft plaatsgevonden met gebruikmaking van zaadcellen of eicellen van de donor.
-
-5. Het College kent eenmalig een moedercode toe aan elke vrouw bij wie voorafgaand aan de inwerkingtreding van de in het eerste lid genoemde [wet kunstmatige donorbevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0048615) heeft plaatsgevonden met gebruikmaking van zaadcellen of eicellen van de donor, bedoeld in het eerste lid. Het College doet hiervan mededeling aan de betrokken verrichter of verrichters.
-
-6. Bij de toepassing van [artikel 1d, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1d&z=2025-07-05&g=2025-07-05), reserveert het College ten behoeve van de verrichter, bedoeld in het eerste lid, ten hoogste het aantal moedercodes dat na toepassing van het vierde en vijfde lid nog beschikbaar is.
-
-##### Artikel 14
-
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan luiden met uitzondering van [artikel 3, tweede lid, tweede volzin, en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2025-07-05&g=2025-07-05), welke bepalingen in werking treden met ingang van de eerste kalendermaand na verloop van twee jaren na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
-
-##### Artikel 15
-
-Deze wet wordt aangehaald als: Wet donorgegevens kunstmatige bevruchting.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-Op verzoek van de ouder van het kind dat door kunstmatige donorbevruchting is verwekt, verstrekt het College een verklaring als bedoeld in [artikelen 198, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=198), of [227, vierde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=227), waarin de persoonsidentificerende gegevens van de donor niet worden opgenomen.
-
-#### § 3. De Stichting donorgegevens kunstmatige bevruchting
-
-#### § 2. Bewaring en verstrekking van gegevens van de donor
-
-#### § 5. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 10a
-
-Onze Minister is bevoegd tot oplegging van een last onder dwangsom aan de verrichter ter handhaving van het bepaalde in [artikelen 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), [12a, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=5&artikel=12a&z=2025-07-05&g=2025-07-05), en [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=5&artikel=13&z=2025-07-05&g=2025-07-05).
-
-#### § 5. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 1a
 
@@ -278,13 +66,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - c. het door de donor bepaalde maximumaantal aan de donorcode te koppelen moedercodes, indien dat aantal lager is dan het wettelijk maximumaantal moedercodes.
 
-- 2. Gelijktijdig met de verstrekking, bedoeld in het eerste lid, verstrekt de verrichter aan het College:
+   - 2. Gelijktijdig met de verstrekking, bedoeld in het eerste lid, verstrekt de verrichter aan het College:
 
 - a. het aantal aan de donorcode gekoppelde moedercodes dat de verrichter wenst te reserveren, indien dat aantal lager is dan het wettelijk maximumaantal moedercodes dan wel het door de donor bepaalde lagere maximumaantal, of
 
 - b. ten behoeve van het verkrijgen van een aan de donorcode gekoppelde moedercode die reeds aan een vrouw is toegekend, de geslachtsnaam, voornamen, geboortedatum en burgerservicenummer van die vrouw, tenzij aan de vrouw geen burgerservicenummer is toegekend krachtens de [Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428).
 
-- 3. De verrichter stelt de donor op de hoogte van de gegevensverstrekking, bedoeld in het eerste lid.
+   - 3. De verrichter stelt de donor op de hoogte van de gegevensverstrekking, bedoeld in het eerste lid.
 
 ##### Artikel 1c
 
@@ -348,9 +136,61 @@ Indien een verrichter geen gebruik meer wenst te maken van een ten behoeve van h
 
 3. Indien toepassing van het tweede lid niet mogelijk is, is het College bevoegd om bij de toepassing van het eerste lid het wettelijk maximumaantal moedercodes of het door de donor bepaalde lagere maximumaantal te overschrijden.
 
+#### § 2. Bewaring en verstrekking van gegevens van de donor
+
+##### Artikel 2
+
+1. De verrichter is ter zake van een kunstmatige donorbevruchting verplicht om binnen een door het College bij reglement te bepalen termijn de volgende gegevens aan het College te verstrekken:
+
+- a. de donorcode van de donor van wiens zaadcellen of eicellen de verrichter gebruik heeft gemaakt, en
+
+- b. de volgende gegevens van de donor: fysieke kenmerken, opleiding en beroep, alsmede gegevens omtrent de sociale achtergrond en een aantal persoonlijke kenmerken, een en ander zoals bij algemene maatregel van bestuur nader bepaald.
+
+2. De verrichter is tevens verplicht om binnen de termijn, bedoeld in het eerste lid, de volgende gegevens aan het College te verstrekken:
+
+- a. de geslachtsnaam, voornamen, geboortedatum, woonplaats van de vrouw bij wie kunstmatige donorbevruchting heeft plaatsgevonden, alsmede het burgerservicenummer, tenzij aan de vrouw geen burgerservicenummer is toegekend krachtens de [Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428), of de reeds aan deze vrouw toegekende moedercode die gekoppeld is aan de donorcode van de donor, bedoeld in het eerste lid. In de situatie, bedoeld in [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1a&z=2025-07-05&g=2025-07-05), dient de verrichter zowel de persoonsidentificerende gegevens van de behandelde vrouw als de gebruikte reeds toegekende moedercode te verstrekken,
+
+- b. het tijdstip waarop de donorbevruchting heeft plaatsgevonden, en
+
+- c. de aantekening of de identiteit van de donor, bedoeld in het eerste lid, bekend is aan de vrouw.
+
+3. De gegevens bedoeld in het eerste lid, onderdeel b, mogen afzonderlijk of in combinatie niet herleidbaar zijn tot de individuele donor.
+
+4. De verplichtingen, bedoeld in het eerste en het tweede lid, gelden niet of vervallen, zodra komt vast te staan dat de bevruchting niet tot de geboorte van een kind heeft geleid, tenzij de terbeschikkingstelling van de betreffende gegevens voor het College noodzakelijk is ter uitvoering van de taak, bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3a&z=2025-07-05&g=2025-07-05).
+
 ##### Artikel 2a
 
 Indien de verrichter ten tijde van de kunstmatige donorbevruchting beschikte over een reservering voor een aan de donorcode gekoppelde moedercode, als bedoeld in [artikel 1a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1a&z=2025-07-05&g=2025-07-05), kent het College na de verstrekking van de gegevens, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), aan de behandelde vrouw de moedercode toe en verstrekt het deze moedercode aan de verrichter.
+
+##### Artikel 3
+
+1. Het College verstrekt de bij hem berustende gegevens van de betrokken donor:
+
+- a. aan degene die is verwekt door en ten gevolge van kunstmatige donorbevruchting en die de leeftijd van twaalf jaren heeft bereikt, op zijn verzoek, voor zover het betreft de gegevens, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05);
+
+- b. aan de ouders of een van hen van het kind dat door en tengevolge van kunstmatige donorbevruchting is verwekt, op hun verzoek, indien het kind de leeftijd van twaalf jaren nog niet heeft bereikt en voor zover het betreft de gegevens, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05).
+
+2. De persoonsidentificerende gegevens van de donor worden aan degene die is verwekt door en ten gevolge van kunstmatige donorbevruchting en die de leeftijd van zestien jaren heeft bereikt, op zijn verzoek verstrekt, nadat de donor daarmee schriftelijk heeft ingestemd.
+
+Verstrekking blijft, indien de donor daarmee niet instemt, uitsluitend achterwege indien, in aanmerking genomen de gevolgen die niet-verstrekking voor de verzoeker zou kunnen hebben, zwaarwegende belangen van de donor meebrengen dat verstrekking niet behoort plaats te vinden. De naar aanleiding van deze belangenafweging te nemen beslissing wordt door het College genomen na daarover advies te hebben ingewonnen van een adviescommissie, tenzij naar het oordeel van het College de noodzaak daartoe ontbreekt.
+
+3. Indien de donor is overleden dan wel onvindbaar is, wordt de instemming, bedoeld in het tweede lid, geacht te zijn geweigerd, tenzij de echtgenoot, geregistreerde partner of andere levensgezel dan wel, bij het ontbreken van een van hen, een bloedverwant in de eerste of tweede graad, schriftelijk instemt met de verstrekking van de persoonsidentificerende gegevens. Na een weigering in te stemmen worden de in de eerste volzin bedoelde personen in de gelegenheid gesteld de belangen van de donor bij niet-verstrekking naar voren te brengen.
+
+4. Het bestuur van het College stelt de donor onverwijld schriftelijk in kennis van een voorgenomen verstrekking van zijn persoonsgegevens, alsmede van de gronden waarop dit voornemen berust. Tegen de voorgenomen verstrekking kan de donor bezwaar maken bij het College. Verstrekking geschiedt, indien deze niet berust op instemming van de donor, niet dan nadat de beslissing op het bezwaar onherroepelijk is geworden. Indien verstrekking van de persoonsgegevens achterwege blijft op de grond, bedoeld in het slot van het tweede lid, kan de aanvrager tegen het daartoe strekkende besluit bezwaar maken bij het College.
+
+5. [Artikel 6:5, eerste lid, aanhef en onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) is niet van toepassing ten aanzien van de donor.
+
+6. Van een verstrekking van gegevens van de donor aan een minderjarige die de leeftijd van zestien jaren nog niet heeft bereikt, worden de ouders op de hoogte gesteld. Aan de minderjarige wordt hiervan mededeling gedaan. Op verzoek van beide ouders of van een van hen worden deze gegevens eveneens aan hen verstrekt.
+
+7. Het College draagt zorg voor deskundige begeleiding bij de verstrekking van de gegevens, bedoeld in het eerste en tweede lid.
+
+8. Bij algemene maatregel van bestuur wordt bepaald welke bescheiden een verzoek tot verstrekking van gegevens van de donor moeten vergezellen.
+
+9. Het College stelt bij reglement in ieder geval regels vast omtrent de samenstelling van de adviescommissie, die tot taak heeft te adviseren over de beoordeling van door de donor aangevoerde zwaarwegende belangen als bedoeld in het tweede lid.
+
+##### Artikel 3a
+
+Op verzoek van de ouder van het kind dat door kunstmatige donorbevruchting is verwekt, verstrekt het College een verklaring als bedoeld in [artikelen 198, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=198), of [227, vierde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=227), waarin de persoonsidentificerende gegevens van de donor niet worden opgenomen.
 
 ##### Artikel 3b
 
@@ -376,7 +216,79 @@ Indien de verrichter ten tijde van de kunstmatige donorbevruchting beschikte ove
 
 #### § 3. Het College donorgegevens kunstmatige bevruchting
 
+##### Artikel 4
+
+1. Er is een College donorgegevens kunstmatige bevruchting.
+
+2. Het College heeft tot taak:
+
+- a. de gegevens, bedoeld in [paragraaf 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&z=2025-07-05&g=2025-07-05) en de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), en [3c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3c&z=2025-07-05&g=2025-07-05), te bewaren, te beheren en te verstrekken overeenkomstig de bepalingen bij of krachtens de wet gesteld. Het College stelt ter uitvoering van deze taak bij reglement regels;
+
+- b. bij reglement te bepalen op welke wijze en op welk moment de gegevens bedoeld in de [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), aan het College worden verstrekt en op welke wijze deze gegevens door het College aan een persoon als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2025-07-05&g=2025-07-05) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3c&z=2025-07-05&g=2025-07-05) worden verstrekt;
+
+- c. bij reglement te bepalen op welke wijze de gegevens, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3b&z=2025-07-05&g=2025-07-05), aan een persoon als bedoeld in dat artikel worden verstrekt;
+
+- d. voorlichting te verschaffen, voor zover de onder a, b en c omschreven taken van het College dat vereisen, alsmede zorg te dragen voor de begeleiding bij de verstrekking van deze gegevens;
+
+- e. andere bij regeling van Onze Minister opgedragen taken die verband houden met het door deze wet bestreken terrein.
+
+3. Degenen op wie de verplichtingen, bedoeld in [paragraaf 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&z=2025-07-05&g=2025-07-05) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), rusten, zijn verplicht het reglement van het College na te leven.
+
+4. De Kaderwet is van toepassing op het College. [Artikel 22 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22) is niet van toepassing op besluiten van het College inzake bewaring, beheer of verstrekking van de gegevens, bedoeld in [paragraaf 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&z=2025-07-05&g=2025-07-05) of de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05) en [3c, eerste lid.](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3c&z=2025-07-05&g=2025-07-05)
+
+##### Artikel 5
+
+1. Het College bestaat uit zeven leden, onder wie een voorzitter.
+
+2. Het College bestaat in elk geval uit:
+
+- a. een persoon die door en ten gevolge van kunstmatige donorbevruchting is verwekt,
+
+- b. een persoon die kunstmatige bevruchting beroepsmatig toepast of nauw daarbij betrokken is,
+
+- c. een persoon die deskundig is op psychosociaal terrein op het gebied van kunstmatige bevruchting,
+
+- d. een persoon die deskundig is op pedagogisch terrein,
+
+- e. een persoon die deskundig is op juridische terrein, en
+
+- f. een persoon die deskundig is op ethisch terrein.
+
+3. De leden worden benoemd voor een periode van ten hoogste vier jaar. Herbenoeming kan eenmaal voor ten hoogste eenzelfde periode plaatsvinden.
+
+4. Het College wordt in en buiten rechte vertegenwoordigd door de voorzitter.
+
+##### Artikel 6
+
+1. Het reglement van het College alsmede wijziging daarvan behoeft de goedkeuring van Onze Minister. Goedkeuring kan worden geweigerd wegens strijd met het recht of het algemeen belang.
+
+2. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de goedkeuring, bedoeld in het eerste lid.
+
+##### Artikel 7
+
+Onze Minister voorziet in het secretariaat van het College.
+
+##### Artikel 8
+
+Het College draagt zorg voor een zorgvuldige bewaring van de gegevens, bedoeld in [paragraaf 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&z=2025-07-05&g=2025-07-05) en de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), en [3c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3c&z=2025-07-05&g=2025-07-05), gedurende ten minste tachtig jaren te rekenen van de dag waarop het deze gegevens ontvangt.
+
+##### Artikel 9
+
+*Vervallen*
+
 #### § 4. Naleving en strafbepaling
+
+##### Artikel 10
+
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
+
+2. De aan de in het eerste lid bedoelde ambtenaren toekomende bevoegdheden, bedoeld in de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), hebben mede betrekking op de gegevens, bedoeld in de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1a&z=2025-07-05&g=2025-07-05), [2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), of [12a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=5&artikel=12a&z=2025-07-05&g=2025-07-05).
+
+3. Voor zover de verrichter dan wel het College uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van de gegevens verplicht is, kan diegene deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), niet inroepen tegenover de in het eerste lid bedoelde ambtenaren. Op deze ambtenaren rust dezelfde geheimhoudingsplicht als op de verrichter dan wel op het College.
+
+##### Artikel 10a
+
+Onze Minister is bevoegd tot oplegging van een last onder dwangsom aan de verrichter ter handhaving van het bepaalde in [artikelen 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), [12a, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=5&artikel=12a&z=2025-07-05&g=2025-07-05), en [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=5&artikel=13&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 10b
 
@@ -384,7 +296,25 @@ Indien de verrichter ten tijde van de kunstmatige donorbevruchting beschikte ove
 
 2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
+##### Artikel 11
+
+1. Met een hechtenis van ten hoogste zes maanden of een boete van de derde categorie wordt gestraft degene die handelt in strijd met een verplichting, bedoeld in de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1a&z=2025-07-05&g=2025-07-05) of [2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05).
+
+2. Het in het eerste lid strafbaar gestelde feit is een overtreding.
+
 #### § 5. Overgangs- en slotbepalingen
+
+##### Artikel 12
+
+1. De op het tijdstip waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05) in werking treedt bij natuurlijke personen of rechtspersonen aanwezige gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), worden aan de Stichting donorgegevens kunstmatige bevruchting of het College overdragen.
+
+2. Tot de volledige inwerkingtreding van de wet kan de donor die voorafgaande aan de volledige inwerkingtreding daarvan zaadcellen of eicellen heeft afgestaan, op schrift verklaren dat de op hem betrekking hebbende gegevens inzake geslachtsnaam, voornamen, geboortedatum en woonplaats niet worden verstrekt aan degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige bevruchting of aan diens ouders, indien een verzoek daartoe wordt gedaan. De verklaring wordt door de verrichter aan de Stichting donorgegevens kunstmatige bevruchting of het College verstrekt.
+
+3. De in het tweede lid bedoelde gegevens omtrent een donor die een verklaring als bedoeld in het tweede lid niet heeft afgelegd worden niet verstrekt aan degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige bevruchting of aan diens ouders dan met instemming van de donor.
+
+4. Gegevens omtrent fysieke kenmerken, opleiding en beroep, alsmede gegevens omtrent de sociale achtergrond en omtrent persoonlijke kenmerken, worden verstrekt overeenkomstig de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), en [3, eerste lid, onderdelen a en b, en zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2025-07-05&g=2025-07-05).
+
+5. Het College verzoekt een andere persoon dan de donor om de instemming, bedoeld in het derde lid, indien de donor is overleden en de donor het College toestemming heeft verleend om na zijn overlijden die andere persoon voor het vragen van instemming te benaderen. Bij de gegevensverwerking die noodzakelijk is voor de uitvoering hiervan kan gebruik worden gemaakt van het burgerservicenummer van die andere persoon.
 
 ##### Artikel 12a
 
@@ -394,12 +324,32 @@ Indien de verrichter ten tijde van de kunstmatige donorbevruchting beschikte ove
 
 3. De verrichter verstrekt op verzoek aan het College alle relevante gegevens die inzicht bieden in de afspraken met de donor omtrent de verstrekking van zijn persoonsidentificerende gegevens, indien dat noodzakelijk is voor de beslissing op een verzoek om verstrekking daarvan.
 
+##### Artikel 13
+
+1. Indien een verrichter gebruik wenst te maken van zaadcellen of eicellen van een donor van wie de geslachtscellen reeds voorafgaand aan de inwerkingtreding van de [Wet van 25 augustus 2023 tot wijziging van de Wet donorgegevens kunstmatige bevruchting in verband met de tweede evaluatie van de wet, het actieplan ter ondersteuning van donorkinderen en de omvorming van de Stichting donorgegevens kunstmatige bevruchting tot publiekrechtelijk zelfstandig bestuursorgaan](https://wetten.overheid.nl/jci1.3:c:BWBR0048615) (Stb. 2023, 294, door hem zijn gebruikt bij een kunstmatige donorbevruchting, doet de verrichter bij de verstrekking van de gegevens, bedoeld in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1b&z=2025-07-05&g=2025-07-05), daarvan mededeling aan het College.
+
+2. Alvorens op grond van [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1c&z=2025-07-05&g=2025-07-05) aan de toegekende donorcode een of meerdere moedercodes te koppelen, verstrekt het College aan de verrichter, bedoeld in het eerste lid, een overzicht van de bij hem berustende gegevens over elke vrouw bij wie kunstmatige donorbevruchting heeft plaatsgevonden met gebruikmaking van zaadcellen of eicellen van de donor, bedoeld in het eerste lid. Indien uit de bij het College berustende gegevens blijkt dat ook een andere verrichter de geslachtscellen van de betreffende donor bij een kunstmatige donorbevruchting heeft gebruikt, verstrekt het College ook een overzicht aan die andere verrichter.
+
+3. De verrichter, bedoeld in het tweede lid, vergewist zich van de juistheid en volledigheid van het overzicht en doet daarvan mededeling aan het College. De verrichter vult het overzicht aan door verstrekking van de gegevens, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), van elke vrouw bij wie kunstmatige donorbevruchting heeft plaatsgevonden met gebruikmaking van zaadcellen of eicellen van de donor, bedoeld in het eerste lid, indien deze gegevens in het door het College verstrekte overzicht ontbreken.
+
+4. Bij de toepassing van [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1c&z=2025-07-05&g=2025-07-05) bedraagt het aantal door het College aan de donorcode van de donor, bedoeld in het eerste lid, te koppelen moedercodes ten hoogste het wettelijk maximumaantal moedercodes of het door de donor bepaalde lagere maximumaantal minus het aantal vrouwen bij wie blijkens het overzicht of de overzichten kunstmatige donorbevruchting heeft plaatsgevonden met gebruikmaking van zaadcellen of eicellen van de donor.
+
+5. Het College kent eenmalig een moedercode toe aan elke vrouw bij wie voorafgaand aan de inwerkingtreding van de in het eerste lid genoemde [wet kunstmatige donorbevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0048615) heeft plaatsgevonden met gebruikmaking van zaadcellen of eicellen van de donor, bedoeld in het eerste lid. Het College doet hiervan mededeling aan de betrokken verrichter of verrichters.
+
+6. Bij de toepassing van [artikel 1d, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=1a&artikel=1d&z=2025-07-05&g=2025-07-05), reserveert het College ten behoeve van de verrichter, bedoeld in het eerste lid, ten hoogste het aantal moedercodes dat na toepassing van het vierde en vijfde lid nog beschikbaar is.
+
 ##### Artikel 13a
 
-Het College verstrekt aan de huisarts van degene die is verwekt door en ten gevolge van kunstmatige donorbevruchting, op zijn verzoek, de medische gegevens, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), zoals deze luidde voorafgaand aan de inwerkingtreding van de [Wet van 25 augustus 2023 tot wijziging van de Wet donorgegevens kunstmatige bevruchting in verband met de tweede evaluatie van de wet, het actieplan ter ondersteuning van donorkinderen en de omvorming van de Stichting donorgegevens kunstmatige bevruchting tot publiekrechtelijk zelfstandig bestuursorgaan](https://wetten.overheid.nl/jci1.3:c:BWBR0048615) (Stb. 2023, 294, met uitzondering van gegevens over de bloedgroep, rhesusfactor of bloedgroeptypering van de donor.
+Het College verstrekt aan de huisarts van degene die is verwekt door en ten gevolge van kunstmatige donorbevruchting, op zijn verzoek, de medische gegevens, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2025-07-05&g=2025-07-05), zoals deze luidde voorafgaand aan de inwerkingtreding van de [Wet van 25 augustus 2023 tot wijziging van de Wet donorgegevens kunstmatige bevruchting in verband met de tweede evaluatie van de wet, het actieplan ter ondersteuning van donorkinderen en de omvorming van de Stichting donorgegevens kunstmatige bevruchting tot publiekrechtelijk zelfstandig bestuursorgaan](https://wetten.overheid.nl/jci1.3:c:BWBR0048615) (Stb. 2023, 294, met uitzondering van gegevens over de bloedgroep, rhesusfactor of bloedgroeptypering van de donor.
 
 ##### Artikel 13b
 
-Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vijf jaar na de inwerkingtreding van de [Wet van 25 augustus 2023 tot wijziging van de Wet donorgegevens kunstmatige bevruchting in verband met de tweede evaluatie van de wet, het actieplan ter ondersteuning van donorkinderen en de omvorming van de Stichting donorgegevens kunstmatige bevruchting tot publiekrechtelijk zelfstandig bestuursorgaan](https://wetten.overheid.nl/jci1.3:c:BWBR0048615) (Stb. 2023, 294), en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vijf jaar na de inwerkingtreding van de [Wet van 25 augustus 2023 tot wijziging van de Wet donorgegevens kunstmatige bevruchting in verband met de tweede evaluatie van de wet, het actieplan ter ondersteuning van donorkinderen en de omvorming van de Stichting donorgegevens kunstmatige bevruchting tot publiekrechtelijk zelfstandig bestuursorgaan](https://wetten.overheid.nl/jci1.3:c:BWBR0048615) (Stb. 2023, 294), en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 14
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan luiden met uitzondering van [artikel 3, tweede lid, tweede volzin, en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2025-07-05&g=2025-07-05), welke bepalingen in werking treden met ingang van de eerste kalendermaand na verloop van twee jaren na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+
+##### Artikel 15
+
+Deze wet wordt aangehaald als: Wet donorgegevens kunstmatige bevruchting.

@@ -1,48 +1,18 @@
 ---
 title: "Wet van 29 november 2001 tot invoering van de Wet structuur uitvoeringsorganisatie werk en inkomen (Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen)"
+citeertitel: "Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen"
 identifier: "BWBR0013061"
-country: "nl"
-rank: "wet"
-publication_date: "2009-08-01"
-last_updated: "2009-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013061"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1653473"
-version_id: "2442882"
-internal_id: "C2442881"
-label_id: "1607814"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013061/2009-08-01/0"
-intitule_bron: "Stb.2001-625"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-29"
-intitule_published: "2001-12-18"
-intitule_in_force: "2001-12-27"
-intitule_status: "goed"
-original_publication: "Stb.2001-625"
-original_signed_date: "2001-11-29"
-original_published_date: "2001-12-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "27665"
-original_url_id: "stb-2001-625"
-entry_into_force_date: "2002-01-01"
-entry_into_force_dossier: "27665"
-jci_1_3: "jci1.3:c:BWBR0013061&z=2009-08-01&g=2009-08-01"
-jci_1_0: "1.0:c:BWBR0013061&g=2009-08-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen"
-signed_date: "2001-11-29"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2009-08-01
+status: geldig
+toestand: 2009-08-01
+bron: "https://wetten.overheid.nl/BWBR0013061"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 29 november 2001 tot invoering van de Wet structuur uitvoeringsorganisatie werk en inkomen (Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de invoering van de Wet structuur uitvoeringsorganisatie werk en inkomen en enkele daarmee samenhangende onderwerpen te regelen, zulks onder intrekking van de Organisatiewet sociale verzekeringen 1997, de [Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367) en de wetten ter invoering van die wetten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Definities
 
@@ -234,7 +204,7 @@ De rechten en verplichtingen van het Landelijk instituut sociale verzekeringen e
 
 3. De door Onze Minister op grond van artikel 25, eerste lid, onderdeel f, of artikel 38, eerste lid, onderdeel k, van de Organisatiewet sociale verzekeringen 1997 aangewezen algemene maatregelen van bestuur en ministeriële regelingen, waarvan de uitvoering is opgedragen aan de Sociale verzekeringsbank, onderscheidenlijk het Landelijk instituut sociale verzekeringen, worden aangemerkt als algemene maatregelen van bestuur en ministeriële regelingen waarvan de uitvoering op grond van [artikel 34, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34), of [artikel 30, eerste lid, onderdeel i, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30) is opgedragen aan de Sociale verzekeringsbank, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen.
 
-### Hoofdstuk 3. Overgangsrecht [Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367)
+### Hoofdstuk 3. Overgangsrecht Arbeidsvoorzieningswet 1996
 
 ##### Artikel 27. Intrekking wetten
 
@@ -284,7 +254,7 @@ Aan de voorzitter, de plaatsvervangend voorzitters, de leden en de plaatsvervang
 
 De rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie die voortvloeien uit de arbeidsovereenkomsten met haar werknemers, daaronder begrepen die welke voortvloeien uit een toezegging omtrent pensioen als bedoeld in [artikel 1 van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1), gaan over op de Centrale organisatie werk en inkomen.
 
-##### Artikel 35. Regelingen op grond van de [artikelen 75](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=75) en [77 van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=77)
+##### Artikel 35. Regelingen op grond van de artikelen 75 en 77 van de Arbeidsvoorzieningswet 1996
 
 1. De regelingen van het Centraal Bestuur voor de Arbeidsvoorziening op grond van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=75), onderscheidenlijk [artikel 77, tweede volzin, van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=77) gelden met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) als regelingen van de Centrale organisatie werk en inkomen op grond van [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=25), onderscheidenlijk [artikel 25, tweede lid, tweede volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=25).
 
@@ -374,377 +344,377 @@ Verzoeken om goedkeuring als bedoeld in [artikel 10](https://wetten.overheid.nl/
 
 #### § 1. Sociale Zaken en Werkgelegenheid
 
-##### Artikel 43. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel 43. Werkloosheidswet
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
-##### Artikel 44. Overgangsrecht wijziging [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel 44. Overgangsrecht wijziging Werkloosheidswet
 
 A. Regelingen van het Landelijk instituut sociale verzekeringen op grond van de [artikelen 16, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), [17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=17a), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18), [19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20), [21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=21), [27c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27c), [36b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36b), [52d, vijfde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52d), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 16, zevende lid, 17a, vierde lid, 18, tweede lid, 19, vijfde lid, 20, zesde lid, 21, vierde lid, 27c, derde lid, 36b, 52d, vijfde lid, van de Werkloosheidswet.
 
-B. Vervallen.
+B. *Vervallen.*
 
-##### Artikel 45. Voorstel van wet tot wijziging van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) in verband met de invoering van een regeling inzake de financiering van kinderopvang voor uitkeringsgerechtigden
+##### Artikel 45. Voorstel van wet tot wijziging van de Werkloosheidswet en de Wet op de (re)integratie arbeidsgehandicapten in verband met de invoering van een regeling inzake de financiering van kinderopvang voor uitkeringsgerechtigden
 
-Wijzigt de Werkloosheidswet en de Wet op de (re)integratie arbeidsgehandicapten.
+*Wijzigt de Werkloosheidswet en de Wet op de (re)integratie arbeidsgehandicapten.*
 
-##### Artikel 46. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
+##### Artikel 46. Toeslagenwet
 
-Wijzigt de Toeslagenwet.
+*Wijzigt de Toeslagenwet.*
 
-##### Artikel 47. Overgangsrecht wijziging [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
+##### Artikel 47. Overgangsrecht wijziging Toeslagenwet
 
 A. Door het Landelijk instituut sociale verzekeringen, op grond van de [artikelen 14c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14c), en [20b, tweede lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20b) zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 14c, derde lid, en 20b, tweede lid, van de Toeslagenwet.
 
-B. Wijzigt de Toeslagenwet.
+B. *Wijzigt de Toeslagenwet.*
 
-##### Artikel 48. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel 48. Wet op de arbeidsongeschiktheidsverzekering
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
-##### Artikel 49. Overgangsrecht wijziging [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel 49. Overgangsrecht wijziging Wet op de arbeidsongeschiktheidsverzekering
 
 A. Door het Landelijk instituut sociale verzekeringen, op grond van de [artikelen 57b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57b), en [29c, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29c), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 57b en 29c, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering.
 
-B. Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+B. *Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
-##### Artikel 50. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+##### Artikel 50. Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
-Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
+*Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.*
 
-##### Artikel 51. Overgangsrecht wijziging [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+##### Artikel 51. Overgangsrecht wijziging Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
 A. Door het Landelijk instituut sociale verzekeringen, op grond van de [artikelen 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=50), en [65, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=65), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 50, derde lid, en 65 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
-B. Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
+B. *Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.*
 
-##### Artikel 52. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+##### Artikel 52. Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.*
 
-##### Artikel 53. Overgangsrecht wijziging [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+##### Artikel 53. Overgangsrecht wijziging Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 
 A. Door het Landelijk instituut sociale verzekeringen, op grond van de [artikelen 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=42), en [57, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=57), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 42, derde lid, en 57 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
-B. Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
+B. *Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.*
 
-##### Artikel 54. [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](https://wetten.overheid.nl/jci1.3:c:BWBR0007891)
+##### Artikel 54. Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria
 
-Wijzigt de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria.
+*Wijzigt de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria.*
 
-##### Artikel 55. [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072)
+##### Artikel 55. Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen
 
-Wijzigt de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen.
+*Wijzigt de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen.*
 
-##### Artikel 56. [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658)
+##### Artikel 56. Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen
 
-Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.
+*Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.*
 
-##### Artikel 57. [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel 57. Wet op de (re)integratie arbeidsgehandicapten
 
-Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.
+*Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.*
 
-##### Artikel 58. Overgangsrecht wijziging [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel 58. Overgangsrecht wijziging Wet op de (re)integratie arbeidsgehandicapten
 
 De regeling van het Landelijk instituut sociale verzekeringen op grond van [artikel 21, zevende lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=21), zoals dit artikel luidde op de datum vóór het tijdstip van inwerkingtreding van deze wet, geldt met ingang van dat tijdstip als regeling van Onze Minister op grond van [artikel 21, zevende lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=21).
 
-##### Artikel 59. [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551)
+##### Artikel 59. Wet overgangsregeling arbeidsongeschiktheidsverzekering
 
-Wijzigt de Wet overgangsregeling arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet overgangsregeling arbeidsongeschiktheidsverzekering.*
 
-##### Artikel 60. [Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0002762)
+##### Artikel 60. Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekeringen
 
-Wijzigt de Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekeringen.
+*Wijzigt de Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekeringen.*
 
-##### Artikel 61. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel 61. Ziektewet
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
-##### Artikel 62. Overgangsrecht wijziging [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel 62. Overgangsrecht wijziging Ziektewet
 
 A. Door het Landelijk instituut sociale verzekeringen, op grond van de [artikelen 33b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33b), en [45c, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45c), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels, gelden met ingang van dat tijdstip als ministeriële regelingen op grond van artikel 33b en 45c, derde lid, van de Ziektewet.
 
-B. Wijzigt de Ziektewet.
+B. *Wijzigt de Ziektewet.*
 
-##### Artikel 63. Wet [overgangsregeling Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002552)
+##### Artikel 63. Wet overgangsregeling Ziektewet
 
-Wijzigt de Overgangsregeling Ziektewet.
+*Wijzigt de Overgangsregeling Ziektewet.*
 
-##### Artikel 64. [Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046)
+##### Artikel 64. Invoeringswet stelselherziening sociale zekerheid
 
-Wijzigt de Invoeringswet stelselherziening sociale zekerheid.
+*Wijzigt de Invoeringswet stelselherziening sociale zekerheid.*
 
-##### Artikel 65. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+##### Artikel 65. Algemene Kinderbijslagwet
 
-Wijzigt de Algemene Kinderbijslagwet.
+*Wijzigt de Algemene Kinderbijslagwet.*
 
-##### Artikel 66. Overgangsrecht wijziging [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+##### Artikel 66. Overgangsrecht wijziging Algemene Kinderbijslagwet
 
 A. Door de Sociale verzekeringsbank, op grond van de [artikelen 17c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17c), en [24b, tweede lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24b), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 17c, derde lid, en 24b van de Algemene Kinderbijslagwet.
 
-B. Wijzigt de Algemene Kinderbijslagwet.
+B. *Wijzigt de Algemene Kinderbijslagwet.*
 
-##### Artikel 67. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+##### Artikel 67. Algemene nabestaandenwet
 
-Wijzigt de Algemene nabestaandenwet.
+*Wijzigt de Algemene nabestaandenwet.*
 
-##### Artikel 68. Overgangsrecht wijziging [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+##### Artikel 68. Overgangsrecht wijziging Algemene nabestaandenwet
 
 A. Door de Sociale verzekeringsbank, op grond van de [artikelen 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=41), en [55, tweede lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=55), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 41, derde lid, en 55 van de Algemene nabestaandenwet.
 
-B. Wijzigt de Algemene nabestaandenwet.
+B. *Wijzigt de Algemene nabestaandenwet.*
 
-##### Artikel 69. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+##### Artikel 69. Algemene Ouderdomswet
 
-Wijzigt de Algemene Ouderdomswet.
+*Wijzigt de Algemene Ouderdomswet.*
 
-##### Artikel 70. Overgangsrecht wijziging [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+##### Artikel 70. Overgangsrecht wijziging Algemene Ouderdomswet
 
 A. Door de Sociale verzekeringsbank, op grond van de [artikelen 17e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17e), en [24b, tweede lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24b), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 17e, derde lid, en 24b van de Algemene Ouderdomswet.
 
-B. Wijzigt de Algemene Ouderdomswet.
+B. *Wijzigt de Algemene Ouderdomswet.*
 
-##### Artikel 71. [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538)
+##### Artikel 71. Wet financiering volksverzekeringen
 
-Wijzigt de Wet financiering volksverzekeringen.
+*Wijzigt de Wet financiering volksverzekeringen.*
 
-##### Artikel 72. [Wet privatisering FVP](https://wetten.overheid.nl/jci1.3:c:BWBR0009756)
+##### Artikel 72. Wet privatisering FVP
 
-Wijzigt de Wet privatisering FVP.
+*Wijzigt de Wet privatisering FVP.*
 
-##### Artikel 73. [Wet premieregime bij marginale arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0008510)
+##### Artikel 73. Wet premieregime bij marginale arbeid
 
-Wijzigt de Wet premieregeling bij marginale arbeid.
+*Wijzigt de Wet premieregeling bij marginale arbeid.*
 
-##### Artikel 74. [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126)
+##### Artikel 74. Coördinatiewet Sociale Verzekering
 
-Wijzigt de Coördinatiewet Sociale Verzekering.
+*Wijzigt de Coördinatiewet Sociale Verzekering.*
 
-##### Artikel 75. [Wet invoering mutatiesysteem AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0005306)
+##### Artikel 75. Wet invoering mutatiesysteem AKW
 
-Wijzigt de Wet invoering mutatiesysteem AKW.
+*Wijzigt de Wet invoering mutatiesysteem AKW.*
 
-##### Artikel 76. [Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333)
+##### Artikel 76. Algemene bijstandswet
 
-Wijzigt de Algemene bijstandswet.
+*Wijzigt de Algemene bijstandswet.*
 
-##### Artikel 77. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
+##### Artikel 77. Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.*
 
-##### Artikel 78. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
+##### Artikel 78. Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.*
 
-##### Artikel 79. [Wet financiering Abw, IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0011670)
+##### Artikel 79. Wet financiering Abw, IOAW en IOAZ
 
-Wijzigt de Wet financiering Abw, IOAW en IOAZ.
+*Wijzigt de Wet financiering Abw, IOAW en IOAZ.*
 
-##### Artikel 80. [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
+##### Artikel 80. Wet sociale werkvoorziening
 
-Wijzigt de Wet sociale werkvoorziening.
+*Wijzigt de Wet sociale werkvoorziening.*
 
-##### Artikel 81. [Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083)
+##### Artikel 81. Wet inschakeling werkzoekenden
 
-Wijzigt de Wet inschakeling werkzoekenden.
+*Wijzigt de Wet inschakeling werkzoekenden.*
 
-##### Artikel 82. [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344)
+##### Artikel 82. Wet inkomensvoorziening kunstenaars
 
-Wijzigt de Wet inkomensvoorziening kunstenaars.
+*Wijzigt de Wet inkomensvoorziening kunstenaars.*
 
-##### Artikel 83. [Wet stimulering arbeidsdeelname minderheden](https://wetten.overheid.nl/jci1.3:c:BWBR0006670)
+##### Artikel 83. Wet stimulering arbeidsdeelname minderheden
 
-Wijzigt de Wet stimulering arbeidsdeelname minderheden.
+*Wijzigt de Wet stimulering arbeidsdeelname minderheden.*
 
-##### Artikel 84. [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
+##### Artikel 84. Wet allocatie arbeidskrachten door intermediairs
 
-Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
+*Wijzigt de Wet allocatie arbeidskrachten door intermediairs.*
 
-##### Artikel 85. [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
+##### Artikel 85. Wet arbeid vreemdelingen
 
-Wijzigt de Wet arbeid vreemdelingen.
+*Wijzigt de Wet arbeid vreemdelingen.*
 
-##### Artikel 86. [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014)
+##### Artikel 86. Buitengewoon Besluit Arbeidsverhoudingen 1945
 
-Wijzigt het Buitengewoon Besluit Arbeidsverhoudingen 1945.
+*Wijzigt het Buitengewoon Besluit Arbeidsverhoudingen 1945.*
 
-##### Artikel 87. [Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026)
+##### Artikel 87. Wet melding collectief ontslag
 
-Wijzigt de Wet melding collectief ontslag.
+*Wijzigt de Wet melding collectief ontslag.*
 
-##### Artikel 88. [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747)
+##### Artikel 88. Wet op de ondernemingsraden
 
-Wijzigt de Wet op de ondernemingsraden.
+*Wijzigt de Wet op de ondernemingsraden.*
 
-##### Artikel 89. [Noodwet Arbeidsvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002759)
+##### Artikel 89. Noodwet Arbeidsvoorziening
 
-Wijzigt de Noodwet Arbeidsvoorziening.
+*Wijzigt de Noodwet Arbeidsvoorziening.*
 
 ##### Artikel 90. Wet financiering loopbaanonderbreking
 
-Wijzigt de Wet financiering loopbaanonderbreking.
+*Wijzigt de Wet financiering loopbaanonderbreking.*
 
-##### Artikel 91. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
+##### Artikel 91. Wet arbeid en zorg
 
-Wijzigt de Wet arbeid en zorg.
+*Wijzigt de Wet arbeid en zorg.*
 
 #### § 2. Justitie
 
-##### Artikel 92. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 92. Algemene wet bestuursrecht
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
-##### Artikel 93. [Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170)
+##### Artikel 93. Beroepswet
 
-Wijzigt de Beroepswet.
+*Wijzigt de Beroepswet.*
 
-##### Artikel 94. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045)
+##### Artikel 94. Burgerlijk Wetboek
 
-Wijzigt Boek 2 en Boek 7 van het Burgerlijk Wetboek.
+*Wijzigt Boek 2 en Boek 7 van het Burgerlijk Wetboek.*
 
-##### Artikel 95. [Wet Landelijk Bureau Inning Onderhoudsbijdragen](https://wetten.overheid.nl/jci1.3:c:BWBR0007292)
+##### Artikel 95. Wet Landelijk Bureau Inning Onderhoudsbijdragen
 
-Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.
+*Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.*
 
-##### Artikel 96. [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830)
+##### Artikel 96. Wet op de rechterlijke organisatie
 
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
 
-##### Artikel 97. [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368)
+##### Artikel 97. Wet op de rechtsbijstand
 
-Wijzigt de Wet op de rechtsbijstand.
+*Wijzigt de Wet op de rechtsbijstand.*
 
 #### § 3. Binnenlandse Zaken en Koninkrijksrelaties
 
-##### Artikel 98. [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691)
+##### Artikel 98. Algemene pensioenwet politieke ambtsdragers
 
-Wijzigt de Algemene wet politieke ambtsdragers.
+*Wijzigt de Algemene wet politieke ambtsdragers.*
 
-##### Artikel 99. [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947)
+##### Artikel 99. Ambtenarenwet
 
-Wijzigt de Ambtenarenwet.
+*Wijzigt de Ambtenarenwet.*
 
-##### Artikel 100. [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791)
+##### Artikel 100. Wet privatisering ABP
 
-Wijzigt de Wet privatisering ABP.
+*Wijzigt de Wet privatisering ABP.*
 
-##### Artikel 101. [Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211)
+##### Artikel 101. Wet financiële voorzieningen privatisering ABP
 
-Wijzigt de Wet financiële voorzieningen privatisering ABP.
+*Wijzigt de Wet financiële voorzieningen privatisering ABP.*
 
-##### Artikel 102. [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723)
+##### Artikel 102. Wet gemeentelijke basisadministratie persoonsgegevens
 
-Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.
+*Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.*
 
-##### Artikel 103. [Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544)
+##### Artikel 103. Wet inburgering nieuwkomers
 
-Wijzigt de Wet inburgering nieuwkomers.
+*Wijzigt de Wet inburgering nieuwkomers.*
 
-##### Artikel 104. [Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267)
+##### Artikel 104. Wet overheidspersoneel onder de werknemersverzekeringen
 
-Wijzigt de Wet overheidspersoneel onder de werknemersverzekeringen.
+*Wijzigt de Wet overheidspersoneel onder de werknemersverzekeringen.*
 
-##### Artikel 105. [Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612)
+##### Artikel 105. Wet Incompatibiliteiten Staten-Generaal en Europees Parlement
 
-Wijzigt de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.
+*Wijzigt de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.*
 
-##### Artikel 106. [Samenloopregeling Indonesische pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414)
+##### Artikel 106. Samenloopregeling Indonesische pensioenen 1960
 
-Wijzigt de Samenloopregeling Indonesische pensioenen 1960.
+*Wijzigt de Samenloopregeling Indonesische pensioenen 1960.*
 
-##### Artikel 107. [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424)
+##### Artikel 107. Remigratiewet
 
-Wijzigt de Remigratiewet.
+*Wijzigt de Remigratiewet.*
 
-##### Artikel 108. [Wet aanpassing pensioenvoorzieningen Bijstandkorps](https://wetten.overheid.nl/jci1.3:c:BWBR0002507)
+##### Artikel 108. Wet aanpassing pensioenvoorzieningen Bijstandkorps
 
-Wijzigt de Wet aanpassing pensioenvoorzieningen Bijstandkorps.
+*Wijzigt de Wet aanpassing pensioenvoorzieningen Bijstandkorps.*
 
 #### § 4. Onderwijs, Cultuur en Wetenschappen
 
-##### Artikel 109. [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
+##### Artikel 109. Wet op de expertisecentra
 
-Wijzigt de Wet op de expertisecentra.
+*Wijzigt de Wet op de expertisecentra.*
 
-##### Artikel 110. [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955)
+##### Artikel 110. Wet op de studiefinanciering
 
-Wijzigt de Wet op de studiefinanciering.
+*Wijzigt de Wet op de studiefinanciering.*
 
 ##### Artikel 111. Wet tegemoetkoming studiekosten
 
-Wijzigt de Wet tegemoetkoming studiekosten.
+*Wijzigt de Wet tegemoetkoming studiekosten.*
 
-##### Artikel 112. [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+##### Artikel 112. Wet op het hoger onderwijs en wetenschappelijk onderzoek
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
 
-##### Artikel 113. [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
+##### Artikel 113. Wet op het primair onderwijs
 
-Wijzigt de Wet op het primair onderwijs.
+*Wijzigt de Wet op het primair onderwijs.*
 
-##### Artikel 114. [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399)
+##### Artikel 114. Wet op het voortgezet onderwijs
 
-Wijzigt de Wet op het voortgezet onderwijs.
+*Wijzigt de Wet op het voortgezet onderwijs.*
 
 ##### Artikel 115. Voorstel van wet tot wijziging van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs
 
-Wijzigt de Wet verzelfstandiging Informatiseringsbank.
+*Wijzigt de Wet verzelfstandiging Informatiseringsbank.*
 
 #### § 5. Financiën
 
-##### Artikel 116. [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509)
+##### Artikel 116. Wet toezicht verzekeringsbedrijf 1993
 
-Wijzigt de Wet toezicht verzekeringsbedrijf 1993.
+*Wijzigt de Wet toezicht verzekeringsbedrijf 1993.*
 
-##### Artikel 117. [Intrekkingswet Beleggingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004446)
+##### Artikel 117. Intrekkingswet Beleggingswet
 
-Wijzigt de Intrekkingswet Beleggingswet.
+*Wijzigt de Intrekkingswet Beleggingswet.*
 
-##### Artikel 118. [Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0003933)
+##### Artikel 118. Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden
 
-Wijzigt de Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden.
+*Wijzigt de Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden.*
 
-##### Artikel 119. [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746)
+##### Artikel 119. Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 #### § 6. Defensie
 
-##### Artikel 120. [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822)
+##### Artikel 120. Wet arbeidsongeschiktheidsvoorziening militairen
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening militairen.
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening militairen.*
 
 #### § 7. Verkeer en Waterstaat
 
-##### Artikel 121. [Vaarplichtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002828)
+##### Artikel 121. Vaarplichtwet
 
-Wijzigt de Vaarplichtwet.
+*Wijzigt de Vaarplichtwet.*
 
-##### Artikel 122. [Wet privatisering Spoorwegpensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006319)
+##### Artikel 122. Wet privatisering Spoorwegpensioenfonds
 
-Wijzigt de Wet privatisering Spoorwegpensioenfonds.
+*Wijzigt de Wet privatisering Spoorwegpensioenfonds.*
 
 #### § 8. Economische Zaken
 
-##### Artikel 123. [Handelsregisterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007893)
+##### Artikel 123. Handelsregisterwet
 
-Wijzigt de Handelsregisterwet.
+*Wijzigt de Handelsregisterwet.*
 
 #### § 9. Volksgezondheid, Welzijn en Sport
 
-##### Artikel 124. [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
+##### Artikel 124. Algemene Wet Bijzondere Ziektekosten
 
-Wijzigt de Algemene Wet Bijzondere Ziektekosten.
+*Wijzigt de Algemene Wet Bijzondere Ziektekosten.*
 
-##### Artikel 125. [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460)
+##### Artikel 125. Ziekenfondswet
 
-Wijzigt de Ziekenfondswet.
+*Wijzigt de Ziekenfondswet.*
 
 ### Hoofdstuk 5. Overige en slotbepalingen
 
-##### Artikel 126. Wijziging in verband met het voorstel van [Wet verbetering poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063)
+##### Artikel 126. Wijziging in verband met het voorstel van Wet verbetering poortwachter
 
-Wijzigt de Ziektewet, de Wet op de arbeidsongeschikheidsverzekering, de Wet op de (re)integratie arbeidsgehandicapten, de Wet op de arbeidsongeschiktheidsverzekering zelfstandigen, de Wet op de arbeidsongeschiktheidsvoorziening jonggehandicapten, Boek 7 van het Burgerlijk Wetboek, de Wet terugdringing ziekteverzuim en de Wet verbetering poortwachter.
+*Wijzigt de Ziektewet, de Wet op de arbeidsongeschikheidsverzekering, de Wet op de (re)integratie arbeidsgehandicapten, de Wet op de arbeidsongeschiktheidsverzekering zelfstandigen, de Wet op de arbeidsongeschiktheidsvoorziening jonggehandicapten, Boek 7 van het Burgerlijk Wetboek, de Wet terugdringing ziekteverzuim en de Wet verbetering poortwachter.*
 
 ##### Artikel 127. Regelgevende bevoegdheden ten behoeve van de invoering
 
@@ -770,7 +740,7 @@ Een rechtshandeling die door een uitvoeringsinstelling, een houdstermaatschappij
 
 ##### Artikel 130
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 131. Intrekking wetten
 
@@ -797,174 +767,3 @@ De volgende wetten worden ingetrokken:
 ##### Artikel 133. Citeertitel
 
 Deze wet wordt aangehaald als: Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen.
-
-## Inhoudsopgave
-
-| **HOOFDSTUK 1. DEFINITIES** | **1** |
-| --- | --- |
-|   |   |
-| Artikel 1. Algemene begrippen | 1 |
-|   |   |
-| **HOOFDSTUK 2. OVERGANGSRECHT ORGANISATIEWET SOCIALE VERZEKERINGEN 1997** | **2** |
-|   |   |
-| Artikel 2. Intrekking wetten | 2 |
-| Artikel 3. Handhaving Sociale Verzekeringsbank | 2 |
-| Artikel 4. Overgang vermogensbestanddelen van Lisv naar UWV | 2 |
-| Artikel 5. Overgang vermogensbestanddelen van uitvoeringsinstellingen naar UWV | 3 |
-| Artikel 6. Overgang vermogensbestanddelen van stichting VUWV naar UWV | 3 |
-| Artikel 7. Overgang vermogensbestanddelen van Ctsv naar Staat (SZW) | 4 |
-| Artikel 8. Overdrachtsbelasting inschrijving openbare registers | 4 |
-| Artikel 9. Overgang publiekrechtelijke rechten en verplichtingen van Lisv en uvi's naar UWV | 4 |
-| Artikel 10. Overgang publiekrechtelijke rechten en verplichtingen van Ctsv naar Minister van SZW | 4 |
-| Artikel 11. Partijvervanging van Lisv en beroepstermijn | 4 |
-| Artikel 12. Partijvervanging van uvi's en beroepstermijn | 5 |
-| Artikel 13. Partijvervanging van Ctsv in civielrechtelijke gedingen | 5 |
-| Artikel 14. Partijvervanging Ctsv in bestuursrechtelijke gedingen en beroepstermijn | 5 |
-| Artikel 15. Beëindiging gedingen | 5 |
-| Artikel 16. Beëindiging bezwaarschriftenprocedures | 5 |
-| Artikel 17. Overgang van bezwaarschriftenprocedures van Lisv naar UWV | 5 |
-| Artikel 18. Overgang van bezwaarschriftenprocedures van Ctsv naar Minister van SZW | 6 |
-| Artikel 19. Ontslag bestuursleden | 6 |
-| Artikel 20. Rechtspositionele aanspraken bestuursleden | 6 |
-| Artikel 21. Overgang personeel Lisv en uvi's | 6 |
-| Artikel 22. Overgang personeel Ctsv | 6 |
-| Artikel 23. Opheffing commissies | 6 |
-| Artikel 24. Overgang lagere regelgeving | 7 |
-| Artikel 25. Overgang regelgevende bevoegdheden | 7 |
-| Artikel 26. Overgang toestemmingen, verplichtingen en opdrachten in verband met andere taken | 7 |
-|   |   |
-| **HOOFDSTUK 3. OVERGANGSRECHT ARBEIDSVOORZIENINGSWET 1996** | **8** |
-|   |   |
-| Artikel 27. Intrekking wetten | 8 |
-| Artikel 28. Overgang vermogen | 8 |
-| Artikel 29. Overgang publiekrechtelijke rechten en verplichtingen, besluiten en aanvragen | 8 |
-| Artikel 30. Partijvervanging en beroepstermijn | 8 |
-| Artikel 31. Overgang van bestuursrechtelijke procedures | 8 |
-| Artikel 32. Overgang bezwaarschriften en bezwaartermijn | 9 |
-| Artikel 33. Ontslag functionarissen | 9 |
-| Artikel 34. Overgang personeel | 9 |
-| Artikel 35. Regelingen op grond van de artikelen 75 en 77 van de Arbeidsvoorzieningswet 1996 | 9 |
-| Artikel 36. Registratie als werkzoekende | 9 |
-| Artikel 37. Goedkeuring deelnemingen en geldleningen | 9 |
-| Artikel 38. Overgangsbepalingen overgang verantwoordelijkheid arbeidsgehandicapten | 10 |
-| Artikel 39. Bijzondere overgangsbepalingen in verband met de Wet verzelfstandiging reïntegratiediensten Arbeidsvoorzieningsorganisatie | 10 |
-| Artikel 40. Ontslagbescherming werknemers van de Centrale organisatie werk en inkomen | 10 |
-| Artikel 41. Ontslagcommissie | 11 |
-| Artikel 42. Overgang ontslagbescherming | 12 |
-|   |   |
-| **HOOFDSTUK 4. WIJZIGING VAN ANDERE WETTEN** | **12** |
-|   |   |
-| **§ 1. Sociale Zaken en Werkgelegenheid** | **12** |
-|   |   |
-| Artikel 43. Werkloosheidswet | 12 |
-| Artikel 44. Overgangsrecht wijziging Werkloosheidswet | 26 |
-| Artikel 45. Voorstel van wet tot wijziging van de Werkloosheidswet en de Wet op de (re)integratie arbeidsgehandicapten in verband met de invoering van een regeling inzake de financiering van kinderopvang voor uitkeringsgerechtigden | 26 |
-| Artikel 46. Toeslagenwet | 26 |
-| Artikel 47. Overgangsrecht wijziging Toeslagenwet | 29 |
-| Artikel 48. Wet op de arbeidsongeschiktheidsverzekering | 29 |
-| Artikel 49. Overgangsrecht wijziging Wet op de arbeidsongeschiktheidsverzekering | 33 |
-| Artikel 50. Wet arbeidsongeschiktheidsverzekering zelfstandigen | 33 |
-| Artikel 51. Overgangsrecht wijziging Wet arbeidsongeschiktheidsverzekering zelfstandigen | 35 |
-| Artikel 52. Wet arbeidsongeschiktheidsvoorziening jonggehandicapten | 36 |
-| Artikel 53. Overgangsrecht wijziging Wet arbeidsongeschiktheidsvoorziening jonggehandicapten | 37 |
-| Artikel 54. Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria | 37 |
-| Artikel 55. Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen | 38 |
-| Artikel 56. Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen | 38 |
-| Artikel 57. Wet op de (re)integratie arbeidsgehandicapten | 38 |
-| Artikel 58. Overgangsrecht wijziging Wet op de (re)integratie arbeidsgehandicapten | 48 |
-| Artikel 59. Wet overgangsregeling arbeidsongeschiktheidsverzekering | 48 |
-| Artikel 60. Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekeringen | 48 |
-| Artikel 61. Ziektewet | 49 |
-| Artikel 62. Overgangsrecht wijziging Ziektewet | 52 |
-| Artikel 63. Wet overgangsregeling Ziektewet | 52 |
-| Artikel 64. Invoeringswet stelselherziening sociale zekerheid | 52 |
-| Artikel 65. Algemene Kinderbijslagwet | 53 |
-| Artikel 66. Overgangsrecht wijziging Algemene Kinderbijslagwet | 54 |
-| Artikel 67. Algemene nabestaandenwet | 54 |
-| Artikel 68. Overgangsrecht wijziging Algemene nabestaandenwet | 56 |
-| Artikel 69. Algemene Ouderdomswet | 56 |
-| Artikel 70. Overgangsrecht wijziging Algemene Ouderdomswet | 57 |
-| Artikel 71. Wet financiering volksverzekeringen | 57 |
-| Artikel 72. Wet privatisering FVP | 58 |
-| Artikel 73. Wet premieregime bij marginale arbeid | 58 |
-| Artikel 74. Coördinatiewet Sociale Verzekering | 59 |
-| Artikel 75. Wet invoering mutatiesysteem AKW | 60 |
-| Artikel 76. Algemene bijstandswet | 60 |
-| Artikel 77. Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers | 68 |
-| Artikel 78. Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen | 75 |
-| Artikel 79. Wet financiering Abw, IOAW en IOAZ | 82 |
-| Artikel 80. Wet sociale werkvoorziening | 82 |
-| Artikel 81. Wet Inschakeling werkzoekenden | 84 |
-| Artikel 82. Wet inkomensvoorziening kunstenaars | 89 |
-| Artikel 83. Wet stimulering arbeidsdeelname minderheden | 89 |
-| Artikel 84. Wet allocatie arbeidskrachten door intermediairs | 90 |
-| Artikel 85. Wet arbeid vreemdelingen | 91 |
-| Artikel 86. Buitengewoon Besluit Arbeidsverhoudingen 1945 | 91 |
-| Artikel 87. Wet melding collectief ontslag | 91 |
-| Artikel 88. Wet op de ondernemingsraden | 92 |
-| Artikel 89. Noodwet Arbeidsvoorziening | 92 |
-| Artikel 90. Wet financiering loopbaanonderbreking | 93 |
-| Artikel 91. Wet arbeid en zorg | 94 |
-|   |   |
-| **§2. Justitie** | **95** |
-| Artikel 92. Algemene wet bestuursrecht | 95 |
-| Artikel 93. Beroepswet | 95 |
-| Artikel 94. Burgerlijk Wetboek | 95 |
-| Artikel 95. Wet Landelijk Bureau Inning Onderhoudsbijdragen | 96 |
-| Artikel 96. Wet op de rechterlijke organisatie | 96 |
-| Artikel 97. Wet op de rechtsbijstand | 96 |
-|   |   |
-| **§ 3. Binnenlandse Zaken en Koninkrijksrelaties** | **96** |
-| Artikel 98. Algemene pensioenwet politieke ambtsdragers | 96 |
-| Artikel 99. Ambtenarenwet | 96 |
-| Artikel 100. Wet privatisering ABP | 97 |
-| Artikel 101. Wet financiële voorzieningen privatisering ABP | 97 |
-| Artikel 102. Wet gemeentelijke basisadministratie persoonsgegevens | 97 |
-| Artikel 103. Wet inburgering nieuwkomers | 97 |
-| Artikel 104. Wet overheidspersoneel onder de werknemersverzekeringen | 98 |
-| Artikel 105. Wet Incompatibiliteiten Staten-Generaal en Europees Parlement | 99 |
-| Artikel 106. Samenloopregeling Indonesische pensioenen 1960 | 100 |
-| Artikel 107. Remigratiewet | 100 |
-| Artikel 108. Wet aanpassing pensioenvoorzieningen Bijstandkorps | 100 |
-|   |   |
-| **§ 4. Onderwijs, Cultuur en Wetenschappen** | **101** |
-| Artikel 109. Wet op de expertisecentra | 101 |
-| Artikel 110. Wet op de studiefinanciering | 101 |
-| Artikel 111. Wet tegemoetkoming studiekosten | 101 |
-| Artikel 112. Wet op het hoger onderwijs en wetenschappelijk onderzoek | 101 |
-| Artikel 113. Wet op het primair onderwijs | 101 |
-| Artikel 114. Wet op het voortgezet onderwijs | 101 |
-| Artikel 115. Voorstel van wet tot wijziging van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs | 101 |
-|   |   |
-| **§ 5. Financiën** | **102** |
-| Artikel 116. Wet toezicht verzekeringsbedrijf 1993 | 102 |
-| Artikel 117. Intrekkingswet Beleggingswet | 102 |
-| Artikel 118. Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden | 102 |
-| Artikel 119. Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen | 102 |
-|   |   |
-| **§ 6. Defensie** | **103** |
-| Artikel 120. Wet arbeidsongeschiktheidsvoorziening militairen | 103 |
-|   |   |
-| **§ 7. Verkeer en Waterstaat** | **103** |
-| Artikel 121. Vaarplichtwet | 103 |
-| Artikel 122. Wet privatisering Spoorwegpensioenfonds | 103 |
-|   |   |
-| **§ 8. Economische Zaken** | **103** |
-| Artikel 123. Handelsregisterwet | 103 |
-|   |   |
-| **§9. Volksgezondheid, Welzijn en Sport** | **104** |
-| Artikel 124. Algemene Wet Bijzondere Ziektekosten | 104 |
-| Artikel 125. Ziekenfondswet | 104 |
-|   |   |
-| **HOOFDSTUK 5. OVERIGE EN SLOTBEPALINGEN** | **105** |
-|   |   |
-| Artikel 126. Wijziging in verband met het voorstel van Wet verbetering poortwachter | 105 |
-| Artikel 127. Regelgevende bevoegdheden ten behoeve van de invoering | 105 |
-| Artikel 128. Regels voor overgang verantwoordelijkheid reïntegratie | 106 |
-| Artikel 129. Benadelingshandelingen | 106 |
-| Artikel 130. Vervallen | 106 |
-| Artikel 131. Intrekking wetten | 106 |
-| Artikel 132. Inwerkingtreding | 107 |
-| Artikel 133. Citeertitel | 107 |
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

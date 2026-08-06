@@ -1,48 +1,22 @@
 ---
 title: "Besluit van het Productschap Tuinbouw van 27 november 2002, houdende de vaststelling van de bedragen van de bestemmingsheffing ten behoeve van de teelt van fruit en champignons voor het jaar 2003 (Besluit 2003/1 PT bijzondere heffing fruit en champignons 2003 (hoog tarief))"
+citeertitel: "Besluit 2003/1 PT bijzondere heffing fruit en champignons 2003 (hoog tarief)"
 identifier: "BWBR0014337"
-country: "nl"
-rank: "pbo"
-publication_date: "2003-06-28"
-last_updated: "2003-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014337"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6083853"
-version_id: "10745372"
-internal_id: "C29093481"
-label_id: "6072934"
-original_entry_into_force: "2003-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014337/2003-06-28/0"
-intitule_bron: "Vbbo.2003-41"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-11-27"
-intitule_published: "2003-06-27"
-intitule_in_force: "2003-06-27"
-intitule_status: "goed"
-original_publication: "Vbbo.2003-41"
-original_signed_date: "2002-11-27"
-original_published_date: "2003-06-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-06-28"
-jci_1_3: "jci1.3:c:BWBR0014337&z=2003-06-28&g=2003-06-28"
-jci_1_0: "1.0:c:BWBR0014337&g=2003-06-28"
-citeertitel_status: "officieel"
-short_title: "Besluit 2003/1 PT bijzondere heffing fruit en champignons 2003 (hoog tarief)"
-signed_date: "2002-11-27"
-entry_into_force: "2003-06-28"
+publicatiedatum: 2003-06-28
+laatste_update: 2003-06-28
+status: geldig
+toestand: 2003-06-28
+bron: "https://wetten.overheid.nl/BWBR0014337"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van het Productschap Tuinbouw van 27 november 2002, houdende de vaststelling van de bedragen van de bestemmingsheffing ten behoeve van de teelt van fruit en champignons voor het jaar 2003 (Besluit 2003/1 PT bijzondere heffing fruit en champignons 2003 (hoog tarief))
-
-gelet op [artikel 4 , tweede lid, van de Verordening PT bijzondere heffing fruit en champignons 2003 (hoog tarief)](onbekend);
-
-gehoord de sectorcommissie Groenten en Fruit d.d. 7 november 2002;
-
-BESLUIT:
 
 ##### Artikel 1
 
-Voor de volgende, in het [eerste lid van artikel 4 van de Verordening PT bijzondere heffing fruit en champignons 2003 (hoog tarief)](onbekend) genoemde groepen, wordt de heffing voor het jaar 2003 als volgt vastgesteld:
+Voor de volgende, in het eerste lid van artikel 4 van de Verordening PT bijzondere heffing fruit en champignons 2003 (hoog tarief) genoemde groepen, wordt de heffing voor het jaar 2003 als volgt vastgesteld:
 
 | Groep | Omschrijving | Bedrag |
 | --- | --- | --- |
@@ -61,5 +35,3 @@ Dit besluit treedt in werking op de dag na publicatie in het Verordeningenblad B
 ##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit 2003/1 PT bijzondere heffing fruit en champignons 2003 (hoog tarief).
-
-Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie

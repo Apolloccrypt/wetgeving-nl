@@ -1,42 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 7 november 2002, houdende vaststelling bestemmingsheffing ten behoeve van de teelt van inlandse tarwe in Nederland voor het jaar 2003 (Heffingsverordening GZP inlandse tarwe jaar 2003)"
+citeertitel: "Heffingsverordening GZP inlandse tarwe jaar 2003"
 identifier: "BWBR0014190"
-country: "nl"
-rank: "pbo"
-publication_date: "2003-02-09"
-last_updated: "2003-02-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014190"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6051683"
-version_id: "10668162"
-internal_id: "C29084381"
-label_id: "6041004"
-original_entry_into_force: "2003-02-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014190/2003-02-09/0"
-intitule_bron: "Vbbo.2003-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-11-07"
-intitule_published: "2003-02-07"
-intitule_in_force: "2003-02-07"
-intitule_status: "goed"
-original_publication: "Vbbo.2003-10"
-original_signed_date: "2002-11-07"
-original_published_date: "2003-02-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-02-09"
-jci_1_3: "jci1.3:c:BWBR0014190&z=2003-02-09&g=2003-02-09"
-jci_1_0: "1.0:c:BWBR0014190&g=2003-02-09"
-citeertitel_status: "officieel"
-short_title: "Heffingsverordening GZP inlandse tarwe jaar 2003"
-signed_date: "2002-11-07"
-entry_into_force: "2003-02-09"
+publicatiedatum: 2003-02-09
+laatste_update: 2003-02-09
+status: geldig
+toestand: 2003-02-09
+bron: "https://wetten.overheid.nl/BWBR0014190"
+opgehaald: 2026-08-06
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 7 november 2002, houdende vaststelling bestemmingsheffing ten behoeve van de teelt van inlandse tarwe in Nederland voor het jaar 2003 (Heffingsverordening GZP inlandse tarwe jaar 2003)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 eerste en vierde lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 5](onbekend), [6](onbekend) en [7 van de Instellingsverordening akkerbouwproductschappen 1997](onbekend);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -55,7 +31,7 @@ Deze verordening verstaat onder:
 
 1. De ondernemer is verplicht over de hoeveelheden inlandse tarwe, welke hij in het jaar 2003 verwerkt of in loon laat verwerken tot producten, welke al dan niet na verdere be- of verwerking voor menselijke consumptie kunnen dienen, met uitzondering van de hoeveelheden, welke hij in opdracht en voor rekening van telers verwerkt, aan het productschap een heffing te betalen van € 0,45 per 1.000 kg tarwe.
 
-2. De onderneming is verplicht binnen 10 dagen na afloop van ieder kwartaal door middel van een hiertoe dienend opgavenformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de heffing, bedoeld in het eerste lid. De [Verordening Algemene Bepalingen GZP 1980](onbekend) is hierbij van toepassing.
+2. De onderneming is verplicht binnen 10 dagen na afloop van ieder kwartaal door middel van een hiertoe dienend opgavenformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de heffing, bedoeld in het eerste lid. De Verordening Algemene Bepalingen GZP 1980 is hierbij van toepassing.
 
 3. Ook wanneer in een bepaalde periode geen activiteiten hebben plaatsgevonden dient een opgave te worden gedaan.
 

@@ -1,321 +1,76 @@
 ---
 title: "Besluit van 20 augustus 2002, houdende het Warenwetbesluit Verduurzaamde vruchtenproducten 2002"
+citeertitel: "Warenwetbesluit verduurzaamde vruchtenproducten"
 identifier: "BWBR0013972"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-07-01"
-last_updated: "2017-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013972"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "3106623"
-version_id: "4804242"
-internal_id: "C5012041"
-label_id: "3071134"
-dtd_version: "2.0"
-original_entry_into_force: "2004-07-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013972/2017-07-01/0"
-intitule_bron: "Stb.2002-444"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-08-20"
-intitule_published: "2002-09-03"
-intitule_in_force: "2002-09-03"
-intitule_status: "goed"
-original_publication: "Stb.2002-444"
-original_signed_date: "2002-08-20"
-original_published_date: "2002-09-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-444"
-entry_into_force_date: "2004-07-12"
-jci_1_3: "jci1.3:c:BWBR0013972&z=2017-07-01&g=2017-07-01"
-jci_1_0: "1.0:c:BWBR0013972&g=2017-07-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit Verduurzaamde vruchtenproducten 2002"
-signed_date: "2002-08-20"
-entry_into_force: "2004-07-12"
+publicatiedatum: 2026-06-14
+laatste_update: 2026-06-14
+status: geldig
+toestand: 2026-06-14
+bron: "https://wetten.overheid.nl/BWBR0013972"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 20 augustus 2002, houdende het Warenwetbesluit Verduurzaamde vruchtenproducten 2002
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 12 juli 2002, VGB/VL 2300053, gedaan in overeenstemming met Onze Ministers van Landbouw, Natuurbeheer en Visserij, van Economische Zaken, en van Justitie;
-
-Gelet op [richtlijn nr. 2001/113/EG](32001L0113) van de Raad van de Europese Unie van 20 december 2001 inzake voor menselijke voeding bestemde vruchtenjam of -confituur, -gelei en- marmelade, alsmede kastanjepasta (PbEG 2002, L 10), alsmede op [artikel 8, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13), en [artikel 32b, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b);
-
-De Raad van State gehoord (advies van 25 juli 2002, No.W13.02 0313/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 15 augustus 2002 met nummer VGB/VL 2307898, uitgebracht in overeenstemming met Onze Ministers van Landbouw, Natuurbeheer en Visserij, van Economische Zaken, en van Justitie;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking voor zover het betrekking heeft op eet- en drinkwaren die voldoen aan dit besluit met ingang van 12 juli 2003.
-
-#### § 1:. algemene bepalingen
 
 ##### Artikel 1
 
-1. In dit besluit wordt verstaan onder:
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **gember** : de verse, gedroogde of in stroop geconserveerde eetbare wortelstokken van de gemberplant;
+- – *citrusmarmelade:* hetgeen Richtlijn 2001/113/EG daaronder verstaat;
 
-- b. **vruchten** :
+- – *extra gelei:* hetgeen Richtlijn 2001/113/EG daaronder verstaat;
 
-- 1°. verse, gezonde, onaangetaste vruchten waaraan geen wezenlijke bestanddelen zijn onttrokken, die de juiste graad van rijpheid hebben bereikt, en die zijn schoongemaakt, gebruiksklaar gemaakt en ontdaan van onzuiverheden;
+- – *extra jam of extra confituur:* hetgeen Richtlijn 2001/113/EG daaronder verstaat;
 
-- 2°. tomaten, de eetbare delen van rabarberstelen, wortelen, zoete aardappelen, komkommers, pompoenen en (water)meloenen;
+- – *gelei:* hetgeen Richtlijn 2001/113/EG daaronder verstaat;
 
-- 3°. gember;
+- – *geleimarmelade:* hetgeen Richtlijn 2001/113/EG daaronder verstaat;
 
-- c. **vruchtenpulp** of **pulp** : het eetbare gedeelte van de gehele vrucht, al dan niet geschild of ontdaan van pitten, dat in stukken kan zijn gesneden of geplet maar niet tot moes is verwerkt;
+- – *jam of confituur:* hetgeen Richtlijn 2001/113/EG daaronder verstaat;
 
-- d. **vruchtenmoes** of **moes** : het eetbare gedeelte van de gehele vrucht, zo nodig geschild of ontdaan van pitten, dat tot moes is verwerkt door zeven of een soortgelijk procédé;
+- – *kastanjepasta:* hetgeen Richtlijn 2001/113/EG daaronder verstaat;
 
-- e. **waterig extract** of **waterig vruchtenextract** : het waterig extract van vruchten dat alle in water oplosbare bestanddelen van de gebruikte vruchten bevat, behalve de stoffen die bij toepassing van goede bereidingspraktijken onvermijdelijk verloren gaan;
-
-- f. **suikers** :
-
-- 1°. de suikers, bedoeld in het [Warenwetbesluit Suiker](https://wetten.overheid.nl/jci1.3:c:BWBR0003089);
-
-- 2°. fructosestroop;
-
-- 3°. de aan vruchten onttrokken suikers;
-
-- 4°. bruine suiker;
-
-- g. **jam** : het voldoende gegeleerde mengsel van suikers, pulp of moes van één of meer vruchtensoorten en water, met dien verstande dat jam of confituur van citrusvruchten verkregen kan zijn uit de hele vrucht, gesneden in repen of schijven;
-
-- h. **extra jam** : het voldoende gegeleerde mengsel van suikers en niet-geconcentreerde pulp van één of meer vruchtensoorten en water, met dien verstande dat:
-
-- 1°. extra jam van rozenbottels, en extra jam zonder pitten van frambozen, braambessen, zwarte bessen, bosbessen en rode bessen, geheel of gedeeltelijk verkregen kunnen worden uit niet-geconcentreerd moes van deze vruchten;
-
-- 2°. extra jam van citrusvruchten verkregen kan worden uit de hele vrucht, gesneden in repen of schijven;
-
-- i. **gelei** : het voldoende gegeleerde mengsel van suiker en sap of waterig extract van één of meer vruchtensoorten;
-
-- j. **marmelade** : het voldoende gegeleerde mengsel van water, suikers en één of meer van de volgende uit citrusvruchten verkregen waren: pulp, moes, sap, waterig extract en schillen;
-
-- k. **geleimarmelade** : marmelade die geen onoplosbare stoffen bevat, met uitzondering van geringe hoeveelheden fijngesneden schil;
-
-- l. **kastanjepasta** : het op de geschikte consistentie gebrachte mengsel van waters, suikers en kastanjemoes;
-
-- m. **verordening (EU) 1169/2011**: Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).
-
-2. Dit besluit is niet van toepassing op waren, bestemd voor de bereiding van fijn bakkerswerk, banketbakkerswerk en biscuits.
+- – *Richtlijn 2001/113/EG:*
+ Richtlijn 2001/113/EG van de Raad van 20 december 2001 inzake voor menselijke voeding bestemde vruchtenjam of -confituur, -gelei en -marmelade, alsmede kastanjepasta (PbEG 2001, L 10).
 
 ##### Artikel 2
 
-1. Het is verboden de bij dit besluit bedoelde eet- en drinkwaren te verhandelen anders dan met inachtneming van de voorschriften, bij dit besluit gesteld met betrekking tot hun aanduiding.
+1. Het is verboden jam of confituur, extra jam of extra confituur, gelei, extra gelei, citrusmarmelade, geleimarmelade of kastanjepasta te bereiden of te behandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften.
 
-2. Het is verboden met gebruikmaking van de bij dit besluit bedoelde aanduidingen andere eet- en drinkwaren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
+2. Het is verboden jam of confituur, extra jam of extra confituur, gelei, extra gelei, citrusmarmelade, geleimarmelade of kastanjepasta te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot hun aanduiding.
 
-3. Het is verboden de bij dit besluit bedoelde eet- en drinkwaren te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot het bezigen van vermeldingen betreffende de samenstelling van de waar en de wijze waarop de waar is bereid.
-
-#### § 2:. bereiding en samenstelling
+3. Het is verboden jam of confituur, extra jam of extra confituur, gelei, extra gelei, citrusmarmelade, geleimarmelade of kastanjepasta te verhandelen anders dan met inachtneming van bij dit besluit gestelde voorschriften met betrekking tot het bezigen van vermeldingen inzake de aard, samenstelling, hoedanigheid of eigenschappen van de waar.
 
 ##### Artikel 3
 
-1. Een krachtens § 3 aangeduide waar is slechts verkregen uit vruchten, vruchtenpulp, pulp, vruchtenmoes, moes, waterig vruchtenextract of waterig extract, die uitsluitend de volgende behandelingen mogen hebben ondergaan, met inachtneming van de daarbij vermelde voorschriften:
-
-- a. warmte- of koudebehandelingen;
-
-- b. vriesdrogen, met dien verstande dat abrikozen of pruimen, bestemd voor de bereiding van een als **jam** of **confituur** aangeduide waar, ook op andere wijze dan vriesdrogen mogen worden gedehydreerd;
-
-- c. concentratie, voor zover de desbetreffende waar daarvoor technisch geschikt is;
-
-- d. het gebruik van zwaveldioxide (E 220) of zouten daarvan (E 221, E 222, E 223, E 224, E 226 en E 227) als hulpmiddel bij de bereiding, voor zover het maximumgehalte aan zwaveldioxide niet wordt overschreden in de waren, bedoeld in bijlage III, deel I, onder B, van de Warenwetregeling Gebruik van additieven met uitzondering van kleurstoffen en zoetstoffen.
-
-2. De behandeling, bedoeld in het eerste lid, onder d, wordt niet toegepast bij de bereiding van de in artikel 8 bedoelde waren.
-
-3. Schillen van citrusvruchten mogen in pekel worden geconserveerd.
+Het bereiden en behandelen van jam of confituur, extra jam of extra confituur, gelei, extra gelei, citrusmarmelade, geleimarmelade of kastanjepasta, geschiedt met inachtneming van de bij Richtlijn 2001/113/EG gestelde voorschriften.
 
 ##### Artikel 4
 
-De hoeveelheid pulp of moes, gebruikt voor de bereiding van 1000 g van de voor consumptiegerede als **jam** of **confituur**aangeduide waar, bedraagt ten minste:
-
-- a. 60 g voor passievruchten;
-
-- b. 150 g voor gember;
-
-- c. 160 g voor cashewappelen;
-
-- d. 250 g voor rode bessen, lijsterbessen, duindoornbessen, zwarte bessen, rozenbottels en kweeperen;
-
-- e. 350 g voor andere vruchten.
+Het verhandelen van jam of confituur, extra jam of extra confituur, gelei, extra gelei, citrusmarmelade, geleimarmelade of kastanjepasta, geschiedt met inachtneming van de bij Richtlijn 2001/113/EG gestelde voorschriften inzake hun aanduiding.
 
 ##### Artikel 5
 
-De hoeveelheid pulp, gebruikt voor de bereiding van 1000 g van de voor consumptiegerede als **extra jam** of **extra confituur** aangeduide waar, bedraagt ten minste:
-
-- a. 80 g voor passievruchten;
-
-- b. 230 g voor cashewappelen;
-
-- c. 250 g voor gember;
-
-- d. 350 g voor rode bessen, lijsterbessen, duindoornbessen, zwarte bessen, rozenbottels en kweeperen;
-
-- e. 450 g voor andere vruchten.
+Het verhandelen van jam of confituur, extra jam of extra confituur, gelei, extra gelei, citrusmarmelade, geleimarmelade of kastanjepasta, geschiedt met inachtneming van de bij Richtlijn 2001/113/EG gestelde voorschriften inzake het bezigen van vermeldingen.
 
 ##### Artikel 6
 
-1. De hoeveelheid sap of waterig extract, gebruikt voor de bereiding van 1000 g van de voor consumptiegerede als **gelei** aangeduide waar, is niet kleiner dan de hoeveelheid die is vastgesteld voor de bereiding van een als **jam** of **confituur aangeduide waar.**
-
-2. De in het eerste lid bedoelde hoeveelheden worden berekend na aftrek van de voor de bereiding van de waterige extracten gebruikte hoeveelheid water.
+Op grond van artikel 2, tweede lid, tweede alinea, van Richtlijn 2001/113/EG mag voor citrusmarmelade die uit drie of meer vruchten is vervaardigd de aanduiding «gemengde vruchtenmarmelade» of «[x]-vruchtenmarmelade», waarbij x het aantal vruchten is, worden gebruikt.
 
 ##### Artikel 7
 
-1. De hoeveelheid vruchtensap of waterig extract, gebruikt voor de bereiding van 1000 g van de voor consumptie gerede als **extra gelei** aangeduide waar, is niet kleiner dan de hoeveelheid die is vastgesteld voor de bereiding van een als **extra jam** of **extra confituur** aangeduide waar.
-
-2. De in het eerste lid bedoelde hoeveelheden worden berekend na aftrek van de voor de bereiding van de waterige extracten gebruikte hoeveelheid water.
+Op grond van bijlage I, deel II, tweede alinea, van Richtlijn 2001/113/EG mag het refractometrisch bepaalde gehalte aan oplosbare droge stof ten minste 55% bedragen in jam of confituur, extra jam of extra confituur, gelei, extra gelei, citrusmarmelade, geleimarmelade of kastanjepasta, behalve voor producten die voldoen aan de voorschriften van Verordening (EG) nr. 1924/2006 van het Europees Parlement en de Raad van 20 december 2006 inzake voedings- en gezondheidsclaims voor levensmiddelen (PbEU 2006, L 404) wat verlaagde suikers betreft, en voor producten waarin de suikers geheel of gedeeltelijk door zoetstoffen zĳn vervangen.
 
 ##### Artikel 8
 
-Bij de bereiding van een als **extra jam** , **extra confituur** of **extra gelei** aangeduide waar worden de volgende vruchten telkens slechts gebruikt indien zij niet vermengd zijn met andere vruchten:
-
-- a. appels;
-
-- b. peren;
-
-- c. pruimen met vastzittende pit;
-
-- d. meloenen;
-
-- e. watermeloenen;
-
-- f. druiven;
-
-- g. pompoenen;
-
-- h. komkommers; en
-
-- i. tomaten.
+Waren die voor 14 juni 2026 in de handel zijn gebracht of geëtiketteerd overeenkomstig het Warenwetbesluitbesluit Verduurzaamde vruchtenproducten 2002, zoals dat onmiddellijk voor inwerkingtreding van dit besluit luidde, mogen na die datum nog verhandeld worden totdat de voorraden zijn uitverkocht.
 
 ##### Artikel 9
 
-De hoeveelheid citrusvruchten, gebruikt voor de bereiding van 1000 g van de voor consumptiegerede als **marmelade** aangeduide waar, bedraagt ten minste 200 g, waarvan ten minste 75 g afkomstig is van het endocarpium.
+Dit besluit treedt in werking met ingang van 12 juli 2004.
 
 ##### Artikel 10
 
-De hoeveelheid kastanjemoes van Castanea sativa, aanwezig in 1000 g van de voor consumptiegerede als **kastanjepasta** aangeduide waar, bedraagt ten minste 380 g.
-
-##### Artikel 11
-
-Voor mengsels worden de in deze paragraaf voor de verschillende vruchtensoorten voorgeschreven minimumgehalten verminderd naar evenredigheid van de gebruikte percentages.
-
-##### Artikel 12
-
-Aan een krachtens § 3 aangeduide waar mogen uitsluitend de in de bijlage bedoelde eet- en drinkwaren worden toegevoegd, met inachtneming van de daarbij vermelde voorschriften.
-
-##### Artikel 13
-
-Het refractometrisch bepaalde gehalte aan oplosbare droge stof van een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2017-07-01&g=2017-07-01) aangeduide waar, met uitzondering van waren waarin de suikers geheel of gedeeltelijk zijn vervangen door zoetstoffen, bedraagt ten minste 55%.
-
-#### § 3:. aanduiding
-
-##### Artikel 14
-
-De aanduiding **jam** of **confituur** mag uitsluitend en moet worden gebezigd voor jam.
-
-##### Artikel 15
-
-De aanduiding **extra jam** of **extra confituur** mag uitsluitend en moet worden gebezigd voor extra jam.
-
-##### Artikel 16
-
-De aanduiding **gelei** mag uitsluitend en moet worden gebezigd voor gelei.
-
-##### Artikel 17
-
-De aanduiding **extra gelei** mag uitsluitend en moet worden gebezigd voor gelei die is bereid met inachtneming van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=7&z=2017-07-01&g=2017-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=8&z=2017-07-01&g=2017-07-01).
-
-##### Artikel 18
-
-De aanduiding **marmelade** mag uitsluitend en moet worden gebezigd voor marmelade.
-
-##### Artikel 19
-
-De aanduiding **geleimarmelade** mag uitsluitend en moet worden gebezigd voor geleimarmelade.
-
-##### Artikel 20
-
-De aanduiding **kastanjepasta** mag uitsluitend en moet worden gebezigd voor kastanjepasta.
-
-##### Artikel 21
-
-1. Een in deze paragraaf bedoelde aanduiding wordt aangevuld met de aanduiding van de gebruikte vruchtensoort of vruchtensoorten, in afnemende volgorde van het gewichtsaandeel van de gebruikte vruchtensoorten.
-
-2. In afwijking van het eerste lid mag de aanduiding van een in deze paragraaf bedoelde waar die is bereid uit drie of meer vruchtensoorten, worden aangevuld met de zinsnede «verscheidene vruchten», een soortgelijke zinsnede, of de vermelding van het aantal gebruikte vruchtensoorten.
-
-##### Artikel 22
-
-In afwijking van de [artikelen 13 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=13&z=2017-07-01&g=2017-07-01) mogen de in deze paragraaf bedoelde aanduidingen overeenkomstig de handelspraktijken ook worden gebezigd voor andere waren die niet kunnen worden verward met de in deze paragraaf bedoelde waren.
-
-#### § 4:. vermeldingen
-
-##### Artikel 23
-
-1. Bij een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2017-07-01&g=2017-07-01) aangeduide waar worden de volgende vermeldingen gebezigd:
-
-- a. «bereid met g vruchten per 100 g», in voorkomend geval na aftrek van het gewicht van het voor de bereiding van de waterige extracten gebruikte water;
-
-- b. «totaal gehalte aan suikers g per 100 g», waarbij het vermelde cijfer de refractometrisch bepaalde waarde bij 20 °C van de voor consumptie gerede waar aangeeft met een tolerantie van ± 3 refractometrische graden.
-
-2. Het eerste lid, onder b, is niet van toepassing indien een voedingswaardevermelding is gebezigd als bedoeld in de artikelen 30 tot en met 35 van verordening (EU) 1169/2011.
-
-3. De in het eerste lid bedoelde vermeldingen worden gebezigd in hetzelfde gezichtsveld als de aanduiding van de desbetreffende waar.
-
-##### Artikel 24
-
-In afwijking van artikel 18, tweede lid, van verordening (EU) 1169/2011, wordt bij een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2017-07-01&g=2017-07-01) aangeduide waar zwaveldioxide vermeld in de lijst van ingrediënten, bedoeld in [artikel 5, eerste lid, onder a, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), indien het residuele gehalte aan zwaveldioxide hoger is dan 10 mg/kg.
-
-#### § 5:. slotbepalingen
-
-##### Artikel 25
-
-Wijzigt het Warenwetbesluit bestuurlijke boeten.
-
-##### Artikel 26
-
-Het Warenwetbesluit Verduurzaamde vruchtenprodukten wordt ingetrokken.
-
-##### Artikel 27
-
-Dit besluit treedt in werking met ingang van 12 juli 2004, met dien verstande dat:
-
-- a. eet- en drinkwaren die voldoen aan dit besluit reeds verhandeld mogen worden met ingang van 12 juli 2003;
-
-- b. eet- en drinkwaren die niet voldoen aan dit besluit en voor 12 juli 2004 zijn geëtiketteerd met inachtneming van het [Warenwetbesluit Verduurzaamde vruchtenproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0005307), nog verhandeld mogen worden zolang de voorraad strekt.
-
-##### Artikel 28
-
-Dit besluit wordt aangehaald als: Warenwetbesluit Verduurzaamde vruchtenproducten 2002.
-
-## Bijlage
-
-Deze bijlage behoort bij artikel 12.
-
-Aan een krachtens [§ 3](onbekend) aangeduide waar mogen uitsluitend de volgende eet- en drinkwaren worden toegevoegd, met inachtneming van de daarbij vermelde voorschriften:
-
-- a. honing, bedoeld in het [Warenwetbesluit Honing](https://wetten.overheid.nl/jci1.3:c:BWBR0003204): aan alle in [§ 3](onbekend) bedoelde waren, ter gehele of gedeeltelijke vervanging van de suikers;
-
-- b. vruchtensap: uitsluitend aan de als **jam** of **confituur** aangeduide waar;
-
-- c. sap van citrusvruchten: uitsluitend aan uit andere vruchten verkregen waren, aangeduid als **jam**, **confituur**, **extra jam, extra confituur, gelei** of **extra gelei**;
-
-- d. sap van rode vruchten: uitsluitend aan de als **jam,confituur, extra jam of extra confituur** aangeduide waar, voor zover de desbetreffende waar is bereid uit rozenbottels, aardbeien, frambozen, kruisbessen, rode bessen, pruimen of rabarber;
-
-- e. sap van rode bieten: uitsluitend aan de als **jam,confituur of gelei aangeduide waar, voor zover de desbetreffende waar bereid is uit aardbeien, frambozen, kruisbessen, rode bessen of pruimen;**
-
-- f. etherische oliën van citrusvruchten: uitsluitend aan een als marmelade of **geleimarmelade** aangeduide waar;
-
-- g. oliën en vetten, bestemd om schuimvorming tegen te gaan;
-
-- h. vloeibare pectine;
-
-- i. schillen van citrusvruchten: uitsluitend aan de als **jam**, **confituur**, **extra jam**, **extra confituur**, **gelei** of **extra gelei** aangeduide waar;
-
-- j. bladeren van Pelargonium odoratissimum: uitsluitend aan de als jam, confituur, extra jam, extra confituur, gelei of extra geleide aangeduide waar, voor zover de desbetreffende waar is bereid uit kweeperen;
-
-- k. gedistilleerde dranken, wijn, likeurwijn, noten, aromatische kruiden, specerijen, vanille en vanille-extract;
-
-- l. vanilline.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Dit besluit wordt aangehaald als: Warenwetbesluit verduurzaamde vruchtenproducten.

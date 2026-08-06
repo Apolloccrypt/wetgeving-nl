@@ -1,44 +1,17 @@
 ---
 title: "Belastingheffing van EU-fellows werkzaam bij Nederlandse universiteiten en woonachtig in/afkomstig uit een van de EU-landen/EER-landen of een aangewezen ander land"
 identifier: "BWBR0013695"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2002-06-01"
-last_updated: "2002-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013695"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8386203"
-version_id: "13257752"
-internal_id: "C18428271"
-label_id: "8367904"
-dtd_version: "2.0"
-original_entry_into_force: "2002-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013695/2002-06-01/0"
-intitule_bron: "Infob.2002-12"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-05-17"
-intitule_published: "2002-01-01"
-intitule_in_force: "2002-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2002-12"
-original_signed_date: "2002-05-17"
-original_published_date: "2002-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-06-01"
-jci_1_3: "jci1.3:c:BWBR0013695&z=2002-06-01&g=2002-06-01"
-jci_1_0: "1.0:c:BWBR0013695&g=2002-06-01"
-citeertitel_status: "redactioneel"
-signed_date: "2002-05-17"
-entry_into_force: "2002-06-01"
+publicatiedatum: 2002-06-01
+laatste_update: 2002-06-01
+status: geldig
+toestand: 2002-06-01
+bron: "https://wetten.overheid.nl/BWBR0013695"
+opgehaald: 2026-08-06
 ---
+
 # Belastingheffing van EU-fellows werkzaam bij Nederlandse universiteiten en woonachtig in/afkomstig uit een van de EU-landen/EER-landen of een aangewezen ander land
-
-Directie Internationale Fiscale Zaken
-
-Besluit van 17 mei 2002, nr. IFZ2001/529M
-
-De Directeur-Generaal voor Fiscale Zaken heeft namens de Staatssecretaris van Financiën het volgende besloten.
 
 Dit besluit dient ter vervanging van het Besluit van 27 april 2001, nr. IFZ2001/429M (in verband met de wijziging van het research en development programma van de EU en actualisering van de toepasselijke verdragen).
 
@@ -64,11 +37,23 @@ De EU-fellows zijn thans op de Nederlandse universiteiten veelal werkzaam op bas
 
 Er zijn drie categorieën EU-fellows:
 
+- 1. De eerste categorie betreft onderzoekers op postdoctoraal niveau, te weten houders van een diploma afgegeven door een universiteit of daaraan gelijkwaardige instelling voor hoger onderwijs, dat rechtstreeks toegang geeft tot de doctoraalfase of een gelijkwaardige graad. De uitzendduur bedraagt 3–48 maanden.
+
+- 2. De tweede categorie betreft jonge onderzoekers met een doctorsgraad of ten minste vier jaar postdoctorale onderzoekervaring buiten het kader van een doctoraatsstudie. De uitzendduur bedraagt 6–48 maanden.
+
+- 3. De derde categorie betreft ervaren onderzoekers, in de regel onderzoekers met ten minste tien jaar onderzoekervaring op postdoctoraatsniveau of ten minste veertien jaar ervaring op postdoctoraal niveau. De uitzendduur bedraagt 3–12 maanden. Ook is men gerechtigd tot het geven van les in het gastland.
+
 ### 3. Belastingheffing
 
 ### 3.1. Uitgangspunten
 
 Bij het hiernavolgende wordt er ten aanzien van de onder categorieën 1 en 2 vallende EU-fellows van uitgegaan dat zij:
+
+- – werkzaam zijn bij de Nederlandse universiteiten op basis van een ambtelijke aanstelling of een arbeidscontract, dan wel op basis van een zogenaamde aanwezigheidsovereenkomst;
+
+- – geen inkomsten (uit onderzoekswerkzaamheden) ontvangen op grond van een dienstbetrekking in het buitenland, maar alleen inkomsten ontvangen van de Nederlandse universiteit;
+
+- – hun onderzoek verrichten in het algemeen belang en zich niet bezighouden met het geven van onderwijs.
 
 Op de onder categorie 3 vallende EU-fellows, welke categorie van beperkte omvang is en waarvan in het algemeen kan worden gesteld dat er niet snel sprake is van binnenlandse belastingplicht, wordt hierna niet ingegaan. Mocht zo’n situatie zich voordoen, dan dient de desbetreffende EU-fellow zich omtrent zijn fiscale positie in Nederland te verstaan met de bevoegde inspecteur.
 
@@ -79,6 +64,18 @@ De fiscale behandeling van EU-fellows is afhankelijk van de factoren woonplaats 
 ### 4. Woonplaats
 
 Allereerst zal moeten worden vastgesteld of de EU-fellow in Nederland woont. De vraag waar iemand woont, moet ingevolge artikel 4 van de Algemene wet inzake rijksbelastingen naar de omstandigheden worden beoordeeld. Factoren die hierbij van belang zijn, zijn onder meer de plaats waar het gezin verblijft, het al dan niet aanhouden van een woning in het buitenland, het al dan niet aanhouden van financiële of economische banden met het buitenland en de duur van het verblijf in Nederland. Hierbij kunnen onderstaande richtlijnen worden gehanteerd:
+
+- 1. woonplaats in Nederland:
+
+   - – indien de EU-fellow met partner/kind(eren) voor een periode van meer dan een jaar naar Nederland komt;
+
+   - – indien een ongehuwde EU-fellow de woning in de zendstaat opgeeft.
+
+- 2. woonplaats niet in Nederland:
+
+   - – indien de partner/kind(eren) van de EU-fellow in de zendstaat achterblijven;
+
+   - – indien de EU-fellow de woning in de zendstaat aanhoudt en daar ieder weekend verblijft.
 
 Desalniettemin zal de vaststelling van de woonplaats van geval tot geval door de bevoegde inspecteur dienen te geschieden. De vermelde richtlijnen hebben niet de strekking af te wijken van het wettelijke woonplaatsbegrip maar beogen alleen aan de hand van eenvoudige en bruikbare criteria een uniforme gedragslijn te scheppen.
 
@@ -91,6 +88,12 @@ Voor de vaststelling of de Nederlandse universiteit inhoudingsplichtige is voor 
 De kwestie of de EU-fellow in dienstbetrekking is van de Nederlandse universiteit komt alleen aan de orde als het geen ambtelijke aanstelling of een (tweezijdig) arbeidscontract betreft maar een aanwezigheids-/gastvrijheidsovereenkomst. In geval van een ambtelijke aanstelling of een arbeidscontract is steeds sprake van een dienstbetrekking. In geval van een aanwezigheids-/gastvrijheidsovereenkomst moet worden nagegaan of er sprake is van een dienstbetrekking, hetzij van publiekrechtelijke, hetzij van privaatrechtelijke aard.
 
 Gelet op de inhoud van de aanwezigheids-/gastvrijheidsovereenkomst ga ik ervan uit dat van een publiekrechtelijke aanstelling geen sprake is. Voor de beoordeling of er sprake is van een privaatrechtelijke dienstbetrekking zijn de volgende drie voorwaarden van belang;
+
+- 1. er moet arbeid worden verricht;
+
+- 2. er moet loon zijn overeengekomen;
+
+- 3. er moet een gezagsverhouding aanwezig zijn.
 
 Gelet op de bepalingen in het EU-reglement inzake algemene voorwaarden voor fellowships en gelet op de inhoud van de aanwezigheids-/gastvrijheidsovereenkomst, ben ik van oordeel dat niet alleen aan de eerste twee voorwaarden wordt voldaan, maar ook aan de derde voorwaarde. Ik ga er in dit besluit dan ook van uit dat er in het algemeen sprake is van een echte, privaatrechtelijke dienstbetrekking en dat de Nederlandse universiteit die ter zake van de vergoeding betaalt aan de EU-fellow(s) voor de loonbelasting als inhoudingsplichtige is aan te merken. De universiteit moet derhalve op die vergoeding loonbelasting inhouden, tenzij op grond van een belastingverdrag het heffingsrecht over die vergoeding niet aan Nederland toekomt. In het laatste geval mag de universiteit de inhouding van loonbelasting slechts achterwege laten indien de EU-fellow haar een door de bevoegde inspecteur afgegeven verklaring ex artikel 27, lid 7, van de Wet op de loonbelasting 1964 heeft doen toekomen.
 

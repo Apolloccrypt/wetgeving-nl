@@ -1,64 +1,32 @@
 ---
 title: "Besluit van 23 november 2001 tot regeling van de aanstellingskeuringen"
+citeertitel: "Besluit aanstellingskeuringen"
 identifier: "BWBR0013029"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-10-01"
-last_updated: "2012-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013029"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1639793"
-version_id: "2419672"
-internal_id: "C2419671"
-label_id: "1593294"
-dtd_version: "2.0"
-original_entry_into_force: "2002-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013029/2012-10-01/0"
-intitule_bron: "Stb.2001-597"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-23"
-intitule_published: "2001-12-13"
-intitule_in_force: "2002-01-31"
-intitule_status: "goed"
-original_publication: "Stb.2001-597"
-original_signed_date: "2001-11-23"
-original_published_date: "2001-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-597"
-entry_into_force_date: "2002-02-01"
-jci_1_3: "jci1.3:c:BWBR0013029&z=2012-10-01&g=2012-10-01"
-jci_1_0: "1.0:c:BWBR0013029&g=2012-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit aanstellingskeuringen"
-signed_date: "2001-11-23"
-entry_into_force: "2002-02-01"
+publicatiedatum: 2002-02-01
+laatste_update: 2012-10-01
+status: geldig
+toestand: 2012-10-01
+bron: "https://wetten.overheid.nl/BWBR0013029"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 23 november 2001 tot regeling van de aanstellingskeuringen
-
-Op voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst, mede namens Onze Minister van Volksgezondheid, Welzijn en Sport van 4 juli 2001, kenmerk AV/RV/2001/40324;
-
-Gelet op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9) en [14, tweede lid, van de Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=14);
-
-De Raad van State gehoord (advies van 3 augustus 2001, nr. W12.01.0306/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst, uitgebracht mede namens Onze Minister van Volksgezondheid, Welzijn en Sport van 14 november 2001, Directie Arbeidsverhoudingen, nr. AV/RV/2001/40324;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Begripsbepaling
+##### Begripsbepaling
 
 ##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** de [Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819);
+- a. *wet:* de [Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819);
 
-- b. **bedrijfsarts:** een arts die als bedrijfsarts is ingeschreven in een erkend specialistenregister als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
+- b. *bedrijfsarts:* een arts die als bedrijfsarts is ingeschreven in een erkend specialistenregister als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
 
-#### Toepasselijkheid
+##### Toepasselijkheid
 
 ##### Artikel 2
 
@@ -84,22 +52,20 @@ Onverminderd [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1
 
 #### § 3. Slotbepalingen
 
-#### Evaluatie
+##### Evaluatie
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
-#### Inwerkingtreding
+##### Inwerkingtreding
 
 ##### Artikel 7
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Citeertitel
+##### Citeertitel
 
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit aanstellingskeuringen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

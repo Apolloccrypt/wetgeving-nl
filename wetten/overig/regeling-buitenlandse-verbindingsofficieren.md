@@ -1,43 +1,18 @@
 ---
 title: "Richtlijnen voor buitenlandse verbindingsofficieren in Nederland op het gebied van de politiële en justitiële samenwerking"
+citeertitel: "Regeling buitenlandse verbindingsofficieren"
 identifier: "BWBR0013501"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-04-01"
-last_updated: "2002-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013501"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4114063"
-version_id: "5867752"
-internal_id: "C6070581"
-label_id: "4093864"
-dtd_version: "2.0"
-original_entry_into_force: "2002-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013501/2002-04-01/0"
-intitule_bron: "Stcrt.2002-61"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-03-08"
-intitule_published: "2002-03-27"
-intitule_in_force: "2002-03-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-61"
-original_signed_date: "2002-03-08"
-original_published_date: "2002-03-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-04-01"
-jci_1_3: "jci1.3:c:BWBR0013501&z=2002-04-01&g=2002-04-01"
-jci_1_0: "1.0:c:BWBR0013501&g=2002-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling buitenlandse verbindingsofficieren"
-signed_date: "2002-03-08"
-entry_into_force: "2002-04-01"
+publicatiedatum: 2002-04-01
+laatste_update: 2002-04-01
+status: geldig
+toestand: 2002-04-01
+bron: "https://wetten.overheid.nl/BWBR0013501"
+opgehaald: 2026-08-06
 ---
+
 # Richtlijnen voor buitenlandse verbindingsofficieren in Nederland op het gebied van de politiële en justitiële samenwerking
-
-Handelende in overeenstemming met de Minister van Buitenlandse Zaken;
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -135,11 +110,11 @@ De verbindingsofficier voert in het belang van een goede samenwerking op nader a
 
 1. De centrale Nederlandse autoriteit ondersteunt de buitenlandse verbindingsofficier bij zijn taakvervulling en neemt de nodige maatregelen teneinde:
 
-- a). de buitenlandse verbindingsofficier bij aanvang van zijn tewerkstelling in Nederland te instrueren omtrent de voor zijn taakuitvoering van belang zijnde Nederlandse wettelijke voorschriften, in het bijzonder die op het gebied van gegevensbescherming en bescherming van de persoonlijke levenssfeer;
+- a) de buitenlandse verbindingsofficier bij aanvang van zijn tewerkstelling in Nederland te instrueren omtrent de voor zijn taakuitvoering van belang zijnde Nederlandse wettelijke voorschriften, in het bijzonder die op het gebied van gegevensbescherming en bescherming van de persoonlijke levenssfeer;
 
-- b). gehoor te geven aan zijn verzoeken om raad en hem, indien mogelijk de nodige bijstand te verlenen;
+- b) gehoor te geven aan zijn verzoeken om raad en hem, indien mogelijk de nodige bijstand te verlenen;
 
-- c). daar waar mogelijk, oplossingen te vinden voor de problemen die zich bij het verrichten van zijn taken plegen voor te doen.
+- c) daar waar mogelijk, oplossingen te vinden voor de problemen die zich bij het verrichten van zijn taken plegen voor te doen.
 
 2. De centrale Nederlandse autoriteit kan met de individuele buitenlandse verbindingsofficier nadere afspraken maken over de uitvoering van de onderhavige regeling.
 
@@ -172,5 +147,3 @@ Deze regeling treedt in werking met ingang van 1 april 2002.
 ##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling buitenlandse verbindingsofficieren.
-
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.

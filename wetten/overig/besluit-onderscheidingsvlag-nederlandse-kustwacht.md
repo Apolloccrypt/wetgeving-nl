@@ -1,42 +1,17 @@
 ---
 title: "Besluit Onderscheidingsvlag Nederlandse Kustwacht"
 identifier: "BWBR0013096"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-12-12"
-last_updated: "2002-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013096"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5005083"
-version_id: "8672832"
-internal_id: "C11225011"
-label_id: "4981524"
-dtd_version: "2.0"
-original_entry_into_force: "2001-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013096/2002-12-12/0"
-intitule_bron: "Stcrt.2001-240"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-06"
-intitule_published: "2001-12-11"
-intitule_in_force: "2001-12-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-240"
-original_signed_date: "2001-12-06"
-original_published_date: "2001-12-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-12-12"
-jci_1_3: "jci1.3:c:BWBR0013096&z=2002-12-12&g=2002-12-12"
-jci_1_0: "1.0:c:BWBR0013096&g=2002-12-12"
-citeertitel_status: "officieel"
-signed_date: "2001-12-06"
-entry_into_force: "2001-12-12"
+publicatiedatum: 2001-12-12
+laatste_update: 2002-12-12
+status: geldig
+toestand: 2002-12-12
+bron: "https://wetten.overheid.nl/BWBR0013096"
+opgehaald: 2026-08-06
 ---
+
 # Besluit Onderscheidingsvlag Nederlandse Kustwacht
-
-de Hoge Raad van Adel gehoord;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -57,7 +32,3 @@ Dit Besluit treedt in werking op de dag na die van de uitgifte van de Staatscour
 ##### Artikel 4
 
 Dit Besluit wordt aangehaald als: Besluit Onderscheidingsvlag Nederlandse Kustwacht.
-
-## Bijlage
-
-Dit Besluit, waarvan afschrift wordt gezonden aan de Hoge Raad van Adel, wordt met de bijlage in de Staatscourant geplaatst.

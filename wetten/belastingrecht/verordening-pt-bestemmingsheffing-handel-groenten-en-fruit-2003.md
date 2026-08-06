@@ -1,52 +1,24 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d. 3 juli 2002, houdende de vaststelling van een bestemmingsheffing ten behoeve van de handel in groenten en fruit voor het jaar 2003 (Verordening PT bestemmingsheffing handel groenten en fruit 2003)"
+citeertitel: "Verordening PT bestemmingsheffing handel groenten en fruit 2003"
 identifier: "BWBR0013838"
-country: "nl"
-rank: "pbo"
-publication_date: "2003-05-17"
-last_updated: "2003-05-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013838"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6089953"
-version_id: "10751102"
-internal_id: "C29094031"
-label_id: "6079254"
-original_entry_into_force: "2003-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013838/2003-05-17/0"
-intitule_bron: "Vbbo.2003-31"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-07-03"
-intitule_published: "2003-05-16"
-intitule_in_force: "2003-05-16"
-intitule_status: "goed"
-original_publication: "Vbbo.2003-31"
-original_signed_date: "2002-07-03"
-original_published_date: "2003-05-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-05-17"
-jci_1_3: "jci1.3:c:BWBR0013838&z=2003-05-17&g=2003-05-17"
-jci_1_0: "1.0:c:BWBR0013838&g=2003-05-17"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bestemmingsheffing handel groenten en fruit 2003"
-signed_date: "2002-07-03"
-entry_into_force: "2003-05-17"
+publicatiedatum: 2003-05-17
+laatste_update: 2003-05-17
+status: geldig
+toestand: 2003-05-17
+bron: "https://wetten.overheid.nl/BWBR0013838"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 3 juli 2002, houdende de vaststelling van een bestemmingsheffing ten behoeve van de handel in groenten en fruit voor het jaar 2003 (Verordening PT bestemmingsheffing handel groenten en fruit 2003)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 14](onbekend), [15](onbekend) en [19 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend);
-
-gehoord de sectorcommissie Groenten en Fruit, d.d. 20 juni 2002;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
-1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](onbekend) en [2 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend).
+1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van de Instellingsverordening Productschap Tuinbouw 1998.
 
 2. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -100,7 +72,7 @@ BESLUIT:
 
 ##### Artikel 4
 
-Indien de heffingsplichtige de gegevens die hem krachtens de [Verordening PT algemene bepalingen](onbekend), ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
+Indien de heffingsplichtige de gegevens die hem krachtens de Verordening PT algemene bepalingen, ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
 
 ##### Artikel 5
 
@@ -108,11 +80,11 @@ Indien de heffingsplichtige de gegevens die hem krachtens de [Verordening PT alg
 
 2. Iedere heffingsnota is gedagtekend en bevat ten minste:
 
-- a. naam en adres van de heffingsplichtige;
+- a naam en adres van de heffingsplichtige;
 
-- b. een specificatie of toelichting omtrent de wijze waarop de heffing is berekend, en
+- b een specificatie of toelichting omtrent de wijze waarop de heffing is berekend, en
 
-- c. het totaal van de heffing.
+- c het totaal van de heffing.
 
 3. In afwijking van het eerste lid, kan de voorzitter de heffingsplichtige een voorlopige heffing opleggen tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
@@ -130,11 +102,11 @@ De voorzitter kan, indien hem uit te zijner beschikking gekomen gegevens blijkt 
 
 2. In afwijking van het eerste lid is de nota terstond invorderbaar:
 
-- a. zodra het faillissement van de heffingsplichtige is aangevraagd
+- a zodra het faillissement van de heffingsplichtige is aangevraagd
 
-- b. zodra de ondernemer het drijven van de onderneming beëindigt of van het voornemen daartoe blijkt, of
+- b zodra de ondernemer het drijven van de onderneming beëindigt of van het voornemen daartoe blijkt, of
 
-- c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.
+- c zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.
 
 ##### Artikel 8
 
@@ -171,5 +143,3 @@ De voorzitter is belast met de opleggingen inning van de heffing en de daarmee s
 ##### Artikel 14
 
 Deze verordening wordt aangehaald als: Verordening PT bestemmingsheffing handel groenten en fruit 2003.
-
-De verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

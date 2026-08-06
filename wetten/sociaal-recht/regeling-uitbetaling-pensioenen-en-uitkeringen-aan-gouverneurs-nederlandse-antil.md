@@ -1,46 +1,63 @@
 ---
 title: "Regeling uitbetaling pensioenen en uitkeringen aan Gouverneurs Nederlandse Antillen en Aruba"
 identifier: "BWBR0013680"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-05-23"
-last_updated: "2002-05-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013680"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "4126953"
-version_id: "5880372"
-internal_id: "C6083201"
-label_id: "4106494"
-dtd_version: "2.0"
-original_entry_into_force: "2002-05-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013680/2002-05-23/0"
-intitule_bron: "Stcrt.2002-93"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-05-13"
-intitule_published: "2002-05-21"
-intitule_in_force: "2002-05-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-93"
-original_signed_date: "2002-05-13"
-original_published_date: "2002-05-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-05-23"
-jci_1_3: "jci1.3:c:BWBR0013680&z=2002-05-23&g=2002-05-23"
-jci_1_0: "1.0:c:BWBR0013680&g=2002-05-23"
-citeertitel_status: "officieel"
-signed_date: "2002-05-13"
-entry_into_force: "2002-05-23"
+publicatiedatum: 2002-05-23
+laatste_update: 2002-05-23
+status: geldig
+toestand: 2002-05-23
+bron: "https://wetten.overheid.nl/BWBR0013680"
+opgehaald: 2026-08-06
 ---
+
 # Regeling uitbetaling pensioenen en uitkeringen aan Gouverneurs Nederlandse Antillen en Aruba
-
-Gelet op [artikel 33, tweede lid, van de Rijkswet van 20 december 1989, houdende regeling van pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=33) (Stb. 1990, 15);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+Minister:
+
+de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+
+b.
+
+Kabinet:
+
+het Kabinet van de Gouverneur van de Nederlandse Antillen, onderscheidenlijk het Kabinet van de Gouverneur van Aruba;
+
+c.
+
+rijkswet:
+
+de [Rijkswet van 20 december 1989, houdende regeling van pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0004670) (Stb. 1990, 15);
+
+d.
+
+belanghebbende:
+
+een ingevolge de rijkswet tot een pensioen of uitkering gerechtigde;
+
+e.
+
+pensioen:
+
+elk pensioen dat is toegekend krachtens de rijkswet, tenzij uit de desbetreffende bepalingen het tegendeel blijkt, daaronder mede begrepen een voorschot op dit pensioen ingevolge [artikel 31, derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=31);
+
+f.
+
+uitkering:
+
+de uitkering, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5) en [6 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=6), daaronder mede begrepen een voorschot op deze uitkering ingevolge [artikel 31, derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=31);
+
+g.
+
+bankrekening:
+
+een rekening-courant bij een in de Nederlandse Antillen, onderscheidenlijk in Aruba, gevestigde bankinstelling.
 
 ##### Artikel 2
 
@@ -71,5 +88,3 @@ De regeling van de Minister voor Nederlands-Antilliaanse en Arubaanse Zaken van 
 ##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.

@@ -1,56 +1,24 @@
 ---
 title: "Wet van 1 november 2001, houdende uitvoering van de Verordening (EG), nr. 718/1999, van de Raad van de Europese Unie van 29 maart 1999 betreffende het beleid ten aanzien van de capaciteit van de communautaire binnenvaartvloot met het oog op de bevordering van het vervoer over de binnenwateren (PbEG L 90) (Wet capaciteitsbeheersing binnenvaartvloot)"
+citeertitel: "Wet capaciteitsbeheersing binnenvaartvloot"
 identifier: "BWBR0012950"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012950"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "1633603"
-version_id: "2411342"
-internal_id: "C2411341"
-label_id: "1587294"
-dtd_version: "2.0"
-original_entry_into_force: "2001-11-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012950/2015-01-01/0"
-intitule_bron: "Stb.2001-556"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-01"
-intitule_published: "2001-11-22"
-intitule_in_force: "2001-11-22"
-intitule_status: "goed"
-original_publication: "Stb.2001-556"
-original_signed_date: "2001-11-01"
-original_published_date: "2001-11-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "27634"
-original_url_id: "stb-2001-556"
-entry_into_force_date: "2001-11-23"
-entry_into_force_dossier: "27634"
-jci_1_3: "jci1.3:c:BWBR0012950&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0012950&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet capaciteitsbeheersing binnenvaartvloot"
-signed_date: "2001-11-01"
-entry_into_force: "2001-11-23"
+publicatiedatum: 2001-11-23
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0012950"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 1 november 2001, houdende uitvoering van de Verordening (EG), nr. 718/1999, van de Raad van de Europese Unie van 29 maart 1999 betreffende het beleid ten aanzien van de capaciteit van de communautaire binnenvaartvloot met het oog op de bevordering van het vervoer over de binnenwateren (PbEG L 90) (Wet capaciteitsbeheersing binnenvaartvloot)
-
-Allen, die zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is wettelijke bepalingen vast te stellen ter uitvoering van de [Verordening nr. 718/1999](31999R0718) van de Raad van de Europese Unie van 29 maart 1999 betreffende het beleid ten aanzien van de capaciteit van de communautaire binnenvaartvloot met het oog op de bevordering van het vervoer over de binnenwateren (PbEG L 90), mede in verband met het door de Verdragsluitende Staten op 28 april 1999 te Straatsburg ter zake van een uniforme toepassing van voornoemde verordening in alle Verdragsluitende Staten ondertekende Aanvullend Protocol nr. 5 bij de op 17 oktober 1868 te Mannheim tot stand gekomen Herziene Rijnvaartakte (Trb. 1955, 161), alsmede de daarop betrekking hebbende Verklaring van de Overeenkomstsluitende Staten op grond waarvan het Aanvullend Protocol nr. 5 voorlopig kan worden toegepast voordat alle akten van bekrachtiging zijn nedergelegd;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Werkt terug tot en met 29 april 1999, met uitzondering van de artikelen 6, 8, 9, 10 en 12, eerste lid.
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Raadsverordening: [Verordening nr. 718/1999](31999R0718) van de Raad van de Europese Unie van 29 maart 1999 betreffende het beleid ten aanzien van de capaciteit van de communautaire binnenvaartvloot met het oog op de bevordering van het vervoer over de binnenwateren (PbEG L 90);
+- a. Raadsverordening: Verordening nr. 718/1999 van de Raad van de Europese Unie van 29 maart 1999 betreffende het beleid ten aanzien van de capaciteit van de communautaire binnenvaartvloot met het oog op de bevordering van het vervoer over de binnenwateren (PbEG L 90);
 
 - b. Onze Minister: Onze Minister van Infrastructuur en Milieu;
 
@@ -106,7 +74,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -114,9 +82,9 @@ De Wet sloopregeling binnenvaart wordt ingetrokken.
 
 ##### Artikel 12
 
-1. Wijzigt de Wet op de economische delicten.
+1. *Wijzigt de Wet op de economische delicten.*
 
-2. Wijzigt de Wet vervoer binnenvaart.
+2. *Wijzigt de Wet vervoer binnenvaart.*
 
 ##### Artikel 13
 
@@ -131,5 +99,3 @@ Met betrekking tot de behandeling van bezwaar of beroep tegen een krachtens de W
 ##### Artikel 15
 
 Deze wet wordt aangehaald als: Wet capaciteitsbeheersing binnenvaartvloot.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,44 +1,17 @@
 ---
 title: "Regeling straf- en afzonderingscel justitiële jeugdinrichtingen"
 identifier: "BWBR0012748"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-03-24"
-last_updated: "2015-03-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012748"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3604823"
-version_id: "5388312"
-internal_id: "C5581401"
-label_id: "3585194"
-dtd_version: "2.0"
-original_entry_into_force: "2001-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012748/2015-03-24/0"
-intitule_bron: "Stcrt.2001-156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-08-14"
-intitule_published: "2001-08-15"
-intitule_in_force: "2001-08-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-156"
-original_signed_date: "2001-08-14"
-original_published_date: "2001-08-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-09-01"
-jci_1_3: "jci1.3:c:BWBR0012748&z=2015-03-24&g=2015-03-24"
-jci_1_0: "1.0:c:BWBR0012748&g=2015-03-24"
-citeertitel_status: "officieel"
-signed_date: "2001-08-14"
-entry_into_force: "2001-09-01"
+publicatiedatum: 2001-09-01
+laatste_update: 2015-03-24
+status: geldig
+toestand: 2015-03-24
+bron: "https://wetten.overheid.nl/BWBR0012748"
+opgehaald: 2026-08-06
 ---
+
 # Regeling straf- en afzonderingscel justitiële jeugdinrichtingen
-
-Gelet op [artikel 25, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=25), [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=26), [artikel 56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=56) en [artikel 59, derde lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=59);
-
-Gezien het advies van het College van advies voor de justitiële kinderbescherming van 12 oktober 2000 nr. 5056746/00/TH/rb en van 1 februari 2001 nr. 5078699/01/TH/rb;
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,7 +19,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756).
+- a. *wet:* de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756).
 
 #### Paragraaf 2. Voorwaarden
 
@@ -249,5 +222,3 @@ Deze regeling treedt in werking op 1 september 2001.
 ##### Artikel 35
 
 Deze regeling wordt aangehaald als: Regeling straf- en afzonderingscel justitiële jeugdinrichtingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

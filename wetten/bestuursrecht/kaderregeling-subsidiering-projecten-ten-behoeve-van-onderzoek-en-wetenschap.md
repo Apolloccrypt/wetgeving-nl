@@ -1,43 +1,18 @@
 ---
 title: "Kaderregeling subsidiëring projecten ten behoeve van onderzoek en wetenschap"
+citeertitel: "Kaderregeling subsidiering projecten ten behoeve van onderzoek en wetenschap"
 identifier: "BWBR0012777"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012777"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5545553"
-version_id: "9949872"
-internal_id: "C13432101"
-label_id: "5517944"
-dtd_version: "2.0"
-original_entry_into_force: "2001-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012777/2002-01-01/0"
-intitule_bron: "Stcrt.2001-167"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-08-23"
-intitule_published: "2001-08-30"
-intitule_in_force: "2001-08-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-167"
-original_signed_date: "2001-08-23"
-original_published_date: "2001-08-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-09-01"
-jci_1_3: "jci1.3:c:BWBR0012777&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0012777&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Kaderregeling subsidiering projecten ten behoeve van onderzoek en wetenschap"
-signed_date: "2001-08-23"
-entry_into_force: "2001-09-01"
+publicatiedatum: 2001-09-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0012777"
+opgehaald: 2026-08-06
 ---
+
 # Kaderregeling subsidiëring projecten ten behoeve van onderzoek en wetenschap
-
-Gelet op [artikel 4 van de Wet overige OCenW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4),
-
-Besluit:
 
 #### Paragraaf 1. Inleidende bepalingen
 
@@ -45,17 +20,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** de Minister van Onderwijs, Cultuur en Wetenschappen,
+- a. *minister:* de Minister van Onderwijs, Cultuur en Wetenschappen,
 
-- b. **project:**
+- b. *project:*
 
-- 1°. één- of meerjarige onderzoekprogramma's of -projecten waaraan subsidie anders dan per boekjaar wordt verstrekt,
+   - 1° één- of meerjarige onderzoekprogramma's of -projecten waaraan subsidie anders dan per boekjaar wordt verstrekt,
 
-- 2°. éénmaal of meermalen per jaar voorkomende activiteiten, of
+   - 2° éénmaal of meermalen per jaar voorkomende activiteiten, of
 
-- 3°. éénmalige activiteiten,
+   - 3° éénmalige activiteiten,
 
-- c. **Rijksbegroting OCenW:** de begroting van de uitgaven en ontvangsten van het Ministerie van Onderwijs, Cultuur en Wetenschappen.
+- c. *Rijksbegroting OCenW:* de begroting van de uitgaven en ontvangsten van het Ministerie van Onderwijs, Cultuur en Wetenschappen.
 
 ##### Artikel 2. Doelomschrijving
 
@@ -295,7 +270,7 @@ Bij de subsidieverlening stelt de minister een termijn vast waarbinnen de aanvra
 
 ##### Artikel 33. Overgangsbepaling
 
-Wijzigt deze regeling.
+*Wijzigt deze regeling.*
 
 ##### Artikel 34. Inwerkingtreding
 
@@ -304,5 +279,3 @@ Deze regeling treedt inwerking met ingang van de tweede dag na de dagtekening va
 ##### Artikel 35. Citeertitel
 
 Deze regeling wordt aangehaald als: Kaderregeling subsidiering projecten ten behoeve van onderzoek en wetenschap.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

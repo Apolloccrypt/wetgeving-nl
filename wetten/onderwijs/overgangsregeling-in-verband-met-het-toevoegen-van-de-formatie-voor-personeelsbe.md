@@ -1,36 +1,16 @@
 ---
 title: "Overgangsregeling in verband met het toevoegen van de formatie voor personeelsbeleid, kwaliteitsverbetering en innovatie (schoolprofielbudget) aan het schoolbudget"
 identifier: "BWBR0013602"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2002-08-01"
-last_updated: "2002-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013602"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6442913"
-version_id: "11114722"
-internal_id: "C15029681"
-label_id: "6431684"
-original_entry_into_force: "2002-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013602/2002-08-01/0"
-intitule_bron: "Uitleg.2002-11"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-04-15"
-intitule_published: "2002-04-24"
-intitule_in_force: "2002-04-24"
-intitule_status: "goed"
-original_publication: "Uitleg.2002-11"
-original_signed_date: "2002-04-15"
-original_published_date: "2002-04-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-08-01"
-jci_1_3: "jci1.3:c:BWBR0013602&z=2002-08-01&g=2002-08-01"
-jci_1_0: "1.0:c:BWBR0013602&g=2002-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "2002-04-15"
-entry_into_force: "2002-08-01"
+publicatiedatum: 2002-08-01
+laatste_update: 2002-08-01
+status: geldig
+toestand: 2002-08-01
+bron: "https://wetten.overheid.nl/BWBR0013602"
+opgehaald: 2026-08-06
 ---
+
 # Overgangsregeling in verband met het toevoegen van de formatie voor personeelsbeleid, kwaliteitsverbetering en innovatie (schoolprofielbudget) aan het schoolbudget
 
 ### Inleiding
@@ -39,7 +19,7 @@ Elders in deze uitgave van het Gele Katern treft u de publicatie aan over het sc
 
 ### Negatieve rechtspositionele gevolgen
 
-Bevoegde gezagsorganen kunnen in aanmerking komen voor toekenning van extra formatie, als zich door de toevoeging van het schoolprofielbudget aan het schoolbudget per 1 augustus 2002 op bestuursniveau negatieve rechtspositionele gevolgen voordoen. Van negatieve rechtspositionele gevolgen is sprake bij dreigend ontslag, dan wel van een negatief effect op het totale pakket aan arbeidsvoorwaarden dat in schooljaar 2001-2002 wel, en na toevoeging van het schoolprofielbudget aan het schoolbudget per 1 augustus 2002 niet meer betaald kan worden. Uitsluitend wanneer die negatieve rechtspositionele gevolgen worden veroorzaakt door de omzetting van het schoolprofielbudget (formatierekeneenheden) in geld ontstaat recht op extra middelen. Uitdrukkelijk maak ik u er op deze plaats op attent dat bij de beoordeling van de vraag of zich negatieve rechtspositionele gevolgen voordoen de effecten op de totale formatie op bestuursniveau worden betrokken (zie hieronder bij de paragraaf beoordeling).
+Bevoegde gezagsorganen kunnen in aanmerking komen voor toekenning van extra formatie, als zich door de toevoeging van het schoolprofielbudget aan het schoolbudget per 1 augustus 2002 op bestuursniveau negatieve rechtspositionele gevolgen voordoen. Van negatieve rechtspositionele gevolgen is sprake bij dreigend ontslag, dan wel van een negatief effect op het totale pakket aan arbeidsvoorwaarden dat in schooljaar 2001-2002 wel, en na toevoeging van het schoolprofielbudget aan het schoolbudget per 1 augustus 2002 niet meer betaald kan worden. Uitsluitend wanneer die negatieve rechtspositionele gevolgen worden veroorzaakt door de omzetting van het schoolprofielbudget (formatierekeneenheden) in geld ontstaat recht op extra middelen. Uitdrukkelijk maak ik u er op deze plaats op attent dat bij de beoordeling van de vraag of zich negatieve rechtspositionele gevolgen voordoen de effecten op de totale formatie op bestuursniveau worden betrokken (zie hieronder bij de [paragraaf beoordeling](https://wetten.overheid.nl/BWBR0013602)).
 
 ### Peildatum
 
@@ -58,6 +38,16 @@ Uitsluitend voor het schooljaar 2002 - 2003 wordt de toegekende formatie voor gr
 ### Aanvragen
 
 Schoolbesturen kunnen aanvragen voor toekenning van extra formatie op grond van deze overgangsregeling voor het schooljaar 2002 - 2003 vóór 15 september 2002 en vervolgens jaarlijks vóór 15 mei voorafgaande aan het schooljaar indienen bij Cƒi. Hierbij moet door de schoolbesturen worden aangetoond dat zich op bestuursniveau rechtspositionele gevolgen voordoen als gevolg van de toevoeging van het schoolprofielbudget aan het schoolbudget. Om een goede beoordeling mogelijk te maken is het noodzakelijk een vergelijking te kunnen maken van de ”oude” en de ”nieuwe” situatie; de ”oude” situatie heeft betrekking op de periode tot en met 31-7-2002, de ”nieuwe” situatie heeft betrekking op de periode vanaf 1-8-2002. Daarom is het ook noodzakelijk om alle onderstaande gegevens in te sturen. Zonder deze gegevens kan een aanvraag niet in behandeling worden genomen. Bij de aanvraag moeten ten minste de volgende gegevens worden meegestuurd:
+
+- het aantal fre’s extra formatie dat wordt aangevraagd en de rechtspositionele gevolgen op basis waarvan deze extra formatie wordt aangevraagd;
+
+- het BRIN-nummer van de school waaraan de extra formatie moet worden toegekend;
+
+- een overzicht van de aangestelde formatie (functie, maximumschaal, betrekkingsomvang, fre-verbruik) bij alle scholen van het bestuur, zowel voor de ”oude” situatie als voor de ”nieuwe’;
+
+- een overzicht van de verzilvering en de besteding hiervan van alle scholen van het bestuur, zowel voor de ”oude” situatie als voor de ”nieuwe”;
+
+- een overzicht van de formatieoverdrachten van alle scholen van het bestuur, zowel voor de ”oude” situatie als voor de ”nieuwe’.
 
 ### Beslissing
 

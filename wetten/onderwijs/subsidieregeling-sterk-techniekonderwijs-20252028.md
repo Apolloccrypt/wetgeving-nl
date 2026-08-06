@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0049520"
-opgehaald: 2026-08-05
+opgehaald: 2026-08-06
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 27 maart 2024, nr. OVO/43595480, houdende regels voor de subsidieverstrekking voor techniekonderwijs in het vmbo (Subsidieregeling sterk techniekonderwijs 2025–2028)

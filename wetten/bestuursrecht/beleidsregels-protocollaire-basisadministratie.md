@@ -1,58 +1,17 @@
 ---
 title: "Beleidsregels Protocollaire Basisadministratie"
 identifier: "BWBR0014172"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2019-02-08"
-last_updated: "2019-02-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014172"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6188823"
-version_id: "10873542"
-internal_id: "C14731331"
-label_id: "6177934"
-original_entry_into_force: "2002-11-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014172/2019-02-08/0"
-intitule_bron: "Stcrt.2002-214"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-11-01"
-intitule_published: "2002-11-06"
-intitule_in_force: "2002-11-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-214"
-original_signed_date: "2002-11-01"
-original_published_date: "2002-11-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2002-214-p13-SC36916"
-entry_into_force_date: "2002-11-08"
-jci_1_3: "jci1.3:c:BWBR0014172&z=2019-02-08&g=2019-02-08"
-jci_1_0: "1.0:c:BWBR0014172&g=2019-02-08"
-citeertitel_status: "officieel"
-signed_date: "2002-11-01"
-entry_into_force: "2002-11-08"
+publicatiedatum: 2002-11-08
+laatste_update: 2019-02-08
+status: geldig
+toestand: 2019-02-08
+bron: "https://wetten.overheid.nl/BWBR0014172"
+opgehaald: 2026-08-06
 ---
+
 # Beleidsregels Protocollaire Basisadministratie
-
-De Minister van Buitenlandse Zaken;
-
-Overwegende dat het wenselijk is ter bescherming van de persoonlijke levenssfeer regels te stellen omtrent het beheer en het gebruik van de geautomatiseerde basisadministratie met persoonsgegevens over geprivilegieerden;
-
-Gelet op het Verdrag van Wenen inzake Diplomatiek Verkeer 1961;
-
-Gelet op het Verdrag van Wenen inzake Consulaire Betrekkingen 1963;
-
-Gelet op het Verdrag nopens de Voorrechten en Immuniteiten van de Verenigde Naties 1946;
-
-Gelet op het Verdrag nopens de Voorrechten en Immuniteiten van Gespecialiseerde Organisaties 1947;
-
-Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties;
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Gelet op de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -102,7 +61,7 @@ PROBAS omvat de volgende persoonsgegevens van geprivilegieerden:
 
 - g. gegevens omtrent sociale verzekeringen;
 
-- h. vervallen;
+- h. *vervallen;*
 
 - i. het centrale registratie en vreemdelingennummer voor zover de geprivilegieerde duurzaam verblijf houdt in Nederland; en
 
@@ -110,11 +69,11 @@ PROBAS omvat de volgende persoonsgegevens van geprivilegieerden:
 
 ##### Artikel 5. Verwijdering en vernietiging van persoonsgegevens
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6. Afnemers
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Verstrekking aan afnemers
 
@@ -199,5 +158,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Beleidsregels Protocollaire Basisadministratie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

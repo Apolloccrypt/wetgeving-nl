@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 11 oktober 2002 op grond van de Sanctiewet 1977, inzake het melden van transacties die zouden kunnen duiden op de financiering van terrorisme"
+citeertitel: "Besluit melding transacties financiering terrorisme"
 identifier: "BWBR0014119"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-07-01"
-last_updated: "2017-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014119"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "3231463"
-version_id: "4982852"
-internal_id: "C5020381"
-label_id: "3203164"
-dtd_version: "2.0"
-original_entry_into_force: "2003-01-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014119/2017-07-01/0"
-intitule_bron: "Stb.2002-553"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-10-11"
-intitule_published: "2002-11-19"
-intitule_in_force: "2002-11-19"
-intitule_status: "goed"
-original_publication: "Stb.2002-553"
-original_signed_date: "2002-10-11"
-original_published_date: "2002-11-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-553"
-entry_into_force_date: "2003-01-19"
-jci_1_3: "jci1.3:c:BWBR0014119&z=2017-07-01&g=2017-07-01"
-jci_1_0: "1.0:c:BWBR0014119&g=2017-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit melding transacties financiering terrorisme"
-signed_date: "2002-10-11"
-entry_into_force: "2003-01-19"
+publicatiedatum: 2003-01-19
+laatste_update: 2017-07-01
+status: geldig
+toestand: 2017-07-01
+bron: "https://wetten.overheid.nl/BWBR0014119"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 11 oktober 2002 op grond van de Sanctiewet 1977, inzake het melden van transacties die zouden kunnen duiden op de financiering van terrorisme
-
-Op de voordracht van Onze Minister van Financiën, in overeenstemming met Onze Minister van Buitenlandse Zaken, van 13 juni 2002, nr. WJB 2002-672 M, Centrale directie wetgeving, juridische en bestuurlijke zaken;
-
-Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2), en [3 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=3);
-
-De Raad van State gehoord (advies van 7 augustus 2002, nr. W06.02.0275/IV);
-
-Gezien het nader rapport van Onze Minister van Financiën van 7 oktober 2002, FM 2002-1283 M; uitgebracht in overeenstemming met Onze Minister van Buitenlandse Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -54,49 +22,49 @@ In dit besluit wordt verstaan onder:
 
 - b. Lijst: de opsomming van personen, groepen en entiteiten, neergelegd in:
 
-- 1°. de bijlage, behorende bij de artikelen 1 en 4 van het Gemeenschappelijk Standpunt 2001/931/GBVB van de Raad van de Europese Unie van 27 december 2001 betreffende de toepassing van specifieke maatregelen ter bestrijding van het terrorisme (PbEG L 344);
+   - 1° de bijlage, behorende bij de artikelen 1 en 4 van het Gemeenschappelijk Standpunt 2001/931/GBVB van de Raad van de Europese Unie van 27 december 2001 betreffende de toepassing van specifieke maatregelen ter bestrijding van het terrorisme (PbEG L 344);
 
-- 2°. de lijst, vastgesteld op grond van artikel 2, derde lid, van [verordening (EG) nr. 2580/2001](32001R2580) van de Raad van de Europese Unie van 27 december 2001 inzake specifieke beperkende maatregelen tegen bepaalde personen en entiteiten met het oog op de strijd tegen het terrorisme (PbEG L 344); of
+   - 2° de lijst, vastgesteld op grond van artikel 2, derde lid, van verordening (EG) nr. 2580/2001 van de Raad van de Europese Unie van 27 december 2001 inzake specifieke beperkende maatregelen tegen bepaalde personen en entiteiten met het oog op de strijd tegen het terrorisme (PbEG L 344); of
 
-- 3°. bijlage I bij [Verordening (EG) nr. 881/2002](32002R0881) van de Raad van de Europese Unie van 27 mei 2002 tot vaststelling van bepaalde specifieke beperkingen tegen sommige personen en entiteiten die banden hebben met Usama bin Laden, het Al-Qa'ida-netwerk en de Taliban, en tot intrekking van [Verordening (EG) nr. 467/2001](32001R0467) van de Raad tot instelling van een verbod op de uitvoer van bepaalde goederen en diensten naar Afghanistan, tot versterking van het verbod op vluchten en verlenging van de bevriezing van tegoeden en andere financiële middelen ten aanzien van de Taliban van Afghanistan (PbEG L 139);
+   - 3° bijlage I bij Verordening (EG) nr. 881/2002 van de Raad van de Europese Unie van 27 mei 2002 tot vaststelling van bepaalde specifieke beperkingen tegen sommige personen en entiteiten die banden hebben met Usama bin Laden, het Al-Qa'ida-netwerk en de Taliban, en tot intrekking van Verordening (EG) nr. 467/2001 van de Raad tot instelling van een verbod op de uitvoer van bepaalde goederen en diensten naar Afghanistan, tot versterking van het verbod op vluchten en verlenging van de bevriezing van tegoeden en andere financiële middelen ten aanzien van de Taliban van Afghanistan (PbEG L 139);
 
 - c. Financiële onderneming:
 
-- 1°. een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+   - 1°. een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 2°. een verzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+   - 2° een verzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 3°. een beleggingsinstelling of icbe als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+   - 3° een beleggingsinstelling of icbe als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 4°. een beleggingsonderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+   - 4° een beleggingsonderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 5°. een bemiddelaar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), die bemiddelt in verzekeringen;
+   - 5° een bemiddelaar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), die bemiddelt in verzekeringen;
 
-- 6°. een natuurlijke persoon, rechtspersoon of vennootschap die beroeps- of bedrijfsmatig ten behoeve van of op verzoek van een ander munten of bankbiljetten wisselt, munten of bankbiljetten uitbetaald, tegen inlevering van een of meer cheques of munten of bankbiljetten uitbetaald op vertoon van een creditcard;
+   - 6° een natuurlijke persoon, rechtspersoon of vennootschap die beroeps- of bedrijfsmatig ten behoeve van of op verzoek van een ander munten of bankbiljetten wisselt, munten of bankbiljetten uitbetaald, tegen inlevering van een of meer cheques of munten of bankbiljetten uitbetaald op vertoon van een creditcard;
 
-- 7°. een onderneming of instelling die creditcards uitgeeft, tenzij de door haar uitgegeven creditcards alleen gebruikt kunnen worden bij haarzelf of bij een onderneming of instelling die behoort tot dezelfde groep in de zin van [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
+   - 7° een onderneming of instelling die creditcards uitgeeft, tenzij de door haar uitgegeven creditcards alleen gebruikt kunnen worden bij haarzelf of bij een onderneming of instelling die behoort tot dezelfde groep in de zin van [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
 
-- 8°. een wisselinstelling als bedoeld in [artikel 1:1 van de Wet financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+   - 8° een wisselinstelling als bedoeld in [artikel 1:1 van de Wet financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
 - d. Financiële dienst: het door een financiële onderneming in of vanuit Nederland:
 
-- 1°. in bewaring nemen van effecten, bankbiljetten, munten, muntbiljetten, edele metalen en andere waarden;
+   - 1° in bewaring nemen van effecten, bankbiljetten, munten, muntbiljetten, edele metalen en andere waarden;
 
-- 2°. openstellen van een rekening waarop een saldo in geld, effecten, edele metalen of andere waarden kan worden aangehouden;
+   - 2° openstellen van een rekening waarop een saldo in geld, effecten, edele metalen of andere waarden kan worden aangehouden;
 
-- 3°. verhuren van een safe-loket;
+   - 3° verhuren van een safe-loket;
 
-- 4°. verrichten van een uitbetaling ter zake van het verzilveren van coupons of vergelijkbare stukken van obligaties of vergelijkbare waardepapieren;
+   - 4° verrichten van een uitbetaling ter zake van het verzilveren van coupons of vergelijkbare stukken van obligaties of vergelijkbare waardepapieren;
 
-- 5°. het verrichten van een wisseltransactie als bedoeld in [artikel 1:1 van de Wet financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+   - 5° het verrichten van een wisseltransactie als bedoeld in [artikel 1:1 van de Wet financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 6°. sluiten van een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) tegen een premie als bedoeld in dat artikel, alsmede het daarbij bemiddelen als bedoeld in dat artikel;
+   - 6° sluiten van een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) tegen een premie als bedoeld in dat artikel, alsmede het daarbij bemiddelen als bedoeld in dat artikel;
 
-- 7°. doen van een uitkering uit hoofde van een levensverzekeringsovereenkomst als bedoeld onder 6°;
+   - 7° doen van een uitkering uit hoofde van een levensverzekeringsovereenkomst als bedoeld onder 6°;
 
-- 8°. crediteren of debiteren dan wel doen crediteren of debiteren van een rekening waarop een saldo in geld, effecten, edele metalen of andere waarden kan worden aangehouden;
+   - 8° crediteren of debiteren dan wel doen crediteren of debiteren van een rekening waarop een saldo in geld, effecten, edele metalen of andere waarden kan worden aangehouden;
 
-- 9°. verlenen van een dienst ter zake van een transactie of van kennelijk met elkaar samenhangende transacties;
+   - 9° verlenen van een dienst ter zake van een transactie of van kennelijk met elkaar samenhangende transacties;
 
 - e. Transactie: een handeling of samenstel van handelingen van of ten behoeve van een cliënt in verband met het afnemen van één of meer financiële diensten.
 
@@ -129,5 +97,3 @@ Degene die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014119
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag liggende twee maanden na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

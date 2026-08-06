@@ -1,50 +1,27 @@
 ---
 title: "Beschikking tot instelling van de Leerling- en Ouderkamer"
 identifier: "BWBR0012991"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012991"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5627303"
-version_id: "10071932"
-internal_id: "C13603541"
-label_id: "5608224"
-dtd_version: "2.0"
-original_entry_into_force: "2001-11-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012991/2022-08-01/0"
-intitule_bron: "Uitleg.2001-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-09"
-intitule_published: "2001-11-21"
-intitule_in_force: "2001-11-21"
-intitule_status: "goed"
-original_publication: "Uitleg.2001-27"
-original_signed_date: "2001-11-09"
-original_published_date: "2001-11-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-11-24"
-jci_1_3: "jci1.3:c:BWBR0012991&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0012991&g=2022-08-01"
-citeertitel_status: "officieel"
-signed_date: "2001-11-09"
-entry_into_force: "2001-11-24"
+publicatiedatum: 2001-11-24
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0012991"
+opgehaald: 2026-08-06
 ---
-# Beschikking tot instelling van de Leerling- en Ouderkamer
 
-Besluit:
+# Beschikking tot instelling van de Leerling- en Ouderkamer
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beschikking wordt verstaan onder:
 
-- **bewindspersoon:** de minister of staatssecretaris van onderwijs, cultuur en wetenschappen; ouders: ouders, voogden of verzorgders;
+- *bewindspersoon:* de minister of staatssecretaris van onderwijs, cultuur en wetenschappen; ouders: ouders, voogden of verzorgders;
 
-- **primair onderwijs:** de onderwijssoorten als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+- *primair onderwijs:* de onderwijssoorten als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
-- **voortgezet onderwijs:** de onderwijssoorten als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
+- *voortgezet onderwijs:* de onderwijssoorten als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Instelling Leerling- en Ouderkamer
 

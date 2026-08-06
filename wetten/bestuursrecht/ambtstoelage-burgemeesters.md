@@ -1,42 +1,21 @@
 ---
 title: "Ambtstoelage burgemeesters"
 identifier: "BWBR0013145"
-country: "nl"
-rank: "circulaire"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013145"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6369053"
-version_id: "11030272"
-internal_id: "C14927291"
-label_id: "6357904"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013145/2002-01-01/0"
-intitule_bron: "Stcrt.2001-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-11"
-intitule_published: "2001-12-21"
-intitule_in_force: "2001-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-248"
-original_signed_date: "2001-12-11"
-original_published_date: "2001-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-248-p10-SC32405"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0013145&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0013145&g=2002-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-12-11"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0013145"
+opgehaald: 2026-08-06
 ---
+
 # Ambtstoelage burgemeesters
 
 ### 1. Ambtstoelage burgemeesters
 
-In [artikel 16, tweede lid, van het Rechtspositiebesluit burgemeesters 1994](onbekend) is bepaald dat de ambtstoelage van burgemeesters per 1 januari van elk jaar wordt herzien aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.
+In artikel 16, tweede lid, van het Rechtspositiebesluit burgemeesters 1994 is bepaald dat de ambtstoelage van burgemeesters per 1 januari van elk jaar wordt herzien aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.
 
 De genoemde consumenteprijsindex voor 2001 is bepaald op 117.6. In 2000 was dat indexcijfer bepaald op 112.3.
 
@@ -44,11 +23,18 @@ Dit houdt in dat de bedragen van de ambtstoelage per 1 januari 2002 worden verho
 
 Voor uw informatie meld ik u dat het indexcijfer is gebaseerd op gegevens van het CBS van medio november 2001.
 
-Met ingang van 1 januari 2002 worden de bedragen genoemd in [artikel 16, eerste lid, van het Rechtspositiebesluit burgemeesters 1994](onbekend) als volgt gewijzigd:
+Met ingang van 1 januari 2002 worden de bedragen genoemd in artikel 16, eerste lid, van het Rechtspositiebesluit burgemeesters 1994 als volgt gewijzigd:
+
+| Inwonersklasse | ambtstoelage in euro's |
+| --- | --- |
+| Klasse 1 en 2 | € 547,32 |
+| Klasse 3 en 4 | € 575,36 |
+| Klasse 5 en 6 | € 599,59 |
+| Klasse 7 t/m 11 | € 619,54 |
 
 ### 2. Algemene informatie over de eurobedragen
 
-Bij [besluit](onbekend) van 14 september 2001, Staatsblad 2001, 415, zijn de guldenbedragen in de officiële regelingen reeds omgerekend naar eurobedragen.
+Bij besluit van 14 september 2001, Staatsblad 2001, 415, zijn de guldenbedragen in de officiële regelingen reeds omgerekend naar eurobedragen.
 
 Dit geldt ook voor de guldenbedragen van bovengenoemde ambtstoelage.
 

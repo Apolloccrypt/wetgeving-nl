@@ -1,102 +1,72 @@
 ---
 title: "Wet van 29 november 2001 tot verbetering van de procesgang in het eerste ziektejaar en nieuwe regels voor de ziekmelding, de reïntegratie en de wachttijd van werknemers alsmede met betrekking tot de loondoorbetalingsverplichting van de werkgever (Wet verbetering poortwachter)"
+citeertitel: "Wet verbetering poortwachter"
 identifier: "BWBR0013063"
-country: "nl"
-rank: "wet"
-publication_date: "2008-11-01"
-last_updated: "2008-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013063"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "1963303"
-version_id: "2909482"
-internal_id: "C2909481"
-label_id: "1912884"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013063/2008-11-01/0"
-intitule_bron: "Stb.2001-628"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-29"
-intitule_published: "2001-12-18"
-intitule_in_force: "2001-12-27"
-intitule_status: "goed"
-original_publication: "Stb.2001-628"
-original_signed_date: "2001-11-29"
-original_published_date: "2001-12-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "27678"
-original_url_id: "stb-2001-628"
-entry_into_force_date: "2002-01-01"
-entry_into_force_dossier: "27678"
-jci_1_3: "jci1.3:c:BWBR0013063&z=2008-11-01&g=2008-11-01"
-jci_1_0: "1.0:c:BWBR0013063&g=2008-11-01"
-citeertitel_status: "officieel"
-short_title: "Wet verbetering poortwachter"
-signed_date: "2001-11-29"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2008-11-01
+status: geldig
+toestand: 2008-11-01
+bron: "https://wetten.overheid.nl/BWBR0013063"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 29 november 2001 tot verbetering van de procesgang in het eerste ziektejaar en nieuwe regels voor de ziekmelding, de reïntegratie en de wachttijd van werknemers alsmede met betrekking tot de loondoorbetalingsverplichting van de werkgever (Wet verbetering poortwachter)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+##### Artikel I. Ziektewet
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om een reïntegratieverslag en verlenging van de wachttijd in de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) in te voeren, de bepalingen over de ziekmelding in de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en over de loondoorbetalingsverplichting van de werkgever in het Burgerlijk Wetboek alsmede, in verband met het voorgaande, de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) en enige andere wetten, te wijzigen met het oog op verbetering van de procesgang tijdens het eerste ziektejaar van de werknemer en een heldere verantwoordelijkheidsverdeling van werkgevers, werknemers, arbodiensten en uitvoeringsinstanties daarbij;
+*Wijzigt de Ziektewet.*
 
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+##### Artikel II. Wet op de arbeidsongeschiktheidsverzekering
 
-##### Artikel I. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
-Wijzigt de Ziektewet.
+##### Artikel III. Burgerlijk Wetboek
 
-##### Artikel II. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
-
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
-
-##### Artikel III. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
-
-Wijzigt Boek 7 van het Burgerlijk Wetboek.
+*Wijzigt Boek 7 van het Burgerlijk Wetboek.*
 
 ##### Artikel IV. Organisatiewet sociale verzekeringen 1997
 
-Wijzigt de Organisatiewet sociale verzekeringen 1997.
+*Wijzigt de Organisatiewet sociale verzekeringen 1997.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
-##### Artikel V. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel V. Werkloosheidswet
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
-##### Artikel VI. [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel VI. Wet op de (re)integratie arbeidsgehandicapten
 
-Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.
+*Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.*
 
-##### Artikel VII. [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
+##### Artikel VII. Arbeidsomstandighedenwet 1998
 
-Wijzigt de Arbeidsomstandighedenwet 1998.
+*Wijzigt de Arbeidsomstandighedenwet 1998.*
 
-##### Artikel VIII. [Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083)
+##### Artikel VIII. Wet inschakeling werkzoekenden
 
-Wijzigt deWet inschakeling werkzoekenden.
+*Wijzigt deWet inschakeling werkzoekenden.*
 
-##### Artikel IX. [Wet terugdringing ziekteverzuim](https://wetten.overheid.nl/jci1.3:c:BWBR0006355)
+##### Artikel IX. Wet terugdringing ziekteverzuim
 
-Wijzigt de Wet terugdringing ziekteverzuim.
+*Wijzigt de Wet terugdringing ziekteverzuim.*
 
-##### Artikel X. [Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267)
+##### Artikel X. Wet overheidspersoneel onder de werknemersverzekeringen
 
-Wijzigt de Wet overheidspersoneel onder de werknemersverzekeringen.
+*Wijzigt de Wet overheidspersoneel onder de werknemersverzekeringen.*
 
-##### Artikel XI. [Wet beslistermijnen sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0012091)
+##### Artikel XI. Wet beslistermijnen sociale verzekeringen
 
-Wijzigt de Wet beslistermijnen sociale verzekeringen.
+*Wijzigt de Wet beslistermijnen sociale verzekeringen.*
 
-##### Artikel XII. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+##### Artikel XII. Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
-Wijzigt de Wet arbeidsongeschiktheidsverzekerng zelfstandigen.
+*Wijzigt de Wet arbeidsongeschiktheidsverzekerng zelfstandigen.*
 
-##### Artikel XIII. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+##### Artikel XIII. Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.*
 
 ##### Artikel XIV. Evaluatiebepaling
 
@@ -118,9 +88,9 @@ Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen 4 jaar na de inw
 
 7. Bij ministeriële regeling kunnen in verband met de goede overgang van taken van het Uitvoeringsinstituut werknemersverzekeringen naar verplichtingen van de werkgever regels van overgangsrecht worden gesteld.
 
-##### Artikel XVI. Bepaling in verband met de [Invoeringswet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013009)
+##### Artikel XVI. Bepaling in verband met de Invoeringswet arbeid en zorg
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XVII. Inwerkingtreding
 
@@ -131,5 +101,3 @@ Wijzigt deze wet.
 ##### Artikel XVIII. Citeertitel
 
 Deze wet wordt aangehaald als: Wet verbetering poortwachter.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

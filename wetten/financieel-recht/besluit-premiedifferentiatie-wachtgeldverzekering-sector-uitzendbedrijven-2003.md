@@ -1,56 +1,31 @@
 ---
 title: "Besluit premiedifferentiatie wachtgeldverzekering sector Uitzendbedrijven 2003"
 identifier: "BWBR0014140"
-country: "nl"
-rank: "zbo"
-publication_date: "2003-01-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014140"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6589583"
-version_id: "11429702"
-internal_id: "C15399481"
-label_id: "6578024"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014140/2003-01-01/0"
-intitule_bron: "Stcrt.2002-220"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-10-23"
-intitule_published: "2002-11-14"
-intitule_in_force: "2002-11-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-220"
-original_signed_date: "2002-10-23"
-original_published_date: "2002-11-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2002-220-p46-SC37043"
-entry_into_force_date: "2003-01-01"
-jci_1_3: "jci1.3:c:BWBR0014140&z=2003-01-01&g=2003-01-01"
-jci_1_0: "1.0:c:BWBR0014140&g=2003-01-01"
-citeertitel_status: "officieel"
-signed_date: "2002-10-23"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2003-01-01
+status: geldig
+toestand: 2003-01-01
+bron: "https://wetten.overheid.nl/BWBR0014140"
+opgehaald: 2026-08-06
 ---
+
 # Besluit premiedifferentiatie wachtgeldverzekering sector Uitzendbedrijven 2003
-
-Gelet op [artikel 85, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=85);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Uitzendbedrijven IA** groepen uitzendkrachten met administratieve of (para)medische functies krachtens een uitzendovereenkomst in de zin van [artikel 7:690 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690) en op wier uitzendovereenkomst een schriftelijk beding als bedoeld in [artikel 7:691 tweede lid BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) van toepassing is, werkzaam bij uitzendbedrijven;
+- a. *Uitzendbedrijven IA* groepen uitzendkrachten met administratieve of (para)medische functies krachtens een uitzendovereenkomst in de zin van [artikel 7:690 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690) en op wier uitzendovereenkomst een schriftelijk beding als bedoeld in [artikel 7:691 tweede lid BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) van toepassing is, werkzaam bij uitzendbedrijven;
 
-- b. **Uitzendbedrijven IIA** groepen uitzendkrachten met technische of overige functies krachtens een uitzendovereenkomst in de zin van [artikel 7:690 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690) en op wier uitzendovereenkomst een beding als bedoeld in [artikel 7:691 tweede lid BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) van toepassing is, werkzaam bij uitzendbedrijven;
+- b. *Uitzendbedrijven IIA* groepen uitzendkrachten met technische of overige functies krachtens een uitzendovereenkomst in de zin van [artikel 7:690 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690) en op wier uitzendovereenkomst een beding als bedoeld in [artikel 7:691 tweede lid BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) van toepassing is, werkzaam bij uitzendbedrijven;
 
-- c. **Intermediaire diensten** intercedenten en consulenten; filiaalhouders en vestigingsmanagers; administratief personeel; directie en stafleden; operationele stafmedewerkers; boekhouding en uitzendadministratie; al het personeel waarvan de werkzaamheden zijn terug te voeren op het ter beschikking stellen van arbeidskrachten aan derden, werkzaam bij uitzendbedrijven;
+- c. *Intermediaire diensten* intercedenten en consulenten; filiaalhouders en vestigingsmanagers; administratief personeel; directie en stafleden; operationele stafmedewerkers; boekhouding en uitzendadministratie; al het personeel waarvan de werkzaamheden zijn terug te voeren op het ter beschikking stellen van arbeidskrachten aan derden, werkzaam bij uitzendbedrijven;
 
-- d. **Uitzendbedrijven IB en IIB** groepen uitzendkrachten met administratieve, (para)medische functies, technische of overige functies krachtens een uitzendovereenkomst in de zin van [artikel 7:690 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690) en op wier uitzendovereenkomst niet een beding als bedoeld in [artikel 7:691 tweede lid BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) van toepassing is, werkzaam bij uitzendbedrijven;
+- d. *Uitzendbedrijven IB en IIB* groepen uitzendkrachten met administratieve, (para)medische functies, technische of overige functies krachtens een uitzendovereenkomst in de zin van [artikel 7:690 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690) en op wier uitzendovereenkomst niet een beding als bedoeld in [artikel 7:691 tweede lid BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) van toepassing is, werkzaam bij uitzendbedrijven;
 
-- e. **Detachering** groepen arbeidskrachten die niet vallen onder de hierboven genoemde groepen, werkzaam bij uitzendbedrijven.
+- e. *Detachering* groepen arbeidskrachten die niet vallen onder de hierboven genoemde groepen, werkzaam bij uitzendbedrijven.
 
 ##### Artikel 2
 
@@ -139,5 +114,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2003.
 ##### Artikel 13
 
 Het Besluit premiedifferentiatie wachtgeldverzekering sector Uitzendbedrijven wordt ingetrokken.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

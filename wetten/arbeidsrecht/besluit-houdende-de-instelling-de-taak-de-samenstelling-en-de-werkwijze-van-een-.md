@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 18 oktober 2001, houdende de instelling, de taak, de samenstelling en de werkwijze van een commissie als bedoeld in Artikel 45 van het Algemeen militair ambtenarenreglement"
+citeertitel: "Besluit, houdende de instelling, de taak, de samenstelling en de werkwijze van een commissie als bedoeld in Artikel 45 van het Algemeen militair ambtenarenreglement"
 identifier: "BWBR0012905"
-country: "nl"
-rank: "kb"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012905"
+categorie: "Overig"
 soort: "KB"
-stam_id: "1575883"
-version_id: "2336632"
-internal_id: "C2336631"
-label_id: "1531024"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012905/2002-01-01/0"
-intitule_bron: "Stb.2001-540"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-10-18"
-intitule_published: "2001-11-15"
-intitule_in_force: "2001-11-15"
-intitule_status: "goed"
-original_publication: "Stb.2001-540"
-original_signed_date: "2001-10-18"
-original_published_date: "2001-11-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-540"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0012905&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0012905&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit, houdende de instelling, de taak, de samenstelling en de werkwijze van een commissie als bedoeld in Artikel 45 van het Algemeen militair ambtenarenreglement"
-signed_date: "2001-10-18"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0012905"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 18 oktober 2001, houdende de instelling, de taak, de samenstelling en de werkwijze van een commissie als bedoeld in Artikel 45 van het Algemeen militair ambtenarenreglement
-
-Op de voordracht van Onze Minister-President en van de Staatssecretaris van Defensie van 8 oktober 2001, Directoraat Generaal Personeel, nr. P/2001006743;
-
-Gelet op [artikel 12g van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12g) en [artikel 45 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=45),
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Instelling
 
@@ -136,6 +108,4 @@ De commissie wordt bijgestaan door een secretaris en een plaatsvervangend secret
 
 ##### Artikel 10
 
-Aan de (plaatsvervangende) leden van de commissie wordt voor elke dag dat zij een vergadering hebben bijgewoond een vacatiegeld van hfl 150,– toegekend.
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst.
+Aan de (plaatsvervangende) leden van de commissie wordt voor elke dag dat zij een vergadering hebben bijgewoond een vacatiegeld van hfl 150,– toegekend.

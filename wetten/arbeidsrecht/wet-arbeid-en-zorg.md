@@ -1,48 +1,18 @@
 ---
 title: "Wet van 16 november 2001 tot vaststelling van regels voor het tot stand brengen van een nieuw evenwicht tussen arbeid en zorg in de ruimste zin (Wet arbeid en zorg)"
+citeertitel: "Wet arbeid en zorg"
 identifier: "BWBR0013008"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013008"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "1635693"
-version_id: "2415682"
-internal_id: "C2415681"
-label_id: "1591154"
-dtd_version: "2.0"
-original_entry_into_force: "2001-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013008/2025-01-01/0"
-intitule_bron: "Stb.2001-567"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-16"
-intitule_published: "2001-11-29"
-intitule_in_force: "2001-11-29"
-intitule_status: "goed"
-original_publication: "Stb.2001-567"
-original_signed_date: "2001-11-16"
-original_published_date: "2001-11-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "27207"
-original_url_id: "stb-2001-567"
-entry_into_force_date: "2001-12-01"
-entry_into_force_dossier: "27431"
-jci_1_3: "jci1.3:c:BWBR0013008&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0013008&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet arbeid en zorg"
-signed_date: "2001-11-16"
-entry_into_force: "2001-12-01"
+publicatiedatum: 2001-12-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0013008"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 16 november 2001 tot vaststelling van regels voor het tot stand brengen van een nieuw evenwicht tussen arbeid en zorg in de ruimste zin (Wet arbeid en zorg)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regels vast te stellen, waarin een nieuw evenwicht tot stand wordt gebracht tussen arbeid en zorg in de ruimste zin;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -92,17 +62,37 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze wet verstaan onder:
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt met een collectieve arbeidsovereenkomst gelijkgesteld een regeling door of namens een daartoe bevoegd bestuursorgaan.
 
+#### Werkingsduur, regeling bestuursorgaan of regeling met ondernemingsraad/personeelsvertegenwoordiging
+
+##### Artikel 1:5
+
+Voor de toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=5&artikel=4:7&z=2025-01-01&g=2025-01-01) en 5:16 geldt een afwijkende regeling door of namens een daartoe bevoegd bestuursorgaan of een afwijkende regeling waaromtrent de werkgever schriftelijk overeenstemming heeft bereikt met de ondernemingsraad, of bij het ontbreken daarvan, met de personeelsvertegenwoordiging, voor vijf jaren vanaf het tijdstip waarop die regeling ingaat, indien geen termijn van ten hoogste vijf jaren is bepaald. Indien geen termijn is bepaald gaat bij wijziging van de regeling waarvan de in de eerste zin bedoelde afwijking deel uitmaakt binnen het in die zin bedoelde tijdvak, ten aanzien van de afwijking een nieuw tijdvak in op het tijdstip van inwerkingtreding van de wijziging.
+
+#### Behoud van rechten, functie en arbeidsvoorwaarden
+
+##### Artikel 1:6
+
+1. De werknemer die verlof geniet op grond van deze wet behoudt gedurende het verlof de reeds verworven of in opbouw zijnde rechten die uit de arbeidsverhouding voortvloeien. Na afloop van het verlof zijn die rechten, met inbegrip van de uit de wet, collectieve arbeidsovereenkomst dan wel gebruiken voortvloeiende veranderingen, van toepassing.
+
+2. De werknemer die verlof geniet op grond van deze wet wordt in staat gesteld om na afloop van het verlof onder voor hem niet minder gunstige voorwaarden en omstandigheden terug te keren in de oorspronkelijke of een gelijkwaardige functie en te profiteren van elke verbetering van arbeidsvoorwaarden waarop hij aanspraak had kunnen maken indien hij het verlof niet had genoten.
+
+#### Bescherming tegen nadelige behandeling of gevolgen
+
+##### Artikel 1:7
+
+De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte een recht op verlof als bedoeld in deze wet geldend maakt, ter zake bijstand heeft verleend, of hieromtrent een klacht binnen de onderneming heeft ingediend.
+
 ### Hoofdstuk 2. Aanpassing arbeidsduur
 
 #### Gereserveerd
 
-### Hoofdstuk 2. Aanpassing arbeidsduur
+### Hoofdstuk 3. Zwangerschap, bevalling, adoptie en pleegzorg
 
-### Afdeling 1. Het recht op verlof in verband met zwangerschap, bevalling, adoptie en pleegzorg
+#### Afdeling 1. Het recht op verlof in verband met zwangerschap, bevalling, adoptie en pleegzorg
 
-#### Bescherming tegen nadelige behandeling of gevolgen
+#### § 1. Verlofvorm
 
-#### Zwangerschaps- en bevallingsverlof
+##### Zwangerschaps- en bevallingsverlof
 
 ##### Artikel 3:1
 
@@ -124,7 +114,29 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt met een
 
 9. Ingeval van toepassing van het vijfde lid, ziet het verzoek, bedoeld in het zesde lid, op de periode na afloop van de verlenging, bedoeld in het vijfde lid.
 
-#### Zwangerschaps- en bevallingsverlof
+##### Artikel 3:1a. Overgang bevallingsverlof
+
+1. Indien op de dag van de bevalling dan wel tijdens het bevallingsverlof de vrouwelijke werknemer overlijdt en een akte van geboorte van haar kind is opgemaakt heeft haar partner, indien deze werknemer is als bedoeld in [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), recht op het resterende bevallingsverlof met behoud van loon.
+
+2. Voor de toepassing van dit hoofdstuk wordt als partner aangemerkt degene die:
+
+- a. ten tijde van het overlijden van de moeder met haar was gehuwd of een geregistreerd partnerschap was aangegaan; of
+
+- b. het kind heeft erkend.
+
+3. De duur van het resterende bevallingsverlof wordt berekend overeenkomstig [artikel 3:1, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2025-01-01&g=2025-01-01). Artikel 3:1, zesde lid, is van overeenkomstige toepassing op het opnemen van het resterende bevallingsverlof, met dien verstande dat in plaats van «vrouwelijke werknemer» telkens wordt gelezen: partner.
+
+4. De partner, die werknemer is als bedoeld in [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), heeft ook recht op verlof met behoud van loon, indien de moeder van het kind een gelijkgestelde was als bedoeld in artikel 3:6, een zelfstandige of een beroepsbeoefenaar op arbeidsovereenkomst als bedoeld in [artikel 3:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:17&z=2025-01-01&g=2025-01-01), of geen recht had op bevallingsverlof of een uitkering als bedoeld in [afdeling 2 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&z=2025-01-01&g=2025-01-01).
+
+5. De werkgever kan het op grond van het eerste of vierde lid voldane loon binnen zes weken na afloop van het resterende bevallingsverlof in rekening brengen bij het Uitvoeringsinstituut werknemersverzekeringen. De werkgever verstrekt genoemd instituut een afschrift van de akte van geboorte van het kind en van de akte van overlijden van de moeder. Het loon wordt door het Uitvoeringsinstituut werknemersverzekeringen aan de werkgever betaald zonder dat dit bij beschikking is vastgesteld, indien redelijkerwijs mag worden aangenomen dat aan een beschikking geen behoefte bestaat.
+
+6. Indien het verzoek, bedoeld in het vijfde lid, niet tijdig wordt gedaan, wordt de vergoeding van het op grond van het eerste of vierde lid voldane loon uitsluitend toegekend voor zover het tijdvak waarover dit loon in rekening wordt gebracht, valt in het jaar voorafgaand aan de datum van het verzoek. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de werkgever afwijken van de eerste zin.
+
+7. Indien de moeder gelijkgestelde, zelfstandige of beroepsbeoefenaar op arbeidsovereenkomst was, wordt de duur van het verlof gelijkgesteld aan de duur van het resterende recht op uitkering, bedoeld in [afdeling 2 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&z=2025-01-01&g=2025-01-01). Indien de moeder geen recht had op bevallingsverlof of een uitkering als bedoeld in afdeling 2 van hoofdstuk 3, eindigt het verlof van de partner tien weken na de dag waarop het kind is geboren. [Artikel 3:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
+
+8. De partner meldt het overlijden van de moeder en de opname van het verlof uiterlijk op de tweede dag volgend op haar overlijden bij zijn werkgever. De partner verstrekt de werkgever binnen vier weken na het overlijden van de moeder een afschrift van de akte van geboorte van het kind en van de akte van overlijden van de moeder.
+
+##### Adoptieverlof
 
 ##### Artikel 3:2
 
@@ -140,7 +152,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt met een
 
 #### § 2. Melding
 
-#### Adoptieverlof
+##### Meldingsverplichting
 
 ##### Artikel 3:3
 
@@ -154,15 +166,15 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt met een
 
 3. De werknemer meldt aan de werkgever het opnemen van het verlof in verband met adoptie zo mogelijk uiterlijk drie weken voor de dag van ingang van het verlof onder opgave van de omvang van het verlof. Bij de melding worden documenten gevoegd waaruit blijkt dat een kind ter adoptie is of zal worden opgenomen.
 
-#### § 2. Melding
+#### § 3. Nadere voorschriften
 
-#### Meldingsverplichting
+##### Compensatie met vakantie-aanspraken
 
 ##### Artikel 3:4
 
 Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in de [artikelen 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2025-01-01&g=2025-01-01), [3:1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1a&z=2025-01-01&g=2025-01-01) en [3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:2&z=2025-01-01&g=2025-01-01), kunnen niet worden aangemerkt als vakantie.
 
-#### § 3. Nadere voorschriften
+#### § 4. Mate van gebondenheid
 
 ##### Artikel 3:5
 
@@ -170,25 +182,25 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 2. In geval van buitengewone omstandigheden als bedoeld in de [Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981) kan Onze Minister van Defensie voor de militaire ambtenaar afwijken of doen afwijken van de [artikelen 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2025-01-01&g=2025-01-01), [3:1a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1a&z=2025-01-01&g=2025-01-01) en [3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:2&z=2025-01-01&g=2025-01-01).
 
-### Afdeling 2. Uitkering in verband met zwangerschap, bevalling, adoptie en pleegzorg
+#### Afdeling 2. Uitkering in verband met zwangerschap, bevalling, adoptie en pleegzorg
 
-#### § 4. Mate van gebondenheid
+#### § 1. De werknemer en de gelijkgestelde
 
-#### Begrippen werknemer, gelijkgestelde en werkgever
+##### Begrippen werknemer, gelijkgestelde en werkgever
 
 ##### Artikel 3:6
 
 1. Voor de toepassing van deze paragraaf wordt verstaan onder:
 
-- a. werknemer: de werknemer, bedoeld in [artikel 1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2025-01-01&g=2025-01-01), met uitzondering van degene die op grond van de [Eerste Afdeling, Paragraaf 2, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&paragraaf=2) geen werknemer in de zin van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is;
+- a. werknemer: de werknemer, bedoeld in [artikel 1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2025-01-01&g=2025-01-01), met uitzondering van degene die op grond van de [Eerste Afdeling, Paragraaf 2, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&paragraaf=2) geen werknemer in de zin van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is;
 
 - b. gelijkgestelde: degene die geen werknemer is als bedoeld in [artikel 1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2025-01-01&g=2025-01-01), doch
 
-- 1°. op grond van de [Eerste Afdeling, Paragraaf 2, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&paragraaf=2), met uitzondering van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8a), wel werknemer in de zin van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is, of
+   - 1°. op grond van de [Eerste Afdeling, Paragraaf 2, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&paragraaf=2), met uitzondering van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8a), wel werknemer in de zin van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is, of
 
-- 2°. op grond van [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7) recht heeft op de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten;
+   - 2°. op grond van [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7) recht heeft op de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten;
 
-- c. werkgever: de werkgever, bedoeld in [artikel 1:1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2025-01-01&g=2025-01-01), of de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=11) of [12 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=12).
+- c. werkgever: de werkgever, bedoeld in [artikel 1:1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=1&artikel=1:1&z=2025-01-01&g=2025-01-01), of de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=11) of [12 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=12).
 
 2. Voor de toepassing van deze paragraaf wordt mede verstaan onder:
 
@@ -196,7 +208,7 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 - b. gelijkgestelde: degene die geen werknemer is als bedoeld in onderdeel a doch wel vrijwillig verzekerd is als bedoeld in de [Tweede Afdeling, Hoofdstuk IV, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&hoofdstuk=IV).
 
-#### Begrippen werknemer, gelijkgestelde en werkgever
+##### Recht op uitkering voor de werknemer
 
 ##### Artikel 3:7
 
@@ -204,7 +216,7 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 2. De werknemer heeft gedurende de periode dat het verlof in verband met adoptie of de opname van een pleegkind wordt genoten overeenkomstig [artikel 3:2, tweede lid of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:2&z=2025-01-01&g=2025-01-01), recht op uitkering.
 
-#### Recht op uitkering voor de werknemer
+##### Recht op uitkering in verband met zwangerschap en bevalling voor de vrouwelijke gelijkgestelde
 
 ##### Artikel 3:8
 
@@ -218,7 +230,7 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 5. Als een kind tijdens de periode waarop een recht op uitkering in verband met bevalling bestaat vanwege zijn medische toestand in het ziekenhuis is opgenomen, wordt het recht op uitkering in verband met bevalling verlengd met de tijd dat het kind in het ziekenhuis heeft doorgebracht vanaf de achtste dag van opname tot en met de laatste dag waarop het recht op uitkering bestaat tot een maximum van tien weken. De in de eerste zin bedoelde verlenging van het recht op uitkering in verband met de bevalling is uitsluitend van toepassing voor zover de aldaar bedoelde ziekenhuisopname langer duurt dan het aantal dagen waarmee de uitkering in verband met de bevalling als gevolg van de werkelijke datum van bevalling op grond van het derde lid wordt verlengd. [Artikel 3:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3:3&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
-#### Recht op uitkering in verband met zwangerschap en bevalling voor de vrouwelijke gelijkgestelde
+##### Recht op uitkering in verband met adoptie of pleegzorg voor de gelijkgestelde
 
 ##### Artikel 3:9
 
@@ -230,7 +242,7 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de werknemer die een pleegkind opneemt als bedoeld in [artikel 5:1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2025-01-01&g=2025-01-01).
 
-#### Recht op uitkering in verband met adoptie of pleegzorg voor de gelijkgestelde
+##### Recht op uitkering bij nawerking
 
 ##### Artikel 3:10
 
@@ -242,7 +254,7 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 4. Het eerste tot en met derde lid zijn niet van toepassing indien het een gelijkgestelde betreft als bedoeld in [artikel 3.6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01).
 
-#### Recht op uitkering bij nawerking
+##### De aanvraag van uitkering via de werkgever
 
 ##### Artikel 3:11
 
@@ -260,7 +272,7 @@ Indien het bevallingsverlof van de vrouwelijke werknemer of het recht op uitkeri
 
 4. Indien de aanvraag niet tijdig wordt gedaan, wordt de uitkering uitsluitend toegekend voor zover het tijdvak waarin sprake was van recht op uitkering in verband met zwangerschap en bevalling, adoptie of pleegzorg, valt in het jaar voorafgaand aan de datum van aanvraag. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de werknemer of gelijkgestelde afwijken van de eerste zin.
 
-#### De aanvraag van uitkering via de werkgever
+##### De rechtstreekse aanvraag van uitkering
 
 ##### Artikel 3:12
 
@@ -268,37 +280,37 @@ Indien het bevallingsverlof van de vrouwelijke werknemer of het recht op uitkeri
 
 2. Het Uitvoeringsinstituut werknemersverzekeringen kan de vrouwelijke gelijkgestelde, uiterlijk binnen een jaar na het tijdstip waarop de uitkering geëindigd is, een verklaring vragen van een arts of verloskundige over de vermoedelijke datum van bevalling, welke is opgemaakt uiterlijk twee weken voor de datum van ingang van het zwangerschapsverlof onderscheidenlijk twee weken voor de datum waarop de vrouwelijke gelijkgestelde het recht op uitkering wil laten ingaan.
 
-3. Indien de gelijkgestelde, die in aanmerking wenst te komen voor toekenning van uitkering in verband met adoptie of pleegzorg, geen werkgever heeft, doet hij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor ingang van de datum waarop hij het recht op uitkering wil laten ingaan. [Artikel 3:11, derde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:11&z=2025-01-01&g=2025-01-01), is van toepassing.
+3. Indien de gelijkgestelde, die in aanmerking wenst te komen voor toekenning van uitkering in verband met adoptie of pleegzorg, geen werkgever heeft, doet hij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor ingang van de datum waarop hij het recht op uitkering wil laten ingaan. [Artikel 3:11, derde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:11&z=2025-01-01&g=2025-01-01), is van toepassing.
 
 4. Indien de aanvraag niet tijdig wordt gedaan, wordt de uitkering uitsluitend toegekend voor zover het tijdvak waarin sprake was van recht op uitkering in verband met zwangerschap en bevalling, adoptie of pleegzorg, valt in het jaar voorafgaand aan de datum van aanvraag. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de gelijkgestelde afwijken van de eerste zin.
 
 5. Voor de toepassing van dit artikel wordt onder gelijkgestelde mede verstaan degene die recht op uitkering heeft op grond van [artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2025-01-01&g=2025-01-01).
 
-#### De rechtstreekse aanvraag van uitkering
+##### De hoogte van de uitkering
 
 ##### Artikel 3:13
 
 1. De uitkering, bedoeld in deze paragraaf, bedraagt per dag het dagloon.
 
-2. Voor de berekening van de uitkering waarop op grond van deze paragraaf recht bestaat, wordt als dagloon beschouwd 1/261 deel van het loon, bedoeld in [hoofdstuk 3 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3), dat de werknemer of de gelijkgestelde, bedoeld in [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), dan wel de betrokkene, bedoeld in [artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2025-01-01&g=2025-01-01), in de periode van één jaar, die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin het recht op uitkering op grond van deze paragraaf is ontstaan, verdiende in de dienstbetrekking waaruit dat recht is ontstaan, doch ten hoogste het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag.
+2. Voor de berekening van de uitkering waarop op grond van deze paragraaf recht bestaat, wordt als dagloon beschouwd 1/261 deel van het loon, bedoeld in [hoofdstuk 3 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3), dat de werknemer of de gelijkgestelde, bedoeld in [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), dan wel de betrokkene, bedoeld in [artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2025-01-01&g=2025-01-01), in de periode van één jaar, die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin het recht op uitkering op grond van deze paragraaf is ontstaan, verdiende in de dienstbetrekking waaruit dat recht is ontstaan, doch ten hoogste het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag.
 
-3. In afwijking van het tweede lid, wordt, indien de gelijkgestelde, bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2025-01-01&g=2025-01-01), direct voorafgaand aan het recht op uitkering op grond van deze wet of de betrokkene, bedoeld in [artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2025-01-01&g=2025-01-01), voorafgaand aan het recht op uitkering op grond van deze wet, een recht op uitkering heeft gehad op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), met uitzondering van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) en [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV), of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), voor de hoogte van het dagloon uitgegaan van het dagloon zoals dat op grond van de Ziektewet, Werkloosheidswet, of Wet werk en inkomen naar arbeidsvermogen is vastgesteld en herzien.
+3. In afwijking van het tweede lid, wordt, indien de gelijkgestelde, bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2025-01-01&g=2025-01-01), direct voorafgaand aan het recht op uitkering op grond van deze wet of de betrokkene, bedoeld in [artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2025-01-01&g=2025-01-01), voorafgaand aan het recht op uitkering op grond van deze wet, een recht op uitkering heeft gehad op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), met uitzondering van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) en [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV), of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), voor de hoogte van het dagloon uitgegaan van het dagloon zoals dat op grond van de Ziektewet, Werkloosheidswet, of Wet werk en inkomen naar arbeidsvermogen is vastgesteld en herzien.
 
-4. Bij algemene maatregel van bestuur worden ten aanzien van de vaststelling en de herziening van het dagloon, bedoeld in het tweede en derde lid, nadere en zo nodig afwijkende regels gesteld, onder meer over de vaststelling en herziening van het dagloon wanneer de dienstbetrekking in het tweede lid, korter heeft geduurd dan het jaar, bedoeld in dat lid en over de vaststelling van het dagloon voor de vrijwillig verzekerde, bedoeld in [artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), van deze wet.
+4. Bij algemene maatregel van bestuur worden ten aanzien van de vaststelling en de herziening van het dagloon, bedoeld in het tweede en derde lid, nadere en zo nodig afwijkende regels gesteld, onder meer over de vaststelling en herziening van het dagloon wanneer de dienstbetrekking in het tweede lid, korter heeft geduurd dan het jaar, bedoeld in dat lid en over de vaststelling van het dagloon voor de vrijwillig verzekerde, bedoeld in [artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), van deze wet.
 
-5. Op een op grond van dit artikel vastgesteld dagloon, is [artikel 16 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=16) van overeenkomstige toepassing.
+5. Op een op grond van dit artikel vastgesteld dagloon, is [artikel 16 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=16) van overeenkomstige toepassing.
 
-6. Indien het gaat om een werknemer waarvoor de werkgever loonkostensubsidie als bedoeld in [artikel 10d, eerste of tweede lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d) ontvangt en de werknemer recht heeft op een uitkering als bedoeld in [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:7&z=2025-01-01&g=2025-01-01), wordt de uitkering vermenigvuldigd met de voor die werknemer vastgestelde loonwaarde, bedoeld in [artikel 6, eerste lid, onderdeel g, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=6).
+6. Indien het gaat om een werknemer waarvoor de werkgever loonkostensubsidie als bedoeld in [artikel 10d, eerste of tweede lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d) ontvangt en de werknemer recht heeft op een uitkering als bedoeld in [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:7&z=2025-01-01&g=2025-01-01), wordt de uitkering vermenigvuldigd met de voor die werknemer vastgestelde loonwaarde, bedoeld in [artikel 6, eerste lid, onderdeel g, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=6).
 
 7. Voor de toepassing van het zesde lid wordt:
 
-- a. indien de voor de werknemer vastgestelde loonwaarde lager is dan 30 procent, de loonwaarde gesteld op 30 procent;
+- a. indien de voor de werknemer vastgestelde loonwaarde lager is dan 30 procent, de loonwaarde gesteld op 30 procent;
 
-- b. indien de loonkostensubsidie, met toepassing van [artikel 10d, eerste lid, onderdeel b, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d) wordt verstrekt zonder dat de loonwaarde is vastgesteld, de loonwaarde gesteld op 50 procent.
+- b. indien de loonkostensubsidie, met toepassing van [artikel 10d, eerste lid, onderdeel b, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d) wordt verstrekt zonder dat de loonwaarde is vastgesteld, de loonwaarde gesteld op 50 procent.
 
 8. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het zesde en zevende lid.
 
-#### De hoogte van de uitkering
+##### De uitbetaling van de uitkering
 
 ##### Artikel 3:14
 
@@ -308,13 +320,23 @@ Indien het bevallingsverlof van de vrouwelijke werknemer of het recht op uitkeri
 
 3. De artikelen [40](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=41), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=47a), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=48) en [85 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=85) zijn van overeenkomstige toepassing.
 
-#### De uitbetaling van de uitkering
+##### Artikel 3:14a. Opschorting betaling bij vertrek naar onbekende bestemming
+
+1. Is van de aanvrager of ontvanger van een uitkering in verband met zwangerschap en bevalling bij het Uitvoeringsinstituut werknemersverzekeringen een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het Uitvoeringsinstituut werknemersverzekeringen hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.
+
+2. Wanneer na afloop van deze termijn, de afwijkende registratie niet is beëindigd of als uit de basisregistratie personen niet blijkt dat het college van burgemeester en wethouders van de desbetreffende gemeente de gegevens over het adres in onderzoek heeft genomen, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de uitkering aan de persoon, die recht heeft op de uitkering, op.
+
+3. De opschorting wordt beëindigd zodra is vastgesteld dat de persoon, bedoeld in het tweede lid, in het buitenland woont of verblijft of dat een adres in Nederland in de basisregistratie personen is opgenomen.
+
+4. Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de uitkering op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.
+
+##### Financiering
 
 ##### Artikel 3:15
 
-Vervallen
+*Vervallen*
 
-#### Financiering
+##### Van overeenkomstige toepassing zijnde artikelen
 
 ##### Artikel 3:16
 
@@ -340,7 +362,7 @@ Vervallen
 
 - j. ter zake van het beroep in cassatie: [artikel 75m](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=75m);
 
-- k. vervallen;
+- k. *vervallen;*
 
 - l. ter zake van de toepasselijkheid van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448): [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=89);
 
@@ -356,9 +378,7 @@ Vervallen
 
 4. [Artikel 35, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35) is van overeenkomstige toepassing ongeacht of het recht op uitkering met ingang van de dag na het overlijden binnen een maand zou zijn geëindigd.
 
-#### § 2. De beroepsbeoefenaar op arbeidsovereenkomst
-
-#### De uitbetaling van de uitkering
+#### § 2. De zelfstandige en de beroepsbeoefenaar op arbeidsovereenkomst
 
 ##### Artikel 3:17. Het begrip zelfstandige en beroepsbeoefenaar op arbeidsovereenkomst
 
@@ -368,17 +388,17 @@ Vervallen
 
 - b. zelfstandige: de persoon die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt, die:
 
-- 1°. in Nederland woont en die winst uit onderneming geniet, tenzij hij de onderneming niet voor eigen rekening feitelijk drijft;
+   - 1°. in Nederland woont en die winst uit onderneming geniet, tenzij hij de onderneming niet voor eigen rekening feitelijk drijft;
 
-- 2°. niet in Nederland woont en die belastbare winst uit onderneming geniet als bedoeld in [afdeling 7.2, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2), tenzij hij de onderneming niet voor eigen rekening feitelijk drijft;
+   - 2°. niet in Nederland woont en die belastbare winst uit onderneming geniet als bedoeld in [afdeling 7.2, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2), tenzij hij de onderneming niet voor eigen rekening feitelijk drijft;
 
-- 3°. anders dan uit dienstbetrekking inkomsten uit tegenwoordige arbeid geniet;
+   - 3°. anders dan uit dienstbetrekking inkomsten uit tegenwoordige arbeid geniet;
 
-- 4°. anders dan in dienstbetrekking arbeid verricht ten behoeve van een lichaam waarin hij een aanmerkelijk belang heeft;
+   - 4°. anders dan in dienstbetrekking arbeid verricht ten behoeve van een lichaam waarin hij een aanmerkelijk belang heeft;
 
-- 5°. directeur-grootaandeelhouder is en het werk tot stand brengt uitsluitend voor rekening en risico van de onderneming van de rechtspersoon waarvan hij directeur-grootaandeelhouder is;
+   - 5°. directeur-grootaandeelhouder is en het werk tot stand brengt uitsluitend voor rekening en risico van de onderneming van de rechtspersoon waarvan hij directeur-grootaandeelhouder is;
 
-- 6°. anders dan in dienstbetrekking of als zelfstandige als bedoeld in de onderdelen 1° tot en met 5° meewerkt in de onderneming van een echtgenoot of geregistreerde partner;
+   - 6°. anders dan in dienstbetrekking of als zelfstandige als bedoeld in de onderdelen 1° tot en met 5° meewerkt in de onderneming van een echtgenoot of geregistreerde partner;
 
 - c. winst uit onderneming: de belastbare winst uit onderneming, bedoeld in [paragraaf 3.2.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.1), vermeerderd met de ondernemersaftrek, bedoeld in [paragraaf 3.2.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.4), en de MKB-winstvrijstelling, bedoeld in [paragraaf 3.2.5, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.5);
 
@@ -388,17 +408,17 @@ Vervallen
 
 - f. inkomsten uit tegenwoordige arbeid: het gezamenlijke bedrag van:
 
-- 1°. het belastbaar loon uit tegenwoordige arbeid, bedoeld in [afdeling 3.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.3);
+   - 1°. het belastbaar loon uit tegenwoordige arbeid, bedoeld in [afdeling 3.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.3);
 
-- 2°. het belastbaar loon ter zake van het in Nederland verrichten van arbeid, bedoeld in [afdeling 7.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2);
+   - 2°. het belastbaar loon ter zake van het in Nederland verrichten van arbeid, bedoeld in [afdeling 7.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2);
 
-- 3°. het belastbaar resultaat uit overige werkzaamheden, bedoeld in [afdeling 3.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.4), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92); en
+   - 3°. het belastbaar resultaat uit overige werkzaamheden, bedoeld in [afdeling 3.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.4), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92); en
 
-- 4°. het belastbaar resultaat uit overige werkzaamheden in Nederland, bedoeld in [afdeling 7.2, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92).
+   - 4°. het belastbaar resultaat uit overige werkzaamheden in Nederland, bedoeld in [afdeling 7.2, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92).
 
 2. Door Onze Minister worden, in overeenstemming met Onze Minister van Financiën, regels gesteld omtrent hetgeen onder directeur-grootaandeelhouder als bedoeld in het eerste lid onderdeel 5°, wordt verstaan.
 
-#### Begrip beroepsbeoefenaar op arbeidsovereenkomst
+##### Recht op uitkering voor de zelfstandige, de beroepsbeoefenaar op arbeidsovereenkomst en de partner, bedoeld in artikel 3:1a, tweede lid
 
 ##### Artikel 3:18
 
@@ -428,19 +448,15 @@ Vervallen
 
 11. De zelfstandige, de beroepsbeoefenaar op arbeidsovereenkomst of de persoon wiens arbeidsverhouding gelijkgesteld is met een dienstbetrekking als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=4) of [5 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=5), en die partner is als bedoeld in [artikel 3:1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1a&z=2025-01-01&g=2025-01-01), heeft recht op uitkering, indien de moeder, die geen recht had op bevallingsverlof of een uitkering als bedoeld in [afdeling 2 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&z=2025-01-01&g=2025-01-01), overlijdt voordat tien weken na de dag van de geboorte van het kind zijn verstreken. Het recht bestaat vanaf de dag van overlijden en eindigt tien weken na de dag van de geboorte van het kind, met dien verstande dat [artikel 3:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing is.
 
-#### Recht op uitkering voor de zelfstandige en de beroepsbeoefenaar op arbeidsovereenkomst
-
 ##### Artikel 3:19
 
-Vervallen
-
-#### Uitkering terzake van vervanging
+*Vervallen*
 
 ##### Artikel 3:20
 
-Vervallen
+*Vervallen*
 
-#### Uitkering terzake van vervanging
+##### Uitkering terzake van vervanging
 
 ##### Artikel 3:21
 
@@ -452,7 +468,7 @@ Vervallen
 
 - b. de persoon die als vervanger werkzaam is, ter beschikking wordt gesteld door een rechtspersoonlijkheid bezittende instelling, die zich krachtens haar statuten ten doel stelt arbeidskrachten ter beschikking te stellen.
 
-#### Aanvraag van uitkering
+##### Aanvraag van uitkering
 
 ##### Artikel 3:22
 
@@ -476,7 +492,7 @@ Vervallen
 
 7. De vrouwelijke zelfstandige, de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst of de partner, bedoeld in [artikel 3:1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1a&z=2025-01-01&g=2025-01-01), die zelfstandige of beroepsbeoefenaar op arbeidsovereenkomst is of de persoon wiens arbeidsverhouding gelijk is gesteld met een dienstbetrekking als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=4) of [5 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=5) verstrekt in voorkomend geval aan het Uitvoeringsinstituut werknemersverzekeringen de verklaring, bedoeld in [artikel 3:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3:3&z=2025-01-01&g=2025-01-01).
 
-#### De hoogte van de uitkering
+##### De hoogte van de uitkering
 
 ##### Artikel 3:23
 
@@ -490,13 +506,13 @@ Vervallen
 
 5. Indien het percentage van de vakantiebijslag, bedoeld in [artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15), wordt gewijzigd, treedt dit gewijzigde percentage in de plaats van het in het tweede genoemde percentage van de vakantie-uitkering. Het gewijzigde percentage wordt in aanmerking genomen over de uitkering waarop recht bestaat over het tijdvak aanvangende met de dag waarop de wijziging ingaat.
 
-#### De hoogte van de uitkering terzake van vervanging
+##### De hoogte van de uitkering terzake van vervanging
 
 ##### Artikel 3:24
 
 De uitkering ter zake van vervanging bedraagt de grondslag, bedoeld in [artikel 3:23](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:23&z=2025-01-01&g=2025-01-01), eerste lid, vermeerderd met het bedrag aan premies en aan inkomensafhankelijke bijdrage als bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42), dat het Uitvoeringsinstituut werknemersverzekeringen bij uitbetaling als uitkering in verband met zwangerschap en bevalling daarover verschuldigd zou zijn.
 
-#### De uitbetaling van de uitkering
+##### De uitbetaling van de uitkering
 
 ##### Artikel 3:25
 
@@ -508,13 +524,13 @@ De uitkering ter zake van vervanging bedraagt de grondslag, bedoeld in [artikel 
 
 4. De [artikelen 55, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=55), [55a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=55a), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=57), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=62) en [66 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=66) zijn van overeenkomstige toepassing.
 
-#### Financiering
+##### Financiering
 
 ##### Artikel 3:26
 
-Vervallen
+*Vervallen*
 
-#### Van overeenkomstige toepassing zijnde artikelen
+##### Van overeenkomstige toepassing zijnde artikelen
 
 ##### Artikel 3:27
 
@@ -524,7 +540,7 @@ Vervallen
 
 - b. ter zake van herziening of intrekking: [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=18);
 
-- c. vervallen;
+- c. *vervallen;*
 
 - d. ter zake van oproeping en ondervraging: de [artikelen 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=41), en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=42);
 
@@ -538,7 +554,7 @@ Vervallen
 
 - i. ter zake van het beroep in cassatie: [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=98);
 
-- j. vervallen;
+- j. *vervallen;*
 
 - k. ter zake van terugvordering: [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=63), met dien verstande dat bij algemene maatregel van bestuur kan worden bepaald dat, in afwijking van het eerste lid van dat artikel, onder bij dat besluit te bepalen omstandigheden, een uitkering ter zake van vervanging niet wordt teruggevorderd;
 
@@ -564,13 +580,13 @@ Vervallen
 
 #### § 3. Slotbepalingen
 
-#### Financiering
+##### Controlevoorschriften
 
 ##### Artikel 3:28
 
 Het Uitvoeringsinstituut werknemersverzekeringen kan controlevoorschriften vaststellen. Deze voorschriften mogen niet verder gaan dan strikt noodzakelijk is voor een juiste uitvoering van deze afdeling.
 
-#### Van overeenkomstige toepassing zijnde artikelen
+##### Samenloop
 
 ##### Artikel 3:29
 
@@ -578,7 +594,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan controlevoorschriften vasts
 
 Indien een persoon over dezelfde periode op grond van dezelfde paragraaf zowel recht heeft op een uitkering in verband met adoptie als op een uitkering in verband met pleegzorg wordt hem de uitkering in verband met pleegzorg of ter zake van vervanging in verband met pleegzorg niet uitbetaald.
 
-2. Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01) als op een uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2025-01-01&g=2025-01-01) van deze afdeling, wordt hem de uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2025-01-01&g=2025-01-01) uitbetaald voorzover deze de uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01) van deze afdeling overtreft. Indien de uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01) geheel of gedeeltelijk wordt geweigerd op grond van enig handelen of nalaten dat de betrokkene kan worden verweten, wordt voor de toepassing van dit lid die uitkering in aanmerking genomen alsof die weigering niet heeft plaatsgevonden.
+2. Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01) als op een uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2025-01-01&g=2025-01-01) van deze afdeling, wordt hem de uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2025-01-01&g=2025-01-01) uitbetaald voorzover deze de uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01) van deze afdeling overtreft. Indien de uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01) geheel of gedeeltelijk wordt geweigerd op grond van enig handelen of nalaten dat de betrokkene kan worden verweten, wordt voor de toepassing van dit lid die uitkering in aanmerking genomen alsof die weigering niet heeft plaatsgevonden.
 
 3. Indien een vrouwelijke zelfstandige of een vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst over eenzelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01), als op een uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2025-01-01&g=2025-01-01) van deze afdeling, worden haar, in afwijking van het tweede lid, zowel de uitkering op grond van zowel [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01), als de uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2025-01-01&g=2025-01-01) uitbetaald, mits de vrouwelijke zelfstandige of de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst niet vrijwillig verzekerd is als bedoeld in de [Tweede Afdeling, Hoofdstuk IV, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&hoofdstuk=IV) en voor zover:
 
@@ -588,9 +604,9 @@ Indien een persoon over dezelfde periode op grond van dezelfde paragraaf zowel r
 
 4. Indien een gelijkgestelde als bedoeld in [artikel 3:6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), over dezelfde periode tevens uit andere hoofde recht heeft op één of meerdere uitkeringen op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01), wordt de uitkering van die gelijkgestelde uitbetaald voorzover deze uitkering samen met de andere uitkeringen niet meer bedraagt dan 100% van het dagloon dat ten grondslag ligt aan de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten.
 
-5. Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01) van deze afdeling als op arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt eerstgenoemde uitkering uitbetaald voorzover deze samen met de arbeidsongeschiktheidsuitkering niet meer bedraagt dan het hoogste van de daglonen, die aan die uitkeringen ten grondslag liggen.
+5. Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01) van deze afdeling als op arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt eerstgenoemde uitkering uitbetaald voorzover deze samen met de arbeidsongeschiktheidsuitkering niet meer bedraagt dan het hoogste van de daglonen, die aan die uitkeringen ten grondslag liggen.
 
-6. Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2025-01-01&g=2025-01-01) van deze afdeling als op een arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), wordt:
+6. Indien een persoon over dezelfde periode zowel recht heeft op een uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2025-01-01&g=2025-01-01) van deze afdeling als op een arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), wordt:
 
 - a. indien de grondslag van de eerstgenoemde uitkering lager is dan de grondslag van de arbeidsongeschiktheidsuitkering of daaraan gelijk is, de eerstgenoemde uitkering uitbetaald voorzover deze samen met de arbeidsongeschiktheidsuitkering niet meer bedraagt dan de grondslag van de arbeidsongeschiktheidsuitkering;
 
@@ -598,25 +614,31 @@ Indien een persoon over dezelfde periode op grond van dezelfde paragraaf zowel r
 
 - c. indien het recht op eerstgenoemde uitkering ontstaat in het tijdvak van 52 weken bedoeld in [artikel 7, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7), in afwijking van de onderdelen a en b, de eerstgenoemde uitkering uitbetaald voorzover deze de arbeidsongeschiktheidsuitkering overtreft.
 
-7. Voor de toepassing van het tweede tot en met zesde lid wordt onder arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01) van deze afdeling en uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2025-01-01&g=2025-01-01) van deze afdeling tevens verstaan de vakantie-uitkering waarop uit hoofde van die arbeidsongeschiktheidsuitkeringen en die uitkeringen recht bestaat, voor zover die vakantie-uitkering over dezelfde periode is berekend.
+7. Voor de toepassing van het tweede tot en met zesde lid wordt onder arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), uitkering op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&z=2025-01-01&g=2025-01-01) van deze afdeling en uitkering op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&z=2025-01-01&g=2025-01-01) van deze afdeling tevens verstaan de vakantie-uitkering waarop uit hoofde van die arbeidsongeschiktheidsuitkeringen en die uitkeringen recht bestaat, voor zover die vakantie-uitkering over dezelfde periode is berekend.
 
 8. Indien de arbeidsongeschiktheidsuitkering geheel of gedeeltelijk wordt geweigerd op grond van enig handelen of nalaten dat de betrokkene kan worden verweten, wordt voor de toepassing van het vierde en vijfde lid de arbeidsongeschiktheidsuitkering in aanmerking genomen alsof die weigering niet heeft plaatsgevonden.
 
-#### Overgangsrecht zelfstandigen en beroepsbeoefenaren op arbeidsovereenkomst
+##### Overgangsrecht zelfstandigen en beroepsbeoefenaren op arbeidsovereenkomst
 
 ##### Artikel 3:30
 
-1. Op de zelfstandige, bedoeld in artikel 3:17, onderdeel a, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0016985&artikel=II), van wie de vermoedelijke of feitelijke bevallingsdatum valt binnen 40 weken na de inwerkingtreding van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0016985&artikel=II) dan wel die binnen 40 weken na de inwerkingtreding van dat artikel feitelijk een kind ter adoptie of pleegzorg heeft opgenomen, blijft hoofdstuk 3, afdeling 2, paragraaf 2, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0016985&artikel=II) van toepassing met betrekking tot die bevalling dan wel die opneming.
+1. Op de zelfstandige, bedoeld in artikel 3:17, onderdeel a, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0016985&artikel=II), van wie de vermoedelijke of feitelijke bevallingsdatum valt binnen 40 weken na de inwerkingtreding van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0016985&artikel=II) dan wel die binnen 40 weken na de inwerkingtreding van dat artikel feitelijk een kind ter adoptie of pleegzorg heeft opgenomen, blijft hoofdstuk 3, afdeling 2, paragraaf 2, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0016985&artikel=II) van toepassing met betrekking tot die bevalling dan wel die opneming.
 
-2. Op de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in artikel 3:17, onderdeel b, zoals dat onderdeel luidde op de dag voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0016985&artikel=II), die binnen 40 weken na de inwerkingtreding van dat artikel feitelijk een kind ter adoptie of pleegzorg heeft opgenomen, blijft hoofdstuk 3, afdeling 2, paragraaf 2, zoals dat luidde voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0016985&artikel=II) van toepassing met betrekking tot die opneming.
+2. Op de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in artikel 3:17, onderdeel b, zoals dat onderdeel luidde op de dag voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0016985&artikel=II), die binnen 40 weken na de inwerkingtreding van dat artikel feitelijk een kind ter adoptie of pleegzorg heeft opgenomen, blijft hoofdstuk 3, afdeling 2, paragraaf 2, zoals dat luidde voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0016985&artikel=II) van toepassing met betrekking tot die opneming.
 
 3. In afwijking van het eerste en tweede lid komen de onder toepassing van dit artikel te betalen uitkeringen en de uitvoeringskosten met betrekking tot die uitkeringen ten laste van het Arbeidsongeschiktheidsfonds.
 
-### Hoofdstuk 4. Calamiteiten- en ander kort verzuimverlof
+##### Artikel 3:31. Overgangsbepaling vakantie-uitkering bij zwangerschap en bevalling
+
+1. Op aanvragen als bedoeld in [artikel 3:22, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:22&z=2025-01-01&g=2025-01-01), ontvangen voor 1 juli 2019, zijn voor de gehele uitkering, bedoeld in [artikel 3:23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:23&z=2025-01-01&g=2025-01-01), dat artikellid en [artikel 3:27, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:27&z=2025-01-01&g=2025-01-01), van toepassing, zoals die bepalingen luidden op 30 juni 2019.
+
+2. Op aanvragen als bedoeld in [artikel 3:22, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:22&z=2025-01-01&g=2025-01-01), ontvangen op of na 1 juli 2019, is voor de gehele uitkering, bedoeld in [artikel 3:23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:23&z=2025-01-01&g=2025-01-01), dat artikellid van toepassing.
+
+### Hoofdstuk 4. Kort verzuimverlof en geboorteverlof
 
 #### § 1. Verlofvormen
 
-#### Calamiteiten- en ander kort verzuimverlof
+##### Calamiteiten- en ander kort verzuimverlof
 
 ##### Artikel 4:1
 
@@ -640,8 +662,6 @@ Indien een persoon over dezelfde periode op grond van dezelfde paragraaf zowel r
 
 - d. noodzakelijke verzorging op de eerste ziektedag van de personen, bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2025-01-01&g=2025-01-01).
 
-#### Calamiteiten- en ander kort verzuimverlof
-
 ##### Artikel 4:2. Geboorteverlof
 
 1. Na de bevalling van de echtgenote, de geregistreerde partner, de persoon met wie de werknemer ongehuwd samenwoont of degene van wie de werknemer het kind erkent, heeft de werknemer gedurende een tijdvak van vier weken, te rekenen vanaf de eerste dag na de bevalling, recht op geboorteverlof met behoud van loon van eenmaal de arbeidsduur per week.
@@ -649,918 +669,6 @@ Indien een persoon over dezelfde periode op grond van dezelfde paragraaf zowel r
 2. Indien de arbeidsovereenkomst of de publiekrechtelijke aanstelling wordt beëindigd voordat het geboorteverlof volledig is genoten, heeft de werknemer, indien hij een nieuwe arbeidsovereenkomst of publiekrechtelijke aanstelling aangaat, tegenover de nieuwe werkgever aanspraak op het verlof dat nog niet is opgenomen, met inachtneming van dit hoofdstuk.
 
 3. Indien de arbeidsovereenkomst of publiekrechtelijke aanstelling wordt beëindigd, is de werkgever verplicht aan de werknemer, op diens verzoek, een verklaring uit te reiken waaruit blijkt op hoeveel geboorteverlof de werknemer aanspraak heeft.
-
-#### § 2. Melding en informatie
-
-#### Kraamverlof
-
-##### Artikel 4:3
-
-1. De werknemer meldt vooraf aan de werkgever dat hij het verlof, bedoeld in [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2025-01-01&g=2025-01-01), opneemt onder opgave van de reden. Indien dit niet mogelijk is, meldt de werknemer het opnemen van het verlof zo spoedig mogelijk aan de werkgever onder opgave van de reden.
-
-2. De werknemer meldt het voornemen om het verlof, bedoeld in de [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01) of [4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01), op te nemen ten minste vier weken voor het tijdstip van ingang van het verlof schriftelijk of elektronisch aan de werkgever onder opgave van de periode, het aantal gehele weken waarvoor hij verlof opneemt, of als de arbeidsduur over een ander tijdvak is overeengekomen waarover hij verlof opneemt over dat tijdvak, en de spreiding daarvan over de week of het anderszins overeengekomen tijdvak. Indien het niet mogelijk is de melding van het verlof tijdig te doen, meldt de werknemer het voornemen om het verlof op te nemen zo spoedig mogelijk aan de werkgever.
-
-3. De tijdstippen van ingang en einde van het in de [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01) en [4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01) bedoelde verlof kunnen afhankelijk worden gesteld van de datum van de bevalling en ten aanzien van het verlof, bedoeld in artikel 4:2a, eveneens van het einde van het bevallingsverlof.
-
-4. De werkgever kan, na overleg met de werknemer, de door de werknemer gewenste wijze van invulling van het in [artikel 4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01) bedoelde verlof op grond van een zwaarwegend bedrijfs- of dienstbelang wijzigen tot twee weken voor het tijdstip van ingang van het verlof.
-
-5. Indien toepassing wordt gegeven aan de [artikelen 4:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01), of [4:2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01), zijn het eerste tot en met vierde lid van overeenkomstige toepassing.
-
-6. Het verlof van de militaire ambtenaar vangt niet aan of eindigt in ieder geval zodra de werkgever aan hem kenbaar maakt dat hij tegen het opnemen van het verlof onderscheidenlijk de voortzetting daarvan een zodanig zwaarwegend dienstbelang heeft, dat het belang van de militaire ambtenaar daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken. Toepassing van de eerste zin laat het recht op het geboorteverlof, bedoeld in [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01), en vervolgens het recht op het aanvullend geboorteverlof, bedoeld in [artikel 4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01), onverlet. De werkgever kan daarbij een tijdvak van maximaal negen maanden, te rekenen vanaf de eerste dag na de bevalling, toepassen.
-
-#### Informatieverplichting
-
-##### Artikel 4:4
-
-De werkgever kan achteraf van de werknemer verlangen dat hij aannemelijk maakt dat hij zijn arbeid niet heeft kunnen verrichten wegens een van de redenen genoemd in de [artikelen 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2025-01-01&g=2025-01-01), [4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01) of [4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01).
-
-#### § 2. Melding en informatie
-
-##### Artikel 4:5
-
-1. Indien de werknemer op grond van enige wettelijk voorgeschreven verzekering of krachtens enige verzekering of uit enig fonds waarin de deelneming is overeengekomen bij of voortvloeit uit de arbeidsovereenkomst of publiekrechtelijke aanstelling, een geldelijke uitkering toekomt, wordt het loon verminderd met het bedrag van die uitkering.
-
-2. Het loon wordt verminderd met het bedrag van de door de werkgever vergoede onkosten die de werknemer door het niet verrichten van zijn arbeid heeft bespaard.
-
-#### § 4. Nadere voorschriften
-
-#### Informatieverplichting
-
-##### Artikel 4:6
-
-1. Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2025-01-01&g=2025-01-01), kunnen slechts indien in een voorkomend geval de werknemer ermee instemt worden aangemerkt als vakantie, met dien verstande dat de werknemer ten minste recht houdt op het wettelijk minimum aan vakantie-aanspraken.
-
-2. Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in de [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01) of [4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01), kunnen niet worden aangemerkt als vakantie.
-
-#### § 3. Loonvoorschriften
-
-#### Informatieverplichting
-
-##### Artikel 4:7
-
-1. Van [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2025-01-01&g=2025-01-01), voor wat betreft de loonbetaling, en de [artikelen 4:4 tot en met 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=2&artikel=4:4&z=2025-01-01&g=2025-01-01) kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of, bij het ontbreken daarvan, met de personeelsvertegenwoordiging, met dien verstande dat de werknemer bij afwijking van [artikel 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=4&artikel=4:6&z=2025-01-01&g=2025-01-01) ten minste recht houdt op het wettelijke minimum aan vakantie-aanspraken.
-
-2. Van de [artikelen 4:2 tot en met 4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01) kan niet ten nadele van een werknemer worden afgeweken.
-
-### Hoofdstuk 5. Kort- en langdurend zorgverlof
-
-#### § 5. Mate van gebondenheid
-
-#### Recht met afwijkingsmogelijkheden
-
-##### Artikel 5:1
-
-1. De werknemer heeft recht op verlof voor de noodzakelijke verzorging in verband met ziekte van een persoon als bedoeld in het tweede lid.
-
-2. Onder een persoon als bedoeld in het eerste lid, wordt verstaan:
-
-- a. de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;
-
-- b. een kind tot wie de werknemer als ouder in een familierechtelijke betrekking staat;
-
-- c. een kind van de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;
-
-- d. een pleegkind dat blijkens de basisregistratie personen op hetzelfde adres woont als de werknemer en dat hij als pleegouder als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) verzorgt;
-
-- e. een bloedverwant in de eerste of tweede graad;
-
-- f. degene die, zonder dat er sprake is van een arbeidsrelatie, deel uitmaakt van de huishouding van de werknemer; of
-
-- g. degene met wie de werknemer anderszins een sociale relatie heeft, voor zover de te verlenen verzorging rechtstreeks voortvloeit uit die relatie en redelijkerwijs door de werknemer moet worden verleend.
-
-#### Recht met afwijkingsmogelijkheden
-
-##### Artikel 5:2
-
-Het verlof bedraagt in elke periode van 12 achtereenvolgende maanden ten hoogste twee maal de arbeidsduur per week. De periode van 12 maanden gaat in op de eerste dag waarop het verlof wordt genoten.
-
-#### § 1. Verlofvorm
-
-#### Kortdurend zorgverlof
-
-##### Artikel 5:3
-
-De werknemer meldt vooraf aan de werkgever dat hij het verlof, bedoeld in artikel 5:1 opneemt onder opgave van de reden. Indien dit niet mogelijk is, meldt de werknemer het opnemen van het verlof zo spoedig mogelijk aan de werkgever onder opgave van de reden. Bij die melding geeft de werknemer ook de omvang, de wijze van opneming en de vermoedelijke duur van het verlof aan.
-
-#### Kortdurend zorgverlof
-
-##### Artikel 5:4
-
-1. Het verlof gaat in op het tijdstip waarop de werknemer het opnemen ervan meldt aan de werkgever.
-
-2. Het verlof vangt niet aan of eindigt in ieder geval zodra de werkgever aan de werknemer kenbaar maakt dat hij tegen het opnemen van het verlof onderscheidenlijk de voortzetting daarvan een zodanig zwaarwegend bedrijfs- of dienstbelang heeft, dat het belang van de werknemer daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken.
-
-3. Een werkgever die nadat een melding door de werknemer, niet zijnde een militaire ambtenaar, hem bereikt heeft en naar aanleiding daarvan geen beroep doet op een zwaarwegend bedrijfs- of dienstbelang, kan dit nadien evenmin.
-
-#### Duur verlof
-
-##### Artikel 5:5
-
-De werkgever kan achteraf van de werknemer verlangen dat hij aannemelijk maakt dat hij zijn arbeid niet heeft verricht in verband met de noodzakelijke verzorging van een persoon als bedoeld in artikel 5:1.
-
-#### § 2. Melding en informatie
-
-#### Meldingsverplichting
-
-##### Artikel 5:6
-
-1. Voorzover het loon niet meer bedraagt dan het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag, behoudt de werknemer, die anders dan op grond van een publiekrechtelijke aanstelling arbeid verricht, gedurende het verlof, bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2025-01-01&g=2025-01-01), recht op 70% van het loon, maar ten minste op het voor hem geldende wettelijke minimumloon.
-
-2. Het eerste lid is van overeenkomstige toepassing op de werknemer, die arbeid verricht op grond van een publiekrechtelijke aanstelling.
-
-#### Ingang verlof/zwaarwegend bedrijfs- of dienstbelang
-
-##### Artikel 5:7
-
-1. Indien de werknemer op grond van enige wettelijk voorgeschreven verzekering of krachtens enige verzekering of uit enig fonds waarin de deelneming is overeengekomen bij of voortvloeit uit de arbeidsovereenkomst of publiekrechtelijke aanstelling, een geldelijke uitkering toekomt, wordt het loon verminderd met het bedrag van die uitkering.
-
-2. Het loon wordt verminderd met het bedrag van de door de werkgever vergoede onkosten die de werknemer door het niet verrichten van zijn arbeid heeft bespaard.
-
-#### § 3. Loonvoorschriften
-
-#### Loondoorbetaling
-
-##### Artikel 5:8
-
-Indien zowel de in artikel 4:1 als de in artikel 5:1 gestelde voorwaarden worden vervuld, eindigt het in artikel 4:1 bedoelde verlof na één dag.
-
-#### Loondoorbetaling
-
-##### Artikel 5:9
-
-De werknemer heeft recht op verlof zonder behoud van loon voor:
-
-- a. de verzorging van een persoon als bedoeld in [artikel 5:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2025-01-01&g=2025-01-01), die levensbedreigend ziek is; of
-
-- b. de noodzakelijke verzorging van een persoon als bedoeld in [artikel 5:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2025-01-01&g=2025-01-01), die ziek of hulpbehoevend is.
-
-#### § 4. Nadere voorschriften
-
-#### Samenloop
-
-##### Artikel 5:10
-
-Het verlof bedraagt in elke periode van twaalf achtereenvolgende maanden ten hoogste zesmaal de arbeidsduur per week. De periode van twaalf maanden gaat in op de eerste dag waarop het verlof wordt genoten.
-
-### Hoofdstuk 6. Ouderschapsverlof
-
-#### § 1. Verlofvorm
-
-#### Langdurend zorgverlof
-
-##### Artikel 6:1
-
-1. De werknemer die als ouder in familierechtelijke betrekking staat tot een kind, heeft recht op verlof zonder behoud van loon. Indien de werknemer met ingang van hetzelfde tijdstip tot meer dan één kind in familierechtelijke betrekking komt te staan, bestaat er ten aanzien van ieder van die kinderen recht op verlof.
-
-2. De werknemer die blijkens de basisregistratie personen op hetzelfde adres woont als een kind en duurzaam de verzorging en de opvoeding van dat kind als eigen kind op zich heeft genomen, heeft recht op verlof zonder behoud van loon. Indien de werknemer met het oog op adoptie met ingang van hetzelfde tijdstip de verzorging en opvoeding van meer dan één kind op zich heeft genomen, bestaat er ten aanzien van ieder van die kinderen recht op verlof. In alle andere gevallen waarin de in de eerste volzin gestelde voorwaarden voor meer dan één kind met ingang van hetzelfde tijdstip worden vervuld, bestaat er slechts recht op één keer verlof.
-
-#### Samenloop
-
-##### Artikel 6:2
-
-1. Het aantal uren verlof waarop de werknemer ten hoogste recht heeft bedraagt zesentwintig maal de arbeidsduur per week.
-
-2. Indien de arbeidsverhouding wordt beëindigd voordat het verlof volledig is genoten, heeft de werknemer, indien hij een nieuwe arbeidsverhouding aangaat, tegenover de nieuwe werkgever aanspraak op het resterende deel van het verlof met inachtneming van dit hoofdstuk. De werkgever is in dat geval verplicht aan de werknemer, op diens verzoek, een verklaring uit te reiken waaruit blijkt op hoeveel verlof de werknemer nog aanspraak heeft.
-
-#### Omvang verlof
-
-##### Artikel 6:3
-
-1. Een werknemer als bedoeld in [artikel 3:6, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), heeft gedurende de periode dat het kind de leeftijd van een jaar nog niet heeft bereikt recht op uitkering over een periode van ten hoogste negen maal de arbeidsduur per week, waarin hij het verlof, bedoeld in [artikel 6:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:1&z=2025-01-01&g=2025-01-01), geniet. Indien de werknemer verlof als bedoeld in artikel 6:1, tweede lid, geniet in verband met een geadopteerd kind of een pleegkind, bestaat het recht op uitkering in afwijking van de vorige zin gedurende het eerste jaar na de dag van de feitelijke opneming ter adoptie of als pleegkind en voor zover het kind de leeftijd van acht jaren nog niet heeft bereikt.
-
-2. Indien de werknemer met ingang van hetzelfde tijdstip tot meer dan één kind in familierechtelijke betrekking komt te staan of indien de werknemer met het oog op adoptie met ingang van hetzelfde tijdstip de verzorging en opvoeding van meer dan één kind op zich heeft genomen, bestaat er ten aanzien van ieder van die kinderen recht op uitkering. Indien de werknemer met het oog op een pleegkind met ingang van hetzelfde tijdstip de verzorging en opvoeding van meer dan één kind op zich heeft genomen bestaat er slechts recht op één keer een uitkering.
-
-3. De uitkering bedraagt per dag 70% van het dagloon van de werknemer, bedoeld in [artikel 3:6, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), van de wet, doch ten hoogste 70% van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag.
-
-4. Het dagloon, bedoeld in het derde lid, wordt berekend aan de hand van 1/261 deel van het loon, bedoeld in [hoofdstuk 3 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3), dat de werknemer in de periode van een jaar, die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak, waarin het recht op de uitkering is ontstaan, verdiende op grond van de arbeidsovereenkomst of de publiekrechtelijke aanstelling waaruit dat recht is ontstaan.
-
-5. Bij algemene maatregel van bestuur worden ten aanzien van de vaststelling en de herziening van het dagloon nadere en zo nodig afwijkende regels gesteld, onder meer over de vaststelling en de herziening van het dagloon wanneer de werknemer korter dan een jaar heeft gewerkt bij zijn werkgever.
-
-6. Op een op grond van dit artikel vastgesteld dagloon is [artikel 16 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=16) van overeenkomstige toepassing.
-
-7. Een werknemer wiens arbeidsverhouding niet wordt beschouwd als dienstbetrekking op grond van [artikel 6 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6) en die uitsluitend om die reden niet wordt aangemerkt als werknemer in de zin van die wet, heeft recht op een uitkering als bedoeld in het eerste of tweede lid. De uitkering bedraagt naar rato van de overeengekomen arbeidsduur per week 70% van het loon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), indien zijn recht op uitkering niet kan worden vastgesteld overeenkomstig het derde tot en met zesde lid. Bij de berekening van de uitkering wordt uitgegaan van een arbeidsduur van 36 uren per week.
-
-8. Een uitkering als bedoeld in dit artikel wordt niet uitbetaald als over dezelfde periode recht bestaat op een uitkering in verband met zwangerschap en bevalling dan wel adoptie of pleegzorg als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&z=2025-01-01&g=2025-01-01) of een uitkering in verband met aanvullend geboorteverlof als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&z=2025-01-01&g=2025-01-01).
-
-#### Langdurend zorgverlof
-
-##### Artikel 6:4
-
-Geen recht op verlof als bedoeld in artikel 6:1 bestaat na de datum waarop het kind de leeftijd van acht jaren heeft bereikt.
-
-#### § 2. Melding
-
-#### Ingang van het verlof
-
-##### Artikel 6:5
-
-1. De werknemer meldt het voornemen om verlof op te nemen ten minste twee maanden voor het tijdstip van ingang van het verlof schriftelijk aan de werkgever onder opgave van de periode, het aantal uren verlof per week of als de arbeidsduur over een ander tijdvak is overeengekomen over dat tijdvak en de spreiding daarvan over de week of het anderszins overeengekomen tijdvak.
-
-2. De tijdstippen van ingang en einde van het verlof kunnen afhankelijk worden gesteld van de datum van de bevalling, van het einde van het bevallingsverlof of van de aanvang van de verzorging.
-
-3. De werkgever kan, tot vier weken voor het tijdstip van ingang van het verlof, en na overleg met de werknemer, de door de werknemer gewenste wijze van invulling van het verlof gedurende een redelijke termijn wijzigen op grond van een zwaarwegend bedrijfs- of dienstbelang, met dien verstande dat de werknemer in ieder geval in staat wordt gesteld het verlof binnen de in de [artikelen 6:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2025-01-01&g=2025-01-01), en [6:4](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:4&z=2025-01-01&g=2025-01-01), gestelde termijnen op te nemen. De werkgever motiveert een wijziging schriftelijk.
-
-#### Verzoek, zwaarwegend bedrijfs- of dienstbelang
-
-##### Artikel 6:6
-
-1. De werkgever stemt in met een verzoek van de werknemer om het verlof niet op te nemen of niet voort te zetten als gevolg van het opnemen van het zwangerschaps- of bevallingsverlof, bedoeld in [artikel 3:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2025-01-01&g=2025-01-01), het verlof, bedoeld in [artikel 3:1a, eerste lid of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1a&z=2025-01-01&g=2025-01-01), of het adoptieverlof, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:2&z=2025-01-01&g=2025-01-01). In dat geval wordt het recht op verlof opgeschort. Verlof dat niet wordt opgenomen voor de datum waarop het kind de leeftijd van acht jaren bereikt vervalt. De werkgever hoeft aan het verzoek niet met ingang van een vroeger tijdstip gevolg te geven dan vier weken na het verzoek.
-
-2. De werkgever stemt in met een verzoek van de werknemer om het verlof niet op te nemen of niet voort te zetten als gevolg van onvoorziene omstandigheden, tenzij een zwaarwegend bedrijfs- of dienstbelang zich hiertegen verzet. Indien de werkgever instemt met het verzoek wordt het recht op verlof opgeschort. Verlof dat niet wordt opgenomen voor de datum waarop het kind de leeftijd van acht jaren bereikt vervalt. De werkgever hoeft aan het verzoek niet met ingang van een vroeger tijdstip gevolg te geven dan vier weken na het verzoek. Indien de werkgever het verzoek weigert, motiveert hij dit schriftelijk binnen een redelijke termijn na de indiening van het verzoek.
-
-#### § 3. Samenloop
-
-#### Compensatie met vakantie-aanspraken
-
-##### Artikel 6:7
-
-Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in artikel 6:1, kunnen niet worden aangemerkt als vakantie.
-
-#### Compensatie met vakantie-aanspraken
-
-#### Omvang, duur en invulling verlof
-
-##### Artikel 6:8
-
-Van de [artikelen 6:4](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:4&z=2025-01-01&g=2025-01-01), [6:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2025-01-01&g=2025-01-01) en [6:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2025-01-01&g=2025-01-01), met uitzondering van de laatste zin, kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve regeling.
-
-#### Ouderschapsverlof
-
-##### Artikel 6:9
-
-Behoudens artikel 6:8 kan van dit hoofdstuk niet ten nadele van de werknemer worden afgeweken.
-
-### Hoofdstuk 7. Loopbaanonderbreking
-
-### Afdeling 1. Algemene bepalingen
-
-#### § 2. Melding
-
-##### Artikel 7:1
-
-Vervallen
-
-#### § 1. Verlofvorm
-
-##### Artikel 7:2
-
-Vervallen
-
-#### Nadere voorschriften vervanging
-
-##### Artikel 7:3
-
-Vervallen
-
-#### § 2. Melding
-
-##### Artikel 7:4
-
-Vervallen
-
-### Afdeling 2. Financiële tegemoetkoming
-
-#### § 4. Mate van gebondenheid
-
-##### Artikel 7:5
-
-Vervallen
-
-#### § 3. Nadere voorschriften
-
-#### Leeftijd kind
-
-##### Artikel 7:6
-
-Vervallen
-
-#### Compensatie met vakantie-aanspraken
-
-##### Artikel 7:7
-
-Vervallen
-
-#### Recht met afwijkingsmogelijkheden
-
-##### Artikel 7:8
-
-Vervallen
-
-#### Dwingend recht
-
-##### Artikel 7:9
-
-Vervallen
-
-#### Compensatie met vakantie-aanspraken
-
-##### Artikel 7:10
-
-Vervallen
-
-#### Herziening of intrekking
-
-##### Artikel 7:11
-
-Vervallen
-
-#### Terugvordering
-
-##### Artikel 7:12
-
-Vervallen
-
-#### Onvervreemdbaarheid
-
-##### Artikel 7:13
-
-Vervallen
-
-#### Toekenning en hoogte financiële tegemoetkoming
-
-##### Artikel 7:14
-
-Vervallen
-
-#### Mate van gebondenheid
-
-#### Overgangsrecht in verband met wijziging samenloop met loonkostensubsidie [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
-
-##### Artikel 7:15
-
-Vervallen
-
-#### Evaluatiebepaling
-
-##### Artikel 7:16
-
-Vervallen
-
-##### Artikel 7:17
-
-Vervallen
-
-##### Artikel 7:18
-
-Vervallen
-
-##### Artikel 7:19
-
-Vervallen
-
-##### Artikel 7:20
-
-Vervallen
-
-##### Artikel 7:21
-
-Vervallen
-
-##### Artikel 7:22
-
-Vervallen
-
-### Hoofdstuk 8. Slotbepalingen
-
-#### Inwerkingtreding
-
-##### Artikel 8:1
-
-Onze Minister zendt, in overeenstemming met Onze Minister van Justitie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
-
-#### Citeertitel
-
-##### Artikel 8:2
-
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-#### § 3. Informatieverplichting
-
-##### Artikel 8:3
-
-Deze wet wordt aangehaald als: Wet arbeid en zorg.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 3. Slotbepalingen
-
-#### De uitbetaling van de uitkering
-
-### Hoofdstuk 4. Calamiteiten- en ander kort verzuimverlof
-
-#### § 1. Verlofvormen
-
-#### Calamiteiten- en ander kort verzuimverlof
-
-#### § 1. Verlofvormen
-
-#### Calamiteiten- en ander kort verzuimverlof
-
-#### § 2. Melding en informatie
-
-#### Meldingsverplichting
-
-#### § 2. Melding en informatie
-
-#### Meldingsverplichting
-
-### Hoofdstuk 5. Kortdurend zorgverlof
-
-#### § 4. Nadere voorschriften
-
-#### Intrekking of wijziging melding aanvullend geboorteverlof
-
-#### § 4. Nadere voorschriften
-
-#### Compensatie met vakantie-aanspraken
-
-#### § 2. Melding en informatie
-
-#### Meldingsverplichting
-
-#### § 4. Nadere voorschriften
-
-#### Informatieverplichting
-
-#### § 5. Mate van gebondenheid
-
-#### Informatieverplichting
-
-### Hoofdstuk 6. Ouderschapsverlof
-
-#### § 4. Nadere voorschriften
-
-#### Samenloop
-
-#### § 2. Verlening, ingang en einde van verlof, informatie
-
-#### Verzoek, zwaarwegend bedrijfs- of dienstbelang
-
-#### § 3. Samenloop
-
-#### Compensatie met vakantie-aanspraken
-
-#### Compensatie met vakantie-aanspraken
-
-#### Einde van het verlof
-
-### Hoofdstuk 6. Ouderschapsverlof
-
-### Afdeling 1. Algemene bepalingen
-
-#### § 1. Verlofvorm
-
-### Afdeling 2. Financiële tegemoetkoming
-
-#### § 2. Melding
-
-#### Aanvraag en verstrekking van de uitkering tijdens een gedeelte van het ouderschapsverlof
-
-#### Recht op deelname
-
-#### Verhoging uitkering ouderschapsverlof
-
-#### Evaluatiebepaling
-
-### Hoofdstuk 8. Slotbepalingen
-
-#### Evaluatiebepaling
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Werkingsduur, regeling bestuursorgaan of regeling met ondernemingsraad/personeelsvertegenwoordiging
-
-##### Artikel 1:5
-
-Voor de toepassing van de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=5&artikel=4:7&z=2025-01-01&g=2025-01-01) en 5:16 geldt een afwijkende regeling door of namens een daartoe bevoegd bestuursorgaan of een afwijkende regeling waaromtrent de werkgever schriftelijk overeenstemming heeft bereikt met de ondernemingsraad, of bij het ontbreken daarvan, met de personeelsvertegenwoordiging, voor vijf jaren vanaf het tijdstip waarop die regeling ingaat, indien geen termijn van ten hoogste vijf jaren is bepaald. Indien geen termijn is bepaald gaat bij wijziging van de regeling waarvan de in de eerste zin bedoelde afwijking deel uitmaakt binnen het in die zin bedoelde tijdvak, ten aanzien van de afwijking een nieuw tijdvak in op het tijdstip van inwerkingtreding van de wijziging.
-
-#### Gereserveerd
-
-### Hoofdstuk 3. Zwangerschap, bevalling, adoptie en pleegzorg
-
-### Afdeling 1. Het recht op verlof in verband met zwangerschap, bevalling, adoptie en pleegzorg
-
-#### § 1. Verlofvorm
-
-#### Adoptieverlof
-
-#### § 2. Melding
-
-#### Meldingsverplichting
-
-#### § 3. Nadere voorschriften
-
-#### Compensatie met vakantie-aanspraken
-
-#### § 4. Mate van gebondenheid
-
-### Afdeling 2. Uitkering in verband met zwangerschap, bevalling, adoptie en pleegzorg
-
-#### § 1. De werknemer en de gelijkgestelde
-
-#### Financiering
-
-#### § 2. De zelfstandige en de beroepsbeoefenaar op arbeidsovereenkomst
-
-### Afdeling 1. Kortdurend zorgverlof
-
-#### § 3. Loonvoorschriften
-
-#### Recht met afwijkingsmogelijkheden
-
-#### § 5. Mate van gebondenheid
-
-#### Recht met afwijkingsmogelijkheden
-
-#### Duur verlof
-
-#### § 3. Loonvoorschriften
-
-#### Duur verlof
-
-#### § 3. Loonvoorschriften
-
-#### Ingang verlof/zwaarwegend bedrijfs- of dienstbelang
-
-### Afdeling 2. Langdurend zorgverlof
-
-#### § 1. Verlofvorm
-
-#### Langdurend zorgverlof
-
-##### Artikel 5:11
-
-1. De werknemer dient het verzoek om verlof ten minste twee weken voor het beoogde tijdstip van ingang van het verlof schriftelijk in bij de werkgever onder opgave van de reden, de persoon die verzorging behoeft, het tijdstip van ingang, de omvang, de voorgenomen duur van het verlof en de spreiding van de uren over de week of het anderszins overeengekomen tijdvak.
-
-2. De werknemer verstrekt desgevraagd aan de werkgever schriftelijk aanvullende informatie waarover hij redelijkerwijs en op korte termijn kan beschikken teneinde aannemelijk te maken dat is voldaan aan de op grond van [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2025-01-01&g=2025-01-01) geldende voorwaarden. De werkgever doet een schriftelijk verzoek tot het verstrekken van aanvullende informatie binnen een week nadat het verzoek om verlof bij hem is ingediend.
-
-3. De werkgever willigt het verzoek om verlof van de werknemer in, tenzij hij tegen het opnemen van het verlof een zodanig zwaarwegend bedrijfs- of dienstbelang heeft, dat het belang van de werknemer daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken.
-
-4. Een werkgever die geen beroep doet op een zwaarwegend bedrijfs- of dienstbelang, kan dit nadien evenmin, tenzij het een militaire ambtenaar betreft.
-
-5. Indien de werkgever overweegt het verzoek om verlof niet of niet geheel in te willigen, pleegt hij overleg met de werknemer over diens verzoek. De beslissing op het verzoek om verlof wordt door de werkgever schriftelijk aan de werknemer medegedeeld. Indien de werkgever het verzoek niet of niet geheel inwilligt, wordt dit onder opgave van redenen aan de werknemer medegedeeld.
-
-6. Indien de werkgever niet een week voor het beoogde tijdstip van ingang van het verlof de beslissing op het verzoek schriftelijk heeft medegedeeld aan de werknemer, gaat het verlof in overeenkomstig het verzoek van de werknemer. Zolang de werknemer niet heeft voldaan aan een verzoek van de werkgever om informatie als bedoeld in het tweede lid, wordt de in de eerste volzin bedoelde periode verlengd met het aantal dagen dat de werknemer niet heeft voldaan aan het verzoek van de werkgever.
-
-#### Omvang verlof
-
-##### Artikel 5:12
-
-1. Het verlof bedoeld in [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2025-01-01&g=2025-01-01) gaat niet in voordat ten minste twee weken zijn verstreken nadat de werknemer het verzoek om verlof bedoeld in [artikel 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=2&artikel=5:11&z=2025-01-01&g=2025-01-01) heeft ingediend.
-
-2. In afwijking van het eerste lid kan het verlof op verzoek van de werknemer ingaan op een eerder tijdstip indien de werkgever daarmee instemt.
-
-#### Verzoek, zwaarwegend bedrijfs- of dienstbelang
-
-##### Artikel 5:13
-
-1. Het verlof eindigt met het verstrijken van de duur waarvoor het verlof is verleend.
-
-2. Indien voor het verstrijken van de in het eerste lid bedoelde verlofduur de persoon ten behoeve van wiens verzorging het verlof is verleend overlijdt, dan wel niet langer niet langer in een omstandigheid verkeert als bedoeld in [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2025-01-01&g=2025-01-01), eindigt het verlof met ingang van de dag na die waarop deze omstandigheid zich heeft voorgedaan.
-
-#### § 3. Samenloop
-
-##### Artikel 5:14
-
-Indien het verzoek om langdurend zorgverlof wordt ingewilligd, kan het daaraan voorafgaand kortdurend zorgverlof bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2025-01-01&g=2025-01-01) op verzoek van de werknemer en met inachtneming van [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=2&artikel=5:12&z=2025-01-01&g=2025-01-01), geheel of gedeeltelijk worden aangemerkt als langdurend zorgverlof.
-
-### Afdeling 3. Nadere voorschriften
-
-#### § 2. Verlening, ingang en einde van verlof, informatie
-
-##### Artikel 5:15
-
-Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2025-01-01&g=2025-01-01) of [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2025-01-01&g=2025-01-01), kunnen niet worden aangemerkt als vakantie.
-
-#### § 3. Samenloop
-
-##### Artikel 5:16
-
-Van dit hoofdstuk kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of bij het ontbreken daarvan, met de personeelsvertegenwoordiging met dien verstande dat de werknemer bij afwijking van [artikel 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:2&z=2025-01-01&g=2025-01-01) in elke periode van 12 achtereenvolgende maanden ten minste recht houdt op eenmaal de arbeidsduur per week en bij afwijking van [artikel 5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=3&artikel=5:15&z=2025-01-01&g=2025-01-01) ten minste recht houdt op het wettelijke minimum aan vakantie-aanspraken.
-
-### Hoofdstuk 6. Ouderschapsverlof
-
-#### Compensatie met vakantie-aanspraken
-
-#### Ouderschapsverlof
-
-#### Omvang, duur en invulling verlof
-
-#### Ouderschapsverlof
-
-#### Ouderschapsverlof
-
-#### § 2. Melding
-
-#### Omvang verlof
-
-#### Diensttijd
-
-#### Meldingsverplichting
-
-### Hoofdstuk 7. Levensloopregeling
-
-### Afdeling 1. Algemene bepalingen
-
-#### § 4. Mate van gebondenheid
-
-#### § 4*. Overgangsrecht
-
-#### § 5. Overgangsrecht
-
-#### § 4. Mate van gebondenheid
-
-### Afdeling 2. Financiële tegemoetkoming
-
-#### Recht op deelname
-
-#### § 5. Slot- en overgangsrecht
-
-#### Voorwaarden voor toekenning
-
-#### Voorwaarden bij palliatief verlof
-
-#### Duur financiële tegemoetkoming
-
-#### Voortijdige beëindiging financiële tegemoetkoming
-
-#### Geen voortijdige beëindiging financiële tegemoetkoming bij voortijdige beëindiging vervanging
-
-#### Herziening of intrekking
-
-#### Terugvordering
-
-#### Onvervreemdbaarheid
-
-#### Verplichting tot het verstrekken van inlichtingen
-
-#### § 4. Boete
-
-### Hoofdstuk 8. Slotbepalingen
-
-#### Evaluatiebepaling
-
-#### Inwerkingtreding
-
-#### Citeertitel
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 4. Mate van gebondenheid
-
-#### Recht op deelname
-
-#### § 3. Nadere voorschriften
-
-### Hoofdstuk 7. Levensloopregeling
-
-#### Begrippen
-
-#### Begrippen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Financiering
-
-#### Uitkering terzake van vervanging
-
-#### Recht op uitkering voor de zelfstandige, de beroepsbeoefenaar op arbeidsovereenkomst en de partner, bedoeld in [artikel 3:1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1a&z=2025-01-01&g=2025-01-01)
-
-#### Aanvraag van uitkering
-
-#### Uitkering terzake van vervanging
-
-#### Aanvraag van uitkering
-
-#### De hoogte van de uitkering
-
-#### De hoogte van de uitkering terzake van vervanging
-
-#### § 3. Slotbepalingen
-
-#### Controlevoorschriften
-
-#### Controlevoorschriften
-
-#### Samenloop
-
-### Hoofdstuk 4. Calamiteiten- en ander kort verzuimverlof
-
-#### § 1. Verlofvormen
-
-#### Samenloop
-
-#### Overgangsrecht zelfstandigen en beroepsbeoefenaren op arbeidsovereenkomst
-
-#### § 2. Melding en informatie
-
-#### Meldingsverplichting
-
-#### Calamiteiten- en ander kort verzuimverlof
-
-#### § 2. Melding en informatie
-
-#### § 4. Nadere voorschriften
-
-#### Informatieverplichting
-
-#### § 3. Loonvoorschriften
-
-#### Recht met afwijkingsmogelijkheden
-
-### Hoofdstuk 5. Kort- en langdurend zorgverlof
-
-### Afdeling 1. Kortdurend zorgverlof
-
-### Afdeling 2. Langdurend zorgverlof
-
-#### § 4. Nadere voorschriften
-
-#### Nadere loonvoorschriften
-
-#### Loondoorbetaling
-
-### Afdeling 3. Nadere voorschriften
-
-#### Compensatie met vakantie-aanspraken
-
-### Hoofdstuk 6. Ouderschapsverlof
-
-#### Ouderschapsverlof
-
-#### Omvang verlof
-
-#### Ouderschapsverlof
-
-#### § 2. Melding
-
-#### Omvang verlof
-
-#### § 2. Melding
-
-#### Meldingsverplichting
-
-#### Intrekking of wijziging melding
-
-### Hoofdstuk 7. Levensloopregeling
-
-#### § 2. Melding
-
-### Hoofdstuk 7. Levensloopregeling
-
-#### § 5. Overgangsrecht
-
-#### Begrippen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6:1a. Bescherming tegen benadeling
-
-De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte het recht op verlof, bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:1&z=2025-01-01&g=2025-01-01), geldend maakt of ter zake bijstand heeft verleend.
-
-##### Artikel 3:14a. Opschorting betaling bij vertrek naar onbekende bestemming
-
-1. Is van de aanvrager of ontvanger van een uitkering in verband met zwangerschap en bevalling bij het Uitvoeringsinstituut werknemersverzekeringen een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het Uitvoeringsinstituut werknemersverzekeringen hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.
-
-2. Wanneer na afloop van deze termijn, de afwijkende registratie niet is beëindigd of als uit de basisregistratie personen niet blijkt dat het college van burgemeester en wethouders van de desbetreffende gemeente de gegevens over het adres in onderzoek heeft genomen, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de uitkering aan de persoon, die recht heeft op de uitkering, op.
-
-3. De opschorting wordt beëindigd zodra is vastgesteld dat de persoon, bedoeld in het tweede lid, in het buitenland woont of verblijft of dat een adres in Nederland in de basisregistratie personen is opgenomen.
-
-4. Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de uitkering op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.
-
-#### De hoogte van de uitkering
-
-#### § 2. De zelfstandige en de beroepsbeoefenaar op arbeidsovereenkomst
-
-#### Omvang verlof
-
-#### Leeftijd kind
-
-#### Recht op en hoogte van de uitkering tijdens een gedeelte van het ouderschapsverlof
-
-#### § 3. Nadere voorschriften
-
-#### Compensatie met vakantie-aanspraken
-
-### Hoofdstuk 7. Levensloopregeling
-
-### Hoofdstuk 7. Levensloopregeling
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3:1a. Overgang bevallingsverlof
-
-1. Indien op de dag van de bevalling dan wel tijdens het bevallingsverlof de vrouwelijke werknemer overlijdt en een akte van geboorte van haar kind is opgemaakt heeft haar partner, indien deze werknemer is als bedoeld in [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), recht op het resterende bevallingsverlof met behoud van loon.
-
-2. Voor de toepassing van dit hoofdstuk wordt als partner aangemerkt degene die:
-
-- a. ten tijde van het overlijden van de moeder met haar was gehuwd of een geregistreerd partnerschap was aangegaan; of
-
-- b. het kind heeft erkend.
-
-3. De duur van het resterende bevallingsverlof wordt berekend overeenkomstig [artikel 3:1, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2025-01-01&g=2025-01-01). Artikel 3:1, zesde lid, is van overeenkomstige toepassing op het opnemen van het resterende bevallingsverlof, met dien verstande dat in plaats van «vrouwelijke werknemer» telkens wordt gelezen: partner.
-
-4. De partner, die werknemer is als bedoeld in [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), heeft ook recht op verlof met behoud van loon, indien de moeder van het kind een gelijkgestelde was als bedoeld in artikel 3:6, een zelfstandige of een beroepsbeoefenaar op arbeidsovereenkomst als bedoeld in [artikel 3:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:17&z=2025-01-01&g=2025-01-01), of geen recht had op bevallingsverlof of een uitkering als bedoeld in [afdeling 2 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&z=2025-01-01&g=2025-01-01).
-
-5. De werkgever kan het op grond van het eerste of vierde lid voldane loon binnen zes weken na afloop van het resterende bevallingsverlof in rekening brengen bij het Uitvoeringsinstituut werknemersverzekeringen. De werkgever verstrekt genoemd instituut een afschrift van de akte van geboorte van het kind en van de akte van overlijden van de moeder. Het loon wordt door het Uitvoeringsinstituut werknemersverzekeringen aan de werkgever betaald zonder dat dit bij beschikking is vastgesteld, indien redelijkerwijs mag worden aangenomen dat aan een beschikking geen behoefte bestaat.
-
-6. Indien het verzoek, bedoeld in het vijfde lid, niet tijdig wordt gedaan, wordt de vergoeding van het op grond van het eerste of vierde lid voldane loon uitsluitend toegekend voor zover het tijdvak waarover dit loon in rekening wordt gebracht, valt in het jaar voorafgaand aan de datum van het verzoek. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de werkgever afwijken van de eerste zin.
-
-7. Indien de moeder gelijkgestelde, zelfstandige of beroepsbeoefenaar op arbeidsovereenkomst was, wordt de duur van het verlof gelijkgesteld aan de duur van het resterende recht op uitkering, bedoeld in [afdeling 2 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&z=2025-01-01&g=2025-01-01). Indien de moeder geen recht had op bevallingsverlof of een uitkering als bedoeld in afdeling 2 van hoofdstuk 3, eindigt het verlof van de partner tien weken na de dag waarop het kind is geboren. [Artikel 3:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
-
-8. De partner meldt het overlijden van de moeder en de opname van het verlof uiterlijk op de tweede dag volgend op haar overlijden bij zijn werkgever. De partner verstrekt de werkgever binnen vier weken na het overlijden van de moeder een afschrift van de akte van geboorte van het kind en van de akte van overlijden van de moeder.
-
-#### Compensatie met vakantie-aanspraken
-
-### Afdeling 2. Uitkering in verband met zwangerschap, bevalling, adoptie en pleegzorg
-
-#### § 1. De werknemer en de gelijkgestelde
-
-#### Begrippen werknemer, gelijkgestelde en werkgever
-
-#### Recht op uitkering voor de werknemer
-
-#### Begrippen werknemer, gelijkgestelde en werkgever
-
-#### Recht op uitkering voor de werknemer
-
-#### Recht op uitkering in verband met zwangerschap en bevalling voor de vrouwelijke gelijkgestelde
-
-#### Recht op uitkering in verband met adoptie of pleegzorg voor de gelijkgestelde
-
-#### Recht op uitkering bij nawerking
-
-#### De aanvraag van uitkering via de werkgever
-
-#### De rechtstreekse aanvraag van uitkering
-
-#### Van overeenkomstige toepassing zijnde artikelen
-
-#### § 2. De zelfstandige en de beroepsbeoefenaar op arbeidsovereenkomst
-
-#### Van overeenkomstige toepassing zijnde artikelen
-
-#### § 3. Slotbepalingen
-
-#### Controlevoorschriften
-
-##### Artikel 3:31. Overgangsbepaling vakantie-uitkering bij zwangerschap en bevalling
-
-1. Op aanvragen als bedoeld in [artikel 3:22, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:22&z=2025-01-01&g=2025-01-01), ontvangen voor 1 juli 2019, zijn voor de gehele uitkering, bedoeld in [artikel 3:23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:23&z=2025-01-01&g=2025-01-01), dat artikellid en [artikel 3:27, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:27&z=2025-01-01&g=2025-01-01), van toepassing, zoals die bepalingen luidden op 30 juni 2019.
-
-2. Op aanvragen als bedoeld in [artikel 3:22, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:22&z=2025-01-01&g=2025-01-01), ontvangen op of na 1 juli 2019, is voor de gehele uitkering, bedoeld in [artikel 3:23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:23&z=2025-01-01&g=2025-01-01), dat artikellid van toepassing.
-
-### Hoofdstuk 4. Kort verzuimverlof en geboorteverlof
-
-#### Meldingsverplichting
-
-#### § 4. Nadere voorschriften
-
-#### Compensatie met vakantie-aanspraken
-
-### Hoofdstuk 5. Kort- en langdurend zorgverlof
-
-### Afdeling 1. Kortdurend zorgverlof
-
-#### § 1. Verlofvorm
-
-#### Kortdurend zorgverlof
-
-#### § 2. Melding en informatie
-
-#### Kortdurend zorgverlof
-
-#### § 2. Melding en informatie
-
-#### Meldingsverplichting
-
-### Afdeling 2. Langdurend zorgverlof
-
-#### § 1. Verlofvorm
-
-#### Nadere loonvoorschriften
-
-#### § 2. Verlening, ingang en einde van verlof, informatie
-
-#### Omvang verlof
-
-### Afdeling 3. Nadere voorschriften
-
-### Hoofdstuk 6. Ouderschapsverlof
-
-#### Recht met afwijkingsmogelijkheden
-
-#### § 3. Nadere voorschriften
-
-##### Artikel 6:10. Overgangsrecht in verband met ouderschapsverlof
-
-Indien de werknemer op het tijdstip waarop de [Wet van 17 december 2014 houdende wijziging van de Wet arbeid en zorg en de Wet aanpassing arbeidsduur in verband met vergroting van de gebruiksmogelijkheden van deze wetten, alsmede technische aanpassing van de Arbeidstijdenwet en actualisering van het overgangsrecht met betrekking tot de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036012) (Stb. 565) in werking treedt, zijn voornemen tot het opnemen van het ouderschapsverlof, bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:1&z=2025-01-01&g=2025-01-01), heeft gemeld aan zijn werkgever en die heeft ingestemd met de invulling daarvan, blijven op dat verlof de artikelen van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&z=2025-01-01&g=2025-01-01) van toepassing zoals die luidden op de dag voorafgaande aan het tijdstip inwerkingtreding van die wet.
-
-### Hoofdstuk 8. Slotbepalingen
-
-#### Inwerkingtreding
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 4:2a. Aanvullend geboorteverlof
 
@@ -1584,7 +692,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Op een op grond van dit artikel vastgesteld dagloon is [artikel 16 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=16) van overeenkomstige toepassing.
 
-7. Het Uitvoeringsinstituut werknemersverzekeringen verstrekt op aanvraag aan een werknemer wiens arbeidsverhouding niet wordt beschouwd als dienstbetrekking op grond van [artikel 6 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6) en die uitsluitend om die reden niet wordt aangemerkt als werknemer in de zin van die wet, een uitkering bij opname van het aanvullend geboorteverlof, bedoeld in [artikel 4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01). De uitkering bedraagt naar rato van de overeengekomen arbeidsduur per week 70% van het loon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) indien zijn recht op uitkering niet kan worden vastgesteld overeenkomstig het derde tot en met zesde lid. Bij de berekening van de uitkering wordt uitgegaan van een arbeidsduur van 36 uren per week.
+7. Het Uitvoeringsinstituut werknemersverzekeringen verstrekt op aanvraag aan een werknemer wiens arbeidsverhouding niet wordt beschouwd als dienstbetrekking op grond van [artikel 6 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6) en die uitsluitend om die reden niet wordt aangemerkt als werknemer in de zin van die wet, een uitkering bij opname van het aanvullend geboorteverlof, bedoeld in [artikel 4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01). De uitkering bedraagt naar rato van de overeengekomen arbeidsduur per week 70% van het loon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) indien zijn recht op uitkering niet kan worden vastgesteld overeenkomstig het derde tot en met zesde lid. Bij de berekening van de uitkering wordt uitgegaan van een arbeidsduur van 36 uren per week.
 
 ##### Artikel 4:2c. De aanvraag van de uitkering van het aanvullend geboorteverlof
 
@@ -1598,67 +706,31 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. De [artikelen 3.14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:14&z=2025-01-01&g=2025-01-01), [3:14a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:14a&z=2025-01-01&g=2025-01-01), [3:16, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:16&z=2025-01-01&g=2025-01-01), en [3:18, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3:18&z=2025-01-01&g=2025-01-01), zijn van overeenkomstige toepassing.
 
-### Hoofdstuk 5. Kort- en langdurend zorgverlof
+#### § 2. Melding en informatie
 
-### Afdeling 1. Kortdurend zorgverlof
+##### Meldingsverplichting
 
-#### § 1. Verlofvorm
+##### Artikel 4:3
 
-#### § 3. Loonvoorschriften
+1. De werknemer meldt vooraf aan de werkgever dat hij het verlof, bedoeld in [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2025-01-01&g=2025-01-01), opneemt onder opgave van de reden. Indien dit niet mogelijk is, meldt de werknemer het opnemen van het verlof zo spoedig mogelijk aan de werkgever onder opgave van de reden.
 
-### Afdeling 2. Langdurend zorgverlof
+2. De werknemer meldt het voornemen om het verlof, bedoeld in de [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01) of [4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01), op te nemen ten minste vier weken voor het tijdstip van ingang van het verlof schriftelijk of elektronisch aan de werkgever onder opgave van de periode, het aantal gehele weken waarvoor hij verlof opneemt, of als de arbeidsduur over een ander tijdvak is overeengekomen waarover hij verlof opneemt over dat tijdvak, en de spreiding daarvan over de week of het anderszins overeengekomen tijdvak. Indien het niet mogelijk is de melding van het verlof tijdig te doen, meldt de werknemer het voornemen om het verlof op te nemen zo spoedig mogelijk aan de werkgever.
 
-#### § 1. Verlofvorm
+3. De tijdstippen van ingang en einde van het in de [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01) en [4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01) bedoelde verlof kunnen afhankelijk worden gesteld van de datum van de bevalling en ten aanzien van het verlof, bedoeld in artikel 4:2a, eveneens van het einde van het bevallingsverlof.
 
-#### Einde van het verlof
+4. De werkgever kan, na overleg met de werknemer, de door de werknemer gewenste wijze van invulling van het in [artikel 4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01) bedoelde verlof op grond van een zwaarwegend bedrijfs- of dienstbelang wijzigen tot twee weken voor het tijdstip van ingang van het verlof.
 
-### Afdeling 3. Nadere voorschriften
+5. Indien toepassing wordt gegeven aan de [artikelen 4:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01), of [4:2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01), zijn het eerste tot en met vierde lid van overeenkomstige toepassing.
 
-#### § 3. Samenloop
+6. Het verlof van de militaire ambtenaar vangt niet aan of eindigt in ieder geval zodra de werkgever aan hem kenbaar maakt dat hij tegen het opnemen van het verlof onderscheidenlijk de voortzetting daarvan een zodanig zwaarwegend dienstbelang heeft, dat het belang van de militaire ambtenaar daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken. Toepassing van de eerste zin laat het recht op het geboorteverlof, bedoeld in [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01), en vervolgens het recht op het aanvullend geboorteverlof, bedoeld in [artikel 4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01), onverlet. De werkgever kan daarbij een tijdvak van maximaal negen maanden, te rekenen vanaf de eerste dag na de bevalling, toepassen.
 
-#### Compensatie met vakantie-aanspraken
+##### Informatieverplichting
 
-#### § 3. Nadere voorschriften
+##### Artikel 4:4
 
-### Hoofdstuk 8. Slotbepalingen
+De werkgever kan achteraf van de werknemer verlangen dat hij aannemelijk maakt dat hij zijn arbeid niet heeft kunnen verrichten wegens een van de redenen genoemd in de [artikelen 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2025-01-01&g=2025-01-01), [4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01) of [4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01).
 
-#### Begrippen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 4. Kort verzuimverlof en geboorteverlof
-
-#### § 1. Verlofvormen
-
-#### Meldingsverplichting
-
-#### § 3. Loonvoorschriften
-
-#### Compensatie met vakantie-aanspraken
-
-### Hoofdstuk 5. Kort- en langdurend zorgverlof
-
-### Afdeling 1. Kortdurend zorgverlof
-
-### Afdeling 2. Langdurend zorgverlof
-
-#### § 2. Verlening, ingang en einde van verlof, informatie
-
-### Afdeling 3. Nadere voorschriften
-
-### Hoofdstuk 6. Ouderschapsverlof
-
-#### § 1. Verlofvorm
-
-#### Meldingsverplichting
-
-#### Intrekking of wijziging melding
-
-### Hoofdstuk 8. Slotbepalingen
-
-#### Evaluatiebepaling
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Intrekking of wijziging melding aanvullend geboorteverlof
 
 ##### Artikel 4:4a
 
@@ -1666,109 +738,237 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. De werkgever stemt in met een verzoek van de werknemer om het aanvullend geboorteverlof niet op te nemen of niet voort te zetten als gevolg van onvoorziene omstandigheden, tenzij een zwaarwegend bedrijfs- of dienstbelang zich hiertegen verzet. Indien de werkgever instemt met het verzoek wordt het recht op verlof opgeschort. Verlof dat niet wordt opgenomen gedurende het tijdvak, bedoeld in [artikel 4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01), vervalt. De werkgever hoeft aan het verzoek niet met ingang van een vroeger tijdstip gevolg te geven dan vier weken na het verzoek. Indien de werkgever het verzoek weigert, motiveert hij dit schriftelijk binnen een redelijke termijn na de indiening van het verzoek.
 
-#### § 5. Mate van gebondenheid
-
-### Hoofdstuk 5. Kort- en langdurend zorgverlof
-
-### Afdeling 1. Kortdurend zorgverlof
-
-#### § 1. Verlofvorm
-
 #### § 3. Loonvoorschriften
 
-### Afdeling 2. Langdurend zorgverlof
+##### Artikel 4:5
+
+1. Indien de werknemer op grond van enige wettelijk voorgeschreven verzekering of krachtens enige verzekering of uit enig fonds waarin de deelneming is overeengekomen bij of voortvloeit uit de arbeidsovereenkomst of publiekrechtelijke aanstelling, een geldelijke uitkering toekomt, wordt het loon verminderd met het bedrag van die uitkering.
+
+2. Het loon wordt verminderd met het bedrag van de door de werkgever vergoede onkosten die de werknemer door het niet verrichten van zijn arbeid heeft bespaard.
 
 #### § 4. Nadere voorschriften
 
-### Afdeling 3. Nadere voorschriften
+##### Compensatie met vakantie-aanspraken
 
-### Hoofdstuk 6. Ouderschapsverlof
+##### Artikel 4:6
 
-#### Dwingend recht
+1. Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2025-01-01&g=2025-01-01), kunnen slechts indien in een voorkomend geval de werknemer ermee instemt worden aangemerkt als vakantie, met dien verstande dat de werknemer ten minste recht houdt op het wettelijk minimum aan vakantie-aanspraken.
 
-### Hoofdstuk 7. Levensloopregeling
+2. Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in de [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01) of [4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2a&z=2025-01-01&g=2025-01-01), kunnen niet worden aangemerkt als vakantie.
 
-### Hoofdstuk 8. Slotbepalingen
+#### § 5. Mate van gebondenheid
 
-#### Inwerkingtreding
+##### Recht met afwijkingsmogelijkheden
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 4:7
 
-#### Recht met afwijkingsmogelijkheden
+1. Van [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2025-01-01&g=2025-01-01), voor wat betreft de loonbetaling, en de [artikelen 4:4 tot en met 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=2&artikel=4:4&z=2025-01-01&g=2025-01-01) kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of, bij het ontbreken daarvan, met de personeelsvertegenwoordiging, met dien verstande dat de werknemer bij afwijking van [artikel 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=4&artikel=4:6&z=2025-01-01&g=2025-01-01) ten minste recht houdt op het wettelijke minimum aan vakantie-aanspraken.
 
-##### Artikel 6:11
-
-[Artikel 3:13, zesde tot en met het achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:13&z=2025-01-01&g=2025-01-01), is niet van toepassing indien de aanvraag van de uitkering, bedoeld in [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:7&z=2025-01-01&g=2025-01-01), is ingediend voor het tijdstip van inwerkingtreding van [artikel IX, onderdeel A, van de Verzamelwet SZW 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=IX).
-
-### Hoofdstuk 7. Levensloopregeling
-
-### Hoofdstuk 8. Slotbepalingen
-
-#### Citeertitel
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Behoud van rechten, functie en arbeidsvoorwaarden
-
-##### Artikel 1:6
-
-1. De werknemer die verlof geniet op grond van deze wet behoudt gedurende het verlof de reeds verworven of in opbouw zijnde rechten die uit de arbeidsverhouding voortvloeien. Na afloop van het verlof zijn die rechten, met inbegrip van de uit de wet, collectieve arbeidsovereenkomst dan wel gebruiken voortvloeiende veranderingen, van toepassing.
-
-2. De werknemer die verlof geniet op grond van deze wet wordt in staat gesteld om na afloop van het verlof onder voor hem niet minder gunstige voorwaarden en omstandigheden terug te keren in de oorspronkelijke of een gelijkwaardige functie en te profiteren van elke verbetering van arbeidsvoorwaarden waarop hij aanspraak had kunnen maken indien hij het verlof niet had genoten.
-
-##### Artikel 1:7
-
-De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte een recht op verlof als bedoeld in deze wet geldend maakt, ter zake bijstand heeft verleend, of hieromtrent een klacht binnen de onderneming heeft ingediend.
-
-### Hoofdstuk 2. Aanpassing arbeidsduur
-
-#### Gereserveerd
-
-### Hoofdstuk 3. Zwangerschap, bevalling, adoptie en pleegzorg
-
-### Afdeling 1. Het recht op verlof in verband met zwangerschap, bevalling, adoptie en pleegzorg
-
-#### § 1. Verlofvorm
-
-#### Zwangerschaps- en bevallingsverlof
-
-#### Adoptieverlof
-
-#### § 2. Melding
-
-#### Meldingsverplichting
-
-#### § 3. Nadere voorschriften
-
-#### Compensatie met vakantie-aanspraken
-
-#### § 4. Mate van gebondenheid
-
-### Afdeling 2. Uitkering in verband met zwangerschap, bevalling, adoptie en pleegzorg
-
-#### § 1. De werknemer en de gelijkgestelde
-
-#### § 2. De zelfstandige en de beroepsbeoefenaar op arbeidsovereenkomst
-
-#### § 3. Slotbepalingen
-
-### Hoofdstuk 4. Kort verzuimverlof en geboorteverlof
-
-#### § 1. Verlofvormen
+2. Van de [artikelen 4:2 tot en met 4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2025-01-01&g=2025-01-01) kan niet ten nadele van een werknemer worden afgeweken.
 
 ### Hoofdstuk 5. Kort- en langdurend zorgverlof
 
-### Afdeling 1. Kortdurend zorgverlof
+#### Afdeling 1. Kortdurend zorgverlof
 
-### Afdeling 2. Langdurend zorgverlof
+#### § 1. Verlofvorm
 
-#### Ingang van het verlof
+##### Kortdurend zorgverlof
 
-### Afdeling 3. Nadere voorschriften
+##### Artikel 5:1
+
+1. De werknemer heeft recht op verlof voor de noodzakelijke verzorging in verband met ziekte van een persoon als bedoeld in het tweede lid.
+
+2. Onder een persoon als bedoeld in het eerste lid, wordt verstaan:
+
+- a. de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;
+
+- b. een kind tot wie de werknemer als ouder in een familierechtelijke betrekking staat;
+
+- c. een kind van de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;
+
+- d. een pleegkind dat blijkens de basisregistratie personen op hetzelfde adres woont als de werknemer en dat hij als pleegouder als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) verzorgt;
+
+- e. een bloedverwant in de eerste of tweede graad;
+
+- f. degene die, zonder dat er sprake is van een arbeidsrelatie, deel uitmaakt van de huishouding van de werknemer; of
+
+- g. degene met wie de werknemer anderszins een sociale relatie heeft, voor zover de te verlenen verzorging rechtstreeks voortvloeit uit die relatie en redelijkerwijs door de werknemer moet worden verleend.
+
+##### Duur verlof
+
+##### Artikel 5:2
+
+Het verlof bedraagt in elke periode van 12 achtereenvolgende maanden ten hoogste twee maal de arbeidsduur per week. De periode van 12 maanden gaat in op de eerste dag waarop het verlof wordt genoten.
+
+#### § 2. Melding en informatie
+
+##### Meldingsverplichting
+
+##### Artikel 5:3
+
+De werknemer meldt vooraf aan de werkgever dat hij het verlof, bedoeld in artikel 5:1 opneemt onder opgave van de reden. Indien dit niet mogelijk is, meldt de werknemer het opnemen van het verlof zo spoedig mogelijk aan de werkgever onder opgave van de reden. Bij die melding geeft de werknemer ook de omvang, de wijze van opneming en de vermoedelijke duur van het verlof aan.
+
+##### Ingang verlof/zwaarwegend bedrijfs- of dienstbelang
+
+##### Artikel 5:4
+
+1. Het verlof gaat in op het tijdstip waarop de werknemer het opnemen ervan meldt aan de werkgever.
+
+2. Het verlof vangt niet aan of eindigt in ieder geval zodra de werkgever aan de werknemer kenbaar maakt dat hij tegen het opnemen van het verlof onderscheidenlijk de voortzetting daarvan een zodanig zwaarwegend bedrijfs- of dienstbelang heeft, dat het belang van de werknemer daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken.
+
+3. Een werkgever die nadat een melding door de werknemer, niet zijnde een militaire ambtenaar, hem bereikt heeft en naar aanleiding daarvan geen beroep doet op een zwaarwegend bedrijfs- of dienstbelang, kan dit nadien evenmin.
+
+##### Informatieverplichting
+
+##### Artikel 5:5
+
+De werkgever kan achteraf van de werknemer verlangen dat hij aannemelijk maakt dat hij zijn arbeid niet heeft verricht in verband met de noodzakelijke verzorging van een persoon als bedoeld in artikel 5:1.
+
+#### § 3. Loonvoorschriften
+
+##### Loondoorbetaling
+
+##### Artikel 5:6
+
+1. Voorzover het loon niet meer bedraagt dan het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag, behoudt de werknemer, die anders dan op grond van een publiekrechtelijke aanstelling arbeid verricht, gedurende het verlof, bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2025-01-01&g=2025-01-01), recht op 70% van het loon, maar ten minste op het voor hem geldende wettelijke minimumloon.
+
+2. Het eerste lid is van overeenkomstige toepassing op de werknemer, die arbeid verricht op grond van een publiekrechtelijke aanstelling.
+
+##### Nadere loonvoorschriften
+
+##### Artikel 5:7
+
+1. Indien de werknemer op grond van enige wettelijk voorgeschreven verzekering of krachtens enige verzekering of uit enig fonds waarin de deelneming is overeengekomen bij of voortvloeit uit de arbeidsovereenkomst of publiekrechtelijke aanstelling, een geldelijke uitkering toekomt, wordt het loon verminderd met het bedrag van die uitkering.
+
+2. Het loon wordt verminderd met het bedrag van de door de werkgever vergoede onkosten die de werknemer door het niet verrichten van zijn arbeid heeft bespaard.
+
+#### § 4. Nadere voorschriften
+
+##### Samenloop
+
+##### Artikel 5:8
+
+Indien zowel de in artikel 4:1 als de in artikel 5:1 gestelde voorwaarden worden vervuld, eindigt het in artikel 4:1 bedoelde verlof na één dag.
+
+#### Afdeling 2. Langdurend zorgverlof
+
+#### § 1. Verlofvorm
+
+##### Langdurend zorgverlof
+
+##### Artikel 5:9
+
+De werknemer heeft recht op verlof zonder behoud van loon voor:
+
+- a. de verzorging van een persoon als bedoeld in [artikel 5:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2025-01-01&g=2025-01-01), die levensbedreigend ziek is; of
+
+- b. de noodzakelijke verzorging van een persoon als bedoeld in [artikel 5:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2025-01-01&g=2025-01-01), die ziek of hulpbehoevend is.
+
+##### Omvang verlof
+
+##### Artikel 5:10
+
+Het verlof bedraagt in elke periode van twaalf achtereenvolgende maanden ten hoogste zesmaal de arbeidsduur per week. De periode van twaalf maanden gaat in op de eerste dag waarop het verlof wordt genoten.
+
+#### § 2. Verlening, ingang en einde van verlof, informatie
+
+##### Verzoek, zwaarwegend bedrijfs- of dienstbelang
+
+##### Artikel 5:11
+
+1. De werknemer dient het verzoek om verlof ten minste twee weken voor het beoogde tijdstip van ingang van het verlof schriftelijk in bij de werkgever onder opgave van de reden, de persoon die verzorging behoeft, het tijdstip van ingang, de omvang, de voorgenomen duur van het verlof en de spreiding van de uren over de week of het anderszins overeengekomen tijdvak.
+
+2. De werknemer verstrekt desgevraagd aan de werkgever schriftelijk aanvullende informatie waarover hij redelijkerwijs en op korte termijn kan beschikken teneinde aannemelijk te maken dat is voldaan aan de op grond van [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2025-01-01&g=2025-01-01) geldende voorwaarden. De werkgever doet een schriftelijk verzoek tot het verstrekken van aanvullende informatie binnen een week nadat het verzoek om verlof bij hem is ingediend.
+
+3. De werkgever willigt het verzoek om verlof van de werknemer in, tenzij hij tegen het opnemen van het verlof een zodanig zwaarwegend bedrijfs- of dienstbelang heeft, dat het belang van de werknemer daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken.
+
+4. Een werkgever die geen beroep doet op een zwaarwegend bedrijfs- of dienstbelang, kan dit nadien evenmin, tenzij het een militaire ambtenaar betreft.
+
+5. Indien de werkgever overweegt het verzoek om verlof niet of niet geheel in te willigen, pleegt hij overleg met de werknemer over diens verzoek. De beslissing op het verzoek om verlof wordt door de werkgever schriftelijk aan de werknemer medegedeeld. Indien de werkgever het verzoek niet of niet geheel inwilligt, wordt dit onder opgave van redenen aan de werknemer medegedeeld.
+
+6. Indien de werkgever niet een week voor het beoogde tijdstip van ingang van het verlof de beslissing op het verzoek schriftelijk heeft medegedeeld aan de werknemer, gaat het verlof in overeenkomstig het verzoek van de werknemer. Zolang de werknemer niet heeft voldaan aan een verzoek van de werkgever om informatie als bedoeld in het tweede lid, wordt de in de eerste volzin bedoelde periode verlengd met het aantal dagen dat de werknemer niet heeft voldaan aan het verzoek van de werkgever.
+
+##### Ingang van het verlof
+
+##### Artikel 5:12
+
+1. Het verlof bedoeld in [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2025-01-01&g=2025-01-01) gaat niet in voordat ten minste twee weken zijn verstreken nadat de werknemer het verzoek om verlof bedoeld in [artikel 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=2&artikel=5:11&z=2025-01-01&g=2025-01-01) heeft ingediend.
+
+2. In afwijking van het eerste lid kan het verlof op verzoek van de werknemer ingaan op een eerder tijdstip indien de werkgever daarmee instemt.
+
+##### Einde van het verlof
+
+##### Artikel 5:13
+
+1. Het verlof eindigt met het verstrijken van de duur waarvoor het verlof is verleend.
+
+2. Indien voor het verstrijken van de in het eerste lid bedoelde verlofduur de persoon ten behoeve van wiens verzorging het verlof is verleend overlijdt, dan wel niet langer niet langer in een omstandigheid verkeert als bedoeld in [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2025-01-01&g=2025-01-01), eindigt het verlof met ingang van de dag na die waarop deze omstandigheid zich heeft voorgedaan.
+
+#### § 3. Samenloop
+
+##### Artikel 5:14
+
+Indien het verzoek om langdurend zorgverlof wordt ingewilligd, kan het daaraan voorafgaand kortdurend zorgverlof bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2025-01-01&g=2025-01-01) op verzoek van de werknemer en met inachtneming van [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=2&artikel=5:12&z=2025-01-01&g=2025-01-01), geheel of gedeeltelijk worden aangemerkt als langdurend zorgverlof.
+
+#### Afdeling 3. Nadere voorschriften
+
+#### Compensatie met vakantie-aanspraken
+
+##### Artikel 5:15
+
+Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:1&z=2025-01-01&g=2025-01-01) of [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=2&paragraaf=1&artikel=5:9&z=2025-01-01&g=2025-01-01), kunnen niet worden aangemerkt als vakantie.
 
 #### Recht met afwijkingsmogelijkheden
 
+##### Artikel 5:16
+
+Van dit hoofdstuk kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of bij het ontbreken daarvan, met de personeelsvertegenwoordiging met dien verstande dat de werknemer bij afwijking van [artikel 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5:2&z=2025-01-01&g=2025-01-01) in elke periode van 12 achtereenvolgende maanden ten minste recht houdt op eenmaal de arbeidsduur per week en bij afwijking van [artikel 5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&afdeling=3&artikel=5:15&z=2025-01-01&g=2025-01-01) ten minste recht houdt op het wettelijke minimum aan vakantie-aanspraken.
+
 ### Hoofdstuk 6. Ouderschapsverlof
+
+#### § 1. Verlofvorm
+
+##### Ouderschapsverlof
+
+##### Artikel 6:1
+
+1. De werknemer die als ouder in familierechtelijke betrekking staat tot een kind, heeft recht op verlof zonder behoud van loon. Indien de werknemer met ingang van hetzelfde tijdstip tot meer dan één kind in familierechtelijke betrekking komt te staan, bestaat er ten aanzien van ieder van die kinderen recht op verlof.
+
+2. De werknemer die blijkens de basisregistratie personen op hetzelfde adres woont als een kind en duurzaam de verzorging en de opvoeding van dat kind als eigen kind op zich heeft genomen, heeft recht op verlof zonder behoud van loon. Indien de werknemer met het oog op adoptie met ingang van hetzelfde tijdstip de verzorging en opvoeding van meer dan één kind op zich heeft genomen, bestaat er ten aanzien van ieder van die kinderen recht op verlof. In alle andere gevallen waarin de in de eerste volzin gestelde voorwaarden voor meer dan één kind met ingang van hetzelfde tijdstip worden vervuld, bestaat er slechts recht op één keer verlof.
+
+##### Artikel 6:1a. Bescherming tegen benadeling
+
+De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte het recht op verlof, bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:1&z=2025-01-01&g=2025-01-01), geldend maakt of ter zake bijstand heeft verleend.
+
+##### Omvang verlof
+
+##### Artikel 6:2
+
+1. Het aantal uren verlof waarop de werknemer ten hoogste recht heeft bedraagt zesentwintig maal de arbeidsduur per week.
+
+2. Indien de arbeidsverhouding wordt beëindigd voordat het verlof volledig is genoten, heeft de werknemer, indien hij een nieuwe arbeidsverhouding aangaat, tegenover de nieuwe werkgever aanspraak op het resterende deel van het verlof met inachtneming van dit hoofdstuk. De werkgever is in dat geval verplicht aan de werknemer, op diens verzoek, een verklaring uit te reiken waaruit blijkt op hoeveel verlof de werknemer nog aanspraak heeft.
+
+##### Recht op en hoogte van de uitkering tijdens een gedeelte van het ouderschapsverlof
+
+##### Artikel 6:3
+
+1. Een werknemer als bedoeld in [artikel 3:6, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), heeft gedurende de periode dat het kind de leeftijd van een jaar nog niet heeft bereikt recht op uitkering over een periode van ten hoogste negen maal de arbeidsduur per week, waarin hij het verlof, bedoeld in [artikel 6:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:1&z=2025-01-01&g=2025-01-01), geniet. Indien de werknemer verlof als bedoeld in artikel 6:1, tweede lid, geniet in verband met een geadopteerd kind of een pleegkind, bestaat het recht op uitkering in afwijking van de vorige zin gedurende het eerste jaar na de dag van de feitelijke opneming ter adoptie of als pleegkind en voor zover het kind de leeftijd van acht jaren nog niet heeft bereikt.
+
+2. Indien de werknemer met ingang van hetzelfde tijdstip tot meer dan één kind in familierechtelijke betrekking komt te staan of indien de werknemer met het oog op adoptie met ingang van hetzelfde tijdstip de verzorging en opvoeding van meer dan één kind op zich heeft genomen, bestaat er ten aanzien van ieder van die kinderen recht op uitkering. Indien de werknemer met het oog op een pleegkind met ingang van hetzelfde tijdstip de verzorging en opvoeding van meer dan één kind op zich heeft genomen bestaat er slechts recht op één keer een uitkering.
+
+3. De uitkering bedraagt per dag 70% van het dagloon van de werknemer, bedoeld in [artikel 3:6, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2025-01-01&g=2025-01-01), van de wet, doch ten hoogste 70% van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag.
+
+4. Het dagloon, bedoeld in het derde lid, wordt berekend aan de hand van 1/261 deel van het loon, bedoeld in [hoofdstuk 3 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3), dat de werknemer in de periode van een jaar, die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak, waarin het recht op de uitkering is ontstaan, verdiende op grond van de arbeidsovereenkomst of de publiekrechtelijke aanstelling waaruit dat recht is ontstaan.
+
+5. Bij algemene maatregel van bestuur worden ten aanzien van de vaststelling en de herziening van het dagloon nadere en zo nodig afwijkende regels gesteld, onder meer over de vaststelling en de herziening van het dagloon wanneer de werknemer korter dan een jaar heeft gewerkt bij zijn werkgever.
+
+6. Op een op grond van dit artikel vastgesteld dagloon is [artikel 16 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=16) van overeenkomstige toepassing.
+
+7. Een werknemer wiens arbeidsverhouding niet wordt beschouwd als dienstbetrekking op grond van [artikel 6 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6) en die uitsluitend om die reden niet wordt aangemerkt als werknemer in de zin van die wet, heeft recht op een uitkering als bedoeld in het eerste of tweede lid. De uitkering bedraagt naar rato van de overeengekomen arbeidsduur per week 70% van het loon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), indien zijn recht op uitkering niet kan worden vastgesteld overeenkomstig het derde tot en met zesde lid. Bij de berekening van de uitkering wordt uitgegaan van een arbeidsduur van 36 uren per week.
+
+8. Een uitkering als bedoeld in dit artikel wordt niet uitbetaald als over dezelfde periode recht bestaat op een uitkering in verband met zwangerschap en bevalling dan wel adoptie of pleegzorg als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&z=2025-01-01&g=2025-01-01) of een uitkering in verband met aanvullend geboorteverlof als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&z=2025-01-01&g=2025-01-01).
+
+##### Aanvraag en verstrekking van de uitkering tijdens een gedeelte van het ouderschapsverlof
 
 ##### Artikel 6:3a
 
@@ -1788,7 +988,61 @@ De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werk
 
 8. De werknemer, bedoeld in [artikel 6:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:1&z=2025-01-01&g=2025-01-01), die in aanmerking wenst te komen voor een uitkering als bedoeld in [artikel 6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2025-01-01&g=2025-01-01) voegt, door tussenkomst van de werkgever, bij de aanvraag documenten waaruit blijkt met ingang van welke datum hij duurzaam de verzorging en de opvoeding van dat kind als zijn eigen kind op zich heeft genomen alsmede waaruit blijkt met ingang van welke datum hij het recht op verlof en het recht op uitkering wil laten ingaan.
 
-#### Dwingend recht
+##### Leeftijd kind
+
+##### Artikel 6:4
+
+Geen recht op verlof als bedoeld in artikel 6:1 bestaat na de datum waarop het kind de leeftijd van acht jaren heeft bereikt.
+
+#### § 2. Melding
+
+##### Meldingsverplichting
+
+##### Artikel 6:5
+
+1. De werknemer meldt het voornemen om verlof op te nemen ten minste twee maanden voor het tijdstip van ingang van het verlof schriftelijk aan de werkgever onder opgave van de periode, het aantal uren verlof per week of als de arbeidsduur over een ander tijdvak is overeengekomen over dat tijdvak en de spreiding daarvan over de week of het anderszins overeengekomen tijdvak.
+
+2. De tijdstippen van ingang en einde van het verlof kunnen afhankelijk worden gesteld van de datum van de bevalling, van het einde van het bevallingsverlof of van de aanvang van de verzorging.
+
+3. De werkgever kan, tot vier weken voor het tijdstip van ingang van het verlof, en na overleg met de werknemer, de door de werknemer gewenste wijze van invulling van het verlof gedurende een redelijke termijn wijzigen op grond van een zwaarwegend bedrijfs- of dienstbelang, met dien verstande dat de werknemer in ieder geval in staat wordt gesteld het verlof binnen de in de [artikelen 6:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2025-01-01&g=2025-01-01), en [6:4](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:4&z=2025-01-01&g=2025-01-01), gestelde termijnen op te nemen. De werkgever motiveert een wijziging schriftelijk.
+
+##### Intrekking of wijziging melding
+
+##### Artikel 6:6
+
+1. De werkgever stemt in met een verzoek van de werknemer om het verlof niet op te nemen of niet voort te zetten als gevolg van het opnemen van het zwangerschaps- of bevallingsverlof, bedoeld in [artikel 3:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1&z=2025-01-01&g=2025-01-01), het verlof, bedoeld in [artikel 3:1a, eerste lid of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:1a&z=2025-01-01&g=2025-01-01), of het adoptieverlof, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3:2&z=2025-01-01&g=2025-01-01). In dat geval wordt het recht op verlof opgeschort. Verlof dat niet wordt opgenomen voor de datum waarop het kind de leeftijd van acht jaren bereikt vervalt. De werkgever hoeft aan het verzoek niet met ingang van een vroeger tijdstip gevolg te geven dan vier weken na het verzoek.
+
+2. De werkgever stemt in met een verzoek van de werknemer om het verlof niet op te nemen of niet voort te zetten als gevolg van onvoorziene omstandigheden, tenzij een zwaarwegend bedrijfs- of dienstbelang zich hiertegen verzet. Indien de werkgever instemt met het verzoek wordt het recht op verlof opgeschort. Verlof dat niet wordt opgenomen voor de datum waarop het kind de leeftijd van acht jaren bereikt vervalt. De werkgever hoeft aan het verzoek niet met ingang van een vroeger tijdstip gevolg te geven dan vier weken na het verzoek. Indien de werkgever het verzoek weigert, motiveert hij dit schriftelijk binnen een redelijke termijn na de indiening van het verzoek.
+
+#### § 3. Nadere voorschriften
+
+##### Compensatie met vakantie-aanspraken
+
+##### Artikel 6:7
+
+Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in artikel 6:1, kunnen niet worden aangemerkt als vakantie.
+
+#### § 4. Mate van gebondenheid
+
+##### Recht met afwijkingsmogelijkheden
+
+##### Artikel 6:8
+
+Van de [artikelen 6:4](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:4&z=2025-01-01&g=2025-01-01), [6:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2025-01-01&g=2025-01-01) en [6:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2025-01-01&g=2025-01-01), met uitzondering van de laatste zin, kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve regeling.
+
+##### Dwingend recht
+
+##### Artikel 6:9
+
+Behoudens artikel 6:8 kan van dit hoofdstuk niet ten nadele van de werknemer worden afgeweken.
+
+#### § 5. Slot- en overgangsrecht
+
+##### Artikel 6:10. Overgangsrecht in verband met ouderschapsverlof
+
+Indien de werknemer op het tijdstip waarop de [Wet van 17 december 2014 houdende wijziging van de Wet arbeid en zorg en de Wet aanpassing arbeidsduur in verband met vergroting van de gebruiksmogelijkheden van deze wetten, alsmede technische aanpassing van de Arbeidstijdenwet en actualisering van het overgangsrecht met betrekking tot de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036012) (Stb. 565) in werking treedt, zijn voornemen tot het opnemen van het ouderschapsverlof, bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&paragraaf=1&artikel=6:1&z=2025-01-01&g=2025-01-01), heeft gemeld aan zijn werkgever en die heeft ingestemd met de invulling daarvan, blijven op dat verlof de artikelen van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6&z=2025-01-01&g=2025-01-01) van toepassing zoals die luidden op de dag voorafgaande aan het tijdstip inwerkingtreding van die wet.
+
+##### Verhoging uitkering ouderschapsverlof
 
 ##### Artikel 6:10a
 
@@ -1796,15 +1050,39 @@ De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werk
 
 2. De voordracht voor een krachtens het eerste lid vast te stellen koninklijk besluit wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
+##### Overgangsrecht in verband met wijziging samenloop met loonkostensubsidie Participatiewet
+
+##### Artikel 6:11
+
+[Artikel 3:13, zesde tot en met het achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:13&z=2025-01-01&g=2025-01-01), is niet van toepassing indien de aanvraag van de uitkering, bedoeld in [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:7&z=2025-01-01&g=2025-01-01), is ingediend voor het tijdstip van inwerkingtreding van [artikel IX, onderdeel A, van de Verzamelwet SZW 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=IX).
+
 ### Hoofdstuk 7. Levensloopregeling
+
+#### Begrippen
+
+##### Artikel 7:1
+
+*Vervallen*
 
 #### Recht op deelname
 
+##### Artikel 7:2
+
+*Vervallen*
+
 #### Mate van gebondenheid
+
+##### Artikel 7:3
+
+*Vervallen*
 
 ### Hoofdstuk 8. Slotbepalingen
 
 #### Evaluatiebepaling
+
+##### Artikel 8:1
+
+Onze Minister zendt, in overeenstemming met Onze Minister van Justitie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 #### Onderzoek College voor de rechten van de mens
 
@@ -1814,6 +1092,12 @@ Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de men
 
 #### Inwerkingtreding
 
+##### Artikel 8:2
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
 #### Citeertitel
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 8:3
+
+Deze wet wordt aangehaald als: Wet arbeid en zorg.

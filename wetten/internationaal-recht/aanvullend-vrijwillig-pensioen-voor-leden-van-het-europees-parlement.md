@@ -1,40 +1,17 @@
 ---
 title: "Aanvullend (vrijwillig) pensioen voor leden van het Europees Parlement"
 identifier: "BWBR0013868"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2002-07-08"
-last_updated: "2002-07-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013868"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "8365003"
-version_id: "13237402"
-internal_id: "C18423491"
-label_id: "8345924"
-dtd_version: "2.0"
-original_entry_into_force: "2002-07-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013868/2002-07-08/0"
-intitule_bron: "Infob.2002-15"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-07-08"
-intitule_published: "2002-01-01"
-intitule_in_force: "2002-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2002-15"
-original_signed_date: "2002-07-08"
-original_published_date: "2002-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-07-08"
-jci_1_3: "jci1.3:c:BWBR0013868&z=2002-07-08&g=2002-07-08"
-jci_1_0: "1.0:c:BWBR0013868&g=2002-07-08"
-citeertitel_status: "redactioneel"
-signed_date: "2002-07-08"
-entry_into_force: "2002-07-08"
+publicatiedatum: 2002-07-08
+laatste_update: 2002-07-08
+status: geldig
+toestand: 2002-07-08
+bron: "https://wetten.overheid.nl/BWBR0013868"
+opgehaald: 2026-08-06
 ---
-# Aanvullend (vrijwillig) pensioen voor leden van het Europees Parlement
 
-De Staatssecretaris van Financiën heeft het volgende besloten.
+# Aanvullend (vrijwillig) pensioen voor leden van het Europees Parlement
 
 ### 1. Inleiding
 
@@ -54,9 +31,13 @@ De pensioenbijdrage (hierna: premie) komt voor 1/3 deel ten laste van het parlem
 
 Ik leid uit deze bepaling af dat gedurende de eerste drie jaren van deelname en premiebetaling een voorwaardelijk recht op uitkering bestaat. Pas als is voldaan aan de voorwaarde van drie jaar premiebetaling, ontstaat een onvoorwaardelijk recht (aanspraak).
 
+Tussentijdse beëindiging
+
 Europarlementariërs die hun deelname aan de Regeling tijdens hun ambtsperiode beëindigen, hebben recht op terugbetaling van de premies die zij zelf hebben betaald. De premies die het EP voor hen heeft voldaan, vloeien terug naar de begroting van het EP.
 
 Deelnemers die bij beëindiging van hun ambtsperiode bij het EP niet ten minste drie jaar premies hebben afgedragen, hebben recht op terugbetaling van hun pensioenbijdragen, vermeerderd met een samengestelde interest van 3,5% op jaarbasis.
+
+Uitkeringen
 
 Het pensioen bedraagt 3,5% van 40% van de basisbezoldiging van een rechter bij het Hof van Justitie van de Europese Gemeenschappen voor elk volledig ambtsjaar en 1/12 van dat bedrag voor elke volledige maand. Het maximale pensioen bedraagt 70% (en het minimale pensioen 10,5%) van 40% van de basisbezoldiging van een rechter bij het Hof van Justitie van de Europese Gemeenschappen.
 
@@ -90,17 +71,23 @@ Zoals tijdens het eerder genoemde interpellatiedebat al is uitgedragen, vormen o
 
 Hierna wordt eerst ingegaan op de behandeling van een aanspraak waarvoor alle premies zijn betaald na 13 september 1999. Daarna wordt ingegaan op de behandeling van een aanspraak waarvoor alle premies zijn betaald vóór 14 september 1999. Vervolgens wordt ingegaan op de behandeling van een aanspraak waarvoor de premies gedeeltelijk zijn betaald vóór 14 september 1999 en gedeeltelijk na 13 september 1999.
 
+Alle premies betaald na 13 september 1999
+
 Door de deelnemer zelf betaalde premies zijn niet aftrekbaar. Door het EP voor de deelnemer betaalde premies zijn bij deze belast als resultaat uit overige werkzaamheden.
 
 De waarde van de aanspraak valt met ingang van 2001 in box 3 en is jaarlijks belast in de vermogensrendementsheffing. De uitkeringen uit de aanspraak zelf zijn niet belast (zij vormen betalingen op grond van een box-3-bezitting).
 
 Teruggaaf van de door de deelnemer zelf betaalde premies bij beëindiging van de regeling wordt behandeld als een uitkering uit de aanspraak en blijft buiten de heffing van inkomstenbelasting.
 
+Alle premies betaald vóór 14 september 1999
+
 Door de deelnemer zelf betaalde premies zijn niet aftrekbaar. Door het EP voor de deelnemer betaalde premies zijn bij deze belast als inkomsten uit niet in dienstbetrekking verrichte werkzaamheden.
 
 De waarde van de aanspraak valt met ingang van 2001 in box 1 en is niet belast in de vermogensrendementsheffing van box 3. De uitkeringen vormen op grond van overgangsrecht na 2000 belastbare periodieke uitkeringen uit een inkomensvoorziening waarop de saldomethode van toepassing is, d.w.z. dat de uitkeringen eerst in de belastingheffing worden betrokken voor zover zij de niet-aftrekbare premies overtreffen. Voor de bepaling van het niet-belaste deel van de uitkeringen wordt ook het door het EP betaalde deel van de premie behandeld als niet-aftrekbare premie indien en voor zover dat deel van de premie bij de deelnemer daadwerkelijk reeds in de inkomstenbelasting is belast.
 
 Teruggaaf van de door de deelnemer zelf betaalde premies bij beëindiging van de regeling wordt behandeld als een uitkering uit de aanspraak en wordt belast voorzover die uitkering de niet-aftrekbare premies te boven gaat.
+
+Premies gedeeltelijk betaald vóór 1 september 1999 en gedeeltelijk na 13 september 1999
 
 Door de deelnemer zelf betaalde premies zijn niet aftrekbaar. Door het EP voor de deelnemer betaalde premies zijn bij deze belast als inkomsten uit niet in dienstbetrekking verrichte werkzaamheden respectievelijk resultaat uit overige werkzaamheden.
 

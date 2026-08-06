@@ -1,48 +1,105 @@
 ---
 title: "Subsidieregeling stiller, schoner en zuiniger 2002"
 identifier: "BWBR0013388"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-02-03"
-last_updated: "2002-02-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013388"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4134963"
-version_id: "5888542"
-internal_id: "C6091371"
-label_id: "4114664"
-dtd_version: "2.0"
-original_entry_into_force: "2002-02-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013388/2002-02-03/0"
-intitule_bron: "Stcrt.2002-23"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-01-30"
-intitule_published: "2002-02-01"
-intitule_in_force: "2002-02-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-23"
-original_signed_date: "2002-01-30"
-original_published_date: "2002-02-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-02-03"
-jci_1_3: "jci1.3:c:BWBR0013388&z=2002-02-03&g=2002-02-03"
-jci_1_0: "1.0:c:BWBR0013388&g=2002-02-03"
-citeertitel_status: "officieel"
-signed_date: "2002-01-30"
-entry_into_force: "2002-02-03"
+publicatiedatum: 2002-02-03
+laatste_update: 2002-02-03
+status: geldig
+toestand: 2002-02-03
+bron: "https://wetten.overheid.nl/BWBR0013388"
+opgehaald: 2026-08-06
 ---
+
 # Subsidieregeling stiller, schoner en zuiniger 2002
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4),
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+minister:
+
+de Minister van Verkeer en Waterstaat;
+
+b.
+
+verkeer- en vervoertechnieken:
+
+vervoersystemen, vervoermiddelen, aandrijf- en onderhoudsystemen voor vervoermiddelen en energiedragers voor vervoermiddelen;
+
+c.
+
+aanvrager:
+
+de natuurlijke persoon of rechtspersoon, die een subsidie op grond van deze regeling aanvraagt of heeft aangevraagd;
+
+d.
+
+programmabeheerder:
+
+de minister, of voorzover een orgaan of rechtspersoon met de uitvoering van deze regeling is belast, dat orgaan of die rechtspersoon.
+
+e.
+
+project:
+
+een haalbaarheidsproject, onderzoeks- of ontwikkelingsproject, praktijkexperiment, demonstratieproject of kennisoverdrachtproject;
+
+f.
+
+haalbaarheidsproject:
+
+een samenhangend geheel van activiteiten, bestaande uit een analyse en een beoordeling van de mogelijkheden om een product, apparaat, systeem of techniek te ontwikkelen of in de praktijk toe te passen;
+
+g.
+
+onderzoeks- of ontwikkelingsproject:
+
+een samenhangend geheel van activiteiten, gericht op:
+
+- 1º. het vermeerderen van technisch of wetenschappelijk inzicht ten aanzien van een product, apparaat, systeem of techniek,
+
+- 2º. het geschikt maken of ontwikkelen van een product, apparaat, systeem of techniek voor toepassing in de praktijk, niet zijnde een praktijkexperiment, of
+
+- 3º. het verbeteren van het ontwerp van een product, apparaat, systeem of techniek;
+
+h.
+
+praktijkexperiment:
+
+een samenhangend geheel van activiteiten bestaande uit het treffen van technische of beheersmatige voorzieningen, voor zover geheel of nagenoeg geheel bestemd voor het vergroten van inzicht in de geschiktheid voor toepassing in de praktijk van een product, apparaat, systeem of techniek, alsmede de daarmee samenhangende activiteiten, geheel of nagenoeg geheel gericht op het verbeteren van die geschiktheid;
+
+i.
+
+demonstratieproject:
+
+een samenhangend geheel van activiteiten die een technisch en economisch risico inhouden, bestaande uit het door de aanvrager toepassen van verkeer- en vervoertechnieken die voor Nederland nieuw zijn dan wel een nieuwe toepassing betekenen van deze systemen of technieken, alsmede de daarmee samenhangende activiteiten bestemd voor het demonstreren van voorzieningen en de daarmee behaalde resultaten, met inbegrip van het verstrekken van gegevens aan de programmabeheerder ten behoeve van de verspreiding van kennis omtrent de aard en resultaten van de voorzieningen;
+
+j.
+
+kennisoverdrachtproject:
+
+een samenhangend geheel van activiteiten, gericht op het overdragen van kennis en informatie over de toepassing van verkeer- of vervoertechnieken die bijdragen aan schoner, stiller en zuiniger verkeer en vervoer in het stedelijk gebied;
+
+k.
+
+groep:
+
+een economische eenheid, waarin organisatorisch zijn verbonden:
+
+- 1º. een natuurlijke persoon of privaatrechtelijke rechtspersoon die direct of indirect:
+
+   - meer dan de helft van het geplaatste kapitaal verschaft aan,
+
+   - volledig aansprakelijk vennoot is van, of
+
+   - overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen en
+
+- 2º. laatstbedoelde rechtspersonen of vennootschappen.
 
 ##### Artikel 2
 
@@ -124,15 +181,15 @@ Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie v
 
 - a. de volgende noodzakelijke, rechtstreeks aan het project toe te rekenen en door de aanvrager gemaakte en betaalde kosten:
 
-- 1º. loonkosten, met dien verstande dat wordt uitgegaan van een uurloon, berekend op basis van het bruto jaarloon bij een volledige dienstbetrekking volgens de kolommen 3, 4 en 13 van de loonstaat van het betrokken directe personeel, exclusief volledig winstafhankelijke uitkeringen, verhoogd met de wettelijke dan wel de op grond van een individuele of collectieve arbeidsovereenkomst verschuldigde opslagen voor sociale lasten, en van 1600 productieve uren per jaar;
+   - 1º. loonkosten, met dien verstande dat wordt uitgegaan van een uurloon, berekend op basis van het bruto jaarloon bij een volledige dienstbetrekking volgens de kolommen 3, 4 en 13 van de loonstaat van het betrokken directe personeel, exclusief volledig winstafhankelijke uitkeringen, verhoogd met de wettelijke dan wel de op grond van een individuele of collectieve arbeidsovereenkomst verschuldigde opslagen voor sociale lasten, en van 1600 productieve uren per jaar;
 
-- 2º. kosten van verbruikte materialen en hulpmiddelen, gebaseerd op historische aanschafprijzen, exclusief winstopslagen bij transacties binnen een groep;
+   - 2º. kosten van verbruikte materialen en hulpmiddelen, gebaseerd op historische aanschafprijzen, exclusief winstopslagen bij transacties binnen een groep;
 
-- 3º. kosten van aanschaf van machines en apparatuur, exclusief winstopslagen bij transacties binnen een groep;
+   - 3º. kosten van aanschaf van machines en apparatuur, exclusief winstopslagen bij transacties binnen een groep;
 
-- 4º. aan derden verschuldigde kosten ter zake van door hen verleende diensten en ter zake van de verwerving van kennis en intellectuele eigendomsrechten alsmede ter zake van de bescherming van die rechten, exclusief winstopslagen bij transacties binnen een groep;
+   - 4º. aan derden verschuldigde kosten ter zake van door hen verleende diensten en ter zake van de verwerving van kennis en intellectuele eigendomsrechten alsmede ter zake van de bescherming van die rechten, exclusief winstopslagen bij transacties binnen een groep;
 
-- 5º. reis- en verblijfkosten alsmede kosten van deelneming aan wetenschappelijke symposia, tot ten hoogste 10% van de projectkosten;
+   - 5º. reis- en verblijfkosten alsmede kosten van deelneming aan wetenschappelijke symposia, tot ten hoogste 10% van de projectkosten;
 
 - b. een opslag voor algemene kosten tot ten hoogste 40% van de loonkosten, bedoeld in onderdeel a, onder 1°.
 
@@ -261,5 +318,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 22
 
 Deze regeling wordt aangehaald als: Subsidieregeling stiller, schoner en zuiniger 2002.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

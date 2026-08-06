@@ -1,52 +1,41 @@
 ---
 title: "Regeling faciliteiten Turkse dienstplicht defensie-ambtenaren (RFTDD)"
 identifier: "BWBR0013727"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-06-01"
-last_updated: "2002-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013727"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5016403"
-version_id: "8685552"
-internal_id: "C26259011"
-label_id: "4992814"
-dtd_version: "2.0"
-original_entry_into_force: "2002-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013727/2002-06-01/0"
-intitule_bron: "Stcrt.2002-112"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-05-30"
-intitule_published: "2002-06-17"
-intitule_in_force: "2002-06-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-112"
-original_signed_date: "2002-05-30"
-original_published_date: "2002-06-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-06-01"
-jci_1_3: "jci1.3:c:BWBR0013727&z=2002-06-01&g=2002-06-01"
-jci_1_0: "1.0:c:BWBR0013727&g=2002-06-01"
-citeertitel_status: "officieel"
-signed_date: "2002-05-30"
-entry_into_force: "2002-06-01"
+publicatiedatum: 2002-06-01
+laatste_update: 2002-06-01
+status: geldig
+toestand: 2002-06-01
+bron: "https://wetten.overheid.nl/BWBR0013727"
+opgehaald: 2026-08-06
 ---
+
 # Regeling faciliteiten Turkse dienstplicht defensie-ambtenaren (RFTDD)
-
-Gelet op:
-
-[artikel 86 aanhef en onder b. van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=86);
-
-[artikel 45 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=45);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+bevoegde autoriteit
+
+de bevelhebber onderscheidenlijk de functionaris als bedoeld in [artikel 45 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=45);
+
+b.
+
+belanghebbende
+
+de militair bedoeld in [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013727&hoofdstuk=1&artikel=1&z=2002-06-01&g=2002-06-01), ten1°, van het [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482) en de ambtenaar in de zin van [artikel 1 van het burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1), tenzij hij op non-activiteit is gesteld of hem buitengewoon verlof van lange duur is verleend, die in verband met zijn Turkse nationaliteit ingevolge Turks recht verplicht is zijn militaire dienstplicht in Turkije te vervullen;
+
+c.
+
+afkopen
+
+het betalen door belanghebbende van een geldsom aan de Turkse overheid ter afkoop van een deel van zijn Turkse militaire dienstplicht.
 
 ### Hoofdstuk 2. Voorzieningen en voorwaarden
 
@@ -76,11 +65,11 @@ Aan de belanghebbende die toestemming van de Turkse overheid heeft verkregen zij
 
 - a. kopieën van door de Turkse overheid uitgegeven documenten, waaruit de volgende informatie blijkt:
 
-- 1º. het oproepen van belanghebbende tot het vervullen van de militaire basistraining;
+   - 1º het oproepen van belanghebbende tot het vervullen van de militaire basistraining;
 
-- 2º. de begin- en einddatum van de militaire basistraining;
+   - 2º de begin- en einddatum van de militaire basistraining;
 
-- 3º. het bedrag in euro's van de aan de Turkse overheid te betalen afkoopsom Turkse dienstplicht;
+   - 3º het bedrag in euro's van de aan de Turkse overheid te betalen afkoopsom Turkse dienstplicht;
 
 - b. een door belanghebbende ondertekende opgave van zijn verblijfplaats of verblijf- plaatsen gedurende zijn verblijf in Turkije, alsmede de wijze waarop hij gedurende dit verblijf naar verwachting schriftelijk en telefonisch bereikbaar is;
 
@@ -123,7 +112,3 @@ Deze regeling treedt in werking op 1 juni 2002.
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling faciliteiten Turkse dienstplicht defensie-ambtenaren (RFTDD).
-
-## Bijlage
-
-Deze regeling zal in de MP 31-108 en MP 33-205 worden opgenomen en in de Staatscourant worden gepubliceerd.

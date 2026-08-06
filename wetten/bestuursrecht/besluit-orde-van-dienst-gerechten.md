@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 10 december 2001, houdende regels voor de orde van dienst binnen de gerechten (Besluit orde van dienst gerechten)"
+citeertitel: "Besluit orde van dienst gerechten"
 identifier: "BWBR0013132"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-10-01"
-last_updated: "2023-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013132"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1647563"
-version_id: "10601872"
-internal_id: "C14416661"
-label_id: "1601114"
-dtd_version: "2.0"
-original_entry_into_force: "2004-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013132/2023-10-01/0"
-intitule_bron: "Stb.2001-619"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-10"
-intitule_published: "2001-12-20"
-intitule_in_force: "2001-12-20"
-intitule_status: "goed"
-original_publication: "Stb.2004-383"
-original_signed_date: "2004-07-02"
-original_published_date: "2004-08-10"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2004-383"
-entry_into_force_date: "2004-07-02"
-jci_1_3: "jci1.3:c:BWBR0013132&z=2023-10-01&g=2023-10-01"
-jci_1_0: "1.0:c:BWBR0013132&g=2023-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit orde van dienst gerechten"
-signed_date: "2004-07-02"
-entry_into_force: "2004-07-02"
+publicatiedatum: 2004-07-02
+laatste_update: 2023-10-01
+status: geldig
+toestand: 2023-10-01
+bron: "https://wetten.overheid.nl/BWBR0013132"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 10 december 2001, houdende regels voor de orde van dienst binnen de gerechten (Besluit orde van dienst gerechten)
-
-Op de voordracht van Onze Minister van Justitie van 6 november 2001, nr. 5130698/01/6;
-
-Gelet op [artikel 11 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11);
-
-De Raad van State gehoord (advies van 28 november 2001, nr. W03.01.0583/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 5 december 2001, nr. 5136853/01/6;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -138,7 +106,11 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 
 2. Het besluit wordt gepubliceerd in de Staatscourant.
 
-#### Paragraaf 5. Verdeling zaken
+##### Artikel 12a
+
+*Vervallen*
+
+#### § 5. Administratie van aanhangige zaken
 
 ##### Artikel 13
 
@@ -180,6 +152,18 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 
 5. Indien de behandelend rechterlijk ambtenaar met rechtspraak belast dit noodzakelijk acht in verband met de spoedeisendheid van een zaak, kan deze zaak worden voorgedragen in afwijking van de volgorde op de rol.
 
+##### Artikel 15a
+
+1. Het bestuur van de Hoge Raad draagt er zorg voor dat steeds een overzicht van de bij de Hoge Raad te behandelen zaken elektronisch beschikbaar is, onder vermelding van:
+
+- a. het zaaknummer; en
+
+- b. de stand waarin de procedure zich bevindt.
+
+2. Het bestuur van de Hoge Raad draagt er tevens zorg voor dat tijdig voor elke openbare zitting een overzicht van de te behandelen zaken beschikbaar is waarop de namen staan vermeld van de behandelende rechterlijke ambtenaren met rechtspraak belast. Dit overzicht kan elektronisch beschikbaar worden gesteld.
+
+3. In afwijking van het eerste en tweede lid kan het bestuur ter bescherming van zwaarwegende belangen van anderen, waaronder die van partijen, geen of een beperkte vermelding van de te behandelen zaak ter beschikking stellen.
+
 ##### Artikel 16
 
 1. Een vonnis, arrest of beschikking in burgerlijke zaken wordt uitgesproken door:
@@ -195,6 +179,8 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 3. Een uitspraak in bestuursrechtelijke zaken en in belastingzaken wordt zo mogelijk door de voorzitter of één der rechterlijke ambtenaren met rechtspraak belast die over de zaak hebben geoordeeld ter zitting meegedeeld.
 
 4. Wanneer een rechterlijk ambtenaar met rechtspraak belast of griffier buiten staat is een uitspraak of een proces-verbaal te ondertekenen wordt daarvan in het betreffende stuk melding gemaakt.
+
+#### § 6. Inzage stukken
 
 ##### Artikel 17
 
@@ -214,6 +200,10 @@ Voor andere zaken dan strafzaken waarin recht op inzage van stukken bestaat, wor
 
 4. Het besluit wordt gepubliceerd in de Staatscourant.
 
+##### Artikel 19a
+
+*Vervallen*
+
 ##### Artikel 20
 
 1. Indien dat noodzakelijk geacht wordt door:
@@ -232,8 +222,6 @@ wordt vanaf het tijdstip, bedoeld in [artikel 33 van het Wetboek van Strafvorder
 
 - c. aan de verdachte die rechtens van zijn vrijheid is beroofd, worden desgewenst de voor het maken van de aantekeningen vereiste middelen ter beschikking gesteld.
 
-#### Paragraaf 6. Inzage stukken
-
 ##### Artikel 21
 
 1. Aan de raadslieden van verdachten in strafzaken worden zo spoedig als mogelijk is afschriften verstrekt van processtukken waarvan de kennisneming wettelijk is toegestaan.
@@ -241,6 +229,14 @@ wordt vanaf het tijdstip, bedoeld in [artikel 33 van het Wetboek van Strafvorder
 2. Op verzoek van de verdachte of diens raadslieden worden zo spoedig als mogelijk is afschriften van processtukken waarvan de kennisneming wettelijk is toegestaan, aan hen verstrekt. Voor meer dan eenmalige verstrekking als bedoeld in dit lid kan van de verzoeker een vergoeding worden gevraagd met toepassing van [artikel 2, tweede lid, van het Besluit tarieven openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005869&artikel=2).
 
 3. De voorgaande leden vinden geen toepassing indien op grond van [artikel 32 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=32) is bepaald dat geen afschrift wordt verstrekt. De verstrekking van afschrift aan de verdachte kan voorts geschieden met behulp van een elektronische voorziening als bedoeld in [artikel 1, eerste lid, onderdeel c, van het Besluit digitale stukken Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&artikel=1).
+
+##### Artikel 21a
+
+1. Op verzoek van het slachtoffer of zijn advocaat of gemachtigde worden zo spoedig mogelijk afschriften van processtukken waarvan de kennisneming is toegestaan, aan hen verstrekt.
+
+2. [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=21&z=2023-10-01&g=2023-10-01), is van overeenkomstige toepassing.
+
+### Hoofdstuk 2. Openbaar ministerie en procureur-generaal bij de Hoge Raad
 
 ##### Artikel 22
 
@@ -258,13 +254,13 @@ wordt vanaf het tijdstip, bedoeld in [artikel 33 van het Wetboek van Strafvorder
 
 De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen geen deel aan de beraadslagingen in de raadkamer over het opmaken van een beschikking, vonnis of arrest.
 
+### Hoofdstuk 3. Hoge Raad
+
 ##### Artikel 25
 
 1. De griffier van de Hoge Raad draagt zorg voor de bij de Hoge Raad in behandeling zijnde stukken.
 
 2. Bij afwezigheid van de griffier treedt op de substituut-griffier dan wel, bij afwezigheid van de substituut-griffier, een waarnemend griffier, op basis van een volgorde die, na overleg met de president, door de griffier is vastgesteld.
-
-#### Paragraaf 7. Openbaar ministerie en procureur-generaal bij de Hoge Raad
 
 ##### Artikel 26
 
@@ -282,9 +278,7 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 2. De behandeling op de openbare terechtzitting vindt plaats door een andere, eveneens bij het reglement van inwendige dienst aangewezen, kamer dan de kamer, bedoeld in het eerste lid.
 
-### Hoofdstuk 3. Hoge Raad
-
-#### Paragraaf 1. De griffier en de gerechtsvergadering
+### Hoofdstuk 4. Overige bepalingen
 
 ##### Artikel 28
 
@@ -296,8 +290,6 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 Het Reglement I wordt ingetrokken.
 
-#### Paragraaf 2. Behandeling bijzondere zaken
-
 ##### Artikel 30
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
@@ -305,115 +297,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 31
 
 Dit besluit wordt aangehaald als: Besluit orde van dienst gerechten.
-
-##### Artikel 32
-
-1. De ambtenaren van het openbaar ministerie zenden een afschrift van een in kracht van gewijsde gegaan vonnis of arrest in strafzaken van een rechtbank of gerechtshof waarbij hun arrondissementsparket onderscheidenlijk ressortsparket gevestigd is, naar de procureur-generaal bij de Hoge Raad, indien dit naar hun mening onder zijn aandacht moet worden gebracht vanwege het algemeen belang of een andere reden.
-
-2. De inzending van de afschriften, bedoeld in het eerste lid:
-
-- a. wordt met redenen omkleed;
-
-- b. behelst de naam van het gerecht;
-
-- c. behelst de namen van de procespartijen, en
-
-- d. geschiedt maandelijks.
-
-3. De vonnissen van de rechtbank worden door het hoofd van het arrondissementsparket gezonden aan het hoofd van het ressortsparket. Deze zendt de ingekomen stukken tezamen met de vonnissen of arresten van het gerechtshof aan de procureur-generaal bij de Hoge Raad.
-
-##### Artikel 33
-
-1. De president van de Hoge Raad stelt een verzoek om dispensatie of gratie onverwijld in handen van de procureur-generaal bij de Hoge Raad.
-
-2. Over het verzoek, bedoeld in het eerste lid, verschaft de procureur-generaal inlichtingen of brengt hij een schriftelijk advies uit, aan de kamer die het verzoek behandelt. Alvorens zijn advies uit te brengen vraagt de procureur-generaal inlichtingen aan de bij deze zaak meest betrokken ambtenaar van het openbaar ministerie, wanneer hij deze voor de behandeling van het verzoek noodzakelijk acht.
-
-3. De voorzitter van de kamer, bedoeld in het tweede lid, benoemt een rapporteur. Op basis van diens rapport brengt de kamer een met redenen omkleed advies uit aan de regering. Het advies is ondertekend door de voorzitter van de kamer en de griffier.
-
-### Hoofdstuk 3. Slotbepalingen
-
-##### Artikel 34
-
-Het Reglement I wordt ingetrokken.
-
-##### Artikel 35
-
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 36
-
-Dit besluit wordt aangehaald als: Besluit orde van dienst gerechten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 12a
-
-Vervallen
-
-#### § 5. Administratie van aanhangige zaken
-
-#### Paragraaf 6. Inzage stukken
-
-##### Artikel 22a
-
-Kennisneming van processtukken van strafzaken van het gerechtshof te Amsterdam door een verdachte die niet rechtens van zijn vrijheid is beroofd of diens raadsman, vindt met ingang van 13 oktober 2003 tijdelijk plaats in Amstelveen.
-
-#### Paragraaf 7. Openbaar ministerie en procureur-generaal bij de Hoge Raad
-
-### Hoofdstuk 2. Hoge Raad
-
-#### Paragraaf 1. De griffier en de gerechtsvergadering
-
-#### Paragraaf 2. Behandeling bijzondere zaken
-
-### Hoofdstuk 3. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### § 6. Inzage stukken
-
-##### Artikel 19a
-
-Vervallen
-
-### Hoofdstuk 2. Openbaar ministerie en procureur-generaal bij de Hoge Raad
-
-### Hoofdstuk 3. Hoge Raad
-
-### Hoofdstuk 4. Overige bepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 21a
-
-1. Op verzoek van het slachtoffer of zijn advocaat of gemachtigde worden zo spoedig mogelijk afschriften van processtukken waarvan de kennisneming is toegestaan, aan hen verstrekt.
-
-2. [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=21&z=2023-10-01&g=2023-10-01), is van overeenkomstige toepassing.
-
-### Hoofdstuk 2. Openbaar ministerie en procureur-generaal bij de Hoge Raad
-
-### Hoofdstuk 4. Overige bepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 15a
-
-1. Het bestuur van de Hoge Raad draagt er zorg voor dat steeds een overzicht van de bij de Hoge Raad te behandelen zaken elektronisch beschikbaar is, onder vermelding van:
-
-- a. het zaaknummer; en
-
-- b. de stand waarin de procedure zich bevindt.
-
-2. Het bestuur van de Hoge Raad draagt er tevens zorg voor dat tijdig voor elke openbare zitting een overzicht van de te behandelen zaken beschikbaar is waarop de namen staan vermeld van de behandelende rechterlijke ambtenaren met rechtspraak belast. Dit overzicht kan elektronisch beschikbaar worden gesteld.
-
-3. In afwijking van het eerste en tweede lid kan het bestuur ter bescherming van zwaarwegende belangen van anderen, waaronder die van partijen, geen of een beperkte vermelding van de te behandelen zaak ter beschikking stellen.
-
-#### § 6. Inzage stukken
-
-### Hoofdstuk 2. Openbaar ministerie en procureur-generaal bij de Hoge Raad
-
-### Hoofdstuk 3. Hoge Raad
-
-### Hoofdstuk 4. Overige bepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

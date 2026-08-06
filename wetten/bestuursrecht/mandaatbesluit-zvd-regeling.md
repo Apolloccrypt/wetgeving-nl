@@ -1,44 +1,17 @@
 ---
 title: "Mandaatbesluit Zvd-regeling"
 identifier: "BWBR0012914"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-09-22"
-last_updated: "2005-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012914"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5526713"
-version_id: "9919352"
-internal_id: "C13394721"
-label_id: "5498984"
-dtd_version: "2.0"
-original_entry_into_force: "2001-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012914/2005-09-22/0"
-intitule_bron: "Stcrt.2001-233"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-10-23"
-intitule_published: "2001-11-30"
-intitule_in_force: "2001-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-233"
-original_signed_date: "2001-10-23"
-original_published_date: "2001-11-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-08-01"
-jci_1_3: "jci1.3:c:BWBR0012914&z=2005-09-22&g=2005-09-22"
-jci_1_0: "1.0:c:BWBR0012914&g=2005-09-22"
-citeertitel_status: "officieel"
-signed_date: "2001-10-23"
-entry_into_force: "2001-08-01"
+publicatiedatum: 2001-08-01
+laatste_update: 2005-09-22
+status: geldig
+toestand: 2005-09-22
+bron: "https://wetten.overheid.nl/BWBR0012914"
+opgehaald: 2026-08-06
 ---
+
 # Mandaatbesluit Zvd-regeling
-
-Gelet op artikel 10:3 Algemene wet bestuursrecht;
-
-Gezien de raamovereenkomst van 11 mei 2001, kenmerk MPA2001/72465 inzake uitvoering Regeling ziektekostenvoorziening defensiepersoneel,
-
-Besluit:
 
 ##### Artikel 1
 

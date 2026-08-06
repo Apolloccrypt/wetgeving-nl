@@ -1,52 +1,24 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 24 september 2002, houdende de Vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2003 (Verordening PT algemene heffing handel groenten en fruit 2003)"
+citeertitel: "Verordening PT algemene heffing handel groenten en fruit 2003"
 identifier: "BWBR0014037"
-country: "nl"
-rank: "pbo"
-publication_date: "2003-02-15"
-last_updated: "2003-02-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014037"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6117463"
-version_id: "10773692"
-internal_id: "C29098541"
-label_id: "6106724"
-original_entry_into_force: "2003-02-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014037/2003-02-15/0"
-intitule_bron: "Vbbo.2003-12"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-09-24"
-intitule_published: "2003-02-14"
-intitule_in_force: "2003-02-14"
-intitule_status: "goed"
-original_publication: "Vbbo.2003-12"
-original_signed_date: "2002-09-24"
-original_published_date: "2003-02-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-02-15"
-jci_1_3: "jci1.3:c:BWBR0014037&z=2003-02-15&g=2003-02-15"
-jci_1_0: "1.0:c:BWBR0014037&g=2003-02-15"
-citeertitel_status: "officieel"
-short_title: "Verordening PT algemene heffing handel groenten en fruit 2003"
-signed_date: "2002-09-24"
-entry_into_force: "2003-02-15"
+publicatiedatum: 2003-02-15
+laatste_update: 2003-02-15
+status: geldig
+toestand: 2003-02-15
+bron: "https://wetten.overheid.nl/BWBR0014037"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 24 september 2002, houdende de Vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2003 (Verordening PT algemene heffing handel groenten en fruit 2003)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 14](onbekend), [15](onbekend) en [19 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend);
-
-gehoord de sectorcommissie Groenten en Fruit, d.d. 12 september 2002;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
-1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](onbekend) en [2 van de instellingsverordening Productschap Tuinbouw 1998](onbekend).
+1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van de instellingsverordening Productschap Tuinbouw 1998.
 
 2. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -91,7 +63,7 @@ BESLUIT:
 
 ##### Artikel 4
 
-Indien de heffingsplichtige de gegevens die hem krachtens de [Verordening PT algemene bepalingen](onbekend), ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40,= wordt verhoogd in verband met administratiekosten.
+Indien de heffingsplichtige de gegevens die hem krachtens de Verordening PT algemene bepalingen, ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40,= wordt verhoogd in verband met administratiekosten.
 
 ##### Artikel 5
 
@@ -162,5 +134,3 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 ##### Artikel 14
 
 Deze verordening wordt aangehaald als: Verordening PT algemene heffing handel groenten en fruit 2003.
-
-De verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

@@ -1,54 +1,18 @@
 ---
 title: "Besluit van 15 april 2002, houdende regels ter uitvoering van artikel 8, eerste lid, aanhef en onder d, van de Rijkswet op het Nederlanderschap (Besluit naturalisatietoets)"
+citeertitel: "Besluit naturalisatietoets"
 identifier: "BWBR0013604"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2022-05-26"
-last_updated: "2022-05-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013604"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijksKB"
-stam_id: "1698893"
-version_id: "2504062"
-internal_id: "C20033211"
-label_id: "1651994"
-dtd_version: "2.0"
-original_entry_into_force: "2003-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013604/2022-05-26/0"
-intitule_bron: "Stb.2002-197"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-04-15"
-intitule_published: "2002-04-25"
-intitule_in_force: "2003-03-25"
-intitule_status: "goed"
-original_publication: "Stb.2002-197"
-original_signed_date: "2002-04-15"
-original_published_date: "2002-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-197"
-entry_into_force_date: "2003-04-01"
-jci_1_3: "jci1.3:c:BWBR0013604&z=2022-05-26&g=2022-05-26"
-jci_1_0: "1.0:c:BWBR0013604&g=2022-05-26"
-citeertitel_status: "officieel"
-short_title: "Besluit naturalisatietoets"
-signed_date: "2002-04-15"
-entry_into_force: "2003-04-01"
+publicatiedatum: 2003-04-01
+laatste_update: 2022-05-26
+status: geldig
+toestand: 2022-05-26
+bron: "https://wetten.overheid.nl/BWBR0013604"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 15 april 2002, houdende regels ter uitvoering van artikel 8, eerste lid, aanhef en onder d, van de Rijkswet op het Nederlanderschap (Besluit naturalisatietoets)
-
-Op voordracht van de Staatssecretaris van Justitie van 31 januari 2002, Directie Wetgeving, nr. 5140649/01/6;
-
-Gelet op [artikel 8, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), en [artikel 23 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23);
-
-De Raad van State van het Koninkrijk gehoord (advies van 8 maart 2002, nr. W03.02.0053/I/K);
-
-Gezien het nader rapport van de Staatssecretaris van Justitie van 9 april 2002, Directie Wetgeving, nr. 5157553/02/6;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking voor Nederland. Treedt op 1 mei 2006 in werking voor Aruba (Stb. 2006/202). Treedt op 1 oktober 2007 in werking voor de Nederlandse Antillen (Stb. 2007/310).
 
 ##### Artikel 1
 
@@ -92,9 +56,9 @@ In dit besluit wordt verstaan onder:
 
 - d. hij in het bezit is van een certificaat als bedoeld in [artikel 13, tweede lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=13), indien uit de vermelding daarop blijkt dat tenminste de volgende niveaus zijn behaald:
 
-- 1°. voor de onderdelen «Luisteren», «Spreken» en «Lezen» en «Schrijven» van de eindtermen Referentiekader Nederlands als Tweede Taal: niveau 2:
+   - 1°. voor de onderdelen «Luisteren», «Spreken» en «Lezen» en «Schrijven» van de eindtermen Referentiekader Nederlands als Tweede Taal: niveau 2:
 
-- 2°. voor het onderdeel «Maatschappij Oriëntatie»: het niveau van [artikel 11, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=11);
+   - 2°. voor het onderdeel «Maatschappij Oriëntatie»: het niveau van [artikel 11, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=11);
 
 - e. met toepassing van [artikel 5, tweede lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=5) ten aanzien van hem is besloten het vaststellen van een inburgeringsprogramma achterwege te laten, omdat tijdens het inburgeringsonderzoek aannemelijk is geworden dat hij de kennis, het inzicht en de vaardigheden die hij door het deelnemen aan een inburgeringsprogramma zou kunnen verwerven, reeds in voldoende mate op een andere wijze heeft verworven;
 
@@ -104,11 +68,11 @@ In dit besluit wordt verstaan onder:
 
 - h. hij in het bezit is van:
 
-- 1°. het diploma bedoeld in [artikel 8, eerste lid, onderdeel g, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=8), zoals die wet luidde onmiddellijk voorafgaand aan het tijdstip waarop de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) in werking treedt»; of
+   - 1°. het diploma bedoeld in [artikel 8, eerste lid, onderdeel g, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=8), zoals die wet luidde onmiddellijk voorafgaand aan het tijdstip waarop de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) in werking treedt»; of
 
-- 2°. het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) zoals die wet luidde voor de inwerkingtreding van de [wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031) (Stb. 2012, 430) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven;
+   - 2°. het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) zoals die wet luidde voor de inwerkingtreding van de [wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031) (Stb. 2012, 430) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven;
 
-- i. hij in het bezit is van het document, bedoeld in [artikel 2.7, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.7), zoals dat besluit luidde voor de inwerkingtreding van het [besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031) (Stb. 2012, 432);
+- i. hij in het bezit is van het document, bedoeld in [artikel 2.7, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.7), zoals dat besluit luidde voor de inwerkingtreding van het [besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031) (Stb. 2012, 432);
 
 - j. hij ten minste acht jaren tijdens de leerplichtige leeftijd in het Europese deel van Nederland heeft verbleven als bedoeld in [artikel 5, eerste lid, onderdeel b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5), zoals die wet luidde onmiddellijk voorafgaand aan het tijdstip waarop de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) in werking treedt;
 
@@ -134,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Indien de verzoeker de naturalisatietoets met goed gevolg heeft afgelegd, wordt hem in het Europese deel van Nederland uitgereikt het diploma, bedoeld in [artikel 8, eerste lid, onderdeel g, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=8), zoals die wet luidde onmiddellijk voorafgaand aan het tijdstip waarop de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) in werking treedt dan wel het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) zoals die wet luidde voor de inwerkingtreding van de [wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031) (Stb. 2012, 430) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven, en in een openbaar lichaam, Aruba, Curaçao of Sint Maarten een certificaat. Op het certificaat worden de onderdelen vermeld, die door de verzoeker met goed gevolg zijn afgelegd. Bij ministeriële regeling wordt voor het certificaat een model vastgesteld.
+1. Indien de verzoeker de naturalisatietoets met goed gevolg heeft afgelegd, wordt hem in het Europese deel van Nederland uitgereikt het diploma, bedoeld in [artikel 8, eerste lid, onderdeel g, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=8), zoals die wet luidde onmiddellijk voorafgaand aan het tijdstip waarop de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) in werking treedt dan wel het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) zoals die wet luidde voor de inwerkingtreding van de [wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031) (Stb. 2012, 430) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven, en in een openbaar lichaam, Aruba, Curaçao of Sint Maarten een certificaat. Op het certificaat worden de onderdelen vermeld, die door de verzoeker met goed gevolg zijn afgelegd. Bij ministeriële regeling wordt voor het certificaat een model vastgesteld.
 
 2. Het in het eerste lid bedoelde diploma alsmede het certificaat met de aantekening dat de verzoeker beschikt over de vereiste kennis van de Nederlandse taal worden in het kader van een verzoek om naturalisatie in het gehele Koninkrijk erkend.
 
@@ -155,5 +119,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit naturalisatietoets.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.

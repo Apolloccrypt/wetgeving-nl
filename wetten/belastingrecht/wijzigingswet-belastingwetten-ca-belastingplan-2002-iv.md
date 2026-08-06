@@ -1,86 +1,54 @@
 ---
 title: "Wet van 14 december 2001 tot wijziging van belastingwetten c.a. (Belastingplan 2002 IV – Herziening successie- en schenkingsrecht, BTW-maatregelen, artiesten- en sportersregeling, alsmede overige aanpassingen)"
+citeertitel: "Wijzigingswet belastingwetten c.a. (Belastingplan 2002 IV)"
 identifier: "BWBR0013189"
-country: "nl"
-rank: "wet"
-publication_date: "2002-04-01"
-last_updated: "2002-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013189"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "1646493"
-version_id: "2428152"
-internal_id: "C2428151"
-label_id: "1599834"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013189/2002-04-01/0"
-intitule_bron: "Stb.2001-643"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-14"
-intitule_published: "2001-12-21"
-intitule_in_force: "2001-12-21"
-intitule_status: "goed"
-original_publication: "Stb.2001-643"
-original_signed_date: "2001-12-14"
-original_published_date: "2001-12-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "28015"
-original_url_id: "stb-2001-643"
-entry_into_force_date: "2002-01-01"
-entry_into_force_dossier: "28015"
-jci_1_3: "jci1.3:c:BWBR0013189&z=2002-04-01&g=2002-04-01"
-jci_1_0: "1.0:c:BWBR0013189&g=2002-04-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet belastingwetten c.a. (Belastingplan 2002 IV)"
-signed_date: "2001-12-14"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2002-04-01
+status: geldig
+toestand: 2002-04-01
+bron: "https://wetten.overheid.nl/BWBR0013189"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 14 december 2001 tot wijziging van belastingwetten c.a. (Belastingplan 2002 IV – Herziening successie- en schenkingsrecht, BTW-maatregelen, artiesten- en sportersregeling, alsmede overige aanpassingen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2002 wenselijk is maatregelen te treffen inzake de herziening van het successieen schenkingsrecht, BTW, artiesten- en sportersregeling, alsmede overige onderwerpen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Artikel I onderdelen B, C, D, F en H en artikel X werken terug tot en met 1 januari 2001.
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel IV
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel V
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel VI
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel VII
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel VIIIA
 
-Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
+*Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.*
 
 ##### Artikel VIIIB
 
@@ -90,15 +58,15 @@ Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele
 
 ##### Artikel IX
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel X
 
-Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
+*Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.*
 
 ##### Artikel XA
 
-Wijzigt de Wijzigingswet van enkele belastingwetten (herstel van enige onjuistheden).
+*Wijzigt de Wijzigingswet van enkele belastingwetten (herstel van enige onjuistheden).*
 
 ##### Artikel XB
 
@@ -106,11 +74,11 @@ Wijzigt de Wijzigingswet van enkele belastingwetten (herstel van enige onjuisthe
 
 ##### Artikel XC
 
-Wijzigt de Wet tot beëindiging van overheidstaken m.b.t. voormalige Wees- en Momboirkamers.
+*Wijzigt de Wet tot beëindiging van overheidstaken m.b.t. voormalige Wees- en Momboirkamers.*
 
 ##### Artikel XD
 
-Wijzigt de Invoeringswet nieuw Burgerlijk Wetboek (aanpassing van de wetgeving aan het nieuwe erfrecht en schenkingsrecht).
+*Wijzigt de Invoeringswet nieuw Burgerlijk Wetboek (aanpassing van de wetgeving aan het nieuwe erfrecht en schenkingsrecht).*
 
 ##### Artikel XE
 
@@ -129,5 +97,3 @@ De in [artikel 24, tweede lid, letter a, van de Successiewet 1956](https://wette
 5. De ingevolge de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013189&artikel=IV&z=2002-04-01&g=2002-04-01) gewijzigde artikelen van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vinden voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na de datum van inwerkingtreding van deze wet.
 
 6. De ingevolge [artikel VII, onderdelen A, onder 2, B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0013189&artikel=VII&z=2002-04-01&g=2002-04-01), gewijzigde artikelen van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) vinden voor het eerst toepassing met betrekking tot belastingaanslagen die verschuldigd zijn ter zake van belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na de datum van inwerkingtreding van deze wet. Met betrekking tot belastingaanslagen die verschuldigd zijn ter zake van belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan voor de inwerkingtreding van deze wet blijven de op grond van [artikel VII, onderdelen A, onder 2, B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0013189&artikel=VII&z=2002-04-01&g=2002-04-01), gewijzigde artikelen van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) van kracht zoals deze luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van deze wet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

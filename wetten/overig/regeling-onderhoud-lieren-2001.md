@@ -1,42 +1,17 @@
 ---
 title: "Regeling onderhoud lieren 2001"
 identifier: "BWBR0012883"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-09-11"
-last_updated: "2008-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012883"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4014973"
-version_id: "5778022"
-internal_id: "C5980761"
-label_id: "3994954"
-dtd_version: "2.0"
-original_entry_into_force: "2001-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012883/2008-09-11/0"
-intitule_bron: "Stcrt.2001-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-10-08"
-intitule_published: "2001-10-12"
-intitule_in_force: "2001-10-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-198"
-original_signed_date: "2001-10-08"
-original_published_date: "2001-10-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-10-15"
-jci_1_3: "jci1.3:c:BWBR0012883&z=2008-09-11&g=2008-09-11"
-jci_1_0: "1.0:c:BWBR0012883&g=2008-09-11"
-citeertitel_status: "officieel"
-signed_date: "2001-10-08"
-entry_into_force: "2001-10-15"
+publicatiedatum: 2001-10-15
+laatste_update: 2008-09-11
+status: geldig
+toestand: 2008-09-11
+bron: "https://wetten.overheid.nl/BWBR0012883"
+opgehaald: 2026-08-06
 ---
+
 # Regeling onderhoud lieren 2001
-
-Gelet op de [artikel 45 van het Besluit luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=45);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -52,11 +27,11 @@ De eigenaar of houder is verplicht:
 
 - a. een onderhoudsprogramma op te stellen en ervoor te zorgen dat het onderhoud wordt uitgevoerd volgens het onderhoudsprogramma. In dit onderhoudsprogramma zijn ten minste opgenomen:
 
-- 1. de uit te voeren onderhoudswerkzaamheden, waaronder de dagelijkse inspectie;
+   - 1. de uit te voeren onderhoudswerkzaamheden, waaronder de dagelijkse inspectie;
 
-- 2. de tijds- of bedrijfsurenintervallen waarop deze werkzaamheden worden uitgevoerd;
+   - 2. de tijds- of bedrijfsurenintervallen waarop deze werkzaamheden worden uitgevoerd;
 
-- 3. aanwijzingen betreffende revisie en herstelling van aanzienlijke schade. Het onderhoudsprogramma is opgesteld volgens de aanwijzingen van de fabrikant van de lier, voor zover deze beschikbaar zijn;
+   - 3. aanwijzingen betreffende revisie en herstelling van aanzienlijke schade. Het onderhoudsprogramma is opgesteld volgens de aanwijzingen van de fabrikant van de lier, voor zover deze beschikbaar zijn;
 
 - b. het onderhoudsprogramma te laten uitvoeren door of onder toezicht van een liertechnicus; de dagelijkse inspectie kan worden uitgevoerd door een houder van een geldig RPL(G) met de bevoegdverklaring RFI(G) of een door de liertechnicus schriftelijk daartoe gemachtigde houder van een geldig RPL(G);
 
@@ -77,5 +52,3 @@ Deze regeling treedt in werking met ingang van 15 oktober 2001.
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling onderhoud lieren 2001.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

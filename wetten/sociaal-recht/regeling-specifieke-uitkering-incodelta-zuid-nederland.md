@@ -1,46 +1,51 @@
 ---
 title: "Regeling specifieke uitkering Incodelta Zuid-Nederland"
 identifier: "BWBR0013068"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013068"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "4176723"
-version_id: "5929562"
-internal_id: "C6132401"
-label_id: "4155604"
-dtd_version: "2.0"
-original_entry_into_force: "2001-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013068/2002-01-01/0"
-intitule_bron: "Stcrt.2001-239"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-03"
-intitule_published: "2001-12-10"
-intitule_in_force: "2001-12-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-239"
-original_signed_date: "2001-12-03"
-original_published_date: "2001-12-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-12-12"
-jci_1_3: "jci1.3:c:BWBR0013068&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0013068&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "2001-12-03"
-entry_into_force: "2001-12-12"
+publicatiedatum: 2001-12-12
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0013068"
+opgehaald: 2026-08-06
 ---
+
 # Regeling specifieke uitkering Incodelta Zuid-Nederland
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+minister:
+
+Minister van Verkeer en Waterstaat;
+
+b.
+
+Incodelta Zuid-Nederland:
+
+project van de zuidelijke provincies, gericht op efficiënt, duurzaam en veilig goederenvervoer, de stimulering van daarmee samenhangende economische activiteiten en versterking van de ruimtelijke kwaliteit, met een looptijd van 1 oktober 2001 tot en met 31 december 2003;
+
+c.
+
+zuidelijke provincies:
+
+provincies Limburg, Noord-Brabant, Zeeland en Zuid-Holland;
+
+d.
+
+deelproject:
+
+concreet project opgestart als onderdeel van Incodelta Zuid-Nederland;
+
+e.
+
+eigen bijdrage:
+
+door de zuidelijke provincies te leveren financiële bijdrage aan Incodelta Zuid-Nederland.
 
 ##### Artikel 2
 
@@ -145,5 +150,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering Incodelta Zuid-Nederland.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

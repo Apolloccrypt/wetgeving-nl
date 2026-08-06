@@ -1,47 +1,33 @@
 ---
 title: "Rechtspositieregeling lid Raad van bestuur UWV"
 identifier: "BWBR0013257"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013257"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "3823783"
-version_id: "22474522"
-internal_id: "C32254291"
-label_id: "3803474"
-dtd_version: "2.0"
-original_entry_into_force: "2015-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013257/2015-07-01/0"
-intitule_bron: "Stcrt.2001-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-20"
-intitule_published: "2001-12-27"
-intitule_in_force: "2001-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-17301"
-original_signed_date: "2015-06-17"
-original_published_date: "2015-06-26"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2015-17301"
-entry_into_force_date: "2015-06-17"
-jci_1_3: "jci1.3:c:BWBR0013257&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0013257&g=2015-07-01"
-citeertitel_status: "officieel"
-signed_date: "2015-06-17"
-entry_into_force: "2015-06-17"
+publicatiedatum: 2015-06-17
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0013257"
+opgehaald: 2026-08-06
 ---
+
 # Rechtspositieregeling lid Raad van bestuur UWV
-
-Gelet op [artikel 5, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
+
+a.
+
+UWV:
+
+Uitvoeringsinstituut werknemersverzekeringen;
+
+b.
+
+Lid:
+
+een lid van de Raad van bestuur van het UWV, niet zijnde de voorzitter.
 
 ##### Artikel 2. Beloning
 
@@ -97,6 +83,10 @@ In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte of 
 
 3. Voor zover niet anders is vermeld zijn de bepalingen van de voor het UWV geldende CAO van overeenkomstige toepassing.
 
+##### Artikel 8a. Overgangsrecht zittende leden
+
+Op de beloning van een lid wiens benoeming heeft plaatsgevonden voor 1 juli 2015, blijft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013257&artikel=2&z=2015-07-01&g=2015-07-01) van deze regeling van toepassing, zoals dit luidde op 30 juni 2015, tot de datum met ingang waarvan dit lid wordt herbenoemd.
+
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Rechtspositieregeling lid Raad van bestuur UWV.
@@ -104,11 +94,3 @@ Deze regeling wordt aangehaald als: Rechtspositieregeling lid Raad van bestuur U
 ##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2002.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a. Overgangsrecht zittende leden
-
-Op de beloning van een lid wiens benoeming heeft plaatsgevonden voor 1 juli 2015, blijft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013257&artikel=2&z=2015-07-01&g=2015-07-01) van deze regeling van toepassing, zoals dit luidde op 30 juni 2015, tot de datum met ingang waarvan dit lid wordt herbenoemd.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

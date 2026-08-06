@@ -1,55 +1,26 @@
 ---
 title: "Rijkswet van 13 juni 2002 tot wijziging van de bepalingen ten aanzien van octrooigemachtigden in de Rijksoctrooiwet en de Rijksoctrooiwet 1995"
+citeertitel: "Rijkswet tot wijziging Rijkswet bepalingen ten aanzien van octrooigemachtigden in de Rijksoctrooiwet enz."
 identifier: "BWBR0013771"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2003-05-01"
-last_updated: "2003-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013771"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "2858083"
-version_id: "4395822"
-internal_id: "C5382531"
-label_id: "2806144"
-dtd_version: "2.0"
-original_entry_into_force: "2003-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013771/2003-05-01/0"
-intitule_bron: "Stb.2002-366"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-06-13"
-intitule_published: "2002-07-16"
-intitule_in_force: "2003-04-17"
-intitule_status: "goed"
-original_publication: "Stb.2002-366"
-original_signed_date: "2002-06-13"
-original_published_date: "2002-07-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "27193"
-original_url_id: "stb-2002-366"
-entry_into_force_date: "2003-05-01"
-jci_1_3: "jci1.3:c:BWBR0013771&z=2003-05-01&g=2003-05-01"
-jci_1_0: "1.0:c:BWBR0013771&g=2003-05-01"
-citeertitel_status: "redactioneel"
-short_title: "Rijkswet tot wijziging Rijkswet bepalingen ten aanzien van octrooigemachtigden in de Rijksoctrooiwet enz."
-signed_date: "2002-06-13"
-entry_into_force: "2003-05-01"
+publicatiedatum: 2003-05-01
+laatste_update: 2003-05-01
+status: geldig
+toestand: 2003-05-01
+bron: "https://wetten.overheid.nl/BWBR0013771"
+opgehaald: 2026-08-06
 ---
+
 # Rijkswet van 13 juni 2002 tot wijziging van de bepalingen ten aanzien van octrooigemachtigden in de Rijksoctrooiwet en de Rijksoctrooiwet 1995
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om de wettelijke regeling ten aanzien van de uitoefening van het beroep van octrooigemachtigde opnieuw vorm te geven en te plaatsen in de [Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118);
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Rijksoctrooiwet.
+*Wijzigt de Rijksoctrooiwet.*
 
 ##### Artikel II
 
-Wijzigt de Rijksoctrooiwet 1995.
+*Wijzigt de Rijksoctrooiwet 1995.*
 
 ##### Artikel III
 
@@ -74,5 +45,3 @@ Het register van octrooigemachtigden, bedoeld in [artikel 3 van het Octrooigemac
 ##### Artikel VII
 
 Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

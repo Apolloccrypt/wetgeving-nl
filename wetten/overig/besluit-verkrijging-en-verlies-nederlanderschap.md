@@ -1,54 +1,18 @@
 ---
 title: "Besluit van 15 april 2002 tot uitvoering van de artikelen 21 en 23 van de Rijkswet op het Nederlanderschap (Besluit verkrijging en verlies Nederlanderschap)"
+citeertitel: "Besluit verkrijging en verlies Nederlanderschap"
 identifier: "BWBR0013605"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2017-03-01"
-last_updated: "2017-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013605"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijksKB"
-stam_id: "1970923"
-version_id: "13170402"
-internal_id: "C20780261"
-label_id: "1921114"
-dtd_version: "2.0"
-original_entry_into_force: "2006-05-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013605/2017-03-01/0"
-intitule_bron: "Stb.2002-231"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-04-15"
-intitule_published: "2002-05-28"
-intitule_in_force: "2003-03-25"
-intitule_status: "goed"
-original_publication: "Stb.2006-250"
-original_signed_date: "2006-05-29"
-original_published_date: "2006-06-01"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2006-250"
-entry_into_force_date: "2006-05-29"
-jci_1_3: "jci1.3:c:BWBR0013605&z=2017-03-01&g=2017-03-01"
-jci_1_0: "1.0:c:BWBR0013605&g=2017-03-01"
-citeertitel_status: "officieel"
-short_title: "Besluit verkrijging en verlies Nederlanderschap"
-signed_date: "2006-05-29"
-entry_into_force: "2006-05-29"
+publicatiedatum: 2006-05-29
+laatste_update: 2017-03-01
+status: geldig
+toestand: 2017-03-01
+bron: "https://wetten.overheid.nl/BWBR0013605"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 15 april 2002 tot uitvoering van de artikelen 21 en 23 van de Rijkswet op het Nederlanderschap (Besluit verkrijging en verlies Nederlanderschap)
-
-Op de voordracht van de Staatssecretaris van Justitie van 17 december 2001, Directie Wetgeving, nr. 5139778/01/6;
-
-Gelet op de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=21) en [23 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23);
-
-Gelet op [artikel 1 van de Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&artikel=1);
-
-De Raad van State van het Koninkrijk gehoord (advies van 7 maart 2002, nr. W03.01.0682/I/K);
-
-Gezien het nader rapport van de Staatssecretaris van Justitie van 9 april 2002, Directie Wetgeving, nr. 5156838/02/6;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. – Algemene bepalingen
 
@@ -68,11 +32,11 @@ In dit besluit wordt verstaan onder:
 
 - f. basisadministratie:
 
-- 1°. de basisregistratie personen, bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715),
+   - 1° de basisregistratie personen, bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715),
 
-- 2°. de bij Wet basisadministratie persoonsgegevens BES ingestelde basisadministratie persoonsgegevens, of
+   - 2° de bij Wet basisadministratie persoonsgegevens BES ingestelde basisadministratie persoonsgegevens, of
 
-- 3°. de bij landsverordening in Aruba, Curaçao of Sint Maarten ingestelde basisadministratie persoonsgegevens;
+   - 3° de bij landsverordening in Aruba, Curaçao of Sint Maarten ingestelde basisadministratie persoonsgegevens;
 
 - g. ingezetene: hij die als zodanig is ingeschreven in de basisadministratie;
 
@@ -176,7 +140,7 @@ De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=I&ar
 
 1. Nadat hij de optieverklaring in behandeling heeft genomen, toetst de burgemeester de door de optant verstrekte gegevens aan de gegevens die in de basisregistratie personen zijn opgenomen.
 
-2. Met betrekking tot personen die in de optieverklaring zijn genoemd en die geen ingezetenen zijn van zijn gemeente verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de burgemeester van de betreffende gemeente om binnen vier weken, of aan de gezaghebber van het betreffende openbaar lichaam, dan wel aan Onze Minister van Algemene Zaken van Aruba, Curaçao of Sint Maarten om binnen tien weken de hem verstrekte gegevens te toetsen.
+2. Met betrekking tot personen die in de optieverklaring zijn genoemd en die geen ingezetenen zijn van zijn gemeente verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de burgemeester van de betreffende gemeente om binnen vier weken, of aan de gezaghebber van het betreffende openbaar lichaam, dan wel aan Onze Minister van Algemene Zaken van Aruba, Curaçao of Sint Maarten om binnen tien weken de hem verstrekte gegevens te toetsen.
 
 3. Met betrekking tot personen die in de optieverklaring zijn genoemd en die geen hoofdverblijf hebben in het Koninkrijk, verzoekt hij, zo nodig, Onze Minister van Buitenlandse Zaken de hem verstrekte gegevens zo mogelijk binnen tien weken te toetsen.
 
@@ -238,7 +202,7 @@ De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=I&ar
 
 1. Nadat hij de optieverklaring in behandeling heeft genomen, toetst Onze Minister de door de optant verstrekte gegevens aan de gegevens die in de basisadministratie zijn opgenomen.
 
-2. Met betrekking tot personen die in de optieverklaring zijn genoemd en die geen hoofdverblijf hebben in zijn openbaar lichaam verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, de gezaghebber van het betreffende openbaar lichaam om binnen vier weken, en Onze Minister van Algemene Zaken van Aruba, Curaçao onderscheidenlijk Sint Maarten of de burgemeester van de gemeente om binnen tien weken de hem verstrekte gegevens te toetsen.
+2. Met betrekking tot personen die in de optieverklaring zijn genoemd en die geen hoofdverblijf hebben in zijn openbaar lichaam verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, de gezaghebber van het betreffende openbaar lichaam om binnen vier weken, en Onze Minister van Algemene Zaken van Aruba, Curaçao onderscheidenlijk Sint Maarten of de burgemeester van de gemeente om binnen tien weken de hem verstrekte gegevens te toetsen.
 
 3. Met betrekking tot personen die in de optieverklaring zijn genoemd en die geen hoofdverblijf hebben in het Koninkrijk, verzoekt hij, zo nodig, Onze Minister van Buitenlandse Zaken de hem verstrekte gegevens zo mogelijk binnen tien weken te toetsen.
 
@@ -270,7 +234,7 @@ De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=I&ar
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 4. Administratieve behandeling van optieverklaringen in Aruba, Curaçao en Sint Maarten
 
@@ -298,7 +262,7 @@ Vervallen
 
 1. Nadat hij de optieverklaring in behandeling heeft genomen, verzoekt de Gouverneur Onze Minister van Algemene Zaken die het aangaat de door de optant verstrekte gegevens te toetsen aan de gegevens die in de basisadministratie zijn opgenomen.
 
-2. Met betrekking tot personen die in de optieverklaring zijn genoemd en die geen hoofdverblijf hebben in Aruba, Curaçao onderscheidenlijk Sint Maarten verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de burgemeester van de gemeente of de gezaghebber van het betrokken openbaar lichaam om binnen tien weken de hem verstrekte gegevens te toetsen.
+2. Met betrekking tot personen die in de optieverklaring zijn genoemd en die geen hoofdverblijf hebben in Aruba, Curaçao onderscheidenlijk Sint Maarten verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de burgemeester van de gemeente of de gezaghebber van het betrokken openbaar lichaam om binnen tien weken de hem verstrekte gegevens te toetsen.
 
 3. Met betrekking tot personen die in de optieverklaring zijn genoemd en die geen hoofdverblijf hebben in het Koninkrijk, verzoekt hij, zo nodig, Onze Minister van Buitenlandse Zaken de hem verstrekte gegevens zo mogelijk binnen tien weken te toetsen.
 
@@ -358,9 +322,9 @@ Vervallen
 
 1. Nadat hij de optieverklaring in behandeling heeft genomen, toetst Onze Minister van Buitenlandse Zaken de door de optant verstrekte gegevens aan de gegevens die in zijn administratie zijn opgenomen.
 
-2. Met betrekking tot personen die in de optieverklaring zijn genoemd en die hoofdverblijf hebben binnen het Koninkrijk verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de burgemeester van de gemeente of de gezaghebber van het betrokken openbaar lichaam, dan wel Onze Minister van Algemene Zaken van Aruba, Curaçao onderscheidenlijk Sint Maarten, om de hem verstrekte gegevens binnen tien weken te toetsen.
+2. Met betrekking tot personen die in de optieverklaring zijn genoemd en die hoofdverblijf hebben binnen het Koninkrijk verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de burgemeester van de gemeente of de gezaghebber van het betrokken openbaar lichaam, dan wel Onze Minister van Algemene Zaken van Aruba, Curaçao onderscheidenlijk Sint Maarten, om de hem verstrekte gegevens binnen tien weken te toetsen.
 
-3. Vervallen.
+3. *Vervallen.*
 
 4. Hij onderzoekt, voor zover mogelijk, de juistheid van de gegevens welke niet op de in het eerste en tweede lid aangegeven wijze kunnen worden getoetst.
 
@@ -389,6 +353,34 @@ Vervallen
 1. Onze Minister van Buitenlandse Zaken zendt de optieverklaring, de afgelegde waarheidsverklaringen, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=II&paragraaf=1&artikel=6&z=2017-03-01&g=2017-03-01),de verklaring, bedoeld in artikel 6, zesde lid, en de bevestiging van de verkrijging van het Nederlanderschap in afschrift aan Onze Minister.
 
 2. Onze Minister van Buitenlandse Zaken archiveert de optieverklaringen en de daarbij behorende documenten alsmede de afschriften van de bevestigingen op een door hem nader vast te stellen wijze.
+
+#### Paragraaf 6. Administratieve handelingen inzake de afstandsverplichting
+
+##### Artikel 30a
+
+Bij ministeriële regeling kan na overleg met de Ministers van Algemene Zaken van Aruba, Curaçao en Sint Maarten worden bepaald in welke gevallen het doen van afstand, als bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6a), niet zal worden verlangd.
+
+##### Artikel 30b
+
+1. Indien een optant verplicht is om na de totstandkoming van de optie het mogelijke te zullen doen om zijn andere nationaliteit of nationaliteiten te verliezen, wordt hem na de optie door Onze Minister bericht dat hij binnen een termijn van drie maanden een verzoek moet doen tot afstand van die andere nationaliteit of nationaliteiten. Van dit bericht wordt een afschrift gezonden aan de autoriteit die de optieverklaring in ontvangst heeft genomen.
+
+2. Heeft de optant het verzoek tot afstand dan wel een verklaring van afstand bij de autoriteiten van het land of de landen van zijn andere nationaliteit of nationaliteiten ingediend of aangeboden en is daarover door deze nog geen beslissing genomen, dan verzoekt Onze Minister na zes maanden de betrokkene hem te informeren over de stand van zaken met betrekking tot het verlies van de andere nationaliteit of nationaliteiten.
+
+3. Verlenen de autoriteiten van het land van de andere nationaliteit geen of onvoldoende medewerking aan het verzoek of de verklaring van afstand, dan beslist Onze Minister over de gevolgen daarvan voor de afstandsverplichting.
+
+##### Artikel 30c
+
+1. Wordt Onze Minister het bewijs overgelegd dat de andere nationaliteit of een der andere nationaliteiten is verloren, dan zendt hij een gewaarmerkt afschrift daarvan aan de autoriteit die de optieverklaring in ontvangst heeft genomen.
+
+2. De autoriteit die de optieverklaring in ontvangst heeft genomen, aan wie het bewijs van het verlies van een andere nationaliteit wordt overgelegd, zendt een gewaarmerkt afschrift daarvan aan Onze Minister.
+
+3. Onze Minister dan wel de in het tweede lid bedoelde autoriteit zendt tevens een gewaarmerkt afschrift aan de autoriteit die verantwoordelijk is voor het bijhouden in de basisadministratie van de gegevens over de persoon wiens verlies van die andere nationaliteit het betreft.
+
+4. De in het derde lid bedoelde autoriteit bevordert, voor zover van toepassing, dat het verlies van de andere nationaliteit of nationaliteiten in de desbetreffende basisadministratie wordt verwerkt.
+
+##### Artikel 30d
+
+Tenzij hij wegens de omstandigheden van het geval anders beslist, gaat Onze Minister na verloop van de in het eerste lid van [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=II&paragraaf=6&artikel=30b&z=2017-03-01&g=2017-03-01) bepaalde termijn over tot de intrekking van het besluit waarbij het Nederlanderschap is verkregen.
 
 ### Hoofdstuk III. – Administratieve behandeling van naturalisatieverzoeken
 
@@ -434,7 +426,7 @@ Vervallen
 
 Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand te doen, dan legt hij een verklaring over houdende dat hij bereid is het mogelijke te zullen doen om bij of na de totstandkoming van de naturalisatie zijn andere nationaliteit of nationaliteiten te verliezen.
 
-#### Paragraaf 2. Administratieve behandeling van naturalisatieverzoeken in Nederland
+#### Paragraaf 2. Administratieve behandeling van naturalisatieverzoeken in het Europese deel van Nederland
 
 ##### Artikel 33
 
@@ -460,7 +452,7 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 
 1. Nadat hij het verzoek tot naturalisatie in behandeling genomen heeft, toetst de burgemeester de door de verzoeker verstrekte gegevens aan de gegevens die in de basisregistratie personen zijn opgenomen.
 
-2. Met betrekking tot personen die in het naturalisatieverzoek zijn genoemd en die geen ingezetenen zijn van zijn gemeente verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de burgemeester van de betreffende gemeente om binnen vier weken, en aan de gezaghebber van het betrokken openbaar lichaam dan wel aan Onze Minister van Algemene Zaken van Aruba, Curaçao onderscheidenlijk Sint Maarten om binnen tien weken de hem verstrekte gegevens te toetsen.
+2. Met betrekking tot personen die in het naturalisatieverzoek zijn genoemd en die geen ingezetenen zijn van zijn gemeente verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de burgemeester van de betreffende gemeente om binnen vier weken, en aan de gezaghebber van het betrokken openbaar lichaam dan wel aan Onze Minister van Algemene Zaken van Aruba, Curaçao onderscheidenlijk Sint Maarten om binnen tien weken de hem verstrekte gegevens te toetsen.
 
 3. Met betrekking tot personen die in het naturalisatieverzoek zijn genoemd en die geen hoofdverblijf hebben in het Koninkrijk verzoekt hij, zo nodig, Onze Minister van Buitenlandse Zaken de hem verstrekte gegevens zo mogelijk binnen tien weken te toetsen.
 
@@ -472,7 +464,7 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 
 1. De burgemeester onderzoekt de verblijfsrechtelijke status van de verzoeker en de personen om wier medeverlening wordt verzocht. Zo nodig verwijst hij de verzoeker voor een bewijs van toelating naar de daartoe bevoegde instanties.
 
-2. Hij informeert de verzoeker over de wijze waarop Onze Minister toetst of ernstige vermoedens bestaan als bedoeld in [artikel 9, eerste lid, aanhef en onder a, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9) jegens de verzoeker of de minderjarige personen die tot medeverlening van het Nederlanderschap in het naturalisatieverzoek zijn genoemd, indien zij ouder zijn dan zestien jaar.
+2. Hij informeert de verzoeker over de wijze waarop Onze Minister toetst of ernstige vermoedens bestaan als bedoeld in [artikel 9, eerste lid, aanhef en onder a, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9) jegens de verzoeker of de minderjarige personen die tot medeverlening van het Nederlanderschap in het naturalisatieverzoek zijn genoemd, indien zij ouder zijn dan zestien jaar.
 
 3. Hij onderzoekt eveneens of deze personen aan de overige voor hun naturalisatie gestelde voorwaarden voldoen.
 
@@ -496,7 +488,7 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld betreffende de wijze van bekendmaking van de verlening van het Nederlanderschap alsook betreffende de inname van de door de bevoegde autoriteiten in het Koninkrijk afgegeven verblijfsdocumenten van de verzoeker en van de personen die in de naturalisatie delen.
 
-#### Paragraaf 3. Administratieve behandeling van naturalisatieverzoeken in de Nederlandse Antillen
+#### Paragraaf 3. Administratieve behandeling van naturalisatieverzoeken in de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 ##### Artikel 39
 
@@ -522,7 +514,7 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 
 1. Nadat hij het verzoek tot naturalisatie in behandeling genomen heeft, toetst Onze Minister de door de verzoeker verstrekte gegevens aan de gegevens die in de basisadministratie zijn opgenomen.
 
-2. Met betrekking tot personen die in het naturalisatieverzoek zijn genoemd en die geen ingezetene zijn van zijn openbaar lichaam verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de gezaghebber van het betreffende openbaar lichaam om binnen vier weken, en aan de burgemeester van de gemeente of aan Onze Minister van Algemene Zaken van Aruba, Curaçao onderscheidenlijk Sint Maarten om binnen tien weken de hem verstrekte gegevens te toetsen.
+2. Met betrekking tot personen die in het naturalisatieverzoek zijn genoemd en die geen ingezetene zijn van zijn openbaar lichaam verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de gezaghebber van het betreffende openbaar lichaam om binnen vier weken, en aan de burgemeester van de gemeente of aan Onze Minister van Algemene Zaken van Aruba, Curaçao onderscheidenlijk Sint Maarten om binnen tien weken de hem verstrekte gegevens te toetsen.
 
 3. Met betrekking tot personen die in het naturalisatieverzoek zijn genoemd en die geen hoofdverblijf hebben in het Koninkrijk verzoekt hij, zo nodig, Onze Minister van Buitenlandse Zaken de hem verstrekte gegevens zo mogelijk binnen tien weken te toetsen.
 
@@ -542,7 +534,7 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
@@ -552,7 +544,7 @@ Vervallen
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld betreffende de wijze van bekendmaking van de verlening van het Nederlanderschap alsook betreffende de inname van de door de bevoegde autoriteiten in het Koninkrijk afgegeven verblijfsdocumenten van de verzoeker en van de personen die in de naturalisatie delen.
 
-#### Paragraaf 4. Administratieve behandeling van naturalisatieverzoeken in Aruba.
+#### Paragraaf 4. Administratieve behandeling van naturalisatieverzoeken in Aruba, Curaçao en Sint Maarten
 
 ##### Artikel 45
 
@@ -578,7 +570,7 @@ Vervallen
 
 1. Nadat hij het verzoek tot naturalisatie in behandeling genomen heeft, verzoekt de Gouverneur Onze Minister van Algemene Zaken die het aangaat de door de verzoeker verstrekte gegevens te toetsen aan de gegevens die in de basisadministratie zijn opgenomen.
 
-2. Met betrekking tot personen die in het naturalisatieverzoek zijn genoemd en die geen ingezetene zijn van Aruba, Curaçao onderscheidenlijk Sint Maarten verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de burgemeester van de betreffende gemeente of aan de gezaghebber van het betrokken openbaar lichaam de hem verstrekte gegevens binnen tien weken te toetsen.
+2. Met betrekking tot personen die in het naturalisatieverzoek zijn genoemd en die geen ingezetene zijn van Aruba, Curaçao onderscheidenlijk Sint Maarten verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de burgemeester van de betreffende gemeente of aan de gezaghebber van het betrokken openbaar lichaam de hem verstrekte gegevens binnen tien weken te toetsen.
 
 3. Met betrekking tot personen die in het naturalisatieverzoek zijn genoemd en die geen hoofdverblijf hebben in het Koninkrijk verzoekt hij, zo nodig, Onze Minister van Buitenlandse Zaken de hem verstrekte gegevens zo mogelijk binnen tien weken te toetsen.
 
@@ -600,15 +592,15 @@ Vervallen
 
 ##### Artikel 49
 
-1. De Gouverneur zendt zijn advies met het verzoek en de daarop betrekking hebbende gegevens, documenten en verklaringen door tussenkomst van de Minister van Justitie van Aruba, Curaçao onderscheidenlijk Sint Maarten aan Onze Minister.
+1. De Gouverneur zendt zijn advies met het verzoek en de daarop betrekking hebbende gegevens, documenten en verklaringen door tussenkomst van de Minister van Justitie van Aruba, Curaçao onderscheidenlijk Sint Maarten aan Onze Minister.
 
-2. De Minister van Justitie van Aruba, Curaçao onderscheidenlijk Sint Maarten voegt zijn advies betreffende het verzoek toe aan dit dossier.
+2. De Minister van Justitie van Aruba, Curaçao onderscheidenlijk Sint Maarten voegt zijn advies betreffende het verzoek toe aan dit dossier.
 
-3. Onze Minister bevestigt de ontvangst daarvan zonder uitstel aan de Gouverneur en aan de Minister van Justitie van Aruba, Curaçao onderscheidenlijk Sint Maarten.
+3. Onze Minister bevestigt de ontvangst daarvan zonder uitstel aan de Gouverneur en aan de Minister van Justitie van Aruba, Curaçao onderscheidenlijk Sint Maarten.
 
 ##### Artikel 50
 
-1. Onze Minister zendt de uittreksels van het besluit tot verlening van het Nederlanderschap onverwijld ter bekendmaking toe aan de autoriteit van de woonplaats van de verzoeker. Hij zendt het besluit tot gehele of gedeeltelijke afwijzing van het verzoek toe aan de verzoeker onder vermelding van de termijn waarbinnen tegen het besluit bezwaar gemaakt kan worden. Hij bericht een en ander gelijktijdig aan de Gouverneur en aan de Minister van Justitie van Aruba, Curaçao onderscheidenlijk Sint Maarten.
+1. Onze Minister zendt de uittreksels van het besluit tot verlening van het Nederlanderschap onverwijld ter bekendmaking toe aan de autoriteit van de woonplaats van de verzoeker. Hij zendt het besluit tot gehele of gedeeltelijke afwijzing van het verzoek toe aan de verzoeker onder vermelding van de termijn waarbinnen tegen het besluit bezwaar gemaakt kan worden. Hij bericht een en ander gelijktijdig aan de Gouverneur en aan de Minister van Justitie van Aruba, Curaçao onderscheidenlijk Sint Maarten.
 
 2. De bekendmaking van het besluit tot verlening van het Nederlanderschap geschiedt overeenkomstig het bepaalde in [hoofdstuk IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=IIIA&z=2017-03-01&g=2017-03-01).
 
@@ -638,7 +630,7 @@ Vervallen
 
 1. Nadat hij het verzoek tot naturalisatie in behandeling genomen heeft, toetst Onze Minister van Buitenlandse Zaken de door de verzoeker verstrekte gegevens aan de gegevens die in de administratie zijn opgenomen.
 
-2. Met betrekking tot personen die in het naturalisatieverzoek zijn genoemd en die hoofdverblijf hebben binnen het Koninkrijk verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de burgemeester van de betreffende gemeente, aan de gezaghebber van het betrokken openbaar lichaam of aan Onze Minister van Algemene Zaken van Aruba, Curaçao onderscheidenlijk Sint Maarten de hem verstrekte gegevens binnen tien weken te toetsen.
+2. Met betrekking tot personen die in het naturalisatieverzoek zijn genoemd en die hoofdverblijf hebben binnen het Koninkrijk verzoekt hij zo nodig, al naar gelang de plaats waar zij volgens de basisadministratie als ingezetene zijn ingeschreven, aan de burgemeester van de betreffende gemeente, aan de gezaghebber van het betrokken openbaar lichaam of aan Onze Minister van Algemene Zaken van Aruba, Curaçao onderscheidenlijk Sint Maarten de hem verstrekte gegevens binnen tien weken te toetsen.
 
 3. Hij onderzoekt, voor zover mogelijk, de juistheid van de gegevens welke niet op de in het eerste of tweede lid van dit artikel aangegeven wijze kunnen worden getoetst.
 
@@ -696,148 +688,6 @@ Tenzij hij wegens de omstandigheden van het geval anders beslist, gaat Onze Mini
 
 ### Hoofdstuk IIIA. Bekendmaking van de verkrijging van het Nederlanderschap
 
-##### Artikel 61
-
-1. Als verklaring omtrent het bezit van het Nederlanderschap, bedoeld in [artikel 15, vierde lid van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) en in [artikel V, tweede lid van de Rijkswet van 21 december 2000, Stb. 618, tot wijziging van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V) met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap, geldt:
-
-- a. de onherroepelijke rechterlijke beschikking waarbij het Nederlanderschap is vastgesteld;
-
-- b. een uittreksel uit de basisadministratie, waaruit blijkt dat de betrokkene als Nederlander is aangemerkt; of
-
-- c. een verklaring afgegeven door Onze Minister van Buitenlandse Zaken, waaruit blijkt dat de betrokkene Nederlander is.
-
-2. Een verklaring omtrent het bezit van het Nederlanderschap wordt alleen op aanvraag van de betrokken persoon verstrekt.
-
-3. De documenten genoemd onder b en c van het eerste lid dienen de woorden te bevatten: Verklaring omtrent het bezit van het Nederlanderschap, en van een datum van verstrekking en een dienststempel te zijn voorzien.
-
-4. Bij ministeriële regeling kan worden bepaald welke andere documenten als verklaring omtrent het bezit van het Nederlanderschap kunnen dienen.
-
-### Hoofdstuk V. – Verlies van het Nederlanderschap
-
-#### Paragraaf 1. Verlies door een verklaring van afstand
-
-##### Artikel 62
-
-1. Een verklaring van afstand van het Nederlanderschap als bedoeld in [artikel 15, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15), of als bedoeld in [artikel 16, eerste lid, aanhef en onder b, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) wordt schriftelijk afgelegd. De verklaring vermeldt dat de persoon die de verklaring aflegt, bekend is met [artikel 16, eerste lid, aanhef en onder d, en tweede lid van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16).
-
-2. Aan de verklaring van afstand wordt zo nodig een bewijs toegevoegd dat de verklarende persoon en, in voorkomend geval, de minderjarige personen die in zijn afstand delen een andere nationaliteit bezitten.
-
-3. Indien de verklaring een minderjarige betreft, wordt zo nodig tevens een bewijs van de nationaliteit van de vader en moeder of adoptiefouder toegevoegd.
-
-##### Artikel 63
-
-1. Een verklaring van afstand van het Nederlanderschap wordt afgelegd:
-
-- a. in het Europese deel van Nederland: voor de burgemeester;
-
-- b. in een openbaar lichaam: voor Onze Minister;
-
-- c. in Aruba, Curaçao en Sint Maarten: voor de Gouverneur;
-
-- d. in het buitenland: voor Onze Minister van Buitenlandse Zaken.
-
-2. Alvorens de verklaring in ontvangst te nemen stelt de autoriteit ten overstaan van wie deze wordt afgelegd de identiteit vast van de persoon die de verklaring aflegt. Hij bepaalt tevens, voor zover mogelijk, welke andere personen door deze afstand hun Nederlanderschap zullen verliezen.
-
-3. De persoon die in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=I&artikel=3&z=2017-03-01&g=2017-03-01) een verklaring van afstand heeft afgelegd, ontvangt daarvan onverwijld een bevestiging, die tevens, voor zoveel mogelijk, de namen vermeldt van de personen die door deze afstand hun Nederlanderschap hebben verloren.
-
-##### Artikel 64
-
-1. De in het [tweede lid van artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=V&paragraaf=1&artikel=63&z=2017-03-01&g=2017-03-01) genoemde autoriteit, niet zijnde Onze Minister, zendt de verklaring van afstand alsmede een afschrift van de bevestiging toe aan Onze Minister; hij behoudt een afschrift daarvan.
-
-2. Hij zendt bovendien een afschrift van de bevestiging aan de autoriteit die verantwoordelijk is voor het bijhouden in de basisadministratie van de gegevens over de persoon die de afstand betreft. Met betrekking tot personen die in hun land woonachtig zijn, zendt hij tevens een afschrift van de verklaring van afstand en van de bevestiging aan de Minister van Justitie van Aruba, Curaçao en Sint Maarten.
-
-3. Voorzoveel van toepassing bevordert de autoriteit ten overstaan van wie een verklaring van afstand is afgelegd, alsmede de in het voorgaande lid bedoelde autoriteit die een afschrift van de bevestiging bedoeld in het [derde lid van artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=V&paragraaf=1&artikel=63&z=2017-03-01&g=2017-03-01) heeft ontvangen, dat
-
-- a. de verklaring van afstand van het Nederlanderschap in de basisadministratie wordt verwerkt;
-
-- b. de Nederlandse reisdocumenten die waren uitgereikt aan de personen die door of als gevolg van de afstand het Nederlanderschap hebben verloren, overeenkomstig de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) worden ingenomen;
-
-- c. indien van toepassing: de betrokkenen worden verwezen naar de Vreemdelingendienst van de politie.
-
-#### Paragraaf 2. Verlies door intrekking van het Nederlanderschap
-
-##### Artikel 65
-
-De autoriteiten en ambtenaren bevoegd tot het in ontvangst nemen van optieverklaringen en naturalisatieverzoeken die in de uitoefening van hun ambt kennis krijgen van valse verklaringen of bedrog, dan wel van de verzwijging van enig relevant feit dat geleid heeft tot de verkrijging of verlening van het Nederlanderschap, melden dit onverwijld aan Onze Minister, zo nodig onder medezending van afschriften van op de zaak betrekkelijke stukken.
-
-#### Paragraaf 3. Procedure van intrekking van het Nederlanderschap
-
-##### Artikel 66
-
-1. Indien Onze Minister het voornemen heeft een besluit te nemen tot intrekking van het besluit waarbij het Nederlanderschap is verkregen of verleend, als bedoeld in [artikel 14, eerste lid, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14), doet hij daarvan schriftelijk mededeling aan de bij de intrekking rechtstreeks betrokken persoon of personen alsmede aan de autoriteit die de optieverklaring of het naturalisatieverzoek in ontvangst genomen heeft. Indien Onze Minister het voornemen heeft een besluit te nemen tot intrekking van het Nederlanderschap, als bedoeld in artikel 14, tweede of derde lid, van de Rijkswet, doet hij daarvan schriftelijk mededeling aan de bij de intrekking rechtstreeks betrokken persoon of personen.
-
-2. Heeft de betrokken persoon een bekende woon- of verblijfplaats, dan wordt de mededeling aan dat adres gezonden; heeft hij geen bekende woon- of verblijfplaats, dan wordt de mededeling gezonden aan zijn laatst bekende adres in het Europese deel van Nederland, Aruba, Curaçao of Sint Maarten dan wel de openbare lichamen Bonaire, Sint Eustatius of Saba of door tussenkomst van het Ministerie van Buitenlandse Zaken aan zijn laatst bekende adres in het buitenland.
-
-3. Indien Onze Minister zulks noodzakelijk acht, geeft hij van zijn voornemen kennis door uitreiking van de in het eerste lid bedoelde mededeling.
-
-4. Indien Onze Minister zulks noodzakelijk acht, geeft hij van zijn voornemen tevens kennis in een of meer van de lokale bladen van de vermoedelijke verblijfplaats van betrokkenen of in de daarvoor bestemde officiële publicatiebladen, al naar gelang die verblijfplaats.
-
-5. Onder rechtstreeks betrokken persoon wordt in dit artikel verstaan de Nederlander op wie het in het eerste lid bedoelde voornemen betrekking heeft, alsmede, voor zover zij bij het voornemen een rechtstreeks belang hebben, zijn kinderen en adoptiefkinderen, alsmede zijn echtgenoot of geregistreerde partner. Bij ministeriële regeling kunnen andere personen als betrokken worden aangemerkt.
-
-6. In de in het eerste lid bedoelde mededelingen vermeldt Onze Minister ten minste
-
-- a. de zakelijke inhoud en korte redengeving van zijn voorgenomen besluit,
-
-- b. de mogelijkheid voor betrokkenen of de genoemde autoriteiten om hun bedenkingen tegen dit voornemen in te brengen, en op welke wijze en binnen welke termijn dit kan geschieden,
-
-- c. dat degene die schriftelijke bedenkingen inbrengt, kan verzoeken dat zijn persoonlijke gegevens niet worden vermeld.
-
-##### Artikel 67
-
-Onze Minister zendt van de ingebrachte bedenkingen een afschrift aan de in het [eerste lid van artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=V&paragraaf=3&artikel=66&z=2017-03-01&g=2017-03-01) genoemde personen en indien van toepassing autoriteit.
-
-##### Artikel 68
-
-Bij zijn besluit tot intrekking van het Nederlanderschap op grond van [artikel 14, eerste lid, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) houdt Onze Minister onder meer rekening met de aard en ernst van de valse verklaring, het bedrog of de verzwijging, de mogelijke staatloosheid van betrokkene na de intrekking, alsook met de tijdsduur die sinds de verkrijging of verlening verlopen is, de gevolgen van het verlies van Unieburgerschap, indien dit ten gevolge van de intrekking van het Nederlanderschap optreedt en de overige relevante factoren.
-
-##### Artikel 69
-
-1. Onze Minister neemt een besluit tot intrekking op grond van [artikel 14, eerste, tweede of derde lid, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) uiterlijk binnen zestien weken nadat hij de in het [eerste lid van artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=V&paragraaf=3&artikel=66&z=2017-03-01&g=2017-03-01) bedoelde mededeling gedaan heeft.
-
-2. Het besluit tot intrekking als bedoeld in [artikel 14, eerste tot en met vierde lid, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) vermeldt de personen wier Nederlanderschap is ingetrokken.
-
-##### Artikel 70
-
-1. Nadat Onze Minister op grond van artikel 14, eerste tot en met vierde lid, of [artikel 15, eerste lid, aanhef en onder d of e, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) een besluit tot intrekking heeft genomen, zendt hij een afschrift van het besluit aan de persoon wiens Nederlanderschap is ingetrokken, aan de autoriteit die verantwoordelijk is voor het bijhouden in de basisadministratie van de gegevens over de desbetreffende persoon of aan Onze Minister van Buitenlandse Zaken. Indien de intrekking is gebaseerd op artikel 14, eerste lid, of artikel 15, eerste lid, aanhef en onder d of e, wordt tevens een afschrift gezonden aan de autoriteit die de optieverklaring of het naturalisatieverzoek in ontvangst heeft genomen. Hij zendt, zo nodig, een afschrift aan andere betrokken instanties. Het [tweede, derde en vierde lid van artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=V&paragraaf=3&artikel=66&z=2017-03-01&g=2017-03-01) zijn van overeenkomstige toepassing.
-
-2. Voorzoveel van toepassing, bevordert de autoriteit die dit afschrift heeft ontvangen, dat
-
-- a. het besluit tot intrekking van het Nederlanderschap in de basisadministratie wordt verwerkt;
-
-- b. de Nederlandse reisdocumenten die waren uitgereikt aan de personen die het Nederlanderschap hebben verloren, overeenkomstig de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) worden ingenomen;
-
-- c. de betrokkenen worden verwezen naar de Vreemdelingendienst van de politie;
-
-- d. de daarvoor in aanmerking komende akten van de burgerlijke stand worden gewijzigd.
-
-3. Nadat Onze Minister van Buitenlandse Zaken in kennis is gesteld van het besluit tot intrekking bevordert hij dat de handelingen genoemd in het tweede lid, onder b en d, worden verricht.
-
-4. Nadat Onze Minister op grond van [artikel 14, vierde lid, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) een besluit tot intrekking heeft genomen, draagt hij er zorg voor dat betrokkene onderscheidenlijk zijn reisdocument wordt geregistreerd in het Schengen informatiesysteem II en de Stolen and Lost Travel Documents database.
-
-### Hoofdstuk VI. – Overgangs- en slotbepalingen
-
-##### Artikel 71
-
-Wijzigt het Consulaire besluit.
-
-##### Artikel 72
-
-Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit besluit.
-
-##### Artikel 73
-
-1. Dit besluit is niet van toepassing op optieverklaringen en verzoeken om naturalisatie, alsmede op verklaringen van afstand ingediend vóór de datum van inwerkingtreding van dit besluit.
-
-2. Verklaringen bedoeld als bewijs van het bezit van het Nederlanderschap te dienen, die zijn afgegeven voor de datum van inwerkingtreding van dit besluit, worden als zodanig aanvaard, indien zij zijn verstrekt door een Nederlandse, Nederlands-Antilliaanse of Arubaanse autoriteit.
-
-##### Artikel 74
-
-1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-2. Dit besluit wordt aangehaald als: Besluit verkrijging en verlies Nederlanderschap.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba zal worden geplaatst.
-
 ##### Artikel 60a
 
 1. Tenzij anders bepaald, treedt de bevestiging van de verkrijging van het Nederlanderschap als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=II&paragraaf=2&artikel=11&z=2017-03-01&g=2017-03-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=II&paragraaf=3&artikel=17&z=2017-03-01&g=2017-03-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=II&paragraaf=4&artikel=23&z=2017-03-01&g=2017-03-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=II&paragraaf=5&artikel=29&z=2017-03-01&g=2017-03-01), in werking door de uitreiking ervan aan de optant door of namens de tot bevestiging bevoegde autoriteit. De bevestiging werkt terug tot de dag van de dagtekening.
@@ -892,73 +742,99 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk IV. – Bewijs van Nederlanderschap
 
-### Hoofdstuk IIIA. Bekendmaking van de verkrijging van het Nederlanderschap
+##### Artikel 61
 
-#### Paragraaf 1. Verlies door een verklaring van afstand
+1. Als verklaring omtrent het bezit van het Nederlanderschap, bedoeld in [artikel 15, vierde lid van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) en in [artikel V, tweede lid van de Rijkswet van 21 december 2000, Stb. 618, tot wijziging van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V) met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap, geldt:
 
-#### Paragraaf 2. Verlies door intrekking van het Nederlanderschap
+- a. de onherroepelijke rechterlijke beschikking waarbij het Nederlanderschap is vastgesteld;
 
-#### Paragraaf 3. Procedure van intrekking van het Nederlanderschap
+- b. een uittreksel uit de basisadministratie, waaruit blijkt dat de betrokkene als Nederlander is aangemerkt; of
 
-### Hoofdstuk VI. – Overgangs- en slotbepalingen
+- c. een verklaring afgegeven door Onze Minister van Buitenlandse Zaken, waaruit blijkt dat de betrokkene Nederlander is.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba zal worden geplaatst.
+2. Een verklaring omtrent het bezit van het Nederlanderschap wordt alleen op aanvraag van de betrokken persoon verstrekt.
 
-#### Paragraaf 6. Administratieve handelingen inzake de afstandsverplichting
+3. De documenten genoemd onder b en c van het eerste lid dienen de woorden te bevatten: Verklaring omtrent het bezit van het Nederlanderschap, en van een datum van verstrekking en een dienststempel te zijn voorzien.
 
-##### Artikel 30a
-
-Bij ministeriële regeling kan na overleg met de Ministers van Algemene Zaken van Aruba, Curaçao en Sint Maarten worden bepaald in welke gevallen het doen van afstand, als bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6a), niet zal worden verlangd.
-
-##### Artikel 30b
-
-1. Indien een optant verplicht is om na de totstandkoming van de optie het mogelijke te zullen doen om zijn andere nationaliteit of nationaliteiten te verliezen, wordt hem na de optie door Onze Minister bericht dat hij binnen een termijn van drie maanden een verzoek moet doen tot afstand van die andere nationaliteit of nationaliteiten. Van dit bericht wordt een afschrift gezonden aan de autoriteit die de optieverklaring in ontvangst heeft genomen.
-
-2. Heeft de optant het verzoek tot afstand dan wel een verklaring van afstand bij de autoriteiten van het land of de landen van zijn andere nationaliteit of nationaliteiten ingediend of aangeboden en is daarover door deze nog geen beslissing genomen, dan verzoekt Onze Minister na zes maanden de betrokkene hem te informeren over de stand van zaken met betrekking tot het verlies van de andere nationaliteit of nationaliteiten.
-
-3. Verlenen de autoriteiten van het land van de andere nationaliteit geen of onvoldoende medewerking aan het verzoek of de verklaring van afstand, dan beslist Onze Minister over de gevolgen daarvan voor de afstandsverplichting.
-
-##### Artikel 30c
-
-1. Wordt Onze Minister het bewijs overgelegd dat de andere nationaliteit of een der andere nationaliteiten is verloren, dan zendt hij een gewaarmerkt afschrift daarvan aan de autoriteit die de optieverklaring in ontvangst heeft genomen.
-
-2. De autoriteit die de optieverklaring in ontvangst heeft genomen, aan wie het bewijs van het verlies van een andere nationaliteit wordt overgelegd, zendt een gewaarmerkt afschrift daarvan aan Onze Minister.
-
-3. Onze Minister dan wel de in het tweede lid bedoelde autoriteit zendt tevens een gewaarmerkt afschrift aan de autoriteit die verantwoordelijk is voor het bijhouden in de basisadministratie van de gegevens over de persoon wiens verlies van die andere nationaliteit het betreft.
-
-4. De in het derde lid bedoelde autoriteit bevordert, voor zover van toepassing, dat het verlies van de andere nationaliteit of nationaliteiten in de desbetreffende basisadministratie wordt verwerkt.
-
-##### Artikel 30d
-
-Tenzij hij wegens de omstandigheden van het geval anders beslist, gaat Onze Minister na verloop van de in het eerste lid van [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=II&paragraaf=6&artikel=30b&z=2017-03-01&g=2017-03-01) bepaalde termijn over tot de intrekking van het besluit waarbij het Nederlanderschap is verkregen.
-
-### Hoofdstuk III. – Administratieve behandeling van naturalisatieverzoeken
-
-#### Paragraaf 1. Indiening van naturalisatieverzoeken – algemene bepalingen
-
-#### Paragraaf 2. Administratieve behandeling van naturalisatieverzoeken in het Europese deel van Nederland
-
-#### Paragraaf 3. Administratieve behandeling van naturalisatieverzoeken in de openbare lichamen Bonaire, Sint Eustatius en Saba
-
-#### Paragraaf 4. Administratieve behandeling van naturalisatieverzoeken in Aruba, Curaçao en Sint Maarten
-
-#### Paragraaf 5. Administratieve behandeling van naturalisatieverzoeken in het buitenland
-
-#### Paragraaf 6. Administratieve handelingen inzake de afstandsverplichting
-
-### Hoofdstuk IV. – Bewijs van Nederlanderschap
+4. Bij ministeriële regeling kan worden bepaald welke andere documenten als verklaring omtrent het bezit van het Nederlanderschap kunnen dienen.
 
 ### Hoofdstuk V. – Verlies van het Nederlanderschap
 
 #### Paragraaf 1. Verlies door een verklaring van afstand
 
+##### Artikel 62
+
+1. Een verklaring van afstand van het Nederlanderschap als bedoeld in [artikel 15, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15), of als bedoeld in [artikel 16, eerste lid, aanhef en onder b, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) wordt schriftelijk afgelegd. De verklaring vermeldt dat de persoon die de verklaring aflegt, bekend is met [artikel 16, eerste lid, aanhef en onder d, en tweede lid van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16).
+
+2. Aan de verklaring van afstand wordt zo nodig een bewijs toegevoegd dat de verklarende persoon en, in voorkomend geval, de minderjarige personen die in zijn afstand delen een andere nationaliteit bezitten.
+
+3. Indien de verklaring een minderjarige betreft, wordt zo nodig tevens een bewijs van de nationaliteit van de vader en moeder of adoptiefouder toegevoegd.
+
+##### Artikel 63
+
+1. Een verklaring van afstand van het Nederlanderschap wordt afgelegd:
+
+- a. in het Europese deel van Nederland: voor de burgemeester;
+
+- b. in een openbaar lichaam: voor Onze Minister;
+
+- c. in Aruba, Curaçao en Sint Maarten: voor de Gouverneur;
+
+- d. in het buitenland: voor Onze Minister van Buitenlandse Zaken.
+
+2. Alvorens de verklaring in ontvangst te nemen stelt de autoriteit ten overstaan van wie deze wordt afgelegd de identiteit vast van de persoon die de verklaring aflegt. Hij bepaalt tevens, voor zover mogelijk, welke andere personen door deze afstand hun Nederlanderschap zullen verliezen.
+
+3. De persoon die in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=I&artikel=3&z=2017-03-01&g=2017-03-01) een verklaring van afstand heeft afgelegd, ontvangt daarvan onverwijld een bevestiging, die tevens, voor zoveel mogelijk, de namen vermeldt van de personen die door deze afstand hun Nederlanderschap hebben verloren.
+
+##### Artikel 64
+
+1. De in het [tweede lid van artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=V&paragraaf=1&artikel=63&z=2017-03-01&g=2017-03-01) genoemde autoriteit, niet zijnde Onze Minister, zendt de verklaring van afstand alsmede een afschrift van de bevestiging toe aan Onze Minister; hij behoudt een afschrift daarvan.
+
+2. Hij zendt bovendien een afschrift van de bevestiging aan de autoriteit die verantwoordelijk is voor het bijhouden in de basisadministratie van de gegevens over de persoon die de afstand betreft. Met betrekking tot personen die in hun land woonachtig zijn, zendt hij tevens een afschrift van de verklaring van afstand en van de bevestiging aan de Minister van Justitie van Aruba, Curaçao en Sint Maarten.
+
+3. Voorzoveel van toepassing bevordert de autoriteit ten overstaan van wie een verklaring van afstand is afgelegd, alsmede de in het voorgaande lid bedoelde autoriteit die een afschrift van de bevestiging bedoeld in het [derde lid van artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=V&paragraaf=1&artikel=63&z=2017-03-01&g=2017-03-01) heeft ontvangen, dat
+
+- a. de verklaring van afstand van het Nederlanderschap in de basisadministratie wordt verwerkt;
+
+- b. de Nederlandse reisdocumenten die waren uitgereikt aan de personen die door of als gevolg van de afstand het Nederlanderschap hebben verloren, overeenkomstig de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) worden ingenomen;
+
+- c. indien van toepassing: de betrokkenen worden verwezen naar de Vreemdelingendienst van de politie.
+
 #### Paragraaf 2. Verlies door intrekking van het Nederlanderschap
+
+##### Artikel 65
+
+De autoriteiten en ambtenaren bevoegd tot het in ontvangst nemen van optieverklaringen en naturalisatieverzoeken die in de uitoefening van hun ambt kennis krijgen van valse verklaringen of bedrog, dan wel van de verzwijging van enig relevant feit dat geleid heeft tot de verkrijging of verlening van het Nederlanderschap, melden dit onverwijld aan Onze Minister, zo nodig onder medezending van afschriften van op de zaak betrekkelijke stukken.
 
 #### Paragraaf 3. Procedure van intrekking van het Nederlanderschap
 
-### Hoofdstuk VI. – Overgangs- en slotbepalingen
+##### Artikel 66
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba zal worden geplaatst.
+1. Indien Onze Minister het voornemen heeft een besluit te nemen tot intrekking van het besluit waarbij het Nederlanderschap is verkregen of verleend, als bedoeld in [artikel 14, eerste lid, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14), doet hij daarvan schriftelijk mededeling aan de bij de intrekking rechtstreeks betrokken persoon of personen alsmede aan de autoriteit die de optieverklaring of het naturalisatieverzoek in ontvangst genomen heeft. Indien Onze Minister het voornemen heeft een besluit te nemen tot intrekking van het Nederlanderschap, als bedoeld in artikel 14, tweede of derde lid, van de Rijkswet, doet hij daarvan schriftelijk mededeling aan de bij de intrekking rechtstreeks betrokken persoon of personen.
+
+2. Heeft de betrokken persoon een bekende woon- of verblijfplaats, dan wordt de mededeling aan dat adres gezonden; heeft hij geen bekende woon- of verblijfplaats, dan wordt de mededeling gezonden aan zijn laatst bekende adres in het Europese deel van Nederland, Aruba, Curaçao of Sint Maarten dan wel de openbare lichamen Bonaire, Sint Eustatius of Saba of door tussenkomst van het Ministerie van Buitenlandse Zaken aan zijn laatst bekende adres in het buitenland.
+
+3. Indien Onze Minister zulks noodzakelijk acht, geeft hij van zijn voornemen kennis door uitreiking van de in het eerste lid bedoelde mededeling.
+
+4. Indien Onze Minister zulks noodzakelijk acht, geeft hij van zijn voornemen tevens kennis in een of meer van de lokale bladen van de vermoedelijke verblijfplaats van betrokkenen of in de daarvoor bestemde officiële publicatiebladen, al naar gelang die verblijfplaats.
+
+5. Onder rechtstreeks betrokken persoon wordt in dit artikel verstaan de Nederlander op wie het in het eerste lid bedoelde voornemen betrekking heeft, alsmede, voor zover zij bij het voornemen een rechtstreeks belang hebben, zijn kinderen en adoptiefkinderen, alsmede zijn echtgenoot of geregistreerde partner. Bij ministeriële regeling kunnen andere personen als betrokken worden aangemerkt.
+
+6. In de in het eerste lid bedoelde mededelingen vermeldt Onze Minister ten minste
+
+- a. de zakelijke inhoud en korte redengeving van zijn voorgenomen besluit,
+
+- b. de mogelijkheid voor betrokkenen of de genoemde autoriteiten om hun bedenkingen tegen dit voornemen in te brengen, en op welke wijze en binnen welke termijn dit kan geschieden,
+
+- c. dat degene die schriftelijke bedenkingen inbrengt, kan verzoeken dat zijn persoonlijke gegevens niet worden vermeld.
+
+##### Artikel 67
+
+Onze Minister zendt van de ingebrachte bedenkingen een afschrift aan de in het [eerste lid van artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=V&paragraaf=3&artikel=66&z=2017-03-01&g=2017-03-01) genoemde personen en indien van toepassing autoriteit.
+
+##### Artikel 68
+
+Bij zijn besluit tot intrekking van het Nederlanderschap op grond van [artikel 14, eerste lid, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) houdt Onze Minister onder meer rekening met de aard en ernst van de valse verklaring, het bedrog of de verzwijging, de mogelijke staatloosheid van betrokkene na de intrekking, alsook met de tijdsduur die sinds de verkrijging of verlening verlopen is, de gevolgen van het verlies van Unieburgerschap, indien dit ten gevolge van de intrekking van het Nederlanderschap optreedt en de overige relevante factoren.
 
 ##### Artikel 68a
 
@@ -990,20 +866,62 @@ Bij zijn besluit tot intrekking van het Nederlanderschap op grond van [artikel 1
 
 2. Intrekking van het Nederlanderschap vindt niet plaats indien de met de intrekking verband houdende ongewenstverklaring in strijd zou zijn met artikel 8 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.
 
+##### Artikel 69
+
+1. Onze Minister neemt een besluit tot intrekking op grond van [artikel 14, eerste, tweede of derde lid, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) uiterlijk binnen zestien weken nadat hij de in het [eerste lid van artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=V&paragraaf=3&artikel=66&z=2017-03-01&g=2017-03-01) bedoelde mededeling gedaan heeft.
+
+2. Het besluit tot intrekking als bedoeld in [artikel 14, eerste tot en met vierde lid, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) vermeldt de personen wier Nederlanderschap is ingetrokken.
+
+##### Artikel 70
+
+1. Nadat Onze Minister op grond van artikel 14, eerste tot en met vierde lid, of [artikel 15, eerste lid, aanhef en onder d of e, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) een besluit tot intrekking heeft genomen, zendt hij een afschrift van het besluit aan de persoon wiens Nederlanderschap is ingetrokken, aan de autoriteit die verantwoordelijk is voor het bijhouden in de basisadministratie van de gegevens over de desbetreffende persoon of aan Onze Minister van Buitenlandse Zaken. Indien de intrekking is gebaseerd op artikel 14, eerste lid, of artikel 15, eerste lid, aanhef en onder d of e, wordt tevens een afschrift gezonden aan de autoriteit die de optieverklaring of het naturalisatieverzoek in ontvangst heeft genomen. Hij zendt, zo nodig, een afschrift aan andere betrokken instanties. Het [tweede, derde en vierde lid van artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=V&paragraaf=3&artikel=66&z=2017-03-01&g=2017-03-01) zijn van overeenkomstige toepassing.
+
+2. Voorzoveel van toepassing, bevordert de autoriteit die dit afschrift heeft ontvangen, dat
+
+- a. het besluit tot intrekking van het Nederlanderschap in de basisadministratie wordt verwerkt;
+
+- b. de Nederlandse reisdocumenten die waren uitgereikt aan de personen die het Nederlanderschap hebben verloren, overeenkomstig de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) worden ingenomen;
+
+- c. de betrokkenen worden verwezen naar de Vreemdelingendienst van de politie;
+
+- d. de daarvoor in aanmerking komende akten van de burgerlijke stand worden gewijzigd.
+
+3. Nadat Onze Minister van Buitenlandse Zaken in kennis is gesteld van het besluit tot intrekking bevordert hij dat de handelingen genoemd in het tweede lid, onder b en d, worden verricht.
+
+4. Nadat Onze Minister op grond van [artikel 14, vierde lid, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) een besluit tot intrekking heeft genomen, draagt hij er zorg voor dat betrokkene onderscheidenlijk zijn reisdocument wordt geregistreerd in het Schengen informatiesysteem II en de Stolen and Lost Travel Documents database.
+
 ##### Artikel 70a
 
 Het bevoegd orgaan, bedoeld in [artikel 22B, vijfde lid, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=22b) is:
 
-- a. **in het Europese deel van Nederland:** het bestuur van de raad voor rechtsbijstand;
+- a. *in het Europese deel van Nederland:* het bestuur van de raad voor rechtsbijstand;
 
-- b. **in een openbaar lichaam:** de Minister van Veiligheid en Justitie van Nederland;
+- b. *in een openbaar lichaam:* de Minister van Veiligheid en Justitie van Nederland;
 
-- c. **in Aruba:** de Minister van Sociale zaken, Jeugd en Arbeid;
+- c. *in Aruba:* de Minister van Sociale zaken, Jeugd en Arbeid;
 
-- d. **in Curaçao:** de Minister van Sociale Ontwikkeling, Arbeid en Welzijn;
+- d. *in Curaçao:* de Minister van Sociale Ontwikkeling, Arbeid en Welzijn;
 
-- e. **in Sint Maarten:** de Minister van Volksgezondheid, Sociale Ontwikkeling en Arbeid.
+- e. *in Sint Maarten:* de Minister van Volksgezondheid, Sociale Ontwikkeling en Arbeid.
 
 ### Hoofdstuk VI. – Overgangs- en slotbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba zal worden geplaatst.
+##### Artikel 71
+
+*Wijzigt het Consulaire besluit.*
+
+##### Artikel 72
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit besluit.
+
+##### Artikel 73
+
+1. Dit besluit is niet van toepassing op optieverklaringen en verzoeken om naturalisatie, alsmede op verklaringen van afstand ingediend vóór de datum van inwerkingtreding van dit besluit.
+
+2. Verklaringen bedoeld als bewijs van het bezit van het Nederlanderschap te dienen, die zijn afgegeven voor de datum van inwerkingtreding van dit besluit, worden als zodanig aanvaard, indien zij zijn verstrekt door een Nederlandse, Nederlands-Antilliaanse of Arubaanse autoriteit.
+
+##### Artikel 74
+
+1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. Dit besluit wordt aangehaald als: Besluit verkrijging en verlies Nederlanderschap.

@@ -1,42 +1,17 @@
 ---
 title: "Regeling inschrijving Nederlandse burgerluchtvaartuigen"
 identifier: "BWBR0012878"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012878"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "5096513"
-version_id: "9156052"
-internal_id: "C12178921"
-label_id: "5072334"
-dtd_version: "2.0"
-original_entry_into_force: "2001-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012878/2024-01-01/0"
-intitule_bron: "Stcrt.2001-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-10-08"
-intitule_published: "2001-10-12"
-intitule_in_force: "2001-10-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-198"
-original_signed_date: "2001-10-08"
-original_published_date: "2001-10-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-10-15"
-jci_1_3: "jci1.3:c:BWBR0012878&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0012878&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2001-10-08"
-entry_into_force: "2001-10-15"
+publicatiedatum: 2001-10-15
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0012878"
+opgehaald: 2026-08-06
 ---
+
 # Regeling inschrijving Nederlandse burgerluchtvaartuigen
-
-Gelet op de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.2), [3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.3), [3.5, vijfde lid van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.5) en [artikel 3 van het Besluit luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=3);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -44,17 +19,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** degene op wiens naam de minister een luchtvaartuig zal inschrijven indien deze aan de hier gestelde regels voldoet;
+- *aanvrager:* degene op wiens naam de minister een luchtvaartuig zal inschrijven indien deze aan de hier gestelde regels voldoet;
 
-- **CAMO:** ingevolge bijlage V quater (Part CAMO) bij verordening (EU) nr. 1321/2014 erkende management organisatie voor blijvende luchtwaardigheid (Continuing Airworthiness Management Organisation);
+- *CAMO:* ingevolge bijlage V quater (Part CAMO) bij verordening (EU) nr. 1321/2014 erkende management organisatie voor blijvende luchtwaardigheid (Continuing Airworthiness Management Organisation);
 
-- **CAO:** ingevolge bijlage V quinquies (Part CAO) bij [verordening (EG) nr. 1321/2014](32014R1321) erkende organisatie voor blijvende luchtwaardigheid (Continuing Airworthiness Organisation);
+- *CAO:* ingevolge bijlage V quinquies (Part CAO) bij verordening (EG) nr. 1321/2014 erkende organisatie voor blijvende luchtwaardigheid (Continuing Airworthiness Organisation);
 
-- **Luchtvaartprotocol:** het op 6 november 2001 te Kaapstad tot stand gekomen Protocol bij het Verdrag inzake internationale zakelijke rechten op mobiel materieel betreffende voor luchtvaartuigmaterieel specifieke aangelegenheden (Trb. 2009, 86);
+- *Luchtvaartprotocol:* het op 6 november 2001 te Kaapstad tot stand gekomen Protocol bij het Verdrag inzake internationale zakelijke rechten op mobiel materieel betreffende voor luchtvaartuigmaterieel specifieke aangelegenheden (Trb. 2009, 86);
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **register:** Nederlandse register voor burgerluchtvaartuigen.
+- *register:* Nederlandse register voor burgerluchtvaartuigen.
+
+##### Artikel 1a
+
+Deze regeling berust op de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.2), [3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.3), en [3.5, vijfde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.5) en [artikel 4 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=4).
 
 ##### Artikel 2
 
@@ -96,9 +75,9 @@ De houder van het luchtvaartuig is verplicht de minister zo spoedig mogelijk in 
 
 - b. een bewijs dat:
 
-- 1°. het luchtvaartuig niet, dan wel niet meer in het buitenland is ingeschreven, of
+   - 1° het luchtvaartuig niet, dan wel niet meer in het buitenland is ingeschreven, of
 
-- 2°. het luchtvaartuig ingevolge de artikelen IX, eerste lid, onderdeel a, en vijfde lid, onderdelen a en b, en XIII van het Luchtvaartprotocol uit een buitenlands register had moeten worden gederegistreerd.
+   - 2° het luchtvaartuig ingevolge de artikelen IX, eerste lid, onderdeel a, en vijfde lid, onderdelen a en b, en XIII van het Luchtvaartprotocol uit een buitenlands register had moeten worden gederegistreerd.
 
 3. Wanneer het tweede lid, onderdeel b, onder 2°, van toepassing is wordt tevens ingediend correspondentie die aantoont dat de gemachtigde partij, of de door hem aangewezen persoon, overeenkomstig de artikelen IX, eerste lid, onderdeel a, en vijfde lid, onderdelen a en b, en XIII van het Luchtvaartprotocol het buitenlands register om de doorhaling van de inschrijving van het luchtvaartuig heeft verzocht en dat ondanks dat het verzoek naar behoren is ingediend de deregistratie niet heeft plaatsgevonden.
 
@@ -188,7 +167,7 @@ Onverminderd het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 #### § 8. In het register op te nemen gegevens
 
@@ -244,9 +223,9 @@ In het register wordt aantekening gehouden van:
 
 - b. op de staartvlakken de kenmerken op de horizontale en de verticale staartvlakken worden aangebracht, waarbij:
 
-- 1°. De kenmerken op de horizontale staartvlakken worden aangebracht op de rechterhelft aan de bovenzijde en op de linkerhelft aan de onderzijde;
+   - 1°. De kenmerken op de horizontale staartvlakken worden aangebracht op de rechterhelft aan de bovenzijde en op de linkerhelft aan de onderzijde;
 
-- 2°. De kenmerken op de verticale staartvlakken worden aangebracht op elke zijde van de staartvlakken met de kenmerken horizontaal.
+   - 2°. De kenmerken op de verticale staartvlakken worden aangebracht op elke zijde van de staartvlakken met de kenmerken horizontaal.
 
 3. Op ballonnen worden de kenmerken aangebracht als volgt:
 
@@ -325,37 +304,3 @@ Deze regeling treedt in werking met ingang van 15 oktober 2001.
 ##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling inschrijving Nederlandse burgerluchtvaartuigen.
-
-## Bijlage 1. bij artikel 12
-
-## Bijlage 1. bij artikel 12
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.2), [3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.3), en [3.5, vijfde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.5) en [artikel 4 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=4).
-
-#### § 2. In te dienen gegevens met betrekking tot het luchtvaartuig
-
-#### § 3. In te dienen gegevens met betrekking tot de aanvrager
-
-#### § 4. Wijziging van de inschrijving
-
-#### § 5. Vernieuwing van het bewijs van inschrijving
-
-#### § 6. Doorhaling van de inschrijving
-
-#### § 7. Model van bewijs van inschrijving
-
-#### § 8. In het register op te nemen gegevens
-
-#### § 9. Nationaliteitskenmerken en inschrijvingskenmerken
-
-#### § 10. Slotbepalingen
-
-## Bijlage 2. bij artikel 17
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

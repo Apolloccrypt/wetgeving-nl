@@ -1,36 +1,16 @@
 ---
 title: "Mogelijkheid om een intrasectoraal programma (ISP) later in te voeren"
 identifier: "BWBR0013859"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2002-07-31"
-last_updated: "2002-07-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013859"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6444343"
-version_id: "11116142"
-internal_id: "C15031361"
-label_id: "6433104"
-original_entry_into_force: "2002-07-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013859/2002-07-31/0"
-intitule_bron: "Uitleg.2002-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-07-05"
-intitule_published: "2002-07-31"
-intitule_in_force: "2002-07-31"
-intitule_status: "goed"
-original_publication: "Uitleg.2002-18"
-original_signed_date: "2002-07-05"
-original_published_date: "2002-07-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-07-31"
-jci_1_3: "jci1.3:c:BWBR0013859&z=2002-07-31&g=2002-07-31"
-jci_1_0: "1.0:c:BWBR0013859&g=2002-07-31"
-citeertitel_status: "redactioneel"
-signed_date: "2002-07-05"
-entry_into_force: "2002-07-31"
+publicatiedatum: 2002-07-31
+laatste_update: 2002-07-31
+status: geldig
+toestand: 2002-07-31
+bron: "https://wetten.overheid.nl/BWBR0013859"
+opgehaald: 2026-08-06
 ---
+
 # Mogelijkheid om een intrasectoraal programma (ISP) later in te voeren
 
 ### Intrasectorale programma’s
@@ -51,10 +31,16 @@ In het besluit tot goedkeuring van een isp is het tijdstip van invoering van het
 
 ### B. Geen leerlingen gedurende twee achtereenvolgende schooljaren
 
-In [artikel 26m van het Inrichtingsbesluit W.V.O.](onbekend) is bepaald dat de toestemming voor het verzorgen van een isp van rechtswege vervalt met ingang van een schooljaar indien het desbetreffende isp gedurende de twee daaraan voorafgaande schooljaren door geen leerlingen is bezocht (peildatum is 1 oktober). Dit is analoog aan de regeling die geldt voor het vbo. Het gaat hier om een isp dat, in enig jaar, daadwerkelijk is ingevoerd.
+In artikel 26m van het Inrichtingsbesluit W.V.O. is bepaald dat de toestemming voor het verzorgen van een isp van rechtswege vervalt met ingang van een schooljaar indien het desbetreffende isp gedurende de twee daaraan voorafgaande schooljaren door geen leerlingen is bezocht (peildatum is 1 oktober). Dit is analoog aan de regeling die geldt voor het vbo. Het gaat hier om een isp dat, in enig jaar, daadwerkelijk is ingevoerd.
 
 ### Afwijkende beleidslijn t.a.v. isp’s die nog niet per 1 augustus 2001 (of 1 augustus 2002) zijn ingevoerd
 
 De minister hecht veel waarde aan een zorgvuldige invoering van de isp’s.
 
 Daarom zal de volgende beleidslijn worden gehanteerd voor isp’s die op basis van de beschikking per 1 augustus 2001 of 1 augustus 2002 zouden moeten worden ingevoerd:
+
+- scholen die een op 1 augustus 2001 (of per 1 augustus 2002) goedgekeurd isp nog niet hebben ingevoerd krijgen de gelegenheid de invoering alsnog te realiseren per 1 augustus 2002 of uiterlijk 1 augustus 2003 (deze laatste datum is opgenomen gelet ook op de late verschijning van deze mededeling die invoering per 1 augustus 2002 moeilijk realiseerbaar maakt);
+
+- scholen die een goedgekeurd isp niet willen aanbieden, moeten dit melden aan Cfi team BVO, AOC’s aan het ministerie van LNV directie DWK; de toestemming komt vervolgens te vervallen (en de eventuele verstrekte financiële faciliteiten moeten worden terugbetaald);
+
+- goedkeuring komt van rechtswege te vervallen voor die isp’s, waarvoor invoering op grond van het besluit zou moeten plaatsvinden per 1 augustus 2001 of 1 augustus 2002, die op 1 augustus 2003 nog niet zijn ingevoerd omdat uit de integrale leerlingtelling van 1 oktober 2003 blijkt dat er 0 leerlingen zijn in het 3e leerjaar (in dat geval moeten de eventuele verstrekte financiële faciliteiten worden terugbetaald).

@@ -1,37 +1,16 @@
 ---
 title: "Uitwisseling persoonsgegevens tussen Nederland, de Nederlandse Antillen en Aruba"
 identifier: "BWBR0012779"
-country: "nl"
-rank: "circulaire"
-publication_date: "2001-09-01"
-last_updated: "2001-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012779"
+categorie: "Digitaal en privacy"
 soort: "circulaire"
-stam_id: "6414073"
-version_id: "11081252"
-internal_id: "C14993131"
-label_id: "6403054"
-original_entry_into_force: "2001-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012779/2001-09-01/0"
-intitule_bron: "Stcrt.2001-167"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-08-24"
-intitule_published: "2001-08-30"
-intitule_in_force: "2001-08-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-167"
-original_signed_date: "2001-08-24"
-original_published_date: "2001-08-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-167-p6-SC30708"
-entry_into_force_date: "2001-09-01"
-jci_1_3: "jci1.3:c:BWBR0012779&z=2001-09-01&g=2001-09-01"
-jci_1_0: "1.0:c:BWBR0012779&g=2001-09-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-08-24"
-entry_into_force: "2001-09-01"
+publicatiedatum: 2001-09-01
+laatste_update: 2001-09-01
+status: geldig
+toestand: 2001-09-01
+bron: "https://wetten.overheid.nl/BWBR0012779"
+opgehaald: 2026-08-06
 ---
+
 # Uitwisseling persoonsgegevens tussen Nederland, de Nederlandse Antillen en Aruba
 
 ### 1. Algemeen
@@ -112,72 +91,6 @@ De feitelijke startdatum van de gegevensuitwisseling is vastgesteld op 1 septemb
 
 ### 7. Overige aandachtspunten
 
-Wellicht ten overvloede merk ik op dat de regeling rond de inschrijving van minderjarige Antillianen, ten aanzien van wie niet in het wettelijk gezag is voorzien, onverkort van toepassing blijft. Deze regeling voorziet erin dat, indien het vermoeden bestaat dat een Antilliaanse minderjarige, die zich in de GBA wil laten inschrijven, niet onder dat gezag staat, hiervan melding dient te worden gemaakt bij de Raad voor de Kinderbescherming. Een en ander is beschreven in een brief van 27 juli 2000 aan de gemeenten met kenmerk AJC00/79439 ([Voogdijregeling Antilliaanse Jongeren](onbekend)).
+Wellicht ten overvloede merk ik op dat de regeling rond de inschrijving van minderjarige Antillianen, ten aanzien van wie niet in het wettelijk gezag is voorzien, onverkort van toepassing blijft. Deze regeling voorziet erin dat, indien het vermoeden bestaat dat een Antilliaanse minderjarige, die zich in de GBA wil laten inschrijven, niet onder dat gezag staat, hiervan melding dient te worden gemaakt bij de Raad voor de Kinderbescherming. Een en ander is beschreven in een brief van 27 juli 2000 aan de gemeenten met kenmerk AJC00/79439 (Voogdijregeling Antilliaanse Jongeren).
 
 Indien u nog vragen heeft over de inhoud van deze circulaire kunt u contact opnemen met de Infodesk van het agentschap BPR: telefoonnummer 070-3622435.
-
-## Contactpersonen Nederlandse Antillen en Aruba
-
-### Aruba
-
-Roberto Pablo
-
-Tel.: 00 297 823196
-
-Fax: 00 297 839160
-
-pivaruba@setarnet.aw
-
-### Bonaire
-
-Walter V. Coffie
-
-Tel.: 00 599 7 175330 / III
-
-Tel.: 00 599 7 172767
-
-Fax: 00 599 7 175258
-
-afdbev@bonairelive.com
-
-### Curaçao
-
-Charles do Rego
-
-Tel.: 00 599 9 4341642
-
-Fax: 00 599 9 4618166
-
-bsbvcur@ibm.net
-
-### Saba
-
-Merlene Sorton
-
-Tel.: 00 599 4 163311
-
-Tel.: 00 599 4 163497
-
-Fax: 00 599 4 163274
-
-census@unspoiledqueen.com
-
-### Sint Eustatius
-
-Elfrieda Maduro
-
-Tel.: 00 599 3 182497
-
-Fax: 00 599 3 182963
-
-censtatia@sintmaarten.net
-
-### Sint Maarten
-
-Alberto Matthew
-
-Tel.: 00 599 5 425375
-
-Fax: 00 599 5 424267
-
-censussm@sintmaarten.net

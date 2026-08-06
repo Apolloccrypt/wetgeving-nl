@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0037661"
-opgehaald: 2026-08-05
+opgehaald: 2026-08-06
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016, nr. MBO/794457, houdende de vaststelling van het model kwalificatiedossier mbo, het model keuzedeel mbo, inclusief de bij de modellen behorende instructie en het toetsingskader kwalificatiestructuur mbo (Regeling vaststelling modellen kwalificatiedossier en keuzedeel en toetsingskader kwalificatiestructuur mbo 2016)

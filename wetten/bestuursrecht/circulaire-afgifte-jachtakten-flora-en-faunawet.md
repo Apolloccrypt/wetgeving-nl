@@ -1,42 +1,17 @@
 ---
 title: "Circulaire Afgifte jachtakten Flora- en faunawet"
 identifier: "BWBR0013704"
-country: "nl"
-rank: "circulaire"
-publication_date: "2002-05-24"
-last_updated: "2002-05-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013704"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6249483"
-version_id: "10930812"
-internal_id: "C14821721"
-label_id: "6238654"
-original_entry_into_force: "2002-05-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013704/2002-05-24/0"
-intitule_bron: "Stcrt.2002-96"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-05-23"
-intitule_published: "2002-05-24"
-intitule_in_force: "2002-05-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-96"
-original_signed_date: "2002-05-23"
-original_published_date: "2002-05-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2002-096-p10-SC34666"
-entry_into_force_date: "2002-05-24"
-jci_1_3: "jci1.3:c:BWBR0013704&z=2002-05-24&g=2002-05-24"
-jci_1_0: "1.0:c:BWBR0013704&g=2002-05-24"
-citeertitel_status: "redactioneel"
-signed_date: "2002-05-23"
-entry_into_force: "2002-05-24"
+publicatiedatum: 2002-05-24
+laatste_update: 2002-05-24
+status: geldig
+toestand: 2002-05-24
+bron: "https://wetten.overheid.nl/BWBR0013704"
+opgehaald: 2026-08-06
 ---
+
 # Circulaire Afgifte jachtakten Flora- en faunawet
-
-De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,
-
-in overeenstemming met de Minister van Justitie;
 
 ### Paragraaf 1. Aanleiding
 
@@ -74,13 +49,21 @@ De bevoegdheid tot het nemen van beschikkingen tot intrekken van jachtakten beru
 
 Tegen beschikkingen omtrent het verlenen of intrekken van jachtakten kan bezwaar worden aangetekend bij de korpschef die het betreffende besluit heeft genomen.
 
-Indien de jachtakte door de korpschef is geweigerd of ingetrokken om redenen als bedoeld in [artikel 39, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=39), of [artikel 41, eerste lid, aanhef en onderdeel c, van de Flora- en Faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=41) ('vrees voor misbruik' in de zin van onderdeel B/4.3. van de [Circulaire wapens en munitie](onbekend)) staat administratief beroep open bij de Minister van Justitie. Het spreekt voor zich dat ook administratief beroep openstaat bij de Minister van Justitie indien een jachtakte, naast de grond van 'vrees voor misbruik', mede op andere gronden wordt geweigerd of ingetrokken.
+Indien de jachtakte door de korpschef is geweigerd of ingetrokken om redenen als bedoeld in [artikel 39, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=39), of [artikel 41, eerste lid, aanhef en onderdeel c, van de Flora- en Faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=41) ('vrees voor misbruik' in de zin van onderdeel B/4.3. van de Circulaire wapens en munitie) staat administratief beroep open bij de Minister van Justitie. Het spreekt voor zich dat ook administratief beroep openstaat bij de Minister van Justitie indien een jachtakte, naast de grond van 'vrees voor misbruik', mede op andere gronden wordt geweigerd of ingetrokken.
 
 ### Paragraaf 4. : Verlenen jachtakte
 
 Een jachtakte kan slechts worden verleend indien voldaan is aan de volgende voorwaarden:
 
-Is aan de bovengenoemde voorwaarden voldaan dan heeft de aanvrager een redelijk belang bij het voorhanden hebben van de voor de jacht bestemde wapens en munitie van de categorie III, tenzij er andere redenen zijn om de jachtakte niet te verlenen in verband met 'vrees voor misbruik' gebaseerd op de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) en nader uitgewerkt in onderdeel B/4.3. van de [Circulaire wapens en munitie](onbekend).
+- a. de aanvrager heeft de leeftijd van achttien jaar bereikt;
+
+- b. de aanvrager heeft genoegzaam aangetoond in de gelegenheid te zijn om met gebruikmaking van een geweer te jagen in een jachtveld, waarin hem het genot van de jacht overeenkomstig de artikelen 33 of 34 toekomt of waarin hem de uitoefening van dat genot overeenkomstig het bepaalde bij of krachtens artikel 36 is toegestaan;
+
+- c. de aanvrager heeft aangetoond met gunstig gevolg een door de Minister van Landbouw, Natuurbeheer en Visserij erkend jachtexamen te hebben afgelegd en
+
+- d. de aanvrager heeft een geldig bewijs van verzekering als bedoeld in [artikel 54, zesde lid, van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=54) overgelegd.
+
+Is aan de bovengenoemde voorwaarden voldaan dan heeft de aanvrager een redelijk belang bij het voorhanden hebben van de voor de jacht bestemde wapens en munitie van de categorie III, tenzij er andere redenen zijn om de jachtakte niet te verlenen in verband met 'vrees voor misbruik' gebaseerd op de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) en nader uitgewerkt in onderdeel B/4.3. van de Circulaire wapens en munitie.
 
 Bij de besluitvorming tot het al dan niet verlenen van een jachtakte wordt beoordeeld of er grond is om aan te nemen dat de aanvrager van de bevoegdheid om te jagen, of , voorzover van toepassing, van de bevoegdheid om wapens of munitie voorhanden te hebben, misbruik zal maken of hierdoor een gevaar voor zichzelf, de openbare orde of de veiligheid kan gaan vormen of dat de aanvrager nalatig zal zijn te doen wat een goed jager betaamt bij de uitoefening van de jacht. Een jachtakte mag niet worden verleend als aan aanvrager de bevoegdheid om te jagen is ontzegd bij een rechterlijke uitspraak, welke voor tenuitvoerlegging vatbaar is geworden, en de tijd, voor welke die bevoegdheid is ontzegd, nog niet is verstreken of als aanvrager in de twee jaren, voorafgaande aan het verzoek tot het verkrijgen van een jachtakte, wegens één der bij of krachtens de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) strafbaar gestelde feiten, dan wel wegens een feit strafbaar gesteld bij de [Wet op de dierenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0002351) of de [Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662) voorzover het gedragingen in [hoofdstuk III van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&hoofdstuk=III), betreft, is veroordeeld of indien hij de vervolging deswege overeenkomstig de bepalingen van [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) heeft voorkomen.
 
@@ -90,7 +73,7 @@ Teneinde te kunnen beoordelen of aanvrager de leeftijd van 18 jaar heeft bereikt
 
 ### Ad b. gelegenheid om met geweer te jagen in jachtveld/genot van de jacht
 
-Aangetoond moet worden dat degene voor wie de jachtakte bestemd is in de gelegenheid is tot het jagen in een jachtveld dat voldoet aan de eisen als gesteld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011848&artikel=10) en [11 van het Jachtbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011848&artikel=11). Het genot van de jacht met gebruikmaking van een geweer mag alleen worden uitgeoefend in een jachtveld met een aaneengesloten oppervlakte van ten minste 40 hectare per jachthouder waarop deze als zodanig bevoegd is te jagen en bovendien ten minste zoveel maal 40 hectare als er behalve de jachthouder zelf ook anderen bevoegd zijn te jagen uit hoofde van een schriftelijke toestemming als bedoeld in [artikel 36, tweede lid, van de wet](onbekend) (uitoefenen van de jacht buiten gezelschap van de jachthouder). De cumulatieve eis van 40 hectare geldt niet voor jachtopzichters, noch voor personen die het genot van de jacht in gezelschap van de jachthouder uitoefenen. De berekening van de oppervlakte van een jachtveld is nader uitgewerkt in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011848&artikel=10) en [11 van het Jachtbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011848&artikel=11).
+Aangetoond moet worden dat degene voor wie de jachtakte bestemd is in de gelegenheid is tot het jagen in een jachtveld dat voldoet aan de eisen als gesteld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011848&artikel=10) en [11 van het Jachtbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011848&artikel=11). Het genot van de jacht met gebruikmaking van een geweer mag alleen worden uitgeoefend in een jachtveld met een aaneengesloten oppervlakte van ten minste 40 hectare per jachthouder waarop deze als zodanig bevoegd is te jagen en bovendien ten minste zoveel maal 40 hectare als er behalve de jachthouder zelf ook anderen bevoegd zijn te jagen uit hoofde van een schriftelijke toestemming als bedoeld in artikel 36, tweede lid, van de wet (uitoefenen van de jacht buiten gezelschap van de jachthouder). De cumulatieve eis van 40 hectare geldt niet voor jachtopzichters, noch voor personen die het genot van de jacht in gezelschap van de jachthouder uitoefenen. De berekening van de oppervlakte van een jachtveld is nader uitgewerkt in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011848&artikel=10) en [11 van het Jachtbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011848&artikel=11).
 
 Aanvrager dient aan te geven waar het jachtveld dat zal worden bejaagd is gelegen en dient aan te tonen dat het jachtveld voldoet aan de hierboven omschreven eisen.
 
@@ -98,7 +81,19 @@ Bovendien dient aanvrager aan te geven uit hoofde waarvan de gelegenheid tot jag
 
 Men kan gerechtigd zijn tot het genot van de jacht op grond van de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=33) of [34 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=34), als:
 
+- - eigenaar van de grond;
+
+- - erfpachter, vruchtgebruiker, beklemde meier of pachter;
+
+- - huurder of
+
+- - wederhuurder.
+
 De gelegenheid tot jagen kan ook bestaan uit hoofde van een toestemming van de jachthouder op grond van [artikel 36 Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=36):
+
+- - toestemming van de jachthouder om het genot van de jacht in diens gezelschap uit te oefenen of
+
+- - schriftelijke en gedagtekende toestemming van de jachthouder om het genot van de jacht buiten diens gezelschap uit te oefenen.
 
 Op grond van stukken en bescheiden dient te worden aangetoond uit welke hoofde het genot van de jacht zal worden uitgeoefend.
 
@@ -138,6 +133,14 @@ Voor bijschrijving van geweren/munitie die in het kader van beheer en schadebest
 
 Onverminderd de overige bepalingen van de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) is er sprake van een redelijk belang in de volgende gevallen:
 
+- 1. bij gebruik van een vergunning of ontheffing verleend krachtens de Vogelwet 1936, de [Jachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002155) en artikel 25 van de Natuurbeschermingswet, voorzover de vergunning of ontheffing nog van kracht is;
+
+- 2. bij gebruik van een ontheffing die verleend is krachtens [artikel 68 Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=68);
+
+- 3. bij uitoefening van de bevoegdheden verleend op grond van [artikel 67 Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=67) of
+
+- 4. indien kan worden aangetoond dat niet langer dan drie jaar voor het tijdstip van het verzoek tot bijschrijving op de jachtakte gebruik is gemaakt van een vergunning of ontheffing als bedoeld onder 1, 2 of 3.
+
 Het redelijk belang kan worden aangetoond door overlegging van een kopie van de betreffende ontheffing, vergunning of opdracht. Indien een ontheffing, vergunning of opdracht is verleend aan een Wildbeheereenheid, een Faunabeheereenheid of een andere rechtspersoon, dient aangetoond te worden dat men tot het gebruik daartoe gerechtigd is. Dat kan bijvoorbeeld door aan te tonen dat men een bij de betreffende Wildbeheereenheid of Faunabeheereenheid aangesloten jachthouder is.
 
 Uit de betreffende ontheffing, vergunning of opdracht moet blijken dat het gebruik van groot-kaliber wapens en munitie is toegestaan. Het moet dus gaan om een ontheffing, vergunning of opdracht om dieren te doden, waarbij het dieren betreft waarvoor het betreffende groot-kaliber geweer en munitie is toegestaan.
@@ -150,9 +153,23 @@ Onder de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) b
 
 Het verlenen van ondersteuning bij de uitvoering van bevoegdheden in het kader van beheer en schadebestrijding is mogelijk onder de volgende voorwaarden:
 
+- a. De mogelijkheid tot ondersteuning dient in de ontheffing, die op grond van [artikel 68 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=68) wordt verleend, of in de opdracht als bedoeld in [artikel 67 Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=67) te zijn opgenomen;
+
+- b. schriftelijke uitnodiging om bij de uitvoering van de op grond van de [artikelen 67](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=67) of [68 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=68) verleende ontheffing ondersteuning te verlenen;
+
+- c. onverminderd [artikel 67, vierde lid, Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=67), schriftelijke toestemming van de grondgebruiker voor het betreden van zijn grond;
+
+- d. ondersteuning is alleen mogelijk in aanwezigheid van de betreffende jachtaktehouder.
+
 Het zogenaamde incidentele gebruik van groot-kaliber wapens in het kader van ondersteuning ten behoeve van beheer en schadebestrijding is een redelijk belang.
 
 Er is sprake van een redelijk belang in de volgende gevallen:
+
+- 1. indien kan worden aangetoond dat ondersteuning wordt verleend bij de uitoefening van bevoegdheden op grond van een vergunning verleend krachtens de [Jachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002155), voorzover de vergunning nog van kracht is;
+
+- 2. indien kan worden aangetoond dat ondersteuning wordt verleend bij de uitoefening van bevoegdheden verleend op grond van de [artikelen 67](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=67) of [68 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=68) of
+
+- 3. indien kan worden aangetoond dat niet langer dan drie jaar voor het tijdstip van het verzoek tot bijschrijving op de jachtakte ondersteuning is verleend bij de uitoefening van bevoegdheden als bedoeld onder 1 en 2.
 
 Ondersteuning kan worden aangetoond door overlegging van schriftelijke bewijzen, zoals een uitnodiging of verzoek tot ondersteuning of een verklaring van degene die daartoe bevoegd is dat de aanvrager is uitgenodigd/verzocht tot ondersteuning, een kopie van de betreffende vergunning of ontheffing en voorzover van toepassing een schriftelijke toestemming van de grondgebruiker aan de ondersteunende jachtaktehouder voor het betreden van zijn grond in het kader van beheer en schadebestrijding als bedoeld in de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640). Indien het bewijs is overgelegd, dan is er sprake van een redelijk belang voor bijschrijving van de voor het noodzakelijk afschot benodigde wapens en munitie.
 
@@ -171,5 +188,3 @@ Administratief beroep bij de Minister van Justitie kan niet worden ingesteld, te
 Op de jachtakte mogen alleen wapens en munitie worden bijgeschreven die in het kader van de jacht of beheer en schadebestrijding op grond van de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) in Nederland worden gebruikt.
 
 Wapens en munitie die uitsluitend worden gebruikt in het buitenland kunnen niet op de jachtakte worden bijgeschreven. Een redelijk belang in het kader van jacht of beheer en schadebestrijding in Nederland in de zin van de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) ontbreekt.
-
-Deze circulaire zal in de Staatscourant worden geplaatst.

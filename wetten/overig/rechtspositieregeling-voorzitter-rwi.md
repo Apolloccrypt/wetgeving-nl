@@ -1,58 +1,33 @@
 ---
 title: "Rechtspositieregeling voorzitter RWI"
 identifier: "BWBR0013254"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-07-01"
-last_updated: "2012-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013254"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3824293"
-version_id: "5607102"
-internal_id: "C5800191"
-label_id: "3803984"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013254/2012-07-01/0"
-intitule_bron: "Stcrt.2001-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-20"
-intitule_published: "2001-12-27"
-intitule_in_force: "2001-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-249"
-original_signed_date: "2001-12-20"
-original_published_date: "2001-12-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0013254&z=2012-07-01&g=2012-07-01"
-jci_1_0: "1.0:c:BWBR0013254&g=2012-07-01"
-citeertitel_status: "officieel"
-signed_date: "2001-12-20"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2012-07-01
+status: geldig
+toestand: 2012-07-01
+bron: "https://wetten.overheid.nl/BWBR0013254"
+opgehaald: 2026-08-06
 ---
+
 # Rechtspositieregeling voorzitter RWI
-
-Gelet op [artikel 16, zevende lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=16);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2. Bezoldiging
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3. Kostenvergoedingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4. Verlof
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5. Arbeidsongeschiktheid
 
@@ -68,18 +43,16 @@ In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, ge
 
 ##### Artikel 7. Functievervulling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8. Uitvoering van deze regeling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9. Citeertitel
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10. Grondslag
 
 Deze regeling berust op [artikel 83v van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=83v).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

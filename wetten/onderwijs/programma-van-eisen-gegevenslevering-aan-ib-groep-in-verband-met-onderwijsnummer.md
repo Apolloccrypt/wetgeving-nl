@@ -1,41 +1,25 @@
 ---
 title: "Programma van eisen gegevenslevering aan IB-Groep in verband met onderwijsnummer voortgezet onderwijs (vo)"
 identifier: "BWBR0013893"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2002-10-02"
-last_updated: "2002-10-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013893"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6444513"
-version_id: "11116212"
-internal_id: "C15031501"
-label_id: "6433174"
-original_entry_into_force: "2002-10-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013893/2002-10-02/0"
-intitule_bron: "Uitleg.2002-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-07-14"
-intitule_published: "2002-07-31"
-intitule_in_force: "2002-07-31"
-intitule_status: "goed"
-original_publication: "Uitleg.2002-18"
-original_signed_date: "2002-07-14"
-original_published_date: "2002-07-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-10-02"
-jci_1_3: "jci1.3:c:BWBR0013893&z=2002-10-02&g=2002-10-02"
-jci_1_0: "1.0:c:BWBR0013893&g=2002-10-02"
-citeertitel_status: "redactioneel"
-signed_date: "2002-07-14"
-entry_into_force: "2002-10-02"
+publicatiedatum: 2002-10-02
+laatste_update: 2002-10-02
+status: geldig
+toestand: 2002-10-02
+bron: "https://wetten.overheid.nl/BWBR0013893"
+opgehaald: 2026-08-06
 ---
+
 # Programma van eisen gegevenslevering aan IB-Groep in verband met onderwijsnummer voortgezet onderwijs (vo)
 
 Op aangeven van de leveranciers van verschillende administratiepakketten binnen het VO is besloten om de technische specificaties op twee punten voor de periode tot 1-22003 aan te passen. Deze aanpassingen zijn opgenomen in het PvE versie 0.2.
 
 Het betreft de volgende twee aanpassingen:
+
+- 1 De IB-Groep zal in de periode tot 1-2-2003 geen gegevens betreffende de tweede nationaliteit van de leerling aanleveren (zie hoofdstuk 5.2.2.3.). Dit heeft totgevolg dat in die gevallen waarin zowel sprake is van een Nederlandse als een andere nationaliteit alleen de Nederlandse wordt aangeleverd. In die gevallen waarin sprake is van twee nationaliteiten waarvan geen van beide de Nederlandse is zal die nationaliteit worden aangeleverd waarvoor de laagste nationaliteitscode wordt gehanteerd.
+
+- 2 In de versie 0.1 van de technische specificaties waren geen posities gereserveerd voor een pincode. Aangezien dit in sommige administratiepakketten wel het geval is, zullen in de technische specificaties (opgenomen in de aangepaste versie 0.2) de posities voor een pincode in het bestand afkomstig van de scholen tot 1 februari 2003 gereserveerd worden opgenomen. Op de betreffende posities hoeft geen pincode meer te zijn ingevuld, maar kan worden volstaan met een aantal spaties gelijk aan de lengte van de eerdere pincode, waardoor de posities van de overige gegevens in het bestand gelijk blijven.
 
 In de aangepaste versie van het PvE (versie 0.2) voor de periode tot 1-2-2003 zijn de aanpassingen gearceerd aangegeven (pagina 10 onder 5.2.2.3 en 18 onder 5.3.2.5).
 

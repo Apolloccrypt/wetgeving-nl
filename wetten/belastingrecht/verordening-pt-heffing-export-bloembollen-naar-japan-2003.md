@@ -1,54 +1,24 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het jaar 2003 (Verordening PT heffing export bloembollen naar Japan 2003)"
+citeertitel: "Verordening PT heffing export bloembollen naar Japan 2003"
 identifier: "BWBR0013846"
-country: "nl"
-rank: "pbo"
-publication_date: "2002-12-21"
-last_updated: "2002-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013846"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6186593"
-version_id: "10870072"
-internal_id: "C14723481"
-label_id: "6175774"
-original_entry_into_force: "2002-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013846/2002-12-21/0"
-intitule_bron: "Vbbo.2002-80"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-07-03"
-intitule_published: "2002-12-20"
-intitule_in_force: "2002-12-20"
-intitule_status: "goed"
-original_publication: "Vbbo.2002-80"
-original_signed_date: "2002-07-03"
-original_published_date: "2002-12-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-12-21"
-jci_1_3: "jci1.3:c:BWBR0013846&z=2002-12-21&g=2002-12-21"
-jci_1_0: "1.0:c:BWBR0013846&g=2002-12-21"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing export bloembollen naar Japan 2003"
-signed_date: "2002-07-03"
-entry_into_force: "2002-12-21"
+publicatiedatum: 2002-12-21
+laatste_update: 2002-12-21
+status: geldig
+toestand: 2002-12-21
+bron: "https://wetten.overheid.nl/BWBR0013846"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het jaar 2003 (Verordening PT heffing export bloembollen naar Japan 2003)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 14](onbekend), [15](onbekend) en [19 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend);
-
-gehoord de sectorcommissie Bollen, knollen en wortelstokken van bloemgewassen, 4 juni 2002;
-
-BESLUIT:
-
-Abusievelijk is de terugwerkende kracht gesteld op 1 januari 2003.
 
 #### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
-1. In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 2](onbekend) en [3 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend).
+1. In deze verordening worden overgenomen de begripsbepalingen van de artikelen 2 en 3 van de Instellingsverordening Productschap Tuinbouw 1998.
 
 2. In deze verordening wordt verstaan onder:
 
@@ -95,7 +65,7 @@ Abusievelijk is de terugwerkende kracht gesteld op 1 januari 2003.
 
 ##### Artikel 5
 
-Indien een heffingsplichtige gegevens die hem krachtens deze verordening of de [Verordening PT Algemene bepalingen](onbekend) ten behoeve van de onderhavige verordening zijn gevraagd niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met € 40,= in verband met administratiekosten.
+Indien een heffingsplichtige gegevens die hem krachtens deze verordening of de Verordening PT Algemene bepalingen ten behoeve van de onderhavige verordening zijn gevraagd niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met € 40,= in verband met administratiekosten.
 
 ##### Artikel 6
 
@@ -160,5 +130,3 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 ##### Artikel 14
 
 Deze verordening, wordt aangehaald als Verordening PT heffing export bloembollen naar Japan 2003.
-
-Deze verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

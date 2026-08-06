@@ -1,42 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 7 november 2002, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2003 (Verordening GZP financieringsheffing jaar 2003)"
+citeertitel: "Verordening GZP financieringsheffing jaar 2003"
 identifier: "BWBR0014197"
-country: "nl"
-rank: "pbo"
-publication_date: "2003-01-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014197"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6027073"
-version_id: "10641602"
-internal_id: "C14456761"
-label_id: "6016544"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014197/2003-01-01/0"
-intitule_bron: "Vbbo.2002-85"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-11-07"
-intitule_published: "2002-12-27"
-intitule_in_force: "2002-12-27"
-intitule_status: "goed"
-original_publication: "Vbbo.2002-85"
-original_signed_date: "2002-11-07"
-original_published_date: "2002-12-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-01-01"
-jci_1_3: "jci1.3:c:BWBR0014197&z=2003-01-01&g=2003-01-01"
-jci_1_0: "1.0:c:BWBR0014197&g=2003-01-01"
-citeertitel_status: "officieel"
-short_title: "Verordening GZP financieringsheffing jaar 2003"
-signed_date: "2002-11-07"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2003-01-01
+status: geldig
+toestand: 2003-01-01
+bron: "https://wetten.overheid.nl/BWBR0014197"
+opgehaald: 2026-08-06
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 7 november 2002, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2003 (Verordening GZP financieringsheffing jaar 2003)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 eerste lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 5](onbekend), [6](onbekend) en [7 van de Instellingsverordening akkerbouwproductschappen 1997](onbekend);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -90,13 +66,13 @@ De heffing bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/j
 
 ##### Artikel 6
 
-1. De ondernemer bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014197&paragraaf=2&artikel=2&z=2003-01-01&g=2003-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014197&paragraaf=2&artikel=3&z=2003-01-01&g=2003-01-01) is verplicht binnen tien dagen na afloop van ieder kwartaal door middel van een hiertoe dienend opgaveformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de in genoemde artikelen bedoelde heffing. De [Verordening Algemene Bepalingen GZP 1980](onbekend) is hierbij van toepassing.
+1. De ondernemer bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014197&paragraaf=2&artikel=2&z=2003-01-01&g=2003-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014197&paragraaf=2&artikel=3&z=2003-01-01&g=2003-01-01) is verplicht binnen tien dagen na afloop van ieder kwartaal door middel van een hiertoe dienend opgaveformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de in genoemde artikelen bedoelde heffing. De Verordening Algemene Bepalingen GZP 1980 is hierbij van toepassing.
 
 2. Ook indien in een bepaalde periode geen activiteiten als vermeld op het opgaveformulier hebben plaatsgevonden dient een opgave te worden gedaan.
 
 ##### Artikel 7
 
-1. De ondernemer bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014197&paragraaf=2&artikel=4&z=2003-01-01&g=2003-01-01), is verplicht jaarlijks vóór 1 oktober door middel van een hiertoe dienend opgaveformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014197&paragraaf=2&artikel=4&z=2003-01-01&g=2003-01-01) bedoelde heffing. De [Verordening Algemene Bepalingen GZP 1980](onbekend) is hierbij van toepassing.
+1. De ondernemer bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014197&paragraaf=2&artikel=4&z=2003-01-01&g=2003-01-01), is verplicht jaarlijks vóór 1 oktober door middel van een hiertoe dienend opgaveformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014197&paragraaf=2&artikel=4&z=2003-01-01&g=2003-01-01) bedoelde heffing. De Verordening Algemene Bepalingen GZP 1980 is hierbij van toepassing.
 
 2. De heffing bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014197&paragraaf=2&artikel=4&z=2003-01-01&g=2003-01-01), wordt door het productschap geïnd door middel van de in het [eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014197&paragraaf=2&artikel=4&z=2003-01-01&g=2003-01-01) bedoelde ondernemers op basis van de door hen afgesloten teeltcontracten.
 
@@ -134,7 +110,7 @@ Aan de ondernemer die niet of niet geheel binnen de in [artikel 10](https://wett
 
 ##### Artikel 13
 
-Deze verordening treedt in werking met ingang van 1 januari 2003. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2003, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2003, met uitzondering van de toepassing van de [Verordening Algemene Bepalingen GZP 1980](onbekend).
+Deze verordening treedt in werking met ingang van 1 januari 2003. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2003, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2003, met uitzondering van de toepassing van de Verordening Algemene Bepalingen GZP 1980.
 
 ##### Artikel 14
 

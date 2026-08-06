@@ -1,46 +1,47 @@
 ---
 title: "Beleidsregels compensatie meldingsplichtige vuurwerkbedrijven"
 identifier: "BWBR0013587"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2002-04-26"
-last_updated: "2002-04-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013587"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "3813923"
-version_id: "5596762"
-internal_id: "C5789851"
-label_id: "3793644"
-dtd_version: "2.0"
-original_entry_into_force: "2002-04-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013587/2002-04-26/0"
-intitule_bron: "Stcrt.2002-79"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-04-10"
-intitule_published: "2002-04-24"
-intitule_in_force: "2002-04-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-79"
-original_signed_date: "2002-04-10"
-original_published_date: "2002-04-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-04-26"
-jci_1_3: "jci1.3:c:BWBR0013587&z=2002-04-26&g=2002-04-26"
-jci_1_0: "1.0:c:BWBR0013587&g=2002-04-26"
-citeertitel_status: "officieel"
-signed_date: "2002-04-10"
-entry_into_force: "2002-04-26"
+publicatiedatum: 2002-04-26
+laatste_update: 2002-04-26
+status: geldig
+toestand: 2002-04-26
+bron: "https://wetten.overheid.nl/BWBR0013587"
+opgehaald: 2026-08-06
 ---
-# Beleidsregels compensatie meldingsplichtige vuurwerkbedrijven
 
-Besluit:
+# Beleidsregels compensatie meldingsplichtige vuurwerkbedrijven
 
 ### Hoofdstuk 1. Algemene Bepalingen
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze beleidsregels wordt verstaan onder:
+
+a.
+
+de minister:
+
+de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+
+b.
+
+verzoeker:
+
+degene die een inrichting drijft, waar ten hoogste 1000 kilogram consumentenvuurwerk wordt opgeslagen en als zodanig een melding heeft gedaan aan het bevoegd gezag als bedoeld in artikel 4 van het Besluit opslag vuurwerk milieubeheer;
+
+c.
+
+inkomensschade:
+
+verlies van het inkomen uit opslag en verkoop van consumentenvuurwerk door het niet meer kunnen opslaan en verkopen van vuurwerk;
+
+d.
+
+desinvesteringsschade:
+
+de resterende fiscale boekwaarde van de onderdelen van het verkooppunt en de opslag die uitsluitend worden benut dan wel zijn aangeschaft met het oog op de verkoop van vuurwerk en welke door inwerkingtreding van het [Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360) overbodig of waardeloos zijn geworden.
 
 ##### Artikel 2. Schade
 
@@ -97,5 +98,3 @@ Deze beleidsregels treden in werking met ingang van de tweede dag na de dagteken
 ##### Artikel 10. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels compensatie meldingsplichtige vuurwerkbedrijven.
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.

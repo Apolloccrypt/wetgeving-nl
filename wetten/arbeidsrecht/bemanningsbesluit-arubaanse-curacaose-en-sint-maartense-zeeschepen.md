@@ -1,54 +1,18 @@
 ---
 title: "Besluit van 22 januari 2002, houdende regels omtrent de bemanning van zeeschepen, varende onder de vlag van het Koninkrijk met een Nederlands-Antilliaanse of Arubaanse zeebrief (Bemanningsbesluit Nederlands-Antilliaanse en Arubaanse zeeschepen)"
+citeertitel: "Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen"
 identifier: "BWBR0013361"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013361"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijksKB"
-stam_id: "1664493"
-version_id: "2456682"
-internal_id: "C2456681"
-label_id: "1619224"
-dtd_version: "2.0"
-original_entry_into_force: "2002-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013361/2010-10-10/0"
-intitule_bron: "Stb.2002-44"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-01-22"
-intitule_published: "2002-01-31"
-intitule_in_force: "2002-01-31"
-intitule_status: "goed"
-original_publication: "Stb.2002-44"
-original_signed_date: "2002-01-22"
-original_published_date: "2002-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-44"
-entry_into_force_date: "2002-02-01"
-jci_1_3: "jci1.3:c:BWBR0013361&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0013361&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen"
-signed_date: "2002-01-22"
-entry_into_force: "2002-02-01"
+publicatiedatum: 2002-02-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0013361"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 22 januari 2002, houdende regels omtrent de bemanning van zeeschepen, varende onder de vlag van het Koninkrijk met een Nederlands-Antilliaanse of Arubaanse zeebrief (Bemanningsbesluit Nederlands-Antilliaanse en Arubaanse zeeschepen)
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 30 oktober 2001, nr. DGG/J-01/006289, Directoraat-Generaal Goederenvervoer, Stafafdeling Wetgeving, Bestuurlijke en Juridische Zaken;
-
-Overwegende, dat de herziening op 7 juli 1995 van het Internationale Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978, het noodzakelijk maakt de bepalingen ten aanzien van de opleiding en diplomering van zeevarenden die dienst doen op Nederlands-Antilliaanse en Arubaanse schepen opnieuw vast te stellen, daarbij tevens uitvoering gevend aan de bepalingen inzake de bemanning van zeeschepen van het Internationale Verdrag tot beveiliging van mensenlevens op zee, 1974, een en ander met inachtneming van de desbetreffende bepalingen van het Wetboek van Koophandel van de Nederlandse Antillen, onderscheidenlijk Aruba;
-
-Gelet op [artikel 4, tweede lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=4), op het op 7 juli 1978 te Londen tot stand gekomen Internationale Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978 (Trb. 1981, 144), op Hoofdstuk III, voorschrift 10, en voorschrift 24–1.3, Hoofdstuk IV, voorschrift 16, Hoofdstuk V, voorschrift 13, en Hoofdstuk X, voorschriften 1, 2 en 3, van het op 1 november 1974 te Londen tot stand gekomen Internationale Verdrag tot beveiliging van mensenlevens op zee, 1974 (Trb. 1976, 157), en op het op 27 juni 1946 te Seattle tot stand gekomen Verdrag No. 74 van de Internationale Arbeidsorganisatie inzake de diplomering van volmatrozen (Stb. I 330);
-
-De Raad van State van het Koninkrijk gehoord (advies van 5 december 2001, No. W09.01 0561/V/K);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 18 januari 2002, nr. HDJZ/SCH/2002–79, Hoofddirectie Juridische Zaken;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Definities en reikwijdte
 
@@ -250,7 +214,7 @@ Op aanvraag van de scheepsbeheerder kan het hoofd van de Scheepvaartinspectie to
 
 ##### Artikel 17
 
-1. Aan boord van een schip dat reizen onderneemt buiten het zeegebied A1, zoals omschreven in [artikel 2 van Bijlage V van het Schepenbesluit 1965](onbekend), is ten minste één persoon die kan optreden als chef van de wacht, bedoeld in sectie A-VIII/2, onderdeel 1 van de STCW-Code, in het bezit van een algemeen certificaat «maritieme radiocommunicatie», afgegeven in overeenstemming met de wettelijke voorschriften dienaangaande van Aruba, Curaçao, onderscheidenlijk Sint Maarten.
+1. Aan boord van een schip dat reizen onderneemt buiten het zeegebied A1, zoals omschreven in artikel 2 van Bijlage V van het Schepenbesluit 1965, is ten minste één persoon die kan optreden als chef van de wacht, bedoeld in sectie A-VIII/2, onderdeel 1 van de STCW-Code, in het bezit van een algemeen certificaat «maritieme radiocommunicatie», afgegeven in overeenstemming met de wettelijke voorschriften dienaangaande van Aruba, Curaçao, onderscheidenlijk Sint Maarten.
 
 2. Eén van deze personen is door de kapitein aangewezen als de verantwoordelijke persoon voor de afhandeling van radioberichtgeving tijdens noodgevallen. Alle andere personen die als chef van de wacht kunnen optreden zijn in het bezit van het beperkte certificaat «maritieme radiocommunicatie».
 
@@ -344,33 +308,33 @@ Een vaarbevoegdheidsbewijs of een aanvulling daarop kan vernieuwd worden, indien
 
 - a. voor de functies van kapitein en stuurman:
 
-- –. loods, werkzaam in Aruba, Curaçao of Sint Maarten;
+   - – loods, werkzaam in Aruba, Curaçao of Sint Maarten;
 
-- –. registerloods;
+   - – registerloods;
 
-- –. gecertificeerd Noordzeeloods;
+   - – gecertificeerd Noordzeeloods;
 
-- –. nautisch expert van een klassebureau,
+   - – nautisch expert van een klassebureau,
 
-- –. medewerker van nautische inspecties van rederijen, en
+   - – medewerker van nautische inspecties van rederijen, en
 
-- –. ambtenaar van de Scheepvaartinspectie, voorzover deze daadwerkelijk betrokken is bij het toezicht op zeeschepen en ten minste in het bezit is van het diploma als derde stuurman grote handelsvaart of het kennisbewijs «middelbaar maritiem officier»;
+   - – ambtenaar van de Scheepvaartinspectie, voorzover deze daadwerkelijk betrokken is bij het toezicht op zeeschepen en ten minste in het bezit is van het diploma als derde stuurman grote handelsvaart of het kennisbewijs «middelbaar maritiem officier»;
 
 - b. voor de functie van scheepswerktuigkundige:
 
-- –. technisch expert van een klassebureau;
+   - – technisch expert van een klassebureau;
 
-- –. medewerker van technische inspecties van rederijen;
+   - – medewerker van technische inspecties van rederijen;
 
-- –. ambtenaar van de Scheepvaartinspectie, voorzover daadwerkelijk betrokken bij het toezicht op zeeschepen en ten minste in het bezit is van het diploma als scheepswerktuigkundige A of het kennisbewijs «middelbaar maritiem officier», en
+   - – ambtenaar van de Scheepvaartinspectie, voorzover daadwerkelijk betrokken bij het toezicht op zeeschepen en ten minste in het bezit is van het diploma als scheepswerktuigkundige A of het kennisbewijs «middelbaar maritiem officier», en
 
-- –. werktuigkundige in een electriciteitscentrale of in een waterfabriek;
+   - – werktuigkundige in een electriciteitscentrale of in een waterfabriek;
 
 - c. voor de functie van maritiem officier:
 
-- –. nautisch-technisch expert van een klassebureau in het bezit van ten minste het kennisbewijs «middelbaar maritiem officier», en
+   - – nautisch-technisch expert van een klassebureau in het bezit van ten minste het kennisbewijs «middelbaar maritiem officier», en
 
-- –. ambtenaar van de Scheepvaartinspectie, voorzover daadwerkelijk betrokken bij het toezicht aan boord van zeeschepen en in het bezit van ten minste het kennisbewijs «middelbaar maritiem officier»;
+   - – ambtenaar van de Scheepvaartinspectie, voorzover daadwerkelijk betrokken bij het toezicht aan boord van zeeschepen en in het bezit van ten minste het kennisbewijs «middelbaar maritiem officier»;
 
 - d. voor de functie van radio-operator: radio-operator werkzaam in de operationele dienst van de kustwacht en bedrijfspersoneel betrokken bij de bediening, installatie of reparatie van radiocommunicatie- en radionavigatie-apparatuur.
 
@@ -472,27 +436,27 @@ Voor de afgifte van het kennisbewijs «middelbaar maritiem officier»,
 
 - a. voldoet de aanvrager aan:
 
-- –. voorschrift II/1, paragrafen 2.4 en 2.5 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift II/1, paragrafen 2.4 en 2.5 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift II/2, paragraaf 2.2 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift II/2, paragraaf 2.2 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift III/1, paragrafen 2.2 en 2.3, van de bijlage bij het STCW-Verdrag;
+   - – voorschrift III/1, paragrafen 2.2 en 2.3, van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift III/2, paragraaf 2.2 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift III/2, paragraaf 2.2 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift V/1, paragraaf 1.2, van de bijlage bij het STCW-Verdrag;
+   - – voorschrift V/1, paragraaf 1.2, van de bijlage bij het STCW-Verdrag;
 
 - b. heeft de aanvrager met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan:
 
-- –. sectie A-II/1, paragraaf 1 tot en met 6, van de STCW-Code;
+   - – sectie A-II/1, paragraaf 1 tot en met 6, van de STCW-Code;
 
-- –. sectie A-II/2, paragraaf 1 tot en met 7, van de STCW-Code, met uitzondering van de aspecten coördinatie reddingsacties, opstellen wachtschema's en orders, radarnavigator, reageren op noodsituaties en personeelsmanagement;
+   - – sectie A-II/2, paragraaf 1 tot en met 7, van de STCW-Code, met uitzondering van de aspecten coördinatie reddingsacties, opstellen wachtschema's en orders, radarnavigator, reageren op noodsituaties en personeelsmanagement;
 
-- –. sectie A-III/1, paragraaf 1 tot en met 8, van de STCW-Code;
+   - – sectie A-III/1, paragraaf 1 tot en met 8, van de STCW-Code;
 
-- –. sectie A-III/2, paragraaf 1, 2, 3, 4, 5 en 7 van de STCW-Code, met uitzondering van het aspect personeelsmanagement;
+   - – sectie A-III/2, paragraaf 1, 2, 3, 4, 5 en 7 van de STCW-Code, met uitzondering van het aspect personeelsmanagement;
 
-- –. sectie A-V/1, paragraaf 2 tot en met 7 van de STCW-Code, en
+   - – sectie A-V/1, paragraaf 2 tot en met 7 van de STCW-Code, en
 
 - c. heeft de aanvrager een goedgekeurde stage aan boord vervuld van ten minste een jaar, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek, en tijdens deze stage gedurende ten minste een half jaar wachtdienst op de brug gelopen onder toezicht van de kapitein, een bevoegde stuurman of een bevoegd maritiem officier en gedurende ten minste een half jaar dienst gedaan in de machinekamer.
 
@@ -502,19 +466,19 @@ Voor de afgifte van het kennisbewijs «baggeraar-stuurman» of «wachtstuurman»
 
 - a. voldoet de aanvrager aan:
 
-- –. voorschrift II/1, paragrafen 2.4.en 2.5 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift II/1, paragrafen 2.4.en 2.5 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift II/2, paragraaf 2.2 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift II/2, paragraaf 2.2 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift V/1, paragraaf 1.2, van de bijlage bij het STCW-Verdrag;
+   - – voorschrift V/1, paragraaf 1.2, van de bijlage bij het STCW-Verdrag;
 
 - b. heeft de aanvrager met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan:
 
-- –. sectie A-II/1, paragrafen 1 tot en met 6 van de STCW-Code;
+   - – sectie A-II/1, paragrafen 1 tot en met 6 van de STCW-Code;
 
-- –. sectie A-II/2, paragrafen 1 tot en met 7, van de STCW-Code, met uitzondering van de aspecten coördinatie reddingsacties, opstellen wachtschema's en orders, radarnavigatie, reageren op noodsituaties en personeelsmanagement:
+   - – sectie A-II/2, paragrafen 1 tot en met 7, van de STCW-Code, met uitzondering van de aspecten coördinatie reddingsacties, opstellen wachtschema's en orders, radarnavigatie, reageren op noodsituaties en personeelsmanagement:
 
-- –. sectie A-V/1, paragrafen 2 tot en met 7 van de STCW-Code, en
+   - – sectie A-V/1, paragrafen 2 tot en met 7 van de STCW-Code, en
 
 - c. heeft de aanvrager een goedgekeurde stage aan boord vervuld van ten minste een jaar, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek, en tijdens deze stage gedurende ten minste een half jaar wachtdienst op de brug gelopen onder toezicht van de kapitein,een bevoegde stuurman of een bevoegd maritiem officier.
 
@@ -524,19 +488,19 @@ Voor de afgifte van het kennisbewijs «aanvulling stuurman handelsvaart» is de 
 
 - a. voldoet hij tevens aan:
 
-- –. voorschrift II/1, paragrafen 2.4.en 2.5 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift II/1, paragrafen 2.4.en 2.5 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift II/2, paragraaf 2.2 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift II/2, paragraaf 2.2 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift V/1, paragraaf 1.2, van de bijlage bij het STCW-Verdrag;
+   - – voorschrift V/1, paragraaf 1.2, van de bijlage bij het STCW-Verdrag;
 
 - b. heeft hij met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan:
 
-- –. sectie A-II/1, paragrafen 1 tot en met 6 van de STCW-Code in het bijzonder de functie behandeling en stuwen van lading;
+   - – sectie A-II/1, paragrafen 1 tot en met 6 van de STCW-Code in het bijzonder de functie behandeling en stuwen van lading;
 
-- –. sectie A-II/2, paragrafen 1 tot en met 7, van de STCW-Code, in het bijzonder de functie behandeling en stuwen van lading en met uitzondering van de aspecten coördinatie reddingsacties, opstellen wachtschema's en orders, radarnavigatie, reageren op noodsituaties en personeelsmanagement, en
+   - – sectie A-II/2, paragrafen 1 tot en met 7, van de STCW-Code, in het bijzonder de functie behandeling en stuwen van lading en met uitzondering van de aspecten coördinatie reddingsacties, opstellen wachtschema's en orders, radarnavigatie, reageren op noodsituaties en personeelsmanagement, en
 
-- –. sectie A-V/1, paragrafen 2 tot en met 7 van de STCW-Code.
+   - – sectie A-V/1, paragrafen 2 tot en met 7 van de STCW-Code.
 
 ##### Artikel 40
 
@@ -544,19 +508,19 @@ Voor de afgifte van een kennisbewijs «baggeraar-machinist» of «wachtwerktuigk
 
 - a. voldoet de aanvrager aan
 
-- –. voorschrift III/1, paragrafen 2.2. en 2.3, van de bijlage bij het STCW-Verdrag;
+   - – voorschrift III/1, paragrafen 2.2. en 2.3, van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift III/2, paragraaf 2.2 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift III/2, paragraaf 2.2 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift V/1, paragraaf 1.2 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift V/1, paragraaf 1.2 van de bijlage bij het STCW-Verdrag;
 
 - b. heeft de aanvrager met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan:
 
-- –. sectie A-III/1, paragrafen 1 tot en met 8, van de STCW-Code;
+   - – sectie A-III/1, paragrafen 1 tot en met 8, van de STCW-Code;
 
-- –. sectie A-III/2, paragrafen 1, 2, 3, 4, 5, en 7 van de STCW-Code, met uitzondering van het aspect personeelsmanagement;
+   - – sectie A-III/2, paragrafen 1, 2, 3, 4, 5, en 7 van de STCW-Code, met uitzondering van het aspect personeelsmanagement;
 
-- –. sectie A-V/1, paragraaf 2 tot en met 7 van de STCW-Code, en
+   - – sectie A-V/1, paragraaf 2 tot en met 7 van de STCW-Code, en
 
 - c. heeft de aanvrager een goedgekeurde stage aan boord vervuld van ten minste een half jaar dienst in de machinekamer, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek.
 
@@ -566,25 +530,25 @@ Voor de afgifte van het kennisbewijs «stuurman-werktuigkundige kleine schepen»
 
 - a. voldoet de aanvrager aan:
 
-- –. voorschrift II/1, paragrafen 2.4 en 2.5 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift II/1, paragrafen 2.4 en 2.5 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift II/2, paragraaf 3.3 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift II/2, paragraaf 3.3 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift III/1, paragrafen 2.2 en 2.3, van de bijlage bij het STCW-Verdrag;
+   - – voorschrift III/1, paragrafen 2.2 en 2.3, van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift III/3, paragraaf 2.2 van de bijlage van het STCW-Verdrag;
+   - – voorschrift III/3, paragraaf 2.2 van de bijlage van het STCW-Verdrag;
 
-- –. voorschrift V/1, paragraaf 1.2, van de bijlage bij het STCW-Verdrag;
+   - – voorschrift V/1, paragraaf 1.2, van de bijlage bij het STCW-Verdrag;
 
 - b. heeft de aanvrager met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan:
 
-- –. sectie A-II/1, paragraaf 1 tot en met 6, van de STCW-Code;
+   - – sectie A-II/1, paragraaf 1 tot en met 6, van de STCW-Code;
 
-- –. sectie A-II/2, paragraaf 1 tot en met 7, van de STCW-Code, met uitzondering van de aspecten coördinatie reddingsacties, opstellen wachtschema's en orders, radarnavigator, reageren op noodsituaties en personeelsmanagement;
+   - – sectie A-II/2, paragraaf 1 tot en met 7, van de STCW-Code, met uitzondering van de aspecten coördinatie reddingsacties, opstellen wachtschema's en orders, radarnavigator, reageren op noodsituaties en personeelsmanagement;
 
-- –. sectie A-III/1, paragraaf 1 tot en met 8, van de STCW-Code; sectie A-III/3, paragraaf 1, 2, 3, 4, 5 en 7 van de STCW-Code, met uitzondering van het aspect personeelsmanagement;
+   - – sectie A-III/1, paragraaf 1 tot en met 8, van de STCW-Code; sectie A-III/3, paragraaf 1, 2, 3, 4, 5 en 7 van de STCW-Code, met uitzondering van het aspect personeelsmanagement;
 
-- –. sectie A-V/1, paragraaf 2 tot en met 7 van de STCW-Code, en
+   - – sectie A-V/1, paragraaf 2 tot en met 7 van de STCW-Code, en
 
 - c. heeft de aanvrager een goedgekeurde stage aan boord vervuld van ten minste een jaar, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek, en tijdens deze stage gedurende ten minste een half jaar buitengaats wachtdienst op de brug gelopen onder toezicht van de kapitein, een bevoegde stuurman of een bevoegd maritiem officier, en gedurende ten minste een half jaar dienst gedaan in de machinekamer.
 
@@ -594,19 +558,19 @@ Voor de afgifte van het kennisbewijs «wachtstuurman tot 3000 GT»,
 
 - a. voldoet de aanvrager aan:
 
-- –. voorschrift II/1, paragrafen 2.4 en 2.5 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift II/1, paragrafen 2.4 en 2.5 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift II/2, paragraaf 3.3 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift II/2, paragraaf 3.3 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift V/1, paragraaf 1.2, van de bijlage bij het STCW-Verdrag;
+   - – voorschrift V/1, paragraaf 1.2, van de bijlage bij het STCW-Verdrag;
 
 - b. heeft de aanvrager met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan:
 
-- –. sectie A-II/1, paragraaf 1 tot en met 6, van de STCW-Code;
+   - – sectie A-II/1, paragraaf 1 tot en met 6, van de STCW-Code;
 
-- –. sectie A-II/2, paragraaf 1 tot en met 7, van de STCW-Code, met uitzondering van de aspecten coördinatie reddingsacties, opstellen wachtschema's en orders, radarnavigator, reageren op noodsituaties en personeelsmanagement;
+   - – sectie A-II/2, paragraaf 1 tot en met 7, van de STCW-Code, met uitzondering van de aspecten coördinatie reddingsacties, opstellen wachtschema's en orders, radarnavigator, reageren op noodsituaties en personeelsmanagement;
 
-- –. sectie A-V/1, paragraaf 2 tot en met 7 van de STCW-Code, en
+   - – sectie A-V/1, paragraaf 2 tot en met 7 van de STCW-Code, en
 
 - c. heeft de aanvrager een goedgekeurde stage aan boord vervuld van ten minste een jaar, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek, en tijdens deze stage wachtdienst op de brug gelopen onder toezicht van de kapitein, een bevoegde stuurman of een bevoegd maritiem officier.
 
@@ -616,19 +580,19 @@ Voor de afgifte van het kennisbewijs «wachtwerktuigkundige tot 3000 kW»,
 
 - a. voldoet de aanvrager aan:
 
-- –. voorschrift III/1, paragrafen 2.2 en 2.3, van de bijlage bij het STCW-Verdrag;
+   - – voorschrift III/1, paragrafen 2.2 en 2.3, van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift III/3, paragraaf 2.2 van de bijlage van het STCW-Verdrag;
+   - – voorschrift III/3, paragraaf 2.2 van de bijlage van het STCW-Verdrag;
 
-- –. voorschrift V/1, paragraaf 1.2, van de bijlage bij het STCW-Verdrag;
+   - – voorschrift V/1, paragraaf 1.2, van de bijlage bij het STCW-Verdrag;
 
 - b. heeft de aanvrager met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan:
 
-- –. sectie A-III/1, paragraaf 1 tot en met 8, van de STCW-Code;
+   - – sectie A-III/1, paragraaf 1 tot en met 8, van de STCW-Code;
 
-- –. sectie A-III/3, paragraaf 1, 2, 3, 4, 5 en 7 van de STCW-Code, met uitzondering van het aspect personeelsmanagement;
+   - – sectie A-III/3, paragraaf 1, 2, 3, 4, 5 en 7 van de STCW-Code, met uitzondering van het aspect personeelsmanagement;
 
-- –. sectie A-V/1, paragraaf 2 tot en met 7 van de STCW-Code, en
+   - – sectie A-V/1, paragraaf 2 tot en met 7 van de STCW-Code, en
 
 - c. heeft de aanvrager een goedgekeurde stage aan boord vervuld van ten minste een half jaar dienst in de machinekamer, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek.
 
@@ -638,15 +602,15 @@ Voor de afgifte van het kennisbewijs «schipper-machinist reizen nabij de kust»
 
 - a. voldoet de aanvrager aan:
 
-- –. voorschrift II/3, paragraaf 4.2.1, 4.3, 4.4 en 6.3 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift II/3, paragraaf 4.2.1, 4.3, 4.4 en 6.3 van de bijlage bij het STCW-Verdrag;
 
-- –. voorschrift VI/1 van de bijlage bij het STCW-Verdrag;
+   - – voorschrift VI/1 van de bijlage bij het STCW-Verdrag;
 
 - b. heeft de aanvrager met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan:
 
-- –. sectie A-II/3, paragraaf 1, 2, 3, 4, 5 en 7 van de STCW-Code waaronder niet begrepen het bij verwijzing bepaalde in de secties A-VI/2, A-VI/3 en A-VI/4 van de STCW-Code
+   - – sectie A-II/3, paragraaf 1, 2, 3, 4, 5 en 7 van de STCW-Code waaronder niet begrepen het bij verwijzing bepaalde in de secties A-VI/2, A-VI/3 en A-VI/4 van de STCW-Code
 
-- –. sectie A-VI/1, paragraaf 2 van de STCW-Code, en
+   - – sectie A-VI/1, paragraaf 2 van de STCW-Code, en
 
 - c. heeft de aanvrager een goedgekeurde stage van ten minste een half jaar aan boord vervuld, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek, en tijdens deze stage gedurende ten minste een half jaar wachtdienst op de brug gelopen onder toezicht van de kapitein, van een bevoegde stuurman of een bevoegd maritiem officier.
 
@@ -682,9 +646,9 @@ Voor de afgifte van het kennisbewijs «scheepsmanagement-W» heeft de aanvrager 
 
 Voor de afgifte van het kennisbewijs «radarnavigator» heeft de aanvrager met goed gevolg examen afgelegd ter afsluiting van een, opleiding en training die voldoet aan:
 
-- –. sectie A-II/2 van de STCW-Code, en
+- – sectie A-II/2 van de STCW-Code, en
 
-- –. sectie B-1/12, paragrafen 18 tot en met 35 van de STCW-Code.
+- – sectie B-1/12, paragrafen 18 tot en met 35 van de STCW-Code.
 
 #### § 3. Beroepsvereisten ten aanzien van veiligheidstrainingen voor tankschepen
 
@@ -780,9 +744,9 @@ Voor de afgifte van het kennisbewijs «stoomvoortstuwing» heeft de houder van t
 
 Voor de afgifte van het kennisbewijs «basisveiligheid» heeft de aanvrager met goed gevolg een opleiding en training afgerond die voldoet aan:
 
-- –. voorschrift VI/1 van de bijlage bij het STCW-Verdrag, en
+- – voorschrift VI/1 van de bijlage bij het STCW-Verdrag, en
 
-- –. sectie A-VI/1, paragraaf 2 van de STCW-Code.
+- – sectie A-VI/1, paragraaf 2 van de STCW-Code.
 
 ##### Artikel 66
 
@@ -1150,59 +1114,59 @@ Op aanvragen voor bemanningsdocumenten, verklaringen van geschiktheid en bekwaam
 | Kapitein schepen< 9000 GT | Kapitein alle schepen |
 | Kapitein schepen < 6000 GT | Kapitein alle schepen |
 | Kapitein schepen< 4000 GT | Kapitein alle schepen |
-|   |   |
+|  |  |
 | Kapitein schepen < 2000 GT | Kapitein tot 3000 GT |
-|   |   |
+|  |  |
 | 1e stuurman alle schepen | 1e stuurman alle schepen |
 | 1e stuurman schepen< 9000 GT | 1e stuurman alle schepen |
 | 1e stuurman schepen < 6000 GT | 1e stuurman alle schepen |
 | 1e stuurman schepen < 4000 GT | 1e stuurman alle schepen |
-|   |   |
+|  |  |
 | 1e stuurman schepen < 2000 GT | 1e stuurman tot 3000 GT |
-|   |   |
+|  |  |
 | 2e stuurman alle schepen | wachtstuurman alle schepen |
 | 3e stuurman alle schepen | wachtstuurman alle schepen |
 | 2e stuurman schepen < 9000 GT | wachtstuurman alle schepen |
 | 2e stuurman schepen < 6000 GT | wachtstuurman alle schepen |
 | wachtstuurman schepen < 4000 GT | wachtstuurman alle schepen |
-|   |   |
+|  |  |
 | Eerste maritiem officier alle schepen | Eerste maritiem officier alle schepen |
-|   | Eerste stuurman alle schepen |
-|   | Tweede werktuigkundige alle schepen |
-|   |   |
+|  | Eerste stuurman alle schepen |
+|  | Tweede werktuigkundige alle schepen |
+|  |  |
 | Maritiem officier alle schepen | Maritiem officier alle schepen |
-|   | wachtstuurman alle schepen |
-|   | wachtwerktuigkundige alle schepen |
-|   |   |
+|  | wachtstuurman alle schepen |
+|  | wachtwerktuigkundige alle schepen |
+|  |  |
 | Hoofdwerktuigkundige alle schepen | Hoofdwerktuigkundige alle schepen |
 | Hoofdwerktuigkundige schepen < 8000 kW | Hoofdwerktuigkundige alle schepen |
 | Hoofdwerktuigkundige schepen < 6000 kW | Hoofdwerktuigkundige alle schepen |
-|   |   |
+|  |  |
 | 1e maritiem officier schepen | Eerste maritiem officier kleine schepen |
 | <2000GT/1500kW | Eerste stuurman tot 3000 GT |
-|   | Hoofdwerktuigkundige tot 3000 kW |
-|   |   |
+|  | Hoofdwerktuigkundige tot 3000 kW |
+|  |  |
 | Hoofdwerktuigkundige schepen < 3000 kW | Hoofdwerktuigkundige tot 3000 kW |
 | Hoofdwerktuigkundige schepen < 1500 kW | Hoofdwerktuigkundige tot 3000 kW |
-|   |   |
+|  |  |
 | 2e werktuigkundige alle schepen | 2e werktuigkundige alle schepen |
 | 2e werktuigkundige schepen < 8000 kW | 2e werktuigkundige alle schepen |
 | 2e werktuigkundige schepen < 6000 kW | 2e werktuigkundige alle schepen |
-|   |   |
+|  |  |
 | 2e werktuigkundige schepen < 3000 kW | 2e werktuigkundige tot 3000 kW |
 | 2e werktuigkundige schepen < 1500 kW | 2e werktuigkundige tot 3000 kW |
-|   |   |
+|  |  |
 | 3e werktuigkundige alle schepen | wachtwerktuigkundige alle schepen |
 | 4e werktuigkundige alle schepen | wachtwerktuigkundige alle schepen |
-|   |   |
+|  |  |
 | schipper-machinist reizen nabij de kust | kapitein kleine schepen, beperkt tot schepen op reizen nabij de kust |
-|   |   |
+|  |  |
 | Radio-operator A | Radio-operator Algemeen |
-|   |   |
+|  |  |
 | Radio-operator B | Radio-operator Beperkt |
-|   |   |
+|  |  |
 | Scheepstechnicus | Gezel |
-|   |   |
+|  |  |
 | Gezel | Gezel |
 
 2. Voor de verkrijging van een vaarbevoegdheidsbewijs als kapitein, eerste stuurman, dan wel hoofdwerktuigkundige alle schepen is het bezit van het kennisbewijs «scheepsmanagement N» of «scheepsmanagement W» niet vereist voor de houder van het diploma als eerste stuurman voor de grote handelsvaart, respectievelijk het diploma C als scheepswerktuigkundige, dan wel van het bewijs dat de bijscholingscursus 6000–9000 GT met goed gevolg werd afgesloten, alsmede voor degenen die voor de datum van inwerkingtreding van dit besluit dienst doen als kapitein of hoofdwerktuigkundige.
@@ -1270,5 +1234,3 @@ Dit besluit wordt aangehaald als: Bemanningsbesluit Arubaanse, Curaçaose en Sin
 ##### Artikel 111
 
 Dit besluit treedt in werking met ingang van 1 februari 2002.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.

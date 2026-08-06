@@ -1,90 +1,58 @@
 ---
 title: "Wet van 14 december 2001 tot wijziging van belastingwetten c.a. (Belastingplan 2002 I – Arbeidsmarkt en inkomensbeleid)"
+citeertitel: "Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2002 I - Arbeidsmarkt en inkomensbeleid)"
 identifier: "BWBR0013186"
-country: "nl"
-rank: "wet"
-publication_date: "2003-01-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013186"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "1653193"
-version_id: "2440452"
-internal_id: "C2440451"
-label_id: "1606224"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013186/2003-01-01/0"
-intitule_bron: "Stb.2001-640"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-14"
-intitule_published: "2001-12-21"
-intitule_in_force: "2001-12-21"
-intitule_status: "goed"
-original_publication: "Stb.2001-640"
-original_signed_date: "2001-12-14"
-original_published_date: "2001-12-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "28013"
-original_url_id: "stb-2001-640"
-entry_into_force_date: "2002-01-01"
-entry_into_force_dossier: "28013"
-jci_1_3: "jci1.3:c:BWBR0013186&z=2003-01-01&g=2003-01-01"
-jci_1_0: "1.0:c:BWBR0013186&g=2003-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2002 I - Arbeidsmarkt en inkomensbeleid)"
-signed_date: "2001-12-14"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2003-01-01
+status: geldig
+toestand: 2003-01-01
+bron: "https://wetten.overheid.nl/BWBR0013186"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 14 december 2001 tot wijziging van belastingwetten c.a. (Belastingplan 2002 I – Arbeidsmarkt en inkomensbeleid)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2002 wenselijk is maatregelen te treffen inzake het arbeidsmarktbeleid, de bestrijding van de armoedeval alsmede het beloningsbeleid;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Artikelen I, onderdeel Ca, III, onderdeel Ga en VA werken gedeeltelijk terug tot en met 1 januari 2001.
 
 ### Hoofdstuk 1. Fiscale wetgeving
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IA
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IIA
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel III
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ### Hoofdstuk 2. Sociale zekerheidswetgeving
 
 ##### Artikel IV
 
-Wijzigt de Wet inschakeling werkzoekenden.
+*Wijzigt de Wet inschakeling werkzoekenden.*
 
 ##### Artikel V
 
-Wijzigt de Wet sociale werkvoorziening.
+*Wijzigt de Wet sociale werkvoorziening.*
 
 ##### Artikel VA
 
-Wijzigt de Wet financiering volksverzekeringen.
+*Wijzigt de Wet financiering volksverzekeringen.*
 
 ##### Artikel VB
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. Overgangs- en slotbepalingen
 
@@ -110,7 +78,7 @@ Voor het kalenderjaar 2002 wordt in afwijking van [artikel 8.11 van de Wet inkom
 
 ##### Artikel VIII. Overgangsrecht loonbelasting
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IX. Overgangsrecht Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen
 
@@ -137,5 +105,3 @@ Voor de toepassing van [artikel 15a, tweede lid, onderdeel a, van de Wet vermind
 6. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=I&z=2003-01-01&g=2003-01-01) en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=II&z=2003-01-01&g=2003-01-01) vinden toepassing nadat [afdeling 10.1 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=10.1) en [artikel 11, achtste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11) bij het begin van het kalenderjaar 2002 zijn toegepast.
 
 7. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=III&z=2003-01-01&g=2003-01-01) vindt toepassing nadat de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=30) en [30a van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=30a) bij het begin van het kalenderjaar 2002 zijn toegepast.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

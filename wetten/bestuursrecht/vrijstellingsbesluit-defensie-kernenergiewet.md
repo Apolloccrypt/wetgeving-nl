@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 13 juli 2002, houdende vrijstelling van de verboden, bedoeld in de artikelen 15 en 29 van de Kernenergiewet, alsmede afwijking van het Besluit stralingsbescherming (Vrijstellingsbesluit defensie Kernenergiewet)"
+citeertitel: "Vrijstellingsbesluit defensie Kernenergiewet"
 identifier: "BWBR0013888"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-02-06"
-last_updated: "2018-02-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013888"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "2859633"
-version_id: "4397752"
-internal_id: "C4873341"
-label_id: "2807694"
-dtd_version: "2.0"
-original_entry_into_force: "2002-10-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013888/2018-02-06/0"
-intitule_bron: "Stb.2002-404"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-07-13"
-intitule_published: "2002-07-30"
-intitule_in_force: "2002-10-10"
-intitule_status: "goed"
-original_publication: "Stb.2002-404"
-original_signed_date: "2002-07-13"
-original_published_date: "2002-07-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-404"
-entry_into_force_date: "2002-10-11"
-jci_1_3: "jci1.3:c:BWBR0013888&z=2018-02-06&g=2018-02-06"
-jci_1_0: "1.0:c:BWBR0013888&g=2018-02-06"
-citeertitel_status: "officieel"
-short_title: "Vrijstellingsbesluit defensie Kernenergiewet"
-signed_date: "2002-07-13"
-entry_into_force: "2002-10-11"
+publicatiedatum: 2002-10-11
+laatste_update: 2018-02-06
+status: geldig
+toestand: 2018-02-06
+bron: "https://wetten.overheid.nl/BWBR0013888"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 13 juli 2002, houdende vrijstelling van de verboden, bedoeld in de artikelen 15 en 29 van de Kernenergiewet, alsmede afwijking van het Besluit stralingsbescherming (Vrijstellingsbesluit defensie Kernenergiewet)
-
-Op de voordracht van de Staatssecretaris van Defensie van 13 maart 2002, nr. CWW2001/203, directie juridische zaken, afdeling wet- en regelgeving, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst, en Onze Minister van Volksgezondheid, Welzijn en Sport;
-
-Gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=14), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=21), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=32), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=34) en [75 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=75);
-
-De Raad van State gehoord (advies van 1 mei 2002, nr. W07.020122/II);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 8 juli 2002, nr. CWW 2001/203, uitgebracht mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst, en Onze Minister van Volksgezondheid, Welzijn en Sport;
-
-Hebben goedgevonden en verstaan
 
 ##### Artikel 1
 
@@ -80,7 +48,7 @@ In de gevallen, waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00138
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -97,5 +65,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Vrijstellingsbesluit defensie Kernenergiewet.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

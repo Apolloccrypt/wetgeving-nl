@@ -1,46 +1,63 @@
 ---
 title: "Regeling voorzieningen sleepvliegen"
 identifier: "BWBR0012875"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-10-01"
-last_updated: "2013-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012875"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4571763"
-version_id: "6387912"
-internal_id: "C6634811"
-label_id: "4550124"
-dtd_version: "2.0"
-original_entry_into_force: "2001-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012875/2013-10-01/0"
-intitule_bron: "Stcrt.2001-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-10-08"
-intitule_published: "2001-10-12"
-intitule_in_force: "2001-10-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-198"
-original_signed_date: "2001-10-08"
-original_published_date: "2001-10-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-10-15"
-jci_1_3: "jci1.3:c:BWBR0012875&z=2013-10-01&g=2013-10-01"
-jci_1_0: "1.0:c:BWBR0012875&g=2013-10-01"
-citeertitel_status: "officieel"
-signed_date: "2001-10-08"
-entry_into_force: "2001-10-15"
+publicatiedatum: 2001-10-15
+laatste_update: 2013-10-01
+status: geldig
+toestand: 2013-10-01
+bron: "https://wetten.overheid.nl/BWBR0012875"
+opgehaald: 2026-08-06
 ---
+
 # Regeling voorzieningen sleepvliegen
-
-Gelet op [artikel 45 van het Besluit luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=45);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+sleep:
+
+door een luchtvaartuig door middel van een sleepkabel voortgetrokken sleepnet of -doek, doel voor richt- en schietoefeningen, of zweef- of zeilvliegtuig;
+
+b.
+
+sleepvliegtuig:
+
+vliegtuig, ingericht voor het doen opstijgen en in de lucht voortslepen van een sleep;
+
+c.
+
+sleepkabel:
+
+geheel van onderdelen dat de verbinding vormt tussen de sleephaak van het sleepvliegtuig en de sleephaak, de vanglijn of de voorste ring van de sleep;
+
+d.
+
+breukstuk:
+
+onderdeel van de sleepkabel, dat bij een van te voren vastgestelde belasting bezwijkt, waardoor de verbinding tussen het sleepvliegtuig en de sleep wordt onderbroken;
+
+e.
+
+dreg:
+
+onderdeel van de sleepkabel, dat gebruikt wordt voor het oppikken van het sleepnet;
+
+f.
+
+vanglijn
+
+onderdeel van het sleepnet, dat gebruikt wordt voor het oppikken hiervan;
+
+g.
+
+minister:
+
+Minister van Verkeer en Waterstaat.
 
 ##### Artikel 2. Kunstvluchten en vervoer van personen en goederen
 
@@ -111,5 +128,3 @@ Deze regeling treedt in werking met ingang van 15 oktober 2001.
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningen sleepvliegen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst

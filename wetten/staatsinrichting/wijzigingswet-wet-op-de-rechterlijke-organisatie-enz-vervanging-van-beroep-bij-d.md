@@ -1,79 +1,50 @@
 ---
 title: "Wet van 14 september 2001 tot wijziging van de Wet op de rechterlijke organisatie, de Algemene wet inzake rijksbelastingen, de Douanewet en enige andere wetten, alsmede intrekking van de Tariefcommissiewet (vervanging van beroep bij de Tariefcommissie door beroep bij de douanekamer van het gerechtshof te Amsterdam en de instelling van beroep in cassatie in douanezaken)"
+citeertitel: "Wijzigingswet Wet op de rechterlijke organisatie enz. (vervanging van beroep bij de Tariefcommissie door beroep bij de douanekamer van het gerechtshof te Amsterdam en de instelling van beroep in cassatie in douanezaken)"
 identifier: "BWBR0012822"
-country: "nl"
-rank: "wet"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012822"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "1625463"
-version_id: "2401052"
-internal_id: "C2401051"
-label_id: "1579484"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012822/2002-01-01/0"
-intitule_bron: "Stb.2001-419"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-09-14"
-intitule_published: "2001-09-27"
-intitule_in_force: "2001-12-11"
-intitule_status: "goed"
-original_publication: "Stb.2001-419"
-original_signed_date: "2001-09-14"
-original_published_date: "2001-09-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "27648"
-original_url_id: "stb-2001-419"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0012822&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0012822&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet op de rechterlijke organisatie enz. (vervanging van beroep bij de Tariefcommissie door beroep bij de douanekamer van het gerechtshof te Amsterdam en de instelling van beroep in cassatie in douanezaken)"
-signed_date: "2001-09-14"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0012822"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 14 september 2001 tot wijziging van de Wet op de rechterlijke organisatie, de Algemene wet inzake rijksbelastingen, de Douanewet en enige andere wetten, alsmede intrekking van de Tariefcommissiewet (vervanging van beroep bij de Tariefcommissie door beroep bij de douanekamer van het gerechtshof te Amsterdam en de instelling van beroep in cassatie in douanezaken)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om beroep bij de Tariefcommissie te vervangen door beroep bij de douanekamer van het gerechtshof te Amsterdam, het beroep bij de gerechtshoven met betrekking tot de terzake van de invoer geheven belastingen te vervangen door beroep bij het gerechtshof te Amsterdam en te voorzien in beroep in cassatie in douanezaken en daartoe de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830), de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), de [Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632) en enige andere wetten te wijzigen en de Tariefcommissiewet in te trekken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
 ##### Artikel II
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel IV
 
-Wijzigt de Douanewet.
+*Wijzigt de Douanewet.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de ondernemingsraden.
+*Wijzigt de Wet op de ondernemingsraden.*
 
 ##### Artikel VII
 
-Wijzigt de Wet veiligheidsonderzoeken.
+*Wijzigt de Wet veiligheidsonderzoeken.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
+*Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.*
 
 ##### Artikel IX
 
@@ -101,10 +72,8 @@ De administratie en het archief van de Tariefcommissie gaan van rechtswege over 
 
 ##### Artikel XIII
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
 ##### Artikel XIV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

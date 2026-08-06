@@ -1,56 +1,22 @@
 ---
 title: "Wet van 6 juni 2002 tot wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet studiefinanciering 2000 in verband met de invoering van de bachelor-masterstructuur in het hoger onderwijs"
+citeertitel: "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet studiefinanciering 2000 (invoering bachelor-masterstructuur in het hoger onderwijs)"
 identifier: "BWBR0013748"
-country: "nl"
-rank: "wet"
-publication_date: "2005-03-01"
-last_updated: "2005-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013748"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "2854293"
-version_id: "4392282"
-internal_id: "C4392281"
-label_id: "2802814"
-dtd_version: "2.0"
-original_entry_into_force: "2002-06-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013748/2005-03-01/0"
-intitule_bron: "Stb.2002-303"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-06-06"
-intitule_published: "2002-06-18"
-intitule_in_force: "2002-06-18"
-intitule_status: "goed"
-original_publication: "Stb.2002-303"
-original_signed_date: "2002-06-06"
-original_published_date: "2002-06-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "28024"
-original_url_id: "stb-2002-303"
-entry_into_force_date: "2002-06-19"
-entry_into_force_dossier: "28024"
-jci_1_3: "jci1.3:c:BWBR0013748&z=2005-03-01&g=2005-03-01"
-jci_1_0: "1.0:c:BWBR0013748&g=2005-03-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet studiefinanciering 2000 (invoering bachelor-masterstructuur in het hoger onderwijs)"
-signed_date: "2002-06-06"
-entry_into_force: "2002-06-19"
+publicatiedatum: 2002-06-19
+laatste_update: 2005-03-01
+status: geldig
+toestand: 2005-03-01
+bron: "https://wetten.overheid.nl/BWBR0013748"
+opgehaald: 2026-08-06
 ---
+
 # Wet van 6 juni 2002 tot wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet studiefinanciering 2000 in verband met de invoering van de bachelor-masterstructuur in het hoger onderwijs
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is studenten meer keuzemogelijkheden te bieden en instellingen voor hoger onderwijs de ruimte te geven onderwijs te ontwikkelen dat flexibel, open en internationaal georiënteerd is;
-
-dat het in het verlengde daarvan wenselijk is een bachelor-masterstructuur in te voeren;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-De inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke Referendumwet.
 
 ##### Artikel I
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
 
 ##### Artikel II
 
@@ -58,13 +24,13 @@ Vervallen
 
 ##### Artikel III
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
 
 ##### Artikel IIIa
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel IIIb
 
@@ -72,55 +38,55 @@ Vervallen
 
 ##### Artikel IIIc
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
 
 ##### Artikel IIId
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
 
 ##### Artikel IV
 
-Wijzigt de Wet studiefinanciering 2000.
+*Wijzigt de Wet studiefinanciering 2000.*
 
 ##### Artikel V
 
-Wijzigt de Wet studiefinanciering 2000.
+*Wijzigt de Wet studiefinanciering 2000.*
 
 ##### Artikel Va
 
-Wijzigt de Wet studiefinanciering 2000.
+*Wijzigt de Wet studiefinanciering 2000.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel Vb
 
-Wijzigt de Wet studiefinanciering 2000.
+*Wijzigt de Wet studiefinanciering 2000.*
 
 ##### Artikel VI
 
-Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
+*Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.*
 
 ##### Artikel VII
 
-Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
+*Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.*
 
 ##### Artikel VIIa
 
-Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
+*Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel VIIb
 
-Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
+*Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.*
 
 ##### Artikel VIII
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel VIIIa
 
-Wijzigt de Wet van 2 april 1998, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering ter uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen .
+*Wijzigt de Wet van 2 april 1998, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering ter uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen .*
 
 ##### Artikel IX
 
@@ -128,13 +94,13 @@ Vervallen
 
 ##### Artikel IXa
 
-Vervallen
+*Vervallen*
 
 ##### Artikel IXb
 
-Wijzigt de Wet op het onderwijstoezicht.
+*Wijzigt de Wet op het onderwijstoezicht.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel IXc
 
@@ -155,9 +121,3 @@ Dit onderdeel is nog niet inwerking getreden
 5. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt [artikel IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=IXa&z=2005-03-01&g=2005-03-01) in werking met ingang van 31 augustus 2002.
 
 6. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt [artikel IXc](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=IXc&z=2005-03-01&g=2005-03-01) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
-
-## Bijlage bij de Wet van 6 juni 2002 (Stb. 303)
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

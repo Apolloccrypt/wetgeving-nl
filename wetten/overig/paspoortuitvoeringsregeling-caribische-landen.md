@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister voor Grote Steden- en Integratiebeleid van 7 september 2001, houdende regels in verband met de verstrekking van reisdocumenten van het Koninkrijk in de Nederlandse Antillen en Aruba (Paspoortuitvoeringsregeling Nederlandse Antillen en Aruba 2001)"
+citeertitel: "Paspoortuitvoeringsregeling Caribische landen"
 identifier: "BWBR0012809"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012809"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "5183173"
-version_id: "13406862"
-internal_id: "C17985261"
-label_id: "5159584"
-dtd_version: "2.0"
-original_entry_into_force: "2006-07-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012809/2026-04-01/0"
-intitule_bron: "Supplement-Stcrt.2001-186"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-09-07"
-intitule_published: "2001-09-26"
-intitule_in_force: "2001-09-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-136"
-original_signed_date: "2006-07-05"
-original_published_date: "2006-07-17"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2006-136-p12-SC75912"
-entry_into_force_date: "2006-07-05"
-jci_1_3: "jci1.3:c:BWBR0012809&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0012809&g=2026-04-01"
-citeertitel_status: "officieel"
-short_title: "Paspoortuitvoeringsregeling Caribische landen"
-signed_date: "2006-07-05"
-entry_into_force: "2006-07-05"
+publicatiedatum: 2006-07-05
+laatste_update: 2026-04-01
+status: geldig
+toestand: 2026-04-01
+bron: "https://wetten.overheid.nl/BWBR0012809"
+opgehaald: 2026-08-06
 ---
+
 # Regeling van de Minister voor Grote Steden- en Integratiebeleid van 7 september 2001, houdende regels in verband met de verstrekking van reisdocumenten van het Koninkrijk in de Nederlandse Antillen en Aruba (Paspoortuitvoeringsregeling Nederlandse Antillen en Aruba 2001)
-
-Gelet op de [artikelen 2, eerste lid, onder g, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2), [3, eerste, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16), [26, eerste lid, onder d en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=27), [30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=30), [31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31), [40, eerste lid, onder d en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=40), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=43), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=57) en [59 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=59);
-
-Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -48,63 +22,63 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **de wet**: de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212);
+- a. *de wet*: de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212);
 
-- b. **aanvraag, weigering, verstrekking, uitreiking, houder, wijziging, inhouding, vervallen of vervallenverklaring en vermissing**: hetgeen ingevolge [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=1) daaronder wordt verstaan;
+- b. *aanvraag, weigering, verstrekking, uitreiking, houder, wijziging, inhouding, vervallen of vervallenverklaring en vermissing*: hetgeen ingevolge [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=1) daaronder wordt verstaan;
 
-- c. **aanvrager**: degene die een aanvraag als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=1) indient of op wie een dergelijke aanvraag betrekking heeft;
+- c. *aanvrager*: degene die een aanvraag als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=1) indient of op wie een dergelijke aanvraag betrekking heeft;
 
-- d. **register paspoortsignaleringen**: het register, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=25);
+- d. *register paspoortsignaleringen*: het register, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=25);
 
-- e. **signalerende autoriteit**: de autoriteit, bedoeld in de [artikelen 18 tot en met 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=18), die op grond van [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=25) een verzoek tot weigering of vervallenverklaring heeft ingediend;
+- e. *signalerende autoriteit*: de autoriteit, bedoeld in de [artikelen 18 tot en met 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=18), die op grond van [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=25) een verzoek tot weigering of vervallenverklaring heeft ingediend;
 
-- f. **basisadministratie**: de basisregistratie personen als bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2), dan wel een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2), dan wel een bij Landsverordening van Aruba, Curaçao of Sint Maarten ingestelde bevolkingsadministratie;
+- f. *basisadministratie*: de basisregistratie personen als bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2), dan wel een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2), dan wel een bij Landsverordening van Aruba, Curaçao of Sint Maarten ingestelde bevolkingsadministratie;
 
-- g. **basisregister reisdocumenten**: het register, bedoeld in [artikel 4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4c);
+- g. *basisregister reisdocumenten*: het register, bedoeld in [artikel 4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4c);
 
-- h. **aanvraagsysteem reisdocumenten**: het geheel van apparatuur, programmatuur, opslagmedia en overige materialen, waarvan door de bevoegde autoriteit gebruik wordt gemaakt bij de aanvraag, verstrekking, uitreiking en registratie van reisdocumenten;
+- h. *aanvraagsysteem reisdocumenten*: het geheel van apparatuur, programmatuur, opslagmedia en overige materialen, waarvan door de bevoegde autoriteit gebruik wordt gemaakt bij de aanvraag, verstrekking, uitreiking en registratie van reisdocumenten;
 
-- i. **reisdocumentenstation**: de door de leverancier beschikbaar gestelde apparatuur en programmatuur, waarin gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten worden verwerkt en gearchiveerd en waarmee de gegevensuitwisseling tussen de bevoegde autoriteit en de leverancier plaatsvindt (reisdocumentenaanvraag- en archiefstation);
+- i. *reisdocumentenstation*: de door de leverancier beschikbaar gestelde apparatuur en programmatuur, waarin gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten worden verwerkt en gearchiveerd en waarmee de gegevensuitwisseling tussen de bevoegde autoriteit en de leverancier plaatsvindt (reisdocumentenaanvraag- en archiefstation);
 
-- j. **reisdocumentenadministratie**: de in het reisdocumentenstation en op andere wijze bij de bevoegde autoriteit opgeslagen gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten;
+- j. *reisdocumentenadministratie*: de in het reisdocumentenstation en op andere wijze bij de bevoegde autoriteit opgeslagen gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten;
 
-- k. **reisdocumentenmodule**: de apparatuur en programmatuur, waarmee de bevoegde autoriteit bij de aanvraag en uitreiking gegevens uitwisselt met het reisdocumentenstation en de basisadministratie;
+- k. *reisdocumentenmodule*: de apparatuur en programmatuur, waarmee de bevoegde autoriteit bij de aanvraag en uitreiking gegevens uitwisselt met het reisdocumentenstation en de basisadministratie;
 
-- l. **standaardclausule**: een clausule, waarvan de tekst in [bijlage A van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&bijlage=A&z=2026-04-01&g=2026-04-01) is opgenomen en die door de leverancier dan wel de bevoegde autoriteit in het reisdocument wordt aangebracht;
+- l. *standaardclausule*: een clausule, waarvan de tekst in [bijlage A van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&bijlage=A&z=2026-04-01&g=2026-04-01) is opgenomen en die door de leverancier dan wel de bevoegde autoriteit in het reisdocument wordt aangebracht;
 
-- m. **aanvraag-informatieformulier**: een door de Gouverneur voorgeschreven formulier, dat bestemd is voor het opmaken van een aanvraag voor een reisdocument;
+- m. *aanvraag-informatieformulier*: een door de Gouverneur voorgeschreven formulier, dat bestemd is voor het opmaken van een aanvraag voor een reisdocument;
 
-- n. **openbaar lichaam**: openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- n. *openbaar lichaam*: openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- o. **aanvraagnummer**: het nummer dat voorgedrukt is op het foto- en handtekeningformulier;
+- o. *aanvraagnummer*: het nummer dat voorgedrukt is op het foto- en handtekeningformulier;
 
-- p. vervallen;
+- p. *vervallen;*
 
-- q. **burgerservicenummer**: het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
+- q. *burgerservicenummer*: het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
 
-- r. vervallen;
+- r. *vervallen;*
 
-- s. **identificatiekaart**: een document als bedoeld in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=X&paragraaf=1&artikel=90&z=2026-04-01&g=2026-04-01), waarmee op elektronische wijze toegang kan worden verkregen tot het reisdocumentenstation en de daarin opgeslagen programmatuur en gegevens;
+- s. *identificatiekaart*: een document als bedoeld in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=X&paragraaf=1&artikel=90&z=2026-04-01&g=2026-04-01), waarmee op elektronische wijze toegang kan worden verkregen tot het reisdocumentenstation en de daarin opgeslagen programmatuur en gegevens;
 
-- t. **leverancier**: een bedrijf dat in opdracht van de Minister van Binnenlandse Zaken en Koninkrijksrelaties belast is met het verrichten van een of meerdere diensten die verband houden met de verstrekking van reisdocumenten;
+- t. *leverancier*: een bedrijf dat in opdracht van de Minister van Binnenlandse Zaken en Koninkrijksrelaties belast is met het verrichten van een of meerdere diensten die verband houden met de verstrekking van reisdocumenten;
 
-- u. **transporteur**: het bedrijf dat, in voorkomende gevallen met inschakeling van tussenpersonen, zorg draagt voor de distributie van reisdocumenten, identificatiekaarten en overige materialen tussen het ministerie van Buitenlandse Zaken en de bevoegde autoriteiten in Aruba, Curaçao en Sint Maarten;
+- u. *transporteur*: het bedrijf dat, in voorkomende gevallen met inschakeling van tussenpersonen, zorg draagt voor de distributie van reisdocumenten, identificatiekaarten en overige materialen tussen het ministerie van Buitenlandse Zaken en de bevoegde autoriteiten in Aruba, Curaçao en Sint Maarten;
 
-- v. **uitgiftelocatie**: de locatie bij een bevoegde autoriteit waar de aanvragen aan de leverancier worden verzonden en de documenten en overige materialen door de transporteur worden afgeleverd;
+- v. *uitgiftelocatie*: de locatie bij een bevoegde autoriteit waar de aanvragen aan de leverancier worden verzonden en de documenten en overige materialen door de transporteur worden afgeleverd;
 
-- w. **verblijfsdocument**: een document waaruit het verblijfsrecht van de vreemdeling ingevolge de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571) of de daarmee overeenkomstige landsverordening van Aruba, Curaçao of Sint Maarten blijkt;
+- w. *verblijfsdocument*: een document waaruit het verblijfsrecht van de vreemdeling ingevolge de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571) of de daarmee overeenkomstige landsverordening van Aruba, Curaçao of Sint Maarten blijkt;
 
-- x. **aanvraagstation**: de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en programmatuur voor het ondersteunen van het aanvraag- en uitgifteproces van reisdocumenten;
+- x. *aanvraagstation*: de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en programmatuur voor het ondersteunen van het aanvraag- en uitgifteproces van reisdocumenten;
 
-- y. **foto- en handtekeningenformulier**: het daartoe door de leverancier beschikbaar gestelde formulier dat bestemd is voor het opnemen van de foto en de handtekening, bedoeld in [artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=III&paragraaf=1&artikel=38&z=2026-04-01&g=2026-04-01).
+- y. *foto- en handtekeningenformulier*: het daartoe door de leverancier beschikbaar gestelde formulier dat bestemd is voor het opnemen van de foto en de handtekening, bedoeld in [artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=III&paragraaf=1&artikel=38&z=2026-04-01&g=2026-04-01).
 
-- z. **Aanvraagstationlocatie**: de locatie waar de bevoegde autoriteit met inachtneming van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=X&paragraaf=1&artikel=91&z=2026-04-01&g=2026-04-01) één of meerdere aanvraagstations heeft geplaatst;
+- z. *Aanvraagstationlocatie*: de locatie waar de bevoegde autoriteit met inachtneming van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=X&paragraaf=1&artikel=91&z=2026-04-01&g=2026-04-01) één of meerdere aanvraagstations heeft geplaatst;
 
-- aa. **mobiel vingerafdrukopname-apparaat**: de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en bijbehorende programmatuur voor het opnemen van vingerafdrukken indien de aanvrager op grond van [artikel 28, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=28) niet in persoon verschijnt;
+- aa. *mobiel vingerafdrukopname-apparaat*: de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en bijbehorende programmatuur voor het opnemen van vingerafdrukken indien de aanvrager op grond van [artikel 28, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=28) niet in persoon verschijnt;
 
-- bb. **besluit**: [Paspoortbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308);
+- bb. *besluit*: [Paspoortbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308);
 
-- cc. **register vermiste of vervallen reisdocumenten**: het register, bedoeld in [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a).
+- cc. *register vermiste of vervallen reisdocumenten*: het register, bedoeld in [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a).
 
 2. Deze regeling is van toepassing op de verstrekking van reisdocumenten van het Koninkrijk in Aruba, Curaçao en Sint Maarten
 
@@ -112,19 +86,53 @@ Besluit:
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
+
+##### Artikel 2a. Statusgegevens reisdocumenten
+
+Gegevens die betrekking hebben op de status van een reisdocument zijn:
+
+- a. in aanvraag;
+
+- b. geldig;
+
+- c. ongeldig, met inbegrip van de reden van ongeldigheid;
+
+- d. definitief aan het verkeer onttrokken.
+
+##### Artikel 2b. Aanleveren gegevens
+
+Degene die op grond van deze regeling gegevens verstrekt ten behoeve van de reisdocumentenadministratie, het register vermiste of vervallen reisdocumenten of de basisadministratie, verstrekt deze gegevens, met uitzondering van vingerafdrukken, gezichtsopname en handtekening, eveneens aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties ten behoeve van het basisregister reisdocumenten.
+
+##### Artikel 2c. Beheer, beveiliging en betrouwbaarheid
+
+1. Teneinde de veiligheid en betrouwbaarheid van het basisregister reisdocumenten te waarborgen, neemt de Minister van Binnenlandse Zaken en Koninkrijksrelaties passende maatregelen om inbreuken op en aantastingen van de beveiliging en de processen van het register te voorkomen. Hierbij wordt in ieder geval voldaan aan:
+
+- a. de open normen en standaarden op de ‘pas-toe-of-leg-uit-lijst’ van het Forum Standaardisatie;
+
+- b. de Baseline Informatiebeveiliging Overheid; en
+
+- c. de Voorschriften Informatiebeveiliging Rijksdienst.
+
+2. De in het eerste lid bedoelde maatregelen worden getroffen en onderhouden op basis van daartoe na een risicoanalyse vastgestelde informatiebeveiligingsplannen.
+
+3. Teneinde maatregelen te kunnen aanpassen en doorontwikkeling mogelijk te maken, wordt voor het register of onderdelen daarvan onderhoud gepleegd. Hiertoe kunnen, na voorafgaande bekendmaking, het register of onderdelen daarvan tijdelijk buiten gebruik worden gesteld.
 
 #### § 3. Modellen van de reisdocumenten
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
+
+##### Artikel 3a. Reisdocumenten zonder vingerafdrukken
+
+*Vervallen*
 
 #### § 4. Register paspoortsignaleringen
 
 ##### Artikel 4. Vestigingsplaats van het register
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5. Administratie van kennisgevingen uit het register
 
@@ -136,11 +144,11 @@ Vervallen
 
 ##### Artikel 6. Gouverneur
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Door de Gouverneur aangewezen autoriteiten
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8. Verwijzing
 
@@ -152,15 +160,15 @@ De autoriteit die niet bevoegd is tot het in ontvangst nemen van de aanvraag ver
 
 ##### Artikel 9. Vaststelling van het Nederlanderschap
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10. geldigheid
 
-Vervallen
+*Vervallen*
 
 #### § 2. Reisdocumenten voor niet-Nederlanders
 
-#### § 2.1. Reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen ten behoeve van personen die in de Nederlandse Antillen dan wel Aruba rechtmatig verblijf hebben
+##### § 2.1. Reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen ten behoeve van personen die in Aruba, Curaçao of Sint Maarten rechtmatig verblijf hebben
 
 ##### Artikel 11. Gebruik van een aanvraag-informatieformulier vluchtelingen en vreemdelingen
 
@@ -170,35 +178,35 @@ Vervallen
 
 - I. met betrekking tot de nationaliteit:
 
-- a. welke nationaliteit de aanvrager bezit, dan wel
+   - a. welke nationaliteit de aanvrager bezit, dan wel
 
-- b. door welke oorzaak de aanvrager zonder of van onbekende nationaliteit is, dan wel
+   - b. door welke oorzaak de aanvrager zonder of van onbekende nationaliteit is, dan wel
 
-- c. op grond van welke wettelijke regeling of administratieve beslissing de aanvrager zijn nationaliteit heeft verloren;
+   - c. op grond van welke wettelijke regeling of administratieve beslissing de aanvrager zijn nationaliteit heeft verloren;
 
 - II. met betrekking tot de (gewezen) echtgenoot, echtgenote of geregistreerd partner: de geslachtsnaam, voornamen, geboortedatum, geboorteplaats, nationaliteit en burgerlijke staat van de echtgenoot, echtgenote of geregistreerd partner, dan wel laatste gewezen echtgenoot, echtgenote of geregistreerd partner, alsmede het bezit van een verblijfsdocument van Aruba, Curaçao of Sint Maarten met vermelding van het verblijfsrecht, het documentnummer en de geldigheidsduur van het document indien de betrokkene niet het Nederlanderschap bezit;
 
 - III. met betrekking tot de binnenkomst in Aruba, Curaçao of Sint Maarten:
 
-- a. de datum waarop de aanvrager Aruba, Curaçao of Sint Maarten is binnengekomen;
+   - a. de datum waarop de aanvrager Aruba, Curaçao of Sint Maarten is binnengekomen;
 
-- b. het land van waar de aanvrager voor binnenkomst laatstelijk was vertrokken of het deel van Nederland indien de aanvrager voor binnenkomst laatstelijk was vertrokken uit het Europese dan wel Caribische deel van Nederland;
+   - b. het land van waar de aanvrager voor binnenkomst laatstelijk was vertrokken of het deel van Nederland indien de aanvrager voor binnenkomst laatstelijk was vertrokken uit het Europese dan wel Caribische deel van Nederland;
 
-- c. het documentnummer, de geldigheidsduur, alsmede de datum en de autoriteit van verstrekking van het reisdocument, waarover de aanvrager bij binnenkomst in Aruba, Curaçao of Sint Maarten beschikte;
+   - c. het documentnummer, de geldigheidsduur, alsmede de datum en de autoriteit van verstrekking van het reisdocument, waarover de aanvrager bij binnenkomst in Aruba, Curaçao of Sint Maarten beschikte;
 
 - IV. met betrekking tot het rechtmatig verblijf van de aanvrager in Aruba, Curaçao of Sint Maarten:
 
-- a. de in de basisadministratie opgenomen gegevens over het verblijfsrecht van de aanvrager, dan wel het door de aanvrager overgelegde bewijs van zijn verblijfsrecht in Aruba, Curaçao of Sint Maarten;
+   - a. de in de basisadministratie opgenomen gegevens over het verblijfsrecht van de aanvrager, dan wel het door de aanvrager overgelegde bewijs van zijn verblijfsrecht in Aruba, Curaçao of Sint Maarten;
 
-- b. het door de aanvrager ter inzage overgelegde verblijfsdocument met vermelding van het verblijfsrecht, het documentnummer en de geldigheidsduur van het document, dan wel de reden waarom geen geldig verblijfsdocument ter inzage kan worden overgelegd.
+   - b. het door de aanvrager ter inzage overgelegde verblijfsdocument met vermelding van het verblijfsrecht, het documentnummer en de geldigheidsduur van het document, dan wel de reden waarom geen geldig verblijfsdocument ter inzage kan worden overgelegd.
 
 4. De daartoe aangewezen ambtenaar voorziet het formulier op de bestemde plaats van zijn handtekening.
 
-##### Artikel 12. Vaststelling aanspraken op reisdocumenten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=11) en [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=13)
+##### Artikel 12. Vaststelling aanspraken op reisdocumenten als bedoeld in artikel 11 en 13 van de wet
 
-Vervallen
+*Vervallen*
 
-##### Artikel 13. Vaststelling aanspraken op reisdocumenten als bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=14)
+##### Artikel 13. Vaststelling aanspraken op reisdocumenten als bedoeld in artikel 14 van de wet
 
 1. Indien de aanvraag betrekking heeft op een reisdocument als bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=14), worden in het aanvraag-informatieformulier naast de gegevens, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=II&paragraaf=2&sub-paragraaf=2.1&artikel=11&z=2026-04-01&g=2026-04-01), nog de navolgende gegevens vermeld:
 
@@ -210,13 +218,13 @@ Vervallen
 
 2. De vaststelling van de aanspraak op een reisdocument voor vreemdelingen als bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=14) geschiedt aan de hand van het door de aanvrager overgelegde verblijfsdocument, waaruit zijn rechtmatig verblijf in Aruba, Curaçao of Sint Maarten en zijn nationaliteit blijkt, alsmede op grond van de gegevens die in het formulier zijn opgenomen.
 
-##### Artikel 14. Beslissing inzake de aanspraak op een reisdocument als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=13) of [14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=14)
+##### Artikel 14. Beslissing inzake de aanspraak op een reisdocument als bedoeld in de artikelen 11, 13 of 14 van de wet
 
 1. Indien de in het formulier opgenomen gegevens afwijken van de gegevens die omtrent de aanvrager in zijn verblijfsdocument of in de vreemdelingenadministratie zijn opgenomen dan wel anderszins onzekerheid bestaat over deze gegevens, wordt daarnaar een gericht onderzoek ingesteld.
 
 2. De Gouverneur beslist op de aanvraag, gehoord het advies van de Minister van Buitenlandse Zaken.
 
-##### Artikel 15. Vaststelling aanspraken op reisdocumenten als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=12) of [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15)
+##### Artikel 15. Vaststelling aanspraken op reisdocumenten als bedoeld in artikel 12 of artikel 15, tweede lid, van de wet
 
 1. Indien de aanvraag betrekking heeft op een reisdocument als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=12) of [15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15), worden in het aanvraag-informatieformulier naast de gegevens, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=II&paragraaf=2&sub-paragraaf=2.1&artikel=11&z=2026-04-01&g=2026-04-01), de navolgende gegevens vermeld:
 
@@ -230,13 +238,13 @@ Vervallen
 
 4. De Gouverneur beslist op de aanvraag na de in het teruggezonden formulier gegeven machtiging van de Minister van Buitenlandse Zaken.
 
-#### § 2.2. Reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen ten behoeve van personen die in Nederland rechtmatig verblijf hebben
+##### § 2.2. Reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen ten behoeve van personen die in Nederland rechtmatig verblijf hebben
 
-##### Artikel 16. Vaststelling aanspraken op reisdocumenten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=14) of [15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15)
+##### Artikel 16. Vaststelling aanspraken op reisdocumenten als bedoeld in artikel 11, 12, 13, 14 of 15, tweede lid, van de wet
 
 Met betrekking tot een aanvraag voor een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen van een persoon die in het Europese of Caribische deel van Nederland rechtmatig verblijf heeft, zijn [artikel 2.6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=2.6) en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=II&paragraaf=2&sub-paragraaf=2.1&artikel=11&z=2026-04-01&g=2026-04-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=II&paragraaf=2&sub-paragraaf=2.1&artikel=13&z=2026-04-01&g=2026-04-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=II&paragraaf=2&sub-paragraaf=2.1&artikel=14&z=2026-04-01&g=2026-04-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=II&paragraaf=2&sub-paragraaf=2.1&artikel=15&z=2026-04-01&g=2026-04-01) van overeenkomstige toepassing, met dien verstande dat het aanvraag-informatieformulier met de bijlagen te allen tijde wordt doorgezonden aan de Minister van Buitenlandse Zaken, die de daarin vermelde verblijfsrechtelijke gegevens verifieert bij de Nederlandse Minister van Justitie in het Europese of Caribische deel van Nederland in wiens vreemdelingenadministratie de aanvrager is opgenomen.
 
-#### § 2.3. Nooddocumenten voor niet-Nederlanders als bedoeld in artikel 15, tweede lid, van de wet
+##### § 2.3. Nooddocumenten voor niet-Nederlanders als bedoeld in artikel 15, tweede lid, van de wet
 
 ##### Artikel 17. Laissez-passer voor vreemdelingen
 
@@ -248,35 +256,35 @@ Met betrekking tot een aanvraag voor een reisdocument voor vluchtelingen of een 
 
 4. De verstrekking van een laissez-passer ten behoeve van een in het eerste lid bedoelde persoon vindt slechts plaats na machtiging van de Minister van Buitenlandse Zaken.
 
-#### § 2.2. Reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen ten behoeve van personen die in Nederland rechtmatig verblijf hebben
+##### § 2.4. Geldigheid
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 #### § 3. Faciliteitenpaspoorten
 
 ##### Artikel 19. Aanspraken
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20. Geldigheid
 
-Vervallen
+*Vervallen*
 
 #### § 4. Tweede paspoorten
 
 ##### Artikel 21. Aanspraken
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22. Geldigheid
 
-Vervallen
+*Vervallen*
 
 #### § 5. Nooddocumenten
 
-##### Artikel 23. Nooddocumenten voor Nederlanders als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16)
+##### Artikel 23. Nooddocumenten voor Nederlanders als bedoeld in artikel 16, eerste lid, van de wet
 
 1. Op het vaststellen van de aanspraak van een Nederlander dan wel een persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld, op een door de Gouverneur te verstrekken nooddocument zijn de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=2.1) en [2.12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=2.12) zoveel mogelijk van overeenkomstige toepassing.
 
@@ -284,7 +292,7 @@ Vervallen
 
 3. In afwijking van het tweede lid wordt aan een in het eerste lid bedoelde persoon door de Gouverneur een laissez-passer verstrekt, indien bij de verstrekking geen gebruik kan worden gemaakt van het reisdocumentenstation en de reis van de betrokken aanvrager geen uitstel gedoogt.
 
-##### Artikel 24. Nooddocumenten voor niet-Nederlanders als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16)
+##### Artikel 24. Nooddocumenten voor niet-Nederlanders als bedoeld in artikel 16, eerste lid, van de wet
 
 1. Op het vaststellen van de aanspraak van een vreemdeling op een nooddocument zijn [artikel 2.6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=2.6) en [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=II&paragraaf=2&sub-paragraaf=2.1&artikel=13&z=2026-04-01&g=2026-04-01), zoveel mogelijk van overeenkomstige toepassing.
 
@@ -296,7 +304,7 @@ Vervallen
 
 ##### Artikel 25. Geldigheid
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26. Vermelding inlevering
 
@@ -316,11 +324,11 @@ Vervallen
 
 ##### Artikel 27. Noodverlengingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28. Geldigheid noodverlengingen
 
-Vervallen
+*Vervallen*
 
 #### § 6. Diplomatieke paspoorten en dienstpaspoorten
 
@@ -354,7 +362,7 @@ Vervallen
 
 ##### Artikel 32. Noodverlenging diplomatiek paspoort of dienstpaspoort
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. Aanvraagprocedure
 
@@ -456,6 +464,20 @@ In de aanvraag voor een reisdocument, niet zijnde een nooddocument, worden teven
 
 6. Bij het indienen van een aanvraag voor een laissez-passer in een situatie waarbij de opneming van de in de aanvraag vermelde gegevens in het reisdocumentenstation plaatsvindt na de uitreiking van het laissez-passer, worden in afwijking van het eerste lid twee gelijke pasfoto’s overgelegd.
 
+##### Artikel 40a. Vingerafdrukken
+
+1. Bij het indienen van een aanvraag voor een reisdocument worden de afdrukken van twee vingers van de aanvrager genomen. Voor de aanvraag van een nooddocument worden geen vingerafdrukken genomen.
+
+2. Bij een aanvrager als bedoeld in de eerste zin van het eerste lid worden platte afdrukken van de linker- en rechter wijsvinger opgenomen voor opslag in het reisdocument. Indien de kwaliteit van de vingerafdrukken van de wijsvingers onvoldoende is, worden platte afdrukken van de middelvingers, ringvingers of duimen opgenomen.
+
+3. Indien van slechts één vinger de afdruk van voldoende kwaliteit kan worden opgenomen, wordt uitsluitend de afdruk van die vinger opgeslagen in het reisdocument.
+
+4. In afwijking van het eerste lid wordt van het opnemen van vingerafdrukken afgezien indien de aanvrager op het moment van het indienen van de aanvraag de leeftijd van twaalf jaar nog niet heeft bereikt.
+
+5. Indien de daartoe aangewezen ambtenaar van oordeel is dat het fysiek dan wel als gevolg van een tijdelijke verhindering onmogelijk is om van de aanvrager te verlangen dat bij hem op het moment van het indienen van de aanvraag twee vingerafdrukken worden opgenomen, wordt in ieder geval de afdruk opgenomen van de vinger waarbij dit volgens de daartoe aangewezen ambtenaar wel mogelijk is. Bij gerede twijfel of het fysiek dan wel als gevolg van een tijdelijke verhindering onmogelijk is om twee vingerafdrukken op te nemen, kan van de aanvrager worden verlangd, dat deze daartoe een door een bevoegde arts of medische instelling ondertekende verklaring overlegt.
+
+6. Indien van de aanvrager geen vingerafdrukken worden opgenomen, wordt in de aanvraag de reden voor het niet opnemen vermeld.
+
 ##### Artikel 41. Onbekwaamheid tot het plaatsen van een handtekening
 
 Indien de persoon aan wie het aangevraagde reisdocument moet worden verstrekt door leeftijd of een handicap niet in staat is zijn handtekening te plaatsen, wordt daarvan in de aanvraag melding gemaakt.
@@ -486,25 +508,23 @@ Indien de aanvrager ingevolge [artikel 28, derde lid, van de wet](https://wetten
 
 4. Indien onzekerheid bestaat over de bevoegdheid van degene die het gezag over de minderjarige uitoefent of van de curator wordt daarnaar een gericht onderzoek ingesteld.
 
-#### § 3. Aanvraag voor een bijschrijving
-
 ##### Artikel 45. Algemeen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46. Vaststelling van de identiteit en de nationaliteit van het bij te schrijven kind
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 47. Aanvraaggegevens van het bij te schrijven kind
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48. Overleggen verklaring van toestemming
 
-Vervallen
+*Vervallen*
 
-#### § 4. Het opnemen van de foto en de handtekening
+#### § 3. Het opnemen van de foto, de vingerafdrukken en de handtekening
 
 ##### Artikel 49
 
@@ -516,7 +536,7 @@ Vervallen
 
 4. Het opnemen van de vingerafdrukken als bedoeld in [artikel 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=III&paragraaf=1&artikel=40a&z=2026-04-01&g=2026-04-01), geschiedt met gebruikmaking van het aanvraagstation. Indien de aanvrager op grond van [artikel 28, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=28) niet in persoon verschijnt, worden zijn vingerafdrukken opgenomen met behulp van het mobiel vingerafdrukopname-apparaat.
 
-#### § 4. Het opnemen van de foto, de vingerafdrukken en de handtekening
+#### § 4. Beslissing op de aanvraag en vastlegging van de gegevens in het reisdocumentenstation
 
 ##### Artikel 50
 
@@ -552,7 +572,7 @@ Vervallen
 
 5. Indien de aanvraaggegevens zijn doorgezonden aan het reisdocumentenstation, maar de beslissing op de aanvraag is aangehouden, worden de in [artikel 50, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=III&paragraaf=4&artikel=50&z=2026-04-01&g=2026-04-01), genoemde gegevens in het reisdocumentenstation vastgelegd, nadat de verstrekking heeft plaatsgevonden.
 
-#### § 6. Personaliseren van nooddocumenten
+#### § 5. Personaliseren van nooddocumenten
 
 ##### Artikel 52
 
@@ -628,11 +648,15 @@ Indien een reisdocument is beschadigd, onjuist is geproduceerd of gepersonalisee
 
 Reisdocumenten die bij de controle van de zending in het reisdocumentenstation dan wel bij de uitreiking onjuist blijken te zijn geproduceerd of gepersonaliseerd, dan wel blijken te zijn beschadigd, worden overeenkomstig [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&bijlage=D&z=2026-04-01&g=2026-04-01), met gebruikmaking van het daartoe beschikbaar door de Minister van Binnenlandse Zaken en Koninkrijksrelaties gestelde formulier, teruggestuurd aan de leverancier.
 
-### Hoofdstuk V. Uitreiking van het reisdocument en bijschrijvingssticker
+### Hoofdstuk V. Uitreiking van het reisdocument
 
 ##### Artikel 62. Algemeen
 
-Vervallen
+*Vervallen*
+
+##### Artikel 62a. Verificatie vingerafdrukken bij uitreiking
+
+*Vervallen*
 
 ##### Artikel 63. Mogelijke fraude, vermissing of inname van een uitgereikt reisdocument bij de uitreiking van een aangevraagd reisdocument
 
@@ -640,7 +664,7 @@ Indien het bij de uitreiking van het aangevraagde reisdocument in te leveren rei
 
 ##### Artikel 64. Bijschrijving door middel van een sticker
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65
 
@@ -682,13 +706,13 @@ Dit hoofdstuk is niet van toepassing op Nederlandse identiteitskaarten.
 
 4. De Gouverneur verzoekt, hetzij na ontvangst van het in het derde lid bedoelde verzoek, hetzij indien hij zelf een aanvraag in behandeling neemt dan wel een ingehouden reisdocument ontvangt betreffende een in het eerste lid bedoelde persoon, de Minister van Binnenlandse Zaken en Koninkrijksrelaties om toezending van de in het register paspoortsignaleringen opgenomen gegevens van de betrokken persoon. Dit verzoek kan ook tegelijkertijd met het in het tweede lid bedoelde verzoek worden gedaan.
 
-##### Artikel 70. Kennisgeving van de beslissing op grond van [artikel 45, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=45)
+##### Artikel 70. Kennisgeving van de beslissing op grond van artikel 45, tweede lid, van de wet
 
 De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in de [artikelen 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=3.3), en [4.3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=4.3), geeft de Minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier kennis van zijn beslissing, bedoeld in [artikel 45, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=45).
 
-### Hoofdstuk VII. Procedures inzake vermiste, ingenomen, ingehouden, ingeleverde, van rechtswege vervallen en gevonden reisdocumenten
+### Hoofdstuk VII. Procedures inzake reisdocumenten die mogelijk voorwerp zijn van fraude of vermiste, ingenomen, ingehouden, ingeleverde, van rechtswege vervallen of gevonden reisdocumenten
 
-#### § 1. Vermiste of ingenomen reisdocumenten
+#### § 1. Reisdocumenten die mogelijk voorwerp zijn van fraude, zijn vermist of zijn ingenomen
 
 ##### Artikel 71. Melding van mogelijke fraude, een vermissing of inname van een uitgereikt reisdocument
 
@@ -708,7 +732,7 @@ De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in de [artikel
 
 Met het oog op vermelding daarvan in het register vermiste of vervallen reisdocumenten, wordt van mogelijke fraude of een vermissing terstond melding gedaan aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties, met gebruikmaking van de daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde dienst.
 
-#### § 1. Vermiste of ingenomen reisdocumenten
+#### § 2. Doorzending ingehouden reisdocumenten
 
 ##### Artikel 73. Reisdocumenten van gesignaleerde personen
 
@@ -728,7 +752,7 @@ Met het oog op vermelding daarvan in het register vermiste of vervallen reisdocu
 
 3. De doorzending van reisdocumenten geschiedt per aangetekende post of op een andere verantwoorde wijze met vermelding van de reden van doorzending.
 
-#### § 2. Doorzending ingehouden reisdocumenten
+#### § 3. Melding van rechtswege vervallen reisdocumenten aan het register paspoortsignaleringen en het register vermiste of vervallen reisdocumenten
 
 ##### Artikel 75
 
@@ -740,15 +764,15 @@ Met het oog op vermelding daarvan in het register vermiste of vervallen reisdocu
 
 4. Van het van rechtswege vervallen van een reisdocument ingevolge [artikel 47, eerste lid, onder a, b, c, e, f of h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=47) wordt, met het oog op de vermelding daarvan in het register vermiste of vervallen reisdocumenten, terstond melding gedaan aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van de daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde dienst.
 
-#### § 2. Doorzending ingehouden reisdocumenten
+#### § 4. Melding inzake gevonden reisdocumenten
 
 ##### Artikel 76
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk VIII. Definitieve onttrekking van reisdocumenten en ongedaan maken van bijschrijvingen
+### Hoofdstuk VIII. Definitieve onttrekking van reisdocumenten
 
-#### § 3. Melding van rechtswege vervallen reisdocumenten aan het register paspoortsignaleringen en het register vermiste of vervallen reisdocumenten
+#### § 1. Definitieve onttrekking van een reisdocument aan het verkeer
 
 ##### Artikel 77. Redenen en wijze van onttrekking
 
@@ -768,17 +792,15 @@ Vervallen
 
 De definitieve onttrekking van een reisdocument, niet zijnde een nooddocument of een gevonden reisdocument, wordt geregistreerd in de basisadministratie van de aangewezen autoriteit, bedoeld in de [artikelen 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=3.3), en [4.3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=4.3), waarin de houder als ingezetene is ingeschreven.
 
-#### § 1. Definitieve onttrekking van een reisdocument aan het verkeer
-
 ##### Artikel 79. Wijze van ongedaan maken bijschrijving
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 80. Registratie van ongedaan maken bijschrijving in de basisadministratie
 
-Vervallen
+*Vervallen*
 
-#### § 2. Ongedaan maken van een bijschrijving
+#### § 2. Kennisgevingen
 
 ##### Artikel 81
 
@@ -790,7 +812,7 @@ Van de definitieve onttrekking aan het verkeer van een reisdocument, niet zijnde
 
 - c. de autoriteit in Aruba, Curaçao, of Sint Maarten, die het reisdocument heeft verstrekt, of de gezaghebber van het openbaar lichaam waarvan de houder ingezetene is, of laatstelijk ingezetene was.
 
-#### § 4. Registratie definitief aan het verkeer onttrokken reisdocumenten door de Gouverneur
+#### § 3. Registratie definitief aan het verkeer onttrokken reisdocumenten door de Gouverneur
 
 ##### Artikel 82
 
@@ -818,11 +840,11 @@ De Gouverneur die:
 
 ##### Artikel 84. Administratie laissez-passer buiten het reisdocumentenstation
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 85. Administratie noodverlenging buiten het reisdocumentenstation
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 86. Verstrekking van gegevens
 
@@ -890,6 +912,28 @@ Onverminderd het bepaalde in [artikel 3, negende lid, van de wet](https://wetten
 
 4. De leverancier houdt een registratie bij van de uitgegeven en ingetrokken identificatiekaarten.
 
+##### Artikel 90a. De opstartkaart
+
+1. Per aanvraagstationlocatie worden door de leverancier twee opstartkaarten verstrekt, waarmee het aanvraagstation in werking kan worden gesteld.
+
+2. De autorisatiebevoegde aanvraagstation is, met inachtneming van de gebruikershandleiding bij het aanvraagstation, bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=X&paragraaf=5&artikel=103&z=2026-04-01&g=2026-04-01), verantwoordelijk voor de bewaring en het gebruik van de opstartkaart.
+
+3. Bij defect of verlies van een opstartkaart wordt terstond contact opgenomen met de leverancier.
+
+4. Een defecte opstartkaart wordt terstond aan de leverancier toegestuurd.
+
+5. De leverancier houdt een registratie bij van de uitgegeven opstartkaarten. Tevens registreert hij welke opstartkaarten vermist zijn.
+
+##### Artikel 90b. Het mobiel vingerafdrukopname-apparaat
+
+1. De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in de [artikelen 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=3.3), en [4.3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=4.3), of de door hem daartoe aangewezen ambtenaar wijst per uitgiftelocatie de personen aan die aanvragen in behandeling mogen nemen met behulp van het mobiel vingerafdrukopname-apparaat overeenkomstig de gebruikershandleiding bij het mobiel vingerafdrukopname-apparaat, bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=X&paragraaf=5&artikel=103&z=2026-04-01&g=2026-04-01).
+
+2. De leverancier verstrekt aan de autorisatiebevoegde aanvraagstation het wachtwoord waarmee toegang tot het mobiel vingerafdrukopname-apparaat kan worden verkregen en een authenticatiekaart waarmee het mobiel vingerafdrukopname-apparaat in het locale netwerk van de uitgiftelocatie kan worden aangesloten.
+
+3. De autorisatiebevoegde aanvraagstation brengt dit wachtwoord uitsluitend ter kennis aan de aangewezen ambtenaren bedoeld in het eerste lid en ziet er op toe dat het wachtwoord te allen tijde gescheiden van het mobiel vingerafdrukopname-apparaat wordt bewaard. Alle betrokkenen nemen alle daartoe noodzakelijke maatregelen om te voorkomen dat het wachtwoord bekend wordt. Indien het wachtwoord is zoekgeraakt of ter kennis is gekomen van een onbevoegde wordt terstond contact opgenomen met de leverancier.
+
+4. [Artikel 90a, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=X&paragraaf=1&artikel=90a&z=2026-04-01&g=2026-04-01), is van overeenkomstige toepassing op de verstrekte authenticatiekaart.
+
 ##### Artikel 91. De tot ontvangst van gepersonaliseerde documenten bevoegde ambtenaren
 
 1. De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in de [artikelen 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=3.3), en [4.3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=4.3), of de door hem daartoe aangewezen ambtenaar wijst ten minste drie ambtenaren aan om zendingen van gepersonaliseerde documenten in ontvangst te nemen. Identificatiekaarten en daarop betrekking hebbende codes worden uitsluitend in ontvangst genomen door een autorisatiebevoegde reisdocumentenstation.
@@ -918,7 +962,7 @@ Onverminderd het bepaalde in [artikel 3, negende lid, van de wet](https://wetten
 
 De vastlegging van de tijdstippen waarop een zending wordt afgeleverd, geschiedt in overleg met de transporteur.
 
-#### § 2. Aflevering van zendingen
+#### § 3. Beheer van ontvangen gepersonaliseerde reisdocumenten
 
 ##### Artikel 95. Bewaring reisdocumenten en bijschrijvingsstickers
 
@@ -934,7 +978,7 @@ De vastlegging van de tijdstippen waarop een zending wordt afgeleverd, geschiedt
 
 3. [Artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=IV&artikel=60&z=2026-04-01&g=2026-04-01) is van overeenkomstige toepassing.
 
-#### § 2. Aflevering van zendingen
+#### § 4. Bestelling, aflevering en beheer van nooddocumenten
 
 ##### Artikel 97. De tot bestelling en ontvangst van blanco documenten bevoegde ambtenaren
 
@@ -1154,7 +1198,7 @@ De met de uitvoering van de wet belaste autoriteiten treffen maatregelen om de o
 
 2. De Commandant van het Expertisecentrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee onttrekt het reisdocument bedoeld in het vorige lid op de in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=VIII&paragraaf=1&artikel=77&z=2026-04-01&g=2026-04-01), bedoelde wijze definitief aan het verkeer.
 
-### Hoofdstuk XII. Voorkoming en bestrijding van misbruik met reisdocumenten
+### Hoofdstuk XIII. Verantwoording
 
 ##### Artikel 114. Verantwoording nooddocumenten
 
@@ -1182,7 +1226,7 @@ De met de uitvoering van de wet belaste autoriteiten treffen maatregelen om de o
 
 Ten behoeve van de controle op de juistheid en volledigheid van de bedragen die terzake van de verschuldigde kosten als bedoeld in [artikel 7, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=7) aan het Rijk zijn afgedragen, is de aangewezen autoriteit, bedoeld in de [artikelen 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=3.3), en [4.3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=4.3), verplicht desgevraagd aan de door de Minister van Binnenlandse Zaken en Koninkrijksrelaties krachtens [artikel 66 van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=66) daartoe aangewezen ambtenaren de voor deze controle benodigde informatie te verschaffen. Deze ambtenaren kunnen tevens informatie inwinnen bij de accountants die de in [artikel 109, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=XI&artikel=109&z=2026-04-01&g=2026-04-01), bedoelde accountantscontrole hebben uitgevoerd.
 
-### Hoofdstuk XII. Voorkoming en bestrijding van misbruik met reisdocumenten
+### Hoofdstuk XIV. Overgangs- en slotbepalingen
 
 ##### Artikel 116. Geldigheid van reisdocumenten verstrekt voor de inwerkingtreding van deze regeling
 
@@ -1190,23 +1234,27 @@ De reisdocumenten die voor de inwerkingtreding van deze regeling zijn verstrekt,
 
 ##### Artikel 117. Raadpleging originele aanvraagformulieren
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 118. Ongedaan maken bijschrijving in reisdocumenten verstrekt voor de inwerkingtreding van deze regeling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 119. Tijdelijke verlenging bewaartermijn reisdocumentenadministratie
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 120. Gebruik aanvraagstation
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 121. Intrekking Paspoortuitvoeringsregeling Nederlandse Antillen en Aruba 1995
 
 De Paspoortuitvoeringsregeling Nederlandse Antillen en Aruba 1995 wordt ingetrokken.
+
+##### Artikel 121a. Uitbreiding grondslag
+
+Deze regeling berust mede op de [artikelen 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=1.4), [2.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=2.5), [2.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=2.6), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=2.7), [2.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=2.10), [7.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=7.1), [8.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=8.1), [8.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=8.2), en [10.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=10.1).
 
 ##### Artikel 122. Inwerkingtreding
 
@@ -1217,2109 +1265,3 @@ Deze regeling treedt in werking met ingang van 1 oktober 2001.
 Deze regeling wordt aangehaald als “Paspoortuitvoeringsregeling Caribische landen”.
 
 Deze regeling zal in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
-
-## Bijlagen. Paspoortuitvoeringsregelingen
-
-- A. **Standaardclausules**
-
-- B. **Standaardformulieren**
-
-- B1. Aanvraagformulier reisdocument
-
-- B2. Registratie afleveradres uitgiftelocatie
-
-- B3. Registratie autorisatiebevoegde reisdocumenten
-
-- B4. Overdracht reisdocumenten buiten locatie Enschedé/Sdu
-
-- B5. Registratie beveiligingsfunctionaris
-
-- B6. Registratie bestelbevoegde blanco nooddocumenten
-
-- B7. Registratie ontvangstbevoegde blanco nooddocumenten en afleveradres
-
-- C. **Modelformulieren**
-
-- C1. Vaststelling aanspraak reisdocument voor vreemdelingen
-
-- C2. Verklaring vermissing reisdocument
-
-- C3. Kennisgeving uitreiking, onttrekking reisdocument, bijschrijving/verwijdering bijschrijving
-
-- C4. Melding gevonden reisdocument
-
-- C5. Melding onregelmatigheid reisdocument
-
-- C6. Melding beslissing signalering
-
-- C7. Melding vermissing reisdocument
-
-- C8. Spoedbestelling aanvraagformulieren
-
-- C9. Melding ontvangst verkeerde of beschadigde zending reisdocumenten
-
-- C10. Geleideformulier terugzenden reisdocumenten
-
-- C11. Bestelopdracht blanco nooddocumenten
-
-- C12. Kwartaalverantwoording nooddocumenten
-
-- D. **Foutafhandelingsprocedures**
-
-- 1. Nederland (Gemeenten en Ministerie van Buitenlandse Zaken)
-
-- 2. Buitenland (Nederlandse posten)
-
-- 3. Nederlandse Antillen en Aruba (Autoriteiten in de Nederlandse Antillen en Aruba)
-
-- E. **Beveiligingsnet**
-
-- F. **Overzicht aanvraaggegevens**
-
-- 1. Reisdocumenten niet zijnde nooddocumenten
-
-- 2. Nooddocumenten
-
-- G. **Tot verstrekking van paspoorten bevoegde buitenlandse posten**
-
-- H. **Tot verstrekking van Nederlandse identiteitskaarten bevoegde buitenlandse posten**
-
-- I. **Normering IAR-kaarten**
-
-- J. **Invulinstructie laissez-passer**
-
-## Bijlagen. Paspoortuitvoeringsregelingen
-
-- A. **Standaardclausules**
-
-- B. **Standaardformulieren**
-
-- B1. Aanvraagformulier reisdocument
-
-- B2. Registratie afleveradres uitgiftelocatie
-
-- B3. Registratie autorisatiebevoegde reisdocumenten
-
-- B4. Overdracht reisdocumenten buiten locatie Enschedé/Sdu
-
-- B5. Registratie beveiligingsfunctionaris
-
-- B6. Registratie bestelbevoegde blanco nooddocumenten
-
-- B7. Registratie ontvangstbevoegde blanco nooddocumenten en afleveradres
-
-- C. **Modelformulieren**
-
-- C1. Vaststelling aanspraak reisdocument voor vreemdelingen
-
-- C2. Verklaring vermissing reisdocument
-
-- C3. Kennisgeving uitreiking, onttrekking reisdocument, bijschrijving/verwijdering bijschrijving
-
-- C4. Melding gevonden reisdocument
-
-- C5. Melding onregelmatigheid reisdocument
-
-- C6. Melding beslissing signalering
-
-- C7. Melding vermissing reisdocument
-
-- C8. Spoedbestelling aanvraagformulieren
-
-- C9. Melding ontvangst verkeerde of beschadigde zending reisdocumenten
-
-- C10. Geleideformulier terugzenden reisdocumenten
-
-- C11. Bestelopdracht blanco nooddocumenten
-
-- C12. Kwartaalverantwoording nooddocumenten
-
-- D. **Foutafhandelingsprocedures**
-
-- 1. Nederland (Gemeenten en Ministerie van Buitenlandse Zaken)
-
-- 2. Buitenland (Nederlandse posten)
-
-- 3. Nederlandse Antillen en Aruba (Autoriteiten in de Nederlandse Antillen en Aruba)
-
-- E. **Beveiligingsnet**
-
-- F. **Overzicht aanvraaggegevens**
-
-- 1. Reisdocumenten niet zijnde nooddocumenten
-
-- 2. Nooddocumenten
-
-- G. **Tot verstrekking van paspoorten bevoegde buitenlandse posten**
-
-- H. **Tot verstrekking van Nederlandse identiteitskaarten bevoegde buitenlandse posten**
-
-- I. **Normering IAR-kaarten**
-
-- J. **Invulinstructie laissez-passer**
-
-## Bijlage A. Standaardclausules
-
-- I. Standaardclausules m.b.t. de burgerlijke staat
-
-| **Burgerlijke Staat** | **Standaardclausule I (uitgeschreven) *De ambtenaar geeft in het aanvraagformulier desgewenst de burgerlijke staat van de aanvrager aan. Afhankelijk van de ruimte op de houderpagina brengt de producent de uitgeschreven of afgekorte versie van de betreffende standaardclausule aan. Indien er niet genoeg ruimte is op de houderpagina wordt de tekst van de standaardclausule op een vervolgpagina aangebracht.** | **afkorting *De ambtenaar geeft in het aanvraagformulier desgewenst de burgerlijke staat van de aanvrager aan. Afhankelijk van de ruimte op de houderpagina brengt de producent de uitgeschreven of afgekorte versie van de betreffende standaardclausule aan. Indien er niet genoeg ruimte is op de houderpagina wordt de tekst van de standaardclausule op een vervolgpagina aangebracht.** |
-| --- | --- | --- |
-| H – gehuwd |   |   |
-| **(geslacht houder = ‘V’)** | echtgenote van/Wife of/Epouse de | e/v |
-| **(geslacht houder = ‘M’)** | echtgenoot van/Husband of/ Epoux de | e/v |
-| W - weduwe/weduwnaar | gehuwd geweest met/ formerly married to/ anciennement marié(e) à | w/v |
-| S - gescheiden | gehuwd geweest met/ formerly married to/ anciennement marié(e) à | g/v |
-| P - geregistreerde partner | geregistreerde partner van/registered partner of/partenaire enregistré(e) de | p/v |
-| B - gescheiden geregistreerde partner | geregistreerd partner geweest van/ former registered partner of/ancien partenaire enregistré(e) de | b/v |
-| A - achtergebleven geregistreerde partner | geregistreerd partner geweest van/ former registered partner of/ancien partenaire enregistré(e) de | a/v |
-
-- II. Zie pagina/See page/Voir page
-
-- III. Vervallen.
-
-- IV. Pseudoniem/Pseudonym/Pseudonyme
-
-- V. Niet in staat tot tekening/Unable to sign/Incapable de signer
-
-- VI. Wordt als Nederlander behandeld op grond van de Wet van/Treated as Netherlands citizen pursuant to Act of/Traité comme Néerlandais conf. Loi 9-9-1976, Stb. 468
-
-- VII. Dit paspoort is verstrekt op grond van [art. 30 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=30) (tweede paspoort)
-
-- VIII. Houder dezes kan aan het bezit van dit reisdocument geen enkel recht op verblijf in Nederland ontlenen.
-
-- IX. Dienstpaspoort/Service Passport/Passeport de Service Van/From/De... No... Tot/Until/Jusqu'au...
-
-- X.
-
-- Xa. Uitgezonderd/Except/à l'Exception de…
-
-- Xb. Geldig voor reizen naar/Valid for travelling in/Valable pour voyages en...
-
-- XI.
-
-- XIa. Nederlandse/Netherlands/Néerlandaise
-
-- XIb. XXA (Staatloze/Stateless person/Apatride)
-
-- XII. Dit paspoort is afgegeven ter vervanging van paspoort nummer/This passport has been issued to replace passport number/Le présent passeport remplace le passeport antérieur no...
-
-## Bijlagen. Paspoortuitvoeringsregeling Caribische landen
-
-| **A** | **Standaardclausules** |
-| --- | --- |
-| **B** | **vervallen** |
-| **C** | **vervallen** |
-| **D** | **Foutafhandelingsprocedures** |
-| **E** | **vervallen** |
-| **F** | **Overzicht aanvraaggegevens** |
-| **G** | **vervallen** |
-| **H** | **vervallen** |
-| **I** | **vervallen** |
-| **J** | **Invulinstructie laissez-passer** |
-| **L** | **Fotomatrix** |
-
-## Bijlage A. Standaardclausules
-
-- I. Standaardclausules m.b.t. de burgerlijke staat * De ambtenaar geeft in het aanvraagformulier desgewenst de burgerlijke staat van de aanvrager aan. Afhankelijk van de ruimte op de houderpagina brengt de producent de uitgeschreven of afgekorte versie van de betreffende standaardclausule aan. Indien er niet genoeg ruimte is op de houderpagina wordt de tekst van de standaardclausule op een vervolgpagina aangebracht.
-
-| **Burgerlijke Staat** | **Standaardclausule I (uitgeschreven) *** | **afkorting *** |
-| --- | --- | --- |
-| H – gehuwd |   |   |
-| **(geslacht houder = ‘V’)** | echtgenote van/wife of/éspouse de | e/v |
-| **(geslacht houder = ‘M’)** | echtgenoot van/husband of/ époux de | e/v |
-| W - weduwe/weduwnaar | gehuwd geweest met/ formerly married to/ anciennement marié(e) à | w/v |
-| S - gescheiden | gehuwd geweest met/ formerly married to/ anciennement marié(e) à | g/v |
-| P - geregistreerde partner | geregistreerd partner van/registered partner of/partenaire enregistré(e) de | p/v |
-| B - gescheiden geregistreerde partner | geregistreerd partner geweest van/ former registered partner of/ancien partenaire enregistré(e) de | b/v |
-| A - achtergebleven geregistreerde partner | geregistreerd partner geweest van/ former registered partner of/ancien partenaire enregistré(e) de | a/v |
-
-- II. zie/see/voir p.
-
-- III. Vervallen.
-
-- IV. Pseudoniem/Pseudonym/Pseudonyme
-
-- V. Niet in staat tot ondertekening/Unable to sign/Incapable de signer
-
-- VI. Wordt als Nederlander behandeld op grond van de Wet van/Treated as Netherlands citizen pursuant to Act of/Traité comme Néerlandais conf. Loi 9-9-1976, Stb. 468
-
-- VII. Dit paspoort is verstrekt op grond van [art. 30 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=30) (tweede paspoort)
-
-- VIII. Houder dezes kan aan het bezit van dit reisdocument geen enkel recht op verblijf in Nederland ontlenen.
-
-- IX. Dienstpaspoort/Service Passport/Passeport de Service Van/From/De... No... Tot/Until/Jusqu'au...
-
-- X.
-
-- Xa. Uitgezonderd/Except/à l'Exception de…
-
-- Xb. Geldig voor reizen naar/Valid for travelling in/Valable pour voyages en...
-
-- XI.
-
-- XIa. Nederlandse/Netherlands/Néerlandaise
-
-- XIb. XXA (Staatloze/Stateless person/Apatride)
-
-- XII. Dit paspoort is afgegeven ter vervanging van paspoort nummer/This passport has been issued to replace passport number/Le présent passeport remplace le passeport antérieur no...
-
-In deze bijlage zijn de procedures weergegeven die moeten worden gevolgd indien een aangekondigde zending gepersonaliseerde reisdocumenten niet op het afgesproken tijdstip arriveert, de ontvangen zending beschadigd is, afwijkingen vertoont of indien bij controle van de zending documenten ontbreken.
-
-In deze bijlage zijn de procedures weergegeven die moeten worden gevolgd indien een aangekondigde zending gepersonaliseerde reisdocumenten niet op het afgesproken tijdstip arriveert, de ontvangen zending beschadigd is, afwijkingen vertoont of indien bij controle van de zending documenten ontbreken.
-
-De foutafhandelingsprocedures zijn beschreven voor:
-
-In deze bijlage zijn de procedures weergegeven die moeten worden gevolgd indien een aangekondigde zending gepersonaliseerde reisdocumenten niet op het afgesproken tijdstip arriveert, de ontvangen zending beschadigd is, afwijkingen vertoont of indien bij controle van de zending documenten ontbreken. De foutafhandelingsprocedures zijn beschreven voor:
-
-In deze bijlage zijn de procedures weergegeven die moeten worden gevolgd indien een aangekondigde zending gepersonaliseerde reisdocumenten niet op het afgesproken tijdstip arriveert, de ontvangen zending beschadigd is, afwijkingen vertoont of indien bij controle van de zending documenten ontbreken.
-
-### 1. Foutafhandelingsprocedures Nederland
-
-De foutafhandelingsprocedures zijn beschreven voor:
-
-##### I. De aangekondigde zending wordt niet op het afgesproken tijdstip ontvangen
-
-Hiervan is sprake indien een uitgiftelocatie een aangekondigde zending niet op het met de distributeur afgesproken tijdstip ontvangt. De procedure die gevolgd dient te worden, is weergegeven in **schema I**.
-
-##### II. De ontvangen zending bevat een andere inhoud dan aangekondigd
-
-Dit is het geval indien de inhoud van de zending niet overeenkomt met de op de verzendbrief vermelde inhoud of met hetgeen in de elektronische vooraankondiging van de producent staat vermeld. De volgende situaties worden onderscheiden:
-
-- 1. de zending bevat **niet alle** aangekondigde documenten (er ontbreken dus documenten) In dit geval dient de procedure, vermeld in **schema II 1**, te worden gevolgd.
-
-- 2. de zending bevat (ook) **andere** documenten dan aangekondigd (het pakket bevat documenten die niet voor de uitgiftelocatie zijn bestemd; het kan zijn dat bijvoorbeeld het adresetiket op het pakket niet juist was, dat er niet voor de uitgiftelocatie bedoelde colli in het pakket zitten of dat er zich niet voor de uitgiftelocatie bedoelde documenten in een collo bevinden). In deze gevallen moet de procedure, vermeld in **schema II 2**, worden gevolgd.
-
-##### III. De ontvangen zending is beschadigd
-
-Hiervan is sprake indien bij ontvangst van het pakket geconstateerd wordt dat de verpakking van het pakket beschadigingen vertoont. Er worden verschillende situaties onderscheiden:
-
-- 1. De verpakking is beschadigd maar de inhoud is onbeschadigd en compleet (Alle aangekondigde documenten zijn aanwezig en onbeschadigd). In dit geval dient **schema III 1** te worden gevolgd.
-
-- 2. Zowel de verpakking als de inhoud zijn beschadigd, maar de inhoud is wel compleet (alle aangekondigde documenten zijn aanwezig maar één of meerdere documenten zijn beschadigd). In dit geval dienst **schema III 2** te worden gevolgd.
-
-- 3. Zowel de verpakking als de inhoud zijn beschadigd en de inhoud is bovendien incompleet (Eén of meerdere documenten zijn beschadigd en daarnaast zijn niet alle aangekondigde documenten aanwezig). In dit geval dient **schema III 3** te worden gevolgd.
-
-##### IV. De inhoud van de zending is goed, maar niet op de afgesproken wijze verpakt
-
-Hiervan is sprake indien de inhoud van de zending wel overeenkomt met hetgeen door de producent is aangekondigd, maar de inhoud is niet op de juiste wijze is verpakt. Het pakket bevat bijvoorbeeld colli met verschillende documenten (er zitten bijvoorbeeld zakenpaspoorten tussen de nationale paspoorten) of de zending bevat geen of een onjuiste verzendbrief. In dit geval dient de procedure, beschreven in **schema IV** te worden gevolgd.
-
-##### V. Overige calamiteiten
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema V** beschreven procedure te worden gevolgd.
-
-### II. De ontvangen zending bevat een andere inhoud dan aangekondigd
-
-### I. De aangekondigde zending wordt niet ontvangen op het afgesproken tijdstip
-
-### III. De ontvangen zending is beschadigd
-
-### V. Overige calamiteiten
-
-### IV. De inhoud van de zending is goed, maar niet op de afgesproken wijze verpakt
-
-### 2. Foutafhandelingsprocedures Buitenland (Nederlandse Posten)
-
-### II. De ontvangen zending bevat een andere inhoud dan aangekondigd:
-
-### V. Overige calamiteiten
-
-### III. De ontvangen zending is beschadigd:
-
-In deze paragraaf zijn de procedures weergegeven die moeten worden gevolgd indien een aangekondigde zending niet op het afgesproken tijdstip arriveert, de ontvangen zending beschadigd is, afwijkingen vertoont of indien bij controle van de zending documenten ontbreken. Er worden vijf hoofdfouten onderscheiden, waarvan er een tweetal nog nader onderverdeeld zijn. De foutsituaties worden onderstaand beschreven. Per foutsituatie wordt vervolgens per pagina schematisch aangegeven hoe gehandeld dient te worden.
-
-##### I. De ontvangen zending bevat een andere inhoud dan aangekondigd
-
-Dit is het geval indien de inhoud van de zending niet overeenkomt met de op de verzendbrief vermelde inhoud of met hetgeen in de elektronische vooraankondiging van de producent staat vermeld. De volgende situaties worden onderscheiden:
-
-- 1. de zending bevat **niet alle** aangekondigde documenten (er ontbreken dus documenten) In dit geval dient de procedure, vermeld in **schema I 1**, te worden gevolgd.
-
-- 2. de zending bevat (ook) **andere** documenten dan aangekondigd (het pakket bevat documenten die niet voor de uitgiftelocatie zijn bestemd; het kan zijn dat bijvoorbeeld het adresetiket op het pakket niet juist was, dat er niet voor de uitgiftelocatie bedoelde colli in het pakket zitten of dat er zich niet voor de uitgiftelocatie bedoelde documenten in een collo bevinden). In deze gevallen moet de procedure, vermeld in **schema I 2**, worden gevolgd.
-
-##### II. De ontvangen zending is beschadigd
-
-Hiervan is sprake indien bij ontvangst van het pakket geconstateerd wordt dat de verpakking van het pakket beschadigingen vertoont. Er worden verschillende situaties onderscheiden:
-
-- 1. De verpakking is beschadigd maar de inhoud is onbeschadigd en compleet (Alle aangekondigde documenten zijn aanwezig en onbeschadigd). In dit geval dient **schema II 1** te worden gevolgd.
-
-- 2. Zowel de verpakking als de inhoud zijn beschadigd, maar de inhoud is wel compleet (alle aangekondigde documenten zijn aanwezig maar één of meerdere documenten zijn beschadigd). In dit geval dienst **schema II 2** te worden gevolgd.
-
-- 3. Zowel de verpakking als de inhoud zijn beschadigd en de inhoud is bovendien incompleet (Eén of meerdere documenten zijn beschadigd en daarnaast zijn niet alle aangekondigde documenten aanwezig). In dit geval dient **schema II 3** te worden gevolgd.
-
-##### III. De inhoud van de zending is goed, maar niet op de afgesproken wijze verpakt
-
-Hiervan is sprake indien de inhoud van de zending wel overeenkomt met hetgeen door de producent is aangekondigd, maar de inhoud is niet op de juiste wijze is verpakt. Het pakket bevat bijvoorbeeld colli met verschillende documenten (er zitten bijvoorbeeld zakenpaspoorten tussen de nationale paspoorten) of de zending bevat geen of een onjuiste verzendbrief. In dit geval dient de procedure, beschreven in **schema III** te worden gevolgd.
-
-##### IV. Overige calamiteiten
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema IV** beschreven procedure te worden gevolgd.
-
-### IV. Overige calamiteiten
-
-### III. De inhoud van de zending is goed, maar niet op de afgesproken wijze verpakt
-
-### 3. Foutafhandelingsprocedure Aruba, Curaçao, Sint Maarten en het Caribische deel van Nederland (Bonaire, Sint Eustatius en Saba)
-
-### II. De ontvangen zending is beschadigd:
-
-### IV. Overige calamiteiten
-
-### I. De ontvangen zending bevat een andere inhoud dan aangekondigd:
-
-### 3. Foutafhandelingsprocedure Aruba, Curaçao, Sint Maarten en het Caribische deel van Nederland (Bonaire, Sint Eustatius en Saba)
-
-### II. De ontvangen zending is beschadigd:
-
-In deze paragraaf zijn de procedures weergegeven die moeten worden gevolgd indien een aangekondigde zending niet op het afgesproken tijdstip arriveert, de ontvangen zending beschadigd is, afwijkingen vertoont of indien bij controle van de zending documenten ontbreken. Er worden vijf hoofdfouten onderscheiden, waarvan er een tweetal nog nader onderverdeeld zijn. De foutsituaties worden onderstaand beschreven. Per foutsituatie wordt vervolgens per pagina schematisch aangegeven hoe gehandeld dient te worden.
-
-##### I. De aangekondigde zending wordt niet op het afgesproken tijdstip ontvangen
-
-Hiervan is sprake indien een uitgiftelocatie een aangekondigde zending niet op het met de distributeur afgesproken tijdstip ontvangt. De procedure die gevolgd dient te worden, is weergegeven in **schema I**.
-
-##### II. De ontvangen zending bevat een andere inhoud dan aangekondigd
-
-Dit is het geval indien de inhoud van de zending niet overeenkomt met de op de verzendbrief vermelde inhoud of met hetgeen in de elektronische vooraankondiging van de producent staat vermeld. De volgende situaties worden onderscheiden:
-
-- 1. de zending bevat **niet alle** aangekondigde documenten (er ontbreken dus documenten) In dit geval dient de procedure, vermeld in **schema II 1**, te worden gevolgd.
-
-- 2. de zending bevat (ook) **andere** documenten dan aangekondigd (het pakket bevat documenten die niet voor de uitgiftelocatie zijn bestemd; het kan zijn dat bijvoorbeeld het adresetiket op het pakket niet juist was, dat er niet voor de uitgiftelocatie bedoelde colli in het pakket zitten of dat er zich niet voor de uitgiftelocatie bedoelde documenten in een collo bevinden). In deze gevallen moet de procedure, vermeld in **schema II 2**, worden gevolgd.
-
-##### III. De ontvangen zending is beschadigd
-
-Hiervan is sprake indien bij ontvangst van het pakket geconstateerd wordt dat de verpakking van het pakket beschadigingen vertoont. Er worden verschillende situaties onderscheiden:
-
-- 1. De verpakking is beschadigd maar de inhoud is onbeschadigd en compleet (Alle aangekondigde documenten zijn aanwezig en onbeschadigd). In dit geval dient **schema III 1** te worden gevolgd.
-
-- 2. Zowel de verpakking als de inhoud zijn beschadigd, maar de inhoud is wel compleet (alle aangekondigde documenten zijn aanwezig maar één of meerdere documenten zijn beschadigd). In dit geval dienst **schema III 2** te worden gevolgd.
-
-- 3. Zowel de verpakking als de inhoud zijn beschadigd en de inhoud is bovendien incompleet (Eén of meerdere documenten zijn beschadigd en daarnaast zijn niet alle aangekondigde documenten aanwezig). In dit geval dient **schema III 3** te worden gevolgd.
-
-##### IV. De inhoud van de zending is goed, maar niet op de afgesproken wijze verpakt
-
-Hiervan is sprake indien de inhoud van de zending wel overeenkomt met hetgeen door de producent is aangekondigd, maar de inhoud is niet op de juiste wijze is verpakt. Het pakket bevat bijvoorbeeld colli met verschillende documenten (er zitten bijvoorbeeld zakenpaspoorten tussen de nationale paspoorten) of de zending bevat geen of een onjuiste verzendbrief. In dit geval dient de procedure, beschreven in **schema IV** te worden gevolgd.
-
-##### V. Overige calamiteiten
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema V** beschreven procedure te worden gevolgd.
-
-### IV. De inhoud van de zending is goed, maar niet op de afgesproken wijze verpakt
-
-### V. Overige calamiteiten
-
-### II. De ontvangen zending bevat een andere inhoud dan aangekondigd:
-
-### V. Overige calamiteiten
-
-### I. De aangekondigde zending wordt niet ontvangen op het afgesproken tijdstip:
-
-### I. De aangekondigde zending wordt niet ontvangen op het afgesproken tijdstip:
-
-### II. De ontvangen zending bevat een andere inhoud dan aangekondigd:
-
-### II. De ontvangen zending bevat een andere inhoud:
-
-## Bijlage H. Tot verstrekking van Nederlandse identiteitskaarten bevoegde buitenlandse posten
-
-Vervallen
-
-**QC822/2001V0167/HK/mh**
-
-**16 augustus 2001**
-
-**Versie 1.0**
-
-### V. Overige calamiteiten
-
-Het **BeveiligingsNet 2001** is ontwikkeld door Stavoor Circon in opdracht van het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten (BPR). De ontwikkeling is tot stand gekomen in nauwe samenwerking met een begeleidingscommissie, bestaande uit vertegenwoordigers van de Nederlandse Vereniging van Burgerzaken, de Vereniging van Nederlandse Gemeenten, verschillende gemeenten, de Binnenlandse Veiligheidsdienst, de Accountantsdienst van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, en het agentschap BPR.
-
-Voor vragen of opmerkingen over dit instrument kunt u contact opnemen met de Infodesk van het agentschap BPR, telefoonnummer: 070 - 36 22 435 of per e-mail: agentschap@bprbzk.nl.
-
-### INLEIDING
-
-Het **BeveiligingsNet** is een hulpmiddel waarmee u kunt nagaan hoe veilig de opslag, uitgifte en administratie van reisdocumenten verloopt in uw gemeente. Naast het toetsen van de kwaliteit van de feitelijke beveiligingsmaatregelen kunt u het **BeveiligingsNet** gebruiken bij het opzetten, invoeren of beoordelen van het beveiligingsplan. Het resultaat geeft aan in hoeverre en op welke gebieden aanvullende maatregelen of voorzieningen nodig zijn.
-
-Deze tweede uitgave van het **BeveiligingsNet** (versie **2001**) is een aangepaste en geactualiseerde versie van het in 2000 geïntroduceerde **BeveiligingsNet**. Het instrument is aangepast aan de situatie waarin de reisdocumenten centraal gepersonaliseerd worden (NGR), alsmede aan de ontwikkelingen op het terrein van met reisdocumenten samenhangende fraude en misbruik.
-
-Het **BeveiligingsNet** wil het procesmatige karakter van de beveiligingsproblematiek benadrukken (bewustwording, continuïteit, optimalisering). Relevante regelgeving wordt beschreven in korte inleidingen op de betreffende onderdelen. Specifieke maatregelen of voorzieningen worden, waar nodig, toegelicht. Aansluitend op de resultaatbepaling is een model voor een rapportage opgenomen waarin u wordt uitgedaagd een actieplan met concrete verbeterpunten op te stellen. Tot slot zijn enkele bijlagen opgenomen met onder meer enkele voorbeeldprocedures en een checklist voor het opstellen van een beveiligingsplan.
-
-### VOOR WIE?
-
-Het **BeveiligingsNet** is bestemd voor:
-
-### DOEL
-
-Het **BeveiligingsNet** is leidraad bij het in de PUN verplicht gestelde jaarlijkse onderzoek naar de staat van de beveiliging rondom de reisdocumenten. De gemeente kan met het **BeveiligingsNet** toetsen hoe veilig de opslag, verstrekking, uitreiking en administratie van reisdocumenten verloopt. Daarnaast kan het **BeveiligingsNet** worden gebruikt bij het opzetten, verder vormgeven of aanpassen van het beveiligingsplan.
-
-### MAATREGELEN EN AANBEVELINGEN
-
-In het **BeveiligingsNet** wordt onderscheid gemaakt tussen krachtens **wet***De wettelijke eisen zijn gebaseerd op de Paspoortwet en de Paspoortuitvoeringsregeling Nederland 2001 (PUN), inclusief toelichtingen en aanvullende ministeriële circulaires. voorgeschreven maatregelen en **aanbevelingen**. De maatregelen zijn voorschriften, procedures of voorzieningen die deel uitmaken van het verplichte minimum beveiligingsniveau. De aanbevelingen zijn procedures of voorzieningen die niet verplicht zijn, maar waarmee de beveiliging kan worden geoptimaliseerd.
-
-Als alle maatregelen zijn doorgevoerd, beschikt de gemeente over een **voldoende** beveiligingsniveau. Als daarboven alle aanbevelingen zijn doorgevoerd, beschikt de gemeente over een **optimaal** beveiligingsniveau.
-
-### RESULTAATBEPALING
-
-De maatregelen en aanbevelingen zijn in het **BeveiligingsNet** in de vorm van vragen geformuleerd waarop met ‘ja’ of ‘nee’ kan worden geantwoord. De vragen zijn verdeeld over negen hoofdstukken die samen de bouwstenen vormen van het beveiligingssysteem.
-
-Het ontbreken van of niet voldoen aan een maatregel in uw gemeente levert een zogenoemde ‘lacune’ (hiaat, tekort) op. Het totaal aantal lacunes geeft per hoofdstuk een indicatie van de **beveiligingsachterstand**, d.w.z. hoeveel maatregelen moeten nog worden ingevoerd om te komen tot een beveiligingsniveau dat zowel wettelijk als beveiligingstechnisch **voldoende** is.
-
-U ontvangt punten voor de maatregelen en aanbevelingen die in uw gemeente zijn ingevoerd. De procentuele verhouding tussen de behaalde en maximaal te behalen punten geeft per hoofdstuk een indicatie van de gerealiseerde **beveiligingsinspanning**, d.w.z. de inzet die uw gemeente nu pleegt om de reisdocumenten te beveiligen.
-
-Na het invullen van alle subtotalen op de resultaatpagina ziet u per beveiligingsaspect:
-
-### INVULINSTRUCTIE
-
-De vragen zijn verdeeld over zeven hoofdstukken. Elk hoofdstuk bevat een aantal thema's. Onder deze thema's staat soms een samenvatting van het relevante PUN-artikel, een verwijzing naar een bijlage of een korte beveiligingstechnische uitleg. Daarna volgen de vragen die met ‘ja’ of ‘nee’ beantwoord kunnen worden.
-
-Een voorbeeld van enkele vragen uit de paragraaf over het jaarlijkse onderzoek naar en actualisering van de beveiligingsmaatregelen (paragraaf 2.4):
-
-### BEVEILIGINGSBELEID, BEVEILIGINGSPLAN, COMMUNICATIE EN ONDERZOEK
-
-### AANDACHTSPUNTEN BIJ DE WAARDERING VAN HET RESULTAAT
-
-Het **BeveiligingsNet** levert een beeld op van de mate waarin uw beveiligingssysteem voldoet aan de wettelijke verplichtingen en aan actuele beveiligingstechnische inzichten. Het aantal lacunes in uw beveiliging heeft een grote invloed op de hoogte van de risico's die u loopt bij de opslag, verstrekking en uitreiking van reisdocumenten. Het bestaan van dergelijke tekortkomingen kan daarom niet worden gecompenseerd door een relatief hoge score op de beveiligingsinspanning. Zonder goede fundering blijft een huis kwetsbaar, hoe goed en gedetailleerd de rest ook is gebouwd en ingericht.
-
-Het beoordelen van een beveiligingssysteem is een complexe aangelegenheid die veel aandacht vraagt. U kunt bijvoorbeeld bij het gebruik van het **BeveiligingsNet** bepaalde zaken over het hoofd zien. Ook betekent een goede uitkomst (nul lacunes en een hoge beveiligingsinspanning) niet automatisch dat u geen risico meer loopt. We geven enkele voorbeelden:
-
-Periodieke observatie van de feitelijke uitvoering van procedures is dus nodig. En zelfs dán valt te verwachten dat de geobserveerde uitvoering wordt beïnvloed door sociaal wenselijk gedrag (bijvoorbeeld iedereen doet vandaag extra zijn best) of door andere specifieke factoren (bijvoorbeeld tijdelijk personeelstekort). Daarom is het raadzaam om regelmatig de naleving van procedures te controleren aan de hand van registraties, tellingen, parafen, etc. Ook periodieke instructiebijeenkomsten dragen bij aan het scherp houden van het veiligheidsbewustzijn van alle medewerkers.
-
-De inventarisatie met het **BeveiligingsNet** vormt een momentopname. De feitelijke gang van zaken rond de beveiliging kan – bijvoorbeeld een week later – daarvan min of meer afwijken. U wordt daarom geadviseerd niet blind te varen op het verkregen resultaat, maar dit te gebruiken als hulpmiddel bij het doorlopend proces van opbouwen, bewaken en bijstellen van uw beveiligingssysteem en bij het optimaal op elkaar afstemmen van de verschillende elementen van dat systeem.
-
-Wij wensen u veel succes bij het meten en zo nodig optimaliseren van uw beveiliging!
-
-### 1. TAKEN, VERANTWOORDELIJKHEDEN EN BEVOEGDHEDEN
-
-### 2. BEVEILIGINGSBELEID, BEVEILIGINGSPLAN, COMMUNICATIE EN ONDERZOEK
-
-### 3. ORGANISATORISCHE MAATREGELEN EN AUTORISATIES
-
-### 4. BOUWKUNDIGE EN ELEKTROTECHNISCHE VOORZIENINGEN
-
-### 5. ICT BEVEILIGING
-
-### 6. IDENTITEITSVERIFICATIE
-
-### 7. DE BESLISSING OP DE AANVRAAG
-
-### 8. ONTVANGST, UITREIKEN EN ONTTREKKING VAN REISDOCUMENTEN
-
-### 9. BEHEER EN ADMINISTRATIE VAN REISDOCUMENTEN, FORMULIEREN EN MATERIALEN
-
-### Resultaat **BeveiligingsNet**
-
-Het **BeveiligingsNet** levert twee soorten resultaten op. Ten eerste noteert u de aantallen lacunes en de beveiligingsinspanning per hoofdstuk in het onderstaande schema. Ten tweede neemt u de lacunes op in het actieplan. Dit actieplan vult u verder in op basis van afspraken in uw gemeente.
-
-### Actieplan *De elektronische versie van het **BeveiligingsNet** print het resultatenschema en het actieplan. Tevens wordt het actieplan als Word-document opgeslagen. U kunt zelf in dit document verder werken. De PUN (art. 94) schrijft voor dat de beveiliging rondom de reisdocumenten jaarlijks wordt geëvalueerd aan de hand van het **BeveiligingsNet**. De geconstateerde afwijkingen moeten schriftelijk worden vastgelegd en tenminste vijf jaar naast het beveiligingsplan worden bewaard. Het resultatenschema en een ingevuld actieplan kunnen dienen als basis voor deze jaarlijkse rapportage.
-
-Het actieplan bestaat uit een lijst met specifieke tekortkomingen (de lacunes). De lijst beschrijft dus wat nog moet gebeuren om het beveiligingssysteem in overeenstemming te brengen met de wettelijke vereisten. Per punt dient u aan te geven wie actie moet ondernemen en op welk moment e.e.a. gereed moet zijn, dan wel op welk moment er over deze actie gerapporteerd zal worden.
-
-### BIJLAGE 1. RISICO'S EN MAATREGELEN
-
-Beveiligingsmaatregelen zijn bedoeld om risico's af te dekken. Het beveiligingssysteem bestaat uit een samenhangend stelsel van bouwkundige en electrotechnische voorzieningen en organisatorische maatregelen (procedures, werkafspraken).
-
-De risico's die spelen rondom het proces van aanvraag, verstrekking, beheer, opslag, uitreiking en administratie van documenten zijn de volgende:
-
-### BIJLAGE 2. ASPECTEN VAN BEVEILIGINGSBELEID
-
-Het gemeentebestuur is eindverantwoordelijk voor de ontwikkeling van het beveiligingsbeleid. In dit beleid wordt de verbinding gelegd tussen de totale visie op de beveiliging, de inschatting van risico's die de gemeente loopt (risico-inventarisatie), de verdeling van verantwoordelijkheden m.b.t. de noodzakelijke beveiligingsmaatregelen en de instandhouding van een goede beveiligingsattitude (kennis en houding). Vanuit dit beveiligingsbeleid wordt door de verschillende afdelingen een beveiligingsplan geschreven. In zo'n beveiligingsplan worden de bouwkundige/fysieke maatregelen beschreven en relevante werkprocessen vastgelegd. Daarnaast wordt aandacht besteed aan de beveiligingsorganisatie en aan de manier waarop wordt gewerkt aan het instandhouden van een goede beveiligingsattitude.
-
-De volgende elementen maken deel uit van het beveiligingsbeleid:
-
-### BIJLAGE 3. FUNCTIEBESCHRIJVING BEVEILIGINGSFUNCTIONARIS
-
-Rechtstreekse verantwoordelijkheid naar de burgemeester zonder tussenkomst van leidinggevenden in de lijn.
-
-De beveiligingsfunctionaris wordt conform de PUN2001 door de burgemeester in deze taak benoemd. Daarbij dient in ieder geval sprake te zijn van functiescheiding tussen de beveiligingsfunctie en uitvoerende taken bij reisdocumenten (in overeenstemming met PUN art. 93 lid 10).
-
-De beveiligingsfunctionaris is verantwoordelijk voor:
-
-De werkzaamheden omvatten tenminste de volgende onderdelen:
-
-### BIJLAGE 4. AANDACHTSPUNTEN BIJ HET SCHRIJVEN VAN PROCEDURES
-
-Procedures in het beveiligingsplan reisdocumenten hebben tot doel de voor de beveiliging relevante processen rondom de aanvraag, verstrekking, beheer, opslag en administratie van reisdocumenten vast te leggen. Procedures zijn een gestructureerde weerslag van de dagelijkse werkzaamheden en worden gebruikt voor instructie van medewerkers en als kader voor de (op beveiligingsaspecten gerichte) controle van de dagelijkse werkzaamheden door de leidinggevende of een (externe) onderzoeker. In de procedures staat hoe het is afgesproken en met behulp van de schriftelijke procedures kan worden nagegaan of wordt gewerkt zoals afgesproken.
-
-Om aan deze tweeledige doelstelling (instructie en controle) te kunnen voldoen, is het van belang dat procedures de dagelijkse werkzaamheden zo precies mogelijk beschrijven en dat er elementen in zijn opgenomen, die maken dat achteraf kan worden nagegaan of werkelijk is gewerkt zoals afgesproken.
-
-Procedures worden opgebouwd volgens de volgende aandachtspunten:
-
-### BIJLAGE 5. FUNCTIESCHEIDING
-
-Functiescheiding heeft als doel misbruik of oneigenlijk gebruik van bevoegdheden te voorkomen. Functiescheiding maakt dat collega's elkaar (direct of achteraf) onderling kunnen controleren. Daarmee wordt de kans verkleind dat zij door ‘kwaadwillenden’ worden misleid (externe fraude) of dat zij, al dan niet onder druk van chantage, bedreiging of omkoping, misbruik maken van hun bevoegdheden (interne fraude).
-
-De taken/verantwoordelijkheden in het proces van aanvraag tot uitreiking van reisdocumenten zijn de volgende:
-
-De taken zijn uiteraard op verschillende manieren te groeperen. Daarbij dienen de verplichtingen uit de PUN als uitgangspunt te worden gehanteerd. De PUN schrijft functiescheiding voor:
-
-Een mogelijke groepering van taken over de medewerkers is:
-
-De implicaties van de verplichtingen op het vlak van de functiescheiding voor de verdeling van deze taken zijn de volgende:
-
-### BIJLAGE 6. AANDACHTSPUNTEN LOGISCHE EN FYSIEKE TOEGANGSBEVEILIGING
-
-Voor de controle op de logische en fysieke toegangsbeveiliging maken we gebruik van sleutels, key-cards, persoonsgebonden identificatiekaarten (Identificatiekaarten Aanvraagsysteem Reisdocumenten - IAR) en codes (PIN-codes van het RAAS en codes van het toegangssysteem). Een procedure voor de uitgifte en het beheer van deze middelen dient niet alleen om de afdeling Burgerzaken en de opslagvoorzieningen te vrijwaren tegen bezoekers die daar niets te zoeken hebben, maar is ook een instrument in het kader van zorgvuldige autorisatie. Een goede procedure bevat in elk geval de volgende elementen:
-
-### BIJLAGE 7A. VOORBEELDPROCEDURE IDENTIFICERENDE VRAGEN
-
-Inleiding
-
-In situaties waarin geen oud document kan worden overgelegd, of wanneer om enigerlei reden getwijfeld wordt aan de identiteit van de aanvrager geschiedt de identiteitsverificatie onder meer op basis van identificerende vragen. Kwaadwillende aanvragers kunnen zich hierop voorbereiden. Daarom worden zoveel mogelijk moeilijke en gevarieerde vragen gesteld en wordt een norm gehanteerd omtrent het aantal foute antwoorden dat wordt toegestaan. Het vragenformulier wordt ondertekend door de ambtenaar.
-
-Opmerking:
-
-identificerende vragen stellen aan kinderen en zeker aan jonge kinderen die geen of nauwelijks Nederlands spreken, is in de praktijk slecht toepasbaar. Helaas zijn de mogelijkheden voor nadere verificatie van de identiteit beperkt. Ook bij allochtone aanvragers is het verifiëren van de identiteit op basis van identificerende vragen gecompliceerd. In andere culturen hebben verjaardagen en geboortedata een andere status dan in de West-Europese, hetgeen maakt dat aanvragers minder bekend zijn met deze gegevens. Dit vraagt extra aandacht en een manier van identiteitsvaststelling die recht doet aan deze cultuurverschillen zonder de identiteitsbepaling te versoepelen.
-
-### BIJLAGE 8. TIPS VOOR FOTO-FOTO EN FOTO-PERSOON VERGELIJKING
-
-De pasfoto voor een nieuw reisdocument moet voldoen aan de acceptatiecriteria zoals vermeld in de fotomatrix. De fotomatrix is opgenomen in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&bijlage=L&z=2008-01-01&g=2008-01-01) van de paspoortuitvoeringsregelingen. In de uitvoeringsregelingen (art. 28 PUN, art. 42 PUB, art. 17 PUKMAR, art. 40 PUNA) is bepaald onder welke voorwaarden van één of meer acceptatiecriteria kan worden afgeweken.
-
-Bij de controle op overeenkomsten tussen de persoon van de aanvrager en de foto die hij inlevert of de foto in het oude document dat hij overlegt, moet worden gelet op typische bij voorkeur onveranderbare kenmerken:
-
-Probeer, zeker bij twijfel, de persoon te bekijken vanuit het perspectief van de foto, dus met het hoofd in dezelfde houding. Vergelijk:
-
-Bij vergelijking van verschillende pasfoto's gelden dezelfde aandachtspunten als bij foto-persoon vergelijking. Extra tips zijn:
-
-Tip: Bekijk de foto's op de kop. Omdat de invloed van het gehele gezicht dan minder dominant wordt, wordt het makkelijker de foto's objectief/wetenschappelijk te bekijken en onderlinge afstanden, verhoudingen en vormen te vergelijken.
-
-### BIJLAGE 9. CHECKLIST BEVEILIGINGSPLAN
-
-Het beveiligingsplan is een ‘levend document’ dat jaarlijks wordt bijgesteld naar aanleiding van het periodieke onderzoek naar de effectiviteit en doelmatigheid van de beveiliging of na tussentijdse wijzigingen van procedures of voorzieningen. Het beveiligingsplan dient in ieder geval de volgende onderdelen te bevatten:
-
-## Bijlage F. Overzicht aanvraaggegevens
-
-- 1. **Reisdocumenten niet zijnde nooddocumenten** Deze lijst geldt voor reisdocumenten niet zijnde nooddocumenten. De onderstaande rubrieken moeten worden ingevuld, voor zover op de aanvraag van toepassing.
-
-- Aanvraagnummer
-
-- Datum aanvraag
-
-- Spoedaanvraag (alleen voor gemeenten)
-
-- Soort reisdocument
-
-- Huidig reisdocument/ bijschrijving – soort
-
-- Huidig reisdocument/ bijschrijving – nummer
-
-- Huidig reisdocument/ bijschrijving – datum einde geldigheid
-
-- Huidig reisdocument/ bijschrijving – autoriteit verstrekking
-
-- Sofi-nummer (alleen voor Nederlanders die in een gemeentelijke basisadministatie zijn ingeschreven)
-
-- Nationaliteit
-
-- Geslachtsnaam
-
-- Voorvoegsel geslachtsnaam
-
-- Adellijke titel/ predikaat
-
-- Voornamen
-
-- Geboortedatum
-
-- Geboorteplaats
-
-- Geslacht
-
-- Lengte
-
-- Adres
-
-- Postcode+Woonplaats
-
-- Bijschrijven kinderen (aantal kb)
-
-- Documentnummer ouder (als ks)
-
-- Toestemming wettelijke vertegenwoordiger(s)
-
-- Verblijfsdocument – nummer
-
-- Verblijfsdocument – datum einde geldigheid
-
-- Aanduiding vermissing
-
-- Datum Verklaring vermissing
-
-- Proces verbaal vermissing vorig document – nummer
-
-- Vermist reisdocument – nummer
-
-- Vermist reisdocument – autoriteit verstrekking
-
-- Verzoek originele aanvraag vermist document
-
-- Vermelding partner (SC I)
-
-- Geslachtsnaam partner
-
-- Voorvoegsel geslachtsnaam partner
-
-- Adellijke titel partner
-
-- Pseudoniem (SC IV)
-
-- Niet in staat tot ondertekening (SC V)
-
-- XXA (staatloze) (SC XIb)
-
-- Dit paspoort is afgegeven ter vervanging van (SC XII)
-
-- 2. **Nooddocumenten** Deze lijst geldt voor nooddocumenten. De onderstaande rubrieken moeten worden ingevuld, voor zover op de aanvraag van toepassing.
-
-- Aanvraagnummer
-
-- Datum aanvraag
-
-- Soort reisdocument
-
-- Huidig reisdocument/ bijschrijving – soort
-
-- Huidig reisdocument/ bijschrijving – nummer
-
-- Huidig reisdocument/ bijschrijving – datum einde geldigheid
-
-- Huidig reisdocument/ bijschrijving – autoriteit verstrekking
-
-- Nationaliteit
-
-- Geslachtsnaam
-
-- Voorvoegsel geslachtsnaam
-
-- Adellijke titel/ predikaat
-
-- Voornamen
-
-- Geboortedatum
-
-- Geboorteplaats
-
-- Geslacht
-
-- Lengte
-
-- Adres
-
-- Postcode+Woonplaats
-
-- Toestemming wettelijke vertegenwoordiger(s)
-
-- Aanduiding vermissing
-
-- Datum Verklaring vermissing
-
-- Proces verbaal vermissing vorig document – nummer
-
-- Vermist reisdocument – nummer
-
-- Vermist reisdocument – autoriteit verstrekking
-
-- Niet in staat tot ondertekening (SC V)
-
-- Dit paspoort is afgegeven ter vervanging van (SC XII)
-
-## Bijlage G. Tot verstrekking van paspoorten bevoegde buitenlandse posten
-
-| Abidjan | Khartoem | Seoul |
-| --- | --- | --- |
-| Abu Dhabi | Kiev | Shanghai |
-| Accra | Kigali | Singapore |
-| Addis Abeba | Kinshasa | Skopje |
-| Algiers | Kobe | St. Petersburg |
-| Almaty | Koeweit | Sofia |
-| Amman | Kopenhagen | Stockholm |
-| Ankara | Kuala Lumpur | Sydney |
-| Antwerpen | La Paz | Tallinn |
-| Asmara | Lagos | Teheran |
-| Athene | Lima | Tel Aviv |
-| Bagdad | Lissabon | Tirana |
-| Bamako | Ljubljana | Tokyo |
-| Bangkok | Londen | Toronto |
-| Barcelona | Los Angeles | Tripoli |
-| Beiroet | Luanda | Tunis |
-| Belgrado | Lusaka | Valletta |
-| Berlijn | Luxemburg | Vancouver |
-| Bern | Madrid | Vilnius |
-| Boedapest | Managua | Warschau |
-| Boekarest | Manilla | Washington |
-| Bombay | Maputo | Wellington |
-| Brasilia | Mexico | Wenen |
-| Bratislava | Miami | Windhoek |
-| Brussel | Milaan | Zagreb |
-| Buenos Aires | Montevideo |   |
-| Cairo | Montreal |   |
-| Canberra | Moskou |   |
-| Caracas | München |   |
-| Chicago | Muscat |   |
-| Colombo | Nairobi |   |
-| Cotonou | New Delhi |   |
-| Dakar | New York |   |
-| Damascus | Oslo |   |
-| Dar es Salaam | Ottawa |   |
-| Dhaka | Ouagadougou |   |
-| Dubai | Paramaribo |   |
-| Dublin | Parijs |   |
-| Düsseldorf | Peking |   |
-| Frankfurt a/d Main | Port of Spain |   |
-| Guangzhou | Praag |   |
-| Guatemala | Pretoria |   |
-| Hamburg | Quito |   |
-| Hanoi | Rabat |   |
-| Harare | Riga |   |
-| Havanna | Rio de Janeiro |   |
-| Helsinki | Riyadh |   |
-| Ho Chi Minh stad | Rome |   |
-| Hongkong | Sana'a |   |
-| Islamabad | San José |   |
-| Istanbul | Sante Fé de Bogota |   |
-| Jakarta | Santiago de Chile |   |
-| Kaapstad | Santo Domingo |   |
-| Kampala | Sao Paulo |   |
-| Karachi | Sarajevo |   |
-
-## Bijlage H. Tot verstrekking van Nederlandse identiteitskaarten bevoegde buitenlandse posten
-
-Ankara
-
-Antwerpen
-
-Athene
-
-Barcelona
-
-Berlijn
-
-Bern
-
-Brussel
-
-Dublin
-
-Düsseldorf
-
-Frankfurt
-
-Hamburg
-
-Helsinki
-
-Istanbul
-
-Kopenhagen
-
-Lissabon
-
-Londen
-
-Luxemburg
-
-Madrid
-
-Milaan
-
-München
-
-Oslo
-
-Parijs
-
-Rome
-
-Stockholm
-
-Wenen
-
-## Bijlage I. IAR-kaarten
-
-Identificatiekaarten (IAR-kaarten) worden door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) verstrekt.
-
-BZK verstrekt standaard vijf identificatiekaarten (IAR-kaarten) per door BZK beschikbaar gesteld reisdocumentenstation (RAAS). In de gevallen waar door BZK aanvullend nog een werkstation beschikbaar is gesteld, geldt dat voor dit werkstation drie IAR-kaarten worden verstrekt.
-
-Een uitgiftelocatie kan extra IAR-kaarten aanvragen. IAR-kaarten mogen alleen worden aangevraagd voor vaste medewerkers, waarbij er per uitgiftelocatie in totaal niet meer dan 20 operationele IAR-kaarten mogen zijn. Deze grens is vastgesteld uit oogpunt van beveiliging.
-
-De autorisatiebevoegde dient diefstal, verlies of onzorgvuldig gebruik van IAR-kaarten direct te melden bij Sdu Identification, zodat deze IAR-kaarten kunnen worden geblokkeerd. IAR-kaarten die defect raken bij initiële uitlevering of wegens technische mankementen worden op aanvraag vervangen.
-
-De leveringstermijn van IAR-kaarten bedraagt circa een week. Spoedaanvragen worden alleen gehonoreerd als het een calamiteit betreft, in samenhang met het plaatsen van een nieuw RAAS en/of werkstation.
-
-## Bijlage J. Invulinstructie laissez-passer
-
-|   | **Algemene opmerkingen** |   |
-| --- | --- | --- |
-|   | Het laissez passer wordt handmatig ingevuld op de hierna weergegeven wijze. |   |
-|   | **Invulinstructie per rubriek** |   |
-| **Type** | LP |   |
-| **Code** | NLD |   |
-| **Document-** **nummer** | Het documentnummer dat in het document geperforeerd is, overnemen. |   |
-| **Naam** | De naam van de houder in volgorde: |   |
-|   | – Adellijke titel | – **voluit** |
-|   | – Voorvoegsel voor de achternaam | – **voluit** |
-|   | – Achternaam | – **geslachtsnaam houder** |
-| **Voornamen** | Voornamen van de houder in volgorde: |   |
-|   | – Adellijke predikaat | – **voluit (facultatief)** |
-|   | – Voornamen | – **voluit** |
-|   | Indien geen voornamen worden ingevuld wordt dit aangegeven met drie liggende streepjes, ---. |   |
-|   | Algemene opmerking: Indien de naam niet past in de hiervoor bestemde ruimte m.b.v. standaardclausule II verwijzen naar pagina 3. |   |
-| **Nationaliteit** | Alleen in te vullen bij Nederlanders. In andere gevallen drie liggende streepjes, ---. |   |
-| **Geslacht** | M: man V/F: vrouw |   |
-| **Lengte** | Voorbeeld: 1,82m (Cijfermatig in meters en centimeters vermelden gevolgd door afkorting m). |   |
-| **Geboortedatum** | Vermelden iVermelden in volgorde: n formaat dd XXX eejj – Twee posities dagaanduiding in cijfers. – Spatie – Eerste drie posities voor maandaanduiding (zie lijst hierna vermeld) – Spatie – Laatste vier posities eeuw- en jaartalaanduiding |   |
-|   | Lijst maandafkortingen: JAN FEB MAA APR MEI JUN JUL AUG SEP OKT NOV DEC |   |
-|   | Voorbeelden: 00 --- 1956 00 JAN 1984 19 JAN 1984 Bij de toekenning van een reisdocument wordt altijd een eeuw- en jaartal aanduiding opgenomen. |   |
-| **Afgiftedatum** | Zie geboortedatum |   |
-| **Geboorteplaats** | Geboorteplaatsnaam vermelden |   |
-| **Geldig tot** | Datum tot wanneer het document geldig is. Datum weergeven zoals aangegeven bij geboortedatum. |   |
-| **Autoriteit** | Gouverneur van Minister van Buitenlandse Zaken Ambassadeur te Consul-Generaal te Consul te Hfd. cons. afd. te |   |
-| **Waarmerking** | Stempel autoriteit moet over de foto vallen. |   |
-| **Handtekening** | De houder plaatst zijn handtekening op de bestemde plaats onder de foto. |   |
-| **Opmerkingen** | Pagina 3 is te gebruiken voor opmerkingen van bevoegde instanties. Op deze pagina worden de datum waarop het reisdocument uiterlijk moet worden ingeleverd en de autoriteit bij wie de inlevering dient plaats te vinden ingevuld. |   |
-| **Lamineren** | Het document wordt na invulling van de houderpagina gelamineerd. Dit gebeurt niet met een laminator maar door middel van koud laminaat dat als een sticker wordt geplakt. Door de beschermlaag op de achterzijde van de folie te verwijderen kan de folie, zonder gebruik van hulpmiddelen, over de houderpagina worden geplakt. |   |
-
-## Bijlage L
-
-Ligt ter inzge bij het Agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-##### Artikel 90a. De opstartkaart
-
-1. Per aanvraagstationlocatie worden door de leverancier twee opstartkaarten verstrekt, waarmee het aanvraagstation in werking kan worden gesteld.
-
-2. De autorisatiebevoegde aanvraagstation is, met inachtneming van de gebruikershandleiding bij het aanvraagstation, bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=X&paragraaf=5&artikel=103&z=2026-04-01&g=2026-04-01), verantwoordelijk voor de bewaring en het gebruik van de opstartkaart.
-
-3. Bij defect of verlies van een opstartkaart wordt terstond contact opgenomen met de leverancier.
-
-4. Een defecte opstartkaart wordt terstond aan de leverancier toegestuurd.
-
-5. De leverancier houdt een registratie bij van de uitgegeven opstartkaarten. Tevens registreert hij welke opstartkaarten vermist zijn.
-
-#### § 2. Aflevering van zendingen
-
-#### § 2. Aflevering van zendingen
-
-#### § 3. Beheer van ontvangen gepersonaliseerde reisdocumenten en bijschrijvingsstickers
-
-#### § 5. Te gebruiken apparatuur, programmatuur en overige materialen
-
-### Hoofdstuk XI. Beveiliging
-
-### Hoofdstuk XII. Voorkoming en bestrijding van misbruik met reisdocumenten
-
-### Hoofdstuk XII. Voorkoming en bestrijding van misbruik met reisdocumenten
-
-### Hoofdstuk XIII. Verantwoording
-
-## Bijlage B. Standaardformulieren
-
-Vervallen
-
-In deze bijlage zijn de procedures weergegeven die moeten worden gevolgd indien een aangekondigde zending niet op het afgesproken tijdstip arriveert, de ontvangen zending beschadigd is, afwijkingen vertoont of indien bij controle van de zending documenten ontbreken. Er worden vijf hoofdfouten onderscheiden, waarvan er een tweetal nog nader onderverdeeld zijn. De foutsituaties worden onderstaand beschreven. Per foutsituatie wordt vervolgens per pagina schematisch aangegeven hoe gehandeld dient te worden.
-
-### I. De aangekondigde zending wordt niet op het afgesproken tijdstip ontvangen
-
-In deze bijlage zijn de procedures weergegeven die moeten worden gevolgd indien een aangekondigde zending gepersonaliseerde reisdocumenten niet op het afgesproken tijdstip arriveert, de ontvangen zending beschadigd is, afwijkingen vertoont of indien bij controle van de zending documenten ontbreken. De foutafhandelingsprocedures zijn beschreven voor:
-
-### 2. Foutafhandelingsprocedures Buitenland (Nederlandse Posten)
-
-In deze paragraaf zijn de procedures weergegeven die moeten worden gevolgd indien een aangekondigde zending niet op het afgesproken tijdstip arriveert, de ontvangen zending beschadigd is, afwijkingen vertoont of indien bij controle van de zending documenten ontbreken. Er worden vijf hoofdfouten onderscheiden, waarvan er een tweetal nog nader onderverdeeld zijn. De foutsituaties worden onderstaand beschreven. Per foutsituatie wordt vervolgens per pagina schematisch aangegeven hoe gehandeld dient te worden.
-
-##### I. De ontvangen zending bevat een andere inhoud dan aangekondigd
-
-Dit is het geval indien de inhoud van de zending niet overeenkomt met de op de verzendbrief vermelde inhoud of met hetgeen in de elektronische vooraankondiging van de producent staat vermeld. De volgende situaties worden onderscheiden:
-
-- 1. de zending bevat **niet alle** aangekondigde documenten (er ontbreken dus documenten) In dit geval dient de procedure, vermeld in **schema I 1**, te worden gevolgd.
-
-- 2. de zending bevat (ook) **andere** documenten dan aangekondigd (het pakket bevat documenten die niet voor de uitgiftelocatie zijn bestemd; het kan zijn dat bijvoorbeeld het adresetiket op het pakket niet juist was, dat er niet voor de uitgiftelocatie bedoelde colli in het pakket zitten of dat er zich niet voor de uitgiftelocatie bedoelde documenten in een collo bevinden). In deze gevallen moet de procedure, vermeld in **schema I 2**, worden gevolgd.
-
-##### II. De ontvangen zending is beschadigd
-
-Hiervan is sprake indien bij ontvangst van het pakket geconstateerd wordt dat de verpakking van het pakket beschadigingen vertoont. Er worden verschillende situaties onderscheiden:
-
-- 1. De verpakking is beschadigd maar de inhoud is onbeschadigd en compleet (Alle aangekondigde documenten zijn aanwezig en onbeschadigd). In dit geval dient **schema II 1** te worden gevolgd.
-
-- 2. Zowel de verpakking als de inhoud zijn beschadigd, maar de inhoud is wel compleet (alle aangekondigde documenten zijn aanwezig maar één of meerdere documenten zijn beschadigd). In dit geval dienst **schema II 2** te worden gevolgd.
-
-- 3. Zowel de verpakking als de inhoud zijn beschadigd en de inhoud is bovendien incompleet (Eén of meerdere documenten zijn beschadigd en daarnaast zijn niet alle aangekondigde documenten aanwezig). In dit geval dient **schema II 3** te worden gevolgd.
-
-##### III. De inhoud van de zending is goed, maar niet op de afgesproken wijze verpakt
-
-Hiervan is sprake indien de inhoud van de zending wel overeenkomt met hetgeen door de producent is aangekondigd, maar de inhoud is niet op de juiste wijze is verpakt. Het pakket bevat bijvoorbeeld colli met verschillende documenten (er zitten bijvoorbeeld zakenpaspoorten tussen de nationale paspoorten) of de zending bevat geen of een onjuiste verzendbrief. In dit geval dient de procedure, beschreven in **schema III** te worden gevolgd.
-
-##### IV. Overige calamiteiten
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema IV** beschreven procedure te worden gevolgd.
-
-### I. De aangekondigde zending wordt niet op het afgesproken tijdstip ontvangen
-
-Hiervan is sprake indien een uitgiftelocatie een aangekondigde zending niet op het met de distributeur afgesproken tijdstip ontvangt. De procedure die gevolgd dient te worden, is weergegeven in **schema I**.
-
-##### I. De aangekondigde zending wordt niet op het afgesproken tijdstip ontvangen
-
-Hiervan is sprake indien een uitgiftelocatie een aangekondigde zending niet op het met de distributeur afgesproken tijdstip ontvangt. De procedure die gevolgd dient te worden, is weergegeven in **schema I**.
-
-##### II. De ontvangen zending bevat een andere inhoud dan aangekondigd
-
-Dit is het geval indien de inhoud van de zending niet overeenkomt met de op de verzendbrief vermelde inhoud of met hetgeen in de elektronische vooraankondiging van de producent staat vermeld. De volgende situaties worden onderscheiden:
-
-- 1. de zending bevat **niet alle** aangekondigde documenten (er ontbreken dus documenten) In dit geval dient de procedure, vermeld in **schema II 1**, te worden gevolgd.
-
-- 2. de zending bevat (ook) **andere** documenten dan aangekondigd (het pakket bevat documenten die niet voor de uitgiftelocatie zijn bestemd; het kan zijn dat bijvoorbeeld het adresetiket op het pakket niet juist was, dat er niet voor de uitgiftelocatie bedoelde colli in het pakket zitten of dat er zich niet voor de uitgiftelocatie bedoelde documenten in een collo bevinden). In deze gevallen moet de procedure, vermeld in **schema II 2**, worden gevolgd.
-
-##### III. De ontvangen zending is beschadigd
-
-Hiervan is sprake indien bij ontvangst van het pakket geconstateerd wordt dat de verpakking van het pakket beschadigingen vertoont. Er worden verschillende situaties onderscheiden:
-
-- 1. De verpakking is beschadigd maar de inhoud is onbeschadigd en compleet (Alle aangekondigde documenten zijn aanwezig en onbeschadigd). In dit geval dient **schema III 1** te worden gevolgd.
-
-- 2. Zowel de verpakking als de inhoud zijn beschadigd, maar de inhoud is wel compleet (alle aangekondigde documenten zijn aanwezig maar één of meerdere documenten zijn beschadigd). In dit geval dienst **schema III 2** te worden gevolgd.
-
-- 3. Zowel de verpakking als de inhoud zijn beschadigd en de inhoud is bovendien incompleet (Eén of meerdere documenten zijn beschadigd en daarnaast zijn niet alle aangekondigde documenten aanwezig). In dit geval dient **schema III 3** te worden gevolgd.
-
-##### IV. De inhoud van de zending is goed, maar niet op de afgesproken wijze verpakt
-
-Hiervan is sprake indien de inhoud van de zending wel overeenkomt met hetgeen door de producent is aangekondigd, maar de inhoud is niet op de juiste wijze is verpakt. Het pakket bevat bijvoorbeeld colli met verschillende documenten (er zitten bijvoorbeeld zakenpaspoorten tussen de nationale paspoorten) of de zending bevat geen of een onjuiste verzendbrief. In dit geval dient de procedure, beschreven in **schema IV** te worden gevolgd.
-
-##### V. Overige calamiteiten
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema V** beschreven procedure te worden gevolgd.
-
-### III. De ontvangen zending is beschadigd
-
-## Bijlage I. IAR-kaarten
-
-Vervallen
-
-## Bijlage J. Invulinstructie laissez-passer
-
-|   | **Algemene opmerkingen** |   |
-| --- | --- | --- |
-|   | Het laissez passer wordt handmatig ingevuld op de hierna weergegeven wijze. |   |
-|   | **Invulinstructie per rubriek** |   |
-| **Type** | LP |   |
-| **Code** | NLD |   |
-| **Document-** **nummer** | Het documentnummer dat in het document geperforeerd is, overnemen. |   |
-| **Naam** | De naam van de houder in volgorde: |   |
-|   | – Adellijke titel | – **voluit** |
-|   | – Voorvoegsel voor de achternaam | – **voluit** |
-|   | – Achternaam | – **geslachtsnaam houder** |
-| **Voornamen** | Voornamen van de houder in volgorde: |   |
-|   | – Adellijke predikaat | – **voluit (facultatief)** |
-|   | – Voornamen | – **voluit** |
-|   | Indien geen voornamen worden ingevuld wordt dit aangegeven met drie liggende streepjes, ---. |   |
-|   | Algemene opmerking: Indien de naam niet past in de hiervoor bestemde ruimte m.b.v. standaardclausule II verwijzen naar pagina 3. |   |
-| **Nationaliteit** | Alleen in te vullen bij Nederlanders. In andere gevallen drie liggende streepjes, ---. |   |
-| **Geslacht** | M/M: man V/F: vrouw |   |
-| **Lengte** | Voorbeeld: 1,82m (Cijfermatig in meters en centimeters vermelden gevolgd door afkorting m). |   |
-| **Geboortedatum** | Vermelden iVermelden in volgorde: n formaat dd XXX eejj – Twee posities dagaanduiding in cijfers. – Spatie – Eerste drie posities voor maandaanduiding (zie lijst hierna vermeld) – Spatie – Laatste vier posities eeuw- en jaartalaanduiding |   |
-|   | Lijst maandafkortingen: JAN/JAN FEB/FEB MRT/MAR APR/APR MEI/MAY JUN/JUN JUL/JUL AUG/AUG SEP/SEP OKT/OCT NOV/NOV DEC/DEC |   |
-|   | Voorbeelden: XX XX 1956 00 JAN 1984 19 JAN 1984 Bij de toekenning van een reisdocument wordt altijd een eeuw- en jaartal aanduiding opgenomen. |   |
-| **Afgiftedatum** | Zie geboortedatum |   |
-| **Geboorteplaats** | Geboorteplaatsnaam vermelden |   |
-| **Geldig tot** | Datum tot wanneer het document geldig is. Datum weergeven zoals aangegeven bij geboortedatum. |   |
-| **Autoriteit** | Gouverneur van Minister van Buitenlandse Zaken |   |
-| **Waarmerking** | Stempel autoriteit moet over de foto vallen. |   |
-| **Handtekening** | De houder plaatst zijn handtekening op de bestemde plaats onder de foto. |   |
-| **Opmerkingen** | Pagina 3 is te gebruiken voor opmerkingen van bevoegde instanties. Op deze pagina worden de datum waarop het reisdocument uiterlijk moet worden ingeleverd en de autoriteit bij wie de inlevering dient plaats te vinden ingevuld. |   |
-| **Lamineren** | Het document wordt na invulling van de houderpagina gelamineerd. Dit gebeurt niet met een laminator maar door middel van koud laminaat dat als een sticker wordt geplakt. Door de beschermlaag op de achterzijde van de folie te verwijderen kan de folie, zonder gebruik van hulpmiddelen, over de houderpagina worden geplakt. |   |
-
-## Bijlage L. Fotomatrix
-
-De fotomatrix is te raadplegen op de website van de Rijksdienst voor Identiteitsgegevens.
-
-## Bijlage E. BeveiligingsNet
-
-Vervallen
-
-## Bijlage E. BeveiligingsNet
-
-Vervallen
-
-## Bijlage F. Overzicht aanvraaggegevens
-
-- 1. **Reisdocumenten niet zijnde nooddocumenten** Deze lijst geldt voor reisdocumenten niet zijnde nooddocumenten. De onderstaande rubrieken moeten worden ingevuld, voor zover op de aanvraag van toepassing.
-
-- Aanvraagnummer
-
-- Datum aanvraag
-
-- Spoedaanvraag (alleen voor gemeenten)
-
-- Soort reisdocument
-
-- Huidig reisdocument/ bijschrijving – soort
-
-- Huidig reisdocument/ bijschrijving – nummer
-
-- Huidig reisdocument/ bijschrijving – datum einde geldigheid
-
-- Huidig reisdocument/ bijschrijving – autoriteit verstrekking
-
-- Sofi-nummer (alleen voor Nederlanders die in een gemeentelijke basisadministatie zijn ingeschreven)
-
-- Nationaliteit
-
-- Geslachtsnaam
-
-- Voorvoegsel geslachtsnaam
-
-- Adellijke titel/ predikaat
-
-- Voornamen
-
-- Geboortedatum
-
-- Geboorteplaats
-
-- Geslacht
-
-- Lengte
-
-- Adres
-
-- Postcode+Woonplaats
-
-- Bijschrijven kinderen (aantal kb)
-
-- Documentnummer ouder (als ks)
-
-- Toestemming wettelijke vertegenwoordiger(s)
-
-- Verblijfsdocument – nummer
-
-- Verblijfsdocument – datum einde geldigheid
-
-- Aanduiding vermissing
-
-- Datum Verklaring vermissing
-
-- Proces verbaal vermissing vorig document – nummer
-
-- Vermist reisdocument – nummer
-
-- Vermist reisdocument – autoriteit verstrekking
-
-- Verzoek originele aanvraag vermist document
-
-- Vermelding partner (SC I)
-
-- Geslachtsnaam partner
-
-- Voorvoegsel geslachtsnaam partner
-
-- Adellijke titel partner
-
-- Pseudoniem (SC IV)
-
-- Niet in staat tot ondertekening (SC V)
-
-- XXA (staatloze) (SC XIb)
-
-- Dit paspoort is afgegeven ter vervanging van (SC XII)
-
-- 2. **Nooddocumenten** Deze lijst geldt voor nooddocumenten. De onderstaande rubrieken moeten worden ingevuld, voor zover op de aanvraag van toepassing.
-
-- Aanvraagnummer
-
-- Datum aanvraag
-
-- Soort reisdocument
-
-- Huidig reisdocument/ bijschrijving – soort
-
-- Huidig reisdocument/ bijschrijving – nummer
-
-- Huidig reisdocument/ bijschrijving – datum einde geldigheid
-
-- Huidig reisdocument/ bijschrijving – autoriteit verstrekking
-
-- Nationaliteit
-
-- Geslachtsnaam
-
-- Voorvoegsel geslachtsnaam
-
-- Adellijke titel/ predikaat
-
-- Voornamen
-
-- Geboortedatum
-
-- Geboorteplaats
-
-- Geslacht
-
-- Lengte
-
-- Adres
-
-- Postcode+Woonplaats
-
-- Toestemming wettelijke vertegenwoordiger(s)
-
-- Aanduiding vermissing
-
-- Datum Verklaring vermissing
-
-- Proces verbaal vermissing vorig document – nummer
-
-- Vermist reisdocument – nummer
-
-- Vermist reisdocument – autoriteit verstrekking
-
-- Niet in staat tot ondertekening (SC V)
-
-- Dit paspoort is afgegeven ter vervanging van (SC XII)
-
-## Bijlage G. Tot verstrekking van paspoorten bevoegde buitenlandse posten
-
-| Abidjan | Khartoem | Seoul |
-| --- | --- | --- |
-| Abu Dhabi | Kiev | Shanghai |
-| Accra | Kigali | Singapore |
-| Addis Abeba | Kinshasa | Skopje |
-| Algiers | Kobe | St. Petersburg |
-| Almaty | Koeweit | Sofia |
-| Amman | Kopenhagen | Stockholm |
-| Ankara | Kuala Lumpur | Sydney |
-| Antwerpen | La Paz | Tallinn |
-| Asmara | Lagos | Teheran |
-| Athene | Lima | Tel Aviv |
-| Bagdad | Lissabon | Tirana |
-| Bamako | Ljubljana | Tokyo |
-| Bangkok | Londen | Toronto |
-| Barcelona | Los Angeles | Tripoli |
-| Beiroet | Luanda | Tunis |
-| Belgrado | Lusaka | Valletta |
-| Berlijn | Luxemburg | Vancouver |
-| Bern | Madrid | Vilnius |
-| Boedapest | Managua | Warschau |
-| Boekarest | Manilla | Washington |
-| Bombay | Maputo | Wellington |
-| Brasilia | Mexico | Wenen |
-| Bratislava | Miami | Windhoek |
-| Brussel | Milaan | Zagreb |
-| Buenos Aires | Montevideo |   |
-| Cairo | Montreal |   |
-| Canberra | Moskou |   |
-| Caracas | München |   |
-| Chicago | Muscat |   |
-| Colombo | Nairobi |   |
-| Cotonou | New Delhi |   |
-| Dakar | New York |   |
-| Damascus | Oslo |   |
-| Dar es Salaam | Ottawa |   |
-| Dhaka | Ouagadougou |   |
-| Dubai | Paramaribo |   |
-| Dublin | Parijs |   |
-| Düsseldorf | Peking |   |
-| Frankfurt a/d Main | Port of Spain |   |
-| Guangzhou | Praag |   |
-| Guatemala | Pretoria |   |
-| Hamburg | Quito |   |
-| Hanoi | Rabat |   |
-| Harare | Riga |   |
-| Havanna | Rio de Janeiro |   |
-| Helsinki | Riyadh |   |
-| Ho Chi Minh stad | Rome |   |
-| Hongkong | Sana'a |   |
-| Islamabad | San José |   |
-| Istanbul | Sante Fé de Bogota |   |
-| Jakarta | Santiago de Chile |   |
-| Kaapstad | Santo Domingo |   |
-| Kampala | Sao Paulo |   |
-| Karachi | Sarajevo |   |
-
-##### Artikel 3a. Reisdocumenten zonder vingerafdrukken
-
-Vervallen
-
-#### § 3. Modellen van de reisdocumenten
-
-#### § 4. Register paspoortsignaleringen
-
-### Hoofdstuk II. Vaststelling aanspraken op reisdocumenten en geldigheid
-
-#### § 1. Nationale paspoorten
-
-#### § 1. Nationale paspoorten
-
-#### § 2.1. Reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen ten behoeve van personen die in Aruba, Curaçao of Sint Maarten rechtmatig verblijf hebben
-
-#### § 2.2. Reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen ten behoeve van personen die in Nederland rechtmatig verblijf hebben
-
-#### § 2.3. Nooddocumenten voor niet-Nederlanders als bedoeld in artikel 15, tweede lid, van de wet
-
-#### § 2.4. Geldigheid
-
-#### § 3. Faciliteitenpaspoorten
-
-#### § 3. Faciliteitenpaspoorten
-
-#### § 4. Tweede paspoorten
-
-#### § 6. Diplomatieke paspoorten en dienstpaspoorten
-
-### Hoofdstuk III. Aanvraagprocedure
-
-#### § 1. Algemeen
-
-##### Artikel 40a. Vingerafdrukken
-
-1. Bij het indienen van een aanvraag voor een reisdocument worden de afdrukken van twee vingers van de aanvrager genomen. Voor de aanvraag van een nooddocument worden geen vingerafdrukken genomen.
-
-2. Bij een aanvrager als bedoeld in de eerste zin van het eerste lid worden platte afdrukken van de linker- en rechter wijsvinger opgenomen voor opslag in het reisdocument. Indien de kwaliteit van de vingerafdrukken van de wijsvingers onvoldoende is, worden platte afdrukken van de middelvingers, ringvingers of duimen opgenomen.
-
-3. Indien van slechts één vinger de afdruk van voldoende kwaliteit kan worden opgenomen, wordt uitsluitend de afdruk van die vinger opgeslagen in het reisdocument.
-
-4. In afwijking van het eerste lid wordt van het opnemen van vingerafdrukken afgezien indien de aanvrager op het moment van het indienen van de aanvraag de leeftijd van twaalf jaar nog niet heeft bereikt.
-
-5. Indien de daartoe aangewezen ambtenaar van oordeel is dat het fysiek dan wel als gevolg van een tijdelijke verhindering onmogelijk is om van de aanvrager te verlangen dat bij hem op het moment van het indienen van de aanvraag twee vingerafdrukken worden opgenomen, wordt in ieder geval de afdruk opgenomen van de vinger waarbij dit volgens de daartoe aangewezen ambtenaar wel mogelijk is. Bij gerede twijfel of het fysiek dan wel als gevolg van een tijdelijke verhindering onmogelijk is om twee vingerafdrukken op te nemen, kan van de aanvrager worden verlangd, dat deze daartoe een door een bevoegde arts of medische instelling ondertekende verklaring overlegt.
-
-6. Indien van de aanvrager geen vingerafdrukken worden opgenomen, wordt in de aanvraag de reden voor het niet opnemen vermeld.
-
-#### § 2. Aanvraag ten behoeve van een handelingsonbekwame
-
-#### § 2. Aanvraag ten behoeve van een handelingsonbekwame
-
-#### § 3. Het opnemen van de foto, de vingerafdrukken en de handtekening
-
-#### § 6. Personaliseren van nooddocumenten
-
-### Hoofdstuk IV. Verzending van het aanvraagbestand en levering van documenten
-
-### Hoofdstuk V. Uitreiking van het reisdocument en bijschrijvingssticker
-
-##### Artikel 62a. Verificatie vingerafdrukken bij uitreiking
-
-Vervallen
-
-### Hoofdstuk VI. Procedures inzake weigering en vervallenverklaring
-
-### Hoofdstuk VII. Procedures inzake vermiste, ingenomen, ingehouden, ingeleverde, van rechtswege vervallen en gevonden reisdocumenten
-
-#### § 3. Melding van rechtswege vervallen reisdocumenten aan het register paspoortsignaleringen en het basisregister reisdocumenten
-
-### Hoofdstuk VIII. Definitieve onttrekking van reisdocumenten en ongedaan maken van bijschrijvingen
-
-#### § 3. Registratie definitief aan het verkeer onttrokken reisdocumenten door de Gouverneur
-
-#### § 4. Registratie definitief aan het verkeer onttrokken reisdocumenten door de Gouverneur
-
-### Hoofdstuk IX. Reisdocumentenadministratie
-
-### Hoofdstuk X. Organisatie en beheer van het aanvraagsysteem reisdocumenten
-
-#### § 1. Aanwijzing en registratie bevoegde personen
-
-#### § 4. Bestelling, aflevering en beheer van nooddocumenten
-
-#### § 5. Te gebruiken apparatuur, programmatuur en overige materialen
-
-### Hoofdstuk XI. Beveiliging
-
-### Hoofdstuk XIV. Overgangs- en slotbepalingen
-
-## Bijlage C. Modelformulieren
-
-Vervallen
-
-## Bijlagen. Paspoortuitvoeringsregeling Caribische landen
-
-| **A** | **Standaardclausules** |
-| --- | --- |
-| **B** | **vervallen** |
-| **C** | **vervallen** |
-| **D** | **Foutafhandelingsprocedures** |
-| **E** | **vervallen** |
-| **F** | **Overzicht aanvraaggegevens** |
-| **G** | **vervallen** |
-| **H** | **vervallen** |
-| **I** | **vervallen** |
-| **J** | **Invulinstructie laissez-passer** |
-| **L** | **Fotomatrix** |
-
-## Bijlage A. Standaardclausules
-
-- I. Standaardclausules m.b.t. de burgerlijke staat * De hiertoe aangewezen persoon geeft in het aanvraagformulier desgewenst de burgerlijke staat van de aanvrager aan. Afhankelijk van de ruimte op de titelpagina brengt de producent de uitgeschreven of afgekorte versie van de betreffende standaardclausule aan. Indien er niet genoeg ruimte is op de titelpagina wordt de tekst van de standaardclausule op een vervolgpagina aangebracht.
-
-| **Burgerlijke Staat** | **Standaardclausule I (uitgeschreven) *** | **afkorting *** |
-| --- | --- | --- |
-| H – gehuwd |   |   |
-| **(geslacht houder = ‘V’)** | echtgenote van/wife of/éspouse de | e/v |
-| **(geslacht houder = ‘M’)** | echtgenoot van/husband of/ époux de | e/v |
-| W - weduwe/weduwnaar | gehuwd geweest met/ formerly married to/ anciennement marié(e) à | w/v |
-| S - gescheiden | gehuwd geweest met/ formerly married to/ anciennement marié(e) à | g/v |
-| P - geregistreerde partner | geregistreerd partner van/registered partner of/partenaire enregistré(e) de | p/v |
-| B - gescheiden geregistreerde partner | geregistreerd partner geweest van/ former registered partner of/ancien partenaire enregistré(e) de | b/v |
-| A - achtergebleven geregistreerde partner | geregistreerd partner geweest van/ former registered partner of/ancien partenaire enregistré(e) de | a/v |
-
-- II. zie/see/voir p.
-
-- III. Vervallen.
-
-- IV. Pseudoniem/Pseudonym/Pseudonyme
-
-- V. Niet in staat tot ondertekening/Unable to sign/Incapable de signer
-
-- VI. Wordt als Nederlander behandeld op grond van de Wet van/Treated as Netherlands citizen pursuant to Act of/Traité comme Néerlandais conf. Loi 9-9-1976, Stb. 468
-
-- VII. Dit paspoort is verstrekt op grond van [art. 30 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=30) (tweede paspoort)
-
-- VIII. Houder dezes kan aan het bezit van dit reisdocument geen enkel recht op verblijf in Nederland ontlenen.
-
-- IX. Dienstpaspoort/Service Passport/Passeport de Service Van/From/De... No... Tot/Until/Jusqu'au...
-
-- X.
-
-- Xa. Uitgezonderd/Except/à l'Exception de…
-
-- Xb. Geldig voor reizen naar/Valid for travelling in/Valable pour voyages en...
-
-- XI.
-
-- XIa. Nederlandse/Netherlands/Néerlandaise
-
-- XIb. XXA (Staatloze/Stateless person/Apatride)
-
-- XII. Dit paspoort is afgegeven ter vervanging van paspoort nummer/This passport has been issued to replace passport number/Le présent passeport remplace le passeport antérieur no...
-
-Voor uitgevende instanties is vooral van belang de volgende zaken in het oog te houden:
-
-### 1. Foutafhandelingsprocedures Nederland
-
-In deze bijlage zijn de procedures weergegeven die moeten worden gevolgd indien een aangekondigde zending niet op het afgesproken tijdstip arriveert, de ontvangen zending beschadigd is, afwijkingen vertoont of indien bij controle van de zending documenten ontbreken. Er worden vijf hoofdfouten onderscheiden, waarvan er een tweetal nog nader onderverdeeld zijn. De foutsituaties worden onderstaand beschreven. Per foutsituatie wordt vervolgens per pagina schematisch aangegeven hoe gehandeld dient te worden.
-
-### III. De ontvangen zending is beschadigd:
-
-### I. De ontvangen zending bevat een andere inhoud dan aangekondigd
-
-### V. Overige calamiteiten
-
-In dit geval dient de procedure, beschreven in **schema III** te worden gevolgd.
-
-##### I. De ontvangen zending bevat een andere inhoud dan aangekondigd
-
-Dit is het geval indien de inhoud van de zending niet overeenkomt met de op de verzendbrief vermelde inhoud of met hetgeen in de elektronische vooraankondiging van de producent staat vermeld. De volgende situaties worden onderscheiden:
-
-- 1. de zending bevat **niet alle** aangekondigde documenten (er ontbreken dus documenten) In dit geval dient de procedure, vermeld in **schema I 1**, te worden gevolgd.
-
-- 2. de zending bevat (ook) **andere** documenten dan aangekondigd (het pakket bevat documenten die niet voor de uitgiftelocatie zijn bestemd; het kan zijn dat bijvoorbeeld het adresetiket op het pakket niet juist was, dat er niet voor de uitgiftelocatie bedoelde colli in het pakket zitten of dat er zich niet voor de uitgiftelocatie bedoelde documenten in een collo bevinden). In deze gevallen moet de procedure, vermeld in **schema I 2**, worden gevolgd.
-
-##### II. De ontvangen zending is beschadigd
-
-Hiervan is sprake indien bij ontvangst van het pakket geconstateerd wordt dat de verpakking van het pakket beschadigingen vertoont. Er worden verschillende situaties onderscheiden:
-
-- 1. De verpakking is beschadigd maar de inhoud is onbeschadigd en compleet (Alle aangekondigde documenten zijn aanwezig en onbeschadigd). In dit geval dient **schema II 1** te worden gevolgd.
-
-- 2. Zowel de verpakking als de inhoud zijn beschadigd, maar de inhoud is wel compleet (alle aangekondigde documenten zijn aanwezig maar één of meerdere documenten zijn beschadigd). In dit geval dienst **schema II 2** te worden gevolgd.
-
-- 3. Zowel de verpakking als de inhoud zijn beschadigd en de inhoud is bovendien incompleet (Eén of meerdere documenten zijn beschadigd en daarnaast zijn niet alle aangekondigde documenten aanwezig). In dit geval dient **schema II 3** te worden gevolgd.
-
-##### III. De inhoud van de zending is goed, maar niet op de afgesproken wijze verpakt
-
-Hiervan is sprake indien de inhoud van de zending wel overeenkomt met hetgeen door de producent is aangekondigd, maar de inhoud is niet op de juiste wijze is verpakt. Het pakket bevat bijvoorbeeld colli met verschillende documenten (er zitten bijvoorbeeld zakenpaspoorten tussen de nationale paspoorten) of de zending bevat geen of een onjuiste verzendbrief. In dit geval dient de procedure, beschreven in **schema III** te worden gevolgd.
-
-##### IV. Overige calamiteiten
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema IV** beschreven procedure te worden gevolgd.
-
-### II. De ontvangen zending is beschadigd:
-
-### II. De ontvangen zending bevat een andere inhoud dan aangekondigd
-
-### IV. Overige calamiteiten
-
-In dit geval dient de procedure, beschreven in **schema IV** te worden gevolgd.
-
-##### I. De aangekondigde zending wordt niet op het afgesproken tijdstip ontvangen
-
-Hiervan is sprake indien een uitgiftelocatie een aangekondigde zending niet op het met de distributeur afgesproken tijdstip ontvangt. De procedure die gevolgd dient te worden, is weergegeven in **schema I**.
-
-##### II. De ontvangen zending bevat een andere inhoud dan aangekondigd
-
-Dit is het geval indien de inhoud van de zending niet overeenkomt met de op de verzendbrief vermelde inhoud of met hetgeen in de elektronische vooraankondiging van de producent staat vermeld. De volgende situaties worden onderscheiden:
-
-- 1. de zending bevat **niet alle** aangekondigde documenten (er ontbreken dus documenten) In dit geval dient de procedure, vermeld in **schema II 1**, te worden gevolgd.
-
-- 2. de zending bevat (ook) **andere** documenten dan aangekondigd (het pakket bevat documenten die niet voor de uitgiftelocatie zijn bestemd; het kan zijn dat bijvoorbeeld het adresetiket op het pakket niet juist was, dat er niet voor de uitgiftelocatie bedoelde colli in het pakket zitten of dat er zich niet voor de uitgiftelocatie bedoelde documenten in een collo bevinden). In deze gevallen moet de procedure, vermeld in **schema II 2**, worden gevolgd.
-
-##### III. De ontvangen zending is beschadigd
-
-Hiervan is sprake indien bij ontvangst van het pakket geconstateerd wordt dat de verpakking van het pakket beschadigingen vertoont. Er worden verschillende situaties onderscheiden:
-
-- 1. De verpakking is beschadigd maar de inhoud is onbeschadigd en compleet (Alle aangekondigde documenten zijn aanwezig en onbeschadigd). In dit geval dient **schema III 1** te worden gevolgd.
-
-- 2. Zowel de verpakking als de inhoud zijn beschadigd, maar de inhoud is wel compleet (alle aangekondigde documenten zijn aanwezig maar één of meerdere documenten zijn beschadigd). In dit geval dienst **schema III 2** te worden gevolgd.
-
-- 3. Zowel de verpakking als de inhoud zijn beschadigd en de inhoud is bovendien incompleet (Eén of meerdere documenten zijn beschadigd en daarnaast zijn niet alle aangekondigde documenten aanwezig). In dit geval dient **schema III 3** te worden gevolgd.
-
-##### IV. De inhoud van de zending is goed, maar niet op de afgesproken wijze verpakt
-
-Hiervan is sprake indien de inhoud van de zending wel overeenkomt met hetgeen door de producent is aangekondigd, maar de inhoud is niet op de juiste wijze is verpakt. Het pakket bevat bijvoorbeeld colli met verschillende documenten (er zitten bijvoorbeeld zakenpaspoorten tussen de nationale paspoorten) of de zending bevat geen of een onjuiste verzendbrief. In dit geval dient de procedure, beschreven in **schema IV** te worden gevolgd.
-
-##### V. Overige calamiteiten
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema V** beschreven procedure te worden gevolgd.
-
-### III. De ontvangen zending is beschadigd
-
-### III. De ontvangen zending is beschadigd
-
-### IV. De inhoud van de zending is goed, maar niet op de juiste wijze verpakt
-
-## Bijlage H. Tot verstrekking van Nederlandse identiteitskaarten bevoegde buitenlandse posten
-
-Ankara
-
-Antwerpen
-
-Athene
-
-Barcelona
-
-Berlijn
-
-Bern
-
-Brussel
-
-Dublin
-
-Düsseldorf
-
-Frankfurt
-
-Hamburg
-
-Helsinki
-
-Istanbul
-
-Kopenhagen
-
-Lissabon
-
-Londen
-
-Luxemburg
-
-Madrid
-
-Milaan
-
-München
-
-Oslo
-
-Parijs
-
-Rome
-
-Stockholm
-
-Wenen
-
-## Bijlage I. IAR-kaarten
-
-Identificatiekaarten (IAR-kaarten) worden door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) verstrekt.
-
-BZK verstrekt standaard vijf identificatiekaarten (IAR-kaarten) per door BZK beschikbaar gesteld reisdocumentenstation (RAAS). In de gevallen waar door BZK aanvullend nog een werkstation beschikbaar is gesteld, geldt dat voor dit werkstation drie IAR-kaarten worden verstrekt.
-
-Een uitgiftelocatie kan extra IAR-kaarten aanvragen. IAR-kaarten mogen alleen worden aangevraagd voor vaste medewerkers, waarbij er per uitgiftelocatie in totaal niet meer dan 20 operationele IAR-kaarten mogen zijn. Deze grens is vastgesteld uit oogpunt van beveiliging.
-
-De autorisatiebevoegde dient diefstal, verlies of onzorgvuldig gebruik van IAR-kaarten direct te melden bij Sdu Identification, zodat deze IAR-kaarten kunnen worden geblokkeerd. IAR-kaarten die defect raken bij initiële uitlevering of wegens technische mankementen worden op aanvraag vervangen.
-
-De leveringstermijn van IAR-kaarten bedraagt circa een week. Spoedaanvragen worden alleen gehonoreerd als het een calamiteit betreft, in samenhang met het plaatsen van een nieuw RAAS en/of werkstation.
-
-## Bijlage J. Invulinstructie laissez-passer
-
-|   | **Algemene opmerkingen** |   |
-| --- | --- | --- |
-|   | Het laissez passer wordt handmatig ingevuld op de hierna weergegeven wijze. |   |
-|   | **Invulinstructie per rubriek** |   |
-| **Type** | LP |   |
-| **Code** | NLD |   |
-| **Document-** **nummer** | Het documentnummer dat in het document geperforeerd is, overnemen. |   |
-| **Naam** | De naam van de houder in volgorde: |   |
-|   | – Adellijke titel | – **voluit** |
-|   | – Voorvoegsel voor de achternaam | – **voluit** |
-|   | – Achternaam | – **geslachtsnaam houder** |
-| **Voornamen** | Voornamen van de houder in volgorde: |   |
-|   | – Adellijke predikaat | – **voluit (facultatief)** |
-|   | – Voornamen | – **voluit** |
-|   | Indien geen voornamen worden ingevuld wordt dit aangegeven met drie liggende streepjes, ---. |   |
-|   | Algemene opmerking: Indien de naam niet past in de hiervoor bestemde ruimte m.b.v. standaardclausule II verwijzen naar pagina 3. |   |
-| **Nationaliteit** | Alleen in te vullen bij Nederlanders. In andere gevallen drie liggende streepjes, ---. |   |
-| **Geslacht** | M: man V/F: vrouw |   |
-| **Lengte** | Voorbeeld: 1,82m (Cijfermatig in meters en centimeters vermelden gevolgd door afkorting m). |   |
-| **Geboortedatum** | Vermelden iVermelden in volgorde: n formaat dd XXX eejj – Twee posities dagaanduiding in cijfers. – Spatie – Eerste drie posities voor maandaanduiding (zie lijst hierna vermeld) – Spatie – Laatste vier posities eeuw- en jaartalaanduiding |   |
-|   | Lijst maandafkortingen: JAN FEB MAA APR MEI JUN JUL AUG SEP OKT NOV DEC |   |
-|   | Voorbeelden: 00 --- 1956 00 JAN 1984 19 JAN 1984 Bij de toekenning van een reisdocument wordt altijd een eeuw- en jaartal aanduiding opgenomen. |   |
-| **Afgiftedatum** | Zie geboortedatum |   |
-| **Geboorteplaats** | Geboorteplaatsnaam vermelden |   |
-| **Geldig tot** | Datum tot wanneer het document geldig is. Datum weergeven zoals aangegeven bij geboortedatum. |   |
-| **Autoriteit** | Gouverneur van Minister van Buitenlandse Zaken Ambassadeur te Consul-Generaal te Consul te Hfd. cons. afd. te |   |
-| **Waarmerking** | Stempel autoriteit moet over de foto vallen. |   |
-| **Handtekening** | De houder plaatst zijn handtekening op de bestemde plaats onder de foto. |   |
-| **Opmerkingen** | Pagina 3 is te gebruiken voor opmerkingen van bevoegde instanties. Op deze pagina worden de datum waarop het reisdocument uiterlijk moet worden ingeleverd en de autoriteit bij wie de inlevering dient plaats te vinden ingevuld. |   |
-| **Lamineren** | Het document wordt na invulling van de houderpagina gelamineerd. Dit gebeurt niet met een laminator maar door middel van koud laminaat dat als een sticker wordt geplakt. Door de beschermlaag op de achterzijde van de folie te verwijderen kan de folie, zonder gebruik van hulpmiddelen, over de houderpagina worden geplakt. |   |
-
-##### Artikel 90b. Het mobiel vingerafdrukopname-apparaat
-
-1. De Gouverneur onderscheidenlijk de aangewezen autoriteit, bedoeld in de [artikelen 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=3.3), en [4.3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=4.3), of de door hem daartoe aangewezen ambtenaar wijst per uitgiftelocatie de personen aan die aanvragen in behandeling mogen nemen met behulp van het mobiel vingerafdrukopname-apparaat overeenkomstig de gebruikershandleiding bij het mobiel vingerafdrukopname-apparaat, bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=X&paragraaf=5&artikel=103&z=2026-04-01&g=2026-04-01).
-
-2. De leverancier verstrekt aan de autorisatiebevoegde aanvraagstation het wachtwoord waarmee toegang tot het mobiel vingerafdrukopname-apparaat kan worden verkregen en een authenticatiekaart waarmee het mobiel vingerafdrukopname-apparaat in het locale netwerk van de uitgiftelocatie kan worden aangesloten.
-
-3. De autorisatiebevoegde aanvraagstation brengt dit wachtwoord uitsluitend ter kennis aan de aangewezen ambtenaren bedoeld in het eerste lid en ziet er op toe dat het wachtwoord te allen tijde gescheiden van het mobiel vingerafdrukopname-apparaat wordt bewaard. Alle betrokkenen nemen alle daartoe noodzakelijke maatregelen om te voorkomen dat het wachtwoord bekend wordt. Indien het wachtwoord is zoekgeraakt of ter kennis is gekomen van een onbevoegde wordt terstond contact opgenomen met de leverancier.
-
-4. [Artikel 90a, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012809&hoofdstuk=X&paragraaf=1&artikel=90a&z=2026-04-01&g=2026-04-01), is van overeenkomstige toepassing op de verstrekte authenticatiekaart.
-
-#### § 2. Aflevering van zendingen
-
-#### § 3. Beheer van ontvangen gepersonaliseerde reisdocumenten en bijschrijvingsstickers
-
-#### § 4. Bestelling, aflevering en beheer van nooddocumenten
-
-#### § 5. Te gebruiken apparatuur, programmatuur en overige materialen
-
-### Hoofdstuk XI. Beveiliging
-
-### Hoofdstuk XII. Voorkoming en bestrijding van misbruik met reisdocumenten
-
-### Hoofdstuk XIII. Verantwoording
-
-### Hoofdstuk XIV. Overgangs- en slotbepalingen
-
-## Bijlage B. Standaardformulieren
-
-Vervallen
-
-In deze bijlage zijn de procedures weergegeven die moeten worden gevolgd indien een aangekondigde zending niet op het afgesproken tijdstip arriveert, de ontvangen zending beschadigd is, afwijkingen vertoont of indien bij controle van de zending documenten ontbreken. Er worden vijf hoofdfouten onderscheiden, waarvan er een tweetal nog nader onderverdeeld zijn. De foutsituaties worden onderstaand beschreven. Per foutsituatie wordt vervolgens per pagina schematisch aangegeven hoe gehandeld dient te worden.
-
-### I. De aangekondigde zending wordt niet op het afgesproken tijdstip ontvangen
-
-Hiervan is sprake indien een uitgiftelokatie een aangekondigde zending niet op het met de distributeur afgesproken tijdstip ontvangt. De procedure die gevolgd dient te worden, is weergegeven in **schema I**.
-
-### II. De ontvangen zending is beschadigd
-
-Hiervan is sprake indien bij ontvangst van het pakket geconstateerd wordt dat de verpakking van het pakket beschadigingen vertoont. Er worden verschillende situaties onderscheiden:
-
-##### I. De ontvangen zending bevat een andere inhoud dan aangekondigd
-
-Dit is het geval indien de inhoud van de zending niet overeenkomt met de op de verzendbrief vermelde inhoud of met hetgeen in de elektronische vooraankondiging van de producent staat vermeld. De volgende situaties worden onderscheiden:
-
-- 1. de zending bevat **niet alle** aangekondigde documenten (er ontbreken dus documenten) In dit geval dient de procedure, vermeld in **schema I 1**, te worden gevolgd.
-
-- 2. de zending bevat (ook) **andere** documenten dan aangekondigd (het pakket bevat documenten die niet voor de uitgiftelocatie zijn bestemd; het kan zijn dat bijvoorbeeld het adresetiket op het pakket niet juist was, dat er niet voor de uitgiftelocatie bedoelde colli in het pakket zitten of dat er zich niet voor de uitgiftelocatie bedoelde documenten in een collo bevinden). In deze gevallen moet de procedure, vermeld in **schema I 2**, worden gevolgd.
-
-##### II. De ontvangen zending is beschadigd
-
-Hiervan is sprake indien bij ontvangst van het pakket geconstateerd wordt dat de verpakking van het pakket beschadigingen vertoont. Er worden verschillende situaties onderscheiden:
-
-- 1. De verpakking is beschadigd maar de inhoud is onbeschadigd en compleet (Alle aangekondigde documenten zijn aanwezig en onbeschadigd). In dit geval dient **schema II 1** te worden gevolgd.
-
-- 2. Zowel de verpakking als de inhoud zijn beschadigd, maar de inhoud is wel compleet (alle aangekondigde documenten zijn aanwezig maar één of meerdere documenten zijn beschadigd). In dit geval dienst **schema II 2** te worden gevolgd.
-
-- 3. Zowel de verpakking als de inhoud zijn beschadigd en de inhoud is bovendien incompleet (Eén of meerdere documenten zijn beschadigd en daarnaast zijn niet alle aangekondigde documenten aanwezig). In dit geval dient **schema II 3** te worden gevolgd.
-
-##### III. De inhoud van de zending is goed, maar niet op de afgesproken wijze verpakt
-
-Hiervan is sprake indien de inhoud van de zending wel overeenkomt met hetgeen door de producent is aangekondigd, maar de inhoud is niet op de juiste wijze is verpakt. Het pakket bevat bijvoorbeeld colli met verschillende documenten (er zitten bijvoorbeeld zakenpaspoorten tussen de nationale paspoorten) of de zending bevat geen of een onjuiste verzendbrief. In dit geval dient de procedure, beschreven in **schema III** te worden gevolgd.
-
-##### IV. Overige calamiteiten
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema IV** beschreven procedure te worden gevolgd.
-
-### III. De ontvangen zending is beschadigd
-
-Hiervan is sprake indien bij ontvangst van het pakket geconstateerd wordt dat de verpakking van het pakket beschadigingen vertoont. Er worden verschillende situaties onderscheiden:
-
-##### I. De aangekondigde zending wordt niet op het afgesproken tijdstip ontvangen
-
-Hiervan is sprake indien een uitgiftelocatie een aangekondigde zending niet op het met de distributeur afgesproken tijdstip ontvangt. De procedure die gevolgd dient te worden, is weergegeven in **schema I**.
-
-##### II. De ontvangen zending bevat een andere inhoud dan aangekondigd
-
-Dit is het geval indien de inhoud van de zending niet overeenkomt met de op de verzendbrief vermelde inhoud of met hetgeen in de elektronische vooraankondiging van de producent staat vermeld. De volgende situaties worden onderscheiden:
-
-- 1. de zending bevat **niet alle** aangekondigde documenten (er ontbreken dus documenten) In dit geval dient de procedure, vermeld in **schema II 1**, te worden gevolgd.
-
-- 2. de zending bevat (ook) **andere** documenten dan aangekondigd (het pakket bevat documenten die niet voor de uitgiftelocatie zijn bestemd; het kan zijn dat bijvoorbeeld het adresetiket op het pakket niet juist was, dat er niet voor de uitgiftelocatie bedoelde colli in het pakket zitten of dat er zich niet voor de uitgiftelocatie bedoelde documenten in een collo bevinden). In deze gevallen moet de procedure, vermeld in **schema II 2**, worden gevolgd.
-
-##### III. De ontvangen zending is beschadigd
-
-Hiervan is sprake indien bij ontvangst van het pakket geconstateerd wordt dat de verpakking van het pakket beschadigingen vertoont. Er worden verschillende situaties onderscheiden:
-
-- 1. De verpakking is beschadigd maar de inhoud is onbeschadigd en compleet (Alle aangekondigde documenten zijn aanwezig en onbeschadigd). In dit geval dient **schema III 1** te worden gevolgd.
-
-- 2. Zowel de verpakking als de inhoud zijn beschadigd, maar de inhoud is wel compleet (alle aangekondigde documenten zijn aanwezig maar één of meerdere documenten zijn beschadigd). In dit geval dienst **schema III 2** te worden gevolgd.
-
-- 3. Zowel de verpakking als de inhoud zijn beschadigd en de inhoud is bovendien incompleet (Eén of meerdere documenten zijn beschadigd en daarnaast zijn niet alle aangekondigde documenten aanwezig). In dit geval dient **schema III 3** te worden gevolgd.
-
-##### IV. De inhoud van de zending is goed, maar niet op de afgesproken wijze verpakt
-
-Hiervan is sprake indien de inhoud van de zending wel overeenkomt met hetgeen door de producent is aangekondigd, maar de inhoud is niet op de juiste wijze is verpakt. Het pakket bevat bijvoorbeeld colli met verschillende documenten (er zitten bijvoorbeeld zakenpaspoorten tussen de nationale paspoorten) of de zending bevat geen of een onjuiste verzendbrief. In dit geval dient de procedure, beschreven in **schema IV** te worden gevolgd.
-
-##### V. Overige calamiteiten
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema V** beschreven procedure te worden gevolgd.
-
-## Bijlage L
-
-Ligt ter inzge bij het Agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-### 1. Foutafhandelingsprocedures Europese deel van Nederland (Gemeenten en Ministerie van Buitenlandse Zaken te Den Haag)
-
-Dit is het geval indien de inhoud van de zending niet overeenkomt met de op de verzendbrief vermelde inhoud of met hetgeen in de elektronische vooraankondiging van de producent staat vermeld. De volgende situaties worden onderscheiden:
-
-Hiervan is sprake indien bij ontvangst van het pakket geconstateerd wordt dat de verpakking van het pakket beschadigingen vertoont. Er worden verschillende situaties onderscheiden:
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema V** beschreven procedure te worden gevolgd.
-
-In dit geval dient de procedure, beschreven in **schema IV** te worden gevolgd.
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema V** beschreven procedure te worden gevolgd.
-
-Dit is het geval indien de inhoud van de zending niet overeenkomt met de op de verzendbrief vermelde inhoud of met hetgeen in de elektronische vooraankondiging van de producent staat vermeld. De volgende situaties worden onderscheiden:
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema IV** beschreven procedure te worden gevolgd.
-
-In dit geval dient de procedure, beschreven in **schema III** te worden gevolgd.
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema IV** beschreven procedure te worden gevolgd.
-
-In deze paragraaf zijn de procedures weergegeven die moeten worden gevolgd indien een aangekondigde zending niet op het afgesproken tijdstip arriveert, de ontvangen zending beschadigd is, afwijkingen vertoont of indien bij controle van de zending documenten ontbreken. Er worden vijf hoofdfouten onderscheiden, waarvan er een tweetal nog nader onderverdeeld zijn. De foutsituaties worden onderstaand beschreven. Per foutsituatie wordt vervolgens per pagina schematisch aangegeven hoe gehandeld dient te worden.
-
-Dit is het geval indien de inhoud van de zending niet overeenkomt met de op de verzendbrief vermelde inhoud of met hetgeen in de elektronische vooraankondiging van de producent staat vermeld. De volgende situaties worden onderscheiden:
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema V** beschreven procedure te worden gevolgd.
-
-In dit geval dient de procedure, beschreven in **schema IV** te worden gevolgd.
-
-## Bijlage G. Tot verstrekking van paspoorten bevoegde buitenlandse posten
-
-Vervallen
-
-## Bijlage H. Tot verstrekking van Nederlandse identiteitskaarten bevoegde buitenlandse posten
-
-Vervallen
-
-## Bijlage E. BeveiligingsNet
-
-Vervallen
-
-## Bijlage F. Overzicht aanvraaggegevens
-
-- 1. **Reisdocumenten niet zijnde nooddocumenten** Deze lijst geldt voor reisdocumenten niet zijnde nooddocumenten. De onderstaande rubrieken moeten worden ingevuld, voor zover op de aanvraag van toepassing.
-
-- Aanvraagnummer
-
-- Datum aanvraag
-
-- Spoedaanvraag (alleen voor gemeenten)
-
-- Soort reisdocument
-
-- Huidig reisdocument – soort
-
-- Huidig reisdocument – nummer
-
-- Huidig reisdocument – datum einde geldigheid
-
-- Huidig reisdocument – autoriteit verstrekking
-
-- Burgerservicenummer (alleen voor Nederlanders aan wie een burgerservicenummer is toegekend)
-
-- Nationaliteit
-
-- Geslachtsnaam
-
-- Voorvoegsel geslachtsnaam
-
-- Adellijke titel/ predikaat
-
-- Voornamen
-
-- Geboortedatum
-
-- Geboorteplaats
-
-- Geslacht
-
-- Lengte
-
-- Adres
-
-- Postcode+Woonplaats
-
-- Toestemming wettelijke vertegenwoordiger(s)
-
-- Verblijfsdocument – nummer
-
-- Verblijfsdocument – datum einde geldigheid
-
-- Aanduiding vermissing
-
-- Datum Verklaring vermissing
-
-- Proces verbaal vermissing vorig document – nummer
-
-- Vermist reisdocument – nummer
-
-- Vermist reisdocument – autoriteit verstrekking
-
-- Verzoek originele aanvraag vermist document
-
-- Vermelding partner (SC I)
-
-- Geslachtsnaam partner
-
-- Voorvoegsel geslachtsnaam partner
-
-- Adellijke titel partner
-
-- Pseudoniem (SC IV)
-
-- Niet in staat tot ondertekening (SC V)
-
-- XXA (staatloze) (SC XIb)
-
-- Dit paspoort is afgegeven ter vervanging van (SC XII)
-
-- 2. **Nooddocumenten** Deze lijst geldt voor nooddocumenten. De onderstaande rubrieken moeten worden ingevuld, voor zover op de aanvraag van toepassing.
-
-- Aanvraagnummer
-
-- Datum aanvraag
-
-- Soort reisdocument
-
-- Huidig reisdocument – soort
-
-- Huidig reisdocument – nummer
-
-- Huidig reisdocument – datum einde geldigheid
-
-- Huidig reisdocument – autoriteit verstrekking
-
-- Nationaliteit
-
-- Geslachtsnaam
-
-- Voorvoegsel geslachtsnaam
-
-- Adellijke titel/ predikaat
-
-- Voornamen
-
-- Geboortedatum
-
-- Geboorteplaats
-
-- Geslacht
-
-- Lengte
-
-- Adres
-
-- Postcode+Woonplaats
-
-- Toestemming wettelijke vertegenwoordiger(s)
-
-- Aanduiding vermissing
-
-- Datum Verklaring vermissing
-
-- Proces verbaal vermissing vorig document – nummer
-
-- Vermist reisdocument – nummer
-
-- Vermist reisdocument – autoriteit verstrekking
-
-- Niet in staat tot ondertekening (SC V)
-
-- Dit paspoort is afgegeven ter vervanging van (SC XII)
-
-## Bijlage G. Tot verstrekking van paspoorten bevoegde buitenlandse posten
-
-Vervallen
-
-#### § 3. Het opnemen van de foto, de vingerafdrukken en de handtekening
-
-#### § 4. Beslissing op de aanvraag en vastlegging van de gegevens in het reisdocumentenstation
-
-#### § 4. Beslissing op de aanvraag en vastlegging van de gegevens in het reisdocumentenstation
-
-### Hoofdstuk IV. Verzending van het aanvraagbestand en levering van documenten
-
-### Hoofdstuk V. Uitreiking van het reisdocument
-
-### Hoofdstuk VI. Procedures inzake weigering en vervallenverklaring
-
-### Hoofdstuk VII. Procedures inzake reisdocumenten die mogelijk voorwerp zijn van fraude of vermiste, ingenomen, ingehouden, ingeleverde, van rechtswege vervallen of gevonden reisdocumenten
-
-#### § 1. Reisdocumenten die mogelijk voorwerp zijn van fraude, zijn vermist of zijn ingenomen
-
-#### § 1. Reisdocumenten die mogelijk voorwerp zijn van fraude, zijn vermist of zijn ingenomen
-
-#### § 4. Melding inzake gevonden reisdocumenten
-
-### Hoofdstuk VIII. Definitieve onttrekking van reisdocumenten
-
-#### § 4. Melding inzake gevonden reisdocumenten
-
-#### § 2. Kennisgevingen
-
-### Hoofdstuk IX. Reisdocumentenadministratie
-
-### Hoofdstuk X. Organisatie en beheer van het aanvraagsysteem reisdocumenten
-
-#### § 1. Aanwijzing en registratie bevoegde personen
-
-#### § 3. Beheer van ontvangen gepersonaliseerde reisdocumenten
-
-#### § 5. Te gebruiken apparatuur, programmatuur en overige materialen
-
-### Hoofdstuk XI. Beveiliging
-
-### Hoofdstuk XIII. Verantwoording
-
-### 1. Foutafhandelingsprocedures Europese deel van Nederland (Gemeenten en Ministerie van Buitenlandse Zaken te Den Haag)
-
-In dit geval dient de procedure, beschreven in **schema IV** te worden gevolgd.
-
-### V. Overige calamiteiten
-
-## Bijlage E. BeveiligingsNet
-
-Vervallen
-
-## Bijlage F. Overzicht aanvraaggegevens
-
-- 1. **Reisdocumenten niet zijnde nooddocumenten** Deze lijst geldt voor reisdocumenten niet zijnde nooddocumenten. De onderstaande rubrieken moeten worden ingevuld, voor zover op de aanvraag van toepassing.
-
-- Aanvraagnummer
-
-- Datum aanvraag
-
-- Spoedaanvraag (alleen voor gemeenten)
-
-- Soort reisdocument
-
-- Huidig reisdocument – soort
-
-- Huidig reisdocument – nummer
-
-- Huidig reisdocument – datum einde geldigheid
-
-- Huidig reisdocument – autoriteit verstrekking
-
-- Burgerservicenummer (alleen voor Nederlanders aan wie een burgerservicenummer is toegekend)
-
-- Nationaliteit
-
-- Geslachtsnaam
-
-- Voorvoegsel geslachtsnaam
-
-- Adellijke titel/ predikaat
-
-- Voornamen
-
-- Geboortedatum
-
-- Geboorteplaats
-
-- Geslacht
-
-- Lengte
-
-- Adres
-
-- Postcode+Woonplaats
-
-- Toestemming wettelijke vertegenwoordiger(s)
-
-- Verblijfsdocument – nummer
-
-- Verblijfsdocument – datum einde geldigheid
-
-- Aanduiding vermissing
-
-- Datum Verklaring vermissing
-
-- Proces verbaal vermissing vorig document – nummer
-
-- Vermist reisdocument – nummer
-
-- Vermist reisdocument – autoriteit verstrekking
-
-- Verzoek originele aanvraag vermist document
-
-- Vermelding partner (SC I)
-
-- Geslachtsnaam partner
-
-- Voorvoegsel geslachtsnaam partner
-
-- Adellijke titel partner
-
-- Pseudoniem (SC IV)
-
-- Niet in staat tot ondertekening (SC V)
-
-- XXA (staatloze) (SC XIb)
-
-- Dit paspoort is afgegeven ter vervanging van (SC XII)
-
-- 2. **Nooddocumenten** Deze lijst geldt voor nooddocumenten. De onderstaande rubrieken moeten worden ingevuld, voor zover op de aanvraag van toepassing.
-
-- Aanvraagnummer
-
-- Datum aanvraag
-
-- Soort reisdocument
-
-- Huidig reisdocument – soort
-
-- Huidig reisdocument – nummer
-
-- Huidig reisdocument – datum einde geldigheid
-
-- Huidig reisdocument – autoriteit verstrekking
-
-- Nationaliteit
-
-- Geslachtsnaam
-
-- Voorvoegsel geslachtsnaam
-
-- Adellijke titel/ predikaat
-
-- Voornamen
-
-- Geboortedatum
-
-- Geboorteplaats
-
-- Geslacht
-
-- Lengte
-
-- Adres
-
-- Postcode+Woonplaats
-
-- Toestemming wettelijke vertegenwoordiger(s)
-
-- Aanduiding vermissing
-
-- Datum Verklaring vermissing
-
-- Proces verbaal vermissing vorig document – nummer
-
-- Vermist reisdocument – nummer
-
-- Vermist reisdocument – autoriteit verstrekking
-
-- Niet in staat tot ondertekening (SC V)
-
-- Dit paspoort is afgegeven ter vervanging van (SC XII)
-
-##### Artikel 2a. Statusgegevens reisdocumenten
-
-Gegevens die betrekking hebben op de status van een reisdocument zijn:
-
-- a. in aanvraag;
-
-- b. geldig;
-
-- c. ongeldig, met inbegrip van de reden van ongeldigheid;
-
-- d. definitief aan het verkeer onttrokken.
-
-##### Artikel 2b. Aanleveren gegevens
-
-Degene die op grond van deze regeling gegevens verstrekt ten behoeve van de reisdocumentenadministratie, het register vermiste of vervallen reisdocumenten of de basisadministratie, verstrekt deze gegevens, met uitzondering van vingerafdrukken, gezichtsopname en handtekening, eveneens aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties ten behoeve van het basisregister reisdocumenten.
-
-##### Artikel 2c. Beheer, beveiliging en betrouwbaarheid
-
-1. Teneinde de veiligheid en betrouwbaarheid van het basisregister reisdocumenten te waarborgen, neemt de Minister van Binnenlandse Zaken en Koninkrijksrelaties passende maatregelen om inbreuken op en aantastingen van de beveiliging en de processen van het register te voorkomen. Hierbij wordt in ieder geval voldaan aan:
-
-- a. de open normen en standaarden op de ‘pas-toe-of-leg-uit-lijst’ van het Forum Standaardisatie;
-
-- b. de Baseline Informatiebeveiliging Overheid; en
-
-- c. de Voorschriften Informatiebeveiliging Rijksdienst.
-
-2. De in het eerste lid bedoelde maatregelen worden getroffen en onderhouden op basis van daartoe na een risicoanalyse vastgestelde informatiebeveiligingsplannen.
-
-3. Teneinde maatregelen te kunnen aanpassen en doorontwikkeling mogelijk te maken, wordt voor het register of onderdelen daarvan onderhoud gepleegd. Hiertoe kunnen, na voorafgaande bekendmaking, het register of onderdelen daarvan tijdelijk buiten gebruik worden gesteld.
-
-#### § 5. Aangewezen autoriteiten
-
-### Hoofdstuk II. Vaststelling aanspraken op reisdocumenten en geldigheid
-
-#### § 2. Reisdocumenten voor niet-Nederlanders
-
-#### § 2.1. Reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen ten behoeve van personen die in Aruba, Curaçao of Sint Maarten rechtmatig verblijf hebben
-
-#### § 2.3. Nooddocumenten voor niet-Nederlanders als bedoeld in artikel 15, tweede lid, van de wet
-
-#### § 2.4. Geldigheid
-
-#### § 5. Nooddocumenten
-
-#### § 6. Diplomatieke paspoorten en dienstpaspoorten
-
-### Hoofdstuk III. Aanvraagprocedure
-
-#### § 1. Algemeen
-
-#### § 5. Personaliseren van nooddocumenten
-
-### Hoofdstuk IV. Verzending van het aanvraagbestand en levering van documenten
-
-### Hoofdstuk V. Uitreiking van het reisdocument
-
-### Hoofdstuk VI. Procedures inzake weigering en vervallenverklaring
-
-### Hoofdstuk VII. Procedures inzake reisdocumenten die mogelijk voorwerp zijn van fraude of vermiste, ingenomen, ingehouden, ingeleverde, van rechtswege vervallen of gevonden reisdocumenten
-
-### Hoofdstuk VIII. Definitieve onttrekking van reisdocumenten
-
-#### § 1. Definitieve onttrekking van een reisdocument aan het verkeer
-
-#### § 2. Kennisgevingen
-
-#### § 3. Registratie definitief aan het verkeer onttrokken reisdocumenten door de Gouverneur
-
-### Hoofdstuk IX. Reisdocumentenadministratie
-
-### Hoofdstuk X. Organisatie en beheer van het aanvraagsysteem reisdocumenten
-
-#### § 1. Aanwijzing en registratie bevoegde personen
-
-#### § 4. Bestelling, aflevering en beheer van nooddocumenten
-
-#### § 5. Te gebruiken apparatuur, programmatuur en overige materialen
-
-### Hoofdstuk XI. Beveiliging
-
-### Hoofdstuk XIV. Overgangs- en slotbepalingen
-
-##### Artikel 121a. Uitbreiding grondslag
-
-Deze regeling berust mede op de [artikelen 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=1.4), [2.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=2.5), [2.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=2.6), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=2.7), [2.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=2.10), [7.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=7.1), [8.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=8.1), [8.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=8.2), en [10.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&artikel=10.1).
-
-## Bijlage C. Modelformulieren
-
-Vervallen
-
-## Bijlage D. Foutafhandelingsprocedures
-
-Hiervan is sprake indien de inhoud van de zending wel overeenkomt met hetgeen door de producent is aangekondigd, maar de inhoud is niet op de juiste wijze is verpakt. Het pakket bevat bijvoorbeeld colli met verschillende documenten (er zitten bijvoorbeeld zakenpaspoorten tussen de nationale paspoorten) of de zending bevat geen of een onjuiste verzendbrief.
-
-Hiervan is sprake indien de inhoud van de zending wel overeenkomt met hetgeen door de producent is aangekondigd, maar de inhoud is niet op de juiste wijze is verpakt. Het pakket bevat bijvoorbeeld colli met verschillende documenten (er zitten bijvoorbeeld zakenpaspoorten tussen de nationale paspoorten) of de zending bevat geen of een onjuiste verzendbrief.
-
-Hiervan is sprake indien de inhoud van de zending wel overeenkomt met hetgeen door de producent is aangekondigd, maar de inhoud is niet op de juiste wijze is verpakt. Het pakket bevat bijvoorbeeld colli met verschillende documenten (er zitten bijvoorbeeld zakenpaspoorten tussen de nationale paspoorten) of de zending bevat geen of een onjuiste verzendbrief.
-
-Voor het geval er zich een situatie voordoet, die niet in een van de voornoemde categorieën is onder te brengen, dient de in **schema V** beschreven procedure te worden gevolgd.

@@ -1,44 +1,17 @@
 ---
 title: "Regeling immunisatie militairen 2002"
 identifier: "BWBR0014322"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-01-08"
-last_updated: "2014-01-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014322"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4185023"
-version_id: "5937842"
-internal_id: "C6140681"
-label_id: "4163884"
-dtd_version: "2.0"
-original_entry_into_force: "2002-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014322/2014-01-08/0"
-intitule_bron: "Stcrt.2002-231"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-11-25"
-intitule_published: "2002-11-29"
-intitule_in_force: "2002-11-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-231"
-original_signed_date: "2002-11-25"
-original_published_date: "2002-11-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-12-01"
-jci_1_3: "jci1.3:c:BWBR0014322&z=2014-01-08&g=2014-01-08"
-jci_1_0: "1.0:c:BWBR0014322&g=2014-01-08"
-citeertitel_status: "officieel"
-signed_date: "2002-11-25"
-entry_into_force: "2002-12-01"
+publicatiedatum: 2002-12-01
+laatste_update: 2014-01-08
+status: geldig
+toestand: 2014-01-08
+bron: "https://wetten.overheid.nl/BWBR0014322"
+opgehaald: 2026-08-06
 ---
+
 # Regeling immunisatie militairen 2002
-
-Gelet op [artikel 4 van de Wet immunisatie militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002117&artikel=4);
-
-Gezien het advies van de Commissie van deskundigen immunisatie militairen;
-
-Besluit:
 
 #### § 1. Algemene vaccinatie van militairen
 
@@ -141,5 +114,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling immunisatie militairen 2002.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

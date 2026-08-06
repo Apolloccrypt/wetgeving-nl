@@ -1,44 +1,45 @@
 ---
 title: "Bijdrageregeling preventiebeleid 2001-2004 voor jongeren uit etnische minderheidsgroepen"
 identifier: "BWBR0013026"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-12-05"
-last_updated: "2004-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013026"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5529853"
-version_id: "9924712"
-internal_id: "C13403181"
-label_id: "5502084"
-dtd_version: "2.0"
-original_entry_into_force: "2001-11-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013026/2004-12-05/0"
-intitule_bron: "Stcrt.2001-231"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-23"
-intitule_published: "2001-11-28"
-intitule_in_force: "2001-11-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-231"
-original_signed_date: "2001-11-23"
-original_published_date: "2001-11-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-11-30"
-jci_1_3: "jci1.3:c:BWBR0013026&z=2004-12-05&g=2004-12-05"
-jci_1_0: "1.0:c:BWBR0013026&g=2004-12-05"
-citeertitel_status: "officieel"
-signed_date: "2001-11-23"
-entry_into_force: "2001-11-30"
+publicatiedatum: 2001-11-30
+laatste_update: 2004-12-05
+status: geldig
+toestand: 2004-12-05
+bron: "https://wetten.overheid.nl/BWBR0013026"
+opgehaald: 2026-08-06
 ---
-# Bijdrageregeling preventiebeleid 2001-2004 voor jongeren uit etnische minderheidsgroepen
 
-Besluit:
+# Bijdrageregeling preventiebeleid 2001-2004 voor jongeren uit etnische minderheidsgroepen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+minister:
+
+de Minister voor Grote Steden- en Integratiebeleid;
+
+b.
+
+gemeentebestuur:
+
+het college van burgemeester en wethouders van de gemeenten Alkmaar, Almere, Amersfoort, Capelle a/d IJssel, Delft, Gouda, Hoorn, Lelystad, Nieuwegein, Oss, Purmerend, Roosendaal, Spijkenisse, Vlaardingen, Zaanstad en Zoetermeer;
+
+c.
+
+jongeren:
+
+leden van etnische minderheidsgroepen in de leeftijd van 0 tot 25 jaar die legaal in Nederland verblijven;
+
+d.
+
+meerjarig plan van aanpak:
+
+het plan, bedoeld in artikel 2, eerste lid.
 
 ##### Artikel 2
 
@@ -113,5 +114,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Bijdrageregeling preventiebeleid 2001-2004 voor jongeren uit etnische minderheidsgroepen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

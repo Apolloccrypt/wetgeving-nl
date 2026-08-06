@@ -1,44 +1,17 @@
 ---
 title: "Aanpassing bedragen in Besluit woninggebonden subsidies 1995 (BWS 1995), Besluit locatiegebonden subsidies (BLS) en Besluit beheer sociale-huursector (BBSH)"
 identifier: "BWBR0013476"
-country: "nl"
-rank: "circulaire"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013476"
+categorie: "Sociaal recht"
 soort: "circulaire"
-stam_id: "6371193"
-version_id: "11033852"
-internal_id: "C14932181"
-label_id: "6360004"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013476/2002-01-01/0"
-intitule_bron: "Stcrt.2002-55"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-03-01"
-intitule_published: "2002-03-19"
-intitule_in_force: "2002-03-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-55"
-original_signed_date: "2002-03-01"
-original_published_date: "2002-03-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2002-055-p22-SC33755"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0013476&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0013476&g=2002-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2002-03-01"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0013476"
+opgehaald: 2026-08-06
 ---
+
 # Aanpassing bedragen in Besluit woninggebonden subsidies 1995 (BWS 1995), Besluit locatiegebonden subsidies (BLS) en Besluit beheer sociale-huursector (BBSH)
-
-Aan: De Colleges van Burgemeester en Wethouders, de Colleges van Gedeputeerde Staten, de dagelijkse besturen van een budgetbeherend samenwerkingsverband, en de besturen van de toegelaten instellingen
-
-Geacht college, geacht bestuur,
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 Stichtingskostengrenzen zijn, ook binnen VROM, onderwerp van discussie. Onderdeel van die discussie is voor mij ook nadrukkelijk de vraag of die grenzen substantieel dienen te worden aangepast dan wel te worden afgeschaft. De uitkomst van deze discussie staat op dit moment nog open. De effecten dienen, door de verwevenheid van grenzen in de diverse VROM regelingen, goed onderzocht te worden. Dit proces loopt op dit moment. Omdat deze discussie zorgvuldig gevoerd wordt, en de verwerking daarvan in de onderhavige AMvB's de nodige tijd kost, heb ik in afwachting hiervan besloten de huidige kostengrenzen ook voor 2002 te indexeren met de bouwkostenstijging.
 

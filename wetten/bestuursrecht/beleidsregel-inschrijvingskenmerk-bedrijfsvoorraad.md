@@ -1,50 +1,25 @@
 ---
 title: "Beleidsregel inschrijvingskenmerk bedrijfsvoorraad"
 identifier: "BWBR0012879"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-10-15"
-last_updated: "2001-10-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012879"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6232863"
-version_id: "10905642"
-internal_id: "C14777961"
-label_id: "6221874"
-original_entry_into_force: "2001-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012879/2001-10-15/0"
-intitule_bron: "Stcrt.2001-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-10-08"
-intitule_published: "2001-10-12"
-intitule_in_force: "2001-10-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-198"
-original_signed_date: "2001-10-08"
-original_published_date: "2001-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-198-p32-SC31273"
-entry_into_force_date: "2001-10-15"
-jci_1_3: "jci1.3:c:BWBR0012879&z=2001-10-15&g=2001-10-15"
-jci_1_0: "1.0:c:BWBR0012879&g=2001-10-15"
-citeertitel_status: "officieel"
-signed_date: "2001-10-08"
-entry_into_force: "2001-10-15"
+publicatiedatum: 2001-10-15
+laatste_update: 2001-10-15
+status: geldig
+toestand: 2001-10-15
+bron: "https://wetten.overheid.nl/BWBR0012879"
+opgehaald: 2026-08-06
 ---
+
 # Beleidsregel inschrijvingskenmerk bedrijfsvoorraad
-
-Gelet op [artikel 3.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.6);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **minister** Minister van Verkeer en Waterstaat;
+- a. *minister* Minister van Verkeer en Waterstaat;
 
-- b. **register** Nederlandse register voor burgerluchtvaartuigen.
+- b. *register* Nederlandse register voor burgerluchtvaartuigen.
 
 ##### Artikel 2
 
@@ -60,9 +35,9 @@ In deze beleidsregel wordt verstaan onder:
 
 - d. de eigenaar de volgende gegevens heeft verstrekt:
 
-- 1°. de typeaanduiding van het luchtvaartuig, en
+   - 1° de typeaanduiding van het luchtvaartuig, en
 
-- 2°. het serienummer van het luchtvaartuig.
+   - 2° het serienummer van het luchtvaartuig.
 
 3. Het inschrijvingskenmerk wordt op het luchtvaartuig aangebracht op de wijze als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&artikel=16) en [17 van de Regeling inschrijving Nederlandse burgerluchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&artikel=17).
 
@@ -93,5 +68,3 @@ Op verzoek van de eigenaar als bedoeld in [artikel 2 eerste lid](https://wetten.
 Deze regeling treedt in werking per 15 oktober 2001.
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel inschrijvingskenmerk bedrijfsvoorraad.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

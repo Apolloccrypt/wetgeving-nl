@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0048675"
-opgehaald: 2026-08-05
+opgehaald: 2026-08-06
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 11 september 2023, nr. HO&S/40146017, houdende de bevoegdheid tot het verlenen van toestemming aan een instelling voor hoger onderwijs om een deel van een associate degree-opleiding door een bve-instelling te laten uitvoeren (Beleidsregel uitvoering deel associate degree-opleiding door bve-instelling)

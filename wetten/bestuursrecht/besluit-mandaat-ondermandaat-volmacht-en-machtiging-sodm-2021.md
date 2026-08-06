@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0046579"
-opgehaald: 2026-08-05
+opgehaald: 2026-08-06
 ---
 
 # Besluit van de Inspecteur-generaal der Mijnen van 23 maart 2022, houdende verlening van mandaat, ondermandaat, volmacht en machtiging voor het Staatstoezicht op de Mijnen (Besluit mandaat, ondermandaat, volmacht en machtiging SodM 2021)

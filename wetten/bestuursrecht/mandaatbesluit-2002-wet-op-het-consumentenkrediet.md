@@ -1,50 +1,29 @@
 ---
 title: "Mandaatbesluit 2002 Wet op het consumentenkrediet"
 identifier: "BWBR0013461"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-03-03"
-last_updated: "2002-03-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013461"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4035103"
-version_id: "5808232"
-internal_id: "C6010971"
-label_id: "4015104"
-dtd_version: "2.0"
-original_entry_into_force: "2002-03-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013461/2002-03-03/0"
-intitule_bron: "Stcrt.2002-43"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-02-27"
-intitule_published: "2002-03-01"
-intitule_in_force: "2002-03-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-43"
-original_signed_date: "2002-02-27"
-original_published_date: "2002-03-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-03-03"
-jci_1_3: "jci1.3:c:BWBR0013461&z=2002-03-03&g=2002-03-03"
-jci_1_0: "1.0:c:BWBR0013461&g=2002-03-03"
-citeertitel_status: "officieel"
-signed_date: "2002-02-27"
-entry_into_force: "2002-03-03"
+publicatiedatum: 2002-03-03
+laatste_update: 2002-03-03
+status: geldig
+toestand: 2002-03-03
+bron: "https://wetten.overheid.nl/BWBR0013461"
+opgehaald: 2026-08-06
 ---
+
 # Mandaatbesluit 2002 Wet op het consumentenkrediet
-
-Gelet op [artikel 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:8) en [10:9 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9);
-
-Gelet op het koninklijk besluit van 11 mei 2001 waarbij de Minister van Financiën belast wordt met de zorg voor het consumentenkrediet, met uitzondering van schuldbemiddeling;
-
-Gezien [artikel 10:4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en de schriftelijke instemming van de Stichting Toezicht Effectenverkeer van 26 februari 2002, kenmerk JZ-PB-02020819;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+de Minister:
+
+de Minister van Financiën;
+
+de Autoriteit Financiële Markten:
+
+de Stichting Autoriteit Financiële Markten.
 
 ##### Artikel 2
 

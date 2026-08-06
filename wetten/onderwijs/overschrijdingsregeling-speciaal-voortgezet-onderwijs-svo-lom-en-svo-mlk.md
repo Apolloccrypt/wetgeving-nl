@@ -1,36 +1,16 @@
 ---
 title: "Overschrijdingsregeling speciaal voortgezet onderwijs (svo)-lom en svo-mlk"
 identifier: "BWBR0012936"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2001-11-21"
-last_updated: "2001-11-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012936"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6454803"
-version_id: "11128942"
-internal_id: "C15046021"
-label_id: "6443424"
-original_entry_into_force: "2001-11-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012936/2001-11-21/0"
-intitule_bron: "Uitleg.2001-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-10-30"
-intitule_published: "2001-11-21"
-intitule_in_force: "2001-11-21"
-intitule_status: "goed"
-original_publication: "Uitleg.2001-27"
-original_signed_date: "2001-10-30"
-original_published_date: "2001-11-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-11-21"
-jci_1_3: "jci1.3:c:BWBR0012936&z=2001-11-21&g=2001-11-21"
-jci_1_0: "1.0:c:BWBR0012936&g=2001-11-21"
-citeertitel_status: "redactioneel"
-signed_date: "2001-10-30"
-entry_into_force: "2001-11-21"
+publicatiedatum: 2001-11-21
+laatste_update: 2001-11-21
+status: geldig
+toestand: 2001-11-21
+bron: "https://wetten.overheid.nl/BWBR0012936"
+opgehaald: 2026-08-06
 ---
+
 # Overschrijdingsregeling speciaal voortgezet onderwijs (svo)-lom en svo-mlk
 
 Er zijn vragen gesteld hoe de overschrijdingsregeling m.b.t. het svo-lom en -mlk moet worden toegepast vanaf 1 augustus 1999. Vanaf die datum worden deze schoolsoorten omgezet naar respectievelijk leerwegondersteunend onderwijs (lwoo) en praktijkonderwijs (pro). Omdat in een gemeente niet alle bijzondere en gemeentelijke scholen op dezelfde datum worden omgezet lijkt de overschrijdingsregeling nogal ingewikkeld te worden.
@@ -49,9 +29,29 @@ De overschrijdingsregeling maakt deel uit van de bekostigingsartikelen. Belangri
 
 Vanaf 1 augustus 1999 wordt het svo-lom en -mlk omgezet naar lwoo en pro. Daarmee verandert vaak ook de bekostiging. De [Regeling bekostiging, rechtspositie en samenvoeging leerwegondersteunend onderwijs en praktijkonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0009931), Gele Katern 1998, nr. 24 geeft aan welke bekostigingssystematiek van toepassing wordt of blijft:
 
+- svo-lom wordt een afdeling lwoo van een vo-school en valt vanaf dat moment onder de lumpsum-/BSM bekostiging van [deel I WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399)
+
+- svo-mlk wordt of:
+
+   - a een afdeling pro van vo-school: idem als svo-lom, of
+
+   - b een zelfstandige school voor pro. Er zijn dan 2 mogelijkheden:
+
+      - 1 de bekostiging blijft FBS/Velo van [Deel II WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of
+
+      - 2 er wordt gekozen voor lumpsum/BSM bekostiging van [deel I WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399). Dit laatste kan slechts onder bepaalde voorwaarden.
+
 Zoals gezegd maakt de overschrijdingsregeling deel uit van de bekostiging. Dat betekent dat als op grond van Gele Katern 1998, nr. 24 de bekostiging verandert van deel II naar deel I [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) ook vanaf dat moment de daarbij behorende overschrijdingsregeling van toepassing wordt. In de vijf jaarstermijn wordt voor de toepassing van deel II bekostiging voor die school of afdeling een ”knip” gemaakt en die school of afdeling loopt vanaf dat moment mee in de lopende vijf jaars termijn van de overschrijdingsregeling van deel I [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
 
 Een aantal voorbeelden ter verduidelijking.
+
+- 1a. Een gemeentelijke openbare school voor mlk is per 1 augustus 2000 omgezet in een afdeling pro verbonden aan een gemeentelijke vo-school. Die afdeling valt vanaf dat moment onder bekostigingsregime van deel I [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en dus onder de daarbij behorende overschrijdingsregeling. Als de gemeente geen andere mlk scholen of afdelingen heeft, moet er vanaf dat moment worden afgerekend met het bijzondere mlk in de gemeente ([artikelen 253, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=253) en [254, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=254)). Eventuele extra uitgaven door de gemeente voor de afdeling pro vanaf 1 augustus 2000 doen mee in de overschrijdingsregeling van deel I wat betekent dat alle bijzondere vo-scholen in die gemeente daarvan kunnen profiteren. Zolang het bijzonder mlk niet is omgezet naar een afdeling pro, loopt het dus de overschrijding mis.
+
+- 1b. Stel het was andersom geweest: de bijzondere mlk is per 1 augustus 2000 een afdeling pro van een vo-school geworden en het gemeentelijke openbare mlk wordt later omgezet. Vanaf 1 augustus 2000 doet de afdeling pro van de bijzondere school mee in de overschrijdingsregeling van Deel I van de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en profiteert dus mee van eventuele extra uitgaven die de gemeente doet voor zijn overige vo-scholen. Over de periode tot 1 augustus 2000 heeft het bijzonder mlk t.z.t. nog aanspraak op een eventueel overschrijdingsbedrag uit de lopende vijf jaars termijn. Die vijf jaars termijn stopt wanneer de gemeente het mlk omzet naar een afdeling pro verbonden aan een vo-school. Wordt omgezet naar een school voor pro met FBS/Velo bekostiging dan stopt de termijn niet.
+
+- 2a. Een gemeentelijke openbare school voor mlk wordt omgezet in een school voor praktijkonderwijs. In de meeste gevallen zal er sprake blijven van de FBS/Velo bekostiging van deel II van de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399). Omdat de bekostiging dan niet verandert, blijft ook de overschrijdingsregeling van deel II van toepassing als en zolang er bijzonder mlk in de gemeente is. Dat is ook het geval als het bijzonder mlk wordt omgezet naar een school voor pro met FBS/Velo bekostiging.
+
+- 2b. Een bijzondere school of afdeling voor mlk wordt omgezet naar een school voor praktijkonderwijs met FBS/Velo bekostiging. Zolang er gemeentelijk mlk is, blijft de overschrijdingsregeling van deel II van toepassing. Wordt het gemeentelijk mlk omgezet naar een afdeling pro verbonden aan een gemeentelijke voschool, dan is de situatie vergelijkbaar met voorbeeld 1a.
 
 De regeling uit Gele Katern 1998, nr. 24 regelt de bekostiging tot 1 augustus 2002. De regeling is gebaseerd op de overgangsartikelen van de mavo/vbo/vso wet van 25 mei 1998, Stb. 337.
 

@@ -1,43 +1,17 @@
 ---
 title: "Besluit aanwijzing toezichthouders luchtvaart"
 identifier: "BWBR0013478"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-04"
-last_updated: "2025-09-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013478"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "4033023"
-version_id: "30765372"
-internal_id: "C44103181"
-label_id: "4013034"
-dtd_version: "2.0"
-original_entry_into_force: "2025-06-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013478/2025-09-04/0"
-intitule_bron: "Stcrt.2002-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-03-04"
-intitule_published: "2002-03-18"
-intitule_in_force: "2002-03-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-18030"
-original_signed_date: "2025-06-03"
-original_published_date: "2025-06-16"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-18030"
-entry_into_force_date: "2025-06-03"
-jci_1_3: "jci1.3:c:BWBR0013478&z=2025-09-04&g=2025-09-04"
-jci_1_0: "1.0:c:BWBR0013478&g=2025-09-04"
-citeertitel_status: "officieel"
-signed_date: "2025-06-03"
-entry_into_force: "2025-06-03"
+publicatiedatum: 2025-06-03
+laatste_update: 2025-09-04
+status: geldig
+toestand: 2025-09-04
+bron: "https://wetten.overheid.nl/BWBR0013478"
+opgehaald: 2026-08-06
 ---
+
 # Besluit aanwijzing toezichthouders luchtvaart
-
-Gelet op artikel 73, eerste lid, van de Luchtvaartwet, [artikel 11.1, eerste lid, onderdeel b, van de Wet Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.1) en [artikel 102, eerste lid, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=102);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -49,9 +23,23 @@ Als ambtenaren belast met het toezicht op de naleving bedoeld in [artikel 73, ee
 
 - c. de ambtenaren van de Dienst specialistische operaties van de Eenheid landelijke expertise en operaties van de politie.
 
+##### Artikel 1a
+
+Als ambtenaren belast met het toezicht op de naleving bedoeld in [artikel 11.1, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.1) worden aangewezen:
+
+- a. de directeur-generaal van het Directoraat-Generaal Luchtvaart en Maritieme Zaken;
+
+- b. de inspecteur-generaal van de Inspectie Leefomgeving en Transport;
+
+- c. de ambtenaren van de Inspectie Leefomgeving en Transport, die zijn belast met toezicht.
+
+##### Artikel 1b
+
+Dit besluit berust mede op [artikel 8a.3, eerste lid, van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=8a.3).
+
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
@@ -75,28 +63,6 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders luchtvaart.
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Als ambtenaren belast met het toezicht op de naleving bedoeld in [artikel 11.1, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.1) worden aangewezen:
-
-- a. de directeur-generaal van het Directoraat-Generaal Luchtvaart en Maritieme Zaken;
-
-- b. de inspecteur-generaal van de Inspectie Leefomgeving en Transport;
-
-- c. de ambtenaren van de Inspectie Leefomgeving en Transport, die zijn belast met toezicht.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 8
 
 Dit besluit berust tevens op de [artikelen 62, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=62), [64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=64), en [65 van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=65).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1b
-
-Dit besluit berust mede op [artikel 8a.3, eerste lid, van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=8a.3).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

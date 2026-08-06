@@ -1,42 +1,17 @@
 ---
 title: "Regeling NVC 2001"
 identifier: "BWBR0012948"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-11-30"
-last_updated: "2013-11-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012948"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5518893"
-version_id: "9911702"
-internal_id: "C13387071"
-label_id: "5491324"
-dtd_version: "2.0"
-original_entry_into_force: "2001-11-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012948/2013-11-30/0"
-intitule_bron: "Stcrt.2001-222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-01"
-intitule_published: "2001-11-15"
-intitule_in_force: "2001-11-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-222"
-original_signed_date: "2001-11-01"
-original_published_date: "2001-11-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-11-17"
-jci_1_3: "jci1.3:c:BWBR0012948&z=2013-11-30&g=2013-11-30"
-jci_1_0: "1.0:c:BWBR0012948&g=2013-11-30"
-citeertitel_status: "officieel"
-signed_date: "2001-11-01"
-entry_into_force: "2001-11-17"
+publicatiedatum: 2001-11-17
+laatste_update: 2013-11-30
+status: geldig
+toestand: 2013-11-30
+bron: "https://wetten.overheid.nl/BWBR0012948"
+opgehaald: 2026-08-06
 ---
+
 # Regeling NVC 2001
-
-Handelende in overeenstemming met het gevoelen van de ministerraad,
-
-Besluit:
 
 ##### Artikel 1
 
@@ -100,11 +75,11 @@ De Eenheid Persvoorlichting heeft tot taak:
 
 2. Dit team van crisisvoorlichters kan door de plaatsvervangend directeur Voorlichting en Communicatie van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties als eindverantwoordelijke voor het NVC worden ingezet in de volgende situaties:
 
-- a). op landelijk niveau, indien er sprake is van een nationale crisis en het NCC operationeel is;
+- a) op landelijk niveau, indien er sprake is van een nationale crisis en het NCC operationeel is;
 
-- b). indien er sprake is van een nationale crisis, die zich beperkt tot één departement; in dat geval kan de directeur Voorlichting van het betreffende departement een beroep doen op het NVC om voorlichters te leveren uit de pool van crisisvoorlichters ter ondersteuning;
+- b) indien er sprake is van een nationale crisis, die zich beperkt tot één departement; in dat geval kan de directeur Voorlichting van het betreffende departement een beroep doen op het NVC om voorlichters te leveren uit de pool van crisisvoorlichters ter ondersteuning;
 
-- c). bij een ramp van nationale omvang in een gemeente danwel provincie, waar het voorlichtingsapparaat onvoldoende is; in dat geval kan eveneens een beroep worden gedaan op het team van crisisvoorlichters ter ondersteuning. Deze voorlichters werken vervolgens onder de bestuurlijke verantwoordelijkheid van de burgemeester c.q. de commissaris van de Koning.
+- c) bij een ramp van nationale omvang in een gemeente danwel provincie, waar het voorlichtingsapparaat onvoldoende is; in dat geval kan eveneens een beroep worden gedaan op het team van crisisvoorlichters ter ondersteuning. Deze voorlichters werken vervolgens onder de bestuurlijke verantwoordelijkheid van de burgemeester c.q. de commissaris van de Koning.
 
 ##### Artikel 6
 

@@ -1,46 +1,19 @@
 ---
 title: "Programma Transactie/Modal Shift 2002"
 identifier: "BWBR0013125"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013125"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5029453"
-version_id: "8707242"
-internal_id: "C11286531"
-label_id: "5005664"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013125/2002-01-01/0"
-intitule_bron: "Stcrt.2001-241"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-10"
-intitule_published: "2001-12-12"
-intitule_in_force: "2001-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-241"
-original_signed_date: "2001-12-10"
-original_published_date: "2001-12-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0013125&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0013125&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "2001-12-10"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0013125"
+opgehaald: 2026-08-06
 ---
+
 # Programma Transactie/Modal Shift 2002
 
-Gelet op artikel 2 van de Subsidieregeling milieu- en energie-efficiency in het goederenvervoer 2002;
-
-Besluit:
-
-Vast te stellen het navolgende programma Transactie/Modal Shift 2002:
-
-##### A. Programma Transactie/Modal Shift
+##### Artikel A. Programma Transactie/Modal Shift
 
 Het programma Transactie/Modal Shift is gericht op de in het Nationaal Verkeers- en Vervoersplan geformuleerde doelstelling van de regering om de milieubelasting door en het energieverbruik van het goederenvervoer over de weg in de periode tot het jaar 2010 aanzienlijk te beperken.
 
@@ -48,7 +21,7 @@ Het programma heeft als specifieke doelstelling de vermindering van de uitstoot 
 
 Het programma richt zich in het bijzonder op projecten die worden uitgevoerd door verladers, vervoerders, expediteurs, rederijen, fabrikanten, carrosserie- en trailerbouwers en toeleveranciers (hierna te noemen: marktpartijen). Met het programma wordt beoogd dat individuele marktpartijen en groepen van marktpartijen ook op de langere termijn op een gestructureerde manier blijven werken aan de eerder genoemde efficiencyverbetering. Om dat te bevorderen zal het programma behalve individuele projecten vooral ook combinaties van projecten (meerjarenplannen) ondersteunen die (bij voorkeur) in het kader van een overeenkomst tussen marktpartijen enerzijds en de overheid anderzijds (zgn. meerjarenovereenkomsten) worden opgezet.
 
-##### B. Projecten
+##### Artikel B. Projecten
 
 Het programma heeft betrekking op de volgende soorten projecten:
 
@@ -57,6 +30,8 @@ Het programma heeft betrekking op de volgende soorten projecten:
 - 2. projecten ter verbetering van de voertuigefficiency, en
 
 - 3. kennisverspreidingsprojecten.
+
+ad 1. Projecten ter verbetering van de logistieke efficiency, waaronder modal shift
 
 Hieronder vallen door marktpartijen uitgevoerde projecten die bij een gelijkblijvende vervoersprestatie resulteren in een reductie van het aantal ritkilometers over de weg.
 
@@ -72,6 +47,8 @@ In het bijzonder komen de volgende soorten projecten voor subsidie in aanmerking
 
 De projecten ter verbetering van de logistieke efficiency kunnen onder meer betrekking hebben op ritplanning, vrachtuitwisseling, bundeling van goederenstromen, logistieke ketenbenadering, verticale en horizontale samenwerking, afstemming met verlader en vervoerder, inter- en multimodaal transport, productontwikkeling, inzet van telematica en internet, verpakkingssystemen, standaardisatie van laadeenheden, vergroting van het nuttig laadvermogen, vermindering van het voertuiggewicht en multifunctionaliteit van laadruimte.
 
+ad 2. Projecten ter verbetering van de voertuigefficiency
+
 Onder projecten ter verbetering van de voertuigefficiency worden verstaan: bij marktpartijen uitgevoerde projecten die bij een gelijkblijvende belading resulteren in een reductie van het brandstofgebruik per verreden kilometer.
 
 Met name de volgende soorten projecten komen voor subsidie in aanmerking:
@@ -82,37 +59,39 @@ Met name de volgende soorten projecten komen voor subsidie in aanmerking:
 
 De projecten kunnen bijvoorbeeld betrekking hebben op de vermindering van de rij- en luchtweerstand, zuinig rijgedrag van chauffeurs in de bedrijfssituatie in specifieke deelmarkten, brandstofregistratiesystemen en gebruik van alternatieve brandstoffien.
 
+ad 3. Kennisverspreidingsprojecten
+
 Onder projecten ten behoeve van kennisverspreiding wordt verstaan het verspreiden van kennis onder marktpartijen over projecten die hebben geleid tot ritkilometerreductie en/of brandstofbesparing per verreden kilometer.
 
 Met name door brancheverenigingen en opleidingsinstituten uitgevoerde kennisoverdrachtprojecten komen voor subsidie in aanmerking.
 
 De projecten kunnen onder meer betrekking hebben op het verzorgen van publicaties en het organiseren van conferenties, seminars en opleidingen.
 
-##### C. Beoordelingsaspecten
+##### Artikel C. Beoordelingsaspecten
 
 De mate waarin een project bijdraagt aan de realisering van de doelstellingen van het programma Transactie/Modal Shift, te weten ritkilometerreductie en/of brandstofreductie per verreden kilometer, wordt tevens bepaald door de volgende aspecten:
 
-- a. **De milieu- en energieverdienste van het project** De milieu- en energieverdienste betreft de mate waarin het project leidt tot vermindering van de CO2- en NOx-uitstoot door middel van ritkilometerreductie en/of brandstofreductie per verreden kilometer. De projecten dienen een bepaalde minimale omvang te hebben om voor subsidie in aanmerking te komen.
+- a. *De milieu- en energieverdienste van het project* De milieu- en energieverdienste betreft de mate waarin het project leidt tot vermindering van de CO2- en NOx-uitstoot door middel van ritkilometerreductie en/of brandstofreductie per verreden kilometer. De projecten dienen een bepaalde minimale omvang te hebben om voor subsidie in aanmerking te komen.
 
-- b. **De tijdsduur van het project** Het programma Transactie/Modal Shift richt zich op projecten die op relatief korte termijn, maximaal twee jaar, leiden tot ritkilometerreductie of tot brandstofreductie per verreden kilometer. Indien er sprake is van een combinatie van projecten, zoals in een meerjarenplan, kan de looptijd langer zijn dan twee jaar.
+- b. *De tijdsduur van het project* Het programma Transactie/Modal Shift richt zich op projecten die op relatief korte termijn, maximaal twee jaar, leiden tot ritkilometerreductie of tot brandstofreductie per verreden kilometer. Indien er sprake is van een combinatie van projecten, zoals in een meerjarenplan, kan de looptijd langer zijn dan twee jaar.
 
-- c. **De slaagkans van het project** Indien de slaagkans van het project op zichzelf te gering wordt geacht, is een subsidieverlening niet aan de orde. Naast een inschatting van de technische en economische haalbaarheid zal tevens rekening worden gehouden met factoren van organisatorische aard, alsmede met de financiële draagkracht van de aanvrager en eventuele andere bij de aanvraag betrokken partijen.
+- c. *De slaagkans van het project* Indien de slaagkans van het project op zichzelf te gering wordt geacht, is een subsidieverlening niet aan de orde. Naast een inschatting van de technische en economische haalbaarheid zal tevens rekening worden gehouden met factoren van organisatorische aard, alsmede met de financiële draagkracht van de aanvrager en eventuele andere bij de aanvraag betrokken partijen.
 
-- d. **Effectiviteit van de subsidie** De hoogte van de projectsubsidie wordt vastgesteld in relatie tot de verwachte verminderde emissie (gulden/vermeden ritkilometer, gulden/vermeden ton CO2 en/of NOx) en de hoogte van de projectkosten.
+- d. *Effectiviteit van de subsidie* De hoogte van de projectsubsidie wordt vastgesteld in relatie tot de verwachte verminderde emissie (gulden/vermeden ritkilometer, gulden/vermeden ton CO2 en/of NOx) en de hoogte van de projectkosten.
 
-- e. **De mate van innovatie en oorspronkelijkheid van het project** Onder het innovatiecriterium wordt in het programma Transactie/Modal Shift verstaan: Het kan toepassingen betreffen op een wijze waarop in een specifieke deelmarkt nog geen ervaring is opgedaan.
+- e. *De mate van innovatie en oorspronkelijkheid van het project* Onder het innovatiecriterium wordt in het programma Transactie/Modal Shift verstaan: Het kan toepassingen betreffen op een wijze waarop in een specifieke deelmarkt nog geen ervaring is opgedaan.
 
-- het toepassen van nieuwe of vernieuwende systemen of technieken, of
+   - het toepassen van nieuwe of vernieuwende systemen of technieken, of
 
-- het geven van nieuwe toepassingen aan bestaande systemen of technieken.
+   - het geven van nieuwe toepassingen aan bestaande systemen of technieken.
 
-- f. **De mate waarin in relevante kennisoverdracht is voorzien** Dit betreft vooral de bereidheid van de aanvrager tot het meewerken aan publicaties over de projectessentie ten behoeve van derden. Dit is met name van belang bij demonstratieprojecten.
+- f. *De mate waarin in relevante kennisoverdracht is voorzien* Dit betreft vooral de bereidheid van de aanvrager tot het meewerken aan publicaties over de projectessentie ten behoeve van derden. Dit is met name van belang bij demonstratieprojecten.
 
-- g. **De toepassingsmogelijkheden van het projectresultaat in de markt** De projecten worden mede beoordeeld op basis van mogelijke markttoepassing of het herhalingspotentieel van het projectresultaat.
+- g. *De toepassingsmogelijkheden van het projectresultaat in de markt* De projecten worden mede beoordeeld op basis van mogelijke markttoepassing of het herhalingspotentieel van het projectresultaat.
 
-- h. **De bijdrage van het project aan de realisatie van overeenkomsten met groepen van marktpartijen** Projecten worden mede beoordeeld naar de mate waarin zij een bijdrage leveren aan het totstandkomen en het uitvoeren van afspraken met groepen van marktpartijen over efficiencyverbetering.
+- h. *De bijdrage van het project aan de realisatie van overeenkomsten met groepen van marktpartijen* Projecten worden mede beoordeeld naar de mate waarin zij een bijdrage leveren aan het totstandkomen en het uitvoeren van afspraken met groepen van marktpartijen over efficiencyverbetering.
 
-##### D. Indiening van de subsidieaanvragen
+##### Artikel D. Indiening van de subsidieaanvragen
 
 Aanvragen ter verkrijging van subsidie op grond van dit programma kunnen vanaf 1 januari 2002 worden ingediend en dienen uiterlijk 30 september 2002 te zijn ontvangen door:
 
@@ -122,11 +101,11 @@ Voor het indienen van een aanvraag dient gebruik te worden gemaakt van het bij N
 
 Aanvragen die niet tijdig worden ontvangen, worden niet in behandeling genomen.
 
-##### E. Subsidieplafond
+##### Artikel E. Subsidieplafond
 
 Het plafond voor het verlenen van subsidies op grond van dit programma bedraagt € 2.268.901.
 
-##### F. Programmabeheerder
+##### Artikel F. Programmabeheerder
 
 Novem bv is aangewezen als programmabeheerder als bedoeld in artikel 1, onder b, van de Subsidieregeling milieu- en energie-efficiency in het goederenvervoer 2002 en wordt door de Minister van Verkeer en Waterstaat gemandateerd om dit programma uit te voeren.
 
@@ -160,8 +139,6 @@ Nadere informatie over dit programma is verkrijgbaar bij:
 
 - internet: http://www.transactie-modalshift.nl
 
-##### G. Inwerkingtreding
+##### Artikel G. Inwerkingtreding
 
 Dit programma treedt in werking met ingang van 1 januari 2002.
-
-Dit programma zal met de toelichting in de Staatscourant worden geplaatst.

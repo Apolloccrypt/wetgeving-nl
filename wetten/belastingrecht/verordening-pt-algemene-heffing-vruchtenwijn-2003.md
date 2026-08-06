@@ -1,52 +1,24 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van een algemene heffing op vruchtenwijn (Verordening PT algemene heffing vruchtenwijn 2003)"
+citeertitel: "Verordening PT algemene heffing vruchtenwijn 2003"
 identifier: "BWBR0013845"
-country: "nl"
-rank: "pbo"
-publication_date: "2003-01-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013845"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6170783"
-version_id: "10841482"
-internal_id: "C14703631"
-label_id: "6159994"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013845/2003-01-01/0"
-intitule_bron: "Vbbo.2002-80"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-07-03"
-intitule_published: "2002-12-20"
-intitule_in_force: "2002-12-20"
-intitule_status: "goed"
-original_publication: "Vbbo.2002-80"
-original_signed_date: "2002-07-03"
-original_published_date: "2002-12-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-01-01"
-jci_1_3: "jci1.3:c:BWBR0013845&z=2003-01-01&g=2003-01-01"
-jci_1_0: "1.0:c:BWBR0013845&g=2003-01-01"
-citeertitel_status: "officieel"
-short_title: "Verordening PT algemene heffing vruchtenwijn 2003"
-signed_date: "2002-07-03"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2003-01-01
+status: geldig
+toestand: 2003-01-01
+bron: "https://wetten.overheid.nl/BWBR0013845"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van een algemene heffing op vruchtenwijn (Verordening PT algemene heffing vruchtenwijn 2003)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 14](onbekend), [15](onbekend) en [19, van de Instellingsverordening Productschap Tuinbouw 1998](onbekend);
-
-gehoord de sectorcommissie Groenten en Fruit, d.d. 20 juni 2002;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
-1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 2](onbekend) en [3, van de Instellingsverordening Productschap Tuinbouw 1998](onbekend).
+1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 2 en 3, van de Instellingsverordening Productschap Tuinbouw 1998.
 
 2. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -55,7 +27,7 @@ BESLUIT:
 | b. | bestuur | : | het bestuur van het productschap; |
 | c. | voorzitter | : | de voorzitter van het productschap; |
 | d. | vruchtenwijn | : | een gegiste drank die is bereid uit het sap van ander fruit dan druiven, met een alcoholgehalte van ten minste 1,2 volumeprocenten bij 20°C; |
-| e. | ondernemer | : | de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld en die vruchtenwijn invoert dan wel uitslaat in de zin van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251). |
+| e. | ondernemer | : | de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld en die vruchtenwijn invoert dan wel uitslaat in de zin van de Wet op de accijns. |
 
 #### § 2. Heffing
 
@@ -79,7 +51,7 @@ BESLUIT:
 
 ##### Artikel 5
 
-1. Indien de ondernemer de gegevens die hem krachtens de [Verordening PT algemene bepalingen](onbekend), ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de ondernemer ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40,= wordt verhoogd in verband met administratiekosten.
+1. Indien de ondernemer de gegevens die hem krachtens de Verordening PT algemene bepalingen, ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de ondernemer ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40,= wordt verhoogd in verband met administratiekosten.
 
 2. Gelijktijdig met het verstrekken van de gegevens, bedoeld in het eerste lid, verstrekt de ondernemer een afschrift van zijn aangifte op grond van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) over 2003.
 
@@ -146,5 +118,3 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 ##### Artikel 14
 
 Deze verordening wordt aangehaald als: Verordening PT algemene heffing vruchtenwijn 2003.
-
-De verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

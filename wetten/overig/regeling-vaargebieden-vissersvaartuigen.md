@@ -1,44 +1,17 @@
 ---
 title: "Regeling vaargebieden vissersvaartuigen"
 identifier: "BWBR0013689"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-05-31"
-last_updated: "2002-05-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013689"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4088583"
-version_id: "5842452"
-internal_id: "C6045281"
-label_id: "4068564"
-dtd_version: "2.0"
-original_entry_into_force: "2002-05-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013689/2002-05-31/0"
-intitule_bron: "Stcrt.2002-99"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-05-15"
-intitule_published: "2002-05-29"
-intitule_in_force: "2002-05-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-99"
-original_signed_date: "2002-05-15"
-original_published_date: "2002-05-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-05-31"
-jci_1_3: "jci1.3:c:BWBR0013689&z=2002-05-31&g=2002-05-31"
-jci_1_0: "1.0:c:BWBR0013689&g=2002-05-31"
-citeertitel_status: "officieel"
-signed_date: "2002-05-15"
-entry_into_force: "2002-05-31"
+publicatiedatum: 2002-05-31
+laatste_update: 2002-05-31
+status: geldig
+toestand: 2002-05-31
+bron: "https://wetten.overheid.nl/BWBR0013689"
+opgehaald: 2026-08-06
 ---
+
 # Regeling vaargebieden vissersvaartuigen
-
-Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en met de Minister van Vervoer en Communicatie van Aruba;
-
-Gelet op de artikelen 3, derde lid, en 4, eerste lid, van [richtlijn nr. 97/70/EG](31997L0070) van de Raad van de Europese Unie van 11 december 1997 betreffende de invoering van een geharmoniseerde veiligheidsregeling voor vissersvaartuigen waarvan de lengte 24 m of meer bedraagt (PbEG L 1998, 34), alsmede op [artikel 1.6, eerste lid, van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=1.6);
-
-Besluit:
 
 #### § 1. Begripsomschrijvingen
 
@@ -46,7 +19,21 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-**noordelijk vaargebied:** de wateren ten noorden van de grens die wordt gevormd door de parallel van 62° NB van de westkust van Noorwegen tot 4° WL, vandaar door de meridiaan van 4° WL tot 60°30' NB, vandaar door de parallel van 60°30' NB tot 5° WL, vandaar door de meridiaan van 5° WL tot 60° NB, vandaar door de parallel van 60° NB tot 15° WL, vandaar door de meridiaan van 15° WL tot 62° NB, vandaar door de parallel van 62° NB tot 27° WL, vandaar door de meridiaan van 27° WL tot 59° NB en vandaar door de parallel van 59° NB naar het westen, met uitzondering van de Oostzee; **zwaar drijfijs:** drijfijs dat ten minste 80% van de oppervlakte van de zee bedekt; **zuidelijk vaargebied:** de Middellandse Zee en de kustwateren van het zomervaargebied van de Atlantische Oceaan binnen een afstand van 20 mijl van de kust van Spanje en Portugal, zoals bedoeld in Hoofdstuk V van [Bijlage I bij het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I); besluit: het [Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342).
+noordelijk vaargebied:
+
+de wateren ten noorden van de grens die wordt gevormd door de parallel van 62° NB van de westkust van Noorwegen tot 4° WL, vandaar door de meridiaan van 4° WL tot 60°30' NB, vandaar door de parallel van 60°30' NB tot 5° WL, vandaar door de meridiaan van 5° WL tot 60° NB, vandaar door de parallel van 60° NB tot 15° WL, vandaar door de meridiaan van 15° WL tot 62° NB, vandaar door de parallel van 62° NB tot 27° WL, vandaar door de meridiaan van 27° WL tot 59° NB en vandaar door de parallel van 59° NB naar het westen, met uitzondering van de Oostzee;
+
+zwaar drijfijs:
+
+drijfijs dat ten minste 80% van de oppervlakte van de zee bedekt;
+
+zuidelijk vaargebied:
+
+de Middellandse Zee en de kustwateren van het zomervaargebied van de Atlantische Oceaan binnen een afstand van 20 mijl van de kust van Spanje en Portugal, zoals bedoeld in Hoofdstuk V van [Bijlage I bij het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I);
+
+besluit:
+
+het [Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342).
 
 #### § 2. Regionale bepalingen voor het noordelijk vaargebied
 
@@ -135,5 +122,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vaargebieden vissersvaartuigen.
-
-Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.

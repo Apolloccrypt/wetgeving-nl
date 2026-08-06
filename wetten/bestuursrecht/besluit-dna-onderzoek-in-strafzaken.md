@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 27 augustus 2001, houdende nadere regels over het DNA-onderzoek in strafzaken (Besluit DNA-onderzoek in strafzaken)"
+citeertitel: "Besluit DNA-onderzoek in strafzaken"
 identifier: "BWBR0012791"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012791"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1613423"
-version_id: "2387862"
-internal_id: "C2387861"
-label_id: "1567704"
-dtd_version: "2.0"
-original_entry_into_force: "2001-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012791/2024-07-01/0"
-intitule_bron: "Stb.2001-400"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-08-27"
-intitule_published: "2001-09-11"
-intitule_in_force: "2001-10-16"
-intitule_status: "goed"
-original_publication: "Stb.2001-400"
-original_signed_date: "2001-08-27"
-original_published_date: "2001-09-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2001-400"
-entry_into_force_date: "2001-11-01"
-jci_1_3: "jci1.3:c:BWBR0012791&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0012791&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit DNA-onderzoek in strafzaken"
-signed_date: "2001-08-27"
-entry_into_force: "2001-11-01"
+publicatiedatum: 2001-11-01
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0012791"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 27 augustus 2001, houdende nadere regels over het DNA-onderzoek in strafzaken (Besluit DNA-onderzoek in strafzaken)
-
-Op de voordracht van Onze Minister van Justitie van 7 mei 2001, nr. 5096282/01/6;
-
-Gelet op de [artikelen 151a, eerste, vierde, vijfde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151a), [151b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151b), [195a, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195a), [195b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195b), en [195d, vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195d);
-
-De Raad van State gehoord (advies van 16 juli 2001, nr. W03.01 0218/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 20 augustus 2001, nr. 5113447/01/6;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking als de wet van 5 juli 2001 tot wijziging van de regeling van het DNA-onderzoek in strafzaken (Stb. 2001, 335) in werking treedt.
 
 #### § 1. Algemeen
 
@@ -64,13 +30,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. opsporingsambtenaar:
 
-- 1°. een ambtenaar van politie als bedoeld in [artikel 2, onder a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2),
+   - 1°. een ambtenaar van politie als bedoeld in [artikel 2, onder a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2),
 
-- 2°. een ambtenaar van politie als bedoeld in [artikel 2, onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover hij is aangesteld voor de uitvoering van de politietaak,
+   - 2°. een ambtenaar van politie als bedoeld in [artikel 2, onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover hij is aangesteld voor de uitvoering van de politietaak,
 
-- 3°. een ambtenaar van politie als bedoeld in [artikel 2, onder b of c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover hij is aangesteld voor de uitvoering van taken op het terrein van de technische recherche, of
+   - 3°. een ambtenaar van politie als bedoeld in [artikel 2, onder b of c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover hij is aangesteld voor de uitvoering van taken op het terrein van de technische recherche, of
 
-- 4°. een militair van de Koninklijke marechaussee als bedoeld in [artikel 141, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141);
+   - 4°. een militair van de Koninklijke marechaussee als bedoeld in [artikel 141, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141);
 
 - f. veroordeelde: een persoon als bedoeld in [artikel 1, eerste lid, onder c, of tweede lid, van de Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=1);
 
@@ -83,6 +49,24 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 - j. het instituut: het Nederlands Forensisch Instituut;
 
 - k. NEN-EN ISO/IEC 17025: algemene eisen voor de competentie van test- en kalibratielaboratoria, uitgegeven door het Koninklijk Nederlands Normalisatie-instituut, zoals deze luidde in januari 2018.
+
+##### Artikel 1a
+
+Als misdrijven als bedoeld in [artikel 151a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151a), ten aanzien waarvan de hulpofficier van justitie de bevoegdheid heeft een DNA-onderzoek op basis van celmateriaal van een onbekende verdachte te verrichten, worden aangewezen de misdrijven, bedoeld in de [artikelen 310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310) en [311, eerste lid, onderdelen 1°, 4° en 5°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=311).
+
+##### Artikel 1b
+
+Als uiterlijk waarneembare persoonskenmerken van een onbekende verdachte of een onbekend slachtoffer waarop een DNA-onderzoek als bedoeld in [artikel 151d, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151d), of [artikel 195f, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195f) gericht kan zijn, worden aangewezen:
+
+- a. het geslacht;
+
+- b. het ras;
+
+- c. de oogkleur;
+
+- d. de haarkleur;
+
+- e. de huidskleur.
 
 #### § 2. Wijze van afnemen van celmateriaal en waarborgen voor een zorgvuldige behandeling en registratie van afgenomen en inbeslaggenomen celmateriaal
 
@@ -126,9 +110,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. daarvan proces-verbaal opmaakt dat of een verklaring die:
 
-- 1°. hij voorziet van een sporenidentificatienummer en de naam, de geboortedatum en -plaats en het geboorteland van de persoon van wie het celmateriaal is afgenomen of, indien deze gegevens onbekend zijn, andere gegevens waarmee de identiteit van deze persoon kan worden vastgesteld, en
+   - 1°. hij voorziet van een sporenidentificatienummer en de naam, de geboortedatum en -plaats en het geboorteland van de persoon van wie het celmateriaal is afgenomen of, indien deze gegevens onbekend zijn, andere gegevens waarmee de identiteit van deze persoon kan worden vastgesteld, en
 
-- 2°. waarin hij, indien het een veroordeelde betreft, vermeldt of de veroordeelde al dan niet op grond van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=3&z=2024-07-01&g=2024-07-01), bezwaar heeft gemaakt tegen het afnemen van celmateriaal door een ander persoon dan een arts of een verpleegkundige.
+   - 2°. waarin hij, indien het een veroordeelde betreft, vermeldt of de veroordeelde al dan niet op grond van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=3&z=2024-07-01&g=2024-07-01), bezwaar heeft gemaakt tegen het afnemen van celmateriaal door een ander persoon dan een arts of een verpleegkundige.
 
 - b. de verpakking waarin het van de persoon afgenomen celmateriaal is gebracht, van een sporenidentificatienummer voorziet dat gelijk is aan het een sporenidentificatienummer, bedoeld onder a, onderdeel 1°, en
 
@@ -139,6 +123,20 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 3. Indien het celmateriaal op een andere wijze van een persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=3&z=2024-07-01&g=2024-07-01) is verkregen dan de op de in die artikelen voorziene wijze, of indien het celmateriaal van een derde betreft die overleden of vermist is als gevolg van een misdrijf, verricht de opsporingsambtenaar de handelingen, bedoeld in het eerste lid, onder b en c. Indien het in de vorige zin bedoelde celmateriaal van een veroordeelde is, verricht de functionaris, bedoeld in [artikel 1, onder d, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onder g, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1, onder h, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1), de handelingen, bedoeld in het eerste lid, onder b en c.
 
 4. In de opdracht aan de deskundige van het laboratorium dat het DNA-onderzoek verricht, worden in ieder geval de gegevens, bedoeld in [artikel 6, eerste lid, onder a tot en met c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2024-07-01&g=2024-07-01), vermeld.
+
+##### Artikel 4a
+
+1. Nadat een opsporingsambtenaar celmateriaal van een onbekende verdachte heeft veiliggesteld of van een in beslag genomen voorwerp heeft afgenomen, plaatst een opsporingsambtenaar dat celmateriaal na een daartoe verstrekte opdracht van de officier van justitie, de hulpofficier van justitie of de rechter-commissaris in een daarvoor bestemd mobiel apparaat ten behoeve van het verrichten van een DNA-onderzoek. Dat DNA-onderzoek mag alleen gericht zijn op het verkrijgen van data aan de hand waarvan een deskundige van het laboratorium van het instituut of een ander laboratorium als bedoeld in [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=7&z=2024-07-01&g=2024-07-01), waaraan het apparaat die data heeft verzonden, het DNA-onderzoek verder verricht. In de opdracht aan de deskundige van het laboratorium dat het laatstbedoelde DNA-onderzoek verricht, worden in ieder geval de gegevens, bedoeld in [artikel 6, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2024-07-01&g=2024-07-01), vermeld.
+
+2. De opsporingsambtenaar kan de onderzoekshandeling, bedoeld in het eerste lid, alleen verrichten indien het landelijk politiekorps, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25) waar hij werkzaam is, door de Raad voor Accreditatie voor die handeling aan de hand van de eisen, genoemd in de NEN-EN ISO/IEC 17 025, is geaccrediteerd.
+
+3. De opsporingsambtenaar zendt het celmateriaal dat bestemd is voor het verrichten van een DNA-onderzoek als bedoeld in [artikel 151a, zesde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151a), of [artikel 195b, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195b) of voor het opnieuw bepalen van het bijbehorende, in de DNA-databank vastgelegde DNA-profiel naar het instituut. Hij voorziet de verpakking met daarin het celmateriaal van een sporenidentificatienummer en van een of meer fraudebestendige sluitzegels of een fraudebestendige afsluiting en zorgt ervoor dat deze bij het instituut wordt bezorgd.
+
+4. De opsporingsambtenaar voorziet het proces-verbaal van het veiligstellen van het celmateriaal of het afnemen van het celmateriaal op een in beslag genomen voorwerp, bedoeld in het eerste lid, van een sporenidentificatienummer.
+
+5. De deskundige die het DNA-onderzoek verricht, rapporteert vooruitlopend op het uitbrengen van het verslag, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=10&z=2024-07-01&g=2024-07-01), de resultaten van het DNA-onderzoek aan de opdrachtgever van het DNA-onderzoek en in afschrift aan de opsporingsambtenaar die het apparaat heeft bediend.
+
+6. Het landelijk politiekorps vernietigt de data die met het mobiele apparaat, bedoeld in het eerste lid, zijn verkregen, vier jaar na het jaar waarin die data zijn verkregen.
 
 ##### Artikel 5
 
@@ -166,6 +164,12 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De directeur van het instituut voert het beheer over het centrale bestand.
 
+##### Artikel 6a
+
+1. Indien het DNA-onderzoek zal worden verricht in een ander laboratorium dan het laboratorium dat het celmateriaal heeft ontvangen, zorgt het ontvangende laboratorium ervoor dat dat celmateriaal zo spoedig mogelijk in een verpakking dat voorzien is van het sporenidentificatienummer, bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2024-07-01&g=2024-07-01), en van een of meer fraudebestendige sluitzegels of een fraudebestendige afsluiting, wordt bezorgd bij het laboratorium dat het DNA-onderzoek zal verrichten.
+
+2. Op het ontvangende laboratorium, bedoeld in het eerste lid, is [artikel 6, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2024-07-01&g=2024-07-01), van overeenkomstige toepassing. Op het laboratorium dat het DNA-onderzoek zal verrichten, is artikel 6, eerste lid, van overeenkomstige toepassing.
+
 #### § 3. Verrichten van DNA-onderzoek
 
 ##### Artikel 7
@@ -192,7 +196,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -252,7 +256,7 @@ Indien het DNA-onderzoek, bedoeld in [artikel 151a, zesde lid, eerste volzin](ht
 
 2. Een DNA-onderzoek op verzoek van de verdachte wordt niet verricht dan nadat hij het bedrag, genoemd in het eerste lid, aan het laboratorium dat het DNA-onderzoek verricht, heeft betaald.
 
-#### § 4. Bewaren en vernietigen van celmateriaal en DNA-profielen en het verstrekken van informatie daarover
+#### § 4. Bewaren en vernietigen van celmateriaal, DNA-profielen en deskundigenverslagen en het verstrekken van informatie daarover
 
 ##### Artikel 13
 
@@ -328,7 +332,7 @@ Indien het DNA-onderzoek, bedoeld in [artikel 151a, zesde lid, eerste volzin](ht
 
 - e. de directeur van het laboratorium, bedoeld in artikel 23, eerste lid, van het Landsbesluit vergelijkend onderzoek celmateriaal (AB 2013, 169 ), voor zover hij deze nodig heeft ten behoeve van het verrichten van een onderzoek als bedoeld in artikel 79, eerste lid, van het Wetboek van Strafvordering (P.B. 1996, 164) en het de DNA-profielen van de personen, bedoeld in [artikel 14, vierde lid, onder a tot en met c, d, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=14&z=2024-07-01&g=2024-07-01), betreft, en
 
-- f. de medewerkers van de nationale contactpunten, bedoeld in artikel 6, eerste lid, van het Besluit 2008/615/JBZ van de Raad van de Europese Unie van 23 juni 2008 inzake de intensivering van de grensoverschrijdende samenwerking in het bijzonder ter bestrijding van terrorisme en grensoverschrijdende criminaliteit (Pb. EU L 210), voor zover zij deze nodig hebben ter uitvoering van de artikelen 3, eerste lid, en 4, eerste lid, van dat besluit en het de DNA-profielen van de personen, bedoeld in [artikel 14, vierde lid, onder a tot en met c, d, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=14&z=2024-07-01&g=2024-07-01), betreft.
+- f. de medewerkers van de nationale contactpunten, bedoeld in artikel 6, eerste lid, van het Besluit 2008/615/JBZ van de Raad van de Europese Unie van 23 juni 2008 inzake de intensivering van de grensoverschrijdende samenwerking in het bijzonder ter bestrijding van terrorisme en grensoverschrijdende criminaliteit (Pb. EU L 210), voor zover zij deze nodig hebben ter uitvoering van de artikelen 3, eerste lid, en 4, eerste lid, van dat besluit en het de DNA-profielen van de personen, bedoeld in [artikel 14, vierde lid, onder a tot en met c, d, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=14&z=2024-07-01&g=2024-07-01), betreft.
 
 2. Het instituut verstrekt slechts gegevens uit de DNA-databank en het centrale bestand, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2024-07-01&g=2024-07-01), aan:
 
@@ -361,6 +365,10 @@ Indien het DNA-onderzoek, bedoeld in [artikel 151a, zesde lid, eerste volzin](ht
 7. Bij iedere verstrekking van gegevens wordt aantekening gehouden van de datum van de verstrekking, de identiteit van de verzoeker en de aard van de verstrekte gegevens.
 
 8. Zodra zich een omstandigheid als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=16&z=2024-07-01&g=2024-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=18&z=2024-07-01&g=2024-07-01) voordoet op grond waarvan het instituut een DNA-profiel dat in de DNA-databank is vastgelegd, dient te vernietigen, stelt het instituut de landelijke eenheid, bedoeld in het tweede lid, onder e, en de Justitiële Informatiedienst daarvan in kennis. Terstond nadat de landelijke eenheid, bedoeld in het tweede lid, onder e, en de Justitiële Informatiedienst deze kennisgeving hebben ontvangen, vernietigen zij de gegevens die bij hen over dat profiel zijn vastgelegd.
+
+##### Artikel 15a
+
+Indien een ander laboratorium dan het laboratorium van het instituut voornemens is zijn werkzaamheden op het terrein van forensisch DNA-onderzoek te beëindigen, zorgt dat laboratorium ervoor dat de afschriften van de verslagen, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=10&z=2024-07-01&g=2024-07-01), die bij dat laboratorium worden bewaard, en de andere gegevens die het in verband daarmee bewaart, voor de beëindiging van die werkzaamheden worden overgedragen aan het instituut, tenzij het laboratorium fuseert met een ander laboratorium als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=7&z=2024-07-01&g=2024-07-01). In het laatste geval worden de afschriften van de verslagen en de andere gegevens die het laboratorium in verband daarmee bewaart, in dat andere laboratorium bewaard.
 
 ##### Artikel 16
 
@@ -399,50 +407,6 @@ Indien het DNA-onderzoek, bedoeld in [artikel 151a, zesde lid, eerste volzin](ht
 4. In afwijking van het eerste tot en met derde lid wordt het DNA-profiel van een verdachte of veroordeelde wegens een misdrijf als bedoeld in de [artikelen 241](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=243) en [245 tot en met 253 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241) na tachtig jaar vernietigd.
 
 5. Het instituut vernietigt het DNA-profiel van een persoon als bedoeld in [artikel 14, vierde lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=14&z=2024-07-01&g=2024-07-01), twintig jaar na vastlegging in de DNA-databank of zodra deze persoon het instuut heeft medegedeeld dat hij zijn toestemming tot het verwerken van zijn DNA-profiel heeft ingetrokken.
-
-#### § 5. Slotbepalingen
-
-##### Artikel 19
-
-Het Besluit DNA-onderzoeken wordt ingetrokken.
-
-##### Artikel 20
-
-Dit besluit treedt in werking op het tijdstip waarop de wet van 5 juli 2001 tot wijziging van de regeling van het DNA-onderzoek in strafzaken (Stb. 2001, 335) in werking treedt.
-
-##### Artikel 21
-
-Dit besluit wordt aangehaald als: Besluit DNA-onderzoek in strafzaken.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Als misdrijven als bedoeld in [artikel 151a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151a), ten aanzien waarvan de hulpofficier van justitie de bevoegdheid heeft een DNA-onderzoek op basis van celmateriaal van een onbekende verdachte te verrichten, worden aangewezen de misdrijven, bedoeld in de [artikelen 310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310) en [311, eerste lid, onderdelen 1°, 4° en 5°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=311).
-
-##### Artikel 1b
-
-Als uiterlijk waarneembare persoonskenmerken van een onbekende verdachte of een onbekend slachtoffer waarop een DNA-onderzoek als bedoeld in [artikel 151d, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151d), of [artikel 195f, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195f) gericht kan zijn, worden aangewezen:
-
-- a. het geslacht;
-
-- b. het ras;
-
-- c. de oogkleur;
-
-- d. de haarkleur;
-
-- e. de huidskleur.
-
-#### § 2. Wijze van afnemen van celmateriaal en waarborgen voor een zorgvuldige behandeling en registratie van afgenomen en inbeslaggenomen celmateriaal
-
-#### § 3. Verrichten van DNA-onderzoek
-
-#### § 4. Bewaren en vernietigen van celmateriaal en DNA-profielen en het verstrekken van informatie daarover
-
-#### § 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 18a
 
@@ -488,44 +452,14 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 5. Slotbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 19
 
-##### Artikel 6a
+Het Besluit DNA-onderzoeken wordt ingetrokken.
 
-1. Indien het DNA-onderzoek zal worden verricht in een ander laboratorium dan het laboratorium dat het celmateriaal heeft ontvangen, zorgt het ontvangende laboratorium ervoor dat dat celmateriaal zo spoedig mogelijk in een verpakking dat voorzien is van het sporenidentificatienummer, bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2024-07-01&g=2024-07-01), en van een of meer fraudebestendige sluitzegels of een fraudebestendige afsluiting, wordt bezorgd bij het laboratorium dat het DNA-onderzoek zal verrichten.
+##### Artikel 20
 
-2. Op het ontvangende laboratorium, bedoeld in het eerste lid, is [artikel 6, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2024-07-01&g=2024-07-01), van overeenkomstige toepassing. Op het laboratorium dat het DNA-onderzoek zal verrichten, is artikel 6, eerste lid, van overeenkomstige toepassing.
+Dit besluit treedt in werking op het tijdstip waarop de wet van 5 juli 2001 tot wijziging van de regeling van het DNA-onderzoek in strafzaken (Stb. 2001, 335) in werking treedt.
 
-#### § 3. Verrichten van DNA-onderzoek
+##### Artikel 21
 
-#### § 4. Bewaren en vernietigen van celmateriaal, DNA-profielen en deskundigenverslagen en het verstrekken van informatie daarover
-
-##### Artikel 15a
-
-Indien een ander laboratorium dan het laboratorium van het instituut voornemens is zijn werkzaamheden op het terrein van forensisch DNA-onderzoek te beëindigen, zorgt dat laboratorium ervoor dat de afschriften van de verslagen, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=10&z=2024-07-01&g=2024-07-01), die bij dat laboratorium worden bewaard, en de andere gegevens die het in verband daarmee bewaart, voor de beëindiging van die werkzaamheden worden overgedragen aan het instituut, tenzij het laboratorium fuseert met een ander laboratorium als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=7&z=2024-07-01&g=2024-07-01). In het laatste geval worden de afschriften van de verslagen en de andere gegevens die het laboratorium in verband daarmee bewaart, in dat andere laboratorium bewaard.
-
-#### § 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 4a
-
-1. Nadat een opsporingsambtenaar celmateriaal van een onbekende verdachte heeft veiliggesteld of van een in beslag genomen voorwerp heeft afgenomen, plaatst een opsporingsambtenaar dat celmateriaal na een daartoe verstrekte opdracht van de officier van justitie, de hulpofficier van justitie of de rechter-commissaris in een daarvoor bestemd mobiel apparaat ten behoeve van het verrichten van een DNA-onderzoek. Dat DNA-onderzoek mag alleen gericht zijn op het verkrijgen van data aan de hand waarvan een deskundige van het laboratorium van het instituut of een ander laboratorium als bedoeld in [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=7&z=2024-07-01&g=2024-07-01), waaraan het apparaat die data heeft verzonden, het DNA-onderzoek verder verricht. In de opdracht aan de deskundige van het laboratorium dat het laatstbedoelde DNA-onderzoek verricht, worden in ieder geval de gegevens, bedoeld in [artikel 6, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2024-07-01&g=2024-07-01), vermeld.
-
-2. De opsporingsambtenaar kan de onderzoekshandeling, bedoeld in het eerste lid, alleen verrichten indien het landelijk politiekorps, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25) waar hij werkzaam is, door de Raad voor Accreditatie voor die handeling aan de hand van de eisen, genoemd in de NEN-EN ISO/IEC 17 025, is geaccrediteerd.
-
-3. De opsporingsambtenaar zendt het celmateriaal dat bestemd is voor het verrichten van een DNA-onderzoek als bedoeld in [artikel 151a, zesde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151a), of [artikel 195b, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195b) of voor het opnieuw bepalen van het bijbehorende, in de DNA-databank vastgelegde DNA-profiel naar het instituut. Hij voorziet de verpakking met daarin het celmateriaal van een sporenidentificatienummer en van een of meer fraudebestendige sluitzegels of een fraudebestendige afsluiting en zorgt ervoor dat deze bij het instituut wordt bezorgd.
-
-4. De opsporingsambtenaar voorziet het proces-verbaal van het veiligstellen van het celmateriaal of het afnemen van het celmateriaal op een in beslag genomen voorwerp, bedoeld in het eerste lid, van een sporenidentificatienummer.
-
-5. De deskundige die het DNA-onderzoek verricht, rapporteert vooruitlopend op het uitbrengen van het verslag, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=10&z=2024-07-01&g=2024-07-01), de resultaten van het DNA-onderzoek aan de opdrachtgever van het DNA-onderzoek en in afschrift aan de opsporingsambtenaar die het apparaat heeft bediend.
-
-6. Het landelijk politiekorps vernietigt de data die met het mobiele apparaat, bedoeld in het eerste lid, zijn verkregen, vier jaar na het jaar waarin die data zijn verkregen.
-
-#### § 3. Verrichten van DNA-onderzoek
-
-#### § 4. Bewaren en vernietigen van celmateriaal, DNA-profielen en deskundigenverslagen en het verstrekken van informatie daarover
-
-#### § 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Dit besluit wordt aangehaald als: Besluit DNA-onderzoek in strafzaken.

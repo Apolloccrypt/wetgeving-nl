@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0051162"
-opgehaald: 2026-08-05
+opgehaald: 2026-08-06
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 26 juni 2025, nr. MBO/[52787847], houdende regels voor de subsidieverstrekking voor Subsidieregeling Nationaal Groeifonds LLO Collectief laagopgeleiden en laaggeletterden

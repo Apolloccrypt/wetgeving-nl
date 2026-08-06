@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 16 oktober 2002, houdende regels betreffende de procedure van veiling en loting inzake de toekenning van nummers (Besluit alternatieve verdeling nummers)"
+citeertitel: "Besluit alternatieve verdeling nummers"
 identifier: "BWBR0014124"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014124"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "3173493"
-version_id: "4892932"
-internal_id: "C14629551"
-label_id: "3140404"
-dtd_version: "2.0"
-original_entry_into_force: "2004-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014124/2013-04-01/0"
-intitule_bron: "Stb.2002-538"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-10-16"
-intitule_published: "2002-11-12"
-intitule_in_force: "2004-09-21"
-intitule_status: "goed"
-original_publication: "Stb.2002-538"
-original_signed_date: "2002-10-16"
-original_published_date: "2002-11-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-538"
-entry_into_force_date: "2004-10-21"
-jci_1_3: "jci1.3:c:BWBR0014124&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0014124&g=2013-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit alternatieve verdeling nummers"
-signed_date: "2002-10-16"
-entry_into_force: "2004-10-21"
+publicatiedatum: 2004-10-21
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0014124"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 16 oktober 2002, houdende regels betreffende de procedure van veiling en loting inzake de toekenning van nummers (Besluit alternatieve verdeling nummers)
-
-Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 13 juni 2002 nr. HDJZ 2002/1494, Hoofddirectie Juridische Zaken;
-
-Gelet op [artikel 4.2, zevende lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.2);
-
-De Raad van State gehoord (advies van 25 juli 2002, nr. W09.02.0253/V);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 10 oktober 2002, nr. DGTP/02/03582, Directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepaling
 
@@ -126,7 +94,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -137,5 +105,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit alternatieve verdeling nummers.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

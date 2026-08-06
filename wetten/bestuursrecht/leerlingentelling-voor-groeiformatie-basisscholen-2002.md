@@ -1,37 +1,17 @@
 ---
 title: "Leerlingentelling voor groeiformatie basisscholen"
+citeertitel: "Leerlingentelling voor groeiformatie basisscholen (2002)"
 identifier: "BWBR0013739"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2002-06-26"
-last_updated: "2002-06-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013739"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6443213"
-version_id: "11115282"
-internal_id: "C15030331"
-label_id: "6432244"
-original_entry_into_force: "2002-06-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013739/2002-06-26/0"
-intitule_bron: "Uitleg.2002-17"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-06-04"
-intitule_published: "2002-06-26"
-intitule_in_force: "2002-06-26"
-intitule_status: "goed"
-original_publication: "Uitleg.2002-17"
-original_signed_date: "2002-06-04"
-original_published_date: "2002-06-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-06-26"
-jci_1_3: "jci1.3:c:BWBR0013739&z=2002-06-26&g=2002-06-26"
-jci_1_0: "1.0:c:BWBR0013739&g=2002-06-26"
-citeertitel_status: "redactioneel"
-short_title: "Leerlingentelling voor groeiformatie basisscholen (2002)"
-signed_date: "2002-06-04"
-entry_into_force: "2002-06-26"
+publicatiedatum: 2002-06-26
+laatste_update: 2002-06-26
+status: geldig
+toestand: 2002-06-26
+bron: "https://wetten.overheid.nl/BWBR0013739"
+opgehaald: 2026-08-06
 ---
+
 # Leerlingentelling voor groeiformatie basisscholen
 
 ### 1. Inleiding
@@ -56,7 +36,7 @@ Een school heeft recht op groeiformatie als het aantal leerlingen tenminste 13 l
 
 ### Groeiformatie eerste schooldag
 
-In het geval dat de aanspraak op groeiformatie reeds per 1 augustus in moet gaan, kan dat op het telformulier worden aangegeven bij ”groei op de eerste schooldag” (zie ook onder paragraaf 4.5).
+In het geval dat de aanspraak op groeiformatie reeds per 1 augustus in moet gaan, kan dat op het telformulier worden aangegeven bij ”groei op de eerste schooldag” (zie ook onder [paragraaf 4.5](https://wetten.overheid.nl/BWBR0013739)).
 
 ### Bijzondere groeiformatie van 1 april tot en met 31 mei
 
@@ -74,7 +54,7 @@ Voor die scholen, waarvan de formatie is aangevuld met een ”zeer kleine schole
 
 ### 4.1. Indiening telformulier
 
-Voor de leerlingentelling moet gebruik worden gemaakt van het formulier CFI 51074 (zie ook onder paragraaf 5.2). Het telformulier moet binnen twee weken na de gekozen teldatum worden ingediend. Doorslaggevend bij de beoordeling of het telformulier tijdig is ingezonden zal de datum van het poststempel zijn of, wanneer een poststempel ontbreekt, de datum van binnenkomst bij Cfi.
+Voor de leerlingentelling moet gebruik worden gemaakt van het formulier CFI 51074 (zie ook onder [paragraaf 5.2](https://wetten.overheid.nl/BWBR0013739)). Het telformulier moet binnen twee weken na de gekozen teldatum worden ingediend. Doorslaggevend bij de beoordeling of het telformulier tijdig is ingezonden zal de datum van het poststempel zijn of, wanneer een poststempel ontbreekt, de datum van binnenkomst bij Cfi.
 
 Het formulier moet ondertekend worden door het bevoegd gezag en opgestuurd worden naar:
 
@@ -116,6 +96,12 @@ Leidt de toename van het aantal leerlingen echter niet tot verhoging van de form
 
 Bij vraag 2 van het formulier dient aangekruist te worden waar de aanvraag betrekking op heeft. Hierbij is sprake van de volgende drie keuzemogelijkheden:
 
+- 1 groei eerste schooldag;
+
+- 2 groei in de periode 1 augustus tot en met 31 maart;
+
+- 3 groei in de periode 1 april tot en met 31 mei.
+
 ### Ad 1)
 
 Ingeval het groei eerste schooldag betreft, dient de teldatum de (officiële) eerste schooldag van de regio te zijn. Deze dient te worden ingevuld en daaronder het aantal leerlingen dat op deze datum op de school stond ingeschreven.
@@ -128,7 +114,7 @@ Bij een verzoek voor groeiformatie in de periode van 1 augustus tot en met 31 ma
 
 Indien een verzoek voor bijzondere groeiformatie in de periode 1 april tot en met 31 mei wordt ingediend, moet een datum uit deze periode als teldatum worden gekozen. Deze datum dient te worden ingevuld en daaronder het aantal leerlingen dat op de gekozen datum op de school stond ingeschreven. Bij een verzoek voor bijzondere groeiformatie dient daarnaast ook het aantal leerlingen dat op 31 maart op de school stond ingeschreven te worden ingevuld.
 
-Het telformulier dient binnen twee weken na de (gekozen) teldatum te worden ingediend. Voor een uitgebreide toelichting op de vereiste stijging van het aantal leerlingen en de te volgen procedure bij de aanvraag, verwijs ik u naar hoofdstuk 3 van deze publicatie.
+Het telformulier dient binnen twee weken na de (gekozen) teldatum te worden ingediend. Voor een uitgebreide toelichting op de vereiste stijging van het aantal leerlingen en de te volgen procedure bij de aanvraag, verwijs ik u naar [hoofdstuk 3](https://wetten.overheid.nl/BWBR0013739) van deze publicatie.
 
 ### 5.2. Bestellen
 

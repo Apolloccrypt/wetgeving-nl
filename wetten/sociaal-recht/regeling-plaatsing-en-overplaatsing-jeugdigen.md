@@ -1,44 +1,17 @@
 ---
 title: "Regeling plaatsing en overplaatsing jeugdigen"
 identifier: "BWBR0012741"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-03-24"
-last_updated: "2015-03-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012741"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4542753"
-version_id: "6349152"
-internal_id: "C6593621"
-label_id: "4521224"
-dtd_version: "2.0"
-original_entry_into_force: "2001-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012741/2015-03-24/0"
-intitule_bron: "Stcrt.2001-156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-08-14"
-intitule_published: "2001-08-15"
-intitule_in_force: "2001-08-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-156"
-original_signed_date: "2001-08-14"
-original_published_date: "2001-08-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-09-01"
-jci_1_3: "jci1.3:c:BWBR0012741&z=2015-03-24&g=2015-03-24"
-jci_1_0: "1.0:c:BWBR0012741&g=2015-03-24"
-citeertitel_status: "officieel"
-signed_date: "2001-08-14"
-entry_into_force: "2001-09-01"
+publicatiedatum: 2001-09-01
+laatste_update: 2015-03-24
+status: geldig
+toestand: 2015-03-24
+bron: "https://wetten.overheid.nl/BWBR0012741"
+opgehaald: 2026-08-06
 ---
+
 # Regeling plaatsing en overplaatsing jeugdigen
-
-Gelet op [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8), [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=15), en [artikel 16, zesde lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=16).
-
-Gezien het advies van het College van advies voor de justitiële kinderbescherming van 1 februari 2001, nummer 5078699/01/TH/rb.
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,9 +19,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756);
+- a. *wet:* de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756);
 
-- b. **inrichting:** een inrichting als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8).
+- b. *inrichting:* een inrichting als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8).
 
 #### Paragraaf 2. Beveiligingsniveau
 
@@ -88,11 +61,11 @@ Jeugdigen kunnen worden geplaatst op een door de Minister van Veiligheid en Just
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 4. Plaatsing en overplaatsing van strafrechtelijke jeugdigen
 
@@ -138,7 +111,7 @@ Indien de selectiefunctionaris afwijkt van de in [artikel 12, vijfde lid, van de
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 6. Opname in een ziekenhuis, dan wel een andere instelling
 
@@ -187,5 +160,3 @@ Deze Regeling treedt in werking op 1 september 2001
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling plaatsing en overplaatsing jeugdigen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

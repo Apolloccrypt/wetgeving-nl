@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-28
 toestand: 2026-02-24
 bron: "https://wetten.overheid.nl/BWBR0032231"
-opgehaald: 2026-08-05
+opgehaald: 2026-08-06
 ---
 
 # Regeling van de Minister voor Wonen en Rijksdienst van 14 november 2012, nr. 2012-652544, houdende tijdelijke verlening van mandaat, volmacht en machtiging op het terrein van rijksvastgoed (Tijdelijke regeling mandaat, volmacht en machtiging Rijksvastgoed)

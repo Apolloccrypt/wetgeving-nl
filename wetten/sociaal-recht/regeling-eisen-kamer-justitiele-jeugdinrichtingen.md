@@ -1,50 +1,31 @@
 ---
 title: "Regeling eisen kamer justitiële jeugdinrichtingen"
 identifier: "BWBR0012736"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-09-01"
-last_updated: "2001-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012736"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3563173"
-version_id: "5346412"
-internal_id: "C5539501"
-label_id: "3543294"
-dtd_version: "2.0"
-original_entry_into_force: "2001-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012736/2001-09-01/0"
-intitule_bron: "Stcrt.2001-156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-08-14"
-intitule_published: "2001-08-15"
-intitule_in_force: "2001-08-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-156"
-original_signed_date: "2001-08-14"
-original_published_date: "2001-08-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-09-01"
-jci_1_3: "jci1.3:c:BWBR0012736&z=2001-09-01&g=2001-09-01"
-jci_1_0: "1.0:c:BWBR0012736&g=2001-09-01"
-citeertitel_status: "officieel"
-signed_date: "2001-08-14"
-entry_into_force: "2001-09-01"
+publicatiedatum: 2001-09-01
+laatste_update: 2001-09-01
+status: geldig
+toestand: 2001-09-01
+bron: "https://wetten.overheid.nl/BWBR0012736"
+opgehaald: 2026-08-06
 ---
+
 # Regeling eisen kamer justitiële jeugdinrichtingen
-
-Gelet op [artikel 17, vijfde lid, van Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=17);
-
-Gezien het advies van het College van advies voor de justitiële kinderbescherming van 12 oktober 2000, kenmerk: 5056746/00/TH/rb;
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+wet:
+
+de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756);
+
+raam:
+
+een voorziening waardoor de cyclus van dag en nacht kan worden waargenomen.
 
 ##### Artikel 2. Algemeen
 
@@ -135,5 +116,3 @@ Deze regeling treedt in werking op 1 september 2001
 ##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling eisen kamer justitiële jeugdinrichtingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

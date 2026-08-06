@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0037678"
-opgehaald: 2026-08-05
+opgehaald: 2026-08-06
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016 nr. MBO/839405, houdende vaststelling van kwalificatiedossiers en opleidingsdomeinen (Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016)

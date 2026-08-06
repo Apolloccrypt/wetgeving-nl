@@ -1,47 +1,70 @@
 ---
 title: "Regeling van de Minister van Justitie, houdende regels betrekking hebbende op de geestelijke verzorgers van moslims, hindoes en boeddhisten die, anders dan bij wijze van ambtelijke aanstelling, aan justitiële inrichtingen verbonden zijn"
+citeertitel: "Regeling functie-eisen en vergoeding geestelijk verzorgers overige stromingen"
 identifier: "BWBR0013751"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-05-11"
-last_updated: "2007-05-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013751"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4117883"
-version_id: "5871432"
-internal_id: "C6074261"
-label_id: "4097544"
-dtd_version: "2.0"
-original_entry_into_force: "2002-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013751/2007-05-11/0"
-intitule_bron: "Stcrt.2002-108"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-06-07"
-intitule_published: "2002-06-11"
-intitule_in_force: "2002-06-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-108"
-original_signed_date: "2002-06-07"
-original_published_date: "2002-06-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-07-01"
-jci_1_3: "jci1.3:c:BWBR0013751&z=2007-05-11&g=2007-05-11"
-jci_1_0: "1.0:c:BWBR0013751&g=2007-05-11"
-citeertitel_status: "officieel"
-short_title: "Regeling functie-eisen en vergoeding geestelijk verzorgers overige stromingen"
-signed_date: "2002-06-07"
-entry_into_force: "2002-07-01"
+publicatiedatum: 2002-07-01
+laatste_update: 2007-05-11
+status: geldig
+toestand: 2007-05-11
+bron: "https://wetten.overheid.nl/BWBR0013751"
+opgehaald: 2026-08-06
 ---
+
 # Regeling van de Minister van Justitie, houdende regels betrekking hebbende op de geestelijke verzorgers van moslims, hindoes en boeddhisten die, anders dan bij wijze van ambtelijke aanstelling, aan justitiële inrichtingen verbonden zijn
-
-Gelet op [artikel 41, vierde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=41), [artikel 27 van de Penitentiaire maatregel](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=27), [artikel 40, vierde lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=40), [artikel 39 van het Reglement verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&artikel=39), [artikel 46, vierde lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=46) en [artikel 54 van het Reglement justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=54);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+geestelijk verzorger:
+
+een geestelijk verzorger van een overige stroming, te weten: de islamitische, hindoeïstische of boeddhistische gezindte;
+
+b.
+
+justitiabele:
+
+de gedetineerde, bedoeld in [artikel 1, onderdeel e, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), de verpleegde, bedoeld in [artikel 1, onderdeel j, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1), of de jeugdige, bedoeld in [artikel 1, onderdeel f, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1) die verblijft in een penitentiaire inrichting onderscheidenlijk een rijksinrichting;
+
+c.
+
+verzoek:
+
+een verzoek van een justitiabele om geestelijke zorg;
+
+d.
+
+uurvergoeding:
+
+een brutobedrag per effectief gewerkt uur;
+
+e.
+
+theologie:
+
+onder theologie wordt naast westerse christelijke godsdiensten mede verstaan het hindoeïsme, boeddhisme en de islam;
+
+f.
+
+Dienst Geestelijke Verzorging:
+
+Dienst Geestelijke Verzorging van de Dienst Justitiële Inrichtingen;
+
+g.
+
+portefeuillehouder overige stromingen:
+
+ambtenaar van de Dienst Geestelijke Verzorging verantwoordelijk voor de organisatie van de geestelijk verzorgers overige stromingen;
+
+h.
+
+Bureau Integriteit en Veiligheid:
+
+Bureau Integriteit en Veiligheid van de Dienst Justitiële Inrichtingen.
 
 ##### Artikel 2
 
@@ -75,7 +98,7 @@ Het hoofd van de Dienst Geestelijke Verzorging werft geestelijke verzorgers na o
 
 ##### Artikel 5. Toestemming hoofd Dienst Justitiële Inrichtingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -102,5 +125,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2002 en werkt terug tot 1 
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling functie-eisen en vergoeding geestelijk verzorgers overige stromingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

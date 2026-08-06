@@ -1,36 +1,16 @@
 ---
 title: "Maatregelen in verband met deregulering en autonomievergroting op korte termijn (schoolbudget met ingang van 1 augustus 2002)"
 identifier: "BWBR0013603"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2002-08-01"
-last_updated: "2002-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013603"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6442533"
-version_id: "11114552"
-internal_id: "C15029511"
-label_id: "6431514"
-original_entry_into_force: "2002-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013603/2002-08-01/0"
-intitule_bron: "Uitleg.2002-11"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-04-15"
-intitule_published: "2002-04-24"
-intitule_in_force: "2002-04-24"
-intitule_status: "goed"
-original_publication: "Uitleg.2002-11"
-original_signed_date: "2002-04-15"
-original_published_date: "2002-04-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-08-01"
-jci_1_3: "jci1.3:c:BWBR0013603&z=2002-08-01&g=2002-08-01"
-jci_1_0: "1.0:c:BWBR0013603&g=2002-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "2002-04-15"
-entry_into_force: "2002-08-01"
+publicatiedatum: 2002-08-01
+laatste_update: 2002-08-01
+status: geldig
+toestand: 2002-08-01
+bron: "https://wetten.overheid.nl/BWBR0013603"
+opgehaald: 2026-08-06
 ---
+
 # Maatregelen in verband met deregulering en autonomievergroting op korte termijn (schoolbudget met ingang van 1 augustus 2002)
 
 ### Inleiding
@@ -77,6 +57,12 @@ De afzonderlijke verzilveringstarieven ten behoeve van spaarverlof of meerwerk v
 
 De omvang van het budget wordt per school vastgesteld op basis van:
 
+- a. het aantal leerlingen,
+
+- b. het schoolgewicht of het aantal cumi-leerlingen,
+
+- c. het aantal ambulant begeleide leerlingen.
+
 ### Bepaling van het aantal leerlingen
 
 Tenzij in deze publicatie anders is aangegeven wordt bij het bepalen van het aantal leerlingen uitgegaan van het aantal leerlingen dat de school op 1 oktober van het voor­afgaande schooljaar bezocht. Voor basisscholen wordt het aantal in deze publicatie bedoelde leerlingen vastgesteld overeenkomstig [artikel 121 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=121); voor speciale scholen voor basisonderwijs geldt het bepaalde in [artikel 122 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=122), voor scholen voor (voortgezet) speciaal onderwijs het bepaalde in [artikel 118 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=118) en voor scholen voor praktijkonderwijs met declaratiebekostiging geldt het bepaalde in [artikel 234 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=234). Hierbij wordt uitgegaan van de gegevens zoals die door het bevoegd gezag worden geleverd. Indien het definitieve door de accountant vastgestelde leerlingaantal daarvan afwijkt, kan een herberekening van de omvang van het budget plaatsvinden.
@@ -93,61 +79,83 @@ Schoolgewicht voor basisscholen is het schoolgewicht zoals bedoeld in [artikel 1
 
 Het schoolbudget voor basisscholen bestaat uit:
 
-**A=** het aantal leerlingen vermenigvuldigd met € 182,27;
+*A=* het aantal leerlingen vermenigvuldigd met € 182,27;
 
-**B=** het schoolgewicht, vermenigvuldigd met € 182,27.
+*B=* het schoolgewicht, vermenigvuldigd met € 182,27.
 
 Kleine basisscholen ( minder dan 145 leerlingen) tellen daar bij op:
 
-**C=** de uitkomst van de formule € 3506,71 - € 24,19 X het aantal leerlingen;
+*C=* de uitkomst van de formule € 3506,71 - € 24,19 X het aantal leerlingen;
 
 Basisscholen waarvan 70% of meer leerlingen die de school op 1 oktober 2000 bezochten met de factor 0,9 bijdragen aan het schoolgewicht voegen daar nog aan toe
 
-**D=** (het totaal aantal leerlingen vermenigvuldigd met € 83,07) plus (het schoolgewicht vermenigvuldigd met € 103,04).
+*D=* (het totaal aantal leerlingen vermenigvuldigd met € 83,07) plus (het schoolgewicht vermenigvuldigd met € 103,04).
 
 ### Omvang van het schoolbudget voor speciale scholen voor basisonderwijs per 1 augustus 2002
 
 Het schoolbudget voor speciale scholen voor basisonderwijs bestaat uit:
 
-**A=** het aantal leerlingen vermenigvuldigd met € 298,39;
+*A=* het aantal leerlingen vermenigvuldigd met € 298,39;
 
-**B=** het aantal cumi-leerlingen, vermenigvuldigd met € 110,80.
+*B=* het aantal cumi-leerlingen, vermenigvuldigd met € 110,80.
 
 Speciale scholen voor basisonderwijs die 1 oktober 2000 worden bezocht door 50% of meer cumi-leerlingen voegen daar nog aan toe:
 
-**C=** (het totaal aantal leerlingen vermenigvuldigd met € 150,58) plus (het aantal cumi-leerlingen, vermenigvuldigd met € 172,42).
+*C=* (het totaal aantal leerlingen vermenigvuldigd met € 150,58) plus (het aantal cumi-leerlingen, vermenigvuldigd met € 172,42).
 
 ### Omvang van het schoolbudget voor scholen voor (voortgezet) speciaal onderwijs per 1 augustus 2002
 
 Het schoolbudget voor scholen voor (voortgezet) speciaal onderwijs bestaat uit:
 
-**A=** het aantal so-leerlingen en vso-leerlingen, vermenigvuldigd met de bedragen in de bijlage genoemd onder a;
+*A=* het aantal so-leerlingen en vso-leerlingen, vermenigvuldigd met de bedragen in de bijlage genoemd onder a;
 
-**B=** het aantal ambulant begeleide leerlingen, vermenigvuldigd met € 121,40
+*B=* het aantal ambulant begeleide leerlingen, vermenigvuldigd met € 121,40
 
-**C=** het aantal cumi-leerlingen, vermenigvuldigd met € 86,55
+*C=* het aantal cumi-leerlingen, vermenigvuldigd met € 86,55
 
 Scholen voor (voortgezet) speciaal onderwijs die op 1 oktober 2000 worden bezocht door 50% of meer cumi-leerlingen voegen daar nog aan toe:
 
-**D=** (het totaal aantal leerlingen vermenigvuldigd met het bedrag in de bijlage genoemd onder b plus het aantal cumi-leerlingen, vermenigvuldigd met € 287,38 plus het aantal ambulant begeleide leerlingen, vermenigvuldigd met € 62,27). a en b zijn volgens de bijlage afhankelijk van de onderwijssoort.
+*D=* (het totaal aantal leerlingen vermenigvuldigd met het bedrag in de [bijlage](https://wetten.overheid.nl/BWBR0013603) genoemd onder b plus het aantal cumi-leerlingen, vermenigvuldigd met € 287,38 plus het aantal ambulant begeleide leerlingen, vermenigvuldigd met € 62,27). a en b zijn volgens de [bijlage](https://wetten.overheid.nl/BWBR0013603) afhankelijk van de onderwijssoort.
 
 ### Omvang van het schoolbudget voor scholen voor praktijkonderwijs met declaratiebekostiging per 1 augustus 2002
 
 Het schoolbudget voor scholen voor praktijkonderwijs met declaratiebekostiging bestaat uit:
 
-**A=** het aantal leerlingen vermenigvuldigd met € 268,56;
+*A=* het aantal leerlingen vermenigvuldigd met € 268,56;
 
-**B=** het aantal cumi-leerlingen, vermenigvuldigd met € 72,00;
+*B=* het aantal cumi-leerlingen, vermenigvuldigd met € 72,00;
 
-**C=** het aantal ambulant begeleide leerlingen, vermenigvuldigd met € 47,16.
+*C=* het aantal ambulant begeleide leerlingen, vermenigvuldigd met € 47,16.
 
 Bovenstaande scholen die 1 oktober 2000 worden bezocht door 50% of meer cumi-leerlingen voegen daar nog aan toe:
 
-**D=** (het totaal aantal leerlingen, vermenigvuldigd met € 12,59) plus (het aantal cumi-leerlingen, vermenigvuldigd met € 486,77 plus het aantal ambulant begeleide leerlingen, vermenigvuldigd met € 115,35).
+*D=* (het totaal aantal leerlingen, vermenigvuldigd met € 12,59) plus (het aantal cumi-leerlingen, vermenigvuldigd met € 486,77 plus het aantal ambulant begeleide leerlingen, vermenigvuldigd met € 115,35).
 
 ### Bestedingsmogelijkheden schoolbudget
 
 Het schoolbudget is een vrij besteedbaar budget voor personele doeleinden dat wordt uitgekeerd in de vorm van geld. Scholen beschikken daarmee structureel over financiële ruimte om zelfstandig afwegingen te maken en daarbij voldoende rekening te houden met de specifieke situatie waarin zij zich bevinden. Bij besteding aan personele doeleinden kan onder andere worden gedacht aan:
+
+- salariskosten
+
+   - kosten van ondersteunende functionarissen
+
+   - kosten voor LIO’s en hun begeleiders,
+
+   - toelagen, gratificaties en extra periodieke verhogingen
+
+   - extra salariskosten van hoger ingeschaald personeel (functiedifferentiatie)
+
+   - extra salariskosten in verband met betaald ouderschapsverlof
+
+- overige personele kosten zoals:
+
+   - kosten van nascholing en deskundigheidsbevordering van het personeel en management
+
+   - kosten in verband met arbeidsomstandigheden en arbo-zorg,
+
+   - kosten van arbeidsmarktbeleid
+
+   - integraal personeelsbeleid.
 
 Als gevolg van de samenvoeging van het schoolprofielbudget (PKI-budget) met het schoolbudget kan bij de besteding aan personele doeleinden tevens worden gedacht aan kwaliteitsverbetering en innovatie.
 
@@ -156,37 +164,3 @@ Als gevolg van de samenvoeging van het schoolprofielbudget (PKI-budget) met het 
 Het schoolbudget wordt in twee termijnen beschikbaar gesteld, te weten 5/12 deel in oktober 2002 en 7/12 deel in januari 2003.
 
 De verantwoording en monitoring van de besteding vinden op overeenkomstige wijze plaats als in het schooljaar 2001-2002. Voor de wijze waarop de besteding dient te worden verantwoord, wordt daarom verwezen naar de publicatie ’[Verantwoording en monitoring van het schoolbudget in het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0013072)’, PO/PJ/2001-43137, gepubliceerd in Uitleg Gele katern nr. 30 van 12 december 2001.
-
-## Bijlage. bij PO/PJ/02-10701
-
-| WEC naar onderwijssoort | a (bedrag per leerling alle scholen) | a (bedrag per leerling alle scholen) | b ( 50% cumi) |
-| --- | --- | --- | --- |
-|   | so | vso | so en vso |
-| DOVN | 614,93 | 614,93 | 268,43 |
-| SH | 432,23 | 502,53 | 157,9 |
-| ESM | 420,51 | 0,00 | 157,9 |
-| LG | 521,19 | 591,49 | 268,43 |
-| LZ (cluster 3) | 420,51 | 490,82 | 157,9 |
-| ZMLK | 420,51 | 432,23 | 157,9 |
-| Cluster 4 (ZMOK, PI en LZ) | 432,23 | 490,82 | 157,9 |
-| MGA01 (DO + ZMLK/MLK) | 918,76 | 918,76 | 442,12 |
-| MGA02 (DO + LOM) | 918,76 | 918,76 | 442,12 |
-| MGA03 (DO + ZMLK) | 918,76 | 918,76 | 442,12 |
-| MGA04 (DO + LOM/ZMLK/MLK) | 918,76 | 918,76 | 442,12 |
-| MGA06 (DO + VSG) | 1.249,98 | 1.249,98 | 600,02 |
-| MGA07 (DO + LOM/MLK) | 918,76 | 918,76 | 442,12 |
-| MGB01 (SH/ESM + ZMLK/MLK) | 579,78 | 591,49 | 268,43 |
-| MGB02 (SH/ESM + MLK) | 579,78 | 591,49 | 268,43 |
-| MGB03 (SH/ESM + MLK/LOM) | 579,78 | 591,49 | 268,43 |
-| MGB05 (SH + LOM/MLK) | 579,78 | 591,49 | 268,43 |
-| MGB06 (SH/ESM + LOM) | 579,78 | 591,49 | 268,43 |
-| MGF01 (LG + ZMLK/MLK) | 668,73 | 680,44 | 378,96 |
-| MGF02 (LG + MLK) | 668,73 | 680,44 | 378,96 |
-| MGF03 (LG + ZMLK) | 668,73 | 680,44 | 378,96 |
-| MGF04 (LG + SH/ESM) | 668,73 | 680,44 | 378,96 |
-| MGH01 (LZ + ZMLK/MLK) | 568,06 | 568,06 | 268,43 |
-| MGH02 (LZ + LG + ESM + LOM/ZMLK/MLK) | 568,06 | 568,06 | 268,43 |
-| MGF05 (LG + DO/SH/VSG + ZMLK/MLK) | 668,73 | 680,44 | 378,96 |
-| MGJ01 (ZMLK + LG) | 668,73 | 680,44 | 378,96 |
-| MGF07 (LG + DO/SH/ESM + ZMLK/MLK) | 668,73 | 680,44 | 378,96 |
-| VGK instellingen | 456,69 | 456,69 | 221,06 |

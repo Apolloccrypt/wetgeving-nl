@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 4 september 2002, houdende de toekenning van standaarden aan het Korps Veldartillerie en het Korps Rijdende Artillerie en een vaandel aan het Korps Luchtdoelartillerie"
+citeertitel: "Besluit toekenning standaarden aan het Korps Veldartillerie en het Korps Rijdende Artillerie en een vaandel aan het Korps Luchtdoelartillerie"
 identifier: "BWBR0014000"
-country: "nl"
-rank: "kb"
-publication_date: "2002-09-20"
-last_updated: "2002-09-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014000"
+categorie: "Overig"
 soort: "KB"
-stam_id: "3108343"
-version_id: "4805812"
-internal_id: "C4828531"
-label_id: "3072584"
-dtd_version: "2.0"
-original_entry_into_force: "2002-09-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014000/2002-09-20/0"
-intitule_bron: "Stb.2002-476"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-09-04"
-intitule_published: "2002-09-19"
-intitule_in_force: "2002-09-19"
-intitule_status: "goed"
-original_publication: "Stb.2002-476"
-original_signed_date: "2002-09-04"
-original_published_date: "2002-09-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-476"
-entry_into_force_date: "2002-09-20"
-jci_1_3: "jci1.3:c:BWBR0014000&z=2002-09-20&g=2002-09-20"
-jci_1_0: "1.0:c:BWBR0014000&g=2002-09-20"
-citeertitel_status: "officieel"
-short_title: "Besluit toekenning standaarden aan het Korps Veldartillerie en het Korps Rijdende Artillerie en een vaandel aan het Korps Luchtdoelartillerie"
-signed_date: "2002-09-04"
-entry_into_force: "2002-09-20"
+publicatiedatum: 2002-09-20
+laatste_update: 2002-09-20
+status: geldig
+toestand: 2002-09-20
+bron: "https://wetten.overheid.nl/BWBR0014000"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 4 september 2002, houdende de toekenning van standaarden aan het Korps Veldartillerie en het Korps Rijdende Artillerie en een vaandel aan het Korps Luchtdoelartillerie
-
-Op de voordracht van Onze Minister van Defensie van 28 augustus 2002, nr. C2002/247 2002002920 directie juridische zaken, afdeling wet- en regelgeving;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -52,63 +26,63 @@ c. Het Korps Luchtdoelartillerie van de Koninklijke landmacht voert een vaandel,
 
 De voorzijde van het standaarddoek van het Korps Veldartillerie is een vierkant doek van oranje zijde, omzoomd met gouden franje. De lengte en de breedte van het standaarddoek zijn vijftig centimeter.
 
-Op het doek is in goud geborduurd een gestileerde gekroonde**B**, de kroon in de kleuren van het Koninklijk wapen. Onder de **B** is in goud geborduurd:
+Op het doek is in goud geborduurd een gestileerde gekroonde*B*, de kroon in de kleuren van het Koninklijk wapen. Onder de *B* is in goud geborduurd:
 
-**KORPS**
+*KORPS*
 
-**VELDARTILLERIE**
+*VELDARTILLERIE*
 
 Voorts is in goud geborduurd in het eerste kwartier:
 
-**CITADEL VAN ANTWERPEN 1832**
+*CITADEL VAN ANTWERPEN 1832*
 
 In het tweede kwartier:
 
-**MILL 1940**
+*MILL 1940*
 
-Het geheel van de gekroonde **B**, de naam van het korps en de vermelding van de wapenfeiten, is omgeven door een doorlopende oranjetak.
+Het geheel van de gekroonde *B*, de naam van het korps en de vermelding van de wapenfeiten, is omgeven door een doorlopende oranjetak.
 
 ##### Artikel 3
 
 De voorzijde van het standaarddoek van het Korps Rijdende Artillerie is een vierkant doek van oranje zijde, omzoomd met gouden franje. De lengte en de breedte van het standaarddoek zijn vijftig centimeter.
 
-Op het doek is in goud geborduurd een gestileerde gekroonde**B**, de kroon in de kleuren van het Koninklijk wapen. Onder de **B** is in goud geborduurd:
+Op het doek is in goud geborduurd een gestileerde gekroonde*B*, de kroon in de kleuren van het Koninklijk wapen. Onder de *B* is in goud geborduurd:
 
-**KORPS**
+*KORPS*
 
-**RIJDENDE ARTILLERIE**
+*RIJDENDE ARTILLERIE*
 
 Voorts is in goud geborduurd in het eerste kwartier:
 
-**QUATRE-BRAS 1815**
+*QUATRE-BRAS 1815*
 
-**WATERLOO 1815**
+*WATERLOO 1815*
 
 In het tweede kwartier:
 
-**HASSELT 1831**
+*HASSELT 1831*
 
-**KERMPT 1831**
+*KERMPT 1831*
 
-**LEUVEN 1831**
+*LEUVEN 1831*
 
-Het geheel van de gekroonde **B**, de naam van het korps en de vermelding van de wapenfeiten, is omgeven door een doorlopende oranjetak.
+Het geheel van de gekroonde *B*, de naam van het korps en de vermelding van de wapenfeiten, is omgeven door een doorlopende oranjetak.
 
 ##### Artikel 4
 
 De voorzijde van het vaandeldoek van het Korps Luchtdoelartillerie is een vierkant doek van oranje zijde, omzoomd met gouden franje. De lengte en de breedte van het standaarddoek zijn zestig centimeter.
 
-Op het doek is in goud geborduurd een gestileerde gekroonde **B**, de kroon in de kleuren van het Koninklijk wapen. Onder de **B** is in goud geborduurd:
+Op het doek is in goud geborduurd een gestileerde gekroonde *B*, de kroon in de kleuren van het Koninklijk wapen. Onder de *B* is in goud geborduurd:
 
-**KORPS**
+*KORPS*
 
-**LUCHTDOELARTILLERIE**
+*LUCHTDOELARTILLERIE*
 
 Voorts is in goud geborduurd in het eerste kwartier:
 
-**VESTING HOLLAND 1940**
+*VESTING HOLLAND 1940*
 
-Het geheel van de gekroonde **B**, de naam van het korps en de vermelding van de wapenfeiten, is omgeven door een doorlopende oranjetak.
+Het geheel van de gekroonde *B*, de naam van het korps en de vermelding van de wapenfeiten, is omgeven door een doorlopende oranjetak.
 
 ##### Artikel 5
 
@@ -124,11 +98,11 @@ Op de achterzijden van de standaarddoeken, respectievelijk het vaandeldoek is in
 
 4. Op de lange zijden van het voetstuk zijn in een verzonken middenstuk de woorden:
 
-**KONINGIN EN VADERLAND**
+*KONINGIN EN VADERLAND*
 
 in hoog reliëf aangebracht, omgeven door een gesloten slang.
 
-5. Op de korte zijkanten is in een verzonken middenstuk een gekroonde gestileerde letter **B**in hoog reliëf aangebracht.
+5. Op de korte zijkanten is in een verzonken middenstuk een gekroonde gestileerde letter *B*in hoog reliëf aangebracht.
 
 6. Onder het voetstuk is een eikenkrans aangebracht die van het voetstuk is gescheiden door een ring. Midden door de krans is, in het verlengde van de vaandelstang, een zwart gemaakte metalen bus aangebracht.
 
@@ -147,5 +121,3 @@ Het vaandeldoek is met een broeking van oranje zijde om de standaardstokken resp
 ##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan Onze Adjudant-Generaal, tevens Chef van Ons militair Huis.

@@ -1,42 +1,17 @@
 ---
 title: "Uitvoeringsregeling BTW-compensatiefonds"
 identifier: "BWBR0014121"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014121"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4141343"
-version_id: "5894762"
-internal_id: "C6097591"
-label_id: "4120884"
-dtd_version: "2.0"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014121/2026-04-01/0"
-intitule_bron: "Stcrt.2002-211"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-10-16"
-intitule_published: "2002-11-01"
-intitule_in_force: "2002-11-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-211"
-original_signed_date: "2002-10-16"
-original_published_date: "2002-11-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-01-01"
-jci_1_3: "jci1.3:c:BWBR0014121&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0014121&g=2026-04-01"
-citeertitel_status: "officieel"
-signed_date: "2002-10-16"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2026-04-01
+status: geldig
+toestand: 2026-04-01
+bron: "https://wetten.overheid.nl/BWBR0014121"
+opgehaald: 2026-08-06
 ---
+
 # Uitvoeringsregeling BTW-compensatiefonds
-
-Gelet op de [artikelen 2, vierde, zesde, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=8) en [9, negende lid, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=9);
-
-Besluit:
 
 ##### Artikel 1. Uitkering en voorschotten
 
@@ -144,7 +119,7 @@ De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openb
 
 2. Met betrekking tot onroerende zaken en rechten waaraan deze zijn onderworpen wordt de bijdrage herzien in elk van de negen kalenderjaren, volgende op dat waarin het publiekrechtelijk lichaam of regionaal openbaar lichaam het goed is gaan gebruiken. De herziening geschiedt telkens voor een tiende gedeelte van de bijdrage op basis van de voor het kalenderjaar geldende gegevens bij de opgaaf over dat kalenderjaar.
 
-3. Met betrekking tot de in het eerste lid, onderdelen b en c, bedoelde roerende zaken en investeringsdiensten, wordt de bijdrage herzien in elk van de vier kalenderjaren, volgende op dat waarin het publiekrechtelijk lichaam of regionaal openbaar lichaam het goed of de investeringsdienst is gaan gebruiken. De herziening geschiedt telkens voor een vijfde gedeelte van de bijdrage op basis van de voor het kalenderjaar geldende gegevens bij de opgaaf over dat kalenderjaar.
+3. Met betrekking tot de in het eerste lid, onderdelen b en c, bedoelde roerende zaken en investeringsdiensten, wordt de bijdrage herzien in elk van de vier kalenderjaren, volgende op dat waarin het publiekrechtelijk lichaam of regionaal openbaar lichaam het goed of de investeringsdienst is gaan gebruiken. De herziening geschiedt telkens voor een vijfde gedeelte van de bijdrage op basis van de voor het kalenderjaar geldende gegevens bij de opgaaf over dat kalenderjaar.
 
 4. De herziening, bedoeld in het tweede en derde lid, blijft achterwege ingeval met betrekking tot het goed of het deel daarvan, waarvan het gebruik is gewijzigd aftrek van omzetbelasting heeft plaatsgevonden of had kunnen plaatsvinden en deze aftrek niet kan worden herzien.
 
@@ -152,11 +127,11 @@ De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openb
 
 ##### Artikel 9. Herziening bij levering
 
-1. Indien een goed als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=8&z=2026-04-01&g=2026-04-01), in het kalenderjaar van aanschaf, of ingebruikneming, dan wel binnen de in artikel 8, tweede lid, of derde lid voor zover het betreft de aldaar bedoelde investeringsdiensten, bedoelde herzieningsperiode, al dan niet als ondernemer wordt geleverd, wordt het publiekrechtelijk lichaam of regionaal openbaar lichaam geacht dat goed of de aan het goed verrichte investeringsdiensten, vanaf het tijdstip van levering tot aan het einde van de vorenbedoelde herzieningsperiode te gebruiken voor activiteiten waarvoor geen recht op compensatie bestaat.
+1. Indien een goed als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=8&z=2026-04-01&g=2026-04-01), in het kalenderjaar van aanschaf, of ingebruikneming, dan wel binnen de in artikel 8, tweede lid, of derde lid voor zover het betreft de aldaar bedoelde investeringsdiensten, bedoelde herzieningsperiode, al dan niet als ondernemer wordt geleverd, wordt het publiekrechtelijk lichaam of regionaal openbaar lichaam geacht dat goed of de aan het goed verrichte investeringsdiensten, vanaf het tijdstip van levering tot aan het einde van de vorenbedoelde herzieningsperiode te gebruiken voor activiteiten waarvoor geen recht op compensatie bestaat.
 
-2. Indien een goed als bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=8&z=2026-04-01&g=2026-04-01), in het kalenderjaar van aanschaf, dan wel van ingebruikneming, al dan niet als ondernemer wordt geleverd, wordt het publiekrechtelijk lichaam of regionaal openbaar lichaam geacht dat goed vanaf het tijdstip van levering tot aan het einde van dat jaar te gebruiken voor activiteiten waarvoor geen recht op compensatie bestaat.
+2. Indien een goed als bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=8&z=2026-04-01&g=2026-04-01), in het kalenderjaar van aanschaf, dan wel van ingebruikneming, al dan niet als ondernemer wordt geleverd, wordt het publiekrechtelijk lichaam of regionaal openbaar lichaam geacht dat goed vanaf het tijdstip van levering tot aan het einde van dat jaar te gebruiken voor activiteiten waarvoor geen recht op compensatie bestaat.
 
-3. De herziening bedoeld in het eerste en tweede lid blijft achterwege als het goed wordt overgedragen aan een lichaam als bedoeld in [artikel 1, eerste lid, letters c en d, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=1) en dat lichaam het goed blijft gebruiken voor handelingen waarvoor recht op compensatie bestaat. In dat geval wordt het overnemende lichaam geacht in de plaats te treden van het overdragende lichaam wat betreft de herziening van het recht op bijdrage voor dat goed.
+3. De herziening bedoeld in het eerste en tweede lid blijft achterwege als het goed wordt overgedragen aan een lichaam als bedoeld in [artikel 1, eerste lid, letters c en d, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=1) en dat lichaam het goed blijft gebruiken voor handelingen waarvoor recht op compensatie bestaat. In dat geval wordt het overnemende lichaam geacht in de plaats te treden van het overdragende lichaam wat betreft de herziening van het recht op bijdrage voor dat goed.
 
 4. De herziening geschiedt in één keer bij de opgaaf over het kalenderjaar waarin de levering plaatsvindt.
 
@@ -173,5 +148,3 @@ De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openb
 ##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 januari 2003. Zij kan worden aangehaald als Uitvoeringsregeling BTW-compensatiefonds.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

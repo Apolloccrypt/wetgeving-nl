@@ -1,43 +1,24 @@
 ---
 title: "Wijziging Regeling gemeentelijke basisadministratie persoonsgegevens"
 identifier: "BWBR0012787"
-country: "nl"
-rank: "circulaire"
-publication_date: "2001-08-30"
-last_updated: "2001-08-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012787"
+categorie: "Bestuursrecht"
 soort: "circulaire"
-stam_id: "6389363"
-version_id: "11049832"
-internal_id: "C14952581"
-label_id: "6378184"
-original_entry_into_force: "2001-08-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012787/2001-08-30/0"
-intitule_bron: "Stcrt.2001-167"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-08-27"
-intitule_published: "2001-08-30"
-intitule_in_force: "2001-08-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-167"
-original_signed_date: "2001-08-27"
-original_published_date: "2001-08-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-167-p8-SC30709"
-entry_into_force_date: "2001-08-30"
-jci_1_3: "jci1.3:c:BWBR0012787&z=2001-08-30&g=2001-08-30"
-jci_1_0: "1.0:c:BWBR0012787&g=2001-08-30"
-citeertitel_status: "redactioneel"
-signed_date: "2001-08-27"
-entry_into_force: "2001-08-30"
+publicatiedatum: 2001-08-30
+laatste_update: 2001-08-30
+status: geldig
+toestand: 2001-08-30
+bron: "https://wetten.overheid.nl/BWBR0012787"
+opgehaald: 2026-08-06
 ---
+
 # Wijziging Regeling gemeentelijke basisadministratie persoonsgegevens
 
-Aan: Het college van Burgemeester en Wethouders
+Bijgaand zend ik u een afschrift van de ministeriële regeling van 24 augustus 2001 (BPR2001/U82577) tot wijziging van de Regeling GBA. De aanpassing van deze regeling heeft betrekking op een drietal onderwerpen.
 
-i.a.a.: Hoofd Burgerzaken
+- 1. Vanaf 1 september a.s. treedt de wetgeving in verband met de Europese privacyrichtlijn in werking. Op dat moment worden de daarop betrekking hebbende bepalingen van de Wet GBA en het Besluit GBA van kracht. Ook de Regeling GBA is als gevolg hiervan aangepast. Het gaat daarbij overigens slechts om redactionele wijzigingen.
 
-Bijgaand zend ik u een afschrift van de ministeriële regeling van 24 augustus 2001 (BPR2001/U82577) tot wijziging van de [Regeling GBA](onbekend). De aanpassing van deze regeling heeft betrekking op een drietal onderwerpen.
+- 2. Voorts zal het met ingang van 1 september a.s. technisch mogelijk zijn om op geautomatiseerde wijze persoonsgegevens uit te wisselen tussen de GBA en de basisadministraties in de Nederlandse Antillen en Aruba. In de Regeling GBA is in verband hiermee een bepaling opgenomen inzake deze wijze van verstrekking van gegevens uit het Vestigingsregister aan de bovenbedoelde basisadministraties in de Nederlandse Antillen en Aruba.
+
+- 3. Ten gevolge van de invoering van de euro dienen per 1 januari 2002 de in de Regeling GBA voorkomende tarieven in guldens te zijn vervangen door euro's. De wijzigingen zijn reeds nu in de tekst van de regeling aangebracht en zullen ingevolge de in de regeling opgenomen overgangsbepaling met ingang van 1 januari a.s. gaan gelden.
 
 De wijziging van de Regeling GBA treedt met ingang van 1 september a.s. in werking en zal worden gepubliceerd in de Staatscourant.

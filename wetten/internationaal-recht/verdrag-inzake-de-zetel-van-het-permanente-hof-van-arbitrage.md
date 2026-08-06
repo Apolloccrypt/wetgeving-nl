@@ -8,7 +8,7 @@ laatste_update: 2000-08-09
 status: geldig
 toestand: 2000-08-09
 bron: "https://wetten.overheid.nl/BWBV0001409"
-opgehaald: 2026-08-05
+opgehaald: 2026-08-06
 ---
 
 # Verdrag inzake de zetel van het Permanente Hof van Arbitrage

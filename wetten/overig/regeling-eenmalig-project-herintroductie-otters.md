@@ -1,46 +1,73 @@
 ---
 title: "Regeling eenmalig project herintroductie otters"
 identifier: "BWBR0013851"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-07-07"
-last_updated: "2002-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013851"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4115773"
-version_id: "5869352"
-internal_id: "C6072181"
-label_id: "4095464"
-dtd_version: "2.0"
-original_entry_into_force: "2002-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013851/2002-07-07/0"
-intitule_bron: "Stcrt.2002-126"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-07-04"
-intitule_published: "2002-07-05"
-intitule_in_force: "2002-07-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-126"
-original_signed_date: "2002-07-04"
-original_published_date: "2002-07-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-07-07"
-jci_1_3: "jci1.3:c:BWBR0013851&z=2002-07-07&g=2002-07-07"
-jci_1_0: "1.0:c:BWBR0013851&g=2002-07-07"
-citeertitel_status: "officieel"
-signed_date: "2002-07-04"
-entry_into_force: "2002-07-07"
+publicatiedatum: 2002-07-07
+laatste_update: 2002-07-07
+status: geldig
+toestand: 2002-07-07
+bron: "https://wetten.overheid.nl/BWBR0013851"
+opgehaald: 2026-08-06
 ---
+
 # Regeling eenmalig project herintroductie otters
-
-Gelet op de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=6), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=11) en [12 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=12);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+stopgrid
+
+plastic of metalen inzetframe, met een maaswijdte van maximaal 85 mm, geplaatst in de opening van een fuik;
+
+b.
+
+keerwant
+
+nylon net, met een maaswijdte van maximaal 75 mm en niet verschuifbare mazen, geplaatst in de opening van een fuik;
+
+c.
+
+project
+
+eenmalig project herintroductie otter in de periode 7 juli 2002 tot en met 31 december 2004;
+
+d.
+
+minister
+
+Minister van Landbouw, Natuurbeheer en Visserij;
+
+e.
+
+vissersbond
+
+Algemene Bond voor Binnenvissers in Noord West Overijssel of de Friese Bond van Binnenvissers;
+
+f.
+
+visser
+
+degene die op 1 juni 2002 rechthebbende is op een visrecht van een water dat is gelegen in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=2&z=2002-07-07&g=2002-07-07) omschreven gebied of die op 1 juni 2002 is voorzien van een schriftelijke vergunning van een rechthebbende op een visrecht in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=2&z=2002-07-07&g=2002-07-07) omschreven gebied;
+
+g.
+
+beroepsvisser
+
+visser die de leeftijd van 65 jaar niet heeft bereikt en die
+
+- 1. op 1 juni 2002 lid was van een vissersbond of
+
+- 2. in de jaren 1997 tot en met 2001 ten minste twee jaar en gedurende de looptijd van het project een inkomen uit de visserij heeft behaald en haalt van ten minste 50% van het minimuminkomen voor zelfstandigen, bedoeld in de Wet inkomensvoorziening oudere en gedeeltelijke arbeidsongeschikte gewezen zelfstandigen bevestigd door jaarrekeningen en daarop gebaseerde belastingaanslagen;
+
+h.
+
+directie Oost
+
+directie Oost van het Ministerie van Landbouw, Natuurbeheer en Visserij, Postbus 554, 7400 AN Deventer.
 
 ##### Artikel 2
 
@@ -151,5 +178,3 @@ Deze regeling wordt aangehaald als: Regeling eenmalig project herintroductie ott
 ##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

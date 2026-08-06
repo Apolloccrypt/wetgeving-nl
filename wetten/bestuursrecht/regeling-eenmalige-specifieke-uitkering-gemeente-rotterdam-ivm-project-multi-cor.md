@@ -1,46 +1,45 @@
 ---
 title: "Regeling eenmalige specifieke uitkering gemeente Rotterdam i.v.m. Project Multi-core Pijpleidingnetwerk"
 identifier: "BWBR0013074"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-12-08"
-last_updated: "2001-12-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013074"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "4115973"
-version_id: "5869522"
-internal_id: "C6072351"
-label_id: "4095634"
-dtd_version: "2.0"
-original_entry_into_force: "2001-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013074/2001-12-08/0"
-intitule_bron: "Stcrt.2001-237"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-12-04"
-intitule_published: "2001-12-06"
-intitule_in_force: "2001-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-237"
-original_signed_date: "2001-12-04"
-original_published_date: "2001-12-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-12-08"
-jci_1_3: "jci1.3:c:BWBR0013074&z=2001-12-08&g=2001-12-08"
-jci_1_0: "1.0:c:BWBR0013074&g=2001-12-08"
-citeertitel_status: "officieel"
-signed_date: "2001-12-04"
-entry_into_force: "2001-12-08"
+publicatiedatum: 2001-12-08
+laatste_update: 2001-12-08
+status: geldig
+toestand: 2001-12-08
+bron: "https://wetten.overheid.nl/BWBR0013074"
+opgehaald: 2026-08-06
 ---
+
 # Regeling eenmalige specifieke uitkering gemeente Rotterdam i.v.m. Project Multi-core Pijpleidingnetwerk
-
-Gelet op [artikel 17, vijfde lid, Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17),
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+minister:
+
+Minister van Verkeer en Waterstaat;
+
+b.
+
+gemeente:
+
+gemeente Rotterdam;
+
+c.
+
+project:
+
+Project Multi-core Pijpleidingnetwerk ter realisatie van een ondergronds pijpleidingensysteem in de regio Rotterdam-Rijnmond voor het ondergronds vervoeren van vloeibare en gasvormige produkten en grondstoffen;
+
+d.
+
+uitkering:
+
+uitkering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013074&artikel=2&z=2001-12-08&g=2001-12-08).
 
 ##### Artikel 2
 
@@ -94,7 +93,7 @@ Onverschuldigd betaalde uitkeringsbedragen en voorschotten kunnen worden terugge
 
 ##### Artikel 8
 
-Wijzigt deze regeling.
+*Wijzigt deze regeling.*
 
 ##### Artikel 9
 
@@ -103,5 +102,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling eenmalige specifieke uitkering gemeente Rotterdam in verband met het Project Multi-core Pijpleidingnetwerk.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

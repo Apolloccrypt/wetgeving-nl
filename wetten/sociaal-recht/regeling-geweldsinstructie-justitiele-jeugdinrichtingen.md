@@ -1,44 +1,17 @@
 ---
 title: "Regeling geweldsinstructie justitiële jeugdinrichtingen"
 identifier: "BWBR0012745"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-02-05"
-last_updated: "2026-02-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012745"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3573883"
-version_id: "5357132"
-internal_id: "C5550221"
-label_id: "3554014"
-dtd_version: "2.0"
-original_entry_into_force: "2001-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012745/2026-02-05/0"
-intitule_bron: "Stcrt.2001-156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-08-14"
-intitule_published: "2001-08-15"
-intitule_in_force: "2001-08-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-156"
-original_signed_date: "2001-08-14"
-original_published_date: "2001-08-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2001-09-01"
-jci_1_3: "jci1.3:c:BWBR0012745&z=2026-02-05&g=2026-02-05"
-jci_1_0: "1.0:c:BWBR0012745&g=2026-02-05"
-citeertitel_status: "officieel"
-signed_date: "2001-08-14"
-entry_into_force: "2001-09-01"
+publicatiedatum: 2001-09-01
+laatste_update: 2026-02-05
+status: geldig
+toestand: 2026-02-05
+bron: "https://wetten.overheid.nl/BWBR0012745"
+opgehaald: 2026-08-06
 ---
+
 # Regeling geweldsinstructie justitiële jeugdinrichtingen
-
-Gelet op [artikel 40, vierde lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=40);
-
-Gezien het advies van het College van advies voor de justitiële kinderbescherming van 30 mei 2000, kenmerk 5032390/C/TH/JMO;
-
-Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -46,39 +19,39 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756);
+- a. *wet:* de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756);
 
-- b. **eenheid:** een eenheid bij de Landelijke Bijzondere Bijstandseenheid van het onderdeel Landelijke Dienst Specialistische Taken van de Dienst Vervoer en Ondersteuning van de Dienst Justitiële Inrichtingen;
+- b. *eenheid:* een eenheid bij de Landelijke Bijzondere Bijstandseenheid van het onderdeel Landelijke Dienst Specialistische Taken van de Dienst Vervoer en Ondersteuning van de Dienst Justitiële Inrichtingen;
 
-- c. **meerdere:** de medewerker van de eenheid die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel geeft over de taakuitvoering;
+- c. *meerdere:* de medewerker van de eenheid die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel geeft over de taakuitvoering;
 
-- d. **geweld:** elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
+- d. *geweld:* elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
 
-- e. **aanwenden van geweld:** het gebruiken van geweld of het dreigen met geweld, waaronder niet wordt begrepen het uit voorzorg ter hand nemen van een vuurwapen;
+- e. *aanwenden van geweld:* het gebruiken van geweld of het dreigen met geweld, waaronder niet wordt begrepen het uit voorzorg ter hand nemen van een vuurwapen;
 
-- f. **vrijheidsbeperkende middelen:**
+- f. *vrijheidsbeperkende middelen:*
 
-- 1°. een broekstok;
+   - 1°. een broekstok;
 
-- 2°. middelen als bedoeld in [artikel 1, onder b, van de Regeling toepassing mechanische middelen jeugdigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012743&artikel=1).
+   - 2°. middelen als bedoeld in [artikel 1, onder b, van de Regeling toepassing mechanische middelen jeugdigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012743&artikel=1).
 
-- g. **geweldsmiddel:**
+- g. *geweldsmiddel:*
 
-- 1°. het semi-automatische schoudervuurwapen SIG SAUER MCX RATTLER, kaliber 7.62 x 35 millimeter;
+   - 1°. het semi-automatische schoudervuurwapen SIG SAUER MCX RATTLER, kaliber 7.62 x 35 millimeter;
 
-- 2°. de semi-automatische uitvoering van de FN SCAR, kaliber 7.62 x 35 millimeter;
+   - 2°. de semi-automatische uitvoering van de FN SCAR, kaliber 7.62 x 35 millimeter;
 
-- 3°. een semi-automatisch pistool van het merk Walther P99Q, kaliber 9 millimeter maal 19 millimeter;
+   - 3°. een semi-automatisch pistool van het merk Walther P99Q, kaliber 9 millimeter maal 19 millimeter;
 
-- 4°. een korte of lange wapenstok van een door de Minister van Justitie goedgekeurd merk en type;
+   - 4°. een korte of lange wapenstok van een door de Minister van Justitie goedgekeurd merk en type;
 
-- 5°. CS-traangasgranaten of traangasverspreidende middelen van een door de Minister van Justitie goedgekeurd merk en type.
+   - 5°. CS-traangasgranaten of traangasverspreidende middelen van een door de Minister van Justitie goedgekeurd merk en type.
 
-- 6°. pepperspray van een door de Minister van Justitie goedgekeurd merk en type.
+   - 6°. pepperspray van een door de Minister van Justitie goedgekeurd merk en type.
 
-- h. **het gebruik van een vuurwapen:** het trekken, het uit voorzorg ter hand nemen, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
+- h. *het gebruik van een vuurwapen:* het trekken, het uit voorzorg ter hand nemen, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
 
-- i. **vuurwapen:** een geweldsmiddel als bedoeld in artikel 1, onderdeel g, onder 1, 2 en 3.
+- i. *vuurwapen:* een geweldsmiddel als bedoeld in artikel 1, onderdeel g, onder 1, 2 en 3.
 
 #### Paragraaf 2. Aanwenden geweldsmiddelen en vrijheidsbeperkende middelen door personeelsleden of medewerkers
 
@@ -144,6 +117,24 @@ In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&par
 
 - b. anders dan in gesloten ruimten ter verspreiding van menigten van jeugdigen die een ernstige en onmiddellijke bedreiging vormen voor de handhaving van de orde of de veiligheid in de inrichting.
 
+##### Artikel 8a
+
+1. Het gebruik van pepperspray is slechts geoorloofd voor zover dit noodzakelijk is ter aanhouding van een jeugdige indien redelijkerwijs mag worden aangenomen dat hij ernstig geweld tegen personen zal gebruiken.
+
+2. Pepperspray wordt tegen een jeugdige per geval ten hoogste twee maal voor ten hoogste enkele seconden gebruikt op afstand van tenminste een meter.
+
+3. Pepperspray mag niet worden gebruikt tegen:
+
+- a. jeugdige vrouwen die zichtbaar zwanger zijn;
+
+- b. jeugdigen voor wie dit gebruik als gevolg van zichtbare ademhalings- of andere ernstige gezondheidsstoornis onevenredig schadelijk kan zijn;
+
+- c. groepen personen.
+
+4. Pepperspray mag niet worden gebruikt in de nabijheid van baby’s.
+
+5. De ambtenaar of medewerker die pepperspray heeft gebruikt is verantwoordelijk voor het verlenen van nazorg.
+
 #### Paragraaf 4. Het gebruik van een vuurwapen
 
 ##### Artikel 9
@@ -155,6 +146,10 @@ Het gebruik van een semi-automatisch pistool is slechts geoorloofd:
 - b. tot het beteugelen van onrust, indien er sprake is van een optreden in gesloten verband onder leiding van een meerdere;
 
 - c. ter afwending van direct gevaar voor het leven van personen of het ontstaan van zwaar lichamelijk letsel.
+
+##### Artikel 9a
+
+Het gebruik van een semi-automatisch schoudervuurwapen is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
 ##### Artikel 10
 
@@ -184,7 +179,7 @@ Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.over
 
 5. De directeur van de inrichting stelt de commissie van toezicht in kennis van de melding, bedoeld in het derde lid.
 
-#### Paragraaf 5. Meldplicht
+#### Paragraaf 6. Slotbepalingen
 
 ##### Artikel 13
 
@@ -193,39 +188,3 @@ Deze regeling treedt in werking op 1 september 2001.
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling geweldsinstructie justitiële jeugdinrichtingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a
-
-1. Het gebruik van pepperspray is slechts geoorloofd voor zover dit noodzakelijk is ter aanhouding van een jeugdige indien redelijkerwijs mag worden aangenomen dat hij ernstig geweld tegen personen zal gebruiken.
-
-2. Pepperspray wordt tegen een jeugdige per geval ten hoogste twee maal voor ten hoogste enkele seconden gebruikt op afstand van tenminste een meter.
-
-3. Pepperspray mag niet worden gebruikt tegen:
-
-- a. jeugdige vrouwen die zichtbaar zwanger zijn;
-
-- b. jeugdigen voor wie dit gebruik als gevolg van zichtbare ademhalings- of andere ernstige gezondheidsstoornis onevenredig schadelijk kan zijn;
-
-- c. groepen personen.
-
-4. Pepperspray mag niet worden gebruikt in de nabijheid van baby’s.
-
-5. De ambtenaar of medewerker die pepperspray heeft gebruikt is verantwoordelijk voor het verlenen van nazorg.
-
-#### Paragraaf 4. Het gebruik van een vuurwapen
-
-#### Paragraaf 5. Meldplicht
-
-#### Paragraaf 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a
-
-Het gebruik van een semi-automatisch schoudervuurwapen is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
-
-#### Paragraaf 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

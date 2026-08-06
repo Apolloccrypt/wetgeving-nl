@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2003 (Verordening PT vakheffing bloemkwekerijproducten 2003)"
+citeertitel: "Verordening PT vakheffing bloemkwekerijproducten 2003"
 identifier: "BWBR0013837"
-country: "nl"
-rank: "pbo"
-publication_date: "2005-04-24"
-last_updated: "2005-04-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013837"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "7010903"
-version_id: "11888392"
-internal_id: "C15982961"
-label_id: "6999134"
-original_entry_into_force: "2005-04-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013837/2005-04-24/0"
-intitule_bron: "Vbbo.2005-19"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-07-03"
-intitule_published: "2005-04-22"
-intitule_in_force: "2005-04-22"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-19"
-original_signed_date: "2002-07-03"
-original_published_date: "2005-04-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-04-24"
-jci_1_3: "jci1.3:c:BWBR0013837&z=2005-04-24&g=2005-04-24"
-jci_1_0: "1.0:c:BWBR0013837&g=2005-04-24"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing bloemkwekerijproducten 2003"
-signed_date: "2002-07-03"
-entry_into_force: "2005-04-24"
+publicatiedatum: 2005-04-24
+laatste_update: 2005-04-24
+status: geldig
+toestand: 2005-04-24
+bron: "https://wetten.overheid.nl/BWBR0013837"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2003 (Verordening PT vakheffing bloemkwekerijproducten 2003)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de artikelen 14, 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
-
-gehoord de sectorcommissie Bloemkwekerijproducten, d.d. 22 mei 2002;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -54,7 +26,7 @@ BESLUIT:
 | --- | --- |
 | b. het bestuur: | het bestuur van het productschap; |
 | c. de voorzitter: | de voorzitter van het productschap; |
-| d. de bloemkwekerijproducten: | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: |
+| d. de bloemkwekerijproducten: | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: 1. winterharde houtgewassen in hun geheel voorzover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd; 2. voor zover in groene toestand de Japanse azalea's, alsmede variëteiten en hybriden daarvan; 3. dahliastekken, begonia-en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen, en 4. aquariumplanten en niet-levende bloemkwekerijproducten; |
 | e. het uitgangsmateriaal: | planten en plantendelen van bloemkwekerijproducten welke bestemd zijn voor de teelt van gebruiksklare (voor de consument geschikte) bloemkwekerijproducten, zoals stekken, zaaikisten en weefselkweekplanten |
 | f. het kweken van bloemkwekerijproducten of uitgangsmateriaal: | 1. het ter verkrijging van een oogst brengen, hebben of houden in een al dan niet overdekt groeimedium van bloemkwekerijproducten of uitgangsmateriaal; 2. het ter bevordering van het verkrijgen van een oogst verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van bloemkwekerijproducten of uitgangsmateriaal, of 3. het oogsten van bloemkwekerijproducten of uitgangsmateriaal; |
 | g. de kweker: | de ondernemer die bloemkwekerijproducten of uitgangsmateriaal kweekt; |
@@ -195,5 +167,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 17
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing bloemkwekerijproducten 2003.
-
-Deze verordening en de daarbij behorende toelichting worden geplaatst in het Verordeningenblad Bedrijfsorganisatie.

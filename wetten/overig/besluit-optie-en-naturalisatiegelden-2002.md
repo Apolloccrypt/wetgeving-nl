@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 17 juni 2002 tot uitvoering van artikel 13 van de Rijkswet op het Nederlanderschap, zoals gewijzigd bij Rijkswet van 21 december 2000 (Stb. 2000, 618) (Besluit optie- en naturalisatiegelden 2002)"
+citeertitel: "Besluit optie- en naturalisatiegelden 2002"
 identifier: "BWBR0013782"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0013782"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijksKB"
-stam_id: "2855303"
-version_id: "4393142"
-internal_id: "C5340481"
-label_id: "2803624"
-dtd_version: "2.0"
-original_entry_into_force: "2003-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0013782/2011-01-01/0"
-intitule_bron: "Stb.2002-325"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-06-17"
-intitule_published: "2002-06-27"
-intitule_in_force: "2003-03-25"
-intitule_status: "goed"
-original_publication: "Stb.2002-325"
-original_signed_date: "2002-06-17"
-original_published_date: "2002-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-325"
-entry_into_force_date: "2003-04-01"
-jci_1_3: "jci1.3:c:BWBR0013782&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0013782&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit optie- en naturalisatiegelden 2002"
-signed_date: "2002-06-17"
-entry_into_force: "2003-04-01"
+publicatiedatum: 2003-04-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0013782"
+opgehaald: 2026-08-06
 ---
+
 # Besluit van 17 juni 2002 tot uitvoering van artikel 13 van de Rijkswet op het Nederlanderschap, zoals gewijzigd bij Rijkswet van 21 december 2000 (Stb. 2000, 618) (Besluit optie- en naturalisatiegelden 2002)
-
-Op de voordracht van de Staatssecretaris van Justitie van 31 januari 2002, Directie Wetgeving, Nr. 5140648/01/6;
-
-Gelet op [artikel 13 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=13);
-
-De Raad van State van het Koninkrijk gehoord (advies van 7 maart 2002, nr. W03.02.0051/I/K);
-
-Gezien het nader rapport van de Minister van Justitie van 10 juni 2002, Directie Wetgeving, Nr. 5160434/02/6;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -153,5 +119,3 @@ Dit besluit wordt aangehaald als: Besluit optie- en naturalisatiegelden 2002.
 ##### Artikel 12
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor elk van de landen van het Koninkrijk verschillend kan worden vastgesteld.
-
-Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.

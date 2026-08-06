@@ -1,44 +1,17 @@
 ---
 title: "Intrekking beleidsregels voor uitgifte locaties voor benzinestations langs rijkswegen"
 identifier: "BWBR0014185"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2002-11-13"
-last_updated: "2002-11-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014185"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "4146533"
-version_id: "5899892"
-internal_id: "C6102721"
-label_id: "4126014"
-dtd_version: "2.0"
-original_entry_into_force: "2002-11-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014185/2002-11-13/0"
-intitule_bron: "Stcrt.2002-217"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-11-06"
-intitule_published: "2002-11-11"
-intitule_in_force: "2002-11-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-217"
-original_signed_date: "2002-11-06"
-original_published_date: "2002-11-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2002-11-13"
-jci_1_3: "jci1.3:c:BWBR0014185&z=2002-11-13&g=2002-11-13"
-jci_1_0: "1.0:c:BWBR0014185&g=2002-11-13"
-citeertitel_status: "officieel"
-signed_date: "2002-11-06"
-entry_into_force: "2002-11-13"
+publicatiedatum: 2002-11-13
+laatste_update: 2002-11-13
+status: geldig
+toestand: 2002-11-13
+bron: "https://wetten.overheid.nl/BWBR0014185"
+opgehaald: 2026-08-06
 ---
+
 # Intrekking beleidsregels voor uitgifte locaties voor benzinestations langs rijkswegen
-
-Handelende in overeenstemming met de Minister van Verkeer en Waterstaat;
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -73,5 +46,3 @@ Onverminderd de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014185&ar
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
