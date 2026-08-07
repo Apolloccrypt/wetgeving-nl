@@ -1,36 +1,16 @@
 ---
 title: "Uitkeringen Ziektewet (ZW) en de Wet arbeid en zorg (WAZ) maandelijks opgeven"
 identifier: "BWBR0014757"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-03-12"
-last_updated: "2003-03-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014757"
+categorie: "Arbeidsrecht"
 soort: "beleidsregel"
-stam_id: "6487553"
-version_id: "11166812"
-internal_id: "C15090461"
-label_id: "6476134"
-original_entry_into_force: "2003-03-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014757/2003-03-12/0"
-intitule_bron: "Uitleg.2003-6"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-02-26"
-intitule_published: "2003-03-12"
-intitule_in_force: "2003-03-12"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-6"
-original_signed_date: "2003-02-26"
-original_published_date: "2003-03-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-03-12"
-jci_1_3: "jci1.3:c:BWBR0014757&z=2003-03-12&g=2003-03-12"
-jci_1_0: "1.0:c:BWBR0014757&g=2003-03-12"
-citeertitel_status: "redactioneel"
-signed_date: "2003-02-26"
-entry_into_force: "2003-03-12"
+publicatiedatum: 2003-03-12
+laatste_update: 2003-03-12
+status: geldig
+toestand: 2003-03-12
+bron: "https://wetten.overheid.nl/BWBR0014757"
+opgehaald: 2026-08-07
 ---
+
 # Uitkeringen Ziektewet (ZW) en de Wet arbeid en zorg (WAZ) maandelijks opgeven
 
 ### Inleiding
@@ -39,7 +19,23 @@ De uitkeringen vanuit de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 Het gaat om uitkeringen voor personeel dat wordt gedeclareerd bij het Rijk voor onder meer:
 
+- zwangerschapsverlof/bevallingsverlof;
+
+- herintredende arbeidsgehandicapten;
+
+- werknemers die niet kunnen werken omdat ze een orgaan afstaan;
+
+- stagiaires en oproep- of invalkrachten die ziek worden;
+
+- werknemers die ziek zijn bij ontslag;
+
+- werknemers van wie het dienstverband is beëindigd en die hierna ziek worden.
+
 De Waz-uitkeringen zijn op 8 augustus 2002 uitgebreid met twee verlofsituaties:
+
+- adoptie- en pleegzorgverlof;
+
+- palliatief verlof.
 
 Belanghebbenden die in een bovengenoemde situatie verkeren, komen in aanmerking voor een ZW- of Waz-uitkering. Zij moeten hiervoor een verzoek indienen bij UWV-USZO-Heerlen. Deze instantie zorgt voor de uitvoering van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de uitbetaling van de uitkeringen. De lasten en de uitvoering van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) worden gefinancierd uit het Uitvoeringsfonds voor de overheid door middel van de zogenoemde UFO-premie. De werkgever betaalt deze premie aan het fonds en declareert die kosten bij het Ministerie van OCenW, als het om personeel gaat dat door Cfi wordt bekostigd.
 

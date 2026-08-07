@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 2 juni 2003, houdende regels inzake bepaald vervoer van gevaarlijke stoffen door de lucht met militaire luchtvaartuigen (Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen)"
+citeertitel: "Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen"
 identifier: "BWBR0015156"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-08-19"
-last_updated: "2021-08-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015156"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "4711933"
-version_id: "6528472"
-internal_id: "C6985711"
-label_id: "4690214"
-dtd_version: "2.0"
-original_entry_into_force: "2003-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015156/2021-08-19/0"
-intitule_bron: "Stb.2003-242"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-06-02"
-intitule_published: "2003-06-19"
-intitule_in_force: "2003-06-19"
-intitule_status: "goed"
-original_publication: "Stb.2003-242"
-original_signed_date: "2003-06-02"
-original_published_date: "2003-06-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2003-242"
-entry_into_force_date: "2003-06-20"
-jci_1_3: "jci1.3:c:BWBR0015156&z=2021-08-19&g=2021-08-19"
-jci_1_0: "1.0:c:BWBR0015156&g=2021-08-19"
-citeertitel_status: "officieel"
-short_title: "Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen"
-signed_date: "2003-06-02"
-entry_into_force: "2003-06-20"
+publicatiedatum: 2003-06-20
+laatste_update: 2021-08-19
+status: geldig
+toestand: 2021-08-19
+bron: "https://wetten.overheid.nl/BWBR0015156"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 2 juni 2003, houdende regels inzake bepaald vervoer van gevaarlijke stoffen door de lucht met militaire luchtvaartuigen (Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen)
-
-Op de voordracht van Onze Minister van Defensie van 9 januari 2003, nr. CWW2002/089 2002004446 van de directie juridische zaken;
-
-Gelet op de [artikelen 10.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.6), en [10.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.7);
-
-De Raad van State gehoord (advies van 27 februari 2003, nr. W07.03.0017/II);
-
-Gezien het nader rapport van Onze Minister van Defensie van 26 mei 2003, nr. CWW2002/089 2003001778, directie juridische zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -56,11 +24,11 @@ Hebben goedgevonden en verstaan:
 
 - c. militair luchtvaartuig: luchtvaartuig waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is;
 
-- d. STANAG 2999: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 2999 USE OF HELICOPTERS IN LAND OPERATIONS DOCTRINE, zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
+- d. STANAG 2999: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 2999 USE OF HELICOPTERS IN LAND OPERATIONS DOCTRINE, zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
 
-- e. STANAG 4441: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 4441 ALLIED MULTI-MODAL TRANSPORTATION OF DANGEROUS GOODS DIRECTIVE met de daarbij behorende AMovP-6 en de Standards-related documents zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
+- e. STANAG 4441: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 4441 ALLIED MULTI-MODAL TRANSPORTATION OF DANGEROUS GOODS DIRECTIVE met de daarbij behorende AMovP-6 en de Standards-related documents zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
 
-- f. STANAG 7213: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 7213 TACTICS, TECHNIQUES AND PROCEDURES FOR NATO AIR MOVEMENTS zoals ter inzage gelegd op de bij die mededeling aangegeven locatie.
+- f. STANAG 7213: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 7213 TACTICS, TECHNIQUES AND PROCEDURES FOR NATO AIR MOVEMENTS zoals ter inzage gelegd op de bij die mededeling aangegeven locatie.
 
 2. Als gevaarlijke stoffen, bedoeld in [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1) juncto [artikel 10.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.7) worden aangewezen de stoffen en voorwerpen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=2).
 
@@ -107,5 +75,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

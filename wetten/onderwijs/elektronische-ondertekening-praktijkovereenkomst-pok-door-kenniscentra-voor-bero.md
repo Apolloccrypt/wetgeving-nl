@@ -1,36 +1,16 @@
 ---
 title: "Elektronische ondertekening praktijkovereenkomst (pok) door Kenniscentra voor beroepsonderwijs en bedrijfsleven (voorheen landelijke organen)"
 identifier: "BWBR0014928"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-05-21"
-last_updated: "2003-05-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014928"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6480143"
-version_id: "11158932"
-internal_id: "C15080321"
-label_id: "6468724"
-original_entry_into_force: "2003-05-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014928/2003-05-21/0"
-intitule_bron: "Uitleg.2003-13"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-04-08"
-intitule_published: "2003-05-21"
-intitule_in_force: "2003-05-21"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-13"
-original_signed_date: "2003-04-08"
-original_published_date: "2003-05-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-05-21"
-jci_1_3: "jci1.3:c:BWBR0014928&z=2003-05-21&g=2003-05-21"
-jci_1_0: "1.0:c:BWBR0014928&g=2003-05-21"
-citeertitel_status: "redactioneel"
-signed_date: "2003-04-08"
-entry_into_force: "2003-05-21"
+publicatiedatum: 2003-05-21
+laatste_update: 2003-05-21
+status: geldig
+toestand: 2003-05-21
+bron: "https://wetten.overheid.nl/BWBR0014928"
+opgehaald: 2026-08-07
 ---
+
 # Elektronische ondertekening praktijkovereenkomst (pok) door Kenniscentra voor beroepsonderwijs en bedrijfsleven (voorheen landelijke organen)
 
 ### Afsluiten praktijkovereenkomst
@@ -45,6 +25,10 @@ Onder regie van Colo, de vereniging van de Kenniscentra beroepsonderwijs bedrijf
 
 Met Colo is overleg gevoerd over de voorwaarden waaraan het systeem moet voldoen. Deze voorwaarden zijn:
 
+- 1. er moet een verklaring komen van een zogeheten Trusted Third Party (TTP) over de werking van het systeem en de beheersorganisatie, en
+
+- 2. er moet een bewijs overlegd kunnen worden door de instelling aan de hand waarvan de instellingsaccountant kan verifiëren dat de praktijkovereenkomst is getekend door de daartoe bevoegde persoon van het kenniscentrum.
+
 De hiervoor door Colo gemaakte procedureafspraken en getroffen maatregelen zijn voor ondergetekende aanleiding geweest om akkoord te gaan met het systeem en het gebruik van de elektronische handtekening. Voor het waarborgen van het proces rond de elektronische handtekening is een zogenaamde Trusted Third Party (TTP), ”DigiNotar”, ingeschakeld. DigiNotar is als CA (Certificate Authority) een betrouwbare partij die zich heeft aangemeld ter certificatie als TTP in het kader van de nieuwe (nog in te voeren) wetgeving voor de elektronische handtekening. De elektronische handtekening wordt gezet met een veilig middel dat onder notariële controle aan de Kenniscentra wordt verstrekt. Ten teken dat de elektronische handtekening is gezet wordt een achtcijferige code teruggemeld aan de instelling. Als bewijs dat de handtekening is gezet en voor de controle daarop is het nodig dat deze code bij de praktijkovereenkomst wordt gevoegd, zodat de rechten van de deelnemers zijn gewaarborgd. Ook kan aan de hand van deze code achteraf door de instellingsaccountant worden gecontroleerd of de handtekening door het daartoe bevoegde kenniscentrum is gezet, hetgeen van belang is voor de bekostiging. Voor deze controle biedt het systeem de mogelijkheid om online (via Dualgate) te verifiëren of de ondertekening door het kenniscentrum rechtmatig is uitgevoerd. Daarnaast wordt de mogelijkheid geboden om uit het systeem een lijst met geaccordeerde praktijkovereenkomsten op te vragen. Met behulp van de eerdergenoemde code kan ook aan de deelnemer worden aangetoond dat zijn of haar praktijkovereenkomst is gesloten met een door het kenniscentrum erkend leerbedrijf.
 
 Dit betekent voor de instellingen dat praktijkovereenkomsten die door een kenniscentrum zijn getekend met een elektronische handtekening voor bekostiging in aanmerking mogen worden gebracht. Het ”controleprotocol instellingen en organisaties BVE-sector” wordt hierop aangepast. De controle van de handmatig ondertekende overeenkomst blijft ongewijzigd.
@@ -52,3 +36,5 @@ Dit betekent voor de instellingen dat praktijkovereenkomsten die door een kennis
 Het systeem is inmiddels bij twee kenniscentra (KC Handel en Ecabo) volledig aangesloten en er zijn reeds meer en minder vergevorderde plannen bij drie onderwijsinstellingen om DualGate te implementeren.
 
 Colo heeft mij bericht dat alle kenniscentra hebben ingestemd om op termijn gebruik te gaan maken van het systeem. Colo zal op termijn bezien of het systeem ook geschikt gemaakt kan worden voor de leerovereenkomsten in het vmbo. Nadere informatie is te verkrijgen bij:
+
+- Ellen Bominaar of Han Bernart van Colo (079-3523000)

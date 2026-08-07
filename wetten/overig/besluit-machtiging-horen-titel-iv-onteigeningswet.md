@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-28
 toestand: 2026-02-24
 bron: "https://wetten.overheid.nl/BWBR0027522"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 12 april 2010, nr. BJZ2010010749, houdende machtiging van ambtenaren tot het horen van belanghebbenden ingevolge Titel IV van de onteigeningswet (Besluit machtiging ambtenaren horen belanghebbenden Titel IV onteigeningswet)

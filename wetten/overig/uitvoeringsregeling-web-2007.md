@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0024795"
-opgehaald: 2026-08-04
+opgehaald: 2026-08-07
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 november 2008, nr. BVE/Stelsel/73928, houdende uitvoeringsregels voor het bekostigen van het middelbaar beroepsonderwijs en de educatie (Uitvoeringsregeling WEB 2007)
@@ -70,7 +70,7 @@ De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 - g. de voorschriften betreffende ontneming van rechten ten aanzien van bestaand onderwijsaanbod, bedoeld in [artikel 6.1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4), ten aanzien van de ontneming van het recht op examinering van een beroepsopleiding, bedoeld in [artikel 6.1.5b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5b) en ten aanzien van onthouding van rechten ten aanzien van voorgenomen onderwijs uit oogpunt van kwaliteit of niet naleving wettelijke voorschriften, bedoeld in [artikel 6.1.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.6);
 
-- h. de voorschriften betreffende de beëindiging van registratie van beroepsopleidingen, bedoeld in [artikel 6.4.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.4);
+- h. de voorschriften betreffende de beëindiging van registratie van beroepsopleidingen, bedoeld in [artikel 6.4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.2);
 
 - i. het onderwijs en de examens betreffende het beroepsonderwijs, bedoeld in [hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=7), met dien verstande dat bij de toepassing van:
 
@@ -86,7 +86,9 @@ De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 - m. de voorschriften inzake bestuur en bestuursoverdracht, bedoeld in de [artikelen 2.1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.3), [2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.5) en [2.1.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.6); en
 
-- n. de [hoofdstukken 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=10) en [11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=11).
+- n. [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=10) van de wet;
+
+- o. het intreden van de gevolgen van het toekennen van rechten na sprongberoep, bedoeld in [artikel 1.3.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.11).
 
 ### Hoofdstuk 3. Voorschriften bekostiging beroepsonderwijs
 

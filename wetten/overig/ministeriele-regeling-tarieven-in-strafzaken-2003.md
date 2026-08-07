@@ -1,43 +1,17 @@
 ---
 title: "Ministeriële regeling tarieven in strafzaken 2003"
 identifier: "BWBR0015516"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-11-26"
-last_updated: "2020-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015516"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5295053"
-version_id: "27219962"
-internal_id: "C38464901"
-label_id: "5270554"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015516/2020-11-26/0"
-intitule_bron: "Stcrt.2003-177"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-08-28"
-intitule_published: "2003-09-15"
-intitule_in_force: "2003-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-60995"
-original_signed_date: "2020-11-10"
-original_published_date: "2020-11-25"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2020-60995"
-entry_into_force_date: "2020-11-26"
-jci_1_3: "jci1.3:c:BWBR0015516&z=2020-11-26&g=2020-11-26"
-jci_1_0: "1.0:c:BWBR0015516&g=2020-11-26"
-citeertitel_status: "officieel"
-signed_date: "2020-11-10"
-entry_into_force: "2020-11-26"
+publicatiedatum: 2020-11-26
+laatste_update: 2020-11-26
+status: geldig
+toestand: 2020-11-26
+bron: "https://wetten.overheid.nl/BWBR0015516"
+opgehaald: 2026-08-07
 ---
+
 # Ministeriële regeling tarieven in strafzaken 2003
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=4), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=7), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=13), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=16) en [17, Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=17) (Stb. 1963, 130) en op [artikel 12 van het Besluit tarieven in strafzaken 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&artikel=12);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -88,15 +62,3 @@ Deze regeling wordt aangehaald als: Ministeriële regeling tarieven in strafzake
 ##### Artikel 10
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit tarieven in strafzaken 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015481) in werking treedt.
-
-## Bijlage 1
-
-## Bijlage 2
-
-## Bijlage 3
-
-## Bijlage 4
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

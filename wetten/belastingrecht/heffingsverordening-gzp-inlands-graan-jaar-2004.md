@@ -1,42 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 6 november 2003, houdende vaststelling bestemmingsheffing ten behoeve van de teelt van inlands graan in Nederland voor het jaar 2004 (Heffingsverordening GZP inlands graan jaar 2004)"
+citeertitel: "Heffingsverordening GZP inlands graan jaar 2004"
 identifier: "BWBR0015846"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-07-01"
-last_updated: "2004-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015846"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6079453"
-version_id: "10740022"
-internal_id: "C29092271"
-label_id: "6068684"
-original_entry_into_force: "2004-02-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015846/2004-07-01/0"
-intitule_bron: "Vbbo.2004-7"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-11-06"
-intitule_published: "2004-02-06"
-intitule_in_force: "2004-02-06"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-7"
-original_signed_date: "2003-11-06"
-original_published_date: "2004-02-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-02-08"
-jci_1_3: "jci1.3:c:BWBR0015846&z=2004-07-01&g=2004-07-01"
-jci_1_0: "1.0:c:BWBR0015846&g=2004-07-01"
-citeertitel_status: "officieel"
-short_title: "Heffingsverordening GZP inlands graan jaar 2004"
-signed_date: "2003-11-06"
-entry_into_force: "2004-02-08"
+publicatiedatum: 2004-02-08
+laatste_update: 2004-07-01
+status: geldig
+toestand: 2004-07-01
+bron: "https://wetten.overheid.nl/BWBR0015846"
+opgehaald: 2026-08-07
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 6 november 2003, houdende vaststelling bestemmingsheffing ten behoeve van de teelt van inlands graan in Nederland voor het jaar 2004 (Heffingsverordening GZP inlands graan jaar 2004)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 eerste en vierde lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 5](onbekend), [6](onbekend) en [7 van de Instellingsverordening akkerbouwproductschappen 1997](onbekend) dan wel het [Instellingsbesluit akkerbouwproductschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0016234) zodra dit in werking is getreden;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 

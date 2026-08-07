@@ -1,36 +1,16 @@
 ---
 title: "Informatie- en communicatietechnologie (ict) in de centrale examens voorbereidend middelbaar beroepsonderwijs (vmbo) 2004"
 identifier: "BWBR0015087"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-06-11"
-last_updated: "2003-06-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015087"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6518763"
-version_id: "11218262"
-internal_id: "C15149601"
-label_id: "6507264"
-original_entry_into_force: "2003-06-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015087/2003-06-11/0"
-intitule_bron: "Uitleg.2003-15"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-16"
-intitule_published: "2003-06-11"
-intitule_in_force: "2003-06-11"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-15"
-original_signed_date: "2003-05-16"
-original_published_date: "2003-06-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-06-11"
-jci_1_3: "jci1.3:c:BWBR0015087&z=2003-06-11&g=2003-06-11"
-jci_1_0: "1.0:c:BWBR0015087&g=2003-06-11"
-citeertitel_status: "redactioneel"
-signed_date: "2003-05-16"
-entry_into_force: "2003-06-11"
+publicatiedatum: 2003-06-11
+laatste_update: 2003-06-11
+status: geldig
+toestand: 2003-06-11
+bron: "https://wetten.overheid.nl/BWBR0015087"
+opgehaald: 2026-08-07
 ---
+
 # Informatie- en communicatietechnologie (ict) in de centrale examens voorbereidend middelbaar beroepsonderwijs (vmbo) 2004
 
 ### Algemeen
@@ -40,6 +20,16 @@ In deze mededeling deelt de CEVO mee bij welke centrale examens in het examenjaa
 ### 1. Bij welke vakken is de computer nodig
 
 De computer is nodig bij:
+
+- 1.1 Het cse Frans voor de basisberoepsgerichte leerweg Evenals in 2003 zal het centraal examen Frans voor de basisberoepsgerichte leerweg de examenvorm kennen die wordt aangeduid als DigiTaaltoets. Een computer is nodig voor de afname van het examen en er is geen papieren versie van de examenopgaven.
+
+- 1.2 Het cse Dans en Drama voor de gemengde en de theoretische leerweg Voor de vakken Dans en Drama wordt het uitgangsmateriaal voor de centrale examens in het examenjaar 2004 aangeboden op een CD-rom. Er is een computernodig voor de afname van het examen. De afname zal vergelijkbaar zijn met die van 2003.
+
+- 1.3 Het cpe in de basisberoepsgerichte leerweg; ” de cie voor de kaderberoepsgerichte leerweg in principe bij alle beroepsgerichte programma’s Voor de beroepsgerichte programma’s (afdelingsprogramma’s en intrasectorale programma’s) in het vmbo, is in het examenjaar 2004 sprake van ict-toepassingen:
+
+   - in het centraal praktisch examen voor de basisberoepsgerichte leerweg (cpe BB) en
+
+   - in de centrale integratieve eindtoets voor de kaderberoepsgerichte leerweg (cie KB).
 
 Een gedeelte van de eindtermen die in het cpe BB en de cie KB worden getoetst heeft betrekking op ict.
 
@@ -53,7 +43,7 @@ De verwachting is dat de computer bij alle beroepsgerichte programma’s gebruik
 
 Alleen verzorging, zorg-en-welzijnbreed en de vakrichtingen in de sector landbouw kenden in 2003 nog geen ict-opdrachten. Daar komt in 2004 verandering in.
 
-Als de er voor de ict-opdrachten in de praktische examens van de laatstgenoemde vakken geen alternatief (zonder ict) is, komen voorbeeldopgaven beschikbaar via **www.vmboexamengids.nl.**
+Als de er voor de ict-opdrachten in de praktische examens van de laatstgenoemde vakken geen alternatief (zonder ict) is, komen voorbeeldopgaven beschikbaar via *www.vmboexamengids.nl.*
 
 In de meeste gevallen gaat het daarbij om standaardprogrammatuur, zoals een tekstverwerker en/of een spreadsheet. Andere toepassingsmogelijkheden zijn een beheersautomatiseringssysteem, een CAD-programma, presentatieprogrammatuur en bestaande CD-rom’s waarop informatie kan worden gezocht.
 
@@ -62,3 +52,5 @@ De te gebruiken computerprogramma’s zijn principe ook in gebruik tijdens de re
 ### 2. Mogelijk computergebruik
 
 Computergebruik is mogelijk bij:
+
+- het cse Nederlands voor de *gemengde* en *theoretische leerweg* Bij Nederlands schrijfvaardigheid in de *gemengde* en *theoretische leerweg* is in 2004, net als in 2003, de tekstverwerker als hulpmiddel toegestaan. Dat betekent dat scholen ervoor kunnen kiezen het examen met de computer te laten maken en dat scholen er ook voor kunnen kiezen dat (nog) niet te doen. Leerlingen kunnen als de school het examen met de computer mogelijk maakt, aangeven dat ze toch liever met pen en papier werken.

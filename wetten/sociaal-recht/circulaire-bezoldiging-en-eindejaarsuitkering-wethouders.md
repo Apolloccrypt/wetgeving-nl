@@ -1,37 +1,16 @@
 ---
 title: "Circulaire bezoldiging en eindejaarsuitkering wethouders"
 identifier: "BWBR0014365"
-country: "nl"
-rank: "circulaire"
-publication_date: "2002-12-11"
-last_updated: "2002-12-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014365"
+categorie: "Sociaal recht"
 soort: "circulaire"
-stam_id: "6388753"
-version_id: "11049242"
-internal_id: "C14951991"
-label_id: "6377594"
-original_entry_into_force: "2002-12-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014365/2002-12-11/0"
-intitule_bron: "Stcrt.2002-239"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-02"
-intitule_published: "2002-12-11"
-intitule_in_force: "2002-12-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-239"
-original_signed_date: "2002-12-02"
-original_published_date: "2002-12-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2002-239-p11-SC37497"
-entry_into_force_date: "2002-12-11"
-jci_1_3: "jci1.3:c:BWBR0014365&z=2002-12-11&g=2002-12-11"
-jci_1_0: "1.0:c:BWBR0014365&g=2002-12-11"
-citeertitel_status: "redactioneel"
-signed_date: "2002-12-02"
-entry_into_force: "2002-12-11"
+publicatiedatum: 2002-12-11
+laatste_update: 2002-12-11
+status: geldig
+toestand: 2002-12-11
+bron: "https://wetten.overheid.nl/BWBR0014365"
+opgehaald: 2026-08-07
 ---
+
 # Circulaire bezoldiging en eindejaarsuitkering wethouders
 
 ### 1. Structurele verhoging van de bezoldiging
@@ -50,7 +29,7 @@ Gelet hierop is met de centrales van het overheidspersoneel afgesproken om per 1
 
 Als gevolg van deze afspraak zijn de bezoldigingsbedragen van wethouders per 1 mei 2003 structureel verhoogd met 0,25%.
 
-Voor de definitieve bezoldigingsbedragen verwijs ik u naar de bijlage bij deze circulaire.
+Voor de definitieve bezoldigingsbedragen verwijs ik u naar de [bijlage](https://wetten.overheid.nl/BWBR0014365) bij deze circulaire.
 
 De beide structurele salarisverhogingen werken door naar reeds ingegane APPA-uitkeringen ([Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691)).
 
@@ -67,11 +46,3 @@ Daarnaast is besloten de eindejaarsuitkering 2003 incidenteel met 0,4% te verhog
 Dit betekent dat de eindejaarsuitkeringen voor 2002 en 2003 voor de wethouders eveneens met deze percentages wordt aangepast.
 
 De verhoging van de eindejaarsuitkering werkt in verband met de terugwerkende kracht tot en met 1 januari 2002 c.q. 1 januari 2003 ook door in de berekeningsgrondslag voor APPA-uitkeringen of overeenkomstige uitkeringen van wethouders die op of ná 2 januari 2002 c.q. 2 januari 2003 met een APPA-uitkering of met een overeenkomstige uitkering zijn gegaan.
-
-## Bijlage. bij circulaire van 2 december 2002, nr. BK02/98349
-
-### Tabel bezoldiging wethouders, bedoeld in [artikel 3, eerste lid, van het Rechtspositiebesluit wethouders](https://wetten.overheid.nl/jci1.3:c:BWBR0006535&artikel=3)
-
-### Tabel I. Variant bezoldiging wethouders voor gemeenten tussen de 6.001 en 18.000 inwoners
-
-### Tabel II. Variant bezoldiging wethouders voor gemeenten tussen de 6.001 en 18.000 inwoners

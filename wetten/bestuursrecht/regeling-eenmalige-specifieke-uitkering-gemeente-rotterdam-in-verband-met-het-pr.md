@@ -1,42 +1,18 @@
 ---
 title: "Regeling, houdende toekenning van een eenmalige specifieke uitkering aan de Gemeente Rotterdam in verband met het Project ontwikkeling programma beveiligingsplannen voor havenfaciliteiten"
+citeertitel: "Regeling eenmalige specifieke uitkering Gemeente Rotterdam in verband met het Project ontwikkeling programma beveiligingsplannen havenfaciliteiten"
 identifier: "BWBR0016000"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-12-14"
-last_updated: "2003-12-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016000"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "5535203"
-version_id: "9931612"
-internal_id: "C13410271"
-label_id: "5507424"
-original_entry_into_force: "2003-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016000/2003-12-14/0"
-intitule_bron: "Stcrt.2003-241"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-12-04"
-intitule_published: "2003-12-12"
-intitule_in_force: "2003-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-241"
-original_signed_date: "2003-12-04"
-original_published_date: "2003-12-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-12-14"
-jci_1_3: "jci1.3:c:BWBR0016000&z=2003-12-14&g=2003-12-14"
-jci_1_0: "1.0:c:BWBR0016000&g=2003-12-14"
-citeertitel_status: "officieel"
-short_title: "Regeling eenmalige specifieke uitkering Gemeente Rotterdam in verband met het Project ontwikkeling programma beveiligingsplannen havenfaciliteiten"
-signed_date: "2003-12-04"
-entry_into_force: "2003-12-14"
+publicatiedatum: 2003-12-14
+laatste_update: 2003-12-14
+status: geldig
+toestand: 2003-12-14
+bron: "https://wetten.overheid.nl/BWBR0016000"
+opgehaald: 2026-08-07
 ---
+
 # Regeling, houdende toekenning van een eenmalige specifieke uitkering aan de Gemeente Rotterdam in verband met het Project ontwikkeling programma beveiligingsplannen voor havenfaciliteiten
-
-Gelet op [artikel 17, vijfde lid, Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -111,5 +87,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling eenmalige specifieke uitkering Gemeente Rotterdam in verband met het Project ontwikkeling programma beveiligingsplannen voor havenfaciliteiten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

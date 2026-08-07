@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-08-04
 toestand: 2024-10-05
 bron: "https://wetten.overheid.nl/BWBR0050262"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Ondermandaat- en machtigingsbesluit Directeur Militaire Inlichtingen- en Veiligheidsdienst 2024

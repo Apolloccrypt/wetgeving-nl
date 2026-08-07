@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 15 augustus 2003, nr. WJZ/03/02932, houdende instelling van de Nationale Frequentiecommissie (Instellingsbesluit Nationale Frequentiecommissie)"
+citeertitel: "Instellingsbesluit Nationale Frequentiecommissie"
 identifier: "BWBR0015477"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-08-24"
-last_updated: "2003-08-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015477"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5159143"
-version_id: "9292992"
-internal_id: "C12391911"
-label_id: "5134734"
-original_entry_into_force: "2003-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015477/2003-08-24/0"
-intitule_bron: "Stcrt.2003-161"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-08-15"
-intitule_published: "2003-08-22"
-intitule_in_force: "2003-08-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-161"
-original_signed_date: "2003-08-15"
-original_published_date: "2003-08-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-08-24"
-jci_1_3: "jci1.3:c:BWBR0015477&z=2003-08-24&g=2003-08-24"
-jci_1_0: "1.0:c:BWBR0015477&g=2003-08-24"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Nationale Frequentiecommissie"
-signed_date: "2003-08-15"
-entry_into_force: "2003-08-24"
+publicatiedatum: 2003-08-24
+laatste_update: 2003-08-24
+status: geldig
+toestand: 2003-08-24
+bron: "https://wetten.overheid.nl/BWBR0015477"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van de Minister van Economische Zaken van 15 augustus 2003, nr. WJZ/03/02932, houdende instelling van de Nationale Frequentiecommissie (Instellingsbesluit Nationale Frequentiecommissie)
-
-Overwegende,
-
-– dat in het Nationaal Frequentieplan 2002 (Stcrt. 2002, 115) de taak en samenstelling van de Nationale Frequentiecommissie nader is ingekaderd tot een adviesorgaan op het gebied van frequentiebeheer waarin met vitale overheidstaken en de publieke omroep belaste overheidsorganisaties en het Ministerie van Onderwijs, Cultuur en Wetenschappen zitting hebben;
-
-– dat gelet op de taak van de Nationale Frequentiecommissie de samenstelling van de commissie aangepast dient te worden;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -118,7 +90,7 @@ De secretaris en de leden worden alvorens zij door de Minister van Economische Z
 
 ##### Artikel 10
 
-Het [Besluit Nationale Frequentiecommissie](onbekend) wordt ingetrokken.
+Het Besluit Nationale Frequentiecommissie wordt ingetrokken.
 
 ##### Artikel 11
 
@@ -127,5 +99,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Nationale Frequentiecommissie.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

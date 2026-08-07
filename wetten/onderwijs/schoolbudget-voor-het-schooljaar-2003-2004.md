@@ -1,36 +1,16 @@
 ---
 title: "Schoolbudget voor het schooljaar 2003 - 2004"
 identifier: "BWBR0014747"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-04-02"
-last_updated: "2003-04-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014747"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6487113"
-version_id: "11166512"
-internal_id: "C15089941"
-label_id: "6475834"
-original_entry_into_force: "2003-04-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014747/2003-04-02/0"
-intitule_bron: "Uitleg.2003-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-02-24"
-intitule_published: "2003-04-02"
-intitule_in_force: "2003-04-02"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-9"
-original_signed_date: "2003-02-24"
-original_published_date: "2003-04-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-04-02"
-jci_1_3: "jci1.3:c:BWBR0014747&z=2003-04-02&g=2003-04-02"
-jci_1_0: "1.0:c:BWBR0014747&g=2003-04-02"
-citeertitel_status: "redactioneel"
-signed_date: "2003-02-24"
-entry_into_force: "2003-04-02"
+publicatiedatum: 2003-04-02
+laatste_update: 2003-04-02
+status: geldig
+toestand: 2003-04-02
+bron: "https://wetten.overheid.nl/BWBR0014747"
+opgehaald: 2026-08-07
 ---
+
 # Schoolbudget voor het schooljaar 2003 - 2004
 
 ### Inleiding
@@ -43,6 +23,12 @@ In deze publicatie wordt u geïnformeerd over de bedragen per leerling op grond 
 
 De omvang van het schoolbudget wordt per school vastgesteld op basis van:
 
+- a. het aantal leerlingen;
+
+- b. het schoolgewicht of het aantal cumi-leerlingen;
+
+- c. het aantal ambulant begeleide leerlingen.
+
 ### Bepaling van het aantal leerlingen
 
 Bij het bepalen van het aantal leerlingen wordt uitgegaan van het aantal leerlingen dat de school op 1 oktober 2002 bezocht, tenzij in deze publicatie anders is aangegeven. Voor basisscholen wordt het aantal leerlingen vastgesteld overeenkomstig [artikel 121 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=121), voor speciale scholen voor basisonderwijs geldt het bepaalde in [artikel 122 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=122), voor scholen voor (voortgezet) speciaal onderwijs het bepaalde in [artikel 118 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=118) en voor scholen voor praktijkonderwijs met declaratiebekostiging geldt het bepaalde in [artikel 234 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=234). Hierbij wordt uitgegaan van de gegevens zoals die door het bevoegd gezag worden geleverd. Indien het definitieve, door de accountant vastgestelde leerlingaantal daarvan afwijkt, kan een herberekening van de omvang van het schoolbudget plaatsvinden.
@@ -51,7 +37,7 @@ Bij de rijdende scholen wordt uitgegaan van de gemiddelde hoogste dagtelling als
 
 ### Schoolgewicht en cumi-leerlingen
 
-Het schoolgewicht voor basisscholen is het schoolgewicht zoals bedoeld in [artikel 15b van het Formatiebesluit WPO](onbekend). Onder cumi-leerlingen worden verstaan de leerlingen met een niet-Nederlandse culturele achtergrond zoals bedoeld in [artikel 1 van het Formatiebesluit WPO](onbekend) en [artikel 1 van het Formatiebesluit WEC](onbekend).
+Het schoolgewicht voor basisscholen is het schoolgewicht zoals bedoeld in artikel 15b van het Formatiebesluit WPO. Onder cumi-leerlingen worden verstaan de leerlingen met een niet-Nederlandse culturele achtergrond zoals bedoeld in artikel 1 van het Formatiebesluit WPO en artikel 1 van het Formatiebesluit WEC.
 
 ### Omvang van het schoolbudget voor basisscholen per 1 augustus 2003
 
@@ -117,6 +103,32 @@ C= (het aantal leerlingen, vermenigvuldigd met € 13,98) plus (het aantal cumi-
 
 Het schoolbudget is een vrij besteedbaar budget voor personele doeleinden dat wordt uitgekeerd in geld. Scholen beschikken daarmee structureel over financiële ruimte om zelfstandig afwegingen te maken en daarbij rekening te houden met de specifieke situatie waarin zij zich bevinden. Bij de besteding aan personele doeleinden kan onder andere worden gedacht aan:
 
+- salariskosten:
+
+   - kosten voor ondersteunende functionarissen
+
+   - kosten voor leraren-in-opleiding en hun begeleiders
+
+   - toelagen, gratificaties en extra periodieke verhogingen
+
+   - extra salariskosten voor hoger ingeschaald personeel (functiedifferentiatie)
+
+- extra salariskosten in verband met betaald ouderschapsverlof;
+
+- overige personele kosten, zoals:
+
+   - kosten van nascholing en deskundigheidsbevordering van personeel en management
+
+   - kosten in verband met arbeidsomstandigheden en arbo-zorg
+
+   - kosten van arbeidsmarktbeleid
+
+   - scholingstoelage in het kader van spaarverlof
+
+   - integraal personeelsbeleid
+
+   - kosten in verband met kwaliteitsverbetering en innovatie.
+
 ### Betaalritme en verantwoording
 
 Het schoolbudget wordt in twee termijnen beschikbaar gesteld, te weten 43% in oktober 2003 en 57% in januari 2004. De beschikbaarheid van de middelen voor het schoolbudget en de spreiding hiervan over de jaren 2003 en 2004 maken het voor het schooljaar 2003 - 2004 noodzakelijk iets af te wijken van het gebruikelijke ritme van betaalbaarstelling (5/12e deel in 2003 en 7/12e deel in 2004). De scholen krijgen een iets groter gedeelte dan het 5/12e deel van het schoolbudget al in oktober 2003 ter beschikking.
@@ -126,37 +138,3 @@ Uiterlijk 1 juli 2003 ontvangen de scholen van Cfi de beschikking voor het schoo
 Het voornemen bestaat om met ingang van het schooljaar 2004 -2005 het betaalritme te herzien en over te gaan tot een maandelijkse voorschotverlening.
 
 De verantwoording en monitoring van de besteding van het schoolbudget vinden op overeenkomstige wijze plaats als in de schooljaren 2001 - 2002 en 2002 - 2003. Voor de wijze waarop de besteding dient te worden verantwoord, wordt daarom verwezen naar de publicatie ”[Verantwoording en monitoring van het schoolbudget in het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0013072)” (PO/PJ-2001/43137 in Uitleg Gele Katern nr. 30 van 12 december 2001).
-
-## Bijlage. bij PO/PJ-2003/7796
-
-|   | A (bedrag per leerling alle scholen) | A (bedrag per leerling alle scholen) | B (50% cumi) |
-| --- | --- | --- | --- |
-| [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) naar onderwijssoort | so | vso | so en vso |
-| DOVN | 682,88 | 682,88 | 298,09 |
-| SH | 479,99 | 558,06 | 175,35 |
-| ESM | 466,97 | 0,00 | 175,35 |
-| LG | 578,78 | 656,84 | 298,09 |
-| LZ (cluster 3) | 466,97 | 545,05 | 175,35 |
-| ZMLK | 466,97 | 479,99 | 175,35 |
-| Cluster 4 (ZMOK, PI en LZ) | 479,99 | 545,05 | 175,35 |
-| MGA01 (DO + ZMLK/MLK) | 1.020,28 | 1.020,28 | 490,98 |
-| MGA02 (DO + LOM) | 1.020,28 | 1.020,28 | 490,98 |
-| MGA03 (DO + ZMLK) | 1.020,28 | 1.020,28 | 490,98 |
-| MGA04 (DO + LOM/ZMLK/MLK) | 1.020,28 | 1.020,28 | 490,98 |
-| MGA06 (DO + VSG) | 1.388,10 | 1.388,10 | 674,76 |
-| MGA07 (DO + LOM/MLK) | 1.020,28 | 1.020,28 | 490,98 |
-| MGB01 (SH/ESM + ZMLK/MLK) | 643,85 | 656,84 | 298,09 |
-| MGB02 (SH/ESM + MLK) | 643,85 | 656,84 | 298,09 |
-| MGB03 (SH/ESM + MLK/LOM) | 643,85 | 656,84 | 298,09 |
-| MGB05 (SH + LOM/MLK) | 643,85 | 656,84 | 298,09 |
-| MGB06 (SH/ESM + LOM) | 643,85 | 656,84 | 298,09 |
-| MGF01 (LG + ZMLK/MLK) | 742,62 | 755,63 | 420,84 |
-| MGF02 (LG + MLK) | 742,62 | 755,63 | 420,84 |
-| MGF03 (LG + ZMLK) | 742,62 | 755,63 | 420,84 |
-| MGF04 (LG + SH/ESM) | 742,62 | 755,63 | 420,84 |
-| MGH01 (LZ + ZMLK/MLK) | 630,83 | 630,83 | 298,09 |
-| MGH02 (LZ + LG + ESM + LOM/ZMLK/MLK) | 630,83 | 630,83 | 298,09 |
-| MGF05 (LG + DO/SH/VSG + ZMLK/MLK) | 742,62 | 755,63 | 420,84 |
-| MGJ01 (ZMLK + LG) | 742,62 | 755,63 | 420,84 |
-| MGF07 (LG + DO/SH/ESM + ZMLK/MLK) | 742,62 | 755,63 | 420,84 |
-| VGK instellingen | p.m. | p.m. | p.m. |

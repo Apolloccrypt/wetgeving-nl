@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Verkeer en Waterstaat inzake de erkenning van een natuurlijke persoon of rechtspersoon die zich bezighoudt met het vervoer van gevaarlijke stoffen door de lucht (Regeling erkenningen vervoer gevaarlijke stoffen door de lucht)"
+citeertitel: "Regeling erkenningen vervoer gevaarlijke stoffen door de lucht"
 identifier: "BWBR0014764"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014764"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "5545193"
-version_id: "9949232"
-internal_id: "C13431441"
-label_id: "5517354"
-dtd_version: "2.0"
-original_entry_into_force: "2003-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014764/2024-01-01/0"
-intitule_bron: "Stcrt.2003-52"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-02-28"
-intitule_published: "2003-03-14"
-intitule_in_force: "2003-03-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-52"
-original_signed_date: "2003-02-28"
-original_published_date: "2003-03-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-03-16"
-jci_1_3: "jci1.3:c:BWBR0014764&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0014764&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling erkenningen vervoer gevaarlijke stoffen door de lucht"
-signed_date: "2003-02-28"
-entry_into_force: "2003-03-16"
+publicatiedatum: 2003-03-16
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0014764"
+opgehaald: 2026-08-07
 ---
+
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat inzake de erkenning van een natuurlijke persoon of rechtspersoon die zich bezighoudt met het vervoer van gevaarlijke stoffen door de lucht (Regeling erkenningen vervoer gevaarlijke stoffen door de lucht)
-
-Gelet op [artikel 6.55, zesde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.55) en [artikel 9, derde lid, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=9).
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -45,13 +20,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **certificaat:** een door een erkende opleidingsinstelling als bedoeld in [artikel 1 van de Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&artikel=1) afgegeven certificaat inzake het vervoer van gevaarlijke stoffen door de lucht als bedoeld in [artikel 9 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&artikel=9);
+- *certificaat:* een door een erkende opleidingsinstelling als bedoeld in [artikel 1 van de Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&artikel=1) afgegeven certificaat inzake het vervoer van gevaarlijke stoffen door de lucht als bedoeld in [artikel 9 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&artikel=9);
 
-- **DGOM:** een door de aanvrager van een erkenning opgesteld bedrijfshandboek, Dangerous Goods Operations Manual;
+- *DGOM:* een door de aanvrager van een erkenning opgesteld bedrijfshandboek, Dangerous Goods Operations Manual;
 
-- **erkenning:** een erkenning als bedoeld in [artikel 6.55 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.55);
+- *erkenning:* een erkenning als bedoeld in [artikel 6.55 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.55);
 
-- **minister:** Minister van Infrastructuur en Waterstaat.
+- *minister:* Minister van Infrastructuur en Waterstaat.
 
 ### Hoofdstuk 2. Procedureregels
 
@@ -170,9 +145,3 @@ Deze regeling treedt in werking met ingang van 16 maart 2003.
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling erkenningen vervoer gevaarlijke stoffen door de lucht.
-
-## Bijlage. als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2024-01-01&g=2024-01-01)
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

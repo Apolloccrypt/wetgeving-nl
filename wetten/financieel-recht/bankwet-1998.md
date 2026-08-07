@@ -9,7 +9,7 @@ laatste_update: 2026-03-25
 status: geldig
 toestand: 2026-03-25
 bron: "https://wetten.overheid.nl/BWBR0009508"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Wet van 26 maart 1998, houdende nieuwe bepalingen inzake De Nederlandsche Bank N.V. in verband met het Verdrag tot oprichting van de Europese Gemeenschap (Bankwet 1998)

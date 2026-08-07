@@ -1,42 +1,17 @@
 ---
 title: "Skal-Reglement Bezwaar"
 identifier: "BWBR0015357"
-country: "nl"
-rank: "zbo"
-publication_date: "2003-08-25"
-last_updated: "2003-08-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015357"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6564843"
-version_id: "11373302"
-internal_id: "C15316491"
-label_id: "6553314"
-original_entry_into_force: "2003-08-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015357/2003-08-25/0"
-intitule_bron: "Stcrt.2003-162"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-07-09"
-intitule_published: "2003-08-25"
-intitule_in_force: "2003-08-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-162"
-original_signed_date: "2003-07-09"
-original_published_date: "2003-08-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-162-p11-SC60704"
-entry_into_force_date: "2003-08-25"
-jci_1_3: "jci1.3:c:BWBR0015357&z=2003-08-25&g=2003-08-25"
-jci_1_0: "1.0:c:BWBR0015357&g=2003-08-25"
-citeertitel_status: "officieel"
-signed_date: "2003-07-09"
-entry_into_force: "2003-08-25"
+publicatiedatum: 2003-08-25
+laatste_update: 2003-08-25
+status: geldig
+toestand: 2003-08-25
+bron: "https://wetten.overheid.nl/BWBR0015357"
+opgehaald: 2026-08-07
 ---
+
 # Skal-Reglement Bezwaar
-
-Gelet op [artikel 10 lid 1 sub e van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) (Stb. 1971, 371), alsmede [artikel 14 lid 1 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=14), artikel 28 van de Statuten van Stichting Skal en de [Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
-
-Heeft 9 juli 2003 vastgesteld het navolgende reglement, zoals goedgekeurd door de minister, hierna te noemen: Skal-Reglement Bezwaar
 
 ##### Artikel 1. Algemene bepalingen
 
@@ -110,7 +85,7 @@ Heeft 9 juli 2003 vastgesteld het navolgende reglement, zoals goedgekeurd door d
 
 7.1. Na de hoorzitting heroverweegt de directeur het besluit waartegen bezwaar is aangetekend en beslist op het ingediende bezwaar. De directeur neemt de beslissing op basis van de stukken en hetgeen op de hoorzitting bekend is geworden.
 
-7.2. De directeur toetst het besluit waartegen bezwaar is aangetekend, voorzover van toepassing, aan de statuten, de reglementen, de certificatie-eisen van Skal, de [Verordening (EEG) Nr. 2092/91](31991R2092), het bij of krachtens het Landbouwkwaliteitsbesluit biologische productiemethode en Landbouwkwaliteitsregeling biologische productiemethode 1996 bepaalde, de relevante bepalingen van de Landbouwkwaliteitswet en eventuele overige van toepassing zijnde voorschriften.
+7.2. De directeur toetst het besluit waartegen bezwaar is aangetekend, voorzover van toepassing, aan de statuten, de reglementen, de certificatie-eisen van Skal, de Verordening (EEG) Nr. 2092/91, het bij of krachtens het Landbouwkwaliteitsbesluit biologische productiemethode en Landbouwkwaliteitsregeling biologische productiemethode 1996 bepaalde, de relevante bepalingen van de Landbouwkwaliteitswet en eventuele overige van toepassing zijnde voorschriften.
 
 7.3. Een beslissing als bedoeld in dit artikel wordt niet genomen dan na advies van de betrokken Skal-medewerker(s) en de secretaris.
 

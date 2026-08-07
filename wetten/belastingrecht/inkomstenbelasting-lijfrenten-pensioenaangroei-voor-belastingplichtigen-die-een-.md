@@ -1,40 +1,17 @@
 ---
 title: "Inkomstenbelasting, lijfrenten, pensioenaangroei voor belastingplichtigen die een Belgisch rustpensioen opbouwen"
 identifier: "BWBR0015696"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-01-01"
-last_updated: "2004-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015696"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8374833"
-version_id: "13247672"
-internal_id: "C18423941"
-label_id: "8355614"
-dtd_version: "2.0"
-original_entry_into_force: "2004-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015696/2004-01-01/0"
-intitule_bron: "Infob.2003-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-10-07"
-intitule_published: "2003-01-01"
-intitule_in_force: "2003-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2003-10"
-original_signed_date: "2003-10-07"
-original_published_date: "2003-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-01-01"
-jci_1_3: "jci1.3:c:BWBR0015696&z=2004-01-01&g=2004-01-01"
-jci_1_0: "1.0:c:BWBR0015696&g=2004-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2003-10-07"
-entry_into_force: "2004-01-01"
+publicatiedatum: 2004-01-01
+laatste_update: 2004-01-01
+status: geldig
+toestand: 2004-01-01
+bron: "https://wetten.overheid.nl/BWBR0015696"
+opgehaald: 2026-08-07
 ---
-# Inkomstenbelasting, lijfrenten, pensioenaangroei voor belastingplichtigen die een Belgisch rustpensioen opbouwen
 
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Inkomstenbelasting, lijfrenten, pensioenaangroei voor belastingplichtigen die een Belgisch rustpensioen opbouwen
 
 ### Inleiding
 
@@ -59,3 +36,9 @@ Dit besluit geldt voor belastingjaren met ingang van 2001. Onherroepelijk vastst
 ### In aanmerking te nemen bedragen
 
 Ten aanzien van personen op wie bovenstaande goedkeuring van toepassing is, kan bij de berekening van de aangroei van het bedrag van de jaarlijkse uitkeringen van de aanspraken volgens een Belgisch rustpensioen voorzover deze aangroei het gevolg is van de toeneming van de diensttijd in een jaar, op deze aangroei in mindering worden gebracht:
+
+| M.b.t. de aangroei in | Iin mindering te brengen bedrag |
+| --- | --- |
+| 2001 | f 319 / € 145 |
+| 2002 | € 151 |
+| 2003 | € 157 |

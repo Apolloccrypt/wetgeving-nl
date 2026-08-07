@@ -1,34 +1,16 @@
 ---
 title: "Reprises van producties, onderdeel van de subsidieregeling Onderzoek en producties 2004"
 identifier: "BWBR0014560"
-country: "nl"
-rank: "zbo"
-publication_date: "2003-09-02"
-last_updated: "2003-09-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014560"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6341363"
-version_id: "10995852"
-internal_id: "C14888631"
-label_id: "6330404"
-original_entry_into_force: "2003-09-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014560/2003-09-02/0"
-intitule_bron: "Stcrt.2003-168"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2003-09-02"
-intitule_in_force: "2003-09-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-168"
-original_published_date: "2003-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-168-p15-SC60842"
-entry_into_force_date: "2003-09-02"
-jci_1_3: "jci1.3:c:BWBR0014560&z=2003-09-02&g=2003-09-02"
-jci_1_0: "1.0:c:BWBR0014560&g=2003-09-02"
-citeertitel_status: "redactioneel"
-entry_into_force: "2003-09-02"
+publicatiedatum: 2003-09-02
+laatste_update: 2003-09-02
+status: geldig
+toestand: 2003-09-02
+bron: "https://wetten.overheid.nl/BWBR0014560"
+opgehaald: 2026-08-07
 ---
+
 # Reprises van producties, onderdeel van de subsidieregeling Onderzoek en producties 2004
 
 ### 1. Doel van de subsidieregeling
@@ -40,6 +22,14 @@ De bepalingen van de [subsidieregeling Onderzoek en producties 2004](https://wet
 ### 2. Aard van de aanvragen
 
 Voor aanvragen voor het onderdeel Reprises van producties geldt aanvullend op hetgeen in de [subsidieregeling Onderzoek en producties 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0014557) is gesteld dat:
+
+- • de productie in de periode 1 september 2002 tot 1 januari 2004 is gespeeld.
+
+- • de reprise-tournee plaatsvindt tussen 1 januari 2004 en 31 december 2004.
+
+- • de reprise-tournee uit ten minste vijf voorstellingen of concerten bestaat.
+
+- • voor een reprise-tournee slechts éénmaal een aanvraag door het Fonds in behandeling kan worden genomen.
 
 Let wel: instellingen die voor de periode 2001-2004 een meerjarig subsidie ontvangen van het Ministerie van OCenW kunnen géén aanvraag indienen voor het in reprise nemen van een productie.
 
@@ -61,13 +51,43 @@ Voor het indienen van een aanvraag maakt u gebruik van het aanvraagformulier Ond
 
 De aanvraag, gesteld in de Nederlandse taal, bestaat uit:
 
+- • een volledig ingevuld aanvraagformulier (in viervoud, zie 5.1.)
+
+- • een gemotiveerd plan (in viervoud, zie 5.2.)
+
+- • een begroting met toelichting (in viervoud, zie 5.3.)
+
+- • en voor de beoordeling noodzakelijke bijlagen (zie 5.4.)
+
 ### 5.1. Aanvraagformulier
 
 Op het aanvraagformulier worden onder andere vermeld:
 
+- • de gegevens van de aanvrager;
+
+- • de gegevens van de contactpersoon;
+
+- • op welke discipline(s) dans, (muziek)theater, muziek de aanvraag betrekking heeft;
+
+- • dat het een reprise betreft;
+
+- • wanneer de repetitieperiode aanvangt.
+
 ### 5.2. Gemotiveerd plan
 
 Het gemotiveerd plan beslaat bij voorkeur maximaal twee A4'tjes waarin u een inhoudelijke en organisatorische beschrijving van uw reprise geeft. Het bevat de volgende informatie:
+
+- 1. Een korte omschrijving van de inhoud, vorm en artistiek concept van de productie die u in de reprise-tournee wilt spelen. Indien er geen wijzigingen zijn in het team van medewerkers en uitvoerenden, producent en zakelijk leider en de te hernemen productie reeds door het Fonds gesubsidieerd is, kunt u volstaan met toezending van het inhoudelijk en financieel eindverslag.
+
+- 2. Indien de samenstelling van uw artistieke team afwijkt van de eerder uitgebrachte productie waarvoor een reprise subsidie wordt aangevraagd: wie zijn de medewerkers en uitvoerenden? Wat zijn hun functies binnen de productie? Motiveer uw keuze. Voeg in een bijlage beknopte curricula vitae van de artistieke en zakelijke leiding en van artistieke medewerkers en uitvoerenden toe.
+
+- 3. Produceert u zelf of brengt u uw productie onder bij een producent? Hoe zijn de speelplaatsen benaderd? Hoe wordt publiek geworven? Richt u zich op specifieke publieksgroepen? Zo ja, welke?
+
+- 4. Geef een tijdpad van de repetitieperiode en van de reprise-tournee. Motiveer de periode die nodig is voor het voorbereiden en uitvoeren van de reprise-tournee.
+
+- 5. Heeft u, behalve bij het Fonds voor Amateurkunst en Podiumkunsten, ook elders subsidie-aanvragen ingediend? Zo ja, bij wie en voor welke bedragen? Verwacht u bijdragen van co-producenten en/of sponsors? Vermeld - indien van toepassing - eerder verkregen subsidie- en/of sponsorbijdragen.
+
+- 6. Zijn er aspecten die in het voorafgaande niet aan bod zijn gekomen en die u van belang vindt voor een zorgvuldige beoordeling van uw aanvraag, beschrijf die dan beknopt.
 
 ### 5.3. Begroting
 
@@ -76,6 +96,14 @@ Voor de subsidieregeling reprises maakt u gebruik van het begrotingsmodel Onderz
 ### 5.4. Voor de beoordeling noodzakelijke bijlagen
 
 Voor de beoordeling noodzakelijke bijlagen zijn:
+
+- • een activiteitenoverzicht: opgave van aantal en spreiding van de activiteiten en van het deelnemers- en/of bezoekersaantal (in viervoud).
+
+- • curricula vitae van makers, medewerkers en uitvoerenden (in viervoud).
+
+- • schriftelijke optie bevestigingen (in enkelvoud). Houdt u er rekening mee dat indien uw aanvraag gehonoreerd wordt definitieve contracten overlegd moeten worden!
+
+- • indien voor de te hernemen productie reeds een subsidie is verleend door het Fonds, dient de afrekening (inhoudelijk en financieel verslag) door het Fonds ontvangen te zijn.
 
 ### 6. Werkwijze
 
@@ -91,4 +119,4 @@ De verplichtingen van de [regeling Onderzoek en Producties 2004](https://wetten.
 
 ### 9. Bezwaar
 
-Op de subsidieregelingen van het Fonds is de [Algemene wet bestuursrecht](onbekend) van kracht.
+Op de subsidieregelingen van het Fonds is de Algemene wet bestuursrecht van kracht.

@@ -1,44 +1,24 @@
 ---
 title: "Registratie geïndiceerde leerlingen"
+citeertitel: "Registratie geïndiceerde leerlingen (2003-2004)"
 identifier: "BWBR0015231"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-06-25"
-last_updated: "2003-06-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015231"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6498253"
-version_id: "11184952"
-internal_id: "C17600411"
-label_id: "6487064"
-original_entry_into_force: "2003-06-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015231/2003-06-25/0"
-intitule_bron: "Uitleg.2003-17"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-06-13"
-intitule_published: "2003-06-25"
-intitule_in_force: "2003-06-25"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-17"
-original_signed_date: "2003-06-13"
-original_published_date: "2003-06-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-06-25"
-jci_1_3: "jci1.3:c:BWBR0015231&z=2003-06-25&g=2003-06-25"
-jci_1_0: "1.0:c:BWBR0015231&g=2003-06-25"
-citeertitel_status: "redactioneel"
-short_title: "Registratie geïndiceerde leerlingen (2003-2004)"
-signed_date: "2003-06-13"
-entry_into_force: "2003-06-25"
+publicatiedatum: 2003-06-25
+laatste_update: 2003-06-25
+status: geldig
+toestand: 2003-06-25
+bron: "https://wetten.overheid.nl/BWBR0015231"
+opgehaald: 2026-08-07
 ---
+
 # Registratie geïndiceerde leerlingen
 
 ### 1. Inleiding
 
 Met ingang van 1 augustus 2003 treedt de [regeling leerlinggebonden financiering](https://wetten.overheid.nl/jci1.3:c:BWBR0014350) in werking. (Wet van 28 november 2002, staatsblad 2002 nr. 631).
 
-Om voor leerlinggebonden financiering in aanmerking te komen moet betreffende leerling door de school worden aangemeld. Het formulier dat hiervoor gebruikt moet wor­den is beschikbaar met ingang van het schooljaar 2003-2004. (Zie verder hoofdstuk 4).
+Om voor leerlinggebonden financiering in aanmerking te komen moet betreffende leerling door de school worden aangemeld. Het formulier dat hiervoor gebruikt moet wor­den is beschikbaar met ingang van het schooljaar 2003-2004. (Zie verder [hoofdstuk 4](https://wetten.overheid.nl/BWBR0015231)).
 
 Deze publicatie geeft informatie over het gebruik van het formulier en de procedures rond de vereiste aanmelding om voor leerlinggebonden financiering in aanmerking te komen.
 
@@ -60,7 +40,7 @@ Na ontvangst van het meldingsformulier verstuurt Cfi binnen één week een ontva
 
 Als de ontvangstbevestiging niet binnen de gestelde termijn het bevoegd gezag bereikt, dient zo spoedig mogelijk telefonisch contact met Cfi opgenomen te worden. Hierbij kan navraag gedaan worden over het uitblijven van de ontvangstbevestiging.
 
-Indien het meldingsformulier niet blijkt te zijn ontvangen door Cfi, dan dient een nieuw meldingsformulier of een kopie van het oorspronkelijke meldingsformulier verzonden te worden. Om het meldingsformulier zo spoedig mogelijk opnieuw te kunnen verzenden, is het raadzaam een kopie ervan te bewaren voor de eigen administratie. De ingangsdatum van de bekostiging wordt bepaald door de datum melding, de datum waarop het formulier door Cfi ontvangen is. Het verdient aanbeveling het meldingsformulier ruim vóór het einde van de maand in te sturen, zodat bij aanvang van de volgende maand de bekostiging kan plaatsvinden (zie voor bekostiging paragraaf 3.8).
+Indien het meldingsformulier niet blijkt te zijn ontvangen door Cfi, dan dient een nieuw meldingsformulier of een kopie van het oorspronkelijke meldingsformulier verzonden te worden. Om het meldingsformulier zo spoedig mogelijk opnieuw te kunnen verzenden, is het raadzaam een kopie ervan te bewaren voor de eigen administratie. De ingangsdatum van de bekostiging wordt bepaald door de datum melding, de datum waarop het formulier door Cfi ontvangen is. Het verdient aanbeveling het meldingsformulier ruim vóór het einde van de maand in te sturen, zodat bij aanvang van de volgende maand de bekostiging kan plaatsvinden (zie voor bekostiging [paragraaf 3.8](https://wetten.overheid.nl/BWBR0015231)).
 
 ### 3.3. Terugmelding formulier (TMF)
 
@@ -72,11 +52,15 @@ Eventuele correcties moeten duidelijk herkenbaar worden aangegeven op een afschr
 
 ### 3.5. Verandering van school
 
-Indien een geïndiceerde leerling van school verandert dienen de gangbare procedures betreffende in- en uitschrijving gevolgd te worden. In ieder geval dient de school waar de leerling instroomt deze leerling met het meldingsformulier opnieuw te melden om voor het leerlinggebonden budget in aanmerking te komen. Zowel de nieuwe als de vorige school krijgt de geregistreerde gegevens via het TMF (zie paragraaf 3.3) teruggemeld. Indien de vorige school het niet eens is met de op het TMF vermelde datum uitschrijving, dan dient de school dit met het TMF aan het Cfi terug te melden. Bij inschrijving van een geïndiceerde leerling bij een nieuwe school wordt het leerlinggebonden budget niet eerder toegekend dan met ingang van het nieuwe schooljaar. Dit betekent dat de vorige school het leerlinggebonden budget tot het einde van het schooljaar behoudt.
+Indien een geïndiceerde leerling van school verandert dienen de gangbare procedures betreffende in- en uitschrijving gevolgd te worden. In ieder geval dient de school waar de leerling instroomt deze leerling met het meldingsformulier opnieuw te melden om voor het leerlinggebonden budget in aanmerking te komen. Zowel de nieuwe als de vorige school krijgt de geregistreerde gegevens via het TMF (zie [paragraaf 3.3](https://wetten.overheid.nl/BWBR0015231)) teruggemeld. Indien de vorige school het niet eens is met de op het TMF vermelde datum uitschrijving, dan dient de school dit met het TMF aan het Cfi terug te melden. Bij inschrijving van een geïndiceerde leerling bij een nieuwe school wordt het leerlinggebonden budget niet eerder toegekend dan met ingang van het nieuwe schooljaar. Dit betekent dat de vorige school het leerlinggebonden budget tot het einde van het schooljaar behoudt.
 
 ### 3.6. Uitschrijving
 
-De school dient de geïndiceerde leerling met het TMF (zie paragraaf 3.3) af te melden indien:
+De school dient de geïndiceerde leerling met het TMF (zie [paragraaf 3.3](https://wetten.overheid.nl/BWBR0015231)) af te melden indien:
+
+- de geïndiceerde leerling de school verlaat zonder dat er inschrijving plaatsvindt aan een andere Nederlandse school voor (speciaal) basisonderwijs of voortgezet onderwijs. Dit kan bijvoorbeeld het geval zijn wanneer de leerling emigreert of een diploma behaalt.
+
+- de geïndiceerde leerling wordt ingeschreven op een school voor (voortgezet) speciaal onderwijs.
 
 De afmelding dient te gebeuren binnen 6 weken na uitstroom en in ieder geval vóór het einde van het lopende schooljaar.
 
@@ -110,6 +94,14 @@ Bij vraag 3 dient aangegeven te worden of er al aanvullende formatie voor deze l
 
 Bij vraag 4 dient aangegeven te worden onder welk nummer en datum de indicatiestelling geregistreerd is. Het CvI nummer is het nummer waaronder de indicatie is vastgelegd. Dit unieke nummer wordt bepaald door de Commissie van Indicatiestelling (CvI) en is als volgt opgebouwd:
 
+- 1e positie: Cluster, zie ook vraag 5
+
+- 2e en 3e positie: Regio van de Commissie van indicatiestelling
+
+- 4e tot en met 7e positie: Jaar van afgifte (jjjj)
+
+- 8e tot en met 11e positie: Volgnummer
+
 Datum indicatiestelling is de datum waarop de indicatiestelling geregistreerd is bij de CvI.
 
 Zowel het CvI nummer als de datum indicatiestelling is vermeld op de door de CvI afgegeven indicatie.
@@ -124,8 +116,16 @@ Bij vraag 7 dient aangegeven te worden door welke (V)SO school deze leerling amb
 
 Bij vraag 8 dient aangegeven te worden of de leerling afkomstig is van een andere Nederlandse school voor (speciaal) basisonderwijs of voortgezet onderwijs. Indien dit het geval is, dienen hier de gegevens van de vorige school ingevuld te worden. Van betreffende school dient alleen het BRIN nummer, naam en woonplaats ingevuld te worden. De gegevens kunnen via Brinweb op www.cfi.nl geverifieerd worden. In alle andere gevallen dient deze vraag met NEE beantwoord te worden.
 
-Het meldingsformulier kan op elk moment worden ingediend. Het recht op bekostiging vindt plaats vanaf de 1e van de maand volgend op de melding van binnenkomst van het formulier. Voor een uitgebreide toelichting op de te volgen procedure bij de melding, kunt u hoofdstuk 3 van deze publicatie raadplegen.
+Het meldingsformulier kan op elk moment worden ingediend. Het recht op bekostiging vindt plaats vanaf de 1e van de maand volgend op de melding van binnenkomst van het formulier. Voor een uitgebreide toelichting op de te volgen procedure bij de melding, kunt u [hoofdstuk 3](https://wetten.overheid.nl/BWBR0015231) van deze publicatie raadplegen.
 
 ### 4.2. Bestellen
 
 Het formulier dat voor de registratie moet worden gebruikt heeft het formuliernummer CFI 53026 en is te downloaden via www.cfi.nl of, door middel van plaketiket nr. CFI 84887, aan te vragen bij:
+
+Centrale Financiën Instellingen
+
+Team AZ/GOV
+
+Postbus 606
+
+2700 ML Zoetermeer

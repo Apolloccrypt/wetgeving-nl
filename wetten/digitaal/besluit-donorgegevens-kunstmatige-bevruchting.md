@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 11 augustus 2003, houdende bepaling van de gegevens en bescheiden als bedoeld in artikel 2, eerste lid, onderscheidenlijk artikel 3, achtste lid, van de Wet donorgegevens kunstmatige bevruchting (Besluit donorgegevens kunstmatige bevruchting)"
+citeertitel: "Besluit donorgegevens kunstmatige bevruchting"
 identifier: "BWBR0015455"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015455"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "5140143"
-version_id: "9216542"
-internal_id: "C13411011"
-label_id: "5115884"
-dtd_version: "2.0"
-original_entry_into_force: "2004-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015455/2025-04-01/0"
-intitule_bron: "Stb.2003-320"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-08-11"
-intitule_published: "2003-08-21"
-intitule_in_force: "2003-12-16"
-intitule_status: "goed"
-original_publication: "Stb.2003-320"
-original_signed_date: "2003-08-11"
-original_published_date: "2003-08-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2003-320"
-entry_into_force_date: "2004-01-01"
-jci_1_3: "jci1.3:c:BWBR0015455&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0015455&g=2025-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit donorgegevens kunstmatige bevruchting"
-signed_date: "2003-08-11"
-entry_into_force: "2004-01-01"
+publicatiedatum: 2004-01-01
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0015455"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 11 augustus 2003, houdende bepaling van de gegevens en bescheiden als bedoeld in artikel 2, eerste lid, onderscheidenlijk artikel 3, achtste lid, van de Wet donorgegevens kunstmatige bevruchting (Besluit donorgegevens kunstmatige bevruchting)
-
-Op de voordracht van Onze Minister van Justitie van 16 december 2002, nr 5200386/02/6, gedaan mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
-
-Gelet op [artikel 2, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2), alsmede [artikel 3, achtste lid, van de Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=3);
-
-De Raad van State gehoord (advies van 18 maart 2003, nr. W03.02.0565/I).
-
-Gezien het nader rapport van Onze Minister van Justitie van 1 augustus 2003,nr 5234240/03/6, uitgebracht mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel 4 van de Wet donorgegevens kunstmatige bevruchting in werking treedt.
 
 ##### Artikel 1
 
@@ -103,5 +69,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel 4 van de Wet donor
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit donorgegevens kunstmatige bevruchting.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

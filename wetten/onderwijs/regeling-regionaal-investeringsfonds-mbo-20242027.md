@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0048883"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 november 2023, nr. MBO/39770712, houdende regels voor de verstrekking van aanvullende middelen voor de verbetering van de aansluiting van het beroepsonderwijs op de arbeidsmarkt door publiek-private samenwerking (Regeling regionaal investeringsfonds mbo 2024–2027)

@@ -1,41 +1,29 @@
 ---
 title: "Onderwijs deelname leerlingen/studenten met Belgische nationaliteit"
 identifier: "BWBR0014939"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-04-23"
-last_updated: "2003-04-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014939"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6486923"
-version_id: "11166202"
-internal_id: "C15089521"
-label_id: "6475524"
-original_entry_into_force: "2003-04-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014939/2003-04-23/0"
-intitule_bron: "Uitleg.2003-12"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-04-09"
-intitule_published: "2003-04-23"
-intitule_in_force: "2003-04-23"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-12"
-original_signed_date: "2003-04-09"
-original_published_date: "2003-04-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-04-23"
-jci_1_3: "jci1.3:c:BWBR0014939&z=2003-04-23&g=2003-04-23"
-jci_1_0: "1.0:c:BWBR0014939&g=2003-04-23"
-citeertitel_status: "redactioneel"
-signed_date: "2003-04-09"
-entry_into_force: "2003-04-23"
+publicatiedatum: 2003-04-23
+laatste_update: 2003-04-23
+status: geldig
+toestand: 2003-04-23
+bron: "https://wetten.overheid.nl/BWBR0014939"
+opgehaald: 2026-08-07
 ---
+
 # Onderwijs deelname leerlingen/studenten met Belgische nationaliteit
 
 ### 1. Inleiding
 
 Het grenslandenbeleid vraagt inzicht in de grensoverschrijdende leerlingen- en studentenstromen. Daarom is tussen Nederland en Vlaanderen afgesproken elke twee jaar het aantal Belgische studenten te tellen. Daar dergelijke informatie in de reguliere informatiestromen niet voorhanden is, zal Cfi de diverse instellingen benaderen voor de Grenslandtelling met België. Het gaat daarbij om:
+
+- Een selectie van scholen en instellingen voor primair onderwijs (PO);
+
+- Een selectie van scholen en instellingen voor voortgezet onderwijs (VO);
+
+- alle instellingen voor hoger beroepsonderwijs en wetenschappelijk onderwijs (HBO/WO);
+
+- Open Universiteit
 
 Het doel van de Grenslandtelling is het in kaart brengen van het aantal leerlingen/deelnemers/studenten met de Belgische nationaliteit, waarbij de vraag gesteld wordt in welk land (België of Nederland) zij woonachtig waren op het moment van eerste inschrijving. Het gaat daarbij om de regulier bekostigde leerlingen.
 
@@ -49,10 +37,12 @@ Door middel van een informatieformulier worden de geselecteerde onderwijsinstell
 
 ### 3. Procedure ten aanzien van de registratie
 
-De geselecteerde onderwijsinstellingen ontvangen in mei 2003 het gele formulier met nummer CFI-53330. Op dit formulier kunnen zij de gegevens, als genoemd onder 2. vermelden. Verzocht wordt dit gele formulier binnen 3 weken terug te sturen naar:
+De geselecteerde onderwijsinstellingen ontvangen in mei 2003 het gele formulier met nummer CFI-53330. Op dit formulier kunnen zij de gegevens, als genoemd onder [2.](https://wetten.overheid.nl/BWBR0014939) vermelden. Verzocht wordt dit gele formulier binnen 3 weken terug te sturen naar:
+
+- Centrale Financiën Instellingen Agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschappen CFI/GEG/GGV Postbus 606 2700 ML Zoetermeer
 
 De gegevens op de gele telformulieren worden door Cfi verwerkt en gecontroleerd. Uitsluitend in het geval dat er fouten worden geconstateerd, worden de gegevens aan de instelling teruggemeld op een groen terugmeldingsformulier, waarbij wordt aangegeven welke fouten zijn geconstateerd. In dit geval wordt de instelling verzocht de gegevens op dit formulier zo spoedig mogelijk aan te passen. Ter afronding van de telling wordt aan de instellingen een (blauw) overzichtsformulier met de geregistreerde gegevens gezonden. Dit formulier is voor de instellingsadministratie bestemd. Tevens zal het landelijke beeld hiervan worden gepubliceerd via Uitleg.
 
 ### 4. Rapport over de vorige telling
 
-Het rapport van de grenslandtelling die in 2001 plaatsvond kan geraadpleegd worden via het OCenW-plein, via het adres: **http://www.minocw.nl/onderwijs/grenslandtelling/grenslandtelling2002.pdf.**
+Het rapport van de grenslandtelling die in 2001 plaatsvond kan geraadpleegd worden via het OCenW-plein, via het adres: *http://www.minocw.nl/onderwijs/grenslandtelling/grenslandtelling2002.pdf.*

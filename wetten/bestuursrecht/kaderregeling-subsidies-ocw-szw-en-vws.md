@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0037603"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Volksgezondheid, Welzijn en Sport, van 8 februari 2016, nr. 694813, houdende vaststelling van een gezamenlijke kaderregeling voor subsidieverstrekking (Kaderregeling subsidies OCW, SZW en VWS)

@@ -1,42 +1,17 @@
 ---
 title: "Beleidsregel waterdichte afsluiting van dekopeningen van vissersvaartuigen"
 identifier: "BWBR0015293"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-08-10"
-last_updated: "2003-08-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015293"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "6234143"
-version_id: "10907162"
-internal_id: "C14780421"
-label_id: "6223204"
-original_entry_into_force: "2003-08-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015293/2003-08-10/0"
-intitule_bron: "Stcrt.2003-128"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-06-27"
-intitule_published: "2003-07-08"
-intitule_in_force: "2003-07-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-128"
-original_signed_date: "2003-06-27"
-original_published_date: "2003-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-128-p13-SC40671"
-entry_into_force_date: "2003-08-10"
-jci_1_3: "jci1.3:c:BWBR0015293&z=2003-08-10&g=2003-08-10"
-jci_1_0: "1.0:c:BWBR0015293&g=2003-08-10"
-citeertitel_status: "redactioneel"
-signed_date: "2003-06-27"
-entry_into_force: "2003-08-10"
+publicatiedatum: 2003-08-10
+laatste_update: 2003-08-10
+status: geldig
+toestand: 2003-08-10
+bron: "https://wetten.overheid.nl/BWBR0015293"
+opgehaald: 2026-08-07
 ---
+
 # Beleidsregel waterdichte afsluiting van dekopeningen van vissersvaartuigen
-
-Gelet op [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=2.3), en [artikel 2.6, eerste lid, van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=2.6);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -76,9 +51,9 @@ Indien een vaartuig is voorzien van een bak waarvan de lengte minder bedraagt da
 
 - b. als afsluitmiddel voor de stortkoker is aangebracht:
 
-- -. een vast aangebracht scharnierend deksel op de binnenboord opening,
+   - - een vast aangebracht scharnierend deksel op de binnenboord opening,
 
-- -. een vanaf het dek bedienbare schuifafsluiter op de buitenboord opening dan wel een goed bereikbare terugslagklep op de buitenboord opening die bij vervuiling gemakkelijk kan worden schoongemaakt;
+   - - een vanaf het dek bedienbare schuifafsluiter op de buitenboord opening dan wel een goed bereikbare terugslagklep op de buitenboord opening die bij vervuiling gemakkelijk kan worden schoongemaakt;
 
 - c. het spoelwater en klein visafval wordt vanaf het dek van de visverwerkingsruimte via spuiopeningen in het eindschot van de bovenbouw naar buiten geloosd.
 
@@ -103,5 +78,3 @@ Indien in een waterdichte bak als bedoeld in [artikel 6](https://wetten.overheid
 ##### Artikel 9
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst.

@@ -1,48 +1,18 @@
 ---
 title: "Wet van 19 juni 2003, houdende regels met betrekking tot ernstige schendingen van het internationaal humanitair recht (Wet internationale misdrijven)"
+citeertitel: "Wet internationale misdrijven"
 identifier: "BWBR0015252"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015252"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "4949603"
-version_id: "17607562"
-internal_id: "C24364921"
-label_id: "4927344"
-dtd_version: "2.0"
-original_entry_into_force: "2010-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015252/2020-01-01/0"
-intitule_bron: "Stb.2003-270"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-06-19"
-intitule_published: "2003-07-03"
-intitule_in_force: "2003-09-02"
-intitule_status: "goed"
-original_publication: "Stb.2010-350"
-original_signed_date: "2010-05-17"
-original_published_date: "2010-09-01"
-original_effect: "structuurwijziging"
-original_dossier: "31959"
-original_url_id: "stb-2010-350"
-entry_into_force_date: "2010-05-17"
-entry_into_force_dossier: "31959"
-jci_1_3: "jci1.3:c:BWBR0015252&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0015252&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet internationale misdrijven"
-signed_date: "2010-05-17"
-entry_into_force: "2010-05-17"
+publicatiedatum: 2010-05-17
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0015252"
+opgehaald: 2026-08-07
 ---
+
 # Wet van 19 juni 2003, houdende regels met betrekking tot ernstige schendingen van het internationaal humanitair recht (Wet internationale misdrijven)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het nodig is om, mede gelet op het Statuut van het Internationaal Strafhof, regels te stellen met betrekking tot ernstige schendingen van het internationaal humanitair recht;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemene bepalingen
 
@@ -52,19 +22,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. Verdragen van Genève:
 
-- 1°. het op 12 augustus 1949 te Genève tot stand gekomen Verdrag (I) voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde (Trb. 1951, 72);
+   - 1°. het op 12 augustus 1949 te Genève tot stand gekomen Verdrag (I) voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde (Trb. 1951, 72);
 
-- 2°. het op 12 augustus 1949 te Genève tot stand gekomen Verdrag (II) voor de verbetering van het lot der gewonden, zieken en schipbreukelingen van de strijdkrachten ter zee (Trb. 1951, 73);
+   - 2°. het op 12 augustus 1949 te Genève tot stand gekomen Verdrag (II) voor de verbetering van het lot der gewonden, zieken en schipbreukelingen van de strijdkrachten ter zee (Trb. 1951, 73);
 
-- 3°. het op 12 augustus 1949 te Genève tot stand gekomen Verdrag (III) betreffende de behandeling van krijgsgevangenen (Trb. 1951, 74); en
+   - 3°. het op 12 augustus 1949 te Genève tot stand gekomen Verdrag (III) betreffende de behandeling van krijgsgevangenen (Trb. 1951, 74); en
 
-- 4°. het op 12 augustus 1949 te Genève tot stand gekomen Verdrag (IV) betreffende de bescherming van burgers in oorlogstijd (Trb. 1951, 75);
+   - 4°. het op 12 augustus 1949 te Genève tot stand gekomen Verdrag (IV) betreffende de bescherming van burgers in oorlogstijd (Trb. 1951, 75);
 
 - b. meerdere:
 
-- 1°. de militaire commandant, of degene die feitelijk als zodanig optreedt, die daadwerkelijk het bevel of gezag uitoefent over of daadwerkelijk leiding geeft aan een of meer ondergeschikten;
+   - 1°. de militaire commandant, of degene die feitelijk als zodanig optreedt, die daadwerkelijk het bevel of gezag uitoefent over of daadwerkelijk leiding geeft aan een of meer ondergeschikten;
 
-- 2°. degene die in een burgerlijke hoedanigheid daadwerkelijk gezag uitoefent over of daadwerkelijk leiding geeft aan een of meer ondergeschikten.
+   - 2°. degene die in een burgerlijke hoedanigheid daadwerkelijk gezag uitoefent over of daadwerkelijk leiding geeft aan een of meer ondergeschikten.
 
 - c. deportatie of onder dwang overbrengen van bevolking: het onder dwang verplaatsen van personen door verdrijving of andere dwangmaatregelen uit het gebied waarin zij zich rechtmatig bevinden zonder dat daarvoor gronden bestaan die naar internationaal recht zijn toegelaten;
 
@@ -180,39 +150,39 @@ wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste der
 
 - b. ieder opzettelijk handelen of nalaten dat de gezondheid in gevaar brengt van enige persoon die zich in de macht bevindt van een andere partij dan de partij waartoe hij behoort, en dat:
 
-- 1°. een medische behandeling inhoudt die niet noodzakelijk is als gevolg van de gezondheidstoestand van de betrokken persoon en die niet in overeenstemming is met de algemeen aanvaarde medische normen welke onder gelijke medische omstandigheden zouden worden toegepast ten aanzien van personen die onderdaan zijn van de voor de handelingen verantwoordelijke partij en op geen enkele wijze van hun vrijheid zijn beroofd;
+   - 1°. een medische behandeling inhoudt die niet noodzakelijk is als gevolg van de gezondheidstoestand van de betrokken persoon en die niet in overeenstemming is met de algemeen aanvaarde medische normen welke onder gelijke medische omstandigheden zouden worden toegepast ten aanzien van personen die onderdaan zijn van de voor de handelingen verantwoordelijke partij en op geen enkele wijze van hun vrijheid zijn beroofd;
 
-- 2°. het uitvoeren op de betrokken persoon inhoudt, zelfs met diens toestemming, van lichamelijke verminkingen;
+   - 2°. het uitvoeren op de betrokken persoon inhoudt, zelfs met diens toestemming, van lichamelijke verminkingen;
 
-- 3°. het uitvoeren op de betrokken persoon inhoudt, zelfs met diens toestemming, van medische of wetenschappelijke experimenten; of
+   - 3°. het uitvoeren op de betrokken persoon inhoudt, zelfs met diens toestemming, van medische of wetenschappelijke experimenten; of
 
-- 4°. het uitvoeren op de betrokken persoon inhoudt, zelfs met diens toestemming, van verwijdering van weefsel of organen voor transplantatie;
+   - 4°. het uitvoeren op de betrokken persoon inhoudt, zelfs met diens toestemming, van verwijdering van weefsel of organen voor transplantatie;
 
 - c. de volgende feiten, wanneer zij opzettelijk en in strijd met de desbetreffende bepalingen van het Aanvullende Protocol (I) worden begaan en de dood of ernstig lichamelijk letsel met zich brengen dan wel de gezondheid in ernstige mate benadelen:
 
-- 1°. het doen van aanvallen op de burgerbevolking of individuele burgers;
+   - 1°. het doen van aanvallen op de burgerbevolking of individuele burgers;
 
-- 2°. het uitvoeren van een niet-onderscheidende aanval waardoor de burgerbevolking of burgerobjecten worden getroffen, in de wetenschap dat een zodanige aanval buitensporig verlies van mensenlevens, verwondingen van burgers of schade aan burgerobjecten zal veroorzaken;
+   - 2°. het uitvoeren van een niet-onderscheidende aanval waardoor de burgerbevolking of burgerobjecten worden getroffen, in de wetenschap dat een zodanige aanval buitensporig verlies van mensenlevens, verwondingen van burgers of schade aan burgerobjecten zal veroorzaken;
 
-- 3°. het uitvoeren van een aanval tegen werken of installaties die gevaarlijke krachten bevatten, in de wetenschap dat een zodanige aanval buitensporig verlies van mensenlevens, verwondingen van burgers of schade aan burgerobjecten zal veroorzaken;
+   - 3°. het uitvoeren van een aanval tegen werken of installaties die gevaarlijke krachten bevatten, in de wetenschap dat een zodanige aanval buitensporig verlies van mensenlevens, verwondingen van burgers of schade aan burgerobjecten zal veroorzaken;
 
-- 4°. het doen van aanvallen op onverdedigde plaatsen of gedemilitariseerde zones;
+   - 4°. het doen van aanvallen op onverdedigde plaatsen of gedemilitariseerde zones;
 
-- 5°. het doen van aanvallen op een persoon in de wetenschap dat hij buiten gevecht verkeert; of
+   - 5°. het doen van aanvallen op een persoon in de wetenschap dat hij buiten gevecht verkeert; of
 
-- 6°. het perfide gebruik, in strijd met artikel 37 van het Aanvullende Protocol (I), van het embleem van het rode kruis, de rode halve maan of van andere door de Verdragen van Genève of het Aanvullende Protocol (I) erkende beschermende tekens; of
+   - 6°. het perfide gebruik, in strijd met artikel 37 van het Aanvullende Protocol (I), van het embleem van het rode kruis, de rode halve maan of van andere door de Verdragen van Genève of het Aanvullende Protocol (I) erkende beschermende tekens; of
 
 - d. de volgende feiten, wanneer zij opzettelijk en in strijd met de Verdragen van Genève en het Aanvullende Protocol (I) worden begaan:
 
-- 1°. het overbrengen door de bezettende mogendheid van gedeelten van haar eigen burgerbevolking naar het door haar bezette gebied of de overbrenging van de gehele bevolking van het bezette gebied of van een deel daarvan binnen of buiten dat gebied in strijd met artikel 49 van het Vierde Verdrag van Genève;
+   - 1°. het overbrengen door de bezettende mogendheid van gedeelten van haar eigen burgerbevolking naar het door haar bezette gebied of de overbrenging van de gehele bevolking van het bezette gebied of van een deel daarvan binnen of buiten dat gebied in strijd met artikel 49 van het Vierde Verdrag van Genève;
 
-- 2°. ongerechtvaardigde vertraging bij de repatriëring van krijgsgevangenen of burgers;
+   - 2°. ongerechtvaardigde vertraging bij de repatriëring van krijgsgevangenen of burgers;
 
-- 3°. praktijken van apartheid of andere onmenselijke en onterende praktijken die een aanslag op de menselijke waardigheid vormen en zijn gebaseerd op rassendiscriminatie;
+   - 3°. praktijken van apartheid of andere onmenselijke en onterende praktijken die een aanslag op de menselijke waardigheid vormen en zijn gebaseerd op rassendiscriminatie;
 
-- 4°. het doen van aanvallen op duidelijk als zodanig herkenbare historische monumenten, kunstwerken of plaatsen van godsdienstige verering die het culturele of geestelijke erfdeel van de volkeren vormen en waaraan bijzondere bescherming is verleend door een speciale regeling, bijvoorbeeld in het kader van een bevoegde internationale organisatie, wanneer daarvan verwoesting op grote schaal het gevolg is, er geen bewijs bestaat van schending door de tegenpartij van artikel 53, letter b, van het Aanvullende Protocol (I) en wanneer zodanige historische monumenten, kunstwerken of plaatsen waar godsdienstoefeningen worden gehouden niet in de onmiddellijke nabijheid van militaire doelen zijn gelegen; of
+   - 4°. het doen van aanvallen op duidelijk als zodanig herkenbare historische monumenten, kunstwerken of plaatsen van godsdienstige verering die het culturele of geestelijke erfdeel van de volkeren vormen en waaraan bijzondere bescherming is verleend door een speciale regeling, bijvoorbeeld in het kader van een bevoegde internationale organisatie, wanneer daarvan verwoesting op grote schaal het gevolg is, er geen bewijs bestaat van schending door de tegenpartij van artikel 53, letter b, van het Aanvullende Protocol (I) en wanneer zodanige historische monumenten, kunstwerken of plaatsen waar godsdienstoefeningen worden gehouden niet in de onmiddellijke nabijheid van militaire doelen zijn gelegen; of
 
-- 5°. het ontnemen van het recht van een persoon die door de Verdragen van Genève of artikel 85, tweede lid, van het Aanvullende Protocol (I) wordt beschermd om eerlijk en volgens de toepasselijke regels te worden berecht,
+   - 5°. het ontnemen van het recht van een persoon die door de Verdragen van Genève of artikel 85, tweede lid, van het Aanvullende Protocol (I) wordt beschermd om eerlijk en volgens de toepasselijke regels te worden berecht,
 
 wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de zesde categorie.
 
@@ -274,7 +244,7 @@ wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste der
 
 - n. opzettelijk aanvallen richten op gebouwen, materieel, medische eenheden en transport, alsmede personeel dat overeenkomstig internationaal recht gebruik maakt van de emblemen van de Verdragen van Genève;
 
-- o. opzettelijk aanvallen richten op personeel, installaties, materieel, eenheden of voertuigen, betrokken bij humanitaire hulpverlening of vredesmissies overeenkomstig het [Handvest van de Verenigde Naties](onbekend), zolang deze recht hebben op de bescherming die aan burgers of burgerobjecten wordt verleend krachtens het internationale recht inzake gewapende conflicten;
+- o. opzettelijk aanvallen richten op personeel, installaties, materieel, eenheden of voertuigen, betrokken bij humanitaire hulpverlening of vredesmissies overeenkomstig het Handvest van de Verenigde Naties, zolang deze recht hebben op de bescherming die aan burgers of burgerobjecten wordt verleend krachtens het internationale recht inzake gewapende conflicten;
 
 - p. opzettelijk aanvallen richten op gebouwen, bestemd voor godsdienst, onderwijs, kunst, wetenschap of charitatieve doeleinden, historische monumenten, ziekenhuizen en plaatsen waar zieken en gewonden worden samengebracht, mits deze geen militair doelwit zijn;
 
@@ -384,7 +354,7 @@ wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete v
 
 ##### Artikel 7
 
-1. Hij die zich in het geval van een internationaal of niet-internationaal gewapend conflict schuldig maakt aan een schending van de wetten en gebruiken van de oorlog anders dan bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01) wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. Hij die zich in het geval van een internationaal of niet-internationaal gewapend conflict schuldig maakt aan een schending van de wetten en gebruiken van de oorlog anders dan bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01) wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
 2. Gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie wordt opgelegd:
 
@@ -408,21 +378,55 @@ wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete v
 
 - b. hij die foltering pleegt, indien een ambtenaar of een anderszins ten dienste van de overheid werkzame persoon in de uitoefening van zijn functie zulks door een der in [artikel 47, eerste lid, onder 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=47) vermelde middelen heeft uitgelokt of zulks opzettelijk heeft toegelaten.
 
+##### Artikel 8a
+
+1. Hij die zich schuldig maakt aan gedwongen verdwijning van een persoon, bedoeld in [artikel 4, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=4&z=2020-01-01&g=2020-01-01), wordt gestraft met een gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
+
+2. Indien een feit als bedoeld in het eerste lid:
+
+- a. de dood of zwaar lichamelijk letsel van de persoon ten gevolge heeft dan wel verkrachting inhoudt;
+
+- b. geweldpleging in vereniging tegen een persoon dan wel geweldpleging tegen een zieke of gewonde inhoudt;
+
+- c. een zwangere vrouw, een minderjarige, een persoon met een handicap of een ander bijzonder kwetsbaar persoon betreft;
+
+- d. een groep van personen betreft, wordt de schuldige gestraft met levenslange gevangenisstraf of tijdelijke gevangenisstraf van ten hoogste dertig jaren of geldboete van de zesde categorie.
+
+##### Artikel 8b
+
+1. Hij die, in de positie verkerende daadwerkelijk controle uit te oefenen over of leiding te geven aan het politieke of militaire optreden van een staat, een daad van agressie die door zijn aard, ernst en schaal een onmiskenbare schending vormt van het Handvest van de Verenigde Naties, plant, voorbereidt, in gang zet of uitvoert, wordt als schuldig aan het misdrijf agressie gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de zesde categorie.
+
+2. Voor de toepassing van het eerste lid wordt verstaan onder «daad van agressie»: het gebruik van wapengeweld door een staat tegen de soevereiniteit, territoriale integriteit of politieke onafhankelijkheid van een andere staat, of het gebruik van wapengeweld door een staat dat op enige andere wijze onverenigbaar is met het Handvest van de Verenigde Naties. Elk van de volgende handelingen wordt, ongeacht of er een oorlogsverklaring is, in ieder geval als een daad van agressie aangemerkt:
+
+- a. de invasie of aanval door de strijdkrachten van een staat van respectievelijk op het grondgebied van een andere staat, of een militaire bezetting, ook als deze van tijdelijke aard is, die het gevolg is van een dergelijke invasie of aanval, of de annexatie door middel van geweld van het grondgebied van een andere staat of deel daarvan;
+
+- b. het bombarderen door de strijdkrachten van een staat van het grondgebied van een andere staat of het gebruik van enig wapen door een staat tegen het grondgebied van een andere staat;
+
+- c. de blokkade van de havens of kusten van een staat door de strijdkrachten van een andere staat;
+
+- d. een aanval door de strijdkrachten van een staat op de land-, zee- of luchtstrijdkrachten of de zee- en luchtvloot van een andere staat;
+
+- e. de inzet van strijdkrachten van een staat die met instemming van een andere staat aanwezig zijn op het grondgebied van die staat, in strijd met de voorwaarden vervat in de daarop betrekking hebbende overeenkomst of een verlenging van hun aanwezigheid op dit grondgebied na het verstrijken van de overeenkomst;
+
+- f. het feit dat een staat toestaat dat zijn grondgebied, dat hij aan een andere staat ter beschikking heeft gesteld, door die andere staat wordt gebruikt om een daad van agressie te plegen tegen een derde staat;
+
+- g. het sturen door of namens een staat van gewapende bendes, groepen, ongeordende troepen of huurlingen, die met wapengeweld gepaard gaande handelingen plegen tegen een andere staat die zo ernstig zijn dat zij gelijkstaan met de hierboven genoemde handelingen, of die daar in aanzienlijke mate bij betrokken zijn.
+
 #### § 3. Uitbreiding van de strafbaarheid
 
 ##### Artikel 9
 
-1. Met gelijke straf als gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2020-01-01&g=2020-01-01) en in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), bedoelde feiten wordt gestraft de meerdere die:
+1. Met gelijke straf als gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2020-01-01&g=2020-01-01) en in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), bedoelde feiten wordt gestraft de meerdere die:
 
 - a. opzettelijk toelaat dat een aan hem ondergeschikte een zodanig feit begaat;
 
 - b. opzettelijk nalaat maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte een zodanig feit heeft gepleegd of voornemens is te plegen.
 
-2. Met een straf van ten hoogste twee derde van het maximum van de hoofdstraffen, gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2020-01-01&g=2020-01-01) en in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), bedoelde feiten, wordt gestraft hij die door zijn schuld verzuimt maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte, naar hij redelijkerwijs moet vermoeden, een zodanig feit heeft gepleegd of voornemens is te plegen.
+2. Met een straf van ten hoogste twee derde van het maximum van de hoofdstraffen, gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2020-01-01&g=2020-01-01) en in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), bedoelde feiten, wordt gestraft hij die door zijn schuld verzuimt maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte, naar hij redelijkerwijs moet vermoeden, een zodanig feit heeft gepleegd of voornemens is te plegen.
 
 3. Indien in het geval bedoeld in het tweede lid op het feit levenslange gevangenisstraf is gesteld, wordt gevangenisstraf opgelegd van ten hoogste vijftien jaren.
 
-#### § 3. Uitbreiding van de strafbaarheid
+#### § 4. Algemene bepalingen van strafrecht en strafprocesrecht
 
 ##### Artikel 10
 
@@ -462,48 +466,6 @@ Strafvervolging voor een der in deze wet omschreven misdrijven is uitgesloten te
 
 #### § 4a. Bonaire, Sint Eustatius en Saba
 
-##### Artikel 17
-
-Wijzigt de Wet Oorlogsstrafrecht.
-
-##### Artikel 18
-
-Wijzigt het Wetboek van Strafrecht.
-
-##### Artikel 18a
-
-Wijzigt de Wet overlevering inzake oorlogsmisdrijven.
-
-#### § 6. Slotbepalingen
-
-##### Artikel 19
-
-De [Uitvoeringswet genocideverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002453) wordt ingetrokken.
-
-##### Artikel 20
-
-De [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409) wordt ingetrokken.
-
-##### Artikel 21
-
-1. Wanneer op het tijdstip van inwerkingtreding van deze wet ter zake van genocide, foltering of een misdrijf dat overeenkomt met een misdrijf als omschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01)[of 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2020-01-01&g=2020-01-01), overeenkomstig het oude recht reeds vervolging is ingesteld bij een andere rechter dan bedoeld in [artikel 15 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2020-01-01&g=2020-01-01), wordt de zaak bij dezelfde rechter voortgezet.
-
-2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2020-01-01&g=2020-01-01) is mede van toepassing op feiten, strafbaar gesteld in de [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409) en gepleegd voor het tijdstip van inwerkingtreding van deze wet, tenzij het feit op dat tijdstip reeds is verjaard.
-
-3. [Artikel 16g](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4a&artikel=16g&z=2020-01-01&g=2020-01-01) is mede van toepassing op feiten, ter uitvoering van het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing ( **Trb.** 1985, 69) strafbaar gesteld op grond van de Nederlands-Antilliaanse strafwet en gepleegd voor het tijdstip van transitie bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), tenzij het feit op dat tijdstip reeds is verjaard.
-
-4. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=2&z=2020-01-01&g=2020-01-01) is van toepassing op het misdrijf genocide dat is begaan op of na 24 oktober 1970.
-
-##### Artikel 22
-
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 23
-
-Deze wet wordt aangehaald als: Wet internationale misdrijven.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 16a
 
 Onverminderd de overige artikelen van deze paragraaf is deze wet mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
@@ -534,68 +496,46 @@ In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&pa
 
 #### § 5. Wijziging van andere wetten
 
-#### § 6. Slotbepalingen
+##### Artikel 17
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Wijzigt de Wet Oorlogsstrafrecht.*
 
-##### Artikel 8a
+##### Artikel 18
 
-1. Hij die zich schuldig maakt aan gedwongen verdwijning van een persoon, bedoeld in [artikel 4, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=4&z=2020-01-01&g=2020-01-01), wordt gestraft met een gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
+*Wijzigt het Wetboek van Strafrecht.*
 
-2. Indien een feit als bedoeld in het eerste lid:
+##### Artikel 18a
 
-- a. de dood of zwaar lichamelijk letsel van de persoon ten gevolge heeft dan wel verkrachting inhoudt;
-
-- b. geweldpleging in vereniging tegen een persoon dan wel geweldpleging tegen een zieke of gewonde inhoudt;
-
-- c. een zwangere vrouw, een minderjarige, een persoon met een handicap of een ander bijzonder kwetsbaar persoon betreft;
-
-- d. een groep van personen betreft, wordt de schuldige gestraft met levenslange gevangenisstraf of tijdelijke gevangenisstraf van ten hoogste dertig jaren of geldboete van de zesde categorie.
-
-#### § 3. Uitbreiding van de strafbaarheid
-
-#### § 4. Algemene bepalingen van strafrecht en strafprocesrecht
-
-#### § 4a. Bonaire, Sint Eustatius en Saba
-
-#### § 5. Wijziging van andere wetten
+*Wijzigt de Wet overlevering inzake oorlogsmisdrijven.*
 
 #### § 6. Slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 19
+
+De [Uitvoeringswet genocideverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002453) wordt ingetrokken.
+
+##### Artikel 20
+
+De [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409) wordt ingetrokken.
+
+##### Artikel 21
+
+1. Wanneer op het tijdstip van inwerkingtreding van deze wet ter zake van genocide, foltering of een misdrijf dat overeenkomt met een misdrijf als omschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01)[of 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2020-01-01&g=2020-01-01), overeenkomstig het oude recht reeds vervolging is ingesteld bij een andere rechter dan bedoeld in [artikel 15 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2020-01-01&g=2020-01-01), wordt de zaak bij dezelfde rechter voortgezet.
+
+2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2020-01-01&g=2020-01-01) is mede van toepassing op feiten, strafbaar gesteld in de [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409) en gepleegd voor het tijdstip van inwerkingtreding van deze wet, tenzij het feit op dat tijdstip reeds is verjaard.
+
+3. [Artikel 16g](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4a&artikel=16g&z=2020-01-01&g=2020-01-01) is mede van toepassing op feiten, ter uitvoering van het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing ( *Trb.* 1985, 69) strafbaar gesteld op grond van de Nederlands-Antilliaanse strafwet en gepleegd voor het tijdstip van transitie bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), tenzij het feit op dat tijdstip reeds is verjaard.
+
+4. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=2&z=2020-01-01&g=2020-01-01) is van toepassing op het misdrijf genocide dat is begaan op of na 24 oktober 1970.
 
 ##### Artikel 21a
 
-In geval van strafvervolging voor een van de in deze wet, de [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409), de [Uitvoeringswet genocideverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002453), dan wel de [Wet oorlogsstrafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002099) omschreven misdrijven begaan voor 1 april 1995, zijn de bepalingen van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) betreffende het slachtoffer en de benadeelde partij van toepassing.
+In geval van strafvervolging voor een van de in deze wet, de [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409), de [Uitvoeringswet genocideverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002453), dan wel de [Wet oorlogsstrafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002099) omschreven misdrijven begaan voor 1 april 1995, zijn de bepalingen van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) betreffende het slachtoffer en de benadeelde partij van toepassing.
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 22
 
-##### Artikel 8b
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-1. Hij die, in de positie verkerende daadwerkelijk controle uit te oefenen over of leiding te geven aan het politieke of militaire optreden van een staat, een daad van agressie die door zijn aard, ernst en schaal een onmiskenbare schending vormt van het Handvest van de Verenigde Naties, plant, voorbereidt, in gang zet of uitvoert, wordt als schuldig aan het misdrijf agressie gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de zesde categorie.
+##### Artikel 23
 
-2. Voor de toepassing van het eerste lid wordt verstaan onder «daad van agressie»: het gebruik van wapengeweld door een staat tegen de soevereiniteit, territoriale integriteit of politieke onafhankelijkheid van een andere staat, of het gebruik van wapengeweld door een staat dat op enige andere wijze onverenigbaar is met het Handvest van de Verenigde Naties. Elk van de volgende handelingen wordt, ongeacht of er een oorlogsverklaring is, in ieder geval als een daad van agressie aangemerkt:
-
-- a. de invasie of aanval door de strijdkrachten van een staat van respectievelijk op het grondgebied van een andere staat, of een militaire bezetting, ook als deze van tijdelijke aard is, die het gevolg is van een dergelijke invasie of aanval, of de annexatie door middel van geweld van het grondgebied van een andere staat of deel daarvan;
-
-- b. het bombarderen door de strijdkrachten van een staat van het grondgebied van een andere staat of het gebruik van enig wapen door een staat tegen het grondgebied van een andere staat;
-
-- c. de blokkade van de havens of kusten van een staat door de strijdkrachten van een andere staat;
-
-- d. een aanval door de strijdkrachten van een staat op de land-, zee- of luchtstrijdkrachten of de zee- en luchtvloot van een andere staat;
-
-- e. de inzet van strijdkrachten van een staat die met instemming van een andere staat aanwezig zijn op het grondgebied van die staat, in strijd met de voorwaarden vervat in de daarop betrekking hebbende overeenkomst of een verlenging van hun aanwezigheid op dit grondgebied na het verstrijken van de overeenkomst;
-
-- f. het feit dat een staat toestaat dat zijn grondgebied, dat hij aan een andere staat ter beschikking heeft gesteld, door die andere staat wordt gebruikt om een daad van agressie te plegen tegen een derde staat;
-
-- g. het sturen door of namens een staat van gewapende bendes, groepen, ongeordende troepen of huurlingen, die met wapengeweld gepaard gaande handelingen plegen tegen een andere staat die zo ernstig zijn dat zij gelijkstaan met de hierboven genoemde handelingen, of die daar in aanzienlijke mate bij betrokken zijn.
-
-#### § 4. Algemene bepalingen van strafrecht en strafprocesrecht
-
-#### § 4a. Bonaire, Sint Eustatius en Saba
-
-#### § 5. Wijziging van andere wetten
-
-#### § 6. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet wordt aangehaald als: Wet internationale misdrijven.

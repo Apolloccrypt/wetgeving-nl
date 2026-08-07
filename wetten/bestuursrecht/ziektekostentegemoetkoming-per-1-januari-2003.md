@@ -1,42 +1,21 @@
 ---
 title: "Ziektekostentegemoetkoming per 1 januari 2003"
 identifier: "BWBR0014975"
-country: "nl"
-rank: "circulaire"
-publication_date: "2003-01-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014975"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6395383"
-version_id: "11057622"
-internal_id: "C14962741"
-label_id: "6384234"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014975/2003-01-01/0"
-intitule_bron: "Stcrt.2003-84"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-04-14"
-intitule_published: "2003-05-02"
-intitule_in_force: "2003-05-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-84"
-original_signed_date: "2003-04-14"
-original_published_date: "2003-05-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-084-p10-SC39783"
-entry_into_force_date: "2003-01-01"
-jci_1_3: "jci1.3:c:BWBR0014975&z=2003-01-01&g=2003-01-01"
-jci_1_0: "1.0:c:BWBR0014975&g=2003-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2003-04-14"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2003-01-01
+status: geldig
+toestand: 2003-01-01
+bron: "https://wetten.overheid.nl/BWBR0014975"
+opgehaald: 2026-08-07
 ---
+
 # Ziektekostentegemoetkoming per 1 januari 2003
 
 ### I. Samenvatting
 
-In deze circulaire wordt het niveau van de tegemoetkoming in de ziektekosten op basis van het [Besluit tegemoetkoming ziektekosten rijkspersoneel](onbekend) (Btzr) vanaf 1 januari 2003 bekendgemaakt.
+In deze circulaire wordt het niveau van de tegemoetkoming in de ziektekosten op basis van het Besluit tegemoetkoming ziektekosten rijkspersoneel (Btzr) vanaf 1 januari 2003 bekendgemaakt.
 
 ### II. Inleiding
 
@@ -50,4 +29,8 @@ De MOOZ-bijdrage en de WTZ-bijdrage zijn voor het jaar 2003 vastgesteld op € 9
 
 Het bedrag van de tegemoetkoming per maand is vanaf 1 januari 2003:
 
-Ik verzoek u met het bovenstaande rekening te houden. Inlichtingen uitsluitend voor afdelingen Personeelszaken van geadresseerden bij mevrouw Van Ogtrop respectievelijk het secretariaat van de afdeling Pensioenen, Sociale Zekerheid en Zorg (telefoon 070-426 6900, respectievelijk 426 6996).
+- a. Voor (mede-)betrokkenen (bedoeld in [artikel 4a, tweede lid, onder a, Btzr](https://wetten.overheid.nl/jci1.3:c:BWBR0006855&artikel=4a)): € 67,59 (= € 4,00 MOOZ + € 13,36 WTZ + € 50,23 premie).
+
+- b. Voor medebetrokkenen kinderen jonger dan 16 jaar (bedoeld in [artikel 4a, tweede lid, onder b, Btzr](https://wetten.overheid.nl/jci1.3:c:BWBR0006855&artikel=4a)): € 33,79 (= € 2,00 MOOZ + € 6,68 WTZ + € 25,11 premie).
+
+- c. Voor medebetrokken kinderen van 16 tot en met 26 jaar (bedoeld in [artikel 4a, tweede lid, onder c, Btzr](https://wetten.overheid.nl/jci1.3:c:BWBR0006855&artikel=4a)): € 42,47 (= € 4,00 MOOZ + € 13,36 WTZ + € 25,11 premie).

@@ -1,37 +1,34 @@
 ---
 title: "Omzetbelasting, heffing van omzetbelasting ten aanzien van factoorsovereenkomsten"
 identifier: "BWBR0015555"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2017-01-01"
-last_updated: "2003-09-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015555"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8450773"
-version_id: "13330612"
-internal_id: "C17903091"
-label_id: "8431324"
-dtd_version: "2.0"
-original_entry_into_force: "2003-09-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015555/2017-01-01/0"
-intitule_bron: "Infob.2003-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-09-05"
-intitule_published: "2003-01-01"
-intitule_in_force: "2003-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2003-9"
-original_signed_date: "2003-09-05"
-original_published_date: "2003-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-09-05"
-jci_1_3: "jci1.3:c:BWBR0015555&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0015555&g=2017-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2003-09-05"
-entry_into_force: "2003-09-05"
+publicatiedatum: 2003-09-05
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0015555"
+opgehaald: 2026-08-07
 ---
+
 # Omzetbelasting, heffing van omzetbelasting ten aanzien van factoorsovereenkomsten
 
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+- 1. Bij besluit van 2 augustus 1983, nr. 283-3376, is aangegeven hoe de artikelen 11 en 29 van de Wet op de omzetbelasting 1968 (Wet) ten aanzien van factoorsovereenkomsten dienen te worden toegepast. Gelet op het arrest van het Europese Hof van Justitie van 26 juni 2003, zaak C-305/01, (MKG-GmbH; V-N 2003/34.13), is het nodig dit besluit aan te passen. Tevens is van de gelegenheid gebruik gemaakt om de uitspraak van het Gerechtshof te ’s-Gravenhage van 31 juli 1996, nr. 95/1799 (V-N 1996/61.25), en de betekenis van die uitspraak voor het onderhavige besluit, te memoreren. Per 1 januari 2017 wijzigt artikel 29 van de Wet. Bij die wetswijziging wordt de zogenoemde indeplaatstreding geïntroduceerd. Die regeling houdt in dat als een ondernemer een vordering (geheel of gedeeltelijk) overdraagt aan een andere ondernemer (bijvoorbeeld een factoor), deze andere ondernemer op het tijdstip van overdracht voor de toepassing van artikel 29, van de Wet, in de plaats treedt van de ondernemer die de vordering overdraagt. Dit heeft tot gevolg dat de goedkeuring in onderdeel 5 van dit besluit vanaf 1 januari 2017 geen belang meer heeft voor vorderingen die de factoor ná 31 december 2016 overneemt. Voor deze vorderingen geldt de indeplaatstreding. In verband met deze wetswijziging pas ik de goedkeuring met ingang van 1 januari 2017 aan.
+
+- 2. Als factoorsovereenkomst is te beschouwen de overeenkomst op basis waarvan een ondernemer (de factoor) door hem goedgekeurde schuldvorderingen (categorieën van schuldvorderingen c.q. schuldvorderingen op bepaalde debiteuren) van een derde (zijn cliënt) overneemt, al dan niet op het moment van het ontstaan van de schuldvorderingen, en vervolgens de financiële verrichtingen strekkende tot het verkrijgen van betaling van die vorderingen verricht. Hierbij maakt het geen verschil of al dan niet een voorbehoud wordt gemaakt voor het geval de overgenomen schuldvorderingen geheel of gedeeltelijk oninbaar zouden blijken te zijn, met andere woorden of met de schuldvorderingen ook het debiteurenrisico wordt overgenomen. De factoor berekent aan zijn cliënt een vergoeding, bestaande uit het verschil tussen de nominale waarde van de overgenomen schuldvorderingen en het bedrag dat de factoor voor die schuldvorderingen aan de cliënt betaalt. Dit zogenaamde factoorsloon wordt uitgedrukt in een percentage van de nominale waarde van de overgenomen debiteurenportefeuille. Omdat de hier bedoelde werkzaamheden van de factoor tot wezenlijk doel hebben de schuldvorderingen van een derde in te vorderen, vallen deze werkzaamheden binnen het meer algemene begrip invordering van schuldvorderingen, ongeacht de wijze waarop zij wordt verricht. Hierom en ook omdat deze werkzaamheden duidelijk meer omvatten dan het enkel verlenen van krediet, zijn zij uitgesloten van de vrijstelling van artikel 11, eerste lid, onderdeel j, van de Wet. Aangezien evenmin sprake is van een verzekeringsovereenkomst, is ook de vrijstelling van onderdeel k van genoemd artikellid niet van toepassing. Een en ander brengt mee, dat de factoor over het factoorsloon omzetbelasting verschuldigd is naar het algemene tarief. Geen factoorsovereenkomst in de hiervoor bedoelde zin betreft de incidentele overname van een of meerdere schuldvorderingen uit bijvoorbeeld een faillissement. Een dergelijke overname berust immers niet op een doorlopende overeenkomst zoals dat bij een factoorsovereenkomst het geval is.
+
+- 3. De aanspraak op teruggaaf van omzetbelasting als bedoeld in artikel 29, eerste lid, van de Wet ontstaat pas zodra zich een van de in dat artikel vermelde omstandigheden voordoet. Naar het voorkomt bestaat bedoelde aanspraak nog niet op het moment dat de vordering tegelijk met het ontstaan daarvan op grond van de factoorsovereenkomst aan de factoor wordt overgedragen, zodat eerder bedoelde aanspraak niet in die overdracht kan zijn begrepen. Uit de geschiedenis van de totstandkoming van de onderhavige wetsbepaling moet overigens ook worden afgeleid, dat de wetgever slechts de bedoeling heeft gehad meerbedoelde aanspraak op teruggaaf, welke niet accessoir aan de vordering is, aan de leverancier te laten toekomen en niet aan degene die de desbetreffende vordering eventueel heeft overgenomen. Evenmin bestaat aanleiding te veronderstellen dat de factoor uit eigen hoofde aanspraak op teruggaaf van belasting zou verkrijgen zodra een van de in artikel 29, eerste lid, van de Wet genoemde omstandigheden zich voordoet. Daarbij dient bedacht te worden, dat de vordering voor de factoor een ondeelbaar bedrag is, waarin niet een afzonderlijk bestanddeel aan omzetbelasting is te onderkennen.
+
+- 4. Bij het vorenstaande kan overigens nog de vraag worden gesteld, of de omstandigheid dat de leverancier een bedrag ter grootte van de vordering van de factoor heeft ontvangen, aan toepassing van het eerste lid, onderdeel a, van artikel 29 van de Wet ten aanzien van de leverancier niet in de weg staat. Aangezien de leverancier bedoeld bedrag niet ter zake van de door hem verrichte levering heeft ontvangen, maar op grond van de nader met de factoor gesloten overeenkomst ben ik van oordeel dat bedoelde omstandigheid bij de toepassing van genoemd artikel 29 buiten beschouwing dient te worden gelaten.
+
+- 5. Hoewel het civiele recht de crediteur wel mogelijkheden biedt om zijn uit artikel 29, eerste lid, van de Wet voortvloeiende aanspraak op teruggaaf aan de factoor over te dragen – hierbij ware te denken aan cessie, subrogatie of subjectieve novatie – moet worden aangenomen dat partijen, gelet op het karakter van de desbetreffende rechtsfiguren, in de praktijk slechts bij uitzondering in staat zullen zijn een rechtsgeldige overdracht van bedoelde aanspraak tot stand te brengen. Niettemin zijn er met name praktische redenen aan te voeren om de factoor de mogelijkheid te geven op eigen initiatief de toepassing van artikel 29, eerste lid, van de Wet in te roepen. In de eerste plaats beschikt deze over betere informatie met betrekking tot de solvabiliteit van de debiteuren en zal de crediteur doorgaans niet zelf in staat zijn de oninbaarheid van de vordering aan te tonen. Voorts zal ook het teruggeven van omzetbelasting aan de factoor zelf een aantal moeilijkheden met betrekking tot de verrekening daarvan tussen hem en de crediteur kunnen voorkomen. Daarom keur ik met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) het volgende goed. Goedkeuring Ik keur onder de volgende drie voorwaarden goed dat de factoor namens de crediteur verzoeken indient om teruggaaf op de voet van artikel 29, eerste lid, van de Wet en dat het in de teruggaafbeschikking genoemde bedrag aan de factoor wordt uitbetaald. Voorwaarden Voor deze goedkeuring gelden de volgende drie voorwaarden: De door de inspecteur op te maken teruggaafbeschikking wordt afgegeven op naam van de crediteur maar wordt verzonden aan de gemachtigde factoor. Op grond van de verleende machtiging kan het in de teruggaafbeschikking genoemde bedrag aan de factoor worden uitbetaald. Dit laat echter onverlet dat het de ontvanger, indien hij een vordering heeft op de in de teruggaafbeschikking genoemde belanghebbende (de crediteur), behoudens een eventuele rechtsgeldige cessie vrij staat het bedrag van de teruggaaf met die vordering te verrekenen.
+
+   - a. De factoor heeft de vordering vóór 1 januari 2017 overgenomen;
+
+   - b. De crediteur machtigt de factoor om namens hem het verzoek te doen. Dit kan door medeondertekening van het verzoek of door het overleggen van een afzonderlijk geschrift dat bij de indiening van het verzoek wordt overgelegd (in het laatste geval kan de machtiging voor langere tijd gelden);
+
+   - c. De factoor dient het verzoek in bij de voor de crediteur competente inspecteur.
+
+- 6. Bovenstaande toepassing van artikel 29, eerste lid, van de Wet ten aanzien van de factoor laat onverlet de eventuele toepasselijkheid van het tweede lid van dat artikel bij de afnemer. Anders dan het geval was in de uitspraak van het Gerechtshof ’s-Gravenhage van 31 juli 1996, nr. 95/1799 (V-N 1996/61.25), waarbij een inkoopcombinatie de schuldvordering aan de crediteur geheel voldeed en dus de situatie van artikel 29, tweede lid, van de Wet, zich niet kon voordoen, wordt bij de overdracht van een schuldvordering aan een factoor die vordering als zodanig nog niet voldaan. Dit houdt in, dat wanneer op een bepaald tijdstip na de overdracht van de schuldvordering aan de factoor komt vast te staan dat de afnemer de schuldvordering geheel of gedeeltelijk niet zal voldoen, de afnemer alsdan de ter zake van die schuldvordering in aftrek gebrachte omzetbelasting verschuldigd wordt op grond van artikel 29, tweede lid, van de Wet.
+
+- 7. Het Besluit van 2 augustus 1983, nr. 283-3376, heeft zijn belang verloren en wordt hierbij ingetrokken.

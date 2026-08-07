@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 17 december 2003, AGT2003-2237N, houdende bepalingen ter zake van schuldregisters voor geldleningen ten laste van het Rijk (Regeling schuldregisters Nederlandse staatsleningen 2003)"
+citeertitel: "Regeling schuldregisters Nederlandse staatsleningen 2003"
 identifier: "BWBR0016174"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-05-01"
-last_updated: "2004-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016174"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5652793"
-version_id: "10141742"
-internal_id: "C13687591"
-label_id: "5633314"
-original_entry_into_force: "2004-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016174/2004-05-01/0"
-intitule_bron: "Stcrt.2004-16"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-12-17"
-intitule_published: "2004-01-26"
-intitule_in_force: "2004-01-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-16"
-original_signed_date: "2003-12-17"
-original_published_date: "2004-01-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-16-p13-SC63360"
-entry_into_force_date: "2004-05-01"
-jci_1_3: "jci1.3:c:BWBR0016174&z=2004-05-01&g=2004-05-01"
-jci_1_0: "1.0:c:BWBR0016174&g=2004-05-01"
-citeertitel_status: "officieel"
-short_title: "Regeling schuldregisters Nederlandse staatsleningen 2003"
-signed_date: "2003-12-17"
-entry_into_force: "2004-05-01"
+publicatiedatum: 2004-05-01
+laatste_update: 2004-05-01
+status: geldig
+toestand: 2004-05-01
+bron: "https://wetten.overheid.nl/BWBR0016174"
+opgehaald: 2026-08-07
 ---
+
 # Regeling van de Minister van Financiën van 17 december 2003, AGT2003-2237N, houdende bepalingen ter zake van schuldregisters voor geldleningen ten laste van het Rijk (Regeling schuldregisters Nederlandse staatsleningen 2003)
-
-Gelet op [artikel 1 van de Wet van 13 januari 1949, houdende instelling schuldregisters voor geldleningen ten laste van het Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002045&artikel=1) (Stb. J 23), en de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002053&artikel=1) en [7 van de Wet van 30 november 1949, houdende regelen nopens het beheer van schuldregisters voor geldleningen ten laste van het Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002053&artikel=7) (Stb. J 529);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -104,5 +79,3 @@ Deze regeling treedt in werking met ingang van de eerste dag van de vierde kalen
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: ‘Regeling schuldregisters Nederlandse staatsleningen 2003’.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-05
 status: geldig
 toestand: 2026-08-05
 bron: "https://wetten.overheid.nl/BWBR0051766"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 7 november 2025, nr. BZ2521757, tot vaststelling van een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 in het kader van het Subsidieprogramma Support International Business 2022–2026 (Vijfde openstelling en subsidieplafond beleidsregels Subsidieprogramma Support International Business 2022–2026)

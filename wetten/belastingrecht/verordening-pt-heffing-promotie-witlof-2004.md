@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van het ProductschapTuinbouw van 1 juli 2003, houdende de vaststelling van een heffing over de teelt van witlof bestemd voor de promotie van witlof, voor het jaar 2004 (Verordening PT heffing promotie witlof 2004)"
+citeertitel: "Verordening PT heffing promotie witlof 2004"
 identifier: "BWBR0015317"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-11-27"
-last_updated: "2004-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015317"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6733783"
-version_id: "11589082"
-internal_id: "C29135371"
-label_id: "6722214"
-original_entry_into_force: "2004-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015317/2004-11-27/0"
-intitule_bron: "Vbbo.2004-69"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-07-01"
-intitule_published: "2004-11-26"
-intitule_in_force: "2004-11-26"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-69"
-original_signed_date: "2003-07-01"
-original_published_date: "2004-11-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-11-27"
-jci_1_3: "jci1.3:c:BWBR0015317&z=2004-11-27&g=2004-11-27"
-jci_1_0: "1.0:c:BWBR0015317&g=2004-11-27"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing promotie witlof 2004"
-signed_date: "2003-07-01"
-entry_into_force: "2004-11-27"
+publicatiedatum: 2004-11-27
+laatste_update: 2004-11-27
+status: geldig
+toestand: 2004-11-27
+bron: "https://wetten.overheid.nl/BWBR0015317"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van het bestuur van het ProductschapTuinbouw van 1 juli 2003, houdende de vaststelling van een heffing over de teelt van witlof bestemd voor de promotie van witlof, voor het jaar 2004 (Verordening PT heffing promotie witlof 2004)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=15) en [19 van het Instellingsbesluit Productschap Tuinbouw](onbekend);
-
-gehoord de Sectorcommissie voor groenten en fruit, d.d. 26 juni 2003;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -81,7 +53,7 @@ BESLUIT:
 
 ##### Artikel 4
 
-Indien de heffingsplichtige de gegevens die hem krachtens de [Verordening PT algemene bepalingen](onbekend), ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
+Indien de heffingsplichtige de gegevens die hem krachtens de Verordening PT algemene bepalingen, ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
 
 ##### Artikel 5
 
@@ -127,7 +99,7 @@ De invorderingskosten voortvloeiend uit het niet betalen binnen de termijn als b
 
 ##### Artikel 10
 
-De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten als bedoeld in de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015317&paragraaf=4&artikel=5&z=2004-11-27&g=2004-11-27)**.**
+De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten als bedoeld in de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015317&paragraaf=4&artikel=5&z=2004-11-27&g=2004-11-27)*.*
 
 ##### Artikel 11
 
@@ -141,10 +113,8 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 
 Deze verordening treedt in werking op 1 januari 2004.
 
-- 1. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2003, treedt zij in werking met ingang van de dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2004.
+- 1 Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2003, treedt zij in werking met ingang van de dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2004.
 
 ##### Artikel 13
 
 Deze verordening wordt aangehaald als: Verordening PT heffing promotie witlof 2004.
-
-De verordening en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

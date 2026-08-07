@@ -1,41 +1,23 @@
 ---
 title: "Mededelingen over de eindexamens 2004 voor vwo, havo, vmbo en vavo (septembermededeling)"
 identifier: "BWBR0015615"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-10-08"
-last_updated: "2003-10-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015615"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6499953"
-version_id: "11188162"
-internal_id: "C15116421"
-label_id: "6490094"
-original_entry_into_force: "2003-10-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015615/2003-10-08/0"
-intitule_bron: "Uitleg.2003-22/23"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-09-23"
-intitule_published: "2003-10-08"
-intitule_in_force: "2003-10-08"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-22/23"
-original_signed_date: "2003-09-23"
-original_published_date: "2003-10-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-10-08"
-jci_1_3: "jci1.3:c:BWBR0015615&z=2003-10-08&g=2003-10-08"
-jci_1_0: "1.0:c:BWBR0015615&g=2003-10-08"
-citeertitel_status: "redactioneel"
-signed_date: "2003-09-23"
-entry_into_force: "2003-10-08"
+publicatiedatum: 2003-10-08
+laatste_update: 2003-10-08
+status: geldig
+toestand: 2003-10-08
+bron: "https://wetten.overheid.nl/BWBR0015615"
+opgehaald: 2026-08-07
 ---
+
 # Mededelingen over de eindexamens 2004 voor vwo, havo, vmbo en vavo (septembermededeling)
 
 ### I. Mededelingen van algemene aard
 
 ### I.1. Wijzigingen in 2003/2004
+
+Bindende normering vmbo
 
 Met uitzondering van één categorie vakken, geldt dat de CEVO-normen in 2004 bindend zijn voor alle centrale examens.
 
@@ -43,7 +25,13 @@ De centrale examens in de beroepsgerichte programma’s in de basisberoepsgerich
 
 Anders dan in 2003 zijn de CEVO-normen in 2004 bindend voor:
 
+- de algemene vakken in de basisberoepsgerichte leerweg en
+
+- de beroepsgerichte programma’s in de kaderberoepsgerichte en gemengde leerweg.
+
 De minister heeft dit besluit genomen en meegedeeld aan de Tweede Kamer. De brief aan de Tweede Kamer (kenmerk VO/OI/2003/35047, datum 9 juli 2003) is te vinden op www.minocw.nl/vmbo.
+
+Cspe
 
 Het Centraal schriftelijk en praktisch examen (cspe) in de basisberoepsgerichte leerweg (BB) is een examenvorm voor de beroepsgerichte programma’s (afdelingsvakken en intrasectorale programma’s), waarbij de vaktheorie en praktijk geïntegreerd worden getoetst. Cspe is een samentrekking van cse (centraal schriftelijk examen) en cpe (centraal praktisch examen). Omdat de praktijkopdrachten centraal staan, vergt het cspe een vergelijkbare organisatie als het cpe.
 
@@ -55,9 +43,17 @@ Iedere vmbo-school maakt per beroepsgericht programma de keuze bekend via het in
 
 De regelingen die de scholen de mogelijkheid bieden om in 2004 te kiezen voor het cspe zijn gepubliceerd in Uitleg Gele katern nr. 19 van 10 september 2003:
 
+- de regeling [’Kaders cspe 2004 vmbo’](https://wetten.overheid.nl/jci1.3:c:BWBR0015465),
+
+- de [regeling ’Examencondities cspe 2004’](https://wetten.overheid.nl/jci1.3:c:BWBR0015518).
+
 Het bulletin vmbo-speciaal dat op 17 september 2003 tegelijkertijd met Uitleg is verschenen, is geheel gewijd aan het cspe. In het bijzonder wordt ingegaan op de wijze waarop de vmbo-scholen zich voor kunnen bereiden op de keuze voor cspe BB dan wel cpe BB/cse BB.
 
+Mavo en vbo
+
 In 2004 worden nog slechts in zeer uitzonderlijke gevallen mavo en vbo-examens afgenomen. Zie de toelichting bij de formulieren voor het bestellen van examenopgaven.
+
+Havo/vwo
 
 Voor het havo/vwo gaat in 2003/2004 de [Regeling profielen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015081) gelden.
 
@@ -69,7 +65,15 @@ Een tweede functionaliteit van Het Examenblad is de informatievoorziening op ele
 
 In 2004 worden de volgende mededelingen uitsluitend elektronisch bekendgemaakt:
 
+- correctievoorschriften van de c.s.e.’s beroepsgerichte programma’s BB, KB en GL
+
+- errata op de correctievoorschriften in alle vormen van onderwijs
+
+- aanpassingen van de correctievoorschriften tijdens de examenperiode.
+
 Eveneens elektronisch worden verzonden:
+
+- omzettingstabellen (was in 2002 en 2003 ook al zo).
 
 In de maartmededeling zal in detail uiteen worden gezet hoe een en ander in zijn werk gaat.
 
@@ -91,13 +95,51 @@ Als een school een dergelijke kandidaat heeft, dient deze uiterlijk op 1 april 2
 
 ### II.1. Wetten en Algemene maatregelen van Bestuur
 
+- 1 [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), zoals gewijzigd door de wet van 2 oktober 2002, Stbl. 2002, 288.
+
+- 2 [Inrichtingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005946), 28 juli 2001, Stbl. 358, incl. wijziging toelating 4 havo, Stbl. 2003, 106.
+
+- 3 [Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004593), Stbl. 327, inclusief wijziging vmbo, Stbl. 2003, 106.
+
+- 4 [Besluit staatsexamens v.w.o.-h.a.v.o.-m.a.v.o. 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011538), Stbl. 623, inclusief wijziging vmbo, Stbl. 2003, 106.
+
 Wijziging op korte termijn
 
+- 5 Wijziging Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o., i.v.m. eindexamen leerwerktrajecten vmbo.
+
 ### II.2. Ministeriële regelingen, algemeen
+
+- 6 Regeling aanvullende regels correctie, VO/AVV/J91006336 van 19 maart 1991, Gele katern extra nr. 9a van 27 maart 1991.
+
+- 7 Reglement voor de registratie examendiensten/staatsexamen. OWD/AP-98/059096, Gele katern nr. 19 van 9 september 1998.
+
+- 8 Regeling gespreid staatsexamen met behoud van compensatie voor staatsexamenkandidaten afkomstig van vso-scholen, BVE/BI-94033908 van 1 november 1994, Gele katern nr. 27 van 16 november 1994.
 
 ### II.3. Ministeriële regelingen, examens vwo-havo
 
 Voor examenprogramma’s wordt verwezen naar: www.eindexamen.nl
+
+- 9 [Gedifferentieerde afsluiting en doubleren in de tweede fase vwo/havo](https://wetten.overheid.nl/jci1.3:c:BWBR0010072). VO/BOB 98/52308, Gele katern nr. 30C van 16 december 1998.
+
+- 10 Regeling tijdelijke maatregelen profielen vwo/havo (leerlingen 1999, 2000 en 2001). VO/BOB-2000/10201, Gele katern nr. 9 van 29 maart 2000.
+
+- 11 Aanpassing verlichtingsmaatregelen profielen havo/vwo, VO/BOB/2001/28277, Gele katern nr.18a van 25 juli 2001.
+
+- 12 [Profielen havo/vwo: vakken en deelvakken](https://wetten.overheid.nl/jci1.3:c:BWBR0012310), VO/BOB/2001/9806 van 9 maart 2001, Gele katern nr. 8 van 21 maart 2001.
+
+- 13 [Regeling modellen diploma’s v.w.o.-h.a.v.o. profiel](https://wetten.overheid.nl/jci1.3:c:BWBR0012308) VO/BOB/2001/10037 van 9 maart 2001, Gele katern nr. 8 van 21 maart 2001.
+
+- 14 [Vaknamen en vakcodes voor vwo/havo](https://wetten.overheid.nl/jci1.3:c:BWBR0010620), VO/BOB 99331304, Gele katern 18c van 28 juli 1999.
+
+- 15 Regeling deeltalen 2002, VO/BOB-2002/16895, Gele Katern nr. 13 van 29 mei 2002.
+
+- 16. [Toelating centraal examen vwo en havo](https://wetten.overheid.nl/jci1.3:c:BWBR0013576), VO/BOB/2002/12851, Gele katern nr. 10 van 17 april 2002.
+
+- 17 [Vrijstellingsregeling havo/vwo profiel](https://wetten.overheid.nl/jci1.3:c:BWBR0013635), VO/BOB/2002/13867, Gele Katern nr. 12 van 22 mei 2002.
+
+- 18 [Vrijstellingsregeling examen oud vwo/havo naar nieuw](https://wetten.overheid.nl/jci1.3:c:BWBR0011831), VO/BOB/00/48114, Gele katern nr. 30 van 13 december 2000.
+
+- 19 [Regeling profielen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015081), VO/BOB/2003/16475 van 15 mei 2003, Gele katern nr. 14 van 28 mei 2003.
 
 ### II.4. Ministeriële regelingen, examens vmbo
 
@@ -105,19 +147,59 @@ Voor examenprogramma’s wordt verwezen naar: www.eindexamen.nl
 
 Voor informatie over het PTA wordt verwezen naar de examengids, www.vmbo-examengids.nl of het VMBO-loket; www.vmbo-loket.nl.
 
+- 20 Vaknamen en vakcodes voor vmbo leerwegen, VO/BOB/2002/2936, Gele katern nr. 12 van 22 mei 2002.
+
+- 21 Leerwerktrajecten basisberoepsgerichte leerweg vmbo, VO/BOB/2001/5598, Gele katern nr. 7 van 14 maart 2001.
+
+- 22 Modellen diploma’s voorbereidend middelbaar beroepsonderwijs (vmbo), VO/BOB/2002/8958, Gele katern nr. 12 van 22 mei 2002.
+
+- 23 Overgangsregeling eindexamens mavo en vbo oude stijl, VO/BOB/2002/9058, Gele Katern nr. 12 van 22 mei 2002.
+
+- 24 Definitieve vaststelling van de examenprogramma’s voorbereidend middelbaar beroepsonderwijs (vmbo), VO/BOB/2000/2251 van 25 april 2000, Gele katern nr. 13 van 17 mei 2000.
+
+- 25 Regeling kaders centraal schriftelijk examen en centraal praktisch examen (cspe) 2004 vmbo, VO/OK2003/34122, Gele katern nr. 9 van 10 september 2003.
+
 ### II.5. Regelingen, examens oude stijl
 
 Voor de oude regelingen wordt verwezen naar de septembermededeling van 2000, Uitleg Gele Katern nr 21 van 20 september 2000 en de septembermededeling van 2002, Gele katern nr van 2 oktober 2002.
 
 ### II.6. Regelingen van de CEVO
 
+- 26 ICT in de centrale examens vmbo 2004, CEVO-03000.131 van 16 mei 2003, Uitleg Gele katern nr. 15 van 11 juni 2003.
+
+- 27 Aanwijzing exameneenheden centrale examens beroepsgerichte programma’s vmbo 2005 (en 2004 en 2003). (Uitleg Gele katern nr. 20a, 11 september 2002). De regeling omvat tevens de eerdere examenjaren en is daardoor een volledige weergave van examenstof voor alle centrale examens beroepsgericht.
+
+- 28 [Aanwijzing exameneenheden centrale examens algemene vakken voorbereidend middelbaar beroepsonderwijs (vmbo) 2006 en 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0015487), CEVO-03/449 van 19 augustus 2003, Gele katern nr. 19 van 10 september 2003 (bevat ook de exameneenheden van 2004 en 2005, zoals vastgesteld en gepubliceerd in september 2000).
+
+- 29 Regeling aanwijzing niet centraal examenstof profielen vwo en havo in 2004 en 2005, CEVO-2002/409, Gele katern nr. 11 van 24 april 2002.
+
+- 30 Regeling toegestane hulpmiddelen 2003 CEVO-03/248, Gele katern nr. 12 van 23 april 2003, zoals gewijzigd bij CEVO-03-000199, Gele katern nr. 16 van 18 juni 2003 (Toelating grafische rekenmachine bij het centraal examen in de economische vakken vwo en havo).
+
+- 31 Regeling beoordeling centraal examen, CEVO-02-806 van 17 juni 2002, Gele katern nr. 18 van 31 juli 2002.
+
+- 32 Rooster voor de centrale examens 2004, CEVO-02/792 van 14 juni 2002, Gele katern nr. 18 van 31 juli, zoals gewijzigd in CEVO-03- 200 van 13 juni 2003 Gele katern nr 17 van 25 juni 2003.
+
+- 33 Examenrooster 2005, CEVO-03-200 van 13 juni 2003, Gele katern nr. 17 van 25 juni 2003.
+
+- 34 Regeling examencondities centraal schriftelijk examen en centraal praktisch examen (cspe) in 2004, 28 augustus 2003.
+
 ### II.7. Toegestane hulpmiddelen bij de centrale examens
 
 Op grond van artikel 2 van de Regeling toegestane hulpmiddelen worden de volgende lijsten van toegestane hulpmiddelen gepubliceerd. Waar op een lijst meer dan één hulpmiddel staat, mag een kandidaat één van deze hulpmiddelen op het centraal examen gebruiken.
 
+- a. Lijst van toegestane grafische rekenmachines Casio cfx 9850Gplus Hewlett Packard 38G of 39G Sharp EL 9600, EL 9650 en EL 9900 Texas Instruments 83 of 83+
+
 Van alle bovengenoemde merken zijn ook de lagere typen toegestaan. Wel dient men te beseffen dat er opgaven kunnen zijn die met deze lagere typen niet goed gemaakt kunnen worden.
 
+- b. Lijst van toegestane atlassen Grote Bosatlas, 51e druk (tot examenjaar 2007) Grote Bosatlas, 52e druk
+
 N.b.: alleen voor vwo en havo en alleen de papieren versie is toegestaan. Voor de vmbo-examens is een atlas niet toegestaan.
+
+- c. Lijst van informatieboeken
+
+   - c1 vwo en havo Binas, 4e druk Biodata, 1e druk
+
+   - c2 vmbo voor het BB-examen: Binas vmbo basis, informatieboek NaSk1, (ISBN 90.01.89.37.91) voor de examens KB, GL en TL: Binas vmbo kgt, informatieboek voor Nask 1 en Nask 2 (ISBN 90.01.89.37.83) Van landbouw de differentiaties Groene ruimte, Plantenteelt en Bloembinden en -schikken: Opzoekboek Groen (uitg.: Ontwikkelcentrum, Ede, artikelcode 21062).
 
 ### III. Mededelingen per schoolsoort en per vak
 
@@ -129,7 +211,15 @@ Als voor het centraal examen 2004 geen specifieke bijzonderheden te melden zijn,
 
 Voor 2004 zijn de volgende regelingen van bijzonder belang:
 
+- [Regeling profielen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015081), VO/BOB/2003/16475 van 15 mei 2003, Gele katern nr. 14 van 28 mei 2003.
+
+- Regeling aanwijzing niet centraal examenstof profielen vwo en havo in 2004 en 2005, CEVO-2002/409, Gele katern nr. 11 van 24 april 2002.
+
 ### III.1.2. Latijn en Grieks
+
+- a. Thema’s centraal examen klassieke taal en letterkunde 2004, VO/BOB/2002/19841, Gele katern nr. 17 van 26 juni 2002. Grieks: tragedie, kernauteur Euripides Latijn: filosofische proza, kernauteur Cicero
+
+- b. Minimumtaaleisen De eisen die met ingang van 2004 gelden zijn in november 2002 bekend gemaakt,. Ze staan op www.eindexamen.nl. Het onderdeel stilistische middelen geldt bij Latijn met ingang van 2005.
 
 ### III.1.3. Moderne vreemde talen
 
@@ -137,7 +227,25 @@ Op Toetswijzer is een voorlichtende publicatie over de correctie van open vragen
 
 ### III.1.4. Geschiedenis
 
+- a. Stofomschrijvingen 2004: Politiek systeem en politieke cultuur in Nederland, Gele katern nr. 27 van 22 november 2000. ’Met de loep op Lancashire’ Katoen en samenleving 1750-1850, Gele katern 18a, 25 juli 2001.
+
+- b. Stelopdracht en casus. Het centraal examen geschiedenis bevat een stelopdracht en een casus. De stelopdracht heeft over het algemeen betrekking op het onderwerp dat voor het tweede examenjaar meedoet. De casus heeft betrekking op het onderwerp waarover géén stelopdracht is opgenomen in het examen.
+
 ### III.1.5. Aardrijkskunde
+
+- a. Aanwijzing domeinen centraal examen aardrijkskunde vwo en havo 2002 tot en met 2007/2008 Uitleg Gele katern nr 9 van 10 april 2002.
+
+- b. Domeinen in2004:
+
+   - politiek en ruimte
+
+   - vervoer en ruimtelijke inrichting
+
+   - mens en milieu
+
+- c. Bij het examen is een atlas nodig. Toegestaan is de Grote Bosatlas, 51e druk, inclusief de basisstatistiek en het extra materiaal voor de tweede fase. Eveneens toegestaan is de 52e druk (alleen de papieren versie).
+
+- d. Voor het vak aardrijkskunde is een explicitering van de domeinen van het centraal examen gemaakt, ingaande (vwo) 2005 en (havo) 2004. Deze is aan de scholen voor vwo en havo toegezonden, en staat op www.eindexamen.nl.
 
 ### III.1.6. Wiskunde A
 
@@ -145,9 +253,43 @@ In tegenstelling tot eerdere publicaties (bijv. examenrooster 2004, examenrooste
 
 ### III.1.7. Scheikunde
 
+- a. Naamgeving van organische en anorganische stoffen, CEVO 87.205 van 25 augustus 1987.
+
+- b. Correctievoorschriften met betrekking tot evenwichtsvoorwaarde en gebroken coëfficiënten, Gele katern nr. 23 van 2 oktober 1991.
+
+- c. Bij de examens 2001 is gebleken dat onduidelijkheid bestaat over de reikwijdte van eindterm 194. In de septembermededeling van 2001 staat hoe deze eindterm op het c.e. wordt bevraagd.
+
 ### III.1.8. Maatschappijleer
 
+- a. Thema’s en domeinen centraal examen maatschappijleer havo en vwo 2003 en 2004, VO/BOB/2001/23742, Gele katern nr. 18a van 25 juli 2001.
+
+- b. Naast het vaste domein Politieke besluitvorming (inclusief het subdomein Internationale betrekkingen) worden in 2004 centraal geëxamineerd: Domein E Mens en werk en Domein H Ontwikkelingssamenwerking.
+
+- c. Daarnaast worden op het centraal examen bepaalde vaardigheden, de benaderingswijze van het vak en de basisbegrippen getoetst. Ook kunnen op het vwo-examen vragen aan bod komen die een beroep doen op onderzoeksvaardigheden.
+
+- d. Bij de eindtermen van de domeinen in het c.e. heeft de CEVO een toelichting vastgesteld. Deze is in geringe mate aangepast in vergelijking met de oorspronkelijke publicatie ’Examenprogramma Maatschappijleer, Tweede fase havo en vwo vanaf 1999, Eindtermen en toelichtingen’. Deze oude publicatie is daarmee voor wat betreft het centraal examen vervallen. De nieuwe publicatie heet ’Toelichtingen bij de eindtermen van de domeinen Vaardigheden en benaderingswijze, Politieke besluitvorming, Mens en werk en Ontwikkelingssamenwerking uit het examenprogram-ma profielen vwo (vrije deel)’. De toelichting staat op www.eindexamen.nl en is in november 2002 toegezonden aan de scholen die maatschappijleer als eindexamenvak hebben.
+
 ### III.1.9. CKV2 en CKV3
+
+- a. Regeling onderwerpen van het centraal examen culturele en kunstzinnige vorming 2, VO/BOB-1999/25465, Gele katern 18a van 7 juli 1999.
+
+- b. [Verplichting CKV2,3 en examen CKV2 in 2001 en volgende jaren](https://wetten.overheid.nl/jci1.3:c:BWBR0011614), VO/BOB/2000/24871 van 7 september 2000, Gele katern nr. 21 van 20 september 2000.
+
+- c. Ontvangstdata toetsen: 24 maart 2004, toetsen 1e afnametijdstip 7 april 2004, toetsen 2e afnametijdstip
+
+- d. Examendata CKV-2 in 2004 (zie ook Gele katern nr 10 van 25 juni 2003): Havo: woensdag 31 maart 2004 en woensdag 21 april 2004 Vwo: donderdag 1 april 2004 en donderdag 22 april 2004
+
+- e. Publicatie normering 14 april, N-term eerste afname 27 april N-term tweede afname
+
+- f. Systeemeisen. In 2004 zal evenals in 2003 voor de afname een computer nodig zijn met een kloksnelheid van 233 MHz, en verder een geluidskaart, koptelefoon en een Cd-romspeler minimaal 20x. Het is de verwachting dat in 2005 450 MHz nodig zal zijn.
+
+- g. Vanaf 2004 is de schermindeling enigszins gewijzigd:
+
+   - Op de cd-rom staat de inleiding bij een vraag in het bovenste deel van het scherm. De tekst van de vraag zelf staat in het vak er direct onder. Bij de cd-rom’s in de voorafgaande jaren was dit andersom.
+
+   - Op de cd-rom CKV2 havo komt het voor dat in het vragenvak niet één maar twee vragen worden gesteld, elk met een eigen vraagnummer.
+
+- h. De handleiding voor de afname van het examen CKV2 zal u in maart door de Citogroep toegezonden worden. De handleiding zal ook op www.cevo.nl geplaatst worden.
 
 ### III.1.10. Muziek
 
@@ -155,17 +297,29 @@ Eindexamenprogramma, Gele katern nr. 4 van 31 januari 1990. Dit programma geldt 
 
 ### III.1.11. Tekenen, handenarbeid, textiele werkvormen
 
+- a. Examenprogramma: Uitleg OenW-Regelingen nr. 14 van 2 juni 1993
+
+- b. Thema beeldende vakken vwo centraal examen 2004, Gele katern nr 16 van 18 juni 2003 (Probleemstellingen, stofbeperking en exameneisen). De bundel behorend bij het thema CSE 2004 ”kunst, kennis en kunde II” is verkrijgbaar bij de Citogroep:www.winkelvo.citogroep.nl of bij klantenservice@citogroep.nl.; Artikelnummer 58374, prijs € 12,50.
+
 ### III.1.12. Filosofie
+
+- a. Onderwerpen en eindtermen filosofie centraal examen vwo 2004 en 2005, VO/BOB/2002/56626,Gele katern 6 van 22 januari 2003. Het onderwerp is ’Deugdethiek’.
+
+- b. In plaats van een reader is er een examencahier: Deugdelijk Leven, P. van Tongeren, uitgeverij SUN, ISBN 9058751120.
 
 ### III.1.13. Economische vakken
 
-Bij de vakken economie 1, economie 1.2 en management en organisatie mag met ingang van 2004 een grafische rekenmachine op het centraal examen gebruikt worden. De lijst van goedgekeurde apparaten staat in onderdeel II.7. van deze mededeling.
+Bij de vakken economie 1, economie 1.2 en management en organisatie mag met ingang van 2004 een grafische rekenmachine op het centraal examen gebruikt worden. De lijst van goedgekeurde apparaten staat in [onderdeel II.7.](https://wetten.overheid.nl/BWBR0015615) van deze mededeling.
 
 ### III.2. Vakmededelingen havo
 
 ### III.2.1. Algemeen
 
 Voor 2004 zijn de volgende regelingen van bijzonder belang:
+
+- [Regeling profielen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015081), VO/BOB/2003/16475 van 15 mei 2003, Gele katern nr. 14 van 28 mei 2003.
+
+- Regeling aanwijzing niet centraal examenstof profielen vwo en havo in 2004 en 2005, CEVO-2002/409, Gele katern nr. 11 van 24 april 2002.
 
 ### III.2.2. Moderne vreemde talen
 
@@ -177,15 +331,43 @@ zie bij vwo.
 
 ### III.2.4. Aardrijkskunde
 
+- a. [Aanwijzing domein centraal examen aardrijkskunde vwo en havo, 2002-2007/8](https://wetten.overheid.nl/jci1.3:c:BWBR0013496) , VO/BOB-2002-6495 van 6 maart 2002, Uitleg Gele katern nr 9 van 10 april 2002.
+
+- b. Domeinen in 2004:
+
+   - Natuur en milieu
+
+   - Migratie en vervoer.
+
+- c. Bij het examen is een atlas nodig. Toegestaan is de Grote Bosatlas, 51e druk, inclusief de basisstatistiek en het extra materiaal voor de tweede fase, of de 52e druk (papieren versie).
+
+- d. Voor het vak aardrijkskunde is een explicitering van de domeinen van het centraal examen gemaakt, ingaande (vwo) 2005 en (havo) 2004. Deze is in november 2002 aan de scholen voor vwo en havo toegezonden en staat op www.eindexamen.nl.
+
 ### III.2.5. Natuurkunde
+
+- a. Voor natuurkunde 1 is in 2004 en 2005 aangewezen als subdomein waarover het c.e. zich niet uitstrekt: van Domein C, Beeld en geluid, Subdomein C1, Beeld en geluid waarnemen (22-27).
+
+- b. Voor natuurkunde 1,2 is in 2004 en 2005 aangewezen als subdomein waarover het c.e. zich niet uitstrekt: van Domein C, Beeld en geluid, Subdomein C2, Eigentrillingen en golven (28-33)
+
+- c. Naar aanleiding van vragen hierover wordt opgemerkt dat C1 alleen is uitgesloten van natuurkunde 1, en dat op het c.e. van natuurkunde 1,2 dus wel vragen gesteld kunnen worden, die op dit subdomein betrekking hebben.
 
 ### III.2.6. Economische vakken
 
-Bij de vakken economie 1, economie 1.2 en management en organisatie mag met ingang van 2004 een grafische rekenmachine op het centraal examen gebruikt worden. De lijst van goedgekeurde apparaten staat in onderdeel II.6. van deze mededeling.
+Bij de vakken economie 1, economie 1.2 en management en organisatie mag met ingang van 2004 een grafische rekenmachine op het centraal examen gebruikt worden. De lijst van goedgekeurde apparaten staat in onderdeel [II.6.](https://wetten.overheid.nl/BWBR0015615) van deze mededeling.
 
 ### III.2.7. Maatschappijleer
 
+- a. zie bij vwo nieuwe stijl:
+
+- b. Naast domein B Politieke besluitvorming worden in het centraal examen 2004 geëxamineerd het domein C Massamedia en het domein F Criminaliteit en rechtsstaat. Daarnaast worden op het centraal examen bepaalde vaardigheden, de benaderingswijze van het vak en de basisbegrippen getoetst.
+
+- c. Zie vwo. De nieuwe publicatie voor havo heet ’Toelichtingen bij de eindtermen van de domeinen Vaardigheden en benaderingswijze, Politieke besluitvorming, Massamedia en Criminaliteit en rechtsstaat uit het examenprogramma profielen havo (vrije deel)’. Deze publicatie staat op de site www.eindexamen.nl en is vorig jaar toegezonden aan de scholen die maatschappijleer als eindexamenvak hebben.
+
 ### III.2.8. Filosofie
+
+- a. [Onderwerpen en eindtermen filosofie centraal examen havo 2004 en 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0014320), VO/BOB/2002/56626, Gele katern, nr 6 van 22 januari 2003. Het onderwerp is ’Mens en Machine’.
+
+- b. In plaats van een reader is er een examencahier: Mens-Machine, M. Lievers, uitgeverij Boon, ISBN 9053528806.
 
 ### III.2.9. Muziek
 
@@ -196,6 +378,12 @@ Gepubliceerd: circulaire d.d.18 augustus 1982, kenmerk VO/AVO 82-30.
 Datum van inwerkingtreding: 1 augustus 1978.
 
 ### III.2.10. Tekenen, handenarbeid en textiele werkvormen.
+
+- a. Examenprogramma Vastgesteld: 18 augustus 1982. Circulaire van 18 augustus 1982, kenmerk C820278 VO/AVO 82-30.
+
+- b. Met ingang van 2003 hebben deze vakken hetzelfde centraal examen. Er zijn dus geen specifieke delen meer voor tekenen, handenarbeid en textiele werkvormen.
+
+- c. Het centraal examen heeft betrekking op de Nederlandse kunst uit de zeventiende eeuw.
 
 ### III.2.11. Ckv 2 en 3
 
@@ -213,7 +401,21 @@ De exameneenheden waarover het centraal examen zich uitstrekt in de periode tot 
 
 ### III.3.2. Nederlands
 
+- a. Bij het centraal examen in alle leerwegen is het gebruik van een woordenboek toegestaan.
+
+- b. Bij het BB-examen en het KB-examen strekt de tweede correctie zich alleen uit over het leesvaardigheidsgedeelte van het examen. De score voor het schrijfvaardigheidsgedeelte wordt vastgesteld door de examinator. Wel wordt het gehele examenwerk aan de tweede corrector gezonden.
+
+- c. Bij het GL/TL-examen is voor het onderdeel schrijfvaardigheid het gebruik van een computer toegestaan. Eveneens toegestaan is het zgn. formulier gedocumenteerd schrijven. Er is echter een duidelijk verschil: het formulier gedocumenteerd schrijven is nodig bij het examen. De school mag echter er zelf voor kiezen de computer wel of niet op het c.e. toe te staan en de leerling mag vervolgens zelf kiezen of hij het examen met de pen of met de computer maakt. Een handleiding voor de afname van het examen met een computer staat op www.cevo.nl.
+
 ### III.3.3. Moderne vreemde talen
+
+- a. Voor alle moderne vreemde talen geldt De kandidaten maken het werk op een bij het examen gevoegde uitwerkbijlage. Het is dus niet meer nodig een leerlingantwoordblad te downloaden.
+
+- b. Voor Spaans, Turks en Arabisch zijn er bij het vmbo uitsluitend centrale examens GL en TL.
+
+- c. Engels GL en TL. Bij het examen Engels wordt in het centraal schriftelijk examen naast de leesvaardigheid ook de schrijfvaardigheid getoetst. De kandidaten mogen bij dit examen gebruik maken van een woordenboek Engels-Nederlands en Nederlands-Engels.
+
+- d. Frans BB. Voor de afname van het examen is een computer nodig. Er is geen papieren versie met de opgaven van het examen. De kandidaten schrijven de antwoorden op de vragen die via de computer worden gesteld op papier op. Hiervoor is een tekstbestand met een modelantwoordblad opgenomen op de cd-rom die het examen bevat. Dit blad kan door de school voor het examen in het gewenste aantal worden uitgedraaid.
 
 ### III.3.4. Wiskunde GL en TL
 
@@ -225,7 +427,11 @@ Bij het examen is informatiemateriaal toegestaan, en ook nodig.
 
 Voor het BB-examen:
 
+- Binas vmbo basis, informatieboek Na/Sk1, (ISBN 90.01.89.37.91).
+
 Voor de andere leerwegen:
+
+- Binas vmbo kgt, informatieboek voor Nask 1 en Nask 2 (ISBN 90.01.89.37.83).
 
 ### III.3.6. Nask 2
 
@@ -233,13 +439,51 @@ Bij het examen is informatiemateriaal toegestaan, en ook nodig.
 
 Toegestaan is:
 
+- Binas vmbo kgt, informatieboek voor Nask 1 en Nask 2 (ISBN 90.01.89.37.83).
+
 ### III.3.7. Maatschappijleer 2
 
 Bij de eindtermen van de exameneenheden zijn toelichtingen gemaakt. Deze zijn bij het centraal examen het uitgangspunt voor de examenconstructie en worden bij de kandidaten bekend verondersteld. Deze toelichtingen zijn te vinden in de vmbo-examengids, te bereiken via www.Citogroep.nl of via www.vmbo.nl.
 
 ### III.3.8. Beeldende vakken 2
 
+- a. T hema voor CSE en CPE In 2004 is het thema voor CSE en CPE Familie en Vrienden.
+
+- b. Proces In beide centrale examens wordt aandacht besteed aan het werkproces: bij het CPE echter meer dan bij het CSE. Bij het CSE worden vragen gesteld over het werkproces van professionele kunstenaars en vormgevers, bij het CPE neemt het werkproces van de kandidaten zélf een cruciale plaats in.
+
+- c. Dit thema impliceert voor het examen 2004 het volgende. CSE De kandidaat kan: CPE De kandidaat kan:
+
+   - (groeps)portretten van kunstenaars / werkstukken van kunstenaar binnen het thema Familie en Vrienden analyseren aan de hand van de voorstelling
+
+   - (groeps)portretten van kunstenaars / werkstukken van kunstenaars binnen het thema Familie en Vrienden analyseren aan de hand van de beeldende aspecten
+
+   - de verschillende functies van het (groeps)portret herkennen en toepassen
+
+   - traditionele en minder traditionele vormen van het (groeps)portret herkennen en toepassen
+
+   - in eigen werk de voorstelling zo aanwenden dat deze een bijdrage levert aan de zeggingskracht van een werkstuk binnen het thema Familie en Vrienden, en / of
+
+   - in eigen werk de beeldende aspecten zo aanwenden dat ze een bijdrage leveren aan de zeggingskracht van een werkstuk binnen het thema Familie en Vrienden.
+
+- d. Magazine Ten behoeve van dit thema verschijnt een magazine. Het is voor alle vier de beeldende disciplines identiek en bevat informatie over de verschillende wijzen waarop en intenties waarmee kunstenaars (hun) familie en vrienden in beeld brengen. Het magazine is een 8 pagina’s tellende kleurenbijlage die een korte omschrijving van de CPE-opgave bevat. Daarnaast gaat het in op werkprocessen van kunstenaars die werk hebben gemaakt binnen het thema Familie en Vrienden. Tot slot zijn er groepsportretten, bijzondere vormen van portretten, begrippen en tips opgenomen. Op deze wijze blikt het magazine zowel vooruit op het CSE als op het CPE. Het magazine wordt samen met de CPE examendocumenten toegestuurd in februari 2004, en mag vanaf 8 maart aan de kandidaten worden uitgereikt.
+
+- e. CPE: datum , periode en beoordeling Het CPE wordt in 2004 afgenomen tussen 22 maart en 18 mei. De tijdsduur van het CPE bedraagt 12 klokuren, die de school naar eigen inzicht kan inroosteren. Op de dag van de eerste zitting ontvangen de kandidaten het opgavenboekje. Beoordeling van het CPE vindt plaats door de eigen docent èn een tweede corrector. De tweede corrector wordt door het bevoegd gezag van de school benoemd.
+
+   - Examinator en tweede corrector zijn gehouden aan de score-omzettingsschaal zoals die zich op de laatste pagina van het CPE-document Instructie Voor DeDocent bevindt, maar ook door de CEVO elektronisch naar de scholen zal worden.
+
+- f. CSE: opzet Het centraal schriftelijk examen is voor de vier disciplines identiek. Het CSE bestaat uit 40 tot 45 vragen die zijn verdeeld over 4 blokken. Drie daarvan hebben een sterk inhoudelijke relatie met het thema *Familie en Vrienden;* bij het vierde blok is die relatie minder: daar ligt de nadruk op ’algemene kunstbeschouwing’. In het CSE worden geen vragen gesteld die vakspecifieke kennis van een van de vier disciplines vereisen.
+
 ### III.3.9. Dans en Drama
+
+- a. Voor de afname is een computer nodig die minimaal voldoet aan de volgende systeemeisen:
+
+   - processor: Pentium III 450 MHz, geheugen 64 Mb
+
+   - videokaart: geheugen 16 Mb
+
+   - koptelefoon.
+
+- b. Het cse dans2 en drama2 bestaat uit een aantal vragen-blokken naar aanleiding van voorstellingen. Van één voorstelling ontvangt de school met kandidaten dans2 en/of drama2, in de eerste helft van het schooljaar een registratie op VHS-band, met bedoeling de kandidaten vooraf kennis te laten maken met de betreffende voorstelling.
 
 ### III.4. Mededelingen centrale examens beroepsgericht
 
@@ -279,6 +523,12 @@ Per praktijkexamen ontvangt de school op twee tijdstippen een envelop met de exa
 
 In de eerste envelop zitten:
 
+- twee exemplaren van de examenopgaven (met evt. bijlagen en evt. uitwerkbijlagen),
+
+- het correctievoorschrift,
+
+- de instructie voor de examinator (met aanbevelingen m.b.t. de organisatie en de benodigde materialen).
+
 Op de eerste envelop staat een tekst waaruit blijkt dat de examinator de envelop direct na ontvangst moet openen en kennis nemen van de inhoud (dus van instructie, opgaven en wijze van beoordeling).
 
 Als deze envelop aangekomen is op de scholen, is het nuttig dat iedere examinator de organisatie van de praktijkexamens goed afstemt met de examensecretaris.
@@ -307,7 +557,7 @@ In de instructie voor de examinator staat een lijst met de benodigde materialen,
 
 ### Ict in het examen
 
-Zie de paragraaf III.4.6, hieronder.
+Zie de [paragraaf III.4.6](https://wetten.overheid.nl/BWBR0015615), hieronder.
 
 ### Fase 2 afname
 
@@ -363,6 +613,48 @@ Om u een idee te vormen van de handleiding kunt u de handleiding voor het ICT-ge
 
 Bij niet vermelde toetsen wordt bij het cpe BB, bij de praktische opdrachten van het cspe BB of bij de cie KB geen computer gebruikt. Scholen krijgen een Cd-rom toegezonden waarop digitale bestanden staan. Dat is aangegeven in de kolom ”Cd-rom”.
 
+| beroepsgericht programma | Cd-rom | Soort gebruik | cpe BB, cspe BB of cie KB |
+| --- | --- | --- | --- |
+| BT-timmeren | ja | Word Excel CAD | cie |
+| BT-metselen | ja | Excel CAD | cie |
+| BT-schilderen | ja | Word Excel (optioneel: internetverbinding) | cie |
+| Elektrotechniek | ja | Word Beheerautomatiseringssysteem | cie |
+| Grafische techniek | ja | Beeldbewerkingsprogramma DTP-programma | cpe en cspe |
+| Grafische techniek | ja | Cd-rom drive Tekstverwerkingsprogramma Beeldbewerkingsprogramma Geluidsbewerkingsprogramma Presentatieprogramma | cie |
+| Installatietechniek | ja | Word Excel CAD cie | cie |
+| Metaaltechniek | nee | Word Powerpoint (optioneel) CAD | cie |
+| Transport en logistiek | nee | Routeplanner | cpe en cspe |
+| Transport en logistiek | nee | E-mail maken en printen (niet verzenden) Routeplanner | cie |
+| Voertuigentechniek | nee | Cd-rom met naslagwerk voor afstel-gegevens en/of fabrieksgegevens (niet verplicht, ook boeken zijn toegestaan) | cpe en cspe, cie |
+| Bouw-breed | ja | Word Excel Paint Internet Explorer *ten behoeve van een internet-simulatie op cd-rom(geen directe verbinding met internet nodig) | cie |
+| Instalektro | ja | Excel (optioneel) | cpe en cspe |
+| Instalektro | ja | Excel CAD | cie |
+| Metalektro | nee | Beheerautomatiseringssysteem | cpe en cspe |
+| Metalektro | ja | Beheerautomatiseringssysteem CAD | cie |
+| Uiterlijke verzorging | nee | Word (niet verplicht) | cie |
+| Verzorging | nee | Word (optioneel) | cie |
+| Zorg-en-welzijn-breed | nee | Word Tekenprogramma (optioneel) | cie |
+| Administratie | ja | Word Excel | cpe en cspe |
+| Administratie | ja | Word Excel Powerpoint | cie |
+| Consumptief-bakken | nee | Word (optioneel) Tekenprogramma (optioneel) | cie |
+| Consumptief-horeca | nee | Word (optioneel) | cpe en cspe |
+| Consumptief-horeca | nee | Word (optioneel) | cie |
+| Handel en verkoop | ja | Excel 2D-winkeldesigner (optioneel, wordt meegeleverd) | cpe en cspe |
+| Handel en verkoop | ja | Word Paint 2D-winkeldesigner (optioneel, wordt meegeleverd) | cie |
+| Mode en commercie | nee | Internet (optioneel) | cpe |
+| Mode en commercie Internet (optioneel) | ja | Word | cie |
+| Handel en administratie | ja | Word Excel | cpe en cspe |
+| Handel en administratie | ja | Excel Power point | cie |
+| Consumptief-breed | ja | Word Excel | cie |
+| Plantenteelt open teelten | ja | Excel | cie |
+| Plantenteelt gesloten teelten | ja | Internet Explorer *ten behoeve van een internet-simulatie op cd-rom(geen directe verbinding met internet) | cie |
+| Groene ruimte | ja | Excel | cie |
+| Bloembinden en -schikken | ja | Excel Internet Explorer*ten behoeve van een internet-simulatie op cd-rom (geen directe verbinding met internet) | cpe, cspe en cie |
+| Dierhouderij en -verzorging productiedieren | ja | Excel | cpe, cspe en cie |
+| Dierhouderij en- verzorging gezelschapsdieren | ja | Excel | cie |
+| Verwerking agrarische producten | ja | Excel | cie |
+| Landbouw-breed | ja | Excel | cpe, cspe en cie |
+
 ### III.4.7. Specifieke informatie over het cspe
 
 ### De organisatie van het cspe in verhouding tot cpe en cie
@@ -373,13 +665,13 @@ In 2004 kan, geheel analoog aan het voorbeeld-cspe 2003, nog steeds gebruik gema
 
 ### Minitoetsen op papier
 
-Voor de beroepsgerichte programma’s waarmee men meedoet aan het cspe (’de cspe-vakken’) zijn twee papieren exemplaren van iedere variant van alle minitoetsen bij de eerste zending (eind januari / begin februari 2004, zie onderdeel III.4.4) inbegrepen.
+Voor de beroepsgerichte programma’s waarmee men meedoet aan het cspe (’de cspe-vakken’) zijn twee papieren exemplaren van iedere variant van alle minitoetsen bij de eerste zending (eind januari / begin februari 2004, zie [onderdeel III.4.4](https://wetten.overheid.nl/BWBR0015615)) inbegrepen.
 
-In de tweede zending (maart 2004, zie onderdeel III.4.4) wordt iedere variant van alle papieren minitoetsen in leerlingenaantallen geleverd.
+In de tweede zending (maart 2004, zie [onderdeel III.4.4](https://wetten.overheid.nl/BWBR0015615)) wordt iedere variant van alle papieren minitoetsen in leerlingenaantallen geleverd.
 
 ### Minitoetsen met behulp van de computer
 
-Voor de vmbo-scholen die met een of meer beroepsgerichte programma’s meedoen aan het cspe, bevat de eerste zending (eind januari / begin februari 2004, zie onderdeel III.4.4) een proef cd-rom met gedigitaliseerde minitoetsen van enkele voorbeeld-cspe’s 2003. Deze cd-rom werkt technisch exact hetzelfde als de cd-rom met de minitoetsen voor 2004.
+Voor de vmbo-scholen die met een of meer beroepsgerichte programma’s meedoen aan het cspe, bevat de eerste zending (eind januari / begin februari 2004, zie [onderdeel III.4.4](https://wetten.overheid.nl/BWBR0015615)) een proef cd-rom met gedigitaliseerde minitoetsen van enkele voorbeeld-cspe’s 2003. Deze cd-rom werkt technisch exact hetzelfde als de cd-rom met de minitoetsen voor 2004.
 
 Het toetsprogramma moet vooraf in overleg met de ICT-coördinator zijn geïnstalleerd en gecontroleerd. Daarombevat de eerste zending tevens een handleiding die specifiek geschreven is voor de installatie en het gebruik van de digitale minitoetsen in het cspe.
 
@@ -395,7 +687,7 @@ Bij het cse BB, het cspe BB, het cse KB, en het cse GL is informatiemateriaal to
 
 ### III.5.2. Instalektro (intrasectoraal)
 
-Bij het cse KB en het cse GL instalektro is informatiemateriaal toegestaan en soms ook nodig: de Formulelijst vmbo elektrotechniek. Het betreft dezelfde formulelijst als bij elektrotechniek (III.5.1).
+Bij het cse KB en het cse GL instalektro is informatiemateriaal toegestaan en soms ook nodig: de Formulelijst vmbo elektrotechniek. Het betreft dezelfde formulelijst als bij elektrotechniek ([III.5.1](https://wetten.overheid.nl/BWBR0015615)).
 
 Deze lijst is te downloaden van www.eindexamen.nl en www.vmbo-examengids.nl.
 
@@ -418,6 +710,8 @@ De cie KB blijft beperkt tot de ene vakrichting van het verrijkingsdeel.
 Behalve voor de vijf vakrichtingen is voor het cse KB bovendien voor de beide ondersteunende vakken een opgavenboekje beschikbaar.
 
 Omdat het cse KB gaat over twee differentiaties, betekent dit het volgende:
+
+- voor ieder opgavenboekje is niet 120 maar 60 minuten beschikbaar.
 
 In de 120 minuten, die de KB-leerling voor het cse ter beschikking staan, maakt hij de opgaven in de twee opgavenboekjes die horen bij de beide door hem gekozen differentiaties.
 
@@ -453,7 +747,7 @@ Als hulpmiddel bij het cspe BB, cse BB, cse KB en cse GL in de vakrichting groen
 
 ### III.5.4. Metalektro (intrasectoraal)
 
-Bij het cse KB en het cse GL metalektro is informatiemateriaal toegestaan en soms ook nodig: de Formulelijst vmbo elektrotechniek. Het betreft dezelfde formulelijst als bij elektrotechniek (III.5.1).
+Bij het cse KB en het cse GL metalektro is informatiemateriaal toegestaan en soms ook nodig: de Formulelijst vmbo elektrotechniek. Het betreft dezelfde formulelijst als bij elektrotechniek ([III.5.1](https://wetten.overheid.nl/BWBR0015615)).
 
 Deze lijst is te downloaden van www.eindexamen.nl en www.vmbo-examengids.nl.
 
@@ -467,4 +761,47 @@ cse BB, cspe BB, cse KB en cse GL: Het gebruik van een symbolenboekje is toegest
 
 ### IV. Tijdschema van werkzaamheden voor de eindexamens vwo, havo, vmbo, 2003/2004
 
-De data van CKV-2 zijn in dit schema niet opnieuw opgenomen. Ze staan in onderdeel III.1.9.
+De data van CKV-2 zijn in dit schema niet opnieuw opgenomen. Ze staan in onderdeel [III.1.9](https://wetten.overheid.nl/BWBR0015615).
+
+| 2003/2004, maand | voor wie | gebeurtenis |
+| --- | --- | --- |
+| september | alle scholen | Ontvangst van de formulieren opgave aantal examenkandidaten 2004: VW-A 925 (vwo), HA-A 926 (havo) en vmbo-03 |
+|  | alle scholen | Ontvangst van de brochure ”diploma’s en andere waardepapieren”. |
+| voor 1 oktober | alle scholen | Aan de inspectie zenden: het examenreglement het programma van toetsing en afsluiting. |
+| vóór 15 oktober, | vwo-scholen met cpe beeldende vakken oude stijl | Opsturen van het formulier VW-A 925 opgave aantal examenkandidaten vwo 2004 indien tevens kandidaten worden opgegeven voor het centraal praktisch examen (tehatex-vakken) |
+| vóór 1 november | alle scholen | Opsturen van de formulieren opgave aantal examenkandidaten 2004: aan Informatie Beheer Groep, het origineel van de formulieren VW- A 925, HA-A 926, vmbo-03 aan de inspectie een kopie van deze formulieren |
+|  | vwo en havo | N.b. op deze formulieren melden vwo en havo-scholen ook (indien van toepassing) het aantal kandidaten ckv2 |
+| november/december | alle scholen | Ontvangst van de terugmeldingsformulieren. |
+| 4 december 2003 | vwo-scholen met cpe beeldende vakken oude stijl | Ontvangst opgaven cpe vwo per aangetekende post. |
+| eind januari | vmbo BB en KB | ontvangst van de Citogroep van informatie over het cpe of het cspe, en over de cie. |
+| februari | vmbo GL/TL met kandidaten beeldende vakken | ontvangst cpe beeldende vakken vmbo |
+| maart | alle scholen | De scholen ontvangen de Poolingbrieven de IB-groep |
+|  | alle scholen | maartmededeling over organisatorische zaken, met o.m. per vak de feitelijk gehanteerde schaallengte, ivm de omzetting score/cijfer, de bandbreedtes voor de normering en de vakken waarvan het tweede tijdvak wordt afgenomen door de staatsexamencommissie |
+|  | vmbo BB-scholen die cspe afnemen | Voor ieder beroepsgericht programma waarmee de vmbo-school deelneemt aan het cspe ontvangt u van de Citogroep een afzonderlijke cd-rom met de computerversies van de mini-toetsen. Zie onderdeel III.4.6. |
+| 15, 16 of 17 maart | vmbo BB en KB | Ontvangst van: de pakketten met de opgaven voor de kandidaten voor het cpe of het cspe BB en de cie KB van het vmbo. Bij problemen gelieve u direct contact op te nemen met de IB-groep, afdeling Examendiensten in Groningen (tel. 050 - 5998933). |
+| vóór 1 april | alle scholen | Ontvangst van de Citogroep van: CD-rom voor WOLF of formulieren voor de corrector ten behoeve van de normering en verslaggeving, instructie voor het verzamelen van de afnamegegevens waarin opgenomen informatie over de Cito-verwerking in 2004. |
+| 7 april | vmbo BB en KB | Aanvang cpe of cspe en cie. |
+| 10, 11 of 12 mei | alle scholen | Ontvangst van de pakketten met examenopgaven voor het centraal schriftelijk examen in het eerste tijdvak. |
+|  | alle scholen | N.B. De pakketten moeten direct door de school in ontvangst worden genomen, gecontroleerd en veilig opgeborgen, ook als de dag van bezorging in een vakantieperiode voor de school valt. |
+| 11 of 12 mei | alle scholen | Ontvangst per niet-aangetekende post van de erratumbladen op de opgaven voor het eerste tijdvak centrale examens. |
+| 21 mei | alle scholen | Bij de inspectie de s.e.-cijfers inleveren van de vakken waarin de kandidaten centraal examen afleggen. |
+| Vanaf 24 mei | alle scholen | Correctie centraal schriftelijk examen. |
+| 28 mei | vmbo BB en KB | einddatum: BB: cpe, cspe, KB: cie |
+| 24 mei tot 9 juni | alle scholen | inzenden formulieren met de deelscores aan de Citogroep: beroepsgerichte programma’s vmbo inzenden uiterlijk 28 mei algemene vakken t/m 28 mei: inzenden uiterlijk 2 juni algemene vakken t/m 2 juni: inzenden uiterlijk 7 juni algemene vakken t/m 4 juni: inzenden uiterlijk 9 juni |
+| uiterlijk 7 juni | vmbo BB, KB en GL | Uiterste datum voor opmerkingen over de centrale examens beroepsgerichte programma’s in verband met de normering door de CEVO in het eerste tijdvak |
+| 9 juni | vmbo BB, KB en GL | bekendmaking normering beroepsgerichte programma’s vmbo uiterlijk 9 juni 08.00 uur op www.eindexamen.nl |
+| 10 juni | vmbo BB en KB | Mogelijk begin van het tweede tijdvak voor de cie, het cspe en het cpe. |
+| 13 juni | alle scholen | Uiterste datum voor inzenden opmerkingen over de centrale examens algemene vakken in verband met de normering door de CEVO in het eerste tijdvak. |
+| 14, 15 of 16 juni | alle scholen | Ontvangst van de pakketten met examenopgaven voor het centraal examen tweede tijdvak. |
+| 15 of 16 juni | alle scholen | Ontvangst van de erratumbladen opgaven voor het tweede tijdvak. |
+| 16 juni | vmbo-scholen | Bekendmaking normering algemene vakken vmbo, uiterlijk 16 juni, om 08.00 uur |
+| 17 juni | vwo-havo scholen | Bekendmaking normering vwo en havo, uiterlijk 17 juni om 08.00 uur) |
+| uiterlijk 21 juni | scholen met een kandidaat in een aangewezen vak Alle scholen | Aanmelding aan IBG van de kandidaten voor het tweede tijdvak in een van de aangewezen vakken. Opgave aan de inspectie van: de kandidaten die aan de herkansing deelnemen, met vermelding van het vak waarin examen wordt afgelegd; de kandidaten die bij een of meer zittingen van het eerste tijdvak verhinderd waren aanwezig te zijn en in de gelegenheid worden gesteld in het tweede tijdvak hun examen voort te zetten of te voltooien, de cijfers van het alsnog voltooide s.e. van alle kandidaten die het s.e. niet hebben kunnen voltooien voor het eerste tijdvak. |
+| 21-23 juni | vmbo BB | Tweede tijdvak basisberoepsgerichte leerweg: algemene vakken en schriftelijke examens beroepsgericht |
+| woensdag 23 juni | alle scholen | Tweede tijdvak op school. |
+| vrijdag 25 juni | scholen met een kandidaat in een aangewezen vak | Aangewezen vakken: tweede tijdvak afgenomen door de Staatsexamencommissie |
+| uiterlijk 25 juni | alle scholen | Inzenden bij de CEVO: opmerkingen over de centrale examens in verband met de normering door de CEVO in het tweede tijdvak; naar het Cito: formulieren voor de corrector tweede tijdvak |
+| woensdag 30 juni | alle scholen | Mededeling over de cijferbepaling tweede tijdvak van alle examens, uiterlijk om 08.00 uur |
+| Vóór 12 juli | alle scholen | Aanmelden van de kandidaten voor het derde tijdvak bij de voorzitter van de staatsexamencommissie vwo-havo-mavo, middels een formulier. Medio mei ontvangt u van Examendiensten een set aanmeldingsformulieren per schoolsoort. Aanmeldingen na 12 juli 2004 (datum poststempel) worden niet meer in behandeling genomen! |
+| Uiterlijk 15 juli | alle scholen | Zo spoedig mogelijk na de vaststelling van de definitieve uitslag stuurt het bevoegd gezag (per aangetekende post dan wel met ontvangstbevestiging) aan Informatie Beheer Groep, afd. Os/Onderwijsnummer, Postbus 30157, 9700 LJ Groningen, de diskette waarop de examengegevens van alle kandidaten zijn vermeld. |
+| 16-25 augustus | scholen met een kandidaat in het derde tijdvak | derde tijdvak. Data en plaats worden na aanmelding bekend gemaakt |

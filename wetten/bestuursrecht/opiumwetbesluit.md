@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 9 december 2002, houdende uitvoeringsvoorschriften krachtens de Opiumwet (Opiumwetbesluit)"
+citeertitel: "Opiumwetbesluit"
 identifier: "BWBR0014405"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014405"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "3265623"
-version_id: "16614942"
-internal_id: "C22874871"
-label_id: "3245984"
-dtd_version: "2.0"
-original_entry_into_force: "2009-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014405/2023-01-01/0"
-intitule_bron: "Stb.2002-624"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-09"
-intitule_published: "2002-12-23"
-intitule_in_force: "2003-03-11"
-intitule_status: "goed"
-original_publication: "Stb.2009-348"
-original_signed_date: "2009-07-18"
-original_published_date: "2009-08-20"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2009-348"
-entry_into_force_date: "2009-10-15"
-jci_1_3: "jci1.3:c:BWBR0014405&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0014405&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Opiumwetbesluit"
-signed_date: "2009-07-18"
-entry_into_force: "2009-10-15"
+publicatiedatum: 2009-10-15
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0014405"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 9 december 2002, houdende uitvoeringsvoorschriften krachtens de Opiumwet (Opiumwetbesluit)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 26 september 2002, GMT/BMC 2316914, gedaan in overeenstemming met Onze Minister van Justitie en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
-
-Gelet op de [artikelen 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3c), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4), en [5, eerste en tweede lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5);
-
-De Raad van State gehoord (advies van 24 oktober 2002, no.W13.02.0425/III;
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 2 december 2002, GMT/BMC 2332422, gedaan in overeenstemming met Onze Minister van Justitie en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) in werking treedt.
 
 ### Hoofdstuk 1. Begripbepalingen
 
@@ -62,7 +28,7 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 - d. opiumwetmiddel: een middel waarop [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) of [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) van toepassing is;
 
-- e. recept: een document als bedoeld in [artikel 1, eerste lid, onder pp, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) of artikel 4, onderdeel 33, van [Verordening (EU) 2019/6](31906R2019) van het Europees Parlement en de Raad van 11 december 2018 betreffende diergeneesmiddelen en tot intrekking van [Richtlijn 2001/82/EG](32001L0082) (PbEU 2019, L 4);
+- e. recept: een document als bedoeld in [artikel 1, eerste lid, onder pp, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) of artikel 4, onderdeel 33, van Verordening (EU) 2019/6 van het Europees Parlement en de Raad van 11 december 2018 betreffende diergeneesmiddelen en tot intrekking van Richtlijn 2001/82/EG (PbEU 2019, L 4);
 
 - f. gevestigde apotheker: een apotheker als bedoeld in [artikel 1, onder c, van het Besluit Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021672&artikel=1);
 
@@ -190,9 +156,9 @@ pentobarbital.
 
 - f. preparaten van difenoxylaat die per doseringseenheid niet meer dan 2,5 mg difenoxylaat, berekend als base, bevatten alsmede een hoeveelheid atropinesulfaat van ten minste 1 procent van de hoeveelheid difenoxylaat;
 
-- g. pulvis ipecacuanhae et opii compositus, bestaande uit: 10 procent opium in poedervorm, 10 procent ipecacuanhawortel in poedervorm, goed vermengd met 80 procent van een ander bestanddeel in poedervorm dat geen middel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) of [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bevat;
+- g. pulvis ipecacuanhae et opii compositus, bestaande uit: 10 procent opium in poedervorm, 10 procent ipecacuanhawortel in poedervorm, goed vermengd met 80 procent van een ander bestanddeel in poedervorm dat geen middel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) of [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bevat;
 
-- h. mengsels van de preparaten als bedoeld onder a tot en met g met enig materiaal dat geen middel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) of [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bevat.
+- h. mengsels van de preparaten als bedoeld onder a tot en met g met enig materiaal dat geen middel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) of [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bevat.
 
 3. De in het eerste en tweede lid bedoelde preparaten worden door gevestigde apothekers en apotheekhoudende artsen slechts afgeleverd op een recept.
 
@@ -244,6 +210,10 @@ Het verbod, gesteld in de [artikelen 2, aanhef en onder A](https://wetten.overhe
 
 Het verbod, gesteld in de [artikelen 2, aanhef en onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), alsmede het verbod op het aanwezig hebben, vervoeren, verkopen, afleveren en verstrekken, gesteld in de [artikelen 2, aanhef en onder B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder B en C, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), gelden niet indien het een homeopathisch geneesmiddel betreft als bedoeld in [artikel 1, eerste lid, onder f, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) dat een opiumwetmiddel bevat waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) betrekking heeft, de farmaceutische vorm van dat product geen hogere concentratie van het middel heeft dan éénmiljoenste deel van de oertinctuur en in de verpakking waarin het product in de handel wordt gebracht niet meer dan 1 microgram van het middel aanwezig is.
 
+##### Artikel 15a
+
+De verboden in [artikel 3, aanhef en onder A, B, C en D, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) ten aanzien van distikstofmonoxide (lachgas), CAS-nummer 10024-97-2, zijn niet van toepassing wanneer het distikstofmonoxide bestemd is voor technische doeleinden of als voedingsadditief.
+
 ### Hoofdstuk 6. Aangewezen instellingen
 
 ##### Artikel 16
@@ -268,35 +238,35 @@ De verboden, voor zover betrekking hebbend op het aanwezig hebben, verstrekken o
 
 ##### Artikel 17
 
-Wijzigt het Besluit bereiding en aflevering van farmaceutische producten.
+*Wijzigt het Besluit bereiding en aflevering van farmaceutische producten.*
 
 ##### Artikel 18
 
 Ingetrokken worden de volgende besluiten:
 
-- –. het [koninklijk besluit van 18 oktober 1976, houdende uitvoering van artikel 3a, eerste lid, van de Opiumwet (Stb. 1976, 509)](https://wetten.overheid.nl/jci1.3:c:BWBR0003060);
+- – het [koninklijk besluit van 18 oktober 1976, houdende uitvoering van artikel 3a, eerste lid, van de Opiumwet (Stb. 1976, 509)](https://wetten.overheid.nl/jci1.3:c:BWBR0003060);
 
-- –. het [koninklijk besluit van 18 oktober 1976, houdende aanwijzing van instellingen, bedoeld in artikel 6, derde lid, van de Opiumwet (Stb. 1976, 512)](https://wetten.overheid.nl/jci1.3:c:BWBR0003063);
+- – het [koninklijk besluit van 18 oktober 1976, houdende aanwijzing van instellingen, bedoeld in artikel 6, derde lid, van de Opiumwet (Stb. 1976, 512)](https://wetten.overheid.nl/jci1.3:c:BWBR0003063);
 
-- –. het [koninklijk besluit van 18 oktober 1976, houdende regelen met betrekking tot registratie van de toediening van Opiumwetmiddelen (Stb. 1976, 510)](https://wetten.overheid.nl/jci1.3:c:BWBR0003061);
+- – het [koninklijk besluit van 18 oktober 1976, houdende regelen met betrekking tot registratie van de toediening van Opiumwetmiddelen (Stb. 1976, 510)](https://wetten.overheid.nl/jci1.3:c:BWBR0003061);
 
-- –. het [Besluit vergoedingen Opiumwetverloven](https://wetten.overheid.nl/jci1.3:c:BWBR0003062);
+- – het [Besluit vergoedingen Opiumwetverloven](https://wetten.overheid.nl/jci1.3:c:BWBR0003062);
 
-- –. het [Besluit voorschrijven en bestellen opiumwetmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0010492);
+- – het [Besluit voorschrijven en bestellen opiumwetmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0010492);
 
-- –. het [Besluit aflevering Opiumwetmiddelen op recept](https://wetten.overheid.nl/jci1.3:c:BWBR0003059);
+- – het [Besluit aflevering Opiumwetmiddelen op recept](https://wetten.overheid.nl/jci1.3:c:BWBR0003059);
 
-- –. het [Besluit aanwijzing 2-CB](https://wetten.overheid.nl/jci1.3:c:BWBR0009792);
+- – het [Besluit aanwijzing 2-CB](https://wetten.overheid.nl/jci1.3:c:BWBR0009792);
 
-- –. het [koninklijk besluit van 6 december 1996, houdende aanwijzing van enkele middelen op grond van artikel 2, tweede lid, van de Opiumwet alsmede wijziging van lijst II, behorende bij de Opiumwet (Stb.1996, 634)](https://wetten.overheid.nl/jci1.3:c:BWBR0008390);
+- – het [koninklijk besluit van 6 december 1996, houdende aanwijzing van enkele middelen op grond van artikel 2, tweede lid, van de Opiumwet alsmede wijziging van lijst II, behorende bij de Opiumwet (Stb.1996, 634)](https://wetten.overheid.nl/jci1.3:c:BWBR0008390);
 
-- –. het [koninklijk besluit van 19 januari 2000, houdende aanwijzing van middelen op grond van artikel 2, tweede lid, van de Opiumwet en wijziging van een ander besluit (Stb. 2000, 41)](https://wetten.overheid.nl/jci1.3:c:BWBR0011108);
+- – het [koninklijk besluit van 19 januari 2000, houdende aanwijzing van middelen op grond van artikel 2, tweede lid, van de Opiumwet en wijziging van een ander besluit (Stb. 2000, 41)](https://wetten.overheid.nl/jci1.3:c:BWBR0011108);
 
-- –. het [koninklijk besluit van 28 juli 2002, (Stb. 2002, 438) houdende aanwijzing van middelen op grond van artikel 2, tweede lid, van de Opiumwet alsmede wijziging van lijst II, behorende bij de Opiumwet op grond van artikel 3, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013934).
+- – het [koninklijk besluit van 28 juli 2002, (Stb. 2002, 438) houdende aanwijzing van middelen op grond van artikel 2, tweede lid, van de Opiumwet alsmede wijziging van lijst II, behorende bij de Opiumwet op grond van artikel 3, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013934).
 
 ##### Artikel 19
 
-Wijzigt dit besluit.
+*Wijzigt dit besluit.*
 
 ##### Artikel 20
 
@@ -305,43 +275,3 @@ Dit besluit wordt aangehaald als: Opiumwetbesluit.
 ##### Artikel 21
 
 Dit besluit treedt in werking op het tijdstip waarop de Wet van 13 juli 2002 tot wijziging van de Opiumwet (Stb.2002, 520) in werking treedt.
-
-## Bijlage 1. behorende bij het Opiumwetbesluit
-
-- a. de volgende op [Lijst I van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) vermelde middelen: acetylmethadol alfacetylmethadol alfentanil amfetamine bezitramide cocaïne codeïne dexamfetamine dextromoramide dextropropoxyfeen difenoxylaat dihydrocodeïne ethylmorfine fentanyl 4-hydroxyboterzuur hydrocodon hydromorfon metamfetamine metamfetamine racemaat methadon methylfenidaat morfine nicomorfine opium oxycodon pethidine piritramide remifentanil secobarbital sufentanil tapentadol Δ-9-tetrahydrocannabinol
-
-- b. de middelen vermeld op [Lijst II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II), met uitzondering van hasjiesj,
-
-- c. de zouten, esters, ethers en enantiomeren van de bovengenoemde substanties,
-
-- d. preparaten van vorenstaande opiumwetmiddelen, voor zover deze geen opiumwetmiddelen bevatten die niet in deze bijlage worden genoemd.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-## Bijlage 1. behorende bij het Opiumwetbesluit
-
-- a. de volgende op [Lijst I van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) vermelde middelen: acetylmethadol alfacetylmethadol alfentanil amfetamine bezitramide cocaïne codeïne dexamfetamine dextromoramide dextropropoxyfeen difenoxylaat dihydrocodeïne ethylmorfine fentanyl 4-hydroxyboterzuur hydrocodon hydromorfon metamfetamine metamfetamine racemaat methadon methylfenidaat morfine nicomorfine opium oxycodon pethidine piritramide remifentanil secobarbital sufentanil tapentadol Δ-9-tetrahydrocannabinol
-
-- b. de middelen vermeld op [Lijst II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II), met uitzondering van hasjiesj,
-
-- c. de zouten, esters, ethers en enantiomeren van de bovengenoemde substanties,
-
-- d. preparaten van vorenstaande opiumwetmiddelen, voor zover deze geen opiumwetmiddelen bevatten die niet in deze bijlage worden genoemd.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 15a
-
-De verboden in [artikel 3, aanhef en onder A, B, C en D, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) ten aanzien van distikstofmonoxide (lachgas), CAS-nummer 10024-97-2, zijn niet van toepassing wanneer het distikstofmonoxide bestemd is voor technische doeleinden of als voedingsadditief.
-
-### Hoofdstuk 6. Aangewezen instellingen
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-## Bijlage 2. behorende bij het Opiumwetbesluit
-
-- a. het op [Lijst I van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) vermelde middel heroïne, diamorfine
-
-- b. preparaten van het onder a bedoelde middel.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

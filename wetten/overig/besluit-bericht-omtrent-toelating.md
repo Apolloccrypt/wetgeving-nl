@@ -1,62 +1,26 @@
 ---
 title: "Besluit van 20 maart 2003 tot uitvoering van artikel 13, tweede lid, van de Rijkswet op het Nederlanderschap (Besluit bericht omtrent toelating)"
+citeertitel: "Besluit bericht omtrent toelating"
 identifier: "BWBR0014831"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014831"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijksKB"
-stam_id: "3385213"
-version_id: "5148332"
-internal_id: "C5351081"
-label_id: "3375264"
-dtd_version: "2.0"
-original_entry_into_force: "2003-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014831/2010-10-10/0"
-intitule_bron: "Stb.2003-119"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-03-20"
-intitule_published: "2003-03-28"
-intitule_in_force: "2003-03-25"
-intitule_status: "goed"
-original_publication: "Stb.2003-119"
-original_signed_date: "2003-03-20"
-original_published_date: "2003-03-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2003-119"
-entry_into_force_date: "2003-04-01"
-jci_1_3: "jci1.3:c:BWBR0014831&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0014831&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Besluit bericht omtrent toelating"
-signed_date: "2003-03-20"
-entry_into_force: "2003-04-01"
+publicatiedatum: 2003-04-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0014831"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 20 maart 2003 tot uitvoering van artikel 13, tweede lid, van de Rijkswet op het Nederlanderschap (Besluit bericht omtrent toelating)
-
-Op de voordracht van Onze Minister voor Vreemdelingenzaken en Integratie van 12 september 2002, Directie Wetgeving, nr. 5184659/02/6;
-
-Gelet op de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=13), en [23 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23);
-
-De Raad van State van het Koninkrijk gehoord (advies van 12 november 2002, nr. W03.02 0403/I/K);
-
-Gezien het nader rapport van Onze Minister voor Vreemdelingenzaken en Integratie van 13 maart 2003, Directie Wetgeving, nr. 5215755/03/6;
-
-De bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde:
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop het Besluit verkrijging en verlies Nederlanderschap in werking treedt.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **Onze Minister:** Onze Minister van Justitie in zijn hoedanigheid van minister van het Koninkrijk;
+- *Onze Minister:* Onze Minister van Justitie in zijn hoedanigheid van minister van het Koninkrijk;
 
-- **openbaar lichaam:** de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- *openbaar lichaam:* de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 2
 
@@ -99,5 +63,3 @@ Het bericht omtrent toelating informeert omtrent de periode gedurende welke een 
 1. Dit besluit treedt in werking op het tijdstip waarop het [Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) in werking treedt.
 
 2. Dit besluit wordt aangehaald als: Besluit bericht omtrent toelating.
-
-Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba zal worden geplaatst.

@@ -1,52 +1,27 @@
 ---
 title: "Regeling aanvraag autorisatie classificatiecode vuurwerk"
 identifier: "BWBR0014382"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014382"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3824733"
-version_id: "5607522"
-internal_id: "C5800611"
-label_id: "3804404"
-dtd_version: "2.0"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014382/2024-01-01/0"
-intitule_bron: "Stcrt.2002-240"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-04"
-intitule_published: "2002-12-12"
-intitule_in_force: "2002-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-240"
-original_signed_date: "2002-12-04"
-original_published_date: "2002-12-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-01-01"
-jci_1_3: "jci1.3:c:BWBR0014382&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0014382&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2002-12-04"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0014382"
+opgehaald: 2026-08-07
 ---
+
 # Regeling aanvraag autorisatie classificatiecode vuurwerk
-
-Gelet op [artikel 49, tweede lid van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=49) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2) en [5 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=5);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **bevoegde autoriteit:** Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), als de erkende instantie die is aangewezen voor randnummer 2.2.1.1.7.2 van het ADR, het ADN en het RID;
+- a. *bevoegde autoriteit:* Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), als de erkende instantie die is aangewezen voor randnummer 2.2.1.1.7.2 van het ADR, het ADN en het RID;
 
-- b. **defaultlijst:** lijst van geclassificeerd vuurwerk, vastgesteld door het UN Subcommittee of Experts on the Transport of Dangerous Goods, zoals opgenomen in de tabel onder randnummer 2.2.1.1.7.5 van het ADR, ADN of RID;
+- b. *defaultlijst:* lijst van geclassificeerd vuurwerk, vastgesteld door het UN Subcommittee of Experts on the Transport of Dangerous Goods, zoals opgenomen in de tabel onder randnummer 2.2.1.1.7.5 van het ADR, ADN of RID;
 
-- c. **vuurwerk:** al het vuurwerk vallende onder de UN-nummers 0333, 0334, 0335, 0336, 0337 en 0431.
+- c. *vuurwerk:* al het vuurwerk vallende onder de UN-nummers 0333, 0334, 0335, 0336, 0337 en 0431.
 
 ##### Artikel 2
 
@@ -105,5 +80,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2003.
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling aanvraag autorisatie classificatiecode vuurwerk.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

@@ -1,42 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 6 november 2003, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van voedergewassen in Nederland voor het jaar 2004 (Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2004)"
+citeertitel: "Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2004"
 identifier: "BWBR0015848"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-02-08"
-last_updated: "2004-02-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015848"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6079643"
-version_id: "10740212"
-internal_id: "C29092451"
-label_id: "6068874"
-original_entry_into_force: "2004-02-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015848/2004-02-08/0"
-intitule_bron: "Vbbo.2004-7"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-11-06"
-intitule_published: "2004-02-06"
-intitule_in_force: "2004-02-06"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-7"
-original_signed_date: "2003-11-06"
-original_published_date: "2004-02-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-02-08"
-jci_1_3: "jci1.3:c:BWBR0015848&z=2004-02-08&g=2004-02-08"
-jci_1_0: "1.0:c:BWBR0015848&g=2004-02-08"
-citeertitel_status: "officieel"
-short_title: "Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2004"
-signed_date: "2003-11-06"
-entry_into_force: "2004-02-08"
+publicatiedatum: 2004-02-08
+laatste_update: 2004-02-08
+status: geldig
+toestand: 2004-02-08
+bron: "https://wetten.overheid.nl/BWBR0015848"
+opgehaald: 2026-08-07
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 6 november 2003, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van voedergewassen in Nederland voor het jaar 2004 (Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2004)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 5](onbekend), [6](onbekend) en [7 van de Instellingsverordening akkerbouwproductschappen 1997](onbekend) dan wel het [Instellingsbesluit akkerbouwproductschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0016234) zodra dit in werking is getreden;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -57,15 +33,18 @@ Deze verordening verstaat onder:
 
 1. De ondernemer, die in het jaar 2004 werkzaamheden verricht in het kweekbedrijf voor zaaizaad van voedergewassenen/of met betrekking tot de be- en verwerking en/of met betrekking tot het in de handel brengen van zaaizaad van voedergewassen, is verplicht aan het productschap te betalen:
 
-- a. een basisheffing volgens onderstaand tarief: Voor de berekening van de basisheffing wordt gebruik gemaakt van het in het derde lid verstrekte omzetgegeven, verminderd met het omzetbedrag dat is behaald over door de ondernemer geïmporteerde producten uit andere lidstaten.
-
-| **Omzet** | **Heffing** |
-| --- | --- |
-| < € 200.000 | € 68,07 |
-| € 200.000 - 1.000.000 | € 340,34 |
-| € 1.000.000 - 2.000.000 | € 680,67 |
-| € 2.000.000 - 4.000.000 | € 1.361,34 |
-| > € 4.000.000 | € 6.806,70 |
+- a. een basisheffing volgens onderstaand tarief: *Omzet*
+ *Heffing*
+ < € 200.000
+ € 68,07
+ € 200.000 - 1.000.000
+ € 340,34
+ € 1.000.000 - 2.000.000
+ € 680,67
+ € 2.000.000 - 4.000.000
+ € 1.361,34
+ > € 4.000.000
+ € 6.806,70 Voor de berekening van de basisheffing wordt gebruik gemaakt van het in het derde lid verstrekte omzetgegeven, verminderd met het omzetbedrag dat is behaald over door de ondernemer geïmporteerde producten uit andere lidstaten.
 
 - b. een heffing van € 0, -- per ha aangekocht zaaizaad van Voedergewassen, dat op contractbasis in Nederland is geteeld.
 

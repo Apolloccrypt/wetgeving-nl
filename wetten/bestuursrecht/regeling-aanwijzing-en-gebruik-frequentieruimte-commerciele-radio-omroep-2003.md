@@ -1,52 +1,24 @@
 ---
 title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van inzake aanwijzing en gebruik frequentieruimte commerciële radio-omroep"
+citeertitel: "Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003"
 identifier: "BWBR0014740"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-26"
-last_updated: "2024-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014740"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "4150693"
-version_id: "16241322"
-internal_id: "C22266991"
-label_id: "4130184"
-dtd_version: "2.0"
-original_entry_into_force: "2009-03-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014740/2024-11-26/0"
-intitule_bron: "Stcrt.2003-40"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-02-24"
-intitule_published: "2003-02-26"
-intitule_in_force: "2003-02-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-58"
-original_signed_date: "2009-03-22"
-original_published_date: "2009-03-25"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2009-4368"
-entry_into_force_date: "2009-03-22"
-jci_1_3: "jci1.3:c:BWBR0014740&z=2024-11-26&g=2024-11-26"
-jci_1_0: "1.0:c:BWBR0014740&g=2024-11-26"
-citeertitel_status: "officieel"
-short_title: "Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003"
-signed_date: "2009-03-22"
-entry_into_force: "2009-03-22"
+publicatiedatum: 2009-03-22
+laatste_update: 2024-11-26
+status: geldig
+toestand: 2024-11-26
+bron: "https://wetten.overheid.nl/BWBR0014740"
+opgehaald: 2026-08-07
 ---
+
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van inzake aanwijzing en gebruik frequentieruimte commerciële radio-omroep
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 82e van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=82e), en [artikel 53c, tweede lid, van het Mediabesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004237&artikel=53c);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **muziek:** uitgezonden muziekproductie, al dan niet in samenloop met spraak die dient ter aankondiging of afkondiging daarvan.
+- *muziek:* uitgezonden muziekproductie, al dan niet in samenloop met spraak die dient ter aankondiging of afkondiging daarvan.
 
 ##### Artikel 2
 
@@ -76,15 +48,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -92,11 +64,11 @@ Vervallen
 
 - a. het radioprogramma in elk geval wordt uitgezonden gedurende de uren van 07.00 uur tot 19.00 uur;
 
-- b. in het radioprogramma tussen 07.00 uur en 19.00 uur en tussen 19.00 uur en 23.00 uur voor zover er in laatstgenoemde uren wordt uitgezonden ten minste eenmaal per uur op het hele uur een programmaonderdeel bestaande uit nieuws is opgenomen;
+- b. in het radioprogramma tussen 07.00 uur en 19.00 uur en tussen 19.00 uur en 23.00 uur voor zover er in laatstgenoemde uren wordt uitgezonden ten minste eenmaal per uur op het hele uur een programmaonderdeel bestaande uit nieuws is opgenomen;
 
 - c. het radioprogramma verzorgd wordt door een commerciële omroepinstelling, waarvan alle door haar verzorgde en via omroepnetwerken analoog uitgezonden programma's tezamen door niet meer dan 30 procent van het aantal inwoners van Nederland kunnen worden ontvangen; en
 
-- d. het radioprogramma door niet meer dan 30 procent van het aantal inwoners in Nederland kan worden ontvangen.
+- d. het radioprogramma door niet meer dan 30 procent van het aantal inwoners in Nederland kan worden ontvangen.
 
 2. Als frequentieruimte, bedoeld in het eerste lid, wordt aangewezen de voor niet-landelijke commerciële radio-omroep bestemde kavels B1 tot en met B27.
 
@@ -104,7 +76,7 @@ Vervallen
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -113,11 +85,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage. behorend bij de artikelen 4, tweede lid, en 8, eerste lid,
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

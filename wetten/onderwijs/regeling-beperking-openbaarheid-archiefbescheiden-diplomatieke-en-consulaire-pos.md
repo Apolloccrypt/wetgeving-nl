@@ -1,43 +1,18 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 17 december 2003, nr. DDI/ST/reg 6/2003, houdende beperking van de openbaarheid van de archieven van diplomatieke en consulaire posten (1856) 1945–1954 (1963)"
+citeertitel: "Regeling Beperking openbaarheid archiefbescheiden (diplomatieke en consulaire posten (1856) 1945–1954 (1963))"
 identifier: "BWBR0016154"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-01-18"
-last_updated: "2004-01-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016154"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5631733"
-version_id: "10076302"
-internal_id: "C13608001"
-label_id: "5612594"
-original_entry_into_force: "2004-01-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016154/2004-01-18/0"
-intitule_bron: "Stcrt.2004-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-12-17"
-intitule_published: "2004-01-16"
-intitule_in_force: "2004-01-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-10"
-original_signed_date: "2003-12-17"
-original_published_date: "2004-01-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-10-p10-SC63204"
-entry_into_force_date: "2004-01-18"
-jci_1_3: "jci1.3:c:BWBR0016154&z=2004-01-18&g=2004-01-18"
-jci_1_0: "1.0:c:BWBR0016154&g=2004-01-18"
-citeertitel_status: "redactioneel"
-short_title: "Regeling Beperking openbaarheid archiefbescheiden (diplomatieke en consulaire posten (1856) 1945–1954 (1963))"
-signed_date: "2003-12-17"
-entry_into_force: "2004-01-18"
+publicatiedatum: 2004-01-18
+laatste_update: 2004-01-18
+status: geldig
+toestand: 2004-01-18
+bron: "https://wetten.overheid.nl/BWBR0016154"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 17 december 2003, nr. DDI/ST/reg 6/2003, houdende beperking van de openbaarheid van de archieven van diplomatieke en consulaire posten (1856) 1945–1954 (1963)
-
-Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -45,7 +20,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van de archi
 
 | 1. Inventaris- nummer | 2. Geheel openbaar met ingang van 1 januari: |
 | --- | --- |
-| **Nederlandse ambassade te Bonn** **1945–1954** | **Nederlandse ambassade te Bonn** **1945–1954** |
+| Nederlandse ambassade te Bonn 1945–1954 |  |
 | 182 | 2030 |
 | 183 | 2030 |
 | 184 | 2030 |
@@ -100,8 +75,8 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van de archi
 | 463 | 2030 |
 | 606 | 2027 |
 | 773 | 2030 |
-|   |   |
-| **Nederlandse militaire missie Berlijn 1945–1955** | **Nederlandse militaire missie Berlijn 1945–1955** |
+|  |  |
+| Nederlandse militaire missie Berlijn 1945–1955 |  |
 | 819 | 2028 |
 | 832 | 2030 |
 | 844 | 2029 |
@@ -109,16 +84,16 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van de archi
 | 853 | 2026 |
 | 854 | 2026 |
 | 860 | 2030 |
-|   |   |
-| **Frankrijk 1943–1955** | **Frankrijk 1943–1955** |
+|  |  |
+| Frankrijk 1943–1955 |  |
 | 964 | 2025 |
 | 972 | 2024 |
 | 982 | 2026 |
 | 1000 | 2024 |
 | 1030 | 2022 |
 | 1038 | 2027 |
-|   |   |
-| **Consulaat te Parijs** | **Consulaat te Parijs** |
+|  |  |
+| Consulaat te Parijs |  |
 | 1270 | 2025 |
 | 1290 | 2023 |
 | 1301 | 2028 |
@@ -130,11 +105,11 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van de archi
 | 1345 | 2023 |
 | 1346 | 2028 |
 | 1347 | 2029 |
-|   |   |
-| **Ceylon, Colombo 1940–1953** | **Ceylon, Colombo 1940–1953** |
+|  |  |
+| Ceylon, Colombo 1940–1953 |  |
 | 1514 | 2027 |
-|   |   |
-| **Indonesië, Soerabaja 1940–1953** | **Indonesië, Soerabaja 1940–1953** |
+|  |  |
+| Indonesië, Soerabaja 1940–1953 |  |
 | 1528 | 2033 |
 | 1529 | 2032 |
 | 1530 | 2029 |
@@ -150,24 +125,24 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van de archi
 | 1917 | 2029 |
 | 1918 | 2033 |
 | 1919 | 2033 |
-|   |   |
-| **Nederlandse delegatie Security Council Committee of Good Offices on the Indonesian Question 1946–1949** | **Nederlandse delegatie Security Council Committee of Good Offices on the Indonesian Question 1946–1949** |
+|  |  |
+| Nederlandse delegatie Security Council Committee of Good Offices on the Indonesian Question 1946–1949 |  |
 | 2007 | 2024 |
 | 2008 | 2024 |
 | 2009 | 2024 |
-|   |   |
-| **Israël 1934–1954** | **Israël 1934–1954** |
+|  |  |
+| Israël 1934–1954 |  |
 | 2084 | 2029 |
 | 2085 | 2029 |
 | 2086 | 2029 |
 | 2087 | 2029 |
 | 2088 | 2029 |
-|   |   |
-| **Kobe (1922) 1945–1954** | **Kobe (1922) 1945–1954** |
+|  |  |
+| Kobe (1922) 1945–1954 |  |
 | 2114 | 2029 |
 | 2115 | 2029 |
-|   |   |
-| **Karachi 1945–1954** | **Karachi 1945–1954** |
+|  |  |
+| Karachi 1945–1954 |  |
 | 2156 | 2029 |
 | 2157 | 2030 |
 | 2158 | 2030 |
@@ -177,15 +152,15 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van de archi
 | 2162 | 2027 |
 | 2163 | 2024 |
 | 2164 | 2026 |
-|   |   |
-| **Vietnam 1946–1949** | **Vietnam 1946–1949** |
+|  |  |
+| Vietnam 1946–1949 |  |
 | 2188 | 2025 |
 | 2189 | 2025 |
 | 2191 | 2013 |
 | 2192 | 2025 |
 | 2193 | 2025 |
-|   |   |
-| **Tanger 1907–1957** | **Tanger 1907–1957** |
+|  |  |
+| Tanger 1907–1957 |  |
 | 2229 | 2032 |
 | 2230 | 2033 |
 | 2231 | 2030 |
@@ -193,14 +168,14 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van de archi
 | 2233 | 2026 |
 | 2234 | 2033 |
 | 2263 | 2032 |
-|   |   |
-| **Vancouver 1924–1954** | **Vancouver 1924–1954** |
+|  |  |
+| Vancouver 1924–1954 |  |
 | 2320 | 2030 |
 | 2321 | 2026 |
 | 2323 | 2029 |
 | 2372 | 2021 |
-|   |   |
-| **Lima 1936–1954** | **Lima 1936–1954** |
+|  |  |
+| Lima 1936–1954 |  |
 | 2410 | 2026 |
 | 2411 | 2019 |
 | 2412 | 2021 |
@@ -208,8 +183,8 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van de archi
 | 2414 | 2020 |
 | 2415 | 2024 |
 | 2424 | 2026 |
-|   |   |
-| **Washington** | **Washington** |
+|  |  |
+| Washington |  |
 | 2534 | 2023 |
 | 2535 | 2019 |
 | 2536 | 2025 |
@@ -239,14 +214,14 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van de archi
 | 3155 | 2028 |
 | 3156 | 2032 |
 | 3157 | 2033 |
-|   |   |
-| **Los Angeles 1940–1954** | **Los Angeles 1940–1954** |
+|  |  |
+| Los Angeles 1940–1954 |  |
 | 3526 | 2025 |
 | 3536 | 2030 |
 
 ##### Artikel 2
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de in de tabel bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016154&artikel=1&z=2004-01-18&g=2004-01-18) genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief met een verzoek tot inzage. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het **‘Formulier voor toestemming tot raadpleging van niet openbare archieven’**; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de in de tabel bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016154&artikel=1&z=2004-01-18&g=2004-01-18) genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief met een verzoek tot inzage. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het *‘Formulier voor toestemming tot raadpleging van niet openbare archieven’*; een exemplaar van dit formulier is als [bijlage](https://wetten.overheid.nl/BWBR0016154) bij dit besluit gevoegd. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
 
 ##### Artikel 3
 
@@ -260,6 +235,4 @@ Publicatie van gegevens uit de archief bescheiden geborgen onder de in de tabel 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit zal als bijlage bij de **‘Verklaring van Overbrenging van de archieven van diplomatieke en consulaire posten (1856) 1945–1954 (1963)’** worden gevoegd.
-
-## Bijlage
+Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit zal als bijlage bij de *‘Verklaring van Overbrenging van de archieven van diplomatieke en consulaire posten (1856) 1945–1954 (1963)’* worden gevoegd.

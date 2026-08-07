@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0038553"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 17 september 2016, nr. 884572, houdende vaststelling van beleidsregels inzake subsidiëring landelijke onderwijsondersteunende activiteiten (Besluit vaststelling beleidskader SLOA)

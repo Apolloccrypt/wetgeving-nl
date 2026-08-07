@@ -1,42 +1,17 @@
 ---
 title: "Instellingsregeling Interdepartementale Commissie voor Veiligheid"
 identifier: "BWBR0014562"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-03-08"
-last_updated: "2003-03-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014562"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5711793"
-version_id: "10211752"
-internal_id: "C13791271"
-label_id: "5692004"
-dtd_version: "2.0"
-original_entry_into_force: "2003-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014562/2003-03-08/0"
-intitule_bron: "Stcrt.2003-46"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-01-02"
-intitule_published: "2003-03-06"
-intitule_in_force: "2003-03-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-46"
-original_signed_date: "2003-01-02"
-original_published_date: "2003-03-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-03-08"
-jci_1_3: "jci1.3:c:BWBR0014562&z=2003-03-08&g=2003-03-08"
-jci_1_0: "1.0:c:BWBR0014562&g=2003-03-08"
-citeertitel_status: "redactioneel"
-signed_date: "2003-01-02"
-entry_into_force: "2003-03-08"
+publicatiedatum: 2003-03-08
+laatste_update: 2003-03-08
+status: geldig
+toestand: 2003-03-08
+bron: "https://wetten.overheid.nl/BWBR0014562"
+opgehaald: 2026-08-07
 ---
+
 # Instellingsregeling Interdepartementale Commissie voor Veiligheid
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -75,5 +50,3 @@ De commissie evalueert haar functioneren voor 1 januari 2005. Zij brengt het ver
 ##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

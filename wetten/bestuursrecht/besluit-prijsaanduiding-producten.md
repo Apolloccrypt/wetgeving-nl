@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 21 mei 2003, houdende regels met betrekking tot de prijsaanduiding van producten ter vervanging van het Besluit prijsaanduiding goederen 1980 in verband met de aanpassing aan de systematiek en de terminologie van de EG-richtlijn betreffende de prijsaanduiding van aan de consument aangeboden producten (Besluit prijsaanduiding producten)"
+citeertitel: "Besluit prijsaanduiding producten"
 identifier: "BWBR0015104"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015104"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "4366513"
-version_id: "29083912"
-internal_id: "C41342081"
-label_id: "4345084"
-dtd_version: "2.0"
-original_entry_into_force: "2022-11-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015104/2023-01-01/0"
-intitule_bron: "Stb.2003-229"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-21"
-intitule_published: "2003-06-10"
-intitule_in_force: "2003-06-10"
-intitule_status: "goed"
-original_publication: "Stb.2022-485"
-original_signed_date: "2022-11-30"
-original_published_date: "2022-12-05"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2022-485"
-entry_into_force_date: "2022-11-30"
-jci_1_3: "jci1.3:c:BWBR0015104&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0015104&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit prijsaanduiding producten"
-signed_date: "2022-11-30"
-entry_into_force: "2022-11-30"
+publicatiedatum: 2022-11-30
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0015104"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 21 mei 2003, houdende regels met betrekking tot de prijsaanduiding van producten ter vervanging van het Besluit prijsaanduiding goederen 1980 in verband met de aanpassing aan de systematiek en de terminologie van de EG-richtlijn betreffende de prijsaanduiding van aan de consument aangeboden producten (Besluit prijsaanduiding producten)
-
-Op de voordracht van Onze Minister van Economische Zaken van 2 oktober 2002, nr. WJZ 02048730;
-
-Gelet op [richtlijn nr. 98/6/EG](31998L0006) van het Europees Parlement en de Raad van de Europese Unie van 16 februari 1998 betreffende de bescherming van de consument inzake de prijsaanduiding van aan de consument aangeboden producten (PbEG L 80) en op [artikel 2b, eerste lid, onder a en b, van de Prijzenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2b);
-
-De Raad van State gehoord (advies van 13 januari 2003, nr. W10.020452/II);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 16 mei 2003, nr. WJZ3005025;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -64,21 +32,21 @@ In dit besluit wordt verstaan onder:
 
 1. De prijs per meeteenheid wordt uitgedrukt in een van de volgende meeteenheden danwel de decimale veelvouden of fracties hiervan:
 
-- a. in het geval de hoeveelheid van een product is aangegeven in volume: 1 kubieke meter of 1 liter, met dien verstande dat de meeteenheid 0,1 liter ook kan worden weergegeven als 1 deciliter, 10 centiliter of 100 milliliter;
+- a. in het geval de hoeveelheid van een product is aangegeven in volume: 1 kubieke meter of 1 liter, met dien verstande dat de meeteenheid 0,1 liter ook kan worden weergegeven als 1 deciliter, 10 centiliter of 100 milliliter;
 
-- b. in het geval de hoeveelheid van een product is aangegeven in gewicht: 1 ton, 1 kilogram of 100 gram;
+- b. in het geval de hoeveelheid van een product is aangegeven in gewicht: 1 ton, 1 kilogram of 100 gram;
 
 - c. in het geval de hoeveelheid van een product is aangegeven in lengte: 1 meter;
 
 - d. in het geval de hoeveelheid van een product is aangegeven in oppervlakte: 1 vierkante meter.
 
-2. Indien op een voorverpakt product dat bestaat uit een vast bestanddeel en een opgietvloeistof, het uitlekgewicht wordt vermeld ingevolge Bijlage IX, punt 5, van verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304), heeft de aanduiding van de prijs per meeteenheid betrekking op het vaste bestanddeel van het product.
+2. Indien op een voorverpakt product dat bestaat uit een vast bestanddeel en een opgietvloeistof, het uitlekgewicht wordt vermeld ingevolge Bijlage IX, punt 5, van verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304), heeft de aanduiding van de prijs per meeteenheid betrekking op het vaste bestanddeel van het product.
 
 ##### Artikel 3
 
 1. Een verkoper biedt een product, dan wel een monster met gebruikmaking waarvan een product wordt aangeboden, slechts te koop aan indien het voorzien is van een aanduiding van de verkoopprijs en de prijs per meeteenheid.
 
-2. De verkoopprijs en de prijs per meeteenheid behoeft niet te worden aangeduid voor een product, vermeld in bijlage I.
+2. De verkoopprijs en de prijs per meeteenheid behoeft niet te worden aangeduid voor een product, vermeld in [bijlage I](https://wetten.overheid.nl/BWBR0015104).
 
 3. In afwijking van het eerste lid behoeft de prijs per meeteenheid niet te worden vermeld indien:
 
@@ -86,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - b. de prijs per meeteenheid van een product identiek is aan de verkoopprijs of
 
-- c. een product wordt verkocht op een wijze als beschreven in bijlage II.
+- c. een product wordt verkocht op een wijze als beschreven in [bijlage II](https://wetten.overheid.nl/BWBR0015104).
 
 4. In afwijking van het eerste lid behoeft de verkoopprijs niet te worden vermeld op los verkochte producten.
 
@@ -110,6 +78,16 @@ In dit besluit wordt verstaan onder:
 
 Indien een verkoper, die in een reclame-uiting producten aan de consument te koop aanbiedt, daarbij de verkoopprijs of de prijs per meeteenheid bekend maakt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=2&z=2023-01-01&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2023-01-01&g=2023-01-01) en [4, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=4&z=2023-01-01&g=2023-01-01) van toepassing.
 
+##### Artikel 5a
+
+1. Bij aankondigingen van prijsverminderingen geeft de verkoper de laagste verkoopprijs aan die door hem is toegepast gedurende een periode die niet korter is dan dertig dagen voor de toepassing van de prijsvermindering.
+
+2. In afwijking van het eerste lid mag de verkoper voor producten van bij ministeriële regeling aangewezen categorieën die snel bederven of een beperkte houdbaarheid hebben, de verkoopprijs aangeven die direct voorafgaand aan de prijsvermindering is toegepast.
+
+3. Ingeval een prijsvermindering progressief wordt verhoogd, mag de verkoper, in afwijking van het eerste lid, gedurende een periode tot drie kalendermaanden na aanvang van de eerste prijsvermindering de laagste verkoopprijs aangeven die door hem is toegepast gedurende een periode die niet korter is dan dertig dagen voorafgaand aan de toepassing van de eerste prijsvermindering.
+
+4. Indien een product minder dan dertig dagen op de markt is, mag de verkoper, in afwijking van het eerste lid, de laagste verkoopprijs aangeven in een door hem te vermelden periode.
+
 ##### Artikel 6
 
 Het [Besluit prijsaanduiding goederen 1980](https://wetten.overheid.nl/jci1.3:c:BWBR0003308) wordt ingetrokken.
@@ -125,71 +103,3 @@ De wet van 18 april 2002 houdende wijziging van de Prijzenwet in verband met de 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit prijsaanduiding producten.
-
-## Bijlage I, behorende bij [artikel 3, tweede lid, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2021-03-05&g=2021-03-05)
-
-A. Antiquiteiten.
-
-B. Producten die als individueel werkstuk door een kunstenaar zijn ontworpen of voor een belangrijk deel als individueel werkstuk door een kunstenaar zijn vervaardigd.
-
-C. Producten die te koop worden aangeboden op een veiling.
-
-D. Producten die bij een dienstverlening worden verstrekt.
-
-E. Producten die op een markt met behulp van welsprekendheid te koop worden aangeboden aan het aanwezige publiek, waarbij in de regel de verkoopprijs of prijs per meeteenheid van een product niet tevoren vaststaan.
-
-## Bijlage I, behorende bij [artikel 3, tweede lid, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2023-01-01&g=2023-01-01)
-
-A. Antiquiteiten.
-
-B. Producten die als individueel werkstuk door een kunstenaar zijn ontworpen of voor een belangrijk deel als individueel werkstuk door een kunstenaar zijn vervaardigd.
-
-C. Producten die te koop worden aangeboden op een veiling.
-
-D. Producten die bij een dienstverlening worden verstrekt.
-
-E. Producten die op een markt met behulp van welsprekendheid te koop worden aangeboden aan het aanwezige publiek, waarbij in de regel de verkoopprijs of prijs per meeteenheid van een product niet tevoren vaststaan.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-1. Bij aankondigingen van prijsverminderingen geeft de verkoper de laagste verkoopprijs aan die door hem is toegepast gedurende een periode die niet korter is dan dertig dagen voor de toepassing van de prijsvermindering.
-
-2. In afwijking van het eerste lid mag de verkoper voor producten van bij ministeriële regeling aangewezen categorieën die snel bederven of een beperkte houdbaarheid hebben, de verkoopprijs aangeven die direct voorafgaand aan de prijsvermindering is toegepast.
-
-3. Ingeval een prijsvermindering progressief wordt verhoogd, mag de verkoper, in afwijking van het eerste lid, gedurende een periode tot drie kalendermaanden na aanvang van de eerste prijsvermindering de laagste verkoopprijs aangeven die door hem is toegepast gedurende een periode die niet korter is dan dertig dagen voorafgaand aan de toepassing van de eerste prijsvermindering.
-
-4. Indien een product minder dan dertig dagen op de markt is, mag de verkoper, in afwijking van het eerste lid, de laagste verkoopprijs aangeven in een door hem te vermelden periode.
-
-## Bijlage II, behorende bij [artikel 3, derde lid, aanhef en onder c, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2023-01-01&g=2023-01-01)
-
-A. Producten die te koop worden aangeboden in fantasieverpakking of in fantasievorm voor speciale gelegenheden.
-
-B. Klaargemaakte en klaar te maken maaltijden die te koop worden aangeboden in één verpakking.
-
-C. Diverse producten die samen in één verpakking te koop worden aangeboden.
-
-D. Producten die door middel van een automaat te koop worden aangeboden.
-
-E. Producten die gewoonlijk tegen een prijs per stuk of voorverpakt per aantal stuks te koop wordt aangeboden.
-
-F. Producten die gewoonlijk in verpakkingen te koop worden aangeboden die niet groter zijn dan 15 gram of 15 milliliter.
-
-G. Producten die in een etalage zijn uitgestald.
-
-H. Producten die in vaste hoeveelheden zijn verpakt en die te koop worden aangeboden
-
-- –. in een bedieningszaak, of een onderdeel van een zelfbedieningszaak, waarin de verkoop van producten grotendeels over de toonbank plaatsvindt;
-
-- –. in een zelfbedieningszaak, waarin het aantal werkzame personen, berekend op basis van volledige werktijd, niet meer is dan vijf;
-
-- –. op de openbare weg buiten de verkoopruimte van een bedieningszaak;
-
-- –. aan de huizen van vaste afnemers;
-
-- –. in een besloten ruimte die een onderdeel is van een vervoermiddel;
-
-- –. in de uitoefening van de markt- en straathandel en handel te water.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

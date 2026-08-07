@@ -1,37 +1,16 @@
 ---
 title: "Eindejaarsuitkering burgemeester en wethouders"
 identifier: "BWBR0015548"
-country: "nl"
-rank: "circulaire"
-publication_date: "2003-09-16"
-last_updated: "2003-09-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015548"
+categorie: "Sociaal recht"
 soort: "circulaire"
-stam_id: "6389563"
-version_id: "11050022"
-internal_id: "C14952771"
-label_id: "6378374"
-original_entry_into_force: "2003-09-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015548/2003-09-16/0"
-intitule_bron: "Stcrt.2003-178"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-09-04"
-intitule_published: "2003-09-16"
-intitule_in_force: "2003-09-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-178"
-original_signed_date: "2003-09-04"
-original_published_date: "2003-09-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-178-p11-SC61080"
-entry_into_force_date: "2003-09-16"
-jci_1_3: "jci1.3:c:BWBR0015548&z=2003-09-16&g=2003-09-16"
-jci_1_0: "1.0:c:BWBR0015548&g=2003-09-16"
-citeertitel_status: "redactioneel"
-signed_date: "2003-09-04"
-entry_into_force: "2003-09-16"
+publicatiedatum: 2003-09-16
+laatste_update: 2003-09-16
+status: geldig
+toestand: 2003-09-16
+bron: "https://wetten.overheid.nl/BWBR0015548"
+opgehaald: 2026-08-07
 ---
+
 # Eindejaarsuitkering burgemeester en wethouders
 
 ### Nominale eindejaarsuitkering
@@ -39,6 +18,10 @@ entry_into_force: "2003-09-16"
 Op grond van [artikel 15a Rechtspositiebesluit burgemeesters 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=15a) respectievelijk [artikel 3, derde lid, van het Rechtspositiebesluit wethouders](https://wetten.overheid.nl/jci1.3:c:BWBR0006535&artikel=3) hebben de burgemeesters respectievelijk de wethouders recht op een eindejaarsuitkering.
 
 Overeenkomstig de ambtenaren bij de sector Rijk hebben burgemeesters en wethouders in 2003 aanspraak op een nominale eindejaarsuitkering van
+
+- - € 31,13 bruto per maand voor het tijdvak van 1 januari 2003 tot 1 april 2003;
+
+- - € 45,88 bruto per maand voor het tijdvak van 1 april 2003 tot en met 31 december 2003.
 
 Het nominale bedrag van de eindejaarsuitkering bedraagt vanaf 1 januari 2004 € 45,88 per maand.
 

@@ -1,45 +1,25 @@
 ---
 title: "Applicatieopleidingen leraren in het voormalig speciaal voortgezet onderwijs voor leer en opvoedingsmoeilijkheden (svo/lom) en moeilijk lerende kinderen (svo/lmk)"
 identifier: "BWBR0015102"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-06-11"
-last_updated: "2003-06-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015102"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6477113"
-version_id: "11155692"
-internal_id: "C15076721"
-label_id: "6465754"
-original_entry_into_force: "2003-06-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015102/2003-06-11/0"
-intitule_bron: "Uitleg.2003-15"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-21"
-intitule_published: "2003-06-11"
-intitule_in_force: "2003-06-11"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-15"
-original_signed_date: "2003-05-21"
-original_published_date: "2003-06-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-06-11"
-jci_1_3: "jci1.3:c:BWBR0015102&z=2003-06-11&g=2003-06-11"
-jci_1_0: "1.0:c:BWBR0015102&g=2003-06-11"
-citeertitel_status: "redactioneel"
-signed_date: "2003-05-21"
-entry_into_force: "2003-06-11"
+publicatiedatum: 2003-06-11
+laatste_update: 2003-06-11
+status: geldig
+toestand: 2003-06-11
+bron: "https://wetten.overheid.nl/BWBR0015102"
+opgehaald: 2026-08-07
 ---
+
 # Applicatieopleidingen leraren in het voormalig speciaal voortgezet onderwijs voor leer en opvoedingsmoeilijkheden (svo/lom) en moeilijk lerende kinderen (svo/lmk)
 
 ### 1. Algemeen
 
-In OCenW-Regelingen nr. 24 van 14 oktober 1998 met kenmerk VO/BJA-98/41447 (Gele katern nr. 24 van 14 oktober 1998) is de ’[Overgangsregeling bevoegdheden leraren speciaal voortgezet onderwijs lom en mlk](onbekend)’ gepubliceerd. Hierin zijn alle docenten uit het svo-lom en svo-mlk bevoegd verklaard om onder voorwaarden les te geven aan een school voor voortgezet onderwijs, mits zij in het bezit waren van een bewijs van bekwaamheid, genoemd in [artikel 1, onder B, eerste lid, van deze regeling](onbekend) en meer dan 500 uren les hadden gegeven in een van de genoemde vakken. Deze 500 lesuren hadden betrekking op een periode van vijf jaar voordat de betreffende school voor svo-lom of svo-mlk als afdeling leerwegondersteunend onderwijs of praktijkonderwijs opging in een school voor voortgezet onderwijs of werd omgevormd tot een school voor praktijkonderwijs of was opgegaan in een opdc.
+In OCenW-Regelingen nr. 24 van 14 oktober 1998 met kenmerk VO/BJA-98/41447 (Gele katern nr. 24 van 14 oktober 1998) is de ’Overgangsregeling bevoegdheden leraren speciaal voortgezet onderwijs lom en mlk’ gepubliceerd. Hierin zijn alle docenten uit het svo-lom en svo-mlk bevoegd verklaard om onder voorwaarden les te geven aan een school voor voortgezet onderwijs, mits zij in het bezit waren van een bewijs van bekwaamheid, genoemd in artikel 1, onder B, eerste lid, van deze regeling en meer dan 500 uren les hadden gegeven in een van de genoemde vakken. Deze 500 lesuren hadden betrekking op een periode van vijf jaar voordat de betreffende school voor svo-lom of svo-mlk als afdeling leerwegondersteunend onderwijs of praktijkonderwijs opging in een school voor voortgezet onderwijs of werd omgevormd tot een school voor praktijkonderwijs of was opgegaan in een opdc.
 
 Er bleef echter een categorie docenten bestaan die wel onderwijs wenste te geven in het voortgezet onderwijs maar door uiteenlopende omstandigheden niet in staat was om aan de eis van het aantal te geven uren te voldoen. Volgens de toelichting van de genoemde regeling stond gedurende twee jaar de gelegenheid open om na de datumvan samenvoeging of omzetting van de school waaraan men was verbonden, een applicatiecursus te volgen die de bevoegdheid gaf om onder de voorwaarden van genoemde overgangsregeling les te geven in het voortgezet onderwijs.
 
-In vervolg hierop is een [regeling Belangstellingsregistratie applicatie-opleidingen leraren svo-lom en svo-mlk](onbekend) met kenmerk VO/TAB-2000/6446 van 24 maart 2000 (Gele katern nr. 10 van 5 april 2000) gepubliceerd. De desbetreffende docenten die alsnog voor een bevoegdheid in aanmerking wensten te komen konden zich voor het volgen van een applicatiecursus laten registreren. Deze belangstellingsregistratie had tot doel vast te stellen in welke mate er applicatiecursussen moesten worden georganiseerd om aan de behoefte tegemoet te komen en op grond hiervan te berekenen welke kosten hiermee gemoeid zouden zijn.
+In vervolg hierop is een regeling Belangstellingsregistratie applicatie-opleidingen leraren svo-lom en svo-mlk met kenmerk VO/TAB-2000/6446 van 24 maart 2000 (Gele katern nr. 10 van 5 april 2000) gepubliceerd. De desbetreffende docenten die alsnog voor een bevoegdheid in aanmerking wensten te komen konden zich voor het volgen van een applicatiecursus laten registreren. Deze belangstellingsregistratie had tot doel vast te stellen in welke mate er applicatiecursussen moesten worden georganiseerd om aan de behoefte tegemoet te komen en op grond hiervan te berekenen welke kosten hiermee gemoeid zouden zijn.
 
 Het voortgangsproces van de samenvoeging, omzetting van scholen voor vso-lom en vso-mlk bracht echter voor een aantal docenten onzekerheid met zich mee zodat de belangstellingsregistratie onvoldoende inzicht gaf in de werkelijke behoeften aan omscholing. Nu dit proces voor de meeste betrokkenen nagenoeg is afgerond is het wenselijk gebleken om deze applicatie-opleidingen de komende periode te ontwikkelen en na 1 september 2003 daadwerkelijk van start te laten gaan.
 
@@ -49,9 +29,27 @@ Hierna wordt u geïnformeerd over de mogelijkheid tot het volgen van deze applic
 
 Docenten die willen deelnemen aan één van de applicatiecursussen worden toegelaten indien zij:
 
+- a. Tenminste in het bezit zijn van één van de bewijzen van bekwaamheid genoemd onder de [nummers 3.2, 3.3, 3.4, 3.21, 14.1, 17.2, en 17.4 van Bijlage I van de Regeling bewijzen van bekwaamheid OWVO](https://wetten.overheid.nl/jci1.3:c:BWBR0003768&bijlage=I) en
+
+- b. In de afgelopen vijf jaar direct voorafgaand aan de samenvoeging van een school voor svo-lom of svo-mlk met een school voor voortgezet onderwijs dan wel omzetting van die school of als afdeling voor leerwegondersteunend onderwijs dan wel praktijkonderwijs of een orthopedagogisch centrum niet meer dan 500 uur les hebben gegeven in één van de vakken Nederlands, aardrijkskunde, geschiedenis of wiskunde.
+
 ### 3. Datum, voorwaarden en adres van aanmelding
 
 Docenten die de cursus willen volgen, kunnen zich vóór 1 juli 2003 aanmelden onder overlegging van een kopie van het bewijs van bekwaamheid en een verklaring van het bevoegd gezag waaruit blijkt dat betrokkene niet meer dan 500 uur heeft les gegeven in een van de vakken Nederlands, aardrijkskunde, geschiedenis of wiskunde. De aanmelding wordt schriftelijk verzonden naar:
+
+Seminarium voor Orthopedagogiek
+
+t.a.v. projectleider applicatie dhr. E.H.A. Diederiks
+
+Postbus 14007
+
+3508 SB Utrecht
+
+Tel: 030-2540349
+
+Fax: 030-2540349
+
+Aanmelden per e-mail kan ook. In dit geval kunt u zich aanmelden op het volgende e-mailadres: ediederiks@seminarium.nl
 
 ### 4. Cursuslokaties
 
@@ -81,7 +79,7 @@ Het plan van de opleiding voorziet maximaal in 8 bijeenkomsten op een nader te b
 
 ### 6. Kosten van de cursus
 
-Via de eerder genoemde [regeling Belangstellingsregistratie applicatieopleidingen leraren svo-lom en svo-mlk](onbekend) heb ik u toegezegd dat de kosten van de cursus en de vervanging volledig zullen worden vergoed. Deze garantie geldt voor de schooljaren 2003/2004 en 2004/2005.
+Via de eerder genoemde regeling Belangstellingsregistratie applicatieopleidingen leraren svo-lom en svo-mlk heb ik u toegezegd dat de kosten van de cursus en de vervanging volledig zullen worden vergoed. Deze garantie geldt voor de schooljaren 2003/2004 en 2004/2005.
 
 De school declareert de vervangingskosten bij het Vervangingsfonds op basis van het werkelijk aantal bezochte cursusbijeenkomsten en de 20 uren die nodig zijn om stage te lopen.
 

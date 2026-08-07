@@ -1,42 +1,21 @@
 ---
 title: "Circulaire bezoldiging en eindejaarsuitkering commissaris van de Koningin"
 identifier: "BWBR0014368"
-country: "nl"
-rank: "circulaire"
-publication_date: "2002-12-11"
-last_updated: "2002-12-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014368"
+categorie: "Sociaal recht"
 soort: "circulaire"
-stam_id: "6389173"
-version_id: "11049672"
-internal_id: "C14952421"
-label_id: "6378024"
-original_entry_into_force: "2002-12-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014368/2002-12-11/0"
-intitule_bron: "Stcrt.2002-239"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-02"
-intitule_published: "2002-02-11"
-intitule_in_force: "2002-02-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-239"
-original_signed_date: "2002-12-02"
-original_published_date: "2002-02-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2002-239-p10-SC37488"
-entry_into_force_date: "2002-12-11"
-jci_1_3: "jci1.3:c:BWBR0014368&z=2002-12-11&g=2002-12-11"
-jci_1_0: "1.0:c:BWBR0014368&g=2002-12-11"
-citeertitel_status: "redactioneel"
-signed_date: "2002-12-02"
-entry_into_force: "2002-12-11"
+publicatiedatum: 2002-12-11
+laatste_update: 2002-12-11
+status: geldig
+toestand: 2002-12-11
+bron: "https://wetten.overheid.nl/BWBR0014368"
+opgehaald: 2026-08-07
 ---
+
 # Circulaire bezoldiging en eindejaarsuitkering commissaris van de Koningin
 
 ### 1. Structurele verhoging van de bezoldiging
 
-Op grond van [artikel 3, vierde lid, van het Rechtspositiebesluit commissarissen van de Koning](onbekend) commissarissen van de Koning wordt de bezoldiging van de commissaris herzien overeenkomstig de wijziging die de bezoldiging van het personeel in de Sector Rijk ondergaat.
+Op grond van artikel 3, vierde lid, van het Rechtspositiebesluit commissarissen van de Koning commissarissen van de Koning wordt de bezoldiging van de commissaris herzien overeenkomstig de wijziging die de bezoldiging van het personeel in de Sector Rijk ondergaat.
 
 In de Sectorcommissie overleg rijkspersoneel is ten aanzien van het arbeidsvoorwaardenbeleid in de contractperiode 1 december 2002 tot 1 januari 2004 besloten tot een algemene salarisverhoging.
 
@@ -44,7 +23,7 @@ Per 1 december 2002 worden de salarissen van de ambtenaren in de sector Rijk str
 
 Dit betekent dat de bezoldiging van de commissarissen eveneens met ingang van 1 december 2002 dient te worden aangepast en vanaf die datum € 9.398,56 bruto per maand bedraagt.
 
-In verband met de inkomenseffecten als gevolg van de overeengekomen wijzigingen in het [Besluit tegemoetkoming ziektekosten rijkspersoneel](onbekend) (Btzr) ontvangen de ambtenaren in de sector Rijk per 1 mei 2003 een compensatie in de vorm van een structurele verhoging van de schaalbedragen met 0,25%.
+In verband met de inkomenseffecten als gevolg van de overeengekomen wijzigingen in het Besluit tegemoetkoming ziektekosten rijkspersoneel (Btzr) ontvangen de ambtenaren in de sector Rijk per 1 mei 2003 een compensatie in de vorm van een structurele verhoging van de schaalbedragen met 0,25%.
 
 Gelet hierop is met de centrales van het overheidspersoneel afgesproken om per 1 mei 2003 de salarissen te verhogen met 0,25%.
 
@@ -54,7 +33,7 @@ De beide structurele salarisverhogingen werken door naar reeds ingegane werkloos
 
 ### 2. Eindejaarsuitkering
 
-Op grond van [artikel 4a van het Rechtspositiebesluit commissarissen van de Koning](onbekend) ontvangt de commissaris een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het personeel in de sector Rijk zijn vastgesteld.
+Op grond van artikel 4a van het Rechtspositiebesluit commissarissen van de Koning ontvangt de commissaris een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het personeel in de sector Rijk zijn vastgesteld.
 
 De eindejaarsuitkering is structureel vastgesteld op 0,4%.
 

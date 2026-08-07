@@ -1,46 +1,17 @@
 ---
 title: "Aanwijzingsregeling ombuigingsbijdrage zorgaanbieders"
 identifier: "BWBR0015234"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-06-19"
-last_updated: "2003-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015234"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5489373"
-version_id: "9876422"
-internal_id: "C13348051"
-label_id: "5463374"
-dtd_version: "2.0"
-original_entry_into_force: "2003-06-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015234/2003-06-19/0"
-intitule_bron: "Stcrt.2003-113"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-06-16"
-intitule_published: "2003-06-17"
-intitule_in_force: "2003-06-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-113"
-original_signed_date: "2003-06-16"
-original_published_date: "2003-06-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-06-19"
-jci_1_3: "jci1.3:c:BWBR0015234&z=2003-06-19&g=2003-06-19"
-jci_1_0: "1.0:c:BWBR0015234&g=2003-06-19"
-citeertitel_status: "officieel"
-signed_date: "2003-06-16"
-entry_into_force: "2003-06-19"
+publicatiedatum: 2003-06-19
+laatste_update: 2003-06-19
+status: geldig
+toestand: 2003-06-19
+bron: "https://wetten.overheid.nl/BWBR0015234"
+opgehaald: 2026-08-07
 ---
+
 # Aanwijzingsregeling ombuigingsbijdrage zorgaanbieders
-
-Gelet op artikel 13, eerste lid, van de Wet tarieven gezondheidszorg;
-
-Gehoord het College tarieven gezondheidszorg (brief van 23 mei 2003, kenmerk Ba/mt/A/03/062), vastgesteld in de vergadering van 19 mei 2003;
-
-Na schriftelijke mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brieven van 4 juni 2003, kenmerk Z/P-2385676);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -59,5 +30,3 @@ In de in het eerste artikel bedoelde beleidsregels ter uitvoering van onderhavig
 ##### Artikel 3
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin ze wordt geplaatst.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

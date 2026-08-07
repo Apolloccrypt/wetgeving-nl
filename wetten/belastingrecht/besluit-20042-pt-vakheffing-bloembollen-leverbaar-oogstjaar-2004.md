@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het Bestuur van het ProductschapTuinbouw, d.d. 4 mei 2004, houdende de vaststelling van de nadere omschrijving van diverse bepalingen uit de Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004 (Besluit 2004/2 PT vakheffing bloembollen leverbaar oogstjaar 2004)"
+citeertitel: "Besluit 2004/2 PT vakheffing bloembollen leverbaar oogstjaar 2004"
 identifier: "BWBR0015036"
-country: "nl"
-rank: "pbo"
-publication_date: "2005-02-27"
-last_updated: "2005-02-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015036"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6872033"
-version_id: "11744362"
-internal_id: "C15832271"
-label_id: "6860234"
-original_entry_into_force: "2005-02-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015036/2005-02-27/0"
-intitule_bron: "Vbbo.2005-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-04"
-intitule_published: "2005-02-25"
-intitule_in_force: "2005-02-25"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-9"
-original_signed_date: "2003-05-04"
-original_published_date: "2005-02-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-02-27"
-jci_1_3: "jci1.3:c:BWBR0015036&z=2005-02-27&g=2005-02-27"
-jci_1_0: "1.0:c:BWBR0015036&g=2005-02-27"
-citeertitel_status: "officieel"
-short_title: "Besluit 2004/2 PT vakheffing bloembollen leverbaar oogstjaar 2004"
-signed_date: "2003-05-04"
-entry_into_force: "2005-02-27"
+publicatiedatum: 2005-02-27
+laatste_update: 2005-02-27
+status: geldig
+toestand: 2005-02-27
+bron: "https://wetten.overheid.nl/BWBR0015036"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van het Bestuur van het ProductschapTuinbouw, d.d. 4 mei 2004, houdende de vaststelling van de nadere omschrijving van diverse bepalingen uit de Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004 (Besluit 2004/2 PT vakheffing bloembollen leverbaar oogstjaar 2004)
-
-gelet op het bepaalde in de [Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004](onbekend);
-
-gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -82,7 +56,7 @@ Wanneer door een handelskaarthouder wordt aangetoond dat de geldelijke opbrengst
 
 Indien op de factuur de behandelingskosten niet apart zijn vermeld, worden de volgende bedragen als zijnde behandelingskosten aangemerkt:
 
-| **Soort** | **Periode waarin behandelkosten worden berekend** | **Prijs in €** |
+| Soort | Periode waarin behandelkosten worden berekend | Prijs in € |
 | --- | --- | --- |
 | Tulpen | Vanaf december | 0,48/100 stuks |
 | Iris | Gehele jaar | 0,48/100 stuks |
@@ -98,5 +72,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na publicatie in het 
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit 2004/2 PT vakheffing bloembollen leverbaar oogstjaar 2004.
-
-Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bed rijfsorganisatie.

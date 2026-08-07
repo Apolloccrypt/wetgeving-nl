@@ -1,45 +1,17 @@
 ---
 title: "Mijnbouwregeling"
 identifier: "BWBR0014468"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014468"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5729313"
-version_id: "29376862"
-internal_id: "C41911701"
-label_id: "5712204"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014468/2026-01-01/0"
-intitule_bron: "Stcrt.2002-245"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-16"
-intitule_published: "2002-12-19"
-intitule_in_force: "2002-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-11690"
-original_signed_date: "2023-04-21"
-original_published_date: "2023-04-25"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-11690"
-entry_into_force_date: "2023-07-01"
-jci_1_3: "jci1.3:c:BWBR0014468&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0014468&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2023-04-21"
-entry_into_force: "2023-07-01"
+publicatiedatum: 2023-07-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0014468"
+opgehaald: 2026-08-07
 ---
+
 # Mijnbouwregeling
-
-Handelende in overeenstemming met de Ministers van Verkeer en Waterstaat en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
-
-Gelet op de op 13 september 1983 te Bonn tot stand gekomen Overeenkomst inzake samenwerking bij de bestrijding van verontreiniging van de Noordzee door olie en andere schadelijke stoffen (Trb. 1983, 159; laatstelijk Trb. 1990, 100), de [artikelen 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=9), [11, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=11), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=14), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=32), [40, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40), [63, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=63), [122](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=122), [123, tweede lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=123), en de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=4), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=7), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=12), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=17), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=18), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=19), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=20), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=23), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=44), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=45), [51, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=51), [52, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=52), [53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=53), [66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=66), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=73), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=77), [80, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=80), [81, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=81), [82, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=82), [83, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=83), [93, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=93), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=114) en [144 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=144);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen, vergunningen, ontheffingen, instemmingen, meldingen en overige bepalingen
 
@@ -59,15 +31,15 @@ In deze regeling wordt verstaan onder:
 
 - e. hydraulische eenheid: een hydraulisch verbonden poriënruimte waar drukdoorgave met technische middelen kan worden gemeten en die is afgebakend door stromingsbarrières zoals storingen, zoutkoepels, lithologische grenzen, of door wigvormige uitloop of dagzomende aardlagen van de formatie;
 
-- f. richtlijn nr. 2009/31/EG: richtlijn nr. 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 (PbEG L 140) van het Europese Parlement en de Raad;
+- f. richtlijn nr. 2009/31/EG: richtlijn nr. 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 (PbEG L 140) van het Europese Parlement en de Raad;
 
-- g. ETRS89 systeem: European Terrestrial Reference System 1989, bedoeld in bijlage II, onder 1.2, van Verordening (EU) nr. 1089/2010 van de Commissie van 23 november 2010 ter uitvoering van Richtlijn 2007/2/EG van het Europees Parlement en de Raad betreffende de interoperabiliteit van verzamelingen ruimtelijke gegevens en van diensten met betrekking tot ruimtelijke gegevens (PbEU 2010, L 323);
+- g. ETRS89 systeem: European Terrestrial Reference System 1989, bedoeld in bijlage II, onder 1.2, van Verordening (EU) nr. 1089/2010 van de Commissie van 23 november 2010 ter uitvoering van Richtlijn 2007/2/EG van het Europees Parlement en de Raad betreffende de interoperabiliteit van verzamelingen ruimtelijke gegevens en van diensten met betrekking tot ruimtelijke gegevens (PbEU 2010, L 323);
 
-- h. EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raad van 18 december 2006 inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot oprichting van een Europees Agentschap voor chemische stoffen, houdende wijziging van Richtlijn 1999/45/EG en houdende intrekking van Verordening (EEG) nr. 793/93 van de Raad en Verordening (EG) nr. 1488/94 van de Commissie alsmede Richtlijn 76/769/EEG van de Raad en de Richtlijnen 91/155/EEG, 93/67/EEG, 93/105/EG en 2000/21/EG van de Commissie (PbEU 2007, L 136);
+- h. EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raad van 18 december 2006 inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot oprichting van een Europees Agentschap voor chemische stoffen, houdende wijziging van Richtlijn 1999/45/EG en houdende intrekking van Verordening (EEG) nr. 793/93 van de Raad en Verordening (EG) nr. 1488/94 van de Commissie alsmede Richtlijn 76/769/EEG van de Raad en de Richtlijnen 91/155/EEG, 93/67/EEG, 93/105/EG en 2000/21/EG van de Commissie (PbEU 2007, L 136);
 
-- i. EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L353);
+- i. EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L353);
 
-- j. biocidenverordening: verordening (EU) nr. 528/2012 van het Europees Parlement en de Raad van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden (PbEU 2012, L 167);
+- j. biocidenverordening: verordening (EU) nr. 528/2012 van het Europees Parlement en de Raad van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden (PbEU 2012, L 167);
 
 - k. ruwe gegevens: verzameling gegevens die bij een verkenningsonderzoek zijn verkregen, waaronder de signaal-, navigatiegegevens en bijbehorende positionerings- en navigatiegegevens;
 
@@ -133,11 +105,11 @@ Waar in deze regeling producten dienen te voldoen aan een bepaalde norm of eis, 
 
 - d. een geologisch rapport, dat ten minste bevat:
 
-- 1°. een opgave van de voor de onderbouwing van de aanvraag gebruikte verkenningsonderzoeken en andere geologische gegevens, de interpretatie van deze gegevens en de daarbij gehanteerde onzekerheidsanalyse;
+   - 1°. een opgave van de voor de onderbouwing van de aanvraag gebruikte verkenningsonderzoeken en andere geologische gegevens, de interpretatie van deze gegevens en de daarbij gehanteerde onzekerheidsanalyse;
 
-- 2°. een beschrijving van de locale en regionale geologie;
+   - 2°. een beschrijving van de locale en regionale geologie;
 
-- 3°. indien het een vergunning voor koolwaterstoffen betreft: een beschrijving van de verwachte hoeveelheid aanwezige delfstof per mogelijk aanwezig voorkomen;
+   - 3°. indien het een vergunning voor koolwaterstoffen betreft: een beschrijving van de verwachte hoeveelheid aanwezige delfstof per mogelijk aanwezig voorkomen;
 
 - e. andere gegevens die de aanvrager heeft gebruikt bij de onderbouwing van de aanvraag.
 
@@ -185,6 +157,10 @@ Waar in deze regeling producten dienen te voldoen aan een bepaalde norm of eis, 
 
 - d. een programma overeenkomstig het programma, bedoeld in het derde lid, onderdeel e, en vierde lid.
 
+##### Artikel 1.3.3a
+
+Bij de aanvraag voor een opsporings- of winningsvergunning voor koolwaterstoffen overlegt de aanvrager ten behoeve van de beoordeling van de technische en financiële mogelijkheden de beschikbare informatie betreffende de veiligheids- en milieuprestaties van de aanvrager, onder meer met betrekking tot zware ongevallen, voor zover van toepassing op de activiteiten waarvoor de vergunning wordt aangevraagd.
+
 ##### Artikel 1.3.4
 
 1. Bij de aanvraag om een opslagvergunning als bedoeld in [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) verstrekt de aanvrager gegevens omtrent:
@@ -207,9 +183,67 @@ Waar in deze regeling producten dienen te voldoen aan een bepaalde norm of eis, 
 
 - d. de mogelijkheid van winning van voorkomens van delfstoffen of aardwarmte in het gebied.
 
+##### Artikel 1.3.4a
+
+1. Onverminderd [artikel 1.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.4&z=2026-01-01&g=2026-01-01) verstrekt de aanvrager bij een aanvraag om een vergunning voor het permanent opslaan van CO2 bovendien:
+
+- a. een karakterisering en beoordeling van het potentiële opslagcomplex met inbegrip van de afdichtende laag en het omliggende gebied, inclusief de hydraulisch verbonden gebieden, uitgevoerd en onderbouwd op de voet van Bijlage I van de richtlijn nr. 2009/31/EG;
+
+- b. de beoogde plaats van de injectiefaciliteiten;
+
+- c. de totale hoeveelheid stoffen die zal worden opgeslagen uitgedrukt in kton;
+
+- d. een opgave van de afzonderlijke bestanddelen van de stoffen die worden opgeslagen en hun aandeel in de totale hoeveelheid van stoffen die worden opgeslagen, en
+
+- e. de gegevens waarop de beoogde maximum toelaatbare snelheid en druk bij injectie van CO2 en de beoogde maximum toelaatbare druk van de opgeslagen CO2 zijn gebaseerd.
+
+2. De aanvraag bevat het ontwerp voor een risicobeheerplan als bedoeld in [artikel 29c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29c).
+
+3. De aanvraag bevat het ontwerp voor een plan voor het nemen van corrigerende maatregelen als bedoeld in [artikel 29d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29d).
+
+4. De aanvraag bevat het ontwerp voor een monitoringsplan als bedoeld in [artikel 29f van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29f) dat voldoet aan Bijlage II, onderdeel 1, van richtlijn nr. 2009/31/EG. Het ontwerp strekt tot:
+
+- a. het vergelijken van het feitelijk en het gemodelleerd gedrag van het CO2 en andere opgeslagen stoffen en het formatiewater in het voorkomen;
+
+- b. het detecteren van significante onregelmatigheden;
+
+- c. het detecteren van CO2 en andere stoffen;
+
+- d. het detecteren van significante negatieve effecten voor het omliggende milieu en voor met name het drinkwater, de omwonende bevolking en de gebruikers van de biosfeer in de omgeving;
+
+- e. het evalueren van de doeltreffendheid van eventuele getroffen corrigerende maatregelen als bedoeld in het vijfde lid, en
+
+- f. het actualiseren van de veiligheids- en integriteitsbeoordeling van het opslagcomplex op korte en lange termijn, met inbegrip van de beoordeling van de vraag of het opgeslagen CO2 volledig en permanent is ingesloten.
+
+5. De aanvraag bevat het ontwerp voor een afsluitingsplan als bedoeld in [artikel 29g van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29g).
+
+6. De aanvraag bevat:
+
+- a. de voor de ramingen, bedoeld in [artikel 29j, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29j) benodigde gegevens vergezeld van adequate cijfermatige onderbouwing en toelichting en mogelijke vorm van zekerheid die zal worden gesteld;
+
+- b. het ontwerp voor een plan ter voorkoming of beperking van schade door bodembeweging indien het voorkomen voor het permanent opslaan van CO2 gelegen is aan de landzijde van de lijn die in de bijlage bij de wet is vastgelegd door bodembeweging als bedoeld in [artikel 29h van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29h) gebaseerd op een risico-analyse over bodembeweging, en
+
+- c. informatie die aantoont dat is gezorgd voor professionele en technische ontwikkeling en training van de exploitant en van alle personeel voorafgaande, tijdens en na beëindiging van de injectie van CO2.
+
+##### Artikel 1.3.4b
+
+Bij een aanvraag om een vergunning voor het permanent opslaan van CO2 in te trekken, verstrekt de vergunninghouder de minister:
+
+- a. een verslag dat aantoont dat:
+
+   - 1°. het opgeslagen CO2 volledig en permanent ingesloten blijft,
+
+   - 2°. het feitelijke gedrag van het geïnjecteerde CO2 in overeenstemming is met het gemodelleerde gedrag,
+
+   - 3°. er geen detecteerbare lekken zijn,
+
+   - 4°. de opslaglocatie evolueert naar een toestand van lange termijn stabiliteit, en
+
+- b. een geactualiseerde versie van de documenten, bedoeld in de [artikelen 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29c), [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29d), [29f](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29f) en [29g, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29g).
+
 ##### Artikel 1.3.5
 
-1. Een opsporingsvergunning voor koolwaterstoffen voor een gebied aan de zeezijde van de in de [bijlage bij de wet](onbekend) vastgelegde lijn kan slechts worden verleend voor een gebied, bestaande uit een of meer blokken als aangegeven op de kaart die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=3&z=2026-01-01&g=2026-01-01) bij deze regeling is gevoegd.
+1. Een opsporingsvergunning voor koolwaterstoffen voor een gebied aan de zeezijde van de in de [bijlage bij de wet](https://wetten.overheid.nl/BWBR0014168) vastgelegde lijn kan slechts worden verleend voor een gebied, bestaande uit een of meer blokken als aangegeven op de kaart die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=3&z=2026-01-01&g=2026-01-01) bij deze regeling is gevoegd.
 
 2. Indien voor een deel van een blok reeds een door een ander gehouden opsporings- of winningsvergunning voor koolwaterstoffen geldt, kan een opsporingsvergunning als in het eerste lid bedoeld betrekking of mede betrekking hebben op dat deel van het blok, waarvoor geen opsporings- of winningsvergunning geldt.
 
@@ -283,41 +317,343 @@ Het gebied als bedoeld in [artikel 11, derde lid, van de wet](https://wetten.ove
 
 3. Artikel 1.3.8, derde lid, is van overeenkomstige toepassing.
 
+#### § 1.3a. Bijzondere regels over het Groningenveld
+
+##### Artikel 1.3a.1
+
+1. De vergunninghouder van het Groningenveld verricht in ieder geval de volgende metingen:
+
+- a. grondversnellingen van de aardbevingen in ruimte en tijd;
+
+- b. grondsnelheden van de aardbevingen in ruimte en tijd;
+
+- c. het aantal aardbevingen met een magnitude van 1,2 en hoger op de schaal van Richter;
+
+- d. de aardbevingsdichtheid in ruimte en tijd van aardbevingen met een magnitude van 1,2 en hoger op de schaal van Richter.
+
+2. De vergunninghouder van het Groningenveld zorgt dat de resultaten van de metingen, bedoeld in het eerste lid, doorlopend te raadplegen zijn voor de minister en de inspecteur-generaal der mijnen.
+
+3. De vergunninghouder van het Groningenveld stelt twee keer per kalenderjaar op 1 februari en op 1 augustus een analyse op over ontwikkelingen in de seismiciteit, waarin ten minste de onderdelen, genoemd in het eerste lid, aan de orde komen en verstrekt deze aan de minister en de inspecteur-generaal der mijnen.
+
+##### Artikel 1.3a.2
+
+1. Indien de vergunninghouder van het Groningenveld één of meer van de volgende metingen doet, verstrekt hij de resultaten van die metingen binnen 48 uur aan de minister en de inspecteur-generaal der mijnen:
+
+- a. het aantal aardbevingen over de afgelopen zes maanden met een magnitude van 1,2 en hoger op de schaal van Richter is meer dan 30 per jaar;
+
+- b. het aantal aardbevingen over de afgelopen zes maanden met een magnitude van 1,2 en hoger op de schaal van Richter is meer dan 40 per jaar;
+
+- c. de aardbevingsdichtheid over de afgelopen zes maanden jaar met een magnitude van 1,2 en hoger op de schaal van Richter is meer dan 0,30 per vierkante kilometer per jaar;
+
+- d. de aardbevingsdichtheid over de afgelopen zes maanden met een magnitude van 1,2 en hoger op de schaal van Richter is meer dan 0,40 per vierkante kilometer per jaar.
+
+2. De verplichting, bedoeld in het eerste lid, geldt niet zolang na de verstrekking van de resultaten van de eerste meting de daaropvolgende meting of de daaropvolgende metingen binnen dezelfde categorie blijven zoals omschreven in het eerste lid, onderdelen a tot en met d.
+
+3. Bij overschrijding van de parameters, genoemd in het eerste lid, onderdelen b en d, analyseert de vergunninghouder van het Groningenveld de ontwikkeling van de seismiciteit. De vergunninghouder van het Groningenveld verstrekt de analyse binnen twee weken na de waarneming aan de minister en de inspecteur-generaal der mijnen.
+
+4. Indien de analyse, bedoeld in het derde lid, duidt op een tot dat moment onverwachte ontwikkeling van de seismiciteit verricht de vergunninghouder van het Groningenveld een aanvullende analyse waarin nader onderzoek wordt gedaan naar de geofysische oorzaken, gevolgen en risico’s van deze ontwikkeling. Deze analyse ziet op zowel de korte termijn van vijf jaar als de lange termijn van dertig jaar. De vergunninghouder verstrekt de analyse binnen een jaar na de meting, bedoeld in het eerste lid, aan de minister en de inspecteur-generaal der mijnen.
+
+##### Artikel 1.3a.3
+
+1. Indien de vergunninghouder van het Groningenveld één of meer van de volgende metingen doet, verstrekt hij de resultaten van iedere meting terstond aan de minister en de inspecteur-generaal der mijnen:
+
+- a. een grondversnelling groter dan 0,08 g;
+
+- b. een grondsnelheid groter dan 50 millimeter per seconde.
+
+2. De vergunninghouder van het Groningenveld stuurt een eerste analyse van het bereiken van de waarde, bedoeld in het eerst lid, en de mogelijke gevolgen daarvan voor de veiligheidsrisico’s, binnen 48 uur na de meting aan de minister en de inspecteur-generaal der mijnen.
+
+3. De vergunninghouder van het Groningenveld voert binnen twee weken na de waarneming een nadere analyse uit en verstrekt deze analyse aan de minister en de inspecteur-generaal der mijnen.
+
+4. Indien de analyse, bedoeld in het derde lid, duidt op een tot dat moment onverwachte ontwikkeling van de seismiciteit verricht de vergunninghouder van het Groningenveld een aanvullende analyse waarin nader onderzoek wordt gedaan naar de geofysische oorzaken, gevolgen en risico’s van deze ontwikkeling. Deze analyse ziet op zowel de korte termijn van vijf jaar als de lange termijn van dertig jaar. De vergunninghouder verstrekt de analyse binnen een jaar na de meting, bedoeld in het eerste lid, aan de minister en de inspecteur-generaal der mijnen.
+
+##### Artikel 1.3a.4
+
+1. De vergunninghouder van het Groningenveld verstrekt de resultaten van een meting van een aardbeving met een magnitude van 3,0 en hoger op de schaal van Richter terstond aan de minister en de inspecteur-generaal der mijnen, en vult deze melding binnen 48 uur aan met een eerste analyse van de aardbeving en de veiligheidsrisico’s.
+
+2. De vergunninghouder van het Groningenveld voert binnen twee weken na de waarneming een nadere analyse van de aardbeving uit en verstrekt deze analyse aan de minister en de inspecteur-generaal der mijnen.
+
+3. Indien de analyse, bedoeld in het tweede lid, duidt op een tot dat moment onverwachte ontwikkeling van de seismiciteit verricht de vergunninghouder van het Groningenveld een aanvullende analyse waarin nader onderzoek wordt gedaan naar de geofysische oorzaken, gevolgen en risico’s van deze ontwikkeling. Deze analyse ziet op zowel de korte termijn van vijf jaar als de lange termijn van dertig jaar. De vergunninghouder verstrekt de analyse binnen een jaar na de meting, bedoeld in het eerste lid, aan de minister en de inspecteur-generaal der mijnen.
+
+##### Artikel 1.3a.5
+
+1. De vergunninghouder van het Groningenveld verricht metingen naar de reservoirdruk in het Groningenveld door middel van drukmetingen en het gebruik van reservoirmodellen.
+
+2. De vergunninghouder van het Groningenveld stelt een keer per kalenderjaar op 1 februari een analyse op waarin de drukmetingen worden vergeleken met de modelvoorspellingen en verstrekt deze aan de minister en de inspecteur-generaal der mijnen.
+
+3. Indien de analyse, bedoeld in het tweede lid, duidt op een tot dat moment onverwachte ontwikkeling in de reservoirdruk verricht de vergunninghouder van het Groningenveld een aanvullende analyse waarin nader onderzoek wordt gedaan naar de geofysische oorzaken, gevolgen en risico’s van deze ontwikkeling. Deze analyse ziet op zowel de korte termijn van vijf jaar als de lange termijn van dertig jaar. De vergunninghouder verstrekt de analyse binnen een jaar na de analyse, bedoeld in het tweede lid, aan de minister en de inspecteur-generaal der mijnen.
+
+##### Artikel 1.3a.6
+
+1. De vergunninghouder van het Groningenveld verricht metingen naar bodemdaling.
+
+2. De vergunninghouder van het Groningenveld stelt een keer per kalenderjaar op 1 februari een analyse op over de gemeten bodemdaling en de verwachte bodemdaling van de aankomende dertig jaar en verstrekt deze aan de minister en de inspecteur-generaal der mijnen.
+
+3. Indien de analyse, bedoeld in het tweede lid, duidt op een tot op heden onverwachte ontwikkeling in bodemdaling verricht de vergunninghouder van het Groningenveld een aanvullende analyse waarin nader onderzoek wordt gedaan naar de geofysische oorzaken, gevolgen en risico’s van deze ontwikkeling. Deze analyse ziet op zowel de korte termijn van vijf jaar als de lange termijn van dertig jaar. De vergunninghouder verstrekt de analyse binnen een jaar na de analyse, bedoeld in het tweede lid, aan de minister en de inspecteur-generaal der mijnen.
+
+##### Artikel 1.3a.7
+
+Het nazorgplan, bedoeld in [artikel 52g, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=52g), bevat ten minste:
+
+- a. een beschrijving van de uitvoering van de monitorings- en analyseplicht van [artikel 1.3a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.1&z=2026-01-01&g=2026-01-01);
+
+- b. een beschrijving van de uitvoering van de meld- en analyseplicht van de trendparameters van [artikel 1.3a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.2&z=2026-01-01&g=2026-01-01);
+
+- c. een beschrijving van de uitvoering van de meld- en analyseplicht bij overschrijding van de incidentparameters van [artikel 1.3a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.3&z=2026-01-01&g=2026-01-01);
+
+- d. een beschrijving van de uitvoering van de meld- en analyseplicht van een aardbeving met een magnitude van 3.0 en hoger op de schaal van Richter van [artikel 1.3a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.4&z=2026-01-01&g=2026-01-01);
+
+- e. een beschrijving van de uitvoering van de reservoirdrukmonitoring- en analyseplicht van [artikel 1.3a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.5&z=2026-01-01&g=2026-01-01);
+
+- f. een beschrijving van de uitvoering van de monitoring- en analyseplicht van bodemdaling van [artikel 1.3a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.6&z=2026-01-01&g=2026-01-01);
+
+- g. een inventarisatie van de reeds bekende geofysische gevolgen van de gaswinning uit Groningenveld;
+
+- h. een risico-signaleringssysteem met een monitoring- en actieprotocol waarin wordt beschreven hoe risico's worden gemonitord en welke acties of maatregelen worden ingezet op het moment dat deze zich voordoen, inclusief een communicatieplan;
+
+- i. een beschrijving van de wijze waarop alle relevante kennis en data ten aanzien van de door de vergunninghouder van het Groningenveld verrichte metingen en analyses in het kader van [paragraaf 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&z=2026-01-01&g=2026-01-01) openbaar worden gemaakt;
+
+- j. een beschrijving van de ontwikkeling van een kennisdatabase waarin de analyses beschikbaar worden gesteld die de vergunninghouder van het Groningenveld verricht of heeft verricht naar de gevolgen van de gaswinning op het Groningenveld;
+
+- k. een beschrijving van de wijze waarop kennis en data die de vergunninghouder verkrijgt uit haar analyses naar de gevolgen van de gaswinning uit het Groningenveld voor de lange termijn openbaar beschikbaar wordt gehouden;
+
+- l. een beschrijving van de wijze waarop de vergunninghouder zijn kennispositie ontwikkelt en voldoende op peil houdt; en
+
+- m. een beschrijving van de uitvoering en planning van de verwijderingsplannen bedoeld in [artikel 44a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a).
+
+#### § 1.3b. Vergunningen, aanvragen en verzoeken opsporen en winnen van aardwarmte
+
+##### Artikel 1.3b.1
+
+1. Onverminderd [artikel 24e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24e) bevat de aanvraag voor een toewijzing zoekgebied aardwarmte:
+
+- a. de ligging en oppervlakte van het aangevraagde gebied;
+
+- b. een beschrijving van de door de provinciale staten op grond van [artikel 1.2, tweede lid, onderdeel a, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.2) met het oog op de waterwinning aangewezen gebieden, uitgesplitst naar type gebied en de Natura 2000-gebieden, bedoeld in [artikel 1.1. van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=1.1), binnen het aangevraagde gebied;
+
+- c. een beschrijving van de mijnbouwactiviteiten die reeds worden uitgevoerd of waartoe kenbare voornemens bestaan die mogelijk kunnen interfereren met de door de aanvrager voorgenomen opsporing en winning van aardwarmte, de aardlagen waarin die andere mijnbouwactiviteiten plaatsvinden of plaats zullen vinden, en de plaats van reeds aanwezige putten, zowel operationeel als buiten gebruik of buiten werking;
+
+- d. een beschrijving van de eerder voorgekomen natuurlijke en geïnduceerde seismiciteit;
+
+- e. een beschrijving van de breuken en de plaats daarvan;
+
+- f. een beschrijving van de geohydrologische status van het aangevraagde gebied;
+
+- g. een beschrijving van de hoeveelheid potentieel winbare warmte in het aangevraagde gebied, uitgedrukt in petajoule;
+
+- h. een beschrijving van het potentieel vermogen dat in het aangevraagde gebied kan worden bereikt, bij een waarschijnlijkheid van 50 procent en 90 procent, uitgedrukt in megawatt, een onderbouwing daarvan, en een vermogensverwachtingscurve;
+
+- i. een beschrijving van het doel, de omvang, uitgedrukt in petajoule, en de temperatuur van de voorgenomen afzet van warmte;
+
+- j. het plan voor de wijze waarop de aanvrager voornemens is te communiceren met de betrokkenen in de omgeving waar de mijnbouwactiviteiten zullen plaatsvinden;
+
+- k. de gegevens, opgenomen in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=1a&z=2026-01-01&g=2026-01-01);
+
+- l. andere gegevens die de aanvrager heeft gebruikt bij de onderbouwing van de aanvraag.
+
+2. De aanvrager verstrekt bij de aanvraag voorts:
+
+- a. een beschrijving van de regionale geologie;
+
+- b. de verkenningsonderzoeken die de aanvrager voornemens is uit te voeren en het daarbij behorende tijdschema;
+
+- c. een opgave van het beoogde aantal putten;
+
+- d. een beschrijving van de manier waarop de aanvraag past binnen provinciale of gemeentelijke beleidsplannen ten aanzien van aardwarmte voor het aangevraagde gebied;
+
+- e. een kopie van verklaringen van of overeenkomsten met de beoogde afnemers van de warmte waaruit de intentie blijkt om warmte af te nemen;
+
+- f. de gegevens, bedoeld in [bijlage 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=2a&z=2026-01-01&g=2026-01-01).
+
+3. De aanvrager vermeldt in de aanvraag de bron van de gegevens, bedoeld in het eerste lid en tweede lid, onderdeel a.
+
+4. De aanvrager verstrekt bij de aanvraag een figuur van de dwarsdoorsnede van de ondergrond die een weergave bevat van de aardlagen waar de aanvraag betrekking op heeft, en van de gegevens, bedoeld in het eerste lid, onderdelen a, b en c, en tweede lid, onderdeel a.
+
+5. Indien de aanvraag wordt ingediend door meerdere aanvragers gezamenlijk, worden de in het eerste lid, onderdeel k, en tweede lid, onderdeel f, bedoelde gegevens ten aanzien van iedere aanvrager afzonderlijk verstrekt. Tevens wordt aangegeven onder welke voorwaarden de samenwerking tussen de aanvragers plaatsvindt.
+
+##### Artikel 1.3b.2
+
+1. Onverminderd [artikel 24o, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24o) bevat de aanvraag voor een startvergunning aardwarmte:
+
+- a. de gegevens, bedoeld in [artikel 1.3b.1, eerste lid en tweede lid, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01);
+
+- b. een beschrijving van de lokale geologie.
+
+2. De aanvrager verstrekt bij de aanvraag voorts:
+
+- a. een beschrijving van de opbouw en plaats van het beoogde reservoirinterval met een samenvatting van de bijbehorende geologische, geofysische en petrofysische studies;
+
+- b. een beschrijving van de verwachte temperatuur, druk, porositeit, mate van doorlaatbaarheid, het zoutgehalte en de afsluitende aardlagen van het beoogde reservoirinterval;
+
+- c. een opgave van de naam, functie en beoogde plaats binnen het aangevraagde gebied van de putten die zullen worden gebruikt voor de opsporing en winning van aardwarmte;
+
+- d. een beschrijving van het beoogde aantal vollasturen van de beoogde putten en een onderbouwing daarvan;
+
+- e. een beschrijving van de verwachte gemiddelde en maximale injectiedruk aan de oppervlakte en in het beoogde reservoirinterval per reservoirlaag, de verwachte gemiddelde en minimale injectietemperatuur en het verwachte gemiddelde en maximale debiet tijdens de winning;
+
+- f. een beschrijving en onderbouwing van de mate van afkoeling en de verwachte maximale afkoelingsgraad van de invloedssfeer, en de verwachte temperatuurdistributie in de beoogde reservoirlagen aan het eind van de winning;
+
+- g. een beschrijving en onderbouwing van de verwachte interferentie met andere mijnbouwactiviteiten ten aanzien van de temperatuur en de druk in de beoogde reservoirlagen aan de hand van de verwachte temperatuurdistributie en drukdistributie in de beoogde reservoirlagen aan het eind van de winning;
+
+- h. een op een geomechanische analyse gebaseerde onderbouwing waaruit blijkt of de integriteit van de afsluitende aardlagen is gewaarborgd aan de hand van de uiterste waarden van de productieparameters;
+
+- i. een beschrijving van de kenmerkende gegevens, maximale hoeveelheid en de concentratie van de hulpstoffen die worden gebruikt bij de opsporing en winning van aardwarmte;
+
+- j. een beschrijving van het putontwerp inclusief een figuur daarvan en van het beheerssysteem en beheersplan voor de putintegriteit die voldoen aan [artikel 8.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.5&artikel=8.3.5.1&z=2026-01-01&g=2026-01-01);
+
+- k. indien het ontwerp van de put geen dubbele verbuizing ter hoogte van zoet- en brakwaterlagen bevat, een onderbouwing waaruit blijkt dat het ontwerp de putintegriteit ten minste even goed borgt als een dubbele verbuizing;
+
+- l. een beschrijving van de verwachte hoeveelheid delfstoffen die meekomen met de opsporing en winning van aardwarmte en wat met deze delfstoffen zal worden gedaan;
+
+- m. een meerjarenprogramma waarin de te verrichten opsporings- en winningsactiviteiten worden beschreven, alsmede de technieken die daarbij worden gebruikt;
+
+- n. een beschrijving en een cijfermatige onderbouwing van de verwachte opbrengsten van de winning van aardwarmte gedurende de verwachte looptijd van het project;
+
+- o. een beschrijving en een cijfermatige onderbouwing van de verwachte kosten gedurende de verwachte looptijd van het project en een beschrijving van de wijze waarop de aanvrager voornemens is deze kosten te financieren, uitgesplitst per projectfase ten aanzien van de kosten voor in elk geval:
+
+   - 1°. de te verrichten opsporings- en winningsactiviteiten die zijn opgenomen in het meerjarenprogramma, bedoeld in onderdeel m;
+
+   - 2°. investeringen en afschrijvingen;
+
+   - 3°. onderhoud, vervangingsinvesteringen en bedrijfsvoering;
+
+   - 4°. het buiten gebruik stellen van een boorgat en het verwijderen van het mijnbouwwerk;
+
+   - 5°. de bij de opsporing en winning behorende aansprakelijkheden;
+
+   - 6°. rentelasten en belastingen;
+
+   - 7°. onvoorziene omstandigheden;
+
+- p. de voor de ramingen, bedoeld in [artikel 29v van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29v), benodigde gegevens vergezeld van een cijfermatige onderbouwing en toelichting en de beoogde vorm van financiële zekerheid die zal worden gesteld, indien de aanvraag betrekking heeft op aardlagen die zich geheel of gedeeltelijk bevinden onder een gebied dat is aangewezen voor de winning van drinkwater uit grondwater.
+
+3. De aanvrager verstrekt bij de aanvraag ten aanzien van de bodembeweging:
+
+- a. een beschrijving van de verwachte mate van bodemdaling aan het einde van de winning waaruit de verwachte bodemdaling als gevolg van de voorgenomen opsporing en winning afzonderlijk en de cumulatieve bodemdaling in verband met andere mijnbouwactiviteiten blijkt;
+
+- b. een kaart waarop de bodemdalingscontouren als gevolg van de voorgenomen opsporing en winning met betrekking tot het aangevraagde gebied, de door de provinciale staten op grond van [artikel 1.2, tweede lid, onderdeel a, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.2) met het oog op de waterwinning aangewezen gebieden, en de Natura 2000-gebieden, bedoeld in [artikel 1.1. van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=1.1), zijn aangegeven;
+
+- c. een onderbouwing van de kans op schade door bodemdaling als gevolg van de voorgenomen opsporing en winning aan gebouwen of infrastructurele werken of de functionaliteit daarvan en aan natuur en milieu en een beschrijving van de omvang en aard daarvan;
+
+- d. een seismische dreigings- en risicoanalyse van de bodemtrilling als gevolg van de voorgenomen opsporing en winning waarbij de natuurlijke bodemtrilling en de interferentie met andere mijnbouwactiviteiten worden meegenomen, en waaruit blijkt of aan de norm, bedoeld in [artikel 29p, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29p), is voldaan;
+
+- e. een onderbouwing van de kans op schade door bodemtrilling als gevolg van de voorgenomen opsporing en winning aan gebouwen of infrastructurele werken of de functionaliteit daarvan en aan natuur en milieu en een beschrijving van de omvang en aard daarvan;
+
+- f. een beschrijving van de wijze van monitoring van bodemtrilling;
+
+- g. het seismisch risicobeheersplan waarin de wijze van handelen bij het optreden van bodemtrilling wordt beschreven, welke drempelwaarden worden gehanteerd voor het nemen van maatregelen en welke maatregelen in dat geval worden genomen.
+
+4. De aanvrager vermeldt in de aanvraag de bron, de wijze van interpretatie en de daarbij gehanteerde onzekerheidsanalyses, voor zover van toepassing, van de gegevens, bedoeld in het eerste tot en met het derde lid.
+
+5. De aanvrager verstrekt bij de aanvraag een figuur van de dwarsdoorsnede van de ondergrond welke een weergave bevat van de plaats en wijze waarop het formatiewater in en uit de verbuizing treedt en van de gegevens, bedoeld in het eerste lid, onderdeel b, tweede lid, onderdeel a, en [artikel 1.3b.1, eerste lid, onderdelen a, b en c, en tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01).
+
+6. [Artikel 1.3b.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01), is overeenkomstig van toepassing op de gegevens, bedoeld in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=1a&z=2026-01-01&g=2026-01-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=2a&z=2026-01-01&g=2026-01-01).
+
+##### Artikel 1.3b.3
+
+1. Onverminderd [artikel 29z, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29z) bevat de aanvraag om instemming met de aanwijzing van de uitvoerder aardwarmte:
+
+- a. een beschrijving van de werkzaamheden waarvoor de uitvoerder aardwarmte wordt aangewezen;
+
+- b. een beschrijving van de organisatiestructuur van de uitvoerder aardwarmte en van de wijze waarop de uitvoerder aardwarmte voornemens is de feitelijke werkzaamheden ten behoeve van de opsporing of winning van aardwarmte te organiseren aan de hand van de taken en verantwoordelijkheden en de daarvoor benodigde technische kennis en capaciteiten;
+
+- c. een kopie van de opdrachtovereenkomst tussen de aanvrager van de startvergunning aardwarmte, de houder van de startvergunning aardwarmte of vervolgvergunning aardwarmte en de uitvoerder aardwarmte;
+
+- d. een kopie van de afspraken tussen de aanvrager van de startvergunning, de houder van de startvergunning aardwarmte of vervolgvergunning aardwarmte en de uitvoerder aardwarmte over het dragen van de kosten van de bij de opsporing of winning behorende aansprakelijkheden, indien deze zijn gemaakt;
+
+- e. de gegevens, opgenomen in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=1a&z=2026-01-01&g=2026-01-01) en [bijlage 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=2a&z=2026-01-01&g=2026-01-01), eerste lid;
+
+- f. andere gegevens die de aanvrager heeft gebruikt bij de onderbouwing van de aanvraag.
+
+2. Indien de aanvrager van de startvergunning aardwarmte, de houder van de startvergunning aardwarmte of vervolgvergunning aardwarmte zichzelf aanwijst als uitvoerder aardwarmte, zijn het eerste lid, onderdelen c en d, niet van toepassing.
+
+##### Artikel 1.3b.4
+
+1. Onverminderd [artikel 24af, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24af) bevat de aanvraag voor een vervolgvergunning aardwarmte:
+
+- a. de gegevens, bedoeld in [artikel 1.3b.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01), voor zover die de winning van aardwarmte betreffen;
+
+- b. de gegevens, bedoeld in [artikel 1.3b.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.2&z=2026-01-01&g=2026-01-01), voor zover die de winning van aardwarmte betreffen en met dien verstande dat uit de gegevens, bedoeld in artikel 1.3b.2, derde lid, onderdeel d, blijkt of aan de norm, bedoeld in [artikel 29s, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29s), is voldaan;
+
+- c. een overzicht waaruit blijkt wat de wijzigingen van de gegevens, bedoeld in de onderdelen a en b, ten opzichte van de eerder ingediende aanvraag startvergunning voor het aangevraagde gebied zijn.
+
+2. De aanvrager vermeldt in de aanvraag de bron, de wijze van interpretatie en de daarbij gehanteerde onzekerheidsanalyses, voor zover van toepassing, van de gegevens, bedoeld in het eerste lid, onderdelen a en b.
+
+3. De aanvrager verstrekt bij de aanvraag een figuur van de dwarsdoorsnede van de ondergrond welke een weergave bevat van de plaats en wijze waarop het formatiewater in en uit de verbuizing treedt en van de gegevens, bedoeld in [artikel 1.3b.2, eerste lid, onderdeel b, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.2&z=2026-01-01&g=2026-01-01), [artikel 1.3b.1, eerste lid, onderdelen a, b en c, en tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01).
+
+4. [Artikel 1.3b.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01), is overeenkomstig van toepassing op de gegevens, bedoeld in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=1a&z=2026-01-01&g=2026-01-01).
+
+##### Artikel 1.3b.5
+
+1. De minister kent per rangschikkingscriterium, bedoeld in de [artikelen 29x, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29x), en [29y, eerste lid, onderdelen a tot en met d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29y), ten minste één en ten hoogste vijf punten toe.
+
+2. Voor de rangschikking van aanvragen voor een toewijzing zoekgebied aardwarmte wordt het aantal toegekende punten voor het rangschikkingscriterium met betrekking tot:
+
+- a. de wijze waarop de aanvraag past binnen provinciale of gemeentelijke beleidsplannen ten aanzien van aardwarmte voor het betreffende gebied, bedoeld in [artikel 29x, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29x), vermenigvuldigd met 4;
+
+- b. het eerder gestart zijn met winning van aardwarmte in een gebied dat grenst aan het betreffende gebied, bedoeld in [artikel 29x, eerste lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29x), vermenigvuldigd met 3;
+
+- c. de kwaliteit van de aanvraag, bedoeld in [artikel 29x, eerste lid, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29x), vermenigvuldigd met 2.
+
+3. Voor de rangschikking van aanvragen voor een startvergunning aardwarmte wordt het aantal toegekende punten voor het rangschikkingscriterium met betrekking tot:
+
+- a. de wijze waarop de aanvraag past binnen provinciale of gemeentelijke beleidsplannen ten aanzien van aardwarmte voor het betreffende gebied, bedoeld in [artikel 29y, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29y), vermenigvuldigd met 4;
+
+- b. het eerder gestart zijn met winning van aardwarmte in een gebied dat grenst aan het betreffende gebied, bedoeld in [artikel 29y, eerste lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29y), vermenigvuldigd met 3;
+
+- c. de kwaliteit van de aanvraag, bedoeld in [artikel 29y, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29y), vermenigvuldigd met 2.
+
+4. De minister rangschikt een aanvraag hoger naarmate na toepassing van het tweede of derde lid in totaal meer punten aan die aanvraag zijn toegekend.
+
+##### Artikel 1.3b.6
+
+Een verzoek als bedoeld in [artikel 29ak, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29ak) wordt binnen zes maanden na de verlening van de toewijzing zoekgebied ingediend en bevat ten minste:
+
+- a. de reden voor het verzoek;
+
+- b. een onderbouwing van de wijze waarop het doel van kennisdeling en kennisborging kan worden gewaarborgd, indien de op grond van [artikel 82, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=82) aangewezen vennootschap niet deelneemt in de werkzaamheden voor opsporing en winning van aardwarmte;
+
+- c. een reactie op het verzoek:
+
+   - 1°. van de vennootschap, bedoeld in onderdeel b, indien de houder van de toewijzing zoekgebied het verzoek indient;
+
+   - 2°. van de houder van de toewijzing zoekgebied, indien de vennootschap, bedoeld in onderdeel b, het verzoek indient.
+
 #### § 1.4. Aanvraag mijnbouwmilieuvergunning
 
 ##### Artikel 1.4.1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.4.2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.4.3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.4.4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.4.5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.4.6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.4.7
 
-Vervallen
+*Vervallen*
 
-#### § 1.4. Aanvraag mijnbouwmilieuvergunning
+#### § 1.5. Aanvraag vergunning voor verkenningsonderzoek op land
 
 ##### Artikel 1.5.1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.5.2
 
@@ -333,11 +669,11 @@ Bij de aanvraag om een vergunning als bedoeld in [artikel 22 van het besluit](ht
 
 - e. de maatregelen die worden genomen ter voorkoming van schade.
 
-#### § 1.3b. Vergunningen, aanvragen en verzoeken opsporen en winnen van aardwarmte
+#### § 1.6. Aanvraag ontheffingen mijnbouwwerken
 
 ##### Artikel 1.6.1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.6.2
 
@@ -348,6 +684,86 @@ Bij de aanvraag om een ontheffing als bedoeld in [artikel 51, vijfde lid, van he
 1. Aanvragen om een ontheffing als bedoeld in [artikel 52, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=52) worden in tweevoud ingediend bij de Minister van Infrastructuur en Waterstaat.
 
 2. Bij de aanvraag geeft de aanvrager aan waarom geluids- en lichtbakens niet noodzakelijk zijn.
+
+#### § 1.6a. Melding buiten werking mijnbouwwerk, kabel of pijpleiding
+
+##### Artikel 1.6a.1
+
+De houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) doet de melding, bedoeld in [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44), door middel van een volledig ingevuld door de Minister ter beschikking gesteld middel.
+
+##### Artikel 1.6a.2
+
+1. De beheerder van een kabel of pijpleiding doet de melding, bedoeld in [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45), door middel van een volledig ingevuld door de Minister ter beschikking gesteld middel.
+
+2. Bij de toepassing van de criteria, genoemd in [artikel 103 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=103), worden voor een kabel of pijpleiding in het niet gemeentelijk ingedeelde gebied ten minste de volgende onderwerpen betrokken:
+
+- a. doelmatigheid van het gebruik van de ruimte, te weten:
+
+   - 1°. ruimtebeslag inclusief werk- en veiligheidszones;
+
+   - 2°. de invloed op de vrije ruimte;
+
+   - 3°. mogelijke barrièrewerking; en
+
+   - 4°. mogelijke hinder en potentie voor andere bestaande en bekende toekomstige gebruiksfuncties;
+
+- b. de gevolgen voor het milieu, te weten:
+
+   - 1°. de invloed op het bodemecosysteem;
+
+   - 2°. gevolgen voor de waterkwaliteit;
+
+   - 3°. vrijkomen van gebiedsvreemde stoffen;
+
+   - 4°. verstoring van de visfauna, vogels of zeezoogdieren;
+
+   - 5°. netto energieverbruik; en
+
+   - 6°. recycling en hergebruikmogelijkheden;
+
+- c. de veiligheid op zee, te weten:
+
+   - 1°. risico’s voor personeel en materieel ten tijde van verwijdering; en
+
+   - 2°. risico’s op blootspoelen en breuk en risico’s voor visserij en scheepvaart in geval van laten liggen;
+
+- d. de doelmatigheid van de kosten, te weten:
+
+   - 1°. saldo van opruim- en verwerkingskosten en opbrengsten in geval van geheel of gedeeltelijk opruimen van een kabel of pijpleiding: en
+
+   - 2°. schoonmaakkosten, inspectiekosten, aansprakelijkheidskosten en extra kosten voor andere bestaande of bekende toekomstige gebruiksfuncties als gevolg van veroorzaakte hinder in geval van geheel of gedeeltelijk laten liggen van een kabel of pijpleiding.
+
+#### § 1.6b. Aanvraag instemming verwijderingsplan en ontheffing mijnbouwwerk, kabel of pijpleiding
+
+##### Artikel 1.6b.1
+
+De aanvraag tot instemming met een verwijderingsplan als bedoeld in de [artikelen 40c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=40c), en [62 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=62) en de aanvraag om een ontheffing als bedoeld in de [artikelen 40e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=40e), en [62b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=62b) worden ingediend door middel van een volledig ingevuld door de Minister ter beschikking gesteld middel.
+
+#### § 1.6c. Aanvraag instemming met rapport over verwijdering mijnbouwwerk, kabel of pijpleiding
+
+##### Artikel 1.6c.1
+
+1. De aanvraag om instemming met het rapport over de verwijdering als bedoeld in de [artikelen 44c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44c), en [45, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45), wordt ingediend door middel van een volledig ingevuld door de Minister ter beschikking gesteld middel.
+
+2. Bij de aanvraag om instemming met het rapport over de verwijdering van het mijnbouwwerk verstrekt de aanvrager bewijs dat verwijdering heeft plaatsgevonden overeenkomstig het verwijderingsplan en de voorschriften die aan de instemming met het verwijderingsplan zijn verbonden waaronder in elk geval:
+
+- a. voor mijnbouwwerken op zee:
+
+   - 1°. foto- of videomateriaal of sonarbeelden waaruit blijkt dat de zeebodem vrij is van schroot en ander materiaal;
+
+   - 2°. boorrapportages, zo nodig aangevuld met foto- of videomateriaal of sonarbeelden waaruit blijkt dat putten tot de diepte als bedoeld in [artikel 8.5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.3&artikel=8.5.3.2&z=2026-01-01&g=2026-01-01) onder de zeebodem zijn verwijderd;
+
+- b. voor mijnbouwwerken op land ten aanzien van de bodem:
+
+   - 1°. indien van toepassing: een beschikking van het bevoegd gezag overeenkomstig de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994);
+
+   - 2°. bewijs dat de bodemkwaliteit teruggebracht is naar de staat ten tijde van de nulsituatie van de bodem;
+
+   - 3°. indien de nulsituatie niet bekend is, een bodemrapport waaruit blijkt dat de situatie voldoet aan de achtergrondwaarden van de bodem zoals in de omliggende omgeving van de locatie;
+
+   - 4°. indien nog niet geregistreerd, de correcte gegevens voor registratie op grond van de [Wet basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0037095).
+
+3. Bij de aanvraag om instemming met het rapport over de verwijdering van kabels of pijpleidingen op zee verstrekt de aanvrager tenminste bewijs door middel van foto- of videomateriaal of sonarbeelden waaruit blijkt dat de kabels of pijpleidingen zijn verwijderd.
 
 #### § 1.7. Aanvraag vergunning pijpleidingen en kabels
 
@@ -363,27 +779,27 @@ Bij de aanvraag om een ontheffing als bedoeld in [artikel 51, vijfde lid, van he
 
 - d. de resultaten van het onderzoek van het voorgenomen traject in een strook van 600 meter, waarvan de as van de strook samenvalt met het gekozen traject, en waarin is beschreven:
 
-- 1°. het profiel van de zeebodem;
+   - 1°. het profiel van de zeebodem;
 
-- 2°. de aanwezige obstakels;
+   - 2°. de aanwezige obstakels;
 
-- 3°. de ligging van bestaande pijpleidingen en kabels;
+   - 3°. de ligging van bestaande pijpleidingen en kabels;
 
-- 4°. de grondmechanische eigenschappen;
+   - 4°. de grondmechanische eigenschappen;
 
-- 5°. de stratigrafie van de zeebodem, en
+   - 5°. de stratigrafie van de zeebodem, en
 
-- 6°. de analyse en kwaliteit van de bodemmonsters en sonderingen;
+   - 6°. de analyse en kwaliteit van de bodemmonsters en sonderingen;
 
 - e. een rapport van het voorontwerp van de pijpleiding waarin is beschreven:
 
-- 1°. de eigenschappen en diameter van de pijpleiding;
+   - 1°. de eigenschappen en diameter van de pijpleiding;
 
-- 2°. de stoffen die erin worden vervoerd;
+   - 2°. de stoffen die erin worden vervoerd;
 
-- 3°. een analyse van de veiligheids- en milieurisico's, en
+   - 3°. een analyse van de veiligheids- en milieurisico's, en
 
-- 4°. de tijd gedurende welke de pijpleiding wordt gebruikt voor het vervoer van die stoffen.
+   - 4°. de tijd gedurende welke de pijpleiding wordt gebruikt voor het vervoer van die stoffen.
 
 2. De gegevens, bedoeld in het eerste lid, worden in viervoud ingediend.
 
@@ -403,7 +819,7 @@ Bij de aanvraag om een ontheffing als bedoeld in [artikel 51, vijfde lid, van he
 
 2. Het traject van de kabel wordt op een kaart ingetekend.
 
-#### § 1.4. Aanvraag mijnbouwmilieuvergunning
+#### § 1.8. Aanvraag splitsing of samenvoeging vergunning(en)
 
 ##### Artikel 1.8.1
 
@@ -431,7 +847,21 @@ Bij de aanvraag om samenvoeging van twee of meer vergunningen als bedoeld in [ar
 
 - d. de persoon die overeenkomstig [artikel 22, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=22) dient te worden aangewezen voor de vergunning die door samenvoeging zal ontstaan.
 
-#### § 1.4. Aanvraag mijnbouwmilieuvergunning
+##### Artikel 1.8.3
+
+Bij de aanvraag tot afsplitsing van een vergunning als bedoeld in [artikel 143, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=143), verstrekt de aanvrager de volgende gegevens:
+
+- a. de vergunning waarvoor afsplitsing wordt gevraagd;
+
+- b. een aanduiding van de gebiedsdelen die door afsplitsing ontstaan;
+
+- c. de reden voor afsplitsing;
+
+- d. een kaart waarop de voorkomens van delfstoffen zijn aangegeven;
+
+- e. de personen die overeenkomstig [artikel 22, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=22) worden aangewezen voor de afzonderlijke vergunningen die na afsplitsing zullen ontstaan.
+
+#### § 1.9. Aanvraag vergunning winning kalksteen of ander gebruik groeve
 
 ##### Artikel 1.9.1
 
@@ -441,11 +871,11 @@ Bij de aanvraag om een vergunning tot winning van kalksteen als bedoeld in [arti
 
 - b. een kaart van de bovengrond waaronder de groeve zich zal uitstrekken, waarop is aangegeven:
 
-- 1°. alle gebouwen, land-, spoor- en waterwegen boven het gebied van de groeve;
+   - 1°. alle gebouwen, land-, spoor- en waterwegen boven het gebied van de groeve;
 
-- 2°. de plaats waar de activiteiten zullen plaatsvinden, en
+   - 2°. de plaats waar de activiteiten zullen plaatsvinden, en
 
-- 3°. de ingangen tot de groeve;
+   - 3°. de ingangen tot de groeve;
 
 - c. een kaart van de ondergrond waarin de groeve zich zal uitstrekken, waarop is aangegeven de ligging, hoogte en breedte van de te realiseren tunnels, schachten of andere ondergrondse werken en het reeds bestaande ondergrondse gangenstelsel, voor zover aanwezig;
 
@@ -481,33 +911,33 @@ Bij de aanvraag om een vergunning tot gebruik van een groeve voor een ander doel
 
 ##### Artikel 1.10.1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.10.2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.10.3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.10.4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.10.5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.10.6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1.10.7
 
-Vervallen
+*Vervallen*
 
-#### § 1.6. Aanvraag ontheffingen mijnbouwwerken
+#### § 1.11. Werkplan
 
 ##### Artikel 1.11.1
 
@@ -517,15 +947,15 @@ Een werkplan als bedoeld in artikel 4 van het besluit bevat voor een vergunnings
 
 - b. een overzicht van de mijnbouwactiviteiten die het eerstkomende jaar worden voorzien, inhoudende:
 
-- 1°. een beschrijving van voorgenomen verkenningsonderzoek;
+   - 1°. een beschrijving van voorgenomen verkenningsonderzoek;
 
-- 2°. een beschrijving van aan te leggen boorgaten, putreparaties en stimulaties;
+   - 2°. een beschrijving van aan te leggen boorgaten, putreparaties en stimulaties;
 
-- 3°. een beschrijving van de constructiewerkzaamheden, zoals nieuwbouw, wijzigingen van bestaande mijnbouwwerken en aanleg van pijpleidingen;
+   - 3°. een beschrijving van de constructiewerkzaamheden, zoals nieuwbouw, wijzigingen van bestaande mijnbouwwerken en aanleg van pijpleidingen;
 
-- 4°. een opgave van activiteiten in het kader van de externe veiligheid, waaronder de te houden oefeningen;
+   - 4°. een opgave van activiteiten in het kader van de externe veiligheid, waaronder de te houden oefeningen;
 
-- 5°. een samenvatting van de activiteiten, bedoeld in onderdelen 1° tot en met 4°.
+   - 5°. een samenvatting van de activiteiten, bedoeld in onderdelen 1° tot en met 4°.
 
 - c. een actueel organisatieschema met vermelding van de voor de mijnbouwactiviteiten verantwoordelijke personen;
 
@@ -535,11 +965,21 @@ Een werkplan als bedoeld in artikel 4 van het besluit bevat voor een vergunnings
 
 - f. voor zover van toepassing:
 
-- 1°. de naam van de onderneming die verkenningsonderzoek verricht;
+   - 1°. de naam van de onderneming die verkenningsonderzoek verricht;
 
-- 2°. de naam van het mijnbouwwerk waarmee boorgaten worden aangelegd, en
+   - 2°. de naam van het mijnbouwwerk waarmee boorgaten worden aangelegd, en
 
-- 3°. de namen van de locaties waar boorgaten worden aangelegd.
+   - 3°. de namen van de locaties waar boorgaten worden aangelegd.
+
+#### § 1.12. Veiligheidszone
+
+##### Artikel 1.12.1
+
+*Vervallen*
+
+##### Artikel 1.12.2
+
+*Vervallen*
 
 ### Hoofdstuk 2. Verkenningsonderzoek
 
@@ -547,9 +987,9 @@ Een werkplan als bedoeld in artikel 4 van het besluit bevat voor een vergunnings
 
 ##### Artikel 2.1.1
 
-Vervallen
+*Vervallen*
 
-#### § 2.1. Verkenningsonderzoek in oppervlaktewater
+#### § 2.2. Verkenningsonderzoek met gebruik van ontplofbare stoffen
 
 ##### Artikel 2.2.1
 
@@ -573,7 +1013,7 @@ De uitvoering van werkzaamheden met ontplofbare stoffen geschiedt overeenkomstig
 
 3. De minister kan van het eerste en tweede lid ontheffing verlenen, indien de onderzoeker aantoont dat schade wordt voorkomen.
 
-#### § 2.1. Verkenningsonderzoek in oppervlaktewater
+#### § 2.3. Opslag van ontplofbare stoffen
 
 ##### Artikel 2.3.1
 
@@ -627,7 +1067,7 @@ Zolang een lading nog niet op zijn plaats in het schietgat is aangebracht, wordt
 
 Ontplofbare stoffen worden slechts in de vorm en de verpakking, waarin zij door de fabrikant zijn geleverd, gebruikt.
 
-#### § 1.11. Werkplan
+#### § 2.6. Het laden van schietgaten
 
 ##### Artikel 2.6.1
 
@@ -653,7 +1093,7 @@ Schietgaten worden over de gehele lengte opgevuld met daarvoor geschikt materiaa
 
 2. Indien een lading niet tot ontploffing is gekomen en gebleken dat het ontstekingscircuit niet in takt is, wordt de in het eerste lid bedoelde poging ondernomen door het afvuren van een geschikte lading in een nieuw schietgat dat is geboord op tenminste 0,5 m afstand van het oorspronkelijk schietgat tot de diepte van de bovenkant van de niet ontplofte lading.
 
-#### § 1.11. Werkplan
+#### § 2.8. Rapportage
 
 ##### Artikel 2.8.1
 
@@ -667,7 +1107,7 @@ De schietmeester houdt een schietregister bij, waarin van dag tot dag zijn verme
 
 - d. de bijzonderheden, die zich bij activiteiten met ontplofbare stoffen hebben voorgedaan.
 
-### Hoofdstuk 2. Verkenningsonderzoek
+### Hoofdstuk 3. Het winnen en het opslaan van stoffen
 
 ##### Artikel 3.1
 
@@ -681,113 +1121,23 @@ Voor de opgave van hoeveelheden stoffen, bedoeld in de [artikelen 24](https://we
 
 - d. pekel: in m3.
 
-### Hoofdstuk 3. Het winnen en het opslaan van stoffen
+##### Artikel 3.2
 
-### Afdeling 4.1. Helikopterdekken op mijnbouwinstallaties
+1. Het register over CO2-stromen, bedoeld in [artikel 31f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31f), bevat met ingang van de dag van eerste injectie van stoffen een opgave van:
 
-#### § 2.1. Verkenningsonderzoek in oppervlaktewater
+- a. de hoeveelheden stoffen uitgedrukt in kton die per uur zijn geleverd, geïnjecteerd of weggelekt en
 
-##### Artikel 4.1.1
+- b. de samenstelling van de stoffen en iedere wijziging in de samenstelling ervan met vermelding van de datum en tijdstip van wijziging;
 
-Vervallen
+2. De samenstelling van de stoffen bevat een opgave van de afzonderlijke stoffen en hun volume- en gewichtsaandeel met een voldoende nauwkeurigheid met het oog op de belangen van milieu en veiligheid.
 
-#### § 2.2. Verkenningsonderzoek met gebruik van ontplofbare stoffen
+3. Het register wordt tenminste wekelijks bijgewerkt.
 
-##### Artikel 4.2.1
+### Hoofdstuk 4. Het binnenkomen of verlaten van de Nederlandse wateren van een bestaande productie-installatie
 
-Vervallen
+##### Artikel 4.1
 
-##### Artikel 4.2.2
-
-Vervallen
-
-#### § 2.6. Het laden van schietgaten
-
-##### Artikel 4.3.1
-
-Vervallen
-
-##### Artikel 4.3.2
-
-Vervallen
-
-##### Artikel 4.3.3
-
-Vervallen
-
-#### § 4.4. Het helikopterdek en de landingsplaats
-
-##### Artikel 4.4.1
-
-Vervallen
-
-##### Artikel 4.4.2
-
-Vervallen
-
-##### Artikel 4.4.3
-
-Vervallen
-
-##### Artikel 4.4.4
-
-Vervallen
-
-##### Artikel 4.4.5
-
-Vervallen
-
-##### Artikel 4.4.6
-
-Vervallen
-
-##### Artikel 4.4.7
-
-Vervallen
-
-##### Artikel 4.4.8
-
-Vervallen
-
-#### § 4.5. Het gebruik van helikopters
-
-##### Artikel 4.5.1
-
-Vervallen
-
-#### § 6.1. Algemeen
-
-##### Artikel 4.6.1
-
-Vervallen
-
-##### Artikel 4.6.2
-
-Vervallen
-
-##### Artikel 4.6.3
-
-Vervallen
-
-#### § 2.7. Niet tot ontploffing gekomen ladingen
-
-##### Artikel 4.7.1
-
-Vervallen
-
-##### Artikel 4.7.2
-
-Vervallen
-
-#### § 4.7. Bepalingen voor niet-bemande mijnbouwinstallaties
-
-##### Artikel 4.8.1
-
-Vervallen
-
-##### Artikel 4.8.2
-
-Vervallen
+De termijn, bedoeld in [artikel 49, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=49), bedraagt acht weken.
 
 ### Hoofdstuk 5. Herkenningstekens, geluidsbakens en lichtbakens
 
@@ -1129,17 +1479,17 @@ Dit hoofdstuk heeft betrekking op mijnbouwinstallaties die voor de winning of de
 
 - a. een inspectie van de zeebodem om:
 
-- 1°. de mate van uitschuring ten opzichte van een vast referentiepunt vast te stellen; de toelaatbare mate van uitschuring dient binnen de grenzen van de ontwerpcriteria te blijven;
+   - 1°. de mate van uitschuring ten opzichte van een vast referentiepunt vast te stellen; de toelaatbare mate van uitschuring dient binnen de grenzen van de ontwerpcriteria te blijven;
 
-- 2°. te constateren of er afval dan wel vreemde voorwerpen op de bodem liggen, die invloed kunnen uitoefenen dan wel gevaar kunnen opleveren voor de constructie;
+   - 2°. te constateren of er afval dan wel vreemde voorwerpen op de bodem liggen, die invloed kunnen uitoefenen dan wel gevaar kunnen opleveren voor de constructie;
 
 - b. een inspectie van de onderwaterstaalconstructie en daarmee verbonden pijpleidingen om te constateren dat:
 
-- 1°. alle constructiedelen aanwezig zijn en niet beschadigd of gecorrodeerd;
+   - 1°. alle constructiedelen aanwezig zijn en niet beschadigd of gecorrodeerd;
 
-- 2°. alle pijpleidingen op hun plaats zitten, op de juiste manier geborgd en niet beschadigd of gecorrodeerd zijn;
+   - 2°. alle pijpleidingen op hun plaats zitten, op de juiste manier geborgd en niet beschadigd of gecorrodeerd zijn;
 
-- 3°. het corrosiebestrijdingssysteem aanwezig is en in goede staat verkeert; indien de staat van de pijpleidingborgklemmen niet afdoende kan worden beoordeeld, worden deze plaatsen eerst schoongemaakt alvorens zij worden geïnspecteerd;
+   - 3°. het corrosiebestrijdingssysteem aanwezig is en in goede staat verkeert; indien de staat van de pijpleidingborgklemmen niet afdoende kan worden beoordeeld, worden deze plaatsen eerst schoongemaakt alvorens zij worden geïnspecteerd;
 
 - c. een inspectie om de mate van onderwater aangroeiing aan de staalconstructie en daarmee verbonden pijpleidingen vast te stellen. Indien de aangroeiing de maximale dikte overschrijdt, zoals opgenomen in de oorspronkelijke ontwerpberekeningen, dient deze aangroeiing te worden verwijderd;
 
@@ -1149,21 +1499,21 @@ Dit hoofdstuk heeft betrekking op mijnbouwinstallaties die voor de winning of de
 
 - f. de mate van de werking van het corrosiebeschermingssysteem en:
 
-- 1°. bij onvoldoende werking van het corrosiebeschermingssysteem worden diktemetingen uitgevoerd ter vaststelling van de mate van corrosie in de niet voldoende beschermde gebieden alsmede een onderzoek om de oorzaak van de corrosie vast te stellen;
+   - 1°. bij onvoldoende werking van het corrosiebeschermingssysteem worden diktemetingen uitgevoerd ter vaststelling van de mate van corrosie in de niet voldoende beschermde gebieden alsmede een onderzoek om de oorzaak van de corrosie vast te stellen;
 
-- 2°. indien de mate van corrosie de in de ontwerpberekeningen opgenomen corrosietoeslagen overschrijdt, worden maatregelen genomen in overleg met de ter zake deskundige instelling;
+   - 2°. indien de mate van corrosie de in de ontwerpberekeningen opgenomen corrosietoeslagen overschrijdt, worden maatregelen genomen in overleg met de ter zake deskundige instelling;
 
-- 3°. indien aan de primaire constructiegedeelten of putgeleidebuizen onder en boven water corrosie is geconstateerd, worden eveneens wanddiktemetingen verricht alsmede een algemeen onderzoek om de oorzaak van de corrosie vast te stellen;
+   - 3°. indien aan de primaire constructiegedeelten of putgeleidebuizen onder en boven water corrosie is geconstateerd, worden eveneens wanddiktemetingen verricht alsmede een algemeen onderzoek om de oorzaak van de corrosie vast te stellen;
 
 - g. inspectie en onderzoek van een aantal kritische lassen van knooppunten, zoals van tevoren in het vijfjarig inspectieplan is aangegeven, alsmede een onderzoek naar de materiaaldikte van knooppunten en aansluitende verbindingen.
 
 ##### Artikel 7.3
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 8. Boorgaten en putten
 
-### Afdeling 8.1. Algemeen
+#### Afdeling 8.1. Algemeen
 
 ##### Artikel 8.1.1
 
@@ -1199,7 +1549,7 @@ Vervallen
 
 2. Voorts wordt in deze afdeling onder zeebodem mede begrepen: de bodem van oppervlaktewater.
 
-### Afdeling 8.2. Werkprogramma's voor boorgaten en putten alsmede rapportages voor boorgaten
+#### Afdeling 8.2. Werkprogramma's voor boorgaten en putten alsmede rapportages voor boorgaten
 
 #### § 8.2.1. Werkprogramma voor het aanleggen, uitbreiden of wijzigen van boorgaten
 
@@ -1209,23 +1559,23 @@ Vervallen
 
 - a. voor boorgaten op zee:
 
-- 1°. de letter- en nummeraanduiding van het blok waarin het boorgat zal worden aangelegd;
+   - 1°. de letter- en nummeraanduiding van het blok waarin het boorgat zal worden aangelegd;
 
-- 2°. de aanduiding van het boorgat:
+   - 2°. de aanduiding van het boorgat:
 
-- 3°. de plaats van het aanzetpunt van het boorgat uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
+   - 3°. de plaats van het aanzetpunt van het boorgat uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
 
-- 4°. een opgave van de hoogte van de boortafel of van een ander, nader aan te geven, referentiepunt in meters ten opzichte van zowel de gemiddelde waterstand als de zeebodem;
+   - 4°. een opgave van de hoogte van de boortafel of van een ander, nader aan te geven, referentiepunt in meters ten opzichte van zowel de gemiddelde waterstand als de zeebodem;
 
 - b. voor boorgaten op land:
 
-- 1°. de naam van de gemeente waarin het boorgat zal worden aangelegd;
+   - 1°. de naam van de gemeente waarin het boorgat zal worden aangelegd;
 
-- 2°. de benaming van het boorgat;
+   - 2°. de benaming van het boorgat;
 
-- 3°. de plaats van het aanzetpunt daarvan uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
+   - 3°. de plaats van het aanzetpunt daarvan uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
 
-- 4°. een opgave van de hoogte van het maaiveld in meters ten opzichte van N.A.P alsmede de hoogte van de boortafel of in plaats van de boortafel een ander, nader aan te geven referentiepunt in meters ten opzichte van N.A.P.
+   - 4°. een opgave van de hoogte van het maaiveld in meters ten opzichte van N.A.P alsmede de hoogte van de boortafel of in plaats van de boortafel een ander, nader aan te geven referentiepunt in meters ten opzichte van N.A.P.
 
 2. Voorts bevat het werkprogramma ten minste:
 
@@ -1233,41 +1583,41 @@ Vervallen
 
 - b. een schematische opgave van:
 
-- 1°. de selectiecriteria waarop de verbuizingsdiepten zijn gekozen, rekening houdend met de maximaal toelaatbare instromingsvolumes bij de verwachte formatiesterkten;
+   - 1°. de selectiecriteria waarop de verbuizingsdiepten zijn gekozen, rekening houdend met de maximaal toelaatbare instromingsvolumes bij de verwachte formatiesterkten;
 
-- 2°. de geologische formaties, welke vermoedelijk zullen worden doorboord;
+   - 2°. de geologische formaties, welke vermoedelijk zullen worden doorboord;
 
-- 3°. de verbuizingsdiepten van nabijgelegen boorgaten met hun gebruikte spoelingsgewichten, temperatuur en formatiesterktetesten vergeleken met die van het aan te leggen boorgat met de gecorreleerde stratigrafische kolom;
+   - 3°. de verbuizingsdiepten van nabijgelegen boorgaten met hun gebruikte spoelingsgewichten, temperatuur en formatiesterktetesten vergeleken met die van het aan te leggen boorgat met de gecorreleerde stratigrafische kolom;
 
-- 4°. de in het boorgat te verwachten poriëndrukken en bezwijkdrukken van het gesteente met de beoogde boorspoelingsdrukken, en
+   - 4°. de in het boorgat te verwachten poriëndrukken en bezwijkdrukken van het gesteente met de beoogde boorspoelingsdrukken, en
 
-- 5°. elke plaats waar:
+   - 5°. elke plaats waar:
 
-- –. spoelingverliezen kunnen optreden;
+      - – spoelingverliezen kunnen optreden;
 
-- –. een plastisch gesteente te verwachten is, of
+      - – een plastisch gesteente te verwachten is, of
 
-- –. koolwaterstofaccumulatie aanwezig kan zijn;
+      - – koolwaterstofaccumulatie aanwezig kan zijn;
 
 - c. het type van de te gebruiken boorinstallatie;
 
 - d. een beschrijving:
 
-- 1°. de wijze van isolatie van de zoet- en zoutwaterlagen onder opgave van:
+   - 1°. de wijze van isolatie van de zoet- en zoutwaterlagen onder opgave van:
 
-- –. de lokale grondwaterhydrologie;
+      - – de lokale grondwaterhydrologie;
 
-- –. de identificatie van zoet- en zoutwaterlagen;
+      - – de identificatie van zoet- en zoutwaterlagen;
 
-- –. de beoogde isolatie na het doorboren van de zoet- en zoutwaterlagen;
+      - – de beoogde isolatie na het doorboren van de zoet- en zoutwaterlagen;
 
-- –. de wijze van verificatie van de nieuwe isolatie na doorboring;
+      - – de wijze van verificatie van de nieuwe isolatie na doorboring;
 
-- 2°. met tekeningen van elke verbuizingsserie met vermelding van de diameter;
+   - 2°. met tekeningen van elke verbuizingsserie met vermelding van de diameter;
 
-- 3°. van de soort materiaal, het gewicht per lengte eenheid, en de diepte waarop het inbouwen van elk serie wordt voorzien, en
+   - 3°. van de soort materiaal, het gewicht per lengte eenheid, en de diepte waarop het inbouwen van elk serie wordt voorzien, en
 
-- 4°. van de voorgenomen diameter van het boorgat over het boortraject tot elk van de onder 2° bedoelde diepten;
+   - 4°. van de voorgenomen diameter van het boorgat over het boortraject tot elk van de onder 2° bedoelde diepten;
 
 - e. een opgave van alle voorkomende belastingsituaties van iedere serie van de verbuizing onder correctie van invloeden door corrosie, slijtage en vermoeiing alsmede de ontwerp- en veiligheidsfactoren die worden gebruikt om de verbuizing zeker te stellen bij deze belastingsituaties;
 
@@ -1287,31 +1637,31 @@ Vervallen
 
 - m. een opgave van de bij het aanleggen, uitbreiden of wijzigen van het boorgat te gebruiken chemicaliën, hun hoeveelheden alsmede een beschrijving van het gebruik van die chemicaliën waaruit blijkt dat wordt voldaan aan:
 
-- 1°. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de bij of krachtens titel 9.3 van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften;
+   - 1°. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de bij of krachtens titel 9.3 van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften;
 
-- 2°. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels en de bij of krachtens titel 9.3a van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften en
+   - 2°. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels en de bij of krachtens titel 9.3a van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften en
 
-- 3°. de biocidenverordening en de bij of krachtens de Wet gewasbeschermingsmiddelen en biociden voor de uitvoering van die verordening gestelde voorschriften;
+   - 3°. de biocidenverordening en de bij of krachtens de Wet gewasbeschermingsmiddelen en biociden voor de uitvoering van die verordening gestelde voorschriften;
 
 - n. indien een boorgruisreiningingssysteem zal worden gebruikt: een opgave van het systeem dat zal worden gebruikt alsmede van de eventueel daarbij te gebruiken chemicaliën;
 
-- o. een situatietekening van het voorgenomen verloop van het boorgat en een opgave van de met betrekking tot het verloop van het boorgat toe te passen meettechniek;
+- o een situatietekening van het voorgenomen verloop van het boorgat en een opgave van de met betrekking tot het verloop van het boorgat toe te passen meettechniek;
 
 - p. indien het boorgat op zodanige plaats nabij een of meer, al dan niet buiten gebruik gestelde, bestaande boorgaten zal worden aangelegd dat gevaar voor het boorgat of een ander reeds bestaand boorgat niet is uitgesloten: een berekening van de te verwachten minimale afstand alsmede de te verwachten minimale scheidingsfactoren op basis van de gebruikte meetinstrumenten;
 
 - q. een beschrijving van de ten behoeve van elke verbuizingsserie te gebruiken beveiligingsinstallatie, met vermelding van:
 
-- 1°. het type van elk onderdeel waaruit de installatie bestaat, en
+   - 1°. het type van elk onderdeel waaruit de installatie bestaat, en
 
-- 2°. de maximale druk die elk onderdeel kan weerstaan en die waarop elk onderdeel wordt getest;
+   - 2°. de maximale druk die elk onderdeel kan weerstaan en die waarop elk onderdeel wordt getest;
 
 - r. indien het boorgat wordt getest een beschrijving van:
 
-- 1°. de te volgen werkwijze;
+   - 1°. de te volgen werkwijze;
 
-- 2°. de inrichting van het boorgat, en
+   - 2°. de inrichting van het boorgat, en
 
-- 3°. de daarmee samenhangende bovengrondse uitrusting;
+   - 3°. de daarmee samenhangende bovengrondse uitrusting;
 
 - s. een opgave van de te gebruiken technische hulp- en andere beveiligingsinstallaties en van de tijdstippen waarop deze worden opgesteld, en
 
@@ -1345,23 +1695,23 @@ Het eindrapport over de aanleg, uitbreiding, wijziging of reparatie van een boor
 
 - a. voor putten op zee:
 
-- 1°. de letter en nummeraanduiding van het blok waarbinnen de te repareren put zich bevindt;
+   - 1°. de letter en nummeraanduiding van het blok waarbinnen de te repareren put zich bevindt;
 
-- 2°. de aanduiding van de put;
+   - 2°. de aanduiding van de put;
 
-- 3°. de plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
+   - 3°. de plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
 
-- 4°. een opgave van de hoogte van de boortafel of van een ander, nader aan te geven referentiepunt in meters ten opzichte van zowel de gemiddelde waterstand als de zeebodem;
+   - 4°. een opgave van de hoogte van de boortafel of van een ander, nader aan te geven referentiepunt in meters ten opzichte van zowel de gemiddelde waterstand als de zeebodem;
 
 - b. voor putten op land:
 
-- 1°. de naam van de gemeente waarbinnen de te repareren put zich bevindt;
+   - 1°. de naam van de gemeente waarbinnen de te repareren put zich bevindt;
 
-- 2°. de benaming van de put;
+   - 2°. de benaming van de put;
 
-- 3°. De plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
+   - 3°. De plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
 
-- 4°. een opgave van de hoogte van zowel het maaiveld als de boortafel of een ander, nader aan te geven referentiepunt, een en ander in meters ten opzichte van N.A.P.
+   - 4°. een opgave van de hoogte van zowel het maaiveld als de boortafel of een ander, nader aan te geven referentiepunt, een en ander in meters ten opzichte van N.A.P.
 
 2. Voorts bevat het werkprogramma ten minste:
 
@@ -1375,17 +1725,17 @@ Het eindrapport over de aanleg, uitbreiding, wijziging of reparatie van een boor
 
 - e. een beschrijving met tekeningen van:
 
-- 1°. de productieverbuizing met specificaties;
+   - 1°. de productieverbuizing met specificaties;
 
-- 2°. de cementatiediepte, en
+   - 2°. de cementatiediepte, en
 
-- 3°. de diepte van de top van de annulaire cementkolommen;
+   - 3°. de diepte van de top van de annulaire cementkolommen;
 
 - f. over de integriteitsbeheersing van de put een beschrijving van:
 
-- 1°. de deugdelijkheid van de aanwezige annulaire cementkolommen onder opgave van de hiertoe uit te voeren integriteitsmetingen, en
+   - 1°. de deugdelijkheid van de aanwezige annulaire cementkolommen onder opgave van de hiertoe uit te voeren integriteitsmetingen, en
 
-- 2°. de wijze waarop de integriteit van de put voor en na de diverse activiteiten wordt zeker gesteld;
+   - 2°. de wijze waarop de integriteit van de put voor en na de diverse activiteiten wordt zeker gesteld;
 
 - g. een beschrijving met tekeningen van de afwerking boven of onder oppervlaktewater, inclusief specificaties van het spuitkruis;
 
@@ -1417,11 +1767,11 @@ Het eindrapport over de aanleg, uitbreiding, wijziging of reparatie van een boor
 
 - u. een beschrijving van de stoffen en hoeveelheden stoffen die bij de reparatie worden geïnjecteerd onder vermelding van het registratienummer, bedoeld in artikel 64, negende lid, van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen of, in voorkomend geval, het toelatingsnummer, dat bij of krachtens de biocidenverordening of de Wet gewasbeschermingsmiddelen en biociden aan de stof is gegeven, waaruit blijkt dat wordt voldaan aan:
 
-- 1°. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de bij of krachtens titel 9.3 van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften;
+   - 1°. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de bij of krachtens titel 9.3 van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften;
 
-- 2°. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels en de bij of krachtens titel 9.3a van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften en
+   - 2°. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels en de bij of krachtens titel 9.3a van de Wet milieubeheer voor de uitvoering van die verordening gestelde voorschriften en
 
-- 3°. de biocidenverordening en de bij of krachtens de Wet gewasbeschermingsmiddelen en biociden voor de uitvoering van die verordening gestelde voorschriften.
+   - 3°. de biocidenverordening en de bij of krachtens de Wet gewasbeschermingsmiddelen en biociden voor de uitvoering van die verordening gestelde voorschriften.
 
 ##### Artikel 8.2.3.2
 
@@ -1435,29 +1785,155 @@ Deze paragraaf is van overeenkomstige toepassing op boorgaten.
 
 #### § 8.2.3a. Werkprogramma voor het stimuleren van een voorkomen via een put
 
+##### Artikel 8.2.3a.1
+
+1. Een werkprogramma voor het stimuleren van een voorkomen via een put bevat:
+
+- a. voor putten op zee:
+
+   - 1°. de letter en nummeraanduiding van het blok waarbinnen de te stimuleren put zich bevindt;
+
+   - 2°. de aanduiding van de put;
+
+   - 3°. de plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
+
+   - 4°. een opgave van de hoogte van de boortafel of van een ander, nader aan te geven referentiepunt in meters ten opzichte van zowel de gemiddelde waterstand als de zeebodem;
+
+- b. voor putten op land:
+
+   - 1°. de naam van de gemeente waarbinnen de te stimuleren put zich bevindt;
+
+   - 2°. de benaming van de put;
+
+   - 3°. de plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
+
+   - 4°. een opgave van de hoogte van zowel het maaiveld als de boortafel of een ander, nader aan te geven referentiepunt, een en ander in meters ten opzichte van N.A.P..
+
+2. Voorts bevat het werkprogramma tenminste:
+
+- a. de samenhang tussen verschillende voorgenomen stimulatieactiviteiten indien er sprake is van meerdere stimulatieactiviteiten in dezelfde formatie;
+
+- b. de reden van het stimuleren alsmede een kort overzicht van het gedrag van en mogelijke problemen met de put sinds de aanleg of, indien het voorkomen eerder is gestimuleerd, de reden van de eerdere stimulatieactiviteit;
+
+- c. de datum van de oorspronkelijke afwerking, van de laatste reparatie of de laatste stimulatieactiviteit;
+
+- d. een schets van de deviatie, indien van toepassing;
+
+- e. een opgave van het referentievlak van waaruit de dieptematen worden opgegeven;
+
+- f. een beschrijving met tekeningen van:
+
+   - 1°. de verbuizing met specificaties;
+
+   - 2°. de cementatiediepte;
+
+   - 3°. de diepte van de top van de annulaire cementkolommen, en
+
+   - 4°. de diepte van de doorboorde formaties;
+
+- g. over de integriteitsbeheersing van de put een beschrijving van:
+
+   - 1°. de deugdelijkheid van de aanwezige annulaire cementkolommen onder opgave van de hiertoe uit te voeren integriteitsmetingen;
+
+   - 2°. de wijze waarop de integriteit van de put voor en na het stimuleren van het voorkomen wordt gemeten en zeker gesteld, en
+
+   - 3°. de wijze waarop de geohydrologische eenheden tijdens en na het stimuleren worden beschermd;
+
+- h. een beschrijving met tekeningen van de afwerking boven of onder oppervlaktewater, inclusief specificaties van het spuitkruis;
+
+- i. een beschrijving van de ondergrondse afwerking van de put;
+
+- j. de verwachte maximale ingesloten bovengrondse druk en de drukken in de diverse annulaire ruimtes;
+
+- k. de formatiedruk en de referentiediepte;
+
+- l. de ondergrondse en bovengrondse temperatuur van de put;
+
+- m. de inhoud van de opvoerserie en van de annulaire ruimten;
+
+- n. het productiemechanisme;
+
+- o. de maximale productiecapaciteit (open flow potential);
+
+- p. de naam of typeaanduiding van de installaties waarmee het stimuleren van het voorkomen wordt uitgevoerd alsmede de namen van de dienstverlenende bedrijven;
+
+- q. een beschrijving van de te gebruiken beveiligingsinstallatie voor de afsluiting van de put in de diverse fasen van het stimulatieproces;
+
+- r. een chronologisch overzicht van de voorgenomen opeenvolgende werkzaamheden in verband met de stimulatieactiviteiten, waaronder het schoon produceren van de put, waarbij zoveel mogelijk rekening wordt gehouden met van tevoren aangenomen alternatieve mogelijkheden voorzien van in het bijzonder een toelichting op uit veiligheidsoverwegingen of anderszins kritische operaties;
+
+- s. indien het stimuleren van het voorkomen bestaat uit een voorbehandeling en een hoofdbehandeling:
+
+   - 1°. een beschrijving van de randvoorwaarden waaronder met de hoofdbehandeling mag worden begonnen nadat de voorbehandeling wordt uitgevoerd, en
+
+   - 2°. de acties die moeten worden genomen indien niet aan deze randvoorwaarden wordt voldaan;
+
+- t. voor zover van toepassing, de methode waarmee putten worden veiliggesteld die in de nabijheid van het te stimuleren voorkomen liggen;
+
+- u. een opgave van de afwerking van de put na afronding van de stimulatieactiviteiten;
+
+- v. de geschatte tijdsduur van de werkzaamheden;
+
+- w. een beschrijving van de stoffen en hoeveelheden stoffen die bij het stimuleren worden gebruikt en geïnjecteerd onder vermelding van het registratienummer, bedoeld in artikel 64, negende lid, van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen of, in voorkomend geval, het toelatingsnummer, dat bij of krachtens de biocidenverordening of de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) aan de stof is gegeven, waaruit blijkt dat wordt voldaan aan:
+
+   - 1°. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de bij of krachtens [titel 9.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.3) voor de uitvoering van die verordening gestelde voorschriften;
+
+   - 2°. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels en de bij of krachtens [titel 9.3a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.3a) voor de uitvoering van die verordening gestelde voorschriften, en
+
+   - 3°. de biocidenverordening en de bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) voor de uitvoering van die verordening gestelde voorschriften;
+
+- x. een beschrijving van de geochemische reacties die kunnen optreden tussen de vloeistoffen die voor het stimuleren worden gebruikt, de formaties en de vloeistoffen die aanwezig zijn in deze formaties, waaronder een beschrijving van de samenstelling en de effecten van mogelijke reactieproducten;
+
+- y. een beschrijving van de volumebalans van de vloeistoffen die voor het stimuleren worden gebruikt, vóór en na het stimuleren van het voorkomen;
+
+- z. een beschrijving van de wijze waarop de integriteit en bescherming van de afdichtende formaties boven en onder het te stimuleren voorkomen wordt zeker gesteld;
+
+- aa. een beschrijving van het profiel en de oriëntatie van het stimuleren van het voorkomen ten opzichte van de put, waaronder grafische weergaven daarvan, alsmede de wijze hoe dit profiel en deze oriëntatie zijn bepaald onder opgave van:
+
+   - 1°. een beschrijving van de afleiding van de gebruikte ondergrondse gesteentespanningen en eigenschappen en de onzekerheden die daarbij zijn aangenomen en
+
+   - 2°. de afstand van de put tot natuurlijke breuken in de richting van het te stimuleren voorkomen;
+
+- bb. een beschrijving van de seismische risico’s, inclusief de voorzieningen om seismiciteit te meten en maatregelen om te handelen indien seismiciteit optreedt,
+
+- cc. een beschrijving van criteria voor andere stimulatieactiviteiten in dezelfde formatie, en
+
+- dd. gekozen afstanden tot andere uitgevoerde of uit te voeren stimulatieactiviteiten in dezelfde formatie.
+
+##### Artikel 8.2.3a.2
+
+1. Het werkprogramma voor het stimuleren van een voorkomen via een put is tenminste zes weken voor de aanvang van de betrokken werkzaamheden in het bezit van de inspecteur-generaal der mijnen.
+
+2. [Artikel 8.2.1.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.1&artikel=8.2.1.2&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+
+##### Artikel 8.2.3a.3
+
+Deze paragraaf is van overeenkomstige toepassing op boorgaten.
+
+#### § 8.2.4. Werkprogramma voor het buiten gebruik stellen van boorgaten en putten
+
 ##### Artikel 8.2.4.1
 
 1. Een werkprogramma voor het buiten gebruik stellen van een put bevat:
 
 - a. voor putten op zee:
 
-- 1°. de letter- en nummeraanduiding van het blok waarbinnen de buiten gebruik te stellen put zich bevindt;
+   - 1°. de letter- en nummeraanduiding van het blok waarbinnen de buiten gebruik te stellen put zich bevindt;
 
-- 2°. de aanduiding van de put, alsmede, in voorkomend geval, het nummer van de zijtak;
+   - 2°. de aanduiding van de put, alsmede, in voorkomend geval, het nummer van de zijtak;
 
-- 3°. De plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
+   - 3°. De plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
 
-- 4°. een opgave van de hoogte van de boortafel of van een ander nader aan te geven referentiepunt in meters ten opzichte van zowel de gemiddelde waterstand als de zeebodem;
+   - 4°. een opgave van de hoogte van de boortafel of van een ander nader aan te geven referentiepunt in meters ten opzichte van zowel de gemiddelde waterstand als de zeebodem;
 
 - b. voor putten op land:
 
-- 1°. de naam van de gemeente waarbinnen de buiten gebruik te stellen put zich bevindt;
+   - 1°. de naam van de gemeente waarbinnen de buiten gebruik te stellen put zich bevindt;
 
-- 2°. de aanduiding van de put, alsmede, in voorkomend geval, het nummer van de zijtak;
+   - 2°. de aanduiding van de put, alsmede, in voorkomend geval, het nummer van de zijtak;
 
-- 3°. de plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
+   - 3°. de plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
 
-- 4°. een opgave van de hoogte van zowel het maaiveld als de boortafel of een ander, nader aan te geven referentiepunt, een en ander in meters ten opzichte van N.A.P.
+   - 4°. een opgave van de hoogte van zowel het maaiveld als de boortafel of een ander, nader aan te geven referentiepunt, een en ander in meters ten opzichte van N.A.P.
 
 2. Voorts bevat het werkprogramma ten minste:
 
@@ -1471,21 +1947,21 @@ Deze paragraaf is van overeenkomstige toepassing op boorgaten.
 
 - e. schematische tekeningen van de put vóór en na de buitengebruikstelling, met informatie over:
 
-- 1°. de maten en diepte van de verbuizing, waaronder de tubing, casing en liners, en de diepten van packers en plugs, alsmede eventuele obstructies;
+   - 1°. de maten en diepte van de verbuizing, waaronder de tubing, casing en liners, en de diepten van packers en plugs, alsmede eventuele obstructies;
 
-- 2°. de diepte van de top van de cementkolommen in de annulaire ruimten en in het geval van gebruik van een ander materiaal dan cement de bijbehorende specificaties en onderbouwing van die specificaties voor de diepte van de top in die ruimten;
+   - 2°. de diepte van de top van de cementkolommen in de annulaire ruimten en in het geval van gebruik van een ander materiaal dan cement de bijbehorende specificaties en onderbouwing van die specificaties voor de diepte van de top in die ruimten;
 
-- 3°. de gas- en vloeistofsoort en het gewicht van het gas en de vloeistof in de put en de annulaire ruimten;
+   - 3°. de gas- en vloeistofsoort en het gewicht van het gas en de vloeistof in de put en de annulaire ruimten;
 
-- 4°. de zones met stromingspotentieel: diepten, gas- en vloeistofsoort en, in voorkomend geval, de geohydrologische basis;
+   - 4°. de zones met stromingspotentieel: diepten, gas- en vloeistofsoort en, in voorkomend geval, de geohydrologische basis;
 
-- 5°. de diepten en de gesteentesoort van de sluitlagen;
+   - 5°. de diepten en de gesteentesoort van de sluitlagen;
 
-- 6°. de geplande diepten van afsnijdingen van verbuizingen, en, in voorkomend geval, de geplande circulatiegaten in de verbuizing alsmede de weg te frezen of anderszins te verwijderen verbuizingsecties;
+   - 6°. de geplande diepten van afsnijdingen van verbuizingen, en, in voorkomend geval, de geplande circulatiegaten in de verbuizing alsmede de weg te frezen of anderszins te verwijderen verbuizingsecties;
 
-- 7°. de locatie en het soort geplande mechanische ondersteuning;
+   - 7°. de locatie en het soort geplande mechanische ondersteuning;
 
-- 8°. de geplande diepten van boven- en onderkant van te plaatsen cementkolommen en in het geval van gebruik van een ander materiaal dan cement de bijbehorende specificaties en onderbouwing van die specificaties voor de geplande diepten, alsmede de wijze van verificatie;
+   - 8°. de geplande diepten van boven- en onderkant van te plaatsen cementkolommen en in het geval van gebruik van een ander materiaal dan cement de bijbehorende specificaties en onderbouwing van die specificaties voor de geplande diepten, alsmede de wijze van verificatie;
 
 - f. de diepte waarop de put is afgewerkt en de diepte van het geperforeerde deel van de productieverbuizing;
 
@@ -1527,7 +2003,7 @@ Deze paragraaf is van overeenkomstige toepassing op boorgaten.
 
 Deze paragraaf is van overeenkomstige toepassing op boorgaten.
 
-### Afdeling 8.3. Regels bij het aanleggen, wijzigen, uitbreiden van boorgaten alsmede gebruik en reparatie van putten
+#### Afdeling 8.3. Regels bij het aanleggen, wijzigen, uitbreiden van boorgaten alsmede gebruik en reparatie van putten
 
 #### § 8.3.1. Beveiligingen bij het aanleggen, wijzigen of uitbreiden van boorgaten
 
@@ -1689,9 +2165,9 @@ Bij een persproef tot de maximale druk die zich naar berekening in de serie der 
 
 - b. gedurende vijf minuten op 2,5 MPa en aansluitend gedurende de periode, genoemd in [artikel 8.3.2.1, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.1&z=2026-01-01&g=2026-01-01), op de te verwachten maximale druk die aan de bovenzijde van het boorgat onder de meest ongunstige condities kan optreden:
 
-- 1°. binnen een week voor het mogelijk aanboren van een formatie waarvan verwacht kan worden dat deze productief is, en overigens
+   - 1°. binnen een week voor het mogelijk aanboren van een formatie waarvan verwacht kan worden dat deze productief is, en overigens
 
-- 2°. tenminste eenmaal per zes weken.
+   - 2°. tenminste eenmaal per zes weken.
 
 2. Indien aan de beveiligingsinstallatie reparatiewerkzaamheden zijn verricht of wijzigingen zijn aangebracht, worden de betrokken gedeelten van de installatie en de delen die direct daarmee in verbinding staan getest overeenkomstig het eerste lid.
 
@@ -1743,7 +2219,7 @@ Bij een persproef tot de maximale druk die zich naar berekening in de serie der 
 
 4. De in het eerste lid bedoelde voorschriften en de in het derde lid bedoelde rapporten worden op het boorwerk respectievelijk de mijnbouwinstallatie ter inzage van de inspecteur-generaal der mijnen gelegd. Deze voorschriften en rapporten worden daartoe tenminste zes jaar bewaard.
 
-#### § 8.3.2. Testen van boorgat- en schuifafsluiters
+#### §. Periodieke beveiligingsoefeningen in verband met boorgaten en putten
 
 ##### Artikel 8.3.3.1
 
@@ -1781,7 +2257,23 @@ Bij een persproef tot de maximale druk die zich naar berekening in de serie der 
 
 4. De minister kan ontheffing verlenen van het tweede lid. De ontheffing kan onder voorschriften of beperkingen worden verleend.
 
-### Afdeling 8.4. Inrichting van putten
+#### § 8.3.5. Putintegriteit
+
+##### Artikel 8.3.5.1
+
+Een beheerssysteem en beheersplan voor de putintegriteit als bedoeld in de [artikelen 29q, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29q), en [29t, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29t) bevat:
+
+- a. een beschrijving van de uitgangspunten van het putontwerp ten aanzien van de productieparameters en de levensduur van de put;
+
+- b. een analyse van de risico’s voor de putintegriteit gebaseerd op de uiterste waarden voor de operationele condities van de put;
+
+- c. een beschrijving van de mate waarin hulpstoffen worden toegepast en een onderbouwing van de noodzaak hiertoe;
+
+- d. een monitoringsprotocol waarin wordt beschreven op welke wijze en met welke frequentie de voor de putintegriteit relevante parameters worden gemeten en beoordeeld;
+
+- e. een overzicht van de preventieve en reactieve maatregelen die zijn gebaseerd op de risicoanalyse, bedoeld in onderdeel b.
+
+#### Afdeling 8.4. Inrichting van putten
 
 ##### Artikel 8.4.1
 
@@ -1877,7 +2369,7 @@ Een onder oppervlaktewater gelegen putafwerking heeft een zodanige constructie d
 
 Putten waaruit aardolie of aardwarmte wordt geproduceerd met gebruikmaking van een pompinstallatie zijn zo ingericht dat vrijkomend gas in de annulaire ruimte tussen de opvoerserie en de laatste serie der verbuizing zonder gevaar kan worden afgevoerd.
 
-### Afdeling 8.5. Het buiten gebruik stellen van boorgaten en putten
+#### Afdeling 8.5. Het buiten gebruik stellen van boorgaten en putten
 
 #### § 8.5.1. Algemeen
 
@@ -1895,7 +2387,31 @@ Deze afdeling is:
 
 Voordat een uitvoerder of uitvoerder aardwarmte een put buiten gebruik stelt, identificeert hij alle zones met stromingspotentieel en onderzoekt hij met welke maatregelen de stroming van gassen en vloeistoffen naar of van gesteentelagen buiten de zone of de oppervlakte kan worden voorkomen.
 
-#### § 9.2. Gebruik en lozing van chemicaliën
+##### Artikel 8.5.1.3
+
+Bij het buiten gebruik stellen van een put brengt de uitvoerder of uitvoerder aardwarmte een effectieve en duurzame afsluiting aan die voorkomt dat ondergrondse gassen en vloeistoffen door de sluitlaag naar andere gesteentelagen of naar het oppervlak kunnen stromen.
+
+##### Artikel 8.5.1.4
+
+1. De minister kan ontheffing verlenen van bepalingen van deze afdeling, indien in een effectieve en duurzame methode van buiten gebruik stellen wordt voorzien in het geval:
+
+- a. van een gedeeltelijke buitengebruikstelling;
+
+- b. van het buiten gebruik stellen van een boorgat of put die:
+
+   - – niet is gebruikt voor de opsporing of winning van koolwaterstoffen of
+
+   - – wordt gebruikt voor de opslag van stoffen;
+
+- c. dat een obstructie in het boorgat een andere wijze tot het buiten gebruik stellen van een put noodzakelijk maakt;
+
+- d. van het gebruik van een ander materiaal dan cement; of
+
+- e. de houder van de vergunning bij het buiten gebruik stellen alle maatregelen heeft genomen die redelijkerwijs van hem gevergd kunnen worden en na het buiten gebruik stellen een afsluiting minder effectief of minder duurzaam blijkt dan verwacht, onder het stellen van voorschriften voor het monitoren van de buiten gebruik gestelde put en het zo nodig nemen van mitigerende maatregelen.
+
+2. De ontheffing kan onder voorschriften of beperkingen worden verleend.
+
+#### § 8.5.2. Regels over het buiten gebruik stellen van putten
 
 ##### Artikel 8.5.2.1
 
@@ -1939,33 +2455,57 @@ De gassen en vloeistoffen die achterblijven in de put, veroorzaken niet meer dan
 
 In een afsluiting bevinden zich geen kabels of leidingen.
 
-##### Artikel 8.5.2.8
+#### § 8.5.3. Regels voor de uitvoering van het buiten gebruik stellen van putten
 
-1. Indien redelijkerwijs het vermoeden bestaat dat een mechanische plug in contact kan komen met een corrosief medium of, indien de mechanische plug dient ter afsluiting van een hogedruk-reservoir als bedoeld in het tweede lid. wordt direct boven die plug een cementplug over een lengte van ten minste vijftig meter geplaatst.
+##### Artikel 8.5.3.1
 
-2. Als een hogedruk-reservoir wordt aangemerkt een reservoir waarvan de druk, benodigd om evenwicht te creëren ten tijde van het buiten gebruik stellen, gelijk is aan of hoger dan 1,4 maal de hydrostatische druk, gebaseerd op een soortelijk gewicht van 1,0.
+1. De afsluiting ter hoogte van de sluitlaag wordt aangebracht door middel van cement.
+
+2. Het cement heeft na uitharding in de lengterichting van het boorgat een dikte van:
+
+- a. ten minste honderd meter; of
+
+- b. ten minste vijftig meter, indien het cement geplaatst is bovenop een mechanische of vaste ondersteuning.
+
+3. Als deze methoden tot afsluiting niet toepasbaar zijn, wordt een andere methode of techniek toegepast die leidt tot een gelijkwaardige effectieve en duurzame afsluiting.
+
+4. Als de uitvoerder of uitvoerder aardwarmte een aanvraag om ontheffing als bedoeld in [artikel 8.5.1.4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.1&artikel=8.5.1.4&z=2026-01-01&g=2026-01-01), voor het gebruik van een ander materiaal dan cement indient, hanteert de uitvoerder of uitvoerder aardwarmte zo nodig in afwijking van het tweede lid specificaties, die resulteren in een gelijkwaardige effectieve en duurzame afsluiting.
+
+##### Artikel 8.5.3.2
+
+1. De topafsluiting wordt aangebracht:
+
+- a. op land: in de nabijheid van het maaiveld, waarbij rekening wordt gehouden met de herinrichting van het terrein;
+
+- b. onder oppervlaktewater: in de nabijheid van de bodem, indien een risico op nadelige gevolgen voor het milieu aanwezig is.
+
+2. Het putmateriaal wordt verwijderd:
+
+- a. op land tot een diepte van 3 meter onder het maaiveld of dieper als de herinrichting van het terrein dat vereist;
+
+- b. onder oppervlaktewater tot een diepte van 6 meter onder de bodem, met dien verstande dat een grotere diepte dan 6 meter wordt aangehouden, indien de mogelijkheid van verandering van de bodem daar aanleiding toe geeft.
 
 ### Hoofdstuk 9. Gebruik en lozen van oliehoudende mengsels en chemicaliën
 
-#### § 8.5.3. Regels voor de uitvoering van het buiten gebruik stellen van putten
+#### § 9.1. Oliehoudende mengsels
 
 ##### Artikel 9.1.1
 
 In deze paragraaf wordt verstaan onder:
 
-- a. **Ospar-akkoord 2005-15:** het Ospar-akkoord 2005-15 ter bepaling van het gedispergeerde oliegehalte van een oliehoudend mengsel;
+- a. *Ospar-akkoord 2005-15:* het Ospar-akkoord 2005-15 ter bepaling van het gedispergeerde oliegehalte van een oliehoudend mengsel;
 
-- b. **toepassing van Ospar-akkoord 2005-15 ter bepaling van het gehalte aan BTEX in een oliehoudend mengsel:** bepaling van het BTEX-gehalte van een oliehoudend mengsel, waarbij in het volgens Ospar-akkoord 2005-15 verkregen gaschromatogram de afzonderlijke oppervlakken van de pieken van BTEX worden gemeten;
+- b. *toepassing van Ospar-akkoord 2005-15 ter bepaling van het gehalte aan BTEX in een oliehoudend mengsel:* bepaling van het BTEX-gehalte van een oliehoudend mengsel, waarbij in het volgens Ospar-akkoord 2005-15 verkregen gaschromatogram de afzonderlijke oppervlakken van de pieken van BTEX worden gemeten;
 
-- c. **gedispergeerde oliegehalte:** het gehalte aan olie, bepaald volgens Ospar-akkoord 2005-15;
+- c. *gedispergeerde oliegehalte:* het gehalte aan olie, bepaald volgens Ospar-akkoord 2005-15;
 
-- d. **BTEX-gehalte:** de som van de gehalten aan BTEX, verkregen door toepassing van ISO 11423-1:1997 of het Ospar-akkoord 2005-15 ter bepaling van het gehalte aan BTEX in een oliehoudend mengsel door gemeten piekoppervlakken te kwantificeren ten opzichte van een serie van standaardoplossingen van BTEX in n-pentaan;
+- d. *BTEX-gehalte:* de som van de gehalten aan BTEX, verkregen door toepassing van ISO 11423-1:1997 of het Ospar-akkoord 2005-15 ter bepaling van het gehalte aan BTEX in een oliehoudend mengsel door gemeten piekoppervlakken te kwantificeren ten opzichte van een serie van standaardoplossingen van BTEX in n-pentaan;
 
-- e. **totale oliegehalte:** de som van het gedispergeerde en BTEX-gehalte van een oliehoudend mengsel;
+- e. *totale oliegehalte:* de som van het gedispergeerde en BTEX-gehalte van een oliehoudend mengsel;
 
-- f. **Ospar-verdrag:** verdrag inzake de bescherming van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan, met bijlagen en aanhangsels (Trb. 1993, 16 en Trb. 1993, 141);
+- f. *Ospar-verdrag:* verdrag inzake de bescherming van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan, met bijlagen en aanhangsels (Trb. 1993, 16 en Trb. 1993, 141);
 
-- g. **BTEX:** benzeen, tolueen, ethylbenzeen, alsmede de isomeren van xyleen: orthoxyleen, metaxyleen en paraxyleen.
+- g. *BTEX:* benzeen, tolueen, ethylbenzeen, alsmede de isomeren van xyleen: orthoxyleen, metaxyleen en paraxyleen.
 
 ##### Artikel 9.1.2
 
@@ -1993,21 +2533,21 @@ In deze paragraaf wordt verstaan onder:
 
 | (a) Per lozingspunt | Frequentie monsterneming en analyse |
 | --- | --- |
-| oliehoudende mengsels als bedoeld in [artikel 9.1.2, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2026-01-01&g=2026-01-01) |   |
-| Gedispergeerde olie |   |
+| oliehoudende mengsels als bedoeld in artikel 9.1.2, tweede lid, onder a en b |  |
+| Gedispergeerde olie |  |
 | >= 2000 kilogram gedispergeerde olie per kalenderjaar | Om de dag |
 | < 2000 kilogram gedispergeerde olie per kalenderjaar | 1 maal per week |
-|   |   |
-| BTEX |   |
+|  |  |
+| BTEX |  |
 | >= 2000 kilogram BTEX per kalenderjaar | 1 maal per week |
 | >= 200, < 2000 kilogram BTEX per kalenderjaar | 1 maal per kwartaal |
 | < 200 kilogram BTEX per kalenderjaar | 2 maal per jaar |
-|   |   |
-| oliehoudende mengsels als bedoeld in [artikel 9.1.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2026-01-01&g=2026-01-01) |   |
-| Gedispergeerde olie |   |
+|  |  |
+| oliehoudende mengsels als bedoeld in artikel 9.1.2, tweede lid, onder c |  |
+| Gedispergeerde olie |  |
 | >= 2000 kg gedispergeerde olie per kalenderjaar | Om de dag |
 | < 2000 kg gedispergeerde olie per kalenderjaar | 1 maal per week |
-|   |   |
+|  |  |
 | BTEX | 2 maal per jaar |
 
 2. Op een niet-bemande mijnbouwinstallatie wordt bij een bezoek van langer dan acht uur van een lozing van een oliehoudend mengsel een representatief monster genomen en geanalyseerd. Bij een verblijf op een niet-bemande mijnbouwinstallatie van vijf etmalen of meer is de tweede volzin van het eerste lid van overeenkomstige toepassing.
@@ -2060,7 +2600,7 @@ In deze paragraaf wordt verstaan onder:
 
 2. Op een daartoe strekkend verzoek van de inspecteur-generaal der mijnen wordt hem binnen twee weken een rapport toegezonden dat een samenhangend overzicht geeft van alle feiten die hebben bijgedragen tot het voorval.
 
-#### § 9.3. Registratie van chemicaliën
+#### § 9.2. Gebruik en lozing van chemicaliën
 
 ##### Artikel 9.2.1
 
@@ -2109,6 +2649,20 @@ In de [paragrafen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk
 ##### Artikel 9.2.2
 
 Deze paragraaf is van toepassing op het gebruik en de lozing van chemicaliën op mijnbouwinstallaties met in begrip van pijpleidingen als bedoeld in [artikel 92, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=92) op zee.
+
+##### Artikel 9.2.2a
+
+De uitvoerder draagt er zorg voor dat het gebruik of de lozing van chemicaliën als bedoeld in [paragraaf 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&z=2026-01-01&g=2026-01-01) beperkt blijft tot hetgeen strikt noodzakelijk is bij mijnbouwactiviteiten op zee.
+
+##### Artikel 9.2.2b
+
+De Minister neemt een aanvraag om ontheffing en een melding als bedoeld in deze paragraaf slechts in behandeling wanneer de chemicaliën waarvoor de ontheffing wordt gevraagd respectievelijk waarvan melding wordt gemaakt zijn geregistreerd overeenkomstig [paragraaf 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&z=2026-01-01&g=2026-01-01) en voldoen aan:
+
+- a. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de bij of krachtens [titel 9.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.3) voor de uitvoering van die verordening gestelde voorschriften;
+
+- b. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels en de bij of krachtens [titel 9.3a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.3a) voor de uitvoering van die verordening gestelde voorschriften en
+
+- c. de biocidenverordening en de bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) voor de uitvoering van die verordening gestelde voorschriften.
 
 ##### Artikel 9.2.3
 
@@ -2182,17 +2736,17 @@ Deze paragraaf is van toepassing op het gebruik en de lozing van chemicaliën op
 
 - a. de chemicaliën, genoemd in de Ospar LCPA;
 
-- b. chemicaliën, genoemd in de Ospar LSPC, chemicaliën als bedoeld in bijlage XIV en bijlage XVII bij de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en chemicaliën, die anorganisch zijn en een LC50 of EC50 van minder dan 1 mg/l hebben;
+- b. chemicaliën, genoemd in de Ospar LSPC, chemicaliën als bedoeld in bijlage XIV en bijlage XVII bij de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en chemicaliën, die anorganisch zijn en een LC50 of EC50 van minder dan 1 mg/l hebben;
 
 - c. chemicaliën die een biodegradatie hebben van minder dan 20% gedurende 28 dagen volgens OECD 301, OECD 306, OECD 310, zoutwater Bodis of een gelijkwaardige test dan wel een halfwaardetijd volgens een simulatietest uitgevoerd in verband met de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen, die groter is dan 60 dagen in zeewater of 180 dagen in zeewatersediment volgens OECD 308, OECD 309 of een gelijkwaardige test;
 
 - d. chemicaliën die voldoen aan twee van de volgende drie criteria:
 
-- 1°. niet snel bio-afbreekbaar (een biodegradatie in 28 dagen minder dan 70% (OECD 301A, 301E, of een gelijkwaardige test), minder dan 60% (OECD 306 of een gelijkwaardige zoutwatertest) of bij afwezigheid van geldige resultaten van deze testen minder dan 60% (OECD 301B, 301C, 301D, 301F, zoetwater Bodis of een gelijkwaardige zoetwatertest));
+   - 1°. niet snel bio-afbreekbaar (een biodegradatie in 28 dagen minder dan 70% (OECD 301A, 301E, of een gelijkwaardige test), minder dan 60% (OECD 306 of een gelijkwaardige zoutwatertest) of bij afwezigheid van geldige resultaten van deze testen minder dan 60% (OECD 301B, 301C, 301D, 301F, zoetwater Bodis of een gelijkwaardige zoetwatertest));
 
-- 2°. groot potentieel voor bio-accumulatie log Pow ≥ 3 of BCF > 100, het molecuulgewicht in aanmerking nemende (M<700) of een negatieve beoordeling als bedoeld in bijlage 3 van het Ospar-akkoord 2008-5;
+   - 2°. groot potentieel voor bio-accumulatie log Pow ≥ 3 of BCF > 100, het molecuulgewicht in aanmerking nemende (M<700) of een negatieve beoordeling als bedoeld in bijlage 3 van het Ospar-akkoord 2008-5;
 
-- 3°. zeer toxisch (LC50 < 10 mg/l of EC50 < 10 mg/l);
+   - 3°. zeer toxisch (LC50 < 10 mg/l of EC50 < 10 mg/l);
 
 - e. de chemicaliën waarvan de door de uitvoerder berekende PEC/PNEC-verhouding 3 of meer is.
 
@@ -2200,7 +2754,11 @@ Deze paragraaf is van toepassing op het gebruik en de lozing van chemicaliën op
 
 4. Bij de aanvraag geeft de uitvoerder voldoende beargumenteerd aan waarom voor de chemicaliën geen vervangende middelen als bedoeld in het eerste lid, onderdeel b, beschikbaar zijn.
 
-5. Wijzigt deze regeling.
+5. *Wijzigt deze regeling.*
+
+##### Artikel 9.2.6a
+
+Een aanvraag om ontheffing om te lozen als bedoeld in [artikel 9.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2026-01-01&g=2026-01-01), voor chemicaliën als bedoeld in [artikel 9.2.6, tweede lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.6&z=2026-01-01&g=2026-01-01), wordt geweigerd, tenzij de uitvoerder bij de aanvraag aantoont dat vanwege technische aspecten of veiligheidsaspecten geen minder schadelijke vervangende middelen beschikbaar zijn. In dat geval kan de ontheffing voor ten hoogste drie jaar worden verleend.
 
 ##### Artikel 9.2.7
 
@@ -2230,7 +2788,7 @@ b. heeft aangetoond dat de PEC/PNEC-verhouding van de chemicaliën gelijk is aan
 
 2. De in het eerste lid bedoelde opgaaf wordt ingediend bij de inspecteur-generaal der mijnen voor 1 april van het kalenderjaar volgend op het kalenderjaar waarop de opgaaf betrekking heeft.
 
-#### § 9.2. Gebruik en lozing van chemicaliën
+#### § 9.3. Registratie van chemicaliën
 
 ##### Artikel 9.3.1
 
@@ -2244,7 +2802,17 @@ Een HOCNF-formulier is een gegeven als bedoeld in [artikel 5.1, eerste lid, onde
 
 3. Nadat registratie heeft plaatsgevonden wordt degene die een aanvraag tot registratie als bedoeld in [artikel 9.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&artikel=9.3.3&z=2026-01-01&g=2026-01-01) om registratie heeft aangevraagd hiervan in kennis gesteld waarbij in elk geval het nummer wordt vermeld dat aan de geregistreerde chemicaliën is toegekend.
 
-### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
+##### Artikel 9.3.3
+
+1. Een aanvraag tot registratie van chemicaliën wordt tezamen met een HOCNF-formulier, ingevuld volgens Ospar-akkoord 2012-05, door de producent of leverancier bij de minister ingediend.
+
+2. De aanvraag tot registratie van chemicaliën wordt alleen in behandeling genomen indien uit de informatie in het HOCNF-formulier blijkt dat voldaan wordt aan het bepaalde in [artikel 9.2.2b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.2b&z=2026-01-01&g=2026-01-01).
+
+##### Artikel 9.3.4
+
+De toxiciteitstest waarvan het resultaat wordt opgenomen in het HOCNF-formulier wordt op stofbasis verricht met inachtneming van de Ospar-akkoorden 2005-11 en 2005-12.
+
+### Hoofdstuk 10. Pijpleidingen
 
 ##### Artikel 10.1
 
@@ -2258,9 +2826,17 @@ De eigenschappen, de aanleg en de ligging van alsmede het onderhoud aan een flex
 
 - b. NEN 3650-1:2012, NEN 3650-2:2012, NEN 3650-3:2012, NEN 3650-4:2012, NEN 3650-5:2012, genoemd in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=10&artikel=10.1&z=2026-01-01&g=2026-01-01), met uitzondering van het gedeelte omtrent het sterktetechnisch ontwerp.
 
-### Hoofdstuk 11a. Verplichtingen bij de opsporing en winning van koolwaterstoffen
+##### Artikel 10.3
 
-#### § 9.3. Registratie van chemicaliën
+1. De beheerder voert het onderzoek naar de eigenschappen van een pijpleiding uit in een zodanige frequentie dat de integriteit van de pijpleiding, onder meer in verband met het risico op schade, op elk moment kan worden aangetoond.
+
+2. De beheerder voert het onderzoek naar de ligging van een pijpleiding die in de territoriale zee of op het continentaal plat is aangelegd, uit in een frequentie van ten minste één keer per jaar.
+
+3. De beheerder beschrijft de gekozen frequentie en de motivering voor die keuze alsmede de uitkomsten van de onderzoeken voor elke pijpleiding in een daartoe ingericht veiligheidsbeheerssysteem.
+
+### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
+
+#### § 11.1. Te verstrekken gegevens
 
 ##### Artikel 11.1.1
 
@@ -2290,33 +2866,33 @@ De eigenschappen, de aanleg en de ligging van alsmede het onderhoud aan een flex
 
 - a. voor boorgaten in oppervlaktewater:
 
-- 1°. de naam van de mijnonderneming;
+   - 1°. de naam van de mijnonderneming;
 
-- 2°. de letter- of nummeraanduiding van het blok, voor zover het boorgat is gelegen aan de zeezijde van de in de [bijlage bij de wet](onbekend) vastgelegde lijn;
+   - 2°. de letter- of nummeraanduiding van het blok, voor zover het boorgat is gelegen aan de zeezijde van de in de [bijlage bij de wet](https://wetten.overheid.nl/BWBR0014168) vastgelegde lijn;
 
-- 3°. het nummer van het boorgat;
+   - 3°. het nummer van het boorgat;
 
-- 4°. de geografische coördinaten en het geografisch stelsel van de plaats van het boorgat;
+   - 4°. de geografische coördinaten en het geografisch stelsel van de plaats van het boorgat;
 
-- 5°. de datum van aanvang van de aanleg van het boorgat;
+   - 5°. de datum van aanvang van de aanleg van het boorgat;
 
-- 6°. de hoogte van de boortafel of van een ander, nader aan te geven referentiepunt, en
+   - 6°. de hoogte van de boortafel of van een ander, nader aan te geven referentiepunt, en
 
-- 7°. de hoogte van de top van de bodemflens in meters ten opzichte van het middenstandsvlak (gemiddelde waterstand);
+   - 7°. de hoogte van de top van de bodemflens in meters ten opzichte van het middenstandsvlak (gemiddelde waterstand);
 
 - b. voor boorgaten op land:
 
-- 1°. de naam van de mijnonderneming;
+   - 1°. de naam van de mijnonderneming;
 
-- 2°. de naam en het nummer van het boorgat;
+   - 2°. de naam en het nummer van het boorgat;
 
-- 3°. de geografische coördinaten en het geografisch stelsel van de plaats van het boorgat;
+   - 3°. de geografische coördinaten en het geografisch stelsel van de plaats van het boorgat;
 
-- 4°. de datum van aanvang van de aanleg van het boorgat;
+   - 4°. de datum van aanvang van de aanleg van het boorgat;
 
-- 5°. de hoogte van de boortafel of van een ander, nader aan te geven referentiepunt, en
+   - 5°. de hoogte van de boortafel of van een ander, nader aan te geven referentiepunt, en
 
-- 6°. de hoogte van de top van de bodemflens in meters ten opzichte van het NAP.
+   - 6°. de hoogte van de top van de bodemflens in meters ten opzichte van het NAP.
 
 2. Voorts bevat het profiel:
 
@@ -2394,7 +2970,7 @@ De uitvoerder of uitvoerder aardwarmte verstrekt van gesteentemonsters als bedoe
 
 De uitvoerder of uitvoerder aardwarmte doet de minister opgaaf van de verkregen vloeistof- en gasmonsters, bedoeld in [artikel 110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=110), binnen vier weken na de verkrijging ervan. Daarbij worden gegevens met betrekking tot de bron, de kwaliteit en het gebruikte meetprogramma vermeld.
 
-#### § 11.3. Te gebruiken eenheden
+#### § 11.2. Wijze van gegevens verstrekking aan de minister
 
 ##### Artikel 11.2.1
 
@@ -2428,7 +3004,7 @@ De gegevens die op grond van de [artikelen 11.1.1 tot en met 11.1.6](https://wet
 
 2. De resultaten van metingen op gesteentemonsters worden, indien beschikbaar, gerapporteerd in elektronische vorm.
 
-#### § 11.1. Te verstrekken gegevens
+#### § 11.3. Te gebruiken eenheden
 
 ##### Artikel 11.3.1
 
@@ -2442,1387 +3018,31 @@ Voor de opgave van hoeveelheden stoffen als bedoeld in dit hoofdstuk worden de v
 
 - d. pekel: m3.
 
-#### § 11a.2. Rapport inzake grote gevaren
+#### § 11.4. Aan te wijzen instelling
 
 ##### Artikel 11.4.1
 
 Als instelling als bedoeld in [artikel 123, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=123) wordt aangewezen de organisatie, bedoeld in [artikel 1, onderdeel c, van de TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=1), bekend als TNO.
 
-### Hoofdstuk 10. Pijpleidingen
-
-##### Artikel 12.1
-
-1. Het gewogen gemiddelde van de waarde van de in Nederland ingevoerde ruwe olie, bedoeld in de eerste volzin van [artikel 63, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=63), in een bepaald kalenderjaar wordt door de minister op basis van gegevens van het Centraal Bureau voor de Statistiek berekend door:
-
-- a. voor iedere maand van het betrokken kalenderjaar het totaal van de in die maand geloste hoeveelheden ruwe aardolie in aantallen vaten te vermenigvuldigen met het gewogen maandgemiddelde van de gemiddelde prijs daarvan uitgedrukt in US-dollars per vat;
-
-- b. het resultaat van de berekening in onderdeel a uit te drukken in euro's op basis van de gemiddelde €/US-dollarkoers in die maand en
-
-- c. de maandelijkse resultaten, bedoeld in onderdeel b, te sommeren en te delen door het totaal van de in het betrokken kalenderjaar geloste hoeveelheden ruwe aardolie in aantallen vaten.
-
-2. Indien het gewogen gemiddelde, bedoeld in het eerste lid, in een bepaald kalenderjaar meer bedraagt dan € 25 per vat, maakt de minister dit binnen twee maanden na afloop van het desbetreffende kalenderjaar bekend in de Staatscourant.
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
-
-##### Artikel 13.1
-
-Vervallen
-
-### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
-
-#### § 11.1. Te verstrekken gegevens
-
-##### Artikel 14.1.1
-
-Vervallen
-
-#### § 11a.3. Intern rampenplan
-
-##### Artikel 14.2.1
-
-1. Een ontheffing als bedoeld in artikel 2, derde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een buitentoepassingverklaring als bedoeld in [artikel 8.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.1&z=2026-01-01&g=2026-01-01).
-
-2. Een ontheffing als bedoeld in artikel 6, zesde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.1.4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2026-01-01&g=2026-01-01).
-
-3. Een ontheffing als bedoeld in artikel 7, tweede lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.5&z=2026-01-01&g=2026-01-01).
-
-4. Een ontheffing als bedoeld in artikel 15, vierde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.2&z=2026-01-01&g=2026-01-01).
-
-5. Een ontheffing als bedoeld in artikel 20, vierde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.4.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.4&artikel=8.3.4.1&z=2026-01-01&g=2026-01-01).
-
-##### Artikel 14.2.2
-
-1. Ontheffingen met betrekking tot de inrichting van putten, welke zijn verkregen voor inwerkingtreding van deze regeling, gelden als ontheffingen als bedoeld in [hoofdstuk 8, afdeling 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.4&z=2026-01-01&g=2026-01-01).
-
-2. Ontheffingen met betrekking tot de verbuizing van een buiten gebruik te stellen put, welke zijn verkregen voor inwerkingtreding van deze regeling, gelden als ontheffingen als bedoeld in [artikel 8.5.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.2&artikel=8.5.2.7&z=2026-01-01&g=2026-01-01).
-
 #### § 11.5. Jaarplan Staatstoezicht op de mijnen
-
-##### Artikel 14.3.1
-
-1. Een ontheffing als bedoeld in artikel 3, tweede lid, van de Regeling lozing van oliehoudende mengsels geldt als een ontheffing als bedoeld in [artikel 9.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2026-01-01&g=2026-01-01).
-
-2. Een ontheffing als bedoeld in artikel 4, vierde lid, van de Regeling lozing van oliehoudende mengsels geldt als een ontheffing als bedoeld in [artikel 9.1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.4&z=2026-01-01&g=2026-01-01).
-
-3. Een ontheffing als bedoeld in artikel 5, tweede lid, van de Regeling lozing van oliehoudende mengsels geldt als een ontheffing als bedoeld in [artikel 9.1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2026-01-01&g=2026-01-01).
-
-##### Artikel 14.3.2
-
-Op mijnbouwinstallaties die geplaatst zijn voor 1 januari 1988 zijn de in [artikel 9.1.5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2026-01-01&g=2026-01-01), genoemde normen van toepassing met ingang van 1 oktober 2003, mits tot dat tijdstip op deze installaties de best beschikbare technieken, bedoeld in aanhangsel 1 bij het Osparverdrag, worden toegepast om het alifatische oliegehalte niet meer dan 100 milligram olie per liter en het maandelijks gemiddelde alifatische oliegehalte niet meer dan 40 milligram olie per liter te laten bedragen.
-
-### Hoofdstuk 15. Slotbepalingen
-
-##### Artikel 15.1
-
-Deze regeling treedt in werking met ingang van 1 januari 2003, met dien verstande dat:
-
-- a. de [artikelen 9.2.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.3&z=2026-01-01&g=2026-01-01), [9.2.4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.4&z=2026-01-01&g=2026-01-01), en [9.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2026-01-01&g=2026-01-01), met ingang van 1 juli 2003 in werking treden;
-
-- b. [artikel 9.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&artikel=9.3.2&z=2026-01-01&g=2026-01-01) met ingang van 1 januari 2004 in werking treedt.
-
-##### Artikel 15.2
-
-Deze regeling wordt aangehaald als: Mijnbouwregeling.
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2005-06-18&g=2005-06-18) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-### A. Algemene gegevens
-
-### 1
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### A. Algemene gegevens
-
-### 1
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 1
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2005-06-18&g=2005-06-18) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
-
-### 1
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### C. Technische gegevens
-
-Het aantal en de eventuele namen van de mijnbouwwerken, geschikt voor de met de aanvraag beoogde werkzaamheden:
-
-Het aantal en de eventuele namen van de mijnbouwwerken, geschikt voor de met de aanvraag beoogde werkzaamheden:
-
-## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2014-02-22&g=2014-02-22) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
-
-## Bijlage 4. behorende bij de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2005-06-18&g=2005-06-18) Beschrijving van de Ankergebieden, Aanloopgebied van Hoek van Holland en Overige gebieden, bedoeld in de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2005-06-18&g=2005-06-18) van de regeling
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### B
-
-Het verkennings- en opsporingsonderzoek naar aardolie of aardgas, verricht voor rekening van de aanvrager of van de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort,
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### 1
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### B
-
-### A. Algemene gegevens
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-Het aantal en de eventuele namen van de mijnbouwwerken, geschikt voor de met de aanvraag beoogde werkzaamheden:
-
-### 1
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-De ervaringen met betrekking tot de opsporing van koolwaterstoffen en de winning daarvan door middel van boringen, op te geven per land of gebied, voor zover de technische leiding daarvan berustte bij de aanvrager of bij de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, onder vermelding van:
-
-## Bijlage 5. behorende bij [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2005-06-18&g=2005-06-18)
-
-In deze bijlage staan de gebieden beschreven, genoemd in [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2005-06-18&g=2005-06-18) van de regeling. In de beschrijving wordt gebruik gemaakt van cijfers en letters die in de tabellen 1 en 2 zijn gedefinieerd.
-
-Gebieden:
-
-- 1). Schietgebied Noordzee ten noorden van de Waddeneilanden (BAZ40). Dit gebied wordt begrensd door de lijn die de punten a, b, c, d, en e met elkaar verbindt.
-
-- 2). Marine-oefengebied ten westen van Haaksgronden (BAZ33). Dit gebied wordt begrensd door de parallellen 53°05'N en 53°13'N en de meridianen 3°45'E en 4°10'E.
-
-- 3). Een schietgebied nabij Petten (BAZ30). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 1, 2, via cirkelboog vanuit f met een straal van 9 zeemijlen naar 3, en via de gemeentelijke grens naar 1.
-
-- 4). Een schietgebied nabij Petten (BAZ31). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 4, 5, via een kromme waarbij de kortste afstand tot de lijn door g en h altijd 14 zeemijlen is naar 6, 7 en via de gemeentelijke grens naar 4.
-
-- 5). Schietgebied Vliehors (BAZ36). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 8, 9 via een cirkelboog vanuit i met straal van 4 zeemijlen naar 10, 11 en via de gemeentelijke grens naar 8.
-
-- 6). Schietgebied Zeegat van Texel (BAZ32). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 12, 13, via een cirkelboog vanuit j met een straal van 21000 meter naar 14 en via de gemeentelijke grens naar 12.
-
-- 7). Schietgebied ten westen van Kaap Hoofd (BAZ34). Het gebied wordt begrensd door een lijn die de volgende punten verbindt: 15, 16 via een cirkelboog vanuit k met een straal van 10 zeemijlen naar 17, 18 en via de gemeentelijke grens naar 15.
-
-| Punt | X-geografisch | Y-geografisch |
-| --- | --- | --- |
-|   |   |   |
-| a | 54°00',0N | 004°46',0E |
-| b | 54°00',0N | 006°06',4E |
-| c | 53°51',1N | 006°14',0E |
-| d | 53°37',6N | 005°06',0E |
-| e | 53°36',0N | 004°46',0E |
-| f | 52°47',1N | 004°40',3E |
-| g | 52°47',7N | 004°40',3E |
-| h | 52°47',8N | 004°41',0E |
-| i | 53°14',4N | 004°55',3E |
-| j | 52°55',2N | 004°43',1E |
-| k | 52°57',8N | 004°44',3E |
-
-| 1: snijpunt van de lijn beginnend in punt f in de richting 254° met de gemeentelijke grens. |
-| --- |
-| 2: punt vanuit punt f op een afstand van 9 zeemijlen in de richting 254°. |
-| 3: snijpunt ten noorden van punt f van de cirkelboog met als middelpunt punt f en een straal van 9 zeemijlen met de gemeentelijke grens |
-| 4: snijpunt van de lijn beginnend in punt g in de richting 225° met de gemeentelijke grens. |
-| 5: punt vanuit punt g op een afstand van 14 zeemijlen in de richting 225°. |
-| 6: punt vanuit punt h op een afstand van 14 zeemijlen in de richting 345°. |
-| 7: snijpunt van de lijn beginnend in punt h in de richting 345° met de gemeentelijke grens. |
-| 8: snijpunt van de lijn beginnend in punt i in de richting 275° met de gemeentelijke grens. |
-| 9: punt vanuit punt i op een afstand van 4 zeemijlen in de richting 275°. |
-| 10: punt vanuit punt i op een afstand van 4 zeemijlen in de richting 365°. |
-| 11: snijpunt van de lijn beginnend in punt i in de richting 365° met de gemeentelijke grens. |
-| 12: snijpunt ten zuiden van punt j, van de cirkelboog met als middelpunt punt j met een straal van 21000 meters met de gemeentelijke grens. |
-| 13: punt vanuit punt j op een afstand van 21000 meters in de richting 335°. |
-| 14: snijpunt van de lijn beginnend in punt j in de richting 335° met de gemeentelijke grens. |
-| 15: snijpunt van de lijn beginnend in punt k in de richting 265° met de gemeentelijke grens. |
-| 16: punt vanuit punt k op een afstand van 10 zeemijlen in de richting 265°. |
-| 17: punt vanuit punt k op een afstand van 10 zeemijlen in de richting 337°. |
-| 18: snijpunt van de lijn beginnend in punt k in de richting 337° met de gemeentelijke grens. |
-
-## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2019-01-01&g=2019-01-01) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2019-01-01&g=2019-01-01)
-
-## Bijlage 4. behorende bij de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2019-01-01&g=2019-01-01)
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2026-01-01&g=2026-01-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-## Bijlage 5. behorende bij [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2007-08-31&g=2007-08-31)
-
-In deze bijlage staan de gebieden beschreven, genoemd in [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2007-08-31&g=2007-08-31) van de regeling. In de beschrijving wordt gebruik gemaakt van cijfers en letters die in de tabellen 1 en 2 zijn gedefinieerd.
-
-Gebieden:
-
-- 1). Schietgebied Noordzee ten noorden van de Waddeneilanden (BAZ40). Dit gebied wordt begrensd door de lijn die de punten a, b, c, d, en e met elkaar verbindt.
-
-- 2). Marine-oefengebied ten westen van Haaksgronden (BAZ33). Dit gebied wordt begrensd door de parallellen 53°05'N en 53°13'N en de meridianen 3°45'E en 4°10'E.
-
-- 3). Een schietgebied nabij Petten (BAZ30). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 1, 2, via cirkelboog vanuit f met een straal van 9 zeemijlen naar 3, en via de gemeentelijke grens naar 1.
-
-- 4). Een schietgebied nabij Petten (BAZ31). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 4, 5, via een kromme waarbij de kortste afstand tot de lijn door g en h altijd 14 zeemijlen is naar 6, 7 en via de gemeentelijke grens naar 4.
-
-- 5). Schietgebied Vliehors (BAZ36). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 8, 9 via een cirkelboog vanuit i met straal van 4 zeemijlen naar 10, 11 en via de gemeentelijke grens naar 8.
-
-- 6). Schietgebied Zeegat van Texel (BAZ32). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 12, 13, via een cirkelboog vanuit j met een straal van 21000 meter naar 14 en via de gemeentelijke grens naar 12.
-
-- 7). Schietgebied ten westen van Kaap Hoofd (BAZ34). Het gebied wordt begrensd door een lijn die de volgende punten verbindt: 15, 16 via een cirkelboog vanuit k met een straal van 10 zeemijlen naar 17, 18 en via de gemeentelijke grens naar 15.
-
-| Punt | X-geografisch | Y-geografisch |
-| --- | --- | --- |
-|   |   |   |
-| a | 54°00',0N | 004°46',0E |
-| b | 54°00',0N | 006°06',4E |
-| c | 53°51',1N | 006°14',0E |
-| d | 53°37',6N | 005°06',0E |
-| e | 53°36',0N | 004°46',0E |
-| f | 52°47',1N | 004°40',3E |
-| g | 52°47',7N | 004°40',3E |
-| h | 52°47',8N | 004°41',0E |
-| i | 53°14',4N | 004°55',3E |
-| j | 52°55',2N | 004°43',1E |
-| k | 52°57',8N | 004°44',3E |
-
-| 1: snijpunt van de lijn beginnend in punt f in de richting 254° met de gemeentelijke grens. |
-| --- |
-| 2: punt vanuit punt f op een afstand van 9 zeemijlen in de richting 254°. |
-| 3: snijpunt ten noorden van punt f van de cirkelboog met als middelpunt punt f en een straal van 9 zeemijlen met de gemeentelijke grens |
-| 4: snijpunt van de lijn beginnend in punt g in de richting 225° met de gemeentelijke grens. |
-| 5: punt vanuit punt g op een afstand van 14 zeemijlen in de richting 225°. |
-| 6: punt vanuit punt h op een afstand van 14 zeemijlen in de richting 345°. |
-| 7: snijpunt van de lijn beginnend in punt h in de richting 345° met de gemeentelijke grens. |
-| 8: snijpunt van de lijn beginnend in punt i in de richting 275° met de gemeentelijke grens. |
-| 9: punt vanuit punt i op een afstand van 4 zeemijlen in de richting 275°. |
-| 10: punt vanuit punt i op een afstand van 4 zeemijlen in de richting 365°. |
-| 11: snijpunt van de lijn beginnend in punt i in de richting 365° met de gemeentelijke grens. |
-| 12: snijpunt ten zuiden van punt j, van de cirkelboog met als middelpunt punt j met een straal van 21000 meters met de gemeentelijke grens. |
-| 13: punt vanuit punt j op een afstand van 21000 meters in de richting 335°. |
-| 14: snijpunt van de lijn beginnend in punt j in de richting 335° met de gemeentelijke grens. |
-| 15: snijpunt van de lijn beginnend in punt k in de richting 265° met de gemeentelijke grens. |
-| 16: punt vanuit punt k op een afstand van 10 zeemijlen in de richting 265°. |
-| 17: punt vanuit punt k op een afstand van 10 zeemijlen in de richting 337°. |
-| 18: snijpunt van de lijn beginnend in punt k in de richting 337° met de gemeentelijke grens. |
-
-## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2019-04-01&g=2019-04-01) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2019-04-01&g=2019-04-01)
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2024-01-01&g=2024-01-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-## Bijlage 7. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 5. behorende bij [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2011-09-16&g=2011-09-16)
-
-In deze bijlage staan de gebieden beschreven, genoemd in [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2011-09-16&g=2011-09-16) van de regeling. In de beschrijving wordt gebruik gemaakt van cijfers en letters die in de tabellen 1 en 2 zijn gedefinieerd.
-
-Gebieden:
-
-- 1). Schietgebied Noordzee ten noorden van de Waddeneilanden (BAZ40). Dit gebied wordt begrensd door de lijn die de punten a, b, c, d, en e met elkaar verbindt.
-
-- 2). Marine-oefengebied ten westen van Haaksgronden (BAZ33). Dit gebied wordt begrensd door de parallellen 53°05'N en 53°13'N en de meridianen 3°45'E en 4°10'E.
-
-- 3). Een schietgebied nabij Petten (BAZ30). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 1, 2, via cirkelboog vanuit f met een straal van 9 zeemijlen naar 3, en via de gemeentelijke grens naar 1.
-
-- 4). Een schietgebied nabij Petten (BAZ31). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 4, 5, via een kromme waarbij de kortste afstand tot de lijn door g en h altijd 14 zeemijlen is naar 6, 7 en via de gemeentelijke grens naar 4.
-
-- 5). Schietgebied Vliehors (BAZ36). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 8, 9 via een cirkelboog vanuit i met straal van 4 zeemijlen naar 10, 11 en via de gemeentelijke grens naar 8.
-
-- 6). Schietgebied Zeegat van Texel (BAZ32). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 12, 13, via een cirkelboog vanuit j met een straal van 21000 meter naar 14 en via de gemeentelijke grens naar 12.
-
-- 7). Schietgebied ten westen van Kaap Hoofd (BAZ34). Het gebied wordt begrensd door een lijn die de volgende punten verbindt: 15, 16 via een cirkelboog vanuit k met een straal van 10 zeemijlen naar 17, 18 en via de gemeentelijke grens naar 15.
-
-| Punt | X-geografisch | Y-geografisch |
-| --- | --- | --- |
-|   |   |   |
-| a | 54°00',0N | 004°46',0E |
-| b | 54°00',0N | 006°06',4E |
-| c | 53°51',1N | 006°14',0E |
-| d | 53°37',6N | 005°06',0E |
-| e | 53°36',0N | 004°46',0E |
-| f | 52°47',1N | 004°40',3E |
-| g | 52°47',7N | 004°40',3E |
-| h | 52°47',8N | 004°41',0E |
-| i | 53°14',4N | 004°55',3E |
-| j | 52°55',2N | 004°43',1E |
-| k | 52°57',8N | 004°44',3E |
-
-| 1: snijpunt van de lijn beginnend in punt f in de richting 254° met de gemeentelijke grens. |
-| --- |
-| 2: punt vanuit punt f op een afstand van 9 zeemijlen in de richting 254°. |
-| 3: snijpunt ten noorden van punt f van de cirkelboog met als middelpunt punt f en een straal van 9 zeemijlen met de gemeentelijke grens |
-| 4: snijpunt van de lijn beginnend in punt g in de richting 225° met de gemeentelijke grens. |
-| 5: punt vanuit punt g op een afstand van 14 zeemijlen in de richting 225°. |
-| 6: punt vanuit punt h op een afstand van 14 zeemijlen in de richting 345°. |
-| 7: snijpunt van de lijn beginnend in punt h in de richting 345° met de gemeentelijke grens. |
-| 8: snijpunt van de lijn beginnend in punt i in de richting 275° met de gemeentelijke grens. |
-| 9: punt vanuit punt i op een afstand van 4 zeemijlen in de richting 275°. |
-| 10: punt vanuit punt i op een afstand van 4 zeemijlen in de richting 365°. |
-| 11: snijpunt van de lijn beginnend in punt i in de richting 365° met de gemeentelijke grens. |
-| 12: snijpunt ten zuiden van punt j, van de cirkelboog met als middelpunt punt j met een straal van 21000 meters met de gemeentelijke grens. |
-| 13: punt vanuit punt j op een afstand van 21000 meters in de richting 335°. |
-| 14: snijpunt van de lijn beginnend in punt j in de richting 335° met de gemeentelijke grens. |
-| 15: snijpunt van de lijn beginnend in punt k in de richting 265° met de gemeentelijke grens. |
-| 16: punt vanuit punt k op een afstand van 10 zeemijlen in de richting 265°. |
-| 17: punt vanuit punt k op een afstand van 10 zeemijlen in de richting 337°. |
-| 18: snijpunt van de lijn beginnend in punt k in de richting 337° met de gemeentelijke grens. |
-
-## Bijlage 6. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2022-01-01&g=2022-01-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
-
-## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2021-07-01&g=2021-07-01) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2021-07-01&g=2021-07-01)
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 9.2.2a
-
-De uitvoerder draagt er zorg voor dat het gebruik of de lozing van chemicaliën als bedoeld in [paragraaf 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&z=2026-01-01&g=2026-01-01) beperkt blijft tot hetgeen strikt noodzakelijk is bij mijnbouwactiviteiten op zee.
-
-##### Artikel 9.2.2b
-
-De Minister neemt een aanvraag om ontheffing en een melding als bedoeld in deze paragraaf slechts in behandeling wanneer de chemicaliën waarvoor de ontheffing wordt gevraagd respectievelijk waarvan melding wordt gemaakt zijn geregistreerd overeenkomstig [paragraaf 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&z=2026-01-01&g=2026-01-01) en voldoen aan:
-
-- a. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de bij of krachtens [titel 9.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.3) voor de uitvoering van die verordening gestelde voorschriften;
-
-- b. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels en de bij of krachtens [titel 9.3a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.3a) voor de uitvoering van die verordening gestelde voorschriften en
-
-- c. de biocidenverordening en de bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) voor de uitvoering van die verordening gestelde voorschriften.
-
-#### § 11.2. Wijze van gegevens verstrekking aan de minister
-
-##### Artikel 9.3.3
-
-1. Een aanvraag tot registratie van chemicaliën wordt tezamen met een HOCNF-formulier, ingevuld volgens Ospar-akkoord 2012-05, door de producent of leverancier bij de minister ingediend.
-
-2. De aanvraag tot registratie van chemicaliën wordt alleen in behandeling genomen indien uit de informatie in het HOCNF-formulier blijkt dat voldaan wordt aan het bepaalde in [artikel 9.2.2b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.2b&z=2026-01-01&g=2026-01-01).
-
-##### Artikel 9.3.4
-
-De toxiciteitstest waarvan het resultaat wordt opgenomen in het HOCNF-formulier wordt op stofbasis verricht met inachtneming van de Ospar-akkoorden 2005-11 en 2005-12.
-
-### Hoofdstuk 10. Pijpleidingen
-
-### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
-
-#### § 11.2. Wijze van gegevens verstrekking aan de minister
-
-#### § 11.5. Jaarplan Staatstoezicht op de mijnen
-
-#### § 11a.1. Toepassingsbereik
-
-#### § 11.1. Te verstrekken gegevens
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
-
-### Hoofdstuk 12. Financiële bepaling
-
-#### § 11.2. Wijze van gegevens verstrekking aan de minister
-
-#### § 14.2. Overgangsbepalingen met betrekking tot boorgaten en putten
-
-#### § 11.4. Aan te wijzen instelling
-
-### Hoofdstuk 12. Financiële bepaling en retributie
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2007-08-31&g=2007-08-31) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-### A. Algemene gegevens
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### A. Algemene gegevens
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### 1
-
-### B
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### 1
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2007-08-31&g=2007-08-31) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
-
-### A. Algemene gegevens
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2007-08-31&g=2007-08-31) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2007-08-31&g=2007-08-31)
-
-## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2009-10-31&g=2009-10-31) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2009-10-31&g=2009-10-31)
-
-### 2
-
-Het aantal en de eventuele namen van de mijnbouwwerken, geschikt voor de met de aanvraag beoogde werkzaamheden:
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-Het verkennings- en opsporingsonderzoek naar aardolie of aardgas, verricht voor rekening van de aanvrager of van de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort,
-
-### 1
-
-### C. Technische gegevens
-
-Het verkennings- en opsporingsonderzoek naar aardolie of aardgas, verricht voor rekening van de aanvrager of van de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort,
-
-### A. Algemene gegevens
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-a. De hoeveelheid aardolie, putgasbenzine daaronder begrepen, en aardgas gedurende het afgelopen kalenderjaar door de aanvrager gewonnen, uitgedrukt in 1000 m3, zowel in totaal als gesplitst per land.
-
-## Bijlage 4. behorende bij de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2021-07-01&g=2021-07-01)
-
-## Bijlage 10. behorende bij artikel 4.8.2
-
-Vervallen
-
-## Bijlage 11. behorende bij [artikel 8.2.2.l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.1&z=2011-09-16&g=2011-09-16)
-
-| 1.0. Projectgegevens |   |
-| --- | --- |
-|   |   |
-| 1.1 de naam van de mijnbouwonderneming |   |
-| 1.2 de aanduiding van de boring |   |
-| 1.3 de naam van de boorinstallatie |   |
-| 1.4 de naam van het bijstandsschip, indien een bijstandsschip bij de boring aanwezig is |   |
-| 1.5 de naam van de concipiant van het dagverslag |   |
-| 1.6 de telefoonnummers waarop de concipiant gedurende werkuren bereikbaar is |   |
-| 1.7 het serienummer van het dagverslag |   |
-| 1.8 de datum waarop het dagverslag van toepassing is |   |
-| 1.9 het tijdsbestek waarop het dagverslag van toepassing is. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1 de diameter (in inches) van alle verbuizingen |   |
-| 2.2 de boorbeiteldiameters (in inches) van alle verbuizingen |   |
-| 2.3 de schoendiepte (in meters) van alle in het boorprogramma voorziene verbuizingen |   |
-| 2.4 de schoendiepte (in meters) van alle gezette verbuizingen |   |
-| 2.5 de formatiesterkte van alle relevante verbuizingen, uitgedrukt in de boorspoelingsgradiënt in kPa/m, bar/l0 m of in een equivalent boorspoelingsgewicht |   |
-| 2.6 de einddiepte (in meters) van een boorgatsectie. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 3.1 het type boorspoeling op de betreffende diepte |   |
-| 3.2 de viscositeit van de boorspoeling volgens MARSH in seconden |   |
-| 3.3 het filtraatverlies volgens de standaardmethode in 0,001 m3 (cc) |   |
-| 3.4 het solidsgehalte van de boorspoeling in gr/l |   |
-| 3.5 het boorspoelingsgewicht in kN/m² of kg/dm3 |   |
-| 3.6 de viscositeit en gel van de boorspoeling volgens FANN |   |
-| 3.7 de PH van het bij 3.3. verkregen filtraat |   |
-| 3.8 het oliegehalte van de bij 3.4 verkregen vloeistof. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1 de naam van de laatstdoorboorde aardlaag |   |
-| 4.2 de top van de bovengenoemde aardlaag op de vanaf de boorvloer langs het boorgat gemeten diepte in meters waar deze werd verwacht ("along hole depth" (AHD)/"true vertical depth" (TVD)) |   |
-| 4.3 de diepte in meters waar deze top is gevonden (AHD) |   |
-| 4.4 de naam van de volgende te verwachten aardlaag |   |
-| 4.5 de verwachte top van de volgende aardlaag (AHD). |   |
-|   |   |
-| 5.0. Gegevens betreffende het verloop van de werkzaamheden |   |
-|   |   |
-| 5.1 een korte samenvatting van de werkzaamheden gedurende de verslagperiode |   |
-| 5.2 een korte samenvatting van de voorziene werkzaamheden in de daaropvolgende verslagperiode |   |
-| 5.3 een korte samenvatting van de al verrichte werkzaamheden in de daaropvolgende verslagperiode tot de rapportagetijd |   |
-|   |   |
-| 6.0. Onvoorziene gebeurtenissen |   |
-|   |   |
-| 6.1 Een korte samenvatting van alle onvoorziene gebeurtenissen gedurende de verslagperiode. |   |
-
-## Bijlage 12. behorende bij [artikel 8.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.2&z=2011-09-16&g=2011-09-16)
-
-| 1.0. Projectgegevens |   |
-| --- | --- |
-|   |   |
-| 1.1. Algemeen |   |
-| 1. de namen van de leidinggevenden met een aanduiding van hun functie |   |
-| 2. het tijdvak waarin deze leiding gaven. |   |
-| 1.2. Boring |   |
-| 1. een aanduiding (code of naam) van de boring inclusief sidetracks |   |
-| 2. voor putten op land: de plaats van het aanzetpunt uitgedrukt in het coördinatiestelsel van de Rijksdriehoeksmeting |   |
-| 3. voor putten op zee: de plaats van het aanzetpunt uitgedrukt in geografische coördinaten, berekend volgens het stelsel van de Europese vereffening |   |
-| 4. het doel van de boring |   |
-| 5. de datum van het begin van de boring en het aantal dagen op de locatie. |   |
-| 1.3. Mijnbouw- of boorinstallatie |   |
-| 1. de naam van de installatie |   |
-| 2. de namen van de eigenaren van de installatie. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1. Dieptes |   |
-| 1. de dieptereferentie in meters ten opzichte van |   |
-| a. Normaal Amsterdams Peil (NAP), indien bij de boring geen gebruik wordt gemaakt van een mijnbouwinstallatie of |   |
-| b. Mean Sea Level (MSL), indien bij de boring gebruik wordt gemaakt van een mijnbouwinstallatie |   |
-| 2. de diepte in meters ("along hole depth" (AHD) en "true vertical depth" (TVD)) aan het einde van de diepboring |   |
-| 3. de deviatieplots van de diepboring, zowel verticaal als horizontaal, op A4-formaat |   |
-| 4. de waterdiepte onder MSL, indien bij de boring gebruik wordt gemaakt van een mijnbouwinstallatie. |   |
-| 2.2. Gezette verbuizingen |   |
-| 1. de maten |   |
-| 2. de schoendiepte in meters en de diepte in meters aan de bovenzijde |   |
-| 3. de materiaalsoort en het gewicht per lengte-eenheid van de gezette verbuizing |   |
-| 4. de cementsoorten, het gewicht van de cementspecie ("slurry") en het volume van de cementspecie |   |
-| 5. de bovenzijde van het cement (theoretisch of vastgesteld) |   |
-| 6. een verbuizingsdiagram op A4-formaat. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 1. het type boorspoeling per boorgatsectie |   |
-| 2. het soortelijk gewicht van de boorspoeling als functie van de diepte. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1. Stratigrafische kolom |   |
-| 1. de diepte in meters (AHD) van de bovenzijde van de aangetroffen geologische aardlagen |   |
-| 2. de aangetroffen breukdieptes |   |
-| 3. de aangetroffen abnormale formatiedrukken. |   |
-| 4.2. Koolwaterstoffen |   |
-| 1. de aangetroffen producten |   |
-| 2. de producerende aardlagen |   |
-| 3. de maximaal geteste productie ("choke sizes" en "flowing tubing head pressure") |   |
-| 4. de ingesloten formatiedruk na het testen. |   |
-|   |   |
-| 5.0. Gegevens betreffende de putafwerking |   |
-|   |   |
-| 1. de putstatus |   |
-| 2. een tekening van de (definitief of tijdelijk) buiten gebruik gestelde put op A4-formaat |   |
-| 3. een tekening met de maten van de putmondafwerking op A4-formaat |   |
-| 4. een tekening met de maten van de spuitseries op A4-formaat. |   |
-|   |   |
-| 6.0. Ondertekening |   |
-|   |   |
-| 1. plaats |   |
-| 2. datum |   |
-| 3. handtekening van de leidinggevende. |   |
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 9.2.6a
-
-Een aanvraag om ontheffing om te lozen als bedoeld in [artikel 9.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2026-01-01&g=2026-01-01), voor chemicaliën als bedoeld in [artikel 9.2.6, tweede lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.6&z=2026-01-01&g=2026-01-01), wordt geweigerd, tenzij de uitvoerder bij de aanvraag aantoont dat vanwege technische aspecten of veiligheidsaspecten geen minder schadelijke vervangende middelen beschikbaar zijn. In dat geval kan de ontheffing voor ten hoogste drie jaar worden verleend.
-
-#### § 9.2. Gebruik en lozing van chemicaliën
-
-### Hoofdstuk 10. Pijpleidingen
-
-### Hoofdstuk 11a. Verplichtingen bij de opsporing en winning van koolwaterstoffen
-
-#### § 11.4. Aan te wijzen instelling
-
-#### § 11.4. Aan te wijzen instelling
-
-#### § 11.2. Wijze van gegevens verstrekking aan de minister
-
-### Hoofdstuk 11a. Verplichtingen bij de opsporing en winning van koolwaterstoffen
-
-### Hoofdstuk 12. Financiële bepaling
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
-
-#### § 11.3. Te gebruiken eenheden
-
-#### § 11.3. Te gebruiken eenheden
-
-### Hoofdstuk 11a. Verplichtingen bij de opsporing en winning van koolwaterstoffen
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2009-10-31&g=2009-10-31) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2017-08-29&g=2017-08-29) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-### A. Algemene gegevens
-
-### 1
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 2
-
-## Bijlage 4. behorende bij de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2009-10-31&g=2009-10-31) Beschrijving van de Ankergebieden, Aanloopgebied van Hoek van Holland en Overige gebieden, bedoeld in de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2009-10-31&g=2009-10-31) van de regeling
-
-### A. Algemene gegevens
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### B
-
-### 1
-
-Het verkennings- en opsporingsonderzoek naar aardolie of aardgas, verricht voor rekening van de aanvrager of van de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort,
-
-### 3
-
-b. De gegevens, bedoeld onder 3, onderdeel a, met betrekking tot de aanvrager en de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, gezamenlijk.
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 1.3.4a
-
-1. Onverminderd [artikel 1.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.4&z=2026-01-01&g=2026-01-01) verstrekt de aanvrager bij een aanvraag om een vergunning voor het permanent opslaan van CO2 bovendien:
-
-- a. een karakterisering en beoordeling van het potentiële opslagcomplex met inbegrip van de afdichtende laag en het omliggende gebied, inclusief de hydraulisch verbonden gebieden, uitgevoerd en onderbouwd op de voet van Bijlage I van de richtlijn nr. 2009/31/EG;
-
-- b. de beoogde plaats van de injectiefaciliteiten;
-
-- c. de totale hoeveelheid stoffen die zal worden opgeslagen uitgedrukt in kton;
-
-- d. een opgave van de afzonderlijke bestanddelen van de stoffen die worden opgeslagen en hun aandeel in de totale hoeveelheid van stoffen die worden opgeslagen, en
-
-- e. de gegevens waarop de beoogde maximum toelaatbare snelheid en druk bij injectie van CO2 en de beoogde maximum toelaatbare druk van de opgeslagen CO2 zijn gebaseerd.
-
-2. De aanvraag bevat het ontwerp voor een risicobeheerplan als bedoeld in [artikel 29c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29c).
-
-3. De aanvraag bevat het ontwerp voor een plan voor het nemen van corrigerende maatregelen als bedoeld in [artikel 29d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29d).
-
-4. De aanvraag bevat het ontwerp voor een monitoringsplan als bedoeld in [artikel 29f van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29f) dat voldoet aan Bijlage II, onderdeel 1, van richtlijn nr. 2009/31/EG. Het ontwerp strekt tot:
-
-- a. het vergelijken van het feitelijk en het gemodelleerd gedrag van het CO2 en andere opgeslagen stoffen en het formatiewater in het voorkomen;
-
-- b. het detecteren van significante onregelmatigheden;
-
-- c. het detecteren van CO2 en andere stoffen;
-
-- d. het detecteren van significante negatieve effecten voor het omliggende milieu en voor met name het drinkwater, de omwonende bevolking en de gebruikers van de biosfeer in de omgeving;
-
-- e. het evalueren van de doeltreffendheid van eventuele getroffen corrigerende maatregelen als bedoeld in het vijfde lid, en
-
-- f. het actualiseren van de veiligheids- en integriteitsbeoordeling van het opslagcomplex op korte en lange termijn, met inbegrip van de beoordeling van de vraag of het opgeslagen CO2 volledig en permanent is ingesloten.
-
-5. De aanvraag bevat het ontwerp voor een afsluitingsplan als bedoeld in [artikel 29g van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29g).
-
-6. De aanvraag bevat:
-
-- a. de voor de ramingen, bedoeld in [artikel 29j, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29j) benodigde gegevens vergezeld van adequate cijfermatige onderbouwing en toelichting en mogelijke vorm van zekerheid die zal worden gesteld;
-
-- b. het ontwerp voor een plan ter voorkoming of beperking van schade door bodembeweging indien het voorkomen voor het permanent opslaan van CO2 gelegen is aan de landzijde van de lijn die in de bijlage bij de wet is vastgelegd door bodembeweging als bedoeld in [artikel 29h van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29h) gebaseerd op een risico-analyse over bodembeweging, en
-
-- c. informatie die aantoont dat is gezorgd voor professionele en technische ontwikkeling en training van de exploitant en van alle personeel voorafgaande, tijdens en na beëindiging van de injectie van CO2.
-
-##### Artikel 1.3.4b
-
-Bij een aanvraag om een vergunning voor het permanent opslaan van CO2 in te trekken, verstrekt de vergunninghouder de minister:
-
-- a. een verslag dat aantoont dat:
-
-- 1°. het opgeslagen CO2 volledig en permanent ingesloten blijft,
-
-- 2°. het feitelijke gedrag van het geïnjecteerde CO2 in overeenstemming is met het gemodelleerde gedrag,
-
-- 3°. er geen detecteerbare lekken zijn,
-
-- 4°. de opslaglocatie evolueert naar een toestand van lange termijn stabiliteit, en
-
-- b. een geactualiseerde versie van de documenten, bedoeld in de [artikelen 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29c), [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29d), [29f](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29f) en [29g, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29g).
-
-#### § 1.4. Aanvraag mijnbouwmilieuvergunning
-
-#### § 1.5. Aanvraag vergunningen en ontheffingen bij verkenningsonderzoek
-
-#### § 1.6. Aanvraag vergunningen en ontheffingen mijnbouwwerken
-
-#### § 1.7. Aanvraag vergunning pijpleidingen en kabels
-
-#### § 1.8
-
-#### § 1.7. Aanvraag vergunning pijpleidingen en kabels
-
-#### § 1.5. Aanvraag vergunning voor verkenningsonderzoek op land
-
-#### § 1.6c. Aanvraag instemming met rapport over verwijdering mijnbouwwerk, kabel of pijpleiding
-
-### Hoofdstuk 2. Verkenningsonderzoek
-
-#### § 1.6b. Aanvraag instemming verwijderingsplan en ontheffing mijnbouwwerk, kabel of pijpleiding
-
-#### § 2.2. Verkenningsonderzoek met gebruik van ontplofbare stoffen
-
-#### § 1.9. Aanvraag vergunning winning kalksteen of ander gebruik groeve
-
-#### § 1.10. Restrictiegebieden
-
-#### § 1.12. Veiligheidszone
-
-#### § 1.12. Veiligheidszone
-
-##### Artikel 3.2
-
-1. Het register over CO2-stromen, bedoeld in [artikel 31f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31f), bevat met ingang van de dag van eerste injectie van stoffen een opgave van:
-
-- a. de hoeveelheden stoffen uitgedrukt in kton die per uur zijn geleverd, geïnjecteerd of weggelekt en
-
-- b. de samenstelling van de stoffen en iedere wijziging in de samenstelling ervan met vermelding van de datum en tijdstip van wijziging;
-
-2. De samenstelling van de stoffen bevat een opgave van de afzonderlijke stoffen en hun volume- en gewichtsaandeel met een voldoende nauwkeurigheid met het oog op de belangen van milieu en veiligheid.
-
-3. Het register wordt tenminste wekelijks bijgewerkt.
-
-### Hoofdstuk 4. Helikopterdekken
-
-### Afdeling 4.1. Helikopterdekken op mijnbouwinstallaties
-
-#### § 2.4. Het boren van schietgaten
-
-#### § 4.3. Obstakels op en rond de landingsplaats
-
-#### § 2.6. Het laden van schietgaten
-
-#### § 2.7. Niet tot ontploffing gekomen ladingen
-
-#### § 2.8. Rapportage
-
-#### § 4.8. De tekening van het helikopterdek en andere gegevens
-
-### Hoofdstuk 5. Herkenningstekens, geluidsbakens en lichtbakens
-
-### Hoofdstuk 6. Communicatiemiddelen en meteorologische apparatuur
-
-#### § 6.1. Algemeen
-
-#### § 6.2. Communicatiemiddelen
-
-#### § 6.3. Meteorologische en oceanografische apparatuur
-
-### Hoofdstuk 7. Onderzoek naar sterkte mijnbouwinstallaties en wijze van verwijdering van onder het oppervlaktewater gelegen mijnbouwinstallaties
-
-### Hoofdstuk 8. Boorgaten en putten
-
-### Afdeling 8.1. Algemeen
-
-### Afdeling 8.2. Werkprogramma's voor boorgaten en putten alsmede rapportages voor boorgaten
-
-#### § 8.2.3. Werkprogramma voor reparatie van putten
-
-#### § 8.2.3a. Werkprogramma voor het stimuleren van een voorkomen via een put
-
-### Afdeling 8.4. Inrichting van putten
-
-#### § 8.3.1. Beveiligingen bij aanleg van boorgaten
-
-#### § 8.3.4. Reparatie van een put
-
-#### § 8.3.4. Reparatie van een put
-
-### Afdeling 8.4. Inrichting van putten
-
-### Afdeling 8.5. Het buiten gebruik stellen van putten en boorgaten
-
-#### § 8.5.1. Algemeen
-
-### Hoofdstuk 9. Gebruik en lozen van oliehoudende mengsels en chemicaliën
-
-#### § 9.3. Registratie van chemicaliën
-
-#### § 9.2. Gebruik en lozing van chemicaliën
-
-#### § 9.3. Registratie van chemicaliën
-
-### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
-
-#### § 11.1. Te verstrekken gegevens
-
-#### § 11a.5. Onafhankelijke verificatie
-
-#### § 11.3. Te gebruiken eenheden
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
-
-### Hoofdstuk 11a. Verplichtingen bij de opsporing en winning van koolwaterstoffen
-
-#### § 11a.1. Toepassingsbereik
-
-#### § 14.1. Overgangsbepalingen met betrekking tot helikopterdekken
-
-### Hoofdstuk 11a. Verplichtingen bij de opsporing en winning van koolwaterstoffen
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2014-02-22&g=2014-02-22) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### 1
-
-## Bijlage 4. behorende bij de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2017-01-01&g=2017-01-01)
-
-## Bijlage 4. behorende bij de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2014-02-22&g=2014-02-22)
-
-### 1
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-## Bijlage 1a. behorende bij de [artikelen 1.3b.1, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01), [1.3b.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.2&z=2026-01-01&g=2026-01-01), [1.3b.3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.3&z=2026-01-01&g=2026-01-01), en [1.3b.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.4&z=2026-01-01&g=2026-01-01) Gegevens over te leggen bij een aanvraag om een toewijzing zoekgebied, startvergunning of vervolgvergunning aardwarmte of om instemming met de aanwijzing van de uitvoerder aardwarmte
-
-## Bijlage 14. behorende bij [artikel 9.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.6&z=2011-09-16&g=2011-09-16), van de Mijnbouwregeling
-
-| 1) Mijnonderneming: | 1) Mijnonderneming: | 1) Mijnonderneming: |   |   | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: |   | 11) Aantal analyses: | 11) Aantal analyses: |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: |   |   | 7) Type debietmeter: | 7) Type debietmeter: | 7) Type debietmeter: |   | 12) Hoogste waarde (kolom E): | 12) Hoogste waarde (kolom E): |
-| 3) Maand / Jaar: | 3) Maand / Jaar: |   |   |   | 8) Plaats van Monstername: | 8) Plaats van Monstername: | 8) Plaats van Monstername: |   | 13) Aantal analyses > 30 mg/l (kolom E): | 13) Aantal analyses > 30 mg/l (kolom E): |
-| 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: |   |   | 9) Wijze van analyseren: | 9) Wijze van analyseren: | 9) Wijze van analyseren: |   |   |   |
-| 5) Plaats van debietmeting: | 5) Plaats van debietmeting: | 5) Plaats van debietmeting: |   |   | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur |   |   |   |
-| A | B | C | D | E | F | G | H | I | J | K |
-| Dag nr. | Tijdstip monster- name | Debiet | Datum Analyse | Gedispergeerde olie volgens OSPAR-Akkoord 2005-15 | Opgeloste olie volgens toepassing OSPAR-Akkoord 2005-15 | Totale olie | Gedispergeerde olie | opgeloste olie | Totale olie | Opmerkingen |
-|   | uu:mm | m3/dag | ddmmjj | mg/l | mg/l | mg/l | kg/dag | kg/dag | kg/dag |   |
-| 1 |   |   |   |   |   |   |   |   |   |   |
-| 2 |   |   |   |   |   |   |   |   |   |   |
-| 3 |   |   |   |   |   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
-| 6 |   |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 |   |   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
-| 12 |   |   |   |   |   |   |   |   |   |   |
-| 13 |   |   |   |   |   |   |   |   |   |   |
-| 14 |   |   |   |   |   |   |   |   |   |   |
-| 15 |   |   |   |   |   |   |   |   |   |   |
-| 16 |   |   |   |   |   |   |   |   |   |   |
-| 17 |   |   |   |   |   |   |   |   |   |   |
-| 18 |   |   |   |   |   |   |   |   |   |   |
-| 19 |   |   |   |   |   |   |   |   |   |   |
-| 20 |   |   |   |   |   |   |   |   |   |   |
-| 21 |   |   |   |   |   |   |   |   |   |   |
-| 22 |   |   |   |   |   |   |   |   |   |   |
-| 23 |   |   |   |   |   |   |   |   |   |   |
-| 24 |   |   |   |   |   |   |   |   |   |   |
-| 25 |   |   |   |   |   |   |   |   |   |   |
-| 26 |   |   |   |   |   |   |   |   |   |   |
-| 27 |   |   |   |   |   |   |   |   |   |   |
-| 28 |   |   |   |   |   |   |   |   |   |   |
-| 29 |   |   |   |   |   |   |   |   |   |   |
-| 30 |   |   |   |   |   |   |   |   |   |   |
-| 31 |   |   |   |   |   |   |   |   |   |   |
-| Totaal: |   |   |   |   |   |   |   |   |   |   |
-| Gemiddeld: | Gemiddeld: |   |   |   |   |   |   |   |   |   |
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-### 2
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### B
-
-b. De gegevens, bedoeld onder 3, onderdeel a, met betrekking tot de aanvrager en de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, gezamenlijk.
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-De ervaringen met betrekking tot de opsporing van koolwaterstoffen en de winning daarvan door middel van boringen, op te geven per land of gebied, voor zover de technische leiding daarvan berustte bij de aanvrager of bij de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, onder vermelding van:
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-Het aantal en de eventuele namen van de mijnbouwwerken, geschikt voor de met de aanvraag beoogde werkzaamheden:
-
-### Aanloopgebied Hoek van Holland
-
-b. De gegevens, bedoeld onder 3, onderdeel a, met betrekking tot de aanvrager en de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, gezamenlijk.
-
-Indien de aanvraag om een toewijzing zoekgebied, startvergunning of vervolgvergunning aardwarmte door een natuurlijk persoon wordt gedaan of de aanvraag om instemming de aanwijzing van een natuurlijk persoon als uitvoerder aardwarmte betreft:
-
-Indien de aanvraag om een toewijzing zoekgebied, startvergunning of vervolgvergunning aardwarmte door een niet natuurlijk persoon wordt gedaan of de aanvraag om instemming de aanwijzing van een niet natuurlijk persoon als uitvoerder aardwarmte betreft:
-
-Beschrijving van de ankergebieden, aanloopgebied van Hoek van Holland en overige gebieden, bedoeld in de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2022-01-01&g=2022-01-01) van de regeling
-
-Indien de aanvraag om een toewijzing zoekgebied, startvergunning of vervolgvergunning aardwarmte door een natuurlijk persoon wordt gedaan of de aanvraag om instemming de aanwijzing van een natuurlijk persoon als uitvoerder aardwarmte betreft:
-
-Indien de aanvraag om een toewijzing zoekgebied, startvergunning of vervolgvergunning aardwarmte door een niet natuurlijk persoon wordt gedaan of de aanvraag om instemming de aanwijzing van een niet natuurlijk persoon als uitvoerder aardwarmte betreft:
-
-Ankergebied 1 (Anchor Area 1) wordt begrensd door een lijn die de volgende punten verbindt: 085, 084 (snijpunt met het continentaal plat), 317 (snijpunt met het continentaal plat), 004, 003, 085.
-
-Indien de aanvraag om een toewijzing zoekgebied, startvergunning of vervolgvergunning aardwarmte door een natuurlijk persoon wordt gedaan of de aanvraag om instemming de aanwijzing van een natuurlijk persoon als uitvoerder aardwarmte betreft:
-
-De ervaringen met betrekking tot de opsporing van koolwaterstoffen en de winning daarvan door middel van boringen, op te geven per land of gebied, voor zover de technische leiding daarvan berustte bij de aanvrager of bij de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, onder vermelding van:
-
-Ankergebied 3 Zuid (Anchor Area 3 South) wordt begrensd door een lijn die de volgende punten verbindt: 016, 015, 321, 322, 016.
-
-Het verkennings- en opsporingsonderzoek naar aardolie of aardgas, verricht voor rekening van de aanvrager of van de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort,
-
-De ervaringen met betrekking tot de opsporing van koolwaterstoffen en de winning daarvan door middel van boringen, op te geven per land of gebied, voor zover de technische leiding daarvan berustte bij de aanvrager of bij de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, onder vermelding van:
-
-a. De hoeveelheid aardolie, putgasbenzine daaronder begrepen, en aardgas gedurende het afgelopen kalenderjaar door de aanvrager gewonnen, uitgedrukt in 1000 m3, zowel in totaal als gesplitst per land.
-
-b. De gegevens, bedoeld onder 3, onderdeel a, met betrekking tot de aanvrager en de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, gezamenlijk.
-
-Ankergebied 6 (Anchor Area 6) wordt begrensd door een lijn die de volgende punten verbindt: 311, 143, 142, 145, 311.
-
-a. De hoeveelheid aardolie, putgasbenzine daaronder begrepen, en aardgas gedurende het afgelopen kalenderjaar door de aanvrager gewonnen, uitgedrukt in 1000 m3, zowel in totaal als gesplitst per land.
-
-b. De gegevens, bedoeld onder 3, onderdeel a, met betrekking tot de aanvrager en de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, gezamenlijk.
-
-Ankergebied Schouwenbank (Anchor Area Schouwenbank) wordt begrensd door een lijn die de volgende punten verbindt: 337, 338, 288, 339, 337.
-
-Het noodankergebied (Emergency Anchor Area) wordt begrensd door een cirkel beginnend in punt 340 met een middelpunt in punt 341.
-
-Ankergebied Scheveningen (Anchor Area Scheveningen) wordt begrensd door een lijn die de volgende punten verbindt: 342, 343, 344, 345, 342.
-
-Beschrijving van de ankergebieden, aanloopgebied van Hoek van Holland en overige gebieden, bedoeld in de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2023-07-01&g=2023-07-01) van de regeling
-
-Bij de beschrijving van de gebieden wordt gebruik gemaakt van punten die zijn aangegeven met cijfers. Deze cijfers zijn in de tabel bij deze bijlage gedefinieerd met posities in 2 cijfers achter de komma. Achter de tabel zijn de gebieden weergegeven op een kaart.
-
-Het aanloopgebied Hoek van Holland, ook bekend onder de naam voorzorgsgebied Maas Center (Maas Centre Precautionary Area), wordt begrensd door een lijn die de volgende punten verbindt: 033, 032, 036, 037, 035, 034, 038, 039, 040, 041, 042, 043, 044, 045, 046, 047, 048, via de kustlijn naar 049, 050, 051, 052, 053, 033.
-
-Ankergebied 1 (Anchor Area 1) wordt begrensd door een lijn die de volgende punten verbindt: 085, 084 (snijpunt met het continentaal plat), 317 (snijpunt met het continentaal plat), 004, 003, 085.
-
-Ankergebied 2 (Anchor Area 2) wordt begrensd door een lijn die de volgende punten verbindt: 081, 080, 079, 318, 081.
-
-Ankergebied 3 Noord (Anchor Area 3 North) wordt begrensd door een lijn die de volgende punten verbindt: 012, 011, 319, 320, 012.
-
-Het eindrapport over het buiten gebruik stellen van een boorgat of put
-
-Het eindrapport bestaat uit een statustekening van het boorgat of de put en bijlagen en bevat ten minste de volgende informatie:
-
-Ankergebied 4 West (Anchor Area 4 West) wordt begrensd door een lijn die de volgende punten verbindt: 286, 031, 033, 053, 327, 286.
-
-Het eindrapport over het buiten gebruik stellen van een boorgat of put
-
-Het eindrapport bestaat uit een statustekening van het boorgat of de put en bijlagen en bevat ten minste de volgende informatie:
-
-Ankergebied 6 (Anchor Area 6) wordt begrensd door een lijn die de volgende punten verbindt: 311, 143, 142, 145, 311.
-
-Ankergebied 7 (Anchor Area 7) wordt begrensd door een lijn die de volgende punten verbindt: 314, 149, 152, 151, 331, 332, 333, 314.
-
-Ankergebied 8 (Anchor Area 8) wordt begrensd door een lijn die de volgende punten verbindt: 162, 334, 335, 336, 163, 162.
-
-Ankergebied Schouwenbank (Anchor Area Schouwenbank) wordt begrensd door een lijn die de volgende punten verbindt: 337, 338, 288, 339, 337.
-
-In deze bijlage wordt verstaan onder:
-
-Ankergebied Scheveningen (Anchor Area Scheveningen) wordt begrensd door een lijn die de volgende punten verbindt: 342, 343, 344, 345, 342.
-
-Ankergebied havenmond Scheveningen (Anchor Area Scheveningen Harbour) wordt begrensd door een lijn die de volgende punten verbindt: 346, 347, 348, 349, 346.
-
-De vergoeding die jaarlijks in rekening wordt gebracht bij:
-
-Het aanloopgebied Hoek van Holland, ook bekend onder de naam voorzorgsgebied Maas Center (Maas Centre Precautionary Area), wordt begrensd door een lijn die de volgende punten verbindt: 033, 032, 036, 037, 035, 034, 038, 039, 040, 041, 042, 043, 044, 045, 046, 047, 048, via de kustlijn naar 049, 050, 051, 052, 053, 033.
-
-De zuidoost gaande verkeersbaan van het verkeersscheidingsstelsel Maas Noord West (Maas North West TSS) wordt begrensd door een lijn die de volgende punten verbindt: 090, 091, 039, 038, 090. De noordwest gaande verkeersbaan van het verkeersscheidingsstelsel Maas Noord West (Maas North West TSS) wordt begrensd door een lijn die de volgende punten verbindt: 092, 093, 041, 040, 092.
-
-De vergoeding, bedoeld in de onderdelen B en D, wordt verhoogd met:
-
-Het voorzorgsgebied Rijnveld (Rijnveld Precautionary Area) wordt begrensd door een lijn die de volgende punten verbindt: 104, 105, 106, 107, 108, 109, 110, 111, 112, 104.
-
-### E. Bijkomende vergoeding van kosten
-
-De vergoeding, bedoeld in de onderdelen B en D, wordt verhoogd met:
-
-Het STZ aanloopgebied IJmuiden wordt begrensd door een zeewaarts gerichte cirkeldeel met een straal van 12 zeemijlen gerekend vanuit middelpunt 370.
-
-Het STZ aanloopgebied Den Helder wordt begrensd door een lijn die de volgende punten verbindt: 371, 372, 373, 374, 375, 376, 377, 371.
-
-Het STZ aanloopgebied Brandaris wordt begrensd door een lijn die de volgende punten verbindt: 378, 379, 380, 381, 382, 378.
-
-Het STZ aanloopgebied Eemsmonding wordt begrensd door een lijn die de volgende punten verbindt: 383, 384, 385, 386, 387, 383.
-
-## Bijlage 6. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 7. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 8. behorende bij de artikelen 4.3.3, vierde lid, en 4.4.6, tweede lid
-
-Vervallen
-
-## Bijlage 9. behorende bij artikel 4.4.3, achtste lid
-
-Vervallen
-
-## Bijlage 10. behorende bij artikel 4.8.2
-
-Vervallen
-
-## Bijlage 11. behorende bij [artikel 8.2.2.l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.1&z=2017-01-01&g=2017-01-01)
-
-| 1.0. Projectgegevens |   |
-| --- | --- |
-|   |   |
-| 1.1 de naam van de mijnbouwonderneming |   |
-| 1.2 de aanduiding van de boring |   |
-| 1.3 de naam van de boorinstallatie |   |
-| 1.4 de naam van het bijstandsschip, indien een bijstandsschip bij de boring aanwezig is |   |
-| 1.5 de naam van de concipiant van het dagverslag |   |
-| 1.6 de telefoonnummers waarop de concipiant gedurende werkuren bereikbaar is |   |
-| 1.7 het serienummer van het dagverslag |   |
-| 1.8 de datum waarop het dagverslag van toepassing is |   |
-| 1.9 het tijdsbestek waarop het dagverslag van toepassing is. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1 de diameter (in inches) van alle verbuizingen |   |
-| 2.2 de boorbeiteldiameters (in inches) van alle verbuizingen |   |
-| 2.3 de schoendiepte (in meters) van alle in het boorprogramma voorziene verbuizingen |   |
-| 2.4 de schoendiepte (in meters) van alle gezette verbuizingen |   |
-| 2.5 de formatiesterkte van alle relevante verbuizingen, uitgedrukt in de boorspoelingsgradiënt in kPa/m, bar/l0 m of in een equivalent boorspoelingsgewicht |   |
-| 2.6 de einddiepte (in meters) van een boorgatsectie. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 3.1 het type boorspoeling op de betreffende diepte |   |
-| 3.2 de viscositeit van de boorspoeling volgens MARSH in seconden |   |
-| 3.3 het filtraatverlies volgens de standaardmethode in 0,001 m3 (cc) |   |
-| 3.4 het solidsgehalte van de boorspoeling in gr/l |   |
-| 3.5 het boorspoelingsgewicht in kN/m² of kg/dm3 |   |
-| 3.6 de viscositeit en gel van de boorspoeling volgens FANN |   |
-| 3.7 de PH van het bij 3.3. verkregen filtraat |   |
-| 3.8 het oliegehalte van de bij 3.4 verkregen vloeistof. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1 de naam van de laatstdoorboorde aardlaag |   |
-| 4.2 de top van de bovengenoemde aardlaag op de vanaf de boorvloer langs het boorgat gemeten diepte in meters waar deze werd verwacht ("along hole depth" (AHD)/"true vertical depth" (TVD)) |   |
-| 4.3 de diepte in meters waar deze top is gevonden (AHD) |   |
-| 4.4 de naam van de volgende te verwachten aardlaag |   |
-| 4.5 de verwachte top van de volgende aardlaag (AHD). |   |
-|   |   |
-| 5.0. Gegevens betreffende het verloop van de werkzaamheden |   |
-|   |   |
-| 5.1 een korte samenvatting van de werkzaamheden gedurende de verslagperiode |   |
-| 5.2 een korte samenvatting van de voorziene werkzaamheden in de daaropvolgende verslagperiode |   |
-| 5.3 een korte samenvatting van de al verrichte werkzaamheden in de daaropvolgende verslagperiode tot de rapportagetijd |   |
-|   |   |
-| 6.0. Onvoorziene gebeurtenissen |   |
-|   |   |
-| 6.1 Een korte samenvatting van alle onvoorziene gebeurtenissen gedurende de verslagperiode. |   |
-
-## Bijlage 12. behorende bij [artikel 8.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.2&z=2017-01-01&g=2017-01-01)
-
-| 1.0. Projectgegevens |   |
-| --- | --- |
-|   |   |
-| 1.1. Algemeen |   |
-| 1. de namen van de leidinggevenden met een aanduiding van hun functie |   |
-| 2. het tijdvak waarin deze leiding gaven. |   |
-| 1.2. Boring |   |
-| 1. een aanduiding (code of naam) van de boring inclusief sidetracks |   |
-| 2. voor putten op land: de plaats van het aanzetpunt uitgedrukt in het coördinatiestelsel van de Rijksdriehoeksmeting |   |
-| 3. voor putten op zee: de plaats van het aanzetpunt uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem |   |
-| 4. het doel van de boring |   |
-| 5. de datum van het begin van de boring en het aantal dagen op de locatie. |   |
-| 1.3. Mijnbouw- of boorinstallatie |   |
-| 1. de naam van de installatie |   |
-| 2. de namen van de eigenaren van de installatie. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1. Dieptes |   |
-| 1. de dieptereferentie in meters ten opzichte van |   |
-| a. Normaal Amsterdams Peil (NAP), indien bij de boring geen gebruik wordt gemaakt van een mijnbouwinstallatie of |   |
-| b. Mean Sea Level (MSL), indien bij de boring gebruik wordt gemaakt van een mijnbouwinstallatie |   |
-| 2. de diepte in meters ("along hole depth" (AHD) en "true vertical depth" (TVD)) aan het einde van de diepboring |   |
-| 3. de deviatieplots van de diepboring, zowel verticaal als horizontaal, op A4-formaat |   |
-| 4. de waterdiepte onder MSL, indien bij de boring gebruik wordt gemaakt van een mijnbouwinstallatie. |   |
-| 2.2. Gezette verbuizingen |   |
-| 1. de maten |   |
-| 2. de schoendiepte in meters en de diepte in meters aan de bovenzijde |   |
-| 3. de materiaalsoort en het gewicht per lengte-eenheid van de gezette verbuizing |   |
-| 4. de cementsoorten, het gewicht van de cementspecie ("slurry") en het volume van de cementspecie |   |
-| 5. de bovenzijde van het cement (theoretisch of vastgesteld) |   |
-| 6. een verbuizingsdiagram op A4-formaat. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 1. het type boorspoeling per boorgatsectie |   |
-| 2. het soortelijk gewicht van de boorspoeling als functie van de diepte. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1. Stratigrafische kolom |   |
-| 1. de diepte in meters (AHD) van de bovenzijde van de aangetroffen geologische aardlagen |   |
-| 2. de aangetroffen breukdieptes |   |
-| 3. de aangetroffen abnormale formatiedrukken. |   |
-| 4.2. Koolwaterstoffen |   |
-| 1. de aangetroffen producten |   |
-| 2. de producerende aardlagen |   |
-| 3. de maximaal geteste productie ("choke sizes" en "flowing tubing head pressure") |   |
-| 4. de ingesloten formatiedruk na het testen. |   |
-|   |   |
-| 5.0. Gegevens betreffende de putafwerking |   |
-|   |   |
-| 1. de putstatus |   |
-| 2. een tekening van de (definitief of tijdelijk) buiten gebruik gestelde put op A4-formaat |   |
-| 3. een tekening met de maten van de putmondafwerking op A4-formaat |   |
-| 4. een tekening met de maten van de spuitseries op A4-formaat. |   |
-|   |   |
-| 6.0. Ondertekening |   |
-|   |   |
-| 1. plaats |   |
-| 2. datum |   |
-| 3. handtekening van de leidinggevende. |   |
-
-## Bijlage 13. behorende bij [artikel 8.3.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.5&z=2017-01-01&g=2017-01-01) Capaciteitstest
-
-## Bijlage 14. behorende bij [artikel 9.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.6&z=2017-01-01&g=2017-01-01), van de Mijnbouwregeling
-
-| 1) Mijnonderneming: | 1) Mijnonderneming: | 1) Mijnonderneming: |   |   | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: |   | 11) Aantal analyses: | 11) Aantal analyses: |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: |   |   | 7) Type debietmeter: | 7) Type debietmeter: | 7) Type debietmeter: |   | 12) Hoogste waarde (kolom E): | 12) Hoogste waarde (kolom E): |
-| 3) Maand / Jaar: | 3) Maand / Jaar: |   |   |   | 8) Plaats van Monstername: | 8) Plaats van Monstername: | 8) Plaats van Monstername: |   | 13) Aantal analyses > 30 mg/l (kolom E): | 13) Aantal analyses > 30 mg/l (kolom E): |
-| 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: |   |   | 9) Wijze van analyseren: | 9) Wijze van analyseren: | 9) Wijze van analyseren: |   |   |   |
-| 5) Plaats van debietmeting: | 5) Plaats van debietmeting: | 5) Plaats van debietmeting: |   |   | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur |   |   |   |
-| A | B | C | D | E | F | G | H | I | J | K |
-| Dag nr. | Tijdstip monster- name | Debiet | Datum Analyse | Gedispergeerde olie volgens OSPAR-Akkoord 2005-15 | Opgeloste olie volgens toepassing OSPAR-Akkoord 2005-15 | Totale olie | Gedispergeerde olie | opgeloste olie | Totale olie | Opmerkingen |
-|   | uu:mm | m3/dag | ddmmjj | mg/l | mg/l | mg/l | kg/dag | kg/dag | kg/dag |   |
-| 1 |   |   |   |   |   |   |   |   |   |   |
-| 2 |   |   |   |   |   |   |   |   |   |   |
-| 3 |   |   |   |   |   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
-| 6 |   |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 |   |   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
-| 12 |   |   |   |   |   |   |   |   |   |   |
-| 13 |   |   |   |   |   |   |   |   |   |   |
-| 14 |   |   |   |   |   |   |   |   |   |   |
-| 15 |   |   |   |   |   |   |   |   |   |   |
-| 16 |   |   |   |   |   |   |   |   |   |   |
-| 17 |   |   |   |   |   |   |   |   |   |   |
-| 18 |   |   |   |   |   |   |   |   |   |   |
-| 19 |   |   |   |   |   |   |   |   |   |   |
-| 20 |   |   |   |   |   |   |   |   |   |   |
-| 21 |   |   |   |   |   |   |   |   |   |   |
-| 22 |   |   |   |   |   |   |   |   |   |   |
-| 23 |   |   |   |   |   |   |   |   |   |   |
-| 24 |   |   |   |   |   |   |   |   |   |   |
-| 25 |   |   |   |   |   |   |   |   |   |   |
-| 26 |   |   |   |   |   |   |   |   |   |   |
-| 27 |   |   |   |   |   |   |   |   |   |   |
-| 28 |   |   |   |   |   |   |   |   |   |   |
-| 29 |   |   |   |   |   |   |   |   |   |   |
-| 30 |   |   |   |   |   |   |   |   |   |   |
-| 31 |   |   |   |   |   |   |   |   |   |   |
-| Totaal: |   |   |   |   |   |   |   |   |   |   |
-| Gemiddeld: | Gemiddeld: |   |   |   |   |   |   |   |   |   |
-
-## Bijlage 14. behorende bij [artikel 9.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.6&z=2014-02-22&g=2014-02-22), van de Mijnbouwregeling
-
-| 1) Mijnonderneming: | 1) Mijnonderneming: | 1) Mijnonderneming: |   |   | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: |   | 11) Aantal analyses: | 11) Aantal analyses: |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: |   |   | 7) Type debietmeter: | 7) Type debietmeter: | 7) Type debietmeter: |   | 12) Hoogste waarde (kolom E): | 12) Hoogste waarde (kolom E): |
-| 3) Maand / Jaar: | 3) Maand / Jaar: |   |   |   | 8) Plaats van Monstername: | 8) Plaats van Monstername: | 8) Plaats van Monstername: |   | 13) Aantal analyses > 30 mg/l (kolom E): | 13) Aantal analyses > 30 mg/l (kolom E): |
-| 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: |   |   | 9) Wijze van analyseren: | 9) Wijze van analyseren: | 9) Wijze van analyseren: |   |   |   |
-| 5) Plaats van debietmeting: | 5) Plaats van debietmeting: | 5) Plaats van debietmeting: |   |   | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur |   |   |   |
-| A | B | C | D | E | F | G | H | I | J | K |
-| Dag nr. | Tijdstip monster- name | Debiet | Datum Analyse | Gedispergeerde olie volgens OSPAR-Akkoord 2005-15 | Opgeloste olie volgens toepassing OSPAR-Akkoord 2005-15 | Totale olie | Gedispergeerde olie | opgeloste olie | Totale olie | Opmerkingen |
-|   | uu:mm | m3/dag | ddmmjj | mg/l | mg/l | mg/l | kg/dag | kg/dag | kg/dag |   |
-| 1 |   |   |   |   |   |   |   |   |   |   |
-| 2 |   |   |   |   |   |   |   |   |   |   |
-| 3 |   |   |   |   |   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
-| 6 |   |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 |   |   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
-| 12 |   |   |   |   |   |   |   |   |   |   |
-| 13 |   |   |   |   |   |   |   |   |   |   |
-| 14 |   |   |   |   |   |   |   |   |   |   |
-| 15 |   |   |   |   |   |   |   |   |   |   |
-| 16 |   |   |   |   |   |   |   |   |   |   |
-| 17 |   |   |   |   |   |   |   |   |   |   |
-| 18 |   |   |   |   |   |   |   |   |   |   |
-| 19 |   |   |   |   |   |   |   |   |   |   |
-| 20 |   |   |   |   |   |   |   |   |   |   |
-| 21 |   |   |   |   |   |   |   |   |   |   |
-| 22 |   |   |   |   |   |   |   |   |   |   |
-| 23 |   |   |   |   |   |   |   |   |   |   |
-| 24 |   |   |   |   |   |   |   |   |   |   |
-| 25 |   |   |   |   |   |   |   |   |   |   |
-| 26 |   |   |   |   |   |   |   |   |   |   |
-| 27 |   |   |   |   |   |   |   |   |   |   |
-| 28 |   |   |   |   |   |   |   |   |   |   |
-| 29 |   |   |   |   |   |   |   |   |   |   |
-| 30 |   |   |   |   |   |   |   |   |   |   |
-| 31 |   |   |   |   |   |   |   |   |   |   |
-| Totaal: |   |   |   |   |   |   |   |   |   |   |
-| Gemiddeld: | Gemiddeld: |   |   |   |   |   |   |   |   |   |
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 1.3.3a
-
-Bij de aanvraag voor een opsporings- of winningsvergunning voor koolwaterstoffen overlegt de aanvrager ten behoeve van de beoordeling van de technische en financiële mogelijkheden de beschikbare informatie betreffende de veiligheids- en milieuprestaties van de aanvrager, onder meer met betrekking tot zware ongevallen, voor zover van toepassing op de activiteiten waarvoor de vergunning wordt aangevraagd.
-
-#### § 1.3a. Bijzondere regels over het Groningenveld
-
-#### § 1.3b. Vergunningen, aanvragen en verzoeken opsporen en winnen van aardwarmte
-
-##### Artikel 1.8.3
-
-Bij de aanvraag tot afsplitsing van een vergunning als bedoeld in [artikel 143, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=143), verstrekt de aanvrager de volgende gegevens:
-
-- a. de vergunning waarvoor afsplitsing wordt gevraagd;
-
-- b. een aanduiding van de gebiedsdelen die door afsplitsing ontstaan;
-
-- c. de reden voor afsplitsing;
-
-- d. een kaart waarop de voorkomens van delfstoffen zijn aangegeven;
-
-- e. de personen die overeenkomstig [artikel 22, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=22) worden aangewezen voor de afzonderlijke vergunningen die na afsplitsing zullen ontstaan.
-
-#### § 1.6. Aanvraag ontheffingen mijnbouwwerken
-
-#### § 1.10. Restrictiegebieden
-
-#### § 1.6b. Aanvraag instemming verwijderingsplan en ontheffing mijnbouwwerk, kabel of pijpleiding
-
-#### § 1.6c. Aanvraag instemming met rapport over verwijdering mijnbouwwerk, kabel of pijpleiding
-
-##### Artikel 1.12.1
-
-Vervallen
-
-##### Artikel 1.12.2
-
-Vervallen
-
-### Hoofdstuk 2. Verkenningsonderzoek
-
-#### § 1.12. Veiligheidszone
-
-#### § 2.4. Het boren van schietgaten
-
-#### § 2.2. Verkenningsonderzoek met gebruik van ontplofbare stoffen
-
-#### § 2.2. Verkenningsonderzoek met gebruik van ontplofbare stoffen
-
-#### § 2.8. Rapportage
-
-### Hoofdstuk 3. Het winnen en het opslaan van stoffen
-
-### Hoofdstuk 4. Het binnenkomen of verlaten van de Nederlandse wateren van een bestaande productie-installatie
-
-##### Artikel 4.1
-
-De termijn, bedoeld in [artikel 49, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=49), bedraagt acht weken.
-
-### Hoofdstuk 3. Het winnen en het opslaan van stoffen
-
-### Hoofdstuk 3. Het winnen en het opslaan van stoffen
-
-#### § 6.1. Algemeen
-
-#### § 2.7. Niet tot ontploffing gekomen ladingen
-
-#### § 6.1. Algemeen
-
-### Hoofdstuk 7. Onderzoek naar sterkte mijnbouwinstallaties en wijze van verwijdering van onder het oppervlaktewater gelegen mijnbouwinstallaties
-
-### Afdeling 8.1. Algemeen
-
-### Afdeling 8.2. Werkprogramma's voor boorgaten en putten alsmede rapportages voor boorgaten
-
-#### § 8.2.1. Werkprogramma voor aanleg van boorgaten
-
-#### § 8.2.2
-
-#### § 8.2.3. Werkprogramma voor reparatie van putten
-
-#### § 8.2.3a. Werkprogramma voor het stimuleren van een voorkomen via een put
-
-### Afdeling 8.3. Regels bij aanleg van boorgaten alsmede gebruik en reparatie van putten
-
-#### § 8.3.2. Testen van boorgat- en schuifafsluiters
-
-#### §. Periodieke beveiligingsoefeningen in verband met boorgaten en putten
-
-### Afdeling 8.5. Het buiten gebruik stellen van putten en boorgaten
-
-#### § 8.5.1. Algemeen
-
-#### § 8.5.2. Regels over buiten gebruik stellen
-
-### Hoofdstuk 9. Gebruik en lozen van oliehoudende mengsels en chemicaliën
-
-#### § 9.1. Oliehoudende mengsels
-
-#### § 9.2. Gebruik en lozing van chemicaliën
-
-#### § 9.2. Gebruik en lozing van chemicaliën
-
-### Hoofdstuk 10. Pijpleidingen
-
-### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
-
-#### § 11.2. Wijze van gegevens verstrekking aan de minister
-
-#### § 11.1. Te verstrekken gegevens
 
 ##### Artikel 11.5.1
 
-Het jaarplan bedoeld in [artikel 128, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=128) wordt jaarlijks voor 1 november ingediend.
+Het jaarplan bedoeld in [artikel 128, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=128) wordt jaarlijks voor 1 november ingediend.
+
+### Hoofdstuk 11a. Verplichtingen bij de opsporing en winning van koolwaterstoffen
+
+#### § 11a.1. Toepassingsbereik
 
 ##### Artikel 11a.1.1
 
 Dit hoofdstuk is van toepassing op de opsporing en winning van koolwaterstoffen.
 
-#### § 11.5. Jaarplan Staatstoezicht op de mijnen
+#### § 11a.2. Rapport inzake grote gevaren
 
 ##### Artikel 11a.2.1
 
-1. Een verzoek om instemming met een rapport inzake grote gevaren of een gewijzigd rapport inzake grote gevaren wordt voor zover het rapport betrekking heeft op een niet-productie-installatie of op een productie-installatie die is gelegen op het continentaal plat of in de territoriale zee en deze productie-installatie is gelegen aan de zeezijde van de in de [bijlage bij de wet](onbekend) vastgestelde lijn, ten minste twaalf weken voor aanvang van de activiteit of uitvoering van de wijziging of ontmanteling ingediend.
+1. Een verzoek om instemming met een rapport inzake grote gevaren of een gewijzigd rapport inzake grote gevaren wordt voor zover het rapport betrekking heeft op een niet-productie-installatie of op een productie-installatie die is gelegen op het continentaal plat of in de territoriale zee en deze productie-installatie is gelegen aan de zeezijde van de in de [bijlage bij de wet](https://wetten.overheid.nl/BWBR0014168) vastgestelde lijn, ten minste twaalf weken voor aanvang van de activiteit of uitvoering van de wijziging of ontmanteling ingediend.
 
 2. Een rapport inzake grote gevaren of een gewijzigd rapport inzake grote gevaren voor een productie-installatie op een andere locatie dan bedoeld in het eerste lid, wordt ten minste twaalf weken voor aanvang van de activiteit of uitvoering van de wijziging of ontmanteling ingediend.
 
@@ -3840,6 +3060,8 @@ Een rapport inzake grote gevaren voor een niet-productie-installatie bevat ten m
 
 Een gewijzigd rapport inzake grote gevaren bevat ten minste de informatie, genoemd in bijlage I, onderdeel 6, bij richtlijn 2013/30/EU.
 
+#### § 11a.3. Intern rampenplan
+
 ##### Artikel 11a.3.1
 
 Een intern rampenplan bevat ten minste de informatie, genoemd in bijlage I, onderdeel 10, bij richtlijn 2013/30/EU, met dien verstande dat onder ‘extern rampenplan’, bedoeld in punten 2 en 9, wordt verstaan: het Incidentbestrijdingsplan Noordzee, bedoeld in [artikel 23 van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=23), het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=16), of het rampbestrijdingsplan, bedoeld in [artikel 17 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=17).
@@ -3852,6 +3074,8 @@ Een intern rampenplan bevat ten minste de informatie, genoemd in bijlage I, onde
 
 3. De exploitant van een productie-installatie of een eigenaar van een niet-productie-installatie stelt de voor het desbetreffende gebied bevoegde autoriteit voor het Incidentbestrijdingsplan Noordzee, bedoeld in [artikel 23 van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=23), voor het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=16), of voor het rampbestrijdingsplan, bedoeld in [artikel 17 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=17), in kennis van een bijgewerkt intern rampenplan.
 
+#### § 11a.4. Bedrijfsbeleid inzake het voorkomen van zware ongevallen en het veiligheids- en milieubeheersingssysteem
+
 ##### Artikel 11a.4.1
 
 Het bedrijfsbeleid inzake het voorkomen van zware ongevallen bevat ten minste de informatie, genoemd in bijlagen I, onderdeel 8, en IV, bij richtlijn 2013/30/EU en de voorzieningen, bedoeld in bijlage IV, onderdeel 1, bij die richtlijn.
@@ -3860,7 +3084,7 @@ Het bedrijfsbeleid inzake het voorkomen van zware ongevallen bevat ten minste de
 
 Het veiligheids- en milieubeheersingssysteem bevat ten minste de informatie, genoemd in bijlage I, onderdeel 9, en IV, bij richtlijn 2013/30/EU en wordt ontwikkeld overeenkomstig deze onderdelen van richtlijn 2013/30/EU.
 
-#### § 11.3. Te gebruiken eenheden
+#### § 11a.5. Onafhankelijke verificatie
 
 ##### Artikel 11a.5.1
 
@@ -3888,6 +3112,8 @@ Een exploitant van een productie-installatie of een eigenaar van een niet-produc
 
 - e. voor het in kennis stellen van de inspecteur-generaal der mijnen, bedoeld in [artikel 84g, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=84g): tien werkdagen na afloop van de termijn, bedoeld in onderdeel d.
 
+#### § 11a.6. Kennisgevingen en informatie-uitwisseling
+
 ##### Artikel 11a.6.1
 
 1. Een kennisgeving als bedoeld in [artikel 45m, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45m), wordt ingediend uiterlijk op het moment dat voor de voorgenomen productie-installatie een aanvraag om een omgevingsvergunning voor een milieubelastende activiteit als bedoeld in [artikel 5.1, tweede lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) wordt ingediend.
@@ -3904,6 +3130,8 @@ Een exploitant van een productie-installatie of een eigenaar van een niet-produc
 
 - c. voor een gecombineerde activiteit als bedoeld in [artikel 45p van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45p): de informatie, genoemd in bijlage I, onderdeel 7, van richtlijn 2013/30/EU.
 
+#### § 11a.7. Voorzieningen voor toezichthouder
+
 ##### Artikel 11a.7.1
 
 1. De gevallen, bedoeld in [artikel 6, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=6) betreffen
@@ -3914,245 +3142,75 @@ Een exploitant van een productie-installatie of een eigenaar van een niet-produc
 
 2. Indien bij het verrichten van mijnbouwactiviteiten ernstige schade dreigt te ontstaan of is ontstaan, kan op aanwijzing van de inspecteur-generaal der mijnen het in het eerste lid, onderdeel a, bedoelde vervoer plaatsvinden tussen 0.00 uur en 24.00 uur.
 
-### hoofdstuk 14. Overgangsbepalingen
+### Hoofdstuk 12. Financiële bepaling en retributie
 
-#### § 11.4. Aan te wijzen instelling
+##### Artikel 12.1
+
+1. Het gewogen gemiddelde van de waarde van de in Nederland ingevoerde ruwe olie, bedoeld in de eerste volzin van [artikel 63, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=63), in een bepaald kalenderjaar wordt door de minister op basis van gegevens van het Centraal Bureau voor de Statistiek berekend door:
+
+- a. voor iedere maand van het betrokken kalenderjaar het totaal van de in die maand geloste hoeveelheden ruwe aardolie in aantallen vaten te vermenigvuldigen met het gewogen maandgemiddelde van de gemiddelde prijs daarvan uitgedrukt in US-dollars per vat;
+
+- b. het resultaat van de berekening in onderdeel a uit te drukken in euro's op basis van de gemiddelde €/US-dollarkoers in die maand en
+
+- c. de maandelijkse resultaten, bedoeld in onderdeel b, te sommeren en te delen door het totaal van de in het betrokken kalenderjaar geloste hoeveelheden ruwe aardolie in aantallen vaten.
+
+2. Indien het gewogen gemiddelde, bedoeld in het eerste lid, in een bepaald kalenderjaar meer bedraagt dan € 25 per vat, maakt de minister dit binnen twee maanden na afloop van het desbetreffende kalenderjaar bekend in de Staatscourant.
+
+##### Artikel 12.2
+
+1. De vergoeding, bedoeld in [artikel 133, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133), bedraagt ten aanzien van mijnbouwactiviteiten met betrekking tot koolwaterstoffen de vergoeding, bedoeld in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=15&z=2026-01-01&g=2026-01-01).
+
+2. De vergoeding, bedoeld in [artikel 133, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133), bedraagt ten aanzien van mijnbouwactiviteiten met betrekking tot aardwarmte de vergoeding, bedoeld in [bijlage 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=15a&z=2026-01-01&g=2026-01-01).
 
 ### Hoofdstuk 13. Technische Commissie Bodembeweging
 
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2017-01-01&g=2017-01-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
+##### Artikel 13.1
 
-## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2017-01-01&g=2017-01-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
-
-### A. Algemene gegevens
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2019-04-01&g=2019-04-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-### A. Algemene gegevens
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 2
-
-### 1
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### D. De vergoeding voor het nemen van een besluit, het adviseren over of instemmen met, het beoordelen van een melding, het beoordelen van gegevens en bescheiden als bedoeld in [artikel 133, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) en een rapport inzake grote gevaren, als bedoeld in [artikel 127, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=127)
-
-Het STZ aanloopgebied Scheldemonden wordt begrensd door een lijn die de volgende punten verbindt: vanaf de landsgrens via de 12 mijlsgrens via punt 285 naar 289 (beide gelegen op de 12 mijlsgrens), 288, 287 naar 364, vervolgens langs de gemeentegrens via de landsgrens naar de 12 mijlsgrens.
-
-## Bijlage 5. behorende bij [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2017-01-01&g=2017-01-01)
-
-In deze bijlage staan de gebieden beschreven, genoemd in [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2017-01-01&g=2017-01-01) van de regeling. In de beschrijving wordt gebruik gemaakt van letters. Deze letters zijn in de tabel bij deze bijlage gedefinieerd met posities in 2 cijfers achter de komma. Achter de tabel zijn de gebieden weergegeven op een kaart.
-
-Gebieden:
-
-Schietgebied nabij Petten (Near Petten) wordt begrensd door een cirkelboog met een straal van 9 zeemijlen beginnend in punt A begrensd door de sector 254° tot en met 000°.
-
-Schietgebied nabij Petten (Near Petten) wordt begrensd door een cirkelboog met een straal van 14 zeemijlen beginnend in punt B begrensd door de sector 225° tot en met 345°.
-
-Schietgebied ten westen van Kaap Hoofd (West of Kaap Hoofd) wordt begrensd door een cirkelboog met een straal van 10 zeemijlen beginnend in punt C begrensd door de sector 260° tot en met 338°.
-
-Marine oefengebied ten westen van Haaksgronden (West of Haaksgronden) wordt begrensd door de parallellen 53° 05’ N en 53° 13’ N en de meridianen 003° 45’ E en 004° 10’ E.
-
-Schietgebied Vliehors (Vliehors) wordt begrensd door een cirkelboog met een straal van 4 zeemijlen beginnend in punt D begrensd door de sector 275° tot en met 005°.
-
-Schietgebied benoorden Waddeneilanden (North of Waddeneilanden) wordt begrensd door een lijn die de volgende punten verbindt: E, F, G, H, I, E.
-
-| Punt | X-geografisch | Y-geografisch |
-| --- | --- | --- |
-| A | 52° 47',10 N | 004° 40',30 E |
-| B | 52° 47',70 N | 004° 40',30 E |
-| C | 52° 57',40 N | 004° 44',30 E |
-| D | 53° 14',35 N | 004° 55',22 E |
-| E | 53° 35',96 N | 004° 45',92 E |
-| F | 53° 59',96 N | 004° 45',92 E |
-| G | 53° 59',96 N | 006° 06',36 E |
-| H | 53° 51',06 N | 006° 13',89 E |
-| I | 53° 37',59 N | 005° 05',92 E |
-
-Kaart behorende bij bijlage 5
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 8.2.3a.1
-
-1. Een werkprogramma voor het stimuleren van een voorkomen via een put bevat:
-
-- a. voor putten op zee:
-
-- 1°. de letter en nummeraanduiding van het blok waarbinnen de te stimuleren put zich bevindt;
-
-- 2°. de aanduiding van de put;
-
-- 3°. de plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
-
-- 4°. een opgave van de hoogte van de boortafel of van een ander, nader aan te geven referentiepunt in meters ten opzichte van zowel de gemiddelde waterstand als de zeebodem;
-
-- b. voor putten op land:
-
-- 1°. de naam van de gemeente waarbinnen de te stimuleren put zich bevindt;
-
-- 2°. de benaming van de put;
-
-- 3°. de plaats van het aanzetpunt van de put uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem en
-
-- 4°. een opgave van de hoogte van zowel het maaiveld als de boortafel of een ander, nader aan te geven referentiepunt, een en ander in meters ten opzichte van N.A.P..
-
-2. Voorts bevat het werkprogramma tenminste:
-
-- a. de samenhang tussen verschillende voorgenomen stimulatieactiviteiten indien er sprake is van meerdere stimulatieactiviteiten in dezelfde formatie;
-
-- b. de reden van het stimuleren alsmede een kort overzicht van het gedrag van en mogelijke problemen met de put sinds de aanleg of, indien het voorkomen eerder is gestimuleerd, de reden van de eerdere stimulatieactiviteit;
-
-- c. de datum van de oorspronkelijke afwerking, van de laatste reparatie of de laatste stimulatieactiviteit;
-
-- d. een schets van de deviatie, indien van toepassing;
-
-- e. een opgave van het referentievlak van waaruit de dieptematen worden opgegeven;
-
-- f. een beschrijving met tekeningen van:
-
-- 1°. de verbuizing met specificaties;
-
-- 2°. de cementatiediepte;
-
-- 3°. de diepte van de top van de annulaire cementkolommen, en
-
-- 4°. de diepte van de doorboorde formaties;
-
-- g. over de integriteitsbeheersing van de put een beschrijving van:
-
-- 1°. de deugdelijkheid van de aanwezige annulaire cementkolommen onder opgave van de hiertoe uit te voeren integriteitsmetingen;
-
-- 2°. de wijze waarop de integriteit van de put voor en na het stimuleren van het voorkomen wordt gemeten en zeker gesteld, en
-
-- 3°. de wijze waarop de geohydrologische eenheden tijdens en na het stimuleren worden beschermd;
-
-- h. een beschrijving met tekeningen van de afwerking boven of onder oppervlaktewater, inclusief specificaties van het spuitkruis;
-
-- i. een beschrijving van de ondergrondse afwerking van de put;
-
-- j. de verwachte maximale ingesloten bovengrondse druk en de drukken in de diverse annulaire ruimtes;
-
-- k. de formatiedruk en de referentiediepte;
-
-- l. de ondergrondse en bovengrondse temperatuur van de put;
-
-- m. de inhoud van de opvoerserie en van de annulaire ruimten;
-
-- n. het productiemechanisme;
-
-- o. de maximale productiecapaciteit (open flow potential);
-
-- p. de naam of typeaanduiding van de installaties waarmee het stimuleren van het voorkomen wordt uitgevoerd alsmede de namen van de dienstverlenende bedrijven;
-
-- q. een beschrijving van de te gebruiken beveiligingsinstallatie voor de afsluiting van de put in de diverse fasen van het stimulatieproces;
-
-- r. een chronologisch overzicht van de voorgenomen opeenvolgende werkzaamheden in verband met de stimulatieactiviteiten, waaronder het schoon produceren van de put, waarbij zoveel mogelijk rekening wordt gehouden met van tevoren aangenomen alternatieve mogelijkheden voorzien van in het bijzonder een toelichting op uit veiligheidsoverwegingen of anderszins kritische operaties;
-
-- s. indien het stimuleren van het voorkomen bestaat uit een voorbehandeling en een hoofdbehandeling:
-
-- 1°. een beschrijving van de randvoorwaarden waaronder met de hoofdbehandeling mag worden begonnen nadat de voorbehandeling wordt uitgevoerd, en
-
-- 2°. de acties die moeten worden genomen indien niet aan deze randvoorwaarden wordt voldaan;
-
-- t. voor zover van toepassing, de methode waarmee putten worden veiliggesteld die in de nabijheid van het te stimuleren voorkomen liggen;
-
-- u. een opgave van de afwerking van de put na afronding van de stimulatieactiviteiten;
-
-- v. de geschatte tijdsduur van de werkzaamheden;
-
-- w. een beschrijving van de stoffen en hoeveelheden stoffen die bij het stimuleren worden gebruikt en geïnjecteerd onder vermelding van het registratienummer, bedoeld in artikel 64, negende lid, van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen of, in voorkomend geval, het toelatingsnummer, dat bij of krachtens de biocidenverordening of de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) aan de stof is gegeven, waaruit blijkt dat wordt voldaan aan:
-
-- 1°. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de bij of krachtens [titel 9.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.3) voor de uitvoering van die verordening gestelde voorschriften;
-
-- 2°. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels en de bij of krachtens [titel 9.3a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.3a) voor de uitvoering van die verordening gestelde voorschriften, en
-
-- 3°. de biocidenverordening en de bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) voor de uitvoering van die verordening gestelde voorschriften;
-
-- x. een beschrijving van de geochemische reacties die kunnen optreden tussen de vloeistoffen die voor het stimuleren worden gebruikt, de formaties en de vloeistoffen die aanwezig zijn in deze formaties, waaronder een beschrijving van de samenstelling en de effecten van mogelijke reactieproducten;
-
-- y. een beschrijving van de volumebalans van de vloeistoffen die voor het stimuleren worden gebruikt, vóór en na het stimuleren van het voorkomen;
-
-- z. een beschrijving van de wijze waarop de integriteit en bescherming van de afdichtende formaties boven en onder het te stimuleren voorkomen wordt zeker gesteld;
-
-- aa. een beschrijving van het profiel en de oriëntatie van het stimuleren van het voorkomen ten opzichte van de put, waaronder grafische weergaven daarvan, alsmede de wijze hoe dit profiel en deze oriëntatie zijn bepaald onder opgave van:
-
-- 1°. een beschrijving van de afleiding van de gebruikte ondergrondse gesteentespanningen en eigenschappen en de onzekerheden die daarbij zijn aangenomen en
-
-- 2°. de afstand van de put tot natuurlijke breuken in de richting van het te stimuleren voorkomen;
-
-- bb. een beschrijving van de seismische risico’s, inclusief de voorzieningen om seismiciteit te meten en maatregelen om te handelen indien seismiciteit optreedt,
-
-- cc. een beschrijving van criteria voor andere stimulatieactiviteiten in dezelfde formatie, en
-
-- dd. gekozen afstanden tot andere uitgevoerde of uit te voeren stimulatieactiviteiten in dezelfde formatie.
-
-##### Artikel 8.2.3a.2
-
-1. Het werkprogramma voor het stimuleren van een voorkomen via een put is tenminste zes weken voor de aanvang van de betrokken werkzaamheden in het bezit van de inspecteur-generaal der mijnen.
-
-2. [Artikel 8.2.1.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.1&artikel=8.2.1.2&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
-
-##### Artikel 8.2.3a.3
-
-Deze paragraaf is van overeenkomstige toepassing op boorgaten.
-
-#### § 8.2.2. Rapportages
-
-### Afdeling 8.3. Regels bij aanleg van boorgaten alsmede gebruik en reparatie van putten
-
-#### § 8.2.4. Werkprogramma voor het buiten gebruik stellen van boorgaten en putten
-
-#### §. Periodieke beveiligingsoefeningen in verband met boorgaten en putten
-
-#### § 8.3.1. Beveiligingen bij het aanleggen, wijzigen of uitbreiden van boorgaten
-
-### Afdeling 8.3. Regels bij het aanleggen, wijzigen, uitbreiden van boorgaten alsmede gebruik en reparatie van putten
-
-### Afdeling 8.4. Inrichting van putten
-
-#### § 8.5.1. Algemeen
-
-#### § 8.5.2. Regels over buiten gebruik stellen
-
-### Hoofdstuk 9. Gebruik en lozen van oliehoudende mengsels en chemicaliën
-
-#### § 8.3.5. Putintegriteit
-
-### Hoofdstuk 10. Pijpleidingen
-
-##### Artikel 10.3
-
-1. De beheerder voert het onderzoek naar de eigenschappen van een pijpleiding uit in een zodanige frequentie dat de integriteit van de pijpleiding, onder meer in verband met het risico op schade, op elk moment kan worden aangetoond.
-
-2. De beheerder voert het onderzoek naar de ligging van een pijpleiding die in de territoriale zee of op het continentaal plat is aangelegd, uit in een frequentie van ten minste één keer per jaar.
-
-3. De beheerder beschrijft de gekozen frequentie en de motivering voor die keuze alsmede de uitkomsten van de onderzoeken voor elke pijpleiding in een daartoe ingericht veiligheidsbeheerssysteem.
-
-### Hoofdstuk 9. Gebruik en lozen van oliehoudende mengsels en chemicaliën
-
-#### § 9.1. Oliehoudende mengsels
-
-#### § 11.3. Te gebruiken eenheden
-
-#### § 11.4. Aan te wijzen instelling
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
+*Vervallen*
 
 ### hoofdstuk 14. Overgangsbepalingen
 
-#### § 11a.1. Toepassingsbereik
+#### § 14.1. Overgangsbepalingen met betrekking tot helikopterdekken
 
-#### § 11a.1. Toepassingsbereik
+##### Artikel 14.1.1
 
-#### § 11a.7. Voorzieningen voor toezichthouder
+*Vervallen*
+
+#### § 14.2. Overgangsbepalingen met betrekking tot boorgaten en putten
+
+##### Artikel 14.2.1
+
+1. Een ontheffing als bedoeld in artikel 2, derde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een buitentoepassingverklaring als bedoeld in [artikel 8.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.1&z=2026-01-01&g=2026-01-01).
+
+2. Een ontheffing als bedoeld in artikel 6, zesde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.1.4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2026-01-01&g=2026-01-01).
+
+3. Een ontheffing als bedoeld in artikel 7, tweede lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.5&z=2026-01-01&g=2026-01-01).
+
+4. Een ontheffing als bedoeld in artikel 15, vierde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.2&z=2026-01-01&g=2026-01-01).
+
+5. Een ontheffing als bedoeld in artikel 20, vierde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.4.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.4&artikel=8.3.4.1&z=2026-01-01&g=2026-01-01).
+
+##### Artikel 14.2.2
+
+1. Ontheffingen met betrekking tot de inrichting van putten, welke zijn verkregen voor inwerkingtreding van deze regeling, gelden als ontheffingen als bedoeld in [hoofdstuk 8, afdeling 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.4&z=2026-01-01&g=2026-01-01).
+
+2. Ontheffingen met betrekking tot de verbuizing van een buiten gebruik te stellen put, welke zijn verkregen voor inwerkingtreding van deze regeling, gelden als ontheffingen als bedoeld in [artikel 8.5.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.2&artikel=8.5.2.7&z=2026-01-01&g=2026-01-01).
+
+#### § 14.3. Overgangsbepalingen met betrekking tot oliehoudende mengsels en andere chemicaliën
+
+##### Artikel 14.3.1
+
+1. Een ontheffing als bedoeld in artikel 3, tweede lid, van de Regeling lozing van oliehoudende mengsels geldt als een ontheffing als bedoeld in [artikel 9.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2026-01-01&g=2026-01-01).
+
+2. Een ontheffing als bedoeld in artikel 4, vierde lid, van de Regeling lozing van oliehoudende mengsels geldt als een ontheffing als bedoeld in [artikel 9.1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.4&z=2026-01-01&g=2026-01-01).
+
+3. Een ontheffing als bedoeld in artikel 5, tweede lid, van de Regeling lozing van oliehoudende mengsels geldt als een ontheffing als bedoeld in [artikel 9.1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2026-01-01&g=2026-01-01).
+
+##### Artikel 14.3.2
+
+Op mijnbouwinstallaties die geplaatst zijn voor 1 januari 1988 zijn de in [artikel 9.1.5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2026-01-01&g=2026-01-01), genoemde normen van toepassing met ingang van 1 oktober 2003, mits tot dat tijdstip op deze installaties de best beschikbare technieken, bedoeld in aanhangsel 1 bij het Osparverdrag, worden toegepast om het alifatische oliegehalte niet meer dan 100 milligram olie per liter en het maandelijks gemiddelde alifatische oliegehalte niet meer dan 40 milligram olie per liter te laten bedragen.
+
+#### § 14.4. Overgangsbepalingen met betrekking tot de invoering van het ETRS89 systeem
 
 ##### Artikel 14.4.1
 
@@ -4166,7 +3224,7 @@ Een werkprogramma met een plaatsbepaling uitgedrukt in geografische coördinaten
 
 Een werkprogramma met een plaatsbepaling uitgedrukt in het coördinatenstelsel van de Rijksdriehoekmeting, dat wordt ingediend voor het tijdstip, bedoeld in [artikel 14.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=14&paragraaf=14.4&artikel=14.4.1&z=2026-01-01&g=2026-01-01) in verband met werkzaamheden nadat tijdstip wordt slechts in behandeling genomen, nadat de indiener de geografische coördinaten opnieuw heeft berekend en ingediend volgens het ETRS89 systeem.
 
-#### § 11a.4. Bedrijfsbeleid inzake het voorkomen van zware ongevallen en het veiligheids- en milieubeheersingssysteem
+#### § 14.5. Overgangsbepalingen met betrekking tot de verstrekking van gegevens
 
 ##### Artikel 14.4.4
 
@@ -4174,2601 +3232,14 @@ In afwijking van [artikel 11.1.1, tweede lid, onderdeel c](https://wetten.overhe
 
 ### Hoofdstuk 15. Slotbepalingen
 
-### 2
+##### Artikel 15.1
 
-## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2017-08-29&g=2017-08-29) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
+Deze regeling treedt in werking met ingang van 1 januari 2003, met dien verstande dat:
 
-## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2017-08-29&g=2017-08-29) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2017-08-29&g=2017-08-29)
+- a. de [artikelen 9.2.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.3&z=2026-01-01&g=2026-01-01), [9.2.4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.4&z=2026-01-01&g=2026-01-01), en [9.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2026-01-01&g=2026-01-01), met ingang van 1 juli 2003 in werking treden;
 
-## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2018-01-01&g=2018-01-01) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2018-01-01&g=2018-01-01)
+- b. [artikel 9.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&artikel=9.3.2&z=2026-01-01&g=2026-01-01) met ingang van 1 januari 2004 in werking treedt.
 
-### A. Algemene gegevens
+##### Artikel 15.2
 
-### a. aanloopgebieden
-
-### 2
-
-De zuidoost gaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden Noord (IJmuiden North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 153, 166, 167, 168, 155, 153. De noord westgaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden Noord (IJmuiden North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 168, 167, 169, 170, 162, 161, 168.
-
-Het voorzorgsgebied Noord Hinder (North Hinder Junction precautionary area) wordt begrensd door een lijn die de volgende punten verbindt: het snijpunt van de lijn tussen 001 en 002 beginnend bij de grens van het continentaal plat, 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013, 014, 015, 016, 017, 018, en het snijpunt van de lijn tussen 018 en 019 eindigend bij de grens van het continentaal plat.
-
-De oost gaande verkeersbaan van het verkeersscheidingsstelsel Maas West Buiten (Maas West Outer TSS) wordt begrensd door een lijn die de volgende punten verbindt: 018, 017, 020, 021, 018. De west gaande verkeersbaan van het verkeersscheidingsstelsel Maas West Buiten (Maas West Outer TSS) wordt begrensd door een lijn die de volgende punten verbindt: 010, 009, 022, 023, 010.
-
-Het voorzorgsgebied Maas (Maas Junction precautionary area) wordt begrensd door een lijn die de volgende punten verbindt: 021, 020, 024, 025, 023, 022, 026, 027, 028, 029, 030, 031, 021.
-
-### c. restrictiegebieden
-
-De diepwater route leidend naar Europoort, bestaande uit het aanloopgebied Noord Hinder, aanloopgebied Eurogeul, de Eurogeul en de Maasgeul (Eurogeul approach area, Eurogeul, Maasgeul) wordt begrensd door een lijn die de volgende punten verbindt: 054, 055, 056, van 057 naar 059 met een cirkeldeel met middelpunt 058, 013, van 060 naar 061 met een cirkeldeel met middelpunt 062, 025, 028, 037, 063, van 064 naar 066 met een cirkeldeel met middelpunt 065, 067, 068, 069, 070, 071, van 072 naar 074 met een cirkeldeel met middelpunt 073, 036, van 075 naar 077 met een cirkeldeel met middelpunt 076, 078, 029, 024, 014, 079, 080, 081, 082, 083, 054.
-
-De diepwater route van Noord Hinder naar Nabij Bruine Bank (DW Route from North Hinder to TSS Off Brown Ridge) op het Nederlandse deel van het continentaal plat wordt begrensd door: het snijpunt van de lijn tussen 001 en 002 beginnend bij de grens van het continentaal plat, de grens van het continentaal plat, 084 (grens continentaal plat), 085, 002 en het snijpunt van de lijn tussen 001 en 002 beginnend bij de grens van het continentaal plat.
-
-De zuid gaande verkeersbaan van het verkeersscheidingsstelsel Noord Hinder Noord (North Hinder North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 005, 086, 087, 006, 005. De noord gaande verkeersbaan van het verkeersscheidingsstelsel Noord Hinder Noord (North Hinder North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 007, 088, 089, 008, 007.
-
-De zuidoost gaande verkeersbaan van het verkeersscheidingsstelsel Maas Noord West (Maas North West TSS) wordt begrensd door een lijn die de volgende punten verbindt: 090, 091, 039, 038, 090. De noordwest gaande verkeersbaan van het verkeersscheidingsstelsel Maas Noord West (Maas North West TSS) wordt begrensd door een lijn die de volgende punten verbindt: 092, 093, 041, 040, 092.
-
-De zuid gaande verkeersbaan van het verkeersscheidingsstelsel Maas Noord (Maas North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 042, 094, 095, 096, 097, 098, 099, 043, 042. De noord gaande verkeersbaan van het verkeersscheidingsstelsel Maas Noord (Maas North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 044, 100, 101, 102, 103, 045, 044.
-
-## Bijlage 5. behorende bij [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2017-08-29&g=2017-08-29)
-
-In deze bijlage staan de gebieden beschreven, genoemd in [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2017-08-29&g=2017-08-29) van de regeling. In de beschrijving wordt gebruik gemaakt van letters. Deze letters zijn in de tabel bij deze bijlage gedefinieerd met posities in 2 cijfers achter de komma. Achter de tabel zijn de gebieden weergegeven op een kaart.
-
-Gebieden:
-
-Schietgebied nabij Petten (Near Petten) wordt begrensd door een cirkelboog met een straal van 9 zeemijlen beginnend in punt A begrensd door de sector 254° tot en met 000°.
-
-Schietgebied nabij Petten (Near Petten) wordt begrensd door een cirkelboog met een straal van 14 zeemijlen beginnend in punt B begrensd door de sector 225° tot en met 345°.
-
-Schietgebied ten westen van Kaap Hoofd (West of Kaap Hoofd) wordt begrensd door een cirkelboog met een straal van 10 zeemijlen beginnend in punt C begrensd door de sector 260° tot en met 338°.
-
-Marine oefengebied ten westen van Haaksgronden (West of Haaksgronden) wordt begrensd door de parallellen 53° 05’ N en 53° 13’ N en de meridianen 003° 45’ E en 004° 10’ E.
-
-Schietgebied Vliehors (Vliehors) wordt begrensd door een cirkelboog met een straal van 4 zeemijlen beginnend in punt D begrensd door de sector 275° tot en met 005°.
-
-Schietgebied benoorden Waddeneilanden (North of Waddeneilanden) wordt begrensd door een lijn die de volgende punten verbindt: E, F, G, H, I, E.
-
-| Punt | X-geografisch | Y-geografisch |
-| --- | --- | --- |
-| A | 52° 47',10 N | 004° 40',30 E |
-| B | 52° 47',70 N | 004° 40',30 E |
-| C | 52° 57',40 N | 004° 44',30 E |
-| D | 53° 14',35 N | 004° 55',22 E |
-| E | 53° 35',96 N | 004° 45',92 E |
-| F | 53° 59',96 N | 004° 45',92 E |
-| G | 53° 59',96 N | 006° 06',36 E |
-| H | 53° 51',06 N | 006° 13',89 E |
-| I | 53° 37',59 N | 005° 05',92 E |
-
-Kaart behorende bij bijlage 5
-
-## Bijlage 5. behorende bij [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2018-01-01&g=2018-01-01)
-
-In deze bijlage staan de gebieden beschreven, genoemd in [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2018-01-01&g=2018-01-01) van de regeling. In de beschrijving wordt gebruik gemaakt van letters. Deze letters zijn in de tabel bij deze bijlage gedefinieerd met posities in 2 cijfers achter de komma. Achter de tabel zijn de gebieden weergegeven op een kaart.
-
-Gebieden:
-
-Schietgebied nabij Petten (Near Petten) wordt begrensd door een cirkelboog met een straal van 9 zeemijlen beginnend in punt A begrensd door de sector 254° tot en met 000°.
-
-Schietgebied nabij Petten (Near Petten) wordt begrensd door een cirkelboog met een straal van 14 zeemijlen beginnend in punt B begrensd door de sector 225° tot en met 345°.
-
-Schietgebied ten westen van Kaap Hoofd (West of Kaap Hoofd) wordt begrensd door een cirkelboog met een straal van 10 zeemijlen beginnend in punt C begrensd door de sector 260° tot en met 338°.
-
-Marine oefengebied ten westen van Haaksgronden (West of Haaksgronden) wordt begrensd door de parallellen 53° 05’ N en 53° 13’ N en de meridianen 003° 45’ E en 004° 10’ E.
-
-Schietgebied Vliehors (Vliehors) wordt begrensd door een cirkelboog met een straal van 4 zeemijlen beginnend in punt D begrensd door de sector 275° tot en met 005°.
-
-Schietgebied benoorden Waddeneilanden (North of Waddeneilanden) wordt begrensd door een lijn die de volgende punten verbindt: E, F, G, H, I, E.
-
-| Punt | X-geografisch | Y-geografisch |
-| --- | --- | --- |
-| A | 52° 47',10 N | 004° 40',30 E |
-| B | 52° 47',70 N | 004° 40',30 E |
-| C | 52° 57',40 N | 004° 44',30 E |
-| D | 53° 14',35 N | 004° 55',22 E |
-| E | 53° 35',96 N | 004° 45',92 E |
-| F | 53° 59',96 N | 004° 45',92 E |
-| G | 53° 59',96 N | 006° 06',36 E |
-| H | 53° 51',06 N | 006° 13',89 E |
-| I | 53° 37',59 N | 005° 05',92 E |
-
-Kaart behorende bij bijlage 5
-
-## Bijlage 6. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 7. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 8. behorende bij de artikelen 4.3.3, vierde lid, en 4.4.6, tweede lid
-
-Vervallen
-
-## Bijlage 9. behorende bij artikel 4.4.3, achtste lid
-
-Vervallen
-
-## Bijlage 5. behorende bij [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2019-01-01&g=2019-01-01)
-
-In deze bijlage staan de gebieden beschreven, genoemd in [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2019-01-01&g=2019-01-01) van de regeling. In de beschrijving wordt gebruik gemaakt van letters. Deze letters zijn in de tabel bij deze bijlage gedefinieerd met posities in 2 cijfers achter de komma. Achter de tabel zijn de gebieden weergegeven op een kaart.
-
-Gebieden:
-
-Schietgebied nabij Petten (Near Petten) wordt begrensd door een cirkelboog met een straal van 9 zeemijlen beginnend in punt A begrensd door de sector 254° tot en met 000°.
-
-Schietgebied nabij Petten (Near Petten) wordt begrensd door een cirkelboog met een straal van 14 zeemijlen beginnend in punt B begrensd door de sector 225° tot en met 345°.
-
-Schietgebied ten westen van Kaap Hoofd (West of Kaap Hoofd) wordt begrensd door een cirkelboog met een straal van 10 zeemijlen beginnend in punt C begrensd door de sector 260° tot en met 338°.
-
-Marine oefengebied ten westen van Haaksgronden (West of Haaksgronden) wordt begrensd door de parallellen 53° 05’ N en 53° 13’ N en de meridianen 003° 45’ E en 004° 10’ E.
-
-Schietgebied Vliehors (Vliehors) wordt begrensd door een cirkelboog met een straal van 4 zeemijlen beginnend in punt D begrensd door de sector 275° tot en met 005°.
-
-Schietgebied benoorden Waddeneilanden (North of Waddeneilanden) wordt begrensd door een lijn die de volgende punten verbindt: E, F, G, H, I, E.
-
-| Punt | X-geografisch | Y-geografisch |
-| --- | --- | --- |
-| A | 52° 47',10 N | 004° 40',30 E |
-| B | 52° 47',70 N | 004° 40',30 E |
-| C | 52° 57',40 N | 004° 44',30 E |
-| D | 53° 14',35 N | 004° 55',22 E |
-| E | 53° 35',96 N | 004° 45',92 E |
-| F | 53° 59',96 N | 004° 45',92 E |
-| G | 53° 59',96 N | 006° 06',36 E |
-| H | 53° 51',06 N | 006° 13',89 E |
-| I | 53° 37',59 N | 005° 05',92 E |
-
-Kaart behorende bij bijlage 5
-
-## Bijlage 6. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 7. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 8. behorende bij de artikelen 4.3.3, vierde lid, en 4.4.6, tweede lid
-
-Vervallen
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 12.2
-
-1. De vergoeding, bedoeld in [artikel 133, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133), bedraagt ten aanzien van mijnbouwactiviteiten met betrekking tot koolwaterstoffen de vergoeding, bedoeld in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=15&z=2026-01-01&g=2026-01-01).
-
-2. De vergoeding, bedoeld in [artikel 133, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133), bedraagt ten aanzien van mijnbouwactiviteiten met betrekking tot aardwarmte de vergoeding, bedoeld in [bijlage 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=15a&z=2026-01-01&g=2026-01-01).
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
-
-#### § 11a.3. Intern rampenplan
-
-#### § 11a.4. Bedrijfsbeleid inzake het voorkomen van zware ongevallen en het veiligheids- en milieubeheersingssysteem
-
-#### § 11a.3. Intern rampenplan
-
-#### § 11a.6. Kennisgevingen en informatie-uitwisseling
-
-### hoofdstuk 14. Overgangsbepalingen
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2018-01-01&g=2018-01-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2018-01-01&g=2018-01-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2022-01-01&g=2022-01-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-### 2
-
-### Overige gebieden
-
-### B. Financiële gegevens
-
-### 1
-
-De oost gaande verkeersbaan van het verkeersscheidingsstelsel Maas West Binnen (Maas West Inner TSS) wordt begrensd door een lijn die de volgende punten verbindt: 031, 030, 032, 033, 031. De west gaande verkeersbaan van het verkeersscheidingsstelsel Maas West Binnen (Maas West Inner TSS) wordt begrensd door een lijn die de volgende punten verbindt: 027, 026, 034, 035, 027.
-
-### c. restrictiegebieden
-
-Het voorzorgsgebied Rijnveld (Rijnveld Precautionary Area) wordt begrensd door een lijn die de volgende punten verbindt: 104, 105, 106, 107, 108, 109, 110, 111, 112, 104.
-
-## Bijlage 5. behorende bij [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2019-04-01&g=2019-04-01)
-
-In deze bijlage staan de gebieden beschreven, genoemd in [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2019-04-01&g=2019-04-01) van de regeling. In de beschrijving wordt gebruik gemaakt van letters. Deze letters zijn in de tabel bij deze bijlage gedefinieerd met posities in 2 cijfers achter de komma. Achter de tabel zijn de gebieden weergegeven op een kaart.
-
-Gebieden:
-
-Schietgebied nabij Petten (Near Petten) wordt begrensd door een cirkelboog met een straal van 9 zeemijlen beginnend in punt A begrensd door de sector 254° tot en met 000°.
-
-Schietgebied nabij Petten (Near Petten) wordt begrensd door een cirkelboog met een straal van 14 zeemijlen beginnend in punt B begrensd door de sector 225° tot en met 345°.
-
-Schietgebied ten westen van Kaap Hoofd (West of Kaap Hoofd) wordt begrensd door een cirkelboog met een straal van 10 zeemijlen beginnend in punt C begrensd door de sector 260° tot en met 338°.
-
-Marine oefengebied ten westen van Haaksgronden (West of Haaksgronden) wordt begrensd door de parallellen 53° 05’ N en 53° 13’ N en de meridianen 003° 45’ E en 004° 10’ E.
-
-Schietgebied Vliehors (Vliehors) wordt begrensd door een cirkelboog met een straal van 4 zeemijlen beginnend in punt D begrensd door de sector 275° tot en met 005°.
-
-Schietgebied benoorden Waddeneilanden (North of Waddeneilanden) wordt begrensd door een lijn die de volgende punten verbindt: E, F, G, H, I, E.
-
-| Punt | X-geografisch | Y-geografisch |
-| --- | --- | --- |
-| A | 52° 47',10 N | 004° 40',30 E |
-| B | 52° 47',70 N | 004° 40',30 E |
-| C | 52° 57',40 N | 004° 44',30 E |
-| D | 53° 14',35 N | 004° 55',22 E |
-| E | 53° 35',96 N | 004° 45',92 E |
-| F | 53° 59',96 N | 004° 45',92 E |
-| G | 53° 59',96 N | 006° 06',36 E |
-| H | 53° 51',06 N | 006° 13',89 E |
-| I | 53° 37',59 N | 005° 05',92 E |
-
-Kaart behorende bij bijlage 5
-
-## Bijlage 6. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-### A. Begripsbepalingen
-
-De zuidwest gaande verkeersbaan van het verkeersscheidingsstelsel West Friesland (West Friesland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 201, 205, 190, 206, 207, 202, 201. De noordoost gaande verkeersbaan van het verkeersscheidingsstelsel West Friesland (West Friesland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 203, 208, 209, 210, 211, 212, 213, 214, 204, 203.
-
-### B. De vergoeding voor het uitvoeren van taken als bedoeld in [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) in verband met een mijnbouwwerk
-
-### C. De vergoeding, bedoeld in [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133), in verband met een gastransportnet
-
-De zuidwest gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Texel (Off Texel TSS) wordt begrensd door een lijn die de volgende punten verbindt: 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 231. De zuid gaande verkeersbanen van het verkeersscheidingsstelsel Nabij Texel (Off Texel TSS) wordt begrensd door een lijn die de volgende punten verbindt: 115, 242, 241, 116, 115 en 244, 238, 237, 245, 244. De noordoost gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Texel (Off Texel TSS) wordt begrensd door een lijn die de volgende punten verbindt: 246, 247, 248, 249, 250, 251, 252, 253, 254, 246.
-
-### c. restrictiegebieden
-
-### E. Bijkomende vergoeding van kosten
-
-De zuid gaande verkeersbaan van het verkeersscheidingsstelsel Vlieland Noord (Vlieland North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 258, 271, 272, 259, 258. De noord gaande verkeersbaan van het verkeersscheidingsstelsel Vlieland Noord (Vlieland North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 269, 273, 274, 270, 269.
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 1.3a.1
-
-1. De vergunninghouder van het Groningenveld verricht in ieder geval de volgende metingen:
-
-- a. grondversnellingen van de aardbevingen in ruimte en tijd;
-
-- b. grondsnelheden van de aardbevingen in ruimte en tijd;
-
-- c. het aantal aardbevingen met een magnitude van 1,2 en hoger op de schaal van Richter;
-
-- d. de aardbevingsdichtheid in ruimte en tijd van aardbevingen met een magnitude van 1,2 en hoger op de schaal van Richter.
-
-2. De vergunninghouder van het Groningenveld zorgt dat de resultaten van de metingen, bedoeld in het eerste lid, doorlopend te raadplegen zijn voor de minister en de inspecteur-generaal der mijnen.
-
-3. De vergunninghouder van het Groningenveld stelt twee keer per kalenderjaar op 1 februari en op 1 augustus een analyse op over ontwikkelingen in de seismiciteit, waarin ten minste de onderdelen, genoemd in het eerste lid, aan de orde komen en verstrekt deze aan de minister en de inspecteur-generaal der mijnen.
-
-##### Artikel 1.3a.2
-
-1. Indien de vergunninghouder van het Groningenveld één of meer van de volgende metingen doet, verstrekt hij de resultaten van die metingen binnen 48 uur aan de minister en de inspecteur-generaal der mijnen:
-
-- a. het aantal aardbevingen over de afgelopen zes maanden met een magnitude van 1,2 en hoger op de schaal van Richter is meer dan 30 per jaar;
-
-- b. het aantal aardbevingen over de afgelopen zes maanden met een magnitude van 1,2 en hoger op de schaal van Richter is meer dan 40 per jaar;
-
-- c. de aardbevingsdichtheid over de afgelopen zes maanden jaar met een magnitude van 1,2 en hoger op de schaal van Richter is meer dan 0,30 per vierkante kilometer per jaar;
-
-- d. de aardbevingsdichtheid over de afgelopen zes maanden met een magnitude van 1,2 en hoger op de schaal van Richter is meer dan 0,40 per vierkante kilometer per jaar.
-
-2. De verplichting, bedoeld in het eerste lid, geldt niet zolang na de verstrekking van de resultaten van de eerste meting de daaropvolgende meting of de daaropvolgende metingen binnen dezelfde categorie blijven zoals omschreven in het eerste lid, onderdelen a tot en met d.
-
-3. Bij overschrijding van de parameters, genoemd in het eerste lid, onderdelen b en d, analyseert de vergunninghouder van het Groningenveld de ontwikkeling van de seismiciteit. De vergunninghouder van het Groningenveld verstrekt de analyse binnen twee weken na de waarneming aan de minister en de inspecteur-generaal der mijnen.
-
-4. Indien de analyse, bedoeld in het derde lid, duidt op een tot dat moment onverwachte ontwikkeling van de seismiciteit verricht de vergunninghouder van het Groningenveld een aanvullende analyse waarin nader onderzoek wordt gedaan naar de geofysische oorzaken, gevolgen en risico’s van deze ontwikkeling. Deze analyse ziet op zowel de korte termijn van vijf jaar als de lange termijn van dertig jaar. De vergunninghouder verstrekt de analyse binnen een jaar na de meting, bedoeld in het eerste lid, aan de minister en de inspecteur-generaal der mijnen.
-
-##### Artikel 1.3a.3
-
-1. Indien de vergunninghouder van het Groningenveld één of meer van de volgende metingen doet, verstrekt hij de resultaten van iedere meting terstond aan de minister en de inspecteur-generaal der mijnen:
-
-- a. een grondversnelling groter dan 0,08 g;
-
-- b. een grondsnelheid groter dan 50 millimeter per seconde.
-
-2. De vergunninghouder van het Groningenveld stuurt een eerste analyse van het bereiken van de waarde, bedoeld in het eerst lid, en de mogelijke gevolgen daarvan voor de veiligheidsrisico’s, binnen 48 uur na de meting aan de minister en de inspecteur-generaal der mijnen.
-
-3. De vergunninghouder van het Groningenveld voert binnen twee weken na de waarneming een nadere analyse uit en verstrekt deze analyse aan de minister en de inspecteur-generaal der mijnen.
-
-4. Indien de analyse, bedoeld in het derde lid, duidt op een tot dat moment onverwachte ontwikkeling van de seismiciteit verricht de vergunninghouder van het Groningenveld een aanvullende analyse waarin nader onderzoek wordt gedaan naar de geofysische oorzaken, gevolgen en risico’s van deze ontwikkeling. Deze analyse ziet op zowel de korte termijn van vijf jaar als de lange termijn van dertig jaar. De vergunninghouder verstrekt de analyse binnen een jaar na de meting, bedoeld in het eerste lid, aan de minister en de inspecteur-generaal der mijnen.
-
-##### Artikel 1.3a.4
-
-1. De vergunninghouder van het Groningenveld verstrekt de resultaten van een meting van een aardbeving met een magnitude van 3,0 en hoger op de schaal van Richter terstond aan de minister en de inspecteur-generaal der mijnen, en vult deze melding binnen 48 uur aan met een eerste analyse van de aardbeving en de veiligheidsrisico’s.
-
-2. De vergunninghouder van het Groningenveld voert binnen twee weken na de waarneming een nadere analyse van de aardbeving uit en verstrekt deze analyse aan de minister en de inspecteur-generaal der mijnen.
-
-3. Indien de analyse, bedoeld in het tweede lid, duidt op een tot dat moment onverwachte ontwikkeling van de seismiciteit verricht de vergunninghouder van het Groningenveld een aanvullende analyse waarin nader onderzoek wordt gedaan naar de geofysische oorzaken, gevolgen en risico’s van deze ontwikkeling. Deze analyse ziet op zowel de korte termijn van vijf jaar als de lange termijn van dertig jaar. De vergunninghouder verstrekt de analyse binnen een jaar na de meting, bedoeld in het eerste lid, aan de minister en de inspecteur-generaal der mijnen.
-
-#### § 1.5. Aanvraag vergunningen en ontheffingen bij verkenningsonderzoek
-
-#### § 1.6. Aanvraag vergunningen en ontheffingen mijnbouwwerken
-
-#### § 1.9. Aanvraag vergunning winning kalksteen of ander gebruik groeve
-
-#### § 1.6a. Melding buiten werking mijnbouwwerk, kabel of pijpleiding
-
-#### § 1.6c. Aanvraag instemming met rapport over verwijdering mijnbouwwerk, kabel of pijpleiding
-
-#### § 1.8. Aanvraag splitsing of samenvoeging vergunning(en)
-
-### Hoofdstuk 2. Verkenningsonderzoek
-
-#### § 2.4. Het boren van schietgaten
-
-#### § 1.12. Veiligheidszone
-
-#### § 2.3. Opslag van ontplofbare stoffen
-
-#### § 2.5. Het gereed maken van de lading
-
-### Hoofdstuk 4. Het binnenkomen of verlaten van de Nederlandse wateren van een bestaande productie-installatie
-
-### Hoofdstuk 5. Herkenningstekens, geluidsbakens en lichtbakens
-
-### Hoofdstuk 5. Herkenningstekens, geluidsbakens en lichtbakens
-
-#### § 6.2. Communicatiemiddelen
-
-#### § 6.3. Meteorologische en oceanografische apparatuur
-
-### Hoofdstuk 7. Onderzoek naar sterkte mijnbouwinstallaties en wijze van verwijdering van onder het oppervlaktewater gelegen mijnbouwinstallaties
-
-### Hoofdstuk 8. Boorgaten en putten
-
-### Afdeling 8.1. Algemeen
-
-### Afdeling 8.2. Werkprogramma's voor boorgaten en putten alsmede rapportages voor boorgaten
-
-#### § 8.2.1. Werkprogramma voor het aanleggen, uitbreiden of wijzigen van boorgaten
-
-#### § 6.3. Meteorologische en oceanografische apparatuur
-
-#### § 8.2.1. Werkprogramma voor het aanleggen, uitbreiden of wijzigen van boorgaten
-
-### Afdeling 8.3. Regels bij het aanleggen, wijzigen, uitbreiden van boorgaten alsmede gebruik en reparatie van putten
-
-#### § 8.2.3. Werkprogramma voor reparatie van putten
-
-#### § 8.2.4. Werkprogramma voor het buiten gebruik stellen van boorgaten en putten
-
-#### §. Periodieke beveiligingsoefeningen in verband met boorgaten en putten
-
-#### § 8.3.4. Reparatie van een put
-
-### Afdeling 8.4. Inrichting van putten
-
-### Afdeling 8.5. Het buiten gebruik stellen van boorgaten en putten
-
-#### §. Periodieke beveiligingsoefeningen in verband met boorgaten en putten
-
-#### § 8.3.4. Reparatie van een put
-
-### Hoofdstuk 9. Gebruik en lozen van oliehoudende mengsels en chemicaliën
-
-#### § 9.2. Gebruik en lozing van chemicaliën
-
-### Hoofdstuk 10. Pijpleidingen
-
-### Hoofdstuk 10. Pijpleidingen
-
-#### § 11.1. Te verstrekken gegevens
-
-### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
-
-### hoofdstuk 14. Overgangsbepalingen
-
-#### § 14.3. Overgangsbepalingen met betrekking tot oliehoudende mengsels en andere chemicaliën
-
-#### § 14.4. Overgangsbepalingen met betrekking tot de invoering van het ETRS89 systeem
-
-#### § 11a.5. Onafhankelijke verificatie
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2019-01-01&g=2019-01-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-### 1
-
-## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2019-01-01&g=2019-01-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
-
-### Aanloopgebied Hoek van Holland
-
-### B. Financiële gegevens
-
-### Aanloopgebied Hoek van Holland
-
-### b. scheepvaartroutes
-
-### c. restrictiegebieden
-
-De aanbevolen route Nabij Breeveertien (Recommended Route Off Breeveertien) wordt begrensd door een lijn die de volgende punten verbindt: 106, 113, 114, 115, 116, 117, 118, 107, 106.
-
-De diepwater route naar IJmuiden (DW Route Leading to IJmuiden) wordt begrensd door een lijn die de volgende punten verbindt: 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, van 130 naar 132 met een cirkeldeel met middelpunt 131, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 119.
-
-Het voorzorgsgebied oversteek IJmuiden (IJmuiden Crossing Precautionary Area) wordt begrensd door een lijn die de volgende punten verbindt: 144, 145, 142, 121. 122, 146, 147, 124, 139, 148, 149, 144.
-
-De oost gaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden West Buiten (IJmuiden West Outer TSS) wordt begrensd door een lijn die de volgende punten verbindt: 149, 148, 150, 151, 152, 149. De west gaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden West Buiten (IJmuiden West Outer TSS) wordt begrensd door een lijn die de volgende punten verbindt: 147, 146, 153, 154, 147.
-
-Het voorzorgsgebied IJmuiden (IJmuiden Junction Precautionary Area) wordt begrensd door een lijn die de volgende punten verbindt: 151, 150, 138, 125, 154, 153, 155, 156, 126, 137, 157, 158, 151.
-
-## Bijlage 7. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 8. behorende bij de artikelen 4.3.3, vierde lid, en 4.4.6, tweede lid
-
-Vervallen
-
-## Bijlage 9. behorende bij artikel 4.4.3, achtste lid
-
-Vervallen
-
-## Bijlage 10. behorende bij artikel 4.8.2
-
-Vervallen
-
-## Bijlage 5. bij de Mijnbouwregeling
-
-Het voorzorgsgebied Vlieland (Vlieland Junction Precautionary Area) wordt begrensd door een lijn die de volgende punten verbindt: 264, 269, 270, 265, 264.
-
-### B. De vergoeding voor het uitvoeren van taken als bedoeld in [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) in verband met een mijnbouwwerk
-
-### C. De vergoeding, bedoeld in [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133), in verband met een gastransportnet
-
-De vrije scheepvaartzone Nabij Schouwenbank wordt begrensd door een lijn die de volgende punten verbindt: het snijpunt van de lijn over de punten 285 en 021 snijdend met de 12 mijlsgrens, 021, 031, 286, 287, 288, het snijpunt van de lijn over de punten 287, 288 en 289 eindigend op de 12 mijlsgrens, de 12 mijlsgrens volgend tot het snijpunt van de lijn over de punten 285 en 021 snijdend met de 12 mijlsgrens.
-
-### 2.0. Put gegevens
-
-### 3.0. geologische gegevens
-
-De vrije scheepvaartzone nabij Rijnveld wordt begrensd door een lijn die de volgende punten verbindt: het snijpunt van de lijn over de punten 296 en 290 snijdend beginnend bij de grens van het continentaal plat, via het continentaal plat naar, het snijpunt van de lijn over de punten 297 en 291 snijdend beginnend bij de grens van het continentaal plat, 291, 294, 105, 104, 295, 290, het snijpunt van de lijn over de punten 296 en 290 snijdend beginnend bij de grens van het continentaal plat.
-
-## Bijlage 7. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 8.5.1.3
-
-Bij het buiten gebruik stellen van een put brengt de uitvoerder of uitvoerder aardwarmte een effectieve en duurzame afsluiting aan die voorkomt dat ondergrondse gassen en vloeistoffen door de sluitlaag naar andere gesteentelagen of naar het oppervlak kunnen stromen.
-
-##### Artikel 8.5.1.4
-
-1. De minister kan ontheffing verlenen van bepalingen van deze afdeling, indien in een effectieve en duurzame methode van buiten gebruik stellen wordt voorzien in het geval:
-
-- a. van een gedeeltelijke buitengebruikstelling;
-
-- b. van het buiten gebruik stellen van een boorgat of put die:
-
-- –. niet is gebruikt voor de opsporing of winning van koolwaterstoffen of
-
-- –. wordt gebruikt voor de opslag van stoffen;
-
-- c. dat een obstructie in het boorgat een andere wijze tot het buiten gebruik stellen van een put noodzakelijk maakt;
-
-- d. van het gebruik van een ander materiaal dan cement; of
-
-- e. de houder van de vergunning bij het buiten gebruik stellen alle maatregelen heeft genomen die redelijkerwijs van hem gevergd kunnen worden en na het buiten gebruik stellen een afsluiting minder effectief of minder duurzaam blijkt dan verwacht, onder het stellen van voorschriften voor het monitoren van de buiten gebruik gestelde put en het zo nodig nemen van mitigerende maatregelen.
-
-2. De ontheffing kan onder voorschriften of beperkingen worden verleend.
-
-#### § 8.3.5. Putintegriteit
-
-##### Artikel 8.5.3.1
-
-1. De afsluiting ter hoogte van de sluitlaag wordt aangebracht door middel van cement.
-
-2. Het cement heeft na uitharding in de lengterichting van het boorgat een dikte van:
-
-- a. ten minste honderd meter; of
-
-- b. ten minste vijftig meter, indien het cement geplaatst is bovenop een mechanische of vaste ondersteuning.
-
-3. Als deze methoden tot afsluiting niet toepasbaar zijn, wordt een andere methode of techniek toegepast die leidt tot een gelijkwaardige effectieve en duurzame afsluiting.
-
-4. Als de uitvoerder of uitvoerder aardwarmte een aanvraag om ontheffing als bedoeld in [artikel 8.5.1.4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.1&artikel=8.5.1.4&z=2026-01-01&g=2026-01-01), voor het gebruik van een ander materiaal dan cement indient, hanteert de uitvoerder of uitvoerder aardwarmte zo nodig in afwijking van het tweede lid specificaties, die resulteren in een gelijkwaardige effectieve en duurzame afsluiting.
-
-##### Artikel 8.5.3.2
-
-1. De topafsluiting wordt aangebracht:
-
-- a. op land: in de nabijheid van het maaiveld, waarbij rekening wordt gehouden met de herinrichting van het terrein;
-
-- b. onder oppervlaktewater: in de nabijheid van de bodem, indien een risico op nadelige gevolgen voor het milieu aanwezig is.
-
-2. Het putmateriaal wordt verwijderd:
-
-- a. op land tot een diepte van 3 meter onder het maaiveld of dieper als de herinrichting van het terrein dat vereist;
-
-- b. onder oppervlaktewater tot een diepte van 6 meter onder de bodem, met dien verstande dat een grotere diepte dan 6 meter wordt aangehouden, indien de mogelijkheid van verandering van de bodem daar aanleiding toe geeft.
-
-### Hoofdstuk 9. Gebruik en lozen van oliehoudende mengsels en chemicaliën
-
-#### § 9.1. Oliehoudende mengsels
-
-#### § 9.2. Gebruik en lozing van chemicaliën
-
-#### § 9.3. Registratie van chemicaliën
-
-### Hoofdstuk 11a. Verplichtingen bij de opsporing en winning van koolwaterstoffen
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
-
-### hoofdstuk 14. Overgangsbepalingen
-
-#### § 14.1. Overgangsbepalingen met betrekking tot helikopterdekken
-
-#### § 11a.5. Onafhankelijke verificatie
-
-#### § 11a.6. Kennisgevingen en informatie-uitwisseling
-
-### Hoofdstuk 15. Slotbepalingen
-
-### 2
-
-### b. scheepvaartroutes
-
-### c. restrictiegebieden
-
-De oost gaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden West Binnen (IJmuiden West Inner TSS) wordt begrensd door een lijn die de volgende punten verbindt: 158, 157, 159, 160, 158. De west gaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden West Binnen (IJmuiden West Inner TSS) wordt begrensd door een lijn die de volgende punten verbindt: 156, 155, 161, 162, 163, 164, 165, 156.
-
-De zuidoost gaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden Noord (IJmuiden North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 153, 166, 167, 168, 155, 153. De noord westgaande verkeersbaan van het verkeersscheidingsstelsel IJmuiden Noord (IJmuiden North TSS) wordt begrensd door een lijn die de volgende punten verbindt: 168, 167, 169, 170, 162, 161, 168.
-
-De zuidwest gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Botney Gronden VSS (Off Botney Ground TSS) wordt begrensd door een lijn die de volgende punten verbindt: het snijpunt van de lijn tussen 171 en 172 beginnend bij de grens van het continentaal plat, 172, 173, 174, 175, 176, 177, tot het snijpunt van de lijn tussen 177 en 178 met het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 171 en 172 beginnend bij de grens van het continentaal plat. De noordoost gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Botney Gronden VSS (Off Botney Ground TSS) wordt begrensd door een lijn die de volgende punten verbindt: het snijpunt van de lijn tussen 179 en 180 beginnend bij de grens van het continentaal plat, 180, 181, 182, 183, 184, 185, 186, 187, tot het snijpunt van de lijn tussen 187 en 188 met het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 179 en 180 beginnend bij de grens van het continentaal plat.
-
-De diepwater route van Nabij Botney Gronden VSS naar Voorzorgsgebied Friesland (DW Route from Off Botney Ground TSS to Precautionary Area Friesland Junction) wordt begrensd door een lijn die de volgende punten verbindt: 184, 183, 175, 174, 189, 190, 184.
-
-## Bijlage 6. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 7. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-De noordoost gaande verkeersbaan van het verkeersscheidingsstelsel Terschelling – Duitse Bocht (Terschelling – German Bight TSS) wordt begrensd door een lijn die de volgende punten verbindt: 267, 266, 275, 276, het snijpunt van de lijn tussen 276 en 277 eindigend bij de grens van het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 278 en 279 beginnend bij de grens van het continentaal plat, 279, 280, 267. De zuidwest gaande verkeersbaan van het verkeersscheidingsstelsel Terschelling – Duitse Bocht (Terschelling – German Bight TSS) wordt begrensd door een lijn die de volgende punten verbindt: 265, 270, 281, het snijpunt van de lijn tussen 281 en 282 eindigend bij de grens van het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 283 en 284 beginnend bij de grens van het continentaal plat, 284, 265.
-
-### 1.0. Projectgegevens
-
-## Bijlage 6. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 8. behorende bij de artikelen 4.3.3, vierde lid, en 4.4.6, tweede lid
-
-Vervallen
-
-### 1.0. Projectgegevens
-
-De vrije scheepvaartzone nabij De Ruyter wordt begrensd door een lijn die de volgende punten verbindt: 293, 292, 114, 117, 298, 299, 300, 301, 118, 113, 293.
-
-### 3.0. geologische gegevens
-
-### C. De vergoeding, bedoeld in [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133), in verband met een gastransportnet
-
-De vrije scheepvaartzone van nabij Texel VSS naar Vrije Scheepvaartzone nabij IJmuiden wordt begrensd door een lijn die de volgende punten verbindt: 303, 244, 245, 315, 316, 304, 303.
-
-### D. De vergoeding voor het nemen van een besluit, het beoordelen van een melding en een rapport inzake grote gevaren als bedoeld in [artikel 133, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133), onderscheidenlijk [artikel 127, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=127)
-
-### A. Begripsbepalingen
-
-In deze bijlage wordt verstaan onder:
-
-## Bijlage 16. Productielocaties Groningenveld (bijlage als bedoeld in [artikel 1.3a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.1&z=2019-04-01&g=2019-04-01), van de Mijnbouwregeling)
-
-| Naam productielocatie | Putnamen |
-| --- | --- |
-| Amsweer | AMR-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12 |
-| Bierum | BIR-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12,-13 |
-| De Eeker | EKR-101,-102,-103,-104,-105,-107,-108,-109,-110,-111,-112, -201,-202,-203,-204,-205,-206,-207,-208,-209, -210 |
-| Eemskanaal | EKL-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12,-13 |
-| Kooipolder | KPD-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12 |
-| Leermens | LRM-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| De Paauwen | PAU-2,-3,-4,-5,-6 |
-| Oudeweg | OWG-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Overschild | OVS-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Ten Post | POS-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Schaapbulten | SCB-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Siddeburen | SDB-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Slochteren | SLO-2,-3,-4,-5,-6,-7,-8,-9, FRB-1,-2,-3,-4,-5,-6,-7,-8 |
-| Spitsbergen | SPI-101,-102,-103,-104,-105,-106,-107,-108,-109,-110, -201,-202,-203,-204,-205,-206,-207,-208,-209 |
-| Scheemderzwaag | SZW-101,-102,-103,-104,-105,-106,-107,-108,-109, -110, -201,-202,-203,-204,-205,-206,-207,-208,-209, -210 |
-| ’t Zandt | ZND-2,-3,-4,-5,-7,-9,-10,-12 |
-| Tjuchem | TJM-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Tusschenklappen | TUS-2,-3,-4,-5,-6,-7,-8,-9,-10, SAP-6,-7,-8,-9,-10,-11,-12,-13,-15 |
-| Zuiderpolder | ZDP-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12 |
-| Zuiderveen | ZVN-2,-3,-4,-5,-7,-8,-9,-10,-11,-12,-13 |
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 1.3a.5
-
-1. De vergunninghouder van het Groningenveld verricht metingen naar de reservoirdruk in het Groningenveld door middel van drukmetingen en het gebruik van reservoirmodellen.
-
-2. De vergunninghouder van het Groningenveld stelt een keer per kalenderjaar op 1 februari een analyse op waarin de drukmetingen worden vergeleken met de modelvoorspellingen en verstrekt deze aan de minister en de inspecteur-generaal der mijnen.
-
-3. Indien de analyse, bedoeld in het tweede lid, duidt op een tot dat moment onverwachte ontwikkeling in de reservoirdruk verricht de vergunninghouder van het Groningenveld een aanvullende analyse waarin nader onderzoek wordt gedaan naar de geofysische oorzaken, gevolgen en risico’s van deze ontwikkeling. Deze analyse ziet op zowel de korte termijn van vijf jaar als de lange termijn van dertig jaar. De vergunninghouder verstrekt de analyse binnen een jaar na de analyse, bedoeld in het tweede lid, aan de minister en de inspecteur-generaal der mijnen.
-
-##### Artikel 1.3a.6
-
-1. De vergunninghouder van het Groningenveld verricht metingen naar bodemdaling.
-
-2. De vergunninghouder van het Groningenveld stelt een keer per kalenderjaar op 1 februari een analyse op over de gemeten bodemdaling en de verwachte bodemdaling van de aankomende dertig jaar en verstrekt deze aan de minister en de inspecteur-generaal der mijnen.
-
-3. Indien de analyse, bedoeld in het tweede lid, duidt op een tot op heden onverwachte ontwikkeling in bodemdaling verricht de vergunninghouder van het Groningenveld een aanvullende analyse waarin nader onderzoek wordt gedaan naar de geofysische oorzaken, gevolgen en risico’s van deze ontwikkeling. Deze analyse ziet op zowel de korte termijn van vijf jaar als de lange termijn van dertig jaar. De vergunninghouder verstrekt de analyse binnen een jaar na de analyse, bedoeld in het tweede lid, aan de minister en de inspecteur-generaal der mijnen.
-
-##### Artikel 1.3a.7
-
-Het nazorgplan, bedoeld in [artikel 52g, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=52g), bevat ten minste:
-
-- a. een beschrijving van de uitvoering van de monitorings- en analyseplicht van [artikel 1.3a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.1&z=2026-01-01&g=2026-01-01);
-
-- b. een beschrijving van de uitvoering van de meld- en analyseplicht van de trendparameters van [artikel 1.3a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.2&z=2026-01-01&g=2026-01-01);
-
-- c. een beschrijving van de uitvoering van de meld- en analyseplicht bij overschrijding van de incidentparameters van [artikel 1.3a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.3&z=2026-01-01&g=2026-01-01);
-
-- d. een beschrijving van de uitvoering van de meld- en analyseplicht van een aardbeving met een magnitude van 3.0 en hoger op de schaal van Richter van [artikel 1.3a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.4&z=2026-01-01&g=2026-01-01);
-
-- e. een beschrijving van de uitvoering van de reservoirdrukmonitoring- en analyseplicht van [artikel 1.3a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.5&z=2026-01-01&g=2026-01-01);
-
-- f. een beschrijving van de uitvoering van de monitoring- en analyseplicht van bodemdaling van [artikel 1.3a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.6&z=2026-01-01&g=2026-01-01);
-
-- g. een inventarisatie van de reeds bekende geofysische gevolgen van de gaswinning uit Groningenveld;
-
-- h. een risico-signaleringssysteem met een monitoring- en actieprotocol waarin wordt beschreven hoe risico's worden gemonitord en welke acties of maatregelen worden ingezet op het moment dat deze zich voordoen, inclusief een communicatieplan;
-
-- i. een beschrijving van de wijze waarop alle relevante kennis en data ten aanzien van de door de vergunninghouder van het Groningenveld verrichte metingen en analyses in het kader van [paragraaf 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&z=2026-01-01&g=2026-01-01) openbaar worden gemaakt;
-
-- j. een beschrijving van de ontwikkeling van een kennisdatabase waarin de analyses beschikbaar worden gesteld die de vergunninghouder van het Groningenveld verricht of heeft verricht naar de gevolgen van de gaswinning op het Groningenveld;
-
-- k. een beschrijving van de wijze waarop kennis en data die de vergunninghouder verkrijgt uit haar analyses naar de gevolgen van de gaswinning uit het Groningenveld voor de lange termijn openbaar beschikbaar wordt gehouden;
-
-- l. een beschrijving van de wijze waarop de vergunninghouder zijn kennispositie ontwikkelt en voldoende op peil houdt; en
-
-- m. een beschrijving van de uitvoering en planning van de verwijderingsplannen bedoeld in [artikel 44a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a).
-
-##### Artikel 1.3a.8
-
-1. Indien de houder van de winningsvergunning Groningenveld één of meerdere van de volgende waarnemingen doet, meldt hij iedere waarneming terstond aan de minister en de inspecteur-generaal der mijnen:
-
-- a. een grondversnelling groter dan 0,08 g;
-
-- b. een grondsnelheid groter dan 50 millimeter per seconde;
-
-2. De houder van de winningsvergunning Groningenveld stuurt een eerste analyse van het bereiken van de waarde, bedoeld in het eerst lid, en de mogelijke gevolgen daarvan voor de veiligheidsrisico’s, binnen 48 uur na de melding aan de minister en de inspecteur-generaal der mijnen.
-
-3. Binnen twee weken volgt een nadere analyse van de waarneming alsmede een toets of het veiligheidsrisico significant afwijkt van de gegevens die zijn verstrekt ter onderbouwing van de operationele strategie.
-
-##### Artikel 1.3a.9
-
-1. De houder van de winningsvergunning Groningenveld meldt een aardbeving met een magnitude van 3,0 en hoger op de schaal van Richter terstond aan de minister en de inspecteur-generaal der mijnen, en vult deze melding binnen 48 uur aan met een eerste analyse van de aardbeving en de veiligheidsrisico’s.
-
-2. Binnen twee weken volgt een nadere analyse van de aardbeving alsmede een toets of het veiligheidsrisico significant afwijkt van de gegevens die zijn verstrekt ter onderbouwing van de operationele strategie.
-
-##### Artikel 1.3a.10
-
-De rapportage, bedoeld in [artikel 52h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=52h) bevat tevens:
-
-- a. het aantal graaddagen;
-
-- b. de inzet van de clusters per kalendermaand;
-
-- c. de inzet van de gasopslag Norg per kalendermaand;
-
-- d. een overzicht van de vullingsgraad van de gasopslag Norg per kalendermaand;
-
-- e. een beschrijving van de waargenomen bodembeweging als gevolg van de inzet van de clusters;
-
-- f. een analyse van de waargenomen bodembeweging ten opzichte van gegevens over de verwachte bodembeweging;
-
-- g. een overzicht van de waargenomen productiefluctuaties in relatie tot het bepaalde hierover in de operationele strategie, en;
-
-- h. een beschrijving van de gehanteerde prioriteitsvolgorde.
-
-#### § 1.5. Aanvraag vergunningen en ontheffingen bij verkenningsonderzoek
-
-#### § 1.6. Aanvraag ontheffingen mijnbouwwerken
-
-### Hoofdstuk 2. Verkenningsonderzoek
-
-#### § 1.10. Restrictiegebieden
-
-#### § 2.5. Het gereed maken van de lading
-
-### Hoofdstuk 4. Het binnenkomen of verlaten van de Nederlandse wateren van een bestaande productie-installatie
-
-### Hoofdstuk 3. Het winnen en het opslaan van stoffen
-
-#### § 2.8. Rapportage
-
-#### § 6.2. Communicatiemiddelen
-
-#### § 6.3. Meteorologische en oceanografische apparatuur
-
-### Hoofdstuk 7. Onderzoek naar sterkte mijnbouwinstallaties en wijze van verwijdering van onder het oppervlaktewater gelegen mijnbouwinstallaties
-
-### Hoofdstuk 8. Boorgaten en putten
-
-### Afdeling 8.1. Algemeen
-
-### Afdeling 8.2. Werkprogramma's voor boorgaten en putten alsmede rapportages voor boorgaten
-
-#### § 8.2.3. Werkprogramma voor reparatie van putten
-
-#### § 8.2.2. Rapportages
-
-### Afdeling 8.3. Regels bij het aanleggen, wijzigen, uitbreiden van boorgaten alsmede gebruik en reparatie van putten
-
-#### § 8.3.1. Beveiligingen bij het aanleggen, wijzigen of uitbreiden van boorgaten
-
-#### § 8.3.2. Testen van boorgat- en schuifafsluiters
-
-### Afdeling 8.5. Het buiten gebruik stellen van boorgaten en putten
-
-#### § 8.3.4. Reparatie van een put
-
-#### § 8.5.2. Regels over het buiten gebruik stellen van putten
-
-### Hoofdstuk 9. Gebruik en lozen van oliehoudende mengsels en chemicaliën
-
-#### § 9.1. Oliehoudende mengsels
-
-#### § 9.2. Gebruik en lozing van chemicaliën
-
-### Hoofdstuk 10. Pijpleidingen
-
-### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
-
-#### § 11.5. Jaarplan Staatstoezicht op de mijnen
-
-### Hoofdstuk 12. Financiële bepaling en retributie
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
-
-#### § 14.1. Overgangsbepalingen met betrekking tot helikopterdekken
-
-#### § 11a.7. Voorzieningen voor toezichthouder
-
-#### § 11a.7. Voorzieningen voor toezichthouder
-
-#### § 14.3. Overgangsbepalingen met betrekking tot oliehoudende mengsels en andere chemicaliën
-
-### Hoofdstuk 15. Slotbepalingen
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2021-07-01&g=2021-07-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-### 3
-
-### Overige gebieden
-
-### a. aanloopgebieden
-
-### a. aanloopgebieden
-
-### c. restrictiegebieden
-
-De zuidwest gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Bruine Bank (Off Brown Ridge TSS) wordt begrensd door een lijn die de volgende punten verbindt: 192, 197, 198, 193, 192. De noordoost gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Bruine Bank (Off Brown Ridge TSS) wordt begrensd door een lijn die de volgende punten verbindt: 194, 199, 200, 195, 194.
-
-De diepwater route van Nabij Bruine Bank VSS naar West Friesland VSS (DW Route Off Brown Ridge TSS to West Friesland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 197, 201, 202, 203, 204, 200, 199, 198, 197.
-
-Het voorzorgsgebied Friesland (Friesland Junction Precautionary Area) wordt begrensd door een lijn die de volgende punten verbindt: 190, 189, 215, 216, 217, 218, 219, 220, 221, 222, 223, 212, 211, 206, 190.
-
-De west gaande verkeersbaan van het verkeersscheidingsstelsel Oost Friesland (East Friesland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 217, 216, 224, het snijpunt van de lijn tussen 224 en 225 eindigend bij de grens van het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 226 en 227 beginnend bij de grens van het continentaal plat, 227, 217. De oost gaande verkeersbaan van het verkeersscheidingsstelsel Oost Friesland (East Friesland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 219, 218, 228, het snijpunt van de lijn tussen 228 en 229 eindigend bij de grens van het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 230 en 219 beginnend bij de grens van het continentaal plat, 219.
-
-## Bijlage 8. behorende bij de artikelen 4.3.3, vierde lid, en 4.4.6, tweede lid
-
-Vervallen
-
-## Bijlage 9. behorende bij artikel 4.4.3, achtste lid
-
-Vervallen
-
-## Bijlage 10. behorende bij artikel 4.8.2
-
-Vervallen
-
-## Bijlage 11. behorende bij [artikel 8.2.2.l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.1&z=2021-07-01&g=2021-07-01)
-
-| 1.0. Projectgegevens |   |
-| --- | --- |
-|   |   |
-| 1.1 de naam van de mijnbouwonderneming |   |
-| 1.2 de aanduiding van de boring |   |
-| 1.3 de naam van de boorinstallatie |   |
-| 1.4 de naam van het bijstandsschip, indien een bijstandsschip bij de boring aanwezig is |   |
-| 1.5 de naam van de concipiant van het dagverslag |   |
-| 1.6 de telefoonnummers waarop de concipiant gedurende werkuren bereikbaar is |   |
-| 1.7 het serienummer van het dagverslag |   |
-| 1.8 de datum waarop het dagverslag van toepassing is |   |
-| 1.9 het tijdsbestek waarop het dagverslag van toepassing is. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1 de diameter (in inches) van alle verbuizingen |   |
-| 2.2 de boorbeiteldiameters (in inches) van alle verbuizingen |   |
-| 2.3 de schoendiepte (in meters) van alle in het boorprogramma voorziene verbuizingen |   |
-| 2.4 de schoendiepte (in meters) van alle gezette verbuizingen |   |
-| 2.5 de formatiesterkte van alle relevante verbuizingen, uitgedrukt in de boorspoelingsgradiënt in kPa/m, bar/l0 m of in een equivalent boorspoelingsgewicht |   |
-| 2.6 de einddiepte (in meters) van een boorgatsectie. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 3.1 het type boorspoeling op de betreffende diepte |   |
-| 3.2 de viscositeit van de boorspoeling volgens MARSH in seconden |   |
-| 3.3 het filtraatverlies volgens de standaardmethode in 0,001 m3 (cc) |   |
-| 3.4 het solidsgehalte van de boorspoeling in gr/l |   |
-| 3.5 het boorspoelingsgewicht in kN/m² of kg/dm3 |   |
-| 3.6 de viscositeit en gel van de boorspoeling volgens FANN |   |
-| 3.7 de PH van het bij 3.3. verkregen filtraat |   |
-| 3.8 het oliegehalte van de bij 3.4 verkregen vloeistof. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1 de naam van de laatstdoorboorde aardlaag |   |
-| 4.2 de top van de bovengenoemde aardlaag op de vanaf de boorvloer langs het boorgat gemeten diepte in meters waar deze werd verwacht ("along hole depth" (AHD)/"true vertical depth" (TVD)) |   |
-| 4.3 de diepte in meters waar deze top is gevonden (AHD) |   |
-| 4.4 de naam van de volgende te verwachten aardlaag |   |
-| 4.5 de verwachte top van de volgende aardlaag (AHD). |   |
-|   |   |
-| 5.0. Gegevens betreffende het verloop van de werkzaamheden |   |
-|   |   |
-| 5.1 een korte samenvatting van de werkzaamheden gedurende de verslagperiode |   |
-| 5.2 een korte samenvatting van de voorziene werkzaamheden in de daaropvolgende verslagperiode |   |
-| 5.3 een korte samenvatting van de al verrichte werkzaamheden in de daaropvolgende verslagperiode tot de rapportagetijd |   |
-|   |   |
-| 6.0. Onvoorziene gebeurtenissen |   |
-|   |   |
-| 6.1 Een korte samenvatting van alle onvoorziene gebeurtenissen gedurende de verslagperiode. |   |
-
-## Bijlage 5. bij de Mijnbouwregeling
-
-De vrije scheepvaartzone van Noord Hinder Noord VSS naar Rijnveld wordt begrensd door een lijn die de volgende punten verbindt: 088, 104, 112, 089, 088.
-
-De vrije scheepvaartzone van Voorzorgsgebied Maas naar Rijnveld wordt begrensd door een lijn die de volgende punten verbindt: 022, 111, 110, 026, 022.
-
-### 2.0. Put gegevens
-
-## Bijlage 12. behorende bij [artikel 8.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.2&z=2022-01-01&g=2022-01-01)
-
-| Het eindrapport over de aanleg of de reparatie van een boorgat of het stimuleren van een voorkomen via een put |   |
-| --- | --- |
-| Het eindrapport bestaat uit een statustekening van het boorgat of de put en bijlagen en bevat ten minste de volgende informatie: |   |
-| 1.0 projectgegevens |   |
-|   |   |
-| 1.1. Algemeen |   |
-| 1. de namen van de leidinggevenden met een aanduiding van hun functie |   |
-| 2. het tijdvak waarin deze leiding gaven. |   |
-| 1.2. Boring |   |
-| 1. een aanduiding (code of naam) van de boring inclusief sidetracks |   |
-| 2. voor putten op land: de plaats van het aanzetpunt uitgedrukt in het coördinatiestelsel van de Rijksdriehoeksmeting |   |
-| 3. voor putten op zee: de plaats van het aanzetpunt uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem |   |
-| 4. het doel van de boring |   |
-| 5. de datum van het begin van de boring en het aantal dagen op de locatie. |   |
-| 1.3. Mijnbouw- of boorinstallatie |   |
-| 1. de naam van de installatie |   |
-| 2. de namen van de eigenaren van de installatie. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1. Dieptes |   |
-| 1. de dieptereferentie in meters ten opzichte van |   |
-| a. Normaal Amsterdams Peil (NAP), indien bij de boring geen gebruik wordt gemaakt van een mijnbouwinstallatie of |   |
-| b. Mean Sea Level (MSL), indien bij de boring gebruik wordt gemaakt van een mijnbouwinstallatie |   |
-| 2. de diepte in meters ("along hole depth" (AHD) en "true vertical depth" (TVD)) aan het einde van de diepboring |   |
-| 3. de deviatieplots van de diepboring, zowel verticaal als horizontaal, op A4-formaat |   |
-| 4. de waterdiepte onder MSL, indien bij de boring gebruik wordt gemaakt van een mijnbouwinstallatie. |   |
-| 2.2. Gezette verbuizingen |   |
-| 1. de maten |   |
-| 2. de schoendiepte in meters en de diepte in meters aan de bovenzijde |   |
-| 3. de materiaalsoort en het gewicht per lengte-eenheid van de gezette verbuizing |   |
-| 4. de cementsoorten, het gewicht van de cementspecie ("slurry") en het volume van de cementspecie |   |
-| 5. de bovenzijde van het cement (theoretisch of vastgesteld) |   |
-| 6. een verbuizingsdiagram op A4-formaat. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 1. het type boorspoeling per boorgatsectie |   |
-| 2. het soortelijk gewicht van de boorspoeling als functie van de diepte. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1. Stratigrafische kolom |   |
-| 1. de diepte in meters (AHD) van de bovenzijde van de aangetroffen geologische aardlagen |   |
-| 2. de aangetroffen breukdieptes |   |
-| 3. de aangetroffen abnormale formatiedrukken. |   |
-| 4.2. Koolwaterstoffen |   |
-| 1. de aangetroffen producten |   |
-| 2. de producerende aardlagen |   |
-| 3. de maximaal geteste productie ("choke sizes" en "flowing tubing head pressure") |   |
-| 4. de ingesloten formatiedruk na het testen. |   |
-|   |   |
-| 5.0. Gegevens betreffende de putafwerking |   |
-|   |   |
-| 1. de putstatus |   |
-| 2. een tekening van de (definitief of tijdelijk) buiten gebruik gestelde put op A4-formaat |   |
-| 3. een tekening met de maten van de putmondafwerking op A4-formaat |   |
-| 4. een tekening met de maten van de spuitseries op A4-formaat. |   |
-|   |   |
-| 6.0. Ondertekening |   |
-|   |   |
-| 1. plaats |   |
-| 2. datum |   |
-| 3. handtekening van de leidinggevende. |   |
-
-## Bijlage 12a. behorende bij [artikel 8.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.2&z=2022-01-01&g=2022-01-01)
-
-## Bijlage 15. behorende bij [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=12&artikel=12.2&z=2021-07-01&g=2021-07-01)
-
-### 2.0. Put gegevens
-
-### 3.0. geologische gegevens
-
-Het te vermijden gebied bij Maas Noord wordt begrensd door een lijn die de volgende punten verbindt: 356, 357, 358, 359, 356.
-
-### D. De vergoeding voor het nemen van een besluit, het beoordelen van een melding en een rapport inzake grote gevaren als bedoeld in [artikel 133, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133), onderscheidenlijk [artikel 127, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=127)
-
-### E. Bijkomende vergoeding van kosten
-
-De vergoeding, bedoeld in de onderdelen B en D, wordt verhoogd met:
-
-## Bijlage 6. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 1.6a.1
-
-De houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) doet de melding, bedoeld in [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44), door middel van een volledig ingevuld door de Minister ter beschikking gesteld middel.
-
-##### Artikel 1.6a.2
-
-1. De beheerder van een kabel of pijpleiding doet de melding, bedoeld in [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45), door middel van een volledig ingevuld door de Minister ter beschikking gesteld middel.
-
-2. Bij de toepassing van de criteria, genoemd in [artikel 103 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=103), worden voor een kabel of pijpleiding in het niet gemeentelijk ingedeelde gebied ten minste de volgende onderwerpen betrokken:
-
-- a. doelmatigheid van het gebruik van de ruimte, te weten:
-
-- 1°. ruimtebeslag inclusief werk- en veiligheidszones;
-
-- 2°. de invloed op de vrije ruimte;
-
-- 3°. mogelijke barrièrewerking; en
-
-- 4°. mogelijke hinder en potentie voor andere bestaande en bekende toekomstige gebruiksfuncties;
-
-- b. de gevolgen voor het milieu, te weten:
-
-- 1°. de invloed op het bodemecosysteem;
-
-- 2°. gevolgen voor de waterkwaliteit;
-
-- 3°. vrijkomen van gebiedsvreemde stoffen;
-
-- 4°. verstoring van de visfauna, vogels of zeezoogdieren;
-
-- 5°. netto energieverbruik; en
-
-- 6°. recycling en hergebruikmogelijkheden;
-
-- c. de veiligheid op zee, te weten:
-
-- 1°. risico’s voor personeel en materieel ten tijde van verwijdering; en
-
-- 2°. risico’s op blootspoelen en breuk en risico’s voor visserij en scheepvaart in geval van laten liggen;
-
-- d. de doelmatigheid van de kosten, te weten:
-
-- 1°. saldo van opruim- en verwerkingskosten en opbrengsten in geval van geheel of gedeeltelijk opruimen van een kabel of pijpleiding: en
-
-- 2°. schoonmaakkosten, inspectiekosten, aansprakelijkheidskosten en extra kosten voor andere bestaande of bekende toekomstige gebruiksfuncties als gevolg van veroorzaakte hinder in geval van geheel of gedeeltelijk laten liggen van een kabel of pijpleiding.
-
-##### Artikel 1.6b.1
-
-De aanvraag tot instemming met een verwijderingsplan als bedoeld in de [artikelen 40c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=40c), en [62 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=62) en de aanvraag om een ontheffing als bedoeld in de [artikelen 40e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=40e), en [62b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=62b) worden ingediend door middel van een volledig ingevuld door de Minister ter beschikking gesteld middel.
-
-##### Artikel 1.6c.1
-
-1. De aanvraag om instemming met het rapport over de verwijdering als bedoeld in de [artikelen 44c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44c), en [45, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45), wordt ingediend door middel van een volledig ingevuld door de Minister ter beschikking gesteld middel.
-
-2. Bij de aanvraag om instemming met het rapport over de verwijdering van het mijnbouwwerk verstrekt de aanvrager bewijs dat verwijdering heeft plaatsgevonden overeenkomstig het verwijderingsplan en de voorschriften die aan de instemming met het verwijderingsplan zijn verbonden waaronder in elk geval:
-
-- a. voor mijnbouwwerken op zee:
-
-- 1°. foto- of videomateriaal of sonarbeelden waaruit blijkt dat de zeebodem vrij is van schroot en ander materiaal;
-
-- 2°. boorrapportages, zo nodig aangevuld met foto- of videomateriaal of sonarbeelden waaruit blijkt dat putten tot de diepte als bedoeld in [artikel 8.5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.3&artikel=8.5.3.2&z=2026-01-01&g=2026-01-01) onder de zeebodem zijn verwijderd;
-
-- b. voor mijnbouwwerken op land ten aanzien van de bodem:
-
-- 1°. indien van toepassing: een beschikking van het bevoegd gezag overeenkomstig de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994);
-
-- 2°. bewijs dat de bodemkwaliteit teruggebracht is naar de staat ten tijde van de nulsituatie van de bodem;
-
-- 3°. indien de nulsituatie niet bekend is, een bodemrapport waaruit blijkt dat de situatie voldoet aan de achtergrondwaarden van de bodem zoals in de omliggende omgeving van de locatie;
-
-- 4°. indien nog niet geregistreerd, de correcte gegevens voor registratie op grond van de [Wet basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0037095).
-
-3. Bij de aanvraag om instemming met het rapport over de verwijdering van kabels of pijpleidingen op zee verstrekt de aanvrager tenminste bewijs door middel van foto- of videomateriaal of sonarbeelden waaruit blijkt dat de kabels of pijpleidingen zijn verwijderd.
-
-#### § 1.8. Aanvraag splitsing of samenvoeging vergunning(en)
-
-### Hoofdstuk 2. Verkenningsonderzoek
-
-#### § 2.2. Verkenningsonderzoek met gebruik van ontplofbare stoffen
-
-#### § 2.6. Het laden van schietgaten
-
-### Hoofdstuk 3. Het winnen en het opslaan van stoffen
-
-### Hoofdstuk 4. Het binnenkomen of verlaten van de Nederlandse wateren van een bestaande productie-installatie
-
-### Hoofdstuk 5. Herkenningstekens, geluidsbakens en lichtbakens
-
-### Hoofdstuk 6. Communicatiemiddelen en meteorologische apparatuur
-
-#### § 6.2. Communicatiemiddelen
-
-### Hoofdstuk 7. Onderzoek naar sterkte mijnbouwinstallaties en wijze van verwijdering van onder het oppervlaktewater gelegen mijnbouwinstallaties
-
-### Afdeling 8.1. Algemeen
-
-### Afdeling 8.2. Werkprogramma's voor boorgaten en putten alsmede rapportages voor boorgaten
-
-#### § 8.2.1. Werkprogramma voor het aanleggen, uitbreiden of wijzigen van boorgaten
-
-#### § 8.5.2. Regels over het buiten gebruik stellen van putten
-
-### Hoofdstuk 9. Gebruik en lozen van oliehoudende mengsels en chemicaliën
-
-#### § 9.1. Oliehoudende mengsels
-
-### Hoofdstuk 10. Pijpleidingen
-
-### Hoofdstuk 12. Financiële bepaling en retributie
-
-### hoofdstuk 14. Overgangsbepalingen
-
-#### § 14.1. Overgangsbepalingen met betrekking tot helikopterdekken
-
-#### § 14.2. Overgangsbepalingen met betrekking tot boorgaten en putten
-
-#### § 14.2. Overgangsbepalingen met betrekking tot boorgaten en putten
-
-#### § 14.5. Overgangsbepalingen met betrekking tot de verstrekking van gegevens
-
-### Hoofdstuk 15. Slotbepalingen
-
-### B
-
-### 1
-
-### 1
-
-## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2022-01-01&g=2022-01-01) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2022-01-01&g=2022-01-01)
-
-## Bijlage 1a. behorende bij de [artikelen 1.3b.1, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2024-01-01&g=2024-01-01), [1.3b.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.2&z=2024-01-01&g=2024-01-01), [1.3b.3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.3&z=2024-01-01&g=2024-01-01), en [1.3b.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.4&z=2024-01-01&g=2024-01-01) Gegevens over te leggen bij een aanvraag om een toewijzing zoekgebied, startvergunning of vervolgvergunning aardwarmte of om instemming met de aanwijzing van de uitvoerder aardwarmte
-
-### Ankergebieden
-
-### Aanloopgebied Hoek van Holland
-
-### Overige gebieden
-
-### 2.0. Put gegevens
-
-De diepwater route van Noord Hinder naar Nabij Bruine Bank VSS (DW Route from North Hinder to Off Brown Ridge TSS) wordt begrensd door een lijn die de volgende punten verbindt: het snijpunt van de lijn tussen 191 en 192 beginnend bij de grens van het continentaal plat, 192, 193, 194, 195, tot het snijpunt van de lijn tussen 195 en196 met het continentaal plat, via het continentaal plat, tot het snijpunt van de lijn tussen 191 en 192 beginnend bij de grens van het continentaal plat.
-
-De vrije scheepvaartzone Nabij Noord Hinder wordt begrensd door een lijn die de volgende punten verbindt: 002, 085, 003, 002.
-
-## Bijlage 9. behorende bij artikel 4.4.3, achtste lid
-
-Vervallen
-
-## Bijlage 10. behorende bij artikel 4.8.2
-
-Vervallen
-
-## Bijlage 11. behorende bij [artikel 8.2.2.l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.1&z=2022-01-01&g=2022-01-01)
-
-| 1.0. Projectgegevens |   |
-| --- | --- |
-|   |   |
-| 1.1 de naam van de mijnbouwonderneming |   |
-| 1.2 de aanduiding van de boring |   |
-| 1.3 de naam van de boorinstallatie |   |
-| 1.4 de naam van het bijstandsschip, indien een bijstandsschip bij de boring aanwezig is |   |
-| 1.5 de naam van de concipiant van het dagverslag |   |
-| 1.6 de telefoonnummers waarop de concipiant gedurende werkuren bereikbaar is |   |
-| 1.7 het serienummer van het dagverslag |   |
-| 1.8 de datum waarop het dagverslag van toepassing is |   |
-| 1.9 het tijdsbestek waarop het dagverslag van toepassing is. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1 de diameter (in inches) van alle verbuizingen |   |
-| 2.2 de boorbeiteldiameters (in inches) van alle verbuizingen |   |
-| 2.3 de schoendiepte (in meters) van alle in het boorprogramma voorziene verbuizingen |   |
-| 2.4 de schoendiepte (in meters) van alle gezette verbuizingen |   |
-| 2.5 de formatiesterkte van alle relevante verbuizingen, uitgedrukt in de boorspoelingsgradiënt in kPa/m, bar/l0 m of in een equivalent boorspoelingsgewicht |   |
-| 2.6 de einddiepte (in meters) van een boorgatsectie. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 3.1 het type boorspoeling op de betreffende diepte |   |
-| 3.2 de viscositeit van de boorspoeling volgens MARSH in seconden |   |
-| 3.3 het filtraatverlies volgens de standaardmethode in 0,001 m3 (cc) |   |
-| 3.4 het solidsgehalte van de boorspoeling in gr/l |   |
-| 3.5 het boorspoelingsgewicht in kN/m² of kg/dm3 |   |
-| 3.6 de viscositeit en gel van de boorspoeling volgens FANN |   |
-| 3.7 de PH van het bij 3.3. verkregen filtraat |   |
-| 3.8 het oliegehalte van de bij 3.4 verkregen vloeistof. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1 de naam van de laatstdoorboorde aardlaag |   |
-| 4.2 de top van de bovengenoemde aardlaag op de vanaf de boorvloer langs het boorgat gemeten diepte in meters waar deze werd verwacht ("along hole depth" (AHD)/"true vertical depth" (TVD)) |   |
-| 4.3 de diepte in meters waar deze top is gevonden (AHD) |   |
-| 4.4 de naam van de volgende te verwachten aardlaag |   |
-| 4.5 de verwachte top van de volgende aardlaag (AHD). |   |
-|   |   |
-| 5.0. Gegevens betreffende het verloop van de werkzaamheden |   |
-|   |   |
-| 5.1 een korte samenvatting van de werkzaamheden gedurende de verslagperiode |   |
-| 5.2 een korte samenvatting van de voorziene werkzaamheden in de daaropvolgende verslagperiode |   |
-| 5.3 een korte samenvatting van de al verrichte werkzaamheden in de daaropvolgende verslagperiode tot de rapportagetijd |   |
-|   |   |
-| 6.0. Onvoorziene gebeurtenissen |   |
-|   |   |
-| 6.1 Een korte samenvatting van alle onvoorziene gebeurtenissen gedurende de verslagperiode. |   |
-
-De vrije scheepvaartzone nabij Helmveld wordt begrensd door een lijn die de volgende punten verbindt: 305, 316, 315, 306, 305.
-
-De zuid gaande vrije scheepvaartzone van Voorzorgsgebied Friesland naar Vlieland Noord VSS wordt begrensd door een lijn die de volgende punten verbindt: 271, 223, 222, 272, 271. De noord gaande vrije scheepvaartzone van Voorzorgsgebied Friesland naar Vlieland Noord VSS wordt begrensd door een lijn die de volgende punten verbindt: 273, 221, 220, 274, 273.
-
-### c. restrictiegebieden
-
-## Bijlage 13. behorende bij [artikel 8.3.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.5&z=2022-01-01&g=2022-01-01) Capaciteitstest
-
-## Bijlage 14. behorende bij [artikel 9.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.6&z=2022-01-01&g=2022-01-01), van de Mijnbouwregeling
-
-| 1) Mijnonderneming: | 1) Mijnonderneming: | 1) Mijnonderneming: |   |   | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: |   | 11) Aantal analyses: | 11) Aantal analyses: |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: |   |   | 7) Type debietmeter: | 7) Type debietmeter: | 7) Type debietmeter: |   | 12) Hoogste waarde (kolom E): | 12) Hoogste waarde (kolom E): |
-| 3) Maand / Jaar: | 3) Maand / Jaar: | a |   |   | 8) Plaats van Monstername: | 8) Plaats van Monstername: | 8) Plaats van Monstername: |   | 13) Aantal analyses > 30 mg/l (kolom E): | 13) Aantal analyses > 30 mg/l (kolom E): |
-| 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: |   |   | 9) Wijze van analyseren: | 9) Wijze van analyseren: | 9) Wijze van analyseren: |   |   |   |
-| 5) Plaats van debietmeting: | 5) Plaats van debietmeting: | 5) Plaats van debietmeting: |   |   | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur |   |   |   |
-| A | B | C | D | E | F | G | H | I | J | K |
-| Dag nr. | Tijdstip monstername | Debiet | Datum Analyse | Gedispergeerde oliegehalte | BTEX – gehalte | Totale oliegehalte | Gedispergeerde olie | BTEX | Totale olie | Opmerkingen |
-|   | uu:mm | m3/dag | ddmmjj | mg/l | mg/l | mg/l | kg/dag | kg/dag | kg/dag |   |
-| 1 |   |   |   |   |   |   |   |   |   |   |
-| 2 |   |   |   |   |   |   |   |   |   |   |
-| 3 |   |   |   |   |   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
-| 6 |   |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 |   |   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
-| 12 |   |   |   |   |   |   |   |   |   |   |
-| 13 |   |   |   |   |   |   |   |   |   |   |
-| 14 |   |   |   |   |   |   |   |   |   |   |
-| 15 |   |   |   |   |   |   |   |   |   |   |
-| 16 |   |   |   |   |   |   |   |   |   |   |
-| 17 |   |   |   |   |   |   |   |   |   |   |
-| 18 |   |   |   |   |   |   |   |   |   |   |
-| 19 |   |   |   |   |   |   |   |   |   |   |
-| 20 |   |   |   |   |   |   |   |   |   |   |
-| 21 |   |   |   |   |   |   |   |   |   |   |
-| 22 |   |   |   |   |   |   |   |   |   |   |
-| 23 |   |   |   |   |   |   |   |   |   |   |
-| 24 |   |   |   |   |   |   |   |   |   |   |
-| 25 |   |   |   |   |   |   |   |   |   |   |
-| 26 |   |   |   |   |   |   |   |   |   |   |
-| 27 |   |   |   |   |   |   |   |   |   |   |
-| 28 |   |   |   |   |   |   |   |   |   |   |
-| 29 |   |   |   |   |   |   |   |   |   |   |
-| 30 |   |   |   |   |   |   |   |   |   |   |
-| 31 |   |   |   |   |   |   |   |   |   |   |
-| Totaal: |   |   |   |   |   |   |   |   |   |   |
-| Gemiddeld: | Gemiddeld: |   |   |   |   |   |   |   |   |   |
-
-Wijze van berekening:
-
-Het gemiddelde van de geloosde gedispergeerde olie is het gewogen gemiddelde en wordt bepaald aan de hand van de volgende formule:
-
-- a. Bij iedere monstername voor analyse van het gedispergeerde oliegehalte wordt ook het bijbehorende debiet (in m3 per dag) van het geloosde water geregistreerd in kolom C;
-
-- b. Vermenigvuldig dan het gedispergeerde oliegehalte in mg/l (kolom E) met het bijbehorende debiet (kolom C). Dit resulteert in de hoeveelheid geloosde gedispergeerde olie op de dag van monstername. Noteer dit resultaat in kolom H;
-
-- c. Indien het BTEX-gehalte (kolom F) ook is geanalyseerd, vermenigvuldig dan dit gehalte met het bijbehorende debiet in kolom C. Het resultaat is de hoeveelheid geloosde BTEX op de dag van monstername. Noteer dit resultaat in kolom I;
-
-- d. Het totale oliegehalte (kolom G) is de som van het gedispergeerde oliegehalte en het BTEX-gehalte;
-
-- e. De hoeveelheid totale olie geloosd (kolom J) is de som van de hoeveelheden geloosde gedispergeerde olie (kolom H) en de geloosde BTEX (kolom I);
-
-- f. Op de dagen waarop geen monstername plaats vindt, gelden de data van de laatste monstername;
-
-- g. Op het einde van de maandelijkse periode worden de kolommen C, H, I en J in de rij totaal opgeteld. Vervolgens wordt het gemiddelde voor een maand berekend door de totale hoeveelheden voor de gehele maand aan gedispergeerde olie, BTEX en totale olie te delen door het totaal debiet voor die maand.
-
-## Bijlage 15. behorende bij [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=12&artikel=12.2&z=2022-01-01&g=2022-01-01)
-
-### A. Begripsbepalingen
-
-In deze bijlage wordt verstaan onder:
-
-### B. De vergoeding voor het uitvoeren van taken als bedoeld in [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) in verband met een mijnbouwwerk
-
-### C. De vergoeding, bedoeld in [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133), in verband met een gastransportnet
-
-De vergoeding die jaarlijks in rekening wordt gebracht bij:
-
-### D. De vergoeding voor het nemen van een besluit, het adviseren over of instemmen met, het beoordelen van een melding, het beoordelen van gegevens en bescheiden als bedoeld in [artikel 133, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) en een rapport inzake grote gevaren, als bedoeld in [artikel 127, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=127)
-
-### E. Bijkomende vergoeding van kosten
-
-De vergoeding, bedoeld in de onderdelen B en D, wordt verhoogd met:
-
-## Bijlage 12a. behorende bij [artikel 8.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.2&z=2023-07-01&g=2023-07-01)
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 1.3b.1
-
-1. Onverminderd [artikel 24e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24e) bevat de aanvraag voor een toewijzing zoekgebied aardwarmte:
-
-- a. de ligging en oppervlakte van het aangevraagde gebied;
-
-- b. een beschrijving van de door de provinciale staten op grond van [artikel 1.2, tweede lid, onderdeel a, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.2) met het oog op de waterwinning aangewezen gebieden, uitgesplitst naar type gebied en de Natura 2000-gebieden, bedoeld in [artikel 1.1. van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=1.1), binnen het aangevraagde gebied;
-
-- c. een beschrijving van de mijnbouwactiviteiten die reeds worden uitgevoerd of waartoe kenbare voornemens bestaan die mogelijk kunnen interfereren met de door de aanvrager voorgenomen opsporing en winning van aardwarmte, de aardlagen waarin die andere mijnbouwactiviteiten plaatsvinden of plaats zullen vinden, en de plaats van reeds aanwezige putten, zowel operationeel als buiten gebruik of buiten werking;
-
-- d. een beschrijving van de eerder voorgekomen natuurlijke en geïnduceerde seismiciteit;
-
-- e. een beschrijving van de breuken en de plaats daarvan;
-
-- f. een beschrijving van de geohydrologische status van het aangevraagde gebied;
-
-- g. een beschrijving van de hoeveelheid potentieel winbare warmte in het aangevraagde gebied, uitgedrukt in petajoule;
-
-- h. een beschrijving van het potentieel vermogen dat in het aangevraagde gebied kan worden bereikt, bij een waarschijnlijkheid van 50 procent en 90 procent, uitgedrukt in megawatt, een onderbouwing daarvan, en een vermogensverwachtingscurve;
-
-- i. een beschrijving van het doel, de omvang, uitgedrukt in petajoule, en de temperatuur van de voorgenomen afzet van warmte;
-
-- j. het plan voor de wijze waarop de aanvrager voornemens is te communiceren met de betrokkenen in de omgeving waar de mijnbouwactiviteiten zullen plaatsvinden;
-
-- k. de gegevens, opgenomen in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=1a&z=2026-01-01&g=2026-01-01);
-
-- l. andere gegevens die de aanvrager heeft gebruikt bij de onderbouwing van de aanvraag.
-
-2. De aanvrager verstrekt bij de aanvraag voorts:
-
-- a. een beschrijving van de regionale geologie;
-
-- b. de verkenningsonderzoeken die de aanvrager voornemens is uit te voeren en het daarbij behorende tijdschema;
-
-- c. een opgave van het beoogde aantal putten;
-
-- d. een beschrijving van de manier waarop de aanvraag past binnen provinciale of gemeentelijke beleidsplannen ten aanzien van aardwarmte voor het aangevraagde gebied;
-
-- e. een kopie van verklaringen van of overeenkomsten met de beoogde afnemers van de warmte waaruit de intentie blijkt om warmte af te nemen;
-
-- f. de gegevens, bedoeld in [bijlage 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=2a&z=2026-01-01&g=2026-01-01).
-
-3. De aanvrager vermeldt in de aanvraag de bron van de gegevens, bedoeld in het eerste lid en tweede lid, onderdeel a.
-
-4. De aanvrager verstrekt bij de aanvraag een figuur van de dwarsdoorsnede van de ondergrond die een weergave bevat van de aardlagen waar de aanvraag betrekking op heeft, en van de gegevens, bedoeld in het eerste lid, onderdelen a, b en c, en tweede lid, onderdeel a.
-
-5. Indien de aanvraag wordt ingediend door meerdere aanvragers gezamenlijk, worden de in het eerste lid, onderdeel k, en tweede lid, onderdeel f, bedoelde gegevens ten aanzien van iedere aanvrager afzonderlijk verstrekt. Tevens wordt aangegeven onder welke voorwaarden de samenwerking tussen de aanvragers plaatsvindt.
-
-##### Artikel 1.3b.2
-
-1. Onverminderd [artikel 24o, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24o) bevat de aanvraag voor een startvergunning aardwarmte:
-
-- a. de gegevens, bedoeld in [artikel 1.3b.1, eerste lid en tweede lid, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01);
-
-- b. een beschrijving van de lokale geologie.
-
-2. De aanvrager verstrekt bij de aanvraag voorts:
-
-- a. een beschrijving van de opbouw en plaats van het beoogde reservoirinterval met een samenvatting van de bijbehorende geologische, geofysische en petrofysische studies;
-
-- b. een beschrijving van de verwachte temperatuur, druk, porositeit, mate van doorlaatbaarheid, het zoutgehalte en de afsluitende aardlagen van het beoogde reservoirinterval;
-
-- c. een opgave van de naam, functie en beoogde plaats binnen het aangevraagde gebied van de putten die zullen worden gebruikt voor de opsporing en winning van aardwarmte;
-
-- d. een beschrijving van het beoogde aantal vollasturen van de beoogde putten en een onderbouwing daarvan;
-
-- e. een beschrijving van de verwachte gemiddelde en maximale injectiedruk aan de oppervlakte en in het beoogde reservoirinterval per reservoirlaag, de verwachte gemiddelde en minimale injectietemperatuur en het verwachte gemiddelde en maximale debiet tijdens de winning;
-
-- f. een beschrijving en onderbouwing van de mate van afkoeling en de verwachte maximale afkoelingsgraad van de invloedssfeer, en de verwachte temperatuurdistributie in de beoogde reservoirlagen aan het eind van de winning;
-
-- g. een beschrijving en onderbouwing van de verwachte interferentie met andere mijnbouwactiviteiten ten aanzien van de temperatuur en de druk in de beoogde reservoirlagen aan de hand van de verwachte temperatuurdistributie en drukdistributie in de beoogde reservoirlagen aan het eind van de winning;
-
-- h. een op een geomechanische analyse gebaseerde onderbouwing waaruit blijkt of de integriteit van de afsluitende aardlagen is gewaarborgd aan de hand van de uiterste waarden van de productieparameters;
-
-- i. een beschrijving van de kenmerkende gegevens, maximale hoeveelheid en de concentratie van de hulpstoffen die worden gebruikt bij de opsporing en winning van aardwarmte;
-
-- j. een beschrijving van het putontwerp inclusief een figuur daarvan en van het beheerssysteem en beheersplan voor de putintegriteit die voldoen aan [artikel 8.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.5&artikel=8.3.5.1&z=2026-01-01&g=2026-01-01);
-
-- k. indien het ontwerp van de put geen dubbele verbuizing ter hoogte van zoet- en brakwaterlagen bevat, een onderbouwing waaruit blijkt dat het ontwerp de putintegriteit ten minste even goed borgt als een dubbele verbuizing;
-
-- l. een beschrijving van de verwachte hoeveelheid delfstoffen die meekomen met de opsporing en winning van aardwarmte en wat met deze delfstoffen zal worden gedaan;
-
-- m. een meerjarenprogramma waarin de te verrichten opsporings- en winningsactiviteiten worden beschreven, alsmede de technieken die daarbij worden gebruikt;
-
-- n. een beschrijving en een cijfermatige onderbouwing van de verwachte opbrengsten van de winning van aardwarmte gedurende de verwachte looptijd van het project;
-
-- o. een beschrijving en een cijfermatige onderbouwing van de verwachte kosten gedurende de verwachte looptijd van het project en een beschrijving van de wijze waarop de aanvrager voornemens is deze kosten te financieren, uitgesplitst per projectfase ten aanzien van de kosten voor in elk geval:
-
-- 1°. de te verrichten opsporings- en winningsactiviteiten die zijn opgenomen in het meerjarenprogramma, bedoeld in onderdeel m;
-
-- 2°. investeringen en afschrijvingen;
-
-- 3°. onderhoud, vervangingsinvesteringen en bedrijfsvoering;
-
-- 4°. het buiten gebruik stellen van een boorgat en het verwijderen van het mijnbouwwerk;
-
-- 5°. de bij de opsporing en winning behorende aansprakelijkheden;
-
-- 6°. rentelasten en belastingen;
-
-- 7°. onvoorziene omstandigheden;
-
-- p. de voor de ramingen, bedoeld in [artikel 29v van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29v), benodigde gegevens vergezeld van een cijfermatige onderbouwing en toelichting en de beoogde vorm van financiële zekerheid die zal worden gesteld, indien de aanvraag betrekking heeft op aardlagen die zich geheel of gedeeltelijk bevinden onder een gebied dat is aangewezen voor de winning van drinkwater uit grondwater.
-
-3. De aanvrager verstrekt bij de aanvraag ten aanzien van de bodembeweging:
-
-- a. een beschrijving van de verwachte mate van bodemdaling aan het einde van de winning waaruit de verwachte bodemdaling als gevolg van de voorgenomen opsporing en winning afzonderlijk en de cumulatieve bodemdaling in verband met andere mijnbouwactiviteiten blijkt;
-
-- b. een kaart waarop de bodemdalingscontouren als gevolg van de voorgenomen opsporing en winning met betrekking tot het aangevraagde gebied, de door de provinciale staten op grond van [artikel 1.2, tweede lid, onderdeel a, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.2) met het oog op de waterwinning aangewezen gebieden, en de Natura 2000-gebieden, bedoeld in [artikel 1.1. van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=1.1), zijn aangegeven;
-
-- c. een onderbouwing van de kans op schade door bodemdaling als gevolg van de voorgenomen opsporing en winning aan gebouwen of infrastructurele werken of de functionaliteit daarvan en aan natuur en milieu en een beschrijving van de omvang en aard daarvan;
-
-- d. een seismische dreigings- en risicoanalyse van de bodemtrilling als gevolg van de voorgenomen opsporing en winning waarbij de natuurlijke bodemtrilling en de interferentie met andere mijnbouwactiviteiten worden meegenomen, en waaruit blijkt of aan de norm, bedoeld in [artikel 29p, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29p), is voldaan;
-
-- e. een onderbouwing van de kans op schade door bodemtrilling als gevolg van de voorgenomen opsporing en winning aan gebouwen of infrastructurele werken of de functionaliteit daarvan en aan natuur en milieu en een beschrijving van de omvang en aard daarvan;
-
-- f. een beschrijving van de wijze van monitoring van bodemtrilling;
-
-- g. het seismisch risicobeheersplan waarin de wijze van handelen bij het optreden van bodemtrilling wordt beschreven, welke drempelwaarden worden gehanteerd voor het nemen van maatregelen en welke maatregelen in dat geval worden genomen.
-
-4. De aanvrager vermeldt in de aanvraag de bron, de wijze van interpretatie en de daarbij gehanteerde onzekerheidsanalyses, voor zover van toepassing, van de gegevens, bedoeld in het eerste tot en met het derde lid.
-
-5. De aanvrager verstrekt bij de aanvraag een figuur van de dwarsdoorsnede van de ondergrond welke een weergave bevat van de plaats en wijze waarop het formatiewater in en uit de verbuizing treedt en van de gegevens, bedoeld in het eerste lid, onderdeel b, tweede lid, onderdeel a, en [artikel 1.3b.1, eerste lid, onderdelen a, b en c, en tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01).
-
-6. [Artikel 1.3b.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01), is overeenkomstig van toepassing op de gegevens, bedoeld in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=1a&z=2026-01-01&g=2026-01-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=2a&z=2026-01-01&g=2026-01-01).
-
-##### Artikel 1.3b.3
-
-1. Onverminderd [artikel 29z, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29z) bevat de aanvraag om instemming met de aanwijzing van de uitvoerder aardwarmte:
-
-- a. een beschrijving van de werkzaamheden waarvoor de uitvoerder aardwarmte wordt aangewezen;
-
-- b. een beschrijving van de organisatiestructuur van de uitvoerder aardwarmte en van de wijze waarop de uitvoerder aardwarmte voornemens is de feitelijke werkzaamheden ten behoeve van de opsporing of winning van aardwarmte te organiseren aan de hand van de taken en verantwoordelijkheden en de daarvoor benodigde technische kennis en capaciteiten;
-
-- c. een kopie van de opdrachtovereenkomst tussen de aanvrager van de startvergunning aardwarmte, de houder van de startvergunning aardwarmte of vervolgvergunning aardwarmte en de uitvoerder aardwarmte;
-
-- d. een kopie van de afspraken tussen de aanvrager van de startvergunning, de houder van de startvergunning aardwarmte of vervolgvergunning aardwarmte en de uitvoerder aardwarmte over het dragen van de kosten van de bij de opsporing of winning behorende aansprakelijkheden, indien deze zijn gemaakt;
-
-- e. de gegevens, opgenomen in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=1a&z=2026-01-01&g=2026-01-01) en [bijlage 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=2a&z=2026-01-01&g=2026-01-01), eerste lid;
-
-- f. andere gegevens die de aanvrager heeft gebruikt bij de onderbouwing van de aanvraag.
-
-2. Indien de aanvrager van de startvergunning aardwarmte, de houder van de startvergunning aardwarmte of vervolgvergunning aardwarmte zichzelf aanwijst als uitvoerder aardwarmte, zijn het eerste lid, onderdelen c en d, niet van toepassing.
-
-##### Artikel 1.3b.4
-
-1. Onverminderd [artikel 24af, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24af) bevat de aanvraag voor een vervolgvergunning aardwarmte:
-
-- a. de gegevens, bedoeld in [artikel 1.3b.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01), voor zover die de winning van aardwarmte betreffen;
-
-- b. de gegevens, bedoeld in [artikel 1.3b.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.2&z=2026-01-01&g=2026-01-01), voor zover die de winning van aardwarmte betreffen en met dien verstande dat uit de gegevens, bedoeld in artikel 1.3b.2, derde lid, onderdeel d, blijkt of aan de norm, bedoeld in [artikel 29s, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29s), is voldaan;
-
-- c. een overzicht waaruit blijkt wat de wijzigingen van de gegevens, bedoeld in de onderdelen a en b, ten opzichte van de eerder ingediende aanvraag startvergunning voor het aangevraagde gebied zijn.
-
-2. De aanvrager vermeldt in de aanvraag de bron, de wijze van interpretatie en de daarbij gehanteerde onzekerheidsanalyses, voor zover van toepassing, van de gegevens, bedoeld in het eerste lid, onderdelen a en b.
-
-3. De aanvrager verstrekt bij de aanvraag een figuur van de dwarsdoorsnede van de ondergrond welke een weergave bevat van de plaats en wijze waarop het formatiewater in en uit de verbuizing treedt en van de gegevens, bedoeld in [artikel 1.3b.2, eerste lid, onderdeel b, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.2&z=2026-01-01&g=2026-01-01), [artikel 1.3b.1, eerste lid, onderdelen a, b en c, en tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01).
-
-4. [Artikel 1.3b.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01), is overeenkomstig van toepassing op de gegevens, bedoeld in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=1a&z=2026-01-01&g=2026-01-01).
-
-##### Artikel 1.3b.5
-
-1. De minister kent per rangschikkingscriterium, bedoeld in de [artikelen 29x, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29x), en [29y, eerste lid, onderdelen a tot en met d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29y), ten minste één en ten hoogste vijf punten toe.
-
-2. Voor de rangschikking van aanvragen voor een toewijzing zoekgebied aardwarmte wordt het aantal toegekende punten voor het rangschikkingscriterium met betrekking tot:
-
-- a. de wijze waarop de aanvraag past binnen provinciale of gemeentelijke beleidsplannen ten aanzien van aardwarmte voor het betreffende gebied, bedoeld in [artikel 29x, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29x), vermenigvuldigd met 4;
-
-- b. het eerder gestart zijn met winning van aardwarmte in een gebied dat grenst aan het betreffende gebied, bedoeld in [artikel 29x, eerste lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29x), vermenigvuldigd met 3;
-
-- c. de kwaliteit van de aanvraag, bedoeld in [artikel 29x, eerste lid, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29x), vermenigvuldigd met 2.
-
-3. Voor de rangschikking van aanvragen voor een startvergunning aardwarmte wordt het aantal toegekende punten voor het rangschikkingscriterium met betrekking tot:
-
-- a. de wijze waarop de aanvraag past binnen provinciale of gemeentelijke beleidsplannen ten aanzien van aardwarmte voor het betreffende gebied, bedoeld in [artikel 29y, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29y), vermenigvuldigd met 4;
-
-- b. het eerder gestart zijn met winning van aardwarmte in een gebied dat grenst aan het betreffende gebied, bedoeld in [artikel 29y, eerste lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29y), vermenigvuldigd met 3;
-
-- c. de kwaliteit van de aanvraag, bedoeld in [artikel 29y, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29y), vermenigvuldigd met 2.
-
-4. De minister rangschikt een aanvraag hoger naarmate na toepassing van het tweede of derde lid in totaal meer punten aan die aanvraag zijn toegekend.
-
-##### Artikel 1.3b.6
-
-Een verzoek als bedoeld in [artikel 29ak, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29ak) wordt binnen zes maanden na de verlening van de toewijzing zoekgebied ingediend en bevat ten minste:
-
-- a. de reden voor het verzoek;
-
-- b. een onderbouwing van de wijze waarop het doel van kennisdeling en kennisborging kan worden gewaarborgd, indien de op grond van [artikel 82, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=82) aangewezen vennootschap niet deelneemt in de werkzaamheden voor opsporing en winning van aardwarmte;
-
-- c. een reactie op het verzoek:
-
-- 1°. van de vennootschap, bedoeld in onderdeel b, indien de houder van de toewijzing zoekgebied het verzoek indient;
-
-- 2°. van de houder van de toewijzing zoekgebied, indien de vennootschap, bedoeld in onderdeel b, het verzoek indient.
-
-### Hoofdstuk 2. Verkenningsonderzoek
-
-#### § 2.4. Het boren van schietgaten
-
-#### § 2.5. Het gereed maken van de lading
-
-### Hoofdstuk 4. Het binnenkomen of verlaten van de Nederlandse wateren van een bestaande productie-installatie
-
-### Hoofdstuk 4. Het binnenkomen of verlaten van de Nederlandse wateren van een bestaande productie-installatie
-
-#### § 8.2.4. Werkprogramma voor het buiten gebruik stellen van boorgaten en putten
-
-#### § 8.3.1. Beveiligingen bij het aanleggen, wijzigen of uitbreiden van boorgaten
-
-##### Artikel 8.3.5.1
-
-Een beheerssysteem en beheersplan voor de putintegriteit als bedoeld in de [artikelen 29q, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29q), en [29t, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29t) bevat:
-
-- a. een beschrijving van de uitgangspunten van het putontwerp ten aanzien van de productieparameters en de levensduur van de put;
-
-- b. een analyse van de risico’s voor de putintegriteit gebaseerd op de uiterste waarden voor de operationele condities van de put;
-
-- c. een beschrijving van de mate waarin hulpstoffen worden toegepast en een onderbouwing van de noodzaak hiertoe;
-
-- d. een monitoringsprotocol waarin wordt beschreven op welke wijze en met welke frequentie de voor de putintegriteit relevante parameters worden gemeten en beoordeeld;
-
-- e. een overzicht van de preventieve en reactieve maatregelen die zijn gebaseerd op de risicoanalyse, bedoeld in onderdeel b.
-
-### Afdeling 8.4. Inrichting van putten
-
-### Afdeling 8.5. Het buiten gebruik stellen van boorgaten en putten
-
-#### § 8.5.1. Algemeen
-
-#### § 8.5.2. Regels over het buiten gebruik stellen van putten
-
-#### § 8.5.3. Regels voor de uitvoering van het buiten gebruik stellen van putten
-
-#### § 11a.2. Rapport inzake grote gevaren
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
-
-### hoofdstuk 14. Overgangsbepalingen
-
-#### § 14.1. Overgangsbepalingen met betrekking tot helikopterdekken
-
-#### § 14.3. Overgangsbepalingen met betrekking tot oliehoudende mengsels en andere chemicaliën
-
-#### § 14.4. Overgangsbepalingen met betrekking tot de invoering van het ETRS89 systeem
-
-#### § 14.4. Overgangsbepalingen met betrekking tot de invoering van het ETRS89 systeem
-
-#### § 14.5. Overgangsbepalingen met betrekking tot de verstrekking van gegevens
-
-### Hoofdstuk 15. Slotbepalingen
-
-### 1
-
-### 2
-
-## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2024-01-01&g=2024-01-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
-
-## Bijlage 5. bij de Mijnbouwregeling
-
-Vervallen
-
-## Bijlage 6. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 7. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-### Ankergebieden
-
-### Aanloopgebied Hoek van Holland
-
-### E. Bijkomende vergoeding van kosten
-
-### b. scheepvaartroutes
-
-De zuidwest gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Vlieland (Off Vlieland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 235, 255, 256, 257, 258, 259, 260, 261, 262, 236, 235. De noordoost gaande verkeersbaan van het verkeersscheidingsstelsel Nabij Vlieland (Off Vlieland TSS) wordt begrensd door een lijn die de volgende punten verbindt: 249, 263, 264, 265, 266, 267, 268, 250, 249.
-
-De vrije scheepvaartzone van nabij Texel VSS naar Noord Hinder Noord VSS wordt begrensd door een lijn die de volgende punten verbindt: 086, 290, 291, 231, 243, 292, 293, 294, 295, 087, 086.
-
-De vrije scheepvaartzone van Maas Noord West VSS naar Rijnveld wordt begrensd door een lijn die de volgende punten verbindt: 110, 109, 093, 092, 091, 090, 110.
-
-De vrije scheepvaartzone nabij IJmuiden wordt begrensd door een lijn die de volgende punten verbindt: 107, 300, 299, 302, 303, 304, 305, 306, 246, 254, 307, 169, 167, 166, 308, 309, 146, 122, 121, 310, 120, 119, 143, 311, 145, 144, 312, 313, 108, 107.
-
-De vrije scheepvaartzone van Maas Noord VSS naar Voorzorgsgebied oversteek IJmuiden wordt begrensd door een lijn die de volgende punten verbindt: 096, 144, 149, 314, 102, 101, 097, 096.
-
-De zone voor het kustverkeer (ITZ) voor de Zeeuwse kust wordt begrensd door een lijn die de volgende punten verbindt: 350, 287, 286, 031, 033, 053, 052, 051, 050, 049 en vervolgens de kust volgend tot 350.
-
-De zone voor het kustverkeer (ITZ) ten noorden van de Nederlandse Waddeneilanden wordt begrensd door een lijn die de volgende punten verbindt: 268, 351, 352, 353, 354, 279, tot het snijpunt van de lijn tussen 278 en 279 eindigen bij de grens van het continentaal plat, via de grens van het continentaal plat, via het Eems Dollard Verdrag gebied, via de gemeentegrens, naar 355, 268.
-
-Het te vermijden gebied bij IJmuiden Noord Aanloop wordt begrensd door een lijn die de volgende punten verbindt: 360, 361, 362, 363, 360.
-
-Kaart behorende bij bijlage 4
-
-## Bijlage 5. bij de Mijnbouwregeling
-
-## Bijlage 7. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
-
-Vervallen
-
-## Bijlage 8. behorende bij de artikelen 4.3.3, vierde lid, en 4.4.6, tweede lid
-
-Vervallen
-
-## Bijlage 9. behorende bij artikel 4.4.3, achtste lid
-
-Vervallen
-
-## Bijlage 10. behorende bij artikel 4.8.2
-
-Vervallen
-
-## Bijlage 11. behorende bij [artikel 8.2.2.l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.1&z=2023-07-01&g=2023-07-01)
-
-| 1.0. Projectgegevens |   |
-| --- | --- |
-|   |   |
-| 1.1 de naam van de mijnbouwonderneming |   |
-| 1.2 de aanduiding van de boring |   |
-| 1.3 de naam van de boorinstallatie |   |
-| 1.4 de naam van het bijstandsschip, indien een bijstandsschip bij de boring aanwezig is |   |
-| 1.5 de naam van de concipiant van het dagverslag |   |
-| 1.6 de telefoonnummers waarop de concipiant gedurende werkuren bereikbaar is |   |
-| 1.7 het serienummer van het dagverslag |   |
-| 1.8 de datum waarop het dagverslag van toepassing is |   |
-| 1.9 het tijdsbestek waarop het dagverslag van toepassing is. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1 de diameter (in inches) van alle verbuizingen |   |
-| 2.2 de boorbeiteldiameters (in inches) van alle verbuizingen |   |
-| 2.3 de schoendiepte (in meters) van alle in het boorprogramma voorziene verbuizingen |   |
-| 2.4 de schoendiepte (in meters) van alle gezette verbuizingen |   |
-| 2.5 de formatiesterkte van alle relevante verbuizingen, uitgedrukt in de boorspoelingsgradiënt in kPa/m, bar/l0 m of in een equivalent boorspoelingsgewicht |   |
-| 2.6 de einddiepte (in meters) van een boorgatsectie. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 3.1 het type boorspoeling op de betreffende diepte |   |
-| 3.2 de viscositeit van de boorspoeling volgens MARSH in seconden |   |
-| 3.3 het filtraatverlies volgens de standaardmethode in 0,001 m3 (cc) |   |
-| 3.4 het solidsgehalte van de boorspoeling in gr/l |   |
-| 3.5 het boorspoelingsgewicht in kN/m² of kg/dm3 |   |
-| 3.6 de viscositeit en gel van de boorspoeling volgens FANN |   |
-| 3.7 de PH van het bij 3.3. verkregen filtraat |   |
-| 3.8 het oliegehalte van de bij 3.4 verkregen vloeistof. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1 de naam van de laatstdoorboorde aardlaag |   |
-| 4.2 de top van de bovengenoemde aardlaag op de vanaf de boorvloer langs het boorgat gemeten diepte in meters waar deze werd verwacht ("along hole depth" (AHD)/"true vertical depth" (TVD)) |   |
-| 4.3 de diepte in meters waar deze top is gevonden (AHD) |   |
-| 4.4 de naam van de volgende te verwachten aardlaag |   |
-| 4.5 de verwachte top van de volgende aardlaag (AHD). |   |
-|   |   |
-| 5.0. Gegevens betreffende het verloop van de werkzaamheden |   |
-|   |   |
-| 5.1 een korte samenvatting van de werkzaamheden gedurende de verslagperiode |   |
-| 5.2 een korte samenvatting van de voorziene werkzaamheden in de daaropvolgende verslagperiode |   |
-| 5.3 een korte samenvatting van de al verrichte werkzaamheden in de daaropvolgende verslagperiode tot de rapportagetijd |   |
-|   |   |
-| 6.0. Onvoorziene gebeurtenissen |   |
-|   |   |
-| 6.1 Een korte samenvatting van alle onvoorziene gebeurtenissen gedurende de verslagperiode. |   |
-
-## Bijlage 12. behorende bij [artikel 8.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.2&z=2023-07-01&g=2023-07-01)
-
-| Het eindrapport over de aanleg of de reparatie van een boorgat of het stimuleren van een voorkomen via een put |   |
-| --- | --- |
-| Het eindrapport bestaat uit een statustekening van het boorgat of de put en bijlagen en bevat ten minste de volgende informatie: |   |
-| 1.0 projectgegevens |   |
-|   |   |
-| 1.1. Algemeen |   |
-| 1. de namen van de leidinggevenden met een aanduiding van hun functie |   |
-| 2. het tijdvak waarin deze leiding gaven. |   |
-| 1.2. Boring |   |
-| 1. een aanduiding (code of naam) van de boring inclusief sidetracks |   |
-| 2. voor putten op land: de plaats van het aanzetpunt uitgedrukt in het coördinatiestelsel van de Rijksdriehoeksmeting |   |
-| 3. voor putten op zee: de plaats van het aanzetpunt uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem |   |
-| 4. het doel van de boring |   |
-| 5. de datum van het begin van de boring en het aantal dagen op de locatie. |   |
-| 1.3. Mijnbouw- of boorinstallatie |   |
-| 1. de naam van de installatie |   |
-| 2. de namen van de eigenaren van de installatie. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1. Dieptes |   |
-| 1. de dieptereferentie in meters ten opzichte van |   |
-| a. Normaal Amsterdams Peil (NAP), indien bij de boring geen gebruik wordt gemaakt van een mijnbouwinstallatie of |   |
-| b. Mean Sea Level (MSL), indien bij de boring gebruik wordt gemaakt van een mijnbouwinstallatie |   |
-| 2. de diepte in meters ("along hole depth" (AHD) en "true vertical depth" (TVD)) aan het einde van de diepboring |   |
-| 3. de deviatieplots van de diepboring, zowel verticaal als horizontaal, op A4-formaat |   |
-| 4. de waterdiepte onder MSL, indien bij de boring gebruik wordt gemaakt van een mijnbouwinstallatie. |   |
-| 2.2. Gezette verbuizingen |   |
-| 1. de maten |   |
-| 2. de schoendiepte in meters en de diepte in meters aan de bovenzijde |   |
-| 3. de materiaalsoort en het gewicht per lengte-eenheid van de gezette verbuizing |   |
-| 4. de cementsoorten, het gewicht van de cementspecie ("slurry") en het volume van de cementspecie |   |
-| 5. de bovenzijde van het cement (theoretisch of vastgesteld) |   |
-| 6. een verbuizingsdiagram op A4-formaat. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 1. het type boorspoeling per boorgatsectie |   |
-| 2. het soortelijk gewicht van de boorspoeling als functie van de diepte. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1. Stratigrafische kolom |   |
-| 1. de diepte in meters (AHD) van de bovenzijde van de aangetroffen geologische aardlagen |   |
-| 2. de aangetroffen breukdieptes |   |
-| 3. de aangetroffen abnormale formatiedrukken. |   |
-| 4.2. Koolwaterstoffen |   |
-| 1. de aangetroffen producten |   |
-| 2. de producerende aardlagen |   |
-| 3. de maximaal geteste productie ("choke sizes" en "flowing tubing head pressure") |   |
-| 4. de ingesloten formatiedruk na het testen. |   |
-|   |   |
-| 5.0. Gegevens betreffende de putafwerking |   |
-|   |   |
-| 1. de putstatus |   |
-| 2. een tekening van de (definitief of tijdelijk) buiten gebruik gestelde put op A4-formaat |   |
-| 3. een tekening met de maten van de putmondafwerking op A4-formaat |   |
-| 4. een tekening met de maten van de spuitseries op A4-formaat. |   |
-|   |   |
-| 6.0. Ondertekening |   |
-|   |   |
-| 1. plaats |   |
-| 2. datum |   |
-| 3. handtekening van de leidinggevende. |   |
-
-Het eindrapport over het buiten gebruik stellen van een boorgat of put
-
-Het eindrapport bestaat uit een statustekening van het boorgat of de put en bijlagen en bevat ten minste de volgende informatie:
-
-### 1.0. Projectgegevens
-
-### 2.0. Put gegevens
-
-### 3.0. geologische gegevens
-
-## Bijlage 13. behorende bij [artikel 8.3.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.5&z=2023-07-01&g=2023-07-01) Capaciteitstest
-
-## Bijlage 14. behorende bij [artikel 9.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.6&z=2023-07-01&g=2023-07-01), van de Mijnbouwregeling
-
-| 1) Mijnonderneming: | 1) Mijnonderneming: | 1) Mijnonderneming: |   |   | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: |   | 11) Aantal analyses: | 11) Aantal analyses: |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: |   |   | 7) Type debietmeter: | 7) Type debietmeter: | 7) Type debietmeter: |   | 12) Hoogste waarde (kolom E): | 12) Hoogste waarde (kolom E): |
-| 3) Maand / Jaar: | 3) Maand / Jaar: | a |   |   | 8) Plaats van Monstername: | 8) Plaats van Monstername: | 8) Plaats van Monstername: |   | 13) Aantal analyses > 30 mg/l (kolom E): | 13) Aantal analyses > 30 mg/l (kolom E): |
-| 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: |   |   | 9) Wijze van analyseren: | 9) Wijze van analyseren: | 9) Wijze van analyseren: |   |   |   |
-| 5) Plaats van debietmeting: | 5) Plaats van debietmeting: | 5) Plaats van debietmeting: |   |   | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur |   |   |   |
-| A | B | C | D | E | F | G | H | I | J | K |
-| Dag nr. | Tijdstip monstername | Debiet | Datum Analyse | Gedispergeerde oliegehalte | BTEX – gehalte | Totale oliegehalte | Gedispergeerde olie | BTEX | Totale olie | Opmerkingen |
-|   | uu:mm | m3/dag | ddmmjj | mg/l | mg/l | mg/l | kg/dag | kg/dag | kg/dag |   |
-| 1 |   |   |   |   |   |   |   |   |   |   |
-| 2 |   |   |   |   |   |   |   |   |   |   |
-| 3 |   |   |   |   |   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
-| 6 |   |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 |   |   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
-| 12 |   |   |   |   |   |   |   |   |   |   |
-| 13 |   |   |   |   |   |   |   |   |   |   |
-| 14 |   |   |   |   |   |   |   |   |   |   |
-| 15 |   |   |   |   |   |   |   |   |   |   |
-| 16 |   |   |   |   |   |   |   |   |   |   |
-| 17 |   |   |   |   |   |   |   |   |   |   |
-| 18 |   |   |   |   |   |   |   |   |   |   |
-| 19 |   |   |   |   |   |   |   |   |   |   |
-| 20 |   |   |   |   |   |   |   |   |   |   |
-| 21 |   |   |   |   |   |   |   |   |   |   |
-| 22 |   |   |   |   |   |   |   |   |   |   |
-| 23 |   |   |   |   |   |   |   |   |   |   |
-| 24 |   |   |   |   |   |   |   |   |   |   |
-| 25 |   |   |   |   |   |   |   |   |   |   |
-| 26 |   |   |   |   |   |   |   |   |   |   |
-| 27 |   |   |   |   |   |   |   |   |   |   |
-| 28 |   |   |   |   |   |   |   |   |   |   |
-| 29 |   |   |   |   |   |   |   |   |   |   |
-| 30 |   |   |   |   |   |   |   |   |   |   |
-| 31 |   |   |   |   |   |   |   |   |   |   |
-| Totaal: |   |   |   |   |   |   |   |   |   |   |
-| Gemiddeld: | Gemiddeld: |   |   |   |   |   |   |   |   |   |
-
-Wijze van berekening:
-
-Het gemiddelde van de geloosde gedispergeerde olie is het gewogen gemiddelde en wordt bepaald aan de hand van de volgende formule:
-
-- a. Bij iedere monstername voor analyse van het gedispergeerde oliegehalte wordt ook het bijbehorende debiet (in m3 per dag) van het geloosde water geregistreerd in kolom C;
-
-- b. Vermenigvuldig dan het gedispergeerde oliegehalte in mg/l (kolom E) met het bijbehorende debiet (kolom C). Dit resulteert in de hoeveelheid geloosde gedispergeerde olie op de dag van monstername. Noteer dit resultaat in kolom H;
-
-- c. Indien het BTEX-gehalte (kolom F) ook is geanalyseerd, vermenigvuldig dan dit gehalte met het bijbehorende debiet in kolom C. Het resultaat is de hoeveelheid geloosde BTEX op de dag van monstername. Noteer dit resultaat in kolom I;
-
-- d. Het totale oliegehalte (kolom G) is de som van het gedispergeerde oliegehalte en het BTEX-gehalte;
-
-- e. De hoeveelheid totale olie geloosd (kolom J) is de som van de hoeveelheden geloosde gedispergeerde olie (kolom H) en de geloosde BTEX (kolom I);
-
-- f. Op de dagen waarop geen monstername plaats vindt, gelden de data van de laatste monstername;
-
-- g. Op het einde van de maandelijkse periode worden de kolommen C, H, I en J in de rij totaal opgeteld. Vervolgens wordt het gemiddelde voor een maand berekend door de totale hoeveelheden voor de gehele maand aan gedispergeerde olie, BTEX en totale olie te delen door het totaal debiet voor die maand.
-
-## Bijlage 15. behorende bij [artikel 12.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=12&artikel=12.2&z=2023-07-01&g=2023-07-01)
-
-### A. Begripsbepalingen
-
-In deze bijlage wordt verstaan onder:
-
-### B. De vergoeding voor het uitvoeren van taken als bedoeld in [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) in verband met een mijnbouwwerk
-
-### C. De vergoeding, bedoeld in [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133), in verband met een gastransportnet
-
-De vergoeding die jaarlijks in rekening wordt gebracht bij:
-
-### D. De vergoeding voor het nemen van een besluit, het adviseren over of instemmen met, het beoordelen van een melding, het beoordelen van gegevens en bescheiden als bedoeld in [artikel 133, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) en een rapport inzake grote gevaren, als bedoeld in [artikel 127, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=127)
-
-### E. Bijkomende vergoeding van kosten
-
-De vergoeding, bedoeld in de onderdelen B en D, wordt verhoogd met:
-
-## Bijlage 15a. behorende bij [artikel 12.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=12&artikel=12.2&z=2023-07-01&g=2023-07-01)
-
-- 1. De vergoeding die jaarlijks in rekening wordt gebracht aan een houder van een startvergunning aardwarmte, bedraagt € 6.157.
-
-- 2. De vergoeding die jaarlijks in rekening wordt gebracht aan een houder van een vervolgvergunning aardwarmte, bedraagt € 5.367.
-
-- 3. In afwijking van het eerste en tweede lid wordt de vergoeding niet in rekening gebracht in het kalenderjaar waarin de vergunning is verleend.
-
-- 1. De vergoeding voor het nemen van een besluit, het adviseren over of het instemmen met of het doen van een beoordeling op aanvraag is gelijk aan het bij de desbetreffende handeling genoemde bedrag in onderstaande tabel, te verhogen met de kosten voor het bekendmaken of mededelen van ontwerpbesluiten en besluiten in de media.
-
-- 2. In het geval krachtens de [Regeling leges omgevingsvergunning rijksoverheid](https://wetten.overheid.nl/jci1.3:c:BWBR0028564) een vergoeding verschuldigd is, blijven de [artikelen 2.13](onbekend) en [2.15 van die regeling](onbekend) buiten toepassing, indien in deze bijlage in een vergoeding is voorzien.
-
-- 3. In afwijking van het eerste lid is de vergoeding voor het nemen van een besluit, het adviseren over of het instemmen met of het doen van een beoordeling op een aanvraag die is ingediend voor 1 mei 2023, gelijk aan nul.
-
-|   | Het bedrag behorend bij | als bedoeld in | is |
-| --- | --- | --- | --- |
-| a | het intrekken van een besluit | [artikel 161a, tweede lid, onderdelen b, c, en f tot en met j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=161a) | € 0 |
-| b | het verlenen van een toewijzing zoekgebied | [artikel 24d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24d) | € 5.494 |
-| c | het wijzigen van een toewijzing zoekgebied | [artikel 24l, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24l) | € 5.709 |
-| d | het intrekken van een toewijzing zoekgebied | [artikel 24l, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24l) | € 2.107 |
-| e | het verlenen van een startvergunning (uitgebreide procedure) | [artikelen 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24n) in samenhang met [24r van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24r) | € 39.370 |
-| f | het wijzigen van een startvergunning | [artikel 24ab, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ab) | € 14.224 |
-| g | het intrekken van een startvergunning | [artikel 24ab, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ab) | € 4.920 |
-| h | het verlenen van een vervolgvergunning (uitgebreide procedure) | [artikelen 24ae](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ae) in samenhang met [24ag van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ag) | € 39.370 |
-| i | het verlenen van een vervolgvergunning (reguliere procedure) | [artikel 24ae van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ae) | € 12.195 |
-| j | het wijzigen van een vervolgvergunning | [artikel 24ao, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ao) | € 13.650 |
-| k | het intrekken van een vervolgvergunning | [artikel 24ao, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ao) | € 2.460 |
-| l | het instemmen met de aanwijzing van een uitvoerder | [artikel 24z, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24z) | € 4.400 |
-| m | het wijzigen of intrekken van de instemming met de aanwijzing van een uitvoerder | [artikel 24z, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24z) | € 4.400 |
-| n | het verlenen of wijzigen van een omgevingsvergunning met de reguliere procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.2 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.2) en [artikel 3.3, vierde lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=3.3) | € 8.148 |
-| o | het verlenen of wijzigen van een omgevingsvergunning met de uitgebreide procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.3 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.3) en [artikel 3.3, vierde lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=3.3) | € 15.742 |
-| p | het verlenen van een omgevingsvergunning inzake een verandering van een inrichting of mijnbouwwerk of de werking daarvan, die niet leidt tot andere of grotere nadelige gevolgen voor het milieu met de reguliere procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.2) in samenhang met [artikel 3.10, derde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=3.10) en [artikel 3.3, vierde lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=3.3) | € 5.500 |
-| q | het verlenen van een omgevingsvergunning inzake een verandering van een inrichting of mijnbouwwerk of de werking daarvan, die niet leidt tot andere of grotere nadelige gevolgen voor het milieu met de uitgebreide procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.3) en [art. 3.10, derde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=3.10) en [artikel 3.3, vierde lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=3.3) | € 8.480 |
-| r | het verlenen van een omgevingsvergunning met beoordeling milieueffectrapportage met de reguliere procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.2, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.2), alsmede [artikel 7.16 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.16) | € 10.600 |
-| s | het verlenen van een omgevingsvergunning met beoordeling milieueffectrapportage met de uitgebreide procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.3, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.3), alsmede [artikel 7.16 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.16) | € 13.160 |
-| t | het verlenen van een omgevingsvergunning met een milieueffectrapportage met de reguliere procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.2, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.2) en [artikel 7.28 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.28) | € 16.150 |
-| u | het verlenen van een omgevingsvergunning met een milieueffectrapportage met de uitgebreide procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.3, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.3) en [artikel 7.28 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.28) | € 18.980 |
-| v | het verlenen van een vergunning voor het gebruik van ontplofbare stoffen voor verkenningsonderzoek, te verrichten anders dan in oppervlaktewater | [artikel 22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=22) | € 4.400 |
-| w | het verlenen of wijzigen van een ontheffing voor verkenningsonderzoek binnen een afstand van 100 m van hoofdwaterkerende dijken | [artikel 2.2.4, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=2&paragraaf=2.2&artikel=2.2.4&z=2023-07-01&g=2023-07-01) | € 12.240 |
-| x | het verlenen of wijzigen van een ontheffing voor verkenningsonderzoek op afstand kleiner dan 50 m van gebouwen of objecten | [artikel 2.2.4, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=2&paragraaf=2.2&artikel=2.2.4&z=2023-07-01&g=2023-07-01) | € 12.240 |
-| y | de ontheffing voor meetapparatuur | [artikel 35, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=35) | € 1.324 |
-| z | het instemmen met het meetplan | [artikel 30, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=30) | € 1.080 |
-| aa | het na uitvoering van een milieueffectrapportage verlenen van een vergunning voor het leggen van pijpleidingen | [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=95) in samenhang met [artikel 94, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=94) | € 4.361 |
-| bb | het verlenen van een instemming de frequentie van het onderzoek te verminderen | [artikel 99, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=99) | € 1.984 |
-| cc | het instemmen met her-ingebruikname van de pijpleiding | [artikel 101, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=101) | € 1.640 |
-| dd | het instemmen met en wijzigen van de instemming met een verwijderingsplan mijnbouwwerk, kabels of pijpleidingen | [artikelen 44a, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a), en [45, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) | € 5.500 |
-| ee | het beoordelen van een melding van het voornemen om werkzaamheden uit te voeren, het wijzigen van die melding | [artikel 7 van het Besluit algemene regels milieu mijnbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0023771&artikel=7) | € 1.020 |
-| ff | het verlenen of wijzigen van een ontheffing voor de boorgatafsluiters of de uitbreiding van de beveiligingsinstallatie | [artikel 8.3.1.4, zesde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2023-07-01&g=2023-07-01) | € 1.620 |
-| gg | het verlenen of wijzigen van een ontheffing voor het hoofdbedieningsverdeelwerk | [artikel 8.3.1.5, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.5&z=2023-07-01&g=2023-07-01) | € 1.404 |
-| hh | het verlenen of wijzigen van een ontheffing voor een persproef | [artikel 8.3.2.2, vierde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.2&z=2023-07-01&g=2023-07-01) | € 1.404 |
-| ii | het verlenen of wijzigen van een ontheffing voor het aantal beveiligingen van de put | [artikel 8.3.4.1, vierde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.4&artikel=8.3.4.1&z=2023-07-01&g=2023-07-01) | € 1.440 |
-| jj | het verlenen of wijzigen van een ontheffing voor bepaalde gevallen, inzake een effectieve en duurzame methode voor het buiten gebruik stellen van putten. | [artikel 8.5.1.4, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.1&artikel=8.5.1.4&z=2023-07-01&g=2023-07-01) | € 2.628 |
-| kk | het beoordelen van een melding buiten werking stellen | [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44), en [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) | € 2.030 |
-| ll | het verlenen van ontheffing en wijzigen van de ontheffing van overleggen verwijderingsplan | [artikelen 44b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44b), en [45, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45), in samenhang met [artikel 40e van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=40e) | € 2.030 |
-| mm | het instemmen met het rapport over de verwijdering mijnbouwwerk, kabels, pijpleidingen | [artikelen 44c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44c), en [45, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) | € 5.500 |
-
-De vergoeding, bedoeld in de onderdelen A en B, wordt verhoogd met:
-
-- a. de kosten van onderzoek, bedoeld in [artikel 127, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=127), naar:
-
-- 1°. de effecten van de wijze van winning alsmede de daarmee verband houdende activiteiten;
-
-- 2°. de effecten van bodembeweging ten gevolge van de winning en de maatregelen ter voorkoming van schade door bodembeweging;
-
-- 3°. de risico’s voor omwonenden, gebouwen of infrastructurele werken of de functionaliteit daarvan;
-
-- 4°. het nemen van monsters die nodig zijn voor het onderzoek;
-
-- 5°. het berekenen van risico’s en het uitvoeren van analyses op monsters, indien van belang in verband met de effecten, bedoeld in subonderdelen 1° en 2° of de risico’s, bedoeld in subonderdeel 3°; en
-
-- b. de kosten, die zijn gemaakt voor het onderzoek, bedoeld in onderdeel a, die betrekking hebben op de volgende componenten:
-
-- 1°. berekeningen, controleberekeningen, literatuurstudies, analyses, modelstudies en onderzoeken;
-
-- 2°. het opstellen van rapportages en adviezen;
-
-- 3°. laboratoriumkosten;
-
-- 4°. verwerkings- en verzendkosten;
-
-- 5°. administratiekosten;
-
-- 6°. een bedrag per uur per met de werkzaamheden belaste persoon;
-
-- 7°. overige kosten die verband houden met deze werkzaamheden.
-
-## Bijlage 16. Productielocaties Groningenveld (bijlage als bedoeld in [artikel 1.3a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.1&z=2023-07-01&g=2023-07-01), van de Mijnbouwregeling)
-
-| Naam productielocatie | Putnamen |
-| --- | --- |
-| Amsweer | AMR-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12 |
-| Bierum | BIR-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12,-13 |
-| De Eeker | EKR-101,-102,-103,-104,-105,-107,-108,-109,-110,-111,-112, -201,-202,-203,-204,-205,-206,-207,-208,-209, -210 |
-| Eemskanaal | EKL-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12,-13 |
-| Kooipolder | KPD-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12 |
-| Leermens | LRM-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| De Paauwen | PAU-2,-3,-4,-5,-6 |
-| Oudeweg | OWG-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Overschild | OVS-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Ten Post | POS-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Schaapbulten | SCB-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Siddeburen | SDB-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Slochteren | SLO-2,-3,-4,-5,-6,-7,-8,-9, FRB-1,-2,-3,-4,-5,-6,-7,-8 |
-| Spitsbergen | SPI-101,-102,-103,-104,-105,-106,-107,-108,-109,-110, -201,-202,-203,-204,-205,-206,-207,-208,-209 |
-| Scheemderzwaag | SZW-101,-102,-103,-104,-105,-106,-107,-108,-109, -110, -201,-202,-203,-204,-205,-206,-207,-208,-209, -210 |
-| ’t Zandt | ZND-2,-3,-4,-5,-7,-9,-10,-12 |
-| Tjuchem | TJM-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Tusschenklappen | TUS-2,-3,-4,-5,-6,-7,-8,-9,-10, SAP-6,-7,-8,-9,-10,-11,-12,-13,-15 |
-| Zuiderpolder | ZDP-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12 |
-| Zuiderveen | ZVN-2,-3,-4,-5,-7,-8,-9,-10,-11,-12,-13 |
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-## Bijlage 8. behorende bij de artikelen 4.3.3, vierde lid, en 4.4.6, tweede lid
-
-Vervallen
-
-## Bijlage 9. behorende bij artikel 4.4.3, achtste lid
-
-Vervallen
-
-## Bijlage 10. behorende bij artikel 4.8.2
-
-Vervallen
-
-## Bijlage 11. behorende bij [artikel 8.2.2.l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.1&z=2026-01-01&g=2026-01-01)
-
-| 1.0. Projectgegevens |   |
-| --- | --- |
-|   |   |
-| 1.1 de naam van de mijnbouwonderneming |   |
-| 1.2 de aanduiding van de boring |   |
-| 1.3 de naam van de boorinstallatie |   |
-| 1.4 de naam van het bijstandsschip, indien een bijstandsschip bij de boring aanwezig is |   |
-| 1.5 de naam van de concipiant van het dagverslag |   |
-| 1.6 de telefoonnummers waarop de concipiant gedurende werkuren bereikbaar is |   |
-| 1.7 het serienummer van het dagverslag |   |
-| 1.8 de datum waarop het dagverslag van toepassing is |   |
-| 1.9 het tijdsbestek waarop het dagverslag van toepassing is. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1 de diameter (in inches) van alle verbuizingen |   |
-| 2.2 de boorbeiteldiameters (in inches) van alle verbuizingen |   |
-| 2.3 de schoendiepte (in meters) van alle in het boorprogramma voorziene verbuizingen |   |
-| 2.4 de schoendiepte (in meters) van alle gezette verbuizingen |   |
-| 2.5 de formatiesterkte van alle relevante verbuizingen, uitgedrukt in de boorspoelingsgradiënt in kPa/m, bar/l0 m of in een equivalent boorspoelingsgewicht |   |
-| 2.6 de einddiepte (in meters) van een boorgatsectie. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 3.1 het type boorspoeling op de betreffende diepte |   |
-| 3.2 de viscositeit van de boorspoeling volgens MARSH in seconden |   |
-| 3.3 het filtraatverlies volgens de standaardmethode in 0,001 m3 (cc) |   |
-| 3.4 het solidsgehalte van de boorspoeling in gr/l |   |
-| 3.5 het boorspoelingsgewicht in kN/m² of kg/dm3 |   |
-| 3.6 de viscositeit en gel van de boorspoeling volgens FANN |   |
-| 3.7 de PH van het bij 3.3. verkregen filtraat |   |
-| 3.8 het oliegehalte van de bij 3.4 verkregen vloeistof. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1 de naam van de laatstdoorboorde aardlaag |   |
-| 4.2 de top van de bovengenoemde aardlaag op de vanaf de boorvloer langs het boorgat gemeten diepte in meters waar deze werd verwacht ("along hole depth" (AHD)/"true vertical depth" (TVD)) |   |
-| 4.3 de diepte in meters waar deze top is gevonden (AHD) |   |
-| 4.4 de naam van de volgende te verwachten aardlaag |   |
-| 4.5 de verwachte top van de volgende aardlaag (AHD). |   |
-|   |   |
-| 5.0. Gegevens betreffende het verloop van de werkzaamheden |   |
-|   |   |
-| 5.1 een korte samenvatting van de werkzaamheden gedurende de verslagperiode |   |
-| 5.2 een korte samenvatting van de voorziene werkzaamheden in de daaropvolgende verslagperiode |   |
-| 5.3 een korte samenvatting van de al verrichte werkzaamheden in de daaropvolgende verslagperiode tot de rapportagetijd |   |
-|   |   |
-| 6.0. Onvoorziene gebeurtenissen |   |
-|   |   |
-| 6.1 Een korte samenvatting van alle onvoorziene gebeurtenissen gedurende de verslagperiode. |   |
-
-## Bijlage 12. behorende bij [artikel 8.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.2&z=2026-01-01&g=2026-01-01)
-
-| Het eindrapport over de aanleg of de reparatie van een boorgat of het stimuleren van een voorkomen via een put |   |
-| --- | --- |
-| Het eindrapport bestaat uit een statustekening van het boorgat of de put en bijlagen en bevat ten minste de volgende informatie: |   |
-| 1.0 projectgegevens |   |
-|   |   |
-| 1.1. Algemeen |   |
-| 1. de namen van de leidinggevenden met een aanduiding van hun functie |   |
-| 2. het tijdvak waarin deze leiding gaven. |   |
-| 1.2. Boring |   |
-| 1. een aanduiding (code of naam) van de boring inclusief sidetracks |   |
-| 2. voor putten op land: de plaats van het aanzetpunt uitgedrukt in het coördinatiestelsel van de Rijksdriehoeksmeting |   |
-| 3. voor putten op zee: de plaats van het aanzetpunt uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem |   |
-| 4. het doel van de boring |   |
-| 5. de datum van het begin van de boring en het aantal dagen op de locatie. |   |
-| 1.3. Mijnbouw- of boorinstallatie |   |
-| 1. de naam van de installatie |   |
-| 2. de namen van de eigenaren van de installatie. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1. Dieptes |   |
-| 1. de dieptereferentie in meters ten opzichte van |   |
-| a. Normaal Amsterdams Peil (NAP), indien bij de boring geen gebruik wordt gemaakt van een mijnbouwinstallatie of |   |
-| b. Mean Sea Level (MSL), indien bij de boring gebruik wordt gemaakt van een mijnbouwinstallatie |   |
-| 2. de diepte in meters ("along hole depth" (AHD) en "true vertical depth" (TVD)) aan het einde van de diepboring |   |
-| 3. de deviatieplots van de diepboring, zowel verticaal als horizontaal, op A4-formaat |   |
-| 4. de waterdiepte onder MSL, indien bij de boring gebruik wordt gemaakt van een mijnbouwinstallatie. |   |
-| 2.2. Gezette verbuizingen |   |
-| 1. de maten |   |
-| 2. de schoendiepte in meters en de diepte in meters aan de bovenzijde |   |
-| 3. de materiaalsoort en het gewicht per lengte-eenheid van de gezette verbuizing |   |
-| 4. de cementsoorten, het gewicht van de cementspecie ("slurry") en het volume van de cementspecie |   |
-| 5. de bovenzijde van het cement (theoretisch of vastgesteld) |   |
-| 6. een verbuizingsdiagram op A4-formaat. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 1. het type boorspoeling per boorgatsectie |   |
-| 2. het soortelijk gewicht van de boorspoeling als functie van de diepte. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1. Stratigrafische kolom |   |
-| 1. de diepte in meters (AHD) van de bovenzijde van de aangetroffen geologische aardlagen |   |
-| 2. de aangetroffen breukdieptes |   |
-| 3. de aangetroffen abnormale formatiedrukken. |   |
-| 4.2. Koolwaterstoffen |   |
-| 1. de aangetroffen producten |   |
-| 2. de producerende aardlagen |   |
-| 3. de maximaal geteste productie ("choke sizes" en "flowing tubing head pressure") |   |
-| 4. de ingesloten formatiedruk na het testen. |   |
-|   |   |
-| 5.0. Gegevens betreffende de putafwerking |   |
-|   |   |
-| 1. de putstatus |   |
-| 2. een tekening van de (definitief of tijdelijk) buiten gebruik gestelde put op A4-formaat |   |
-| 3. een tekening met de maten van de putmondafwerking op A4-formaat |   |
-| 4. een tekening met de maten van de spuitseries op A4-formaat. |   |
-|   |   |
-| 6.0. Ondertekening |   |
-|   |   |
-| 1. plaats |   |
-| 2. datum |   |
-| 3. handtekening van de leidinggevende. |   |
-
-## Bijlage 12a. behorende bij [artikel 8.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.2&z=2026-01-01&g=2026-01-01)
-
-## Bijlage 11. behorende bij [artikel 8.2.2.l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.1&z=2024-01-01&g=2024-01-01)
-
-| 1.0. Projectgegevens |   |
-| --- | --- |
-|   |   |
-| 1.1 de naam van de mijnbouwonderneming |   |
-| 1.2 de aanduiding van de boring |   |
-| 1.3 de naam van de boorinstallatie |   |
-| 1.4 de naam van het bijstandsschip, indien een bijstandsschip bij de boring aanwezig is |   |
-| 1.5 de naam van de concipiant van het dagverslag |   |
-| 1.6 de telefoonnummers waarop de concipiant gedurende werkuren bereikbaar is |   |
-| 1.7 het serienummer van het dagverslag |   |
-| 1.8 de datum waarop het dagverslag van toepassing is |   |
-| 1.9 het tijdsbestek waarop het dagverslag van toepassing is. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1 de diameter (in inches) van alle verbuizingen |   |
-| 2.2 de boorbeiteldiameters (in inches) van alle verbuizingen |   |
-| 2.3 de schoendiepte (in meters) van alle in het boorprogramma voorziene verbuizingen |   |
-| 2.4 de schoendiepte (in meters) van alle gezette verbuizingen |   |
-| 2.5 de formatiesterkte van alle relevante verbuizingen, uitgedrukt in de boorspoelingsgradiënt in kPa/m, bar/l0 m of in een equivalent boorspoelingsgewicht |   |
-| 2.6 de einddiepte (in meters) van een boorgatsectie. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 3.1 het type boorspoeling op de betreffende diepte |   |
-| 3.2 de viscositeit van de boorspoeling volgens MARSH in seconden |   |
-| 3.3 het filtraatverlies volgens de standaardmethode in 0,001 m3 (cc) |   |
-| 3.4 het solidsgehalte van de boorspoeling in gr/l |   |
-| 3.5 het boorspoelingsgewicht in kN/m² of kg/dm3 |   |
-| 3.6 de viscositeit en gel van de boorspoeling volgens FANN |   |
-| 3.7 de PH van het bij 3.3. verkregen filtraat |   |
-| 3.8 het oliegehalte van de bij 3.4 verkregen vloeistof. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1 de naam van de laatstdoorboorde aardlaag |   |
-| 4.2 de top van de bovengenoemde aardlaag op de vanaf de boorvloer langs het boorgat gemeten diepte in meters waar deze werd verwacht ("along hole depth" (AHD)/"true vertical depth" (TVD)) |   |
-| 4.3 de diepte in meters waar deze top is gevonden (AHD) |   |
-| 4.4 de naam van de volgende te verwachten aardlaag |   |
-| 4.5 de verwachte top van de volgende aardlaag (AHD). |   |
-|   |   |
-| 5.0. Gegevens betreffende het verloop van de werkzaamheden |   |
-|   |   |
-| 5.1 een korte samenvatting van de werkzaamheden gedurende de verslagperiode |   |
-| 5.2 een korte samenvatting van de voorziene werkzaamheden in de daaropvolgende verslagperiode |   |
-| 5.3 een korte samenvatting van de al verrichte werkzaamheden in de daaropvolgende verslagperiode tot de rapportagetijd |   |
-|   |   |
-| 6.0. Onvoorziene gebeurtenissen |   |
-|   |   |
-| 6.1 Een korte samenvatting van alle onvoorziene gebeurtenissen gedurende de verslagperiode. |   |
-
-## Bijlage 12. behorende bij [artikel 8.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.2&z=2024-01-01&g=2024-01-01)
-
-| Het eindrapport over de aanleg of de reparatie van een boorgat of het stimuleren van een voorkomen via een put |   |
-| --- | --- |
-| Het eindrapport bestaat uit een statustekening van het boorgat of de put en bijlagen en bevat ten minste de volgende informatie: |   |
-| 1.0 projectgegevens |   |
-|   |   |
-| 1.1. Algemeen |   |
-| 1. de namen van de leidinggevenden met een aanduiding van hun functie |   |
-| 2. het tijdvak waarin deze leiding gaven. |   |
-| 1.2. Boring |   |
-| 1. een aanduiding (code of naam) van de boring inclusief sidetracks |   |
-| 2. voor putten op land: de plaats van het aanzetpunt uitgedrukt in het coördinatiestelsel van de Rijksdriehoeksmeting |   |
-| 3. voor putten op zee: de plaats van het aanzetpunt uitgedrukt in geografische coördinaten, berekend volgens het ETRS89 systeem |   |
-| 4. het doel van de boring |   |
-| 5. de datum van het begin van de boring en het aantal dagen op de locatie. |   |
-| 1.3. Mijnbouw- of boorinstallatie |   |
-| 1. de naam van de installatie |   |
-| 2. de namen van de eigenaren van de installatie. |   |
-|   |   |
-| 2.0. Boorgatsectiegegevens |   |
-|   |   |
-| 2.1. Dieptes |   |
-| 1. de dieptereferentie in meters ten opzichte van |   |
-| a. Normaal Amsterdams Peil (NAP), indien bij de boring geen gebruik wordt gemaakt van een mijnbouwinstallatie of |   |
-| b. Mean Sea Level (MSL), indien bij de boring gebruik wordt gemaakt van een mijnbouwinstallatie |   |
-| 2. de diepte in meters ("along hole depth" (AHD) en "true vertical depth" (TVD)) aan het einde van de diepboring |   |
-| 3. de deviatieplots van de diepboring, zowel verticaal als horizontaal, op A4-formaat |   |
-| 4. de waterdiepte onder MSL, indien bij de boring gebruik wordt gemaakt van een mijnbouwinstallatie. |   |
-| 2.2. Gezette verbuizingen |   |
-| 1. de maten |   |
-| 2. de schoendiepte in meters en de diepte in meters aan de bovenzijde |   |
-| 3. de materiaalsoort en het gewicht per lengte-eenheid van de gezette verbuizing |   |
-| 4. de cementsoorten, het gewicht van de cementspecie ("slurry") en het volume van de cementspecie |   |
-| 5. de bovenzijde van het cement (theoretisch of vastgesteld) |   |
-| 6. een verbuizingsdiagram op A4-formaat. |   |
-|   |   |
-| 3.0. Boorspoelinggegevens |   |
-|   |   |
-| 1. het type boorspoeling per boorgatsectie |   |
-| 2. het soortelijk gewicht van de boorspoeling als functie van de diepte. |   |
-|   |   |
-| 4.0. Geologische gegevens |   |
-|   |   |
-| 4.1. Stratigrafische kolom |   |
-| 1. de diepte in meters (AHD) van de bovenzijde van de aangetroffen geologische aardlagen |   |
-| 2. de aangetroffen breukdieptes |   |
-| 3. de aangetroffen abnormale formatiedrukken. |   |
-| 4.2. Koolwaterstoffen |   |
-| 1. de aangetroffen producten |   |
-| 2. de producerende aardlagen |   |
-| 3. de maximaal geteste productie ("choke sizes" en "flowing tubing head pressure") |   |
-| 4. de ingesloten formatiedruk na het testen. |   |
-|   |   |
-| 5.0. Gegevens betreffende de putafwerking |   |
-|   |   |
-| 1. de putstatus |   |
-| 2. een tekening van de (definitief of tijdelijk) buiten gebruik gestelde put op A4-formaat |   |
-| 3. een tekening met de maten van de putmondafwerking op A4-formaat |   |
-| 4. een tekening met de maten van de spuitseries op A4-formaat. |   |
-|   |   |
-| 6.0. Ondertekening |   |
-|   |   |
-| 1. plaats |   |
-| 2. datum |   |
-| 3. handtekening van de leidinggevende. |   |
-
-## Bijlage 12a. behorende bij [artikel 8.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.2&z=2024-01-01&g=2024-01-01)
-
-### 1.0. Projectgegevens
-
-### 3.0. geologische gegevens
-
-## Bijlage 13. behorende bij [artikel 8.3.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.5&z=2024-01-01&g=2024-01-01) Capaciteitstest
-
-## Bijlage 14. behorende bij [artikel 9.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.6&z=2024-01-01&g=2024-01-01), van de Mijnbouwregeling
-
-| 1) Mijnonderneming: | 1) Mijnonderneming: | 1) Mijnonderneming: |   |   | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: |   | 11) Aantal analyses: | 11) Aantal analyses: |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: |   |   | 7) Type debietmeter: | 7) Type debietmeter: | 7) Type debietmeter: |   | 12) Hoogste waarde (kolom E): | 12) Hoogste waarde (kolom E): |
-| 3) Maand / Jaar: | 3) Maand / Jaar: | a |   |   | 8) Plaats van Monstername: | 8) Plaats van Monstername: | 8) Plaats van Monstername: |   | 13) Aantal analyses > 30 mg/l (kolom E): | 13) Aantal analyses > 30 mg/l (kolom E): |
-| 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: |   |   | 9) Wijze van analyseren: | 9) Wijze van analyseren: | 9) Wijze van analyseren: |   |   |   |
-| 5) Plaats van debietmeting: | 5) Plaats van debietmeting: | 5) Plaats van debietmeting: |   |   | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur |   |   |   |
-| A | B | C | D | E | F | G | H | I | J | K |
-| Dag nr. | Tijdstip monstername | Debiet | Datum Analyse | Gedispergeerde oliegehalte | BTEX – gehalte | Totale oliegehalte | Gedispergeerde olie | BTEX | Totale olie | Opmerkingen |
-|   | uu:mm | m3/dag | ddmmjj | mg/l | mg/l | mg/l | kg/dag | kg/dag | kg/dag |   |
-| 1 |   |   |   |   |   |   |   |   |   |   |
-| 2 |   |   |   |   |   |   |   |   |   |   |
-| 3 |   |   |   |   |   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
-| 6 |   |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 |   |   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
-| 12 |   |   |   |   |   |   |   |   |   |   |
-| 13 |   |   |   |   |   |   |   |   |   |   |
-| 14 |   |   |   |   |   |   |   |   |   |   |
-| 15 |   |   |   |   |   |   |   |   |   |   |
-| 16 |   |   |   |   |   |   |   |   |   |   |
-| 17 |   |   |   |   |   |   |   |   |   |   |
-| 18 |   |   |   |   |   |   |   |   |   |   |
-| 19 |   |   |   |   |   |   |   |   |   |   |
-| 20 |   |   |   |   |   |   |   |   |   |   |
-| 21 |   |   |   |   |   |   |   |   |   |   |
-| 22 |   |   |   |   |   |   |   |   |   |   |
-| 23 |   |   |   |   |   |   |   |   |   |   |
-| 24 |   |   |   |   |   |   |   |   |   |   |
-| 25 |   |   |   |   |   |   |   |   |   |   |
-| 26 |   |   |   |   |   |   |   |   |   |   |
-| 27 |   |   |   |   |   |   |   |   |   |   |
-| 28 |   |   |   |   |   |   |   |   |   |   |
-| 29 |   |   |   |   |   |   |   |   |   |   |
-| 30 |   |   |   |   |   |   |   |   |   |   |
-| 31 |   |   |   |   |   |   |   |   |   |   |
-| Totaal: |   |   |   |   |   |   |   |   |   |   |
-| Gemiddeld: | Gemiddeld: |   |   |   |   |   |   |   |   |   |
-
-Wijze van berekening:
-
-Het gemiddelde van de geloosde gedispergeerde olie is het gewogen gemiddelde en wordt bepaald aan de hand van de volgende formule:
-
-- a. Bij iedere monstername voor analyse van het gedispergeerde oliegehalte wordt ook het bijbehorende debiet (in m3 per dag) van het geloosde water geregistreerd in kolom C;
-
-- b. Vermenigvuldig dan het gedispergeerde oliegehalte in mg/l (kolom E) met het bijbehorende debiet (kolom C). Dit resulteert in de hoeveelheid geloosde gedispergeerde olie op de dag van monstername. Noteer dit resultaat in kolom H;
-
-- c. Indien het BTEX-gehalte (kolom F) ook is geanalyseerd, vermenigvuldig dan dit gehalte met het bijbehorende debiet in kolom C. Het resultaat is de hoeveelheid geloosde BTEX op de dag van monstername. Noteer dit resultaat in kolom I;
-
-- d. Het totale oliegehalte (kolom G) is de som van het gedispergeerde oliegehalte en het BTEX-gehalte;
-
-- e. De hoeveelheid totale olie geloosd (kolom J) is de som van de hoeveelheden geloosde gedispergeerde olie (kolom H) en de geloosde BTEX (kolom I);
-
-- f. Op de dagen waarop geen monstername plaats vindt, gelden de data van de laatste monstername;
-
-- g. Op het einde van de maandelijkse periode worden de kolommen C, H, I en J in de rij totaal opgeteld. Vervolgens wordt het gemiddelde voor een maand berekend door de totale hoeveelheden voor de gehele maand aan gedispergeerde olie, BTEX en totale olie te delen door het totaal debiet voor die maand.
-
-## Bijlage 15. behorende bij [artikel 12.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=12&artikel=12.2&z=2024-01-01&g=2024-01-01)
-
-### C. De vergoeding, bedoeld in [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133), in verband met een gastransportnet
-
-### D. De vergoeding voor het nemen van een besluit, het adviseren over of instemmen met, het beoordelen van een melding, het beoordelen van gegevens en bescheiden als bedoeld in [artikel 133, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) en een rapport inzake grote gevaren, als bedoeld in [artikel 127, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=127)
-
-## Bijlage 15a. behorende bij [artikel 12.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=12&artikel=12.2&z=2024-01-01&g=2024-01-01)
-
-- 1. De vergoeding die jaarlijks in rekening wordt gebracht aan een houder van een startvergunning aardwarmte, bedraagt € 6.157.
-
-- 2. De vergoeding die jaarlijks in rekening wordt gebracht aan een houder van een vervolgvergunning aardwarmte, bedraagt € 5.367.
-
-- 3. In afwijking van het eerste en tweede lid wordt de vergoeding niet in rekening gebracht in het kalenderjaar waarin de vergunning is verleend.
-
-- 1. De vergoeding voor het nemen van een besluit, het adviseren over of het instemmen met of het doen van een beoordeling op aanvraag is gelijk aan het bij de desbetreffende handeling genoemde bedrag in onderstaande tabel, te verhogen met de kosten voor het bekendmaken of mededelen van ontwerpbesluiten en besluiten in de media.
-
-- 2. In het geval krachtens de [Regeling leges omgevingsvergunning rijksoverheid](https://wetten.overheid.nl/jci1.3:c:BWBR0028564) een vergoeding verschuldigd is, blijven de [artikelen 2.13](onbekend) en [2.15 van die regeling](onbekend) buiten toepassing, indien in deze bijlage in een vergoeding is voorzien.
-
-- 3. In afwijking van het eerste lid is de vergoeding voor het nemen van een besluit, het adviseren over of het instemmen met of het doen van een beoordeling op een aanvraag die is ingediend voor 1 mei 2023, gelijk aan nul.
-
-|   | Het bedrag behorend bij | als bedoeld in | is |
-| --- | --- | --- | --- |
-| a | het intrekken van een besluit | [artikel 161a, tweede lid, onderdelen b, c, en f tot en met j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=161a) | € 0 |
-| b | het verlenen van een toewijzing zoekgebied | [artikel 24d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24d) | € 5.494 |
-| c | het wijzigen van een toewijzing zoekgebied | [artikel 24l, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24l) | € 5.709 |
-| d | het intrekken van een toewijzing zoekgebied | [artikel 24l, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24l) | € 2.107 |
-| e | het verlenen van een startvergunning (uitgebreide procedure) | [artikelen 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24n) in samenhang met [24r van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24r) | € 39.370 |
-| f | het wijzigen van een startvergunning | [artikel 24ab, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ab) | € 14.224 |
-| g | het intrekken van een startvergunning | [artikel 24ab, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ab) | € 4.920 |
-| h | het verlenen van een vervolgvergunning (uitgebreide procedure) | [artikelen 24ae](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ae) in samenhang met [24ag van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ag) | € 39.370 |
-| i | het verlenen van een vervolgvergunning (reguliere procedure) | [artikel 24ae van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ae) | € 12.195 |
-| j | het wijzigen van een vervolgvergunning | [artikel 24ao, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ao) | € 13.650 |
-| k | het intrekken van een vervolgvergunning | [artikel 24ao, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ao) | € 2.460 |
-| l | het instemmen met de aanwijzing van een uitvoerder | [artikel 24z, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24z) | € 4.400 |
-| m | het wijzigen of intrekken van de instemming met de aanwijzing van een uitvoerder | [artikel 24z, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24z) | € 4.400 |
-| n | het verlenen of wijzigen van een omgevingsvergunning met de reguliere procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.2 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.2) en [artikel 3.3, vierde lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=3.3) | € 8.148 |
-| o | het verlenen of wijzigen van een omgevingsvergunning met de uitgebreide procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.3 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.3) en [artikel 3.3, vierde lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=3.3) | € 15.742 |
-| p | het verlenen van een omgevingsvergunning inzake een verandering van een inrichting of mijnbouwwerk of de werking daarvan, die niet leidt tot andere of grotere nadelige gevolgen voor het milieu met de reguliere procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.2) in samenhang met [artikel 3.10, derde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=3.10) en [artikel 3.3, vierde lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=3.3) | € 5.500 |
-| q | het verlenen van een omgevingsvergunning inzake een verandering van een inrichting of mijnbouwwerk of de werking daarvan, die niet leidt tot andere of grotere nadelige gevolgen voor het milieu met de uitgebreide procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.3) en [art. 3.10, derde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=3.10) en [artikel 3.3, vierde lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=3.3) | € 8.480 |
-| r | het verlenen van een omgevingsvergunning met beoordeling milieueffectrapportage met de reguliere procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.2, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.2), alsmede [artikel 7.16 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.16) | € 10.600 |
-| s | het verlenen van een omgevingsvergunning met beoordeling milieueffectrapportage met de uitgebreide procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.3, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.3), alsmede [artikel 7.16 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.16) | € 13.160 |
-| t | het verlenen van een omgevingsvergunning met een milieueffectrapportage met de reguliere procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.2, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.2) en [artikel 7.28 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.28) | € 16.150 |
-| u | het verlenen van een omgevingsvergunning met een milieueffectrapportage met de uitgebreide procedure | [artikel 2.1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [paragraaf 3.3, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.3) en [artikel 7.28 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.28) | € 18.980 |
-| v | het verlenen van een vergunning voor het gebruik van ontplofbare stoffen voor verkenningsonderzoek, te verrichten anders dan in oppervlaktewater | [artikel 22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=22) | € 4.400 |
-| w | het verlenen of wijzigen van een ontheffing voor verkenningsonderzoek binnen een afstand van 100 m van hoofdwaterkerende dijken | [artikel 2.2.4, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=2&paragraaf=2.2&artikel=2.2.4&z=2024-01-01&g=2024-01-01) | € 12.240 |
-| x | het verlenen of wijzigen van een ontheffing voor verkenningsonderzoek op afstand kleiner dan 50 m van gebouwen of objecten | [artikel 2.2.4, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=2&paragraaf=2.2&artikel=2.2.4&z=2024-01-01&g=2024-01-01) | € 12.240 |
-| y | de ontheffing voor meetapparatuur | [artikel 35, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=35) | € 1.324 |
-| z | het instemmen met het meetplan | [artikel 30, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=30) | € 1.080 |
-| aa | het na uitvoering van een milieueffectrapportage verlenen van een vergunning voor het leggen van pijpleidingen | [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=95) in samenhang met [artikel 94, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=94) | € 4.361 |
-| bb | het verlenen van een instemming de frequentie van het onderzoek te verminderen | [artikel 99, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=99) | € 1.984 |
-| cc | het instemmen met her-ingebruikname van de pijpleiding | [artikel 101, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=101) | € 1.640 |
-| dd | het instemmen met en wijzigen van de instemming met een verwijderingsplan mijnbouwwerk, kabels of pijpleidingen | [artikelen 44a, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a), en [45, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) | € 5.500 |
-| ee | het beoordelen van een melding van het voornemen om werkzaamheden uit te voeren, het wijzigen van die melding | [artikel 7 van het Besluit algemene regels milieu mijnbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0023771&artikel=7) | € 1.020 |
-| ff | het verlenen of wijzigen van een ontheffing voor de boorgatafsluiters of de uitbreiding van de beveiligingsinstallatie | [artikel 8.3.1.4, zesde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2024-01-01&g=2024-01-01) | € 1.620 |
-| gg | het verlenen of wijzigen van een ontheffing voor het hoofdbedieningsverdeelwerk | [artikel 8.3.1.5, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.5&z=2024-01-01&g=2024-01-01) | € 1.404 |
-| hh | het verlenen of wijzigen van een ontheffing voor een persproef | [artikel 8.3.2.2, vierde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.2&z=2024-01-01&g=2024-01-01) | € 1.404 |
-| ii | het verlenen of wijzigen van een ontheffing voor het aantal beveiligingen van de put | [artikel 8.3.4.1, vierde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.4&artikel=8.3.4.1&z=2024-01-01&g=2024-01-01) | € 1.440 |
-| jj | het verlenen of wijzigen van een ontheffing voor bepaalde gevallen, inzake een effectieve en duurzame methode voor het buiten gebruik stellen van putten. | [artikel 8.5.1.4, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.1&artikel=8.5.1.4&z=2024-01-01&g=2024-01-01) | € 2.628 |
-| kk | het beoordelen van een melding buiten werking stellen | [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44), en [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) | € 2.030 |
-| ll | het verlenen van ontheffing en wijzigen van de ontheffing van overleggen verwijderingsplan | [artikelen 44b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44b), en [45, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45), in samenhang met [artikel 40e van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=40e) | € 2.030 |
-| mm | het instemmen met het rapport over de verwijdering mijnbouwwerk, kabels, pijpleidingen | [artikelen 44c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44c), en [45, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) | € 5.500 |
-
-De vergoeding, bedoeld in de onderdelen A en B, wordt verhoogd met:
-
-- a. de kosten van onderzoek, bedoeld in [artikel 127, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=127), naar:
-
-- 1°. de effecten van de wijze van winning alsmede de daarmee verband houdende activiteiten;
-
-- 2°. de effecten van bodembeweging ten gevolge van de winning en de maatregelen ter voorkoming van schade door bodembeweging;
-
-- 3°. de risico’s voor omwonenden, gebouwen of infrastructurele werken of de functionaliteit daarvan;
-
-- 4°. het nemen van monsters die nodig zijn voor het onderzoek;
-
-- 5°. het berekenen van risico’s en het uitvoeren van analyses op monsters, indien van belang in verband met de effecten, bedoeld in subonderdelen 1° en 2° of de risico’s, bedoeld in subonderdeel 3°; en
-
-- b. de kosten, die zijn gemaakt voor het onderzoek, bedoeld in onderdeel a, die betrekking hebben op de volgende componenten:
-
-- 1°. berekeningen, controleberekeningen, literatuurstudies, analyses, modelstudies en onderzoeken;
-
-- 2°. het opstellen van rapportages en adviezen;
-
-- 3°. laboratoriumkosten;
-
-- 4°. verwerkings- en verzendkosten;
-
-- 5°. administratiekosten;
-
-- 6°. een bedrag per uur per met de werkzaamheden belaste persoon;
-
-- 7°. overige kosten die verband houden met deze werkzaamheden.
-
-## Bijlage 16. Productielocaties Groningenveld (bijlage als bedoeld in [artikel 1.3a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.1&z=2024-01-01&g=2024-01-01), van de Mijnbouwregeling)
-
-| Naam productielocatie | Putnamen |
-| --- | --- |
-| Amsweer | AMR-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12 |
-| Bierum | BIR-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12,-13 |
-| De Eeker | EKR-101,-102,-103,-104,-105,-107,-108,-109,-110,-111,-112, -201,-202,-203,-204,-205,-206,-207,-208,-209, -210 |
-| Eemskanaal | EKL-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12,-13 |
-| Kooipolder | KPD-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12 |
-| Leermens | LRM-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| De Paauwen | PAU-2,-3,-4,-5,-6 |
-| Oudeweg | OWG-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Overschild | OVS-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Ten Post | POS-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Schaapbulten | SCB-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Siddeburen | SDB-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Slochteren | SLO-2,-3,-4,-5,-6,-7,-8,-9, FRB-1,-2,-3,-4,-5,-6,-7,-8 |
-| Spitsbergen | SPI-101,-102,-103,-104,-105,-106,-107,-108,-109,-110, -201,-202,-203,-204,-205,-206,-207,-208,-209 |
-| Scheemderzwaag | SZW-101,-102,-103,-104,-105,-106,-107,-108,-109, -110, -201,-202,-203,-204,-205,-206,-207,-208,-209, -210 |
-| ’t Zandt | ZND-2,-3,-4,-5,-7,-9,-10,-12 |
-| Tjuchem | TJM-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Tusschenklappen | TUS-2,-3,-4,-5,-6,-7,-8,-9,-10, SAP-6,-7,-8,-9,-10,-11,-12,-13,-15 |
-| Zuiderpolder | ZDP-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12 |
-| Zuiderveen | ZVN-2,-3,-4,-5,-7,-8,-9,-10,-11,-12,-13 |
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-#### § 1.7. Aanvraag vergunning pijpleidingen en kabels
-
-#### § 1.11. Werkplan
-
-#### § 2.1. Verkenningsonderzoek in oppervlaktewater
-
-#### § 2.6. Het laden van schietgaten
-
-### Afdeling 8.3. Regels bij het aanleggen, wijzigen, uitbreiden van boorgaten alsmede gebruik en reparatie van putten
-
-#### § 8.3.2. Testen van boorgat- en schuifafsluiters
-
-### Afdeling 8.4. Inrichting van putten
-
-### Afdeling 8.5. Het buiten gebruik stellen van boorgaten en putten
-
-#### § 8.5.2. Regels over het buiten gebruik stellen van putten
-
-#### § 8.5.3. Regels voor de uitvoering van het buiten gebruik stellen van putten
-
-### Hoofdstuk 9. Gebruik en lozen van oliehoudende mengsels en chemicaliën
-
-#### § 9.1. Oliehoudende mengsels
-
-#### § 9.3. Registratie van chemicaliën
-
-### Hoofdstuk 10. Pijpleidingen
-
-### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
-
-#### § 11a.2. Rapport inzake grote gevaren
-
-#### § 11a.6. Kennisgevingen en informatie-uitwisseling
-
-### Hoofdstuk 12. Financiële bepaling en retributie
-
-### hoofdstuk 14. Overgangsbepalingen
-
-#### § 14.1. Overgangsbepalingen met betrekking tot helikopterdekken
-
-#### § 14.5. Overgangsbepalingen met betrekking tot de verstrekking van gegevens
-
-### Hoofdstuk 15. Slotbepalingen
-
-### C. Technische gegevens
-
-## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2026-01-01&g=2026-01-01) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
-
-### 1
-
-### 3
-
-## Bijlage 2a. behorende bij de [artikelen 1.3b.1, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.1&z=2026-01-01&g=2026-01-01), [1.3b.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.2&z=2026-01-01&g=2026-01-01), en [1.3b.3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3b&artikel=1.3b.3&z=2026-01-01&g=2026-01-01) Gegevens over te leggen bij een aanvraag om een toewijzing zoekgebied of startvergunning aardwarmte of om instemming met de aanwijzing van de uitvoerder aardwarmte
-
-De ervaringen met betrekking tot de ontwikkeling van mijnbouwactiviteiten of het uitvoeren van feitelijke werkzaamheden voor mijnbouwactiviteiten binnen het Nederlands territoir van de aanvrager of de uitvoerder aardwarmte of de personen, die naar het oordeel van de aanvrager of de uitvoerder aardwarmte kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager of de uitvoerder aardwarmte behoort, onder vermelding van:
-
-- a. de soort mijnbouwactiviteit;
-
-- b. de vergunning of vergunningen waaronder de mijnbouwactiviteiten worden of zijn verricht;
-
-- c. de rol van de aanvrager of de uitvoerder aardwarmte bij de mijnbouwactiviteit;
-
-- d. indien het een mijnbouwactiviteit betreft waarbij boringen zijn verricht, het aantal verrichte boringen;
-
-- e. de ondernemer bij wie de technische leiding van de werkzaamheden berust of berustte;
-
-- f. het gebied waar en het tijdvak waarin de activiteit plaatsvond of ten tijde van het indienen van de aanvraag plaatsvindt.
-
-De verkennings- en opsporingsonderzoeken naar aardwarmte, verricht voor rekening van de aanvrager of van de personen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, binnen het Nederlands territoir, onder vermelding van:
-
-- a. de omvang van de verrichte seismische onderzoekingen:
-
-- 1°. uitgedrukt in kilometers verkende sectielijnen, indien het tweedimensionale seismische onderzoekingen betreft;
-
-- 2°. uitgedrukt in kilometers seismische bedekking, indien het driedimensionale seismische onderzoekingen betreft;
-
-- b. opsporingsonderzoeken en andere verkenningsonderzoeken dan die bedoeld in onderdeel a;
-
-- c. de totale kosten van de werkzaamheden, bedoeld in de onderdelen a en b, uitgedrukt in euro's, voor zover deze voor rekening zijn gekomen van de aanvrager of van de personen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort.
-
-De hoeveelheid aardwarmte, uitgedrukt in petajoule, die het afgelopen kalenderjaar zowel in totaal als gesplitst per land is gewonnen door de aanvrager afzonderlijk en gezamenlijk door de aanvrager en de personen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort.
-
-## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2026-01-01&g=2026-01-01) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2026-01-01&g=2026-01-01)
-
-## Bijlage 4. behorende bij de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2026-01-01&g=2026-01-01)
-
-Vervallen
-
-### 1.0. Projectgegevens
-
-### 2.0. Put gegevens
-
-### 3.0. geologische gegevens
-
-## Bijlage 13. behorende bij [artikel 8.3.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.5&z=2026-01-01&g=2026-01-01) Capaciteitstest
-
-## Bijlage 14. behorende bij [artikel 9.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.6&z=2026-01-01&g=2026-01-01), van de Mijnbouwregeling
-
-| 1) Mijnonderneming: | 1) Mijnonderneming: | 1) Mijnonderneming: |   |   | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: |   | 11) Aantal analyses: | 11) Aantal analyses: |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: | 2) Mijnbouwinstallatie: |   |   | 7) Type debietmeter: | 7) Type debietmeter: | 7) Type debietmeter: |   | 12) Hoogste waarde (kolom E): | 12) Hoogste waarde (kolom E): |
-| 3) Maand / Jaar: | 3) Maand / Jaar: | a |   |   | 8) Plaats van Monstername: | 8) Plaats van Monstername: | 8) Plaats van Monstername: |   | 13) Aantal analyses > 30 mg/l (kolom E): | 13) Aantal analyses > 30 mg/l (kolom E): |
-| 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: | 4) Soort oliehoudend mengsel: |   |   | 9) Wijze van analyseren: | 9) Wijze van analyseren: | 9) Wijze van analyseren: |   |   |   |
-| 5) Plaats van debietmeting: | 5) Plaats van debietmeting: | 5) Plaats van debietmeting: |   |   | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur | 10) Type analyse-apparatuur |   |   |   |
-| A | B | C | D | E | F | G | H | I | J | K |
-| Dag nr. | Tijdstip monstername | Debiet | Datum Analyse | Gedispergeerde oliegehalte | BTEX – gehalte | Totale oliegehalte | Gedispergeerde olie | BTEX | Totale olie | Opmerkingen |
-|   | uu:mm | m3/dag | ddmmjj | mg/l | mg/l | mg/l | kg/dag | kg/dag | kg/dag |   |
-| 1 |   |   |   |   |   |   |   |   |   |   |
-| 2 |   |   |   |   |   |   |   |   |   |   |
-| 3 |   |   |   |   |   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
-| 6 |   |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 |   |   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
-| 12 |   |   |   |   |   |   |   |   |   |   |
-| 13 |   |   |   |   |   |   |   |   |   |   |
-| 14 |   |   |   |   |   |   |   |   |   |   |
-| 15 |   |   |   |   |   |   |   |   |   |   |
-| 16 |   |   |   |   |   |   |   |   |   |   |
-| 17 |   |   |   |   |   |   |   |   |   |   |
-| 18 |   |   |   |   |   |   |   |   |   |   |
-| 19 |   |   |   |   |   |   |   |   |   |   |
-| 20 |   |   |   |   |   |   |   |   |   |   |
-| 21 |   |   |   |   |   |   |   |   |   |   |
-| 22 |   |   |   |   |   |   |   |   |   |   |
-| 23 |   |   |   |   |   |   |   |   |   |   |
-| 24 |   |   |   |   |   |   |   |   |   |   |
-| 25 |   |   |   |   |   |   |   |   |   |   |
-| 26 |   |   |   |   |   |   |   |   |   |   |
-| 27 |   |   |   |   |   |   |   |   |   |   |
-| 28 |   |   |   |   |   |   |   |   |   |   |
-| 29 |   |   |   |   |   |   |   |   |   |   |
-| 30 |   |   |   |   |   |   |   |   |   |   |
-| 31 |   |   |   |   |   |   |   |   |   |   |
-| Totaal: |   |   |   |   |   |   |   |   |   |   |
-| Gemiddeld: | Gemiddeld: |   |   |   |   |   |   |   |   |   |
-
-Wijze van berekening:
-
-Het gemiddelde van de geloosde gedispergeerde olie is het gewogen gemiddelde en wordt bepaald aan de hand van de volgende formule:
-
-- a. Bij iedere monstername voor analyse van het gedispergeerde oliegehalte wordt ook het bijbehorende debiet (in m3 per dag) van het geloosde water geregistreerd in kolom C;
-
-- b. Vermenigvuldig dan het gedispergeerde oliegehalte in mg/l (kolom E) met het bijbehorende debiet (kolom C). Dit resulteert in de hoeveelheid geloosde gedispergeerde olie op de dag van monstername. Noteer dit resultaat in kolom H;
-
-- c. Indien het BTEX-gehalte (kolom F) ook is geanalyseerd, vermenigvuldig dan dit gehalte met het bijbehorende debiet in kolom C. Het resultaat is de hoeveelheid geloosde BTEX op de dag van monstername. Noteer dit resultaat in kolom I;
-
-- d. Het totale oliegehalte (kolom G) is de som van het gedispergeerde oliegehalte en het BTEX-gehalte;
-
-- e. De hoeveelheid totale olie geloosd (kolom J) is de som van de hoeveelheden geloosde gedispergeerde olie (kolom H) en de geloosde BTEX (kolom I);
-
-- f. Op de dagen waarop geen monstername plaats vindt, gelden de data van de laatste monstername;
-
-- g. Op het einde van de maandelijkse periode worden de kolommen C, H, I en J in de rij totaal opgeteld. Vervolgens wordt het gemiddelde voor een maand berekend door de totale hoeveelheden voor de gehele maand aan gedispergeerde olie, BTEX en totale olie te delen door het totaal debiet voor die maand.
-
-## Bijlage 15. behorende bij [artikel 12.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=12&artikel=12.2&z=2026-01-01&g=2026-01-01)
-
-### A. Begripsbepalingen
-
-### B. De vergoeding voor het uitvoeren van taken als bedoeld in [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) in verband met een mijnbouwwerk
-
-## Bijlage 15a. behorende bij [artikel 12.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=12&artikel=12.2&z=2026-01-01&g=2026-01-01)
-
-- 1. De vergoeding die jaarlijks in rekening wordt gebracht aan een houder van een startvergunning aardwarmte, bedraagt € 6.941.
-
-- 2. De vergoeding die jaarlijks in rekening wordt gebracht aan een houder van een vervolgvergunning aardwarmte, bedraagt € 6.050.
-
-- 3. In afwijking van het eerste en tweede lid wordt de vergoeding niet in rekening gebracht in het kalenderjaar waarin de vergunning is verleend.
-
-- 1. De vergoeding voor het nemen van een besluit, het adviseren over of het instemmen met of het doen van een beoordeling op aanvraag is gelijk aan het bij de desbetreffende handeling genoemde bedrag in onderstaande tabel, te verhogen met de kosten voor het bekendmaken of mededelen van ontwerpbesluiten en besluiten in de media.
-
-- 2. In afwijking van het eerste lid is de vergoeding voor het nemen van een besluit, het adviseren over of het instemmen met of het doen van een beoordeling op een aanvraag die is ingediend voor 1 mei 2023, gelijk aan nul.
-
-|   | Het bedrag behorend bij | als bedoeld in | is |
-| --- | --- | --- | --- |
-| a | het intrekken van een besluit | [artikel 161a, tweede lid, onderdelen b, c, en f tot en met j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=161a) | € 0 |
-| b | het verlenen van een toewijzing zoekgebied | [artikel 24d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24d) | € 6.193 |
-| c | het wijzigen van een toewijzing zoekgebied | [artikel 24l, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24l) | € 6.436 |
-| d | het intrekken van een toewijzing zoekgebied | [artikel 24l, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24l) | € 2.375 |
-| e | het verlenen van een startvergunning (uitgebreide procedure) | [artikelen 24n](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24n) in samenhang met [24r van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24r) | € 44.381 |
-| f | het wijzigen van een startvergunning | [artikel 24ab, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ab) | € 16.034 |
-| g | het intrekken van een startvergunning | [artikel 24ab, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ab) | € 5.546 |
-| h | het verlenen van een vervolgvergunning (uitgebreide procedure) | [artikelen 24ae](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ae) in samenhang met [24ag van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ag) | € 44.381 |
-| i | het verlenen van een vervolgvergunning (reguliere procedure) | [artikel 24ae van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ae) | € 13.747 |
-| j | het wijzigen van een vervolgvergunning | [artikel 24ao, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ao) | € 15.387 |
-| k | het intrekken van een vervolgvergunning | [artikel 24ao, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ao) | € 2.773 |
-| l | het instemmen met de aanwijzing van een uitvoerder | [artikel 24z, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24z) | € 4.960 |
-| m | het wijzigen of intrekken van de instemming met de aanwijzing van een uitvoerder | [artikel 24z, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24z) | € 4.960 |
-| n | het verlenen van een vergunning voor het gebruik van ontplofbare stoffen voor verkenningsonderzoek, te verrichten anders dan in oppervlaktewater | [artikel 22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=22) | € 4.960 |
-| o | het verlenen of wijzigen van een ontheffing voor verkenningsonderzoek binnen een afstand van 100 m van hoofdwaterkerende dijken | [artikel 2.2.4, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=2&paragraaf=2.2&artikel=2.2.4&z=2026-01-01&g=2026-01-01) | € 13.798 |
-| p | het verlenen of wijzigen van een ontheffing voor verkenningsonderzoek op afstand kleiner dan 50 m van gebouwen of objecten | [artikel 2.2.4, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=2&paragraaf=2.2&artikel=2.2.4&z=2026-01-01&g=2026-01-01) | € 13.798 |
-| q | de ontheffing voor meetapparatuur | [artikel 35, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=35) | € 1.493 |
-| r | het instemmen met het meetplan | [artikel 30, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=30) | € 1.217 |
-| s | het na uitvoering van een milieueffectrapportage verlenen van een vergunning voor het leggen van pijpleidingen | [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=95) in samenhang met [artikel 94, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=94) | € 4.916 |
-| t | het verlenen van een instemming de frequentie van het onderzoek te verminderen | [artikel 99, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=99) | € 2.237 |
-| u | het instemmen met her-ingebruikname van de pijpleiding | [artikel 101, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=101) | € 1.849 |
-| v | het instemmen met en wijzigen van de instemming met een verwijderingsplan mijnbouwwerk, kabels of pijpleidingen | [artikelen 44a, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a), en [45, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) | € 6.200 |
-| w | het beoordelen van een melding van het voornemen om werkzaamheden uit te voeren, het wijzigen van die melding | [artikel 7 van het Besluit algemene regels milieu mijnbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0023771&artikel=7) | € 1.150 |
-| x | het verlenen of wijzigen van een ontheffing voor de boorgatafsluiters of de uitbreiding van de beveiligingsinstallatie | [artikel 8.3.1.4, zesde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2026-01-01&g=2026-01-01) | € 1.826 |
-| y | het verlenen of wijzigen van een ontheffing voor het hoofdbedieningsverdeelwerk | [artikel 8.3.1.5, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.5&z=2026-01-01&g=2026-01-01) | € 1.583 |
-| z | het verlenen of wijzigen van een ontheffing voor een persproef | [artikel 8.3.2.2, vierde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.2&z=2026-01-01&g=2026-01-01) | € 1.583 |
-| aa | het verlenen of wijzigen van een ontheffing voor het aantal beveiligingen van de put | [artikel 8.3.4.1, vierde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.4&artikel=8.3.4.1&z=2026-01-01&g=2026-01-01) | € 1.623 |
-| bb | het verlenen of wijzigen van een ontheffing voor bepaalde gevallen, inzake een effectieve en duurzame methode voor het buiten gebruik stellen van putten. | [artikel 8.5.1.4, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.1&artikel=8.5.1.4&z=2026-01-01&g=2026-01-01) | € 2.962 |
-| cc | het beoordelen van een melding buiten werking stellen | [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44), en [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) | € 2.288 |
-| dd | het verlenen van ontheffing en wijzigen van de ontheffing van overleggen verwijderingsplan | [artikelen 44b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44b), en [45, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45), in samenhang met [artikel 40e van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=40e) | € 2.288 |
-| ee | het instemmen met het rapport over de verwijdering mijnbouwwerk, kabels, pijpleidingen | [artikelen 44c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44c), en [45, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) | € 6.200 |
-
-De vergoeding, bedoeld in de onderdelen A en B, wordt verhoogd met:
-
-- a. de kosten van onderzoek, bedoeld in [artikel 127, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=127), naar:
-
-- 1°. de effecten van de wijze van winning alsmede de daarmee verband houdende activiteiten;
-
-- 2°. de effecten van bodembeweging ten gevolge van de winning en de maatregelen ter voorkoming van schade door bodembeweging;
-
-- 3°. de risico’s voor omwonenden, gebouwen of infrastructurele werken of de functionaliteit daarvan;
-
-- 4°. het nemen van monsters die nodig zijn voor het onderzoek;
-
-- 5°. het berekenen van risico’s en het uitvoeren van analyses op monsters, indien van belang in verband met de effecten, bedoeld in subonderdelen 1° en 2° of de risico’s, bedoeld in subonderdeel 3°; en
-
-- b. de kosten, die zijn gemaakt voor het onderzoek, bedoeld in onderdeel a, die betrekking hebben op de volgende componenten:
-
-- 1°. berekeningen, controleberekeningen, literatuurstudies, analyses, modelstudies en onderzoeken;
-
-- 2°. het opstellen van rapportages en adviezen;
-
-- 3°. laboratoriumkosten;
-
-- 4°. verwerkings- en verzendkosten;
-
-- 5°. administratiekosten;
-
-- 6°. een bedrag per uur per met de werkzaamheden belaste persoon;
-
-- 7°. overige kosten die verband houden met deze werkzaamheden.
-
-## Bijlage 16. Productielocaties Groningenveld (bijlage als bedoeld in [artikel 1.3a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3a&artikel=1.3a.1&z=2026-01-01&g=2026-01-01), van de Mijnbouwregeling)
-
-| Naam productielocatie | Putnamen |
-| --- | --- |
-| Amsweer | AMR-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12 |
-| Bierum | BIR-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12,-13 |
-| De Eeker | EKR-101,-102,-103,-104,-105,-107,-108,-109,-110,-111,-112, -201,-202,-203,-204,-205,-206,-207,-208,-209, -210 |
-| Eemskanaal | EKL-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12,-13 |
-| Kooipolder | KPD-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12 |
-| Leermens | LRM-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| De Paauwen | PAU-2,-3,-4,-5,-6 |
-| Oudeweg | OWG-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Overschild | OVS-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Ten Post | POS-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Schaapbulten | SCB-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Siddeburen | SDB-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Slochteren | SLO-2,-3,-4,-5,-6,-7,-8,-9, FRB-1,-2,-3,-4,-5,-6,-7,-8 |
-| Spitsbergen | SPI-101,-102,-103,-104,-105,-106,-107,-108,-109,-110, -201,-202,-203,-204,-205,-206,-207,-208,-209 |
-| Scheemderzwaag | SZW-101,-102,-103,-104,-105,-106,-107,-108,-109, -110, -201,-202,-203,-204,-205,-206,-207,-208,-209, -210 |
-| ’t Zandt | ZND-2,-3,-4,-5,-7,-9,-10,-12 |
-| Tjuchem | TJM-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11 |
-| Tusschenklappen | TUS-2,-3,-4,-5,-6,-7,-8,-9,-10, SAP-6,-7,-8,-9,-10,-11,-12,-13,-15 |
-| Zuiderpolder | ZDP-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12 |
-| Zuiderveen | ZVN-2,-3,-4,-5,-7,-8,-9,-10,-11,-12,-13 |
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
+Deze regeling wordt aangehaald als: Mijnbouwregeling.

@@ -1,36 +1,16 @@
 ---
 title: "Schoolbudget, meer vrijheid voor eigen personeelsbeleid"
 identifier: "BWBR0014941"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-05-21"
-last_updated: "2003-05-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014941"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6513153"
-version_id: "11209732"
-internal_id: "C15140521"
-label_id: "6501984"
-original_entry_into_force: "2003-05-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014941/2003-05-21/0"
-intitule_bron: "Uitleg.2003-13"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-04-09"
-intitule_published: "2003-05-21"
-intitule_in_force: "2003-05-21"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-13"
-original_signed_date: "2003-04-09"
-original_published_date: "2003-05-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-05-21"
-jci_1_3: "jci1.3:c:BWBR0014941&z=2003-05-21&g=2003-05-21"
-jci_1_0: "1.0:c:BWBR0014941&g=2003-05-21"
-citeertitel_status: "redactioneel"
-signed_date: "2003-04-09"
-entry_into_force: "2003-05-21"
+publicatiedatum: 2003-05-21
+laatste_update: 2003-05-21
+status: geldig
+toestand: 2003-05-21
+bron: "https://wetten.overheid.nl/BWBR0014941"
+opgehaald: 2026-08-07
 ---
+
 # Schoolbudget, meer vrijheid voor eigen personeelsbeleid
 
 ### Schoolbudget
@@ -43,6 +23,12 @@ Uit onderzoek is gebleken, dat onder andere door gebrek aan informatie relatief 
 
 Voordelen van het schoolbudget:
 
+- minimale beperkingen en maximale bestedingsvrijheid;
+
+- eenvoudig en overzichtelijk beheer door uitkering in geld en niet in fre’s;
+
+- reserveren is mogelijk om daarmee toekomstige knelpunten op te kunnen vangen.
+
 ### Onderscheid formatiebudget en schoolbudget
 
 De reguliere bekostiging van het primair onderwijs kent twee categorieën: de personele vergoeding en de vergoeding voor materiële instandhouding. Voor de personele vergoeding krijgen de scholen formatieruimte toegekend in de vorm van formatierekeneenheden. Elke functie in de school wordt uitgedrukt in een aantal fre’s. Wat een leraar of een directeur verdient, doet niet ter zake. Niet het salaris, maar de maximale schaal van de functie bepaalt het fre-verbruik. De daarbij behorende salariskosten kunnen vervolgens bij het Ministerie van Onderwijs, Cultuur en Wetenschappen worden gedeclareerd.
@@ -53,6 +39,12 @@ Formatierekeneenheden kunnen niet worden gespaard voor volgende schooljaren. Het
 
 Het schoolbudget wordt uitgekeerd in geld. Zodra er uit dit budget personeel wordt aangesteld, is de hoogte van het salaris wel degelijk van belang. De school zal dus een afweging moeten maken: kiezen voor lage kosten van een onervaren iemand, of voor hogere kosten voor het aanstellen van een ervaren werknemer. De school is echter geheel vrij om te kiezen welke functies vanuit het schoolbudget worden bekostigd. Het is bijvoorbeeld mogelijk om twaalf leraren te bekostigen uit het formatiebudget en een extra leraar uit het schoolbudget.
 
+| Budget | Uitkering in | Doel | Besteding | Reserveren |
+| --- | --- | --- | --- | --- |
+| Formatiebudget | Formatierekeneenheden | Salaris personeel | Salaris directie, leraren, onderwijsondersteunend personeel | Alleen na verzilvering |
+| Budget materiële instandhouding | Geld | Gebruik en verbruik van materiaal en onderhoud daarvan | Leermiddelen, meubilair, schoonmaak, onderhoud, medezeggenschap | Ja |
+| Schoolbudget | Geld | Personeelsgebonden kosten in ruime zin | Alle kosten die betrekking hebben op ontwikkeling en uitvoering van personeelsbeleid | Ja |
+
 ### Waarvoor is het schoolbudget bedoeld?
 
 Het schoolbudget is bedoeld voor personeelsgebonden kosten in de ruimste zin van het woord en daarmee zijn tevens de mogelijkheden en de grenzen van de besteding bepaald. Personeelsgebonden kosten zijn alle kosten die voor het personeel worden gemaakt: opleiding, een goede bureaustoel, extra reiskostenvergoeding enzovoort. De enige voorwaarde is dat de personeelsgeleding van de medezeggenschapsraad met de uitgaven instemt. De overheid schrijft dus niet voor hoe en waarvoor het schoolbudget moet worden ingezet. Die keuze is aan de school of het schoolbestuur. De invoering van het schoolbudget is daarmee een eerste stap naar de invoering van lumpsumbekostiging (gepland in 2005).
@@ -61,7 +53,28 @@ In onderstaande tabel wordt aangegeven welke personeelsgebonden kosten moeten da
 
 Als er een kruisje staat in meer dan één kolom, kunnen de kosten uit verschillende budgetten worden betaald. Bijvoorbeeld: het schoolbudget is onder andere bedoeld om de extra salariskosten van hoger ingeschaald personeel te kunnen betalen. Als het schoolbudget niet toereikend is, kan hiervoor het formatiebudget of geld uit bijvoorbeeld de vergoeding voor de materiële instandhouding worden gebruikt.
 
+| Overzicht personeelsgebonden kosten | Formatiebudget | Schoolbudget, materiële instandhouding, verzilvering van fre’s, eigen middelen |
+| --- | --- | --- |
+| Kosten ondersteunende functionarissen | X | X |
+| Kosten voor LIO’s en hun begeleiders | X | X |
+| Extra salariskosten van hoger ingeschaald personeel | X | X |
+| Toelagen, gratificaties en extra periodieke verhogingen |  | X |
+| Salariskosten in verband met betaald ouderschapsverlof |  | X |
+| Kosten van nascholing en deskundigheidsbevordering van personeel en management |  | X |
+| Kosten van arbeidsmarktbeleid |  | X |
+| Integraal personeelsbeleid |  | X |
+
 Met de invoering van het schoolbudget is een aantal uitkeringen samengevoegd in één budget. Het gaat om:
+
+- nascholingsgelden;
+
+- schoolprofielbudget;
+
+- schoolbudget voor management, ondersteuning en arbeidsmarktomstandigheden (MOA-budget);
+
+- nascholing management primair onderwijs voor voorbereiding op integraal personeelsbeleid;
+
+- vergoeding voor schoolspecifieke knelpunten in de personeelsvoorziening.
 
 Regelingen waarop deze uitkeringen zijn gebaseerd, vervallen met de invoering van het schoolbudget. Langlopende verplichtingen die op basis van deze regelingen zijn aangegaan, moeten uiteraard wel worden bekostigd uit het schoolbudget. Als dit niet toereikend is, kan geld uit de vergoeding voor materiële instandhouding, uit verzilverde fre’s, of uit eigen middelen worden gebruikt.
 
@@ -70,6 +83,20 @@ Daarnaast is het schoolbudget verhoogd met extra investeringen in het kader van 
 ### Optimaal profijt van het schoolbudget door meerjarig beleid
 
 Om optimaal te profiteren van de vrijheid en de mogelijkheden die het schoolbudget biedt, is het noodzakelijk om een meerjarig (personeels)beleid te ontwikkelen. Dit beleid is afhankelijk van de specifieke situatie van de school. De volgende factoren kunnen een rol spelen:
+
+- verplichte uitgaven, bijvoorbeeld volgens de CAO of andere regelgeving;
+
+- bovenschools in te zetten deel van het schoolbudget;
+
+- continuering van bestaand beleid, bijvoorbeeld op het gebied van nascholing en (management)ondersteuning;
+
+- bestaande knelpunten in de personeelsbezetting;
+
+- reservering voor te verwachten knelpunten in de personeelsvoorziening;
+
+- nieuw beleid, waarbij gekeken wordt naar een integrale onderwijskundige en personele ontwikkeling;
+
+- nieuw beleid op het gebied van personeelsbeleid: inzet personeel, functie- en beloningsdifferentiatie.
 
 Bij het ontwikkelen van beleid speelt altijd de vraag naar de prioriteiten. Voor een school met onvervulde vacatures liggen die anders dan voor een school zonder dergelijke personele problemen. In het eerste geval zal de normale voortgang van het onderwijs een hoge prioriteit hebben en extra uitgaven om de instroom van nieuw personeel te bevorderen (bijvoorbeeld reiskostenvergoeding of vergoeding voor kinderopvang) zullen een relatief hoog beslag leggen op het schoolbudget. Een school met ernstige onderwijskundige knelpunten zal de inzet van personeelallereerst relateren aan het bestrijden van die knelpunten. Zo kan de noodzaak om goed taalbeleid te implementeren leiden tot relatief hoge uitgaven voor de deskundigheidsbevordering van de leraren. Kortom, elke school heeft te maken met omstandigheden die de beleidskeuzes bepalen bij de inzet van het schoolbudget.
 
@@ -82,6 +109,16 @@ De omschrijvingen van de personeelsgebonden kosten die vanuit het schoolbudget k
 Het onderscheid tussen ondersteuning van leraren (bijvoorbeeld onderwijsassistenten of lerarenondersteuners) en de schoolleiders (bijvoorbeeld administratieve ondersteuning) wordt niet gemaakt. Het hangt er dus van af waar de school de prioriteiten legt. Overigens kunnen ondersteunende functionarissen ook op bovenschools niveau worden ingezet, dus onder verantwoordelijkheid van het schoolbestuur. Hierbij kan gedacht worden aan ondersteuning van het bovenschools management.
 
 Voorbeelden:
+
+- administratieve ondersteuning van het management;
+
+- administratieve ondersteuning bij het gebruik van het leerlingvolgsysteem;
+
+- onderwijsassistenten;
+
+- eigen bijdrage in de kosten van instroombanen;
+
+- verruiming van de managementtijd van de schoolleiding.
 
 Let op: Het in dienst nemen van eigen personeel leidt vrijwel altijd tot langlopende verplichtingen.
 
@@ -97,6 +134,18 @@ Let op: Leraren in opleiding kunnen bekostigd worden uit het formatiebudget als 
 
 Functiedifferentiatie wordt gezien als een van de mogelijkheden om werken in het onderwijs aantrekkelijker te maken. Als er verschillende functies zijn, ontstaat er voor de leraren een carrièreperspectief met daaraan gekoppelde differentiatie in beloning. Functiedifferentiatie is een ingrijpend proces dat alleen goed uit de verf kan komen als er zorgvuldig beleid op wordt ontwikkeld. Op landelijk niveau zijn door de CAO-partners voorbeeldfuncties ontwikkeld en gewaardeerd:
 
+- lerarenondersteuner basisonderwijs (schaal 7);
+
+- lerarenondersteuner SBO/WEC (schaal 7);
+
+- leraar basisonderwijs (schaal LA);
+
+- senior leraar basisonderwijs (schaal LB);
+
+- leraar SBO/WEC (schaal LB);
+
+- senior leraar SBO/WEC (schaal LB + toelage).
+
 Bij de toepassing van functiedifferentiatie kan het bevoegd gezag ervoor kiezen om de functie geheel ten laste te laten komen van het schoolbudget, of gedeeltelijk van het schoolbudget en het formatiebudget, of geheel van het formatiebudget. In het laatste geval geldt het fre-verbruik van de maximumschaal van de functie.
 
 Let op: Functiedifferentiatie met beloningsdifferentiatie vraagt om een intensief personeelsbeleid en heeft altijd gevolgen op de lange termijn.
@@ -107,9 +156,13 @@ De school kan besluiten één of meer leraren extra te belonen vanwege het uitvo
 
 Let op:
 
+- Het toekennen van een extra periodieke verhoging geeft altijd lange termijn verplichtingen, omdat deze periodiek deel uitmaakt van het salaris. Bij een nieuwe betrekking blijven extra periodieken onder het schoolbudget vallen.
+
+- Het toekennen van extra periodieken heeft tot gevolg dat een personeelslid eerder in aanmerking komt voor een bindingstoelage. De bindingstoelage kan worden gedeclareerd uit het formatiebudget. De extra periodieken blijven echter ten laste van het schoolbudget tot het moment dat het personeelslid de hoogste trede van de maximumschaal zou bereiken zonder de extra periodieken.
+
 ### Extra salariskosten in verband met betaald ouderschapsverlof
 
-Elke werknemer heeft recht op ouderschapsverlof. Het schoolbestuur is verplicht dit verlof toe te kennen en gedurende die periode 75 procent van het salaris door te betalen over het aantal verlofuren. Het schoolbestuur moet de totale loonkosten van de omvang van ouderschapsverlof betalen. Hieronder vallen bijvoorbeeld ook de pensioenpremies en ZKOO-tegemoetkoming over de **volledige betrekkingsomvang** van het betrokken personeelslid.
+Elke werknemer heeft recht op ouderschapsverlof. Het schoolbestuur is verplicht dit verlof toe te kennen en gedurende die periode 75 procent van het salaris door te betalen over het aantal verlofuren. Het schoolbestuur moet de totale loonkosten van de omvang van ouderschapsverlof betalen. Hieronder vallen bijvoorbeeld ook de pensioenpremies en ZKOO-tegemoetkoming over de *volledige betrekkingsomvang* van het betrokken personeelslid.
 
 Let op: Het betalen van de salariskosten voor ouderschapsverlof is verplicht. Het is dan ook aan te bevelen hiervoor enige reserve aan te leggen. Hoe hoog die reserve moet zijn hangt af van de opbouw van het personeelsbestand. Bij gebruikmaking van het ouderschapsverlof komen de salariskosten voor rekening van het schoolbudget, echter het fre-verbruik van de verlofganger blijft doorlopen (declaratiecode 01).
 
@@ -127,6 +180,10 @@ Elke school is verplicht een arbo-contract af te sluiten. De kosten hiervan zijn
 
 Voorbeelden:
 
+- maatregelen ter vermindering van het ziekteverzuim;
+
+- maatregelen ter beperking WAO-instroom.
+
 Let op: Het afsluiten van een arbo-contract is een jaarlijks terugkerende verplichting.
 
 Deze kosten moeten altijd worden betaald uit het schoolbudget, de vergoeding voor materiële instandhouding, verzilverde fre’s en/of eigen middelen.
@@ -136,6 +193,18 @@ Deze kosten moeten altijd worden betaald uit het schoolbudget, de vergoeding voo
 Sommige scholen hebben relatief veel moeite om vacatures te vervullen en personeel aan zich te binden. Vanuit het schoolbudget kunnen vergoedingen worden verstrekt om het werken aan die betreffende scholen extra aantrekkelijk te maken.
 
 Voorbeelden:
+
+- tegemoetkoming in hogere woonlasten;
+
+- extra tegemoetkoming in de reiskosten;
+
+- tegemoetkoming voor kinderopvang;
+
+- verstrekken van een extra toelage;
+
+- toelagen voor vervangers;
+
+- extra toelagen voor herintreders (bovenop de verplichte inhaalslag - voor deze verplichte inhaalslag hebben de scholen in 2001-2002 een eenmalige extra verhoging van het schoolbudget ontvangen).
 
 ### Integraal personeelsbeleid
 
@@ -166,15 +235,3 @@ Indien salariskosten ten onrechte ten laste zijn gebracht van het formatiebudget
 De personeelsgeleding van de medezeggenschapsraad heeft instemmingsbevoegdheid ten aanzien van de vast­stelling of wijziging van de inzet van het schoolbudget. De ouder-/leerlinggeleding heeft een adviesbevoegdheid. Dit wordt geregeld in een wetsvoorstel met daarin onder andere een wijziging van de Wet medezeggenschap onderwijs dat inmiddels is ingediend bij de Tweede Kamer.
 
 Het schoolbestuur is verplicht de medezeggenschapsraad te informeren over de hoogte van het jaarlijks beschikbare schoolbudget.
-
-## Bijlage. Berekening van het schoolbudget
-
-De berekening van het schoolbudget volgt in grote lijnen dezelfde systematiek die geldt voor de berekening van het formatiebudget. Aangezien bij de besteding van het schoolbudget de school in een aantal gevallen meerjarige verplichtingen aan zal gaan, is het van groot belang om de hoogte ervan voor een aantal jaren vooruit te berekenen.
-
-Hieronder volgt een overzicht van de berekeningssystematiek (de bedragen zijn van toepassing voor het schooljaar 2003-2004). De bepaling van het aantal leerlingen geschiedt op basis van het aantal leerlingen dat de school op 1 oktober van het voorafgaande schooljaar bezocht.
-
-### Uitbetaling schoolbudget
-
-Het schoolbudget heeft betrekking op een schooljaar en wordt in het schooljaar 2003 - 2004 in twee termijnen uitbetaald:
-
-De uitkering van het schoolbudget hoeft niet te worden aangevraagd. Het budget wordt automatisch door CFI toegekend.

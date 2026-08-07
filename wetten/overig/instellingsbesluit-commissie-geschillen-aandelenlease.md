@@ -1,41 +1,17 @@
 ---
 title: "Instellingsbesluit Commissie Geschillen Aandelenlease"
 identifier: "BWBR0015700"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-10-18"
-last_updated: "2003-10-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015700"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5436513"
-version_id: "9783812"
-internal_id: "C13203381"
-label_id: "5411224"
-original_entry_into_force: "2003-10-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015700/2003-10-18/0"
-intitule_bron: "Stcrt.2003-200"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-10-08"
-intitule_published: "2003-10-16"
-intitule_in_force: "2003-10-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-200"
-original_signed_date: "2003-10-08"
-original_published_date: "2003-10-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-10-18"
-jci_1_3: "jci1.3:c:BWBR0015700&z=2003-10-18&g=2003-10-18"
-jci_1_0: "1.0:c:BWBR0015700&g=2003-10-18"
-citeertitel_status: "redactioneel"
-signed_date: "2003-10-08"
-entry_into_force: "2003-10-18"
+publicatiedatum: 2003-10-18
+laatste_update: 2003-10-18
+status: geldig
+toestand: 2003-10-18
+bron: "https://wetten.overheid.nl/BWBR0015700"
+opgehaald: 2026-08-07
 ---
+
 # Instellingsbesluit Commissie Geschillen Aandelenlease
-
-Overwegende dat het wenselijk is een Commissie Geschillen Aandelenlease in te stellen die tot taak heeft te bemiddelen tussen aanbieders en afnemers en aldus te bevorderen dat partijen onderling op een efficiënte wijze tot een oplossing komen voor de openstaande geschillen die voortvloeien uit de verkoop van aandelenleaseproducten in de jaren 1995 tot en met 2002;
-
-Besluit:
 
 ##### Artikel 1
 

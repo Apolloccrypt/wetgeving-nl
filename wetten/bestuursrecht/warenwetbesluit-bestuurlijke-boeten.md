@@ -5,11 +5,11 @@ identifier: "BWBR0011841"
 categorie: "Bestuursrecht"
 soort: "AMvB"
 publicatiedatum: 2001-02-01
-laatste_update: 2026-06-14
+laatste_update: 2026-08-07
 status: geldig
-toestand: 2026-06-14
+toestand: 2026-08-07
 bron: "https://wetten.overheid.nl/BWBR0011841"
-opgehaald: 2026-08-05
+opgehaald: 2026-08-07
 ---
 
 # Besluit van 27 november 2000, houdende vaststelling van het Warenwetbesluit bestuurlijke boeten

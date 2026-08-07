@@ -3,11 +3,12 @@ title: "Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de
 identifier: "BWBV0006907"
 categorie: "Internationaal recht"
 soort: "verdrag"
+publicatiedatum: 2026-09-01
 laatste_update: 2021-05-24
 status: geldig
 toestand: 2021-05-24
 bron: "https://wetten.overheid.nl/BWBV0006907"
-opgehaald: 2026-07-29
+opgehaald: 2026-08-07
 ---
 
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Republiek Chili

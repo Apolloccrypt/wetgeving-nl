@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0048464"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 6 juli 2023, nr. 39326205, houdende vaststelling van het Advieskader nieuwe scholen 2023

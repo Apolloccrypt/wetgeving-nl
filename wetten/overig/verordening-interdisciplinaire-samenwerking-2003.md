@@ -1,50 +1,17 @@
 ---
 title: "Verordening interdisciplinaire samenwerking 2003"
 identifier: "BWBR0015246"
-country: "nl"
-rank: "pbo"
-publication_date: "2003-10-01"
-last_updated: "2003-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015246"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6646973"
-version_id: "11483292"
-internal_id: "C15479591"
-label_id: "6635404"
-original_entry_into_force: "2003-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015246/2003-10-01/0"
-intitule_bron: "Stcrt.2003-185"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-06-18"
-intitule_published: "2003-09-25"
-intitule_in_force: "2003-09-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-185"
-original_signed_date: "2003-06-18"
-original_published_date: "2003-09-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-185-p22-SC61262"
-entry_into_force_date: "2003-10-01"
-jci_1_3: "jci1.3:c:BWBR0015246&z=2003-10-01&g=2003-10-01"
-jci_1_0: "1.0:c:BWBR0015246&g=2003-10-01"
-citeertitel_status: "officieel"
-signed_date: "2003-06-18"
-entry_into_force: "2003-10-01"
+publicatiedatum: 2003-10-01
+laatste_update: 2003-10-01
+status: geldig
+toestand: 2003-10-01
+bron: "https://wetten.overheid.nl/BWBR0015246"
+opgehaald: 2026-08-07
 ---
+
 # Verordening interdisciplinaire samenwerking 2003
-
-Overwegende dat het gewenst is regels vast te stellen over de wijze waarop samenwerkingsverbanden kunnen worden aangegaan ter waarborging van de onafhankelijkheid en onpartijdigheid van het notariaat;
-
-Gelet op [artikel 18 lid 2 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=18);
-
-Gezien het door het bestuur voorgestelde ontwerp met bijbehorende toelichting;
-
-Gelet op de adviezen van de kamers van toezicht;
-
-Gelet op de adviezen van de ringen;
-
-stelt de navolgende verordening vast:
 
 #### Definities
 

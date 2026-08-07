@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 15 oktober 2003, nr. EZT/5003904.JZ, houdende regels omtrent de aanvraag van een vergunning voor het gebruik van frequentieruimte en de toelatingscriteria voor het verlenen van een vergunning (Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte)"
+citeertitel: "Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst"
 identifier: "BWBR0015731"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-24"
-last_updated: "2025-12-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015731"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "5452073"
-version_id: "25686592"
-internal_id: "C36644401"
-label_id: "5426734"
-dtd_version: "2.0"
-original_entry_into_force: "2019-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015731/2025-12-24/0"
-intitule_bron: "Stcrt.2003-207"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-10-15"
-intitule_published: "2003-10-27"
-intitule_in_force: "2003-10-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-6800"
-original_signed_date: "2019-02-04"
-original_published_date: "2019-02-12"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2019-6800"
-entry_into_force_date: "2019-02-13"
-jci_1_3: "jci1.3:c:BWBR0015731&z=2025-12-24&g=2025-12-24"
-jci_1_0: "1.0:c:BWBR0015731&g=2025-12-24"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst"
-signed_date: "2019-02-04"
-entry_into_force: "2019-02-13"
+publicatiedatum: 2019-02-13
+laatste_update: 2025-12-24
+status: geldig
+toestand: 2025-12-24
+bron: "https://wetten.overheid.nl/BWBR0015731"
+opgehaald: 2026-08-07
 ---
+
 # Regeling van de Minister van Economische Zaken van 15 oktober 2003, nr. EZT/5003904.JZ, houdende regels omtrent de aanvraag van een vergunning voor het gebruik van frequentieruimte en de toelatingscriteria voor het verlenen van een vergunning (Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte)
-
-Gelet op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=12) en [14 van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -82,13 +56,13 @@ Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergun
 
 - a. voldoet aan de navolgende voorwaarden met betrekking tot zijn financiële positie:
 
-- 1°. de aanvrager verkeert niet in staat van faillissement, noch is een verzoek tot faillietverklaring van de aanvrager ingediend;
+   - 1°. de aanvrager verkeert niet in staat van faillissement, noch is een verzoek tot faillietverklaring van de aanvrager ingediend;
 
-- 2°. de aanvrager is geen surséance van betaling verleend, noch is ten aanzien van de aanvrager surséance van betaling aangevraagd;
+   - 2°. de aanvrager is geen surséance van betaling verleend, noch is ten aanzien van de aanvrager surséance van betaling aangevraagd;
 
-- 3°. op de aanvrager niet de schuldsaneringsregeling natuurlijke personen van toepassing is;
+   - 3°. op de aanvrager niet de schuldsaneringsregeling natuurlijke personen van toepassing is;
 
-- 4°. er is geen beslag gelegd op een of meer bedrijfsmiddelen van de aanvrager;
+   - 4°. er is geen beslag gelegd op een of meer bedrijfsmiddelen van de aanvrager;
 
 - b. op grond van de in de aanvraag vermelde gegevens naar het oordeel van de minister naar verwachting kan voldoen aan het met betrekking tot de vergunning bepaalde.
 
@@ -107,32 +81,6 @@ Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergun
 ##### Artikel 6
 
 Deze paragraaf is van toepassing op aanvragen tot verlening van een vergunning voor het gebruik van frequentieruimte die is bestemd voor laagvermogen middengolfomroep.
-
-#### § 4. Overig gebruik
-
-##### Artikel 7
-
-Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&z=2025-12-24&g=2025-12-24), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=2&z=2025-12-24&g=2025-12-24), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&z=2025-12-24&g=2025-12-24) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3a&z=2025-12-24&g=2025-12-24) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
-
-### Hoofdstuk 4. Slotbepalingen
-
-##### Artikel 8
-
-De [Regeling aanvraag en toelating vergunningen op volgorde van binnenkomst of bij wijze van voorrang](https://wetten.overheid.nl/jci1.3:c:BWBR0010035) wordt ingetrokken.
-
-##### Artikel 9
-
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-##### Artikel 10
-
-Deze regeling wordt aangehaald als: Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst.
-
-## Bijlage. bij artikel 6 van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a
 
@@ -162,40 +110,40 @@ Een vergunning wordt slechts verleend aan de aanvrager die beschikt over de toes
 
 #### § 3a. Digitale radio-omroep laag 6
 
+##### Artikel 6e
+
+*Vervallen*
+
+##### Artikel 6f
+
+*Vervallen*
+
+#### § 4. Overig gebruik
+
+##### Artikel 7
+
+Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&z=2025-12-24&g=2025-12-24), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=2&z=2025-12-24&g=2025-12-24), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&z=2025-12-24&g=2025-12-24) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3a&z=2025-12-24&g=2025-12-24) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
+
 ### Hoofdstuk 3a. Tijdelijke aanvullende toelatingscriteria voor de verdeling van frequentieruimte voor laagvermogen middengolfomroep die beschikbaar komt op 11 mei 2019
 
 ##### Artikel 7a
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. Slotbepalingen
+
+##### Artikel 8
+
+De [Regeling aanvraag en toelating vergunningen op volgorde van binnenkomst of bij wijze van voorrang](https://wetten.overheid.nl/jci1.3:c:BWBR0010035) wordt ingetrokken.
+
+##### Artikel 9
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 ##### Artikel 9a
 
-[Hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3a&z=2025-12-24&g=2025-12-24) vervalt met ingang van 1 januari 2020.
+[Hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3a&z=2025-12-24&g=2025-12-24) vervalt met ingang van 1 januari 2020.
 
-## Bijlage. bij artikel 6 van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
+##### Artikel 10
 
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6e
-
-Vervallen
-
-##### Artikel 6f
-
-Vervallen
-
-#### § 4. Overig gebruik
-
-### Hoofdstuk 3a. Tijdelijke aanvullende toelatingscriteria voor de verdeling van frequentieruimte voor laagvermogen middengolfomroep die beschikbaar komt op 11 mei 2019
-
-### Hoofdstuk 4. Slotbepalingen
-
-## Bijlage. bij artikel 6 van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst.

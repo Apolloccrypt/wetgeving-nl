@@ -1,44 +1,21 @@
 ---
 title: "Circulaire melding door de scheepvaart van de voorgenomen afgifte van scheepsafval en ladingsresiduen aan havenontvangstvoorzieningen"
 identifier: "BWBR0014516"
-country: "nl"
-rank: "circulaire"
-publication_date: "2002-12-28"
-last_updated: "2002-12-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014516"
+categorie: "Milieu"
 soort: "circulaire"
-stam_id: "6412903"
-version_id: "11079872"
-internal_id: "C14991751"
-label_id: "6401704"
-original_entry_into_force: "2002-12-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014516/2002-12-28/0"
-intitule_bron: "Stcrt.2002-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-19"
-intitule_published: "2002-12-23"
-intitule_in_force: "2002-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-247"
-original_signed_date: "2002-12-19"
-original_published_date: "2002-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2002-247-p53-SC37838"
-entry_into_force_date: "2002-12-28"
-jci_1_3: "jci1.3:c:BWBR0014516&z=2002-12-28&g=2002-12-28"
-jci_1_0: "1.0:c:BWBR0014516&g=2002-12-28"
-citeertitel_status: "redactioneel"
-signed_date: "2002-12-19"
-entry_into_force: "2002-12-28"
+publicatiedatum: 2002-12-28
+laatste_update: 2002-12-28
+status: geldig
+toestand: 2002-12-28
+bron: "https://wetten.overheid.nl/BWBR0014516"
+opgehaald: 2026-08-07
 ---
-# Circulaire melding door de scheepvaart van de voorgenomen afgifte van scheepsafval en ladingsresiduen aan havenontvangstvoorzieningen
 
-Circulaire Minister van Verkeer en Waterstaat
+# Circulaire melding door de scheepvaart van de voorgenomen afgifte van scheepsafval en ladingsresiduen aan havenontvangstvoorzieningen
 
 ### 1. Achtergrond
 
-Ingevolge artikel 6, eerste lid, van [richtlijn nr. 2000/59/EG](32000L0059) van het Europees Parlement en de Raad van de Europese Unie van 27 november 2000 betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332) (hierna: de richtlijn) dient de kapitein van een schip, niet zijnde een vissersvaartuig of een pleziervaartuig waarmee ten hoogste 12 passagiers mogen worden vervoerd, dat op weg is naar een zeehaven in de Gemeenschap, het formulier van bijlage II bij de richtlijn waarheidsgetrouw en nauwkeurig in te vullen, en de informatie te verstrekken aan de voor dat doel door de lidstaat waarin de haven is gelegen aangewezen autoriteit of instantie. Op het formulier dienen gegevens te worden vermeld die het schip identificeren, de haven van afvaart en bestemming, de eerstvolgende aanloophaven en de vermoedelijke tijdstippen van aankomst in en vertrek uit de haven van bestemming. Daarnaast dient de kapitein aan te geven welke categorieën scheepsafval en ladingresiduen aan boord zijn, welke hoeveelheden het betreft, hoe groot de (afzonderlijke) opslagcapaciteit voor de verschillende categorieën afval is en of het voornemen bestaat het scheepsafval en de ladingresiduen geheel of gedeeltelijk af te geven aan een havenontvangstvoorziening.
+Ingevolge artikel 6, eerste lid, van richtlijn nr. 2000/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 november 2000 betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332) (hierna: de richtlijn) dient de kapitein van een schip, niet zijnde een vissersvaartuig of een pleziervaartuig waarmee ten hoogste 12 passagiers mogen worden vervoerd, dat op weg is naar een zeehaven in de Gemeenschap, het formulier van bijlage II bij de richtlijn waarheidsgetrouw en nauwkeurig in te vullen, en de informatie te verstrekken aan de voor dat doel door de lidstaat waarin de haven is gelegen aangewezen autoriteit of instantie. Op het formulier dienen gegevens te worden vermeld die het schip identificeren, de haven van afvaart en bestemming, de eerstvolgende aanloophaven en de vermoedelijke tijdstippen van aankomst in en vertrek uit de haven van bestemming. Daarnaast dient de kapitein aan te geven welke categorieën scheepsafval en ladingresiduen aan boord zijn, welke hoeveelheden het betreft, hoe groot de (afzonderlijke) opslagcapaciteit voor de verschillende categorieën afval is en of het voornemen bestaat het scheepsafval en de ladingresiduen geheel of gedeeltelijk af te geven aan een havenontvangstvoorziening.
 
 De richtlijn dient uiterlijk op 28 december 2002 in de Nederlandse rechtsorde te zijn geïmplementeerd. Als gevolg van diverse oorzaken is deze termijn niet gehaald.
 
@@ -50,7 +27,7 @@ Het daarvoor benodigde wetsvoorstel is thans in een vergevorderd stadium van voo
 
 ### 3. Interimvoorziening
 
-Het is onwenselijk dat in de periode liggend tussen het verstrijken van de implemen-tatietermijn en de datum van inwerkingtreding van de wettelijke voorziening geen enkele vorm van uitvoering wordt gegeven aan de richtlijn. Om die reden wordt de scheepvaartsector verzocht om, vooruitlopende op de inwerkingtreding van de voorziene wettelijke maatregelen, met ingang van 28 december 2002, reeds de meldingen, bedoeld in artikel 6, eerste lid, van de richtlijn te doen bij de havenbeheerder, op de wijze zoals bij de richtlijn is aangegeven en met inachtneming van de in de richtlijn genoemde termijnen. Er zij op gewezen dat de desbetreffende gegevens reeds uit hoofde van geldende wettelijke verplichtingen aan boord beschikbaar behoren te zijn en, zodra het schip zich in een Nederlandse haven bevindt, desgevraagd aan de bevoegde autoriteiten ter inzage moeten worden gegeven. Dit verzoek om medewerking wordt onder 4. nader geconcretiseerd.
+Het is onwenselijk dat in de periode liggend tussen het verstrijken van de implemen-tatietermijn en de datum van inwerkingtreding van de wettelijke voorziening geen enkele vorm van uitvoering wordt gegeven aan de richtlijn. Om die reden wordt de scheepvaartsector verzocht om, vooruitlopende op de inwerkingtreding van de voorziene wettelijke maatregelen, met ingang van 28 december 2002, reeds de meldingen, bedoeld in artikel 6, eerste lid, van de richtlijn te doen bij de havenbeheerder, op de wijze zoals bij de richtlijn is aangegeven en met inachtneming van de in de richtlijn genoemde termijnen. Er zij op gewezen dat de desbetreffende gegevens reeds uit hoofde van geldende wettelijke verplichtingen aan boord beschikbaar behoren te zijn en, zodra het schip zich in een Nederlandse haven bevindt, desgevraagd aan de bevoegde autoriteiten ter inzage moeten worden gegeven. Dit verzoek om medewerking wordt onder [4.](https://wetten.overheid.nl/BWBR0014516) nader geconcretiseerd.
 
 Met een melding van deze gegevens kan een doelmatige afwikkeling van de scheepvaart in de haven worden bevorderd, doordat de havenbeheerders een beter inzicht krijgen in de behoeften van de scheepvaart om afval af te geven. Deze informatie stelt hen in staat om een passend plan voor ontvangst en verwerking van scheepsafval op te stellen. De verplichting - opgenomen in artikel 5 van de richtlijn - dat plan, dat in Nederland bekend staat als het HAP (havenafvalplan), vast te stellen dient te waarborgen dat de werkzaamheden in een haven met betrekking tot de inzameling en verwerking van scheepsafval en ladingresiduen zo worden ingericht dat het oponthoud van schepen in de haven zo veel mogelijk wordt beperkt.
 
@@ -62,8 +39,18 @@ In [artikel 11 van de Wvvs](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&arti
 
 Gegeven deze verplichting, worden de navolgende verzoeken om medewerking gedaan:
 
+- a. De kapiteins van zeeschepen die op weg zijn naar een in Nederland gelegen haven, respectievelijk de namens deze kapiteins in Nederland werkzame scheepsagenten, reders en cargadoors, wordt verzocht om overeenkomstig het in bijlage II bij de richtlijn opgenomen formulier, aan de beheerder van de bestemmingshaven, melding te doen van alle aan boord aanwezige scheepsafval en ladingresiduen, van het voornemen om scheepsafval en ladingresiduen af te geven aan een havenontvangstvoorziening, dan wel het voornemen deze aan boord te houden, alsmede van alle overige in dit verband noodzakelijke gegevens. Een format voor de melding van deze gegevens is als [bijlage](https://wetten.overheid.nl/BWBR0014516) bij deze circulaire gevoegd. Het staat de havenbeheerder overigens vrij de vorm te kiezen waarin de gegevens bij voorkeur worden gemeld. De desbetreffende melding kan worden geïntegreerd met de meldingen die uit hoofde van de scheepvaartverkeersregelgeving moeten worden gedaan.
+
+- b. De kapiteins van zeeschepen die op weg zijn naar een in Nederland gelegen haven, respectievelijk de namens deze kapiteins in Nederland werkzame scheepsagenten, reders en cargadoors, wordt verzocht deze gegevens te melden:
+
+   - 1°. ten minste 24 uur voor aankomst, indien de haven bekend is;
+
+   - 2°. zodra de aanloophaven bekend is, indien de gegevens minder dan 24 uur voor aankomst beschikbaar zijn;
+
+   - 3°. uiterlijk bij vertrek uit de vorige haven, indien de duur van de reis minder dan 24 uur bedraagt.
+
+- c. De beheerders van in Nederland gelegen zeehavens wordt verzocht de gegevens in ontvangst te nemen en, zo nodig, kapiteins op deze circulaire, het daarin vervatte verzoek en de gewenste vorm waarin de gegevens bij voorkeur worden ontvangen te wijzen.
+
 ### 5. Inwerkingtreding, geldingsduur, bekendmaking
 
 Deze circulaire treedt in werking op 28 december 2002. Zij zal worden ingetrokken met ingang van de datum waarop de uiteindelijke wettelijke voorziening voor de meldplicht in werking treedt. Deze circulaire zal worden geplaatst in de Staatscourant en wordt voorts ter kennis gebracht aan de Nationale Havenraad, de zeehavens in Nederland, de Koninklijke Vereniging van Nederlandse Reders (KVNR), de Verenigde Nederlandse Cargadoors (VNC) en de Vereniging van Ondernemingen in de Milieudienstverlening ten behoeve van de Scheepvaart (VOMS) met het verzoek de bij hen aangesloten organisaties en bedrijven ter zake te informeren.
-
-## Bijlage

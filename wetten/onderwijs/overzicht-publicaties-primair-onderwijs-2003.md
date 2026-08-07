@@ -1,36 +1,16 @@
 ---
 title: "Overzicht publicaties primair onderwijs 2003"
 identifier: "BWBR0014688"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-02-19"
-last_updated: "2003-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014688"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6488483"
-version_id: "11168192"
-internal_id: "C15092611"
-label_id: "6477044"
-original_entry_into_force: "2003-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014688/2003-02-19/0"
-intitule_bron: "Uitleg.2003-4/5"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-02-10"
-intitule_published: "2003-02-19"
-intitule_in_force: "2003-02-19"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-4/5"
-original_signed_date: "2003-02-10"
-original_published_date: "2003-02-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-02-19"
-jci_1_3: "jci1.3:c:BWBR0014688&z=2003-02-19&g=2003-02-19"
-jci_1_0: "1.0:c:BWBR0014688&g=2003-02-19"
-citeertitel_status: "redactioneel"
-signed_date: "2003-02-10"
-entry_into_force: "2003-02-19"
+publicatiedatum: 2003-02-19
+laatste_update: 2003-02-19
+status: geldig
+toestand: 2003-02-19
+bron: "https://wetten.overheid.nl/BWBR0014688"
+opgehaald: 2026-08-07
 ---
+
 # Overzicht publicaties primair onderwijs 2003
 
 Voor u ligt het 'Overzicht publicaties voor het primair onderwijs 2003'. Het overzicht bevat publicaties die in het Gele katern van het blad Uitleg zullen verschijnen.
@@ -38,3 +18,33 @@ Voor u ligt het 'Overzicht publicaties voor het primair onderwijs 2003'. Het ove
 De genoemde data in de kolom ’Streefdatum publicatie’ zijn veelal afhankelijk van advies- en overlegprocedures en/of het doen treffen van wettelijke maatregelen. Bijgaand overzicht is niet limitatief. In elk geval kunt u aanvullende regelgeving verwachten in het kader van een nieuwe CAO OCenW. Ook kunnen, als gevolg van het vaststellen van een nieuw Regeerakkoord, nog publicaties volgen die op dit moment nog niet zijn voorzien.
 
 ### Publicatieoverzicht primair onderwijs 2003
+
+| Nr. | Onderwerp | Streefdatum publicatie |
+| --- | --- | --- |
+| 1. | Regeling verzilvering formatierekeneenheden 2003-2004 | februari 2003 |
+| 2. | Aanvullende formatie voor scholen voor (v)so als bedoeld in de WEC op grond van bijzondere omstandigheden voor het schooljaar 2003-2004 | Februari/Maart 2003 |
+| 3. | Aanvullende formatie voor basisscholen op grond van bijzondere omstandigheden voor het schooljaar 2003-2004 | Februari/Maart 2003 |
+| 4. | Regeling aanvullende formatie (voortgezet) speciaal onderwijs (v)so rechtstreekse instromers schooljaar 2003-2004 | Februari/Maart 2003 |
+| 5. | Clustering van programma’s van eisen 2003 WEC o.g.v. Wet LGF | Voorjaar 2003 |
+| 6. | Regeling aanvullende formatie cluster 4 voor preventieve ambulante begeleiding | Voorjaar 2003 |
+| 7. | Aanvullende formatie klassenassistenten zeer moeilijk lerende kinderen (zmlk), voor het schooljaar 2003-2004 | Voorjaar 2003 |
+| 8. | Aanvullende formatie schoolverpleegkundige, schooljaar 2003-2004 | Voorjaar 2003 |
+| 9. | Aanvullende formatie klassenassistenten, schooljaar 2003-2004 Voorjaar 2003 |  |
+| 10. | Maatregelen in verband met deregulering en autonomievergroting op korte termijn (schoolbudget met ingang van 1 augustus 2003). | Februari 2003 |
+| 11. | Regeling sluitend taalonderwijs ter verbetering van de integratie | April 2003 |
+| 12. | Verlenging van de regeling scholing overblijfkrachten | April 2003 (zeer voorlopige inschatting) |
+| 13. | Regeling opslagpercentages Vervangingsfonds (VF) en Participatiefonds (PF) voor het schooljaar 2003-2004 | ivm nader te maken afspraken nog onbekend wanneer regeling gepubliceerd gaat worden |
+| 14. | Aanvullende formatie asielzoekers voor basisscholen op grond van bijzondere omstandigheden voor het schooljaar 2003-2004 | April 2003 |
+| 15. | LGF Een aantal LGF-regelingen verschijnen in een speciale LGF-uitgave van het Gele Katern met onder meer: • Aanpassing data wet LGF • Formatiegarantieregeling • REC-bekostiging (schooljaar) • Rugzakje (schooljaar) • Regeling visueel gehandicapte leerlingen en leerlingen met het syndroom van Down WVO • Regeling aanmeldingsformulier indicatiestelling • Regeling criteria indicatiestelling • Vakantieregeling Justitiële Jeugdinrichtingen (art. 26 WEC) • Instelling Adviescommissie Toelating en Begeleiding | Voorjaar 2003 |
+| 16. | Indexering specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid (goa) en onderwijs in allochtone levende talen (oalt) 2003-2004 | Juni 2003 |
+| 17. | Subsidieregeling zij-instromers 2002-2003 voor primair onderwijs en voortgezet onderwijs met declaratiebekostiging. | juli 2003 |
+| 18. | Bedrag per leerling schoolbegeleiding voor het jaar 2003 en 2004 en groeipercentage voor het jaar 2002. | September 2003 |
+| 19. | Vaststelling programma’s van eisen 2004 WPO (nieuwe vergoedingsbedragen). | September 2003 |
+| 20. | Vaststelling programma’s van eisen 2004 WEC (nieuwe vergoedingsbedragen). | September 2003 |
+| 21. | Inwerkingtreding programma’s van eisen 2004 WPO en WEC | December 2003 |
+| 22. | Regeling verzilvering formatierekeneenheden 2004-2005 | December 2003 |
+| 23. | Aanvullende formatie voor scholen voor (v)so als bedoeld in de WEC op grond van bijzondere omstandigheden voor het schooljaar 2004-2005 | December 2003 |
+| 24. | Aanvullende formatie voor basisscholen op grond van bijzondere omstandigheden voor het schooljaar 2004-2005 | December 2003 |
+| 25. | Regeling aanvullende formatie (voortgezet) speciaal onderwijs (v)so rechtstreekse instromers schooljaar 2004-2005 | December 2003 |
+| 26. | Maatregelen in verband met deregulering en autonomie- vergroting op korte termijn (schoolbudget met ingang van 1 augustus 2004). | December 2003 |
+| 27. | Aanvullende formatie asielzoekers voor basisscholen op grond van bijzondere omstandigheden voor het schooljaar 2004-2005 | December 2003 |

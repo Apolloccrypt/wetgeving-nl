@@ -1,56 +1,89 @@
 ---
 title: "Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2003"
 identifier: "BWBR0014407"
-country: "nl"
-rank: "circulaire"
-publication_date: "2003-01-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014407"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "6397893"
-version_id: "11061232"
-internal_id: "C14968021"
-label_id: "6386924"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014407/2003-01-01/0"
-intitule_bron: "Stcrt.2002-240"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-10"
-intitule_published: "2002-12-12"
-intitule_in_force: "2002-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-240"
-original_signed_date: "2002-12-10"
-original_published_date: "2002-12-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2002-240-p9-SC37519"
-entry_into_force_date: "2003-01-01"
-jci_1_3: "jci1.3:c:BWBR0014407&z=2003-01-01&g=2003-01-01"
-jci_1_0: "1.0:c:BWBR0014407&g=2003-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2002-12-10"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2003-01-01
+status: geldig
+toestand: 2003-01-01
+bron: "https://wetten.overheid.nl/BWBR0014407"
+opgehaald: 2026-08-07
 ---
+
 # Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2003
 
 ### Inleiding/managementinformatie
 
 Zoals gebruikelijk doe ik u aan het eind van het kalenderjaar toekomen de circulaire op het terrein van de financiële arbeidsvoorwaarden van het personeel van de sector Rijk betreffende de hieronder genoemde aangelegenheden.
 
-Voor de ambtenaar die reeds in het IPA-salarissysteem is opgenomen, zullen de onderhavige wijzigingen voor zover van toepassing automatisch worden aangepast. Daar waar betalingen op basis van declaratie plaatsvinden zal uw eigen personeelsadministratie de desbetreffende wijzigingen dienen aan te brengen. Dit laatste betreft onder meer de wijzigingen vermeld onder A.3 (bedragen inzake dienstreizen binnenland).
+- A. Aanpassing van diverse bedragen per 1 januari 2003, te weten:
+
+   - 1. krachtens het [Besluit betaling emolumenten burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003632);
+
+   - 2. in de [Verplaatsingskostenregeling 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004633);
+
+   - 3. in de [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912).
+
+- B. Overige mededelingen, te weten over:
+
+   - 1. het aantal te werken uren op jaarbasis in 2003;
+
+   - 2. de hoogte van de eindejaarsuitkering in 2003;
+
+   - 3. de hoogte van het maximum spaarloonbedrag in 2003;
+
+   - 4. wijziging inzake de spaarpremie;
+
+   - 5. inhoudingen en afdrachten inzake pensioenen e.d. per 1 januari 2003.
+
+- C. Nog tot stand te brengen wijzigingen, te weten:
+
+   - 1. conceptbesluit in verband met fase 3 OOW;
+
+   - 2. wijziging van het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842).
+
+- D. Tot stand gekomen besluiten, regelingen en circulaires.
+
+Voor de ambtenaar die reeds in het IPA-salarissysteem is opgenomen, zullen de onderhavige wijzigingen voor zover van toepassing automatisch worden aangepast. Daar waar betalingen op basis van declaratie plaatsvinden zal uw eigen personeelsadministratie de desbetreffende wijzigingen dienen aan te brengen. Dit laatste betreft onder meer de wijzigingen vermeld onder [A.3](https://wetten.overheid.nl/BWBR0014407) (bedragen inzake dienstreizen binnenland).
 
 ### A. Aanpassing van diverse bedragen
 
-### 1. [Besluit betaling emolumenten burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003632)
+### 1. Besluit betaling emolumenten burgerlijk rijkspersoneel
 
 In de [circulaire van 14 juni 2002, nr. AD2002/U72034, inzake aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0013774) is reeds vermeld dat in de sector Rijk geen ambtenaren meer voorkomen waarvoor een inhouding geldt voor door het Rijk verstrekt genot van kost en inwoning en dat het [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003632&artikel=2) daarom zal vervallen. Vooruitlopend daarop worden de bedragen voor de inhouding van kost en inwoning en het verschuldigde bedrag voor kost bij afwezigheid niet meer aangepast.
 
-### 2. [Verplaatsingskostenregeling 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004633)
+### 2. Verplaatsingskostenregeling 1989
 
 De wijzigingen in de [Verplaatsingskostenregeling 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004633) per 1 januari 2003 houden het volgende in:
 
 ### a. Wijziging bedragen verband houdende met het woon/werkverkeer
+
+- - het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=11), genoemde maximumbedrag van € 96,20 voor niet-verhuisplichtigen wordt gewijzigd in € 100,91.
+
+- - het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=11), genoemde bedrag van € 47,68 dat de ambtenaar te allen tijde van de reiskosten woon/werkverkeer voor eigen rekening moet nemen, wordt gewijzigd in € 49,93.
+
+- - het in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=11), genoemde maximum bedrag van € 154,44 wordt gewijzigd in € 161,77 (het maximum bedrag aan reiskosten woon/werkverkeer voor niet-verhuisplichtige ambtenaren die naar het oordeel van de minister werkzaam zijn op plaatsen van tewerkstelling die niet per openbaar vervoer zijn te bereiken).
+
+- - het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=12), genoemde maximum bedrag van € 235,17 wordt gewijzigd in € 247,82 (het maximum bedrag aan reiskosten woon/werkverkeer voor verhuisplichtige ambtenaren die werkzaam zijn op per openbaar vervoer te bereiken plaatsen van tewerkstelling).
+
+- - de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=12), vermelde bedragen
+
+| van | bij | worden gewijzigd in |
+| --- | --- | --- |
+| € 163,33 | meer dan 20 km | € 174,58 |
+|  | tot en met 30 km |  |
+| € 195,00 | meer dan 30 km | € 224,17 |
+|  | tot en met 40 km |  |
+| € 243,75 | meer dan 40 km | € 262,50 |
+|  | tot en met 50 km |  |
+| € 266,67 | meer dan 50 km | € 292,50 |
+|  | tot en met 60 km |  |
+| € 291,67 | meer dan 60 km | € 320,00 |
+|  | tot en met 70 km |  |
+| € 301,67 | meer dan 70 km | € 332,08 |
+|  | tot en met 80 km |  |
+| € 305,83 | meer dan 80 km | € 332,50 |
 
 (maximaal uit te betalen vergoedingsbedragen voor reiskosten woon/werkverkeer voor verhuisplichtige ambtenaren die naar het oordeel van de minister werkzaam zijn op plaatsen van tewerkstelling die niet per openbaar vervoer zijn te bereiken).
 
@@ -62,11 +95,23 @@ Het bedrag per kilometer vermeld in [artikel 11, tweede lid](https://wetten.over
 
 De ministeriële regeling waarin de wijzigingen zijn opgenomen, wordt in de Staatscourant gepubliceerd.
 
-### 3. [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912)
+### 3. Reisregeling binnenland
 
 De wijzigingen van de [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912) per 1 januari 2003 houden het volgende in:
 
 In [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005912&artikel=5), worden de vergoedingen wegens verblijfkosten als volgt gewijzigd:
+
+- - het in de aanhef genoemde bedrag van de dagcomponent van € 3,20 wordt gewijzigd in € 3,40.
+
+- - het in de aanhef genoemde bedrag van de avondcomponent van € 9,59 wordt gewijzigd in € 10,19;
+
+- - het in onderdeel a genoemde bedrag voor een lunch (lunchcomponent) van € 10,12 wordt gewijzigd in € 10,76;
+
+- - het in onderdeel b genoemde bedrag voor een avondmaaltijd (dinercomponent) van € 15,27 wordt gewijzigd in € 16,26;
+
+- - het in onderdeel c genoemde bedrag voor logies (logiescomponent) van € 62,01 wordt gewijzigd in € 65,11;
+
+- - het in onderdeel d genoemde bedrag voor een ontbijt (ontbijtcomponent) van € 5,99 wordt gewijzigd in € 6,31.
 
 De bedragen van de vergoedingen per kilometer voor een motorvoertuig van € 0,28 resp. € 0,09, voor een bromfiets van € 0,10 resp. € 0,09 en voor een fiets van € 0,05 zijn niet gewijzigd.
 
@@ -84,7 +129,7 @@ Volledigheidshalve herinner ik u eraan dat over 2003 de maandelijkse opbouw van 
 
 Vanaf 1 januari 2003 bedraagt de maandelijkse opbouw van de in december 2003 uit te keren nominale eindejaarsuitkering € 31,13 per maand. Dit bedrag zal in de loop van 2003 worden aangepast als gevolg van de vrijval van Btzr-gelden in 2003. Ik zal u daarover te zijner tijd informeren.
 
-### 3. [Spaarloonregeling rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006585)
+### 3. Spaarloonregeling rijkspersoneel
 
 De fiscale spaarloonregeling blijft in 2003 bestaan. Het bedrag dat in 2003 maximaal belastingvrij kan worden gespaard wordt verlaagd tot (onder voorbehoud) € 613,00 (was € 788,00).
 
@@ -106,7 +151,7 @@ De inhoudingen en afdrachten inzake pensioenen (OP/NP, IP/bw, FPU), [Ziektewet](
 
 De [Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) (OOW) is gefaseerd ingevoerd. Het was de bedoeling om in fase 3 de zgn. oude gevallen met ingang van 1 januari 2003 onder de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) respectievelijk de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) te brengen. De inwerkingtreding van genoemde fase 3 voor de sector Rijk is neergelegd in het koninklijk besluit van 8 december 2000 (Stb. 2000, 573). Het kabinet heeft evenwel besloten om de invoering van fase 3 af te stellen. Dit betekent dat personen die op 31 december 2000 een wachtgeld of uitkering hadden niet onder de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en dat zieke wachtgelders en uitkeringsgerechtigden niet onder de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) worden gebracht. Op deze personen blijft het [Rijkswachtgeldbesluit 1959](https://wetten.overheid.nl/jci1.3:c:BWBR0002326), de [Uitkeringsregeling 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) respectievelijk de [Regeling wachtgeld en uitkering bij privatisering](https://wetten.overheid.nl/jci1.3:c:BWBR0004583) van toepassing. Dit besluit gaat in per 31 december 2002.
 
-### 2. Wijziging van het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842)
+### 2. Wijziging van het Reisbesluit buitenland
 
 Een ambtenaar heeft op grond van het huidige [artikel 10, derde lid, onderdeel c, van het Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842&artikel=10) geen recht op een verblijfkostenvergoeding bij een buitenlandse dienstreis voor een reisgedeelte per vliegtuig. Deze verblijfkostenvergoeding voor maaltijden en kleine uitgaven was niet nodig omdat in het vliegtuig de maaltijden en kleine consumpties gratis werden verstrekt. Er werden dus geen kosten gemaakt.
 
@@ -122,7 +167,7 @@ Deze wijziging zal met terugwerkende kracht ingaan per 1 januari 2003. In verban
 
 ### D. Tot stand gekomen besluiten, regelingen en circulaires
 
-In de bijlage vindt u een overzicht van de in dit jaar tot stand gekomen (wijzigingen van) amvb's, regelingen en circulaires.
+In de [bijlage](https://wetten.overheid.nl/BWBR0014407) vindt u een overzicht van de in dit jaar tot stand gekomen (wijzigingen van) amvb's, regelingen en circulaires.
 
 ### Slotopmerkingen
 
@@ -131,13 +176,3 @@ Ik verzoek u met het vorenstaande rekening te houden en daaraan voor zoveel nodi
 Deze circulaire is eveneens geplaatst op Ryx en op internet. Voor het laatste geldt als adres: http://www.minbzk.nl en vervolgens klikken op 'Overheidspersoneel', Arbeidsvoorwaarden rijksoverheid', en 'publicaties'.
 
 Inlichtingen, uitsluitend voor de afdelingen Personeelszaken van geadresseerden, kunnen worden verkregen bij de heer Martens (telefoon 070 - 426 6904; e-mailadres: Halbe.Martens@minbzk.nl). Bij geen gehoor kunt u ook contact opnemen met het secretariaat van het cluster Arbeidsvoorwaarden, telefoon 070 - 426 6847.
-
-## Bijlage. behorende bij de circulaire d.d. 10 december 2002, nr. PMR/AV 02/99093
-
-### Overzicht van de dit jaar totstandgekomen regelgeving en circulaires
-
-### I. Amvb's
-
-### II. Ministeriële regelingen
-
-### III. Circulaires

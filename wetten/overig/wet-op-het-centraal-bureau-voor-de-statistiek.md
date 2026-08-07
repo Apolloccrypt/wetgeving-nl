@@ -1,47 +1,18 @@
 ---
 title: "Wet van 20 november 2003, houdende vaststelling van een wet op het Centraal bureau voor de statistiek (Wet op het Centraal bureau voor de statistiek)"
+citeertitel: "Wet op het Centraal bureau voor de statistiek"
 identifier: "BWBR0015926"
-country: "nl"
-rank: "wet"
-publication_date: "2025-09-01"
-last_updated: "2025-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015926"
+categorie: "Overig"
 soort: "wet"
-stam_id: "5540543"
-version_id: "23442582"
-internal_id: "C33941911"
-label_id: "5513714"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015926/2025-09-01/0"
-intitule_bron: "Stb.2003-516"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-11-20"
-intitule_published: "2003-12-18"
-intitule_in_force: "2003-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2016-262"
-original_signed_date: "2016-06-22"
-original_published_date: "2016-07-08"
-original_effect: "structuurwijziging"
-original_dossier: "34248"
-original_url_id: "stb-2016-262"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0015926&z=2025-09-01&g=2025-09-01"
-jci_1_0: "1.0:c:BWBR0015926&g=2025-09-01"
-citeertitel_status: "officieel"
-short_title: "Wet op het Centraal bureau voor de statistiek"
-signed_date: "2016-06-22"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2025-09-01
+status: geldig
+toestand: 2025-09-01
+bron: "https://wetten.overheid.nl/BWBR0015926"
+opgehaald: 2026-08-07
 ---
+
 # Wet van 20 november 2003, houdende vaststelling van een wet op het Centraal bureau voor de statistiek (Wet op het Centraal bureau voor de statistiek)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is over te gaan tot externe verzelfstandiging van het dienstonderdeel Centraal bureau voor de statistiek door oprichting van een zelfstandig bestuursorgaan en nieuwe regels vast te stellen inzake de verwerving, het gebruik en de verstrekking van gegevens in het kader van de statistische informatievoorziening;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsomschrijvingen
 
@@ -71,6 +42,28 @@ In deze wet wordt verstaan onder:
 
 3. De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is van toepassing.
 
+##### Artikel 2a
+
+1. Het CBS bestaat uit één lid, de directeur-generaal, met de titel van directeur-generaal van de statistiek.
+
+2. De directeur-generaal wordt benoemd voor een periode van ten hoogste zeven jaren en kan eenmaal worden herbenoemd voor een periode van ten hoogste drie jaren.
+
+3. Bij het openvallen van de functie van directeur-generaal doet de raad van advies een aanbeveling voor de vervulling van deze functie aan Onze Minister.
+
+4. Schorsing en ontslag van de directeur-generaal vindt niet plaats dan nadat de raad van advies is gehoord.
+
+5. Onze Minister kan regels stellen ten aanzien van de plaatsvervanging van de directeur-generaal.
+
+##### Artikel 2b
+
+1. De directeur-generaal stelt een bestuursreglement vast.
+
+2. Het bestuursreglement bevat ten minste een regeling van:
+
+- a. de structuur van de CBS-organisatie;
+
+- b. de samenstelling en werkwijze van de leidinggevenden van de onderdelen van de CBS-organisatie en hun onderlinge taakverdeling op hoofdlijnen.
+
 ##### Artikel 3
 
 1. Het CBS heeft tot taak het van overheidswege verrichten van statistisch onderzoek ten behoeve van praktijk, beleid en wetenschap en het openbaar maken van de op grond van zodanig onderzoek samengestelde statistieken.
@@ -93,49 +86,39 @@ Het CBS is op nationaal niveau belast met de productie van Europese statistieken
 
 2. Onze Minister kan nadere regels stellen over de werkzaamheden, bedoeld in het eerste lid.
 
-#### Paragraaf 2. Bestuursorganen
-
 ##### Artikel 6
 
-Vervallen
-
-#### Paragraaf 3. Personeel
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
-
-### Hoofdstuk 3. Directeur-generaal van de statistiek
-
-#### Paragraaf 1. Instelling en samenstelling
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
-
-#### Paragraaf 2. Benoeming, schorsing en ontslag
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
-#### Paragraaf 3. Taken, bevoegdheden en werkwijze
+#### Paragraaf 2. Werkwijze
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -143,11 +126,11 @@ Vervallen
 
 2. Het meerjarenprogramma bevat voorts een beschrijving van de op middellange en lange termijn te realiseren doelstellingen, de hoofdlijnen van het daarop te richten beleid en de financiële en organisatorische voorwaarden die daartoe vervuld moeten worden.
 
-3. De directeur-generaal zendt het meerjarenprogramma ten minste 14 maanden voorafgaand aan het begin van de periode waarop het meerjarenprogramma betrekking heeft, ter goedkeuring aan Onze Minister.
+3. De directeur-generaal zendt het meerjarenprogramma ten minste 14 maanden voorafgaand aan het begin van de periode waarop het meerjarenprogramma betrekking heeft, ter goedkeuring aan Onze Minister.
 
-4. Onze Minister geeft binnen acht weken na bepaling van het standpunt bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2025-09-01&g=2025-09-01), een beschikking omtrent de goedkeuring van het meerjarenprogramma.
+4. Onze Minister geeft binnen acht weken na bepaling van het standpunt bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2025-09-01&g=2025-09-01), een beschikking omtrent de goedkeuring van het meerjarenprogramma.
 
-5. De goedkeuring wordt uitsluitend onthouden aan het meerjarenprogramma indien dat naar het oordeel van Onze Minister niet past binnen de financiële en organisatorische voorwaarden die zijn opgenomen in het naar aanleiding van dat meerjarenprogramma bepaalde standpunt, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2025-09-01&g=2025-09-01).
+5. De goedkeuring wordt uitsluitend onthouden aan het meerjarenprogramma indien dat naar het oordeel van Onze Minister niet past binnen de financiële en organisatorische voorwaarden die zijn opgenomen in het naar aanleiding van dat meerjarenprogramma bepaalde standpunt, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2025-09-01&g=2025-09-01).
 
 6. De directeur-generaal maakt het meerjarenprogramma, na goedkeuring door Onze Minister, openbaar.
 
@@ -159,21 +142,21 @@ Vervallen
 
 3. Het werkprogramma bevat een beschrijving van het belang van een statistiek voor praktijk, beleid en wetenschap, de vraag of een statistiek noodzakelijk is op grond van Europese of andere regelgeving, een verantwoording omtrent de belangrijkste niet-gehonoreerde verzoeken om statistieken en een paragraaf met de kosten en opbrengsten van de statistieken.
 
-4. De directeur-generaal zendt het werkprogramma uiterlijk op 1 december vóór het begin van het kalenderjaar waarop het werkprogramma betrekking heeft, ter goedkeuring aan Onze Minister.
+4. De directeur-generaal zendt het werkprogramma uiterlijk op 1 december vóór het begin van het kalenderjaar waarop het werkprogramma betrekking heeft, ter goedkeuring aan Onze Minister.
 
 5. Onze Minister geeft een beschikking omtrent:
 
-- a. de goedkeuring van het werkprogramma uiterlijk 15 januari in het kalenderjaar waar het werkprogramma betrekking op heeft;
+- a. de goedkeuring van het werkprogramma uiterlijk 15 januari in het kalenderjaar waar het werkprogramma betrekking op heeft;
 
 - b. de goedkeuring van een wijziging van het werkprogramma binnen zes weken na ontvangst van een voorstel tot wijziging van het werkprogramma.
 
-6. De goedkeuring wordt uitsluitend onthouden aan het werkprogramma of een wijziging ervan indien dat werkprogramma of die wijziging naar het oordeel van Onze Minister niet past binnen de financiële en organisatorische voorwaarden die zijn opgenomen in het desbetreffende standpunt, bedoeld in het [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2025-09-01&g=2025-09-01).
+6. De goedkeuring wordt uitsluitend onthouden aan het werkprogramma of een wijziging ervan indien dat werkprogramma of die wijziging naar het oordeel van Onze Minister niet past binnen de financiële en organisatorische voorwaarden die zijn opgenomen in het desbetreffende standpunt, bedoeld in het [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2025-09-01&g=2025-09-01).
 
 7. De directeur-generaal maakt het werkprogramma en wijzigingen daarvan, na goedkeuring door Onze Minister, openbaar.
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
@@ -187,11 +170,9 @@ De directeur-generaal bepaalt de methoden waarmee de in de werk- en meerjarenpro
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk 4. Centrale commissie voor de statistiek
-
-#### Paragraaf 1. Instelling en samenstelling
+### Hoofdstuk 4. Raad van advies
 
 ##### Artikel 20
 
@@ -201,7 +182,7 @@ Vervallen
 
 3. Het bestuursreglement, bedoeld in [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=2b&z=2025-09-01&g=2025-09-01), regelt in elk geval de samenstelling van de raad van advies, de benoemingsduur van de leden, de werkwijze van de raad en de onderwerpen waarover de raad adviseert, waartoe in ieder geval behoren:
 
-- a. het meerjarenprogramma, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=14&z=2025-09-01&g=2025-09-01), en het werkprogramma, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=15&z=2025-09-01&g=2025-09-01);
+- a. het meerjarenprogramma, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=14&z=2025-09-01&g=2025-09-01), en het werkprogramma, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=15&z=2025-09-01&g=2025-09-01);
 
 - b. de wijze waarop de nauwkeurigheid en de volledigheid van de van overheidswege openbaar te maken statistieken kunnen worden bevorderd zodat deze voorzien in de behoeften van praktijk, beleid en wetenschap;
 
@@ -209,57 +190,59 @@ Vervallen
 
 ##### Artikel 21
 
-Vervallen
-
-#### Paragraaf 2. Benoeming
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
-
-#### Paragraaf 3. Taken, bevoegdheden en werkwijze
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4a. Bonaire, Sint Eustatius en Saba
+
+##### Artikel 32a
+
+Deze wet, met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=4&z=2025-09-01&g=2025-09-01), [38a tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=39&z=2025-09-01&g=2025-09-01), [41, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2025-09-01&g=2025-09-01), en [52a tot en met 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2025-09-01&g=2025-09-01), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat [Hoofdstuk 5, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=4&z=2025-09-01&g=2025-09-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de [Aanpassingswet vierde tranche Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0026055), in genoemde openbare lichamen van toepassing blijft.
+
+### Hoofdstuk 5. Verwerving, gebruik en verstrekking van gegevens
 
 #### Paragraaf 1. Verwerving
 
@@ -269,15 +252,15 @@ Vervallen
 
 - a. instellingen en diensten van:
 
-- 1º. het Rijk;
+   - 1º. het Rijk;
 
-- 2º. provincies;
+   - 2º. provincies;
 
-- 3º. gemeenten;
+   - 3º. gemeenten;
 
-- 4º. waterschappen;
+   - 4º. waterschappen;
 
-- 5º. openbare lichamen, gevormd ingevolge de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740);
+   - 5º. openbare lichamen, gevormd ingevolge de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740);
 
 - b. openbare lichamen als bedoeld in [artikel 134 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=134);
 
@@ -317,7 +300,40 @@ Met inachtneming van een goede vervulling van zijn taak draagt de directeur-gene
 
 De directeur-generaal draagt op de voet van de ter zake voor de Rijksdienst geldende voorschriften zorg voor de nodige technische en organisatorische voorzieningen ter beveiliging van zijn gegevens tegen verlies of aantasting en tegen onbevoegde kennisneming, wijziging en verstrekking van die gegevens.
 
-#### Paragraaf 2a. Uitvoering van [verordening 638/2004](32004R0638)
+#### Paragraaf 2a. Uitvoering van verordening 638/2004
+
+##### Artikel 38a
+
+1. In deze paragraaf wordt verstaan onder:
+
+- a. *verordening 2019/2152:*
+ Verordening (EU) 2019/2152 van het Europees Parlement en de Raad van 27 november 2019 betreffende Europese bedrijfsstatistieken en tot intrekking van tien rechtshandelingen op het gebied van bedrijfsstatistieken (PbEU 2019 L 327/1);
+
+- b. *verordening 2020/1197:* Uitvoeringsverordening (EU) 2020/1197 van de Commissie van 30 juli 2020 tot vaststelling van technische specificaties en regelingen overeenkomstig Verordening (EU) 2019/2152 van het Europees Parlement en de Raad betreffende Europese bedrijfsstatistieken en tot intrekking van tien rechtshandelingen op het gebied van bedrijfsstatistieken (PbEU 2020 L 127/1).
+
+2. De [artikelen 33, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2025-09-01&g=2025-09-01), en [37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2025-09-01&g=2025-09-01), zijn niet van toepassing op de uitvoering van hoofdstuk V van verordening 2019/2152 en Bijlage V van verordening 2020/1197.
+
+##### Artikel 38b
+
+De rapportage-eenheden, bedoeld in afdeling 7, eerste en tweede lid, van Bijlage V van verordening 2020/1197, die gehouden zijn tot het doen van een opgave op grond van die verordening, verstrekken de desbetreffende gegevens kosteloos aan het CBS.
+
+##### Artikel 38c
+
+1. Bij ministeriële regeling wordt vastgesteld:
+
+- a. op welke wijze de gegevens, bedoeld in artikel 13, eerste lid, van verordening 2019/2152, moeten worden opgegeven;
+
+- b. welke vereenvoudigingsmethoden als bedoeld in afdeling 31 van Bijlage V van verordening 2020/1197 van toepassing zijn en de wijze waarop die worden toegepast;
+
+- c. al hetgeen verder nodig is ter voldoening aan de op verordening 2020/1197 berustende voorschriften.
+
+2. De in het eerste lid, onderdeel b, bedoelde vereenvoudigingsmethoden worden per kalenderjaar vastgesteld.
+
+##### Artikel 38d
+
+Het in artikel 17, vierde lid, van verordening 2019/2152 bedoelde verslag wordt opgesteld door het CBS.
+
+#### Paragraaf 3. Verstrekking van gegevens
 
 ##### Artikel 39
 
@@ -379,7 +395,7 @@ De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://we
 
 ##### Artikel 43
 
-1. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2025-09-01&g=2025-09-01), bedoelde rechtspersonen en de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2025-09-01&g=2025-09-01), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in die leden bedoelde gegevens niet, niet tijdig of niet volledig verstrekken.
+1. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2025-09-01&g=2025-09-01), bedoelde rechtspersonen en de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2025-09-01&g=2025-09-01), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in die leden bedoelde gegevens niet, niet tijdig of niet volledig verstrekken.
 
 2. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2025-09-01&g=2025-09-01) doet.
 
@@ -387,19 +403,19 @@ De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://we
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48
 
@@ -407,11 +423,11 @@ De werking van de beschikking tot oplegging van een bestuurlijke boete wordt opg
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
@@ -423,9 +439,23 @@ De directeur-generaal kan in plaats van een bestuurlijke boete aan de in [artike
 
 2. Een last geldt voor een door de directeur-generaal te bepalen termijn van ten hoogste twee jaren.
 
-### Hoofdstuk 6. Informatievoorziening, sturing en toezicht
+### Hoofdstuk 5a. Het verlenen van bijstand bij inspecties
 
-#### Paragraaf 1. Informatievoorziening
+##### Artikel 52a
+
+Het CBS verleent op verzoek van de Europese Commissie bijstand bij een inspectie op grond van artikel 5, vierde lid, van Gedelegeerd besluit 2012/678/EU van de Commissie van 29 juni 2012 betreffende onderzoeken en boeten in verband met de manipulatie van statistieken als bedoeld in Verordening (EU) nr. 1173/2011 van het Europees Parlement en de Raad inzake de effectieve handhaving van het begrotingstoezicht in het eurogebied (Pb EU 2012, L 306).
+
+##### Artikel 52b
+
+1. De directeur-generaal wijst, in geval van een verzoek om bijstand als bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2025-09-01&g=2025-09-01), bij besluit de ambtenaren aan die zijn belast met het verlenen van deze bijstand.
+
+2. De ambtenaren, bedoeld in het eerste lid, hebben de bevoegdheden, genoemd in artikel 5, eerste lid, onderdelen a tot en met e, van Gedelegeerd besluit 2012/678/EU van de Commissie van 29 juni 2012 betreffende onderzoeken en boeten in verband met de manipulatie van statistieken als bedoeld in Verordening (EU) nr. 1173/2011 van het Europees Parlement en de Raad inzake de effectieve handhaving van het begrotingstoezicht in het eurogebied (Pb EU 2012, L 306).
+
+##### Artikel 52c
+
+Op gegevens die verkregen zijn bij het verlenen van bijstand als bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2025-09-01&g=2025-09-01) is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2025-09-01&g=2025-09-01) niet van toepassing, met dien verstande dat deze gegevens alleen aan de Europese Commissie verstrekt worden.
+
+### Hoofdstuk 6. Informatievoorziening
 
 ##### Artikel 53
 
@@ -433,11 +463,11 @@ Het jaarverslag van de directeur-generaal verschaft tevens inzicht in de adminis
 
 ##### Artikel 54
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55
 
-Onze Minister kan nadere regels stellen over de inrichting van het jaarverslag, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&artikel=53&z=2025-09-01&g=2025-09-01).
+Onze Minister kan nadere regels stellen over de inrichting van het jaarverslag, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&artikel=53&z=2025-09-01&g=2025-09-01).
 
 ##### Artikel 56
 
@@ -445,13 +475,11 @@ Onverminderd [artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorgan
 
 ##### Artikel 56a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
 Onze Minister kan nadere regels stellen met betrekking tot de gegevensuitwisseling, bedoeld in [artikel 20, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20).
-
-#### Paragraaf 1. Informatievoorziening
 
 ##### Artikel 58
 
@@ -459,9 +487,9 @@ Onverminderd [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorgan
 
 ##### Artikel 59
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk 6. Informatievoorziening
+### Hoofdstuk 7. Financieel toezicht
 
 #### Paragraaf 1. Begroting
 
@@ -471,11 +499,11 @@ De kosten voor de uitoefening van de taken ter uitvoering van deze wet komen ten
 
 ##### Artikel 61
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 62
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63
 
@@ -483,7 +511,7 @@ Onze Minister kan nadere regels stellen over de inrichting van de begroting.
 
 ##### Artikel 64
 
-De directeur-generaal zendt de begroting jaarlijks aan Onze Minister op uiterlijk 1 december voor het begin van het kalenderjaar waarop de begroting betrekking heeft.
+De directeur-generaal zendt de begroting jaarlijks aan Onze Minister op uiterlijk 1 december voor het begin van het kalenderjaar waarop de begroting betrekking heeft.
 
 ##### Artikel 65
 
@@ -491,7 +519,7 @@ Onverminderd [artikel 29, tweede lid, van de Kaderwet zelfstandige bestuursorgan
 
 ##### Artikel 66
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 2. Beheer en verantwoording
 
@@ -515,7 +543,7 @@ De directeur-generaal behoeft voorafgaande instemming van Onze Minister voor de 
 
 ##### Artikel 69
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 70
 
@@ -523,11 +551,11 @@ De directeur-generaal zendt de jaarrekening jaarlijks vóór 1 april aan Onze Mi
 
 ##### Artikel 71
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 72
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 73
 
@@ -537,11 +565,11 @@ Onze Minister kan nadere regels stellen over de inrichting van de jaarrekening e
 
 ##### Artikel 74
 
-Wijzigt de Wet financiële betrekkingen buitenland 1994.
+*Wijzigt de Wet financiële betrekkingen buitenland 1994.*
 
 ##### Artikel 74a
 
-Wijzigt de Handelsregisterwet 1996.
+*Wijzigt de Handelsregisterwet 1996.*
 
 ##### Artikel 75
 
@@ -587,11 +615,11 @@ Archiefbescheiden van het onder Onze Minister ressorterende CBS gaan met ingang 
 
 2. In zaken waarin voor het tijdstip van verzelfstandiging van het CBS aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan het onder Onze Minister ressorterende CBS, treedt de directeur-generaal op dat tijdstip als bestuursorgaan in de zin van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) in de plaats van Onze Minister.
 
-#### Paragraaf 1. Overgangsbepalingen
+#### Paragraaf 2. Slotbepalingen
 
 ##### Artikel 82
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 83
 
@@ -600,177 +628,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 84
 
 Deze wet wordt aangehaald als: Wet op het Centraal bureau voor de statistiek.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 38a
-
-1. In deze paragraaf wordt verstaan onder:
-
-- a. **verordening 2019/2152:** [Verordening (EU) 2019/2152](32152R2019) van het Europees Parlement en de Raad van 27 november 2019 betreffende Europese bedrijfsstatistieken en tot intrekking van tien rechtshandelingen op het gebied van bedrijfsstatistieken (PbEU 2019 L 327/1);
-
-- b. **verordening 2020/1197:** Uitvoerings[verordening (EU) 2020/1197](33097R2020) van de Commissie van 30 juli 2020 tot vaststelling van technische specificaties en regelingen overeenkomstig [Verordening (EU) 2019/2152](32152R2019) van het Europees Parlement en de Raad betreffende Europese bedrijfsstatistieken en tot intrekking van tien rechtshandelingen op het gebied van bedrijfsstatistieken (PbEU 2020 L 127/1).
-
-2. De [artikelen 33, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2025-09-01&g=2025-09-01), en [37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2025-09-01&g=2025-09-01), zijn niet van toepassing op de uitvoering van hoofdstuk V van [verordening 2019/2152](32152R2019) en Bijlage V van [verordening 2020/1197](33097R2020).
-
-##### Artikel 38b
-
-De rapportage-eenheden, bedoeld in afdeling 7, eerste en tweede lid, van Bijlage V van [verordening 2020/1197](33097R2020), die gehouden zijn tot het doen van een opgave op grond van die verordening, verstrekken de desbetreffende gegevens kosteloos aan het CBS.
-
-##### Artikel 38c
-
-1. Bij ministeriële regeling wordt vastgesteld:
-
-- a. op welke wijze de gegevens, bedoeld in artikel 13, eerste lid, van [verordening 2019/2152](32152R2019), moeten worden opgegeven;
-
-- b. welke vereenvoudigingsmethoden als bedoeld in afdeling 31 van Bijlage V van [verordening 2020/1197](33097R2020) van toepassing zijn en de wijze waarop die worden toegepast;
-
-- c. al hetgeen verder nodig is ter voldoening aan de op [verordening 2020/1197](33097R2020) berustende voorschriften.
-
-2. De in het eerste lid, onderdeel b, bedoelde vereenvoudigingsmethoden worden per kalenderjaar vastgesteld.
-
-##### Artikel 38d
-
-Het in artikel 17, vierde lid, van [verordening 2019/2152](32152R2019) bedoelde verslag wordt opgesteld door het CBS.
-
-#### Paragraaf 3. Verstrekking van gegevens
-
-#### Paragraaf 4. Bestuurlijke boete en last onder dwangsom
-
-### Hoofdstuk 6. Informatievoorziening
-
-#### Paragraaf 1. Informatievoorziening
-
-#### Paragraaf 2. Sturing en toezicht
-
-### Hoofdstuk 7. Financieel toezicht
-
-#### Paragraaf 1. Begroting
-
-#### Paragraaf 2. Beheer en verantwoording
-
-### Hoofdstuk 8. Wijziging en intrekking wetten
-
-### Hoofdstuk 9. Overgangs- en slotbepalingen
-
-#### Paragraaf 2. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 32a
-
-Deze wet, met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=4&z=2025-09-01&g=2025-09-01), [38a tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=39&z=2025-09-01&g=2025-09-01), [41, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2025-09-01&g=2025-09-01), en [52a tot en met 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2025-09-01&g=2025-09-01), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat [Hoofdstuk 5, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=4&z=2025-09-01&g=2025-09-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de [Aanpassingswet vierde tranche Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0026055), in genoemde openbare lichamen van toepassing blijft.
-
-### Hoofdstuk 5. Verwerving, gebruik en verstrekking van gegevens
-
-#### Paragraaf 1. Verwerving
-
-#### Paragraaf 2. Gebruik van gegevens
-
-#### Paragraaf 2a. Uitvoering van [verordening 638/2004](32004R0638)
-
-#### Paragraaf 4. Bestuurlijke boete en last onder dwangsom
-
-#### Paragraaf 4. Bestuurlijke boete en last onder dwangsom
-
-### Hoofdstuk 5a. Het verlenen van bijstand bij inspecties
-
-#### Paragraaf 1. Begroting
-
-### Hoofdstuk 7. Financieel toezicht
-
-#### Paragraaf 1. Begroting
-
-#### Paragraaf 2. Beheer en verantwoording
-
-### Hoofdstuk 8. Wijziging en intrekking wetten
-
-### Hoofdstuk 9. Overgangs- en slotbepalingen
-
-#### Paragraaf 1. Overgangsbepalingen
-
-#### Paragraaf 2. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 52a
-
-Het CBS verleent op verzoek van de Europese Commissie bijstand bij een inspectie op grond van artikel 5, vierde lid, van Gedelegeerd besluit 2012/678/EU van de Commissie van 29 juni 2012 betreffende onderzoeken en boeten in verband met de manipulatie van statistieken als bedoeld in Verordening (EU) nr. 1173/2011 van het Europees Parlement en de Raad inzake de effectieve handhaving van het begrotingstoezicht in het eurogebied (Pb EU 2012, L 306).
-
-##### Artikel 52b
-
-1. De directeur-generaal wijst, in geval van een verzoek om bijstand als bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2025-09-01&g=2025-09-01), bij besluit de ambtenaren aan die zijn belast met het verlenen van deze bijstand.
-
-2. De ambtenaren, bedoeld in het eerste lid, hebben de bevoegdheden, genoemd in artikel 5, eerste lid, onderdelen a tot en met e, van Gedelegeerd besluit 2012/678/EU van de Commissie van 29 juni 2012 betreffende onderzoeken en boeten in verband met de manipulatie van statistieken als bedoeld in Verordening (EU) nr. 1173/2011 van het Europees Parlement en de Raad inzake de effectieve handhaving van het begrotingstoezicht in het eurogebied (Pb EU 2012, L 306).
-
-##### Artikel 52c
-
-Op gegevens die verkregen zijn bij het verlenen van bijstand als bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2025-09-01&g=2025-09-01) is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2025-09-01&g=2025-09-01) niet van toepassing, met dien verstande dat deze gegevens alleen aan de Europese Commissie verstrekt worden.
-
-### Hoofdstuk 7. Financieel toezicht
-
-#### Paragraaf 1. Begroting
-
-#### Paragraaf 2. Beheer en verantwoording
-
-### Hoofdstuk 9. Overgangs- en slotbepalingen
-
-### Hoofdstuk 9. Overgangs- en slotbepalingen
-
-#### Paragraaf 1. Overgangsbepalingen
-
-#### Paragraaf 2. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a
-
-1. Het CBS bestaat uit één lid, de directeur-generaal, met de titel van directeur-generaal van de statistiek.
-
-2. De directeur-generaal wordt benoemd voor een periode van ten hoogste zeven jaren en kan eenmaal worden herbenoemd voor een periode van ten hoogste drie jaren.
-
-3. Bij het openvallen van de functie van directeur-generaal doet de raad van advies een aanbeveling voor de vervulling van deze functie aan Onze Minister.
-
-4. Schorsing en ontslag van de directeur-generaal vindt niet plaats dan nadat de raad van advies is gehoord.
-
-5. Onze Minister kan regels stellen ten aanzien van de plaatsvervanging van de directeur-generaal.
-
-##### Artikel 2b
-
-1. De directeur-generaal stelt een bestuursreglement vast.
-
-2. Het bestuursreglement bevat ten minste een regeling van:
-
-- a. de structuur van de CBS-organisatie;
-
-- b. de samenstelling en werkwijze van de leidinggevenden van de onderdelen van de CBS-organisatie en hun onderlinge taakverdeling op hoofdlijnen.
-
-#### Paragraaf 2. Werkwijze
-
-### Hoofdstuk 4. Raad van advies
-
-### Hoofdstuk 4a. Bonaire, Sint Eustatius en Saba
-
-### Hoofdstuk 5. Verwerving, gebruik en verstrekking van gegevens
-
-#### Paragraaf 1. Verwerving
-
-#### Paragraaf 2. Gebruik van gegevens
-
-#### Paragraaf 2a. Uitvoering van [verordening 638/2004](32004R0638)
-
-#### Paragraaf 3. Verstrekking van gegevens
-
-### Hoofdstuk 5a. Het verlenen van bijstand bij inspecties
-
-### Hoofdstuk 7. Financieel toezicht
-
-#### Paragraaf 2. Beheer en verantwoording
-
-### Hoofdstuk 8. Wijziging en intrekking wetten
-
-#### Paragraaf 1. Overgangsbepalingen
-
-#### Paragraaf 2. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

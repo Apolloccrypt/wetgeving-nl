@@ -1,42 +1,17 @@
 ---
 title: "Beleidsregels vorm- en herkenbaarheidsvereisten reïntegratieverslagen"
 identifier: "BWBR0015184"
-country: "nl"
-rank: "zbo"
-publication_date: "2005-12-21"
-last_updated: "2005-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015184"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6053893"
-version_id: "12601562"
-internal_id: "C16941401"
-label_id: "6043144"
-original_entry_into_force: "2005-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015184/2005-12-21/0"
-intitule_bron: "Stcrt.2003-117"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-06-06"
-intitule_published: "2003-06-23"
-intitule_in_force: "2003-06-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-246"
-original_signed_date: "2005-12-13"
-original_published_date: "2005-12-19"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2005-246-p94-SC72844"
-entry_into_force_date: "2005-12-13"
-jci_1_3: "jci1.3:c:BWBR0015184&z=2005-12-21&g=2005-12-21"
-jci_1_0: "1.0:c:BWBR0015184&g=2005-12-21"
-citeertitel_status: "redactioneel"
-signed_date: "2005-12-13"
-entry_into_force: "2005-12-13"
+publicatiedatum: 2005-12-13
+laatste_update: 2005-12-21
+status: geldig
+toestand: 2005-12-21
+bron: "https://wetten.overheid.nl/BWBR0015184"
+opgehaald: 2026-08-07
 ---
+
 # Beleidsregels vorm- en herkenbaarheidsvereisten reïntegratieverslagen
-
-Gelet op de artikelen 34a, eerste lid, 71a, negende lid, en 71b, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering en de Regeling procesgang eerste ziektejaar;
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -69,6 +44,10 @@ In dit besluit wordt verstaan onder:
 - m. medische informatie: de medische gegevens en oordelen die ten grondslag liggen aan de probleemanalyse, de bijstellingen daarvan en het actueel oordeel bij de probleemanalyse;
 
 - n. oordeel van de werknemer: het oordeel van de werknemer omtrent de gegevens en oordelen, bedoeld in [artikel 6, onderdelen a tot en met k, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=6).
+
+##### Artikel 1a. Grondslag
+
+Dit besluit berust mede op [artikel 123b, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=123b).
 
 ##### Artikel 2. Inhoud van het reïntegratieverslag
 
@@ -104,6 +83,20 @@ In dit besluit wordt verstaan onder:
 
 10. De actuele oordelen van de werkgever over de kwaliteit van de arbeidsrelatie en over de aanwezigheid van passende arbeid bij de werkgever, bedoeld in [artikel 6, onderdelen i en k, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=6), worden herkenbaar weergegeven bij de eindevaluatie.
 
+##### Artikel 2a. Verkort reïntegratieverslag Ziektewet
+
+1. Indien geen probleemanalyse en geen plan van aanpak zijn opgesteld omdat naar de verwachting van de bedrijfsarts of de arbodienst geen sprake zou zijn van dreigend langdurig ziekteverzuim als bedoeld in [artikel 2, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2), of omdat de tijdsperiode tussen de eerste dag van de ongeschiktheid tot werken en de laatste dag voordat de dienstbetrekking eindigt korter is dan tien weken, kan in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-12-21&g=2005-12-21) worden volstaan met een beknopt verslag, aan te duiden als: verkort reïntegratieverslag Ziektewet.
+
+2. Voor het indienen van een verkort reïntegratieverslag Ziektewet stelt het UWV een afzonderlijk formulier beschikbaar.
+
+3. Indien geen gebruik wordt gemaakt van het in het tweede lid bedoelde formulier, worden in elk geval als afzonderlijke en herkenbare elementen van het verkort reïntegratieverslag Ziektewet weergegeven:
+
+- a. de actuele stand van zaken, met vermelding van de administratieve gegevens van de werknemer, werkgever en bedrijfsarts of arbodienst, gegevens omtrent de aard van het bedrijf van de werkgever en omtrent de functie en de bekwaamheden van de werknemer, de eerste dag van diens ongeschiktheid tot het verrichten van arbeid wegens ziekte, een en ander als bedoeld in [artikel 6, onder a tot en met e, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=6);
+
+- b. de medische informatie van de bedrijfsarts of de arbodienst, voor zover van toepassing met een onderbouwing van de gestelde afwezigheid van dreigend langdurig ziekteverzuim;
+
+- c. het oordeel van de werknemer.
+
 ##### Artikel 3. Herstellen van tekortkomingen
 
 1. Het UWV stelt aan de werkgever schriftelijk een termijn van veertien dagen om het reïntegratieverslag te verstrekken of aan te vullen indien:
@@ -136,32 +129,8 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Overgangsbepaling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de publicatie van de Staatscourant waarin het is geplaatst.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
-
-##### Artikel 2a. Verkort reïntegratieverslag Ziektewet
-
-1. Indien geen probleemanalyse en geen plan van aanpak zijn opgesteld omdat naar de verwachting van de bedrijfsarts of de arbodienst geen sprake zou zijn van dreigend langdurig ziekteverzuim als bedoeld in [artikel 2, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2), of omdat de tijdsperiode tussen de eerste dag van de ongeschiktheid tot werken en de laatste dag voordat de dienstbetrekking eindigt korter is dan tien weken, kan in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-12-21&g=2005-12-21) worden volstaan met een beknopt verslag, aan te duiden als: verkort reïntegratieverslag Ziektewet.
-
-2. Voor het indienen van een verkort reïntegratieverslag Ziektewet stelt het UWV een afzonderlijk formulier beschikbaar.
-
-3. Indien geen gebruik wordt gemaakt van het in het tweede lid bedoelde formulier, worden in elk geval als afzonderlijke en herkenbare elementen van het verkort reïntegratieverslag Ziektewet weergegeven:
-
-- a. de actuele stand van zaken, met vermelding van de administratieve gegevens van de werknemer, werkgever en bedrijfsarts of arbodienst, gegevens omtrent de aard van het bedrijf van de werkgever en omtrent de functie en de bekwaamheden van de werknemer, de eerste dag van diens ongeschiktheid tot het verrichten van arbeid wegens ziekte, een en ander als bedoeld in [artikel 6, onder a tot en met e, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=6);
-
-- b. de medische informatie van de bedrijfsarts of de arbodienst, voor zover van toepassing met een onderbouwing van de gestelde afwezigheid van dreigend langdurig ziekteverzuim;
-
-- c. het oordeel van de werknemer.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
-
-##### Artikel 1a. Grondslag
-
-Dit besluit berust mede op [artikel 123b, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=123b).
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

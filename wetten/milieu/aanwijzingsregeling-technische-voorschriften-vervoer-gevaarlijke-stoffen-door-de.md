@@ -1,42 +1,17 @@
 ---
 title: "Aanwijzingsregeling Technische Voorschriften vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen"
 identifier: "BWBR0014746"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-08-19"
-last_updated: "2021-08-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014746"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "4187393"
-version_id: "5940132"
-internal_id: "C13515391"
-label_id: "4166174"
-dtd_version: "2.0"
-original_entry_into_force: "2003-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014746/2021-08-19/0"
-intitule_bron: "Stcrt.2003-45"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-02-24"
-intitule_published: "2003-03-05"
-intitule_in_force: "2003-03-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-45"
-original_signed_date: "2003-02-24"
-original_published_date: "2003-03-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-03-16"
-jci_1_3: "jci1.3:c:BWBR0014746&z=2021-08-19&g=2021-08-19"
-jci_1_0: "1.0:c:BWBR0014746&g=2021-08-19"
-citeertitel_status: "officieel"
-signed_date: "2003-02-24"
-entry_into_force: "2003-03-16"
+publicatiedatum: 2003-03-16
+laatste_update: 2021-08-19
+status: geldig
+toestand: 2021-08-19
+bron: "https://wetten.overheid.nl/BWBR0014746"
+opgehaald: 2026-08-07
 ---
+
 # Aanwijzingsregeling Technische Voorschriften vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen
-
-Gelet op [artikel 3, tweede lid, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=3) en [artikel 6.59 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.59);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -85,5 +60,3 @@ Deze regeling treedt in werking met ingang van de dag van inwerkingtreding van h
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Aanwijzingsregeling Technische Voorschriften vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,37 +1,17 @@
 ---
 title: "Subsidieregeling Groepsbudgetten jazz en improvisatiemuziek 2004"
 identifier: "BWBR0014554"
-country: "nl"
-rank: "zbo"
-publication_date: "2003-07-22"
-last_updated: "2003-07-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014554"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6536693"
-version_id: "11324132"
-internal_id: "C15259071"
-label_id: "6525504"
-original_entry_into_force: "2003-07-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014554/2003-07-22/0"
-intitule_bron: "Stcrt.2003-138"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2003-07-22"
-intitule_in_force: "2003-07-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-138"
-original_published_date: "2003-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-138-p21-SC60241"
-entry_into_force_date: "2003-07-22"
-jci_1_3: "jci1.3:c:BWBR0014554&z=2003-07-22&g=2003-07-22"
-jci_1_0: "1.0:c:BWBR0014554&g=2003-07-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "2003-07-22"
+publicatiedatum: 2003-07-22
+laatste_update: 2003-07-22
+status: geldig
+toestand: 2003-07-22
+bron: "https://wetten.overheid.nl/BWBR0014554"
+opgehaald: 2026-08-07
 ---
-# Subsidieregeling Groepsbudgetten jazz en improvisatiemuziek 2004
 
-Deze regeling maakt onderdeel uit van de regeling Onderzoek en producties 2004 en vervangt de regeling Groepsbudgetten jazz- en improvisatiemuziek 2003.
+# Subsidieregeling Groepsbudgetten jazz en improvisatiemuziek 2004
 
 ### 1. Doel van het onderdeel groepsbudgetten jazz- en improvisatiemuziek 2004
 
@@ -65,17 +45,53 @@ Voor het indienen van een aanvraag maakt u gebruik van het aanvraagformulier Gro
 
 De aanvraag, gesteld in de Nederlandse taal, bestaat uit:
 
+- - een volledig ingevuld aanvraagformulier (in negenvoud, zie [5.1](https://wetten.overheid.nl/BWBR0014554).);
+
+- - een gemotiveerd plan (in negenvoud, zie [5.2](https://wetten.overheid.nl/BWBR0014554).);
+
+- - een begroting met toelichting (in negenvoud, zie [5.3](https://wetten.overheid.nl/BWBR0014554).);
+
+- - en voor de beoordeling noodzakelijke bijlagen (zie [5.4](https://wetten.overheid.nl/BWBR0014554).).
+
 ### 5.1. Aanvraagformulier
 
 Op het aanvraagformulier geeft u onder andere aan:
+
+- - de gegevens van de aanvrager;
+
+- - de gegevens van de contactpersoon;
+
+- - in welke periode de activiteiten plaatsvinden.
 
 ### 5.2. Gemotiveerd plan
 
 Het gemotiveerde plan beslaat bij voorkeur maximaal vier A-4tjes waarin u een inhoudelijke en organisatorische beschrijving van de voor te bereiden concerten geeft. Daarbij is het van belang uw plan zo concreet mogelijk te beschrijven. Het bevat de volgende informatie:
 
+- - Een korte omschrijving van inhoud, vorm en artistiek concept van de voor te bereiden concerten en van de voorgenomen werkmethode.
+
+- - De betekenis van uw aanvraag voor uw verdere artistieke ontwikkeling en/of voor de artistieke ontwikkeling van de jazz- en improvisatiemuziek.
+
+- - Geef aan wanneer de repetitieperiode aanvangt en wat de duur van repetitieperiode is. Wat is het aantal repetities? Motiveer dit aantal.
+
+- - Wat is de speelperiode? Motiveer de geplande duur van de speelperiode en uw verwachting ten aanzien van het aantal concerten. Geef aan in welke periode en in welke circuits (grote zaal, kleine zaal, op locatie, elders) de concerten gespeeld worden.
+
+- - Vermelding van de uitvoerenden en motivatie van uw keuze (curricula vitae bijvoegen).
+
+- - Beschrijf hoe u uw plan gaat realiseren: produceert u zelf of werkt u samen met een impresariaat? Zo ja, met wie? Motiveer uw keuze.
+
+- - Geef aan wie de organisatie vormen en wat de functies zijn. Motiveer uw keuze (curricula vitae bijvoegen).
+
+- - Beschrijf kort door wie en hoe speelplaatsen voor uw productie worden benaderd, welke reeds zijn benaderd en welke nog volgen.
+
+- - Geef aan hoe het publiek geworven wordt en of er sprake is van specifieke publieksgroepen.
+
 ### 5.3. Begroting
 
 Voor de subsidieregeling Groepsbudgetten jazz- en improvisatiemuziek 2004 maakt u gebruik van het bijbehorende begrotingsmodel.
+
+- 1. Het Fonds verzoekt u de begrotingsposten zoveel mogelijk te specificeren en indien u dit nodig acht een toelichting bij uw begroting te voegen.
+
+- 2. Ter bepaling van de hoogte van het te verlenen subsidie gelden de volgende richtlijnen:
 
 De hoogte is afhankelijk van de omvang van de groep of het ensemble. Het Fonds gaat uit van een groepsactiviteit van maximaal tien betaalde repetitie- of opnamedagen.
 
@@ -95,9 +111,19 @@ voor kantoormedewerker(s) € 450.
 
 Per musicus is beschikbaar voor honorarium/repetities/opname € 75 en reiskosten repetities/opname € 20.
 
+- - publiciteits- en kantoorkosten: kosten muziekopnames ten behoeve van een demo, maximaal € 1.150; kosten foto's, folders, mailingen, porti, telefoonkosten en dergelijke, maximaal € 1.150.
+
+- - huur van een repetitieruimte: € 25 per repetitie.
+
 ### 5.4. Voor de beoordeling noodzakelijke bijlagen
 
 Voor de beoordeling noodzakelijke bijlagen zijn:
+
+- - curricula vitae van makers, medewerkers en uitvoerenden (in negenvoud).
+
+- - relevante opnamen op cd of band van werken van de componist, van de voorgestelde uitvoerenden (in enkelvoud).
+
+- - voor zover in uw plan composities zijn opgenomen die niet algemeen bekend zijn, muziekfragmenten op cd of band (in enkelvoud).
 
 Het is van belang dat foto's, illustraties, videobanden, geluidsbanden en cd's voorzien zijn van de naam van de aanvrager en van de titel van uw plan. U kunt op het aanvraagformulier aangeven of u dit materiaal na afloop van de bezwaartermijn terug wilt ontvangen.
 
@@ -111,7 +137,7 @@ Deze commissie beoordeelt een in behandeling genomen aanvraag aan de hand van de
 
 Tijdens de behandeling van een aanvraag wordt over de voortgang daarvan geen informatie verstrekt.
 
-Het bestuur besluit in beginsel uiterlijk 12 weken na ontvangst van uw aanvraag. Het besluit van het bestuur bestaat uit de subsidiebeschikking met daarbij de motivatie, het uitgebrachte advies. Als uw aanvraag wordt gehonoreerd, berichten wij u het maximaal verleende subsidie of de voorwaarden waaronder een reservering kan worden omgezet in een subsidieverlening. Aan een subsidie zijn verplichtingen verbonden zoals vermeld in paragraaf 8 Subsidieverplichtingen en zoals eventueel aanvullend opgenomen in de beschikking.
+Het bestuur besluit in beginsel uiterlijk 12 weken na ontvangst van uw aanvraag. Het besluit van het bestuur bestaat uit de subsidiebeschikking met daarbij de motivatie, het uitgebrachte advies. Als uw aanvraag wordt gehonoreerd, berichten wij u het maximaal verleende subsidie of de voorwaarden waaronder een reservering kan worden omgezet in een subsidieverlening. Aan een subsidie zijn verplichtingen verbonden zoals vermeld in [paragraaf 8](https://wetten.overheid.nl/BWBR0014554) Subsidieverplichtingen en zoals eventueel aanvullend opgenomen in de beschikking.
 
 Aan het honoreren van een aanvraag Groepsbudgetten jazz en improvisatiemuziek kunnen geen rechten worden ontleend met betrekking tot de honorering van een volgende aanvraag en/of een met betreffende activiteiten verband houdende aanvraag.
 

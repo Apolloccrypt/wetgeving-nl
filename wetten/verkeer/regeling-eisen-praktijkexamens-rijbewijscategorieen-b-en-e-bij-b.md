@@ -1,42 +1,18 @@
 ---
 title: "Regeling houdende vaststelling eisen praktijkexamens rijbewijscategorieën B en E bij B (Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B)"
+citeertitel: "Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B"
 identifier: "BWBR0015600"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-12-31"
-last_updated: "2013-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015600"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "5378973"
-version_id: "9671352"
-internal_id: "C13033991"
-label_id: "5354384"
-original_entry_into_force: "2003-09-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015600/2013-12-31/0"
-intitule_bron: "Stcrt.2003-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-09-22"
-intitule_published: "2003-09-29"
-intitule_in_force: "2003-09-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-187"
-original_signed_date: "2003-09-22"
-original_published_date: "2003-09-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-09-30"
-jci_1_3: "jci1.3:c:BWBR0015600&z=2013-12-31&g=2013-12-31"
-jci_1_0: "1.0:c:BWBR0015600&g=2013-12-31"
-citeertitel_status: "officieel"
-short_title: "Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B"
-signed_date: "2003-09-22"
-entry_into_force: "2003-09-30"
+publicatiedatum: 2003-09-30
+laatste_update: 2013-12-31
+status: geldig
+toestand: 2013-12-31
+bron: "https://wetten.overheid.nl/BWBR0015600"
+opgehaald: 2026-08-07
 ---
+
 # Regeling houdende vaststelling eisen praktijkexamens rijbewijscategorieën B en E bij B (Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B)
-
-Gelet op [richtlijn nr. 2000/56/EG](32000L0056) van de Commissie van de Europese Gemeenschappen van 14 september 2000 tot wijziging van [richtlijn nr. 91/439/EEG](31991L0439) van de Raad betreffende het rijbewijs (PbEG L 237) en [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -158,7 +134,7 @@ De in [artikel 3, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artik
 
 - c. het achteruitrijden van aangegeven bochten (bocht achteruit);
 
-- d. het parkeren van het voertuig in een haaks of schuin parkeervak**;**
+- d. het parkeren van het voertuig in een haaks of schuin parkeervak*;*
 
 - e. het op juiste wijze parkeren van het voertuig op een evenwijdig ten opzichte aan de weg gelegen parkeerruimte (file parkeren);
 
@@ -207,5 +183,3 @@ Deze regeling treedt in werking met ingang van 30 september 2003.
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

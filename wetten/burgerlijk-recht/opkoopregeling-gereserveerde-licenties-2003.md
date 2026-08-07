@@ -1,48 +1,57 @@
 ---
 title: "Opkoopregeling gereserveerde licenties 2003"
 identifier: "BWBR0014533"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-03-01"
-last_updated: "2003-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014533"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5533053"
-version_id: "9927882"
-internal_id: "C13406351"
-label_id: "5505264"
-dtd_version: "2.0"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014533/2003-03-01/0"
-intitule_bron: "Stcrt.2002-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-20"
-intitule_published: "2002-12-31"
-intitule_in_force: "2002-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-249"
-original_signed_date: "2002-12-20"
-original_published_date: "2002-12-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-01-01"
-jci_1_3: "jci1.3:c:BWBR0014533&z=2003-03-01&g=2003-03-01"
-jci_1_0: "1.0:c:BWBR0014533&g=2003-03-01"
-citeertitel_status: "officieel"
-signed_date: "2002-12-20"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2003-03-01
+status: geldig
+toestand: 2003-03-01
+bron: "https://wetten.overheid.nl/BWBR0014533"
+opgehaald: 2026-08-07
 ---
+
 # Opkoopregeling gereserveerde licenties 2003
-
-Gelet op de artikelen 2 en 4 van de Kaderwet LNV-subsidies;
-
-Gelet op de goedkeuring van de Europese Commissie, bij beschikking van 27 november 2002, nr. SG(2002)D/232898;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+minister:
+
+Minister van Landbouw, Natuurbeheer en Visserij;
+
+b.
+
+regeling:
+
+Regeling visserijlicentie;
+
+c.
+
+verordening:
+
+verordening (EG) nr. 2091/98 van de Commissie van de Europese Gemeenschappen van 30 september 1998 betreffende de indeling van de communautaire vissersvloot en de visserij-inspanning in segmenten ten behoeve van de meerjarige oriëntatieprogramma's (PbEG L 266);
+
+d.
+
+vissersvaartuig:
+
+vissersvaartuig als bedoeld in artikel 1 van het Besluit registratie vissersvaartuigen 1998;
+
+e.
+
+licentie:
+
+geldige licentie als bedoeld in artikel 2 van de regeling;
+
+f.
+
+ondernemer:
+
+ondernemer als bedoeld in artikel 1 van de regeling.
 
 ##### Artikel 2
 
@@ -113,5 +122,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2003.
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Opkoopregeling gereserveerde licenties 2003.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,42 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 6 november 2003, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2004 (Verordening GZP financieringsheffing jaar 2004)"
+citeertitel: "Verordening GZP financieringsheffing jaar 2004"
 identifier: "BWBR0015849"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-01-01"
-last_updated: "2004-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015849"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6018783"
-version_id: "10629982"
-internal_id: "C14437341"
-label_id: "6008284"
-original_entry_into_force: "2004-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015849/2004-01-01/0"
-intitule_bron: "Vbbo.2003-78"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-11-06"
-intitule_published: "2003-12-29"
-intitule_in_force: "2003-12-29"
-intitule_status: "goed"
-original_publication: "Vbbo.2003-78"
-original_signed_date: "2003-11-06"
-original_published_date: "2003-12-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-01-01"
-jci_1_3: "jci1.3:c:BWBR0015849&z=2004-01-01&g=2004-01-01"
-jci_1_0: "1.0:c:BWBR0015849&g=2004-01-01"
-citeertitel_status: "officieel"
-short_title: "Verordening GZP financieringsheffing jaar 2004"
-signed_date: "2003-11-06"
-entry_into_force: "2004-01-01"
+publicatiedatum: 2004-01-01
+laatste_update: 2004-01-01
+status: geldig
+toestand: 2004-01-01
+bron: "https://wetten.overheid.nl/BWBR0015849"
+opgehaald: 2026-08-07
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 6 november 2003, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2004 (Verordening GZP financieringsheffing jaar 2004)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 eerste lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 5](onbekend), [6](onbekend) en [7 van de Instellingsverordening akkerbouwproductschappen 1997](onbekend) dan wel het [Instellingsbesluit akkerbouwproductschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0016234) zodra dit in werking is getreden;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 

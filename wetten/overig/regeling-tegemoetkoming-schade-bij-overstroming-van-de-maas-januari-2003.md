@@ -1,44 +1,17 @@
 ---
 title: "Regeling tegemoetkoming schade bij overstroming van de Maas januari 2003"
 identifier: "BWBR0014589"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-04-02"
-last_updated: "2003-04-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014589"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5502533"
-version_id: "9894282"
-internal_id: "C13367511"
-label_id: "5476154"
-dtd_version: "2.0"
-original_entry_into_force: "2003-01-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014589/2003-04-02/0"
-intitule_bron: "Stcrt.2003-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-01-10"
-intitule_published: "2003-01-14"
-intitule_in_force: "2003-01-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-9"
-original_signed_date: "2003-01-10"
-original_published_date: "2003-01-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-01-16"
-jci_1_3: "jci1.3:c:BWBR0014589&z=2003-04-02&g=2003-04-02"
-jci_1_0: "1.0:c:BWBR0014589&g=2003-04-02"
-citeertitel_status: "officieel"
-signed_date: "2003-01-10"
-entry_into_force: "2003-01-16"
+publicatiedatum: 2003-01-16
+laatste_update: 2003-04-02
+status: geldig
+toestand: 2003-04-02
+bron: "https://wetten.overheid.nl/BWBR0014589"
+opgehaald: 2026-08-07
 ---
+
 # Regeling tegemoetkoming schade bij overstroming van de Maas januari 2003
-
-Handelende in overeenstemming met de Ministers van Economische Zaken, van Financiën, van Landbouw, Natuurbeheer en Visserij en van Verkeer en Waterstaat;
-
-Gelet op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=7), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=9) en [12 van de Wet tegemoetkoming schade bij rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=12) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=2) en [3 van het Besluit tegemoetkoming schade bij rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=3);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,13 +19,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de wet:** de [Wet tegemoetkoming schade bij rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637);
+- a. *de wet:* de [Wet tegemoetkoming schade bij rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637);
 
-- b. **LASER:** Dienst Landelijke service bij regelingen van het Ministerie van Landbouw, Natuurbeheer en Visserij;
+- b. *LASER:* Dienst Landelijke service bij regelingen van het Ministerie van Landbouw, Natuurbeheer en Visserij;
 
-- c. **schadebedrag:** de omvang van de schade vastgesteld door de schade-expert, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=5), waarop in mindering zijn gebracht de schade die redelijkerwijs verzekerbaar is, de schade waarvoor uit andere hoofde een tegemoetkoming is verkregen of kan worden verkregen en de schade die is veroorzaakt door eigen schuld of doordat de gedupeerde onvoldoende maatregelen heeft getroffen ter voorkoming of beperking van de schade;
+- c. *schadebedrag:* de omvang van de schade vastgesteld door de schade-expert, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=5), waarop in mindering zijn gebracht de schade die redelijkerwijs verzekerbaar is, de schade waarvoor uit andere hoofde een tegemoetkoming is verkregen of kan worden verkregen en de schade die is veroorzaakt door eigen schuld of doordat de gedupeerde onvoldoende maatregelen heeft getroffen ter voorkoming of beperking van de schade;
 
-- d. **kostenbedrag:** de gemaakte kosten vastgesteld door de schade-expert, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=5), waarop in mindering zijn gebracht de kosten die redelijkerwijs verzekerbaar zijn, de kosten waarvoor uit anderen hoofde een tegemoetkoming is verkregen of kan worden verkregen en de kosten die zijn veroorzaakt door eigen schuld of doordat de gedupeerde onvoldoende maatregelen heeft getroffen ter voorkoming of beperking van de kosten.
+- d. *kostenbedrag:* de gemaakte kosten vastgesteld door de schade-expert, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=5), waarop in mindering zijn gebracht de kosten die redelijkerwijs verzekerbaar zijn, de kosten waarvoor uit anderen hoofde een tegemoetkoming is verkregen of kan worden verkregen en de kosten die zijn veroorzaakt door eigen schuld of doordat de gedupeerde onvoldoende maatregelen heeft getroffen ter voorkoming of beperking van de kosten.
 
 ##### Artikel 2
 
@@ -62,7 +35,7 @@ In deze regeling wordt verstaan onder:
 
 - b. het overlopen of bezwijken van een gereglementeerde waterkering langs een gedeelte van de Maas ter hoogte van Tegelen op 5 januari 2003.
 
-2. Als schadegebied, bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=1), en [2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=2), voor de schade en kosten ontstaan in de periode tussen 2 en 6 januari 2003 wordt het in de bijlage bij deze regeling aangeduide gebied aangewezen.
+2. Als schadegebied, bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=1), en [2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=2), voor de schade en kosten ontstaan in de periode tussen 2 en 6 januari 2003 wordt het in de [bijlage](https://wetten.overheid.nl/BWBR0014589) bij deze regeling aangeduide gebied aangewezen.
 
 3. Indien het onverkort vasthouden aan het in het tweede lid aangewezen schadegebied tot onbillijke situaties leidt, kan de minister in individuele gevallen bij zijn besluitvorming van dat schadegebied afwijken.
 
@@ -193,11 +166,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 23
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming schade bij overstroming van de Maas januari 2003.
-
-## Bijlage. behorend bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014589&paragraaf=1&artikel=2&z=2003-04-02&g=2003-04-02), van de Regeling tegemoetkoming schade bij overstroming van de Maas januari 2003
-
-Als schadegebied wordt aangewezen het gearceerde deel van de kaart, gelegen in de winterbedding van de Maas tussen de landsgrens en de Maasbrug bij Gennep, op het grondgebied van de gemeenten gelegen tussen Eijsden en Gennep, met uitzondering van de gebieden langs de Maas waar primaire waterkeringen als bedoeld in de Wet op de waterkering of anderszins gereglementeerde waterkeringen aanwezig zijn.
-
-Tot het schadegebied behoort tevens het op onderstaande kaart donkergekleurde grondgebied van Tegelen (gemeente Venlo) direct gelegen achter de op 5 januari 2003 bezweken damwand. Hiertoe behoren de aan de straten Maashoek en de Sint Michaelstraat gelegen objecten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

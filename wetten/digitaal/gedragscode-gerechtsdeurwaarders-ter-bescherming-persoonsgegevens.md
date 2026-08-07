@@ -1,76 +1,42 @@
 ---
 title: "Gedragscode gerechtsdeurwaarders ter bescherming persoonsgegevens"
 identifier: "BWBR0016119"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-03-03"
-last_updated: "2004-03-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016119"
+categorie: "Digitaal en privacy"
 soort: "pbo"
-stam_id: "6698923"
-version_id: "11534952"
-internal_id: "C15554171"
-label_id: "6687374"
-original_entry_into_force: "2004-03-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016119/2004-03-03/0"
-intitule_bron: "Stcrt.2004-33"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-12-12"
-intitule_published: "2004-02-18"
-intitule_in_force: "2004-02-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-33"
-original_signed_date: "2003-12-12"
-original_published_date: "2004-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-33-p19-SC63821"
-entry_into_force_date: "2004-03-03"
-jci_1_3: "jci1.3:c:BWBR0016119&z=2004-03-03&g=2004-03-03"
-jci_1_0: "1.0:c:BWBR0016119&g=2004-03-03"
-citeertitel_status: "officieel"
-signed_date: "2003-12-12"
-entry_into_force: "2004-03-03"
+publicatiedatum: 2004-03-03
+laatste_update: 2004-03-03
+status: geldig
+toestand: 2004-03-03
+bron: "https://wetten.overheid.nl/BWBR0016119"
+opgehaald: 2026-08-07
 ---
+
 # Gedragscode gerechtsdeurwaarders ter bescherming persoonsgegevens
-
-Overwegende,
-
-dat de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) (Stb. 2000, 302) regels stelt inzake de bescherming van persoonsgegevens;
-
-dat [artikel 25 van voornoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=25) aan een organisatie die voornemens is een gedragscode vast te stellen de mogelijkheid biedt het College bescherming persoonsgegevens te verzoeken te verklaren dat de daarin opgenomen regels een juiste uitwerking vormen van voornoemde wet of van andere wettelijke bepalingen betreffende de verwerking van persoonsgegevens;
-
-dat het gewenst is te komen tot een Gedragscode teneinde een zorgvuldige verwerking van persoonsgegevens te bevorderen en te waarborgen.
-
-Gehoord het advies van de Ledenraad en de Algemene Ledenvergadering van de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders.
-
-Besluit:
-
-de Gedragscode gerechtsdeurwaarders ter bescherming van persoonsgegevens als volgt vast te stellen.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze gedragscode wordt verstaan onder:
 
-- a. **persoonsgegeven:** elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
+- a. *persoonsgegeven:* elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
 
-- b. **verwerking van persoonsgegevens:** elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van gegevens;
+- b. *verwerking van persoonsgegevens:* elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van gegevens;
 
-- c. **gerechtsdeurwaarder:** de als zodanig benoemde openbaar ambtenaar, de als zodanig benoemde waarnemend openbaar ambtenaar en de toegevoegd-kandidaat-gerechtsdeurwaarder als bedoeld in [artikel 1 onder e Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=1), verantwoordelijke in de zin van de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), die zelf of op wiens aanwijzing of onder wiens verantwoordelijkheid of medeverantwoordelijkheid persoonsgegevens worden verwerkt;
+- c. *gerechtsdeurwaarder:* de als zodanig benoemde openbaar ambtenaar, de als zodanig benoemde waarnemend openbaar ambtenaar en de toegevoegd-kandidaat-gerechtsdeurwaarder als bedoeld in [artikel 1 onder e Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=1), verantwoordelijke in de zin van de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), die zelf of op wiens aanwijzing of onder wiens verantwoordelijkheid of medeverantwoordelijkheid persoonsgegevens worden verwerkt;
 
-- d. **opdrachtgever:** degene die aan de gerechtsdeurwaarder een opdracht bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2), of [artikel 20 Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=20) verstrekt;
+- d. *opdrachtgever:* degene die aan de gerechtsdeurwaarder een opdracht bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2), of [artikel 20 Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=20) verstrekt;
 
-- e. **wederpartij:** de natuurlijke persoon op wie een persoonsgegeven betrekking heeft en ten laste van wie de gerechtsdeurwaarder een opdracht uitvoert;
+- e. *wederpartij:* de natuurlijke persoon op wie een persoonsgegeven betrekking heeft en ten laste van wie de gerechtsdeurwaarder een opdracht uitvoert;
 
-- f. **derde:** ieder, niet zijnde de wederpartij, de gerechtsdeurwaarder of de persoon die onder rechtstreeks gezag van de gerechtsdeurwaarder gemachtigd is om persoonsgegevens te verwerken;
+- f. *derde:* ieder, niet zijnde de wederpartij, de gerechtsdeurwaarder of de persoon die onder rechtstreeks gezag van de gerechtsdeurwaarder gemachtigd is om persoonsgegevens te verwerken;
 
-- g. **toestemming van de wederpartij** elke vrije, specifieke en op informatie berustende wilsuiting waarmee de wederpartij aanvaardt dat hem betreffende persoonsgegevens worden verwerkt;
+- g. *toestemming van de wederpartij* elke vrije, specifieke en op informatie berustende wilsuiting waarmee de wederpartij aanvaardt dat hem betreffende persoonsgegevens worden verwerkt;
 
-- h. **verstrekken van persoonsgegevens:** het bekend maken of ter beschikking stellen van persoonsgegevens;
+- h. *verstrekken van persoonsgegevens:* het bekend maken of ter beschikking stellen van persoonsgegevens;
 
-- i. **Wbp :** [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
+- i. *Wbp :*
+ [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
 
-- j. **verzamelen van persoonsgegevens:** het verkrijgen van persoonsgegevens.
+- j. *verzamelen van persoonsgegevens:* het verkrijgen van persoonsgegevens.
 
 ##### Artikel 2. Doelomschrijving
 

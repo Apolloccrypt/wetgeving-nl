@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het Bestuur van het Productschap Tuinbouw, d.d. 6 mei 2003, houdende de vaststelling van de nadere omschrijving van diverse bepalingen uit de Verordening PT bloembollen leverbaar 2003 (Besluit 2003/3 PT vakheffing bloembollen leverbaar 2003)"
+citeertitel: "Besluit 2003/3 PT vakheffing bloembollen leverbaar 2003"
 identifier: "BWBR0015143"
-country: "nl"
-rank: "pbo"
-publication_date: "2003-06-01"
-last_updated: "2003-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015143"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6091273"
-version_id: "10965162"
-internal_id: "C14860851"
-label_id: "6080464"
-original_entry_into_force: "2003-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015143/2003-06-01/0"
-intitule_bron: "Vbbo.2003-34"
-intitule_effect: "wijziging"
-intitule_signed: "2003-05-06"
-intitule_published: "2003-05-30"
-intitule_in_force: "2003-05-30"
-intitule_status: "goed"
-original_publication: "Vbbo.2003-33"
-original_signed_date: "2003-05-06"
-original_published_date: "2003-05-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-06-01"
-jci_1_3: "jci1.3:c:BWBR0015143&z=2003-06-01&g=2003-06-01"
-jci_1_0: "1.0:c:BWBR0015143&g=2003-06-01"
-citeertitel_status: "officieel"
-short_title: "Besluit 2003/3 PT vakheffing bloembollen leverbaar 2003"
-signed_date: "2003-05-06"
-entry_into_force: "2003-06-01"
+publicatiedatum: 2003-06-01
+laatste_update: 2003-06-01
+status: geldig
+toestand: 2003-06-01
+bron: "https://wetten.overheid.nl/BWBR0015143"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van het Bestuur van het Productschap Tuinbouw, d.d. 6 mei 2003, houdende de vaststelling van de nadere omschrijving van diverse bepalingen uit de Verordening PT bloembollen leverbaar 2003 (Besluit 2003/3 PT vakheffing bloembollen leverbaar 2003)
-
-gelet op het bepaalde in de [Verordening PT vakheffing bloembollen leverbaar 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0013849);
-
-gehoord de Sectorcommissie voor bollen knollen en wortelstokken van bloemgewassen d.d. 1 april 2003;
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -82,14 +56,14 @@ Wanneer door een handelskaarthouder wordt aangetoond dat de geldelijke opbrengst
 
 Indien op de factuur de behandelingskosten niet apart zijn vermeld, worden de volgende bedragen als zijnde behandelingskosten aangemerkt:
 
-| **Soort** | **Periode waarin behandelkosten worden berekend** | **Prijs in €** | **Prijs in €** |
-| --- | --- | --- | --- |
-| Tulpen | Vanaf december | 0,48/100 stuks | 0,48/100 stuks |
-| Iris | Gehele jaar | 0,48/100 stuks | 0,48/100 stuks |
-| Hyacint | Vanaf december | 1,58/100 stuks | 1,58/100 stuks |
-| Gladiool | April tot en met September | 0,29/100 stuks | 0,29/100 stuks |
-| Narcis | Vanaf december | 0,15 kg | 0,15 kg |
-| lelie | April tot en met September | 1,42/100 stuks | 1,42/100 stuks |
+| Soort | Periode waarin behandelkosten worden berekend | Prijs in € |
+| --- | --- | --- |
+| Tulpen | Vanaf december | 0,48/100 stuks |
+| Iris | Gehele jaar | 0,48/100 stuks |
+| Hyacint | Vanaf december | 1,58/100 stuks |
+| Gladiool | April tot en met September | 0,29/100 stuks |
+| Narcis | Vanaf december | 0,15 kg |
+| lelie | April tot en met September | 1,42/100 stuks |
 
 ##### Artikel 7
 
@@ -100,5 +74,3 @@ Indien op de factuur de behandelingskosten niet apart zijn vermeld, worden de vo
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit 2003/3 PT vakheffing bloembollen leverbaar 2003.
-
-Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

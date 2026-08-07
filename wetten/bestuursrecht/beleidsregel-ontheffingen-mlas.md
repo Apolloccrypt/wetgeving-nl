@@ -1,43 +1,18 @@
 ---
 title: "Beleidsregel ter uitvoering van artikel 3.21 van de Wet luchtvaart met betrekking tot MLA's (Beleidsregel ontheffingen MLA's)"
+citeertitel: "Beleidsregel ontheffingen MLA's"
 identifier: "BWBR0015236"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-07-03"
-last_updated: "2003-07-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015236"
+categorie: "Verkeer"
 soort: "beleidsregel"
-stam_id: "4981943"
-version_id: "8645922"
-internal_id: "C11195891"
-label_id: "4958714"
-dtd_version: "2.0"
-original_entry_into_force: "2003-07-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015236/2003-07-03/0"
-intitule_bron: "Stcrt.2003-123"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-06-16"
-intitule_published: "2003-07-01"
-intitule_in_force: "2003-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-123"
-original_signed_date: "2003-06-16"
-original_published_date: "2003-07-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-07-03"
-jci_1_3: "jci1.3:c:BWBR0015236&z=2003-07-03&g=2003-07-03"
-jci_1_0: "1.0:c:BWBR0015236&g=2003-07-03"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel ontheffingen MLA's"
-signed_date: "2003-06-16"
-entry_into_force: "2003-07-03"
+publicatiedatum: 2003-07-03
+laatste_update: 2003-07-03
+status: geldig
+toestand: 2003-07-03
+bron: "https://wetten.overheid.nl/BWBR0015236"
+opgehaald: 2026-08-07
 ---
+
 # Beleidsregel ter uitvoering van artikel 3.21 van de Wet luchtvaart met betrekking tot MLA's (Beleidsregel ontheffingen MLA's)
-
-Gelet op [artikel 3.21 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.21);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -72,5 +47,3 @@ Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekeni
 ##### Artikel 5
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel ontheffingen MLA's.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

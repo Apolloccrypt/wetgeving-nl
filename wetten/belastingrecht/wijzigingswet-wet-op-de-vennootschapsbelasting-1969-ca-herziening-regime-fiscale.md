@@ -1,60 +1,30 @@
 ---
 title: "Wet van 11 december 2002 tot wijziging van de Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid)"
+citeertitel: "Wijzigingswet Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid)"
 identifier: "BWBR0014441"
-country: "nl"
-rank: "wet"
-publication_date: "2003-01-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014441"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "3271033"
-version_id: "5049222"
-internal_id: "C5167811"
-label_id: "3251164"
-dtd_version: "2.0"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014441/2003-01-01/0"
-intitule_bron: "Stb.2002-618"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-11"
-intitule_published: "2002-12-19"
-intitule_in_force: "2002-12-19"
-intitule_status: "goed"
-original_publication: "Stb.2002-618"
-original_signed_date: "2002-12-11"
-original_published_date: "2002-12-19"
-original_effect: "nieuwe-regeling"
-original_dossier: "26854"
-original_url_id: "stb-2002-618"
-entry_into_force_date: "2003-01-01"
-entry_into_force_dossier: "26854"
-jci_1_3: "jci1.3:c:BWBR0014441&z=2003-01-01&g=2003-01-01"
-jci_1_0: "1.0:c:BWBR0014441&g=2003-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid)"
-signed_date: "2002-12-11"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2003-01-01
+status: geldig
+toestand: 2003-01-01
+bron: "https://wetten.overheid.nl/BWBR0014441"
+opgehaald: 2026-08-07
 ---
+
 # Wet van 11 december 2002 tot wijziging van de Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het regime van de fiscale eenheid in de Wet op de vennootschapsbelasting 1969 te herzien;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel III
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel IV
 
@@ -113,5 +83,3 @@ Wijzigt de Invorderingswet 1990.
 1. Onder toepassing van [artikel 16 van de Tijdelijke Referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking op 1 januari 2003 en vindt voor het eerst toepassing met betrekking tot de heffing over het boekjaar dat aanvangt op of na 1 januari 2003.
 
 2. [Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0014441&artikel=VI&z=2003-01-01&g=2003-01-01) werkt terug tot het eind van het laatste boekjaar waarin ten aanzien van het in dat artikel bedoelde lichaam [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) nog van toepassing is.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

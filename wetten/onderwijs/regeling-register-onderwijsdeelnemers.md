@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0043632"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 29 mei 2020, nr. WJZ/24493101, houdende nadere regels over de levering van gegevens aan het register onderwijsdeelnemers en de verstrekking van gegevens uit dat register (Regeling register onderwijsdeelnemers)

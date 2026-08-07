@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende regels ter zake van de aan ondernemers, die groenten en fruit naar Japan en Taiwan exporteren, op te leggen heffing voor het jaar 2004 (Verordening PT heffing export groenten en fruit Japan en Taiwan 2004)"
+citeertitel: "Verordening PT heffing export groenten en fruit Japan en Taiwan 2004"
 identifier: "BWBR0015320"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-12-25"
-last_updated: "2004-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015320"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6795983"
-version_id: "11665832"
-internal_id: "C29146411"
-label_id: "6784354"
-original_entry_into_force: "2004-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015320/2004-12-25/0"
-intitule_bron: "Vbbo.2004-73"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-07-01"
-intitule_published: "2004-12-24"
-intitule_in_force: "2004-12-24"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-73"
-original_signed_date: "2003-07-01"
-original_published_date: "2004-12-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-12-25"
-jci_1_3: "jci1.3:c:BWBR0015320&z=2004-12-25&g=2004-12-25"
-jci_1_0: "1.0:c:BWBR0015320&g=2004-12-25"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing export groenten en fruit Japan en Taiwan 2004"
-signed_date: "2003-07-01"
-entry_into_force: "2004-12-25"
+publicatiedatum: 2004-12-25
+laatste_update: 2004-12-25
+status: geldig
+toestand: 2004-12-25
+bron: "https://wetten.overheid.nl/BWBR0015320"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende regels ter zake van de aan ondernemers, die groenten en fruit naar Japan en Taiwan exporteren, op te leggen heffing voor het jaar 2004 (Verordening PT heffing export groenten en fruit Japan en Taiwan 2004)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=15) en [19 van het Instellingsbesluit Productschap Tuinbouw](onbekend);
-
-gehoord de Sectorcommissie voor groenten en fruit, d.d. 26 juni 2003;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -92,7 +64,7 @@ Besluit:
 
 ##### Artikel 5
 
-Indien een heffingsplichtige gegevens die hem krachtens deze verordening of de [Verordening PT algemene bepalingen](onbekend), ten behoeve van de onderhavige verordening zijn gevraagd niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met € 40,= in verband met administratiekosten.
+Indien een heffingsplichtige gegevens die hem krachtens deze verordening of de Verordening PT algemene bepalingen, ten behoeve van de onderhavige verordening zijn gevraagd niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met € 40,= in verband met administratiekosten.
 
 ##### Artikel 6
 
@@ -153,5 +125,3 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 ##### Artikel 14
 
 Deze verordening wordt aangehaald als: Verordening PT heffing export groenten en fruit Japan en Taiwan 2004.
-
-De verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

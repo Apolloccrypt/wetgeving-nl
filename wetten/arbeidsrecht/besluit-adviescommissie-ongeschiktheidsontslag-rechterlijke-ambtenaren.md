@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 6 oktober 2003, houdende regels met betrekking tot de adviescommissie voor ontslag van voor het leven benoemde rechterlijke ambtenaren vanwege ongeschiktheid tot het verrichten van hun taak, anders dan wegens ziekte (Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren)"
+citeertitel: "Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren"
 identifier: "BWBR0015695"
-country: "nl"
-rank: "amvb"
-publication_date: "2003-12-02"
-last_updated: "2003-12-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015695"
+categorie: "Staatsinrichting en bestuur"
 soort: "AMvB"
-stam_id: "5491943"
-version_id: "9880052"
-internal_id: "C13351811"
-label_id: "5466004"
-original_entry_into_force: "2003-12-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015695/2003-12-02/0"
-intitule_bron: "Stb.2003-477"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-10-06"
-intitule_published: "2003-12-01"
-intitule_in_force: "2003-12-01"
-intitule_status: "goed"
-original_publication: "Stb.2003-477"
-original_signed_date: "2003-10-06"
-original_published_date: "2003-12-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2003-477"
-entry_into_force_date: "2003-12-02"
-jci_1_3: "jci1.3:c:BWBR0015695&z=2003-12-02&g=2003-12-02"
-jci_1_0: "1.0:c:BWBR0015695&g=2003-12-02"
-citeertitel_status: "officieel"
-short_title: "Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren"
-signed_date: "2003-10-06"
-entry_into_force: "2003-12-02"
+publicatiedatum: 2003-12-02
+laatste_update: 2003-12-02
+status: geldig
+toestand: 2003-12-02
+bron: "https://wetten.overheid.nl/BWBR0015695"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 6 oktober 2003, houdende regels met betrekking tot de adviescommissie voor ontslag van voor het leven benoemde rechterlijke ambtenaren vanwege ongeschiktheid tot het verrichten van hun taak, anders dan wegens ziekte (Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren)
-
-Op de voordracht van Onze Minister van Justitie van 12 augustus 2003, 5233289/03/6;
-
-Gelet op [artikel 46l, derde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l);
-
-De Raad van State gehoord (advies van 17 september 2003, nr. W03.03.0346/I;
-
-Gezien het nader rapport van Onze Minister van Justitie van 25 september 2003, nr. 5246794/03/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -120,5 +89,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van het Staatsbl
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

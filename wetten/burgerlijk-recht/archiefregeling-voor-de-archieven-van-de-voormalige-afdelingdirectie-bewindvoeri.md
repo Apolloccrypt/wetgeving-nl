@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 1 september 2003, nr. IAZ2003/707M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Afdeling Bewindvoering (juni 1945) / Afdeling Juridische Zaken en Bewindvoering (juli 1945) / Directie Bewindvoering (1951 van de administratie) / Algemeen beheer der Generale Thesaurie (1940) 1945–1954 (1965) (Archiefregeling voor de archieven van de voormalige afdeling/directie Bewindvoering, afdeling Juridische Zaken en Bewindvoering van het Ministerie van Financiën)"
+citeertitel: "Archiefregeling voor de archieven van de voormalige afdeling/directie Bewindvoering, afdeling Juridische Zaken en Bewindvoering van het Ministerie van Financiën"
 identifier: "BWBR0015541"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-09-21"
-last_updated: "2003-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015541"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5307153"
-version_id: "9552602"
-internal_id: "C12852021"
-label_id: "5282424"
-original_entry_into_force: "2003-09-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015541/2003-09-21/0"
-intitule_bron: "Stcrt.2003-181"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-09-01"
-intitule_published: "2003-09-19"
-intitule_in_force: "2003-09-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-181"
-original_signed_date: "2003-09-01"
-original_published_date: "2003-09-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-09-21"
-jci_1_3: "jci1.3:c:BWBR0015541&z=2003-09-21&g=2003-09-21"
-jci_1_0: "1.0:c:BWBR0015541&g=2003-09-21"
-citeertitel_status: "officieel"
-short_title: "Archiefregeling voor de archieven van de voormalige afdeling/directie Bewindvoering, afdeling Juridische Zaken en Bewindvoering van het Ministerie van Financiën"
-signed_date: "2003-09-01"
-entry_into_force: "2003-09-21"
+publicatiedatum: 2003-09-21
+laatste_update: 2003-09-21
+status: geldig
+toestand: 2003-09-21
+bron: "https://wetten.overheid.nl/BWBR0015541"
+opgehaald: 2026-08-07
 ---
+
 # Regeling van de Minister van Financiën van 1 september 2003, nr. IAZ2003/707M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Afdeling Bewindvoering (juni 1945) / Afdeling Juridische Zaken en Bewindvoering (juli 1945) / Directie Bewindvoering (1951 van de administratie) / Algemeen beheer der Generale Thesaurie (1940) 1945–1954 (1965) (Archiefregeling voor de archieven van de voormalige afdeling/directie Bewindvoering, afdeling Juridische Zaken en Bewindvoering van het Ministerie van Financiën)
-
-Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Gelet op het advies van de directeur van het Nationaal Archief over de beperkingen voor de openbaarheid van archieven van 21 oktober 2002 met het kenmerk C/V/02/3485;
-
-Besluit:
 
 ##### Artikel 1
 

@@ -1,48 +1,24 @@
 ---
 title: "Regeling houdende vaststelling eisen theorie-examen rijbewijscategorie B (Regeling eisen theorie-examen rijbewijscategorie B)"
+citeertitel: "Regeling eisen theorie-examen rijbewijscategorie B"
 identifier: "BWBR0015601"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015601"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "5385433"
-version_id: "9678962"
-internal_id: "C13042171"
-label_id: "5360634"
-original_entry_into_force: "2003-09-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015601/2026-04-01/0"
-intitule_bron: "Stcrt.2003-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-09-22"
-intitule_published: "2003-09-29"
-intitule_in_force: "2003-09-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-187"
-original_signed_date: "2003-09-22"
-original_published_date: "2003-09-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-09-30"
-jci_1_3: "jci1.3:c:BWBR0015601&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0015601&g=2026-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling eisen theorie-examen rijbewijscategorie B"
-signed_date: "2003-09-22"
-entry_into_force: "2003-09-30"
+publicatiedatum: 2003-09-30
+laatste_update: 2026-04-01
+status: geldig
+toestand: 2026-04-01
+bron: "https://wetten.overheid.nl/BWBR0015601"
+opgehaald: 2026-08-07
 ---
+
 # Regeling houdende vaststelling eisen theorie-examen rijbewijscategorie B (Regeling eisen theorie-examen rijbewijscategorie B)
-
-Gelet op [richtlijn nr. 2000/56/EG](32000L0056) van de Commissie van de Europese Gemeenschappen van 14 september 2000 tot wijziging van [richtlijn nr. 91/439/EEG](31991L0439) van de Raad betreffende het rijbewijs (PbEG L 237) en [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111);
-
-Besluit:
 
 ##### Artikel 1
 
 De aanvrager van het theorie-examen moet blijk geven kennis en inzicht te bezitten van de hierna genoemde voorschriften, alsmede kennis en inzicht van die voorschriften voor zover deze gelden voor andere verkeersdeelnemers:
 
-- a. van de [Wegenverkeerswet 1994](onbekend): de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), [2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=12), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), [36, eerste, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), [40, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=81), [107, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107), [108, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=108), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=118), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123), [123b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123b), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=162), [163](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [164, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164), [174, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=174), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179) en [184](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=184);
+- a. van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622): de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), [2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=12), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), [36, eerste, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), [40, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=81), [107, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107), [108, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=108), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=118), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123), [123b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123b), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=162), [163](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [164, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164), [174, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=174), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179) en [184](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=184);
 
 - b. van het [Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825): de [artikelen 1 tot en met 98](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1) en de bij dat reglement behorende [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=2), alsmede de gebruikelijke, door de wegbeheerder geplaatste, aanduidingen ter geleiding van het verkeer of ter informatie van de weggebruikers;
 
@@ -103,5 +79,3 @@ Deze regeling treedt in werking met ingang van 30 september 2003.
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling eisen theorie-examen rijbewijscategorie B.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

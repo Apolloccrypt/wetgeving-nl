@@ -1,48 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het seizoen 2003/2004 (Verordening PT heffing export bloembollen naar Japan seizoen 2003/2004)"
+citeertitel: "Verordening PT heffing export bloembollen naar Japan seizoen 2003/2004"
 identifier: "BWBR0015306"
-country: "nl"
-rank: "pbo"
-publication_date: "2005-01-15"
-last_updated: "2005-01-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015306"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6791323"
-version_id: "11659452"
-internal_id: "C29143701"
-label_id: "6779694"
-original_entry_into_force: "2005-01-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015306/2005-01-15/0"
-intitule_bron: "Vbbo.2005-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-07-01"
-intitule_published: "2005-01-14"
-intitule_in_force: "2005-01-14"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-2"
-original_signed_date: "2003-07-01"
-original_published_date: "2005-01-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-01-15"
-jci_1_3: "jci1.3:c:BWBR0015306&z=2005-01-15&g=2005-01-15"
-jci_1_0: "1.0:c:BWBR0015306&g=2005-01-15"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing export bloembollen naar Japan seizoen 2003/2004"
-signed_date: "2003-07-01"
-entry_into_force: "2005-01-15"
+publicatiedatum: 2005-01-15
+laatste_update: 2005-01-15
+status: geldig
+toestand: 2005-01-15
+bron: "https://wetten.overheid.nl/BWBR0015306"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het seizoen 2003/2004 (Verordening PT heffing export bloembollen naar Japan seizoen 2003/2004)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=15) en [19 van het Instellingsbesluit Productschap Tuinbouw](onbekend);
-
-gehoord de Sectorcommissie voor bollen, knollen en wortelstokken van bloemgewassen, 24 juni 2003;
-
-Besluit:
-
-[...opmerking...]
 
 #### § 1. Begripsbepalingen
 
@@ -160,5 +130,3 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 ##### Artikel 14
 
 Deze verordening, wordt aangehaald als Verordening PT heffing export bloembollen naar Japan seizoen 2003/2004.
-
-Deze verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

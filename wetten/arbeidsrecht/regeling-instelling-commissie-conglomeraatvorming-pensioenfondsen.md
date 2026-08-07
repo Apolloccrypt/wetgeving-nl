@@ -1,44 +1,17 @@
 ---
 title: "Regeling instelling commissie conglomeraatvorming pensioenfondsen"
 identifier: "BWBR0014629"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-02-01"
-last_updated: "2003-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014629"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "4151383"
-version_id: "5904722"
-internal_id: "C6107551"
-label_id: "4130844"
-dtd_version: "2.0"
-original_entry_into_force: "2003-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014629/2003-02-01/0"
-intitule_bron: "Stcrt.2003-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-01-27"
-intitule_published: "2003-01-30"
-intitule_in_force: "2003-01-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-21"
-original_signed_date: "2003-01-27"
-original_published_date: "2003-01-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-02-01"
-jci_1_3: "jci1.3:c:BWBR0014629&z=2003-02-01&g=2003-02-01"
-jci_1_0: "1.0:c:BWBR0014629&g=2003-02-01"
-citeertitel_status: "officieel"
-signed_date: "2003-01-27"
-entry_into_force: "2003-02-01"
+publicatiedatum: 2003-02-01
+laatste_update: 2003-02-01
+status: geldig
+toestand: 2003-02-01
+bron: "https://wetten.overheid.nl/BWBR0014629"
+opgehaald: 2026-08-07
 ---
+
 # Regeling instelling commissie conglomeraatvorming pensioenfondsen
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -73,5 +46,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling instelling commissie conglomeraatvorming pensioenfondsen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

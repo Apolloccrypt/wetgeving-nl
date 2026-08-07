@@ -1,55 +1,27 @@
 ---
 title: "Instelling Commissie interdepartementaal Overleg inzake Zeegaande Vaartuigen"
 identifier: "BWBR0015054"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-12-03"
-last_updated: "2004-12-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015054"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4711613"
-version_id: "6528242"
-internal_id: "C6985481"
-label_id: "4689984"
-dtd_version: "2.0"
-original_entry_into_force: "2003-05-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015054/2004-12-03/0"
-intitule_bron: "Stcrt.2003-91"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-08"
-intitule_published: "2003-05-13"
-intitule_in_force: "2003-05-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-91"
-original_signed_date: "2003-05-08"
-original_published_date: "2003-05-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-091-p12-SC39915"
-entry_into_force_date: "2003-05-15"
-jci_1_3: "jci1.3:c:BWBR0015054&z=2004-12-03&g=2004-12-03"
-jci_1_0: "1.0:c:BWBR0015054&g=2004-12-03"
-citeertitel_status: "redactioneel"
-signed_date: "2003-05-08"
-entry_into_force: "2003-05-15"
+publicatiedatum: 2003-05-15
+laatste_update: 2004-12-03
+status: geldig
+toestand: 2004-12-03
+bron: "https://wetten.overheid.nl/BWBR0015054"
+opgehaald: 2026-08-07
 ---
+
 # Instelling Commissie interdepartementaal Overleg inzake Zeegaande Vaartuigen
-
-Gelet op [artikel 3 van het besluit van 11 oktober 1988 (Stb. 1988, 476), houdende een regeling betreffende coördinatie met betrekking tot civiele zeegaande vaartuigen van de rijksoverheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004413&artikel=3) danwel door deze gesubsidieerde stichtingen;
-
-In overeenstemming met de ministers van Binnenlandse Zaken en Koninkrijksrelaties, Defensie, Financiën, Landbouw, Natuurbeheer en Visserij, en van Onderwijs, Cultuur en Wetenschappen;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **Commissie:** de Commissie Interdepartementaal Overleg inzake Zeegaande Vaartuigen;
+- *Commissie:* de Commissie Interdepartementaal Overleg inzake Zeegaande Vaartuigen;
 
-- **Loket Vlootzaken:** het Loket Vlootzaken van Rijkswaterstaat Noordzee;
+- *Loket Vlootzaken:* het Loket Vlootzaken van Rijkswaterstaat Noordzee;
 
-- **Beheerder:** degene die is belast met het beheer over een civiel zeegaand rijksvaartuig.
+- *Beheerder:* degene die is belast met het beheer over een civiel zeegaand rijksvaartuig.
 
 ##### Artikel 2
 
@@ -79,9 +51,9 @@ In dit besluit wordt verstaan onder:
 
 - b. de geplande operationele inzet en ontwikkelingen vanuit:
 
-- -. het Nederlands Hydrografisch Instituut, als federatieve samenwerkingsorganisatie voor hydrografische activiteiten van een aantal rijksdiensten; en
+   - - het Nederlands Hydrografisch Instituut, als federatieve samenwerkingsorganisatie voor hydrografische activiteiten van een aantal rijksdiensten; en
 
-- -. de Kustwacht, als samenwerkingsorganisatie van een aantal operationele rijksdiensten.
+   - - de Kustwacht, als samenwerkingsorganisatie van een aantal operationele rijksdiensten.
 
 ##### Artikel 5
 
@@ -141,13 +113,13 @@ Het Loket Vlootzaken kan op verzoek van een in [artikel 3](https://wetten.overhe
 
 - b. adviseren met betrekking tot civiele zeegaande vaartuigen, ten aanzien van:
 
-- 1°. doelmatig gebruik;
+   - 1° doelmatig gebruik;
 
-- 2°. plannen en kostenramingen betreffende het jaarlijks onderhoud en belangrijke tussentijdse herstelwerkzaamheden;
+   - 2° plannen en kostenramingen betreffende het jaarlijks onderhoud en belangrijke tussentijdse herstelwerkzaamheden;
 
-- 3°. verbouwing van bestaande vaartuigen;
+   - 3° verbouwing van bestaande vaartuigen;
 
-- 4°. het rationaliseren van onderhoudsintervallen.
+   - 4° het rationaliseren van onderhoudsintervallen.
 
 ##### Artikel 13
 
@@ -164,5 +136,3 @@ De [Regeling van de Minister van Verkeer en Waterstaat van 19 mei 1992, nr. ICON
 ##### Artikel 16
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

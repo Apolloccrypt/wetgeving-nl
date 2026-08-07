@@ -1,40 +1,18 @@
 ---
 title: "Besluit van de Minister van Defensie, houdende instelling van de Marechausseemedaille (Instellingsbesluit Marechausseemedaille)"
+citeertitel: "Instellingsbesluit Marechausseemedaille"
 identifier: "BWBR0015940"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-12-31"
-last_updated: "2003-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015940"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5579383"
-version_id: "10023012"
-internal_id: "C13541021"
-label_id: "5550734"
-original_entry_into_force: "2003-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015940/2003-12-31/0"
-intitule_bron: "Stcrt.2003-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-11-22"
-intitule_published: "2003-12-29"
-intitule_in_force: "2003-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-250"
-original_signed_date: "2003-11-22"
-original_published_date: "2003-12-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-12-31"
-jci_1_3: "jci1.3:c:BWBR0015940&z=2003-12-31&g=2003-12-31"
-jci_1_0: "1.0:c:BWBR0015940&g=2003-12-31"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Marechausseemedaille"
-signed_date: "2003-11-22"
-entry_into_force: "2003-12-31"
+publicatiedatum: 2003-12-31
+laatste_update: 2003-12-31
+status: geldig
+toestand: 2003-12-31
+bron: "https://wetten.overheid.nl/BWBR0015940"
+opgehaald: 2026-08-07
 ---
-# Besluit van de Minister van Defensie, houdende instelling van de Marechausseemedaille (Instellingsbesluit Marechausseemedaille)
 
-Besluit:
+# Besluit van de Minister van Defensie, houdende instelling van de Marechausseemedaille (Instellingsbesluit Marechausseemedaille)
 
 ##### Artikel 1
 
@@ -54,9 +32,9 @@ Ingesteld wordt de Marechausseemedaille.
 
 - b. tenminste 48 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen, dienst heeft verricht bij een operationele eenheid van de Koninklijke Marechaussee in Nederland, en bovendien
 
-- 1°. tenminste 24 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen dienst heeft verricht in het buitenland bij een operationele eenheid of bij een in het buitenland gestationeerde internationale operationele eenheid of staf, of
+   - 1°. tenminste 24 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen dienst heeft verricht in het buitenland bij een operationele eenheid of bij een in het buitenland gestationeerde internationale operationele eenheid of staf, of
 
-- 2°. tenminste 6 maanden dienst heeft verricht bij een eenheid in de Nederlandse Antillen, het voormalig Nederlands Nieuw-Guinea of het voormalig Koninkrijksdeel Suriname, dan wel ten minste 6 maanden dienst heeft verricht bij een onderdeel van de Koninklijke Landmacht, Koninklijke Marine of van de Koninklijke Luchtmacht, dat in één van de hiervoor genoemde gebieden was ingezet;
+   - 2°. tenminste 6 maanden dienst heeft verricht bij een eenheid in de Nederlandse Antillen, het voormalig Nederlands Nieuw-Guinea of het voormalig Koninkrijksdeel Suriname, dan wel ten minste 6 maanden dienst heeft verricht bij een onderdeel van de Koninklijke Landmacht, Koninklijke Marine of van de Koninklijke Luchtmacht, dat in één van de hiervoor genoemde gebieden was ingezet;
 
 - c. tenminste 84 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen, dienst heeft verricht bij een operationele eenheid van de Koninklijke Marechaussee in Nederland; of
 
@@ -107,5 +85,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Marechausseemedaille.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

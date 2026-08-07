@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 1 september 2003, nr. IAZ2003/706M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Grootboek Wederopbouw en het Grootboek Rijn- en Binnenvloot 1940–1960 (–1983) (Archiefregeling voor de archieven van het Grootboek Wederopbouw en het Grootboek Rijn- en Binnenvloot ressorterend onder het Ministerie van Financiën)"
+citeertitel: "Archiefregeling voor de archieven van het Grootboek Wederopbouw en het Grootboek Rijn- en Binnenvloot ressorterend onder het Ministerie van Financiën"
 identifier: "BWBR0015538"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-09-21"
-last_updated: "2003-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015538"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5306533"
-version_id: "9551972"
-internal_id: "C12851381"
-label_id: "5281804"
-original_entry_into_force: "2003-09-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015538/2003-09-21/0"
-intitule_bron: "Stcrt.2003-181"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-09-01"
-intitule_published: "2003-09-19"
-intitule_in_force: "2003-09-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-181"
-original_signed_date: "2003-09-01"
-original_published_date: "2003-09-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-09-21"
-jci_1_3: "jci1.3:c:BWBR0015538&z=2003-09-21&g=2003-09-21"
-jci_1_0: "1.0:c:BWBR0015538&g=2003-09-21"
-citeertitel_status: "officieel"
-short_title: "Archiefregeling voor de archieven van het Grootboek Wederopbouw en het Grootboek Rijn- en Binnenvloot ressorterend onder het Ministerie van Financiën"
-signed_date: "2003-09-01"
-entry_into_force: "2003-09-21"
+publicatiedatum: 2003-09-21
+laatste_update: 2003-09-21
+status: geldig
+toestand: 2003-09-21
+bron: "https://wetten.overheid.nl/BWBR0015538"
+opgehaald: 2026-08-07
 ---
+
 # Regeling van de Minister van Financiën van 1 september 2003, nr. IAZ2003/706M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Grootboek Wederopbouw en het Grootboek Rijn- en Binnenvloot 1940–1960 (–1983) (Archiefregeling voor de archieven van het Grootboek Wederopbouw en het Grootboek Rijn- en Binnenvloot ressorterend onder het Ministerie van Financiën)
-
-Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Gelet op het advies van de directeur van het Nationaal Archief over de beperkingen voor de openbaarheid van archieven van 21 oktober 2002 met het kenmerk C/V/02/3485;
-
-Besluit:
 
 ##### Artikel 1
 

@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0043695"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 18 juni 2020, nr. WJZ/24563641, houdende de invoering van een hardheidsclausule, alsmede wijziging van verschillende subsidieregelingen in verband met de uitbraak van COVID-19 (Verzamelregeling subsidies OCW COVID-19)

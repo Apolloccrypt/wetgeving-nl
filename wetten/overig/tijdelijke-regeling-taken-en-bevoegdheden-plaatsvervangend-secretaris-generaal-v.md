@@ -1,45 +1,17 @@
 ---
 title: "Tijdelijke regeling taken en bevoegdheden plaatsvervangend secretaris-generaal VROM ten behoeve van het reorganisatietraject ZEUS"
 identifier: "BWBR0015697"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-12-01"
-last_updated: "2003-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015697"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5455213"
-version_id: "9831632"
-internal_id: "C13288961"
-label_id: "5429734"
-original_entry_into_force: "2003-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015697/2003-12-01/0"
-intitule_bron: "Stcrt.2003-210"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-10-07"
-intitule_published: "2003-10-30"
-intitule_in_force: "2003-10-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-210"
-original_signed_date: "2003-10-07"
-original_published_date: "2003-10-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-12-01"
-jci_1_3: "jci1.3:c:BWBR0015697&z=2003-12-01&g=2003-12-01"
-jci_1_0: "1.0:c:BWBR0015697&g=2003-12-01"
-citeertitel_status: "redactioneel"
-signed_date: "2003-10-07"
-entry_into_force: "2003-12-01"
+publicatiedatum: 2003-12-01
+laatste_update: 2003-12-01
+status: geldig
+toestand: 2003-12-01
+bron: "https://wetten.overheid.nl/BWBR0015697"
+opgehaald: 2026-08-07
 ---
+
 # Tijdelijke regeling taken en bevoegdheden plaatsvervangend secretaris-generaal VROM ten behoeve van het reorganisatietraject ZEUS
-
-Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Gelet op de [Regeling Taken en Bevoegdheden VROM 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013199);
-
-Gelet op het overleg met de Groepsondernemingsraad van 2 oktober 2003;
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -104,5 +76,3 @@ de plaatsvervangend secretaris generaal’
 voor deze:
 
 de plaatsvervangend secretaris-generaal
-
-Deze regeling zal met de daarbij behorende toelichting worden geplaatst in de Staatscourant.

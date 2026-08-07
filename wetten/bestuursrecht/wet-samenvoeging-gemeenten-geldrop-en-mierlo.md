@@ -1,47 +1,18 @@
 ---
 title: "Wet van 19 juni 2003 tot samenvoeging van de gemeenten Geldrop en Mierlo"
+citeertitel: "Wet samenvoeging gemeenten Geldrop en Mierlo"
 identifier: "BWBR0015254"
-country: "nl"
-rank: "wet"
-publication_date: "2003-09-01"
-last_updated: "2003-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015254"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "5037943"
-version_id: "8716002"
-internal_id: "C11307371"
-label_id: "5014214"
-dtd_version: "2.0"
-original_entry_into_force: "2003-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015254/2003-09-01/0"
-intitule_bron: "Stb.2003-303"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-06-19"
-intitule_published: "2003-07-24"
-intitule_in_force: "2003-07-24"
-intitule_status: "goed"
-original_publication: "Stb.2003-303"
-original_signed_date: "2003-06-19"
-original_published_date: "2003-07-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "28840"
-original_url_id: "stb-2003-303"
-entry_into_force_date: "2003-09-01"
-jci_1_3: "jci1.3:c:BWBR0015254&z=2003-09-01&g=2003-09-01"
-jci_1_0: "1.0:c:BWBR0015254&g=2003-09-01"
-citeertitel_status: "redactioneel"
-short_title: "Wet samenvoeging gemeenten Geldrop en Mierlo"
-signed_date: "2003-06-19"
-entry_into_force: "2003-09-01"
+publicatiedatum: 2003-09-01
+laatste_update: 2003-09-01
+status: geldig
+toestand: 2003-09-01
+bron: "https://wetten.overheid.nl/BWBR0015254"
+opgehaald: 2026-08-07
 ---
+
 # Wet van 19 juni 2003 tot samenvoeging van de gemeenten Geldrop en Mierlo
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Geldrop en Mierlo samen te voegen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. Opheffingen instelling van gemeenten
 
@@ -99,11 +70,11 @@ Voor de op te heffen gemeenten Geldrop en Mierlo wordt de nieuwe gemeente Geldro
 
 ##### Artikel 8
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 9
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 10
 
@@ -111,12 +82,8 @@ Gedeputeerde staten van Noord-Brabant kunnen bij de vaststelling van de grensbes
 
 ##### Artikel 11
 
-Wijzigt de Wet van 30 december 1938 tot vereeniging van de gemeenten Lith, Lithoijen en Oijen c.a. (Stb. 1938, 306).
+*Wijzigt de Wet van 30 december 1938 tot vereeniging van de gemeenten Lith, Lithoijen en Oijen c.a. (Stb. 1938, 306).*
 
 ##### Artikel 12
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-## Kaart genoemd in de wet tot samenvoeging van de gemeenten Geldrop en Mierlo
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,41 +1,17 @@
 ---
 title: "Uitvoeringsregeling Opiumwet"
 identifier: "BWBR0014569"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014569"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5717213"
-version_id: "10217812"
-internal_id: "C13798511"
-label_id: "5697464"
-original_entry_into_force: "2003-03-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014569/2026-04-01/0"
-intitule_bron: "Stcrt.2003-6"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-01-07"
-intitule_published: "2003-01-09"
-intitule_in_force: "2003-03-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-6"
-original_signed_date: "2003-01-07"
-original_published_date: "2003-01-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-03-17"
-jci_1_3: "jci1.3:c:BWBR0014569&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0014569&g=2026-04-01"
-citeertitel_status: "officieel"
-signed_date: "2003-01-07"
-entry_into_force: "2003-03-17"
+publicatiedatum: 2003-03-17
+laatste_update: 2026-04-01
+status: geldig
+toestand: 2026-04-01
+bron: "https://wetten.overheid.nl/BWBR0014569"
+opgehaald: 2026-08-07
 ---
+
 # Uitvoeringsregeling Opiumwet
-
-Gelet op de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4), en [7 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=7);
-
-Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -43,11 +19,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941);
+- a. *wet:* de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941);
 
-- b. **opiumwetmiddel:** een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) of [lijst II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II);
+- b. *opiumwetmiddel:* een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) of [lijst II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II);
 
-- c. **ontheffing:** een ontheffing als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6).
+- c. *ontheffing:* een ontheffing als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6).
 
 #### Paragraaf 2. Vergoedingen
 
@@ -55,13 +31,11 @@ In deze regeling wordt verstaan onder:
 
 1. De vergoeding voor de behandeling van een aanvraag voor een ontheffing van een verbod als bedoeld in:
 
-- a. de [artikelen 2, aanhef en onder B, C of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), [2a, eerste lid, aanhef en onder B, C of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2a), en [3, aanhef en onder B, C of D, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bedraagt € 1.000;
+- a. de [artikelen 2, aanhef en onder B, C of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), [2a, eerste lid, aanhef en onder B, C of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2a), en [3, aanhef en onder B, C of D, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bedraagt € 1.000;
 
 - b. de [artikelen 2, aanhef en onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), [2a, eerste lid, aanhef en onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2a), en [3, aanhef en onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bedraagt € 100.
 
 2. De jaarlijkse vergoeding voor een ontheffing van een verbod als bedoeld in de [artikelen 2, aanhef en onder, B, C, of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), [2a, eerste lid, aanhef en onder B, C of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2a), en [3, aanhef en onder B, C, of D, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bedraagt € 700.
-
-3.
 
 Het eerste lid, aanhef en onder a, is van overeenkomstige toepassing op een aanvraag voor verlenging met vijf jaren van een ontheffing van een verbod als bedoel in die bepaling.
 

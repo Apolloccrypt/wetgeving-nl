@@ -1,37 +1,17 @@
 ---
 title: "Aanmelding staatsexamen Nederlands als tweede taal (NT2)"
+citeertitel: "Aanmelding staatsexamen Nederlands als tweede taal (NT2) examens 2003 en 2004"
 identifier: "BWBR0014605"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-02-05"
-last_updated: "2003-02-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014605"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6494873"
-version_id: "11175412"
-internal_id: "C15100081"
-label_id: "6483444"
-original_entry_into_force: "2003-02-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014605/2003-02-05/0"
-intitule_bron: "Uitleg.2003-2/3"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-01-17"
-intitule_published: "2003-02-05"
-intitule_in_force: "2003-02-05"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-2/3"
-original_signed_date: "2003-01-17"
-original_published_date: "2003-02-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-02-05"
-jci_1_3: "jci1.3:c:BWBR0014605&z=2003-02-05&g=2003-02-05"
-jci_1_0: "1.0:c:BWBR0014605&g=2003-02-05"
-citeertitel_status: "redactioneel"
-short_title: "Aanmelding staatsexamen Nederlands als tweede taal (NT2) examens 2003 en 2004"
-signed_date: "2003-01-17"
-entry_into_force: "2003-02-05"
+publicatiedatum: 2003-02-05
+laatste_update: 2003-02-05
+status: geldig
+toestand: 2003-02-05
+bron: "https://wetten.overheid.nl/BWBR0014605"
+opgehaald: 2026-08-07
 ---
+
 # Aanmelding staatsexamen Nederlands als tweede taal (NT2)
 
 Het staatsexamen Nederlands als tweede taal kent twee programma’s: Programma I en Programma II. Elk programma bestaat uit vier onderdelen; lezen, luisteren, spreken en schrijven.
@@ -52,4 +32,16 @@ De datum waarop de staatsexamencommissie de uitslagen vaststelt, is per examen v
 
 ### Programma I
 
+| Examen: | Aanmelden voor: | Vaststelling uitslag: |
+| --- | --- | --- |
+| 30 en 31 januari 2004 | 14 november 2003 | 15 maart 2004 |
+| 28 en 29 mei 2004 | 26 maart 2004 | 12 juli 2004 |
+| 24 en 25 september 2004 | 23 juli 2004 | 8 november 2004 |
+
 ### Programma II
+
+| Examen: | Aanmelden voor: | Vaststelling uitslag: |
+| --- | --- | --- |
+| 31 oktober en 1 november 2003 | 29 augustus 2003 | 15 december 2003 |
+| 5 en 6 maart 2004 | 2 januari 2004 | 21 april 2004 |
+| 2 en 3 juli 2004 | 30 april 2004 | 16 augustus 2004 |

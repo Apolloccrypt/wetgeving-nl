@@ -1,42 +1,17 @@
 ---
 title: "Beleidsregels verlenging loondoorbetaling poortwachter"
 identifier: "BWBR0014800"
-country: "nl"
-rank: "zbo"
-publication_date: "2005-12-21"
-last_updated: "2005-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014800"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6053743"
-version_id: "12601522"
-internal_id: "C16941361"
-label_id: "6043004"
-original_entry_into_force: "2005-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014800/2005-12-21/0"
-intitule_bron: "Stcrt.2003-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-03-12"
-intitule_published: "2003-03-18"
-intitule_in_force: "2003-03-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-246"
-original_signed_date: "2005-12-13"
-original_published_date: "2005-12-19"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2005-246-p94-SC72844"
-entry_into_force_date: "2005-12-13"
-jci_1_3: "jci1.3:c:BWBR0014800&z=2005-12-21&g=2005-12-21"
-jci_1_0: "1.0:c:BWBR0014800&g=2005-12-21"
-citeertitel_status: "redactioneel"
-signed_date: "2005-12-13"
-entry_into_force: "2005-12-13"
+publicatiedatum: 2005-12-13
+laatste_update: 2005-12-21
+status: geldig
+toestand: 2005-12-21
+bron: "https://wetten.overheid.nl/BWBR0014800"
+opgehaald: 2026-08-07
 ---
+
 # Beleidsregels verlenging loondoorbetaling poortwachter
-
-Gelet op de artikelen 34a, eerste lid, 71a, negende lid, en 71b, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering en de Regeling procesgang eerste ziektejaar;
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -59,6 +34,10 @@ In dit besluit wordt verstaan onder:
 - h. looninhouding: het niet betalen van het loon, bedoeld in [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), wegens een omstandigheid genoemd in het derde lid van dat artikel;
 
 - i. loondoorbetalingsperiode: het tijdvak waarin de werknemer ingevolge [artikel 71a, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) jegens de werkgever recht op loon heeft op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), dan wel aanspraak op bezoldiging op grond van [artikel XV, tweede lid, van de Wet terugdringing ziekteverzuim](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&artikel=XV).
+
+##### Artikel 1a. Grondslag
+
+Dit besluit berust mede op [artikel 123b, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=123b).
 
 ##### Artikel 2. Eigen risico dragen Ziektewet
 
@@ -141,11 +120,3 @@ Deze beleidsregels zijn van overeenkomstige toepassing op de eigenrisicodrager, 
 ##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de publicatie van de Staatscourant waarin het is geplaatst.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
-
-##### Artikel 1a. Grondslag
-
-Dit besluit berust mede op [artikel 123b, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=123b).
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

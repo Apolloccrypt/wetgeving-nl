@@ -1,51 +1,18 @@
 ---
 title: "Besluit van 19 november 2003, houdende bepalingen omtrent de tarieven voor consulaire dienstverrichting en tot inwerkingtreding van de Rijkswet op de consulaire tarieven (Rijksbesluit op de consulaire tarieven)"
+citeertitel: "Rijksbesluit op de consulaire tarieven"
 identifier: "BWBR0015918"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015918"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijksKB"
-stam_id: "5535053"
-version_id: "9931402"
-internal_id: "C13410021"
-label_id: "5507234"
-original_entry_into_force: "2004-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015918/2010-10-10/0"
-intitule_bron: "Stb.2003-507"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-11-19"
-intitule_published: "2003-12-16"
-intitule_in_force: "2003-12-16"
-intitule_status: "goed"
-original_publication: "Stb.2003-507"
-original_signed_date: "2003-11-19"
-original_published_date: "2003-12-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2003-507"
-entry_into_force_date: "2004-01-01"
-jci_1_3: "jci1.3:c:BWBR0015918&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0015918&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijksbesluit op de consulaire tarieven"
-signed_date: "2003-11-19"
-entry_into_force: "2004-01-01"
+publicatiedatum: 2004-01-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0015918"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 19 november 2003, houdende bepalingen omtrent de tarieven voor consulaire dienstverrichting en tot inwerkingtreding van de Rijkswet op de consulaire tarieven (Rijksbesluit op de consulaire tarieven)
-
-Op de voordracht van Onze Minister van Buitenlandse Zaken van 8 september 2003, nr. DJZ/BR-0910/2003;
-
-Gelet op [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=2), [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=6), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=8) en [artikel 11 van de Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=11), [artikel 7, eerste lid, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=7) en artikel 2 van de Wet van 9 mei 1890 tot nadere regeling van de heffing en bestemming der Kanselarijleges;
-
-De Raad van State van het Koninkrijk gehoord (advies van 16 oktober 2003, nr. W02.03.0380/II/K);
-
-Gezien het nader rapport van Onze Minister van Buitenlandse Zaken van 10 november 2003, nr. DJZ/BR-909/2003;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -119,7 +86,7 @@ De krachtens dit besluit vastgestelde vergoeding is niet verschuldigd voor het b
 
 ##### Artikel 5
 
-Wijzigt het Besluit paspoortgelden.
+*Wijzigt het Besluit paspoortgelden.*
 
 ##### Artikel 6
 
@@ -132,5 +99,3 @@ De [Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Rijksbesluit op de consulaire tarieven.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.

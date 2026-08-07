@@ -1,47 +1,18 @@
 ---
 title: "Wet van 8 mei 2003, houdende regels over de documentatie van vennootschappen (Wet documentatie vennootschappen)"
+citeertitel: "Wet controle op rechtspersonen"
 identifier: "BWBR0015049"
-country: "nl"
-rank: "wet"
-publication_date: "2018-09-19"
-last_updated: "2018-09-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015049"
+categorie: "Overig"
 soort: "wet"
-stam_id: "3946243"
-version_id: "5709362"
-internal_id: "C15009551"
-label_id: "3926274"
-dtd_version: "2.0"
-original_entry_into_force: "2005-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015049/2018-09-19/0"
-intitule_bron: "Stb.2003-203"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-08"
-intitule_published: "2003-05-20"
-intitule_in_force: "2004-12-14"
-intitule_status: "goed"
-original_publication: "Stb.2003-203"
-original_signed_date: "2003-05-08"
-original_published_date: "2003-05-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "28217"
-original_url_id: "stb-2003-203"
-entry_into_force_date: "2005-01-01"
-jci_1_3: "jci1.3:c:BWBR0015049&z=2018-09-19&g=2018-09-19"
-jci_1_0: "1.0:c:BWBR0015049&g=2018-09-19"
-citeertitel_status: "officieel"
-short_title: "Wet controle op rechtspersonen"
-signed_date: "2003-05-08"
-entry_into_force: "2005-01-01"
+publicatiedatum: 2005-01-01
+laatste_update: 2018-09-19
+status: geldig
+toestand: 2018-09-19
+bron: "https://wetten.overheid.nl/BWBR0015049"
+opgehaald: 2026-08-07
 ---
+
 # Wet van 8 mei 2003, houdende regels over de documentatie van vennootschappen (Wet documentatie vennootschappen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de documentatie van gegevens over vennootschappen te regelen ten behoeve van de afgifte van verklaringen van geen bezwaar door de Minister van Justitie op grond van [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045), alsmede het gebruik van bedoelde gegevens ten behoeve van de voorkoming en bestrijding van het misbruik van vennootschappen, waaronder het plegen van misdrijven en overtredingen van financieel-economische aard door of door middel van vennootschappen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -59,9 +30,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. rechtspersoon:
 
-- 1°. naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie, onderlinge waarborgmaatschappij, vereniging met volledige rechtsbevoegdheid, stichting, Europese naamloze vennootschap, Europese coöperatieve vennootschap, Europees economisch samenwerkingsverband, die de statutaire zetel in Nederland heeft; en
+   - 1°. naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie, onderlinge waarborgmaatschappij, vereniging met volledige rechtsbevoegdheid, stichting, Europese naamloze vennootschap, Europese coöperatieve vennootschap, Europees economisch samenwerkingsverband, die de statutaire zetel in Nederland heeft; en
 
-- 2°. onderneming die toebehoort aan een buitenlandse rechtspersoon die een hoofd- of nevenvestiging in Nederland heeft als bedoeld in [artikel 5, onderdeel d, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5);
+   - 2°. onderneming die toebehoort aan een buitenlandse rechtspersoon die een hoofd- of nevenvestiging in Nederland heeft als bedoeld in [artikel 5, onderdeel d, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5);
 
 - f. vaste gebruiker: de instantie of persoon met een publiekrechtelijke taak die is aangewezen conform [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=6&z=2018-09-19&g=2018-09-19).
 
@@ -72,6 +43,12 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 2. Onze Minister verwerkt gegevens in de registratie met het oog op het in het eerste lid genoemde doel.
 
 3. De gegevens, bedoeld in het tweede lid, kunnen worden gebruikt voor het doen van een risicomelding over een rechtspersoon.
+
+##### Artikel 2a
+
+1. Het Uitvoeringsinstituut werknemersverzekeringen en de rijksbelastingdienst verstrekken op zijn verzoek aan Onze Minister de gegevens die deze behoeft ter uitvoering van de taak, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2018-09-19&g=2018-09-19).
+
+2. De gegevensverstrekking ingevolge het eerste lid geschiedt kosteloos.
 
 #### Paragraaf 2. Bronnen van de registratie
 
@@ -199,11 +176,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 10
 
-Wijzigt Boek 2 van het Burgerlijk Wetboek.
+*Wijzigt Boek 2 van het Burgerlijk Wetboek.*
 
 ##### Artikel 11
 
-Wijzigt de Wet politieregisters.
+*Wijzigt de Wet politieregisters.*
 
 #### Paragraaf 7. Slotbepalingen
 
@@ -222,25 +199,3 @@ Deze wet wordt aangehaald als: Wet controle op rechtspersonen.
 ##### Artikel 15
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a
-
-1. Het Uitvoeringsinstituut werknemersverzekeringen en de rijksbelastingdienst verstrekken op zijn verzoek aan Onze Minister de gegevens die deze behoeft ter uitvoering van de taak, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2018-09-19&g=2018-09-19).
-
-2. De gegevensverstrekking ingevolge het eerste lid geschiedt kosteloos.
-
-#### Paragraaf 2. Bronnen van de registratie
-
-#### Paragraaf 3. De inhoud van de registratie
-
-#### Paragraaf 4. Het verstrekken van gegevens uit de registratie
-
-#### Paragraaf 5. Het verwijderen van gegevens uit de registratie
-
-#### Paragraaf 6. Wijzigingen in andere regelingen
-
-#### Paragraaf 7. Slotbepalingen
-
-Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

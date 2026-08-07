@@ -1,43 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Verkeer en Waterstaat inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van vergunningen personenvervoer (Beleidsregel toetsing vergunningen personenvervoer aan de Wet Bibob)"
+citeertitel: "Beleidsregel toetsing vergunningen personenvervoer aan de Wet Bibob"
 identifier: "BWBR0015123"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-05-29"
-last_updated: "2003-05-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015123"
+categorie: "Bestuursrecht"
 soort: "beleidsregel"
-stam_id: "6233373"
-version_id: "10906592"
-internal_id: "C14779191"
-label_id: "6222684"
-original_entry_into_force: "2003-05-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015123/2003-05-29/0"
-intitule_bron: "Stcrt.2003-101"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-26"
-intitule_published: "2003-05-27"
-intitule_in_force: "2003-05-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-101"
-original_signed_date: "2003-05-26"
-original_published_date: "2003-05-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-101-p16-SC40106"
-entry_into_force_date: "2003-05-29"
-jci_1_3: "jci1.3:c:BWBR0015123&z=2003-05-29&g=2003-05-29"
-jci_1_0: "1.0:c:BWBR0015123&g=2003-05-29"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel toetsing vergunningen personenvervoer aan de Wet Bibob"
-signed_date: "2003-05-26"
-entry_into_force: "2003-05-29"
+publicatiedatum: 2003-05-29
+laatste_update: 2003-05-29
+status: geldig
+toestand: 2003-05-29
+bron: "https://wetten.overheid.nl/BWBR0015123"
+opgehaald: 2026-08-07
 ---
+
 # Beleidsregel van de Minister van Verkeer en Waterstaat inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van vergunningen personenvervoer (Beleidsregel toetsing vergunningen personenvervoer aan de Wet Bibob)
-
-gelet op de [artikelen 3, eerste en zesde lid van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), en de [artikelen 6, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=6) en [99, eerste lid, onder c, en tweede lid van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=99);
-
-Besluit:
 
 ### Hoofdstuk 1. Definities en toepassing
 
@@ -45,19 +20,19 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **Bureau Bibob**: Bureau, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8) en [9, eerste lid, van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9);
+- a. *Bureau Bibob*: Bureau, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8) en [9, eerste lid, van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9);
 
-- b. **Minister**: Minister van Verkeer en Waterstaat;
+- b. *Minister*: Minister van Verkeer en Waterstaat;
 
-- c. **Wet Bibob**: [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
+- c. *Wet Bibob*: [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
 
-- d. **Besluit Bibob**: [Besluit bevordering integriteitsbeoordelingen door het openbaar bestuur](onbekend);
+- d. *Besluit Bibob*: Besluit bevordering integriteitsbeoordelingen door het openbaar bestuur;
 
-- e. **misdrijf**: strafbare feiten als bedoeld in het [Tweede Boek van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede) en [artikel 2, eerste, tweede, derde lid en vijfde lid, van de Wet economische delicten](onbekend);
+- e. *misdrijf*: strafbare feiten als bedoeld in het [Tweede Boek van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede) en artikel 2, eerste, tweede, derde lid en vijfde lid, van de Wet economische delicten;
 
-- f. **strafbaar feit**: feit dat aanleiding kan zijn tot strafvervolging en is bedreigd met een strafrechtelijke sanctie;
+- f. *strafbaar feit*: feit dat aanleiding kan zijn tot strafvervolging en is bedreigd met een strafrechtelijke sanctie;
 
-- g. **vergunning**: vergunning voor het verrichten van besloten busvervoer, taxivervoer, openbaar vervoer per trein en openbaar vervoer anders dan per trein als bedoeld in [artikel 4, eerste, tweede en vierde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=4).
+- g. *vergunning*: vergunning voor het verrichten van besloten busvervoer, taxivervoer, openbaar vervoer per trein en openbaar vervoer anders dan per trein als bedoeld in [artikel 4, eerste, tweede en vierde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=4).
 
 ##### Artikel 1.2
 
@@ -532,5 +507,3 @@ Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekeni
 ##### Artikel 6.2
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel toetsing vergunningen personenvervoer aan de [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798).
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,53 +1,51 @@
 ---
 title: "Wijziging van de wet- en regelgeving in verband met leerwerktrajecten in de basisberoepsgerichte leerweg van het voorbereidend middelbaar beroepsonderwijs (vmbo)"
 identifier: "BWBR0015568"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-09-24"
-last_updated: "2003-09-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015568"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6505113"
-version_id: "11192962"
-internal_id: "C15122181"
-label_id: "6493644"
-original_entry_into_force: "2003-09-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015568/2003-09-24/0"
-intitule_bron: "Uitleg.2003-20/21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-09-11"
-intitule_published: "2003-09-24"
-intitule_in_force: "2003-09-24"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-20/21"
-original_signed_date: "2003-09-11"
-original_published_date: "2003-09-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-09-24"
-jci_1_3: "jci1.3:c:BWBR0015568&z=2003-09-24&g=2003-09-24"
-jci_1_0: "1.0:c:BWBR0015568&g=2003-09-24"
-citeertitel_status: "redactioneel"
-signed_date: "2003-09-11"
-entry_into_force: "2003-09-24"
+publicatiedatum: 2003-09-24
+laatste_update: 2003-09-24
+status: geldig
+toestand: 2003-09-24
+bron: "https://wetten.overheid.nl/BWBR0015568"
+opgehaald: 2026-08-07
 ---
+
 # Wijziging van de wet- en regelgeving in verband met leerwerktrajecten in de basisberoepsgerichte leerweg van het voorbereidend middelbaar beroepsonderwijs (vmbo)
 
 ### Algemeen
 
-In het vmbo zijn in 2001 leerwerktrajecten gestart voor leerlingen in de basisberoepsgerichte leerweg. Deze leerlingen zijn gebaat bij een combinatie van leren in de praktijk en leren op school. De wijze waarop leerwerktrajecten konden worden ingericht volgens de Regeling leerwerktrajecten basisberoepsgerichte leerweg vmbo is goed bevallen en is nu in de [Wet op het voortgezet onderwijs](onbekend) geregeld.
+In het vmbo zijn in 2001 leerwerktrajecten gestart voor leerlingen in de basisberoepsgerichte leerweg. Deze leerlingen zijn gebaat bij een combinatie van leren in de praktijk en leren op school. De wijze waarop leerwerktrajecten konden worden ingericht volgens de Regeling leerwerktrajecten basisberoepsgerichte leerweg vmbo is goed bevallen en is nu in de Wet op het voortgezet onderwijs geregeld.
 
 ### Wetsvoorstel
 
 Wetsvoorstel Wijziging van de Wet op het voortgezet onderwijs en de Wet educatie en beroepsonderwijs in verband met leerwerktrajecten in de basisberoepsgerichte leerweg van het vmbo (Kamerstuk nr. 28 444)
 
-Dit wetsvoorstel is door de Tweede en Eerste Kamer aanvaard. De [wetswijziging](onbekend) is gepubliceerd in Staatsblad 292 en is per 15 augustus 2003 in werking getreden (Staatsblad318), een en ander in aansluiting op de Regeling leerwerktrajecten basisberoepsgerichte leerweg vmbo.
+Dit wetsvoorstel is door de Tweede en Eerste Kamer aanvaard. De wetswijziging is gepubliceerd in Staatsblad 292 en is per 15 augustus 2003 in werking getreden (Staatsblad318), een en ander in aansluiting op de Regeling leerwerktrajecten basisberoepsgerichte leerweg vmbo.
 
 De nieuwe wet regelt in hoofdzaak:
+
+- a. de mogelijkheid om als variant binnen de basisberoepsgerichte leerweg in het vmbo leerwerktrajecten in te richten: combinaties van binnenschools onderricht en buitenschoolse praktijk;
+
+- b. de basisinrichting van leerwerktrajecten (vakken en uren praktijkgedeelte);
+
+- c. inschakeling van bedrijven en organisaties voor het verzorgen van het praktijkgedeelte en regels voor (de beoordeling van) hun kwaliteit;
+
+- d. een leerwerkovereenkomst;
+
+- e. een samenwerkingsovereeenkomst tussen de school voor VO en een ROC of (mbo afdeling van een) AOC die het aansluitende beroepsonderwijs verzorgt, met het doel om te komen tot een doorlopende leerweg voor de individuele leerling.
 
 Er is met het oog op de examens in 2004 een wijziging van het Eindexamenbesluit v.w.o.-h.a.v.o-m.a.v.o.-v.b.o. in voorbereiding, waarin de uitslagregeling met betrekking tot leerwerktrajecten is opgenomen. Hierin wordt aangegeven dat de minimaal verplichte vakken Nederlandse taal en het beroepsgerichte programma met een voldoende moeten worden afgesloten.
 
 Ten opzichte van het oorspronkelijk aan de Tweede Kamer voorgelegde wetsvoorstel vertoont de defnitieve wet de volgende verschillen:
+
+- de meldingsplicht voor het bevoegd gezag aan B en W van de gemeente (RMC) van leerlingen in leerwerktrajecten is vervallen;
+
+- de structurele uitzonderingsmogelijkheid voor het bevoegd gezag om vooruitlopend op de goedkeuring van een bedrijf door een landelijk orgaan leerlingen in een leerwerktraject te plaatsen in een nog niet door dat orgaan gecertificeerd bedrijf is vervallen. Wel is een tijdelijke overgangsregeling voor twee jaar opgenomen die voor deze periode de inschakeling van nog niet erkende leerbedrijven mogelijk maakt;
+
+- bij de invulling van het buitenschoolse praktijkgedeelte waarborgt het bevoegd gezag dat niet uitsluitend eenzijdige productiearbeid wordt verricht;
+
+- in het derde en vierde schooljaar omvat elke schoolweek tenminste binnenschools onderricht, zodat als sprake is van buitenschools onderricht in de praktijk altijd ook een binnenschoolse component is gewaarborgd. Dit komt in de plaats van het oorspronkelijk voorgestelde vereiste dat elke schoolweek in het derde en vierde schooljaar zowel binnenschools onderricht als buitenschools onderricht in de praktijk zou moeten omvatten.
 
 Het doel van leerwerktrajecten is om door maatwerk en een substantieel praktijkgedeelte tegemoet te komen aan de individuele behoeften en leerstijlen van leerlingen die ieder hun eigen leerroute moeten kunnen volgen. Aan leerlingen kan de minimumvariant van leerwerktrajecten worden aangeboden, maar ook andere varianten, tot aan een volledig eindexamenpakket voor de basisberoepsgerichte leerweg. De leerling die een leerwerktraject met succes afsluit, ontvangt een diploma basisberoepsgerichte leerweg/leerwerktraject met cijferlijst.
 

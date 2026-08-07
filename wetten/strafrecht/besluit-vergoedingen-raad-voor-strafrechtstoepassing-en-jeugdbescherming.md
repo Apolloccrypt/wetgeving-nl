@@ -1,76 +1,44 @@
 ---
 title: "Besluit van 4 april 2003, houdende de vaststelling van de vergoedingen van de leden van de Raad voor strafrechtstoepassing en jeugdbescherming (Tijdelijk besluit vergoedingen Raad voor strafrechtstoepassing en jeugdbescherming)"
+citeertitel: "Besluit vergoedingen Raad voor strafrechtstoepassing en jeugdbescherming"
 identifier: "BWBR0014919"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014919"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "3455313"
-version_id: "16431662"
-internal_id: "C32202501"
-label_id: "3435394"
-dtd_version: "2.0"
-original_entry_into_force: "2009-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014919/2021-01-01/0"
-intitule_bron: "Stb.2003-146"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-04-04"
-intitule_published: "2003-04-15"
-intitule_in_force: "2003-04-15"
-intitule_status: "goed"
-original_publication: "Stb.2009-228"
-original_signed_date: "2009-05-26"
-original_published_date: "2009-06-04"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2009-228"
-entry_into_force_date: "2009-08-01"
-jci_1_3: "jci1.3:c:BWBR0014919&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0014919&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit vergoedingen Raad voor strafrechtstoepassing en jeugdbescherming"
-signed_date: "2009-05-26"
-entry_into_force: "2009-08-01"
+publicatiedatum: 2009-08-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0014919"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 4 april 2003, houdende de vaststelling van de vergoedingen van de leden van de Raad voor strafrechtstoepassing en jeugdbescherming (Tijdelijk besluit vergoedingen Raad voor strafrechtstoepassing en jeugdbescherming)
-
-Op de voordracht van Onze Minister van Justitie van 27 november 2002, directie Wetgeving, nr. 5198842/02/6;
-
-Gelet op [artikel 7 van de Tijdelijke instellingswet Raad voor strafrechtstoepassing en jeugdbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=7);
-
-De Raad van State gehoord (advies van 20 december 2002, no. W03.02.0542/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 14 maart 2003, directie Wetgeving, nr. 5210116/03/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **Raad:** de Raad voor strafrechtstoepassing en jeugdbescherming;
+- a. *Raad:* de Raad voor strafrechtstoepassing en jeugdbescherming;
 
-- b. **wet:** de[Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036510);
+- b. *wet:* de[Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036510);
 
-- c. **ondervoorzitter:** de ondervoorzitter, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=4);
+- c. *ondervoorzitter:* de ondervoorzitter, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=4);
 
-- d. **leden:** de leden,bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=4);
+- d. *leden:* de leden,bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=4);
 
-- e. **buitengewone leden:** de buitengewone leden, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=4);
+- e. *buitengewone leden:* de buitengewone leden, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=4);
 
-- f. **voorzitter van de Raad:** de voorzitter van de Raad, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=4);
+- f. *voorzitter van de Raad:* de voorzitter van de Raad, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=4);
 
-- g. **voorzitter van de Afdeling rechtspraak:** de voorzitter van de Afdeling rechtspraak, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=27);
+- g. *voorzitter van de Afdeling rechtspraak:* de voorzitter van de Afdeling rechtspraak, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=27);
 
-- h. **beroepscommissie:** commissie aan wie de rechtsprekende taak van de Raad is opgedragen;
+- h. *beroepscommissie:* commissie aan wie de rechtsprekende taak van de Raad is opgedragen;
 
-- i. **vergadering:** een bijeenkomst van leden of buitengewone leden van de Afdeling rechtspraak ten behoeve van werkzaamheden in het kader van de taakuitoefening door de Raad, op uitnodiging van of namens de voorzitter van de Afdeling rechtspraak;
+- i. *vergadering:* een bijeenkomst van leden of buitengewone leden van de Afdeling rechtspraak ten behoeve van werkzaamheden in het kader van de taakuitoefening door de Raad, op uitnodiging van of namens de voorzitter van de Afdeling rechtspraak;
 
-- j. **arbeidsduur:** een arbeidsduur welke gemiddeld zesendertig werkuren per week omvat;
+- j. *arbeidsduur:* een arbeidsduur welke gemiddeld zesendertig werkuren per week omvat;
 
-- k. **arbeidsduurfactor:** de breuk, waarvan de teller bestaat uit de voor het lid vastgestelde arbeidsduur en de noemer bestaat uit het getal 36.
+- k. *arbeidsduurfactor:* de breuk, waarvan de teller bestaat uit de voor het lid vastgestelde arbeidsduur en de noemer bestaat uit het getal 36.
 
 2. Dit besluit berust op [artikel 8 van de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&artikel=8).
 
@@ -100,11 +68,11 @@ De vergoeding voor de leden die niet op basis van [artikel 2](https://wetten.ove
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -116,16 +84,12 @@ De leden en de buitengewone leden hebben recht op vergoeding wegens reis- en ver
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2003.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit vergoedingen Raad voor strafrechtstoepassing en jeugdbescherming.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

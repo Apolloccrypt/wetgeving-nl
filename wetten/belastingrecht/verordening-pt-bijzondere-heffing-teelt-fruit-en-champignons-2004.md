@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2004 (Verordening PT bijzondere heffing teelt fruit en champignons 2004)"
+citeertitel: "Verordening PT bijzondere heffing teelt fruit en champignons 2004"
 identifier: "BWBR0015318"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-12-04"
-last_updated: "2004-12-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015318"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6736093"
-version_id: "11591572"
-internal_id: "C29135611"
-label_id: "6724534"
-original_entry_into_force: "2004-12-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015318/2004-12-04/0"
-intitule_bron: "Vbbo.2004-70"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-07-01"
-intitule_published: "2004-12-03"
-intitule_in_force: "2004-12-03"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-70"
-original_signed_date: "2003-07-01"
-original_published_date: "2004-12-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-12-04"
-jci_1_3: "jci1.3:c:BWBR0015318&z=2004-12-04&g=2004-12-04"
-jci_1_0: "1.0:c:BWBR0015318&g=2004-12-04"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing teelt fruit en champignons 2004"
-signed_date: "2003-07-01"
-entry_into_force: "2004-12-04"
+publicatiedatum: 2004-12-04
+laatste_update: 2004-12-04
+status: geldig
+toestand: 2004-12-04
+bron: "https://wetten.overheid.nl/BWBR0015318"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2004 (Verordening PT bijzondere heffing teelt fruit en champignons 2004)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=15) en [19 van het Instellingsbesluit Productschap Tuinbouw](onbekend);
-
-gehoord de Sectorcommissie voor groenten en fruit, d.d. 26 juni 2003;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -57,7 +29,7 @@ BESLUIT:
 | d. | de onderneming: | onderneming waarvoor het productschap is ingesteld; |
 | e. | de ondernemer: | de natuurlijke of rechtspersoon die de onderneming drijft; |
 | f. | het braakland: | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld, alsmede niet beteelde gronden, waarop in juli of augustus in enig oogstjaar aardbeien zullen worden geplant en waarvan in het daaropvolgende jaar zal worden geoogst; |
-| g. | de cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015318&paragraaf=3&artikel=4&z=2004-12-04&g=2004-12-04) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de [Regeling Landbouwtelling](onbekend), nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| g. | de cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in artikel 4 genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | h. | de teelt onder glas: | iedere andere teelt dan die in de open grond; |
 | i. | de gemeten maat: | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | j. | de contractteelt: | de teelt van gewassen of producten ingevolge een overeenkomst; |
@@ -69,7 +41,7 @@ BESLUIT:
 
 1. De ondernemer die in het jaar 2004 een onderneming drijft waarin fruit of champignons worden geteeld is aan het productschap een heffing verschuldigd.
 
-2. De berekening van de heffing als bedoeld in het eerste lid, vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de [Verordening PT registratie en verstrekking van gegevens 1997](onbekend), verstrekte gegevens.
+2. De berekening van de heffing als bedoeld in het eerste lid, vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de Verordening PT registratie en verstrekking van gegevens 1997, verstrekte gegevens.
 
 3. De heffing als bedoeld in het eerste lid, is aan het productschap verschuldigd over het kalenderjaar 2004, ten behoeve van afzetbevordering, onderzoek en milieuprojecten.
 
@@ -118,7 +90,7 @@ De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, ee
 
 ##### Artikel 6
 
-Indien een heffingsplichtige gegevens, die hem krachtens deze verordening of de [Verordening PT registratie en verstrekking van gegevens 1997](onbekend), ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, welke heffing in dat geval verhoogd wordt met € 40,= administratiekosten.
+Indien een heffingsplichtige gegevens, die hem krachtens deze verordening of de Verordening PT registratie en verstrekking van gegevens 1997, ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, welke heffing in dat geval verhoogd wordt met € 40,= administratiekosten.
 
 ##### Artikel 7
 

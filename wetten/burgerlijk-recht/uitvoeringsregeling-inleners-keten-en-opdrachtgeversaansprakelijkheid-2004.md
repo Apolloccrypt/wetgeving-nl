@@ -1,74 +1,48 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Financiën van 15 december 2003, nr. SV/F&W/03/95330 tot vaststelling van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004"
+citeertitel: "Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004"
 identifier: "BWBR0016131"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016131"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "5572343"
-version_id: "29139052"
-internal_id: "C41408771"
-label_id: "5543824"
-dtd_version: "2.0"
-original_entry_into_force: "2022-12-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016131/2024-01-01/0"
-intitule_bron: "Stcrt.2003-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-12-15"
-intitule_published: "2003-12-24"
-intitule_in_force: "2003-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-33377"
-original_signed_date: "2022-12-02"
-original_published_date: "2022-12-27"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-33377"
-entry_into_force_date: "2022-12-02"
-jci_1_3: "jci1.3:c:BWBR0016131&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0016131&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004"
-signed_date: "2022-12-02"
-entry_into_force: "2022-12-02"
+publicatiedatum: 2022-12-02
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0016131"
+opgehaald: 2026-08-07
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Financiën van 15 december 2003, nr. SV/F&W/03/95330 tot vaststelling van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004
-
-Gelet op de [artikelen 16a, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16a), [16b, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16b), en [16bb, eerste lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16bb) en de [artikelen 34, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), [35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), [35a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a), en [35b van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35b);
-
-Besluiten:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **Invorderingswet**: de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770);
+- a. *Invorderingswet*: de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770);
 
-- b. **uitlener**: een inhoudingsplichtige of werkgever als bedoeld in [artikel 34, eerste lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34) ;
+- b. *uitlener*: een inhoudingsplichtige of werkgever als bedoeld in [artikel 34, eerste lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34) ;
 
-- c. **inlener**: een inlener als bedoeld in [artikel 34, eerste en tweede lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34);
+- c. *inlener*: een inlener als bedoeld in [artikel 34, eerste en tweede lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34);
 
-- d. **confectie-aannemer**: een aannemer als bedoeld in [artikel 35a, eerste lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a);
+- d. *confectie-aannemer*: een aannemer als bedoeld in [artikel 35a, eerste lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a);
 
-- e. **aannemer**: een aannemer als bedoeld in [artikel 35, eerste lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) die zijn bedrijf niet maakt van het vervaardigen of laten vervaardigen van kleding, andere dan schoeisel;
+- e. *aannemer*: een aannemer als bedoeld in [artikel 35, eerste lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) die zijn bedrijf niet maakt van het vervaardigen of laten vervaardigen van kleding, andere dan schoeisel;
 
-- f. **opdrachtgever**: een opdrachtgever als bedoeld in [artikel 35a, tweede lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) en de daarmee op grond van de [artikel 35a, derde lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) gelijk te stellen bedrijfsmatig handelende koper van nog geheel of gedeeltelijk te vervaardigen kleding, andere dan schoeisel;
+- f. *opdrachtgever*: een opdrachtgever als bedoeld in [artikel 35a, tweede lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) en de daarmee op grond van de [artikel 35a, derde lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) gelijk te stellen bedrijfsmatig handelende koper van nog geheel of gedeeltelijk te vervaardigen kleding, andere dan schoeisel;
 
-- g. **bank**: een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mag uitoefenen;
+- g. *bank*: een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mag uitoefenen;
 
-- h. **ontvanger**: de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2);
+- h. *ontvanger*: de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2);
 
-- i. **loonbelasting**: de loonbelasting en de premies voor de sociale verzekeringen die gelijktijdig worden geheven met de loonbelasting, een en ander voorzover verband houdend met de terbeschikkingstelling van arbeidskrachten of met het uitvoeren van een werk als bedoeld in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) en [35a van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a);
+- i. *loonbelasting*: de loonbelasting en de premies voor de sociale verzekeringen die gelijktijdig worden geheven met de loonbelasting, een en ander voorzover verband houdend met de terbeschikkingstelling van arbeidskrachten of met het uitvoeren van een werk als bedoeld in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) en [35a van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a);
 
-- j. **omzetbelasting**: de omzetbelasting met betrekking tot de terbeschikkingstelling van arbeidskrachten;
+- j. *omzetbelasting*: de omzetbelasting met betrekking tot de terbeschikkingstelling van arbeidskrachten;
 
-- k. **g-rekening**: een geblokkeerde rekening, zijnde een rekening als bedoeld in de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), en [35, vijfde lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), welke door een uitlener, een onderaannemer of een confectie-aannemer, bij een bank wordt gehouden en waarvan de saldi uitsluitend bestemd zijn voor betaling van door de uitlener, onderaannemer of die confectie-aannemer verschuldigde loonbelasting en omzetbelasting, in verband waarmee op die saldi ten behoeve van de ontvanger een pandrecht is gevestigd;
+- k. *g-rekening*: een geblokkeerde rekening, zijnde een rekening als bedoeld in de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), en [35, vijfde lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), welke door een uitlener, een onderaannemer of een confectie-aannemer, bij een bank wordt gehouden en waarvan de saldi uitsluitend bestemd zijn voor betaling van door de uitlener, onderaannemer of die confectie-aannemer verschuldigde loonbelasting en omzetbelasting, in verband waarmee op die saldi ten behoeve van de ontvanger een pandrecht is gevestigd;
 
-- l. **rekeninghouder**: de houder van een g-rekening;
+- l. *rekeninghouder*: de houder van een g-rekening;
 
-- m. **g-rekeningovereenkomst**: een conform de bijlage bij deze regeling gesloten overeenkomst met betrekking tot het openen en gebruiken van een g-rekening en het vestigen van een pandrecht op die rekening als bedoeld in onderdeel k;
+- m. *g-rekeningovereenkomst*: een conform de [bijlage](https://wetten.overheid.nl/BWBR0016131) bij deze regeling gesloten overeenkomst met betrekking tot het openen en gebruiken van een g-rekening en het vestigen van een pandrecht op die rekening als bedoeld in onderdeel k;
 
 ##### Artikel 2. Voorwaarden medewerking totstandkoming g-rekeningovereenkomst
 
@@ -104,27 +78,45 @@ De ontvanger weigert zijn hun medewerking te verlenen aan het tot stand komen va
 
 Het door partijen getekende exemplaar van de g-rekeningovereenkomst wordt door de bank bewaard zolang de g-rekening in stand blijft, doch in ieder geval gedurende zeven jaren. De bank verschaft de andere partijen een kopie daarvan. Met betrekking tot de eerste zin is [artikel 52, vijfde en zesde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52) van overeenkomstige toepassing.
 
+##### Artikel 5a. Rapportage g-rekeningen
+
+1. De bank informeert de ontvanger over alle transacties op de g-rekeningen die bij hem worden gehouden. De bank vermeldt per transactie in ieder geval de volgende gegevens:
+
+- a. het nummer van de g-rekening;
+
+- b. het afgeschreven of bijgeschreven bedrag;
+
+- c. de omschrijving van de transactie;
+
+- d. de naam van de houder van de tegenrekening;
+
+- e. het betalingskenmerk en de datum van de af- of bijschrijving.
+
+2. De gegevens, bedoeld in het eerste lid, worden verstrekt binnen twee werkdagen nadat de bank de transactie heeft geboekt op de g-rekening.
+
+3. Bij iedere rapportage van de gegevens, bedoeld in het eerste lid, vermeldt de bank het beginsaldo van de g-rekening en het eindsaldo van de g-rekening na de verwerking van de in die rapportage opgenomen transacties.
+
 ##### Artikel 6. Vereisten vrijwarende betaling op de g-rekening
 
 1. Een betaling die wordt verricht op een g-rekening wordt voor de toepassing van de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), en [35, vijfde lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) in aanmerking genomen indien:
 
 - a. de factuur welke de uitlener, de onderaannemer of de confectie-aannemer ter zake van de door hem aan de inlener, aannemer of opdrachtgever geleverde prestatie of prestaties heeft doen toekomen, voldoet aan de eisen, voorzover toepasselijk, die [artikel 35a van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=35a) daaraan stelt alsmede de vermelding bevat van:
 
-- 1°. het nummer of het kenmerk, voorzover aanwezig, van de overeenkomst ingevolge welke de uitlener, de onderaannemer of de confectie-aannemer de gefactureerde prestatie of prestaties heeft verricht;
+   - 1°. het nummer of het kenmerk, voorzover aanwezig, van de overeenkomst ingevolge welke de uitlener, de onderaannemer of de confectie-aannemer de gefactureerde prestatie of prestaties heeft verricht;
 
-- 2°. het tijdvak of de tijdvakken waarin die prestatie of prestaties zijn verricht; en
+   - 2°. het tijdvak of de tijdvakken waarin die prestatie of prestaties zijn verricht; en
 
-- 3°. de benaming(en) of kenmerk(en) van het werk, waarop de betaling betrekking heeft;
+   - 3°. de benaming(en) of kenmerk(en) van het werk, waarop de betaling betrekking heeft;
 
 - b. die betaling vergezeld gaat van de vermelding van het nummer van de factuur en voorzover toepasselijk tevens van een ander onderscheidend op die factuur vermeld kenmerk, waarbij het nummer van de factuur of dit nummer tezamen met een aanvullend kenmerk een uniek identificatiegegeven vormt waarmee die factuur terstond of vrijwel terstond kan worden teruggevonden in de administratie van de inlener, aannemer of opdrachtgever;
 
 - c. de administratie van de inlener, aannemer of opdrachtgever zodanig is ingericht en zodanig wordt gevoerd dat daarin terstond of vrijwel terstond kan worden teruggevonden:
 
-- 1°. de overeenkomst of de inhoud daarvan, ingevolge welke de uitlener, de onderaannemer of de confectie-aannemer de in onderdeel a bedoelde prestatie of prestaties heeft verricht;
+   - 1°. de overeenkomst of de inhoud daarvan, ingevolge welke de uitlener, de onderaannemer of de confectie-aannemer de in onderdeel a bedoelde prestatie of prestaties heeft verricht;
 
-- 2°. de gegevens inzake de nakoming van die overeenkomst met inbegrip van, naar de eisen van hun bedrijf, een registratie van de personen die zijn ingeleend of werk in (onder)aanneming hebben verricht en van de dagen waarop en de uren gedurende welke die personen werkzaamheden hebben verricht in verband waarmee voor de inlener en aannemer aansprakelijkheid bestaat ingevolge [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34) onderscheidenlijk [artikel 35 van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35); en
+   - 2°. de gegevens inzake de nakoming van die overeenkomst met inbegrip van, naar de eisen van hun bedrijf, een registratie van de personen die zijn ingeleend of werk in (onder)aanneming hebben verricht en van de dagen waarop en de uren gedurende welke die personen werkzaamheden hebben verricht in verband waarmee voor de inlener en aannemer aansprakelijkheid bestaat ingevolge [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34) onderscheidenlijk [artikel 35 van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35); en
 
-- 3°. de betalingen die in verband met de vorenbedoelde overeenkomst zijn gedaan.
+   - 3°. de betalingen die in verband met de vorenbedoelde overeenkomst zijn gedaan.
 
 2. In afwijking van het eerste lid, onderdeel a, kan de vermelding op de factuur van het tijdvak of de tijdvakken waarin de gefactureerde prestaties of prestaties zijn verricht achterwege blijven indien de factuur de vermelding bevat van de datum waarop de order tot het geheel of gedeeltelijk vervaardigen van kleding, andere dan schoeisel, is verstrekt en van de datum waarop die kleding is of zal worden afgenomen.
 
@@ -182,13 +174,17 @@ Aansprakelijkstelling vindt plaats voor ten hoogste het verschil tussen het geza
 
 1. De Uitvoeringsregeling ketenaansprakelijkheid premie werknemersverzekeringen en de Uitvoeringsregeling inlenersaansprakelijkheid worden ingetrokken.
 
-2. Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
+2. *Wijzigt de Uitvoeringsregeling Invorderingswet 1990.*
 
 ##### Artikel 13. Overgangsbepaling
 
 1. Overeenkomsten die voldoen aan de voorschriften van de regelingen en artikelen, die op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=12&z=2024-01-01&g=2024-01-01) zijn ingetrokken, onderscheidenlijk vervallen, worden aangemerkt als g-rekeningovereenkomsten.
 
-2. Overeenkomsten die zijn opgesteld conform de bijlage bij deze regeling zoals deze luidde vóór 1 januari 2023 worden aangemerkt als g-rekeningovereenkomsten indien zij voor 1 januari 2023 zijn aangevraagd en voor 1 april 2023 zijn afgesloten.
+2. Overeenkomsten die zijn opgesteld conform de bijlage bij deze regeling zoals deze luidde vóór 1 januari 2023 worden aangemerkt als g-rekeningovereenkomsten indien zij voor 1 januari 2023 zijn aangevraagd en voor 1 april 2023 zijn afgesloten.
+
+##### Artikel 13a. Verwerken g-rekeningovereenkomsten
+
+De bank mag bij g-rekeningovereenkomsten als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=13&z=2024-01-01&g=2024-01-01), het daarin opgenomen loonheffingennummer en omzetbelastingnummer waarin het burgerservicenummer is verwerkt alleen verwerken ter uitvoering en archivering van die overeenkomsten.
 
 ##### Artikel 14. Inwerkingtreding
 
@@ -197,67 +193,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2004.
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004.
-
-## Bijlage
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### g-rekeningovereenkomst
-
-De ondergetekenden:
-
-De ondergetekenden:
-
-De ondergetekenden:
-
-Overwegende:
-
-Zijn overeengekomen als volgt:
-
-Aldus overeengekomen en getekend
-
-te .......... op ..........
-
-De rekeninghouder,
-
-De ontvanger,
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a. Rapportage g-rekeningen
-
-1. De bank informeert de ontvanger over alle transacties op de g-rekeningen die bij hem worden gehouden. De bank vermeldt per transactie in ieder geval de volgende gegevens:
-
-- a. het nummer van de g-rekening;
-
-- b. het afgeschreven of bijgeschreven bedrag;
-
-- c. de omschrijving van de transactie;
-
-- d. de naam van de houder van de tegenrekening;
-
-- e. het betalingskenmerk en de datum van de af- of bijschrijving.
-
-2. De gegevens, bedoeld in het eerste lid, worden verstrekt binnen twee werkdagen nadat de bank de transactie heeft geboekt op de g-rekening.
-
-3. Bij iedere rapportage van de gegevens, bedoeld in het eerste lid, vermeldt de bank het beginsaldo van de g-rekening en het eindsaldo van de g-rekening na de verwerking van de in die rapportage opgenomen transacties.
-
-## Bijlage
-
-### g-rekeningovereenkomst
-
-voor deze:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 13a. Verwerken g-rekeningovereenkomsten
-
-De bank mag bij g-rekeningovereenkomsten als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=13&z=2024-01-01&g=2024-01-01), het daarin opgenomen loonheffingennummer en omzetbelastingnummer waarin het burgerservicenummer is verwerkt alleen verwerken ter uitvoering en archivering van die overeenkomsten.
-
-## Bijlage
-
-### g-rekeningovereenkomst
-
-De bank,
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

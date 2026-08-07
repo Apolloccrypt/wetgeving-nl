@@ -8,7 +8,7 @@ laatste_update: 2026-07-29
 status: geldig
 toestand: 2026-07-29
 bron: "https://wetten.overheid.nl/BWBR0051449"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Organisatiebesluit BZK 2025

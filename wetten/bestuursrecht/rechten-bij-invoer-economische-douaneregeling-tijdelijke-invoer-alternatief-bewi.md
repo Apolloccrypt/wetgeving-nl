@@ -1,40 +1,17 @@
 ---
 title: "Rechten bij invoer, economische douaneregeling tijdelijke invoer; alternatief bewijs wederuitvoer"
 identifier: "BWBR0015411"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-07-29"
-last_updated: "2003-07-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015411"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8485973"
-version_id: "13373542"
-internal_id: "C18465721"
-label_id: "8466394"
-dtd_version: "2.0"
-original_entry_into_force: "2003-07-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015411/2003-07-29/0"
-intitule_bron: "Infob.2004-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-07-29"
-intitule_published: "2004-01-01"
-intitule_in_force: "2004-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2004-1"
-original_signed_date: "2003-07-29"
-original_published_date: "2004-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-07-29"
-jci_1_3: "jci1.3:c:BWBR0015411&z=2003-07-29&g=2003-07-29"
-jci_1_0: "1.0:c:BWBR0015411&g=2003-07-29"
-citeertitel_status: "redactioneel"
-signed_date: "2003-07-29"
-entry_into_force: "2003-07-29"
+publicatiedatum: 2003-07-29
+laatste_update: 2003-07-29
+status: geldig
+toestand: 2003-07-29
+bron: "https://wetten.overheid.nl/BWBR0015411"
+opgehaald: 2026-08-07
 ---
-# Rechten bij invoer, economische douaneregeling tijdelijke invoer; alternatief bewijs wederuitvoer
 
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Rechten bij invoer, economische douaneregeling tijdelijke invoer; alternatief bewijs wederuitvoer
 
 Aan mij is de vraag voorgelegd over alternatief bewijs voor de wederuitvoer bij de economische douaneregeling tijdelijke invoer. De vraag en het antwoord zijn hierna opgenomen.
 
@@ -44,4 +21,30 @@ De economische douaneregeling tijdelijke invoer wordt beëindigd als aan de invo
 
 Wederuitvoer is een nieuw toegestane douanebestemming. Deze bestemming wordt aangetoond met exemplaar nummer 3 voor de afzender/exporteur van het formulier Enig document EX 3. Dit exemplaar wordt echter niet altijd overgelegd.
 
+- 1. Kan een ander bewijs worden gebruikt voor het aantonen van de bestemming wederuitvoer bij de economische douaneregeling tijdelijke invoer als exemplaar nummer 3 van het formulier Enig document niet wordt overgelegd?
+
+- 2. Als vraag 1 met ja wordt beantwoord, welke andere bewijzen kunnen worden gebruikt voor het aantonen van de bestemming wederuitvoer?
+
 ### Antwoord
+
+- 1. Ja, als exemplaar nummer 3 van het formulier Enig document niet wordt overgelegd kunnen andere bewijzen voor het aantonen van de bestemming wederuitvoer bij de economische douaneregeling tijdelijke invoer worden gebruikt.
+
+- 2. De volgende andere bewijzen moeten voor het aantonen van de bestemming wederuitvoer worden gebruikt:
+
+   - A
+
+      - – het origineel of een voor eensluidend gewaarmerkte kopie van de aangifte ten wederuitvoer van de invoergoederen uit het douanegebied van de Gemeenschap, en
+
+      - – een verklaring van het douanekantoor waarlangs de invoergoederen het douanegebied van de Gemeenschap daadwerkelijk hebben verlaten. Ingeval een dergelijke verklaring niet kan worden overgelegd, kan als bewijs van uitgang uit het douanegebied van de Gemeenschap worden gebruikt:
+
+      - – hetzij een verklaring van het douanekantoor dat de aankomst van de invoergoederen in het derde land van bestemming heeft vastgesteld;
+
+      - – hetzij het origineel of een voor eensluidend gewaarmerkte kopie van de douaneaangifte van de invoergoederen in het derde land van bestemming. en
+
+   - B
+
+      - De administratieve documenten en de handelsbescheiden aan de hand waarvan kan worden nagegaan of de invoergoederen die uit het douanegebied van Gemeenschap zijn wederuitgevoerd, dezelfde zijn als die welke voor de douaneregeling tijdelijke invoer werden aangegeven, te weten:
+
+      - – het origineel of een voor eensluidend gewaarmerkte kopie van de aangifte voor de genoemde regeling, en
+
+      - – voor zover noodzakelijk, administratieve bescheiden (zoals handelscontracten, handelsfacturen, vervoersbescheiden, gezondsheidscertificaten, kwaliteitscertificaten), die waren gevoegd bij enerzijds de aangifte van de genoemde regeling en anderzijds de aangifte ten wederuitvoer uit het douanegebied van de Gemeenschap of de douaneaangifte in het derde land van bestemming.

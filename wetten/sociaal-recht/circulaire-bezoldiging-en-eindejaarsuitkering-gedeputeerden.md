@@ -1,37 +1,16 @@
 ---
 title: "Circulaire bezoldiging en eindejaarsuitkering gedeputeerden"
 identifier: "BWBR0014366"
-country: "nl"
-rank: "circulaire"
-publication_date: "2002-12-11"
-last_updated: "2002-12-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014366"
+categorie: "Sociaal recht"
 soort: "circulaire"
-stam_id: "6388853"
-version_id: "11049332"
-internal_id: "C14952081"
-label_id: "6377684"
-original_entry_into_force: "2002-12-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014366/2002-12-11/0"
-intitule_bron: "Stcrt.2002-239"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-02"
-intitule_published: "2002-12-11"
-intitule_in_force: "2002-12-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2002-239"
-original_signed_date: "2002-12-02"
-original_published_date: "2002-12-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2002-239-p10-SC37489"
-entry_into_force_date: "2002-12-11"
-jci_1_3: "jci1.3:c:BWBR0014366&z=2002-12-11&g=2002-12-11"
-jci_1_0: "1.0:c:BWBR0014366&g=2002-12-11"
-citeertitel_status: "redactioneel"
-signed_date: "2002-12-02"
-entry_into_force: "2002-12-11"
+publicatiedatum: 2002-12-11
+laatste_update: 2002-12-11
+status: geldig
+toestand: 2002-12-11
+bron: "https://wetten.overheid.nl/BWBR0014366"
+opgehaald: 2026-08-07
 ---
+
 # Circulaire bezoldiging en eindejaarsuitkering gedeputeerden
 
 ### 1. Structurele verhoging van de bezoldiging
@@ -54,7 +33,7 @@ De beide structurele salarisverhogingen werken door naar reeds ingegane APPA-uit
 
 ### 2. Eindejaarsuitkering
 
-Op grond van [artikel 4, eerste lid, van het Rechtspositiebesluit gedeputeerden](onbekend) ontvangt de gedeputeerde een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het personeel in de sector Rijk zijn vastgesteld.
+Op grond van artikel 4, eerste lid, van het Rechtspositiebesluit gedeputeerden ontvangt de gedeputeerde een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het personeel in de sector Rijk zijn vastgesteld.
 
 De eindejaarsuitkering is structureel vastgesteld op 0,4%.
 

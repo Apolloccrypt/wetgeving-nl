@@ -1,47 +1,18 @@
 ---
 title: "Rijkswet van 8 mei 2003, houdende regeling van cassatie in Antilliaanse en Arubaanse uitleveringszaken (Cassatieregeling in uitleveringszaken voor de Nederlandse Antillen en Aruba)"
+citeertitel: "Rijkswet cassatierechtspraak in uitleveringszaken voor Aruba, Curaçao en Sint Maarten"
 identifier: "BWBR0015050"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2020-04-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015050"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "3946003"
-version_id: "5709082"
-internal_id: "C13339531"
-label_id: "3925994"
-dtd_version: "2.0"
-original_entry_into_force: "2004-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015050/2020-04-01/0"
-intitule_bron: "Stb.2003-204"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-08"
-intitule_published: "2003-05-20"
-intitule_in_force: "2003-12-01"
-intitule_status: "goed"
-original_publication: "Stb.2003-204"
-original_signed_date: "2003-05-08"
-original_published_date: "2003-05-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "27797"
-original_url_id: "stb-2003-204"
-entry_into_force_date: "2004-01-01"
-jci_1_3: "jci1.3:c:BWBR0015050&z=2020-04-01&g=2020-04-01"
-jci_1_0: "1.0:c:BWBR0015050&g=2020-04-01"
-citeertitel_status: "officieel"
-short_title: "Rijkswet cassatierechtspraak in uitleveringszaken voor Aruba, Curaçao en Sint Maarten"
-signed_date: "2003-05-08"
-entry_into_force: "2004-01-01"
+publicatiedatum: 2004-01-01
+laatste_update: 2020-04-01
+status: geldig
+toestand: 2020-04-01
+bron: "https://wetten.overheid.nl/BWBR0015050"
+opgehaald: 2026-08-07
 ---
+
 # Rijkswet van 8 mei 2003, houdende regeling van cassatie in Antilliaanse en Arubaanse uitleveringszaken (Cassatieregeling in uitleveringszaken voor de Nederlandse Antillen en Aruba)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=3) en [23 van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=23) een regeling te geven tot invoering van het rechtsmiddel van cassatie door de Hoge Raad der Nederlanden ten aanzien van einduitspraken omtrent de toelaatbaarheid van verzoeken tot uitlevering gedaan door het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en Aruba;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Algemene bepalingen
 
@@ -109,11 +80,11 @@ In deze rijkswet wordt verstaan onder:
 
 ##### Artikel 6
 
-Wijzigt de Cassatieregeling voor de Nederlandse Antillen en Aruba.
+*Wijzigt de Cassatieregeling voor de Nederlandse Antillen en Aruba.*
 
 ##### Artikel 7
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 #### Overgangsbepaling
 
@@ -134,5 +105,3 @@ Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 ##### Artikel 10
 
 Deze wet wordt aangehaald als: Rijkswet cassatierechtspraak in uitleveringszaken voor Aruba, Curaçao en Sint Maarten.
-
-Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

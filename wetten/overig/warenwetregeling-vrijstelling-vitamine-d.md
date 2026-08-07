@@ -1,48 +1,21 @@
 ---
 title: "Warenwetregeling Vrijstelling vitamine D"
 identifier: "BWBR0015032"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-05-04"
-last_updated: "2003-05-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015032"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4615153"
-version_id: "6431392"
-internal_id: "C6677311"
-label_id: "4593444"
-dtd_version: "2.0"
-original_entry_into_force: "2003-05-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015032/2003-05-04/0"
-intitule_bron: "Stcrt.2003-84"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-01"
-intitule_published: "2003-05-02"
-intitule_in_force: "2003-05-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-84"
-original_signed_date: "2003-05-01"
-original_published_date: "2003-05-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-05-04"
-jci_1_3: "jci1.3:c:BWBR0015032&z=2003-05-04&g=2003-05-04"
-jci_1_0: "1.0:c:BWBR0015032&g=2003-05-04"
-citeertitel_status: "officieel"
-signed_date: "2003-05-01"
-entry_into_force: "2003-05-04"
+publicatiedatum: 2003-05-04
+laatste_update: 2003-05-04
+status: geldig
+toestand: 2003-05-04
+bron: "https://wetten.overheid.nl/BWBR0015032"
+opgehaald: 2026-08-07
 ---
+
 # Warenwetregeling Vrijstelling vitamine D
-
-Handelende in overeenstemming met de Ministers van Landbouw, Natuurbeheer en Visserij, en van Economische Zaken;
-
-Gelet op [artikel 16, eerste en vierde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=16);
-
-Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder gele vetsmeersels: margarines, halvarines en overige producten als bedoeld in de bijlage, onder B en C, van [verordening (EG) nr. 2991/94](31994R2991) van de Raad van de Europese Unie van 5 december 1994 tot vaststelling van normen voor smeerbare vetproducten (PbEG L 316).
+In deze regeling wordt verstaan onder gele vetsmeersels: margarines, halvarines en overige producten als bedoeld in de bijlage, onder B en C, van verordening (EG) nr. 2991/94 van de Raad van de Europese Unie van 5 december 1994 tot vaststelling van normen voor smeerbare vetproducten (PbEG L 316).
 
 ##### Artikel 2
 
@@ -58,6 +31,4 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 4
 
-Deze regeling wordt aangehaald als: [Warenwetregeling Vrijstelling vitamine D](onbekend).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Warenwetregeling Vrijstelling vitamine D.

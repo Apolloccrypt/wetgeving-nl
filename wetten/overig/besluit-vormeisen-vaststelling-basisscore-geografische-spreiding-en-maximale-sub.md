@@ -8,7 +8,7 @@ laatste_update: 2026-08-06
 status: geldig
 toestand: 2026-08-06
 bron: "https://wetten.overheid.nl/BWBR0052958"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Besluit vormeisen, vaststelling basisscore geografische spreiding en maximale subsidiebedragen Deelregeling projectsubsidies Fonds Podiumkunsten

@@ -9,7 +9,7 @@ laatste_update: 2026-07-21
 status: geldig
 toestand: 2026-07-21
 bron: "https://wetten.overheid.nl/BWBR0020368"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Wet van 28 september 2006, houdende regels met betrekking tot de financiële markten en het toezicht daarop (Wet op het financieel toezicht)
@@ -17541,6 +17541,12 @@ Voor de toepassing van het ingevolge deze afdeling bepaalde wordt onder «markte
 1. Een marktexploitant en deelnemers aan of leden van de door hem geëxploiteerde gereglementeerde markt synchroniseren de beursklokken die zij gebruiken om de datum en tijd van aan te melden verrichtingen te registreren.
 
 2. De marktexploitant en deelnemers aan of leden van de door hem geëxploiteerde gereglementeerde markt nemen bij de toepassing van dit artikel de ingevolge artikel 50, tweede lid, van de richtlijn markten voor financiële instrumenten 2014 gestelde regels in acht.
+
+##### Artikel 5:30f
+
+1. Een marktexploitant maakt op de website van de door hem geëxploiteerde gereglementeerde markt informatie openbaar over de omstandigheden die kunnen leiden tot het stilleggen of beperken van de handel op de gereglementeerde markt en over de beginselen voor het bepalen van de belangrijkste technische parameters die daarvoor worden gebruikt.
+
+2. Bij de toepassing van dit artikel neemt de marktexploitant de ingevolge artikel 48, twaalfde lid, onderdeel i, van de richtlijn markten voor financiële instrumenten 2014 gestelde regels in acht.
 
 ##### Artikel 5:31
 

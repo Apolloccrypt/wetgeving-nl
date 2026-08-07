@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 6 januari 2003 tot vaststelling van de Vergoedingenregeling Hof van Discipline 2002 (Vergoedingenregeling Hof van Discipline 2002)"
+citeertitel: "Vergoedingenregeling Hof van Discipline 2002"
 identifier: "BWBR0014567"
-country: "nl"
-rank: "kb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014567"
+categorie: "Overig"
 soort: "KB"
-stam_id: "3252963"
-version_id: "5001922"
-internal_id: "C5056141"
-label_id: "3225554"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014567/2020-01-01/0"
-intitule_bron: "Stb.2003-19"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-01-06"
-intitule_published: "2003-01-21"
-intitule_in_force: "2003-01-21"
-intitule_status: "goed"
-original_publication: "Stb.2003-19"
-original_signed_date: "2003-01-06"
-original_published_date: "2003-01-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2003-19"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0014567&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0014567&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Vergoedingenregeling Hof van Discipline 2002"
-signed_date: "2003-01-06"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0014567"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 6 januari 2003 tot vaststelling van de Vergoedingenregeling Hof van Discipline 2002 (Vergoedingenregeling Hof van Discipline 2002)
-
-Op voordracht van Onze Minister van Justitie van 10 december 2002, nr. 5194695/802;
-
-Gelet op [artikel 3 van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=3) (Sb. 1988, 205) en [artikel 60, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=60);
-
-Hebben goedgevonden en verstaan:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -79,5 +49,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2002.
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: «Vergoedingenregeling Hof van Discipline 2002».
-
-Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst.

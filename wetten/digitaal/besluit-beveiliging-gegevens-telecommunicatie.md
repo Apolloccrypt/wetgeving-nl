@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 28 oktober 2003, houdende regels betreffende door aanbieders van openbare telecommunicatienetwerken of openbare telecommunicatiediensten te treffen beveiligingsmaatregelen ten aanzien van gegevens betreffende het aftappen en opnemen van telecommunicatie (Besluit beveiliging gegevens aftappen telecommunicatie)"
+citeertitel: "Besluit beveiliging gegevens telecommunicatie"
 identifier: "BWBR0015808"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-05-01"
-last_updated: "2018-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015808"
+categorie: "Digitaal en privacy"
 soort: "AMvB"
-stam_id: "5477263"
-version_id: "16626312"
-internal_id: "C22893841"
-label_id: "5451804"
-dtd_version: "2.0"
-original_entry_into_force: "2009-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015808/2018-05-01/0"
-intitule_bron: "Stb.2003-472"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-10-28"
-intitule_published: "2003-11-25"
-intitule_in_force: "2005-03-22"
-intitule_status: "goed"
-original_publication: "Stb.2009-350"
-original_signed_date: "2009-08-11"
-original_published_date: "2009-08-28"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2009-350"
-entry_into_force_date: "2009-09-01"
-jci_1_3: "jci1.3:c:BWBR0015808&z=2018-05-01&g=2018-05-01"
-jci_1_0: "1.0:c:BWBR0015808&g=2018-05-01"
-citeertitel_status: "officieel"
-short_title: "Besluit beveiliging gegevens telecommunicatie"
-signed_date: "2009-08-11"
-entry_into_force: "2009-09-01"
+publicatiedatum: 2009-09-01
+laatste_update: 2018-05-01
+status: geldig
+toestand: 2018-05-01
+bron: "https://wetten.overheid.nl/BWBR0015808"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 28 oktober 2003, houdende regels betreffende door aanbieders van openbare telecommunicatienetwerken of openbare telecommunicatiediensten te treffen beveiligingsmaatregelen ten aanzien van gegevens betreffende het aftappen en opnemen van telecommunicatie (Besluit beveiliging gegevens aftappen telecommunicatie)
-
-Op de voordracht van de Staatssecretaris van Economische Zaken van 15 mei 2003, nr. WJZ/03/02344 gedaan mede namens Onze Minister van Justitie, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie;
-
-Gelet op de [artikelen 13.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2), [13.5, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.5);
-
-De Raad van State gehoord (advies van 10 juli 2003, nr. W10.03.0182/II);
-
-Gezien het nader rapport van de Minister van Economische Zaken van 22 oktober 2003, nr. WJZ 3057391, uitgebracht mede namens Onze Minister van Justitie, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -56,11 +24,11 @@ In dit besluit wordt verstaan onder:
 
 - c. bevoegde autoriteit:
 
-- 1°. de officier van justitie of de door de korpschef voor zijn korps, dan wel door het hoofd van een andere opsporingsdienst voor zijn dienst aangewezen opsporingsambtenaar;
+   - 1°. de officier van justitie of de door de korpschef voor zijn korps, dan wel door het hoofd van een andere opsporingsdienst voor zijn dienst aangewezen opsporingsambtenaar;
 
-- 2°. het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar;
+   - 2°. het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar;
 
-- 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar;
+   - 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar;
 
 - d. bijzondere last: last tot het aftappen of opnemen van telecommunicatie.
 
@@ -86,17 +54,17 @@ In dit besluit wordt verstaan onder:
 
 - e. maatregelen in het geval van calamiteiten.
 
-3. Tot de maatregelen, bedoeld in het eerste en tweede lid worden in ieder geval gerekend de maatregelen, bedoeld in de bijlage bij dit besluit.
+3. Tot de maatregelen, bedoeld in het eerste en tweede lid worden in ieder geval gerekend de maatregelen, bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0015808) bij dit besluit.
 
 ##### Artikel 3
 
-1. De aanbieder draagt zorg voor een beveiligingsplan, waarin hij aangeeft op welke wijze door hem uitvoering is gegeven aan zijn beveiligingsplicht. In het beveiligingsplan wordt ten minste aangegeven op welke wijze uitvoering is gegeven aan de maatregelen, bedoeld in de bijlage.
+1. De aanbieder draagt zorg voor een beveiligingsplan, waarin hij aangeeft op welke wijze door hem uitvoering is gegeven aan zijn beveiligingsplicht. In het beveiligingsplan wordt ten minste aangegeven op welke wijze uitvoering is gegeven aan de maatregelen, bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0015808).
 
 2. Op een daartoe strekkend verzoek van de bevoegde autoriteit wordt door de aanbieder inzage verleend in het beveiligingsplan.
 
 ##### Artikel 4
 
-1. Dit lid is nog niet in werking getreden.
+1. *Dit lid is nog niet in werking getreden.*
 
 2. De aanbieder draagt er zorg voor dat aan de uitvoering van de in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2) bedoelde bevoegd gegeven bijzondere last en de in de [artikelen 13.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2b) en [13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4) neergelegde verplichting tot het verstrekken van informatie, de medewerking uitsluitend wordt verleend door personen, die aan hem een verklaring omtrent het gedrag als bedoeld in de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195) hebben overgelegd. De eerste volzin is niet van toepassing, indien de betrokken persoon een vertrouwensfunctie uitoefent als bedoeld in het eerste lid.
 
@@ -146,104 +114,6 @@ met betrekking tot deze werkzaamheden en de gegevens en informatie waarvan zij i
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-## Bijlage. als bedoeld in [artikel 2, derde lid, van het Besluit beveiliging gegevens aftappen telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2005-06-01&g=2005-06-01)
-
-### I. Beveiligingseis algemeen
-
-Er is een functionaris, belast met het toezicht op de uitvoering en naleving van de beveiligingsmaatregelen. De functionaris voert daartoe regelmatig controles uit en legt de resultaten daarvan vast.
-
-### II. Beveiligingseisen ten aanzien van personeel
-
-a. In de functiebeschrijving van personeel dat belast is met de verwerking van de informatie en gegevens wordt de verantwoordelijkheid voor de beveiliging daarvan beschreven.
-
-a. In de functiebeschrijving van personeel dat belast is met de verwerking van de informatie en gegevens wordt de verantwoordelijkheid voor de beveiliging daarvan beschreven.
-
-b. Personeel dat in aanraking komt met de informatie en gegevens tekent een geheimhoudingsverklaring.
-
-### III. Fysieke beveiliging en beveiliging van de omgeving
-
-a. De informatie en de gegevens worden zoveel mogelijk binnen één ruimte geconcentreerd.
-
-a. De informatie en de gegevens worden zoveel mogelijk binnen één ruimte geconcentreerd.
-
-b. De ruimte waarbinnen de informatie en de gegevens aanwezig zijn is deugdelijk fysiek beveiligd.
-
-c. De fysieke beveiliging is zodanig ingericht dat ongeautoriseerde toegang en pogingen daartoe worden gedetecteerd en dat tijdige interventie plaatsvindt.
-
-d. Toegang tot de ruimte waar de gegevens of de informatie zich bevindt is uitsluitend toegestaan aan daartoe geautoriseerde personen voorzover dit voor hun functie noodzakelijk is.
-
-e. Het binnentreden en verlaten van de ruimte moet zodanig zijn geregeld dat er sprake is van gecontroleerde en achteraf herleidbare toegang op individueel niveau.
-
-f. Documenten waarin, dan wel verwisselbare gegevensdragers waarop, de informatie en de gegevens zijn vastgelegd worden in deugdelijk beveiligde opbergmiddelen bewaard.
-
-### IV. Beheer van communicatie- en bedieningsprocessen
-
-a. De status/rubricering van de informatie en de gegevens (staatsgeheim of vertrouwelijk) dient te allen tijde kenbaar te zijn.
-
-a. De status/rubricering van de informatie en de gegevens (staatsgeheim of vertrouwelijk) dient te allen tijde kenbaar te zijn.
-
-b. Reproductie van de informatie of de gegevens is alleen toegestaan door daartoe geautoriseerde personen en uitsluitend voor zover dat nodig is voor de goede uitvoering van de bijzondere last dan wel een opdracht op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) als bedoeld in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2) dan wel een verzoek op grond van [artikel 13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4).
-
-c. De informatie of de gegevens worden niet buiten de normale ruimte gebracht, tenzij dat voor de goede voortgang van de werkzaamheden noodzakelijk is. In dat geval wordt de verblijfplaats van de informatie of de gegevens geregistreerd.
-
-### V. Toegangsbeveiliging van geautomatiseerde informatiesystemen
-
-a. De toegang tot geautomatiseerde informatiesystemen waarin de informatie en de gegevens worden verwerkt is op deugdelijke wijze beveiligd, onder meer door middel van persoonsgebonden authenticatie.
-
-a. De toegang tot geautomatiseerde informatiesystemen waarin de informatie en de gegevens worden verwerkt is op deugdelijke wijze beveiligd, onder meer door middel van persoonsgebonden authenticatie.
-
-b. De logische beveiliging is zodanig ingericht dat ongeautoriseerde toegang en pogingen daartoe worden gedetecteerd en dat tijdige interventie plaatsvindt.
-
-c. Het aantal foutieve inlogpogingen is beperkt tot drie. Overschrijding van het aantal foutieve inlogpogingen leidt tot definitieve blokkering, welke uitsluitend door de functionaris, bedoeld in onderdeel I van deze bijlage, kan worden opgeheven. Het voorgaande is niet van toepassing op de systeembeheerder, met dien verstande dat bij drie foutieve inlogpogingen een hernieuwde inlogpoging slechts kan plaatsvinden via een voor noodsituaties ingericht account en persoonsgebonden authenticatie voor het gebruik waarvan door de functionaris, bedoeld in onderdeel I van deze bijlage toestemming moet worden verleend.
-
-d. Het geautomatiseerde systeem, waarin de gegevens en de informatie worden verwerkt, wordt niet eerder verlaten dan nadat een (handmatig of automatisch) toegangsbeveiligingsmechanisme in werking is gesteld.
-
-e. Alle handelingen met betrekking tot de verwerking van de informatie en de gegevens in het geautomatiseerde informatiesysteem worden persoonsgebonden vastgelegd teneinde onderzoek mogelijk te maken.
-
-f. Toegang tot het geautomatiseerde informatiesysteem is uitsluitend voorbehouden aan daartoe geautoriseerd personeel.
-
-g. De toegangsrechten van de gebruikers worden periodiek geëvalueerd.
-
-### VI. Ontwikkeling, onderhoud en reparatie van geautomatiseerde informatiesystemen
-
-a. Alle wijzigingen in apparatuur, software of procedures die de beveiliging van de gegevens en informatie kunnen beïnvloeden zijn controleerbaar, dat wil zeggen bekend en beoordeeld door of namens de aanbieder als zijnde aanvaardbaar.
-
-a. Alle wijzigingen in apparatuur, software of procedures die de beveiliging van de gegevens en informatie kunnen beïnvloeden zijn controleerbaar, dat wil zeggen bekend en beoordeeld door of namens de aanbieder als zijnde aanvaardbaar.
-
-b. Het onderhouden van geautomatiseerde informatiesystemen, voor zover deze nog toegang verschaffen tot gegevens en informatie, vindt op locatie plaats.
-
-c. In afwijking van onderdeel b, is het op afstand onderhouden van geautomatiseerde informatiesystemen slechts toegestaan, indien dit wordt uitgevoerd door daartoe geautoriseerde personen als bedoeld in onderdeel II van deze bijlage, en slechts op tijdstippen waarvoor door de functionaris, bedoeld in onderdeel I, onder a, van deze bijlage, toestemming is verleend en er aantoonbaar voldoende waarborgen bestaan voor het handhaven van het beveiligingsniveau van de gegevens en informatie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit beveiliging gegevens telecommunicatie.
-
-## Bijlage. als bedoeld in [artikel 2, derde lid, van het Besluit beveiliging gegevens aftappen telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2018-05-01&g=2018-05-01)
-
-### I. Beveiligingseis algemeen
-
-Er is een functionaris, belast met het toezicht op de uitvoering en naleving van de beveiligingsmaatregelen. De functionaris voert daartoe regelmatig controles uit en legt de resultaten daarvan vast.
-
-### II. Beveiligingseisen ten aanzien van personeel
-
-c. Uitsluitend personeel dat overeenkomstig de functiebeschrijving belast is met de verwerking van de informatie en gegevens heeft toegang tot de informatie en de gegevens.
-
-### III. Fysieke beveiliging en beveiliging van de omgeving
-
-g. Personen belast met onderhouds- en reparatiewerkzaamheden in de ruimte waarin de informatie en de gegevens zich bevinden worden door eigen geautoriseerd personeel begeleid.
-
-### IV. Beheer van communicatie- en bedieningsprocessen
-
-d. De verwijdering en vernietiging van de informatie en gegevens geschiedt op een onomkeerbare wijze. Van de verwijdering en vernietiging wordt een rapport opgemaakt, dat in afschrift wordt gezonden aan de bevoegde autoriteit wie het aangaat dan wel een door deze aangewezen instantie.
-
-### V. Toegangsbeveiliging van geautomatiseerde informatiesystemen
-
-h. De autorisaties van alle gebruikers worden vastgelegd.
-
-### VI. Ontwikkeling, onderhoud en reparatie van geautomatiseerde informatiesystemen
-
-d. Reparatie aan het geautomatiseerde informatiesysteem waarin de informatie en de gegevens worden verwerkt vindt op locatie plaats. Van de eerste volzin kan worden afgeweken indien de informatie en gegevens zijn verwijderd en niet te achterhalen zijn.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2004 (Verordening PT algemene heffing handel groenten en fruit 2004)"
+citeertitel: "Verordening PT algemene heffing handel groenten en fruit 2004"
 identifier: "BWBR0015319"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-01-01"
-last_updated: "2004-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015319"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6100663"
-version_id: "10761172"
-internal_id: "C14606781"
-label_id: "6089924"
-original_entry_into_force: "2004-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015319/2004-01-01/0"
-intitule_bron: "Vbbo.2003-73"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-07-01"
-intitule_published: "2003-12-12"
-intitule_in_force: "2003-12-12"
-intitule_status: "goed"
-original_publication: "Vbbo.2003-73"
-original_signed_date: "2003-07-01"
-original_published_date: "2003-12-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-01-01"
-jci_1_3: "jci1.3:c:BWBR0015319&z=2004-01-01&g=2004-01-01"
-jci_1_0: "1.0:c:BWBR0015319&g=2004-01-01"
-citeertitel_status: "officieel"
-short_title: "Verordening PT algemene heffing handel groenten en fruit 2004"
-signed_date: "2003-07-01"
-entry_into_force: "2004-01-01"
+publicatiedatum: 2004-01-01
+laatste_update: 2004-01-01
+status: geldig
+toestand: 2004-01-01
+bron: "https://wetten.overheid.nl/BWBR0015319"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2004 (Verordening PT algemene heffing handel groenten en fruit 2004)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=15) en 19 van het Instellingsbesluit Productschap Tuinbouw;
-
-gehoord de Sectorcommissie voor groenten en fruit, d.d. 26 juni 2003;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -91,7 +63,7 @@ BESLUIT:
 
 ##### Artikel 4
 
-Indien de heffingsplichtige de gegevens die hem krachtens de [Verordening PT algemene bepalingen](onbekend), ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40,= wordt verhoogd in verband met administratiekosten.
+Indien de heffingsplichtige de gegevens die hem krachtens de Verordening PT algemene bepalingen, ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40,= wordt verhoogd in verband met administratiekosten.
 
 ##### Artikel 5
 
@@ -162,5 +134,3 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 ##### Artikel 14
 
 Deze verordening wordt aangehaald als: Verordening PT algemene heffing handel groenten en fruit 2004.
-
-De verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

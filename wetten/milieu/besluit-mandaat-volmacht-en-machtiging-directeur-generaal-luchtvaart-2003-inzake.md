@@ -1,39 +1,17 @@
 ---
 title: "Besluit mandaat, volmacht en machtiging directeur-generaal Luchtvaart, 2003 inzake samengaan KLM/Air France"
 identifier: "BWBR0015715"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-10-16"
-last_updated: "2003-10-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015715"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "5434813"
-version_id: "9775982"
-internal_id: "C13194271"
-label_id: "5409534"
-original_entry_into_force: "2003-10-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015715/2003-10-16/0"
-intitule_bron: "Stcrt.2003-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-10-13"
-intitule_published: "2003-10-14"
-intitule_in_force: "2003-10-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-198"
-original_signed_date: "2003-10-13"
-original_published_date: "2003-10-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-10-16"
-jci_1_3: "jci1.3:c:BWBR0015715&z=2003-10-16&g=2003-10-16"
-jci_1_0: "1.0:c:BWBR0015715&g=2003-10-16"
-citeertitel_status: "officieel"
-signed_date: "2003-10-13"
-entry_into_force: "2003-10-16"
+publicatiedatum: 2003-10-16
+laatste_update: 2003-10-16
+status: geldig
+toestand: 2003-10-16
+bron: "https://wetten.overheid.nl/BWBR0015715"
+opgehaald: 2026-08-07
 ---
-# Besluit mandaat, volmacht en machtiging directeur-generaal Luchtvaart, 2003 inzake samengaan KLM/Air France
 
-Besluit:
+# Besluit mandaat, volmacht en machtiging directeur-generaal Luchtvaart, 2003 inzake samengaan KLM/Air France
 
 ##### Artikel 1
 

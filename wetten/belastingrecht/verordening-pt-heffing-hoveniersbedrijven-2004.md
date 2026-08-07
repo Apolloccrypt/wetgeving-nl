@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d. 1 juli 2003, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven voor het jaar 2004 (Verordening PT heffing hoveniersbedrijven 2004)"
+citeertitel: "Verordening PT heffing hoveniersbedrijven 2004"
 identifier: "BWBR0015303"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-03-06"
-last_updated: "2004-03-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015303"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6218083"
-version_id: "10889722"
-internal_id: "C29108591"
-label_id: "6207214"
-original_entry_into_force: "2004-03-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015303/2004-03-06/0"
-intitule_bron: "Vbbo.2004-13"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-07-01"
-intitule_published: "2004-03-05"
-intitule_in_force: "2004-03-05"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-13"
-original_signed_date: "2003-07-01"
-original_published_date: "2004-03-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-03-06"
-jci_1_3: "jci1.3:c:BWBR0015303&z=2004-03-06&g=2004-03-06"
-jci_1_0: "1.0:c:BWBR0015303&g=2004-03-06"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing hoveniersbedrijven 2004"
-signed_date: "2003-07-01"
-entry_into_force: "2004-03-06"
+publicatiedatum: 2004-03-06
+laatste_update: 2004-03-06
+status: geldig
+toestand: 2004-03-06
+bron: "https://wetten.overheid.nl/BWBR0015303"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 1 juli 2003, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven voor het jaar 2004 (Verordening PT heffing hoveniersbedrijven 2004)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 14](onbekend), [15](onbekend) en [19 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend);
-
-gehoord de Sectorcommissie voor hovenierswerkzaamheden, d.d. 16 april 2003;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -74,7 +46,7 @@ Besluit:
 
 ##### Artikel 4
 
-Indien de heffingsplichtige de gegevens die hem krachtens de [Verordening PT Algemene bepalingen](onbekend), ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter van het Productschap Tuinbouw te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
+Indien de heffingsplichtige de gegevens die hem krachtens de Verordening PT Algemene bepalingen, ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter van het Productschap Tuinbouw te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
 
 ##### Artikel 5
 
@@ -135,5 +107,3 @@ De voorzitter is belast met de oplegging en inning van de heffingen de daarmee s
 ##### Artikel 13
 
 Deze verordening wordt aangehaald als: Verordening PT heffing hoveniersbedrijven 2004.
-
-Deze verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

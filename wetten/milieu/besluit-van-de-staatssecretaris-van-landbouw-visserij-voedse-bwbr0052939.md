@@ -9,7 +9,7 @@ laatste_update: 2026-08-04
 status: geldig
 toestand: 2026-08-04
 bron: "https://wetten.overheid.nl/BWBR0052939"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 28 juli 2026, nr. 107844428, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de bestrijding van Scirtothrips dorsalis en Scirtothrips aurantii in de bedekte niet-grondgebonden teelt van boomkwekerijgewassen (Tijdelijke vrijstelling voor de bestrijding van Scirtothrips dorsalis en Scirtothrips aurantii in de bedekte niet-grondgebonden teelt van boomkwekerijgewassen, 2026)

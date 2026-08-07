@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 11 december 2002, houdende regelen betreffende de inrichting en raadpleging van het boedelregister, bedoeld in artikel 186 van Boek 4 van het Burgerlijk Wetboek (Besluit boedelregister)"
+citeertitel: "Besluit boedelregister"
 identifier: "BWBR0014438"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-08-17"
-last_updated: "2015-08-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014438"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "3258733"
-version_id: "5016862"
-internal_id: "C5078471"
-label_id: "3238774"
-dtd_version: "2.0"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014438/2015-08-17/0"
-intitule_bron: "Stb.2002-608"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-11"
-intitule_published: "2002-12-17"
-intitule_in_force: "2002-12-17"
-intitule_status: "goed"
-original_publication: "Stb.2002-608"
-original_signed_date: "2002-12-11"
-original_published_date: "2002-12-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2002-608"
-entry_into_force_date: "2003-01-01"
-jci_1_3: "jci1.3:c:BWBR0014438&z=2015-08-17&g=2015-08-17"
-jci_1_0: "1.0:c:BWBR0014438&g=2015-08-17"
-citeertitel_status: "officieel"
-short_title: "Besluit boedelregister"
-signed_date: "2002-12-11"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2015-08-17
+status: geldig
+toestand: 2015-08-17
+bron: "https://wetten.overheid.nl/BWBR0014438"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 11 december 2002, houdende regelen betreffende de inrichting en raadpleging van het boedelregister, bedoeld in artikel 186 van Boek 4 van het Burgerlijk Wetboek (Besluit boedelregister)
-
-Op de voordracht van Onze Minister van Justitie van 23 oktober 2002, Directie Wetgeving, nr. 5191276/02/6;
-
-Gelet op [artikel 186 van Boek 4 van het Burgerlijk Wetboek](onbekend);
-
-De Raad van State gehoord (advies van 20 november 2002, No. W03.02.0465/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 9 december 2002, Directie Wetgeving nr. 5200448/02/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -56,13 +24,13 @@ Voor een inschrijving in het boedelregister, bedoeld in [artikel 186 van Boek 4 
 
 - c. ter inschrijving van een notaris die betrokken is bij de afwikkeling van een nalatenschap, als bedoeld in [artikel 186 lid 2 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=186): de schriftelijke mededeling terzake van de desbetreffende notaris;
 
-- d. ter inschrijving van de verklaring houdende zuivere aanvaarding of aanvaarding onder het voorrecht van boedelbeschrijving dan wel verwerping van een nalatenschap, bedoeld in [artikel 191 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=191) en artikel 13 van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PBEU 2012, L 201): de in [artikel 3 lid 1, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=3&z=2015-08-17&g=2015-08-17), bedoelde akte, alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend;
+- d. ter inschrijving van de verklaring houdende zuivere aanvaarding of aanvaarding onder het voorrecht van boedelbeschrijving dan wel verwerping van een nalatenschap, bedoeld in [artikel 191 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=191) en artikel 13 van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PBEU 2012, L 201): de in [artikel 3 lid 1, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=3&z=2015-08-17&g=2015-08-17), bedoelde akte, alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend;
 
 - e. ter inschrijving van de beschikking, onder vermelding van de daarvan gedane betekening, bedoeld in [artikel 192 lid 2 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=192): een authentiek afschrift van de beschikking, alsmede het exploot van betekening;
 
 - f. ter inschrijving van de verlenging van de termijnen, bedoeld in de [artikelen 192 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=192) en [193 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=193): een authentiek afschrift van de beschikking;
 
-- g. ter inschrijving van de verklaring van beneficiaire aanvaarding of van verwerping door een wettelijke vertegenwoordiger van een erfgenaam, bedoeld in [artikel 193 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=193) en artikel 13 van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PBEU 2012, L 201): de in [artikel 3 lid 1, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=3&z=2015-08-17&g=2015-08-17), bedoelde akte alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend, en voorts, in het geval van verwerping, een authentiek afschrift van de beschikking houdende machtiging van de kantonrechter;
+- g. ter inschrijving van de verklaring van beneficiaire aanvaarding of van verwerping door een wettelijke vertegenwoordiger van een erfgenaam, bedoeld in [artikel 193 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=193) en artikel 13 van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PBEU 2012, L 201): de in [artikel 3 lid 1, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=3&z=2015-08-17&g=2015-08-17), bedoelde akte alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend, en voorts, in het geval van verwerping, een authentiek afschrift van de beschikking houdende machtiging van de kantonrechter;
 
 - h. ter inschrijving van het verlopen zijn van de termijn waardoor de nalatenschap als door de erfgenaam beneficiair aanvaard geldt, als bedoeld in [artikel 193 lid 2 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=193): een authentiek afschrift van de beschikking;
 
@@ -74,7 +42,7 @@ Voor een inschrijving in het boedelregister, bedoeld in [artikel 186 van Boek 4 
 
 - l. ter inschrijving van de door een vereffenaar aangewezen boedelnotaris, als bedoeld in [artikel 211 lid 5 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=211): de schriftelijke mededeling terzake van de desbetreffende notaris;
 
-- m. ter inschrijving van de verklaring van aanvaarding dan wel verwerping van een legaat, bedoeld in artikel 13 van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PBEU 2012, L 201): de in [artikel 3 lid 1, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=3&z=2015-08-17&g=2015-08-17), bedoelde akte, alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend.
+- m. ter inschrijving van de verklaring van aanvaarding dan wel verwerping van een legaat, bedoeld in artikel 13 van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PBEU 2012, L 201): de in [artikel 3 lid 1, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=3&z=2015-08-17&g=2015-08-17), bedoelde akte, alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend.
 
 ##### Artikel 2
 
@@ -84,11 +52,11 @@ De in [artikel 1, onder b, f, h en k](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 1. De griffier maakt een akte op van:
 
-- a. een verklaring houdende zuivere aanvaarding of aanvaarding onder het voorrecht van boedelbeschrijving dan wel verwerping van een nalatenschap als bedoeld in [artikel 191 lid 1 van Boek 4 van het Burgerlijk Wetboek](onbekend);
+- a. een verklaring houdende zuivere aanvaarding of aanvaarding onder het voorrecht van boedelbeschrijving dan wel verwerping van een nalatenschap als bedoeld in artikel 191 lid 1 van Boek 4 van het Burgerlijk Wetboek;
 
-- b. een verklaring van beneficiaire aanvaarding of van verwerping door de wettelijke vertegenwoordiger van een erfgenaam als bedoeld in [artikel 193 lid 1 van Boek 4 van het Burgerlijk Wetboek](onbekend);
+- b. een verklaring van beneficiaire aanvaarding of van verwerping door de wettelijke vertegenwoordiger van een erfgenaam als bedoeld in artikel 193 lid 1 van Boek 4 van het Burgerlijk Wetboek;
 
-- c. een verklaring van aanvaarding dan wel verwerping van een legaat als bedoeld in artikel 13 van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PBEU 2012, L 201).
+- c. een verklaring van aanvaarding dan wel verwerping van een legaat als bedoeld in artikel 13 van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PBEU 2012, L 201).
 
 Degene die de verklaring aflegt in persoon of bij gevolmachtigde ondertekent de akte, waarna deze in het boedelregister wordt ingeschreven.
 
@@ -98,7 +66,7 @@ Degene die de verklaring aflegt in persoon of bij gevolmachtigde ondertekent de 
 
 1. In het boedelregister worden uitsluitend in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2015-08-17&g=2015-08-17) genoemde feiten ingeschreven die betrekking hebben op nalatenschappen van erflaters die hun laatste woonplaats hebben in het arrondissement van de desbetreffende rechtbank.
 
-2. De in [artikel 1 onder d, g of m](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2015-08-17&g=2015-08-17) genoemde feiten die betrekking hebben op nalatenschappen van erflaters die hun laatste gewone verblijfplaats in een lidstaat als bedoeld in verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PBEU 2012, L 201) hebben, kunnen worden ingeschreven in het boedelregister gehouden in het arrondissement van de woonplaats van de erfgenaam, de wettelijke vertegenwoordiger van een erfgenaam als bedoeld in [artikel 193 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=193) of de legataris.
+2. De in [artikel 1 onder d, g of m](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2015-08-17&g=2015-08-17) genoemde feiten die betrekking hebben op nalatenschappen van erflaters die hun laatste gewone verblijfplaats in een lidstaat als bedoeld in verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PBEU 2012, L 201) hebben, kunnen worden ingeschreven in het boedelregister gehouden in het arrondissement van de woonplaats van de erfgenaam, de wettelijke vertegenwoordiger van een erfgenaam als bedoeld in [artikel 193 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=193) of de legataris.
 
 3. Kan een in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2015-08-17&g=2015-08-17) genoemd feit niet op grond van vorenstaande leden worden ingeschreven, dan wordt het ingeschreven in het boedelregister gehouden door de griffier van de rechtbank Den Haag.
 
@@ -122,10 +90,8 @@ Indien aan de griffier een verzoek als in [artikel 7](https://wetten.overheid.nl
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van 1 januari 2003. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2002, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2003.
+Dit besluit treedt in werking met ingang van 1 januari 2003. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2002, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2003.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit boedelregister.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,42 +1,18 @@
 ---
 title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 30 september 2003, nr. MJZ2003096265, Centrale Directie Juridische Zaken, Afdeling Wetgeving, houdende intrekking van de Tijdelijke regeling energiepremies 2003 en vaststelling van de daarmee verbonden overgangsbepalingen (Regeling intrekking en overgangsbepalingen Tijdelijke regeling energiepremies 2003)"
+citeertitel: "Regeling intrekking en overgangsbepalingen Tijdelijke regeling energiepremies 2003"
 identifier: "BWBR0015645"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-07-11"
-last_updated: "2004-07-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015645"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "5428233"
-version_id: "9765572"
-internal_id: "C13180911"
-label_id: "5403074"
-original_entry_into_force: "2003-10-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015645/2004-07-11/0"
-intitule_bron: "Stcrt.2003-193"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-09-30"
-intitule_published: "2003-10-07"
-intitule_in_force: "2003-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-193"
-original_signed_date: "2003-09-30"
-original_published_date: "2003-10-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-10-09"
-jci_1_3: "jci1.3:c:BWBR0015645&z=2004-07-11&g=2004-07-11"
-jci_1_0: "1.0:c:BWBR0015645&g=2004-07-11"
-citeertitel_status: "officieel"
-short_title: "Regeling intrekking en overgangsbepalingen Tijdelijke regeling energiepremies 2003"
-signed_date: "2003-09-30"
-entry_into_force: "2003-10-09"
+publicatiedatum: 2003-10-09
+laatste_update: 2004-07-11
+status: geldig
+toestand: 2004-07-11
+bron: "https://wetten.overheid.nl/BWBR0015645"
+opgehaald: 2026-08-07
 ---
+
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 30 september 2003, nr. MJZ2003096265, Centrale Directie Juridische Zaken, Afdeling Wetgeving, houdende intrekking van de Tijdelijke regeling energiepremies 2003 en vaststelling van de daarmee verbonden overgangsbepalingen (Regeling intrekking en overgangsbepalingen Tijdelijke regeling energiepremies 2003)
-
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
-
-Besluit:
 
 ##### Artikel I
 
@@ -65,5 +41,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel V
 
 Deze regeling wordt aangehaald als: Regeling intrekking en overgangsbepalingen Tijdelijke regeling energiepremies 2003.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

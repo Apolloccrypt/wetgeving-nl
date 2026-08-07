@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschappen van 1 juli 2003, nr OWB/FO/2002/54873, houdende regels voor het verstrekken van subsidie aan Stichting AAP voor de huisvesting, verzorging en behandeling van door de Stichting Biomedical Primate Research Centre aan de Stichting AAP in eigendom overgedragen chimpansees (Subsidieregeling Stichting AAP)"
+citeertitel: "Subsidieregeling Stichting AAP"
 identifier: "BWBR0015298"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-06-28"
-last_updated: "2003-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015298"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "5038743"
-version_id: "8717032"
-internal_id: "C29178441"
-label_id: "5015084"
-dtd_version: "2.0"
-original_entry_into_force: "2003-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015298/2003-06-28/0"
-intitule_bron: "Stcrt.2003-120"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-07-01"
-intitule_published: "2003-06-26"
-intitule_in_force: "2003-06-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-120"
-original_signed_date: "2003-07-01"
-original_published_date: "2003-06-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-120-p18-SC40506"
-entry_into_force_date: "2003-06-28"
-jci_1_3: "jci1.3:c:BWBR0015298&z=2003-06-28&g=2003-06-28"
-jci_1_0: "1.0:c:BWBR0015298&g=2003-06-28"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Stichting AAP"
-signed_date: "2003-07-01"
-entry_into_force: "2003-06-28"
+publicatiedatum: 2003-06-28
+laatste_update: 2003-06-28
+status: geldig
+toestand: 2003-06-28
+bron: "https://wetten.overheid.nl/BWBR0015298"
+opgehaald: 2026-08-07
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschappen van 1 juli 2003, nr OWB/FO/2002/54873, houdende regels voor het verstrekken van subsidie aan Stichting AAP voor de huisvesting, verzorging en behandeling van door de Stichting Biomedical Primate Research Centre aan de Stichting AAP in eigendom overgedragen chimpansees (Subsidieregeling Stichting AAP)
-
-Gelet op [artikel 4 van de Wet overige OCenW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4);
-
-Besluit:
 
 #### Paragraaf 1. Inleidende bepalingen
 
@@ -46,15 +20,16 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** de Minister van Onderwijs, Cultuur en Wetenschappen,
+- a. *minister:* de Minister van Onderwijs, Cultuur en Wetenschappen,
 
-- b. **BPRC:** Stichting Biomedical Primate Research Centre gevestigd te Rijswijk,
+- b. *BPRC:* Stichting Biomedical Primate Research Centre gevestigd te Rijswijk,
 
-- c. **Stichting AAP:** Stichting AAP, Opvang voor Uitheemse Dieren gevestigd te Almere,
+- c. *Stichting AAP:* Stichting AAP, Opvang voor Uitheemse Dieren gevestigd te Almere,
 
-- d. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
+- d. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
 
-- e. **Convenant:** het op 3 juni 2003 ondertekende Convenant inzake de overdracht, huisvesting, verzorging en behandeling van de chimpansees van het BPRC.
+- e. *Convenant:* het op 3 juni 2003 ondertekende Convenant inzake de overdracht, huisvesting, verzorging en behandeling van de chimpansees van het BPRC.
 
 ##### Artikel 2. Doelomschrijving
 
@@ -167,5 +142,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: [Subsidieregeling Stichting AAP](https://wetten.overheid.nl/jci1.3:c:BWBR0015298).
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

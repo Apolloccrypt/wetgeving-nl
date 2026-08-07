@@ -1,36 +1,16 @@
 ---
 title: "Voorlopig Centraal Register Opleidingen Hoger Onderwijs (CROHO) 2003 - 2004"
 identifier: "BWBR0014571"
-country: "nl"
-rank: "circulaire"
-publication_date: "2003-01-22"
-last_updated: "2003-01-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014571"
+categorie: "Onderwijs"
 soort: "circulaire"
-stam_id: "6771763"
-version_id: "11626112"
-internal_id: "C15663361"
-label_id: "6759964"
-original_entry_into_force: "2003-01-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014571/2003-01-22/0"
-intitule_bron: "Uitleg.2003-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-01-08"
-intitule_published: "2003-01-22"
-intitule_in_force: "2003-01-22"
-intitule_status: "goed"
-original_publication: "Uitleg.2003-1"
-original_signed_date: "2003-01-08"
-original_published_date: "2003-01-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-01-22"
-jci_1_3: "jci1.3:c:BWBR0014571&z=2003-01-22&g=2003-01-22"
-jci_1_0: "1.0:c:BWBR0014571&g=2003-01-22"
-citeertitel_status: "redactioneel"
-signed_date: "2003-01-08"
-entry_into_force: "2003-01-22"
+publicatiedatum: 2003-01-22
+laatste_update: 2003-01-22
+status: geldig
+toestand: 2003-01-22
+bron: "https://wetten.overheid.nl/BWBR0014571"
+opgehaald: 2026-08-07
 ---
+
 # Voorlopig Centraal Register Opleidingen Hoger Onderwijs (CROHO) 2003 - 2004
 
 De Informatie Beheer Groep is belast met de aanleg, het beheer en de bekendmaking van het Centraal Register Opleidingen Hoger Onderwijs (CROHO) en met het verstrekken van informatie uit het register.
@@ -39,8 +19,32 @@ De [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.ove
 
 Het voorlopig CROHO 2003 - 2004 wordt daarom in boekvorm en op diskette toegezonden aan:
 
+- alle instellingen voor het hoger onderwijs;
+
+- de leden van de Adviescommissie Onderwijsaanbod;
+
+- De Nederlandse Accreditatie Organisatie;
+
+- De HBO-raad;
+
+- De VSNU.
+
 Belangstellenden kunnen schriftelijk een exemplaar van het CROHO aanvragen bij:
+
+- De Informatie Beheer Groep Onderwijsservice, afdeling Loting en Basisregistratie Postbus 30157 9700 LJ GRONINGEN
 
 Bij deze aanvragen geldt dat voor een standaardlevering (inclusief diskette) een bedrag van € 136,13 (exclusief BTW) verschuldigd is. Wenst u een andere selectie uit het CROHO, dan zullen de kosten daarvan apart worden berekend. U ontvangt daarvoor een offerte.
 
 U wordt verzocht in uw aanvraag aan te geven:
+
+- welke gegevens u wenst te ontvangen;
+
+- in welke vorm u de gegevens wenst te ontvangen (schriftelijk of op diskette);
+
+- of het een éénmalig of reguliere levering betreft;
+
+- wie als contactpersoon kan worden benaderd voor het beantwoorden van eventuele vragen;
+
+- naar welke adres de levering moet worden verzonden;
+
+- indien het een standaardlevering betreft, uw aanvraag met het bedrag van € 136,13 (excl. BTW).

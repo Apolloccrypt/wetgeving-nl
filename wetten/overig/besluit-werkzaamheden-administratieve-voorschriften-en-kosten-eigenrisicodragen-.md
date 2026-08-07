@@ -1,50 +1,25 @@
 ---
 title: "Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW"
 identifier: "BWBR0014926"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-12-06"
-last_updated: "2006-12-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014926"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6582693"
-version_id: "11408872"
-internal_id: "C15361451"
-label_id: "6571104"
-original_entry_into_force: "2003-04-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014926/2006-12-06/0"
-intitule_bron: "Stcrt.2003-80"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-04-07"
-intitule_published: "2003-04-25"
-intitule_in_force: "2003-04-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-80"
-original_signed_date: "2003-04-07"
-original_published_date: "2003-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-080-p18-SC39682"
-entry_into_force_date: "2003-04-27"
-jci_1_3: "jci1.3:c:BWBR0014926&z=2006-12-06&g=2006-12-06"
-jci_1_0: "1.0:c:BWBR0014926&g=2006-12-06"
-citeertitel_status: "officieel"
-signed_date: "2003-04-07"
-entry_into_force: "2003-04-27"
+publicatiedatum: 2003-04-27
+laatste_update: 2006-12-06
+status: geldig
+toestand: 2006-12-06
+bron: "https://wetten.overheid.nl/BWBR0014926"
+opgehaald: 2026-08-07
 ---
+
 # Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW
-
-Gelet op [artikel 63a, zevende lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **ZW:** de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+- a. *ZW:* de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- b. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen;
+- b. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen;
 
 - c. Wfsv: de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745).
 
@@ -66,7 +41,7 @@ In deze regeling wordt verstaan onder:
 
 8. Het UWV maakt de beschikking zo spoedig mogelijk bekend.
 
-##### Artikel 3. Inrichting ziekteverzuimadministratie van eigenrisicodrager; controle op de uitvoering [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) door de eigenrisicodrager
+##### Artikel 3. Inrichting ziekteverzuimadministratie van eigenrisicodrager; controle op de uitvoering ZW door de eigenrisicodrager
 
 1. De eigenrisicodrager richt zijn ziekteverzuimadministratie als volgt in:
 
@@ -74,25 +49,25 @@ In deze regeling wordt verstaan onder:
 
 - b. De eigenrisicodrager registreert terzake van een persoon als bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40):
 
-- 1°. sofinummer;
+   - 1° sofinummer;
 
-- 2°. naam;
+   - 2° naam;
 
-- 3°. de periode van ongeschiktheid en een overzicht van eerdere perioden van ongeschiktheid;
+   - 3° de periode van ongeschiktheid en een overzicht van eerdere perioden van ongeschiktheid;
 
-- 4°. motivering waarom het een persoon betreft als bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40);
+   - 4° motivering waarom het een persoon betreft als bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40);
 
-- 5°. weigering van ZW-uitkering en de motivering daarvan;
+   - 5° weigering van ZW-uitkering en de motivering daarvan;
 
-- 6°. hoogte van het dagloon en motivering van de totstandkoming daarvan;
+   - 6° hoogte van het dagloon en motivering van de totstandkoming daarvan;
 
-- 7°. hoogte van de brutodaguitkering [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en motivering van de totstandkoming daarvan;
+   - 7° hoogte van de brutodaguitkering [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en motivering van de totstandkoming daarvan;
 
-- 8°. aanvang, duur en einde van het recht op ZW-uitkering en motivering van de totstandkoming daarvan;
+   - 8° aanvang, duur en einde van het recht op ZW-uitkering en motivering van de totstandkoming daarvan;
 
-- 9°. de periode waarover ZW-uitkering is betaald.
+   - 9° de periode waarover ZW-uitkering is betaald.
 
-- 10°. de periode waarover een voorschot is betaald.
+   - 10° de periode waarover een voorschot is betaald.
 
 2. De eigenrisicodrager neemt ten aanzien van de verzuimadministratie bedoeld in het eerste lid de volgende bewaartermijnen in acht:
 
@@ -152,7 +127,7 @@ Indien de eigenrisicodrager het vermoeden heeft dat de persoon, bedoeld in [arti
 
 ##### Artikel 7. Schadevergoeding, griffierecht en proceskosten na onrechtmatig gebleken beschikking
 
-1. Indien blijkt dat een door het UWV genomen beschikking onrechtmatig is, en op grond van het [Besluit Schadebeleid](onbekend) dan wel op grond van een rechterlijke uitspraak, een schadevergoeding verschuldigd is, betaalt het UWV de schadevergoeding.
+1. Indien blijkt dat een door het UWV genomen beschikking onrechtmatig is, en op grond van het Besluit Schadebeleid dan wel op grond van een rechterlijke uitspraak, een schadevergoeding verschuldigd is, betaalt het UWV de schadevergoeding.
 
 2. Indien de kosten, bedoeld in [artikel 7:15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15), of [artikel 8:75, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75) of het griffierecht bedoeld in [art. 8:74, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:74) moeten worden vergoed, betaalt het UWV die vergoeding.
 
@@ -163,5 +138,3 @@ Dit besluit wordt aangehaald als: Besluit werkzaamheden, administratieve voorsch
 ##### Artikel 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin dit besluit wordt geplaatst.
-
-Dit besluit zal, na goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, met de toelichting in de Staatscourant worden geplaatst.

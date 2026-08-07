@@ -1,37 +1,16 @@
 ---
 title: "Procedures voor totstandkoming en bekendmaking rijksregelgeving"
 identifier: "BWBR0015128"
-country: "nl"
-rank: "circulaire"
-publication_date: "2003-07-01"
-last_updated: "2003-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015128"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6445513"
-version_id: "11117442"
-internal_id: "C15032951"
-label_id: "6434334"
-original_entry_into_force: "2003-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015128/2003-07-01/0"
-intitule_bron: "Stcrt.2003-107"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-26"
-intitule_published: "2003-06-06"
-intitule_in_force: "2003-06-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-107"
-original_signed_date: "2003-05-26"
-original_published_date: "2003-06-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-107-p11-SC40257"
-entry_into_force_date: "2003-07-01"
-jci_1_3: "jci1.3:c:BWBR0015128&z=2003-07-01&g=2003-07-01"
-jci_1_0: "1.0:c:BWBR0015128&g=2003-07-01"
-citeertitel_status: "redactioneel"
-signed_date: "2003-05-26"
-entry_into_force: "2003-07-01"
+publicatiedatum: 2003-07-01
+laatste_update: 2003-07-01
+status: geldig
+toestand: 2003-07-01
+bron: "https://wetten.overheid.nl/BWBR0015128"
+opgehaald: 2026-08-07
 ---
+
 # Procedures voor totstandkoming en bekendmaking rijksregelgeving
 
 ### I. Inleiding
@@ -40,7 +19,7 @@ Het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci
 
 Op ambtelijk niveau worden procedures gehanteerd ter uitvoering van deze Statuutbepalingen. Deze procedures zijn onder meer neergelegd in het rondschrijven van 14 september 1955 van de minister van Overzeese Rijksdelen1Kamerstukken II 1955/56, 4100 XIII, nr. 12, zie ook W.H. van Helsdingen, Het Statuut voor het Koninkrijk der Nederlanden. Wordingsgeschiedenis, commentaar en praktijk, 's-Gravenhage 1957, blz. 361, 362. en in het Draaiboek voor de wetgeving2Ministerie van Justitie, Draaiboek voor de wetgeving, Den Haag 2002.. Zij zijn ontstaan in de jaren direct na de totstandkoming van het [Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) en in de loop der jaren niet aan de stand der techniek aangepast of herzien. Gelet op de mogelijkheden die de informatietechnologie heden ten dage biedt, is het met name uit het oogpunt van efficiency wenselijk deze werkafspraken tegen het licht te houden en waar mogelijk verbeteringen aan te brengen. De wijzigingen zoals verwoord in deze circulaire hebben dan ook tot doel de procedures adequater en efficiënter te maken. Daarnaast wordt beoogd de informatievoorziening te verbeteren en de foutenkans te beperken.
 
-Met het oog op bovenbedoelde te bereiken verbeteringen heb ik het initiatief genomen tot herziening van de werkprocedures voor de totstandkoming van rijksregelgeving. Het resultaat van deze herziening is hieronder opgenomen. Omwille van de overzichtelijkheid worden deze procedures in de bij deze circulaire gevoegde bijlage tevens in schematische vorm weergegeven. In de tekst van deze circulaire zijn cijfers opgenomen die verwijzen naar het desbetreffende onderdeel in het schema. Aan de totstandkoming van deze circulaire is uitvoerig overleg voorafgegaan met het Kabinet der Koningin, de Kabinetten van de Gouverneurs van de Nederlandse Antillen en van Aruba, de griffies van de Tweede Kamer der Staten-Generaal, van de Staten van de Nederlandse Antillen, van de Staten van Aruba en de directies Wetgeving van de Nederlandse Antillen en van Aruba.
+Met het oog op bovenbedoelde te bereiken verbeteringen heb ik het initiatief genomen tot herziening van de werkprocedures voor de totstandkoming van rijksregelgeving. Het resultaat van deze herziening is hieronder opgenomen. Omwille van de overzichtelijkheid worden deze procedures in de bij deze circulaire gevoegde [bijlage](https://wetten.overheid.nl/BWBR0015128) tevens in schematische vorm weergegeven. In de tekst van deze circulaire zijn cijfers opgenomen die verwijzen naar het desbetreffende onderdeel in het schema. Aan de totstandkoming van deze circulaire is uitvoerig overleg voorafgegaan met het Kabinet der Koningin, de Kabinetten van de Gouverneurs van de Nederlandse Antillen en van Aruba, de griffies van de Tweede Kamer der Staten-Generaal, van de Staten van de Nederlandse Antillen, van de Staten van Aruba en de directies Wetgeving van de Nederlandse Antillen en van Aruba.
 
 Ten slotte wil ik erop wijzen dat de in deze circulaire neergelegde procedures vanzelfsprekend een aanpassing inhouden aan de huidige stand der techniek. Het is zeer wel mogelijk en zelfs waarschijnlijk dat technologische ontwikkelingen op den duur een nieuwe herziening van deze procedures wenselijk zullen maken.
 
@@ -78,10 +57,8 @@ De eerstverantwoordelijke minister levert de digitale tekst van de te publiceren
 
 ### A. Rijksregelgeving
 
-Overeenkomstig het verzoek dat de Minister van Binnenlandse Zaken en Koninkrijksrelaties eerder (zie onder IV) heeft gedaan, zenden de wetgevingsdirecties na de bekendmaking alle gepubliceerde rijksregelgeving, indien digitaal beschikbaar in digitale vorm, aan de Gouverneurs en in kopie aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties, ter attentie van de directie Constitutionele Zaken en Wetgeving op bovenvermeld adres (10). De Minister van Binnenlandse Zaken en Koninkrijksrelaties geleidt dit document door naar de voor deze wetgeving eerstverantwoordelijke minister (11). Met het ontvangen van het officiële publicatieblad wordt de Minister van Binnenlandse Zaken en Koninkrijksrelaties van zijn taak ontheven.
+Overeenkomstig het verzoek dat de Minister van Binnenlandse Zaken en Koninkrijksrelaties eerder (zie onder [IV](https://wetten.overheid.nl/BWBR0015128)) heeft gedaan, zenden de wetgevingsdirecties na de bekendmaking alle gepubliceerde rijksregelgeving, indien digitaal beschikbaar in digitale vorm, aan de Gouverneurs en in kopie aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties, ter attentie van de directie Constitutionele Zaken en Wetgeving op bovenvermeld adres (10). De Minister van Binnenlandse Zaken en Koninkrijksrelaties geleidt dit document door naar de voor deze wetgeving eerstverantwoordelijke minister (11). Met het ontvangen van het officiële publicatieblad wordt de Minister van Binnenlandse Zaken en Koninkrijksrelaties van zijn taak ontheven.
 
 ### B. Landsregelgeving
 
 De wetgevingsdirecties zenden een exemplaar van het Publicatieblad van de Nederlandse Antillen of de Curaçaosche Courant respectievelijk van het Afkondigingsblad van Aruba van de gepubliceerde tekst van alle vastgestelde landsverordeningen en landsbesluiten, houdende algemene maatregelen aan de Gouverneurs (12). Op grond van artikel 22, van de Reglementen van de Gouverneurs dragen de Gouverneurs zorg voor doorgeleiding van dit exemplaar aan de Koningin (13). Het Kabinet der Koningin zendt de ontvangen wetgeving vervolgens ter behandeling door aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, ter attentie van de directie Constitutionele Zaken en Wetgeving (14).
-
-## Bijlage

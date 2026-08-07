@@ -1,49 +1,27 @@
 ---
 title: "Instelling Projectdirectie De Maaswerken 1"
 identifier: "BWBR0015107"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-12-22"
-last_updated: "2009-12-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015107"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4712073"
-version_id: "16980022"
-internal_id: "C23415191"
-label_id: "4690324"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015107/2009-12-22/0"
-intitule_bron: "Stcrt.2003-101"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-22"
-intitule_published: "2003-05-27"
-intitule_in_force: "2003-05-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20157"
-original_signed_date: "2009-12-18"
-original_published_date: "2009-12-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2009-20157"
-entry_into_force_date: "2009-12-18"
-jci_1_3: "jci1.3:c:BWBR0015107&z=2009-12-22&g=2009-12-22"
-jci_1_0: "1.0:c:BWBR0015107&g=2009-12-22"
-citeertitel_status: "redactioneel"
-signed_date: "2009-12-18"
-entry_into_force: "2009-12-18"
+publicatiedatum: 2009-12-18
+laatste_update: 2009-12-22
+status: geldig
+toestand: 2009-12-22
+bron: "https://wetten.overheid.nl/BWBR0015107"
+opgehaald: 2026-08-07
 ---
+
 # Instelling Projectdirectie De Maaswerken 1
-
-Gelet op [artikel 8 van het Organiek Besluit Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0002743&artikel=8);
-
-Besluit:
 
 ##### Artikel 1. Instelling
 
 1. Er is een Projectdirectie De Maaswerken, in dit besluit te noemen: de projectdirectie.
 
 2. De projectdirectie maakt deel uit van het Directoraat-Generaal Rijkswaterstaat.
+
+##### Artikel 1a
+
+Dit besluit berust mede op [artikel 2, tweede lid, van het Instellingsbesluit directoraat generaal Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=2).
 
 ##### Artikel 2. Taak
 
@@ -76,7 +54,3 @@ De projectdirectie bestaat uit:
 ##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant, waarin het wordt geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op [artikel 2, tweede lid, van het Instellingsbesluit directoraat generaal Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=2).

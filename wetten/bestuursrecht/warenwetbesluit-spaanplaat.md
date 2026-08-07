@@ -5,11 +5,11 @@ identifier: "BWBR0004021"
 categorie: "Overig"
 soort: "AMvB"
 publicatiedatum: 2019-12-18
-laatste_update: 2020-01-21
+laatste_update: 2026-08-07
 status: geldig
-toestand: 2020-01-21
+toestand: 2026-08-07
 bron: "https://wetten.overheid.nl/BWBR0004021"
-opgehaald: 2026-07-30
+opgehaald: 2026-08-07
 ---
 
 # Besluit van 26 augustus 1986, houdende regelen met betrekking tot spaanplaat
@@ -28,7 +28,7 @@ Dit besluit is van toepassing op spaanplaat en spaanplaat bevattende artikelen.
 
 ##### Artikel 3
 
-Spaanplaat, met uitzondering van spaanplaat voorkomende in meubelen en spaanplaat die kennelijk is bestemd om bedrijfsmatig in meubelen te worden verwerkt, mag niet meer dan 10 mg formaldehyde per 100 g plaatmateriaal bevatten, gemeten volgens de door het Comité Européen de Normalisation uitgegeven norm EN 120 van januari 1984.
+*Vervallen*
 
 ##### Artikel 4
 

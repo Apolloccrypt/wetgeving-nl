@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 6 december 2002, houdende regels ter uitvoering van de Mijnbouwwet (Mijnbouwbesluit)"
+citeertitel: "Mijnbouwbesluit"
 identifier: "BWBR0014394"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014394"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "3262123"
-version_id: "29376152"
-internal_id: "C41910981"
-label_id: "3244714"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014394/2026-01-01/0"
-intitule_bron: "Stb.2002-604"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-06"
-intitule_published: "2002-12-24"
-intitule_in_force: "2002-12-17"
-intitule_status: "goed"
-original_publication: "Stb.2023-139"
-original_signed_date: "2023-04-18"
-original_published_date: "2023-04-25"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2023-139"
-entry_into_force_date: "2023-04-18"
-jci_1_3: "jci1.3:c:BWBR0014394&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0014394&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Mijnbouwbesluit"
-signed_date: "2023-04-18"
-entry_into_force: "2023-04-18"
+publicatiedatum: 2023-04-18
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0014394"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 6 december 2002, houdende regels ter uitvoering van de Mijnbouwwet (Mijnbouwbesluit)
-
-Op de voordracht van Onze Minister van Economische Zaken van 30 augustus 2002, nr. WJZ 02042889;
-
-Gelet op bijlage 14, deel II, bij het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Stb. 1947, 165), het op 30 november 1990 te Londen tot stand gekomen Internationaal Verdrag inzake de voorbereiding op, de bestrijding van en de samenwerking bij olieverontreiniging (Trb. 1992, 1), het op 22 september 1992 te Parijs tot stand gekomen [Verdrag inzake de bescherming van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan](onbekend) (Trb. 1993, 141), het op 2 november 1973 te Londen tot stand gekomen [Internationaal Verdrag ter voorkoming van verontreiniging door schepen](onbekend) (Trb. 1978, 188), de [artikelen 1, onderdelen n en o](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=19), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25), [35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=35), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=39), [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=41), [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=43), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=49), [52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=52), [123, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=123), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=130), [135, vierde lid, onderdeel a, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=135), [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=136), [139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=139), [141, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=141), [151](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=151) en [190 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=190), alsmede [artikel 99, tweede lid, van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=99);
-
-De Raad van State gehoord (advies van 22 oktober 2002, nr. W10.02.0387/II);
-
-Gezien het nader rapport van de Staatssecretaris van Economische Zaken van 3 december 2002, nr. WJZ 02057343;
-
-Hebben goedgevonden en verstaan:
-
-[Treedt in werking op het tijdstip waarop de Mijnbouwwet in werking treedt.]
 
 ### Hoofdstuk 1. Algemeen
 
@@ -88,11 +54,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. werken voor het opslaan van stoffen en het terughalen van opgeslagen stoffen met uitzondering van:
 
-- 1°. water ten behoeve van het opslaan van warmte of koude op een diepte van ten hoogste van 500 meter;
+   - 1°. water ten behoeve van het opslaan van warmte of koude op een diepte van ten hoogste van 500 meter;
 
-- 2°. water ten behoeve van openbare drinkwatervoorziening als bedoeld in de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338);
+   - 2°. water ten behoeve van openbare drinkwatervoorziening als bedoeld in de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338);
 
-- 3°. grondwater en brijn dat zonder toevoeging van stoffen wordt teruggevoerd in hetzelfde gebied waarin het is gewonnen naar een diepte van ten hoogste 500 meter;
+   - 3°. grondwater en brijn dat zonder toevoeging van stoffen wordt teruggevoerd in hetzelfde gebied waarin het is gewonnen naar een diepte van ten hoogste 500 meter;
 
 - d. werken voor het bewerken van gewonnen delfstoffen of aardwarmte voor het punt van aflevering aan de afnemer;
 
@@ -118,7 +84,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De uitvoerder of de uitvoerder aardwarmte stelt een werkplan vast waarin alle in een vergunningsgebied uit te voeren mijnbouwactiviteiten staan vermeld.
 
-2. Het werkplan is een jaarlijks voortschrijdend vijfjarenplan. De uitvoerder of de uitvoerder aardwarmte dient het plan in bij de inspecteur-generaal der mijnen binnen vier weken na verlening van een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) of [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) en vervolgens jaarlijks voor 1 november van het jaar, voorafgaand aan het eerste kalenderjaar waarop het plan betrekking heeft.
+2. Het werkplan is een jaarlijks voortschrijdend vijfjarenplan. De uitvoerder of de uitvoerder aardwarmte dient het plan in bij de inspecteur-generaal der mijnen binnen vier weken na verlening van een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) of [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) en vervolgens jaarlijks voor 1 november van het jaar, voorafgaand aan het eerste kalenderjaar waarop het plan betrekking heeft.
 
 3. Ingrijpende afwijkingen van de in het eerste kalenderjaar opgenomen mijnbouwactiviteiten waarop het desbetreffende werkplan betrekking heeft, worden tenminste vier weken voor de verrichting van de desbetreffende activiteit ter kennis gebracht van de inspecteur-generaal der mijnen.
 
@@ -202,37 +168,37 @@ Deze paragraaf is van toepassing op een verkenningsonderzoek in oppervlaktewater
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 #### § 2.3. Bijzondere regels voor verkenningsonderzoek in oppervlaktewater
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 #### § 2.4. Gebruik ontplofbare stoffen bij verkenningsonderzoek
 
@@ -360,9 +326,9 @@ De onderdelen m tot en met s zijn niet van toepassing op voorkomens die gelegen 
 
 - g. een risico-analyse omtrent bodembeweging als gevolg van de opslag.
 
-2. [Artikel 24, eerste lid, onderdelen d tot en met g, en onderdelen l, q, r en s](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2026-01-01&g=2026-01-01), alsmede [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing, met dien verstande dat het [eerste lid, onderdeel g, en de onderdelen q, r en s](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2026-01-01&g=2026-01-01) niet van toepassing zijn op voorkomens die gelegen zijn aan de zeezijde van de lijn die in de [bijlage bij de wet](onbekend) is vastgelegd.
+2. [Artikel 24, eerste lid, onderdelen d tot en met g, en onderdelen l, q, r en s](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2026-01-01&g=2026-01-01), alsmede [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing, met dien verstande dat het [eerste lid, onderdeel g, en de onderdelen q, r en s](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2026-01-01&g=2026-01-01) niet van toepassing zijn op voorkomens die gelegen zijn aan de zeezijde van de lijn die in de bijlage bij de wet is vastgelegd.
 
-3. Dit artikel is niet van toepassing indien [§ 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&z=2026-01-01&g=2026-01-01) van dit besluit van toepassing is.
+3. Dit artikel is niet van toepassing indien [§ 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&z=2026-01-01&g=2026-01-01) van dit besluit van toepassing is.
 
 ##### Artikel 27
 
@@ -382,11 +348,11 @@ De in [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - b. stoffen die gebruikt worden voor:
 
-- 1°. het opsporen en winnen van delfstoffen en aardwarmte;
+   - 1°. het opsporen en winnen van delfstoffen en aardwarmte;
 
-- 2°. het opslaan van stoffen, waarvoor een vergunning op basis van [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) vereist is, of
+   - 2°. het opslaan van stoffen, waarvoor een vergunning op basis van [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) vereist is, of
 
-- 3°. het aanleggen van een boorgat dieper dan 500 meter beneden de oppervlakte van de aardbodem, buiten de in de onderdelen 1° en 2° bedoelde gevallen;
+   - 3°. het aanleggen van een boorgat dieper dan 500 meter beneden de oppervlakte van de aardbodem, buiten de in de onderdelen 1° en 2° bedoelde gevallen;
 
 - c. stoffen die met de activiteiten, genoemd in onderdeel b, onder 1°, 2° en 3°, onvermijdelijk boven de oppervlakte meekomen, en worden teruggebracht in hetzelfde of een vergelijkbaar voorkomen als waaruit deze afkomstig zijn;
 
@@ -396,13 +362,543 @@ De in [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - f. water ten behoeve van openbare drinkwatervoorziening als bedoeld in de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338);
 
-- g. grondwater en brijn dat zonder toevoeging van stoffen wordt teruggevoerd in hetzelfde gebied waarin het is gewonnen naar een diepte van ten hoogste 500 meter.
+- g. grondwater en brijn dat zonder toevoeging van stoffen wordt teruggevoerd in hetzelfde gebied waarin het is gewonnen naar een diepte van ten hoogste 500 meter.
 
 #### § 3.4. Nadere regelen
 
 ##### Artikel 29
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de inhoud van het winningsplan, bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2026-01-01&g=2026-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2026-01-01&g=2026-01-01), en het plan voor het opslaan van stoffen als bedoeld in [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.2&artikel=26&z=2026-01-01&g=2026-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.2&artikel=27&z=2026-01-01&g=2026-01-01).
+
+#### § 3.5. Aanvullende bepalingen voor permanent opslaan en transport van CO2
+
+##### Artikel 29a
+
+In deze paragraaf wordt verstaan onder:
+
+- a. *lekkage:* het weglekken van CO2 uit het CO2-opslagvoorkomen;
+
+- b. *significant risico:* een combinatie van een waarschijnlijkheid van het zich voordoen van schade en een omvang van schade die niet kan worden genegeerd;
+
+- c. *significante onregelmatigheid:* een onregelmatigheid bij de injectie- of opslagwerkzaamheden of in de toestand van het CO2-opslagcomplex zelf die het risico van lekkage doet ontstaan of een risico voor het milieu of de volksgezondheid oplevert;
+
+- d. *richtlijn nr. 2009/31/EG:* richtlijn nr. 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 (PbEG L 140) van het Europese Parlement en de Raad.
+
+##### Artikel 29b
+
+Bij ministeriële regeling kunnen voor een vergunning voor permanent opslaan van CO2 regels worden gesteld omtrent:
+
+- a. het tijdvak van injectie van CO2 en het gebied;
+
+- b. de ligging en begrenzing van het opslagvoorkomen en het gebied van het opslagcomplex;
+
+- c. gegevens met betrekking tot de hydraulische eenheid;
+
+- d. voorschriften voor het opslagproces;
+
+- e. de totale hoeveelheid CO2 die overeenkomstig de vergunning ten hoogste kan worden opgeslagen;
+
+- f. de grenswaarden van de druk van de opgeslagen CO2;
+
+- g. de maximum toelaatbare snelheid en druk bij injectie van CO2 en de maximaal toelaatbare druk van het opgeslagen CO2.
+
+##### Artikel 29c
+
+1. Onze Minister verbindt aan de vergunning voor permanent opslaan van CO2 het voorschrift risicobeheer als bedoeld in [artikel 31d, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31d), op te nemen in een risicobeheerplan.
+
+2. Het risicobeheerplan bevat ten minste een beschrijving van maatregelen te nemen om het risico van een significante onregelmatigheid en de mogelijke gevolgen daarvan zoveel mogelijk te beperken en voldoet aan Bijlage I, fase 3.3. van de richtlijn nr. 2009/31/EG.
+
+##### Artikel 29d
+
+1. Onze Minister verbindt aan de vergunning voor permanent opslaan van CO2 het voorschrift corrigerende maatregelen als bedoeld in [artikel 31d, eerste lid, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31d) uit te voeren volgens een plan.
+
+2. Het plan bevat ten minste een beschrijving van maatregelen om tijdens de injectie van CO2 en gedurende de verdere opslag significante onregelmatigheden te corrigeren of lekken te dichten teneinde lekkage te voorkomen of te doen ophouden.
+
+##### Artikel 29e
+
+1. De uitvoerder neemt onmiddellijk passende maatregelen op basis van het plan, bedoeld in [artikel 29d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29d&z=2026-01-01&g=2026-01-01), zodra zich een lekkage of significante onregelmatigheid voordoet.
+
+2. Zodra zich een significante onregelmatigheid of lekkage voordoet, meldt de uitvoerder dit onmiddellijk bij de inspecteur-generaal der mijnen en verstrekt hem zo spoedig mogelijk gegevens over:
+
+- a. de oorzaken van de significante onregelmatigheid of lekkage;
+
+- b. de aard en de ernst van de gevolgen van de significante onregelmatigheid of lekkage;
+
+- c. de maatregelen die zijn genomen of worden overwogen om de significante onregelmatigheid of lekkage te voorkomen, te beperken of ongedaan te maken;
+
+- d. de maatregelen die worden overwogen om te voorkomen dat een significante onregelmatigheid of een lekkage zich nogmaals kan voordoen.
+
+3. In geval van een lekkage of significante onregelmatigheid die een lekkagerisico inhoudt, stelt de uitvoerder de Nederlandse emissieautoriteit daarvan onmiddellijk op de hoogte.
+
+##### Artikel 29f
+
+1. Onze Minister verbindt aan de vergunning voor permanent opslaan van CO2 het voorschrift monitoring als bedoeld in [artikel 31d, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31d) uit te voeren volgens het monitoringsplan.
+
+2. Het monitoringsplan omvat de wijze van de monitoring van:
+
+- a. de injectiefaciliteiten,
+
+- b. het opslagcomplex en
+
+- c. het milieu in de directe nabijheid van het opslagcomplex, en is in overeenstemming met Bijlage II, onderdeel 1.1., van de richtlijn nr. 2009/31/EG.
+
+3. Het monitoringsplan heeft betrekking op de periode die aanvangt op het tijdstip van inwerkingtreding van een vergunning voor het permanent opslaan van CO2 en eindigt op het tijdstip waarop de vergunning op grond van [artikel 31j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31j) wordt ingetrokken.
+
+4. De keuze van de monitoringstechnologie in het monitoringsplan wordt gebaseerd op de beste praktijken die bij het opstellen van de ontwerp-vergunning beschikbaar zijn.
+
+5. Voorts wordt aan de vergunning het voorschrift verbonden het monitoringsplan drie maanden voor aanvang van de injectie van CO2 te actualiseren en om de vijf jaar te actualiseren op basis van wijzigingen in het beoordeelde lekkagerisico, wijzigingen in de beoordeelde risico’s voor het milieu en de volksgezondheid, nieuwe wetenschappelijk kennis en verbeteringen inzake de beste beschikbare techniek. Het geactualiseerde monitoringsplan wordt ter goedkeuring voorgelegd aan Onze Minister. De monitoring wordt uitgevoerd volgens het goedgekeurde monitoringsplan.
+
+##### Artikel 29g
+
+1. Het document, bedoeld in [artikel 31i, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31i) met betrekking tot afsluiting bevat ten minste:
+
+- 1°. voor zover het mijnbouwwerken, niet zijnde mijnbouwinstallaties, betreft:
+
+   - a. een werkprogramma voor het buiten gebruik stellen van de boorgaten;
+
+   - b. een beschrijving van de wijze waarop bij het mijnbouwwerk behorend materiaal zal worden afgevoerd;
+
+   - c. een beschrijving van op het mijnbouwwerk aanwezige afvalstoffen en de bestemming ervan;
+
+   - d. een beschrijving van de maatregelen die worden genomen ter voorkoming van schade;
+
+   - e. een beschrijving van de maatregelen die worden genomen om het terrein waarop het mijnbouwwerk is opgericht in de oorspronkelijke staat terug te brengen.
+
+- 2°. voor zover het mijnbouwinstallaties betreft:
+
+   - a. een werkprogramma voor het buiten gebruik stellen van de boorgaten;
+
+   - b. de wijze waarop het verwijderen van de mijnbouwinstallatie en van schroot en ander materiaal als bedoeld in [artikel 44, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44) plaats zal vinden;
+
+   - c. de wijze waarop zal worden aangetoond dat de plaats waarop de mijnbouwinstallatie op de zeebodem stond vrij van schroot en ander materiaal is;
+
+   - d. de wijze waarop de mijnbouwinstallatie en het schroot en ander materiaal zal worden afgevoerd;
+
+   - e. de eindbestemming van de mijnbouwinstallatie, de onderdelen ervan en schroot en ander materiaal en
+
+   - f. de op de mijnbouwinstallatie aanwezige afvalstoffen en andere stoffen en de eindbestemming daarvan.
+
+2. Voorts bevat het plan gegevens omtrent de tijdstippen waarop de onderdelen van de afsluiting worden uitgevoerd.
+
+##### Artikel 29h
+
+1. Onze Minister verbindt aan de vergunning voor permanent opslaan van CO2 het voorschrift activiteiten ter voorkoming of beperking van schade door bodembeweging als bedoeld in [artikel 31d, eerste lid, onderdeel l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31d) uit te voeren volgens een plan.
+
+2. Het plan omvat ten minste:
+
+- a. een kaart met daarop de contouren van de verwachte uiteindelijke mate van bodemdaling of -stijging,
+
+- b. een overzicht met het verloop van de verwachte mate van bodemdaling of -stijging in de tijd,
+
+- c. een opgaaf van de onzekerheid omtrent de verwachte mate van bodembeweging als bedoeld in de onderdelen b en c,
+
+- d. een risico-analyse omtrent bodemtrillingen als gevolg van de opslag,
+
+- e. een beschrijving van de mogelijk omvang en verwachte aard van de schade door bodembeweging,
+
+- f. een beschrijving van de maatregelen die worden genomen om bodembeweging te voorkomen of te beperken, en
+
+- g. een beschrijving van de maatregelen die worden genomen om schade door bodembeweging te voorkomen of te beperken.
+
+3. Dit artikel is niet van toepassing op opslagvoorkomens die gelegen zijn aan de zeezijde van de lijn die in de [bijlage bij de wet](https://wetten.overheid.nl/BWBR0014168)is vastgelegd.
+
+##### Artikel 29i
+
+1. Het is verboden bij het permanent opslaan van CO2 en het transporteren van CO2 door een transportnetwerk als bedoeld in [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=32)naast CO2 andere stoffen op te slaan en te transporteren dan:
+
+- a. incidentele aanverwante stoffen, afkomstig uit de CO2-bron of het afvang- of injectieproces,
+
+- b. stoffen die nodig zijn voor transport of opslag in het opslagvoorkomen of
+
+- c. spoorelementen die aan het CO2 zijn toegevoegd als hulpmiddel bij het monitoren en het controleren van de beweging van CO2 binnen het CO2-opslagcomplex.
+
+2. De concentratie van de stoffen, bedoeld in het eerste lid, onderdelen a tot en met c, mag geen niveaus overschrijden die de integriteit van het opslagvoorkomen of het relevante transportnetwerk in het gedrang brengen of een significant risico voor het milieu of de volksgezondheid vormen.
+
+3. Het CO2 en de stoffen, bedoeld in het eerste lid, onderdelen a tot en met c, worden niet eerder opgeslagen dan nadat de uitvoerder heeft vastgesteld dat deze voldoen aan het tweede lid.
+
+##### Artikel 29j
+
+1. De vergunning bepaalt het bedrag waarvoor financiële zekerheid wordt gesteld voor het jaar waarin injectie volgens de aanvraag zal aanvangen en voor elk van de daaropvolgende vier jaren. Het bedrag voor het vierde jaar blijft voor opvolgende jaren van toepassing zolang het niet is aangepast.
+
+2. Het bedrag wordt per jaar vastgesteld op het totaal van:
+
+- a. een raming van de kosten van verwerving van broeikasgasemissierechten als bedoeld in [artikel 1.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), uitgaande van emissie als gevolg van ongecontroleerde uitstroom van CO2 gedurende de laatste drie maanden van het desbetreffende jaar;
+
+- b. een raming van de kosten van de uitvoering van het risicobeheerplan, genoemd in [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29c&z=2026-01-01&g=2026-01-01), uitgaande van uitvoering gedurende twee jaar;
+
+- c. een raming van de kosten van het nemen van de maatregel of maatregelen uit het plan met betrekking tot corrigerende maatregelen, bedoeld in [artikel 29d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29d&z=2026-01-01&g=2026-01-01), uitgaande van de meest ingrijpende in het plan voorziene maatregel of maatregelen;
+
+- d. een raming van de tot intrekking van de vergunning nog te maken kosten van uitvoering van het monitoringsplan, genoemd in [artikel 29f](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29f&z=2026-01-01&g=2026-01-01), uitgaande van intrekking van de vergunning twintig jaar na afsluiting;
+
+- e. een raming van de kosten van uitvoering van het afsluitingsplan, bedoeld in [artikel 29g](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29g&z=2026-01-01&g=2026-01-01);
+
+- f. een raming van de financiële bijdrage, bedoeld in [artikel 31j, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31j).
+
+3. De vorm waarin de zekerheid wordt gesteld behoeft de voorafgaande instemming van Onze Minister. De vergunninghouder doet hiertoe ten minste zes maanden voordat de zekerheid gesteld zal worden een aanvraag. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag.
+
+4. Onze Minister stemt in indien de zekerheid  in zodanige vorm is gesteld dat naar het oordeel van Onze Minister vaststaat dat de Staat daarmee gedurende de gehele periode alle verplichtingen, bedoeld in het tweede lid, zo nodig ook zelf kan nakomen ten laste van de vergunninghouder. Onder financiële zekerheid in dit artikel wordt eveneens verstaan een uit oogpunt van zekerheid voor de Staat gelijkwaardige voorziening.
+
+5. Voor aanvang van injectie van CO2 toont de vergunninghouder Onze Minister aan dat de zekerheid in overeenstemming met de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)en dit artikel is gesteld.
+
+6. Onverminderd [artikel 31h, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31h), beziet Onze Minister op de voet van het tweede lid telkens na vijf jaar gerekend vanaf verlening van de vergunning de hoogte van het bedrag voor de eerstkomende vijf jaar. Het bedrag dat voor het laatste jaar in de vergunning is vastgesteld blijft voor opvolgende jaren van toepassing zolang het niet is aangepast. De vergunninghouder verstrekt Onze Minister uiterlijk drie maanden voor afloop van een vijfjaarstermijn de voor de ramingen, bedoeld in het tweede lid, benodigde gegevens vergezeld van adequate cijfermatige onderbouwing en toelichting.
+
+7. De vergunninghouder staakt injectie van CO2 zodra voortgaande injectie zou leiden tot een hoeveelheid opgeslagen CO2 die meer dan 15% hoger is dan de hoeveelheid die betrokken is in de raming, bedoeld in het tweede lid onder a, voor de vaststelling van de hoogte van het bedrag waarvoor op dat moment zekerheid is gesteld.
+
+8. Onze Minister kan bij ministeriële regeling nadere maatstaven voor raming van kosten als bedoeld in het tweede lid vaststellen.
+
+##### Artikel 29k
+
+De uitvoerder verstrekt Onze Minister jaarlijks voor 1 april:
+
+- a. de resultaten van de monitoring van het opgeslagen CO2 over het daaraan voorafgaande kalenderjaar met vermelding van de gebruikte technologie,
+
+- b. het bewijs dat financiële zekerheid of een gelijkwaardige voorziening is gesteld en aangehouden en
+
+- c. wijzigingen in de financiële en technische mogelijkheden van de vergunninghouder.
+
+##### Artikel 29l
+
+1. Indien de uitvoerder een verzoek doet om het intrekken van een vergunning voor permanent opslaan van CO2 als bedoeld in [artikel 31j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31j) overlegt hij aan Onze Minister:
+
+- a. gegevens waaruit blijkt dat het opgeslagen CO2 volledig en permanent ingesloten blijft,
+
+- b. een voorstel voor een financiële bijdrage als bedoeld in [artikel 31j, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31j) die de uitvoerder zal betalen bij de intrekking van de vergunning.
+
+2. De financiële bijdrage, bedoeld in het eerste lid, houdt rekening met de in bijlage I van de richtlijn 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 (PbEG L 140) van het Europese Parlement en de Raad bedoelde parameters en elementen inzake de voorgeschiedenis van de opslag van CO2 die relevant zijn voor het bepalen van de verplichtingen die na de overdracht gelden en dekt tenminste de geraamde monitoringskosten voor een periode van 30 jaar na het intrekken van de vergunning.
+
+##### Artikel 29m
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de [artikelen 29c tot en met 29h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29c&z=2026-01-01&g=2026-01-01), en [29i tot en met 29l](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29i&z=2026-01-01&g=2026-01-01).
+
+### Hoofdstuk 3a. Het opsporen en winnen van aardwarmte
+
+##### Artikel 29n
+
+In dit hoofdstuk wordt verstaan onder:
+
+- – *startvergunning:* een startvergunning aardwarmte;
+
+- – *toewijzing zoekgebied:* een toewijzing zoekgebied aardwarmte;
+
+- – *vervolgvergunning:* een vervolgvergunning aardwarmte.
+
+#### Paragraaf 3a.1. Toewijzing zoekgebied, startvergunning en vervolgvergunning
+
+##### Artikel 29o
+
+1. Onze Minister betrekt bij de beoordeling van een aanvraag voor een toewijzing zoekgebied in verband met het zicht op de financiering van de opsporing en winning in ieder geval de financiële omstandigheden van de aanvrager.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de grond, bedoeld in het eerste lid.
+
+##### Artikel 29p
+
+1. Onze Minister betrekt bij de beoordeling van een aanvraag voor een startvergunning in ieder geval:
+
+- a. in verband met onaanvaardbare risico’s voor de veiligheid van omwonenden in hoeverre wordt voldaan aan de norm voor het lokaal persoonlijk risico van maximaal 1 op de 100.000 per jaar dat een individu mag lopen in of nabij de verschillende bouwwerken waar dat individu verblijft, als gevolg van bodemtrilling door de opsporing en winning van aardwarmte;
+
+- b. in verband met de financiële mogelijkheden van de aanvrager:
+
+   - 1°. de financiële omstandigheden van de aanvrager;
+
+   - 2°. de wijze waarop de aanvrager voornemens is de kosten voor de opsporing en winning van aardwarmte en de daarbij behorende aansprakelijkheden en de kosten voor het geheel of gedeeltelijk buiten gebruik stellen van een boorgat tijdens of na afloop van de looptijd van de startvergunning te dragen;
+
+   - 3°. afspraken tussen de aanvrager en de uitvoerder aardwarmte over het dragen van de kosten voor de bij de opsporing en winning behorende aansprakelijkheden, indien deze zijn gemaakt.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de gronden, bedoeld in het eerste lid.
+
+##### Artikel 29q
+
+1. Onze Minister kan een aanvraag voor een startvergunning geheel of gedeeltelijk afwijzen:
+
+- a. indien het ontwerp van de put geen dubbele verbuizing bevat ter hoogte van de zoet en brak waterlagen, tenzij is aangetoond dat een alternatief ontwerp de putintegriteit ten minste even goed borgt als een dubbele verbuizing;
+
+- b. indien de aanvrager niet over een beheerssysteem en beheersplan voor de putintegriteit beschikt dat voldoet aan bij ministeriële regeling gestelde regels;
+
+- c. indien de integriteit van de afsluitende aardlagen niet voldoende is geborgd.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de gronden, bedoeld in het eerste lid.
+
+##### Artikel 29r
+
+[Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) is van toepassing op de voorbereiding van een besluit inzake een aanvraag voor een vervolgvergunning, indien ten opzichte van de startvergunning voorschriften of beperkingen zouden moeten worden verbonden met betrekking tot het beperken van het gevolg, effect of risico als bedoeld in [artikel 24ag, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ag).
+
+##### Artikel 29s
+
+1. Onze Minister betrekt bij de beoordeling van een aanvraag voor een vervolgvergunning in ieder geval:
+
+- a. in verband met onaanvaardbare risico’s voor de veiligheid van omwonenden in hoeverre wordt voldaan aan de norm voor het lokaal persoonlijk risico van maximaal 1 op de 100.000 per jaar dat een individu mag lopen in of nabij de verschillende bouwwerken waar dat individu verblijft, als gevolg van bodemtrilling door de winning van aardwarmte;
+
+- b. in verband met de financiële mogelijkheden van de aanvrager:
+
+   - 1°. de financiële omstandigheden van de aanvrager;
+
+   - 2°. de wijze waarop de aanvrager voornemens is de kosten voor de winning van aardwarmte en de daarbij behorende aansprakelijkheden en de kosten voor het geheel of gedeeltelijk buiten gebruik stellen van een boorgat tijdens of na afloop van de looptijd van de vervolgvergunning te dragen;
+
+   - 3°. afspraken tussen de aanvrager en de uitvoerder aardwarmte over het dragen van de kosten voor de bij de winning behorende aansprakelijkheden, indien deze zijn gemaakt.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de gronden, bedoeld in het eerste lid.
+
+##### Artikel 29t
+
+1. Onze Minister kan een aanvraag voor een vervolgvergunning geheel of gedeeltelijk afwijzen:
+
+- a. indien de put geen dubbele verbuizing bevat ter hoogte van de zoet en brak waterlagen, tenzij is aangetoond dat een alternatieve inrichting van de put de putintegriteit ten minste even goed borgt als een dubbele verbuizing;
+
+- b. indien de aanvrager niet over een operationeel beheerssysteem en beheersplan voor de putintegriteit beschikt dat voldoet aan bij ministeriële regeling gestelde regels;
+
+- c. indien de integriteit van de afsluitende aardlagen niet voldoende is geborgd.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de gronden, bedoeld in het eerste lid.
+
+##### Artikel 29u
+
+1. Onze Minister verbindt aan een startvergunning of vervolgvergunning voorschriften of beperkingen die betrekking hebben op:
+
+- a. de injectiedruk;
+
+- b. de injectietemperatuur;
+
+- c. het debiet;
+
+- d. het berekenen en beperken van scheurgroei in de afsluitende aardlagen;
+
+- e. het beheerssysteem en beheersplan voor de putintegriteit, bedoeld in de [artikelen 29q](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.1&artikel=29q&z=2026-01-01&g=2026-01-01) en [29t](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.1&artikel=29t&z=2026-01-01&g=2026-01-01);
+
+- f. het gebruik van mijnbouwhulpstoffen, indien van toepassing.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de gronden, bedoeld in het eerste lid.
+
+##### Artikel 29v
+
+1. Onze Minister bepaalt in een vergunning die betrekking heeft op aardlagen die zich geheel of gedeeltelijk bevinden onder een gebied dat is aangewezen voor de winning van drinkwater uit grondwater, het bedrag waarvoor financiële zekerheid ter dekking van de aansprakelijkheid voor de schade door verontreiniging van grondwater of bodem in verband met de opsporing en winning van aardwarmte wordt gesteld voor:
+
+- a. het jaar waarin de opsporing volgens de aanvraag voor de startvergunning zal aanvangen en voor het daaropvolgende jaar, indien het een startvergunning betreft;
+
+- b. het jaar waarin de vervolgvergunning wordt verleend en voor elk van de daaropvolgende vier jaren, indien het een vervolgvergunning betreft.
+
+2. Het bedrag wordt per jaar vastgesteld op het totaal van:
+
+- a. een raming van de kosten voor de monitoring en reactieve maatregelen met betrekking tot de beheersing van de putintegriteit;
+
+- b. een raming van de kosten voor het nemen van maatregelen voor de borging van de integriteit van de afsluitende aardlagen.
+
+3. Onze Minister bepaalt in de vergunning de vorm waarin de financiële zekerheid wordt gesteld. De financiële zekerheid wordt in zodanige vorm gesteld dat naar het oordeel van Onze Minister vaststaat dat de Staat daarmee gedurende de periode waarvoor zekerheid wordt gesteld, alle verplichtingen, bedoeld in het tweede lid, zo nodig ook zelf kan nakomen ten laste van de vergunninghouder.
+
+4. De houder van een startvergunning toont voor aanvang van de opsporing van aardwarmte aan Onze Minister aan dat de financiële zekerheid in overeenstemming met dit artikel is gesteld.
+
+5. De houder van een vervolgvergunning toont binnen zes maanden na de datum van het verlenen van de vervolgvergunning aan Onze Minister aan dat de financiële zekerheid in overeenstemming met dit artikel is gesteld en houdt het bedrag dat voor het laatste jaar in de startvergunning is vastgesteld, in stand tot dit moment.
+
+6. Onverminderd [artikel 24ab, tweede lid, onderdeel b, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ab) blijft het bedrag dat voor het laatste jaar in de startvergunning is vastgesteld, van toepassing voor opvolgende jaren gedurende de periode waarvoor de startvergunning geldt.
+
+7. Onverminderd [artikel 24ao, tweede lid, onderdeel b, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ao) beziet Onze Minister op de voet van het tweede lid telkens na vijf jaar gerekend vanaf de datum van het verlenen van de vervolgvergunning de hoogte van het bedrag per jaar voor de eerstkomende vijf jaar. Het bedrag dat voor het laatste jaar in de vervolgvergunning is vastgesteld blijft voor opvolgende jaren van toepassing zolang het niet is aangepast. De vergunninghouder verstrekt Onze Minister uiterlijk drie maanden voor afloop van een vijfjaarstermijn de voor de ramingen, bedoeld in het tweede lid, benodigde gegevens vergezeld van een adequate cijfermatige onderbouwing en toelichting.
+
+8. De vergunninghouder verstrekt ten minste elk jaar aan Onze Minister het bewijs dat financiële zekerheid is gesteld en aangehouden.
+
+9. Onze Minister kan bij ministeriële regeling nadere maatstaven voor de raming van de kosten, bedoeld in het tweede lid, vaststellen.
+
+##### Artikel 29w
+
+1. Onze Minister kan aan een startvergunning of vervolgvergunning voorschriften of beperkingen verbinden die betrekking hebben op:
+
+- a. de seismische risicoanalyse;
+
+- b. het meten, registreren en melden van bodembeweging als gevolg van de opsporing of winning van aardwarmte;
+
+- c. de wijze van handelen in geval van bodembeweging als gevolg van de opsporing of winning van aardwarmte.
+
+2. Onze Minister kan aan een startvergunning of vervolgvergunning in verband met de financiële mogelijkheden van de aanvrager voorschriften of beperkingen verbinden die betrekking hebben op:
+
+- a. de financiële omstandigheden van de aanvrager;
+
+- b. de wijze waarop de aanvrager voornemens is de kosten voor de opsporing of winning van aardwarmte en de daarbij behorende aansprakelijkheden en de kosten voor het geheel of gedeeltelijk buiten gebruik stellen van een boorgat tijdens of na afloop van de looptijd van de betreffende vergunning te dragen;
+
+- c. financiële zekerheden die gesteld dienen te worden ter dekking van de kosten voor de bij de opsporing of winning en de daarbij behorende aansprakelijkheden, anders dan de zekerheden, bedoeld in de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=46) en [47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=47), en [artikel 29v](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.1&artikel=29v&z=2026-01-01&g=2026-01-01). Deze voorschriften of beperkingen kunnen in ieder geval betrekking hebben op:
+
+   - 1°. de vorm en de omvang van de financiële zekerheden;
+
+   - 2°. het tijdstip van het stellen van financiële zekerheden;
+
+   - 3°. het melden van wijzigingen in de financiële zekerheden;
+
+- d. het melden van afspraken, of wijzigingen daarvan, tussen de aanvrager en de uitvoerder aardwarmte over het dragen van de kosten voor de bij de opsporing of winning behorende aansprakelijkheden, indien deze zijn gemaakt.
+
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de gronden, bedoeld in het eerste en tweede lid.
+
+##### Artikel 29x
+
+1. Indien meer aanvragen voor een toewijzing zoekgebied die zouden kunnen worden toegewezen, zijn ingediend, rangschikt Onze Minister een aanvraag hoger naarmate:
+
+- a. de aanvraag beter past binnen provinciale of gemeentelijke beleidsplannen ten aanzien van aardwarmte voor het betreffende gebied;
+
+- b. de realistisch te verwachten hoeveelheid te winnen aardwarmte groter is;
+
+- c. de aanvrager al eerder is gestart met winning van aardwarmte in een gebied dat grenst aan het betreffende gebied;
+
+- d. de aanvrager over ervaring met de ontwikkeling van aardwarmteactiviteiten of andere mijnbouwactiviteiten beschikt;
+
+- e. de kwaliteit van de aanvraag beter is.
+
+2. Bij ministeriële regeling worden nadere regels gesteld over de onderlinge weging van de rangschikkingscriteria, bedoeld in het eerste lid, en kunnen nadere regels worden gesteld over de procedure van de rangschikking en de rangschikkingscriteria.
+
+##### Artikel 29y
+
+1. Indien meer aanvragen voor een startvergunning die zouden kunnen worden toegewezen, zijn ingediend, rangschikt Onze Minister een aanvraag hoger naarmate:
+
+- a. de aanvraag beter past binnen provinciale of gemeentelijke beleidsplannen ten aanzien van aardwarmte voor het betreffende gebied;
+
+- b. de realistisch te verwachten hoeveelheid te winnen aardwarmte groter is;
+
+- c. de aanvrager al eerder is gestart met winning van aardwarmte in een gebied dat grenst aan het betreffende gebied;
+
+- d. de kwaliteit van de aanvraag beter is.
+
+2. Bij ministeriële regeling worden nadere regels gesteld over de onderlinge weging van de rangschikkingscriteria, bedoeld in het eerste lid, en kunnen nadere regels worden gesteld over de procedure van de rangschikking en de rangschikkingscriteria.
+
+#### Paragraaf 3a.2. De uitvoerder aardwarmte
+
+##### Artikel 29z
+
+1. Een aanvraag om instemming met de aanwijzing van de uitvoerder aardwarmte als bedoeld in [artikel 24z, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24z) bevat een beschrijving van de technische en financiële capaciteiten van de uitvoerder aardwarmte.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de aanvraag om instemming.
+
+##### Artikel 29aa
+
+1. Onze Minister weigert instemming met de aanwijzing van een uitvoerder aardwarmte, bedoeld in [artikel 24z, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24z), indien de technische of financiële capaciteiten van de uitvoerder niet toereikend zijn voor een goede uitvoering van de feitelijke werkzaamheden met betrekking tot de mijnbouwactiviteiten.
+
+2. Onze Minister betrekt bij de beoordeling van de technische capaciteiten van de uitvoerder aardwarmte in ieder geval:
+
+- a. de ervaring met mijnbouwactiviteiten waarover de uitvoerder aardwarmte beschikt;
+
+- b. de kennis over mijnbouwactiviteiten waarover de uitvoerder aardwarmte beschikt;
+
+- c. de verantwoordelijkheidszin, waarvan de uitvoerder aardwarmte eerder blijk heeft gegeven bij feitelijke werkzaamheden met betrekking tot mijnbouwactiviteiten onder een eerdere vergunning.
+
+3. Onze Minister betrekt bij de beoordeling van de financiële capaciteiten van de uitvoerder aardwarmte in ieder geval:
+
+- a. de financiële omstandigheden van de uitvoerder aardwarmte;
+
+- b. afspraken tussen de aanvrager van de startvergunning of de houder van de startvergunning of vervolgvergunning en de uitvoerder aardwarmte over het dragen van de kosten voor de bij de opsporing of winning behorende aansprakelijkheden, indien deze zijn gemaakt.
+
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de gronden, bedoeld in het tweede en derde lid.
+
+##### Artikel 29ab
+
+1. Onze Minister kan aan de instemming met de uitvoerder aardwarmte voorschriften of beperkingen verbinden die betrekking hebben op:
+
+- a. de financiële omstandigheden van de uitvoerder aardwarmte;
+
+- b. financiële zekerheden die gesteld dienen te worden ter dekking van de kosten voor de opsporing of winning en de daarbij behorende aansprakelijkheden. Deze voorschriften of beperkingen kunnen betrekking hebben op:
+
+   - 1°. de vorm en de omvang van de financiële zekerheden;
+
+   - 2°. het tijdstip van het stellen van financiële zekerheden;
+
+   - 3°. het melden van wijzigingen in de financiële zekerheden;
+
+- c. het melden van afspraken, of wijzigingen daarvan, tussen de aanvrager van de startvergunning of de houder van de startvergunning of vervolgvergunning en de uitvoerder aardwarmte over het dragen van de kosten voor de bij de opsporing of winning behorende aansprakelijkheden, indien deze zijn gemaakt.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de instemming.
+
+#### Paragraaf 3a.3. Deelneming in opsporing en winning van aardwarmte
+
+##### Artikel 29ac
+
+In deze paragraaf wordt verstaan onder:
+
+- – *overeenkomst:* een overeenkomst als bedoeld in [artikel 86a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=86a), die een overeenkomst van samenwerking is;
+
+- – *de vennootschap:* de vennootschap, bedoeld in [artikel 82, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=82);
+
+- – *vergunninghouder:* de houder van een toewijzing zoekgebied, startvergunning of vervolgvergunning.
+
+##### Artikel 29ad
+
+In de overeenkomst worden bepalingen die ertoe strekken dat ten behoeve van de voorgenomen opsporings- en winningswerkzaamheden wordt samengewerkt, opgenomen, waarbij:
+
+- a. de vennootschap voor 20% belang neemt, tenzij met de vergunninghouder een hoger percentage van ten hoogste 40% wordt overeengekomen;
+
+- b. de vergunninghouder het resterende belang neemt;
+
+- c. de waarde van de werken die door het doen van de in [artikel 29ag, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ag&z=2026-01-01&g=2026-01-01), bedoelde investeringen tot stand zijn gekomen en de opbrengst van de winning van aardwarmte in verhouding tot ieders belang in de samenwerking toebehoren aan de vergunninghouder en de vennootschap;
+
+- d. de vergunninghouder en de vennootschap ten behoeve van de samenwerking, in verhouding tot ieders belang in de samenwerking, de middelen verstrekken die bestemd zijn voor het doen van de uitgaven, bedoeld in [artikel 29ag, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ag&z=2026-01-01&g=2026-01-01);
+
+- e. op de overeenkomst Nederlands recht van toepassing is.
+
+##### Artikel 29ae
+
+In de overeenkomst wordt het bedrag vastgesteld van de door de houder van de toewijzing zoekgebied reeds gemaakte kosten die naar redelijkheid kunnen worden toegeschreven aan activiteiten en investeringen ten behoeve van de voorgenomen opsporings- en winningswerkzaamheden.
+
+##### Artikel 29af
+
+In de overeenkomst worden bepalingen opgenomen die de vergunninghouder ertoe verplichten:
+
+- a. de voor hem uit de vergunning voortvloeiende rechten uit te oefenen ten behoeve van de samenwerking en overeenkomstig de gezamenlijke besluiten die met inachtneming van [artikel 29ah](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ah&z=2026-01-01&g=2026-01-01) zijn genomen door de vergunninghouder en de vennootschap;
+
+- b. zijn kennis en ervaring op het gebied van opsporing, winning en afzet van aardwarmte aan de samenwerking ten goede te doen komen.
+
+##### Artikel 29ag
+
+In de overeenkomst worden bepalingen opgenomen die de vennootschap ertoe verplichten:
+
+- a. aan de vergunninghouder te vergoeden het percentage, gelijk aan het belang van de vennootschap in de samenwerking, van de uitgaven van de vergunninghouder die in overeenstemming met [artikel 29ah](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ah&z=2026-01-01&g=2026-01-01) zijn goedgekeurd of in overeenstemming zijn met een goedgekeurd jaarlijks investerings- en financieringsplan;
+
+- b. niet te beletten dat besluiten van de vergunninghouder gebaseerd worden op normale commerciële overwegingen;
+
+- c. zijn stem bij de besluitvorming volgens [artikel 29ah](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ah&z=2026-01-01&g=2026-01-01) uit te brengen op grond van transparantie, objectieve en niet-discriminerende beginselen;
+
+- d. aan de houder van de toewijzing zoekgebied terstond te vergoeden het percentage, gelijk aan het belang van de vennootschap in de samenwerking, van het bedrag, bedoeld in [artikel 29ae](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ae&z=2026-01-01&g=2026-01-01), vermeerderd met een enkelvoudige rente, waarvan het percentage gelijk is aan dat van de wettelijke rente, over een tijdvak van ten hoogste vijf jaar, te rekenen vanaf het tijdstip waarop de desbetreffende kosten zijn gemaakt;
+
+- e. de informatie als bedoeld in [artikel 29ai, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ai&z=2026-01-01&g=2026-01-01), die de vennootschap voornemens is openbaar te maken, ter goedkeuring voor te leggen aan de vergunninghouder waarbij de vergunninghouder binnen een in de overeenkomst overeengekomen termijn bezwaar kan maken tegen openbaarmaking van die informatie.
+
+##### Artikel 29ah
+
+In de overeenkomst worden bepalingen opgenomen die ertoe strekken dat:
+
+- a. een gezamenlijk besluit van de vergunninghouder en de vennootschap wordt genomen in een vergadering, waarin de vergunninghouder en de vennootschap zich door een schriftelijk gevolmachtigde kunnen laten vertegenwoordigen;
+
+- b. een gezamenlijk besluit van de vergunninghouder en de vennootschap, in afwijking van onderdeel a, buiten vergadering kan worden genomen, mits de vergunninghouder en de vennootschap hier beide mee instemmen en dit gebeurt bij een gezamenlijke schriftelijke verklaring of bij een gelijkluidende schriftelijke verklaring van de vergunninghouder en de vennootschap, door deze of hun gevolmachtigde vertegenwoordigers ondertekend;
+
+- c. de vergunninghouder en de vennootschap bij gezamenlijke besluiten een stem hebben in verhouding tot ieders belang in de samenwerking;
+
+- d. een gezamenlijk besluit van de vergunninghouder en de vennootschap, waarbij in afwijking van onderdeel c de vergunninghouder en de vennootschap elk een beslissende stem hebben, vereist is voor:
+
+   - 1°. het jaarlijkse investerings- en financieringsplan;
+
+   - 2°. activiteiten en aanschaffingen die niet in het jaarlijkse investerings- en financieringsplan zijn opgenomen, en die een bedrag van € 500 000 te boven gaan of die 10% of meer van het totale bedrag van de in dat plan opgenomen uitgaven bedragen, indien het gaat om een bedrag van minder dan € 500 000;
+
+   - 3°. de meerjarenplanning ten aanzien van de voorgenomen opsporings- en winningswerkzaamheden binnen het vergunningsgebied;
+
+   - 4°. het aangaan, wijzigen of beëindigen van duurzame samenwerking met derden ter zake van opsporing en winning;
+
+   - 5°. het aangaan en wijzigen van verplichtingen tot levering van aardwarmte;
+
+   - 6°. het voortbestaan van de opsporings- of winningswerkzaamheden.
+
+##### Artikel 29ai
+
+1. In de overeenkomst worden in verband met de kennisdeling en -borging bepalingen opgenomen met betrekking tot:
+
+- a. de totstandkoming van het putontwerp;
+
+- b. de keuze voor de locatie van boorgaten;
+
+- c. het vastleggen en verstrekken van informatie omtrent de organisatie en de uitvoering van de opsporings- en winningswerkzaamheden;
+
+- d. de aanwijzing van de informatie die de vennootschap overeenkomstig [artikel 29ag, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ag&z=2026-01-01&g=2026-01-01), ter goedkeuring aan de vergunninghouder dient voor te leggen, voordat deze openbaar wordt gemaakt.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de onderwerpen, bedoeld in het eerste lid.
+
+##### Artikel 29aj
+
+De vergunninghouder neemt geen besluit, inhoudende bij wie opdrachten worden geplaatst voor leveringen, voor het uitvoeren van werken of voor het verrichten van diensten, indien aannemelijk is dat dit besluit leidt tot financieel nadeel voor de vennootschap.
+
+##### Artikel 29ak
+
+1. Onze Minister kan ambtshalve of op gemotiveerd verzoek van de vennootschap of de houder van de toewijzing zoekgebied bepalen dat de verplichting, bedoeld in [artikel 86a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=86a) niet geldt.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld over het verzoek, bedoeld in het eerste lid.
 
 ### Hoofdstuk 4. Het meten van bodembeweging
 
@@ -420,7 +916,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de inhoud
 
 5. Onze Minister kan de instemming onder beperkingen geven en aan zijn instemming voorschriften verbinden.
 
-6. Het meetplan beslaat de termijn van de winning en de daarop volgende dertig jaren. De uitvoerder actualiseert het meetplan gedurende de periode van winning en de daarop volgende vijf jaren jaarlijks en verstrekt daarvan voor 1 november afschrift aan Onze Minister. Onze Minister kan de uitvoerder een aanwijzing geven omtrent de tijdstippen waarop en de plaatsen waar gemeten wordt.
+6. Het meetplan beslaat de termijn van de winning en de daarop volgende dertig jaren. De uitvoerder actualiseert het meetplan gedurende de periode van winning en de daarop volgende vijf jaren jaarlijks en verstrekt daarvan voor 1 november afschrift aan Onze Minister. Onze Minister kan de uitvoerder een aanwijzing geven omtrent de tijdstippen waarop en de plaatsen waar gemeten wordt.
 
 7. Het meetplan bevat tenminste een beschrijving van:
 
@@ -466,7 +962,7 @@ De [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=4&pa
 
 ### Hoofdstuk 5. Mijnbouwwerken
 
-### Afdeling 5.1. Mijnbouwwerken, uitgezonderd mijnbouwinstallaties
+#### Afdeling 5.1. Mijnbouwwerken, uitgezonderd mijnbouwinstallaties
 
 #### § 5.1.1. Algemeen
 
@@ -504,11 +1000,11 @@ Een mijnbouwwerk is zodanig afgescheiden van de omgeving en ten aanzien van de t
 
 - e. licht brandbare gewassen.
 
-2. De uitvoerder of de uitvoerder aardwarmte draagt er zorg voor dat het zorgsysteem, bedoeld in [artikel 2.42e van het Arbeidsomstandighedenbesluit](onbekend), en het document, bedoeld in [artikel 2.42f van dat besluit](onbekend), mede betrekking hebben op de veiligheid.
+2. De uitvoerder of de uitvoerder aardwarmte draagt er zorg voor dat het zorgsysteem, bedoeld in artikel 2.42e van het Arbeidsomstandighedenbesluit, en het document, bedoeld in artikel 2.42f van dat besluit, mede betrekking hebben op de veiligheid.
 
 3. Bij ministeriële regeling kunnen regels worden gesteld omtrent de veilige afstanden, het zorgsysteem en het document.
 
-#### § 4.1. Metingen met het oog op bodembeweging
+#### § 5.1.3. Milieu
 
 ##### Artikel 38
 
@@ -518,7 +1014,7 @@ Een mijnbouwwerk is zodanig afgescheiden van de omgeving en ten aanzien van de t
 
 3. Bij ministeriële regeling kunnen in het belang van de bescherming van het milieu regels worden gesteld omtrent de in het tweede lid bedoelde maatregelen.
 
-#### § 5.1.4. Regels over het buiten gebruik stellen van mijnbouwwerken
+#### § 5.1.4. Regels over het buiten werking zijn, het hergebruiken en het verwijderen van mijnbouwwerken
 
 ##### Artikel 39
 
@@ -542,13 +1038,171 @@ De houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.over
 
 - b. de inspecteur-generaal der mijnen voor dat mijnbouwwerk:
 
-- 1°. een werkprogramma voor het buiten gebruik stellen van een boorgat als bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.2&artikel=74&z=2026-01-01&g=2026-01-01), heeft ontvangen;
+   - 1°. een werkprogramma voor het buiten gebruik stellen van een boorgat als bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.2&artikel=74&z=2026-01-01&g=2026-01-01), heeft ontvangen;
 
-- 2°. een rapport over een essentiële wijziging of een ontmanteling als bedoeld in de [artikelen 45e](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45e) en [45i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45i) heeft ontvangen.
+   - 2°. een rapport over een essentiële wijziging of een ontmanteling als bedoeld in de [artikelen 45e](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45e) en [45i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45i) heeft ontvangen.
 
 2. De inspecteur-generaal der mijnen informeert Onze Minister over de ontvangst van een werkprogramma of een rapport als bedoeld in het eerste lid, onderdeel b, onder 1°, respectievelijk 2°.
 
-### Afdeling 5.2. Mijnbouwinstallaties
+##### Artikel 40a
+
+1. De houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) overlegt voor een mijnbouwwerk als bedoeld in[artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.4&artikel=40&z=2026-01-01&g=2026-01-01), een verwijderingsplan als bedoeld in [artikel 44, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44), tenzij:
+
+- a. Onze Minister voor dat mijnbouwwerk een vergunning als bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.4&artikel=40&z=2026-01-01&g=2026-01-01), heeft verstrekt of
+
+- b. naar het oordeel van de inspecteur-generaal der mijnen voor dat mijnbouwwerk met een werkprogramma of een rapport als bedoeld in [artikel 40, eerste lid, onderdeel b, onder 1°, respectievelijk 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.4&artikel=40&z=2026-01-01&g=2026-01-01), in de verwijdering van het mijnbouwwerk is voorzien.
+
+2. De inspecteur-generaal der mijnen informeert Onze Minister over het oordeel, bedoeld in het eerste lid, onderdeel b.
+
+##### Artikel 40b
+
+1. Bij de melding, bedoeld in [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44) vermeldt de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) in ieder geval:
+
+- a. de locatie van het mijnbouwwerk;
+
+- b. de datum waarop het mijnbouwwerk buiten werking is gesteld;
+
+- c. de wijze waarop het mijnbouwwerk buiten werking is gesteld;
+
+- d. in het geval van een mijnbouwwerk voor zoutwinning welke maatregelen zijn genomen om de holruimte te monitoren vanuit een analyse in een systeembenadering van de risico’s van dat mijnbouwwerk;
+
+- e. bij een mijnbouwwerk anders dan een mijnbouwwerk voor zoutwinning, welke maatregelen noodzakelijk zijn aan de hand van de specifieke risico’s van dat mijnbouwwerk.
+
+2. Van de melding, bedoeld in het eerste lid, wordt door Onze Minister mededeling gedaan in de Staatscourant.
+
+##### Artikel 40c
+
+1. De aanvraag tot instemming met een verwijderingsplan als bedoeld in [artikel 44a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a) bevat ten minste een beschrijving van:
+
+- a. de aanduiding, locatie, aard en functie van het mijnbouwwerk ten tijde van de aanvraag om instemming met het verwijderingsplan;
+
+- b. de activiteiten, bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.2&artikel=74&z=2026-01-01&g=2026-01-01), die hebben geleid tot wijziging van de inrichting van het boorgat;
+
+- c. de afspraken met de eigenaar van het terrein waarop het mijnbouwwerk is opgericht en andere belanghebbenden;
+
+- d. de methode en een schatting van de kosten van het buiten gebruik stellen van een boorgat en het verwijderen van de bovengrondse installaties;
+
+- e. de staat waarin het ondergrondse deel van het mijnbouwwerk wordt achtergelaten;
+
+- f. de datum van indiening van het werkprogramma voor het buiten gebruik stellen van een boorgat en de planning van de uitvoering;
+
+- g. het schoon en veilig achterlaten of verwijderen van kabels en pijpleidingen;
+
+- h. de wijze waarop de materialen die bij het mijnbouwwerk behoren, worden afgevoerd en de bestemming ervan;
+
+- i. de op het mijnbouwwerk aanwezige afvalstoffen als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) en de bestemming ervan;
+
+- j. de risico’s van een mijnbouwwerk dat is gebruikt voor de winning van zout na verwijdering van de bovengrondse installaties en het buiten gebruik stellen van het boorgat aan de hand van een analyse van deze risico’s in een systeembenadering en de bij dat mijnbouwwerk te nemen beheersmaatregelen, waaronder een beschrijving van een uit te voeren monitoring, indien:
+
+   - 1°. die beheersmaatregelen nodig zijn in het belang van de veiligheid of het milieu en
+
+   - 2°. deze risico’s of beheersmaatregelen niet zijn beschreven in een winningsplan als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=34&z=2026-01-01&g=2026-01-01), een opslagplan als bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=39), of een meetplan als bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=4&paragraaf=4.1&artikel=30&z=2026-01-01&g=2026-01-01);
+
+- k. de maatregelen die worden genomen om het terrein waarop het mijnbouwwerk is opgericht en de bodem van het terrein zoveel mogelijk in de oorspronkelijke staat terug te brengen of in het geval het terrein of de bodem niet in de oorspronkelijke staat worden teruggebracht, de toestand waarin het terrein na uitvoering van het verwijderingsplan wordt achtergelaten;
+
+- l. het beoogde gebruik van het terrein; en
+
+- m. in geval van een gedeeltelijke verwijdering van het mijnbouwwerk voor welk doel het mijnbouwwerk wordt hergebruikt en een beschrijving daarvan.
+
+2. Het verwijderingsplan vermeldt binnen welke perioden de beschreven werkzaamheden beginnen en eindigen en kan in een fasering van de verwijdering voorzien.
+
+3. In afwijking van het eerste lid, aanhef, kan bij het overleggen van informatie als bedoeld in het eerste lid, onderdelen a tot en met k, worden volstaan met een verwijzing naar informatie die is of wordt overgelegd bij een aanvraag om een vergunning, een melding of de naleving van een verplichting tot het overleggen van gegevens en bescheiden krachtens de wet, respectievelijk de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), in het geval die informatie de relevante feiten bevat of zal bevatten die nodig zijn voor een besluit tot instemming met het verwijderingsplan, respectievelijk een besluit tot instemming met het verwijderingsplan onder het stellen van voorwaarden of voorschriften.
+
+4. Onze Minister beslist binnen dertien weken na het overleggen van een verwijderingsplan over de instemming.
+
+5. Van de instemming, bedoeld in het eerste lid, wordt door Onze Minister mededeling gedaan in de Staatscourant.
+
+6. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag tot instemming met een verwijderingsplan.
+
+##### Artikel 40d
+
+1. Onze Minister kan aan de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) van de wet een instemming met een verwijderingsplan, bedoeld in [artikel 44a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a) weigeren, indien:
+
+- a. het verwijderingsplan onvoldoende voorziet in een beschrijving van werkzaamheden, methode en kosten van de verwijdering die nodig zijn gedurende de periode van uitvoering van het verwijderingsplan, waaronder monitoring;
+
+- b. het verwachte resultaat van de uitvoering van het verwijderingsplan onvoldoende is beschreven;
+
+- c. het mijnbouwwerk in aanmerking komt voor hergebruik;
+
+- d. het mijnbouwwerk niet in aanmerking komt voor het in de aanvraag beschreven gedeeltelijk hergebruik als mijnbouwwerk;
+
+- e. in het geval van hergebruik het bevoegd gezag, bedoeld in [artikel 44a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a), voor zover het hergebruik betreft, geen verklaring van geen bedenkingen heeft gegeven;
+
+- f. naar het oordeel van het bevoegde gezag krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) het voorstel tot onderzoeken of saneren van de bodem niet voldoet;
+
+- g. de bestemming van de af te voeren materialen en afvalstoffen onduidelijk is;
+
+- h. de planning van de uitvoering van de verwijdering niet duidelijk is of voorziet in een onredelijk lange termijn;
+
+- i. de verwijdering van een mijnbouwwerk voor de winning van zout leidt tot:
+
+   - 1°. meer bodembeweging, dan blijkt uit een beschrijving als bedoeld in [artikel 35, eerste lid, onder f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=35); of
+
+   - 2°. een andere wijze van het buiten gebruik stellen van een holruimte dan blijkt uit een beschrijving als bedoeld in [artikel 25, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2026-01-01&g=2026-01-01).
+
+2. Onze Minister kan een instemming ambtshalve geheel of gedeeltelijk wijzigen of intrekken, indien:
+
+- a. het bevoegde gezag, bedoeld in het eerste lid, onderdelen e en f, tot een afwijzend oordeel komt over het geheel of gedeeltelijk hergebruik van het mijnbouwwerk;
+
+- b. het bevoegde gezag krachtens de wet geen vergunning verstrekt voor het opsporen, winnen, of opslaan van delfstoffen, aardwarmte, respectievelijk stoffen;
+
+- c. de houder van een vergunning de instemming voor het geheel of een gedeelte van het verwijderingsplan niet langer nodig heeft; of
+
+- d. de houder van een vergunning niet overeenkomstig de instemming handelt of heeft gehandeld.
+
+##### Artikel 40e
+
+1. Onze Minister kan aan de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) een tijdelijke ontheffing als bedoeld in [artikel 44b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44b) verlenen, indien het mijnbouwwerk:
+
+- a. nodig is voor het gebruik van een ander mijnbouwwerk als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01);
+
+- b. doelmatiger kan worden verwijderd of hergebruikt, indien de houder van een vergunning het mijnbouwwerk tezamen met een ander mijnbouwwerk verwijdert of hergebruikt;
+
+- c. in aanmerking komt voor geheel of gedeeltelijk hergebruik als onderzoek is of wordt verricht naar de geschiktheid voor opsporing of winning van delfstoffen of aardwarmte of de opslag van stoffen;
+
+- d. redelijkerwijs rendabel opnieuw in gebruik genomen kan worden na:
+
+   - 1°. verbetering van de omstandigheden op de markt voor koolwaterstoffen, andere delfstoffen, aardwarmte, respectievelijk de opslag van stoffen;
+
+   - 2°. een technische innovatie voor de winning van koolwaterstoffen, andere delfstoffen, aardwarmte, respectievelijk de opslag van stoffen; of
+
+- e. in aanmerking komt voor een ander hergebruik dan het exploiteren van een mijnbouwwerk.
+
+2. Onze Minister vraagt advies over een aanvraag om ontheffing van de verplichting tot verwijderen als bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44)voor het opnieuw in gebruik nemen:
+
+- a. als bedoeld in het eerste lid, onderdeel d, voor de winning van koolwaterstoffen, aardwarmte en de opslag van CO2 aan de vennootschap, bedoeld in [artikel 82, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=82) en
+
+- b. als bedoeld in het eerste lid, onderdeel d, onder 2°, tevens aan de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO als bedoeld in [artikel 3 van de TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=3).
+
+3. Onze Minister kan de ontheffing voor hergebruik van het mijnbouwwerk voor een periode van maximaal vijf jaar verlenen.
+
+4. Onze Minister kan de ontheffing telkens voor een periode van maximaal vijf jaar verlengen.
+
+5. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag om een ontheffing.
+
+6. Onze Minister kan, onverminderd [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2026-01-01&g=2026-01-01), een ontheffing ambtshalve geheel of gedeeltelijk wijzigen of intrekken, indien de houder van een vergunning:
+
+- a. de ontheffing niet langer nodig heeft om in een hergebruik van het mijnbouwwerk te kunnen voorzien;
+
+- b. niet overeenkomstig de ontheffing handelt of heeft gehandeld.
+
+##### Artikel 40f
+
+1. Onze Minister kan aan de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) een instemming met een rapport over de verwijdering, bedoeld in artikel 44c, derde lid, van de wet weigeren als het rapport:
+
+- a. onvoldoende informatie bevat;
+
+- b. het mijnbouwwerk niet is verwijderd overeenkomstig het verwijderingsplan waarmee is ingestemd; of
+
+- c. niet is verwijderd overeenkomstig de voorschriften die aan de instemming zijn verbonden.
+
+2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag tot instemming met het rapport over de verwijdering.
+
+##### Artikel 40g
+
+Bij ministeriële regeling worden regels gesteld over de inhoud van het nazorgplan, bedoeld in [artikel 52g, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=52g).
+
+#### Afdeling 5.2. Mijnbouwinstallaties
 
 #### § 5.2.1. Algemeen
 
@@ -570,11 +1224,19 @@ Deze paragraaf heeft betrekking op mijnbouwinstallaties die boven oppervlaktewat
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
+
+##### Artikel 44a
+
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
+
+##### Artikel 45a
+
+*Vervallen*
 
 ##### Artikel 46
 
@@ -672,6 +1334,18 @@ Het plaatsen van een mijnbouwinstallatie gebeurt zodanig dat in de zeebodem aanw
 
 4. De uitvoerder verstrekt Onze Minister het onderzoeksprogramma voor het eerst samen met de verklaringen, bedoeld in artikel 53a, eerste lid, onderdelen a en b.
 
+##### Artikel 53a
+
+1. De uitvoerder verstrekt aan de inspecteur-generaal der mijnen uiterlijk twee dagen voordat een voor de winning of opslag bestemde mijnbouwinstallatie in gebruik wordt genomen:
+
+- a. een verklaring van een onafhankelijke deskundige dat de technische integriteit van de mijnbouwinstallatie gewaarborgd is gezien het ontwerp, de bouw en de plaatsing;
+
+- b. een verklaring van een onafhankelijke deskundige dat het onderzoeksprogramma, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=53&z=2026-01-01&g=2026-01-01), voor de mijnbouwinstallatie voldoet.
+
+2. Nadat de mijnbouwinstallatie in gebruik is genomen verstrekt de uitvoerder voorts de in het eerste lid bedoelde gegevens telkens een maand voor de afloop van een periode van vijf jaar, waarvan de eerste periode ingaat op de eerste dag van de maand die volgt op die van de ingebruikneming.
+
+3. Bij ministeriële regeling kunnen regels worden gesteld omtrent de in het eerste lid bedoelde verklaringen.
+
 ##### Artikel 54
 
 1. Indien de sterkte of stabiliteit van een mijnbouwinstallatie wordt of dreigt te worden aangetast, doet de uitvoerder hiervan onmiddellijk mededeling aan de inspecteur-generaal der mijnen.
@@ -710,15 +1384,15 @@ Het plaatsen van een mijnbouwinstallatie gebeurt zodanig dat in de zeebodem aanw
 
 - d. bij een voor de opsporing bestemde mijnbouwinstallatie op een voor de opsporing bestemde locatie: een verklaring van een onafhankelijke deskundige dat de technische integriteit van de mijnbouwinstallatie gewaarborgd is, met dien verstande dat:
 
-- 1°. overlegging niet noodzakelijk is indien de verklaring niet ouder is dan vijf jaar en de verklaring reeds eerder is verstrekt;
+   - 1°. overlegging niet noodzakelijk is indien de verklaring niet ouder is dan vijf jaar en de verklaring reeds eerder is verstrekt;
 
-- 2°. [artikel 53a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=53a&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing is;
+   - 2°. [artikel 53a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=53a&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing is;
 
 - e. bij een voor de winning of opslag bestemde mijnbouwinstallatie: een verklaring van een onafhankelijke deskundige dat naar zijn voorlopige oordeel de te plaatsen mijnbouwinstallatie voldoet aan [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=50&z=2026-01-01&g=2026-01-01).
 
 2. Bij ministeriële regeling kunnen regels worden gesteld omtrent de in de onderdelen d en e bedoelde verklaring.
 
-#### § 5.2.2. Het ontwerpen, plaatsen en gebruiken van mijnbouwinstallaties die boven oppervlaktewater uitsteken
+#### § 5.2.3. Regels over het buiten werking zijn, het hergebruiken en het verwijderen van mijnbouwinstallaties
 
 ##### Artikel 57
 
@@ -746,9 +1420,9 @@ De houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.over
 
 - b. de inspecteur-generaal der mijnen voor dat mijnbouwwerk:
 
-- 1°. een werkprogramma voor het buiten gebruik stellen van een boorgat als bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.2&artikel=74&z=2026-01-01&g=2026-01-01), heeft ontvangen;
+   - 1°. een werkprogramma voor het buiten gebruik stellen van een boorgat als bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.2&artikel=74&z=2026-01-01&g=2026-01-01), heeft ontvangen;
 
-- 2°. een rapport over een essentiële wijziging of een ontmanteling als bedoeld in de [artikelen 45e](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45e) en [45i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45i) heeft ontvangen.
+   - 2°. een rapport over een essentiële wijziging of een ontmanteling als bedoeld in de [artikelen 45e](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45e) en [45i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45i) heeft ontvangen.
 
 2. De inspecteur-generaal der mijnen informeert Onze Minister over de ontvangst van een werkprogramma of een rapport als bedoeld in het eerste lid, onderdeel b, onder 1°, respectievelijk 2°.
 
@@ -816,7 +1490,85 @@ De houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.over
 
 6. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de instemming met een verwijderingsplan.
 
-#### § 5.2.4. Het ontwerpen, plaatsen en buiten gebruik stellen alsmede verwijderen van mijnbouwinstallaties geheel onder oppervlaktewater gelegen
+##### Artikel 62a
+
+1. Onze Minister kan aan de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) een instemming met een verwijderingsplan, bedoeld in artikel [44a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a) weigeren, indien:
+
+- a. het verwijderingsplan onvoldoende voorziet in een beschrijving van de werkzaamheden, methode en kosten van de verwijdering die nodig zijn gedurende de periode van uitvoering van het verwijderingsplan, waaronder monitoring;
+
+- b. het verwachte resultaat van de uitvoering van het verwijderingsplan onvoldoende is beschreven;
+
+- c. het mijnbouwwerk in aanmerking komt voor hergebruik;
+
+- d. het mijnbouwwerk niet in aanmerking komt voor een gedeeltelijk hergebruik als mijnbouwwerk;
+
+- e. in het geval van hergebruik het bevoegde gezag, bedoeld in [artikel 44a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a), niet heeft verklaard dat het bevoegde gezag daartegen, voor zover het hergebruik betreft, geen bedenkingen heeft;
+
+- f. naar het oordeel van het bevoegd gezag krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) het voorstel tot onderzoeken of saneren van de bodem niet voldoet;
+
+- g. de bestemming van de af te voeren materialen en afvalstoffen onduidelijk is; of
+
+- h. de planning van de uitvoering van de verwijdering niet duidelijk is of voorziet in een onredelijk lange termijn.
+
+2. Onze Minister kan een instemming ambtshalve geheel of gedeeltelijk wijzigen of intrekken, indien:
+
+- a. het bevoegde gezag, bedoeld in het eerste lid, onderdelen e en f, krachtens wetten als bedoeld in die onderdelen tot een afwijzend oordeel komt over het geheel of gedeeltelijk hergebruik van het mijnbouwwerk;
+
+- b. het bevoegde gezag krachtens de wet geen vergunning verstrekt voor het opsporen, winnen, of opslaan van delfstoffen, aardwarmte, respectievelijk stoffen;
+
+- c. de houder van een vergunning de instemming voor het geheel of een gedeelte van het verwijderingsplan niet langer nodig heeft; of
+
+- d. de houder van een vergunning niet overeenkomstig de instemming handelt of heeft gehandeld.
+
+##### Artikel 62b
+
+1. Onze Minister kan de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) een tijdelijke ontheffing als bedoeld in [artikel 44b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44b), verlenen, indien de mijnbouwinstallatie of het mijnbouwwerk, bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=59&z=2026-01-01&g=2026-01-01):
+
+- a. nodig is voor het gebruik van een ander mijnbouwwerk als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01);
+
+- b. doelmatiger kan worden verwijderd of hergebruikt, indien de houder van een vergunning het mijnbouwwerk tezamen met een ander mijnbouwwerk verwijdert of hergebruikt;
+
+- c. in aanmerking komt voor geheel of gedeeltelijk hergebruik als onderzoek is of wordt verricht naar de geschiktheid voor opsporing of winning van delfstoffen of aardwarmte of de opslag van stoffen;
+
+- d. redelijkerwijs rendabel opnieuw in gebruik genomen kan worden na:
+
+   - 1°. verbetering van de omstandigheden op de markt voor koolwaterstoffen, andere delfstoffen, aardwarmte, respectievelijk de opslag van stoffen;
+
+   - 2°. een technische innovatie voor de winning van koolwaterstoffen, andere delfstoffen, aardwarmte, respectievelijk de opslag van stoffen; of
+
+- e. in aanmerking komt voor een ander hergebruik dan het exploiteren van een mijnbouwwerk.
+
+2. Onze Minister vraagt advies over een aanvraag om ontheffing van de verplichting tot verwijderen als bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44) voor het opnieuw in gebruik nemen:
+
+- a. als bedoeld in het eerste lid, onderdeel d, voor de winning van koolwaterstoffen, aardwarmte en de opslag van CO2 aan de vennootschap, bedoeld in [artikel 82, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=82) en
+
+- b. als bedoeld in het eerste lid, onderdeel d, onder 2°, tevens aan de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO als bedoeld in artikel 3 van de TNO-wet.
+
+3. Onze Minister kan de ontheffing voor hergebruik van de mijnbouwinstallatie voor een periode van maximaal vijf jaar verlenen.
+
+4. Onze Minister kan de ontheffing telkens voor een periode van maximaal vijf jaar verlengen.
+
+5. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de ontheffing.
+
+6. Onze Minister kan, onverminderd [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2026-01-01&g=2026-01-01), een ontheffing ambtshalve geheel of gedeeltelijk wijzigen of intrekken, indien de houder van een vergunning:
+
+- a. de ontheffing niet langer nodig heeft om in een hergebruik van het mijnbouwwerk te kunnen voorzien;
+
+- b. niet overeenkomstig de ontheffing handelt of heeft gehandeld.
+
+##### Artikel 62c
+
+1. Onze Minister kan de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) een instemming met een rapport over de verwijdering, bedoeld in [artikel 44c, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44c) weigeren als het rapport:
+
+- a. onvoldoende informatie bevat;
+
+- b. de mijnbouwinstallatie niet is verwijderd overeenkomstig het verwijderingsplan waarmee is ingestemd; of
+
+- c. niet is verwijderd overeenkomstig de voorschriften die aan de instemming zijn verbonden.
+
+2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op het besluit tot instemming met het rapport over de verwijdering.
+
+#### § 5.2.4. Regels over het ontwerpen, plaatsen, buiten werking zijn, het hergebruiken en het verwijderen van mijnbouwinstallaties geheel onder oppervlaktewater gelegen
 
 ##### Artikel 63
 
@@ -840,9 +1592,9 @@ De uitvoerder doet acht weken voor plaatsing van een mijnbouwinstallatie als bed
 
 ##### Artikel 66
 
-Vervallen
+*Vervallen*
 
-### Afdeling 5.3. Boorgaten
+#### Afdeling 5.3. Boorgaten
 
 #### § 5.3.1. Algemeen
 
@@ -888,6 +1640,10 @@ Een boorgat wordt niet eerder voor winning van delfstoffen, winning van aardwarm
 
 2. Het eerste lid is niet van toepassing op het buiten gebruik stellen van een boorgat dat is gebruikt voor het permanent opslaan van CO2.
 
+##### Artikel 72a
+
+Het buiten gebruik stellen van een boorgat heeft tot doel om het boorgat permanent af te sluiten door zones met stromingspotentieel te isoleren.
+
 ##### Artikel 73
 
 Bij ministeriële regeling worden regels gesteld over:
@@ -897,6 +1653,10 @@ Bij ministeriële regeling worden regels gesteld over:
 - b. de inrichting van een boorgat en de beveiliging ervan, bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.1&artikel=71&z=2026-01-01&g=2026-01-01);
 
 - c. het buiten gebruik stellen van een boorgat als bedoeld in [artikel 72a](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.1&artikel=72a&z=2026-01-01&g=2026-01-01).
+
+##### Artikel 73a
+
+Bij ministeriële regeling kunnen regels worden gesteld over het buiten werking stellen van een boorgat, bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.1&artikel=72&z=2026-01-01&g=2026-01-01).
 
 #### § 5.3.2. Informatievoorziening in verband met boorgaten
 
@@ -930,7 +1690,7 @@ Bij ministeriële regeling worden regels dan wel nadere regels gesteld omtrent:
 
 - b. de inhoud van de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.2&artikel=76&z=2026-01-01&g=2026-01-01) bedoelde rapporten en de wijze waarop deze rapporten ter kennis van de inspecteur-generaal der mijnen worden gebracht.
 
-### Afdeling 5.4. Milieu en rampenbestrijdingsplan op mijnbouwinstallaties
+#### Afdeling 5.4. Milieu en rampenbestrijdingsplan
 
 #### § 5.4.1. Algemeen
 
@@ -954,11 +1714,11 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. sanitair afval:
 
-- 1°. spoelwater en ander afval, afkomstig van toiletten en wasruimtes;
+   - 1°. spoelwater en ander afval, afkomstig van toiletten en wasruimtes;
 
-- 2°. spoelwater, afkomstig uit verblijven voor de voorlopige verzorging van gewonden en zieken;
+   - 2°. spoelwater, afkomstig uit verblijven voor de voorlopige verzorging van gewonden en zieken;
 
-- 3°. ander afvalwater, indien vermengd met spoelwater als bedoeld onder 1° of 2°;
+   - 3°. ander afvalwater, indien vermengd met spoelwater als bedoeld onder 1° of 2°;
 
 - g. vuilnis: etensresten, alle soorten huishoudelijke afvalstoffen en vast afval, voortvloeiende uit de bedrijfsvoering.
 
@@ -972,11 +1732,11 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. sanitair afval:
 
-- 1°. vanaf een mijnbouwinstallatie waarop niet meer dan tien personen aanwezig plegen te zijn;
+   - 1°. vanaf een mijnbouwinstallatie waarop niet meer dan tien personen aanwezig plegen te zijn;
 
-- 2°. vanaf een niet als een geheel verplaatsbare mijnbouwinstallatie, waarop meer dan 50 personen aanwezig plegen te zijn of een als een geheel verplaatsbare mijnbouwinstallatie, indien dit afval is afgebroken door middel van een biologisch zuiveringssysteem;
+   - 2°. vanaf een niet als een geheel verplaatsbare mijnbouwinstallatie, waarop meer dan 50 personen aanwezig plegen te zijn of een als een geheel verplaatsbare mijnbouwinstallatie, indien dit afval is afgebroken door middel van een biologisch zuiveringssysteem;
 
-- 3°. vanaf een andere mijnbouwinstallatie dan bedoeld onder 1° en 2°, indien dit afval is behandeld door middel van een mechanisch vermalingssysteem;
+   - 3°. vanaf een andere mijnbouwinstallatie dan bedoeld onder 1° en 2°, indien dit afval is behandeld door middel van een mechanisch vermalingssysteem;
 
 - c. vuilnis, voor zover bestaande uit etensresten, in de gevallen en op de wijze als door Onze Minister, in overeenstemming met Onze Minister van Infrastructuur en Milieu, aangegeven.
 
@@ -1004,9 +1764,9 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. regels gesteld die slechts kunnen inhouden:
 
-- 1°. voorschriften inzake de bewerking die stoffen of preparaten voor lozing moeten ondergaan, de te lozen hoeveelheden ervan, en de plaats en de wijze van lozing;
+   - 1°. voorschriften inzake de bewerking die stoffen of preparaten voor lozing moeten ondergaan, de te lozen hoeveelheden ervan, en de plaats en de wijze van lozing;
 
-- 2°. voorschriften omtrent het melden, meten en registreren van stoffen of preparaten die worden geloosd.
+   - 2°. voorschriften omtrent het melden, meten en registreren van stoffen of preparaten die worden geloosd.
 
 ##### Artikel 82
 
@@ -1040,9 +1800,9 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. regels gesteld die slechts kunnen inhouden:
 
-- 1°. voorschriften inzake de te gebruiken hoeveelheden stof of preparaten en de wijze van gebruik;
+   - 1°. voorschriften inzake de te gebruiken hoeveelheden stof of preparaten en de wijze van gebruik;
 
-- 2°. voorschriften omtrent het melden, meten en registreren van stoffen of preparaten die worden gebruikt.
+   - 2°. voorschriften omtrent het melden, meten en registreren van stoffen of preparaten die worden gebruikt.
 
 ##### Artikel 84
 
@@ -1052,7 +1812,151 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling kunnen regels worden gesteld omtrent de in het tweede lid bedoelde maatregelen.
 
+#### § 5.4.1a. Rapport inzake grote gevaren en overige documenten
+
+##### Artikel 84a
+
+Deze paragraaf is van toepassing op mijnbouwwerken die gebruikt worden voor de opsporing of winning van koolwaterstoffen.
+
+##### Artikel 84b
+
+1. Een rapport inzake grote gevaren voor een productie-installatie bevat naast de documenten bedoeld in artikel 45c van de wet, de volgende gegevens:
+
+- a. een veiligheids- en gezondheidsdocument, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42) en [2.42f van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f);
+
+- b. een intern rampenplan, bedoeld in [artikel 84d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.4&paragraaf=5.4.1a&artikel=84d&z=2026-01-01&g=2026-01-01);
+
+- c. overige informatie.
+
+2. Een exploitant van een productie-installatie raadpleegt een ondernemingsraad als bedoeld in [artikel 2 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=2) of een personeelsvertegenwoordiging als bedoeld in [artikel 35b van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=35b) bij het opstellen van het rapport inzake grote gevaren voor een productie-installatie. Bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging, voert een exploitant van een productie-installatie overleg met de belanghebbende werknemers. Over het rapport wordt tevens overleg gevoerd met de werknemers van andere werkgevers, die op basis van een langlopende overeenkomst tot aanneming van werk mede in het bedrijf of de inrichting werkzaam zijn.
+
+3. De exploitant van een productie-installatie voldoet aan de maatregelen die zijn vastgesteld in het rapport inzake grote gevaren voor de betreffende installatie.
+
+4. Het rapport inzake grote gevaren is aanwezig op het mijnbouwwerk.
+
+5. Bij ministeriële regeling worden regels gesteld over de overige informatie, bedoeld in het eerste lid.
+
+##### Artikel 84c
+
+1. Een rapport inzake grote gevaren voor een niet-productie-installatie bevat naast de documenten bedoeld in artikel 45g van de wet, de volgende gegevens:
+
+- a. een veiligheids- en gezondheidsdocument, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42) en [2.42f van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f);
+
+- b. een intern rampenplan, bedoeld in [artikel 84d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.4&paragraaf=5.4.1a&artikel=84d&z=2026-01-01&g=2026-01-01);
+
+- c. overige informatie.
+
+2. Een eigenaar van een niet-productie-installatie raadpleegt een ondernemingsraad als bedoeld in [artikel 2 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=2) of een personeelsvertegenwoordiging als bedoeld in [artikel 35b van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=35b) bij het opstellen van het rapport inzake grote gevaren voor een niet-productie-installatie. Bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging, voert een eigenaar overleg met de belanghebbende werknemers. Over het rapport wordt tevens overleg gevoerd met de werknemers van andere werkgevers, die op basis van een langlopende overeenkomst tot aanneming van werk mede in het bedrijf of de inrichting werkzaam zijn.
+
+3. De eigenaar van een niet-productie-installatie voldoet aan de maatregelen die zijn vastgesteld in het rapport inzake grote gevaren voor de betreffende installatie.
+
+4. Het rapport inzake grote gevaren is aanwezig op het mijnbouwwerk.
+
+5. Bij ministeriële regeling worden regels gesteld over de overige informatie, bedoeld in het eerste lid.
+
+##### Artikel 84d
+
+1. Een intern rampenplan bevat de volgende gegevens:
+
+- a. een noodplan als bedoeld in [artikel 3.37v van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37);
+
+- b. een op grond van [artikel 2.42f van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f), op te stellen brandbestrijdingsplan;
+
+- c. een rampenbestrijdingsplan als bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.4&paragraaf=5.4.2&artikel=85&z=2026-01-01&g=2026-01-01);
+
+- d. een analyse van de doeltreffendheid van de respons op olielekken.
+
+2. Bij het opstellen van het intern rampenplan als bedoeld in het eerste lid wordt rekening gehouden met de risicobeoordeling van zware ongevallen die tijdens het opstellen van het meest recente rapport inzake grote gevaren is uitgevoerd.
+
+3. Bij ministeriële regeling worden nadere regels gesteld over een intern rampenplan.
+
+4. Een exploitant van een productie-installatie of een eigenaar van een niet-productie-installatie stelt bij een zwaar ongeval het intern rampenplan onverwijld in werking.
+
+5. Een exploitant van een productie-installatie of een eigenaar van een niet-productie-installatie beschikt over de noodzakelijke apparatuur en deskundigheid ter uitvoering van het intern rampenplan.
+
+##### Artikel 84e
+
+1. Een regeling voor onafhankelijke verificatie voor boorgatactiviteiten als bedoeld in artikel 45l van de wet, waarborgt op onafhankelijke wijze dat het ontwerp en de controlemaatregelen voor de boorgaten te allen tijde geschikt zijn voor de verwachte boorgatomstandigheden.
+
+2. Een onafhankelijke verificateur dient voldoende onafhankelijk en deskundig te zijn.
+
+3. Bij ministeriële regeling worden ten aanzien van de regeling als bedoeld in het eerste lid nadere regels gesteld over de selectie van de onafhankelijke verificateur, over het ontwerp van de regeling alsmede welke informatie moet worden voorgelegd over de regeling.
+
+##### Artikel 84f
+
+1. Een regeling voor onafhankelijke verificatie voor installaties als bedoeld in artikel 45l van de wet, waarborgt op onafhankelijke wijze dat de veiligheids- en milieukritische elementen die worden vermeld in de risicobeoordeling voor de installatie als beschreven in het rapport inzake grote gevaren, geschikt zijn en dat de planning van inspecties en testen van de veiligheids- en milieukritische elementen geschikt en bijgewerkt zijn en verlopen zoals voorzien.
+
+2. Een onafhankelijke verificateur dient voldoende onafhankelijk en deskundig te zijn.
+
+3. De regeling voor onafhankelijke verificatie wordt voor een productie-installatie getroffen voordat het ontwerp is voltooid.
+
+4. De regeling voor onafhankelijke verificatie wordt voor een niet- productie-installatie getroffen voordat de activiteiten worden gestart.
+
+5. Bij ministeriële regeling worden nadere regels gesteld over de selectie van de onafhankelijke verificateur, over het ontwerp van de regeling alsmede welke informatie moet worden voorgelegd over de regeling.
+
+##### Artikel 84g
+
+1. Een eigenaar van een niet-productie-installatie en een exploitant van een productie-installatie nemen binnen een bij ministeriële regeling vast te stellen termijn op basis van het advies van de onafhankelijke verificateur passende maatregelen en reageren op het advies van de onafhankelijke verificateur.
+
+2. Een eigenaar van een niet-productie-installatie en een exploitant van een productie-installatie stellen het Staatstoezicht op de Mijnen in kennis van het advies van de onafhankelijke verificateur en de reactie op het advies, binnen een bij ministeriële regeling vast te stellen termijn.
+
+#### § 5.4.1b. Kennisgevingen
+
+##### Artikel 84h
+
+Deze paragraaf is van toepassing op mijnbouwwerken die gebruikt worden voor de opsporing of winning van koolwaterstoffen.
+
+##### Artikel 84i
+
+1. Een kennisgeving als bedoeld in artikel 45m van de wet, bevat de volgende informatie:
+
+- a. een op basis van [artikel 2.42f van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f) op te stellen veiligheids- en gezondheidsdocument voor een voorgenomen installatie;
+
+- b. overige informatie.
+
+2. Bij ministeriële regeling worden nadere regels gesteld over de kennisgeving.
+
+##### Artikel 84j
+
+1. Een kennisgeving als bedoeld in artikel 45n van de wet, bevat de volgende informatie:
+
+- a. gegevens van het ontwerp van de boorgat;
+
+- b. de voorgestelde boorgatactiviteiten;
+
+- c. het werkprogramma, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.2&artikel=74&z=2026-01-01&g=2026-01-01);
+
+- d. een op basis van [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42) en [2.42f van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f) op te stellen veiligheids- en gezondheidsdocument voor werkzaamheden;
+
+- e. de bevindingen en opmerkingen van de onafhankelijke verificateur en de reactie van de exploitant en de door hem genomen maatregelen ten gevolge daarvan;
+
+- f. overige informatie.
+
+2. De exploitant voldoet in geval van een boorgatactiviteit aan de maatregelen die zijn vastgesteld in de kennisgeving van de boorgatactiviteit.
+
+3. Bij ministeriële regeling worden nadere regels gesteld over de kennisgeving.
+
+##### Artikel 84k
+
+1. Een kennisgeving, bedoeld in artikel 45p van de wet, bevat de volgende informatie:
+
+- a. een op basis van [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42) en [2.42f van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f) op te stellen veiligheids- en gezondheidsdocument voor gelijktijdig uit te voeren werkzaamheden;
+
+- b. overige informatie.
+
+2. Bij ministeriële regeling worden nadere regels gesteld over de kennisgeving.
+
+##### Artikel 84l
+
+1. Een exploitant van een productie-installatie en eigenaren van niet-productie-installaties voldoen aan de maatregelen die zijn vastgesteld in de kennisgevingen als bedoeld in de [artikelen 84j](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.4&paragraaf=5.4.1b&artikel=84j&z=2026-01-01&g=2026-01-01) en [84k](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.4&paragraaf=5.4.1b&artikel=84k&z=2026-01-01&g=2026-01-01).
+
+2. Een exploitant van een voorgenomen productie-installatie houdt rekening met de opmerkingen van het Staatstoezicht op de mijnen ten aanzien van de kennisgeving van het ontwerp voor deze installatie, in het rapport inzake grote gevaren voor de productie-installatie.
+
 #### § 5.4.2. Rampenbestrijdingsplan
+
+##### Artikel 84m
+
+Deze paragraaf is van toepassing op mijnbouwwerken.
 
 ##### Artikel 85
 
@@ -1088,6 +1992,10 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De uitvoerder verleent of de uitvoerder aardwarmte en de houder van een startvergunning aardwarmte of een vervolgvergunning aardwarmte verlenen op aanwijzing van Onze Minister zoveel mogelijk hulp en bijstand bij het bestrijden van het voorval of het beperken van de gevolgen ervan.
 
+##### Artikel 88a
+
+De exploitant van een productie-installatie die in Nederland is gevestigd of diens dochteronderneming doet op verzoek van het Staatstoezicht op de mijnen verslag over de omstandigheden van elk zwaar ongeval dat zich buiten de Europese Unie heeft voltrokken en waar deze bij betrokken is geweest.
+
 ##### Artikel 89
 
 De werkzaamheden ter bestrijding van voorvallen als bedoeld in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.4&paragraaf=5.4.2&artikel=86&z=2026-01-01&g=2026-01-01), of ter beperking van de gevolgen ervan geschieden onder toezicht van een daartoe aangewezen deskundig persoon en door vakkundig personeel, dat daartoe voldoende geoefend en geïnstrueerd is.
@@ -1114,9 +2022,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 - a. pijpleiding:
 
-- 1°. leiding die twee of meer mijnbouwwerken met elkaar verbindt ten behoeve van het vervoer van stoffen, te rekenen vanaf de eerste isolatieafsluiter van het mijnbouwwerk;
+   - 1°. leiding die twee of meer mijnbouwwerken met elkaar verbindt ten behoeve van het vervoer van stoffen, te rekenen vanaf de eerste isolatieafsluiter van het mijnbouwwerk;
 
-- 2°. andere leiding dan bedoeld onder 1°, aan te wijzen door Onze Minister, die een mijnbouwwerk verbindt met een ander werk ten behoeve van het vervoer van stoffen te rekenen vanaf de eerste isolatieafsluiter van het mijnbouwwerk;
+   - 2°. andere leiding dan bedoeld onder 1°, aan te wijzen door Onze Minister, die een mijnbouwwerk verbindt met een ander werk ten behoeve van het vervoer van stoffen te rekenen vanaf de eerste isolatieafsluiter van het mijnbouwwerk;
 
 - b. kabel: leiding, gelegen in de territoriale zee of het continentaal plat, tussen twee of meer mijnbouwinstallaties of tussen een mijnbouwinstallatie en een ander werk, aangewezen door Onze Minister, ten behoeve van het vervoer van elektriciteit of elektronische signalen;
 
@@ -1152,11 +2060,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 96
 
-1. Onze Minister beslist over de aanvraag om een vergunning binnen acht weken na ontvangst van de aanvraag en, in geval [artikel 94, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=6&paragraaf=6.2&artikel=94&z=2026-01-01&g=2026-01-01), of [95](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=6&paragraaf=6.2&artikel=95&z=2026-01-01&g=2026-01-01) van toepassing is, binnen de in [artikel 3:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:18) gestelde termijn.
+1. Onze Minister beslist over de aanvraag om een vergunning binnen acht weken na ontvangst van de aanvraag en, in geval [artikel 94, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=6&paragraaf=6.2&artikel=94&z=2026-01-01&g=2026-01-01), of [95](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=6&paragraaf=6.2&artikel=95&z=2026-01-01&g=2026-01-01) van toepassing is, binnen de in [artikel 3:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:18) gestelde termijn.
 
 2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een vergunning als bedoeld in [artikel 94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=6&paragraaf=6.2&artikel=94&z=2026-01-01&g=2026-01-01).
 
-#### § 5.2.3. Regels over het buiten werking zijn, het hergebruiken en het verwijderen van mijnbouwinstallaties
+#### § 6.3. Het gebruik van een pijpleiding
 
 ##### Artikel 97
 
@@ -1242,13 +2150,43 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent het tijdelijk bu
 
 3. Bij ministeriële regeling worden nadere regels gesteld over de toepassing van de criteria.
 
+##### Artikel 103a
+
+Als een in gemeentelijk ingedeeld gebied gelegen pijpleiding op land of in oppervlaktewater buiten werking is als bedoeld in [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) is [paragraaf 5.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.4&z=2026-01-01&g=2026-01-01), respectievelijk [paragraaf 5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing, met dien verstande dat de beheerder:
+
+- a. bij een melding overeenkomstig [artikel 40b](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.4&artikel=40b&z=2026-01-01&g=2026-01-01), respectievelijk [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=61&z=2026-01-01&g=2026-01-01), de volgende informatie overlegt:
+
+   - 1°. de periode, waarin de pijpleiding is aangelegd;
+
+   - 2°. de overeenkomst met de grondeigenaar;
+
+   - 3°. de relevante feiten voor een afweging van belangen als bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=6&paragraaf=6.4&artikel=103&z=2026-01-01&g=2026-01-01);
+
+- b. bij een aanvraag om instemming met een verwijderingsplan in afwijking van [artikel 40c, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.4&artikel=40c&z=2026-01-01&g=2026-01-01), ten minste een beschrijving overlegt als bedoeld in artikel 40c, eerste lid, onder a, c, d, g, h, i, k, l en m;
+
+- c. bij een aanvraag om instemming met een verwijderingsplan in afwijking van [artikel 62, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=62&z=2026-01-01&g=2026-01-01), ten minste een beschrijving overlegt als bedoeld in artikel 62, eerste lid, onder a, c, d, g tot en met m.
+
+##### Artikel 103b
+
+Als een in niet gemeentelijk ingedeeld gebied gelegen pijpleiding buiten werking is als bedoeld in [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) is [paragraaf 5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat de beheerder:
+
+- a. bij een melding overeenkomstig [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=61&z=2026-01-01&g=2026-01-01) de volgende informatie overlegt:
+
+   - 1°. de periode, waarin de pijpleiding is aangelegd;
+
+   - 2°. de overeenkomst met de grondeigenaar;
+
+   - 3°. de relevante feiten voor een afweging van belangen als bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=6&paragraaf=6.4&artikel=103&z=2026-01-01&g=2026-01-01);
+
+- b. bij een aanvraag om instemming met een verwijderingsplan in afwijking van [artikel 62, eerste lid, aanhef,](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=62&z=2026-01-01&g=2026-01-01) ten minste een beschrijving overlegt als bedoeld in [artikel 62, eerste lid, onder a, c, d, g, tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=62&z=2026-01-01&g=2026-01-01).
+
 ##### Artikel 104
 
 1. Onze Minister kan de beheerder aanwijzingen geven met betrekking tot de staat waarin de pijpleiding wordt achtergelaten.
 
 2. Onze Minister kan de beheerder verplichten de ligging van de achtergelaten pijpleiding periodiek te controleren en kan zo nodig herstelmaatregelen voorschrijven.
 
-#### § 5.2.4. Regels over het ontwerpen, plaatsen, buiten werking zijn, het hergebruiken en het verwijderen van mijnbouwinstallaties geheel onder oppervlaktewater gelegen
+#### § 6.5. Kabels
 
 ##### Artikel 105
 
@@ -1268,7 +2206,7 @@ Op een samenstel van een pijpleiding en een kabel zijn de [paragrafen 5.1.4](htt
 
 ### Hoofdstuk 7. Verstrekking, beheer en gebruik van gegevens
 
-#### § 6.3. Het gebruik van een pijpleiding
+#### § 7.1. Verstrekking gegevens
 
 ##### Artikel 108
 
@@ -1340,7 +2278,7 @@ Op een samenstel van een pijpleiding en een kabel zijn de [paragrafen 5.1.4](htt
 
 ##### Artikel 113
 
-1. De uitvoerder verstrekt Onze Minister per voorkomen, waarin koolwaterstoffen zijn aangetroffen, jaarlijks voor 1 maart de volgende gegevens:
+1. De uitvoerder verstrekt Onze Minister per voorkomen, waarin koolwaterstoffen zijn aangetroffen, jaarlijks voor 1 maart de volgende gegevens:
 
 - a. de door de uitvoerder voor het voorkomen gebezigde naam;
 
@@ -1376,7 +2314,7 @@ Op een samenstel van een pijpleiding en een kabel zijn de [paragrafen 5.1.4](htt
 
 1. De in [artikel 123, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=123) bedoelde instellingen beheren de op grond van
 
-[paragraaf 7.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=7&paragraaf=7.1&z=2026-01-01&g=2026-01-01) verstrekte gegevens zorgvuldig. De instellingen zijn verplicht de gegevens in goede, geordende en toegankelijke staat te brengen en te bewaren.
+[paragraaf 7.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=7&paragraaf=7.1&z=2026-01-01&g=2026-01-01) verstrekte gegevens zorgvuldig. De instellingen zijn verplicht de gegevens in goede, geordende en toegankelijke staat te brengen en te bewaren.
 
 2. Bij ministeriële regeling kunnen omtrent het eerste lid nadere regels worden gesteld.
 
@@ -1412,7 +2350,7 @@ Onze Minister kan, zolang de termijnen van [artikel 116](https://wetten.overheid
 
 3. Bij de vaststelling van de kostprijs worden niet de kosten van inzameling, verwerving en kwaliteitsbehoud verdisconteerd.
 
-#### § 6.2. Vergunningplicht pijpleidingen
+#### § 7.3. Gegevens in verband met aardwarmte en boorgaten
 
 ##### Artikel 119
 
@@ -1442,15 +2380,15 @@ In dit hoofdstuk wordt verstaan onder:
 
 - f. verkenningsonderzoek: onderzoek als bedoeld in [artikel 1, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1), met uitzondering van onderzoek door of in opdracht van een mijnbouwondernemer die behoort tot een van de eerste drie in [artikel 121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=8&paragraaf=8.2&artikel=121&z=2026-01-01&g=2026-01-01), genoemde sectoren.
 
-#### § 5.4.1. Algemeen
+#### § 8.2. Het vermogen van het fonds
 
 ##### Artikel 121
 
-1. Het vermogen van het fonds bedraagt per 1 januari van elk kalenderjaar ten minste € 250 000.
+1. Het vermogen van het fonds bedraagt per 1 januari van elk kalenderjaar ten minste € 250 000.
 
 2. De sectoren, genoemd in onderstaande tabel, dragen overeenkomstig de in die tabel genoemde bedragen bij aan de vorming van het initiële vermogen van het fonds.
 
-| **Sector** | **Aandeel** |
+| Sector | Aandeel |
 | --- | --- |
 | Olie- en gaswinning | € 125 000 |
 | Zoutwinning | € 75 000 |
@@ -1465,7 +2403,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 122
 
-1. De bijdrage die een mijnbouwondernemer, behorende tot een van de eerste drie in [artikel 121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=8&paragraaf=8.2&artikel=121&z=2026-01-01&g=2026-01-01), genoemde sectoren, verschuldigd is, omvat een bedrag ter dekking van het aandeel van de sector in het tekort, berekend overeenkomstig artikel 121, derde lid. De mijnbouwondernemers die tot dezelfde sector behoren, doen Onze Minister voor 1 maart gezamenlijk een gemotiveerd voorstel toekomen omtrent het in de eerste volzin genoemde bedrag. Hierbij wordt rekening gehouden met:
+1. De bijdrage die een mijnbouwondernemer, behorende tot een van de eerste drie in [artikel 121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=8&paragraaf=8.2&artikel=121&z=2026-01-01&g=2026-01-01), genoemde sectoren, verschuldigd is, omvat een bedrag ter dekking van het aandeel van de sector in het tekort, berekend overeenkomstig artikel 121, derde lid. De mijnbouwondernemers die tot dezelfde sector behoren, doen Onze Minister voor 1 maart gezamenlijk een gemotiveerd voorstel toekomen omtrent het in de eerste volzin genoemde bedrag. Hierbij wordt rekening gehouden met:
 
 - a. de aard en omvang van de mijnbouwactiviteiten van elke mijnbouwondernemer in de vijf voorafgaande kalenderjaren;
 
@@ -1481,13 +2419,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 124
 
-1. De bijdrage die een mijnbouwondernemer, behorende tot de laatste in [artikel 121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=8&paragraaf=8.2&artikel=121&z=2026-01-01&g=2026-01-01), genoemde sector, verschuldigd is, omvat een bedrag ter dekking van het aandeel van de sector in een tekort, berekend overeenkomstig artikel 121, derde lid. Het in de eerste volzin genoemde bedrag wordt bepaald door het aandeel van de sector in het tekort te verdelen over de mijnbouwondernemers die in het voorafgaande kalenderjaar verkenningsonderzoek hebben verricht, naar evenredigheid van het aantal onderzoeken dat ieder van hen in dat jaar heeft verricht. Onze Minister stelt de bijdrage voor 1 april vast.
+1. De bijdrage die een mijnbouwondernemer, behorende tot de laatste in [artikel 121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=8&paragraaf=8.2&artikel=121&z=2026-01-01&g=2026-01-01), genoemde sector, verschuldigd is, omvat een bedrag ter dekking van het aandeel van de sector in een tekort, berekend overeenkomstig artikel 121, derde lid. Het in de eerste volzin genoemde bedrag wordt bepaald door het aandeel van de sector in het tekort te verdelen over de mijnbouwondernemers die in het voorafgaande kalenderjaar verkenningsonderzoek hebben verricht, naar evenredigheid van het aantal onderzoeken dat ieder van hen in dat jaar heeft verricht. Onze Minister stelt de bijdrage voor 1 april vast.
 
 2. Indien in het voorafgaande kalenderjaar geen verkenningsonderzoek is verricht, is de bijdrage verschuldigd door de mijnbouwondernemers die in het aan dat kalenderjaar voorafgaande tijdvak van vijf kalenderjaren verkenningsonderzoek hebben verricht. De tweede en derde volzin van het eerste lid zijn van overeenkomstige toepassing.
 
 ##### Artikel 125
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 126
 
@@ -1497,13 +2435,13 @@ Vervallen
 
 ##### Artikel 127
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 128
 
-Vervallen
+*Vervallen*
 
-#### § 7.3. Gegevens in verband met aardwarmte en boorgaten
+#### § 8.4. Verzoeken om uitkeringen ten laste van het fonds
 
 ##### Artikel 129
 
@@ -1527,7 +2465,7 @@ Het fonds tekent op het verzoekschrift de datum van ontvangst aan en zendt de ve
 
 Onze Minister beslist op het verzoek binnen zes weken na ontvangst daarvan.
 
-#### § 7.1. Verstrekking gegevens
+#### § 8.5. Het beheer van het fonds
 
 ##### Artikel 132
 
@@ -1541,9 +2479,9 @@ Onze Minister beslist op het verzoek binnen zes weken na ontvangst daarvan.
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de inrichting en de administratie van het fonds, alsmede het op die inrichting en administratie uit te oefenen toezicht.
 
-### Hoofdstuk 9. Splitsen en samenvoegen van vergunningen
+### Hoofdstuk 9. Splitsen, afsplitsen en samenvoegen van vergunningen
 
-#### § 6.4. Het beëindigen van het gebruik van een pijpleiding
+#### § 9.1. Algemeen
 
 ##### Artikel 134
 
@@ -1565,7 +2503,21 @@ In dit hoofdstuk wordt verstaan onder vergunning: opsporingsvergunning, winnings
 
 Een aanvraag om splitsing wordt niet ingewilligd indien dat ertoe leidt dat een voorkomen van delfstoffen of aardwarmte dan wel een voorkomen voor het opslaan van stoffen in het oorspronkelijke vergunningsgebied zich door deze splitsing in twee of meer verschillende vergunningsgebieden zal bevinden.
 
-#### § 6.5. Kabels
+#### § 9.2a. Afsplitsen van winningsvergunningen
+
+##### Artikel 136a
+
+1. Op een aanvraag als bedoeld in [artikel 143, achtste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=143) van de houder van een winningsvergunning wijzigt Onze Minister de winningsvergunning door van het gebied waarop die vergunning betrekking heeft, af te splitsen een gebiedsdeel dat de vergunninghouder wil doen overgaan op een ander en verleent Onze Minister aan deze vergunninghouder een winningsvergunning voor het afgesplitste gebiedsdeel.
+
+2. De op grond van het eerste lid verleende winningsvergunning voor een afgesplitst gebiedsdeel geldt tezamen met de winningsvergunning waarvan dat deel is afgesplitst voor hetzelfde gebied als waarvoor de winningsvergunning voorafgaand aan de afsplitsing geldt.
+
+3. Het tijdvak waarvoor de op grond van het eerste lid te verlenen vergunning geldt, eindigt op het tijdstip waarop het tijdvak van de winningsvergunning waarvan dat deel is afgesplitst eindigt.
+
+##### Artikel 136b
+
+Een aanvraag om afsplitsing van een winningsvergunning wordt niet ingewilligd indien dat ertoe leidt dat een voorkomen van delfstoffen of aardwarmte dan wel een voorkomen voor het opslaan van stoffen in het oorspronkelijke vergunningsgebied zich door deze afsplitsing in twee of meer verschillende vergunningsgebieden zal bevinden.
+
+#### § 9.3. Samenvoegen van vergunningen
 
 ##### Artikel 137
 
@@ -1587,13 +2539,13 @@ Een aanvraag om splitsing wordt niet ingewilligd indien dat ertoe leidt dat een 
 
 ##### Artikel 139
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 140
 
 Een aanvraag om samenvoeging van twee of meerdere vergunningen wordt slechts ingewilligd, indien de voorwaarden van de desbetreffende totstandgekomen overeenkomsten, bedoeld in [artikel 81, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=81), respectievelijk artikel 81, onderdeel e, respectievelijk [artikel 86a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=86a), gelijkluidend zijn.
 
-#### § 7.1. Verstrekking gegevens
+#### § 9.4. Overige regels
 
 ##### Artikel 141
 
@@ -1613,9 +2565,9 @@ b. in het geval van een opsporings- of winningsvergunning indien deze in overweg
 
 ##### Artikel 142
 
-1. Met toepassing van [paragraaf 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=9&paragraaf=9.2&z=2026-01-01&g=2026-01-01) verleende vergunningen vervangen met ingang van het tijdstip waarop zij in werking treden, de te splitsen vergunning. De te splitsen vergunning vervalt op het tijdstip waarop de met toepassing van [paragraaf 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=9&paragraaf=9.2&z=2026-01-01&g=2026-01-01) verleende vergunningen onherroepelijk worden.
+1. Met toepassing van [paragraaf 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=9&paragraaf=9.2&z=2026-01-01&g=2026-01-01) verleende vergunningen vervangen met ingang van het tijdstip waarop zij in werking treden, de te splitsen vergunning. De te splitsen vergunning vervalt op het tijdstip waarop de met toepassing van [paragraaf 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=9&paragraaf=9.2&z=2026-01-01&g=2026-01-01) verleende vergunningen onherroepelijk worden.
 
-2. De met toepassing van [paragraaf 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=9&paragraaf=9.3&z=2026-01-01&g=2026-01-01) verleende vergunning vervangt met ingang van het tijdstip waarop zij in werking treedt, de samen te voegen vergunningen. De samen te voegen vergunningen vervallen op het tijdstip waarop de met toepassing van [paragraaf 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=9&paragraaf=9.3&z=2026-01-01&g=2026-01-01) verleende vergunning onherroepelijk wordt.
+2. De met toepassing van [paragraaf 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=9&paragraaf=9.3&z=2026-01-01&g=2026-01-01) verleende vergunning vervangt met ingang van het tijdstip waarop zij in werking treedt, de samen te voegen vergunningen. De samen te voegen vergunningen vervallen op het tijdstip waarop de met toepassing van [paragraaf 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=9&paragraaf=9.3&z=2026-01-01&g=2026-01-01) verleende vergunning onherroepelijk wordt.
 
 ##### Artikel 143
 
@@ -1627,13 +2579,23 @@ b. in het geval van een opsporings- of winningsvergunning indien deze in overweg
 
 4. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op het verzoek tot instemming, bedoeld in het tweede lid.
 
+##### Artikel 143a
+
+1. Voor zover het niet verenigbaar is met het bij of krachtens de wet bepaalde om aan de winningsvergunning voor een afgesplitst gebiedsdeel de beperkingen en voorschriften te verbinden, die zijn verbonden aan de winningsvergunning waarvan dat gebiedsdeel is afgesplitst, kan Onze Minister aan de winningsvergunning voor het afgesplitste gebiedsdeel aangepaste voorschriften en beperkingen verbinden.
+
+2. Onze Minister kan voorschriften en beperkingen aanpassen als bedoeld in het eerste lid, mede met het oog op:
+
+- a. het planmatig beheer of gebruik van delfstoffen, aardwarmte en andere natuurlijke rijkdommen, waaronder grondwater met het oog op de winning van drinkwater;
+
+- b. mogelijkheden tot het opslaan van stoffen.
+
 ##### Artikel 144
 
 De wijze waarop een aanvraag om splitsing, afsplitsing of samenvoeging geschiedt en de gegevens en de bescheiden, welke daarbij worden overgelegd, geschiedt bij ministeriële regeling te stellen regels.
 
 ### Hoofdstuk 10. De veiligheid van groeven
 
-#### § 8.2. Het vermogen van het fonds
+#### § 10.1. Algemeen
 
 ##### Artikel 145
 
@@ -1645,7 +2607,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - c. gedeputeerde staten: gedeputeerde staten van de provincie waarin een groeve geheel of voor het grootste deel is gelegen.
 
-#### § 6.2. Vergunningplicht pijpleidingen
+#### § 10.2. Vergunning voor winning van kalksteen
 
 ##### Artikel 146
 
@@ -1675,7 +2637,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 148
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 149
 
@@ -1687,7 +2649,7 @@ Indien een vergunning als bedoeld in [artikel 146](https://wetten.overheid.nl/jc
 
 2. Bij ministeriële regeling kunnen regels worden gesteld omtrent de in het eerste lid bedoelde kaart.
 
-#### § 8.4. Verzoeken om uitkeringen ten laste van het fonds
+#### § 10.3. Vergunning voor gebruik voor andere doeleinden
 
 ##### Artikel 151
 
@@ -1715,7 +2677,7 @@ Het verbod van [artikel 146, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 [Artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=10&paragraaf=10.2&artikel=149&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
-#### § 6.4. Het beëindigen van het gebruik van een pijpleiding
+#### § 10.4. Veiligheid
 
 ##### Artikel 155
 
@@ -1757,7 +2719,47 @@ De houder van een vergunning als bedoeld in de [artikelen 146](https://wetten.ov
 
 Indien een groeve tijdelijk buiten gebruik wordt gesteld, is [artikel 160, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=10&paragraaf=10.5&artikel=160&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
-### Hoofdstuk 7. Verstrekking, beheer en gebruik van gegevens
+### Hoofdstuk 10a. Retributies
+
+##### Artikel 161a
+
+1. De bedragen, verschuldigd op grond van [artikel 133, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) zijn vaste bedragen.
+
+2. De bedragen, bedoeld in [artikel 133, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) worden in rekening gebracht voor het op aanvraag verlenen, wijzigen, intrekken of beoordelen van:
+
+- a. een besluit als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [24d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24d);
+
+- b. een instemming met een winningsplan, een verwijderingsplan, of een rapport dan wel een beoordeling van een melding als bedoeld in de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=34), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44), [44a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a), [44c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44c), respectievelijk [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44) en een ontheffing als bedoeld [artikel 44b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44b);
+
+- c. een maatwerkvoorschrift als bedoeld in [artikel 4.5 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5);
+
+- d. een omgevingsvergunning als bedoeld in [artikel 5.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1);
+
+- e. een vergunning als bedoeld in de [artikelen 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=2&paragraaf=2.4&artikel=22&z=2026-01-01&g=2026-01-01), en [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=6&paragraaf=6.2&artikel=94&z=2026-01-01&g=2026-01-01);
+
+- f. een instemming als bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=55&z=2026-01-01&g=2026-01-01);
+
+- g. een ontheffing, instemming of beoordeling van een melding krachtens dit besluit of een krachtens dit besluit vastgestelde ministeriële regeling, die betrekking heeft op een productie-installatie, een niet-productie-installatie, een pijpleiding, een transmissie- of distributiesysteem voor gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1) of een mijnbouwwerk bedoeld voor het opsporen of winnen van aardwarmte;
+
+- h. een melding als bedoeld in [artikel 2.7 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.7);
+
+- i. een toestemming als bedoeld in [artikel 2.7 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.7);
+
+- j. gegevens en bescheiden als bedoeld in de [artikelen 4.1117](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1117), [6.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.47a) en [7.69 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.69);
+
+- k. een instemming met de aanwijzing van de uitvoerder aardwarmte als bedoeld in [artikel 24z, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24z).
+
+3. De bedragen die krachtens [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) in rekening worden gebracht voor de uitvoering van taken door de inspecteur-generaal der mijnen en de bedragen die krachtens het eerste lid in rekening worden gebracht worden onderscheiden:
+
+- a. per exploitant, eigenaar, verzoeker, aanvrager of houder van een zoekgebied aardwarmte, een startvergunning aardwarmte of een vervolgvergunning aardwarmte, of netbeheerder, waarbij een onderscheid kan worden gemaakt tussen actieve en niet-actieve exploitanten of eigenaren;
+
+- b. per activiteit, en
+
+- c. afhankelijk van de locatie op land of op zee, de eigenschappen en de grootte van de productie- installatie, de niet-productie-installatie, de pijpleiding, het transmissie- of distributiesysteem voor gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1) of het mijnbouwwerk bedoeld voor het opsporen of winnen van aardwarmte.
+
+4. Onze Minister brengt de bedragen in rekening en verzendt een beschikking daartoe aan de desbetreffende exploitant, eigenaar verzoeker, aanvrager of houder van een zoekgebied aardwarmte, een startvergunning aardwarmte of een vervolgvergunning aardwarmte, of netbeheerder.
+
+### Hoofdstuk 11. Overgangsbepalingen
 
 ##### Artikel 162
 
@@ -1771,9 +2773,9 @@ Indien een groeve tijdelijk buiten gebruik wordt gesteld, is [artikel 160, eerst
 
 2. Van de aan de in het eerste lid bedoelde opsporingvergunning verbonden voorschriften vervallen die voorschriften die overeenkomen met het bepaalde in de volgende met een Romeinse cijfer aangeduide artikelen van het koninklijk besluit tot uitvoering van artikel 12 van de Mijnwet continentaal plat van 6 februari 1976 (Stb. 102):
 
-- a. [artikel II](onbekend), uitgezonderd [artikel 21, eerste lid](onbekend),
+- a. artikel II, uitgezonderd artikel 21, eerste lid,
 
-- b. [artikel IX](onbekend),
+- b. artikel IX,
 
 - c. artikel X, en
 
@@ -1889,7 +2891,7 @@ Op een pijpleiding die voor 1 januari 2003 is aangelegd:
 
 ##### Artikel 171
 
-Een werkplan als bedoeld in [artikel 20 van het Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=20) of [28 van het Mijnreglement continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002564&artikel=28) dat is opgesteld voor het tijdstip van inwerkingtreding van de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) geldt gedurende het eerste kalenderjaar waarin [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) in werking is getreden als een werkplan als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=1&paragraaf=1.2&artikel=4&z=2026-01-01&g=2026-01-01).
+Een werkplan als bedoeld in [artikel 20 van het Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=20) of [28 van het Mijnreglement continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002564&artikel=28) dat is opgesteld voor het tijdstip van inwerkingtreding van de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) geldt gedurende het eerste kalenderjaar waarin [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) in werking is getreden als een werkplan als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=1&paragraaf=1.2&artikel=4&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 172
 
@@ -1905,15 +2907,15 @@ Een werkplan als bedoeld in [artikel 20 van het Mijnreglement 1964](https://wett
 
 ##### Artikel 174
 
-1. Een ontheffing als bedoeld in [artikel 40, vierde lid, van het Mijnreglement continentaal plat](onbekend) geldt als een in [artikel 51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=51&z=2026-01-01&g=2026-01-01), bedoelde ontheffing.
+1. Een ontheffing als bedoeld in artikel 40, vierde lid, van het Mijnreglement continentaal plat geldt als een in [artikel 51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=51&z=2026-01-01&g=2026-01-01), bedoelde ontheffing.
 
-2. Een verklaring als bedoeld in [36ja, eerste lid, van het Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=36ja) of [40, derde lid, van het Mijnreglement continentaal plat](onbekend) blijft geldig tot het tijdstip waarop de geldigheid van de verklaring verloopt.
+2. Een verklaring als bedoeld in [36ja, eerste lid, van het Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=36ja) of 40, derde lid, van het Mijnreglement continentaal plat blijft geldig tot het tijdstip waarop de geldigheid van de verklaring verloopt.
 
-3. Een ontheffing als bedoeld in de [artikelen 36k, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=36k), en [36l, zesde lid, van het Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=36l) of [41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002564&artikel=41), en [42, vijfde lid, van het Mijnreglement continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002564&artikel=42) geldt als een in [artikel 52, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=52&z=2026-01-01&g=2026-01-01), bedoelde ontheffing.
+3. Een ontheffing als bedoeld in de [artikelen 36k, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=36k), en [36l, zesde lid, van het Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=36l) of [41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002564&artikel=41), en [42, vijfde lid, van het Mijnreglement continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002564&artikel=42) geldt als een in [artikel 52, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=52&z=2026-01-01&g=2026-01-01), bedoelde ontheffing.
 
 ##### Artikel 175
 
-1. Een boorprogramma als bedoeld in de [artikelen 27, eerste lid, van het Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=27) of [59, eerste lid, van het Mijnreglement continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002564&artikel=59) en een werkprogramma als bedoeld in de [artikelen 32b, tweede lid, van het Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=32b) of [63b, tweede lid, van het Mijnreglement continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002564&artikel=63b) gelden als een werkprogramma als bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.2&artikel=74&z=2026-01-01&g=2026-01-01).
+1. Een boorprogramma als bedoeld in de [artikelen 27, eerste lid, van het Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=27) of [59, eerste lid, van het Mijnreglement continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002564&artikel=59) en een werkprogramma als bedoeld in de [artikelen 32b, tweede lid, van het Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=32b) of [63b, tweede lid, van het Mijnreglement continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002564&artikel=63b) gelden als een werkprogramma als bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.2&artikel=74&z=2026-01-01&g=2026-01-01).
 
 2. Een boorregister en een boorprofiel als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=25) respectievelijk [34, tweede lid, van het Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474&artikel=34) of in [artikel 64 van het Mijnreglement continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002564&artikel=64) gelden als een boorregister en een boorprofiel als bedoeld in [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.2&artikel=75&z=2026-01-01&g=2026-01-01), respectievelijk [109, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=7&paragraaf=7.1&artikel=109&z=2026-01-01&g=2026-01-01).
 
@@ -1945,79 +2947,83 @@ Een voor het tijdstip van de inwerkingtreding van dit besluit verleende ontheffi
 
 In afwijking van de [artikelen 146, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=146), voor zover de verschuldigdheid is ontstaan voor de inwerkingtreding van [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168), en [155, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=155) blijven op de heffing en invordering van een bonus, een oppervlakterecht, een cijns of een aandeel in de winst de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=72), voor zover daarbij [artikel 11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11), [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20), en [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA) van overeenkomstige toepassing zijn verklaard, en [73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=73) buiten toepassing.
 
+##### Artikel 181a
+
+[Artikel 119, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=7&paragraaf=7.3&artikel=119&z=2026-01-01&g=2026-01-01), is niet van toepassing op gegevens met betrekking tot opsporing of winning van aardwarmte waarvoor een aanvraag voor een subsidie op grond van [artikel 2, eerste lid, onderdeel c, van het Besluit stimulering duurzame energieproductie en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2) is ingediend voor 1 mei 2023.
+
 ### Hoofdstuk 12. Wijziging van enige algemene maatregelen van bestuur
 
-#### § 10.3. Vergunning voor gebruik voor andere doeleinden
+#### § 12.1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 ##### Artikel 182
 
-Wijzigt het Besluit op de lijkbezorging.
+*Wijzigt het Besluit op de lijkbezorging.*
 
-#### § 10.3. Vergunning voor gebruik voor andere doeleinden
+#### § 12.2. Ministerie van Justitie
 
 ##### Artikel 183
 
-Wijzigt het Vreemdelingenbesluit 2000.
+*Wijzigt het Vreemdelingenbesluit 2000.*
 
 #### § 12.3. Ministerie van Sociale Zaken en Werkgelegenheid
 
 ##### Artikel 184
 
-Wijzigt het Arbeidstijdenbesluit.
+*Wijzigt het Arbeidstijdenbesluit.*
 
 ##### Artikel 185
 
-Wijzigt het Arbeidstijdenbesluit vervoer.
+*Wijzigt het Arbeidstijdenbesluit vervoer.*
 
 ##### Artikel 186
 
-Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.
+*Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.*
 
 ##### Artikel 187
 
-Wijzigt het Besluit stralingsbescherming.
+*Wijzigt het Besluit stralingsbescherming.*
 
 #### § 12.4. Ministerie van Verkeer en Waterstaat
 
 ##### Artikel 188
 
-Wijzigt het Besluit inrichting en gebruik niet aangewezen luchtvaartterreinen.
+*Wijzigt het Besluit inrichting en gebruik niet aangewezen luchtvaartterreinen.*
 
 ##### Artikel 189
 
-Wijzigt het Rijksreglement ontgrondingen.
+*Wijzigt het Rijksreglement ontgrondingen.*
 
 #### § 12.5. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu
 
 ##### Artikel 190
 
-Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.
+*Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.*
 
 ##### Artikel 191
 
-Wijzigt het Besluit milieu-effectrapportage 1994.
+*Wijzigt het Besluit milieu-effectrapportage 1994.*
 
 ##### Artikel 192
 
-Wijzigt het Besluit risico's zware ongevallen 1999.
+*Wijzigt het Besluit risico's zware ongevallen 1999.*
 
 ##### Artikel 193
 
-Wijzigt het Besluit saneringsmaatregelen industrieterreinen 1994.
+*Wijzigt het Besluit saneringsmaatregelen industrieterreinen 1994.*
 
 ##### Artikel 194
 
-Wijzigt het Lozingenbesluit bodembescherming.
+*Wijzigt het Lozingenbesluit bodembescherming.*
 
-### Hoofdstuk 11. Overgangsbepalingen
+### Hoofdstuk 13. Slotbepalingen
 
 ##### Artikel 195
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 196
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 197
 
@@ -2026,1517 +3032,3 @@ Dit besluit wordt aangehaald als: Mijnbouwbesluit.
 ##### Artikel 198
 
 Dit besluit treedt in werking op het tijdstip waarop de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) in werking treedt, met dien verstande dat [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=1&paragraaf=1.2&artikel=4&z=2026-01-01&g=2026-01-01) in werking treedt op 1 januari van het kalenderjaar dat volgt op het kalenderjaar waarin die wet in werking is getreden.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 53a
-
-1. De uitvoerder verstrekt aan de inspecteur-generaal der mijnen uiterlijk twee dagen voordat een voor de winning of opslag bestemde mijnbouwinstallatie in gebruik wordt genomen:
-
-- a. een verklaring van een onafhankelijke deskundige dat de technische integriteit van de mijnbouwinstallatie gewaarborgd is gezien het ontwerp, de bouw en de plaatsing;
-
-- b. een verklaring van een onafhankelijke deskundige dat het onderzoeksprogramma, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=53&z=2026-01-01&g=2026-01-01), voor de mijnbouwinstallatie voldoet.
-
-2. Nadat de mijnbouwinstallatie in gebruik is genomen verstrekt de uitvoerder voorts de in het eerste lid bedoelde gegevens telkens een maand voor de afloop van een periode van vijf jaar, waarvan de eerste periode ingaat op de eerste dag van de maand die volgt op die van de ingebruikneming.
-
-3. Bij ministeriële regeling kunnen regels worden gesteld omtrent de in het eerste lid bedoelde verklaringen.
-
-#### § 5.2.3. Het buiten gebruik stellen en verwijderen van mijnbouwinstallaties die boven oppervlaktewater uitsteken
-
-#### § 4.2. Zoutholten
-
-### Afdeling 5.3. Boorgaten
-
-#### § 5.3.1. Algemeen
-
-#### § 5.2.4. Het ontwerpen, plaatsen en buiten gebruik stellen alsmede verwijderen van mijnbouwinstallaties geheel onder oppervlaktewater gelegen
-
-### Afdeling 5.3. Boorgaten
-
-#### § 5.3.1. Algemeen
-
-#### § 5.3.2. Informatievoorziening in verband met boorgaten
-
-### Hoofdstuk 6. Pijpleidingen en kabels
-
-#### § 5.4.1. Algemeen
-
-#### § 6.2. Vergunningplicht pijpleidingen
-
-#### § 5.2.3. Regels over het buiten werking zijn, het hergebruiken en het verwijderen van mijnbouwinstallaties
-
-#### § 5.4.1b. Kennisgevingen
-
-#### § 5.2.4. Regels over het ontwerpen, plaatsen, buiten werking zijn, het hergebruiken en het verwijderen van mijnbouwinstallaties geheel onder oppervlaktewater gelegen
-
-### Hoofdstuk 7. Verstrekking, beheer en gebruik van gegevens
-
-#### § 5.3.1. Algemeen
-
-#### § 7.2. Vertrouwelijkheid, beheer, gebruik en ter inzage legging van gegevens
-
-#### § 7.3. Gegevens in verband met aardwarmte en boorgaten
-
-### Hoofdstuk 8. Waarborgfonds mijnbouwschade
-
-#### § 5.4.1. Algemeen
-
-#### § 6.3. Het gebruik van een pijpleiding
-
-#### § 8.3. De bijdrage aan het fonds
-
-#### § 6.3. Het gebruik van een pijpleiding
-
-#### § 5.4.1b. Kennisgevingen
-
-### Hoofdstuk 9. Splitsen en samenvoegen van vergunningen
-
-#### § 9.1. Algemeen
-
-#### § 5.4.2. Rampenbestrijdingsplan
-
-#### § 7.2. Vertrouwelijkheid, beheer, gebruik en ter inzage legging van gegevens
-
-#### § 7.3. Gegevens in verband met aardwarmte en boorgaten
-
-### Hoofdstuk 10. De veiligheid van groeven
-
-#### § 6.2. Vergunningplicht pijpleidingen
-
-#### § 10.2. Vergunning voor winning van kalksteen
-
-#### § 9.4. Overige regels
-
-#### § 8.3. De bijdrage aan het fonds
-
-#### § 9.2. Splitsen van vergunningen
-
-### Hoofdstuk 11. Overgangsbepalingen
-
-### Hoofdstuk 12. Wijziging van enige algemene maatregelen van bestuur
-
-#### § 12.1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-
-#### § 12.2. Ministerie van Justitie
-
-#### § 10.4. Veiligheid
-
-#### § 8.5. Het beheer van het fonds
-
-#### § 10.5. Het buiten gebruik stellen van een groeve
-
-### Hoofdstuk 13. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### § 3.5. Aanvullende bepalingen voor permanent opslaan en transport van CO2
-
-##### Artikel 29a
-
-In deze paragraaf wordt verstaan onder:
-
-- a. **lekkage:** het weglekken van CO2 uit het CO2-opslagvoorkomen;
-
-- b. **significant risico:** een combinatie van een waarschijnlijkheid van het zich voordoen van schade en een omvang van schade die niet kan worden genegeerd;
-
-- c. **significante onregelmatigheid:** een onregelmatigheid bij de injectie- of opslagwerkzaamheden of in de toestand van het CO2-opslagcomplex zelf die het risico van lekkage doet ontstaan of een risico voor het milieu of de volksgezondheid oplevert;
-
-- d. **richtlijn nr. 2009/31/EG:** richtlijn nr. 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 (PbEG L 140) van het Europese Parlement en de Raad.
-
-##### Artikel 29b
-
-Bij ministeriële regeling kunnen voor een vergunning voor permanent opslaan van CO2 regels worden gesteld omtrent:
-
-- a. het tijdvak van injectie van CO2 en het gebied;
-
-- b. de ligging en begrenzing van het opslagvoorkomen en het gebied van het opslagcomplex;
-
-- c. gegevens met betrekking tot de hydraulische eenheid;
-
-- d. voorschriften voor het opslagproces;
-
-- e. de totale hoeveelheid CO2 die overeenkomstig de vergunning ten hoogste kan worden opgeslagen;
-
-- f. de grenswaarden van de druk van de opgeslagen CO2;
-
-- g. de maximum toelaatbare snelheid en druk bij injectie van CO2 en de maximaal toelaatbare druk van het opgeslagen CO2.
-
-##### Artikel 29c
-
-1. Onze Minister verbindt aan de vergunning voor permanent opslaan van CO2 het voorschrift risicobeheer als bedoeld in [artikel 31d, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31d), op te nemen in een risicobeheerplan.
-
-2. Het risicobeheerplan bevat ten minste een beschrijving van maatregelen te nemen om het risico van een significante onregelmatigheid en de mogelijke gevolgen daarvan zoveel mogelijk te beperken en voldoet aan Bijlage I, fase 3.3. van de richtlijn nr. 2009/31/EG.
-
-##### Artikel 29d
-
-1. Onze Minister verbindt aan de vergunning voor permanent opslaan van CO2 het voorschrift corrigerende maatregelen als bedoeld in [artikel 31d, eerste lid, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31d) uit te voeren volgens een plan.
-
-2. Het plan bevat ten minste een beschrijving van maatregelen om tijdens de injectie van CO2 en gedurende de verdere opslag significante onregelmatigheden te corrigeren of lekken te dichten teneinde lekkage te voorkomen of te doen ophouden.
-
-##### Artikel 29e
-
-1. De uitvoerder neemt onmiddellijk passende maatregelen op basis van het plan, bedoeld in [artikel 29d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29d&z=2026-01-01&g=2026-01-01), zodra zich een lekkage of significante onregelmatigheid voordoet.
-
-2. Zodra zich een significante onregelmatigheid of lekkage voordoet, meldt de uitvoerder dit onmiddellijk bij de inspecteur-generaal der mijnen en verstrekt hem zo spoedig mogelijk gegevens over:
-
-- a. de oorzaken van de significante onregelmatigheid of lekkage;
-
-- b. de aard en de ernst van de gevolgen van de significante onregelmatigheid of lekkage;
-
-- c. de maatregelen die zijn genomen of worden overwogen om de significante onregelmatigheid of lekkage te voorkomen, te beperken of ongedaan te maken;
-
-- d. de maatregelen die worden overwogen om te voorkomen dat een significante onregelmatigheid of een lekkage zich nogmaals kan voordoen.
-
-3. In geval van een lekkage of significante onregelmatigheid die een lekkagerisico inhoudt, stelt de uitvoerder de Nederlandse emissieautoriteit daarvan onmiddellijk op de hoogte.
-
-##### Artikel 29f
-
-1. Onze Minister verbindt aan de vergunning voor permanent opslaan van CO2 het voorschrift monitoring als bedoeld in [artikel 31d, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31d) uit te voeren volgens het monitoringsplan.
-
-2. Het monitoringsplan omvat de wijze van de monitoring van:
-
-- a. de injectiefaciliteiten,
-
-- b. het opslagcomplex en
-
-- c. het milieu in de directe nabijheid van het opslagcomplex, en is in overeenstemming met Bijlage II, onderdeel 1.1., van de richtlijn nr. 2009/31/EG.
-
-3. Het monitoringsplan heeft betrekking op de periode die aanvangt op het tijdstip van inwerkingtreding van een vergunning voor het permanent opslaan van CO2 en eindigt op het tijdstip waarop de vergunning op grond van [artikel 31j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31j) wordt ingetrokken.
-
-4. De keuze van de monitoringstechnologie in het monitoringsplan wordt gebaseerd op de beste praktijken die bij het opstellen van de ontwerp-vergunning beschikbaar zijn.
-
-5. Voorts wordt aan de vergunning het voorschrift verbonden het monitoringsplan drie maanden voor aanvang van de injectie van CO2 te actualiseren en om de vijf jaar te actualiseren op basis van wijzigingen in het beoordeelde lekkagerisico, wijzigingen in de beoordeelde risico’s voor het milieu en de volksgezondheid, nieuwe wetenschappelijk kennis en verbeteringen inzake de beste beschikbare techniek. Het geactualiseerde monitoringsplan wordt ter goedkeuring voorgelegd aan Onze Minister. De monitoring wordt uitgevoerd volgens het goedgekeurde monitoringsplan.
-
-##### Artikel 29g
-
-1. Het document, bedoeld in [artikel 31i, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31i) met betrekking tot afsluiting bevat ten minste:
-
-- 1°. voor zover het mijnbouwwerken, niet zijnde mijnbouwinstallaties, betreft:
-
-- a. een werkprogramma voor het buiten gebruik stellen van de boorgaten;
-
-- b. een beschrijving van de wijze waarop bij het mijnbouwwerk behorend materiaal zal worden afgevoerd;
-
-- c. een beschrijving van op het mijnbouwwerk aanwezige afvalstoffen en de bestemming ervan;
-
-- d. een beschrijving van de maatregelen die worden genomen ter voorkoming van schade;
-
-- e. een beschrijving van de maatregelen die worden genomen om het terrein waarop het mijnbouwwerk is opgericht in de oorspronkelijke staat terug te brengen.
-
-- 2°. voor zover het mijnbouwinstallaties betreft:
-
-- a. een werkprogramma voor het buiten gebruik stellen van de boorgaten;
-
-- b. de wijze waarop het verwijderen van de mijnbouwinstallatie en van schroot en ander materiaal als bedoeld in [artikel 44, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44) plaats zal vinden;
-
-- c. de wijze waarop zal worden aangetoond dat de plaats waarop de mijnbouwinstallatie op de zeebodem stond vrij van schroot en ander materiaal is;
-
-- d. de wijze waarop de mijnbouwinstallatie en het schroot en ander materiaal zal worden afgevoerd;
-
-- e. de eindbestemming van de mijnbouwinstallatie, de onderdelen ervan en schroot en ander materiaal en
-
-- f. de op de mijnbouwinstallatie aanwezige afvalstoffen en andere stoffen en de eindbestemming daarvan.
-
-2. Voorts bevat het plan gegevens omtrent de tijdstippen waarop de onderdelen van de afsluiting worden uitgevoerd.
-
-##### Artikel 29h
-
-1. Onze Minister verbindt aan de vergunning voor permanent opslaan van CO2 het voorschrift activiteiten ter voorkoming of beperking van schade door bodembeweging als bedoeld in [artikel 31d, eerste lid, onderdeel l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31d) uit te voeren volgens een plan.
-
-2. Het plan omvat ten minste:
-
-- a. een kaart met daarop de contouren van de verwachte uiteindelijke mate van bodemdaling of -stijging,
-
-- b. een overzicht met het verloop van de verwachte mate van bodemdaling of -stijging in de tijd,
-
-- c. een opgaaf van de onzekerheid omtrent de verwachte mate van bodembeweging als bedoeld in de onderdelen b en c,
-
-- d. een risico-analyse omtrent bodemtrillingen als gevolg van de opslag,
-
-- e. een beschrijving van de mogelijk omvang en verwachte aard van de schade door bodembeweging,
-
-- f. een beschrijving van de maatregelen die worden genomen om bodembeweging te voorkomen of te beperken, en
-
-- g. een beschrijving van de maatregelen die worden genomen om schade door bodembeweging te voorkomen of te beperken.
-
-3. Dit artikel is niet van toepassing op opslagvoorkomens die gelegen zijn aan de zeezijde van de lijn die in de [bijlage bij de wet](onbekend)is vastgelegd.
-
-##### Artikel 29i
-
-1. Het is verboden bij het permanent opslaan van CO2 en het transporteren van CO2 door een transportnetwerk als bedoeld in [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=32)naast CO2 andere stoffen op te slaan en te transporteren dan:
-
-- a. incidentele aanverwante stoffen, afkomstig uit de CO2-bron of het afvang- of injectieproces,
-
-- b. stoffen die nodig zijn voor transport of opslag in het opslagvoorkomen of
-
-- c. spoorelementen die aan het CO2 zijn toegevoegd als hulpmiddel bij het monitoren en het controleren van de beweging van CO2 binnen het CO2-opslagcomplex.
-
-2. De concentratie van de stoffen, bedoeld in het eerste lid, onderdelen a tot en met c, mag geen niveaus overschrijden die de integriteit van het opslagvoorkomen of het relevante transportnetwerk in het gedrang brengen of een significant risico voor het milieu of de volksgezondheid vormen.
-
-3. Het CO2 en de stoffen, bedoeld in het eerste lid, onderdelen a tot en met c, worden niet eerder opgeslagen dan nadat de uitvoerder heeft vastgesteld dat deze voldoen aan het tweede lid.
-
-##### Artikel 29j
-
-1. De vergunning bepaalt het bedrag waarvoor financiële zekerheid wordt gesteld voor het jaar waarin injectie volgens de aanvraag zal aanvangen en voor elk van de daaropvolgende vier jaren. Het bedrag voor het vierde jaar blijft voor opvolgende jaren van toepassing zolang het niet is aangepast.
-
-2. Het bedrag wordt per jaar vastgesteld op het totaal van:
-
-- a. een raming van de kosten van verwerving van broeikasgasemissierechten als bedoeld in [artikel 1.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), uitgaande van emissie als gevolg van ongecontroleerde uitstroom van CO2 gedurende de laatste drie maanden van het desbetreffende jaar;
-
-- b. een raming van de kosten van de uitvoering van het risicobeheerplan, genoemd in [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29c&z=2026-01-01&g=2026-01-01), uitgaande van uitvoering gedurende twee jaar;
-
-- c. een raming van de kosten van het nemen van de maatregel of maatregelen uit het plan met betrekking tot corrigerende maatregelen, bedoeld in [artikel 29d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29d&z=2026-01-01&g=2026-01-01), uitgaande van de meest ingrijpende in het plan voorziene maatregel of maatregelen;
-
-- d. een raming van de tot intrekking van de vergunning nog te maken kosten van uitvoering van het monitoringsplan, genoemd in [artikel 29f](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29f&z=2026-01-01&g=2026-01-01), uitgaande van intrekking van de vergunning twintig jaar na afsluiting;
-
-- e. een raming van de kosten van uitvoering van het afsluitingsplan, bedoeld in [artikel 29g](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29g&z=2026-01-01&g=2026-01-01);
-
-- f. een raming van de financiële bijdrage, bedoeld in [artikel 31j, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31j).
-
-3. De vorm waarin de zekerheid wordt gesteld behoeft de voorafgaande instemming van Onze Minister. De vergunninghouder doet hiertoe ten minste zes maanden voordat de zekerheid gesteld zal worden een aanvraag. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag.
-
-4. Onze Minister stemt in indien de zekerheid in zodanige vorm is gesteld dat naar het oordeel van Onze Minister vaststaat dat de Staat daarmee gedurende de gehele periode alle verplichtingen, bedoeld in het tweede lid, zo nodig ook zelf kan nakomen ten laste van de vergunninghouder. Onder financiële zekerheid in dit artikel wordt eveneens verstaan een uit oogpunt van zekerheid voor de Staat gelijkwaardige voorziening.
-
-5. Voor aanvang van injectie van CO2 toont de vergunninghouder Onze Minister aan dat de zekerheid in overeenstemming met de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)en dit artikel is gesteld.
-
-6. Onverminderd [artikel 31h, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31h), beziet Onze Minister op de voet van het tweede lid telkens na vijf jaar gerekend vanaf verlening van de vergunning de hoogte van het bedrag voor de eerstkomende vijf jaar. Het bedrag dat voor het laatste jaar in de vergunning is vastgesteld blijft voor opvolgende jaren van toepassing zolang het niet is aangepast. De vergunninghouder verstrekt Onze Minister uiterlijk drie maanden voor afloop van een vijfjaarstermijn de voor de ramingen, bedoeld in het tweede lid, benodigde gegevens vergezeld van adequate cijfermatige onderbouwing en toelichting.
-
-7. De vergunninghouder staakt injectie van CO2 zodra voortgaande injectie zou leiden tot een hoeveelheid opgeslagen CO2 die meer dan 15% hoger is dan de hoeveelheid die betrokken is in de raming, bedoeld in het tweede lid onder a, voor de vaststelling van de hoogte van het bedrag waarvoor op dat moment zekerheid is gesteld.
-
-8. Onze Minister kan bij ministeriële regeling nadere maatstaven voor raming van kosten als bedoeld in het tweede lid vaststellen.
-
-##### Artikel 29k
-
-De uitvoerder verstrekt Onze Minister jaarlijks voor 1 april:
-
-- a. de resultaten van de monitoring van het opgeslagen CO2 over het daaraan voorafgaande kalenderjaar met vermelding van de gebruikte technologie,
-
-- b. het bewijs dat financiële zekerheid of een gelijkwaardige voorziening is gesteld en aangehouden en
-
-- c. wijzigingen in de financiële en technische mogelijkheden van de vergunninghouder.
-
-##### Artikel 29l
-
-1. Indien de uitvoerder een verzoek doet om het intrekken van een vergunning voor permanent opslaan van CO2 als bedoeld in [artikel 31j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31j) overlegt hij aan Onze Minister:
-
-- a. gegevens waaruit blijkt dat het opgeslagen CO2 volledig en permanent ingesloten blijft,
-
-- b. een voorstel voor een financiële bijdrage als bedoeld in [artikel 31j, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31j) die de uitvoerder zal betalen bij de intrekking van de vergunning.
-
-2. De financiële bijdrage, bedoeld in het eerste lid, houdt rekening met de in bijlage I van de richtlijn 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 (PbEG L 140) van het Europese Parlement en de Raad bedoelde parameters en elementen inzake de voorgeschiedenis van de opslag van CO2 die relevant zijn voor het bepalen van de verplichtingen die na de overdracht gelden en dekt tenminste de geraamde monitoringskosten voor een periode van 30 jaar na het intrekken van de vergunning.
-
-##### Artikel 29m
-
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de [artikelen 29c tot en met 29h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29c&z=2026-01-01&g=2026-01-01), en [29i tot en met 29l](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.5&artikel=29i&z=2026-01-01&g=2026-01-01).
-
-### Hoofdstuk 3a. Het opsporen en winnen van aardwarmte
-
-#### § 4.2. Zoutholten
-
-### Hoofdstuk 5. Mijnbouwwerken
-
-### Afdeling 5.1. Mijnbouwwerken, uitgezonderd mijnbouwinstallaties
-
-#### § 5.1.1. Algemeen
-
-#### § 5.1.2. Regels over het gebruik van mijnbouwwerken
-
-#### § 5.1.3. Milieu
-
-#### § 5.1.4. Regels over het buiten werking zijn, het hergebruiken en het verwijderen van mijnbouwwerken
-
-### Afdeling 5.2. Mijnbouwinstallaties
-
-#### § 5.2.1. Algemeen
-
-#### § 5.2.2. Het ontwerpen, plaatsen en gebruiken van mijnbouwinstallaties die boven oppervlaktewater uitsteken
-
-#### § 5.1.2. Regels over het gebruik van mijnbouwwerken
-
-### Afdeling 5.4. Milieu en rampenbestrijdingsplan op mijnbouwinstallaties
-
-#### § 5.4.1. Algemeen
-
-#### § 5.4.2. Rampenbestrijdingsplan
-
-### Hoofdstuk 6. Pijpleidingen en kabels
-
-#### § 6.4. Het beëindigen van het gebruik van een pijpleiding
-
-#### § 6.1. Algemeen
-
-### Hoofdstuk 7. Verstrekking, beheer en gebruik van gegevens
-
-#### § 6.2. Vergunningplicht pijpleidingen
-
-#### § 7.2. Vertrouwelijkheid, beheer, gebruik en ter inzage legging van gegevens
-
-### Hoofdstuk 8. Waarborgfonds mijnbouwschade
-
-#### § 8.1. Begripsbepalingen
-
-#### § 8.3. De bijdrage aan het fonds
-
-#### § 8.4. Verzoeken om uitkeringen ten laste van het fonds
-
-### Hoofdstuk 6. Pijpleidingen en kabels
-
-#### § 6.1. Algemeen
-
-#### § 9.3. Samenvoegen van vergunningen
-
-### Hoofdstuk 10. De veiligheid van groeven
-
-#### § 10.1. Algemeen
-
-#### § 6.5. Kabels
-
-#### § 7.1. Verstrekking gegevens
-
-#### § 10.4. Veiligheid
-
-#### § 10.5. Het buiten gebruik stellen van een groeve
-
-### Hoofdstuk 8. Waarborgfonds mijnbouwschade
-
-### Hoofdstuk 9. Splitsen, afsplitsen en samenvoegen van vergunningen
-
-#### § 9.1. Algemeen
-
-#### § 9.2. Splitsen van vergunningen
-
-#### § 9.2a. Afsplitsen van winningsvergunningen
-
-#### § 12.4. Ministerie van Verkeer en Waterstaat
-
-#### § 9.4. Overige regels
-
-### Hoofdstuk 10. De veiligheid van groeven
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 44a
-
-Vervallen
-
-#### § 5.2.3. Het buiten gebruik stellen en verwijderen van mijnbouwinstallaties die boven oppervlaktewater uitsteken
-
-#### § 5.2.3. Regels over het buiten werking zijn, het hergebruiken en het verwijderen van mijnbouwinstallaties
-
-### Afdeling 5.3. Boorgaten
-
-#### § 5.3.1. Algemeen
-
-#### § 5.3.2. Informatievoorziening in verband met boorgaten
-
-### Afdeling 5.4. Milieu en rampenbestrijdingsplan
-
-#### § 5.4.1. Algemeen
-
-##### Artikel 84a
-
-Deze paragraaf is van toepassing op mijnbouwwerken die gebruikt worden voor de opsporing of winning van koolwaterstoffen.
-
-##### Artikel 84b
-
-1. Een rapport inzake grote gevaren voor een productie-installatie bevat naast de documenten bedoeld in [artikel 45c van de wet](onbekend), de volgende gegevens:
-
-- a. een veiligheids- en gezondheidsdocument, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42) en [2.42f van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f);
-
-- b. een intern rampenplan, bedoeld in [artikel 84d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.4&paragraaf=5.4.1a&artikel=84d&z=2026-01-01&g=2026-01-01);
-
-- c. overige informatie.
-
-2. Een exploitant van een productie-installatie raadpleegt een ondernemingsraad als bedoeld in [artikel 2 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=2) of een personeelsvertegenwoordiging als bedoeld in [artikel 35b van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=35b) bij het opstellen van het rapport inzake grote gevaren voor een productie-installatie. Bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging, voert een exploitant van een productie-installatie overleg met de belanghebbende werknemers. Over het rapport wordt tevens overleg gevoerd met de werknemers van andere werkgevers, die op basis van een langlopende overeenkomst tot aanneming van werk mede in het bedrijf of de inrichting werkzaam zijn.
-
-3. De exploitant van een productie-installatie voldoet aan de maatregelen die zijn vastgesteld in het rapport inzake grote gevaren voor de betreffende installatie.
-
-4. Het rapport inzake grote gevaren is aanwezig op het mijnbouwwerk.
-
-5. Bij ministeriële regeling worden regels gesteld over de overige informatie, bedoeld in het eerste lid.
-
-##### Artikel 84c
-
-1. Een rapport inzake grote gevaren voor een niet-productie-installatie bevat naast de documenten bedoeld in [artikel 45g van de wet](onbekend), de volgende gegevens:
-
-- a. een veiligheids- en gezondheidsdocument, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42) en [2.42f van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f);
-
-- b. een intern rampenplan, bedoeld in [artikel 84d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.4&paragraaf=5.4.1a&artikel=84d&z=2026-01-01&g=2026-01-01);
-
-- c. overige informatie.
-
-2. Een eigenaar van een niet-productie-installatie raadpleegt een ondernemingsraad als bedoeld in [artikel 2 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=2) of een personeelsvertegenwoordiging als bedoeld in [artikel 35b van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=35b) bij het opstellen van het rapport inzake grote gevaren voor een niet-productie-installatie. Bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging, voert een eigenaar overleg met de belanghebbende werknemers. Over het rapport wordt tevens overleg gevoerd met de werknemers van andere werkgevers, die op basis van een langlopende overeenkomst tot aanneming van werk mede in het bedrijf of de inrichting werkzaam zijn.
-
-3. De eigenaar van een niet-productie-installatie voldoet aan de maatregelen die zijn vastgesteld in het rapport inzake grote gevaren voor de betreffende installatie.
-
-4. Het rapport inzake grote gevaren is aanwezig op het mijnbouwwerk.
-
-5. Bij ministeriële regeling worden regels gesteld over de overige informatie, bedoeld in het eerste lid.
-
-##### Artikel 84d
-
-1. Een intern rampenplan bevat de volgende gegevens:
-
-- a. een noodplan als bedoeld in [artikel 3.37v van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37);
-
-- b. een op grond van [artikel 2.42f van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f), op te stellen brandbestrijdingsplan;
-
-- c. een rampenbestrijdingsplan als bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.4&paragraaf=5.4.2&artikel=85&z=2026-01-01&g=2026-01-01);
-
-- d. een analyse van de doeltreffendheid van de respons op olielekken.
-
-2. Bij het opstellen van het intern rampenplan als bedoeld in het eerste lid wordt rekening gehouden met de risicobeoordeling van zware ongevallen die tijdens het opstellen van het meest recente rapport inzake grote gevaren is uitgevoerd.
-
-3. Bij ministeriële regeling worden nadere regels gesteld over een intern rampenplan.
-
-4. Een exploitant van een productie-installatie of een eigenaar van een niet-productie-installatie stelt bij een zwaar ongeval het intern rampenplan onverwijld in werking.
-
-5. Een exploitant van een productie-installatie of een eigenaar van een niet-productie-installatie beschikt over de noodzakelijke apparatuur en deskundigheid ter uitvoering van het intern rampenplan.
-
-##### Artikel 84e
-
-1. Een regeling voor onafhankelijke verificatie voor boorgatactiviteiten als bedoeld in artikel 45l van de wet, waarborgt op onafhankelijke wijze dat het ontwerp en de controlemaatregelen voor de boorgaten te allen tijde geschikt zijn voor de verwachte boorgatomstandigheden.
-
-2. Een onafhankelijke verificateur dient voldoende onafhankelijk en deskundig te zijn.
-
-3. Bij ministeriële regeling worden ten aanzien van de regeling als bedoeld in het eerste lid nadere regels gesteld over de selectie van de onafhankelijke verificateur, over het ontwerp van de regeling alsmede welke informatie moet worden voorgelegd over de regeling.
-
-##### Artikel 84f
-
-1. Een regeling voor onafhankelijke verificatie voor installaties als bedoeld in [artikel 45l van de wet](onbekend), waarborgt op onafhankelijke wijze dat de veiligheids- en milieukritische elementen die worden vermeld in de risicobeoordeling voor de installatie als beschreven in het rapport inzake grote gevaren, geschikt zijn en dat de planning van inspecties en testen van de veiligheids- en milieukritische elementen geschikt en bijgewerkt zijn en verlopen zoals voorzien.
-
-2. Een onafhankelijke verificateur dient voldoende onafhankelijk en deskundig te zijn.
-
-3. De regeling voor onafhankelijke verificatie wordt voor een productie-installatie getroffen voordat het ontwerp is voltooid.
-
-4. De regeling voor onafhankelijke verificatie wordt voor een niet- productie-installatie getroffen voordat de activiteiten worden gestart.
-
-5. Bij ministeriële regeling worden nadere regels gesteld over de selectie van de onafhankelijke verificateur, over het ontwerp van de regeling alsmede welke informatie moet worden voorgelegd over de regeling.
-
-##### Artikel 84g
-
-1. Een eigenaar van een niet-productie-installatie en een exploitant van een productie-installatie nemen binnen een bij ministeriële regeling vast te stellen termijn op basis van het advies van de onafhankelijke verificateur passende maatregelen en reageren op het advies van de onafhankelijke verificateur.
-
-2. Een eigenaar van een niet-productie-installatie en een exploitant van een productie-installatie stellen het Staatstoezicht op de Mijnen in kennis van het advies van de onafhankelijke verificateur en de reactie op het advies, binnen een bij ministeriële regeling vast te stellen termijn.
-
-##### Artikel 84h
-
-Deze paragraaf is van toepassing op mijnbouwwerken die gebruikt worden voor de opsporing of winning van koolwaterstoffen.
-
-##### Artikel 84i
-
-1. Een kennisgeving als bedoeld in [artikel 45m van de wet](onbekend), bevat de volgende informatie:
-
-- a. een op basis van [artikel 2.42f van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f) op te stellen veiligheids- en gezondheidsdocument voor een voorgenomen installatie;
-
-- b. overige informatie.
-
-2. Bij ministeriële regeling worden nadere regels gesteld over de kennisgeving.
-
-##### Artikel 84j
-
-1. Een kennisgeving als bedoeld in [artikel 45n van de wet](onbekend), bevat de volgende informatie:
-
-- a. gegevens van het ontwerp van de boorgat;
-
-- b. de voorgestelde boorgatactiviteiten;
-
-- c. het werkprogramma, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.2&artikel=74&z=2026-01-01&g=2026-01-01);
-
-- d. een op basis van [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42) en [2.42f van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f) op te stellen veiligheids- en gezondheidsdocument voor werkzaamheden;
-
-- e. de bevindingen en opmerkingen van de onafhankelijke verificateur en de reactie van de exploitant en de door hem genomen maatregelen ten gevolge daarvan;
-
-- f. overige informatie.
-
-2. De exploitant voldoet in geval van een boorgatactiviteit aan de maatregelen die zijn vastgesteld in de kennisgeving van de boorgatactiviteit.
-
-3. Bij ministeriële regeling worden nadere regels gesteld over de kennisgeving.
-
-##### Artikel 84k
-
-1. Een kennisgeving, bedoeld in [artikel 45p van de wet](onbekend), bevat de volgende informatie:
-
-- a. een op basis van [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42) en [2.42f van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f) op te stellen veiligheids- en gezondheidsdocument voor gelijktijdig uit te voeren werkzaamheden;
-
-- b. overige informatie.
-
-2. Bij ministeriële regeling worden nadere regels gesteld over de kennisgeving.
-
-##### Artikel 84l
-
-1. Een exploitant van een productie-installatie en eigenaren van niet-productie-installaties voldoen aan de maatregelen die zijn vastgesteld in de kennisgevingen als bedoeld in de [artikelen 84j](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.4&paragraaf=5.4.1b&artikel=84j&z=2026-01-01&g=2026-01-01) en [84k](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.4&paragraaf=5.4.1b&artikel=84k&z=2026-01-01&g=2026-01-01).
-
-2. Een exploitant van een voorgenomen productie-installatie houdt rekening met de opmerkingen van het Staatstoezicht op de mijnen ten aanzien van de kennisgeving van het ontwerp voor deze installatie, in het rapport inzake grote gevaren voor de productie-installatie.
-
-#### § 5.4.2. Rampenbestrijdingsplan
-
-##### Artikel 84m
-
-Deze paragraaf is van toepassing op mijnbouwwerken.
-
-##### Artikel 88a
-
-De exploitant van een productie-installatie die in Nederland is gevestigd of diens dochteronderneming doet op verzoek van het Staatstoezicht op de mijnen verslag over de omstandigheden van elk zwaar ongeval dat zich buiten de Europese Unie heeft voltrokken en waar deze bij betrokken is geweest.
-
-### Hoofdstuk 6. Pijpleidingen en kabels
-
-#### § 6.4. Het beëindigen van het gebruik van een pijpleiding
-
-#### § 6.5. Kabels
-
-### Hoofdstuk 7. Verstrekking, beheer en gebruik van gegevens
-
-#### § 5.4.2. Rampenbestrijdingsplan
-
-#### § 7.3. Gegevens in verband met aardwarmte en boorgaten
-
-### Hoofdstuk 8. Waarborgfonds mijnbouwschade
-
-#### § 8.1. Begripsbepalingen
-
-#### § 6.1. Algemeen
-
-#### § 6.4. Het beëindigen van het gebruik van een pijpleiding
-
-### Hoofdstuk 9. Splitsen, afsplitsen en samenvoegen van vergunningen
-
-#### § 9.1. Algemeen
-
-#### § 6.5. Kabels
-
-#### § 9.2a. Afsplitsen van winningsvergunningen
-
-##### Artikel 136a
-
-1. Op een aanvraag als bedoeld in [artikel 143, achtste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=143) van de houder van een winningsvergunning wijzigt Onze Minister de winningsvergunning door van het gebied waarop die vergunning betrekking heeft, af te splitsen een gebiedsdeel dat de vergunninghouder wil doen overgaan op een ander en verleent Onze Minister aan deze vergunninghouder een winningsvergunning voor het afgesplitste gebiedsdeel.
-
-2. De op grond van het eerste lid verleende winningsvergunning voor een afgesplitst gebiedsdeel geldt tezamen met de winningsvergunning waarvan dat deel is afgesplitst voor hetzelfde gebied als waarvoor de winningsvergunning voorafgaand aan de afsplitsing geldt.
-
-3. Het tijdvak waarvoor de op grond van het eerste lid te verlenen vergunning geldt, eindigt op het tijdstip waarop het tijdvak van de winningsvergunning waarvan dat deel is afgesplitst eindigt.
-
-##### Artikel 136b
-
-Een aanvraag om afsplitsing van een winningsvergunning wordt niet ingewilligd indien dat ertoe leidt dat een voorkomen van delfstoffen of aardwarmte dan wel een voorkomen voor het opslaan van stoffen in het oorspronkelijke vergunningsgebied zich door deze afsplitsing in twee of meer verschillende vergunningsgebieden zal bevinden.
-
-#### § 9.3. Samenvoegen van vergunningen
-
-#### § 9.4. Overige regels
-
-##### Artikel 143a
-
-1. Voor zover het niet verenigbaar is met het bij of krachtens de wet bepaalde om aan de winningsvergunning voor een afgesplitst gebiedsdeel de beperkingen en voorschriften te verbinden, die zijn verbonden aan de winningsvergunning waarvan dat gebiedsdeel is afgesplitst, kan Onze Minister aan de winningsvergunning voor het afgesplitste gebiedsdeel aangepaste voorschriften en beperkingen verbinden.
-
-2. Onze Minister kan voorschriften en beperkingen aanpassen als bedoeld in het eerste lid, mede met het oog op:
-
-- a. het planmatig beheer of gebruik van delfstoffen, aardwarmte en andere natuurlijke rijkdommen, waaronder grondwater met het oog op de winning van drinkwater;
-
-- b. mogelijkheden tot het opslaan van stoffen.
-
-### Hoofdstuk 10. De veiligheid van groeven
-
-#### § 7.3. Gegevens in verband met aardwarmte en boorgaten
-
-#### § 8.1. Begripsbepalingen
-
-#### § 8.5. Het beheer van het fonds
-
-##### Artikel 161a
-
-1. De bedragen, verschuldigd op grond van [artikel 133, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) zijn vaste bedragen.
-
-2. De bedragen, bedoeld in [artikel 133, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) worden in rekening gebracht voor het op aanvraag verlenen, wijzigen, intrekken of beoordelen van:
-
-- a. een besluit als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [24d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24d);
-
-- b. een instemming met een winningsplan, een verwijderingsplan, of een rapport dan wel een beoordeling van een melding als bedoeld in de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=34), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44), [44a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a), [44c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44c), respectievelijk [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44) en een ontheffing als bedoeld [artikel 44b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44b);
-
-- c. een maatwerkvoorschrift als bedoeld in [artikel 4.5 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5);
-
-- d. een omgevingsvergunning als bedoeld in [artikel 5.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1);
-
-- e. een vergunning als bedoeld in de [artikelen 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=2&paragraaf=2.4&artikel=22&z=2026-01-01&g=2026-01-01), en [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=6&paragraaf=6.2&artikel=94&z=2026-01-01&g=2026-01-01);
-
-- f. een instemming als bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=55&z=2026-01-01&g=2026-01-01);
-
-- g. een ontheffing, instemming of beoordeling van een melding krachtens dit besluit of een krachtens dit besluit vastgestelde ministeriële regeling, die betrekking heeft op een productie-installatie, een niet-productie-installatie, een pijpleiding, een transmissie- of distributiesysteem voor gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1) of een mijnbouwwerk bedoeld voor het opsporen of winnen van aardwarmte;
-
-- h. een melding als bedoeld in [artikel 2.7 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.7);
-
-- i. een toestemming als bedoeld in [artikel 2.7 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.7);
-
-- j. gegevens en bescheiden als bedoeld in de [artikelen 4.1117](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1117), [6.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.47a) en [7.69 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.69);
-
-- k. een instemming met de aanwijzing van de uitvoerder aardwarmte als bedoeld in [artikel 24z, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24z).
-
-3. De bedragen die krachtens [artikel 133, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133) in rekening worden gebracht voor de uitvoering van taken door de inspecteur-generaal der mijnen en de bedragen die krachtens het eerste lid in rekening worden gebracht worden onderscheiden:
-
-- a. per exploitant, eigenaar, verzoeker, aanvrager of houder van een zoekgebied aardwarmte, een startvergunning aardwarmte of een vervolgvergunning aardwarmte, of netbeheerder, waarbij een onderscheid kan worden gemaakt tussen actieve en niet-actieve exploitanten of eigenaren;
-
-- b. per activiteit, en
-
-- c. afhankelijk van de locatie op land of op zee, de eigenschappen en de grootte van de productie- installatie, de niet-productie-installatie, de pijpleiding, het transmissie- of distributiesysteem voor gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1) of het mijnbouwwerk bedoeld voor het opsporen of winnen van aardwarmte.
-
-4. Onze Minister brengt de bedragen in rekening en verzendt een beschikking daartoe aan de desbetreffende exploitant, eigenaar verzoeker, aanvrager of houder van een zoekgebied aardwarmte, een startvergunning aardwarmte of een vervolgvergunning aardwarmte, of netbeheerder.
-
-### Hoofdstuk 10a. Retributies
-
-### Hoofdstuk 12. Wijziging van enige algemene maatregelen van bestuur
-
-#### § 12.1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-
-#### § 12.1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-
-#### § 10.3. Vergunning voor gebruik voor andere doeleinden
-
-#### § 10.4. Veiligheid
-
-#### § 12.5. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu
-
-### Hoofdstuk 10a. Retributies
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 40a
-
-1. De houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) overlegt voor een mijnbouwwerk als bedoeld in[artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.4&artikel=40&z=2026-01-01&g=2026-01-01), een verwijderingsplan als bedoeld in [artikel 44, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44), tenzij:
-
-- a. Onze Minister voor dat mijnbouwwerk een vergunning als bedoeld in [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.4&artikel=40&z=2026-01-01&g=2026-01-01), heeft verstrekt of
-
-- b. naar het oordeel van de inspecteur-generaal der mijnen voor dat mijnbouwwerk met een werkprogramma of een rapport als bedoeld in [artikel 40, eerste lid, onderdeel b, onder 1°, respectievelijk 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.4&artikel=40&z=2026-01-01&g=2026-01-01), in de verwijdering van het mijnbouwwerk is voorzien.
-
-2. De inspecteur-generaal der mijnen informeert Onze Minister over het oordeel, bedoeld in het eerste lid, onderdeel b.
-
-### Afdeling 5.2. Mijnbouwinstallaties
-
-#### § 5.2.1. Algemeen
-
-##### Artikel 45a
-
-Vervallen
-
-#### § 5.1.3. Milieu
-
-#### § 5.2.4. Het ontwerpen, plaatsen en buiten gebruik stellen alsmede verwijderen van mijnbouwinstallaties geheel onder oppervlaktewater gelegen
-
-### Afdeling 5.2. Mijnbouwinstallaties
-
-#### § 5.2.1. Algemeen
-
-#### § 5.3.1. Algemeen
-
-### Afdeling 5.4. Milieu en rampenbestrijdingsplan
-
-#### § 5.4.1a. Rapport inzake grote gevaren en overige documenten
-
-### Hoofdstuk 6. Pijpleidingen en kabels
-
-#### § 5.3.2. Informatievoorziening in verband met boorgaten
-
-#### § 5.4.1a. Rapport inzake grote gevaren en overige documenten
-
-### Hoofdstuk 7. Verstrekking, beheer en gebruik van gegevens
-
-#### § 5.4.1b. Kennisgevingen
-
-### Hoofdstuk 6. Pijpleidingen en kabels
-
-#### § 8.1. Begripsbepalingen
-
-### Hoofdstuk 9. Splitsen, afsplitsen en samenvoegen van vergunningen
-
-#### § 8.5. Het beheer van het fonds
-
-#### § 7.2. Vertrouwelijkheid, beheer, gebruik en ter inzage legging van gegevens
-
-#### § 8.2. Het vermogen van het fonds
-
-#### § 8.4. Verzoeken om uitkeringen ten laste van het fonds
-
-### Hoofdstuk 12. Wijziging van enige algemene maatregelen van bestuur
-
-#### § 12.3. Ministerie van Sociale Zaken en Werkgelegenheid
-
-#### § 12.4. Ministerie van Verkeer en Waterstaat
-
-#### § 12.1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-
-### Hoofdstuk 11. Overgangsbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 40b
-
-1. Bij de melding, bedoeld in [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44) vermeldt de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) in ieder geval:
-
-- a. de locatie van het mijnbouwwerk;
-
-- b. de datum waarop het mijnbouwwerk buiten werking is gesteld;
-
-- c. de wijze waarop het mijnbouwwerk buiten werking is gesteld;
-
-- d. in het geval van een mijnbouwwerk voor zoutwinning welke maatregelen zijn genomen om de holruimte te monitoren vanuit een analyse in een systeembenadering van de risico’s van dat mijnbouwwerk;
-
-- e. bij een mijnbouwwerk anders dan een mijnbouwwerk voor zoutwinning, welke maatregelen noodzakelijk zijn aan de hand van de specifieke risico’s van dat mijnbouwwerk.
-
-2. Van de melding, bedoeld in het eerste lid, wordt door Onze Minister mededeling gedaan in de Staatscourant.
-
-##### Artikel 40c
-
-1. De aanvraag tot instemming met een verwijderingsplan als bedoeld in [artikel 44a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a) bevat ten minste een beschrijving van:
-
-- a. de aanduiding, locatie, aard en functie van het mijnbouwwerk ten tijde van de aanvraag om instemming met het verwijderingsplan;
-
-- b. de activiteiten, bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.2&artikel=74&z=2026-01-01&g=2026-01-01), die hebben geleid tot wijziging van de inrichting van het boorgat;
-
-- c. de afspraken met de eigenaar van het terrein waarop het mijnbouwwerk is opgericht en andere belanghebbenden;
-
-- d. de methode en een schatting van de kosten van het buiten gebruik stellen van een boorgat en het verwijderen van de bovengrondse installaties;
-
-- e. de staat waarin het ondergrondse deel van het mijnbouwwerk wordt achtergelaten;
-
-- f. de datum van indiening van het werkprogramma voor het buiten gebruik stellen van een boorgat en de planning van de uitvoering;
-
-- g. het schoon en veilig achterlaten of verwijderen van kabels en pijpleidingen;
-
-- h. de wijze waarop de materialen die bij het mijnbouwwerk behoren, worden afgevoerd en de bestemming ervan;
-
-- i. de op het mijnbouwwerk aanwezige afvalstoffen als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) en de bestemming ervan;
-
-- j. de risico’s van een mijnbouwwerk dat is gebruikt voor de winning van zout na verwijdering van de bovengrondse installaties en het buiten gebruik stellen van het boorgat aan de hand van een analyse van deze risico’s in een systeembenadering en de bij dat mijnbouwwerk te nemen beheersmaatregelen, waaronder een beschrijving van een uit te voeren monitoring, indien:
-
-- 1°. die beheersmaatregelen nodig zijn in het belang van de veiligheid of het milieu en
-
-- 2°. deze risico’s of beheersmaatregelen niet zijn beschreven in een winningsplan als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=34&z=2026-01-01&g=2026-01-01), een opslagplan als bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=39), of een meetplan als bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=4&paragraaf=4.1&artikel=30&z=2026-01-01&g=2026-01-01);
-
-- k. de maatregelen die worden genomen om het terrein waarop het mijnbouwwerk is opgericht en de bodem van het terrein zoveel mogelijk in de oorspronkelijke staat terug te brengen of in het geval het terrein of de bodem niet in de oorspronkelijke staat worden teruggebracht, de toestand waarin het terrein na uitvoering van het verwijderingsplan wordt achtergelaten;
-
-- l. het beoogde gebruik van het terrein; en
-
-- m. in geval van een gedeeltelijke verwijdering van het mijnbouwwerk voor welk doel het mijnbouwwerk wordt hergebruikt en een beschrijving daarvan.
-
-2. Het verwijderingsplan vermeldt binnen welke perioden de beschreven werkzaamheden beginnen en eindigen en kan in een fasering van de verwijdering voorzien.
-
-3. In afwijking van het eerste lid, aanhef, kan bij het overleggen van informatie als bedoeld in het eerste lid, onderdelen a tot en met k, worden volstaan met een verwijzing naar informatie die is of wordt overgelegd bij een aanvraag om een vergunning, een melding of de naleving van een verplichting tot het overleggen van gegevens en bescheiden krachtens de wet, respectievelijk de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), in het geval die informatie de relevante feiten bevat of zal bevatten die nodig zijn voor een besluit tot instemming met het verwijderingsplan, respectievelijk een besluit tot instemming met het verwijderingsplan onder het stellen van voorwaarden of voorschriften.
-
-4. Onze Minister beslist binnen dertien weken na het overleggen van een verwijderingsplan over de instemming.
-
-5. Van de instemming, bedoeld in het eerste lid, wordt door Onze Minister mededeling gedaan in de Staatscourant.
-
-6. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag tot instemming met een verwijderingsplan.
-
-##### Artikel 40d
-
-1. Onze Minister kan aan de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) van de wet een instemming met een verwijderingsplan, bedoeld in [artikel 44a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a) weigeren, indien:
-
-- a. het verwijderingsplan onvoldoende voorziet in een beschrijving van werkzaamheden, methode en kosten van de verwijdering die nodig zijn gedurende de periode van uitvoering van het verwijderingsplan, waaronder monitoring;
-
-- b. het verwachte resultaat van de uitvoering van het verwijderingsplan onvoldoende is beschreven;
-
-- c. het mijnbouwwerk in aanmerking komt voor hergebruik;
-
-- d. het mijnbouwwerk niet in aanmerking komt voor het in de aanvraag beschreven gedeeltelijk hergebruik als mijnbouwwerk;
-
-- e. in het geval van hergebruik het bevoegd gezag, bedoeld in [artikel 44a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a), voor zover het hergebruik betreft, geen verklaring van geen bedenkingen heeft gegeven;
-
-- f. naar het oordeel van het bevoegde gezag krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) het voorstel tot onderzoeken of saneren van de bodem niet voldoet;
-
-- g. de bestemming van de af te voeren materialen en afvalstoffen onduidelijk is;
-
-- h. de planning van de uitvoering van de verwijdering niet duidelijk is of voorziet in een onredelijk lange termijn;
-
-- i. de verwijdering van een mijnbouwwerk voor de winning van zout leidt tot:
-
-- 1°. meer bodembeweging, dan blijkt uit een beschrijving als bedoeld in [artikel 35, eerste lid, onder f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=35); of
-
-- 2°. een andere wijze van het buiten gebruik stellen van een holruimte dan blijkt uit een beschrijving als bedoeld in [artikel 25, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2026-01-01&g=2026-01-01).
-
-2. Onze Minister kan een instemming ambtshalve geheel of gedeeltelijk wijzigen of intrekken, indien:
-
-- a. het bevoegde gezag, bedoeld in het eerste lid, onderdelen e en f, tot een afwijzend oordeel komt over het geheel of gedeeltelijk hergebruik van het mijnbouwwerk;
-
-- b. het bevoegde gezag krachtens de wet geen vergunning verstrekt voor het opsporen, winnen, of opslaan van delfstoffen, aardwarmte, respectievelijk stoffen;
-
-- c. de houder van een vergunning de instemming voor het geheel of een gedeelte van het verwijderingsplan niet langer nodig heeft; of
-
-- d. de houder van een vergunning niet overeenkomstig de instemming handelt of heeft gehandeld.
-
-##### Artikel 40e
-
-1. Onze Minister kan aan de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) een tijdelijke ontheffing als bedoeld in [artikel 44b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44b) verlenen, indien het mijnbouwwerk:
-
-- a. nodig is voor het gebruik van een ander mijnbouwwerk als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01);
-
-- b. doelmatiger kan worden verwijderd of hergebruikt, indien de houder van een vergunning het mijnbouwwerk tezamen met een ander mijnbouwwerk verwijdert of hergebruikt;
-
-- c. in aanmerking komt voor geheel of gedeeltelijk hergebruik als onderzoek is of wordt verricht naar de geschiktheid voor opsporing of winning van delfstoffen of aardwarmte of de opslag van stoffen;
-
-- d. redelijkerwijs rendabel opnieuw in gebruik genomen kan worden na:
-
-- 1°. verbetering van de omstandigheden op de markt voor koolwaterstoffen, andere delfstoffen, aardwarmte, respectievelijk de opslag van stoffen;
-
-- 2°. een technische innovatie voor de winning van koolwaterstoffen, andere delfstoffen, aardwarmte, respectievelijk de opslag van stoffen; of
-
-- e. in aanmerking komt voor een ander hergebruik dan het exploiteren van een mijnbouwwerk.
-
-2. Onze Minister vraagt advies over een aanvraag om ontheffing van de verplichting tot verwijderen als bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44)voor het opnieuw in gebruik nemen:
-
-- a. als bedoeld in het eerste lid, onderdeel d, voor de winning van koolwaterstoffen, aardwarmte en de opslag van CO2 aan de vennootschap, bedoeld in [artikel 82, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=82) en
-
-- b. als bedoeld in het eerste lid, onderdeel d, onder 2°, tevens aan de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO als bedoeld in [artikel 3 van de TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=3).
-
-3. Onze Minister kan de ontheffing voor hergebruik van het mijnbouwwerk voor een periode van maximaal vijf jaar verlenen.
-
-4. Onze Minister kan de ontheffing telkens voor een periode van maximaal vijf jaar verlengen.
-
-5. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag om een ontheffing.
-
-6. Onze Minister kan, onverminderd [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2026-01-01&g=2026-01-01), een ontheffing ambtshalve geheel of gedeeltelijk wijzigen of intrekken, indien de houder van een vergunning:
-
-- a. de ontheffing niet langer nodig heeft om in een hergebruik van het mijnbouwwerk te kunnen voorzien;
-
-- b. niet overeenkomstig de ontheffing handelt of heeft gehandeld.
-
-##### Artikel 40f
-
-1. Onze Minister kan aan de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24b) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) een instemming met een rapport over de verwijdering, bedoeld in artikel 44c, derde lid, van de wet weigeren als het rapport:
-
-- a. onvoldoende informatie bevat;
-
-- b. het mijnbouwwerk niet is verwijderd overeenkomstig het verwijderingsplan waarmee is ingestemd; of
-
-- c. niet is verwijderd overeenkomstig de voorschriften die aan de instemming zijn verbonden.
-
-2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag tot instemming met het rapport over de verwijdering.
-
-### Afdeling 5.2. Mijnbouwinstallaties
-
-#### § 5.2.1. Algemeen
-
-#### § 5.2.2. Het ontwerpen, plaatsen en gebruiken van mijnbouwinstallaties die boven oppervlaktewater uitsteken
-
-##### Artikel 62a
-
-1. Onze Minister kan aan de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) een instemming met een verwijderingsplan, bedoeld in artikel [44a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a) weigeren, indien:
-
-- a. het verwijderingsplan onvoldoende voorziet in een beschrijving van de werkzaamheden, methode en kosten van de verwijdering die nodig zijn gedurende de periode van uitvoering van het verwijderingsplan, waaronder monitoring;
-
-- b. het verwachte resultaat van de uitvoering van het verwijderingsplan onvoldoende is beschreven;
-
-- c. het mijnbouwwerk in aanmerking komt voor hergebruik;
-
-- d. het mijnbouwwerk niet in aanmerking komt voor een gedeeltelijk hergebruik als mijnbouwwerk;
-
-- e. in het geval van hergebruik het bevoegde gezag, bedoeld in [artikel 44a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44a), niet heeft verklaard dat het bevoegde gezag daartegen, voor zover het hergebruik betreft, geen bedenkingen heeft;
-
-- f. naar het oordeel van het bevoegd gezag krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) het voorstel tot onderzoeken of saneren van de bodem niet voldoet;
-
-- g. de bestemming van de af te voeren materialen en afvalstoffen onduidelijk is; of
-
-- h. de planning van de uitvoering van de verwijdering niet duidelijk is of voorziet in een onredelijk lange termijn.
-
-2. Onze Minister kan een instemming ambtshalve geheel of gedeeltelijk wijzigen of intrekken, indien:
-
-- a. het bevoegde gezag, bedoeld in het eerste lid, onderdelen e en f, krachtens wetten als bedoeld in die onderdelen tot een afwijzend oordeel komt over het geheel of gedeeltelijk hergebruik van het mijnbouwwerk;
-
-- b. het bevoegde gezag krachtens de wet geen vergunning verstrekt voor het opsporen, winnen, of opslaan van delfstoffen, aardwarmte, respectievelijk stoffen;
-
-- c. de houder van een vergunning de instemming voor het geheel of een gedeelte van het verwijderingsplan niet langer nodig heeft; of
-
-- d. de houder van een vergunning niet overeenkomstig de instemming handelt of heeft gehandeld.
-
-##### Artikel 62b
-
-1. Onze Minister kan de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) een tijdelijke ontheffing als bedoeld in [artikel 44b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44b), verlenen, indien de mijnbouwinstallatie of het mijnbouwwerk, bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=59&z=2026-01-01&g=2026-01-01):
-
-- a. nodig is voor het gebruik van een ander mijnbouwwerk als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01);
-
-- b. doelmatiger kan worden verwijderd of hergebruikt, indien de houder van een vergunning het mijnbouwwerk tezamen met een ander mijnbouwwerk verwijdert of hergebruikt;
-
-- c. in aanmerking komt voor geheel of gedeeltelijk hergebruik als onderzoek is of wordt verricht naar de geschiktheid voor opsporing of winning van delfstoffen of aardwarmte of de opslag van stoffen;
-
-- d. redelijkerwijs rendabel opnieuw in gebruik genomen kan worden na:
-
-- 1°. verbetering van de omstandigheden op de markt voor koolwaterstoffen, andere delfstoffen, aardwarmte, respectievelijk de opslag van stoffen;
-
-- 2°. een technische innovatie voor de winning van koolwaterstoffen, andere delfstoffen, aardwarmte, respectievelijk de opslag van stoffen; of
-
-- e. in aanmerking komt voor een ander hergebruik dan het exploiteren van een mijnbouwwerk.
-
-2. Onze Minister vraagt advies over een aanvraag om ontheffing van de verplichting tot verwijderen als bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44) voor het opnieuw in gebruik nemen:
-
-- a. als bedoeld in het eerste lid, onderdeel d, voor de winning van koolwaterstoffen, aardwarmte en de opslag van CO2 aan de vennootschap, bedoeld in [artikel 82, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=82) en
-
-- b. als bedoeld in het eerste lid, onderdeel d, onder 2°, tevens aan de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO als bedoeld in artikel 3 van de TNO-wet.
-
-3. Onze Minister kan de ontheffing voor hergebruik van de mijnbouwinstallatie voor een periode van maximaal vijf jaar verlenen.
-
-4. Onze Minister kan de ontheffing telkens voor een periode van maximaal vijf jaar verlengen.
-
-5. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de ontheffing.
-
-6. Onze Minister kan, onverminderd [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2026-01-01&g=2026-01-01), een ontheffing ambtshalve geheel of gedeeltelijk wijzigen of intrekken, indien de houder van een vergunning:
-
-- a. de ontheffing niet langer nodig heeft om in een hergebruik van het mijnbouwwerk te kunnen voorzien;
-
-- b. niet overeenkomstig de ontheffing handelt of heeft gehandeld.
-
-##### Artikel 62c
-
-1. Onze Minister kan de houder van een vergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) een instemming met een rapport over de verwijdering, bedoeld in [artikel 44c, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=44c) weigeren als het rapport:
-
-- a. onvoldoende informatie bevat;
-
-- b. de mijnbouwinstallatie niet is verwijderd overeenkomstig het verwijderingsplan waarmee is ingestemd; of
-
-- c. niet is verwijderd overeenkomstig de voorschriften die aan de instemming zijn verbonden.
-
-2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op het besluit tot instemming met het rapport over de verwijdering.
-
-#### § 5.2.2. Het ontwerpen, plaatsen en gebruiken van mijnbouwinstallaties die boven oppervlaktewater uitsteken
-
-### Afdeling 5.3. Boorgaten
-
-##### Artikel 72a
-
-Het buiten gebruik stellen van een boorgat heeft tot doel om het boorgat permanent af te sluiten door zones met stromingspotentieel te isoleren.
-
-##### Artikel 73a
-
-Bij ministeriële regeling kunnen regels worden gesteld over het buiten werking stellen van een boorgat, bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.1&artikel=72&z=2026-01-01&g=2026-01-01).
-
-#### § 5.3.2. Informatievoorziening in verband met boorgaten
-
-### Afdeling 5.4. Milieu en rampenbestrijdingsplan
-
-#### § 5.4.1. Algemeen
-
-#### § 5.4.1a. Rapport inzake grote gevaren en overige documenten
-
-#### § 5.4.1b. Kennisgevingen
-
-#### § 5.3.2. Informatievoorziening in verband met boorgaten
-
-### Hoofdstuk 6. Pijpleidingen en kabels
-
-#### § 6.1. Algemeen
-
-#### § 5.4.1a. Rapport inzake grote gevaren en overige documenten
-
-##### Artikel 103a
-
-Als een in gemeentelijk ingedeeld gebied gelegen pijpleiding op land of in oppervlaktewater buiten werking is als bedoeld in [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) is [paragraaf 5.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.4&z=2026-01-01&g=2026-01-01), respectievelijk [paragraaf 5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing, met dien verstande dat de beheerder:
-
-- a. bij een melding overeenkomstig [artikel 40b](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.4&artikel=40b&z=2026-01-01&g=2026-01-01), respectievelijk [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=61&z=2026-01-01&g=2026-01-01), de volgende informatie overlegt:
-
-- 1°. de periode, waarin de pijpleiding is aangelegd;
-
-- 2°. de overeenkomst met de grondeigenaar;
-
-- 3°. de relevante feiten voor een afweging van belangen als bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=6&paragraaf=6.4&artikel=103&z=2026-01-01&g=2026-01-01);
-
-- b. bij een aanvraag om instemming met een verwijderingsplan in afwijking van [artikel 40c, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.4&artikel=40c&z=2026-01-01&g=2026-01-01), ten minste een beschrijving overlegt als bedoeld in artikel 40c, eerste lid, onder a, c, d, g, h, i, k, l en m;
-
-- c. bij een aanvraag om instemming met een verwijderingsplan in afwijking van [artikel 62, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=62&z=2026-01-01&g=2026-01-01), ten minste een beschrijving overlegt als bedoeld in artikel 62, eerste lid, onder a, c, d, g tot en met m.
-
-##### Artikel 103b
-
-Als een in niet gemeentelijk ingedeeld gebied gelegen pijpleiding buiten werking is als bedoeld in [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=45) is [paragraaf 5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat de beheerder:
-
-- a. bij een melding overeenkomstig [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=61&z=2026-01-01&g=2026-01-01) de volgende informatie overlegt:
-
-- 1°. de periode, waarin de pijpleiding is aangelegd;
-
-- 2°. de overeenkomst met de grondeigenaar;
-
-- 3°. de relevante feiten voor een afweging van belangen als bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=6&paragraaf=6.4&artikel=103&z=2026-01-01&g=2026-01-01);
-
-- b. bij een aanvraag om instemming met een verwijderingsplan in afwijking van [artikel 62, eerste lid, aanhef,](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=62&z=2026-01-01&g=2026-01-01) ten minste een beschrijving overlegt als bedoeld in [artikel 62, eerste lid, onder a, c, d, g, tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=62&z=2026-01-01&g=2026-01-01).
-
-### Hoofdstuk 7. Verstrekking, beheer en gebruik van gegevens
-
-#### § 7.3. Gegevens in verband met aardwarmte en boorgaten
-
-### Hoofdstuk 8. Waarborgfonds mijnbouwschade
-
-#### § 7.1. Verstrekking gegevens
-
-### Hoofdstuk 9. Splitsen, afsplitsen en samenvoegen van vergunningen
-
-#### § 7.2. Vertrouwelijkheid, beheer, gebruik en ter inzage legging van gegevens
-
-#### § 9.2. Splitsen van vergunningen
-
-#### § 7.3. Gegevens in verband met aardwarmte en boorgaten
-
-#### § 8.3. De bijdrage aan het fonds
-
-### Hoofdstuk 10. De veiligheid van groeven
-
-#### § 8.4. Verzoeken om uitkeringen ten laste van het fonds
-
-#### § 10.2. Vergunning voor winning van kalksteen
-
-#### § 9.1. Algemeen
-
-#### § 10.5. Het buiten gebruik stellen van een groeve
-
-### Hoofdstuk 10a. Retributies
-
-### Hoofdstuk 11. Overgangsbepalingen
-
-### Hoofdstuk 12. Wijziging van enige algemene maatregelen van bestuur
-
-#### § 10.5. Het buiten gebruik stellen van een groeve
-
-#### § 12.3. Ministerie van Sociale Zaken en Werkgelegenheid
-
-#### § 12.4. Ministerie van Verkeer en Waterstaat
-
-#### § 12.5. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu
-
-### Hoofdstuk 13. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 29n
-
-In dit hoofdstuk wordt verstaan onder:
-
-- –. **startvergunning:** een startvergunning aardwarmte;
-
-- –. **toewijzing zoekgebied:** een toewijzing zoekgebied aardwarmte;
-
-- –. **vervolgvergunning:** een vervolgvergunning aardwarmte.
-
-#### Paragraaf 3a.1. Toewijzing zoekgebied, startvergunning en vervolgvergunning
-
-##### Artikel 29o
-
-1. Onze Minister betrekt bij de beoordeling van een aanvraag voor een toewijzing zoekgebied in verband met het zicht op de financiering van de opsporing en winning in ieder geval de financiële omstandigheden van de aanvrager.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de grond, bedoeld in het eerste lid.
-
-##### Artikel 29p
-
-1. Onze Minister betrekt bij de beoordeling van een aanvraag voor een startvergunning in ieder geval:
-
-- a. in verband met onaanvaardbare risico’s voor de veiligheid van omwonenden in hoeverre wordt voldaan aan de norm voor het lokaal persoonlijk risico van maximaal 1 op de 100.000 per jaar dat een individu mag lopen in of nabij de verschillende bouwwerken waar dat individu verblijft, als gevolg van bodemtrilling door de opsporing en winning van aardwarmte;
-
-- b. in verband met de financiële mogelijkheden van de aanvrager:
-
-- 1°. de financiële omstandigheden van de aanvrager;
-
-- 2°. de wijze waarop de aanvrager voornemens is de kosten voor de opsporing en winning van aardwarmte en de daarbij behorende aansprakelijkheden en de kosten voor het geheel of gedeeltelijk buiten gebruik stellen van een boorgat tijdens of na afloop van de looptijd van de startvergunning te dragen;
-
-- 3°. afspraken tussen de aanvrager en de uitvoerder aardwarmte over het dragen van de kosten voor de bij de opsporing en winning behorende aansprakelijkheden, indien deze zijn gemaakt.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de gronden, bedoeld in het eerste lid.
-
-##### Artikel 29q
-
-1. Onze Minister kan een aanvraag voor een startvergunning geheel of gedeeltelijk afwijzen:
-
-- a. indien het ontwerp van de put geen dubbele verbuizing bevat ter hoogte van de zoet en brak waterlagen, tenzij is aangetoond dat een alternatief ontwerp de putintegriteit ten minste even goed borgt als een dubbele verbuizing;
-
-- b. indien de aanvrager niet over een beheerssysteem en beheersplan voor de putintegriteit beschikt dat voldoet aan bij ministeriële regeling gestelde regels;
-
-- c. indien de integriteit van de afsluitende aardlagen niet voldoende is geborgd.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de gronden, bedoeld in het eerste lid.
-
-##### Artikel 29r
-
-[Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) is van toepassing op de voorbereiding van een besluit inzake een aanvraag voor een vervolgvergunning, indien ten opzichte van de startvergunning voorschriften of beperkingen zouden moeten worden verbonden met betrekking tot het beperken van het gevolg, effect of risico als bedoeld in [artikel 24ag, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ag).
-
-##### Artikel 29s
-
-1. Onze Minister betrekt bij de beoordeling van een aanvraag voor een vervolgvergunning in ieder geval:
-
-- a. in verband met onaanvaardbare risico’s voor de veiligheid van omwonenden in hoeverre wordt voldaan aan de norm voor het lokaal persoonlijk risico van maximaal 1 op de 100.000 per jaar dat een individu mag lopen in of nabij de verschillende bouwwerken waar dat individu verblijft, als gevolg van bodemtrilling door de winning van aardwarmte;
-
-- b. in verband met de financiële mogelijkheden van de aanvrager:
-
-- 1°. de financiële omstandigheden van de aanvrager;
-
-- 2°. de wijze waarop de aanvrager voornemens is de kosten voor de winning van aardwarmte en de daarbij behorende aansprakelijkheden en de kosten voor het geheel of gedeeltelijk buiten gebruik stellen van een boorgat tijdens of na afloop van de looptijd van de vervolgvergunning te dragen;
-
-- 3°. afspraken tussen de aanvrager en de uitvoerder aardwarmte over het dragen van de kosten voor de bij de winning behorende aansprakelijkheden, indien deze zijn gemaakt.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de gronden, bedoeld in het eerste lid.
-
-##### Artikel 29t
-
-1. Onze Minister kan een aanvraag voor een vervolgvergunning geheel of gedeeltelijk afwijzen:
-
-- a. indien de put geen dubbele verbuizing bevat ter hoogte van de zoet en brak waterlagen, tenzij is aangetoond dat een alternatieve inrichting van de put de putintegriteit ten minste even goed borgt als een dubbele verbuizing;
-
-- b. indien de aanvrager niet over een operationeel beheerssysteem en beheersplan voor de putintegriteit beschikt dat voldoet aan bij ministeriële regeling gestelde regels;
-
-- c. indien de integriteit van de afsluitende aardlagen niet voldoende is geborgd.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de gronden, bedoeld in het eerste lid.
-
-##### Artikel 29u
-
-1. Onze Minister verbindt aan een startvergunning of vervolgvergunning voorschriften of beperkingen die betrekking hebben op:
-
-- a. de injectiedruk;
-
-- b. de injectietemperatuur;
-
-- c. het debiet;
-
-- d. het berekenen en beperken van scheurgroei in de afsluitende aardlagen;
-
-- e. het beheerssysteem en beheersplan voor de putintegriteit, bedoeld in de [artikelen 29q](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.1&artikel=29q&z=2026-01-01&g=2026-01-01) en [29t](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.1&artikel=29t&z=2026-01-01&g=2026-01-01);
-
-- f. het gebruik van mijnbouwhulpstoffen, indien van toepassing.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de gronden, bedoeld in het eerste lid.
-
-##### Artikel 29v
-
-1. Onze Minister bepaalt in een vergunning die betrekking heeft op aardlagen die zich geheel of gedeeltelijk bevinden onder een gebied dat is aangewezen voor de winning van drinkwater uit grondwater, het bedrag waarvoor financiële zekerheid ter dekking van de aansprakelijkheid voor de schade door verontreiniging van grondwater of bodem in verband met de opsporing en winning van aardwarmte wordt gesteld voor:
-
-- a. het jaar waarin de opsporing volgens de aanvraag voor de startvergunning zal aanvangen en voor het daaropvolgende jaar, indien het een startvergunning betreft;
-
-- b. het jaar waarin de vervolgvergunning wordt verleend en voor elk van de daaropvolgende vier jaren, indien het een vervolgvergunning betreft.
-
-2. Het bedrag wordt per jaar vastgesteld op het totaal van:
-
-- a. een raming van de kosten voor de monitoring en reactieve maatregelen met betrekking tot de beheersing van de putintegriteit;
-
-- b. een raming van de kosten voor het nemen van maatregelen voor de borging van de integriteit van de afsluitende aardlagen.
-
-3. Onze Minister bepaalt in de vergunning de vorm waarin de financiële zekerheid wordt gesteld. De financiële zekerheid wordt in zodanige vorm gesteld dat naar het oordeel van Onze Minister vaststaat dat de Staat daarmee gedurende de periode waarvoor zekerheid wordt gesteld, alle verplichtingen, bedoeld in het tweede lid, zo nodig ook zelf kan nakomen ten laste van de vergunninghouder.
-
-4. De houder van een startvergunning toont voor aanvang van de opsporing van aardwarmte aan Onze Minister aan dat de financiële zekerheid in overeenstemming met dit artikel is gesteld.
-
-5. De houder van een vervolgvergunning toont binnen zes maanden na de datum van het verlenen van de vervolgvergunning aan Onze Minister aan dat de financiële zekerheid in overeenstemming met dit artikel is gesteld en houdt het bedrag dat voor het laatste jaar in de startvergunning is vastgesteld, in stand tot dit moment.
-
-6. Onverminderd [artikel 24ab, tweede lid, onderdeel b, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ab) blijft het bedrag dat voor het laatste jaar in de startvergunning is vastgesteld, van toepassing voor opvolgende jaren gedurende de periode waarvoor de startvergunning geldt.
-
-7. Onverminderd [artikel 24ao, tweede lid, onderdeel b, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24ao) beziet Onze Minister op de voet van het tweede lid telkens na vijf jaar gerekend vanaf de datum van het verlenen van de vervolgvergunning de hoogte van het bedrag per jaar voor de eerstkomende vijf jaar. Het bedrag dat voor het laatste jaar in de vervolgvergunning is vastgesteld blijft voor opvolgende jaren van toepassing zolang het niet is aangepast. De vergunninghouder verstrekt Onze Minister uiterlijk drie maanden voor afloop van een vijfjaarstermijn de voor de ramingen, bedoeld in het tweede lid, benodigde gegevens vergezeld van een adequate cijfermatige onderbouwing en toelichting.
-
-8. De vergunninghouder verstrekt ten minste elk jaar aan Onze Minister het bewijs dat financiële zekerheid is gesteld en aangehouden.
-
-9. Onze Minister kan bij ministeriële regeling nadere maatstaven voor de raming van de kosten, bedoeld in het tweede lid, vaststellen.
-
-##### Artikel 29w
-
-1. Onze Minister kan aan een startvergunning of vervolgvergunning voorschriften of beperkingen verbinden die betrekking hebben op:
-
-- a. de seismische risicoanalyse;
-
-- b. het meten, registreren en melden van bodembeweging als gevolg van de opsporing of winning van aardwarmte;
-
-- c. de wijze van handelen in geval van bodembeweging als gevolg van de opsporing of winning van aardwarmte.
-
-2. Onze Minister kan aan een startvergunning of vervolgvergunning in verband met de financiële mogelijkheden van de aanvrager voorschriften of beperkingen verbinden die betrekking hebben op:
-
-- a. de financiële omstandigheden van de aanvrager;
-
-- b. de wijze waarop de aanvrager voornemens is de kosten voor de opsporing of winning van aardwarmte en de daarbij behorende aansprakelijkheden en de kosten voor het geheel of gedeeltelijk buiten gebruik stellen van een boorgat tijdens of na afloop van de looptijd van de betreffende vergunning te dragen;
-
-- c. financiële zekerheden die gesteld dienen te worden ter dekking van de kosten voor de bij de opsporing of winning en de daarbij behorende aansprakelijkheden, anders dan de zekerheden, bedoeld in de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=46) en [47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=47), en [artikel 29v](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.1&artikel=29v&z=2026-01-01&g=2026-01-01). Deze voorschriften of beperkingen kunnen in ieder geval betrekking hebben op:
-
-- 1°. de vorm en de omvang van de financiële zekerheden;
-
-- 2°. het tijdstip van het stellen van financiële zekerheden;
-
-- 3°. het melden van wijzigingen in de financiële zekerheden;
-
-- d. het melden van afspraken, of wijzigingen daarvan, tussen de aanvrager en de uitvoerder aardwarmte over het dragen van de kosten voor de bij de opsporing of winning behorende aansprakelijkheden, indien deze zijn gemaakt.
-
-3. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de gronden, bedoeld in het eerste en tweede lid.
-
-##### Artikel 29x
-
-1. Indien meer aanvragen voor een toewijzing zoekgebied die zouden kunnen worden toegewezen, zijn ingediend, rangschikt Onze Minister een aanvraag hoger naarmate:
-
-- a. de aanvraag beter past binnen provinciale of gemeentelijke beleidsplannen ten aanzien van aardwarmte voor het betreffende gebied;
-
-- b. de realistisch te verwachten hoeveelheid te winnen aardwarmte groter is;
-
-- c. de aanvrager al eerder is gestart met winning van aardwarmte in een gebied dat grenst aan het betreffende gebied;
-
-- d. de aanvrager over ervaring met de ontwikkeling van aardwarmteactiviteiten of andere mijnbouwactiviteiten beschikt;
-
-- e. de kwaliteit van de aanvraag beter is.
-
-2. Bij ministeriële regeling worden nadere regels gesteld over de onderlinge weging van de rangschikkingscriteria, bedoeld in het eerste lid, en kunnen nadere regels worden gesteld over de procedure van de rangschikking en de rangschikkingscriteria.
-
-##### Artikel 29y
-
-1. Indien meer aanvragen voor een startvergunning die zouden kunnen worden toegewezen, zijn ingediend, rangschikt Onze Minister een aanvraag hoger naarmate:
-
-- a. de aanvraag beter past binnen provinciale of gemeentelijke beleidsplannen ten aanzien van aardwarmte voor het betreffende gebied;
-
-- b. de realistisch te verwachten hoeveelheid te winnen aardwarmte groter is;
-
-- c. de aanvrager al eerder is gestart met winning van aardwarmte in een gebied dat grenst aan het betreffende gebied;
-
-- d. de kwaliteit van de aanvraag beter is.
-
-2. Bij ministeriële regeling worden nadere regels gesteld over de onderlinge weging van de rangschikkingscriteria, bedoeld in het eerste lid, en kunnen nadere regels worden gesteld over de procedure van de rangschikking en de rangschikkingscriteria.
-
-#### Paragraaf 3a.2. De uitvoerder aardwarmte
-
-##### Artikel 29z
-
-1. Een aanvraag om instemming met de aanwijzing van de uitvoerder aardwarmte als bedoeld in [artikel 24z, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24z) bevat een beschrijving van de technische en financiële capaciteiten van de uitvoerder aardwarmte.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de aanvraag om instemming.
-
-##### Artikel 29aa
-
-1. Onze Minister weigert instemming met de aanwijzing van een uitvoerder aardwarmte, bedoeld in [artikel 24z, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=24z), indien de technische of financiële capaciteiten van de uitvoerder niet toereikend zijn voor een goede uitvoering van de feitelijke werkzaamheden met betrekking tot de mijnbouwactiviteiten.
-
-2. Onze Minister betrekt bij de beoordeling van de technische capaciteiten van de uitvoerder aardwarmte in ieder geval:
-
-- a. de ervaring met mijnbouwactiviteiten waarover de uitvoerder aardwarmte beschikt;
-
-- b. de kennis over mijnbouwactiviteiten waarover de uitvoerder aardwarmte beschikt;
-
-- c. de verantwoordelijkheidszin, waarvan de uitvoerder aardwarmte eerder blijk heeft gegeven bij feitelijke werkzaamheden met betrekking tot mijnbouwactiviteiten onder een eerdere vergunning.
-
-3. Onze Minister betrekt bij de beoordeling van de financiële capaciteiten van de uitvoerder aardwarmte in ieder geval:
-
-- a. de financiële omstandigheden van de uitvoerder aardwarmte;
-
-- b. afspraken tussen de aanvrager van de startvergunning of de houder van de startvergunning of vervolgvergunning en de uitvoerder aardwarmte over het dragen van de kosten voor de bij de opsporing of winning behorende aansprakelijkheden, indien deze zijn gemaakt.
-
-4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de gronden, bedoeld in het tweede en derde lid.
-
-##### Artikel 29ab
-
-1. Onze Minister kan aan de instemming met de uitvoerder aardwarmte voorschriften of beperkingen verbinden die betrekking hebben op:
-
-- a. de financiële omstandigheden van de uitvoerder aardwarmte;
-
-- b. financiële zekerheden die gesteld dienen te worden ter dekking van de kosten voor de opsporing of winning en de daarbij behorende aansprakelijkheden. Deze voorschriften of beperkingen kunnen betrekking hebben op:
-
-- 1°. de vorm en de omvang van de financiële zekerheden;
-
-- 2°. het tijdstip van het stellen van financiële zekerheden;
-
-- 3°. het melden van wijzigingen in de financiële zekerheden;
-
-- c. het melden van afspraken, of wijzigingen daarvan, tussen de aanvrager van de startvergunning of de houder van de startvergunning of vervolgvergunning en de uitvoerder aardwarmte over het dragen van de kosten voor de bij de opsporing of winning behorende aansprakelijkheden, indien deze zijn gemaakt.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de instemming.
-
-#### Paragraaf 3a.3. Deelneming in opsporing en winning van aardwarmte
-
-##### Artikel 29ac
-
-In deze paragraaf wordt verstaan onder:
-
-- –. **overeenkomst:** een overeenkomst als bedoeld in [artikel 86a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=86a), die een overeenkomst van samenwerking is;
-
-- –. **de vennootschap:** de vennootschap, bedoeld in [artikel 82, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=82);
-
-- –. **vergunninghouder:** de houder van een toewijzing zoekgebied, startvergunning of vervolgvergunning.
-
-##### Artikel 29ad
-
-In de overeenkomst worden bepalingen die ertoe strekken dat ten behoeve van de voorgenomen opsporings- en winningswerkzaamheden wordt samengewerkt, opgenomen, waarbij:
-
-- a. de vennootschap voor 20% belang neemt, tenzij met de vergunninghouder een hoger percentage van ten hoogste 40% wordt overeengekomen;
-
-- b. de vergunninghouder het resterende belang neemt;
-
-- c. de waarde van de werken die door het doen van de in [artikel 29ag, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ag&z=2026-01-01&g=2026-01-01), bedoelde investeringen tot stand zijn gekomen en de opbrengst van de winning van aardwarmte in verhouding tot ieders belang in de samenwerking toebehoren aan de vergunninghouder en de vennootschap;
-
-- d. de vergunninghouder en de vennootschap ten behoeve van de samenwerking, in verhouding tot ieders belang in de samenwerking, de middelen verstrekken die bestemd zijn voor het doen van de uitgaven, bedoeld in [artikel 29ag, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ag&z=2026-01-01&g=2026-01-01);
-
-- e. op de overeenkomst Nederlands recht van toepassing is.
-
-##### Artikel 29ae
-
-In de overeenkomst wordt het bedrag vastgesteld van de door de houder van de toewijzing zoekgebied reeds gemaakte kosten die naar redelijkheid kunnen worden toegeschreven aan activiteiten en investeringen ten behoeve van de voorgenomen opsporings- en winningswerkzaamheden.
-
-##### Artikel 29af
-
-In de overeenkomst worden bepalingen opgenomen die de vergunninghouder ertoe verplichten:
-
-- a. de voor hem uit de vergunning voortvloeiende rechten uit te oefenen ten behoeve van de samenwerking en overeenkomstig de gezamenlijke besluiten die met inachtneming van [artikel 29ah](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ah&z=2026-01-01&g=2026-01-01) zijn genomen door de vergunninghouder en de vennootschap;
-
-- b. zijn kennis en ervaring op het gebied van opsporing, winning en afzet van aardwarmte aan de samenwerking ten goede te doen komen.
-
-##### Artikel 29ag
-
-In de overeenkomst worden bepalingen opgenomen die de vennootschap ertoe verplichten:
-
-- a. aan de vergunninghouder te vergoeden het percentage, gelijk aan het belang van de vennootschap in de samenwerking, van de uitgaven van de vergunninghouder die in overeenstemming met [artikel 29ah](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ah&z=2026-01-01&g=2026-01-01) zijn goedgekeurd of in overeenstemming zijn met een goedgekeurd jaarlijks investerings- en financieringsplan;
-
-- b. niet te beletten dat besluiten van de vergunninghouder gebaseerd worden op normale commerciële overwegingen;
-
-- c. zijn stem bij de besluitvorming volgens [artikel 29ah](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ah&z=2026-01-01&g=2026-01-01) uit te brengen op grond van transparantie, objectieve en niet-discriminerende beginselen;
-
-- d. aan de houder van de toewijzing zoekgebied terstond te vergoeden het percentage, gelijk aan het belang van de vennootschap in de samenwerking, van het bedrag, bedoeld in [artikel 29ae](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ae&z=2026-01-01&g=2026-01-01), vermeerderd met een enkelvoudige rente, waarvan het percentage gelijk is aan dat van de wettelijke rente, over een tijdvak van ten hoogste vijf jaar, te rekenen vanaf het tijdstip waarop de desbetreffende kosten zijn gemaakt;
-
-- e. de informatie als bedoeld in [artikel 29ai, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ai&z=2026-01-01&g=2026-01-01), die de vennootschap voornemens is openbaar te maken, ter goedkeuring voor te leggen aan de vergunninghouder waarbij de vergunninghouder binnen een in de overeenkomst overeengekomen termijn bezwaar kan maken tegen openbaarmaking van die informatie.
-
-##### Artikel 29ah
-
-In de overeenkomst worden bepalingen opgenomen die ertoe strekken dat:
-
-- a. een gezamenlijk besluit van de vergunninghouder en de vennootschap wordt genomen in een vergadering, waarin de vergunninghouder en de vennootschap zich door een schriftelijk gevolmachtigde kunnen laten vertegenwoordigen;
-
-- b. een gezamenlijk besluit van de vergunninghouder en de vennootschap, in afwijking van onderdeel a, buiten vergadering kan worden genomen, mits de vergunninghouder en de vennootschap hier beide mee instemmen en dit gebeurt bij een gezamenlijke schriftelijke verklaring of bij een gelijkluidende schriftelijke verklaring van de vergunninghouder en de vennootschap, door deze of hun gevolmachtigde vertegenwoordigers ondertekend;
-
-- c. de vergunninghouder en de vennootschap bij gezamenlijke besluiten een stem hebben in verhouding tot ieders belang in de samenwerking;
-
-- d. een gezamenlijk besluit van de vergunninghouder en de vennootschap, waarbij in afwijking van onderdeel c de vergunninghouder en de vennootschap elk een beslissende stem hebben, vereist is voor:
-
-- 1°. het jaarlijkse investerings- en financieringsplan;
-
-- 2°. activiteiten en aanschaffingen die niet in het jaarlijkse investerings- en financieringsplan zijn opgenomen, en die een bedrag van € 500 000 te boven gaan of die 10% of meer van het totale bedrag van de in dat plan opgenomen uitgaven bedragen, indien het gaat om een bedrag van minder dan € 500 000;
-
-- 3°. de meerjarenplanning ten aanzien van de voorgenomen opsporings- en winningswerkzaamheden binnen het vergunningsgebied;
-
-- 4°. het aangaan, wijzigen of beëindigen van duurzame samenwerking met derden ter zake van opsporing en winning;
-
-- 5°. het aangaan en wijzigen van verplichtingen tot levering van aardwarmte;
-
-- 6°. het voortbestaan van de opsporings- of winningswerkzaamheden.
-
-##### Artikel 29ai
-
-1. In de overeenkomst worden in verband met de kennisdeling en -borging bepalingen opgenomen met betrekking tot:
-
-- a. de totstandkoming van het putontwerp;
-
-- b. de keuze voor de locatie van boorgaten;
-
-- c. het vastleggen en verstrekken van informatie omtrent de organisatie en de uitvoering van de opsporings- en winningswerkzaamheden;
-
-- d. de aanwijzing van de informatie die de vennootschap overeenkomstig [artikel 29ag, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=3a&paragraaf=3a.3&artikel=29ag&z=2026-01-01&g=2026-01-01), ter goedkeuring aan de vergunninghouder dient voor te leggen, voordat deze openbaar wordt gemaakt.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de onderwerpen, bedoeld in het eerste lid.
-
-##### Artikel 29aj
-
-De vergunninghouder neemt geen besluit, inhoudende bij wie opdrachten worden geplaatst voor leveringen, voor het uitvoeren van werken of voor het verrichten van diensten, indien aannemelijk is dat dit besluit leidt tot financieel nadeel voor de vennootschap.
-
-##### Artikel 29ak
-
-1. Onze Minister kan ambtshalve of op gemotiveerd verzoek van de vennootschap of de houder van de toewijzing zoekgebied bepalen dat de verplichting, bedoeld in [artikel 86a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=86a) niet geldt.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld over het verzoek, bedoeld in het eerste lid.
-
-### Hoofdstuk 4. Het meten van bodembeweging
-
-#### § 4.1. Metingen met het oog op bodembeweging
-
-### Hoofdstuk 5. Mijnbouwwerken
-
-### Afdeling 5.1. Mijnbouwwerken, uitgezonderd mijnbouwinstallaties
-
-#### § 5.1.1. Algemeen
-
-#### § 5.1.4. Regels over het buiten werking zijn, het hergebruiken en het verwijderen van mijnbouwwerken
-
-### Afdeling 5.2. Mijnbouwinstallaties
-
-#### § 5.2.1. Algemeen
-
-### Afdeling 5.3. Boorgaten
-
-### Afdeling 5.4. Milieu en rampenbestrijdingsplan
-
-#### § 6.3. Het gebruik van een pijpleiding
-
-### Hoofdstuk 7. Verstrekking, beheer en gebruik van gegevens
-
-#### § 8.3. De bijdrage aan het fonds
-
-### Hoofdstuk 9. Splitsen, afsplitsen en samenvoegen van vergunningen
-
-#### § 9.2. Splitsen van vergunningen
-
-#### § 9.3. Samenvoegen van vergunningen
-
-#### § 10.1. Algemeen
-
-#### § 10.2. Vergunning voor winning van kalksteen
-
-#### § 10.5. Het buiten gebruik stellen van een groeve
-
-##### Artikel 181a
-
-[Artikel 119, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&hoofdstuk=7&paragraaf=7.3&artikel=119&z=2026-01-01&g=2026-01-01), is niet van toepassing op gegevens met betrekking tot opsporing of winning van aardwarmte waarvoor een aanvraag voor een subsidie op grond van [artikel 2, eerste lid, onderdeel c, van het Besluit stimulering duurzame energieproductie en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2) is ingediend voor 1 mei 2023.
-
-### Hoofdstuk 12. Wijziging van enige algemene maatregelen van bestuur
-
-#### § 12.1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-
-#### § 12.2. Ministerie van Justitie
-
-#### § 12.3. Ministerie van Sociale Zaken en Werkgelegenheid
-
-#### § 12.4. Ministerie van Verkeer en Waterstaat
-
-#### § 12.5. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu
-
-### Hoofdstuk 13. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 40g
-
-Bij ministeriële regeling worden regels gesteld over de inhoud van het nazorgplan, bedoeld in [artikel 52g, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=52g).
-
-#### § 5.2.2. Het ontwerpen, plaatsen en gebruiken van mijnbouwinstallaties die boven oppervlaktewater uitsteken
-
-### Afdeling 5.3. Boorgaten
-
-#### § 5.3.1. Algemeen
-
-### Afdeling 5.4. Milieu en rampenbestrijdingsplan
-
-#### § 6.3. Het gebruik van een pijpleiding
-
-### Hoofdstuk 8. Waarborgfonds mijnbouwschade
-
-#### § 8.1. Begripsbepalingen
-
-#### § 8.2. Het vermogen van het fonds
-
-#### § 9.2a. Afsplitsen van winningsvergunningen
-
-#### § 9.3. Samenvoegen van vergunningen
-
-#### § 9.4. Overige regels
-
-### Hoofdstuk 10. De veiligheid van groeven
-
-#### § 10.1. Algemeen
-
-#### § 10.2. Vergunning voor winning van kalksteen
-
-#### § 10.3. Vergunning voor gebruik voor andere doeleinden
-
-#### § 10.4. Veiligheid
-
-### Hoofdstuk 10a. Retributies
-
-### Hoofdstuk 11. Overgangsbepalingen
-
-### Hoofdstuk 12. Wijziging van enige algemene maatregelen van bestuur
-
-#### § 12.1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-
-#### § 12.2. Ministerie van Justitie
-
-#### § 12.3. Ministerie van Sociale Zaken en Werkgelegenheid
-
-#### § 12.4. Ministerie van Verkeer en Waterstaat
-
-#### § 12.5. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu
-
-### Hoofdstuk 13. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

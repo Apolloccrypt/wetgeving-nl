@@ -1,41 +1,17 @@
 ---
 title: "Instellingsbesluit Regiegroep Belvedere"
 identifier: "BWBR0015492"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-09-06"
-last_updated: "2003-09-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015492"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5232043"
-version_id: "9422582"
-internal_id: "C29031451"
-label_id: "5206514"
-original_entry_into_force: "2003-09-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015492/2003-09-06/0"
-intitule_bron: "Stcrt.2003-170"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-08-20"
-intitule_published: "2003-09-04"
-intitule_in_force: "2003-09-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-170"
-original_signed_date: "2003-08-20"
-original_published_date: "2003-09-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-09-06"
-jci_1_3: "jci1.3:c:BWBR0015492&z=2003-09-06&g=2003-09-06"
-jci_1_0: "1.0:c:BWBR0015492&g=2003-09-06"
-citeertitel_status: "officieel"
-signed_date: "2003-08-20"
-entry_into_force: "2003-09-06"
+publicatiedatum: 2003-09-06
+laatste_update: 2003-09-06
+status: geldig
+toestand: 2003-09-06
+bron: "https://wetten.overheid.nl/BWBR0015492"
+opgehaald: 2026-08-07
 ---
+
 # Instellingsbesluit Regiegroep Belvedere
-
-Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Verkeer en Waterstaat;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -67,17 +43,17 @@ Tot voorzitter van de regiegroep wordt benoemd mw. mr. A.H. Brouwer-Korf.
 
 Tot lid van de regiegroep worden benoemd:
 
-- –. dhr. Th.H.C. Peters;
+- – dhr. Th.H.C. Peters;
 
-- –. dhr. drs. E.H.T.M. Nijpels;
+- – dhr. drs. E.H.T.M. Nijpels;
 
-- –. mw. A.C. de Bruijn;
+- – mw. A.C. de Bruijn;
 
-- –. dhr. T. van der Torren;
+- – dhr. T. van der Torren;
 
-- –. dhr. mr. ir. H.L. Tiesinga;
+- – dhr. mr. ir. H.L. Tiesinga;
 
-- –. dhr. drs. R.J.M. van Hengstum.
+- – dhr. drs. R.J.M. van Hengstum.
 
 ##### Artikel 6
 
@@ -98,5 +74,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Regiegroep Belvedere.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

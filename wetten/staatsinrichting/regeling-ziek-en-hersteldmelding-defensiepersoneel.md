@@ -1,86 +1,54 @@
 ---
 title: "Ministeriële regeling van 7 mei 2003, afdeling pensioenen en sociale zekerheid, nr. P/2003002682"
+citeertitel: "Regeling ziek- en hersteldmelding defensiepersoneel"
 identifier: "BWBR0015042"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015042"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "4396713"
-version_id: "6173142"
-internal_id: "C14208981"
-label_id: "4375224"
-dtd_version: "2.0"
-original_entry_into_force: "2004-05-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015042/2007-01-01/0"
-intitule_bron: "Stcrt.2003-90"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-07"
-intitule_published: "2003-05-12"
-intitule_in_force: "2004-05-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-90"
-original_signed_date: "2003-05-07"
-original_published_date: "2003-05-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-090-p8-SC39888"
-entry_into_force_date: "2004-05-28"
-jci_1_3: "jci1.3:c:BWBR0015042&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0015042&g=2007-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling ziek- en hersteldmelding defensiepersoneel"
-signed_date: "2003-05-07"
-entry_into_force: "2004-05-28"
+publicatiedatum: 2004-05-28
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0015042"
+opgehaald: 2026-08-07
 ---
+
 # Ministeriële regeling van 7 mei 2003, afdeling pensioenen en sociale zekerheid, nr. P/2003002682
-
-Gelet op:
-
-[artikel 91 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=91) (AMAR),
-
-[artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=74) en [artikel 168 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=168) (BARD);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de wijziging van artikel 74 van het Burgerlijk Ambtenarenreglement Defensie, houdende het scheppen van een basis voor deze regeling, in werking treedt.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **beleidsterrein:** de Koninklijke Landmacht, de Koninklijke Marine, de Koninklijke Luchtmacht, de Koninklijke Marechaussee, het Defensie Interservice Commando (DICO) en de Centrale Organisatie van het Ministerie van Defensie;
+- a. *beleidsterrein:* de Koninklijke Landmacht, de Koninklijke Marine, de Koninklijke Luchtmacht, de Koninklijke Marechaussee, het Defensie Interservice Commando (DICO) en de Centrale Organisatie van het Ministerie van Defensie;
 
-- b. **werknemer:**
+- b. *werknemer:*
 
-- 1e de militair in werkelijke dienst als bedoeld in [artikel 1, onder c van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1) en tewerkgesteld bij een beleidsterrein;
+   - 1e de militair in werkelijke dienst als bedoeld in [artikel 1, onder c van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1) en tewerkgesteld bij een beleidsterrein;
 
-- 2e de burgerlijke ambtenaar tewerkgesteld bij het Ministerie van Defensie;
+   - 2e de burgerlijke ambtenaar tewerkgesteld bij het Ministerie van Defensie;
 
-- c. **directe chef:** de functionaris onder wiens toezicht en leiding de functie wordt vervuld, dan wel die als zodanig door de commandant is aangewezen;
+- c. *directe chef:* de functionaris onder wiens toezicht en leiding de functie wordt vervuld, dan wel die als zodanig door de commandant is aangewezen;
 
-- d. **commandant:**
+- d. *commandant:*
 
-- 1e ten aanzien van militairen: de commandant, opgenomen in bijlage 2 van de Regeling aanwijzing commandanten AMAR;
+   - 1e ten aanzien van militairen: de commandant, opgenomen in bijlage 2 van de Regeling aanwijzing commandanten AMAR;
 
-- 2e ten aanzien van de burgerlijke ambtenaar: het hoofd van de diensteenheid, opgenomen in bijlage 3 van de Regeling bevoegdhedentoedeling burgerlijke ambtenaren defensie;
+   - 2e ten aanzien van de burgerlijke ambtenaar: het hoofd van de diensteenheid, opgenomen in bijlage 3 van de Regeling bevoegdhedentoedeling burgerlijke ambtenaren defensie;
 
-- e. **ARBO-dienst:** een onafhankelijke voor het betreffende beleidsterrein verantwoordelijke ARBO-dienst als bedoeld in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
+- e. *ARBO-dienst:* een onafhankelijke voor het betreffende beleidsterrein verantwoordelijke ARBO-dienst als bedoeld in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
 
-- f. **bedrijfsarts:** een arts werkzaam bij de ARBO-dienst en als zodanig belast met de bedrijfsgeneeskundige begeleiding van defensiepersoneel;
+- f. *bedrijfsarts:* een arts werkzaam bij de ARBO-dienst en als zodanig belast met de bedrijfsgeneeskundige begeleiding van defensiepersoneel;
 
-- g. **ziekmelding:** de mededeling van of namens de werknemer waarmee deze bekend stelt dat hij in verband met ziekte verhinderd is zijn arbeid te verrichten;
+- g. *ziekmelding:* de mededeling van of namens de werknemer waarmee deze bekend stelt dat hij in verband met ziekte verhinderd is zijn arbeid te verrichten;
 
-- h. **ziekteverzuim:** het als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte ongeschikt zijn tot het verrichten van zijn arbeid;
+- h. *ziekteverzuim:* het als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte ongeschikt zijn tot het verrichten van zijn arbeid;
 
-- i. **ziekmeldingsgesprek:** het gesprek dat in beginsel tijdens het moment van de ziekmelding, doch uiterlijk op de eerste verzuimdag, moet worden gevoerd tussen de directe chef en de werknemer die zich ziek heeft gemeld;
+- i. *ziekmeldingsgesprek:* het gesprek dat in beginsel tijdens het moment van de ziekmelding, doch uiterlijk op de eerste verzuimdag, moet worden gevoerd tussen de directe chef en de werknemer die zich ziek heeft gemeld;
 
-- j. **werkhervattinggesprek:** het gesprek tussen de werknemer en zijn directe chef dat plaats vindt naar aanleiding van de geheel of gedeeltelijke werkhervatting van de werknemer;
+- j. *werkhervattinggesprek:* het gesprek tussen de werknemer en zijn directe chef dat plaats vindt naar aanleiding van de geheel of gedeeltelijke werkhervatting van de werknemer;
 
-- k. **herstelmelding:** de mededeling aan de directe chef van de werknemer waarmee deze te kennen geeft dat hij zich herstelt acht en in staat meent te zijn zijn arbeid weer te verrichten;
+- k. *herstelmelding:* de mededeling aan de directe chef van de werknemer waarmee deze te kennen geeft dat hij zich herstelt acht en in staat meent te zijn zijn arbeid weer te verrichten;
 
-- l. **verzuimbegeleiding:** de begeleiding van de werknemer die door ziekte niet in staat is zijn arbeid te verrichten, zoals genoemd in de [Arbo-wet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346).
+- l. *verzuimbegeleiding:* de begeleiding van de werknemer die door ziekte niet in staat is zijn arbeid te verrichten, zoals genoemd in de [Arbo-wet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346).
 
 ##### Artikel 2. Verplichtingen van de werknemer
 

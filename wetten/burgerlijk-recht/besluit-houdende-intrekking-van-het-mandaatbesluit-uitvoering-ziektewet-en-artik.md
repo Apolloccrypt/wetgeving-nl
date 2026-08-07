@@ -9,7 +9,7 @@ laatste_update: 2026-08-05
 status: geldig
 toestand: 2026-08-05
 bron: "https://wetten.overheid.nl/BWBR0052938"
-opgehaald: 2026-08-06
+opgehaald: 2026-08-07
 ---
 
 # Besluit houdende intrekking van het Mandaatbesluit uitvoering Ziektewet en artikel 62 van het Burgerlijk Ambtenarenreglement Defensie en artikel 120 en 125 van het Algemeen Militair Ambtenarenreglement Defensie en vaststelling van overgangsrecht

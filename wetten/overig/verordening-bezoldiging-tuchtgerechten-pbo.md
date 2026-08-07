@@ -1,48 +1,18 @@
 ---
 title: "Verordening van de Sociaal-Economische Raad van 21 november 2003 houdende regelen terzake van de bezoldiging van de voorzitter, de leden en de secretaris van een tuchtgerecht op grond van de Wet tuchtrechtspraak bedrijfsorganisatie 2002 (Verordening bezoldiging tuchtgerechten PBO)"
+citeertitel: "Verordening bezoldiging tuchtgerechten PBO"
 identifier: "BWBR0015930"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-04-01"
-last_updated: "2004-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015930"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6103613"
-version_id: "10764342"
-internal_id: "C14611701"
-label_id: "6092804"
-original_entry_into_force: "2004-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015930/2004-04-01/0"
-intitule_bron: "Vbbo.2004-16"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-11-21"
-intitule_published: "2004-03-19"
-intitule_in_force: "2004-03-04"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-16"
-original_signed_date: "2003-11-21"
-original_published_date: "2004-03-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-04-01"
-jci_1_3: "jci1.3:c:BWBR0015930&z=2004-04-01&g=2004-04-01"
-jci_1_0: "1.0:c:BWBR0015930&g=2004-04-01"
-citeertitel_status: "officieel"
-short_title: "Verordening bezoldiging tuchtgerechten PBO"
-signed_date: "2003-11-21"
-entry_into_force: "2004-04-01"
+publicatiedatum: 2004-04-01
+laatste_update: 2004-04-01
+status: geldig
+toestand: 2004-04-01
+bron: "https://wetten.overheid.nl/BWBR0015930"
+opgehaald: 2026-08-07
 ---
+
 # Verordening van de Sociaal-Economische Raad van 21 november 2003 houdende regelen terzake van de bezoldiging van de voorzitter, de leden en de secretaris van een tuchtgerecht op grond van de Wet tuchtrechtspraak bedrijfsorganisatie 2002 (Verordening bezoldiging tuchtgerechten PBO)
-
-Gelet op [artikel 36 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=36);
-
-Gelet op [artikel 13, derde lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=13);
-
-Gehoord de Bestuurskamer;
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Wet tuchtrechtspraak bedrijfsorganisatie 2002 in werking treedt.
 
 #### § 1. Begripsbepalingen
 
@@ -64,7 +34,7 @@ In deze verordening wordt verstaan onder:
 
 1. De bezoldiging van de voorzitter van een tuchtgerecht houdt in:
 
-- a. per jaar een bedrag ter hoogte van twee-, drie-, dan wel viermaal de voor leden van de Raad vastgestelde forfaitaire vergoeding voor representatiekosten, afhankelijk van het aantal zaken dat door het tuchtgerecht is behandeld in het kalenderjaar dat aan het desbetreffende jaar is voorafgegaan, overeenkomstig de tabel die als bijlage bij deze verordening is gevoegd;
+- a. per jaar een bedrag ter hoogte van twee-, drie-, dan wel viermaal de voor leden van de Raad vastgestelde forfaitaire vergoeding voor representatiekosten, afhankelijk van het aantal zaken dat door het tuchtgerecht is behandeld in het kalenderjaar dat aan het desbetreffende jaar is voorafgegaan, overeenkomstig de tabel die als [bijlage](https://wetten.overheid.nl/BWBR0015930) bij deze verordening is gevoegd;
 
 - b. per zitting een bedrag ter hoogte van driemaal de voor leden van de Raad vastgestelde vacatievergoeding;
 
@@ -111,13 +81,3 @@ Deze verordening treedt in werking op het tijdstip waarop de [Wet tuchtrechtspra
 ##### Artikel 9
 
 Deze verordening wordt aangehaald als: Verordening bezoldiging tuchtgerechten PBO.
-
-## Bijlage. bij de Verordening bezoldiging tuchtgerechten PBO
-
-Tabel, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015930&paragraaf=2&artikel=2&z=2004-04-01&g=2004-04-01)
-
-| Grenswaarden | hoogte van het bedrag | hoogte van het bedrag |
-| --- | --- | --- |
-| minder dan 50 zaken | tweemaal | de voor leden van de Raad |
-| 50 – 150 zaken | driemaal | vastgestelde forfaitaire |
-| Meer dan 150 zaken | viermaal | vergoeding |

@@ -1,45 +1,17 @@
 ---
 title: "Regeling bescherming persoonsgegevens in personeelsdossiers en Emplaza BZK"
 identifier: "BWBR0015853"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-01-06"
-last_updated: "2014-01-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015853"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "5506883"
-version_id: "9900202"
-internal_id: "C13374181"
-label_id: "5480174"
-original_entry_into_force: "2003-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015853/2014-01-06/0"
-intitule_bron: "Stcrt.2003-237"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-11-10"
-intitule_published: "2003-12-08"
-intitule_in_force: "2003-12-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-237"
-original_signed_date: "2003-11-10"
-original_published_date: "2003-12-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-12-09"
-jci_1_3: "jci1.3:c:BWBR0015853&z=2014-01-06&g=2014-01-06"
-jci_1_0: "1.0:c:BWBR0015853&g=2014-01-06"
-citeertitel_status: "officieel"
-signed_date: "2003-11-10"
-entry_into_force: "2003-12-09"
+publicatiedatum: 2003-12-09
+laatste_update: 2014-01-06
+status: geldig
+toestand: 2014-01-06
+bron: "https://wetten.overheid.nl/BWBR0015853"
+opgehaald: 2026-08-07
 ---
+
 # Regeling bescherming persoonsgegevens in personeelsdossiers en Emplaza BZK
-
-Gelet op de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
-
-Gelet op de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376);
-
-Gelet op de instemming van de Groepsondernemingsraad van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties d.d. 30 oktober 2003;
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -69,9 +41,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - k. vertrouwelijke gegevens:
 
-- 1°. gegevens betreffende personeelsbeoordelingen, verslagen van functioneringsgesprekken en andere gesprekken met de medewerker over de wijze waarop hij zijn werkzaamheden heeft uitgevoerd en andere gegevens over de wijze waarop de medewerker zijn werkzaamheden uitvoert en of heeft uitgevoerd;
+   - 1°. gegevens betreffende personeelsbeoordelingen, verslagen van functioneringsgesprekken en andere gesprekken met de medewerker over de wijze waarop hij zijn werkzaamheden heeft uitgevoerd en andere gegevens over de wijze waarop de medewerker zijn werkzaamheden uitvoert en of heeft uitgevoerd;
 
-- 2°. ingevulde schouwformulieren, schouwverslagen alsmede andere gegevens, niet zijnde uitslagen van psychologische testen of assessments, die betrekking hebben op de loopbaanvorming van de medewerker.
+   - 2°. ingevulde schouwformulieren, schouwverslagen alsmede andere gegevens, niet zijnde uitslagen van psychologische testen of assessments, die betrekking hebben op de loopbaanvorming van de medewerker.
 
 ### Hoofdstuk 2. Doel en werkingssfeer
 
@@ -274,43 +246,3 @@ Deze regeling treedt in werking op de eerste dag na de dagtekening van de Staats
 ##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bescherming persoonsgegevens in personeelsdossiers en Emplaza BZK.
-
-## Bijlage 1. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=4&artikel=10&z=2014-01-06&g=2014-01-06)
-
-### **Gegevens te verwerken in personeelsdossiers**
-
-### **Gegevens te verwerken in Emplaza**
-
-De hierboven genoemde gegevens onder a t/m r alsmede:
-
-## Bijlage 2. behorende bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=3&artikel=9&z=2014-01-06&g=2014-01-06)
-
-### **Personen aan wie en Instanties waaraan in ieder geval uit hoofde van wettelijke verplichtingen persoonsgegevens worden verstrekt**
-
-## Bijlage 3. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=5&artikel=12&z=2014-01-06&g=2014-01-06)
-
-### 1. Inleiding
-
-Onder een personeelsdossier (P-dossier) wordt verstaan de eenheid waarin rechtmatig verkregen en opgestelde gegevens van een medewerker zijn vastgelegd. Het P-dossier geeft naast het inzicht in de afspraken die tussen Binnenlandse Zaken en Koninkrijksrelaties en de medewerker zijn gemaakt, ook het overzicht van de arbeidshistorie van de betrokken ambtenaar.
-
-### 2. Indeling van de P-dossiers
-
-De indeling van de P-dossiers is zodanig gekozen dat het meest actuele besluit snel en goed te vinden is. Voorwaarde hiervoor is wel dat zo min mogelijk tabjes onder de rubrieken worden gebruikt. De rubrieken (hieronder aangeduid met de letters a t/m i) zelf worden wel van elkaar gescheiden door middel van tabstroken.
-
-Binnen de rubrieken worden de stukken chronologisch geborgen van het oudste naar het jongste stuk.
-
-De hieronder volgende indeling is voor wat betreft de rubrieken volledig. De opsomming van stukken en onderwerpen, die onder rubrieken worden genoemd, is echter niet limitatief.
-
-In elk P-dossier komen in ieder geval de categorieën A (sollicitatie) en B (dienstverband) voor.
-
-De overige categorieën kunnen voorkomen, maar dat is niet noodzakelijk.
-
-### 3. Functioneringsgesprekken/beoordelingen
-
-Gegevens met betrekking tot de personeelsbeoordeling, functioneringsgesprekken, de personeelsschouw en andere gesprekken met de medewerker over de wijze waarop hij zijn werkzaamheden uitoefent, worden opgenomen in een vertrouwelijk dossieronderdeel, speciaal bedoeld voor de gegevens genoemd in artikel 6, derde lid van de Regeling bescherming persoonsgegevens in personeelsdossiers en Emplaza.
-
-### 4. Vernietiging
-
-Vernietiging van P-dossiers of bescheiden daaruit vindt plaats overeenkomstig het bepaalde in het Basisselectiedocument Overheidspersoneel, Deelbeleidsterrein Arbeidsvoorwaarden Rijkspersoneel, BSD, april 2000.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

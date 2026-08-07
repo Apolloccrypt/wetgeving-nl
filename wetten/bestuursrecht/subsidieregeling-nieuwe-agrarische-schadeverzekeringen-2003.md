@@ -1,53 +1,17 @@
 ---
 title: "Subsidieregeling nieuwe agrarische schadeverzekeringen 2003"
 identifier: "BWBR0015740"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-11-25"
-last_updated: "2007-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015740"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5448263"
-version_id: "9820552"
-internal_id: "C13277711"
-label_id: "5423094"
-original_entry_into_force: "2003-10-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015740/2007-11-25/0"
-intitule_bron: "Stcrt.2003-203"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-10-17"
-intitule_published: "2003-10-21"
-intitule_in_force: "2003-10-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-203"
-original_signed_date: "2003-10-17"
-original_published_date: "2003-10-21"
-original_effect: "structuurwijziging"
-entry_into_force_date: "2003-10-23"
-jci_1_3: "jci1.3:c:BWBR0015740&z=2007-11-25&g=2007-11-25"
-jci_1_0: "1.0:c:BWBR0015740&g=2007-11-25"
-citeertitel_status: "officieel"
-signed_date: "2003-10-17"
-entry_into_force: "2003-10-23"
+publicatiedatum: 2003-10-23
+laatste_update: 2007-11-25
+status: geldig
+toestand: 2007-11-25
+bron: "https://wetten.overheid.nl/BWBR0015740"
+opgehaald: 2026-08-07
 ---
+
 # Subsidieregeling nieuwe agrarische schadeverzekeringen 2003
-
-Handelende in overeenstemming met de Minister van Financiën;
-
-Na overleg met de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op artikel 87, derde lid, onderdeel c, EG-Verdrag;
-
-Gelet op de communautaire richtsnoeren voor staatssteun in de landbouwsector;
-
-Gelet op de Mededeling van de Commissie betreffende de toepassing van de artikelen 87 en 88 van het EG-verdrag op staatssteun in de vorm van garanties;
-
-Gelet op de goedkeuring van de Commissie van de Europese Gemeenschappen bij beschikking nr. SG (2003) D/232294 van 16 oktober 2003;
-
-Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2) en [4 van de Kaderwet LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=4);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -109,13 +73,13 @@ In deze regeling wordt verstaan onder:
 
 - e. de schade waarvoor de verzekering dekking biedt bedraagt:
 
-- 1º. ten minste 25% van de normale opbrengst in de betrokken productierichting op het bedrijf van verzekerde over drie jaren voorafgaand aan het jaar waarin de schade optreedt, danwel
+   - 1º. ten minste 25% van de normale opbrengst in de betrokken productierichting op het bedrijf van verzekerde over drie jaren voorafgaand aan het jaar waarin de schade optreedt, danwel
 
-- 2º. ten minste 10% van de normale opbrengst in het eerste jaar nadat schade aan meerjarige productiegewassen is opgetreden, indien is voldaan aan elk van de volgende voorwaarden:
+   - 2º. ten minste 10% van de normale opbrengst in het eerste jaar nadat schade aan meerjarige productiegewassen is opgetreden, indien is voldaan aan elk van de volgende voorwaarden:
 
-- –. de schade veroorzaakt in de daaropvolgende jaren productieverliezen;
+      - – de schade veroorzaakt in de daaropvolgende jaren productieverliezen;
 
-- –. het percentage van de productieverliezen in het eerste jaar, vermenigvuldigd met het aantal jaren waarin productieverliezen optreden, bedraagt ten minste 25% van de normale opbrengst.
+      - – het percentage van de productieverliezen in het eerste jaar, vermenigvuldigd met het aantal jaren waarin productieverliezen optreden, bedraagt ten minste 25% van de normale opbrengst.
 
 2. De subsidie, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25), wordt slechts verleend indien de verzekering voldoet aan elk van de navolgende voorwaarden:
 
@@ -322,64 +286,3 @@ Deze regeling wordt aangehaald als: Subsidieregeling nieuwe agrarische schadever
 ##### Artikel 21
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-## Bijlage I. Tekst accountantsverklaring, als bedoeld in [artikel 16, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=11&artikel=16&z=2007-11-25&g=2007-11-25)
-
-Wij hebben de bijgevoegde opgaaf van de premie inzake agrarische schadeverzekeringen over de periode van ... tot ... met betrekking tot de subsidieverlening in het kader van de Subsidieregeling nieuwe agrarische schadeverzekeringen van ... (naam instelling) te ... (zetel) gecontroleerd. De opgaaf van de premie is opgesteld onder verantwoordelijkheid van ... (de leiding van naam instelling). Het is onze verantwoordelijkheid een accountantsverklaring inzake de opgaaf van de premie te verstrekken.
-
-Voor het onderhavige project is met brief van Dienst Regelingen, kenmerk ... (nr.) d.d. ... (datum) een subsidie verleend tot een maximum van € ... (bedrag).
-
-Onze controle is verricht overeenkomstig algemeen aanvaarde richtlijnen met betrekking tot controle-opdrachten en overeenkomstig de aanwijzingen die de Minister van Landbouw, Natuur en Voedselkwaliteit in het controleprotocol, behorende bij vorenbedoelde ministeriële regeling, heeft gegeven met betrekking tot de controle op de naleving van de subsidiebepalingen. Volgens de richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de financiële verantwoording geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen in de financiële verantwoording. Voorts is aanvullend specifieke aandacht besteed aan de in vorenbedoeld controleprotocol aangegeven aspecten.
-
-Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
-
-Wij zijn van oordeel dat de opgaaf van de premie voldoet aan de voor dit doel eraan te stellen eisen.
-
-Tevens delen wij mede dat de subsidiebepalingen van de Subsidieregeling nieuwe agrarische schadeverzekeringen zijn nageleefd.
-
-Plaats en datum: ...
-
-Handtekening: ...
-
-Naam accountant: ...
-
-Naam accountantskantoor:...
-
-Adres: ...
-
-Postcode en woonplaats: ...
-
-Telefoon: ...
-
-## Bijlage II. Controleprotocol als bedoeld in [artikel 16, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=11&artikel=16&z=2007-11-25&g=2007-11-25)
-
-Bij de controle, op basis waarvan de rapportage bedoeld in het [tweede lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=11&artikel=16&z=2007-11-25&g=2007-11-25) plaatsvindt, dient aan de naleving van de volgende artikelen op de daarbij aangegeven wijze aandacht te worden besteed.
-
-| Artikel | Soort aandacht |
-| --- | --- |
-| Artikel 4 | speciale aandacht |
-| Artikel 5 Artikel 6 Artikel 7 | speciale aandacht speciale aandacht speciale aandacht |
-| Artikel 13 | normale aandacht |
-| Artikel 14 | normale aandacht |
-
-Vaststellen dat:
-
-- –. het premie-inkomen opgenomen in de opgaaf van de premies betrekking heeft op verzekeringsovereenkomsten voor de categorie van schades zoals omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=3&artikel=4&z=2007-11-25&g=2007-11-25).
-
-- –. de verzekerde schade en de optredende productieverliezen in Nederland optreden;
-
-- –. het premie-inkomen betrekking heeft op een verzekeringsperiode van één jaar, verschuldigd in het jaar, gerekend vanaf de datum van de eerste aanbieding van de verzekering.
-
-- –. De subsidieontvanger niet reeds voor hetzelfde of een vergelijkbaar risico vanwege de staat, een andere overheidsorgaan of de Europese Gemeenschap een subsidie is verleend.
-
-Vaststellen dat de subsidieontvanger de subsidie alleen heeft gebruikt voor de overeenkomsten van schadeverzekering die passen binnen de nadere voorwaarden, die door de minister op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=3&artikel=5&z=2007-11-25&g=2007-11-25) heeft bepaald.
-
-Onder normale aandacht wordt verstaan:
-
-Controle met een diepgang die gebruikelijk is voor het afgeven van een accountantsverklaring bij een verantwoording.
-
-Onder speciale aandacht wordt verstaan:
-
-Controle waarbij nadrukkelijk wordt bezien of de desbetreffende voorschriften zijn nageleefd. In dit geval moet dus verder worden gegaan dan normaal bij een controle van een verantwoording.
-
-Aan de niet genoemde artikelen behoeft bij de controle geen aandacht te worden besteed, met dien verstande dat, teneinde de controle op de hierboven genoemde artikelen goed te kunnen verrichten, kennisneming van deze overige noodzakelijk is. Voor zover de subsidiebepalingen niet zijn nageleefd, maakt de accountant hiervan melding in zijn verklaring. De minister behoudt zich het recht voor om de Auditdienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit een review te laten uitvoeren op de door de accountant van de aanvrager, aan wie de subsidie ingevolge de Subsidieregeling nieuwe agrarische schadeverzekeringen 2003 is verleend, verrichte werkzaamheden.

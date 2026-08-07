@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 16 augustus 2003, houdende vaststelling van tarieven voor vergoedingen als bedoeld in de artikelen 3, 4, 6, 7, 17 en 18 van de Wet tarieven in strafzaken (Besluit tarieven in strafzaken 2003)"
+citeertitel: "Besluit tarieven in strafzaken 2003"
 identifier: "BWBR0015481"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0015481"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "5230773"
-version_id: "9420922"
-internal_id: "C12976601"
-label_id: "5205434"
-dtd_version: "2.0"
-original_entry_into_force: "2003-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0015481/2026-01-01/0"
-intitule_bron: "Stb.2003-330"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-08-16"
-intitule_published: "2003-09-02"
-intitule_in_force: "2003-09-30"
-intitule_status: "goed"
-original_publication: "Stb.2003-330"
-original_signed_date: "2003-08-16"
-original_published_date: "2003-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2003-330"
-entry_into_force_date: "2003-10-01"
-jci_1_3: "jci1.3:c:BWBR0015481&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0015481&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit tarieven in strafzaken 2003"
-signed_date: "2003-08-16"
-entry_into_force: "2003-10-01"
+publicatiedatum: 2003-10-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0015481"
+opgehaald: 2026-08-07
 ---
+
 # Besluit van 16 augustus 2003, houdende vaststelling van tarieven voor vergoedingen als bedoeld in de artikelen 3, 4, 6, 7, 17 en 18 van de Wet tarieven in strafzaken (Besluit tarieven in strafzaken 2003)
-
-Op de voordracht van Onze Minister van Justitie van 21 mei 2003, kenmerk 5226041/03/6;
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=7), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=17) en [18 van de Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=18);
-
-De Raad van State gehoord (advies van 10 juli 2003, nr. W03.03.0191/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 12 augustus 2003, directie Wetgeving, nr. 5236339/03/6;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Definitiebepalingen
 
@@ -84,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-1. Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), verricht door psychologen, bedraagt, voor het verrichten van psychologisch onderzoek, ten hoogste € 141,19 per uur.
+1. Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), verricht door psychologen, bedraagt, voor het verrichten van psychologisch onderzoek, ten hoogste  € 141,19 per uur.
 
 2. Voor het verrichten van een psychologisch onderzoek als bedoeld in het eerste lid, voor zover deze inhoudt het opstellen van een psychologisch rapport over een volwassene, komt ten behoeve van een monorapportage of dubbelrapportage ten hoogste achtentwintig uur en ten behoeve van een tripelrapportage ten hoogste vierendertig uur voor vergoeding in aanmerking.
 
@@ -96,7 +64,11 @@ Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerst
 
 ##### Artikel 5
 
-Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), bedraagt voor vertalers ten minste € 0,079 per woord.
+Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), bedraagt voor vertalers ten minste € 0,079 per woord.
+
+##### Artikel 5a
+
+*Vervallen*
 
 ##### Artikel 6
 
@@ -122,11 +94,11 @@ De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Het tarief voor vergoedingen wegens tijdverzuim als bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3) bedraagt, indien deze vergoedingen worden verstrekt aan:
 
-- a. geneeskundigen, bevoegd tot uitoefening van de praktijk in Nederland, ten hoogste € 184,42 per uur;
+- a. geneeskundigen, bevoegd tot uitoefening van de praktijk in Nederland, ten hoogste € 184,42 per uur;
 
 - b. psychologen, bevoegd tot uitoefening van de praktijk in Nederland, ten hoogste € 141,19 per uur;
 
-- c. andere personen aan wie werkzaamheden zijn opgedragen, naar gelang de werkzaamheden niet of in meer of mindere mate van wetenschappelijke of bijzondere aard zijn, ten hoogste € 184,42 per uur;
+- c. andere personen aan wie werkzaamheden zijn opgedragen, naar gelang de werkzaamheden niet of in meer of mindere mate van wetenschappelijke of bijzondere aard zijn, ten hoogste € 184,42 per uur;
 
 - d. getuigen, met uitzondering van minderjarigen die geen inkomsten derven, aan voogden die wegens een strafzaak tegen een onder hun gezag staande minderjarige ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) moeten worden opgeroepen, aan curatoren, bij toepassing van [artikel 509d van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509d), en aan noodzakelijke geleiders van personen als hiervoor bedoeld, van personen aan wie werkzaamheden zijn opgedragen, van verdachten en van gerekwestreerden, € 6,81 per uur.
 
@@ -156,13 +128,13 @@ De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Het tarief voor vergoedingen wegens reis- en verblijfkosten als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=6) bedraagt, indien deze vergoedingen worden verstrekt aan:
 
-- a. personen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01), € 3,90 per retourkilometer;
+- a. personen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01), € 3,90 per retourkilometer;
 
-- b. personen als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01), ten minste € 0,77 per kilometer;
+- b. personen als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01), ten minste € 0,77 per kilometer;
 
 - c. personen aan wie op grond van [artikel 3, derde lid, sub c, d of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), geen vergoeding wegens tijdverzuim toekomt, het tarief, dat is overeengekomen voor de vergoeding van reis- en verblijfskosten in het binnenland in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn;
 
-- d. personen aan wie werkzaamheden zijn opgedragen die niet van wetenschappelijke of bijzondere aard zijn, aan getuigen, aan voogden die wegens een strafzaak tegen een onder hun gezag staande minderjarige ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) moeten worden opgeroepen, aan curatoren, bij toepassing van [artikel 509d van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509d), en aan noodzakelijke geleiders van personen als hiervoor bedoeld, van personen aan wie werkzaamheden zijn opgedragen, van verdachten en van gerekwestreerden, een tarief waarvan de hoogte gelijk is aan de reiskosten per openbaar middel van vervoer, laagste klasse dan wel een kilometervergoeding van € 0,28 per kilometer indien openbaar vervoer niet of niet voldoende mogelijk is, alsmede verblijfkosten tot ten hoogste € 37,85 per dag, met inbegrip van overnachting; het tarief voor de vergoeding van het gebruik van een eigen auto bedraagt ten hoogste € 0,28 per kilometer.
+- d. personen aan wie werkzaamheden zijn opgedragen die niet van wetenschappelijke of bijzondere aard zijn, aan getuigen, aan voogden die wegens een strafzaak tegen een onder hun gezag staande minderjarige ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) moeten worden opgeroepen, aan curatoren, bij toepassing van [artikel 509d van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509d), en aan noodzakelijke geleiders van personen als hiervoor bedoeld, van personen aan wie werkzaamheden zijn opgedragen, van verdachten en van gerekwestreerden, een tarief waarvan de hoogte gelijk is aan de reiskosten per openbaar middel van vervoer, laagste klasse dan wel een kilometervergoeding van € 0,28 per kilometer indien openbaar vervoer niet of niet voldoende mogelijk is, alsmede verblijfkosten tot ten hoogste € 37,85 per dag, met inbegrip van overnachting; het tarief voor de vergoeding van het gebruik van een eigen auto bedraagt ten hoogste  € 0,28 per kilometer.
 
 2. Het aantal kilometers, bedoeld in het eerste lid, onder a en b, wordt berekend naar de kortste reisroute.
 
@@ -220,36 +192,20 @@ Dit besluit wordt aangehaald als: Besluit tarieven in strafzaken 2003.
 
 ##### Artikel 18
 
-Wijzigt het Besluit proceskosten bestuursrecht.
+*Wijzigt het Besluit proceskosten bestuursrecht.*
 
 ##### Artikel 19
 
-Wijzigt het Besluit rechtspraak in ambtenarenzaken.
+*Wijzigt het Besluit rechtspraak in ambtenarenzaken.*
 
 ##### Artikel 20
 
-Wijzigt het Besluit tarieven in burgerlijke zaken.
+*Wijzigt het Besluit tarieven in burgerlijke zaken.*
 
 ##### Artikel 21
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
+*Wijzigt het Besluit vergoedingen rechtsbijstand 2000.*
 
 ##### Artikel 22
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-Vervallen
-
-#### § 3. Vergoedingen voor reis- en verblijfkosten
-
-#### § 4. Vergoedingen voor afschriften, uittreksels, inlichtingen en het uitbrengen van exploiten
-
-#### § 5. Diverse bepalingen; buitengewone kosten, niet voorziene kosten en omzetbelasting
-
-#### § 6. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
