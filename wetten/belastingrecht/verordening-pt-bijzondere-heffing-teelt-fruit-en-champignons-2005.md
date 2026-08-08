@@ -1,42 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2004, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2005 (Verordening PT bijzondere heffing teelt fruit en champignons 2005)"
+citeertitel: "Verordening PT bijzondere heffing teelt fruit en champignons 2005"
 identifier: "BWBR0016971"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-12-11"
-last_updated: "2004-12-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016971"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6730453"
-version_id: "11582862"
-internal_id: "C15608461"
-label_id: "6718974"
-original_entry_into_force: "2004-12-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016971/2004-12-11/0"
-intitule_bron: "Vbbo.2004-71"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-01"
-intitule_published: "2004-12-10"
-intitule_in_force: "2004-12-10"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-71"
-original_signed_date: "2004-07-01"
-original_published_date: "2004-12-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-12-11"
-jci_1_3: "jci1.3:c:BWBR0016971&z=2004-12-11&g=2004-12-11"
-jci_1_0: "1.0:c:BWBR0016971&g=2004-12-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing teelt fruit en champignons 2005"
-signed_date: "2004-07-01"
-entry_into_force: "2004-12-11"
+publicatiedatum: 2004-12-11
+laatste_update: 2004-12-11
+status: geldig
+toestand: 2004-12-11
+bron: "https://wetten.overheid.nl/BWBR0016971"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2004, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2005 (Verordening PT bijzondere heffing teelt fruit en champignons 2005)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Sectorcommissie voor hovenierswerkzaamheden, d.d. 24 juni 2004;
 
 #### § 1. Begripsbepalingen
 

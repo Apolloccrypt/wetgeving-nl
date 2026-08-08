@@ -1,51 +1,18 @@
 ---
 title: "Besluit van 10 december 2004, houdende regels ter uitvoering van de Rijkswet Onderzoeksraad voor veiligheid (Besluit Onderzoeksraad voor veiligheid)"
+citeertitel: "Besluit Onderzoeksraad voor veiligheid"
 identifier: "BWBR0017681"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017681"
+categorie: "Staatsinrichting en bestuur"
 soort: "AMvB"
-stam_id: "6504593"
-version_id: "11192762"
-internal_id: "C23420611"
-label_id: "6493484"
-original_entry_into_force: "2005-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017681/2026-01-01/0"
-intitule_bron: "Stb.2004-680"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-10"
-intitule_published: "2004-12-23"
-intitule_in_force: "2005-01-18"
-intitule_status: "goed"
-original_publication: "Stb.2004-680"
-original_signed_date: "2004-12-10"
-original_published_date: "2004-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2004-680"
-entry_into_force_date: "2005-02-01"
-jci_1_3: "jci1.3:c:BWBR0017681&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0017681&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Onderzoeksraad voor veiligheid"
-signed_date: "2004-12-10"
-entry_into_force: "2005-02-01"
+publicatiedatum: 2005-02-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0017681"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 10 december 2004, houdende regels ter uitvoering van de Rijkswet Onderzoeksraad voor veiligheid (Besluit Onderzoeksraad voor veiligheid)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 juni 2004, nr. PRO 2004/67265, Directoraat-generaal Veiligheid, project PRO;
-
-Gelet op [richtlijn nr. 94/56/EG](31994L0056) van de Raad van de Europese Unie van 23 november 1994 houdende vaststelling van de grondbeginselen voor het onderzoek van ongevallen en incidenten in de burgerluchtvaart (PbEG L 319), [richtlijn nr. 96/82/EG](31996L0082) van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 010), [richtlijn nr. 2002/59/EG](32002L0059) inzake de invoering van een communautair monitorings- en informatiesysteem voor de zeescheepvaart (PbEG L 208) en [richtlijn nr. 1999/35/EG](31999L0035) van de Raad van de Europese Unie van 29 april 1999 betreffende een stelsel van verplichte onderzoeken voor de veilige exploitatie van geregelde diensten met ro-ro-veerboten en hogesnelheidspassagiersvaartuigen (PbEG L 138) alsmede de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=5), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=28), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=54), [56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=56), [59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=59), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=67), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=68), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=77), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=78) en [96, eerste lid, van de Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=96);
-
-De Raad van State gehoord (advies van 2 september 2004, nr. W04.04.0254/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 december 2004, nr. PRO 2004/78765;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligheid in werking treedt. Treedt voor wat betreft het onderzoek naar ongevallen en incidenten met een zeeschip, niet zijnde een oorlogsschip, marinehulpschip of ander schip dat in gebruik is voor de uitvoering van de militaire taak in werking op 1 januari 2010 (Stb. 2009/563).
 
 #### § 1. Begripsomschrijving
 
@@ -57,47 +24,47 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 - b. scheepvaartongeval: een gebeurtenis die heeft geresulteerd in het volgende:
 
-- 1°. dodelijk of ernstig letsel aan een persoon overkomen, dat is veroorzaakt door of samenhangt met het functioneren van een schip;
+   - 1°. dodelijk of ernstig letsel aan een persoon overkomen, dat is veroorzaakt door of samenhangt met het functioneren van een schip;
 
-- 2°. de vermissing van een persoon vanaf een schip, die is veroorzaakt door of samenhangt met het functioneren van het schip;
+   - 2°. de vermissing van een persoon vanaf een schip, die is veroorzaakt door of samenhangt met het functioneren van het schip;
 
-- 3°. de vermissing, vermoedelijke vermissing of het verlaten van een schip;
+   - 3°. de vermissing, vermoedelijke vermissing of het verlaten van een schip;
 
-- 4°. schade aan een schip;
+   - 4°. schade aan een schip;
 
-- 5°. het stranden of onbruikbaar worden van een schip;
+   - 5°. het stranden of onbruikbaar worden van een schip;
 
-- 6°. de betrokkenheid van een schip bij een aanvaring;
+   - 6°. de betrokkenheid van een schip bij een aanvaring;
 
-- 7°. schade die is veroorzaakt door of samenhangt met het functioneren van een schip;
+   - 7°. schade die is veroorzaakt door of samenhangt met het functioneren van een schip;
 
-- 8°. schade aan het milieu die is veroorzaakt door schade aan een of meerdere schepen, welke het gevolg is van of samenhangt met het functioneren van een schip;
+   - 8°. schade aan het milieu die is veroorzaakt door schade aan een of meerdere schepen, welke het gevolg is van of samenhangt met het functioneren van een schip;
 
 - c. zeer ernstig scheepvaartongeval: een gebeurtenis die heeft geresulteerd in:
 
-- 1°. het overlijden van een persoon, dat het gevolg is van of samenhangt met het functioneren van een schip;
+   - 1°. het overlijden van een persoon, dat het gevolg is van of samenhangt met het functioneren van een schip;
 
-- 2°. zeer ernstige schade aan het milieu, die is veroorzaakt door schade aan een of meerdere schepen, welke het gevolg is van of samenhangt met het functioneren van een schip; of
+   - 2°. zeer ernstige schade aan het milieu, die is veroorzaakt door schade aan een of meerdere schepen, welke het gevolg is van of samenhangt met het functioneren van een schip; of
 
-- 3°. een schip dat total loss is;
+   - 3°. een schip dat total loss is;
 
 - d. ernstig scheepvaartongeval: een gebeurtenis, zijnde een brand, een ontploffing, een stranding, een aanvaring, zwaar weer, ijsgang, het falen van de constructie, of een andere oorzaak, die heeft geresulteerd in:
 
-- 1°. schade aan de voortstuwing, of ernstige schade aan accommodatie of de constructie van een schip, die de zeewaardigheid daarvan aantast;
+   - 1°. schade aan de voortstuwing, of ernstige schade aan accommodatie of de constructie van een schip, die de zeewaardigheid daarvan aantast;
 
-- 2°. het onmanoeuvreerbaar worden van een schip waardoor hulp van buiten noodzakelijk is, of
+   - 2°. het onmanoeuvreerbaar worden van een schip waardoor hulp van buiten noodzakelijk is, of
 
-- 3°. verontreiniging van het mariene milieu;.
+   - 3°. verontreiniging van het mariene milieu;.
 
 - e. scheepvaartincident: een gebeurtenis, geen scheepvaartongeval zijnde, veroorzaakt door of samenhangend met het functioneren van een schip en waarbij de veiligheid van het schip of van personen in gevaar is gebracht of waardoor ernstige schade aan het schip, aan mijnbouwinstallaties of aan het mariene milieu zou kunnen ontstaan;
 
 - f. luchtvaartongeval: een gebeurtenis die samenhangt met het gebruik van een luchtvaartuig en plaatsvindt tussen het tijdstip waarop een persoon zich aan boord begeeft met het voornemen een vlucht uit te voeren en het tijdstip waarop alle personen die zich met dit voornemen aan boord hebben begeven, zijn uitgestapt, en waarbij:
 
-- 1°. een persoon dodelijk of ernstig letsel heeft opgelopen als gevolg van het zich in het luchtvaartuig bevinden, direct contact met een onderdeel van het luchtvaartuig, inclusief de onderdelen die van het luchtvaartuig zijn losgeraakt of directe blootstelling aan de uitlaatstroom van de reactoren, behalve wanneer de letsels een natuurlijke oorzaak hebben, door de persoon zelf of door anderen zijn toegebracht, of wanneer de letsels verstekelingen treffen die zich buiten de normale voor passagiers en het personeel bedoelde ruimten ophouden, of
+   - 1°. een persoon dodelijk of ernstig letsel heeft opgelopen als gevolg van het zich in het luchtvaartuig bevinden, direct contact met een onderdeel van het luchtvaartuig, inclusief de onderdelen die van het luchtvaartuig zijn losgeraakt of directe blootstelling aan de uitlaatstroom van de reactoren, behalve wanneer de letsels een natuurlijke oorzaak hebben, door de persoon zelf of door anderen zijn toegebracht, of wanneer de letsels verstekelingen treffen die zich buiten de normale voor passagiers en het personeel bedoelde ruimten ophouden, of
 
-- 2°. het luchtvaartuig schade of een structureel defect oploopt, waardoor afbreuk wordt gedaan aan zijn soliditeit, prestaties of vluchtkenmerken en die normaliter ingrijpende herstelwerkzaamheden of vervanging van het getroffen onderdeel noodzakelijk zouden maken, behalve wanneer het gaat om motorstoring of motorschade en de schade beperkt is tot de motor, de motorkap of motoronderdelen, dan wel om schade die beperkt is tot de propellers, de vleugelpunten, de antennes, de banden, de remmen, de stroomlijnkappen of tot deukjes of gaatjes in de vliegtuighuid, of
+   - 2°. het luchtvaartuig schade of een structureel defect oploopt, waardoor afbreuk wordt gedaan aan zijn soliditeit, prestaties of vluchtkenmerken en die normaliter ingrijpende herstelwerkzaamheden of vervanging van het getroffen onderdeel noodzakelijk zouden maken, behalve wanneer het gaat om motorstoring of motorschade en de schade beperkt is tot de motor, de motorkap of motoronderdelen, dan wel om schade die beperkt is tot de propellers, de vleugelpunten, de antennes, de banden, de remmen, de stroomlijnkappen of tot deukjes of gaatjes in de vliegtuighuid, of
 
-- 3°. het luchtvaartuig vermist wordt of volledig onbereikbaar is;
+   - 3°. het luchtvaartuig vermist wordt of volledig onbereikbaar is;
 
 - g. luchtvaartincident: een gebeurtenis, geen luchtvaartongeval zijnde, die samenhangt met het functioneren van een luchtvaartuig en afbreuk doet of zou kunnen doen aan een veilige vluchtuitvoering;
 
@@ -107,21 +74,21 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 - j. ernstig letsel:
 
-- 1°. met betrekking tot een scheepvaartongeval: letsel door een persoon bij een ongeval opgelopen, dat resulteert in een uitschakeling voor meer dan 72 uur, beginnend binnen zeven dagen na de datum waarop het letsel werd opgelopen;
+   - 1°. met betrekking tot een scheepvaartongeval: letsel door een persoon bij een ongeval opgelopen, dat resulteert in een uitschakeling voor meer dan 72 uur, beginnend binnen zeven dagen na de datum waarop het letsel werd opgelopen;
 
-- 2°. met betrekking tot een luchtvaartongeval: letsel door een persoon bij een ongeval opgelopen, dat:
+   - 2°. met betrekking tot een luchtvaartongeval: letsel door een persoon bij een ongeval opgelopen, dat:
 
-- A. opneming in een ziekenhuis gedurende meer dan 48 uur vereist, welke aanvangt binnen zeven dagen na het oplopen van het letsel, of
+      - A. opneming in een ziekenhuis gedurende meer dan 48 uur vereist, welke aanvangt binnen zeven dagen na het oplopen van het letsel, of
 
-- B. de breuk van een bot tot gevolg heeft, uitgezonderd enkelvoudige breuken van vingers, tenen of de neus, of
+      - B. de breuk van een bot tot gevolg heeft, uitgezonderd enkelvoudige breuken van vingers, tenen of de neus, of
 
-- C. gepaard gaat met scheurwonden die ernstige bloedingen of beschadigingen van zenuwen, spieren of pezen veroorzaken, of
+      - C. gepaard gaat met scheurwonden die ernstige bloedingen of beschadigingen van zenuwen, spieren of pezen veroorzaken, of
 
-- D. gepaard gaat met letsel aan een inwendig orgaan, of
+      - D. gepaard gaat met letsel aan een inwendig orgaan, of
 
-- E. gepaard gaat met tweedegraads of derdegraads brandwonden of brandwonden over meer dan 5% van het lichaamsoppervlak, of
+      - E. gepaard gaat met tweedegraads of derdegraads brandwonden of brandwonden over meer dan 5% van het lichaamsoppervlak, of
 
-- F. gepaard gaat met geconstateerde blootstelling aan besmettelijke stoffen of schadelijke straling;
+      - F. gepaard gaat met geconstateerde blootstelling aan besmettelijke stoffen of schadelijke straling;
 
 - k. staat van ontwerp: staat die rechtsmacht heeft over de organisatie die verantwoordelijk is voor het ontwerp van een luchtvaartuig;
 
@@ -139,13 +106,13 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 - r. spoorweg: een spoorwegsysteem van de Europese Unie als bedoeld in artikel 3, aanhef en onder 1, van de spoorwegveiligheidsrichtlijn, voor zover dat systeem is aangewezen in het [Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794);
 
-- s. ernstig ongeval in verband met een spoorweg: een botsing of ontsporing van treinen, waarbij ten minste één persoon omkomt of vijf of meer personen ernstig gewond raken of grote schade aan het rollend materieel, de infrastructuur of het milieu wordt veroorzaakt, dan wel een soortgelijk ongeval dat duidelijk consequenties heeft voor de regelgeving op het gebied van de veiligheid op het spoor of het veiligheidsbeheer, waarbij onder «grote schade» wordt verstaan schade waarvan de totale kosten onmiddellijk door de onderzoekende instantie op ten minste € 2 miljoen kunnen worden geraamd;
+- s. ernstig ongeval in verband met een spoorweg: een botsing of ontsporing van treinen, waarbij ten minste één persoon omkomt of vijf of meer personen ernstig gewond raken of grote schade aan het rollend materieel, de infrastructuur of het milieu wordt veroorzaakt, dan wel een soortgelijk ongeval dat duidelijk consequenties heeft voor de regelgeving op het gebied van de veiligheid op het spoor of het veiligheidsbeheer, waarbij onder «grote schade» wordt verstaan schade waarvan de totale kosten onmiddellijk door de onderzoekende instantie op ten minste € 2 miljoen kunnen worden geraamd;
 
-- t. spoorwegveiligheidsrichtlijn: richtlijn (EU) 2016/798 van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138);
+- t. spoorwegveiligheidsrichtlijn: richtlijn (EU) 2016/798 van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138);
 
 - u. Nederlandse spoorwegveiligheidsinstantie: de door Onze Minister van Infrastructuur en Waterstaat aangewezen dienst, belast met de taken van de nationale veiligheidsinstantie, bedoeld in artikel 3, onderdeel 7, van de spoorwegveiligheidsrichtlijn;
 
-- v. Europees Spoorwegbureau: het Spoorwegbureau van de Europese Unie, bedoeld in Verordening (EU) 2016/796 van het Europees Parlement en de Raad van 11 mei 2016 betreffende het Spoorwegbureau van de Europese Unie en tot intrekking van Verordening (EG) nr. 881/2004 (PbEU 2016, L 138).
+- v. Europees Spoorwegbureau: het Spoorwegbureau van de Europese Unie, bedoeld in Verordening (EU) 2016/796 van het Europees Parlement en de Raad van 11 mei 2016 betreffende het Spoorwegbureau van de Europese Unie en tot intrekking van Verordening (EG) nr. 881/2004 (PbEU 2016, L 138).
 
 2. Onder een luchtvaartongeval wordt mede verstaan een gebeurtenis die samenhangt met het gebruik van een onbemand luchtvaartuig en plaatsvindt tijdens de periode vanaf de start tot en met de landing en waarbij de in het eerste lid, onderdeel f, onder 1° tot en met 3°, genoemde gevolgen zich hebben voorgedaan.
 
@@ -161,7 +128,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 - a. andere dan in het eerste lid bedoelde schepen in eigendom van of geëxploiteerd door een andere staat voor een niet-commerciële overheidsdienst;
 
-- b. schepen die niet mechanisch worden voortgestuwd, houten schepen van eenvoudige bouw en niet voor handel gebruikte plezierjachten en pleziervaartuigen, tenzij deze voor commerciële doeleinden worden of zullen worden bemand en gebruikt voor het vervoer van meer dan 12 passagiers;
+- b. schepen die niet mechanisch worden voortgestuwd, houten schepen van eenvoudige bouw en niet voor handel gebruikte plezierjachten en pleziervaartuigen, tenzij deze voor commerciële doeleinden worden of zullen worden bemand en gebruikt voor het vervoer van meer dan 12 passagiers;
 
 - c. vissersvaartuigen met een lengte van minder dan 15 meter.
 
@@ -169,7 +136,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 - a. het betrokken luchtvaartuig is geleasd door, gecharterd door of de beschikking daarover door uitwisseling is verkregen door een staat die niet tevens de staat is waar het luchtvaartuig is ingeschreven, en
 
-- b. deze staat, geheel of gedeeltelijk, de functies en verplichtingen van de laatstbedoelde staat, die voortvloeien uit annex 13 bij het op 7 december 1994 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart, vervult.
+- b. deze staat, geheel of gedeeltelijk, de functies en verplichtingen van de laatstbedoelde staat, die voortvloeien uit annex 13 bij het op 7 december 1994 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart, vervult.
 
 #### § 3. Onderzoeksverplichtingen
 
@@ -207,9 +174,9 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 4. Het onderzoek naar een scheepvaartongeval, waarbij een ro-ro-passagiersschip of hogesnelheidspassagiersvaartuig is betrokken en waarvoor de raad een onderzoeksverplichting heeft, wordt in ieder geval door de raad geleid, totdat de raad met het daartoe bevoegde onderzoeksorgaan van de staat of staten met een aanmerkelijk belang overeenstemming bereikt welke staat de leiding van het onderzoek overneemt.
 
-5. Indien de raad de leiding heeft over een onderzoek naar een scheepvaartongeval, is samenwerking met een onderzoeksinstantie van een andere staat dan een lidstaat van de Europese Unie uitsluitend mogelijk onder de voorwaarden, gesteld in Richtlijn nr. 2009/18/EG van het Europees parlement en van de Raad van Europese Unie van 23 april 2009 tot vaststelling van de grondbeginselen voor het onderzoek van ongevallen in de zeescheepvaartsector en tot wijziging van de Richtlijn 1999/35/EG van de Raad en Richtlijn 2002/59/EG van het Europees Parlement en de Raad (PbEU L 131).
+5. Indien de raad de leiding heeft over een onderzoek naar een scheepvaartongeval, is samenwerking met een onderzoeksinstantie van een andere staat dan een lidstaat van de Europese Unie uitsluitend mogelijk onder de voorwaarden, gesteld in Richtlijn nr. 2009/18/EG van het Europees parlement en van de Raad van Europese Unie van 23 april 2009 tot vaststelling van de grondbeginselen voor het onderzoek van ongevallen in de zeescheepvaartsector en tot wijziging van de Richtlijn 1999/35/EG van de Raad en Richtlijn 2002/59/EG van het Europees Parlement en de Raad (PbEU L 131).
 
-6. Indien een onderzoeksinstantie van een andere staat dan een lidstaat van de Europese Unie de leiding heeft over het onderzoek naar een scheepvaartongeval, is samenwerking door de raad met die onderzoeksinstantie uitsluitend mogelijk wanneer het onderzoek wordt uitgevoerd overeenkomstig de regels, gesteld in de Code of the International Standards and Recommended Practices for a Safety Investigation into a Marine Casualty or Marine Incident zoals vastgesteld bij resolutie MSC.255(84) van de International Maritime Organisation van 16 mei 2008.
+6. Indien een onderzoeksinstantie van een andere staat dan een lidstaat van de Europese Unie de leiding heeft over het onderzoek naar een scheepvaartongeval, is samenwerking door de raad met die onderzoeksinstantie uitsluitend mogelijk wanneer het onderzoek wordt uitgevoerd overeenkomstig de regels, gesteld in de Code of the International Standards and Recommended Practices for a Safety Investigation into a Marine Casualty or Marine Incident zoals vastgesteld bij resolutie MSC.255(84) van de International Maritime Organisation van 16 mei 2008.
 
 ##### Artikel 6
 
@@ -227,9 +194,27 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 ##### Artikel 8
 
-1. De raad stelt onverwijld een onderzoek in naar een zwaar ongeval als bedoeld in [richtlijn nr. 96/82/EG](31996L0082) van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 010).
+1. De raad stelt onverwijld een onderzoek in naar een zwaar ongeval als bedoeld in richtlijn nr. 96/82/EG van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 010).
 
 2. De raad is niet gehouden een in het eerste lid bedoeld onderzoek in te stellen indien één van de uitsluitingen, genoemd in artikel 4 van de in het eerste lid genoemde richtlijn, van toepassing zijn.
+
+##### Artikel 8a
+
+1. De raad stelt onverwijld een onderzoek in naar een ernstig ongeval in verband met een spoorweg.
+
+2. Indien niet kan worden vastgesteld of een ongeval als bedoeld in het eerste lid in Nederland of een ander land heeft plaatsgevonden, of indien het heeft plaatsgevonden op of vlakbij een grensinstallatie van Nederland en een ander land, worden tussen de raad en het bevoegde onderzoeksorgaan in het andere land afspraken gemaakt wie het onderzoek gaat verrichten of wordt afgesproken dat gezamenlijk onderzoek wordt verricht. Ingeval het onderzoek wordt verricht door de raad, wordt het orgaan in het andere land uitgenodigd aan het onderzoek deel te nemen en volledig over de uitkomsten van het onderzoek ingelicht.
+
+##### Artikel 8b
+
+Bij een beslissing als bedoeld in [artikel 41, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=41), omtrent het instellen van een onderzoek naar een ongeval of incident in verband met een spoorweg, niet zijnde een ernstig ongeval in verband met een spoorweg, houdt de raad rekening met:
+
+- a. de ernst van het ongeval of incident,
+
+- b. de vraag of het ongeval of incident deel uitmaakt van een reeks ongevallen of incidenten die van belang zijn voor het systeem als geheel,
+
+- c. de consequenties van het ongeval of incident voor de veiligheid op het spoor in de Europese Unie, en
+
+- d. verzoeken van infrastructuurbeheerders, spoorwegondernemingen, de Nederlandse spoorwegveiligheidsinstantie of andere lidstaten.
 
 #### § 4. Meldingsplichten
 
@@ -255,7 +240,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 - i. in geval van een voorval als bedoeld in [artikel 6.60 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.60): Onze Minister van Verkeer en Waterstaat voorzover de voorvallen aan hem zijn gemeld;
 
-- j. in geval van een zwaar ongeval als bedoeld als bedoeld in [richtlijn nr. 96/82/EG](31996L0082) van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 010): de exploitant van de inrichting als in de richtlijn bedoeld;
+- j. in geval van een zwaar ongeval als bedoeld als bedoeld in richtlijn nr. 96/82/EG van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 010): de exploitant van de inrichting als in de richtlijn bedoeld;
 
 - k. in geval van een luchtvaartongeval of een ernstig luchtvaartincident als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01): Onze Minister van Defensie.
 
@@ -263,7 +248,19 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 3. Bij een melding in geval van een voorval in verband met een spoorweg of een andere railweg in Nederland, wordt alle beschikbare informatie over het voorval verstrekt. In voorkomend geval wordt de melding geactualiseerd zodra ontbrekende informatie beschikbaar wordt.
 
-#### § 4. Meldingsplichten
+#### § 5. Onderzoek
+
+##### Artikel 9a
+
+1. Bij een beslissing van de raad als bedoeld in [artikel 41, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=41), om onderzoek te doen naar een scheepvaartongeval of incident, houdt de raad rekening met:
+
+- a. de ernst van het ongeval of incident;
+
+- b. het type vaartuig of lading dat betrokken is bij het ongeval of incident, en
+
+- c. de mogelijkheid dat het onderzoek ertoe bijdraagt dat toekomstige scheepvaartongevallen en -incidenten kunnen worden voorkomen.
+
+2. De raad start het onderzoek naar een scheepvaartongeval of -incident zo spoedig mogelijk, en in ieder geval binnen twee maanden, nadat het ongeval of incident plaatsvond.
 
 ##### Artikel 10
 
@@ -274,6 +271,34 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 ##### Artikel 11
 
 Bij ministeriële regeling worden regels gesteld over het toezenden van het rapport in concept aan andere staten, Aruba, Curaçao en Sint Maarten voor commentaar en over de voor het geven van commentaar te stellen termijn.
+
+##### Artikel 11a
+
+De raad voert het onderzoek naar een scheepvaartongeval, waarbij een zeeschip is betrokken, uit overeenkomstig de methodologie, bedoeld in artikel 2, onder e, van de Verordening nr. 1406/2002 van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 tot oprichting van een Europees Agentschap voor maritieme veiligheid (PbEG L 208). Afwijking van deze methodologie is mogelijk, voor zover de onderzoeker dit noodzakelijk acht voor het bereiken van de onderzoeksdoelstellingen.
+
+##### Artikel 11b
+
+Bij een onderzoek naar een scheepvaartongeval, waarbij een zeeschip is betrokken, wordt voor aangelegenheden die niet reeds in de rijkswet en de daarop berustende bepalingen expliciet geregeld zijn, de Code of the International Standards and Recommended Practices for a Safety Investigation into a Marine Casualty or Marine Incident zoals vastgesteld bij resolutie MSC.255(84) van de International Maritime Organisation van 16 mei 2008 in acht genomen.
+
+##### Artikel 11c
+
+Bij het onderzoek naar een scheepvaartongeval, een ernstig scheepvaartongeval of een zeer ernstig scheepvaartongeval wordt rekening gehouden met de relevante bepalingen van de IMO-richtsnoeren betreffende de billijke behandeling van zeelieden bij ongevallen op zee, bedoeld in artikel 3, vierde lid, van richtlijn 2009/18/EG van het Europees parlement en van de Raad van Europese Unie van 23 april 2009 tot vaststelling van de grondbeginselen voor het onderzoek van ongevallen in de zeescheepvaartsector en tot wijziging van de Richtlijn 1999/35/EG van de Raad en Richtlijn 2002/59/EG van het Europees Parlement en de Raad (PbEU L 131).
+
+##### Artikel 11d
+
+1. De raad biedt in geval van een voorval in verband met een spoorweg of een andere railweg in Nederland aan de betrokken infrastructuurbeheerder en spoorwegondernemingen, de Nederlandse spoorwegveiligheidsinstantie, het Europees Spoorwegbureau, de slachtoffers en hun familieleden, de eigenaren van beschadigde eigendommen, fabrikanten, de betrokken noodhulpdiensten en vertegenwoordigers van het personeel en de gebruikers de mogelijkheid om relevante technische informatie te leveren om de kwaliteit van het onderzoeksrapport te verbeteren.
+
+2. De raad neemt de redelijke behoeften van de slachtoffers en hun familieleden in aanmerking en houdt hen op de hoogte van de voortgang van het onderzoek.
+
+##### Artikel 11e
+
+De raad publiceert in geval van een voorval in verband met een spoorweg of een andere railweg in Nederland ten minste eenmaal per jaar een tussentijdse verklaring over het onderzoek indien het eindrapport niet binnen twaalf maanden na het voorval kan worden uitgebracht. In de tussentijdse verklaring gaat de raad in op de voortgang van het onderzoek en eventuele veiligheidskwesties die aan het licht zijn gekomen.
+
+##### Artikel 11f
+
+1. Indien de raad naar aanleiding van een onderzoek naar een voorval in verband met een spoorweg een aanbeveling doet, richt hij deze tot de Nederlandse spoorwegveiligheidsinstantie, en, als de aard van de aanbeveling dat vereist, tot andere bestuursorganen, andere lidstaten of het Europees Spoorwegbureau.
+
+2. De Nederlandse spoorwegveiligheidsinstantie en de in het eerste lid bedoelde andere bestuursorganen, andere lidstaten of het Europees Spoorwegbureau tot welke de aanbevelingen zijn gericht, laten de raad ten minste eenmaal per jaar weten welke maatregelen zij naar aanleiding van de aanbeveling hebben genomen of nog zullen nemen.
 
 #### § 6. Informatiemateriaal
 
@@ -287,7 +312,7 @@ Indien, in geval van een luchtvaartongeval, door de staat van registratie, de st
 
 Bij ministeriële regeling worden regels gesteld over het in daarbij aangewezen gevallen toezenden van het rapport, aan een buitenlandse staat, de Commissie van de Europese Gemeenschappen, het Europees Spoorwegbureau, een internationale organisatie of andere derden.
 
-#### § 6. Informatiemateriaal
+#### § 8. Onderzoek door een ander land
 
 ##### Artikel 14
 
@@ -375,7 +400,7 @@ Ter bevordering van de coördinatie en het overleg maken de raad en Onze Ministe
 
 ##### Artikel 26
 
-Wijzigt het Besluit Politieregisters.
+*Wijzigt het Besluit Politieregisters.*
 
 ##### Artikel 27
 
@@ -386,107 +411,3 @@ Wijzigt het Besluit Politieregisters.
 ##### Artikel 28
 
 Dit besluit wordt aangehaald als: Besluit Onderzoeksraad voor veiligheid.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a
-
-1. De raad stelt onverwijld een onderzoek in naar een ernstig ongeval in verband met een spoorweg.
-
-2. Indien niet kan worden vastgesteld of een ongeval als bedoeld in het eerste lid in Nederland of een ander land heeft plaatsgevonden, of indien het heeft plaatsgevonden op of vlakbij een grensinstallatie van Nederland en een ander land, worden tussen de raad en het bevoegde onderzoeksorgaan in het andere land afspraken gemaakt wie het onderzoek gaat verrichten of wordt afgesproken dat gezamenlijk onderzoek wordt verricht. Ingeval het onderzoek wordt verricht door de raad, wordt het orgaan in het andere land uitgenodigd aan het onderzoek deel te nemen en volledig over de uitkomsten van het onderzoek ingelicht.
-
-#### § 4. Meldingsplichten
-
-#### § 5. Onderzoek
-
-#### § 6. Informatiemateriaal
-
-#### § 7. Toezenden rapport aan derden
-
-#### § 8. Onderzoek door een ander land
-
-#### § 9. Verhouding tot onderzoek met het oog op het opleggen van sancties
-
-#### § 9. Verhouding tot onderzoek met het oog op het opleggen van sancties
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 9a
-
-1. Bij een beslissing van de raad als bedoeld in [artikel 41, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=41), om onderzoek te doen naar een scheepvaartongeval of incident, houdt de raad rekening met:
-
-- a. de ernst van het ongeval of incident;
-
-- b. het type vaartuig of lading dat betrokken is bij het ongeval of incident, en
-
-- c. de mogelijkheid dat het onderzoek ertoe bijdraagt dat toekomstige scheepvaartongevallen en -incidenten kunnen worden voorkomen.
-
-2. De raad start het onderzoek naar een scheepvaartongeval of -incident zo spoedig mogelijk, en in ieder geval binnen twee maanden, nadat het ongeval of incident plaatsvond.
-
-##### Artikel 11a
-
-De raad voert het onderzoek naar een scheepvaartongeval, waarbij een zeeschip is betrokken, uit overeenkomstig de methodologie, bedoeld in artikel 2, onder e, van de Verordening nr. 1406/2002 van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 tot oprichting van een Europees Agentschap voor maritieme veiligheid (PbEG L 208). Afwijking van deze methodologie is mogelijk, voor zover de onderzoeker dit noodzakelijk acht voor het bereiken van de onderzoeksdoelstellingen.
-
-##### Artikel 11b
-
-Bij een onderzoek naar een scheepvaartongeval, waarbij een zeeschip is betrokken, wordt voor aangelegenheden die niet reeds in de rijkswet en de daarop berustende bepalingen expliciet geregeld zijn, de Code of the International Standards and Recommended Practices for a Safety Investigation into a Marine Casualty or Marine Incident zoals vastgesteld bij resolutie MSC.255(84) van de International Maritime Organisation van 16 mei 2008 in acht genomen.
-
-#### § 7. Toezenden rapport aan derden
-
-#### § 8. Onderzoek door een ander land
-
-#### § 9. Verhouding tot onderzoek met het oog op het opleggen van sancties
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8b
-
-Bij een beslissing als bedoeld in [artikel 41, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=41), omtrent het instellen van een onderzoek naar een ongeval of incident in verband met een spoorweg, niet zijnde een ernstig ongeval in verband met een spoorweg, houdt de raad rekening met:
-
-- a. de ernst van het ongeval of incident,
-
-- b. de vraag of het ongeval of incident deel uitmaakt van een reeks ongevallen of incidenten die van belang zijn voor het systeem als geheel,
-
-- c. de consequenties van het ongeval of incident voor de veiligheid op het spoor in de Europese Unie, en
-
-- d. verzoeken van infrastructuurbeheerders, spoorwegondernemingen, de Nederlandse spoorwegveiligheidsinstantie of andere lidstaten.
-
-#### § 5. Onderzoek
-
-##### Artikel 11c
-
-Bij het onderzoek naar een scheepvaartongeval, een ernstig scheepvaartongeval of een zeer ernstig scheepvaartongeval wordt rekening gehouden met de relevante bepalingen van de IMO-richtsnoeren betreffende de billijke behandeling van zeelieden bij ongevallen op zee, bedoeld in artikel 3, vierde lid, van [richtlijn 2009/18/EG](32009L0018) van het Europees parlement en van de Raad van Europese Unie van 23 april 2009 tot vaststelling van de grondbeginselen voor het onderzoek van ongevallen in de zeescheepvaartsector en tot wijziging van de [Richtlijn 1999/35/EG](31999L0035) van de Raad en [Richtlijn 2002/59/EG](32002L0059) van het Europees Parlement en de Raad (PbEU L 131).
-
-##### Artikel 11d
-
-1. De raad biedt in geval van een voorval in verband met een spoorweg of een andere railweg in Nederland aan de betrokken infrastructuurbeheerder en spoorwegondernemingen, de Nederlandse spoorwegveiligheidsinstantie, het Europees Spoorwegbureau, de slachtoffers en hun familieleden, de eigenaren van beschadigde eigendommen, fabrikanten, de betrokken noodhulpdiensten en vertegenwoordigers van het personeel en de gebruikers de mogelijkheid om relevante technische informatie te leveren om de kwaliteit van het onderzoeksrapport te verbeteren.
-
-2. De raad neemt de redelijke behoeften van de slachtoffers en hun familieleden in aanmerking en houdt hen op de hoogte van de voortgang van het onderzoek.
-
-#### § 6. Informatiemateriaal
-
-#### § 6. Informatiemateriaal
-
-#### § 7. Toezenden rapport aan derden
-
-#### § 10. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 11e
-
-De raad publiceert in geval van een voorval in verband met een spoorweg of een andere railweg in Nederland ten minste eenmaal per jaar een tussentijdse verklaring over het onderzoek indien het eindrapport niet binnen twaalf maanden na het voorval kan worden uitgebracht. In de tussentijdse verklaring gaat de raad in op de voortgang van het onderzoek en eventuele veiligheidskwesties die aan het licht zijn gekomen.
-
-##### Artikel 11f
-
-1. Indien de raad naar aanleiding van een onderzoek naar een voorval in verband met een spoorweg een aanbeveling doet, richt hij deze tot de Nederlandse spoorwegveiligheidsinstantie, en, als de aard van de aanbeveling dat vereist, tot andere bestuursorganen, andere lidstaten of het Europees Spoorwegbureau.
-
-2. De Nederlandse spoorwegveiligheidsinstantie en de in het eerste lid bedoelde andere bestuursorganen, andere lidstaten of het Europees Spoorwegbureau tot welke de aanbevelingen zijn gericht, laten de raad ten minste eenmaal per jaar weten welke maatregelen zij naar aanleiding van de aanbeveling hebben genomen of nog zullen nemen.
-
-#### § 8. Onderzoek door een ander land
-
-#### § 9. Verhouding tot onderzoek met het oog op het opleggen van sancties
-
-#### § 10. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,41 +1,33 @@
 ---
 title: "Financiële arbeidsvoorwaarden per 1 januari 2004"
 identifier: "BWBR0016355"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-02-11"
-last_updated: "2004-02-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016355"
+categorie: "Arbeidsrecht"
 soort: "beleidsregel"
-stam_id: "6496613"
-version_id: "11183042"
-internal_id: "C15109731"
-label_id: "6485364"
-original_entry_into_force: "2004-02-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016355/2004-02-11/0"
-intitule_bron: "Uitleg.2004-3"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-02-03"
-intitule_published: "2004-02-11"
-intitule_in_force: "2004-02-11"
-intitule_status: "goed"
-original_publication: "Uitleg.2004-3"
-original_signed_date: "2004-02-03"
-original_published_date: "2004-02-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-02-11"
-jci_1_3: "jci1.3:c:BWBR0016355&z=2004-02-11&g=2004-02-11"
-jci_1_0: "1.0:c:BWBR0016355&g=2004-02-11"
-citeertitel_status: "redactioneel"
-signed_date: "2004-02-03"
-entry_into_force: "2004-02-11"
+publicatiedatum: 2004-02-11
+laatste_update: 2004-02-11
+status: geldig
+toestand: 2004-02-11
+bron: "https://wetten.overheid.nl/BWBR0016355"
+opgehaald: 2026-08-08
 ---
+
 # Financiële arbeidsvoorwaarden per 1 januari 2004
 
 ### Inleiding
 
 In onderhavige publicatie wil ik u op de hoogte stellen over het volgende:
+
+- 1. Aanpassing van de franchisebedragen en percentages voor de verschillende premieberekeningen per 1 januari 2004 ([bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0016355&bijlage=I&z=2004-02-11&g=2004-02-11));
+
+- 2. Aanpassing van het wettelijk minimumloon per 1 januari 2004 ([bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0016355&bijlage=II&z=2004-02-11&g=2004-02-11)) en het aanvangbedrag aanlooptraject I/D-banen ([bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0016355&bijlage=III&z=2004-02-11&g=2004-02-11));
+
+- 3. Hoogte percentage 13e maand voor de vaststelling van het pensioengevend inkomen 2004;
+
+- 4. Reiskosten bij dienstreizen (PO);
+
+- 5. ZKOO-aanvraag- en ZKOO-statusformulier;
+
+- 6. Overzicht van maatregelen die nog in het [Rechtspositiebesluit WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136) (Rpb WPO/WEC) moeten worden opgenomen.
 
 ### 1. Aanpassing premies en franchisebedragen
 
@@ -54,6 +46,11 @@ Ook de wijze waarop de FPU-premie wordt berekend wijzigt met ingang van 1 januar
 In de berekeningssystematiek voor de IPbw premie verandert niets. Hier dient u alleen rekening te houden met de wijzigingen van het premiepercentage en de omvang van het franchisebedrag.
 
 De vastgestelde premies hebben invloed op de berekening van een bruto-netto salaris en op de vaststelling van de hoogte van de werkgeverslasten. In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0016355&bijlage=I&z=2004-02-11&g=2004-02-11) wordt in een beknopt overzicht de premies met het eventueel daarbijbemaart-tellinghorende franchisebedrag weergegeven. Naast genoemde premies vindt u daarin tevens terug:
+
+| Pseudo-werkloosheidspremie | (WW); |
+| --- | --- |
+| Arbeidsongeschikt-heidsverzekering | (WAO); |
+| Uitvoeringsfonds voor de Overheid | (UFO); de lasten en de uitvoeringskosten van de Ziektewet worden gefinancierd uit het Uitvoeringsmaart-tellingfonds. Iedere overheidswerkgever betaalt aan dit fonds premie voor alle werknemers die bij hem in dienst zijn. |
 
 ### 2. Aanpassing wettelijk minimumloon en aanvangbedrag aanlooptraject I/D-banen
 
@@ -85,89 +82,74 @@ De centrales van overheids- en onderwijspersoneel zullen de vergoeding voor dien
 
 Tot voor kort was het mogelijk om het ZKOO-aanvraag- en het ZKOO-statusformulier aan te vragen bij het ministerie. Mede door de verhuizing van het ministerie naar Den Haag is er voor gekozen het formulier niet meer op voorraad te nemen. In plaats daarvan is er voor gekozen debeide formulieren op de site van CFI te plaatsen waar ze kunnen worden gedownload. Op deze wijze kunnen zonodig sneller wijzigingen op het formulier worden aangebracht.
 
-### 6. [Rpb WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136)
+### 6. Rpb WPO/WEC
 
 In onderstaand overzicht wordt aangegeven welke maatregelen die al worden uitgevoerd nog in het [Rpb WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136) verwerkt moeten worden. Bij de betreffende maatregel staat vermeld in welke publicatie de maatregel is terug te vinden. Eerstdaags zal over de conceptteksten [Rpb WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136) die betreffende maatregelen beschrijven overleg plaatsvinden met de werkgevers- en werknemersorganisaties. Zodra het overleg met hen hieromtrent is afgerond, zal ik u daarover berichten. De maatregelen zijn gerubriceerd naar onderwerp.
 
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Verzilvering ADV omvang 51 uren | 1-8-2000 | Hoofdstuk 1, titel 3 | AB/A&A/2000/28761 Gele katern 2000 nr.18b |
+| 2 | Verzilvering ADV omvang 131 uren | 1-12-2000 | Hoofdstuk 1, titel 3 | AB/A&A/2000/46181 Gele katern 2000 nr. 30 |
+
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Verkorting carrièrepatronen OOP de schalen 1, 2, 3 en 4 | 1 januari 2001 | • Bijlage • Overgangsrechtelijk artikel maken • Conversietabel | AB/A&A/2000/38079 Gele katern 2000 nr. 29 |
+| 2 | Compensatieregeling via een eenmalige uitkering voor leraren die op 28 februari 2001 werden bezoldigd volgens het maximum van hun schaal of hoger | 28 februari 2001 | Hoofdstuk 5, titel 3 | AB/A&A/2000/38079 Gele katern 2000 nr. 29 |
+| 3 | Wijziging carrièrepatronen OOP + conceptteksten Rpbo ivm aanpassing | 1 maart 2001 | • Bijlage aanpassen • Overgangsrechtelijk artikel maken • Conversietabel | AB/A&A/2001/34868 Gele katern 2001 nr. 21 |
+| 4 | Verkorting en linearisering carrièrepatronen leraren | 1 maart 2001 | Bijlage aanpassen Overgangsrechtelijk artikel Conversietabel | AB/A&A/2000/38079 Gele katern 2000 nr. 29 |
+| 5 | Aanpassing Promotiecriteria leraren | 1 maart 2001 | Hoofdstuk 1, titel 13 | AB/A&A/2002/6098 Gele katern 2002 nr. 5/6 |
+| 6 | Verkorting en linearisering carrièrepatronen leraren | 1 augustus 2001 | Bijlage aanpassen Overgangsrechtelijk artikel maken Conversietabel | AB/A&A/2001/26666 Gele katern 2001 nr. 18a |
+| 7 | Vervallen promotiecriteria | 1 augustus 2001 | Hoofdstuk 1, titel 13 | AB/A&A/2002/6098 Gele katern 2002 nr. 5/6 |
+| 8 | Compensatie voor leraar die overstapt naar een hoger gewaardeerde leraarsfunctie en daar op den duur ten opzichte van zijn oude carrièrepatroon een nadeel zou ervaren. | 1 augustus 2001 | Hoofdstuk 1, titel 13 | AB/A&A-2002/32500 Gele katern 2002 nr. 24 |
+| 9 | Verkorting en linearisering carrièrepatronen leraren | 1 augustus 2002 | Bijlage aanpassen Overgangsrechtelijk artikel maken Conversietabel | AB/A&A/2002/6098 Gele katern 2002 nr. 5/6 |
+
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Verhoging van eindejaarsuitkering OOP en pensioengevend maken van deze uitkering | 1 januari 2001 | Hoofdstuk 1, titel 14 | AB/A&A/2000/38079 Gele katern 2000 nr. 29 |
+| 2 | Invoering structurele eindejaarsuitkering i.v.m. bevriezing ZKOO en MEV-afspraak | 1 januari 2001 | Hoofdstuk 1, titel 11 | AB/A&A/2000/38079 Gele katern 2000 nr. 29 |
+| 3 | Wijziging aanduiding structurele eindejaarsuitkering in 13e maand | 1 januari 2002 | Artikel wijzigen | AB/A&A/2001/35155 Gele katern 2001 nr. 26 |
+
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Wijziging carrièrepatronen directieleden inclusief inbouw directietoelage. Garantieaanspraken worden ingepast garantie moet worden vastgesteld | 1 maart 2001 | Bijlage Garantie artikelen Overgangsrechtelijk artikel maken Conversietabel | PO/PJ/016480 Gele Katern 2001 nr. 5/6 |
+| 2 | Inschalingbepaling voor directie overstap naar functie met hoger maximumsalaris of gunstiger carrièrepatroon | 1 maart 2001 | Hoofdstuk 1, titel 12 | AB/A&A/2002/1995 Gele katern 2002 nr. 3 |
+
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Bindingstoelage voor leraren, directie en OOP met schaal 9 | 1 augustus 2001 | Hoofdstuk 1, titel 11 Bedragen in bijlage | AB/A&A/2001/26666 Gele katern 2001 nr. 18a |
+
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Beloningsdifferentiatie, zowel bij indiensttreding als voor zittend personeel op basis van beoordeling | 1 augustus 2001 | Hoofdstuk 1, titel 11 Aanvulling in apart artikel voor zittend personeel | PO/PJ-2002-28664 Gele katern 2002 nr. 18 |
+
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Invoering betaald ouderschapsverlof | 1 augustus 2001 | Hoofdstuk 1, titel 3 | PO/PJ/01-32383 Gele katern 2001 nr.18b |
+| 2 | Aanpassen van de regelingen voor verlof en kort en lang buitengewoon verlof |  | Hoofdstuk 1, titel 3 | Gele katern 2003, nr. 20/21 |
+
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Aanpassing anticumulatieregeling BAPO | 1 augustus 2001 | Hoofdstuk 1, titel 16 | AB/PSW/2001/8732 Gele katern 2001 nr. 18a |
+
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Invoering Euro | 1 januari 2002 | alle bijlagen | AB/A&A/2001/35155 Gele katern 2001 nr. 26 |
+
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Bijwerken tabel fre-verbruik | 1 augustus 2001 | Hoofdstuk 1, titel 11 | PO/F/2001/6950 Gele katern 2001 nr. 7 |
+
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Schoolverpleegkundige | 8 juni 2002 Hoofd | stuk 1, titel 14 | PO/LGF/2002/20675 Gele katern 2002, nr. 14 |
+
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Verwerken van begripsbepalingen | 1 augustus 2003 |  | PO/LGF/2003/10212 Gele katern 2003, nr. 14 |
+| 2 | Leerlingentelling, formatiegarantie | 1 augustus 2003 |  | PO/LGF/2003/16533 Gele katern 2003, nr. 17 |
+
+| Maatregel | Ingangsdatum | Aanpassing | zie publicatie |  |
+| --- | --- | --- | --- | --- |
+| 1 | Een aantal vergoedingen (bijv. voor het schoolprofielbudget, opleiding, nascholing en (extra) secundaire vergoedingen) is inmiddels in het geleidelijk opgehoogde, daartoe voor het schoolbestuur vrij besteedbare schoolbudget toegekend | 1 augustus 2002 |  | PO/PJ-2002/1070 1 Gele katern 2002, nr. 11 |
+
 Ik verzoek u het personeel in dienst van uw instelling van deze publicatie op de hoogte te stellen.
-
-## Bijlage I
-
-|   | Premies | Premies | Franchise per jaar | Franchise per jaar | Franchise per jaar |
-| --- | --- | --- | --- | --- | --- |
-|   | werkgever | werknemer | geboren | geboren | geboren |
-|   |   |   | vóór 1954 | in of na 1954 | in of na 1964 |
-|   |   |   |   | en vóór 1964 |   |
-| OP/NP | 14,05% | 4,95% | € 15.250 | € 14.250 | € 13.000 |
-| IP+hoog | 1,35% | 0,45% | € 16.350 | € 16.350 | € 16.350 |
-| IP+laag | 1,35% | 0,20% | € 16.350 | € 16.350 | € 16.350 |
-| FPU |   |   |   |   |   |
-| VUT/FPU basis | 2,25% | 2,25% | n.v.t. | n.v.t. | n.v.t. |
-| FP-opbouw | 1,95% | 1,95% | € 15.250 | € 14.250 | € 13.000 |
-| [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) * De werknemer kiest voor een 65% i.p.v. een 70% IP-uitkering. |   |   |   |   |   |
-| • Basis | 5,10% | n.v.t. | n.v.t. | n.v.t. | n.v.t. |
-| • Gedifferentieerd (gemiddeld) | 2,26% | n.v.t. | n.v.t. | n.v.t. | n.v.t. |
-| [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) * maximumpremiegrens € 43.587 | n.v.t. | 5,80% | € 15.138 | € 15.138 | € 15.138 |
-| [ZFW](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) *** maximumpremiegrens ZFW € 29.606 (262 x 113 euro) ; verzekeringsloongrens ZFW 2004 € 32.600 | 6,75% | 1,25% | n.v.t. | n.v.t. | n.v.t. |
-| UFO-premie | 0,80% | n.v.t. | n.v.t. | n.v.t. | n.v.t. |
-
-## Bijlage II. Minimumloon
-
-per maand in guldens bij een normbetrekking zoals opgenomen in:
-
-- [bijlage 2, onderdeel 1 bij het Rechtspositiebesluit WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136&bijlage=2)
-
-- [bijlage 2 bij het Kaderbesluit rechtspositie VO](https://wetten.overheid.nl/jci1.3:c:BWBR0007495&bijlage=2)
-
-| bij de leeftijd van | bedrag |
-| --- | --- |
-| 23 jaar of ouder | 1264,80 |
-| 22 jaar | 1075,10 |
-| 21 jaar | 917,00 |
-| 20 jaar | 777,85 |
-| 19 jaar | 664,00 |
-| 18 jaar | 575,50 |
-| 17 jaar | 499,60 |
-| 16 jaar | 436,35 |
-| 15 jaar | 379,45 |
-
-## Bijlage III. Maandsalarissen in euro’s (I/D-banen)
-
-behorende bij:
-
-- [bijlage 1F bij het Rechtspositiebesluit WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136&bijlage=1F)
-
-- [bijlage 1D bij het Kaderbesluit rechtspositie VO](https://wetten.overheid.nl/jci1.3:c:BWBR0007495&bijlage=1D)
-
-bevattende aanlooptraject voor functies in het kader van het Besluit in- en doorstroombanen.
-
-| Nummer | Bedrag |   |
-| --- | --- | --- |
-| 1 | 1264,80 | Minimumloon (1-7-2003) |
-| 2 | 1285,00 |   |
-
-## Bijlage IV. Vaststelling jaarinkomen ABP 2004
-
-Het jaarinkomen ABP wordt vastgesteld via normbedragen. Als alle bedragen die van invloed zijn op het jaarinkomen ABP zijn getotaliseerd, vindt er een correctie plaats via de zogenoemde debrutering. De debrutering is sinds 1 januari 2001 van kracht door het vervallen van de Overhevelingstoeslag. Om te voorkomen dat werknemers er in netto-inkomen op achteruit zouden gaan, zijn op dat moment de salarissen op wettelijke basis verhoogd - gebruteerd - met 1,9%, waarbij rekening werd gehouden met een maximum. De brutering werkt echter niet door in het pensioengevend inkomen. Hierdoor dient het jaarinkomen te worden gedebruteerd waarbij rekening wordt gehouden met een maximum. Het maximum is vastgesteld op € 791,85. Aan de hand van een voorbeeld wordt het jaarinkomen ABP nader uitgewerkt.
-
-### Voorbeeld
-
-Leraar wordt bezoldigd volgens salarisschaal LB en salarisnummer18 en komt in aanmerking voor de uitlooptoeslag, de bindingstoelage en de 13e maand. De bedragen zijn gebaseerd op loonpeil 1 maart 2003.
-
-De debrutering: (45563 : 1,019) X 1,9% = € 849,56 en is groter dan J
-
-Jaarinkomen ABP 2004 wordt vastgesteld op: € 44771 (45563 - 791,85 waarbij de uitkomst rekenkundig afgerond is op een hele euro).
-
-De premies OP/NP e.d worden berekend over het vastgestelde jaarinkomen ABP 2004.
-
-## Bijlage V. Bruto-netto traject en werkgeverslasten
-
-Zoals aangegeven wordt het Jaarinkomen ABP vastgesteld via normbedragen. De hoogte van de te betalen pensioenpremies wordt uiteindelijk bepaald door de zogenoemde deeltijdfactor. De deeltijdfactor betreft het resultaat van: het bruto genoten salaris in een maand gedeeld door het normsalaris in die betreffende maand. Een betrokkene die in een volledige betrekking werkzaam is, heeft een deeltijdfactor die gelijk is aan 1. Voor de betrokkene die voor een andere betrekkingsomvang werkzaam is geldt een deeltijdfactor naar rato, waarbij de uitkomst rekenkundig op vier cijfers achter de komma wordt vastgesteld. Sinds 1 januari 2004 is het mogelijk dat de uitkomst hiervan voor de berekening van de pensioenpremies groter is dan 1. Met andere woorden: de deeltijdfactor voor de berekening van de sociale premies kan nooit groter zijn dan 1.
-
-Hieronder treft u in schema 1 aan hoe het bruto-nettosalaris wordt berekend en in schema 2 treft u aan hoe de werkgeverlasten worden vastgesteld.
-
-### Schema 1: bruto-netto traject 2004 per maand
-
-### Schema 2: werkgeverslasten 2004 per maand
-
-Op het moment dat er in een specifieke maand een beloningscomponent wordt uitbetaald dat slechts een keer per jaar wordt uitbetaald, zoals een 13e maand, vakantie-uitkering of de bindingstoelage, neemt onderdeel a. en onderdeel f. van schema 1 in hoogte toe.

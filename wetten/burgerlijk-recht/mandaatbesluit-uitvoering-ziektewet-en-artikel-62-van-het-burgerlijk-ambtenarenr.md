@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-08-04
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0046931"
-opgehaald: 2026-08-07
+opgehaald: 2026-08-08
 ---
 
 # Mandaatbesluit Uitvoering Ziektewet en artikel 62 van het Burgerlijk Ambtenarenreglement Defensie en artikel 120 en 125 van het Algemeen Militair Ambtenarenreglement Defensie

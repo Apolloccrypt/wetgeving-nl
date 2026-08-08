@@ -1,43 +1,17 @@
 ---
 title: "Regeling stimulering Bèta/techniek"
 identifier: "BWBR0017643"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-07-01"
-last_updated: "2011-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017643"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6533783"
-version_id: "11315162"
-internal_id: "C29116991"
-label_id: "6522444"
-original_entry_into_force: "2004-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017643/2011-07-01/0"
-intitule_bron: "Uitleg.2004-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-08"
-intitule_published: "2004-12-22"
-intitule_in_force: "2004-12-22"
-intitule_status: "goed"
-original_publication: "Uitleg.2004-21"
-original_signed_date: "2004-12-08"
-original_published_date: "2004-12-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-12-25"
-jci_1_3: "jci1.3:c:BWBR0017643&z=2011-07-01&g=2011-07-01"
-jci_1_0: "1.0:c:BWBR0017643&g=2011-07-01"
-citeertitel_status: "officieel"
-signed_date: "2004-12-08"
-entry_into_force: "2004-12-25"
+publicatiedatum: 2004-12-25
+laatste_update: 2011-07-01
+status: geldig
+toestand: 2011-07-01
+bron: "https://wetten.overheid.nl/BWBR0017643"
+opgehaald: 2026-08-08
 ---
+
 # Regeling stimulering Bèta/techniek
-
-Gelet op:
-
-• [artikel 4, eerste lid, aanhef en onder a, van de Wet overige OCenW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4);
-
-Besluit
 
 ##### Artikel 1. Doelstellingen
 
@@ -127,7 +101,7 @@ De subsidie wordt verleend onder de voorwaarde dat het beschikbaar gestelde subs
 
 ##### Artikel 9. Beëindiging of herziening van de subsidierelatie
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10. Begrotingsvoorwaarde
 
@@ -158,5 +132,3 @@ Deze regeling treedt in werking met ingang van de derde dag na de datum van uitg
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling stimulering Bèta/techniek.
-
-Deze regeling zal met de toelichting in het Gele katern worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.

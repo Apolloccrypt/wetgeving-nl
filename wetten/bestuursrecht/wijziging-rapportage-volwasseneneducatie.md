@@ -1,41 +1,21 @@
 ---
 title: "Wijziging rapportage volwasseneneducatie"
 identifier: "BWBR0016351"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-02-25"
-last_updated: "2004-02-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016351"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6466183"
-version_id: "11143122"
-internal_id: "C15062481"
-label_id: "6454864"
-original_entry_into_force: "2004-02-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016351/2004-02-25/0"
-intitule_bron: "Uitleg.2004-4"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-02-02"
-intitule_published: "2004-02-25"
-intitule_in_force: "2004-02-25"
-intitule_status: "goed"
-original_publication: "Uitleg.2004-4"
-original_signed_date: "2004-02-02"
-original_published_date: "2004-02-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-02-25"
-jci_1_3: "jci1.3:c:BWBR0016351&z=2004-02-25&g=2004-02-25"
-jci_1_0: "1.0:c:BWBR0016351&g=2004-02-25"
-citeertitel_status: "redactioneel"
-signed_date: "2004-02-02"
-entry_into_force: "2004-02-25"
+publicatiedatum: 2004-02-25
+laatste_update: 2004-02-25
+status: geldig
+toestand: 2004-02-25
+bron: "https://wetten.overheid.nl/BWBR0016351"
+opgehaald: 2026-08-08
 ---
+
 # Wijziging rapportage volwasseneneducatie
 
 ### Algemeen
 
-Deze publicatie is bedoeld voor BVE-instellingen die opleidingen verzorgen op het terrein van de Volwasseneneducatie. Zij is een toelichting op de rapportage die deze instellingen vanaf oktober 2004 moeten leveren aan de IB-Groep met het persoonsgebonden nummer, ook wel onderwijsnummer genoemd. Zij is gebaseerd op de nieuwe opleidingenstructuur, die gepubliceerd staat in het Gele katern van 10 september 2003, nummer 19, deel 2. Zij is ook gepubliceerd op de Internetsite **www.onderwijsnummer.nl**
+Deze publicatie is bedoeld voor BVE-instellingen die opleidingen verzorgen op het terrein van de Volwasseneneducatie. Zij is een toelichting op de rapportage die deze instellingen vanaf oktober 2004 moeten leveren aan de IB-Groep met het persoonsgebonden nummer, ook wel onderwijsnummer genoemd. Zij is gebaseerd op de nieuwe opleidingenstructuur, die gepubliceerd staat in het Gele katern van 10 september 2003, nummer 19, deel 2. Zij is ook gepubliceerd op de Internetsite *www.onderwijsnummer.nl*
 
 Bij de invoering van het onderwijsnummer bij Volwasseneneducatie worden een aantal wijzigingen in de rapportage doorgevoerd. Deze zijn eerder overeengekomen met de Bedrijfstakgroep (BTG) Educatie. De belangrijkste lichten we hier toe. De nieuwe rapportage is gepubliceerd in het Programma van Eisen Onderwijsnummer BVE op voornoemde Internetsite.
 
@@ -61,18 +41,41 @@ De resultaten worden op verschillende wijze weergegeven. Bij opleiding en vak ka
 
 De niveaus omvatten twee ”lagen”: de gebruiker en daarbinnen steeds twee niveaus, zoals aangegeven in de volgende tabel.
 
+| Groep | Gebruiker | Officiële Code | BRON-Code |
+| --- | --- | --- | --- |
+| A | Basisgebruiker | A1 | 1 |
+|  |  | A2 | 2 |
+| B | Onafhankelijk gebruiker | B1 | 3 |
+|  |  | B2 | 4 |
+| C | Vaardig gebruiker | C1 | 5 |
+|  |  | C2 | 6 |
+
 BRON-code is de code die het ROC aan de IB-Groep moet rapporteren. (BRON staat voor BasisRegister ONderwijs, waarin de IB-Groep de deelnemersgegevens van de instellingen opslaat.)
 
 Een verschil met de huidige situatie is het feit dat voortaan ook het niveau van de vaardigheden NT2 moet worden gerapporteerd bij begin en eind van de opleiding. Dat is in overeenstemming met de informatie die nu aan de gemeenten wordt gevraagd in het kader van de inburge-ring van nieuwkomers. Deze informatie is nodig om een idee te krijgen van het rendement van het onderwijs. Het startniveau wordt meestal gemeten bij de intake.
 
 Veel gestelde vragen over de nieuwe werkwijze zijn:
 
+- 1. Wat te doen, als tijdens de opleiding blijkt dat het startniveau verkeerd geschat is?
+
+- 2. Welk behaald niveau moet worden gerapporteerd (op welk moment)?
+
+- 3. Wat te doen als het eindniveau onder het startniveau ligt?
+
 In overleg met de BTG Educatie zijn de volgende afspraken gemaakt.
+
+- 1. Het startniveau kan altijd gecorrigeerd worden.
+
+- 2. Het behaalde niveau hoeft alleen te worden gerapporteerd bij het beëindigen van de opleiding. Als het niveau niet getoetst is, hoeft het niet gerapporteerd te worden. Als het bij of vlak voor het vertrek getoetst is dient de uitslag daarvan gerapporteerd te worden. Als dat niet het geval is, maar wel eerder is getoetst, kan worden volstaan met de laatste resultaten.
+
+- 3. Zo’n schijnbare discrepantie is toegestaan. Die is het gevolg van de onbetrouwbaarheid van de metingen. (Een deelnemer kan in feite op hetzelfde niveau zijn gebleven, maar bij de intake een goede dag hebben gehad en bij de eindtoets een slechte).
 
 Een ander verschil is dat de rapportage van de VAVO-examens nu ook de behoefte van de Inspectie omvat. De informatie is geïntegreerd. Hij is in overeenstemming met wat het VO levert.
 
 ### 5. Contacturen
 
 De BTG en OCW zijn tot de conclusie gekomen dat uit de oude rapportage de inspanning van het ROC niet was af te leiden. Daarom is met de invoering van het onderwijsnummer een nieuw gegeven, Contacturen per week, toegevoegd. Dat is:
+
+- het gemiddeld aantal klokuren onderwijs per week waaruit het onderwijsprogramma bestaat dat het bevoegd gezag voor de deelnemer in instellingstijd heeft ingericht.
 
 In het algemeen tellen alle onderwijsactiviteiten mee die zijn gericht op het bereiken van de onderwijs- en vormingsdoelen van de opleiding (eindtermen) en die worden uitgevoerd onder verantwoordelijkheid en toezicht van de instelling. Het gaat dan, naast lessen en beroepspraktijk-vorming, om werk in het open leercentrum of de mediatheek, om praktijksimulaties, om individuele begeleiding binnen opleidingstrajecten en studiebegeleiding, om toetsen examenactiviteiten, excursies en werkbezoeken en om ict-toepassingen voor buitenschools leren (mits toezicht door en verantwoordelijkheid van de instelling zijn geregeld). Hierbuiten vallen huiswerk (dus alle leeractiviteiten waarover de instelling geen regie kan voeren) en niet op de onderwijs- en vormingsdoelen gerichte activiteiten (b.v. recreatieve activiteiten).

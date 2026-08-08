@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie van 3 juni 2004, nr. 5287706/504, houdende aanwijzing van ambtenaren van politie en functionarissen ten behoeve van uitreiking en betekening van gerechtelijke stukken"
+citeertitel: "Regeling aanwijzing ambtenaren van politie en functionarissen t.b.v. uitreiking en betekening van gerechtelijke stukken"
 identifier: "BWBR0016804"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-04-09"
-last_updated: "2020-04-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016804"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5936443"
-version_id: "26357252"
-internal_id: "C37458011"
-label_id: "5926044"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016804/2020-04-09/0"
-intitule_bron: "Stcrt.2004-123"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-06-03"
-intitule_published: "2004-07-01"
-intitule_in_force: "2004-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-69780"
-original_signed_date: "2019-12-13"
-original_published_date: "2019-12-27"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2019-69780"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0016804&z=2020-04-09&g=2020-04-09"
-jci_1_0: "1.0:c:BWBR0016804&g=2020-04-09"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing ambtenaren van politie en functionarissen t.b.v. uitreiking en betekening van gerechtelijke stukken"
-signed_date: "2019-12-13"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-04-09
+status: geldig
+toestand: 2020-04-09
+bron: "https://wetten.overheid.nl/BWBR0016804"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Minister van Justitie van 3 juni 2004, nr. 5287706/504, houdende aanwijzing van ambtenaren van politie en functionarissen ten behoeve van uitreiking en betekening van gerechtelijke stukken
-
-Gelet op de [artikelen 373](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=373), [391](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=391), [541, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=541), [556, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=556), en [587, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=587);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -85,5 +57,3 @@ Deze regeling berust mede op [artikel 36d, derde lid](https://wetten.overheid.nl
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 15 mei 2004.
-
-Dit besluit zal in de Staatscourant en het Algemeen Politieblad worden geplaatst.

@@ -1,37 +1,17 @@
 ---
 title: "Notitie ’Helderheid in de bekostiging van het hoger onderwijs’"
+citeertitel: "Notitie 'Helderheid in de bekostiging van het hoger onderwijs'"
 identifier: "BWBR0016272"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-01-28"
-last_updated: "2004-01-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016272"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6468393"
-version_id: "11146142"
-internal_id: "C15065501"
-label_id: "6457734"
-original_entry_into_force: "2004-01-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016272/2004-01-28/0"
-intitule_bron: "Uitleg.2004-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-01-09"
-intitule_published: "2004-01-28"
-intitule_in_force: "2004-01-28"
-intitule_status: "goed"
-original_publication: "Uitleg.2004-2"
-original_signed_date: "2004-01-09"
-original_published_date: "2004-01-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-01-28"
-jci_1_3: "jci1.3:c:BWBR0016272&z=2004-01-28&g=2004-01-28"
-jci_1_0: "1.0:c:BWBR0016272&g=2004-01-28"
-citeertitel_status: "redactioneel"
-short_title: "Notitie 'Helderheid in de bekostiging van het hoger onderwijs'"
-signed_date: "2004-01-09"
-entry_into_force: "2004-01-28"
+publicatiedatum: 2004-01-28
+laatste_update: 2004-01-28
+status: geldig
+toestand: 2004-01-28
+bron: "https://wetten.overheid.nl/BWBR0016272"
+opgehaald: 2026-08-08
 ---
+
 # Notitie ’Helderheid in de bekostiging van het hoger onderwijs’
 
 ### Inleiding
@@ -45,6 +25,12 @@ De maatregelen doen niet af aan de bestaande verantwoordingslijnen. De verantwoo
 De instelling blijft verantwoordelijk voor een doelmatige en rechtmatige besteding van de rijksbijdrage en dat moet blijken uit de jaarstukken.
 
 In deze notitie wordt een aantal thema’s behandeld, ontleend aan Ruimte voor Rekenschap. De thema’s zijn als volgt opgebouwd. Ieder thema is onderverdeeld in drie onderdelen:
+
+- 1. *Wat we hiermee bedoelen:* omschrijving en definitie van het thema
+
+- 2. *Wat we hieraan gaan doen:* beschrijving van het soort maatregelen
+
+- 3. *Welke maatregelen we gaan treffen:* de feitelijke maatregelen
 
 De notitie wordt afgesloten met een samenvatting van alle genoemde maatregelen. Die maatregelen bestaan onder meer uit aanpassing van de Richtlijn voor het verslag, zodat ik in staat zal zijn aan de hand van de jaarstukken te controleren of de instellingen zich houden aan de voorschriften, die ik in deze notitie heb gegeven; aanscherping van de regelgeving dus, naast de regels en voorschriften die in het wetsvoorstel Korte Klap zijn neergelegd. De maatregelen bestaan voorts uit een aantal uitspraken over hoe de bestaande regelgeving moet worden uitgelegd en toegepast. Ik realiseer mij dat sommige uitspraken door velen als volstrekt vanzelfsprekend zullen worden beschouwd en een gevoel oproepen dat men in de achterliggende jaren al dienoverenkomstig handelde. Omdat die opvattingen en interpretatie soms impliciet bleven, ontbrak een referentiekader dat voor iedereen gold. Deze notitie draagt bij aan de behoefte een einde te maken aan een situatie van die onhelderheid.
 
@@ -68,13 +54,43 @@ Uitgangspunt is dat het verzorgen van een deel van het onderwijsprogramma uitbes
 
 Een universiteit of hogeschool mag het verzorgen van een deel van het onderwijsprogramma uitbesteden onder de volgende voorwaarden:
 
+- De uitbestedende instelling zal altijd de kern van het onderwijscurriculum zelf moeten blijven verzorgen.
+
+- In het jaarverslag moet een instelling goed en duidelijk melden en verantwoorden wat er uitbesteed is.
+
+- De instelling blijft verantwoordelijk voor alle verplichtingen die in de wet staan. Daar zullen de uitbestedende universiteit of hogeschool (de uitbesteder) en de uitvoerende partij (de uitvoerder) heldere afspraken over moeten maken.
+
+- De hoogte van de door de uitvoerder in rekening te brengen kosten moet in redelijke verhouding staan met wat hij moet doen. Het is de verantwoordelijkheid van de uitbesteder om afspraken te maken die de kosten van de uitvoerder dekken. Er mag door de uitbesteding geen concurrentievervalsing ontstaan.
+
+- Een aantal wettelijke bepalingen is rechtstreeks van toepassing. Dat betekent onder andere dat een toets op de doelmatigheid van de opleiding wordt gedaan op de plaats waar de opleiding verzorgd wordt: bij de uitvoerder dus.
+
+- De verantwoordelijkheden en verplichtingen van de uitbesteder moeten worden doorgecontracteerd naar de uitvoerder. Dat betekent bijvoorbeeld dat de uitvoerder de Onderwijsinspectie, een visitatiecommissie of de departementale Accountantsdienst moet toelaten.
+
+- De ”Europese richtlijn voor overheidsopdrachten diensten” is onverkort van toepassing.
+
+- Voor een student zal volkomen helder moeten zijn dat hij als student is ingeschreven aan een opleiding van een bekostigde instelling, waar hij ook zijn collegegeld dient te voldoen.
+
 ### Welke maatregelen we gaan treffen
+
+- Aanpassing van de richtlijn voor het verslag waarin verantwoording ten aanzien van de uitbesteding wordt voorgeschreven.
+
+- De aangepaste richtlijn is voor het eerst van toepassing bij het verslag over het begrotingsjaar 2003.
+
+- De richtlijn zal voor 1 november van dit jaar worden aangepast.
 
 ### Thema 2
 
 ### Wat we hiermee bedoelen
 
 Als de bekostiging van de overheid aan universiteiten of hogescholen (rijksbijdrage) bijvoorbeeld wordt gebruikt:
+
+- in een privaatrechtelijke rechtspersoon (bijvoorbeeld een contractstichting), of
+
+- voor voorzieningen voor studenten (bijvoorbeeld huisvesting of sportfaciliteiten), of
+
+- om investeringen te doen in gebouwen in het buitenland, of
+
+- voor de ontwikkeling van onbekostigd onderwijs.
 
 Het gaat hier uitdrukkelijk niet om investeringen die de instelling normaal doet in verband met het beheer en bestuur van de instelling (schoonmaak, huisvesting, catering, leveranciers etc). Het gaat om investeringen van een instelling in commerciële activiteiten voor of in samenwerking met derde, die op geen enkele wijze een relatie hebben met de kernactiviteiten onderwijs, onderzoek en kennisoverdracht.
 
@@ -84,7 +100,23 @@ Het besteden van de rijksbijdrage aan private activiteiten is (en blijft) volgen
 
 Een universiteit of hogeschool mag publieke middelen aan private activiteiten besteden als aan de volgende voorwaarden is voldaan:
 
+- De activiteit is in lijn met de werkzaamheden waarvoor de universiteit of hogeschool een rijksbijdrage van de overheid ontvangt. Als activiteiten worden uitbesteed aan een private rechtspersoon, blijft de universiteit of hogeschool verantwoordelijk voor de kwaliteit van de uitgevoerde activiteiten.
+
+- Uitgangspunt bij investeringen in private activiteiten is dat deze aansluiten op vastgestelde onderwijscurricula en onderzoekslijnen en deze ondersteunen.
+
+- Investeren in een private activiteit moet dus bijdragen aan:
+
+   - de kwaliteitsverhoging van het onderwijs en / of het onderzoek; en / of
+
+   - de kennisoverdracht aan de maatschappij; en / of
+
+   - de doelmatigheid of toegankelijkheid van het onderwijs.
+
+   - De investering moet in redelijke verhouding staan met wat de uitvoerder moet doen. Het is de verantwoordelijkheid van de universiteit of hogeschool om afspraken te maken die de kosten van de private partij dekken. Er mag door de investering geen concurrentievervalsing ontstaan.
+
 ### Welke maatregelen we gaan treffen
+
+- Deze bovengenoemde voorwaarden dienen als uitspraak met ingang van 1 september 2003.
 
 ### Thema 3
 
@@ -106,15 +138,45 @@ Bovenstaande voorbeelden zijn niet in strijd met de bestaande regelgeving. Dat b
 
 ### Welke maatregelen we gaan treffen
 
+- Het bovenstaande geldt als uitspraak met ingang van 1 september 2003.
+
 ### Thema 4
 
 ### Wat we hiermee bedoelen
 
+- a. Buitenlandse studenten in het buitenland die deelnemen aan distance learning (leren op afstand) via een Nederlandse instelling
+
+- b. Buitenlandse studenten die in feite (grotendeels) in het buitenland studeren.
+
+- c. Buitenlandse studenten die in Nederland een deel van de opleiding c.q. stage volgen
+
+- d. Buitenlandse studenten die het laatste jaar zowel bij een buitenlandse als een Nederlandse hogeschool zijn ingeschreven en die een Nederlands diploma behalen.
+
 Er zijn drie manieren waarop buitenlandse studenten in Nederland komen studeren:
+
+- Er komt een buitenlandse student voor een Nederlandse student in de plaats in het kader van een uitwisselingsprogramma. De instellingen brengen in dat geval onderling geen kosten bij elkaar in rekening. De Nederlandse student blijft voor de bekostiging meetellen, maar de buitenlandse telt niet mee. Aan een dergelijke uitwisseling moet een overeenkomst ten grondslag liggen. De overeenkomst moet worden gemeld in het jaarverslag.
+
+- Een buitenlandse student komt op individuele basis in Nederland studeren met het oog op het behalen van een getuigschrift, de zogenaamde free mover. Deze student moet als reguliere student worden behandeld dus ook wat betreft de bekostiging. Hij dient zich zelf in te schrijven en zelf zijn collegegeld te betalen.
+
+- Er komt een buitenlandse student naar Nederland in het kader van een uitwisselingsprogramma, maar er gaat geen Nederlandse student voor naar het buitenland. Wanneer deze uitwisselingsstudent geen CROHO-opleiding komt volgen, kan hij niet worden ingeschreven als student en dus niet meetellen voor de bekostiging. Dit is een geval van contractonderwijs.
 
 ### Wat we hieraan gaan doen
 
+- a. Buitenlandse studenten in het buitenland die deelnemen aan distance learning via een Nederlandse instelling Hoewel distance learning door de overheid wordt gestimuleerd houdt het (huidige) bekostigingssysteem er geen rekening mee. Op dit punt zal eerst beleid moeten worden ontwikkeld, voordat maatregelen in het kader van de bekostiging zullen volgen. Dit zal in het nieuwe HO-verdeelmodel worden meegenomen. Dit gaat overigens over Nederlandse studenten. Buitenlandse studenten in het buitenland, die via distance learning hun studie volgen, worden niet door de instelling als student ingeschreven en tellen dus niet mee voor de bekostiging.
+
+- b. Buitenlandse studenten die in feite (grotendeels) in het buitenland studeren Buitenlandse studenten kunnen alleen worden ingeschreven bij een bekostigde opleiding als zij hun onderwijs daar ook daadwerkelijk volgen. Het meetellen voor bekostiging van studenten die in het buitenland verblijven is dus niet aan de orde. Of het nu gaat om distance learning, of dat de Nederlandse instelling zelf programma’s in het buitenland aanbiedt maakt niet uit. Het gaat erom dat de buitenlandse studenten niet in Nederland onderwijs volgen. Deze studenten mogen niet meetellen voor bekostiging
+
+- c. Buitenlandse studenten die in Nederland een deel van de opleiding c.q. stage volgen Buitenlandse studenten die hier een stage of een korte opleiding komen volgen die niet beschouwd kan worden als een CROHO-opleiding, kunnen niet worden ingeschreven bij een bekostigde opleiding. De wet - en dus de bekostiging - gaat uit van volwaardige bachelor-en masteropleidingen. De overheid betaalt dus niet voor aanbieden van delen van opleidingen (ook wel voorgestructureerde korte opleidingen genoemd). Dit soort activiteiten zijn contractactiviteiten. Daarvoor kan de instelling een student een bedrag laten betalen, dat al dan niet de gemaakte kosten dekt. Als deze studenten wél worden ingeschreven bij bekostigde opleidingen - en ze dus geen diploma halen - leidt dat tot een groot aantal uitvallers. Dat heeft gevolgen voor de bekostiging van hogescholen, omdat het bekostigingssysteem van het HBO daarmee rekening houdt. Ik zal nauwgezet de uitval bij instellingen in de gaten houden. Als de uitval groter is dan een bepaald (nog niet vastgesteld) percentage vraagt het ministerie de instelling om een toelichting. Als deze toelichting niet overtuigend is, volgt een ’zoeklichtonderzoek’ door de Accountantsdienst. Er kunnen dan sancties worden opgelegd.
+
+- d. Buitenlandse studenten die het laatste jaar zowel bij een buitenlandse als een Nederlandse hogeschool zijn ingeschreven en die een Nederlands diploma behalen. Als een buitenlandse student in Nederland komt studeren om een diploma te halen en voldoet aan de eisen voor inschrijven telt hij mee voor de bekostiging. Voor het HBO geldt dat ’excessieve diplomabekostiging’ niet meer mogelijk is (zie [thema 3](https://wetten.overheid.nl/BWBR0016272)): de bekostiging door de overheid is dus in overeenstemming met de onderwijsinspanning die een hogeschool levert.
+
 ### Welke maatregelen we gaan treffen
+
+- Er zal beleid worden ontwikkeld ten aanzien van distance learning.
+
+- In de wetgeving ’Korte klap’ is geregeld dat alleen studenten waarvan de NAW (naam, adres en woonplaats) gegevens bekend zijn - dus studenten die daadwerkelijk onderwijs in Nederland genieten - meetellen voor de bekostiging.
+
+- In de richtlijn voor het verslag wordt opgenomen dat de uitwisselingsovereenkomsten met buitenlandse instellingen gemeld worden, zulks met ingang van het verslag over het jaar 2003. De richtlijn zal voor 1 november 2003 worden aangepast.
 
 ### Thema 5
 
@@ -130,6 +192,16 @@ Echter, naast dit fonds voor afstudeersteun mag een instelling ook een eigen (no
 
 ### Welke maatregelen we gaan treffen
 
+- Het wetsvoorstel Korte Klap bevat een aantal r5regelingen omtrent de betaling van collegegeld:
+
+- De instelling moet de rijksbijdrage doelmatig besteden. Van niet-doelmatige besteding van de rijksbijdrage is in ieder geval sprake als bedragen daaruit worden gebruikt voor het op enige manier compenseren van het door studenten betaalde collegegeld, respectievelijk examengeld.
+
+- Collegegeld mag namens een student (door derden) worden betaald, mits de student schriftelijk verklaart dat hij hiermee instemt. Op de inschrijfformulieren zal de student dat aan moeten kunnen geven. De aangepaste inschrijfformulieren zullen met ingang van 1 september 2004 worden gebruikt.
+
+- Door bovenstaande uitspraken is vervolgens helder hoe de instelling dient te handelen als het om een eigen (nood)fonds gaat.
+
+- Deze uitspraken gelden vanaf 1 september 2004.
+
 ### Thema 6
 
 ### Wat we hiermee bedoelen
@@ -138,11 +210,13 @@ Een ’module’ (of een ’voorgestructureerde leerroute’) is een deel van ee
 
 ### Wat we hieraan gaan doen
 
-Als iemand normaal gesproken modules wil volgen, is er sprake van contractonderwijs en niet van het volgen van een opleiding. Zie ook thema 4. De instelling moet eencommercieel tarief in rekening brengen met het oog op concurrentievervalsing. Onderwijscontractanten mogen niet als student worden ingeschreven aan een bekostigde opleiding. Daarmee doe ik niet af aan het belang van de huidige ontwikkelingen waar delen van bepaalde opleidingen leiden naar sommige beroepen. Ik zal met de HBO-Raad overleggen over erkenning van deze zogenaamde sub-degrees.
+Als iemand normaal gesproken modules wil volgen, is er sprake van contractonderwijs en niet van het volgen van een opleiding. Zie ook [thema 4](https://wetten.overheid.nl/BWBR0016272). De instelling moet eencommercieel tarief in rekening brengen met het oog op concurrentievervalsing. Onderwijscontractanten mogen niet als student worden ingeschreven aan een bekostigde opleiding. Daarmee doe ik niet af aan het belang van de huidige ontwikkelingen waar delen van bepaalde opleidingen leiden naar sommige beroepen. Ik zal met de HBO-Raad overleggen over erkenning van deze zogenaamde sub-degrees.
 
 Daarnaast is het uiteraard mogelijk dat een student een bekostigde opleiding vroegtijdig verlaat. De examencommissie kan dan een verklaring geven, waarin in ieder geval de tentamens zijn vermeld die hij gehaald heeft (dat is geregeld in [art. 7.11, tweede lid van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.11)). Dit kan bijvoorbeeld in het geval van studieonderbreking of overstap naar een andere opleiding. Een dergelijke verklaring is geen parameter in de bekostiging en dit leidt dus niet tot ongewenste effecten.
 
 ### Welke maatregelen we gaan treffen
+
+- Het bovenstaande geldt als uitspraak vanaf 1 september 2003.
 
 ### Thema 7
 
@@ -152,9 +226,33 @@ Inschrijving van een student aan een in het CROHO geregistreerde opleiding, terw
 
 Er bestaan verschillende varianten, waarbij zij aangetekend dat studenten normaal gesproken zelf bepalen voor welke opleiding ze wensen te worden ingeschreven:
 
+- A
+
+   - Studenten worden ingeschreven in de opleiding die het meeste geld oplevert (die de hoogste prijsfactor hebben).
+
+   - Studenten worden ingeschreven in een reguliere opleiding, maar volgen in werkelijkheid postinitieel onderwijs, kopcursussen, bedrijfsopleidingen etc.
+
+   - Als een opleiding nog niet is opgenomen in het CROHO, en studenten dus niet meetellen voor de bekostiging, worden studenten bij een verwante opleiding ingeschreven.
+
+- B
+
+   - Contractanten volgen een kopcursus en worden als extraneus ingeschreven in een initiële CROHO-opleiding, waardoor zij een HBO-diploma krijgen.
+
+- C
+
+   - De hogeschool biedt een (oriënterend) voorbereidend jaar anderstaligen aan buitenlanders aan die op grond van hun diploma in principe direct toelaatbaar zijn tot een opleiding. De studenten van zo’n jaar tellen mee voor de bekostiging.
+
 ### Wat we hieraan gaan doen
 
+- A Voor het meetellen voor bekostiging moet een opleiding geregistreerd zijn in het CROHO. Als een student bij opleiding A is ingeschreven, maar in werkelijkheid een andere opleiding of contractonderwijs volgt, dan is die inschrijving bij opleiding A onrechtmatig en telt die student ten onrechte mee voor de bekostiging .
+
+- B Contractanten worden tevens ingeschreven als extraneï bij een opleiding die is geregistreerd in het CROHO. Ze nemen deel aan de examens die leiden tot een getuigschrift van die opleiding. Ze zijn dus niet ingeschreven bij een andere opleiding dan de opleiding die daadwerkelijk gevolgd wordt. In het HBO tellen getuigschriften van extraneï niet mee voor de bekostiging, in het WO wel; de instellingen mogen zelf het examengeld vaststellen. Helder moet hierbij zijn dat strategisch gedrag van instellingen, gericht op het werven van grote groepen contractanten, die zonder onderwijsinspanning van de instelling een getuigschrift krijgen uitgereikt, niet acceptabel is. Zie ook [thema 3](https://wetten.overheid.nl/BWBR0016272).
+
+- C Een oriënterend voorbereidend jaar wordt vaak aangeboden aan buitenlandse studenten, die de Nederlandse taal nog niet goed genoeg beheersen om het onderwijs succesvol te kunnen volgen. Die studenten kunnen worden ingeschreven (dat is geregeld in [artikel 7.28 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.28)). Voorwaarde is wel dat de studenten de intentie hebben om de hele opleiding te volgen. Wanneer dat niet zo is, staat deze cursus op zichzelf en is het dus geen onderdeel van een reguliere opleiding. Als de instelling een cursus aanbiedt onder het mom van een ’oriënterend voorbereidend jaar’ leidt dat tot een grootaantal uitvallers. Dat heeft gevolgen voor de bekostiging van hogescholen, omdat het bekostigingssysteem van het HBO daarmee rekening houdt. Ik zal nauwgezet de uitval bij instellingen in de gaten houden. Als de uitval groter is dan een bepaald (nog niet vastgesteld) percentage vraagt het ministerie de instelling om een toelichting. Als deze toelichting niet overtuigend is, volgt een ’zoeklichtonderzoek’ door de Accountantsdienst. Er kunnen dan sancties worden opgelegd.
+
 ### Welke maatregelen we gaan treffen
+
+- Het bovenstaande dient als uitspraak, geldend vanaf 1 september 2003.
 
 ### Thema 8
 
@@ -170,7 +268,21 @@ Aan maatwerktrajecten moeten wel voorwaarden worden gesteld. Er moet worden voor
 
 Die voorwaarden luiden als volgt:
 
+- Voor het maatwerktraject wordt een overeenkomst gemaakt. Daarin staan de wensen van het bedrijf en de inspanningen van de universiteit of hogeschool. Ook wat een bedrijf meer moet betalen dan de kosten van een reguliere opleiding staan in die overeenkomst. Dat zijn de enige ’meerkosten’ die zijn toegestaan.
+
+- Het moet voor het bedrijf duidelijk zijn dat studenten en getuigschriften van het maatwerktraject normaal meetellen voor bekostiging door de overheid. Dat geldt uiteraard als de deelnemers worden ingeschreven als studenten aan een in het CROHO geregistreerde opleiding.
+
+- Maatwerktrajecten kunnen alleen worden aangeboden als er ook een regulier traject van de opleiding wordt aangeboden om de toegankelijkheid van de opleiding voor reguliere studenten te garanderen.
+
+- In het jaarverslag moet door de instelling worden opgenomen voor welke bedrijven of organisaties welke maatwerktrajecten zijn georganiseerd en hoeveel studenten daarbij zijn betrokken.
+
+- De naleving van de voorwaarden bij het afsluiten van maatwerktrajecten zal worden gecontroleerd via zoeklichtacties door de departementale Accountantsdienst.
+
 ### Welke maatregelen we gaan treffen
+
+- Bovenstaande voorwaarden moeten worden beschouwd als uitspraken geldend vanaf 1 september 2003.
+
+- De richtlijn voor het verslag wordt aangepast wat betreft de maatwerktrajecten en is van toepassing met ingang van het verslag over het jaar 2003. Voor 1 november van dit jaar wordt de richtlijn aangepast.
 
 ### Thema 9
 
@@ -180,11 +292,17 @@ Het kunstonderwijs kent een eigen bekostigingssystematiek. Studenten tellen mee 
 
 Twee voorbeelden:
 
+- Studenten volgen hun opleiding in achtereenvolgende jaren aan meerdere instellingen
+
+- Getalenteerde studenten volgen een langdurige stage van meer dan een jaar in het buitenland.
+
 ### Wat we hier aan gaan doen
 
 De bekostiging van het kunstonderwijs wijkt af van de rest van het hoger beroepsonderwijs. De bekostiging houdt rekening met de mobiliteit van studenten en geschiedt op jaarbasis. Studenten die hun opleiding in achtereenvolgende jaren aan meerdere instellingen volgen, mogen maar bij één instelling per jaar meetellen voor de bekostiging. Bij een langdurige stage van meer dan een jaar in het buitenland dienen studenten niet mee te tellen voor de bekostiging.
 
 ### Welke maatregelen gaan we treffen
+
+- Het bovenstaande geldt als uitspraak met ingang van 1 september 2003.
 
 ### Samenvatting van de in dit stuk genoemde maatregelen en toezicht op de naleving
 
@@ -192,24 +310,64 @@ De bekostiging van het kunstonderwijs wijkt af van de rest van het hoger beroeps
 
 De Richtlijn voor het verslag wordt voor 1 november van dit jaar aangepast. De instellingen zijn verplicht om met ingang van het verslagjaar 2003 op de volgende onderdelen in het verslag (d.w.z. in het jaarverslag en in de jaarrekening) verantwoording af te leggen:
 
+- De instelling moet melden en verantwoorden wat er uitbesteed is.
+
+- De instelling dient een overzicht te geven van de bedragen uit de rijksbijdrage die gemoeid zijn met investeringen in private activiteiten, met aanduiding van de activiteiten waarvoor die bedragen zijn geïnvesteerd.
+
+- De instelling dient de bestaande uitwisselingsovereenkomsten met andere instellingen te vermelden, met opgave van het aantal Nederlandse en buitenlandse studenten dat per overeenkomst van de uitwisseling gebruik heeft gemaakt.
+
+- De instelling dient te vermelden voor welke bedrijven of organisaties maatwerktrajecten zijn georganiseerd en hoeveel studenten daarbij zijn betrokken.
+
 ### B. Uitspraken
 
 De uitspraken zijn van kracht met ingang van 1 september 2003 ten aanzien van:
+
+- De voorwaarden waaronder uitbesteding is toegestaan.
+
+- De voorwaarden waaronder investeren van publieke middelen in private activiteiten is toegestaan.
+
+- De wijze waarop de instelling dient om te gaan met een eigen (nood) fonds.
+
+- Het wel of niet inschrijven als studenten van buitenlanders.
+
+- Het niet inschrijven als student van contractanten.
+
+- Het inschrijven van studenten in die opleiding die ook daadwerkelijk wordt gevolgd.
+
+- De voorwaarden waaronder maatwerktrajecten zijn toegestaan.
 
 ### C. Toezicht
 
 Het toezicht zal worden verscherpt door controle op de jaarstukken ten aanzien van:
 
+- Uitbesteding.
+
+- Het investeren van publieke middelen in private activi-teiten.
+
+- Het organiseren van maatwerktrajecten.
+
 ### D. Controle gegevens
 
 Het toezicht zal worden verscherpt door controle van de gegevens in het Centraal register inschrijving hoger onderwijs (Criho) ten aanzien van:
 
+- de aantallen uitvallers.
+
 ### E. Controleprotocollen
 
 Het toezicht zal worden verscherpt door aanscherping van de Controleprotocollen ten aanzien van:
+
+- De rechtmatigheid van de inschrijving als student of als extraneus.
+
+- De naleving van de in dit stuk gegeven uitspraken wat betreft inschrijving van buitenlanders.
+
+- De naleving van de uitspraak dat studenten dienen te worden ingeschreven bij de opleiding die ze daadwerkelijk volgen.
+
+- De besteding van andere dan rijksmiddelen voor het instandhouden van een eigen (nood)fonds door de instelling.
 
 Het slechts bij één instelling meetellen voor de bekosti-ging van studenten in het kunstonderwijs.
 
 ### F. Nieuw beleid
 
 Nieuw beleid zal worden ontwikkeld wat betreft:
+
+- distance learning.

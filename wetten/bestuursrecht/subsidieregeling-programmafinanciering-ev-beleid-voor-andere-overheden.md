@@ -1,43 +1,18 @@
 ---
 title: "Subsidieregeling Programmafinanciering Externeveiligheidsbeleid voor andere overheden"
+citeertitel: "Subsidieregeling Programmafinanciering EV-beleid voor andere overheden"
 identifier: "BWBR0016863"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-12-02"
-last_updated: "2005-12-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016863"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5911843"
-version_id: "10502662"
-internal_id: "C14265271"
-label_id: "5901554"
-original_entry_into_force: "2004-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016863/2005-12-02/0"
-intitule_bron: "Stcrt.2004-114"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-06-11"
-intitule_published: "2004-06-18"
-intitule_in_force: "2004-06-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-114"
-original_signed_date: "2004-06-11"
-original_published_date: "2004-06-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-114-p16-SC65399"
-entry_into_force_date: "2004-06-20"
-jci_1_3: "jci1.3:c:BWBR0016863&z=2005-12-02&g=2005-12-02"
-jci_1_0: "1.0:c:BWBR0016863&g=2005-12-02"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Programmafinanciering EV-beleid voor andere overheden"
-signed_date: "2004-06-11"
-entry_into_force: "2004-06-20"
+publicatiedatum: 2004-06-20
+laatste_update: 2005-12-02
+status: geldig
+toestand: 2005-12-02
+bron: "https://wetten.overheid.nl/BWBR0016863"
+opgehaald: 2026-08-08
 ---
+
 # Subsidieregeling Programmafinanciering Externeveiligheidsbeleid voor andere overheden
-
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -79,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 - i. organisatorische versterking en professionalisering op het gebied van externe veiligheid door:
 
-- 1°. verbetering van de samenwerking op het gebied van externe veiligheid,
+   - 1°. verbetering van de samenwerking op het gebied van externe veiligheid,
 
-- 2°. externe veiligheid onderdeel maken van gemeentelijk en provinciaal handhavingsprogramma,
+   - 2°. externe veiligheid onderdeel maken van gemeentelijk en provinciaal handhavingsprogramma,
 
-- 3°. versterking van de kennis op het gebied van externe veiligheid bij gemeenten en provincies.
+   - 3°. versterking van de kennis op het gebied van externe veiligheid bij gemeenten en provincies.
 
 2. Het programma mag naast de in het eerste lid genoemde onderdelen voor ten hoogste eenderde van de middelen bestaan uit regiospecifieke projecten gericht op externe veiligheid.
 
@@ -93,11 +68,11 @@ Een provincie komt in aanmerking voor subsidie voor de uitvoeringskosten van act
 
 - a. de aanvraag tot subsidieverlening gaat vergezeld van een door gedeputeerde staten vastgesteld provinciaal programma ter bereiking van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=2&z=2005-12-02&g=2005-12-02) beschreven doel waarin in elk geval de volgende onderdelen zijn uitgewerkt:
 
-- 1°. de verplichtingen waartoe de gemeente en de provincie zich verbinden overeenkomstig de onderdelen, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=3&z=2005-12-02&g=2005-12-02);
+   - 1°. de verplichtingen waartoe de gemeente en de provincie zich verbinden overeenkomstig de onderdelen, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=3&z=2005-12-02&g=2005-12-02);
 
-- 2°. de duur van uitvoering van het provinciaal programma;
+   - 2°. de duur van uitvoering van het provinciaal programma;
 
-- 3°. per onderdeel de kosten waarvoor subsidie wordt gevraagd;
+   - 3°. per onderdeel de kosten waarvoor subsidie wordt gevraagd;
 
 - b. de gelden uitsluitend worden besteed voor de versterking van de capaciteit of kennis voor de uitvoering van het externeveiligheidsbeleid;
 
@@ -189,5 +164,3 @@ Deze regeling treedt in werking na de tweede dag na de dagtekening van de Staats
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Programmafinanciering EV-beleid voor andere overheden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

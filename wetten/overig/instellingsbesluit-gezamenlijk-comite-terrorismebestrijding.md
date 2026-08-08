@@ -1,42 +1,17 @@
 ---
 title: "Instellingsbesluit Gezamenlijk Comité Terrorismebestrijding"
 identifier: "BWBR0016870"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-07-11"
-last_updated: "2004-07-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016870"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5954223"
-version_id: "10544922"
-internal_id: "C14330031"
-label_id: "5943914"
-original_entry_into_force: "2004-07-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016870/2004-07-11/0"
-intitule_bron: "Stcrt.2004-129"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-06-15"
-intitule_published: "2004-07-09"
-intitule_in_force: "2004-07-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-129"
-original_signed_date: "2004-06-15"
-original_published_date: "2004-07-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-129-p12-SC65720"
-entry_into_force_date: "2004-07-11"
-jci_1_3: "jci1.3:c:BWBR0016870&z=2004-07-11&g=2004-07-11"
-jci_1_0: "1.0:c:BWBR0016870&g=2004-07-11"
-citeertitel_status: "redactioneel"
-signed_date: "2004-06-15"
-entry_into_force: "2004-07-11"
+publicatiedatum: 2004-07-11
+laatste_update: 2004-07-11
+status: geldig
+toestand: 2004-07-11
+bron: "https://wetten.overheid.nl/BWBR0016870"
+opgehaald: 2026-08-08
 ---
+
 # Instellingsbesluit Gezamenlijk Comité Terrorismebestrijding
-
-Handelend in overeenstemming met het gevoelen van de Ministerraad;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -46,51 +21,51 @@ Er is een Gezamenlijk Comité Terrorismebestrijding (GCT).
 
 Het GCT heeft tot taak:
 
-- •. het ondersteunen van de minister van Justitie in de invulling van zijn coördinerende taak terzake terrorismebestrijding;
+- • het ondersteunen van de minister van Justitie in de invulling van zijn coördinerende taak terzake terrorismebestrijding;
 
-- •. het vormen van een schakel op hoog ambtelijk niveau tussen regeringsbeleid en uitvoering;
+- • het vormen van een schakel op hoog ambtelijk niveau tussen regeringsbeleid en uitvoering;
 
-- •. waken voor samenhang tussen nationaal beleid, internationaal beleid en internationale ontwikkelingen;
+- • waken voor samenhang tussen nationaal beleid, internationaal beleid en internationale ontwikkelingen;
 
-- •. het vervullen van een brugfunctie tussen CVIN en ICV;
+- • het vervullen van een brugfunctie tussen CVIN en ICV;
 
-- •. het verzorgen van ambtelijke afstemming voor en advisering aan de Raad voor de Veiligheid & Rechtsorde en / of de Raad voor Inlichtingen- en Veiligheidsdiensten voor zover het betreft de besluitvorming in die raden over beleid en uitvoering op het terrein van terrorismebestrijding;
+- • het verzorgen van ambtelijke afstemming voor en advisering aan de Raad voor de Veiligheid & Rechtsorde en / of de Raad voor Inlichtingen- en Veiligheidsdiensten voor zover het betreft de besluitvorming in die raden over beleid en uitvoering op het terrein van terrorismebestrijding;
 
-- •. het bewaken van de samenhang tussen de activiteiten die worden ontplooid door de diverse organisaties op het terrein van terrorismebestrijding;
+- • het bewaken van de samenhang tussen de activiteiten die worden ontplooid door de diverse organisaties op het terrein van terrorismebestrijding;
 
 ##### Artikel 3
 
 Het GCT is als volgt samengesteld:
 
-- –. de Nationaal Coördinator Terrorismebestrijding (voorzitter)
+- – de Nationaal Coördinator Terrorismebestrijding (voorzitter)
 
-- –. de directeur-generaal Rechtshandhaving van het ministerie van Justitie (lid tevens plaatsvervangend voorzitter)
+- – de directeur-generaal Rechtshandhaving van het ministerie van Justitie (lid tevens plaatsvervangend voorzitter)
 
-- –. de directeur-generaal Openbare Orde en Veiligheid van het ministerie van Binnenlandse Zaken en Koninkrijkrelaties
+- – de directeur-generaal Openbare Orde en Veiligheid van het ministerie van Binnenlandse Zaken en Koninkrijkrelaties
 
-- –. de voorzitter van het College van Procureurs-generaal
+- – de voorzitter van het College van Procureurs-generaal
 
-- –. de korpschef van het KLPD tevens lid van de Raad van Hoofdcommissarissen
+- – de korpschef van het KLPD tevens lid van de Raad van Hoofdcommissarissen
 
-- –. het plaatsvervangend hoofd Algemene Inlichtingen- en Veiligheidsdienst van het ministerie van Binnenlandse Zaken en Koninkrijkrelaties
+- – het plaatsvervangend hoofd Algemene Inlichtingen- en Veiligheidsdienst van het ministerie van Binnenlandse Zaken en Koninkrijkrelaties
 
-- –. de plaatsvervangend directeur van de MIVD van het ministerie van Defensie
+- – de plaatsvervangend directeur van de MIVD van het ministerie van Defensie
 
-- –. de bevelhebber der Koninklijke Marechaussee
+- – de bevelhebber der Koninklijke Marechaussee
 
-- –. de raadadviseur, zijnde de plaatsvervangend coördinator van de inlichtingen- en veiligheidsdiensten van het ministerie van Algemene Zaken
+- – de raadadviseur, zijnde de plaatsvervangend coördinator van de inlichtingen- en veiligheidsdiensten van het ministerie van Algemene Zaken
 
-- –. de plaatsvervangend thesaurier-generaal van het ministerie van Financiën
+- – de plaatsvervangend thesaurier-generaal van het ministerie van Financiën
 
-- –. het lid van het managementteam Belastingdienst, belast met douane aangelegenheden van het ministerie van Financiën
+- – het lid van het managementteam Belastingdienst, belast met douane aangelegenheden van het ministerie van Financiën
 
-- –. de directeur-generaal Politieke Zaken van het ministerie van Buitenlandse Zaken
+- – de directeur-generaal Politieke Zaken van het ministerie van Buitenlandse Zaken
 
-- –. de directeur-generaal Internationale Aangelegenheden en Vreemdelingenzaken van het ministerie van Justitie
+- – de directeur-generaal Internationale Aangelegenheden en Vreemdelingenzaken van het ministerie van Justitie
 
-- –. de directeur Juridische Zaken van het ministerie van Defensie
+- – de directeur Juridische Zaken van het ministerie van Defensie
 
-- –. de directeur van de directie Wetgeving van het ministerie van Justitie.
+- – de directeur van de directie Wetgeving van het ministerie van Justitie.
 
 ##### Artikel 4
 
@@ -138,14 +113,12 @@ De voorzitter van het COTB is de directeur Opsporingsbeleid van het Ministerie v
 
 De deelnemende partijen handelen in overeenstemming met:
 
-- –. de [Wet Veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) (WVo) ten aanzien van veiligheidsonderzoeken bij vertrouwensfuncties;
+- – de [Wet Veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) (WVo) ten aanzien van veiligheidsonderzoeken bij vertrouwensfuncties;
 
-- –. het Voorschrift Informatiebeveiliging Rijksdienst Bijzondere Informatie (VIR-BI) ten aanzien omgang met gerubriceerde gegevens;
+- – het Voorschrift Informatiebeveiliging Rijksdienst Bijzondere Informatie (VIR-BI) ten aanzien omgang met gerubriceerde gegevens;
 
-- –. de Wet op de Staatsgeheimen.
+- – de Wet op de Staatsgeheimen.
 
 ##### Artikel 13
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de daarbij behorende toelichting in de Staatscourant worden geplaatst.

@@ -1,41 +1,18 @@
 ---
 title: "Besluit Instelling Commissie evaluatie modernisering rechterlijke organisatie"
+citeertitel: "Instellingsbesluit Commissie evaluatie modernisering rechterlijke organisatie"
 identifier: "BWBR0017125"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-09-01"
-last_updated: "2004-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017125"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "6060713"
-version_id: "10713272"
-internal_id: "C14541711"
-label_id: "6049944"
-original_entry_into_force: "2004-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017125/2004-09-01/0"
-intitule_bron: "Stcrt.2004-166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-08-20"
-intitule_published: "2004-08-31"
-intitule_in_force: "2004-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-166"
-original_signed_date: "2004-08-20"
-original_published_date: "2004-08-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-166-p9-SC66312"
-entry_into_force_date: "2004-09-01"
-jci_1_3: "jci1.3:c:BWBR0017125&z=2004-09-01&g=2004-09-01"
-jci_1_0: "1.0:c:BWBR0017125&g=2004-09-01"
-citeertitel_status: "redactioneel"
-short_title: "Instellingsbesluit Commissie evaluatie modernisering rechterlijke organisatie"
-signed_date: "2004-08-20"
-entry_into_force: "2004-09-01"
+publicatiedatum: 2004-09-01
+laatste_update: 2004-09-01
+status: geldig
+toestand: 2004-09-01
+bron: "https://wetten.overheid.nl/BWBR0017125"
+opgehaald: 2026-08-08
 ---
-# Besluit Instelling Commissie evaluatie modernisering rechterlijke organisatie
 
-Besluit:
+# Besluit Instelling Commissie evaluatie modernisering rechterlijke organisatie
 
 ##### Artikel 1
 

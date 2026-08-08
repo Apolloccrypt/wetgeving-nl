@@ -1,50 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d. 30 november 2004, houdende de vaststelling van de percentages van de heffingen groenten en fruit voor het jaar 2005 (Besluit PT heffing groenten en fruit 2005)"
+citeertitel: "Besluit PT heffingen groenten en fruit 2005"
 identifier: "BWBR0017597"
-country: "nl"
-rank: "pbo"
-publication_date: "2005-07-24"
-last_updated: "2005-07-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017597"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "7194933"
-version_id: "12113512"
-internal_id: "C16238181"
-label_id: "7182784"
-original_entry_into_force: "2005-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017597/2005-07-24/0"
-intitule_bron: "Vbbo.2005-40"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-30"
-intitule_published: "2005-07-22"
-intitule_in_force: "2005-07-22"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-40"
-original_signed_date: "2004-11-30"
-original_published_date: "2005-07-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-07-24"
-jci_1_3: "jci1.3:c:BWBR0017597&z=2005-07-24&g=2005-07-24"
-jci_1_0: "1.0:c:BWBR0017597&g=2005-07-24"
-citeertitel_status: "officieel"
-short_title: "Besluit PT heffingen groenten en fruit 2005"
-signed_date: "2004-11-30"
-entry_into_force: "2005-07-24"
+publicatiedatum: 2005-07-24
+laatste_update: 2005-07-24
+status: geldig
+toestand: 2005-07-24
+bron: "https://wetten.overheid.nl/BWBR0017597"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 30 november 2004, houdende de vaststelling van de percentages van de heffingen groenten en fruit voor het jaar 2005 (Besluit PT heffing groenten en fruit 2005)
-
-gelet op [artikel 3, derde en vierde lid, van de Verordening PT heffing teelt groenten en fruit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0016968&artikel=3);
-
-gelet op [artikel 3, vijfde lid, van de Verordening PT algemene heffing handel groenten en fruit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0016961&artikel=3);
-
-gelet op [artikel 3, vijfde lid, van de Verordening PT bestemmingsheffing handel groenten en fruit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0016965&artikel=3);
-
-gelet op [artikel 4, eerste lid, van de Verordening PT heffing verduurzaamde groenten en fruit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0016966&artikel=4);
-
-gehoord de Commissie voor groenten en fruit, d.d. 18 november 2004;
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -52,9 +20,9 @@ BESLUIT:
 
 | a | glasgroenten: | 0,510% |
 | --- | --- | --- |
-| b | vollegrondsgroenten: | 0,160% 0,160% |
+| b | vollegrondsgroenten: - aardbeien: | 0,160% 0,160% |
 | c | fruit: | 0,160% |
-| d | champignons: | 0,175% 0,055% |
+| d | champignons: - overige paddestoelen: | 0,175% 0,055% |
 | e | uitgangsmateriaal: | 0,080% |
 
 2. Het in [artikel 3, vierde lid van de Verordening PT heffing teelt groenten en fruit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0016968&artikel=3) (de korting kwaliteitscontrole ingeval van contractteelt) genoemde percentage, wordt voor het jaar 2005 vastgesteld op: 0,090%.
@@ -97,5 +65,3 @@ Dit besluit treedt in werking op de tweede dag na publicatie in het Mededelingen
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit PT heffingen groenten en fruit 2005
-
-Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Mededelingenblad Bedrijfsorganisatie

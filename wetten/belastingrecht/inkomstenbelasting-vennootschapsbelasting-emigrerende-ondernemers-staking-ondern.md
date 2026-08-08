@@ -1,40 +1,17 @@
 ---
 title: "Inkomstenbelasting, Vennootschapsbelasting, Emigrerende ondernemers; staking onderneming"
 identifier: "BWBR0017077"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-08-03"
-last_updated: "2004-08-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017077"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8289073"
-version_id: "13149742"
-internal_id: "C17712431"
-label_id: "8270244"
-dtd_version: "2.0"
-original_entry_into_force: "2004-08-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017077/2004-08-03/0"
-intitule_bron: "Stcrt.2004-177"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-08-03"
-intitule_published: "2004-09-15"
-intitule_in_force: "2004-09-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-177"
-original_signed_date: "2004-08-03"
-original_published_date: "2004-09-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-08-03"
-jci_1_3: "jci1.3:c:BWBR0017077&z=2004-08-03&g=2004-08-03"
-jci_1_0: "1.0:c:BWBR0017077&g=2004-08-03"
-citeertitel_status: "redactioneel"
-signed_date: "2004-08-03"
-entry_into_force: "2004-08-03"
+publicatiedatum: 2004-08-03
+laatste_update: 2004-08-03
+status: geldig
+toestand: 2004-08-03
+bron: "https://wetten.overheid.nl/BWBR0017077"
+opgehaald: 2026-08-08
 ---
-# Inkomstenbelasting, Vennootschapsbelasting, Emigrerende ondernemers; staking onderneming
 
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Inkomstenbelasting, Vennootschapsbelasting, Emigrerende ondernemers; staking onderneming
 
 Onderdeel 4 van het bestaande Besluit van 16 januari 2003, nr. CPP2002/3543M, is gedeeltelijk herschreven naar aanleiding van de arresten van de Hoge Raad van 12 december 2003, nrs. 37.490 en 38.538, V-N 2004/2.14 en 15. Verder is een aantal toevoegingen opgenomen. De wijzigingen en toevoegingen zijn voorzien van een revisiemarkering in de kantlijn. Het besluit wordt hierbij opnieuw uitgebracht.
 

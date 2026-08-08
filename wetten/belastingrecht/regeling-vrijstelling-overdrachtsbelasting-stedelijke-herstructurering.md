@@ -1,44 +1,17 @@
 ---
 title: "Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering"
 identifier: "BWBR0016402"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016402"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "5722673"
-version_id: "10223722"
-internal_id: "C29049201"
-label_id: "5702864"
-original_entry_into_force: "2004-02-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016402/2016-01-01/0"
-intitule_bron: "Stcrt.2004-37"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-02-18"
-intitule_published: "2004-02-24"
-intitule_in_force: "2004-02-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-37"
-original_signed_date: "2004-02-18"
-original_published_date: "2004-02-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-37-p12-SC63810"
-entry_into_force_date: "2004-02-26"
-jci_1_3: "jci1.3:c:BWBR0016402&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0016402&g=2016-01-01"
-citeertitel_status: "officieel"
-signed_date: "2004-02-18"
-entry_into_force: "2004-02-26"
+publicatiedatum: 2004-02-26
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0016402"
+opgehaald: 2026-08-08
 ---
+
 # Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering
-
-Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op [artikel 15, eerste lid, onderdeel o, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -93,5 +66,3 @@ Besluit:
 2. Deze regeling is van overeenkomstige toepassing ten aanzien van verkrijgingen van onroerende zaken na 1 januari 2003 en voor de datum van inwerkingtreding van deze regeling, indien een aanwijzing als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016402&artikel=2&z=2016-01-01&g=2016-01-01), heeft plaatsgevonden na de datum van inwerkingtreding van deze regeling.
 
 3. Deze regeling wordt aangehaald als: Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

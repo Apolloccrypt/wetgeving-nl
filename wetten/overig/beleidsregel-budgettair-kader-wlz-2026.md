@@ -8,7 +8,7 @@ laatste_update: 2026-08-04
 status: geldig
 toestand: 2026-08-04
 bron: "https://wetten.overheid.nl/BWBR0052956"
-opgehaald: 2026-08-07
+opgehaald: 2026-08-08
 ---
 
 # Beleidsregel budgettair kader Wlz 2026

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 19 maart 2004, houdende regels met betrekking tot het inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen (Besluit inzamelen afvalstoffen)"
+citeertitel: "Besluit inzamelen afvalstoffen"
 identifier: "BWBR0016530"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016530"
+categorie: "Milieu"
 soort: "AMvB"
-stam_id: "5802523"
-version_id: "24575382"
-internal_id: "C35192401"
-label_id: "5783034"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016530/2024-01-01/0"
-intitule_bron: "Stb.2004-127"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-03-19"
-intitule_published: "2004-03-31"
-intitule_in_force: "2004-04-27"
-intitule_status: "goed"
-original_publication: "Stb.2017-423"
-original_signed_date: "2017-10-24"
-original_published_date: "2017-11-10"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2017-423"
-entry_into_force_date: "2017-10-24"
-jci_1_3: "jci1.3:c:BWBR0016530&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0016530&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit inzamelen afvalstoffen"
-signed_date: "2017-10-24"
-entry_into_force: "2017-10-24"
+publicatiedatum: 2017-10-24
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0016530"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 19 maart 2004, houdende regels met betrekking tot het inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen (Besluit inzamelen afvalstoffen)
-
-Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 31 oktober 2003, nr. MJZ2003108190, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
-
-Gelet op [richtlijn nr. 75/442/EEG](31975L0442) van de Raad van de Europese Gemeenschappen van 15 juli 1975 betreffende afvalstoffen (PbEG L 194), zoals laatstelijk gewijzigd bij beschikking nr. 96/350/EG van de Commissie van de Europese Gemeenschappen van 24 mei 1996 houdende aanpassing ingevolge artikel 17 van de bijlagen II A en II B (PbEG L 135/32) en [richtlijn nr. 75/439/EEG](31975L0439) van de Raad van de Europese Gemeenschappen van 16 juni 1975 inzake de verwijdering van afgewerkte olie (PbEG L 194), zoals gewijzigd door [richtlijn nr. 87/101/EEG](31987L0101) van de Raad van de Europese Gemeenschappen van 22 december 1986 tot wijziging van [Richtlijn 75/439/EEG](31975L0439) inzake de verwijdering van afgewerkte olie (PbEG L 42), alsmede de [artikelen 10.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.45), [10.46](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.46) en [10.48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.48), in samenhang met [artikel 8.5, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.5);
-
-De Raad van State gehoord (advies van 23 januari 2004, no. W.08.03.0461/V);
-
-Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 maart 2004, nr. MJZ2004026130, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -52,41 +20,41 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit wordt verstaan onder:
 
-- a. beschikking nr. 2000/532/EG: beschikking nr. 2000/532/EG van de Commissie van de Europese Gemeenschappen van 3 mei 2000 tot vervanging van beschikking nr. 94/3/EG houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a), van [Richtlijn 75/442/EEG](31975L0442) van de Raad van de Europese Gemeenschappen betreffende afvalstoffen en Beschikking nr. 94/904/EG van de Raad van de Europese Unie tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, lid 4, van [Richtlijn nr. 91/689/EEG](31991L0689) van de Raad van de Europese Gemeenschappen betreffende gevaarlijke afvalstoffen (PbEG L 226/3);
+- a. beschikking nr. 2000/532/EG: beschikking nr. 2000/532/EG van de Commissie van de Europese Gemeenschappen van 3 mei 2000 tot vervanging van beschikking nr. 94/3/EG houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a), van Richtlijn 75/442/EEG van de Raad van de Europese Gemeenschappen betreffende afvalstoffen en Beschikking nr. 94/904/EG van de Raad van de Europese Unie tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, lid 4, van Richtlijn nr. 91/689/EEG van de Raad van de Europese Gemeenschappen betreffende gevaarlijke afvalstoffen (PbEG L 226/3);
 
 - b. afgewerkte olie: elke soort minerale of synthetische smeerolie of industriële olie die ongeschikt is geworden voor het gebruik waarvoor zij oorspronkelijk bestemd was, waaronder in ieder geval worden begrepen gebruikte olie van verbrandingsmotoren en versnellingsbakken, alsmede smeerolie, olie voor turbines en hydraulische oliën;
 
 - c. klein gevaarlijk afval: gevaarlijke afvalstoffen als bedoeld in een van de volgende categorieën waarvan de houder zich ontdoet door afgifte:
 
-- 1º. in een hoeveelheid van ten hoogste 200 kilogram per afvalstof per afgifte:
+   - 1º. in een hoeveelheid van ten hoogste 200 kilogram per afvalstof per afgifte:
 
-- –. laboratoriumchemicaliën;
+      - – laboratoriumchemicaliën;
 
-- –. restanten van de toepassing van amalgaam in de tandheelkunde;
+      - – restanten van de toepassing van amalgaam in de tandheelkunde;
 
-- –. afvalstoffen afkomstig van de toepassing van verven, lakken, beitsen en andere soortgelijke vloeibare en pasteuze middelen;
+      - – afvalstoffen afkomstig van de toepassing van verven, lakken, beitsen en andere soortgelijke vloeibare en pasteuze middelen;
 
-- –. fotografisch gevaarlijke afvalstoffen;
+      - – fotografisch gevaarlijke afvalstoffen;
 
-- –. zuren, logen, galvanische en etsbaden die zijn gebruikt voor de reiniging of bewerking van metaaloppervlakken, voor het opbrengen van een beschermende metaallaag op producten of halffabrikaten dan wel voor het ontlakken van geverfde producten;
+      - – zuren, logen, galvanische en etsbaden die zijn gebruikt voor de reiniging of bewerking van metaaloppervlakken, voor het opbrengen van een beschermende metaallaag op producten of halffabrikaten dan wel voor het ontlakken van geverfde producten;
 
-- 2°. in een hoeveelheid van ten hoogste 200 liter per afgifte in verpakking: afgewerkte olie, indien:
+   - 2°. in een hoeveelheid van ten hoogste 200 liter per afgifte in verpakking: afgewerkte olie, indien:
 
-- –. het gehalte aan polychloorbifenylen kleiner is dan of gelijk is aan 0,5 mg/kg (as received) per congeneer 28, 52, 101, 118, 138, 153 of 180;
+      - – het gehalte aan polychloorbifenylen kleiner is dan of gelijk is aan 0,5 mg/kg (as received) per congeneer 28, 52, 101, 118, 138, 153 of 180;
 
-- –. het gehalte aan organische halogeenverbindingen, berekend als chloor kleiner is dan of gelijk is aan 1.000 mg/kg (as received);
+      - – het gehalte aan organische halogeenverbindingen, berekend als chloor kleiner is dan of gelijk is aan 1.000 mg/kg (as received);
 
-- –. de olie na het gebruik waarvoor zij oorspronkelijk was bestemd niet vermengd is met andere stoffen, en
+      - – de olie na het gebruik waarvoor zij oorspronkelijk was bestemd niet vermengd is met andere stoffen, en
 
-- –. de olie na het gebruik waarvoor zij oorspronkelijk was bestemd, separaat is verzameld en opgeslagen;
+      - – de olie na het gebruik waarvoor zij oorspronkelijk was bestemd, separaat is verzameld en opgeslagen;
 
 - d. scheepsafvalstoffen: afvalstoffen die bij het in bedrijf zijn of het onderhoud van een schip aan boord ontstaan, bestaande uit:
 
-- 1º. bilgewater, afgewerkte olie en overige olie- en vethoudende afvalstoffen,
+   - 1º. bilgewater, afgewerkte olie en overige olie- en vethoudende afvalstoffen,
 
-- 2º. gevaarlijke afvalstoffen die vrijkomen bij reinigingswerkzaamheden,
+   - 2º. gevaarlijke afvalstoffen die vrijkomen bij reinigingswerkzaamheden,
 
-- 3º. andere afvalstoffen dan bedoeld onder 1° of 2°, voorzover het gevaarlijke afvalstoffen betreft;
+   - 3º. andere afvalstoffen dan bedoeld onder 1° of 2°, voorzover het gevaarlijke afvalstoffen betreft;
 
 - e. lijst van inzamelaars: lijst van inzamelaars als bedoeld in [artikel 10.45, eerste lid, onder a, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.45);
 
@@ -95,6 +63,16 @@ Hebben goedgevonden en verstaan:
 2. Een wijziging van de bijlage bij beschikking nr. 2000/532/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 #### § 1a. De inzameling en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+
+##### Artikel 1a
+
+Deze paragraaf berust op [artikel 10.47, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.47).
+
+##### Artikel 1b
+
+Bedrijfsafvalstoffen en gevaarlijke afvalstoffen die behoren tot een categorie van afvalstoffen als bedoeld in [bijlage II bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=II) en die gescheiden worden afgegeven, worden afzonderlijk ingezameld, tenzij in een vergunning, afgeven krachtens [artikel 10.48, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.48) anders is bepaald.
+
+#### § 2. Vermelding op de lijst van inzamelaars
 
 ##### Artikel 2
 
@@ -110,7 +88,7 @@ Een inzamelaar die staat vermeld op de lijst van inzamelaars, meldt een verander
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -118,7 +96,7 @@ De inzamelaar heeft tijdens het inzamelen een gewaarmerkte kopie, zichtbaar ten 
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -160,7 +138,7 @@ Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
 - a. een niet ouder dan drie maanden zijnde verklaring omtrent het gedrag, afgegeven overeenkomstig de bepalingen van de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195), van de natuurlijke persoon die permanent en daadwerkelijk leiding geeft aan het inzamelen, of indien de leiding bij meer personen berust, van ieder van hen,
 
-- b. een niet ouder dan drie maanden zijnd bewijs dat de natuurlijke persoon of rechtspersoon die inzamelt, of indien meer natuurlijke personen of rechtspersonen gezamenlijk als zodanig optreden, door hen gezamenlijk, ten minste € 18 000 in eigen vermogen heeft of hebben, aan te tonen met een door een accountant ondertekende verklaring inzake het minimaal aanwezige risicodragend kapitaal, en
+- b. een niet ouder dan drie maanden zijnd bewijs dat de natuurlijke persoon of rechtspersoon die inzamelt, of indien meer natuurlijke personen of rechtspersonen gezamenlijk als zodanig optreden, door hen gezamenlijk, ten minste € 18 000 in eigen vermogen heeft of hebben, aan te tonen met een door een accountant ondertekende verklaring inzake het minimaal aanwezige risicodragend kapitaal, en
 
 - c. een vakdiploma op het terrein van afvalstoffen dat is afgegeven door een instantie die door Onze Minister is erkend, ten behoeve van de natuurlijke persoon die permanent en daadwerkelijk leiding geeft aan het inzamelen, of indien de leiding bij meer personen berust, ten behoeve van ten minste een van hen.
 
@@ -168,7 +146,7 @@ Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
 - a. een gelijkwaardige niet ouder dan drie maanden zijnde verklaring omtrent betrouwbaarheid,
 
-- b. een gelijkwaardige niet ouder dan drie maanden zijnde verklaring omtrent financiële draagkracht, afgegeven door banken dan wel door andere organen die de in de aanhef bedoelde staat daartoe heeft aangewezen, waaruit blijkt dat de aanvrager ten minste € 18 000 in eigen vermogen heeft, en
+- b. een gelijkwaardige niet ouder dan drie maanden zijnde verklaring omtrent financiële draagkracht, afgegeven door banken dan wel door andere organen die de in de aanhef bedoelde staat daartoe heeft aangewezen, waaruit blijkt dat de aanvrager ten minste € 18 000 in eigen vermogen heeft, en
 
 - c. een door een daartoe bevoegde instantie afgegeven verklaring waaruit blijkt dat de natuurlijke persoon die permanent en daadwerkelijk leiding geeft aan het inzamelen, of indien de leiding bij meer personen berust, ten minste een van hen vakbekwaam is op het gebied van afvalstoffen.
 
@@ -176,7 +154,7 @@ Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
 - a. het registratienummer van de communautaire vergunning, bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=1.1), of van de vergunning, bedoeld in [artikel 7.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=7.1);
 
-- b. een kopie van een door een andere lidstaat van de Europese Unie afgegeven communautaire vergunning als bedoeld in [verordening (EEG) nr. 881/92](31992R0881) van de Raad van de Europese Gemeenschappen van 26 maart 1992 betreffende de toegang tot de markt van het goederenvervoer over de weg in de Gemeenschap van of naar het grondgebied van een Lid-Staat of over het grondgebied van een of meer Lid-Staten (PbEG L 95);
+- b. een kopie van een door een andere lidstaat van de Europese Unie afgegeven communautaire vergunning als bedoeld in verordening (EEG) nr. 881/92 van de Raad van de Europese Gemeenschappen van 26 maart 1992 betreffende de toegang tot de markt van het goederenvervoer over de weg in de Gemeenschap van of naar het grondgebied van een Lid-Staat of over het grondgebied van een of meer Lid-Staten (PbEG L 95);
 
 - c. een vergunning als bedoeld in [artikel 28, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=28) en een veiligheidscertificaat als bedoeld in [artikel 32, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32).
 
@@ -219,77 +197,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 17
 
 Dit besluit wordt aangehaald als: Besluit inzamelen afvalstoffen.
-
-##### Artikel 18
-
-Wijzigt het Besluit akkerbouwbedrijven milieubeheer.
-
-##### Artikel 19
-
-Wijzigt het Besluit melkrundveehouderijen milieubeheer.
-
-##### Artikel 20
-
-Wijzigt het Besluit opslaan in ondergrondse tanks 1998.
-
-##### Artikel 21
-
-Wijzigt het Besluit tuinbouwbedrijven met bedekte teelt milieubeheer.
-
-##### Artikel 22
-
-Wijzigt het Besluit voorzieningen en installaties milieubeheer.
-
-##### Artikel 23
-
-Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.
-
-##### Artikel 24
-
-Wijzigt het Lozingenbesluit Wvo bodemsanering en proefbronnering.
-
-##### Artikel 25
-
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 26
-
-Dit besluit wordt aangehaald als: Besluit inzamelen afvalstoffen.
-
-## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2005-01-01&g=2005-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2005-01-01&g=2005-01-01) van het Besluit inzamelen afvalstoffen
-
-### Categorieën van afgewerkte olie
-
-I. Afgewerkte olie behoort tot categorie I, indien:
-
-II. Afgewerkte olie behoort tot categorie II, indien:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2013-01-01&g=2013-01-01) van het Besluit inzamelen afvalstoffen
-
-### Categorieën van afgewerkte olie
-
-I. Afgewerkte olie behoort tot categorie I, indien:
-
-II. Afgewerkte olie behoort tot categorie II, indien:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Deze paragraaf berust op [artikel 10.47, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.47).
-
-##### Artikel 1b
-
-Bedrijfsafvalstoffen en gevaarlijke afvalstoffen die behoren tot een categorie van afvalstoffen als bedoeld in [bijlage II bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=II) en die gescheiden worden afgegeven, worden afzonderlijk ingezameld, tenzij in een vergunning, afgeven krachtens [artikel 10.48, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.48) anders is bepaald.
-
-#### § 2. Vermelding op de lijst van inzamelaars
-
-#### § 3. Inzamelvergunning
-
-#### § 4. Overgangs- en slotbepalingen
-
-## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) van het Besluit inzamelen afvalstoffen
-
-Vervallen

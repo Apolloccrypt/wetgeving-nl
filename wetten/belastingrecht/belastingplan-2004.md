@@ -1,89 +1,66 @@
 ---
 title: "Wet van 18 december 2003, houdende wijziging van enkele belastingwetten c.a. (Belastingplan 2004)"
+citeertitel: "Belastingplan 2004"
 identifier: "BWBR0016206"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016206"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "5586523"
-version_id: "10046882"
-internal_id: "C13566891"
-label_id: "5557974"
-original_entry_into_force: "2004-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016206/2013-01-01/0"
-intitule_bron: "Stb.2003-526"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-12-18"
-intitule_published: "2003-12-29"
-intitule_in_force: "2003-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2003-526"
-original_signed_date: "2003-12-18"
-original_published_date: "2003-12-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "29210"
-original_url_id: "stb-2003-526"
-entry_into_force_date: "2004-01-01"
-entry_into_force_dossier: "29210"
-jci_1_3: "jci1.3:c:BWBR0016206&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0016206&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Belastingplan 2004"
-signed_date: "2003-12-18"
-entry_into_force: "2004-01-01"
+publicatiedatum: 2004-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0016206"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 18 december 2003, houdende wijziging van enkele belastingwetten c.a. (Belastingplan 2004)
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IV
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IX
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel X
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel XI
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel XII
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XIII
 
@@ -99,41 +76,41 @@ Wijzigt de Wet op de accijns.
 
 ##### Artikel XV
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XVI
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XVII
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XIX
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XX
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XXI
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XXII
 
-Wijzigt de Wet werk en bijstand.
+*Wijzigt de Wet werk en bijstand.*
 
 ##### Artikel XXIII
 
 1. Indien het ingevolge de Zesde Richtlijn van de Raad van 17 mei 1977 betreffende de harmonisatie van de wetgevingen der Lid-Staten inzake omzetbelasting – Gemeenschappelijk stelsel van belasting over de toegevoegde waarde: uniforme grondslag (nr. 77/388/EEG, PbEG nr. L 145 van 13 juni 1977), met ingang van 1 januari 2004 niet langer mogelijk is het BTW-tarief, bedoeld in [artikel 9, tweede lid, onderdeel a, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9), toe te passen voor een of meer van de diensten genoemd in de bij [genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) behorende [tabel I, onderdeel b, onder 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), brengt Onze Minister van Financiën bij ministeriële regeling een wijziging aan in [genoemde tabel](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), zodanig dat in die [tabel](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I) de diensten waar het om gaat met ingang van 1 januari 2004 vervallen.
 
-2. Indien het in de eerste drie kalendermaanden van 2004 ingevolge de in het eerste lid genoemde [Richtlijn 77/388/EEG](31977L0388) opnieuw mogelijk wordt een of meer van de in genoemde [tabel I, onderdeel b, onder 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), zoals die luidt op 31 december 2003, genoemde diensten te laten vallen onder de toepassing van het in het eerste lid bedoelde tarief, brengt Onze Minister van Financiën bij ministeriële regeling een wijziging aan in genoemde [tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), zodanig dat de diensten waar het om gaat opnieuw in die tabel worden opgenomen.
+2. Indien het in de eerste drie kalendermaanden van 2004 ingevolge de in het eerste lid genoemde Richtlijn 77/388/EEG opnieuw mogelijk wordt een of meer van de in genoemde [tabel I, onderdeel b, onder 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), zoals die luidt op 31 december 2003, genoemde diensten te laten vallen onder de toepassing van het in het eerste lid bedoelde tarief, brengt Onze Minister van Financiën bij ministeriële regeling een wijziging aan in genoemde [tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), zodanig dat de diensten waar het om gaat opnieuw in die tabel worden opgenomen.
 
 ##### Artikel XXIV
 
@@ -141,7 +118,7 @@ Wijzigt de Wet werk en bijstand.
 
 ##### Artikel XXV
 
-Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
+*Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.*
 
 ##### Artikel XXVI
 
@@ -161,7 +138,7 @@ C. Vervallen
 
 ##### Artikel XXVII
 
-Wijzigt de Wijzigingswet Wet belastingen op milieugrondslag en Wet op de accijns (implementatie richtlijn Energiebelastingen).
+*Wijzigt de Wijzigingswet Wet belastingen op milieugrondslag en Wet op de accijns (implementatie richtlijn Energiebelastingen).*
 
 ##### Artikel XXVIII
 
@@ -169,7 +146,7 @@ Vervallen.
 
 ##### Artikel XXIX
 
-Wijzigt de Elektriciteitswet 1998.
+*Wijzigt de Elektriciteitswet 1998.*
 
 ##### Artikel XXX
 
@@ -200,13 +177,3 @@ Ingeval een in [artikel 5, eerste lid, onderdeel b, van de Wet op de vennootscha
 ##### Artikel XXXII
 
 Deze wet wordt aangehaald als: Belastingplan 2004.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2004 wenselijk is maatregelen te treffen op het gebied van arbeidsmarkt- en inkomensbeleid, kennis en scholing, eigenwoningbezit, mobiliteit, vermindering van administratieve lasten, alsmede enkele overige maatregelen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

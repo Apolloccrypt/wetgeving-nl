@@ -1,42 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 4 november 2004, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van voedergewassen in Nederland voor het jaar 2005 (Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2005)"
+citeertitel: "Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2005"
 identifier: "BWBR0017433"
-country: "nl"
-rank: "pbo"
-publication_date: "2005-05-01"
-last_updated: "2005-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017433"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "7012313"
-version_id: "11889752"
-internal_id: "C29163991"
-label_id: "7000434"
-original_entry_into_force: "2005-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017433/2005-05-01/0"
-intitule_bron: "Vbbo.2005-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-04"
-intitule_published: "2005-04-29"
-intitule_in_force: "2005-04-29"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-21"
-original_signed_date: "2004-11-04"
-original_published_date: "2005-04-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-05-01"
-jci_1_3: "jci1.3:c:BWBR0017433&z=2005-05-01&g=2005-05-01"
-jci_1_0: "1.0:c:BWBR0017433&g=2005-05-01"
-citeertitel_status: "officieel"
-short_title: "Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2005"
-signed_date: "2004-11-04"
-entry_into_force: "2005-05-01"
+publicatiedatum: 2005-05-01
+laatste_update: 2005-05-01
+status: geldig
+toestand: 2005-05-01
+bron: "https://wetten.overheid.nl/BWBR0017433"
+opgehaald: 2026-08-08
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 4 november 2004, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van voedergewassen in Nederland voor het jaar 2005 (Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2005)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=8) en [19 van het Instellingsbesluit akkerbouwproductschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=19);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -44,12 +20,12 @@ Besluit:
 
 Deze verordening verstaat onder:
 
-| a. productschap | : Productschap Granen, Zaden en Peulvruchten; |   |
-| --- | --- | --- |
-| b. secretaris | : secretaris van het productschap; |   |
-| c. ondernemer | : natuurlijke- of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |   |
-| d. voedergewassen | : voederbieten, mergkool, stoppelknollen, grassen, bladkool, mais (excl. suikermais), klaver, luzerne, bladrammenas (Raphanus sativus var. oleiferus), duizendkoppige kool (Brassica oleracea var. laciniata), lupine (Lupinus spec.) serradella (Ornithopus sativus), spurrie (Spergula arvensis var. sativa), voederwikke (Vicia sativa), voederwortel (Daucus carota), gele mosterd (Sinapis alba), phacelia (Phacelia tanacetifolia) en zandwikke (Vicia villosa); |   |
-| e. omzet | : de financiële jaaromzet behaald over zaaizaad van de producten, genoemd onder d, exclusief de rechten verkregen uit licenties uit het buitenland. |   |
+| a. productschap | : Productschap Granen, Zaden en Peulvruchten; |
+| --- | --- |
+| b. secretaris | : secretaris van het productschap; |
+| c. ondernemer | : natuurlijke- of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
+| d. voedergewassen | : voederbieten, mergkool, stoppelknollen, grassen, bladkool, mais (excl. suikermais), klaver, luzerne, bladrammenas (Raphanus sativus var. oleiferus), duizendkoppige kool (Brassica oleracea var. laciniata), lupine (Lupinus spec.) serradella (Ornithopus sativus), spurrie (Spergula arvensis var. sativa), voederwikke (Vicia sativa), voederwortel (Daucus carota), gele mosterd (Sinapis alba), phacelia (Phacelia tanacetifolia) en zandwikke (Vicia villosa); |
+| e. omzet | : de financiële jaaromzet behaald over zaaizaad van de producten, genoemd onder d, exclusief de rechten verkregen uit licenties uit het buitenland. |
 
 #### § 2. Heffing
 
@@ -57,15 +33,18 @@ Deze verordening verstaat onder:
 
 1. De ondernemer, die in het jaar 2005 werkzaamheden verricht in het kweekbedrijf voor zaaizaad van voedergewassen en/of met betrekking tot de be- en verwerking en/of met betrekking tot het in de handel brengen van zaaizaad van voedergewassen, is verplicht aan het productschap te betalen:
 
-- a. een basisheffing volgens onderstaand tarief: Voor de berekening van de basisheffing wordt gebruik gemaakt van het in het derde lid verstrekte omzetgegeven, verminderd met het omzetbedrag dat is behaald over door de ondernemer geïmporteerde producten uit andere lidstaten.
-
-| omzet | heffing |
-| --- | --- |
-| €20.000 - 200.000 | € 68,07 |
-| €200.000 - 1.000.000 | € 340,34 |
-| €1.000.000 - 2.000.000 | € 680,67 |
-| €2.000.000-4.000.000 | €1.361,34 |
-| > €4.000.000 | € 6.806,70 |
+- a. een basisheffing volgens onderstaand tarief: omzet
+ heffing
+ €20.000 - 200.000
+ € 68,07
+ €200.000 - 1.000.000
+ € 340,34
+ €1.000.000 - 2.000.000
+ € 680,67
+ €2.000.000-4.000.000
+ €1.361,34
+ > €4.000.000
+ € 6.806,70 Voor de berekening van de basisheffing wordt gebruik gemaakt van het in het derde lid verstrekte omzetgegeven, verminderd met het omzetbedrag dat is behaald over door de ondernemer geïmporteerde producten uit andere lidstaten.
 
 - b. een heffing van € 0,-- per ha aangekocht zaaizaad van voedergewassen, dat op contractbasis in Nederland is geteeld.
 

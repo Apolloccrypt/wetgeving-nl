@@ -1,66 +1,38 @@
 ---
 title: "Wet van 10 november 2004 tot wijziging van het Wetboek van Strafvordering, het Wetboek van Strafrecht en de Wet op de rechterlijke organisatie in verband met het horen van getuigen en enkele verwante onderwerpen"
+citeertitel: "Wijzigingswet Wetboek van Strafvordering, enz. (horen van getuigen en verwante onderwerpen)"
 identifier: "BWBR0017478"
-country: "nl"
-rank: "wet"
-publication_date: "2005-01-01"
-last_updated: "2005-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017478"
+categorie: "Strafrecht"
 soort: "wet"
-stam_id: "6331693"
-version_id: "10984802"
-internal_id: "C15039551"
-label_id: "6320564"
-original_entry_into_force: "2005-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017478/2005-01-01/0"
-intitule_bron: "Stb.2004-579"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-10"
-intitule_published: "2004-11-16"
-intitule_in_force: "2004-12-16"
-intitule_status: "goed"
-original_publication: "Stb.2004-579"
-original_signed_date: "2004-11-10"
-original_published_date: "2004-11-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "29254"
-original_url_id: "stb-2004-579"
-entry_into_force_date: "2005-01-01"
-jci_1_3: "jci1.3:c:BWBR0017478&z=2005-01-01&g=2005-01-01"
-jci_1_0: "1.0:c:BWBR0017478&g=2005-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wetboek van Strafvordering, enz. (horen van getuigen en verwante onderwerpen)"
-signed_date: "2004-11-10"
-entry_into_force: "2005-01-01"
+publicatiedatum: 2005-01-01
+laatste_update: 2005-01-01
+status: geldig
+toestand: 2005-01-01
+bron: "https://wetten.overheid.nl/BWBR0017478"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 10 november 2004 tot wijziging van het Wetboek van Strafvordering, het Wetboek van Strafrecht en de Wet op de rechterlijke organisatie in verband met het horen van getuigen en enkele verwante onderwerpen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is te bevorderen dat beslissingen die ter terechtzitting genomen zijn inzake het horen van getuigen tijdens het vervolg van de berechting effect blijven sorteren, en ook overigens enkele wijzigingen aan te brengen met het oog op een doelmatige berechting van strafzaken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel II
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
 ##### Artikel IIIa
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel IV
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel V
 
@@ -71,5 +43,3 @@ Wijzigt deze wet.
 ##### Artikel VI
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

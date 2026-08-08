@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van het ProductschapTuinbouw van 1 juli 2004, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing in het jaar 2005 (Verordening PT vakheffing boomkwekerijproducten 2005)"
+citeertitel: "Verordening PT vakheffing boomkwekerijproducten 2005"
 identifier: "BWBR0016967"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-11-06"
-last_updated: "2004-11-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016967"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6723073"
-version_id: "11573342"
-internal_id: "C15597691"
-label_id: "6711544"
-original_entry_into_force: "2004-11-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016967/2004-11-06/0"
-intitule_bron: "Vbbo.2004-66"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-01"
-intitule_published: "2004-11-05"
-intitule_in_force: "2004-11-05"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-66"
-original_signed_date: "2004-07-01"
-original_published_date: "2004-11-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-11-06"
-jci_1_3: "jci1.3:c:BWBR0016967&z=2004-11-06&g=2004-11-06"
-jci_1_0: "1.0:c:BWBR0016967&g=2004-11-06"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing boomkwekerijproducten 2005"
-signed_date: "2004-07-01"
-entry_into_force: "2004-11-06"
+publicatiedatum: 2004-11-06
+laatste_update: 2004-11-06
+status: geldig
+toestand: 2004-11-06
+bron: "https://wetten.overheid.nl/BWBR0016967"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het ProductschapTuinbouw van 1 juli 2004, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing in het jaar 2005 (Verordening PT vakheffing boomkwekerijproducten 2005)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Sectorcommissie voor boomkwekerijproducten, d.d 12 mei 2004;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -137,7 +109,7 @@ De invorderingskosten voortvloeiende uit het niet betalen binnen de gestelde ter
 
 ##### Artikel 10
 
-Indien en voor zover de ondernemer boomkwekerijproducten heeft verhandeld en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de [Verordening PT vakheffing bloemkwekerijproducten 2004](onbekend), worden deze bedragen aangemerkt als voorschotten op de ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016967&paragraaf=2&artikel=2&z=2004-11-06&g=2004-11-06) verschuldigde heffing.
+Indien en voor zover de ondernemer boomkwekerijproducten heeft verhandeld en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de Verordening PT vakheffing bloemkwekerijproducten 2004, worden deze bedragen aangemerkt als voorschotten op de ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016967&paragraaf=2&artikel=2&z=2004-11-06&g=2004-11-06) verschuldigde heffing.
 
 ##### Artikel 11
 
@@ -158,5 +130,3 @@ Deze verordening treedt in werking met ingang van de dag na de datum van publica
 ##### Artikel 14
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing boomkwekerijproducten 2005 .
-
-De verordening en de daarbij horende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

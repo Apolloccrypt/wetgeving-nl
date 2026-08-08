@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 15 september 2004 tot vaststelling van de rechtspositie van de voorzitter en de leden van de Wetenschappelijke Raad voor het Regeringsbeleid (Rechtspositiebesluit WRR 2004)"
+citeertitel: "Rechtspositiebesluit WRR 2004"
 identifier: "BWBR0017208"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017208"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "6171673"
-version_id: "10843732"
-internal_id: "C14706751"
-label_id: "6160834"
-original_entry_into_force: "2004-10-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017208/2020-01-01/0"
-intitule_bron: "Stb.2004-489"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-09-15"
-intitule_published: "2004-10-05"
-intitule_in_force: "2004-10-05"
-intitule_status: "goed"
-original_publication: "Stb.2004-489"
-original_signed_date: "2004-09-15"
-original_published_date: "2004-10-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2004-489"
-entry_into_force_date: "2004-10-06"
-jci_1_3: "jci1.3:c:BWBR0017208&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0017208&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Rechtspositiebesluit WRR 2004"
-signed_date: "2004-09-15"
-entry_into_force: "2004-10-06"
+publicatiedatum: 2004-10-06
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0017208"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 15 september 2004 tot vaststelling van de rechtspositie van de voorzitter en de leden van de Wetenschappelijke Raad voor het Regeringsbeleid (Rechtspositiebesluit WRR 2004)
-
-Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, van 25 juni 2004, nr. 04M466956;
-
-Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) en [artikel 5 van de Instellingswet W.R.R.](https://wetten.overheid.nl/jci1.3:c:BWBR0003043&artikel=5);
-
-De Raad van State gehoord (advies van 23 juli 2004, nr. W01.04.0319/I);
-
-Gezien het nader rapport van Onze Minister-President, Minister van Algemene Zaken, van 9 september 2004, nr. 04M468673;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -144,5 +113,3 @@ Het Rechtspositiebesluit WRR van 14 augustus 1976 wordt ingetrokken.
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Rechtspositiebesluit WRR 2004.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

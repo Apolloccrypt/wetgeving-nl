@@ -1,53 +1,22 @@
 ---
 title: "Besluit van 27 september 2004, houdende wijziging van het Besluit trekkende bevolking WPO in verband met vernieuwing van het bekostigingssysteem voor de school voor varende kinderen"
+citeertitel: "Wijzigingsbesluit Besluit trekkende bevolking WPO, enz. (bekostigingssysteem school voor varende kinderen)"
 identifier: "BWBR0017250"
-country: "nl"
-rank: "amvb"
-publication_date: "2004-12-29"
-last_updated: "2004-12-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017250"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "6234403"
-version_id: "10907652"
-internal_id: "C15260401"
-label_id: "6223444"
-original_entry_into_force: "2004-12-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017250/2004-12-29/0"
-intitule_bron: "Stb.2004-524"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-09-27"
-intitule_published: "2004-10-26"
-intitule_in_force: "2004-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2004-524"
-original_signed_date: "2004-09-27"
-original_published_date: "2004-10-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2004-524"
-entry_into_force_date: "2004-12-29"
-jci_1_3: "jci1.3:c:BWBR0017250&z=2004-12-29&g=2004-12-29"
-jci_1_0: "1.0:c:BWBR0017250&g=2004-12-29"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsbesluit Besluit trekkende bevolking WPO, enz. (bekostigingssysteem school voor varende kinderen)"
-signed_date: "2004-09-27"
-entry_into_force: "2004-12-29"
+publicatiedatum: 2004-12-29
+laatste_update: 2004-12-29
+status: geldig
+toestand: 2004-12-29
+bron: "https://wetten.overheid.nl/BWBR0017250"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 27 september 2004, houdende wijziging van het Besluit trekkende bevolking WPO in verband met vernieuwing van het bekostigingssysteem voor de school voor varende kinderen
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 29 juni 2004, nr. WJZ/2004/30636 (2613), directie Wetgeving en Juridische Zaken;
-
-Gelet op [artikel 185 van de Wet op het primair onderwijs](onbekend);
-
-De Raad van State gehoord (advies van 2 september 2004, nr. W05.04.0346/III);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 21 september 2004, nr. WJZ/2004/43171 (2613), directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Wijzigt het Besluit trekkende bevolking WPO.
+*Wijzigt het Besluit trekkende bevolking WPO.*
 
 ##### Artikel II. Overgangsrecht overdracht gebouwen, terreinen en roerende zaken scholen gehuisvest in een gebouw
 
@@ -57,7 +26,7 @@ Wijzigt het Besluit trekkende bevolking WPO.
 
 ##### Artikel III. Overgangsbepaling huisvestingskosten en vergoeding materiële instandhouding scholen gehuisvest in een gebouw
 
-1. Wijzigt het Wijzigingsbesluit Besluit trekkende bevolking WPO, enz. (decentralisatie van huisvestingsvoorzieningen).
+1. *Wijzigt het Wijzigingsbesluit Besluit trekkende bevolking WPO, enz. (decentralisatie van huisvestingsvoorzieningen).*
 
 2. [Artikel VII, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VII), bedoeld in het eerste lid, blijft van toepassing op de tijdvakken waarvoor het gelding had. Op geschillen die met betrekking tot dit [artikel VII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VII), zoals het luidde op de dag voor de inwerkingtreding van dit besluit, op die datum in bezwaar of beroep aanhangig zijn of na die datum binnen de bezwaar- of beroepstermijn aanhangig zijn gemaakt, blijven de op die datum geldende regelingen van toepassing. De tweede volzin is van overeenkomstige toepassing op de bevoegdheid tot het intrekken en vervangen van besluiten die tot de aldaar bedoelde geschillen hebben geleid.
 
@@ -65,7 +34,7 @@ Wijzigt het Besluit trekkende bevolking WPO.
 
 ##### Artikel IV. Vervreemding, bezwaring en overdracht
 
-1. Indien gebouwen, terreinen, vaartuigen of andere roerende zaken, ten behoeve waarvan bekostiging wordt genoten, geheel of gedeeltelijk aan hun bestemming worden onttrokken, of met toestemming van Onze Minister worden vervreemd, anders dan bedoeld in [artikel 56 van de wet](onbekend), dan wel indien de bekostiging wordt beëindigd, is het bevoegd gezag aan het Rijk een bedrag verschuldigd. Het bevoegd gezag kan, buiten het geval van vervreemding, in plaats van betaling van dit bedrag de eigendom van die gebouwen, terreinen of roerende zaken anders dan vaartuigen, binnen 4 maanden aan het Rijk overdragen.
+1. Indien gebouwen, terreinen, vaartuigen of andere roerende zaken, ten behoeve waarvan bekostiging wordt genoten, geheel of gedeeltelijk aan hun bestemming worden onttrokken, of met toestemming van Onze Minister worden vervreemd, anders dan bedoeld in artikel 56 van de wet, dan wel indien de bekostiging wordt beëindigd, is het bevoegd gezag aan het Rijk een bedrag verschuldigd. Het bevoegd gezag kan, buiten het geval van vervreemding, in plaats van betaling van dit bedrag de eigendom van die gebouwen, terreinen of roerende zaken anders dan vaartuigen, binnen 4 maanden aan het Rijk overdragen.
 
 2. Onze Minister stelt na overleg met het bevoegd gezag het bedrag, bedoeld in het eerste lid, vast op de grondslag van de waarde van de gebouwen, terreinen, vaartuigen of andere roerende zaken, de door het bevoegd gezag daarvoor ontvangen bekostiging en de uit eigen middelen bestede gelden.
 
@@ -75,10 +44,8 @@ Het Rijk kan met het bestuur van de gemeenten Dordrecht, Terneuzen en Zwolle een
 
 ##### Artikel VI. Afhandeling lopende bezwaren en beroepen
 
-De ingevolge dit besluit gewijzigde artikelen van het [Besluit trekkende bevolking WPO](onbekend), zoals die artikelen luidden op de dag voor de inwerkingtreding van dit besluit, blijven van toepassing op de tijdvakken waarvoor zij gelding hadden. Op geschillen die met betrekking tot de ingevolge dit besluit gewijzigde artikelen van het [Besluit trekkende bevolking WPO](onbekend), zoals die artikelen luidden op de dag voor de inwerkingtreding van dit besluit, op die datum in bezwaar of beroep aanhangig zijn of na die datum binnen de bezwaar- of beroepstermijn aanhangig zijn gemaakt, blijven de op die datum geldende regelingen van toepassing. De tweede volzin is van overeenkomstige toepassing op de bevoegdheid tot het intrekken en vervangen van besluiten die tot de aldaar bedoelde geschillen hebben geleid.
+De ingevolge dit besluit gewijzigde artikelen van het Besluit trekkende bevolking WPO, zoals die artikelen luidden op de dag voor de inwerkingtreding van dit besluit, blijven van toepassing op de tijdvakken waarvoor zij gelding hadden. Op geschillen die met betrekking tot de ingevolge dit besluit gewijzigde artikelen van het Besluit trekkende bevolking WPO, zoals die artikelen luidden op de dag voor de inwerkingtreding van dit besluit, op die datum in bezwaar of beroep aanhangig zijn of na die datum binnen de bezwaar- of beroepstermijn aanhangig zijn gemaakt, blijven de op die datum geldende regelingen van toepassing. De tweede volzin is van overeenkomstige toepassing op de bevoegdheid tot het intrekken en vervangen van besluiten die tot de aldaar bedoelde geschillen hebben geleid.
 
 ##### Artikel VII. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

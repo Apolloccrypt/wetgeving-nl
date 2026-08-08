@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 17 december 2004, houdende regels betreffende asbest en asbesthoudende producten (Productenbesluit asbest)"
+citeertitel: "Productenbesluit asbest"
 identifier: "BWBR0017778"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017778"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "6590763"
-version_id: "11431112"
-internal_id: "C15762421"
-label_id: "6579314"
-original_entry_into_force: "2005-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017778/2024-01-01/0"
-intitule_bron: "Stb.2005-6"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-17"
-intitule_published: "2005-01-11"
-intitule_in_force: "2005-03-03"
-intitule_status: "goed"
-original_publication: "Stb.2005-6"
-original_signed_date: "2004-12-17"
-original_published_date: "2005-01-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2005-6"
-entry_into_force_date: "2005-03-08"
-jci_1_3: "jci1.3:c:BWBR0017778&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0017778&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Productenbesluit asbest"
-signed_date: "2004-12-17"
-entry_into_force: "2005-03-08"
+publicatiedatum: 2005-03-08
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0017778"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 17 december 2004, houdende regels betreffende asbest en asbesthoudende producten (Productenbesluit asbest)
-
-Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Staatssecretaris van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport van 6 juli 2004, nr. MJZ2004060995, Centrale Directie Juridische Zaken, Afdeling Wetgeving, gedaan in overeenstemming met Onze Minister van Economische Zaken;
-
-Gelet op artikel 5 van [richtlijn nr. 83/477/EEG](31983L0477) van de Raad van 19 september 1983 betreffende de bescherming van werknemers tegen de risico's van blootstelling aan asbest op het werk (PbEG L 263), artikel 3 van [richtlijn nr. 83/478/EEG](31983L0478) van de Raad van 19 september 1983 (PbEG L 263), houdende vijfde wijziging (asbest) van [richtlijn nr. 76/769/EEG](31976L0769) van de Raad betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der lidstaten inzake de beperking van het op de markt brengen en van het gebruik van bepaalde gevaarlijke stoffen en preparaten, artikel 7, eerste gedachtestreepje, van [richtlijn nr. 87/217/EEG](31987L0217) van de Raad van 19 maart 1987 inzake voorkoming en vermindering van verontreiniging van het milieu door asbest (PbEG L 85), artikel 2, vijfde lid, tweede volzin, en zesde lid, eerste volzin, van [richtlijn nr. 98/12/EG](31998L0012) van de Commissie van 27 januari 1998 (PbEG L 81) tot aanpassing aan de technische vooruitgang van [richtlijn nr. 71/320/EEG](31971L0320) van de Raad inzake de onderlinge aanpassing van de wetgevingen van de lidstaten betreffende de reminrichtingen van bepaalde categorieën motorvoertuigen en aanhangwagens daarvan, [richtlijn nr. 1999/77/EG](31999L0077) van de Commissie van 26 juli 1999 (PbEG L 207) tot zesde aanpassing aan de technische vooruitgang van bijlage I bij [richtlijn nr. 76/769/EEG](31976L0769), artikel 3, tweede lid, tweede volzin, van [richtlijn nr. 2002/78/EG](32002L0078) van de Commissie van 1 oktober 2002 (PbEG L 267) tot aanpassing aan de technische vooruitgang van [richtlijn nr. 71/320/EEG](31971L0320), artikel 1, vijfde lid, van [richtlijn nr. 2003/18/EG](32003L0018) van het Europese Parlement en de Raad van 27 maart 2003 (PbEU L 97) tot wijziging van [richtlijn 83/477/EEG](31983L0477) van de Raad betreffende de bescherming van werknemers tegen de risico’s van blootstelling van asbest op het werk, de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24) en [39, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=39), de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) en [33, tweede lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=33) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14) en [32b van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b);
-
-De Raad van State gehoord (advies van 6 september 2004, nr. W08.04.0331/V);
-
-Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Staatssecretaris van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport van 15 december 2004, nr. MJZ 2004118121, Directie Juridische Zaken, Afdeling Wetgeving, uitgebracht in overeenstemming met Onze Minister van Economische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen en werkingssfeer
 
@@ -73,9 +42,9 @@ Dit besluit is niet van toepassing op:
 
 - e. het verwijderen van asbest bij sloopwerkzaamheden aan bouwwerken als bedoeld in [artikel 7.1 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=7.1);
 
-- f. het herschikken van verontreinigde grond als bedoeld in [artikel 4.1241, vijfde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1241), tenzij aan die grond opzettelijk asbest is toegevoegd;
+- f. het herschikken van verontreinigde grond als bedoeld in [artikel 4.1241, vijfde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1241), tenzij aan die grond opzettelijk asbest is toegevoegd;
 
-- g. het tijdelijk uitnemen van grond als bedoeld in [artikel 4.1222a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1222a) of [4.1230a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1230a), tenzij aan die grond opzettelijk asbest is toegevoegd.
+- g. het tijdelijk uitnemen van grond als bedoeld in [artikel 4.1222a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1222a) of [4.1230a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1230a), tenzij aan die grond opzettelijk asbest is toegevoegd.
 
 ##### Artikel 3
 
@@ -85,11 +54,11 @@ Dit besluit is niet van toepassing op:
 
 - b. ten aanzien van militaire vaartuigen, militaire luchtvaartuigen, bemande wapensystemen en eenheden met gereedstelling:
 
-- 1°. voorzover afwijking van dit besluit naar het oordeel van Onze Minister van Defensie noodzakelijk is in verband met de bouw, constructie, inrichting of uitrusting van deze vaartuigen en wapensystemen;
+   - 1°. voorzover afwijking van dit besluit naar het oordeel van Onze Minister van Defensie noodzakelijk is in verband met de bouw, constructie, inrichting of uitrusting van deze vaartuigen en wapensystemen;
 
-- 2°. indien oorlogsschepen varen en indien militaire luchtvaartuigen en bemande wapensystemen als zodanig in gebruik zijn;
+   - 2°. indien oorlogsschepen varen en indien militaire luchtvaartuigen en bemande wapensystemen als zodanig in gebruik zijn;
 
-- 3°. voorzover de operationele taakuitvoering van deze vaartuigen en wapensystemen of van de eenheden met gereedstelling naar het oordeel van Onze Minister van Defensie door de toepassing van dit besluit wordt belemmerd.
+   - 3°. voorzover de operationele taakuitvoering van deze vaartuigen en wapensystemen of van de eenheden met gereedstelling naar het oordeel van Onze Minister van Defensie door de toepassing van dit besluit wordt belemmerd.
 
 2. Onder militaire vaartuigen, militaire luchtvaartuigen, bemande wapensystemen en eenheden met gereedstelling wordt verstaan hetgeen daaronder wordt verstaan in [artikel 1.5 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5).
 
@@ -127,11 +96,11 @@ Het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR00177
 
 ##### Artikel 7
 
-1. Asbesthoudende producten die in handelsvoorraden voorhanden zijn, aan een ander ter beschikking worden gesteld of worden toegepast, zijn voorzien van aanduidingen overeenkomstig de bijlage bij dit besluit.
+1. Asbesthoudende producten die in handelsvoorraden voorhanden zijn, aan een ander ter beschikking worden gesteld of worden toegepast, zijn voorzien van aanduidingen overeenkomstig de [bijlage](https://wetten.overheid.nl/BWBR0017778) bij dit besluit.
 
 2. Het eerste lid is niet van toepassing op bouwwerken, constructies, installaties en transportmiddelen.
 
-#### § 4. Bijzondere regels op grond van de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
+#### § 4. Bijzondere regels op grond van de Arbeidsomstandighedenwet
 
 ##### Artikel 8
 
@@ -145,15 +114,15 @@ De handeling of het nalaten in strijd met het ter uitvoering van [artikel 16, de
 
 ##### Artikel 10
 
-Wijzigt het Arbeidsomstandighedenbesluit.
+*Wijzigt het Arbeidsomstandighedenbesluit.*
 
 ##### Artikel 11
 
-Wijzigt het Asbest-verwijderingsbesluit.
+*Wijzigt het Asbest-verwijderingsbesluit.*
 
 ##### Artikel 12
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.
+*Wijzigt het Warenwetbesluit bestuurlijke boeten.*
 
 #### § 6. Overgangs- en slotbepalingen
 
@@ -178,55 +147,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 17
 
 Dit besluit wordt aangehaald als: Productenbesluit asbest.
-
-## Bijlage. behorend bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01)
-
-De aanduiding van asbesthoudende producten geschiedt als volgt.
-
-- 1. Asbesthoudende producten zijn voorzien van een figuur zoals hierna omschreven:
-
-- a. de aan het hieronder staande model gelijkvormige figuur is ten minste 5 cm hoog (H) en 2,5 cm breed;
-
-- b. de figuur bestaat uit twee delen:
-
-- –. het bovendeel (h1 = 40% H) bevat een witte letter «a» tegen een zwarte achtergrond;
-
-- –. het benedendeel (h2 = 60% H) bevat de in de figuur weergegeven standaardtekst in witte of zwarte letters tegen een rode achtergrond; de tekst moet goed leesbaar zijn;
-
-- c. indien het product crocidoliet bevat, wordt de aanduiding «bevat asbest» van de standaardtekst vervangen door de volgende aanduiding: «bevat crocidoliet/blauwe asbest»;
-
-- d. indien voor het aanbrengen van de figuur gebruik wordt gemaakt van een rechtstreekse opdruk op het product, is één, met de achtergrond contrasterende, kleur voldoende.
-
-- 2. Asbesthoudende producten die bij het gebruik kunnen worden toegepast of bewerkt, worden in ieder geval voorzien van de volgende veiligheidsaanbevelingen:
-
-- –. «werk zo mogelijk in de open lucht of in een goed geventileerde ruimte»;
-
-- –. «bij voorkeur handwerktuigen of werktuigen met lage snelheden gebruiken, die zo nodig zijn voorzien van een geschikte stofvanger. Wanneer werktuigen met hoge snelheden worden gebruikt, worden deze voorzien van een stofvanger»;
-
-- –. «zo mogelijk vóór het zagen of boren bevochtigen»;
-
-- –. «afval bevochtigen, in een vat doen dat goed wordt gesloten en veilig verwijderen».
-
-- 3. De in de punten 1 en 2 bedoelde figuur onderscheidenlijk veiligheidsaanbevelingen worden goed leesbaar en onuitwisbaar aangebracht: Wanneer de onder b genoemde procédés redelijkerwijs niet kunnen worden toegepast, bijvoorbeeld wegens de beperkte afmetingen van het product, de ongeschikte aard ervan of bepaalde technische moeilijkheden, gaat het product vergezeld van een geschrift waarin de figuur en de veiligheidsaanbevelingen zijn opgenomen. Eventuele nadere informatie inzake veiligheid die op de verpakking of het product wordt aangebracht, mag de in de punten 1 en 2 bedoelde figuur onderscheidenlijk veiligheidsaanbevelingen niet verzwakken of daarmee in strijd zijn.
-
-- a. wat betreft asbesthoudende producten die in een verpakking worden afgeleverd:
-
-- 1°. op een stevig op de verpakking aangebracht etiket,
-
-- 2°. op een stevig aan de verpakking bevestigd label, of
-
-- 3°. rechtstreeks op de verpakking;
-
-- b. wat betreft asbesthoudende producten die onverpakt worden afgeleverd:
-
-- 1°. op een stevig op het product aangebracht etiket,
-
-- 2°. op een stevig aan het product bevestigd label, of
-
-- 3°. rechtstreeks op het product.
-
-- 4. Indien een product bestaat uit verschillende delen waarin asbest voorkomt, worden de in de 1 en 2 bedoelde figuur en veiligheidsaanbevelingen op elk van die delen aangebracht.
-
-- 5. De in deze bijlage bedoelde aanduidingen worden gesteld in de Nederlandse taal.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

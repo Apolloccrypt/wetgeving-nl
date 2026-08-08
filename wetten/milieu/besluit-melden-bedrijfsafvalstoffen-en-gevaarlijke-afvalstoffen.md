@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 7 oktober 2004, houdende regels met betrekking tot de afgifte, de ontvangst en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen (Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen)"
+citeertitel: "Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen"
 identifier: "BWBR0017294"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017294"
+categorie: "Milieu"
 soort: "AMvB"
-stam_id: "6237473"
-version_id: "27220192"
-internal_id: "C42474871"
-label_id: "6226674"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017294/2025-07-01/0"
-intitule_bron: "Stb.2004-522"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-10-07"
-intitule_published: "2004-10-26"
-intitule_in_force: "2004-12-30"
-intitule_status: "goed"
-original_publication: "Stb.2020-400"
-original_signed_date: "2020-09-16"
-original_published_date: "2020-10-28"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2020-400"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0017294&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0017294&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen"
-signed_date: "2020-09-16"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0017294"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 7 oktober 2004, houdende regels met betrekking tot de afgifte, de ontvangst en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen (Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen)
-
-Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 april 2004, nr. MJZ2004039319, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
-
-Gelet op de [artikelen 10.41 tot en met 10.43](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.41) en [10.44, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.44), [artikel 21.8 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.8) voorzover het betreft de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2025-07-01&g=2025-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=9&z=2025-07-01&g=2025-07-01) en [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=5&artikel=10&z=2025-07-01&g=2025-07-01), en [artikel 24 van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24) voorzover het betreft [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=3a&artikel=7&z=2025-07-01&g=2025-07-01);
-
-De Raad van State gehoord (advies van 28 juni 2004, nr W08.04.0159/V);
-
-Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 1 oktober 2004, nr. MJZ 2004093834, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
@@ -52,27 +20,27 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de wet**: de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245);
+- a. *de wet*: de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245);
 
-- b. **afvalstoffenlijst**: afvalstoffenlijst als bedoeld in [artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1);
+- b. *afvalstoffenlijst*: afvalstoffenlijst als bedoeld in [artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1);
 
 - c. afvalstroomnummer: afvalstroomnummer als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=9&z=2025-07-01&g=2025-07-01);
 
-- d. **meldingsinstantie**: instantie als bedoeld in de [artikelen 10.38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38), en [10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40);
+- d. *meldingsinstantie*: instantie als bedoeld in de [artikelen 10.38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38), en [10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40);
 
-- e. **route-inzameling**: inzameling van bedrijfsafvalstoffen of gevaarlijke afvalstoffen volgens een vooraf bepaalde route waarbij de afvalstoffen tijdens het vervoer worden samengevoegd met gelijksoortige afvalstoffen die worden afgegeven door verschillende personen;
+- e. *route-inzameling*: inzameling van bedrijfsafvalstoffen of gevaarlijke afvalstoffen volgens een vooraf bepaalde route waarbij de afvalstoffen tijdens het vervoer worden samengevoegd met gelijksoortige afvalstoffen die worden afgegeven door verschillende personen;
 
-- f. **Raad voor Accreditatie:** Stichting Raad voor Accreditatie te Utrecht;
+- f. *Raad voor Accreditatie:* Stichting Raad voor Accreditatie te Utrecht;
 
-- g. **regelmatige afvalstoffen:** afvalstoffen die regelmatig tijdens hetzelfde proces ontstaan en een constante samenstelling hebben;
+- g. *regelmatige afvalstoffen:* afvalstoffen die regelmatig tijdens hetzelfde proces ontstaan en een constante samenstelling hebben;
 
-- h. **korrelvormige afvalstoffen:** afvalstoffen, niet zijnde monolithische afvalstoffen;
+- h. *korrelvormige afvalstoffen:* afvalstoffen, niet zijnde monolithische afvalstoffen;
 
-- i. **monolithische afvalstoffen:** afvalstoffen die door menging met toeslagstoffen of andersoortige bewerkingen zijn omgevormd tot afvalstoffen met een beperkte uitloging en een duurzame vaste vorm;
+- i. *monolithische afvalstoffen:* afvalstoffen die door menging met toeslagstoffen of andersoortige bewerkingen zijn omgevormd tot afvalstoffen met een beperkte uitloging en een duurzame vaste vorm;
 
-- j. **schone kunststoffen:** kunststoffen of mengsels daarvan, mits deze niet zijn vermengd met andere afvalstoffen en zij overeenkomstig een specificatie zijn vervaardigd;
+- j. *schone kunststoffen:* kunststoffen of mengsels daarvan, mits deze niet zijn vermengd met andere afvalstoffen en zij overeenkomstig een specificatie zijn vervaardigd;
 
-- k. **zeer zorgwekkende stof:** zeer zorgwekkende stof als bedoeld in [bijlage I bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=I).
+- k. *zeer zorgwekkende stof:* zeer zorgwekkende stof als bedoeld in [bijlage I bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=I).
 
 #### § 2. De ontvangstmelding
 
@@ -134,6 +102,14 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 3. Bij regeling van Onze Minister kunnen gevallen worden aangewezen die zijn vrijgesteld van de verplichting, bedoeld in het tweede lid.
 
+##### Artikel 5a
+
+1. [Artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) is van overeenkomstige toepassing in de categorieën van gevallen waarin een persoon als bedoeld in [artikel 10.37, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37) gevaarlijke afvalstoffen op de locatie waar deze zijn ontstaan nuttig toepast of verwijdert.
+
+2. In de categorieën van gevallen, bedoeld in het eerste lid, is [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=3&artikel=6&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, met dien verstande dat in die gevallen geen afgifte wordt gemeld maar het nuttig toepassen of verwijderen van de gevaarlijke afvalstoffen.
+
+3. Dit artikel berust op [artikel 9.5.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2).
+
 ##### Artikel 6
 
 1. Aan [artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) in verbinding met het eerste lid, onder a, van dat artikel wordt uitvoering gegeven door het melden van het aantal afgiften dat in de voorafgaande maand heeft plaatsgevonden.
@@ -144,15 +120,29 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 4. [Artikel 3, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
+#### § 3a. Melding stoffen, mengsels of producten
+
+##### Artikel 6a
+
+Deze paragraaf berust op [artikel 9.2.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
+
 ##### Artikel 7
 
 1. [Artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) is van overeenkomstige toepassing in de categorieën van gevallen waarin een persoon die op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2025-07-01&g=2025-07-01), verplicht is om een melding te doen als bedoeld in [artikel 10.40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) zich van stoffen, mengsels en producten, niet zijnde bedrijfsafvalstoffen of gevaarlijke afvalstoffen, ontdoet door afgifte aan een ander persoon of deze toepast.
 
 2. In de categorieën van gevallen, bedoeld in het eerste lid, zijn de [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01), en [6, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=3&artikel=6&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
-3. Voor zover geen code van de afvalstoffenlijst van toepassing is wordt aan [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=3&artikel=6&z=2025-07-01&g=2025-07-01), uitvoering gegeven door melding van de van toepassing zijnde code van de gecombineerde nomenclatuur, bedoeld in artikel 1, eerste lid, van verordening nr. 2658/87/EEG van de Raad van de Europese Gemeenschappen van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 256).
+3. Voor zover geen code van de afvalstoffenlijst van toepassing is wordt aan [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=3&artikel=6&z=2025-07-01&g=2025-07-01), uitvoering gegeven door melding van de van toepassing zijnde code van de gecombineerde nomenclatuur, bedoeld in artikel 1, eerste lid, van verordening nr. 2658/87/EEG van de Raad van de Europese Gemeenschappen van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 256).
 
-#### § 3a. Melding stoffen, mengsels of producten
+##### Artikel 7a
+
+1. Elke leverancier van een voorwerp als bedoeld in artikel 3, onderdeel 33, van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen, verstrekt de informatie, bedoeld in artikel 33, eerste lid, van deze verordening, aan het Europees Agentschap voor chemische stoffen.
+
+2. Het eerste lid is niet van toepassing op leveranciers van voorwerpen als bedoeld op de lijst met producttypen van wapens, munitie en oorlogsmateriaal, vastgesteld bij Besluit 255/58 van de Raad van 15 april 1958, die zijn bedoeld ten dienste van defensiebelangen van Nederland of op die voorwerpen die daarvoor in gebruik zijn geweest.
+
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van het eerste lid.
+
+#### § 4. Het afvalstroomnummer
 
 ##### Artikel 8
 
@@ -190,11 +180,11 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 - b. de benaming van de zeer zorgwekkende stoffen:
 
-- 1°. zoals opgenomen in een voor hem geldende omgevingsvergunning voor een milieubelastende activiteit als bedoeld in [artikel 5.1, tweede lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1);
+   - 1°. zoals opgenomen in een voor hem geldende omgevingsvergunning voor een milieubelastende activiteit als bedoeld in [artikel 5.1, tweede lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1);
 
-- 2°. zoals opgenomen in de informatie die hij op grond van [artikel 5.23 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.23) heeft verstrekt over de emissies van die stoffen in de lucht of het water; of
+   - 2°. zoals opgenomen in de informatie die hij op grond van [artikel 5.23 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.23) heeft verstrekt over de emissies van die stoffen in de lucht of het water; of
 
-- 3°. die vermeld staan in de omschrijving die hem op grond van [artikel 10.39, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) is verstrekt toen hij de afvalstof in ontvangst nam.
+   - 3°. die vermeld staan in de omschrijving die hem op grond van [artikel 10.39, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) is verstrekt toen hij de afvalstof in ontvangst nam.
 
 3. Een omschrijving die wordt verstrekt in gevallen waarin korrelvormige afvalstoffen aan een persoon die een stortplaats als bedoeld in [bijlage I bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=I) exploiteert, worden afgegeven om te worden gestort, bevat tevens:
 
@@ -223,66 +213,6 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 5. Degene die ten behoeve van het verstrekken van een omschrijving gebruik maakt van schriftelijk of elektronisch vastgelegde gegevens omtrent aard, eigenschappen en samenstelling van de afvalstoffen, bewaart deze gegevens gedurende ten minste vijf jaar na de laatste afgifte van afvalstoffen waarop die omschrijving betrekking heeft.
 
 6. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het verstrekken van een omschrijving.
-
-#### § 6. De begeleidingsbrief
-
-##### Artikel 11
-
-1. De in de [artikelen 10.39, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39), en [10.44, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.44) gestelde verplichtingen gelden niet voor het vervoer van:
-
-- a. bedrijfsafvalstoffen of gevaarlijke afvalstoffen, waarop de [EG-verordening overbrenging van afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0022213) van toepassing is, dat vergezeld gaat van de begeleidende documenten, bedoeld in die verordening;
-
-- b. bedrijfsafvalstoffen of gevaarlijke afvalstoffen in een motorrijtuig van de rijbewijscategorie B;
-
-- c. bedrijfsafvalstoffen in een hoeveelheid van niet meer dan 500 kilogram op een andere wijze dan in een motorrijtuig van de rijbewijscategorie B;
-
-- d. niet-beroepsmatig ingezameld papier of textiel;
-
-- e. ingezamelde huishoudelijke afvalstoffen waarvan kan worden aangetoond dat deze rechtstreeks worden vervoerd naar een locatie waar die afvalstoffen uitsluitend worden overgeslagen;
-
-- f. bedrijfsafvalstoffen naar soort en aard vergelijkbaar met huishoudelijke afvalstoffen waarvan kan worden aangetoond dat deze rechtstreeks worden vervoerd naar een locatie waar die bedrijfsafvalstoffen uitsluitend worden overgeslagen;
-
-- g. veegvuil, marktafval, drijfafval en RKG-slib waarvan kan worden aangetoond dat deze rechtstreeks worden vervoerd naar een locatie waar die bedrijfsafvalstoffen uitsluitend worden overgeslagen.
-
-2. De in [artikel 10.39, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) gestelde verplichting geldt evenmin in de categorieën van gevallen waarin afvalstoffen worden afgegeven aan een persoon die de afvalstoffen door route-inzameling verkrijgt of door inzameling verkrijgt ingeval de afvalstoffen behoren tot een krachtens [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01), aangewezen categorie, en het op de afvalstoffen betrekking hebbende afvalstroomnummer met toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2025-07-01&g=2025-07-01), aan hem is verstrekt.
-
-##### Artikel 12
-
-1. Onverminderd het tweede lid wordt voor de begeleidingsbrief, bedoeld in [artikel 10.39, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) gebruik gemaakt van een bij regeling van Onze Minister vastgesteld formulier dat voor de daarbij aangegeven categorieën van gevallen verschillend kan worden vastgesteld.
-
-2. Onze Minister kan toestemming geven om gebruik te maken van een andere gegevensdrager dan een formulier als bedoeld in het eerste lid.
-
-3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste lid. Tevens kunnen daarbij categorieën van gevallen worden aangewezen waarvoor de verplichting, bedoeld in het eerste lid, niet geldt.
-
-#### § 7. Slotbepalingen
-
-##### Artikel 13
-
-Vervallen
-
-##### Artikel 14
-
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 15
-
-Dit besluit wordt aangehaald als: Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.
-
-## Bijlage. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2008-09-26&g=2008-09-26)
-
-Categorieën van gevaarlijke afvalstoffen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2008-09-26&g=2008-09-26):
-
-- a. scheepsafvalstoffen als bedoeld in [artikel 1, eerste lid, onder d, van het Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=1);
-
-- b. gevaarlijke afvalstoffen als bedoeld in [artikel 1, eerste lid, onder c, van het Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=1) in een hoeveelheid van niet meer dan 50 kilogram per afgifte;
-
-- c. batterijen en accu’s als bedoeld in [artikel 1, eerste lid, onderdeel a respectievelijk onderdeel b, van het Besluit beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024491&artikel=1);
-
-- d. producten als bedoeld in [artikel 1, eerste lid onder b, van de Regeling beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017053&artikel=1);
-
-- e. autowrakken als bedoeld in [artikel 1, onder b, van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=1).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 10a
 
@@ -318,21 +248,49 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 6. De begeleidingsbrief
 
-#### § 6a. Regels inzake de erkenning van personen of instellingen voor de monsterneming, bedoeld in [artikel 10a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=5&artikel=10a&z=2014-07-03&g=2014-07-03)
+##### Artikel 11
+
+1. De in de [artikelen 10.39, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39), en [10.44, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.44) gestelde verplichtingen gelden niet voor het vervoer van:
+
+- a. bedrijfsafvalstoffen of gevaarlijke afvalstoffen, waarop de [EG-verordening overbrenging van afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0022213) van toepassing is, dat vergezeld gaat van de begeleidende documenten, bedoeld in die verordening;
+
+- b. bedrijfsafvalstoffen of gevaarlijke afvalstoffen in een motorrijtuig van de rijbewijscategorie B;
+
+- c. bedrijfsafvalstoffen in een hoeveelheid van niet meer dan 500 kilogram op een andere wijze dan in een motorrijtuig van de rijbewijscategorie B;
+
+- d. niet-beroepsmatig ingezameld papier of textiel;
+
+- e. ingezamelde huishoudelijke afvalstoffen waarvan kan worden aangetoond dat deze rechtstreeks worden vervoerd naar een locatie waar die afvalstoffen uitsluitend worden overgeslagen;
+
+- f. bedrijfsafvalstoffen naar soort en aard vergelijkbaar met huishoudelijke afvalstoffen waarvan kan worden aangetoond dat deze rechtstreeks worden vervoerd naar een locatie waar die bedrijfsafvalstoffen uitsluitend worden overgeslagen;
+
+- g. veegvuil, marktafval, drijfafval en RKG-slib waarvan kan worden aangetoond dat deze rechtstreeks worden vervoerd naar een locatie waar die bedrijfsafvalstoffen uitsluitend worden overgeslagen.
+
+2. De in [artikel 10.39, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) gestelde verplichting geldt evenmin in de categorieën van gevallen waarin afvalstoffen worden afgegeven aan een persoon die de afvalstoffen door route-inzameling verkrijgt of door inzameling verkrijgt ingeval de afvalstoffen behoren tot een krachtens [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01), aangewezen categorie, en het op de afvalstoffen betrekking hebbende afvalstroomnummer met toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2025-07-01&g=2025-07-01), aan hem is verstrekt.
+
+##### Artikel 12
+
+1. Onverminderd het tweede lid wordt voor de begeleidingsbrief, bedoeld in [artikel 10.39, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) gebruik gemaakt van een bij regeling van Onze Minister vastgesteld formulier dat voor de daarbij aangegeven categorieën van gevallen verschillend kan worden vastgesteld.
+
+2. Onze Minister kan toestemming geven om gebruik te maken van een andere gegevensdrager dan een formulier als bedoeld in het eerste lid.
+
+3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste lid. Tevens kunnen daarbij categorieën van gevallen worden aangewezen waarvoor de verplichting, bedoeld in het eerste lid, niet geldt.
+
+#### § 6a. Regels inzake de erkenning van personen of instellingen voor de monsterneming, bedoeld in artikel 10a, derde lid
 
 ##### Artikel 12a
 
 1. In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
-- **accreditatie:** het bewijs waarmee de Raad voor Accreditatie of een daaraan gelijkwaardig instituut in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde instelling competent is voor het certificeren van personen of instellingen voor het uitvoeren van de monsterneming overeenkomstig de krachtens [artikel 10a, vijfde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=5&artikel=10a&z=2025-07-01&g=2025-07-01), gestelde regels;
+- *accreditatie:* het bewijs waarmee de Raad voor Accreditatie of een daaraan gelijkwaardig instituut in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde instelling competent is voor het certificeren van personen of instellingen voor het uitvoeren van de monsterneming overeenkomstig de krachtens [artikel 10a, vijfde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=5&artikel=10a&z=2025-07-01&g=2025-07-01), gestelde regels;
 
-- **certificaat:** verklaring waarmee een geaccrediteerde certificeringsinstelling kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde persoon of instelling competent is voor het uitvoeren van de monsterneming overeenkomstig de krachtens [artikel 10a, vijfde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=5&artikel=10a&z=2025-07-01&g=2025-07-01), gestelde regels;
+- *certificaat:* verklaring waarmee een geaccrediteerde certificeringsinstelling kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde persoon of instelling competent is voor het uitvoeren van de monsterneming overeenkomstig de krachtens [artikel 10a, vijfde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=5&artikel=10a&z=2025-07-01&g=2025-07-01), gestelde regels;
 
-- **erkenning:** beschikking van Onze Minister waarbij wordt vastgesteld dat een persoon of instelling voor het nemen van monsters van afvalstoffen voldoet aan de bij of krachtens deze paragraaf gestelde eisen;
+- *erkenning:* beschikking van Onze Minister waarbij wordt vastgesteld dat een persoon of instelling voor het nemen van monsters van afvalstoffen voldoet aan de bij of krachtens deze paragraaf gestelde eisen;
 
-- **SIKB:** Stichting Kwaliteitsborging Infrastructuur Bodembeheer te Gouda;
+- *SIKB:* Stichting Kwaliteitsborging Infrastructuur Bodembeheer te Gouda;
 
-- **vestigingsplaats:** adres en woonplaats van een persoon of adres en woonplaats waar een instelling zetelt.
+- *vestigingsplaats:* adres en woonplaats van een persoon of adres en woonplaats waar een instelling zetelt.
 
 2. Deze paragraaf is uitsluitend van toepassing op monsterneming die wordt uitgevoerd ter bepaling van de in de omschrijving op te nemen gegevens over de samenstelling en het uitlooggedrag van afvalstoffen.
 
@@ -442,152 +400,14 @@ Onze Minister verwerkt de schorsing en intrekking van de erkenning in de lijst, 
 
 #### § 7. Slotbepalingen
 
-## bijlage I. behorende bij [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2014-07-03&g=2014-07-03)
+##### Artikel 13
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+*Vervallen*
 
-### Categorieën van bedrijfsafvalstoffen en gevaarlijke afvalstoffen als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2014-07-03&g=2014-07-03)
+##### Artikel 14
 
-## Bijlage II. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2014-07-03&g=2014-07-03)
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-Categorieën van gevaarlijke afvalstoffen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2014-07-03&g=2014-07-03):
+##### Artikel 15
 
-- a. scheepsafvalstoffen als bedoeld in [artikel 1, eerste lid, onder d, van het Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=1);
-
-- b. gevaarlijke afvalstoffen als bedoeld in [artikel 1, eerste lid, onder c, van het Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=1) in een hoeveelheid van niet meer dan 50 kilogram per afgifte;
-
-- c. batterijen en accu’s als bedoeld in [artikel 1, eerste lid, onderdeel a respectievelijk onderdeel b, van het Besluit beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024491&artikel=1);
-
-- d. producten als bedoeld in [artikel 1, eerste lid, onder f, van de Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782);
-
-- e. autowrakken als bedoeld in [artikel 1, onder b, van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=1).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-1. [Artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) is van overeenkomstige toepassing in de categorieën van gevallen waarin een persoon als bedoeld in [artikel 10.37, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37) gevaarlijke afvalstoffen op de locatie waar deze zijn ontstaan nuttig toepast of verwijdert.
-
-2. In de categorieën van gevallen, bedoeld in het eerste lid, is [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=3&artikel=6&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, met dien verstande dat in die gevallen geen afgifte wordt gemeld maar het nuttig toepassen of verwijderen van de gevaarlijke afvalstoffen.
-
-3. Dit artikel berust op [artikel 9.5.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2).
-
-##### Artikel 6a
-
-Deze paragraaf berust op [artikel 9.2.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
-
-##### Artikel 7a
-
-1. Elke leverancier van een voorwerp als bedoeld in artikel 3, onderdeel 33, van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen, verstrekt de informatie, bedoeld in artikel 33, eerste lid, van deze verordening, aan het Europees Agentschap voor chemische stoffen.
-
-2. Het eerste lid is niet van toepassing op leveranciers van voorwerpen als bedoeld op de lijst met producttypen van wapens, munitie en oorlogsmateriaal, vastgesteld bij Besluit 255/58 van de Raad van 15 april 1958, die zijn bedoeld ten dienste van defensiebelangen van Nederland of op die voorwerpen die daarvoor in gebruik zijn geweest.
-
-3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van het eerste lid.
-
-#### § 4. Het afvalstroomnummer
-
-#### § 5. De verstrekking van een omschrijving van aard, eigenschappen en samenstelling van afvalstoffen
-
-#### § 6. De begeleidingsbrief
-
-#### § 6a. Regels inzake de erkenning van personen of instellingen voor de monsterneming, bedoeld in [artikel 10a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=5&artikel=10a&z=2025-07-01&g=2025-07-01)
-
-#### § 7. Slotbepalingen
-
-## Bijlage I. behorende bij [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2025-07-01&g=2025-07-01)
-
-Categorieën van milieubelastende activiteiten met afvalstoffen, als bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2025-07-01&g=2025-07-01):
-
-- 1. het opslaan, overslaan of verwerken van:
-
-- a. banden;
-
-- b. ferro- of non-ferrometalen;
-
-- c. glas;
-
-- d. kabelschroot omhuld of geïsoleerd met kunststoffen, niet zijnde grondkabels;
-
-- e. papier;
-
-- f. schone kunststoffen;
-
-- g. schroot;
-
-- h. textiel;
-
-- i. afgedankte batterijen of accu’s als bedoeld in de [Regeling beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024492) waarvoor verslag wordt gedaan als bedoeld in [artikel 13, eerste lid, van de Regeling beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&artikel=13);
-
-- j. afgedankte elektrische en elektronische apparatuur als bedoeld in de [Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782) waarvoor verslag wordt gedaan als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=19) of [20 van de Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=20);
-
-- k. afgedankte autowrakken als bedoeld in het [Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707) waarvoor verslag wordt gedaan als bedoeld in [artikel 15, eerste lid, van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=15);
-
-- 2. het opslaan van:
-
-- a. ingezamelde of afgegeven huishoudelijke afvalstoffen met een capaciteit ten aanzien daarvan van minder dan 35 m3;
-
-- b. ingezamelde of afgegeven huishoudelijke afvalstoffen met een capaciteit ten aanzien daarvan van 35 m3 of meer voor zover uitsluitend papier, textiel, ferro- of non-ferrometalen, schroot of glas nuttig worden toegepast of verwijderd, anders dan verbranden;
-
-- c. ingezamelde of afgegeven huishoudelijke afvalstoffen met een capaciteit ten aanzien daarvan van 35 m3 of meer voor zover daarvoor een innameplicht geldt bij of krachtens [artikel 10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.17) of [15.32, eerste en tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.32);
-
-- d. zuiveringsslib, kolenreststoffen of afvalgips met een capaciteit ten aanzien daarvan van minder dan 1.000 m3;
-
-- e. zuiveringsslib, kolenreststoffen of afvalgips met een capaciteit ten aanzien daarvan van 1.000 m3 of meer voor zover uitsluitend papier, textiel, ferro- of non-ferrometalen, schroot of glas nuttig worden toegepast of verwijderd, anders dan verbranden;
-
-- f. verontreinigde grond, waaronder begrepen verontreinigde baggerspecie, met een capaciteit ten aanzien daarvan van minder dan 50 m3;
-
-- g. minder dan 5 autowrakken en overige voertuigwrakken;
-
-- h. andere dan de onder a tot en met g bedoelde afvalstoffen met een capaciteit ten aanzien daarvan van minder dan 1.000 m3;
-
-- i. andere dan de onder a tot en met g bedoelde afvalstoffen met een capaciteit ten aanzien daarvan van 1.000 m3 of meer voor zover uitsluitend papier, textiel, ferro- of non-ferrometalen, schroot of glas nuttig worden toegepast of verwijderd, anders dan verbranden;
-
-- j. andere dan de onder a tot en met g bedoelde afvalstoffen met een capaciteit ten aanzien daarvan van 1.000 m3 of meer voor zover daarvoor een innameplicht geldt bij of krachtens [artikel 10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.17) of [15.32, eerste en tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.32);
-
-- 3. het overslaan van bedrijfsafvalstoffen of ingezamelde of afgegeven huishoudelijke afvalstoffen met een opslagcapaciteit ten aanzien daarvan van minder dan 50 m3;
-
-- 4. het sorteren van bouw- en sloopafvalstoffen met een opslagcapaciteit van 50 m3 of minder;
-
-- 5. het composteren van groenafval met een verwerkingscapaciteit van 50 m3 per jaar of minder;
-
-- 6. het ontwateren, microbiologisch of anderszins biologisch of chemisch omzetten, agglomereren, deglomereren, mechanisch, fysisch of chemisch scheiden, mengen, verdichten of thermisch behandelen – anders dan verbranden of sorteren of composteren als bedoeld onder 4 of 5 – van ingezamelde of afgegeven huishoudelijke afvalstoffen of van bedrijfsafvalstoffen met een capaciteit ten aanzien daarvan van minder dan 15.000.000 kg per jaar;
-
-- 7. de onder 6 bedoelde handelingen met een capaciteit ten aanzien daarvan van 15.000.000 kg per jaar of meer voor zover uitsluitend papier, textiel, ferro- of non-ferrometalen, schroot of glas nuttig worden toegepast of verwijderd, anders dan verbranden;
-
-- 8. het geheel of gedeeltelijk vernietigen van genetisch gemodificeerde organismen als afvalstoffen of voorkomend in afvalstoffen.
-
-## Bijlage II. behorende bij [artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2025-07-01&g=2025-07-01)
-
-Categorieën van bedrijfsafvalstoffen, gevaarlijke afvalstoffen of ingezamelde huishoudelijke afvalstoffen, als bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2025-07-01&g=2025-07-01):
-
-- 1. afvalstoffen die nuttig worden toegepast of worden verwijderd op dezelfde locatie als de locatie van productie;
-
-- 2. afvalstoffen afgegeven door een persoon die buiten Nederland is gevestigd en ten aanzien waarvan een kennisgeving op grond van de [EG-verordening overbrenging van afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0022213) is gedaan;
-
-- 3. onbeheerd aangetroffen bedrijfsafvalstoffen of gevaarlijke afvalstoffen, die door of vanwege een bestuursorgaan worden opgeruimd;
-
-- 4. bedrijfsafvalstoffen in een hoeveelheid van niet meer dan 50 kilogram per afgifte;
-
-- 5. ingezamelde huishoudelijke afvalstoffen, voor zover zij uitsluitend worden overgeslagen;
-
-- 6. bedrijfsafvalstoffen naar soort en aard vergelijkbaar met huishoudelijke afvalstoffen, voor zover zij uitsluitend worden overgeslagen;
-
-- 7. veegvuil, marktafval, drijfafval en RKG-slib, voor zover zij uitsluitend worden overgeslagen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-## Bijlage III. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2025-07-01&g=2025-07-01)
-
-Categorieën van gevaarlijke afvalstoffen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2025-07-01&g=2025-07-01):
-
-- a. scheepsafvalstoffen als bedoeld in [artikel 1, eerste lid, onder d, van het Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=1);
-
-- b. gevaarlijke afvalstoffen als bedoeld in [artikel 1, eerste lid, onder c, van het Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=1) in een hoeveelheid van niet meer dan 50 kilogram per afgifte;
-
-- c. batterijen en accu’s als bedoeld in [artikel 1, eerste lid, onderdeel a respectievelijk onderdeel b, van het Besluit beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024491&artikel=1);
-
-- d. producten als bedoeld in [artikel 1, eerste lid, onder f, van de Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782);
-
-- e. autowrakken als bedoeld in [artikel 1, onder b, van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=1).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Dit besluit wordt aangehaald als: Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.

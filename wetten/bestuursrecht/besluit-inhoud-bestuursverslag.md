@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 23 december 2004 tot vaststelling van nadere voorschriften omtrent de inhoud van het jaarverslag"
+citeertitel: "Besluit inhoud bestuursverslag"
 identifier: "BWBR0017843"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-02-03"
-last_updated: "2026-02-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017843"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "6582853"
-version_id: "28631632"
-internal_id: "C40395981"
-label_id: "6571224"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017843/2026-02-03/0"
-intitule_bron: "Stb.2004-747"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-23"
-intitule_published: "2004-12-30"
-intitule_in_force: "2004-12-30"
-intitule_status: "goed"
-original_publication: "Stb.2022-182"
-original_signed_date: "2022-04-22"
-original_published_date: "2022-05-16"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2022-182"
-entry_into_force_date: "2022-04-22"
-jci_1_3: "jci1.3:c:BWBR0017843&z=2026-02-03&g=2026-02-03"
-jci_1_0: "1.0:c:BWBR0017843&g=2026-02-03"
-citeertitel_status: "officieel"
-short_title: "Besluit inhoud bestuursverslag"
-signed_date: "2022-04-22"
-entry_into_force: "2022-04-22"
+publicatiedatum: 2022-04-22
+laatste_update: 2026-02-03
+status: geldig
+toestand: 2026-02-03
+bron: "https://wetten.overheid.nl/BWBR0017843"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 23 december 2004 tot vaststelling van nadere voorschriften omtrent de inhoud van het jaarverslag
-
-Op de voordracht van Onze Minister van Justitie van 24 november 2004, Directie Wetgeving, nr. 5320900/04/6;
-
-Gelet op [artikel 391 lid 4 en 5 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391);
-
-De Raad van State gehoord (advies van 17 december 2004, nr. W03.04.0572/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 23 december 2004, Directie Wetgeving, nr. 5327207/04/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -56,7 +24,7 @@ Hebben goedgevonden en verstaan:
 
 - a. een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een met een gereglementeerde markt vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in dat artikel;
 
-- b. een multilaterale handelsfaciliteit als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een met een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in dat artikel indien het bedrag van de activa van de vennootschap volgens de balans met toelichting of, indien de vennootschap een geconsolideerde balans op stelt, volgens de geconsolideerde balans met toelichting, meer bedraagt dan € 500 miljoen;
+- b. een multilaterale handelsfaciliteit als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een met een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in dat artikel indien het bedrag van de activa van de vennootschap volgens de balans met toelichting of, indien de vennootschap een geconsolideerde balans op stelt, volgens de geconsolideerde balans met toelichting, meer bedraagt dan € 500 miljoen;
 
 tenzij de vennootschap een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) is die geen beheerder is als bedoeld in dat artikel.
 
@@ -66,25 +34,7 @@ tenzij de vennootschap een beleggingsmaatschappij of maatschappij voor collectie
 
 ##### Artikel 2
 
-Als gedragscode bedoeld in [artikel 391a, tweede lid, onderdeel e, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391a) wordt aangewezen de Nederlandse corporate governance code van 20 maart 2025, gepubliceerd in Staatscourant nr. 36698 d.d. 30 oktober 2025.
-
-##### Artikel 3
-
-1. De vennootschap doet mededeling over de naleving van de principes en best practice bepalingen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2026-02-03&g=2026-02-03) aangewezen gedragscode die zijn gericht tot het bestuur of de raad van commissarissen van de vennootschap. Indien de vennootschap die principes of best practice bepalingen niet heeft nageleefd of niet voornemens is deze in het lopende en daaropvolgende boekjaar na te leven, doet zij daarvan gemotiveerd opgave.
-
-2. Lid 1 is ook van toepassing op een andere gedragscode die de vennootschap vrijwillig naleeft en op alle relevante informatie over de corporate-governancepraktijken die anders dan krachtens wettelijke bepaling worden toegepast naast de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2026-02-03&g=2026-02-03) genoemde gedragscode.
-
-3. Bij de mededeling, bedoeld in lid 1 vermeldt de vennootschap waar de tekst van de gedragscodes, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2026-02-03&g=2026-02-03) respectievelijk in lid 2, voor het publiek beschikbaar is. In geval van de naleving van de corporate-governancepraktijken, bedoeld in lid 2, maakt de vennootschap deze beschikbaar voor het publiek.
-
-##### Artikel 4
-
-Dit besluit wordt aangehaald als: Besluit inhoud bestuursverslag.
-
-##### Artikel 5
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Als gedragscode bedoeld in [artikel 391a, tweede lid, onderdeel e, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391a) wordt aangewezen de Nederlandse corporate governance code van 20 maart 2025, gepubliceerd in Staatscourant nr. 36698 d.d. 30 oktober 2025.
 
 ##### Artikel 2a
 
@@ -97,6 +47,14 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 2. De verklaring bevat ten minste de mededelingen, genoemd in de [artikelen 3 tot en met 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2026-02-03&g=2026-02-03).
 
 3. Indien gebruik wordt gemaakt van de mogelijkheid van lid 1, onder b, wordt de verklaring geacht onderdeel uit te maken van het bestuursverslag.
+
+##### Artikel 3
+
+1. De vennootschap doet mededeling over de naleving van de principes en best practice bepalingen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2026-02-03&g=2026-02-03) aangewezen gedragscode die zijn gericht tot het bestuur of de raad van commissarissen van de vennootschap. Indien de vennootschap die principes of best practice bepalingen niet heeft nageleefd of niet voornemens is deze in het lopende en daaropvolgende boekjaar na te leven, doet zij daarvan gemotiveerd opgave.
+
+2. Lid 1 is ook van toepassing op een andere gedragscode die de vennootschap vrijwillig naleeft en op alle relevante informatie over de corporate-governancepraktijken die anders dan krachtens wettelijke bepaling worden toegepast naast de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2026-02-03&g=2026-02-03) genoemde gedragscode.
+
+3. Bij de mededeling, bedoeld in lid 1 vermeldt de vennootschap waar de tekst van de gedragscodes, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2026-02-03&g=2026-02-03) respectievelijk in lid 2, voor het publiek beschikbaar is. In geval van de naleving van de corporate-governancepraktijken, bedoeld in lid 2, maakt de vennootschap deze beschikbaar voor het publiek.
 
 ##### Artikel 3a
 
@@ -118,8 +76,6 @@ Voor zover het [Besluit artikel 10 overnamerichtlijn](https://wetten.overheid.nl
 
 De accountant bedoeld in [artikel 393 lid 1 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) gaat na of de verklaring inzake corporate governance overeenkomstig dit besluit is opgesteld en met de jaarrekening verenigbaar is, en of de verklaring in het licht van de tijdens het onderzoek van de jaarrekening verkregen kennis en begrip omtrent de rechtspersoon en zijn omgeving, materiële onjuistheden bevat.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
 ##### Artikel 3d
 
 1. De vennootschap doet mededeling over:
@@ -138,6 +94,12 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. de raad van commissarissen dan wel de niet-uitvoerende bestuurders, indien [artikel 142b, leden 2 en 3, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=142b) van toepassing is.
 
-3. Dit artikel vervalt met ingang van 1 januari 2030.
+3. Dit artikel vervalt met ingang van 1 januari 2030.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 4
+
+Dit besluit wordt aangehaald als: Besluit inhoud bestuursverslag.
+
+##### Artikel 5
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.

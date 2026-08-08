@@ -1,45 +1,18 @@
 ---
 title: "Regeling van de Minister voor Vreemdelingenzaken en Integratie en de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties van 17 december 2003, nr. 5257327, houdende de instelling van de Commissie Evaluatie Vreemdelingenwet 2000"
+citeertitel: "Regeling instelling Commissie Evaluatie Vreemdelingenwet 2000"
 identifier: "BWBR0016186"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-10-19"
-last_updated: "2005-10-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016186"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "5753363"
-version_id: "10316262"
-internal_id: "C13959661"
-label_id: "5733604"
-original_entry_into_force: "2004-03-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016186/2005-10-19/0"
-intitule_bron: "Stcrt.2004-45"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-12-17"
-intitule_published: "2004-03-05"
-intitule_in_force: "2004-03-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-45"
-original_signed_date: "2003-12-17"
-original_published_date: "2004-03-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-45-p21-SC63962"
-entry_into_force_date: "2004-03-07"
-jci_1_3: "jci1.3:c:BWBR0016186&z=2005-10-19&g=2005-10-19"
-jci_1_0: "1.0:c:BWBR0016186&g=2005-10-19"
-citeertitel_status: "officieel"
-short_title: "Regeling instelling Commissie Evaluatie Vreemdelingenwet 2000"
-signed_date: "2003-12-17"
-entry_into_force: "2004-03-07"
+publicatiedatum: 2004-03-07
+laatste_update: 2005-10-19
+status: geldig
+toestand: 2005-10-19
+bron: "https://wetten.overheid.nl/BWBR0016186"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie en de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties van 17 december 2003, nr. 5257327, houdende de instelling van de Commissie Evaluatie Vreemdelingenwet 2000
-
-Handelende in overeenstemming met het gevoelen van de Ministerraad;
-
-Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -82,5 +55,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling instelling Commissie Evaluatie Vreemdelingenwet 2000.
-
-Deze regeling zal (met toelichting) in de Staatscourant worden geplaatst.

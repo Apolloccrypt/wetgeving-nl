@@ -1,39 +1,17 @@
 ---
 title: "Beleidsregels UWV normbedragen REA-voorzieningen 2004"
 identifier: "BWBR0016429"
-country: "nl"
-rank: "zbo"
-publication_date: "2004-07-09"
-last_updated: "2004-07-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016429"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6053623"
-version_id: "10688982"
-internal_id: "C29085491"
-label_id: "6042874"
-original_entry_into_force: "2004-03-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016429/2004-07-09/0"
-intitule_bron: "Stcrt.2004-43"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-02-23"
-intitule_published: "2004-03-03"
-intitule_in_force: "2004-03-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-43"
-original_signed_date: "2004-02-23"
-original_published_date: "2004-03-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-03-05"
-jci_1_3: "jci1.3:c:BWBR0016429&z=2004-07-09&g=2004-07-09"
-jci_1_0: "1.0:c:BWBR0016429&g=2004-07-09"
-citeertitel_status: "officieel"
-signed_date: "2004-02-23"
-entry_into_force: "2004-03-05"
+publicatiedatum: 2004-03-05
+laatste_update: 2004-07-09
+status: geldig
+toestand: 2004-07-09
+bron: "https://wetten.overheid.nl/BWBR0016429"
+opgehaald: 2026-08-08
 ---
-# Beleidsregels UWV normbedragen REA-voorzieningen 2004
 
-Besluit:
+# Beleidsregels UWV normbedragen REA-voorzieningen 2004
 
 ##### Artikel 1
 
@@ -86,9 +64,3 @@ Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen REA-voorziening
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van 1 maart 2004. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 29 februari 2004, treedt dit besluit in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 maart 2004.
-
-## Bijlage
-
-3x PLAATJE
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

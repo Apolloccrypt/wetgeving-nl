@@ -1,51 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 10 mei 2004, nr. WJZ 4028840, houdende regels inzake breedbeeldtelevisiediensten en normen digitale consumentenapparaten (Regeling breedbeeldtelevisiediensten en normen digitale consumentenapparaten)"
+citeertitel: "Regeling breedbeeldtelevisiediensten en normen digitale consumentenapparaten"
 identifier: "BWBR0016707"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-12-28"
-last_updated: "2016-12-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016707"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "5865723"
-version_id: "10436762"
-internal_id: "C14174841"
-label_id: "5845624"
-original_entry_into_force: "2004-05-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016707/2016-12-28/0"
-intitule_bron: "Stcrt.2004-92"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-05-10"
-intitule_published: "2004-05-14"
-intitule_in_force: "2004-05-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-92"
-original_signed_date: "2004-05-10"
-original_published_date: "2004-05-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-92-p14-SC64964"
-entry_into_force_date: "2004-05-19"
-jci_1_3: "jci1.3:c:BWBR0016707&z=2016-12-28&g=2016-12-28"
-jci_1_0: "1.0:c:BWBR0016707&g=2016-12-28"
-citeertitel_status: "officieel"
-short_title: "Regeling breedbeeldtelevisiediensten en normen digitale consumentenapparaten"
-signed_date: "2004-05-10"
-entry_into_force: "2004-05-19"
+publicatiedatum: 2004-05-19
+laatste_update: 2016-12-28
+status: geldig
+toestand: 2016-12-28
+bron: "https://wetten.overheid.nl/BWBR0016707"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Minister van Economische Zaken van 10 mei 2004, nr. WJZ 4028840, houdende regels inzake breedbeeldtelevisiediensten en normen digitale consumentenapparaten (Regeling breedbeeldtelevisiediensten en normen digitale consumentenapparaten)
-
-Gelet op:
-
-– Richtlijn nr. 2002/19/EG van het Europees Parlement en de Raad van 7 maart 2002 inzake de toegang tot en interconnectie van elektronische communicatienetwerken en bijbehorende faciliteiten (Toegangsrichtlijn) (PbEG L 108);
-
-– [Richtlijn nr. 2002/22/EG](32002L0022) van het Europees Parlement en de Raad van 7 maart 2002 inzake de universele dienst en gebruikersrechten met betrekking tot elektronische communicatienetwerken en -diensten (Universeledienstrichtlijn) (PbEG L 108), en
-
-– de [artikelen 8.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=8.4) en [10.1a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=10.1a);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002 in werking treedt.
 
 ##### Artikel 1
 
@@ -98,5 +65,3 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet implementatie Eur
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling breedbeeldtelevisiediensten en normen digitale consumentenapparaten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

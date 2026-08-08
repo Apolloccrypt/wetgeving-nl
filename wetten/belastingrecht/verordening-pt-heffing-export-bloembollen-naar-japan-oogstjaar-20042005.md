@@ -1,48 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 4 mei 2004, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2004/2005 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2004/2005)"
+citeertitel: "Verordening PT heffing export bloembollen naar Japan oogstjaar 2004/2005"
 identifier: "BWBR0016681"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-06-01"
-last_updated: "2004-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016681"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6790233"
-version_id: "11658412"
-internal_id: "C15711571"
-label_id: "6778654"
-original_entry_into_force: "2004-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016681/2004-06-01/0"
-intitule_bron: "Vbbo.2005-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-05-04"
-intitule_published: "2005-01-14"
-intitule_in_force: "2005-01-14"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-2"
-original_signed_date: "2004-05-04"
-original_published_date: "2005-01-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-06-01"
-jci_1_3: "jci1.3:c:BWBR0016681&z=2004-06-01&g=2004-06-01"
-jci_1_0: "1.0:c:BWBR0016681&g=2004-06-01"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing export bloembollen naar Japan oogstjaar 2004/2005"
-signed_date: "2004-05-04"
-entry_into_force: "2004-06-01"
+publicatiedatum: 2004-06-01
+laatste_update: 2004-06-01
+status: geldig
+toestand: 2004-06-01
+bron: "https://wetten.overheid.nl/BWBR0016681"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 4 mei 2004, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2004/2005 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2004/2005)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Sectorcommissie voor bollen, knollen en wortelstokken van bloemgewassen, 30 maart 2004;
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### § 1. Begripsbepalingen
 
@@ -158,5 +128,3 @@ Deze verordening treedt in werking met ingang van 1 juni 2004.
 ##### Artikel 14
 
 Deze verordening, wordt aangehaald als Verordening PT heffing export bloembollen naar Japan oogstjaar 2004/2005.
-
-Deze verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0034144"
-opgehaald: 2026-08-07
+opgehaald: 2026-08-08
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 31 oktober 2013, nr. WJZ/560472 (10352), houdende regels voor subsidieverstrekking ter stimulering van praktijkleren en het verrichten van onderzoek (Subsidieregeling praktijkleren)

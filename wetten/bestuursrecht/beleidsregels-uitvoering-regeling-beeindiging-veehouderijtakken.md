@@ -1,42 +1,17 @@
 ---
 title: "Beleidsregels uitvoering Regeling beëindiging veehouderijtakken"
 identifier: "BWBR0017043"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-07-22"
-last_updated: "2004-07-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017043"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6699473"
-version_id: "11536182"
-internal_id: "C15555541"
-label_id: "6687904"
-original_entry_into_force: "2004-07-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017043/2004-07-22/0"
-intitule_bron: "Stcrt.2004-136"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-15"
-intitule_published: "2004-07-20"
-intitule_in_force: "2004-07-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-136"
-original_signed_date: "2004-07-15"
-original_published_date: "2004-07-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-136-p21-SC66013"
-entry_into_force_date: "2004-07-22"
-jci_1_3: "jci1.3:c:BWBR0017043&z=2004-07-22&g=2004-07-22"
-jci_1_0: "1.0:c:BWBR0017043&g=2004-07-22"
-citeertitel_status: "officieel"
-signed_date: "2004-07-15"
-entry_into_force: "2004-07-22"
+publicatiedatum: 2004-07-22
+laatste_update: 2004-07-22
+status: geldig
+toestand: 2004-07-22
+bron: "https://wetten.overheid.nl/BWBR0017043"
+opgehaald: 2026-08-08
 ---
+
 # Beleidsregels uitvoering Regeling beëindiging veehouderijtakken
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -101,5 +76,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Beleidsregels uitvoering Regeling beëindiging veehouderijtakken.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 26 november 2004, houdende regels inzake de verstrekking van subsidies ten behoeve van de herstructurering van bedrijventerreinen van belang voor de ruimtelijk economische hoofdstructuur (Besluit subsidies Topprojecten herstructurering bedrijventerreinen)"
+citeertitel: "Besluit subsidies Topprojecten herstructurering bedrijventerreinen"
 identifier: "BWBR0017584"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-12-07"
-last_updated: "2012-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017584"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "6440193"
-version_id: "11110502"
-internal_id: "C15025061"
-label_id: "6429104"
-original_entry_into_force: "2004-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017584/2012-12-07/0"
-intitule_bron: "Stb.2004-629"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-26"
-intitule_published: "2004-12-14"
-intitule_in_force: "2004-12-14"
-intitule_status: "goed"
-original_publication: "Stb.2004-629"
-original_signed_date: "2004-11-26"
-original_published_date: "2004-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2004-629"
-entry_into_force_date: "2004-12-15"
-jci_1_3: "jci1.3:c:BWBR0017584&z=2012-12-07&g=2012-12-07"
-jci_1_0: "1.0:c:BWBR0017584&g=2012-12-07"
-citeertitel_status: "officieel"
-short_title: "Besluit subsidies Topprojecten herstructurering bedrijventerreinen"
-signed_date: "2004-11-26"
-entry_into_force: "2004-12-15"
+publicatiedatum: 2004-12-15
+laatste_update: 2012-12-07
+status: geldig
+toestand: 2012-12-07
+bron: "https://wetten.overheid.nl/BWBR0017584"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 26 november 2004, houdende regels inzake de verstrekking van subsidies ten behoeve van de herstructurering van bedrijventerreinen van belang voor de ruimtelijk economische hoofdstructuur (Besluit subsidies Topprojecten herstructurering bedrijventerreinen)
-
-Op de voordracht van de Staatssecretaris van Economische Zaken van 13 juli 2004, nr. WJZ 4044959;
-
-Gelet op [artikel 3, eerste tot en met vierde lid, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-De Raad van State gehoord (advies van 21 september 2004, nr. W10.04.0350/II);
-
-Gezien het nader rapport van de Staatssecretaris van Economische Zaken van 23 november 2004, nr. WJZ 4070645;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -79,7 +48,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. voor zover het bedrijventerrein zijn bestemming van bedrijventerrein verliest;
 
-- g. indien blijkt dat de verstrekking van subsidie leidt tot het verlenen van staatssteun in de zin van [artikel 87 van het EG-Verdrag](onbekend).
+- g. indien blijkt dat de verstrekking van subsidie leidt tot het verlenen van staatssteun in de zin van artikel 87 van het EG-Verdrag.
 
 ##### Artikel 3
 
@@ -214,5 +183,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 18
 
 Dit besluit wordt aangehaald als: Besluit subsidies Topprojecten herstructurering bedrijventerreinen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

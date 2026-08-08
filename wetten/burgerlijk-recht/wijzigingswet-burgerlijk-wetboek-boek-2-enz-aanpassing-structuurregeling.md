@@ -1,54 +1,26 @@
 ---
 title: "Wet van 9 juli 2004 tot wijziging van boek 2 van het Burgerlijk Wetboek in verband met aanpassing van de structuurregeling"
+citeertitel: "Wijzigingswet Burgerlijk Wetboek Boek 2, enz. (aanpassing structuurregeling)"
 identifier: "BWBR0017015"
-country: "nl"
-rank: "wet"
-publication_date: "2004-10-01"
-last_updated: "2004-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017015"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "5975753"
-version_id: "10578732"
-internal_id: "C14459021"
-label_id: "5965234"
-original_entry_into_force: "2004-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017015/2004-10-01/0"
-intitule_bron: "Stb.2004-370"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-09"
-intitule_published: "2004-07-27"
-intitule_in_force: "2004-08-19"
-intitule_status: "goed"
-original_publication: "Stb.2004-370"
-original_signed_date: "2004-07-09"
-original_published_date: "2004-07-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "28179"
-original_url_id: "stb-2004-370"
-entry_into_force_date: "2004-10-01"
-jci_1_3: "jci1.3:c:BWBR0017015&z=2004-10-01&g=2004-10-01"
-jci_1_0: "1.0:c:BWBR0017015&g=2004-10-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Burgerlijk Wetboek Boek 2, enz. (aanpassing structuurregeling)"
-signed_date: "2004-07-09"
-entry_into_force: "2004-10-01"
+publicatiedatum: 2004-10-01
+laatste_update: 2004-10-01
+status: geldig
+toestand: 2004-10-01
+bron: "https://wetten.overheid.nl/BWBR0017015"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 9 juli 2004 tot wijziging van boek 2 van het Burgerlijk Wetboek in verband met aanpassing van de structuurregeling
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de structuurregeling aan te passen en in verband daarmee ook de rechten van aandeelhouders en certificaathouders te versterken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de ondernemingsraden.
+*Wijzigt de Wet op de ondernemingsraden.*
 
 ##### Artikel III
 
@@ -68,6 +40,4 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel VI
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*

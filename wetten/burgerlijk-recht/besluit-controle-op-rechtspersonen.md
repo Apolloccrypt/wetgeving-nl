@@ -1,51 +1,18 @@
 ---
 title: "Besluit van 21 oktober 2004, houdende bepalingen ter uitvoering van de Wet documentatie vennootschappen (Besluit documentatie vennootschappen)"
+citeertitel: "Besluit controle op rechtspersonen"
 identifier: "BWBR0017347"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017347"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "6271213"
-version_id: "10953682"
-internal_id: "C15903371"
-label_id: "6260164"
-original_entry_into_force: "2005-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017347/2024-01-01/0"
-intitule_bron: "Stb.2004-564"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-10-21"
-intitule_published: "2004-11-09"
-intitule_in_force: "2004-12-14"
-intitule_status: "goed"
-original_publication: "Stb.2004-564"
-original_signed_date: "2004-10-21"
-original_published_date: "2004-11-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2004-564"
-entry_into_force_date: "2005-01-01"
-jci_1_3: "jci1.3:c:BWBR0017347&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0017347&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit controle op rechtspersonen"
-signed_date: "2004-10-21"
-entry_into_force: "2005-01-01"
+publicatiedatum: 2005-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0017347"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 21 oktober 2004, houdende bepalingen ter uitvoering van de Wet documentatie vennootschappen (Besluit documentatie vennootschappen)
-
-Op de voordracht van Onze Minister van Justitie van 21 juli 2004, nr. 5299128/04/6;
-
-Gelet op de [artikelen 3, tweede lid, onder f](onbekend), [4, tweede lid](onbekend), [5, tweede lid](onbekend), en [8, tweede lid, van de Wet documentatie vennootschappen](onbekend);
-
-De Raad van State gehoord (advies van 16 augustus 2004, nr. W03.04.0388/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 15 oktober 2004, nr. 5312336/04/6;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet documentatie vennootschappen in werking treedt.
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -79,7 +46,7 @@ Als bestuursorganen of diensten die zijn belast met de opsporing van strafbare f
 
 - g. het openbaar ministerie;
 
-- h. Autoriteit Consument en Markt: de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- h. Autoriteit Consument en Markt: de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
 - i. Onze Minister van Sociale Zaken en Werkgelegenheid, ten behoeve van de door hem aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673);
 
@@ -177,54 +144,6 @@ Over de personen, bedoeld in [artikel 4, eerste en tweede lid van de wet](https:
 
 - u. andere gegevens die reden geven om aan te nemen dat de rechtspersoon wordt gebruikt voor ongeoorloofde doeleinden of dat haar werkzaamheden leiden tot benadeling van schuldeisers of rechthebbenden.
 
-##### Artikel 5
-
-Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4), kunnen in de registratie worden opgenomen:
-
-- a. de datum van een veroordeling van de persoon of van een rechtspersoon waarbij de persoon betrokken is of is geweest terzake van een relevant strafbaar feit, alsmede de aard van het strafbare feit, de aard en de hoogte van de opgelegde straf en de datum waarop het strafbare feit is gepleegd;
-
-- b. de datum van een transactie ten aanzien van de persoon of van een rechtspersoon waarbij de persoon betrokken is of is geweest terzake van een relevant strafbaar feit, alsmede de aard van het strafbare feit, de hoogte van de transactie, de eventueel gestelde andere voorwaarden en de datum waarop het strafbare feit gepleegd zou zijn; en
-
-- c. andere feiten en omstandigheden in verband met een relevant strafbaar feit die reden geven om aan te nemen dat het gevaar bestaat dat de rechtspersoon zal worden gebruikt voor ongeoorloofde doeleinden of dat zijn werkzaamheid zal leiden tot benadeling van zijn schuldeisers.
-
-#### Paragraaf 4. Het verstrekken van gegevens uit de registratie
-
-##### Artikel 6
-
-Aan de volgende instanties of personen worden als vaste gebruikers als bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=6), desgevraagd in individuele gevallen persoonsgegevens uit de registratie verstrekt:
-
-- a. de Algemene Inlichtingen- en Veiligheidsdienst, voor zover dat noodzakelijk is voor de uitvoering van de taken, bedoeld in [artikel 8 van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8);
-
-- b. het openbaar ministerie, de politie, de Koninklijke marechaussee, de bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0015049), de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken, de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), de rijksbelastingdienst, de bestuursorganen die op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) of op grond van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) bevoegd zijn tot het geven van een beschikking of het nemen van een ander besluit, het Uitvoeringsinstituut werknemersverzekeringen, de Sociale Verzekeringsbank en de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu, voor zover dit noodzakelijk is voor de opsporing of vervolging van strafbare feiten;
-
-- c. de Autoriteit Financiële Markten, De Nederlandsche Bank N.V. en de Autoriteit Consument en Markt voor zover dat noodzakelijk is voor de uitoefening van het toezicht op financiële ondernemingen of op de naleving van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691);
-
-- d. de faillissementscuratoren en de rechters-commissarissen in faillissementen, voor zover dat noodzakelijk is voor het beheer en de vereffening van een failliete boedel alsmede voor de uitoefening van het toezicht hierop;
-
-- e. de Financial Intelligence Unit Nederland (FIU-NL), voor zover dat noodzakelijk is voor het verkrijgen van informatie omtrent personen die zijn geregistreerd ter uitvoering van de taken, bedoeld in [artikel 13 van de Wet ter voorkoming van witwassen en financiering van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=13);
-
-- f. de Koninklijke Marine, voor zover dat noodzakelijk is voor de voorkoming en bestrijding van ambtelijke en niet-ambtelijke corruptie;
-
-- g. het Bureau Bevordering Integriteitsbeoordelingen door het Openbaar Bestuur, voor zover dat noodzakelijk is voor het uitvoeren van de taken, bedoeld in [artikel 9, eerste en tweede lid, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9), en bestuursorganen en rechtspersonen met een overheidstaak, bedoeld in [artikel 1, eerste lid, onder a, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1), voor zover dat noodzakelijk is voor de toepassing van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798); en
-
-- h. het Centraal Orgaan Verklaring Omtrent het Gedrag, voor zover dat noodzakelijk is voor het afgeven van een verklaring omtrent het gedrag.
-
-##### Artikel 7
-
-Indien dat noodzakelijk is vanwege een zwaarwegend algemeen belang, verband houdend met de integriteit in het financiële, economische of maatschappelijke verkeer, kunnen desgevraagd uit de registratie persoonsgegevens worden verstrekt aan instanties in een ander land dat geen passende waarborgen als bedoeld in artikel 46 van de Algemene verordening gegevensbescherming biedt en waar betrokkenen niet beschikken over afdwingbare rechten en doeltreffende rechtsmiddelen.
-
-#### Paragraaf 5. Slotbepalingen
-
-##### Artikel 8
-
-Dit besluit treedt in werking op het tijdstip waarop de wet in werking treedt.
-
-##### Artikel 9
-
-Dit besluit wordt aangehaald als: Besluit controle op rechtspersonen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
 ##### Artikel 4a
 
 Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4) kunnen voorts de volgende gegevens of categorieën van gegevens in de registratie worden opgenomen:
@@ -234,6 +153,16 @@ Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet
 - b. de aard van de functie, de bevoegdheid of de hoedanigheid van een natuurlijke of rechtspersoon met betrekking tot de rechtspersonen of vennootschappen waarbij de desbetreffende natuurlijke persoon of rechtspersoon betrokkenheid heeft, en de data van begin en einde van de functie, bevoegdheid of hoedanigheid;
 
 - c. aantal en aard van de aandelen in een rechtspersoon of vennootschappen die de desbetreffende natuurlijke of rechtspersoon houdt.
+
+##### Artikel 5
+
+Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4), kunnen in de registratie worden opgenomen:
+
+- a. de datum van een veroordeling van de persoon of van een rechtspersoon waarbij de persoon betrokken is of is geweest terzake van een relevant strafbaar feit, alsmede de aard van het strafbare feit, de aard en de hoogte van de opgelegde straf en de datum waarop het strafbare feit is gepleegd;
+
+- b. de datum van een transactie ten aanzien van de persoon of van een rechtspersoon waarbij de persoon betrokken is of is geweest terzake van een relevant strafbaar feit, alsmede de aard van het strafbare feit, de hoogte van de transactie, de eventueel gestelde andere voorwaarden en de datum waarop het strafbare feit gepleegd zou zijn; en
+
+- c. andere feiten en omstandigheden in verband met een relevant strafbaar feit die reden geven om aan te nemen dat het gevaar bestaat dat de rechtspersoon zal worden gebruikt voor ongeoorloofde doeleinden of dat zijn werkzaamheid zal leiden tot benadeling van zijn schuldeisers.
 
 #### Paragraaf 4. Het verstrekken van gegevens uit de registratie
 
@@ -289,6 +218,36 @@ Mededeling van gegevens met betrekking tot derden, neergelegd in een risicomeldi
 
 - m. ten aanzien van elk van de bestuursorganen, genoemd in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=4&artikel=5a&z=2024-01-01&g=2024-01-01): aan de Nationale ombudsman en de rechter.
 
+##### Artikel 6
+
+Aan de volgende instanties of personen worden als vaste gebruikers als bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=6), desgevraagd in individuele gevallen persoonsgegevens uit de registratie verstrekt:
+
+- a. de Algemene Inlichtingen- en Veiligheidsdienst, voor zover dat noodzakelijk is voor de uitvoering van de taken, bedoeld in [artikel 8 van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8);
+
+- b. het openbaar ministerie, de politie, de Koninklijke marechaussee, de bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0015049), de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken, de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), de rijksbelastingdienst, de bestuursorganen die op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) of op grond van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) bevoegd zijn tot het geven van een beschikking of het nemen van een ander besluit, het Uitvoeringsinstituut werknemersverzekeringen, de Sociale Verzekeringsbank en de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu, voor zover dit noodzakelijk is voor de opsporing of vervolging van strafbare feiten;
+
+- c. de Autoriteit Financiële Markten, De Nederlandsche Bank N.V. en de Autoriteit Consument en Markt voor zover dat noodzakelijk is voor de uitoefening van het toezicht op financiële ondernemingen of op de naleving van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691);
+
+- d. de faillissementscuratoren en de rechters-commissarissen in faillissementen, voor zover dat noodzakelijk is voor het beheer en de vereffening van een failliete boedel alsmede voor de uitoefening van het toezicht hierop;
+
+- e. de Financial Intelligence Unit Nederland (FIU-NL), voor zover dat noodzakelijk is voor het verkrijgen van informatie omtrent personen die zijn geregistreerd ter uitvoering van de taken, bedoeld in [artikel 13 van de Wet ter voorkoming van witwassen en financiering van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=13);
+
+- f. de Koninklijke Marine, voor zover dat noodzakelijk is voor de voorkoming en bestrijding van ambtelijke en niet-ambtelijke corruptie;
+
+- g. het Bureau Bevordering Integriteitsbeoordelingen door het Openbaar Bestuur, voor zover dat noodzakelijk is voor het uitvoeren van de taken, bedoeld in [artikel 9, eerste en tweede lid, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9), en bestuursorganen en rechtspersonen met een overheidstaak, bedoeld in [artikel 1, eerste lid, onder a, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1), voor zover dat noodzakelijk is voor de toepassing van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798); en
+
+- h. het Centraal Orgaan Verklaring Omtrent het Gedrag, voor zover dat noodzakelijk is voor het afgeven van een verklaring omtrent het gedrag.
+
+##### Artikel 7
+
+Indien dat noodzakelijk is vanwege een zwaarwegend algemeen belang, verband houdend met de integriteit in het financiële, economische of maatschappelijke verkeer, kunnen desgevraagd uit de registratie persoonsgegevens worden verstrekt aan instanties in een ander land dat geen passende waarborgen als bedoeld in artikel 46 van de Algemene verordening gegevensbescherming biedt en waar betrokkenen niet beschikken over afdwingbare rechten en doeltreffende rechtsmiddelen.
+
 #### Paragraaf 5. Slotbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 8
+
+Dit besluit treedt in werking op het tijdstip waarop de wet in werking treedt.
+
+##### Artikel 9
+
+Dit besluit wordt aangehaald als: Besluit controle op rechtspersonen.

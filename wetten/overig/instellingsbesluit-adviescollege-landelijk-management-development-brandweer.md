@@ -1,40 +1,17 @@
 ---
 title: "Instellingsbesluit Adviescollege Landelijk management development brandweer"
 identifier: "BWBR0016766"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-10-27"
-last_updated: "2006-10-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016766"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5899613"
-version_id: "10494222"
-internal_id: "C14249991"
-label_id: "5879344"
-original_entry_into_force: "2004-06-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016766/2006-10-27/0"
-intitule_bron: "Stcrt.2004-109"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-05-27"
-intitule_published: "2004-06-11"
-intitule_in_force: "2004-06-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-109"
-original_signed_date: "2004-05-27"
-original_published_date: "2004-06-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-109-p11-SC65324"
-entry_into_force_date: "2004-06-13"
-jci_1_3: "jci1.3:c:BWBR0016766&z=2006-10-27&g=2006-10-27"
-jci_1_0: "1.0:c:BWBR0016766&g=2006-10-27"
-citeertitel_status: "officieel"
-signed_date: "2004-05-27"
-entry_into_force: "2004-06-13"
+publicatiedatum: 2004-06-13
+laatste_update: 2006-10-27
+status: geldig
+toestand: 2006-10-27
+bron: "https://wetten.overheid.nl/BWBR0016766"
+opgehaald: 2026-08-08
 ---
-# Instellingsbesluit Adviescollege Landelijk management development brandweer
 
-Besluit:
+# Instellingsbesluit Adviescollege Landelijk management development brandweer
 
 ##### Artikel 1
 
@@ -95,25 +72,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescollege Landelijk management development brandweer.
-
-Dit besluit zal met de toelichting worden geplaatst in de Staatscourant.
-
-Afschrift van dit besluit wordt gezonden aan:
-
-– de voorzitter en de leden van het College;
-
-– de voorzitters van de Eerste en Tweede Kamer der Staten-Generaal;
-
-– de Algemene Rekenkamer;
-
-– de Inspectie van de Rijksfinanciën;
-
-– de Vereniging van Nederlandse Gemeenten (VNG);
-
-– de voorzitter van de Koninklijke Nederlandse Vereniging voor Brandweer en Hulpverlening (KNVBH);
-
-– de voorzitter van de Nederlandse Vereniging voor Brandweer en Rampenbestrijding (NVBR);
-
-– de voorzitter van de Raad van Regionaal Commandanten;
-
-– de Vereniging van Gemeentesecretarissen (VGS).

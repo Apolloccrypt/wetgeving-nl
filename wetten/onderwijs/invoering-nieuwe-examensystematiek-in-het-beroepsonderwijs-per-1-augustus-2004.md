@@ -1,36 +1,16 @@
 ---
 title: "Invoering nieuwe examensystematiek in het beroepsonderwijs per 1 augustus 2004"
 identifier: "BWBR0017018"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-08-01"
-last_updated: "2004-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017018"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6458663"
-version_id: "11133862"
-internal_id: "C15051121"
-label_id: "6447504"
-original_entry_into_force: "2004-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017018/2004-08-01/0"
-intitule_bron: "Uitleg.2004-13"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-12"
-intitule_published: "2004-07-28"
-intitule_in_force: "2004-07-28"
-intitule_status: "goed"
-original_publication: "Uitleg.2004-13"
-original_signed_date: "2004-07-12"
-original_published_date: "2004-07-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-08-01"
-jci_1_3: "jci1.3:c:BWBR0017018&z=2004-08-01&g=2004-08-01"
-jci_1_0: "1.0:c:BWBR0017018&g=2004-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "2004-07-12"
-entry_into_force: "2004-08-01"
+publicatiedatum: 2004-08-01
+laatste_update: 2004-08-01
+status: geldig
+toestand: 2004-08-01
+bron: "https://wetten.overheid.nl/BWBR0017018"
+opgehaald: 2026-08-08
 ---
+
 # Invoering nieuwe examensystematiek in het beroepsonderwijs per 1 augustus 2004
 
 Met ingang van 1 augustus 2004 treedt de nieuwe examensystematiek in werking voor het middelbaar beroepsonderwijs.
@@ -92,6 +72,12 @@ Het Kwaliteitcentrum examinering beroepsonderwijs (KCE) houdt toezicht op de exa
 ### Verklaringen
 
 Het KCE reikt bij de afsluiting van het onderzoek een verklaring uit aan de instelling die verantwoordelijk is voor de examinering. De openbare verklaring bevat een onderbouwing van de bevindingen van het KCE, zodat te zien is in welke mate de instelling bij de examinering aan de standaarden heeft voldaan. Er is sprake van drie soorten verklaringen:
+
+- Een goedkeurende verklaring: die wordt uitgereikt als het KCE van oordeel is dat de examinering in voldoende mate voldoet aan de standaarden.
+
+- Een voorwaardelijke verklaring: die wordt uitgereikt als de examinering nog niet in voldoende mate voldoet aan de standaarden, maar er geen sprake is van zeer ernstige tekortkomingen en naar het oordeel van het KCE de verwachting gerechtvaardigd is dat de instelling de door het KCE vastgestelde tekortkomingen binnen een jaar zal hebben weggewerkt.
+
+- Een afkeurende verklaring: die wordt uitgereikt als de examinering niet in voldoende mate voldoet aan de standaarden, zonder dat het KCE de verwachting heeft dat de instelling binnen een jaar alsnog in voldoende mate aan die standaarden kan voldoen, of als de instelling reeds het voorgaande jaar een voorwaardelijke verklaring heeft ontvangen en er niet voldoende verbetering is opgetreden.
 
 ### Ontneming recht op examinering
 

@@ -8,7 +8,7 @@ laatste_update: 1966-05-21
 status: geldig
 toestand: 1966-05-21
 bron: "https://wetten.overheid.nl/BWBV0004357"
-opgehaald: 2026-07-29
+opgehaald: 2026-08-08
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Chili inzake luchtdiensten

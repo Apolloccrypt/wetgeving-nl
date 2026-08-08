@@ -1,88 +1,20 @@
 ---
 title: "Wet van 23 december 2004, houdende regels met betrekking tot het verstrekken van een brede doeluitkering aan provincies en regionaal openbare lichamen ten behoeve van de uitvoering van een integraal verkeer- en vervoerbeleid (Wet BDU verkeer en vervoer)"
+citeertitel: "Wet BDU verkeer en vervoer"
 identifier: "BWBR0017828"
-country: "nl"
-rank: "wet"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017828"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "6663323"
-version_id: "11498212"
-internal_id: "C15806551"
-label_id: "6652024"
-original_entry_into_force: "2005-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017828/2018-01-01/0"
-intitule_bron: "Stb.2005-28"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-23"
-intitule_published: "2005-01-25"
-intitule_in_force: "2005-03-15"
-intitule_status: "goed"
-original_publication: "Stb.2005-28"
-original_signed_date: "2004-12-23"
-original_published_date: "2005-01-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "29469"
-original_url_id: "stb-2005-28"
-entry_into_force_date: "2005-03-16"
-jci_1_3: "jci1.3:c:BWBR0017828&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0017828&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet BDU verkeer en vervoer"
-signed_date: "2004-12-23"
-entry_into_force: "2005-03-16"
+publicatiedatum: 2005-03-16
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0017828"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 23 december 2004, houdende regels met betrekking tot het verstrekken van een brede doeluitkering aan provincies en regionaal openbare lichamen ten behoeve van de uitvoering van een integraal verkeer- en vervoerbeleid (Wet BDU verkeer en vervoer)
 
 ### Hoofdstuk 1. Algemene bepalingen
-
-### Hoofdstuk 1. Algemene bepalingen
-
-### Hoofdstuk 3. Berekening van de uitkering
-
-### Hoofdstuk 2. Verstrekking van de uitkering
-
-### Hoofdstuk 5. Verantwoording over de uitkering
-
-### Hoofdstuk 6. Wijziging andere wetten
-
-##### Artikel 16
-
-Wijzigt de Wet personenvervoer 2000.
-
-##### Artikel 17
-
-Wijzigt de Kaderwet bestuur in verandering.
-
-##### Artikel 18
-
-Wijzigt de Wet Infrastructuurfonds.
-
-##### Artikel 19
-
-Wijzigt de Wet verontreiniging oppervlaktewateren.
-
-##### Artikel 20
-
-Wijzigt de Spoorwegwet.
-
-##### Artikel 21
-
-Wijzigt de Wet kabelbaaninstallaties.
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk 7. Overgangsrecht
-
-### Hoofdstuk 8. Slotbepalingen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is verscheidene uitkeringen voor aspecten van het verkeer- en vervoerbeleid samen te voegen tot een gebundelde doeluitkering om de effectiviteit van het beleid te vergroten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -100,9 +32,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. verkeer- en vervoerbeleid: het samenstel van maatregelen gericht op aanleg, verbetering van de functionaliteit en op de instandhouding van de gebruiksfunctie van onroerende voorzieningen ten behoeve van het vervoer van personen en goederen, op exploitatie van openbaar en daarmee gelijkgesteld vervoer als bedoeld in de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), op verkeersveiligheid en op de overige maatregelen gericht op beïnvloeden van de keuze van een vervoersmodaliteit.
 
+### Hoofdstuk 2. Verstrekking van de uitkering
+
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
@@ -146,23 +80,23 @@ Vervallen
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
 1. Het dagelijks bestuur kan een gedeelte van de uitkering reserveren voor het doen van uitgaven in de jaren die volgen op het uitkeringsjaar.
 
-2. Vervallen.
+2. *Vervallen.*
 
-3. Vervallen.
+3. *Vervallen.*
 
 ### Hoofdstuk 5. Verantwoording over de uitkering
 
@@ -208,33 +142,59 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 ### Hoofdstuk 6. Wijziging andere wetten
 
+##### Artikel 16
+
+*Wijzigt de Wet personenvervoer 2000.*
+
+##### Artikel 17
+
+*Wijzigt de Kaderwet bestuur in verandering.*
+
+##### Artikel 18
+
+*Wijzigt de Wet Infrastructuurfonds.*
+
+##### Artikel 19
+
+*Wijzigt de Wet verontreiniging oppervlaktewateren.*
+
+##### Artikel 20
+
+*Wijzigt de Spoorwegwet.*
+
+##### Artikel 21
+
+*Wijzigt de Wet kabelbaaninstallaties.*
+
+*Dit onderdeel is nog niet inwerking getreden*
+
 ### Hoofdstuk 7. Overgangsrecht
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-1. Wijzigt de Spoorwegwet.
+1. *Wijzigt de Spoorwegwet.*
 
-2. Wijzigt deze wet.
+2. *Wijzigt deze wet.*
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -251,5 +211,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 30
 
 Deze wet wordt aangehaald als: Wet BDU verkeer en vervoer
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

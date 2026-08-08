@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0047959"
-opgehaald: 2026-08-07
+opgehaald: 2026-08-08
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 9 maart 2023, nr. MBO/36996245, houdende regels voor de verstrekking van aanvullende bekostiging voor het verhogen van de kwaliteit van het beroepsonderwijs 2024–2027 (Regeling kwaliteitsafspraken mbo 2024–2027)

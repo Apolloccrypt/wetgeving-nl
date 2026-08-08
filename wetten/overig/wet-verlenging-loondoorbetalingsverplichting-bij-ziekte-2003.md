@@ -1,98 +1,68 @@
 ---
 title: "Wet van 19 december 2003, houdende verlenging van de loondoorbetalingsverplichting van de werkgever bij ziekte (Wet verlenging loondoorbetalingsverplichting bij ziekte 2003)"
+citeertitel: "Wet verlenging loondoorbetalingsverplichting bij ziekte 2003"
 identifier: "BWBR0016233"
-country: "nl"
-rank: "wet"
-publication_date: "2005-09-01"
-last_updated: "2005-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016233"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "5577183"
-version_id: "10018472"
-internal_id: "C13568411"
-label_id: "5548664"
-original_entry_into_force: "2004-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016233/2005-09-01/0"
-intitule_bron: "Stb.2003-555"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-12-19"
-intitule_published: "2003-12-30"
-intitule_in_force: "2003-12-30"
-intitule_status: "goed"
-original_publication: "Stb.2003-555"
-original_signed_date: "2003-12-19"
-original_published_date: "2003-12-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "29231"
-original_url_id: "stb-2003-555"
-entry_into_force_date: "2004-01-01"
-jci_1_3: "jci1.3:c:BWBR0016233&z=2005-09-01&g=2005-09-01"
-jci_1_0: "1.0:c:BWBR0016233&g=2005-09-01"
-citeertitel_status: "officieel"
-short_title: "Wet verlenging loondoorbetalingsverplichting bij ziekte 2003"
-signed_date: "2003-12-19"
-entry_into_force: "2004-01-01"
+publicatiedatum: 2004-01-01
+laatste_update: 2005-09-01
+status: geldig
+toestand: 2005-09-01
+bron: "https://wetten.overheid.nl/BWBR0016233"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 19 december 2003, houdende verlenging van de loondoorbetalingsverplichting van de werkgever bij ziekte (Wet verlenging loondoorbetalingsverplichting bij ziekte 2003)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+##### Artikel I. Wet op de arbeidsongeschiktheidsverzekering
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om een verlenging van de wachttijd in de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) in te voeren, de bepalingen over de loondoorbetalingverplichting van de werkgever in het [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290) en de duur van de uitkering op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) in verband daarmee aan te passen alsmede enige andere wijzigingen aan te brengen met het oog op verbetering van de procesgang tijdens het tweede ziektejaar van de werknemer en een heldere verantwoordelijkheidsverdeling van werkgevers, werknemers, arbodiensten en uitvoeringsinstanties daarbij;
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+##### Artikel II. Burgerlijk Wetboek
 
-De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
+*Wijzigt Boek 7 van het Burgerlijk Wetboek.*
 
-##### Artikel I. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel III. Overgangswet nieuw Burgerlijk Wetboek
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Overgangswet nieuw Burgerlijk Wetboek.*
 
-##### Artikel II. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
+##### Artikel IV. Ziektewet
 
-Wijzigt Boek 7 van het Burgerlijk Wetboek.
-
-##### Artikel III. [Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565)
-
-Wijzigt de Overgangswet nieuw Burgerlijk Wetboek.
-
-##### Artikel IV. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
-
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel V. Overheidspersoneel
 
-- A. Wijzigt de Wet terugdringing ziekteverzuim.
+- A *Wijzigt de Wet terugdringing ziekteverzuim.*
 
-- B. De wijzigingen in [Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290), bedoeld in [artikel II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016233&artikel=II&z=2005-09-01&g=2005-09-01), worden voor ambtenaren, militaire ambtenaren respectievelijk rechterlijke ambtenaren op overeenkomstige wijze aangebracht in op [artikel 125 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [artikel 50, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=50) en [artikel 12 van de Militaire Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) gebaseerde voorschriften respectievelijk het bij of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde. Over de wijzigingen ingevolge de eerste volzin behoeft geen overeenstemming te worden bereikt in het overleg met de vakorganisaties van overheidspersoneel.
+- B De wijzigingen in [Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290), bedoeld in [artikel II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016233&artikel=II&z=2005-09-01&g=2005-09-01), worden voor ambtenaren, militaire ambtenaren respectievelijk rechterlijke ambtenaren op overeenkomstige wijze aangebracht in op [artikel 125 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [artikel 50, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=50) en [artikel 12 van de Militaire Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) gebaseerde voorschriften respectievelijk het bij of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde. Over de wijzigingen ingevolge de eerste volzin behoeft geen overeenstemming te worden bereikt in het overleg met de vakorganisaties van overheidspersoneel.
 
-##### Artikel VI. [Wet arbeid mijnbouw Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0005703)
+##### Artikel VI. Wet arbeid mijnbouw Noordzee
 
-Wijzigt de Wet arbeid mijnbouw Noordzee.
+*Wijzigt de Wet arbeid mijnbouw Noordzee.*
 
 ##### Artikel VII
 
-Vervallen
+*Vervallen*
 
-##### Artikel VIII. [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel VIII. Wet op de (re)integratie arbeidsgehandicapten
 
-Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.
+*Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.*
 
-##### Artikel IX. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel IX. Werkloosheidswet
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
-##### Artikel X. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
+##### Artikel X. Wet structuur uitvoeringsorganisatie werk en inkomen
 
-Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
+*Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.*
 
-##### Artikel XI. [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126)
+##### Artikel XI. Coördinatiewet Sociale Verzekering
 
-Wijzigt de Coördinatiewet Sociale Verzekering.
+*Wijzigt de Coördinatiewet Sociale Verzekering.*
 
-##### Artikel XII. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
+##### Artikel XII. Toeslagenwet
 
-Wijzigt de Toeslagenwet.
+*Wijzigt de Toeslagenwet.*
 
 ##### Artikel XIII. Evaluatiebepaling
 
@@ -111,5 +81,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel XVI. Citeertitel
 
 Deze wet wordt aangehaald als: Wet verlenging loondoorbetalingsverplichting bij ziekte 2003.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

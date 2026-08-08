@@ -1,42 +1,17 @@
 ---
 title: "Besluit landelijk overleg milieuwethandhaving"
 identifier: "BWBR0016651"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-06-16"
-last_updated: "2005-06-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016651"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "7091833"
-version_id: "11983982"
-internal_id: "C29166251"
-label_id: "7079944"
-original_entry_into_force: "2005-06-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016651/2005-06-16/0"
-intitule_bron: "Stcrt.2005-112"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-04-26"
-intitule_published: "2005-06-14"
-intitule_in_force: "2005-06-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-112"
-original_signed_date: "2004-04-26"
-original_published_date: "2005-06-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-112-p23-SC70320"
-entry_into_force_date: "2005-06-16"
-jci_1_3: "jci1.3:c:BWBR0016651&z=2005-06-16&g=2005-06-16"
-jci_1_0: "1.0:c:BWBR0016651&g=2005-06-16"
-citeertitel_status: "officieel"
-signed_date: "2004-04-26"
-entry_into_force: "2005-06-16"
+publicatiedatum: 2005-06-16
+laatste_update: 2005-06-16
+status: geldig
+toestand: 2005-06-16
+bron: "https://wetten.overheid.nl/BWBR0016651"
+opgehaald: 2026-08-08
 ---
+
 # Besluit landelijk overleg milieuwethandhaving
-
-In overeenstemming met de Ministers van Justitie, van Verkeer en Waterstaat, van Landbouw, Natuurbeheer en Voedselkwaliteit, van Economische Zaken en van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Besluit:
 
 #### § 1. Het Bestuurlijk landelijk overleg milieuwethandhaving
 

@@ -1,51 +1,22 @@
 ---
 title: "Wet van 4 november 2004 tot wijziging van de Wet op de vennootschapsbelasting 1969 in verband met de invoering van een aftrekverbod voor de aankoopkosten van een deelneming"
+citeertitel: "Wijzigingswet Wet op de vennootschapsbelasting 1969 (invoering aftrekverbod aankoopkosten van een deelneming)"
 identifier: "BWBR0017439"
-country: "nl"
-rank: "wet"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017439"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "6348013"
-version_id: "11004212"
-internal_id: "C14897071"
-label_id: "6336844"
-original_entry_into_force: "2005-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017439/2007-01-01/0"
-intitule_bron: "Stb.2004-581"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-04"
-intitule_published: "2004-11-18"
-intitule_in_force: "2004-11-18"
-intitule_status: "goed"
-original_publication: "Stb.2004-581"
-original_signed_date: "2004-11-04"
-original_published_date: "2004-11-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "29381"
-original_url_id: "stb-2004-581"
-entry_into_force_date: "2005-02-01"
-entry_into_force_dossier: "29381"
-jci_1_3: "jci1.3:c:BWBR0017439&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0017439&g=2007-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op de vennootschapsbelasting 1969 (invoering aftrekverbod aankoopkosten van een deelneming)"
-signed_date: "2004-11-04"
-entry_into_force: "2005-02-01"
+publicatiedatum: 2005-02-01
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0017439"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 4 november 2004 tot wijziging van de Wet op de vennootschapsbelasting 1969 in verband met de invoering van een aftrekverbod voor de aankoopkosten van een deelneming
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het mede om budgettaire redenen noodzakelijk is een aftrekbeperking in te voeren voor de aankoopkosten van een deelneming;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel II
 
@@ -62,5 +33,3 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 1. Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
 2. Kosten ter zake van de verwerving van een deelneming gemaakt na 13 december 2002 doch vóór de inwerkingtreding van deze wet worden beheerst door het regime van [artikel 13 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) luidt na de inwerkingtreding van deze wet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

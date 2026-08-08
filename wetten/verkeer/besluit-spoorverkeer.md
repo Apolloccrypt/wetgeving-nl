@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 3 december 2004, houdende regels met betrekking tot het veilig en ongestoord gebruik van hoofdspoorwegen (Besluit spoorverkeer)"
+citeertitel: "Besluit spoorverkeer"
 identifier: "BWBR0017624"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-09-01"
-last_updated: "2023-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017624"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "6472983"
-version_id: "22539942"
-internal_id: "C32333051"
-label_id: "6462084"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017624/2023-09-01/0"
-intitule_bron: "Stb.2004-662"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-03"
-intitule_published: "2004-12-21"
-intitule_in_force: "2004-12-30"
-intitule_status: "goed"
-original_publication: "Stb.2015-267"
-original_signed_date: "2015-06-25"
-original_published_date: "2015-07-03"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2015-267"
-entry_into_force_date: "2015-07-04"
-jci_1_3: "jci1.3:c:BWBR0017624&z=2023-09-01&g=2023-09-01"
-jci_1_0: "1.0:c:BWBR0017624&g=2023-09-01"
-citeertitel_status: "officieel"
-short_title: "Besluit spoorverkeer"
-signed_date: "2015-06-25"
-entry_into_force: "2015-07-04"
+publicatiedatum: 2015-07-04
+laatste_update: 2023-09-01
+status: geldig
+toestand: 2023-09-01
+bron: "https://wetten.overheid.nl/BWBR0017624"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 3 december 2004, houdende regels met betrekking tot het veilig en ongestoord gebruik van hoofdspoorwegen (Besluit spoorverkeer)
-
-Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 16 september 2003, Hoofddirectie Juridische Zaken, nr. HDJZ/S&W/2003-1877;
-
-Gelet op [richtlijn 2001/14/EG](32001L0014) en op de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=23), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=65) en [87, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=87);
-
-De Raad van State gehoord (advies van 19 december 2003, nr. W09.03.0393/V);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 29 november 2004, nr. HDJZ/S&W/2004-2899, Hoofddirectie Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -64,7 +32,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - sein: verkeersteken inhoudende een ge- of verbod, een waarschuwing of een aanduiding;
 
-- **TSI Exploitatie en verkeersleiding:** Uitvoerings[verordening (EU) 2019/773](32673R2019) van de Commissie van 16 mei 2019 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie en tot intrekking van Besluit 2012/757/EU (PbEU 2019, L 139I);
+- *TSI Exploitatie en verkeersleiding:* Uitvoeringsverordening (EU) 2019/773 van de Commissie van 16 mei 2019 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie en tot intrekking van Besluit 2012/757/EU (PbEU 2019, L 139I);
 
 - wet: de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
@@ -72,11 +40,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -114,15 +82,17 @@ Vervallen
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld over het veilig en ongestoord gebruik van hoofdspoorwegen en spoorvoertuigen.
+
+#### § 3. Treinsamenstelling
 
 ##### Artikel 10
 
@@ -140,11 +110,11 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over het veilig e
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -152,19 +122,21 @@ In afwijking van de geldende paragrafen van de TSI Exploitatie en verkeersleidin
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
+
+#### § 4. Veilig vertrek en vervoer
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
@@ -175,8 +147,6 @@ Op hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspo
 1. Onverminderd [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=18&z=2023-09-01&g=2023-09-01) en de door de seinen aangegeven maximumsnelheid is de snelheid op de hoofdspoorweg niet hoger dan de door de betrokken spoorwegonderneming voor de trein vastgestelde maximumsnelheid.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over het vaststellen van de maximum snelheid.
-
-#### § 3. Seinen
 
 ##### Artikel 20
 
@@ -192,11 +162,9 @@ Op hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspo
 
 2. Onze Minister kan gedeelten van de hoofdspoorweg als bedoeld in het eerste lid, onderdeel a, aanwijzen waarop het eerste lid niet van toepassing is.
 
-#### § 3. Seinen
-
 ##### Artikel 21
 
-1. Indien gereden wordt over hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2), die gelegen zijn in een kruising of een samenloop met een voor het openbaar verkeer openstaande weg als bedoeld in de [Wegenverkeerswet 1994](onbekend), en die niet worden aangeduid als een overweg door middel van de borden J12 en J13 van [bijlage 1 bij RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1):
+1. Indien gereden wordt over hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2), die gelegen zijn in een kruising of een samenloop met een voor het openbaar verkeer openstaande weg als bedoeld in de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622), en die niet worden aangeduid als een overweg door middel van de borden J12 en J13 van [bijlage 1 bij RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1):
 
 - a. wordt de snelheid verminderd en wordt zo nodig gestopt als de veiligheid van het verkeer dat verlangt;
 
@@ -208,8 +176,6 @@ Op hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspo
 
 2. Wanneer de stoptekens en aanwijzingen, bedoeld in het eerste lid, onderdeel d, niet door de bestuurder kunnen worden gegeven, worden deze gegeven door de begeleider van de trein.
 
-#### § 4. Werkzaamheden aan of nabij de hoofdspoorweg
-
 ##### Artikel 22
 
 1. Op kruisingen van hoofdspoorwegen met niet voor het openbaar verkeer openstaande wegen verlenen weggebruikers voorrang aan spoorvoertuigen.
@@ -220,39 +186,39 @@ Op hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspo
 
 - b. indien aldaar door een begeleider van een trein een stopteken overeenkomstig model F 10 van [bijlage I van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1), een rode vlag of een rode lamp wordt getoond.
 
+#### § 5. Informatieverplichtingen en communicatie
+
 ##### Artikel 23
 
-Vervallen
-
-#### § 6. Samenstelling treinen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
-#### § 7. Verlichting en signalering
+#### § 6. Verplichtingen bij onregelmatigheden
 
 ##### Artikel 26
 
 1. De beheerder kan bij gestoord bedrijf, incidenten of noodsituaties aan de bestuurder of andere personen die deelnemen aan het spoorverkeer, aanwijzingen geven inzake het veilig en ongestoord gebruik van de hoofdspoorweg. Deze personen zijn verplicht deze aanwijzingen op te volgen.
 
-2. De maatregelen die worden gehanteerd bij gestoord bedrijf, incidenten, noodsituaties en bij het herstel van het veilige en ongestoorde treinverkeer houden in elk geval in dat de beheerder een noodplan opstelt dat voldoet aan artikel 54, eerste lid, van [richtlijn 2012/34/EU](32012L0034).
+2. De maatregelen die worden gehanteerd bij gestoord bedrijf, incidenten, noodsituaties en bij het herstel van het veilige en ongestoorde treinverkeer houden in elk geval in dat de beheerder een noodplan opstelt dat voldoet aan artikel 54, eerste lid, van richtlijn 2012/34/EU.
 
 3. De spoorwegonderneming doet onverwijld melding aan Onze Minister van storingen of andere onregelmatigheden die een veilig en ongestoord gebruik van de hoofdspoorweg in gevaar brengen of kunnen brengen, voor zover deze een trein betreffen waarmee in haar opdracht gebruik wordt gemaakt van de hoofdspoorweg.
 
 ##### Artikel 27
 
-Vervallen
-
-#### § 7. Gebruik van hoofdspoorwegen uitsluitend binnen spoorwegemplacementen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
+
+#### § 7. Gebruik van hoofdspoorwegen uitsluitend binnen spoorwegemplacementen
 
 ##### Artikel 29
 
@@ -276,8 +242,6 @@ Bij rangeren en parkeren kunnen de regels met betrekking tot geluidsinstallaties
 
 Het is verboden om bij het rangeren te rijden met een hogere snelheid dan 40 kilometer per uur.
 
-#### § 9. Noodremming
-
 ##### Artikel 33
 
 De spoorwegonderneming verstrekt voordat in haar opdracht wordt gerangeerd, aan de bestuurder en de rangeerder een rangeeropdracht en aan de beheerder een rangeerplan.
@@ -288,11 +252,11 @@ De spoorwegonderneming verstrekt voordat in haar opdracht wordt gerangeerd, aan 
 
 2. Het eerste lid is niet van toepassing gedurende de periode dat een trein is geparkeerd.
 
+#### § 8. Overige bepalingen
+
 ##### Artikel 35
 
 Bij ministeriële regeling kunnen nadere regels gesteld worden over aanwijzingen als bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2023-09-01&g=2023-09-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=6&z=2023-09-01&g=2023-09-01) en [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=10&z=2023-09-01&g=2023-09-01).
-
-#### § 10. Diverse bepalingen
 
 ##### Artikel 36
 
@@ -310,141 +274,37 @@ De beheerder draagt er zorg voor:
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
+
+#### § 9. Handhaving
 
 ##### Artikel 39
 
 Overtreding van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=22&z=2023-09-01&g=2023-09-01) vormt een strafbaar feit in de zin van [artikel 87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=87).
 
-#### § 10. Overgangsrecht
-
 ##### Artikel 40
 
 Overtreding van de [artikelen 4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2023-09-01&g=2023-09-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=5&z=2023-09-01&g=2023-09-01), [6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=6&z=2023-09-01&g=2023-09-01), [10, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=10&z=2023-09-01&g=2023-09-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=13&z=2023-09-01&g=2023-09-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=18&z=2023-09-01&g=2023-09-01), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=19&z=2023-09-01&g=2023-09-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=20&z=2023-09-01&g=2023-09-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=21&z=2023-09-01&g=2023-09-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=26&z=2023-09-01&g=2023-09-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=32&z=2023-09-01&g=2023-09-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=33&z=2023-09-01&g=2023-09-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=37&z=2023-09-01&g=2023-09-01), vormt een beboetbaar feit in de zin van [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77).
 
-#### § 12. Bepalingen van strafrechtelijke aard
+#### § 10. Overgangsrecht
 
 ##### Artikel 41
 
-Vervallen
-
-#### § 11. Slotbepalingen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
 Na de inwerkingtreding van [artikel 23 van het Besluit bijzondere spoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&artikel=23) berust de [Regeling spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017707) op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=9&z=2023-09-01&g=2023-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=10&z=2023-09-01&g=2023-09-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=19&z=2023-09-01&g=2023-09-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=30&z=2023-09-01&g=2023-09-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=35&z=2023-09-01&g=2023-09-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=36&z=2023-09-01&g=2023-09-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=37&z=2023-09-01&g=2023-09-01) van het Besluit spoorverkeer.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a
-
-Op hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=2) bedraagt de maximumsnelheid 30 kilometer per uur.
-
-#### § 3. Seinen
-
-#### § 4. Werkzaamheden aan of nabij de hoofdspoorweg
-
-#### § 5. Informatieverplichtingen en communicatie
-
-#### § 6. Samenstelling treinen
-
-#### § 7. Verlichting en signalering
-
-#### § 8. Gebruik van hoofdspoorwegen uitsluitend binnen spoorwegemplacementen
-
-#### § 8. Overige bepalingen
-
-#### § 10. Diverse bepalingen
-
-#### § 11. Ontheffing en vrijstelling
-
-#### § 11. Ontheffing en vrijstelling
-
-#### § 12. Bepalingen van strafrechtelijke aard
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 39a
-
-[Artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36) geldt niet voor een spoorvoertuig:
-
-- a. dat in overeenstemming met de op 31 december 2004 geldende voorschriften kon worden gebruikt op een hoofdspoorweg;
-
-- b. waarvoor Onze Minister voor 19 juli 2008 een inzetcertificaat heeft verleend als bedoeld in [artikel 36, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36), zoals dat op 19 juli 2008 luidde;
-
-- c. dat voldoet aan de technische voorschriften van de Overeenkomst inzake het wederzijdse gebruik van personenrijtuigen en bagagewagens in het internationale verkeer (RIC) in haar laatst geldende redactie, in het voertuigregister van een staat is ingeschreven, en waarmee voor 19 juli 2008 van hoofdspoorweginfrastructuur gebruik werd gemaakt, of
-
-- d. dat voldoet aan de technische voorschriften van de Overeenkomst inzake het wederzijdse gebruik van goederenwagens in het internationale verkeer (RIV) in haar laatst geldende redactie, in het voertuigregister van een staat is ingeschreven, en waarmee voor 19 juli 2008 gebruik werd gemaakt van hoofdspoorweginfrastructuur.
-
-##### Artikel 39b
-
-1. Bij regeling van Onze Minister worden regels gesteld over het onderzoek naar de overeenstemming van de productie van het spoorvoertuig waarvoor een vergunning voor indienststelling respectievelijk aanvullende vergunning voor indienststelling van het type is verleend, met dat type.
-
-2. Bij regeling van Onze Minister worden met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels gesteld over de verlening en aanvraag van:
-
-- a. de vergunning voor indienststelling, bedoeld in [artikel 36, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36) en van de vergunning voor indienststelling of van de nieuwe vergunning voor indienststelling, bedoeld in [artikel 37b, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=37b);
-
-- b. de aanvullende vergunning voor indienststelling, bedoeld in [artikel 36, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36) en van de aanvullende vergunning voor indienststelling en van de nieuwe aanvullende vergunning voor indienststelling, bedoeld in [artikel 37b, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=37b)
-
-3. Bij regeling van Onze Minister kunnen met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels worden gesteld over de afgifte, vorm en inhoud van de EG-keuringsverklaring, bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=8), onderscheidenlijk [artikel 36, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36) en het informatiedossier, bedoeld in [artikel 37b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=37b).
-
-4. Bij regeling van Onze Minister kunnen met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels worden gesteld over het registreren of bewaren van gegevens over:
-
-- a. de afgifte van de EG-keuringsverklaring, bedoeld in [artikel 36, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36);
-
-- b. de afgifte van de verklaring, bedoeld in [artikel 36, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36) of van de verklaring, bedoeld in [artikel 37b, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=37b);
-
-- c. de aanvraag en de verlening van de vergunning voor indienststelling, bedoeld in [artikel 36, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36) of van de vergunning voor indienststelling of nieuwe vergunning voor indienststelling, bedoeld [artikel 37b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=37b) en
-
-- d. de aanvraag en de verlening van de aanvullende vergunning voor indienststelling, bedoeld in [artikel 36, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36) of van de aanvullende vergunning voor indienststelling of nieuwe vergunning voor indienststelling, bedoeld in [artikel 37b, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=37b).
-
-5. Bij regeling van Onze Minister kunnen met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels worden gesteld over:
-
-- a. vorm en inhoud van de EG-verklaringen van conformiteit of geschiktheid voor gebruik als bedoeld in artikel 13, eerste lid, van richtlijn 2008/57/EG, alsmede over het registreren of bewaren van gegevens of documenten over de afgifte, en
-
-- b. het onderzoek naar de overeenstemming van de productie van interoperabiliteitsonderdelen waarvoor goedkeuring van het type is verleend, met het goedgekeurde type.
-
-#### § 13. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 19a
-
-Bij ministeriële regeling kunnen nadere regels worden gesteld over het veilig en ongestoord gebruik van hoofdspoorwegen en spoorvoertuigen.
-
-#### § 5. Verplichtingen bij onregelmatigheden
-
-#### § 6. Verplichtingen bij onregelmatigheden
-
-#### § 7. Verlichting en signalering
-
-#### § 8. Gebruik van hoofdspoorwegen uitsluitend binnen spoorwegemplacementen
-
-#### § 9. Noodremming
-
-#### § 9. Handhaving
-
-#### § 12. Bepalingen van strafrechtelijke aard
-
-##### Artikel 41a
-
-Overtreding van de [artikelen 2, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), [4, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=6&z=2013-01-01&g=2013-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=7&z=2013-01-01&g=2013-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=8&z=2013-01-01&g=2013-01-01), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=8a&z=2013-01-01&g=2013-01-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=9&z=2013-01-01&g=2013-01-01), [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=10&z=2013-01-01&g=2013-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=11&z=2013-01-01&g=2013-01-01), [12, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=12&z=2013-01-01&g=2013-01-01), [13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=13&z=2013-01-01&g=2013-01-01), [14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=14&z=2013-01-01&g=2013-01-01), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=15&z=2013-01-01&g=2013-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=16&z=2013-01-01&g=2013-01-01), [18, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=18&z=2013-01-01&g=2013-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=19&z=2013-01-01&g=2013-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=21&z=2013-01-01&g=2013-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=5&artikel=22&z=2013-01-01&g=2013-01-01), [23, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=5&artikel=23&z=2013-01-01&g=2013-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=24&z=2013-01-01&g=2013-01-01), [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=25&z=2013-01-01&g=2013-01-01), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=27&z=2013-01-01&g=2013-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=30&z=2013-01-01&g=2013-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=31&z=2013-01-01&g=2013-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=9&artikel=34&z=2013-01-01&g=2013-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=9&artikel=35&z=2013-01-01&g=2013-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=10&artikel=36&z=2013-01-01&g=2013-01-01), [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=10&artikel=37&z=2013-01-01&g=2013-01-01), en [40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=11&artikel=40&z=2013-01-01&g=2013-01-01), vormt een beboetbaar feit in de zin van [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77).
-
-#### § 13. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### § 3. Treinsamenstelling
-
-#### § 4. Veilig vertrek en vervoer
+#### § 11. Slotbepalingen
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 

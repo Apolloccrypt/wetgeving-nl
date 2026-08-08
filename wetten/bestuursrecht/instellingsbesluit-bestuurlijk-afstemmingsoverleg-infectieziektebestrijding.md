@@ -1,41 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 29 november 2004, nr. PG/ZP 2.528.045, tot instelling van een bestuurlijk afstemmingsoverleg infectieziektebestrijding"
+citeertitel: "Instellingsbesluit Bestuurlijk afstemmingsoverleg infectieziektebestrijding"
 identifier: "BWBR0017587"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017587"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "6405693"
-version_id: "11070712"
-internal_id: "C14980571"
-label_id: "6394454"
-original_entry_into_force: "2005-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017587/2018-08-01/0"
-intitule_bron: "Stcrt.2004-236"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-29"
-intitule_published: "2004-12-07"
-intitule_in_force: "2004-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-236"
-original_signed_date: "2004-11-29"
-original_published_date: "2004-12-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-236-p10-SC67613"
-entry_into_force_date: "2005-01-01"
-jci_1_3: "jci1.3:c:BWBR0017587&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0017587&g=2018-08-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Bestuurlijk afstemmingsoverleg infectieziektebestrijding"
-signed_date: "2004-11-29"
-entry_into_force: "2005-01-01"
+publicatiedatum: 2005-01-01
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0017587"
+opgehaald: 2026-08-08
 ---
-# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 29 november 2004, nr. PG/ZP 2.528.045, tot instelling van een bestuurlijk afstemmingsoverleg infectieziektebestrijding
 
-Besluit:
+# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 29 november 2004, nr. PG/ZP 2.528.045, tot instelling van een bestuurlijk afstemmingsoverleg infectieziektebestrijding
 
 ##### Artikel 1
 
@@ -92,5 +69,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2005.
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Bestuurlijk afstemmingsoverleg infectieziektebestrijding.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

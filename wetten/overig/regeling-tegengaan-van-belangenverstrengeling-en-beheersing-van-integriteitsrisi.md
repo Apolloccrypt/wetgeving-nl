@@ -1,57 +1,32 @@
 ---
 title: "Regeling van de Pensioen- & Verzekeringskamer van 18 december 2003, nr. 0.851.3/03-8451, houdende uitvoering van de artikelen 2 lid 2 en 3 lid 3 van het Besluit integere bedrijfsvoering kredietinstellingen en verzekeraars (Regeling tegengaan van belangenverstrengeling en beheersing van integriteitsrisico's verzekeraars)"
+citeertitel: "Regeling tegengaan van belangenverstrengeling en beheersing van integriteitsrisico's verzekeraars"
 identifier: "BWBR0016194"
-country: "nl"
-rank: "zbo"
-publication_date: "2004-01-01"
-last_updated: "2004-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016194"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "6576313"
-version_id: "11398712"
-internal_id: "C15348601"
-label_id: "6564814"
-original_entry_into_force: "2004-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016194/2004-01-01/0"
-intitule_bron: "Stcrt.2003-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-12-18"
-intitule_published: "2003-12-23"
-intitule_in_force: "2003-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-248"
-original_signed_date: "2003-12-18"
-original_published_date: "2003-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-248-p61-SC63064"
-entry_into_force_date: "2004-01-01"
-jci_1_3: "jci1.3:c:BWBR0016194&z=2004-01-01&g=2004-01-01"
-jci_1_0: "1.0:c:BWBR0016194&g=2004-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling tegengaan van belangenverstrengeling en beheersing van integriteitsrisico's verzekeraars"
-signed_date: "2003-12-18"
-entry_into_force: "2004-01-01"
+publicatiedatum: 2004-01-01
+laatste_update: 2004-01-01
+status: geldig
+toestand: 2004-01-01
+bron: "https://wetten.overheid.nl/BWBR0016194"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Pensioen- & Verzekeringskamer van 18 december 2003, nr. 0.851.3/03-8451, houdende uitvoering van de artikelen 2 lid 2 en 3 lid 3 van het Besluit integere bedrijfsvoering kredietinstellingen en verzekeraars (Regeling tegengaan van belangenverstrengeling en beheersing van integriteitsrisico's verzekeraars)
-
-Gelet op de [artikelen 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015712&artikel=2) en [3 lid 3 van het Besluit integere bedrijfsvoering kredietinstellingen en verzekeraars](https://wetten.overheid.nl/jci1.3:c:BWBR0015712&artikel=3);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a). **verzekeraar**: de verzekeraar die in het bezit is van een vergunning hem door de Pensioen- & Verzekeringskamer verleend op grond van de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509) of de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) dan wel de verzekeraar waarvan deze vergunning is ingetrokken of vervallen;
+- a) *verzekeraar*: de verzekeraar die in het bezit is van een vergunning hem door de Pensioen- & Verzekeringskamer verleend op grond van de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509) of de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) dan wel de verzekeraar waarvan deze vergunning is ingetrokken of vervallen;
 
-- b). **bestuurder**: het krachtens [artikel 29, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=29) of [artikel 18, eerste lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=18) getoetste lid van de raad van bestuur, het bestuur, de hoofddirectie, de directie dan wel andere beleidsbepalers van een verzekeraar;
+- b) *bestuurder*: het krachtens [artikel 29, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=29) of [artikel 18, eerste lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=18) getoetste lid van de raad van bestuur, het bestuur, de hoofddirectie, de directie dan wel andere beleidsbepalers van een verzekeraar;
 
-- c). **raad van commissarissen**: Een raad als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=57) of [artikel 140 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=140) of een daarmee vergelijkbaar orgaan zoals een raad van toezicht of een raad van beheer;
+- c) *raad van commissarissen*: Een raad als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=57) of [artikel 140 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=140) of een daarmee vergelijkbaar orgaan zoals een raad van toezicht of een raad van beheer;
 
-- d). **integriteitsrisico**: het risico dat de verzekeraar zich niet kenbaar houdt aan wettelijke normen, bestuursrechtelijke normen of door de verzekeraar zelf gestelde normen, voor welke normen geldt dat (de schijn van) inbreuk op die normen het vertrouwen schaadt of kan schaden in: 1e de nakoming van de verplichtingen van de verzekeraar jegens de afnemer van de door hem aangeboden en verrichte diensten; of 2e de behoorlijke werking van de financiële markten waarop de verzekeraar werkzaam is;
+- d) *integriteitsrisico*: het risico dat de verzekeraar zich niet kenbaar houdt aan wettelijke normen, bestuursrechtelijke normen of door de verzekeraar zelf gestelde normen, voor welke normen geldt dat (de schijn van) inbreuk op die normen het vertrouwen schaadt of kan schaden in: 1e de nakoming van de verplichtingen van de verzekeraar jegens de afnemer van de door hem aangeboden en verrichte diensten; of 2e de behoorlijke werking van de financiële markten waarop de verzekeraar werkzaam is;
 
-- e). **compliance**: de naleving van wet- en regelgeving, alsmede het werken volgens de normen, gedragsregels, voorschriften en procedures die de verzekeraar zelf heeft opgesteld;
+- e) *compliance*: de naleving van wet- en regelgeving, alsmede het werken volgens de normen, gedragsregels, voorschriften en procedures die de verzekeraar zelf heeft opgesteld;
 
 ##### Artikel 2
 
@@ -116,5 +91,3 @@ De verzekeraar draagt zorg voor een systematische toetsing en beoordeling van de
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling tegengaan van belangenverstrengeling en beheersing van integriteitsrisico's verzekeraars.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,55 +1,22 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 17 september 2004, Directie Wetgeving Bestuurlijke en Juridische Aangelegenheden, nr. WBJA/W1/04/59941, houdende intrekking van diverse uitgewerkte SZW-regelingen (SZW-intrekkingsregeling 2004)"
+citeertitel: "SZW-intrekkingsregeling 2004"
 identifier: "BWBR0017213"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-09-22"
-last_updated: "2004-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017213"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "6135893"
-version_id: "10792782"
-internal_id: "C14643001"
-label_id: "6125414"
-original_entry_into_force: "2004-09-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017213/2004-09-22/0"
-intitule_bron: "Stcrt.2004-180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-09-17"
-intitule_published: "2004-09-20"
-intitule_in_force: "2004-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-180"
-original_signed_date: "2004-09-17"
-original_published_date: "2004-09-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-180-p16-SC66695"
-entry_into_force_date: "2004-09-22"
-jci_1_3: "jci1.3:c:BWBR0017213&z=2004-09-22&g=2004-09-22"
-jci_1_0: "1.0:c:BWBR0017213&g=2004-09-22"
-citeertitel_status: "officieel"
-short_title: "SZW-intrekkingsregeling 2004"
-signed_date: "2004-09-17"
-entry_into_force: "2004-09-22"
+publicatiedatum: 2004-09-22
+laatste_update: 2004-09-22
+status: geldig
+toestand: 2004-09-22
+bron: "https://wetten.overheid.nl/BWBR0017213"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 17 september 2004, Directie Wetgeving Bestuurlijke en Juridische Aangelegenheden, nr. WBJA/W1/04/59941, houdende intrekking van diverse uitgewerkte SZW-regelingen (SZW-intrekkingsregeling 2004)
-
-Handelende in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport, voorzover het betreft [artikel VII, onderdeel a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0017213&paragraaf=1&artikel=VII&z=2004-09-22&g=2004-09-22), [artikel VIII, onderdeel j en s](https://wetten.overheid.nl/jci1.3:c:BWBR0017213&paragraaf=1&artikel=VIII&z=2004-09-22&g=2004-09-22), [artikel XIV, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0017213&paragraaf=1&artikel=XIV&z=2004-09-22&g=2004-09-22), [artikel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0017213&paragraaf=1&artikel=XIX&z=2004-09-22&g=2004-09-22), [artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0017213&paragraaf=1&artikel=XXII&z=2004-09-22&g=2004-09-22), [artikel XXVIII, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017213&paragraaf=1&artikel=XXVIII&z=2004-09-22&g=2004-09-22), [artikel XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0017213&paragraaf=1&artikel=XXXII&z=2004-09-22&g=2004-09-22) en [artikel XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0017213&paragraaf=1&artikel=XXXIII&z=2004-09-22&g=2004-09-22);
-
-Handelende in overeenstemming met de Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Verkeer en Waterstaat en van Defensie, voorzover het betreft [artikel XVIII, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017213&paragraaf=1&artikel=XVIII&z=2004-09-22&g=2004-09-22);
-
-Handelende in overeenstemming met de Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties, voorzover het betreft [artikel XXXV](https://wetten.overheid.nl/jci1.3:c:BWBR0017213&paragraaf=1&artikel=XXXV&z=2004-09-22&g=2004-09-22);
-
-Handelende in overeenstemming met de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voorzover het betreft [artikel XXVIII, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017213&paragraaf=1&artikel=XXVIII&z=2004-09-22&g=2004-09-22);
-
-Gelet op de Wet aanpassing uitkeringsregelingen overheveling opslagpremies, de [Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367), de Wet aanpassing uitkeringsregelingen overheveling opslagpremies, de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), de [Wet van 22 december 1994 tot nadere wijziging van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007157) (Stb. 957), de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460), de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), de [Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754), de Wet van 29 december 1982 tot beperking van de herziening van het wettelijk minimumloon, van de uitkeringen krachtens een aantal sociale verzekeringswetten en van een aantal uitkeringen en pensioenen krachtens enige andere wetten per 1 januari 1983 (Stb. 749), de Wet tot Beperking van de stijging van de uitkeringen krachtens een aantal sociale verzekeringswetten, van een aantal uitkeringen en pensioenen krachtens enige andere wetten en van de bedragen van het wettelijk minimumloon per 1 juli 1982 (Stb. 1982, 372), de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844), de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032), de [Wet buitengewoon pensioen zeeliedenoorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035), de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968), de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046), de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060), de [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126), de [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538), artikel III, lid 2, van de wet van 29 december 1982 (Stb. 737), de Wet wijziging financieringsstructuur AKW (Stb. 1988, nr. 631), de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072), de [Tijdelijke Verstrekkingenwet maatschappelijke dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0002957), de wet van 31 mei 1956, houdende wijziging van de Wet op de Rijksverzekeringsbank en de Raden van Arbeid (Stb. 297), de [wet van 21 december 1995, tot nadere wijziging van een aantal sociale zekerheidswetten (technische verbeteringen in verband met de wetten TAV, TBA en TZ, alsmede enige andere wijzigingen)](https://wetten.overheid.nl/jci1.3:c:BWBR0007796) (Stb. 691), de [Wet overgangsregeling Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002552), de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Wet loonkostenreductie op minimumloonniveau](https://wetten.overheid.nl/jci1.3:c:BWBR0004782), de [Wet voorzieningen gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0006169), de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), de [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658), de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), de [wet van 9 april 1959, houdende een interimregeling inzake beperking van samenloop van pensioenen en uitkeringen ingevolge de Algemene Weduwen- en Wezenwet met renten en uitkeringen ingevolge de Ongevallenwetten, bijslagen op die renten en uitkeringen en toeslagen op renten krachtens de Invaliditeitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002312) (Stb. 338), de [Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698), de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159), het [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014), het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702), de [Stimuleringsregeling vacaturevervulling door werklozen en met werkloosheid bedreigde werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0013279), het [Aanwijzingsbesluit verzekerden Zfw](https://wetten.overheid.nl/jci1.3:c:BWBR0002516) en het Besluit stralenbescherming Kernenergiewet;
-
-Besluiten:
 
 #### § 1. Intrekking regelingen
 
-##### Artikel I. [Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367)
+##### Artikel I. Arbeidsvoorzieningswet 1996
 
 De Regeling informatie Arbeidsvoorziening wordt ingetrokken.
 
@@ -57,7 +24,7 @@ De Regeling informatie Arbeidsvoorziening wordt ingetrokken.
 
 De Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 22 december 1992, nr. SZ/FEBO/92/1452, houdende vaststelling van de premiepercentages AOW, AWW en AAW en het fictieve premiepercentage AAW per 1 januari 1993 (Stcrt. 251) wordt ingetrokken.
 
-##### Artikel III. [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538)
+##### Artikel III. Wet financiering volksverzekeringen
 
 De volgende regelingen worden ingetrokken:
 
@@ -69,7 +36,7 @@ De volgende regelingen worden ingetrokken:
 
 - d. Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 2 december 1995, nr. SV/AVF/95/5433a, houdende vaststellingsregeling premiepercentages AOW, AWW, AAW per 1 januari 1996 (Stcrt. 249);
 
-##### Artikel IV. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+##### Artikel IV. Algemene Kinderbijslagwet
 
 De volgende regelingen worden ingetrokken:
 
@@ -123,7 +90,7 @@ De volgende beschikkingen worden ingetrokken:
 
 - h. Beschikking van de Minister van Sociale Zaken en Werkgelegenheid van 30 december 1983, nr. 100479, houdende de halfjaarlijkse aanpassing minimumloon per 1 januari 1984 (Stcrt. 1984, 2).
 
-##### Artikel VI. [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126)
+##### Artikel VI. Coördinatiewet Sociale Verzekering
 
 De volgende regelingen worden ingetrokken:
 
@@ -131,7 +98,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 13 september 1989, nr. 89/4893, houdende regels omtrent waardering vervoer door werkgever (Stcrt. 185).
 
-##### Artikel VII. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel VII. Ziektewet
 
 De volgende regelingen worden ingetrokken:
 
@@ -163,7 +130,7 @@ De volgende regelingen worden ingetrokken:
 
 - n. Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 28 februari 1989, nr. 89/0632, houdende toestemming vaststelling premie-aandeel werknemer voor 1989 (Bedrijfsvereniging voor Detailhandel, Ambachten en Huisvrouwen) (Stcrt. 45).
 
-##### Artikel VIII. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel VIII. Werkloosheidswet
 
 De volgende regelingen worden ingetrokken:
 
@@ -209,7 +176,7 @@ De volgende regelingen worden ingetrokken:
 
 - u. Regeling vaststelling verschuldigde delen werkgevers en werknemers in de Awf-premie en de franchises WW 1999.
 
-##### Artikel IX. [Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046)
+##### Artikel IX. Invoeringswet stelselherziening sociale zekerheid
 
 De volgende regelingen worden ingetrokken:
 
@@ -223,7 +190,7 @@ De volgende regelingen worden ingetrokken:
 
 - e. Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 december 1986, nr. SZ/SV/FEV/11005, houdende regels omtrent vergoedingen toeslagenfonds aan Algemeen Arbeidsongeschiktheidsfonds en Arbeidsongeschiktheidsfonds (Stcrt. 250).
 
-##### Artikel X. [Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267)
+##### Artikel X. Wet overheidspersoneel onder de werknemersverzekeringen
 
 De volgende regelingen worden ingetrokken:
 
@@ -231,7 +198,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 december 2000, nr. SV/WV/00/84219, houdende vaststelling bedragen ex artikel 90 van de Wet overheidspersoneel (Stcrt. 248).
 
-##### Artikel XI. [Wet Werkloosheidsvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002470)
+##### Artikel XI. Wet Werkloosheidsvoorziening
 
 De volgende regelingen worden ingetrokken:
 
@@ -245,7 +212,7 @@ De volgende regelingen worden ingetrokken:
 
 - e. Regeling van de Minister van Sociale Zaken en Volksgezondheid van 18 augustus 1967, nr. 42900III, houdende regels omtrent uitkeringen ingevolge de Liquidatiewet ongevallenwetten (Stcrt. 168).
 
-##### Artikel XII. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
+##### Artikel XII. Wet structuur uitvoeringsorganisatie werk en inkomen
 
 De volgende regelingen worden ingetrokken:
 
@@ -257,7 +224,7 @@ De volgende regelingen worden ingetrokken:
 
 De regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 december 1994, nr. SZ/SV/U/94/5742n, houdende intrekking van de erkenning Bedrijfsvereniging voor de Zuivelindustrievaststelling (Stcrt. 251) wordt ingetrokken.
 
-##### Artikel XIV. [Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754)
+##### Artikel XIV. Kaderwet SZW-subsidies
 
 De volgende regelingen worden ingetrokken:
 
@@ -293,7 +260,7 @@ De volgende regelingen worden ingetrokken:
 
 - p. Stimuleringsregeling sociale activering.
 
-##### Artikel XV. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel XV. Wet op de arbeidsongeschiktheidsverzekering
 
 De volgende regelingen en beschikking worden ingetrokken:
 
@@ -327,7 +294,7 @@ De volgende regelingen worden ingetrokken:
 
 De regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 28 december 1988, nr. 88/7351, houdende beleggingsvoorschriften Algemeen Kinderbijslagfonds (Stcrt. 254) wordt ingetrokken.
 
-##### Artikel XVIII. [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072)
+##### Artikel XVIII. Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen
 
 De volgende regelingen worden ingetrokken:
 
@@ -337,7 +304,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling herbeoordeling 45–50-jarigen.
 
-##### Artikel XIX. [Tijdelijke Verstrekkingenwet maatschappelijke dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0002957)
+##### Artikel XIX. Tijdelijke Verstrekkingenwet maatschappelijke dienstverlening
 
 De regeling van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk Werk van 22 december 1976, nr. U40879, houdende regels omtrent het programma dagverblijven en gezinsvervangende tehuizen voor gehandicapten (Stcrt. 254) wordt ingetrokken.
 
@@ -345,15 +312,15 @@ De regeling van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk We
 
 De regeling van de Staatssecretaris van Sociale Zaken van 25 juli 1956, nr. 3757, houdende regels omtrent de bezoldiging van de Sociale Verzekeringsbank (Strct. 145) wordt ingetrokken.
 
-##### Artikel XXI. [Wet van 21 december 1995, tot nadere wijziging van een aantal sociale zekerheidswetten (technische verbeteringen in verband met de wetten TAV, TBA en TZ, alsmede enige andere wijzigingen)](https://wetten.overheid.nl/jci1.3:c:BWBR0007796) (Stb. 691)
+##### Artikel XXI. Wet van 21 december 1995, tot nadere wijziging van een aantal sociale zekerheidswetten (technische verbeteringen in verband met de wetten TAV, TBA en TZ, alsmede enige andere wijzigingen) (Stb. 691)
 
 De regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 februari 1997, nr. SV/UB/97/0831, houdende aanwijzing van categorieën van personen als bedoeld in de artikelen XXXVI en XXXVIa van de Wet van 21 december 1995, tot nadere wijziging van een aantal sociale zekerheidswetten (technische verbeteringen in verband met de wetten TAV, TBA en TZ, alsmede enige andere wijzigingen) (Stb. 691) wordt ingetrokken.
 
-##### Artikel XXII. [Wet overgangsregeling Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002552)
+##### Artikel XXII. Wet overgangsregeling Ziektewet
 
 De beschikking van de Minister van Sociale Zaken en Volksgezondheid van 22 september 1967, nr. 59596, houdende regels omtrent samenloop van ziekengeld met uitkering ingevolge de liquidatiewet ongevallenwetten (Strct. 193) wordt ingetrokken.
 
-##### Artikel XXIII. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
+##### Artikel XXIII. Toeslagenwet
 
 De volgende regelingen worden ingetrokken:
 
@@ -363,15 +330,15 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 29 december 1992, nr. SZ/SV/92/6584, houdende regels omtrent de samenstelling bestuur Toeslagenfonds per 1 januari 1993 (Stcrt. 253).
 
-##### Artikel XXIV. [Wet loonkostenreductie op minimumloonniveau](https://wetten.overheid.nl/jci1.3:c:BWBR0004782)
+##### Artikel XXIV. Wet loonkostenreductie op minimumloonniveau
 
 De regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 juli 1990, nr. 90/1717, houdende vaststelling model bedoeld in artikel 5 van de Wet loonkostenreductie op minimumniveau (Stcrt. 147) wordt ingetrokken.
 
-##### Artikel XXV. [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel XXV. Wet op de (re)integratie arbeidsgehandicapten
 
 De regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 december 1998, nr. SV/WV/98/42554, houdende vaststelling van het tijdstip van beëindiging van de toepasselijkheid van de Algemene Arbeidsongeschiktheidswet met betrekking tot de verstrekking van de blindengeleidehond en de doventolk voor de leefsfeer op grond van artikel 57, eerste en tweede lid, onderdeel b, (Stcrt. 248) wordt ingetrokken.
 
-##### Artikel XXVI. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) en [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
+##### Artikel XXVI. Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 
 De volgende regelingen worden ingetrokken:
 
@@ -379,7 +346,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 10 maart 1992, nr. DGSZ/BV/UVB/BB/92/4-1926, houdende wijziging van het Besluit verantwoording en vergoeding uitkeringskosten Wet Werkloosheidsvoorziening (Stcrt. 1988, 250), alsmede vervanging van de bij dat besluit en bij het Besluit verantwoording en vergoeding uitkeringskosten ABW, IOAW en IOAZ (Stcrt. 1987, 188), de Rijksbijdrageregeling banenpools (Stcrt. 1990, 169) en het Besluit bijdrageregeling bijzondere controle 1991 (Stb. 1991, 179) behorende modelformulieren, alsmede vaststelling van de bij het Besluit verantwoording en vergoeding kosten JWG (Stcrt. 1991, 157) behorende modelformulieren (Stcrt. 50).
 
-##### Artikel XXVII. [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
+##### Artikel XXVII. Wet sociale werkvoorziening
 
 De volgende regelingen worden ingetrokken:
 
@@ -387,7 +354,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling informatie sociale werkvoorziening 1999.
 
-##### Artikel XXVIII. [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402)
+##### Artikel XXVIII. Kernenergiewet
 
 De volgende regelingen worden ingetrokken:
 
@@ -395,7 +362,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling aanwijzing Elektronenmicroscopen Kernenergiewet 1998.
 
-##### Artikel XXIX. [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658)
+##### Artikel XXIX. Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen
 
 De volgende regelingen worden ingetrokken:
 
@@ -407,11 +374,11 @@ De volgende regelingen worden ingetrokken:
 
 - d. Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 december 2002, nr. SV/F&W/02/93627, houdende de vermogensoverdracht van het Algemeen Arbeidsongeschiktheidsfonds over 2001 (Stcrt. 241).
 
-##### Artikel XXX. [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089)
+##### Artikel XXX. Pensioen- en spaarfondsenwet
 
 De beschikking van de Staatssecretaris van Sociale Zaken van 10 februari 1981, nr. 40629, houdende vaststelling aanmeldingsformulieren pensioen- en spaarfondsenwet (Stcrt. 31) wordt ingetrokken.
 
-##### Artikel XXXI. [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
+##### Artikel XXXI. Wet minimumloon en minimumvakantiebijslag
 
 De volgende regelingen worden ingetrokken:
 
@@ -423,15 +390,15 @@ De volgende regelingen worden ingetrokken:
 
 - d. Regeling van de Minister van Sociale Zaken van 13 januari 1981, nr. 29, houdende halfjaarlijkse aanpassing van het minimumloon per 1 januari 1981 (Stcrt. 10).
 
-##### Artikel XXXII. [Wet interimregeling beperking samenloop uitkering AWW en uitkeringen ongevallenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002312)
+##### Artikel XXXII. Wet interimregeling beperking samenloop uitkering AWW en uitkeringen ongevallenwet
 
 De regeling van de Minister van Sociale Zaken en Volksgezondheid van 26 juni 1967, nr. 56554, houdende regeling op grond van artikel 7 Interimwet AWW (Stcrt. 122), wordt ingetrokken.
 
-##### Artikel XXXIII. [Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698)
+##### Artikel XXXIII. Wet op de loonvorming
 
 De beschikking van de Minister van Sociale Zaken en Volksgezondheid van 1 mei 1970, nr. 61096, houdende toedeling van taak aan ambtenaren van het Loonbureau (Stcrt. 88), wordt ingetrokken.
 
-##### Artikel XXXIV. [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014)
+##### Artikel XXXIV. Buitengewoon Besluit Arbeidsverhoudingen 1945
 
 De volgende regelingen worden ingetrokken:
 
@@ -441,7 +408,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 december 1995, nr. AV/RV/95/2579, houdende wijziging van het Delegatiebesluit 1993 (Stcrt. 249).
 
-##### Artikel XXXV. [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159)
+##### Artikel XXXV. Kaderwet adviescolleges
 
 De regeling van de Minister van Sociale Zaken en Werkgelegenheid, de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 25 februari 1999, nr. AV/RV/99/9583, houdende instelling van een Adviescommissie Duaal Ontslagstelsel (Stcrt. 43) wordt ingetrokken.
 
@@ -480,5 +447,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel XXXX. Citeertitel
 
 Deze regeling wordt aangehaald als: SZW-intrekkingsregeling 2004.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

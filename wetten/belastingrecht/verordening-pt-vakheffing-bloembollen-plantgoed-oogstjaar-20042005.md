@@ -1,48 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d. 4 mei 2004, houdende de vaststelling van aan telers van en handelaren in bloembollen op te leggen heffing voor het oogstjaar 2004/2005 (Verordening PT vakheffing bloembollen plantgoed oogstjaar 2004/2005)"
+citeertitel: "Verordening PT vakheffing bloembollen plantgoed oogstjaar 2004/2005"
 identifier: "BWBR0016682"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-06-01"
-last_updated: "2004-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016682"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6789853"
-version_id: "11658122"
-internal_id: "C15711271"
-label_id: "6778364"
-original_entry_into_force: "2004-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016682/2004-06-01/0"
-intitule_bron: "Vbbo.2005-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-05-04"
-intitule_published: "2005-01-14"
-intitule_in_force: "2005-01-14"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-2"
-original_signed_date: "2004-05-04"
-original_published_date: "2005-01-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-06-01"
-jci_1_3: "jci1.3:c:BWBR0016682&z=2004-06-01&g=2004-06-01"
-jci_1_0: "1.0:c:BWBR0016682&g=2004-06-01"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing bloembollen plantgoed oogstjaar 2004/2005"
-signed_date: "2004-05-04"
-entry_into_force: "2004-06-01"
+publicatiedatum: 2004-06-01
+laatste_update: 2004-06-01
+status: geldig
+toestand: 2004-06-01
+bron: "https://wetten.overheid.nl/BWBR0016682"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 4 mei 2004, houdende de vaststelling van aan telers van en handelaren in bloembollen op te leggen heffing voor het oogstjaar 2004/2005 (Verordening PT vakheffing bloembollen plantgoed oogstjaar 2004/2005)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Sectorcommissie voor bollen, knollen en wortelstokken van bloemgewassen, d.d. 30 maart 2004
-
-**Besluit:**
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### § 1. Begripsbepalingen
 
@@ -57,8 +27,8 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 | b. | bestuur | : | het bestuur van het productschap; |
 | c. | voorzitter | : | de voorzitter van het productschap; |
 | d. | bloembollen | : | bollen of knollen van bloemgewassen; |
-| e. | bloembollen plantgoed | : | 1. soorten en variëteiten van bloembollen die in de lijst, welke als [bijlage bij de Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004/2005](onbekend)is gevoegd, zijn vermeld voor zover deze beneden de daarachter genoemde minimum-maten zijn verhandeld; 2. afgebroeide bloembollen; 3. geholde en gesneden hyacinten; 4. eenjarige bollen van geholde en gesneden hyacinten, voor zover verhandeld per bed of per mand; 5. bollen van hyacinten, die zijn verkocht onder de uitdrukkelijke voorwaarde dat deze zullen worden gebruikt als werkbollen, in welk geval deze voorwaarde op het koopbriefje dient te worden vermeld; 6. groen te velde per bed of per mand voor 15 juni van het kalenderjaar waarin het koopseizoen aanvangt verhandelde hyacinten, geplant in de maat onder zift 10, droog gesorteerd; 7. schubbollen van lelies, en 8. voortkwekingsmateriaal, voor zover bestemd voor de teelt van bloembollen, met uitzondering van zaden, |
-| f. | handelskaarthouder | : | de ondernemer in het bezit van een op zijn naam gestelde handelskaart als bedoeld in [artikel 4 van de Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004/2005](https://wetten.overheid.nl/jci1.3:c:BWBR0016680&artikel=4); |
+| e. | bloembollen plantgoed | : | 1. soorten en variëteiten van bloembollen die in de lijst, welke als bijlage bij de Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004/2005is gevoegd, zijn vermeld voor zover deze beneden de daarachter genoemde minimum-maten zijn verhandeld; 2. afgebroeide bloembollen; 3. geholde en gesneden hyacinten; 4. eenjarige bollen van geholde en gesneden hyacinten, voor zover verhandeld per bed of per mand; 5. bollen van hyacinten, die zijn verkocht onder de uitdrukkelijke voorwaarde dat deze zullen worden gebruikt als werkbollen, in welk geval deze voorwaarde op het koopbriefje dient te worden vermeld; 6. groen te velde per bed of per mand voor 15 juni van het kalenderjaar waarin het koopseizoen aanvangt verhandelde hyacinten, geplant in de maat onder zift 10, droog gesorteerd; 7. schubbollen van lelies, en 8. voortkwekingsmateriaal, voor zover bestemd voor de teelt van bloembollen, met uitzondering van zaden, |
+| f. | handelskaarthouder | : | de ondernemer in het bezit van een op zijn naam gestelde handelskaart als bedoeld in artikel 4 van de Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004/2005; |
 | g. | factuurbedrag | : | het bedrag van de factuur, exclusief behandelingskosten en exclusief kosten kleinverpakkingsmateriaal; |
 | h. | veiling | : | de veilingen c.q. bemiddelingsbureaus: Hobaho BV, Coöperatieve Nederlandse Bloembollencentrale (b.a.), en Floralia; |
 | h. | koopseizoen | : | de periode van 1 juni 2004 tot en met 31 mei 2005; |
@@ -192,11 +162,11 @@ van het factuurbedrag van de desbetreffende partij.
 
 - a. voor zover het betreft tulpen indien: van het factuurbedrag van de desbetreffende partij
 
-- 1. daarin de maten zift 10, zift 11 en zift 12/op aanwezig zijn: over 50%;
+   - 1. daarin de maten zift 10, zift 11 en zift 12/op aanwezig zijn: over 50%;
 
-- 2. daaraan de maat zift 12/op ontbreekt: over 70%, en
+   - 2. daaraan de maat zift 12/op ontbreekt: over 70%, en
 
-- 3. daaraan de maten zift 11 en zift 12/op ontbreken: over 90%,
+   - 3. daaraan de maten zift 11 en zift 12/op ontbreken: over 90%,
 
 - b. voor zover het betreft narcissen: over 20% van het factuurbedrag van de desbetreffende partij.
 
@@ -287,5 +257,3 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 ##### Artikel 26
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing bloembollen plantgoed oogstjaar 2004/2005.
-
-Deze verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

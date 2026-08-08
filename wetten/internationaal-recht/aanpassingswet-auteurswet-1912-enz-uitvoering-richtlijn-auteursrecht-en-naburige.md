@@ -1,58 +1,30 @@
 ---
 title: "Wet van 6 juli 2004 tot aanpassing van de Auteurswet 1912, de Wet op de naburige rechten en de Databankenwet ter uitvoering van richtlijn nr. 2001/29/EG van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2001 betreffende de harmonisatie van bepaalde aspecten van het auteursrecht en de naburige rechten in de informatiemaatschappij (PbEG L 167) (Uitvoering richtlijn auteursrecht en naburige rechten in de informatiemaatschappij)"
+citeertitel: "Aanpassingswet Auteurswet 1912, enz. (uitvoering richtlijn auteursrecht en naburige rechten in de informatiemaatschappij)"
 identifier: "BWBR0016987"
-country: "nl"
-rank: "wet"
-publication_date: "2022-10-01"
-last_updated: "2022-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016987"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "5967023"
-version_id: "10569222"
-internal_id: "C14477681"
-label_id: "5956534"
-original_entry_into_force: "2004-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016987/2022-10-01/0"
-intitule_bron: "Stb.2004-336"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-06"
-intitule_published: "2004-07-20"
-intitule_in_force: "2004-08-24"
-intitule_status: "goed"
-original_publication: "Stb.2004-336"
-original_signed_date: "2004-07-06"
-original_published_date: "2004-07-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "28482"
-original_url_id: "stb-2004-336"
-entry_into_force_date: "2004-09-01"
-jci_1_3: "jci1.3:c:BWBR0016987&z=2022-10-01&g=2022-10-01"
-jci_1_0: "1.0:c:BWBR0016987&g=2022-10-01"
-citeertitel_status: "redactioneel"
-short_title: "Aanpassingswet Auteurswet 1912, enz. (uitvoering richtlijn auteursrecht en naburige rechten in de informatiemaatschappij)"
-signed_date: "2004-07-06"
-entry_into_force: "2004-09-01"
+publicatiedatum: 2004-09-01
+laatste_update: 2022-10-01
+status: geldig
+toestand: 2022-10-01
+bron: "https://wetten.overheid.nl/BWBR0016987"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 6 juli 2004 tot aanpassing van de Auteurswet 1912, de Wet op de naburige rechten en de Databankenwet ter uitvoering van richtlijn nr. 2001/29/EG van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2001 betreffende de harmonisatie van bepaalde aspecten van het auteursrecht en de naburige rechten in de informatiemaatschappij (PbEG L 167) (Uitvoering richtlijn auteursrecht en naburige rechten in de informatiemaatschappij)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886), de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) en de [Databankenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) moeten worden aangepast aan [richtlijn nr. 2001/29/EG](32001L0029) van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2001 betreffende de harmonisatie van bepaalde aspecten van auteursrecht en naburige rechten in de informatiemaatschappij (PbEG L 167);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Auteurswet 1912.
+*Wijzigt de Auteurswet 1912.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de naburige rechten.
+*Wijzigt de Wet op de naburige rechten.*
 
 ##### Artikel III
 
-Wijzigt de Databankenwet.
+*Wijzigt de Databankenwet.*
 
 ##### Artikel IIIa
 
@@ -64,7 +36,7 @@ Deze wet laat vóór het in [artikel VII](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel V
 
-Vervallen
+*Vervallen*
 
 ##### Artikel Va
 
@@ -77,5 +49,3 @@ De tekst van de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR000188
 ##### Artikel VII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

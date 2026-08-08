@@ -1,42 +1,17 @@
 ---
 title: "Beleidsregel ontheffingen luchtwaardigheid"
 identifier: "BWBR0016401"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-07-14"
-last_updated: "2004-07-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016401"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6235413"
-version_id: "10909252"
-internal_id: "C14782901"
-label_id: "6224494"
-original_entry_into_force: "2004-02-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016401/2004-07-14/0"
-intitule_bron: "Stcrt.2004-40"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-02-17"
-intitule_published: "2004-02-27"
-intitule_in_force: "2004-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-40"
-original_signed_date: "2004-02-17"
-original_published_date: "2004-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-40-p24-SC63954"
-entry_into_force_date: "2004-02-29"
-jci_1_3: "jci1.3:c:BWBR0016401&z=2004-07-14&g=2004-07-14"
-jci_1_0: "1.0:c:BWBR0016401&g=2004-07-14"
-citeertitel_status: "officieel"
-signed_date: "2004-02-17"
-entry_into_force: "2004-02-29"
+publicatiedatum: 2004-02-29
+laatste_update: 2004-07-14
+status: geldig
+toestand: 2004-07-14
+bron: "https://wetten.overheid.nl/BWBR0016401"
+opgehaald: 2026-08-08
 ---
+
 # Beleidsregel ontheffingen luchtwaardigheid
-
-Gelet op [artikel 3.21 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.21);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -62,17 +37,17 @@ Aan de houder van een luchtvaartuig dat:
 
 - b. voor niet in Nederland geregistreerde luchtvaartuigen:
 
-- 1°. een kopie van het bewijs van inschrijving;
+   - 1°. een kopie van het bewijs van inschrijving;
 
-- 2°. een kopie van de luchtwaardigheidsverklaring van de autoriteit van het land van registratie, inclusief de eventuele beperkingen en de voorwaardelijke toestemming om in het Nederlandse luchtruim te opereren, bijvoorbeeld een permit to fly of een exemption;
+   - 2°. een kopie van de luchtwaardigheidsverklaring van de autoriteit van het land van registratie, inclusief de eventuele beperkingen en de voorwaardelijke toestemming om in het Nederlandse luchtruim te opereren, bijvoorbeeld een permit to fly of een exemption;
 
-- 3°. een kopie van het verzekeringsbewijs.
+   - 3°. een kopie van het verzekeringsbewijs.
 
 #### § 2. MLA's
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 #### § 3. Veiligheid brandstoftanks
 
@@ -82,9 +57,9 @@ Vervallen
 
 - a. de verwachte gevaarzetting is gezien de wereldomvang van een bepaald type vliegtuig gering, omdat:
 
-- 1°. de vloot klein is;
+   - 1°. de vloot klein is;
 
-- 2°. het desbetreffende luchtvaartuig dichtbij het einde van de verwachte levensduur is en gebruik op wereldschaal klein is;
+   - 2°. het desbetreffende luchtvaartuig dichtbij het einde van de verwachte levensduur is en gebruik op wereldschaal klein is;
 
 - b. de blootstelling aan ontvlambare omstandigheden van de brandstoftanks is laag;
 
@@ -111,5 +86,3 @@ Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekeni
 ##### Artikel 7
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel ontheffingen luchtwaardigheid.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

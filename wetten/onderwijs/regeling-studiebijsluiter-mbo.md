@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0042000"
-opgehaald: 2026-08-07
+opgehaald: 2026-08-08
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 11 maart 2019, nr. MBO-105280, houdende nadere specificaties over de vorm en inhoud van de informatie die nodig is voor deelnemers voor het vergelijken van opleidingen en het kiezen van een passende opleiding (Regeling studiebijsluiter mbo)

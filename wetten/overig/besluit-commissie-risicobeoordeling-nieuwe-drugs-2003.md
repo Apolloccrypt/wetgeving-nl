@@ -1,41 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 5 januari 2004, nr. GVM/2429121, houdende instelling van de commissie risicobeoordeling nieuwe drugs ter ondersteuning van het functioneren van het Coördinatiepunt Assessment en Monitoring nieuwe drugs (Besluit commissie risicobeoordeling nieuwe drugs 2003)"
+citeertitel: "Besluit commissie risicobeoordeling nieuwe drugs 2003"
 identifier: "BWBR0016260"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016260"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "5677333"
-version_id: "10164072"
-internal_id: "C29041511"
-label_id: "5657684"
-original_entry_into_force: "2004-02-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016260/2020-01-01/0"
-intitule_bron: "Stcrt.2004-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-01-05"
-intitule_published: "2004-02-02"
-intitule_in_force: "2004-02-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-21"
-original_signed_date: "2004-01-05"
-original_published_date: "2004-02-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-21-p13-SC63462"
-entry_into_force_date: "2004-02-04"
-jci_1_3: "jci1.3:c:BWBR0016260&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0016260&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit commissie risicobeoordeling nieuwe drugs 2003"
-signed_date: "2004-01-05"
-entry_into_force: "2004-02-04"
+publicatiedatum: 2004-02-04
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0016260"
+opgehaald: 2026-08-08
 ---
-# Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 5 januari 2004, nr. GVM/2429121, houdende instelling van de commissie risicobeoordeling nieuwe drugs ter ondersteuning van het functioneren van het Coördinatiepunt Assessment en Monitoring nieuwe drugs (Besluit commissie risicobeoordeling nieuwe drugs 2003)
 
-Besluit:
+# Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 5 januari 2004, nr. GVM/2429121, houdende instelling van de commissie risicobeoordeling nieuwe drugs ter ondersteuning van het functioneren van het Coördinatiepunt Assessment en Monitoring nieuwe drugs (Besluit commissie risicobeoordeling nieuwe drugs 2003)
 
 ##### Artikel 1
 
@@ -79,8 +56,6 @@ De commissie stelt haar eigen werkwijze vast.
 
 ##### Artikel 6
 
-1.
-
 De commissie informeert de minister zo spoedig mogelijk na afronding van elke risicobeoordeling over de uitkomsten.
 
 2. De minister legt zijn reactie op de uitkomsten, alvorens die openbaar te maken, ter advisering voor aan de interdepartementale Stuurgroep Drugsbeleid.
@@ -95,7 +70,7 @@ De Regeling risicoschatting nieuwe drugs van de Minister van Volksgezondheid, We
 
 ##### Artikel 9
 
-Wijzigt de regeling Instelling Coördinatiepunt Assessment en Monitoring nieuwe drugs.
+*Wijzigt de regeling Instelling Coördinatiepunt Assessment en Monitoring nieuwe drugs.*
 
 ##### Artikel 10
 
@@ -104,5 +79,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als Besluit commissie risicobeoordeling nieuwe drugs 2003.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

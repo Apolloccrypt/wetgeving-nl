@@ -1,67 +1,32 @@
 ---
 title: "Besluit van 10 december 2004, houdende regels ter uitvoering van de Rijkswet Onderzoeksraad voor veiligheid (Rijksbesluit Onderzoeksraad voor veiligheid)"
+citeertitel: "Rijksbesluit Onderzoeksraad voor veiligheid"
 identifier: "BWBR0017680"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2005-10-12"
-last_updated: "2005-10-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017680"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijksKB"
-stam_id: "6504313"
-version_id: "11192312"
-internal_id: "C15482621"
-label_id: "6493034"
-original_entry_into_force: "2005-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017680/2005-10-12/0"
-intitule_bron: "Stb.2004-679"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-10"
-intitule_published: "2004-12-23"
-intitule_in_force: "2005-01-18"
-intitule_status: "goed"
-original_publication: "Stb.2004-679"
-original_signed_date: "2004-12-10"
-original_published_date: "2004-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2004-679"
-entry_into_force_date: "2005-02-01"
-jci_1_3: "jci1.3:c:BWBR0017680&z=2005-10-12&g=2005-10-12"
-jci_1_0: "1.0:c:BWBR0017680&g=2005-10-12"
-citeertitel_status: "officieel"
-short_title: "Rijksbesluit Onderzoeksraad voor veiligheid"
-signed_date: "2004-12-10"
-entry_into_force: "2005-02-01"
+publicatiedatum: 2005-02-01
+laatste_update: 2005-10-12
+status: geldig
+toestand: 2005-10-12
+bron: "https://wetten.overheid.nl/BWBR0017680"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 10 december 2004, houdende regels ter uitvoering van de Rijkswet Onderzoeksraad voor veiligheid (Rijksbesluit Onderzoeksraad voor veiligheid)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 juni 2004, nr. PRO 2004/67264, Directoraat-generaal Veiligheid, project PRO;
-
-Gelet op de [artikelen 7, derde lid](onbekend), [9](onbekend), [30, tweede lid](onbekend), [31, eerste, tweede en derde lid](onbekend), [45, zevende lid](onbekend), [50, derde lid](onbekend), en [54 van de Rijkswet Onderzoeksraad voor veiligheid](onbekend);
-
-De Raad van State van het Koninkrijk gehoord (advies van 2 september 2004, nr. W04.04.0255/I/K);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 december 2004, nr. PRO 2004/78768;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligheid in werking treedt.
 
 #### § 1. Begripsomschrijving
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veiligheid](onbekend).
+In dit besluit wordt verstaan onder rijkswet: Rijkswet Onderzoeksraad voor veiligheid.
 
 #### § 2. Deskundigheid van de raad
 
 ##### Artikel 2
 
-1. De keuze van de leden van de raad, bedoeld in [artikel 6, eerste lid, van de rijkswet](onbekend), geschiedt op zodanige wijze dat in de raad ten minste deskundigheid aanwezig is op het terrein van bestuurlijke zaken, gedragswetenschappen, veiligheidskunde, milieukunde en onderzoeksmethodologie.
+1. De keuze van de leden van de raad, bedoeld in artikel 6, eerste lid, van de rijkswet, geschiedt op zodanige wijze dat in de raad ten minste deskundigheid aanwezig is op het terrein van bestuurlijke zaken, gedragswetenschappen, veiligheidskunde, milieukunde en onderzoeksmethodologie.
 
-2. De keuze van de buitengewone leden van de raad, bedoeld in [artikel 6, tweede lid, van de rijkswet](onbekend), geschiedt op zodanige wijze dat in de raad tenminste deskundigheid aanwezig is op de specifieke terreinen waarop de raad onderzoek verricht.
+2. De keuze van de buitengewone leden van de raad, bedoeld in artikel 6, tweede lid, van de rijkswet, geschiedt op zodanige wijze dat in de raad tenminste deskundigheid aanwezig is op de specifieke terreinen waarop de raad onderzoek verricht.
 
 #### § 3. Eed of belofte
 
@@ -123,7 +88,7 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 ##### Artikel 7
 
-1. Een vertegenwoordiger als bedoeld in [artikel 45, eerste, tweede of derde lid, van de rijkswet](onbekend), is, onder leiding van een door de raad aangewezen onderzoeker die de leiding over het onderzoek heeft, bevoegd:
+1. Een vertegenwoordiger als bedoeld in artikel 45, eerste, tweede of derde lid, van de rijkswet, is, onder leiding van een door de raad aangewezen onderzoeker die de leiding over het onderzoek heeft, bevoegd:
 
 - a. de plaats van het voorval te betreden;
 
@@ -147,7 +112,7 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 - k. ten aanzien van onderzoeken naar scheepvaartongevallen en scheepvaartincidenten: zijn visie op passende wijze weerspiegeld te krijgen in het rapport.
 
-2. De deskundigen, bedoeld in [artikel 45, vierde lid, van de rijkswet](onbekend), nemen onder toezicht van de vertegenwoordiger deel aan het onderzoek. Het eerste lid is van overeenkomstige toepassing op de deskundigen voorzover de bevoegdheden nodig zijn voor het verlenen van bijstand aan de vertegenwoordiger.
+2. De deskundigen, bedoeld in artikel 45, vierde lid, van de rijkswet, nemen onder toezicht van de vertegenwoordiger deel aan het onderzoek. Het eerste lid is van overeenkomstige toepassing op de deskundigen voorzover de bevoegdheden nodig zijn voor het verlenen van bijstand aan de vertegenwoordiger.
 
 #### § 7. Zitting
 
@@ -159,9 +124,9 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 3. De getuigen en deskundigen worden gehoord in de volgorde zoals die wordt bepaald door de voorzitter.
 
-4. De voorzitter vraagt degenen die tijdens de zitting worden gehoord, naar naam, voornamen, geboortedatum, geboorteplaats, beroep en woon- of verblijfplaats. Hij deelt de getuigen en deskundigen behoudens de uitzonderingssituaties, genoemd in [artikel 52, eerste lid, van de rijkswet](onbekend), mede dat zij verplicht zijn de eed of belofte, bedoeld in [artikel 52, eerste of tweede lid, van de rijkswet](onbekend), af te leggen onderscheidenlijk te doen en getuigenis af te leggen dan wel hun diensten als deskundige te verlenen, behoudens het recht van verschoning bedoeld in [artikel 52, derde lid, van de rijkswet](onbekend).
+4. De voorzitter vraagt degenen die tijdens de zitting worden gehoord, naar naam, voornamen, geboortedatum, geboorteplaats, beroep en woon- of verblijfplaats. Hij deelt de getuigen en deskundigen behoudens de uitzonderingssituaties, genoemd in artikel 52, eerste lid, van de rijkswet, mede dat zij verplicht zijn de eed of belofte, bedoeld in artikel 52, eerste of tweede lid, van de rijkswet, af te leggen onderscheidenlijk te doen en getuigenis af te leggen dan wel hun diensten als deskundige te verlenen, behoudens het recht van verschoning bedoeld in artikel 52, derde lid, van de rijkswet.
 
-5. De voorzitter is bevoegd, indien dit door het belang van het onderzoek wordt gevorderd, de schorsing van de zitting, met of zonder tijdsbepaling van de hervatting, te gelasten. Indien hij tot schorsing besluit, wordt dit met redenen omkleed ter zitting medegedeeld en in het proces-verbaal van de zitting opgenomen. Indien bij een schorsing zonder tijdsbepaling van hervatting de zitting wordt heropend op een latere dag, is [artikel 48, tweede en derde lid, van de rijkswet](onbekend) van overeenkomstige toepassing.
+5. De voorzitter is bevoegd, indien dit door het belang van het onderzoek wordt gevorderd, de schorsing van de zitting, met of zonder tijdsbepaling van de hervatting, te gelasten. Indien hij tot schorsing besluit, wordt dit met redenen omkleed ter zitting medegedeeld en in het proces-verbaal van de zitting opgenomen. Indien bij een schorsing zonder tijdsbepaling van hervatting de zitting wordt heropend op een latere dag, is artikel 48, tweede en derde lid, van de rijkswet van overeenkomstige toepassing.
 
 #### § 8. Onderzoek
 
@@ -179,10 +144,8 @@ Het is een ieder verboden om onbevoegd bij een voorval betrokken zaken weg te ne
 
 ##### Artikel 11
 
-Dit besluit treedt in werking op het krachtens [artikel 97, eerste lid, eerste volzin, van de rijkswet](onbekend) vastgestelde tijdstip.
+Dit besluit treedt in werking op het krachtens artikel 97, eerste lid, eerste volzin, van de rijkswet vastgestelde tijdstip.
 
 ##### Artikel 12
 
 Dit rijksbesluit wordt aangehaald als: Rijksbesluit Onderzoeksraad voor veiligheid.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.

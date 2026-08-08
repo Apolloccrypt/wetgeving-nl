@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 1 september 2004, nr. WJZ 4050821, houdende regels met betrekking tot procedures voor het veilen en loten van nummers (Regeling veilingprocedure en lotingprocedure nummers)"
+citeertitel: "Regeling veilingprocedure en lotingprocedure nummers"
 identifier: "BWBR0017155"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017155"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6082583"
-version_id: "10744252"
-internal_id: "C14581741"
-label_id: "6071934"
-original_entry_into_force: "2004-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017155/2013-04-01/0"
-intitule_bron: "Stcrt.2004-172"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-09-01"
-intitule_published: "2004-09-08"
-intitule_in_force: "2004-09-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-172"
-original_signed_date: "2004-09-01"
-original_published_date: "2004-09-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-172-p21-SC66473"
-entry_into_force_date: "2004-10-21"
-jci_1_3: "jci1.3:c:BWBR0017155&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0017155&g=2013-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling veilingprocedure en lotingprocedure nummers"
-signed_date: "2004-09-01"
-entry_into_force: "2004-10-21"
+publicatiedatum: 2004-10-21
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0017155"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Minister van Economische Zaken van 1 september 2004, nr. WJZ 4050821, houdende regels met betrekking tot procedures voor het veilen en loten van nummers (Regeling veilingprocedure en lotingprocedure nummers)
-
-Gelet op [artikel 5 van het Besluit alternatieve verdeling van nummers](https://wetten.overheid.nl/jci1.3:c:BWBR0014124&artikel=5);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -137,7 +112,7 @@ Indien het hoogste bod door twee of meer deelnemers wordt uitgebracht, stelt de 
 
 3. Indien de deelnemer het verschuldigde bedrag niet binnen de door de Autoriteit Consument en Markt vastgestelde termijn heeft voldaan kan de Autoriteit Consument en Markt besluiten niet aan de deelnemer toe te kennen.
 
-4. Indien de Autoriteit Consument en Markt op grond van het bepaalde in het derde lid besluit niet aan de deelnemer toe te kennen, treft de Autoriteit Consument en Markt passende maatregelen in overeenstemming met artikel 8, tweede lid, onderdeel d, van [richtlijn 2002/21/EG](32002L0021).
+4. Indien de Autoriteit Consument en Markt op grond van het bepaalde in het derde lid besluit niet aan de deelnemer toe te kennen, treft de Autoriteit Consument en Markt passende maatregelen in overeenstemming met artikel 8, tweede lid, onderdeel d, van richtlijn 2002/21/EG.
 
 ##### Artikel 13
 
@@ -184,5 +159,3 @@ Deze regeling treedt in werking met ingang van 21 oktober 2004.
 ##### Artikel 20
 
 Deze regeling wordt aangehaald als: Regeling veilingprocedure en lotingprocedure nummers.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

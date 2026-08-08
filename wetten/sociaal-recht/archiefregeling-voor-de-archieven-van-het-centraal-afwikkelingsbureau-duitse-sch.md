@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 19 oktober 2004, nr. IAZ 2004-878M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Ministerie van Financiën, Centraal Afwikkelingsbureau Duitse Schade-uitkeringen 1959–1966"
+citeertitel: "Archiefregeling voor de archieven van het Centraal Afwikkelingsbureau Duitse Schade-uitkeringen 1959–1966, ressorterend onder het Ministerie van Financiën"
 identifier: "BWBR0017324"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-10-23"
-last_updated: "2004-10-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017324"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "6233093"
-version_id: "10905892"
-internal_id: "C14778481"
-label_id: "6222094"
-original_entry_into_force: "2004-10-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017324/2004-10-23/0"
-intitule_bron: "Stcrt.2004-203"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-10-19"
-intitule_published: "2004-10-21"
-intitule_in_force: "2004-10-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-203"
-original_signed_date: "2004-10-19"
-original_published_date: "2004-10-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-203-p7-SC67070"
-entry_into_force_date: "2004-10-23"
-jci_1_3: "jci1.3:c:BWBR0017324&z=2004-10-23&g=2004-10-23"
-jci_1_0: "1.0:c:BWBR0017324&g=2004-10-23"
-citeertitel_status: "officieel"
-short_title: "Archiefregeling voor de archieven van het Centraal Afwikkelingsbureau Duitse Schade-uitkeringen 1959–1966, ressorterend onder het Ministerie van Financiën"
-signed_date: "2004-10-19"
-entry_into_force: "2004-10-23"
+publicatiedatum: 2004-10-23
+laatste_update: 2004-10-23
+status: geldig
+toestand: 2004-10-23
+bron: "https://wetten.overheid.nl/BWBR0017324"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Minister van Financiën van 19 oktober 2004, nr. IAZ 2004-878M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Ministerie van Financiën, Centraal Afwikkelingsbureau Duitse Schade-uitkeringen 1959–1966
-
-Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Besluit:
 
 ##### Artikel 1
 

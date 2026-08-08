@@ -1,37 +1,16 @@
 ---
 title: "Fiscale beleidsregels november 2004"
 identifier: "BWBR0017725"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-12-20"
-last_updated: "2004-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017725"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6708633"
-version_id: "11549302"
-internal_id: "C15572361"
-label_id: "6696924"
-original_entry_into_force: "2004-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017725/2004-12-20/0"
-intitule_bron: "Stcrt.2004-245"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-16"
-intitule_published: "2004-12-20"
-intitule_in_force: "2004-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-245"
-original_signed_date: "2004-12-16"
-original_published_date: "2004-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-245-p14-SC68110"
-entry_into_force_date: "2004-12-20"
-jci_1_3: "jci1.3:c:BWBR0017725&z=2004-12-20&g=2004-12-20"
-jci_1_0: "1.0:c:BWBR0017725&g=2004-12-20"
-citeertitel_status: "redactioneel"
-signed_date: "2004-12-16"
-entry_into_force: "2004-12-20"
+publicatiedatum: 2004-12-20
+laatste_update: 2004-12-20
+status: geldig
+toestand: 2004-12-20
+bron: "https://wetten.overheid.nl/BWBR0017725"
+opgehaald: 2026-08-08
 ---
+
 # Fiscale beleidsregels november 2004
 
 De Staatssecretaris van Financiën geeft kennis van het volgende.
@@ -66,7 +45,7 @@ Goed koopmansgebruik
 
 Besluit van 16/11/2004, nr. CPP2004-814M
 
-[Besluit tijdelijk beheer DigiD](onbekend)
+Besluit tijdelijk beheer DigiD
 
 Besluit van 28/10/2004, nr. DGB2004-5283M
 
@@ -75,6 +54,30 @@ Loonbelasting/premie volksverzekeringen. Publicatie fiscale beoordelingen CAO-te
 Besluit van 29/10/2004, nr. CPP2004-2377M
 
 Bij dit moederbesluit horen 12 branchespecifieke CAO-besluiten
+
+- 1. CPP2004/859M - Beoordeling CAO Varkensverbetering 2003-2004
+
+- 2. CPP2004/860M - Beoordeling CAO Trainer/coaches betaald voetbal 2002-2004
+
+- 3. CPP2004/862M - Beoordeling CAO Verzekeringsbedrijf Binnendienst 2003
+
+- 4. CPP2004/863M - Beoordeling CAO Verzekeringsbedrijf Buitendienst 2003
+
+- 5. CPP2004/864M - Beoordeling CAO Apotheken 2002-2004
+
+- 6. CPP2004/865M - Beoordeling CAO Vrijgevestigde Fysiotherapiepraktijk 2003
+
+- 7. CPP2004/884M - Beoordeling CAO Houthandel 2002-2003
+
+- 8. CPP2004/887M - Beoordeling CAO Schoonmaak- en Glazenwassersbedrijf 2003-2004 (inclusief CAO-deel Industriële- Gevel- en Kalamiteitenreiniging)
+
+- 9. CPP2004/888M - Beoordeling CAO Landbouwwerktuigen exploiterende ondernemingen 2002-2003
+
+- 10. CPP2004/889M - Beoordeling CAO Contractcatering 2002-2003
+
+- 11. CPP2004/2205M - Beoordeling CAO Banken (Algemene Banken-CAO) 2004
+
+- 12. CPP2004/2206M - Beoordeling CAO Goederenvervoer over het spoor 2003-2004
 
 Loonbelasting. Inkoop van pensioen in een eindloonregeling
 

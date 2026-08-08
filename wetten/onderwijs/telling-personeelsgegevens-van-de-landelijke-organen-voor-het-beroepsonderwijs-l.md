@@ -1,36 +1,16 @@
 ---
 title: "Telling personeelsgegevens van de Landelijke Organen voor het Beroepsonderwijs (LOB) voor het jaar 2004"
 identifier: "BWBR0016743"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-06-09"
-last_updated: "2004-06-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016743"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6462393"
-version_id: "11138162"
-internal_id: "C15056551"
-label_id: "6451034"
-original_entry_into_force: "2004-06-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016743/2004-06-09/0"
-intitule_bron: "Uitleg.2004-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-05-17"
-intitule_published: "2004-06-09"
-intitule_in_force: "2004-06-09"
-intitule_status: "goed"
-original_publication: "Uitleg.2004-10"
-original_signed_date: "2004-05-17"
-original_published_date: "2004-06-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-06-09"
-jci_1_3: "jci1.3:c:BWBR0016743&z=2004-06-09&g=2004-06-09"
-jci_1_0: "1.0:c:BWBR0016743&g=2004-06-09"
-citeertitel_status: "redactioneel"
-signed_date: "2004-05-17"
-entry_into_force: "2004-06-09"
+publicatiedatum: 2004-06-09
+laatste_update: 2004-06-09
+status: geldig
+toestand: 2004-06-09
+bron: "https://wetten.overheid.nl/BWBR0016743"
+opgehaald: 2026-08-08
 ---
+
 # Telling personeelsgegevens van de Landelijke Organen voor het Beroepsonderwijs (LOB) voor het jaar 2004
 
 ### 1. Inleiding
@@ -41,13 +21,45 @@ Hierbij informeer ik u over de procedure en de op te vragen gegevens van deze te
 
 Met deze telling worden gegevens verzameld naar het peilmoment 1 maart 2004.
 
-De gevraagde informatie is gebaseerd op [Artikel 5.2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=5.2.2) juncto [bijlage 6, van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=6) (Stb. 1999, 368). De gele telformulieren waarop de informatie dient te worden ingevuld zullen u **vóór 1 juli 2004** worden toegezonden.
+De gevraagde informatie is gebaseerd op [Artikel 5.2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=5.2.2) juncto [bijlage 6, van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=6) (Stb. 1999, 368). De gele telformulieren waarop de informatie dient te worden ingevuld zullen u *vóór 1 juli 2004* worden toegezonden.
 
 ### 2. De telformulieren
 
-De telformulierenset bestaat uit een voorblad en een aantal telformulieren (afhankelijk van het aantal functies). Het **voorblad CFI 54098-1** is voorbedrukt met:
+De telformulierenset bestaat uit een voorblad en een aantal telformulieren (afhankelijk van het aantal functies). Het *voorblad CFI 54098-1* is voorbedrukt met:
+
+- 1. Landelijk orgaan
+
+   - het BRIN-nummer van het orgaan;
+
+   - naam en adresgegevens van het landelijke orgaan, evenals ruimte voor de naam en het telefoonnummer van de contactpersoon;
+
+- 2. Ondertekening namens het bestuur
+
+   - Ruimte voor dagtekening en ondertekening door voorzitter en secretaris.
+
+De telformulieren CFI 542098-2:
 
 Op deze formulieren dienen de volgende gegevens te worden ingevuld inzake door OCenW bekostigd personeel:
+
+| Functie | De code voor de functie die het personeelslid heeft. |
+| --- | --- |
+|  | 1 = directielid |
+|  | 2 = middenmanagement of consulent |
+|  | 3 = ondersteunend en beheerspersoneel. |
+|  | 4 = beleidsmedewerker |
+|  | 5 = overige |
+| Type | De aanduiding of de werknemer in vast of tijdelijk dienstverband is (uitzendkrachten worden niet opgenomen), |
+|  | Tijdelijk = 1 |
+|  | Vast = 2 |
+| Schaal/ regelnr | De salarisschaal met het regelnummer van het personeelslid, conform de CAO-LOB, RPBO. |
+| Geslacht | De aanduiding of het personeelslid een man of vrouw is. |
+|  | Man = 1 |
+|  | Vrouw = 2 |
+| Geboortejaar | Het jaar waarin het personeelslid geboren is. |
+| Aantal | Het aantal personen dat met een zelfde |
+| personen | combinatie op de regel van het formulier is opgenomen. |
+| Fte’s | De totale betrekkingsomvang van de geselecteerde personen, uitgedrukt in gehele normbetrekking. |
+| Peildatum | 1 maart 2004. |
 
 Per regel kunnen de gegevens van de functies en personen met eenzelfde combinatie van gegevens worden samengenomen. Veelal zal per regel echter slechts één persoon kunnen worden vermeld.
 
@@ -61,9 +73,11 @@ Indien u op 7 juli 2004 de gele formulierenset nog niet heeft ontvangen, dient u
 
 De gele formulierenset dient, ondertekend door het bevoegd gezag van het orgaan of een gemachtigde, uiterlijk 31 juli 2004 geretourneerd te zijn aan:
 
+- Centrale Financiën Instellingen Unit GEG/GGV Postbus 606 2700ML Zoetermeer.
+
 De gegevens op de formulieren worden door Cfi verwerkt en gecontroleerd. Indien er onvolkomenheden worden geconstateerd worden de gegevens opgenomen op eengroen terugmeldingsformulier waarbij wordt aangegeven welke onvolkomenheden zijn geconstateerd.
 
-De gegevens op het groene terugmeldingsformulier dienen in dat geval gecorrigeerd te worden waarna het terugmeldingsformulier, ondertekend door het bevoegd gezag of een gemachtigde, **uiterlijk 15 september 2004** door Cfi moet zijn ontvangen.
+De gegevens op het groene terugmeldingsformulier dienen in dat geval gecorrigeerd te worden waarna het terugmeldingsformulier, ondertekend door het bevoegd gezag of een gemachtigde, *uiterlijk 15 september 2004* door Cfi moet zijn ontvangen.
 
 Na verwerking van de correcties ontvangt elk landelijk orgaan een blauw overzichtsformulier waarop de geregistreerde gegevens zijn opgenomen. Dit blauwe formulier is bestemd voor de administratie van de ontvanger en behoeft niet te worden teruggestuurd.
 
@@ -71,12 +85,22 @@ Landelijke organen waarbij tijdens de controle geen onvolkomenheden worden gecon
 
 ### 4. Tijdsbalk telling
 
+Vóór 1 juli 2004
+
 Verzending gele telformulierenset met toelichting
+
+1 augustus 2004
 
 Uiterste datum waarop de gele telformulierenset door Cfi moet zijn ontvangen.
 
+19 augustus 2004
+
 Uiterste datum waarop de groene terugmeldingsformulierenset wordt verzonden, in het geval er onvolkomenheden zijn gesignaleerd.
 
+15 september 2004
+
 Uiterste datum waarop de groene terugmeldingsformulierenset door CFI moet zijn ontvangen.
+
+1 oktober 2004
 
 Verzending blauwe overzichtsformulieren (indien er geen fouten zijn geconstateerd).

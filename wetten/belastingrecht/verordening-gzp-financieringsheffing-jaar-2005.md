@@ -1,42 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 4 november 2004, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2005 (Verordening GZP financieringsheffing jaar 2005)"
+citeertitel: "Verordening GZP financieringsheffing jaar 2005"
 identifier: "BWBR0017442"
-country: "nl"
-rank: "pbo"
-publication_date: "2005-01-01"
-last_updated: "2005-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017442"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6797833"
-version_id: "11668332"
-internal_id: "C15724921"
-label_id: "6786194"
-original_entry_into_force: "2005-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017442/2005-01-01/0"
-intitule_bron: "Vbbo.2004-73"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-04"
-intitule_published: "2004-12-24"
-intitule_in_force: "2004-12-24"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-73"
-original_signed_date: "2004-11-04"
-original_published_date: "2004-12-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-01-01"
-jci_1_3: "jci1.3:c:BWBR0017442&z=2005-01-01&g=2005-01-01"
-jci_1_0: "1.0:c:BWBR0017442&g=2005-01-01"
-citeertitel_status: "officieel"
-short_title: "Verordening GZP financieringsheffing jaar 2005"
-signed_date: "2004-11-04"
-entry_into_force: "2005-01-01"
+publicatiedatum: 2005-01-01
+laatste_update: 2005-01-01
+status: geldig
+toestand: 2005-01-01
+bron: "https://wetten.overheid.nl/BWBR0017442"
+opgehaald: 2026-08-08
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 4 november 2004, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2005 (Verordening GZP financieringsheffing jaar 2005)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 eerste lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 8](onbekend) en [19 van het Instellingsbesluit](onbekend);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -47,7 +23,7 @@ Deze verordening verstaat onder:
 | productschap | : | Productschap Granen, Zaden en Peulvruchten; |
 | --- | --- | --- |
 | secretaris | : | secretaris van het productschap; |
-| ondernemer : |   | natuurlijke- of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
+| ondernemer : |  | natuurlijke- of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
 | landbouwzaaizaden | : | alle zaaizaden met uitzondering van zaaizaden van groentegewassen, specerijgewassen, kruiden, siergewassen en bomen; |
 | granen | : | granen, ingedeeld in Hoofdstuk 10 van de Gecombineerde Nomenclatuur, met uitzondering van zaaigranen en rijst; |
 | in de handel brengen | : | in Nederland in het verkeer brengen. |

@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 2 juni 2004 tot vaststelling van nadere regels inzake de organisatie, werkwijze en bekostiging van de politieonderwijsraad (Besluit politieonderwijsraad)"
+citeertitel: "Besluit politieonderwijsraad"
 identifier: "BWBR0016802"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-11-29"
-last_updated: "2017-11-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016802"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "5910013"
-version_id: "10499202"
-internal_id: "C14261071"
-label_id: "5899804"
-original_entry_into_force: "2004-06-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016802/2017-11-29/0"
-intitule_bron: "Stb.2004-254"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-06-02"
-intitule_published: "2004-06-17"
-intitule_in_force: "2004-06-17"
-intitule_status: "goed"
-original_publication: "Stb.2004-254"
-original_signed_date: "2004-06-02"
-original_published_date: "2004-06-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2004-254"
-entry_into_force_date: "2004-06-18"
-jci_1_3: "jci1.3:c:BWBR0016802&z=2017-11-29&g=2017-11-29"
-jci_1_0: "1.0:c:BWBR0016802&g=2017-11-29"
-citeertitel_status: "officieel"
-short_title: "Besluit politieonderwijsraad"
-signed_date: "2004-06-02"
-entry_into_force: "2004-06-18"
+publicatiedatum: 2004-06-18
+laatste_update: 2017-11-29
+status: geldig
+toestand: 2017-11-29
+bron: "https://wetten.overheid.nl/BWBR0016802"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 2 juni 2004 tot vaststelling van nadere regels inzake de organisatie, werkwijze en bekostiging van de politieonderwijsraad (Besluit politieonderwijsraad)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 1 april 2004, nr. EA2004/60035, directoraat-generaal voor Openbare Orde en Veiligheid;
-
-Gelet op [artikel 21, van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=21);
-
-De Raad van State gehoord (advies van 22 april 2004, nr. W04.04.0156/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 10 mei 2004, nr. EA2004/63883, directoraat-generaal voor Openbare Orde en Veiligheid;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -107,6 +76,10 @@ De raad is bevoegd tot het horen van deskundigen, maatschappelijke organisaties 
 
 2. De bescheiden worden bij opheffing van de raad overgedragen aan Onze Minister.
 
+##### Artikel 8a
+
+Dit besluit berust op [artikel 82, zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=82).
+
 ##### Artikel 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
@@ -114,11 +87,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit politieonderwijsraad.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a
-
-Dit besluit berust op [artikel 82, zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=82).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

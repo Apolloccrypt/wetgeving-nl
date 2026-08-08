@@ -1,46 +1,18 @@
 ---
 title: "Wet van 26 mei 2004 tot uitvoering van de verordening (EG) Nr. 1206/2001 van de Raad van de Europese Unie van 28 mei 2001 betreffende de samenwerking tussen de gerechten van de lidstaten op het gebied van bewijsverkrijging in burgerlijke en handelszaken (PbEG L 174/1) (Uitvoeringswet EG-bewijsverordening)"
+citeertitel: "Uitvoeringswet Bewijsverkrijgingsverordening"
 identifier: "BWBR0016763"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016763"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "5933353"
-version_id: "10514392"
-internal_id: "C14289661"
-label_id: "5923144"
-original_entry_into_force: "2004-06-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016763/2025-01-01/0"
-intitule_bron: "Stb.2004-258"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-05-26"
-intitule_published: "2004-06-29"
-intitule_in_force: "2004-06-29"
-intitule_status: "goed"
-original_publication: "Stb.2004-258"
-original_signed_date: "2004-05-26"
-original_published_date: "2004-06-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "28993"
-original_url_id: "stb-2004-258"
-entry_into_force_date: "2004-06-30"
-jci_1_3: "jci1.3:c:BWBR0016763&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0016763&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Bewijsverkrijgingsverordening"
-signed_date: "2004-05-26"
-entry_into_force: "2004-06-30"
+publicatiedatum: 2004-06-30
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0016763"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 26 mei 2004 tot uitvoering van de verordening (EG) Nr. 1206/2001 van de Raad van de Europese Unie van 28 mei 2001 betreffende de samenwerking tussen de gerechten van de lidstaten op het gebied van bewijsverkrijging in burgerlijke en handelszaken (PbEG L 174/1) (Uitvoeringswet EG-bewijsverordening)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is voorzieningen te treffen ter uitvoering van de [verordening (EG) Nr. 1206/2001](32001R1206) van de Raad van de Europese Unie van 28 mei 2001 betreffende de samenwerking tussen de gerechten van de lidstaten op het gebied van bewijsverkrijging in burgerlijke en handelszaken (PbEG L 174/1);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemene bepalingen
 
@@ -48,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder:
 
-- a. **verordening:** de [verordening (EU) Nr. 2020/1783](33683R2020) van het Europees Parlement en de Raad van 25 november 2020 betreffende de samenwerking tussen de gerechten van de lidstaten op het gebied van bewijsverkrijging in burgerlijke en handelszaken (bewijsverkrijging) (herschikking) (PbEU L 405/1);
+- a. *verordening:* de verordening (EU) Nr. 2020/1783 van het Europees Parlement en de Raad van 25 november 2020 betreffende de samenwerking tussen de gerechten van de lidstaten op het gebied van bewijsverkrijging in burgerlijke en handelszaken (bewijsverkrijging) (herschikking) (PbEU L 405/1);
 
 - b. verzoekend gerecht: een verzoekend gerecht als bedoeld in artikel 3, eerste lid, van de verordening;
 
@@ -72,7 +44,11 @@ In deze wet wordt verstaan onder:
 
 2. Bij regeling van Onze Minister voor Rechtsbescherming kunnen nadere regels worden gesteld met betrekking tot de wijze waarop het centraal orgaan zijn taken, bedoeld in artikel 4, eerste en derde lid, van de verordening, uitvoert.
 
-#### § 2. Verzoeken aan een gerecht, het centrale orgaan of de bevoegde autoriteit in Nederland
+##### Artikel 3a
+
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld voor de verzending als bedoeld in artikel 7, eerste lid, van de verordening.
+
+#### § 2. Verzoeken uit een andere lidstaat aan een gerecht of centraal orgaan in Nederland
 
 ##### Artikel 4
 
@@ -84,7 +60,7 @@ Het aangezochte gerecht kan, indien dit voor een goede uitvoering van het verzoe
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -130,6 +106,10 @@ Een afwijzende beslissing op grond van artikel 12, derde of vierde lid, artikel 
 
 3. Ten aanzien van de kosten van de in de voorgaande leden bedoelde andere persoon zijn de [artikelen 187](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=187) en [191 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=191) voor zover nodig van overeenkomstige toepassing.
 
+##### Artikel 12a
+
+Het verzoekende gerecht kan bepalen welke der partijen zorg draagt voor en de kosten betaalt van een door een beëdigd vertaler vervaardigde vertaling van de stukken in een door de lidstaat van het aangezochte gerecht aanvaarde taal.
+
 ##### Artikel 13
 
 1. Omtrent de vergoedingen en kosten waarvan door het aangezochte gerecht op de voet van artikel 22, tweede lid, van de verordening aan het verzoekend gerecht terugbetaling wordt verzocht, wordt door de rechter overeenkomstig de [artikelen 237](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=237) en [artikel 289 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=289) uitspraak gedaan, voorzover deze artikelen daarvoor een vergoeding plegen in te sluiten.
@@ -152,7 +132,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betre
 
 ##### Artikel 16
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel 17
 
@@ -161,25 +141,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 18
 
 Deze wet wordt aangehaald als: Uitvoeringswet Bewijsverkrijgingsverordening.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 12a
-
-Het verzoekende gerecht kan bepalen welke der partijen zorg draagt voor en de kosten betaalt van een door een beëdigd vertaler vervaardigde vertaling van de stukken in een door de lidstaat van het aangezochte gerecht aanvaarde taal.
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld voor de verzending als bedoeld in artikel 7, eerste lid, van de verordening.
-
-#### § 2. Verzoeken uit een andere lidstaat aan een gerecht of centraal orgaan in Nederland
-
-#### § 3. Verzoeken aan een gerecht, het centrale orgaan of de bevoegde autoriteit in een andere lidstaat
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

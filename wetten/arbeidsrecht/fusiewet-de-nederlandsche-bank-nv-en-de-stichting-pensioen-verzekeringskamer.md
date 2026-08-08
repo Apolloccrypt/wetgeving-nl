@@ -1,49 +1,18 @@
 ---
 title: "Wet van 13 oktober 2004, houdende bepalingen in verband met de fusie van De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer"
+citeertitel: "Fusiewet De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer"
 identifier: "BWBR0017317"
-country: "nl"
-rank: "wet"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017317"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "6244763"
-version_id: "10924842"
-internal_id: "C14809421"
-label_id: "6233784"
-original_entry_into_force: "2004-10-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017317/2007-01-01/0"
-intitule_bron: "Stb.2004-556"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-10-13"
-intitule_published: "2004-10-29"
-intitule_in_force: "2004-10-29"
-intitule_status: "goed"
-original_publication: "Stb.2004-556"
-original_signed_date: "2004-10-13"
-original_published_date: "2004-10-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "29411"
-original_url_id: "stb-2004-556"
-entry_into_force_date: "2004-10-30"
-entry_into_force_dossier: "29411"
-jci_1_3: "jci1.3:c:BWBR0017317&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0017317&g=2007-01-01"
-citeertitel_status: "officieel"
-short_title: "Fusiewet De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer"
-signed_date: "2004-10-13"
-entry_into_force: "2004-10-30"
+publicatiedatum: 2004-10-30
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0017317"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 13 oktober 2004, houdende bepalingen in verband met de fusie van De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met de hervorming van het toezicht op de financiële marktsector wenselijk is dat De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer fuseren tot: De Nederlandsche Bank N.V.;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
 
 ##### Artikel 1
 
@@ -83,39 +52,39 @@ De Nederlandsche Bank N.V. oefent alle taken en bevoegdheden uit die bij of krac
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Wijzigt de Bankwet 1998.
+*Wijzigt de Bankwet 1998.*
 
 ##### Artikel 10
 
-Wijzigt de Wet toezicht verzekeringsbedrijf 1993.
+*Wijzigt de Wet toezicht verzekeringsbedrijf 1993.*
 
 ##### Artikel 11
 
-Wijzigt de Pensioen- en spaarfondsenwet.
+*Wijzigt de Pensioen- en spaarfondsenwet.*
 
 ##### Artikel 12
 
-Wet toezicht natura-uitvaartverzekeringsbedrijf.
+*Wet toezicht natura-uitvaartverzekeringsbedrijf.*
 
 ##### Artikel 13
 
-Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.
+*Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.*
 
 ##### Artikel 14
 
-Wijzigt de Comptabiliteitswet 2001.
+*Wijzigt de Comptabiliteitswet 2001.*
 
 ##### Artikel 15
 
@@ -124,5 +93,3 @@ Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten
 ##### Artikel 16
 
 Deze wet kan worden aangehaald als: Fusiewet De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

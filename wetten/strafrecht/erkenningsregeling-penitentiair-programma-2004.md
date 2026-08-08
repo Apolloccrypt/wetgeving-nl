@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie van 22 november 2004, nr. 5295956/04/DJI, houdende bepalingen met betrekking tot de eisen voor erkenning van een penitentiair programma of een onderdeel daarvan (Erkenningsregeling penitentiair programma 2004)"
+citeertitel: "Erkenningsregeling penitentiair programma 2004"
 identifier: "BWBR0017560"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017560"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling"
-stam_id: "6397333"
-version_id: "11060082"
-internal_id: "C14966631"
-label_id: "6386144"
-original_entry_into_force: "2004-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017560/2021-07-01/0"
-intitule_bron: "Stcrt.2004-234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-22"
-intitule_published: "2004-12-03"
-intitule_in_force: "2004-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-234"
-original_signed_date: "2004-11-22"
-original_published_date: "2004-12-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-234-p11-SC67660"
-entry_into_force_date: "2004-12-05"
-jci_1_3: "jci1.3:c:BWBR0017560&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0017560&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Erkenningsregeling penitentiair programma 2004"
-signed_date: "2004-11-22"
-entry_into_force: "2004-12-05"
+publicatiedatum: 2004-12-05
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0017560"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Minister van Justitie van 22 november 2004, nr. 5295956/04/DJI, houdende bepalingen met betrekking tot de eisen voor erkenning van een penitentiair programma of een onderdeel daarvan (Erkenningsregeling penitentiair programma 2004)
-
-Gelet op [artikel 4, derde en vijfde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=4) en [artikel 5, vierde lid, van de Penitentiaire maatregel](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=5);
-
-Besluit:
 
 ##### Artikel 1
 

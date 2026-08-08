@@ -1,43 +1,18 @@
 ---
 title: "Regeling tot vaststelling van een nieuwe regeling voor examinatoren voor luchtvarenden (Regeling examinatoren voor luchtvarenden 2004)"
+citeertitel: "Regeling examinatoren voor luchtvarenden 2004"
 identifier: "BWBR0017236"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017236"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6155753"
-version_id: "10823212"
-internal_id: "C14683181"
-label_id: "6145034"
-original_entry_into_force: "2004-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017236/2026-01-01/0"
-intitule_bron: "Stcrt.2004-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-09-24"
-intitule_published: "2004-09-29"
-intitule_in_force: "2004-09-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-187"
-original_signed_date: "2004-09-24"
-original_published_date: "2004-09-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-187-p28-SC66777"
-entry_into_force_date: "2004-10-01"
-jci_1_3: "jci1.3:c:BWBR0017236&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0017236&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling examinatoren voor luchtvarenden 2004"
-signed_date: "2004-09-24"
-entry_into_force: "2004-10-01"
+publicatiedatum: 2004-10-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0017236"
+opgehaald: 2026-08-08
 ---
+
 # Regeling tot vaststelling van een nieuwe regeling voor examinatoren voor luchtvarenden (Regeling examinatoren voor luchtvarenden 2004)
-
-Gelet op de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=14), en [15, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=15);
-
-Besluit:
 
 ### Hoofdstuk 1. Definities
 
@@ -45,19 +20,20 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- **acceptatietest:** vaardigheidstest voor examinatoren als beschreven in FCL 1.020 van verordening (EU) nr. 1178/2011;
+- *acceptatietest:* vaardigheidstest voor examinatoren als beschreven in FCL 1.020 van verordening (EU) nr. 1178/2011;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **praktijkexamen:** onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0021240), ten behoeve van de afgifte van een bewijs van bevoegdheid of een bevoegdverklaring;
+- *praktijkexamen:* onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0021240), ten behoeve van de afgifte van een bewijs van bevoegdheid of een bevoegdverklaring;
 
-- **proeve van bekwaamheid:** onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen als bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0021240), ten behoeve van de verlenging of de hernieuwde afgifte van een bevoegdverklaring;
+- *proeve van bekwaamheid:* onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen als bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0021240), ten behoeve van de verlenging of de hernieuwde afgifte van een bevoegdverklaring;
 
-- **RFE:** examinator recreatief vlieger (Recreational Flight Examiner);
+- *RFE:* examinator recreatief vlieger (Recreational Flight Examiner);
 
-- **RFIE:** examinator voor de bevoegdverklaring tot recreatief vlieginstructeur (Recreational Flight Instructor Examiner);
+- *RFIE:* examinator voor de bevoegdverklaring tot recreatief vlieginstructeur (Recreational Flight Instructor Examiner);
 
-- **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+- *wet:*
+ [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 2. In deze regeling wordt met de volgende toevoegingen bedoeld:
 
@@ -70,6 +46,10 @@ Besluit:
 - d. GC: de categorie gyrokopters (Gyrocopters).
 
 3. Verwijzingen naar JAR-FCL in deze regeling hebben betrekking op de Nederlandstalige versie van JAR-FCL 1, 2 of 4, zoals deze ter inzage liggen bij het Ministerie van Infrastructuur en Waterstaat.
+
+##### Artikel 1a
+
+Deze regeling berust tevens op [artikel 1.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5).
 
 ### Hoofdstuk 2. Geautoriseerde examinatoren
 
@@ -95,11 +75,11 @@ Besluit:
 
 ##### Artikel 3
 
-Voor examinatoren voor typebevoegdverklaringen voor een luchtvaartuig als bedoeld in bijlage I behorende bij de basisverordening zijn de eisen bedoeld in deel FCL, subdeel K, sectie 1 en sectie 3, van [verordening (EU) nr. 1178/2011](32011R1178) van overeenkomstige toepassing.
+Voor examinatoren voor typebevoegdverklaringen voor een luchtvaartuig als bedoeld in bijlage I behorende bij de basisverordening zijn de eisen bedoeld in deel FCL, subdeel K, sectie 1 en sectie 3, van verordening (EU) nr. 1178/2011 van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 #### § 2.2. Afgifte en verlenging
 
@@ -111,13 +91,13 @@ Vervallen
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
 Een autorisatie is ongeldig gedurende de periode dat de examinator niet voldoet aan een of meer eisen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-01-01&g=2026-01-01). Indien een dergelijke situatie zich voordoet, is de examinator verplicht dit onverwijld te melden aan de minister.
 
-#### § 2.3. Inhoudelijke eisen
+#### § 2.3. Aftekenbevoegdheid
 
 ##### Artikel 8
 
@@ -125,7 +105,7 @@ Een examinator is bevoegd om, indien een kandidaat aan alle voorwaarden heeft vo
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. Senior-examinatoren
 
@@ -167,7 +147,7 @@ Een senior-examinator, die in dienst is van een luchtvaartmaatschappij of opleid
 
 2. De vergoeding, bedoeld in het eerste lid, bestaat uit:
 
-- a. een honorarium dat € 372 bedraagt, en
+- a. een honorarium dat € 372 bedraagt, en
 
 - b. de ten behoeve van het uitoefenen van de taak gemaakte reis- en verblijfkosten, die volgens hetgeen daarover overeengekomen is in de laatste afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn worden vergoed.
 
@@ -223,28 +203,8 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 18
 
-Deze regeling treedt in werking met ingang van 1 oktober 2004. Indien de Staatscourant, waarin deze regeling wordt geplaatst, wordt uitgegeven na 29 september 2004, treedt zij in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 oktober 2004.
+Deze regeling treedt in werking met ingang van 1 oktober 2004. Indien de Staatscourant, waarin deze regeling wordt geplaatst, wordt uitgegeven na 29 september 2004, treedt zij in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 oktober 2004.
 
 ##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling examinatoren voor luchtvarenden 2004.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust tevens op [artikel 1.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5).
-
-### Hoofdstuk 2. Geautoriseerde examinatoren
-
-#### § 2.1. Algemeen
-
-#### § 2.2. Afgifte en verlenging
-
-#### § 2.3. Aftekenbevoegdheid
-
-### Hoofdstuk 3. Senior-examinatoren
-
-### Hoofdstuk 4. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

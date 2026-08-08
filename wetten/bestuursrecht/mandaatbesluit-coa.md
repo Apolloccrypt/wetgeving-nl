@@ -1,43 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie van 19 november 2004, nr. 5329852/05/DJJ, houdende verlening van mandaat aan het Centraal Orgaan opvang asielzoekers tot het nemen van besluiten inzake beëindiging van het verstrekken van leefgelden aan ex-ama’s alsmede verlening van procesbevoegdheid terzake (Mandaatbesluit COA)"
+citeertitel: "Mandaatbesluit COA"
 identifier: "BWBR0017547"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-01-16"
-last_updated: "2005-01-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017547"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6619173"
-version_id: "11457732"
-internal_id: "C15436921"
-label_id: "6607544"
-original_entry_into_force: "2005-01-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017547/2005-01-16/0"
-intitule_bron: "Stcrt.2005-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-19"
-intitule_published: "2005-01-14"
-intitule_in_force: "2005-01-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-10"
-original_signed_date: "2004-11-19"
-original_published_date: "2005-01-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-10-p9-SC68448"
-entry_into_force_date: "2005-01-16"
-jci_1_3: "jci1.3:c:BWBR0017547&z=2005-01-16&g=2005-01-16"
-jci_1_0: "1.0:c:BWBR0017547&g=2005-01-16"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit COA"
-signed_date: "2004-11-19"
-entry_into_force: "2005-01-16"
+publicatiedatum: 2005-01-16
+laatste_update: 2005-01-16
+status: geldig
+toestand: 2005-01-16
+bron: "https://wetten.overheid.nl/BWBR0017547"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van de Minister van Justitie van 19 november 2004, nr. 5329852/05/DJJ, houdende verlening van mandaat aan het Centraal Orgaan opvang asielzoekers tot het nemen van besluiten inzake beëindiging van het verstrekken van leefgelden aan ex-ama’s alsmede verlening van procesbevoegdheid terzake (Mandaatbesluit COA)
-
-Gelet op de [artikelen 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), en [10:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -62,5 +37,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Mandaatbesluit COA.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,44 +1,17 @@
 ---
 title: "Besluit tot instelling Adviescommissie bezwaarschriften bouwfraude V&W"
 identifier: "BWBR0017655"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-02-01"
-last_updated: "2005-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017655"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6446703"
-version_id: "11118692"
-internal_id: "C29115721"
-label_id: "6435464"
-original_entry_into_force: "2005-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017655/2005-02-01/0"
-intitule_bron: "Stcrt.2004-243"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-09"
-intitule_published: "2004-12-16"
-intitule_in_force: "2004-12-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-243"
-original_signed_date: "2004-12-09"
-original_published_date: "2004-12-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-243-p17-SC67797"
-entry_into_force_date: "2005-02-01"
-jci_1_3: "jci1.3:c:BWBR0017655&z=2005-02-01&g=2005-02-01"
-jci_1_0: "1.0:c:BWBR0017655&g=2005-02-01"
-citeertitel_status: "officieel"
-signed_date: "2004-12-09"
-entry_into_force: "2005-02-01"
+publicatiedatum: 2005-02-01
+laatste_update: 2005-02-01
+status: geldig
+toestand: 2005-02-01
+bron: "https://wetten.overheid.nl/BWBR0017655"
+opgehaald: 2026-08-08
 ---
+
 # Besluit tot instelling Adviescommissie bezwaarschriften bouwfraude V&W
-
-Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
-
-Overwegende dat het wenselijk is een adviescommissie in te stellen ten behoeve van de voorbereiding van de besluitvorming door de minister van bezwaarschriften van personeelsleden van V&W tegen besluiten die jegens hen als zodanig zijn genomen door, namens of op voordracht van de minister, waarbij hun rechtspositioneel belang rechtstreeks is betrokken verband houdende met de bouwfraude;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -101,5 +74,3 @@ Dit besluit werkt terug tot 1 juli 2004 en vervalt, behoudens verlenging bij bes
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit tot instelling Adviescommissie bezwaarschriften bouwfraude V&W.
-
-Dit besluit zal worden gepubliceerd in de Staatscourant.

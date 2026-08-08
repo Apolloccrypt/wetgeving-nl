@@ -1,57 +1,32 @@
 ---
 title: "Regeling van de Minister-President, Minister van Algemene Zaken, van 3 november 2004, nr. 04R36868, houdende wijziging van de Regeling media-inkoop in verband met uitbreiding ten behoeve van mede-overheden"
+citeertitel: "Regeling media-inkoop 2004"
 identifier: "BWBR0017416"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-02-27"
-last_updated: "2010-02-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017416"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6314423"
-version_id: "10973982"
-internal_id: "C14871861"
-label_id: "6303274"
-original_entry_into_force: "2004-11-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017416/2010-02-27/0"
-intitule_bron: "Stcrt.2004-219"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-03"
-intitule_published: "2004-11-12"
-intitule_in_force: "2004-11-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-219"
-original_signed_date: "2004-11-03"
-original_published_date: "2004-11-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-219-p17-SC67309"
-entry_into_force_date: "2004-11-14"
-jci_1_3: "jci1.3:c:BWBR0017416&z=2010-02-27&g=2010-02-27"
-jci_1_0: "1.0:c:BWBR0017416&g=2010-02-27"
-citeertitel_status: "officieel"
-short_title: "Regeling media-inkoop 2004"
-signed_date: "2004-11-03"
-entry_into_force: "2004-11-14"
+publicatiedatum: 2004-11-14
+laatste_update: 2010-02-27
+status: geldig
+toestand: 2010-02-27
+bron: "https://wetten.overheid.nl/BWBR0017416"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Minister-President, Minister van Algemene Zaken, van 3 november 2004, nr. 04R36868, houdende wijziging van de Regeling media-inkoop in verband met uitbreiding ten behoeve van mede-overheden
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **media-inkoop**: het met een media-exploitant aangaan van overeenkomsten onder bezwarende titel ter reservering of inkoop van plaatsruimte of zendtijd ten behoeve van openbare communicatie.
+- a. *media-inkoop*: het met een media-exploitant aangaan van overeenkomsten onder bezwarende titel ter reservering of inkoop van plaatsruimte of zendtijd ten behoeve van openbare communicatie.
 
-- b. **ministeries**: ministeries, inclusief dienstonderdelen en diensten met een baten-lastenstelsel alsmede instellingen en lichamen zonder eigen rechtspersoonlijkheid die hiërarchisch ondergeschikt zijn aan de minister.
+- b. *ministeries*: ministeries, inclusief dienstonderdelen en diensten met een baten-lastenstelsel alsmede instellingen en lichamen zonder eigen rechtspersoonlijkheid die hiërarchisch ondergeschikt zijn aan de minister.
 
-- c. **DPC**: Dienst Publiek en Communicatie van het Ministerie van Algemene Zaken.
+- c. *DPC*: Dienst Publiek en Communicatie van het Ministerie van Algemene Zaken.
 
-- d. **organisaties gelieerd aan de Rijksoverheid**: zelfstandige bestuursorganen, rechtspersonen met een wettelijke taak en Staatsdeelnemingen.
+- d. *organisaties gelieerd aan de Rijksoverheid*: zelfstandige bestuursorganen, rechtspersonen met een wettelijke taak en Staatsdeelnemingen.
 
-- e. **mede-overheden**: gemeenten, provincies, gemeenschappelijke regelingen en waterschappen.
+- e. *mede-overheden*: gemeenten, provincies, gemeenschappelijke regelingen en waterschappen.
 
 ##### Artikel 2
 

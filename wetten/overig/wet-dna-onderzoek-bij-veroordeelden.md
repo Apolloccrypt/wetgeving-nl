@@ -1,48 +1,18 @@
 ---
 title: "Wet van 16 september 2004, houdende regeling van DNA-onderzoek bij veroordeelden (Wet DNA-onderzoek bij veroordeelden)"
+citeertitel: "Wet DNA-onderzoek bij veroordeelden"
 identifier: "BWBR0017212"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017212"
+categorie: "Overig"
 soort: "wet"
-stam_id: "6148643"
-version_id: "10814182"
-internal_id: "C23569621"
-label_id: "6137834"
-original_entry_into_force: "2005-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017212/2025-07-01/0"
-intitule_bron: "Stb.2004-465"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-09-16"
-intitule_published: "2004-09-28"
-intitule_in_force: "2005-01-18"
-intitule_status: "goed"
-original_publication: "Stb.2004-465"
-original_signed_date: "2004-09-16"
-original_published_date: "2004-09-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "28685"
-original_url_id: "stb-2004-465"
-entry_into_force_date: "2005-02-01"
-jci_1_3: "jci1.3:c:BWBR0017212&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0017212&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet DNA-onderzoek bij veroordeelden"
-signed_date: "2004-09-16"
-entry_into_force: "2005-02-01"
+publicatiedatum: 2005-02-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0017212"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 16 september 2004, houdende regeling van DNA-onderzoek bij veroordeelden (Wet DNA-onderzoek bij veroordeelden)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is te regelen dat DNA-onderzoek plaatsvindt bij personen die zijn veroordeeld wegens bepaalde misdrijven, teneinde bij te dragen aan de voorkoming, opsporing, vervolging en berechting van strafbare feiten van deze personen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking voorzover het gaat om de misdrijven in de artikelen opgesomd in Stb. 2005/18. Treedt op 15 mei 2006 in werking voorzover het gaat om de misdrijven in de artikelen opgesomd in Stb. 2006/220. Treedt in werking op 1 augustus 2006 voorzover het gaat om de misdrijven in de artikelen opgesomd in Stb. 2006/312. Treedt in werking op 1 januari 2008 voorzover het gaat om de misdrijven in de artikelen opgesomd in Stb. 2007/513. Treedt in werking op 1 januari 2009 voorzover het gaat om een misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering begaan door personen opgesomd in Stb. 2008/530. Treedt in werking op 1 mei 2010 ten aanzien van veroordeelden wegens ieder misdrijf als omschreven in artikel 67, eerste lid, Wetboek van Strafvordering (Stb. 2010/11).
 
 ##### Artikel 1
 
@@ -56,13 +26,13 @@ Treedt in werking voorzover het gaat om de misdrijven in de artikelen opgesomd i
 
 - d. opsporingsambtenaar:
 
-- 1°. een ambtenaar van politie als bedoeld in [artikel 2, onder a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
+   - 1°. een ambtenaar van politie als bedoeld in [artikel 2, onder a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
 
-- 2°. een ambtenaar van politie als bedoeld in [artikel 2, onder c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover hij is aangesteld voor de uitvoering van de politietaak;
+   - 2°. een ambtenaar van politie als bedoeld in [artikel 2, onder c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover hij is aangesteld voor de uitvoering van de politietaak;
 
-- 3°. een ambtenaar van politie als bedoeld in [artikel 2, onder b of c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover hij is aangesteld voor de uitvoering van taken op het terrein van de technische recherche, of
+   - 3°. een ambtenaar van politie als bedoeld in [artikel 2, onder b of c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover hij is aangesteld voor de uitvoering van taken op het terrein van de technische recherche, of
 
-- 4°. een militair van de Koninklijke marechaussee als bedoeld in [artikel 141, onder c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
+   - 4°. een militair van de Koninklijke marechaussee als bedoeld in [artikel 141, onder c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
 
 2. Met een veroordeelde als bedoeld in het eerste lid, onder c, wordt voor de toepassing van deze wet gelijkgesteld een persoon die op grond van [artikel 39 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=39) is ontslagen van alle rechtsvervolging en aan wie tevens een maatregel als voorzien in [artikel 37a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a) juncto [37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38), [38m](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m) of [77s van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77s) is opgelegd, een persoon aan wie bij onherroepelijke strafbeschikking een taakstraf is opgelegd en een persoon ten aanzien van wie met toepassing van [artikel 2.3 van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.3) een zorgmachtiging of rechterlijke machtiging is afgegeven op de gronden, genoemd in artikel 2.3, eerste lid, onderdeel 1°, 2° of 4°, van de Wet forensische zorg.
 
@@ -96,7 +66,7 @@ Treedt in werking voorzover het gaat om de misdrijven in de artikelen opgesomd i
 
 4. Het bevel vermeldt het rechtsmiddel dat openstaat tegen het bepalen en verwerken van het DNA-profiel van de veroordeelde, en de termijn waarbinnen dat rechtsmiddel kan worden aangewend.
 
-5. Het bevel wordt aan de veroordeelde betekend door uitreiking overeenkomstig [artikel 36e, eerste lid, onder b, tweede en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36e).
+5. Het bevel wordt aan de veroordeelde betekend door uitreiking overeenkomstig [artikel 36e, eerste lid, onder b, tweede en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36e).
 
 ##### Artikel 4
 
@@ -128,7 +98,7 @@ Treedt in werking voorzover het gaat om de misdrijven in de artikelen opgesomd i
 
 2. Voorzover noodzakelijk voor de inbeslagneming van voorwerpen waarop vermoedelijk celmateriaal van de veroordeelde aanwezig is, kan de officier van justitie de woning van de veroordeelde zonder toestemming van de bewoner betreden en doorzoeken. [Artikel 99, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=99) is van overeenkomstige toepassing.
 
-3. Zodra voor het bepalen en verwerken van het DNA-profiel van de veroordeelde voldoende celmateriaal in beslag is genomen, deelt de officier van justitie dit schriftelijk aan de veroordeelde mee. Deze mededeling wordt aan de veroordeelde betekend door uitreiking overeenkomstig [artikel 36e, eerste lid, onder b, tweede en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36e).
+3. Zodra voor het bepalen en verwerken van het DNA-profiel van de veroordeelde voldoende celmateriaal in beslag is genomen, deelt de officier van justitie dit schriftelijk aan de veroordeelde mee. Deze mededeling wordt aan de veroordeelde betekend door uitreiking overeenkomstig [artikel 36e, eerste lid, onder b, tweede en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36e).
 
 4. Zodra het DNA-onderzoek is verricht, doet de officier van justitie de in beslag genomen voorwerpen teruggeven aan degene bij wie ze in beslag zijn genomen.
 
@@ -154,19 +124,19 @@ Treedt in werking voorzover het gaat om de misdrijven in de artikelen opgesomd i
 
 ##### Artikel 9
 
-Wijzigt de Penitentiaire beginselenwet.
+*Wijzigt de Penitentiaire beginselenwet.*
 
 ##### Artikel 10
 
-Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
+*Wijzigt de Beginselenwet verpleging ter beschikking gestelden.*
 
 ##### Artikel 11
 
-Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
+*Wijzigt de Beginselenwet justitiële jeugdinrichtingen.*
 
 ##### Artikel 12
 
-Wijzigt de Penitentiaire beginselenwet, de Beginselenwet verpleging ter beschikking gestelden en de Beginselenwet justitiële jeugdinrichtingen.
+*Wijzigt de Penitentiaire beginselenwet, de Beginselenwet verpleging ter beschikking gestelden en de Beginselenwet justitiële jeugdinrichtingen.*
 
 ##### Artikel 13
 
@@ -174,7 +144,7 @@ DNA-profielen van veroordeelden die voor de inwerkingtreding van deze wet op gro
 
 ##### Artikel 14
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel 15
 
@@ -183,5 +153,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 16
 
 Deze wet wordt aangehaald als: Wet DNA-onderzoek bij veroordeelden.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

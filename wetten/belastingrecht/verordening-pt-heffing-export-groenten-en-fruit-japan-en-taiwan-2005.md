@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2004, houdende regels ter zake van de aan ondernemers, die groenten en fruit naar Japan en Taiwan exporteren, op te leggen heffing voor het jaar 2005 (Verordening PT heffing export groenten en fruit Japan en Taiwan 2005)"
+citeertitel: "Verordening PT heffing export groenten en fruit Japan en Taiwan 2005"
 identifier: "BWBR0016969"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-12-04"
-last_updated: "2004-12-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016969"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6735533"
-version_id: "11591012"
-internal_id: "C15618981"
-label_id: "6723974"
-original_entry_into_force: "2004-12-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016969/2004-12-04/0"
-intitule_bron: "Vbbo.2004-70"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-01"
-intitule_published: "2004-12-03"
-intitule_in_force: "2004-12-03"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-70"
-original_signed_date: "2004-07-01"
-original_published_date: "2004-12-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-12-04"
-jci_1_3: "jci1.3:c:BWBR0016969&z=2004-12-04&g=2004-12-04"
-jci_1_0: "1.0:c:BWBR0016969&g=2004-12-04"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing export groenten en fruit Japan en Taiwan 2005"
-signed_date: "2004-07-01"
-entry_into_force: "2004-12-04"
+publicatiedatum: 2004-12-04
+laatste_update: 2004-12-04
+status: geldig
+toestand: 2004-12-04
+bron: "https://wetten.overheid.nl/BWBR0016969"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2004, houdende regels ter zake van de aan ondernemers, die groenten en fruit naar Japan en Taiwan exporteren, op te leggen heffing voor het jaar 2005 (Verordening PT heffing export groenten en fruit Japan en Taiwan 2005)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Sectorcommissie voor groenten en fruit, d.d. 24 juni 2004;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 

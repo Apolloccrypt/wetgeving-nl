@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Verkeer en Waterstaat houdende voorschriften met betrekking tot het verstrekken van subsidie aan eigenaren van kenmerkende woningen in het beperkingengebied van de luchthaven Schiphol, met het oog op het aanbrengen van geluidwerende voorzieningen dan wel het doen vervangen door nieuwbouw (Subsidieregeling geluidsisolatie of vervangende nieuwbouw specifieke panden)"
+citeertitel: "Subsidieregeling geluidsisolatie of vervangende nieuwbouw specifieke panden"
 identifier: "BWBR0016575"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-04-15"
-last_updated: "2004-04-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016575"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "5814033"
-version_id: "10381952"
-internal_id: "C29058701"
-label_id: "5794234"
-original_entry_into_force: "2004-04-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016575/2004-04-15/0"
-intitule_bron: "Stcrt.2004-70"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-03-31"
-intitule_published: "2004-04-13"
-intitule_in_force: "2004-04-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-70"
-original_signed_date: "2004-03-31"
-original_published_date: "2004-04-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-70-p17-SC64489"
-entry_into_force_date: "2004-04-15"
-jci_1_3: "jci1.3:c:BWBR0016575&z=2004-04-15&g=2004-04-15"
-jci_1_0: "1.0:c:BWBR0016575&g=2004-04-15"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling geluidsisolatie of vervangende nieuwbouw specifieke panden"
-signed_date: "2004-03-31"
-entry_into_force: "2004-04-15"
+publicatiedatum: 2004-04-15
+laatste_update: 2004-04-15
+status: geldig
+toestand: 2004-04-15
+bron: "https://wetten.overheid.nl/BWBR0016575"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat houdende voorschriften met betrekking tot het verstrekken van subsidie aan eigenaren van kenmerkende woningen in het beperkingengebied van de luchthaven Schiphol, met het oog op het aanbrengen van geluidwerende voorzieningen dan wel het doen vervangen door nieuwbouw (Subsidieregeling geluidsisolatie of vervangende nieuwbouw specifieke panden)
-
-Gelet op de [artikelen 2 tot en met 4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -146,5 +121,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 15
 
 Deze regeling wordt aangehaald als: Subsidieregeling geluidsisolatie of vervangende nieuwbouw specifieke panden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

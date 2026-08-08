@@ -1,44 +1,17 @@
 ---
 title: "Contracteerruimtes per zorgkantoorregio 2005"
 identifier: "BWBR0017670"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-12-17"
-last_updated: "2004-12-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017670"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6697593"
-version_id: "11532922"
-internal_id: "C15550361"
-label_id: "6685994"
-original_entry_into_force: "2004-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017670/2004-12-17/0"
-intitule_bron: "Stcrt.2004-242"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-10"
-intitule_published: "2004-12-15"
-intitule_in_force: "2004-12-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-242"
-original_signed_date: "2004-12-10"
-original_published_date: "2004-12-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-242-p32-SC67980"
-entry_into_force_date: "2004-12-17"
-jci_1_3: "jci1.3:c:BWBR0017670&z=2004-12-17&g=2004-12-17"
-jci_1_0: "1.0:c:BWBR0017670&g=2004-12-17"
-citeertitel_status: "redactioneel"
-signed_date: "2004-12-10"
-entry_into_force: "2004-12-17"
+publicatiedatum: 2004-12-17
+laatste_update: 2004-12-17
+status: geldig
+toestand: 2004-12-17
+bron: "https://wetten.overheid.nl/BWBR0017670"
+opgehaald: 2026-08-08
 ---
+
 # Contracteerruimtes per zorgkantoorregio 2005
-
-Gelet op [artikel 13 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=13);
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brieven van 11 november 2004, kenmerk Z/P-2529975 en Z/P-2529932);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -66,23 +39,23 @@ Het College berekent de totale contracteerruimte, als bedoeld in [artikel 2, ond
 
 - d. het College past op het resultaat van c. correcties toe in verband met de onderdelen die geen onderdeel zijn van de contracteerruimte 2005, te weten:
 
-- (1). de kosten van TBS-klinieken;
+   - (1). de kosten van TBS-klinieken;
 
-- (2). de kosten van vrijgevestigde psychiaters;
+   - (2). de kosten van vrijgevestigde psychiaters;
 
-- (3). de kosten van vrijgevestigde psychotherapeuten;
+   - (3). de kosten van vrijgevestigde psychotherapeuten;
 
-- (4). de kosten van advies, instructie en voorlichting (AIV);
+   - (4). de kosten van advies, instructie en voorlichting (AIV);
 
-- (5). de kosten van voedingsvoorlichting;
+   - (5). de kosten van voedingsvoorlichting;
 
-- (6). de kosten in het kader van de uitvoering van het urgentieplan justitiële jeugdinstellingen (JJI's);
+   - (6). de kosten in het kader van de uitvoering van het urgentieplan justitiële jeugdinstellingen (JJI's);
 
-- (7). de nacalculeerbare kapitaallasten;
+   - (7). de nacalculeerbare kapitaallasten;
 
-- (8). de nacalculeerbare vervoerskosten;
+   - (8). de nacalculeerbare vervoerskosten;
 
-- (9). overige niet door zorgkantoren te beïnvloeden kosten, zoals wachtgeldverplichting CAW, steunverlening aan instellingen in financiële problemen, kassiersfunctie GGZ, functioneel bestendig beleid en middelen voor herallocaties;
+   - (9). overige niet door zorgkantoren te beïnvloeden kosten, zoals wachtgeldverplichting CAW, steunverlening aan instellingen in financiële problemen, kassiersfunctie GGZ, functioneel bestendig beleid en middelen voor herallocaties;
 
 - e. het College indexeert de uitkomst van d. naar het definitieve prijspeil 2004 (inclusief de taakstelling ziekteverzuim). Loon- en prijsbijstelling voor extramurale zorgproducten en intramurale zorgproducten verpleging en verzorging 2004 die in 2004 niet is uitgekeerd, voegt het College incidenteel toe aan het structurele loon-/prijsniveau in 2005;
 
@@ -127,9 +100,3 @@ Het College verdeelt de totale contracteerruimte over zorgkantoorregio's, stelt 
 ##### Artikel 7
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin hij wordt geplaatst.
-
-## Bijlage
-
-Op grond van [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) kan het CTG binnen zes weken na de dag waarop het aangevallen besluit bekend is gemaakt, een bezwaarschrift indienen bij het bestuursorgaan dat het besluit heeft genomen. Een dergelijk bezwaarschrift dient te worden geadresseerd aan de Directie Wetgeving en Juridische Zaken van het Ministerie van VWS.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

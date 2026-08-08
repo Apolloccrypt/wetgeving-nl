@@ -1,50 +1,17 @@
 ---
 title: "Intrekkingsregeling BZK 2004"
 identifier: "BWBR0017790"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-02-01"
-last_updated: "2005-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017790"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6555763"
-version_id: "11355332"
-internal_id: "C15296051"
-label_id: "6544364"
-original_entry_into_force: "2005-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017790/2005-02-01/0"
-intitule_bron: "Stcrt.2004-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-20"
-intitule_published: "2004-12-29"
-intitule_in_force: "2004-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-252"
-original_signed_date: "2004-12-20"
-original_published_date: "2004-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-252-p11-SC68140"
-entry_into_force_date: "2005-02-01"
-jci_1_3: "jci1.3:c:BWBR0017790&z=2005-02-01&g=2005-02-01"
-jci_1_0: "1.0:c:BWBR0017790&g=2005-02-01"
-citeertitel_status: "officieel"
-signed_date: "2004-12-20"
-entry_into_force: "2005-02-01"
+publicatiedatum: 2005-02-01
+laatste_update: 2005-02-01
+status: geldig
+toestand: 2005-02-01
+bron: "https://wetten.overheid.nl/BWBR0017790"
+opgehaald: 2026-08-08
 ---
+
 # Intrekkingsregeling BZK 2004
-
-Handelende in overeenstemming met de Minister van Economische Zaken, voor zover het betreft [artikel IX, onderdeel dd](https://wetten.overheid.nl/jci1.3:c:BWBR0017790&artikel=IX&z=2005-02-01&g=2005-02-01);
-
-Handelende in overeenstemming met de Minister van Financiën, voor zover het betreft [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0017790&artikel=II&z=2005-02-01&g=2005-02-01);
-
-Handelende in overeenstemming met de Minister van Justitie, voor zover het betreft [artikel IX, onderdeel g, k en w](https://wetten.overheid.nl/jci1.3:c:BWBR0017790&artikel=IX&z=2005-02-01&g=2005-02-01);
-
-Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap, voor zover het betreft [artikel IX, o, p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0017790&artikel=IX&z=2005-02-01&g=2005-02-01);
-
-Gelet op de artikelen die de bevoegdheid bieden om regelingen vast te stellen, te wijzigen of in te trekken in de [Wet vergoedingen leden Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0007402), de [Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939), de [Wet subsidiëring politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0010465), de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645), de [Wet van 6 november 1997 tot wijziging van de Financiële-verhoudingswet en enkele andere wetten en regels inzake de invoering van deze wijziging in verband met een herziening van het verdeelstelsel voor het Provinciefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0008995), de [Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291), de [Financiële-Verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290), het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630), de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Garantiewet Surinaamse Pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298), de [Rechtspositieregeling deelnemers aan initiële opleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004410), de [Wet D’Gemeenten en D’Provincies](https://wetten.overheid.nl/jci1.3:c:BWBR0005182), de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), de [Brandweerwet 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0003764), het [Besluit geneeskundige verzorging politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006605), de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), de Wet wapens en munitie, het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517), de [Wet tegemoetkoming schade bij rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637), het [Besluit tegemoetkoming schade bij rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0010000), het [Vergoedingenbesluit Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0009885), de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159), het [Vergoedingenbesluit adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008353), de [Wet Stichting ROI](https://wetten.overheid.nl/jci1.3:c:BWBR0005739), de [Wet Stichting CAOP](https://wetten.overheid.nl/jci1.3:c:BWBR0006921), de [Wet N.V. RCC](https://wetten.overheid.nl/jci1.3:c:BWBR0004858), het [Besluit liquidatie FAOP](https://wetten.overheid.nl/jci1.3:c:BWBR0009402), de [Wet op de Ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747), de Spoorwegpensioenwet en voor het overige [artikel 44 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44).
-
-Besluiten:
 
 ##### Artikel I. Regelingen met betrekking tot leden van de Staten-Generaal
 
@@ -190,7 +157,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling tot aanpassing schadegebied bij tweede extreem zware regenval 1998.
 
-##### Artikel VII. Regelingen op het gebied van de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159), het [Vergoedingenbesluit adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008353) en het [Vergoedingenbesluit Wet Nationale Ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0009885)
+##### Artikel VII. Regelingen op het gebied van de Kaderwet adviescolleges, het Vergoedingenbesluit adviescolleges en het Vergoedingenbesluit Wet Nationale Ombudsman
 
 De volgende regelingen worden ingetrokken:
 
@@ -337,5 +304,3 @@ Deze regeling treedt in werking met ingang van de eerste dag van de tweede kalen
 ##### Artikel XII. Citeertitel
 
 Deze regeling wordt aangehaald als: Intrekkingsregeling BZK 2004.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

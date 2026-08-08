@@ -8,7 +8,7 @@ laatste_update: 2021-05-24
 status: geldig
 toestand: 2021-05-24
 bron: "https://wetten.overheid.nl/BWBV0006907"
-opgehaald: 2026-08-07
+opgehaald: 2026-08-08
 ---
 
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Republiek Chili

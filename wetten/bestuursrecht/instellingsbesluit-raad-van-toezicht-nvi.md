@@ -1,41 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 oktober 2004, nr. DPenO 2521244, houdende de instelling van de Raad van Toezicht Nederlands Vaccinatie Instituut"
+citeertitel: "Instellingsbesluit Raad van Toezicht NVI"
 identifier: "BWBR0017373"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-11-12"
-last_updated: "2004-11-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017373"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "6302843"
-version_id: "10968162"
-internal_id: "C29112441"
-label_id: "6291764"
-original_entry_into_force: "2004-11-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017373/2004-11-12/0"
-intitule_bron: "Stcrt.2004-217"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-10-27"
-intitule_published: "2004-11-10"
-intitule_in_force: "2004-11-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-217"
-original_signed_date: "2004-10-27"
-original_published_date: "2004-11-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-217-p24-SC67284"
-entry_into_force_date: "2004-11-12"
-jci_1_3: "jci1.3:c:BWBR0017373&z=2004-11-12&g=2004-11-12"
-jci_1_0: "1.0:c:BWBR0017373&g=2004-11-12"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Raad van Toezicht NVI"
-signed_date: "2004-10-27"
-entry_into_force: "2004-11-12"
+publicatiedatum: 2004-11-12
+laatste_update: 2004-11-12
+status: geldig
+toestand: 2004-11-12
+bron: "https://wetten.overheid.nl/BWBR0017373"
+opgehaald: 2026-08-08
 ---
-# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 oktober 2004, nr. DPenO 2521244, houdende de instelling van de Raad van Toezicht Nederlands Vaccinatie Instituut
 
-Besluit:
+# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 oktober 2004, nr. DPenO 2521244, houdende de instelling van de Raad van Toezicht Nederlands Vaccinatie Instituut
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -154,5 +131,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Instellingsbesluit Raad van Toezicht NVI.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

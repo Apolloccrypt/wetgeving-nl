@@ -1,48 +1,18 @@
 ---
 title: "Wet van 15 december 2004, houdende regels ten aanzien van het veilig laden en lossen van zeeschepen (Wet laden en lossen zeeschepen)"
+citeertitel: "Wet laden en lossen zeeschepen"
 identifier: "BWBR0017718"
-country: "nl"
-rank: "wet"
-publication_date: "2010-12-31"
-last_updated: "2010-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017718"
+categorie: "Overig"
 soort: "wet"
-stam_id: "6508073"
-version_id: "11197232"
-internal_id: "C15368491"
-label_id: "6496924"
-original_entry_into_force: "2004-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017718/2010-12-31/0"
-intitule_bron: "Stb.2004-683"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-15"
-intitule_published: "2004-12-23"
-intitule_in_force: "2004-12-30"
-intitule_status: "goed"
-original_publication: "Stb.2004-683"
-original_signed_date: "2004-12-15"
-original_published_date: "2004-12-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "29713"
-original_url_id: "stb-2004-683"
-entry_into_force_date: "2004-12-31"
-jci_1_3: "jci1.3:c:BWBR0017718&z=2010-12-31&g=2010-12-31"
-jci_1_0: "1.0:c:BWBR0017718&g=2010-12-31"
-citeertitel_status: "officieel"
-short_title: "Wet laden en lossen zeeschepen"
-signed_date: "2004-12-15"
-entry_into_force: "2004-12-31"
+publicatiedatum: 2004-12-31
+laatste_update: 2010-12-31
+status: geldig
+toestand: 2010-12-31
+bron: "https://wetten.overheid.nl/BWBR0017718"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 15 december 2004, houdende regels ten aanzien van het veilig laden en lossen van zeeschepen (Wet laden en lossen zeeschepen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het, gelet op [richtlijn nr. 2001/96/EG](32001L0096) van het Europees Parlement en de Raad van de Europese Unie van 4 december 2001 tot vaststelling van geharmoniseerde voorschriften en procedures voor veilig laden en lossen van bulkschepen (PbEG 2002, L 13), noodzakelijk is regels te stellen ten aanzien van het veilig laden en lossen van zeeschepen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -62,11 +32,11 @@ De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van
 
 - f. bulkschip: een schip als bedoeld in voorschrift IX/1 van het SOLAS-verdrag en resolutie 6 van de SOLAS-Conferentie van 1997, waaronder wordt verstaan:
 
-- 1°. een schip geconstrueerd met enkel dek, top-zijtanks en hopper-zijtanks in de laadruimen, dat voornamelijk bestemd is voor het vervoer van vaste lading in bulk;
+   - 1°. een schip geconstrueerd met enkel dek, top-zijtanks en hopper-zijtanks in de laadruimen, dat voornamelijk bestemd is voor het vervoer van vaste lading in bulk;
 
-- 2°. een ertsschip: een zeeschip met enkel dek, met twee langsschotten en een dubbele bodem in het gehele ladinggedeelte, dat bestemd is om uitsluitend in de middenruimten ertsladingen te vervoeren; of
+   - 2°. een ertsschip: een zeeschip met enkel dek, met twee langsschotten en een dubbele bodem in het gehele ladinggedeelte, dat bestemd is om uitsluitend in de middenruimten ertsladingen te vervoeren; of
 
-- 3°. een «combination carrier» als bedoeld in voorschrift II-2/3 van het SOLAS-verdrag;
+   - 3°. een «combination carrier» als bedoeld in voorschrift II-2/3 van het SOLAS-verdrag;
 
 - g. terminal: een vaste, drijvende of mobiele voorziening die is uitgerust voor het laden of lossen van vaste bulklading in of uit bulkschepen en die daarvoor wordt gebruikt;
 
@@ -232,7 +202,7 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 ##### Artikel 18
 
-1. In afwijking van [artikel 3:41, eerste lid, van de Algemene wet bestuursrecht](onbekend) geschiedt de bekendmaking van het besluit tot stopzetting van het laden of lossen of aanhouding voorzover dat gericht is tot het bulkschip, door uitreiking van dit besluit aan de kapitein.
+1. In afwijking van artikel 3:41, eerste lid, van de Algemene wet bestuursrecht geschiedt de bekendmaking van het besluit tot stopzetting van het laden of lossen of aanhouding voorzover dat gericht is tot het bulkschip, door uitreiking van dit besluit aan de kapitein.
 
 2. Indien uitreiking aan de kapitein niet mogelijk is, geschiedt de bekendmaking van een besluit als bedoeld in het eerste lid door uitreiking van dit besluit aan de naar het oordeel van de toezichthouder daarvoor meest gerede persoon, zo spoedig mogelijk gevolgd door kennisgeving aan de kapitein.
 
@@ -258,7 +228,7 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 1. Tegen besluiten van een toezichthouder kan iedere belanghebbende beroep instellen bij Onze Minister.
 
-2. [Artikel 6:5, derde lid, van de Algemene wet bestuursrecht](onbekend) is niet van toepassing op beroepschriften in de Engelse taal.
+2. Artikel 6:5, derde lid, van de Algemene wet bestuursrecht is niet van toepassing op beroepschriften in de Engelse taal.
 
 ### Hoofdstuk 6. Overige bepalingen
 
@@ -312,14 +282,12 @@ Aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoof
 
 ##### Artikel 27
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 28
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](onbekend).
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. In dat besluit wordt zo nodig toepassing gegeven aan artikel 16 van de Tijdelijke referendumwet.
 
 ##### Artikel 29
 
 Deze wet wordt aangehaald als: Wet laden en lossen zeeschepen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,43 +1,18 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap tot het verlenen van mandaat aan het Uitkeringsinstituut werknemersverzekeringen voor de uitvoering van diverse werkloosheidsregelingen"
+citeertitel: "Mandaatbesluit Uitkeringsinstituut werknemersverzekeringen voor uitvoering diverse werkloosheidsregelingen"
 identifier: "BWBR0016576"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-04-01"
-last_updated: "2004-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016576"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "5815403"
-version_id: "10383672"
-internal_id: "C14048531"
-label_id: "5795474"
-original_entry_into_force: "2004-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016576/2004-04-01/0"
-intitule_bron: "Stcrt.2004-70"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-03-31"
-intitule_published: "2004-04-13"
-intitule_in_force: "2004-04-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-70"
-original_signed_date: "2004-03-31"
-original_published_date: "2004-04-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-70-p17-SC64518"
-entry_into_force_date: "2004-04-01"
-jci_1_3: "jci1.3:c:BWBR0016576&z=2004-04-01&g=2004-04-01"
-jci_1_0: "1.0:c:BWBR0016576&g=2004-04-01"
-citeertitel_status: "redactioneel"
-short_title: "Mandaatbesluit Uitkeringsinstituut werknemersverzekeringen voor uitvoering diverse werkloosheidsregelingen"
-signed_date: "2004-03-31"
-entry_into_force: "2004-04-01"
+publicatiedatum: 2004-04-01
+laatste_update: 2004-04-01
+status: geldig
+toestand: 2004-04-01
+bron: "https://wetten.overheid.nl/BWBR0016576"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap tot het verlenen van mandaat aan het Uitkeringsinstituut werknemersverzekeringen voor de uitvoering van diverse werkloosheidsregelingen
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 

@@ -1,40 +1,17 @@
 ---
 title: "Tijdelijk protocol letselongevallen Defensie"
 identifier: "BWBR0017372"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-11-07"
-last_updated: "2004-11-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017372"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6260283"
-version_id: "10940542"
-internal_id: "C14834591"
-label_id: "6249184"
-original_entry_into_force: "2004-11-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017372/2004-11-07/0"
-intitule_bron: "Stcrt.2004-214"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-10-27"
-intitule_published: "2004-11-05"
-intitule_in_force: "2004-11-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-214"
-original_signed_date: "2004-10-27"
-original_published_date: "2004-11-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-214-p11-SC67203"
-entry_into_force_date: "2004-11-07"
-jci_1_3: "jci1.3:c:BWBR0017372&z=2004-11-07&g=2004-11-07"
-jci_1_0: "1.0:c:BWBR0017372&g=2004-11-07"
-citeertitel_status: "officieel"
-signed_date: "2004-10-27"
-entry_into_force: "2004-11-07"
+publicatiedatum: 2004-11-07
+laatste_update: 2004-11-07
+status: geldig
+toestand: 2004-11-07
+bron: "https://wetten.overheid.nl/BWBR0017372"
+opgehaald: 2026-08-08
 ---
-# Tijdelijk protocol letselongevallen Defensie
 
-Besluit:
+# Tijdelijk protocol letselongevallen Defensie
 
 ##### Artikel 1. Definities
 
@@ -109,5 +86,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijk protocol letselongevallen Defensie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

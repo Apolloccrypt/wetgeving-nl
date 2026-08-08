@@ -1,40 +1,17 @@
 ---
 title: "Loonbelasting, vrije vergoedingen en verstrekkingen; extraterritoriale kosten"
 identifier: "BWBR0016382"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-02-11"
-last_updated: "2004-02-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016382"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8477413"
-version_id: "13365062"
-internal_id: "C18459201"
-label_id: "8458184"
-dtd_version: "2.0"
-original_entry_into_force: "2004-02-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016382/2004-02-11/0"
-intitule_bron: "Infob.2004-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-02-11"
-intitule_published: "2004-01-01"
-intitule_in_force: "2004-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2004-1"
-original_signed_date: "2004-02-11"
-original_published_date: "2004-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-02-11"
-jci_1_3: "jci1.3:c:BWBR0016382&z=2004-02-11&g=2004-02-11"
-jci_1_0: "1.0:c:BWBR0016382&g=2004-02-11"
-citeertitel_status: "redactioneel"
-signed_date: "2004-02-11"
-entry_into_force: "2004-02-11"
+publicatiedatum: 2004-02-11
+laatste_update: 2004-02-11
+status: geldig
+toestand: 2004-02-11
+bron: "https://wetten.overheid.nl/BWBR0016382"
+opgehaald: 2026-08-08
 ---
-# Loonbelasting, vrije vergoedingen en verstrekkingen; extraterritoriale kosten
 
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Loonbelasting, vrije vergoedingen en verstrekkingen; extraterritoriale kosten
 
 ### Inleiding
 
@@ -70,6 +47,12 @@ De kosten van verhuizing in het kader van de dienstbetrekking en de kosten voor 
 
 Van een verhuizing in het kader van de dienstbetrekking (zakelijke verhuizing) kan sprake zijn bij een verhuizing ten gevolge van de aanvaarding van een dienstbetrekking of een overplaatsing binnen de bestaande dienstbetrekking. Van zo’n zakelijke verhuizing is doorgaans geen sprake als de werknemer in verband met het einde van de dienstbetrekking verhuist. Bij een grensoverschrijdende tewerkstelling van een werknemer kan dit naar mijn oordeel anders zijn. In zo’n geval kan de inhoudingsplichtige, met inachtneming van artikel 25 van de Uitvoeringsregeling loonbelasting 2001 (hierna: de URLB), ook bij een verhuizing in verband met het einde van de dienstbetrekking een vrije verhuiskostenkostenvergoeding, in de zin van artikel 15a, eerste lid, onderdeel g, van de Wet LB, geven. De voorwaarden hiervoor zijn:
 
+- – De verhuizing bij aanvang van de tewerkstelling en de verhuizing aan het einde van de tewerkstelling zijn beide grensoverschrijdend.
+
+- – De inhoudingsplichtige heeft het recht op de vergoeding uiterlijk bij de aanvang van de tewerkstelling toegekend.
+
+- – De werknemer verklaart aan de inhoudingsplichtige dat als hij ter zake van de verhuizing aan het einde van de dienstbetrekking (tevens) een verhuiskostenvergoeding van een andere inhoudingsplichtige of werkgever ontvangt, hij dit aan de inhoudingsplichtige zal melden en dat in zoverre geen recht op de verhuiskostenvergoeding bestaat.
+
 ### 4. Kosten van kennismaking met het werkland (househunting/acquintance trip)
 
 De kosten van een kennismakingsbezoek door de werknemer aan het bedrijf in het werkland kunnen vrij vergoed worden op basis van artikel 15 van de Wet LB. De kosten behoren niet tot de extraterritoriale kosten.
@@ -100,6 +83,10 @@ Vermogensverliezen die een extraterritoriale werknemer leidt omdat bijvoorbeeld 
 
 Bij de kosten van huisvesting is van belang of sprake is van dubbele huisvestingskosten.
 
+- – *Dubbele huisvestingskosten* De huisvestingskosten buiten het land van herkomst van een extraterritoriale werknemer, bijvoorbeeld in een hotel, die naar de omstandigheden beoordeeld, in het land van herkomst is blijven wonen, zijn extraterritoriale kosten voor de periode van de tijdelijke uitzending. De in artikel 15b, eerste lid, onderdeel i, van de Wet LB, genoemde termijn van twee jaar is niet van toepassing.
+
+- – *(Eerste) huisvestingskosten* Als de werknemer, naar de omstandigheden beoordeeld, niet in het land van herkomst is blijven wonen, dan is geen sprake van dubbele huisvestingskosten. In het besluit van 26 november 2001, nummer CPP2001/2970 (vraag en antwoord 17), is uit het oogpunt van doelmatigheid opgenomen dat de normale huisvestingskosten op 18% van het loon uit tegenwoordige dienstbetrekking (exclusief eventuele bijtelling voor huisvesting) kunnen worden gesteld. In zoverre is sprake van loon. Voor zover het bedrag van de vergoeding of verstrekking ziet op het bedrag dat uitgaat boven 18% van het loon is sprake van extraterritoriale kosten. Is sprake van huisvesting in een gemeubileerde woning, dan moet een splitsing worden aangebracht tussen de kosten die zien op de woning en het deel dat betrekking heeft op het meubilair en dergelijke. Voor de woning geldt hetgeen hiervoor is opgenomen. Het deel van de vergoeding dat ziet op het meubilair en dergelijke is belastbaar loon. Dit is alleen anders als sprake is van extra kosten ten opzichte van de kosten van meubilair en dergelijke in het land van herkomst. In dat geval zijn de extra kosten aan te merken als extraterritoriale kosten.
+
 Als de inhoudingsplichtige de bewijsregel toepast kan hij niet daarnaast nog de hiervoor vermelde extraterritoriale kosten vrij vergoeden.
 
 ### 9. Aan- en verkoopkosten woning (reimbursement expenses purchase house/brokers fee)
@@ -114,9 +101,15 @@ De uitgaven voor gas, water, licht en andere nutsvoorzieningen kunnen gedeelteli
 
 ### 11. Reizen en reiskosten (home-leave)
 
+- – *Reizen naar het land van herkomst* De kosten van reizen naar het land van herkomst, voor bijvoorbeeld familiebezoek of gezinshereniging zijn aan te merken als extraterritoriale kosten. Ook is sprake van extraterritoriale kosten als het reiskosten betreft die de werknemer maakt om zijn gezin, dat in het land van herkomst is blijven wonen, te bezoeken. De oorzaak van deze kosten ligt overwegend in de uitzending. Als de inhoudingsplichtige de bewijsregel toepast kan hij niet daarnaast nog deze extraterritoriale kosten vrij vergoeden.
+
+- – *Kosten woon- werkverkeer* De kosten voor regelmatig woon-werkverkeer vormen geen extraterritoriale kosten. Deze kosten vallen onder de specifieke bepaling van artikel 15b, eerste lid, onderdeel a, van de Wet LB.
+
 ### 12. Kosten van de belastingadviseur
 
 De kosten van persoonlijke belastingadviezen, zoals het verzorgen van de aangifte inkomstenbelasting, zijn doorgaans geen extraterritoriale kosten. De inhoudingsplichtige kan deze uitgaven ook niet om een andere reden vrij vergoeden. De vergoeding van deze uitgaven vormt hierom doorgaans belastbaar loon. Is sprake van extra kosten ten opzichte van het laten invullen van de privé-aangifte door een vergelijkbare belastingadviseur in het land van herkomst, dan zijn de extra kosten aan te merken als extraterritoriale kosten.
+
+Voorbeeld
 
 Een extraterritoriale werknemer met de Amerikaanse nationaliteit werkt in Nederland. Hij moet een Amerikaanse en een Nederlandse aangifte invullen. Als een inhoudingsplichtige de kosten voor het laten invullen van de beide aangiften vergoedt, dan zijn de kosten verbonden aan het invullen van de Nederlandse aangifte extraterritoriale kosten. Dit zijn de extra kosten die verbonden zijn aan het werken buiten het land van herkomst. De vergoeding van de kosten voor het invullen van de Amerikaanse aangifte vormen belastbaar loon. Zouden de kosten voor het invullen van de Amerikaanse aangifte door de tewerkstelling in Nederland hoger zijn, dan zijn deze extra kosten ook extraterritoriaal.
 
@@ -137,6 +130,10 @@ Voorzover de vergoeding ziet op extra (niet-zakelijke) gesprekskosten met het la
 ### 16. Maaltijden
 
 Kosten van maaltijden zijn in beginsel privé-uitgaven.
+
+- A. Dit is anders bij maaltijden waarbij het zakelijke karakter van meer dan bijkomstig belang is. Hierbij kan bij uitzendingen gedacht worden aan de vergoeding voor maaltijden genuttigd tijdens een korte periode dat men in een hotel wordt ondergebracht en niet in de gelegenheid is zelf maaltijden te bereiden. De vergoeding voor deze kosten van maaltijden en verstrekkingen is specifiek geregeld in artikel 15b, eerste lid, onderdeel c, van de Wet LB en in de artikelen 28 en 32 van de URLB en is dus geen extraterritoriale kostenvergoeding.
+
+- B. Als de extra kosten van maaltijden geen betrekking hebben op maaltijden waarbij het zakelijk karakter van meer dan bijkomstig belang is, en dus niet onder A) vallen, dan kan sprake zijn van extra kosten die worden opgeroepen door de uitzending. De extra kosten behoren dan tot de extraterritoriale kosten. Het gaat bij de vaststelling van deze extraterritoriale kosten niet om de meerkosten per afzonderlijke maaltijd, maar meer in het algemeen om de vaststelling van de meerkosten van levensonderhoud die opgeroepen worden door de uitzending. Zie onderdeel 1.
 
 ### 17. Vaste vergoedingen
 

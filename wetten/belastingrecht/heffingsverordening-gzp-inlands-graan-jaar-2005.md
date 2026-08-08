@@ -1,42 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 4 november 2004, houdende vaststelling bestemmingsheffing ten behoeve van de teelt van inlands graan in Nederland voor het jaar 2005 (Heffingsverordening GZP inlands graan jaar 2005)"
+citeertitel: "Heffingsverordening GZP inlands graan jaar 2005"
 identifier: "BWBR0017431"
-country: "nl"
-rank: "pbo"
-publication_date: "2005-03-20"
-last_updated: "2005-03-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017431"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "6930263"
-version_id: "11797802"
-internal_id: "C29155641"
-label_id: "6918464"
-original_entry_into_force: "2005-03-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017431/2005-03-20/0"
-intitule_bron: "Vbbo.2005-13"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-04"
-intitule_published: "2005-03-18"
-intitule_in_force: "2005-03-18"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-13"
-original_signed_date: "2004-11-04"
-original_published_date: "2005-03-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-03-20"
-jci_1_3: "jci1.3:c:BWBR0017431&z=2005-03-20&g=2005-03-20"
-jci_1_0: "1.0:c:BWBR0017431&g=2005-03-20"
-citeertitel_status: "officieel"
-short_title: "Heffingsverordening GZP inlands graan jaar 2005"
-signed_date: "2004-11-04"
-entry_into_force: "2005-03-20"
+publicatiedatum: 2005-03-20
+laatste_update: 2005-03-20
+status: geldig
+toestand: 2005-03-20
+bron: "https://wetten.overheid.nl/BWBR0017431"
+opgehaald: 2026-08-08
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 4 november 2004, houdende vaststelling bestemmingsheffing ten behoeve van de teelt van inlands graan in Nederland voor het jaar 2005 (Heffingsverordening GZP inlands graan jaar 2005)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 eerste en vierde lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=8) en [19 van het Instellingsbesluit akkerbouwproductschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=19);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 

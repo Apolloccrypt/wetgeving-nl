@@ -1,66 +1,34 @@
 ---
 title: "Regeling van de Minister van Justitie van 26 juli 2004, nr. 5296620/804, houdende regels inzake individuele keuzen in het arbeidsvoorwaardenpakket (IKAP) voor de sector Rechterlijke Macht"
+citeertitel: "IKAP-regeling Rechterlijke Macht"
 identifier: "BWBR0017067"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-05-30"
-last_updated: "2020-05-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017067"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "5976633"
-version_id: "26737072"
-internal_id: "C37895181"
-label_id: "5966064"
-dtd_version: "2.0"
-original_entry_into_force: "2020-05-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017067/2020-05-30/0"
-intitule_bron: "Stcrt.2004-141"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-26"
-intitule_published: "2004-07-27"
-intitule_in_force: "2004-07-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-28557"
-original_signed_date: "2020-05-14"
-original_published_date: "2020-05-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2020-28557"
-entry_into_force_date: "2020-05-14"
-jci_1_3: "jci1.3:c:BWBR0017067&z=2020-05-30&g=2020-05-30"
-jci_1_0: "1.0:c:BWBR0017067&g=2020-05-30"
-citeertitel_status: "redactioneel"
-short_title: "IKAP-regeling Rechterlijke Macht"
-signed_date: "2020-05-14"
-entry_into_force: "2020-05-14"
+publicatiedatum: 2020-05-14
+laatste_update: 2020-05-30
+status: geldig
+toestand: 2020-05-30
+bron: "https://wetten.overheid.nl/BWBR0017067"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Minister van Justitie van 26 juli 2004, nr. 5296620/804, houdende regels inzake individuele keuzen in het arbeidsvoorwaardenpakket (IKAP) voor de sector Rechterlijke Macht
-
-Gelet op [artikel 38k, tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38k);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- a. **IKAP:** Individuele Keuzen in het Arbeidsvoorwaardenpakket;
+- a. *IKAP:* Individuele Keuzen in het Arbeidsvoorwaardenpakket;
 
-- b. **arbeidsduur, arbeidsduurfactor, vakantie:** hetgeen daaronder wordt verstaan bij of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365);
+- b. *arbeidsduur, arbeidsduurfactor, vakantie:* hetgeen daaronder wordt verstaan bij of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365);
 
-- c. **peildatum:** de eerste dag van de maand waarin de rechterlijk ambtenaar op grond van dit besluit een aanvraag heeft ingediend;
+- c. *peildatum:* de eerste dag van de maand waarin de rechterlijk ambtenaar op grond van dit besluit een aanvraag heeft ingediend;
 
-- d. **salaris, salaris per uur, vakantie-uitkering:** hetgeen daaronder wordt verstaan bij of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365);
+- d. *salaris, salaris per uur, vakantie-uitkering:* hetgeen daaronder wordt verstaan bij of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365);
 
-- e. **jaarsalaris:** het salaris gedurende het kalenderjaar waarin van dit besluit gebruik wordt gemaakt;
+- e. *jaarsalaris:* het salaris gedurende het kalenderjaar waarin van dit besluit gebruik wordt gemaakt;
 
-- f. **plaats van tewerkstelling:** de gebruikelijke ingang van het gebouw, gebouwencomplex, terrein of vaartuig waar de betrokkene gewoonlijk zijn werkzaamheden verricht, dan wel, indien de uitoefening van het ambt zich uitstrekt over een ambtsgebied, de door de functionele autoriteit aangewezen plaats.
-
-##### Artikel 2
-
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2004.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+- f. *plaats van tewerkstelling:* de gebruikelijke ingang van het gebouw, gebouwencomplex, terrein of vaartuig waar de betrokkene gewoonlijk zijn werkzaamheden verricht, dan wel, indien de uitoefening van het ambt zich uitstrekt over een ambtsgebied, de door de functionele autoriteit aangewezen plaats.
 
 ##### Artikel 1a. Algemene bepalingen
 
@@ -116,7 +84,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. de vergoeding voor het verlagen van de jaarlijkse aanspraak op bovenwettelijke vakantie-uren, bedoeld in [artikel 33d van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=33d);
 
-- d. de vergoeding voor het verlagen van de aanspraak op vakantie-uren die vóór 1 januari 2016 is ontstaan als bedoeld in [artikel 33fa, eerste en tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=33fa);
+- d. de vergoeding voor het verlagen van de aanspraak op vakantie-uren die vóór 1 januari 2016 is ontstaan als bedoeld in [artikel 33fa, eerste en tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=33fa);
 
 - e. de vakantie-uitkering;
 
@@ -154,13 +122,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. de bedrijfsfitness vindt plaats:
 
-- 1°. in een vestiging van de functionele autoriteit of in een fitnesscentrum dat door de functionele autoriteit is aangewezen voor alle ambtenaren, met dien verstande dat, ingeval de functionele autoriteit voor bedrijfsfitness een overeenkomst sluit met één fitnessbedrijf dat meer dan één vestiging heeft, de bedrijfsfitness kan plaatsvinden in elke vestiging van dat fitnessbedrijf, of
+   - 1°. in een vestiging van de functionele autoriteit of in een fitnesscentrum dat door de functionele autoriteit is aangewezen voor alle ambtenaren, met dien verstande dat, ingeval de functionele autoriteit voor bedrijfsfitness een overeenkomst sluit met één fitnessbedrijf dat meer dan één vestiging heeft, de bedrijfsfitness kan plaatsvinden in elke vestiging van dat fitnessbedrijf, of
 
-- 2°. in een fitnesscentrum dat door de functionele autoriteit is aangewezen voor alle ambtenaren met dezelfde niet in de woning van een van deze rechtelijke ambtenaren gelegen plaats van tewerkstelling, met dien verstande dat, ingeval de functionele autoriteit met betrekking tot de rechtelijke ambtenaren op deze arbeidsplaats voor bedrijfsfitness een overeenkomst sluit met één fitnessbedrijf dat meer dan één vestiging heeft, de bedrijfsfitness kan plaatsvinden in elke vestiging van dat fitnessbedrijf.
+   - 2°. in een fitnesscentrum dat door de functionele autoriteit is aangewezen voor alle ambtenaren met dezelfde niet in de woning van een van deze rechtelijke ambtenaren gelegen plaats van tewerkstelling, met dien verstande dat, ingeval de functionele autoriteit met betrekking tot de rechtelijke ambtenaren op deze arbeidsplaats voor bedrijfsfitness een overeenkomst sluit met één fitnessbedrijf dat meer dan één vestiging heeft, de bedrijfsfitness kan plaatsvinden in elke vestiging van dat fitnessbedrijf.
 
 - c. onder bedrijfsfitness als bedoeld in de onderdelen a en b wordt verstaan: conditie- of krachttraining van rechtelijke ambtenaren welke plaatsvindt onder deskundig toezicht en welke georganiseerd of geïnitieerd wordt door de functionele autoriteit.
 
-2. De in [artikel 1d, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-05-30), bedoelde belastingvrije vergoeding voor de fiets, inclusief fietsaccessoires, bedraagt maximaal € 750,-. Voor de toepassing van dit lid gelden de volgende voorwaarden:
+2. De in [artikel 1d, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-05-30), bedoelde belastingvrije vergoeding voor de fiets, inclusief fietsaccessoires, bedraagt maximaal € 750,-. Voor de toepassing van dit lid gelden de volgende voorwaarden:
 
 - a. de rechterlijk ambtenaar maakt op meer dan de helft van het aantal dagen dat hij pleegt te reizen in het kader van woon-werkverkeer gebruik van de fiets;
 
@@ -178,7 +146,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. In afwijking van [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-05-30), betaalt de functionele autoriteit deze vergoeding automatisch uit en zet daartoe de eindejaarsuitkering, genoemd in artikel 1d, eerste lid, onderdeel f, en indien nodig het genoten salaris in de maand november in tot het maximum, bedoeld in artikel 1d, eerste lid, onder a.
 
-- b. Indien de rechterlijk ambtenaar geheel of gedeeltelijk afziet van de automatische vergoeding, bedoeld in het eerste lid, dan meldt hij dit, voor 1 november van het kalenderjaar waarin wordt overgegaan tot uitkering van deze belastingvrije bestemmingsmogelijkheid bij de functionele autoriteit. De melding wordt gedaan op een door de functionele autoriteit aan te geven wijze.
+- b. Indien de rechterlijk ambtenaar geheel of gedeeltelijk afziet van de automatische vergoeding, bedoeld in het eerste lid, dan meldt hij dit, voor 1 november van het kalenderjaar waarin wordt overgegaan tot uitkering van deze belastingvrije bestemmingsmogelijkheid bij de functionele autoriteit. De melding wordt gedaan op een door de functionele autoriteit aan te geven wijze.
 
 ##### Artikel 1f. Opschorting als gevolg van het niet verrichten van arbeid
 
@@ -218,4 +186,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 In geval van bijzondere omstandigheden waardoor een strikte toepassing van deze regeling besluit naar het oordeel van de functionele autoriteit in strijd zou zijn met de redelijkheid of de billijkheid, kan door de functionele autoriteit van dit besluit worden afgeweken.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 2
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2004.

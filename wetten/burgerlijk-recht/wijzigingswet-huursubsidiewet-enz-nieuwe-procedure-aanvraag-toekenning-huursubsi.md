@@ -1,44 +1,22 @@
 ---
 title: "Wet van 26 januari 2004 tot wijziging van de Huursubsidiewet en enkele andere wetten (introductie van een nieuwe procedure voor huurders die een aanvraag om toekenning van huursubsidie indienen)"
+citeertitel: "Wijzigingswet Huursubsidiewet, enz. (nieuwe procedure aanvraag toekenning huursubsidie)"
 identifier: "BWBR0016332"
-country: "nl"
-rank: "wet"
-publication_date: "2004-03-26"
-last_updated: "2004-03-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016332"
+categorie: "Overig"
 soort: "wet"
-stam_id: "5734313"
-version_id: "10247212"
-internal_id: "C14006891"
-label_id: "5714444"
-original_entry_into_force: "2004-03-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016332/2004-03-26/0"
-intitule_bron: "Stb.2004-61"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-01-26"
-intitule_published: "2004-02-24"
-intitule_in_force: "2004-03-25"
-intitule_status: "goed"
-original_publication: "Stb.2004-61"
-original_signed_date: "2004-01-26"
-original_published_date: "2004-02-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "28777"
-original_url_id: "stb-2004-61"
-entry_into_force_date: "2004-03-26"
-jci_1_3: "jci1.3:c:BWBR0016332&z=2004-03-26&g=2004-03-26"
-jci_1_0: "1.0:c:BWBR0016332&g=2004-03-26"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Huursubsidiewet, enz. (nieuwe procedure aanvraag toekenning huursubsidie)"
-signed_date: "2004-01-26"
-entry_into_force: "2004-03-26"
+publicatiedatum: 2004-03-26
+laatste_update: 2004-03-26
+status: geldig
+toestand: 2004-03-26
+bron: "https://wetten.overheid.nl/BWBR0016332"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 26 januari 2004 tot wijziging van de Huursubsidiewet en enkele andere wetten (introductie van een nieuwe procedure voor huurders die een aanvraag om toekenning van huursubsidie indienen)
 
 ##### Artikel I
 
-Wijzigt de Huursubsidiewet.
+*Wijzigt de Huursubsidiewet.*
 
 ##### Artikel II
 
@@ -76,24 +54,16 @@ Voor de periode van 1 juli 2002 tot het tijdstip van inwerkingtreding van de [Ui
 
 ##### Artikel VII
 
-Wijzigt de Uitvoeringswet huurprijzen woonruimte.
+*Wijzigt de Uitvoeringswet huurprijzen woonruimte.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet bevordering eigenwoningbezit.
+*Wijzigt de Wet bevordering eigenwoningbezit.*
 
 ##### Artikel IX
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel X
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. In het besluit kan worden bepaald dat de verschillende artikelen of onderdelen daarvan terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor die artikelen of onderdelen verschillend kan worden vastgesteld. In dat besluit wordt zonodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16).
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de Huursubsidiewet en enkele andere wetten te wijzigen teneinde aan huurders die een aanvraag om toekenning van huursubsidie indienen een huursubsidiebericht of een beperkt huursubsidiebericht te doen toekomen en enkele andere wijzigingen in die wetten aan te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

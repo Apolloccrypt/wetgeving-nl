@@ -1,105 +1,82 @@
 ---
 title: "Wet van 16 december 2004, houdende wijziging van enkele belastingwetten (Belastingplan 2005)"
+citeertitel: "Belastingplan 2005"
 identifier: "BWBR0017748"
-country: "nl"
-rank: "wet"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017748"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "6558263"
-version_id: "11359342"
-internal_id: "C15300501"
-label_id: "6547164"
-original_entry_into_force: "2004-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017748/2007-01-01/0"
-intitule_bron: "Stb.2004-653"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-16"
-intitule_published: "2004-12-23"
-intitule_in_force: "2004-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2004-653"
-original_signed_date: "2004-12-16"
-original_published_date: "2004-12-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "29767"
-original_url_id: "stb-2004-653"
-entry_into_force_date: "2004-12-31"
-entry_into_force_dossier: "29767"
-jci_1_3: "jci1.3:c:BWBR0017748&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0017748&g=2007-01-01"
-citeertitel_status: "officieel"
-short_title: "Belastingplan 2005"
-signed_date: "2004-12-16"
-entry_into_force: "2004-12-31"
+publicatiedatum: 2004-12-31
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0017748"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 16 december 2004, houdende wijziging van enkele belastingwetten (Belastingplan 2005)
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IIII
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet loonbelasting 1964.*
 
 ##### Artikel IVa
 
-Wijzigt de Wet loonbelasting 1964.
+*Wijzigt de Wet loonbelasting 1964.*
 
 ##### Artikel V
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel X
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel XII
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XIIIIa
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XV
 
@@ -111,47 +88,47 @@ Vervallen.
 
 ##### Artikel XVIa
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XVII
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel XIX
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XIXa
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XIXb
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XIXc
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XIXd
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Coördinatiewet Sociale Verzekering.*
 
 ##### Artikel XXI
 
-Wijzigt het Belastingplan 2004.
+*Wijzigt het Belastingplan 2004.*
 
 ##### Artikel XXII
 
-Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
+*Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.*
 
 ##### Artikel XXIII
 
@@ -159,7 +136,13 @@ Vervallen.
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+A
+
+[Artikel 11, eerste lid, onderdeel p, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11) zoals dit onderdeel luidde op 27 augustus 2004 vóór 17.00 uur, blijft van toepassing voor gevallen waarin het computers en bijbehorende apparatuur betreft die door de werknemer vóór het genoemde tijdstip in gebruik zijn genomen of ter zake waarvan door de werknemer nog vóór dat tijdstip een verplichting tot aanschaffing is aangegaan.
+
+B
+
+[Artikel 6, eerste lid, onderdeel y, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=6), zoals dit onderdeel luidde op 27 augustus 2004, vóór 17.00 uur, blijft van toepassing voor gevallen waarin het computers en bijbehorende apparatuur betreft die door de werknemer vóór het genoemde tijdstip in gebruik zijn genomen of ter zake waarvan door de werknemer nog vóór dat tijdstip een verplichting tot aanschaffing is aangegaan.
 
 ##### Artikel XXV
 
@@ -185,7 +168,7 @@ Tn voorstelt: de verschuldigde belasting over het belastbare bedrag of het belas
 
 ##### Artikel XXVII
 
-1. Voorafgaand aan de inwerkingtreding van [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIV&z=2007-01-01&g=2007-01-01) kunnen bij ministeriële regeling het aantal mg per km en het bedrag, genoemd in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIV&z=2007-01-01&g=2007-01-01), worden gewijzigd, indien daartoe aanleiding bestaat ingevolge door de Europese Commissie voor te stellen dan wel voorgestelde wijzigingen van de geldende Europese norm voor de emissie van deeltjes ten aanzien van personenauto's en bestelauto's die worden aangedreven door een motor met compressieontsteking, dan wel ingevolge de uitkomsten van de notificatieprocedure op grond van [richtlijn 98/34/EG](31998L0034) van het Europees Parlement en de Raad van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften (PbEG L 204).
+1. Voorafgaand aan de inwerkingtreding van [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIV&z=2007-01-01&g=2007-01-01) kunnen bij ministeriële regeling het aantal mg per km en het bedrag, genoemd in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIV&z=2007-01-01&g=2007-01-01), worden gewijzigd, indien daartoe aanleiding bestaat ingevolge door de Europese Commissie voor te stellen dan wel voorgestelde wijzigingen van de geldende Europese norm voor de emissie van deeltjes ten aanzien van personenauto's en bestelauto's die worden aangedreven door een motor met compressieontsteking, dan wel ingevolge de uitkomsten van de notificatieprocedure op grond van richtlijn 98/34/EG van het Europees Parlement en de Raad van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften (PbEG L 204).
 
 2. [Artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIV&z=2007-01-01&g=2007-01-01) vindt geen toepassing ten aanzien van personenauto's en bestelauto's die op het tijdstip van inwerkingtreding van dat artikel in gebruik waren genomen.
 
@@ -221,9 +204,13 @@ De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1
 
 ##### Artikel XXXI
 
+A
+
 Tot het loon in de zin van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) behoort niet een aandelenoptierecht ter zake waarvan vóór 1 januari 2005 reeds een bedrag als loon is genoten.
 
-Wijzigt deze wet.
+B
+
+*Wijzigt deze wet.*
 
 ##### Artikel XXXIa
 
@@ -245,7 +232,7 @@ Ingeval de samenloop van wetten die in 2004 in het Staatsblad zijn of worden gep
 
 ##### Artikel XXXIIa
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXXIII
 
@@ -274,13 +261,3 @@ Wijzigt deze wet.
 ##### Artikel XXXIV
 
 Deze wet wordt aangehaald als: Belastingplan 2005.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2005 wenselijk is maatregelen te treffen op het gebied van arbeidsmarkt- en inkomensbeleid, economische infrastructuur, mobiliteit en milieu, alsmede enkele overige maatregelen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking onder toepassing van artikel 16 van de Tijdelijke referendumwet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

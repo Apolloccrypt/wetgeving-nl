@@ -1,43 +1,17 @@
 ---
 title: "Klachtenregeling politietaken Koninklijke Marechaussee/krijgsmacht 2004"
 identifier: "BWBR0016667"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-10-01"
-last_updated: "2018-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016667"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5862233"
-version_id: "19960742"
-internal_id: "C28045491"
-label_id: "5842354"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016667/2018-10-01/0"
-intitule_bron: "Stcrt.2004-89"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-04-29"
-intitule_published: "2004-05-11"
-intitule_in_force: "2004-05-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-26854"
-original_signed_date: "2012-12-13"
-original_published_date: "2012-12-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2012-26854"
-entry_into_force_date: "2012-12-13"
-jci_1_3: "jci1.3:c:BWBR0016667&z=2018-10-01&g=2018-10-01"
-jci_1_0: "1.0:c:BWBR0016667&g=2018-10-01"
-citeertitel_status: "officieel"
-signed_date: "2012-12-13"
-entry_into_force: "2012-12-13"
+publicatiedatum: 2012-12-13
+laatste_update: 2018-10-01
+status: geldig
+toestand: 2018-10-01
+bron: "https://wetten.overheid.nl/BWBR0016667"
+opgehaald: 2026-08-08
 ---
+
 # Klachtenregeling politietaken Koninklijke Marechaussee/krijgsmacht 2004
-
-Gelet op [artikel 63, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=63);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -111,7 +85,7 @@ Indien een klacht in verband met het bepaalde in het [eerste of het tweede lid v
 
 3. Indien overleg of bemiddeling leidt tot een oplossing waarmee de klager tevreden is, wordt de klacht niet verder behandeld. De klager en degene op wiens gedraging de klacht betrekking heeft, worden schriftelijk geïnformeerd over de beëindiging van de klachtbehandeling.
 
-4. Vervallen.
+4. *Vervallen.*
 
 5. Bij de voortgezette behandeling van de klacht wordt recht gedaan aan het beginsel van hoor en wederhoor; de klager en degene op wiens gedraging de klacht betrekking heeft, worden geïnformeerd over elkaars standpunt en krijgen de gelegenheid daar op te reageren.
 
@@ -147,6 +121,10 @@ De beheerder draagt er zorg voor dat de in [artikel 12](https://wetten.overheid.
 
 2. De bevelhebber van de Koninklijke Marechaussee maakt geen gebruik van de machtiging, bedoeld in het eerste lid, onderdeel a, indien hij bij de gedraging waarop de klacht betrekking heeft rechtstreeks is betrokken.
 
+##### Artikel 14a
+
+Deze regeling berust op [artikel 69, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=69).
+
 ##### Artikel 15. Intrekking oude klachtenregeling
 
 De [regeling van de Minister van Defensie van 20 augustus 1997 (nr. C97/41197002059), houdende een klachtenregeling politietaken Koninklijke marechaussee/krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0008874) (Stcrt. 162), wordt ingetrokken.
@@ -158,11 +136,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Klachtenregeling politietaken Koninklijke Marechaussee/krijgsmacht 2004.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 14a
-
-Deze regeling berust op [artikel 69, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=69).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

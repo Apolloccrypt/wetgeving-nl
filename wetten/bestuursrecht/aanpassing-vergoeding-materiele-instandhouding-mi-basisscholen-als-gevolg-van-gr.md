@@ -1,36 +1,16 @@
 ---
 title: "Aanpassing vergoeding materiële instandhouding (MI) basisscholen als gevolg van groei (2004)"
 identifier: "BWBR0016276"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-01-28"
-last_updated: "2004-01-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016276"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6469223"
-version_id: "11146622"
-internal_id: "C15066161"
-label_id: "6457974"
-original_entry_into_force: "2004-01-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016276/2004-01-28/0"
-intitule_bron: "Uitleg.2004-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-01-12"
-intitule_published: "2004-01-28"
-intitule_in_force: "2004-01-28"
-intitule_status: "goed"
-original_publication: "Uitleg.2004-2"
-original_signed_date: "2004-01-12"
-original_published_date: "2004-01-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-01-28"
-jci_1_3: "jci1.3:c:BWBR0016276&z=2004-01-28&g=2004-01-28"
-jci_1_0: "1.0:c:BWBR0016276&g=2004-01-28"
-citeertitel_status: "redactioneel"
-signed_date: "2004-01-12"
-entry_into_force: "2004-01-28"
+publicatiedatum: 2004-01-28
+laatste_update: 2004-01-28
+status: geldig
+toestand: 2004-01-28
+bron: "https://wetten.overheid.nl/BWBR0016276"
+opgehaald: 2026-08-08
 ---
+
 # Aanpassing vergoeding materiële instandhouding (MI) basisscholen als gevolg van groei (2004)
 
 ### 1. Inleiding
@@ -39,7 +19,7 @@ De vergoeding materiële instandhouding (MI) voor het kalenderjaar 2004 wordt be
 
 Het telformulier is ten opzichte van het voorgaande schooljaar niet veranderd en is vastgesteld in het Gele Katern nummer 2/3 van 5 februari 2003 (kenmerk: CFI/GEG 2003/19283N).
 
-Met ingang van schooljaar 2002 - 2003 is de groeidrempel voor de 1 maart-telling verlaagd. De berekeningswijze om te beoordelen of uw school voldoet aan de groeidrempel is hieronder in paragraaf 3.1 opgenomen.
+Met ingang van schooljaar 2002 - 2003 is de groeidrempel voor de 1 maart-telling verlaagd. De berekeningswijze om te beoordelen of uw school voldoet aan de groeidrempel is hieronder in [paragraaf 3.1](https://wetten.overheid.nl/BWBR0016276) opgenomen.
 
 ### 2. Doelgroep
 
@@ -53,13 +33,18 @@ Hieronder wordt de procedure geschetst die leidt tot een hernieuwde vaststelling
 
 Een school heeft recht op toekenning van extra vergoeding voor de materiële instandhouding als het aantal leerlingen op 1 maart 2004 met tenminste 13 leerlingen is toegenomen ten opzichte van het aantal leerlingen op 1 oktober 2003 verhoogd met 3 procent, welk getal naar beneden wordt afgerond op een heel getal. Dit betekent, dat een school die op 1 oktober 2003 een leerlingenaantal van 250 had, in aanmerking komt voor extra vergoeding op het moment dat de school op 1 maart 2004 (250 x 1,03 + 13 = 270,5 =) 270 leerlingen of meer telt.
 
-Voor de telling van 1 maart 2004 moet gebruik gemaakt worden van het formulier CFI 53215 (zie paragraaf 4.2).
+Voor de telling van 1 maart 2004 moet gebruik gemaakt worden van het formulier CFI 53215 (zie [paragraaf 4.2](https://wetten.overheid.nl/BWBR0016276)).
 
 Als een school bestaat uit een hoofdvestiging en één of meer nevenvestigingen, dan moet voor elke vestiging afzonderlijk een telformulier worden ingediend. Dus ook voor vestigingen waar geen groei heeft plaatsgevonden.
 
 Het verdient aanbeveling om na invulling van de telgegevens het formulier op juistheid en volledigheid te controleren. Het komt voor dat basisgegevens en totalen niet met elkaar overeenkomen.
 
 Om voor een tijdige aanpassing van de vergoeding in aanmerking te komen moet het telformulier vóór 15 maart 2004 worden ingediend. De datum van de poststempel is hierbij doorslaggevend. Het formulier moet ondertekend worden door het bevoegd gezag en gestuurd worden naar:
+
+- Cfi
+ Unit Gegevens
+ Postbus 606
+ 2700 ML Zoetermeer.
 
 De ontvangst van het formulier wordt binnen een week bevestigd.
 
@@ -73,7 +58,7 @@ Vóór 1 mei 2004 wordt de vergoeding nader vastgesteld. De aangepaste vergoedin
 
 ### 3.3. Overzicht Geregistreerde Telgegevens
 
-De door de school verstrekte telgegevens worden in de maand maart 2004 verwerkt en vervolgens op het Overzicht Geregistreerde Telgegevens aan het bevoegd gezag teruggemeld. Dit overzicht zal, bij tijdige indiening van het telformulier, **uiterlijk op 7 april 2004** door Cfi worden verzonden. U dient dit formulier goed te bewaren in uw schooladministratie. Het formulier maakt deel uit van de jaarlijkse controle door de instellingsaccountant en de departementale accountant.
+De door de school verstrekte telgegevens worden in de maand maart 2004 verwerkt en vervolgens op het Overzicht Geregistreerde Telgegevens aan het bevoegd gezag teruggemeld. Dit overzicht zal, bij tijdige indiening van het telformulier, *uiterlijk op 7 april 2004* door Cfi worden verzonden. U dient dit formulier goed te bewaren in uw schooladministratie. Het formulier maakt deel uit van de jaarlijkse controle door de instellingsaccountant en de departementale accountant.
 
 ### 3.4. Correcties
 
@@ -95,4 +80,8 @@ De MI-vergoeding t.b.v. NOAT wordt niet naar aanleiding van groei aangepast. Bet
 
 Het formulier dat voor de 1 maart-telling 2004 moet worden gebruikt heeft het formuliernummer CFI 53215 en is, door middel van een plaketiket, aan te vragen bij:
 
-Daarnaast bestaat de mogelijkheid om dit formulier van Internet te downloaden en uit te printen vanaf uw eigen computer. Ga hiervoor naar **www.cfi.nl** en klik vervolgens op de sector ”PO” en daarna op ”Formulieren en brochures”. In het menu ”formulieren” beweegt u met de muis naar beneden en kunt u het formulier voor de 1 maart-telling aanklikken.
+- Cfi
+ Postbus 606
+ 2700 ML Zoetermeer.
+
+Daarnaast bestaat de mogelijkheid om dit formulier van Internet te downloaden en uit te printen vanaf uw eigen computer. Ga hiervoor naar *www.cfi.nl* en klik vervolgens op de sector ”PO” en daarna op ”Formulieren en brochures”. In het menu ”formulieren” beweegt u met de muis naar beneden en kunt u het formulier voor de 1 maart-telling aanklikken.

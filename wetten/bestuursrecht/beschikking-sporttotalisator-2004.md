@@ -1,53 +1,18 @@
 ---
 title: "Beschikking van de Minister van Justitie en de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 december 2004, nr. L.O. 640/0073/0452482, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, de lotto en het cijferspel"
+citeertitel: "Beschikking Sporttotalisator 2004"
 identifier: "BWBR0017669"
-country: "nl"
-rank: "zbo"
-publication_date: "2005-01-01"
-last_updated: "2005-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017669"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "6658623"
-version_id: "11491932"
-internal_id: "C15553971"
-label_id: "6647154"
-original_entry_into_force: "2004-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017669/2005-01-01/0"
-intitule_bron: "Stcrt.2005-14"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-10"
-intitule_published: "2005-01-20"
-intitule_in_force: "2005-01-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-14"
-original_signed_date: "2004-12-10"
-original_published_date: "2005-01-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-14-p13-SC68599"
-entry_into_force_date: "2004-12-12"
-jci_1_3: "jci1.3:c:BWBR0017669&z=2005-01-01&g=2005-01-01"
-jci_1_0: "1.0:c:BWBR0017669&g=2005-01-01"
-citeertitel_status: "officieel"
-short_title: "Beschikking Sporttotalisator 2004"
-signed_date: "2004-12-10"
-entry_into_force: "2004-12-12"
+publicatiedatum: 2004-12-12
+laatste_update: 2005-01-01
+status: geldig
+toestand: 2005-01-01
+bron: "https://wetten.overheid.nl/BWBR0017669"
+opgehaald: 2026-08-08
 ---
+
 # Beschikking van de Minister van Justitie en de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 december 2004, nr. L.O. 640/0073/0452482, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, de lotto en het cijferspel
-
-Overwegende dat de geldigheidsduur van de Beschikking Sporttotalisator op 12 december 2004 verstrijkt;
-
-Overwegende dat de Stichting de Nationale Sporttotalisator, gevestigd te Rijswijk, om die reden bij brief van 16 september 2004 heeft gevraagd haar opnieuw vergunning te verlenen voor het organiseren van sportprijsvragen, de lotto en het cijferspel;
-
-Overwegende dat de Minister van Justitie en de Staatssecretaris van Volksgezondheid, Welzijn en Sport hebben besloten dit verzoek in te willigen en de Stichting de Nationale Sporttotalisator opnieuw vergunning te verlenen voor het organiseren van sportprijsvragen, de lotto en het cijferspel voor de duur van vijf jaar;
-
-Overwegende dat in de te verlenen vergunning, mede als gevolg van het [besluit van 22 juli 2004 tot wijziging van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017064) in verband met de wijziging van de afdrachtpercentages, tevens een voorziening is opgenomen in verband met de invoering van een afdrachtpercentage voor de lotto en het cijferspel per 1 januari 2005;
-
-Gezien de adviezen van het College van toezicht op de kansspelen van respectievelijk 26 augustus 2004 (C.638/02) en 25 november 2004 (C.873/04);
-
-Besluiten:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -219,4 +184,4 @@ Deze beschikking wordt aangehaald als: Beschikking Sporttotalisator 2004.
 
 ##### Overgangsbepalingen
 
-Wijzigt deze regeling.
+*Wijzigt deze regeling.*

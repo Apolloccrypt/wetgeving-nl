@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0041469"
-opgehaald: 2026-08-07
+opgehaald: 2026-08-08
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 10 oktober 2018, nr. MBO/1355636, in verband met subsidieverstrekking aan de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven (Regeling subsidieverstrekking SBB)

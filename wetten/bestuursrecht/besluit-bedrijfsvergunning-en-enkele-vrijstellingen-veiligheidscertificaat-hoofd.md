@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 3 december 2004, houdende nadere regels over de bedrijfsvergunning en het veiligheidsattest voor spoorwegondernemingen die gebruikmaken van hoofdspoorwegen (Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen)"
+citeertitel: "Besluit bedrijfsvergunning en enkele vrijstellingen veiligheidscertificaat hoofdspoorwegen"
 identifier: "BWBR0017623"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-06-16"
-last_updated: "2019-06-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017623"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "6476033"
-version_id: "11154752"
-internal_id: "C15375591"
-label_id: "6464934"
-original_entry_into_force: "2005-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017623/2019-06-16/0"
-intitule_bron: "Stb.2004-661"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-03"
-intitule_published: "2004-12-21"
-intitule_in_force: "2004-12-30"
-intitule_status: "goed"
-original_publication: "Stb.2004-661"
-original_signed_date: "2004-12-03"
-original_published_date: "2004-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2004-661"
-entry_into_force_date: "2005-01-01"
-jci_1_3: "jci1.3:c:BWBR0017623&z=2019-06-16&g=2019-06-16"
-jci_1_0: "1.0:c:BWBR0017623&g=2019-06-16"
-citeertitel_status: "officieel"
-short_title: "Besluit bedrijfsvergunning en enkele vrijstellingen veiligheidscertificaat hoofdspoorwegen"
-signed_date: "2004-12-03"
-entry_into_force: "2005-01-01"
+publicatiedatum: 2005-01-01
+laatste_update: 2019-06-16
+status: geldig
+toestand: 2019-06-16
+bron: "https://wetten.overheid.nl/BWBR0017623"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 3 december 2004, houdende nadere regels over de bedrijfsvergunning en het veiligheidsattest voor spoorwegondernemingen die gebruikmaken van hoofdspoorwegen (Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen)
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 16 september 2003, nr. HDJZ/S&W/2003-1879, Hoofddirectie Juridische Zaken;
-
-Gelet op [richtlijn nr. 95/18/EG](31995L0018) van de Raad van de Europese Unie van 19 juni 1995 betreffende de verlening van vergunningen aan spoorwegondernemingen (PbEG L 143), artikel 32 van [richtlijn nr. 2001/14/EG](32001L0014) van het Europees Parlement en de Raad van de Europese Unie van 26 februari 2001 inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (PbEG L 75) en de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=28), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=31), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=35) en [55, tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=55);
-
-De Raad van State gehoord (advies van 19 december 2003, nr. W09.03.0391/V);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 29 november 2004, nr. HDJZ/S&W/2004-2883, Hoofddirectie Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -71,13 +40,13 @@ Een spoorwegonderneming bezit een goede naam als bedoeld in [artikel 28, eerste 
 
 - b. zij in de voorafgaande vijf jaar, al dan niet met toepassing van [artikel 51 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51), niet onherroepelijk is veroordeeld wegens het herhaaldelijk of ernstig overtreden van:
 
-- 1°. het bepaalde bij of krachtens [artikel 4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3), [5:15, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:15), of [8:3 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=8:3),
+   - 1°. het bepaalde bij of krachtens [artikel 4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3), [5:15, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:15), of [8:3 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=8:3),
 
-- 2°. [artikel 32 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=32),
+   - 2°. [artikel 32 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=32),
 
-- 3°. de [artikelen 1:11](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:11), [1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23), [1:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:27), [1:32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:32), [10:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:1), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:2), [10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:3), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:4), [10:5, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:5), of [10:9 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:9),
+   - 3°. de [artikelen 1:11](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:11), [1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23), [1:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:27), [1:32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:32), [10:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:1), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:2), [10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:3), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:4), [10:5, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:5), of [10:9 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:9),
 
-- 4°. de artikelen 15, eerste lid, en 189, tweede lid, van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269), en
+   - 4°. de artikelen 15, eerste lid, en 189, tweede lid, van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269), en
 
 - c. tegen haar in de voorafgaande vijf jaar geen onherroepelijk vonnis is gewezen wegens het herhaaldelijk of ernstig niet nakomen van verplichtingen die voortvloeien uit door haar gesloten arbeidsovereenkomsten of overeenkomsten van opdracht tot het verrichten van arbeid.
 
@@ -149,7 +118,7 @@ Een aanvraag tot verlening van een bedrijfsvergunning bevat met het oog op het v
 
 ##### Artikel 10
 
-Een aanvraag tot verlening van een bedrijfsvergunning bevat met het oog op het vereiste van financiële draagkracht de laatste jaarrekening of jaarbalans van de aanvrager alsmede de informatie, bedoeld in bijlage III van [richtlijn 2012/34](32012L0034)/EU.
+Een aanvraag tot verlening van een bedrijfsvergunning bevat met het oog op het vereiste van financiële draagkracht de laatste jaarrekening of jaarbalans van de aanvrager alsmede de informatie, bedoeld in bijlage III van richtlijn 2012/34/EU.
 
 ##### Artikel 11
 
@@ -191,55 +160,15 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van d
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
-
-##### Artikel 17
-
-Vervallen
-
-##### Artikel 18
-
-Vervallen
-
-##### Artikel 19
-
-Vervallen
-
-### Hoofdstuk 4. Overgangs- en slotbepalingen
-
-##### Artikel 20
-
-Vervallen
-
-##### Artikel 21
-
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-##### Artikel 22
-
-Dit besluit wordt aangehaald als: Besluit bedrijfsvergunning en enkele vrijstellingen veiligheidscertificaat hoofdspoorwegen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+*Vervallen*
 
 ##### Artikel 16a
 
-Vervallen
-
-##### Artikel 17a
-
-Vervallen
-
-##### Artikel 19a
-
-Vervallen
-
-### Hoofdstuk 4. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+*Vervallen*
 
 ##### Artikel 16b
 
@@ -255,16 +184,46 @@ Vrijgesteld van de verplichting te beschikken over een veiligheidscertificaat al
 
 ##### Artikel 16c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16d
 
-Vervallen
+*Vervallen*
+
+##### Artikel 17
+
+*Vervallen*
+
+##### Artikel 17a
+
+*Vervallen*
+
+##### Artikel 18
+
+*Vervallen*
+
+##### Artikel 19
+
+*Vervallen*
+
+##### Artikel 19a
+
+*Vervallen*
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
+##### Artikel 20
+
+*Vervallen*
+
 ##### Artikel 20a
 
-Vervallen
+*Vervallen*
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 21
+
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+##### Artikel 22
+
+Dit besluit wordt aangehaald als: Besluit bedrijfsvergunning en enkele vrijstellingen veiligheidscertificaat hoofdspoorwegen.

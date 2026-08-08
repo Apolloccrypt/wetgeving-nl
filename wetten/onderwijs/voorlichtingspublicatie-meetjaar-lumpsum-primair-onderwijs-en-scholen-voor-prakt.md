@@ -1,45 +1,39 @@
 ---
 title: "Voorlichtingspublicatie meetjaar lumpsum primair onderwijs en scholen voor praktijkonderwijs met declaratiebekostiging"
 identifier: "BWBR0016601"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-04-28"
-last_updated: "2004-04-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016601"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "6463403"
-version_id: "11139572"
-internal_id: "C15058171"
-label_id: "6452404"
-original_entry_into_force: "2004-04-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016601/2004-04-28/0"
-intitule_bron: "Uitleg.2004-8a"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-04-12"
-intitule_published: "2004-04-28"
-intitule_in_force: "2004-04-28"
-intitule_status: "goed"
-original_publication: "Uitleg.2004-8a"
-original_signed_date: "2004-04-12"
-original_published_date: "2004-04-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-04-28"
-jci_1_3: "jci1.3:c:BWBR0016601&z=2004-04-28&g=2004-04-28"
-jci_1_0: "1.0:c:BWBR0016601&g=2004-04-28"
-citeertitel_status: "redactioneel"
-signed_date: "2004-04-12"
-entry_into_force: "2004-04-28"
+publicatiedatum: 2004-04-28
+laatste_update: 2004-04-28
+status: geldig
+toestand: 2004-04-28
+bron: "https://wetten.overheid.nl/BWBR0016601"
+opgehaald: 2026-08-08
 ---
+
 # Voorlichtingspublicatie meetjaar lumpsum primair onderwijs en scholen voor praktijkonderwijs met declaratiebekostiging
 
 ### Inleiding
 
 Deze voorlichtingspublicatie is bedoeld voor:
 
+- alle scholen, schoolbesturen met scholen voor primair onderwijs (WPO en WEC), inclusief de instellingen voor visueel gehandicapten en de scholen vallend onder het besluit trekkende bevolking;
+
+- scholen voor praktijkonderwijs met declaratiebekostiging;
+
+- Administratiekantoren
+
 De voorlichtingspublicatie geldt niet voor scholen/ schoolbesturen die deelnemen aan pilot 1 van de pilot lumpsum.
 
 In deze publicatie wordt u geïnformeerd over de uitwerking van het meetjaar dat nodig is om lumpsumfinanciering in het primair onderwijs op 1 augustus 2006 te kunnen invoeren en de overgang naar lumpsum soepel te laten verlopen. In deze publicatie wordt ingegaan op een aantal nieuwe onderwerpen als het lumpsumbedrag, de gewogen gemiddelde leeftijd, overgangsregeling, en herverdeeleffecten. Uitleg over deze onderwerpen en de informatie over het meetjaar kunt u vinden:
+
+- in de toelichting bij deze publicatie;
+
+- in de themabrochure Bekostiging en meetjaar lumpsum die in mei 2004 verschijnt;
+
+- op de website www.lumpsumpo.nl die begin schooljaar 2004-2005 operationeel zal zijn;
+
+- bij de organisaties voor bestuur en management, waaronder uw besturenorganisatie.
 
 Het meetjaar is aangekondigd in de uitwerkingsnotitie Lumpsumfinanciering (Kamerstukken 2003-04, 29 399 nr. 1) die in februari in de Tweede Kamer is behandeld. Deze voorlichtingspublicatie gaat vooraf aan het wetsvoorstel dat de invoering van lumpsumfinanciering in het primair onderwijs mogelijk maakt en waarmee het meetjaar wettelijk wordt verankerd.
 
@@ -51,6 +45,12 @@ Op 1 augustus 2006 wordt lumpsumfinanciering ingevoerd in het primair onderwijs.
 
 Het meetjaar is niet vrijblijvend, maar noodzakelijk voor de invoering van lumpsum. Het meetjaar wordt ingericht om:
 
+- 1. per schoolsoort de basisprijzen per leerling vast te stellen
+
+- 2. de herverdeeleffecten per school te bepalen op basis waarvan per bestuur de overgangsregeling kan worden vastgesteld.
+
+- 3. De meetjaargegevens zijn ook de basis voor het onderhoud van het bekostigingsstelsel de komende jaren.
+
 Daarnaast worden de meetjaargegevens gebruikt voor de afzonderlijke overgangsregeling voor scholen voor praktijkonderwijs met declaratiebekostiging die tegelijkertijd overgaan op de lumpsumbekostiging VO.
 
 ### Wat gebeurt er in het meetjaar?
@@ -59,9 +59,17 @@ In het meetjaar worden per school het fre-verbruik, de daarbijbehorende loonkost
 
 ### Richtlijnen voor scholen en schoolbesturen
 
+- 1. Om het meetjaar zuiver te starten kunnen mutaties met betrekking tot het schooljaar 2003 - 2004 tot uiterlijk 10 december 2004 in het geautomatiseerde salarissysteem worden aangebracht.
+
+- 2. Om het meetjaar tijdig te kunnen afsluiten kunnen mutaties met betrekking tot het meetjaar (het schooljaar 2004 - 2005) tot uiterlijk 10 oktober 2005 in het geautomatiseerde salarissysteem worden aangebracht.
+
+- 3. De genoemde data zijn de sluitingsdata van het geautomatiseerde salarissysteem. Geef uw personeelsmutaties tijdig aan uw administratiekantoor door, zodat zij voldoende tijd hebben de mutaties in het geautomatiseerde salarissysteem te verwerken.
+
+- 4. Let op uw fre-verbruik. Als u maandelijks ongeveer evenveel fre’s verbruikt als u krijgt toegekend behoeft u aan het einde van het meetjaar weinig correcties door te voeren. Dit maakt de afronding van het meetjaar eenvoudiger.
+
 ### Doelgroep meetjaar
 
-Het meetjaar geldt voor alle scholen die op 1 augustus 2004 vallen onder de [WEC](onbekend), inclusief de instellingen voor visueel gehandicapten en de [WPO](onbekend) inclusief de scholen vallend onder de [wet trekkende bevolking](onbekend).
+Het meetjaar geldt voor alle scholen die op 1 augustus 2004 vallen onder de WEC, inclusief de instellingen voor visueel gehandicapten en de WPO inclusief de scholen vallend onder de wet trekkende bevolking.
 
 Tevens geldt het meetjaar voor scholen voor praktijkonderwijs uit het voortgezet onderwijs die in 2004 - 2005 bekostigd worden via het declaratiestelsel. Voor deze scholen voor praktijkonderwijs doen zich in het meetjaar enkele verschillen ten opzichte van de overige instellingen waarvoor deze voorlichtingspublicatie geldt. Deze verschillen zijn bij de betreffende onderdelen nader toegelicht. Scholen die per 1 augustus 2005 starten doen niet mee aan het meetjaar. Zij kunnen geen aanspraak maken op de overgangsregeling.
 
@@ -69,7 +77,27 @@ Tevens geldt het meetjaar voor scholen voor praktijkonderwijs uit het voortgezet
 
 In het meetjaar worden per school de volgende gegevens verzameld:
 
+- 1. het totale fre-verbruik over het schooljaar 2004 - 2005
+
+- 2. de met dit fre-verbruik samenhangende bij het Rijk gedeclareerde netto loonkosten
+
+- 3. de gewogen gemiddelde leeftijd op 1 oktober 2003
+
+- 4. de gewogen gemiddelde leeftijd op 1 oktober 2004 (De GGL 2004 is niet noodzakelijk voor de berekening van de lumpsumbekostiging voor het schooljaar 2006 - 2007. De GGL 2004 is voor de besturen wel belangrijk om het fictieve lumpsumbudget te berekenen in het schooljaar 2005 - 2006).
+
 Naast de gegevens die OCW van de besturen vraagt, zijn voor de berekening van het lumpsumbudget gegevens nodig die OCW in de eigen bestanden beschikbaar heeft:
+
+- per school het totale verstrekte verzilveringsbudget over het schooljaar 2004 - 2005
+
+- per school de totale hoeveelheid verzilverde formatierekeneenheden over het schooljaar 2004 - 2005
+
+- per school de totale hoeveelheid toegekende formatierekeneenheden voor het schooljaar 2004 - 2005 (regulier en aanvullend: aanvullende formatie, groei, LGF, formatiegarantie etc.)
+
+- de per school overgedragen fre’s in 2004 - 2005
+
+- de per school door overdracht ontvangen fre’s in 2004 - 2005
+
+- per school de leerlingtellingen van 1 oktober 2003 of indien het een school betreft in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en gebruik heeft gemaakt van [artikel 9 van het Formatiebesluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0005442&artikel=9), 16 januari 2004
 
 De gewogen gemiddelde leeftijd zal niet worden gemeten voor de scholen voor praktijkonderwijs. Op het moment dat de scholen voor praktijkonderwijs overgaan op de lumpsumbekostiging VO is de bekostiging naar verwachting vereenvoudigd; de vereenvoudiging hangt af van goedkeuring door Tweede en Eerste Kamer. Een van die vereenvoudigingen is de afschaffing van de leeftijdscorrectie. Dit betekent dat de gewogen gemiddelde leeftijd geen rol meer zal spelen bij de vaststelling van de jaarlijkse lumpsumbekostiging voor scholen voor praktijkonderwijs en overige VO-scholen.
 
@@ -89,7 +117,7 @@ Onder declaratiebekostiging ontvangen de scholen in maart van elk jaar een voorl
 
 De gegevens van het meetjaar moeten zuiver zijn. Het meetjaar moet inzicht geven in de inzet van de fre’s en de daarbij behorende loonkosten op het schooljaar 2004-2005. Voorkomen moet worden dat gegevens van andere schooljaren de meetjaargegevens vervuilen. Het is daarom belangrijk dat scholen de mutaties in het personeelsbestand zo spoedig mogelijk aan hun administratiekantoren doorgeven, zodat zij de mutaties in het salarissysteem kunnen doorvoeren.
 
-Dit betekent dat mutaties met betrekking tot het schooljaar 2003 - 2004 **uiterlijk tot 10 december 2004** door de administratiekantoren verwerkt worden. Mutaties met betrekking tot het meetjaar 2004 - 2005 kan een administratiekantoor **uiterlijk tot 10 oktober 2005** verwerken.
+Dit betekent dat mutaties met betrekking tot het schooljaar 2003 - 2004 *uiterlijk tot 10 december 2004* door de administratiekantoren verwerkt worden. Mutaties met betrekking tot het meetjaar 2004 - 2005 kan een administratiekantoor *uiterlijk tot 10 oktober 2005* verwerken.
 
 NB.
 
@@ -99,15 +127,31 @@ De genoemde data zijn de uiterlijke data waarop de administratiekantoren hun mut
 
 OCW heeft Pinkroccade gevraagd het geautomatiseerde salarissysteem aan te passen zodat de benodigde gegevens voor het meetjaar daaruit op een eenvoudige wijze verkregen kunnen worden. Er is een extra module aan het salarissysteem toegevoegd, zodat de meetjaargegevens op schooljaarbasis beschikbaar komen. De aanpassing van het geautomatiseerde salarissysteem zorgt ervoor dat de administratieve last van het meetjaar voor de besturen beperkt blijft.
 
-Indien een schoolbestuur het niet eens is met de gegevenslevering door PinkRoccade dient het schoolbestuur Cfi daarvan voorafgaand aan de start van het meetjaar, dat is **uiterlijk op 31 juli 2004** schriftelijk in kennis te stellen. Deze schriftelijke kennisgeving kan worden ingediend bij:
+Indien een schoolbestuur het niet eens is met de gegevenslevering door PinkRoccade dient het schoolbestuur Cfi daarvan voorafgaand aan de start van het meetjaar, dat is *uiterlijk op 31 juli 2004* schriftelijk in kennis te stellen. Deze schriftelijke kennisgeving kan worden ingediend bij:
 
-Een schoolbestuur dat het niet eens is met de gegevenslevering door PinkRoccade is zelf verantwoordelijk voor een tijdige en gevalideerde levering van de benodigde bekostigingsgegevens. Het schoolbestuur levert de gege-vens voorzien van een accountantsverklaring **uiterlijk op 1 oktober 2005** aan bij Cfi (o.v.v. meetjaar lumpsum PO). Indien geen gebruik gemaakt wordt van de levering door PinkRoccade zal het schoolbestuur apart ingelicht worden over de wijze van aanlevering van de meetjaargegevens. Dit geldt ook voor de besturen die geen gebruik maken van het geautomatiseerde salarissysteem van PinkRoccade.
+- Cfi, t.a.v. BPO/PKI, Postbus 606, 2700 ML Zoetermeer en dient de volgende gegevens te bevatten:
+
+   - Naam van de school;
+
+   - het BRIN-nummer van de school;
+
+   - NAW-gegevens.
+
+Een schoolbestuur dat het niet eens is met de gegevenslevering door PinkRoccade is zelf verantwoordelijk voor een tijdige en gevalideerde levering van de benodigde bekostigingsgegevens. Het schoolbestuur levert de gege-vens voorzien van een accountantsverklaring *uiterlijk op 1 oktober 2005* aan bij Cfi (o.v.v. meetjaar lumpsum PO). Indien geen gebruik gemaakt wordt van de levering door PinkRoccade zal het schoolbestuur apart ingelicht worden over de wijze van aanlevering van de meetjaargegevens. Dit geldt ook voor de besturen die geen gebruik maken van het geautomatiseerde salarissysteem van PinkRoccade.
 
 ### Hoe worden de meetjaargegevens aan besturen en administratiekantoren geleverd?
 
 De GGL 2003 en 2004 en onderliggende gegevens als de leeftijd en de betrekkingsomvang van de leerkrachten zijn vanaf december 2004 voor administratiekantoren raadpleegbaar op de website van Pinkroccade. Besturen kunnen deze gegevens opvragen bij hun administratiekantoor. Hiermee wordt inzichtelijk gemaakt hoe tot de berekening van de GGL 2003 en 2004 wordt gekomen.
 
 Het fre-verbruik en de loonkosten worden in oktober 2005 per CD-rom aan de administratiekantoren beschikbaar gesteld, zodat inzicht wordt verkregen in de gegevens die zijn geleverd aan OCW. De administratiekantoren zijn verantwoordelijk voor de verspreiding van de gegevens onder de bij hun kantoor aangesloten besturen.
+
+- 1. overzicht berekeningsresultaten per werkgever; per instelling; per stamnummer; per dienstverhouding; per subdienstverhouding;
+
+- 2. overzicht berekeningsresultaten per werkgever; per instelling
+
+- 3. overzicht berekeningsresultaten per werkgever;
+
+- 4. het overzicht fre-omvang en fre-verbruik dat tot op heden op papier verschijnt wordt ook op de CD-rom opgenomen.
 
 Per schoolbestuur waarvoor een overzicht berekeningsresultaten lumpsum wordt aangemaakt wordt een toelichting bij de overzichten opgesteld zoals dit ook gebruikelijk is bij het huidige overzicht fre-omvang en fre-verbruik.
 
@@ -120,6 +164,16 @@ Om er voor te zorgen dat de meetjaargegevens de kwaliteit bieden die nodig is vo
 ### Correctie bij hoger fre-verbruik dan is toegestaan
 
 Indien na ontvangst van de meetjaargegevens per school geconstateerd wordt dat sprake is van een hoger fre-verbruik dan is toegestaan, worden de geleverde meetjaargegevens gecorrigeerd. De volgende correctie wordt toegepast:
+
+- Bepaal de hoeveelheid declarabele fre’s: toegekende fre’s + (het saldo van de overdrachten -/- het aantal verzilverde fre’s).
+
+- Bepaal het aantal verbruikte fre’s: declaratiecode 1 en de fre’s behorend bij betaald ouderschapsverlof.
+
+- Bepaal de feitelijk gerealiseerde fre-prijs: gedeclareerde loonkosten / de verbruikte fre’s
+
+- Bepaal het te veel aan loonkosten: feitelijk gerealiseerde fre-prijs x teveel verbruikte aantal fre’s
+
+- Breng het te veel aan loonkosten in mindering op de totaal gedeclareerde loonkosten.
 
 Nadat deze acties zijn uitgevoerd zijn, is bekend wat de toegestane gedeclareerde loonkosten 2004-2005 zijn. Dit gegeven dient als uitgangspunt voor de berekening van de lumpsumbedragen en de overgangsregeling.
 
@@ -137,6 +191,12 @@ De accountantsverklaring voor de aanvraag rijksvergoeding 2004, welke uiterlijk 
 
 Indien de GGL 2004 gecorrigeerd moet worden dan levert de accountant samen met de AVR 2004 de gecorrigeerde GGL van 1 oktober 2004 aan. Zij leveren dan via een apart formulier de volgende gegevens aan:
 
+- gecorrigeerde GGL per school,
+
+- som betrekkingsomvang per school en
+
+- som product leeftijd & betrekkingsomvang per school.
+
 Nadere aanwijzingen met betrekking tot deze verschillende gegevens worden gegeven in de brochures AVR en Controleprotocol.
 
 ### Fre-verbruik en loonkosten
@@ -152,6 +212,30 @@ Op basis van het correctiebedrag zal wel opnieuw het afwijkingspercentage per be
 Het ministerie investeert in het verkrijgen van juiste meet-jaargegevens door gedurende het schooljaar 2004 - 2005 voorlichting te geven over declaratiegedrag, overzichten aan te passen zodat inzicht wordt verkregen in de loonkosten per schooljaar en een correctie toe te passen indien na aanlevering van de meetjaargegevens een hoger fre-verbruik wordt geconstateerd. Indien uit de accountantscontrole voor de AVR 2005 alsnog blijkt dat de gedeclareerde loonkosten gecorrigeerd moeten worden zal naast een correctie van het herverdeeleffect het bestaande sanctiebeleid worden toegepast.
 
 ### Kalender meetjaar
+
+- 1 augustus 2004: start meetjaar, onderzoek naar declaratiegedrag in meetjaar en voorlichting
+
+- 1 augustus 2004: uiterste inzenddatum bezwaar tegen levering van meetjaargegevens door PinkRoccade.
+
+- 1 december 2004: levering gewogen gemiddelde leeftijd 1 oktober 2003 en 1 oktober 2004
+
+- 10 december 2004: uiterste invoerdatum mutaties schooljaar 2003 - 2004 door administratiekantoren.
+
+- 1 juli 2005: uiterlijke inzenddatum correcties gewogen gemiddelde leeftijd 1 oktober 2004 naar aanleiding van accountantscontrole (alleen nodig voor nieuwe scholen)
+
+- 1 oktober 2005: uiterste datum levering meetjaargegevens, indien bezwaar tegen levering van meetjaargegevens door PinkRoccade.
+
+- 10 oktober 2005: uiterste invoerdatum mutaties schooljaar 2004-2005 door administratiekantoren
+
+- 1 november 2005: uiterste datum levering meetjaargegevens door PinkRoccade
+
+- Medio januari 2006: publicatie lumpsumbedragen
+
+- 1 maart 2006: 1e voorlopige beschikking lumpsum 2006 - 2007, inclusief effect overgangsregeling, gebruikte meetjaargegevens, herverdeeleffect.
+
+- 1 juli 2006: Indienen aanvraag rijksvergoeding 2005: aanlevering eventuele correcties op meetjaargegevens
+
+- 1 oktober 2006: Herziene beschikking lumpsum 2006 - 2007 als gevolg van correctie op meetjaargegevens.
 
 ### Toelichting
 
@@ -174,6 +258,18 @@ De gewogen gemiddelde leeftijd wordt per school bepaald op basis van de leraren 
 De gewogen gemiddelde leeftijd per school is gelijk aan de uitkomst van de formule:
 
 Som (leeftijd x betrekkingsomvang aan de betreffende school) per school/som van de betrekkingsomvangen aan de betreffende school.
+
+- uitgangspunt is de leeftijd van een leraar op 1 oktober van het voorgaande schooljaar, uitgedrukt in hele jaren.
+
+- de leeftijd van een leraar die hoger is dan 50 jaar wordt gesteld op 50 jaar
+
+- de betrekkingsomvang is de in de akte van benoeming genoemde betrekkingsomvang van de desbetreffende leraar op 1 oktober van het voorgaande jaar, rekenkundig afgerond op 4 decimalen. Indien deze leraar op genoemd moment werkzaamheden verricht aan meerdere scholen, dient per school het aan die school toe te rekenen deel van de betrekkingsomvang te worden gebruikt
+
+- de som van de betrekkingsomvangen aan de betreffende school van alle aan de school werkzame leraren, afgerond op 4 decimalen
+
+- de GGL wordt gesteld op 30 jaar, als de uitkomst van de berekening lager is dan 30 jaar
+
+- de GGL wordt rekenkundig afgerond op 2 decimalen
 
 De GGL op 1 oktober 2003 wordt gebruikt voor de berekening van de fictieve lumpsum per school in het meetjaar en voor de vaststelling van het gehele lumpsumbudget.
 

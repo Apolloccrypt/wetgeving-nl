@@ -1,37 +1,16 @@
 ---
 title: "Fiscale beleidsregels september 2004"
 identifier: "BWBR0017524"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-10-25"
-last_updated: "2004-10-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017524"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6709043"
-version_id: "11549882"
-internal_id: "C15572941"
-label_id: "6697334"
-original_entry_into_force: "2004-10-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017524/2004-10-25/0"
-intitule_bron: "Stcrt.2004-205"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-15"
-intitule_published: "2004-10-25"
-intitule_in_force: "2004-10-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-205"
-original_signed_date: "2004-11-15"
-original_published_date: "2004-10-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-205-p17-SC67162"
-entry_into_force_date: "2004-10-25"
-jci_1_3: "jci1.3:c:BWBR0017524&z=2004-10-25&g=2004-10-25"
-jci_1_0: "1.0:c:BWBR0017524&g=2004-10-25"
-citeertitel_status: "redactioneel"
-signed_date: "2004-11-15"
-entry_into_force: "2004-10-25"
+publicatiedatum: 2004-10-25
+laatste_update: 2004-10-25
+status: geldig
+toestand: 2004-10-25
+bron: "https://wetten.overheid.nl/BWBR0017524"
+opgehaald: 2026-08-08
 ---
+
 # Fiscale beleidsregels september 2004
 
 De Staatssecretaris van Financiën geeft kennis van het volgende.
@@ -74,7 +53,7 @@ Afgeleide identificatie
 
 Besluit van 12 september 2004 nr. DGB2004-4429M
 
-Inkomstenbelasting. [Partnerregeling](onbekend); gewezen partner in de zin van de [Wet IB 2001](onbekend)
+Inkomstenbelasting. Partnerregeling; gewezen partner in de zin van de Wet IB 2001
 
 Besluit van 22 september 2004 nr. CPP2004-1376M
 

@@ -1,42 +1,17 @@
 ---
 title: "Instellingsbesluit Commissie van Onafhankelijke Deskundigen ten aanzien van de Evaluatie van het Bronbeleid Geluid Spoor"
 identifier: "BWBR0016464"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-03-14"
-last_updated: "2004-03-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016464"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5775383"
-version_id: "10340852"
-internal_id: "C29052951"
-label_id: "5755614"
-original_entry_into_force: "2004-03-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016464/2004-03-14/0"
-intitule_bron: "Stcrt.2004-50"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-03-04"
-intitule_published: "2004-03-12"
-intitule_in_force: "2004-03-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-50"
-original_signed_date: "2004-03-04"
-original_published_date: "2004-03-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-50-p11-SC64029"
-entry_into_force_date: "2004-03-14"
-jci_1_3: "jci1.3:c:BWBR0016464&z=2004-03-14&g=2004-03-14"
-jci_1_0: "1.0:c:BWBR0016464&g=2004-03-14"
-citeertitel_status: "officieel"
-signed_date: "2004-03-04"
-entry_into_force: "2004-03-14"
+publicatiedatum: 2004-03-14
+laatste_update: 2004-03-14
+status: geldig
+toestand: 2004-03-14
+bron: "https://wetten.overheid.nl/BWBR0016464"
+opgehaald: 2026-08-08
 ---
+
 # Instellingsbesluit Commissie van Onafhankelijke Deskundigen ten aanzien van de Evaluatie van het Bronbeleid Geluid Spoor
-
-Handelende in overeenstemming met de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -85,5 +60,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van Onafhankelijke Deskundigen ten aanzien van de Evaluatie van het Bronbeleid Geluid Spoor.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d. 1juli 2004, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven voor het jaar 2005 (Verordening PT heffing hoveniersbedrijven 2005)"
+citeertitel: "Verordening PT heffing hoveniersbedrijven 2005"
 identifier: "BWBR0016970"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-12-11"
-last_updated: "2004-12-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016970"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6729723"
-version_id: "11581862"
-internal_id: "C15607321"
-label_id: "6718124"
-original_entry_into_force: "2004-12-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016970/2004-12-11/0"
-intitule_bron: "Vbbo.2004-71"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-01"
-intitule_published: "2004-12-10"
-intitule_in_force: "2004-12-10"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-71"
-original_signed_date: "2004-07-01"
-original_published_date: "2004-12-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-12-11"
-jci_1_3: "jci1.3:c:BWBR0016970&z=2004-12-11&g=2004-12-11"
-jci_1_0: "1.0:c:BWBR0016970&g=2004-12-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing hoveniersbedrijven 2005"
-signed_date: "2004-07-01"
-entry_into_force: "2004-12-11"
+publicatiedatum: 2004-12-11
+laatste_update: 2004-12-11
+status: geldig
+toestand: 2004-12-11
+bron: "https://wetten.overheid.nl/BWBR0016970"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 1juli 2004, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven voor het jaar 2005 (Verordening PT heffing hoveniersbedrijven 2005)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Sectorcommissie voor hovenierswerkzaamheden, d.d. 25 mei 2004;
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -66,7 +40,7 @@ BESLUIT:
 
 | a. | Tot en met € 2.250.000,-: .. 0,035%,met dien verstande, dat bij een omzet van ten hoogste € 45.500 uitsluitend de basisheffing is verschuldigd; | 0,035%, |
 | --- | --- | --- |
-| b. | van € 2.250.000,= tot en met **€** 4.500.000,=: | 0,02%, en |
+| b. | van € 2.250.000,= tot en met € 4.500.000,=: | 0,02%, en |
 | c. | meer dan € 4.500.000,=: | 0,01%. |
 
 ##### Artikel 4

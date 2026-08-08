@@ -1,48 +1,18 @@
 ---
 title: "Besluit van het bestuur van het ProductschapTuinbouw van 4 mei 2004, houdende de vaststelling van een aan telers van en handelaren in bloembollen (leverbaar) op te leggen heffing voor het oogstjaar 2004/2005 (Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004/2005)"
+citeertitel: "Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004/2005"
 identifier: "BWBR0016680"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-06-01"
-last_updated: "2004-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016680"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6788843"
-version_id: "11657132"
-internal_id: "C15710271"
-label_id: "6777384"
-original_entry_into_force: "2004-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016680/2004-06-01/0"
-intitule_bron: "Vbbo.2005-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-05-04"
-intitule_published: "2005-01-14"
-intitule_in_force: "2005-01-14"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-2"
-original_signed_date: "2004-05-04"
-original_published_date: "2005-01-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-06-01"
-jci_1_3: "jci1.3:c:BWBR0016680&z=2004-06-01&g=2004-06-01"
-jci_1_0: "1.0:c:BWBR0016680&g=2004-06-01"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004/2005"
-signed_date: "2004-05-04"
-entry_into_force: "2004-06-01"
+publicatiedatum: 2004-06-01
+laatste_update: 2004-06-01
+status: geldig
+toestand: 2004-06-01
+bron: "https://wetten.overheid.nl/BWBR0016680"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het ProductschapTuinbouw van 4 mei 2004, houdende de vaststelling van een aan telers van en handelaren in bloembollen (leverbaar) op te leggen heffing voor het oogstjaar 2004/2005 (Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004/2005)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Sectorcommissie voor bollen, knollen en wortelstokken van bloemgewassen, d.d. 30 maart 2004;
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### § 1. Begripsbepalingen
 
@@ -58,7 +28,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 | c. | voorzitter | : | de voorzitter van het productschap; |
 | d. | bloembollen | : | bollen of knollen van bloemgewassen; |
 | e. | bloembollen- leverbaar | : | soorten en variëteiten bloembollen die in de lijst, welke als bijlage bij deze verordening is gevoegd, rijn vermeld en waarvan de maat ligt op of boven de daarachter vermelde minimummaat, alsmede alle andere bloembollen, ongeacht de maat; |
-| f. | handelskaarthouder: | : | ieder die in het bezit is van een op zijn naam gestelde handels kaart als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016680&paragraaf=3&artikel=4&z=2004-06-01&g=2004-06-01); |
+| f. | handelskaarthouder: | : | ieder die in het bezit is van een op zijn naam gestelde handels kaart als bedoeld in artikel 4; |
 | g. | factuurbedrag | : | het bedrag van de factuur, exclusief behandelingskosten en exclusief kosten kleinverpakkingsmateriaal; |
 | h. | veiling | : | de veilingen c.q. bemiddelingsbureaus: Hobaho BV., Coöperatieve Nederlandse Bloembollencentrale (b.a.) en Floralia; |
 | i. | koopseizoen | : | de periode van 1 juni 2004 tot en met 31 mei 2005; |
@@ -214,17 +184,15 @@ van het factuurbedrag van de desbetreffende partij.
 
 2. Ingeval van verkoop van mud- en kilogramgoed van tulpen of narcissen, normaal aflopend ongeraapt, wordt de heffing berekend:
 
-- a. voor zover het betreft tulpen indien: van het factuurbedrag van de desbetreffende partij;
+- a. voor zover het betreft tulpen indien: 1. daarin de maten zift 10, zift 11 en zift 12/op aanwezig zijn:
+ over 50%
+ 2. daaraan de maat zift 12/op ontbreekt:
+ over 30% en
+ 3. daaraan de maten zift 11 en zift 12/op ontbreken:
+ over 10%, van het factuurbedrag van de desbetreffende partij;
 
-| 1. daarin de maten zift 10, zift 11 en zift 12/op aanwezig zijn: | over 50% |
-| --- | --- |
-| 2. daaraan de maat zift 12/op ontbreekt: | over 30% en |
-| 3. daaraan de maten zift 11 en zift 12/op ontbreken: | over 10%, |
-
-- b. van het factuurbedrag van de desbetreffende partij.
-
-| voor zover het betreft narcissen: | over 80%, |
-| --- | --- |
+- b. voor zover het betreft narcissen:
+ over 80%, van het factuurbedrag van de desbetreffende partij.
 
 3. Ingeval van mud- en kilogramgoed van krokussen en/of irissen, normaal aflopend ongeraapt, wordt de heffing berekend voor zover het betreft:
 
@@ -315,124 +283,3 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 ##### Artikel 27
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004/2005.
-
-## Bijlage
-
-Lijst als bedoeld in [artikel 1, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0016680&paragraaf=1&artikel=1&z=2004-06-01&g=2004-06-01), van het Besluit van het bestuur van het Productschap Tuinbouw van 4 mei 2004, houdende de vaststelling van een aan telers vanen handelaren in bloembollen (leverbaar) op te leggen heffing voor het oogstjaar 2004/2005 ( Verordening PT vakheffing bloembollen leverbaar oogstjaar 2004/2005 )
-
-|   |   | Minimummaat | Minimummaat |
-| --- | --- | --- | --- |
-| Acidanthera |   | 4 | cm |
-| Allium aflatunese, christophii en karataviense |   | 9 | cm |
-| Allium gigantum |   | 18 | cm |
-| Allium neapolitanum |   | 3 | cm |
-| Allium oreophilum |   | 3,5 | cm |
-| Amaryllis Hippeastrum |   | 20 | cm |
-| Amaryllis Belladonna |   | 20 | cm |
-| Amaryllis Tangerne |   | 18 | cm |
-| Anemona blanda, haar cultivars en hybriden |   | 3,5 | cm |
-| Anemone St. Baavo, haar cultivars en hybriden |   | 4 | cm |
-| Anemone coronaria: uit zaad gekweekt en vleugels en knopen; geen doorgesneden stukken |   | 4 | cm |
-| Arum cornutum |   | 18 | cm |
-| Begonia | doorsnede | 3 | cm |
-| Bagonia multiflora | doorsnede | 2,5 | cm |
-| Brodiaea (zieTriteleia) |   |   |   |
-| Camassia esculenta |   | 6 | cm |
-| Chionodoxa gigantea, luciliae en sardensis |   | 3,5 | cm |
-| Colchicum byzantinum (autumnale major) |   | 18 | cm |
-| Colchicum, andere soorten en variëteiten |   | 13 | cm |
-| Corydalis |   | 4 | cm |
-| Crocus (soortcrocussen) |   | 7 | cm |
-| Crocus (species) met uitzondering van de hierna volgende |   | 5 | cm |
-| Crocus Tomasinianus, imperati, minimum |   | 4 | cm |
-| Crocus Fleischeri, laevigatus |   | 3 | cm |
-| Crocus Vanguard, zonatus en sativus |   | 7 | cm |
-| Endymion hispanicus, haar cultivars en hybriden |   | 7 | cm |
-| Eranthis cilicica |   | 3 | cm |
-| Eranthis hyemalis |   | 3,5 | cm |
-| Freesia |   | 4 | cm |
-| Fritillaria imperialis, haar cultivars en hybriden |   | 20 | cm |
-| Fritillaria meleagris, haar cultivars en hybriden |   | 5 | cm |
-| Galanthus nivalis, niet of niet uitsluitend ronde bollen |   | 4 | cm |
-| Galanthus nivalis, uitluitend ronde bollen |   | 3 | cm |
-| Galtonia (Hyancithus) candicans |   | 12 | cm |
-| Gladiolus: grootbloemige, primulus en heraut |   | 8 | cm |
-| Gladiolus: byzantinus en communis |   | 6 | cm |
-| Gladiolus Colvillei en nanus |   | 7 | cm |
-| Gloxinia | doorsnede | 4 | cm |
-| Hippeastrum (Amaryllis) |   | 20 | cm |
-| Hyacinthus orientalis |   | 14 | cm |
-| Hyacinthus orientalis, bollen bestemd voor export |   |   |   |
-| naarJapan |   | 12 | cm |
-| Hyacinthus orientalis Rosalie |   | 13 | cm |
-| Iris, Wedgwood, Ideal, Prof. Blaauw, Apollo, Telstar, |   |   |   |
-| Blue Magic en Hildegarde en hun sports |   | 8 | cm |
-| Iris, Engelse |   | 7 | cm |
-| Iris, Hollandse (behalve de hierna genoemde, mits ongebloeld) |   | 6 | cm |
-| Iris, Ankara, Queen, Huchtenburg, Le Mogol, Yellow |   |   |   |
-| Queen, Bronze Beauty, Early Bronze, Golden Bronze |   | 5 | cm |
-| Iris, Spaansse |   | 5 | cm |
-| Iris, Danfordiae |   | 5 | cm |
-| Ixia |   | 4 | cm |
-| Lachenalia |   | 5 | cm |
-| Lilium speciosum, haar variëteiten en hybriden |   | 16 | cm |
-| Lilium auratum, haar variëteiten en hybriden |   | 16 | cm |
-| Lilium henryi, haar variëteiten en hybriden |   | 16 | m |
-| Lilium regale, haar variëteiten en hybriden |   | 16 | cm |
-| Lilium candidum |   | 16 | cm |
-| Lilium croceum |   | 14 | cm |
-| Lilium davidii, haar variëteiten en hybriden (m.u.v. Maxwill), Willmottiae, Citronella en Corsage |   | 12 | cm |
-| Lilium davidii, Maxwill |   | 10 | cm |
-| Lilium tigrinum, haar variëteiten en hybriden |   | 12 | cm |
-| Lilium formosanum (syn. L. philippinense var. ormosanum) |   | 8 | cm |
-| Lilium pumilum (syn. L. tenuifolium) |   | 7 | cm |
-| Lilium hollandicum (syn. L. Umbellaturn), haar variëteiten en hybriden |   | 14 | cm |
-| Lilium Asiatica (midcentury) hybriden (m.u.v. Destiny en Prosperity) |   | 10 | cm |
-| Lilium Asiatica (midcentury) hybriden: Destiny en Prosperity |   | 12 | cm |
-| Montbretia |   | 6 | cm |
-| Muscari - armeniacum en Early Giant |   | 6 | cm |
-| Muscari – overige |   | 5 | cm |
-| Narcis verhandeld per stuk |   | Rond I |   |
-|   |   | Dubbelneus III | Dubbelneus III |
-| Oxalis Deppei |   | 3 | cm |
-| Puschkinia scilloides libanotica |   | 4 | cm |
-| Ranunculus: goed vlezige klauwtjes met minstens 5 pootjes |   |   |   |
-| Scilla campanulata: uitsluitend ronde bollen (zie Endymion hyspanicus, haar cultivars en hybriden) |   |   |   |
-| Scilla nutans, uitsluitend ronde bollen |   | 6 | cm |
-| Scilla siberica, haar cultivars en hybriden m.u.v. |   |   |   |
-| 'atrocaerulea' |   | 5,5 | cm |
-| Scilla siberica atrocaerulea (spring Beauty) |   | 7 | cm |
-| Sparaxis tricolor, haar cultivars en hybriden |   | 3 | cm |
-
-| Tigridia (Ferraria) pavonia, haar cultivars en hybriden |   | 5 | cm |
-| --- | --- | --- | --- |
-| Triteleia (Brodiaea) taxa en kon. Fabiola |   | 4 | cm |
-| Tritonia |   | 4 | cm |
-| Tulpen: alle tulpen, met inbegrip van Tulipa Fosteriana |   |   |   |
-| en haar variëteiten(doch m.u.v. de hierna onder |   |   |   |
-| Parkiettulpen en Botanische tulpen genoemde) |   | Zift 10 |   |
-| Parkiettulpen: Café Brun, Café Pourpre, Amiral de |   |   |   |
-| Constantinople, Crimson Beauty, Lutea |   |   |   |
-| major Markgraaf van Baden en Perfecta |   | Zift 9 |   |
-| Botanische tulpen:Tulipa Fosteriana: Rockery Beauty |   | 8 | cm |
-| Tulipa Kaufmanniana: Bellini, Edwin Fischer, Fair Lady, |   |   |   |
-| Fritz Kreisler, Gaiety, Golden Sun, Goudstuk, Lady Rose, |   |   |   |
-| Mendelssohn, Robert Schumann, Solanus, Stresa en |   |   |   |
-| Sweelinck |   | 10 | cm |
-| Tulipa Kaufmanniana: Alfred Cortot, Elliot, Gluck, Vivaldi |   | 9 | cm |
-| Tulipa Kaufmanniana: X Greigii-hybriden |   | 8 | cm |
-| Tulipa Kaufmanniana: alle overige variëteiten, ook gemengd |   | 8 | cm |
-| Tulipa Eichleri (incl. Excelsa) |   | 8 | cm |
-| Tulipa Greigii |   | 10 | cm |
-| Tulipa praestans Fusilier |   | 10 | cm |
-| Tulipa praestans: alle overige (incl. van Tubergen's |   |   |   |
-| variëteiten en Zwanenburg variëteiten) |   | 8 | cm |
-| Tulipa acuminata (cornuta stenopetale) |   | 8 | cm |
-| Tulipa Marjoletti, Tulipa orphanidea en Tulipa persica |   | 6 | cm |
-| Tulipa florentina. Tulipa Hagerie (incl. splendens), |   |   |   |
-| Tulipa Kolpakowskyana, Tulipa praecox, Tulipa Sylvestris major (incl. Tabris) en Tulipa Tarda (Dasystemon) |   | 5 | cm |
-| Tulipa chrysantha |   | 3 | cm |
-| niet genoemde Tulipa's |   | 4 | cm |
-| Zephyranthes |   | 5 | cm |
-
-Deze verordening en de daarbij behorende toelichting en bijlage worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

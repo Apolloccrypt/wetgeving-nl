@@ -1,40 +1,17 @@
 ---
 title: "Verrekening van buitenlandse bronbelasting voor Nederlandse vaste inrichtingen"
 identifier: "BWBR0016308"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-01-21"
-last_updated: "2004-01-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016308"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8500863"
-version_id: "13390232"
-internal_id: "C18479701"
-label_id: "8481314"
-dtd_version: "2.0"
-original_entry_into_force: "2004-01-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016308/2004-01-21/0"
-intitule_bron: "Infob.2004-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-01-21"
-intitule_published: "2004-01-01"
-intitule_in_force: "2004-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2004-1"
-original_signed_date: "2004-01-21"
-original_published_date: "2004-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-01-21"
-jci_1_3: "jci1.3:c:BWBR0016308&z=2004-01-21&g=2004-01-21"
-jci_1_0: "1.0:c:BWBR0016308&g=2004-01-21"
-citeertitel_status: "redactioneel"
-signed_date: "2004-01-21"
-entry_into_force: "2004-01-21"
+publicatiedatum: 2004-01-21
+laatste_update: 2004-01-21
+status: geldig
+toestand: 2004-01-21
+bron: "https://wetten.overheid.nl/BWBR0016308"
+opgehaald: 2026-08-08
 ---
-# Verrekening van buitenlandse bronbelasting voor Nederlandse vaste inrichtingen
 
-De Directeur-Generaal voor Fiscale Zaken heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Verrekening van buitenlandse bronbelasting voor Nederlandse vaste inrichtingen
 
 ### 1. Inleiding
 
@@ -62,11 +39,19 @@ Toepasselijke limieten bij de bepaling van de verrekenbare bronbelasting
 
 De verrekening van bronbelasting op dividenden, interest en royalty’s bij de vaste inrichting is beperkt tot de laagste van:
 
+- a. de belasting berekend naar het percentage overeengekomen in het belastingverdrag tussen Nederland en het land van waaruit de dividenden, interest of royalty’s afkomstig zijn; en
+
+- b. de belasting berekend naar het percentage overeengekomen in het belastingverdrag tussen het land van vestiging van de buitenlands belastingplichtige met een vaste inrichting in Nederland en het land van waaruit de dividenden, interest of royalty’s afkomstig zijn.
+
 Het gaat hierbij om de vaststelling van de zogenaamde eerste limiet: de met inachtneming van de regeling ter voorkoming van dubbele belasting in het buitenland geheven belasting. Andere begrenzingen, zoals de zogenaamde tweede limiet die aansluit bij de Nederlandse belasting die over de dividenden, interest of royalty’s wordt geheven, blijven onverminderd gelden.
 
 Er kan niet meer belasting worden verrekenend dan de daadwerkelijk geheven buitenlandse belasting. De enige uitzondering hierop is het geval waarin als gevolg van het belastingverdrag tussen Nederland en het land van waaruit de dividenden, interest of royalty’s worden betaald rekening kan worden gehouden met een zogenaamde ‘tax sparing credit’. Alsdan kan tot het bedrag van de tax sparing credit verrekening plaatsvinden, tenzij dit bedrag hoger is dan de onder b berekende belasting.
 
+Opmerkingen bij a.
+
 De mogelijkheid bestaat dat aan de vaste inrichting toerekenbare dividenden, interest of royalty’s niet afkomstig zijn uit een land waarmee Nederland een belastingverdrag is overeengekomen. Als in Nederland een andere (internationale) regeling ter voorkoming van dubbele belasting (zoals de BRK of het Besluit voorkoming dubbele belasting 2001) van toepassing is op basis waarvan bronbelasting kan worden verrekend, dan geldt de volgens deze regeling maximaal te verrekenen bronbelasting als uitgangspunt bij de bepaling van de toepasselijke limieten zoals hiervoor onder a bedoeld.
+
+Opmerkingen bij b.
 
 Is geen belastingverdrag overeengekomen tussen het land van vestiging van de buitenlands belastingplichtige met een vaste inrichting in Nederland en het land van waaruit de dividenden, interest of royalty’s afkomstig zijn dan geldt het volgende. Als op de dividenden, interest of royalty’s toch een (internationale) regeling van toepassing is die voorziet in een beperking van de te heffen bronbelasting, dan geldt het volgens deze regeling geldende percentage voor de bronbelasting als uitgangspunt bij de bepaling van de toepasselijke limieten zoals hiervoor onder b bedoeld. Geldt geen zodanige (internationale) regeling dan wordt het percentage van de bronbelasting van het land van waaruit de dividenden, interest of royalty’s afkomstig zijn als uitgangspunt genomen voor de berekening van de belasting onder b.
 
@@ -81,23 +66,3 @@ Vanzelfsprekend zal worden getoetst of de vermogensbestanddelen die de dividende
 Ten slotte is mij de vraag voorgelegd of een vaste inrichting van een buitenlands belastingplichtige die gevestigd is in een lidstaat van de EU, waaraan vermogensbestanddelen kunnen worden toegerekend waarop dividend, interest of royalty’s uit een andere EU-lidstaat worden ontvangen, een woonplaatsverklaring kan worden verstrekt.
 
 Gezien het feit dat de vaste inrichting volgens de belastingverdragen geen inwoner is van Nederland wordt geen inwonersverklaring afgegeven. Wel kan de buitenlands belastingplichtige die gevestigd is in een lidstaat van de EU een verzoek indienen bij de bevoegde inspecteur om te verklaren dat sprake is van een vaste inrichting van een buitenlands belastingplichtige, die aan Nederlandse belasting onderworpen is voorzover de voordelen van de onderneming van de buitenlandse belastingplichtige kunnen worden toegerekend aan de vaste inrichting. Indien voldoende bewijzen door de belastingplichtige worden overgelegd kan de inspecteur aan deze verklaring toevoegen dat tot het vermogen van de vaste inrichting vermogensbestanddelen behoren die dividend, interest of royalty’s genereren.
-
-## Bijlage 1. Model vaste inrichting-verklaring
-
-Dear sir,
-
-The reason for this declaration is that <name enterprise> has declared:
-
-- –. that <name enterprise>, that carries on its business in the Netherlands through a permanent establishment, will receive a/an dividend/interest/royalty to the amount of <amount>,
-
-- –. that this dividend/interest/royalty will be payable on <date> by <name + adress>;
-
-- –. that this dividend/interest/royalty can be attributed to the permanent establishment situated in the Netherlands;
-
-- –. that this dividend/interest/royalty is subject to a <...> percent witholding tax in <source state>, this to the amount of <amount of withholding tax>.
-
-Given the above-mentioned I declare:
-
-- –. that the enterprise of <name enterprise> carries on its business in the Netherlands through a permanent establishment within the meaning of the Convention for the avoidance of double taxation between the Netherlands and <name country where the head office of the enterprise is situated>;
-
-- –. that the profits of the <name enterprise> enterprise for as far as they are attributed to the permanent establishment, are subject to Dutch corporation tax.

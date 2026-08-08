@@ -1,48 +1,19 @@
 ---
 title: "Beoordelingswijze piekgeluiden voor spoorwegemplacementen"
 identifier: "BWBR0016218"
-country: "nl"
-rank: "circulaire"
-publication_date: "2004-01-27"
-last_updated: "2004-01-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016218"
+categorie: "Verkeer"
 soort: "circulaire"
-stam_id: "6401023"
-version_id: "11065872"
-internal_id: "C14974861"
-label_id: "6389974"
-original_entry_into_force: "2004-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016218/2004-01-27/0"
-intitule_bron: "Stcrt.2004-17"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-12-19"
-intitule_published: "2004-01-27"
-intitule_in_force: "2004-01-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-17"
-original_signed_date: "2003-12-19"
-original_published_date: "2004-01-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-17-p14-SC63513"
-entry_into_force_date: "2004-01-27"
-jci_1_3: "jci1.3:c:BWBR0016218&z=2004-01-27&g=2004-01-27"
-jci_1_0: "1.0:c:BWBR0016218&g=2004-01-27"
-citeertitel_status: "redactioneel"
-signed_date: "2003-12-19"
-entry_into_force: "2004-01-27"
+publicatiedatum: 2004-01-27
+laatste_update: 2004-01-27
+status: geldig
+toestand: 2004-01-27
+bron: "https://wetten.overheid.nl/BWBR0016218"
+opgehaald: 2026-08-08
 ---
+
 # Beoordelingswijze piekgeluiden voor spoorwegemplacementen
 
-Circulaire aan:
-
-- Colleges van Burgemeesters en Wethouders
-
-- Colleges van Gedeputeerde Staten
-
-Geacht College,
-
-In deze circulaire adviseer ik u over de vergunningverlening aan spoorwegemplacementen op grond van [hoofdstuk 8 van de Wet milieubeheer](onbekend) (Wm) met betrekking tot activiteiten die piekgeluiden veroorzaken. Ik adviseer u deze geluiden in het vervolg te beoordelen op een nieuwe wijze die in deze circulaire wordt beschreven. Hiermee wordt de beoordelingswijze van piekgeluiden voor spoorwegemplacementen op basis van de Handreiking industrielawaai en vergunningverlening [3] (blz. 17 e.v.) op dit punt verlaten.
+In deze circulaire adviseer ik u over de vergunningverlening aan spoorwegemplacementen op grond van hoofdstuk 8 van de Wet milieubeheer (Wm) met betrekking tot activiteiten die piekgeluiden veroorzaken. Ik adviseer u deze geluiden in het vervolg te beoordelen op een nieuwe wijze die in deze circulaire wordt beschreven. Hiermee wordt de beoordelingswijze van piekgeluiden voor spoorwegemplacementen op basis van de Handreiking industrielawaai en vergunningverlening [3] (blz. 17 e.v.) op dit punt verlaten.
 
 De nieuwe beoordelingswijze van piekgeluiden geeft naar mijn oordeel afdoende bescherming tegen optredende schrik- en ontwaakreacties. Om de kans op schrikreacties te verkleinen, adviseer ik u zonodig een straffactor toe te passen op het langtijdgemiddeld beoordelingsniveau (LAr,LT) voor de betreffende etmaalperiode, het aantal geluidgebeurtenissen met een stijgsnelheid groter dan 15 decibel per seconde (dB/s) te beperken en/of de stijgsnelheid zelf te beperken. Teneinde de kans op ontwaakreacties te beperken adviseer ik u om wanneer de noodzaak daartoe aanwezig is, een aanvullende eis te stellen aan het equivalente geluidsniveau gedurende de nachtperiode (Lnight).
 
@@ -68,9 +39,15 @@ In het vervolg van mijn brief ga ik in op de uitkomst van bovengenoemd onderzoek
 
 Bij de beoordeling van een vergunningaanvraag voor een spoorwegemplacement worden ook de door die inrichting veroorzaakte maximale geluidsniveaus betrokken. Deze maximale geluidsniveaus worden door het bevoegd gezag beoordeeld aan de hand van de Handreiking industrielawaai en vergunningverlening. De Handreiking geeft aan dat er naar moet worden gestreefd om verhogingen van meer dan 10 dB ten opzichte van het equivalente niveau over de betreffende periode te voorkomen. Als aanbevolen maximale geluidsniveaus (LAmax) zijn de volgende waarden opgenomen:
 
+- - 70 dB(A) in de dagperiode (7.00 uur - 19.00 uur), met een uitloopmogelijkheid van 5 dB voor in de vergunning voorziene bedrijfssituaties;
+
+- - 65 dB(A) in de avondperiode ( 19.00 uur - 23.00 uur);
+
+- - 60 dB(A) in de nachtperiode ( 23.00 uur - 7.00 uur).
+
 Voor de nachtperiode worden maximale geluidsniveaus tot 65 dB(A) als vergunbaar aangemerkt, zij het dat dit slechts voor een beperkt aantal situaties, met de nodige voorwaarden, wordt aangeraden. Als ondergrens voor maximale geluidsniveaus wordt een waarde van 50, 45 en 40 dB(A) voor respectievelijk de dag-, avond- en nachtperiode gegeven. Maximale geluidsniveaus beneden deze grenswaarden worden gezien de van nature aanwezige geluiden niet als hinderlijk ervaren.
 
-Meten en berekenen van geluidswaarden vindt plaats op basis van het Meet- en rekenvoorschrift industrielawaai [4], gebaseerd op [artikel 73 van de Wet geluidhinder](onbekend). De Handleiding meten en rekenen industrielawaai 1999 [6] is een uitwerking van het Meet- en rekenvoorschrift industrielawaai. In deze Handleiding wordt nauwkeurig aangegeven wanneer welke methode gebruikt mag worden, mede op basis van het al dan niet aanwezig zijn van stoorgeluiden en het in meer of minder mate constante karakter van het geluid.
+Meten en berekenen van geluidswaarden vindt plaats op basis van het Meet- en rekenvoorschrift industrielawaai [4], gebaseerd op artikel 73 van de Wet geluidhinder. De Handleiding meten en rekenen industrielawaai 1999 [6] is een uitwerking van het Meet- en rekenvoorschrift industrielawaai. In deze Handleiding wordt nauwkeurig aangegeven wanneer welke methode gebruikt mag worden, mede op basis van het al dan niet aanwezig zijn van stoorgeluiden en het in meer of minder mate constante karakter van het geluid.
 
 ### 2.2. Nieuwe methode
 
@@ -100,21 +77,21 @@ Voor de te hanteren grenswaarden zijn de grenswaarden voor het equivalente gelui
 
 ### Bescherming tegen slaapverstoring
 
-Door het invoeren van een eis aan Lnight, kunnen geluidgebeurtenissen op het spoorwegemplacement die gedurende de nachtperiode optreden, worden beperkt. Immers, in de hoogte van Lnight werkt zowel het aantal als de duur en het niveau van de geluidsgebeurtenissen door. Ten aanzien van hoogte van Lnight kan het volgende worden opgemerkt. Uit onder andere slaaponderzoek uitgevoerd in het kader van de Gezondheidskundige Evaluatie Schiphol (GES) [5] is gebleken dat vanaf een waarde van 20 dB(A) in de slaapkamer slaapverstoringsreacties sterk beginnen toe te nemen. De kans op bewust ontwaken is dan ongeveer 1 maal per week. Bij een Lnight van 25 dB(A) is de kans op bewust ontwaken 20% groter en neemt de bewegingsonrust met 40% toe. Ik adviseer u dan ook met klem een Lnight 25 dB(A), in de slaapkamer, te hanteren. Deze waarde sluit dan goed aan bij de in Nederland algemeen aanvaarde grens (zoals opgenomen in de [Wet geluidhinder](onbekend) en het [Bouwbesluit 2003](onbekend)) om gedurende de nacht de waarde van 25 dB(A) in de slaapkamer niet te overschrijden. In lijn met het advies van de Gezondheidsraad wordt op Lnight ook de straffactor voor de stijgsnelheid toegepast op overeenkomstige wijze als hiervoor bij de bescherming tegen schrikreacties is beschreven.
+Door het invoeren van een eis aan Lnight, kunnen geluidgebeurtenissen op het spoorwegemplacement die gedurende de nachtperiode optreden, worden beperkt. Immers, in de hoogte van Lnight werkt zowel het aantal als de duur en het niveau van de geluidsgebeurtenissen door. Ten aanzien van hoogte van Lnight kan het volgende worden opgemerkt. Uit onder andere slaaponderzoek uitgevoerd in het kader van de Gezondheidskundige Evaluatie Schiphol (GES) [5] is gebleken dat vanaf een waarde van 20 dB(A) in de slaapkamer slaapverstoringsreacties sterk beginnen toe te nemen. De kans op bewust ontwaken is dan ongeveer 1 maal per week. Bij een Lnight van 25 dB(A) is de kans op bewust ontwaken 20% groter en neemt de bewegingsonrust met 40% toe. Ik adviseer u dan ook met klem een Lnight 25 dB(A), in de slaapkamer, te hanteren. Deze waarde sluit dan goed aan bij de in Nederland algemeen aanvaarde grens (zoals opgenomen in de Wet geluidhinder en het Bouwbesluit 2003) om gedurende de nacht de waarde van 25 dB(A) in de slaapkamer niet te overschrijden. In lijn met het advies van de Gezondheidsraad wordt op Lnight ook de straffactor voor de stijgsnelheid toegepast op overeenkomstige wijze als hiervoor bij de bescherming tegen schrikreacties is beschreven.
 
 ### 2.2.3. Akoestisch onderzoek
 
-In het kader van de vergunningprocedure voor een spoorwegemplacement zal ingevolge het [Inrichtingen- en vergunningenbesluit milieubeheer](onbekend) (Ivb) meestal een akoestisch onderzoeksrapport worden verlangd. In dit rapport kan in beginsel alle informatie worden gevonden die nodig is voor de hierboven beschreven nieuwe beoordelingswijze. Ten aanzien van de daarbij te volgen reken- en meetmethode merk ik het volgende op.
+In het kader van de vergunningprocedure voor een spoorwegemplacement zal ingevolge het Inrichtingen- en vergunningenbesluit milieubeheer (Ivb) meestal een akoestisch onderzoeksrapport worden verlangd. In dit rapport kan in beginsel alle informatie worden gevonden die nodig is voor de hierboven beschreven nieuwe beoordelingswijze. Ten aanzien van de daarbij te volgen reken- en meetmethode merk ik het volgende op.
 
 Het akoestisch onderzoek naar maximale geluidsniveaus zal worden uitgevoerd met behulp van de toepasselijke standaard-rekenmethode uit de Handleiding meten en rekenen industrielawaai 1999. Ik realiseer mij dat deze standaard-rekenmethode niet voorziet in de noodzakelijke methode voor het bepalen van stijgsnelheden bij bepaalde geluidgebeurtenissen. Om te voorkomen dat voor iedere situatie hier opnieuw akoestisch onderzoek naar moet worden verricht heb ik door M+P Raadgevende ingenieurs bv een onderzoek laten uitvoeren naar veel voorkomende geluidgebeurtenissen en bijbehorende stijgtijden. Dit heeft geleid tot een tabel [7] met stijgsnelheden bij een aantal veel voorkomende geluidgebeurtenissen op spoorwegemplacementen. Deze tabel is als bijlage bij deze brief opgenomen. Ik adviseer u deze tabel als hulpmiddel te gebruiken. Mocht u of de vergunningaanvrager van mening zijn dat de waarden uit de tabel voor een concrete situatie niet van toepassing zijn en dat dat belangrijke consequenties heeft, dan staat het vrij om een andere, meer op de situatie toegesneden waarde te gebruiken, mits hierover overeenstemming bestaat tussen vergunningaanvrager en bevoegd gezag.
 
 ### 2.2.4. Overgangsrecht
 
-Ik adviseer u nadrukkelijk de hierboven beschreven methode toe te passen op toekomstige vergunningaanvragen op basis van de [Wm](onbekend). Deze methode heeft als zodanig geen invloed op verleende, al dan niet onherroepelijk geworden, vergunningen en kan evenmin worden gehanteerd bij de beoordeling van reeds in behandeling genomen vergunningaanvragen. Met toekomstige vergunningaanvragen doel ik zowel op nieuwe vergunningsaanvragen als op wijzigings- of actualiseringsvergunningen voor bestaande spoorwegemplacementen, ingediend na de datum van bekendmaking van deze brief.
+Ik adviseer u nadrukkelijk de hierboven beschreven methode toe te passen op toekomstige vergunningaanvragen op basis van de Wm. Deze methode heeft als zodanig geen invloed op verleende, al dan niet onherroepelijk geworden, vergunningen en kan evenmin worden gehanteerd bij de beoordeling van reeds in behandeling genomen vergunningaanvragen. Met toekomstige vergunningaanvragen doel ik zowel op nieuwe vergunningsaanvragen als op wijzigings- of actualiseringsvergunningen voor bestaande spoorwegemplacementen, ingediend na de datum van bekendmaking van deze brief.
 
 ### 3. Reikwijdte
 
-De door mij hierboven geadviseerde nieuwe beoordelingswijze heeft alleen betrekking op inrichtingen die vallen onder categorie 14.1 onder a jo. 14.2 van [bijlage I van het Ivb](onbekend) (spoorwegemplacementen). Voor andere vergunningplichtige inrichtingen blijft vooralsnog de beoordelingswijze uit de Handreiking van toepassing. Ook voor inrichtingen die vallen onder de algemene regels als bedoeld in [artikel 8.40 van de Wm](onbekend) verandert niets. De reden hiervoor is dat met een beperkte toepassing ervaring met de nieuwe beoordelingsmethode kan worden opgedaan. Dit is onder meer van belang omdat de nieuwe beoordelingswijze niet alleen een andere opzet van de vergunningsvoorschriften terzake vereist, maar ook voor de wijze van handhaving van de vergunning gevolgen kan hebben.
+De door mij hierboven geadviseerde nieuwe beoordelingswijze heeft alleen betrekking op inrichtingen die vallen onder categorie 14.1 onder a jo. 14.2 van bijlage I van het Ivb (spoorwegemplacementen). Voor andere vergunningplichtige inrichtingen blijft vooralsnog de beoordelingswijze uit de Handreiking van toepassing. Ook voor inrichtingen die vallen onder de algemene regels als bedoeld in artikel 8.40 van de Wm verandert niets. De reden hiervoor is dat met een beperkte toepassing ervaring met de nieuwe beoordelingsmethode kan worden opgedaan. Dit is onder meer van belang omdat de nieuwe beoordelingswijze niet alleen een andere opzet van de vergunningsvoorschriften terzake vereist, maar ook voor de wijze van handhaving van de vergunning gevolgen kan hebben.
 
 Wanneer er voldoende ervaring met de nieuwe beoordelingswijze is opgedaan, kan deze ook voor andere inrichtingen worden ingevoerd. In verband hiermee zal de toepassing van de nieuwe beoordelingswijze nauwgezet worden gevolgd. Om tot een afgewogen evaluatie van de nieuwe beoordelingswijze te kunnen komen zal dezerzijds een werkgroep worden ingesteld waarvoor vertegenwoordigers van de verschillende overheden en bedrijfsleven zullen worden uitgenodigd. Deze werkgroep zal mij uiterlijk 1 juli 2005 adviseren over een bredere toepassing van de nieuwe beoordelingswijze.
 
@@ -122,17 +99,17 @@ Wanneer er voldoende ervaring met de nieuwe beoordelingswijze is opgedaan, kan d
 
 In deze circulaire is een aantal begrippen gebruikt, waarvan ten behoeve van de toepassing van deze circulaire in het onderstaande een definitie is opgenomen.
 
-**Geluidsgebeurtenis:** waarneembare verhoging van het geluidsniveau gedurende een beperkte tijd, hooguit enkele minuten, maar meestal (veel) korter. Een geluidgebeurtenis wordt veroorzaakt door bijvoorbeeld een passage van een trein, het (ont)koppelen van materieel, remmen.
+*Geluidsgebeurtenis:* waarneembare verhoging van het geluidsniveau gedurende een beperkte tijd, hooguit enkele minuten, maar meestal (veel) korter. Een geluidgebeurtenis wordt veroorzaakt door bijvoorbeeld een passage van een trein, het (ont)koppelen van materieel, remmen.
 
-**Maximaal geluidsniveau:** het maximaal te meten geluidsniveau, in de meterstand 'fast'.
+*Maximaal geluidsniveau:* het maximaal te meten geluidsniveau, in de meterstand 'fast'.
 
-**LAr,LT**: langtijdgemiddeld beoordelingsniveau zoals gedefinieerd in [6].
+*LAr,LT*: langtijdgemiddeld beoordelingsniveau zoals gedefinieerd in [6].
 
-**Lnight**: het langtijdgemiddeld beoordelingsniveau LAr,LT voor de nachtperiode (tussen 23.00 en 7.00 uur).
+*Lnight*: het langtijdgemiddeld beoordelingsniveau LAr,LT voor de nachtperiode (tussen 23.00 en 7.00 uur).
 
-**Stijgsnelheid:** kortste tijd waarmee het geluidsniveau veroorzaakt door een geluidsgebeurtenis met ten minste 10 dB toeneemt.
+*Stijgsnelheid:* kortste tijd waarmee het geluidsniveau veroorzaakt door een geluidsgebeurtenis met ten minste 10 dB toeneemt.
 
-**LAmax:** hoogste A-gewogen geluidsniveau gedurende een geluidgebeurtenis.
+*LAmax:* hoogste A-gewogen geluidsniveau gedurende een geluidgebeurtenis.
 
 LAmax wordt bepaald door integratie van momentane geluidsniveaus gedurende een korte periode. (De Handleiding meten en rekenen industrielawaai 1999 stelt deze periode op 125 ms).
 
@@ -141,25 +118,3 @@ LAmax wordt bepaald door integratie van momentane geluidsniveaus gedurende een k
 Een afschrift van deze brief heb ik gezonden aan de Vereniging van Nederlandse Gemeenten, het Interprovinciaal Overleg en de regionale VROM-inspecteurs.
 
 Ik vertrouw erop u hiermee voldoende te hebben geïnformeerd.
-
-## Bijlage
-
-De waarden opgenomen in de tabel zijn gebaseerd op praktijkmetingen en zijn ontleend aan het onderzoeksrapport 'Inventarisatie stijgtijden geluidsgebeurtenissen bij inrichtingen' [7]. Het onderzoek richtte zich op geluidsgebeurtenissen die model kunnen staan voor veel geluidsgebeurtenissen die zich bij inrichtingen voordoen en waarbij hoge stijgsnelheden worden verwacht. Wanneer een te beoordelen geluidsgebeurtenis niet in de tabel is opgenomen kan een gerichte meting nodig zijn om de stijgsnelheid van de betreffende gebeurtenis te bepalen. Hiervoor kan een beroep worden gedaan op een gespecialiseerde akoestisch adviseur.
-
-De opgenomen waarden gaan uit van 'normale' praktijksituaties. Voor een aantal handelingen kan dit betekenen dat wanneer er extra zorg aan wordt besteed, de betreffende geluidsgebeurtenis naar een gunstiger categorie verschuift. Het aanbrengen van speciale voorzieningen kan hieraan ook bijdragen. Bij speciale voorzieningen kan worden gedacht aan het smeren van bogen en toepassen van voegloos spoor op emplacementen. Bij (ont)koppelen kan er op worden gelet dat de koppeling niet tegen andere ijzeren delen slingert.
-
-### Literatuurverwijzingen
-
-[1] 'Assessing noise exposure for public health purposes', Gezondheidsraad 1997 (nr. 1997/23E).
-
-[2] 'Beoordeling van piekgeluiden in de woonomgeving', TNO - Preventie en Gezondheid 1999 (nr. PG/VGZ/99.023).
-
-[3] Handreiking industrielawaai en vergunningverlening, Ministerie VROM 1998 (MBG 98065226).
-
-[4] Meet- en rekenvoorschrift industrielawaai, Ministerie VROM 2001, Staatscourant 21 juni 2001, nr. 117, blz. 10.
-
-[5] 'Slaapverstoring door vliegtuiggeluid', TNI - Inro 2002 (nr. 2002.028) / RIVM (nr. 441520019).
-
-[6] Handleiding meten en rekenen industrielawaai 1999, Ministerie VROM 1999 (ISBN 90 422 02327).
-
-[7] 'Inventarisatie stijgtijden geluidsgebeurtenissen bij inrichtingen' M+P Raadgevende ingenieurs bv 2002 (MVM.02.2.1).

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d. 30 november 2004, houdende de vaststelling van de bedragen van de bestemmingsheffing ten behoeve van de teelt van fruit en champignons voor het jaar 2005 (Besluit PT bijzondere heffing fruit en champignons 2005)"
+citeertitel: "Besluit PT bijzondere heffing fruit en champignons 2005"
 identifier: "BWBR0017596"
-country: "nl"
-rank: "pbo"
-publication_date: "2005-07-24"
-last_updated: "2005-07-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017596"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "7194703"
-version_id: "12113252"
-internal_id: "C16237921"
-label_id: "7182524"
-original_entry_into_force: "2005-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017596/2005-07-24/0"
-intitule_bron: "Vbbo.2005-40"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-30"
-intitule_published: "2005-07-22"
-intitule_in_force: "2005-07-22"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-40"
-original_signed_date: "2004-11-30"
-original_published_date: "2005-07-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-07-24"
-jci_1_3: "jci1.3:c:BWBR0017596&z=2005-07-24&g=2005-07-24"
-jci_1_0: "1.0:c:BWBR0017596&g=2005-07-24"
-citeertitel_status: "officieel"
-short_title: "Besluit PT bijzondere heffing fruit en champignons 2005"
-signed_date: "2004-11-30"
-entry_into_force: "2005-07-24"
+publicatiedatum: 2005-07-24
+laatste_update: 2005-07-24
+status: geldig
+toestand: 2005-07-24
+bron: "https://wetten.overheid.nl/BWBR0017596"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 30 november 2004, houdende de vaststelling van de bedragen van de bestemmingsheffing ten behoeve van de teelt van fruit en champignons voor het jaar 2005 (Besluit PT bijzondere heffing fruit en champignons 2005)
-
-gelet op [artikel 4, tweede lid, van de Verordening PT bijzondere heffing fruit en champignons 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0016971&artikel=4);
-
-gehoord de Commissie voor groenten en fruit d.d. 18 november 2004;
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -61,5 +35,3 @@ Dit besluit treedt in werking op de tweede dag na publicatie in het Mededelingen
 ##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit PT bijzondere heffing fruit en champignons 2005.
-
-Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Mededelingenblad Bedrijfsorganisatie

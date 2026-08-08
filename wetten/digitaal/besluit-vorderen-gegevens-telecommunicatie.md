@@ -1,51 +1,18 @@
 ---
 title: "Besluit van 3 augustus 2004, houdende aanwijzing van de gegevens over een gebruiker en het telecommunicatie-verkeer met betrekking tot die gebruiker die van een aanbieder van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst kunnen worden gevorderd (Besluit vorderen gegevens telecommunicatie)"
+citeertitel: "Besluit vorderen gegevens telecommunicatie"
 identifier: "BWBR0017081"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-09-18"
-last_updated: "2021-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017081"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "6025783"
-version_id: "10640042"
-internal_id: "C14454881"
-label_id: "6015104"
-original_entry_into_force: "2004-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017081/2021-09-18/0"
-intitule_bron: "Stb.2004-394"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-08-03"
-intitule_published: "2004-08-19"
-intitule_in_force: "2004-08-19"
-intitule_status: "goed"
-original_publication: "Stb.2004-394"
-original_signed_date: "2004-08-03"
-original_published_date: "2004-08-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2004-394"
-entry_into_force_date: "2004-09-01"
-jci_1_3: "jci1.3:c:BWBR0017081&z=2021-09-18&g=2021-09-18"
-jci_1_0: "1.0:c:BWBR0017081&g=2021-09-18"
-citeertitel_status: "officieel"
-short_title: "Besluit vorderen gegevens telecommunicatie"
-signed_date: "2004-08-03"
-entry_into_force: "2004-09-01"
+publicatiedatum: 2004-09-01
+laatste_update: 2021-09-18
+status: geldig
+toestand: 2021-09-18
+bron: "https://wetten.overheid.nl/BWBR0017081"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 3 augustus 2004, houdende aanwijzing van de gegevens over een gebruiker en het telecommunicatie-verkeer met betrekking tot die gebruiker die van een aanbieder van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst kunnen worden gevorderd (Besluit vorderen gegevens telecommunicatie)
-
-Op de voordracht van Onze Minister van Justitie van 17 maart 2004, nr. 5275464/04/6;
-
-Gelet op [artikel 126n, eerste lid, tweede volzin](onbekend), en [artikel 126u, eerste lid, tweede volzin, van het Wetboek van Strafvordering](onbekend);
-
-De Raad van State gehoord (advies van 22 april 2004, nr. W03.04.0125/l);
-
-Gezien het nader rapport van Onze Minister van Justitie van 20 juli 2004, nr. 5298172/04/6;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de wet van 18 maart 2004 tot wijziging van het Wetboek van Strafvordering en andere wetten in verband met de aanpassing van de bevoegdheden tot het vorderen van gegevens terzake van telecommunicatie (vorderen gegevens telecommunicatie) (Stb. 105) in werking treedt.
 
 ##### Artikel 1
 
@@ -82,5 +49,3 @@ Dit besluit treedt in werking op het tijdstip waarop de wet van 18 maart 2004 to
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit vorderen gegevens telecommunicatie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

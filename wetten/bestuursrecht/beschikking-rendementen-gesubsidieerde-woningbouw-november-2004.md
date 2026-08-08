@@ -1,42 +1,17 @@
 ---
 title: "Beschikking rendementen gesubsidieerde woningbouw, november 2004"
 identifier: "BWBR0017576"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-02-01"
-last_updated: "2005-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017576"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6388643"
-version_id: "11049112"
-internal_id: "C14951671"
-label_id: "6377494"
-original_entry_into_force: "2005-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017576/2005-02-01/0"
-intitule_bron: "Stcrt.2004-232"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-25"
-intitule_published: "2004-12-01"
-intitule_in_force: "2004-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-232"
-original_signed_date: "2004-11-25"
-original_published_date: "2004-12-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-232-p26-SC67595"
-entry_into_force_date: "2005-02-01"
-jci_1_3: "jci1.3:c:BWBR0017576&z=2005-02-01&g=2005-02-01"
-jci_1_0: "1.0:c:BWBR0017576&g=2005-02-01"
-citeertitel_status: "redactioneel"
-signed_date: "2004-11-25"
-entry_into_force: "2005-02-01"
+publicatiedatum: 2005-02-01
+laatste_update: 2005-02-01
+status: geldig
+toestand: 2005-02-01
+bron: "https://wetten.overheid.nl/BWBR0017576"
+opgehaald: 2026-08-08
 ---
+
 # Beschikking rendementen gesubsidieerde woningbouw, november 2004
-
-Gelet op artikel 17, vierde lid, van de Beschikking geldelijke steun huurwoningen 1975, en artikel 18, vierde lid, van de Regeling geldelijke steun huurwoningen in proefgemeenten normkostensysteem 1986, en gelet op artikel 31 onderdeel i, op artikel 56, tweede lid, op artikel 57, eerste lid, en op artikel 58, derde lid, van de Regeling geldelijke steun huurwoningen normkostensysteem 1988, en voorts gelet op artikel 17, tweede lid, van de Beschikking geldelijke steun eigen woningen 1984 alsmede gelet op artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoningen 1987;
-
-Besluit:
 
 ##### Artikel 1
 

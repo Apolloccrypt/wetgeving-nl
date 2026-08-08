@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 oktober 2004, Directie AAM, nr. AAM/BR/04/68435, houdende voorzieningen in verband met de opheffing van de Arbeidsvoorzieningsorganisatie (Regeling opheffing Arbeidsvoorzieningsorganisatie)"
+citeertitel: "Regeling opheffing Arbeidsvoorzieningsorganisatie"
 identifier: "BWBR0017302"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-08-26"
-last_updated: "2015-08-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017302"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "6232043"
-version_id: "10904772"
-internal_id: "C14776871"
-label_id: "6221224"
-original_entry_into_force: "2004-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017302/2015-08-26/0"
-intitule_bron: "Stcrt.2004-202"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-10-11"
-intitule_published: "2004-10-20"
-intitule_in_force: "2004-10-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-202"
-original_signed_date: "2004-10-11"
-original_published_date: "2004-10-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-202-p12-SC66998"
-entry_into_force_date: "2004-11-01"
-jci_1_3: "jci1.3:c:BWBR0017302&z=2015-08-26&g=2015-08-26"
-jci_1_0: "1.0:c:BWBR0017302&g=2015-08-26"
-citeertitel_status: "officieel"
-short_title: "Regeling opheffing Arbeidsvoorzieningsorganisatie"
-signed_date: "2004-10-11"
-entry_into_force: "2004-11-01"
+publicatiedatum: 2004-11-01
+laatste_update: 2015-08-26
+status: geldig
+toestand: 2015-08-26
+bron: "https://wetten.overheid.nl/BWBR0017302"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 oktober 2004, Directie AAM, nr. AAM/BR/04/68435, houdende voorzieningen in verband met de opheffing van de Arbeidsvoorzieningsorganisatie (Regeling opheffing Arbeidsvoorzieningsorganisatie)
-
-Gelet op de [artikelen 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&artikel=27), en [127, vierde lid, van de Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&artikel=127);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -51,7 +26,7 @@ In deze regeling wordt verstaan onder:
 
 - c. bestuurder CBA: de persoon die tot 1 november 2004 de functie van lid van het Centraal Bestuur voor de Arbeidsvoorziening vervulde;
 
-- d. vervallen;
+- d. *vervallen;*
 
 - e. Arbeidsvoorzieningsorganisatie: de Arbeidsvoorzieningsorganisatie, genoemd in [artikel 2 van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=2) zoals deze voor 1 november 2004 luidde;
 
@@ -59,7 +34,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Aanwijzing persoon belast met afwikkeling
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 2. Overgang vermogen en publiekrechtelijke rechten en verplichtingen
 
@@ -73,11 +48,11 @@ Vervallen
 
 ##### Artikel 4. Deelnemingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5. Personeel
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6. Overgang publiekrechtelijke rechten en verplichtingen
 
@@ -87,7 +62,7 @@ Een besluit van de Arbeidsvoorzieningsorganisatie geldt als een besluit van de m
 
 ##### Artikel 7. Civielrechtelijke en bestuursrechtelijke gedingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8. Arbeidsgeschillen
 
@@ -95,17 +70,17 @@ In civielrechtelijke en bestuursrechtelijke gedingen met betrekking tot onderwer
 
 ##### Artikel 9. Bezwaarschriften
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10. Beëindiging procedures
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. Financiële afwikkeling
 
 ##### Artikel 11. Rekening en verantwoording
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12. Afwikkeling door het UWV
 
@@ -119,11 +94,11 @@ Vervallen
 
 ##### Artikel 13. Overdracht archief
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. Intrekking regeling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15. Inwerkingtreding
 
@@ -132,5 +107,3 @@ Deze regeling treedt in werking met ingang van 1 november 2004.
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling opheffing Arbeidsvoorzieningsorganisatie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

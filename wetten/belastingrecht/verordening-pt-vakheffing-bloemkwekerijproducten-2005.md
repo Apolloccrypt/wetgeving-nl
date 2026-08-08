@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van het ProductschapTuinbouw van 1 juli 2004, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2005 (Verordening PT vakheffing bloemkwekerijproducten 2005)"
+citeertitel: "Verordening PT vakheffing bloemkwekerijproducten 2005"
 identifier: "BWBR0016957"
-country: "nl"
-rank: "pbo"
-publication_date: "2005-05-07"
-last_updated: "2005-05-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016957"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "7015223"
-version_id: "11894442"
-internal_id: "C15999361"
-label_id: "7003424"
-original_entry_into_force: "2005-05-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016957/2005-05-07/0"
-intitule_bron: "Vbbo.2005-23"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-01"
-intitule_published: "2005-05-06"
-intitule_in_force: "2005-05-06"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-23"
-original_signed_date: "2004-07-01"
-original_published_date: "2005-05-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-05-07"
-jci_1_3: "jci1.3:c:BWBR0016957&z=2005-05-07&g=2005-05-07"
-jci_1_0: "1.0:c:BWBR0016957&g=2005-05-07"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing bloemkwekerijproducten 2005"
-signed_date: "2004-07-01"
-entry_into_force: "2005-05-07"
+publicatiedatum: 2005-05-07
+laatste_update: 2005-05-07
+status: geldig
+toestand: 2005-05-07
+bron: "https://wetten.overheid.nl/BWBR0016957"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het ProductschapTuinbouw van 1 juli 2004, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2005 (Verordening PT vakheffing bloemkwekerijproducten 2005)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-gehoord de Sectorcommissie voor bloemkwekerijproducten, d.d. 19 mei 2004;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -54,7 +26,7 @@ BESLUIT:
 | --- | --- |
 | b. het bestuur: | het bestuur van het productschap; |
 | c. de voorzitter: | de voorzitter van het productschap; |
-| d. de bloemkwekerijproducten: | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: |
+| d. de bloemkwekerijproducten: | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: 1. winterharde houtgewassen in hun geheel voorzover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd; 2. voor zover in groene toestand de Japanse azalea's, alsmede variëteiten en hybriden daarvan; 3. dahliastekken, begonia- en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen, en 4. aquariumplanten en niet-levende bloemkwekerijproducten; |
 | e. het uitgangsmateriaal: | planten en plantendelen van bloemkwekerijproducten welke bestemd zijn voor de teelt van gebruiksklare (voor de consument geschikte) bloemkwekerijproducten, zoals stekken, zaaikisten en weefselkweekplanten |
 | f. het kweken van bloemkwekerijproducten of uitgangsmateriaal: | 1. het ter verkrijging van een oogst brengen, hebben of houden in een al dan niet overdekt groeimedium van bloemkwekerijproducten of uitgangsmateriaal; 2. het ter bevordering van het verkrijgen van een oogst verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van bloemkwekerijproducten of uitgangsmateriaal, of 3. het oogsten van bloemkwekerijproducten of uitgangsmateriaal; |
 | g. de kweker: | de ondernemer die bloemkwekerijproducten of uitgangsmateriaal kweekt; |
@@ -197,5 +169,3 @@ Deze verordening treedt in werking met ingang van de dag na de datum van publica
 ##### Artikel 17
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing bloemkwekerijproducten 2005.
-
-Deze verordening en de daarbij behorende toelichting worden geplaatst in het Verordeningenblad Bedrijfsorganisatie.

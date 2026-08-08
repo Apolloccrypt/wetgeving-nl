@@ -1,59 +1,26 @@
 ---
 title: "Besluit van 23 augustus 2004 tot wijziging van het Luchthavenverkeerbesluit Schiphol en het Luchthavenindelingbesluit Schiphol in verband met het herstellen van een invoerfout en wijziging van uitvliegroutes in westelijke richting vanaf de Polderbaan"
+citeertitel: "Wijzigingsbesluit Luchthavenverkeerbesluit Schiphol, enz. (herstellen invoerfout en wijziging uitvliegroutes in westelijke richting vanaf de Polderbaan)"
 identifier: "BWBR0017134"
-country: "nl"
-rank: "amvb"
-publication_date: "2004-08-31"
-last_updated: "2004-08-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017134"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "6054383"
-version_id: "10702592"
-internal_id: "C14528991"
-label_id: "6043624"
-original_entry_into_force: "2004-08-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017134/2004-08-31/0"
-intitule_bron: "Stb.2004-425"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-08-23"
-intitule_published: "2004-08-30"
-intitule_in_force: "2004-08-30"
-intitule_status: "goed"
-original_publication: "Stb.2004-425"
-original_signed_date: "2004-08-23"
-original_published_date: "2004-08-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2004-425"
-entry_into_force_date: "2004-08-31"
-jci_1_3: "jci1.3:c:BWBR0017134&z=2004-08-31&g=2004-08-31"
-jci_1_0: "1.0:c:BWBR0017134&g=2004-08-31"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsbesluit Luchthavenverkeerbesluit Schiphol, enz. (herstellen invoerfout en wijziging uitvliegroutes in westelijke richting vanaf de Polderbaan)"
-signed_date: "2004-08-23"
-entry_into_force: "2004-08-31"
+publicatiedatum: 2004-08-31
+laatste_update: 2004-08-31
+status: geldig
+toestand: 2004-08-31
+bron: "https://wetten.overheid.nl/BWBR0017134"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 23 augustus 2004 tot wijziging van het Luchthavenverkeerbesluit Schiphol en het Luchthavenindelingbesluit Schiphol in verband met het herstellen van een invoerfout en wijziging van uitvliegroutes in westelijke richting vanaf de Polderbaan
-
-Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 2 juli 2004, nr. HDJZ/LUV/2004-1650, Hoofddirectie Juridische Zaken, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Gelet op de
-
-[artikelen 8.4](onbekend) en [8.15 van de Wet luchtvaart](onbekend);
-
-De Raad van State gehoord (advies van 18 augustus 2004, nr. W09.04.0313/V);
-
-Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 20 augustus 2004, nr. HDJZ/LUV/2004-2087, Hoofddirectie Juridische Zaken, uitgebracht mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Wijzigt het Luchthavenverkeerbesluit Schiphol.
+*Wijzigt het Luchthavenverkeerbesluit Schiphol.*
 
 ##### Artikel II
 
-Wijzigt het Luchthavenindelingbesluit Schiphol.
+*Wijzigt het Luchthavenindelingbesluit Schiphol.*
 
 ##### Artikel III. Invoeringsbepaling
 
@@ -61,7 +28,7 @@ Wijzigt het Luchthavenindelingbesluit Schiphol.
 
 2. De grenswaarden voor de geluidbelasting in de na inwerkingtreding van dit besluit resterende periode van het gebruiksjaar zijn de in onderstaande tabellen genoemde waarden:
 
-**Grenswaarden handhavingspunten etmaal Lden [dB(A)]**
+*Grenswaarden handhavingspunten etmaal Lden [dB(A)]*
 
 | punt nr. | X-coörd | Y-coörd | Grenswaarde | Maximum grenswaarde in geval van buitengewone weersomstandigheden |
 | --- | --- | --- | --- | --- |
@@ -105,7 +72,7 @@ Berekeningsnummer: 2004-07-01 09:00:10
 
 XY-coördinaten in meters (RD-stelsel)
 
-**Grenswaarden handhavingspunten periode 23–07 uur Lnight [dB(A)]**
+*Grenswaarden handhavingspunten periode 23–07 uur Lnight [dB(A)]*
 
 | punt nr. | X-coörd | Y-coörd | Grenswaarde | Maximum grenswaarde in geval van buitengewone weersomstandigheden |
 | --- | --- | --- | --- | --- |
@@ -142,5 +109,3 @@ XY-coördinaten in meters (RD-stelsel)
 ##### Artikel IV. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven op of na 2 september 2004, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 2 september 2004.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

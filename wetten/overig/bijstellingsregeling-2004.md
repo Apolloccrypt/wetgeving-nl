@@ -1,41 +1,17 @@
 ---
 title: "Bijstellingsregeling 2004"
 identifier: "BWBR0016226"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-05-14"
-last_updated: "2004-05-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016226"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5587413"
-version_id: "10048222"
-internal_id: "C13568661"
-label_id: "5558594"
-original_entry_into_force: "2004-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016226/2004-05-14/0"
-intitule_bron: "Stcrt.2003-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-12-19"
-intitule_published: "2003-12-29"
-intitule_in_force: "2003-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-250"
-original_signed_date: "2003-12-19"
-original_published_date: "2003-12-29"
-original_effect: "structuurwijziging"
-entry_into_force_date: "2004-01-01"
-jci_1_3: "jci1.3:c:BWBR0016226&z=2004-05-14&g=2004-05-14"
-jci_1_0: "1.0:c:BWBR0016226&g=2004-05-14"
-citeertitel_status: "officieel"
-signed_date: "2003-12-19"
-entry_into_force: "2004-01-01"
+publicatiedatum: 2004-01-01
+laatste_update: 2004-05-14
+status: geldig
+toestand: 2004-05-14
+bron: "https://wetten.overheid.nl/BWBR0016226"
+opgehaald: 2026-08-08
 ---
+
 # Bijstellingsregeling 2004
-
-Gelet op [hoofdstuk 10, afdeling 10.1, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=10.1), de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=30a),[31](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=31) en [33 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=33), [artikel 35a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35a), [artikel 8 van de Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=8), zoals dat luidt met ingang van 1 februari 2004 en [artikel 2 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&artikel=2);
-
-Besluit:
 
 ##### Artikel I
 
@@ -49,36 +25,34 @@ Besluit:
 
 - A. voorstelt: het gemiddelde indexcijfer van die reeks over de maanden juli 2002 tot en met juni 2003 berekend uit de indexcijfers gepubliceerd in het nummer van het Statistisch Bulletin, waarin het indexcijfer over juni 2003 voor het eerst is gepubliceerd, en
 
-- B. voorstelt: het gemiddelde indexcijfer van die reeks over de maanden juli 2002 tot en met juni 2003 berekend uit de som van de indexcijfers over de maanden juli 2002 tot en met mei 2003 gepubliceerd in het nummer van het Statistisch Bulletin, waarin het indexcijfer over mei 2003 voor het eerst is gepubliceerd, en het indexcijfer over juni 2003 volgens de reeks met basisjaar 1990 dat wordt berekend door het indexcijfer over juni 2003 volgens de reeks met basisjaar 2000 te vermenigvuldigen met een factor die voorstelt de verhouding van het indexcijfer over de maand mei 2003 volgens de reeks met het basisjaar 1990 tot het indexcijfer over die maand volgens de reeks met het basisjaar 2000.
+- B voorstelt: het gemiddelde indexcijfer van die reeks over de maanden juli 2002 tot en met juni 2003 berekend uit de som van de indexcijfers over de maanden juli 2002 tot en met mei 2003 gepubliceerd in het nummer van het Statistisch Bulletin, waarin het indexcijfer over mei 2003 voor het eerst is gepubliceerd, en het indexcijfer over juni 2003 volgens de reeks met basisjaar 1990 dat wordt berekend door het indexcijfer over juni 2003 volgens de reeks met basisjaar 2000 te vermenigvuldigen met een factor die voorstelt de verhouding van het indexcijfer over de maand mei 2003 volgens de reeks met het basisjaar 1990 tot het indexcijfer over die maand volgens de reeks met het basisjaar 2000.
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel IV
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel V
 
-Wijzigt de Kostenwet.
+*Wijzigt de Kostenwet.*
 
 ##### Artikel VI
 
-Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+*Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.*
 
 ##### Artikel VII
 
-Wijzigt de Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+*Wijzigt de Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.*
 
 ##### Artikel VIII
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2004, met uitzondering van [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0016226&artikel=V&z=2004-05-14&g=2004-05-14) dat in werking treedt met ingang van 1 februari 2004.
 
 2. Deze regeling wordt aangehaald als: Bijstellingsregeling 2004.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

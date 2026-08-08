@@ -1,41 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Verkeer en Waterstaat, houdende instelling van de Adviescommissie Water (Instellingsbesluit Adviescommissie Water)"
+citeertitel: "Instellingsbesluit Adviescommissie Water"
 identifier: "BWBR0016434"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-17"
-last_updated: "2016-04-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016434"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "5750333"
-version_id: "10305382"
-internal_id: "C29050281"
-label_id: "5730594"
-original_entry_into_force: "2004-03-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016434/2016-04-17/0"
-intitule_bron: "Stcrt.2004-43"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-02-24"
-intitule_published: "2004-03-03"
-intitule_in_force: "2004-03-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-43"
-original_signed_date: "2004-02-24"
-original_published_date: "2004-03-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-43-p21-SC63890"
-entry_into_force_date: "2004-03-05"
-jci_1_3: "jci1.3:c:BWBR0016434&z=2016-04-17&g=2016-04-17"
-jci_1_0: "1.0:c:BWBR0016434&g=2016-04-17"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie Water"
-signed_date: "2004-02-24"
-entry_into_force: "2004-03-05"
+publicatiedatum: 2004-03-05
+laatste_update: 2016-04-17
+status: geldig
+toestand: 2016-04-17
+bron: "https://wetten.overheid.nl/BWBR0016434"
+opgehaald: 2026-08-08
 ---
-# Besluit van de Staatssecretaris van Verkeer en Waterstaat, houdende instelling van de Adviescommissie Water (Instellingsbesluit Adviescommissie Water)
 
-Besluit:
+# Besluit van de Staatssecretaris van Verkeer en Waterstaat, houdende instelling van de Adviescommissie Water (Instellingsbesluit Adviescommissie Water)
 
 ##### Artikel 1
 
@@ -84,5 +61,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Water.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

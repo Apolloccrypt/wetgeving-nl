@@ -1,131 +1,108 @@
 ---
 title: "Wet van 16 december 2004, houdende wijziging van enkele belastingwetten c.a. (Overige fiscale maatregelen 2005)"
+citeertitel: "Wijzigingswet enkele belastingwetten c.a.(Overige fiscale maatregelen 2005)"
 identifier: "BWBR0017749"
-country: "nl"
-rank: "wet"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017749"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "6557253"
-version_id: "11357492"
-internal_id: "C15298301"
-label_id: "6545894"
-original_entry_into_force: "2005-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017749/2006-01-01/0"
-intitule_bron: "Stb.2004-654"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-16"
-intitule_published: "2004-12-23"
-intitule_in_force: "2004-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2004-654"
-original_signed_date: "2004-12-16"
-original_published_date: "2004-12-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "29758"
-original_url_id: "stb-2004-654"
-entry_into_force_date: "2005-01-01"
-entry_into_force_dossier: "29758"
-jci_1_3: "jci1.3:c:BWBR0017749&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0017749&g=2006-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet enkele belastingwetten c.a.(Overige fiscale maatregelen 2005)"
-signed_date: "2004-12-16"
-entry_into_force: "2005-01-01"
+publicatiedatum: 2005-01-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0017749"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 16 december 2004, houdende wijziging van enkele belastingwetten c.a. (Overige fiscale maatregelen 2005)
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
+*Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet op deloonbelasting 1964.
+*Wijzigt de Wet op deloonbelasting 1964.*
 
 ##### Artikel IV
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel IX
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel X
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XI
 
-Wijzigt de Wet op de internationale bijstndsverlening.
+*Wijzigt de Wet op de internationale bijstndsverlening.*
 
 ##### Artikel XII
 
-Wijzigt de Wijzigingswet belastingwetten c.a. (Overige fiscale maatregelen 2004).
+*Wijzigt de Wijzigingswet belastingwetten c.a. (Overige fiscale maatregelen 2004).*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel XIII
 
-Wijzigt de Wet kinderopvang.
+*Wijzigt de Wet kinderopvang.*
 
 ##### Artikel XIV
 
-Wijzigt de Aansluitingswet Walvis.
+*Wijzigt de Aansluitingswet Walvis.*
 
 ##### Artikel XV
 
-Wijzigt de Coördinatiewet Sociale Verzekering.
+*Wijzigt de Coördinatiewet Sociale Verzekering.*
 
 ##### Artikel XVI
 
-Wijzigt de Kostenwet invordering rijksbelastingen.
+*Wijzigt de Kostenwet invordering rijksbelastingen.*
 
 ##### Artikel XVII
 
-Wijzigt de Wet waardering onroerende zaken.
+*Wijzigt de Wet waardering onroerende zaken.*
 
 ##### Artikel XVIII
 
-A. **Overgangsrecht** Wet inkomstenbelasting 2001
+A. *Overgangsrecht* Wet inkomstenbelasting 2001
 
 De in [artikel 3.22, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) gestelde voorwaarde van het voeren van de vlag van een van de Lidstaten van de Europese Gemeenschap geldt niet met betrekking tot schepen waarvoor de belastingplichtige reeds vóór de inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=I&z=2006-01-01&g=2006-01-01), van deze wet de winst uit zeescheepvaart bepaalt aan de hand van de tonnage als bedoeld in genoemd [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22)
 
-B. Vervallen.
+B. *Vervallen.*
 
-C. **Overgangsrecht** Algemene wet inzake rijksbelastingen
+C. *Overgangsrecht* Algemene wet inzake rijksbelastingen
 
 - 1. Op het beroep tegen een uitspraak op een bezwaarschrift met een dagtekening van vóór het tijdstip van inwerkingtreding van deze wet, inzake een uitnodiging tot betaling ter zake van anti-dumpingheffingen, compenserende heffingen of landbouwheffingen, onderscheidenlijk inzake een in artikel 886, eerste lid, van de toepassingsverordening Communautair douanewetboek bedoelde beschikking tot terugbetaling of kwijtschelding ter zake van deze heffingen, blijft [artikel 30d van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30d) zoals dat luidde ten tijde van die dagtekening, van toepassing.
 
 - 2. Het eerste lid is van overeenkomstige toepassing:
 
-- a. op een verzoek om een voorlopige voorziening, en
+   - a. op een verzoek om een voorlopige voorziening, en
 
-- b. indien met toepassing van [artikel 7:1a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1a) rechtstreeks beroep wordt ingesteld.
+   - b. indien met toepassing van [artikel 7:1a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1a) rechtstreeks beroep wordt ingesteld.
 
-- 3. Op een beroep tegen het niet tijdig doen van een uitspraak op een bezwaarschrift als bedoeld in het eerste lid, dat is ingesteld voor het tijdstip van inwerkingtreding van deze wet, blijft [artikel 30d van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30d) zoals dit gold vóór dat tijdstip van toepassing.
+   - 3. Op een beroep tegen het niet tijdig doen van een uitspraak op een bezwaarschrift als bedoeld in het eerste lid, dat is ingesteld voor het tijdstip van inwerkingtreding van deze wet, blijft [artikel 30d van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30d) zoals dit gold vóór dat tijdstip van toepassing.
 
 ##### Artikel XIX
 
@@ -148,13 +125,3 @@ C. **Overgangsrecht** Algemene wet inzake rijksbelastingen
 - b. indien het Staatsblad waarin dat besluit wordt geplaatst na 1 januari 2005 wordt uitgegeven, in dat besluit bepaald wordt dat de genoemde onderdelen terugwerken tot en met 1 januari 2005.
 
 3. In afwijking van het eerste lid treden [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=I&z=2006-01-01&g=2006-01-01), [artikel IV, onderdelen B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=IV&z=2006-01-01&g=2006-01-01), [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=XII&z=2006-01-01&g=2006-01-01), en [artikel XVIII onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=XVIII&z=2006-01-01&g=2006-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2005 wenselijk is in een aantal belastingwetten wijzigingen, versoepelingen, bijstellingen, alsmede enkele technische reparaties aan te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

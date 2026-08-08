@@ -1,45 +1,17 @@
 ---
 title: "Regeling vissersvaartuigen"
 identifier: "BWBR0016372"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016372"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5701863"
-version_id: "18528112"
-internal_id: "C25856391"
-label_id: "5682214"
-dtd_version: "2.0"
-original_entry_into_force: "2011-04-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016372/2013-04-01/0"
-intitule_bron: "Stcrt.2004-32"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-02-09"
-intitule_published: "2004-02-17"
-intitule_in_force: "2004-02-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-7314"
-original_signed_date: "2011-04-19"
-original_published_date: "2011-04-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2011-7314"
-entry_into_force_date: "2011-04-19"
-jci_1_3: "jci1.3:c:BWBR0016372&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0016372&g=2013-04-01"
-citeertitel_status: "officieel"
-signed_date: "2011-04-19"
-entry_into_force: "2011-04-19"
+publicatiedatum: 2011-04-19
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0016372"
+opgehaald: 2026-08-08
 ---
+
 # Regeling vissersvaartuigen
-
-Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en met de Minister van Vervoer en Communicatie van Aruba;
-
-Gelet op de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=3.4), [4.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=4.3), [4.18, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=4.18),[5.22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=5.22), en [6.14, zevende lid, van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=6.14);
-
-Besluit:
 
 #### § 1. Aanvullende voorschriften voor de boomkorvisserij
 
@@ -163,33 +135,19 @@ Vislieren met elektrische of hydraulische aandrijving zijn zodanig ingericht dat
 
 #### § 4a. Nieuwe vissersvaartuigen, gebouwd op of na 1 januari 2003
 
-##### Artikel 5.1
-
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-##### Artikel 5.2
-
-Deze regeling wordt aangehaald als: Regeling vissersvaartuigen.
-
-Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
-
 ##### Artikel 4a.1
 
-1. Vissersvaartuigen die zijn gebouwd op of na 1 januari 2003 voldoen aan de voorschriften van [richtlijn nr. 2002/35/EG](32002L0035) van de Commissie van de Europese Gemeenschappen van 25 april 2002 (PbEG L 112) tot wijziging van [Richtlijn 97/70/EG](31997L0070) van de Raad betreffende de invoering van een geharmoniseerde veiligheidsregeling voor vissersvaartuigen waarvan de lengte 24 m of meer bedraagt.
+1. Vissersvaartuigen die zijn gebouwd op of na 1 januari 2003 voldoen aan de voorschriften van richtlijn nr. 2002/35/EG van de Commissie van de Europese Gemeenschappen van 25 april 2002 (PbEG L 112) tot wijziging van Richtlijn 97/70/EG van de Raad betreffende de invoering van een geharmoniseerde veiligheidsregeling voor vissersvaartuigen waarvan de lengte 24 m of meer bedraagt.
 
 2. Het eerste lid is slechts van toepassing op Nederlandse vissersvaartuigen als bedoeld in het [Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342).
 
 #### § 4b. Interval tussentijdse onderzoeken
 
-Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
-
 ##### Artikel 4b.1
 
 Tussentijdse onderzoeken als bedoeld in [artikel 1.12, vierde lid, van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=1.12) vinden eenmaal per twee jaar plaats in de periode van drie maanden voor tot drie maanden na de dag en de maand van afgifte van het certificaat van overeenstemming.
 
-#### § 4c. **Automatisch identificatiesysteem**
-
-Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
+#### § 4c. Automatisch identificatiesysteem
 
 ##### Artikel 4c.1
 
@@ -199,13 +157,13 @@ Deze paragraaf is slechts van toepassing op Nederlandse vissersvaartuigen en vis
 
 Vissersvaartuigen met een lengte over alles van meer dan 15 meter zijn volgens het volgende tijdschema uitgerust met een automatisch identificatiesysteem (klasse A) dat voldoet aan de door de IMO ontwikkelde prestatienormen:
 
-- –. pasgebouwde vissersvaartuigen met een lengte over alles van meer dan 15 meter en alle vissersvaartuigen met een lengte over alles van 45 meter of meer: met ingang van het tijdstip waarop dit artikel in werking treedt;
+- – pasgebouwde vissersvaartuigen met een lengte over alles van meer dan 15 meter en alle vissersvaartuigen met een lengte over alles van 45 meter of meer: met ingang van het tijdstip waarop dit artikel in werking treedt;
 
-- –. vissersvaartuigen met een lengte over alles van 24 meter of meer, doch minder dan 45 meter: uiterlijk op 31 mei 2012;
+- – vissersvaartuigen met een lengte over alles van 24 meter of meer, doch minder dan 45 meter: uiterlijk op 31 mei 2012;
 
-- –. vissersvaartuigen met een lengte over alles van 18 meter of meer, doch minder dan 24 meter: uiterlijk op 31 mei 2013;
+- – vissersvaartuigen met een lengte over alles van 18 meter of meer, doch minder dan 24 meter: uiterlijk op 31 mei 2013;
 
-- –. vissersvaartuigen met een lengte over alles van meer dan 15 meter, doch minder dan 18 meter: uiterlijk op 31 mei 2014.
+- – vissersvaartuigen met een lengte over alles van meer dan 15 meter, doch minder dan 18 meter: uiterlijk op 31 mei 2014.
 
 ##### Artikel 4c.3
 
@@ -217,4 +175,10 @@ Overtreding van [artikel 4c.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&p
 
 #### § 5. Slotbepalingen
 
-Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
+##### Artikel 5.1
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+##### Artikel 5.2
+
+Deze regeling wordt aangehaald als: Regeling vissersvaartuigen.

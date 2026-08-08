@@ -1,40 +1,17 @@
 ---
 title: "Successiewet 1956; verkoop onder voorbehoud van vruchtgebruik, aftrek bij (periodieke) kwijtschelding van de tegenprestatie"
 identifier: "BWBR0016270"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-01-09"
-last_updated: "2004-01-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016270"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "8477303"
-version_id: "13364622"
-internal_id: "C18458771"
-label_id: "8457744"
-dtd_version: "2.0"
-original_entry_into_force: "2004-01-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016270/2004-01-09/0"
-intitule_bron: "Infob.2004-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-01-09"
-intitule_published: "2004-01-01"
-intitule_in_force: "2004-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2004-1"
-original_signed_date: "2004-01-09"
-original_published_date: "2004-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-01-09"
-jci_1_3: "jci1.3:c:BWBR0016270&z=2004-01-09&g=2004-01-09"
-jci_1_0: "1.0:c:BWBR0016270&g=2004-01-09"
-citeertitel_status: "redactioneel"
-signed_date: "2004-01-09"
-entry_into_force: "2004-01-09"
+publicatiedatum: 2004-01-09
+laatste_update: 2004-01-09
+status: geldig
+toestand: 2004-01-09
+bron: "https://wetten.overheid.nl/BWBR0016270"
+opgehaald: 2026-08-08
 ---
-# Successiewet 1956; verkoop onder voorbehoud van vruchtgebruik, aftrek bij (periodieke) kwijtschelding van de tegenprestatie
 
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Successiewet 1956; verkoop onder voorbehoud van vruchtgebruik, aftrek bij (periodieke) kwijtschelding van de tegenprestatie
 
 Aan mij is een vraag voorgelegd over de toepassing van artikel 10, derde lid, Successiewet 1956 (SW) bij een kwijtschelding van de koopsom in termijnen. De vraag en het antwoord zijn hierna opgenomen.
 

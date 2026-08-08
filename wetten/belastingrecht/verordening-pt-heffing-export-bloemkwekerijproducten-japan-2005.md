@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d. 1 juli 2004 houdende de vaststelling van de aan ondernemers die bloemkwekerijproducten naar Japan exporteren op te leggen heffing voor het jaar 2005 (Verordening PT heffing export bloemkwekerijproducten Japan 2005)"
+citeertitel: "Verordening PT heffing export bloemkwekerijproducten Japan 2005"
 identifier: "BWBR0016964"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-11-06"
-last_updated: "2004-11-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016964"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6721443"
-version_id: "11570932"
-internal_id: "C15595281"
-label_id: "6709904"
-original_entry_into_force: "2004-11-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016964/2004-11-06/0"
-intitule_bron: "Vbbo.2004-66"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-01"
-intitule_published: "2004-11-05"
-intitule_in_force: "2004-11-05"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-66"
-original_signed_date: "2004-07-01"
-original_published_date: "2004-11-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-11-06"
-jci_1_3: "jci1.3:c:BWBR0016964&z=2004-11-06&g=2004-11-06"
-jci_1_0: "1.0:c:BWBR0016964&g=2004-11-06"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing export bloemkwekerijproducten Japan 2005"
-signed_date: "2004-07-01"
-entry_into_force: "2004-11-06"
+publicatiedatum: 2004-11-06
+laatste_update: 2004-11-06
+status: geldig
+toestand: 2004-11-06
+bron: "https://wetten.overheid.nl/BWBR0016964"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 1 juli 2004 houdende de vaststelling van de aan ondernemers die bloemkwekerijproducten naar Japan exporteren op te leggen heffing voor het jaar 2005 (Verordening PT heffing export bloemkwekerijproducten Japan 2005)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-gehoord de Sectorcommissie voor bloemkwekerijproducten, d.d. 19 mei 2004;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -54,7 +26,7 @@ BESLUIT:
 | --- | --- | --- |
 | b. bestuur | : | het bestuur van het productschap; |
 | c. voorzitter | : | de voorzitter van het productschap; |
-| d. bloemkwekerijproducten | : | producten als omschreven in [artikel 1, tweede lid, sub d, van de Verordening PT vakheffing bloemkwekerijproducten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0016967&artikel=1), en |
+| d. bloemkwekerijproducten | : | producten als omschreven in artikel 1, tweede lid, sub d, van de Verordening PT vakheffing bloemkwekerijproducten 2005, en |
 | e. heffingsplichtige | : | degene die ingevolge deze heffingsverordening heffing is verschuldigd. |
 
 #### § 2. Heffingsplicht
@@ -154,5 +126,3 @@ Deze verordening treedt in werking de dag na de datum van publicatie in het Vero
 ##### Artikel 14
 
 Deze verordening wordt aangehaald als: Verordening PT heffing export bloemkwekerijproducten Japan 2005.
-
-Deze verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie

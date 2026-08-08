@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2004, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2005 (Verordening PT algemene heffing handel groenten en fruit 2005)"
+citeertitel: "Verordening PT algemene heffing handel groenten en fruit 2005"
 identifier: "BWBR0016961"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-09-18"
-last_updated: "2004-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016961"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6680083"
-version_id: "11519292"
-internal_id: "C15533841"
-label_id: "6668574"
-original_entry_into_force: "2004-09-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016961/2004-09-18/0"
-intitule_bron: "Vbbo.2004-53"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-01"
-intitule_published: "2004-09-17"
-intitule_in_force: "2004-09-17"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-53"
-original_signed_date: "2004-07-01"
-original_published_date: "2004-09-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-09-18"
-jci_1_3: "jci1.3:c:BWBR0016961&z=2004-09-18&g=2004-09-18"
-jci_1_0: "1.0:c:BWBR0016961&g=2004-09-18"
-citeertitel_status: "officieel"
-short_title: "Verordening PT algemene heffing handel groenten en fruit 2005"
-signed_date: "2004-07-01"
-entry_into_force: "2004-09-18"
+publicatiedatum: 2004-09-18
+laatste_update: 2004-09-18
+status: geldig
+toestand: 2004-09-18
+bron: "https://wetten.overheid.nl/BWBR0016961"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2004, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2005 (Verordening PT algemene heffing handel groenten en fruit 2005)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Sectorcommissie voor groenten en fruit, d.d. 24 juni 2004;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -56,8 +28,8 @@ BESLUIT:
 | c. | de handel | : | het aankopen en verkopen van producten aan anderen dan consumenten voor hun persoonlijke behoeften; |
 | d. | het bewerken | : | alle handelingen waarbij van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
 | e. | de ondernemer | : | de natuurlijke of rechtspersoon die een onderneming drijft waarin de handel wordt uitgeoefend in de verse of bewerkte producten: |
-|   |   |   | 1. fruit, met uitzondering van slaggrondnoten en kopra; |
-|   |   |   | 2. groenten, met uitzondering van zaden van groenten; |
+|  |  |  | 1. fruit, met uitzondering van slaggrondnoten en kopra; |
+|  |  |  | 2. groenten, met uitzondering van zaden van groenten; |
 | f. | de aankoopwaarde handel | : | het bedrag van de door de ondernemer gedurende een kalenderjaar aangekochte producten; |
 | g. | de heffingsplichtige | : | de ondernemer die ingevolge deze verordening heffing verschuldigd is; |
 | h. | een afzetorganisatie | : | de natuurlijke of rechtspersoon die in opdracht van of ten behoeve van telers de door hen geteelde producten verkoopt; |
@@ -101,11 +73,11 @@ Indien de heffingsplichtige de gegevens die hem krachtens of ten behoeve van de 
 
 2. Iedere heffingsnota is gedagtekend en bevat ten minste:
 
-- a. naam en adres van de heffingsplichtige;
+- a naam en adres van de heffingsplichtige;
 
-- b. een specificatie of toelichting omtrent de wijze waarop de heffing is berekend, en
+- b een specificatie of toelichting omtrent de wijze waarop de heffing is berekend, en
 
-- c. het totaal van de heffing.
+- c het totaal van de heffing.
 
 3. in afwijking van het eerste lid, kan de voorzitter de heffingsplichtige een voorlopige heffing opleggen tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
@@ -123,11 +95,11 @@ De voorzitter kan, indien hem uit te zijner beschikking gekomen gegevens blijkt 
 
 2. In afwijking van het eerste lid is de nota terstond invorderbaar:
 
-- a. zodra het faillissement van de heffingsplichtige is aangevraagd;
+- a zodra het faillissement van de heffingsplichtige is aangevraagd;
 
-- b. zodra de ondernemer het drijven van de onderneming beëindigt of van het voornemen daartoe blijkt, of
+- b zodra de ondernemer het drijven van de onderneming beëindigt of van het voornemen daartoe blijkt, of
 
-- c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt
+- c zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt
 
 ##### Artikel 8
 

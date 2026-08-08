@@ -1,117 +1,94 @@
 ---
 title: "Wet van 18 december 2003 tot wijziging van enkele belastingwetten c.a. (Overige fiscale maatregelen 2004)"
+citeertitel: "Wijzigingswet belastingwetten c.a. (Overige fiscale maatregelen 2004)"
 identifier: "BWBR0016207"
-country: "nl"
-rank: "wet"
-publication_date: "2004-01-01"
-last_updated: "2004-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016207"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "5567503"
-version_id: "10001782"
-internal_id: "C13517631"
-label_id: "5539094"
-original_entry_into_force: "2004-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016207/2004-01-01/0"
-intitule_bron: "Stb.2003-527"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-12-18"
-intitule_published: "2003-12-29"
-intitule_in_force: "2003-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2003-527"
-original_signed_date: "2003-12-18"
-original_published_date: "2003-12-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "29035"
-original_url_id: "stb-2003-527"
-entry_into_force_date: "2004-01-01"
-entry_into_force_dossier: "29035"
-jci_1_3: "jci1.3:c:BWBR0016207&z=2004-01-01&g=2004-01-01"
-jci_1_0: "1.0:c:BWBR0016207&g=2004-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet belastingwetten c.a. (Overige fiscale maatregelen 2004)"
-signed_date: "2003-12-18"
-entry_into_force: "2004-01-01"
+publicatiedatum: 2004-01-01
+laatste_update: 2004-01-01
+status: geldig
+toestand: 2004-01-01
+bron: "https://wetten.overheid.nl/BWBR0016207"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 18 december 2003 tot wijziging van enkele belastingwetten c.a. (Overige fiscale maatregelen 2004)
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt Invoeringswet Wet inkomstenbelasting 2001.
+*Wijzigt Invoeringswet Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IV
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel V
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel VI
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XI
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XII
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XIII
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XIV
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XV
 
-Wijzigt de Coördinatiewet Sociale Verzekering.
+*Wijzigt de Coördinatiewet Sociale Verzekering.*
 
 ##### Artikel XVI
 
-Wijzigt de Kostenwet invordering rijksbelastingen.
+*Wijzigt de Kostenwet invordering rijksbelastingen.*
 
 ##### Artikel XVII
 
-Wijzigt de Mijnbouwwet.
+*Wijzigt de Mijnbouwwet.*
 
 ##### Artikel XVIII
 
-Wijzigt de Goedkeuringswet Verdrag tussen Nederland en België tot het vermijden van dubbele belastingen en voorkomen van het ontgaan van belasting inzake belastingen naar inkomen en vermogen.
+*Wijzigt de Goedkeuringswet Verdrag tussen Nederland en België tot het vermijden van dubbele belastingen en voorkomen van het ontgaan van belasting inzake belastingen naar inkomen en vermogen.*
 
 ##### Artikel XIX
 
-Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2003 Deel I).
+*Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2003 Deel I).*
 
 ##### Artikel XX
 
@@ -148,13 +125,3 @@ Indien het bij koninklijke boodschap van 23 mei 2003 ingediende voorstel van wet
 2. In afwijking in zoverre van het eerste lid, treedt [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0016207&artikel=I&z=2004-01-01&g=2004-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 3. In afwijking in zoverre van het eerste lid treedt [artikel XXa](https://wetten.overheid.nl/jci1.3:c:BWBR0016207&artikel=XXA&z=2004-01-01&g=2004-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht heeft tot 1 januari 2004.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2004 wenselijk is in een aantal belastingwetten wijzigingen, versoepelingen, bijstellingen, alsmede enkele technische reparaties aan te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

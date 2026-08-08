@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0050931"
-opgehaald: 2026-08-07
+opgehaald: 2026-08-08
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 28 maart 2025, nr.1667475, houdende voorwaarden waaronder bekostigde HO- en MBO-instellingen met publieke middelen mogen investeren in private activiteiten (Beleidsregel investeren met publieke middelen in private activiteiten 2025)

@@ -8,7 +8,7 @@ laatste_update: 2016-09-30
 status: geldig
 toestand: 2016-09-30
 bron: "https://wetten.overheid.nl/BWBV0005914"
-opgehaald: 2026-08-07
+opgehaald: 2026-08-08
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Federale Democratische Republiek Ethiopië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

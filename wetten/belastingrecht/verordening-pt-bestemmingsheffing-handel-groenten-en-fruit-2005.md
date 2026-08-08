@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2004, houdende de vaststelling van een bestemmingsheffing ten behoeve van de handel in groenten en fruit voor het jaar 2005 (Verordening PT bestemmingsheffing handel groenten en fruit 2005)"
+citeertitel: "Verordening PT bestemmingsheffing handel groenten en fruit 2005"
 identifier: "BWBR0016965"
-country: "nl"
-rank: "pbo"
-publication_date: "2004-11-06"
-last_updated: "2004-11-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016965"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "6725443"
-version_id: "11576272"
-internal_id: "C15600691"
-label_id: "6713904"
-original_entry_into_force: "2004-11-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016965/2004-11-06/0"
-intitule_bron: "Vbbo.2004-66"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-01"
-intitule_published: "2004-11-05"
-intitule_in_force: "2004-11-05"
-intitule_status: "goed"
-original_publication: "Vbbo.2004-66"
-original_signed_date: "2004-07-01"
-original_published_date: "2004-11-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2004-11-06"
-jci_1_3: "jci1.3:c:BWBR0016965&z=2004-11-06&g=2004-11-06"
-jci_1_0: "1.0:c:BWBR0016965&g=2004-11-06"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bestemmingsheffing handel groenten en fruit 2005"
-signed_date: "2004-07-01"
-entry_into_force: "2004-11-06"
+publicatiedatum: 2004-11-06
+laatste_update: 2004-11-06
+status: geldig
+toestand: 2004-11-06
+bron: "https://wetten.overheid.nl/BWBR0016965"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2004, houdende de vaststelling van een bestemmingsheffing ten behoeve van de handel in groenten en fruit voor het jaar 2005 (Verordening PT bestemmingsheffing handel groenten en fruit 2005)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14, van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Sectorcommissie voor groenten en fruit, d.d. 24 juni 2004;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -56,8 +28,8 @@ BESLUIT:
 | c. | de handel: | het aankopen en verkopen van producten aan anderen dan consumenten voor hun persoonlijke behoeften; |
 | d. | het bewerken: | alle handelingen waarbij van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
 | e. | de ondernemer: | de natuurlijke of rechtspersoon die een onderneming drijft waarin de handel wordt uitgeoefend in de verse of bewerkte producten: |
-|   |   | 1. fruit, met uitzondering van slaggrondnoten en kopra; |
-|   |   | 2. groenten, met uitzondering van zaden van groenten; |
+|  |  | 1. fruit, met uitzondering van slaggrondnoten en kopra; |
+|  |  | 2. groenten, met uitzondering van zaden van groenten; |
 | f. | de aankoopwaarde handel: | het bedrag van de door de ondernemer, al dan niet via een afzetorganisatie, gedurende een kalenderjaar bij tellers aangekochte en in Nederland geteelde groenten en fruitproducten; |
 | g. | de heffingsplichtige: | de ondernemer die ingevolge deze verordening heffing verschuldigd is; |
 | h. | een afzetorganisatie: | de natuurlijke of rechtspersoon die in opdracht van of ten behoeve van telers de door hen geteelde producten verkoopt; |
@@ -169,5 +141,3 @@ Deze verordening treedt in werking met ingang van de dag na de datum van publica
 ##### Artikel 14
 
 Deze verordening wordt aangehaald als: Verordening PT bestemmingsheffing handel groenten en fruit 2005.
-
-De verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

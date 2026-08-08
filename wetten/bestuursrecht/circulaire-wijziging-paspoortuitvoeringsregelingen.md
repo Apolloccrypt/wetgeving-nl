@@ -1,39 +1,17 @@
 ---
 title: "Circulaire wijziging paspoortuitvoeringsregelingen"
 identifier: "BWBR0016250"
-country: "nl"
-rank: "circulaire"
-publication_date: "2004-06-15"
-last_updated: "2004-06-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016250"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "6748553"
-version_id: "11598282"
-internal_id: "C15631001"
-label_id: "6736804"
-original_entry_into_force: "2004-06-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016250/2004-06-15/0"
-intitule_bron: "Stcrt.2004-113"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2004-06-17"
-intitule_in_force: "2004-06-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-113"
-original_published_date: "2004-06-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-113-p11-SC65519"
-entry_into_force_date: "2004-06-15"
-jci_1_3: "jci1.3:c:BWBR0016250&z=2004-06-15&g=2004-06-15"
-jci_1_0: "1.0:c:BWBR0016250&g=2004-06-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "2004-06-15"
+publicatiedatum: 2004-06-15
+laatste_update: 2004-06-15
+status: geldig
+toestand: 2004-06-15
+bron: "https://wetten.overheid.nl/BWBR0016250"
+opgehaald: 2026-08-08
 ---
+
 # Circulaire wijziging paspoortuitvoeringsregelingen
-
-Aan: De burgemeester i.a.a. de Hoofden Burgerzaken
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 Bijgaand treft u een ministeriële regeling aan, waarbij onder andere de [Paspoortuitvoeringsregeling Nederland 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012811) (PUN 2001) wordt gewijzigd. De regeling betreft voornamelijk de wijziging van enkele procedures in het aanvraagproces van reisdocumenten, alsmede enige noodzakelijke redactionele aanpassingen. De regeling is voorzien van een toelichting, waarin nader op de wijzigingen wordt ingegaan. In het bijzonder vraag ik uw aandacht voor de nieuwe procedure bij het aanvragen van Nederlandse reisdocumenten voor vreemdelingen door in Nederland geboren kinderen van toegelaten vluchtelingen.
 

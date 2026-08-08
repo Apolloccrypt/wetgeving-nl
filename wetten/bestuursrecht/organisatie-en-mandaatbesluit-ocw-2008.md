@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0023543"
-opgehaald: 2026-08-07
+opgehaald: 2026-08-08
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 19 februari 2008, nr. P&O/2007/53275, houdende vaststelling van het Organisatie- en mandaatbesluit OCW 2008 (Organisatie- en mandaatbesluit OCW 2008)

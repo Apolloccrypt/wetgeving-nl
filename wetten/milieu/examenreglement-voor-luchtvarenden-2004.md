@@ -1,44 +1,18 @@
 ---
 title: "Regeling tot vaststelling van een nieuw examenreglement met betrekking tot bewijzen van bevoegdheid voor de luchtvaart (Examenreglement voor luchtvarenden 2004)"
+citeertitel: "Examenreglement voor luchtvarenden 2004"
 identifier: "BWBR0017237"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017237"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "6156433"
-version_id: "27718822"
-internal_id: "C39100541"
-label_id: "6145834"
-dtd_version: "2.0"
-original_entry_into_force: "2021-04-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017237/2024-01-01/0"
-intitule_bron: "Stcrt.2004-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-09-24"
-intitule_published: "2004-09-29"
-intitule_in_force: "2004-09-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-18496"
-original_signed_date: "2021-04-15"
-original_published_date: "2021-04-19"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2021-18496"
-entry_into_force_date: "2021-04-20"
-jci_1_3: "jci1.3:c:BWBR0017237&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0017237&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Examenreglement voor luchtvarenden 2004"
-signed_date: "2021-04-15"
-entry_into_force: "2021-04-20"
+publicatiedatum: 2021-04-20
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0017237"
+opgehaald: 2026-08-08
 ---
+
 # Regeling tot vaststelling van een nieuw examenreglement met betrekking tot bewijzen van bevoegdheid voor de luchtvaart (Examenreglement voor luchtvarenden 2004)
-
-Gelet op de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=14), en [16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=16);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -58,11 +32,11 @@ Besluit:
 
 - CPL: bewijs van bevoegdheid voor commercieel vlieger (Commercial Pilot Licence);
 
-- deel BFCL: bijlage III bij Verordening (EU) 2018/395 van de Commissie van 13 maart 2018 tot vaststelling van gedetailleerde regels voor vluchtuitvoeringen met ballonnen en voor bewijzen van bevoegdheid voor de bemanning van ballonnen overeenkomstig Verordening (EU) 2018/1139 van het Europees parlement en de Raad (PbEU 2018, L 71);
+- deel BFCL: bijlage III bij Verordening (EU) 2018/395 van de Commissie van 13 maart 2018 tot vaststelling van gedetailleerde regels voor vluchtuitvoeringen met ballonnen en voor bewijzen van bevoegdheid voor de bemanning van ballonnen overeenkomstig Verordening (EU) 2018/1139 van het Europees parlement en de Raad (PbEU 2018, L 71);
 
-- **deel FCL:** bijlage I bij verordening (EU) nr. 1178/2011 betreffende de eisen voor de afgifte van bewijzen van bevoegdheid en bijbehorende bevoegdverklaringen en certificaten voor bestuurders van luchtvaartuigen en de voorwaarden voor de geldigheid en het gebruik ervan;
+- *deel FCL:* bijlage I bij verordening (EU) nr. 1178/2011 betreffende de eisen voor de afgifte van bewijzen van bevoegdheid en bijbehorende bevoegdverklaringen en certificaten voor bestuurders van luchtvaartuigen en de voorwaarden voor de geldigheid en het gebruik ervan;
 
-- deel SFCL: bijlage III bij Uitvoeringsverordening (EU) 2018/1976 van de Commissie van 14 december 2018 tot vaststelling van gedetailleerde regels voor vluchtuitvoeringen met zweefvliegtuigen overeenkomstig Verordening (EU) 2018/1139 van het Europees parlement en de Raad (PbEU 2018, L 326);
+- deel SFCL: bijlage III bij Uitvoeringsverordening (EU) 2018/1976 van de Commissie van 14 december 2018 tot vaststelling van gedetailleerde regels voor vluchtuitvoeringen met zweefvliegtuigen overeenkomstig Verordening (EU) 2018/1139 van het Europees parlement en de Raad (PbEU 2018, L 326);
 
 - EIR: bevoegdverklaring ‘en route’-instrumentvliegen;
 
@@ -86,7 +60,7 @@ Besluit:
 
 - stichting: Stichting Theorie Examens Ballonvaren en Zweefvliegen (STEBZ), te Woerden;
 
-- theorie-examen: het onderzoek naar de mate waarin een kandidaat voldoet aan de kenniseisen, bedoeld in deel FCL, deel SFCL of deel BFCL ten behoeve van afgifte van een bewijs van bevoegdheid of een bevoegdverklaring.
+- theorie-examen: het onderzoek naar de mate waarin een kandidaat voldoet aan de kenniseisen, bedoeld in deel FCL, deel SFCL of deel BFCL ten behoeve van afgifte van een bewijs van bevoegdheid of een bevoegdverklaring.
 
 3. In deze regeling wordt met de volgende toevoegingen bedoeld:
 
@@ -101,6 +75,14 @@ Besluit:
 - e. S: de categorie zweefvliegtuigen.
 
 #### § 2. Theorie-examen
+
+##### Artikel 1a
+
+1. Het theorie-examen voor de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde bewijzen van bevoegdheid wordt afgenomen door het CBR.
+
+2. Het theorie-examen voor de bewijzen van bevoegdheid BPL en SPL wordt afgenomen door de stichting.
+
+3. Het deel van het theorie-examen GC voor het bewijs van bevoegdheid RPL(GC) dat betreft de kennis over de theorie zoals vastgelegd in [bijlage 8 bij de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=8) wordt afgenomen door een houder van het examinatorcertificaat RFE(GC).
 
 ##### Artikel 2
 
@@ -118,13 +100,25 @@ Van de theorie-examens wordt informatie over de examenplanning en de examenlocat
 
 2. Het CBR verstrekt de kandidaat voor het theorie-examen een toelatingsbewijs, dat:
 
-- a. voor ATPL, CPL, IR, EIR, BIR, PPL, LAPL(A) en LAPL(H) geldig is conform bijlage I (deel FCL) van verordening (EU) nr. 1178/2011;
+- a. voor ATPL, CPL, IR, EIR, BIR, PPL, LAPL(A) en LAPL(H) geldig is conform bijlage I (deel FCL) van verordening (EU) nr. 1178/2011;
 
-- b. geldig is voor een schriftelijk examen als bedoeld in Bijlage III, onderdeel B Conversie bewijzen van bevoegdheid, van verordening (EU) nr. 1178/2011;
+- b. geldig is voor een schriftelijk examen als bedoeld in Bijlage III, onderdeel B Conversie bewijzen van bevoegdheid, van verordening (EU) nr. 1178/2011;
 
 - c. geldig is voor een schriftelijk militair overbruggingsexamen ATPL(A) Transport, ATPL(A) Jet of ATPL(H)/IR Helicopter.
 
 3. Het in het tweede lid bedoelde toelatingsbewijs vermeldt het persoonsgebonden registratienummer en de geldigheidsduur van het toelatingsbewijs, te weten 18 maanden, gerekend vanaf de laatste dag van de kalendermaand waarin de kandidaat voor het eerst aan een examenzitting heeft deelgenomen.
+
+##### Artikel 3a
+
+1. De kandidaat die beschikt over een voordracht van een daartoe bevoegde opleidingsinstelling voor het doen van theorie-examen voor de brevetten BPL en SPL meldt zich aan voor het afleggen van het betreffende examen bij de stichting op de door de stichting vastgestelde wijze.
+
+2. De toegelaten kandidaat ontvangt van de stichting een toelatingsbewijs, dat geldig is conform deel BFCL of deel SFCL, en het persoonsgebonden registratienummer en de geldigheidsduur van het toelatingsbewijs vermeldt.
+
+##### Artikel 3b
+
+1. De kandidaat die beschikt over een voordracht van een daartoe bevoegde opleidingsinstelling voor het doen van het theorie-examen voor het RPL(GC), meldt zich voor het afleggen van het deel van het theorie-examen, bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2024-01-01&g=2024-01-01), aan bij de houder van het examinatorcertificaat RFE(GC). De voordracht is twaalf maanden geldig.
+
+2. De toegelaten kandidaat ontvangt van de houder van het examinatorcertificaat RFE(GC) een toelatingsbewijs, dat het persoonsgebonden registratienummer en de geldigheidsduur van het toelatingsbewijs vermeldt.
 
 ##### Artikel 4
 
@@ -136,7 +130,7 @@ Van de theorie-examens wordt informatie over de examenplanning en de examenlocat
 
 - c. in het bezit is van een geldig toelatingsbewijs als bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), [3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3a&z=2024-01-01&g=2024-01-01), dan wel [3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3b&z=2024-01-01&g=2024-01-01).
 
-2. Aanvullende eisen voor toelating tot het theorie-examen worden vastgesteld en bekendgemaakt door het CBR, de stichting, of de houder van het examinatorcertificaat RFE(GC).
+2. Aanvullende eisen voor toelating tot het theorie-examen worden vastgesteld en bekendgemaakt door het CBR, de stichting, of de houder van het examinatorcertificaat RFE(GC).
 
 ##### Artikel 5
 
@@ -144,11 +138,11 @@ Voor het afleggen van een theorie-examen is de kandidaat examengeld verschuldigd
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -156,7 +150,7 @@ Vervallen
 
 2. De taal waarin de theorie-examens worden afgenomen is:
 
-- a. voor ATPL, CPL, BIR, EIR en IR: Engels;
+- a. voor ATPL, CPL, BIR, EIR en IR: Engels;
 
 - b. voor PPL en LAPL: Nederlands;
 
@@ -164,7 +158,11 @@ Vervallen
 
 3. Ten behoeve van de schriftelijke theorie-examens stellen het CBR onderscheidenlijk de stichting een huishoudelijk reglement vast waarin in ieder geval zijn omschreven het toezicht, de ordemaatregelen en consequenties van het plegen van onregelmatigheden.
 
-4. In afwijking van het derde lid worden de gyrokoptertheorie-examens georganiseerd volgens de in de bijlage bij deze regeling gestelde regels.
+4. In afwijking van het derde lid worden de gyrokoptertheorie-examens georganiseerd volgens de in de [bijlage](https://wetten.overheid.nl/BWBR0017237) bij deze regeling gestelde regels.
+
+##### Artikel 8a
+
+*Vervallen*
 
 ##### Artikel 9
 
@@ -186,11 +184,21 @@ De minister kan de uitslag van het theorie-examen ongeldig verklaren en een kand
 
 Na het afleggen van een of meer vakken dan wel de afronding van het theorie-examen voor de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde bewijzen van bevoegdheid, voorziet het CBR de kandidaat van een resultaatbrief.
 
+##### Artikel 11a
+
+1. Ter beoordeling van de resultaten van het theorie-examen BPL en SPL doet de stichting de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01), bedoelde percentages, alsmede de bevestiging dat de scores binnen de daarvoor gestelde termijn zijn behaald, onder vermelding van de examendatum aan de minister toekomen.
+
+2. Na het afleggen van een of meer vakken dan wel de afronding van het theorie-examen voor de in het eerste lid bedoelde bewijzen van bevoegdheid, voorziet de stichting de kandidaat van een resultaatbrief.
+
+##### Artikel 11b
+
+Na de afronding van het specifieke GC-deel van het theorie-examen RPL(GC), bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2024-01-01&g=2024-01-01), voorziet de houder van het examinatorcertificaat RFE(GC) de kandidaat van een resultaatbrief.
+
 ##### Artikel 12
 
-1. De kandidaat die het niet eens is met de uitslag van het schriftelijk theorie-examen kan een verzoek om herziening indienen bij het CBR, de stichting dan wel de houder van het examinatorcertificaat RFE(GC).
+1. De kandidaat die het niet eens is met de uitslag van het schriftelijk theorie-examen kan een verzoek om herziening indienen bij het CBR, de stichting dan wel de houder van het examinatorcertificaat RFE(GC).
 
-2. Voorwaarden en eisen omtrent het indienen van een verzoek om herziening worden vastgesteld en bekendgemaakt door het CBR, de stichting dan wel de minister.
+2. Voorwaarden en eisen omtrent het indienen van een verzoek om herziening worden vastgesteld en bekendgemaakt door het CBR, de stichting dan wel de minister.
 
 3. Op verzoek kan de kandidaat, bedoeld in het eerste lid, inzage krijgen in het theorie-examen.
 
@@ -234,7 +242,7 @@ De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van be
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
@@ -248,23 +256,23 @@ Voor de praktijkexamens of proeven van bekwaamheid voor RPL geldt dat:
 
 - d. voor RPL(A), RPL(H) respectievelijk RPL(GC):
 
-- 1°. de kandidaat instructie heeft gevolgd op dezelfde klasse vliegtuig, hetzelfde type helikopter respectievelijk dezelfde klasse gyrokopter als waarop het examen wordt afgelegd, wat betreft RPL(A), RPL(H) en RPL(GC) in overeenstemming met de eisen gesteld aan opleidingsluchtvaartuigen in [bijlage 2 bij de Regeling opleidingsinstellingen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2),
+   - 1°. de kandidaat instructie heeft gevolgd op dezelfde klasse vliegtuig, hetzelfde type helikopter respectievelijk dezelfde klasse gyrokopter als waarop het examen wordt afgelegd, wat betreft RPL(A), RPL(H) en RPL(GC) in overeenstemming met de eisen gesteld aan opleidingsluchtvaartuigen in [bijlage 2 bij de Regeling opleidingsinstellingen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2),
 
-- 2°. extra vlieginstructie kan worden geëist nadat de kandidaat is afgewezen en wordt geëist indien de kandidaat niet in twee pogingen alle secties heeft behaald,
+   - 2°. extra vlieginstructie kan worden geëist nadat de kandidaat is afgewezen en wordt geëist indien de kandidaat niet in twee pogingen alle secties heeft behaald,
 
-- 3°. de kandidaat een onbeperkt aantal examenpogingen mag doen,
+   - 3°. de kandidaat een onbeperkt aantal examenpogingen mag doen,
 
-- 4°. het praktijkexamen geheel, respectievelijk gedeeltelijk wat betreft de niet voltooide secties, opnieuw kan worden afgelegd indien het examen wordt afgebroken door de examinator,
+   - 4°. het praktijkexamen geheel, respectievelijk gedeeltelijk wat betreft de niet voltooide secties, opnieuw kan worden afgelegd indien het examen wordt afgebroken door de examinator,
 
-- 5°. iedere manoeuvre of procedure van het examen door de kandidaat mag worden herhaald,
+   - 5°. iedere manoeuvre of procedure van het examen door de kandidaat mag worden herhaald,
 
-- 6°. de examinator het examen kan afbreken indien de vaardigheid, waarvan de kandidaat blijk geeft, een volledig nieuw examen vereist, en
+   - 6°. de examinator het examen kan afbreken indien de vaardigheid, waarvan de kandidaat blijk geeft, een volledig nieuw examen vereist, en
 
-- 7°. de examinator niet betrokken is bij de bediening van het luchtvaartuig tenzij diens tussenkomst noodzakelijk is in het belang van de veiligheid of teneinde vertraging van overig verkeer te voorkomen.
+   - 7°. de examinator niet betrokken is bij de bediening van het luchtvaartuig tenzij diens tussenkomst noodzakelijk is in het belang van de veiligheid of teneinde vertraging van overig verkeer te voorkomen.
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
@@ -280,11 +288,11 @@ De uitslag van een praktijkexamen voor RPL wordt door de examinator namens de mi
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 #### § 4. Nationaal Expert Team
 
@@ -320,7 +328,11 @@ Vervallen
 
 3. Functionarissen in dienst van het Rijk, van een ander publiekrechtelijk lichaam dan het Rijk of van een door het Rijk in het leven geroepen instelling, dan wel van een instelling welker personeelskosten door het Rijk worden vergoed, ontvangen geen vergoeding als bedoeld in het eerste lid, indien hun benoeming haar oorzaak vindt in de functie die zij vervullen.
 
-#### § 4. Nationaal Expert Team
+##### Artikel 28a
+
+*Vervallen*
+
+#### § 5. Slotbepalingen
 
 ##### Artikel 29
 
@@ -328,104 +340,8 @@ Het [Examenreglement voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 30
 
-Deze regeling treedt in werking met ingang van 1 oktober 2004. Indien de Staatscourant, waarin deze regeling wordt geplaatst, wordt uitgegeven na 29 september 2004, treedt zij in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 oktober 2004.
+Deze regeling treedt in werking met ingang van 1 oktober 2004. Indien de Staatscourant, waarin deze regeling wordt geplaatst, wordt uitgegeven na 29 september 2004, treedt zij in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 oktober 2004.
 
 ##### Artikel 31
 
 Deze regeling wordt aangehaald als: Examenreglement voor luchtvarenden 2004.
-
-## Bijlage 1
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 1
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
-
-##### Artikel 28a
-
-Vervallen
-
-#### § 5. Slotbepalingen
-
-## Bijlage 1
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
-
-##### Artikel 1a
-
-1. Het theorie-examen voor de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde bewijzen van bevoegdheid wordt afgenomen door het CBR.
-
-2. Het theorie-examen voor de bewijzen van bevoegdheid BPL en SPL wordt afgenomen door de stichting.
-
-3. Het deel van het theorie-examen GC voor het bewijs van bevoegdheid RPL(GC) dat betreft de kennis over de theorie zoals vastgelegd in [bijlage 8 bij de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=8) wordt afgenomen door een houder van het examinatorcertificaat RFE(GC).
-
-#### § 3. Praktijkexamen
-
-#### § 4. Nationaal Expert Team
-
-#### § 4. Nationaal Expert Team
-
-## Bijlage 2
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
-
-##### Artikel 3a
-
-1. De kandidaat die beschikt over een voordracht van een daartoe bevoegde opleidingsinstelling voor het doen van theorie-examen voor de brevetten BPL en SPL meldt zich aan voor het afleggen van het betreffende examen bij de stichting op de door de stichting vastgestelde wijze.
-
-2. De toegelaten kandidaat ontvangt van de stichting een toelatingsbewijs, dat geldig is conform deel BFCL of deel SFCL, en het persoonsgebonden registratienummer en de geldigheidsduur van het toelatingsbewijs vermeldt.
-
-##### Artikel 8a
-
-Vervallen
-
-##### Artikel 11a
-
-1. Ter beoordeling van de resultaten van het theorie-examen BPL en SPL doet de stichting de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01), bedoelde percentages, alsmede de bevestiging dat de scores binnen de daarvoor gestelde termijn zijn behaald, onder vermelding van de examendatum aan de minister toekomen.
-
-2. Na het afleggen van een of meer vakken dan wel de afronding van het theorie-examen voor de in het eerste lid bedoelde bewijzen van bevoegdheid, voorziet de stichting de kandidaat van een resultaatbrief.
-
-#### § 3. Praktijkexamen
-
-#### § 5. Slotbepalingen
-
-## Bijlage 1
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 2
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
-
-##### Artikel 3b
-
-1. De kandidaat die beschikt over een voordracht van een daartoe bevoegde opleidingsinstelling voor het doen van het theorie-examen voor het RPL(GC), meldt zich voor het afleggen van het deel van het theorie-examen, bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2024-01-01&g=2024-01-01), aan bij de houder van het examinatorcertificaat RFE(GC). De voordracht is twaalf maanden geldig.
-
-2. De toegelaten kandidaat ontvangt van de houder van het examinatorcertificaat RFE(GC) een toelatingsbewijs, dat het persoonsgebonden registratienummer en de geldigheidsduur van het toelatingsbewijs vermeldt.
-
-##### Artikel 11b
-
-Na de afronding van het specifieke GC-deel van het theorie-examen RPL(GC), bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2024-01-01&g=2024-01-01), voorziet de houder van het examinatorcertificaat RFE(GC) de kandidaat van een resultaatbrief.
-
-#### § 3. Praktijkexamen
-
-#### § 5. Slotbepalingen
-
-## Bijlage. behorende bij [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), van het Examenreglement voor luchtvarenden 2004
-
-### Organisatie van de theorie-examens ten behoeve van het RPL(GC)
-
-### 1. Algemeen
-
-### 2. Gyrokopterspecifiek deel van het theorie-examen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.

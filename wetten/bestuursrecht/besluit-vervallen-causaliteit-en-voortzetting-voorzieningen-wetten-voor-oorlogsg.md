@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 16 juni 2004, houdende regeling betreffende het vervallen van de causaliteitseis voor de toekenning van een vergoeding van of tegemoetkoming in de kosten van voorzieningen en het voortzetten van een vergoeding van of tegemoetkoming in de kosten van voorzieningen na het overlijden van de gerechtigde in de wetten voor oorlogsgetroffenen (Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen)"
+citeertitel: "Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen"
 identifier: "BWBR0016871"
-country: "nl"
-rank: "amvb"
-publication_date: "2004-06-30"
-last_updated: "2004-06-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016871"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "5933773"
-version_id: "10514732"
-internal_id: "C29460711"
-label_id: "5923424"
-original_entry_into_force: "2004-06-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016871/2004-06-30/0"
-intitule_bron: "Stb.2004-282"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-06-16"
-intitule_published: "2004-06-29"
-intitule_in_force: "2004-06-29"
-intitule_status: "goed"
-original_publication: "Stb.2004-282"
-original_signed_date: "2004-06-16"
-original_published_date: "2004-06-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2004-282"
-entry_into_force_date: "2004-06-30"
-jci_1_3: "jci1.3:c:BWBR0016871&z=2004-06-30&g=2004-06-30"
-jci_1_0: "1.0:c:BWBR0016871&g=2004-06-30"
-citeertitel_status: "officieel"
-short_title: "Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen"
-signed_date: "2004-06-16"
-entry_into_force: "2004-06-30"
+publicatiedatum: 2004-06-30
+laatste_update: 2004-06-30
+status: geldig
+toestand: 2004-06-30
+bron: "https://wetten.overheid.nl/BWBR0016871"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 16 juni 2004, houdende regeling betreffende het vervallen van de causaliteitseis voor de toekenning van een vergoeding van of tegemoetkoming in de kosten van voorzieningen en het voortzetten van een vergoeding van of tegemoetkoming in de kosten van voorzieningen na het overlijden van de gerechtigde in de wetten voor oorlogsgetroffenen (Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen)
-
-Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 mei 2004, kenmerk OHW-U-2475721;
-
-Gelet op [artikel 11a, tweede en derde lid, van de Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=11a), [artikel 3, zevende en achtste lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=3), [artikel 15, tweede en derde lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=15), [artikel 21a, tweede en derde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=21a) en [artikel 33a, eerste en tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=33a);
-
-De Raad van State gehoord (advies van 25 mei 2004, nummer W13.04.0169/III);
-
-Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 juni 2004, kenmerk OHW-U-2486973;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -116,5 +85,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,37 +1,16 @@
 ---
 title: "Fiscale beleidsregels oktober 2004"
 identifier: "BWBR0017521"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-11-17"
-last_updated: "2004-11-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017521"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6708733"
-version_id: "11549532"
-internal_id: "C15572591"
-label_id: "6697024"
-original_entry_into_force: "2004-11-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017521/2004-11-17/0"
-intitule_bron: "Stcrt.2004-222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-13"
-intitule_published: "2004-11-17"
-intitule_in_force: "2004-11-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-222"
-original_signed_date: "2004-11-13"
-original_published_date: "2004-11-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-222-p11-SC67459"
-entry_into_force_date: "2004-11-17"
-jci_1_3: "jci1.3:c:BWBR0017521&z=2004-11-17&g=2004-11-17"
-jci_1_0: "1.0:c:BWBR0017521&g=2004-11-17"
-citeertitel_status: "redactioneel"
-signed_date: "2004-11-13"
-entry_into_force: "2004-11-17"
+publicatiedatum: 2004-11-17
+laatste_update: 2004-11-17
+status: geldig
+toestand: 2004-11-17
+bron: "https://wetten.overheid.nl/BWBR0017521"
+opgehaald: 2026-08-08
 ---
+
 # Fiscale beleidsregels oktober 2004
 
 De Staatssecretaris van Financiën geeft kennis van het volgende.
@@ -46,7 +25,7 @@ Omzetbelasting en verschotten en doorlopende posten
 
 Besluit van 23 september 2004 nr. DGB2004/4800M
 
-[Vrijstelling van inkomstenbelasting voor functionarissen van internationale organisaties](onbekend)
+Vrijstelling van inkomstenbelasting voor functionarissen van internationale organisaties
 
 Besluit van 23 september 2004 nr. IFZ2004/764M
 
@@ -86,7 +65,7 @@ Rechtsvorm; moeder/dochterrichtlijn
 
 Besluit van 5 oktober 2004 nr. CPP2004/1515M
 
-[Autodealer-besluit 2004](onbekend)
+Autodealer-besluit 2004
 
 Besluit van 5 oktober 2004 nr. CPP2004/2051M
 
@@ -94,11 +73,11 @@ Stroomlijning en intensivering wederzijdse bijstand Nederland-Litouwen
 
 Kennisgeving van 5 oktober 2004 nr. DGB2004/4746M, Stcrt. nr. 194
 
-[Margeregeling op ingeruilde gazonmaaiers](onbekend)
+Margeregeling op ingeruilde gazonmaaiers
 
 Besluit van 6 oktober 2004 nr. CPP2004/1592M
 
-Vennootschapsbelasting. [Hybride aandelenoptieregeling](onbekend)
+Vennootschapsbelasting. Hybride aandelenoptieregeling
 
 Besluit van 6 oktober 2004 nr. CPP2004-1351M
 
@@ -174,6 +153,6 @@ Begrip afvalstoffen in de afvalstoffenbelasting
 
 Besluit van 19 oktober 2004 nr. CPP2004-1172M
 
-[Terbeschikkingstellingsregeling](onbekend) en call-optie
+Terbeschikkingstellingsregeling en call-optie
 
 Besluit van 20 oktober 2004 nr. CPP2004-1901M

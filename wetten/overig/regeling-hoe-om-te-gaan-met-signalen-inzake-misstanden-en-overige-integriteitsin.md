@@ -1,51 +1,18 @@
 ---
 title: "Vaststelling klokkenluidersregeling (Beschikking van 3 mei 2004, nr. ICO 2004-1048)"
+citeertitel: "Regeling hoe om te gaan met signalen inzake misstanden en overige integriteitsinbreuken"
 identifier: "BWBR0016675"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-05-15"
-last_updated: "2004-05-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0016675"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5871503"
-version_id: "10448232"
-internal_id: "C14186881"
-label_id: "5851474"
-original_entry_into_force: "2004-05-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0016675/2004-05-15/0"
-intitule_bron: "Stcrt.2004-97"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-05-03"
-intitule_published: "2004-05-25"
-intitule_in_force: "2004-05-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-97"
-original_signed_date: "2004-05-03"
-original_published_date: "2004-05-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-97-p14-SC65070"
-entry_into_force_date: "2004-05-15"
-jci_1_3: "jci1.3:c:BWBR0016675&z=2004-05-15&g=2004-05-15"
-jci_1_0: "1.0:c:BWBR0016675&g=2004-05-15"
-citeertitel_status: "officieel"
-short_title: "Regeling hoe om te gaan met signalen inzake misstanden en overige integriteitsinbreuken"
-signed_date: "2004-05-03"
-entry_into_force: "2004-05-15"
+publicatiedatum: 2004-05-15
+laatste_update: 2004-05-15
+status: geldig
+toestand: 2004-05-15
+bron: "https://wetten.overheid.nl/BWBR0016675"
+opgehaald: 2026-08-08
 ---
+
 # Vaststelling klokkenluidersregeling (Beschikking van 3 mei 2004, nr. ICO 2004-1048)
-
-Overwegende dat het wenselijk is om voor de medewerkers van het kerndepartement van Financiën een regeling vast te stellen hoe om te gaan met signalen inzake misstanden en overige integriteitsinbreuken;
-
-Gelet op [artikel 50 van het Algemeen Rijksambtenarenreglement (ARAR)](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=50);
-
-Gelet op de [regeling procedure inzake het omgaan met een vermoeden van een misstand](https://wetten.overheid.nl/jci1.3:c:BWBR0011899) nr. AD/2000/U98929 van 7 december 2000 (Stcrt. 2000, nr. 243) van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, zoals deze regeling nadien is gewijzigd (Stcrt. 2002, nr. 249);
-
-Gehoord de departementale ondernemingsraad;
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### § 1. Algemene bepalingen
 
@@ -69,31 +36,31 @@ In deze regeling wordt verstaan onder:
 
 - h. integriteitsinbreuken: gedragingen, handelingen of uitingen die in strijd zijn met wet- en regelgeving of conventies op het gebied van integriteit; hiertoe behoren:
 
-- –. misstanden als bedoeld onder letter i;
+   - – misstanden als bedoeld onder letter i;
 
-- –. overige inbreuken als bedoeld onder letter j;
+   - – overige inbreuken als bedoeld onder letter j;
 
 - i. een vermoeden van een misstand: een op redelijke gronden gebaseerd vermoeden omtrent:
 
-- –. een ernstig strafbaar feit;
+   - – een ernstig strafbaar feit;
 
-- –. een grove schending van regelgeving of beleidsregels;
+   - – een grove schending van regelgeving of beleidsregels;
 
-- –. het misleiden van justitie;
+   - – het misleiden van justitie;
 
-- –. een groot gevaar voor de volksgezondheid, de veiligheid of het milieu, of
+   - – een groot gevaar voor de volksgezondheid, de veiligheid of het milieu, of
 
-- –. het bewust achterhouden van informatie over deze feiten;
+   - – het bewust achterhouden van informatie over deze feiten;
 
 - j. overige integriteitsinbreuken: andere inbreuken dan de onder letter i bedoelde misstanden; hiertoe behoren in elk geval:
 
-- –. het lekken van vertrouwelijke informatie;
+   - – het lekken van vertrouwelijke informatie;
 
-- –. oneigenlijk gebruik van bedrijfsmiddelen;
+   - – oneigenlijk gebruik van bedrijfsmiddelen;
 
-- –. misbruik van buitengewoon verlof;
+   - – misbruik van buitengewoon verlof;
 
-- –. andere gevallen die door medewerkers als integriteitsinbreuken worden ervaren, met uitzondering van ongewenste omgangsvormen;
+   - – andere gevallen die door medewerkers als integriteitsinbreuken worden ervaren, met uitzondering van ongewenste omgangsvormen;
 
 - k. de Commissie integriteit rijksoverheid: de commissie als beschreven in hoofdstuk 3 van de Regeling procedure inzake het omgaan met het vermoeden van een misstand, die is genoemd in de considerans.
 

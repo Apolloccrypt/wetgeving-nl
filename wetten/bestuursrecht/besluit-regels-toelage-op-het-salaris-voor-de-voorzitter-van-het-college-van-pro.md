@@ -1,38 +1,17 @@
 ---
 title: "Besluit van 9 augustus 2004, houdende regels met betrekking tot de toelage op het salaris voor de voorzitter van het College van procureurs-generaal"
+citeertitel: "Besluit regels toelage op het salaris voor de voorzitter van het College van procureurs-generaal"
 identifier: "BWBR0017085"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-07-01"
-last_updated: "2010-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017085"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "6028733"
-version_id: "10643302"
-internal_id: "C14459151"
-label_id: "6018054"
-original_entry_into_force: "2004-08-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017085/2010-07-01/0"
-intitule_bron: "Stb.2004-403"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-08-09"
-intitule_published: "2004-08-19"
-intitule_in_force: "2004-08-19"
-intitule_status: "goed"
-original_publication: "Stb.2004-403"
-original_signed_date: "2004-08-09"
-original_published_date: "2004-08-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2004-403"
-entry_into_force_date: "2004-08-20"
-jci_1_3: "jci1.3:c:BWBR0017085&z=2010-07-01&g=2010-07-01"
-jci_1_0: "1.0:c:BWBR0017085&g=2010-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit regels toelage op het salaris voor de voorzitter van het College van procureurs-generaal"
-signed_date: "2004-08-09"
-entry_into_force: "2004-08-20"
+publicatiedatum: 2004-08-20
+laatste_update: 2010-07-01
+status: geldig
+toestand: 2010-07-01
+bron: "https://wetten.overheid.nl/BWBR0017085"
+opgehaald: 2026-08-08
 ---
+
 # Besluit van 9 augustus 2004, houdende regels met betrekking tot de toelage op het salaris voor de voorzitter van het College van procureurs-generaal
 
 ##### Artikel 1
@@ -45,20 +24,8 @@ Voor de toepasselijkheid van het bij en krachtens de [Wet rechtspositie rechterl
 
 ##### Artikel 3
 
-Wijzigt het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak.
+*Wijzigt het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak.*
 
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt wat de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017085&artikel=1&z=2010-07-01&g=2010-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017085&artikel=2&z=2010-07-01&g=2010-07-01) betreft terug tot en met het tijdstip waarop [artikel I, onderdeel Q, van de Veegwet modernisering rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0016728&artikel=I) in werking is getreden.
-
-Op de voordracht van Onze Minister van Justitie van 2 juli 2004, nr. 5295112/04/6;
-
-Gelet op [artikel 130, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=130);
-
-De Raad van State gehoord (advies van 15 juli 2004, nr. W03.04.0328/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 29 juli 2004, nr. 5300659/04/6;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

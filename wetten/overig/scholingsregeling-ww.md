@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 augustus 2004, Directie Sociale Verzekeringen, nr. 04/57292, houdende vaststelling van regels over de noodzakelijke opleiding of scholing bedoeld in artikel 76 Werkloosheidswet (Scholingsregeling WW)"
+citeertitel: "Scholingsregeling WW"
 identifier: "BWBR0017139"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-03-27"
-last_updated: "2021-03-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017139"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "6051543"
-version_id: "25908342"
-internal_id: "C36917861"
-label_id: "6040814"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017139/2021-03-27/0"
-intitule_bron: "Stcrt.2004-163"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-08-25"
-intitule_published: "2004-08-26"
-intitule_in_force: "2004-08-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-36341"
-original_signed_date: "2019-06-25"
-original_published_date: "2019-07-03"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2019-36341"
-entry_into_force_date: "2019-07-04"
-jci_1_3: "jci1.3:c:BWBR0017139&z=2021-03-27&g=2021-03-27"
-jci_1_0: "1.0:c:BWBR0017139&g=2021-03-27"
-citeertitel_status: "officieel"
-short_title: "Scholingsregeling WW"
-signed_date: "2019-06-25"
-entry_into_force: "2019-07-04"
+publicatiedatum: 2019-07-04
+laatste_update: 2021-03-27
+status: geldig
+toestand: 2021-03-27
+bron: "https://wetten.overheid.nl/BWBR0017139"
+opgehaald: 2026-08-08
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 augustus 2004, Directie Sociale Verzekeringen, nr. 04/57292, houdende vaststelling van regels over de noodzakelijke opleiding of scholing bedoeld in artikel 76 Werkloosheidswet (Scholingsregeling WW)
-
-Gelet op [artikel 76 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76);
-
-Besluit:
 
 ##### Artikel 1. Noodzakelijke opleiding of scholing
 
@@ -52,7 +26,7 @@ Besluit:
 
 3. De noodzakelijke opleiding of scholing bestaat in overwegende mate uit het verrichten van activiteiten die niet productie als doel hebben.
 
-4. Als noodzakelijke scholing wordt aangemerkt scholing waarvoor een verklaring is afgegeven als bedoeld in [artikel 3.6, vierde lid, van de Regeling cofinanciering sectorplannen 2015](onbekend).
+4. Als noodzakelijke scholing wordt aangemerkt scholing waarvoor een verklaring is afgegeven als bedoeld in artikel 3.6, vierde lid, van de Regeling cofinanciering sectorplannen 2015.
 
 ##### Artikel 2. Duur
 
@@ -68,9 +42,13 @@ Geen recht op uitkering als bedoeld in [artikel 1](https://wetten.overheid.nl/jc
 
 Deze regeling is van toepassing op de werkloze werknemer die op of na de dag van inwerkingtreding van deze regeling een aanvraag heeft ingediend tot deelname aan opleiding of scholing.
 
+##### Artikel 4a. Vervaldatum artikel 2, derde lid
+
+*Vervallen*
+
 ##### Artikel 5. Intrekking
 
-De regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 december 1990 houdende vaststelling van regels als bedoeld in [artikel 76, eerste en tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76) wordt ingetrokken.
+De regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 december 1990 houdende vaststelling van regels als bedoeld in [artikel 76, eerste en tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76) wordt ingetrokken.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -79,11 +57,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Scholingsregeling WW.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a. Vervaldatum [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2021-03-27&g=2021-03-27)
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

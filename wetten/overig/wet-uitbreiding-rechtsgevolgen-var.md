@@ -1,80 +1,50 @@
 ---
 title: "Wet van 23 december 2004 tot wijziging van de werknemersverzekeringswetten, de Coördinatiewet Sociale Verzekering, de Wet inkomstenbelasting 2001 en de Wet op de loonbelasting 1964 in verband met uitbreiding van de rechtsgevolgen van de verklaring arbeidsrelatie (Wet uitbreiding rechtsgevolgen VAR)"
+citeertitel: "Wet uitbreiding rechtsgevolgen VAR"
 identifier: "BWBR0017839"
-country: "nl"
-rank: "wet"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017839"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "6564213"
-version_id: "11369772"
-internal_id: "C15337021"
-label_id: "6552854"
-original_entry_into_force: "2005-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017839/2006-01-01/0"
-intitule_bron: "Stb.2004-720"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-23"
-intitule_published: "2004-12-29"
-intitule_in_force: "2004-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2004-720"
-original_signed_date: "2004-12-23"
-original_published_date: "2004-12-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "29677"
-original_url_id: "stb-2004-720"
-entry_into_force_date: "2005-01-01"
-jci_1_3: "jci1.3:c:BWBR0017839&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0017839&g=2006-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet uitbreiding rechtsgevolgen VAR"
-signed_date: "2004-12-23"
-entry_into_force: "2005-01-01"
+publicatiedatum: 2005-01-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0017839"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 23 december 2004 tot wijziging van de werknemersverzekeringswetten, de Coördinatiewet Sociale Verzekering, de Wet inkomstenbelasting 2001 en de Wet op de loonbelasting 1964 in verband met uitbreiding van de rechtsgevolgen van de verklaring arbeidsrelatie (Wet uitbreiding rechtsgevolgen VAR)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+##### Artikel I. Wijziging Werkloosheidswet
 
-Alzo Wij in overweging genomen hebben, dat het, in het kader van het geven van zekerheid wenselijk is de rechtsgevolgen van de op voet van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) afgegeven verklaring arbeidsrelatie uit te breiden naar de werknemersverzekeringswetten en de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471);
+*Wijzigt de Werkloosheidswet.*
 
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+##### Artikel II. Wijziging Wet op de arbeidsongeschiktheidsverzekering
 
-De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
-##### Artikel I. Wijziging [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel III. Wijziging Ziektewet
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Ziektewet.*
 
-##### Artikel II. Wijziging [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel IV. Wijziging Coördinatiewet sociale verzekering
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
-
-##### Artikel III. Wijziging [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
-
-Wijzigt de Ziektewet.
-
-##### Artikel IV. Wijziging [Coördinatiewet sociale verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126)
-
-Wijzigt de Coördinatiewet sociale verzekering.
+*Wijzigt de Coördinatiewet sociale verzekering.*
 
 ##### Artikel IVa. Wijziging Wet financiering sociale verzekeringen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel IVb. Nummering artikel IVa
 
-Vervallen
+*Vervallen*
 
-##### Artikel V. Wijziging [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
+##### Artikel V. Wijziging Wet inkomstenbelasting 2001
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
-##### Artikel VI. Wijziging [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
+##### Artikel VI. Wijziging Wet op de loonbelasting 1964
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VII. Overgangsrecht
 
@@ -86,7 +56,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid zendt in overeenstemming met 
 
 ##### Artikel VIIIa. Wijzigingsartikel in verband met langdurend zorgverlof
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel IX. Citeertitel
 
@@ -95,5 +65,3 @@ Deze wet wordt aangehaald als: Wet uitbreiding rechtsgevolgen VAR.
 ##### Artikel X. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. In het koninklijk besluit wordt zo nodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16).
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

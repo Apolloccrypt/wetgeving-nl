@@ -1,48 +1,18 @@
 ---
 title: "Wet van 9 november 2004, houdende regels omtrent de vaste boekenprijs (Wet op de vaste boekenprijs)"
+citeertitel: "Wet op de vaste boekenprijs"
 identifier: "BWBR0017452"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017452"
+categorie: "Overig"
 soort: "wet"
-stam_id: "6369243"
-version_id: "11031412"
-internal_id: "C14970271"
-label_id: "6358474"
-original_entry_into_force: "2005-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017452/2021-07-01/0"
-intitule_bron: "Stb.2004-600"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-09"
-intitule_published: "2004-11-25"
-intitule_in_force: "2004-12-07"
-intitule_status: "goed"
-original_publication: "Stb.2004-600"
-original_signed_date: "2004-11-09"
-original_published_date: "2004-11-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "28652"
-original_url_id: "stb-2004-600"
-entry_into_force_date: "2005-01-01"
-jci_1_3: "jci1.3:c:BWBR0017452&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0017452&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de vaste boekenprijs"
-signed_date: "2004-11-09"
-entry_into_force: "2005-01-01"
+publicatiedatum: 2005-01-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0017452"
+opgehaald: 2026-08-08
 ---
+
 # Wet van 9 november 2004, houdende regels omtrent de vaste boekenprijs (Wet op de vaste boekenprijs)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ter bevordering van een ruim gespreid en breed aanbod wenselijk is regels te stellen omtrent de vaste prijs van boeken en muziekuitgaven;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -54,21 +24,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. boek: een werk dat tekst bevat die vrijwel uitsluitend is gesteld in de Nederlandse of Friese taal, voorzien is van een titel, bestaat uit papieren bladzijden, al dan niet vergezeld van gerelateerde elektronische diensten of ondersteunende informatiedragers, en wordt uitgegeven in een oplage van meerdere exemplaren die voor verkoop aan eindafnemers zijn bestemd, met uitzondering van:
 
-- 1º. nummers van een jaargang van een met regelmatige tussenpozen verschijnende uitgave;
+   - 1º. nummers van een jaargang van een met regelmatige tussenpozen verschijnende uitgave;
 
-- 2º. agenda's en almanakken die in de titel het jaartal van de gebruiksbestemming vermelden;
+   - 2º. agenda's en almanakken die in de titel het jaartal van de gebruiksbestemming vermelden;
 
-- 3º. catalogi van uitsluitend registrerende of opsommende aard;
+   - 3º. catalogi van uitsluitend registrerende of opsommende aard;
 
-- 4º. brochures of daarmee gelijk te stellen korte geschriften;
+   - 4º. brochures of daarmee gelijk te stellen korte geschriften;
 
-- 5º. antiquarische boeken en boeken die reeds eerder door eindafnemers bij een verkoper zijn gekocht en op enigerlei wijze zijn gebruikt;
+   - 5º. antiquarische boeken en boeken die reeds eerder door eindafnemers bij een verkoper zijn gekocht en op enigerlei wijze zijn gebruikt;
 
-- 6º. uitgaven van uitsluitend plaatselijk of regionaal belang;
+   - 6º. uitgaven van uitsluitend plaatselijk of regionaal belang;
 
-- 7º. schoolboeken;
+   - 7º. schoolboeken;
 
-- 8º. muziekuitgaven.
+   - 8º. muziekuitgaven.
 
 - c. muziekuitgave: een werk dat notenschrift, al dan niet vergezeld van tekst, bevat, bestaat uit papieren bladzijden, al dan niet vergezeld van ondersteunende informatiedragers, bestemd is voor muziekuitvoering of muziekeducatie en wordt uitgegeven ter verkoop aan eindafnemers, met uitzondering van antiquarische muziekuitgaven en muziekuitgaven die reeds eerder door eindafnemers bij een verkoper zijn gekocht en op enigerlei wijze zijn gebruikt;
 
@@ -136,9 +106,9 @@ De uitgever stelt voor boeken en muziekuitgaven die hij voor het eerst in een be
 
 - e. verkoop van één exemplaar van een boek of muziekuitgave aan een eindafnemer die krachtens arbeidsovereenkomst naar burgerlijk recht werkzaam is bij de verkoper, en de verkoper:
 
-- 1°. het boek uitgeeft, importeert of aan andere eindafnemers verkoopt; of
+   - 1° het boek uitgeeft, importeert of aan andere eindafnemers verkoopt; of
 
-- 2°. de muziekuitgave uitgeeft of aan andere eindafnemers verkoopt;
+   - 2° de muziekuitgave uitgeeft of aan andere eindafnemers verkoopt;
 
 - f. verkoop door een uitgever aan een auteur voor promotioneel gebruik van door die auteur geschreven boeken of muziekuitgaven.
 
@@ -250,7 +220,7 @@ Bij overtreding van het bepaalde bij of krachtens de [hoofdstukken 2 tot en met 
 
 ##### Artikel 18
 
-De in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2021-07-01&g=2021-07-01), bedoelde bestuurlijke boete bedraagt ten hoogste € 90 000.
+De in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2021-07-01&g=2021-07-01), bedoelde bestuurlijke boete bedraagt ten hoogste € 90 000.
 
 ##### Artikel 19
 
@@ -260,35 +230,39 @@ De in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Het Commissariaat kan degene, die jegens de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2021-07-01&g=2021-07-01), bedoelde toezichthouders in strijd handelt met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), een bestuurlijke boete opleggen van ten hoogste € 4 500.
+Het Commissariaat kan degene, die jegens de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2021-07-01&g=2021-07-01), bedoelde toezichthouders in strijd handelt met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), een bestuurlijke boete opleggen van ten hoogste € 4 500.
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
 Het Commissariaat draagt de opbrengsten van opgelegde boetes en verbeurde dwangsommen af aan Onze Minister. Deze opbrengsten dienen ter bestrijding van de kosten van het Commissariaat.
+
+##### Artikel 27a
+
+Op de bevoegdheid een last onder dwangsom op te leggen als bedoeld in [artikel 17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2021-07-01&g=2021-07-01), zijn de [artikelen 5:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) en [5:48 tot en met 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) van overeenkomstige toepassing.
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
@@ -302,7 +276,7 @@ Het Commissariaat draagt de opbrengsten van opgelegde boetes en verbeurde dwangs
 
 - a. andere boeken en muziekuitgaven dan bedoeld in het eerste lid, die op het tijdstip van inwerkingtreding van deze wet al zijn uitgegeven;
 
-- b. verkoop van boeken en muziekuitgaven op grond van voor 28 oktober 2002 gesloten overeenkomsten tussen boekverkopers of muziekhandelaren en eindafnemers.
+- b. verkoop van boeken en muziekuitgaven op grond van voor 28 oktober 2002 gesloten overeenkomsten tussen boekverkopers of muziekhandelaren en eindafnemers.
 
 4. Ten aanzien van overtredingen van de in het eerste lid genoemde Reglementen die begaan zijn vóór het tijdstip van inwerkingtreding van deze wet, blijft het recht zoals dat gold op de dag voorafgaande aan het tijdstip van inwerkingtreding van deze wet van toepassing.
 
@@ -321,13 +295,3 @@ Deze wet wordt aangehaald als: Wet op de vaste boekenprijs.
 ##### Artikel 32
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij terugwerkende kracht kan worden verleend tot en met een daarbij te bepalen tijdstip. In dat besluit wordt zonodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16).
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 27a
-
-Op de bevoegdheid een last onder dwangsom op te leggen als bedoeld in [artikel 17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2021-07-01&g=2021-07-01), zijn de [artikelen 5:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) en [5:48 tot en met 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) van overeenkomstige toepassing.
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
