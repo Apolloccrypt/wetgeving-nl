@@ -1,41 +1,17 @@
 ---
 title: "Beleidsregels arbeidsinschakeling gedeeltelijk arbeidsgeschikten"
 identifier: "BWBR0019353"
-country: "nl"
-rank: "zbo"
-publication_date: "2005-12-30"
-last_updated: "2005-12-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019353"
+categorie: "Arbeidsrecht"
 soort: "zbo"
-stam_id: "7766813"
-version_id: "12675772"
-internal_id: "C29200871"
-label_id: "7754554"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019353/2005-12-30/0"
-intitule_bron: "Stcrt.2005-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-20"
-intitule_published: "2005-12-28"
-intitule_in_force: "2005-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-252"
-original_signed_date: "2005-12-20"
-original_published_date: "2005-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-252-p69-SC73139"
-entry_into_force_date: "2005-12-30"
-jci_1_3: "jci1.3:c:BWBR0019353&z=2005-12-30&g=2005-12-30"
-jci_1_0: "1.0:c:BWBR0019353&g=2005-12-30"
-citeertitel_status: "redactioneel"
-signed_date: "2005-12-20"
-entry_into_force: "2005-12-30"
+publicatiedatum: 2005-12-30
+laatste_update: 2005-12-30
+status: geldig
+toestand: 2005-12-30
+bron: "https://wetten.overheid.nl/BWBR0019353"
+opgehaald: 2026-08-09
 ---
-# Beleidsregels arbeidsinschakeling gedeeltelijk arbeidsgeschikten
 
-Besluit:
+# Beleidsregels arbeidsinschakeling gedeeltelijk arbeidsgeschikten
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -200,5 +176,3 @@ In dit besluit wordt verstaan onder:
 ##### Artikel 16. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 29 december 2005. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 27 december 2005, treedt het besluit in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 29 december 2005.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

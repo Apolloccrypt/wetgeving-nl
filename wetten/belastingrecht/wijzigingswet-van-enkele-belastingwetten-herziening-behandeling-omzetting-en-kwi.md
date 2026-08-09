@@ -1,60 +1,30 @@
 ---
 title: "Wet van 1 december 2005, houdende wijziging van enkele belastingwetten in verband met een herziening van de behandeling van de omzetting en kwijtschelding van afgewaardeerde vorderingen en een aanpassing van de regeling voor afwaarderingsverliezen van deelnemingen"
+citeertitel: "Wijzigingswet van enkele belastingwetten (herziening behandeling omzetting en kwijtschelding van afgewaardeerde vorderingen en aanpassing regeling voor afwaarderingsverliezen van deelnemingen)"
 identifier: "BWBR0019141"
-country: "nl"
-rank: "wet"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019141"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "7649383"
-version_id: "12541852"
-internal_id: "C16842951"
-label_id: "7637104"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019141/2007-01-01/0"
-intitule_bron: "Stb.2005-613"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-01"
-intitule_published: "2005-12-08"
-intitule_in_force: "2005-12-08"
-intitule_status: "goed"
-original_publication: "Stb.2005-613"
-original_signed_date: "2005-12-01"
-original_published_date: "2005-12-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "29686"
-original_url_id: "stb-2005-613"
-entry_into_force_date: "2005-12-09"
-entry_into_force_dossier: "29686"
-jci_1_3: "jci1.3:c:BWBR0019141&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0019141&g=2007-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet van enkele belastingwetten (herziening behandeling omzetting en kwijtschelding van afgewaardeerde vorderingen en aanpassing regeling voor afwaarderingsverliezen van deelnemingen)"
-signed_date: "2005-12-01"
-entry_into_force: "2005-12-09"
+publicatiedatum: 2005-12-09
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0019141"
+opgehaald: 2026-08-09
 ---
+
 # Wet van 1 december 2005, houdende wijziging van enkele belastingwetten in verband met een herziening van de behandeling van de omzetting en kwijtschelding van afgewaardeerde vorderingen en een aanpassing van de regeling voor afwaarderingsverliezen van deelnemingen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met in de praktijk gesignaleerde knelpunten wenselijk is de bepaling op grond waarvan conversiewinst wordt betrokken in de vennootschapsbelasting te laten vervallen, dat het in verband daarmee wenselijk is maatregelen te treffen welke dubbele verliesverrekening in de vennootschapsbelasting en inkomstenbelasting beogen tegen te gaan en dat de regeling voor afwaarderingsverliezen van deelnemingen aanpassing behoeft;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet ondernemerspakket 2001.
+*Wijzigt de Wet ondernemerspakket 2001.*
 
 ##### Artikel IV
 
@@ -62,7 +32,7 @@ Wijzigt de Wet ondernemerspakket 2001.
 
 ##### Artikel V
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VI
 
@@ -85,5 +55,3 @@ Vervallen
 ##### Artikel VII
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

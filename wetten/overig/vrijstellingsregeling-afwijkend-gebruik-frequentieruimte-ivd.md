@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 25 mei 2005, nr. WJZ 5019424, houdende regels ter zake vrijstelling van het toestemmingsvereiste ex artikel 3.10, tweede lid, van de Telecommunicatiewet (Vrijstelling afwijkend gebruik frequentieruimte IVD)"
+citeertitel: "Vrijstellingsregeling afwijkend gebruik frequentieruimte IVD"
 identifier: "BWBR0018355"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-03-15"
-last_updated: "2013-03-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018355"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "7053463"
-version_id: "11924272"
-internal_id: "C16030181"
-label_id: "7041544"
-original_entry_into_force: "2005-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018355/2013-03-15/0"
-intitule_bron: "Stcrt.2005-104"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-05-25"
-intitule_published: "2005-06-02"
-intitule_in_force: "2005-06-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-104"
-original_signed_date: "2005-05-25"
-original_published_date: "2005-06-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-104-p11-SC70149"
-entry_into_force_date: "2005-06-04"
-jci_1_3: "jci1.3:c:BWBR0018355&z=2013-03-15&g=2013-03-15"
-jci_1_0: "1.0:c:BWBR0018355&g=2013-03-15"
-citeertitel_status: "officieel"
-short_title: "Vrijstellingsregeling afwijkend gebruik frequentieruimte IVD"
-signed_date: "2005-05-25"
-entry_into_force: "2005-06-04"
+publicatiedatum: 2005-06-04
+laatste_update: 2013-03-15
+status: geldig
+toestand: 2013-03-15
+bron: "https://wetten.overheid.nl/BWBR0018355"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de Minister van Economische Zaken van 25 mei 2005, nr. WJZ 5019424, houdende regels ter zake vrijstelling van het toestemmingsvereiste ex artikel 3.10, tweede lid, van de Telecommunicatiewet (Vrijstelling afwijkend gebruik frequentieruimte IVD)
-
-Gelet op [artikel 3.10, derde lid, j°. 3.10, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -128,5 +103,3 @@ Dit besluit wordt aangehaald als: Vrijstellingsregeling afwijkend gebruik freque
 ##### Artikel 11
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

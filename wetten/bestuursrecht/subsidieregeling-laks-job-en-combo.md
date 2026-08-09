@@ -1,44 +1,18 @@
 ---
 title: "Regeling houdende een subsidieregeling voor leerling- en deelnemersorganisaties binnen het voortgezet onderwijs (vo) en het beroepsonderwijs en volwasseneneducatie (bve)"
+citeertitel: "Subsidieregeling LAKS, JOB en Combo"
 identifier: "BWBR0018144"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018144"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "6946163"
-version_id: "11816932"
-internal_id: "C29158401"
-label_id: "6934364"
-original_entry_into_force: "2005-04-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018144/2022-08-01/0"
-intitule_bron: "Uitleg.2005-6"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-03-24"
-intitule_published: "2005-04-20"
-intitule_in_force: "2005-04-20"
-intitule_status: "goed"
-original_publication: "Uitleg.2005-6"
-original_signed_date: "2005-03-24"
-original_published_date: "2005-04-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-04-22"
-jci_1_3: "jci1.3:c:BWBR0018144&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0018144&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling LAKS, JOB en Combo"
-signed_date: "2005-03-24"
-entry_into_force: "2005-04-22"
+publicatiedatum: 2005-04-22
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0018144"
+opgehaald: 2026-08-09
 ---
+
 # Regeling houdende een subsidieregeling voor leerling- en deelnemersorganisaties binnen het voortgezet onderwijs (vo) en het beroepsonderwijs en volwasseneneducatie (bve)
-
-Gelet op:
-
-[artikel 4, eerste lid, van de Wet overige OCenW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4)
-
-Besluit
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -58,9 +32,9 @@ In deze regeling wordt verstaan onder:
 
 - f. leerling: leerling als bedoeld in [hoofdstuk 8 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=8),
 
-- g. **student:** student als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625),
+- g. *student:* student als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625),
 
-- h. **vavo-student:** vavo-student als bedoeld in de Wet educatie en beroepsonderwijs, en
+- h. *vavo-student:* vavo-student als bedoeld in de Wet educatie en beroepsonderwijs, en
 
 - i. subsidieontvanger: LAKS - de vereniging Landelijk Aktie Komitee Scholieren, gevestigd te Amsterdam, JOB - de vereniging Jongerenorganisatie Beroepsonderwijs, gevestigd te Amsterdam, en Combo - de Stichting Combinatie Onderwijsorganisatie, een uitvoeringsorganisatie, gevestigd te Amsterdam.
 
@@ -235,5 +209,3 @@ De regeling treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als Subsidieregeling LAKS, JOB en Combo.
-
-Deze regeling zal met de toelichting in het Gele Katern worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.

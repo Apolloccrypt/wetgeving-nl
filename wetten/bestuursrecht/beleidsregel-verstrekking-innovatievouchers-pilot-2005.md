@@ -1,43 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Economische Zaken van 23 februari 2005, nr. WJZ 5009409, omtrent de uitvoering van de artikelen 1 en 2 van de Subsidieregeling pilot innovatievouchers 2005 (Beleidsregel verstrekking innovatievouchers pilot 2005)"
+citeertitel: "Beleidsregel verstrekking innovatievouchers pilot 2005"
 identifier: "BWBR0018052"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2005-03-15"
-last_updated: "2005-03-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018052"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6846963"
-version_id: "11725172"
-internal_id: "C15807501"
-label_id: "6835204"
-original_entry_into_force: "2005-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018052/2005-03-15/0"
-intitule_bron: "Stcrt.2005-44"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-02-23"
-intitule_published: "2005-03-03"
-intitule_in_force: "2005-03-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-44"
-original_signed_date: "2005-02-23"
-original_published_date: "2005-03-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-44-p12-SC69123"
-entry_into_force_date: "2005-03-15"
-jci_1_3: "jci1.3:c:BWBR0018052&z=2005-03-15&g=2005-03-15"
-jci_1_0: "1.0:c:BWBR0018052&g=2005-03-15"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel verstrekking innovatievouchers pilot 2005"
-signed_date: "2005-02-23"
-entry_into_force: "2005-03-15"
+publicatiedatum: 2005-03-15
+laatste_update: 2005-03-15
+status: geldig
+toestand: 2005-03-15
+bron: "https://wetten.overheid.nl/BWBR0018052"
+opgehaald: 2026-08-09
 ---
+
 # Beleidsregel van de Minister van Economische Zaken van 23 februari 2005, nr. WJZ 5009409, omtrent de uitvoering van de artikelen 1 en 2 van de Subsidieregeling pilot innovatievouchers 2005 (Beleidsregel verstrekking innovatievouchers pilot 2005)
-
-Gelet op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018050&artikel=1) en [2 van de Subsidieregeling pilot innovatievouchers 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018050&artikel=2) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -47,7 +22,7 @@ In deze beleidsregel wordt verstaan onder een samenwerkingsverband: een geen rec
 
 1. De minister verstrekt op aanvraag een innovatievoucher aan:
 
-- a. een ondernemer, die een kleine of middelgrote onderneming in stand houdt in de zin van [verordening (EG) nr. 70/2001](32001R0070) van de Commissie van de Europese Gemeenschappen van 12 januari 2001 betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op staatssteun voor kleine en middelgrote ondernemingen (PbEG L 10) en die een kennisoverdrachtsproject wil laten uitvoeren;
+- a. een ondernemer, die een kleine of middelgrote onderneming in stand houdt in de zin van verordening (EG) nr. 70/2001 van de Commissie van de Europese Gemeenschappen van 12 januari 2001 betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op staatssteun voor kleine en middelgrote ondernemingen (PbEG L 10) en die een kennisoverdrachtsproject wil laten uitvoeren;
 
 - b. ondernemers als bedoeld in onderdeel a die deelnemer zijn in een samenwerkingsverband, die gezamenlijk een kennisoverdrachtsproject willen laten uitvoeren.
 
@@ -57,7 +32,7 @@ In deze beleidsregel wordt verstaan onder een samenwerkingsverband: een geen rec
 
 4. Geen innovatievoucher wordt verstrekt aan een ondernemer:
 
-- a. die een onderneming in stand houdt als bedoeld in artikel 1, onder a, van [verordening (EG) nr. 69/2001](32001R0069) van de Commissie van de Europese Gemeenschappen van 12 januari 2001 betreffende de toepassing van de artikelen 87 en 88 van het EG-verdrag op de de minimis-steun (PbEG L 10);
+- a. die een onderneming in stand houdt als bedoeld in artikel 1, onder a, van verordening (EG) nr. 69/2001 van de Commissie van de Europese Gemeenschappen van 12 januari 2001 betreffende de toepassing van de artikelen 87 en 88 van het EG-verdrag op de de minimis-steun (PbEG L 10);
 
 - b. aan wie door een of meer bestuursorganen in de drie aan de aanvraag voorafgaande jaren reeds € 92 500 of meer aan subsidie is verstrekt zonder goedkeuring van de Commissie van de Europese Gemeenschappen;
 
@@ -108,9 +83,3 @@ Deze beleidsregel treedt in werking met ingang van 15 maart 2005.
 ##### Artikel 8
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel verstrekking innovatievouchers pilot 2005.
-
-## Bijlage
-
-Bijlage ligt ter inzage bij SenterNovem te Den Haag.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij SenterNovem, Juliana van Stolberglaan 3 te Den Haag.

@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 14 juni 2005, houdende regels over de inhoud, de grenzen en de wijze van toepassing in de jaarrekening van waardering tegen actuele waarde (Besluit actuele waarde)"
+citeertitel: "Besluit actuele waarde"
 identifier: "BWBR0018438"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-11-01"
-last_updated: "2015-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018438"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "7123823"
-version_id: "22733282"
-internal_id: "C32865991"
-label_id: "7111894"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018438/2015-11-01/0"
-intitule_bron: "Stb.2005-321"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-14"
-intitule_published: "2005-06-28"
-intitule_in_force: "2005-07-26"
-intitule_status: "goed"
-original_publication: "Stb.2015-350"
-original_signed_date: "2015-10-13"
-original_published_date: "2015-10-19"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2015-350"
-entry_into_force_date: "2015-10-13"
-jci_1_3: "jci1.3:c:BWBR0018438&z=2015-11-01&g=2015-11-01"
-jci_1_0: "1.0:c:BWBR0018438&g=2015-11-01"
-citeertitel_status: "officieel"
-short_title: "Besluit actuele waarde"
-signed_date: "2015-10-13"
-entry_into_force: "2015-10-13"
+publicatiedatum: 2015-10-13
+laatste_update: 2015-11-01
+status: geldig
+toestand: 2015-11-01
+bron: "https://wetten.overheid.nl/BWBR0018438"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 14 juni 2005, houdende regels over de inhoud, de grenzen en de wijze van toepassing in de jaarrekening van waardering tegen actuele waarde (Besluit actuele waarde)
-
-Op de voordracht van Onze Minister van Justitie van 25 maart 2005, directie Wetgeving, nr. 5343836/05/6, gedaan mede namens Onze Minister van Financiën;
-
-Gelet op artikel 33, eerste lid, van de Vierde [Richtlijn nr. 78/660/EEG](31978L0660) van de Raad van 25 juli 1978 betreffende de jaarrekening van bepaalde vennootschapsvormen (PbEG L 222), gelet op [Richtlijn nr. 2001/65/EG](32001L0065) van het Europees Parlement en de Raad van 27 september 2001 tot wijziging van de [Richtlijnen 78/660/EEG](31978L0660), [83/349/EEG](31983L0349) en [86/635/EEG](31986L0635) met betrekking tot de waarderingsregels voor de jaarrekening en de geconsolideerde jaarrekening van bepaalde vennootschapsvormen evenals van banken en andere financiële instellingen (PbEG L 283) en [Richtlijn 2003/51/EG](32003L0051) van het Europees Parlement en de Raad van 18 juni 2003 tot wijziging van de [Richtlijnen 78/660/EEG](31978L0660), [83/349/EEG](31983L0349), [86/635/EEG](31986L0635) en [91/674/EEG](31991L0674) van de Raad betreffende de jaarrekening en de geconsolideerde jaarrekening van bepaalde vennootschapsvormen, banken en andere financiële instellingen, en verzekeringsondernemingen (PbEG L 178) alsmede de [artikelen 384 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=384) en [442 lid 1 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=442);
-
-De Raad van State gehoord (advies van 29 april 2005, nr. W03.05.0104/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 7 juni 2005, nr. 5356030/05/6; uitgebracht mede namens Onze Minister van Financiën;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wijzigingswet boek 2 Burgerlijk Wetboek ter uitvoering van IAS-verordening, IAS 39-richtlijn en moderniseringsrichtlijn in werking treedt.
 
 ##### Artikel 1
 
@@ -73,6 +39,10 @@ Onder de marktwaarde wordt verstaan het bedrag waarvoor een actief kan worden ve
 ##### Artikel 5
 
 Onder de opbrengstwaarde wordt verstaan het bedrag waartegen een actief maximaal kan worden verkocht, onder aftrek van de nog te maken kosten.
+
+##### Artikel 5a
+
+Waardering tegen marktwaarde is niet toegestaan voor een rechtspersoon als bedoeld in [artikel 395a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395a).
 
 ##### Artikel 6
 
@@ -154,16 +124,8 @@ De artikelen van dit besluit zijn van toepassing op jaarrekeningen die worden op
 
 ##### Artikel 15
 
-Indien het bij koninklijke boodschap van 7 september 2004 ingediende voorstel van wet tot wijziging van boek 2 van het Burgerlijk Wetboek ter uitvoering van [Verordening (EG) nr. 1606/2002](32002R1606) van het Europees Parlement en de Raad van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), van [Richtlijn nr. 2001/65/EG](32001L0065) van het Europees Parlement en de Raad van 27 september 2001 tot wijziging van de [Richtlijnen 78/660/EEG](31978L0660), [83/349/EEG](31983L0349) en [86/635/EEG](31986L0635) met betrekking tot de waarderingsregels voor de jaarrekening en de geconsolideerde jaarrekening van bepaalde vennootschapsvormen evenals van banken en andere financiële instellingen (PbEG L 283), en van [Richtlijn 2003/51/EG](32003L0051) van het Europees Parlement en de Raad van 18 juni 2003 tot wijziging van de [Richtlijnen 78/660/EEG](31978L0660), [83/349/EEG](31983L0349), [86/635/EEG](31986L0635) en [91/674/EEG](31991L0674) van de Raad betreffende de jaarrekening en de geconsolideerde jaarrekening van bepaalde vennootschapsvormen, banken en andere financiële instellingen, en verzekeringsondernemingen (PbEG L 178) (Wet uitvoering IAS-verordening, IAS 39-richtlijn en moderniseringsrichtlijn), Kamerstukken II [2003/04](32003L0004), 29 737, nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
+Indien het bij koninklijke boodschap van 7 september 2004 ingediende voorstel van wet tot wijziging van boek 2 van het Burgerlijk Wetboek ter uitvoering van Verordening (EG) nr. 1606/2002 van het Europees Parlement en de Raad van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), van Richtlijn nr. 2001/65/EG van het Europees Parlement en de Raad van 27 september 2001 tot wijziging van de Richtlijnen 78/660/EEG, 83/349/EEG en 86/635/EEG met betrekking tot de waarderingsregels voor de jaarrekening en de geconsolideerde jaarrekening van bepaalde vennootschapsvormen evenals van banken en andere financiële instellingen (PbEG L 283), en van Richtlijn 2003/51/EG van het Europees Parlement en de Raad van 18 juni 2003 tot wijziging van de Richtlijnen 78/660/EEG, 83/349/EEG, 86/635/EEG en 91/674/EEG van de Raad betreffende de jaarrekening en de geconsolideerde jaarrekening van bepaalde vennootschapsvormen, banken en andere financiële instellingen, en verzekeringsondernemingen (PbEG L 178) (Wet uitvoering IAS-verordening, IAS 39-richtlijn en moderniseringsrichtlijn), Kamerstukken II 2003/04, 29 737, nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
 
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit actuele waarde.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-Waardering tegen marktwaarde is niet toegestaan voor een rechtspersoon als bedoeld in [artikel 395a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395a).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

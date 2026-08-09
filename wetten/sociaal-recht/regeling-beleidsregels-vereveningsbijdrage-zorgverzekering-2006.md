@@ -1,42 +1,17 @@
 ---
 title: "Regeling beleidsregels vereveningsbijdrage zorgverzekering 2006"
 identifier: "BWBR0017869"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-10-23"
-last_updated: "2009-10-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017869"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "7354813"
-version_id: "16751472"
-internal_id: "C23046261"
-label_id: "7342944"
-dtd_version: "2.0"
-original_entry_into_force: "2009-10-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017869/2009-10-23/0"
-intitule_bron: "Stcrt.2005-184"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2005-09-22"
-intitule_in_force: "2005-09-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-15719"
-original_published_date: "2009-10-21"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2009-15719"
-entry_into_force_date: "2009-10-23"
-jci_1_3: "jci1.3:c:BWBR0017869&z=2009-10-23&g=2009-10-23"
-jci_1_0: "1.0:c:BWBR0017869&g=2009-10-23"
-citeertitel_status: "officieel"
-entry_into_force: "2009-10-23"
+publicatiedatum: 2009-10-23
+laatste_update: 2009-10-23
+status: geldig
+toestand: 2009-10-23
+bron: "https://wetten.overheid.nl/BWBR0017869"
+opgehaald: 2026-08-09
 ---
+
 # Regeling beleidsregels vereveningsbijdrage zorgverzekering 2006
-
-Gelet op de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34) en [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3) en [Hoofdstuk 3 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=3);
-
-Gelezen de brief van de Minister van Volksgezondheid, Welzijn en Sport van 6 september 2005 (kenmerk Z/F-2614466);
-
-Heeft in zijn vergadering van 8 september 2005 besloten:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -112,9 +87,9 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 - f. Wanneer voor een zorgverzekeraar het geraamde totaal aantal verzekerden 2006 groter is dan het aantal verzekerden 2004, wordt het aantal verzekerden 2006 per FKG 2006 per morbiditeitsrisicoklasse als volgt berekend:
 
-- 1. Het geraamde aantal verzekerden 2006 per FKG 2006 per morbiditeitsrisicoklasse is gelijk aan het aantal verzekerden 2006 van de desbetreffende morbiditeitsrisicoklasse vermenigvuldigd met de desbetreffende onder c berekende geraamde zorgverzekeraarspecifieke prevalentie 2005 per FKG 2006 per morbiditeitsrisicoklasse.
+   - 1. Het geraamde aantal verzekerden 2006 per FKG 2006 per morbiditeitsrisicoklasse is gelijk aan het aantal verzekerden 2006 van de desbetreffende morbiditeitsrisicoklasse vermenigvuldigd met de desbetreffende onder c berekende geraamde zorgverzekeraarspecifieke prevalentie 2005 per FKG 2006 per morbiditeitsrisicoklasse.
 
-- 2. Indien het geraamde aantal verzekerden 2006 per morbiditeitsrisicoklasse groter is dan het overeenkomstige aantal verzekerden 2004, wordt het resultaat onder 1 verminderd met de helft van het verschil tussen het geraamde aantal verzekerden 2006 en het aantal verzekerden 2004 van de desbetreffende morbiditeitsrisicoklassen, vermenigvuldigd met het verschil tussen de onder c berekende zorgverzekeraarspecifieke FKG 2006-prevalentie 2005 per morbiditeitsrisicoklasse en de onder d berekende geraamde landelijke FKG-2006 prevalentie 2005 per morbiditeitsrisicoklasse.
+   - 2. Indien het geraamde aantal verzekerden 2006 per morbiditeitsrisicoklasse groter is dan het overeenkomstige aantal verzekerden 2004, wordt het resultaat onder 1 verminderd met de helft van het verschil tussen het geraamde aantal verzekerden 2006 en het aantal verzekerden 2004 van de desbetreffende morbiditeitsrisicoklassen, vermenigvuldigd met het verschil tussen de onder c berekende zorgverzekeraarspecifieke FKG 2006-prevalentie 2005 per morbiditeitsrisicoklasse en de onder d berekende geraamde landelijke FKG-2006 prevalentie 2005 per morbiditeitsrisicoklasse.
 
 - g. Tot slot worden de verzekerdenaantallen 2006 per morbiditeitsrisicoklasse per FKG 2006 over de morbiditeitsrisicoklassen gesommeerd en afgerond op nul decimalen.
 
@@ -132,9 +107,9 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 - f. Wanneer voor een zorgverzekeraar het geraamde totaal aantal verzekerden 2006 groter is dan het totaal gemiddeld aantal verzekerden 2003, wordt het aantal verzekerden 2006 per DKG 2006 per morbiditeitsrisicoklasse als volgt berekend:
 
-- 1. Het aantal verzekerden 2006 per DKG 2006 per morbiditeitsrisicoklasse is gelijk aan het aantal verzekerden 2006 van de desbetreffende morbiditeitsrisicoklasse, vermenigvuldigd met de desbetreffende onder b berekende landelijke DKG 2006-prevalentie per morbiditeitsrisicoklasse en vervolgens vermenigvuldigd met de onder d berekende zorgverzekeraarspecifieke DKG 2006-factor per DKG 2006.
+   - 1. Het aantal verzekerden 2006 per DKG 2006 per morbiditeitsrisicoklasse is gelijk aan het aantal verzekerden 2006 van de desbetreffende morbiditeitsrisicoklasse, vermenigvuldigd met de desbetreffende onder b berekende landelijke DKG 2006-prevalentie per morbiditeitsrisicoklasse en vervolgens vermenigvuldigd met de onder d berekende zorgverzekeraarspecifieke DKG 2006-factor per DKG 2006.
 
-- 2. Indien het aantal verzekerden 2006 per morbiditeitsrisicoklasse groter is dan het overeenkomstige aantal verzekerden 2003, wordt het resultaat onder 1 verminderd met het verschil in aantallen verzekerden tussen de desbetreffende morbiditeitsrisicoklassen, vermenigvuldigd met de onder b berekende landelijke DKG 2006-prevalentie per morbiditeitsrisicoklasse per DKG 2006, vervolgens nog vermenigvuldigd met de helft van de, met 1 verhoogde, onder d berekende zorgverzekeraarspecifieke DKG 2006-factor per DKG 2006.
+   - 2. Indien het aantal verzekerden 2006 per morbiditeitsrisicoklasse groter is dan het overeenkomstige aantal verzekerden 2003, wordt het resultaat onder 1 verminderd met het verschil in aantallen verzekerden tussen de desbetreffende morbiditeitsrisicoklassen, vermenigvuldigd met de onder b berekende landelijke DKG 2006-prevalentie per morbiditeitsrisicoklasse per DKG 2006, vervolgens nog vermenigvuldigd met de helft van de, met 1 verhoogde, onder d berekende zorgverzekeraarspecifieke DKG 2006-factor per DKG 2006.
 
 - g. Tot slot worden de aantallen verzekerden 2006 per morbiditeitsrisicoklasse per DKG 2006 over de morbiditeitsrisicoklassen gesommeerd en afgerond op vier decimalen.
 
@@ -142,98 +117,238 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 1. Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp hanteert het college als uitgangspunten:
 
-- a. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2006:
+- a. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2006: Risicoklasse
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Mannen
+ Vrouwen
+ 0 t/m 4 jaar
+ 737,67
+ 630,71
+ 5 t/m 9 jaar
+ 386,33
+ 330,66
+ 10 t/m 14 jaar
+ 329,02
+ 307,58
+ 15 t/m 19 jaar
+ 388,13
+ 409,81
+ 20 t/m 24 jaar
+ 364,73
+ 445,98
+ 25 t/m 29 jaar
+ 365,39
+ 540,04
+ 30 t/m 34 jaar
+ 389,02
+ 626,33
+ 35 t/m 39 jaar
+ 431,98
+ 565,68
+ 40 t/m 44 jaar
+ 467,35
+ 529,66
+ 45 t/m 49 jaar
+ 569,27
+ 574,85
+ 50 t/m 54 jaar
+ 615,51
+ 646,56
+ 55 t/m 59 jaar
+ 799,35
+ 744,10
+ 60 t/m 64 jaar
+ 882,04
+ 817,12
+ 65 t/m 69 jaar
+ 1.105,70
+ 902,40
+ 70 t/m 74 jaar
+ 1.384,49
+ 1.047,25
+ 75 t/m 79 jaar
+ 1.416,61
+ 1.139,11
+ 80 t/m 84 jaar
+ 1.300,59
+ 1.098,79
+ 85 t/m 89 jaar
+ 1.099,37
+ 933,94
+ 90 jaar en ouder
+ 836,97
+ 666,41
 
-| Risicoklasse | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- |
-|   | Mannen | Vrouwen |
-| 0 t/m 4 jaar | 737,67 | 630,71 |
-| 5 t/m 9 jaar | 386,33 | 330,66 |
-| 10 t/m 14 jaar | 329,02 | 307,58 |
-| 15 t/m 19 jaar | 388,13 | 409,81 |
-| 20 t/m 24 jaar | 364,73 | 445,98 |
-| 25 t/m 29 jaar | 365,39 | 540,04 |
-| 30 t/m 34 jaar | 389,02 | 626,33 |
-| 35 t/m 39 jaar | 431,98 | 565,68 |
-| 40 t/m 44 jaar | 467,35 | 529,66 |
-| 45 t/m 49 jaar | 569,27 | 574,85 |
-| 50 t/m 54 jaar | 615,51 | 646,56 |
-| 55 t/m 59 jaar | 799,35 | 744,10 |
-| 60 t/m 64 jaar | 882,04 | 817,12 |
-| 65 t/m 69 jaar | 1.105,70 | 902,40 |
-| 70 t/m 74 jaar | 1.384,49 | 1.047,25 |
-| 75 t/m 79 jaar | 1.416,61 | 1.139,11 |
-| 80 t/m 84 jaar | 1.300,59 | 1.098,79 |
-| 85 t/m 89 jaar | 1.099,37 | 933,94 |
-| 90 jaar en ouder | 836,97 | 666,41 |
+- b. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 2006: FKG 2006
+ Gewicht in euro’s
+ 0
+ Geen FKG
+ 1
+ Glaucoom
+ 74,78
+ 2
+ Schildklieraandoeningen
+ 183,83
+ 3
+ Hoog cholesterol
+ 123,50
+ 4
+ Diabetes IIb (laag intensief)
+ 293,97
+ 5
+ Cara
+ 403,22
+ 6
+ Diabetes IIa (hoog intensief)
+ 405,25
+ 7
+ Epilepsie
+ 582,87
+ 8
+ Ziekte van Crohn/colitis ulcerosa
+ 816,19
+ 9
+ Hartaandoeningen
+ 1.084,21
+ 10
+ Reuma
+ 1.372,24
+ 11
+ Parkinson
+ 958,35
+ 12
+ Diabetes I
+ 1.173,62
+ 13
+ Transplantaties
+ 1.872,74
+ 14
+ Cystic fibrosis en pancreasaandoeningen
+ 2.529,15
+ 15
+ Neuromusculaire aandoeningen
+ 1.526,67
+ 16
+ HIV/AIDS
+ 2.067,15
+ 17
+ Nieraandoeningen/ESRD
+ 9.032,63 Het college berekent het gewicht variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde voor de FKG 2006 0 door de geraamde totale aantallen verzekerden per FKG 2006 1 tot en met 17 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het geraamde totaal aantal verzekerden FKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-- b. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 2006: Het college berekent het gewicht variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde voor de FKG 2006 0 door de geraamde totale aantallen verzekerden per FKG 2006 1 tot en met 17 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het geraamde totaal aantal verzekerden FKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
+- c. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 2006: DKG 2006
+ Gewicht in euro’s
+ 0
+ 1
+ 983,38
+ 2
+ 1.643,09
+ 3
+ 1.979,11
+ 4
+ 2.265,15
+ 5
+ 3.105,63
+ 6
+ 3.865,95
+ 7
+ 4.201,20
+ 8
+ 5.232,39
+ 9
+ 5.913,73
+ 10
+ 6.902,63
+ 11
+ 9.272,31
+ 12
+ 10.929,18
+ 13
+ 42.767,87 Het college berekent het gewicht variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde voor de DKG 2006 0 door de geraamde totale aantallen verzekerden per DKG 2006 1 tot en met 13 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het geraamde totaal aantal verzekerden DKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-|   | FKG 2006 | Gewicht in euro’s |
-| --- | --- | --- |
-| 0 | Geen FKG |   |
-| 1 | Glaucoom | 74,78 |
-| 2 | Schildklieraandoeningen | 183,83 |
-| 3 | Hoog cholesterol | 123,50 |
-| 4 | Diabetes IIb (laag intensief) | 293,97 |
-| 5 | Cara | 403,22 |
-| 6 | Diabetes IIa (hoog intensief) | 405,25 |
-| 7 | Epilepsie | 582,87 |
-| 8 | Ziekte van Crohn/colitis ulcerosa | 816,19 |
-| 9 | Hartaandoeningen | 1.084,21 |
-| 10 | Reuma | 1.372,24 |
-| 11 | Parkinson | 958,35 |
-| 12 | Diabetes I | 1.173,62 |
-| 13 | Transplantaties | 1.872,74 |
-| 14 | Cystic fibrosis en pancreasaandoeningen | 2.529,15 |
-| 15 | Neuromusculaire aandoeningen | 1.526,67 |
-| 16 | HIV/AIDS | 2.067,15 |
-| 17 | Nieraandoeningen/ESRD | 9.032,63 |
+- d. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2006: Aard van het inkomenklasse
+ Gewichten in euro’s
+ 0–14 jaar
+ 15–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ 1.
+ 0 t/m 14 jaar of 65 jaar en ouder
+ 0,00
+ 
+ 
+ 
+ 
+ 0,00
+ 2.
+ Arbeidsongeschikten
+ 
+ 567,52
+ 543,05
+ 554,56
+ 455,25
+ 3.
+ Bijstandsgerechtigden
+ 
+ 161,24
+ 145,24
+ 227,29
+ 138,68
+ 4.
+ WW, ANW (AWW) en overige uitkeringsgerechtigden
+ 
+ 20,04
+ –44,95
+ –55,97
+ –90,53
+ 5.
+ Zelfstandigen
+ 
+ –56,46
+ –104,08
+ –164,16
+ –266,05
+ 6.
+ Referentiegroep Het college berekent het gewicht variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per leeftijdscategorie voor de referentiegroep aard van het inkomen door de geraamde totale aantallen verzekerden van de aard van het inkomenklasse 2 tot en met 5 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het geraamde totaal aantal verzekerden per leeftijdsklasse van de referentiegroep aard van het inkomen, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-- c. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 2006: Het college berekent het gewicht variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde voor de DKG 2006 0 door de geraamde totale aantallen verzekerden per DKG 2006 1 tot en met 13 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het geraamde totaal aantal verzekerden DKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
-
-| DKG 2006 | Gewicht in euro’s |
-| --- | --- |
-| 0 |   |
-| 1 | 983,38 |
-| 2 | 1.643,09 |
-| 3 | 1.979,11 |
-| 4 | 2.265,15 |
-| 5 | 3.105,63 |
-| 6 | 3.865,95 |
-| 7 | 4.201,20 |
-| 8 | 5.232,39 |
-| 9 | 5.913,73 |
-| 10 | 6.902,63 |
-| 11 | 9.272,31 |
-| 12 | 10.929,18 |
-| 13 | 42.767,87 |
-
-- d. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2006: Het college berekent het gewicht variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per leeftijdscategorie voor de referentiegroep aard van het inkomen door de geraamde totale aantallen verzekerden van de aard van het inkomenklasse 2 tot en met 5 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het geraamde totaal aantal verzekerden per leeftijdsklasse van de referentiegroep aard van het inkomen, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
-
-| Aard van het inkomenklasse Gewichten in euro’s | Aard van het inkomenklasse Gewichten in euro’s | 0–14 jaar | 15–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |   |   |   |   | 0,00 |
-| 2. | Arbeidsongeschikten |   | 567,52 | 543,05 | 554,56 | 455,25 |   |
-| 3. | Bijstandsgerechtigden |   | 161,24 | 145,24 | 227,29 | 138,68 |   |
-| 4. | WW, ANW (AWW) en overige uitkeringsgerechtigden |   | 20,04 | –44,95 | –55,97 | –90,53 |   |
-| 5. | Zelfstandigen |   | –56,46 | –104,08 | –164,16 | –266,05 |   |
-| 6. | Referentiegroep |   |   |   |   |   |   |
-
-- e. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2006:
-
-| Regioklasse 2006 Gewicht in euro’s | Voormalig ziekenfonds verzekerd | Voormalig particulier verzekerd |
-| --- | --- | --- |
-| Klasse 1 | 72,97 | –4,47 |
-| Klasse 2 | 49,08 | –17,39 |
-| Klasse 3 | 32,26 | –15,45 |
-| Klasse 4 | 25,50 | –29,21 |
-| Klasse 5 | 15,85 | –33,06 |
-| Klasse 6 | 2,50 | –32,00 |
-| Klasse 7 | 1,52 | –44,25 |
-| Klasse 8 | –8,03 | –32,12 |
-| Klasse 9 | –19,65 | –34,76 |
-| Klasse 10 | –23,97 | –48,10 |
+- e. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2006: Regioklasse 2006
+ Gewicht in euro’s
+ Voormalig
+ ziekenfonds
+ verzekerd
+ Voormalig particulier verzekerd
+ Klasse 1
+ 72,97
+ –4,47
+ Klasse 2
+ 49,08
+ –17,39
+ Klasse 3
+ 32,26
+ –15,45
+ Klasse 4
+ 25,50
+ –29,21
+ Klasse 5
+ 15,85
+ –33,06
+ Klasse 6
+ 2,50
+ –32,00
+ Klasse 7
+ 1,52
+ –44,25
+ Klasse 8
+ –8,03
+ –32,12
+ Klasse 9
+ –19,65
+ –34,76
+ Klasse 10
+ –23,97
+ –48,10
 
 2. De gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2006 worden per overeenkomstige risicoklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden per risicoklasse 2006. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -273,300 +388,1593 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 1. Voor de verdeling van het macro-deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
-- a. de volgende gewichten kosten van overige prestaties per verzekerde per risicoklasse 2006 (Totale overige prestaties en van de afzonderlijke overige prestaties):
+- a. de volgende gewichten kosten van overige prestaties per verzekerde per risicoklasse 2006 (Totale overige prestaties en van de afzonderlijke overige prestaties): Risicoklasse
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Mannen
+ Huisartsenhulp
+ Tandheelkundige hulp
+ Verloskundige hulp
+ Paramedische hulp
+ Ziekenvervoer
+ 0 t/m 4 jaar
+ 117,97
+ 13,35
+ 0,00
+ 33,85
+ 24,06
+ 5 t/m 9 jaar
+ 99,73
+ 82,72
+ 0,00
+ 69,21
+ 17,75
+ 10 t/m 14 jaar
+ 95,18
+ 128,36
+ 0,00
+ 24,93
+ 19,20
+ 15 t/m 19 jaar
+ 95,59
+ 76,44
+ 0,00
+ 16,66
+ 25,02
+ 20 t/m 24 jaar
+ 94,76
+ 7,48
+ 0,00
+ 9,44
+ 21,77
+ 25 t/m 29 jaar
+ 96,52
+ 7,81
+ 0,00
+ 11,47
+ 19,19
+ 30 t/m 34 jaar
+ 97,30
+ 7,84
+ 0,00
+ 13,13
+ 18,86
+ 35 t/m 39 jaar
+ 99,41
+ 8,02
+ 0,00
+ 15,48
+ 21,73
+ 40 t/m 44 jaar
+ 99,94
+ 8,23
+ 0,00
+ 17,12
+ 23,35
+ 45 t/m 49 jaar
+ 101,72
+ 8,48
+ 0,00
+ 19,06
+ 26,08
+ 50 t/m 54 jaar
+ 102,34
+ 8,65
+ 0,00
+ 19,49
+ 28,97
+ 55 t/m 59 jaar
+ 105,05
+ 9,39
+ 0,00
+ 19,96
+ 34,19
+ 60 t/m 64 jaar
+ 105,52
+ 9,98
+ 0,00
+ 18,17
+ 39,26
+ 65 t/m 69 jaar
+ 110,37
+ 9,79
+ 0,00
+ 18,86
+ 56,15
+ 70 t/m 74 jaar
+ 114,29
+ 8,02
+ 0,00
+ 19,66
+ 76,22
+ 75 t/m 79 jaar
+ 124,54
+ 6,06
+ 0,00
+ 21,73
+ 105,53
+ 80 t/m 84 jaar
+ 140,08
+ 4,05
+ 0,00
+ 24,14
+ 126,34
+ 85 t/m 89 jaar
+ 170,38
+ 2,76
+ 0,00
+ 29,49
+ 137,45
+ 90 jaar en ouder
+ 205,74
+ 2,07
+ 0,00
+ 34,27
+ 147,99 Risicoklasse
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Mannen
+ Kraamzorg
+ Farmaceutische hulp
+ Hulpmiddelen
+ Totale overige prestaties
+ 0 t/m 4 jaar
+ 0,00
+ 196,33
+ 50,80
+ 436,36
+ 5 t/m 9 jaar
+ 0,00
+ 175,73
+ 54,68
+ 499,82
+ 10 t/m 14 jaar
+ 0,00
+ 187,06
+ 52,65
+ 507,38
+ 15 t/m 19 jaar
+ 0,00
+ 197,51
+ 46,70
+ 457,92
+ 20 t/m 24 jaar
+ 0,00
+ 179,87
+ 37,07
+ 350,39
+ 25 t/m 29 jaar
+ 0,00
+ 188,83
+ 37,03
+ 360,85
+ 30 t/m 34 jaar
+ 0,00
+ 201,55
+ 40,00
+ 378,68
+ 35 t/m 39 jaar
+ 0,00
+ 231,86
+ 46,91
+ 423,41
+ 40 t/m 44 jaar
+ 0,00
+ 252,01
+ 51,05
+ 451,70
+ 45 t/m 49 jaar
+ 0,00
+ 291,35
+ 62,55
+ 509,24
+ 50 t/m 54 jaar
+ 0,00
+ 326,11
+ 69,95
+ 555,51
+ 55 t/m 59 jaar
+ 0,00
+ 386,91
+ 82,11
+ 637,61
+ 60 t/m 64 jaar
+ 0,00
+ 416,26
+ 91,06
+ 680,25
+ 65 t/m 69 jaar
+ 0,00
+ 507,99
+ 122,30
+ 825,46
+ 70 t/m 74 jaar
+ 0,00
+ 555,63
+ 155,46
+ 929,28
+ 75 t/m 79 jaar
+ 0,00
+ 597,77
+ 201,10
+ 1.056,73
+ 80 t/m 84 jaar
+ 0,00
+ 607,05
+ 251,52
+ 1.153,18
+ 85 t/m 89 jaar
+ 0,00
+ 587,84
+ 349,33
+ 1.277,25
+ 90 jaar en ouder
+ 0,00
+ 590,17
+ 493,05
+ 1.473,29 Risicoklasse
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Vrouwen
+ Huisartsenhulp
+ Tandheelkundige hulp
+ Verloskundige hulp
+ Paramedische hulp
+ Ziekenvervoer
+ 0 t/m 4 jaar
+ 113,34
+ 12,98
+ 0,00
+ 21,72
+ 20,52
+ 5 t/m 9 jaar
+ 98,93
+ 82,46
+ 0,00
+ 37,22
+ 14,70
+ 10 t/m 14 jaar
+ 94,84
+ 137,98
+ 0,00
+ 22,36
+ 16,97
+ 15 t/m 19 jaar
+ 105,17
+ 76,89
+ 3,57
+ 23,68
+ 23,81
+ 20 t/m 24 jaar
+ 105,76
+ 8,77
+ 27,03
+ 14,92
+ 20,72
+ 25 t/m 29 jaar
+ 108,67
+ 9,04
+ 72,77
+ 18,60
+ 21,63
+ 30 t/m 34 jaar
+ 109,56
+ 9,21
+ 88,80
+ 19,89
+ 21,20
+ 35 t/m 39 jaar
+ 108,96
+ 9,60
+ 35,79
+ 21,51
+ 20,78
+ 40 t/m 44 jaar
+ 108,76
+ 10,11
+ 4,60
+ 24,16
+ 22,06
+ 45 t/m 49 jaar
+ 109,91
+ 10,79
+ 0,00
+ 27,92
+ 25,26
+ 50 t/m 54 jaar
+ 110,96
+ 11,77
+ 0,00
+ 30,58
+ 28,29
+ 55 t/m 59 jaar
+ 112,29
+ 12,54
+ 0,00
+ 31,27
+ 30,81
+ 60 t/m 64 jaar
+ 112,99
+ 13,36
+ 0,00
+ 31,09
+ 34,69
+ 65 t/m 69 jaar
+ 115,06
+ 12,08
+ 0,00
+ 32,90
+ 42,73
+ 70 t/m 74 jaar
+ 123,02
+ 9,55
+ 0,00
+ 37,06
+ 59,93
+ 75 t/m 79 jaar
+ 132,01
+ 6,58
+ 0,00
+ 43,08
+ 76,09
+ 80 t/m 84 jaar
+ 149,97
+ 4,13
+ 0,00
+ 49,26
+ 95,35
+ 85 t/m 89 jaar
+ 175,79
+ 2,37
+ 0,00
+ 54,41
+ 112,68
+ 90 jaar en ouder
+ 211,51
+ 1,58
+ 0,00
+ 56,99
+ 127,71 Risicoklasse
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Vrouwen
+ Kraamzorg
+ Farmaceutische hulp
+ Hulpmiddelen
+ Totale overige prestaties
+ 0 t/m 4 jaar
+ 0,00
+ 184,41
+ 47,42
+ 400,39
+ 5 t/m 9 jaar
+ 0,00
+ 169,99
+ 49,23
+ 452,53
+ 10 t/m 14 jaar
+ 0,00
+ 186,87
+ 50,66
+ 509,68
+ 15 t/m 19 jaar
+ 4,90
+ 227,85
+ 46,54
+ 512,41
+ 20 t/m 24 jaar
+ 47,88
+ 228,16
+ 39,09
+ 492,33
+ 25 t/m 29 jaar
+ 169,48
+ 234,54
+ 38,09
+ 672,82
+ 30 t/m 34 jaar
+ 242,90
+ 248,05
+ 41,64
+ 781,25
+ 35 t/m 39 jaar
+ 106,51
+ 269,04
+ 48,54
+ 620,73
+ 40 t/m 44 jaar
+ 15,29
+ 278,62
+ 53,21
+ 516,81
+ 45 t/m 49 jaar
+ 0,00
+ 349,77
+ 69,03
+ 592,68
+ 50 t/m 54 jaar
+ 0,00
+ 390,31
+ 82,34
+ 654,25
+ 55 t/m 59 jaar
+ 0,00
+ 438,60
+ 100,12
+ 725,63
+ 60 t/m 64 jaar
+ 0,00
+ 469,43
+ 117,43
+ 778,99
+ 65 t/m 69 jaar
+ 0,00
+ 511,86
+ 138,17
+ 852,80
+ 70 t/m 74 jaar
+ 0,00
+ 551,63
+ 176,57
+ 957,76
+ 75 t/m 79 jaar
+ 0,00
+ 571,45
+ 239,56
+ 1.068,77
+ 80 t/m 84 jaar
+ 0,00
+ 573,53
+ 321,08
+ 1.193,32
+ 85 t/m 89 jaar
+ 0,00
+ 566,24
+ 426,66
+ 1.338,15
+ 90 jaar en ouder
+ 0,00
+ 563,54
+ 583,50
+ 1.544,83
 
-| Risicoklasse | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- |
-| Mannen | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Ziekenvervoer |
-| 0 t/m 4 jaar | 117,97 | 13,35 | 0,00 | 33,85 | 24,06 |
-| 5 t/m 9 jaar | 99,73 | 82,72 | 0,00 | 69,21 | 17,75 |
-| 10 t/m 14 jaar | 95,18 | 128,36 | 0,00 | 24,93 | 19,20 |
-| 15 t/m 19 jaar | 95,59 | 76,44 | 0,00 | 16,66 | 25,02 |
-| 20 t/m 24 jaar | 94,76 | 7,48 | 0,00 | 9,44 | 21,77 |
-| 25 t/m 29 jaar | 96,52 | 7,81 | 0,00 | 11,47 | 19,19 |
-| 30 t/m 34 jaar | 97,30 | 7,84 | 0,00 | 13,13 | 18,86 |
-| 35 t/m 39 jaar | 99,41 | 8,02 | 0,00 | 15,48 | 21,73 |
-| 40 t/m 44 jaar | 99,94 | 8,23 | 0,00 | 17,12 | 23,35 |
-| 45 t/m 49 jaar | 101,72 | 8,48 | 0,00 | 19,06 | 26,08 |
-| 50 t/m 54 jaar | 102,34 | 8,65 | 0,00 | 19,49 | 28,97 |
-| 55 t/m 59 jaar | 105,05 | 9,39 | 0,00 | 19,96 | 34,19 |
-| 60 t/m 64 jaar | 105,52 | 9,98 | 0,00 | 18,17 | 39,26 |
-| 65 t/m 69 jaar | 110,37 | 9,79 | 0,00 | 18,86 | 56,15 |
-| 70 t/m 74 jaar | 114,29 | 8,02 | 0,00 | 19,66 | 76,22 |
-| 75 t/m 79 jaar | 124,54 | 6,06 | 0,00 | 21,73 | 105,53 |
-| 80 t/m 84 jaar | 140,08 | 4,05 | 0,00 | 24,14 | 126,34 |
-| 85 t/m 89 jaar | 170,38 | 2,76 | 0,00 | 29,49 | 137,45 |
-| 90 jaar en ouder | 205,74 | 2,07 | 0,00 | 34,27 | 147,99 |
+- b. de volgende gewichten kosten van overige prestaties per verzekerde per FKG 2006 (Totale overige prestaties en van de afzonderlijke overige prestaties): FKG 2006
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Huisartsenhulp
+ Tandheelkundige hulp
+ Verloskundige hulp
+ 0
+ Geen FKG
+ 1
+ Glaucoom
+ 5,64
+ 0,24
+ –0,33
+ 2
+ Schildklieraandoeningen
+ 9,89
+ 1,11
+ –2,98
+ 3
+ Hoog cholesterol
+ 10,66
+ 0,70
+ –0,37
+ 4
+ Diabetes IIb (laag intensief)
+ 16,59
+ –0,25
+ –0,82
+ 5
+ Cara
+ 56,55
+ 1,19
+ –1,56
+ 6
+ Diabetes IIa (hoog intensief)
+ 22,53
+ –0,45
+ –0,29
+ 7
+ Epilepsie
+ 61,24
+ 2,26
+ –4,91
+ 8
+ Ziekte van Crohn/colitis ulcerosa
+ 49,67
+ 1,06
+ –3,83
+ 9
+ Hartaandoeningen
+ 60,98
+ –0,14
+ –0,29
+ 10
+ Reuma
+ 52,95
+ 0,23
+ –2,44
+ 11
+ Parkinson
+ 74,33
+ 2,69
+ –0,23
+ 12
+ Diabetes I
+ 65,30
+ 0,19
+ –2,50
+ 13
+ Transplantaties
+ 60,39
+ 0,30
+ –6,03
+ 14
+ Cystic fibrosis en pancreasaandoeningen
+ 67,68
+ 0,35
+ –1,89
+ 15
+ Neuromusculaire aandoeningen
+ 74,23
+ 1,60
+ –6,82
+ 16
+ HIV/AIDS
+ 58,82
+ 1,29
+ –5,80
+ 17
+ Nieraandoeningen/ESRD
+ 77,50
+ –0,26
+ –0,73 FKG 2006
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Paramedische hulp
+ Ziekenvervoer
+ Kraamzorg
+ 0
+ Geen FKG
+ 1
+ Glaucoom
+ 1,73
+ 1,58
+ –0,35
+ 2
+ Schildklieraandoeningen
+ 5,08
+ 3,29
+ –2,10
+ 3
+ Hoog cholesterol
+ 2,87
+ –1,32
+ –0,53
+ 4
+ Diabetes IIb (laag intensief)
+ 2,22
+ 9,88
+ –0,64
+ 5
+ Cara
+ 11,61
+ 21,74
+ –3,01
+ 6
+ Diabetes IIa (hoog intensief)
+ 3,20
+ 8,18
+ 0,41
+ 7
+ Epilepsie
+ 27,67
+ 77,19
+ –7,98
+ 8
+ Ziekte van Crohn/colitis ulcerosa
+ 5,03
+ 3,26
+ –3,31
+ 9
+ Hartaandoeningen
+ 14,57
+ 82,54
+ 0,62
+ 10
+ Reuma
+ 67,26
+ 46,58
+ –5,43
+ 11
+ Parkinson
+ 196,09
+ 91,35
+ 0,17
+ 12
+ Diabetes I
+ 13,18
+ 70,81
+ –2,82
+ 13
+ Transplantaties
+ 17,64
+ 97,09
+ –10,96
+ 14
+ Cystic fibrosis en pancreasaandoeningen
+ 70,55
+ 87,11
+ –3,55
+ 15
+ Neuromusculaire aandoeningen
+ 256,48
+ 188,68
+ –16,42
+ 16
+ HIV/AIDS
+ –6,15
+ 7,21
+ –11,32
+ 17
+ Nieraandoeningen/ESRD
+ 5,58
+ 531,72
+ –1,05 FKG 2006
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Farmaceutische hulp
+ Hulpmiddelen
+ Totale overige prestaties
+ 0
+ Geen FKG
+ 1
+ Glaucoom
+ 225,51
+ 22,89
+ 256,91
+ 2
+ Schildklieraandoeningen
+ 187,86
+ 10,27
+ 212,42
+ 3
+ Hoog cholesterol
+ 554,67
+ –12,18
+ 554,50
+ 4
+ Diabetes IIb (laag intensief)
+ 439,90
+ 103,12
+ 570,00
+ 5
+ Cara
+ 693,96
+ 48,53
+ 829,01
+ 6
+ Diabetes IIa (hoog intensief)
+ 1.132,66
+ 92,88
+ 1.259,12
+ 7
+ Epilepsie
+ 808,76
+ 191,31
+ 1.155,54
+ 8
+ Ziekte van Crohn/colitis ulcerosa
+ 999,98
+ 98,62
+ 1.150,48
+ 9
+ Hartaandoeningen
+ 859,91
+ 159,72
+ 1.177,91
+ 10
+ Reuma
+ 1.476,48
+ 174,51
+ 1.810,14
+ 11
+ Parkinson
+ 1.717,33
+ 497,28
+ 2.579,01
+ 12
+ Diabetes I
+ 1.299,97
+ 1.049,17
+ 2.493,30
+ 13
+ Transplantaties
+ 3.434,30
+ 214,75
+ 3.807,48
+ 14
+ Cystic fibrosis en pancreasaandoeningen
+ 5.011,52
+ 633,33
+ 5.865,10
+ 15
+ Neuromusculaire aandoeningen
+ 6.716,16
+ 1.529,30
+ 8.743,21
+ 16
+ HIV/AIDS
+ 11.133,08
+ –9,89
+ 11.167,24
+ 17
+ Nieraandoeningen/ESRD
+ 5.322,19
+ 188,49
+ 6.123,44 Het college berekent de gewichten kosten van de onderscheiden afzonderlijke overige prestaties en van de totale overige prestaties per verzekerde voor de FKG 2006 0 door de geraamde totale aantallen verzekerden per FKG 2006 1 tot en met 17 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het geraamde totaal aantal verzekerden FKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-| Risicoklasse | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- |
-| Mannen | Kraamzorg | Farmaceutische hulp | Hulpmiddelen | Totale overige prestaties |
-| 0 t/m 4 jaar | 0,00 | 196,33 | 50,80 | 436,36 |
-| 5 t/m 9 jaar | 0,00 | 175,73 | 54,68 | 499,82 |
-| 10 t/m 14 jaar | 0,00 | 187,06 | 52,65 | 507,38 |
-| 15 t/m 19 jaar | 0,00 | 197,51 | 46,70 | 457,92 |
-| 20 t/m 24 jaar | 0,00 | 179,87 | 37,07 | 350,39 |
-| 25 t/m 29 jaar | 0,00 | 188,83 | 37,03 | 360,85 |
-| 30 t/m 34 jaar | 0,00 | 201,55 | 40,00 | 378,68 |
-| 35 t/m 39 jaar | 0,00 | 231,86 | 46,91 | 423,41 |
-| 40 t/m 44 jaar | 0,00 | 252,01 | 51,05 | 451,70 |
-| 45 t/m 49 jaar | 0,00 | 291,35 | 62,55 | 509,24 |
-| 50 t/m 54 jaar | 0,00 | 326,11 | 69,95 | 555,51 |
-| 55 t/m 59 jaar | 0,00 | 386,91 | 82,11 | 637,61 |
-| 60 t/m 64 jaar | 0,00 | 416,26 | 91,06 | 680,25 |
-| 65 t/m 69 jaar | 0,00 | 507,99 | 122,30 | 825,46 |
-| 70 t/m 74 jaar | 0,00 | 555,63 | 155,46 | 929,28 |
-| 75 t/m 79 jaar | 0,00 | 597,77 | 201,10 | 1.056,73 |
-| 80 t/m 84 jaar | 0,00 | 607,05 | 251,52 | 1.153,18 |
-| 85 t/m 89 jaar | 0,00 | 587,84 | 349,33 | 1.277,25 |
-| 90 jaar en ouder | 0,00 | 590,17 | 493,05 | 1.473,29 |
+- c. de volgende gewichten kosten van overige prestaties per verzekerde per DKG 2006 (Totale overige prestaties en van de afzonderlijke overige prestaties): DKG 2006
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Huisartsenhulp
+ Tandheelkundige hulp
+ Verloskundige hulp
+ Paramedische hulp
+ Ziekenvervoer
+ Kraamzorg
+ Farmaceutische hulp
+ Hulpmiddelen
+ Totale
+ overige
+ prestaties
+ 0
+ 1
+ 39,85
+ 1,18
+ –0,16
+ 52,13
+ 36,79
+ –0,38
+ 127,02
+ 53,43
+ 309,86
+ 2
+ 39,28
+ 0,27
+ –0,68
+ 11,32
+ 105,41
+ –1,41
+ 417,45
+ 73,14
+ 644,78
+ 3
+ 46,60
+ 0,36
+ –0,28
+ 12,89
+ 130,98
+ –0,61
+ 524,02
+ 138,76
+ 852,72
+ 4
+ 52,74
+ –0,42
+ –0,56
+ 44,75
+ 201,70
+ –0,86
+ 576,58
+ 210,51
+ 1.084,44
+ 5
+ 46,15
+ –0,05
+ –0,85
+ 17,54
+ 159,63
+ –1,12
+ 505,67
+ 241,96
+ 968,93
+ 6
+ 48,60
+ –0,36
+ –0,22
+ 18,45
+ 180,31
+ –0,69
+ 490,80
+ 332,62
+ 1.069,51
+ 7
+ 71,03
+ –0,35
+ –1,95
+ 41,78
+ 234,53
+ –4,41
+ 1.270,60
+ 325,15
+ 1.936,38
+ 8
+ 66,16
+ 0,40
+ 0,21
+ 52,22
+ 375,19
+ 0,73
+ 1.492,85
+ 697,12
+ 2.684,88
+ 9
+ 72,46
+ 4,89
+ –0,80
+ 42,15
+ 366,00
+ –2,12
+ 1.494,71
+ 956,94
+ 2.934,23
+ 10
+ 117,77
+ –0,48
+ –0,56
+ 38,12
+ 548,91
+ –1,42
+ 2.253,96
+ 703,80
+ 3.660,10
+ 11
+ 167,07
+ 2,85
+ –0,17
+ 29,35
+ 637,51
+ –0,32
+ 2.819,44
+ 686,53
+ 4.342,26
+ 12
+ 97,51
+ –0,25
+ –1,16
+ 85,32
+ 491,52
+ –2,03
+ 3.073,04
+ 804,34
+ 4.548,29
+ 13
+ 23,82
+ –0,94
+ –1,33
+ 15,19
+ 2.998,62
+ –2,64
+ 1.111,13
+ 254,94
+ 4.398,79 Het college berekent de gewichten kosten van de onderscheiden afzonderlijke overige prestaties en van de totale overige prestaties per verzekerde voor de DKG 2006 0 door de geraamde totale aantallen verzekerden per DKG 2006 1 tot en met 13 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het geraamde totaal aantal verzekerden DKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-| Risicoklasse | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- |
-| Vrouwen | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Ziekenvervoer |
-| 0 t/m 4 jaar | 113,34 | 12,98 | 0,00 | 21,72 | 20,52 |
-| 5 t/m 9 jaar | 98,93 | 82,46 | 0,00 | 37,22 | 14,70 |
-| 10 t/m 14 jaar | 94,84 | 137,98 | 0,00 | 22,36 | 16,97 |
-| 15 t/m 19 jaar | 105,17 | 76,89 | 3,57 | 23,68 | 23,81 |
-| 20 t/m 24 jaar | 105,76 | 8,77 | 27,03 | 14,92 | 20,72 |
-| 25 t/m 29 jaar | 108,67 | 9,04 | 72,77 | 18,60 | 21,63 |
-| 30 t/m 34 jaar | 109,56 | 9,21 | 88,80 | 19,89 | 21,20 |
-| 35 t/m 39 jaar | 108,96 | 9,60 | 35,79 | 21,51 | 20,78 |
-| 40 t/m 44 jaar | 108,76 | 10,11 | 4,60 | 24,16 | 22,06 |
-| 45 t/m 49 jaar | 109,91 | 10,79 | 0,00 | 27,92 | 25,26 |
-| 50 t/m 54 jaar | 110,96 | 11,77 | 0,00 | 30,58 | 28,29 |
-| 55 t/m 59 jaar | 112,29 | 12,54 | 0,00 | 31,27 | 30,81 |
-| 60 t/m 64 jaar | 112,99 | 13,36 | 0,00 | 31,09 | 34,69 |
-| 65 t/m 69 jaar | 115,06 | 12,08 | 0,00 | 32,90 | 42,73 |
-| 70 t/m 74 jaar | 123,02 | 9,55 | 0,00 | 37,06 | 59,93 |
-| 75 t/m 79 jaar | 132,01 | 6,58 | 0,00 | 43,08 | 76,09 |
-| 80 t/m 84 jaar | 149,97 | 4,13 | 0,00 | 49,26 | 95,35 |
-| 85 t/m 89 jaar | 175,79 | 2,37 | 0,00 | 54,41 | 112,68 |
-| 90 jaar en ouder | 211,51 | 1,58 | 0,00 | 56,99 | 127,71 |
+- d. de volgende gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2006 (Totale overige prestaties en van de afzonderlijke overige prestaties): Aard van het inkomenklasse
+ Gewichten in euro’s
+ Huisartsenzorg
+ 0–14 jaar
+ 15–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ 1.
+ 0 t/m 14 jaar of 65 jaar en ouder
+ 0,00
+ 
+ 
+ 
+ 
+ 0,00
+ 2.
+ Arbeidsongeschikten
+ 
+ 25,02
+ 24,21
+ 19,91
+ 11,18
+ 3.
+ Bijstandsgerechtigden
+ 
+ 12,50
+ 13,42
+ 10,05
+ –0,59
+ 4.
+ WW, ANW (AWW) en overige uitkeringsgerechtigden
+ 
+ 7,76
+ 3,81
+ 1,00
+ –5,35
+ 5.
+ Zelfstandigen
+ 
+ –6,11
+ –7,29
+ –8,97
+ –10,99
+ 6.
+ Referentiegroep Aard van het inkomenklasse
+ Gewichten in euro’s
+ Tandheelkundige hulp
+ 0–14 jaar
+ 15–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ 1.
+ 0 t/m 14 jaar of 65 jaar en ouder
+ 0,00
+ 
+ 
+ 
+ 
+ 0,00
+ 2.
+ Arbeidsongeschikten
+ 
+ –1,77
+ 2,31
+ 1,95
+ 2,10
+ 3.
+ Bijstandsgerechtigden
+ 
+ –2,84
+ 0,85
+ 0,32
+ –0,16
+ 4.
+ WW, ANW (AWW) en overige uitkeringsgerechtigden
+ 
+ –1,55
+ 0,10
+ 0,22
+ 0,12
+ 5.
+ Zelfstandigen
+ 
+ –0,87
+ –0,48
+ –0,56
+ –1,16
+ 6.
+ Referentiegroep Aard van het inkomenklasse
+ Gewichten in euro’s
+ Verloskundige hulp
+ 0–14 jaar
+ 15–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ 1.
+ 0 t/m 14 jaar of 65 jaar en ouder
+ 0,00
+ 
+ 
+ 
+ 
+ 0,00
+ 2.
+ Arbeidsongeschikten
+ 
+ –7,95
+ –2,58
+ 0,00
+ 0,00
+ 3.
+ Bijstandsgerechtigden
+ 
+ 6,51
+ –2,58
+ 0,00
+ 0,00
+ 4.
+ WW, ANW (AWW) en overige uitkeringsgerechtigden
+ 
+ 7,92
+ 1,64
+ 0,00
+ 0,00
+ 5.
+ Zelfstandigen
+ 
+ –1,35
+ –0,57
+ 0,00
+ 0,00
+ 6.
+ Referentiegroep Aard van het inkomenklasse
+ Gewichten in euro’s
+ Paramedische hulp
+ 0–14 jaar
+ 15–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ 1.
+ 0 t/m 14 jaar of 65 jaar en ouder
+ 0,00
+ 
+ 
+ 
+ 
+ 0,00
+ 2.
+ Arbeidsongeschikten
+ 
+ 16,84
+ 17,48
+ 17,22
+ 12,77
+ 3.
+ Bijstandsgerechtigden
+ 
+ –3,43
+ –2,02
+ –1,36
+ –3,61
+ 4.
+ WW, ANW (AWW) en overige uitkeringsgerechtigden
+ 
+ 2,48
+ 1,20
+ –0,93
+ –4,05
+ 5.
+ Zelfstandigen
+ 
+ –2,22
+ –3,41
+ –4,63
+ –5,57
+ 6.
+ Referentiegroep Aard van het inkomenklasse
+ Gewichten in euro’s
+ Ziekenvervoer
+ 0–14 jaar
+ 15–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ 1.
+ 0 t/m 14 jaar of 65 jaar en ouder
+ 0,00
+ 
+ 
+ 
+ 
+ 0,00
+ 2.
+ Arbeidsongeschikten
+ 
+ 48,94
+ 39,50
+ 35,72
+ 25,66
+ 3.
+ Bijstandsgerechtigden
+ 
+ 17,02
+ 18,26
+ 20,63
+ 11,18
+ 4.
+ WW, ANW (AWW) en overige uitkeringsgerechtigden
+ 
+ 2,70
+ –1,62
+ –2,65
+ –3,28
+ 5.
+ Zelfstandigen
+ 
+ –3,24
+ –6,66
+ –10,42
+ –14,41
+ 6.
+ Referentiegroep Aard van het inkomenklasse
+ Gewichten in euro’s
+ Kraamzorg
+ 0–14 jaar
+ 15–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ 1.
+ 0 t/m 14 jaar of 65 jaar en ouder
+ 0,00
+ 
+ 
+ 
+ 
+ 0,00
+ 2.
+ Arbeidsongeschikten
+ 
+ –18,45
+ –5,53
+ 0,00
+ 0,00
+ 3.
+ Bijstandsgerechtigden
+ 
+ –30,81
+ –17,01
+ 0,00
+ 0,00
+ 4.
+ WW, ANW (AWW) en overige uitkeringsgerechtigden
+ 
+ 6,00
+ 2,63
+ 0,00
+ 0,00
+ 5.
+ Zelfstandigen
+ 
+ –3,96
+ –3,15
+ 0,00
+ 0,00
+ 6.
+ Referentiegroep Aard van het inkomenklasse
+ Gewichten in euro’s
+ Farmaceutische hulp
+ 0–14 jaar
+ 15–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ 1.
+ 0 t/m 14 jaar of 65 jaar en ouder
+ 0,00
+ 
+ 
+ 
+ 
+ 0,00
+ 2.
+ Arbeidsongeschikten
+ 
+ 268,63
+ 297,49
+ 310,81
+ 212,70
+ 3.
+ Bijstandsgerechtigden
+ 
+ 49,19
+ 109,64
+ 158,80
+ 57,11
+ 4.
+ WW, ANW (AWW) en overige uitkeringsgerechtigden
+ 
+ 9,39
+ 8,52
+ –2,33
+ –32,88
+ 5.
+ Zelfstandigen
+ 
+ –18,17
+ –44,56
+ –72,00
+ –102,71
+ 6.
+ Referentiegroep Aard van het inkomenklasse
+ Gewichten in euro’s
+ Hulpmiddelen
+ 0–14 jaar
+ 15–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ 1.
+ 0 t/m 14 jaar of 65 jaar en ouder
+ 0,00
+ 
+ 
+ 
+ 
+ 0,00
+ 2.
+ Arbeidsongeschikten
+ 
+ 137,04
+ 95,01
+ 100,83
+ 77,12
+ 3.
+ Bijstandsgerechtigden
+ 
+ –1,06
+ 3,78
+ 14,17
+ 2,75
+ 4.
+ WW, ANW (AWW) en overige uitkeringsgerechtigden
+ 
+ –2,85
+ –7,30
+ –7,58
+ –9,97
+ 5.
+ Zelfstandigen
+ 
+ –6,13
+ –12,24
+ –19,86
+ –33,97
+ 6.
+ Referentiegroep Aard van het inkomenklasse
+ Gewichten in euro’s
+ Totale overige prestaties
+ 0–14 jaar
+ 15–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ 1.
+ 0 t/m 14 jaar of 65 jaar en ouder
+ 0,00
+ 
+ 
+ 
+ 
+ 0,00
+ 2.
+ Arbeidsongeschikten
+ 
+ 468,30
+ 467,89
+ 486,44
+ 341,53
+ 3.
+ Bijstandsgerechtigden
+ 
+ 47,08
+ 124,34
+ 202,61
+ 66,68
+ 4.
+ WW, ANW (AWW) en overige uitkeringsgerechtigden
+ 
+ 31,85
+ 8,98
+ –12,27
+ –55,41
+ 5.
+ Zelfstandigen
+ 
+ –42,05
+ –78,36
+ –116,44
+ –168,81
+ 6.
+ Referentiegroep Het college berekent de gewichten kosten van de onderscheiden afzonderlijke overige prestaties en van de totale overige prestaties per verzekerde per leeftijdscategorie voor de referentiegroep aard van het inkomen door de geraamde totale aantallen verzekerden van de aard van het inkomenklasse 2006 2 tot en 5 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het geraamde totaal aantal verzekerden per leeftijdsklasse van de referentiegroep aard van het inkomen, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-| Risicoklasse | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- |
-| Vrouwen | Kraamzorg | Farmaceutische hulp | Hulpmiddelen | Totale overige prestaties |
-| 0 t/m 4 jaar | 0,00 | 184,41 | 47,42 | 400,39 |
-| 5 t/m 9 jaar | 0,00 | 169,99 | 49,23 | 452,53 |
-| 10 t/m 14 jaar | 0,00 | 186,87 | 50,66 | 509,68 |
-| 15 t/m 19 jaar | 4,90 | 227,85 | 46,54 | 512,41 |
-| 20 t/m 24 jaar | 47,88 | 228,16 | 39,09 | 492,33 |
-| 25 t/m 29 jaar | 169,48 | 234,54 | 38,09 | 672,82 |
-| 30 t/m 34 jaar | 242,90 | 248,05 | 41,64 | 781,25 |
-| 35 t/m 39 jaar | 106,51 | 269,04 | 48,54 | 620,73 |
-| 40 t/m 44 jaar | 15,29 | 278,62 | 53,21 | 516,81 |
-| 45 t/m 49 jaar | 0,00 | 349,77 | 69,03 | 592,68 |
-| 50 t/m 54 jaar | 0,00 | 390,31 | 82,34 | 654,25 |
-| 55 t/m 59 jaar | 0,00 | 438,60 | 100,12 | 725,63 |
-| 60 t/m 64 jaar | 0,00 | 469,43 | 117,43 | 778,99 |
-| 65 t/m 69 jaar | 0,00 | 511,86 | 138,17 | 852,80 |
-| 70 t/m 74 jaar | 0,00 | 551,63 | 176,57 | 957,76 |
-| 75 t/m 79 jaar | 0,00 | 571,45 | 239,56 | 1.068,77 |
-| 80 t/m 84 jaar | 0,00 | 573,53 | 321,08 | 1.193,32 |
-| 85 t/m 89 jaar | 0,00 | 566,24 | 426,66 | 1.338,15 |
-| 90 jaar en ouder | 0,00 | 563,54 | 583,50 | 1.544,83 |
-
-- b. de volgende gewichten kosten van overige prestaties per verzekerde per FKG 2006 (Totale overige prestaties en van de afzonderlijke overige prestaties): Het college berekent de gewichten kosten van de onderscheiden afzonderlijke overige prestaties en van de totale overige prestaties per verzekerde voor de FKG 2006 0 door de geraamde totale aantallen verzekerden per FKG 2006 1 tot en met 17 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het geraamde totaal aantal verzekerden FKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
-
-|   | FKG 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- |
-|   |   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp |
-| 0 | Geen FKG |   |   |   |
-| 1 | Glaucoom | 5,64 | 0,24 | –0,33 |
-| 2 | Schildklieraandoeningen | 9,89 | 1,11 | –2,98 |
-| 3 | Hoog cholesterol | 10,66 | 0,70 | –0,37 |
-| 4 | Diabetes IIb (laag intensief) | 16,59 | –0,25 | –0,82 |
-| 5 | Cara | 56,55 | 1,19 | –1,56 |
-| 6 | Diabetes IIa (hoog intensief) | 22,53 | –0,45 | –0,29 |
-| 7 | Epilepsie | 61,24 | 2,26 | –4,91 |
-| 8 | Ziekte van Crohn/colitis ulcerosa | 49,67 | 1,06 | –3,83 |
-| 9 | Hartaandoeningen | 60,98 | –0,14 | –0,29 |
-| 10 | Reuma | 52,95 | 0,23 | –2,44 |
-| 11 | Parkinson | 74,33 | 2,69 | –0,23 |
-| 12 | Diabetes I | 65,30 | 0,19 | –2,50 |
-| 13 | Transplantaties | 60,39 | 0,30 | –6,03 |
-| 14 | Cystic fibrosis en pancreasaandoeningen | 67,68 | 0,35 | –1,89 |
-| 15 | Neuromusculaire aandoeningen | 74,23 | 1,60 | –6,82 |
-| 16 | HIV/AIDS | 58,82 | 1,29 | –5,80 |
-| 17 | Nieraandoeningen/ESRD | 77,50 | –0,26 | –0,73 |
-
-|   | FKG 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- |
-|   |   | Paramedische hulp | Ziekenvervoer | Kraamzorg |
-| 0 | Geen FKG |   |   |   |
-| 1 | Glaucoom | 1,73 | 1,58 | –0,35 |
-| 2 | Schildklieraandoeningen | 5,08 | 3,29 | –2,10 |
-| 3 | Hoog cholesterol | 2,87 | –1,32 | –0,53 |
-| 4 | Diabetes IIb (laag intensief) | 2,22 | 9,88 | –0,64 |
-| 5 | Cara | 11,61 | 21,74 | –3,01 |
-| 6 | Diabetes IIa (hoog intensief) | 3,20 | 8,18 | 0,41 |
-| 7 | Epilepsie | 27,67 | 77,19 | –7,98 |
-| 8 | Ziekte van Crohn/colitis ulcerosa | 5,03 | 3,26 | –3,31 |
-| 9 | Hartaandoeningen | 14,57 | 82,54 | 0,62 |
-| 10 | Reuma | 67,26 | 46,58 | –5,43 |
-| 11 | Parkinson | 196,09 | 91,35 | 0,17 |
-| 12 | Diabetes I | 13,18 | 70,81 | –2,82 |
-| 13 | Transplantaties | 17,64 | 97,09 | –10,96 |
-| 14 | Cystic fibrosis en pancreasaandoeningen | 70,55 | 87,11 | –3,55 |
-| 15 | Neuromusculaire aandoeningen | 256,48 | 188,68 | –16,42 |
-| 16 | HIV/AIDS | –6,15 | 7,21 | –11,32 |
-| 17 | Nieraandoeningen/ESRD | 5,58 | 531,72 | –1,05 |
-
-|   | FKG 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- |
-|   |   | Farmaceutische hulp | Hulpmiddelen | Totale overige prestaties |
-| 0 | Geen FKG |   |   |   |
-| 1 | Glaucoom | 225,51 | 22,89 | 256,91 |
-| 2 | Schildklieraandoeningen | 187,86 | 10,27 | 212,42 |
-| 3 | Hoog cholesterol | 554,67 | –12,18 | 554,50 |
-| 4 | Diabetes IIb (laag intensief) | 439,90 | 103,12 | 570,00 |
-| 5 | Cara | 693,96 | 48,53 | 829,01 |
-| 6 | Diabetes IIa (hoog intensief) | 1.132,66 | 92,88 | 1.259,12 |
-| 7 | Epilepsie | 808,76 | 191,31 | 1.155,54 |
-| 8 | Ziekte van Crohn/colitis ulcerosa | 999,98 | 98,62 | 1.150,48 |
-| 9 | Hartaandoeningen | 859,91 | 159,72 | 1.177,91 |
-| 10 | Reuma | 1.476,48 | 174,51 | 1.810,14 |
-| 11 | Parkinson | 1.717,33 | 497,28 | 2.579,01 |
-| 12 | Diabetes I | 1.299,97 | 1.049,17 | 2.493,30 |
-| 13 | Transplantaties | 3.434,30 | 214,75 | 3.807,48 |
-| 14 | Cystic fibrosis en pancreasaandoeningen | 5.011,52 | 633,33 | 5.865,10 |
-| 15 | Neuromusculaire aandoeningen | 6.716,16 | 1.529,30 | 8.743,21 |
-| 16 | HIV/AIDS | 11.133,08 | –9,89 | 11.167,24 |
-| 17 | Nieraandoeningen/ESRD | 5.322,19 | 188,49 | 6.123,44 |
-
-- c. de volgende gewichten kosten van overige prestaties per verzekerde per DKG 2006 (Totale overige prestaties en van de afzonderlijke overige prestaties): Het college berekent de gewichten kosten van de onderscheiden afzonderlijke overige prestaties en van de totale overige prestaties per verzekerde voor de DKG 2006 0 door de geraamde totale aantallen verzekerden per DKG 2006 1 tot en met 13 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het geraamde totaal aantal verzekerden DKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
-
-| DKG 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Ziekenvervoer | Kraamzorg | Farmaceutische hulp | Hulpmiddelen | Totale overige prestaties |
-| 0 |   |   |   |   |   |   |   |   |   |
-| 1 | 39,85 | 1,18 | –0,16 | 52,13 | 36,79 | –0,38 | 127,02 | 53,43 | 309,86 |
-| 2 | 39,28 | 0,27 | –0,68 | 11,32 | 105,41 | –1,41 | 417,45 | 73,14 | 644,78 |
-| 3 | 46,60 | 0,36 | –0,28 | 12,89 | 130,98 | –0,61 | 524,02 | 138,76 | 852,72 |
-| 4 | 52,74 | –0,42 | –0,56 | 44,75 | 201,70 | –0,86 | 576,58 | 210,51 | 1.084,44 |
-| 5 | 46,15 | –0,05 | –0,85 | 17,54 | 159,63 | –1,12 | 505,67 | 241,96 | 968,93 |
-| 6 | 48,60 | –0,36 | –0,22 | 18,45 | 180,31 | –0,69 | 490,80 | 332,62 | 1.069,51 |
-| 7 | 71,03 | –0,35 | –1,95 | 41,78 | 234,53 | –4,41 | 1.270,60 | 325,15 | 1.936,38 |
-| 8 | 66,16 | 0,40 | 0,21 | 52,22 | 375,19 | 0,73 | 1.492,85 | 697,12 | 2.684,88 |
-| 9 | 72,46 | 4,89 | –0,80 | 42,15 | 366,00 | –2,12 | 1.494,71 | 956,94 | 2.934,23 |
-| 10 | 117,77 | –0,48 | –0,56 | 38,12 | 548,91 | –1,42 | 2.253,96 | 703,80 | 3.660,10 |
-| 11 | 167,07 | 2,85 | –0,17 | 29,35 | 637,51 | –0,32 | 2.819,44 | 686,53 | 4.342,26 |
-| 12 | 97,51 | –0,25 | –1,16 | 85,32 | 491,52 | –2,03 | 3.073,04 | 804,34 | 4.548,29 |
-| 13 | 23,82 | –0,94 | –1,33 | 15,19 | 2.998,62 | –2,64 | 1.111,13 | 254,94 | 4.398,79 |
-
-- d. de volgende gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2006 (Totale overige prestaties en van de afzonderlijke overige prestaties): Het college berekent de gewichten kosten van de onderscheiden afzonderlijke overige prestaties en van de totale overige prestaties per verzekerde per leeftijdscategorie voor de referentiegroep aard van het inkomen door de geraamde totale aantallen verzekerden van de aard van het inkomenklasse 2006 2 tot en 5 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het geraamde totaal aantal verzekerden per leeftijdsklasse van de referentiegroep aard van het inkomen, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
-
-| Aard van het inkomenklasse Gewichten in euro’s Huisartsenzorg | Aard van het inkomenklasse Gewichten in euro’s Huisartsenzorg | 0–14 jaar | 15–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |   |   |   |   | 0,00 |
-| 2. | Arbeidsongeschikten |   | 25,02 | 24,21 | 19,91 | 11,18 |   |
-| 3. | Bijstandsgerechtigden |   | 12,50 | 13,42 | 10,05 | –0,59 |   |
-| 4. | WW, ANW (AWW) en overige uitkeringsgerechtigden |   | 7,76 | 3,81 | 1,00 | –5,35 |   |
-| 5. | Zelfstandigen |   | –6,11 | –7,29 | –8,97 | –10,99 |   |
-| 6. | Referentiegroep |   |   |   |   |   |   |
-
-| Aard van het inkomenklasse Gewichten in euro’s Tandheelkundige hulp | Aard van het inkomenklasse Gewichten in euro’s Tandheelkundige hulp | 0–14 jaar | 15–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |   |   |   |   | 0,00 |
-| 2. | Arbeidsongeschikten |   | –1,77 | 2,31 | 1,95 | 2,10 |   |
-| 3. | Bijstandsgerechtigden |   | –2,84 | 0,85 | 0,32 | –0,16 |   |
-| 4. | WW, ANW (AWW) en overige uitkeringsgerechtigden |   | –1,55 | 0,10 | 0,22 | 0,12 |   |
-| 5. | Zelfstandigen |   | –0,87 | –0,48 | –0,56 | –1,16 |   |
-| 6. | Referentiegroep |   |   |   |   |   |   |
-
-| Aard van het inkomenklasse Gewichten in euro’s Verloskundige hulp | Aard van het inkomenklasse Gewichten in euro’s Verloskundige hulp | 0–14 jaar | 15–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |   |   |   |   | 0,00 |
-| 2. | Arbeidsongeschikten |   | –7,95 | –2,58 | 0,00 | 0,00 |   |
-| 3. | Bijstandsgerechtigden |   | 6,51 | –2,58 | 0,00 | 0,00 |   |
-| 4. | WW, ANW (AWW) en overige uitkeringsgerechtigden |   | 7,92 | 1,64 | 0,00 | 0,00 |   |
-| 5. | Zelfstandigen |   | –1,35 | –0,57 | 0,00 | 0,00 |   |
-| 6. | Referentiegroep |   |   |   |   |   |   |
-
-| Aard van het inkomenklasse Gewichten in euro’s Paramedische hulp | Aard van het inkomenklasse Gewichten in euro’s Paramedische hulp | 0–14 jaar | 15–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |   |   |   |   | 0,00 |
-| 2. | Arbeidsongeschikten |   | 16,84 | 17,48 | 17,22 | 12,77 |   |
-| 3. | Bijstandsgerechtigden |   | –3,43 | –2,02 | –1,36 | –3,61 |   |
-| 4. | WW, ANW (AWW) en overige uitkeringsgerechtigden |   | 2,48 | 1,20 | –0,93 | –4,05 |   |
-| 5. | Zelfstandigen |   | –2,22 | –3,41 | –4,63 | –5,57 |   |
-| 6. | Referentiegroep |   |   |   |   |   |   |
-
-| Aard van het inkomenklasse Gewichten in euro’s Ziekenvervoer | Aard van het inkomenklasse Gewichten in euro’s Ziekenvervoer | 0–14 jaar | 15–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |   |   |   |   | 0,00 |
-| 2. | Arbeidsongeschikten |   | 48,94 | 39,50 | 35,72 | 25,66 |   |
-| 3. | Bijstandsgerechtigden |   | 17,02 | 18,26 | 20,63 | 11,18 |   |
-| 4. | WW, ANW (AWW) en overige uitkeringsgerechtigden |   | 2,70 | –1,62 | –2,65 | –3,28 |   |
-| 5. | Zelfstandigen |   | –3,24 | –6,66 | –10,42 | –14,41 |   |
-| 6. | Referentiegroep |   |   |   |   |   |   |
-
-| Aard van het inkomenklasse Gewichten in euro’s Kraamzorg | Aard van het inkomenklasse Gewichten in euro’s Kraamzorg | 0–14 jaar | 15–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |   |   |   |   | 0,00 |
-| 2. | Arbeidsongeschikten |   | –18,45 | –5,53 | 0,00 | 0,00 |   |
-| 3. | Bijstandsgerechtigden |   | –30,81 | –17,01 | 0,00 | 0,00 |   |
-| 4. | WW, ANW (AWW) en overige uitkeringsgerechtigden |   | 6,00 | 2,63 | 0,00 | 0,00 |   |
-| 5. | Zelfstandigen |   | –3,96 | –3,15 | 0,00 | 0,00 |   |
-| 6. | Referentiegroep |   |   |   |   |   |   |
-
-| Aard van het inkomenklasse Gewichten in euro’s Farmaceutische hulp | Aard van het inkomenklasse Gewichten in euro’s Farmaceutische hulp | 0–14 jaar | 15–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |   |   |   |   | 0,00 |
-| 2. | Arbeidsongeschikten |   | 268,63 | 297,49 | 310,81 | 212,70 |   |
-| 3. | Bijstandsgerechtigden |   | 49,19 | 109,64 | 158,80 | 57,11 |   |
-| 4. | WW, ANW (AWW) en overige uitkeringsgerechtigden |   | 9,39 | 8,52 | –2,33 | –32,88 |   |
-| 5. | Zelfstandigen |   | –18,17 | –44,56 | –72,00 | –102,71 |   |
-| 6. | Referentiegroep |   |   |   |   |   |   |
-
-| Aard van het inkomenklasse Gewichten in euro’s Hulpmiddelen | Aard van het inkomenklasse Gewichten in euro’s Hulpmiddelen | 0–14 jaar | 15–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |   |   |   |   | 0,00 |
-| 2. | Arbeidsongeschikten |   | 137,04 | 95,01 | 100,83 | 77,12 |   |
-| 3. | Bijstandsgerechtigden |   | –1,06 | 3,78 | 14,17 | 2,75 |   |
-| 4. | WW, ANW (AWW) en overige uitkeringsgerechtigden |   | –2,85 | –7,30 | –7,58 | –9,97 |   |
-| 5. | Zelfstandigen |   | –6,13 | –12,24 | –19,86 | –33,97 |   |
-| 6. | Referentiegroep |   |   |   |   |   |   |
-
-| Aard van het inkomenklasse Gewichten in euro’s Totale overige prestaties | Aard van het inkomenklasse Gewichten in euro’s Totale overige prestaties | 0–14 jaar | 15–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |   |   |   |   | 0,00 |
-| 2. | Arbeidsongeschikten |   | 468,30 | 467,89 | 486,44 | 341,53 |   |
-| 3. | Bijstandsgerechtigden |   | 47,08 | 124,34 | 202,61 | 66,68 |   |
-| 4. | WW, ANW (AWW) en overige uitkeringsgerechtigden |   | 31,85 | 8,98 | –12,27 | –55,41 |   |
-| 5. | Zelfstandigen |   | –42,05 | –78,36 | –116,44 | –168,81 |   |
-| 6. | Referentiegroep |   |   |   |   |   |   |
-
-- e. de volgende gewichten kosten van overige prestaties per verzekerde per regioklasse 2006 (voormalig ziekenfonds verzekerd) (Totale overige prestaties en van de afzonderlijke overige prestaties): de volgende gewichten kosten van overige prestaties per verzekerde per regioklasse 2006 (voormalig particulier verzekerd) (Totale overige prestaties en van de afzonderlijke overige prestaties):
-
-| Regioklasse 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Ziekenvervoer | Kraamzorg | Farmaceutische hulp | Hulpmiddelen | Totale overige prestaties |
-| 1 | 6,26 | 0,42 | 0,30 | –2,14 | –1,08 | –6,69 | 13,76 | 2,48 | 13,31 |
-| 2 | 6,09 | –0,42 | 0,21 | –0,89 | 0,80 | –4,61 | 11,57 | 4,70 | 17,45 |
-| 3 | 4,92 | –0,71 | 0,41 | –0,31 | 0,41 | –3,10 | 9,28 | 3,99 | 14,89 |
-| 4 | 4,57 | –0,89 | 0,58 | –0,21 | 1,21 | –1,50 | 8,27 | 4,20 | 16,23 |
-| 5 | 3,61 | –1,44 | 0,78 | –0,03 | 2,44 | –0,21 | –0,09 | 5,04 | 10,10 |
-| 6 | 3,33 | –1,35 | 0,77 | 0,24 | 2,57 | 0,31 | 0,13 | 2,92 | 8,92 |
-| 7 | 3,14 | –1,17 | 0,98 | –1,03 | 1,79 | 1,22 | –2,73 | 4,25 | 6,45 |
-| 8 | 2,06 | –1,71 | 1,10 | –0,11 | 2,13 | 1,86 | –6,31 | 2,50 | 1,52 |
-| 9 | 1,08 | –1,80 | 0,75 | –0,83 | 2,73 | 2,36 | –16,40 | 0,25 | –11,86 |
-| 10 | 0,35 | –2,89 | –0,35 | –2,17 | 2,34 | –0,62 | –19,93 | –1,83 | –25,10 |
-
-| Regioklasse 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Ziekenvervoer | Kraamzorg | Farmaceutische hulp | Hulpmiddelen | Totale overige prestaties |
-| 1 | –6,84 | 0,24 | –2,12 | –0,81 | –4,84 | –2,62 | 9,44 | –8,40 | –15,95 |
-| 2 | –5,97 | 2,24 | –1,19 | 0,64 | –3,21 | –0,45 | –0,50 | –4,86 | –13,30 |
-| 3 | –6,88 | 1,88 | –1,27 | 1,18 | –4,43 | 1,13 | –0,32 | –5,08 | –13,79 |
-| 4 | –6,03 | 2,33 | –1,04 | 1,58 | –2,66 | 1,99 | –2,56 | –4,54 | –10,93 |
-| 5 | –6,30 | 2,63 | –0,69 | 1,41 | –2,42 | 2,65 | –0,74 | –5,77 | –9,23 |
-| 6 | –6,32 | 2,50 | –0,75 | 1,85 | –2,92 | 3,48 | –0,36 | –6,34 | –8,86 |
-| 7 | –5,70 | 3,04 | –0,31 | 0,80 | –2,98 | 4,12 | –3,48 | –4,39 | –8,90 |
-| 8 | –6,04 | 2,01 | –0,60 | 1,50 | –1,72 | 3,30 | –4,45 | –6,00 | –12,00 |
-| 9 | –7,21 | 1,52 | –0,93 | 1,02 | –1,71 | 3,01 | –1,24 | –5,30 | –10,84 |
-| 10 | –9,32 | –0,65 | –2,17 | 0,07 | –1,28 | 1,30 | –9,29 | –4,30 | –25,64 |
+- e. de volgende gewichten kosten van overige prestaties per verzekerde per regioklasse 2006 (voormalig ziekenfonds verzekerd) (Totale overige prestaties en van de afzonderlijke overige prestaties): Regioklasse 2006
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Huisartsenhulp
+ Tandheelkundige hulp
+ Verloskundige hulp
+ Paramedische hulp
+ Ziekenvervoer
+ Kraamzorg
+ Farmaceutische hulp
+ Hulpmiddelen
+ Totale
+ overige
+ prestaties
+ 1
+ 6,26
+ 0,42
+ 0,30
+ –2,14
+ –1,08
+ –6,69
+ 13,76
+ 2,48
+ 13,31
+ 2
+ 6,09
+ –0,42
+ 0,21
+ –0,89
+ 0,80
+ –4,61
+ 11,57
+ 4,70
+ 17,45
+ 3
+ 4,92
+ –0,71
+ 0,41
+ –0,31
+ 0,41
+ –3,10
+ 9,28
+ 3,99
+ 14,89
+ 4
+ 4,57
+ –0,89
+ 0,58
+ –0,21
+ 1,21
+ –1,50
+ 8,27
+ 4,20
+ 16,23
+ 5
+ 3,61
+ –1,44
+ 0,78
+ –0,03
+ 2,44
+ –0,21
+ –0,09
+ 5,04
+ 10,10
+ 6
+ 3,33
+ –1,35
+ 0,77
+ 0,24
+ 2,57
+ 0,31
+ 0,13
+ 2,92
+ 8,92
+ 7
+ 3,14
+ –1,17
+ 0,98
+ –1,03
+ 1,79
+ 1,22
+ –2,73
+ 4,25
+ 6,45
+ 8
+ 2,06
+ –1,71
+ 1,10
+ –0,11
+ 2,13
+ 1,86
+ –6,31
+ 2,50
+ 1,52
+ 9
+ 1,08
+ –1,80
+ 0,75
+ –0,83
+ 2,73
+ 2,36
+ –16,40
+ 0,25
+ –11,86
+ 10
+ 0,35
+ –2,89
+ –0,35
+ –2,17
+ 2,34
+ –0,62
+ –19,93
+ –1,83
+ –25,10 de volgende gewichten kosten van overige prestaties per verzekerde per regioklasse 2006 (voormalig particulier verzekerd) (Totale overige prestaties en van de afzonderlijke overige prestaties): Regioklasse 2006
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Gewicht
+ in euro’s
+ Huisartsenhulp
+ Tandheelkundige hulp
+ Verloskundige hulp
+ Paramedische hulp
+ Ziekenvervoer
+ Kraamzorg
+ Farmaceutische hulp
+ Hulpmiddelen
+ Totale
+ overige
+ prestaties
+ 1
+ –6,84
+ 0,24
+ –2,12
+ –0,81
+ –4,84
+ –2,62
+ 9,44
+ –8,40
+ –15,95
+ 2
+ –5,97
+ 2,24
+ –1,19
+ 0,64
+ –3,21
+ –0,45
+ –0,50
+ –4,86
+ –13,30
+ 3
+ –6,88
+ 1,88
+ –1,27
+ 1,18
+ –4,43
+ 1,13
+ –0,32
+ –5,08
+ –13,79
+ 4
+ –6,03
+ 2,33
+ –1,04
+ 1,58
+ –2,66
+ 1,99
+ –2,56
+ –4,54
+ –10,93
+ 5
+ –6,30
+ 2,63
+ –0,69
+ 1,41
+ –2,42
+ 2,65
+ –0,74
+ –5,77
+ –9,23
+ 6
+ –6,32
+ 2,50
+ –0,75
+ 1,85
+ –2,92
+ 3,48
+ –0,36
+ –6,34
+ –8,86
+ 7
+ –5,70
+ 3,04
+ –0,31
+ 0,80
+ –2,98
+ 4,12
+ –3,48
+ –4,39
+ –8,90
+ 8
+ –6,04
+ 2,01
+ –0,60
+ 1,50
+ –1,72
+ 3,30
+ –4,45
+ –6,00
+ –12,00
+ 9
+ –7,21
+ 1,52
+ –0,93
+ 1,02
+ –1,71
+ 3,01
+ –1,24
+ –5,30
+ –10,84
+ 10
+ –9,32
+ –0,65
+ –2,17
+ 0,07
+ –1,28
+ 1,30
+ –9,29
+ –4,30
+ –25,64
 
 2. De gewichten kosten van de totale overige prestaties per verzekerde per risicoklasse 2006 worden per overeenkomstige risicoklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden per risicoklasse 2006. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -586,53 +1994,141 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 1. Voor de raming van de normatieve no-claimteruggaven hanteert het college als uitgangspunten:
 
-- a. de volgende gewichten no-claimteruggave per verzekerde per risicoklasse 2006:
+- a. de volgende gewichten no-claimteruggave per verzekerde per risicoklasse 2006: Risicoklasse
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Mannen
+ Vrouwen
+ 18 t/m 19 jaar
+ 162,27
+ 114,52
+ 20 t/m 24 jaar
+ 164,83
+ 108,76
+ 25 t/m 29 jaar
+ 160,78
+ 97,35
+ 30 t/m 34 jaar
+ 150,36
+ 91,19
+ 35 t/m 39 jaar
+ 137,59
+ 95,78
+ 40 t/m 44 jaar
+ 128,02
+ 97,20
+ 45 t/m 49 jaar
+ 114,34
+ 83,91
+ 50 t/m 54 jaar
+ 100,69
+ 72,70
+ 55 t/m 59 jaar
+ 81,25
+ 62,58
+ 60 t/m 64 jaar
+ 67,94
+ 53,97
+ 65 t/m 69 jaar
+ 49,75
+ 43,14
+ 70 t/m 74 jaar
+ 34,10
+ 32,03
+ 75 t/m 79 jaar
+ 24,24
+ 24,59
+ 80 t/m 84 jaar
+ 21,57
+ 22,77
+ 85 t/m 89 jaar
+ 21,47
+ 25,20
+ 90 jaar en ouder
+ 23,92
+ 30,38
 
-| Risicoklasse | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- |
-|   | Mannen | Vrouwen |
-| 18 t/m 19 jaar | 162,27 | 114,52 |
-| 20 t/m 24 jaar | 164,83 | 108,76 |
-| 25 t/m 29 jaar | 160,78 | 97,35 |
-| 30 t/m 34 jaar | 150,36 | 91,19 |
-| 35 t/m 39 jaar | 137,59 | 95,78 |
-| 40 t/m 44 jaar | 128,02 | 97,20 |
-| 45 t/m 49 jaar | 114,34 | 83,91 |
-| 50 t/m 54 jaar | 100,69 | 72,70 |
-| 55 t/m 59 jaar | 81,25 | 62,58 |
-| 60 t/m 64 jaar | 67,94 | 53,97 |
-| 65 t/m 69 jaar | 49,75 | 43,14 |
-| 70 t/m 74 jaar | 34,10 | 32,03 |
-| 75 t/m 79 jaar | 24,24 | 24,59 |
-| 80 t/m 84 jaar | 21,57 | 22,77 |
-| 85 t/m 89 jaar | 21,47 | 25,20 |
-| 90 jaar en ouder | 23,92 | 30,38 |
+- b. de volgende gewichten no-claimteruggave per verzekerde per aard van het inkomenklasse 2006: Aard van het inkomenklasse
+ Gewichten in euro’s
+ 18–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ 1.
+ 65 jaar en ouder
+ 
+ 
+ 
+ 
+ 0,00
+ 2.
+ Arbeidsongeschikten
+ –56,78
+ –55,07
+ –44,55
+ –28,48
+ 3.
+ Bijstandsgerechtigden
+ –16,22
+ –24,96
+ –22,44
+ –5,02
+ 4.
+ WW, ANW (AWW) en overige uitkeringsgerechtigden
+ –13,13
+ –6,55
+ –0,57
+ 5,16
+ 5.
+ Zelfstandigen
+ 12,04
+ 16,66
+ 19,92
+ 21,59
+ 6.
+ Referentiegroep
+ 2,57
+ 4,00
+ 5,17
+ 5,36
 
-- b. de volgende gewichten no-claimteruggave per verzekerde per aard van het inkomenklasse 2006:
-
-| Aard van het inkomenklasse Gewichten in euro’s | Aard van het inkomenklasse Gewichten in euro’s | 18–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1. | 65 jaar en ouder |   |   |   |   | 0,00 |
-| 2. | Arbeidsongeschikten | –56,78 | –55,07 | –44,55 | –28,48 |   |
-| 3. | Bijstandsgerechtigden | –16,22 | –24,96 | –22,44 | –5,02 |   |
-| 4. | WW, ANW (AWW) en overige uitkeringsgerechtigden | –13,13 | –6,55 | –0,57 | 5,16 |   |
-| 5. | Zelfstandigen | 12,04 | 16,66 | 19,92 | 21,59 |   |
-| 6. | Referentiegroep | 2,57 | 4,00 | 5,17 | 5,36 |   |
-
-- c. de volgende gewichten no-claimteruggave per verzekerde per regioklasse 2006:
-
-| Regioklasse 2006 Gewicht in euro’s | Voormalig ziekenfonds verzekerd | Voormalig particulier verzekerd |
-| --- | --- | --- |
-| Klasse 1 | –10,08 | 5,38 |
-| Klasse 2 | –8,77 | 5,76 |
-| Klasse 3 | –7,08 | 7,14 |
-| Klasse 4 | –5,86 | 7,65 |
-| Klasse 5 | –3,91 | 8,68 |
-| Klasse 6 | –3,79 | 8,54 |
-| Klasse 7 | –2,82 | 9,68 |
-| Klasse 8 | –1,94 | 11,04 |
-| Klasse 9 | –1,44 | 12,87 |
-| Klasse 10 | 1,07 | 17,09 |
+- c. de volgende gewichten no-claimteruggave per verzekerde per regioklasse 2006: Regioklasse 2006
+ Gewicht in euro’s
+ Voormalig
+ ziekenfonds
+ verzekerd
+ Voormalig particulier verzekerd
+ Klasse 1
+ –10,08
+ 5,38
+ Klasse 2
+ –8,77
+ 5,76
+ Klasse 3
+ –7,08
+ 7,14
+ Klasse 4
+ –5,86
+ 7,65
+ Klasse 5
+ –3,91
+ 8,68
+ Klasse 6
+ –3,79
+ 8,54
+ Klasse 7
+ –2,82
+ 9,68
+ Klasse 8
+ –1,94
+ 11,04
+ Klasse 9
+ –1,44
+ 12,87
+ Klasse 10
+ 1,07
+ 17,09
 
 2. De gewichten no-claimteruggave per verzekerde per risicoklasse 2006 worden per overeenkomstige risicoklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per risicoklasse 2006. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -838,361 +2334,7 @@ Indien naar het oordeel van het college op grond van de opgave van de verzekerde
 
 8. Het college stelt de bijdrage 2006 voorlopig vast ter hoogte van de in het vorige lid berekende bijdrage.
 
-### Hoofdstuk IV. De vaststelling van de bijdrage 2006 aan een zorgverzekeraar
-
-##### Artikel 21. Algemene bepaling
-
-Het college herberekent het normatieve bedrag definitief op basis van de correcties die de Nederlandse Zorgautoriteit heeft toegepast op de opgave herziene jaarstaat 2006, de opgave no-claimteruggave 2006 in de jaarstaat 2007, de opgave hoge kosten compensatie 2006 en de opbrengstverrekening 2006.
-
-##### Artikel 22
-
-Het college herberekent definitief het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006 overeenkomstig [artikel 20c](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20c&z=2009-10-23&g=2009-10-23), met inachtneming van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=21&z=2009-10-23&g=2009-10-23).
-
-##### Artikel 23
-
-Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2006 overeenkomstig [artikel 20d](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20d&z=2009-10-23&g=2009-10-23), met inachtneming van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=21&z=2009-10-23&g=2009-10-23).
-
-##### Artikel 24
-
-Het college herberekent definitief het deelbedrag kosten van overige prestaties 2006 overeenkomstig [artikel 20e](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20e&z=2009-10-23&g=2009-10-23), met inachtneming van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=21&z=2009-10-23&g=2009-10-23).
-
-##### Artikel 25
-
-Het college herberekent definitief de normatieve no-claimteruggave 2006, overeenkomstig [artikel 20f](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20f&z=2009-10-23&g=2009-10-23), met inachtneming van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=21&z=2009-10-23&g=2009-10-23).
-
-##### Artikel 26. De definitieve herberekening van het normatieve bedrag 2006 en de definitieve herberekening en de vaststelling van de bijdrage 2006
-
-1. Het college herberekent het normatieve bedrag 2006 definitief als de som van het definitieve deelbedrag 2006 variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006, het definitieve deelbedrag vaste kosten van ziekenhuisverpleging 2006 en het definitieve deelbedrag kosten van overige prestaties 2006.
-
-2. Het college trekt van de som van het definitieve deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006, het definitieve deelbedrag kosten van overige prestaties 2006 en de definitieve normatieve no-claimteruggave 2006 af de som van de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006, zoals bepaald in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=22&z=2009-10-23&g=2009-10-23), de kosten van overige prestaties 2006, zoals bepaald in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=24&z=2009-10-23&g=2009-10-23) en de definitieve no-claimteruggave 2006.
-
-3. Indien het in het tweede lid bepaalde bedrag groter is dan het aantal verzekerden van 18 jaar en ouder 2006 maal € 35, dan trekt het college 90% van het meerdere af van het definitieve normatieve bedrag 2006.
-
-4. Indien het in het tweede lid bepaalde bedrag kleiner is dan het aantal verzekerden van 18 jaar en ouder 2006 maal – € 35, dan voegt het college 90% van het verschil toe aan het definitieve normatieve bedrag 2006.
-
-5. Het college bepaalt de definitieve opbrengst van de nominale rekenpremie per zorgverzekeraar door de verzekerden van 18 jaar en ouder 2006 per zorgverzekeraar te vermenigvuldigen met de nominale rekenpremie 2006. Het college vermindert het resultaat van de opbrengst nominale rekenpremie met een detentiefactor, vanwege gederfde inkomsten voor verzekerden van wie de zorgverzekering is opgeschort overeenkomstig [artikel 24 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) en waarvoor zorgverzekeraars geen nominale premies ontvangen. Het CVZ berekent de detentiefactor door het aantal gedetineerden 2006 zoals vermeld door het CBS in Statline te delen door het aantal verzekerden van 18 jaar en ouder 2006, zoals vastgesteld in [artikel 20b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20b&z=2009-10-23&g=2009-10-23).
-
-6. Het college berekent de definitieve aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar door het aantal verzekerden jonger dan 18 jaar 2006 te vermenigvuldigen met € 50.
-
-7. Het college berekent de bijdrage 2006 definitief door van het definitieve normatieve bedrag 2006, inclusief de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar en inclusief de definitieve normatieve no-claimteruggave, de opbrengst van de nominale rekenpremie af te trekken.
-
-8. Het college stelt de bijdrage 2006 vast ter hoogte van de in het vorige lid definitief berekende bijdrage.
-
-### Hoofdstuk V. De uitkering voor de kosten van prestaties die door het college naar het werkelijk bedrag worden vergoed
-
-##### Artikel 27
-
-1. Bij gelegenheid van de vaststelling van de bijdrage 2006 als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=26&z=2009-10-23&g=2009-10-23) stelt het college per zorgverzekeraar ook de uitkering 2006 vast voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed.
-
-2. In afwachting van de vaststelling van de uitkering 2006 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de voorlopige vaststelling van de bijdrage 2006 bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=20&z=2009-10-23&g=2009-10-23) ook de voorlopige uitkering 2006 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, vast.
-
-### Hoofdstuk VI. De Betalingen aan de zorgverzekeraars
-
-##### Artikel 28
-
-1. Het college betaalt de zorgverzekeraars de bijdrage, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=11&z=2009-10-23&g=2009-10-23), uit, verminderd met het bedrag voor de geraamde normatieve no-claimteruggave. Het college maakt bij de betalingen onderscheid naar de volgende bestanddelen:
-
-- a. het deel van het normatieve bedrag 2006 dat betrekking heeft op het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en het deelbedrag vaste kosten van ziekenhuisverpleging, met uitzondering van het deelbedrag samenhangend met de academische component, bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=8&z=2009-10-23&g=2009-10-23);
-
-- b. het deelbedrag samenhangend met de academische component, bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=8&z=2009-10-23&g=2009-10-23);
-
-- c. het deel van het normatieve bedrag 2006 dat betrekking heeft op het deelbedrag kosten van overige prestaties;
-
-- d. een aftrekpost voor de geraamde opbrengst van de nominale rekenpremie.
-
-2. Het college betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar, bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=11&z=2009-10-23&g=2009-10-23).
-
-3. Het college betaalt de zorgverzekeraars de normatieve no-claimteruggave bedoeld in [artikel 13, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=13&z=2009-10-23&g=2009-10-23).
-
-4. Voor de betaling van de kosten, die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar werkelijke kosten worden vergoed, kan het college ambtshalve een bedrag vaststellen, waarmee de betaling aan de zorgverzekeraars wordt verhoogd.
-
-5. Indien toepassing van het eerste, tweede dan wel vierde lid leidt tot een negatief saldo, verrekent het college het negatieve saldo, voor zover mogelijk, met de betalingen bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23). Het college verrekent het negatieve saldo totdat de vordering volledig is voldaan.
-
-##### Artikel 29
-
-1. De bestanddelen genoemd in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23), alsmede de uitkering bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23), betaalt het college in termijnen op de eerste werkdag van de maand, overeenkomstig onderstaand betalingsschema:
-
-|   | Bestanddelen betalingen bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23) en uitkering bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23) | Bestanddelen betalingen bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23) en uitkering bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23) | Bestanddelen betalingen bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23) en uitkering bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23) | Bestanddelen betalingen bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23) en uitkering bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23) | Bestanddelen betalingen bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23) en uitkering bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23) |
-| --- | --- | --- | --- | --- | --- |
-|   |   |   |   |   |   |
-| Betaalmoment | Lid 1, onder a | Lid 1, onder b | Lid 1, onder c | Lid 1, onder d | Lid 2 |
-| februari 2006 | 0,919500% | 8,333300% |   | 16,666700% | 8,333300% |
-| maart 2006 | 2,643700% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| april 2006 | 4,367800% | 8,333400% | 8,333400% | 8,333400% | 8,333400% |
-| mei 2006 | 6,092000% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| juni 2006 | 7,643500% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| juli 2006 | 8,333300% | 8,333400% | 8,333400% | 8,333400% | 8,333400% |
-| augustus 2006 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| september 2006 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| oktober 2006 | 8,333300% | 8,333400% | 8,333400% | 8,333400% | 8,333400% |
-| november 2006 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| december 2006 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| januari 2007 | 8,333300% | 8,333400% | 8,333400% |   | 8,333400% |
-| februari 2007 | 7,413900% |   | 8,333300% |   |   |
-| maart 2007 | 5,689700% |   |   |   |   |
-| april 2007 | 3,965600% |   |   |   |   |
-| mei 2007 | 2,241400% |   |   |   |   |
-| juni 2007 | 0,689800% |   |   |   |   |
-
-2. Het college betaalt de normatieve no-claimteruggave, bedoeld in [artikel 13, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=13&z=2009-10-23&g=2009-10-23), aan de zorgverzekeraars in één termijn op de laatste werkdag van de maand maart 2007.
-
-3. Voor een zorgverzekeraar, die zich op grond van [artikel 25 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=25) aanmeldt bij het College van toezicht op de zorgverzekeringen nadat het College voor zorgverzekeringen de bijdragen voor de zorgverzekeraars heeft toegekend, kan het college voor die zorgverzekeraar afwijken van het betalingsschema in het eerste lid.
-
-4. In bijzondere omstandigheden, wanneer de betalingen voor een zorgverzekeraar kennelijk ontoereikend zijn, kan het college op verzoek van die zorgverzekeraar de betalingen verhogen. Indien de betalingen kennelijk ontoereikend zijn wegens toename van het aantal verzekerden dat bij de zorgverzekeraar is ingeschreven, voldoet het college aan een verzoek van de zorgverzekeraar om verhoging van de betalingen, wanneer die toename tenminste 5 procent bedraagt, met een minimum van 3.000 verzekerden, ten opzichte van het verzekerdenaantal dat aan de berekening van de bijdrage ten grondslag heeft gelegen. Het minimum van 3.000 verzekerden geldt niet als de toename 25 procent of meer bedraagt.
-
-##### Artikel 30
-
-1. Indien het college de bijdragen voor de zorgverzekeraars herziet, op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=14&z=2009-10-23&g=2009-10-23), herziet het college ook de te betalen termijnen overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23). Het college verrekent het verschil tussen de reeds betaalde termijnen en de herziene termijnen op de eerste werkdag van de maand juli 2006.
-
-2. Indien het college de bijdrage voorlopig vaststelt, op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&z=2009-10-23&g=2009-10-23), herziet het college ook de te betalen termijnen overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23). Op de eerste werkdag van de maand november 2007 verrekent het college het verschil tussen de voor het jaar 2006 betaalde termijnen en de herziene termijnen.
-
-3. Indien het college de bijdrage voor de tweede maal voorlopig vaststelt op grond van [hoofdstuk IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&z=2009-10-23&g=2009-10-23), herziet het college ook de te betalen termijnen overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23). Op de eerste werkdag van de maand oktober 2009 verrekent het college het verschil tussen de voor het jaar 2006 betaalde termijnen en de herziene termijnen.
-
-4. Na de vaststelling van de bijdrage, op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&z=2009-10-23&g=2009-10-23), herziet het college de definitief te betalen termijnen overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23). Het college verrekent het verschil tussen de herziene termijnen, bedoeld in het vorige lid, met de definitief te betalen termijnen.
-
-5. Indien toepassing van onderscheidenlijk het eerste, tweede en derde lid resulteert in een positief saldo voor de zorgverzekeraar, betaalt het college dat saldo ineens aan de zorgverzekeraar, behoudens een eventuele verrekening met een vordering op de zorgverzekeraar uit hoofde van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
-
-6. Indien toepassing van onderscheidenlijk het eerste, tweede en derde lid resulteert in een negatief saldo voor de zorgverzekeraar, wordt dat saldo ineens door de desbetreffende zorgverzekeraar aan het college terugbetaald, behoudens voor zover het college het bedrag heeft verrekend met enige vordering op de zorgverzekeraar op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
-
-##### Artikel 31
-
-1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23).
-
-2. De rente, bedoeld in het eerste lid, wordt bij de voorlopige en definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
-
-##### Artikel 32
-
-1. Bij de verrekening van verschillen, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
-
-2. Bij de verrekening van de verschillen, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23), tot de datum van de voorlopige vaststelling van de bijdrage.
-
-3. Bij de verrekening van de verschillen, bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23), tot de datum van de tweede voorlopige vaststelling van de bijdrage.
-
-4. Bij de verrekening van de verschillen, bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23) tot de datum van de definitieve vaststelling van de bijdrage.
-
-5. Voor een zorgverzekeraar waarvoor krachtens [artikel 29, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23), afwijkende betalingen hebben plaatsgevonden, kan het college bij de renteberekening afwijken van de vorige leden.
-
-6. Voor het rentepercentage gaat het college uit van het gemiddelde van de maandrentes van het Euro Interbank Offered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de periodes, bedoeld in het eerste, tweede en derde lid. Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand. Het percentage wordt verhoogd met 0,3 procentpunt bij een voor de zorgverzekeraar positief saldo, als bedoeld in [artikel 30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23). Het percentage wordt verlaagd met 0,3 procentpunt bij een voor de zorgverzekeraar negatief saldo, als bedoeld in [artikel 30, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23).
-
-7. De rente betreft een samengestelde rente en wordt op maandbasis berekend.
-
-Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
-
-8. Indien de situatie zich voordoet dat het in deze paragraaf bedoelde Euro Interbank Offered Rate (Euribortarief) niet meer kan worden toegepast, zal een zoveel als mogelijk overeenkomstig tarief worden gehanteerd.
-
-### Hoofdstuk VII. Slotbepalingen
-
-##### Artikel 33
-
-Deze regeling treedt in werking met ingang van 1 januari 2006.
-
-##### Artikel 34
-
-Deze regeling wordt aangehaald als: Regeling beleidsregels vereveningsbijdrage zorgverzekering 2006.
-
-## Bijlage 1. Prevalentie-ontwikkeling 2004–2005 per morbiditeitsrisicoklasse per FKG 2006
-
-| Mannen | 1 | 2 | 3 | 4 | 5 | 6 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Glaucoom | Schildklier-aandoeningen | Hoog cholestorol | Diabetes IIb (laag intensief) | CARA | Diabetes IIa (hoog intensief) |
-| 0 t/m 14 | 1,6840806 | 1,0974869 | 0,9188932 | 1,0266600 | 0,9529231 | 1,3425500 |
-| 15 t/m 29 | 1,0672526 | 1,0465137 | 1,1034790 | 1,0286693 | 0,9497995 | 2,0403358 |
-| 30 t/m 44 | 1,0003564 | 1,0905091 | 1,1162067 | 1,0598982 | 0,9883163 | 1,4120933 |
-| 45 t/m 59 | 1,0105918 | 1,0845794 | 1,0961408 | 1,0120046 | 0,9902664 | 1,2917985 |
-| 60 t/m 74 | 0,9823629 | 1,0387551 | 1,1231831 | 1,0130855 | 0,9903643 | 1,3208347 |
-| 75 e.o. | 0,9864169 | 1,0566450 | 1,2446416 | 1,0003022 | 1,0034647 | 1,3966483 |
-
-| Vrouwen | 1 | 2 | 3 | 4 | 5 | 6 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Glaucoom | Schildklier-aandoeningen | Hoog cholestorol | Diabetes IIb (laag intensief) | CARA | Diabetes IIa (hoog intensief) |
-| 0 t/m 14 | 1,0358434 | 1,0497541 | 1,2808817 | 1,2530364 | 0,9327809 | 1,1340500 |
-| 15 t/m 29 | 0,9950529 | 1,0455007 | 1,1173267 | 0,9879453 | 0,9489493 | 2,0469659 |
-| 30 t/m 44 | 1,0340126 | 1,0821223 | 1,1480328 | 1,0562761 | 0,9667241 | 1,5169697 |
-| 45 t/m 59 | 0,9801340 | 1,0554069 | 1,1379468 | 0,9959295 | 0,9949745 | 1,3353485 |
-| 60 t/m 74 | 0,9917775 | 1,0532115 | 1,1295830 | 0,9702154 | 1,0047181 | 1,2845239 |
-| 75 e.o. | 0,9854092 | 1,0236794 | 1,2345829 | 0,9917793 | 1,0158149 | 1,3859586 |
-
-| Tot man | 1,0059803 | 1,0746224 | 1,1388041 | 1,0266569 | 0,9933981 | 1,3425431 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Tot vrouw | 1,0000184 | 1,0645275 | 1,1657807 | 0,9998817 | 0,9941912 | 1,3405613 |
-|   |   |   |   |   |   |   |
-| Totaal | 1,0025745 | 1,0670384 | 1,1514468 | 1,0117151 | 0,9938122 | 1,3414157 |
-
-| Mannen | 7 | 8 | 9 | 10 | 11 | 12 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Epilepsie | Ziekte van Crohn/Collitus ulcerosa | Hartaan- doeningen | Reuma | Parkinson | Diabetes 1 |
-| 0 t/m 14 | 1,0250140 | 0,9700925 | 0,7831476 | 0,9078602 | 1,0159700 | 1,0595293 |
-| 15 t/m 29 | 1,0289987 | 1,0288873 | 0,9422384 | 1,0142020 | 1,0201679 | 1,0164686 |
-| 30 t/m 44 | 1,0246812 | 1,0949668 | 0,9575536 | 1,1110708 | 0,8376613 | 1,0491242 |
-| 45 t/m 59 | 1,0328636 | 1,0539399 | 0,9730523 | 1,0527786 | 0,9708196 | 1,0429840 |
-| 60 t/m 74 | 1,0321626 | 1,0444308 | 0,9689201 | 1,0372376 | 1,0155989 | 1,0699096 |
-| 75 e.o. | 1,0168612 | 1,0434697 | 0,9842050 | 1,0375245 | 1,0010933 | 1,0533764 |
-
-| Vrouwen | 7 | 8 | 9 | 10 | 11 | 12 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Epilepsie | Ziekte van Crohn/Collitus ulcerosa | Hartaan- doeningen | Reuma | Parkinson | Diabetes 1 |
-| 0 t/m 14 | 0,9535820 | 1,3365722 | 1,0994384 | 1,0417401 | 1,0000000 | 1,1205550 |
-| 15 t/m 29 | 1,0240138 | 1,0356017 | 0,8813325 | 0,9636690 | 1,3305278 | 0,9992695 |
-| 30 t/m 44 | 1,0333817 | 1,0419490 | 1,0143405 | 1,0674644 | 1,1446502 | 1,0384082 |
-| 45 t/m 59 | 1,0404306 | 1,0923606 | 0,9582849 | 1,0502737 | 0,9850264 | 1,0256382 |
-| 60 t/m 74 | 0,9976420 | 1,0598124 | 0,9632044 | 1,0214015 | 0,9772862 | 1,0247379 |
-| 75 e.o. | 1,0469565 | 1,0636575 | 0,9866201 | 1,0266090 | 0,9859495 | 1,0174278 |
-
-| Tot man | 1,0319496 | 1,0615589 | 0,9914099 | 1,0610527 | 1,0159658 | 1,0637795 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Tot vrouw | 1,0306970 | 1,0612629 | 0,9889886 | 1,0470167 | 0,9974794 | 1,0342125 |
-|   |   |   |   |   |   |   |
-| Totaal | 1,0311225 | 1,0615758 | 0,9901026 | 1,0520851 | 1,0062289 | 1,0469714 |
-
-| Mannen | 13 | 14 | 15 | 16 | 17 |
-| --- | --- | --- | --- | --- | --- |
-| Leeftijd | Transplantaties | Cystic fibrosis/ pancreasaandoeningen | Neuromusculaire aandoeningen | HIV/AIDS | Nieraandoeningen |
-| 0 t/m 14 | 1,1068486 | 0,9403316 | 1,3365719 | 1,1566488 | 1,0024289 |
-| 15 t/m 29 | 1,0361392 | 1,0707547 | 0,9583395 | 0,9401547 | 1,3480790 |
-| 30 t/m 44 | 1,0496906 | 0,9929524 | 1,0358473 | 1,0439479 | 1,2714514 |
-| 45 t/m 59 | 1,0412352 | 1,0161095 | 1,0459207 | 1,1271994 | 1,2514407 |
-| 60 t/m 74 | 1,0573972 | 1,0606843 | 1,0606144 | 1,0790394 | 1,1345584 |
-| 75 e.o. | 1,1606943 | 0,9379150 | 0,9853376 | 1,2316720 | 1,4391353 |
-
-| Vrouwen | 13 | 14 | 15 | 16 | 17 |
-| --- | --- | --- | --- | --- | --- |
-| Leeftijd | Transplantaties | Cystic fibrosis/ pancreasaandoeningen | Neuromusculaire aandoeningen | HIV/AIDS | Nieraandoeningen |
-| 0 t/m 14 | 0,9272470 | 0,9819714 | 1,0024291 | 1,2302539 | 1,0795391 |
-| 15 t/m 29 | 1,1047959 | 0,8966797 | 1,0671386 | 1,0825300 | 1,2622956 |
-| 30 t/m 44 | 1,0534183 | 0,9776588 | 1,0741102 | 1,1545475 | 1,1203991 |
-| 45 t/m 59 | 1,0454261 | 1,0160322 | 1,0744523 | 1,0795529 | 1,1232627 |
-| 60 t/m 74 | 1,0613731 | 1,0376580 | 1,0365440 | 1,2882397 | 1,2512258 |
-| 75 e.o. | 1,1121211 | 0,9967139 | 1,2454783 | 0,9924905 | 1,3469514 |
-
-| Tot man | 1,0543796 | 1,0253434 | 1,0430396 | 1,0730081 | 1,2624903 |
-| --- | --- | --- | --- | --- | --- |
-| Tot vrouw | 1,0643440 | 1,0075104 | 1,0762820 | 1,1297523 | 1,2428430 |
-|   |   |   |   |   |   |
-| Totaal | 1,0596334 | 1,0170828 | 1,0637948 | 1,0845915 | 1,2520830 |
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-Goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport bij brief van 13 september 2005, onder nummer Z/F-2617684.
-
-##### Artikel 28a
-
-1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 20, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=20&z=2009-10-23&g=2009-10-23), stelt het college het volgende vast:
-
-- a. De hoogte van het bedrag van de door de zorgverzekeraar ingevorderde boetes op grond van [artikel 96 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96);
-
-- b. Het vergoedingsbedrag waar de zorgverzekeraar voor de door hem zelf ingevorderde boetes op grond van [artikel 96, zesde lid, Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96) recht op heeft;
-
-- c. Het deel van het bedrag bedoeld onder a dat de zorgverzekeraar aan het Zorgverzekeringsfonds moet afdragen;
-
-- d. Het deel van het bedrag van de door het college zelf op grond van [artikel 96 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96) ingevorderde boetes waar de zorgverzekeraar als vergoeding recht op heeft.
-
-2. Het college verrekent de som van de onderdelen c en d uit het eerste lid zo mogelijk met de op grond van [artikel 20, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=20&z=2009-10-23&g=2009-10-23), voorlopig vastgestelde bijdrage.
-
-3. Indien verrekening, als bedoeld in het tweede lid, niet mogelijk blijkt, vordert het college het door de zorgverzekeraar af te dragen bedrag bij de zorgverzekeraar in, dan wel betaalt het college het door de zorgverzekeraar te ontvangen bedrag, aan de zorgverzekeraar na.
-
-4. Bij gelegenheid van de tweede voorlopige vaststelling stelt het college opnieuw de hoogte van de in 2006 ingevorderde boetes vast, overeenkomstig de opgave van de zorgverzekeraars in de jaarstaat 2006 met inachtneming van correcties door de Nederlandse Zorgautoriteit.
-
-5. Het college verrekent zo mogelijk, na toepassing van het vierde lid en overeenkomstig het tweede lid, de som van de onderdelen c en d uit het eerste lid met de op grond van [artikel 20f, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20f&z=2009-10-23&g=2009-10-23), voor de tweede maal voorlopig vastgestelde bijdrage.
-
-##### Artikel 28b
-
-1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 20, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=20&z=2009-10-23&g=2009-10-23), stelt het college het bedrag aan compensatie vast volgens [artikel 3.15a van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15a), voor iedere verzekerde ten aanzien van wie niet aan de premieplicht, bedoeld in [artikel 16 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=16), is of wordt voldaan. De zorgverzekeraar ontvangt de compensatie onder de voorwaarde dat is voldaan aan het bepaalde in [artikel 3.18 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.18). Bij de voorlopige vaststelling baseert het college zich voor de vaststelling van de compensatie op de voorlopige opgave van de zorgverzekeraars per 1 juni 2007 over het aantal wanbetalers in 2006.
-
-2. Het college stelt de compensatie, bedoeld in het eerste lid, als volgt vast:
-
-- a. Het college stelt per zorgverzekeraar het totale bedrag aan openstaande premievorderingen vast.
-
-- b. Het college berekent het bedrag van de premievordering dat ten laste komt van de zorgverzekeraar zelf door het aantal wanbetalers te vermenigvuldigen met de nominale rekenpremie over 6 maanden.
-
-- c. Het college stelt de voorlopige compensatie vast door het bedrag onder b in mindering te brengen op het bedrag onder a.
-
-3. De door de zorgverzekeraars te ontvangen compensatie, bedoeld in het tweede lid, onder c, verrekent het college zo mogelijk met de op grond van [artikel 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=20&z=2009-10-23&g=2009-10-23), voorlopig vastgestelde bijdrage.
-
-### Hoofdstuk VII. Slotbepalingen
-
-## Bijlage 1. Prevalentie-ontwikkeling 2004–2005 per morbiditeitsrisicoklasse per FKG 2006
-
-| Mannen | 1 | 2 | 3 | 4 | 5 | 6 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Glaucoom | Schildklier-aandoeningen | Hoog cholestorol | Diabetes IIb (laag intensief) | CARA | Diabetes IIa (hoog intensief) |
-| 0 t/m 14 | 1,6840806 | 1,0974869 | 0,9188932 | 1,0266600 | 0,9529231 | 1,3425500 |
-| 15 t/m 29 | 1,0672526 | 1,0465137 | 1,1034790 | 1,0286693 | 0,9497995 | 2,0403358 |
-| 30 t/m 44 | 1,0003564 | 1,0905091 | 1,1162067 | 1,0598982 | 0,9883163 | 1,4120933 |
-| 45 t/m 59 | 1,0105918 | 1,0845794 | 1,0961408 | 1,0120046 | 0,9902664 | 1,2917985 |
-| 60 t/m 74 | 0,9823629 | 1,0387551 | 1,1231831 | 1,0130855 | 0,9903643 | 1,3208347 |
-| 75 e.o. | 0,9864169 | 1,0566450 | 1,2446416 | 1,0003022 | 1,0034647 | 1,3966483 |
-
-| Vrouwen | 1 | 2 | 3 | 4 | 5 | 6 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Glaucoom | Schildklier-aandoeningen | Hoog cholestorol | Diabetes IIb (laag intensief) | CARA | Diabetes IIa (hoog intensief) |
-| 0 t/m 14 | 1,0358434 | 1,0497541 | 1,2808817 | 1,2530364 | 0,9327809 | 1,1340500 |
-| 15 t/m 29 | 0,9950529 | 1,0455007 | 1,1173267 | 0,9879453 | 0,9489493 | 2,0469659 |
-| 30 t/m 44 | 1,0340126 | 1,0821223 | 1,1480328 | 1,0562761 | 0,9667241 | 1,5169697 |
-| 45 t/m 59 | 0,9801340 | 1,0554069 | 1,1379468 | 0,9959295 | 0,9949745 | 1,3353485 |
-| 60 t/m 74 | 0,9917775 | 1,0532115 | 1,1295830 | 0,9702154 | 1,0047181 | 1,2845239 |
-| 75 e.o. | 0,9854092 | 1,0236794 | 1,2345829 | 0,9917793 | 1,0158149 | 1,3859586 |
-
-| Tot man | 1,0059803 | 1,0746224 | 1,1388041 | 1,0266569 | 0,9933981 | 1,3425431 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Tot vrouw | 1,0000184 | 1,0645275 | 1,1657807 | 0,9998817 | 0,9941912 | 1,3405613 |
-|   |   |   |   |   |   |   |
-| Totaal | 1,0025745 | 1,0670384 | 1,1514468 | 1,0117151 | 0,9938122 | 1,3414157 |
-
-| Mannen | 7 | 8 | 9 | 10 | 11 | 12 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Epilepsie | Ziekte van Crohn/Collitus ulcerosa | Hartaan- doeningen | Reuma | Parkinson | Diabetes 1 |
-| 0 t/m 14 | 1,0250140 | 0,9700925 | 0,7831476 | 0,9078602 | 1,0159700 | 1,0595293 |
-| 15 t/m 29 | 1,0289987 | 1,0288873 | 0,9422384 | 1,0142020 | 1,0201679 | 1,0164686 |
-| 30 t/m 44 | 1,0246812 | 1,0949668 | 0,9575536 | 1,1110708 | 0,8376613 | 1,0491242 |
-| 45 t/m 59 | 1,0328636 | 1,0539399 | 0,9730523 | 1,0527786 | 0,9708196 | 1,0429840 |
-| 60 t/m 74 | 1,0321626 | 1,0444308 | 0,9689201 | 1,0372376 | 1,0155989 | 1,0699096 |
-| 75 e.o. | 1,0168612 | 1,0434697 | 0,9842050 | 1,0375245 | 1,0010933 | 1,0533764 |
-
-| Vrouwen | 7 | 8 | 9 | 10 | 11 | 12 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Epilepsie | Ziekte van Crohn/Collitus ulcerosa | Hartaan- doeningen | Reuma | Parkinson | Diabetes 1 |
-| 0 t/m 14 | 0,9535820 | 1,3365722 | 1,0994384 | 1,0417401 | 1,0000000 | 1,1205550 |
-| 15 t/m 29 | 1,0240138 | 1,0356017 | 0,8813325 | 0,9636690 | 1,3305278 | 0,9992695 |
-| 30 t/m 44 | 1,0333817 | 1,0419490 | 1,0143405 | 1,0674644 | 1,1446502 | 1,0384082 |
-| 45 t/m 59 | 1,0404306 | 1,0923606 | 0,9582849 | 1,0502737 | 0,9850264 | 1,0256382 |
-| 60 t/m 74 | 0,9976420 | 1,0598124 | 0,9632044 | 1,0214015 | 0,9772862 | 1,0247379 |
-| 75 e.o. | 1,0469565 | 1,0636575 | 0,9866201 | 1,0266090 | 0,9859495 | 1,0174278 |
-
-| Tot man | 1,0319496 | 1,0615589 | 0,9914099 | 1,0610527 | 1,0159658 | 1,0637795 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Tot vrouw | 1,0306970 | 1,0612629 | 0,9889886 | 1,0470167 | 0,9974794 | 1,0342125 |
-|   |   |   |   |   |   |   |
-| Totaal | 1,0311225 | 1,0615758 | 0,9901026 | 1,0520851 | 1,0062289 | 1,0469714 |
-
-| Mannen | 13 | 14 | 15 | 16 | 17 |
-| --- | --- | --- | --- | --- | --- |
-| Leeftijd | Transplantaties | Cystic fibrosis/ pancreasaandoeningen | Neuromusculaire aandoeningen | HIV/AIDS | Nieraandoeningen |
-| 0 t/m 14 | 1,1068486 | 0,9403316 | 1,3365719 | 1,1566488 | 1,0024289 |
-| 15 t/m 29 | 1,0361392 | 1,0707547 | 0,9583395 | 0,9401547 | 1,3480790 |
-| 30 t/m 44 | 1,0496906 | 0,9929524 | 1,0358473 | 1,0439479 | 1,2714514 |
-| 45 t/m 59 | 1,0412352 | 1,0161095 | 1,0459207 | 1,1271994 | 1,2514407 |
-| 60 t/m 74 | 1,0573972 | 1,0606843 | 1,0606144 | 1,0790394 | 1,1345584 |
-| 75 e.o. | 1,1606943 | 0,9379150 | 0,9853376 | 1,2316720 | 1,4391353 |
-
-| Vrouwen | 13 | 14 | 15 | 16 | 17 |
-| --- | --- | --- | --- | --- | --- |
-| Leeftijd | Transplantaties | Cystic fibrosis/ pancreasaandoeningen | Neuromusculaire aandoeningen | HIV/AIDS | Nieraandoeningen |
-| 0 t/m 14 | 0,9272470 | 0,9819714 | 1,0024291 | 1,2302539 | 1,0795391 |
-| 15 t/m 29 | 1,1047959 | 0,8966797 | 1,0671386 | 1,0825300 | 1,2622956 |
-| 30 t/m 44 | 1,0534183 | 0,9776588 | 1,0741102 | 1,1545475 | 1,1203991 |
-| 45 t/m 59 | 1,0454261 | 1,0160322 | 1,0744523 | 1,0795529 | 1,1232627 |
-| 60 t/m 74 | 1,0613731 | 1,0376580 | 1,0365440 | 1,2882397 | 1,2512258 |
-| 75 e.o. | 1,1121211 | 0,9967139 | 1,2454783 | 0,9924905 | 1,3469514 |
-
-| Tot man | 1,0543796 | 1,0253434 | 1,0430396 | 1,0730081 | 1,2624903 |
-| --- | --- | --- | --- | --- | --- |
-| Tot vrouw | 1,0643440 | 1,0075104 | 1,0762820 | 1,1297523 | 1,2428430 |
-|   |   |   |   |   |   |
-| Totaal | 1,0596334 | 1,0170828 | 1,0637948 | 1,0845915 | 1,2520830 |
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-Goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport bij brief van 13 september 2005, onder nummer Z/F-2617684.
+### Hoofdstuk IIIa. De tweede voorlopige vaststelling van de bijdrage aan een zorgverzekeraar
 
 ##### Artikel 20a. Algemene bepaling
 
@@ -1246,102 +2388,234 @@ Het college herberekent het normatieve bedrag voor de tweede maal op basis van c
 
 1. Het college hanteert bij de tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006 als uitgangspunten:
 
-- a. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2006:
+- a. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2006: Risicoklasse
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Mannen
+ Vrouwen
+ 0 t/m 4 jaar
+ 720,56
+ 612,04
+ 5 t/m 9 jaar
+ 365,81
+ 312,69
+ 10 t/m 14 jaar
+ 303,41
+ 283,67
+ 15 t/m 19 jaar
+ 351,89
+ 388,23
+ 20 t/m 24 jaar
+ 335,91
+ 458,77
+ 25 t/m 29 jaar
+ 335,24
+ 579,36
+ 30 t/m 34 jaar
+ 363,12
+ 688,50
+ 35 t/m 39 jaar
+ 405,41
+ 603,82
+ 40 t/m 44 jaar
+ 445,20
+ 543,40
+ 45 t/m 49 jaar
+ 527,77
+ 579,51
+ 50 t/m 54 jaar
+ 581,47
+ 654,68
+ 55 t/m 59 jaar
+ 745,85
+ 744,64
+ 60 t/m 64 jaar
+ 834,59
+ 815,40
+ 65 t/m 69 jaar
+ 1.079,06
+ 925,12
+ 70 t/m 74 jaar
+ 1.357,92
+ 1.094,55
+ 75 t/m 79 jaar
+ 1.485,80
+ 1.234,90
+ 80 t/m 84 jaar
+ 1.490,03
+ 1.252,31
+ 85 t/m 89 jaar
+ 1.384,47
+ 1.145,19
+ 90 jaar en ouder
+ 1.143,66
+ 885,03
 
-| Risicoklasse | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- |
-|   | Mannen | Vrouwen |
-| 0 t/m 4 jaar | 720,56 | 612,04 |
-| 5 t/m 9 jaar | 365,81 | 312,69 |
-| 10 t/m 14 jaar | 303,41 | 283,67 |
-| 15 t/m 19 jaar | 351,89 | 388,23 |
-| 20 t/m 24 jaar | 335,91 | 458,77 |
-| 25 t/m 29 jaar | 335,24 | 579,36 |
-| 30 t/m 34 jaar | 363,12 | 688,50 |
-| 35 t/m 39 jaar | 405,41 | 603,82 |
-| 40 t/m 44 jaar | 445,20 | 543,40 |
-| 45 t/m 49 jaar | 527,77 | 579,51 |
-| 50 t/m 54 jaar | 581,47 | 654,68 |
-| 55 t/m 59 jaar | 745,85 | 744,64 |
-| 60 t/m 64 jaar | 834,59 | 815,40 |
-| 65 t/m 69 jaar | 1.079,06 | 925,12 |
-| 70 t/m 74 jaar | 1.357,92 | 1.094,55 |
-| 75 t/m 79 jaar | 1.485,80 | 1.234,90 |
-| 80 t/m 84 jaar | 1.490,03 | 1.252,31 |
-| 85 t/m 89 jaar | 1.384,47 | 1.145,19 |
-| 90 jaar en ouder | 1.143,66 | 885,03 |
+- b. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 2006: FKG 2006
+ Gewicht in euro's
+ FKG-onbekend
+ 0,00
+ 0
+ Geen FKG
+ 1
+ Glaucoom
+ 92,72
+ 2
+ Schildklieraandoeningen
+ 232,00
+ 3
+ Hoog cholesterol
+ 151,17
+ 4
+ Diabetes IIb (laag intensief)
+ 287,10
+ 5
+ Cara
+ 417,76
+ 6
+ Diabetes IIa (hoog intensief)
+ 402,31
+ 7
+ Epilepsie
+ 492,76
+ 8
+ Ziekte van Crohn/colitis ulcerosa
+ 794,88
+ 9
+ Hartaandoeningen
+ 953,50
+ 10
+ Reuma
+ 1.286,58
+ 11
+ Parkinson
+ 842,11
+ 12
+ Diabetes I
+ 963,03
+ 13
+ Transplantaties
+ 1.684,40
+ 14
+ Cystic fibrosis en pancreasaandoeningen
+ 1.352,94
+ 15
+ Neuromusculaire aandoeningen
+ 821,17
+ 16
+ HIV / AIDS
+ 1.358,03
+ 17
+ Nieraandoeningen / ESRD
+ 3.958,93 Het college berekent het gewicht variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde voor de FKG 2006 0 door de totale aantallen verzekerden per FKG 2006 1 tot en met 17 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het totaal aantal verzekerden FKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-- b. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 2006: Het college berekent het gewicht variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde voor de FKG 2006 0 door de totale aantallen verzekerden per FKG 2006 1 tot en met 17 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het totaal aantal verzekerden FKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
+- c. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 2006: DKG 2006
+ Gewicht in euro's
+ DKG-onbekend
+ 0,00
+ 0 Geen DKG
+ 1
+ 1.050,94
+ 2
+ 1.475,89
+ 3
+ 1.754,12
+ 4
+ 1.857,02
+ 5
+ 2.374,36
+ 6
+ 2.999,31
+ 7
+ 3.583,00
+ 8
+ 3.787,78
+ 9
+ 4.197,67
+ 10
+ 5.414,32
+ 11
+ 7.220,32
+ 12
+ 7.226,71
+ 13
+ 14.256,10 Het college berekent het gewicht variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde voor de DKG 2006 0 door de totale aantallen verzekerden per DKG 2006 1 tot en met 13 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het totaal aantal verzekerden DKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-|   | FKG 2006 | Gewicht in euro's |
-| --- | --- | --- |
-|   | FKG-onbekend | 0,00 |
-| 0 | Geen FKG |   |
-| 1 | Glaucoom | 92,72 |
-| 2 | Schildklieraandoeningen | 232,00 |
-| 3 | Hoog cholesterol | 151,17 |
-| 4 | Diabetes IIb (laag intensief) | 287,10 |
-| 5 | Cara | 417,76 |
-| 6 | Diabetes IIa (hoog intensief) | 402,31 |
-| 7 | Epilepsie | 492,76 |
-| 8 | Ziekte van Crohn/colitis ulcerosa | 794,88 |
-| 9 | Hartaandoeningen | 953,50 |
-| 10 | Reuma | 1.286,58 |
-| 11 | Parkinson | 842,11 |
-| 12 | Diabetes I | 963,03 |
-| 13 | Transplantaties | 1.684,40 |
-| 14 | Cystic fibrosis en pancreasaandoeningen | 1.352,94 |
-| 15 | Neuromusculaire aandoeningen | 821,17 |
-| 16 | HIV / AIDS | 1.358,03 |
-| 17 | Nieraandoeningen / ESRD | 3.958,93 |
+- d. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2006: Aard van het inkomenklasse
+ 0–14 jaar
+ 15–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ Gewichten in euro's
+ 1. 0 t/m 14 jaar of 65 jaar en ouder
+ 0,00
+ 
+ 
+ 
+ 
+ 0,00
+ 2. Arbeidsongeschikten
+ 
+ 454,71
+ 456,69
+ 463,81
+ 376,94
+ 3. Bijstandsgerechtigden
+ 
+ 147,46
+ 135,07
+ 169,65
+ 84,96
+ 4. WW, ANW (AWW) en overige uitkeringsgerechtigden
+ 
+ 50,52
+ –14,48
+ – 8,50
+ –83,23
+ 5. Zelfstandigen
+ 
+ –59,08
+ –99,54
+ –151,67
+ –226,09
+ 6. Referentiegroep Het college berekent het gewicht variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per leeftijdscategorie voor de referentiegroep door de totale aantallen verzekerden van de aard van het inkomenklasse 2 tot en met 5 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het totaal aantal verzekerden per leeftijdsklasse van de referentiegroep, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-- c. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 2006: Het college berekent het gewicht variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde voor de DKG 2006 0 door de totale aantallen verzekerden per DKG 2006 1 tot en met 13 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het totaal aantal verzekerden DKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
-
-| DKG 2006 | Gewicht in euro's |
-| --- | --- |
-| DKG-onbekend | 0,00 |
-| 0 Geen DKG |   |
-| 1 | 1.050,94 |
-| 2 | 1.475,89 |
-| 3 | 1.754,12 |
-| 4 | 1.857,02 |
-| 5 | 2.374,36 |
-| 6 | 2.999,31 |
-| 7 | 3.583,00 |
-| 8 | 3.787,78 |
-| 9 | 4.197,67 |
-| 10 | 5.414,32 |
-| 11 | 7.220,32 |
-| 12 | 7.226,71 |
-| 13 | 14.256,10 |
-
-- d. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2006: Het college berekent het gewicht variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per leeftijdscategorie voor de referentiegroep door de totale aantallen verzekerden van de aard van het inkomenklasse 2 tot en met 5 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het totaal aantal verzekerden per leeftijdsklasse van de referentiegroep, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
-
-| Aard van het inkomenklasse | 0–14 jaar | 15–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- |
-| Gewichten in euro's |   |   |   |   |   |   |
-| 1. 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |   |   |   |   | 0,00 |
-| 2. Arbeidsongeschikten |   | 454,71 | 456,69 | 463,81 | 376,94 |   |
-| 3. Bijstandsgerechtigden |   | 147,46 | 135,07 | 169,65 | 84,96 |   |
-| 4. WW, ANW (AWW) en overige uitkeringsgerechtigden |   | 50,52 | –14,48 | – 8,50 | –83,23 |   |
-| 5. Zelfstandigen |   | –59,08 | –99,54 | –151,67 | –226,09 |   |
-| 6. Referentiegroep |   |   |   |   |   |   |
-
-- e. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2006:
-
-| Regioklasse 2006 | Voormalig ziekenfonds verzekerd | Voormalig particulier verzekerd |
-| --- | --- | --- |
-| Gewicht in euro’s |   |   |
-| Klasse 1 | 71,65 | –4,14 |
-| Klasse 2 | 51,52 | –17,21 |
-| Klasse 3 | 33,77 | –24,74 |
-| Klasse 4 | 24,15 | –30,61 |
-| Klasse 5 | 15,82 | –34,49 |
-| Klasse 6 | 4,79 | –33,06 |
-| Klasse 7 | –0,77 | –41,24 |
-| Klasse 8 | –7,05 | –32,70 |
-| Klasse 9 | –16,03 | –40,26 |
-| Klasse 10 | –22,59 | –47,82 |
+- e. de volgende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2006: Regioklasse 2006
+ Voormalig ziekenfonds verzekerd
+ Voormalig particulier verzekerd
+ Gewicht in euro’s
+ Klasse 1
+ 71,65
+ –4,14
+ Klasse 2
+ 51,52
+ –17,21
+ Klasse 3
+ 33,77
+ –24,74
+ Klasse 4
+ 24,15
+ –30,61
+ Klasse 5
+ 15,82
+ –34,49
+ Klasse 6
+ 4,79
+ –33,06
+ Klasse 7
+ –0,77
+ –41,24
+ Klasse 8
+ –7,05
+ –32,70
+ Klasse 9
+ –16,03
+ –40,26
+ Klasse 10
+ –22,59
+ –47,82
 
 2. Het college bepaalt op basis van de opgave herziene jaarstaat 2006 per 1 juli 2009 en het opbrengstresultaat 2006, zoals vastgesteld door de Nederlandse Zorgautoriteit per zorgverzekeraar en voor het totaal van de zorgverzekeraars de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006 met inachtneming van de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7) en [3.8 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.8).
 
@@ -1383,101 +2657,234 @@ Het college herberekent op basis van de opgave herziene jaarstaat 2006 per 1 jul
 
 1. Voor de tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
-- a. de volgende gewichten kosten van overige prestaties per verzekerde per risicoklasse 2006:
+- a. de volgende gewichten kosten van overige prestaties per verzekerde per risicoklasse 2006: Risicoklasse
+ Gewicht in euro’s
+ Gewicht in euro’s
+ Mannen
+ Vrouwen
+ 0 t/m 4 jaar
+ 426,41
+ 392,69
+ 5 t/m 9 jaar
+ 494,24
+ 446,56
+ 10 t/m 14 jaar
+ 499,61
+ 498,75
+ 15 t/m 19 jaar
+ 442,44
+ 504,87
+ 20 t/m 24 jaar
+ 340,83
+ 492,96
+ 25 t/m 29 jaar
+ 353,69
+ 685,86
+ 30 t/m 34 jaar
+ 373,89
+ 801,26
+ 35 t/m 39 jaar
+ 416,70
+ 626,77
+ 40 t/m 44 jaar
+ 444,12
+ 516,14
+ 45 t/m 49 jaar
+ 501,42
+ 590,10
+ 50 t/m 54 jaar
+ 546,97
+ 652,18
+ 55 t/m 59 jaar
+ 624,95
+ 722,14
+ 60 t/m 64 jaar
+ 672,33
+ 777,84
+ 65 t/m 69 jaar
+ 817,15
+ 858,00
+ 70 t/m 74 jaar
+ 926,62
+ 974,42
+ 75 t/m 79 jaar
+ 1.078,63
+ 1.105,09
+ 80 t/m 84 jaar
+ 1.207,50
+ 1.249,02
+ 85 t/m/ 89 jaar
+ 1.369,37
+ 1.419,54
+ 90 jaar en ouder
+ 1.594,47
+ 1.653,90
 
-| Risicoklasse | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- |
-|   | Mannen | Vrouwen |
-| 0 t/m 4 jaar | 426,41 | 392,69 |
-| 5 t/m 9 jaar | 494,24 | 446,56 |
-| 10 t/m 14 jaar | 499,61 | 498,75 |
-| 15 t/m 19 jaar | 442,44 | 504,87 |
-| 20 t/m 24 jaar | 340,83 | 492,96 |
-| 25 t/m 29 jaar | 353,69 | 685,86 |
-| 30 t/m 34 jaar | 373,89 | 801,26 |
-| 35 t/m 39 jaar | 416,70 | 626,77 |
-| 40 t/m 44 jaar | 444,12 | 516,14 |
-| 45 t/m 49 jaar | 501,42 | 590,10 |
-| 50 t/m 54 jaar | 546,97 | 652,18 |
-| 55 t/m 59 jaar | 624,95 | 722,14 |
-| 60 t/m 64 jaar | 672,33 | 777,84 |
-| 65 t/m 69 jaar | 817,15 | 858,00 |
-| 70 t/m 74 jaar | 926,62 | 974,42 |
-| 75 t/m 79 jaar | 1.078,63 | 1.105,09 |
-| 80 t/m 84 jaar | 1.207,50 | 1.249,02 |
-| 85 t/m/ 89 jaar | 1.369,37 | 1.419,54 |
-| 90 jaar en ouder | 1.594,47 | 1.653,90 |
+- b. de volgende gewichten kosten van overige prestaties per verzekerde per FKG 2006: FKG 2006
+ Gewicht in euro's
+ FKG onbekend
+ 0,00
+ 0
+ Geen FKG
+ 1
+ Glaucoom
+ 262,67
+ 2
+ Schildklieraandoeningen
+ 198,53
+ 3
+ Hoog cholesterol
+ 593,90
+ 4
+ Diabetes IIb (laag intensief)
+ 584,18
+ 5
+ Cara
+ 854,89
+ 6
+ Diabetes IIa (hoog intensief)
+ 1.316,00
+ 7
+ Epilepsie
+ 1.131,80
+ 8
+ Ziekte van Crohn/colitis ulcerosa
+ 1.160,60
+ 9
+ Hartaandoeningen
+ 1.143,19
+ 10
+ Reuma
+ 1.595,19
+ 11
+ Parkinson
+ 2.563,80
+ 12
+ Diabetes I
+ 2.487,17
+ 13
+ Transplantaties
+ 3.445,05
+ 14
+ Cystic fibrosis en pancreasaandoeningen
+ 3.933,16
+ 15
+ Neuromusculaire aandoeningen
+ 7.170,77
+ 16
+ HIV / AIDS
+ 9.645,16
+ 17
+ Nieraandoeningen / ESRD
+ 3.732,09 Het college berekent het gewicht kosten van overige prestaties per verzekerde voor de FKG 2006 0 door de totale aantallen verzekerden per FKG 2006 1 tot en met 17 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het totaal aantal verzekerden FKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-- b. de volgende gewichten kosten van overige prestaties per verzekerde per FKG 2006: Het college berekent het gewicht kosten van overige prestaties per verzekerde voor de FKG 2006 0 door de totale aantallen verzekerden per FKG 2006 1 tot en met 17 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het totaal aantal verzekerden FKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
+- c. de volgende gewichten kosten van overige prestaties per verzekerde per DKG 2006: DKG 2006
+ Gewicht in euro's
+ DKG-onbekend
+ 0,00
+ 0 Geen DKG
+ 1
+ 306,43
+ 2
+ 582,46
+ 3
+ 740,51
+ 4
+ 926,91
+ 5
+ 745,97
+ 6
+ 791,90
+ 7
+ 1.409,86
+ 8
+ 2.021,58
+ 9
+ 2.081,80
+ 10
+ 2.193,90
+ 11
+ 2.927,02
+ 12
+ 2.465,31
+ 13
+ –10,90 Het college berekent het gewicht kosten van overige prestaties per verzekerde voor de DKG 2006 0 door de totale aantallen verzekerden per DKG 2006 1 tot en met 13 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het totaal aantal verzekerden DKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-|   | FKG 2006 | Gewicht in euro's |
-| --- | --- | --- |
-|   | FKG onbekend | 0,00 |
-| 0 | Geen FKG |   |
-| 1 | Glaucoom | 262,67 |
-| 2 | Schildklieraandoeningen | 198,53 |
-| 3 | Hoog cholesterol | 593,90 |
-| 4 | Diabetes IIb (laag intensief) | 584,18 |
-| 5 | Cara | 854,89 |
-| 6 | Diabetes IIa (hoog intensief) | 1.316,00 |
-| 7 | Epilepsie | 1.131,80 |
-| 8 | Ziekte van Crohn/colitis ulcerosa | 1.160,60 |
-| 9 | Hartaandoeningen | 1.143,19 |
-| 10 | Reuma | 1.595,19 |
-| 11 | Parkinson | 2.563,80 |
-| 12 | Diabetes I | 2.487,17 |
-| 13 | Transplantaties | 3.445,05 |
-| 14 | Cystic fibrosis en pancreasaandoeningen | 3.933,16 |
-| 15 | Neuromusculaire aandoeningen | 7.170,77 |
-| 16 | HIV / AIDS | 9.645,16 |
-| 17 | Nieraandoeningen / ESRD | 3.732,09 |
+- d. de volgende gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2006: Aard van het inkomenklasse
+ Gewichten in euro's
+ 0–14 jaar
+ 15–34 jaar
+ 35–44 jaar
+ 45–54 jaar
+ 55–64 jaar
+ 65 jaar en ouder
+ 1. 0 t/m 14 jaar of 65 jaar en ouder
+ 0,00
+ 
+ 
+ 
+ 
+ 0,00
+ 2. Arbeidsongeschikten
+ 
+ 426,27
+ 440,31
+ 448,11
+ 316,40
+ 3. Bijstandsgerechtigden
+ 
+ 47,65
+ 129,18
+ 201,78
+ 69,59
+ 4. WW, ANW (AWW) en overige uitkeringsgerechtigden
+ 
+ 38,44
+ 16,65
+ 0,56
+ –49,14
+ 5. Zelfstandigen
+ 
+ –45,26
+ –76,11
+ –113,02
+ –156,82
+ 6. Referentiegroep Het college berekent het gewicht overige prestaties per verzekerde per leeftijdscategorie voor de referentiegroep aard van het inkomen door de totale aantallen verzekerden van de aard van het inkomenklasse 2006 2 tot en 5 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het totaal aantal verzekerden per leeftijdsklasse van de referentiegroep aard van het inkomen, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-- c. de volgende gewichten kosten van overige prestaties per verzekerde per DKG 2006: Het college berekent het gewicht kosten van overige prestaties per verzekerde voor de DKG 2006 0 door de totale aantallen verzekerden per DKG 2006 1 tot en met 13 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het totaal aantal verzekerden DKG 2006 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
-
-| DKG 2006 | Gewicht in euro's |
-| --- | --- |
-| DKG-onbekend | 0,00 |
-| 0 Geen DKG |   |
-| 1 | 306,43 |
-| 2 | 582,46 |
-| 3 | 740,51 |
-| 4 | 926,91 |
-| 5 | 745,97 |
-| 6 | 791,90 |
-| 7 | 1.409,86 |
-| 8 | 2.021,58 |
-| 9 | 2.081,80 |
-| 10 | 2.193,90 |
-| 11 | 2.927,02 |
-| 12 | 2.465,31 |
-| 13 | –10,90 |
-
-- d. de volgende gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2006: Het college berekent het gewicht overige prestaties per verzekerde per leeftijdscategorie voor de referentiegroep aard van het inkomen door de totale aantallen verzekerden van de aard van het inkomenklasse 2006 2 tot en 5 te vermenigvuldigen met de overeenkomstige gewichten, de resultaten daarvan te sommeren en vervolgens te delen door het totaal aantal verzekerden per leeftijdsklasse van de referentiegroep aard van het inkomen, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
-
-| Aard van het inkomenklasse Gewichten in euro's | 0–14 jaar | 15–34 jaar | 35–44 jaar | 45–54 jaar | 55–64 jaar | 65 jaar en ouder |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1. 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |   |   |   |   | 0,00 |
-| 2. Arbeidsongeschikten |   | 426,27 | 440,31 | 448,11 | 316,40 |   |
-| 3. Bijstandsgerechtigden |   | 47,65 | 129,18 | 201,78 | 69,59 |   |
-| 4. WW, ANW (AWW) en overige uitkeringsgerechtigden |   | 38,44 | 16,65 | 0,56 | –49,14 |   |
-| 5. Zelfstandigen |   | –45,26 | –76,11 | –113,02 | –156,82 |   |
-| 6. Referentiegroep |   |   |   |   |   |   |
-
-- e. de volgende gewichten kosten van overige prestaties per verzekerde per regioklasse 2006:
-
-| Regioklasse 2006 | Voormalig ziekenfonds verzekerd | Voormalig particulier verzekerd |
-| --- | --- | --- |
-| Gewicht in euro’s |   |   |
-| Klasse 1 | 16,35 | –21,89 |
-| Klasse 2 | 19,68 | –16,13 |
-| Klasse 3 | 16,85 | –18,24 |
-| Klasse 4 | 18,41 | –15,01 |
-| Klasse 5 | 13,13 | –15,62 |
-| Klasse 6 | 10,71 | –12,93 |
-| Klasse 7 | 9,02 | –12,13 |
-| Klasse 8 | 2,85 | –16,08 |
-| Klasse 9 | –9,72 | –13,11 |
-| Klasse 10 | –23,74 | –26,65 |
+- e. de volgende gewichten kosten van overige prestaties per verzekerde per regioklasse 2006: Regioklasse 2006
+ Voormalig ziekenfonds verzekerd
+ Voormalig particulier verzekerd
+ Gewicht in euro’s
+ Klasse 1
+ 16,35
+ –21,89
+ Klasse 2
+ 19,68
+ –16,13
+ Klasse 3
+ 16,85
+ –18,24
+ Klasse 4
+ 18,41
+ –15,01
+ Klasse 5
+ 13,13
+ –15,62
+ Klasse 6
+ 10,71
+ –12,93
+ Klasse 7
+ 9,02
+ –12,13
+ Klasse 8
+ 2,85
+ –16,08
+ Klasse 9
+ –9,72
+ –13,11
+ Klasse 10
+ –23,74
+ –26,65
 
 2. Het college bepaalt op basis van de opgave herziene jaarstaat 2006 per 1 juli 2009 de kosten van overige prestaties 2006 met inachtneming van [artikel 3.7 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7).
 
@@ -1559,94 +2966,192 @@ Het college herberekent op basis van de opgave herziene jaarstaat 2006 per 1 jul
 
 4. Het college stelt per zorgverzekeraar de extra bijdrage, bedoeld in het eerste lid, vast als de som van het resultaat van het tweede lid onder b en het resultaat van het derde lid onder b.
 
+### Hoofdstuk IV. De vaststelling van de bijdrage 2006 aan een zorgverzekeraar
+
+##### Artikel 21. Algemene bepaling
+
+Het college herberekent het normatieve bedrag definitief op basis van de correcties die de Nederlandse Zorgautoriteit heeft toegepast op de opgave herziene jaarstaat 2006, de opgave no-claimteruggave 2006 in de jaarstaat 2007, de opgave hoge kosten compensatie 2006 en de opbrengstverrekening 2006.
+
+##### Artikel 22
+
+Het college herberekent definitief het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006 overeenkomstig [artikel 20c](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20c&z=2009-10-23&g=2009-10-23), met inachtneming van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=21&z=2009-10-23&g=2009-10-23).
+
+##### Artikel 23
+
+Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2006 overeenkomstig [artikel 20d](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20d&z=2009-10-23&g=2009-10-23), met inachtneming van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=21&z=2009-10-23&g=2009-10-23).
+
+##### Artikel 24
+
+Het college herberekent definitief het deelbedrag kosten van overige prestaties 2006 overeenkomstig [artikel 20e](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20e&z=2009-10-23&g=2009-10-23), met inachtneming van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=21&z=2009-10-23&g=2009-10-23).
+
+##### Artikel 25
+
+Het college herberekent definitief de normatieve no-claimteruggave 2006, overeenkomstig [artikel 20f](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20f&z=2009-10-23&g=2009-10-23), met inachtneming van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=21&z=2009-10-23&g=2009-10-23).
+
+##### Artikel 26. De definitieve herberekening van het normatieve bedrag 2006 en de definitieve herberekening en de vaststelling van de bijdrage 2006
+
+1. Het college herberekent het normatieve bedrag 2006 definitief als de som van het definitieve deelbedrag 2006 variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006, het definitieve deelbedrag vaste kosten van ziekenhuisverpleging 2006 en het definitieve deelbedrag kosten van overige prestaties 2006.
+
+2. Het college trekt van de som van het definitieve deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006, het definitieve deelbedrag kosten van overige prestaties 2006 en de definitieve normatieve no-claimteruggave 2006 af de som van de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006, zoals bepaald in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=22&z=2009-10-23&g=2009-10-23), de kosten van overige prestaties 2006, zoals bepaald in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=24&z=2009-10-23&g=2009-10-23) en de definitieve no-claimteruggave 2006.
+
+3. Indien het in het tweede lid bepaalde bedrag groter is dan het aantal verzekerden van 18 jaar en ouder 2006 maal € 35, dan trekt het college 90% van het meerdere af van het definitieve normatieve bedrag 2006.
+
+4. Indien het in het tweede lid bepaalde bedrag kleiner is dan het aantal verzekerden van 18 jaar en ouder 2006 maal – € 35, dan voegt het college 90% van het verschil toe aan het definitieve normatieve bedrag 2006.
+
+5. Het college bepaalt de definitieve opbrengst van de nominale rekenpremie per zorgverzekeraar door de verzekerden van 18 jaar en ouder 2006 per zorgverzekeraar te vermenigvuldigen met de nominale rekenpremie 2006. Het college vermindert het resultaat van de opbrengst nominale rekenpremie met een detentiefactor, vanwege gederfde inkomsten voor verzekerden van wie de zorgverzekering is opgeschort overeenkomstig [artikel 24 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) en waarvoor zorgverzekeraars geen nominale premies ontvangen. Het CVZ berekent de detentiefactor door het aantal gedetineerden 2006 zoals vermeld door het CBS in Statline te delen door het aantal verzekerden van 18 jaar en ouder 2006, zoals vastgesteld in [artikel 20b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20b&z=2009-10-23&g=2009-10-23).
+
+6. Het college berekent de definitieve aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar door het aantal verzekerden jonger dan 18 jaar 2006 te vermenigvuldigen met € 50.
+
+7. Het college berekent de bijdrage 2006 definitief door van het definitieve normatieve bedrag 2006, inclusief de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar en inclusief de definitieve normatieve no-claimteruggave, de opbrengst van de nominale rekenpremie af te trekken.
+
+8. Het college stelt de bijdrage 2006 vast ter hoogte van de in het vorige lid definitief berekende bijdrage.
+
 ##### Artikel 26a
 
 Naast de bijdrage zoals vastgesteld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=26&z=2009-10-23&g=2009-10-23) keert het college de extra middelen uit overeenkomstig [artikel 20h](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20h&z=2009-10-23&g=2009-10-23).
 
+### Hoofdstuk V. De uitkering voor de kosten van prestaties die door het college naar het werkelijk bedrag worden vergoed
+
+##### Artikel 27
+
+1. Bij gelegenheid van de vaststelling van de bijdrage 2006 als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=26&z=2009-10-23&g=2009-10-23) stelt het college per zorgverzekeraar ook de uitkering 2006 vast voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed.
+
+2. In afwachting van de vaststelling van de uitkering 2006 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de voorlopige vaststelling van de bijdrage 2006 bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=20&z=2009-10-23&g=2009-10-23) ook de voorlopige uitkering 2006 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, vast.
+
 ### Hoofdstuk VI. De Betalingen aan de zorgverzekeraars
+
+##### Artikel 28
+
+1. Het college betaalt de zorgverzekeraars de bijdrage, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=11&z=2009-10-23&g=2009-10-23), uit, verminderd met het bedrag voor de geraamde normatieve no-claimteruggave. Het college maakt bij de betalingen onderscheid naar de volgende bestanddelen:
+
+- a. het deel van het normatieve bedrag 2006 dat betrekking heeft op het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en het deelbedrag vaste kosten van ziekenhuisverpleging, met uitzondering van het deelbedrag samenhangend met de academische component, bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=8&z=2009-10-23&g=2009-10-23);
+
+- b. het deelbedrag samenhangend met de academische component, bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=8&z=2009-10-23&g=2009-10-23);
+
+- c. het deel van het normatieve bedrag 2006 dat betrekking heeft op het deelbedrag kosten van overige prestaties;
+
+- d. een aftrekpost voor de geraamde opbrengst van de nominale rekenpremie.
+
+2. Het college betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar, bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=11&z=2009-10-23&g=2009-10-23).
+
+3. Het college betaalt de zorgverzekeraars de normatieve no-claimteruggave bedoeld in [artikel 13, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=13&z=2009-10-23&g=2009-10-23).
+
+4. Voor de betaling van de kosten, die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar werkelijke kosten worden vergoed, kan het college ambtshalve een bedrag vaststellen, waarmee de betaling aan de zorgverzekeraars wordt verhoogd.
+
+5. Indien toepassing van het eerste, tweede dan wel vierde lid leidt tot een negatief saldo, verrekent het college het negatieve saldo, voor zover mogelijk, met de betalingen bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23). Het college verrekent het negatieve saldo totdat de vordering volledig is voldaan.
+
+##### Artikel 28a
+
+1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 20, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=20&z=2009-10-23&g=2009-10-23), stelt het college het volgende vast:
+
+- a. De hoogte van het bedrag van de door de zorgverzekeraar ingevorderde boetes op grond van [artikel 96 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96);
+
+- b. Het vergoedingsbedrag waar de zorgverzekeraar voor de door hem zelf ingevorderde boetes op grond van [artikel 96, zesde lid, Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96) recht op heeft;
+
+- c. Het deel van het bedrag bedoeld onder a dat de zorgverzekeraar aan het Zorgverzekeringsfonds moet afdragen;
+
+- d. Het deel van het bedrag van de door het college zelf op grond van [artikel 96 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96) ingevorderde boetes waar de zorgverzekeraar als vergoeding recht op heeft.
+
+2. Het college verrekent de som van de onderdelen c en d uit het eerste lid zo mogelijk met de op grond van [artikel 20, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=20&z=2009-10-23&g=2009-10-23), voorlopig vastgestelde bijdrage.
+
+3. Indien verrekening, als bedoeld in het tweede lid, niet mogelijk blijkt, vordert het college het door de zorgverzekeraar af te dragen bedrag bij de zorgverzekeraar in, dan wel betaalt het college het door de zorgverzekeraar te ontvangen bedrag, aan de zorgverzekeraar na.
+
+4. Bij gelegenheid van de tweede voorlopige vaststelling stelt het college opnieuw de hoogte van de in 2006 ingevorderde boetes vast, overeenkomstig de opgave van de zorgverzekeraars in de jaarstaat 2006 met inachtneming van correcties door de Nederlandse Zorgautoriteit.
+
+5. Het college verrekent zo mogelijk, na toepassing van het vierde lid en overeenkomstig het tweede lid, de som van de onderdelen c en d uit het eerste lid met de op grond van [artikel 20f, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20f&z=2009-10-23&g=2009-10-23), voor de tweede maal voorlopig vastgestelde bijdrage.
+
+##### Artikel 28b
+
+1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 20, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=20&z=2009-10-23&g=2009-10-23), stelt het college het bedrag aan compensatie vast volgens [artikel 3.15a van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15a), voor iedere verzekerde ten aanzien van wie niet aan de premieplicht, bedoeld in [artikel 16 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=16), is of wordt voldaan. De zorgverzekeraar ontvangt de compensatie onder de voorwaarde dat is voldaan aan het bepaalde in [artikel 3.18 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.18). Bij de voorlopige vaststelling baseert het college zich voor de vaststelling van de compensatie op de voorlopige opgave van de zorgverzekeraars per 1 juni 2007 over het aantal wanbetalers in 2006.
+
+2. Het college stelt de compensatie, bedoeld in het eerste lid, als volgt vast:
+
+- a. Het college stelt per zorgverzekeraar het totale bedrag aan openstaande premievorderingen vast.
+
+- b. Het college berekent het bedrag van de premievordering dat ten laste komt van de zorgverzekeraar zelf door het aantal wanbetalers te vermenigvuldigen met de nominale rekenpremie over 6 maanden.
+
+- c. Het college stelt de voorlopige compensatie vast door het bedrag onder b in mindering te brengen op het bedrag onder a.
+
+3. De door de zorgverzekeraars te ontvangen compensatie, bedoeld in het tweede lid, onder c, verrekent het college zo mogelijk met de op grond van [artikel 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=20&z=2009-10-23&g=2009-10-23), voorlopig vastgestelde bijdrage.
+
+##### Artikel 29
+
+1. De bestanddelen genoemd in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23), alsmede de uitkering bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23), betaalt het college in termijnen op de eerste werkdag van de maand, overeenkomstig onderstaand betalingsschema:
+
+|  | Bestanddelen betalingen bedoeld in artikel 28, eerste lid en uitkering bedoeld in artikel 28, tweede lid |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| Betaalmoment | Lid 1, onder a | Lid 1, onder b | Lid 1, onder c | Lid 1, onder d | Lid 2 |
+| februari 2006 | 0,919500% | 8,333300% |  | 16,666700% | 8,333300% |
+| maart 2006 | 2,643700% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| april 2006 | 4,367800% | 8,333400% | 8,333400% | 8,333400% | 8,333400% |
+| mei 2006 | 6,092000% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| juni 2006 | 7,643500% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| juli 2006 | 8,333300% | 8,333400% | 8,333400% | 8,333400% | 8,333400% |
+| augustus 2006 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| september 2006 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| oktober 2006 | 8,333300% | 8,333400% | 8,333400% | 8,333400% | 8,333400% |
+| november 2006 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| december 2006 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| januari 2007 | 8,333300% | 8,333400% | 8,333400% |  | 8,333400% |
+| februari 2007 | 7,413900% |  | 8,333300% |  |  |
+| maart 2007 | 5,689700% |  |  |  |  |
+| april 2007 | 3,965600% |  |  |  |  |
+| mei 2007 | 2,241400% |  |  |  |  |
+| juni 2007 | 0,689800% |  |  |  |  |
+
+2. Het college betaalt de normatieve no-claimteruggave, bedoeld in [artikel 13, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=13&z=2009-10-23&g=2009-10-23), aan de zorgverzekeraars in één termijn op de laatste werkdag van de maand maart 2007.
+
+3. Voor een zorgverzekeraar, die zich op grond van [artikel 25 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=25) aanmeldt bij het College van toezicht op de zorgverzekeringen nadat het College voor zorgverzekeringen de bijdragen voor de zorgverzekeraars heeft toegekend, kan het college voor die zorgverzekeraar afwijken van het betalingsschema in het eerste lid.
+
+4. In bijzondere omstandigheden, wanneer de betalingen voor een zorgverzekeraar kennelijk ontoereikend zijn, kan het college op verzoek van die zorgverzekeraar de betalingen verhogen. Indien de betalingen kennelijk ontoereikend zijn wegens toename van het aantal verzekerden dat bij de zorgverzekeraar is ingeschreven, voldoet het college aan een verzoek van de zorgverzekeraar om verhoging van de betalingen, wanneer die toename tenminste 5 procent bedraagt, met een minimum van 3.000 verzekerden, ten opzichte van het verzekerdenaantal dat aan de berekening van de bijdrage ten grondslag heeft gelegen. Het minimum van 3.000 verzekerden geldt niet als de toename 25 procent of meer bedraagt.
+
+##### Artikel 30
+
+1. Indien het college de bijdragen voor de zorgverzekeraars herziet, op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=14&z=2009-10-23&g=2009-10-23), herziet het college ook de te betalen termijnen overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23). Het college verrekent het verschil tussen de reeds betaalde termijnen en de herziene termijnen op de eerste werkdag van de maand juli 2006.
+
+2. Indien het college de bijdrage voorlopig vaststelt, op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&z=2009-10-23&g=2009-10-23), herziet het college ook de te betalen termijnen overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23). Op de eerste werkdag van de maand november 2007 verrekent het college het verschil tussen de voor het jaar 2006 betaalde termijnen en de herziene termijnen.
+
+3. Indien het college de bijdrage voor de tweede maal voorlopig vaststelt op grond van [hoofdstuk IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&z=2009-10-23&g=2009-10-23), herziet het college ook de te betalen termijnen overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23). Op de eerste werkdag van de maand oktober 2009 verrekent het college het verschil tussen de voor het jaar 2006 betaalde termijnen en de herziene termijnen.
+
+4. Na de vaststelling van de bijdrage, op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&z=2009-10-23&g=2009-10-23), herziet het college de definitief te betalen termijnen overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23). Het college verrekent het verschil tussen de herziene termijnen, bedoeld in het vorige lid, met de definitief te betalen termijnen.
+
+5. Indien toepassing van onderscheidenlijk het eerste, tweede en derde lid resulteert in een positief saldo voor de zorgverzekeraar, betaalt het college dat saldo ineens aan de zorgverzekeraar, behoudens een eventuele verrekening met een vordering op de zorgverzekeraar uit hoofde van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
+
+6. Indien toepassing van onderscheidenlijk het eerste, tweede en derde lid resulteert in een negatief saldo voor de zorgverzekeraar, wordt dat saldo ineens door de desbetreffende zorgverzekeraar aan het college terugbetaald, behoudens voor zover het college het bedrag heeft verrekend met enige vordering op de zorgverzekeraar op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
+
+##### Artikel 31
+
+1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23).
+
+2. De rente, bedoeld in het eerste lid, wordt bij de voorlopige en definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
+
+##### Artikel 32
+
+1. Bij de verrekening van verschillen, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
+
+2. Bij de verrekening van de verschillen, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23), tot de datum van de voorlopige vaststelling van de bijdrage.
+
+3. Bij de verrekening van de verschillen, bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23), tot de datum van de tweede voorlopige vaststelling van de bijdrage.
+
+4. Bij de verrekening van de verschillen, bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23) tot de datum van de definitieve vaststelling van de bijdrage.
+
+5. Voor een zorgverzekeraar waarvoor krachtens [artikel 29, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23), afwijkende betalingen hebben plaatsgevonden, kan het college bij de renteberekening afwijken van de vorige leden.
+
+6. Voor het rentepercentage gaat het college uit van het gemiddelde van de maandrentes van het Euro Interbank Offered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de periodes, bedoeld in het eerste, tweede en derde lid. Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand. Het percentage wordt verhoogd met 0,3 procentpunt bij een voor de zorgverzekeraar positief saldo, als bedoeld in [artikel 30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23). Het percentage wordt verlaagd met 0,3 procentpunt bij een voor de zorgverzekeraar negatief saldo, als bedoeld in [artikel 30, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23).
+
+7. De rente betreft een samengestelde rente en wordt op maandbasis berekend.
+
+Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
+
+8. Indien de situatie zich voordoet dat het in deze paragraaf bedoelde Euro Interbank Offered Rate (Euribortarief) niet meer kan worden toegepast, zal een zoveel als mogelijk overeenkomstig tarief worden gehanteerd.
 
 ### Hoofdstuk VII. Slotbepalingen
 
-## Bijlage 1. Prevalentie-ontwikkeling 2004–2005 per morbiditeitsrisicoklasse per FKG 2006
+##### Artikel 33
 
-| Mannen | 1 | 2 | 3 | 4 | 5 | 6 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Glaucoom | Schildklier-aandoeningen | Hoog cholestorol | Diabetes IIb (laag intensief) | CARA | Diabetes IIa (hoog intensief) |
-| 0 t/m 14 | 1,6840806 | 1,0974869 | 0,9188932 | 1,0266600 | 0,9529231 | 1,3425500 |
-| 15 t/m 29 | 1,0672526 | 1,0465137 | 1,1034790 | 1,0286693 | 0,9497995 | 2,0403358 |
-| 30 t/m 44 | 1,0003564 | 1,0905091 | 1,1162067 | 1,0598982 | 0,9883163 | 1,4120933 |
-| 45 t/m 59 | 1,0105918 | 1,0845794 | 1,0961408 | 1,0120046 | 0,9902664 | 1,2917985 |
-| 60 t/m 74 | 0,9823629 | 1,0387551 | 1,1231831 | 1,0130855 | 0,9903643 | 1,3208347 |
-| 75 e.o. | 0,9864169 | 1,0566450 | 1,2446416 | 1,0003022 | 1,0034647 | 1,3966483 |
+Deze regeling treedt in werking met ingang van 1 januari 2006.
 
-| Vrouwen | 1 | 2 | 3 | 4 | 5 | 6 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Glaucoom | Schildklier-aandoeningen | Hoog cholestorol | Diabetes IIb (laag intensief) | CARA | Diabetes IIa (hoog intensief) |
-| 0 t/m 14 | 1,0358434 | 1,0497541 | 1,2808817 | 1,2530364 | 0,9327809 | 1,1340500 |
-| 15 t/m 29 | 0,9950529 | 1,0455007 | 1,1173267 | 0,9879453 | 0,9489493 | 2,0469659 |
-| 30 t/m 44 | 1,0340126 | 1,0821223 | 1,1480328 | 1,0562761 | 0,9667241 | 1,5169697 |
-| 45 t/m 59 | 0,9801340 | 1,0554069 | 1,1379468 | 0,9959295 | 0,9949745 | 1,3353485 |
-| 60 t/m 74 | 0,9917775 | 1,0532115 | 1,1295830 | 0,9702154 | 1,0047181 | 1,2845239 |
-| 75 e.o. | 0,9854092 | 1,0236794 | 1,2345829 | 0,9917793 | 1,0158149 | 1,3859586 |
+##### Artikel 34
 
-| Tot man | 1,0059803 | 1,0746224 | 1,1388041 | 1,0266569 | 0,9933981 | 1,3425431 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Tot vrouw | 1,0000184 | 1,0645275 | 1,1657807 | 0,9998817 | 0,9941912 | 1,3405613 |
-|   |   |   |   |   |   |   |
-| Totaal | 1,0025745 | 1,0670384 | 1,1514468 | 1,0117151 | 0,9938122 | 1,3414157 |
-
-| Mannen | 7 | 8 | 9 | 10 | 11 | 12 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Epilepsie | Ziekte van Crohn/Collitus ulcerosa | Hartaan- doeningen | Reuma | Parkinson | Diabetes 1 |
-| 0 t/m 14 | 1,0250140 | 0,9700925 | 0,7831476 | 0,9078602 | 1,0159700 | 1,0595293 |
-| 15 t/m 29 | 1,0289987 | 1,0288873 | 0,9422384 | 1,0142020 | 1,0201679 | 1,0164686 |
-| 30 t/m 44 | 1,0246812 | 1,0949668 | 0,9575536 | 1,1110708 | 0,8376613 | 1,0491242 |
-| 45 t/m 59 | 1,0328636 | 1,0539399 | 0,9730523 | 1,0527786 | 0,9708196 | 1,0429840 |
-| 60 t/m 74 | 1,0321626 | 1,0444308 | 0,9689201 | 1,0372376 | 1,0155989 | 1,0699096 |
-| 75 e.o. | 1,0168612 | 1,0434697 | 0,9842050 | 1,0375245 | 1,0010933 | 1,0533764 |
-
-| Vrouwen | 7 | 8 | 9 | 10 | 11 | 12 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Epilepsie | Ziekte van Crohn/Collitus ulcerosa | Hartaan- doeningen | Reuma | Parkinson | Diabetes 1 |
-| 0 t/m 14 | 0,9535820 | 1,3365722 | 1,0994384 | 1,0417401 | 1,0000000 | 1,1205550 |
-| 15 t/m 29 | 1,0240138 | 1,0356017 | 0,8813325 | 0,9636690 | 1,3305278 | 0,9992695 |
-| 30 t/m 44 | 1,0333817 | 1,0419490 | 1,0143405 | 1,0674644 | 1,1446502 | 1,0384082 |
-| 45 t/m 59 | 1,0404306 | 1,0923606 | 0,9582849 | 1,0502737 | 0,9850264 | 1,0256382 |
-| 60 t/m 74 | 0,9976420 | 1,0598124 | 0,9632044 | 1,0214015 | 0,9772862 | 1,0247379 |
-| 75 e.o. | 1,0469565 | 1,0636575 | 0,9866201 | 1,0266090 | 0,9859495 | 1,0174278 |
-
-| Tot man | 1,0319496 | 1,0615589 | 0,9914099 | 1,0610527 | 1,0159658 | 1,0637795 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Tot vrouw | 1,0306970 | 1,0612629 | 0,9889886 | 1,0470167 | 0,9974794 | 1,0342125 |
-|   |   |   |   |   |   |   |
-| Totaal | 1,0311225 | 1,0615758 | 0,9901026 | 1,0520851 | 1,0062289 | 1,0469714 |
-
-| Mannen | 13 | 14 | 15 | 16 | 17 |
-| --- | --- | --- | --- | --- | --- |
-| Leeftijd | Transplantaties | Cystic fibrosis/ pancreasaandoeningen | Neuromusculaire aandoeningen | HIV/AIDS | Nieraandoeningen |
-| 0 t/m 14 | 1,1068486 | 0,9403316 | 1,3365719 | 1,1566488 | 1,0024289 |
-| 15 t/m 29 | 1,0361392 | 1,0707547 | 0,9583395 | 0,9401547 | 1,3480790 |
-| 30 t/m 44 | 1,0496906 | 0,9929524 | 1,0358473 | 1,0439479 | 1,2714514 |
-| 45 t/m 59 | 1,0412352 | 1,0161095 | 1,0459207 | 1,1271994 | 1,2514407 |
-| 60 t/m 74 | 1,0573972 | 1,0606843 | 1,0606144 | 1,0790394 | 1,1345584 |
-| 75 e.o. | 1,1606943 | 0,9379150 | 0,9853376 | 1,2316720 | 1,4391353 |
-
-| Vrouwen | 13 | 14 | 15 | 16 | 17 |
-| --- | --- | --- | --- | --- | --- |
-| Leeftijd | Transplantaties | Cystic fibrosis/ pancreasaandoeningen | Neuromusculaire aandoeningen | HIV/AIDS | Nieraandoeningen |
-| 0 t/m 14 | 0,9272470 | 0,9819714 | 1,0024291 | 1,2302539 | 1,0795391 |
-| 15 t/m 29 | 1,1047959 | 0,8966797 | 1,0671386 | 1,0825300 | 1,2622956 |
-| 30 t/m 44 | 1,0534183 | 0,9776588 | 1,0741102 | 1,1545475 | 1,1203991 |
-| 45 t/m 59 | 1,0454261 | 1,0160322 | 1,0744523 | 1,0795529 | 1,1232627 |
-| 60 t/m 74 | 1,0613731 | 1,0376580 | 1,0365440 | 1,2882397 | 1,2512258 |
-| 75 e.o. | 1,1121211 | 0,9967139 | 1,2454783 | 0,9924905 | 1,3469514 |
-
-| Tot man | 1,0543796 | 1,0253434 | 1,0430396 | 1,0730081 | 1,2624903 |
-| --- | --- | --- | --- | --- | --- |
-| Tot vrouw | 1,0643440 | 1,0075104 | 1,0762820 | 1,1297523 | 1,2428430 |
-|   |   |   |   |   |   |
-| Totaal | 1,0596334 | 1,0170828 | 1,0637948 | 1,0845915 | 1,2520830 |
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-Goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport bij brief van 13 september 2005, onder nummer Z/F-2617684.
+Deze regeling wordt aangehaald als: Regeling beleidsregels vereveningsbijdrage zorgverzekering 2006.

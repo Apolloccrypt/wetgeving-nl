@@ -1,45 +1,18 @@
 ---
 title: "Regeling houdende bepalingen met betrekking tot erkenningen van geluidscertificaten en geluidsverklaringen (Regeling geluidscertificaten en geluidsverklaringen luchtvaart)"
+citeertitel: "Regeling geluidscertificaten en geluidsverklaringen luchtvaart"
 identifier: "BWBR0018244"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-10-01"
-last_updated: "2020-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018244"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "6978613"
-version_id: "11847022"
-internal_id: "C15938291"
-label_id: "6966754"
-original_entry_into_force: "2005-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018244/2020-10-01/0"
-intitule_bron: "Stcrt.2005-84"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-26"
-intitule_published: "2005-05-02"
-intitule_in_force: "2005-05-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-84"
-original_signed_date: "2005-04-26"
-original_published_date: "2005-05-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-84-p14-SC69760"
-entry_into_force_date: "2005-05-01"
-jci_1_3: "jci1.3:c:BWBR0018244&z=2020-10-01&g=2020-10-01"
-jci_1_0: "1.0:c:BWBR0018244&g=2020-10-01"
-citeertitel_status: "officieel"
-short_title: "Regeling geluidscertificaten en geluidsverklaringen luchtvaart"
-signed_date: "2005-04-26"
-entry_into_force: "2005-05-01"
+publicatiedatum: 2005-05-01
+laatste_update: 2020-10-01
+status: geldig
+toestand: 2020-10-01
+bron: "https://wetten.overheid.nl/BWBR0018244"
+opgehaald: 2026-08-09
 ---
+
 # Regeling houdende bepalingen met betrekking tot erkenningen van geluidscertificaten en geluidsverklaringen (Regeling geluidscertificaten en geluidsverklaringen luchtvaart)
-
-Gelet op [artikel 3.24 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.24) en op [artikel 22d van het Besluit luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=22d);
-
-Besluit:
-
-Treedt in werking met betrekking tot luchtvaartuigen met een maximum startmassa van ten hoogste 8.618 kg. Treedt met betrekking tot luchtvaartuigen met een maximum startmassa van meer dan 8.618 kg in werking op 1 januari 2006. De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Paragraaf 1. Algemeen
 
@@ -55,6 +28,10 @@ Treedt in werking met betrekking tot luchtvaartuigen met een maximum startmassa 
 
 2. Deze regeling is eveneens van toepassing op een voorlopig geluidscertificaat, een voorlopige geluidsverklaring, een aanvullende geluidsverklaring en een voorlopige aanvullende geluidsverklaring.
 
+##### Artikel 1a
+
+Deze regeling berust op [artikel 3.24 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.24) en [artikel 16 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=16).
+
 #### Paragraaf 2. Afgifte van een geluidscertificaat of geluidsverklaring
 
 ##### Artikel 2
@@ -65,7 +42,7 @@ Treedt in werking met betrekking tot luchtvaartuigen met een maximum startmassa 
 
 3. In het geval als bedoeld in [artikel 14, derde lid, onderdeel b, van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=14) wordt bij de aanvraag van een geluidscertificaat of een geluidsverklaring het geluidsmeetrapport ingediend.
 
-4. De modellen van het geluidscertificaat, de geluidsverklaring en de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018244&paragraaf=1&artikel=1&z=2020-10-01&g=2020-10-01), genoemde documenten zijn opgenomen in de bij deze regeling behorende bijlage.
+4. De modellen van het geluidscertificaat, de geluidsverklaring en de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018244&paragraaf=1&artikel=1&z=2020-10-01&g=2020-10-01), genoemde documenten zijn opgenomen in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/BWBR0018244).
 
 #### Paragraaf 3. Wijziging, overdracht, schorsing, intrekking en vernieuwing van het geluidscertificaat en geluidsverklaring
 
@@ -105,26 +82,8 @@ Bij de overdracht van een luchtvaartuig wordt het geluidscertificaat of de gelui
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling geluidscertificaten en geluidsverklaringen luchtvaart.
-
-## Bijlage
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 3.24 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.24) en [artikel 16 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=16).
-
-#### Paragraaf 2. Afgifte van een geluidscertificaat of geluidsverklaring
-
-#### Paragraaf 3. Wijziging, overdracht, schorsing, intrekking en vernieuwing van het geluidscertificaat en geluidsverklaring
-
-#### Paragraaf 4. Slotbepalingen
-
-## Bijlage
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

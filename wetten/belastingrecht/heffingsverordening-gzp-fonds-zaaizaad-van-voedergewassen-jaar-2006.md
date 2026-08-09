@@ -1,45 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 3 november 2005, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van voedergewassen in Nederland voor het jaar 2006 (Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2006)"
+citeertitel: "Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2006"
 identifier: "BWBR0018974"
-country: "nl"
-rank: "pbo"
-publication_date: "2006-03-19"
-last_updated: "2006-03-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018974"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "8183783"
-version_id: "13003222"
-internal_id: "C27022621"
-label_id: "8164994"
-dtd_version: "2.0"
-original_entry_into_force: "2006-03-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018974/2006-03-19/0"
-intitule_bron: "Vbbo.2006-16"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-11-03"
-intitule_published: "2006-03-17"
-intitule_in_force: "2006-03-17"
-intitule_status: "goed"
-original_publication: "Vbbo.2006-16"
-original_signed_date: "2005-11-03"
-original_published_date: "2006-03-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2006-03-19"
-jci_1_3: "jci1.3:c:BWBR0018974&z=2006-03-19&g=2006-03-19"
-jci_1_0: "1.0:c:BWBR0018974&g=2006-03-19"
-citeertitel_status: "officieel"
-short_title: "Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2006"
-signed_date: "2005-11-03"
-entry_into_force: "2006-03-19"
+publicatiedatum: 2006-03-19
+laatste_update: 2006-03-19
+status: geldig
+toestand: 2006-03-19
+bron: "https://wetten.overheid.nl/BWBR0018974"
+opgehaald: 2026-08-09
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 3 november 2005, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van voedergewassen in Nederland voor het jaar 2006 (Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2006)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=8) en [19 van het Instellingsbesluit akkerbouwproductschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=19);
-
-Besluit:
-
-Werkt terug met uitzondering van de toepassing van de Verordening GZP algemene bepalingen 2003.
 
 #### § 1. Begripsbepalingen
 
@@ -60,15 +33,18 @@ Deze verordening verstaat onder:
 
 1. De ondernemer, die in het jaar 2006 werkzaamheden verricht in het kweekbedrijf voor zaaizaad van voedergewassen en/of met betrekking tot de be- en verwerking en/of met betrekking tot het in de handel brengen van zaaizaad van voedergewassen, is verplicht aan het productschap te betalen:
 
-- a. een basisheffing volgens onderstaand tarief: Voor de berekening van de basisheffing wordt gebruik gemaakt van het in het derde lid verstrekte omzetgegeven, verminderd met het omzetbedrag dat is behaald over door de ondernemer geïmporteerde producten uit andere lidstaten.
-
-| omzet | heffing |
-| --- | --- |
-| €20.000 - 200.000 | € 68,07 |
-| €200.000 - 1.000.000 | € 340,34 |
-| €1.000.000 - 2.000.000 | € 680,67 |
-| €2.000.000 - 4.000.000 | € 1.361,34 |
-| > €4.000.000 | € 6.806,70 |
+- a. een basisheffing volgens onderstaand tarief: omzet
+ heffing
+ €20.000 - 200.000
+ € 68,07
+ €200.000 - 1.000.000
+ € 340,34
+ €1.000.000 - 2.000.000
+ € 680,67
+ €2.000.000 - 4.000.000
+ € 1.361,34
+ > €4.000.000
+ € 6.806,70 Voor de berekening van de basisheffing wordt gebruik gemaakt van het in het derde lid verstrekte omzetgegeven, verminderd met het omzetbedrag dat is behaald over door de ondernemer geïmporteerde producten uit andere lidstaten.
 
 - b. een heffing van € 0,-- per ha aangekocht zaaizaad van voedergewassen, dat op contractbasis in Nederland is geteeld.
 

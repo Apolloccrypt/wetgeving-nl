@@ -1,46 +1,18 @@
 ---
 title: "Wet van 16 juni 2005, houdende regels met betrekking tot het in gebruik geven van grond ten behoeve van de verkoop van motorbrandstoffen aan wegen in beheer bij het Rijk (Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen)"
+citeertitel: "Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen"
 identifier: "BWBR0018447"
-country: "nl"
-rank: "wet"
-publication_date: "2025-02-12"
-last_updated: "2025-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018447"
+categorie: "Overig"
 soort: "wet"
-stam_id: "7127663"
-version_id: "12019242"
-internal_id: "C16165671"
-label_id: "7115854"
-original_entry_into_force: "2005-07-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018447/2025-02-12/0"
-intitule_bron: "Stb.2005-324"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-16"
-intitule_published: "2005-06-30"
-intitule_in_force: "2005-07-12"
-intitule_status: "goed"
-original_publication: "Stb.2005-324"
-original_signed_date: "2005-06-16"
-original_published_date: "2005-06-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "29951"
-original_url_id: "stb-2005-324"
-entry_into_force_date: "2005-07-31"
-jci_1_3: "jci1.3:c:BWBR0018447&z=2025-02-12&g=2025-02-12"
-jci_1_0: "1.0:c:BWBR0018447&g=2025-02-12"
-citeertitel_status: "officieel"
-short_title: "Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen"
-signed_date: "2005-06-16"
-entry_into_force: "2005-07-31"
+publicatiedatum: 2005-07-31
+laatste_update: 2025-02-12
+status: geldig
+toestand: 2025-02-12
+bron: "https://wetten.overheid.nl/BWBR0018447"
+opgehaald: 2026-08-09
 ---
+
 # Wet van 16 juni 2005, houdende regels met betrekking tot het in gebruik geven van grond ten behoeve van de verkoop van motorbrandstoffen aan wegen in beheer bij het Rijk (Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomsten voor het gebruik van grond ten behoeve van de verkoop van motorbrandstoffen aan wegen in beheer bij de Staat door middel van een veiling toe te wijzen, teneinde aldus de prijsconcurrentie op de markt van motorbrandstoffen langs wegen in beheer bij het Rijk te vergroten, de toetredingsmogelijkheden tot die markt te verruimen, en de Staat een vergoeding te bieden voor zijn bijdrage aan het tot stand brengen van die markt;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. Definities
 
@@ -48,31 +20,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **doorzet:** aantal verkochte liters motorbrandstoffen;
+- *doorzet:* aantal verkochte liters motorbrandstoffen;
 
-- **exploitant:** natuurlijke persoon of rechtspersoon die een onderneming drijft wier werkzaamheden bestaan of mede bestaan uit de verkoop van motorbrandstoffen;
+- *exploitant:* natuurlijke persoon of rechtspersoon die een onderneming drijft wier werkzaamheden bestaan of mede bestaan uit de verkoop van motorbrandstoffen;
 
-- **gebruiksvergoeding:** bedrag dat een huurder ieder jaar aan de Staat moet voldoen voor het gebruik van een locatie;
+- *gebruiksvergoeding:* bedrag dat een huurder ieder jaar aan de Staat moet voldoen voor het gebruik van een locatie;
 
-- **houder van de gegevens:** natuurlijke persoon of rechtspersoon die beschikt over gegevens ten behoeve van het biedboek;
+- *houder van de gegevens:* natuurlijke persoon of rechtspersoon die beschikt over gegevens ten behoeve van het biedboek;
 
-- **huurder:** natuurlijke persoon of rechtspersoon die een locatie huurt of in erfpacht heeft van de Staat;
+- *huurder:* natuurlijke persoon of rechtspersoon die een locatie huurt of in erfpacht heeft van de Staat;
 
-- **huurovereenkomst:** overeenkomst tussen de Staat en een wederpartij, de huurder, die de huurder het recht geeft een locatie te gebruiken voor de vestiging van een verkooppunt van motorbrandstoffen;
+- *huurovereenkomst:* overeenkomst tussen de Staat en een wederpartij, de huurder, die de huurder het recht geeft een locatie te gebruiken voor de vestiging van een verkooppunt van motorbrandstoffen;
 
-- **kaartliters:** aantal liters motorbrandstoffen dat via een merkgebonden kaart is verkocht;
+- *kaartliters:* aantal liters motorbrandstoffen dat via een merkgebonden kaart is verkocht;
 
-- **locatie:** gedeelte van een verzorgingsplaats, bestemd voor de vestiging van een verkooppunt van motorbrandstoffen;
+- *locatie:* gedeelte van een verzorgingsplaats, bestemd voor de vestiging van een verkooppunt van motorbrandstoffen;
 
-- **merkgebonden kaart:** kaart waarmee motorbrandstof kan worden getankt van één specifiek merk;
+- *merkgebonden kaart:* kaart waarmee motorbrandstof kan worden getankt van één specifiek merk;
 
-- **Onze Minister:** Onze Minister van Volkshuisvesting en Ruimtelijke Ordening;
+- *Onze Minister:* Onze Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
-- **verzorgingsplaats:** perceel grond dat
+- *verzorgingsplaats:* perceel grond dat
 
-- a. is ingericht met een of meer voorzieningen ten behoeve van de gebruikers van een weg, en
+   - a. is ingericht met een of meer voorzieningen ten behoeve van de gebruikers van een weg, en
 
-- b. over het net van wegen die openbaar zijn in de zin van de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948), met een motorvoertuig slechts is te bereiken via de afrit van de weg naar het perceel.
+   - b. over het net van wegen die openbaar zijn in de zin van de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948), met een motorvoertuig slechts is te bereiken via de afrit van de weg naar het perceel.
 
 ##### Artikel 2
 
@@ -130,6 +102,42 @@ Na afloop van de huurovereenkomst die overeenkomstig [artikel 5](https://wetten.
 
 - d. in andere bij algemene maatregel van bestuur te bepalen gevallen.
 
+##### Artikel 5a
+
+1. De huurder verstrekt ten behoeve van het biedboek, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5&z=2025-02-12&g=2025-02-12), de volgende gegevens aan Onze Minister ten aanzien van de locatie waarop de veiling betrekking heeft:
+
+- a. de doorzet, uitgesplitst naar verkochte soorten motorbrandstoffen;
+
+- b. de kaartliters, uitgesplitst naar verkochte soorten motorbrandstoffen.
+
+2. De gegevens, bedoeld in het eerste lid, hebben betrekking op de laatste drie jaren voorafgaand aan het jaar waarin de veiling plaatsvindt.
+
+3. Bij of krachtens algemene maatregel van bestuur kunnen in verband met de verbetering van de effectiviteit van de veiling nadere voorschriften worden gegeven omtrent de te verstrekken gegevens voor het biedboek.
+
+4. In het biedboek worden de gemiddelden opgenomen van de gegevens, bedoeld in het eerste en derde lid, over de verstrekte jaren.
+
+##### Artikel 5b
+
+1. De huurder verstrekt de gegevens, bedoeld in [artikel 5a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5a&z=2025-02-12&g=2025-02-12), uiterlijk 1 april van het jaar waarin de veiling plaatsvindt.
+
+2. De gegevens gaan vergezeld van een verklaring omtrent de getrouwheid daarvan, opgesteld door een registeraccountant of een Accountant-Administratieconsulent als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De kosten voor deze verklaring komen voor rekening van de houder van de gegevens.
+
+3. Indien de huurder geen houder is van de gegevens informeert hij Onze Minister uiterlijk 31 december van het jaar voorafgaand aan het jaar waarin de veiling plaatsvindt wie de houder van de gegevens is.
+
+4. De verplichtingen ten aanzien van het verstrekken van de gegevens ten behoeve van het biedboek, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5&z=2025-02-12&g=2025-02-12), zijn van overeenkomstige toepassing op de houder van gegevens.
+
+##### Artikel 5c
+
+1. Onze Minister kan een bestuurlijke boete opleggen ter zake van het niet voldoen aan de voorschriften, gesteld bij of krachtens de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5a&z=2025-02-12&g=2025-02-12) en [5b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5b&z=2025-02-12&g=2025-02-12).
+
+2. De bestuurlijke boete bedraagt ten hoogste eenmaal de gebruiksvergoeding voor het jaar voorafgaand aan het jaar waarin de veiling plaatsvindt voor de locatie ten aanzien waarvan niet is voldaan aan de voorschriften, gesteld bij of krachtens de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5a&z=2025-02-12&g=2025-02-12) en [5b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5b&z=2025-02-12&g=2025-02-12).
+
+3. In de Staatscourant wordt mededeling gedaan van de beschikking tot oplegging van de bestuurlijke boete nadat deze onherroepelijk is geworden.
+
+##### Artikel 5d
+
+De [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5a&z=2025-02-12&g=2025-02-12), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5b&z=2025-02-12&g=2025-02-12) en [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5c&z=2025-02-12&g=2025-02-12) zijn niet van toepassing op een veiling als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5&z=2025-02-12&g=2025-02-12), met betrekking tot een locatie die voorwerp is van een bestaande overeenkomst als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=6&z=2025-02-12&g=2025-02-12).
+
 #### Paragraaf 4. Overgangsbepalingen
 
 ##### Artikel 6
@@ -162,7 +170,7 @@ De huurder vergoedt aan de wederpartij van de Staat bij een bestaande overeenkom
 
 ##### Artikel 9
 
-1. Het biedboek, dat ter beschikking wordt gesteld voorafgaand aan een veiling met betrekking tot een locatie die voorwerp is van een bestaande exploitatieovereenkomst, vermeldt het gemiddelde netto winstaandeel van de exploitant indien de veiling plaats heeft voor 1 januari 2018.
+1. Het biedboek, dat ter beschikking wordt gesteld voorafgaand aan een veiling met betrekking tot een locatie die voorwerp is van een bestaande exploitatieovereenkomst, vermeldt het gemiddelde netto winstaandeel van de exploitant indien de veiling plaats heeft voor 1 januari 2018.
 
 2. Het gemiddelde netto winstaandeel van de exploitant wordt in opdracht van en tegen betaling door de Staat bepaald door een accountant of een accountant-administratieconsulent als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De grondslagen van de bepaling van het gemiddelde netto winstaandeel worden vastgesteld bij ministeriële regeling.
 
@@ -176,11 +184,11 @@ De huurder vergoedt aan de wederpartij van de Staat bij een bestaande overeenkom
 
 ##### Artikel 10
 
-In het biedboek, dat ter beschikking wordt gesteld voorafgaand aan een veiling met betrekking tot een locatie die voorwerp is van een bestaande exploitatieovereenkomst, wordt de bestaande exploitatieovereenkomst opgenomen, indien de exploitant aan de wederpartij bij de bestaande exploitatieovereenkomst is toegewezen door Onze Minister van Economische Zaken en de veiling plaats heeft voor 1 januari 2021. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12) is niet van toepassing.
+In het biedboek, dat ter beschikking wordt gesteld voorafgaand aan een veiling met betrekking tot een locatie die voorwerp is van een bestaande exploitatieovereenkomst, wordt de bestaande exploitatieovereenkomst opgenomen, indien de exploitant aan de wederpartij bij de bestaande exploitatieovereenkomst is toegewezen door Onze Minister van Economische Zaken en de veiling plaats heeft voor 1 januari 2021. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12) is niet van toepassing.
 
 ##### Artikel 11
 
-1. Degene, die ingevolge een veiling als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=7&z=2025-02-12&g=2025-02-12) die plaats heeft gehad voor 1 januari 2018 huurder is geworden van een locatie die voorwerp is van een bestaande exploitatieovereenkomst, biedt de bestaande exploitant een nieuwe overeenkomst aan, die die exploitant redelijkerwijs in staat stelt om tot en met het kalenderjaar 2017 gemiddeld een netto winstaandeel te genieten dat gelijk is aan diens gemiddelde netto winstaandeel, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), en die overigens in verhouding tot de bestaande exploitatieovereenkomst geen zodanige bepalingen bevat, dat aanvaarding door de exploitant van hem redelijkerwijs niet kan worden verlangd.
+1. Degene, die ingevolge een veiling als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=7&z=2025-02-12&g=2025-02-12) die plaats heeft gehad voor 1 januari 2018 huurder is geworden van een locatie die voorwerp is van een bestaande exploitatieovereenkomst, biedt de bestaande exploitant een nieuwe overeenkomst aan, die die exploitant redelijkerwijs in staat stelt om tot en met het kalenderjaar 2017 gemiddeld een netto winstaandeel te genieten dat gelijk is aan diens gemiddelde netto winstaandeel, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), en die overigens in verhouding tot de bestaande exploitatieovereenkomst geen zodanige bepalingen bevat, dat aanvaarding door de exploitant van hem redelijkerwijs niet kan worden verlangd.
 
 2. Over de nieuwe overeenkomst, bedoeld in het eerste lid, treedt degene die ingevolge de veiling huurder is geworden uiterlijk één week na de dag van de veiling in overleg met de bestaande exploitant. Hij biedt de bestaande exploitant in ieder geval schriftelijk een nieuwe overeenkomst aan als bedoeld in het eerste lid, wanneer vier weken na de dag van de veiling nog geen nieuwe overeenkomst tot stand is gekomen. Dit schriftelijke aanbod wordt gedaan door middel van een aangetekende brief en niet later dan acht weken na de dag van de veiling.
 
@@ -216,7 +224,7 @@ In het biedboek, dat ter beschikking wordt gesteld voorafgaand aan een veiling m
 
 ##### Artikel 13
 
-Indien een veiling als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=7&z=2025-02-12&g=2025-02-12) plaats heeft voor 1 januari 2021 en betrekking heeft op een locatie die voorwerp is van een bestaande exploitatieovereenkomst waarbij de exploitant aan de wederpartij bij de bestaande overeenkomst is toegewezen door Onze Minister van Economische Zaken, gaan op het tijdstip, waarop de bestaande overeenkomst eindigt op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=7&z=2025-02-12&g=2025-02-12), de rechten en verplichtingen die voor de wederpartij van de Staat uit de bestaande exploitatieovereenkomst voortvloeien over op degene, die ingevolge de veiling huurder wordt van de locatie. De [leden 1 tot en met 8 van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=11&z=2025-02-12&g=2025-02-12) zijn niet van toepassing.
+Indien een veiling als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=7&z=2025-02-12&g=2025-02-12) plaats heeft voor 1 januari 2021 en betrekking heeft op een locatie die voorwerp is van een bestaande exploitatieovereenkomst waarbij de exploitant aan de wederpartij bij de bestaande overeenkomst is toegewezen door Onze Minister van Economische Zaken, gaan op het tijdstip, waarop de bestaande overeenkomst eindigt op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=7&z=2025-02-12&g=2025-02-12), de rechten en verplichtingen die voor de wederpartij van de Staat uit de bestaande exploitatieovereenkomst voortvloeien over op degene, die ingevolge de veiling huurder wordt van de locatie. De [leden 1 tot en met 8 van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=11&z=2025-02-12&g=2025-02-12) zijn niet van toepassing.
 
 ##### Artikel 14
 
@@ -230,17 +238,17 @@ De [artikelen 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&p
 
 ##### Artikel 16
 
-1. Een bestaande exploitatieovereenkomst die een locatie tot voorwerp heeft met betrekking waartoe op dat tijdstip nog geen veiling heeft plaats gehad, eindigt op 31 december 2017, tenzij partijen, zo nodig met toepassing van het derde lid, een ander tijdstip zijn overeengekomen.
+1. Een bestaande exploitatieovereenkomst die een locatie tot voorwerp heeft met betrekking waartoe op dat tijdstip nog geen veiling heeft plaats gehad, eindigt op 31 december 2017, tenzij partijen, zo nodig met toepassing van het derde lid, een ander tijdstip zijn overeengekomen.
 
-2. In afwijking van het eerste lid eindigt een bestaande exploitatieovereenkomst waarbij de exploitant aan de wederpartij bij de bestaande overeenkomst is toegewezen door Onze Minister van Economische Zaken en die een locatie tot voorwerp heeft met betrekking waartoe op dat tijdstip nog geen veiling heeft plaats gehad op 31 december 2020, tenzij partijen, zo nodig met toepassing van het derde lid, een ander tijdstip zijn overeengekomen.
+2. In afwijking van het eerste lid eindigt een bestaande exploitatieovereenkomst waarbij de exploitant aan de wederpartij bij de bestaande overeenkomst is toegewezen door Onze Minister van Economische Zaken en die een locatie tot voorwerp heeft met betrekking waartoe op dat tijdstip nog geen veiling heeft plaats gehad op 31 december 2020, tenzij partijen, zo nodig met toepassing van het derde lid, een ander tijdstip zijn overeengekomen.
 
-3. De partijen bij een bestaande exploitatieovereenkomst kunnen overeenkomen, dat hun overeenkomst voortduurt tot een tijdstip dat is gelegen na 31 december 2017 onderscheidenlijk 31 december 2020, mits zij daarbij tevens overeenkomen dat de bestaande exploitatieovereenkomst niet later eindigt dan op het tijdstip waarop de bestaande overeenkomst op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=7&z=2025-02-12&g=2025-02-12) eindigt.
+3. De partijen bij een bestaande exploitatieovereenkomst kunnen overeenkomen, dat hun overeenkomst voortduurt tot een tijdstip dat is gelegen na 31 december 2017 onderscheidenlijk 31 december 2020, mits zij daarbij tevens overeenkomen dat de bestaande exploitatieovereenkomst niet later eindigt dan op het tijdstip waarop de bestaande overeenkomst op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=7&z=2025-02-12&g=2025-02-12) eindigt.
 
 4. Een bestaande exploitatieovereenkomst, gesloten met een exploitant over wie de wederpartij van de Staat bij een bestaande overeenkomst zeggenschap heeft als bedoeld in [artikel 26 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=26) of in wie de wederpartij een deelneming heeft als bedoeld in [artikel 24c van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24c), eindigt op het tijdstip waarop de bestaande overeenkomst op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=7&z=2025-02-12&g=2025-02-12) eindigt, tenzij partijen een eerder tijdstip zijn overeengekomen.
 
-5. De overeenkomst die op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=11&z=2025-02-12&g=2025-02-12) tot stand komt tussen de bestaande exploitant en degene, die ingevolge de veiling huurder wordt van de locatie, eindigt van rechtswege op 31 december 2017, tenzij partijen een eerder tijdstip zijn overeengekomen.
+5. De overeenkomst die op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=11&z=2025-02-12&g=2025-02-12) tot stand komt tussen de bestaande exploitant en degene, die ingevolge de veiling huurder wordt van de locatie, eindigt van rechtswege op 31 december 2017, tenzij partijen een eerder tijdstip zijn overeengekomen.
 
-6. De overeenkomst die op de voet van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=13&z=2025-02-12&g=2025-02-12) tot stand komt tussen de bestaande exploitant en degene, die ingevolge de veiling huurder wordt van de locatie, eindigt van rechtswege op 31 december 2020, tenzij partijen een eerder tijdstip zijn overeengekomen.
+6. De overeenkomst die op de voet van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=13&z=2025-02-12&g=2025-02-12) tot stand komt tussen de bestaande exploitant en degene, die ingevolge de veiling huurder wordt van de locatie, eindigt van rechtswege op 31 december 2020, tenzij partijen een eerder tijdstip zijn overeengekomen.
 
 7. De overeenkomst, die wordt gesloten na het tijdstip waarop deze wet in werking treedt tussen een wederpartij van de Staat bij een bestaande overeenkomst en een exploitant, eindigt op het tijdstip waarop de bestaande overeenkomst op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=7&z=2025-02-12&g=2025-02-12) eindigt, tenzij partijen een eerder tijdstip zijn overeengekomen.
 
@@ -254,7 +262,7 @@ De [artikelen 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&p
 
 - b. hoofdrijbaan: het gedeelte van een weg dat bestemd is om door motorvoertuigen bereden te worden.
 
-2. Onverminderd het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=19&z=2025-02-12&g=2025-02-12) en met uitzondering van de verzorgingsplaatsen die worden genoemd in de bijlage bij deze wet, wordt tot 1 januari 2024 op een verzorgingsplaats aan een bestaande weg geen nieuwe locatie aangelegd en in gebruik gegeven.
+2. Onverminderd het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=19&z=2025-02-12&g=2025-02-12) en met uitzondering van de verzorgingsplaatsen die worden genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0018447) bij deze wet, wordt tot 1 januari 2024 op een verzorgingsplaats aan een bestaande weg geen nieuwe locatie aangelegd en in gebruik gegeven.
 
 3. Het tweede lid is niet van toepassing indien:
 
@@ -264,11 +272,11 @@ De [artikelen 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&p
 
 - c. het wegens reconstructie van een weg waaraan een verzorgingsplaats met een locatie is gelegen naar het oordeel van de Staat noodzakelijk is de verzorgingsplaats te vervangen door een nieuwe verzorgingsplaats, mits de nieuwe verzorgingsplaats zo dicht mogelijk bij de te vervangen verzorgingsplaats wordt aangelegd.
 
-4. Tot 1 januari 2024 wordt op een verzorgingsplaats aan een nieuwe weg geen nieuwe locatie aangelegd en in gebruik gegeven die is gelegen binnen een afstand van twintig kilometer van een andere locatie en die vanuit dezelfde rijrichting als die andere locatie bereikbaar is.
+4. Tot 1 januari 2024 wordt op een verzorgingsplaats aan een nieuwe weg geen nieuwe locatie aangelegd en in gebruik gegeven die is gelegen binnen een afstand van twintig kilometer van een andere locatie en die vanuit dezelfde rijrichting als die andere locatie bereikbaar is.
 
 ##### Artikel 18
 
-1. In afwijking van [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5&z=2025-02-12&g=2025-02-12), is van bijzondere omstandigheden als bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5&z=2025-02-12&g=2025-02-12), eveneens sprake, indien de huurovereenkomst een nieuwe locatie betreft die is gelegen op een verzorgingsplaats als genoemd in de bijlage bij deze wet en waarvan de Staat het gebruik voor het tijdstip waarop deze wet in werking treedt al aan een onderneming heeft toegezegd.
+1. In afwijking van [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5&z=2025-02-12&g=2025-02-12), is van bijzondere omstandigheden als bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5&z=2025-02-12&g=2025-02-12), eveneens sprake, indien de huurovereenkomst een nieuwe locatie betreft die is gelegen op een verzorgingsplaats als genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0018447) bij deze wet en waarvan de Staat het gebruik voor het tijdstip waarop deze wet in werking treedt al aan een onderneming heeft toegezegd.
 
 2. [Artikel 3, zesde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=2&artikel=3&z=2025-02-12&g=2025-02-12), is niet van toepassing op de exploitant die ingevolge een toezegging, hem door de Staat gedaan voor het tijdstip waarop deze wet in werking treedt, in de gelegenheid wordt gesteld met de huurder, bedoeld in het eerste lid, een overeenkomst te sluiten voor een langere duur dan vijftien jaren.
 
@@ -282,15 +290,15 @@ De [artikelen 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&p
 
 ##### Artikel 20
 
-Wijzigt de Drank- en Horecawet.
+*Wijzigt de Drank- en Horecawet.*
 
 ##### Artikel 21
 
-Vervallen.
+*Vervallen.*
 
 ##### Artikel 22
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 #### Paragraaf 5. Slotbepalingen
 
@@ -301,83 +309,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 24
 
 Deze wet wordt aangehaald als: Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen.
-
-## Bijlage. behorende bij de Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen.
-
-| 1. Verzorgingsplaatsen als is bedoeld in [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=17&z=2005-07-31&g=2005-07-31), van de wet: | 1. Verzorgingsplaatsen als is bedoeld in [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=17&z=2005-07-31&g=2005-07-31), van de wet: |
-| --- | --- |
-| Noord-Nederland: | A31 Zurich; N34 ten zuiden van Gieten; A35 Enschede, Noord; A35 Enschede, Zuid; |
-| Oost-Nederland: | A1 Elsenerveld en Friezenberg of twee in de buurt liggende locaties; A15 Bemmel Noord en Zuid (hangt samen met de doortrekking van de A15 tot de A12); N50 oostzijde (ombouw tot autosnelweg); |
-| Noord-Holland: | Twee locaties langs N9 tussen Alkmaar en Den Helder; |
-| Zuid-Holland: | N59 Oude Tonge Zuid na verdubbeling tot 2x2 rijstroken (ombouw tot autosnelweg); |
-| Noord-Brabant: | A4 Belgische grens Oost één locatie; A50 twee nieuwe verzorgingsplaatsen ter hoogte van Son (Oost en West); |
-| Limburg: | A73 Roermond, Oost; A73 Roermond, West. |
-
-| 2. Verzorgingsplaatsen als is bedoeld in [artikel 18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=18&z=2005-07-31&g=2005-07-31), van de wet: | 2. Verzorgingsplaatsen als is bedoeld in [artikel 18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=18&z=2005-07-31&g=2005-07-31), van de wet: |
-| --- | --- |
-| Noord-Nederland: | A31 Zurich; A32 Dorpshellen (Weststellingwerf); A35 Enschede, Noord; A35 Enschede, Zuid; |
-| Noord-Holland: | A7 De Horn (Noorder Koggenland); |
-| Zuid-Holland: | A4 Harnasch-Oost (Schipluiden); A4 Harnasch-West (Schipluiden); |
-| Limburg: | A73 Roermond, Oost; A73 Roermond, West. |
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5a
-
-1. De huurder verstrekt ten behoeve van het biedboek, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5&z=2025-02-12&g=2025-02-12), de volgende gegevens aan Onze Minister ten aanzien van de locatie waarop de veiling betrekking heeft:
-
-- a. de doorzet, uitgesplitst naar verkochte soorten motorbrandstoffen;
-
-- b. de kaartliters, uitgesplitst naar verkochte soorten motorbrandstoffen.
-
-2. De gegevens, bedoeld in het eerste lid, hebben betrekking op de laatste drie jaren voorafgaand aan het jaar waarin de veiling plaatsvindt.
-
-3. Bij of krachtens algemene maatregel van bestuur kunnen in verband met de verbetering van de effectiviteit van de veiling nadere voorschriften worden gegeven omtrent de te verstrekken gegevens voor het biedboek.
-
-4. In het biedboek worden de gemiddelden opgenomen van de gegevens, bedoeld in het eerste en derde lid, over de verstrekte jaren.
-
-##### Artikel 5b
-
-1. De huurder verstrekt de gegevens, bedoeld in [artikel 5a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5a&z=2025-02-12&g=2025-02-12), uiterlijk 1 april van het jaar waarin de veiling plaatsvindt.
-
-2. De gegevens gaan vergezeld van een verklaring omtrent de getrouwheid daarvan, opgesteld door een registeraccountant of een Accountant-Administratieconsulent als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De kosten voor deze verklaring komen voor rekening van de houder van de gegevens.
-
-3. Indien de huurder geen houder is van de gegevens informeert hij Onze Minister uiterlijk 31 december van het jaar voorafgaand aan het jaar waarin de veiling plaatsvindt wie de houder van de gegevens is.
-
-4. De verplichtingen ten aanzien van het verstrekken van de gegevens ten behoeve van het biedboek, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5&z=2025-02-12&g=2025-02-12), zijn van overeenkomstige toepassing op de houder van gegevens.
-
-##### Artikel 5c
-
-1. Onze Minister kan een bestuurlijke boete opleggen ter zake van het niet voldoen aan de voorschriften, gesteld bij of krachtens de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5a&z=2025-02-12&g=2025-02-12) en [5b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5b&z=2025-02-12&g=2025-02-12).
-
-2. De bestuurlijke boete bedraagt ten hoogste eenmaal de gebruiksvergoeding voor het jaar voorafgaand aan het jaar waarin de veiling plaatsvindt voor de locatie ten aanzien waarvan niet is voldaan aan de voorschriften, gesteld bij of krachtens de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5a&z=2025-02-12&g=2025-02-12) en [5b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5b&z=2025-02-12&g=2025-02-12).
-
-3. In de Staatscourant wordt mededeling gedaan van de beschikking tot oplegging van de bestuurlijke boete nadat deze onherroepelijk is geworden.
-
-##### Artikel 5d
-
-De [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5a&z=2025-02-12&g=2025-02-12), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5b&z=2025-02-12&g=2025-02-12) en [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5c&z=2025-02-12&g=2025-02-12) zijn niet van toepassing op een veiling als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=3&artikel=5&z=2025-02-12&g=2025-02-12), met betrekking tot een locatie die voorwerp is van een bestaande overeenkomst als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=6&z=2025-02-12&g=2025-02-12).
-
-#### Paragraaf 4. Overgangsbepalingen
-
-#### Paragraaf 5. Slotbepalingen
-
-## Bijlage. behorende bij de Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen.
-
-| 1. Verzorgingsplaatsen als is bedoeld in [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=17&z=2025-02-12&g=2025-02-12), van de wet: | 1. Verzorgingsplaatsen als is bedoeld in [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=17&z=2025-02-12&g=2025-02-12), van de wet: |
-| --- | --- |
-| Noord-Nederland: | A31 Zurich; N34 ten zuiden van Gieten; A35 Enschede, Noord; A35 Enschede, Zuid; |
-| Oost-Nederland: | A1 Elsenerveld en Friezenberg of twee in de buurt liggende locaties; A15 Bemmel Noord en Zuid (hangt samen met de doortrekking van de A15 tot de A12); N50 oostzijde (ombouw tot autosnelweg); |
-| Noord-Holland: | Twee locaties langs N9 tussen Alkmaar en Den Helder; |
-| Zuid-Holland: | N59 Oude Tonge Zuid na verdubbeling tot 2x2 rijstroken (ombouw tot autosnelweg); |
-| Noord-Brabant: | A4 Belgische grens Oost één locatie; A50 twee nieuwe verzorgingsplaatsen ter hoogte van Son (Oost en West); |
-| Limburg: | A73 Roermond, Oost; A73 Roermond, West. |
-
-| 2. Verzorgingsplaatsen als is bedoeld in [artikel 18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=18&z=2025-02-12&g=2025-02-12), van de wet: | 2. Verzorgingsplaatsen als is bedoeld in [artikel 18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&paragraaf=4&artikel=18&z=2025-02-12&g=2025-02-12), van de wet: |
-| --- | --- |
-| Noord-Nederland: | A31 Zurich; A32 Dorpshellen (Weststellingwerf); A35 Enschede, Noord; A35 Enschede, Zuid; |
-| Noord-Holland: | A7 De Horn (Noorder Koggenland); |
-| Zuid-Holland: | A4 Harnasch-Oost (Schipluiden); A4 Harnasch-West (Schipluiden); |
-| Limburg: | A73 Roermond, Oost; A73 Roermond, West. |
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

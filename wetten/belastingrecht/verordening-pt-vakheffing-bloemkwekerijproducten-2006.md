@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 28 juni 2005, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2006 (Verordening PT vakheffing bloemkwekerijproducten 2006)"
+citeertitel: "Verordening PT vakheffing bloemkwekerijproducten 2006"
 identifier: "BWBR0018496"
-country: "nl"
-rank: "pbo"
-publication_date: "2006-09-16"
-last_updated: "2006-09-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018496"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "7398493"
-version_id: "12333282"
-internal_id: "C16580841"
-label_id: "7386414"
-dtd_version: "2.0"
-original_entry_into_force: "2005-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018496/2006-09-16/0"
-intitule_bron: "Vbbo.2005-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-28"
-intitule_published: "2005-09-23"
-intitule_in_force: "2005-09-23"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-54"
-original_signed_date: "2005-06-28"
-original_published_date: "2005-09-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-09-25"
-jci_1_3: "jci1.3:c:BWBR0018496&z=2006-09-16&g=2006-09-16"
-jci_1_0: "1.0:c:BWBR0018496&g=2006-09-16"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing bloemkwekerijproducten 2006"
-signed_date: "2005-06-28"
-entry_into_force: "2005-09-25"
+publicatiedatum: 2005-09-25
+laatste_update: 2006-09-16
+status: geldig
+toestand: 2006-09-16
+bron: "https://wetten.overheid.nl/BWBR0018496"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 28 juni 2005, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2006 (Verordening PT vakheffing bloemkwekerijproducten 2006)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=7) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-gehoord de Sectorcommissie voor bloemkwekerijproducten, d.d. 18 mei 2005;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -53,7 +24,7 @@ Besluit:
 
 3. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
-| a. de bloemkwekerijproducten | : | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: |
+| a. de bloemkwekerijproducten | : | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: 1: winterharde houtgewassen in hun geheel voorzover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd; 2: voor zover in groene toestand de Japanse azalea's, alsmede variëteiten en hybriden daarvan; 3: dahliastekken, begonia- en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen, en 4: aquariumplantenen niet-levende bloemkwekerijproducten; |
 | --- | --- | --- |
 | b. het uitgangsmateriaal | : | planten en plantendelen van bloemkwekerijproducten welke bestemd zijn voor de teelt van gebruiksklare (voor de consument geschikte) bloemkwekerijproducten, zoals stekken, zaaikisten en weefselkweekplanten |
 | c. het kweken van bloemkwekerijproducten of uitgangsmateriaal | : | 1: het ter verkrijging van een oogst brengen, hebben of houden in een al dan niet overdekt groeimedium van bloemkwekerijproducten of uitgangsmateriaal; 2: het ter bevordering van het verkrijgen van een oogst verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van bloemkwekerijproducten of uitgangsmateriaal, of 3: het oogsten van bloemkwekerijproducten of uitgangsmateriaal; |
@@ -118,21 +89,21 @@ ontvangt van het productschap een restitutie ter grootte van de over de oorspron
 
 7. Voor de kweker, die aantoont dat hij uitgangsmateriaal heeft verhandeld aan een snijbloemen- of potplantenkweker en waarvoor ten behoeve van de verhandeling extra kosten zijn gemaakt, geldt dat de omzet waarover de vakheffing wordt berekend, wordt verminderd met: 60%.
 
-- a. Bedrijven die in aanmerking willen komen voor een gedeeltelijke verlaging van het heffingstarief, dienen over het betrokken kalenderjaar de gecertificeerde jaarrekening aan het productschap te overleggen.
+8. - a. Bedrijven die in aanmerking willen komen voor een gedeeltelijke verlaging van het heffingstarief, dienen over het betrokken kalenderjaar de gecertificeerde jaarrekening aan het productschap te overleggen.
 
 - b. Wanneer het productschap vaststelt dat op jaarbasis de heffingsgrondslag van aangekochte bloemkwekerijproducten hoger is dan € 11.344.505,=, wordt over:
 
-- 1. het bedrag tussen € 0,0 - € 11.344.505,= het heffingstarief van 0,345% toegepast,
+   - 1. het bedrag tussen € 0,0 - € 11.344.505,= het heffingstarief van 0,345% toegepast,
 
-- 2. het bedrag tussen € 11.344.505,= en € 50.000.000,= het verlaagde heffingstarief van 0,245% toegepast, en
+   - 2. het bedrag tussen € 11.344.505,= en € 50.000.000,= het verlaagde heffingstarief van 0,245% toegepast, en
 
-- 3. het bedrag groter dan € 50.000.000,=, het verlaagde heffingstarief van 0,45% toegepast.
+   - 3. het bedrag groter dan € 50.000.000,=, het verlaagde heffingstarief van 0,45% toegepast.
 
 - c. Wanneer het productschap vaststelt dat op jaarbasis de heffingsgrondslag van zelfgekweekte bloemkwekerijproducten (niet zijnde uitgangsmateriaal) hoger is dan € 6.000.000,=, wordt over:
 
-- 1. de eerste € 6.000.000,= het heffingstarief van 1,01% toegepast, en
+   - 1. de eerste € 6.000.000,= het heffingstarief van 1,01% toegepast, en
 
-- 2. het bedrag hoger dan € 6.000.000,= het verlaagde heffingstarief van 0,76% toegepast.
+   - 2. het bedrag hoger dan € 6.000.000,= het verlaagde heffingstarief van 0,76% toegepast.
 
 - d. Aanvragen voor restitutie moeten worden ingediend binnen één jaar na afloop van het jaar waarover de restitutie wordt gevraagd en vergezeld gaan van een accountantsverklaring.
 
@@ -181,5 +152,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 11
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing bloemkwekerijproducten 2006.
-
-Deze verordening en de bijbehorende toelichting zal worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

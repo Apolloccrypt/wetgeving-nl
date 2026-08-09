@@ -1,50 +1,53 @@
 ---
 title: "Inkomstenbelasting, oudedagsreserve"
 identifier: "BWBR0018479"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2005-06-24"
-last_updated: "2005-06-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018479"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "7989083"
-version_id: "12853432"
-internal_id: "C17328741"
-label_id: "7976784"
-dtd_version: "2.0"
-original_entry_into_force: "2005-06-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018479/2005-06-24/0"
-intitule_bron: "Stcrt.2005-167"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-24"
-intitule_published: "2005-08-30"
-intitule_in_force: "2005-08-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-167"
-original_signed_date: "2005-06-24"
-original_published_date: "2005-08-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-06-24"
-jci_1_3: "jci1.3:c:BWBR0018479&z=2005-06-24&g=2005-06-24"
-jci_1_0: "1.0:c:BWBR0018479&g=2005-06-24"
-citeertitel_status: "redactioneel"
-signed_date: "2005-06-24"
-entry_into_force: "2005-06-24"
+publicatiedatum: 2005-06-24
+laatste_update: 2005-06-24
+status: geldig
+toestand: 2005-06-24
+bron: "https://wetten.overheid.nl/BWBR0018479"
+opgehaald: 2026-08-09
 ---
+
 # Inkomstenbelasting, oudedagsreserve
-
-De directeur-generaal Belastingdienst heeft namens de staatssecretaris van Financiën het volgende besloten.
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Inleiding
 
+Voorgaande besluiten
+
 De navolgende (onderdelen van) besluiten zijn geactualiseerd en overgenomen in dit besluit.
+
+- – Besluit van 14 november 2000, nr. CPP2000/2120M,
+
+- – Besluit van 9 november 2001, nr. CPP2001/3034M,
+
+- – Besluit van 14 augustus 2002, nr. CPP2002/2386M, vraag/antwoord 2,
+
+- – Besluit van 19 december 2002, nr. CPP2002/2456M, onderdeel F 2, vraag a.
 
 De navolgende (onderdelen van) besluiten bevatten geen beleidsstandpunten die als rechtsvraag kunnen worden aangemerkt. Ze hebben vooral een voorlichtend karakter. Gelet hierop zijn deze (onderdelen van de) besluiten niet in dit besluit overgenomen. Voor zoveel nodig zijn of worden deze onderdelen geactualiseerd verwerkt in voorlichtingsmateriaal.
 
+- – Besluit van 25 augustus 2000, nr. CPP2000/1313M, vraag B.3.2.a. (grondslag toevoeging oudedagsreserve), vraag B.3.2.b. (niet voldoen aan urencriterium door langdurige ziekte) en vraag B.3.2.c. (ondernemer wordt commanditaire vennoot bij dezelfde onderneming),
+
+- – Besluit van 13 februari 2001, nr. CPP2000/3210M, vraag B 3.2.l. (extra toevoeging indien belastingplichtige de leeftijd van 65 jaar heeft bereikt),
+
+- – Besluit van 14 augustus 2002, nr. CPP2002/2386M, vraag 1,
+
+- – Besluit van 24 mei 2004, nr. CPP2004/1225M, vraag C1 (geen extra toevoeging bij doorschuiving ex artikel 3.63 van de Wet indien geen lijfrente wordt aangeschaft) en vraag C2 (geen doorschuiving oudedagsreserve ex artikel 3.63 van de Wet aan derde/niet partner).
+
 De navolgende (onderdelen van) besluiten hebben hun belang verloren.
+
+- – Besluit van 19 december 2000, nr. CPP2000/2311M,
+
+- – Besluit van 13 februari 2001, nr. CPP2000/3210M, vraag C 1 (boekhoudkundige verwerking oudedagsreserve per 1 januari 2001),
+
+- – Besluit van 14 augustus 2002, nr. CPP2002/2386M, vraag/antwoord 3 (toepassing art. K Invoeringwet Wet IB 2001 bij gebroken boekjaar),
+
+- – Besluit van 19 augustus 2003, nr. CPP2003/1718M (oudedagsreserve en urencriterium; uren 2000).
+
+Begrippenlijst
 
 Wet IB 2001: de Wet
 
@@ -56,17 +59,41 @@ Algemene wet inzake rijksbelastingen: AWR
 
 ### 1.1. Toevoegen in jaar van staken (inhoudelijk ongewijzigd, voorheen Besluit van 9 november 2001, nr. CPP2001/3034M)
 
+Dotatie oudedagsreserve en staking
+
 In artikel 3.68, eerste en tweede lid, van de Wet is het volgende bepaald:
+
+- 1. De toevoeging aan de oudedagsreserve over een kalenderjaar bedraagt 12% van de winst die de belastingplichtige als ondernemer uit een onderneming geniet, maar niet meer dan € 10.951 (wettekst 2005). De op grond van de eerste volzin bepaalde toevoeging wordt verminderd met de ten laste van die winst gekomen premies en andere bijdragen uit hoofde van pensioenregelingen.
+
+- 2. De op grond van het eerste lid berekende toevoeging bedraagt ten hoogste het bedrag waarmee het ondernemingsvermogen bij het einde van het kalenderjaar de oudedagsreserve bij het begin van het kalenderjaar te boven gaat.
 
 In het jaar van staken van een onderneming is het ondernemingsvermogen bij het einde van het kalenderjaar nihil. Door de bepaling van artikel 3.68, tweede lid, van de Wet kan, als gevolg van het ontbreken van ondernemingsvermogen bij het einde van het kalenderjaar, in het jaar van staken dus niet toegevoegd worden aan de oudedagsreserve.
 
+Goedkeuring
+
 Gelet op de wettelijke regeling van de oudedagsreserve en de doelstelling daarvan, keur ik, met toepassing van de hardheidsclausule, goed dat over het jaar van staken van een onderneming, waarbij aan het einde van het kalenderjaar ondernemingsvermogen ontbreekt, kan worden toegevoegd aan de oudedagsreserve onder de volgende voorwaarden:
+
+- a. De toevoeging aan de oudedagsreserve over een kalenderjaar bedraagt 12% van de winst die de belastingplichtige als ondernemer uit een onderneming geniet, maar niet meer dan het maximum bedoeld in artikel 3.68, eerste lid van de Wet in het jaar van staking. De op grond van de vorige volzin bepaalde toevoeging wordt verminderd met de ten laste van die winst gekomen premies en andere bijdragen uit hoofde van pensioenregelingen.
+
+- b. De op grond van voorwaarde 1 berekende toevoeging bedraagt ten hoogste het bedrag waarmee het ondernemingsvermogen op het moment van staking de oudedagsreserve bij het begin van het kalenderjaar te boven gaat.
+
+- c. De toevoeging aan de oudedagsreserve over het jaar van staken wordt gebuikt om een lijfrente aan te schaffen, zoals bedoeld in artikel 3.70, eerste lid, onderdeel a, juncto artikel 3.128 van de Wet, eventueel met gebruikmaking van de termijn als bedoeld in artikel 3.130, tweede lid van de Wet.
+
+- d. Aan de overige voorwaarden voor toevoeging aan de oudedagsreserve wordt voldaan.
 
 ### 1.2. Vermogenstoets oudedagsreserve (inhoudelijk ongewijzigd, voorheen Besluit van 14 november 2000, nr. CPP2000/2120M)
 
+Oudedagsreserve en vermogenstoets
+
 In artikel 3.68, tweede lid, van de Wet is bij toevoeging aan de oudedagsreserve de vermogenstoets opgenomen. Deze toets beperkt de opbouw van de oudedagsreserve tot ten hoogste het ondernemingsvermogen.
 
+Geen toepassing hardheidsclausule
+
 Ik acht in de hierna genoemde situaties geen onbillijkheid van overwegende aard aanwezig als bedoeld in artikel 63 van de AWR.
+
+- a. Als een belastingplichtige (een gedeelte van) een onderneming met toepassing van artikel 3.63 van de Wet overneemt en de overnameprijs geheel of gedeeltelijk schuldig blijft en/of met vreemd vermogen financiert, behoort de daarmee samenhangende schuld verplicht tot zijn ondernemingsvermogen (Hoge Raad, 29 januari 1986, nr. 23 265, BNB 1986/89). Aangezien de boekwaarde van de activa gesteld wordt op de waarde waarvoor ze bij de overdragende belastingplichtige te boek stonden, kan het gevolg zijn dat het ondernemingsvermogen laag of negatief wordt.
+
+- b. Door toepassing van de regeling van de willekeurige afschrijving (artikel 3.31 tot en met artikel 3.39 van de Wet) kan het ondernemingsvermogen dalen, waardoor een laag of negatief ondernemingsvermogen kan ontstaan.
 
 Belanghebbenden zullen hiermee rekening moeten houden als zij gebruik willen maken van deze regelingen.
 
@@ -74,7 +101,11 @@ Belanghebbenden zullen hiermee rekening moeten houden als zij gebruik willen mak
 
 ### 2.1. Extra toevoegingen en geruisloze terugkeer; oprenting (inhoudelijk ongewijzigd, voorheen Besluit van 19 december 2002, nr. CPP2002/2456M, onderdeel F 2, vraag a)
 
+Oudedagsreserve en geruisloze terugkeer
+
 In samenhang met de toepassing van de faciliteit van de geruisloze terugkeer als bedoeld in artikel 14c van de Wet Vpb biedt artikel 3.69, eerste lid, onderdeel b, van de Wet de mogelijkheid tot extra toevoeging aan de oudedagsreserve. Het gaat dan om een extra dotatie in verband met een lijfrente die eerder bij de vennootschap is bedongen met toepassing van artikel 3.128 van de Wet.
+
+Maximale dotatie
 
 De extra toevoeging aan de oudedagsreserve op grond van artikel 3.69, eerste lid, onderdeel b, van de Wet bedraagt maximaal het bedrag van de oudedagsreserve waarvoor de voortzettende aandeelhouder bij de vennootschap een lijfrente heeft bedongen.
 
@@ -86,7 +117,11 @@ Dit gedeelte zal, indien het voor verwezenlijking vatbaar is, worden aangemerkt 
 
 ### 3.1. Presentatie vóór en vanaf kalenderjaar 2004 of boekjaar 2003/2004 (inhoudelijk gewijzigd, voorheen Besluit van 14 augustus 2002, nr. CPP2002/2386M, vraag 2)
 
+Oudedagsreserve en administratie
+
 De oudedagsreserve (§ 3.2.3. van de Wet) maakt vanaf de invoering van de Wet onderdeel uit van de winst. Dit leidt ertoe dat sindsdien de stand van de oudedagsreserve door de belastingplichtige te boek dient te worden gesteld.
+
+Presentatie
 
 Als gevolg van de zogenoemde administratie-eis is in de toelichting op de aangifte inkomstenbelasting gevraagd de oudedagsreserve op de balans op te nemen. Om praktische overwegingen acht ik het niet bezwaarlijk indien vanuit de commerciële jaarstukken door middel van een aansluitberekening de oudedagsreserve wordt gepresenteerd. Voorwaarde is wel dat de toe- of afname, alsmede de stand van de oudedagsreserve ondubbelzinnig uit deze aansluiting blijkt.
 
@@ -95,3 +130,21 @@ Met ingang van het kalenderjaar 2004 dan wel het boekjaar 2003/2004 geldt in ver
 ### 4. Inwerkingtreding; intrekken (onderdelen van) voorgaande besluiten
 
 Dit besluit treedt in werking met ingang van de dagtekening daarvan. De volgende (onderdelen van de) besluiten zijn met ingang van genoemde datum ingetrokken:
+
+- – Besluit van 25 augustus 2000, nr. CPP2000/1313M, vraag B.3.2.a, B.3.2.b en B 3.2.c,
+
+- – Besluit van 19 december 2000, nr. CPP2000/2311M,
+
+- – Besluit van 14 november 2000, nr. CPP2000/2120M,
+
+- – Besluit van 13 februari 2001, nr. CPP2000/3210M, vraag B.3.2.l en C.1,
+
+- – Besluit van 9 november 2001, nr. CPP 2001/3034M,
+
+- – Besluit van 14 augustus 2002, nr. CPP2002/2386M,
+
+- – Besluit van 19 december 2002, nr. CPP2002/2456M, onderdeel F.2, vraag a,
+
+- – Besluit van 19 augustus 2003, nr. CPP2003/1718M,
+
+- – Besluit van 24 mei 2004, nr. CPP2004/1225M, vraag C.1 en C.2.

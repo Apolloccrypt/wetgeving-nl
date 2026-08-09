@@ -1,45 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 3 november 2005, houdende vaststelling bestemmingsheffing ten behoeve van de teelt van inlands graan in Nederland voor het jaar 2006 (Heffingsverordening GZP inlands graan jaar 2006)"
+citeertitel: "Heffingsverordening GZP inlands graan jaar 2006"
 identifier: "BWBR0018981"
-country: "nl"
-rank: "pbo"
-publication_date: "2006-06-11"
-last_updated: "2006-06-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018981"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "8398483"
-version_id: "13271332"
-internal_id: "C27022841"
-label_id: "8379414"
-dtd_version: "2.0"
-original_entry_into_force: "2006-06-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018981/2006-06-11/0"
-intitule_bron: "Vbbo.2006-29"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-11-03"
-intitule_published: "2006-06-09"
-intitule_in_force: "2006-06-09"
-intitule_status: "goed"
-original_publication: "Vbbo.2006-29"
-original_signed_date: "2005-11-03"
-original_published_date: "2006-06-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2006-06-11"
-jci_1_3: "jci1.3:c:BWBR0018981&z=2006-06-11&g=2006-06-11"
-jci_1_0: "1.0:c:BWBR0018981&g=2006-06-11"
-citeertitel_status: "officieel"
-short_title: "Heffingsverordening GZP inlands graan jaar 2006"
-signed_date: "2005-11-03"
-entry_into_force: "2006-06-11"
+publicatiedatum: 2006-06-11
+laatste_update: 2006-06-11
+status: geldig
+toestand: 2006-06-11
+bron: "https://wetten.overheid.nl/BWBR0018981"
+opgehaald: 2026-08-09
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 3 november 2005, houdende vaststelling bestemmingsheffing ten behoeve van de teelt van inlands graan in Nederland voor het jaar 2006 (Heffingsverordening GZP inlands graan jaar 2006)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 eerste en vierde lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=8) en [19 van het Instellingsbesluit akkerbouwproductschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=19);
-
-Besluit:
-
-Werkt terug met uitzondering van de toepassing van de verordening GZP algemene bepalingen 2003.
 
 #### § 1. Begripsbepalingen
 

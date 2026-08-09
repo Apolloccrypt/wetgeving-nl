@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 27 januari 2005, houdende nadere regels over de beroepsvereisten voor het beroep advocaat (Besluit beroepsvereisten advocatuur)"
+citeertitel: "Besluit beroepsvereisten advocatuur"
 identifier: "BWBR0017969"
-country: "nl"
-rank: "amvb"
-publication_date: "2008-10-01"
-last_updated: "2008-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017969"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "6733653"
-version_id: "15767062"
-internal_id: "C21552761"
-label_id: "6721944"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017969/2008-10-01/0"
-intitule_bron: "Stb.2005-48"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-01-27"
-intitule_published: "2005-02-08"
-intitule_in_force: "2005-02-22"
-intitule_status: "goed"
-original_publication: "Stb.2008-383"
-original_signed_date: "2008-09-18"
-original_published_date: "2008-09-30"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2008-383"
-entry_into_force_date: "2008-09-18"
-jci_1_3: "jci1.3:c:BWBR0017969&z=2008-10-01&g=2008-10-01"
-jci_1_0: "1.0:c:BWBR0017969&g=2008-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit beroepsvereisten advocatuur"
-signed_date: "2008-09-18"
-entry_into_force: "2008-09-18"
+publicatiedatum: 2008-09-18
+laatste_update: 2008-10-01
+status: geldig
+toestand: 2008-10-01
+bron: "https://wetten.overheid.nl/BWBR0017969"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 27 januari 2005, houdende nadere regels over de beroepsvereisten voor het beroep advocaat (Besluit beroepsvereisten advocatuur)
-
-Op de voordracht van Onze Minister van Justitie van 15 december 2004, nr. 5325866/04/6;
-
-Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=2), en [62, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=62);
-
-De Raad van State gehoord (advies van 6 januari 2005, nr. W03.04.0627/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 20 januari 2005, nr. 5330212/05/6 ;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -56,21 +24,11 @@ Het afsluitend examen, bedoeld in [artikel 2, eerste lid, onder a en b, van de A
 
 - c. één van de volgende drie vakken:
 
-- 1°. staatsrecht;
+   - 1°. staatsrecht;
 
-- 2°. bestuursrecht met inbegrip van het administratief procesrecht, of
+   - 2°. bestuursrecht met inbegrip van het administratief procesrecht, of
 
-- 3°. belastingrecht.
-
-##### Artikel 2
-
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 3
-
-Dit besluit wordt aangehaald als: Besluit beroepsvereisten advocatuur.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+   - 3°. belastingrecht.
 
 ##### Artikel 1a
 
@@ -80,4 +38,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017969&artikel=1&z=2008-10-01&g=2008-10-01) wordt onder afsluitend examen als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0017969&artikel=1&z=2008-10-01&g=2008-10-01) tevens begrepen het schakelprogramma, bedoeld in het eerste en tweede lid.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 2
+
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 3
+
+Dit besluit wordt aangehaald als: Besluit beroepsvereisten advocatuur.

@@ -1,45 +1,20 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 1 juni 2005, nr. WJZ 5028518, houdende intrekking van diverse regelingen op het terrein van het Ministerie van Economische Zaken (EZ-intrekkingsregeling 2005)"
+citeertitel: "EZ-intrekkingsregeling 2005"
 identifier: "BWBR0018377"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-06-26"
-last_updated: "2005-06-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018377"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "7087663"
-version_id: "12010252"
-internal_id: "C16103211"
-label_id: "7076084"
-original_entry_into_force: "2005-06-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018377/2005-06-26/0"
-intitule_bron: "Stcrt.2005-120"
-intitule_effect: "wijziging"
-intitule_signed: "2005-06-01"
-intitule_published: "2005-06-24"
-intitule_in_force: "2005-06-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-120"
-original_signed_date: "2005-06-01"
-original_published_date: "2005-06-24"
-original_effect: "wijziging"
-original_url_id: "stcrt-2005-120-p11-SC70406"
-entry_into_force_date: "2005-06-26"
-jci_1_3: "jci1.3:c:BWBR0018377&z=2005-06-26&g=2005-06-26"
-jci_1_0: "1.0:c:BWBR0018377&g=2005-06-26"
-citeertitel_status: "officieel"
-short_title: "EZ-intrekkingsregeling 2005"
-signed_date: "2005-06-01"
-entry_into_force: "2005-06-26"
+publicatiedatum: 2005-06-26
+laatste_update: 2005-06-26
+status: geldig
+toestand: 2005-06-26
+bron: "https://wetten.overheid.nl/BWBR0018377"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de Minister van Economische Zaken van 1 juni 2005, nr. WJZ 5028518, houdende intrekking van diverse regelingen op het terrein van het Ministerie van Economische Zaken (EZ-intrekkingsregeling 2005)
 
-Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor zover het betreft [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0018377&paragraaf=1&artikel=XVIII&z=2005-06-26&g=2005-06-26);
-
-Gelet op de [artikelen 49q](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=49q) en [69 van het Algemene Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69), [artikel 4:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:4), [artikel 4 van het Besluit borgstelling MKB-kredieten 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009052&artikel=4), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009277&artikel=4), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009277&artikel=7) en [8, tweede lid, van het Besluit instelling, gebiedsindeling en bestuursgrootte kamers van koophandel en fabrieken](https://wetten.overheid.nl/jci1.3:c:BWBR0009277&artikel=8), de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007926&artikel=2), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007926&artikel=7), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007926&artikel=9), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007926&artikel=16), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007926&artikel=19) en [30 van het Besluit stimulering ruimte voor economische activiteit](https://wetten.overheid.nl/jci1.3:c:BWBR0007926&artikel=30), artikel 6 van het Besluit subsidies bedrijfsgerichte technologiestimulering internationale programma’s, [artikel 5 van het Besluit subsidies civiele vliegtuigontwikkeling](https://wetten.overheid.nl/jci1.3:c:BWBR0011247&artikel=5), de [artikelen 1, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0009670&artikel=1), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009670&artikel=6), en [7 van het Besluit subsidies CO2-reductieplan](https://wetten.overheid.nl/jci1.3:c:BWBR0009670&artikel=7), de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006515&artikel=2), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006515&artikel=3), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006515&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006515&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006515&artikel=6), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006515&artikel=9), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006515&artikel=14), en [17 van het Besluit subsidies energieprogramma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0006515&artikel=17), de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009056&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009056&artikel=9), [16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009056&artikel=16), en [19 van het Besluit subsidies exportfinancieringsarrangementen](https://wetten.overheid.nl/jci1.3:c:BWBR0009056&artikel=19), [artikel 7 van het Besluit subsidies regionale investeringsprojecten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011582&artikel=7), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&artikel=6), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&artikel=11), en [12 van het Besluit subsidies zeescheepsnieuwbouw 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&artikel=12), de artikelen 3 en 4, derde lid, van het Besluit uitkeringen Interreg 1993/94, [artikel 4 van het Besluit uitkeringen regioprogramma’s Zuid-Limburg 1993/1994](https://wetten.overheid.nl/jci1.3:c:BWBR0005918&artikel=4), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=4) en [17 van de Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=17), de [artikelen 31, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=31), [36, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=36), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=40), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=48) en [58 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=58), [artikel 46, tweede lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=46), [artikel 10 van de In- en uitvoerwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002376&artikel=10), [artikel 3 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3), artikel 2 van de Kaderwet verstrekking financiële middelen EZ, [artikel 13a, tweede lid, van het Koninklijk besluit van 8 mei 1959 (Stb. 287), houdende regelen betreffende de schadeloosstelling, bedoeld in artikel 5 van de wet van 10 juli 1952 (Stb. 407), ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden](https://wetten.overheid.nl/jci1.3:c:BWBR0002316&artikel=13a), artikel 6 van de Kredietregeling milieugerichte productontwikkeling 1998, [artikel 6a, eerste lid, van de Regeling certificaten warmtekrachtkoppeling Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0015182&artikel=6a), artikel 8 van de Regeling exportfinancieringsarrangement Indonesië, artikel 10 van de Regeling exportfinancieringsarrangement lichte matching, de artikelen 9, eerste lid, en 10 van de Regeling exportfinancieringsarrangement rente-overbruggingsfaciliteit, [artikel 12, eerste lid, van de Regeling exportfinancieringsarrangement zware matching](https://wetten.overheid.nl/jci1.3:c:BWBR0009176&artikel=12), [artikel 6, tweede lid, van de Regeling innovatiesubsidie samenwerkingsprojecten opkomende markten](https://wetten.overheid.nl/jci1.3:c:BWBR0016034&artikel=6), [artikel III, vierde lid, van de Regeling kooldioxide-index warmtekrachtkoppeling Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0015948&artikel=III), [artikel 4, eerste lid, van de Subsidieregeling branchecentra voor technologie 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009095&artikel=4), [artikel 5, eerste lid, van de Subsidieregeling energie-efficiency- en milieuadviezen Schoner produceren](https://wetten.overheid.nl/jci1.3:c:BWBR0009893&artikel=5), [artikel 5, eerste lid, van de Subsidieregeling erkenningsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006194&artikel=5), de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009119&artikel=5), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009119&artikel=6), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009119&artikel=13), en [18, tweede lid, van de Subsidieregeling innovatiegerichte onderzoekprogramma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0009119&artikel=18), [artikel 5, eerste lid, van de Subsidieregeling kennisoverdracht brancheorganisaties MKB](https://wetten.overheid.nl/jci1.3:c:BWBR0012447&artikel=5), [artikel 9, eerste lid, van de Subsidieregeling kennisoverdracht ondernemers MKB](https://wetten.overheid.nl/jci1.3:c:BWBR0012446&artikel=9), [artikel 5, eerste lid, van de Subsidieregeling managementcursussen Midden- en Oost-Europa 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009163&artikel=5), de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011677&artikel=6), en [7, eerste lid, van de Subsidieregeling ondernemerschap en onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0011677&artikel=7), [artikel 6, eerste lid, van de Subsidieregeling referentieprojecten milieutechnologie 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009297&artikel=6), de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012667&artikel=6), en [7, eerste lid, van de Subsidieregeling scholingsimpuls](https://wetten.overheid.nl/jci1.3:c:BWBR0012667&artikel=7), [artikel 6, eerste lid, van de Subsidieregeling zaaiprojecten life sciences](https://wetten.overheid.nl/jci1.3:c:BWBR0011613&artikel=6), artikel 20 van de Uitvoeringsregeling willekeurige afschrijving, de krachtens [artikel 4, eerste lid, van de Vestigingswet Bedrijven 1954](https://wetten.overheid.nl/jci1.3:c:BWBR0002130&artikel=4) vastgestelde vestigingsbesluiten, [artikel 3 van de wet van 25 januari 1951 (Stb. 24), houdende nadere voorzieningen in verband met de uitvoering van de ambten van minister zonder portefeuille en van staatssecretaris](https://wetten.overheid.nl/jci1.3:c:BWBR0002069&artikel=3) en de [artikelen 1, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=1), en [24, achtste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24);
-
-Besluit:
+#### § 1. Intrekking regelingen betreffende subsidies
 
 ##### Artikel I. Bedrijfsgericht technologisch onderzoek
 
@@ -53,7 +28,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling van de Minister van Economische Zaken van 29 januari 1996, nr. WJA/JZ 95085312, houdende vaststelling van het beschikbare budget voor het doen van subsidietoezeggingen op in 1996 ontvangen aanvragen op grond van het Besluit subsidies bedrijfsgerichte technologiestimulering internationale programma’s (Stcrt. 21).
 
-##### Artikel III. [Besluit subsidies energieprogramma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0006515)
+##### Artikel III. Besluit subsidies energieprogramma’s
 
 De volgende regelingen worden ingetrokken:
 
@@ -229,7 +204,7 @@ De volgende regelingen worden ingetrokken:
 
 De Regeling van de Minister van Economische Zaken van 2 juli 1991, nr. WJA/JZ 91056241, houdende wijziging Subsidieregeling innovatiestimulering 1989 (Stcrt. 126) wordt ingetrokken.
 
-##### Artikel XIV. [Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919)
+##### Artikel XIV. Kaderwet EZ-subsidies
 
 De Regeling van de Minister van Economische Zaken van 10 december 2002, nr. WJZ 02061353, houdende vaststelling van een aantal subsidieplafonds voor 2003 (Stcrt. 244) wordt ingetrokken.
 
@@ -389,11 +364,13 @@ De volgende regelingen worden ingetrokken:
 
 - g. Uitvoeringsregeling BSZ 2001.
 
+#### § 2. Intrekking overige regelingen
+
 ##### Artikel XXXIII. Cbs
 
 De Regeling bevordering vrijwillige uittreding medewerkers CBS wordt ingetrokken.
 
-##### Artikel XXXIV. [Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997)
+##### Artikel XXXIV. Distributiewet
 
 De volgende regelingen worden ingetrokken:
 
@@ -401,7 +378,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Beschikking van de Minister van Economische Zaken van 7 november 1973, nr. 673/584, houdende buitentoepassingverklaring artikel 17 Distributiewet 1939 (Stcrt. 217).
 
-##### Artikel XXXV. [Elektriciteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009755)
+##### Artikel XXXV. Elektriciteitswet
 
 De volgende regelingen worden ingetrokken:
 
@@ -411,7 +388,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling van de Minister van Economische Zaken van 6 juni 2003, nr. WJZ 3019600, houdende derde wijziging van de Regeling groencertificaten Elektriciteitswet 1998 in verband met de wet van 5 juni 2003 tot wijziging van de Elektriciteitswet 1998 ten behoeve van de stimulering van de milieukwaliteit van de elektriciteitsproductie (Stb. 235) (Stcrt. 116).
 
-##### Artikel XXXVI. [In- en uitvoerwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002376)
+##### Artikel XXXVI. In- en uitvoerwet
 
 De volgende regelingen worden ingetrokken:
 
@@ -445,13 +422,15 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling van de Minister van Economische Zaken van 25 oktober 2002, nr. WJZ 02053078, houdende taakomschrijving Staatssecretaris van Economische Zaken (Stcrt. 208).
 
-##### Artikel XLII. [Vestigingswet Bedrijven 1954](https://wetten.overheid.nl/jci1.3:c:BWBR0002130)
+##### Artikel XLII. Vestigingswet Bedrijven 1954
 
 De Regeling van de Minister van Economische Zaken van 17 september 1990, nr. 90084704 DMO/DMKB/VO, houdende intrekking aanwijzing Belgische getuigschriften (ex artikel 4 Vestigingswet Bedrijven 1954) (Stcrt. 184) wordt ingetrokken.
 
 ##### Artikel XLIII. Willekeurige afschrijving
 
 De Regeling van de Minister van Economische Zaken van 20 november 1998, nr. 98076040 WJA/JZ, houdende vaststelling aanvraagformulier ten behoeve van willekeurige afschrijving voortbrengingskosten filmproducties (Stcrt. 239) wordt ingetrokken.
+
+#### § 3. Overgangs- en slotbepalingen
 
 ##### Artikel XLIV. Overgangsbepaling
 
@@ -466,13 +445,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel XLVI. Citeertitel
 
 Deze regeling wordt aangehaald als: EZ-intrekkingsregeling 2005.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 1. Intrekking regelingen betreffende subsidies
-
-#### § 2. Intrekking overige regelingen
-
-#### § 3. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

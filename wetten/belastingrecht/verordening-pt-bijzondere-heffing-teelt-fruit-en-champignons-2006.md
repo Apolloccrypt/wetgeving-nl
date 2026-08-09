@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 28 juni 2005, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2006 (Verordening PT bijzondere heffing teelt fruit en champignons 2006)"
+citeertitel: "Verordening PT bijzondere heffing teelt fruit en champignons 2006"
 identifier: "BWBR0018503"
-country: "nl"
-rank: "pbo"
-publication_date: "2007-09-30"
-last_updated: "2007-09-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018503"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "7432763"
-version_id: "12364152"
-internal_id: "C16619811"
-label_id: "7420654"
-dtd_version: "2.0"
-original_entry_into_force: "2005-10-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018503/2007-09-30/0"
-intitule_bron: "Vbbo.2005-56"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-28"
-intitule_published: "2005-09-30"
-intitule_in_force: "2005-09-30"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-56"
-original_signed_date: "2005-06-28"
-original_published_date: "2005-09-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-10-02"
-jci_1_3: "jci1.3:c:BWBR0018503&z=2007-09-30&g=2007-09-30"
-jci_1_0: "1.0:c:BWBR0018503&g=2007-09-30"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing teelt fruit en champignons 2006"
-signed_date: "2005-06-28"
-entry_into_force: "2005-10-02"
+publicatiedatum: 2005-10-02
+laatste_update: 2007-09-30
+status: geldig
+toestand: 2007-09-30
+bron: "https://wetten.overheid.nl/BWBR0018503"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 28 juni 2005, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2006 (Verordening PT bijzondere heffing teelt fruit en champignons 2006)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 7 juni 2005;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -55,7 +26,7 @@ Besluit:
 
 | a. het braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld, alsmede niet beteelde gronden, waarop in juli of augustus in enig oogstjaar aardbeien zullen worden geplant en waarvan in het daaropvolgende jaar zal worden geoogst; |
 | --- | --- | --- |
-| b. de cultuurgrond | : | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2007-09-30&g=2007-09-30) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| b. de cultuurgrond | : | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in artikel 4 genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | c. de teelt onder glas | : | iedere andere teelt dan die in de open grond; |
 | d. de gemeten maat | : | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | e. de contractteelt | : | de teelt van gewassen of producten ingevolge een overeenkomst. |
@@ -139,9 +110,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 10
 
 Deze verordening wordt aangehaald als: Verordening PT bijzondere heffing teelt fruit en champignons 2006.
-
-## Bijlage
-
-Niet opgenomen.
-
-Deze verordening en de daarbij behorende bijlage worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

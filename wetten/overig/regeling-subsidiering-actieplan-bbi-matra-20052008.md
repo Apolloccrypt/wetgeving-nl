@@ -1,45 +1,18 @@
 ---
 title: "Regeling van de minister van Landbouw, Natuur en Voedselkwaliteit van 10 juni 2005, nr. TRCJZ/2005/1614, houdende regels met betrekking tot de subsidiering van het Actieplan BBI-Matra 2005–2008 en tot wijziging van de Regeling diverse subsidieplafonds en aanvraagperioden LNV"
+citeertitel: "Regeling subsidiëring Actieplan BBI-Matra 2005–2008"
 identifier: "BWBR0018423"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-02-02"
-last_updated: "2008-02-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018423"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "7091123"
-version_id: "11982792"
-internal_id: "C16068661"
-label_id: "7079394"
-original_entry_into_force: "2005-06-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018423/2008-02-02/0"
-intitule_bron: "Stcrt.2005-111"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-10"
-intitule_published: "2005-06-13"
-intitule_in_force: "2005-06-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-111"
-original_signed_date: "2005-06-10"
-original_published_date: "2005-06-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-111-p23-SC70285"
-entry_into_force_date: "2005-06-15"
-jci_1_3: "jci1.3:c:BWBR0018423&z=2008-02-02&g=2008-02-02"
-jci_1_0: "1.0:c:BWBR0018423&g=2008-02-02"
-citeertitel_status: "officieel"
-short_title: "Regeling subsidiëring Actieplan BBI-Matra 2005–2008"
-signed_date: "2005-06-10"
-entry_into_force: "2005-06-15"
+publicatiedatum: 2005-06-15
+laatste_update: 2008-02-02
+status: geldig
+toestand: 2008-02-02
+bron: "https://wetten.overheid.nl/BWBR0018423"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de minister van Landbouw, Natuur en Voedselkwaliteit van 10 juni 2005, nr. TRCJZ/2005/1614, houdende regels met betrekking tot de subsidiering van het Actieplan BBI-Matra 2005–2008 en tot wijziging van de Regeling diverse subsidieplafonds en aanvraagperioden LNV
-
-Handelende in overeenstemming met de Staatssecretaris van Buitenlandse Zaken;
-
-Gelet op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2) en [4 van de Kaderwet LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=4);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -51,7 +24,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - b. Actieplan: Actieplan BBI-Matra 2005–2008;
 
-- c. kandidaat-lidstaten: Europese staten die op grond van [artikel 49 van het Verdrag betreffende de Europese Unie](onbekend) een verzoek hebben ingediend om lid te worden van de Europese Unie, welk verzoek door de Raad van de Europese Unie in behandeling is genomen;
+- c. kandidaat-lidstaten: Europese staten die op grond van artikel 49 van het Verdrag betreffende de Europese Unie een verzoek hebben ingediend om lid te worden van de Europese Unie, welk verzoek door de Raad van de Europese Unie in behandeling is genomen;
 
 - d. oosterbuurlanden: Russische Federatie, Oekraïne, Wit-Rusland, Moldavië, Georgië en Armenië;
 
@@ -185,9 +158,9 @@ De aanvraagperiode wordt voor het jaar 2008 vastgesteld op de periode 4 februari
 
 - g. een communicatieplan waarin wordt aangegeven:
 
-- –. op welke wijze met de belanghebbenden bij het project wordt gecommuniceerd over de inhoud, de voortgang en de resultaten, en
+   - – op welke wijze met de belanghebbenden bij het project wordt gecommuniceerd over de inhoud, de voortgang en de resultaten, en
 
-- –. op welke wijze een breder publiek wordt geïnformeerd over de resultaten en mogelijke gevolgen van het project.
+   - – op welke wijze een breder publiek wordt geïnformeerd over de resultaten en mogelijke gevolgen van het project.
 
 4. Het projectplan wordt in de Nederlandse of de Engelse taal opgesteld.
 
@@ -201,21 +174,21 @@ De aanvraagperiode wordt voor het jaar 2008 vastgesteld op de periode 4 februari
 
 - c. meerdere van de volgende kenmerken heeft:
 
-- –. het hebben van doorwerking in die zin dat het project breed kan worden toegepast en een blijvend effect heeft in de ontvangende regio;
+   - – het hebben van doorwerking in die zin dat het project breed kan worden toegepast en een blijvend effect heeft in de ontvangende regio;
 
-- –. het hebben van brede bestuurlijke steun in de ontvangende regio;
+   - – het hebben van brede bestuurlijke steun in de ontvangende regio;
 
-- –. het bijdragen aan de formulering of aan de uitvoering van biodiversiteitsbeleid in de betreffende regio;
+   - – het bijdragen aan de formulering of aan de uitvoering van biodiversiteitsbeleid in de betreffende regio;
 
-- –. het maximaal ten goede komen aan het ontvangende land en daarbij tevens rekening houden met de inbreng en de belangen van Nederland;
+   - – het maximaal ten goede komen aan het ontvangende land en daarbij tevens rekening houden met de inbreng en de belangen van Nederland;
 
-- –. het hebben van een gunstige kosten-baten verhouding;
+   - – het hebben van een gunstige kosten-baten verhouding;
 
-- –. het ontvangen van medefinanciering door andere organisaties dan LNV;
+   - – het ontvangen van medefinanciering door andere organisaties dan LNV;
 
-- –. het project verschilt van projecten waaraan in een voorafgaande aanvraagperiode reeds subsidie is verleend;
+   - – het project verschilt van projecten waaraan in een voorafgaande aanvraagperiode reeds subsidie is verleend;
 
-- –. ingeval het een project betreft in de Russische Federatie of Oekraïne, het bijdragen aan de gezamenlijke door Nederland en de Russische Federatie respectievelijk Oekraïne opgestelde werkplannen in het kader van de Memoranda of Understanding op het gebied van respectievelijk milieu bescherming en natuur, met uitzondering van het onderwerp waterkwaliteitsbeheer in het gezamenlijke werkplan met de Russische Federatie.
+   - – ingeval het een project betreft in de Russische Federatie of Oekraïne, het bijdragen aan de gezamenlijke door Nederland en de Russische Federatie respectievelijk Oekraïne opgestelde werkplannen in het kader van de Memoranda of Understanding op het gebied van respectievelijk milieu bescherming en natuur, met uitzondering van het onderwerp waterkwaliteitsbeheer in het gezamenlijke werkplan met de Russische Federatie.
 
 2. De minister houdt bij de rangschikking van de aanvragen rekening met een evenwichtige verdeling van de middelen over de thematische invalshoeken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=4&z=2008-02-02&g=2008-02-02), over de doellanden en over projecten.
 
@@ -254,6 +227,16 @@ De subsidieontvanger voert een administratie die zodanig is ingericht dat daarui
 3. Goedkeuring, als bedoeld in het eerste en tweede lid, wordt niet verleend voor zover het wijzigingen ten aanzien van de doelstelling betreft.
 
 4. De minister deelt de subsidieontvanger mede of en in welke mate de wijzigingen van het project of programma gevolgen heeft voor de verleende subsidie of voor de bij de verlening van de subsidie vastgestelde verplichtingen. De wijzigingen hebben geen verhoging tot gevolg van het bedrag waarop de subsidie overeenkomstig de beschikking tot subsidieverlening ten hoogste kan worden vastgesteld.
+
+##### Artikel 18a
+
+Ingeval een project langer dan een jaar duurt, informeert de subsidieontvanger de Minister telkens nadat een jaar is verstreken binnen drie maanden over de voortgang van het project door middel van een verslag, dat ten minste bevat:
+
+- a. een beschrijving van de activiteiten die tot dan toe in het kader van het project zijn verricht en de activiteiten die gepland staan voor het komende jaar;
+
+- b. een beschrijving van de mate waarin de activiteiten hebben bijgedragen aan de doelstellingen, omschreven in het projectplan;
+
+- c. een financiële rapportage over de betalingen en kosten die tot dan toe in het kader van het project zijn verricht respectievelijk gemaakt en een financiële planning voor het resterende termijn van het project.
 
 ##### Artikel 19
 
@@ -323,96 +306,8 @@ Op projecten en programma’s waarvoor voor 23 februari 2007 subsidie is verleen
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
 Deze regeling wordt aangehaald als: Regeling subsidiëring Actieplan BBI-Matra 2005–2008.
-
-## Bijlage 1. Model-accountantsverklaring, als bedoeld in [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2005-06-15&g=2005-06-15), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008
-
-Wij hebben de bijgevoegde financiële verantwoording van <naam instelling> te <plaats> inzake het project <naam project> over de periode van ... t/m ... in het kader van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 gecontroleerd. De financiële verantwoording is opgesteld onder de verantwoording van <de leiding van naam instelling / naam persoon>.
-
-Het is onze verantwoordelijkheid om een accountantsverklaring inzake de financiële verantwoording te verstrekken. Voor het onderhavige project is bij beschikking van de Minister van Landbouw, Natuur en Voedselkwaliteit, kenmerk <nummer> d.d. <datum> een subsidie verleend tot een maximum van € <bedrag>.
-
-Onze controle is verricht overeenkomstig de richtlijnen met betrekking tot controle-opdrachten. Volgens de richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd dat een redelijke mate van zekerheid wordt verkregen dat de financiële verantwoording geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen in de financiële verantwoording.
-
-Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel. Wij zijn van oordeel dat de financiële verantwoording voldoet aan de voor dit doel eraan te stellen eisen.
-
-**<plaats en datum>**
-
-**<handtekening>**
-
-**<naam accountant>**
-
-**<naam accountantskantoor>**
-
-**<adres>**
-
-**<postcode en woonplaats>**
-
-**<telefoon>**
-
-## Bijlage 1. Model-accountantsverklaring, als bedoeld in [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2008-02-02&g=2008-02-02), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008
-
-Wij hebben de bijgevoegde financiële verantwoording van <naam instelling> te <plaats> inzake het project <naam project> over de periode van ... t/m ... in het kader van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 gecontroleerd. De financiële verantwoording is opgesteld onder de verantwoording van <de leiding van naam instelling / naam persoon>.
-
-Het is onze verantwoordelijkheid om een accountantsverklaring inzake de financiële verantwoording te verstrekken. Voor het onderhavige project is bij beschikking van de Minister van Landbouw, Natuur en Voedselkwaliteit, kenmerk <nummer> d.d. <datum> een subsidie verleend tot een maximum van € <bedrag>.
-
-Onze controle is verricht overeenkomstig de richtlijnen met betrekking tot controle-opdrachten. Volgens de richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd dat een redelijke mate van zekerheid wordt verkregen dat de financiële verantwoording geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen in de financiële verantwoording.
-
-Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel. Wij zijn van oordeel dat de financiële verantwoording voldoet aan de voor dit doel eraan te stellen eisen.
-
-**<plaats en datum>**
-
-**<handtekening>**
-
-**<naam accountant>**
-
-**<naam accountantskantoor>**
-
-**<adres>**
-
-**<postcode en woonplaats>**
-
-**<telefoon>**
-
-Bij de controle, op basis waarvan de eindrapportage, als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2005-06-15&g=2005-06-15), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 plaatsvindt, dient aan de naleving van de volgende artikelen op de daarbij aangegeven wijze aandacht te worden besteed.
-
-### Toelichting op het controleprotocol
-
-Onder normale aandacht wordt verstaan: controle met een diepgang die gebruikelijk is voor het afgeven van een accountantsverklaring bij een verantwoording.
-
-Onder normale aandacht wordt verstaan: controle met een diepgang die gebruikelijk is voor het afgeven van een accountantsverklaring bij een verantwoording.
-
-Onder speciale aandacht wordt verstaan: controle waarbij nadrukkelijk wordt bezien of de desbetreffende voorschriften zijn nageleefd. In dit geval moet dus verder worden gegaan dan normaal bij een controle van een verantwoording.
-
-Aan de niet genoemde artikelen behoeft bij de controle geen aandacht te worden besteed, met dien verstande dat, teneinde de controle op de hierboven genoemde artikelen goed te kunnen verrichten, kennisneming van deze overige artikelen noodzakelijk is.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 18a
-
-Ingeval een project langer dan een jaar duurt, informeert de subsidieontvanger de Minister telkens nadat een jaar is verstreken binnen drie maanden over de voortgang van het project door middel van een verslag, dat ten minste bevat:
-
-- a. een beschrijving van de activiteiten die tot dan toe in het kader van het project zijn verricht en de activiteiten die gepland staan voor het komende jaar;
-
-- b. een beschrijving van de mate waarin de activiteiten hebben bijgedragen aan de doelstellingen, omschreven in het projectplan;
-
-- c. een financiële rapportage over de betalingen en kosten die tot dan toe in het kader van het project zijn verricht respectievelijk gemaakt en een financiële planning voor het resterende termijn van het project.
-
-#### § 4. Bevoorschotting
-
-#### § 5. Subsidievaststelling
-
-#### § 6. Overgangs- en slotbepalingen
-
-## Bijlage 2. Controleprotocol, als bedoeld in [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2008-02-02&g=2008-02-02), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008
-
-Bij de controle, op basis waarvan de eindrapportage, als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2008-02-02&g=2008-02-02), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 plaatsvindt, dient aan de naleving van de volgende artikelen op de daarbij aangegeven wijze aandacht te worden besteed.
-
-### Toelichting op het controleprotocol
-
-De minister kan de Accountantsdienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit een review laten uitvoeren op de door de accountant van de aanvrager, aan wie de subsidie ingevolge de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 is verleend, verrichte werkzaamheden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

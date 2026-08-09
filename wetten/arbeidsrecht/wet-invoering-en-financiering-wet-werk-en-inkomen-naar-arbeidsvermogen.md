@@ -1,189 +1,216 @@
 ---
 title: "Wet van 10 november 2005, houdende regels omtrent de invoering en financiering van de Wet werk en inkomen naar arbeidsvermogen alsmede met betrekking tot de intrekking van de Wet op de (re)integratie arbeidsgehandicapten (Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen)"
+citeertitel: "Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen"
 identifier: "BWBR0019058"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019058"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "7602623"
-version_id: "12486042"
-internal_id: "C16848371"
-label_id: "7591054"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019058/2015-01-01/0"
-intitule_bron: "Stb.2005-573"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-11-10"
-intitule_published: "2005-11-22"
-intitule_in_force: "2005-12-08"
-intitule_status: "goed"
-original_publication: "Stb.2005-573"
-original_signed_date: "2005-11-10"
-original_published_date: "2005-11-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "30118"
-original_url_id: "stb-2005-573"
-entry_into_force_date: "2005-12-09"
-jci_1_3: "jci1.3:c:BWBR0019058&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0019058&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen"
-signed_date: "2005-11-10"
-entry_into_force: "2005-12-09"
+publicatiedatum: 2005-12-09
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0019058"
+opgehaald: 2026-08-09
 ---
+
 # Wet van 10 november 2005, houdende regels omtrent de invoering en financiering van de Wet werk en inkomen naar arbeidsvermogen alsmede met betrekking tot de intrekking van de Wet op de (re)integratie arbeidsgehandicapten (Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen)
 
 ### Hoofdstuk 1. Wijziging van andere wetten
 
 #### § 1. Sociale Zaken en Werkgelegenheid
 
-#### § 1. Sociale Zaken en Werkgelegenheid
+##### Artikel 1.1. Wet op de arbeidsongeschiktheidsverzekering
 
-#### § 3. Binnenlandse Zaken
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
-##### Artikel 1.28. [Bijlage 2 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&bijlage=2)
+##### Artikel 1.2. Wet werk en inkomen naar arbeidsvermogen
 
-Wijzigt de Invoeringswet Financiële-verhoudingswet.
+*Wijzigt de Wet werk en inkomen naar arbeidsvermogen.*
 
-##### Artikel 1.29. [Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267)
+##### Artikel 1.3. Werkloosheidswet
 
-Wijzigt de Wet overheidspersoneel onder de werknemersverzekeringen.
+*Wijzigt de Werkloosheidswet.*
 
-#### § 4. Onderwijs, Cultuur en Wetenschap
+##### Artikel 1.4. Ziektewet
 
-#### § 5. Financiën
+*Wijzigt de Ziektewet.*
 
-#### § 6. Defensie
+##### Artikel 1.5. Wijziging van de Wet financiering sociale verzekeringen
 
-#### § 7. Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
-#### § 8. Volksgezondheid Welzijn en Sport
+##### Artikel 1.5a. Invoeringswet Wet financiering sociale verzekeringen
 
-### Hoofdstuk 2. Overgangs- en slotbepalingen
+*Wijzigt de Invoeringswet Wet financiering sociale verzekeringen.*
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+##### Artikel 1.6. Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regels vast te stellen inzake de invoering en financiering van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) alsmede inzake de intrekking van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565);
+*Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.*
 
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+##### Artikel 1.7. Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 
-### Hoofdstuk 1. Wijziging van andere wetten
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.*
 
-##### Artikel 1.1. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel 1.8. Arbeidsomstandighedenwet 1998
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Arbeidsomstandighedenwet 1998.*
 
-##### Artikel 1.2. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
+##### Artikel 1.9. Wet structuur uitvoeringsorganisatie werk en inkomen
 
-Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
+*Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.*
 
-##### Artikel 1.3. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel 1.10. Toeslagenwet
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Toeslagenwet.*
 
-##### Artikel 1.4. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel 1.11. Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
 
-Wijzigt de Ziektewet.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.*
 
-##### Artikel 1.5. Wijziging van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
+##### Artikel 1.12. Wet terugdringing ziekteverzuim
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet terugdringing ziekteverzuim.*
 
-##### Artikel 1.5a. [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747)
+##### Artikel 1.13. Wet verbetering poortwachter
 
-Wijzigt de Invoeringswet Wet financiering sociale verzekeringen.
+*Wijzigt de Wet verbetering poortwachter.*
 
-##### Artikel 1.6. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+##### Artikel 1.14. Algemene Kinderbijslagwet
 
-Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
+*Wijzigt de Algemene Kinderbijslagwet.*
 
-##### Artikel 1.7. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+##### Artikel 1.15. Algemene nabestaandenwet
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
+*Wijzigt de Algemene nabestaandenwet.*
 
-##### Artikel 1.8. [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
+##### Artikel 1.16. Algemene Ouderdomswet
 
-Wijzigt de Arbeidsomstandighedenwet 1998.
+*Wijzigt de Algemene Ouderdomswet.*
 
-##### Artikel 1.9. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
+##### Artikel 1.17. Wet werk en inkomen kunstenaars
 
-Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
+*Wijzigt de Wet werk en inkomen kunstenaars.*
 
-##### Artikel 1.10. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
+*Dit onderdeel is nog niet inwerking getreden*
 
-Wijzigt de Toeslagenwet.
+##### Artikel 1.18. Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 
-##### Artikel 1.11. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.*
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
+##### Artikel 1.19. Wet werk en bijstand
 
-##### Artikel 1.12. [Wet terugdringing ziekteverzuim](https://wetten.overheid.nl/jci1.3:c:BWBR0006355)
+*Wijzigt de Wet werk en bijstand.*
 
-Wijzigt de Wet terugdringing ziekteverzuim.
+##### Artikel 1.20. Wet arbeid en zorg
 
-##### Artikel 1.13. [Wet verbetering poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063)
+*Wijzigt de Wet arbeid en zorg.*
 
-Wijzigt de Wet verbetering poortwachter.
+##### Artikel 1.21. Invoeringswet stelselherziening sociale zekerheid
 
-##### Artikel 1.14. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+*Wijzigt de Invoeringswet stelselherziening sociale zekerheid.*
 
-Wijzigt de Algemene Kinderbijslagwet.
+##### Artikel 1.22. Wet kinderopvang
 
-##### Artikel 1.15. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
-
-Wijzigt de Algemene nabestaandenwet.
-
-##### Artikel 1.16. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
-
-Wijzigt de Algemene Ouderdomswet.
-
-##### Artikel 1.17. [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837)
-
-Wijzigt de Wet werk en inkomen kunstenaars.
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 1.18. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
-
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
-
-##### Artikel 1.19. [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
-
-Wijzigt de Wet werk en bijstand.
-
-##### Artikel 1.20. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
-
-Wijzigt de Wet arbeid en zorg.
-
-##### Artikel 1.21. [Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046)
-
-Wijzigt de Invoeringswet stelselherziening sociale zekerheid.
-
-##### Artikel 1.22. [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
-
-Wijzigt de Wet kinderopvang.
+*Wijzigt de Wet kinderopvang.*
 
 #### § 2. Justitie
 
+##### Artikel 1.23. Bijlage bij de Beroepswet
+
+*Wijzigt de Beroepswet.*
+
+##### Artikel 1.24. Burgerlijk Wetboek
+
+*Wijzigt het Burgerlijk Wetboek.*
+
+##### Artikel 1.25. Remigratiewet
+
+*Wijzigt de Remigratiewet.*
+
+##### Artikel 1.26. Wetboek van Koophandel
+
+*Wijzigt het Wetboek van Koophandel.*
+
+##### Artikel 1.27. Wet rechtspositie rechterlijke ambtenaren
+
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
+
 #### § 3. Binnenlandse Zaken
+
+##### Artikel 1.28. Bijlage 2 van de Invoeringswet Financiële-verhoudingswet
+
+*Wijzigt de Invoeringswet Financiële-verhoudingswet.*
+
+##### Artikel 1.29. Wet overheidspersoneel onder de werknemersverzekeringen
+
+*Wijzigt de Wet overheidspersoneel onder de werknemersverzekeringen.*
 
 #### § 4. Onderwijs, Cultuur en Wetenschap
 
+##### Artikel 1.30. Wet op het primair onderwijs
+
+*Wijzigt de Wet op het primair onderwijs.*
+
+##### Artikel 1.31. Wet studiefinanciering 2000
+
+*Wijzigt de Wet studiefinanciering 2000.*
+
+##### Artikel 1.32. Wet tegemoetkoming onderwijsbijdrage en schoolkosten
+
+*Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.*
+
 #### § 5. Financiën
 
-#### § 3. Binnenlandse Zaken
+##### Artikel 1.33. Wet inkomstenbelasting 2001
+
+*Wijzigt de Wet inkomstenbelasting 2001.*
+
+##### Artikel 1.34. Wet op de loonbelasting 1964
+
+*Wijzigt de Wet op de loonbelasting 1964.*
+
+##### Artikel 1.34a. Wet vermindering afdracht loonbelasting en premie voor de volksverzekering
+
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
+
+##### Artikel 1.34b. Wet op de ondernemingsraden
+
+*Wijzigt de Wet op de ondernemingsraden.*
+
+#### § 6. Defensie
+
+##### Artikel 1.35. Wet arbeidsongeschiktheidsvoorziening militairen
+
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening militairen.*
 
 #### § 7. Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
+##### Artikel 1.36. Huursubsidiewet
+
+*Wijzigt de Wet op de huurtoeslag.*
+
+##### Artikel 1.37. Wet bevordering eigenwoningbezit
+
+*Wijzigt de Wet bevordering eigenwoningbezit.*
+
 #### § 8. Volksgezondheid Welzijn en Sport
 
-### Hoofdstuk 2. Overgangs- en slotbepalingen
+##### Artikel 1.38. Algemene Wet Bijzondere Ziektekosten
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Wijzigt de Algemene Wet Bijzondere Ziektekosten.*
+
+##### Artikel 1.39. Wet buitengewoon pensioen 1940–1945
+
+*Wijzigt de Wet buitengewoon pensioen 1940–1945.*
+
+##### Artikel 1.40. Wet op de medische keuringen
+
+*Wijzigt de Wet op de medische keuringen.*
+
+##### Artikel 1.41. Ziekenfondswet
+
+*Wijzigt de Ziekenfondswet.*
+
+### Hoofdstuk 2. Overgangs- en slotbepalingen
 
 ##### Artikel 2.1. Verruiming grondslag lagere regelgeving
 
@@ -239,7 +266,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Het [besluit van de Staatssecretaris van Sociale Zaken van 19 oktober 1976, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 43 van de Algemene Arbeidsongeschiktheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003064) (Stb. 526) berust met ingang van de dag van inwerkingtreding van [artikel 1.6, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.6&z=2015-01-01&g=2015-01-01), mede op de [artikelen 59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=59), en [59a, zesde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=59a).
 
-##### Artikel 2.3. Overgangsrecht [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel 2.3. Overgangsrecht Wet REA
 
 1. De artikelen van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) en de daarop berustende bepalingen, zoals deze luidden op de dag voorafgaand aan de dag waarop deze op grond van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2015-01-01&g=2015-01-01), vervallen, blijven van toepassing op de persoon, instelling of organisatie die op of voor die dag in aanmerking is gebracht voor een instrument op grond van die wet of een aanvraag daartoe heeft ingediend, zolang dat instrument in dezelfde vorm wordt verstrekt.
 
@@ -259,13 +286,13 @@ wordt aangemerkt als instrument op grond van de desbetreffende wet.
 
 3. In afwijking van het eerste lid, kan bij of krachtens algemene maatregel van bestuur worden bepaald dat de artikelen van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) en de daarop berustende bepalingen, zoals deze luidden op de dag voorafgaand aan de dag waarop deze vervallen niet meer van toepassing zijn op de persoon, instelling of organisatie, bedoeld in het eerste lid.
 
-##### Artikel 2.4. Oud overgangsrecht [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel 2.4. Oud overgangsrecht Wet REA
 
 1. Artikel 57 van de Algemene arbeidsongeschiktheidswet en de daarop berustende bepalingen, zoals deze luidden op de dag voorafgaand aan de inwerkingtreding van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), blijven van toepassing op de persoon die voor die dag een aanvraag heeft ingediend of in aanmerking is gebracht voor een voorziening tot behoud, herstel of ter bevordering van de arbeidsgeschiktheid, zolang die voorziening verkeert in de staat waarin de voorziening verkeerde op de dag voorafgaande aan de dag waarop [artikel 75, eerste lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=75) vervalt als gevolg van de inwerkingtreding van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2015-01-01&g=2015-01-01) of, indien op de aanvraag niet voor die dag is beslist, op de dag waarop de voorziening wordt verstrekt.
 
 2. Artikel 57a van de Algemene arbeidsongeschiktheidswet en de daarop berustende bepalingen, zoals deze luidden op de dag voorafgaand aan de inwerkingtreding van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), blijven van toepassing op de persoon die voor de dag een aanvraag heeft ingediend of in aanmerking is gebracht voor vergoeding van kosten als bedoeld in dat artikel, zolang deze vergoeding niet daadwerkelijk geheel is verleend.
 
-3. Vervallen.
+3. *Vervallen.*
 
 4. Beschikkingen op grond van de artikelen 57 en 57a van de Algemene arbeidsongeschiktheidswet worden na het vervallen van [artikel 85, eerste lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=85) als gevolg van de inwerkingtreding van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2015-01-01&g=2015-01-01), aangemerkt als beschikkingen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
 
@@ -273,7 +300,7 @@ wordt aangemerkt als instrument op grond van de desbetreffende wet.
 
 ##### Artikel 2.5. Opzegging ILO-Verdrag nr. 118
 
-Wijzigt de Goedkeuringswet voornemen tot opzegging Verdrag betreffende de gelijkheid van behandeling van eigen onderdanen en vreemdelingen met betrekking tot de sociale zekerheid.
+*Wijzigt de Goedkeuringswet voornemen tot opzegging Verdrag betreffende de gelijkheid van behandeling van eigen onderdanen en vreemdelingen met betrekking tot de sociale zekerheid.*
 
 ##### Artikel 2.6. Experimentele prb-regeling
 
@@ -291,11 +318,15 @@ Wijzigt de Goedkeuringswet voornemen tot opzegging Verdrag betreffende de gelijk
 
 ##### Artikel 2.7a. Persoonsgebonden reïntegratiebudget voor zieke werknemer in dienstbetrekking
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2.7b. Overgangsrecht persoonsgebonden re-integratiebudget voor zieke werknemer in dienstbetrekking
 
 [Artikel 2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7a&z=2015-01-01&g=2015-01-01) zoals dat luidde op de dag voorafgaand aan de dag van inwerkingtreding van de [Verzamelwet SZW-wetgeving 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026169), blijft van toepassing op de werknemer aan wie subsidie is verstrekt in de vorm van een op zijn arbeidsinschakeling gericht persoonsgebonden re-integratiebudget als bedoeld in [artikel 2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7a&z=2015-01-01&g=2015-01-01) of ten behoeve van wie een overeenkomst die is gericht op zijn arbeidsinschakeling als bedoeld in [artikel 2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7a&z=2015-01-01&g=2015-01-01) is gesloten en op de werknemer die een aanvraag daartoe heeft ingediend voor de datum van inwerkingtreding van de [Verzamelwet SZW-wetgeving 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026169).
+
+##### Artikel 2.7c. Beheer Reïntegratiefonds
+
+*Vervallen*
 
 ##### Artikel 2.8. Overgang vermogensbestanddelen Reïntegratiefonds
 
@@ -303,51 +334,55 @@ Alle vermogenbestanddelen die door het Uitvoeringsinstituut werknemersverzekerin
 
 ##### Artikel 2.9. Uitgaven ten laste van het Reïntegratiefonds
 
-Vervallen
+*Vervallen*
 
-##### Artikel 2.10. Intrekking [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel 2.10. Intrekking Wet REA
 
 De [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) wordt op een bij koninklijk besluit te bepalen tijdstip ingetrokken, waarbij het tijdstip waarop de verschillende artikelen of onderdelen daarvan vervallen, verschillend kan worden vastgesteld.
 
-##### Artikel 2.11. Slotbepaling betreffende [artikel 1.4, onderdeel X](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.4&z=2015-01-01&g=2015-01-01), [artikel 76a Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a)
+##### Artikel 2.10a. Afzien van horen belanghebbende
+
+*Vervallen*
+
+##### Artikel 2.11. Slotbepaling betreffende artikel 1.4, onderdeel X, artikel 76a Ziektewet
 
 Tot het tijdstip van inwerkingtreding van [artikel 23 van de Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&artikel=23) wordt in het in [artikel 1.4, onderdeel X](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.4&z=2015-01-01&g=2015-01-01), voorgestelde [artikel 76a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a) «het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17)» gelezen: het maximum dagloon, bedoeld in [artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9).
 
-##### Artikel 2.12. Slotbepaling betreffende de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
+##### Artikel 2.12. Slotbepaling betreffende de Wet werk en inkomen naar arbeidsvermogen
 
-Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
+*Wijzigt de Wet werk en inkomen naar arbeidsvermogen.*
 
-##### Artikel 2.13. Slotbepaling betreffende [artikel 61, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=61)
+##### Artikel 2.13. Slotbepaling betreffende artikel 61, tweede lid, van de Ziektewet
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
-##### Artikel 2.14. Slotbepaling betreffende de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
+##### Artikel 2.14. Slotbepaling betreffende de Wet financiering sociale verzekeringen
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
-##### Artikel 2.15. Slotbepaling betreffende [artikel 34 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=34)
+##### Artikel 2.15. Slotbepaling betreffende artikel 34 van de Werkloosheidswet
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
-##### Artikel 2.15a. Slotbepaling betreffende [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.22&z=2015-01-01&g=2015-01-01)
+##### Artikel 2.15a. Slotbepaling betreffende artikel 1.22
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
-##### Artikel 2.16. Slotbepaling betreffende [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.9&z=2015-01-01&g=2015-01-01)
+##### Artikel 2.16. Slotbepaling betreffende artikel 2.9
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
-##### Artikel 2.16a. [Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830)
+##### Artikel 2.16a. Invoerings- en aanpassingswet Zorgverzekeringswet
 
-Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.
+*Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.*
 
 ##### Artikel 2.17. Overgangsrecht onderwijsvoorzieningen
 
-Vervallen
+*Vervallen*
 
-##### Artikel 2.17a. Slotbepaling betreffende [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.17&z=2015-01-01&g=2015-01-01)
+##### Artikel 2.17a. Slotbepaling betreffende artikel 2.17
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 2.18. Regelgevende bevoegdheden ten behoeve van de invoering
 
@@ -364,107 +399,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 2.21. Citeertitel
 
 Deze wet wordt aangehaald als: Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1.23. [Bijlage bij de Beroepswet](onbekend)
-
-Wijzigt de Beroepswet.
-
-##### Artikel 1.24. Burgerlijk Wetboek
-
-Wijzigt het Burgerlijk Wetboek.
-
-##### Artikel 1.25. [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424)
-
-Wijzigt de Remigratiewet.
-
-##### Artikel 1.26. [Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838)
-
-Wijzigt het Wetboek van Koophandel.
-
-##### Artikel 1.27. [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365)
-
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
-
-#### § 4. Onderwijs, Cultuur en Wetenschap
-
-##### Artikel 1.30. [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
-
-Wijzigt de Wet op het primair onderwijs.
-
-##### Artikel 1.31. [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
-
-Wijzigt de Wet studiefinanciering 2000.
-
-##### Artikel 1.32. [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
-
-Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
-
-#### § 5. Financiën
-
-##### Artikel 1.33. [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
-
-Wijzigt de Wet inkomstenbelasting 2001.
-
-##### Artikel 1.34. [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
-
-Wijzigt de Wet op de loonbelasting 1964.
-
-##### Artikel 1.34a. [Wet vermindering afdracht loonbelasting en premie voor de volksverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0007746)
-
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
-
-##### Artikel 1.34b. [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747)
-
-Wijzigt de Wet op de ondernemingsraden.
-
-#### § 6. Defensie
-
-##### Artikel 1.35. [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822)
-
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening militairen.
-
-#### § 7. Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-
-##### Artikel 1.36. [Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659)
-
-Wijzigt de Wet op de huurtoeslag.
-
-##### Artikel 1.37. [Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919)
-
-Wijzigt de Wet bevordering eigenwoningbezit.
-
-#### § 8. Volksgezondheid Welzijn en Sport
-
-##### Artikel 1.38. [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
-
-Wijzigt de Algemene Wet Bijzondere Ziektekosten.
-
-##### Artikel 1.39. [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032)
-
-Wijzigt de Wet buitengewoon pensioen 1940–1945.
-
-##### Artikel 1.40. [Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819)
-
-Wijzigt de Wet op de medische keuringen.
-
-##### Artikel 1.41. [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460)
-
-Wijzigt de Ziekenfondswet.
-
-### Hoofdstuk 2. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2.7c. Beheer Reïntegratiefonds
-
-Vervallen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2.10a. Afzien van horen belanghebbende
-
-Vervallen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

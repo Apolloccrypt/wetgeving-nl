@@ -1,182 +1,162 @@
 ---
 title: "Wet van 15 december 2005, houdende wijziging van enkele belastingwetten (Belastingplan 2006)"
+citeertitel: "Belastingplan 2006"
 identifier: "BWBR0019286"
-country: "nl"
-rank: "wet"
-publication_date: "2008-01-01"
-last_updated: "2006-04-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019286"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "7763413"
-version_id: "12699952"
-internal_id: "C17110511"
-label_id: "7751444"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019286/2008-01-01/0"
-intitule_bron: "Stb.2005-683"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-15"
-intitule_published: "2005-12-27"
-intitule_in_force: "2005-12-27"
-intitule_status: "goed"
-original_publication: "Stb.2005-693"
-original_signed_date: "2005-12-22"
-original_published_date: "2005-12-27"
-original_effect: "structuurwijziging"
-original_dossier: "30330"
-original_url_id: "stb-2005-693"
-entry_into_force_date: "2006-01-01"
-entry_into_force_dossier: "30330"
-jci_1_3: "jci1.3:c:BWBR0019286&z=2008-01-01&g=2008-01-01"
-jci_1_0: "1.0:c:BWBR0019286&g=2008-01-01"
-citeertitel_status: "officieel"
-short_title: "Belastingplan 2006"
-signed_date: "2005-12-22"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2008-01-01
+status: geldig
+toestand: 2008-01-01
+bron: "https://wetten.overheid.nl/BWBR0019286"
+opgehaald: 2026-08-09
 ---
+
 # Wet van 15 december 2005, houdende wijziging van enkele belastingwetten (Belastingplan 2006)
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
+
+##### Artikel Ia
+
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IIIA
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IV
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel VIIa
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel VIIb
 
-Wijzigt de Wet op de kansspelbelasting.
+*Wijzigt de Wet op de kansspelbelasting.*
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet op de belastingen van rechtsverkeer.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XI
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XII
 
-Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken en van enkele andere producten.
+*Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken en van enkele andere producten.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.*
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XVI
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XVII
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.*
 
 ##### Artikel XIX
 
-Wijzigt de Wet werk en bijstand.
+*Wijzigt de Wet werk en bijstand.*
 
 ##### Artikel XX
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
 ##### Artikel XXI
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel XXII
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
 ##### Artikel XXIIa
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
 ##### Artikel XXIII
 
-Wijzigt de Elektriciteitswet 1998.
+*Wijzigt de Elektriciteitswet 1998.*
 
 ##### Artikel XXIV
 
-Wijzigt de Wijzigingswet Wet op belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, enz.
+*Wijzigt de Wijzigingswet Wet op belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, enz.*
 
 ##### Artikel XXV
 
-Wijzigt het Belastingplan 2004.
+*Wijzigt het Belastingplan 2004.*
 
 ##### Artikel XXVI
 
-Wijzigt de Wijzigingswet Wet op de internationale bijstandsverlening bij de heffing van belastingen en Wet inkomstenbelasting 2001 (implementatie spaarrenterichtlijn).
+*Wijzigt de Wijzigingswet Wet op de internationale bijstandsverlening bij de heffing van belastingen en Wet inkomstenbelasting 2001 (implementatie spaarrenterichtlijn).*
 
 ##### Artikel XXVII
 
-Wijzigt het Belastingplan 2005.
+*Wijzigt het Belastingplan 2005.*
 
 ##### Artikel XXVIIa
 
-Wijzigt de Wijzigingswet enkele belastingwetten c.a.(Overige fiscale maatregelen 2005).
+*Wijzigt de Wijzigingswet enkele belastingwetten c.a.(Overige fiscale maatregelen 2005).*
 
 ##### Artikel XXVIII
 
-Wijzigt de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling.
+*Wijzigt de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling.*
 
 ##### Artikel XXVIIIa
 
-Wijzigt de Wet arbeid en zorg.
+*Wijzigt de Wet arbeid en zorg.*
 
 ##### Artikel XXVIIIb
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ##### Artikel XXIX
 
@@ -198,23 +178,29 @@ Artikel 76, tweede lid, van de Wet op de accijns, zoals dit lid luidde op 31 dec
 
 ##### Artikel XXXa
 
-Wijzigt de Wijzigingswet Gemeentewet, enz. (afschaffing gebruikersdeel OZB op woningen).
+*Wijzigt de Wijzigingswet Gemeentewet, enz. (afschaffing gebruikersdeel OZB op woningen).*
 
 ##### Artikel XXXI
+
+A. Overgangsrecht Algemene wet inzake rijksbelastingen (wijzigingen heffingsrente)
 
 - 1. De wijzigingen ingevolge artikel XVI, onderdelen B en D, vinden toepassing met betrekking tot tijdvakken die aanvangen op of na 1 januari 2001, voorzover op 1 januari 2006 met betrekking tot de inkomstenbelasting ter zake van te conserveren inkomen als bedoeld in artikel 30f, eerste lid, tweede volzin, van de Algemene wet inzake rijksbelastingen, nog geen handeling of omstandigheid heeft plaatsgevonden op grond waarvan het op de voet van artikel 25, vijfde, zesde of achtste lid, van de Invorderingswet 1990 verleende of te verlenen uitstel van betaling van die belasting, kan worden beëindigd.
 
 - 2. Geen heffingsrente wordt berekend over inkomstenbelasting die is verschuldigd:
 
-- a. ter zake van de vervreemding van tot een aanmerkelijk belang behorende aandelen, winstbewijzen of schuldvorderingen, waarbij artikel 20a, zesde lid, onderdeel i, artikel 48, vierde lid, laatste volzin, of artikel 49, vierde lid, tweede volzin, van de Wet inkomstenbelasting 1964, zoals dit luidde op 31 december 2000, toepassing heeft gevonden, dan wel geen beroep kon worden gedaan op de uitzondering van artikel 20a, zevende lid, van die wet in een situatie van overgang krachtens erfrecht of huwelijksvermogensrecht en de verkrijger een natuurlijk persoon is die niet in Nederland woonachtig is, of
+   - a. ter zake van de vervreemding van tot een aanmerkelijk belang behorende aandelen, winstbewijzen of schuldvorderingen, waarbij artikel 20a, zesde lid, onderdeel i, artikel 48, vierde lid, laatste volzin, of artikel 49, vierde lid, tweede volzin, van de Wet inkomstenbelasting 1964, zoals dit luidde op 31 december 2000, toepassing heeft gevonden, dan wel geen beroep kon worden gedaan op de uitzondering van artikel 20a, zevende lid, van die wet in een situatie van overgang krachtens erfrecht of huwelijksvermogensrecht en de verkrijger een natuurlijk persoon is die niet in Nederland woonachtig is, of
 
-- b. door de toepassing van artikel 45c, derde lid, van de Wet op de inkomstenbelasting 1964 zoals dit luidde op 31 december 2000.
+   - b. door de toepassing van artikel 45c, derde lid, van de Wet op de inkomstenbelasting 1964 zoals dit luidde op 31 december 2000.
 
 - 3. Beschikkingen als bedoeld in artikel 30j, eerste lid, van de Algemene wet inzake rijksbelastingen die betrekking hebben op inkomstenbelasting die is verschuldigd over te conserveren inkomen als bedoeld in artikel 30f, eerste lid, tweede volzin, van die wet of op inkomstenbelasting, bedoeld in het tweede lid, ter zake waarvan op 1 januari 2006 nog geen handeling of omstandigheid heeft plaatsgevonden op basis waarvan het uitstel kan worden beëindigd, vervallen van rechtswege.
+
+B. Overgangsrecht Invorderingswet 1990 (wijzigingen invorderingsrente)
 
 - 1. De wijzigingen ingevolge artikel XVII, onderdeel B, zijn van overeenkomstige toepassing op uitstel van betaling dat voor 1 januari 2006 is verleend op grond van artikel 25, vijfde of achtste lid, van de Invorderingswet 1990 of artikel 25, zevende lid, van de Invorderingswet 1990, zoals dit zevende lid luidde voor 1 januari 2001.
 
 - 2. De wijzigingen ingevolge artikel XVII, onderdeel C, tweede lid, vinden voor het eerst toepassing op uitstel van betaling dat is verleend op grond van artikel 25, vijfde, zesde of achtste lid, van de Invorderingswet 1990 of op grond van artikel 25, zevende lid, van die wet, zoals dit lid luidde voor 1 januari 2001, en dit uitstel wordt beëindigd vanwege een handeling of omstandigheid die zich heeft voorgedaan op of na 1 januari 2006.
+
+C. Overgangsrecht Wet op de loonbelasting 1964 (beëindiging deelname spaarloonregeling in 2006)
 
 Indien voor 1 juli 2006 is gespaard ingevolge een spaarloonregeling als bedoeld in artikel 32 van de Wet op de loonbelasting 1964, kan in afwijking van artikel 19g, vijfde lid, van de Wet op de loonbelasting 1964 in 2006 toch een voorziening ingevolge een levensloopregeling als bedoeld in artikel 19g van die wet worden opgebouwd, indien het ingevolge de spaarloonregeling in 2006 gespaarde bedrag, in afwijking van het in of krachtens artikel 32 van de Wet op de loonbelasting 1964 bepaalde, voor 1 juli 2006 van de spaarloonrekening wordt teruggestort naar de inhoudingsplichtige en deze de terugstorting als loon uitkeert aan de werknemer.
 
@@ -224,7 +210,7 @@ Artikel 27a van de Wet op de accijns vindt geen toepassing bij het begin van het
 
 ##### Artikel XXXIII
 
-Bij ministeriële regeling kunnen de bedragen, genoemd in artikel X, onderdeel C, worden gewijzigd indien de uitkomst van de meldingsprocedure als voorzien in artikel 26, tweede lid, eerste alinea, van [richtlijn 2003/96/EG](32003L0096) van de Raad van de Europese Unie van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEG L 283), daartoe aanleiding geeft.
+Bij ministeriële regeling kunnen de bedragen, genoemd in artikel X, onderdeel C, worden gewijzigd indien de uitkomst van de meldingsprocedure als voorzien in artikel 26, tweede lid, eerste alinea, van richtlijn 2003/96/EG van de Raad van de Europese Unie van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEG L 283), daartoe aanleiding geeft.
 
 ##### Artikel XXXIV
 
@@ -257,17 +243,3 @@ Ingeval de samenloop van wetten die in 2005 in het Staatsblad zijn of worden gep
 ##### Artikel XXXVI
 
 Deze wet wordt aangehaald als: Belastingplan 2006.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2006 wenselijk is maatregelen te treffen op het gebied van arbeidsmarkt- en inkomensbeleid, economische infrastructuur, mobiliteit en milieu, alsmede enkele overige maatregelen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel Ia
-
-Wijzigt de Wet inkomstenbelasting 2001.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

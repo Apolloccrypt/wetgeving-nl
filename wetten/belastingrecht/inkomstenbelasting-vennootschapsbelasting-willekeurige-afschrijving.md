@@ -1,54 +1,73 @@
 ---
 title: "Inkomstenbelasting, vennootschapsbelasting, willekeurige afschrijving"
 identifier: "BWBR0019185"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2005-12-07"
-last_updated: "2005-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019185"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "7958593"
-version_id: "12820312"
-internal_id: "C17295521"
-label_id: "7946504"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019185/2005-12-07/0"
-intitule_bron: "Stcrt.2006-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-07"
-intitule_published: "2006-01-12"
-intitule_in_force: "2006-01-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-9"
-original_signed_date: "2005-12-07"
-original_published_date: "2006-01-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-12-07"
-jci_1_3: "jci1.3:c:BWBR0019185&z=2005-12-07&g=2005-12-07"
-jci_1_0: "1.0:c:BWBR0019185&g=2005-12-07"
-citeertitel_status: "redactioneel"
-signed_date: "2005-12-07"
-entry_into_force: "2005-12-07"
+publicatiedatum: 2005-12-07
+laatste_update: 2005-12-07
+status: geldig
+toestand: 2005-12-07
+bron: "https://wetten.overheid.nl/BWBR0019185"
+opgehaald: 2026-08-09
 ---
+
 # Inkomstenbelasting, vennootschapsbelasting, willekeurige afschrijving
-
-**De directeur-generaal Belastingdienst heeft namens de staatssecretaris van Financiën het volgende besloten.**
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Inleiding
 
 In dit besluit is in paragraaf 1.1 een nieuw standpunt ingenomen betreffende de willekeurige afschrijving.
 
+Voorgaande besluiten
+
+Geactualiseerd
+
 De navolgende (onderdelen van) besluiten zijn geactualiseerd en overgenomen in dit besluit.
+
+- – Besluit van 29 augustus 1991, nr. CA91/98,
+
+- – Besluit van 14 december 2000, nr. CPP2000/2585M, vraag 2,
+
+- – Besluit van 15 december 2000, nr. CPP2000/2195M,
+
+- – Besluit van 11 augustus 2004, nr. CPP2004/664M, onderdeel 6.3,
+
+- – Besluit van 6 september 2004, nr. CPP2004/1538M,
+
+- – Besluit van 12 januari 2005, nr. CPP 2004/2838M.
 
 In het algemeen is er geen inhoudelijke wijziging beoogd ten opzichte van de hiervoor genoemde besluiten.
 
+Niet geactualiseerd
+
 De navolgende (onderdelen van) besluiten, voor zover ze betrekking hebben op de willekeurige afschrijving, bevatten geen beleidsstandpunten en hebben vooral een voorlichtend karakter. Gelet hierop zijn deze (onderdelen van de) besluiten niet in dit besluit overgenomen. Voor zoveel nodig zijn of worden deze onderdelen geactualiseerd verwerkt in voorlichtingsmateriaal.
 
+- – Besluit van 14 december 2000, nr. CPP2000/2585M, vraag 1 (beoordeling ‘starterstatus’ bij gebroken boekjaar),
+
+- – Besluit van 22 december 2000, nr. CPP2000/2442M, onderdeel willekeurige afschrijving (fiscale behandeling quota),
+
+- – Besluit van 27 maart 2001, nr. CPP2001/366M, onderdeel 11 (aanvangsdatum willekeurige afschrijving bij zeeschepen),
+
+- – Besluit van 2 april 2001, nr. CPP2001/784M, (fiscale behandeling pluimveerechten),
+
+- – Besluit van 5 september 2003, nr. CPP2003/2106M, (willekeurig afschrijven binnen gebruiksduur),
+
+- – Besluit van 3 augustus 2004, nr. CPP2004/1120M (willekeurige afschrijving spuitinstallatie),
+
+- – Besluit van 11 augustus 2004, nr. CPP 2004/664M, onderdeel 6.3 (willekeurige afschrijving bij omzetting in BV).
+
+Belang verloren
+
 De navolgende (onderdelen van) besluiten zijn niet opnieuw overgenomen omdat deze hun belang hebben verloren.
+
+- – Besluit van 14 november 2000, nr. CPP2000/2313M (willekeurige afschrijving op zonneboilers),
+
+- – Besluit van 21 juni 2001, nr. RTB 2001/2465M, onderdeel 6.5 (maatregelen mond- en klauwzeer),
+
+- – Besluit van 30 mei 2002, nr. DGB 2002/2811M, onderdeel 9.5 (maatregelen ramp Enschede),
+
+- – Besluit van 12 maart 2003, nr. DGB 2003/1268M, onderdeel 3.1.5 (maatregelen vogelpest),
+
+- – Besluit van 13 mei 2003, nr. CPP2003/977M (willekeurige afschrijving nieuwe gebouwen in aangewezen gemeenten).
 
 ### 1. Willekeurig afschrijven
 
@@ -63,6 +82,8 @@ De willekeurige afschrijving en de investeringsaftrek zijn verschillende facilit
 De investeringsaftrek staat los van de winstbepaling van de materiële onderneming en komt niet in de plaats van enig ander element van de winst. Gelet hierop is het dus mogelijk ter zake van de investering in een bedrijfsmiddel voor de toepassing van de investeringsaftrek te kiezen voor een andere verdeling over de leden van een samenwerkingsverband dan geldt voor de toepassing van de regeling voor de willekeurige afschrijving. Het standpunt dat in principe een vrije verdeling van een investering over de leden van een samenwerkingsverband is toegestaan geldt slechts voor de toepassing van de investeringsaftrek en is niet van toepassing op de regeling van de willekeurige afschrijving.
 
 ### 1.2. Willekeurige afschrijving en afboeking herinvesteringsreserve
+
+Goedkeuring
 
 Het kan zich voordoen dat zaken die op de zogenoemde Milieulijst zijn opgenomen (een niet zelfstandig) onderdeel uitmaken van een niet op de Milieulijst opgenomen bedrijfsmiddel. Het ontmoet bij mij geen bezwaar dat in het kader van de willekeurige afschrijving op milieu-investeringen het gedeelte van de aanschaffings- of voortbrengingskosten dat betrekking heeft op het (niet zelfstandige) onderdeel van het bedrijfsmiddel in aanmerking komt voor willekeurige afschrijving.
 
@@ -98,6 +119,12 @@ Op investeringen in andere aangewezen bedrijfsmiddelen door startende ondernemer
 
 Hierbij machtig ik inspecteurs namens mij, op een daartoe strekkend verzoek, ontheffing te verlenen in geval van verplichtingen aangegaan tussen:
 
+- a. personen die behoren tot het huishouden van de belastingplichtige;
+
+- b. bloed- of aanverwanten in de rechte lijn of personen die behoren tot hun huishouden;
+
+- c. gerechtigden tot een nalatenschap waartoe het bedrijfsmiddel behoort.
+
 In de onder a, b en c genoemde gevallen kan willekeurig worden afgeschreven vanaf het moment van ingebruikname van het desbetreffende bedrijfsmiddel indien afschrijving mogelijk is met toepassing van artikel 3.30, eerste lid, van de Wet IB 2001. Het verzoek dient te zijn ontvangen vóór de datum waarop de aanslag onherroepelijk vaststaat.
 
 ### 2.2.3. Geen machtiging tot verlenen ontheffing
@@ -116,11 +143,23 @@ Van investeringen waarover willekeurig kan worden afgeschreven in de zin van art
 
 Vanuit de praktijk hebben mij signalen bereikt dat een strikt vasthouden aan het onder 3.1.1 opgenomen genoemde standpunt tot uitvoeringsproblemen kan leiden. Het gaat daarbij onder meer om de volgende situaties.
 
+- a. Een zelfstandig belastingplichtige vennootschap investeert en meldt de investering aan. Na de aanmelding wordt een beschikking ex artikel 15 van de Wet Vpb afgegeven, waarbij de vennootschap als dochtermaatschappij wordt opgenomen in een fiscale eenheid. Daarbij kan eventueel sprake zijn van terugwerkende kracht. De betaling en/of ingebruikname van het bedrijfsmiddel vindt plaats in de periode van de fiscale eenheid.
+
+- b. Een investering vindt plaats door een tot een fiscale eenheid voor de vennootschapsbelasting behorende dochtermaatschappij. De moedermaatschappij heeft de aanmelding op haar naam verricht. Nadien wordt de fiscale eenheid verbroken en wordt de dochter zelfstandig belastingplichtig. Daarbij kan eventueel sprake zijn van terugwerkende kracht. De betaling en/of ingebruikname van het bedrijfsmiddel vindt plaats in de periode na verbreking van de fiscale eenheid.
+
+- c. Na aanmelding van de investering door de moedermaatschappij gaat de tot een fiscale eenheid behorende dochtermaatschappij die de investering feitelijk verricht, behoren tot een andere fiscale eenheid voor de vennootschapsbelasting. De betaling en/of ingebruikname van het bedrijfsmiddel vindt plaats in de periode van de nieuwe fiscale eenheid.
+
 Gelet op hetgeen onder ‘Inleiding’ is gesteld, zou onzekerheid kunnen bestaan over de vraag of in de hiervoor genoemde situaties recht bestaat op willekeurige afschrijving milieu-investeringen. Verder is gebleken dat ook in andere gevallen de aanmelding regelmatig plaatsvindt door de investerende dochter binnen de fiscale eenheid. De gewijzigde toelichting vanaf 1 januari 2003 bij de diverse meldingsformulieren zou daartoe aanleiding hebben kunnen geven. Bij een strikte toepassing van mijn standpunt zoals vermeld in de inleiding zou in al deze gevallen de faciliteit moeten worden geweigerd. Te meer nu het gaat om investeringen in milieuvriendelijke bedrijfsmiddelen acht ik het ongewenst dat in situaties zoals hiervoor genoemd het recht op willekeurige afschrijving milieu-investeringen zou vervallen.
 
 ### 3.1.3. Goedkeuring
 
 Voor zover nodig keur ik daarom het volgende goed.
+
+- a. De aanmelding van een investering op naam van een investerende dochter welke op het moment van investeren behoort tot een fiscale eenheid wordt geacht te zijn gedaan door de moedermaatschappij.
+
+- b. Indien de aanmelding van een investering van een dochtermaatschappij heeft plaatsgevonden door de moedermaatschappij, kan de willekeurige afschrijving milieu-investeringen in de periode na verbreking van de fiscale eenheid worden geclaimd door de voormalige dochtermaatschappij die de investering feitelijk heeft verricht. Dit geldt eveneens indien sprake is van een situatie als bedoeld in artikel 15, zevende lid van de Wet Vpb. Indien de investerende vennootschap ten tijde van de betaling en/of ingebruikname is opgenomen in een andere fiscale eenheid kan de nieuwe moedermaatschappij de willekeurige afschrijving milieu-investeringen in haar aangifte claimen.
+
+- c. Indien een zelfstandig belastingplichtige vennootschap de aanmelding heeft verricht en nadien (eventueel met terugwerkende kracht) gaat behoren tot een fiscale eenheid voor de vennootschapsbelasting, kan de willekeurige afschrijving in de periode van de fiscale eenheid worden geclaimd door de moedermaatschappij.
 
 ### 4. Diverse onderwerpen inzake willekeurige afschrijving
 
@@ -137,3 +176,23 @@ In artikel 8 van de Uitvoeringsregeling willekeurige afschrijving 2001 wordt de 
 ### 5. Inwerking treden, intrekking voorgaande besluiten
 
 De navolgende besluiten zijn met ingang van dagtekening van dit besluit ingetrokken:
+
+- – Besluit van 29 augustus 1991, nr. CA91/98,
+
+- – Besluit van 14 november 2000, nr. CPP2000/2313M,
+
+- – Besluit van 14 december 2000, nr. CPP2000/2585M,
+
+- – Besluit van 15 december 2000, nr. CPP2000/2195M,
+
+- – Besluit van 2 april 2001, nr. CPP2001/784M,
+
+- – Besluit van 13 mei 2003, nr. CPP2003/977M,
+
+- – Besluit van 5 september 2003, nr. CPP2003/2106M,
+
+- – Besluit van 3 augustus 2004, nr. CPP2004/1120M,
+
+- – Besluit van 6 september 2004, nr. CPP2004/1538M,
+
+- – Besluit van 12 januari 2005, nr. CPP 2004/2838M.

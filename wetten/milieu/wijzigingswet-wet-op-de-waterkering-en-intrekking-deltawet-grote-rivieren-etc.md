@@ -1,50 +1,22 @@
 ---
 title: "Wet van 28 april 2005 tot wijziging van de Wet op de waterkering en intrekking van de Deltawet grote rivieren, de Deltawet, de Deltaschadewet, de Wet schade oesterkwekers, de Vergunningwet Westerschelde, de Zuiderzeewet en de Zuiderzeesteunwet"
+citeertitel: "Wijzigingswet Wet op de waterkering en intrekking Deltawet grote rivieren, etc."
 identifier: "BWBR0018263"
-country: "nl"
-rank: "wet"
-publication_date: "2005-09-28"
-last_updated: "2005-09-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018263"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "7101943"
-version_id: "11989442"
-internal_id: "C16559041"
-label_id: "7090034"
-original_entry_into_force: "2005-09-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018263/2005-09-28/0"
-intitule_bron: "Stb.2005-275"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-28"
-intitule_published: "2005-06-16"
-intitule_in_force: "2005-09-27"
-intitule_status: "goed"
-original_publication: "Stb.2005-275"
-original_signed_date: "2005-04-28"
-original_published_date: "2005-06-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "29747"
-original_url_id: "stb-2005-275"
-entry_into_force_date: "2005-09-28"
-jci_1_3: "jci1.3:c:BWBR0018263&z=2005-09-28&g=2005-09-28"
-jci_1_0: "1.0:c:BWBR0018263&g=2005-09-28"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op de waterkering en intrekking Deltawet grote rivieren, etc."
-signed_date: "2005-04-28"
-entry_into_force: "2005-09-28"
+publicatiedatum: 2005-09-28
+laatste_update: 2005-09-28
+status: geldig
+toestand: 2005-09-28
+bron: "https://wetten.overheid.nl/BWBR0018263"
+opgehaald: 2026-08-09
 ---
+
 # Wet van 28 april 2005 tot wijziging van de Wet op de waterkering en intrekking van de Deltawet grote rivieren, de Deltawet, de Deltaschadewet, de Wet schade oesterkwekers, de Vergunningwet Westerschelde, de Zuiderzeewet en de Zuiderzeesteunwet
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op de waterkering](https://wetten.overheid.nl/jci1.3:c:BWBR0007801) te wijzigen in verband met de ervaringen die zijn opgedaan bij de toepassing ervan, en om op een aantal punten in de wet aanvullende voorzieningen te treffen, alsmede een aantal wetten in te trekken die nagenoeg zijn uitgewerkt;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op de waterkering.
+*Wijzigt de Wet op de waterkering.*
 
 ##### Artikel II
 
@@ -52,7 +24,7 @@ Toezending van een verslag als bedoeld in [artikel 3, vijfde lid, van de Wet op 
 
 ##### Artikel III
 
-Wijzigt de Wet tegemoetkoming schade bij rampen en zware ongevallen.
+*Wijzigt de Wet tegemoetkoming schade bij rampen en zware ongevallen.*
 
 ##### Artikel IV
 
@@ -104,7 +76,7 @@ De [Zuiderzeesteunwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001925) en het d
 
 ##### Artikel XVI
 
-Wijzigt de Beroepswet.
+*Wijzigt de Beroepswet.*
 
 ##### Artikel XVII
 
@@ -113,5 +85,3 @@ Wijzigt de Beroepswet.
 ##### Artikel XVIII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

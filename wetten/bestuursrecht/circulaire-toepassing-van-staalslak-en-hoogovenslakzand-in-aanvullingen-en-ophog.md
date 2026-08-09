@@ -1,37 +1,16 @@
 ---
 title: "Circulaire Toepassing van staalslak en hoogovenslak(zand) in aanvullingen en ophogingen"
 identifier: "BWBR0018461"
-country: "nl"
-rank: "circulaire"
-publication_date: "2005-07-06"
-last_updated: "2005-07-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018461"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "7143463"
-version_id: "12041512"
-internal_id: "C16148381"
-label_id: "7131494"
-original_entry_into_force: "2005-07-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018461/2005-07-06/0"
-intitule_bron: "Stcrt.2005-128"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-21"
-intitule_published: "2005-07-06"
-intitule_in_force: "2005-07-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-128"
-original_signed_date: "2005-06-21"
-original_published_date: "2005-07-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-128-p19-SC70607"
-entry_into_force_date: "2005-07-06"
-jci_1_3: "jci1.3:c:BWBR0018461&z=2005-07-06&g=2005-07-06"
-jci_1_0: "1.0:c:BWBR0018461&g=2005-07-06"
-citeertitel_status: "redactioneel"
-signed_date: "2005-06-21"
-entry_into_force: "2005-07-06"
+publicatiedatum: 2005-07-06
+laatste_update: 2005-07-06
+status: geldig
+toestand: 2005-07-06
+bron: "https://wetten.overheid.nl/BWBR0018461"
+opgehaald: 2026-08-09
 ---
+
 # Circulaire Toepassing van staalslak en hoogovenslak(zand) in aanvullingen en ophogingen
 
 ### Aanleiding
@@ -54,13 +33,17 @@ Bij de inwerkingtreding van het [Bouwstoffenbesluit bodem- en oppervlaktewateren
 
 Aan de wijze waarop de genoemde effecten in de toekomst kunnen worden vermeden zal aandacht worden besteed bij de fundamentele herziening van het [Bsb](https://wetten.overheid.nl/jci1.3:c:BWBR0007667). Bezien zal worden welke voorzieningen daartoe in het besluit opgenomen kunnen worden. Aangezien het nieuwe besluit niet eerder in werking treedt dan 1 januari 2007, beoog ik met deze circulaire:
 
+- de risico’s van ongebruikelijke toepassingen van bovengenoemde bouwstoffen in aanvullingen of ophogingen onder de aandacht te brengen, en
+
+- aan te geven hoe in de tussenliggende periode met deze toepassingen milieuhygiënisch verantwoord kan worden omgegaan.
+
 ### Zorg voor verantwoorde toepassing
 
-### **Inleiding**
+### Inleiding
 
 Specifieke eisen voor bescherming van bodem en oppervlaktewater bij toepassing van bouwstoffen zijn uitgewerkt in het [Bsb](https://wetten.overheid.nl/jci1.3:c:BWBR0007667), dat hoofdzakelijk is gebaseerd op de [Wet Bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) (Wbb) en de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682) (Wvo). Hiervoor is reeds geconstateerd dat deze specifieke regels van het [Bsb](https://wetten.overheid.nl/jci1.3:c:BWBR0007667) onvoldoende bescherming bieden tegen de thans waargenomen effecten. Dit laat evenwel onverlet dat op een ieder een zorgplicht rust om nadelige gevolgen voor het milieu – in casu de bodem en het oppervlaktewater – te voorkomen.
 
-### **Zorgplichten**
+### Zorgplichten
 
 Voor de bodem is de zorgplicht neergelegd in [artikel 13 van de Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=13). Mede op grond van de memorie van toelichting bij de [Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) en de jurisprudentie kan worden gesteld dat [artikel 13 van de Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) van toepassing is op handelingen die vallen onder het [Bsb](https://wetten.overheid.nl/jci1.3:c:BWBR0007667), maar waarvan bepaalde aspecten niet of nog niet in voldoende mate zijn geregeld.
 
@@ -74,26 +57,24 @@ Toepassing van staalslak en hoogovenslak(zand) als bouwstof in aanvullingen of o
 
 Indien bij de toepassing van andere bouwstoffen het risico bestaat dat zich soortgelijke problemen kunnen voordoen als bij de toepassing van staalslak en hoogovenslak(zand), brengen de zorgplichten met betrekking tot de toepassing van die andere bouwstoffen eveneens met zich mee dat maatregelen dienen te worden getroffen om negatieve gevolgen van uitspoeling naar de bodem en het oppervlaktewater te voorkómen. Indien reeds negatieve effecten zijn opgetreden, dienen maatregelen te worden genomen om die effecten op te heffen.
 
-### **Nadrukkelijk verzoek**
+### Nadrukkelijk verzoek
 
-### **Gebruikers, aannemers en opdrachtgevers**
+### Gebruikers, aannemers en opdrachtgevers
 
 Gezien de grote kans op optreden van negatieve milieueffecten wordt afgeraden, staalslak en hoogovenslak(zand) zonder adequate voorzieningen te gebruiken in aanvullingen of ophogingen. In deze gevallen wordt aanbevolen vroegtijdig contact op te nemen met het bevoegd gezag om in overleg te bezien onder welke voorwaarden deze bouwstoffen eventueel in aanvullingen of ophogingen kunnen worden toegepast.
 
 Ook de voorgenomen toepassing van andere soorten bouwstoffen in voor die bouwstoffen tot nu toe niet gebruikelijke situaties zouden in bijzondere situaties eventueel soortgelijke problemen kunnen opleveren. In die bijzondere gevallen wordt verzocht vroegtijdig contact op te nemen met het bevoegd gezag om in overleg te bezien of, en onder welke voorwaarden, deze bouwstoffen in aanvullingen of ophogingen kunnen worden toegepast. Dit laatste geldt, indien het risico bestaat dat zich soortgelijke problemen zouden kunnen voordoen als in de onderhavige gevallen bij de toepassing van staalslak en hoogovenslak(zand).
 
-### **Producenten/leveranciers**
+### Producenten/leveranciers
 
 Ik ga ervan uit dat bij de producenten en leveranciers van staalslak, cementhoudende materialen en hoogovenslak(zand) voldoende kennis aanwezig is van de mogelijke effecten op de bodem, het oppervlaktewater en de gezondheid van de direct betrokkenen bij de toepassing van deze bouwstoffen in de verschillende situaties die zich kunnen voordoen. Ik doe daarom een beroep op deze producenten en leveranciers hun verantwoordelijkheid te nemen en uiterste zorg te betrachten bij de levering van staalslak, cementhoudende materialen en hoogovenslak(zand) als bouwstof. Hetzelfde beroep doe ik op andere organisaties die bij ontwerp en uitvoering van constructies met deze bouwstoffen zijn betrokken. Ik verzoek producenten en leveranciers om afnemers adequaat te informeren bij aflevering van de onderhavige bouwstoffen.
 
-### **Bevoegd gezag**
+### Bevoegd gezag
 
 Het bevoegd gezag verzoek ik toe te zien op een verantwoorde toepassing van deze bouwstoffen. Uw toezicht kunt u mede baseren op de zorgplicht. Dit betekent dat bij de voorgenomen toepassing van deze bouwstoffen, de milieuhygiënische gevolgen voor bodem en oppervlaktewater voldoende inzichtelijk dienen te zijn en dat gewaarborgd is dat negatieve gevolgen niet optreden. Mocht daarvan na toepassing alsnog sprake zijn, dan ga ik ervan uit dat bestuursrechtelijke maatregelen worden getroffen op grond van de zorgplichten van [artikel 13 van de Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=13), respectievelijk [artikel 1.1a van de Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1). Daarnaast kan bij lozing door directe afvoer van grondwater naar het oppervlaktewater via afspoeling of drainage of door indirecte afvoer via stroming van grondwater naar dat oppervlaktewater als gevolg van toepassingen op of in de (land)bodem – indien noodzakelijk – worden gehandhaafd op het ontbreken van een Wvo-vergunning.
 
-### **Allen**
+### Allen
 
 In alle gevallen zullen leveranciers, gebruikers en toezichthouders zich gezien de zorgplichten rekenschap moeten geven van de specifieke eigenschappen van deze bouwstoffen en bij de toepassing daarvan uiterste zorgvuldigheid in acht moeten nemen. Dat betreft zowel de diverse milieuhygiënische aspecten bij toepassingen als het zorgdragen voor persoonlijke veiligheid en arbeidshygiëne van werknemers en andere betrokkenen in de omgeving (verplichtingen voortvloeiend uit de Arbeidsomstandighedenwet- en regelgeving), mede door gebruikmaking van aanwijzingen in de betreffende materiaalveiligheidsbladen. Het Openbaar Ministerie is bevoegd in voorkomende gevallen over te gaan tot strafrechtelijke handhaving van deze zorgplichten.
 
 Door middel van onderzoek zal het beeld van toepassingen van slakken en andere bouwstoffen waarbij zich soortgelijke problemen zouden kunnen voordoen, mogelijke effecten daarvan en oplossingen worden gecompleteerd. Resultaten van dat onderzoek zullen worden gebruikt bij de fundamentele herziening van het [Bsb](https://wetten.overheid.nl/jci1.3:c:BWBR0007667).
-
-Ik vertrouw erop u hiermee voldoende te hebben geïnformeerd.

@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 20 januari 2005, nr. WJZ 4081042, tot vaststelling van regels over tegemoetkoming van de elektriciteitsproductiesector (Uitvoeringsregeling Overgangswet elektriciteitsproductiesector)"
+citeertitel: "Uitvoeringsregeling Overgangswet elektriciteitsproductiesector"
 identifier: "BWBR0017925"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-07-01"
-last_updated: "2009-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017925"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6708783"
-version_id: "11549792"
-internal_id: "C29132191"
-label_id: "6697284"
-original_entry_into_force: "2005-02-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017925/2009-07-01/0"
-intitule_bron: "Stcrt.2005-22"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-01-20"
-intitule_published: "2005-02-01"
-intitule_in_force: "2005-02-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-22"
-original_signed_date: "2005-01-20"
-original_published_date: "2005-02-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-22-p11-SC68683"
-entry_into_force_date: "2005-02-03"
-jci_1_3: "jci1.3:c:BWBR0017925&z=2009-07-01&g=2009-07-01"
-jci_1_0: "1.0:c:BWBR0017925&g=2009-07-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling Overgangswet elektriciteitsproductiesector"
-signed_date: "2005-01-20"
-entry_into_force: "2005-02-03"
+publicatiedatum: 2005-02-03
+laatste_update: 2009-07-01
+status: geldig
+toestand: 2009-07-01
+bron: "https://wetten.overheid.nl/BWBR0017925"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de Minister van Economische Zaken van 20 januari 2005, nr. WJZ 4081042, tot vaststelling van regels over tegemoetkoming van de elektriciteitsproductiesector (Uitvoeringsregeling Overgangswet elektriciteitsproductiesector)
-
-Gelet op [artikel 8, eerste lid, van de Overgangswet elektriciteitsproductiesector](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&artikel=8);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -130,25 +105,3 @@ Van de beëindiging van een overeenkomst met betrekking tot een project als opge
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Overgangswet elektriciteitsproductiesector.
-
-## Bijlage 1
-
-Ligt ter inzage bij het Ministerie van Economische Zaken, te Den Haag.
-
-## Bijlage 2
-
-Ligt ter inzage bij het Ministerie van Economische Zaken, te Den Haag.
-
-## Bijlage 3
-
-Ligt ter inzage bij het Ministerie van Economische Zaken, te Den Haag.
-
-## Bijlage 4
-
-Ligt ter inzage bij het Ministerie van Economische Zaken, te Den Haag.
-
-## Bijlage 5
-
-Ligt ter inzage bij het Ministerie van Economische Zaken, te Den Haag.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij de Directie Communicatie van het Ministerie van Economische Zaken, Bezuidenhoutseweg 30, Den Haag.

@@ -1,53 +1,18 @@
 ---
 title: "Besluit van 25 april 2005, houdende regels inzake de opleiding tot en de deskundigheid van de klinisch fysicus (Besluit opleidingseisen en deskundigheidsgebied klinisch fysicus)"
+citeertitel: "Besluit opleidingseisen en deskundigheidsgebied klinisch fysicus"
 identifier: "BWBR0018235"
-country: "nl"
-rank: "amvb"
-publication_date: "2009-10-14"
-last_updated: "2009-10-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018235"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "7024793"
-version_id: "11906842"
-internal_id: "C22995021"
-label_id: "7013014"
-original_entry_into_force: "2009-10-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018235/2009-10-14/0"
-intitule_bron: "Stb.2005-265"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-25"
-intitule_published: "2005-05-31"
-intitule_in_force: "2009-10-13"
-intitule_status: "goed"
-original_publication: "Stb.2005-265"
-original_signed_date: "2005-04-25"
-original_published_date: "2005-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2005-265"
-entry_into_force_date: "2009-10-14"
-jci_1_3: "jci1.3:c:BWBR0018235&z=2009-10-14&g=2009-10-14"
-jci_1_0: "1.0:c:BWBR0018235&g=2009-10-14"
-citeertitel_status: "officieel"
-short_title: "Besluit opleidingseisen en deskundigheidsgebied klinisch fysicus"
-signed_date: "2005-04-25"
-entry_into_force: "2009-10-14"
+publicatiedatum: 2009-10-14
+laatste_update: 2009-10-14
+status: geldig
+toestand: 2009-10-14
+bron: "https://wetten.overheid.nl/BWBR0018235"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 25 april 2005, houdende regels inzake de opleiding tot en de deskundigheid van de klinisch fysicus (Besluit opleidingseisen en deskundigheidsgebied klinisch fysicus)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 23 december 2004, IBE/BO-2543982;
-
-Gelet op artikel 7 van [Richtlijn 97/43](31997L0043)/Euratom van de Raad van 30 juni 1997 (PbEG 1997, L 180);
-
-Gelet op [artikel 34 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34);
-
-Gezien het advies van de Raad voor de beroepen in de individuele gezondheidszorg (advies van 12 september 1996);
-
-De Raad van State gehoord (advies van 20 januari 2005, nr. W13.04.0640/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 20 april 2005, IBE/BO-2571147;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
@@ -225,19 +190,19 @@ Aan het einde van de opleiding beschikt de klinisch fysicus, naast de voor zijn 
 
 - b. klinische praktijkervaring in ten minste drie van de volgende medische disciplines:
 
-- 1°. anesthesiologie;
+   - 1°. anesthesiologie;
 
-- 2°. chirurgie;
+   - 2°. chirurgie;
 
-- 3°. interne geneeskunde;
+   - 3°. interne geneeskunde;
 
-- 4°. intensieve zorg;
+   - 4°. intensieve zorg;
 
-- 5°. functie-onderzoek;
+   - 5°. functie-onderzoek;
 
-- 6°. radiologie;
+   - 6°. radiologie;
 
-- 7°. nucleaire geneeskunde.
+   - 7°. nucleaire geneeskunde.
 
 2. Aan het eind van zijn opleiding beschikt de algemeen klinisch fysicus naast de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018235&paragraaf=4&artikel=10&z=2009-10-14&g=2009-10-14) genoemde algemene kundigheden over kennis en vaardigheden inzake:
 
@@ -340,5 +305,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 19
 
 Dit besluit kan worden aangehaald als: Besluit opleidingseisen en deskundigheidsgebied klinisch fysicus.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,57 +1,26 @@
 ---
 title: "Besluit van 7 maart 2005, houdende wijziging van het Besluit geluidhinder spoorwegen en het Subsidiebesluit openbare lichamen milieubeheer (saneringsregeling spoorweglawaai)"
+citeertitel: "Wijzigingsbesluit Besluit geluidhinder spoorwegen, enz. (saneringsregeling spoorweglawaai)"
 identifier: "BWBR0018074"
-country: "nl"
-rank: "amvb"
-publication_date: "2005-04-22"
-last_updated: "2005-04-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018074"
+categorie: "Milieu"
 soort: "AMvB"
-stam_id: "6870013"
-version_id: "11741682"
-internal_id: "C16166291"
-label_id: "6858184"
-original_entry_into_force: "2005-04-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018074/2005-04-22/0"
-intitule_bron: "Stb.2005-145"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-03-07"
-intitule_published: "2005-03-24"
-intitule_in_force: "2005-03-24"
-intitule_status: "goed"
-original_publication: "Stb.2005-145"
-original_signed_date: "2005-03-07"
-original_published_date: "2005-03-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2005-145"
-entry_into_force_date: "2005-04-22"
-jci_1_3: "jci1.3:c:BWBR0018074&z=2005-04-22&g=2005-04-22"
-jci_1_0: "1.0:c:BWBR0018074&g=2005-04-22"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsbesluit Besluit geluidhinder spoorwegen, enz. (saneringsregeling spoorweglawaai)"
-signed_date: "2005-03-07"
-entry_into_force: "2005-04-22"
+publicatiedatum: 2005-04-22
+laatste_update: 2005-04-22
+status: geldig
+toestand: 2005-04-22
+bron: "https://wetten.overheid.nl/BWBR0018074"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 7 maart 2005, houdende wijziging van het Besluit geluidhinder spoorwegen en het Subsidiebesluit openbare lichamen milieubeheer (saneringsregeling spoorweglawaai)
-
-Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 september 2004, nr. MJZ2004088399, Directie Juridische Zaken, Afdeling Wetgeving;
-
-Gelet op de [artikelen 105](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=105) en [107 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=107) en [artikel 15.13, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
-
-De Raad van State gehoord (advies van 3 november 2004, nr. W08.04.0453/V);
-
-Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 28 februari 2005, nr. MJZ2005021467, Directie Juridische Zaken, Afdeling Wetgeving;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Wijzigt het Besluit geluidhinder spoorwegen.
+*Wijzigt het Besluit geluidhinder spoorwegen.*
 
 ##### Artikel II
 
-Wijzigt het Subsidiebesluit openbare lichamen milieubeheer.
+*Wijzigt het Subsidiebesluit openbare lichamen milieubeheer.*
 
 ##### Artikel III
 
@@ -68,5 +37,3 @@ Maatregelen als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c
 ##### Artikel V
 
 Dit besluit treedt in werking met ingang van de vijfde week na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,38 +1,17 @@
 ---
 title: "Besluit van 26 april 2005, houdende regels voor de brede doeluitkering Sociaal, Integratie en Veiligheid van het Grotestedenbeleid (Besluit brede doeluitkering sociaal, integratie en veiligheid)"
+citeertitel: "Besluit brede doeluitkering sociaal, integratie en veiligheid"
 identifier: "BWBR0018238"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018238"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "7023603"
-version_id: "13494662"
-internal_id: "C18130901"
-label_id: "7011934"
-original_entry_into_force: "2006-08-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018238/2015-01-01/0"
-intitule_bron: "Stb.2005-264"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-26"
-intitule_published: "2005-05-31"
-intitule_in_force: "2005-05-31"
-intitule_status: "goed"
-original_publication: "Stb.2006-372"
-original_signed_date: "2006-08-05"
-original_published_date: "2006-08-22"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2006-372"
-entry_into_force_date: "2006-08-05"
-jci_1_3: "jci1.3:c:BWBR0018238&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0018238&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit brede doeluitkering sociaal, integratie en veiligheid"
-signed_date: "2006-08-05"
-entry_into_force: "2006-08-05"
+publicatiedatum: 2006-08-05
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0018238"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 26 april 2005, houdende regels voor de brede doeluitkering Sociaal, Integratie en Veiligheid van het Grotestedenbeleid (Besluit brede doeluitkering sociaal, integratie en veiligheid)
 
 ##### Artikel 1
@@ -57,9 +36,9 @@ entry_into_force: "2006-08-05"
 
 - i. oudkomer:
 
-- 1. persoon die 18 jaar of ouder is, die buiten Nederland is geboren en behoort tot een etnische minderheidsgroep, die rechtmatig in Nederland verblijft anders dan voor een tijdelijk doel als bepaald bij of krachtens de [Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544), en die niet verplicht is om op grond van de [Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544) een inburgeringsprogramma te volgen;
+   - 1. persoon die 18 jaar of ouder is, die buiten Nederland is geboren en behoort tot een etnische minderheidsgroep, die rechtmatig in Nederland verblijft anders dan voor een tijdelijk doel als bepaald bij of krachtens de [Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544), en die niet verplicht is om op grond van de [Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544) een inburgeringsprogramma te volgen;
 
-- 2. geestelijke bedienaar als bedoeld in de [Regeling aanwijzing bijzondere categorieën vreemdelingen ten behoeve van inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0013218), die niet verplicht is om op grond van de [Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544) een inburgerings-programma te volgen;
+   - 2. geestelijke bedienaar als bedoeld in de [Regeling aanwijzing bijzondere categorieën vreemdelingen ten behoeve van inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0013218), die niet verplicht is om op grond van de [Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544) een inburgerings-programma te volgen;
 
 - j. inburgeringsprogramma voor oudkomers: een inburgeringsprogramma dat oudkomers volgen en waarin het onderdeel Nederlands als tweede taal kan worden gekoppeld aan onderdelen voor het bereiken van werk, toegang tot beroepsonderwijs, opvoedingsondersteuning of sociale activering;
 
@@ -79,15 +58,15 @@ entry_into_force: "2006-08-05"
 
 - r. vrijwillige inburgeraar: de Nederlander of de rechtmatig in Nederland verblijvende vreemdeling, bedoeld in [artikel 5, tweede lid, onderdeel a, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5), het rechtmatig in Nederland verblijvende familielid van voornoemde vreemdeling of de rechtmatig in Nederland verblijvende vreemdeling die onderdaan is van een staat wiens onderdanen op grond van bepalingen van verdragen of besluiten van volkenrechtelijke organisaties geen inburgeringsplicht als bedoeld in [artikel 7 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7) kan worden opgelegd, en die
 
-- 1°. ouder is dan 15 jaar;
+   - 1°. ouder is dan 15 jaar;
 
-- 2°. minder dan acht jaren tijdens de leerplichtige leeftijd in Nederland heeft verbleven, en;
+   - 2°. minder dan acht jaren tijdens de leerplichtige leeftijd in Nederland heeft verbleven, en;
 
-- 3°. niet beschikt over een diploma, certificaat of document als bedoeld in [artikel 2.3 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.3);
+   - 3°. niet beschikt over een diploma, certificaat of document als bedoeld in [artikel 2.3 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.3);
 
-- 4°. niet leerplichtig of kwalificatieplichtig is, dan wel een opleiding volgt waarvan de afronding leidt tot uitreiking van een diploma, certificaat of document als bedoeld in [artikel 2.3 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.3);
+   - 4°. niet leerplichtig of kwalificatieplichtig is, dan wel een opleiding volgt waarvan de afronding leidt tot uitreiking van een diploma, certificaat of document als bedoeld in [artikel 2.3 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.3);
 
-- 5°. geen overeenkomst heeft afgesloten op grond van de [Regeling inburgering allochtone vrouwen niet-G31](https://wetten.overheid.nl/jci1.3:c:BWBR0019949), de [Regeling inburgering allochtone vrouwen G31](https://wetten.overheid.nl/jci1.3:c:BWBR0020127), dan wel het extensieve deel van de Pilot inburgering allochtone vrouwen Taal Totaal;
+   - 5°. geen overeenkomst heeft afgesloten op grond van de [Regeling inburgering allochtone vrouwen niet-G31](https://wetten.overheid.nl/jci1.3:c:BWBR0019949), de [Regeling inburgering allochtone vrouwen G31](https://wetten.overheid.nl/jci1.3:c:BWBR0020127), dan wel het extensieve deel van de Pilot inburgering allochtone vrouwen Taal Totaal;
 
 - s. geestelijke bedienaar: de persoon, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=1);
 
@@ -183,9 +162,9 @@ R: het aandeel van de gemeente in de middelen ten behoeve van:
 
 - b. het aandeel van de gemeenten, bedoeld in het eerste lid, onder letter Q, wordt bepaald, met dien verstande dat dit aandeel zal bestaan uit:
 
-- 1°. een vast deel, en
+   - 1°. een vast deel, en
 
-- 2°. een deel dat wordt berekend op de grondslag van door de gemeente gerealiseerde prestaties, vermenigvuldigd met de bijbehorende bijdragevergoedingen, waarvan de hoogte per kalenderjaar kan verschillen;
+   - 2°. een deel dat wordt berekend op de grondslag van door de gemeente gerealiseerde prestaties, vermenigvuldigd met de bijbehorende bijdragevergoedingen, waarvan de hoogte per kalenderjaar kan verschillen;
 
 - c. het aandeel van de gemeenten, bedoeld in het eerste lid, onder letter R, wordt bepaald, met dien verstande dat dit aandeel wordt berekend op de grondslag van door de gemeente gerealiseerde prestaties, vermenigvuldigd met de bijbehorende bijdragevergoedingen, waarvan de hoogte per kalenderjaar kan verschillen.
 
@@ -243,31 +222,31 @@ R: het aandeel van de gemeente in de middelen ten behoeve van:
 
 - o. inburgering van inburgeringsplichtigen en vrijwillige inburgeraars, te weten:
 
-- 1°. het aantal inburgeringsplichtigen aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, en het aantal vrijwillige inburgeraars ten behoeve van wie in 2007 en 2008 voor de eerste keer een inburgeringsvoorziening of een gecombineerde inburgeringsvoorziening zal worden vastgesteld;
+   - 1°. het aantal inburgeringsplichtigen aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, en het aantal vrijwillige inburgeraars ten behoeve van wie in 2007 en 2008 voor de eerste keer een inburgeringsvoorziening of een gecombineerde inburgeringsvoorziening zal worden vastgesteld;
 
-- 2°. het aantal inburgeringsplichtigen en het aantal vrijwillige inburgeraars ten behoeve van wie in 2009 voor de eerste keer een inburgeringsvoorziening of een gecombineerde inburgeringsvoorziening zal worden vastgesteld;
+   - 2°. het aantal inburgeringsplichtigen en het aantal vrijwillige inburgeraars ten behoeve van wie in 2009 voor de eerste keer een inburgeringsvoorziening of een gecombineerde inburgeringsvoorziening zal worden vastgesteld;
 
-- 3°. het aantal inburgeringsplichtigen aan wie een handhavingsbeschikking zal worden bekendgemaakt dan wel een kennisgeving zal worden verstrekt;
+   - 3°. het aantal inburgeringsplichtigen aan wie een handhavingsbeschikking zal worden bekendgemaakt dan wel een kennisgeving zal worden verstrekt;
 
-- 4°. het aantal inburgeringsplichtigen, tevens zijnde geestelijke bedienaar, aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, en het aantal vrijwillige inburgeraars, tevens zijnde geestelijke bedienaar, ten behoeve van wie in 2007 en 2008 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;
+   - 4°. het aantal inburgeringsplichtigen, tevens zijnde geestelijke bedienaar, aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, en het aantal vrijwillige inburgeraars, tevens zijnde geestelijke bedienaar, ten behoeve van wie in 2007 en 2008 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;
 
-- 5°. het aantal inburgeringsplichtigen en vrijwillige inburgeraars, tevens zijnde geestelijke bedienaar, ten behoeve van wie in 2009 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;
+   - 5°. het aantal inburgeringsplichtigen en vrijwillige inburgeraars, tevens zijnde geestelijke bedienaar, ten behoeve van wie in 2009 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;
 
-- 6°. het aantal inburgeringsplichtigen en vrijwillige inburgeraars dat op 1 januari 2007 deelneemt aan opleidingen educatie als bedoeld in [artikel 7.3.1, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), alsmede de omvang van het bedrag dat benodigd is om deze opleidingen educatie gedurende het jaar 2007 te bekostigen;
+   - 6°. het aantal inburgeringsplichtigen en vrijwillige inburgeraars dat op 1 januari 2007 deelneemt aan opleidingen educatie als bedoeld in [artikel 7.3.1, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), alsmede de omvang van het bedrag dat benodigd is om deze opleidingen educatie gedurende het jaar 2007 te bekostigen;
 
-- 7°. het aantal inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget of een lening als bedoeld in [artikel 16 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, ten behoeve van wie in 2008 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;
+   - 7°. het aantal inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget of een lening als bedoeld in [artikel 16 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) is verstrekt, hetzij ten behoeve van wie die lening is terugbetaald, ten behoeve van wie in 2008 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;
 
-- 8°. het aantal inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget is verstrekt, ten behoeve van wie in 2009 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;
+   - 8°. het aantal inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget is verstrekt, ten behoeve van wie in 2009 voor de eerste keer een inburgeringsvoorziening zal worden vastgesteld;
 
-- 9°. het aantal inburgeringsplichtigen, inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget is verstrekt en vrijwillige inburgeraars:
+   - 9°. het aantal inburgeringsplichtigen, inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget is verstrekt en vrijwillige inburgeraars:
 
-- a. ten behoeve van wie in 2008 voor de eerste keer een duale inburgeringsvoorziening als bedoeld in [artikel 1.1, onderdeel r, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=1.1) zal worden vastgesteld en aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;
+      - a. ten behoeve van wie in 2008 voor de eerste keer een duale inburgeringsvoorziening als bedoeld in [artikel 1.1, onderdeel r, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=1.1) zal worden vastgesteld en aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;
 
-- b. ten behoeve van wie in 2009 voor de eerste keer een duale inburgeringsvoorziening als bedoeld in [artikel 1.1, onderdeel r, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=1.1) zal worden vastgesteld;
+      - b. ten behoeve van wie in 2009 voor de eerste keer een duale inburgeringsvoorziening als bedoeld in [artikel 1.1, onderdeel r, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=1.1) zal worden vastgesteld;
 
-- c. ten behoeve van wie in 2008 voor de eerste keer een taalkennisvoorziening als bedoeld in [artikel 19, derde lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=19) zal worden vastgesteld en aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;
+      - c. ten behoeve van wie in 2008 voor de eerste keer een taalkennisvoorziening als bedoeld in [artikel 19, derde lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=19) zal worden vastgesteld en aan wie geen lening als bedoeld in [artikel 16 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;
 
-- d. ten behoeve van wie in 2009 voor de eerste keer een taalkennisvoorziening als bedoeld in [artikel 19, derde lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=19) zal worden vastgesteld.
+      - d. ten behoeve van wie in 2009 voor de eerste keer een taalkennisvoorziening als bedoeld in [artikel 19, derde lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=19) zal worden vastgesteld.
 
 2. De resultaten ten aanzien van de onderwerpen, genoemd in het eerste lid, onder a tot en met o, worden geformuleerd met inachtneming van de bij regeling van Onze Minister vast te stellen indicatoren. Bij de regeling van Onze Minister worden de categorieën van middelen van het programmadeel, percentsgewijs toegedeeld aan één of meer indicatoren.
 
@@ -303,9 +282,9 @@ R: het aandeel van de gemeente in de middelen ten behoeve van:
 
 - a. het deel, bedoeld in [artikel 4, tweede lid, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=4&z=2015-01-01&g=2015-01-01), een vast bedrag vermeld, bestaande uit:
 
-- 1°. het bedrag, bedoeld in [artikel 7, eerste lid, onderdeel o, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7&z=2015-01-01&g=2015-01-01);
+   - 1°. het bedrag, bedoeld in [artikel 7, eerste lid, onderdeel o, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7&z=2015-01-01&g=2015-01-01);
 
-- 2°. een door Onze Minister te bepalen bedrag ten behoeve van de door de gemeente te verstrekken informatie aan (potentiële) inburgeringsplichtigen omtrent het inburgeringsstelsel van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611);
+   - 2°. een door Onze Minister te bepalen bedrag ten behoeve van de door de gemeente te verstrekken informatie aan (potentiële) inburgeringsplichtigen omtrent het inburgeringsstelsel van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611);
 
 - b. het deel, bedoeld in [artikel 4, tweede lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=4&z=2015-01-01&g=2015-01-01), voor zover betrekking hebbende op prestaties op grond van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611), in plaats van van de bijdragevergoedingen, bedoeld in [artikel 4, tweede lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=4&z=2015-01-01&g=2015-01-01), uitgegaan van voorschotvergoedingen, waarvan de hoogte wordt bepaald volgens bij regeling van Onze Minister te stellen regels.
 
@@ -333,7 +312,7 @@ Onze Minister verbindt aan de verlening van de uitkering verplichtingen met betr
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -525,15 +504,15 @@ Onverschuldigd betaalde voorschotten op het programmadeel kunnen worden teruggev
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Wijzigt het Bekostigingsbesluit inburgering nieuwkomers.
+*Wijzigt het Bekostigingsbesluit inburgering nieuwkomers.*
 
 ##### Artikel 32
 
-Wijzigt het Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten.
+*Wijzigt het Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten.*
 
 ##### Artikel 33
 
@@ -547,6 +526,10 @@ Wijzigt het Besluit regionale meld- en coördinatiefunctie voortijdig schoolverl
 
 2. Bij regeling van Onze Minister worden regels gegeven voor de verstrekking van de subsidies, bedoeld in het eerste lid.
 
+##### Artikel 34a
+
+De aanvraag tot verlening van de uitkering, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=5&z=2015-01-01&g=2015-01-01), zoals die door de colleges van burgemeester en wethouders is gedaan, wordt voor het inburgeringsdeel geacht mede betrekking te hebben op het jaar 2006.
+
 ##### Artikel 35
 
 1. Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt voor wat betreft [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=6&z=2015-01-01&g=2015-01-01) terug tot en met 1 november 2004, voor wat betreft [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=31&z=2015-01-01&g=2015-01-01) terug tot en met 1 september 2004 en voor wat betreft de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=32&z=2015-01-01&g=2015-01-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=34&z=2015-01-01&g=2015-01-01) tot en met 1 januari 2005.
@@ -556,21 +539,3 @@ Wijzigt het Besluit regionale meld- en coördinatiefunctie voortijdig schoolverl
 ##### Artikel 36
 
 Dit besluit wordt aangehaald als: Besluit brede doeluitkering sociaal, integratie en veiligheid.
-
-Op de voordracht van Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties van 15 december 2004, nr. 2004-0000041290, Directie Grotestedenbeleid en Interbestuurlijke Betrekkingen, gedaan mede namens Onze Ministers van Justitie, voor Vreemdelingenzaken en Integratie, van Binnenlandse Zaken en Koninkrijksrelaties en van Onderwijs, Cultuur en Wetenschap, alsmede de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, drs. M. Rutte, en de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
-
-Gelet op [artikel 89 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=89), [artikel 17, derde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), [artikel 10a, eerste en tweede lid, van de Welzijnswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006705&artikel=10a), [artikel 16 van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=16) en [artikel 2.3.1, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1);
-
-De Raad van State gehoord (advies van 21 februari 2005, nr. W04.04.0608/I);
-
-Gezien het nader rapport van Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties van 12 april 2005, nr. 2005-0000045459, Directie Grotestedenbeleid en Interbestuurlijke Betrekkingen, uitgebracht mede namens Onze Ministers van Justitie, voor Vreemdelingenzaken en Integratie, van Binnenlandse Zaken en Koninkrijksrelaties, van Onderwijs, Cultuur en Wetenschap en van Volksgezondheid, Welzijn en Sport, alsmede de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, drs. M. Rutte, en de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 34a
-
-De aanvraag tot verlening van de uitkering, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=5&z=2015-01-01&g=2015-01-01), zoals die door de colleges van burgemeester en wethouders is gedaan, wordt voor het inburgeringsdeel geacht mede betrekking te hebben op het jaar 2006.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

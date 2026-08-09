@@ -1,18 +1,18 @@
 ---
-title: "Reïntegratieregeling"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2005, Directie Sociale Verzekeringen, nr. SV/R&S/2005/102050, houdende regels met betrekking tot reïntegratie (Reïntegratieregeling)"
+citeertitel: "Reïntegratieregeling"
 identifier: "BWBR0019297"
-categorie: "Overig"
-publicatiedatum: 2026-05-02
-laatste_update: 2026-05-05
+categorie: "Sociaal recht"
+soort: "ministeriele-regeling"
+publicatiedatum: 2019-01-01
+laatste_update: 2026-05-02
 status: geldig
+toestand: 2026-05-02
 bron: "https://wetten.overheid.nl/BWBR0019297"
+opgehaald: 2026-08-09
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2005, Directie Sociale Verzekeringen, nr. SV/R&S/2005/102050, houdende regels met betrekking tot reïntegratie (Reïntegratieregeling)
-
-Gelet op de [artikelen 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5), en [15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15), [artikel 65h van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65h), [artikel 65 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=65), [artikel 59i van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59i), en [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8);
-
-Besluit:
 
 #### § 1. Diversen
 
@@ -42,15 +42,27 @@ Besluit:
 
 ##### Artikel 2. Aanvraagtermijnen loon- en inkomenssuppletie
 
-1. Een aanvraag voor loonsuppletie als bedoeld in [artikel 65c van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65c), [artikel 67a van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67a)en [artikel 2:25](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:25) of [3:67 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:67) wordt ingediend binnen twee maanden na aanvang van het werk in dienstbetrekking, dan wel bij aanvang van de werkzaamheden voordat een besluit over de mate van arbeidsongeschiktheid is genomen, binnen twee maanden nadat dat besluit is genomen.
+1. Een aanvraag voor loonsuppletie als bedoeld in [artikel 65c van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65c), [artikel 67a van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67a)en [artikel 2:25](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:25) of [3:67 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:67) wordt ingediend binnen twee maanden na aanvang van het werk in dienstbetrekking, dan wel bij aanvang van de werkzaamheden voordat een besluit over de mate van arbeidsongeschiktheid is genomen, binnen twee maanden nadat dat besluit is genomen.
 
-2. Een aanvraag voor inkomenssuppletie als bedoeld in [artikel 65d van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65d), [artikel 67b van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67b) en [artikel 2:26](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:26) of [3:68 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:68) wordt ingediend binnen zes maanden na afloop van het boekjaar waarin de uitoefening van het bedrijf of beroep is voortgezet of waarin de persoon, die recht heeft op een uitkering op grond van een van de hiervoor genoemde wetten, werkzaamheden als zelfstandige is gaan verrichten.
+2. Een aanvraag voor inkomenssuppletie als bedoeld in [artikel 65d van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65d), [artikel 67b van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67b) en [artikel 2:26](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:26) of [3:68 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:68) wordt ingediend binnen zes maanden na afloop van het boekjaar waarin de uitoefening van het bedrijf of beroep is voortgezet of waarin de persoon, die recht heeft op een uitkering op grond van een van de hiervoor genoemde wetten, werkzaamheden als zelfstandige is gaan verrichten.
 
 3. Bij overschrijding van de termijnen, bedoeld in het eerste of tweede lid, wordt geen loonsuppletie verstrekt over een periode die gelegen is meer dan twee maanden voor de aanvraag, respectievelijk geen inkomenssuppletie verstrekt over het boekjaar of de boekjaren gelegen voor de aanvraag.
 
 ##### Artikel 3. Maximaal bedrag starterskrediet
 
-Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 47.285,37.
+Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 47.285,37.
+
+##### Artikel 3a. Hoorhulpmiddelen voor de werksituatie waarvoor geen vergoeding wordt verleend
+
+[Artikel 2, tweede lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2) is niet van toepassing op de verlening van de volgende voorzieningen:
+
+- a. een hulpmiddel ter correctie van stoornissen in de hoorfunctie als bedoeld in [artikel 2.10, eerste lid, onderdeel a, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=2.10);
+
+- b. een geheel en gedeeltelijk implanteerbaar hoorhulpmiddel;
+
+- c. een aanvullend hulpmiddel als bedoeld in [artikel 2.10, eerste lid, onderdeel b, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=2.10), waarbij sprake is van draadloze signaaloverdracht naar een hulpmiddel als bedoeld in onderdeel a; en
+
+- d. wek- of waarschuwingsapparatuur als bedoeld in [artikel 2.10, eerste lid, onderdeel b, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=2.10).
 
 #### § 2. Inkomenstoets vervoersvoorzieningen
 
@@ -60,7 +72,7 @@ Voor de toepassing van [artikel 5, eerste lid, van het Reïntegratiebesluit](htt
 
 - a. uitkeringen op grond van een werknemersverzekering, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
 
-- b. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
+- b. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
 
 - c. een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
 
@@ -69,6 +81,10 @@ Voor de toepassing van [artikel 5, eerste lid, van het Reïntegratiebesluit](htt
 - e. een uitkering op grond van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
 
 - f. een algemene bijstandsuitkering op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
+
+##### Artikel 4a. Overgangsrecht
+
+*Vervallen*
 
 ##### Artikel 5. Inkomen echtgenoot
 
@@ -80,7 +96,7 @@ Op het inkomen worden in mindering gebracht kosten ter zake van ziekte of arbeid
 
 ##### Artikel 7. Buiten beschouwing blijvende bedragen bij inkomensvaststelling
 
-Bij het vaststellen van het inkomen blijft buiten beschouwing het bedrag waarmee de uitkering of inkomensvoorziening op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), of een combinatie hiervan is verhoogd, op grond van [artikel 22 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=53)of[63 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=63), [artikel 10 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), of [artikel 2:51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:51) of [3:9 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:9), of een combinatie van deze artikelen.
+Bij het vaststellen van het inkomen blijft buiten beschouwing het bedrag waarmee de uitkering of inkomensvoorziening op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), of een combinatie hiervan is verhoogd, op grond van [artikel 22 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=53)of[63 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=63), [artikel 10 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), of [artikel 2:51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:51) of [3:9 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:9), of een combinatie van deze artikelen.
 
 ##### Artikel 8. Vaststelling inkomen van personen die de leeftijd van 18 jaar nog niet hebben bereikt
 
@@ -100,7 +116,7 @@ Indien een persoon in het kalenderjaar waarin hij een vervoersvoorziening heeft 
 
 - b. vanaf de datum waarop hij 18 jaar wordt, het inkomen in aanmerking genomen dat in aanmerking zou zijn genomen indien hij gedurende het gehele kalenderjaar reeds de leeftijd van 18 jaar had bereikt.
 
-##### Artikel 10. Vaststelling van het inkomen in het jaar van het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a)
+##### Artikel 10. Vaststelling van het inkomen in het jaar van het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet
 
 1. Indien een persoon aan wie een vervoersvoorziening is toegekend de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) bereikt, wordt voor de toepassing van [artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5) onder inkomen verstaan het inkomen dat deze persoon over dat kalenderjaar zou hebben genoten indien hij in dat jaar niet de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet had bereikt.
 
@@ -134,13 +150,39 @@ Indien een persoon in het kalenderjaar waarin hij een vervoersvoorziening heeft 
 
 #### § 2a. Inkomenstoets voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
+##### Artikel 12a. Inkomen
+
+Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) wordt onder inkomen verstaan hetgeen onder inkomen wordt verstaan op grond van [artikel 3:2, eerste en tweede lid, van het Algemeen inkomensbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&artikel=3:2) vermeerderd met:
+
+- a. uitkeringen op grond van een werknemersverzekering, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
+
+- b. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
+
+- c. een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
+
+- d. een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044);
+
+- e. een uitkering op grond van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
+
+- f. een algemene bijstandsuitkering op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
+
+##### Artikel 12b. Aftrekbare kosten
+
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2026-05-02&g=2026-05-02) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2026-05-02&g=2026-05-02).
+
+##### Artikel 12ab. Overgangsrecht
+
+*Vervallen*
+
+#### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
+
 ##### Artikel 13. Verdeling werkloosheidsfondsen/arbeidsongeschiktheidsfondsen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. Onderlinge verdeling arbeidsongeschiktheidsfondsen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15. Onderlinge verdeling werkloosheidsfondsen
 
@@ -158,6 +200,12 @@ waarbij :
 
 - 4. B t 50 procent is van de benodigde middelen tot dekking van de uitgaven in genoemd bepaald kalenderjaar ten laste van het Reïntegratiefonds.
 
+#### § 4. Overgangs- en slotbepalingen
+
+##### Artikel 15a. Overgangsbepaling
+
+*Vervallen*
+
 ##### Artikel 16. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 29 december 2005.
@@ -165,73 +213,3 @@ Deze regeling treedt in werking met ingang van 29 december 2005.
 ##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Reïntegratieregeling.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 12a. Inkomen
-
-Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) wordt onder inkomen verstaan hetgeen onder inkomen wordt verstaan op grond van [artikel 3:2, eerste en tweede lid, van het Algemeen inkomensbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&artikel=3:2) vermeerderd met:
-
-- a. uitkeringen op grond van een werknemersverzekering, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
-
-- b. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
-
-- c. een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
-
-- d. een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044);
-
-- e. een uitkering op grond van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
-
-- f. een algemene bijstandsuitkering op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
-
-##### Artikel 12b. Aftrekbare kosten
-
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2026-05-02&g=2026-05-02) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2026-05-02&g=2026-05-02).
-
-#### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a. Overgangsrecht
-
-Vervallen
-
-#### § 2a. Inkomenstoets voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
-
-##### Artikel 12ab. Overgangsrecht
-
-Vervallen
-
-#### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 4. Overgangs- en slotbepalingen
-
-##### Artikel 15a. Overgangsbepaling
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a. Hoorhulpmiddelen voor de werksituatie waarvoor geen vergoeding wordt verleend
-
-[Artikel 2, tweede lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2) is niet van toepassing op de verlening van de volgende voorzieningen:
-
-- a. een hulpmiddel ter correctie van stoornissen in de hoorfunctie als bedoeld in [artikel 2.10, eerste lid, onderdeel a, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=2.10);
-
-- b. een geheel en gedeeltelijk implanteerbaar hoorhulpmiddel;
-
-- c. een aanvullend hulpmiddel als bedoeld in [artikel 2.10, eerste lid, onderdeel b, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=2.10), waarbij sprake is van draadloze signaaloverdracht naar een hulpmiddel als bedoeld in onderdeel a; en
-
-- d. wek- of waarschuwingsapparatuur als bedoeld in [artikel 2.10, eerste lid, onderdeel b, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=2.10).
-
-#### § 2. Inkomenstoets vervoersvoorzieningen
-
-#### § 2a. Inkomenstoets voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
-
-#### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
-
-#### § 4. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

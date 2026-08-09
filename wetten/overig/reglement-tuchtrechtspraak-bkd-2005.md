@@ -1,38 +1,17 @@
 ---
 title: "Reglement tuchtrechtspraak BKD 2005"
 identifier: "BWBR0017866"
-country: "nl"
-rank: "zbo"
-publication_date: "2005-11-27"
-last_updated: "2005-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017866"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "7621413"
-version_id: "12511552"
-internal_id: "C16788091"
-label_id: "7609354"
-dtd_version: "2.0"
-original_entry_into_force: "2005-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017866/2005-11-27/0"
-intitule_bron: "Stcrt.2005-230"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2005-11-25"
-intitule_in_force: "2005-11-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-230"
-original_published_date: "2005-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-230-p15-SC72140"
-entry_into_force_date: "2005-11-27"
-jci_1_3: "jci1.3:c:BWBR0017866&z=2005-11-27&g=2005-11-27"
-jci_1_0: "1.0:c:BWBR0017866&g=2005-11-27"
-citeertitel_status: "officieel"
-entry_into_force: "2005-11-27"
+publicatiedatum: 2005-11-27
+laatste_update: 2005-11-27
+status: geldig
+toestand: 2005-11-27
+bron: "https://wetten.overheid.nl/BWBR0017866"
+opgehaald: 2026-08-09
 ---
-# Reglement tuchtrechtspraak BKD 2005
 
-Gelet op [artikel 13, derde lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13) en [artikel 2 van het Tuchtrechtbesluit Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&artikel=2) heeft het bestuur van de Stichting Bloembollenkeuringsdienst in haar vergadering van 25 april 2005 het navolgende reglement vastgesteld. Het reglement is goedgekeurd door de Minister van Landbouw, Natuur en Voedselkwaliteit.
+# Reglement tuchtrechtspraak BKD 2005
 
 ### Hoofdstuk I. Algemeen
 
@@ -120,11 +99,11 @@ De [artikelen 13, eerste lid van de Landbouwkwaliteitswet](https://wetten.overhe
 
 1. Een zaak wordt door of namens het bestuur van de Stichting binnen een redelijke termijn na constatering van de overtreding aanhangig gemaakt door middel van een schriftelijke verklaring, inhoudende:
 
-- –. Een korte omschrijving van de ten laste gelegde overtreding.
+- – Een korte omschrijving van de ten laste gelegde overtreding.
 
-- –. Een verklaring van relevante feiten.
+- – Een verklaring van relevante feiten.
 
-- –. De naam en het adres van de betrokken aangeslotene of aangeslotenen.
+- – De naam en het adres van de betrokken aangeslotene of aangeslotenen.
 
 2. Door of namens het bestuur kan bij de in het eerste lid bedoelde schriftelijke verklaring een voorstel worden gevoegd omtrent de toe te passen tuchtrechtelijke maatregel.
 

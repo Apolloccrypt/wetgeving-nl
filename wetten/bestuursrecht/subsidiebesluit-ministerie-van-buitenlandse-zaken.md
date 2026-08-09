@@ -1,54 +1,20 @@
 ---
 title: "Besluit van 19 februari 2005, houdende nadere regels met betrekking tot de verstrekking van subsidies door de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking (Subsidiebesluit Ministerie van Buitenlandse Zaken)"
+citeertitel: "Subsidiebesluit Ministerie van Buitenlandse Zaken"
 identifier: "BWBR0018039"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018039"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "6868743"
-version_id: "18058682"
-internal_id: "C25104641"
-label_id: "6857444"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018039/2013-07-01/0"
-intitule_bron: "Stb.2005-137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-02-19"
-intitule_published: "2005-03-22"
-intitule_in_force: "2005-03-22"
-intitule_status: "goed"
-original_publication: "Stb.2010-720"
-original_signed_date: "2010-09-28"
-original_published_date: "2010-10-22"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2010-720"
-entry_into_force_date: "2010-10-23"
-jci_1_3: "jci1.3:c:BWBR0018039&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBR0018039&g=2013-07-01"
-citeertitel_status: "officieel"
-short_title: "Subsidiebesluit Ministerie van Buitenlandse Zaken"
-signed_date: "2010-09-28"
-entry_into_force: "2010-10-23"
+publicatiedatum: 2010-10-23
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBR0018039"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 19 februari 2005, houdende nadere regels met betrekking tot de verstrekking van subsidies door de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking (Subsidiebesluit Ministerie van Buitenlandse Zaken)
 
-Op de voordracht van Onze Minister van Buitenlandse Zaken van 22 juli 1999, nr. DJZ/BR/1257-99, gedaan mede namens Onze Minister voor Ontwikkelingssamenwerking;
-
-Gelet op [artikel 3, eerste en tweede lid, van de Kaderwet subsidies Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3);
-
-De Raad van State gehoord (advies van 11 november 1999, nr. W02.99.0422/II);
-
-Gezien het nader rapport van Onze Minister van Buitenlandse Zaken van 11 februari 2005, nr. DJZ/BR/0074-05, uitgebracht mede namens Onze Minister voor Ontwikkelingssamenwerking;
-
-Hebben goedgevonden en verstaan:
-
-### Afdeling 1. Algemeen
-
-#### Paragraaf 1. Begripsomschrijving; reikwijdte
+#### Paragraaf 1. Algemeen
 
 ##### Artikel 1
 
@@ -66,7 +32,7 @@ Subsidie kan worden verstrekt voor bij ministeriële regeling aangeduide activit
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 2. Subsidieontvangers
 
@@ -84,7 +50,7 @@ Vervallen
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 3. Beleidsregels; subsidieplafond; verdeling
 
@@ -152,7 +118,7 @@ Onverminderd het overigens bij of krachtens de wet bepaalde kan Onze Minister de
 
 Subsidie wordt slechts verstrekt indien de aanvrager aannemelijk maakt dat de hem ten dienste staande financiële middelen, met inbegrip van de subsidie, voldoende zullen zijn om de voorgenomen activiteiten uit te voeren.
 
-#### Paragraaf 5. Subsidieverleningstijdvak; begrotingsvoorbehoud
+#### Paragraaf 5. Tijdvak; begrotingsvoorbehoud
 
 ##### Artikel 12
 
@@ -178,25 +144,23 @@ Subsidie wordt verstrekt voor een bij de subsidieverstrekking vast te stellen ti
 
 Bij de subsidieverlening kan worden bepaald dat de kosten van de activiteiten, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=6&artikel=14&z=2013-07-01&g=2013-07-01), op normatieve grondslag worden berekend op voet van de gerealiseerde resultaten van de activiteiten of op een andere bij de subsidieverlening bepaalde grondslag en dat in het subsidiebedrag een genormeerde vergoeding voor de personele en materiële kosten van de subsidieontvanger is begrepen.
 
-#### Paragraaf 7. Vaststelling; voorschotten
-
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
-#### Paragraaf 8. Verplichtingen voor de subsidieontvanger
+#### Paragraaf 7. Verplichtingen voor de subsidieontvanger
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
@@ -222,7 +186,15 @@ Bij de subsidieverstrekking kan worden bepaald dat de subsidieontvanger Onze Min
 
 Bij de subsidieverstrekking kan worden bepaald dat de subsidieontvanger bij publicaties inzake gesubsidieerde activiteiten en in correspondentie met derden die bij de uitvoering van de activiteiten zijn betrokken, melding maakt van de omstandigheid dat de activiteiten geheel of gedeeltelijk bekostigd zijn uit een subsidie verstrekt door Onze Minister, tenzij de aard van de activiteiten, de hoedanigheid van de ontvanger of andere gewichtige omstandigheden zich daartegen verzetten.
 
-### Afdeling 2. Activiteitensubsidies
+##### Artikel 24a
+
+Aan de subsidieverstrekking kunnen verplichtingen als bedoeld in [artikel 4:39, tweede lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:39) worden verbonden, met het oog op de belangen, genoemd in [artikel 2, onder a tot en met h, van de Kaderwet subsidies Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=2) en in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=4&artikel=8&z=2013-07-01&g=2013-07-01).
+
+##### Artikel 24b
+
+Bij de subsidieverlening wordt bepaald dat de subsidieontvanger onverwijld een schriftelijke melding doet zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
+
+#### Paragraaf 8. Aanvragen; termijnen
 
 ##### Artikel 25
 
@@ -284,29 +256,27 @@ Indien toepassing is gegeven aan [artikel 4:5 van de Algemene wet bestuursrecht]
 
 Betaling van voorschotten vindt plaats in termijnen waarvan hoogte en betalingstijdstip in de beschikking tot subsidieverlening worden vastgelegd.
 
-### Afdeling 3. Instellingssubsidies
-
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
-### Afdeling 4. Subsidies lager dan € 25.000
+#### Paragraaf 9. Subsidies lager dan € 25.000
 
 ##### Artikel 39
 
@@ -328,6 +298,8 @@ Vervallen
 
 3. Bevoorschotting vindt plaats tot honderd procent van het verleende bedrag in termijnen waarvan hoogte en betalingstijdstip in de beschikking tot subsidieverlening worden vastgelegd.
 
+#### Paragraaf 10. Subsidies tussen € 25.000 en € 125.000
+
 ##### Artikel 41
 
 1. Subsidies voor een bedrag van ten minste € 25.000 tot ten hoogste € 125.000 worden verstrekt in de vorm van een vast bedrag of een vast bedrag overeenkomstig een in de beschikking te bepalen grondslag die is gerelateerd aan de gerealiseerde resultaten.
@@ -336,15 +308,15 @@ Vervallen
 
 3. Indien de kosten en opbrengsten in verband met de aard van de activiteiten zodanig ongewis zijn dat een realistische begroting niet kan worden vereist, kan in de beschikking worden bepaald dat de subsidieontvanger op basis van een verklaring inzake werkelijke kosten en opbrengsten aantoont dat de activiteiten zijn verricht.
 
+#### Paragraaf 11. Slotbepalingen
+
 ##### Artikel 42
 
-Vervallen
-
-### Afdeling 5. Slotbepalingen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
@@ -353,35 +325,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2006.
 ##### Artikel 45
 
 Dit besluit wordt aangehaald als: Subsidiebesluit Ministerie van Buitenlandse Zaken.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Paragraaf 1. Algemeen
-
-#### Paragraaf 2. Subsidieontvangers
-
-#### Paragraaf 3. Beleidsregels; subsidieplafond; verdeling
-
-#### Paragraaf 4. Beoordeling
-
-#### Paragraaf 5. Tijdvak; begrotingsvoorbehoud
-
-#### Paragraaf 6. Subsidiabele kosten
-
-#### Paragraaf 7. Verplichtingen voor de subsidieontvanger
-
-##### Artikel 24a
-
-Aan de subsidieverstrekking kunnen verplichtingen als bedoeld in [artikel 4:39, tweede lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:39) worden verbonden, met het oog op de belangen, genoemd in [artikel 2, onder a tot en met h, van de Kaderwet subsidies Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=2) en in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=4&artikel=8&z=2013-07-01&g=2013-07-01).
-
-##### Artikel 24b
-
-Bij de subsidieverlening wordt bepaald dat de subsidieontvanger onverwijld een schriftelijke melding doet zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
-
-#### Paragraaf 8. Aanvragen; termijnen
-
-#### Paragraaf 9. Subsidies lager dan € 25.000
-
-#### Paragraaf 10. Subsidies tussen € 25.000 en € 125.000
-
-#### Paragraaf 11. Slotbepalingen

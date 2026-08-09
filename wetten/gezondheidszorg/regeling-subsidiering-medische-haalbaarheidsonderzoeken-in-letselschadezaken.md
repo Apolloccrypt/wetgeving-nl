@@ -1,42 +1,17 @@
 ---
 title: "Regeling subsidiëring medische haalbaarheidsonderzoeken in letselschadezaken"
 identifier: "BWBR0018592"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-07-24"
-last_updated: "2005-05-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018592"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "7164963"
-version_id: "12080132"
-internal_id: "C29184421"
-label_id: "7152884"
-original_entry_into_force: "2005-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018592/2005-07-24/0"
-intitule_bron: "Stcrt.2005-140"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-07-12"
-intitule_published: "2005-07-22"
-intitule_in_force: "2005-07-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-140"
-original_signed_date: "2005-07-12"
-original_published_date: "2005-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-140-p9-SC70807"
-entry_into_force_date: "2005-07-24"
-jci_1_3: "jci1.3:c:BWBR0018592&z=2005-07-24&g=2005-07-24"
-jci_1_0: "1.0:c:BWBR0018592&g=2005-07-24"
-citeertitel_status: "officieel"
-signed_date: "2005-07-12"
-entry_into_force: "2005-07-24"
+publicatiedatum: 2005-07-24
+laatste_update: 2005-07-24
+status: geldig
+toestand: 2005-07-24
+bron: "https://wetten.overheid.nl/BWBR0018592"
+opgehaald: 2026-08-09
 ---
+
 # Regeling subsidiëring medische haalbaarheidsonderzoeken in letselschadezaken
-
-Gelet op [artikel 4:23, derde lid, onder d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -72,11 +47,11 @@ Besluit:
 
 - c. een verklaring van de rechtsbijstandverlener, inhoudende dat:
 
-- 1°. aansprakelijkheid in de letselschadezaak niet vaststaat;
+   - 1°. aansprakelijkheid in de letselschadezaak niet vaststaat;
 
-- 2°. het onderzoek noodzakelijk is ter beoordeling van de medische haalbaarheid van de letselschadezaak;
+   - 2°. het onderzoek noodzakelijk is ter beoordeling van de medische haalbaarheid van de letselschadezaak;
 
-- 3°. hij ermee instemt dat het voorschot, bedoeld in het vierde lid, door zijn tussenkomst door de raad wordt betaald aan de rechtzoekende.
+   - 3°. hij ermee instemt dat het voorschot, bedoeld in het vierde lid, door zijn tussenkomst door de raad wordt betaald aan de rechtzoekende.
 
 3. De subsidie bedraagt ten hoogste € 200, vermeerderd met de verschuldigde omzetbelasting, per medisch haalbaarheidsonderzoek.
 
@@ -113,5 +88,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling subsidiëring medische haalbaarheidsonderzoeken in letselschadezaken.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

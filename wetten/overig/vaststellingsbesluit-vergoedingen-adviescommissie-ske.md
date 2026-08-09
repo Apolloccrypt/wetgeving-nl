@@ -1,44 +1,18 @@
 ---
 title: "Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie SKE"
+citeertitel: "Vaststellingsbesluit vergoedingen Adviescommissie SKE"
 identifier: "BWBR0019118"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-02-01"
-last_updated: "2006-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019118"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "7667293"
-version_id: "12552912"
-internal_id: "C16865431"
-label_id: "7654984"
-dtd_version: "2.0"
-original_entry_into_force: "2006-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019118/2006-02-01/0"
-intitule_bron: "Stcrt.2005-241"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-11-28"
-intitule_published: "2005-12-12"
-intitule_in_force: "2005-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-241"
-original_signed_date: "2005-11-28"
-original_published_date: "2005-12-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-241-p14-SC72652"
-entry_into_force_date: "2006-02-01"
-jci_1_3: "jci1.3:c:BWBR0019118&z=2006-02-01&g=2006-02-01"
-jci_1_0: "1.0:c:BWBR0019118&g=2006-02-01"
-citeertitel_status: "redactioneel"
-short_title: "Vaststellingsbesluit vergoedingen Adviescommissie SKE"
-signed_date: "2005-11-28"
-entry_into_force: "2006-02-01"
+publicatiedatum: 2006-02-01
+laatste_update: 2006-02-01
+status: geldig
+toestand: 2006-02-01
+bron: "https://wetten.overheid.nl/BWBR0019118"
+opgehaald: 2026-08-09
 ---
+
 # Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie SKE
-
-Gelet op [artikel 1 van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=1);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -53,5 +27,3 @@ Voor de voorbereidende werkzaamheden in het kader van het beoordelen van subsidi
 ##### Artikel 3
 
 Het [besluit van 16 december 2004, nr. OI/O/ISM/4078792, houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie kennisexploitatie](https://wetten.overheid.nl/jci1.3:c:BWBR0017731), wordt ingetrokken.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

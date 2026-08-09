@@ -1,50 +1,17 @@
 ---
 title: "Beleidsregels projectsubsidie ontwikkeling imamopleidingen"
 identifier: "BWBR0018218"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2005-04-30"
-last_updated: "2005-04-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018218"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6981523"
-version_id: "11850882"
-internal_id: "C15942801"
-label_id: "6969594"
-original_entry_into_force: "2005-04-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018218/2005-04-30/0"
-intitule_bron: "Stcrt.2005-83"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-20"
-intitule_published: "2005-04-29"
-intitule_in_force: "2005-04-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-83"
-original_signed_date: "2005-04-20"
-original_published_date: "2005-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-83-p16-SC69717"
-entry_into_force_date: "2005-04-30"
-jci_1_3: "jci1.3:c:BWBR0018218&z=2005-04-30&g=2005-04-30"
-jci_1_0: "1.0:c:BWBR0018218&g=2005-04-30"
-citeertitel_status: "officieel"
-signed_date: "2005-04-20"
-entry_into_force: "2005-04-30"
+publicatiedatum: 2005-04-30
+laatste_update: 2005-04-30
+status: geldig
+toestand: 2005-04-30
+bron: "https://wetten.overheid.nl/BWBR0018218"
+opgehaald: 2026-08-09
 ---
+
 # Beleidsregels projectsubsidie ontwikkeling imamopleidingen
-
-Overwegende dat:
-
-– de Tweede Kamer de regering heeft verzocht om aan imams die in Nederland gaan werken de voorwaarde te stellen dat zij een Nederlandse imamopleiding hebben gevolgd omdat dit noodzakelijk is voor de integratie van de moslimgemeenschap in Nederland;
-
-– de Minister voor Vreemdelingenzaken en Integratie in een brief aan de Tweede Kamer, mede namens de minister van Onderwijs, Cultuur en Wetenschap, heeft geschetst hoe zij denkt te komen tot de vorming van opleidingen voor imams in Nederland, waaronder een traject dat betrekking heeft op het stimuleren van initiatieven voor imamopleidingen;
-
-– islamitische organisaties, onderwijsinstellingen anders dan de bekostigde universiteiten, en overige geïnteresseerde partijen, de mogelijkheid moeten krijgen om met tijdelijke financiële ondersteuning vanuit de overheid, plannen uit te werken om te komen tot een curriculum van een theologische opleiding voor islamitisch geestelijke bedienaren (imams) en/of islamitisch geestelijk verzorgers, met een daarbij behorend beroepsprofiel;
-
-Gelet op [artikel 48s van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48s);
-
-Besluit:
 
 ##### Artikel 1. Doelomschrijving
 
@@ -134,7 +101,7 @@ De Minister voor Vreemdelingenzaken en Integratie kan besluiten tot verlening va
 
 1. De ontvanger van een subsidie dient voor 1 maart 2006 bij de Minister voor Vreemdelingenzaken en Integratie een aanvraag in tot vaststelling van de subsidie.
 
-2. De aanvraag gaat vergezeld van een inhoudelijk en een financieel verslag. Het financiële verslag is voorzien van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De accountant dient zich aan de hand van het in de bijlage opgenomen verantwoordingsprotocol een oordeel te vormen over de rechtmatigheid en doelmatigheid van de bestedingen.
+2. De aanvraag gaat vergezeld van een inhoudelijk en een financieel verslag. Het financiële verslag is voorzien van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De accountant dient zich aan de hand van het in de [bijlage](https://wetten.overheid.nl/BWBR0018218) opgenomen verantwoordingsprotocol een oordeel te vormen over de rechtmatigheid en doelmatigheid van de bestedingen.
 
 3. De Minister voor Vreemdelingenzaken en Integratie beslist voor 1 juni 2006 op de aanvraag om vaststelling van de subsidie.
 
@@ -145,7 +112,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 9. Titel
 
 Dit besluit wordt aangehaald als: Beleidsregels projectsubsidie imamopleidingen.
-
-## Bijlage
-
-Niet opgenomen.

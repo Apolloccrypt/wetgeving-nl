@@ -1,43 +1,18 @@
 ---
 title: "Besluit houdende aanwijzing van personen belast met toezicht als bedoeld in de Spoorwegwet en de Spoorwegwet 1875 en houdende wijziging van het Besluit aanwijzing toezichthoudende en opsporingsambtenaren divisie Vervoer Inspectie Verkeer en Waterstaat 2002 (Besluit aanwijzing toezichthouders spoorwegen)"
+citeertitel: "Besluit aanwijzing toezichthouders spoorwegen"
 identifier: "BWBR0018189"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-03-19"
-last_updated: "2020-03-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018189"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "6935613"
-version_id: "11804122"
-internal_id: "C15901631"
-label_id: "6923684"
-original_entry_into_force: "2005-04-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018189/2020-03-19/0"
-intitule_bron: "Stcrt.2005-73"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-08"
-intitule_published: "2005-04-15"
-intitule_in_force: "2005-04-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-73"
-original_signed_date: "2005-04-08"
-original_published_date: "2005-04-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-73-p20-SC69561"
-entry_into_force_date: "2005-04-17"
-jci_1_3: "jci1.3:c:BWBR0018189&z=2020-03-19&g=2020-03-19"
-jci_1_0: "1.0:c:BWBR0018189&g=2020-03-19"
-citeertitel_status: "officieel"
-short_title: "Besluit aanwijzing toezichthouders spoorwegen"
-signed_date: "2005-04-08"
-entry_into_force: "2005-04-17"
+publicatiedatum: 2005-04-17
+laatste_update: 2020-03-19
+status: geldig
+toestand: 2020-03-19
+bron: "https://wetten.overheid.nl/BWBR0018189"
+opgehaald: 2026-08-09
 ---
+
 # Besluit houdende aanwijzing van personen belast met toezicht als bedoeld in de Spoorwegwet en de Spoorwegwet 1875 en houdende wijziging van het Besluit aanwijzing toezichthoudende en opsporingsambtenaren divisie Vervoer Inspectie Verkeer en Waterstaat 2002 (Besluit aanwijzing toezichthouders spoorwegen)
-
-Gelet op [artikel 69, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), [artikel 1 van het Besluit van 24 oktober 2001, houdende bepalingen met betrekking tot het toezicht als bedoeld in artikel 10 van de Spoorwegwet, alsmede overige aanpassingen van besluiten samenhangende met de instelling van de Inspectie Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0012917&artikel=1), en [artikel 87, eerste lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -57,11 +32,11 @@ Besluit:
 
 ##### Artikel 3
 
-Wijzigt het Besluit aanwijzing toezichthoudende ambtenaren Spoorwegwet.
+*Wijzigt het Besluit aanwijzing toezichthoudende ambtenaren Spoorwegwet.*
 
 ##### Artikel 4
 
-Wijzigt het Besluit aanwijzing toezichthouders en opsporingsambtenaren divisie Vervoer Inspectie Verkeer en Waterstaat 2002.
+*Wijzigt het Besluit aanwijzing toezichthouders en opsporingsambtenaren divisie Vervoer Inspectie Verkeer en Waterstaat 2002.*
 
 ##### Artikel 5
 
@@ -70,5 +45,3 @@ Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders spoorwegen.
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

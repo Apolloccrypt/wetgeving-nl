@@ -1,43 +1,17 @@
 ---
 title: "Subsidieregeling Kenniscentrum Grote Steden"
 identifier: "BWBR0018429"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-08-25"
-last_updated: "2005-08-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018429"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "7298383"
-version_id: "12231962"
-internal_id: "C16464991"
-label_id: "7286324"
-dtd_version: "2.0"
-original_entry_into_force: "2005-08-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018429/2005-08-25/0"
-intitule_bron: "Stcrt.2005-162"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-13"
-intitule_published: "2005-08-23"
-intitule_in_force: "2005-08-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-162"
-original_signed_date: "2005-06-13"
-original_published_date: "2005-08-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-162-p9-SC71243"
-entry_into_force_date: "2005-08-25"
-jci_1_3: "jci1.3:c:BWBR0018429&z=2005-08-25&g=2005-08-25"
-jci_1_0: "1.0:c:BWBR0018429&g=2005-08-25"
-citeertitel_status: "officieel"
-signed_date: "2005-06-13"
-entry_into_force: "2005-08-25"
+publicatiedatum: 2005-08-25
+laatste_update: 2005-08-25
+status: geldig
+toestand: 2005-08-25
+bron: "https://wetten.overheid.nl/BWBR0018429"
+opgehaald: 2026-08-09
 ---
+
 # Subsidieregeling Kenniscentrum Grote Steden
-
-Gelet op [artikel 2 van de Wet overige BiZa-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009055&artikel=2) en [artikel 34 van het Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=34);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -140,5 +114,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Subsidieregeling Kenniscentrum Grote Steden.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

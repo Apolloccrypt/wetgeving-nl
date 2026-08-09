@@ -1,37 +1,16 @@
 ---
 title: "Fiscale beleidsregels december 2004"
 identifier: "BWBR0017907"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2005-01-20"
-last_updated: "2005-01-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017907"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "6847273"
-version_id: "11725382"
-internal_id: "C15807891"
-label_id: "6835414"
-original_entry_into_force: "2005-01-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017907/2005-01-20/0"
-intitule_bron: "Stcrt.2005-14"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-01-17"
-intitule_published: "2005-01-20"
-intitule_in_force: "2005-01-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-14"
-original_signed_date: "2005-01-17"
-original_published_date: "2005-01-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-14-p14-SC68622"
-entry_into_force_date: "2005-01-20"
-jci_1_3: "jci1.3:c:BWBR0017907&z=2005-01-20&g=2005-01-20"
-jci_1_0: "1.0:c:BWBR0017907&g=2005-01-20"
-citeertitel_status: "redactioneel"
-signed_date: "2005-01-17"
-entry_into_force: "2005-01-20"
+publicatiedatum: 2005-01-20
+laatste_update: 2005-01-20
+status: geldig
+toestand: 2005-01-20
+bron: "https://wetten.overheid.nl/BWBR0017907"
+opgehaald: 2026-08-09
 ---
+
 # Fiscale beleidsregels december 2004
 
 De Staatssecretaris van Financiën geeft kennis van het volgende.
@@ -121,7 +100,3 @@ Besluit van 23 december 2004, nr. CPP2004/1801M
 Wijziging Leidraad Invordering 1990
 
 Besluit van 23 december 2004, nr. CPP2004/2905M, Stcrt. nr. 251
-
-## Bijlage
-
-Beleidsregels liggen ter inzage bij het Ministerie van Financiën te Den Haag.

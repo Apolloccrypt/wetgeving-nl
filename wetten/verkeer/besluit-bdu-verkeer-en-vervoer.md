@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 16 maart 2005 tot vaststelling van regels omtrent de verstrekking, berekening en verantwoording van de brede doeluitkering verkeer en vervoer (Besluit BDU verkeer en vervoer)"
+citeertitel: "Besluit BDU verkeer en vervoer"
 identifier: "BWBR0018113"
-country: "nl"
-rank: "amvb"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018113"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "6898153"
-version_id: "11780092"
-internal_id: "C29463901"
-label_id: "6886544"
-original_entry_into_force: "2005-04-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018113/2016-01-01/0"
-intitule_bron: "Stb.2005-173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-03-16"
-intitule_published: "2005-04-05"
-intitule_in_force: "2005-04-05"
-intitule_status: "goed"
-original_publication: "Stb.2005-173"
-original_signed_date: "2005-03-16"
-original_published_date: "2005-04-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2005-173"
-entry_into_force_date: "2005-04-06"
-jci_1_3: "jci1.3:c:BWBR0018113&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0018113&g=2016-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit BDU verkeer en vervoer"
-signed_date: "2005-03-16"
-entry_into_force: "2005-04-06"
+publicatiedatum: 2005-04-06
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0018113"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 16 maart 2005 tot vaststelling van regels omtrent de verstrekking, berekening en verantwoording van de brede doeluitkering verkeer en vervoer (Besluit BDU verkeer en vervoer)
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 21 december 2004, nr. HDJZ/S&W/2004/3108, Hoofddirectie Juridische Zaken;
-
-Gelet op de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=4), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=5), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=10), en [artikel 25 van de Wet BDU verkeer en vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=25), [artikel 9, eerste lid, van de Wet Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006001&artikel=9), de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82) en [117 van de Wet Personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=117), [artikel 16, vijfde lid, van de Kaderwet bestuur in verandering](https://wetten.overheid.nl/jci1.3:c:BWBR0006620&artikel=16) en [artikel 17, derde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-De Raad van State gehoord (advies van 8 februari 2005, nr. W09.04.0619);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 14 maart 2005, nr. HDJZ/S&W/2005-756, Hoofddirectie Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -97,11 +66,11 @@ Het dagelijks bestuur neemt in de bijlage bij de jaarrekening de verantwoordings
 
 ##### Artikel 6
 
-Wijzigt het Besluit personenvervoer 2000.
+*Wijzigt het Besluit personenvervoer 2000.*
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt het Besluit Infrastructuurfonds.*
 
 ##### Artikel 8
 
@@ -117,7 +86,7 @@ De [Regeling experimenten regionale treindiensten](https://wetten.overheid.nl/jc
 
 ##### Artikel 11
 
-Wijzigt het Wijzigingsbesluit Gebundelde doeluitkering.
+*Wijzigt het Wijzigingsbesluit Gebundelde doeluitkering.*
 
 ##### Artikel 12
 
@@ -143,7 +112,7 @@ De meerjarenafspraken op grond van de [Regeling experiment meerjarenafspraken op
 
 5. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-01) en het eerste lid zijn van overeenkomstige toepassing op het vervallen van de betalingstermijnen, bedoeld in het tweede en derde lid.
 
-##### Artikel 15. Overgangsrecht [Besluit Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006264)
+##### Artikel 15. Overgangsrecht Besluit Infrastructuurfonds
 
 [Paragraaf 8 van het Besluit Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006264&paragraaf=8), zoals dat gold op de dag voor de inwerkingtreding van dit besluit, blijft van toepassing op de doeluitkering die is verstrekt ingevolge [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006264&artikel=29) of [artikel 31 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006264&artikel=31).
 
@@ -171,7 +140,7 @@ Het [Interimbesluit Duurzaam Veilig](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 3. De uitkering wordt, in het geval toepassing wordt gegeven aan [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=22), verminderd met de bijdrage, bedoeld in het eerste lid.
 
-##### Artikel 19. Overgangsbepaling [Wijzigingsbesluit Gebundelde doeluitkering](https://wetten.overheid.nl/jci1.3:c:BWBR0016152)
+##### Artikel 19. Overgangsbepaling Wijzigingsbesluit Gebundelde doeluitkering
 
 1. [Artikel V van het Wijzigingsbesluit Gebundelde doeluitkering](https://wetten.overheid.nl/jci1.3:c:BWBR0016152&artikel=V), zoals dat gold op de dag voor de inwerkingtreding van dit besluit blijft van toepassing op de aanvullende uitkering, bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0016152&artikel=V), voor zover die betrekking heeft op een jaar dat voorafgaat aan het eerste uitkeringsjaar.
 
@@ -206,5 +175,3 @@ In afwijking van de [artikelen 15 tot en met 18](https://wetten.overheid.nl/jci1
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Besluit BDU verkeer en vervoer.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

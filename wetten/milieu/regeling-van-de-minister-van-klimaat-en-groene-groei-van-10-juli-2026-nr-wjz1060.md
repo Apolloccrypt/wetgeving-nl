@@ -9,7 +9,7 @@ laatste_update: 2026-08-04
 status: geldig
 toestand: 2026-08-04
 bron: "https://wetten.overheid.nl/BWBR0052950"
-opgehaald: 2026-08-08
+opgehaald: 2026-08-09
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei van 10 juli 2026, nr. WJZ/106047297, houdende aanwijzing van categorieën van productie-installaties voor de productie van duurzame energieproductie en klimaattransitie in 2026 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) [KetenID WGK29025]

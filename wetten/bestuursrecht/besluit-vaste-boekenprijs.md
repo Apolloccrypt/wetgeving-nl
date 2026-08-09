@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 3 mei 2005, houdende regels ter uitvoering van bepalingen van de Wet op de vaste boekenprijs (Besluit vaste boekenprijs)"
+citeertitel: "Besluit vaste boekenprijs"
 identifier: "BWBR0018298"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018298"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "7021803"
-version_id: "11902392"
-internal_id: "C16198981"
-label_id: "7010004"
-original_entry_into_force: "2005-07-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018298/2013-01-01/0"
-intitule_bron: "Stb.2005-269"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-05-03"
-intitule_published: "2005-05-31"
-intitule_in_force: "2005-07-26"
-intitule_status: "goed"
-original_publication: "Stb.2005-269"
-original_signed_date: "2005-05-03"
-original_published_date: "2005-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2005-269"
-entry_into_force_date: "2005-07-27"
-jci_1_3: "jci1.3:c:BWBR0018298&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0018298&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit vaste boekenprijs"
-signed_date: "2005-05-03"
-entry_into_force: "2005-07-27"
+publicatiedatum: 2005-07-27
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0018298"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 3 mei 2005, houdende regels ter uitvoering van bepalingen van de Wet op de vaste boekenprijs (Besluit vaste boekenprijs)
-
-Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, mr. Medy C. van der Laan, van 23 februari 2005, nr. MLB/BJZ/2005/7902;
-
-Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=8), [9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=9), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=13) en [14 van de Wet op de vaste boekenprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=14);
-
-De Raad van State gehoord (advies van 14 april 2005, nr. W05.05.0059/III);
-
-Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, mr. Medy C. van der Laan, van 26 april 2005, nr. MLB/BJZ/2005/17.678;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Kortingen
 
@@ -53,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 - a. ten hoogste 5 procent bij verkoop van ten minste 10 exemplaren van een boek en van ten minste 2 exemplaren van een muziekuitgave;
 
-- b. ten hoogste 10 procent bij verkoop van ten minste 30 exemplaren.
+- b. ten hoogste 10 procent bij verkoop van ten minste 30 exemplaren.
 
 2. Bij gelijktijdige verkoop aan eenzelfde eindafnemer van ten minste 100 exemplaren van een boek of een muziekuitgave kan de verkoper een door hem te bepalen korting op de vaste prijs toepassen.
 
@@ -69,11 +38,11 @@ Voor boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid o
 
 ##### Artikel 3
 
-1. Bij verkoop ten behoeve van bibliotheken van onderwijsinstellingen en bibliotheken verbonden aan penitentiaire inrichtingen of ziekenhuizen en verpleeginrichtingen in het kader van de uitoefening van hun bibliotheekfunctie, en bij verkoop aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie, kan de verkoper bij gelijktijdige verkoop van ten minste 15 exemplaren van een boek of een muziekuitgave een korting op de vaste prijs toepassen van ten hoogste 10 procent voor boeken en ten hoogste 5 procent voor muziekuitgaven.
+1. Bij verkoop ten behoeve van bibliotheken van onderwijsinstellingen en bibliotheken verbonden aan penitentiaire inrichtingen of ziekenhuizen en verpleeginrichtingen in het kader van de uitoefening van hun bibliotheekfunctie, en bij verkoop aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie, kan de verkoper bij gelijktijdige verkoop van ten minste 15 exemplaren van een boek of een muziekuitgave een korting op de vaste prijs toepassen van ten hoogste 10 procent voor boeken en ten hoogste 5 procent voor muziekuitgaven.
 
 2. Bij verkoop ten behoeve van bibliotheken van onderwijsinstellingen en bibliotheken verbonden aan penitentiaire inrichtingen of ziekenhuizen en verpleeginrichtingen in het kader van de uitoefening van hun bibliotheekfunctie, en bij verkoop aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie, kan de verkoper bij gelijktijdige verkoop van minder dan 15 exemplaren van een boek een korting op de vaste prijs toepassen van ten hoogste 5 procent.
 
-3. De verkoper wiens activiteiten geheel of nagenoeg geheel bestaan uit het verkopen aan openbare bibliotheken van voor gebruik door openbare bibliotheken geschikt gemaakte boeken, kan bij verkoop daarvan aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie een korting op de vaste prijs toepassen van ten hoogste 25 procent.
+3. De verkoper wiens activiteiten geheel of nagenoeg geheel bestaan uit het verkopen aan openbare bibliotheken van voor gebruik door openbare bibliotheken geschikt gemaakte boeken, kan bij verkoop daarvan aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie een korting op de vaste prijs toepassen van ten hoogste 25 procent.
 
 ##### Artikel 4
 
@@ -220,5 +189,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 17
 
 Dit besluit wordt aangehaald als: Besluit vaste boekenprijs.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

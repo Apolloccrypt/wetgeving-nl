@@ -1,47 +1,17 @@
 ---
 title: "Uitvoeringsregeling Experimentenwet vooropleidingseisen, selectie en collegegeldheffing"
 identifier: "BWBR0018220"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-09-01"
-last_updated: "2015-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018220"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6988553"
-version_id: "11854902"
-internal_id: "C15947881"
-label_id: "6976714"
-original_entry_into_force: "2005-05-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018220/2015-09-01/0"
-intitule_bron: "Uitleg.2005-7"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-21"
-intitule_published: "2005-05-04"
-intitule_in_force: "2005-05-04"
-intitule_status: "goed"
-original_publication: "Uitleg.2005-7"
-original_signed_date: "2005-04-21"
-original_published_date: "2005-05-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-05-02"
-jci_1_3: "jci1.3:c:BWBR0018220&z=2015-09-01&g=2015-09-01"
-jci_1_0: "1.0:c:BWBR0018220&g=2015-09-01"
-citeertitel_status: "officieel"
-signed_date: "2005-04-21"
-entry_into_force: "2005-05-02"
+publicatiedatum: 2005-05-02
+laatste_update: 2015-09-01
+status: geldig
+toestand: 2015-09-01
+bron: "https://wetten.overheid.nl/BWBR0018220"
+opgehaald: 2026-08-09
 ---
+
 # Uitvoeringsregeling Experimentenwet vooropleidingseisen, selectie en collegegeldheffing
-
-Na overleg met de minister van landbouw, natuur en voedselkwaliteit,
-
-Gelet op:
-
-• de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=10), en [11, tweede lid, van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=11);
-
-Besluit
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -126,5 +96,3 @@ Deze regeling treedt in werking met ingang van 2 mei 2005.
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Experimentenwet vooropleidingseisen, selectie en collegegeldheffing.
-
-Deze regeling zal met de toelichting in de Staatscourant en in het Gele katern worden geplaatst.

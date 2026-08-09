@@ -1,54 +1,26 @@
 ---
 title: "Wet van 23 juni 2005 tot wijziging van de Wet toezicht effectenverkeer 1995 ter implementatie van richtlijn nr. 2003/71/EG van het Europees Parlement en de Raad van de Europese Unie van 4 november 2003 betreffende het prospectus dat gepubliceerd moet worden wanneer effecten aan het publiek worden aangeboden of tot de handel worden toegelaten en tot wijziging van Richtlijn 2001/34/EG (PbEU L 345) en tot uitvoering van verordening nr. 809/2004 van de Commissie van de Europese Gemeenschappen van 29 april 2004 tot uitvoering van Richtlijn 2003/71/EG van het Europees Parlement en de Raad wat de in het prospectus te verstrekken informatie, de vormgeving van het prospectus, de opneming van informatie door middel van verwijzing, de publicatie van het prospectus en de verspreiding van advertenties betreft (PbEU L 149)"
+citeertitel: "Wijzigingswet Wet toezicht effectenverkeer 1995, enz. (implementatie enkele richtlijnen betreffende het prospectus dat gepubliceerd moet worden wanneer effecten aan het publiek worden aangeboden of tot de handel worden toegelaten)"
 identifier: "BWBR0018470"
-country: "nl"
-rank: "wet"
-publication_date: "2005-07-01"
-last_updated: "2005-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018470"
+categorie: "Verkeer"
 soort: "wet"
-stam_id: "7128913"
-version_id: "12021462"
-internal_id: "C16152331"
-label_id: "7116854"
-original_entry_into_force: "2005-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018470/2005-07-01/0"
-intitule_bron: "Stb.2005-328"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-23"
-intitule_published: "2005-06-30"
-intitule_in_force: "2005-06-30"
-intitule_status: "goed"
-original_publication: "Stb.2005-328"
-original_signed_date: "2005-06-23"
-original_published_date: "2005-06-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "30013"
-original_url_id: "stb-2005-328"
-entry_into_force_date: "2005-07-01"
-jci_1_3: "jci1.3:c:BWBR0018470&z=2005-07-01&g=2005-07-01"
-jci_1_0: "1.0:c:BWBR0018470&g=2005-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet toezicht effectenverkeer 1995, enz. (implementatie enkele richtlijnen betreffende het prospectus dat gepubliceerd moet worden wanneer effecten aan het publiek worden aangeboden of tot de handel worden toegelaten)"
-signed_date: "2005-06-23"
-entry_into_force: "2005-07-01"
+publicatiedatum: 2005-07-01
+laatste_update: 2005-07-01
+status: geldig
+toestand: 2005-07-01
+bron: "https://wetten.overheid.nl/BWBR0018470"
+opgehaald: 2026-08-09
 ---
+
 # Wet van 23 juni 2005 tot wijziging van de Wet toezicht effectenverkeer 1995 ter implementatie van richtlijn nr. 2003/71/EG van het Europees Parlement en de Raad van de Europese Unie van 4 november 2003 betreffende het prospectus dat gepubliceerd moet worden wanneer effecten aan het publiek worden aangeboden of tot de handel worden toegelaten en tot wijziging van Richtlijn 2001/34/EG (PbEU L 345) en tot uitvoering van verordening nr. 809/2004 van de Commissie van de Europese Gemeenschappen van 29 april 2004 tot uitvoering van Richtlijn 2003/71/EG van het Europees Parlement en de Raad wat de in het prospectus te verstrekken informatie, de vormgeving van het prospectus, de opneming van informatie door middel van verwijzing, de publicatie van het prospectus en de verspreiding van advertenties betreft (PbEU L 149)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657) te wijzigen in verband met de implementatie van [richtlijn nr. 2003/71/EG](32003L0071) van het Europees Parlement en de Raad van de Europese Unie van 4 november 2003 betreffende het prospectus dat gepubliceerd moet worden wanneer effecten aan het publiek worden aangeboden of tot de handel worden toegelaten en tot wijziging van [Richtlijn 2001/34/EG](32001L0034) (PbEU L 345) en de uitvoering van [verordening nr. 809/2004](32004R0809) van de Commissie van de Europese Gemeenschappen van 29 april 2004 tot uitvoering van [Richtlijn 2003/71/EG](32003L0071) van het Europees Parlement en de Raad wat de in het prospectus te verstrekken informatie, de vormgeving van het prospectus, de opneming van informatie door middel van verwijzing, de publicatie van het prospectus en de verspreiding van advertenties betreft (PbEU L 149);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet toezicht effectenverkeer 1995.
+*Wijzigt de Wet toezicht effectenverkeer 1995.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel III
 
@@ -65,5 +37,3 @@ Vanaf het tijdstip van de inwerkingtreding van deze wet berust het bepaalde in [
 ##### Artikel IV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

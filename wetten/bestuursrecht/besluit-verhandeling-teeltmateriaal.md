@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 8 december 2005, houdende regels met betrekking tot het in de handel brengen van teeltmateriaal (Besluit verhandeling teeltmateriaal)"
+citeertitel: "Besluit verhandeling teeltmateriaal"
 identifier: "BWBR0019210"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019210"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "7705603"
-version_id: "21998962"
-internal_id: "C31549681"
-label_id: "7693404"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019210/2015-01-01/0"
-intitule_bron: "Stb.2005-654"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-08"
-intitule_published: "2005-12-20"
-intitule_in_force: "2006-01-31"
-intitule_status: "goed"
-original_publication: "Stb.2014-573"
-original_signed_date: "2014-12-17"
-original_published_date: "2014-12-24"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2014-573"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0019210&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0019210&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit verhandeling teeltmateriaal"
-signed_date: "2014-12-17"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0019210"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 8 december 2005, houdende regels met betrekking tot het in de handel brengen van teeltmateriaal (Besluit verhandeling teeltmateriaal)
-
-Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 1 september 2005, TRCJZ/2005/2593, Directie Juridische Zaken;
-
-Gelet op de Europese richtlijnen met betrekking tot het in de handel brengen van teeltmateriaal van verschillende soorten gewassen alsmede gelet op de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=19), [39, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=41), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=43), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=85), en [87, tweede, derde en zesde lid, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=87);
-
-De Raad van State gehoord (advies van 14 oktober 2005, nr. W11.05.0400/V);
-
-Gezien het nader rapport van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 1 december 2005, nr. TRCJZ/2005/3569, Directie Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -60,25 +28,25 @@ Hebben goedgevonden en verstaan:
 
 - d. Naktuinbouw: de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;
 
-- e. groenvoedergewassen: gewassen, bedoeld in artikel 2, eerste lid, onder A, van [richtlijn nr. 66/401/EEG](31966L0401) van de Raad van de Europese Gemeenschappen van 14 juni 1966 betreffende het in de handel brengen van zaaizaad van groenvoedergewassen (PbEG L 125);
+- e. groenvoedergewassen: gewassen, bedoeld in artikel 2, eerste lid, onder A, van richtlijn nr. 66/401/EEG van de Raad van de Europese Gemeenschappen van 14 juni 1966 betreffende het in de handel brengen van zaaizaad van groenvoedergewassen (PbEG L 125);
 
-- f. zaaigranen: gewassen, bedoeld in artikel 2, eerste lid, onder A, van [richtlijn nr. 66/402/EEG](31966L0402) van de Raad van de Europese Gemeenschappen van 14 juni 1966 betreffende het in de handel brengen van zaaigranen (PbEG L 125);
+- f. zaaigranen: gewassen, bedoeld in artikel 2, eerste lid, onder A, van richtlijn nr. 66/402/EEG van de Raad van de Europese Gemeenschappen van 14 juni 1966 betreffende het in de handel brengen van zaaigranen (PbEG L 125);
 
-- g. bieten: gewassen, bedoeld in artikel 2, eerste lid, onder b, van [richtlijn nr. 2002/54/EG](32002L0054) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van bietenzaad (PbEG L 193);
+- g. bieten: gewassen, bedoeld in artikel 2, eerste lid, onder b, van richtlijn nr. 2002/54/EG van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van bietenzaad (PbEG L 193);
 
-- h. oliehoudende planten en vezelgewassen: gewassen, bedoeld in artikel 2, eerste lid, onder b, van [richtlijn nr. 2002/57/EG](32002L0057) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van zaaizaad van oliehoudende planten en vezelgewassen (PbEG L 193);
+- h. oliehoudende planten en vezelgewassen: gewassen, bedoeld in artikel 2, eerste lid, onder b, van richtlijn nr. 2002/57/EG van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van zaaizaad van oliehoudende planten en vezelgewassen (PbEG L 193);
 
 - i. fruitgewassen: gewassen, alsmede hybriden daarvan, die zijn opgenomen in bijlage I van richtlijn nr. 2008/90/EG;
 
-- j. siergewassen: gewassen waarvan teeltmateriaal, bedoeld in artikel 2, eerste lid, van [richtlijn nr. 98/56/EG](31998L0056) van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226), wordt voortgebracht, met uitzondering van bloembollen, bedoeld in [artikel 1, onder t, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1);
+- j. siergewassen: gewassen waarvan teeltmateriaal, bedoeld in artikel 2, eerste lid, van richtlijn nr. 98/56/EG van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226), wordt voortgebracht, met uitzondering van bloembollen, bedoeld in [artikel 1, onder t, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1);
 
-- k. groenteplanten: teeltmateriaal van gewassen, alsmede hybriden daarvan, die zijn opgenomen in bijlage II van [richtlijn nr. 92/33/EEG](31992L0033) van de Raad van de Europese Gemeenschappen van 28 april 1992 betreffende het in de handel brengen van teeltmateriaal en plantgoed van groentegewassen, met uitzondering van zaad (PbEG L 157);
+- k. groenteplanten: teeltmateriaal van gewassen, alsmede hybriden daarvan, die zijn opgenomen in bijlage II van richtlijn nr. 92/33/EEG van de Raad van de Europese Gemeenschappen van 28 april 1992 betreffende het in de handel brengen van teeltmateriaal en plantgoed van groentegewassen, met uitzondering van zaad (PbEG L 157);
 
-- l. groentezaden: teeltmateriaal van de gewassen, bedoeld in artikel 2, eerste lid, onder b, van [richtlijn nr. 2002/55/EG](32002L0055) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van groentezaad (PbEG L 193);
+- l. groentezaden: teeltmateriaal van de gewassen, bedoeld in artikel 2, eerste lid, onder b, van richtlijn nr. 2002/55/EG van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van groentezaad (PbEG L 193);
 
 - m. groentegewassen: gewassen waarvan groentezaden en groenteplanten worden voortgebracht;
 
-- n. bosbouwgewassen: boomsoorten en kunstmatige hybriden daarvan die in de gehele Europese Unie of in een deel daarvan voor de bosbouw van belang zijn en met name, die welke zijn opgenomen in bijlage I bij [richtlijn nr. 1999/105/EG](31999L0105) van de Raad van de Europese Unie betreffende het in de handel brengen van bosbouwkundig teeltmateriaal (PbEG 2000 L 11);
+- n. bosbouwgewassen: boomsoorten en kunstmatige hybriden daarvan die in de gehele Europese Unie of in een deel daarvan voor de bosbouw van belang zijn en met name, die welke zijn opgenomen in bijlage I bij richtlijn nr. 1999/105/EG van de Raad van de Europese Unie betreffende het in de handel brengen van bosbouwkundig teeltmateriaal (PbEG 2000 L 11);
 
 - o. tuinbouwgewassen: fruitgewassen, groentegewassen en siergewassen;
 
@@ -166,7 +134,27 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 4. De in het tweede en derde lid bedoelde regels kunnen per gewas verschillen overeenkomstig de van toepassing zijnde handelsrichtlijnen.
 
-#### Paragraaf 4. Slotbepalingen
+##### Artikel 6a
+
+Bij ministeriële regeling kunnen regels worden gesteld over de toestemming, bedoeld in artikel 3, vierde lid, van richtlijn 2008/90/EG.
+
+#### Paragraaf 4. Teelt
+
+##### Artikel 6b
+
+1. De teelt van landbouwgewassen, tuinbouwgewassen en bosbouwgewassen is slechts toegestaan indien is voldaan aan de bij ministeriële regeling gestelde regels inzake teelt.
+
+2. De regels, bedoeld in het eerste lid, kunnen betrekking hebben op:
+
+- a. het gebruik, de opslag en de bewerking van landbouwzaaizaad dat niet overeenkomstig de bij die regels aangewezen voorschriften is goedgekeurd;
+
+- b. het verstrekken van gegevens inzake landbouwzaaizaad aan Onze Minister;
+
+- c. het bewerken van landbouwgrond teneinde de verontreiniging van zaaizaad tegen te gaan;
+
+- d. het voorkomen van economische schade door het naast elkaar bestaan van genetisch gemodificeerde gewassen en niet-genetisch gemodificeerde gewassen.
+
+#### Paragraaf 5. Slotbepalingen
 
 ##### Artikel 7
 
@@ -189,31 +177,3 @@ Dit besluit wordt aangehaald als: Besluit verhandeling teeltmateriaal.
 ##### Artikel 9
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-Bij ministeriële regeling kunnen regels worden gesteld over de toestemming, bedoeld in artikel 3, vierde lid, van richtlijn 2008/90/EG.
-
-#### Paragraaf 4. Teelt
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6b
-
-1. De teelt van landbouwgewassen, tuinbouwgewassen en bosbouwgewassen is slechts toegestaan indien is voldaan aan de bij ministeriële regeling gestelde regels inzake teelt.
-
-2. De regels, bedoeld in het eerste lid, kunnen betrekking hebben op:
-
-- a. het gebruik, de opslag en de bewerking van landbouwzaaizaad dat niet overeenkomstig de bij die regels aangewezen voorschriften is goedgekeurd;
-
-- b. het verstrekken van gegevens inzake landbouwzaaizaad aan Onze Minister;
-
-- c. het bewerken van landbouwgrond teneinde de verontreiniging van zaaizaad tegen te gaan;
-
-- d. het voorkomen van economische schade door het naast elkaar bestaan van genetisch gemodificeerde gewassen en niet-genetisch gemodificeerde gewassen.
-
-#### Paragraaf 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

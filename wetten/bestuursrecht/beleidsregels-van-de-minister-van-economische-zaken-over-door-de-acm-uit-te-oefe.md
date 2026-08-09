@@ -1,43 +1,18 @@
 ---
 title: "Beleidsregels van de Minister van Economische Zaken van 2 juni 2005, nr. WJZ 5032571, over door het college als bedoeld in artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit uit te oefenen taken op het gebied van duurzame concurrentie, efficiënte kosten, kwaliteit, toegang en tarieftransparantie in de elektronische communicatiesector (Beleidsregels van de Minister van Economische Zaken over door het college uit te oefenen taken in de elektronische communicatiesector)"
+citeertitel: "Beleidsregels van de Minister van Economische Zaken over door de ACM uit te oefenen taken in de elektronische communicatiesector"
 identifier: "BWBR0018380"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018380"
+categorie: "Digitaal en privacy"
 soort: "beleidsregel"
-stam_id: "7089663"
-version_id: "11976932"
-internal_id: "C16061461"
-label_id: "7077714"
-original_entry_into_force: "2005-06-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018380/2013-04-01/0"
-intitule_bron: "Stcrt.2005-109"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-02"
-intitule_published: "2005-06-09"
-intitule_in_force: "2005-06-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-109"
-original_signed_date: "2005-06-02"
-original_published_date: "2005-06-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-109-p11-SC70271"
-entry_into_force_date: "2005-06-11"
-jci_1_3: "jci1.3:c:BWBR0018380&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0018380&g=2013-04-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels van de Minister van Economische Zaken over door de ACM uit te oefenen taken in de elektronische communicatiesector"
-signed_date: "2005-06-02"
-entry_into_force: "2005-06-11"
+publicatiedatum: 2005-06-11
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0018380"
+opgehaald: 2026-08-09
 ---
+
 # Beleidsregels van de Minister van Economische Zaken van 2 juni 2005, nr. WJZ 5032571, over door het college als bedoeld in artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit uit te oefenen taken op het gebied van duurzame concurrentie, efficiënte kosten, kwaliteit, toegang en tarieftransparantie in de elektronische communicatiesector (Beleidsregels van de Minister van Economische Zaken over door het college uit te oefenen taken in de elektronische communicatiesector)
-
-Gelet op [artikel 19 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=19), [hoofdstuk 6a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a), [artikel 3 van de Regeling minimumpakket huurlijnen](https://wetten.overheid.nl/jci1.3:c:BWBR0016708&artikel=3) en [artikel 3.2 van de Regeling universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&artikel=3.2);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -49,7 +24,7 @@ Besluit:
 
 - b. prijsmaatregel: een verplichting als bedoeld in [artikel 6a.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.7) betreffende het beheersen van tarieven of een verplichting als bedoeld in [artikel 6a.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.13);
 
-- c. **ACM:** de Autoriteit Consument en Markt, genoemd in [artikel 2 van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2).
+- c. *ACM:* de Autoriteit Consument en Markt, genoemd in [artikel 2 van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2).
 
 2. De definities, bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) en [artikel 1.1 van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=1.1), zijn van toepassing.
 
@@ -97,6 +72,10 @@ Indien een onderneming moet voldoen aan een prijsmaatregel, kan de ACM voor het 
 
 #### § 6. Slotbepalingen
 
+##### Artikel 5a
+
+Deze beleidsregels berusten op [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21), [hoofdstuk 6a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a) en [artikel 3.2 van de Regeling universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&artikel=3.2).
+
 ##### Artikel 6
 
 Deze beleidsregels treden in werking de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.
@@ -104,11 +83,3 @@ Deze beleidsregels treden in werking de tweede dag na de dagtekening van de Staa
 ##### Artikel 7
 
 Deze beleidsregels worden aangehaald als: Beleidsregels van de Minister van Economische Zaken over door de ACM uit te oefenen taken in de elektronische communicatiesector.
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-Deze beleidsregels berusten op [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21), [hoofdstuk 6a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a) en [artikel 3.2 van de Regeling universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&artikel=3.2).
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.

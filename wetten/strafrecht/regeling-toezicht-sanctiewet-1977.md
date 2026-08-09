@@ -1,50 +1,18 @@
 ---
 title: "Regeling van de Autoriteit Financiële Markten en De Nederlandsche Bank NV van 28 september 2005, houdende regels ten behoeve van de naleving door financiële instellingen van de bij of krachtens de Sanctiewet 1977 gestelde regels met betrekking tot het financieel verkeer (Regeling toezicht Sanctiewet 1977)"
+citeertitel: "Regeling toezicht Sanctiewet 1977"
 identifier: "BWBR0018806"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-05-09"
-last_updated: "2014-05-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018806"
+categorie: "Verkeer"
 soort: "zbo"
-stam_id: "7367643"
-version_id: "12317722"
-internal_id: "C16571351"
-label_id: "7355474"
-dtd_version: "2.0"
-original_entry_into_force: "2005-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018806/2014-05-09/0"
-intitule_bron: "Stcrt.2005-188"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-09-28"
-intitule_published: "2005-09-28"
-intitule_in_force: "2005-09-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-188"
-original_signed_date: "2005-09-28"
-original_published_date: "2005-09-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-188-p21-SC71744"
-entry_into_force_date: "2005-10-01"
-jci_1_3: "jci1.3:c:BWBR0018806&z=2014-05-09&g=2014-05-09"
-jci_1_0: "1.0:c:BWBR0018806&g=2014-05-09"
-citeertitel_status: "officieel"
-short_title: "Regeling toezicht Sanctiewet 1977"
-signed_date: "2005-09-28"
-entry_into_force: "2005-10-01"
+publicatiedatum: 2005-10-01
+laatste_update: 2014-05-09
+status: geldig
+toestand: 2014-05-09
+bron: "https://wetten.overheid.nl/BWBR0018806"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de Autoriteit Financiële Markten en De Nederlandsche Bank NV van 28 september 2005, houdende regels ten behoeve van de naleving door financiële instellingen van de bij of krachtens de Sanctiewet 1977 gestelde regels met betrekking tot het financieel verkeer (Regeling toezicht Sanctiewet 1977)
-
-Gelet op [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10), [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10b) en [artikel 10f van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10f);
-
-Gelet op het [Overdrachtsbesluit Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0013887) (Stb. 2002, 403);
-
-Gelet op de [Aanwijzingsregeling rechtspersonen Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0013741) (Stcrt. 2002 106; laatstelijk gewijzigd bij ministeriële regeling van 27 augustus 2002, Stcrt. 2002, 165);
-
-Na overleg met de Minister van Financiën;
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -85,5 +53,3 @@ Desgevraagd stelt de instelling gegevens ter beschikking aan de toezichthouder m
 1. Deze regeling treedt in werking met ingang van 1 oktober 2005.
 
 2. Deze regeling wordt aangehaald als: Regeling toezicht Sanctiewet 1977.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

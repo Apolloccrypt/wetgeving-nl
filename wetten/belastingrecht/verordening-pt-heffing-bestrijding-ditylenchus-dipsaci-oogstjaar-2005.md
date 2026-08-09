@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 26 april 2005, houdende de vaststelling van aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2005)"
+citeertitel: "Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2005"
 identifier: "BWBR0018239"
-country: "nl"
-rank: "pbo"
-publication_date: "2005-07-17"
-last_updated: "2005-07-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018239"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "7189053"
-version_id: "12105652"
-internal_id: "C16226951"
-label_id: "7177004"
-original_entry_into_force: "2005-07-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018239/2005-07-17/0"
-intitule_bron: "Vbbo.2005-39"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-26"
-intitule_published: "2005-07-15"
-intitule_in_force: "2005-07-15"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-39"
-original_signed_date: "2005-04-26"
-original_published_date: "2005-07-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-07-17"
-jci_1_3: "jci1.3:c:BWBR0018239&z=2005-07-17&g=2005-07-17"
-jci_1_0: "1.0:c:BWBR0018239&g=2005-07-17"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2005"
-signed_date: "2005-04-26"
-entry_into_force: "2005-07-17"
+publicatiedatum: 2005-07-17
+laatste_update: 2005-07-17
+status: geldig
+toestand: 2005-07-17
+bron: "https://wetten.overheid.nl/BWBR0018239"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 26 april 2005, houdende de vaststelling van aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2005)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12); gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen, d.d. 15 februari 2005;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -106,5 +80,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na publicatie in
 ##### Artikel 8
 
 Deze verordening wordt aangehaald als: Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2005.
-
-Deze verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

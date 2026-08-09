@@ -1,47 +1,18 @@
 ---
 title: "Wet van 20 oktober 2005 tot vereenvoudiging van het stelsel van overheidsbemoeienis met het aanbod van zorginstellingen (Wet toelating zorginstellingen)"
+citeertitel: "Wet toelating zorginstellingen"
 identifier: "BWBR0018906"
-country: "nl"
-rank: "wet"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018906"
+categorie: "Overig"
 soort: "wet"
-stam_id: "7589783"
-version_id: "26859452"
-internal_id: "C39345861"
-label_id: "7578204"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018906/2022-01-01/0"
-intitule_bron: "Stb.2005-571"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-10-20"
-intitule_published: "2005-11-22"
-intitule_in_force: "2005-12-20"
-intitule_status: "goed"
-original_publication: "Stb.2020-181"
-original_signed_date: "2020-06-10"
-original_published_date: "2020-06-19"
-original_effect: "structuurwijziging"
-original_dossier: "34768"
-original_url_id: "stb-2020-181"
-entry_into_force_date: "2022-01-01"
-jci_1_3: "jci1.3:c:BWBR0018906&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0018906&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet toelating zorginstellingen"
-signed_date: "2020-06-10"
-entry_into_force: "2022-01-01"
+publicatiedatum: 2022-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0018906"
+opgehaald: 2026-08-09
 ---
+
 # Wet van 20 oktober 2005 tot vereenvoudiging van het stelsel van overheidsbemoeienis met het aanbod van zorginstellingen (Wet toelating zorginstellingen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging hebben genomen, dat het ter bevordering van de overgang van een centraal aanbod gestuurd naar een decentraal vraaggericht zorgstelsel wenselijk is de regels inzake de toelating van zorginstellingen en die inzake de bouwprocedure te vereenvoudigen en samen te voegen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -51,13 +22,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. vervallen;
+- b. *vervallen;*
 
-- c. College sanering: het College sanering zorginstellingen, genoemd in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=19&z=2022-01-01&g=2022-01-01);
+- c. College sanering: het College sanering zorginstellingen, genoemd in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=19&z=2022-01-01&g=2022-01-01);
 
 - d. Zorginstituut: het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- e. Fonds langdurige zorg: het Fonds langdurige zorg, genoemd in [artikel 89 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=89);
+- e. Fonds langdurige zorg: het Fonds langdurige zorg, genoemd in [artikel 89 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=89);
 
 - f. instelling: een organisatorisch verband dat zorg of een andere dienst verleent waarop aanspraak bestaat ingevolge [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) of ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
@@ -77,13 +48,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
-
-### Hoofdstuk III. Toelating en bouwprocedure
+*Vervallen*
 
 ##### Artikel 5
 
@@ -91,49 +60,49 @@ Een instelling heeft geen winstoogmerk, behoudens de bij algemene maatregel van 
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Exploitatie
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. Sanering
 
@@ -185,8 +154,6 @@ Vervallen
 
 ### Hoofdstuk VI. College sanering
 
-#### Paragraaf 1. College bouw zorginstellingen
-
 ##### Artikel 19
 
 1. Er is een College sanering zorginstellingen, dat rechtspersoonlijkheid bezit. Het College sanering is gevestigd in een door Onze Minister te bepalen plaats.
@@ -227,7 +194,7 @@ Vervallen
 
 ##### Artikel 23
 
-1. Het College sanering zendt jaarlijks voor 1 oktober aan Onze Minister een jaarplan voor het volgende kalenderjaar.
+1. Het College sanering zendt jaarlijks voor 1 oktober aan Onze Minister een jaarplan voor het volgende kalenderjaar.
 
 2. Het jaarplan omvat:
 
@@ -239,7 +206,7 @@ Vervallen
 
 ##### Artikel 24
 
-1. Onze Minister stelt jaarlijks voor 1 december het budget voor de beheerskosten van het College sanering voor het volgende kalenderjaar vast.
+1. Onze Minister stelt jaarlijks voor 1 december het budget voor de beheerskosten van het College sanering voor het volgende kalenderjaar vast.
 
 2. Onze Minister kan besluiten het budget voor de beheerskosten van het College sanering te wijzigen.
 
@@ -247,7 +214,7 @@ Vervallen
 
 4. Het College sanering gaat met betrekking tot de beheerskosten geen verplichtingen aan en doet geen uitgaven die leiden tot overschrijding van het vastgestelde budget voor de beheerskosten.
 
-5. Indien het budget voor de beheerskosten niet is vastgesteld voor 1 januari van het kalenderjaar waarop de begroting betrekking heeft, is het College sanering bevoegd, teneinde zijn activiteiten gaande te houden, te beschikken over ten hoogste een derde gedeelte van het budget dat laatstelijk voor hem voor een geheel jaar is vastgesteld.
+5. Indien het budget voor de beheerskosten niet is vastgesteld voor 1 januari van het kalenderjaar waarop de begroting betrekking heeft, is het College sanering bevoegd, teneinde zijn activiteiten gaande te houden, te beschikken over ten hoogste een derde gedeelte van het budget dat laatstelijk voor hem voor een geheel jaar is vastgesteld.
 
 6. Onze Minister kan besluiten dat het College sanering in een geval als bedoeld in het vijfde lid, kan beschikken over meer dan een derde gedeelte van het budget dat laatstelijk voor hem voor een geheel jaar is vastgesteld.
 
@@ -255,7 +222,7 @@ Vervallen
 
 ##### Artikel 25
 
-1. Het College sanering zendt jaarlijks voor 15 maart aan Onze Minister een jaarverantwoording over het afgelopen kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het zesde lid.
+1. Het College sanering zendt jaarlijks voor 15 maart aan Onze Minister een jaarverantwoording over het afgelopen kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het zesde lid.
 
 2. De jaarverantwoording omvat:
 
@@ -299,7 +266,7 @@ Vervallen
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
@@ -313,15 +280,11 @@ Onze Minister kan beleidsregels vaststellen met betrekking tot de werkwijze en d
 
 ##### Artikel 31
 
-Vervallen
-
-#### Paragraaf 2. College sanering zorginstellingen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
-
-#### Paragraaf 3. Inlichtingen
+*Vervallen*
 
 ##### Artikel 33
 
@@ -331,7 +294,7 @@ Het College sanering verstrekt desgevraagd aan de Nederlandse Zorgautoriteit, be
 
 Het College sanering verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen en gegevens. Het College sanering verleent aan door Onze Minister aangewezen personen toegang tot en inzage in alle gegevens die Onze Minister nodig acht voor de uitoefening van zijn taak.
 
-### Hoofdstuk VIII. Sancties
+### Hoofdstuk VII. Toezicht
 
 ##### Artikel 35
 
@@ -341,7 +304,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, beho
 
 De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VII&artikel=35&z=2022-01-01&g=2022-01-01) bedoelde personen beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-### Hoofdstuk X. Overgangs- en slotbepalingen
+### Hoofdstuk VIII. Sancties
 
 ##### Artikel 37
 
@@ -351,7 +314,7 @@ Het College sanering is bevoegd tot oplegging van een last onder bestuursdwang t
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk X. Overgangs- en slotbepalingen
 
@@ -363,99 +326,99 @@ Vervallen
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 53
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 60
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 61
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 62
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 64
 
@@ -478,27 +441,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 68
 
 Deze wet wordt aangehaald als: Wet toelating zorginstellingen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk VII. Toezicht
-
-### Hoofdstuk IX. Rechtsbescherming
-
-### Hoofdstuk X. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk IV. Exploitatie
-
-### Hoofdstuk V. Sanering
-
-### Hoofdstuk VI. College sanering
-
-### Hoofdstuk VII. Toezicht
-
-### Hoofdstuk VIII. Sancties
-
-### Hoofdstuk IX. Rechtsbescherming
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

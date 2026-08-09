@@ -9,7 +9,7 @@ laatste_update: 2026-08-07
 status: geldig
 toestand: 2026-08-07
 bron: "https://wetten.overheid.nl/BWBR0011841"
-opgehaald: 2026-08-08
+opgehaald: 2026-08-09
 ---
 
 # Besluit van 27 november 2000, houdende vaststelling van het Warenwetbesluit bestuurlijke boeten

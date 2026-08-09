@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 18 november 2005, houdende regels over de vergoedingen die verschuldigd zijn voor door de Nationale ombudsman ontvangen klachten (Vergoedingenbesluit Wet Nationale ombudsman 2006)"
+citeertitel: "Vergoedingenbesluit Wet Nationale ombudsman 2006"
 identifier: "BWBR0019082"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019082"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "7647183"
-version_id: "12537722"
-internal_id: "C16835621"
-label_id: "7634954"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019082/2026-01-01/0"
-intitule_bron: "Stb.2005-607"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-11-18"
-intitule_published: "2005-12-06"
-intitule_in_force: "2005-12-06"
-intitule_status: "goed"
-original_publication: "Stb.2005-607"
-original_signed_date: "2005-11-18"
-original_published_date: "2005-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2005-607"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0019082&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0019082&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Vergoedingenbesluit Wet Nationale ombudsman 2006"
-signed_date: "2005-11-18"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0019082"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 18 november 2005, houdende regels over de vergoedingen die verschuldigd zijn voor door de Nationale ombudsman ontvangen klachten (Vergoedingenbesluit Wet Nationale ombudsman 2006)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 oktober 2005, 2005-0000244367, CZW;
-
-Gelet op [artikel 1c, tweede lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1c);
-
-De Raad van State gehoord (advies van 20 oktober 2005, nr. W04.05.0452/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 november 2005, nr. 2005-0000276117;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -60,13 +28,13 @@ In dit besluit wordt verstaan onder:
 
 1. De vergoeding, bedoeld in [artikel 1c, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1c), bedraagt:
 
-- a. voor provincies: € 0,0061 per 26 september 2025 en met terugwerkende kracht tot en met 1 januari 2025: € 0,0077 per inwoner per jaar;
+- a. voor provincies: € 0,0061 *per 26 september 2025 en met terugwerkende kracht tot en met 1 januari 2025: € 0,0077* per inwoner per jaar;
 
-- b. voor gemeenten: € 0,2321 per 26 september 2025 en met terugwerkende kracht tot en met 1 januari 2025: € 0,2845 per inwoner per jaar;
+- b. voor gemeenten: € 0,2321 *per 26 september 2025 en met terugwerkende kracht tot en met 1 januari 2025: € 0,2845* per inwoner per jaar;
 
-- c. voor waterschappen: € 0,0116 per 26 september 2025 en met terugwerkende kracht tot en met 1 januari 2025: € 0,0147 per ingezetene per jaar;
+- c. voor waterschappen: € 0,0116 *per 26 september 2025 en met terugwerkende kracht tot en met 1 januari 2025: € 0,0147* per ingezetene per jaar;
 
-- d. voor openbare lichamen: USD 0,1989 per 26 september 2025 en met terugwerkende kracht tot en met 1 januari 2025: USD 0,2497 per inwoner per jaar.
+- d. voor openbare lichamen: USD 0,1989 *per 26 september 2025 en met terugwerkende kracht tot en met 1 januari 2025: USD 0,2497* per inwoner per jaar.
 
 2. Voor de berekening van de vergoeding, bedoeld in het eerste lid, aanhef en onder a en b, wordt uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari van het jaar waarover de vergoeding is verschuldigd.
 
@@ -74,7 +42,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De vergoeding, bedoeld in [artikel 1c, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1c), bedraagt voor gemeenschappelijke regelingen € 1149 per 26 september 2025 en met terugwerkende kracht tot en met 1 januari 2025: € 1.441 per verzoekschrift dat door de Nationale ombudsman wordt ontvangen over gedragingen van een bestuursorgaan dat tot de gemeenschappelijke regeling behoort.
+1. De vergoeding, bedoeld in [artikel 1c, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1c), bedraagt voor gemeenschappelijke regelingen € 1149 *per 26 september 2025 en met terugwerkende kracht tot en met 1 januari 2025: € 1.441* per verzoekschrift dat door de Nationale ombudsman wordt ontvangen over gedragingen van een bestuursorgaan dat tot de gemeenschappelijke regeling behoort.
 
 2. In afwijking van het eerste lid, bepaalt Onze Minister, de Nationale ombudsman gehoord, in het geval dat twee of meer verzoekschriften dezelfde gedraging betreffen, dat eenmaal de voor een dergelijk verzoekschrift geldende vergoeding is verschuldigd.
 
@@ -82,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 1. De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019082&artikel=2&z=2026-01-01&g=2026-01-01), wordt jaarlijks uiterlijk op 30 november van het jaar waarover de vergoeding is verschuldigd, voldaan aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-2. Onze Minister stelt jaarlijks voor de provincies, gemeenten, openbare lichamen en waterschappen het bedrag van de vergoeding vast, gerekend over de periode 1 januari tot en met 31 december. Deze vaststelling geschiedt uiterlijk op 1 augustus van het jaar waarover de vergoeding is verschuldigd.
+2. Onze Minister stelt jaarlijks voor de provincies, gemeenten, openbare lichamen en waterschappen het bedrag van de vergoeding vast, gerekend over de periode 1 januari tot en met 31 december. Deze vaststelling geschiedt uiterlijk op 1 augustus van het jaar waarover de vergoeding is verschuldigd.
 
 ##### Artikel 5
 
@@ -111,5 +79,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2006.
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Vergoedingenbesluit Wet Nationale ombudsman 2006.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

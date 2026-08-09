@@ -1,38 +1,16 @@
 ---
 title: "Circulaire toepassing Herzieningswet Kadasterwet I"
 identifier: "BWBR0018682"
-country: "nl"
-rank: "circulaire"
-publication_date: "2005-09-01"
-last_updated: "2005-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018682"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "7305083"
-version_id: "12235322"
-internal_id: "C16474531"
-label_id: "7293634"
-dtd_version: "2.0"
-original_entry_into_force: "2005-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018682/2005-09-01/0"
-intitule_bron: "Stcrt.2005-167"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-08-19"
-intitule_published: "2005-08-30"
-intitule_in_force: "2005-08-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-167"
-original_signed_date: "2005-08-19"
-original_published_date: "2005-08-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-167-p32-SC71288"
-entry_into_force_date: "2005-09-01"
-jci_1_3: "jci1.3:c:BWBR0018682&z=2005-09-01&g=2005-09-01"
-jci_1_0: "1.0:c:BWBR0018682&g=2005-09-01"
-citeertitel_status: "redactioneel"
-signed_date: "2005-08-19"
-entry_into_force: "2005-09-01"
+publicatiedatum: 2005-09-01
+laatste_update: 2005-09-01
+status: geldig
+toestand: 2005-09-01
+bron: "https://wetten.overheid.nl/BWBR0018682"
+opgehaald: 2026-08-09
 ---
+
 # Circulaire toepassing Herzieningswet Kadasterwet I
 
 ### 1. Inleiding
@@ -45,9 +23,9 @@ De lagere regelgeving (het [Kadasterbesluit](https://wetten.overheid.nl/jci1.3:c
 
 Nu de Dienst voor het kadaster en de openbare registers (hierna: de Dienst) en zijn cliënten hun bedrijfsvoering reeds geruime tijd geleden hebben afgestemd op de [HKW I](https://wetten.overheid.nl/jci1.3:c:BWBR0017989), willen het bestuur van de Dienst en haar cliënten vooruitlopend op de inwerkingtreding van de lagere regelgeving reeds aanvangen met de toepassing van informatie- en communicatietechnologie in het berichtenverkeer met de Dienst. De Minister van VROM wil het bestuur van de Dienst en zijn cliënten deze mogelijkheid bieden.
 
-In hoofdstuk 2, paragrafen 3.2 tot en met 3.3, hoofdstuk 4 en hoofdstuk 5 van deze circulaire wordt beschreven onder welke voorwaarden de cliënten van de Dienst gebruik kunnen maken van de informatie- en communicatietechnologie in het berichtenverkeer met de Dienst.
+In [hoofdstuk 2, paragrafen 3.2 tot en met 3.3](https://wetten.overheid.nl/BWBR0018682), [hoofdstuk 4](https://wetten.overheid.nl/BWBR0018682) en [hoofdstuk 5](https://wetten.overheid.nl/BWBR0018682) van deze circulaire wordt beschreven onder welke voorwaarden de cliënten van de Dienst gebruik kunnen maken van de informatie- en communicatietechnologie in het berichtenverkeer met de Dienst.
 
-Daarnaast wordt in paragrafen 3.2 en 3.4 ingegaan op de eisen waaraan een afschrift van een stuk dat in papieren vorm ter inschrijving wordt aangeboden dient te voldoen.
+Daarnaast wordt in [paragrafen 3.2](https://wetten.overheid.nl/BWBR0018682) en [3.4](https://wetten.overheid.nl/BWBR0018682) ingegaan op de eisen waaraan een afschrift van een stuk dat in papieren vorm ter inschrijving wordt aangeboden dient te voldoen.
 
 Vanaf 1 september a.s. vervalt de verplichting om bij het vervaardigen van zo’n afschrift gebruik te maken van een door de Dienst verstrekt formulier ‘Hypotheken 3’ of ‘Hypotheken 4’. Nu het afschrift na de inschrijving door de Dienst wordt gedigitaliseerd en als elektronisch duplicaat wordt opgeslagen in het geautomatiseerde deel van de openbare registers, is het niet langer noodzakelijk om het gebruik van voornoemde formulieren voor te schrijven. De afschaffing van de formulieren ‘Hypotheken 3’ en ‘Hypotheken 4’ betekent voor de cliënten van de Dienst bovendien dat zij op een gemakkelijkere wijze afschriften kunnen vervaardigen. Om het proces van digitalisering doelmatig te laten verlopen, is het echter wel wenselijk om een aantal voorwaarden te stellen ten aanzien van de vorm van de afschriften.
 
@@ -73,13 +51,25 @@ Indien een wijziging optreedt in enig gegeven dat in het formulier ‘Aanmelding
 
 ### § 2.2. Elektronisch postadres
 
-Het bestuur van de Dienst opent ten behoeve van het elektronische berichtenverkeer verbonden aan het houden van de openbare registers een elektronisch postadres. Door in te loggen op Kadaster-on-line (bereikbaar via de website https://kadaster-on-line.kadaster.nl) en daarna te kiezen voor de optie ‘aanleveren stukken’, wordt de cliënt – mits hij is aangemeld overeenkomstig de procedure van § 2.1 – na het invoeren van zijn eigen mailadres automatisch doorgeleid naar het elektronische postadres van de Dienst.
+Het bestuur van de Dienst opent ten behoeve van het elektronische berichtenverkeer verbonden aan het houden van de openbare registers een elektronisch postadres. Door in te loggen op Kadaster-on-line (bereikbaar via de website https://kadaster-on-line.kadaster.nl) en daarna te kiezen voor de optie ‘aanleveren stukken’, wordt de cliënt – mits hij is aangemeld overeenkomstig de procedure van [§ 2.1](https://wetten.overheid.nl/BWBR0018682) – na het invoeren van zijn eigen mailadres automatisch doorgeleid naar het elektronische postadres van de Dienst.
 
 ### § 2.3. De applicatiesoftware
 
 De Dienst heeft voor het elektronisch aanleveren van stukken software ontwikkeld met de naam Web-ELAN. Door middel van deze software is elektronisch berichtenverkeer tussen de Dienst en zijn cliënten mogelijk, mits de cliënten beschikken over:
 
-Met de Web-ELAN-software kunnen de Dienst en zijn cliënten de integriteitswaarde van elektronische berichten en de daarin opgenomen bestanden vercijferen en berekenen tot een elektronische handtekening en kan de Dienst de integriteitswaarde van de elektronische berichten en de daarin opgenomen bestanden (zie § 3.3.1) die door zijn cliënten worden toegezonden, ontcijferen.
+- – e-mail;
+
+- – toegang tot Kadaster-on-line (bereikbaar via de website https://kadaster-on-line.kadaster.nl);
+
+- – de Java-webomgeving die eenmalig via de link onder de knop ‘Aanleveren stukken’ van Kadaster-on-line kan worden gedownload;
+
+- – een applicatie waarmee een akte naar PDF-formaat kan worden geconverteerd (bijvoorbeeld Adobe Acrobat of PDF Factory);
+
+- – een geldige smartcard waarmee een gekwalificeerde elektronische handtekening kan worden vervaardigd, alsmede een op een USB-poort aan te sluiten smartcardreader of een USB-token;
+
+- – Windows 2000 of hoger en Internet Explorer 5.5 of hoger.
+
+Met de Web-ELAN-software kunnen de Dienst en zijn cliënten de integriteitswaarde van elektronische berichten en de daarin opgenomen bestanden vercijferen en berekenen tot een elektronische handtekening en kan de Dienst de integriteitswaarde van de elektronische berichten en de daarin opgenomen bestanden (zie [§ 3.3.1](https://wetten.overheid.nl/BWBR0018682)) die door zijn cliënten worden toegezonden, ontcijferen.
 
 ### 3. Inschrijving van stukken
 
@@ -91,6 +81,16 @@ In [artikel 10b van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004
 
 Indien een stuk, alsmede een tekening, een foto of een ander stuk dat daarvan deel uitmaakt (hierna: bijlage), in elektronische of papieren vorm ter inschrijving wordt aangeboden, dient ingevolge de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11), en [11b, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b) van deze documenten tevens een afschrift te worden aangeboden. Ten aanzien van het afschrift gelden de volgende eisen:
 
+- a. het afschrift is voldoende raadpleegbaar;
+
+- b. het afschrift bevat geen andere teksten of afbeeldingen dan de tekst of de afbeeldingen ten aanzien waarvan inschrijving wordt verzocht (dus geen reclameteksten);
+
+- c. iedere pagina van het afschrift heeft aan de boven- en onderzijde een marge van 2 cm;
+
+- d. de tekst van het afschrift van het ter inschrijving aangeboden stuk heeft de kleur zwart op een witte ondergrond, en
+
+- e. andere kleuren dan zwart en wit mogen alleen worden gebruikt op tekeningen en foto’s die deel uitmaken van het ter inschrijving aan te bieden stuk. Het gebruik van andere kleuren dan zwart en wit dient op het afschrift van de tekening of de foto vermeld te worden op een in het oog vallende plaats.
+
 ### § 3.3. Eisen voor de inschrijving van stukken in elektronische vorm
 
 ### § 3.3.1. Het elektronische bericht
@@ -99,6 +99,18 @@ Stukken kunnen in elektronische vorm ter inschrijving worden aangeboden als onde
 
 In het elektronische bericht dienen in ieder geval te zijn opgenomen:
 
+- a. het verzoek tot inschrijving;
+
+- b. een afschrift van het in te schrijven stuk;
+
+- c. voorzover van toepassing, elektronische afschriften van de bijlagen, of de bewijsstukken waarvan de inschrijving al dan niet wordt voorgeschreven;
+
+- d. de elektronische handtekening van het elektronische bericht en het bijbehorende certificaat;
+
+- e. de elektronische handtekening van het afschrift van het in te schrijven stuk en het bijbehorende certificaat, en
+
+- f. voorzover van toepassing, de elektronische handtekeningen op de elektronische afschriften van de bijlagen, of de bewijsstukken waarvan de inschrijving al dan niet wordt voorgeschreven, alsmede de daarbij behorende certificaten.
+
 Een afschrift van een bijlage kan tezamen met het afschrift van het stuk waar deze bijlage deel van uitmaakt, in een elektronisch bestand of in een afzonderlijk elektronisch bestand worden aangeboden.
 
 ### § 3.3.2. Het verzoek tot inschrijving
@@ -106,6 +118,16 @@ Een afschrift van een bijlage kan tezamen met het afschrift van het stuk waar de
 In het verzoek tot inschrijving dient met de naam van de betrokken Kadastervestiging en een verwijzing naar het register ‘hypotheken 3’ of ‘hypotheken 4’ aangegeven te worden voor welk register het stuk dat ter inschrijving wordt aangeboden bestemd is.
 
 In het verzoek tot inschrijving dient voorts een dossierkenmerk vermeld te worden, dat voorafgegaan wordt door één van de volgende letters:
+
+- a. in geval van een inschrijving van stukken betreffende feiten die betrekking hebben op een recht van hypotheek: de letter H;
+
+- b. in geval van een inschrijving van stukken betreffende feiten die betrekking hebben op een inbeslagneming: de letter B;
+
+- c. in geval van een inschrijving van stukken betreffende de doorhaling van een recht van hypotheek of een inbeslagneming: de letter D;
+
+- d. in geval van een inschrijving van stukken betreffende feiten die betrekking hebben op een overdracht van een perceel naar één of twee verkrijgers: de letter M, en
+
+- e. in geval van alle overige inschrijvingen: de letter O.
 
 ### § 3.3.3. De elektronische afschriften van het ter inschrijving aan te bieden stuk en de bijlagen
 
@@ -118,6 +140,16 @@ Indien op het elektronische afschrift van een tekening een schaalverhouding is v
 ### § 3.3.4. Het overleggen van een bewijsstuk in elektronische vorm
 
 Indien ter verkrijging van een inschrijving door de aanbieder stukken voor bewijs (hierna: bewijsstukken) dienen te worden aangeboden, die niet hoeven te worden ingeschreven, kunnen die stukken in elektronische vorm worden overgelegd, mits daarbij het volgende in acht wordt genomen:
+
+- – Indien het origineel van het bewijsstuk is voorzien van een elektronische handtekening, dient bij het afschrift van dit stuk een verklaring van een certificatiedienstverlener te worden gevoegd, inhoudende dat de elektronische handtekening op het originele stuk is gebaseerd op een gekwalificeerd certificaat, onder toevoeging van de volgende gegevens:
+
+   - a. de naam van degene die het originele stuk heeft voorzien van een elektronische handtekening, zoals blijkt uit het bij de elektronische handtekening behorende certificaat;
+
+   - b. de identiteitscode van voornoemd certificaat, en
+
+   - c. de naam van de certificatiedienstverlener die voornoemd certificaat heeft afgegeven.
+
+- – Indien het origineel van het bewijsstuk is opgemaakt in papieren vorm, kan een door een notaris of een waarnemend notaris voor eensluidendheid gewaarmerkt elektronisch afschrift worden overgelegd, mits de notaris of de waarnemend notaris tevens een bewijsstuk overlegt waaruit blijkt dat hij bevoegd is om als notaris, dan wel waarnemend notaris op te treden.
 
 ### § 3.3.5. Het overleggen van het bewijsstuk betreffende de benoeming van een notaris of een kandidaatnotaris met waarnemingsbevoegdheid
 
@@ -141,11 +173,33 @@ Is het elektronische afschrift van een bijlage voorafgaand aan de inschrijving o
 
 De equivalentieverklaring dient voorzien te worden van een elektronische handtekening door:
 
+- a. indien het notariële akten en notariële verklaringen betreft: een notaris of een waarnemend notaris;
+
+- b. indien het rechterlijke uitspraken betreft: de desbetreffende griffier, dan wel een notaris of een waarnemend notaris;
+
+- c. indien het een proces-verbaal van inbeslagneming betreft: de desbetreffende deurwaarder of procureur, dan wel een notaris of een waarnemend notaris;
+
+- d. indien het een instelling van een rechtsvordering, of een indiening van een verzoekschrift ter verkrijging van een rechterlijke uitspraak betreft: degene die het ter inschrijving aangeboden stuk voor afschrift heeft getekend, dan wel een notaris of een waarnemend notaris;
+
+- e. indien het andere dan de onder a tot en met d bedoelde stukken betreft: de ondertekenaars van die stukken, dan wel één of meer van hen die daartoe uitdrukkelijk in het stuk zijn gemachtigd, dan wel een notaris of een waarnemend notaris.
+
 Tot de onder e genoemde stukken behoren ook de akten van levering die zijn ondertekend door een tot het opmaken van akten van levering bevoegd verklaarde zaakwaarnemer of scheepsmakelaar. De door een daartoe bevoegde persoon ondertekende stukken mogen elektronisch worden aangeleverd door iedereen die als elektronische aanbieder is geregistreerd.
 
 De equivalentieverklaring dient de vermelding van de naam, de voornamen en de woonplaats met het adres te bevatten van degene die de verklaring voorziet van een elektronische handtekening. Indien de verklaring van eensluidendheid echter wordt ondertekend door een notaris, waarnemend notaris, gerechtsdeurwaarder, griffier dan wel een advocaat of procureur, kan in plaats van de woonplaats met het adres worden vermeld:
 
+- a. de benaming van het ambt en de plaats van vestiging van de notaris of de waarnemend notaris, dan wel de gerechtsdeurwaarder;
+
+- b. de benaming van het ambt en de standplaats van de griffier, of
+
+- c. de benaming van de hoedanigheid van de advocaat of de procureur en de plaats van vestiging van de advocaat of procureur.
+
 Indien het origineel van een stuk dat onderdeel uitmaakt van een in elektronische vorm ter inschrijving aan te bieden stuk, is voorzien van een elektronische handtekening, dienen in de equivalentieverklaring op het afschrift van het eerstgenoemde stuk nog de volgende gegevens toegevoegd te worden:
+
+- a. de naam van degene die het originele stuk heeft voorzien van een elektronische handtekening, zoals blijkt uit het bij de elektronische handtekening behorende certificaat;
+
+- b. de identiteitscode van dit certificaat;
+
+- c. de naam van de certificatiedienstverlener die het certificaat heeft afgegeven.
 
 ### § 3.3.7. Bewijs van ontvangst en bewijs van inschrijving
 
@@ -171,6 +225,10 @@ Indien de inschrijving van een stuk dat in elektronische vorm is aangeboden, wor
 
 Een hernieuwd verzoek tot inschrijving in elektronische vorm dient voorzien te zijn van de elektronische handtekening van:
 
+- a. de oorspronkelijke aanbieder, dan wel
+
+- b. een persoon die bevoegd is tot het opmaken van het stuk waarop het hernieuwde verzoek tot inschrijving betrekking heeft.
+
 Geschiedt het hernieuwde verzoek tot inschrijving in papieren vorm, dan dient de hernieuwde aanbieding van bijlagen tezamen met de indiening van het verzoek tot hernieuwde inschrijving in papieren vorm plaats te vinden.
 
 ### § 3.3.10. De digitale handtekening
@@ -185,6 +243,12 @@ Tenslotte controleert de bewaarder of het elektronische bericht ongewijzigd bij 
 
 De bewaarder maakt in het elektronische gedeelte van de openbare registers een aantekening van elke digitale handtekening waarvan een aan de Dienst verzonden bericht is voorzien. Deze aantekening bevat de volgende gegevens ten aanzien van de ondertekenaar en het certificaat waarop de digitale handtekening is gebaseerd:
 
+- a. de naam van de ondertekenaar, zoals die de bewaarder is gebleken uit het certificaat;
+
+- b. de identiteitscode van het certificaat, en
+
+- c. de naam van de certificatiedienstverlener die het certificaat heeft afgegeven.
+
 Voor de overige eisen die worden gesteld aan het gebruik van de digitale handtekening certificaten wordt verwezen naar hoofdstuk 3 van de ‘Technische handleiding elektronisch aanleveren’.
 
 ### § 3.3.11. Verzoek tot vaststelling van een afwijkend uitwisselingsprotocol
@@ -194,6 +258,12 @@ De cliënten van de Dienst kunnen ingevolge [artikel 11a, eerste lid, van de Kad
 Een verzoek tot vaststelling van een afwijkend uitwisselingsprotocol kan in papieren vorm worden ingediend bij de hoofdbewaarder.
 
 Het verzoek kan worden toegewezen, mits voldaan is aan de volgende voorwaarden:
+
+- a. het afwijkende uitwisselingsprotocol doet geen afbreuk aan de doelstelling van elektronische gegevensuitwisseling;
+
+- b. het afwijkende uitwisselingsprotocol past bij het gebruik van geavanceerde elektronische handtekeningen, en
+
+- c. de kosten die voortvloeien uit het afwijkende uitwisselingsprotocol worden gedragen door degene die het verzoek indient.
 
 De hoofdbewaarder deelt na ontvangst van het verzoek binnen een redelijke termijn mede of een afwijkend uitwisselingsprotocol zal worden vastgesteld en doet daarbij een opgave van de hieraan verbonden kosten.
 
@@ -224,6 +294,12 @@ Is de tekening of de foto vervaardigd op een groter formaat dan A0-formaat, dan 
 Indien een stuk, alsmede tekeningen, foto’s en andere stukken die daarvan deel uitmaken, in papieren vorm bij de Dienst wordt aangeboden, dan dient het desbetreffende afschrift van die documenten in papieren vorm voorzien te zijn van een verklaring van eensluidendheid als bedoeld in [artikel 11, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11).
 
 De verklaring van eensluidendheid dient te worden gesteld aan de voet van het afschrift en dient de verklaring te bevatten dat het afschrift eensluidend is met het ter inschrijving aangeboden stuk. In de verklaring dienen voorts de naam, de voornamen en de woonplaats met het adres te worden vermeld van degene die de verklaring ondertekent. Indien de verklaring van eensluidendheid ondertekend wordt door een notaris, waarnemend notaris, gerechtsdeurwaarder, griffier dan wel een advocaat of procureur, kan in plaats van de woonplaats met het adres worden vermeld:
+
+- a. de benaming van het ambt en de plaats van vestiging van de notaris of de waarnemend notaris, dan wel de gerechtsdeurwaarder;
+
+- b. de benaming van het ambt en de standplaats van de griffier, of
+
+- c. de benaming van de hoedanigheid van de advocaat of de procureur en de plaats van vestiging van de advocaat of procureur.
 
 ### § 3.4.4. De verklaring van inschrijving
 
@@ -289,7 +365,7 @@ Indien een afschrift van een bijlage in bewaring is gegeven, hoeft dat afschrift
 
 Een verzoek tot vaststelling van een complexnummer ter zake van appartementsrechten als bedoeld in [artikel 2, derde lid, van het Kadasterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=2) (hierna: verzoek tot vaststelling van een complexnummer) kan in papieren of in elektronische vorm bij de Dienst worden ingediend.
 
-Een verzoek tot vaststelling van een complexnummer met daarbij gevoegd een afschrift van de tekening, bedoeld in [artikel 109, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109), kan in elektronische vorm in enkelvoud worden ingediend op het in § 2.2 genoemde elektronische postadres van de Dienst. Het verzoek dient door een notaris of een waarnemend notaris te worden gedagtekend en te worden voorzien van een elektronische handtekening die voldoet aan [artikel 7e van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7e). Indien het afschrift van de tekening uit meerdere deeltekeningen bestaat, dient de notaris of de waarnemend notaris in het verzoek tot vaststelling van een complexnummer te verklaren hoeveel deeltekeningen het betreft.
+Een verzoek tot vaststelling van een complexnummer met daarbij gevoegd een afschrift van de tekening, bedoeld in [artikel 109, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109), kan in elektronische vorm in enkelvoud worden ingediend op het in [§ 2.2](https://wetten.overheid.nl/BWBR0018682) genoemde elektronische postadres van de Dienst. Het verzoek dient door een notaris of een waarnemend notaris te worden gedagtekend en te worden voorzien van een elektronische handtekening die voldoet aan [artikel 7e van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7e). Indien het afschrift van de tekening uit meerdere deeltekeningen bestaat, dient de notaris of de waarnemend notaris in het verzoek tot vaststelling van een complexnummer te verklaren hoeveel deeltekeningen het betreft.
 
 Op het bij het verzoek tot vaststelling van een complexnummer gevoegde afschrift van de tekening dienen de voor de desbetreffende afbeelding gebruikte schaal en de afmetingen van de originele afbeelding te worden vermeld.
 
@@ -306,31 +382,3 @@ Nadat de bewaarder de complexaanduiding heeft vastgesteld, vervaardigt hij een e
 ### 6. Tot slot
 
 Deze circulaire zal worden gepubliceerd in de Staatscourant. De ‘Technische handleiding elektronisch aanleveren’, alsmede alle overige bijlagen bij deze circulaire zijn verkrijgbaar bij alle Kadasterkantoren en kunnen worden gedownload van www.kadaster.nl/zakelijk.
-
-## Bijlage 1
-
-Verkrijgbaar bij alle Kadasterkantoren en te downloaden op www.kadaster.nl/zakelijk.
-
-## Bijlage 2
-
-Verkrijgbaar bij alle Kadasterkantoren en te downloaden op www.kadaster.nl/zakelijk.
-
-## Bijlage 3
-
-Verkrijgbaar bij alle Kadasterkantoren en te downloaden op www.kadaster.nl/zakelijk.
-
-## Bijlage 4
-
-Verkrijgbaar bij alle Kadasterkantoren en te downloaden op www.kadaster.nl/zakelijk.
-
-## Bijlage 5
-
-Verkrijgbaar bij alle Kadasterkantoren en te downloaden op www.kadaster.nl/zakelijk.
-
-## Bijlage 6
-
-Verkrijgbaar bij alle Kadasterkantoren en te downloaden op www.kadaster.nl/zakelijk.
-
-## Bijlage 7
-
-Verkrijgbaar bij alle Kadasterkantoren en te downloaden op www.kadaster.nl/zakelijk.

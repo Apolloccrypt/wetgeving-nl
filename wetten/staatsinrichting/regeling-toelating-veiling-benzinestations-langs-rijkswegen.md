@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 20 juli 2005 inzake het toelaten van deelnemers aan de vanwege de Staat uit te schrijven veiling van benzinestations langs rijkswegen (Regeling toelating veiling benzinestations langs rijkswegen)"
+citeertitel: "Regeling toelating veiling benzinestations langs rijkswegen"
 identifier: "BWBR0018618"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-07-31"
-last_updated: "2005-07-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018618"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "7187153"
-version_id: "12103492"
-internal_id: "C16259711"
-label_id: "7175154"
-original_entry_into_force: "2005-07-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018618/2005-07-31/0"
-intitule_bron: "Stcrt.2005-143"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-07-20"
-intitule_published: "2005-07-27"
-intitule_in_force: "2005-07-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-143"
-original_signed_date: "2005-07-20"
-original_published_date: "2005-07-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-143-p16-SC70920"
-entry_into_force_date: "2005-07-31"
-jci_1_3: "jci1.3:c:BWBR0018618&z=2005-07-31&g=2005-07-31"
-jci_1_0: "1.0:c:BWBR0018618&g=2005-07-31"
-citeertitel_status: "officieel"
-short_title: "Regeling toelating veiling benzinestations langs rijkswegen"
-signed_date: "2005-07-20"
-entry_into_force: "2005-07-31"
+publicatiedatum: 2005-07-31
+laatste_update: 2005-07-31
+status: geldig
+toestand: 2005-07-31
+bron: "https://wetten.overheid.nl/BWBR0018618"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de Minister van Financiën van 20 juli 2005 inzake het toelaten van deelnemers aan de vanwege de Staat uit te schrijven veiling van benzinestations langs rijkswegen (Regeling toelating veiling benzinestations langs rijkswegen)
-
-Gelet op [artikel 5, derde lid, van de Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -93,9 +68,9 @@ De huurrechten die zijn vermeld in de veilingbrochure en het desbetreffende bied
 
 ##### Artikel 5. Eisen aan de aanvraag
 
-1. De aanvraag omvat de gegevens en bescheiden, bedoeld in de bij deze regeling behorende bijlage, volgens de specificaties in deze bijlage.
+1. De aanvraag omvat de gegevens en bescheiden, bedoeld in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/BWBR0018618), volgens de specificaties in deze [bijlage](https://wetten.overheid.nl/BWBR0018618).
 
-2. De aanvraag wordt ingedeeld overeenkomstig de in het eerste lid bedoelde bijlage.
+2. De aanvraag wordt ingedeeld overeenkomstig de in het eerste lid bedoelde [bijlage](https://wetten.overheid.nl/BWBR0018618).
 
 3. In de aanvraag worden de namen vermeld van ten hoogste drie natuurlijke personen, die beschikken over een rechtsgeldige en toereikende volmacht om namens de aanvrager handelingen te verrichten gedurende de veiling van de huurrechten zoals vermeld in de biedboeken.
 
@@ -113,7 +88,7 @@ De huurrechten die zijn vermeld in de veilingbrochure en het desbetreffende bied
 
 8. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018618&artikel=6&z=2005-07-31&g=2005-07-31) informeert de aanvrager de directeur Domeinen onmiddellijk over wijzigingen met betrekking tot de in het eerste lid bedoelde gegevens en bescheiden.
 
-9. In afwijking van het eerste lid kan in geval een aanvrager in het jaar direct voorafgaande aan het jaar van aanvraag eveneens een aanvraag tot deelneming aan de veiling van benzinestations langs rijkswegen heeft ingediend, het indienen van de bescheiden genoemd onder punt A van de in het eerste lid bedoelde bijlage en van de bescheiden genoemd in lid 5 van dit artikel achterwege blijven, mits de in de bescheiden omschreven situatie nog gelijk is aan het direct voorafgaande jaar en de geldigheidsduur van de bescheiden nog niet is verstreken.
+9. In afwijking van het eerste lid kan in geval een aanvrager in het jaar direct voorafgaande aan het jaar van aanvraag eveneens een aanvraag tot deelneming aan de veiling van benzinestations langs rijkswegen heeft ingediend, het indienen van de bescheiden genoemd onder punt A van de in het eerste lid bedoelde [bijlage](https://wetten.overheid.nl/BWBR0018618) en van de bescheiden genoemd in lid 5 van dit artikel achterwege blijven, mits de in de bescheiden omschreven situatie nog gelijk is aan het direct voorafgaande jaar en de geldigheidsduur van de bescheiden nog niet is verstreken.
 
 ##### Artikel 6. Ontvangst aanvraag
 
@@ -174,17 +149,3 @@ Deze regeling treedt in werking met ingang van 31 juli 2005.
 ##### Artikel 15
 
 Deze regeling wordt aangehaald als Regeling toelating veiling benzinestations langs rijkswegen.
-
-## Bijlage. Informatie over de aanvrager
-
-### **A. Algemeen**
-
-Een door de Kamer van Koophandel ondertekend uittreksel van het Handelsregister als bedoeld in [artikel 15 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=15).
-
-### **B. Overeenkomsten met derden**
-
-Alle bestaande en voorgenomen strategische overeenkomsten met derden, voor zover betrekking hebbend op de exploitatie van benzinestations worden genoemd en beschreven.
-
-### **C. Schriftelijke verklaringen omtrent de juistheid der gegevens**
-
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.

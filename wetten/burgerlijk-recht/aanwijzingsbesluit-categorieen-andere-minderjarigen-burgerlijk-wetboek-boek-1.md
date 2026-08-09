@@ -1,43 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie van 12 januari 2005, nr. 5328242/04/DJJ, houdende aanwijzing van categorieën andere minderjarigen als bedoeld in de artikelen 241, zevende lid, en 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek"
+citeertitel: "Aanwijzingsbesluit categorieën andere minderjarigen Burgerlijk Wetboek Boek 1"
 identifier: "BWBR0017897"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-01-23"
-last_updated: "2010-01-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017897"
+categorie: "Burgerlijk recht"
 soort: "ministeriele-regeling"
-stam_id: "6645913"
-version_id: "11480612"
-internal_id: "C29122531"
-label_id: "6634264"
-original_entry_into_force: "2005-01-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017897/2010-01-23/0"
-intitule_bron: "Stcrt.2005-11"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-01-12"
-intitule_published: "2005-01-17"
-intitule_in_force: "2005-01-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-11"
-original_signed_date: "2005-01-12"
-original_published_date: "2005-01-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-11-p12-SC68511"
-entry_into_force_date: "2005-01-19"
-jci_1_3: "jci1.3:c:BWBR0017897&z=2010-01-23&g=2010-01-23"
-jci_1_0: "1.0:c:BWBR0017897&g=2010-01-23"
-citeertitel_status: "redactioneel"
-short_title: "Aanwijzingsbesluit categorieën andere minderjarigen Burgerlijk Wetboek Boek 1"
-signed_date: "2005-01-12"
-entry_into_force: "2005-01-19"
+publicatiedatum: 2005-01-19
+laatste_update: 2010-01-23
+status: geldig
+toestand: 2010-01-23
+bron: "https://wetten.overheid.nl/BWBR0017897"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van de Minister van Justitie van 12 januari 2005, nr. 5328242/04/DJJ, houdende aanwijzing van categorieën andere minderjarigen als bedoeld in de artikelen 241, zevende lid, en 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek
-
-Gelet op de [artikelen 241, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241), en [302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=302);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -62,5 +37,3 @@ Als ‘categorieën andere minderjarigen’ over wie de rechter de voorlopige vo
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2005.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

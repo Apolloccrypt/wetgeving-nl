@@ -1,45 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw d.d. 29 november 2005, houdende de vaststelling van de tarieven genoemd in de Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2005 (Besluit PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2005)"
+citeertitel: "Besluit PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2005"
 identifier: "BWBR0019127"
-country: "nl"
-rank: "pbo"
-publication_date: "2005-12-18"
-last_updated: "2005-12-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019127"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "7793663"
-version_id: "12713082"
-internal_id: "C17130381"
-label_id: "7781294"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019127/2005-12-18/0"
-intitule_bron: "Vbbo.2005-72"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-11-29"
-intitule_published: "2005-12-16"
-intitule_in_force: "2005-12-16"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-72"
-original_signed_date: "2005-11-29"
-original_published_date: "2005-12-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-12-18"
-jci_1_3: "jci1.3:c:BWBR0019127&z=2005-12-18&g=2005-12-18"
-jci_1_0: "1.0:c:BWBR0019127&g=2005-12-18"
-citeertitel_status: "officieel"
-short_title: "Besluit PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2005"
-signed_date: "2005-11-29"
-entry_into_force: "2005-12-18"
+publicatiedatum: 2005-12-18
+laatste_update: 2005-12-18
+status: geldig
+toestand: 2005-12-18
+bron: "https://wetten.overheid.nl/BWBR0019127"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw d.d. 29 november 2005, houdende de vaststelling van de tarieven genoemd in de Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2005 (Besluit PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2005)
-
-gelet op [artikel 2 van de Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018239&artikel=2);
-
-gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen d.d. 15 november 2005;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -62,5 +35,3 @@ Dit besluit wordt aangehaald als: Besluit PT heffing bestrijding Ditylenchus dip
 ##### Artikel 4
 
 Dit besluit treedt in werking op de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.
-
-Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

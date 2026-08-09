@@ -1,46 +1,18 @@
 ---
 title: "Basisregeling Archiefbeheer van de stichting Stimuleringsfonds voor Architectuur"
+citeertitel: "Basisregeling Archiefbeheer van het Stimuleringsfonds voor Architectuur"
 identifier: "BWBR0018352"
-country: "nl"
-rank: "zbo"
-publication_date: "2005-09-10"
-last_updated: "2005-09-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018352"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "7335243"
-version_id: "12275052"
-internal_id: "C16511981"
-label_id: "7323054"
-dtd_version: "2.0"
-original_entry_into_force: "2005-09-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018352/2005-09-10/0"
-intitule_bron: "Stcrt.2005-175"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-05-23"
-intitule_published: "2005-09-09"
-intitule_in_force: "2005-09-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-175"
-original_signed_date: "2005-05-23"
-original_published_date: "2005-09-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-175-p22-SC71475"
-entry_into_force_date: "2005-09-10"
-jci_1_3: "jci1.3:c:BWBR0018352&z=2005-09-10&g=2005-09-10"
-jci_1_0: "1.0:c:BWBR0018352&g=2005-09-10"
-citeertitel_status: "officieel"
-short_title: "Basisregeling Archiefbeheer van het Stimuleringsfonds voor Architectuur"
-signed_date: "2005-05-23"
-entry_into_force: "2005-09-10"
+publicatiedatum: 2005-09-10
+laatste_update: 2005-09-10
+status: geldig
+toestand: 2005-09-10
+bron: "https://wetten.overheid.nl/BWBR0018352"
+opgehaald: 2026-08-09
 ---
+
 # Basisregeling Archiefbeheer van de stichting Stimuleringsfonds voor Architectuur
-
-Overwegende dat het op grond van de wet vereist is een regeling te treffen m.b.t. het beheer van de archiefbescheiden van het SfA, voor zover deze betrekking hebben op de uitoefening van de openbare taken van het SfA en deze niet zijn overgebracht naar een archiefbewaarplaats in de zin van de wet;
-
-Gelet op [artikel 41, lid 1a van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=41) en [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
-
-Besluit:
 
 ##### Artikel 1. Definities
 

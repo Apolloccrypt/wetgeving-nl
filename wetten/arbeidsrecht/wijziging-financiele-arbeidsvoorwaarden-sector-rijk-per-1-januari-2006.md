@@ -1,38 +1,16 @@
 ---
 title: "Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2006"
 identifier: "BWBR0019256"
-country: "nl"
-rank: "circulaire"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019256"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "7762003"
-version_id: "12663702"
-internal_id: "C17050271"
-label_id: "7749754"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019256/2006-01-01/0"
-intitule_bron: "Stcrt.2005-251"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-13"
-intitule_published: "2005-12-27"
-intitule_in_force: "2005-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-251"
-original_signed_date: "2005-12-13"
-original_published_date: "2005-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-251-p15-SC73045"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0019256&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0019256&g=2006-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2005-12-13"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0019256"
+opgehaald: 2026-08-09
 ---
+
 # Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2006
 
 ### Inleiding/managementinformatie
@@ -45,6 +23,24 @@ A. Aanpassing van diverse bedragen per 1 januari 2006, te weten:
 
 B. Overige mededelingen, te weten over:
 
+- 1. het aantal te werken uren op jaarbasis in 2006;
+
+- 2. de hoogte van de eindejaarsuitkering in 2006;
+
+- 3. de hoogte van het maximum spaarloonbedrag in 2006;
+
+- 4. de vakbondsfaciliteiten;
+
+- 5. [Regeling werkgeversbijdrage kinderopvang rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017415);
+
+- 6. de belastingvrije vergoeding reiskosten;
+
+- 7. inhoudingen en afdrachten inzake pensioenen e.d. per 1 januari 2006;
+
+- 8. FPU-ers en [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+
+- 9. [WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
+
 C. Nog tot stand te brengen wijzigingen.
 
 D. Tot stand gekomen besluiten, regelingen en circulaires.
@@ -53,9 +49,23 @@ Voor de ambtenaar die al in het IPA-salarissysteem is opgenomen, zullen de onder
 
 ### A. Aanpassing van diverse bedragen
 
+1. Reisregeling binnenland
+
 De wijzigingen van de [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912) per 1 januari 2006 houden het volgende in:
 
 In [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005912&artikel=5), worden de vergoedingen wegens verblijfkosten als volgt gewijzigd:
+
+- – het in de aanhef genoemde bedrag van de dagcomponent van € 3,56 wordt gewijzigd in € 3,64;
+
+- – het in de aanhef genoemde bedrag van de avondcomponent van € 10,66 wordt gewijzigd in € 10,89;
+
+- – het in onderdeel a genoemde bedrag voor een lunch (lunchcomponent) van € 11,21 wordt gewijzigd in € 11,46;
+
+- – het in onderdeel b genoemde bedrag voor een avondmaaltijd (dinercomponent) van € 16,94 wordt gewijzigd in € 17,34;
+
+- – het in onderdeel c genoemde bedrag voor logies (logiescomponent) van € 69,07 wordt gewijzigd in € 69,75;
+
+- – het in onderdeel d genoemde bedrag voor een ontbijt (ontbijtcomponent) van € 6,73 wordt gewijzigd in € 6,82.
 
 De bedragen van de vergoedingen per kilometer voor een motorvoertuig van € 0,28 resp. € 0,09, voor een bromfiets van € 0,10 resp. € 0,09, voor een fiets van € 0,05 wijzigen niet.
 
@@ -63,25 +73,53 @@ De ministeriële regeling waarin de wijzigingen zijn opgenomen, is in de Staatsc
 
 ### B. Overige mededelingen
 
+1. Aantal te werken uren op jaarbasis in 2006
+
 Het aantal te werken uren op jaarbasis bedraagt in 2006 bij een volledige arbeidsduur van gemiddeld 36 uur per week afgerond 1829 (= 254 x 7,2) uren.
+
+2. Eindejaarsuitkering over 2006
 
 Volledigheidshalve herinner ik u eraan dat over 2006 de maandelijkse opbouw van de aanspraak op de procentuele eindejaarsuitkering als bedoeld in [artikel 20a, eerste lid, onderdeel a, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=20a) 0,8% van het salaris bedraagt.
 
 De maandelijkse opbouw van de in december 2006 uit te keren nominale eindejaarsuitkering blijft gehandhaafd op € 45,88 per maand.
 
+3. Spaarloonregeling rijkspersoneel
+
 Het bedrag dat in 2006 maximaal belastingvrij kan worden gespaard blijft € 613,00.
+
+4. Vakbondsfaciliteiten
 
 Bij mijn circulaire van 22 december 2004, kenmerk 2004-50392, heb ik u in kennis gesteld van de verlenging Tijdelijke regeling vrijstelling vakbondsfaciliteiten t/m het jaar 2005. Deze regeling wordt opnieuw voor de periode van een jaar verlengd, dat wil zeggen tot 1 januari 2007.
 
+5. Regeling werkgeversbijdrage kinderopvang rijkspersoneel
+
 Per 1 januari 2006 bedraagt de maximum vastgestelde uurprijs, waarvoor ouders een tegemoetkoming van het Rijk kunnen krijgen:
 
+- a. Bij dagopvang en gastouderopvang van kinderen van 0–4 jaar: € 5,72 (in 2005: € 5,68).
+
+- b. Bij buitenschoolse opvang en gastouderschap van kinderen van 4–12 jaar: € 6,03 (in 2005: € 6,13).
+
+6. Belasting vrije vergoeding reiskosten
+
 De belastingvrije vergoeding voor reiskosten (woon-werkverkeer en zakelijke reizen) van € 0,18 per kilometer is per 1 januari 2006 gesteld op € 0,19 per kilometer.
+
+7. Inhoudingen en afdrachten inzake pensioenen e.d. per 1 januari 2006
 
 De inhoudingen en afdrachten betreffende pensioenen (Keuzepensioen/OP/NP, IP/bw, FPU) met de daarbij behorende franchises per 1 januari 2006 worden door het ABP aan onder meer de werkgevers in de sector Rijk bekendgemaakt. Informatie hierover kunt u verkrijgen bij de Werkgevers Helpdesk van het ABP, telefoon 045-579 6579.
 
 De inhoudingen en afdrachten betreffende de sociale werknemersverzekeringen kunt u vinden op de internetsite: http://www.minszw.nl.
 
+8. FPU-ers en Zorgverzekeringswet
+
 De door het individu verschuldigde inkomensafhankelijke bijdrage ingevolge de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) zal voor de FPU-er zeer waarschijnlijk 4,4%, van de gereduceerde premie voor de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), zijn. De vergoeding per 1 januari 2006 voor FPU-ers wordt als volgt:
+
+- a. Het opbouwdeel van de FPU is pensioen, opgebouwd bij het ABP. Voor pensioenen geldt de gereduceerde premie voor de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) van 4,4%. Voor dit deel van de zorgverzekeringspremie vindt geen vergoeding plaats.
+
+- b. De rest van de FPU-uitkering wordt gefinancierd uit het VUT-fonds. Hiervoor zal waarschijnlijk ook de gereduceerde premie van 4,4% gelden. Voor dit deel van de zorgverzekeringspremie vindt wel vergoeding plaats. De vergoeding komt ten laste van het VUT-fonds.
+
+- c. Een aanvullende uitkering op de FPU wordt gefinancierd door de voormalig werkgever. Hiervoor is de premie gelijk aan die voor het VUT-fondsdeel (dus waarschijnlijk 4,4%). Ook voor dit deel van de zorgverzekeringspremie vindt wel vergoeding plaats. De vergoeding komt ten laste van de voormalig werkgever.
+
+9. WIA
 
 Op 1 januari 2006 wordt de nieuwe [Wet Werk en Inkomen naar Arbeidsvermogen, de WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), ingevoerd. Deze wet komt voor de nieuwe gevallen in de plaats van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524).
 
@@ -91,24 +129,16 @@ De wettelijke aanspraken zijn bekend; over eventuele boven- en naastwettelijke a
 
 ### C. Nog tot stand te brengen wijziging in 2006
 
+- 1. Het conceptbesluit houdende wijziging van het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) en enkele andere besluiten i.v.m. wijziging van andere regelgeving, verbetering en verduidelijking van de tekst en formalisering van een aantal rechtspositionele aanpassingen (de zgn. veeg-amvb).
+
+- 2. Conceptbesluit tot wijziging van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950), het [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516), het [Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321), het [Burgerlijk Ambtenarenreglement Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), het [Algemeen Militair Ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482), het [Ambtenarenreglement Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0003229) en het [Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052) in verband met het opnemen van bepalingen met betrekking tot het openbaar maken van nevenwerkzaamheden, het melden van financiële belangen en effectentransacties en het omgaan met vermoedens van misstanden.
+
+- 3. Conceptbesluit tot instelling van de Commissie integriteit overheid.
+
 ### D. Tot stand gekomen besluiten, regelingen en circulaires
 
-In de bijlage vindt u een overzicht van de in dit jaar tot stand gekomen (wijzigingen van) amvb’s, regelingen en circulaires.
+In de [bijlage](https://wetten.overheid.nl/BWBR0019256) vindt u een overzicht van de in dit jaar tot stand gekomen (wijzigingen van) amvb’s, regelingen en circulaires.
 
 ### Slotopmerkingen
 
 Ik verzoek u met het vorenstaande rekening te houden en daaraan voor zoveel nodig uitvoering te geven.
-
-## Bijlage. behorende bij de circulaire d.d. 13 december 2005
-
-### **Overzicht van totstandgekomen regelgeving en circulaires**
-
-### **I. Amvb’s**
-
-### **II. Ministeriële regelingen**
-
-### **III. Circulaires**
-
-Deze circulaire is eveneens geplaatst op intranet en op internet. Voor het laatste geldt als adres: http://www.minbzk.nl en vervolgens klikken op ‘Overheidspersoneel’, Arbeidsvoorwaarden Rijksoverheid’, en ‘publicaties’.
-
-Inlichtingen, uitsluitend voor de afdelingen Personeelszaken van geadresseerden, kunnen worden verkregen bij de heer Martens (telefoon 070-426 6904; e-mailadres: Halbe.Martens@minbzk.nl). Bij geen gehoor kunt u ook contact opnemen met het secretariaat van de afdeling Arbeidsvoorwaarden, telefoon 070-426 6996; e-mailadres: Postbus infobzk.

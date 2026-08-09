@@ -1,42 +1,17 @@
 ---
 title: "Besluit vacatiegeld Algemene Commissie Administratieve Lasten Burgers"
 identifier: "BWBR0018043"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-03-02"
-last_updated: "2004-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018043"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6806083"
-version_id: "11679752"
-internal_id: "C29149341"
-label_id: "6794274"
-original_entry_into_force: "2005-03-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018043/2005-03-02/0"
-intitule_bron: "Stcrt.2005-41"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-02-21"
-intitule_published: "2005-02-28"
-intitule_in_force: "2005-02-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-41"
-original_signed_date: "2005-02-21"
-original_published_date: "2005-02-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-41-p11-SC69013"
-entry_into_force_date: "2005-03-02"
-jci_1_3: "jci1.3:c:BWBR0018043&z=2005-03-02&g=2005-03-02"
-jci_1_0: "1.0:c:BWBR0018043&g=2005-03-02"
-citeertitel_status: "officieel"
-signed_date: "2005-02-21"
-entry_into_force: "2005-03-02"
+publicatiedatum: 2005-03-02
+laatste_update: 2005-03-02
+status: geldig
+toestand: 2005-03-02
+bron: "https://wetten.overheid.nl/BWBR0018043"
+opgehaald: 2026-08-09
 ---
+
 # Besluit vacatiegeld Algemene Commissie Administratieve Lasten Burgers
-
-Gelet op het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317);
-
-Besluit
 
 ##### Artikel 1
 

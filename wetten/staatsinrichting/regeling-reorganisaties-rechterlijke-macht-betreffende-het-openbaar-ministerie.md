@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie van 24 februari 2005, nr. 5336480/805, tot vaststelling van nadere regels bij reorganisaties in de sector Rechterlijke Macht, die het openbaar ministerie betreffen (Regeling reorganisaties Rechterlijke Macht betreffende het openbaar ministerie)"
+citeertitel: "Regeling reorganisaties Rechterlijke Macht betreffende het openbaar ministerie"
 identifier: "BWBR0018055"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-05-30"
-last_updated: "2020-05-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018055"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "6806683"
-version_id: "11682322"
-internal_id: "C15744391"
-label_id: "6795054"
-original_entry_into_force: "2005-03-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018055/2020-05-30/0"
-intitule_bron: "Stcrt.2005-43"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-02-24"
-intitule_published: "2005-03-02"
-intitule_in_force: "2005-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-43"
-original_signed_date: "2005-02-24"
-original_published_date: "2005-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-43-p15-SC69031"
-entry_into_force_date: "2005-03-04"
-jci_1_3: "jci1.3:c:BWBR0018055&z=2020-05-30&g=2020-05-30"
-jci_1_0: "1.0:c:BWBR0018055&g=2020-05-30"
-citeertitel_status: "officieel"
-short_title: "Regeling reorganisaties Rechterlijke Macht betreffende het openbaar ministerie"
-signed_date: "2005-02-24"
-entry_into_force: "2005-03-04"
+publicatiedatum: 2005-03-04
+laatste_update: 2020-05-30
+status: geldig
+toestand: 2020-05-30
+bron: "https://wetten.overheid.nl/BWBR0018055"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de Minister van Justitie van 24 februari 2005, nr. 5336480/805, tot vaststelling van nadere regels bij reorganisaties in de sector Rechterlijke Macht, die het openbaar ministerie betreffen (Regeling reorganisaties Rechterlijke Macht betreffende het openbaar ministerie)
-
-Gelet op [artikel 36e van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36e);
-
-Besluit:
 
 #### Paragraaf 1. Inleidende bepalingen
 
@@ -69,7 +44,7 @@ Deze regeling is van toepassing op reorganisaties die het openbaar ministerie be
 
 #### Paragraaf 2. Het reorganisatieproces
 
-#### De plaatsingsprocedure
+##### De plaatsingsprocedure
 
 ##### Artikel 3
 
@@ -77,7 +52,7 @@ Nadat het organisatie- en formatierapport door Onze Minister is vastgesteld word
 
 ##### Artikel 4
 
-1. Onze Minister stelt een plaatsingsadviescommissie in, als bedoeld in [artikel 7 van de Regeling procedure bij reorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0007967&artikel=7) zoals dat gold tot en met 30 september 2019, die tot taak heeft ten behoeve van hem een concept-plaatsingsplan op te stellen en hem te adviseren ten aanzien van eventueel ingediende bedenkingen.
+1. Onze Minister stelt een plaatsingsadviescommissie in, als bedoeld in [artikel 7 van de Regeling procedure bij reorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0007967&artikel=7) zoals dat gold tot en met 30 september 2019, die tot taak heeft ten behoeve van hem een concept-plaatsingsplan op te stellen en hem te adviseren ten aanzien van eventueel ingediende bedenkingen.
 
 2. Onze Minister pleegt daaromtrent overleg met de ondernemingsraad.
 
@@ -143,7 +118,7 @@ Onze Minister stelt het plaatsingsplan vast, alsmede de hieruit voortvloeiende i
 
 2. In dit kader wordt door Onze Minister in overleg met de rechterlijk ambtenaar een voor beide partijen bindend individueel begeleidingsplan opgesteld.
 
-#### De bezwarenprocedure
+##### De bezwarenprocedure
 
 ##### Artikel 11
 
@@ -163,7 +138,7 @@ Onze Minister stelt het plaatsingsplan vast, alsmede de hieruit voortvloeiende i
 
 5. Onze Minister kan aan de bezwarenadviescommissie een secretaris en een plaatsvervangend secretaris toevoegen.
 
-#### De plaatsingscriteria
+##### De plaatsingscriteria
 
 ##### Artikel 12
 
@@ -182,5 +157,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling reorganisaties Rechterlijke Macht betreffende het openbaar ministerie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

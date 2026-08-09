@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 december 2005, nr. MC/MO-2641215, houdende vaststelling van een beleidsregel ex. artikel 13 van de Wet tarieven gezondheidszorg inzake de vaststelling van de contracteerruimte 2006 voor de Algemene Wet Bijzondere Ziektekosten"
+citeertitel: "Beleidsregel ex. artikel 13 Wet tarieven gezondheidszorg inzake vaststelling contracteerruimte 2006 Algemene Wet Bijzondere Ziektekosten"
 identifier: "BWBR0019218"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2005-12-21"
-last_updated: "2005-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019218"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "7704663"
-version_id: "12593142"
-internal_id: "C16920921"
-label_id: "7692414"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019218/2005-12-21/0"
-intitule_bron: "Stcrt.2005-246"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-09"
-intitule_published: "2005-12-19"
-intitule_in_force: "2005-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-246"
-original_signed_date: "2005-12-09"
-original_published_date: "2005-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-246-p44-SC72839"
-entry_into_force_date: "2005-12-21"
-jci_1_3: "jci1.3:c:BWBR0019218&z=2005-12-21&g=2005-12-21"
-jci_1_0: "1.0:c:BWBR0019218&g=2005-12-21"
-citeertitel_status: "redactioneel"
-short_title: "Beleidsregel ex. artikel 13 Wet tarieven gezondheidszorg inzake vaststelling contracteerruimte 2006 Algemene Wet Bijzondere Ziektekosten"
-signed_date: "2005-12-09"
-entry_into_force: "2005-12-21"
+publicatiedatum: 2005-12-21
+laatste_update: 2005-12-21
+status: geldig
+toestand: 2005-12-21
+bron: "https://wetten.overheid.nl/BWBR0019218"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 december 2005, nr. MC/MO-2641215, houdende vaststelling van een beleidsregel ex. artikel 13 van de Wet tarieven gezondheidszorg inzake de vaststelling van de contracteerruimte 2006 voor de Algemene Wet Bijzondere Ziektekosten
-
-Gelet op [artikel 13 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=13);
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brieven van 17 oktober 2005, kenmerk MC/MO-2621194 en MC/MO-2621191);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -137,5 +109,3 @@ Naast de contracteerruimte zijn geoormerkte gelden beschikbaar voor:
 ##### Artikel 8
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

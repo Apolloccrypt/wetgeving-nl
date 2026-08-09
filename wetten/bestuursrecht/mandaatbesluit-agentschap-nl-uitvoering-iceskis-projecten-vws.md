@@ -1,43 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 6 januari 2005, nr. IBE-2544885, houdende verlening van mandaat en machtiging aan SenterNovem"
+citeertitel: "Mandaatbesluit Agentschap NL uitvoering ICES/KIS projecten VWS"
 identifier: "BWBR0017882"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-03-24"
-last_updated: "2010-03-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017882"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "6625463"
-version_id: "11466562"
-internal_id: "C29121421"
-label_id: "6613824"
-original_entry_into_force: "2005-01-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017882/2010-03-24/0"
-intitule_bron: "Stcrt.2005-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-01-06"
-intitule_published: "2005-01-12"
-intitule_in_force: "2005-01-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-8"
-original_signed_date: "2005-01-06"
-original_published_date: "2005-01-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-8-p13-SC68477"
-entry_into_force_date: "2005-01-14"
-jci_1_3: "jci1.3:c:BWBR0017882&z=2010-03-24&g=2010-03-24"
-jci_1_0: "1.0:c:BWBR0017882&g=2010-03-24"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit Agentschap NL uitvoering ICES/KIS projecten VWS"
-signed_date: "2005-01-06"
-entry_into_force: "2005-01-14"
+publicatiedatum: 2005-01-14
+laatste_update: 2010-03-24
+status: geldig
+toestand: 2010-03-24
+bron: "https://wetten.overheid.nl/BWBR0017882"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 6 januari 2005, nr. IBE-2544885, houdende verlening van mandaat en machtiging aan SenterNovem
-
-Gezien de schriftelijke instemming van de algemeen directeur van SenterNovem van 7 december 2004, kenmerk ZJZ0429330;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -78,5 +53,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening in 
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Mandaatbesluit Agentschap NL uitvoering ICES/KIS projecten VWS.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,49 +1,18 @@
 ---
 title: "Instelling van een Commissie met als taak een feitenonderzoek betreffende het handelen van de Nederlandse overheid in het kader van terugkeer van uitgeprocedeerde asielzoekers naar de Democratische Republiek Congo"
+citeertitel: "Instellingsbesluit Commissie feitenonderzoek uitzettingen naar de Democratische Republiek Congo"
 identifier: "BWBR0018584"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-12-04"
-last_updated: "2005-12-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018584"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "7160893"
-version_id: "12071742"
-internal_id: "C16180681"
-label_id: "7148824"
-original_entry_into_force: "2005-07-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018584/2005-12-04/0"
-intitule_bron: "Stcrt.2005-136"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-07-08"
-intitule_published: "2005-07-18"
-intitule_in_force: "2005-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-136"
-original_signed_date: "2005-07-08"
-original_published_date: "2005-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-136-p11-SC70775"
-entry_into_force_date: "2005-07-20"
-jci_1_3: "jci1.3:c:BWBR0018584&z=2005-12-04&g=2005-12-04"
-jci_1_0: "1.0:c:BWBR0018584&g=2005-12-04"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie feitenonderzoek uitzettingen naar de Democratische Republiek Congo"
-signed_date: "2005-07-08"
-entry_into_force: "2005-07-20"
+publicatiedatum: 2005-07-20
+laatste_update: 2005-12-04
+status: geldig
+toestand: 2005-12-04
+bron: "https://wetten.overheid.nl/BWBR0018584"
+opgehaald: 2026-08-09
 ---
+
 # Instelling van een Commissie met als taak een feitenonderzoek betreffende het handelen van de Nederlandse overheid in het kader van terugkeer van uitgeprocedeerde asielzoekers naar de Democratische Republiek Congo
-
-Overwegende:
-
-Dat in de Tweede Kamer der Staten-Generaal in een interpellatiedebat op 23 juni 2005 naar aanleiding van een uitzending van de actualiteitenrubriek Netwerk op 21 juni 2005 vragen zijn opgeworpen over een aantal uitzettingen van uitgeprocedeerde asielzoekers naar de Democratische Republiek Congo;
-
-Dat hierbij het handelen van de overheid in het geding zou kunnen zijn;
-
-Dat deze vragen van dien aard zijn dat een nader en onafhankelijk onderzoek aangewezen is.
-
-Besluit:
 
 ##### Artikel 1
 
@@ -55,11 +24,11 @@ Er is een Commissie feitenonderzoek uitzettingen naar de Democratische Republiek
 
 2. De commissie beziet ten aanzien van deze uitzettingen:
 
-- –. de feitelijke gang van zaken;
+- – de feitelijke gang van zaken;
 
-- –. de mogelijke verstrekking van vertrouwelijke gegevens aan de Congolese autoriteiten;
+- – de mogelijke verstrekking van vertrouwelijke gegevens aan de Congolese autoriteiten;
 
-- –. de verlening van technische ondersteuning door de Nederlandse overheid aan de Congolese autoriteiten in verband met terugkeer.
+- – de verlening van technische ondersteuning door de Nederlandse overheid aan de Congolese autoriteiten in verband met terugkeer.
 
 ##### Artikel 3
 
@@ -104,5 +73,3 @@ Op de Commissie is het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jc
 ##### Artikel 9
 
 Dit besluit kan wordt aangehaald als: het instellingsbesluit Commissie feitenonderzoek uitzettingen naar de Democratische Republiek Congo.
-
-Dit besluit met toelichting zal worden gepubliceerd in de Staatscourant.

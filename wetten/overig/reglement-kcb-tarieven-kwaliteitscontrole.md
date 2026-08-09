@@ -1,43 +1,17 @@
 ---
 title: "Reglement KCB tarieven kwaliteitscontrole"
 identifier: "BWBR0019172"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019172"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "7920923"
-version_id: "12784852"
-internal_id: "C17242891"
-label_id: "7908584"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019172/2006-01-01/0"
-intitule_bron: "Stcrt.2006-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-06"
-intitule_published: "2006-01-25"
-intitule_in_force: "2006-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-18"
-original_signed_date: "2005-12-06"
-original_published_date: "2006-01-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-18-p22-SC73551"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0019172&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0019172&g=2006-01-01"
-citeertitel_status: "officieel"
-signed_date: "2005-12-06"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0019172"
+opgehaald: 2026-08-09
 ---
+
 # Reglement KCB tarieven kwaliteitscontrole
-
-Het bestuur van de Stichting Kwaliteits-Controle-Bureau voor Groenten en Fruit (KCB) heeft, gelet op [artikel 11 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), op 6 december 2005 het volgende reglement vastgesteld.
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 

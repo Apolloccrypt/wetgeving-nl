@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 28 januari 2005, houdende nieuwe regels inzake de financiering van de rechtspraak in verband met het invoeren van een baten-lastenstelsel en het verrekenen van productieverschillen (Besluit financiering rechtspraak 2005)"
+citeertitel: "Besluit financiering rechtspraak 2005"
 identifier: "BWBR0017975"
-country: "nl"
-rank: "amvb"
-publication_date: "2005-02-11"
-last_updated: "2005-02-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017975"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "6746103"
-version_id: "11594542"
-internal_id: "C29463031"
-label_id: "6734984"
-original_entry_into_force: "2005-02-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017975/2005-02-11/0"
-intitule_bron: "Stb.2005-55"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-01-28"
-intitule_published: "2005-02-10"
-intitule_in_force: "2005-02-10"
-intitule_status: "goed"
-original_publication: "Stb.2005-55"
-original_signed_date: "2005-01-28"
-original_published_date: "2005-02-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2005-55"
-entry_into_force_date: "2005-02-11"
-jci_1_3: "jci1.3:c:BWBR0017975&z=2005-02-11&g=2005-02-11"
-jci_1_0: "1.0:c:BWBR0017975&g=2005-02-11"
-citeertitel_status: "officieel"
-short_title: "Besluit financiering rechtspraak 2005"
-signed_date: "2005-01-28"
-entry_into_force: "2005-02-11"
+publicatiedatum: 2005-02-11
+laatste_update: 2005-02-11
+status: geldig
+toestand: 2005-02-11
+bron: "https://wetten.overheid.nl/BWBR0017975"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 28 januari 2005, houdende nieuwe regels inzake de financiering van de rechtspraak in verband met het invoeren van een baten-lastenstelsel en het verrekenen van productieverschillen (Besluit financiering rechtspraak 2005)
-
-Op de voordracht van Onze Minister van Justitie van 7 december 2004, Directie Wetgeving, nr. 5323045/04/06;
-
-Gelet op de [artikelen 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=97), en [98, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=98);
-
-De Raad van State gehoord (advies van 6 januari 2005, nr. W03.04.0591/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 21 januari 2005, Directie Wetgeving nr. 5331152/05/6;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -67,13 +36,13 @@ In dit besluit wordt verstaan onder:
 
 - h. gerechtscategorieën:
 
-- 1°. de rechtbanken;
+   - 1°. de rechtbanken;
 
-- 2°. de gerechtshoven;
+   - 2°. de gerechtshoven;
 
-- 3°. het College van Beroep voor het bedrijfsleven;
+   - 3°. het College van Beroep voor het bedrijfsleven;
 
-- 4°. de Centrale Raad van Beroep.
+   - 4°. de Centrale Raad van Beroep.
 
 ### Hoofdstuk 2. Ondersteunende systemen en modellen
 
@@ -137,7 +106,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 3. Bijdragetoekenning door Onze Minister aan de Raad
 
-### Afdeling 1. Algemeen
+#### Afdeling 1. Algemeen
 
 ##### Artikel 9
 
@@ -153,7 +122,7 @@ De aan de Raad toe te kennen bijdrage bestaat uit de volgende onderdelen:
 
 - c. een bijdrage voor overige uitgaven.
 
-### Afdeling 2. De aan de Raad toe te kennen bijdrage
+#### Afdeling 2. De aan de Raad toe te kennen bijdrage
 
 ##### Artikel 11
 
@@ -201,7 +170,7 @@ De productiegerelateerde bijdrage wordt bepaald door de voor het desbetreffende 
 
 3. In de raming worden incidentele en structurele kosten zichtbaar gemaakt.
 
-### Afdeling 3. Aan de bijdragetoekenning te verbinden voorschriften
+#### Afdeling 3. Aan de bijdragetoekenning te verbinden voorschriften
 
 ##### Artikel 16
 
@@ -213,7 +182,7 @@ De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschr
 
 - c. het realiseren van in arbeidsvoorwaardenoverleg gemaakte afspraken.
 
-### Afdeling 4. Vermogen en verrekening van productieverschillen
+#### Afdeling 4. Vermogen en verrekening van productieverschillen
 
 ##### Artikel 17
 
@@ -273,7 +242,7 @@ De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschr
 
 Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen van de rechtspraak, een exploitatiewinst die uitkomt komen boven de in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2005-02-11), bedoelde grens dan wel een ingrijpende wijziging van omstandigheden met aantoonbare gevolgen voor de productie, overleggen Onze Minister en de Raad over te nemen maatregelen en passen zo nodig, onverminderd [artikel 17, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2005-02-11), de productieaantallen van de rechtspraak en de landelijke prijzen aan.
 
-### Afdeling 5. Informatievoorziening
+#### Afdeling 5. Informatievoorziening
 
 ##### Artikel 22
 
@@ -291,7 +260,7 @@ Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen van de r
 
 ### Hoofdstuk 4. Bijdragetoekenning door de Raad aan de gerechten
 
-### Afdeling 1. Splitsing bijdrage minister in delen centraal en gerechten
+#### Afdeling 1. Splitsing bijdrage minister in delen centraal en gerechten
 
 ##### Artikel 23
 
@@ -313,7 +282,7 @@ De Raad splitst de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR00179
 
 - b. centraal door de Raad te beheren overige uitgaven.
 
-### Afdeling 2. De aan het gerercht toe te kennen bijdrage
+#### Afdeling 2. De aan het gerercht toe te kennen bijdrage
 
 ##### Artikel 25
 
@@ -369,7 +338,7 @@ De Raad verdeelt het bedrag van de in [artikel 23, onder b](https://wetten.overh
 
 De Raad verdeelt het bedrag van de in [artikel 24, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=1&artikel=24&z=2005-02-11&g=2005-02-11), bedoelde component overige uitgaven over de gerechten op grond van ramingen van de gerechten ter zake.
 
-### Afdeling 3. Aan de bijdragetoekenning te verbinden voorschriften
+#### Afdeling 3. Aan de bijdragetoekenning te verbinden voorschriften
 
 ##### Artikel 32
 
@@ -381,7 +350,7 @@ De aan de toekenning van de jaarlijkse bijdrage door de Raad te verbinden voorsc
 
 - c. het realiseren van in arbeidsvoorwaardenoverleg gemaakte afspraken.
 
-### Afdeling 4. Overige voorschriften
+#### Afdeling 4. Overige voorschriften
 
 ##### Artikel 33
 
@@ -401,7 +370,7 @@ Het bestuur van het gerecht verstrekt aan de Raad:
 
 - c. informatie over aantallen en categorieën van af te handelen zaken van het gerecht en aantallen en categorieën van af te handelen zaken als nevenzittingsplaats voor een ander gerecht, alsmede aantallen en categorieën van zaken die in een nevenzittingsplaats buiten het rechtsgebied worden behandeld.
 
-### Afdeling 5. Vermogen en verrekening productieverschillen
+#### Afdeling 5. Vermogen en verrekening productieverschillen
 
 ##### Artikel 36
 
@@ -471,11 +440,11 @@ Het [Besluit financiering rechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 44
 
-Wijzigt het Besluit opleiding rechterlijke ambtenaren.
+*Wijzigt het Besluit opleiding rechterlijke ambtenaren.*
 
 ##### Artikel 45
 
-Wijzigt het Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenaren en ambtenaren bureau Raad voor de rechtspraak.
+*Wijzigt het Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenaren en ambtenaren bureau Raad voor de rechtspraak.*
 
 ##### Artikel 46
 
@@ -490,5 +459,3 @@ Wijzigt het Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenare
 ##### Artikel 47
 
 Dit besluit wordt aangehaald als: Besluit financiering rechtspraak 2005.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

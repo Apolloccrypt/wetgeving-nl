@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 8 december 2005, houdende regels met betrekking tot de werkzaamheden en procedures van de Raad voor plantenrassen (Besluit werkzaamheden Raad voor plantenrassen)"
+citeertitel: "Besluit werkzaamheden Raad voor plantenrassen"
 identifier: "BWBR0019209"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-09-30"
-last_updated: "2012-09-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019209"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "7703513"
-version_id: "12590132"
-internal_id: "C17266871"
-label_id: "7691504"
-dtd_version: "2.0"
-original_entry_into_force: "2006-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019209/2012-09-30/0"
-intitule_bron: "Stb.2005-653"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-08"
-intitule_published: "2005-12-20"
-intitule_in_force: "2006-01-31"
-intitule_status: "goed"
-original_publication: "Stb.2005-653"
-original_signed_date: "2005-12-08"
-original_published_date: "2005-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2005-653"
-entry_into_force_date: "2006-02-01"
-jci_1_3: "jci1.3:c:BWBR0019209&z=2012-09-30&g=2012-09-30"
-jci_1_0: "1.0:c:BWBR0019209&g=2012-09-30"
-citeertitel_status: "officieel"
-short_title: "Besluit werkzaamheden Raad voor plantenrassen"
-signed_date: "2005-12-08"
-entry_into_force: "2006-02-01"
+publicatiedatum: 2006-02-01
+laatste_update: 2012-09-30
+status: geldig
+toestand: 2012-09-30
+bron: "https://wetten.overheid.nl/BWBR0019209"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 8 december 2005, houdende regels met betrekking tot de werkzaamheden en procedures van de Raad voor plantenrassen (Besluit werkzaamheden Raad voor plantenrassen)
-
-Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit, van 1 september 2005, TRCJZ/2005/2598, Directie Juridische Zaken;
-
-Gelet op [richtlijn nr. 1999/105/EG](31999L0105) van de Raad van de Europese Unie van 22 december 1999 betreffende het in de handel brengen van bosbouwkundig teeltmateriaal (PbEG L 11), op [richtlijn nr. 2002/53/EG](32002L0053) van de Raad van de Europese Unie van 13 juni 2002 betreffende de gemeenschappelijke rassenlijst van landbouwgewassen (PbEG L 193) en op [richtlijn nr. 2002/55/EG](32002L0055) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van groentezaad (PbEG L 193);
-
-Gelet op de [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=3), [25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=25), [35, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=59), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=84), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=85) en [87, tweede, derde en zesde lid, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=87);
-
-De Raad van State gehoord (advies van 7 oktober 2005, no. W11.05.0399/V);
-
-Gezien het nader rapport van Onze Minister van Landbouw, Natuur en Voedselkwaliteit, van 1 december 2005, nr. TRCJZ/2005/3477, Directie Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -58,19 +24,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. Raad: Raad voor plantenrassen, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=2);
 
-- c. [richtlijn 2001/18/EG](32001L0018): [richtlijn nr. 2001/18/EG](32001L0018) van het Europees Parlement en de Raad van 12 maart 2001 inzake de doelbewuste introductie van genetisch gemodificeerde organismen in het milieu en tot intrekking van [richtlijn nr. 90/220/EEG](31990L0220) van de Raad (PbEG L 106);
+- c. richtlijn 2001/18/EG: richtlijn nr. 2001/18/EG van het Europees Parlement en de Raad van 12 maart 2001 inzake de doelbewuste introductie van genetisch gemodificeerde organismen in het milieu en tot intrekking van richtlijn nr. 90/220/EEG van de Raad (PbEG L 106);
 
-- d. [richtlijn 1999/105/EG](31999L0105): [richtlijn nr. 1999/105/EG](31999L0105) van de Raad van de Europese Unie van 22 december 1999 betreffende het in de handel brengen van bosbouwkundig teeltmateriaal (PbEG 2000, L 11);
+- d. richtlijn 1999/105/EG: richtlijn nr. 1999/105/EG van de Raad van de Europese Unie van 22 december 1999 betreffende het in de handel brengen van bosbouwkundig teeltmateriaal (PbEG 2000, L 11);
 
-- e. **richtlijn 2008/90/EG:** richtlijn nr. 2008/90/EG van de Raad van de Europese Unie van 29 september 2008 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEU L 267);
+- e. *richtlijn 2008/90/EG:* richtlijn nr. 2008/90/EG van de Raad van de Europese Unie van 29 september 2008 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEU L 267);
 
-- f. **verordening (EG) 1829/2003:** verordening (EG) nr. 1829/2003 van het Europees parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (PbEU L 268);
+- f. *verordening (EG) 1829/2003:* verordening (EG) nr. 1829/2003 van het Europees parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (PbEU L 268);
 
 - g. hybride ras: ras onstaan na kruising van twee of meer rassen of ouderlijnen met gelijke erfelijkheidsfactoren, zoals nader beschreven bij ministeriële regeling;
 
 - h. graangewassen: zomer- en wintertarwe (Triticum aestivum L emend. Fiori en Paol.), zomer- en wintergerst (Hordeum vulgare L.), rogge (Secale cereale L.), haver (Avena sativa) en triticale (X Triticosecale Wittm.);
 
-- i. **fruitgewassen:** gewassen, alsmede hybriden daarvan, die zijn opgenomen in bijlage I van richtlijn 2008/90/EG.
+- i. *fruitgewassen:* gewassen, alsmede hybriden daarvan, die zijn opgenomen in bijlage I van richtlijn 2008/90/EG.
 
 #### Paragraaf 2. Samenstelling van de Raad
 
@@ -136,7 +102,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. de voorlopige aanduiding, de voorgestelde benaming of de vastgestelde benaming van het ras;
 
-- f. in voorkomend geval de vermelding dat een ras een genetisch gemodificeerd organisme is als bedoeld in [richtlijn 2001/18/EG](32001L0018);
+- f. in voorkomend geval de vermelding dat een ras een genetisch gemodificeerd organisme is als bedoeld in richtlijn 2001/18/EG;
 
 - g. de groeiplaats en de eigenaar of beheerder van de opstand;
 
@@ -160,11 +126,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de naam- en adresgegevens van de houder van het kwekersrecht, indien de inschrijving het gevolg is van een aanvraag tot verlening van kwekersrecht;
 
-- b. in voorkomend geval de vermelding dat een ras een genetisch gemodificeerd organisme is als bedoeld in [richtlijn 2001/18/EG](32001L0018);
+- b. in voorkomend geval de vermelding dat een ras een genetisch gemodificeerd organisme is als bedoeld in richtlijn 2001/18/EG;
 
 - c. de categorie of categorieën, waarin het teeltmateriaal kan worden verhandeld, voor zover de inschrijving het gevolg is van een toelating van een ras van de ingevolge [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2012-09-30&g=2012-09-30), [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2012-09-30&g=2012-09-30) of [10 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2012-09-30&g=2012-09-30), aan te wijzen groentegewassen, landbouwgewassen of bosbouwgewassen of van een opstand;
 
-- d. de ingevolge de artikelen 10 en 24 van [richtlijn 1999/105/EG](31999L0105) te vermelden gegevens;
+- d. de ingevolge de artikelen 10 en 24 van richtlijn 1999/105/EG te vermelden gegevens;
 
 - e. de indiening van een verzoek tot verlening van een licentie als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=62) en van de intrekking van of de beslissing op dat verzoek;
 
@@ -191,6 +157,10 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 2. Bij ministeriële regeling kunnen nadere voorwaarden worden gesteld aan de instandhouding, bedoeld in het eerste lid, onderdeel b.
 
 3. Bij ministeriële regeling kunnen gewassen worden aangewezen waarvan de rassen worden toegelaten indien is voldaan aan de voorwaarden, bedoeld in het eerste lid, en deze rassen blijkens technisch onderzoek voldoen aan het vereiste, bedoeld in [artikel 35, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35).
+
+##### Artikel 8a
+
+Bij ministeriële regeling kunnen regels worden gesteld over de toelating van rassen van bij die regeling aan te wijzen fruitgewassen. Deze regels kunnen betrekking hebben op de eisen voor de officiële registratie van rassen, genoemd in artikel 7, vierde en vijfde lid, van richtlijn 2008/90/EG.
 
 ##### Artikel 9
 
@@ -226,7 +196,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. als opstand onderscheidenlijk ras voor de productie van getest teeltmateriaal
 
-indien voldaan is aan de bij of krachtens [richtlijn 1999/105/EG](31999L0105) gestelde eisen voor de desbetreffende categorie, zoals gebleken is uit een inspectie, beoordeling of test, al naar gelang de desbetreffende categorie.
+indien voldaan is aan de bij of krachtens richtlijn 1999/105/EG gestelde eisen voor de desbetreffende categorie, zoals gebleken is uit een inspectie, beoordeling of test, al naar gelang de desbetreffende categorie.
 
 2. In afwijking van het eerste lid wordt een opstand toegelaten als «opstand voor de productie van getest teeltmateriaal» op basis van de voorlopige resultaten van de genetische waardebepaling of vergelijkende tests, mits die voorlopige resultaten naar het oordeel van de Raad de veronderstelling rechtvaardigen dat het desbetreffende uitgangsmateriaal aan de toelatingseisen zal voldoen.
 
@@ -242,7 +212,7 @@ indien voldaan is aan de bij of krachtens [richtlijn 1999/105/EG](31999L0105) ge
 
 ##### Artikel 12
 
-1. Een ras dat of een opstand die een genetisch gemodificeerd organisme is als bedoeld in [richtlijn 2001/18/EG](32001L0018), wordt uitsluitend toegelaten op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2012-09-30&g=2012-09-30), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8a&z=2012-09-30&g=2012-09-30), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2012-09-30&g=2012-09-30), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2012-09-30&g=2012-09-30) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2012-09-30&g=2012-09-30) indien overeenkomstig de eerdergenoemde richtlijn toestemming is verleend om dat materiaal in de handel te brengen.
+1. Een ras dat of een opstand die een genetisch gemodificeerd organisme is als bedoeld in richtlijn 2001/18/EG, wordt uitsluitend toegelaten op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2012-09-30&g=2012-09-30), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8a&z=2012-09-30&g=2012-09-30), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2012-09-30&g=2012-09-30), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2012-09-30&g=2012-09-30) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2012-09-30&g=2012-09-30) indien overeenkomstig de eerdergenoemde richtlijn toestemming is verleend om dat materiaal in de handel te brengen.
 
 2. In afwijking van het eerste lid worden rassen waarvan afgeleid materiaal bestemd is om te worden gebruikt als levensmiddel of in levensmiddelen in de zin van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=2&artikel=3&z=2012-09-30&g=2012-09-30), of als diervoeder of in diervoeders in de zin van artikel 15 van verordening (EG) 1829/2003, uitsluitend toegelaten op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2012-09-30&g=2012-09-30), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8a&z=2012-09-30&g=2012-09-30), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2012-09-30&g=2012-09-30) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2012-09-30&g=2012-09-30), indien de levensmiddelen of diervoeders uit hoofde van die verordening zijn toegelaten.
 
@@ -365,15 +335,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 26
 
 Dit besluit wordt aangeduid als: Besluit werkzaamheden Raad voor plantenrassen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a
-
-Bij ministeriële regeling kunnen regels worden gesteld over de toelating van rassen van bij die regeling aan te wijzen fruitgewassen. Deze regels kunnen betrekking hebben op de eisen voor de officiële registratie van rassen, genoemd in artikel 7, vierde en vijfde lid, van richtlijn 2008/90/EG.
-
-#### Paragraaf 5. Kwekersrecht
-
-#### Paragraaf 6. Overige bepalingen en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

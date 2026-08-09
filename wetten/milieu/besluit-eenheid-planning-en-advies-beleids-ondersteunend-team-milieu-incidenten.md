@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 7 december 2005, nr. VI/CM 2005199604, tot herziening van samenstelling, taken en bevoegdheden van de Eenheid Planning en Advies Beleidsondersteunend Team milieu-incidenten"
+citeertitel: "Besluit Eenheid Planning en Advies Beleids-ondersteunend Team milieu-incidenten"
 identifier: "BWBR0019180"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-12-17"
-last_updated: "2005-12-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019180"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "7701033"
-version_id: "12581192"
-internal_id: "C16901771"
-label_id: "7688944"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019180/2005-12-17/0"
-intitule_bron: "Stcrt.2005-244"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-07"
-intitule_published: "2005-12-15"
-intitule_in_force: "2005-12-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-244"
-original_signed_date: "2005-12-07"
-original_published_date: "2005-12-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-244-p24-SC72306"
-entry_into_force_date: "2005-12-17"
-jci_1_3: "jci1.3:c:BWBR0019180&z=2005-12-17&g=2005-12-17"
-jci_1_0: "1.0:c:BWBR0019180&g=2005-12-17"
-citeertitel_status: "officieel"
-short_title: "Besluit Eenheid Planning en Advies Beleids-ondersteunend Team milieu-incidenten"
-signed_date: "2005-12-07"
-entry_into_force: "2005-12-17"
+publicatiedatum: 2005-12-17
+laatste_update: 2005-12-17
+status: geldig
+toestand: 2005-12-17
+bron: "https://wetten.overheid.nl/BWBR0019180"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 7 december 2005, nr. VI/CM 2005199604, tot herziening van samenstelling, taken en bevoegdheden van de Eenheid Planning en Advies Beleidsondersteunend Team milieu-incidenten
-
-Handelend in overeenstemming met de Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Defensie, van Landbouw, Natuur en Voedselkwaliteit, van Verkeer en Waterstaat en van Volksgezondheid, Welzijn en Sport;
-
-Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -46,27 +20,27 @@ Besluit:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. ongeval: gebeurtenis als gevolg waarvan chemische stoffen vrijkomen of dreigen vrij te komen,
+- – ongeval: gebeurtenis als gevolg waarvan chemische stoffen vrijkomen of dreigen vrij te komen,
 
-- a. die tot een gevaarssituatie of verhoogd risico leidt of kan leiden voor mens of milieu, of
+   - a. die tot een gevaarssituatie of verhoogd risico leidt of kan leiden voor mens of milieu, of
 
-- b. die ter voorkoming of vermindering van een gevaarssituatie of een verhoogd blootstellingsrisico voor mens of milieu aan die stoffen een gecoördineerde inzet van diensten en organisaties van verschillende disciplines vergt, of
+   - b. die ter voorkoming of vermindering van een gevaarssituatie of een verhoogd blootstellingsrisico voor mens of milieu aan die stoffen een gecoördineerde inzet van diensten en organisaties van verschillende disciplines vergt, of
 
-- c. die anderszins dringend optreden vereist om mens of milieu tegen blootstelling aan die stoffen te beschermen;
+   - c. die anderszins dringend optreden vereist om mens of milieu tegen blootstelling aan die stoffen te beschermen;
 
-- –. het BOT-mi: het Beleidsondersteunend Team milieu-incidenten bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019180&paragraaf=2&artikel=2.1&z=2005-12-17&g=2005-12-17);
+- – het BOT-mi: het Beleidsondersteunend Team milieu-incidenten bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019180&paragraaf=2&artikel=2.1&z=2005-12-17&g=2005-12-17);
 
-- –. bevoegd gezag: bij crisisbeheersing verantwoordelijke instantie belast met de bestrijding van rampen en zware ongevallen en de voorbereiding daarvan;
+- – bevoegd gezag: bij crisisbeheersing verantwoordelijke instantie belast met de bestrijding van rampen en zware ongevallen en de voorbereiding daarvan;
 
-- –. koude organisatie: tijdens preparatiefase bestaande organisatie van het BOT-mi;
+- – koude organisatie: tijdens preparatiefase bestaande organisatie van het BOT-mi;
 
-- –. warme organisatie: tijdens de respons- en nazorgfase bestaande organisatie van het BOT-mi;
+- – warme organisatie: tijdens de respons- en nazorgfase bestaande organisatie van het BOT-mi;
 
-- –. preparatie: voorbereiding op de bestrijding van rampen en zware ongevallen;
+- – preparatie: voorbereiding op de bestrijding van rampen en zware ongevallen;
 
-- –. respons: daadwerkelijke reactie op rampen en zware ongevallen;
+- – respons: daadwerkelijke reactie op rampen en zware ongevallen;
 
-- –. nazorg: beheersing van blootstellingseffecten op de middellange en lange termijn.
+- – nazorg: beheersing van blootstellingseffecten op de middellange en lange termijn.
 
 #### Paragraaf 2. De BOT-mi organisatie
 
@@ -144,23 +118,23 @@ De koude BOT-mi-organisatie bestaat uit:
 
 - d. deskundigen van:
 
-- 1°. het Inspectoraat-Generaal VROM, daartoe aangewezen door de inspecteur-generaal van het Inspectoraat-Generaal VROM;
+   - 1°. het Inspectoraat-Generaal VROM, daartoe aangewezen door de inspecteur-generaal van het Inspectoraat-Generaal VROM;
 
-- 2°. het Directoraat-Generaal Veiligheid van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, daartoe aangewezen door de directeur-generaal Veiligheid van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+   - 2°. het Directoraat-Generaal Veiligheid van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, daartoe aangewezen door de directeur-generaal Veiligheid van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- 3°. het Departementaal Coördinatiecentrum Crisisbeheersing van het Ministerie van Verkeer en Waterstaat, daartoe aangewezen door de directeur-generaal van Rijkswaterstaat;
+   - 3°. het Departementaal Coördinatiecentrum Crisisbeheersing van het Ministerie van Verkeer en Waterstaat, daartoe aangewezen door de directeur-generaal van Rijkswaterstaat;
 
-- 4°. het Rijksinstituut voor Volksgezondheid en Milieu van het Ministerie van Volksgezondheid, Welzijn en Sport voor zover het betreft de dienstonderdelen de Milieu Ongevallen Dienst (MOD), het Nationaal Vergiftigingen Informatie Centrum (NVIC) en het Centrum voor Externe Veiligheid (CEV), daartoe aangewezen door de directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu;
+   - 4°. het Rijksinstituut voor Volksgezondheid en Milieu van het Ministerie van Volksgezondheid, Welzijn en Sport voor zover het betreft de dienstonderdelen de Milieu Ongevallen Dienst (MOD), het Nationaal Vergiftigingen Informatie Centrum (NVIC) en het Centrum voor Externe Veiligheid (CEV), daartoe aangewezen door de directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu;
 
-- 5°. de Voedsel en Waren Autoriteit (VWA) van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, daartoe aangewezen door de directeur-generaal van de Voedsel en Waren Autoriteit;
+   - 5°. de Voedsel en Waren Autoriteit (VWA) van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, daartoe aangewezen door de directeur-generaal van de Voedsel en Waren Autoriteit;
 
-- 6°. het Koninklijk Nederlands Meteorologisch Instituut (KNMI) van het Ministerie van Verkeer en Waterstaat, daartoe aangewezen door de hoofddirecteur van het Koninklijk Nederlands Meteorologisch Instituut;
+   - 6°. het Koninklijk Nederlands Meteorologisch Instituut (KNMI) van het Ministerie van Verkeer en Waterstaat, daartoe aangewezen door de hoofddirecteur van het Koninklijk Nederlands Meteorologisch Instituut;
 
-- 7°. het RIKILT-Instituut voor Voedselveiligheid namens het Ministerie van Landbouw, Natuur en Voedselkwaliteit, daartoe aangewezen door de directeur van het RIKILT;
+   - 7°. het RIKILT-Instituut voor Voedselveiligheid namens het Ministerie van Landbouw, Natuur en Voedselkwaliteit, daartoe aangewezen door de directeur van het RIKILT;
 
-- 8°. Rijkswaterstaat/het Rijksinstituut voor Integraal Zoetwaterbeheer en Afvalwaterbehandeling (RIZA) van het Ministerie van Verkeer en Waterstaat, daartoe aangewezen door de hoofdingenieur-directeur van het Rijksinstituut voor Integraal Zoetwaterbeheer en Afvalwaterbehandeling en
+   - 8°. Rijkswaterstaat/het Rijksinstituut voor Integraal Zoetwaterbeheer en Afvalwaterbehandeling (RIZA) van het Ministerie van Verkeer en Waterstaat, daartoe aangewezen door de hoofdingenieur-directeur van het Rijksinstituut voor Integraal Zoetwaterbeheer en Afvalwaterbehandeling en
 
-- 9°. het Militair Geneeskundig Facilitair Bedrijf (MGFB) van het Ministerie van Defensie, daartoe aangewezen door de directeur van het Militair Geneeskundig Facilitair Bedrijf.
+   - 9°. het Militair Geneeskundig Facilitair Bedrijf (MGFB) van het Ministerie van Defensie, daartoe aangewezen door de directeur van het Militair Geneeskundig Facilitair Bedrijf.
 
 2. Voor ieder der krachtens het eerste lid, onder d, aangewezen deskundigen worden één of meer plaatsvervangers aangewezen.
 
@@ -275,5 +249,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 7.3
 
 Dit besluit wordt aangehaald als: Besluit Eenheid Planning en Advies Beleids-ondersteunend Team milieu-incidenten.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

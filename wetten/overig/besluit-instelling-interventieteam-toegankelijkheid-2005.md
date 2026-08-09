@@ -1,41 +1,18 @@
 ---
 title: "Besluit van de Minister voor Vreemdelingenzaken en Integratie van 11 maart 2005, nr. DDS 5337209, tot instelling van het interventieteam toegankelijkheid"
+citeertitel: "Besluit instelling interventieteam toegankelijkheid 2005"
 identifier: "BWBR0018099"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-03-18"
-last_updated: "2005-03-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018099"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6853693"
-version_id: "11733492"
-internal_id: "C29154241"
-label_id: "6841934"
-original_entry_into_force: "2005-03-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018099/2005-03-18/0"
-intitule_bron: "Stcrt.2005-53"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-03-11"
-intitule_published: "2005-03-16"
-intitule_in_force: "2005-03-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-53"
-original_signed_date: "2005-03-11"
-original_published_date: "2005-03-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-53-p20-SC69221"
-entry_into_force_date: "2005-03-18"
-jci_1_3: "jci1.3:c:BWBR0018099&z=2005-03-18&g=2005-03-18"
-jci_1_0: "1.0:c:BWBR0018099&g=2005-03-18"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling interventieteam toegankelijkheid 2005"
-signed_date: "2005-03-11"
-entry_into_force: "2005-03-18"
+publicatiedatum: 2005-03-18
+laatste_update: 2005-03-18
+status: geldig
+toestand: 2005-03-18
+bron: "https://wetten.overheid.nl/BWBR0018099"
+opgehaald: 2026-08-09
 ---
-# Besluit van de Minister voor Vreemdelingenzaken en Integratie van 11 maart 2005, nr. DDS 5337209, tot instelling van het interventieteam toegankelijkheid
 
-Besluit:
+# Besluit van de Minister voor Vreemdelingenzaken en Integratie van 11 maart 2005, nr. DDS 5337209, tot instelling van het interventieteam toegankelijkheid
 
 ##### Artikel 1
 
@@ -73,21 +50,21 @@ Het interventieteam heeft tot taak:
 
 2. Tot lid van het interventieteam zijn met ingang van 20 december 2004 benoemd:
 
-- –. de heer D. Sarian, voorzitter
+- – de heer D. Sarian, voorzitter
 
-- –. de heer M. El Filali
+- – de heer M. El Filali
 
-- –. de heer prof.dr. R. Gowricham
+- – de heer prof.dr. R. Gowricham
 
-- –. mevrouw drs. A.L. Grant
+- – mevrouw drs. A.L. Grant
 
-- –. de heer A. Harika
+- – de heer A. Harika
 
-- –. mevrouw drs. F. Kaya
+- – mevrouw drs. F. Kaya
 
-- –. de heer A. Taskan
+- – de heer A. Taskan
 
-- –. mevrouw drs. I. Verwey
+- – mevrouw drs. I. Verwey
 
 3. In het geval een lid van het interventieteam bij de besluitvorming of bij een activiteit van het interventieteam persoonlijk betrokken is of een persoonlijk belang heeft, onthoudt dat lid zich van deelname aan de bedoelde besluitvorming of activiteit.
 
@@ -136,5 +113,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit instelling interventieteam toegankelijkheid 2005.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

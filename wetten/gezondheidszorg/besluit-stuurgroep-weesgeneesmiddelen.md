@@ -1,41 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 9 juni 2005, nr. GMT/G 2587484, houdende Instelling van de Stuurgroep Weesgeneesmiddelen (Besluit Stuurgroep Weesgeneesmiddelen)"
+citeertitel: "Besluit Stuurgroep Weesgeneesmiddelen"
 identifier: "BWBR0018404"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-06-24"
-last_updated: "2005-06-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018404"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "7105393"
-version_id: "11996572"
-internal_id: "C29166681"
-label_id: "7093384"
-original_entry_into_force: "2005-06-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018404/2005-06-24/0"
-intitule_bron: "Stcrt.2005-118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-09"
-intitule_published: "2005-06-22"
-intitule_in_force: "2005-06-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-118"
-original_signed_date: "2005-06-09"
-original_published_date: "2005-06-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-118-p16-SC70364"
-entry_into_force_date: "2005-06-24"
-jci_1_3: "jci1.3:c:BWBR0018404&z=2005-06-24&g=2005-06-24"
-jci_1_0: "1.0:c:BWBR0018404&g=2005-06-24"
-citeertitel_status: "officieel"
-short_title: "Besluit Stuurgroep Weesgeneesmiddelen"
-signed_date: "2005-06-09"
-entry_into_force: "2005-06-24"
+publicatiedatum: 2005-06-24
+laatste_update: 2005-06-24
+status: geldig
+toestand: 2005-06-24
+bron: "https://wetten.overheid.nl/BWBR0018404"
+opgehaald: 2026-08-09
 ---
-# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 9 juni 2005, nr. GMT/G 2587484, houdende Instelling van de Stuurgroep Weesgeneesmiddelen (Besluit Stuurgroep Weesgeneesmiddelen)
 
-Besluit:
+# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 9 juni 2005, nr. GMT/G 2587484, houdende Instelling van de Stuurgroep Weesgeneesmiddelen (Besluit Stuurgroep Weesgeneesmiddelen)
 
 ##### Artikel 1
 
@@ -53,21 +30,21 @@ In dit besluit wordt verstaan onder:
 
 2. De stuurgroep heeft tot taak het stimuleren van de ontwikkeling van weesgeneesmiddelen en het verbeteren van de situatie van patiënten met een zeldzame ziekte, in het bijzonder het versterken van de informatievoorziening over zeldzame ziekten. De stuurgroep doet dit door:
 
-- –. de vertegenwoordigers van patiëntenorganisaties, behandelaars, onderzoekers, farmaceutische industrie, verzekeraars en anderen bij elkaar te brengen;
+- – de vertegenwoordigers van patiëntenorganisaties, behandelaars, onderzoekers, farmaceutische industrie, verzekeraars en anderen bij elkaar te brengen;
 
-- –. de problemen te inventariseren die de ontwikkeling van weesgeneesmiddelen in Nederland in de weg staan;
+- – de problemen te inventariseren die de ontwikkeling van weesgeneesmiddelen in Nederland in de weg staan;
 
-- –. de problemen van patiënten te inventariseren, in het bijzonder wat betreft de informatievoorziening;
+- – de problemen van patiënten te inventariseren, in het bijzonder wat betreft de informatievoorziening;
 
-- –. te functioneren als aanspreekpunt voor belanghebbenden;
+- – te functioneren als aanspreekpunt voor belanghebbenden;
 
-- –. netwerken te vormen met vergelijkbare structuren binnen de andere EU-lidstaten en zonodig ook daarbuiten;
+- – netwerken te vormen met vergelijkbare structuren binnen de andere EU-lidstaten en zonodig ook daarbuiten;
 
-- –. aan de betrokken instellingen oplossing voor te stellen voor de herkende problemen;
+- – aan de betrokken instellingen oplossing voor te stellen voor de herkende problemen;
 
-- –. hierbij te betrekken de Europese regelgeving ter zake, in het bijzonder [Verordening (EG) 141/2000](32000R0141) van het Europees Parlement en de raad van 16 december 1999 inzake weesgeneesmiddelen en toekomstige programma’s inzake weesgeneesmiddelen en zeldzame ziekten voortvloeiend uit Europese regelgeving;
+- – hierbij te betrekken de Europese regelgeving ter zake, in het bijzonder Verordening (EG) 141/2000 van het Europees Parlement en de raad van 16 december 1999 inzake weesgeneesmiddelen en toekomstige programma’s inzake weesgeneesmiddelen en zeldzame ziekten voortvloeiend uit Europese regelgeving;
 
-- –. projectvoorstellen te beoordelen en advies hierover te geven aan Zorgonderzoek Nederland (ZonMW).
+- – projectvoorstellen te beoordelen en advies hierover te geven aan Zorgonderzoek Nederland (ZonMW).
 
 3. De stuurgroep maakt een jaarplan en legt dit ter goedkeuring aan de minister voor.
 
@@ -83,25 +60,25 @@ Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de besch
 
 2. Voor deze keer worden benoemd:
 
-- –. prof. dr. H.G.M. Leufkens, Faculteit Farmaceutische Wetenschappen van de Universiteit van Utrecht, voorzitter;
+- – prof. dr. H.G.M. Leufkens, Faculteit Farmaceutische Wetenschappen van de Universiteit van Utrecht, voorzitter;
 
-- –. prof. dr. C.B.W.H. Lamers, gastro-enteroloog, LUMC, Leiden, lid;
+- – prof. dr. C.B.W.H. Lamers, gastro-enteroloog, LUMC, Leiden, lid;
 
-- –. prof. dr. F.J.M, Gabreëls, emeritus kinderneuroloog, UMC st Radboud Nijmegen, lid;
+- – prof. dr. F.J.M, Gabreëls, emeritus kinderneuroloog, UMC st Radboud Nijmegen, lid;
 
-- –. mw. dr. C.M.A. Rademaker, ziekenhuisapotheker, Wilhelmina Kinderziekenhuis / UMC Utrecht, lid;
+- – mw. dr. C.M.A. Rademaker, ziekenhuisapotheker, Wilhelmina Kinderziekenhuis / UMC Utrecht, lid;
 
-- –. dr. M. van der Graaff, Nefarma, lid;
+- – dr. M. van der Graaff, Nefarma, lid;
 
-- –. ir. J.G. Hanstede, BioFarmind, lid;
+- – ir. J.G. Hanstede, BioFarmind, lid;
 
-- –. mw. H. Meutgeert, Volwassenen en Kinderen met Stofwisselingsziekte en Vereniging Samenwerkende Ouder- en Patiëntenorganisaties, lid;
+- – mw. H. Meutgeert, Volwassenen en Kinderen met Stofwisselingsziekte en Vereniging Samenwerkende Ouder- en Patiëntenorganisaties, lid;
 
-- –. A. van der Zeijden, CG-raad, lid;
+- – A. van der Zeijden, CG-raad, lid;
 
-- –. dr. J.P.T. Span, agentschap College ter beoordeling van Geneesmiddelen, lid;
+- – dr. J.P.T. Span, agentschap College ter beoordeling van Geneesmiddelen, lid;
 
-- –. drs. A.R. Schuurman MBA, College voor Zorgverzekeringen, lid.
+- – drs. A.R. Schuurman MBA, College voor Zorgverzekeringen, lid.
 
 3. De stuurgroep stelt zijn eigen werkwijze vast.
 
@@ -130,5 +107,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit Stuurgroep Weesgeneesmiddelen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

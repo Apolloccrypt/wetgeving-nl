@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister voor Vreemdelingenzaken en Integratie van 14 september 2005, nr. DDS 5373122 houdende de vaststelling van beleidsregels ter zake van de uitvoering van artikel 48s van de Wet Justitie-subsidies (Beleidsregels projectsubsidie initiatieven versterking van het handelen bij eergerelateerd geweld)"
+citeertitel: "Beleidsregels projectsubsidie Initiatieven versterking van het handelen bij eergerelateerd geweld"
 identifier: "BWBR0018748"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2005-09-24"
-last_updated: "2005-09-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018748"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "7355503"
-version_id: "12307832"
-internal_id: "C16552881"
-label_id: "7343414"
-dtd_version: "2.0"
-original_entry_into_force: "2005-09-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018748/2005-09-24/0"
-intitule_bron: "Stcrt.2005-184"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-09-14"
-intitule_published: "2005-09-22"
-intitule_in_force: "2005-09-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-184"
-original_signed_date: "2005-09-14"
-original_published_date: "2005-09-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-184-p13-SC71600"
-entry_into_force_date: "2005-09-24"
-jci_1_3: "jci1.3:c:BWBR0018748&z=2005-09-24&g=2005-09-24"
-jci_1_0: "1.0:c:BWBR0018748&g=2005-09-24"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels projectsubsidie Initiatieven versterking van het handelen bij eergerelateerd geweld"
-signed_date: "2005-09-14"
-entry_into_force: "2005-09-24"
+publicatiedatum: 2005-09-24
+laatste_update: 2005-09-24
+status: geldig
+toestand: 2005-09-24
+bron: "https://wetten.overheid.nl/BWBR0018748"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van de Minister voor Vreemdelingenzaken en Integratie van 14 september 2005, nr. DDS 5373122 houdende de vaststelling van beleidsregels ter zake van de uitvoering van artikel 48s van de Wet Justitie-subsidies (Beleidsregels projectsubsidie initiatieven versterking van het handelen bij eergerelateerd geweld)
-
-Gelet op [artikel 48s van de Wet Justitiesubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48s) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
@@ -78,9 +52,9 @@ Voor verlening van een subsidie komen in aanmerking rechtspersonen, zijnde:
 
 2. Indien de aanvraag wordt ingediend namens een gemeente, een provincie of een samenwerkingsverband, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018748&artikel=4&z=2005-09-24&g=2005-09-24), wordt bij de aanvraag tevens overgelegd:
 
-- –. een afschrift van de overeenkomst;
+- – een afschrift van de overeenkomst;
 
-- –. een door de gemeente, die partij is bij de overeenkomst, ondertekend document, waaruit blijkt dat de gemeente die de subsidie aanvraagt, de rechtspersoon heeft aangewezen als subsidieaanvrager.
+- – een door de gemeente, die partij is bij de overeenkomst, ondertekend document, waaruit blijkt dat de gemeente die de subsidie aanvraagt, de rechtspersoon heeft aangewezen als subsidieaanvrager.
 
 3. Een aanvraag tot verlening van een subsidie dient uiterlijk 5 oktober 2005 door de Minister te zijn ontvangen.
 

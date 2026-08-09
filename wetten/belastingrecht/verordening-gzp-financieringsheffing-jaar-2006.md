@@ -1,43 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 3 november 2005, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2006 (Verordening GZP financieringsheffing jaar 2006)"
+citeertitel: "Verordening GZP financieringsheffing jaar 2006"
 identifier: "BWBR0018986"
-country: "nl"
-rank: "pbo"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018986"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "7843993"
-version_id: "12749842"
-internal_id: "C17176151"
-label_id: "7831774"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018986/2006-01-01/0"
-intitule_bron: "Vbbo.2005-73"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-11-03"
-intitule_published: "2005-12-23"
-intitule_in_force: "2005-12-23"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-73"
-original_signed_date: "2005-11-03"
-original_published_date: "2005-12-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0018986&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0018986&g=2006-01-01"
-citeertitel_status: "officieel"
-short_title: "Verordening GZP financieringsheffing jaar 2006"
-signed_date: "2005-11-03"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0018986"
+opgehaald: 2026-08-09
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 3 november 2005, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2006 (Verordening GZP financieringsheffing jaar 2006)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 eerste lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=8) en [19 van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=19);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -45,14 +20,14 @@ Besluit:
 
 Deze verordening verstaat onder:
 
-| productschap | : | Productschap Granen, Zaden en Peulvruchten; | Productschap Granen, Zaden en Peulvruchten; |
-| --- | --- | --- | --- |
-| secretaris | : | secretaris van het productschap; | secretaris van het productschap; |
-| ondernemer | : | natuurlijke- of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; | natuurlijke- of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
-| landbouwzaaizaden | : | alle zaaizaden met uitzondering van zaaizaden van groentegewassen, specerijgewassen, kruiden, siergewassen en bomen; | alle zaaizaden met uitzondering van zaaizaden van groentegewassen, specerijgewassen, kruiden, siergewassen en bomen; |
-| granen | : | granen, ingedeeld in Hoofdstuk 10 van de Gecombineerde Nomenclatuur, met uitzondering van zaaigranen en rijst; | granen, ingedeeld in Hoofdstuk 10 van de Gecombineerde Nomenclatuur, met uitzondering van zaaigranen en rijst; |
-| in de handel brengen | : | in Nederland in het verkeer brengen; | in Nederland in het verkeer brengen; |
-| be- of verwerking | : | een be- of verwerking, die aanleiding geeft tot een wijziging van de onderverdeling in de Gecombineerde Nomenclatuur. | een be- of verwerking, die aanleiding geeft tot een wijziging van de onderverdeling in de Gecombineerde Nomenclatuur. |
+| productschap | : | Productschap Granen, Zaden en Peulvruchten; |
+| --- | --- | --- |
+| secretaris | : | secretaris van het productschap; |
+| ondernemer | : | natuurlijke- of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
+| landbouwzaaizaden | : | alle zaaizaden met uitzondering van zaaizaden van groentegewassen, specerijgewassen, kruiden, siergewassen en bomen; |
+| granen | : | granen, ingedeeld in Hoofdstuk 10 van de Gecombineerde Nomenclatuur, met uitzondering van zaaigranen en rijst; |
+| in de handel brengen | : | in Nederland in het verkeer brengen; |
+| be- of verwerking | : | een be- of verwerking, die aanleiding geeft tot een wijziging van de onderverdeling in de Gecombineerde Nomenclatuur. |
 
 #### § 2. Heffing
 

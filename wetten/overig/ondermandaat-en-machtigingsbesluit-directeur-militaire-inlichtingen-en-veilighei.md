@@ -8,7 +8,7 @@ laatste_update: 2026-08-05
 status: geldig
 toestand: 2026-08-05
 bron: "https://wetten.overheid.nl/BWBR0052945"
-opgehaald: 2026-08-08
+opgehaald: 2026-08-09
 ---
 
 # Ondermandaat- en machtigingsbesluit Directeur Militaire Inlichtingen- en Veiligheidsdienst 2026 inzake de Wet op de inlichtingen- en veiligheidsdiensten 2017 en Wet veiligheidsonderzoeken

@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 juni 2005, nr. 2350225/01 tot instelling van de Werkgroep Bijzondere Informatiebeveiliging (Instellingsregeling WBI)"
+citeertitel: "Instellingsregeling WBI"
 identifier: "BWBR0018483"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-07-23"
-last_updated: "2005-07-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018483"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "7166093"
-version_id: "12081332"
-internal_id: "C16200411"
-label_id: "7154014"
-original_entry_into_force: "2005-07-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018483/2005-07-23/0"
-intitule_bron: "Stcrt.2005-139"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-27"
-intitule_published: "2005-07-21"
-intitule_in_force: "2005-07-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-139"
-original_signed_date: "2005-06-27"
-original_published_date: "2005-07-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-139-p8-SC70836"
-entry_into_force_date: "2005-07-23"
-jci_1_3: "jci1.3:c:BWBR0018483&z=2005-07-23&g=2005-07-23"
-jci_1_0: "1.0:c:BWBR0018483&g=2005-07-23"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling WBI"
-signed_date: "2005-06-27"
-entry_into_force: "2005-07-23"
+publicatiedatum: 2005-07-23
+laatste_update: 2005-07-23
+status: geldig
+toestand: 2005-07-23
+bron: "https://wetten.overheid.nl/BWBR0018483"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 juni 2005, nr. 2350225/01 tot instelling van de Werkgroep Bijzondere Informatiebeveiliging (Instellingsregeling WBI)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Besluit:
 
 ##### Artikel 1. Verklaring van gebruikte begrippen
 
@@ -85,25 +60,25 @@ De WBI heeft tot taak:
 
 1. De WBI bestaat uit een vertegenwoordiger van:
 
-- –. de Algemene Inlichtingen- en Veiligheidsdienst:
+- – de Algemene Inlichtingen- en Veiligheidsdienst:
 
-- –. het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, directoraat-generaal
+- – het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, directoraat-generaal
 
-- –. Veiligheid:
+- – Veiligheid:
 
-- –. het ministerie van Buitenlandse Zaken;
+- – het ministerie van Buitenlandse Zaken;
 
-- –. het ministerie van Defensie;
+- – het ministerie van Defensie;
 
-- –. het ministerie van Justitie.
+- – het ministerie van Justitie.
 
 2. De vertegenwoordiger van de Algemene Inlichtingen- en Veiligheidsdienst is tevens voorzitter van de WBI.
 
 3. De WBI kent de volgende agendaleden:
 
-- –. het ministerie van Algemene Zaken;
+- – het ministerie van Algemene Zaken;
 
-- –. de Militaire Inlichtingen- en Veiligheidsdienst.
+- – de Militaire Inlichtingen- en Veiligheidsdienst.
 
 4. Het hoofd NBV en het hoofd Cryptofaciliteit zijn vaste adviseurs van de WBI.
 
@@ -137,7 +112,7 @@ De WBI heeft tot taak:
 
 - c. de in [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018483&artikel=4&z=2005-07-23&g=2005-07-23), bedoelde deskundigen;
 
-- d. de in [artikel 4, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018483&artikel=4&z=2005-07-23&g=2005-07-23), bedoelde vertegenwoordiger**s.**
+- d. de in [artikel 4, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018483&artikel=4&z=2005-07-23&g=2005-07-23), bedoelde vertegenwoordiger*s.*
 
 ##### Artikel 7. Evaluatie
 
@@ -152,5 +127,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Instellingsregeling WBI.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,42 +1,17 @@
 ---
 title: "Besluit verhaal ziekengeld"
 identifier: "BWBR0017876"
-country: "nl"
-rank: "zbo"
-publication_date: "2005-03-01"
-last_updated: "2005-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017876"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6838233"
-version_id: "11720682"
-internal_id: "C15801791"
-label_id: "6826424"
-original_entry_into_force: "2005-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017876/2005-03-01/0"
-intitule_bron: "Stcrt.2005-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-01-04"
-intitule_published: "2005-01-26"
-intitule_in_force: "2005-01-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-18"
-original_signed_date: "2005-01-04"
-original_published_date: "2005-01-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-18-p21-SC68716"
-entry_into_force_date: "2005-03-01"
-jci_1_3: "jci1.3:c:BWBR0017876&z=2005-03-01&g=2005-03-01"
-jci_1_0: "1.0:c:BWBR0017876&g=2005-03-01"
-citeertitel_status: "redactioneel"
-signed_date: "2005-01-04"
-entry_into_force: "2005-03-01"
+publicatiedatum: 2005-03-01
+laatste_update: 2005-03-01
+status: geldig
+toestand: 2005-03-01
+bron: "https://wetten.overheid.nl/BWBR0017876"
+opgehaald: 2026-08-09
 ---
+
 # Besluit verhaal ziekengeld
-
-Gelet op [artikel 39a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=39a);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -57,5 +32,3 @@ Indien de werknemer de bedongen arbeid gedeeltelijk heeft hervat of passende arb
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van 1 maart 2005.
-
-Dit besluit wordt, na goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, met de toelichting in de Staatscourant geplaatst.

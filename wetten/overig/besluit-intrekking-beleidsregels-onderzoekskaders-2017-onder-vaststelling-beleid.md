@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0045489"
-opgehaald: 2026-08-08
+opgehaald: 2026-08-09
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media, van 24 juni 2021, nr. 28318215 tot intrekking van beleidsregels houdende Onderzoekskaders 2017 onder vaststelling van beleidsregels houdende Onderzoekskaders 2021

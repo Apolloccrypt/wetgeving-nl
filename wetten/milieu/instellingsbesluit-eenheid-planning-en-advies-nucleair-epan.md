@@ -1,43 +1,18 @@
 ---
 title: "Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van 14 maart 2005, nr. VI/CM20050113779, tot instelling van een Eenheid Planning en Advies nucleair"
+citeertitel: "Instellingsbesluit Eenheid Planning en Advies nucleair (EPAn)"
 identifier: "BWBR0018105"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-03-20"
-last_updated: "2005-03-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018105"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "6867823"
-version_id: "11738522"
-internal_id: "C15824381"
-label_id: "6856024"
-original_entry_into_force: "2005-03-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018105/2005-03-20/0"
-intitule_bron: "Stcrt.2005-55"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-03-14"
-intitule_published: "2005-03-18"
-intitule_in_force: "2005-03-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-55"
-original_signed_date: "2005-03-14"
-original_published_date: "2005-03-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-55-p22-SC69282"
-entry_into_force_date: "2005-03-20"
-jci_1_3: "jci1.3:c:BWBR0018105&z=2005-03-20&g=2005-03-20"
-jci_1_0: "1.0:c:BWBR0018105&g=2005-03-20"
-citeertitel_status: "redactioneel"
-short_title: "Instellingsbesluit Eenheid Planning en Advies nucleair (EPAn)"
-signed_date: "2005-03-14"
-entry_into_force: "2005-03-20"
+publicatiedatum: 2005-03-20
+laatste_update: 2005-03-20
+status: geldig
+toestand: 2005-03-20
+bron: "https://wetten.overheid.nl/BWBR0018105"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van 14 maart 2005, nr. VI/CM20050113779, tot instelling van een Eenheid Planning en Advies nucleair
-
-Handelend in overeenstemming met de Ministers van Volksgezondheid, Welzijn en Sport, van Binnenlandse Zaken en Koninkrijksrelaties, van Landbouw, Natuur en Voedselkwaliteit, van Verkeer en Waterstaat, van Sociale Zaken en Werkgelegenheid en van Defensie;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -164,5 +139,3 @@ De EPAn bestaat uit:
 ##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

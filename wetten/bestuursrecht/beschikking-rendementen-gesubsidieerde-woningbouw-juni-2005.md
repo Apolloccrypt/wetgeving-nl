@@ -1,47 +1,17 @@
 ---
 title: "Beschikking rendementen gesubsidieerde woningbouw, juni 2005"
 identifier: "BWBR0018469"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-10-01"
-last_updated: "2005-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018469"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "7299223"
-version_id: "12233732"
-internal_id: "C16471271"
-label_id: "7287064"
-dtd_version: "2.0"
-original_entry_into_force: "2005-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018469/2005-10-01/0"
-intitule_bron: "Stcrt.2005-163"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-23"
-intitule_published: "2005-08-24"
-intitule_in_force: "2005-08-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-163"
-original_signed_date: "2005-06-23"
-original_published_date: "2005-08-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-163-p15-SC71266"
-entry_into_force_date: "2005-10-01"
-jci_1_3: "jci1.3:c:BWBR0018469&z=2005-10-01&g=2005-10-01"
-jci_1_0: "1.0:c:BWBR0018469&g=2005-10-01"
-citeertitel_status: "redactioneel"
-signed_date: "2005-06-23"
-entry_into_force: "2005-10-01"
+publicatiedatum: 2005-10-01
+laatste_update: 2005-10-01
+status: geldig
+toestand: 2005-10-01
+bron: "https://wetten.overheid.nl/BWBR0018469"
+opgehaald: 2026-08-09
 ---
+
 # Beschikking rendementen gesubsidieerde woningbouw, juni 2005
-
-Gelet op artikel 17, vierde lid, van de Beschikking geldelijke steun huurwoningen 1975, en artikel 18, vierde lid, van de Regeling geldelijke steun huurwoningen in proefgemeenten normkostensysteem 1986;
-
-Gelet op artikel 31 onderdeel i, op artikel 56, tweede lid, op artikel 57, eerste lid, en op artikel 58, derde lid, van de Regeling geldelijke steun huurwoningen normkostensysteem 1988;
-
-Gelet op artikel 17, tweede lid, van de Beschikking geldelijke steun eigen woningen 1984, alsmede gelet op artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoningen 1987;
-
-Besluit:
 
 ##### Artikel 1
 

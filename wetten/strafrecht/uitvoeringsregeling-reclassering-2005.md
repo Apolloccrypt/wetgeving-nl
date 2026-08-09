@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie van 9 november 2005, nr. DDS 5378751, houdende regels over de uitvoering van reclasseringswerkzaamheden (Uitvoeringsregeling reclassering 2005)"
+citeertitel: "Uitvoeringsregeling reclassering 2005"
 identifier: "BWBR0019016"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-11-25"
-last_updated: "2005-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019016"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "7589363"
-version_id: "12469822"
-internal_id: "C29196181"
-label_id: "7577324"
-dtd_version: "2.0"
-original_entry_into_force: "2005-11-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019016/2005-11-25/0"
-intitule_bron: "Stcrt.2005-228"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-11-09"
-intitule_published: "2005-11-23"
-intitule_in_force: "2005-11-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-228"
-original_signed_date: "2005-11-09"
-original_published_date: "2005-11-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-228-p14-SC72343"
-entry_into_force_date: "2005-11-25"
-jci_1_3: "jci1.3:c:BWBR0019016&z=2005-11-25&g=2005-11-25"
-jci_1_0: "1.0:c:BWBR0019016&g=2005-11-25"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling reclassering 2005"
-signed_date: "2005-11-09"
-entry_into_force: "2005-11-25"
+publicatiedatum: 2005-11-25
+laatste_update: 2005-11-25
+status: geldig
+toestand: 2005-11-25
+bron: "https://wetten.overheid.nl/BWBR0019016"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de Minister van Justitie van 9 november 2005, nr. DDS 5378751, houdende regels over de uitvoering van reclasseringswerkzaamheden (Uitvoeringsregeling reclassering 2005)
-
-Gelet op de[artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=2), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=6), [38, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=38), en [40 van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=40);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -263,49 +237,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 23
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling reclassering 2005.
-
-## Bijlage 1
-
-### **AANVRAAG BEËDIGING VAN EEN RECLASSERINGSWERKER**
-
-De Stichting …...... (naam reclasseringsinstelling) te ........... (plaatsnaam)
-
-Aan de griffier bij de rechtbank
-
-te …........
-
-Hierbij verzoekt ondergetekende,
-
-….....…. (naam),
-
-….....…. (functie)
-
-van de Stichting …..,
-
-de beëdiging te (doen) bewerkstelligen van de reclasseringswerker
-
-naam: ….......
-
-voornamen (voluit): …....…
-
-geboortedatum en -plaats:
-
-De verklaring omtrent het gedrag is op …… afgegeven door de minister van Justitie.
-
-Betrokkene, tewerkgesteld in ….. (plaatsnaam)
-
-is sinds ……. (datum) in dienst van de Stichting …....... te …........
-
-Betrokkene is bij beschikking van ….. (datum) van het bestuur van de Stichting …....... aangewezen als reclasseringswerker overeenkomstig [artikel 6, eerste lid, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=6) en voldoet aan de daarvoor in de Uitvoeringsregeling reclassering 2005 gestelde eisen.
-
-Gaarne verneem ik zo spoedig mogelijk het tijdstip waarop de beëdiging zal plaatsvinden.
-
-…….......... (datum)
-
-…….......... (plaats)
-
-namens het bestuur van de Stichting ……….........
-
-………………. (ondertekening)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

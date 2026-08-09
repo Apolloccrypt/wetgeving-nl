@@ -1,52 +1,24 @@
 ---
 title: "Wet van 17 maart 2005 tot uitvoering van verordening (EG) Nr. 2157/2001 van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (Uitvoeringswet verordening Europese vennootschap)"
+citeertitel: "Uitvoeringswet verordening Europese vennootschap"
 identifier: "BWBR0018114"
-country: "nl"
-rank: "wet"
-publication_date: "2017-09-01"
-last_updated: "2017-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018114"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "6890133"
-version_id: "11762042"
-internal_id: "C15858231"
-label_id: "6878544"
-original_entry_into_force: "2005-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018114/2017-09-01/0"
-intitule_bron: "Stb.2005-150"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-03-17"
-intitule_published: "2005-03-24"
-intitule_in_force: "2005-03-24"
-intitule_status: "goed"
-original_publication: "Stb.2005-150"
-original_signed_date: "2005-03-17"
-original_published_date: "2005-03-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "29309"
-original_url_id: "stb-2005-150"
-entry_into_force_date: "2005-04-01"
-jci_1_3: "jci1.3:c:BWBR0018114&z=2017-09-01&g=2017-09-01"
-jci_1_0: "1.0:c:BWBR0018114&g=2017-09-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet verordening Europese vennootschap"
-signed_date: "2005-03-17"
-entry_into_force: "2005-04-01"
+publicatiedatum: 2005-04-01
+laatste_update: 2017-09-01
+status: geldig
+toestand: 2017-09-01
+bron: "https://wetten.overheid.nl/BWBR0018114"
+opgehaald: 2026-08-09
 ---
+
 # Wet van 17 maart 2005 tot uitvoering van verordening (EG) Nr. 2157/2001 van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (Uitvoeringswet verordening Europese vennootschap)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat [Verordening (EG) 2157/2001](32001R2157) van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294) moet worden uitgevoerd;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1
 
-Voor de toepassing van de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018114&hoofdstuk=1&artikel=2&z=2017-09-01&g=2017-09-01) van deze wet wordt onder «Verordening» verstaan de [Verordening (EG) nr. 2157/2001](32001R2157) van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294).
+Voor de toepassing van de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018114&hoofdstuk=1&artikel=2&z=2017-09-01&g=2017-09-01) van deze wet wordt onder «Verordening» verstaan de Verordening (EG) nr. 2157/2001 van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294).
 
 ##### Artikel 2
 
@@ -160,15 +132,15 @@ Als bevoegde autoriteit in de zin van artikel 64, vierde lid, van de Verordening
 
 ##### Artikel 23
 
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel 24
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 25
 
-Wijzigt de Handelsregisterwet 1996.
+*Wijzigt de Handelsregisterwet 1996.*
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -179,5 +151,3 @@ Deze wet wordt aangehaald als: Uitvoeringswet verordening Europese vennootschap.
 ##### Artikel 27
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

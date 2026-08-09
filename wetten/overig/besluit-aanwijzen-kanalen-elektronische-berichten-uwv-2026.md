@@ -8,7 +8,7 @@ laatste_update: 2026-08-07
 status: geldig
 toestand: 2026-08-07
 bron: "https://wetten.overheid.nl/BWBR0052960"
-opgehaald: 2026-08-08
+opgehaald: 2026-08-09
 ---
 
 # Besluit aanwijzen kanalen elektronische berichten UWV 2026

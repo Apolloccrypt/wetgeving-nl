@@ -1,76 +1,46 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 december 2005, nr. VGP/VL 2642637, houdende de Warenwetregeling taakverdeling toezichthouders Warenwet voor levensmiddelen"
+citeertitel: "Warenwetregeling taakverdeling toezichthouders Warenwet voor levensmiddelen"
 identifier: "BWBR0019228"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-05-01"
-last_updated: "2021-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019228"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "7777433"
-version_id: "12699842"
-internal_id: "C17110321"
-label_id: "7765064"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019228/2021-05-01/0"
-intitule_bron: "Stcrt.2006-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-12"
-intitule_published: "2006-01-02"
-intitule_in_force: "2006-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-1"
-original_signed_date: "2005-12-12"
-original_published_date: "2006-01-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-1-p16-SC73244"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0019228&z=2021-05-01&g=2021-05-01"
-jci_1_0: "1.0:c:BWBR0019228&g=2021-05-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetregeling taakverdeling toezichthouders Warenwet voor levensmiddelen"
-signed_date: "2005-12-12"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2021-05-01
+status: geldig
+toestand: 2021-05-01
+bron: "https://wetten.overheid.nl/BWBR0019228"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 december 2005, nr. VGP/VL 2642637, houdende de Warenwetregeling taakverdeling toezichthouders Warenwet voor levensmiddelen
-
-Handelende in overeenstemming met de Ministers van Landbouw, Natuur en Voedselkwaliteit, en van Financiën;
-
-Gelet op [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25), en [artikel 25a, vierde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25a);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **verordening (EG) 852/2004**: [verordening (EG) nr. 852/2004](32004R0852) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake levensmiddelenhygiëne (PbEU L 139 en L 226);
+- a. *verordening (EG) 852/2004*: verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake levensmiddelenhygiëne (PbEU L 139 en L 226);
 
-- b. **verordening (EG) 853/2004**: [verordening (EG) nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139 en L 226);
+- b. *verordening (EG) 853/2004*: verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139 en L 226);
 
-- c. **NVWA**: de Nederlandse Voedsel- en Warenautoriteit;
+- c. *NVWA*: de Nederlandse Voedsel- en Warenautoriteit;
 
-- d. **het COKZ:** de stichting Controle Orgaan Kwaliteits Zaken;
+- d. *het COKZ:* de stichting Controle Orgaan Kwaliteits Zaken;
 
-- e. **primaire bedrijven**: inrichtingen waarop bijlage I van [verordening (EG) 852/2004](32004R0852) van toepassing is met uitzondering van zuivelinrichtingen en ei- en eiproducteninrichtingen;
+- e. *primaire bedrijven*: inrichtingen waarop bijlage I van verordening (EG) 852/2004 van toepassing is met uitzondering van zuivelinrichtingen en ei- en eiproducteninrichtingen;
 
-- f. **zuivelinrichtingen:**
+- f. *zuivelinrichtingen:*
 
-- –. inrichtingen waarop de voorschriften opgenomen in bijlage III, sectie IX, van [verordening (EG) 853/2004](32004R0853) van toepassing zijn; of
+   - – inrichtingen waarop de voorschriften opgenomen in bijlage III, sectie IX, van verordening (EG) 853/2004 van toepassing zijn; of
 
-- –. inrichtingen waar rauwe melk, colostrum, zuivelproducten of producten op basis van colostrum al dan niet geconditioneerd worden opgeslagen of verhandeld;
+   - – inrichtingen waar rauwe melk, colostrum, zuivelproducten of producten op basis van colostrum al dan niet geconditioneerd worden opgeslagen of verhandeld;
 
-- g. **ei- en eiproducteninrichtingen:**
+- g. *ei- en eiproducteninrichtingen:*
 
-- –. inrichtingen waarop de voorschriften opgenomen in bijlage III, sectie X, van [verordening (EG) 853/2004](32004R0853) van toepassing zijn; of
+   - – inrichtingen waarop de voorschriften opgenomen in bijlage III, sectie X, van verordening (EG) 853/2004 van toepassing zijn; of
 
-- –. inrichtingen waar eieren of eiproducten al dan niet geconditioneerd worden opgeslagen of verhandeld;
+   - – inrichtingen waar eieren of eiproducten al dan niet geconditioneerd worden opgeslagen of verhandeld;
 
-- h. **gemengde bedrijven**: een combinatie van onder e, f of g bedoelde bedrijven.
+- h. *gemengde bedrijven*: een combinatie van onder e, f of g bedoelde bedrijven.
 
 ##### Artikel 2
 
@@ -90,10 +60,8 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Deze regeling treedt in werking met ingang van 1 januari 2006.
+Deze regeling treedt in werking met ingang van 1 januari 2006.
 
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Warenwetregeling taakverdeling toezichthouders Warenwet voor levensmiddelen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

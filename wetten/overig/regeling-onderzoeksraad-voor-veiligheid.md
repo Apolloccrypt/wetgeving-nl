@@ -1,44 +1,17 @@
 ---
 title: "Regeling Onderzoeksraad voor veiligheid"
 identifier: "BWBR0017940"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-11-09"
-last_updated: "2021-11-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017940"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6703463"
-version_id: "11542082"
-internal_id: "C15571331"
-label_id: "6692104"
-original_entry_into_force: "2005-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017940/2021-11-09/0"
-intitule_bron: "Stcrt.2005-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-01-25"
-intitule_published: "2005-01-31"
-intitule_in_force: "2005-01-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-21"
-original_signed_date: "2005-01-25"
-original_published_date: "2005-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-21-p27-SC68707"
-entry_into_force_date: "2005-02-01"
-jci_1_3: "jci1.3:c:BWBR0017940&z=2021-11-09&g=2021-11-09"
-jci_1_0: "1.0:c:BWBR0017940&g=2021-11-09"
-citeertitel_status: "officieel"
-signed_date: "2005-01-25"
-entry_into_force: "2005-02-01"
+publicatiedatum: 2005-02-01
+laatste_update: 2021-11-09
+status: geldig
+toestand: 2021-11-09
+bron: "https://wetten.overheid.nl/BWBR0017940"
+opgehaald: 2026-08-09
 ---
+
 # Regeling Onderzoeksraad voor veiligheid
-
-Gelet op [Richtlijn nr. 1999/35/EG](31999L0035) van de Raad van de Europese Unie van 29 april 1999 betreffende een stelsel van verplichte onderzoeken voor de veilige exploitatie van geregelde diensten met ro-ro-veerboten en hogesnelheidspassagiersvaartuigen (PbEG L 138) alsmede op de [artikelen 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=22), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=27), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=29), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=44), [45, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=45), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=46), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=53), en [55, vijfde lid, van de Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=55), [artikel 4, derde en vierde lid, van het Rijksbesluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017680&artikel=4) en de [artikelen 1, eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=1), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=11) en [13 van het Besluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=13);
-
-Besluit:
-
-Treedt in werking op het krachtens artikel 97, eerste lid, eerste volzin, van de Rijkswet Onderzoeksraad voor veiligheid vastgestelde tijdstip.
 
 #### § 1. Begripsomschrijvingen
 
@@ -50,31 +23,31 @@ In deze regeling wordt verstaan onder:
 
 - b. scheepvaartongeval: een gebeurtenis die heeft geresulteerd in:
 
-- 1°. dodelijk of ernstig letsel aan een persoon overkomen, dat is veroorzaakt door of samenhangt met het functioneren van een schip,
+   - 1°. dodelijk of ernstig letsel aan een persoon overkomen, dat is veroorzaakt door of samenhangt met het functioneren van een schip,
 
-- 2°. de vermissing van een persoon vanaf een schip, die is veroorzaakt door of samenhangt met het functioneren van het schip,
+   - 2°. de vermissing van een persoon vanaf een schip, die is veroorzaakt door of samenhangt met het functioneren van het schip,
 
-- 3°. de vermissing, vermoedelijke vermissing of het verlaten van een schip,
+   - 3°. de vermissing, vermoedelijke vermissing of het verlaten van een schip,
 
-- 4°. schade aan een schip,
+   - 4°. schade aan een schip,
 
-- 5°. het stranden of onbruikbaar worden van een schip,
+   - 5°. het stranden of onbruikbaar worden van een schip,
 
-- 6°. de betrokkenheid van een schip bij een aanvaring,
+   - 6°. de betrokkenheid van een schip bij een aanvaring,
 
-- 7°. schade die is veroorzaakt door of samenhangt met het functioneren van een schip of
+   - 7°. schade die is veroorzaakt door of samenhangt met het functioneren van een schip of
 
-- 8°. schade aan het milieu die is veroorzaakt door schade aan een of meer schepen, welke het gevolg is van of samenhangt met het functioneren van een schip.
+   - 8°. schade aan het milieu die is veroorzaakt door schade aan een of meer schepen, welke het gevolg is van of samenhangt met het functioneren van een schip.
 
 - c. scheepvaartincident: een gebeurtenis, geen scheepvaartongeval zijnde, veroorzaakt door of samenhangend met het functioneren van een schip en waarbij de veiligheid van het schip of van personen in gevaar is gebracht of waardoor ernstige schade aan het schip, aan mijnbouwinstallaties of aan het mariene milieu zou kunnen ontstaan;
 
 - d. luchtvaartongeval: een gebeurtenis die samenhangt met het gebruik van een luchtvaartuig en plaatsvindt tussen het tijdstip waarop een persoon zich aan boord begeeft met het voornemen een vlucht uit te voeren en het tijdstip waarop alle personen die zich met dit voornemen aan boord hebben begeven, zijn uitgestapt, en waarbij:
 
-- 1°. een persoon dodelijk of ernstig letsel heeft opgelopen als gevolg van het zich in het luchtvaartuig bevinden, direct contact met een onderdeel van het luchtvaartuig, inclusief de onderdelen die van het luchtvaartuig zijn losgeraakt of directe blootstelling aan de uitlaatstroom van de reactoren, behalve wanneer de letsels een natuurlijke oorzaak hebben, door de persoon zelf of door anderen zijn toegebracht, of wanneer de letsels verstekelingen treffen die zich buiten de normale voor passagiers en het personeel bedoelde ruimten ophouden,
+   - 1°. een persoon dodelijk of ernstig letsel heeft opgelopen als gevolg van het zich in het luchtvaartuig bevinden, direct contact met een onderdeel van het luchtvaartuig, inclusief de onderdelen die van het luchtvaartuig zijn losgeraakt of directe blootstelling aan de uitlaatstroom van de reactoren, behalve wanneer de letsels een natuurlijke oorzaak hebben, door de persoon zelf of door anderen zijn toegebracht, of wanneer de letsels verstekelingen treffen die zich buiten de normale voor passagiers en het personeel bedoelde ruimten ophouden,
 
-- 2°. het luchtvaartuig schade of een structureel defect oploopt, waardoor afbreuk wordt gedaan aan zijn soliditeit, prestaties of vluchtkenmerken en die normaliter ingrijpende herstelwerkzaamheden of vervanging van het getroffen onderdeel noodzakelijk zouden maken, behalve wanneer het gaat om motorstoring of motorschade en de schade beperkt is tot de motor, de motorkap of motoronderdelen, dan wel om schade die beperkt is tot de propellers, de vleugelpunten, de antennes, de banden, de remmen, de stroomlijnkappen of tot deukjes of gaatjes in de vliegtuighuid, of
+   - 2°. het luchtvaartuig schade of een structureel defect oploopt, waardoor afbreuk wordt gedaan aan zijn soliditeit, prestaties of vluchtkenmerken en die normaliter ingrijpende herstelwerkzaamheden of vervanging van het getroffen onderdeel noodzakelijk zouden maken, behalve wanneer het gaat om motorstoring of motorschade en de schade beperkt is tot de motor, de motorkap of motoronderdelen, dan wel om schade die beperkt is tot de propellers, de vleugelpunten, de antennes, de banden, de remmen, de stroomlijnkappen of tot deukjes of gaatjes in de vliegtuighuid, of
 
-- 3°. het luchtvaartuig vermist wordt of volledig onbereikbaar is;
+   - 3°. het luchtvaartuig vermist wordt of volledig onbereikbaar is;
 
 - e. luchtvaartincident: een gebeurtenis, geen luchtvaartongeval zijnde, die samenhangt met het functioneren van een luchtvaartuig en afbreuk doet of zou kunnen doen aan een veilige vluchtuitvoering;
 
@@ -84,21 +57,21 @@ In deze regeling wordt verstaan onder:
 
 - h. ernstig letsel:
 
-- 1°. met betrekking tot een scheepvaartongeval: letsel, door een persoon bij een ongeval opgelopen, dat resulteert in een uitschakeling voor meer dan 72 uur, beginnend binnen zeven dagen na de datum waarop het letsel werd opgelopen;
+   - 1°. met betrekking tot een scheepvaartongeval: letsel, door een persoon bij een ongeval opgelopen, dat resulteert in een uitschakeling voor meer dan 72 uur, beginnend binnen zeven dagen na de datum waarop het letsel werd opgelopen;
 
-- 2°. met betrekking tot een luchtvaartongeval: letsel, door een persoon bij een ongeval opgelopen, dat:
+   - 2°. met betrekking tot een luchtvaartongeval: letsel, door een persoon bij een ongeval opgelopen, dat:
 
-- –. opneming in een ziekenhuis gedurende meer dan 48 uur vereist, welke aanvangt binnen zeven dagen na het oplopen van het letsel,
+      - – opneming in een ziekenhuis gedurende meer dan 48 uur vereist, welke aanvangt binnen zeven dagen na het oplopen van het letsel,
 
-- –. de breuk van een bot tot gevolg heeft, uitgezonderd enkelvoudige breuken van vingers, tenen of de neus,
+      - – de breuk van een bot tot gevolg heeft, uitgezonderd enkelvoudige breuken van vingers, tenen of de neus,
 
-- –. gepaard gaat met scheurwonden die ernstige bloedingen of beschadigingen van zenuwen, spieren of pezen veroorzaken,
+      - – gepaard gaat met scheurwonden die ernstige bloedingen of beschadigingen van zenuwen, spieren of pezen veroorzaken,
 
-- –. gepaard gaat met letsel aan een inwendig orgaan,
+      - – gepaard gaat met letsel aan een inwendig orgaan,
 
-- –. gepaard gaat met tweedegraads of derdegraads brandwonden of brandwonden over meer dan 5% van het lichaamsoppervlak of
+      - – gepaard gaat met tweedegraads of derdegraads brandwonden of brandwonden over meer dan 5% van het lichaamsoppervlak of
 
-- –. gepaard gaat met geconstateerde blootstelling aan besmettelijke stoffen of schadelijke straling;
+      - – gepaard gaat met geconstateerde blootstelling aan besmettelijke stoffen of schadelijke straling;
 
 - i. staat van ontwerp: staat die rechtsmacht heeft over de organisatie die verantwoordelijk is voor het ontwerp van een luchtvaartuig;
 
@@ -112,13 +85,13 @@ In deze regeling wordt verstaan onder:
 
 - n. exploitant van een luchtvaartuig: iedere natuurlijk persoon, iedere rechtspersoon met of zonder winstoogmerk of ieder overheidslichaam met of zonder rechtspersoonlijkheid dat een of meer luchtvaartuigen exploiteert of voornemens is te exploiteren;
 
-- o. spoorwegveiligheidsrichtlijn: richtlijn (EU) 2016/798 van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138);
+- o. spoorwegveiligheidsrichtlijn: richtlijn (EU) 2016/798 van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138);
 
-- p. richtlijn 2009/18/EG: richtlijn nr. 2009/18/EG van het Europees Parlement en van de Raad van Europese Unie van 23 april 2009 tot vaststelling van de grondbeginselen voor het onderzoek van ongevallen in de scheepvaartsector en tot wijziging van de Richtlijn 1999/35/EG van de Raad en Richtlijn 2002/59/EG van het Europees Parlement en de Raad (PbEU 2009, L 131);
+- p. richtlijn 2009/18/EG: richtlijn nr. 2009/18/EG van het Europees Parlement en van de Raad van Europese Unie van 23 april 2009 tot vaststelling van de grondbeginselen voor het onderzoek van ongevallen in de scheepvaartsector en tot wijziging van de Richtlijn 1999/35/EG van de Raad en Richtlijn 2002/59/EG van het Europees Parlement en de Raad (PbEU 2009, L 131);
 
 - q. spoorweg: een spoorwegsysteem als bedoeld in de spoorwegveiligheidsrichtlijn, voor zover dat systeem is aangewezen in het [Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794);
 
-- r. Europees Spoorwegbureau: het Spoorwegbureau van de Europese Unie, bedoeld in Verordening (EU) 2016/796 van het Europees Parlement en de Raad van 11 mei 2016 betreffende het Spoorwegbureau van de Europese Unie en tot intrekking van [Verordening (EG) nr. 881/2004](32004R0881) (PbEU 2016, L 138).
+- r. Europees Spoorwegbureau: het Spoorwegbureau van de Europese Unie, bedoeld in Verordening (EU) 2016/796 van het Europees Parlement en de Raad van 11 mei 2016 betreffende het Spoorwegbureau van de Europese Unie en tot intrekking van Verordening (EG) nr. 881/2004 (PbEU 2016, L 138).
 
 #### § 2. Toepasselijkheid
 
@@ -282,6 +255,12 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 2. Voor de wijze waarop de melding plaatsvindt, worden de terzake internationaal gemaakte afspraken nageleefd.
 
+##### Artikel 8a
+
+1. Indien de raad een onderzoek instelt naar een voorval in verband met een spoorweg zendt de raad binnen één week nadat besloten is een onderzoek in te stellen een melding ter zake aan het Europees Spoorwegbureau.
+
+2. De melding bevat de datum, de tijd, en de plaats van het voorval, alsmede het type voorval en de gevolgen ervan in termen van doden, gewonden en materiële schade.
+
 ##### Artikel 9
 
 1. Binnen dertig dagen na de datum van een luchtvaartongeval met een luchtvaartuig waarnaar de raad een onderzoek instelt, zendt de raad een voorlopig bericht toe aan:
@@ -332,6 +311,10 @@ De raad is, in geval van een luchtvaartongeval of een luchtvaartincident, verpli
 
 De raad is, in geval van een scheepvaartongeval of een scheepvaartincident met een zeeschip, verplicht staten met aanmerkelijk belang uit te nodigen een verzoek te doen een vertegenwoordiger te laten deelnemen aan het onderzoek.
 
+##### Artikel 12a
+
+Indien de raad een onderzoek instelt naar een voorval, waarbij een spoorwegonderneming als bedoeld in artikel 3, aanhef en onder 3, van de spoorwegveiligheidsrichtlijn, met een vergunning van een andere lidstaat betrokken is of waarbij een in een andere lidstaat geregistreerd of onderhouden voertuig betrokken is, nodigt hij het onderzoeksorgaan, bedoeld in artikel 22 van de spoorwegveiligheidsrichtlijn, van die lidstaat uit deel te nemen aan het onderzoek.
+
 #### § 8. Rechten andere staat
 
 ##### Artikel 13
@@ -348,7 +331,7 @@ De raad is, ingeval een staat waarvan burgers dodelijk of ernstig letsel hebben 
 
 - e. een afschrift van het eindrapport te ontvangen.
 
-#### § 8. Rechten andere staat
+#### § 9. Rapport
 
 ##### Artikel 14
 
@@ -356,7 +339,7 @@ De raad stelt het rapport, bedoeld in [artikel 55, eerste lid, van de rijkswet](
 
 ##### Artikel 15
 
-Het rapport betreffende een scheepvaartongeval of een scheepvaartincident met een zeeschip wordt opgesteld met inachtneming van bijlage I bij richtlijn nr. 2009/18/EG.
+Het rapport betreffende een scheepvaartongeval of een scheepvaartincident met een zeeschip wordt opgesteld met inachtneming van bijlage I bij richtlijn nr. 2009/18/EG.
 
 ##### Artikel 16
 
@@ -402,6 +385,20 @@ Het rapport betreffende een scheepvaartongeval of een scheepvaartincident met ee
 
 5. In geval van een onderzoek betreffende een zwaar ongeval waarbij gevaarlijke stoffen zijn betrokken als bedoeld in [artikel 8, eerste lid, van het Besluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=8), zendt de raad een afschrift van zijn rapport aan de Europese Commissie.
 
+##### Artikel 17a
+
+1. In geval van een onderzoek naar een voorval in verband met een spoorweg wordt het rapport zoveel mogelijk vastgesteld conform de rapportagestructuur die bij uitvoeringshandelingen op grond van artikel 24, tweede lid, van de spoorwegveiligheidsrichtlijn door de Europese Commissie worden vastgesteld.
+
+2. Een wijziging van de uitvoeringshandelingen op grond van artikel 24, tweede lid, van de spoorwegveiligheidsrichtlijn gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
+
+3. Een rapport als bedoeld in het eerste lid, wordt, met inbegrip van de veiligheidsaanbevelingen, toegezonden aan de in [artikel 11d, eerste lid, van het Besluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=11d) genoemde partijen, alsmede aan de betrokken organen en partijen in andere lidstaten.
+
+4. De raad zendt het Europees Spoorwegbureau jaarlijks een exemplaar van het jaarverslag toe.
+
+##### Artikel 17b
+
+*Vervallen*
+
 #### § 10. Vergoedingen
 
 ##### Artikel 18
@@ -416,11 +413,11 @@ Het rapport betreffende een scheepvaartongeval of een scheepvaartincident met ee
 
 ##### Artikel 19
 
-Wijzigt de Regeling burgerluchtvaartinlichtingen.
+*Wijzigt de Regeling burgerluchtvaartinlichtingen.*
 
 ##### Artikel 20
 
-Wijzigt de Regeling risico’s zware ongevallen 1999.
+*Wijzigt de Regeling risico’s zware ongevallen 1999.*
 
 ##### Artikel 21
 
@@ -429,49 +426,3 @@ Deze regeling treedt in werking op het krachtens [artikel 97, eerste lid, eerste
 ##### Artikel 22
 
 Deze regeling wordt aangehaald als: Regeling Onderzoeksraad voor veiligheid.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a
-
-1. Indien de raad een onderzoek instelt naar een voorval in verband met een spoorweg zendt de raad binnen één week nadat besloten is een onderzoek in te stellen een melding ter zake aan het Europees Spoorwegbureau.
-
-2. De melding bevat de datum, de tijd, en de plaats van het voorval, alsmede het type voorval en de gevolgen ervan in termen van doden, gewonden en materiële schade.
-
-#### § 7. Vertegenwoordiger ander land
-
-#### § 8. Rechten andere staat
-
-#### § 9. Rapport
-
-##### Artikel 17a
-
-1. In geval van een onderzoek naar een voorval in verband met een spoorweg wordt het rapport zoveel mogelijk vastgesteld conform de rapportagestructuur die bij uitvoeringshandelingen op grond van artikel 24, tweede lid, van de spoorwegveiligheidsrichtlijn door de Europese Commissie worden vastgesteld.
-
-2. Een wijziging van de uitvoeringshandelingen op grond van artikel 24, tweede lid, van de spoorwegveiligheidsrichtlijn gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
-
-3. Een rapport als bedoeld in het eerste lid, wordt, met inbegrip van de veiligheidsaanbevelingen, toegezonden aan de in [artikel 11d, eerste lid, van het Besluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=11d) genoemde partijen, alsmede aan de betrokken organen en partijen in andere lidstaten.
-
-4. De raad zendt het Europees Spoorwegbureau jaarlijks een exemplaar van het jaarverslag toe.
-
-##### Artikel 17b
-
-Vervallen
-
-#### § 10. Vergoedingen
-
-#### § 11. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 12a
-
-Indien de raad een onderzoek instelt naar een voorval, waarbij een spoorwegonderneming als bedoeld in artikel 3, aanhef en onder 3, van de spoorwegveiligheidsrichtlijn, met een vergunning van een andere lidstaat betrokken is of waarbij een in een andere lidstaat geregistreerd of onderhouden voertuig betrokken is, nodigt hij het onderzoeksorgaan, bedoeld in artikel 22 van de spoorwegveiligheidsrichtlijn, van die lidstaat uit deel te nemen aan het onderzoek.
-
-#### § 9. Rapport
-
-#### § 10. Vergoedingen
-
-#### § 11. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

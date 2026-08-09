@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 28 juni 2005, houdende regels ter zake van de aan ondernemers, die groenten en fruit naar Japan en Taiwan exporteren, op te leggen heffing voor het jaar 2006 (Verordening PT heffing export groenten en fruit Japan en Taiwan 2006)"
+citeertitel: "Verordening PT heffing export groenten en fruit Japan en Taiwan 2006"
 identifier: "BWBR0018500"
-country: "nl"
-rank: "pbo"
-publication_date: "2005-10-02"
-last_updated: "2005-10-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018500"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "7431773"
-version_id: "12363062"
-internal_id: "C16617901"
-label_id: "7419644"
-dtd_version: "2.0"
-original_entry_into_force: "2005-10-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018500/2005-10-02/0"
-intitule_bron: "Vbbo.2005-56"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-28"
-intitule_published: "2005-09-30"
-intitule_in_force: "2005-09-30"
-intitule_status: "goed"
-original_publication: "Vbbo.2005-56"
-original_signed_date: "2005-06-28"
-original_published_date: "2005-09-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2005-10-02"
-jci_1_3: "jci1.3:c:BWBR0018500&z=2005-10-02&g=2005-10-02"
-jci_1_0: "1.0:c:BWBR0018500&g=2005-10-02"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing export groenten en fruit Japan en Taiwan 2006"
-signed_date: "2005-06-28"
-entry_into_force: "2005-10-02"
+publicatiedatum: 2005-10-02
+laatste_update: 2005-10-02
+status: geldig
+toestand: 2005-10-02
+bron: "https://wetten.overheid.nl/BWBR0018500"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 28 juni 2005, houdende regels ter zake van de aan ondernemers, die groenten en fruit naar Japan en Taiwan exporteren, op te leggen heffing voor het jaar 2006 (Verordening PT heffing export groenten en fruit Japan en Taiwan 2006)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 7 juni 2005;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -110,5 +81,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 9
 
 Deze verordening wordt aangehaald als: Verordening PT heffing export groenten en fruit Japan en Taiwan 2006.
-
-De verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

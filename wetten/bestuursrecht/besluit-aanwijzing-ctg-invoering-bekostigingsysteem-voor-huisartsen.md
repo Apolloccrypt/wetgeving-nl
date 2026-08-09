@@ -1,47 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 9 mei 2005, nr. MC/MO-2580975, houdende aanwijzing aan het CTG tot invoering van een nieuw bekostigingsysteem voor huisartsen"
+citeertitel: "Besluit aanwijzing CTG invoering bekostigingsysteem voor huisartsen"
 identifier: "BWBR0018312"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018312"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "6999453"
-version_id: "11875572"
-internal_id: "C15967291"
-label_id: "6987534"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018312/2006-01-01/0"
-intitule_bron: "Stcrt.2005-92"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-05-09"
-intitule_published: "2005-05-17"
-intitule_in_force: "2005-05-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-92"
-original_signed_date: "2005-05-09"
-original_published_date: "2005-05-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-92-p12-SC69912"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0018312&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0018312&g=2006-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing CTG invoering bekostigingsysteem voor huisartsen"
-signed_date: "2005-05-09"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0018312"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 9 mei 2005, nr. MC/MO-2580975, houdende aanwijzing aan het CTG tot invoering van een nieuw bekostigingsysteem voor huisartsen
-
-Gelet op [artikel 13 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=13);
-
-Gehoord het College tarieven gezondheidszorg;
-
-Na schriftelijke mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brieven van 8 april, kenmerk CZ/EZ-2568247 en MC/MO-2576842);
-
-Besluit:
 
 ##### Artikel 1
 

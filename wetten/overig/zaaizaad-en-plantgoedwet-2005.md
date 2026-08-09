@@ -1,48 +1,18 @@
 ---
 title: "Wet van 19 februari 2005, houdende een nieuwe regeling voor het toelaten van rassen, het in de handel brengen van teeltmateriaal en het verlenen van kwekersrecht (Zaaizaad- en plantgoedwet 2005)"
+citeertitel: "Zaaizaad- en plantgoedwet 2005"
 identifier: "BWBR0018040"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018040"
+categorie: "Overig"
 soort: "wet"
-stam_id: "6909293"
-version_id: "22015712"
-internal_id: "C31569761"
-label_id: "6898504"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018040/2025-01-01/0"
-intitule_bron: "Stb.2005-184"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-02-19"
-intitule_published: "2005-04-07"
-intitule_in_force: "2006-01-31"
-intitule_status: "goed"
-original_publication: "Stb.2014-571"
-original_signed_date: "2014-12-17"
-original_published_date: "2014-12-24"
-original_effect: "structuurwijziging"
-original_dossier: "33910"
-original_url_id: "stb-2014-571"
-entry_into_force_date: "2014-12-17"
-entry_into_force_dossier: "33910"
-jci_1_3: "jci1.3:c:BWBR0018040&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0018040&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Zaaizaad- en plantgoedwet 2005"
-signed_date: "2014-12-17"
-entry_into_force: "2014-12-17"
+publicatiedatum: 2014-12-17
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0018040"
+opgehaald: 2026-08-09
 ---
+
 # Wet van 19 februari 2005, houdende een nieuwe regeling voor het toelaten van rassen, het in de handel brengen van teeltmateriaal en het verlenen van kwekersrecht (Zaaizaad- en plantgoedwet 2005)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een nieuwe regeling voor het toelaten van plantenrassen, het in de handel brengen van teeltmateriaal en het verlenen van kwekersrecht vast te stellen, mede gelet op het op 2 december 1961 te Parijs tot stand gekomen Internationaal Verdrag tot bescherming van kweekprodukten (Trb. 1962, 117), zoals dit laatstelijk is herzien bij Akte van 19 maart 1991 (Trb. 1992, 52), alsmede gelet op diverse Europese richtlijnen met betrekking tot het in de handel brengen van teeltmateriaal van verschillende soorten gewassen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -56,11 +26,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. ras: plantengroep binnen één botanisch taxon van de laagst bekende rang, welke groep, ongeacht of volledig wordt voldaan aan de voorwaarden die deze wet stelt voor de verlening van een kwekersrecht, kan worden
 
-- –. gedefinieerd aan de hand van de expressie van de eigenschappen die het resultaat is van een bepaald genotype of een combinatie van genotypen,
+   - – gedefinieerd aan de hand van de expressie van de eigenschappen die het resultaat is van een bepaald genotype of een combinatie van genotypen,
 
-- –. onderscheiden van elke andere plantengroep op grond van de expressie van ten minste één van die eigenschappen, en
+   - – onderscheiden van elke andere plantengroep op grond van de expressie van ten minste één van die eigenschappen, en
 
-- –. beschouwd als een eenheid, gezien zijn geschiktheid om onveranderd te worden vermeerderd;
+   - – beschouwd als een eenheid, gezien zijn geschiktheid om onveranderd te worden vermeerderd;
 
 - d. het rassenregister: het Nederlands rassenregister, genoemd in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4&artikel=25&z=2025-01-01&g=2025-01-01);
 
@@ -76,7 +46,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - j. kweker: degene die een ras door eigen arbeid heeft gekweekt of die het ras heeft ontdekt en ontwikkeld, of diens rechtverkrijgende;
 
-- k. Unie: Unie tot bescherming van kweekprodukten, gevormd door de staten die partij zijn bij het op 2 december 1961 te Parijs tot stand gekomen Internationaal Verdrag tot bescherming van kweekprodukten (Trb. 1962, 117), zoals dit laatstelijk is herzien bij Akte van 19 maart 1991 (Trb. 1992, 52);
+- k. Unie: Unie tot bescherming van kweekprodukten, gevormd door de staten die partij zijn bij het op 2 december 1961 te Parijs tot stand gekomen Internationaal Verdrag tot bescherming van kweekprodukten (Trb. 1962, 117), zoals dit laatstelijk is herzien bij Akte van 19 maart 1991 (Trb. 1992, 52);
 
 - l. Unie-staat: staat die deel uitmaakt van de Unie;
 
@@ -99,6 +69,10 @@ Er is een Raad voor plantenrassen, die tot taak heeft:
 - d. het op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4&artikel=26&z=2025-01-01&g=2025-01-01) opstellen en bekend maken van nationale lijsten van toegelaten rassen en opstanden, en
 
 - e. het toelaten en in het rassenregister inschrijven van plantengroepen als bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=8&artikel=85&z=2025-01-01&g=2025-01-01).
+
+##### Artikel 2a
+
+Op de Raad voor plantenrassen is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing.
 
 ##### Artikel 3
 
@@ -190,43 +164,43 @@ De voorzitter en de overige leden, de secretaris en de adjunct-secretarissen nem
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. Keuringsinstellingen
 
@@ -576,6 +550,26 @@ Een erkenning of registratie als bedoeld in [artikel 42](https://wetten.overheid
 
 3. Aan vrijstellingen en ontheffingen kunnen voorwaarden en beperkingen worden verbonden.
 
+### Hoofdstuk 6a. Teelt
+
+##### Artikel 48a
+
+1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de teelt van gewassen.
+
+2. De regels, bedoeld in het eerste lid, kunnen betrekking hebben op:
+
+- a. het gebruik van teeltmateriaal, waaronder het verbod om bepaalde soorten teeltmateriaal te gebruiken of het stellen van voorwaarden daaraan;
+
+- b. het gebruik van landbouwgronden, waaronder het stellen van voorwaarden aan het gebruik van die gronden, teneinde de verontreiniging van zaaizaad tegen te gaan;
+
+- c. administratieve verplichtingen die samenhangen met het bedoelde in de onderdelen a en b, waaronder de verplichting tot het doen van meldingen.
+
+##### Artikel 48b
+
+1. Onze Minister kan ontheffing verlenen van het bepaalde krachtens [artikel 48a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=6a&artikel=48a&z=2025-01-01&g=2025-01-01), ten behoeve van onderzoek naar de uitkruising van genetisch gemodificeerde organismen of naar de vermenging van genetische gemodificeerde organismen met organismen die niet genetisch gemodificeerd zijn.
+
+2. Aan ontheffingen kunnen voorwaarden en beperkingen worden verbonden.
+
 ### Hoofdstuk 7. Kwekersrecht
 
 #### Paragraaf 1. De aanspraak op verlening van kwekersrecht
@@ -876,7 +870,7 @@ De duur van het kwekersrecht bedraagt vanaf de datum van dagtekening van het kwe
 
 - b. indien blijkt dat het ras op het tijdstip van verlening van het kwekersrecht niet onderscheidbaar was als bedoeld in [artikel 49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=1&artikel=49&z=2025-01-01&g=2025-01-01);
 
-- c. indien – in het geval dat de verlening van het kwekersrecht in hoofdzaak is gebaseerd op door de kweker verstrekte inlichtingen en bescheiden – blijkt dat op het tijdstip van die verlening het ras niet homogeen dan wel niet bestendig was als bedoeld in [artikel 49, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=1&artikel=49&z=2025-01-01&g=2025-01-01);
+- c. indien – in het geval dat de verlening van het kwekersrecht in hoofdzaak is gebaseerd op door de kweker verstrekte inlichtingen en bescheiden – blijkt dat op het tijdstip van die verlening het ras niet homogeen dan wel niet bestendig was als bedoeld in [artikel 49, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=1&artikel=49&z=2025-01-01&g=2025-01-01);
 
 - d. indien het kwekersrecht is verleend aan een persoon die daartoe ingevolge het bepaalde bij of krachtens deze wet niet gerechtigd is, tenzij het kwekersrecht wordt overgedragen aan de persoon die daartoe wel gerechtigd is.
 
@@ -962,7 +956,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen, ter uitvoering van een b
 
 ##### Artikel 86
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 87
 
@@ -984,7 +978,7 @@ Vervallen
 
 ##### Artikel 88
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 89
 
@@ -1002,11 +996,11 @@ Vervallen
 
 ##### Artikel 91
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 92
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
 ##### Artikel 93
 
@@ -1041,75 +1035,3 @@ De [Zaaizaad- en Plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541) 
 1. Deze wet wordt aangehaald als: Zaaizaad- en plantgoedwet, met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
 
 2. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a
-
-Op de Raad voor plantenrassen is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing.
-
-### Hoofdstuk 3. Keuringsinstellingen
-
-### Hoofdstuk 4. Het rassenregister
-
-### Hoofdstuk 5. Toelating van rassen en opstanden
-
-### Hoofdstuk 6. In de handel brengen van teeltmateriaal
-
-### Hoofdstuk 6a. Teelt
-
-#### Paragraaf 1. De aanspraak op verlening van kwekersrecht
-
-#### Paragraaf 2. De verlening van kwekersrecht
-
-#### Paragraaf 2. De verlening van kwekersrecht
-
-#### Paragraaf 4. Het kwekersrecht als onderdeel van het vermogen
-
-#### Paragraaf 5. De handhaving van het kwekersrecht
-
-#### Paragraaf 5. De handhaving van het kwekersrecht
-
-#### Paragraaf 7. Kwekersrechtelijke geschillen
-
-### Hoofdstuk 8. Overige bepalingen
-
-### Hoofdstuk 9. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 48a
-
-1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de teelt van gewassen.
-
-2. De regels, bedoeld in het eerste lid, kunnen betrekking hebben op:
-
-- a. het gebruik van teeltmateriaal, waaronder het verbod om bepaalde soorten teeltmateriaal te gebruiken of het stellen van voorwaarden daaraan;
-
-- b. het gebruik van landbouwgronden, waaronder het stellen van voorwaarden aan het gebruik van die gronden, teneinde de verontreiniging van zaaizaad tegen te gaan;
-
-- c. administratieve verplichtingen die samenhangen met het bedoelde in de onderdelen a en b, waaronder de verplichting tot het doen van meldingen.
-
-##### Artikel 48b
-
-1. Onze Minister kan ontheffing verlenen van het bepaalde krachtens [artikel 48a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=6a&artikel=48a&z=2025-01-01&g=2025-01-01), ten behoeve van onderzoek naar de uitkruising van genetisch gemodificeerde organismen of naar de vermenging van genetische gemodificeerde organismen met organismen die niet genetisch gemodificeerd zijn.
-
-2. Aan ontheffingen kunnen voorwaarden en beperkingen worden verbonden.
-
-### Hoofdstuk 7. Kwekersrecht
-
-#### Paragraaf 1. De aanspraak op verlening van kwekersrecht
-
-#### Paragraaf 3. De rechten en verplichtingen van de houder van een kwekersrecht
-
-#### Paragraaf 4. Het kwekersrecht als onderdeel van het vermogen
-
-#### Paragraaf 6. De duur van het kwekersrecht en de opeising
-
-#### Paragraaf 7. Kwekersrechtelijke geschillen
-
-### Hoofdstuk 8. Overige bepalingen
-
-### Hoofdstuk 9. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

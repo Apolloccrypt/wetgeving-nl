@@ -1,46 +1,22 @@
 ---
 title: "Regeling van de Minister voor Vreemdelingenzaken en Integratie van 29 september 2005, nr. 5375831, tot wijziging van de Regeling verkrijging en verlies Nederlanderschap van 13 maart 2003"
+citeertitel: "Wijzigingsregeling Regeling verkrijging en verlies Nederlanderschap"
 identifier: "BWBR0018813"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018813"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "7429863"
-version_id: "12360962"
-internal_id: "C16615541"
-label_id: "7417614"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018813/2006-01-01/0"
-intitule_bron: "Stcrt.2005-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-09-29"
-intitule_published: "2005-10-12"
-intitule_in_force: "2005-10-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-198"
-original_signed_date: "2005-09-29"
-original_published_date: "2005-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-198-p10-SC71851"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0018813&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0018813&g=2006-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsregeling Regeling verkrijging en verlies Nederlanderschap"
-signed_date: "2005-09-29"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0018813"
+opgehaald: 2026-08-09
 ---
-# Regeling van de Minister voor Vreemdelingenzaken en Integratie van 29 september 2005, nr. 5375831, tot wijziging van de Regeling verkrijging en verlies Nederlanderschap van 13 maart 2003
 
-Besluit:
+# Regeling van de Minister voor Vreemdelingenzaken en Integratie van 29 september 2005, nr. 5375831, tot wijziging van de Regeling verkrijging en verlies Nederlanderschap van 13 maart 2003
 
 ##### Artikel I
 
-Wijzigt de Regeling verkrijging en verlies Nederlanderschap.
+*Wijzigt de Regeling verkrijging en verlies Nederlanderschap.*
 
 ##### Artikel II
 

@@ -1,203 +1,70 @@
 ---
 title: "Besluit van 12 april 2005, houdende vaststelling van regels met betrekking tot de inkomsten van burgerlijke ambtenaren bij het Ministerie van Defensie (Inkomstenbesluit burgerlijke ambtenaren defensie) en tot wijziging van enkele besluiten in verband met technische wijzigingen"
+citeertitel: "Inkomstenbesluit burgerlijke ambtenaren defensie"
 identifier: "BWBR0018191"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-17"
-last_updated: "2025-01-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018191"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "6980243"
-version_id: "11850332"
-internal_id: "C15942181"
-label_id: "6969124"
-original_entry_into_force: "2005-05-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018191/2025-01-17/0"
-intitule_bron: "Stb.2005-224"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-12"
-intitule_published: "2005-05-10"
-intitule_in_force: "2005-05-10"
-intitule_status: "goed"
-original_publication: "Stb.2005-224"
-original_signed_date: "2005-04-12"
-original_published_date: "2005-05-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2005-224"
-entry_into_force_date: "2005-05-11"
-jci_1_3: "jci1.3:c:BWBR0018191&z=2025-01-17&g=2025-01-17"
-jci_1_0: "1.0:c:BWBR0018191&g=2025-01-17"
-citeertitel_status: "officieel"
-short_title: "Inkomstenbesluit burgerlijke ambtenaren defensie"
-signed_date: "2005-04-12"
-entry_into_force: "2005-05-11"
+publicatiedatum: 2005-05-11
+laatste_update: 2025-01-17
+status: geldig
+toestand: 2025-01-17
+bron: "https://wetten.overheid.nl/BWBR0018191"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 12 april 2005, houdende vaststelling van regels met betrekking tot de inkomsten van burgerlijke ambtenaren bij het Ministerie van Defensie (Inkomstenbesluit burgerlijke ambtenaren defensie) en tot wijziging van enkele besluiten in verband met technische wijzigingen
 
 ### Hoofdstuk 1. Algemene bepalingen
-
-### Hoofdstuk 1. Algemene bepalingen
-
-### Hoofdstuk 3. Overige bezoldiging
-
-### Hoofdstuk 4. Bezoldiging tijdens ziekte
-
-### Hoofdstuk 5. Bezoldiging tijdens bijzondere situaties
-
-### Hoofdstuk 6. Overige inkomsten
-
-### Hoofdstuk 7. Tegemoetkoming ziektekostenverzekering
-
-### Hoofdstuk 8. Verschuldigde bedragen
-
-### Hoofdstuk 9. Slotbepalingen
-
-##### Artikel 62. Hardheidsclausule
-
-Indien de billijkheid dat vordert, kan Onze Minister de ambtenaar schadeloos stellen, kosten vergoeden of overigens een geldelijke tegemoetkoming toekennen.
-
-##### Artikel 63. [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482)
-
-Wijzigt het Algemeen militair ambtenarenreglement.
-
-##### Artikel 64. [Besluit aanvulling arbeidsongeschiktheidsuitkering burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006043)
-
-Wijzigt het Besluit aanvulling arbeidsongeschiktheidsuitkering burgerlijke ambtenaren defensie.
-
-##### Artikel 65. [Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956)
-
-Wijzigt het Besluit dienstreizen defensie.
-
-##### Artikel 66. [Besluit georganiseerd overleg sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006042)
-
-Wijzigt het Besluit georganiseerd overleg sector Defensie.
-
-##### Artikel 67. [Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280)
-
-Wijzigt het Besluit personenchauffeurs defensie.
-
-##### Artikel 68. [Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0003538)
-
-Wijzigt de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht.
-
-##### Artikel 69. [Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0003262)
-
-Wijzigt het Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen.
-
-##### Artikel 70. [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040)
-
-Wijzigt het Burgerlijk ambtenarenreglement defensie.
-
-##### Artikel 71. [Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816)
-
-Wijzigt het Inkomstenbesluit militairen.
-
-##### Artikel 72. [Verplaatsingskostenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006039)
-
-Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie.
-
-##### Artikel 73. [Verplaatsingskostenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005137)
-
-Wijzigt het Verplaatsingskostenbesluit militairen.
-
-##### Artikel 74. [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006041)
-
-Wijzigt het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie.
-
-##### Artikel 75. Intrekking besluiten
-
-De volgende besluiten worden ingetrokken:
-
-- a. het [Besluit betaling emolumenten burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006037);
-
-- b. het [Besluit maaltijdvergoeding bij overwerk burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006036);
-
-- c. het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006038);
-
-- d. het [Interimbesluit ziektekosten burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006034);
-
-- e. het [Telefoonkostenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006035).
-
-##### Artikel 76. Inwerkingtreding
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst, met dien verstande dat de [artikelen 63, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=63&z=2025-01-17&g=2025-01-17), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=64&z=2025-01-17&g=2025-01-17), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=65&z=2025-01-17&g=2025-01-17), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=66&z=2025-01-17&g=2025-01-17), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=68&z=2025-01-17&g=2025-01-17), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=69&z=2025-01-17&g=2025-01-17), [70, onderdeel W](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=70&z=2025-01-17&g=2025-01-17), [71, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=71&z=2025-01-17&g=2025-01-17), [72, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=72&z=2025-01-17&g=2025-01-17), en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=73&z=2025-01-17&g=2025-01-17) terugwerken tot en met 1 augustus 2004.
-
-##### Artikel 77. Citeertitel
-
-Dit besluit wordt aangehaald als: Inkomstenbesluit burgerlijke ambtenaren defensie.
-
-## Bijlage A. (IBBAD, [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2005-05-11&g=2004-08-01)) van het Inkomstenbesluit burgerlijke ambtenaren defensie
-
-Dit onderdeel is nog niet inwerking getreden
-
-## Bijlage B. (IBBAD, [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=13&z=2005-05-11&g=2004-08-01)) van het Inkomstenbesluit burgerlijke ambtenaren defensie
-
-Dit onderdeel is nog niet inwerking getreden
-
-## Bijlage C. (IBBAD, [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2005-05-11&g=2004-08-01)) van het Inkomstenbesluit burgerlijke ambtenaren defensie
-
-Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van de Staatssecretaris van Defensie van 19 januari 2005, nr. P/2004013819;
-
-Gelet op [artikel 12 van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [125c](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125c) en [134, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=134);
-
-De Raad van State gehoord (advies van 17 maart 2005, nr. W07.05.0014/II);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 5 april 2005, nr. P/2005005542;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
-- a. **ambtenaar:** degene die bij het Ministerie van Defensie in burgerlijke openbare dienst is aangesteld;
+- a. *ambtenaar:* degene die bij het Ministerie van Defensie in burgerlijke openbare dienst is aangesteld;
 
-- b. **Onze Minister:** Onze Minister van Defensie;
+- b. *Onze Minister:* Onze Minister van Defensie;
 
-- c. **hoofd defensieonderdeel:**
+- c. *hoofd defensieonderdeel:*
 
-- 1°. de secretaris-generaal, voor zover het betreft de Bestuursstaf;
+   - 1°. de secretaris-generaal, voor zover het betreft de Bestuursstaf;
 
-- 2°. de Commandant Zeestrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Luchtstrijdkrachten, de Commandant Koninklijke Marechaussee, voor het desbetreffende commando;
+   - 2°. de Commandant Zeestrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Luchtstrijdkrachten, de Commandant Koninklijke Marechaussee, voor het desbetreffende commando;
 
-- 3°. de directeur Defensie Materieel Organisatie, voor zover het betreft de Defensie Materieel Organisatie, met uitzondering van het deel ondergebracht in de Bestuursstaf;
+   - 3°. de directeur Defensie Materieel Organisatie, voor zover het betreft de Defensie Materieel Organisatie, met uitzondering van het deel ondergebracht in de Bestuursstaf;
 
-- 4°. de commandant Commando DienstenCentra, voor zover het betreft het Commando DienstenCentra;
+   - 4°. de commandant Commando DienstenCentra, voor zover het betreft het Commando DienstenCentra;
 
-- d. **commandant:** een bij ministeriële regeling aangewezen autoriteit;
+- d. *commandant:* een bij ministeriële regeling aangewezen autoriteit;
 
-- e. **salaris:** het bedrag, dat in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A&z=2025-01-17&g=2025-01-17) wordt gevonden in de voor de ambtenaar geldende salarisschaal en salarisnummer, in voorkomend geval verhoogd met de aanvulling op het salaris, bedoeld in [artikel 4 van het Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4), of het bedrag, dat wordt gevonden met toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=B&z=2025-01-17&g=2025-01-17);
+- e. *salaris:* het bedrag, dat in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A&z=2025-01-17&g=2025-01-17) wordt gevonden in de voor de ambtenaar geldende salarisschaal en salarisnummer, in voorkomend geval verhoogd met de aanvulling op het salaris, bedoeld in [artikel 4 van het Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4), of het bedrag, dat wordt gevonden met toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=B&z=2025-01-17&g=2025-01-17);
 
-- f. **salaris per uur:** 1/165 deel van het salaris bij een voltijdaanstelling;
+- f. *salaris per uur:* 1/165 deel van het salaris bij een voltijdaanstelling;
 
-- g. **salarisschaal:** een als zodanig in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A&z=2025-01-17&g=2025-01-17) vermelde reeks van genummerde salarissen;
+- g. *salarisschaal:* een als zodanig in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A&z=2025-01-17&g=2025-01-17) vermelde reeks van genummerde salarissen;
 
-- h. **salarisnummer:** een aanduiding, bestaande uit een getal dat in een salarisschaal na een salaris is vermeld dan wel een letter en een getal dat voor een salaris van een jeugdsalarisschaal is vermeld;
+- h. *salarisnummer:* een aanduiding, bestaande uit een getal dat in een salarisschaal na een salaris is vermeld dan wel een letter en een getal dat voor een salaris van een jeugdsalarisschaal is vermeld;
 
-- i. **maximumsalaris:** het hoogste bedrag van een salarisschaal;
+- i. *maximumsalaris:* het hoogste bedrag van een salarisschaal;
 
-- j. **bezoldiging:** de som van het salaris en de toelagen waarop de ambtenaar ingevolge [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&z=2025-01-17&g=2025-01-17) van dit besluit aanspraak heeft, in voorkomend geval vermeerderd met:
+- j. *bezoldiging:* de som van het salaris en de toelagen waarop de ambtenaar ingevolge [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&z=2025-01-17&g=2025-01-17) van dit besluit aanspraak heeft, in voorkomend geval vermeerderd met:
 
-- 1°. aanspraken op grond van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=62&z=2025-01-17&g=2025-01-17), indien en voor zover de minister dit bepaalt,
+   - 1°. aanspraken op grond van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=62&z=2025-01-17&g=2025-01-17), indien en voor zover de minister dit bepaalt,
 
-- 2°. aanspraken op grond van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=51&z=2025-01-17&g=2025-01-17) voor zover deze tot de bezoldiging worden gerekend, en
+   - 2°. aanspraken op grond van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=51&z=2025-01-17&g=2025-01-17) voor zover deze tot de bezoldiging worden gerekend, en
 
-- 3°. de vaste toelage onregelmatige dienst en de consignatietoelage, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=5) en [6 van het Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=6);
+   - 3°. de vaste toelage onregelmatige dienst en de consignatietoelage, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=5) en [6 van het Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=6);
 
-- k. **inkomsten:** alle bedragen waarop de ambtenaar aanspraak maakt bij of krachtens dit besluit;
+- k. *inkomsten:* alle bedragen waarop de ambtenaar aanspraak maakt bij of krachtens dit besluit;
 
-- l. **functie:** het samenstel van werkzaamheden door de ambtenaar te verrichten krachtens en overeenkomstig hetgeen hem door de autoriteit, bedoeld in [artikel 8 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=8), is opgedragen;
+- l. *functie:* het samenstel van werkzaamheden door de ambtenaar te verrichten krachtens en overeenkomstig hetgeen hem door de autoriteit, bedoeld in [artikel 8 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=8), is opgedragen;
 
-- m. **voltijdaanstelling:** een aanstelling met een arbeidsduur van achtendertig uur per week;
+- m. *voltijdaanstelling:* een aanstelling met een arbeidsduur van achtendertig uur per week;
 
-- n. **deeltijdaanstelling:** een aanstelling met een arbeidsduur van minder dan achtendertig uur per week;
+- n. *deeltijdaanstelling:* een aanstelling met een arbeidsduur van minder dan achtendertig uur per week;
 
-- o. **arbeidsduur:** de arbeidsduur, bedoeld in [artikel 30a, onderdeel d, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30a);
+- o. *arbeidsduur:* de arbeidsduur, bedoeld in [artikel 30a, onderdeel d, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30a);
 
-- p. **rooster:** het rooster, bedoeld in [artikel 30a, onderdeel c, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30a).
+- p. *rooster:* het rooster, bedoeld in [artikel 30a, onderdeel c, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30a).
 
 ##### Artikel 2. Toepasselijkheid van dit besluit
 
@@ -249,7 +116,7 @@ Onze Minister kan in geval van buitengewone omstandigheden, als bedoeld in [arti
 
 ##### Artikel 7. Berekening pensioengevend inkomen
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 2. Salaris
 
@@ -305,6 +172,10 @@ Vervallen
 
 6. De commandant kan verhoging van het salarisnummer, bedoeld in het eerste lid, achterwege laten, indien de militair naar het oordeel van de commandant de functie niet naar behoren vervult.
 
+##### Artikel 11a. Overgangsbepaling salaristabel 1 januari 2023
+
+Het salarisnummer van de ambtenaar op wie salarisschaal 3, 4, 5, 6 of 7 van toepassing is, wordt met ingang van 1 januari 2023 met één salarisnummer verhoogd.
+
 ##### Artikel 12. Deeltijdaanstelling
 
 1. Het salaris van de ambtenaar met een deeltijdaanstelling wordt vastgesteld op een evenredig deel van het salaris bij een voltijdaanstelling.
@@ -315,13 +186,13 @@ Vervallen
 
 1. In dit artikel en in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2025-01-17&g=2025-01-17), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=15&z=2025-01-17&g=2025-01-17) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=19&z=2025-01-17&g=2025-01-17) wordt verstaan onder:
 
-- a. **tandarts:** de ambtenaar bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=1&artikel=2&z=2025-01-17&g=2025-01-17);
+- a. *tandarts:* de ambtenaar bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=1&artikel=2&z=2025-01-17&g=2025-01-17);
 
-- b. **hoofd tandheelkundige dienst:** het hoofd tandheelkundige dienst zeemacht, de tandheelkundige autoriteit landmacht en de staf tandarts luchtmacht;
+- b. *hoofd tandheelkundige dienst:* het hoofd tandheelkundige dienst zeemacht, de tandheelkundige autoriteit landmacht en de staf tandarts luchtmacht;
 
-- c. **werkdag en werkuur:** een dag respectievelijk een uur waarop de tandarts dienst moet verrichten volgens het voor hem vastgestelde rooster;
+- c. *werkdag en werkuur:* een dag respectievelijk een uur waarop de tandarts dienst moet verrichten volgens het voor hem vastgestelde rooster;
 
-- d. **tandheelkundig centrum:** een onderdeel of afdeling, voornamelijk belast met de curatieve tandheelkundige zorg voor militairen.
+- d. *tandheelkundig centrum:* een onderdeel of afdeling, voornamelijk belast met de curatieve tandheelkundige zorg voor militairen.
 
 2. De tandarts draagt zorg voor de registratie van iedere tandheelkundige verrichting in het voorgeschreven geautomatiseerde tandheelkundig informatiesysteem, na voltooiing van de desbetreffende verrichting. Deze verrichtingen worden gewaardeerd op een aantal punten conform de uniforme particuliere tarieven als vastgesteld door de Nederlandse Zorgautoriteit. Het totaal van de aldus geregistreerde punten exclusief tandtechniek gedurende een kalenderjaar vormt de gerealiseerde omzet in dat jaar.
 
@@ -387,9 +258,9 @@ Vervallen
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **waarneming:** het krachtens een daartoe strekkende opdracht van de commandant, tijdelijk verrichten van een samenstel van werkzaamheden dat een andere functie vormt dan die van de ambtenaar zelf;
+- a. *waarneming:* het krachtens een daartoe strekkende opdracht van de commandant, tijdelijk verrichten van een samenstel van werkzaamheden dat een andere functie vormt dan die van de ambtenaar zelf;
 
-- b. **volledige waarneming:** een zodanige waarneming dat in de plaats van de eigen functie het volledige samenstel van werkzaamheden van de waargenomen functie, met de daarmee gepaard gaande verantwoordelijkheden, wordt uitgeoefend.
+- b. *volledige waarneming:* een zodanige waarneming dat in de plaats van de eigen functie het volledige samenstel van werkzaamheden van de waargenomen functie, met de daarmee gepaard gaande verantwoordelijkheden, wordt uitgeoefend.
 
 2. De commandant kent, voor de duur van de waarneming, een waarnemingstoelage toe aan de ambtenaar, die bij wijze van volledige waarneming tijdelijk een functie vervult, die bij toepassing van [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2025-01-17&g=2025-01-17), zou leiden tot een hogere salarisschaal.
 
@@ -503,7 +374,21 @@ met dien verstande dat genoemde percentages worden berekend over ten hoogste het
 
 11. De aflopende toelage wordt, wanneer de ambtenaar de leeftijd van 50 jaar bereikt en hij, onmiddellijk voor de aanvang van de aflopende toelage, gedurende ten minste tien jaren zonder onderbreking van langer dan twee maanden een toelage brandweerdiensten defensie heeft genoten, omgezet in een vaste toelage ter hoogte van het bedrag van de aflopende toelage op dat moment.
 
-12. Voor de toepassing van het tiende en elfde lid wordt een toelage op grond van de Regeling vergoeding Korps Marinebrandweer van 29 november 1985 of van de Regeling vergoeding Korps Marinebrandweer van 12 december 1983 beschouwd als een toelage als bedoeld in het eerste lid.
+12. Voor de toepassing van het tiende en elfde lid wordt een toelage op grond van de Regeling vergoeding Korps Marinebrandweer van 29 november 1985 of van de Regeling vergoeding Korps Marinebrandweer van 12 december 1983 beschouwd als een toelage als bedoeld in het eerste lid.
+
+##### Artikel 24a. Uitkering premievrijval aftoppingsgrens pensioengevend inkomen
+
+1. In dit artikel wordt verstaan onder:
+
+- – *pensioengevend inkomen:* de som van de inkomensbestanddelen, die op grond van de pensioenregeling voor burgerambtenaren, die geldt tot 1 januari 2019, pensioengevend zijn voor de opbouw van aanspraken op ouderdomspensioen en het daarvan afgeleide partnerpensioen en wezenpensioen;
+
+- – *aftoppingsgrens:* de aftoppingsgrens van het pensioengevend inkomen op basis van [artikel 18ga van de Wet op de Loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga).
+
+2. De ambtenaar heeft aanspraak op een uitkering indien zijn pensioengevend inkomen wordt afgetopt op basis van [artikel 18ga van de Wet op de Loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga).
+
+3. De uitkering, bedoeld in het tweede lid, wordt berekend door het werkgeversdeel van de premie voor ouderdoms- en nabestaandenpensioen te vermenigvuldigen met het pensioengevend inkomen boven de aftoppingsgrens.
+
+4. Dit artikel is niet van toepassing op de ambtenaar wiens salaris de ontwikkeling volgt van de sector Rijk.
 
 ### Hoofdstuk 4. Bezoldiging tijdens ziekte
 
@@ -511,29 +396,33 @@ met dien verstande dat genoemde percentages worden berekend over ten hoogste het
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **WAO:** [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+- a. *WAO:*
+ [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- b. **ZW:** [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+- b. *ZW:*
+ [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- c. **WW:** [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+- c. *WW:*
+ [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- d. **Werknemersverzekering:** [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), dan wel [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+- d. *Werknemersverzekering:*
+ [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), dan wel [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- e. **arbeidsongeschiktheid:** arbeidsongeschiktheid in de zin van [artikel 18, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18);
+- e. *arbeidsongeschiktheid:* arbeidsongeschiktheid in de zin van [artikel 18, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18);
 
-- f. **bedrijfsgeneeskundige dienst:** een door of vanwege Onze Minister aangewezen uitvoeringsorgaan bedrijfsgezondheidszorg;
+- f. *bedrijfsgeneeskundige dienst:* een door of vanwege Onze Minister aangewezen uitvoeringsorgaan bedrijfsgezondheidszorg;
 
-- g. **Stichting Pensioenfonds ABP:** de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=6);
+- g. *Stichting Pensioenfonds ABP:* de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=6);
 
-- h. **pensioenreglement:** het pensioenreglement Stichting Pensioenfonds ABP;
+- h. *pensioenreglement:* het pensioenreglement Stichting Pensioenfonds ABP;
 
-- i. **herplaatsingstoelage:** een herplaatsingstoelage als bedoeld in paragraaf 9 van het pensioenreglement;
+- i. *herplaatsingstoelage:* een herplaatsingstoelage als bedoeld in paragraaf 9 van het pensioenreglement;
 
-- j. **passende arbeid:** arbeid als bedoeld in [artikel 30 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30);
+- j. *passende arbeid:* arbeid als bedoeld in [artikel 30 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30);
 
-- k. **gangbare arbeid:** arbeid als bedoeld in [artikel 18, vijfde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18);
+- k. *gangbare arbeid:* arbeid als bedoeld in [artikel 18, vijfde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18);
 
-- l. **loonvormende arbeid:** arbeid gericht op het leveren van productie.
+- l. *loonvormende arbeid:* arbeid gericht op het leveren van productie.
 
 ##### Artikel 26. Bezoldiging tijdens ziekte
 
@@ -553,7 +442,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 6. In afwijking van het vijfde lid wordt onderwijs of scholing beschouwd als loonvormende arbeid indien dit onderwijs of deze scholing is gekoppeld aan de functievervulling van een voor de ambtenaar beschikbare functie.
 
-##### Artikel 27. Samenloop van bezoldiging en uitkering op grond van een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of bovenwettelijke regeling
+##### Artikel 27. Samenloop van bezoldiging en uitkering op grond van een werknemersverzekering, de Wet arbeid en zorg of bovenwettelijke regeling
 
 1. Indien de ambtenaar, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2025-01-17&g=2025-01-17), ter zake van de betrekking waaruit de aanspraak op bezoldiging voortvloeit, recht heeft op een of meerdere uitkeringen op grond van een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een bovenwettelijke WW-uitkering, wordt het bedrag van die uitkering of uitkeringen in mindering gebracht op het bedrag waarop hij ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2025-01-17&g=2025-01-17) recht heeft.
 
@@ -713,9 +602,9 @@ activiteiten, geen deel uitmakend van die welke in het kader van de functievervu
 
 4. Indien aan de voorwaarden voor het toekennen van een uitkering, als bedoeld in het derde lid, is voldaan, maar geen uitkering is toegekend omdat de ambtenaar geen aanvraag heeft ingediend, past de commandant het derde lid op overeenkomstige wijze toe.
 
-##### Artikel 40. Samenloop bezoldiging en financiële tegemoetkoming [Wet arbeid en zorg](onbekend)
+##### Artikel 40. Samenloop bezoldiging en financiële tegemoetkoming Wet arbeid en zorg
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41. Samenloop met militaire inkomsten
 
@@ -739,7 +628,7 @@ Vervallen
 
 1. Het hoofd defensieonderdeel kent aan de ambtenaar per maand een vakantie-uitkering toe ten bedrage van 8% van de bezoldiging van de ambtenaar.
 
-2. Voor de ambtenaar die 22 jaar of ouder is bedraagt de vakantie-uitkering bij een voltijdaanstelling per maand tenminste € 189,83. Bij een deeltijdaanstelling wordt dit bedrag naar evenredigheid verminderd.
+2. Voor de ambtenaar die 22 jaar of ouder is bedraagt de vakantie-uitkering bij een voltijdaanstelling per maand tenminste € 189,83. Bij een deeltijdaanstelling wordt dit bedrag naar evenredigheid verminderd.
 
 3. Voor de ambtenaar die jonger is dan 22 jaar bedraagt de vakantie-uitkering ten minste het in het tweede lid berekende bedrag verminderd met 10% voor elk leeftijdsjaar of gedeelte van een leeftijdsjaar dat hij jonger is dan 22 jaar. De vermindering bedraagt maximaal 30%.
 
@@ -760,6 +649,10 @@ Vervallen
 3. Voor de toepassing van het eerste lid zijn het vierde tot en met het zesde lid van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=43&z=2025-01-17&g=2025-01-17) van overeenkomstige toepassing.
 
 4. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=1&artikel=6&z=2025-01-17&g=2025-01-17) wordt de eindejaarsuitkering over de periode december van het voorgaande jaar tot en met november van het lopende jaar uitbetaald in de maand november. Bij ontslag van de ambtenaar vindt de uitbetaling van de tot de datum van het ontslag opgebouwde uitkering zo snel mogelijk na het ontslag plaats.
+
+##### Artikel 44a. Inkomenstoeslag
+
+De burgerambtenaar heeft aanspraak op een inkomenstoeslag ter hoogte van € 183,07 per maand. Deze inkomenstoeslag wordt voor de ambtenaar met een deeltijdaanstelling vastgesteld op een evenredig deel van de uitkering behorend bij een voltijdaanstelling.
 
 ##### Artikel 45. Beloningen
 
@@ -803,7 +696,7 @@ Vervallen
 
 ##### Artikel 48. Samenloop beloningen en bindingspremie
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49. Vergoeding voor overwerk
 
@@ -831,14 +724,31 @@ Vervallen
 
 8. Indien de werkperiode één dag omvat, bedraagt het in het vijfde lid, onderdeel b, bedoelde percentage:
 
-- a. behoudens het gestelde onder b en c, het getal, vermeld in de onderstaande tabel:
-
-| Overwerk verricht | op zondag | op maandag | op dinsdag, woensdag, donderdag of vrijdag | op zaterdag |
-| --- | --- | --- | --- | --- |
-| tussen 0 en 6 uur | 100 | 100 | 50 | 50 |
-| tussen 6 en 18 uur | 100 | 25 | 25 | 50 |
-| tussen 18 en 20 uur | 100 | 25 | 25 | 75 |
-| tussen 20 en 24 uur | 100 | 50 | 50 | 75 |
+- a. behoudens het gestelde onder b en c, het getal, vermeld in de onderstaande tabel: Overwerk verricht
+ op zondag
+ op maandag
+ op dinsdag, woensdag, donderdag of vrijdag
+ op zaterdag
+ tussen 0 en 6 uur
+ 100
+ 100
+ 50
+ 50
+ tussen 6 en 18 uur
+ 100
+ 25
+ 25
+ 50
+ tussen 18 en 20 uur
+ 100
+ 25
+ 25
+ 75
+ tussen 20 en 24 uur
+ 100
+ 50
+ 50
+ 75
 
 - b. 50, indien gedurende langer dan twee uur overwerk is verricht, voor zover het overwerk betreft, dat na de eerste twee uur is verricht op maandag, dinsdag, woensdag, donderdag of vrijdag tussen 06.00 uur en 20.00 uur, behoudens het gestelde onder c;
 
@@ -854,15 +764,19 @@ Vervallen
 
 11. Aan ambtenaren voor wie verschillende salarisschalen gelden, die ingevolge een opdracht als bedoeld in het eerste lid gelijke werkzaamheden verrichten kan, in afwijking van het in dit artikel bepaalde, naar billijkheid een voor alle betrokken ambtenaren gelijke vergoeding worden toegekend.
 
+##### Artikel 49a. Tijdelijke maatregel bij de vergoeding voor overwerk
+
+*Vervallen*
+
 ##### Artikel 50. Oefentoelage
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **etmaal:** een tijdsbestek van 24 uur aaneengesloten;
+- a. *etmaal:* een tijdsbestek van 24 uur aaneengesloten;
 
-- b. **oefening:** een oefening, als bedoeld in [artikel 30a, onderdeel k, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30a);
+- b. *oefening:* een oefening, als bedoeld in [artikel 30a, onderdeel k, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30a);
 
-- c. **ZZF-dag:** een zaterdag, zondag of feest- en gedenkdag, als bedoeld in [artikel 31g, eerste of tweede lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=31g).
+- c. *ZZF-dag:* een zaterdag, zondag of feest- en gedenkdag, als bedoeld in [artikel 31g, eerste of tweede lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=31g).
 
 2. De commandant kent, in afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=23&z=2025-01-17&g=2025-01-17) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2025-01-17&g=2025-01-17), aan de ambtenaar met een salarisschaal tot en met 10 een oefentoelage toe voor een oefening, die een etmaal of langer duurt en waarbij sprake is van consignatie in de zin van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=23&z=2025-01-17&g=2025-01-17) of overwerk in de zin van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2025-01-17&g=2025-01-17).
 
@@ -884,13 +798,13 @@ Vervallen
 
 ##### Artikel 51. Vervangingstoelage
 
-1. Voor de ambtenaar die op 30 juni 2003 aanspraak heeft op een toelage op grond van de [Toelageregeling afschaffing tariefbeloning Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0003574), wordt die aanspraak met ingang van 1 juli 2003 omgezet in een vervangingstoelage.
+1. Voor de ambtenaar die op 30 juni 2003 aanspraak heeft op een toelage op grond van de [Toelageregeling afschaffing tariefbeloning Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0003574), wordt die aanspraak met ingang van 1 juli 2003 omgezet in een vervangingstoelage.
 
-2. Het bedrag van de vervangingstoelage is op 1 juli 2003 gelijk aan het bedrag van de toelage waarop de ambtenaar op 30 juni 2003 aanspraak heeft op grond van de [Toelageregeling afschaffing tariefbeloning Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0003574).
+2. Het bedrag van de vervangingstoelage is op 1 juli 2003 gelijk aan het bedrag van de toelage waarop de ambtenaar op 30 juni 2003 aanspraak heeft op grond van de [Toelageregeling afschaffing tariefbeloning Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0003574).
 
-3. Voor zover de toelage op grond van de [Toelageregeling afschaffing tariefbeloning Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0003574) op 30 juni 2003 deel uitmaakt van de bezoldiging onderscheidenlijk de grondslag voor de vakantie-uitkering onderscheidenlijk het pensioengevend inkomen, maakt de vervangingstoelage vanaf 1 juli 2003 op overeenkomstige wijze deel uit van de bezoldiging onderscheidenlijk de grondslag voor de vakantie-uitkering onderscheidenlijk het pensioengevend inkomen.
+3. Voor zover de toelage op grond van de [Toelageregeling afschaffing tariefbeloning Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0003574) op 30 juni 2003 deel uitmaakt van de bezoldiging onderscheidenlijk de grondslag voor de vakantie-uitkering onderscheidenlijk het pensioengevend inkomen, maakt de vervangingstoelage vanaf 1 juli 2003 op overeenkomstige wijze deel uit van de bezoldiging onderscheidenlijk de grondslag voor de vakantie-uitkering onderscheidenlijk het pensioengevend inkomen.
 
-4. Voor zover de toelage op grond van de [Toelageregeling afschaffing tariefbeloning Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0003574) vóór 30 juni 2003 wordt aangepast met het percentage van een algemene salarismaatregel, wordt de vervangingstoelage vanaf 1 juli 2003 op overeenkomstige wijze aangepast met het percentage van een algemene salarismaatregel.
+4. Voor zover de toelage op grond van de [Toelageregeling afschaffing tariefbeloning Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0003574) vóór 30 juni 2003 wordt aangepast met het percentage van een algemene salarismaatregel, wordt de vervangingstoelage vanaf 1 juli 2003 op overeenkomstige wijze aangepast met het percentage van een algemene salarismaatregel.
 
 ##### Artikel 52. Overige inkomsten
 
@@ -900,9 +814,9 @@ Vervallen
 
 - b. een toelage in verband met het vervullen van een door Onze Minister aangewezen functie of het bezit van een door Onze Minister aangewezen bekwaamheid;
 
-- c. een diensttijdgratificatie bij een – naar het oordeel van Onze Minister – eervolle diensttijd van twaalfeneenhalf, vijfentwintig, veertig of vijftig jaren;
+- c. een diensttijdgratificatie bij een – naar het oordeel van Onze Minister – eervolle diensttijd van twaalfeneenhalf, vijfentwintig, veertig of vijftig jaren;
 
-- d. een vergoeding of een tegemoetkoming in de kosten of – in de plaats daarvan – voorzieningen in natura ter zake van het verblijf van de ambtenaar buiten Nederland;
+- d. een vergoeding of een tegemoetkoming in de kosten of – in de plaats daarvan – voorzieningen in natura ter zake van het verblijf van de ambtenaar buiten Nederland;
 
 - e. een vergoeding of een tegemoetkoming in de kosten van recepties en representatie;
 
@@ -920,27 +834,27 @@ Vervallen
 
 ##### Artikel 53. Begripsbepalingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54. Aanspraak op tegemoetkoming ziektekostenverzekering
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55. Aanspraken bij deeltijdaanstelling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56. Samenloop met aanspraken elders
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57. Bedrag van de tegemoetkoming ziektekostenverzekering
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58. Uitbetaling van de tegemoetkoming ziektekostenverzekering
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 8. Verschuldigde bedragen
 
@@ -948,7 +862,7 @@ Vervallen
 
 In dit hoofdstuk wordt verstaan onder:
 
-**berekeningsbasis**: de bezoldiging met uitzondering van een toelage onregelmatige dienst, een aflopende toelage onregelmatige dienst en een consignatietoelage, met dien verstande dat de bezoldiging bij deeltijdaanstelling herleid wordt tot de bezoldiging, die geldt bij een voltijdaanstelling.
+*berekeningsbasis*: de bezoldiging met uitzondering van een toelage onregelmatige dienst, een aflopende toelage onregelmatige dienst en een consignatietoelage, met dien verstande dat de bezoldiging bij deeltijdaanstelling herleid wordt tot de bezoldiging, die geldt bij een voltijdaanstelling.
 
 ##### Artikel 60. Verschuldigde bedragen wegens kost en inwoning
 
@@ -962,9 +876,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 - a. voor het gebruik van de woning:
 
-- 1°. die in Nederland is gelegen: 12%;
+   - 1°. die in Nederland is gelegen: 12%;
 
-- 2°. die buiten Nederland is gelegen: 17%;
+   - 2°. die buiten Nederland is gelegen: 17%;
 
 - b. voor verwarming van de woning: 2,4%;
 
@@ -980,473 +894,82 @@ zulks met inachtneming van door Onze Minister aan te geven maxima voor de verstr
 
 3. Voor het gebruik van de verstrekkingen genoemd in het eerste lid, onderdeel b tot en met e, is geen bedrag verschuldigd in het geval, bedoeld in het tweede lid, en in de gevallen waarin tevens kost en inwoning wordt verstrekt.
 
-### Hoofdstuk 8. Verschuldigde bedragen
-
-## Bijlage A. (IBBAD, [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2005-05-11&g=2006-01-01)) van het Inkomstenbesluit burgerlijke ambtenaren defensie
-
-| HOOFDGROEP I (maandbedragen in euro’s) | HOOFDGROEP I (maandbedragen in euro’s) | HOOFDGROEP I (maandbedragen in euro’s) | HOOFDGROEP I (maandbedragen in euro’s) | HOOFDGROEP I (maandbedragen in euro’s) | HOOFDGROEP I (maandbedragen in euro’s) |
-| --- | --- | --- | --- | --- | --- |
-| Niveaugroep Ia | Niveaugroep Ia | Niveaugroep Ib | Niveaugroep Ib | Niveaugroep Ic | Niveaugroep Ic |
-| Schaal 1 | Schaal 1 | Schaal 2 | Schaal 2 | Schaal 3 | Schaal 3 |
-|   | – |   | – | 10 | 1962,76 |
-|   | – |   | – | 9 | 1910,38 |
-|   | – | 8 | 1804,67 | 8 | 1858,47 |
-| 7 | 1635,71 | 7 | 1750,39 | 7 | 1804,67 |
-| 6 | 1587,10 | 6 | 1693,76 | 6 | 1750,39 |
-| 5 | 1545,11 | 5 | 1635,71 | 5 | 1693,76 |
-| 4 | 1512,54 | 4 | 1587,10 | 4 | 1635,71 |
-| 3 | 1480,92 | 3 | 1545,11 | 3 | 1545,11 |
-| 2 | 1454,02 | 2 | 1480,92 | 2 | 1480,92 |
-| 1 | 1394,56 | 1 | 1425,24 | 1 | 1425,24 |
-| 0 | 1241,18 | 0 | 1302,06 | 0 | 1394,56 |
-| J 21 | 1085,92 | J 21 | 1117,06 | J 21 | 1255,10 |
-| J 20 | 961,79 | J 20 | 992,94 | J 20 | 1115,65 |
-| J 19 | 837,68 | J 19 | 868,83 | J 19 | 976,19 |
-
-| HOOFDGROEP II (maandbedragen in euro’s) | HOOFDGROEP II (maandbedragen in euro’s) | HOOFDGROEP II (maandbedragen in euro’s) | HOOFDGROEP II (maandbedragen in euro’s) | HOOFDGROEP II (maandbedragen in euro’s) | HOOFDGROEP II (maandbedragen in euro’s) | HOOFDGROEP II (maandbedragen in euro’s) | HOOFDGROEP II (maandbedragen in euro’s) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Niveaugroep IIa | Niveaugroep IIa | Niveaugroep IIb | Niveaugroep IIb | Niveaugroep IIc | Niveaugroep IIc | Niveaugroep IId | Niveaugroep IId |
-| Schaal 3 | Schaal 3 | Schaal 4 | Schaal 4 | Schaal 5 | Schaal 5 | Schaal 6 | Schaal 6 |
-|   | – | 11 | 2064,22 | 11 | 2168,99 | 11 | 2272,35 |
-| 10 | 1962,76 | 10 | 2013,73 | 10 | 2117,55 | 10 | 2218,55 |
-| 9 | 1910,38 | 9 | 1962,76 | 9 | 2064,22 | 9 | 2168,99 |
-| 8 | 1858,47 | 8 | 1910,38 | 8 | 2013,73 | 8 | 2117,55 |
-| 7 | 1804,67 | 7 | 1858,47 | 7 | 1962,76 | 7 | 2064,22 |
-| 6 | 1750,39 | 6 | 1804,67 | 6 | 1910,38 | 6 | 2013,73 |
-| 5 | 1693,76 | 5 | 1750,39 | 5 | 1858,47 | 5 | 1962,76 |
-| 4 | 1635,71 | 4 | 1693,76 | 4 | 1804,67 | 4 | 1910,38 |
-| 3 | 1545,11 | 3 | 1587,10 | 3 | 1750,39 | 3 | 1858,47 |
-| 2 | 1480,92 | 2 | 1512,54 | 2 | 1635,71 | 2 | 1750,39 |
-| 1 | 1425,24 | 1 | 1454,02 | 1 | 1545,11 | 1 | 1635,71 |
-| 0 | 1394,56 | 0 | 1425,24 | 0 | 1480,92 | 0 | 1587,10 |
-| J 21 | 1255,10 | J 21 | 1282,72 | J 21 | 1332,83 |   | – |
-| J 20 | 1115,65 | J 20 | 1140,19 | J 20 | 1184,74 |   | – |
-| J 19 | 976,19 | J 19 | 997,67 | J 19 | 1036,64 |   | – |
-
-| HOOFDGROEP III (maandbedragen in euro’s) | HOOFDGROEP III (maandbedragen in euro’s) | HOOFDGROEP III (maandbedragen in euro’s) | HOOFDGROEP III (maandbedragen in euro’s) | HOOFDGROEP III (maandbedragen in euro’s) | HOOFDGROEP III (maandbedragen in euro’s) |
-| --- | --- | --- | --- | --- | --- |
-| Niveaugroep IIIa | Niveaugroep IIIa | Niveaugroep IIIb | Niveaugroep IIIb | Niveaugroep IIIc | Niveaugroep IIIc |
-| Schaal 5 | Schaal 5 | Schaal 6 | Schaal 6 | Schaal 7 | Schaal 7 |
-| 11 | 2168,99 | 11 | 2272,35 | 11 | 2506,43 |
-| 10 | 2117,55 | 10 | 2218,55 | 10 | 2446,96 |
-| 9 | 2064,22 | 9 | 2168,99 | 9 | 2383,25 |
-| 8 | 2013,73 | 8 | 2117,55 | 8 | 2326,63 |
-| 7 | 1962,76 | 7 | 2064,22 | 7 | 2272,35 |
-| 6 | 1910,38 | 6 | 2013,73 | 6 | 2218,55 |
-| 5 | 1858,47 | 5 | 1962,76 | 5 | 2168,99 |
-| 4 | 1804,67 | 4 | 1910,38 | 4 | 2117,55 |
-| 3 | 1750,39 | 3 | 1858,47 | 3 | 2064,22 |
-| 2 | 1635,71 | 2 | 1750,39 | 2 | 1962,76 |
-| 1 | 1545,11 | 1 | 1635,71 | 1 | 1858,47 |
-| 0 | 1480,92 | 0 | 1587,10 | 0 | 1804,67 |
-| J 21 | 1332,83 |   | – |   | – |
-| J 20 | 1184,74 |   | – |   | – |
-| J 19 | 1036,64 |   | – |   | – |
-
-| HOOFDGROEP III (maandbedragen in euro’s) | HOOFDGROEP III (maandbedragen in euro’s) | HOOFDGROEP III (maandbedragen in euro’s) | HOOFDGROEP III (maandbedragen in euro’s) |
-| --- | --- | --- | --- |
-| Niveaugroep IIId | Niveaugroep IIId | Niveaugroep IIIe | Niveaugroep IIIe |
-| Schaal 8 | Schaal 8 | Schaal 9 | Schaal 9 |
-| 10 | 2771,65 |   | – |
-| 9 | 2723,04 |   | – |
-| 8 | 2669,71 | 8 | 3136,45 |
-| 7 | 2612,62 | 7 | 3033,58 |
-| 6 | 2556,92 | 6 | 2921,26 |
-| 5 | 2506,43 | 5 | 2821,21 |
-| 4 | 2446,96 | 4 | 2723,04 |
-| 3 | 2383,25 | 3 | 2612,62 |
-| 2 | 2272,35 | 2 | 2506,43 |
-| 1 | 2168,99 | 1 | 2383,25 |
-| 0 | 2064,22 | 0 | 2272,35 |
-
-| HOOFDGROEP IV (maandbedragen in euro’s) | HOOFDGROEP IV (maandbedragen in euro’s) | HOOFDGROEP IV (maandbedragen in euro’s) | HOOFDGROEP IV (maandbedragen in euro’s) | HOOFDGROEP IV (maandbedragen in euro’s) | HOOFDGROEP IV (maandbedragen in euro’s) |
-| --- | --- | --- | --- | --- | --- |
-| Niveaugroep IVa | Niveaugroep IVa | Niveaugroep IVb | Niveaugroep IVb | Niveaugroep IVc | Niveaugroep IVc |
-| Schaal 8 | Schaal 8 | Schaal 9 | Schaal 9 | Schaal 10 | Schaal 10 |
-|   | – |   | – | 12 | 3438,97 |
-|   | – |   | – | 11 | 3331,84 |
-| 10 | 2771,65 |   | – | 10 | 3235,56 |
-| 9 | 2723,04 |   | – | 9 | 3136,45 |
-| 8 | 2669,71 | 8 | 3136,45 | 8 | 3033,58 |
-| 7 | 2612,62 | 7 | 3033,58 | 7 | 2921,26 |
-| 6 | 2556,92 | 6 | 2921,26 | 6 | 2821,21 |
-| 5 | 2506,43 | 5 | 2821,21 | 5 | 2723,04 |
-| 4 | 2446,96 | 4 | 2723,04 | 4 | 2612,62 |
-| 3 | 2383,25 | 3 | 2612,62 | 3 | 2506,43 |
-| 2 | 2272,35 | 2 | 2506,43 | 2 | 2383,25 |
-| 1 | 2168,99 | 1 | 2383,25 | 1 | 2272,35 |
-| 0 | 2064,22 | 0 | 2272,35 | 0 | 2168,99 |
-
-| HOOFDGROEP IV (maandbedragen in euro’s) | HOOFDGROEP IV (maandbedragen in euro’s) | HOOFDGROEP IV (maandbedragen in euro’s) | HOOFDGROEP IV (maandbedragen in euro’s) |
-| --- | --- | --- | --- |
-| Niveaugroep IVd | Niveaugroep IVd | Niveaugroep IVe | Niveaugroep IVe |
-| Schaal 11 | Schaal 11 | Schaal 12 | Schaal 12 |
-| 11 | 4011,42 |   | – |
-| 10 | 3958,08 | 10 | 4562,64 |
-| 9 | 3858,51 | 9 | 4499,39 |
-| 8 | 3755,16 | 8 | 4370,08 |
-| 7 | 3651,80 | 7 | 4266,26 |
-| 6 | 3548,93 | 6 | 4166,69 |
-| 5 | 3438,97 | 5 | 4063,33 |
-| 4 | 3331,84 | 4 | 3958,08 |
-| 3 | 3235,56 | 3 | 3858,51 |
-| 2 | 3136,45 | 2 | 3755,16 |
-| 1 | 3033,58 | 1 | 3651,80 |
-| 0 | 2921,26 | 0 | 3548,93 |
-
-| HOOFDGROEP V (maandbedragen in euro’s) | HOOFDGROEP V (maandbedragen in euro’s) | HOOFDGROEP V (maandbedragen in euro’s) | HOOFDGROEP V (maandbedragen in euro’s) | HOOFDGROEP V (maandbedragen in euro’s) | HOOFDGROEP V (maandbedragen in euro’s) |
-| --- | --- | --- | --- | --- | --- |
-| Niveaugroep Va | Niveaugroep Va | Niveaugroep Vb | Niveaugroep Vb | Niveaugroep Vc | Niveaugroep Vc |
-| Schaal 10 | Schaal 10 | Schaal 11 | Schaal 11 | Schaal 12 | Schaal 12 |
-| 12 | 3438,97 |   | – |   | – |
-| 11 | 3331,84 | 11 | 4011,42 |   | – |
-| 10 | 3235,56 | 10 | 3958,08 | 10 | 4562,64 |
-| 9 | 3136,45 | 9 | 3858,51 | 9 | 4499,39 |
-| 8 | 3033,58 | 8 | 3755,16 | 8 | 4370,08 |
-| 7 | 2921,26 | 7 | 3651,80 | 7 | 4266,26 |
-| 6 | 2821,21 | 6 | 3548,93 | 6 | 4166,69 |
-| 5 | 2723,04 | 5 | 3438,97 | 5 | 4063,33 |
-| 4 | 2612,62 | 4 | 3331,84 | 4 | 3958,08 |
-| 3 | 2506,43 | 3 | 3235,56 | 3 | 3858,51 |
-| 2 | 2383,25 | 2 | 3136,45 | 2 | 3755,16 |
-| 1 | 2272,35 | 1 | 3033,58 | 1 | 3651,80 |
-| 0 | 2168,99 | 0 | 2921,26 | 0 | 3548,93 |
-
-| HOOFDGROEP V (maandbedragen in euro’s) | HOOFDGROEP V (maandbedragen in euro’s) | HOOFDGROEP V (maandbedragen in euro’s) | HOOFDGROEP V (maandbedragen in euro’s) | HOOFDGROEP V (maandbedragen in euro’s) | HOOFDGROEP V (maandbedragen in euro’s) |
-| --- | --- | --- | --- | --- | --- |
-| Niveaugroep Vd | Niveaugroep Vd | Niveaugroep Ve | Niveaugroep Ve | Niveaugroep Vf | Niveaugroep Vf |
-| Schaal 13 | Schaal 13 | Schaal 14 | Schaal 14 | Schaal 15 | Schaal 15 |
-| 10 | 5084,59 | 10 | 5611,27 | 10 | 6165,31 |
-| 9 | 5016,16 | 9 | 5438,07 | 9 | 5974,65 |
-| 8 | 4949,62 | 8 | 5293,65 | 8 | 5790,13 |
-| 7 | 4887,32 | 7 | 5153,02 | 7 | 5611,27 |
-| 6 | 4757,54 | 6 | 5016,16 | 6 | 5438,07 |
-| 5 | 4627,76 | 5 | 4887,32 | 5 | 5293,65 |
-| 4 | 4499,39 | 4 | 4757,54 | 4 | 5153,02 |
-| 3 | 4370,08 | 3 | 4627,76 | 3 | 5016,16 |
-| 2 | 4266,26 | 2 | 4499,39 | 2 | 4887,32 |
-| 1 | 4166,69 | 1 | 4370,08 | 1 | 4757,54 |
-| 0 | 4063,33 | 0 | 4266,26 | 0 | 4627,76 |
-
-| HOOFDGROEP VI (maandbedragen in euro’s) | HOOFDGROEP VI (maandbedragen in euro’s) | HOOFDGROEP VI (maandbedragen in euro’s) | HOOFDGROEP VI (maandbedragen in euro’s) | HOOFDGROEP VI (maandbedragen in euro’s) | HOOFDGROEP VI (maandbedragen in euro’s) | HOOFDGROEP VI (maandbedragen in euro’s) | HOOFDGROEP VI (maandbedragen in euro’s) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Niveaugroep VIa | Niveaugroep VIa | Niveaugroep VIb | Niveaugroep VIb | Niveaugroep VIc | Niveaugroep VIc | Niveaugroep VId | Niveaugroep VId |
-| Schaal 13 | Schaal 13 | Schaal 14 | Schaal 14 | Schaal 15 | Schaal 15 | Schaal 16 | Schaal 16 |
-| 10 | 5084,59 | 10 | 5611,27 | 10 | 6165,31 | 10 | 6681,14 |
-| 9 | 5016,16 | 9 | 5438,07 | 9 | 5974,65 | 9 | 6565,04 |
-| 8 | 4949,62 | 8 | 5293,65 | 8 | 5790,13 | 8 | 6362,11 |
-| 7 | 4887,32 | 7 | 5153,02 | 7 | 5611,27 | 7 | 6165,31 |
-| 6 | 4757,54 | 6 | 5016,16 | 6 | 5438,07 | 6 | 5974,65 |
-| 5 | 4627,76 | 5 | 4887,32 | 5 | 5293,65 | 5 | 5790,13 |
-| 4 | 4499,39 | 4 | 4757,54 | 4 | 5153,02 | 4 | 5611,27 |
-| 3 | 4370,08 | 3 | 4627,76 | 3 | 5016,16 | 3 | 5438,07 |
-| 2 | 4266,26 | 2 | 4499,39 | 2 | 4887,32 | 2 | 5293,65 |
-| 1 | 4166,69 | 1 | 4370,08 | 1 | 4757,54 | 1 | 5153,02 |
-| 0 | 4063,33 | 0 | 4266,26 | 0 | 4627,76 | 0 | 5016,16 |
-
-## Bijlage A. van het Inkomstenbesluit burgerlijke ambtenaren defensie behorend bij [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2007-07-04&g=2007-10-01)
-
-## Bijlage A. (IBBAD, [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2019-07-01&g=2019-07-01))
-
-**Bedragen met ingang van 1 januari 2018**
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 44a. Inkomenstoeslag
-
-De burgerambtenaar heeft aanspraak op een inkomenstoeslag ter hoogte van € 183,07 per maand. Deze inkomenstoeslag wordt voor de ambtenaar met een deeltijdaanstelling vastgesteld op een evenredig deel van de uitkering behorend bij een voltijdaanstelling.
-
-### Hoofdstuk 7. Tegemoetkoming ziektekostenverzekering
-
-### Hoofdstuk 8. Verschuldigde bedragen
-
 ### Hoofdstuk 9. Slotbepalingen
 
-## Bijlage A. (IBBAD, [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2020-09-01&g=2021-01-01))
+##### Artikel 62. Hardheidsclausule
 
-**Bedragen met ingang van 1 januari 2018**
+Indien de billijkheid dat vordert, kan Onze Minister de ambtenaar schadeloos stellen, kosten vergoeden of overigens een geldelijke tegemoetkoming toekennen.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 63. Algemeen militair ambtenarenreglement
 
-##### Artikel 49a. Tijdelijke maatregel bij de vergoeding voor overwerk
+*Wijzigt het Algemeen militair ambtenarenreglement.*
 
-Vervallen
+##### Artikel 64. Besluit aanvulling arbeidsongeschiktheidsuitkering burgerlijke ambtenaren defensie
 
-### Hoofdstuk 7. Tegemoetkoming ziektekostenverzekering
+*Wijzigt het Besluit aanvulling arbeidsongeschiktheidsuitkering burgerlijke ambtenaren defensie.*
 
-### Hoofdstuk 8. Verschuldigde bedragen
+##### Artikel 65. Besluit dienstreizen defensie
 
-### Hoofdstuk 9. Slotbepalingen
+*Wijzigt het Besluit dienstreizen defensie.*
 
-## Bijlage A. (IBBAD, [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2021-02-12&g=2023-01-01))
+##### Artikel 66. Besluit georganiseerd overleg sector Defensie
 
-| **Nr.** | **Salaris** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **Nr.** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Nr.** | **Salaris** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **SCHAAL** | **Nr.** |
-| **Nr.** | **Salaris** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **Nr.** |
-| 1 | **1.583,58** | 0 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 1 |
-| 2 | **1.661,24** | – | 0 |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 2 |
-| 3 | **1.779,27** | 1 | – | 0 |   |   |   |   |   |   |   |   |   |   |   |   |   | 3 |
-| 4 | **1.818,43** | – | 1 | 1 | 0 |   |   |   |   |   |   |   |   |   |   |   |   | 4 |
-| 5 | **1.855,13** | 2 | – | – | 1 |   |   |   |   |   |   |   |   |   |   |   |   | 5 |
-| 6 | **1.889,45** | 3 | 2 | 2 | – | 0 |   |   |   |   |   |   |   |   |   |   |   | 6 |
-| 7 | **1.929,80** | 4 | – | – | 2 | – |   |   |   |   |   |   |   |   |   |   |   | 7 |
-| 8 | **1.971,34** | 5 | 3 | 3 | – | 1 |   |   |   |   |   |   |   |   |   |   |   | 8 |
-| 9 | **2.024,94** | 6 | 4 | – | 3 | – | 0 |   |   |   |   |   |   |   |   |   |   | 9 |
-| 10 | **2.086,95** | 7 | 5 | 4 | – | 2 | 1 |   |   |   |   |   |   |   |   |   |   | 10 |
-| 11 | **2.161,03** |   | 6 | 5 | 4 | – | – |   |   |   |   |   |   |   |   |   |   | 11 |
-| 12 | **2.233,25** |   | 7 | 6 | 5 | 3 | 2 |   |   |   |   |   |   |   |   |   |   | 12 |
-| 13 | **2.302,50** |   | 8 | 7 | 6 | 4 | – | 0 |   |   |   |   |   |   |   |   |   | 13 |
-| 14 | **2.371,17** |   |   | 8 | 7 | 5 | 3 | 1 |   |   |   |   |   |   |   |   |   | 14 |
-| 15 | **2.437,37** |   |   | 9 | 8 | 6 | 4 | – |   |   |   |   |   |   |   |   |   | 15 |
-| 16 | **2.504,22** |   |   | 10 | 9 | 7 | 5 | 2 |   |   |   |   |   |   |   |   |   | 16 |
-| 17 | **2.569,23** |   |   |   | 10 | 8 | 6 | – |   |   |   |   |   |   |   |   |   | 17 |
-| 18 | **2.633,66** |   |   |   | 11 | 9 | 7 | 3 | 0 |   |   |   |   |   |   |   |   | 18 |
-| 19 | **2.701,72** |   |   |   |   | 10 | 8 | 4 | – |   |   |   |   |   |   |   |   | 19 |
-| 20 | **2.767,33** |   |   |   |   | 11 | 9 | 5 | 1 |   | 0 |   |   |   |   |   |   | 20 |
-| 21 | **2.830,58** |   |   |   |   |   | 10 | 6 | – |   | – |   |   |   |   |   |   | 21 |
-| 22 | **2.899,20** |   |   |   |   |   | 11 | 7 | 2 | 0 | 1 |   |   |   |   |   |   | 22 |
-| 23 | **2.968,46** |   |   |   |   |   |   | 8 | – | – | – |   |   |   |   |   |   | 23 |
-| 24 | **3.040,69** |   |   |   |   |   |   | 9 | 3 | 1 | 2 |   |   |   |   |   |   | 24 |
-| 25 | **3.121,97** |   |   |   |   |   |   | 10 | 4 | – | – |   |   |   |   |   |   | 25 |
-| 26 | **3.197,86** |   |   |   |   |   |   | 11 | 5 | 2 | 3 |   |   |   |   |   |   | 26 |
-| 27 | **3.262,27** |   |   |   |   |   |   |   | 6 | – | – |   |   |   |   |   |   | 27 |
-| 28 | **3.333,35** |   |   |   |   |   |   |   | 7 | 3 | 4 |   |   |   |   |   |   | 28 |
-| 29 | **3.406,16** |   |   |   |   |   |   |   | 8 | – | – |   |   |   |   |   |   | 29 |
-| 30 | **3.474,24** |   |   |   |   |   |   |   | 9 | 4 | 5 |   |   |   |   |   |   | 30 |
-| 31 | **3.536,24** |   |   |   |   |   |   |   | 10 | – | – |   |   |   |   |   |   | 31 |
-| 32 | **3.599,49** |   |   |   |   |   |   |   |   | 5 | 6 |   |   |   |   |   |   | 32 |
-| 34 | **3.727,13** |   |   |   |   |   |   |   |   | 6 | 7 | 0 |   |   |   |   |   | 34 |
-| 36 | **3.870,44** |   |   |   |   |   |   |   |   | 7 | 8 | 1 |   |   |   |   |   | 36 |
-| 38 | **4.001,66** |   |   |   |   |   |   |   |   | 8 | 9 | 2 |   |   |   |   |   | 38 |
-| 40 | **4.128,14** |   |   |   |   |   |   |   |   |   | 10 | 3 |   |   |   |   |   | 40 |
-| 42 | **4.250,97** |   |   |   |   |   |   |   |   |   | 11 | 4 |   |   |   |   |   | 42 |
-| 44 | **4.387,65** |   |   |   |   |   |   |   |   |   | 12 | 5 |   |   |   |   |   | 44 |
-| 46 | **4.527,94** |   |   |   |   |   |   |   |   |   |   | 6 | 0 |   |   |   |   | 46 |
-| 48 | **4.659,18** |   |   |   |   |   |   |   |   |   |   | 7 | 1 |   |   |   |   | 48 |
-| 50 | **4.791,06** |   |   |   |   |   |   |   |   |   |   | 8 | 2 |   |   |   |   | 50 |
-| 52 | **4.922,94** |   |   |   |   |   |   |   |   |   |   | 9 | 3 |   |   |   |   | 52 |
-| 54 | **5.049,98** |   |   |   |   |   |   |   |   |   |   | 10 | 4 |   |   |   |   | 54 |
-| 55 | **5.118,03** |   |   |   |   |   |   |   |   |   |   | 11 | – |   |   |   |   | 55 |
-| 56 | **5.184,24** |   |   |   |   |   |   |   |   |   |   |   | 5 | 0 |   |   |   | 56 |
-| 58 | **5.316,12** |   |   |   |   |   |   |   |   |   |   |   | 6 | 1 |   |   |   | 58 |
-| 60 | **5.443,14** |   |   |   |   |   |   |   |   |   |   |   | 7 | 2 | 0 |   |   | 60 |
-| 62 | **5.575,62** |   |   |   |   |   |   |   |   |   |   |   | 8 | 3 | 1 |   |   | 62 |
-| 64 | **5.740,61** |   |   |   |   |   |   |   |   |   |   |   | 9 | 4 | 2 |   |   | 64 |
-| 65 | **5.821,29** |   |   |   |   |   |   |   |   |   |   |   | 10 | – | – |   |   | 65 |
-| 66 | **5.904,38** |   |   |   |   |   |   |   |   |   |   |   |   | 5 | 3 | 0 |   | 66 |
-| 68 | **6.069,99** |   |   |   |   |   |   |   |   |   |   |   |   | 6 | 4 | 1 |   | 68 |
-| 70 | **6.235,56** |   |   |   |   |   |   |   |   |   |   |   |   | 7 | 5 | 2 |   | 70 |
-| 71 | **6.315,03** |   |   |   |   |   |   |   |   |   |   |   |   | 8 | – | – |   | 71 |
-| 72 | **6.399,94** |   |   |   |   |   |   |   |   |   |   |   |   | 9 | 6 | 3 | 0 | 72 |
-| 73 | **6.487,23** |   |   |   |   |   |   |   |   |   |   |   |   | 10 | – | – | – | 73 |
-| 74 | **6.574,55** |   |   |   |   |   |   |   |   |   |   |   |   |   | 7 | 4 | 1 | 74 |
-| 76 | **6.753,96** |   |   |   |   |   |   |   |   |   |   |   |   |   | 8 | 5 | 2 | 76 |
-| 78 | **6.938,23** |   |   |   |   |   |   |   |   |   |   |   |   |   | 9 | 6 | 3 | 78 |
-| 80 | **7.159,21** |   |   |   |   |   |   |   |   |   |   |   |   |   | 10 | 7 | 4 | 80 |
-| 82 | **7.387,41** |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 8 | 5 | 82 |
-| 84 | **7.622,85** |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 9 | 6 | 84 |
-| 86 | **7.866,08** |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 10 | 7 | 86 |
-| 88 | **8.117,17** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 8 | 88 |
-| 90 | **8.376,09** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 9 | 90 |
-| 91 | **8.524,21** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 10 | 91 |
+*Wijzigt het Besluit georganiseerd overleg sector Defensie.*
 
-| **Leeftijd** | **Sch1** | **Sch2** | **Sch3** | **Sch4** | **Sch5** |
-| --- | --- | --- | --- | --- | --- |
-| J19 | **1.068,75** | **1.108,50** | **1.245,49** | **1.272,90** | **1.322,62** |
-| J20 | **1.227,11** | **1.266,86** | **1.423,42** | **1.454,74** | **1.511,56** |
-| J21 | **1.385,49** | **1.425,22** | **1.601,34** | **1.636,59** | **1.700,51** |
+##### Artikel 67. Besluit personenchauffeurs defensie
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+*Wijzigt het Besluit personenchauffeurs defensie.*
 
-##### Artikel 24a. Uitkering premievrijval aftoppingsgrens pensioengevend inkomen
+##### Artikel 68. Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht
 
-1. In dit artikel wordt verstaan onder:
+*Wijzigt de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht.*
 
-- –. **pensioengevend inkomen:** de som van de inkomensbestanddelen, die op grond van de pensioenregeling voor burgerambtenaren, die geldt tot 1 januari 2019, pensioengevend zijn voor de opbouw van aanspraken op ouderdomspensioen en het daarvan afgeleide partnerpensioen en wezenpensioen;
+##### Artikel 69. Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen
 
-- –. **aftoppingsgrens:** de aftoppingsgrens van het pensioengevend inkomen op basis van [artikel 18ga van de Wet op de Loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga).
+*Wijzigt het Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen.*
 
-2. De ambtenaar heeft aanspraak op een uitkering indien zijn pensioengevend inkomen wordt afgetopt op basis van [artikel 18ga van de Wet op de Loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga).
+##### Artikel 70. Burgerlijk ambtenarenreglement defensie
 
-3. De uitkering, bedoeld in het tweede lid, wordt berekend door het werkgeversdeel van de premie voor ouderdoms- en nabestaandenpensioen te vermenigvuldigen met het pensioengevend inkomen boven de aftoppingsgrens.
+*Wijzigt het Burgerlijk ambtenarenreglement defensie.*
 
-4. Dit artikel is niet van toepassing op de ambtenaar wiens salaris de ontwikkeling volgt van de sector Rijk.
+##### Artikel 71. Inkomstenbesluit militairen
 
-### Hoofdstuk 4. Bezoldiging tijdens ziekte
+*Wijzigt het Inkomstenbesluit militairen.*
 
-### Hoofdstuk 5. Bezoldiging tijdens bijzondere situaties
+##### Artikel 72. Verplaatsingskostenbesluit burgerlijke ambtenaren defensie
 
-### Hoofdstuk 6. Overige inkomsten
+*Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie.*
 
-### Hoofdstuk 7. Tegemoetkoming ziektekostenverzekering
+##### Artikel 73. Verplaatsingskostenbesluit militairen
 
-### Hoofdstuk 8. Verschuldigde bedragen
+*Wijzigt het Verplaatsingskostenbesluit militairen.*
 
-### Hoofdstuk 9. Slotbepalingen
+##### Artikel 74. Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie
 
-## Bijlage A. (IBBAD, [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2025-01-17&g=2025-01-17))
+*Wijzigt het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie.*
 
-| Volgnr. | Salaris |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Volgnr. | Salaris | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer | SCHAAL / Salarisnummer |
-| Volgnr. | Salaris |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Volgnr. | Salaris | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 1 | **2.394,31** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| 2 | **2.394,31** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| 3 | **2.394,31** | 0 | 0 | 0 |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| 4 | **2.394,31** | 1 | 1 | 1 | 0 |   |   |   |   |   |   |   |   |   |   |   |   |
-| 5 | **2.394,31** | – | – | – | 1 |   |   |   |   |   |   |   |   |   |   |   |   |
-| 6 | **2.394,31** | 2 | 2 | 2 | – | 0 |   |   |   |   |   |   |   |   |   |   |   |
-| 7 | **2.394,31** | – | – | – | 2 | – |   |   |   |   |   |   |   |   |   |   |   |
-| 8 | **2.394,31** | 3 | 3 | 3 | – | 1 |   |   |   |   |   |   |   |   |   |   |   |
-| 9 | **2.394,31** | – | – | – | 3 | – | 0 |   |   |   |   |   |   |   |   |   |   |
-| 10 | **2.394,31** | 4 | 4 | 4 | – | 2 | 1 |   |   |   |   |   |   |   |   |   |   |
-| 11 | **2.394,31** | 5 | 5 | 5 | 4 | – | – |   |   |   |   |   |   |   |   |   |   |
-| 12 | **2.423,56** | 6 | 6 | 6 | 5 | 3 | 2 |   |   |   |   |   |   |   |   |   |   |
-| 13 | **2.498,71** | 7 | 7 | 7 | 6 | 4 | – | 0 |   |   |   |   |   |   |   |   |   |
-| 14 | **2.573,23** | 8 | 8 | 8 | 7 | 5 | 3 | 1 |   |   |   |   |   |   |   |   |   |
-| 15 | **2.645,08** | 9 | 9 | 9 | 8 | 6 | 4 | – |   |   |   |   |   |   |   |   |   |
-| 16 | **2.717,62** | 10 | 10 | 10 | 9 | 7 | 5 | 2 |   |   |   |   |   |   |   |   |   |
-| 17 | **2.788,17** |   |   | 11 | 10 | 8 | 6 | – |   |   |   |   |   |   |   |   |   |
-| 18 | **2.858,09** |   |   |   | 11 | 9 | 7 | 3 | 0 |   |   |   |   |   |   |   |   |
-| 19 | **2.931,95** |   |   |   | 12 | 10 | 8 | 4 | – |   |   |   |   |   |   |   |   |
-| 20 | **3.003,15** |   |   |   |   | 11 | 9 | 5 | 1 |   | 0 |   |   |   |   |   |   |
-| 21 | **3.071,79** |   |   |   |   | 12 | 10 | 6 | – |   | – |   |   |   |   |   |   |
-| 22 | **3.146,26** |   |   |   |   |   | 11 | 7 | 2 | 0 | 1 |   |   |   |   |   |   |
-| 23 | **3.221,42** |   |   |   |   |   | 12 | 8 | – | – | – |   |   |   |   |   |   |
-| 24 | **3.299,81** |   |   |   |   |   |   | 9 | 3 | 1 | 2 |   |   |   |   |   |   |
-| 25 | **3.388,02** |   |   |   |   |   |   | 10 | 4 | – | – |   |   |   |   |   |   |
-| 26 | **3.470,37** |   |   |   |   |   |   | 11 | 5 | 2 | 3 |   |   |   |   |   |   |
-| 27 | **3.540,27** |   |   |   |   |   |   | 12 | 6 | – | – |   |   |   |   |   |   |
-| 28 | **3.617,41** |   |   |   |   |   |   |   | 7 | 3 | 4 |   |   |   |   |   |   |
-| 29 | **3.696,42** |   |   |   |   |   |   |   | 8 | – | – |   |   |   |   |   |   |
-| 30 | **3.770,30** |   |   |   |   |   |   |   | 9 | 4 | 5 |   |   |   |   |   |   |
-| 31 | **3.837,59** |   |   |   |   |   |   |   | 10 | – | – |   |   |   |   |   |   |
-| 32 | **3.906,23** |   |   |   |   |   |   |   |   | 5 | 6 |   |   |   |   |   |   |
-| 33 | **4.044,74** |   |   |   |   |   |   |   |   | 6 | 7 | 0 |   |   |   |   |   |
-| 34 | **4.200,27** |   |   |   |   |   |   |   |   | 7 | 8 | 1 |   |   |   |   |   |
-| 35 | **4.342,67** |   |   |   |   |   |   |   |   | 8 | 9 | 2 |   |   |   |   |   |
-| 36 | **4.479,93** |   |   |   |   |   |   |   |   |   | 10 | 3 |   |   |   |   |   |
-| 37 | **4.613,23** |   |   |   |   |   |   |   |   |   | 11 | 4 |   |   |   |   |   |
-| 38 | **4.761,55** |   |   |   |   |   |   |   |   |   | 12 | 5 |   |   |   |   |   |
-| 39 | **4.913,80** |   |   |   |   |   |   |   |   |   |   | 6 | 0 |   |   |   |   |
-| 40 | **5.056,22** |   |   |   |   |   |   |   |   |   |   | 7 | 1 |   |   |   |   |
-| 41 | **5.199,34** |   |   |   |   |   |   |   |   |   |   | 8 | 2 |   |   |   |   |
-| 42 | **5.342,46** |   |   |   |   |   |   |   |   |   |   | 9 | 3 |   |   |   |   |
-| 43 | **5.480,32** |   |   |   |   |   |   |   |   |   |   | 10 | 4 |   |   |   |   |
-| 44 | **5.554,17** |   |   |   |   |   |   |   |   |   |   | 11 | – |   |   |   |   |
-| 45 | **5.626,03** |   |   |   |   |   |   |   |   |   |   |   | 5 | 0 |   |   |   |
-| 46 | **5.769,14** |   |   |   |   |   |   |   |   |   |   |   | 6 | 1 |   |   |   |
-| 47 | **5.906,99** |   |   |   |   |   |   |   |   |   |   |   | 7 | 2 | 0 |   |   |
-| 48 | **6.050,76** |   |   |   |   |   |   |   |   |   |   |   | 8 | 3 | 1 |   |   |
-| 49 | **6.229,81** |   |   |   |   |   |   |   |   |   |   |   | 9 | 4 | 2 |   |   |
-| 50 | **6.317,36** |   |   |   |   |   |   |   |   |   |   |   | 10 | – | – |   |   |
-| 51 | **6.407,53** |   |   |   |   |   |   |   |   |   |   |   |   | 5 | 3 | 0 |   |
-| 52 | **6.587,26** |   |   |   |   |   |   |   |   |   |   |   |   | 6 | 4 | 1 |   |
-| 53 | **6.766,94** |   |   |   |   |   |   |   |   |   |   |   |   | 7 | 5 | 2 |   |
-| 54 | **6.853,18** |   |   |   |   |   |   |   |   |   |   |   |   | 8 | – | – |   |
-| 55 | **6.945,32** |   |   |   |   |   |   |   |   |   |   |   |   | 9 | 6 | 3 | 0 |
-| 56 | **7.040,05** |   |   |   |   |   |   |   |   |   |   |   |   | 10 | – | – | – |
-| 57 | **7.134,81** |   |   |   |   |   |   |   |   |   |   |   |   |   | 7 | 4 | 1 |
-| 58 | **7.329,51** |   |   |   |   |   |   |   |   |   |   |   |   |   | 8 | 5 | 2 |
-| 59 | **7.529,49** |   |   |   |   |   |   |   |   |   |   |   |   |   | 9 | 6 | 3 |
-| 60 | **7.769,30** |   |   |   |   |   |   |   |   |   |   |   |   |   | 10 | 7 | 4 |
-| 61 | **8.016,94** |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 8 | 5 |
-| 62 | **8.272,45** |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 9 | 6 |
-| 63 | **8.536,40** |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 10 | 7 |
-| 64 | **8.808,89** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 8 |
-| 65 | **9.089,88** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 9 |
-| 66 | **9.250,62** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 10 |
+##### Artikel 75. Intrekking besluiten
 
-| Leeftijd | Schaal1 | Schaal2 | Schaal3 | Schaal4 | Schaal5 |
-| --- | --- | --- | --- | --- | --- |
-| <= J19 | **1.676,02** | **1.676,02** | **1.676,02** | **1.676,02** | **1.676,02** |
-| J20 | **1.915,45** | **1.915,45** | **1.915,45** | **1.915,45** | **1.915,45** |
-| J21 | **2.154,88** | **2.154,88** | **2.154,88** | **2.154,88** | **2.154,88** |
+De volgende besluiten worden ingetrokken:
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+- a. het [Besluit betaling emolumenten burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006037);
+
+- b. het [Besluit maaltijdvergoeding bij overwerk burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006036);
+
+- c. het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006038);
+
+- d. het [Interimbesluit ziektekosten burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006034);
+
+- e. het [Telefoonkostenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006035).
 
 ##### Artikel 75a
 
 Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op [artikel 12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
 
-## Bijlage B. (IBBAD, [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=13&z=2025-01-17&g=2025-01-17))
+##### Artikel 76. Inwerkingtreding
 
-| Aantal punten per jaar: | Aantal punten per jaar: |   |
-| --- | --- | --- |
-| van | t/m | maandsalaris |
-|   | 11.818,0 | 5.031,58 |
-| 11.818,1 | 13.167,0 | 5.236,17 |
-| 13.167,1 | 14.516,0 | 5.522,42 |
-| 14.516,1 | 15.884,0 | 5.840,83 |
-| 15.884,1 | 17.233,0 | 6.155,50 |
-| 17.233,1 | 18.582,0 | 6.463,83 |
-| 18.582,1 | 19.931,0 | 6.699,67 |
-| 19.931,1 | 21.280,0 | 6.942,42 |
-| 21.280,1 | 22.629,0 | 7.163,33 |
-| 22.629,1 | 23.978,0 | 7.399,58 |
-| 23.978,1 | 25.327,0 | 7.536,08 |
-| 25.327,1 | 26.599,9 | 7.636,17 |
-| 26.600,0 | en meer | 7.681,75 |
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst, met dien verstande dat de [artikelen 63, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=63&z=2025-01-17&g=2025-01-17), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=64&z=2025-01-17&g=2025-01-17), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=65&z=2025-01-17&g=2025-01-17), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=66&z=2025-01-17&g=2025-01-17), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=68&z=2025-01-17&g=2025-01-17), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=69&z=2025-01-17&g=2025-01-17), [70, onderdeel W](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=70&z=2025-01-17&g=2025-01-17), [71, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=71&z=2025-01-17&g=2025-01-17), [72, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=72&z=2025-01-17&g=2025-01-17), en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=73&z=2025-01-17&g=2025-01-17) terugwerken tot en met 1 augustus 2004.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 77. Citeertitel
 
-##### Artikel 11a. Overgangsbepaling salaristabel 1 januari 2023
-
-Het salarisnummer van de ambtenaar op wie salarisschaal 3, 4, 5, 6 of 7 van toepassing is, wordt met ingang van 1 januari 2023 met één salarisnummer verhoogd.
-
-### Hoofdstuk 3. Overige bezoldiging
-
-### Hoofdstuk 4. Bezoldiging tijdens ziekte
-
-### Hoofdstuk 5. Bezoldiging tijdens bijzondere situaties
-
-### Hoofdstuk 6. Overige inkomsten
-
-### Hoofdstuk 7. Tegemoetkoming ziektekostenverzekering
-
-### Hoofdstuk 9. Slotbepalingen
-
-## Bijlage C. (IBBAD, [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2025-01-17&g=2025-01-17))
-
-| aantal punten per jaar | jaarsalaris | aantal punten per jaar | jaarsalaris | aantal punten per jaar | jaarsalaris | aantal punten per jaar | jaarsalaris | aantal punten per jaar | jaarsalaris |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11.818 | 60.379 |   |   |   |   |   |   |   |   |
-| 11.913 | 60.631 | 14.858 | 69.128 | 17.822 | 77.388 | 20.767 | 83.645 | 23.731 | 89.610 |
-| 11.989 | 60.875 | 14.953 | 69.371 | 17.898 | 77.566 | 20.862 | 83.824 | 23.807 | 89.682 |
-| 12.084 | 61.115 | 15.029 | 69.609 | 17.993 | 77.671 | 20.938 | 84.002 | 23.902 | 89.759 |
-| 12.160 | 61.363 | 15.124 | 69.850 | 18.069 | 77.853 | 21.033 | 84.177 | 23.978 | 89.828 |
-| 12.236 | 61.610 | 15.200 | 70.090 | 18.164 | 78.036 | 21.109 | 84.189 | 24.073 | 89.910 |
-| 12.331 | 61.850 | 15.276 | 70.330 | 18.240 | 78.217 | 21.204 | 84.367 | 24.149 | 89.986 |
-| 12.407 | 62.099 | 15.371 | 70.570 | 18.316 | 78.401 | 21.280 | 84.541 | 24.244 | 90.058 |
-| 12.502 | 62.345 | 15.447 | 70.814 | 18.411 | 78.580 | 21.356 | 84.720 | 24.320 | 90.134 |
-| 12.578 | 62.597 | 15.542 | 71.050 | 18.487 | 78.763 | 21.451 | 84.895 | 24.396 | 90.205 |
-| 12.673 | 62.834 | 15.618 | 71.295 | 18.582 | 78.948 | 21.527 | 85.071 | 24.491 | 90.281 |
-| 12.749 | 63.080 | 15.713 | 71.536 | 18.658 | 79.123 | 21.622 | 85.250 | 24.567 | 90.357 |
-| 12.844 | 63.330 | 15.789 | 71.702 | 18.753 | 79.309 | 21.698 | 85.426 | 24.662 | 90.433 |
-| 12.920 | 63.570 | 15.884 | 71.944 | 18.829 | 79.491 | 21.793 | 85.603 | 24.738 | 90.509 |
-| 12.996 | 63.816 | 15.960 | 72.183 | 18.924 | 79.672 | 21.869 | 85.784 | 24.833 | 90.582 |
-| 13.091 | 64.063 | 16.036 | 72.426 | 19.000 | 79.853 | 21.964 | 85.960 | 24.909 | 90.654 |
-| 13.167 | 64.305 | 16.131 | 72.664 | 19.076 | 80.037 | 22.040 | 86.135 | 25.004 | 90.728 |
-| 13.262 | 64.546 | 16.207 | 72.904 | 19.171 | 80.219 | 22.116 | 86.313 | 25.080 | 90.808 |
-| 13.338 | 64.801 | 16.302 | 73.144 | 19.247 | 80.396 | 22.211 | 86.489 | 25.156 | 90.884 |
-| 13.433 | 65.040 | 16.378 | 73.388 | 19.342 | 80.582 | 22.287 | 86.670 | 25.251 | 90.960 |
-| 13.509 | 65.285 | 16.473 | 73.629 | 19.418 | 80.764 | 22.382 | 86.845 | 25.327 | 91.035 |
-| 13.604 | 65.534 | 16.549 | 73.866 | 19.513 | 80.945 | 22.458 | 87.025 | 25.422 | 91.106 |
-| 13.680 | 65.775 | 16.644 | 74.107 | 19.589 | 81.127 | 22.553 | 87.201 | 25.498 | 91.186 |
-| 13.756 | 66.022 | 16.720 | 74.349 | 19.684 | 81.310 | 22.629 | 87.380 | 25.593 | 91.259 |
-| 13.851 | 66.269 | 16.796 | 74.589 | 19.760 | 81.493 | 22.724 | 87.558 | 25.669 | 91.333 |
-| 13.927 | 66.448 | 16.891 | 74.829 | 19.836 | 81.670 | 22.800 | 87.727 | 25.764 | 91.407 |
-| 14.022 | 66.690 | 16.967 | 75.073 | 19.931 | 81.857 | 22.876 | 87.906 | 25.840 | 91.480 |
-| 14.098 | 66.940 | 17.062 | 75.312 | 20.007 | 82.034 | 22.971 | 88.086 | 25.916 | 91.558 |
-| 14.193 | 67.184 | 17.138 | 75.552 | 20.102 | 82.216 | 23.047 | 88.262 | 26.011 | 91.634 |
-| 14.269 | 67.423 | 17.233 | 75.791 | 20.178 | 82.399 | 23.142 | 88.436 | 26.106 | 91.711 |
-| 14.364 | 67.671 | 17.309 | 76.032 | 20.273 | 82.582 | 23.218 | 88.615 | 26.182 | 91.782 |
-| 14.440 | 67.916 | 17.404 | 76.274 | 20.349 | 82.761 | 23.313 | 88.795 | 26.258 | 91.862 |
-| 14.516 | 68.158 | 17.480 | 76.515 | 20.444 | 82.945 | 23.389 | 88.972 | 26.353 | 91.932 |
-| 14.611 | 68.408 | 17.556 | 76.753 | 20.520 | 83.123 | 23.484 | 89.149 | 26.429 | 92.007 |
-| 14.687 | 68.654 | 17.651 | 76.994 | 20.596 | 83.309 | 23.560 | 89.323 | 26.524 | 92.086 |
-| 14.782 | 68.889 | 17.727 | 77.200 | 20.691 | 83.468 | 23.636 | 89.530 | 26.600 | 92.181 |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Dit besluit wordt aangehaald als: Inkomstenbesluit burgerlijke ambtenaren defensie.

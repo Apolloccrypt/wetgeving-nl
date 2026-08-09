@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 16 juli 2005, houdende regels op het gebied van pensioen ter uitvoering van een aantal onderwerpen uit de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling (Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004)"
+citeertitel: "Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004"
 identifier: "BWBR0018605"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-12-25"
-last_updated: "2018-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018605"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "7168513"
-version_id: "12084872"
-internal_id: "C16988211"
-label_id: "7156514"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018605/2018-12-25/0"
-intitule_bron: "Stb.2005-391"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-07-16"
-intitule_published: "2005-07-28"
-intitule_in_force: "2005-12-20"
-intitule_status: "goed"
-original_publication: "Stb.2005-391"
-original_signed_date: "2005-07-16"
-original_published_date: "2005-07-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2005-391"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0018605&z=2018-12-25&g=2018-12-25"
-jci_1_0: "1.0:c:BWBR0018605&g=2018-12-25"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004"
-signed_date: "2005-07-16"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2018-12-25
+status: geldig
+toestand: 2018-12-25
+bron: "https://wetten.overheid.nl/BWBR0018605"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 16 juli 2005, houdende regels op het gebied van pensioen ter uitvoering van een aantal onderwerpen uit de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling (Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 30 mei 2005, Directie Arbeidsverhoudingen, nr. AV/PB/05/35584;
-
-Gelet op de [artikelen 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=2), [17, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=17), en [28 van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=28);
-
-De Raad van State gehoord (advies van 27 juni 2005, nr. W12.05.0204/IV);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 7 juli 2005, Directie Arbeidsverhoudingen, nr. AV/PB/05/49354;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
@@ -51,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- –. deelnemingsjaren: perioden als bedoeld in [artikel 10ab van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10ab);
+- – deelnemingsjaren: perioden als bedoeld in [artikel 10ab van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10ab);
 
-- –. pensioenuitvoerder: bestuur van een pensioenfonds, beroepspensioenfonds of verzekeraar;
+- – pensioenuitvoerder: bestuur van een pensioenfonds, beroepspensioenfonds of verzekeraar;
 
-- –. waardeoverdracht: afkoop van pensioen of aanspraken op pensioen, onder aanwending van de afkoopsom voor het verwerven van pensioen of aanspraken op pensioen bij een andere pensioenuitvoerder.
+- – waardeoverdracht: afkoop van pensioen of aanspraken op pensioen, onder aanwending van de afkoopsom voor het verwerven van pensioen of aanspraken op pensioen bij een andere pensioenuitvoerder.
 
 #### § 2. Nadere regels 40-deelnemingsjarenpensioen
 
@@ -127,7 +96,7 @@ Bij toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&p
 
 - c. de aanspraken, bedoeld in [artikel 6, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=6&z=2018-12-25&g=2018-12-25), overeenkomstig [artikel 55 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=55) en [artikel 66 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=66).
 
-2. Vervallen.
+2. *Vervallen.*
 
 3. Wanneer de in de pensioenregeling van de betrokken deelnemer of gewezen deelnemer vastgestelde ingangsdatum van het pensioen lager is dan 65 jaren, vinden de berekeningen, bedoeld in het eerste lid, onderdelen b en c, plaats na eerst de premievrije waarde van de totale evenredige aanspraken in de pensioenregeling te hebben verminderd met de evenredige aanspraken in de pensioenregeling voor zover die na het bereiken van de leeftijd van 65 jaren worden uitgekeerd.
 
@@ -154,5 +123,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

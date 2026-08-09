@@ -1,37 +1,16 @@
 ---
 title: "Circulaire Arbeidsvoorwaardenovereenkomst sector Rijk 2004"
 identifier: "BWBR0018517"
-country: "nl"
-rank: "circulaire"
-publication_date: "2005-09-09"
-last_updated: "2005-09-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018517"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "7144113"
-version_id: "12043272"
-internal_id: "C16150941"
-label_id: "7132134"
-original_entry_into_force: "2005-07-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018517/2005-09-09/0"
-intitule_bron: "Stcrt.2005-128"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-06-30"
-intitule_published: "2005-07-06"
-intitule_in_force: "2005-07-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-128"
-original_signed_date: "2005-06-30"
-original_published_date: "2005-07-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-128-p10-SC70606"
-entry_into_force_date: "2005-07-06"
-jci_1_3: "jci1.3:c:BWBR0018517&z=2005-09-09&g=2005-09-09"
-jci_1_0: "1.0:c:BWBR0018517&g=2005-09-09"
-citeertitel_status: "redactioneel"
-signed_date: "2005-06-30"
-entry_into_force: "2005-07-06"
+publicatiedatum: 2005-07-06
+laatste_update: 2005-09-09
+status: geldig
+toestand: 2005-09-09
+bron: "https://wetten.overheid.nl/BWBR0018517"
+opgehaald: 2026-08-09
 ---
+
 # Circulaire Arbeidsvoorwaardenovereenkomst sector Rijk 2004
 
 ### Inleiding
@@ -44,7 +23,7 @@ Deze circulaire en de Arbeidsvoorwaardenovereenkomst sector Rijk 2004 zijn ook g
 
 ### 1. Inkomensontwikkeling
 
-### 1.1. **Verhoging van de procentuele eindejaarsuitkering over 2004**
+### 1.1. Verhoging van de procentuele eindejaarsuitkering over 2004
 
 De procentuele eindejaarsuitkering van 0,4% wordt structureel verhoogd met 0,4 procentpunt tot 0,8%. Deze verhoging werkt terug tot en met 1 januari 2004.
 
@@ -52,7 +31,7 @@ De uitbetaling van deze verhoging van de eindejaarsuitkering met 0,4% is meegeno
 
 Deze verhoging van de procentuele eindejaarsuitkering werkt in verband met de terugwerkende kracht tot en met 1 januari 2004 ook door in de berekeningsgrondslag van degenen die op of na 2 januari 2004 een uitkering zijn gaan ontvangen op basis van de [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0007758), het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114) en het [Besluit ontslaguitkering substantieel bezwarende functies](https://wetten.overheid.nl/jci1.3:c:BWBR0011088) van ambtenaren. Indien in de periode januari 2004 tot en met december 2004 in de berekeningsbasis van de genoemde uitkeringen als eindejaarsuitkeringen 0,8% is opgenomen, blijft voor betrokkenen ook na 2004 in de berekeningsgrondslag de eindejaarsuitkering op 0,8% gehandhaafd.
 
-### 1.2. **Extra tegemoetkoming in verband met gestegen ziektekostenpremies 2004**
+### 1.2. Extra tegemoetkoming in verband met gestegen ziektekostenpremies 2004
 
 In verband met de gestegen ziektekostenpremies in 2004 wordt de werkgeversbijdrage ziektekosten over het kalenderjaar 2004, voor alle op 31 december 2004 bij de sector Rijk in dienst zijnde ambtenaren die over de maand december 2004 een uitkering op grond van het [Besluit tegemoetkoming ziektekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006855) (Btzr) hebben ontvangen, eenmalig verhoogd met € 75 netto. Geen rekening wordt gehouden met de arbeidsduur. Dus ook een deeltijder ontvangt dit bedrag. Dit betekent ook dat als een ambtenaar meerdere deeltijdbetrekkingen heeft in de sector Rijk ook dan de € 75 slechts één keer wordt uitbetaald. De uitbetaling vindt in het laatste geval plaats bij de werkgever waar de ambtenaar zijn hoofdbetrekking heeft.
 
@@ -60,7 +39,7 @@ De uitbetaling van deze eenmalige verhoging van de Btzr-uitkering met € 75 net
 
 ### 2. Arbeid en gezondheid
 
-### 2.1. **Algemeen**
+### 2.1. Algemeen
 
 Op 5 november 2004 is een sociaal akkoord tussen kabinet en sociale partners gesloten. In lijn met dit sociaal akkoord hebben partijen nadere afspraken voor de sector Rijk gemaakt ten aanzien van de loondoorbetaling bij ziekte en maatregelen die hiermee samenhangen (preventie en reïntegratie).
 
@@ -68,7 +47,7 @@ Partijen zijn van mening dat werkgevers en werknemers er alles aan dienen te doe
 
 Tegen deze achtergrond zijn onderstaande afspraken gemaakt.
 
-### 2.2. **Loondoorbetaling gedurende de eerste twee jaar van ziekte**
+### 2.2. Loondoorbetaling gedurende de eerste twee jaar van ziekte
 
 De loondoorbetaling wordt gewijzigd. In het eerste ziektejaar bedraagt de loondoorbetaling 100% en in het tweede ziektejaar 70% van de bezoldiging. Voor alle duidelijkheid: dit betekent dat in het tweede ziektejaar over gewerkte uren 100% wordt doorbetaald en over niet gewerkte uren 70%. Als berekeningsbasis van de percentages blijft gelden de bezoldiging van de ambtenaar.
 
@@ -76,19 +55,41 @@ De pensioenopbouw vindt plaats over de ongekorte bezoldiging. Het nieuwe aanspra
 
 De administratieve uitvoering van deze afspraak geschiedt als volgt:
 
+- 1. Na 52 weken ziekte wordt de bezoldiging standaard voor slechts 70% uitbetaald;
+
+- 2. Om over het aantal uren dat de ambtenaar volgens de bedrijfsarts arbeid kan verrichten te komen tot een doorbetaling van 100% van de bezoldiging wordt systeemtechnisch een permanente toelage gehanteerd. De omvang daarvan wordt bepaald op basis van de formule: y/individuele arbeidsduur per week × 30% × de voor de ambtenaar geldende bezoldiging. Hierbij staat ‘y’ voor het aantal uren per week dat de ambtenaar volgens de bedrijfsarts arbeid kan verrichten;
+
+- 3. Door te werken met een permanente toelage wordt bereikt dat het bedrag normaal meeloopt in de bruto-netto berekeningen;
+
+- 4. Een uitzondering geldt hierbij voor het op de ambtenaar te verhalen gedeelte van de pensioenpremie. Om te voorkomen dat in het volgend kalenderjaar een onjuiste (= te hoge) pensioengrondslag ontstaat, wordt over deze permanente toelage geen premieverhaal toegepast;
+
+- 5. Voor de berekening van het procentueel deel van de eindejaarsuitkering wordt deze permanente toelage aangemerkt als bezoldiging.
+
 In voorkomende gevallen dient u de door u zelf berekende toelage als bruto belastbare toelage permanent op te geven. Een volgende mutatie is dan slechts nodig indien dat aantal arbeidsuren wijziging ondergaat. In de berekeningstabellen zal rekening worden gehouden met de berekening van de korting eindejaarsuitkering.
 
 Ook is nog in onderzoek of het haalbaar is om de korting automatisch te laten berekenen. Zodra daar uitsluitsel over is wordt u daarover bericht.
 
-Ook is nog in onderzoek of het haalbaar is om de korting automatisch te laten berekenen. Zodra daar uitsluitsel over is wordt u daarover bericht.
+### 2.3. Specifieke rechten en plichten gedurende de eerste twee jaar van ziekte
 
-### 2.3. **Specifieke rechten en plichten gedurende de eerste twee jaar van ziekte**
+In aanvulling op de reeds bestaande rechten en plichten van werkgevers en werknemers op het gebied van arbeid en gezondheid, zoals vastgelegd in met name het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) en de [Wet verbetering poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063), zijn specifieke nadere afspraken gemaakt over reïntegratie gedurende de eerste twee jaar van ziekte.
 
 In het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) was al een aantal instrumenten neergelegd om te komen tot de reïntegratie van de zieke ambtenaar waardoor instroom in de WAO kan worden voorkomen.
 
 Het betreft:
 
+- a. de mogelijkheid de zieke ambtenaar te plaatsen in een andere functie (waarbij het in aansluiting op de vigerende sociale verzekeringswetgeving moet gaan om ‘passende arbeid’);
+
+- b. het gaan gelden van een lagere salarisschaal indien voor de functie, waarin de zieke ambtenaar wordt geplaatst, een salarisschaal geldt met een lager maximumsalaris;
+
+- c. het toekennen van een salarissuppletie in die gevallen dat een lagere salarisschaal wordt toegekend.
+
 Om te bereiken dat deze mogelijkheden optimaal worden benut zijn de volgende aanvullende afspraken gemaakt:
+
+- a. het bevoegd gezag is verplicht de zieke ambtenaar te plaatsen in een andere bestaande of te creëren functie indien deze naar het oordeel van de bedrijfsarts weer in staat is om geheel of gedeeltelijk te werken maar niet kan terugkeren in de eigen functie;
+
+- b. ter nadere invulling van het begrip ‘passende arbeid’ geldt dat de voor de andere functie geldende salarisschaal in beginsel niet meer dan twee schalen lager is dan de salarisschaal die geldt voor de ambtenaar; bij wijziging van de mate van arbeidsongeschiktheid van de ambtenaar wordt daarbij passende arbeid aangeboden;
+
+- c. bedoelde ambtenaar heeft, net als de herplaatsingskandidaat bij reorganisaties, een voorrangspositie bij het vervullen van vacatures bij de sector Rijk.
 
 Uitgangspunt is dat het moet gaan om een duurzame reïntegratie in een andere functie, waarbij in eerste instantie gezocht dient te worden naar werkzaamheden binnen de sector Rijk. Indien daarbij door de ambtenaar en het bevoegd gezag gezamenlijk is vastgesteld dat daartoe geen mogelijkheden bestaan, neemt het bevoegd gezag het initiatief om, samen met de ambtenaar, te zoeken naar duurzame reïntegratiemogelijkheden buiten de sector Rijk. Hierbij richten de inspanningen zich in ieder geval op reïntegratie binnen één van de andere overheidssectoren. Het spreekt vanzelf dat genoemde inspanningen zowel voor het bevoegd gezag als de ambtenaar niet vrijblijvend zijn.
 
@@ -108,9 +109,9 @@ Indien de ambtenaar bereid is de hier bedoelde arbeid te verrichten, krijgt hij 
 
 Indien de ambtenaar na twee jaar nog niet is geplaatst in een andere functie wordt door het bevoegd gezag beoordeeld of verdere reïntegratie-activiteiten zullen leiden tot plaatsing van de ambtenaar in een andere functie. Hierbij wordt de opvatting van de ambtenaar betrokken. Als de ambtenaar beschikt over voldoende restcapaciteit en zich actief opstelt in het reïntegratietraject, zal van de mogelijkheid hem ontslag te verlenen op grond van ongeschiktheid wegens ziekte worden afgezien. In dat geval wordt de uitvoering van reïntegratie-activiteiten voortgezet.
 
-Indien de ambtenaar na twee jaar nog niet is geplaatst in een andere functie wordt door het bevoegd gezag beoordeeld of verdere reïntegratie-activiteiten zullen leiden tot plaatsing van de ambtenaar in een andere functie. Hierbij wordt de opvatting van de ambtenaar betrokken. Als de ambtenaar beschikt over voldoende restcapaciteit en zich actief opstelt in het reïntegratietraject, zal van de mogelijkheid hem ontslag te verlenen op grond van ongeschiktheid wegens ziekte worden afgezien. In dat geval wordt de uitvoering van reïntegratie-activiteiten voortgezet.
+### 2.4. Beroepsrisico’s
 
-### 2.4. **Beroepsrisico’s**
+Met betrekking tot ambtenaren die arbeidsongeschikt zijn geraakt door een dienstongeval of een beroepsziekte hebben partijen het volgende afgesproken.
 
 In materiële zin wijzigt de rechtspositie van de bedoelde ambtenaren niet. De werkgever erkent de aansprakelijkheid voor beroepsrisico’s (i.e. dienstongevallen en beroepsziekten). Op grond van die aansprakelijkheid is de werkgever bereid in het geval van dienstongevallen of beroepsziekten een schadevergoeding toe te kennen die neerkomt op een volledige compensatie van de loonschade.
 
@@ -120,30 +121,25 @@ De criteria om te bepalen óf er sprake is van een dienstongeval of beroepsziekt
 
 De ambtenaar die als gevolg van een dienstongeval of beroepsziekte schade lijdt, zal een vergoeding van de volledige schade krijgen indien:
 
-De ambtenaar die als gevolg van een dienstongeval of beroepsziekte schade lijdt, zal een vergoeding van de volledige schade krijgen indien:
+- – hij noodgedwongen aan beroepsrisico’s is blootgesteld, die voortvloeien uit gevaarzettende situaties die rechtstreeks verband houden met de uitvoering van zijn taak; en
 
-### 2.5. **Nieuw stelsel arbeidsongeschiktheid**
+- – hij zich vanwege zijn specifieke beroep of functie niet aan zijn taak kan onttrekken; en
 
-Voor het overige zijn voor de periode vanaf twee jaar na ziekmelding nog geen afspraken gemaakt. Vooruitlopen op het nieuwe stelsel van arbeidsongeschiktheid is nu niet mogelijk aangezien het wettelijk regime niet precies bekend is. Aangezien de nog in te voeren Wet Werk en Inkomen naar Arbeidsvermogen (WIA) geen inkomensgarantie biedt voor de werknemers die minder dan 35% arbeidsongeschikt zijn, maar dit overlaat aan de sociale partners in de sectoren, spreken partijen wel af dat ook voor de groep ambtenaren met een arbeidsongeschiktheidspercentage van minder dan 35% zal gelden dat werken wordt beloond en dat meer werken meer wordt beloond.
+- – waarbij een rechtstreeks, objectief causaal verband vast te stellen is tussen oorzaak en gevolg.
 
-### 3. Slotopmerkingen
-
-Medewerkers van de afdelingen Personeelszaken van geadresseerden kunnen over de desbetreffende onderwerpen inlichtingen verkrijgen bij onderstaande personen:
-
-Medewerkers van de afdelingen Personeelszaken van geadresseerden kunnen over de desbetreffende onderwerpen inlichtingen verkrijgen bij onderstaande personen:
-
-### 2.3. **Specifieke rechten en plichten gedurende de eerste twee jaar van ziekte**
-
-In aanvulling op de reeds bestaande rechten en plichten van werkgevers en werknemers op het gebied van arbeid en gezondheid, zoals vastgelegd in met name het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) en de [Wet verbetering poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063), zijn specifieke nadere afspraken gemaakt over reïntegratie gedurende de eerste twee jaar van ziekte.
-
-### 2.4. **Beroepsrisico’s**
-
-Met betrekking tot ambtenaren die arbeidsongeschikt zijn geraakt door een dienstongeval of een beroepsziekte hebben partijen het volgende afgesproken.
-
-### 2.5. **Nieuw stelsel arbeidsongeschiktheid**
+### 2.5. Nieuw stelsel arbeidsongeschiktheid
 
 Voor het overige zijn voor de periode vanaf twee jaar na ziekmelding nog geen afspraken gemaakt. Vooruitlopen op het nieuwe stelsel van arbeidsongeschiktheid is nu niet mogelijk aangezien het wettelijk regime niet precies bekend is. Aangezien de nog in te voeren Wet Werk en Inkomen naar Arbeidsvermogen (WIA) geen inkomensgarantie biedt voor de werknemers die minder dan 35% arbeidsongeschikt zijn, maar dit overlaat aan de sociale partners in de sectoren, spreken partijen wel af dat ook voor de groep ambtenaren met een arbeidsongeschiktheidspercentage van minder dan 35% zal gelden dat werken wordt beloond en dat meer werken meer wordt beloond.
 
 ### 3. Slotopmerkingen
 
 Zodra de formalisering, voor zover dat noodzakelijk is, van de overeengekomen maatregelen tot stand is gekomen, zal ik u daarover informeren.
+
+Medewerkers van de afdelingen Personeelszaken van geadresseerden kunnen over de desbetreffende onderwerpen inlichtingen verkrijgen bij onderstaande personen:
+
+| Inkomensontwikkeling | Coen Terbrack | 070 426 7514 | Coen.Terbrack@minbzk.nl |
+| --- | --- | --- | --- |
+| Loondoorbetaling 1e 2jr ziekte | Lilian Verstegen | 070 426 7414 | Lilian.Verstegen@minbzk.nl |
+| Specifieke rechten/verplicht 1e 2jr ziekte | Wilmar Hagg | 070 426 7663 | Wilmar.Hagg@minbzk.nl |
+| Beroepsrisico’s | Wilmar Hagg | 070 426 7663 | Wilmar.Hagg@minbzk.nl |
+| Nieuw stelsel arb.ongeschikth. | Lilian Verstegen | 070 426 7414 | Lilian.Verstegen@minbzk.nl |

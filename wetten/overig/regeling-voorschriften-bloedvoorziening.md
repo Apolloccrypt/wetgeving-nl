@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 januari 2005, nr. GMT/MT2551254, houdende voorschriften inzake de bloedvoorziening (Regeling voorschriften bloedvoorziening)"
+citeertitel: "Regeling voorschriften bloedvoorziening"
 identifier: "BWBR0017977"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-12-31"
-last_updated: "2019-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017977"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "6732723"
-version_id: "22421482"
-internal_id: "C32173131"
-label_id: "6721194"
-dtd_version: "2.0"
-original_entry_into_force: "2015-05-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017977/2019-12-31/0"
-intitule_bron: "Stcrt.2005-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-01-31"
-intitule_published: "2005-02-04"
-intitule_in_force: "2005-02-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-13079"
-original_signed_date: "2015-05-06"
-original_published_date: "2015-05-18"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2015-13079"
-entry_into_force_date: "2015-05-06"
-jci_1_3: "jci1.3:c:BWBR0017977&z=2019-12-31&g=2019-12-31"
-jci_1_0: "1.0:c:BWBR0017977&g=2019-12-31"
-citeertitel_status: "officieel"
-short_title: "Regeling voorschriften bloedvoorziening"
-signed_date: "2015-05-06"
-entry_into_force: "2015-05-06"
+publicatiedatum: 2015-05-06
+laatste_update: 2019-12-31
+status: geldig
+toestand: 2019-12-31
+bron: "https://wetten.overheid.nl/BWBR0017977"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 januari 2005, nr. GMT/MT2551254, houdende voorschriften inzake de bloedvoorziening (Regeling voorschriften bloedvoorziening)
-
-Gelet op [richtlijn 2002/98/EG](32002L0098) van het Europees Parlement en de Raad van 27 januari 2003 tot vaststelling van kwaliteits- en veiligheidsnormen voor het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen van menselijke oorsprong en tot wijziging van [Richtlijn 2001/38/EG](32001L0038) (PbEU L 33) alsmede op de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=3), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=5), en [9, tweede lid, van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=9);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -62,7 +36,7 @@ Besluit:
 
 - i. autologe transfusie: een transfusie waarbij de donor tevens de ontvanger is en waarbij eerder afgegeven bloed en bloedbestanddelen worden gebruikt;
 
-- j. Richtlijn: [Richtlijn 2002/98/EG](32002L0098) van het Europees Parlement en de Raad van 27 januari 2003, tot vaststelling van kwaliteits- en veiligheidsnormen voor het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen van menselijke oorsprong en tot wijziging van [Richtlijn 2001/83/EG](32001L0083) van de Raad (PbEU L 33).
+- j. Richtlijn: Richtlijn 2002/98/EG van het Europees Parlement en de Raad van 27 januari 2003, tot vaststelling van kwaliteits- en veiligheidsnormen voor het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen van menselijke oorsprong en tot wijziging van Richtlijn 2001/83/EG van de Raad (PbEU L 33).
 
 2. Deze regeling is niet van toepassing op bloedstamcellen.
 
@@ -76,11 +50,11 @@ Besluit:
 
 1. De Bloedvoorzieningsorganisatie zorgt ervoor dat:
 
-- –. bij het inzamelen en testen van elke eenheid bloed of bloedbestanddelen, ongeacht het beoogde gebruik, en bij het bewerken, opslaan en distribueren ervan indien zij voor transfusie bestemd zijn, de daarvoor geldende regels worden nageleefd;
+- – bij het inzamelen en testen van elke eenheid bloed of bloedbestanddelen, ongeacht het beoogde gebruik, en bij het bewerken, opslaan en distribueren ervan indien zij voor transfusie bestemd zijn, de daarvoor geldende regels worden nageleefd;
 
-- –. de Minister ter zake van de aanwijzingsprocedure, bedoeld in [artikel 3 van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=3), de nodige informatie ontvangt;
+- – de Minister ter zake van de aanwijzingsprocedure, bedoeld in [artikel 3 van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=3), de nodige informatie ontvangt;
 
-- –. de voorschriften van de [artikelen 4 tot met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=4&z=2019-12-31&g=2019-12-31) in de Bloedvoorzieningsorganisatie worden toegepast.
+- – de voorschriften van de [artikelen 4 tot met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=4&z=2019-12-31&g=2019-12-31) in de Bloedvoorzieningsorganisatie worden toegepast.
 
 2. De Bloedvoorzieningsorganisatie draagt de uitvoering van de in het eerste lid genoemde taken op aan een persoon die ten minste:
 
@@ -102,7 +76,7 @@ Het personeel dat rechtstreeks is betrokken bij het inzamelen, testen, bewerken,
 
 1. Het kwaliteitssysteem, bedoeld in [artikel 6 van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=6), wordt toegepast op basis van de beginselen van goede praktijken. De Bloedvoorzieningsorganisatie neemt daarbij de normen en specificaties, bedoeld in artikel 29, onder h, van de Richtlijn in acht.
 
-2. Met **richtsnoeren voor goede praktijken** als bedoeld in het bepaalde krachtens artikel 29, onder h, van de Richtlijn wordt bedoeld de **Good Practice Guidelines for Blood Establishments Required to Comply with Directive 2005/62/EC**, vastgesteld door het Europees Comité voor Bloedtransfusie van de Raad van Europa en de Europese Commissie.
+2. Met *richtsnoeren voor goede praktijken* als bedoeld in het bepaalde krachtens artikel 29, onder h, van de Richtlijn wordt bedoeld de *Good Practice Guidelines for Blood Establishments Required to Comply with Directive 2005/62/EC*, vastgesteld door het Europees Comité voor Bloedtransfusie van de Raad van Europa en de Europese Commissie.
 
 ##### Artikel 6
 
@@ -160,121 +134,11 @@ Elke donatie van bloed of bloedbestanddelen wordt voorafgegaan door een onderzoe
 
 De Bloedvoorzieningsorganisatie zorgt ervoor dat de in het kader van deze regeling verzamelde gegevens die door derden kunnen worden geraadpleegd, met inbegrip van genetische informatie, geanonimiseerd zijn zodat de donor niet meer te identificeren is. Daartoe:
 
-- –. treft zij maatregelen met het oog op de gegevensbeveiliging en schept garanties tegen ongeoorloofde toevoeging, schrapping of wijziging in bestanden van donoren of uitsluitingen, alsmede tegen overdracht van informatie;
+- – treft zij maatregelen met het oog op de gegevensbeveiliging en schept garanties tegen ongeoorloofde toevoeging, schrapping of wijziging in bestanden van donoren of uitsluitingen, alsmede tegen overdracht van informatie;
 
-- –. legt zij procedures vast om discrepanties tussen gegevens op te heffen;
+- – legt zij procedures vast om discrepanties tussen gegevens op te heffen;
 
-- –. voorkomt zij ongeoorloofde bekendmaking van dergelijke informatie, waarbij de donaties echter wel traceerbaar moeten blijven.
-
-##### Artikel 15
-
-De [Regeling voorschriften bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0017804) van 21 december 2004, gepubliceerd in de Staatscourant, nr. 251 wordt ingetrokken.
-
-##### Artikel 16
-
-Deze regeling treedt in werking met ingang van 8 februari 2005.
-
-##### Artikel 17
-
-Deze regeling wordt aangehaald als: Regeling voorschriften bloedvoorziening.
-
-## Bijlage I
-
-**Met het oog op aanwijzing overeenkomstig artikel 3, eerste lid, van de Wet inzake bloedvoorziening door de bloedvoorzieningsorganisatie aan de minister te verstrekken gegevens**
-
-Deel A: Algemene informatie
-
-- –. Identiteit van de Bloedvoorzieningsorganisatie.
-
-- –. Naam, kwalificatie en contactgegevens van de verantwoordelijke personen.
-
-- –. Een lijst van ziekenhuisbloedbanken die door de Bloedvoorzieningsorganisatie bevoorraad worden.
-
-Deel B: Beschrijving van het kwaliteitszorgsysteem, met inbegrip van
-
-- –. documentatie (b.v. een organisatieschema) met onder andere de taken van de verantwoordelijke personen en de hiërarchische structuur;
-
-- –. documentatie (b.v. documentatie zoals een Site Master File of een kwaliteitshandboek waarin het kwaliteitszorgsysteem van artikel 6 van de Wet inzake bloedvoorziening wordt beschreven);
-
-- –. aantal personeelsleden en hun kwalificaties;
-
-- –. hygiënevoorschriften;
-
-- –. lokaties en apparatuur;
-
-- –. lijst van standaardwerkwijzen (Standard Operating Procedures) voor het werven, behouden en beoordelen van donors en voor het bewerken, testen, distribueren en terugroepen van bloed en bloedbestanddelen, en voor het melden en registreren van ernstige ongewenste voorvallen en reacties.
-
-## Bijlage II
-
-**Verslag over de activiteiten van de Bloedvoorzieningsorganisatie in het voorgaande jaar**
-
-Dit jaarverslag bevat:
-
-- –. het totale aantal donors dat bloed en bloedbestanddelen afstaat;
-
-- –. het totale aantal donaties;
-
-- –. een geactualiseerde lijst van ziekenhuisbloedbanken die door de Bloedvoorzieningsorganisatie bevoorraad worden;
-
-- –. het totale aantal ongebruikte volledige donaties;
-
-- –. het aantal eenheden van ieder geproduceerd en gedistribueerd bestanddeel;
-
-- –. de incidentie en prevalentie van door transfusie overdraagbare infectieuze markers bij donors van bloed en bloedbestanddelen;
-
-- –. het aantal terugroepacties;
-
-- –. het aantal gemelde ernstige ongewenste voorvallen en bijwerkingen.
-
-## Bijlage I
-
-**Met het oog op aanwijzing overeenkomstig artikel 3, eerste lid, van de Wet inzake bloedvoorziening door de bloedvoorzieningsorganisatie aan de minister te verstrekken gegevens**
-
-Deel A: Algemene informatie
-
-- –. Identiteit van de Bloedvoorzieningsorganisatie.
-
-- –. Naam, kwalificatie en contactgegevens van de verantwoordelijke personen.
-
-- –. Een lijst van ziekenhuisbloedbanken die door de Bloedvoorzieningsorganisatie bevoorraad worden.
-
-Deel B: Beschrijving van het kwaliteitszorgsysteem, met inbegrip van
-
-- –. documentatie (b.v. een organisatieschema) met onder andere de taken van de verantwoordelijke personen en de hiërarchische structuur;
-
-- –. documentatie (b.v. documentatie zoals een Site Master File of een kwaliteitshandboek waarin het kwaliteitszorgsysteem van artikel 6 van de Wet inzake bloedvoorziening wordt beschreven);
-
-- –. aantal personeelsleden en hun kwalificaties;
-
-- –. hygiënevoorschriften;
-
-- –. lokaties en apparatuur;
-
-- –. lijst van standaardwerkwijzen (Standard Operating Procedures) voor het werven, behouden en beoordelen van donors en voor het bewerken, testen, distribueren en terugroepen van bloed en bloedbestanddelen, en voor het melden en registreren van ernstige ongewenste voorvallen en reacties.
-
-## Bijlage II
-
-**Verslag over de activiteiten van de Bloedvoorzieningsorganisatie in het voorgaande jaar**
-
-Dit jaarverslag bevat:
-
-- –. het totale aantal donors dat bloed en bloedbestanddelen afstaat;
-
-- –. het totale aantal donaties;
-
-- –. een geactualiseerde lijst van ziekenhuisbloedbanken die door de Bloedvoorzieningsorganisatie bevoorraad worden;
-
-- –. het totale aantal ongebruikte volledige donaties;
-
-- –. het aantal eenheden van ieder geproduceerd en gedistribueerd bestanddeel;
-
-- –. de incidentie en prevalentie van door transfusie overdraagbare infectieuze markers bij donors van bloed en bloedbestanddelen;
-
-- –. het aantal terugroepacties;
-
-- –. het aantal gemelde ernstige ongewenste voorvallen en bijwerkingen.
-
-Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.
+- – voorkomt zij ongeoorloofde bekendmaking van dergelijke informatie, waarbij de donaties echter wel traceerbaar moeten blijven.
 
 ##### Artikel 14a
 
@@ -290,48 +154,14 @@ De Minister van Defensie neemt bij het uitvoeren van de taken bedoeld in [artike
 
 Een wijziging van de Richtlijn en EU-richtlijnen vastgesteld ter uitvoering van de Richtlijn gaan voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging of EU-richtlijn uitvoering moet zijn gegeven.
 
-## Bijlage III
+##### Artikel 15
 
-**Etiketteringsvoorschriften**
+De [Regeling voorschriften bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0017804) van 21 december 2004, gepubliceerd in de Staatscourant, nr. 251 wordt ingetrokken.
 
-Het etiket op het bestanddeel moet de volgende informatie bevatten:
+##### Artikel 16
 
-- –. Officiële benaming van het bestanddeel.
+Deze regeling treedt in werking met ingang van 8 februari 2005.
 
-- –. Volume of gewicht of aantal cellen van het bestanddeel (naar gelang van het geval).
+##### Artikel 17
 
-- –. Unieke numerieke of alfanumerieke donatie-identificatie.
-
-- –. Naam van de producerende bloedinstelling.
-
-- –. ABO-groep (niet vereist voor plasma dat uitsluitend bestemd is voor fractionering).
-
-- –. Rh D-groep, aangegeven als ‘Rh D-positief’ of ‘Rh D-negatief’ (niet vereist voor plasma dat uitsluitend bestemd is voor fractionering).
-
-- –. Vervaldatum of -termijn (naar gelang van het geval).
-
-- –. Bewaartemperatuur.
-
-- –. Naam, samenstelling en volume van antistollingsmiddel en/of bewaarvloeistof (indien aanwezig).
-
-## Bijlage IV
-
-**Minimale testcriteria voor volbloed en plasmadonaties**
-
-De volgende tests moeten verricht worden voor volbloed- en aferesedonaties, met inbegrip van autologe donaties die op voorhand zijn gedeponeerd:
-
-- –. ABO-groep (niet vereist voor plasma dat uitsluitend bestemd is voor fractionering).
-
-- –. Rh D-groep (niet vereist voor plasma dat uitsluitend bestemd is voor fractionering).
-
-- –. Testen op de aanwezigheid van de volgende infectieziekten bij de donors:
-
-- •. Hepatitis B (HBs-Ag);
-
-- •. Hepatitis C (Anti-HCV);
-
-- •. HIV 1/2 (Anti-HIV 1/2).
-
-Er kunnen aanvullende tests vereist zijn voor specifieke bestanddelen of donors dan wel voor epidemiologische situaties.
-
-Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling voorschriften bloedvoorziening.

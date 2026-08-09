@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie van 22 augustus 2005, houdende regeling van de werkzaamheden van de Inspectie voor de Sanctietoepassing (Regeling Inspectie voor de Sanctietoepassing)"
+citeertitel: "Regeling Inspectie voor de Sanctietoepassing"
 identifier: "BWBR0018686"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-12-20"
-last_updated: "2011-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018686"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "7307033"
-version_id: "12236722"
-internal_id: "C29189491"
-label_id: "7294934"
-dtd_version: "2.0"
-original_entry_into_force: "2005-08-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018686/2011-12-20/0"
-intitule_bron: "Stcrt.2005-166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-08-22"
-intitule_published: "2005-08-29"
-intitule_in_force: "2005-08-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-166"
-original_signed_date: "2005-08-22"
-original_published_date: "2005-08-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-166-p9-SC71335"
-entry_into_force_date: "2005-08-22"
-jci_1_3: "jci1.3:c:BWBR0018686&z=2011-12-20&g=2011-12-20"
-jci_1_0: "1.0:c:BWBR0018686&g=2011-12-20"
-citeertitel_status: "officieel"
-short_title: "Regeling Inspectie voor de Sanctietoepassing"
-signed_date: "2005-08-22"
-entry_into_force: "2005-08-22"
+publicatiedatum: 2005-08-22
+laatste_update: 2011-12-20
+status: geldig
+toestand: 2011-12-20
+bron: "https://wetten.overheid.nl/BWBR0018686"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de Minister van Justitie van 22 augustus 2005, houdende regeling van de werkzaamheden van de Inspectie voor de Sanctietoepassing (Regeling Inspectie voor de Sanctietoepassing)
-
-Gelet op [artikel 28 van de Organisatieregeling Ministerie van Justitie 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018331&artikel=28);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Begrippen
 
@@ -113,5 +85,3 @@ Deze regeling wordt aangehaald als: Regeling Inspectie voor de Sanctietoepassing
 ##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking op 22 augustus 2005 en werkt terug tot en met 1 juni 2005.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

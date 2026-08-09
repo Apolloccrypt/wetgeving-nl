@@ -1,51 +1,22 @@
 ---
 title: "Wet van 28 september 2005 tot uitvoering van verordening (EG) nr. 805/2004 van het Europees Parlement en de Raad van 21 april 2004 tot invoering van een Europese executoriale titel voor niet-betwiste schuldvorderingen (Pb EU L 143) (Uitvoeringswet verordening Europese executoriale titel)"
+citeertitel: "Uitvoeringswet verordening Europese executoriale titel"
 identifier: "BWBR0018808"
-country: "nl"
-rank: "wet"
-publication_date: "2017-09-01"
-last_updated: "2017-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018808"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "7408993"
-version_id: "12343942"
-internal_id: "C16627471"
-label_id: "7396874"
-dtd_version: "2.0"
-original_entry_into_force: "2005-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018808/2017-09-01/0"
-intitule_bron: "Stb.2005-485"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-09-28"
-intitule_published: "2005-10-13"
-intitule_in_force: "2005-10-20"
-intitule_status: "goed"
-original_publication: "Stb.2005-485"
-original_signed_date: "2005-09-28"
-original_published_date: "2005-10-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "30069"
-original_url_id: "stb-2005-485"
-entry_into_force_date: "2005-10-21"
-jci_1_3: "jci1.3:c:BWBR0018808&z=2017-09-01&g=2017-09-01"
-jci_1_0: "1.0:c:BWBR0018808&g=2017-09-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet verordening Europese executoriale titel"
-signed_date: "2005-09-28"
-entry_into_force: "2005-10-21"
+publicatiedatum: 2005-10-21
+laatste_update: 2017-09-01
+status: geldig
+toestand: 2017-09-01
+bron: "https://wetten.overheid.nl/BWBR0018808"
+opgehaald: 2026-08-09
 ---
+
 # Wet van 28 september 2005 tot uitvoering van verordening (EG) nr. 805/2004 van het Europees Parlement en de Raad van 21 april 2004 tot invoering van een Europese executoriale titel voor niet-betwiste schuldvorderingen (Pb EU L 143) (Uitvoeringswet verordening Europese executoriale titel)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om wettelijke voorzieningen te treffen ter uitvoering van de [verordening (EG) nr. 805/2004](32004R0805) van het Europees Parlement en de Raad van 21 april 2004 tot invoering van een Europese executoriale titel voor niet-betwiste schuldvorderingen (Pb EU L 143);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-In deze wet wordt verstaan onder «verordening»: [verordening (EG) nr. 805/2004](32004R0805) van het Europees Parlement en de Raad van 21 april 2004 tot invoering van een Europese executoriale titel voor niet-betwiste schuldvorderingen (Pb EU L 143).
+In deze wet wordt verstaan onder «verordening»: verordening (EG) nr. 805/2004 van het Europees Parlement en de Raad van 21 april 2004 tot invoering van een Europese executoriale titel voor niet-betwiste schuldvorderingen (Pb EU L 143).
 
 ##### Artikel 2
 
@@ -122,5 +93,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 13
 
 Deze wet wordt aangehaald als: Uitvoeringswet verordening Europese executoriale titel.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

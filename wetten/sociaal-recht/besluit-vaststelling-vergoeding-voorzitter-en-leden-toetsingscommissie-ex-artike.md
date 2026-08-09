@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 16 juli 2005, nr. 05.002643, houdende vaststelling van de vergoeding van de voorzitter en de leden van de Toetsingscommissie als bedoeld in artikel 73 van de Wet werk en bijstand"
+citeertitel: "Besluit vaststelling vergoeding voorzitter en leden toetsingscommissie ex artikel 73 Wet werk en bijstand"
 identifier: "BWBR0018603"
-country: "nl"
-rank: "kb"
-publication_date: "2005-08-24"
-last_updated: "2005-08-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018603"
+categorie: "Sociaal recht"
 soort: "KB"
-stam_id: "7296773"
-version_id: "12229042"
-internal_id: "C29465571"
-label_id: "7284604"
-dtd_version: "2.0"
-original_entry_into_force: "2005-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018603/2005-08-24/0"
-intitule_bron: "Stcrt.2005-161"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-07-16"
-intitule_published: "2005-08-22"
-intitule_in_force: "2005-08-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-161"
-original_signed_date: "2005-07-16"
-original_published_date: "2005-08-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-161-p8-SC71246"
-entry_into_force_date: "2005-08-24"
-jci_1_3: "jci1.3:c:BWBR0018603&z=2005-08-24&g=2005-08-24"
-jci_1_0: "1.0:c:BWBR0018603&g=2005-08-24"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vaststelling vergoeding voorzitter en leden toetsingscommissie ex artikel 73 Wet werk en bijstand"
-signed_date: "2005-07-16"
-entry_into_force: "2005-08-24"
+publicatiedatum: 2005-08-24
+laatste_update: 2005-08-24
+status: geldig
+toestand: 2005-08-24
+bron: "https://wetten.overheid.nl/BWBR0018603"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 16 juli 2005, nr. 05.002643, houdende vaststelling van de vergoeding van de voorzitter en de leden van de Toetsingscommissie als bedoeld in artikel 73 van de Wet werk en bijstand
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 7 juli 2005, Directie Werk en Bijstand, nr. W&B/SFI/05/48023;
-
-Gelet op [artikel 3 van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=3);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -73,5 +45,3 @@ De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018603&artikel=1&z=20
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 19 november 2004.
-
-Onze Minister van Sociale Zaken en Werkgelegenheid is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in de Staatscourant zal worden geplaatst.

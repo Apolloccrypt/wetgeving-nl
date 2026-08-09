@@ -1,38 +1,17 @@
 ---
 title: "Keuringsreglement bloembollen"
 identifier: "BWBR0017868"
-country: "nl"
-rank: "zbo"
-publication_date: "2005-11-27"
-last_updated: "2005-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017868"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "7620853"
-version_id: "12510152"
-internal_id: "C16785611"
-label_id: "7608784"
-dtd_version: "2.0"
-original_entry_into_force: "2005-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017868/2005-11-27/0"
-intitule_bron: "Stcrt.2005-230"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2005-11-25"
-intitule_in_force: "2005-11-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-230"
-original_published_date: "2005-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-230-p14-SC72138"
-entry_into_force_date: "2005-11-27"
-jci_1_3: "jci1.3:c:BWBR0017868&z=2005-11-27&g=2005-11-27"
-jci_1_0: "1.0:c:BWBR0017868&g=2005-11-27"
-citeertitel_status: "officieel"
-entry_into_force: "2005-11-27"
+publicatiedatum: 2005-11-27
+laatste_update: 2005-11-27
+status: geldig
+toestand: 2005-11-27
+bron: "https://wetten.overheid.nl/BWBR0017868"
+opgehaald: 2026-08-09
 ---
-# Keuringsreglement bloembollen
 
-Gelet op [artikel 10, eerste lid, en sub e van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) , heeft het bestuur van de Stichting Bloembollenkeuringsdienst in haar vergadering van 25 april 2005 het navolgende reglement vastgesteld. Het reglement is goedgekeurd door de Minister van Landbouw, Natuur en Voedselkwaliteit. Dit reglement betreft het verloop van de keuring en het uitreiken van teken- en bewijsstukken:
+# Keuringsreglement bloembollen
 
 ### Hoofdstuk I. Inleidende bepalingen
 
@@ -66,11 +45,11 @@ Degene die bloembollen ter keuring aanbiedt, is verplicht alle personen, die doo
 
 1. Bloembollen die worden geteeld dienen tijdens de teelt doch uiterlijk op door de BKD vastgestelde en gepubliceerde data voorafgaande aan de op die teelt betrekking hebbende veldkeuring op een daartoe door de BKD beschikbaar te stellen formulier te worden opgegeven aan die instelling, waarbij, per ras, de volgende gegevens moeten worden verstrekt:
 
-- –. Locatie van de percelen, waarop de teelt plaatsvindt;
+- – Locatie van de percelen, waarop de teelt plaatsvindt;
 
-- –. Oppervlakte van de teelt(en);
+- – Oppervlakte van de teelt(en);
 
-- –. Partijnummer(s) en classificatie van het voor de teelt te gebruiken of gebruikte plantgoed.
+- – Partijnummer(s) en classificatie van het voor de teelt te gebruiken of gebruikte plantgoed.
 
 2. Indien de gegevens niet of niet tijdig aan de BKD worden verstrekt, zullen hiervoor kosten in rekening worden gebracht.
 

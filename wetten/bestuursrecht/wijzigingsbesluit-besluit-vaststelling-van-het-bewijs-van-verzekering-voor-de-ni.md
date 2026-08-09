@@ -1,56 +1,22 @@
 ---
 title: "Besluit van 23 juli 2005, houdende wijziging van het besluit van 16 september 1965, houdende vaststelling van het bewijs van verzekering voor de niet-kentekenplichtige motorrijtuigen en enkele regelen met betrekking tot het bewijs van vrijstelling (Stb. 414) in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen"
+citeertitel: "Wijzigingsbesluit besluit vaststelling van het bewijs van verzekering voor de niet-kentekenplichtige motorrijtuigen en enkele regelen met betrekking tot het bewijs van vrijstelling (invoering kentekenregistratiesysteem voor bromfietsen)"
 identifier: "BWBR0018623"
-country: "nl"
-rank: "amvb"
-publication_date: "2005-09-01"
-last_updated: "2005-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018623"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "7277243"
-version_id: "12209542"
-internal_id: "C16440081"
-label_id: "7265084"
-dtd_version: "2.0"
-original_entry_into_force: "2005-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018623/2005-09-01/0"
-intitule_bron: "Stb.2005-405"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-07-23"
-intitule_published: "2005-08-18"
-intitule_in_force: "2005-08-18"
-intitule_status: "goed"
-original_publication: "Stb.2005-405"
-original_signed_date: "2005-07-23"
-original_published_date: "2005-08-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2005-405"
-entry_into_force_date: "2005-09-01"
-jci_1_3: "jci1.3:c:BWBR0018623&z=2005-09-01&g=2005-09-01"
-jci_1_0: "1.0:c:BWBR0018623&g=2005-09-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsbesluit besluit vaststelling van het bewijs van verzekering voor de niet-kentekenplichtige motorrijtuigen en enkele regelen met betrekking tot het bewijs van vrijstelling (invoering kentekenregistratiesysteem voor bromfietsen)"
-signed_date: "2005-07-23"
-entry_into_force: "2005-09-01"
+publicatiedatum: 2005-09-01
+laatste_update: 2005-09-01
+status: geldig
+toestand: 2005-09-01
+bron: "https://wetten.overheid.nl/BWBR0018623"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van 23 juli 2005, houdende wijziging van het besluit van 16 september 1965, houdende vaststelling van het bewijs van verzekering voor de niet-kentekenplichtige motorrijtuigen en enkele regelen met betrekking tot het bewijs van vrijstelling (Stb. 414) in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 26 april 2005, nr. HDJZ/AWW/2005-1074, Hoofddirectie Juridische Zaken, gedaan mede namens Onze Minister van Justitie;
-
-Gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=14) en [38 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=38);
-
-De Raad van State gehoord (advies van 1 juli 2005, nr. W09.05.0171/V);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 8 juli 2005, nr. HDJZ/AWW/1571, Hoofddirectie Juridische Zaken, uitgebracht mede namens Onze Minister van Justitie;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wijzigingswet Wegenverkeerswet 1994, enz. (invoering kentekenregistratiesysteem voor bromfietsen) in werking treedt.
 
 ##### Artikel I
 
-Wijzigt het besluit Vaststelling bewijs van verzekering voor niet-kentekenplichtige motorrijtuigen en regelen met betrekking tot bewijs van vrijstelling.
+*Wijzigt het besluit Vaststelling bewijs van verzekering voor niet-kentekenplichtige motorrijtuigen en regelen met betrekking tot bewijs van vrijstelling.*
 
 ##### Artikel II
 
@@ -69,5 +35,3 @@ De [artikelen 1 tot en met 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&a
 ##### Artikel IV
 
 Dit besluit treedt in werking op het tijdstip waarop de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281) in werking treedt.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

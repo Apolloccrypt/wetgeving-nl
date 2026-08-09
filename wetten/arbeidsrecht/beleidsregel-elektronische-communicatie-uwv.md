@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-08-06
 toestand: 2012-09-15
 bron: "https://wetten.overheid.nl/BWBR0031975"
-opgehaald: 2026-08-08
+opgehaald: 2026-08-09
 ---
 
 # Beleidsregel elektronische communicatie UWV

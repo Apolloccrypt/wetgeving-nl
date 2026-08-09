@@ -1,52 +1,22 @@
 ---
 title: "Rijkswet van 20 januari 2005, houdende wijziging van de Schepenwet in verband met de totstandkoming van de Rijkswet Onderzoeksraad voor veiligheid en de invoering van een nieuwe regeling van tuchtrechtspraak voor de zeescheepvaart"
+citeertitel: "Rijkswet houdende wijziging Schepenwet in verband met totstandkoming Rijkswet Onderzoeksraad voor veiligheid en invoering nieuwe regeling tuchtrechtspraak voor zeescheepvaart"
 identifier: "BWBR0017928"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017928"
+categorie: "Verkeer"
 soort: "rijkswet"
-stam_id: "6731893"
-version_id: "11584202"
-internal_id: "C24336591"
-label_id: "6720184"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017928/2010-01-01/0"
-intitule_bron: "Stb.2005-51"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-01-20"
-intitule_published: "2005-02-08"
-intitule_in_force: "2009-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2005-51"
-original_signed_date: "2005-01-20"
-original_published_date: "2005-02-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "29476"
-original_url_id: "stb-2005-51"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0017928&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBR0017928&g=2010-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Rijkswet houdende wijziging Schepenwet in verband met totstandkoming Rijkswet Onderzoeksraad voor veiligheid en invoering nieuwe regeling tuchtrechtspraak voor zeescheepvaart"
-signed_date: "2005-01-20"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBR0017928"
+opgehaald: 2026-08-09
 ---
+
 # Rijkswet van 20 januari 2005, houdende wijziging van de Schepenwet in verband met de totstandkoming van de Rijkswet Onderzoeksraad voor veiligheid en de invoering van een nieuwe regeling van tuchtrechtspraak voor de zeescheepvaart
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met de totstandkoming van de [Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613) en de invoering van een nieuwe regeling van tuchtrecht voor de zeescheepvaart wenselijk is de Raad voor de Scheepvaart op te heffen;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt voor Nederland in werking op 1 januari 2010. Treedt voor de Nederlandse Antillen in werking op 24 augustus 2010 en werkt terug tot en met 1 augustus 2010 (Stb. 2010/323).
 
 ##### Artikel I
 
-Wijzigt de Schepenwet.
+*Wijzigt de Schepenwet.*
 
 ##### Artikel II
 
@@ -63,5 +33,3 @@ Wijzigt de Schepenwet.
 ##### Artikel IV
 
 Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan en voor de landen van het Koninkrijk verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

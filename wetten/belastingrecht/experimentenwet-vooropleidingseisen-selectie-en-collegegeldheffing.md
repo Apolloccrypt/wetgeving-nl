@@ -1,51 +1,18 @@
 ---
 title: "Wet van 28 april 2005, houdende tijdelijke regels betreffende experimenten in het hoger onderwijs op het gebied van vooropleidingseisen aan en selectie van aanstaande studenten en op het gebied van heffing van collegegeld (Experimentenwet vooropleidingseisen, selectie en collegegeldheffing)"
+citeertitel: "Experimentenwet vooropleidingseisen, selectie en collegegeldheffing"
 identifier: "BWBR0018259"
-country: "nl"
-rank: "wet"
-publication_date: "2023-09-01"
-last_updated: "2023-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018259"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "6977843"
-version_id: "11844992"
-internal_id: "C15935811"
-label_id: "6966134"
-original_entry_into_force: "2005-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018259/2023-09-01/0"
-intitule_bron: "Stb.2005-222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-28"
-intitule_published: "2005-04-29"
-intitule_in_force: "2005-04-29"
-intitule_status: "goed"
-original_publication: "Stb.2005-222"
-original_signed_date: "2005-04-28"
-original_published_date: "2005-04-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "29819"
-original_url_id: "stb-2005-222"
-entry_into_force_date: "2005-05-01"
-entry_into_force_dossier: "29819"
-jci_1_3: "jci1.3:c:BWBR0018259&z=2023-09-01&g=2023-09-01"
-jci_1_0: "1.0:c:BWBR0018259&g=2023-09-01"
-citeertitel_status: "officieel"
-short_title: "Experimentenwet vooropleidingseisen, selectie en collegegeldheffing"
-signed_date: "2005-04-28"
-entry_into_force: "2005-05-01"
+publicatiedatum: 2005-05-01
+laatste_update: 2023-09-01
+status: geldig
+toestand: 2023-09-01
+bron: "https://wetten.overheid.nl/BWBR0018259"
+opgehaald: 2026-08-09
 ---
+
 # Wet van 28 april 2005, houdende tijdelijke regels betreffende experimenten in het hoger onderwijs op het gebied van vooropleidingseisen aan en selectie van aanstaande studenten en op het gebied van heffing van collegegeld (Experimentenwet vooropleidingseisen, selectie en collegegeldheffing)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is ervaring op te doen met selectie van aanstaande studenten en extraneï en met differentiatie van collegegeld bij opleidingen in het hoger onderwijs met erkende evidente meerwaarde, zonder dat afbreuk wordt gedaan aan de toegankelijkheid van het hoger onderwijs;
-
-dat het voorts wenselijk is ervaring op te doen met het stellen van vervangende vooropleidingseisen aan aanstaande studenten en extraneï bij opleidingen in het hoger onderwijs met het oog op het vergroten van de instroom in het hoger onderwijs, zonder dat afbreuk wordt gedaan aan het niveau van die instroom;
-
-dat in verband hiermee een tijdelijke regeling wordt getroffen om experimenten op bovenvermelde terreinen mogelijk te maken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -67,7 +34,7 @@ In deze wet wordt verstaan onder:
 
 - g. experimenteel programma: een programma binnen een bacheloropleiding als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=1&artikel=5&z=2023-09-01&g=2023-09-01);
 
-- h. studiejaar: het tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daaropvolgende jaar;
+- h. studiejaar: het tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daaropvolgende jaar;
 
 - i. onderwijs- en examenregeling: de onderwijs- en examenregeling, bedoeld in [artikel 7.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.13).
 
@@ -175,11 +142,17 @@ Met het oog op het verkrijgen van een duidelijker inzicht in de effecten van sel
 
 ##### Artikel 12. Besluitvorming opleidingen op het gebied van landbouw; tijdstip besluitvorming studiejaar 2005–2006
 
-Vervallen
+*Vervallen*
+
+##### Artikel 12a. Verlenging aanwijzing van opleidingen
+
+1. Een aanwijzing als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2023-09-01&g=2023-09-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2023-09-01&g=2023-09-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=8&z=2023-09-01&g=2023-09-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=9&z=2023-09-01&g=2023-09-01) die betrekking heeft op de studiejaren 2005–2006 en 2006–2007 dan wel op het studiejaar 2006–2007, wordt verlengd voor het studiejaar 2007–2008, tenzij het instellingsbestuur Onze Minister voor 1 september 2007 meedeelt dat verlenging van de aanwijzing niet nodig is.
+
+2. Onze Minister kan op aanvraag van het instellingsbestuur besluiten een op grond van het eerste lid verlengde aanwijzing voor een of meer studiejaren te verlengen.
 
 #### Paragraaf 4. Overige bepalingen
 
-##### Artikel 13. Rechtsgevolg besluit op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2023-09-01&g=2023-09-01)
+##### Artikel 13. Rechtsgevolg besluit op grond van artikel 7
 
 Indien een besluit als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2023-09-01&g=2023-09-01) betrekking heeft op een bacheloropleiding waarvoor een toelatingsbeperking als bedoeld in de [artikelen 7.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.53), [7.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.55) en [7.56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.56) van kracht is, blijft [artikel 7.53, tweede, derde en zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.53) buiten toepassing. Voor de toepassing van dit artikel wordt onder een besluit als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2023-09-01&g=2023-09-01) tevens begrepen een verlenging op grond van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=3&artikel=12a&z=2023-09-01&g=2023-09-01) van een aanwijzing.
 
@@ -195,27 +168,27 @@ Indien een besluit als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:
 
 2. De [artikelen 9.43](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.43) en [10.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.30) zijn van overeenkomstige toepassing.
 
-#### Paragraaf 5. Wijzigingen van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+#### Paragraaf 5. Wijzigingen van de Wet op het hoger onderwijs en wetenschappelijk onderzoek
 
-##### Artikel 16. Tijdelijke wijziging van de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+##### Artikel 16. Tijdelijke wijziging van de WHW
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
 
-##### Artikel 17. Wijziging van de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+##### Artikel 17. Wijziging van de WHW
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 #### Paragraaf 6. Slot- en overgangsbepalingen
 
 ##### Artikel 18. Overgangsbepaling afronding opleiding
 
-1. Studenten die op 31 augustus 2005 of op 31 augustus 2006 zijn ingeschreven voor een bacheloropleiding ten aanzien waarvan met ingang van 1 september 2005 onderscheidenlijk met ingang van 1 september 2006 een experiment op het terrein van selectie aanvangt, kunnen die opleiding binnen een redelijke termijn aan dezelfde instelling voltooien volgens de voorschriften die op het tijdstip van hun eerste inschrijving van toepassing waren.
+1. Studenten die op 31 augustus 2005 of op 31 augustus 2006 zijn ingeschreven voor een bacheloropleiding ten aanzien waarvan met ingang van 1 september 2005 onderscheidenlijk met ingang van 1 september 2006 een experiment op het terrein van selectie aanvangt, kunnen die opleiding binnen een redelijke termijn aan dezelfde instelling voltooien volgens de voorschriften die op het tijdstip van hun eerste inschrijving van toepassing waren.
 
-2. Studenten die op 31 augustus 2005 of op 31 augustus 2006 zijn ingeschreven voor een voltijdse opleiding ten aanzien waarvan met ingang van 1 september 2005 onderscheidenlijk met ingang van 1 september 2006 een experiment op het terrein van collegegeldverhoging aanvangt, zijn het collegegeld, bedoeld in [artikel 7.45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.45), verschuldigd.
+2. Studenten die op 31 augustus 2005 of op 31 augustus 2006 zijn ingeschreven voor een voltijdse opleiding ten aanzien waarvan met ingang van 1 september 2005 onderscheidenlijk met ingang van 1 september 2006 een experiment op het terrein van collegegeldverhoging aanvangt, zijn het collegegeld, bedoeld in [artikel 7.45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.45), verschuldigd.
 
-3. Het eerste lid is van overeenkomstige toepassing op studenten die op 31 augustus 2007 of op 31 augustus van een van de volgende kalenderjaren zijn ingeschreven voor een opleiding als bedoeld in het eerste of tweede lid.
+3. Het eerste lid is van overeenkomstige toepassing op studenten die op 31 augustus 2007 of op 31 augustus van een van de volgende kalenderjaren zijn ingeschreven voor een opleiding als bedoeld in het eerste of tweede lid.
 
 ##### Artikel 19. Overgangsbepaling terugbetaling collegegeld
 
@@ -223,7 +196,7 @@ Op aanvragen als bedoeld in [artikel 7.49a van de wet](https://wetten.overheid.n
 
 ##### Artikel 20. Evaluatie
 
-Onze Minister zendt in overeenstemming met Onze Minister van Economische Zaken voor 1 juni 2008 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister zendt in overeenstemming met Onze Minister van Economische Zaken voor 1 juni 2008 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel 21. Inwerkingtreding
 
@@ -238,19 +211,3 @@ Deze wet wordt met uitzondering van de [artikelen 18](https://wetten.overheid.nl
 ##### Artikel 23. Citeertitel
 
 Deze wet wordt aangehaald als: Experimentenwet vooropleidingseisen, selectie en collegegeldheffing.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 12a. Verlenging aanwijzing van opleidingen
-
-1. Een aanwijzing als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2023-09-01&g=2023-09-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2023-09-01&g=2023-09-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=8&z=2023-09-01&g=2023-09-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=9&z=2023-09-01&g=2023-09-01) die betrekking heeft op de studiejaren 2005–2006 en 2006–2007 dan wel op het studiejaar 2006–2007, wordt verlengd voor het studiejaar 2007–2008, tenzij het instellingsbestuur Onze Minister voor 1 september 2007 meedeelt dat verlenging van de aanwijzing niet nodig is.
-
-2. Onze Minister kan op aanvraag van het instellingsbestuur besluiten een op grond van het eerste lid verlengde aanwijzing voor een of meer studiejaren te verlengen.
-
-#### Paragraaf 4. Overige bepalingen
-
-#### Paragraaf 5. Wijzigingen van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
-
-#### Paragraaf 6. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

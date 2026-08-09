@@ -1,45 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport, van 12 april 2005, nr. MC/MO-2576252, houdende vaststelling van een beleidsregel ex. artikel 13 van de Wet tarieven gezondheidszorg inzake kortingen voor universitair medische centra, algemene ziekenhuizen en categorale ziekenhuizen vanaf 2005"
+citeertitel: "Vaststellingsbesluit beleidsregel kortingen universitair medische centra, algemene ziekenhuizen en categorale ziekenhuizen vanaf 2005"
 identifier: "BWBR0018194"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2005-04-30"
-last_updated: "2005-01-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018194"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "6976003"
-version_id: "11842072"
-internal_id: "C29160391"
-label_id: "6964074"
-original_entry_into_force: "2005-04-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018194/2005-04-30/0"
-intitule_bron: "Stcrt.2005-82"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-12"
-intitule_published: "2005-04-28"
-intitule_in_force: "2005-04-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-82"
-original_signed_date: "2005-04-12"
-original_published_date: "2005-04-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-82-p21-SC69690"
-entry_into_force_date: "2005-04-30"
-jci_1_3: "jci1.3:c:BWBR0018194&z=2005-04-30&g=2005-04-30"
-jci_1_0: "1.0:c:BWBR0018194&g=2005-04-30"
-citeertitel_status: "redactioneel"
-short_title: "Vaststellingsbesluit beleidsregel kortingen universitair medische centra, algemene ziekenhuizen en categorale ziekenhuizen vanaf 2005"
-signed_date: "2005-04-12"
-entry_into_force: "2005-04-30"
+publicatiedatum: 2005-04-30
+laatste_update: 2005-04-30
+status: geldig
+toestand: 2005-04-30
+bron: "https://wetten.overheid.nl/BWBR0018194"
+opgehaald: 2026-08-09
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport, van 12 april 2005, nr. MC/MO-2576252, houdende vaststelling van een beleidsregel ex. artikel 13 van de Wet tarieven gezondheidszorg inzake kortingen voor universitair medische centra, algemene ziekenhuizen en categorale ziekenhuizen vanaf 2005
-
-Gelet op [artikel 13 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=13);
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brieven van 18 februari 2005, kenmerk MC/MO-2560920 en MC/MO-2560923);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -88,5 +61,3 @@ Voor de instellingen voor revalidatie is de indicator voor 2005 gebaseerd op gep
 ##### Artikel 6
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 januari 2005.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

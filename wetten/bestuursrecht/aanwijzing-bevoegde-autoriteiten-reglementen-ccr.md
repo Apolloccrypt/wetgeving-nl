@@ -1,60 +1,34 @@
 ---
 title: "Regeling van 2 december 2005, nr. HDJZ/SCH/2005-2257, Hoofddirectie Juridische Zaken, houdende het aanwijzen van de bevoegde autoriteiten van de reglementen van de Centrale Commissie voor de Rijnvaart (Aanwijzing bevoegde autoriteiten reglementen CCR)"
+citeertitel: "Aanwijzing bevoegde autoriteiten reglementen CCR"
 identifier: "BWBR0019146"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-27"
-last_updated: "2025-09-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019146"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "7649663"
-version_id: "12542312"
-internal_id: "C16845111"
-label_id: "7637404"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019146/2025-09-27/0"
-intitule_bron: "Stcrt.2005-238"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-02"
-intitule_published: "2005-12-07"
-intitule_in_force: "2005-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-238"
-original_signed_date: "2005-12-02"
-original_published_date: "2005-12-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-238-p14-SC72630"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0019146&z=2025-09-27&g=2025-09-27"
-jci_1_0: "1.0:c:BWBR0019146&g=2025-09-27"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing bevoegde autoriteiten reglementen CCR"
-signed_date: "2005-12-02"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2025-09-27
+status: geldig
+toestand: 2025-09-27
+bron: "https://wetten.overheid.nl/BWBR0019146"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van 2 december 2005, nr. HDJZ/SCH/2005-2257, Hoofddirectie Juridische Zaken, houdende het aanwijzen van de bevoegde autoriteiten van de reglementen van de Centrale Commissie voor de Rijnvaart (Aanwijzing bevoegde autoriteiten reglementen CCR)
-
-Gelet op [artikel 2 van het Besluit Reglement radarpatenten](https://wetten.overheid.nl/jci1.3:c:BWBR0010916&artikel=2), [artikel 2 van het Besluit Reglement Rijnpatenten 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0008935&artikel=2), [artikel 2 van het Besluit Reglement onderzoek schepen op de Rijn 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007857&artikel=2), artikel 2, eerste lid, van het Besluit Reglement veiligheidspersoneel passagiersschepen en [artikel 3 van het Besluit Rijnvaartpolitiereglement 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0006922&artikel=3);
-
-Besluit:
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
@@ -74,7 +48,7 @@ Als bevoegde autoriteiten, bedoeld in het [Rijnvaartpolitiereglement 1995](https
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -83,5 +57,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2006.
 ##### Artikel 8
 
 Deze regeling kan worden aangehaald als: Aanwijzing bevoegde autoriteiten reglementen CCR.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

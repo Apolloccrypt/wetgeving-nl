@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie van 12 januari 2005, nr. 5328243/04/DJJ, houdende aanwijzing van gevallen waarin de raad voor de kinderbescherming de stichting kan inschakelen voor vrijwillige begeleiding van een jeugdige (Regeling vrijwillige begeleiding jeugdreclassering)"
+citeertitel: "Regeling vrijwillige begeleiding jeugdreclassering"
 identifier: "BWBR0017895"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0017895"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "6645493"
-version_id: "26357862"
-internal_id: "C37458701"
-label_id: "6633874"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0017895/2020-01-01/0"
-intitule_bron: "Stcrt.2005-11"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-01-12"
-intitule_published: "2005-01-17"
-intitule_in_force: "2005-01-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-69780"
-original_signed_date: "2019-12-13"
-original_published_date: "2019-12-27"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2019-69780"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0017895&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0017895&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vrijwillige begeleiding jeugdreclassering"
-signed_date: "2019-12-13"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0017895"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de Minister van Justitie van 12 januari 2005, nr. 5328243/04/DJJ, houdende aanwijzing van gevallen waarin de raad voor de kinderbescherming de stichting kan inschakelen voor vrijwillige begeleiding van een jeugdige (Regeling vrijwillige begeleiding jeugdreclassering)
-
-Gelet op [artikel 77hh, tweede lid, van het Wetboek van Strafrecht;](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77hh)
-
-Besluit:
 
 ##### Artikel 1
 
@@ -96,10 +70,6 @@ Deze regeling berust op [artikel 6:1:25, tweede lid, van het Wetboek van Strafvo
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2005.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vrijwillige begeleiding jeugdreclassering.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

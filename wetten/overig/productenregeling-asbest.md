@@ -1,43 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 februari 2005, nr. MJZ2005 019083, houdende regels met betrekking tot het bepalen van de concentratie asbest in producten (Productenregeling asbest)"
+citeertitel: "Productenregeling asbest"
 identifier: "BWBR0018026"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-11-30"
-last_updated: "2018-11-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0018026"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "6804343"
-version_id: "11676852"
-internal_id: "C15737701"
-label_id: "6792564"
-original_entry_into_force: "2005-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0018026/2018-11-30/0"
-intitule_bron: "Stcrt.2005-40"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-02-16"
-intitule_published: "2005-02-25"
-intitule_in_force: "2005-02-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-40"
-original_signed_date: "2005-02-16"
-original_published_date: "2005-02-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-40-p18-SC68992"
-entry_into_force_date: "2005-03-08"
-jci_1_3: "jci1.3:c:BWBR0018026&z=2018-11-30&g=2018-11-30"
-jci_1_0: "1.0:c:BWBR0018026&g=2018-11-30"
-citeertitel_status: "officieel"
-short_title: "Productenregeling asbest"
-signed_date: "2005-02-16"
-entry_into_force: "2005-03-08"
+publicatiedatum: 2005-03-08
+laatste_update: 2018-11-30
+status: geldig
+toestand: 2018-11-30
+bron: "https://wetten.overheid.nl/BWBR0018026"
+opgehaald: 2026-08-09
 ---
+
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 februari 2005, nr. MJZ2005 019083, houdende regels met betrekking tot het bepalen van de concentratie asbest in producten (Productenregeling asbest)
-
-Gelet op [artikel 2, onderdeel b, van het Productenbesluit asbest](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -74,5 +49,3 @@ Deze regeling treedt in werking met ingang van 8 maart 2005.
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Productenregeling asbest.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
