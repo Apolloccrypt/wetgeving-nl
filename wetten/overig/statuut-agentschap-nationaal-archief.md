@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 7 mei 2006, nr. WJZ/2006/4662 (8175), houdende regels inzake het agentschap Nationaal Archief (Statuut agentschap Nationaal Archief)"
+citeertitel: "Statuut agentschap Nationaal Archief"
 identifier: "BWBR0019832"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-09-05"
-last_updated: "2007-09-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019832"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "8269393"
-version_id: "14728342"
-internal_id: "C20042321"
-label_id: "8250604"
-dtd_version: "2.0"
-original_entry_into_force: "2007-08-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019832/2007-09-05/0"
-intitule_bron: "Stcrt.2006-93"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-05-07"
-intitule_published: "2006-05-12"
-intitule_in_force: "2006-05-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-169"
-original_signed_date: "2007-08-28"
-original_published_date: "2007-09-03"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2007-169-p7-SC81997"
-entry_into_force_date: "2007-08-28"
-jci_1_3: "jci1.3:c:BWBR0019832&z=2007-09-05&g=2007-09-05"
-jci_1_0: "1.0:c:BWBR0019832&g=2007-09-05"
-citeertitel_status: "officieel"
-short_title: "Statuut agentschap Nationaal Archief"
-signed_date: "2007-08-28"
-entry_into_force: "2007-08-28"
+publicatiedatum: 2007-08-28
+laatste_update: 2007-09-05
+status: geldig
+toestand: 2007-09-05
+bron: "https://wetten.overheid.nl/BWBR0019832"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 7 mei 2006, nr. WJZ/2006/4662 (8175), houdende regels inzake het agentschap Nationaal Archief (Statuut agentschap Nationaal Archief)
-
-Gelet op [artikel 25, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=25) en [artikel 10, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=10);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -53,6 +27,10 @@ In deze regeling wordt verstaan onder:
 ##### Artikel 2
 
 Het agentschap Nationaal Archief is een baten-lastendienst als bedoeld in [artikel 10, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=10).
+
+##### Artikel 2a
+
+Het agentschap Nationaal Archief kent een algemene rijksarchivaris en een directeur.
 
 ##### Artikel 3
 
@@ -151,11 +129,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Statuut agentschap Nationaal Archief.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Het agentschap Nationaal Archief kent een algemene rijksarchivaris en een directeur.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

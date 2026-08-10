@@ -1,41 +1,39 @@
 ---
 title: "Beleidsregel recreatief medegebruik van defensieterreinen"
 identifier: "BWBR0019360"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2005-12-21"
-last_updated: "2005-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019360"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "7726973"
-version_id: "12617082"
-internal_id: "C16987961"
-label_id: "7715524"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019360/2005-12-21/0"
-intitule_bron: "Stcrt.2005-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-21"
-intitule_published: "2005-12-21"
-intitule_in_force: "2005-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-248"
-original_signed_date: "2005-12-21"
-original_published_date: "2005-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-248-p28-SC72790"
-entry_into_force_date: "2005-12-21"
-jci_1_3: "jci1.3:c:BWBR0019360&z=2005-12-21&g=2005-12-21"
-jci_1_0: "1.0:c:BWBR0019360&g=2005-12-21"
-citeertitel_status: "redactioneel"
-signed_date: "2005-12-21"
-entry_into_force: "2005-12-21"
+publicatiedatum: 2005-12-21
+laatste_update: 2005-12-21
+status: geldig
+toestand: 2005-12-21
+bron: "https://wetten.overheid.nl/BWBR0019360"
+opgehaald: 2026-08-10
 ---
+
 # Beleidsregel recreatief medegebruik van defensieterreinen
 
 ### Inhoud
+
+- 1. Inleiding
+
+- 2. Functie defensieterreinen
+
+- 3. Huidig recreatief medegebruik van defensieterreinen
+
+- 4. Beleid met betrekking tot recreatief medegebruik van defensieterreinen
+
+- Toelichting
+
+- 5. Vormen van recreatief medegebruik van defensieterreinen
+
+- 6. Toepassing van het beleid met betrekking tot recreatief medegebruik van defensieterreinen
+
+- 7. Procedure vergund recreatief medegebruik
+
+- 8. Consequenties
+
+- 9. Evaluatie en kennisgeving
 
 ### 1. Inleiding
 
@@ -75,6 +73,14 @@ Opengesteld zijn alle oefenterreinen van Defensie met enkele uitzonderingen. De 
 
 De voor recreatief medegebruik opengestelde terreinen zijn voorzien van bebording, waarop de voorwaarden van toegang zijn aangegeven. In algemene zin zijn deze voorwaarden als volgt ingevuld:
 
+- 1. wandelen en fietsen slechts toegestaan op wegen en paden;
+
+- 2. geen loslopende honden;
+
+- 3. gebruik van motorvoertuigen is verboden;
+
+- 4. geen toegang van zonsondergang tot zonsopgang.
+
 Per terrein worden deze voorwaarden aangevuld, bij voorbeeld voor mountainbike- en ruiterroutes.
 
 ### 2. Vergund medegebruik
@@ -106,6 +112,12 @@ Veel defensieterreinen behoren tot het natuurlijk erfgoed van ons land en natuur
 ### 3. Niet natuurgericht recreatief medegebruik
 
 Niet natuurgericht recreatief medegebruik wordt niet toegestaan, tenzij het voldoet aan de volgende drie randvoorwaarden:
+
+- – Niet schadelijk voor de natuur en of het milieu;
+
+- – Niet schadelijk of hinderlijk voor het natuurgericht recreatief medegebruik;
+
+- – Geen alternatieven in de omgeving beschikbaar.
 
 Onder niet natuurgericht medegebruik vallen o.a. rijden met mountainbikes buiten wegen en paden, motor- en autosport.
 

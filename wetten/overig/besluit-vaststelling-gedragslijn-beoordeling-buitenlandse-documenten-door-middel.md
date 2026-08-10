@@ -1,42 +1,18 @@
 ---
 title: "Besluit van 3 april 2006, nr. DJZ/BR/0251-2006, van de Minister van Buitenlandse Zaken, tot vaststelling van een gedragslijn voor de beoordeling van buitenlandse documenten door middel van legalisatie en verificatie"
+citeertitel: "Besluit vaststelling gedragslijn beoordeling buitenlandse documenten door middel van legalisatie en verificatie"
 identifier: "BWBR0019727"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-07-01"
-last_updated: "2010-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019727"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8259483"
-version_id: "13098102"
-internal_id: "C17644921"
-label_id: "8240624"
-dtd_version: "2.0"
-original_entry_into_force: "2006-05-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019727/2010-07-01/0"
-intitule_bron: "Stcrt.2006-91"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-04-03"
-intitule_published: "2006-05-10"
-intitule_in_force: "2006-05-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-91"
-original_signed_date: "2006-04-03"
-original_published_date: "2006-05-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-91-p11-SC74889"
-entry_into_force_date: "2006-05-12"
-jci_1_3: "jci1.3:c:BWBR0019727&z=2010-07-01&g=2010-07-01"
-jci_1_0: "1.0:c:BWBR0019727&g=2010-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vaststelling gedragslijn beoordeling buitenlandse documenten door middel van legalisatie en verificatie"
-signed_date: "2006-04-03"
-entry_into_force: "2006-05-12"
+publicatiedatum: 2006-05-12
+laatste_update: 2010-07-01
+status: geldig
+toestand: 2010-07-01
+bron: "https://wetten.overheid.nl/BWBR0019727"
+opgehaald: 2026-08-10
 ---
-# Besluit van 3 april 2006, nr. DJZ/BR/0251-2006, van de Minister van Buitenlandse Zaken, tot vaststelling van een gedragslijn voor de beoordeling van buitenlandse documenten door middel van legalisatie en verificatie
 
-Besluit:
+# Besluit van 3 april 2006, nr. DJZ/BR/0251-2006, van de Minister van Buitenlandse Zaken, tot vaststelling van een gedragslijn voor de beoordeling van buitenlandse documenten door middel van legalisatie en verificatie
 
 ##### Artikel 1. Definities
 
@@ -101,5 +77,3 @@ Ingevolge [artikel 7, eerste lid, van de Rijkswet op de consulaire tarieven](htt
 ##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit wordt met de daarbij behorende toelichting in de Staatscourant geplaatst.

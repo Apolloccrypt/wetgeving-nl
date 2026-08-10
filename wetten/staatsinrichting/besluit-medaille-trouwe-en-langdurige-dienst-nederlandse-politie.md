@@ -1,74 +1,46 @@
 ---
 title: "Besluit van 7 maart 2006, houdende instelling van de medaille voor trouwe en langdurige dienst Nederlandse politie"
+citeertitel: "Besluit medaille trouwe en langdurige dienst Nederlandse politie"
 identifier: "BWBR0019627"
-country: "nl"
-rank: "kb"
-publication_date: "2023-07-07"
-last_updated: "2023-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019627"
+categorie: "Overig"
 soort: "KB"
-stam_id: "8173263"
-version_id: "17364092"
-internal_id: "C23958971"
-label_id: "8154464"
-dtd_version: "2.0"
-original_entry_into_force: "2010-05-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019627/2023-07-07/0"
-intitule_bron: "Stb.2006-165"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-03-07"
-intitule_published: "2006-03-31"
-intitule_in_force: "2006-03-31"
-intitule_status: "goed"
-original_publication: "Stb.2010-189"
-original_signed_date: "2010-05-03"
-original_published_date: "2010-05-28"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2010-189"
-entry_into_force_date: "2010-05-03"
-jci_1_3: "jci1.3:c:BWBR0019627&z=2023-07-07&g=2023-07-07"
-jci_1_0: "1.0:c:BWBR0019627&g=2023-07-07"
-citeertitel_status: "officieel"
-short_title: "Besluit medaille trouwe en langdurige dienst Nederlandse politie"
-signed_date: "2010-05-03"
-entry_into_force: "2010-05-03"
+publicatiedatum: 2010-05-03
+laatste_update: 2023-07-07
+status: geldig
+toestand: 2023-07-07
+bron: "https://wetten.overheid.nl/BWBR0019627"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 7 maart 2006, houdende instelling van de medaille voor trouwe en langdurige dienst Nederlandse politie
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 februari 2006, kenmerk 2005-0000294185, directoraat-generaal Veiligheid;
-
-Overwegende dat het uitreiken van een medaille voor trouwe en langdurige dienst bijdraagt aan de waardering voor het functioneren van de ambtenaar, aangesteld voor de uitvoering van de politietaak;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **ambtenaar:**
+- *ambtenaar:*
 
-- 1°. de ambtenaar van politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
+   - 1°. de ambtenaar van politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
 
-- 2°. de ambtenaar, bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover diegene in de hoedanigheid van buitengewoon opsporingsambtenaar, als bedoeld in [artikel 142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), met uitvoerende politietaken is belast;
+   - 2°. de ambtenaar, bedoeld in [artikel 2, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover diegene in de hoedanigheid van buitengewoon opsporingsambtenaar, als bedoeld in [artikel 142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), met uitvoerende politietaken is belast;
 
-- 3°. de vrijwillige ambtenaar, bedoeld in [artikel 2, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover diegene is aangesteld voor de uitvoering van de politietaak onderscheidenlijk voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, voor zover diegene in de hoedanigheid van buitengewoon opsporingsambtenaar als bedoeld in [artikel 142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), met uitvoerende politietaken is belast;
+   - 3°. de vrijwillige ambtenaar, bedoeld in [artikel 2, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover diegene is aangesteld voor de uitvoering van de politietaak onderscheidenlijk voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, voor zover diegene in de hoedanigheid van buitengewoon opsporingsambtenaar als bedoeld in [artikel 142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), met uitvoerende politietaken is belast;
 
-- 4°. de ambtenaar, bedoeld in [artikel 2, onderdeel d, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover diegene is aangesteld voor de uitvoering van de politietaak;
+   - 4°. de ambtenaar, bedoeld in [artikel 2, onderdeel d, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover diegene is aangesteld voor de uitvoering van de politietaak;
 
-- **bevoegd gezag:** de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) of het College van procureurs-generaal;
+- *bevoegd gezag:* de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) of het College van procureurs-generaal;
 
-- **jaarteken:** een teken met de aanduiding 25 of 40;
+- *jaarteken:* een teken met de aanduiding 25 of 40;
 
-- **medaille:** de medaille voor trouwe en langdurige dienst bij de Nederlandse politie;
+- *medaille:* de medaille voor trouwe en langdurige dienst bij de Nederlandse politie;
 
-- **Onze Minister:** Onze Minister van Justitie en Veiligheid;
+- *Onze Minister:* Onze Minister van Justitie en Veiligheid;
 
-- **oorkonde:** de bij de medaille behorende oorkonde zoals weergegeven in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&bijlage=1&z=2023-07-07&g=2023-07-07);
+- *oorkonde:* de bij de medaille behorende oorkonde zoals weergegeven in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&bijlage=1&z=2023-07-07&g=2023-07-07);
 
-- **oorkonde jaarteken:** de bij het jaarteken behorende oorkonde zoals weergegeven in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&bijlage=2&z=2023-07-07&g=2023-07-07);
+- *oorkonde jaarteken:* de bij het jaarteken behorende oorkonde zoals weergegeven in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&bijlage=2&z=2023-07-07&g=2023-07-07);
 
-- **wezenlijke onderbreking:** een onderbreking van langer dan zes maanden, tenzij dit naar oordeel van het bevoegd gezag leidt tot een onbillijkheid van overwegende aard.
+- *wezenlijke onderbreking:* een onderbreking van langer dan zes maanden, tenzij dit naar oordeel van het bevoegd gezag leidt tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 2
 
@@ -133,97 +105,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit medaille trouwe en langdurige dienst Nederlandse politie.
-
-## Bijlage 1. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&artikel=1&z=2023-07-07&g=2023-07-07)
-
-Medaille voor trouwe en langdurige dienst Nederlandse Politie
-
-De korpschef, daartoe gemachtigd door de Minister van Justitie en Veiligheid, verleent hierbij als blijk van waardering voor de uitvoering van de politietaak gedurende ........1Aantal jubileumjaren vermelden. jaren vanwege Zijne Majesteit de Koning, de medaille voor trouwe en langdurige dienst Nederlandse Politie aan.........2Naam decorandus vermelden.
-
-Gegeven te........3Vestigingsplaats korpschef vermelden. op..........4Datum vermelden.
-
-De korpschef5Handtekening korpschef.
-
-### Medaille voor trouwe en langdurige dienst Nederlandse Politie
-
-De Korpsbeheerder van ............1Naam van het regiokorps vermelden., daartoe gemachtigd door de Minister van Binnenlandse Zaken en Koninkrijksrelaties, verleent hierbij als blijk van waardering voor de uitvoering van de politietaak gedurende ............2Aantal jubileumjaren vermelden. jaren vanwege Hare Majesteit de Koningin, de medaille voor trouwe en langdurige dienst Nederlandse Politie aan ............3Naam decorandus vermelden.
-
-Gegeven te ............4Vestigingsplaats korpsbeheerder vermelden. op ............5Datum vermelden.
-
-De Korpsbeheerder, 6Handtekening korpsbeheerder.
-
-## Bijlage 6. als bedoeld in artikel 1, onder e
-
-Vervallen
-
-### Jaarteken Medaille voor trouwe en langdurige dienst Nederlandse Politie
-
-De korpsbeheerder van ............1Naam van het regiokorps vermelden., daartoe gemachtigd door de Minister van Binnenlandse Zaken en Koninkrijksrelaties, verleent hierbij als blijk van waardering voor de uitvoering van de politietaak gedurende ............2Aantal jubileumjaren vermelden. jaren vanwege Hare Majesteit de Koningin, het jaarteken dat behoort bij de medaille voor trouwe en langdurige dienst Nederlandse Politie aan ............3Naam decorandus vermelden.
-
-Gegeven te ............4Vestigingsplaats korpsbeheerder vermelden. op ............5Datum vermelden.
-
-De korpsbeheerder, 6Handtekening korpsbeheerder.
-
-## Bijlage 3. als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&artikel=1&z=2010-05-29&g=2010-05-29)
-
-### Medaille voor trouwe en langdurige dienst Nederlandse Politie
-
-De Korpsbeheerder van het Korps Landelijke Politiediensten verleent hierbij als blijk van waardering voor de uitvoering van de politietaak gedurende ............1Aantal jubileumjaren vermelden. jaren vanwege Hare Majesteit de Koningin, de medaille voor trouwe en langdurige dienst Nederlandse Politie aan ............2Naam decorandus vermelden.
-
-Gegeven te ............3Vestigingsplaats korpsbeheerder vermelden. op ............4Datum vermelden.
-
-De korpsbeheerder,
-
-## Bijlage 4. als bedoeld in [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&artikel=1&z=2010-05-29&g=2010-05-29)
-
-### Jaarteken Medaille voor trouwe en langdurige dienst Nederlandse Politie
-
-De Korpsbeheerder van het Korps Landelijke Politiediensten verleent hierbij als blijk van waardering voor de uitvoering van de politietaak gedurende ............1Aantal jubileumjaren vermelden. jaren vanwege Hare Majesteit de Koningin, het jaarteken dat behoort bij de medaille voor trouwe en langdurige dienst Nederlandse Politie aan ............2Naam decorandus vermelden.
-
-Gegeven te ............3Vestigingsplaats korpsbeheerder vermelden. op ............4Datum vermelden.
-
-De korpsbeheerder,
-
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
-
-## Bijlage 5. als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&artikel=1&z=2010-05-29&g=2010-05-29)
-
-### Medaille voor trouwe en langdurige dienst Nederlandse Politie
-
-De Minister van Justitie verleent hierbij als blijk van waardering voor de uitvoering van de politietaak gedurende ............1Aantal jubileumjaren vermelden.jaren vanwege Hare Majesteit de Koningin, de medaille voor trouwe en langdurige dienst Nederlandse Politie aan ............2Naam decorandus vermelden.
-
-Gegeven te ............3Vestigingsplaats vermelden.op ............4Datum vermelden.
-
-## Bijlage 6. als bedoeld in [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&artikel=1&z=2010-05-29&g=2010-05-29)
-
-### Jaarteken Medaille voor trouwe en langdurige dienst Nederlandse Politie
-
-De Minister van Justitie verleent hierbij als blijk van waardering voor de uitvoering van de politietaak gedurende ............1Aantal jubileumjaren vermelden.jaren vanwege Hare Majesteit de Koningin, het jaarteken dat behoort bij de medaille voor trouwe en langdurige dienst Nederlandse Politie aan ............2Naam decorandus vermelden.
-
-Gegeven te ............3Vestigingsplaats vermelden.op ............4Datum vermelden.
-
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
-
-## Bijlage 2. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&artikel=1&z=2023-07-07&g=2023-07-07)
-
-Medaille voor trouwe en langdurige dienst Nederlandse Politie
-
-De korpschef, daartoe gemachtigd door de Minister van Justitie en Veiligheid, verleent hierbij als blijk van waardering voor de uitvoering van de politietaak gedurende ........1Aantal jubileumjaren vermelden. jaren vanwege Zijne Majesteit de Koning, het jaarteken dat behoort bij de medaille voor trouwe en langdurige dienst Nederlandse Politie aan.........2Naam decorandus vermelden.
-
-Gegeven te........3Vestigingsplaats korpschef vermelden. op..........4Datum vermelden.
-
-De korpschef5Handtekening korpschef.
-
-## Bijlage 3. als bedoeld in artikel 1, onder c
-
-Vervallen
-
-## Bijlage 4. als bedoeld in artikel 1, onder e
-
-Vervallen
-
-## Bijlage 5. als bedoeld in artikel 1, onder c
-
-Vervallen
-
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.

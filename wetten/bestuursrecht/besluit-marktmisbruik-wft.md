@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 12 oktober 2006, houdende regels tot uitvoering van diverse bepalingen van hoofdstuk 5.4 van de Wet op het financieel toezicht (Besluit marktmisbruik Wft)"
+citeertitel: "Besluit marktmisbruik Wft"
 identifier: "BWBR0020417"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-04-01"
-last_updated: "2024-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020417"
+categorie: "Financieel recht"
 soort: "AMvB"
-stam_id: "8689753"
-version_id: "13714072"
-internal_id: "C18906341"
-label_id: "8670394"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020417/2024-04-01/0"
-intitule_bron: "Stb.2006-510"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-10-12"
-intitule_published: "2006-10-31"
-intitule_in_force: "2006-12-20"
-intitule_status: "goed"
-original_publication: "Stb.2006-510"
-original_signed_date: "2006-10-12"
-original_published_date: "2006-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2006-510"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020417&z=2024-04-01&g=2024-04-01"
-jci_1_0: "1.0:c:BWBR0020417&g=2024-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit marktmisbruik Wft"
-signed_date: "2006-10-12"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2024-04-01
+status: geldig
+toestand: 2024-04-01
+bron: "https://wetten.overheid.nl/BWBR0020417"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 12 oktober 2006, houdende regels tot uitvoering van diverse bepalingen van hoofdstuk 5.4 van de Wet op het financieel toezicht (Besluit marktmisbruik Wft)
-
-Op de voordracht van Onze Minister van Financiën van 20 april 2006, nr. FM 2006-00969 M;
-
-Gelet op [richtlijn nr. 2003/6/EG](32003L0006) van het Europees Parlement en de Raad van de Europese Unie van 28 januari 2003 betreffende handel met voorwetenschap en marktmanipulatie (PbEU L 96), [richtlijn nr. 2003/124/EG](32003L0124) van de Europese Commissie van 22 december 2003 tot uitvoering van [richtlijn nr. 2003/6/EG](32003L0006) van het Europees Parlement en de Raad wat de definitie en openbaarmaking van voorwetenschap en de definitie van marktmanipulatie betreft (PbEU L 339), [richtlijn nr. 2003/125/EG](32003L0125) van de Commissie van de Europese Gemeenschappen van 22 december 2003 tot uitvoering van [richtlijn 2003/6/EG](32003L0006) van het Europees Parlement en de Raad wat de juiste voorstelling van beleggingsaanbevelingen en de bekendmaking van belangenconflicten betreft (PbEU L 339), [richtlijn nr. 2004/72/EG](32004L0072) van de Commissie van de Europese Gemeenschappen van 29 april 2004 tot uitvoering van [richtlijn nr. 2003/6/EG](32003L0006) van het Europees Parlement en de Raad wat gebruikelijke marktpraktijken, de definitie van voorwetenschap met betrekking tot van grondstoffen afgeleide instrumenten, het opstellen van lijsten van personen met voorwetenschap, de melding van transacties van leidinggevende personen en de melding van verdachte transacties betreft (PbEU L 162) en [richtlijn nr. 2004/109/EG](32004L0109) van het Europees Parlement en de Raad van de Europese Unie van 15 december 2004 betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten en tot wijziging van [Richtlijn 2001/34/EG](32001L0034) (PbEU L 390), alsmede de [artikelen 5:56, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:56), [5:57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:57), [5:58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:58), [5:59, vierde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:59), [5:60, eerste lid, aanhef en onderdeel d, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:60), [5:62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:62), [5:64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:64), [5:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:65) en [5:68, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68);
-
-De Raad van State gehoord (advies van 3 juli 2006, nr. W06.06.0135/IV);
-
-Gezien het nader rapport van Onze Minister van Financiën van 9 oktober 2006, nr. FM 2006-01695U;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -58,19 +26,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. privé-transactie: transactie in een financieel instrument voor eigen rekening of ten behoeve van een derde op wiens beleggingen de betrokkene, anders dan uit hoofde van het verlenen van een beleggingsdienst, invloed uitoefent.
 
-### Hoofdstuk 2. Uitzonderingen op de wettelijke verboden
+##### Artikel 1a
+
+Dit besluit berust mede op de [artikelen 1:3a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:3a), [3:10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10), [3:17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), [4:11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11), en [4:14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14), [artikel 143, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143) en [artikel 138, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138).
+
+### Hoofdstuk 2. Bepalingen ter uitvoering van de verordening marktmisbruik
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. Meldingsveprlichtingen, lijsten van personen die toegang hebben tot koersgevoelige informatie en het reglement
 
@@ -78,33 +50,33 @@ Vervallen
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 #### § 3.2. Lijst van personen die op regelmatige of incidentele basis kennis kunnen hebben van koersgevoelige informatie en reglement
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. Openbaarmaking van koersgevoelige informatie
 
@@ -112,43 +84,43 @@ Vervallen
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 #### § 4.2. Uitzonderingen op de verplichting tot onverwijlde openbaarmaking
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. Voorkoming van publiekmisleiding door beleggingsaanbevelingen
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 6. Optreden op markten in financiële instrumenten
 
-#### § 6.1. Algemene bepalingen
+#### § 6.1. Bepalingen ter uitvoering van artikel 5:68, eerste en vierde lid, van de wet
 
 ##### Artikel 20
 
@@ -161,6 +133,28 @@ Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://we
 - a. te vermijden dat voorwetenschap bekend wordt buiten de kring van personen die uit hoofde van de uitoefening van werk, beroep of functie daarmee bekend dienen te zijn;
 
 - b. te waarborgen dat aan de onderneming verbonden personen de uiterste zorgvuldigheid betrachten in de behandeling van informatie waarvan zij weten of redelijkerwijs moeten vermoeden dat deze moet worden aangemerkt als voorwetenschap.
+
+##### Artikel 21a
+
+1. Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68), niet zijnde een clearinginstelling, treft adequate maatregelen teneinde te vermijden dat zij:
+
+- a. transacties uitvoert of laat uitvoeren met als oogmerk een financieel instrument te verwerven of aan te bieden dat is uitgegeven door een onderneming die clustermunitie als bedoeld in artikel 2 van het op 30 mei 2008 te Dublin tot stand gekomen Verdrag inzake clustermunitie (Trb. 2009, 45), of cruciale onderdelen daarvan, produceert, verkoopt of distribueert;
+
+- b. leningen verstrekt aan een onderneming als bedoeld in onderdeel a;
+
+- c. niet vrij verhandelbare deelnemingen in het kapitaal van een onderneming als bedoeld in onderdeel a verwerft.
+
+2. Het eerste lid is van overeenkomstige toepassing op het uitvoeren of laten uitvoeren van transacties met als oogmerk een financieel instrument te verwerven of aan te bieden dat is uitgegeven door een onderneming die meer dan de helft van het aandelenkapitaal in een onderneming als bedoeld in het eerste lid, onderdeel a, houdt en op leningen aan of niet vrij verhandelbare deelnemingen in een zodanige onderneming.
+
+3. Het eerste lid is niet van toepassing op:
+
+- a. transacties gebaseerd op een index die voor minder dan vijf procent bestaat uit ondernemingen als bedoeld in het eerste lid, onderdeel a;
+
+- b. transacties in door derden beheerde beleggingsinstellingen die voor minder dan vijf procent bestaan uit ondernemingen als bedoeld in het eerste lid, onderdeel a; en
+
+- c. investeringen in nauwkeurig omschreven projecten van een onderneming als bedoeld in het eerste lid, onderdeel a, voor zover de financiering niet wordt aangewend voor de productie, verkoop of distributie van clustermunitie.
+
+4. Onverminderd het eerste lid, dienen ondernemingen die financiële instrumenten, leningen of niet vrij verhandelbare deelnemingen als bedoeld in het eerste lid bezitten, deze binnen een redelijke termijn van de hand te doen of te beëindigen.
 
 ##### Artikel 22
 
@@ -192,7 +186,7 @@ Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://we
 
 - a. clearinginstellingen;
 
-- b. banken die geen beleggingsdiensten mogen verlenen of beleggingsactiviteiten mogen verrichten, beheerders van beleggingsinstellingen, beheerders van icbe’s, beleggingsmaatschappijen, financiële instellingen die een verklaring van ondertoezichtstelling hebben verkregen, maatschappij voor collectieve belegging in effecten, ondernemingsspaarfondsen, pensioenfondsen en verzekeraars, die beschikken over een gekwalificeerde deelneming in een uitgevende instelling of waarvan de transacties in financiële instrumenten gedurende het afgelopen kalenderjaar € 20 miljoen of meer hebben bedragen.
+- b. banken die geen beleggingsdiensten mogen verlenen of beleggingsactiviteiten mogen verrichten, beheerders van beleggingsinstellingen, beheerders van icbe’s, beleggingsmaatschappijen, financiële instellingen die een verklaring van ondertoezichtstelling hebben verkregen, maatschappij voor collectieve belegging in effecten, ondernemingsspaarfondsen, pensioenfondsen en verzekeraars, die beschikken over een gekwalificeerde deelneming in een uitgevende instelling of waarvan de transacties in financiële instrumenten gedurende het afgelopen kalenderjaar € 20 miljoen of meer hebben bedragen.
 
 3. Tot de transacties in financiële instrumenten, bedoeld in het tweede lid, onderdeel b, worden niet gerekend:
 
@@ -240,11 +234,11 @@ De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/j
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -259,57 +253,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 32
 
 Dit besluit wordt aangehaald als: Besluit marktmisbruik Wft.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op de [artikelen 1:3a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:3a), [3:10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10), [3:17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), [4:11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11), en [4:14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14), [artikel 143, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143) en [artikel 138, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138).
-
-### Hoofdstuk 2. Bepalingen ter uitvoering van de verordening marktmisbruik
-
-### Hoofdstuk 3. Meldingsveprlichtingen, lijsten van personen die toegang hebben tot koersgevoelige informatie en het reglement
-
-#### § 3.1. Melding van transacties
-
-#### § 3.2. Lijst van personen die op regelmatige of incidentele basis kennis kunnen hebben van koersgevoelige informatie en reglement
-
-### Hoofdstuk 4. Openbaarmaking van koersgevoelige informatie
-
-#### § 4.1. De wijze van openbaarmaking
-
-#### § 4.2. Uitzonderingen op de verplichting tot onverwijlde openbaarmaking
-
-### Hoofdstuk 5. Voorkoming van publiekmisleiding door beleggingsaanbevelingen
-
-### Hoofdstuk 6. Optreden op markten in financiële instrumenten
-
-#### § 6.1. Bepalingen ter uitvoering van [artikel 5:68, eerste en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68)
-
-##### Artikel 21a
-
-1. Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68), niet zijnde een clearinginstelling, treft adequate maatregelen teneinde te vermijden dat zij:
-
-- a. transacties uitvoert of laat uitvoeren met als oogmerk een financieel instrument te verwerven of aan te bieden dat is uitgegeven door een onderneming die clustermunitie als bedoeld in artikel 2 van het op 30 mei 2008 te Dublin tot stand gekomen Verdrag inzake clustermunitie (Trb. 2009, 45), of cruciale onderdelen daarvan, produceert, verkoopt of distribueert;
-
-- b. leningen verstrekt aan een onderneming als bedoeld in onderdeel a;
-
-- c. niet vrij verhandelbare deelnemingen in het kapitaal van een onderneming als bedoeld in onderdeel a verwerft.
-
-2. Het eerste lid is van overeenkomstige toepassing op het uitvoeren of laten uitvoeren van transacties met als oogmerk een financieel instrument te verwerven of aan te bieden dat is uitgegeven door een onderneming die meer dan de helft van het aandelenkapitaal in een onderneming als bedoeld in het eerste lid, onderdeel a, houdt en op leningen aan of niet vrij verhandelbare deelnemingen in een zodanige onderneming.
-
-3. Het eerste lid is niet van toepassing op:
-
-- a. transacties gebaseerd op een index die voor minder dan vijf procent bestaat uit ondernemingen als bedoeld in het eerste lid, onderdeel a;
-
-- b. transacties in door derden beheerde beleggingsinstellingen die voor minder dan vijf procent bestaan uit ondernemingen als bedoeld in het eerste lid, onderdeel a; en
-
-- c. investeringen in nauwkeurig omschreven projecten van een onderneming als bedoeld in het eerste lid, onderdeel a, voor zover de financiering niet wordt aangewend voor de productie, verkoop of distributie van clustermunitie.
-
-4. Onverminderd het eerste lid, dienen ondernemingen die financiële instrumenten, leningen of niet vrij verhandelbare deelnemingen als bedoeld in het eerste lid bezitten, deze binnen een redelijke termijn van de hand te doen of te beëindigen.
-
-#### § 6.2. Gedragscode voor privé-transacties
-
-### Hoofdstuk 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

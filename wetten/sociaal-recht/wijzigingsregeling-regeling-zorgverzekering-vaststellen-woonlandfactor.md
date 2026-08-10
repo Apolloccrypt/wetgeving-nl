@@ -1,48 +1,22 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2006, nr Z/VV-2686154, houdende wijziging van de Regeling zorgverzekering in verband met het vaststellen van de woonlandfactor ten behoeve van de gedifferentieerde berekening van de bijdrage voor verdragsgerechtigden"
+citeertitel: "Wijzigingsregeling Regeling zorgverzekering (vaststellen woonlandfactor)"
 identifier: "BWBR0019901"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-06-02"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019901"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "8310153"
-version_id: "13176292"
-internal_id: "C29247001"
-label_id: "8291084"
-dtd_version: "2.0"
-original_entry_into_force: "2006-06-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019901/2006-06-02/0"
-intitule_bron: "Stcrt.2006-104"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-05-23"
-intitule_published: "2006-05-31"
-intitule_in_force: "2006-05-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-104"
-original_signed_date: "2006-05-23"
-original_published_date: "2006-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-104-p12-SC75318"
-entry_into_force_date: "2006-06-02"
-jci_1_3: "jci1.3:c:BWBR0019901&z=2006-06-02&g=2006-06-02"
-jci_1_0: "1.0:c:BWBR0019901&g=2006-06-02"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsregeling Regeling zorgverzekering (vaststellen woonlandfactor)"
-signed_date: "2006-05-23"
-entry_into_force: "2006-06-02"
+publicatiedatum: 2006-06-02
+laatste_update: 2006-06-02
+status: geldig
+toestand: 2006-06-02
+bron: "https://wetten.overheid.nl/BWBR0019901"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2006, nr Z/VV-2686154, houdende wijziging van de Regeling zorgverzekering in verband met het vaststellen van de woonlandfactor ten behoeve van de gedifferentieerde berekening van de bijdrage voor verdragsgerechtigden
-
-Gelet op [artikel 69, tweede en vijfde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69);
-
-Besluit:
 
 ##### Artikel I
 
-Wijzigt de Regeling zorgverzekering.
+*Wijzigt de Regeling zorgverzekering.*
 
 ##### Artikel II
 
@@ -51,5 +25,3 @@ Indien de op grond van [artikel 6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0
 ##### Artikel III
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2006.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

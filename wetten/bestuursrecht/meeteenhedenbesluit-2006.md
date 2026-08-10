@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 12 oktober 2006, tot uitvoering van artikel 2 van de Metrologiewet en ter implementatie van enkele Europese richtlijnen (Meeteenhedenbesluit 2006)"
+citeertitel: "Meeteenhedenbesluit 2006"
 identifier: "BWBR0020422"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-06-13"
-last_updated: "2020-06-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020422"
+categorie: "Internationaal recht"
 soort: "AMvB"
-stam_id: "8740883"
-version_id: "17918412"
-internal_id: "C24728441"
-label_id: "8721014"
-dtd_version: "2.0"
-original_entry_into_force: "2010-09-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020422/2020-06-13/0"
-intitule_bron: "Stb.2006-575"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-10-12"
-intitule_published: "2006-11-28"
-intitule_in_force: "2007-01-30"
-intitule_status: "goed"
-original_publication: "Stb.2010-366"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2010-366"
-entry_into_force_date: "2010-09-27"
-jci_1_3: "jci1.3:c:BWBR0020422&z=2020-06-13&g=2020-06-13"
-jci_1_0: "1.0:c:BWBR0020422&g=2020-06-13"
-citeertitel_status: "officieel"
-short_title: "Meeteenhedenbesluit 2006"
-signed_date: "2010-09-27"
-entry_into_force: "2010-09-27"
+publicatiedatum: 2010-09-27
+laatste_update: 2020-06-13
+status: geldig
+toestand: 2020-06-13
+bron: "https://wetten.overheid.nl/BWBR0020422"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 12 oktober 2006, tot uitvoering van artikel 2 van de Metrologiewet en ter implementatie van enkele Europese richtlijnen (Meeteenhedenbesluit 2006)
-
-Op de voordracht van Onze Minister van Economische Zaken van 5 september 2006, nr. WJZ 6066164;
-
-Gelet op [richtlijn 80/181/EEG](31980L0181) van de Raad van 20 december 1979 (PbEG L 39) inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten op het gebied van de meeteenheden, en tot intrekking van [Richtlijn 71/354/EEG](31971L0354), op [richtlijn 76/766/EEG](31976L0766) van de Raad van 27 juli 1976 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake alcoholtabellen (PbEG L 262), op [richtlijn 71/347/EEG](31971L0347) van de Raad van 12 oktober 1971 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake de meting van het natuurgewicht van granen (PbEG L 239) en [artikel 2 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=2);
-
-De Raad van State gehoord (advies van 14 september 2006, no. W10.06.0379/II);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 9 oktober 2006, nr. WJZ 6074955;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
@@ -78,9 +46,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De namen en symbolen van de SI-grondeenheden en de daarbij behorende grootheden zijn:
 
-| Grootheid | Eenheid | Eenheid |
+| Grootheid | Eenheid |  |
 | --- | --- | --- |
-| Naam | Symbool |   |
+| Naam | Symbool |  |
 | Tijd | seconde | s |
 | Lengte | meter | m |
 | Massa | kilogram | kg |
@@ -93,32 +61,32 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de seconde: de eenheid die volgt uit de vaste numerieke waarde van de cesiumfrequentie , de frequentie van de onverstoorde hyperfijnovergang van het cesium-133-atoom in grondtoestand, die is vastgesteld op 9 192 631 770, uitgedrukt in de eenheid Hz, die gelijk is aan s-1;
 
-- b. de meter: de eenheid die volgt uit de vaste numerieke waarde van de snelheid van het licht in vacuüm **c**, die is vastgesteld op 299 792 458, uitgedrukt in m•s-1, waarbij de seconde volgt uit ;
+- b. de meter: de eenheid die volgt uit de vaste numerieke waarde van de snelheid van het licht in vacuüm *c*, die is vastgesteld op 299 792 458, uitgedrukt in m•s-1, waarbij de seconde volgt uit ;
 
-- c. de kilogram: de eenheid die volgt uit de vaste numerieke waarde van de constante van Planck **h**, die is vastgesteld op 6,626 070 15 × 10-34, uitgedrukt in de eenheid J•s, waarbij J•s gelijk is aan kg•m2•s-1 en de meter en de seconde volgen uit **c** en ;
+- c. de kilogram: de eenheid die volgt uit de vaste numerieke waarde van de constante van Planck *h*, die is vastgesteld op 6,626 070 15 × 10-34, uitgedrukt in de eenheid J•s, waarbij J•s gelijk is aan kg•m2•s-1 en de meter en de seconde volgen uit *c* en ;
 
-- d. de ampère: de eenheid die volgt uit de vaste numerieke waarde van de elementaire lading **e**, die is vastgesteld op 1,602 176 634 × 10-19, uitgedrukt in de eenheid C, waarbij C gelijk is aan A•s en de seconde volgt uit ;
+- d. de ampère: de eenheid die volgt uit de vaste numerieke waarde van de elementaire lading *e*, die is vastgesteld op 1,602 176 634 × 10-19, uitgedrukt in de eenheid C, waarbij C gelijk is aan A•s en de seconde volgt uit ;
 
-- e. de kelvin: de eenheid die volgt uit de vaste numerieke waarde van de constante van Boltzmann **k**, die is vastgesteld op 1,380 649 × 10-23, uitgedrukt in de eenheid J•K-1, waarbij J•K-1 gelijk is aan kg•m2•s-2•K-1 en de kilogram, de meter en de seconde volgen uit **h**, **c** en ;
+- e. de kelvin: de eenheid die volgt uit de vaste numerieke waarde van de constante van Boltzmann *k*, die is vastgesteld op 1,380 649 × 10-23, uitgedrukt in de eenheid J•K-1, waarbij J•K-1 gelijk is aan kg•m2•s-2•K-1 en de kilogram, de meter en de seconde volgen uit *h*, *c* en ;
 
-- f. de mol: de hoeveelheid stof van een systeem dat exact 6,022 140 76 × 1023 elementaire entiteiten bevat, welk getal, uitgedrukt in de eenheid mol-1, de vaste numerieke waarde van de constante van Avogadro **N**A is en het getal van Avogrado wordt genoemd;
+- f. de mol: de hoeveelheid stof van een systeem dat exact 6,022 140 76 × 1023 elementaire entiteiten bevat, welk getal, uitgedrukt in de eenheid mol-1, de vaste numerieke waarde van de constante van Avogadro *N*A is en het getal van Avogrado wordt genoemd;
 
-- g. de candela: de eenheid die volgt uit de vaste numerieke waarde van het lichtrendement van monochromatische straling met een frequentie van 540 × 1012 Hz, **K**cd, die is vastgesteld op 683, uitgedrukt in de eenheid lm•W-1, waarbij lm•W-1 gelijk is aan cd•sr•W-1 of cd•sr•kg-1•m-2•s3 en de kilogram, de meter en de seconde volgen uit **h**, **c** en en sr (steradiaal) de SI-eenheid voor ruimtehoek is.
+- g. de candela: de eenheid die volgt uit de vaste numerieke waarde van het lichtrendement van monochromatische straling met een frequentie van 540 × 1012 Hz, *K*cd, die is vastgesteld op 683, uitgedrukt in de eenheid lm•W-1, waarbij lm•W-1 gelijk is aan cd•sr•W-1 of cd•sr•kg-1•m-2•s3 en de kilogram, de meter en de seconde volgen uit *h*, *c* en en sr (steradiaal) de SI-eenheid voor ruimtehoek is.
 
-3. De in het tweede lid, onder f, bedoelde hoeveelheid stof, symbool **n,**van een systeem is een maat voor het aantal gespecificeerde elementaire entiteiten. Een elementaire entiteit kan een atoom, een molecuul, een ion, een elektron, elk ander deeltje of elke andere gespecificeerde groep van deeltjes zijn.
+3. De in het tweede lid, onder f, bedoelde hoeveelheid stof, symbool *n,*van een systeem is een maat voor het aantal gespecificeerde elementaire entiteiten. Een elementaire entiteit kan een atoom, een molecuul, een ion, een elektron, elk ander deeltje of elke andere gespecificeerde groep van deeltjes zijn.
 
 ##### Artikel 4
 
 De in de navolgende tabel opgenomen veelvouden van de seconde en de kilogram en het in de tabel opgenomen deel van de kilogram hebben een eigen naam en symbool:
 
-| grootheid | eenheid | eenheid | eenheid |
+| grootheid | eenheid |  |  |
 | --- | --- | --- | --- |
-| naam | symbool | verband |   |
+| naam | symbool | verband |  |
 | Tijd | minuut | min | 1 min = 60 s |
-|   | uur | h | 1 h = 3600 s |
-|   | dag | d | 1 d = 86400 s |
+|  | uur | h | 1 h = 3600 s |
+|  | dag | d | 1 d = 86400 s |
 | Massa | ton | t | 1 t = 1 Mg = 103 kg |
-|   | gram | g | 1g = 10–3 kg |
+|  | gram | g | 1g = 10–3 kg |
 
 ##### Artikel 5
 
@@ -132,9 +100,9 @@ De in de navolgende tabel opgenomen veelvouden van de seconde en de kilogram en 
 
 2. De afgeleide SI-eenheden van de grootheden, genoemd in de navolgende tabel, hebben een eigen naam en symbool.
 
-| grootheid | eenheid | eenheid | eenheid |
+| grootheid | eenheid |  |  |
 | --- | --- | --- | --- |
-| naam | symbool | uitgedrukt in: |   |
+| naam | symbool | uitgedrukt in: |  |
 | vlakke hoek | radiaal | rad | m · m–1 = 1 |
 | ruimtehoek | steradiaal | sr | m2 · m–2 = 1 |
 | frequentie | hertz | Hz | s–1 |
@@ -158,9 +126,9 @@ De in de navolgende tabel opgenomen veelvouden van de seconde en de kilogram en 
 | katalytische activiteit | katal | kat | s–1 · mol |
 | celsiustemperatuur | graad Celsius | °C | K |
 
-3. Vervallen.
+3. *Vervallen.*
 
-4. Vervallen.
+4. *Vervallen.*
 
 5. De celsiustemperatuur is gedefinieerd als het verschil t = T – T0 tussen twee thermodynamische temperaturen T en T0 waarbij T0 = 273,15 kelvin.
 
@@ -170,24 +138,24 @@ De in de navolgende tabel opgenomen veelvouden van de seconde en de kilogram en 
 
 De in de navolgende tabel opgenomen veelvouden en delen van afgeleide SI-eenheden hebben een eigen naam en symbool:
 
-| grootheid | eenheid | eenheid | eenheid |
+| grootheid | eenheid |  |  |
 | --- | --- | --- | --- |
-| naam | symbool | verband |   |
+| naam | symbool | verband |  |
 | inhoud, volume | liter | l of L | 1 l = 1 dm3 = 10–3 m3 |
 | vlakke hoek | volle hoek | – | 1 volle hoek = 2 π rad |
-|   | graad | ° | 1° = π · 180–1 rad |
-|   | minuut | ' | 1' = π · 10800–1 rad |
-|   | seconde | " | 1" = π · 648000–1 rad |
-|   | decimale graad of gon | gon | 1 gon = π · 200–1 rad |
+|  | graad | ° | 1° = π · 180–1 rad |
+|  | minuut | ' | 1' = π · 10800–1 rad |
+|  | seconde | " | 1" = π · 648000–1 rad |
+|  | decimale graad of gon | gon | 1 gon = π · 200–1 rad |
 | druk, spanning | bar | bar | 1 bar = 105 Pa |
 
 ##### Artikel 7
 
 Ten aanzien van de in de navolgende tabel genoemde eenheden geldt dat zij binnen het SI gebruikte eenheden zijn, waarvan de waarden in SI experimenteel zijn verkregen. Zij hebben een eigen naam en symbool:
 
-| grootheid | eenheid | eenheid | eenheid |
+| grootheid | eenheid |  |  |
 | --- | --- | --- | --- |
-| naam | symbool | definitie |   |
+| naam | symbool | definitie |  |
 | Massa | geünificeerde atomaire massaeenheid | u | 1 u = 1/12 van de massa van een atoom van de nuclide 12C |
 | Energie | elektronvolt | eV | 1 eV = de kinetische energie die een elektron krijgt wanneer deze een potentiaalverschil van 1 volt in vacuüm doorloopt |
 
@@ -195,9 +163,9 @@ Ten aanzien van de in de navolgende tabel genoemde eenheden geldt dat zij binnen
 
 Ten aanzien van de onderstaande erkende eenheden gelden de daarbij vermelde beperkingen in hun gebruik:
 
-| grootheid uitsluitend voor | eenheid | eenheid | eenheid |
+| grootheid uitsluitend voor | eenheid |  |  |
 | --- | --- | --- | --- |
-| naam | symbool | waarde |   |
+| naam | symbool | waarde |  |
 | sterkte van optische systemen | dioptrie | – | 1 dioptrie = 1 m–1 |
 | oppervlakte van grond | are | a | 1 a = 102 m2 |
 | werkzame doorsnede | barn | b | 1 b = 10–28 m2 |
@@ -211,28 +179,28 @@ De decibel A, waarvan het symbool dB(A) is, is de eenheid van geluidniveau van e
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
 1. Behoudens het derde lid, worden in de navolgende tabel genoemde decimale veelvouden en delen van de in het tweede lid bedoelde eenheden, indien deze veelvouden en delen niet worden aangeduid door een getal voor de naam of het symbool van de betrokken meeteenheden, aangeduid door aan die naam of dat symbool één van de volgende voorvoegsels, onderscheidenlijk symbolen vooraf te laten gaan:
 
-| Factor | Voorvoegsel | Symbool |   | Factor | Voorvoegsel | Symbool |
+| Factor | Voorvoegsel | Symbool |  | Factor | Voorvoegsel | Symbool |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1024 | yotta | Y |   | 10–1 | deci | d |
-| 1021 | zetta | Z |   | 10–2 | centi | c |
-| 1018 | exa | E |   | 10–3 | milli | m |
-| 1015 | peta | P |   | 10–6 | micro | μ |
-| 1012 | tera | T |   | 10–9 | nano | n |
-| 109 | giga | G |   | 10–12 | pico | p |
-| 106 | mega | M |   | 10–15 | femto | f |
-| 103 | kilo | k |   | 10–18 | atto | a |
-| 102 | hecto | h |   | 10–21 | zepto | z |
-| 101 | deca | da |   | 10–24 | yocto | y |
+| 1024 | yotta | Y |  | 10–1 | deci | d |
+| 1021 | zetta | Z |  | 10–2 | centi | c |
+| 1018 | exa | E |  | 10–3 | milli | m |
+| 1015 | peta | P |  | 10–6 | micro | μ |
+| 1012 | tera | T |  | 10–9 | nano | n |
+| 109 | giga | G |  | 10–12 | pico | p |
+| 106 | mega | M |  | 10–15 | femto | f |
+| 103 | kilo | k |  | 10–18 | atto | a |
+| 102 | hecto | h |  | 10–21 | zepto | z |
+| 101 | deca | da |  | 10–24 | yocto | y |
 
 2. Het gebruik van de in het eerste lid genoemde voorvoegsels is van toepassing op:
 
@@ -296,6 +264,12 @@ De verwezenlijking van de nationale meetstandaard voor lichtsterkte is gebaseerd
 
 #### § 3a. Bonaire, Sint Eustatius en Saba
 
+##### Artikel 20a
+
+Dit besluit, met uitzondering van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=9&z=2020-06-13&g=2020-06-13) alsmede [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=3&z=2020-06-13&g=2020-06-13), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en berust voor de toepassing in die openbare lichamen op [artikel 2 van de IJkwet BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=2).
+
+#### § 4. Slotbepalingen
+
 ##### Artikel 21
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
@@ -303,13 +277,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Meeteenhedenbesluit 2006.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 20a
-
-Dit besluit, met uitzondering van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=9&z=2020-06-13&g=2020-06-13) alsmede [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=3&z=2020-06-13&g=2020-06-13), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en berust voor de toepassing in die openbare lichamen op [artikel 2 van de IJkwet BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=2).
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

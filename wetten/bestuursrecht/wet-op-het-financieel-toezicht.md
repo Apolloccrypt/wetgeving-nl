@@ -9,7 +9,7 @@ laatste_update: 2026-07-21
 status: geldig
 toestand: 2026-07-21
 bron: "https://wetten.overheid.nl/BWBR0020368"
-opgehaald: 2026-08-09
+opgehaald: 2026-08-10
 ---
 
 # Wet van 28 september 2006, houdende regels met betrekking tot de financiële markten en het toezicht daarop (Wet op het financieel toezicht)

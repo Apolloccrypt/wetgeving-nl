@@ -9,7 +9,7 @@ laatste_update: 2026-08-07
 status: geldig
 toestand: 2026-08-07
 bron: "https://wetten.overheid.nl/BWBR0004021"
-opgehaald: 2026-08-09
+opgehaald: 2026-08-10
 ---
 
 # Besluit van 26 augustus 1986, houdende regelen met betrekking tot spaanplaat

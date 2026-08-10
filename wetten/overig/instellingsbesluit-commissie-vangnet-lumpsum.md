@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 juni 2006, tot instelling van de Commissie vangnet lumpsum"
+citeertitel: "Instellingsbesluit Commissie vangnet lumpsum"
 identifier: "BWBR0019952"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-07-19"
-last_updated: "2006-07-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019952"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "8508343"
-version_id: "13399472"
-internal_id: "C17976751"
-label_id: "8488804"
-dtd_version: "2.0"
-original_entry_into_force: "2006-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019952/2006-07-19/0"
-intitule_bron: "Stcrt.2006-136"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-06-12"
-intitule_published: "2006-07-17"
-intitule_in_force: "2006-07-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-136"
-original_signed_date: "2006-06-12"
-original_published_date: "2006-07-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-136-p25-SC75934"
-entry_into_force_date: "2006-07-19"
-jci_1_3: "jci1.3:c:BWBR0019952&z=2006-07-19&g=2006-07-19"
-jci_1_0: "1.0:c:BWBR0019952&g=2006-07-19"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie vangnet lumpsum"
-signed_date: "2006-06-12"
-entry_into_force: "2006-07-19"
+publicatiedatum: 2006-07-19
+laatste_update: 2006-07-19
+status: geldig
+toestand: 2006-07-19
+bron: "https://wetten.overheid.nl/BWBR0019952"
+opgehaald: 2026-08-10
 ---
-# Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 juni 2006, tot instelling van de Commissie vangnet lumpsum
 
-Besluit:
+# Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 juni 2006, tot instelling van de Commissie vangnet lumpsum
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -139,5 +115,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie vangnet lumpsum.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

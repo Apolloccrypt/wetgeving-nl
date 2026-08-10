@@ -1,75 +1,46 @@
 ---
 title: "Wet van 5 juli 2006 tot wijziging van de Wet milieubeheer in verband met de uitvoering van richtlijn nr. 2001/42/EG van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2001 betreffende de beoordeling van de gevolgen voor het milieu van bepaalde plannen en programma’s (PbEG L 197) (milieu-effectrapportage plannen)"
+citeertitel: "Wijzigingswet Wet milieubeheer (uitvoering richtlijn nr. 2001/42/EG betreffende milieu-effectrapportage plannen)"
 identifier: "BWBR0020050"
-country: "nl"
-rank: "wet"
-publication_date: "2008-01-01"
-last_updated: "2006-09-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020050"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "8511803"
-version_id: "13406372"
-internal_id: "C18166891"
-label_id: "8492194"
-dtd_version: "2.0"
-original_entry_into_force: "2006-09-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020050/2008-01-01/0"
-intitule_bron: "Stb.2006-336"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-05"
-intitule_published: "2006-07-18"
-intitule_in_force: "2006-08-31"
-intitule_status: "goed"
-original_publication: "Stb.2006-336"
-original_signed_date: "2006-07-05"
-original_published_date: "2006-07-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "29811"
-original_url_id: "stb-2006-336"
-entry_into_force_date: "2006-09-28"
-jci_1_3: "jci1.3:c:BWBR0020050&z=2008-01-01&g=2008-01-01"
-jci_1_0: "1.0:c:BWBR0020050&g=2008-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet milieubeheer (uitvoering richtlijn nr. 2001/42/EG betreffende milieu-effectrapportage plannen)"
-signed_date: "2006-07-05"
-entry_into_force: "2006-09-28"
+publicatiedatum: 2006-09-28
+laatste_update: 2008-01-01
+status: geldig
+toestand: 2008-01-01
+bron: "https://wetten.overheid.nl/BWBR0020050"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 5 juli 2006 tot wijziging van de Wet milieubeheer in verband met de uitvoering van richtlijn nr. 2001/42/EG van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2001 betreffende de beoordeling van de gevolgen voor het milieu van bepaalde plannen en programma’s (PbEG L 197) (milieu-effectrapportage plannen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is wettelijke voorzieningen te treffen ter uitvoering van [richtlijn nr. 2001/42/EG](32001L0042) van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2001 betreffende de beoordeling van de gevolgen voor het milieu van bepaalde plannen en programma’s (PbEG L 197);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel II
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel III
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel IV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel V
 
-Wijzigt de Wet op de archeologische monumentenzorg.
+*Wijzigt de Wet op de archeologische monumentenzorg.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de archeologische monumentenzorg.
+*Wijzigt de Wet op de archeologische monumentenzorg.*
 
 ##### Artikel VII
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel VIII
 
@@ -90,5 +61,3 @@ Wijzigt deze wet.
 ##### Artikel IX
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

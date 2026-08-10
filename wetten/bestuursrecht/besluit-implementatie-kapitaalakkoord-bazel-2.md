@@ -1,80 +1,56 @@
 ---
 title: "Besluit van 11 december 2006, houdende wijziging van het Besluit prudentiële regels Wft ter implementatie van richtlijn nr. 2006/48/EG van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (herschikking) (PbEU L 177) en richtlijn nr. 2006/49/EG van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 inzake de kapitaaltoereikendheid van beleggingsondernemingen en kredietinstellingen (herschikking) (PbEU L 177) (Besluit implementatie kapitaalakkoord Bazel 2)"
+citeertitel: "Besluit implementatie kapitaalakkoord Bazel 2"
 identifier: "BWBR0020750"
-country: "nl"
-rank: "amvb"
-publication_date: "2011-02-16"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020750"
+categorie: "Internationaal recht"
 soort: "AMvB"
-stam_id: "8794423"
-version_id: "18390922"
-internal_id: "C25616831"
-label_id: "8774254"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020750/2011-02-16/0"
-intitule_bron: "Stb.2006-662"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-12-11"
-intitule_published: "2006-12-20"
-intitule_in_force: "2006-12-20"
-intitule_status: "goed"
-original_publication: "Stb.2011-49"
-original_signed_date: "2011-01-31"
-original_published_date: "2011-02-15"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2011-49"
-entry_into_force_date: "2011-01-31"
-jci_1_3: "jci1.3:c:BWBR0020750&z=2011-02-16&g=2011-02-16"
-jci_1_0: "1.0:c:BWBR0020750&g=2011-02-16"
-citeertitel_status: "officieel"
-short_title: "Besluit implementatie kapitaalakkoord Bazel 2"
-signed_date: "2011-01-31"
-entry_into_force: "2011-01-31"
+publicatiedatum: 2011-01-31
+laatste_update: 2011-02-16
+status: geldig
+toestand: 2011-02-16
+bron: "https://wetten.overheid.nl/BWBR0020750"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 11 december 2006, houdende wijziging van het Besluit prudentiële regels Wft ter implementatie van richtlijn nr. 2006/48/EG van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (herschikking) (PbEU L 177) en richtlijn nr. 2006/49/EG van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 inzake de kapitaaltoereikendheid van beleggingsondernemingen en kredietinstellingen (herschikking) (PbEU L 177) (Besluit implementatie kapitaalakkoord Bazel 2)
-
-Op de voordracht van Onze Minister van Financiën van 26 september 2006, nr. FM2006-02251 M;
-
-Gelet op de [artikelen 3:17, tweede lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), [3:53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), [3:57, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), [3:259, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:259), [3:280b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:280b), [4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22) en[5:58, derde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:58) en de [richtlijnen nr. 2006/48/EG](32006L0048) van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (herschikking) (PbEU L 177), en nr. [2006/49/EG](32006L0049) van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 inzake de kapitaaltoereikendheid van beleggingsondernemingen en kredietinstellingen (herschikking) (PbEU L 177);
-
-De Raad van State gehoord, advies van 20 oktober 2006, nr. W06.060417/IV;
-
-Gezien het nader rapport van Onze Minister van Financiën van 4 december 2006, nr. FM2006-02508 U;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Wijzigt het Besluit prudentiële regels Wft.
+*Wijzigt het Besluit prudentiële regels Wft.*
 
 ##### Artikel II
 
-Wijzigt het Besluit prudentieel toezicht financiële groepen Wft.
+*Wijzigt het Besluit prudentieel toezicht financiële groepen Wft.*
 
 ##### Artikel III
 
-Wijzigt het Besluit boetes Wft.
+*Wijzigt het Besluit boetes Wft.*
 
 ##### Artikel IV
 
-Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft.
+*Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft.*
 
 ##### Artikel V
 
-Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
+*Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.*
 
 ##### Artikel VI
 
-Wijzigt het Besluit Marktmisbruik Wft.
+*Wijzigt het Besluit Marktmisbruik Wft.*
 
 ##### Artikel VII
 
 1. Het minimumbedrag aan toetsingsvermogen van een bank of beleggingsonderneming die het bedrag van de naar risico gewogen activa en posten buiten de balanstelling berekent volgens een interne modellenmethode is in de boekjaren 2007, 2008 en 2009 ten minste gelijk aan 95, 90 onderscheidenlijk 80 procent van het minimumbedrag aan toetsingsvermogen zoals berekend ingevolge de [artikelen 60 tot en met 62 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=60) zoals deze luidden voorafgaand aan het tijdstip van inwerkingtreding van dit artikel.
 
 2. Het minimumbedrag aan toetsingsvermogen van een bank of beleggingsonderneming die het solvabiliteitsvereiste ter dekking van het operationeel risico berekent ingevolge [artikel 78 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=78) is in de boekjaren 2008 en 2009 ten minste gelijk aan 90 onderscheidenlijk 80 procent van het minimumbedrag aan toetsingsvermogen zoals berekend ingevolge de [artikelen 60 tot en met 62 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=60) zoals deze luidden voorafgaand aan het tijdstip van inwerkingtreding van dit artikel.
+
+##### Artikel VIIa
+
+1. Het minimumbedrag aan toetsingsvermogen van een bank of beleggingsonderneming die het bedrag van de naar risico gewogen activa en posten buiten de balanstelling berekent volgens een interne modellenmethode is tot en met het boekjaar 2011 ten minste gelijk aan 80 procent van het minimumbedrag aan toetsingsvermogen zoals berekend ingevolge de [artikelen 60 tot en met 62 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=60) zoals deze luidden voor 1 januari 2007.
+
+2. Het minimumbedrag aan toetsingsvermogen van een bank of beleggingsonderneming die het solvabiliteitsvereiste ter dekking van het operationeel risico berekent ingevolge [artikel 78 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=78) is tot en met het boekjaar 2011 ten minste gelijk aan 80 procent van het minimumbedrag aan toetsingsvermogen zoals berekend ingevolge de [artikelen 60 tot en met 62 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=60) zoals deze luidden voor 1 januari 2007.
+
+3. Een bank of beleggingsonderneming die op of na 1 januari 2010 aanvangt met het berekenen van het minimumbedrag aan toetsingsvermogen overeenkomstig de in het eerste of tweede lid genoemde berekeningsmethode, houdt tot en met het boekjaar 2011 een minimumbedrag aan toetsingsvermogen aan dat ten minste gelijk is aan 80 procent van het minimumbedrag aan toetsingsvermogen berekend overeenkomstig de berekeningsmethode die voorafgaand aan de toepassing van de in het eerste of tweede lid genoemde berekeningsmethode werd gehanteerd.
 
 ##### Artikel VIII
 
@@ -104,7 +80,7 @@ Wijzigt het Besluit Marktmisbruik Wft.
 
 ##### Artikel X
 
-1. In dit artikel wordt verstaan onder richtlijn: [richtlijn nr. 2004/39/EG](32004L0039) van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende markten voor financiële instrumenten, tot wijziging van de [Richtlijnen 85/611/EEG](31985L0611) en [93/6/EEG](31993L0006) van de Raad en van [Richtlijn 2000/12/EG](32000L0012) van het Europees Parlement en de Raad en houdende intrekking van [Richtlijn 93/22/EEG](31993L0022) van de Raad (PbEU L 145).
+1. In dit artikel wordt verstaan onder richtlijn: richtlijn nr. 2004/39/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende markten voor financiële instrumenten, tot wijziging van de Richtlijnen 85/611/EEG en 93/6/EEG van de Raad en van Richtlijn 2000/12/EG van het Europees Parlement en de Raad en houdende intrekking van Richtlijn 93/22/EEG van de Raad (PbEU L 145).
 
 2. Tot 1 januari 2011 kan de Nederlandsche Bank, op verzoek, aan een beleggingsonderneming die een limiet als bedoeld in [artikel 102, eerste of tweede lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=102) overschrijdt toestemming verlenen om [artikel 60, eerste lid, onderdeel b, van dat koninklijk besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=60) niet toe te passen indien:
 
@@ -142,7 +118,7 @@ Wijzigt het Besluit Marktmisbruik Wft.
 
 ##### Artikel XII
 
-1. In dit artikel wordt verstaan onder richtlijn: [richtlijn nr. 2004/39/EG](32004L0039) van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende markten voor financiële instrumenten, tot wijziging van de [Richtlijnen 85/611/EEG](31985L0611) en [93/6/EEG](31993L0006) van de Raad en van [Richtlijn 2000/12/EG](32000L0012) van het Europees Parlement en de Raad en houdende intrekking van [Richtlijn 93/22/EEG](31993L0022) van de Raad (PbEU L 145).
+1. In dit artikel wordt verstaan onder richtlijn: richtlijn nr. 2004/39/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende markten voor financiële instrumenten, tot wijziging van de Richtlijnen 85/611/EEG en 93/6/EEG van de Raad en van Richtlijn 2000/12/EG van het Europees Parlement en de Raad en houdende intrekking van Richtlijn 93/22/EEG van de Raad (PbEU L 145).
 
 2. Onverminderd het derde lid hoeft een beleggingsonderneming tot 1 januari 2011 niet te voldoen aan het bepaalde in de [hoofdstukken 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9) en [10 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10) indien:
 
@@ -159,15 +135,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel XIV
 
 Dit besluit wordt aangehaald als: Besluit implementatie kapitaalakkoord Bazel 2.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel VIIa
-
-1. Het minimumbedrag aan toetsingsvermogen van een bank of beleggingsonderneming die het bedrag van de naar risico gewogen activa en posten buiten de balanstelling berekent volgens een interne modellenmethode is tot en met het boekjaar 2011 ten minste gelijk aan 80 procent van het minimumbedrag aan toetsingsvermogen zoals berekend ingevolge de [artikelen 60 tot en met 62 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=60) zoals deze luidden voor 1 januari 2007.
-
-2. Het minimumbedrag aan toetsingsvermogen van een bank of beleggingsonderneming die het solvabiliteitsvereiste ter dekking van het operationeel risico berekent ingevolge [artikel 78 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=78) is tot en met het boekjaar 2011 ten minste gelijk aan 80 procent van het minimumbedrag aan toetsingsvermogen zoals berekend ingevolge de [artikelen 60 tot en met 62 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=60) zoals deze luidden voor 1 januari 2007.
-
-3. Een bank of beleggingsonderneming die op of na 1 januari 2010 aanvangt met het berekenen van het minimumbedrag aan toetsingsvermogen overeenkomstig de in het eerste of tweede lid genoemde berekeningsmethode, houdt tot en met het boekjaar 2011 een minimumbedrag aan toetsingsvermogen aan dat ten minste gelijk is aan 80 procent van het minimumbedrag aan toetsingsvermogen berekend overeenkomstig de berekeningsmethode die voorafgaand aan de toepassing van de in het eerste of tweede lid genoemde berekeningsmethode werd gehanteerd.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.

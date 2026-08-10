@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister voor Vreemdelingenzaken en Integratie van 14 februari 2006, nr. 5403488/06, tot vaststelling van het examenreglement voor het basisexamen inburgering (Examenreglement basisexamen inburgering)"
+citeertitel: "Examenreglement basisexamen inburgering"
 identifier: "BWBR0019569"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-12-16"
-last_updated: "2022-12-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019569"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8109083"
-version_id: "21884512"
-internal_id: "C31407341"
-label_id: "8090244"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019569/2022-12-16/0"
-intitule_bron: "Stcrt.2006-51"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-14"
-intitule_published: "2006-03-13"
-intitule_in_force: "2006-02-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-35494"
-original_signed_date: "2014-12-03"
-original_published_date: "2014-12-11"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2014-35494"
-entry_into_force_date: "2014-12-03"
-jci_1_3: "jci1.3:c:BWBR0019569&z=2022-12-16&g=2022-12-16"
-jci_1_0: "1.0:c:BWBR0019569&g=2022-12-16"
-citeertitel_status: "officieel"
-short_title: "Examenreglement basisexamen inburgering"
-signed_date: "2014-12-03"
-entry_into_force: "2014-12-03"
+publicatiedatum: 2014-12-03
+laatste_update: 2022-12-16
+status: geldig
+toestand: 2022-12-16
+bron: "https://wetten.overheid.nl/BWBR0019569"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie van 14 februari 2006, nr. 5403488/06, tot vaststelling van het examenreglement voor het basisexamen inburgering (Examenreglement basisexamen inburgering)
-
-Handelende in overeenstemming met de Minister van Buitenlandse Zaken;
-
-Gelet op [artikel 3.98b, vierde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b);
-
-Besluit:
 
 ##### Artikel 1. Algemeen
 
@@ -68,13 +40,23 @@ Besluit:
 
 4. Het examengeld, bedoeld in [artikel 3.98b, tweede lid, van het Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b), is als volgt opgebouwd:
 
-- a. Voor de toets leesvaardigheid: € 50;
+- a. Voor de toets leesvaardigheid: € 50;
 
-- b. voor de toets spreekvaardigheid: € 50;
+- b. voor de toets spreekvaardigheid: € 50;
 
-- c. voor de toets kennis van de Nederlandse samenleving: € 50.
+- c. voor de toets kennis van de Nederlandse samenleving: € 50.
 
 5. DUO verstrekt na ontvangst de verschuldigde bedragen een bewijs van betaling.
+
+##### Artikel 2a. Maken van een afspraak
+
+1. Na ontvangst van het bewijs van betaling, maakt de deelnemer onder vermelding van het door DUO toegekende referentienummer mondeling of schriftelijk een afspraak bij het hoofd.
+
+2. Het hoofd maakt de examenlocatie, datum en het tijdstip waarop het basisexamen kan worden afgelegd, bekend. De deelnemer ontvangt een bevestiging van de gemaakte afspraak. De gemaakte afspraak kan door de deelnemer eenmalig worden gewijzigd.
+
+3. Het verzoek tot wijzigen van de examendatum of het examentijdstip, moet uiterlijk tot 24 uur voor het examen door de deelnemer zijn ingediend bij het hoofd.
+
+4. Indien de deelnemer het examen niet meer wenst af te leggen kan de deelnemer een verzoek indienen bij DUO voor restitutie van het betaalde examengeld. Dit verzoek dient uiterlijk tot 24 uur voor het examen door DUO te zijn ontvangen op de door DUO aangegeven wijze.
 
 ##### Artikel 3. Gang van zaken voor en tijdens het examen
 
@@ -149,29 +131,3 @@ Deze regeling treedt in werking op het tijdstip waarop de Wet inburgering in het
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Examenreglement basisexamen inburgering.
-
-## Bijlage 1
-
-Deze regeling wordt (met de toelichting) in de Staatscourant geplaatst.
-
-## Bijlage 1
-
-Vervallen
-
-Deze regeling wordt (met de toelichting) in de Staatscourant geplaatst.
-
-##### Artikel 2a. Maken van een afspraak
-
-1. Na ontvangst van het bewijs van betaling, maakt de deelnemer onder vermelding van het door DUO toegekende referentienummer mondeling of schriftelijk een afspraak bij het hoofd.
-
-2. Het hoofd maakt de examenlocatie, datum en het tijdstip waarop het basisexamen kan worden afgelegd, bekend. De deelnemer ontvangt een bevestiging van de gemaakte afspraak. De gemaakte afspraak kan door de deelnemer eenmalig worden gewijzigd.
-
-3. Het verzoek tot wijzigen van de examendatum of het examentijdstip, moet uiterlijk tot 24 uur voor het examen door de deelnemer zijn ingediend bij het hoofd.
-
-4. Indien de deelnemer het examen niet meer wenst af te leggen kan de deelnemer een verzoek indienen bij DUO voor restitutie van het betaalde examengeld. Dit verzoek dient uiterlijk tot 24 uur voor het examen door DUO te zijn ontvangen op de door DUO aangegeven wijze.
-
-## Bijlage 2. : overzicht ambassades en consultaten-generaal
-
-Vervallen
-
-Deze regeling wordt (met de toelichting) in de Staatscourant geplaatst.

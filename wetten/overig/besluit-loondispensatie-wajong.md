@@ -1,43 +1,17 @@
 ---
 title: "Besluit loondispensatie Wajong"
 identifier: "BWBR0020119"
-country: "nl"
-rank: "zbo"
-publication_date: "2010-08-19"
-last_updated: "2010-08-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020119"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "8548983"
-version_id: "13472362"
-internal_id: "C29282371"
-label_id: "8529344"
-dtd_version: "2.0"
-original_entry_into_force: "2006-08-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020119/2010-08-19/0"
-intitule_bron: "Stcrt.2006-147"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-18"
-intitule_published: "2006-08-01"
-intitule_in_force: "2006-08-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-147"
-original_signed_date: "2006-07-18"
-original_published_date: "2006-08-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-147-p12-SC76208"
-entry_into_force_date: "2006-08-03"
-jci_1_3: "jci1.3:c:BWBR0020119&z=2010-08-19&g=2010-08-19"
-jci_1_0: "1.0:c:BWBR0020119&g=2010-08-19"
-citeertitel_status: "redactioneel"
-signed_date: "2006-07-18"
-entry_into_force: "2006-08-03"
+publicatiedatum: 2006-08-03
+laatste_update: 2010-08-19
+status: geldig
+toestand: 2010-08-19
+bron: "https://wetten.overheid.nl/BWBR0020119"
+opgehaald: 2026-08-10
 ---
+
 # Besluit loondispensatie Wajong
-
-Gelet op [artikel 59a van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59a);
-
-Besluit:
 
 ##### Artikel 1. Duidelijk verminderde arbeidsprestatie
 
@@ -70,5 +44,3 @@ Het Besluit loondispensatie Wet Rea wordt ingetrokken, doch blijft van toepassin
 ##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van plaatsing in de Staatscourant, en werkt terug tot en met 29 december 2005.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

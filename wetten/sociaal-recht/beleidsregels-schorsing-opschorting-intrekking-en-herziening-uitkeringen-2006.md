@@ -1,43 +1,17 @@
 ---
 title: "Beleidsregels schorsing, opschorting, intrekking en herziening uitkeringen 2006"
 identifier: "BWBR0020434"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-07-14"
-last_updated: "2011-07-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020434"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "8736963"
-version_id: "13791372"
-internal_id: "C18615601"
-label_id: "8716924"
-dtd_version: "2.0"
-original_entry_into_force: "2006-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020434/2011-07-14/0"
-intitule_bron: "Stcrt.2006-230"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-10-17"
-intitule_published: "2006-11-24"
-intitule_in_force: "2006-11-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-230"
-original_signed_date: "2006-10-17"
-original_published_date: "2006-11-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-230-p17-SC77825"
-entry_into_force_date: "2006-11-26"
-jci_1_3: "jci1.3:c:BWBR0020434&z=2011-07-14&g=2011-07-14"
-jci_1_0: "1.0:c:BWBR0020434&g=2011-07-14"
-citeertitel_status: "officieel"
-signed_date: "2006-10-17"
-entry_into_force: "2006-11-26"
+publicatiedatum: 2006-11-26
+laatste_update: 2011-07-14
+status: geldig
+toestand: 2011-07-14
+bron: "https://wetten.overheid.nl/BWBR0020434"
+opgehaald: 2026-08-10
 ---
+
 # Beleidsregels schorsing, opschorting, intrekking en herziening uitkeringen 2006
-
-Gelet op de [artikelen 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=22a) en [30 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=30), [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30a), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=41) en [47a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=47a), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=30), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36a), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=50) en [50a van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=50a), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=39), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=49), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=56), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=67), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=69) en [76 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=76), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=12), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=18), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=55) en [55a van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=55a), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=11), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=16) en [47 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=47), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=11a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=15), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=15a) en [15b van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=15b) en [3:14](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:14), [3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:16), [3:25](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:25) en [3:27 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:27);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -120,5 +94,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels schorsing, opschorting, intrekking en herziening uitkeringen 2006.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,38 +1,16 @@
 ---
 title: "Fiscale positie van de ambtenaren en overige personeelsleden van de Europese Gemeenschappen (2006)"
 identifier: "BWBR0020407"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2006-10-21"
-last_updated: "2006-10-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020407"
+categorie: "Internationaal recht"
 soort: "beleidsregel"
-stam_id: "8670033"
-version_id: "13689962"
-internal_id: "C29291801"
-label_id: "8650284"
-dtd_version: "2.0"
-original_entry_into_force: "2006-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020407/2006-10-21/0"
-intitule_bron: "Stcrt.2006-204"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-10-12"
-intitule_published: "2006-10-19"
-intitule_in_force: "2006-10-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-204"
-original_signed_date: "2006-10-12"
-original_published_date: "2006-10-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-204-p11-SC77252"
-entry_into_force_date: "2006-10-21"
-jci_1_3: "jci1.3:c:BWBR0020407&z=2006-10-21&g=2006-10-21"
-jci_1_0: "1.0:c:BWBR0020407&g=2006-10-21"
-citeertitel_status: "redactioneel"
-signed_date: "2006-10-12"
-entry_into_force: "2006-10-21"
+publicatiedatum: 2006-10-21
+laatste_update: 2006-10-21
+status: geldig
+toestand: 2006-10-21
+bron: "https://wetten.overheid.nl/BWBR0020407"
+opgehaald: 2026-08-10
 ---
+
 # Fiscale positie van de ambtenaren en overige personeelsleden van de Europese Gemeenschappen (2006)
 
 De Directeur-Generaal voor Fiscale Zaken heeft namens de Minister van Financiën het volgende besloten:
@@ -43,6 +21,16 @@ Er bestaat, zo is mij gebleken, behoefte aan nadere informatie over de fiscale p
 
 De EG kent de volgende instellingen:
 
+- – de Raad,
+
+- – de Commissie,
+
+- – het Europese Parlement,
+
+- – het Hof van Justitie,
+
+- – de Rekenkamer,
+
 alsmede comités, diensten en andere instellingen.
 
 Tevens is door de Lid- Staten opgericht de Europese Investeringsbank (zie het Verdrag tot instelling van een Raad en een Commissie welke de Europese Gemeenschappen gemeen hebben) en de Europese Centrale Bank (zie het Verdrag betreffende de Europese Unie).
@@ -50,6 +38,14 @@ Tevens is door de Lid- Staten opgericht de Europese Investeringsbank (zie het Ve
 ### 2. Toepassing van de woonplaatsbepaling
 
 Artikel 14 van het Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen van 8 april 1965 voorziet in een fictieve woonplaatsbepaling ten aanzien van de ambtenaren en overige personeelsleden van de Europese Gemeenschappen (hierna te noemen ‘de personeelsleden van de EG’). Hieronder zijn, voor de toepassing van dit besluit, mede te verstaan:
+
+- – de leden van de Commissie (artikel 20 van het Protocol),
+
+- – de rechters, de griffier’s en de toegevoegde rapporteurs van, alsmede de advocaten-generaal bij het Hof van Justitie (artikel 21 van het Protocol),
+
+- – de functionarissen van de Europese Investeringsbank (artikel 22 van het Protocol),
+
+- – de functionarissen van de Europese Centrale Bank (artikel 23 van het Protocol).
 
 Artikel 14 van het Protocol bepaalt dat: ‘De ambtenaren en overige personeels leden van de Gemeenschappen, die zich uitsluitend uit hoofde van de uitoefening van hun ambt in dienst van de Gemeenschappen vestigen op het grondgebied van een andere lidstaat dan de staat van de fiscale woonplaats, welke zij bezitten op het ogenblik van hun indiensttreding bij de Gemeenschappen, worden voor de toepassing van de inkomsten-, vermogens- en successiebelastingen, alsmede van de tussen de lidstaten van de Gemeenschappen gesloten overeenkomsten ter voorkoming van dubbele belasting, zowel in de staat waar zij zich gevestigd hebben als in de staat van de fiscale woonplaats, geacht hun woonplaats te hebben behouden in de laatstgenoemde staat, indien deze lid is van de Gemeenschappen.’
 
@@ -78,5 +74,3 @@ Het [besluit van 22 februari 1983](https://wetten.overheid.nl/jci1.3:c:BWBR00035
 ### 6. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de dagtekening van het besluit.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

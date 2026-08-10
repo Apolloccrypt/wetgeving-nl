@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een heffing over de teelt van groenten en fruit, voor het jaar 2007 (Verordening PT heffing teelt groenten en fruit 2007)"
+citeertitel: "Verordening PT heffing teelt groenten en fruit 2007"
 identifier: "BWBR0020063"
-country: "nl"
-rank: "pbo"
-publication_date: "2006-11-12"
-last_updated: "2006-11-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020063"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "8721933"
-version_id: "13769792"
-internal_id: "C18589041"
-label_id: "8702094"
-dtd_version: "2.0"
-original_entry_into_force: "2006-11-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020063/2006-11-12/0"
-intitule_bron: "Vbbo.2006-61"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-06"
-intitule_published: "2006-11-10"
-intitule_in_force: "2006-11-10"
-intitule_status: "goed"
-original_publication: "Vbbo.2006-61"
-original_signed_date: "2006-07-06"
-original_published_date: "2006-11-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2006-11-12"
-jci_1_3: "jci1.3:c:BWBR0020063&z=2006-11-12&g=2006-11-12"
-jci_1_0: "1.0:c:BWBR0020063&g=2006-11-12"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing teelt groenten en fruit 2007"
-signed_date: "2006-07-06"
-entry_into_force: "2006-11-12"
+publicatiedatum: 2006-11-12
+laatste_update: 2006-11-12
+status: geldig
+toestand: 2006-11-12
+bron: "https://wetten.overheid.nl/BWBR0020063"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een heffing over de teelt van groenten en fruit, voor het jaar 2007 (Verordening PT heffing teelt groenten en fruit 2007)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 20 juni 2006;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -62,7 +33,7 @@ Besluit:
 | f. | het uitgangsmateriaal: | opkweekmateriaal voor groentenplanten en aardbeien zowel onder glas als vollegrond, alsmede groentenzaden; |
 | g. | de glasgroenten: | onder glas of plastic tunnels geteelde groenten; |
 | h. | de vollegrondsgroenten: | groenten niet onder glas geteeld; |
-| i. | fruit: | hetgeen daaronder wordt verstaan in [artikel 3 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3). |
+| i. | fruit: | hetgeen daaronder wordt verstaan in artikel 3 van het Instellingsbesluit Productschap Tuinbouw. |
 
 4. Deze verordening is niet van toepassing op de teelt van uien.
 
@@ -130,5 +101,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 8
 
 Deze verordening wordt aangehaald als: Verordening PT heffing teelt groenten en fruit 2007.
-
-De verordening en de toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

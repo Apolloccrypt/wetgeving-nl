@@ -8,7 +8,7 @@ laatste_update: 2026-08-07
 status: geldig
 toestand: 2026-08-07
 bron: "https://wetten.overheid.nl/BWBR0052937"
-opgehaald: 2026-08-09
+opgehaald: 2026-08-10
 ---
 
 # Klachtenregeling Defensie

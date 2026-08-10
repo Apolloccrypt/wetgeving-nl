@@ -1,51 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d. 25 april 2006, houdende de vaststelling van de percentages van de heffingen groenten en fruit voor het jaar 2006 (Besluit PT heffing groenten en fruit 2006)"
+citeertitel: "Besluit PT heffing groenten en fruit 2006"
 identifier: "BWBR0019835"
-country: "nl"
-rank: "pbo"
-publication_date: "2006-05-21"
-last_updated: "2006-05-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019835"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "8316553"
-version_id: "13183862"
-internal_id: "C17752951"
-label_id: "8297444"
-dtd_version: "2.0"
-original_entry_into_force: "2006-05-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019835/2006-05-21/0"
-intitule_bron: "Vbbo.2006-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-05-08"
-intitule_published: "2006-05-19"
-intitule_in_force: "2006-05-19"
-intitule_status: "goed"
-original_publication: "Vbbo.2006-25"
-original_signed_date: "2006-05-08"
-original_published_date: "2006-05-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2006-05-21"
-jci_1_3: "jci1.3:c:BWBR0019835&z=2006-05-21&g=2006-05-21"
-jci_1_0: "1.0:c:BWBR0019835&g=2006-05-21"
-citeertitel_status: "officieel"
-short_title: "Besluit PT heffing groenten en fruit 2006"
-signed_date: "2006-05-08"
-entry_into_force: "2006-05-21"
+publicatiedatum: 2006-05-21
+laatste_update: 2006-05-21
+status: geldig
+toestand: 2006-05-21
+bron: "https://wetten.overheid.nl/BWBR0019835"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 25 april 2006, houdende de vaststelling van de percentages van de heffingen groenten en fruit voor het jaar 2006 (Besluit PT heffing groenten en fruit 2006)
-
-gelet op [artikel 3, derde en vierde lid, van de Verordening PT heffing teelt groenten en fruit 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0018499&artikel=3);
-
-gelet op [artikel 3, vijfde lid, van de Verordening PT algemene heffing handel groenten en fruit 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0018501&artikel=3);
-
-gelet op [artikel 3, vijfde lid, van de Verordening PT bestemmingsheffing handel groenten en fruit 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0018502&artikel=3);
-
-gelet op [artikel 4, eerste lid, van de Verordening PT heffing verduurzaamde groenten en fruit 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0018504&artikel=4);
-
-gehoord de Commissie voor groenten en fruit, d.d. 4 april 2006;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -54,10 +21,10 @@ Besluit:
 | a | glasgroenten: | 0,468% |
 | --- | --- | --- |
 | b | vollegrondsgroenten: | 0,153% |
-|   | - aardbeien: | 0,153% |
+|  | - aardbeien: | 0,153% |
 | c | fruit: | 0,153% |
 | d | champignons: | 0,170% |
-|   | - overige paddestoelen: | 0,050% |
+|  | - overige paddestoelen: | 0,050% |
 | e | uitgangsmateriaal: | 0,080% |
 
 2. Het in [artikel 3, vierde lid van de Verordening PT heffing teelt groenten en fruit 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0018499&artikel=3) (de korting kwaliteitscontrole ingeval van contractteelt) genoemde percentage, wordt voor het jaar 2006 vastgesteld op: 0,090%.
@@ -100,5 +67,3 @@ Dit besluit treedt in werking op de tweede dag na publicatie in het Verordeninge
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit PT heffingen groenten en fruit 2006.
-
-Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

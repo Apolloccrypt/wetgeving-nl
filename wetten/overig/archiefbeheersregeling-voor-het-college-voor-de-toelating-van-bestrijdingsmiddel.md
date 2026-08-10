@@ -1,44 +1,18 @@
 ---
 title: "Archiefbeheersregeling voor het college voor de toelating van bestrijdingsmiddelen 2006"
+citeertitel: "Archiefbeheersregeling voor het College voor de Toelating van Bestrijdingsmiddelen 2006"
 identifier: "BWBR0019962"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-10-26"
-last_updated: "2006-10-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019962"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "8673803"
-version_id: "13697172"
-internal_id: "C18499561"
-label_id: "8654274"
-dtd_version: "2.0"
-original_entry_into_force: "2006-10-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019962/2006-10-26/0"
-intitule_bron: "Stcrt.2006-209"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-06-14"
-intitule_published: "2006-10-26"
-intitule_in_force: "2006-10-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-209"
-original_signed_date: "2006-06-14"
-original_published_date: "2006-10-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-209-p24-SC77336"
-entry_into_force_date: "2006-10-26"
-jci_1_3: "jci1.3:c:BWBR0019962&z=2006-10-26&g=2006-10-26"
-jci_1_0: "1.0:c:BWBR0019962&g=2006-10-26"
-citeertitel_status: "officieel"
-short_title: "Archiefbeheersregeling voor het College voor de Toelating van Bestrijdingsmiddelen 2006"
-signed_date: "2006-06-14"
-entry_into_force: "2006-10-26"
+publicatiedatum: 2006-10-26
+laatste_update: 2006-10-26
+status: geldig
+toestand: 2006-10-26
+bron: "https://wetten.overheid.nl/BWBR0019962"
+opgehaald: 2026-08-10
 ---
+
 # Archiefbeheersregeling voor het college voor de toelating van bestrijdingsmiddelen 2006
-
-Gelet op [artikel 14 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk I. Begrippenkader
 
@@ -214,25 +188,25 @@ Deze beheersregeling is van toepassing op het beheer van archiefbescheiden van h
 
 2. Hiertoe worden van de archiefbescheiden ten minste de onderstaande kenmerken geregistreerd:
 
-- –. uniek registratienummer;
+- – uniek registratienummer;
 
-- –. afzender of geadresseerde;
+- – afzender of geadresseerde;
 
-- –. door afzender of behandelaar gegeven datum en nummer;
+- – door afzender of behandelaar gegeven datum en nummer;
 
-- –. datum van binnenkomst;
+- – datum van binnenkomst;
 
-- –. onderwerp;
+- – onderwerp;
 
-- –. afdoeningstermijn;
+- – afdoeningstermijn;
 
-- –. behandelend medewerker;
+- – behandelend medewerker;
 
-- –. dossiernummer (van dossier waarin document wordt ingevoegd);
+- – dossiernummer (van dossier waarin document wordt ingevoegd);
 
-- –. werkprocesnummer uit het basisselectiedocument (BSD) van het college;
+- – werkprocesnummer uit het basisselectiedocument (BSD) van het college;
 
-- –. relatie met andere documenten.
+- – relatie met andere documenten.
 
 3. Door de beheerder kunnen documenten van gering belang van registratie worden uitgezonderd.
 
@@ -270,19 +244,19 @@ Deze beheersregeling is van toepassing op het beheer van archiefbescheiden van h
 
 1. Van de dossiers worden ten minste de volgende gegevens geregistreerd in een geautomatiseerd gegevensbeheersysteem:
 
-- –. uniek dossiernummer;
+- – uniek dossiernummer;
 
-- –. organisatieonderdeel dat het dossier vormt;
+- – organisatieonderdeel dat het dossier vormt;
 
-- –. dossieromschrijving;
+- – dossieromschrijving;
 
-- –. looptijd van het dossier;
+- – looptijd van het dossier;
 
-- –. indicatie bewaren of vernietigen met het eventuele vernietigingsjaar;
+- – indicatie bewaren of vernietigen met het eventuele vernietigingsjaar;
 
-- –. werkprocesnummer uit het basisselectiedocument (BSD) van het CTB;
+- – werkprocesnummer uit het basisselectiedocument (BSD) van het CTB;
 
-- –. verblijfplaats (indien noodzakelijk).
+- – verblijfplaats (indien noodzakelijk).
 
 2. Indien wenselijk wordt het ontsluiten van de inhoud van de archiefbescheiden zodanig verricht dat het gebruik van deze gegevens in combinatie met andere informatiebronnen van het CTB mogelijk is.
 
@@ -292,13 +266,13 @@ Deze beheersregeling is van toepassing op het beheer van archiefbescheiden van h
 
 2. Bij het ontwerpen en het onderhouden van de selectielijst moet rekening worden gehouden met:
 
-- –. de taak van het CTB;
+- – de taak van het CTB;
 
-- –. de verhouding van het college tot andere overheidsorganen;
+- – de verhouding van het college tot andere overheidsorganen;
 
-- –. de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed;
+- – de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed;
 
-- –. het belang van de in de archiefbescheiden voorkomende gegevens voor overheidsorganen, voor recht- of bewijszoekenden en voor historisch onderzoek.
+- – het belang van de in de archiefbescheiden voorkomende gegevens voor overheidsorganen, voor recht- of bewijszoekenden en voor historisch onderzoek.
 
 3. Bij de totstandkoming of actualisatie van de selectielijst dient de daartoe vastgestelde wettelijke procedure te worden gevolgd.
 

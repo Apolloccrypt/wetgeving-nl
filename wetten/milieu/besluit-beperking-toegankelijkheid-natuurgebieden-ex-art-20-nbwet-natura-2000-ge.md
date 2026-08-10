@@ -1,50 +1,18 @@
 ---
 title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 20 juli 2006, nr. DRZ/06/3147/LB/SM tot beperking toegankelijkheid natuurgebieden ex. artikel 20 Natuurbeschermingswet 1998 Natura 2000-gebied ‘Waddenzee’ en ‘Noordzeekustzone’"
+citeertitel: "Besluit beperking toegankelijkheid natuurgebieden ex art. 20 Nbwet Natura 2000-gebied Waddenzee en Noordzeekustzone"
 identifier: "BWBR0020122"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-10-01"
-last_updated: "2006-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020122"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "8559233"
-version_id: "13493082"
-internal_id: "C18125381"
-label_id: "8539604"
-dtd_version: "2.0"
-original_entry_into_force: "2006-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020122/2006-10-01/0"
-intitule_bron: "Stcrt.2006-159"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-20"
-intitule_published: "2006-08-17"
-intitule_in_force: "2006-08-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-159"
-original_signed_date: "2006-07-20"
-original_published_date: "2006-08-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-159-p16-SC76408"
-entry_into_force_date: "2006-10-01"
-jci_1_3: "jci1.3:c:BWBR0020122&z=2006-10-01&g=2006-10-01"
-jci_1_0: "1.0:c:BWBR0020122&g=2006-10-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking toegankelijkheid natuurgebieden ex art. 20 Nbwet Natura 2000-gebied Waddenzee en Noordzeekustzone"
-signed_date: "2006-07-20"
-entry_into_force: "2006-10-01"
+publicatiedatum: 2006-10-01
+laatste_update: 2006-10-01
+status: geldig
+toestand: 2006-10-01
+bron: "https://wetten.overheid.nl/BWBR0020122"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 20 juli 2006, nr. DRZ/06/3147/LB/SM tot beperking toegankelijkheid natuurgebieden ex. artikel 20 Natuurbeschermingswet 1998 Natura 2000-gebied ‘Waddenzee’ en ‘Noordzeekustzone’
-
-Inleiding
-
-[Artikel 20, eerste lid, van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=20) (verder: Nb-wet 1998) bepaalt dat gedeputeerde staten de toegang kunnen beperken tot een beschermd natuurmonument als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=10), een aangewezen gebied als bedoeld in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=10a), of een gebied waarvan aanwijzing als zodanig in overweging is genomen zoals bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=12) of delen van bedoelde gebieden, voor zover dit noodzakelijk is voor de bescherming van natuurwaarden.
-
-Het [tweede lid van artikel 20 Nb-wet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=20) bepaalt dat de bevoegdheid die in het eerste lid wordt bedoeld berust bij de Minister van Landbouw, Natuur en Voedselkwaliteit (verder: LNV) in overeenstemming met Onze andere minister indien het gebied als bedoeld in het eerste lid geheel of ten dele wordt beheerd door of onder de verantwoordelijkheid van Onze minister of één van Onze andere ministers.
-
-Het navolgende besluit is handelende in overeenstemming met de Minister van Verkeer en Waterstaat en de Minister van Defensie genomen. Gezien het [mandaatsbesluit LNV Regionale Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016778) is de Regiodirecteur Noord van het Ministerie van LNV gerechtigd dit besluit namens de Minister van LNV te nemen.
-
-Besluit:
 
 ##### Artikel 1
 

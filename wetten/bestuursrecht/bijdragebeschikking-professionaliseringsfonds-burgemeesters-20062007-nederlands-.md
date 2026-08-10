@@ -1,55 +1,17 @@
 ---
 title: "Bijdragebeschikking Professionaliseringsfonds Burgemeesters 2006–2007 Nederlands Genootschap van Burgemeesters"
 identifier: "BWBR0019604"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-05-01"
-last_updated: "2006-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019604"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8084963"
-version_id: "12929112"
-internal_id: "C17420351"
-label_id: "8066004"
-dtd_version: "2.0"
-original_entry_into_force: "2006-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019604/2006-05-01/0"
-intitule_bron: "Stcrt.2006-44"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-24"
-intitule_published: "2006-03-02"
-intitule_in_force: "2006-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-44"
-original_signed_date: "2006-02-24"
-original_published_date: "2006-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-44-p11-SC74029"
-entry_into_force_date: "2006-05-01"
-jci_1_3: "jci1.3:c:BWBR0019604&z=2006-05-01&g=2006-05-01"
-jci_1_0: "1.0:c:BWBR0019604&g=2006-05-01"
-citeertitel_status: "redactioneel"
-signed_date: "2006-02-24"
-entry_into_force: "2006-05-01"
+publicatiedatum: 2006-05-01
+laatste_update: 2006-05-01
+status: geldig
+toestand: 2006-05-01
+bron: "https://wetten.overheid.nl/BWBR0019604"
+opgehaald: 2026-08-10
 ---
+
 # Bijdragebeschikking Professionaliseringsfonds Burgemeesters 2006–2007 Nederlands Genootschap van Burgemeesters
-
-Overwegende dat:
-
-Het Nederlands Genootschap van Burgemeesters zich ten doel stelt om faciliteiten aan te bieden aan alle burgemeesters ten behoeve van het voortdurend professioneel uitoefenen van het ambt;
-
-Het Nederlands Genootschap van Burgemeesters daartoe organisatorische voorzieningen treft, onder de naam ‘Professionaliseringsfonds Burgemeesters’;
-
-Deze faciliteiten de kwaliteit van het openbaar bestuur, waarvoor de Minister van Binnenlandse Zaken en Koninkrijksrelaties zorg draagt, ten goede komen;
-
-In het Georganiseerd Overleg Burgemeesters van 5 december 2005 is overeenstemming bereikt over de financiering van het Professionaliseringsfonds Burgemeesters voor de periode 2006–2007;
-
-Een aanvraag voor een bijdrage van middelen voor het Professionaliseringsfonds Burgemeesters, inclusief een beleidsplan, door het Nederlands Genootschap van Burgemeesters bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties is ingediend;
-
-Het wenselijk is regels vast te stellen betreffende de aan het fonds toe te kennen bijdragen en het beheer van de toegekende middelen.
-
-Besluit:
 
 ##### Artikel 1. Bijdragen
 
@@ -67,13 +29,13 @@ De aard en omvang van de activiteiten waarvoor de bijdragen zijn bedoeld zijn ui
 
 - 1. De bijdragen zijn bedoeld voor:
 
-- a. het verzorgen van faciliteiten, in het bijzonder opleidingen, trainingen en daaraan verwante activiteiten en instrumenten, ter ondersteuning van een zo goed mogelijke uitoefening van het burgemeestersambt als professie, afgestemd op verschillende fases van de loopbaan;
+   - a. het verzorgen van faciliteiten, in het bijzonder opleidingen, trainingen en daaraan verwante activiteiten en instrumenten, ter ondersteuning van een zo goed mogelijke uitoefening van het burgemeestersambt als professie, afgestemd op verschillende fases van de loopbaan;
 
-- b. het ontwikkelen van een kwalitatief hoogwaardig aanbod dat aansluit bij de behoeftes van de burgemeesters;
+   - b. het ontwikkelen van een kwalitatief hoogwaardig aanbod dat aansluit bij de behoeftes van de burgemeesters;
 
-- c. het inrichten en instandhouden van een professionele uitvoeringsorganisatie;
+   - c. het inrichten en instandhouden van een professionele uitvoeringsorganisatie;
 
-- d. de onder a. tot en met c. genoemde activiteiten zijn opgenomen in het Beleidsplan professionaliseringsfonds 2006–2007 onder de kostenposten 1 tot en met 15.
+   - d. de onder a. tot en met c. genoemde activiteiten zijn opgenomen in het Beleidsplan professionaliseringsfonds 2006–2007 onder de kostenposten 1 tot en met 15.
 
 - 2. De inzet van het NGB is om de deelname van burgemeesters aan de faciliteiten van het Professionaliseringsfonds Burgemeesters te maximaliseren. Dit streven komt in de werkwijze tot uitdrukking.
 

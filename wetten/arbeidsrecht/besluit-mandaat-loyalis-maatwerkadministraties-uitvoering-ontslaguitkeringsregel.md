@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie van 29 augustus 2006, nr. 5433969/06, tot het verlenen van mandaat aan Loyalis Maatwerkadministraties B.V. ter zake van de uitvoering van de ontslaguitkeringsregelingen van de sector Rechterlijke Macht"
+citeertitel: "Besluit mandaat Loyalis Maatwerkadministraties (uitvoering ontslaguitkeringsregelingen sector Rechterlijke Macht)"
 identifier: "BWBR0020240"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-09-07"
-last_updated: "2006-09-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020240"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "8580353"
-version_id: "13536832"
-internal_id: "C29288621"
-label_id: "8560574"
-dtd_version: "2.0"
-original_entry_into_force: "2006-09-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020240/2006-09-07/0"
-intitule_bron: "Stcrt.2006-173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-08-29"
-intitule_published: "2006-09-06"
-intitule_in_force: "2006-09-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-173"
-original_signed_date: "2006-08-29"
-original_published_date: "2006-09-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-173-p20-SC76690"
-entry_into_force_date: "2006-09-07"
-jci_1_3: "jci1.3:c:BWBR0020240&z=2006-09-07&g=2006-09-07"
-jci_1_0: "1.0:c:BWBR0020240&g=2006-09-07"
-citeertitel_status: "redactioneel"
-short_title: "Besluit mandaat Loyalis Maatwerkadministraties (uitvoering ontslaguitkeringsregelingen sector Rechterlijke Macht)"
-signed_date: "2006-08-29"
-entry_into_force: "2006-09-07"
+publicatiedatum: 2006-09-07
+laatste_update: 2006-09-07
+status: geldig
+toestand: 2006-09-07
+bron: "https://wetten.overheid.nl/BWBR0020240"
+opgehaald: 2026-08-10
 ---
-# Besluit van de Minister van Justitie van 29 augustus 2006, nr. 5433969/06, tot het verlenen van mandaat aan Loyalis Maatwerkadministraties B.V. ter zake van de uitvoering van de ontslaguitkeringsregelingen van de sector Rechterlijke Macht
 
-Besluit:
+# Besluit van de Minister van Justitie van 29 augustus 2006, nr. 5433969/06, tot het verlenen van mandaat aan Loyalis Maatwerkadministraties B.V. ter zake van de uitvoering van de ontslaguitkeringsregelingen van de sector Rechterlijke Macht
 
 ##### Artikel 1
 

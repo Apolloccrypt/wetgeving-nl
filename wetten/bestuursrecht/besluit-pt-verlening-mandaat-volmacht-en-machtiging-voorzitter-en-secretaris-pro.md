@@ -1,45 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw besluit, d.d. 25 april 2006, tot verlening van mandaat, volmacht en machtiging aan de voorzitter en secretaris van het Productschap Tuinbouw (Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw)"
+citeertitel: "Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw"
 identifier: "BWBR0019834"
-country: "nl"
-rank: "pbo"
-publication_date: "2006-05-21"
-last_updated: "2006-05-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019834"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "8313653"
-version_id: "13181082"
-internal_id: "C17750011"
-label_id: "8294674"
-dtd_version: "2.0"
-original_entry_into_force: "2006-05-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019834/2006-05-21/0"
-intitule_bron: "Vbbo.2006-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-05-08"
-intitule_published: "2006-05-19"
-intitule_in_force: "2006-05-19"
-intitule_status: "goed"
-original_publication: "Vbbo.2006-25"
-original_signed_date: "2006-05-08"
-original_published_date: "2006-05-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2006-05-21"
-jci_1_3: "jci1.3:c:BWBR0019834&z=2006-05-21&g=2006-05-21"
-jci_1_0: "1.0:c:BWBR0019834&g=2006-05-21"
-citeertitel_status: "officieel"
-short_title: "Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw"
-signed_date: "2006-05-08"
-entry_into_force: "2006-05-21"
+publicatiedatum: 2006-05-21
+laatste_update: 2006-05-21
+status: geldig
+toestand: 2006-05-21
+bron: "https://wetten.overheid.nl/BWBR0019834"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw besluit, d.d. 25 april 2006, tot verlening van mandaat, volmacht en machtiging aan de voorzitter en secretaris van het Productschap Tuinbouw (Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw)
-
-Gelet op [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=86), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=92), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95),[104](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=104), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=118),[127 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127)
-
-Gelet op [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1) en [hoofdstuk 10 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10)
-
-BESLUIT:
 
 #### Inleiding
 
@@ -152,11 +125,3 @@ Dit besluit en de daarbij behorende bijlage wordt gepubliceerd in het Verordenin
 ##### Artikel 9
 
 Dit besluit kan worden aangehaald als: Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw.
-
-## Bijlage 1. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019834&artikel=2&z=2006-05-21&g=2006-05-21) van het besluit van het bestuur van het Productschap Tuinbouw, d.d. 25 april 2006, tot verlening van mandaat, volmacht en machtiging aan de voorzitter en secretaris van het Productschap Tuinbouw (Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw)
-
-### Aangelegenheden die door de voorzitter worden afgedaan
-
-## Bijlage 2. als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019834&artikel=3&z=2006-05-21&g=2006-05-21) van het besluit van het bestuur van het Productschap Tuinbouw, d.d.25 april 2006, tot verlening van mandaat, volmacht en machtiging aan de voorzitter en secretaris van het Productschap Tuinbouw (Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw)
-
-### Aangelegenheden die door de secretaris worden afgedaan

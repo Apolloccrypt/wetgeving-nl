@@ -1,45 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d. 29 november 2005, houdenden de vaststelling van de percentages van de heffingen voor de vollegrondsgroenten voor het jaar 2006 (Besluit PT bijzondere heffing vollegrondsgroenten 2006)"
+citeertitel: "Besluit PT bijzondere heffing vollegrondsgroenten 2006"
 identifier: "BWBR0019927"
-country: "nl"
-rank: "pbo"
-publication_date: "2006-07-09"
-last_updated: "2006-07-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019927"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "8533243"
-version_id: "13445002"
-internal_id: "C18037411"
-label_id: "8513564"
-dtd_version: "2.0"
-original_entry_into_force: "2006-07-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019927/2006-07-09/0"
-intitule_bron: "Vbbo.2006-34"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-05-31"
-intitule_published: "2006-07-07"
-intitule_in_force: "2006-07-07"
-intitule_status: "goed"
-original_publication: "Vbbo.2006-34"
-original_signed_date: "2006-05-31"
-original_published_date: "2006-07-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2006-07-09"
-jci_1_3: "jci1.3:c:BWBR0019927&z=2006-07-09&g=2006-07-09"
-jci_1_0: "1.0:c:BWBR0019927&g=2006-07-09"
-citeertitel_status: "officieel"
-short_title: "Besluit PT bijzondere heffing vollegrondsgroenten 2006"
-signed_date: "2006-05-31"
-entry_into_force: "2006-07-09"
+publicatiedatum: 2006-07-09
+laatste_update: 2006-07-09
+status: geldig
+toestand: 2006-07-09
+bron: "https://wetten.overheid.nl/BWBR0019927"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 29 november 2005, houdenden de vaststelling van de percentages van de heffingen voor de vollegrondsgroenten voor het jaar 2006 (Besluit PT bijzondere heffing vollegrondsgroenten 2006)
-
-gelet op [artikel 4, tweede lid van de Verordening PT bijzondere heffing vollegrondsgroenten 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0018491&artikel=4)
-
-gehoord de Commissie voor groenten en fruit, d.d. 17 november 2005;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -69,5 +42,3 @@ Dit besluit treedt in werking op de tweede dag na publicatie in het Verordeninge
 ##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit PT bijzondere heffing vollegrondsgroenten 2006.
-
-Dit besluit en de toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

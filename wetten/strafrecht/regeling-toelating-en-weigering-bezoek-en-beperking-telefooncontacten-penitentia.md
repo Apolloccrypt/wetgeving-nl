@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie van 8 april 2006, nr. 5403085/05/DJI, houdende bepalingen met betrekking tot de toelating en weigering van bezoek en beperkingen inzake het telefoonverkeer (Regeling toelating en weigering bezoek en beperking telefooncontacten penitentiaire inrichtingen)"
+citeertitel: "Regeling toelating en weigering bezoek en beperking telefooncontacten penitentiaire inrichtingen"
 identifier: "BWBR0019741"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-01"
-last_updated: "2025-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019741"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling"
-stam_id: "8237583"
-version_id: "30964382"
-internal_id: "C44347651"
-label_id: "8218754"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019741/2025-11-01/0"
-intitule_bron: "Stcrt.2006-77"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-04-08"
-intitule_published: "2006-04-20"
-intitule_in_force: "2006-04-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-34102"
-original_signed_date: "2025-09-25"
-original_published_date: "2025-10-09"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-34102"
-entry_into_force_date: "2025-11-01"
-jci_1_3: "jci1.3:c:BWBR0019741&z=2025-11-01&g=2025-11-01"
-jci_1_0: "1.0:c:BWBR0019741&g=2025-11-01"
-citeertitel_status: "officieel"
-short_title: "Regeling toelating en weigering bezoek en beperking telefooncontacten penitentiaire inrichtingen"
-signed_date: "2025-09-25"
-entry_into_force: "2025-11-01"
+publicatiedatum: 2025-11-01
+laatste_update: 2025-11-01
+status: geldig
+toestand: 2025-11-01
+bron: "https://wetten.overheid.nl/BWBR0019741"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Justitie van 8 april 2006, nr. 5403085/05/DJI, houdende bepalingen met betrekking tot de toelating en weigering van bezoek en beperkingen inzake het telefoonverkeer (Regeling toelating en weigering bezoek en beperking telefooncontacten penitentiaire inrichtingen)
-
-Gelet op [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=38) en [artikel 39, derde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=39);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -76,11 +50,33 @@ Een bezoeker dient zich desgevraagd bij binnenkomst in een penitentiaire inricht
 
 ##### Artikel 5
 
-1. Een bezoeker die uit hoofde van zijn ambt of beroep de inrichting bezoekt dient naast een identiteitsbewijs zijn beroepspas als bedoeld in de bijlage bij deze regeling te overleggen.
+1. Een bezoeker die uit hoofde van zijn ambt of beroep de inrichting bezoekt dient naast een identiteitsbewijs zijn beroepspas als bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0019741) bij deze regeling te overleggen.
 
 2. Nadat aan de hand van het identiteitsbewijs de identiteit van de bezoeker is vastgesteld, wordt op grond van de beroepspas vastgesteld in welke hoedanigheid de bezoeker de inrichting betreedt.
 
-3. Een bezoeker die uit hoofde van zijn ambt of beroep de inrichting bezoekt en niet tot één van de in de bijlage bij deze regeling genoemde organisaties behoort, dient aan te tonen dat hij in een bepaalde hoedanigheid de inrichting wenst te betreden. Daartoe dient de bezoeker een bewijs van de desbetreffende organisatie dan wel werkgever te overleggen.
+3. Een bezoeker die uit hoofde van zijn ambt of beroep de inrichting bezoekt en niet tot één van de in de [bijlage](https://wetten.overheid.nl/BWBR0019741) bij deze regeling genoemde organisaties behoort, dient aan te tonen dat hij in een bepaalde hoedanigheid de inrichting wenst te betreden. Daartoe dient de bezoeker een bewijs van de desbetreffende organisatie dan wel werkgever te overleggen.
+
+##### Artikel 5a
+
+1. Bij de aanvraag van een beroepspas voor een medewerker van niet-justitiegebonden organisaties als bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0019741) bij deze regeling wordt aan de directeur verstrekt:
+
+- a. door vrijwilligers en medewerkers van een vrijwilligersorganisatie waaraan subsidie in het kader van ondersteuning van gedetineerden door de Minister voor Rechtsbescherming is verleend:
+
+   - 1° een afschrift van het subsidiebesluit voor het desbetreffende jaar;
+
+   - 2° het identiteitsbewijs van de vrijwilliger of medewerker;
+
+   - 3° een bewijs dat de vrijwilliger of medewerker meer dan drie maanden werkzaam is voor de organisatie, en
+
+   - 4° een verklaring omtrent gedrag of een beschrijving getoond gedrag van de desbetreffende vrijwilliger of medewerker.
+
+- b. door medewerkers van een gemeente in het kader van de re-integratie van een gedetineerde: een afschrift van het identiteitsbewijs.
+
+- c. door medewerkers van een zorginstelling in het kader van een behandeling van een gedetineerde: een afschrift van het identiteitsbewijs.
+
+2. De directeur van de divisie Gevangeniswezen en Vreemdelingenbewaring kan een beroepspas toekennen aan medewerkers van overige organisaties die door hem zijn goedgekeurd. Aan het toekennen van de beroepspas kan de directeur voorwaarden stellen.
+
+3. In de huisregels van een extra beveiligde inrichting in de huisregels van een afdeling voor intensief toezicht, en in de huisregels van de terroristenafdeling kunnen nadere voorwaarden worden gesteld voor bezoek met de beroepspas.
 
 ##### Artikel 6
 
@@ -96,88 +92,6 @@ De beslissing tot het weigeren van bezoek voor de maximumtermijn van twaalf maan
 
 - e. een gedetineerde die is geplaatst in een extra beveiligde inrichting.
 
-##### Artikel 7
-
-De circulaire Toegangscontrole bezoekers aan de penitentiaire inrichtingen van 20 mei 1999, kenmerk 752556/99/DJI wordt ingetrokken.
-
-##### Artikel 8
-
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-##### Artikel 9
-
-Deze regeling wordt aangehaald als: Regeling toelating en weigering bezoek en beperking telefooncontacten penitentiaire inrichtingen.
-
-## Bijlage
-
-Beroepspassen bezoekers die uit hoofde van ambt of beroep een gedetineerde dan wel de organisatie bezoeken:
-
-- –. Ambtenaren van het Ministerie van Justitie: de justitiepas;
-
-- –. Reclasseringswerkers: bewijs verstrekt door de Stichting Reclassering Nederland;
-
-- –. Leden van de Raad voor Strafrechtstoepassing en Jeugdbescherming: een door de Dienst Justitiële Inrichtingen uitgegeven bewijs;
-
-- –. Leden van de Commissies van Toezicht: er bestaat geen specifieke pas voor leden van de Commissie van Toezicht. Zo gewenst kan door de desbetreffende inrichting een beroepspasje verstrekt worden;
-
-- –. Raadslieden: een Europees advocatenpaspoort uitgegeven door de Commission Consultative des Barreaux de la Commission Europeène;
-
-- –. Medewerker van niet justitie gebonden organisaties: schriftelijke toestemming tot bezoek van de directeur van de inrichting overeenkomstig artikel 14 van de Regeling inzake de toelating van niet-justitiegebonden organisaties tot penitentiaire inrichtingen.
-
-- –. Tolken/vertalers: een bewijs van inschrijving bij een erkend tolkenbureau conform de circulaire Tolkenpas Kwaliteitsregister Tolken en Vertalers van 19 juli 2005, kenmerk 5350112/05/DJI.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-1. Bij de aanvraag van een beroepspas voor een medewerker van niet-justitiegebonden organisaties als bedoeld in de bijlage bij deze regeling wordt aan de directeur verstrekt:
-
-- a. door vrijwilligers en medewerkers van een vrijwilligersorganisatie waaraan subsidie in het kader van ondersteuning van gedetineerden door de Minister voor Rechtsbescherming is verleend:
-
-- 1°. een afschrift van het subsidiebesluit voor het desbetreffende jaar;
-
-- 2°. het identiteitsbewijs van de vrijwilliger of medewerker;
-
-- 3°. een bewijs dat de vrijwilliger of medewerker meer dan drie maanden werkzaam is voor de organisatie, en
-
-- 4°. een verklaring omtrent gedrag of een beschrijving getoond gedrag van de desbetreffende vrijwilliger of medewerker.
-
-- b. door medewerkers van een gemeente in het kader van de re-integratie van een gedetineerde: een afschrift van het identiteitsbewijs.
-
-- c. door medewerkers van een zorginstelling in het kader van een behandeling van een gedetineerde: een afschrift van het identiteitsbewijs.
-
-2. De directeur van de divisie Gevangeniswezen en Vreemdelingenbewaring kan een beroepspas toekennen aan medewerkers van overige organisaties die door hem zijn goedgekeurd. Aan het toekennen van de beroepspas kan de directeur voorwaarden stellen.
-
-3. In de huisregels van een extra beveiligde inrichting in de huisregels van een afdeling voor intensief toezicht, en in de huisregels van de terroristenafdeling kunnen nadere voorwaarden worden gesteld voor bezoek met de beroepspas.
-
-## Bijlage
-
-Beroepspassen bezoekers die uit hoofde van ambt of beroep een gedetineerde dan wel de organisatie bezoeken:
-
-- –. Ambtenaren van het Ministerie van Justitie en Veiligheid: de rijkspas;
-
-- –. Reclasseringswerkers: bewijs verstrekt door de Stichting Reclassering Nederland;
-
-- –. Leden van de Raad voor Strafrechtstoepassing en Jeugdbescherming: een door de Dienst Justitiële Inrichtingen uitgegeven bewijs;
-
-- –. Leden van de Commissies van Toezicht: er bestaat geen specifieke pas voor leden van de Commissie van Toezicht. Zo gewenst kan door de desbetreffende inrichting een beroepspasje verstrekt worden;
-
-- –. Raadslieden: een Europees advocatenpaspoort uitgegeven door de Commission Consultative des Barreaux de la Commission Europeène;
-
-- –. Medewerker van niet-justitiegebonden organisaties: de instemmingsbrief van de directeur tot verstrekking van een beroepspas en daarmee tot toegang tot een gedetineerde. Personen die kunnen worden aangemerkt als medewerker van niet-justitiegebonden organisaties zijn:
-
-- ○. Vrijwilligers en medewerkers van een vrijwilligersorganisatie waaraan subsidie door de Minister voor Rechtsbescherming is verleend, in het kader van ondersteuning van gedetineerden;
-
-- ○. Medewerkers van een gemeente in het kader van de re-integratie van een gedetineerde;
-
-- ○. Medewerkers van een zorginstelling in het kader van een behandeling van een gedetineerde;
-
-- ○. Medewerkers van overige organisaties die zijn goedgekeurd door de directeur divisie Gevangeniswezen en Vreemdelingenbewaring.
-
-- –. Tolken/vertalers: een bewijs van inschrijving bij een erkend tolkenbureau conform de circulaire Tolkenpas Kwaliteitsregister Tolken en Vertalers van 19 juli 2005, kenmerk 5350112/05/DJI.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 6a
 
 1. Een telefoongesprek als bedoeld in [artikel 40b, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=40b), of [artikel 40c, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=40c) vindt niet eerder plaats dan nadat uit onderzoek van de directeur is gebleken dat geen bezwaar bestaat tegen contact tussen de gedetineerde en de persoon met wie de gedetineerde wenst te telefoneren.
@@ -188,7 +102,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De gedetineerde geeft ten minste 48 uur voorafgaand aan het telefoongesprek binnen Nederland aan in welke taal hij het telefoongesprek wenst te voeren.
 
-2. Plaatsen binnen Nederland als bedoeld in [artikel 39, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=39) zijn in beginsel de penitentiaire inrichtingen zoals genoemd in de bijlage van deze regeling.
+2. Plaatsen binnen Nederland als bedoeld in [artikel 39, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=39) zijn in beginsel de penitentiaire inrichtingen zoals genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0019741) van deze regeling.
 
 3. Voor het voeren van telefoongesprekken buiten Nederland als bedoeld in [artikel 39, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=39), dient de gedetineerde een schriftelijke aanvraag te doen bij de directeur. Bij deze aanvraag wordt in ieder geval vermeld in welke taal de gedetineerde de telefoongesprekken wenst te voeren, een kopie van een geldig identiteitsbewijs van de persoon gevoegd en een gelegaliseerd bewijs van inschrijving, dan wel een bewijs van inschrijving voorzien van een apostille gevoegd niet ouder dan twaalf maanden waaruit blijkt dat de persoon met wie de gedetineerde telefoneert een vaste woon- of verblijfplaats heeft in het buitenland.
 
@@ -240,30 +154,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De Minister kan te allen tijde een reeds toegestaan contact of het daarvan nog resterende gedeelte intrekken, naar een ander tijdstip verplaatsen en daar nadere voorwaarden aan verbinden, indien nieuwe feiten of omstandigheden daartoe aanleiding geven. De Minister wordt onverwijld door de directeur van gewijzigde omstandigheden in kennis gesteld.
 
-## Bijlage
+##### Artikel 7
 
-Beroepspassen bezoekers die uit hoofde van ambt of beroep een gedetineerde dan wel de organisatie bezoeken:
+De circulaire Toegangscontrole bezoekers aan de penitentiaire inrichtingen van 20 mei 1999, kenmerk 752556/99/DJI wordt ingetrokken.
 
-- –. Ambtenaren van het Ministerie van Justitie en Veiligheid: de rijkspas;
+##### Artikel 8
 
-- –. Reclasseringswerkers: bewijs verstrekt door de Stichting Reclassering Nederland;
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-- –. Leden van de Raad voor Strafrechtstoepassing en Jeugdbescherming: een door de Dienst Justitiële Inrichtingen uitgegeven bewijs;
+##### Artikel 9
 
-- –. Leden van de Commissies van Toezicht: er bestaat geen specifieke pas voor leden van de Commissie van Toezicht. Zo gewenst kan door de desbetreffende inrichting een beroepspasje verstrekt worden;
-
-- –. Raadslieden: een Europees advocatenpaspoort uitgegeven door de Commission Consultative des Barreaux de la Commission Europeène;
-
-- –. Medewerker van niet-justitiegebonden organisaties: de instemmingsbrief van de directeur tot verstrekking van een beroepspas en daarmee tot toegang tot een gedetineerde. Personen die kunnen worden aangemerkt als medewerker van niet-justitiegebonden organisaties zijn:
-
-- ○. Vrijwilligers en medewerkers van een vrijwilligersorganisatie waaraan subsidie door de Minister voor Rechtsbescherming is verleend, in het kader van ondersteuning van gedetineerden;
-
-- ○. Medewerkers van een gemeente in het kader van de re-integratie van een gedetineerde;
-
-- ○. Medewerkers van een zorginstelling in het kader van een behandeling van een gedetineerde;
-
-- ○. Medewerkers van overige organisaties die zijn goedgekeurd door de directeur divisie Gevangeniswezen en Vreemdelingenbewaring.
-
-- –. Tolken/vertalers: een bewijs van inschrijving bij een erkend tolkenbureau conform de circulaire Tolkenpas Kwaliteitsregister Tolken en Vertalers van 19 juli 2005, kenmerk 5350112/05/DJI.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling toelating en weigering bezoek en beperking telefooncontacten penitentiaire inrichtingen.

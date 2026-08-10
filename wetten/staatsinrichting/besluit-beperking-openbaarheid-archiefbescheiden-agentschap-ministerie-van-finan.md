@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Financiën van 20 februari 2006, nr. BenC 2006-254M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Agentschap van het Ministerie van Financiën, 1943–1999"
+citeertitel: "Besluit beperking openbaarheid archiefbescheiden Agentschap Ministerie van Financiën, 1943–1999"
 identifier: "BWBR0019593"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-03-08"
-last_updated: "2006-03-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019593"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8087903"
-version_id: "12931762"
-internal_id: "C17424101"
-label_id: "8069004"
-dtd_version: "2.0"
-original_entry_into_force: "2006-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019593/2006-03-08/0"
-intitule_bron: "Stcrt.2006-46"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-20"
-intitule_published: "2006-03-06"
-intitule_in_force: "2006-03-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-46"
-original_signed_date: "2006-02-20"
-original_published_date: "2006-03-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-46-p7-SC74031"
-entry_into_force_date: "2006-03-08"
-jci_1_3: "jci1.3:c:BWBR0019593&z=2006-03-08&g=2006-03-08"
-jci_1_0: "1.0:c:BWBR0019593&g=2006-03-08"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archiefbescheiden Agentschap Ministerie van Financiën, 1943–1999"
-signed_date: "2006-02-20"
-entry_into_force: "2006-03-08"
+publicatiedatum: 2006-03-08
+laatste_update: 2006-03-08
+status: geldig
+toestand: 2006-03-08
+bron: "https://wetten.overheid.nl/BWBR0019593"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van de Minister van Financiën van 20 februari 2006, nr. BenC 2006-254M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Agentschap van het Ministerie van Financiën, 1943–1999
-
-Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en gelezen het advies van de beheerder van de archiefbewaarplaats d.d. 16 december 2005 met het kenmerk C/SA/05/2285;
-
-Besluit:
 
 ##### Artikel 1
 

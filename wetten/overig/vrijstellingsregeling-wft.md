@@ -1,43 +1,17 @@
 ---
 title: "Vrijstellingsregeling Wft"
 identifier: "BWBR0020536"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020536"
+categorie: "Financieel recht"
 soort: "ministeriele-regeling"
-stam_id: "8733443"
-version_id: "24330532"
-internal_id: "C34926671"
-label_id: "8714594"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020536/2026-01-01/0"
-intitule_bron: "Stcrt.2006-229"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-15"
-intitule_published: "2006-11-23"
-intitule_in_force: "2006-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-49343"
-original_signed_date: "2017-08-24"
-original_published_date: "2017-09-06"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2017-49343"
-entry_into_force_date: "2017-08-24"
-jci_1_3: "jci1.3:c:BWBR0020536&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0020536&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2017-08-24"
-entry_into_force: "2017-08-24"
+publicatiedatum: 2017-08-24
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0020536"
+opgehaald: 2026-08-10
 ---
+
 # Vrijstellingsregeling Wft
-
-Gelet op de [artikelen 2:59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59), [2:64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:64), [2:74](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:74), [2:79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79), [2:85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85), [2:91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:91), [2:95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:95), [2:104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104), [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3), [3:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), [3:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6), [3:7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7), [3:111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111), [4:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3), [4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7), [5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:5), [5:68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68) en 5:87 van de Wet op het financieel toezicht;
-
-Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -53,13 +27,183 @@ In deze regeling wordt, voorzover niet anders is bepaald, verstaan onder:
 
 - c. de wet: de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
 
-- d. verordening Europese crowdfundingdienstverleners: [Verordening (EU) 2020/1503](33403R2020) van het Europees Parlement en de Raad van 7 oktober 2020 betreffende Europese crowdfundingdienstverleners voor bedrijven en tot wijziging van [Verordening (EU) 2017/1129](33029R2017) en [Richtlijn (EU) 2019/1937](32019L1937) (PbEU 2020, L 347).
+- d. verordening Europese crowdfundingdienstverleners: Verordening (EU) 2020/1503 van het Europees Parlement en de Raad van 7 oktober 2020 betreffende Europese crowdfundingdienstverleners voor bedrijven en tot wijziging van Verordening (EU) 2017/1129 en Richtlijn (EU) 2019/1937 (PbEU 2020, L 347).
 
-### Hoofdstuk 2. Vrijstelling van het [Deel Markttoegang financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=2)
+### Hoofdstuk 2. Vrijstelling van het Deel Markttoegang financiële ondernemingen
 
 #### § 2.0. Bedrijf van betaaldienstverlener
 
-#### Vrijstelling als bedoeld in [artikel 2:3d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3d)
+##### Vrijstelling als bedoeld in artikel 2:3d van de wet
+
+##### Artikel 1a
+
+1. Van [artikel 2:3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3a) zijn vrijgesteld betaaldienstverleners:
+
+- a. voor zover zij in Nederland betaaldiensten aanbieden als bedoeld onder 1 tot en met 5 van de bijlage bij de richtlijn betaaldiensten;
+
+- b. waarvan het gemiddelde van het totale bedrag van de betalingstransacties die zij de voorafgaande twaalf maanden hebben verricht, met inbegrip van die van agenten waarvoor zij volledig aansprakelijk zijn, niet hoger is dan € 3.000.000 per maand;
+
+- c. waarvan geen van de personen die het beleid bepalen of mede bepalen personen zijn met antecedenten als bedoeld in [artikel 6, onderdelen a, b en d, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=6) voor zover deze betrekking hebben op het witwassen van geld, terrorismefinanciering of vermogensmisdrijven of als misdrijf aangemerkte overtredingen van financiële toezichtswetgeving; en
+
+- d. die de Nederlandsche Bank in kennis hebben gesteld van hun voornemen om de bedoelde betaaldiensten te verlenen.
+
+2. Het ingevolge [artikel 3:29a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29a) en de [artikelen 26e tot en met 26h van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26e) bepaalde is van overeenkomstige toepassing op betaaldienstverleners als bedoeld in het eerste lid.
+
+3. Indien een betaaldienstverlener als bedoeld in het eerste lid zijn werkzaamheden niet gedurende de gehele periode van de voorafgaande twaalf maanden heeft verricht, kan voor de toepassing van het eerste lid, onderdeel b, worden uitgegaan van een programma van werkzaamheden waarin naar het oordeel van de Nederlandsche Bank een reële begroting van het totale bedrag aan betalingstransacties is opgenomen.
+
+4. Een betaaldienstverlener als bedoeld in het eerste lid stelt de Nederlandsche Bank in kennis van elke verandering in zijn situatie die relevant is voor het naleven van de in het eerste lid gestelde voorschriften.
+
+##### Artikel 1b
+
+Elektronischgeldinstellingen als bedoeld in [artikel 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0b&artikel=1d&z=2026-01-01&g=2026-01-01) zijn vrijgesteld van [artikel 2:3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3a), voor zover zij betaaldiensten aanbieden als bedoeld onder 1 tot en met 5 van de bijlage bij de richtlijn betaaldiensten die verband houden met de uitgifte van elektronisch geld.
+
+#### § 2.0a. Bedrijf van bewaarder
+
+##### Vrijstelling als bedoeld in artikel 2:3h van de wet
+
+##### Artikel 1c
+
+Van [artikel 2:3g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3g), van de wet zijn vrijgesteld entiteiten voorzover zij:
+
+- a. optreden als bewaarder van beleggingsinstellingen waarvan door de deelnemers gedurende een periode van vijf jaar vanaf het tijdstip waarop de rechten van deelneming voor het eerst zijn verworven geen recht tot inkoop of terugbetaling van rechten van deelneming kan worden uitgeoefend en de beleggingsinstellingen:
+
+   - 1°. overeenkomstig hun beleggingsbeleid over het algemeen niet beleggen in activa die in bewaring moeten worden gegeven; of
+
+   - 2°. over het algemeen beleggen in uitgevende instellingen en niet-beursgenoteerde uitgevende instellingen om controle als bedoeld in de [artikelen 4:37q](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37q) en [4:37w van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37w) in deze instellingen te verkrijgen;
+
+- b. de taken als bewaarder verrichten in het kader van hun beroeps- of bedrijfsuitoefening; en
+
+- c. in het kader van de in onderdeel b bedoelde beroeps- of bedrijfsuitoefening verplicht zijn zich in te schrijven in een wettelijk erkend beroepsregister of moeten voldoen aan regelgeving inzake de beroepsmoraal.
+
+#### § 2.0b. Bedrijf van elektronischgeldinstelling
+
+##### Vrijstelling als bedoeld in artikel 2:10d van de wet
+
+##### Artikel 1d
+
+1. Van [artikel 2:10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10a) zijn vrijgesteld elektronischgeldinstellingen met rechtspersoonlijkheid, indien:
+
+- a. het elektronisch geld in Nederland wordt uitgegeven en de gezamenlijke waarde van de financiële verplichtingen van de onderneming die met de uitgifte van elektronisch geld verband houden, gemiddeld niet hoger is dan € 5.000.000;
+
+- b. geen van de personen die het beleid bepalen of mede bepalen personen zijn met antecedenten als bedoeld in [artikel 6, onderdeel a, b of d, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=6), voor zover deze betrekking hebben op het witwassen van geld, terrorismefinanciering of vermogensmisdrijven of als misdrijf aangemerkte overtredingen van financiële toezichtswetgeving;
+
+- c. de onderneming elektronisch geld slechts uitgeeft via een betaalinstrument of rekening voor elektronisch geld waarop maximaal een bedrag van € 150 tegelijk kan worden opgeslagen; en
+
+- d. de onderneming de Nederlandsche Bank in kennis heeft gesteld van haar voornemen om elektronisch geld uit te geven.
+
+2. Indien een elektronischgeldinstelling als bedoeld in het eerste lid zijn werkzaamheden niet gedurende de gehele periode van de voorafgaande twaalf maanden heeft verricht, kan voor de toepassing van het eerste lid, onderdeel a, worden uitgegaan van een programma van werkzaamheden waarin naar het oordeel van de Nederlandsche Bank een reële begroting is opgenomen van de gezamenlijke waarde van de financiële verplichtingen die verband houden met de uitgifte van elektronisch geld.
+
+3. Een elektronischgeldinstelling als bedoeld in het eerste lid stelt de Nederlandsche Bank onverwijld in kennis van elke verandering in zijn situatie die relevant is voor het naleven van de in het eerste lid gestelde regels.
+
+#### § 2.0c. Bedrijf van natura-uitvaartverzekeraar of schadeverzekeraar met beperkte risico-omvang
+
+##### Vrijstelling als bedoeld in de artikelen 2:49b en 2:54.0a van de wet
+
+##### Artikel 1e
+
+1. Van [artikel 2:48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:48) zijn vrijgesteld natura-uitvaartverzekeraars:
+
+- a. waarvan de jaarlijkse bruto geboekte premie-inkomsten niet meer bedragen dan € 2.200.000;
+
+- b. waarvan de technische voorzieningen, berekend overeenkomstig [titel 9, afdeling 15, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten en op entiteiten voor risico-acceptatie kunnen worden verhaald, niet meer bedragen dan € 10.700.000;
+
+- c. die niet behoren tot een groep waarvan de totale technische voorzieningen, berekend overeenkomstig [titel 9, afdeling 15, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), meer dan € 26.600.000 bedragen of waarvan een verzekeraar, niet zijnde een verzekeraar met beperkte risico-omvang, deel uitmaakt;
+
+- d. waarvan het bedrijf geen herverzekeringsactiviteiten omvat die:
+
+   - 1°. meer bedragen dan € 600.000 van de bruto geboekte premie-inkomsten, of meer dan € 2.700.000 van de technische voorzieningen berekend ingevolge [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045), zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten en van entiteiten voor risico-acceptatie kunnen worden verhaald, of
+
+   - 2°. meer dan 10% uitmaken van de bruto geboekte premie-inkomsten of meer dan 10% uitmaken van de technische voorzieningen, zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten en op entiteiten voor risico-acceptatie kunnen worden verhaald;
+
+- e. die geen ander bedrijf uitoefenen dan het natura-uitvaartverzekeringsbedrijf, met uitzondering van handelsactiviteiten die voortvloeien uit het natura-uitvaartverzekeringsbedrijf en het uitoefenen van het bedrijf van herverzekeraar in de activiteit natura-uitvaartherverzekering; en
+
+- f. die geen verzekeringen sluiten met een dekking van meer dan € 14.000 per overlijdensgeval.
+
+2. Het eerste lid is niet van toepassing op een natura-uitvaartverzekeraar die ervoor gekozen heeft zijn werkzaamheden met een vergunning als bedoeld in [artikel 2:48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:48) te verrichten.
+
+3. Een ingevolge het eerste lid vrijgestelde natura-uitvaartverzekeraar informeert binnen zes maanden volgend op het van toepassing worden van de vrijstelling eenmalig alle verzekeringnemers over het feit dat hij niet meer onder prudentieel toezicht staat van de Nederlandsche Bank. Bij ieder aanbod voor het sluiten van een verzekering, in reclame-uitingen en documenten waarin een dergelijk aanbod in het vooruitzicht wordt gesteld, in andere precontractuele informatie aan aspirant-verzekeringnemers en in de verzekeringovereenkomst, vermeldt de verzekeraar dat hij voor het sluiten van natura-uitvaartverzekeringen niet onder prudentieel toezicht staat van de Nederlandsche Bank.
+
+4. Een ingevolge het eerste lid vrijgestelde natura-uitvaartverzekeraar stelt de Nederlandsche Bank in kennis van elke verandering in zijn situatie die relevant is voor de toepassing van de vrijstelling van het eerste lid.
+
+5. Indien de in het eerste lid, onderdelen a tot en met d, genoemde bedragen onderscheidenlijk percentages drie achtereenvolgende jaren worden overschreden, is de vrijstelling met ingang van het vierde jaar niet meer van toepassing. De vrijstelling is opnieuw van toepassing indien de verzekeraar gedurende drie achtereenvolgende jaren aan de eisen van het eerste lid heeft voldaan.
+
+##### Artikel 1f
+
+1. Van [artikel 2:48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:48) zijn vrijgesteld schadeverzekeraars:
+
+- a. waarvan de jaarlijkse bruto geboekte premie-inkomsten niet meer bedragen dan € 2.200.000;
+
+- b. waarvan de technische voorzieningen, berekend overeenkomstig [titel 9, afdeling 15, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten of op entiteiten voor risico-acceptatie kunnen worden verhaald, niet meer bedragen dan € 10.700.000;
+
+- c. die niet behoort tot een groep waarvan de totale technische voorzieningen, berekend overeenkomstig [titel 9, afdeling 15, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), meer dan € 26.600.000 bedragen of waarvan een verzekeraar, niet zijnde een verzekeraar met beperkte risico-omvang, deel uitmaakt;
+
+- d. waarvan het bedrijf geen herverzekeringsactiviteiten omvat die:
+
+   - 1°. meer bedragen dan € 600.000 van de bruto geboekte premie-inkomsten, of meer dan € 2.700.000 van de technische voorzieningen berekend ingevolge [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045), zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten en van entiteiten voor risico-acceptatie kunnen worden verhaald, of
+
+   - 2°. meer dan 10% uitmaken van de bruto geboekte premie-inkomsten of meer dan 10% uitmaken van de technische voorzieningen, zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten en op entiteiten voor risico-acceptatie kunnen worden verhaald;
+
+- e. die geen ander bedrijf uitoefenen dan het schadeverzekeringsbedrijf, met uitzondering van handelsactiviteiten die voortvloeien uit het schadeverzekeringsbedrijf en het uitoefenen van het bedrijf van herverzekeraar in de activiteit schadeherverzekering;
+
+- f. die geen verzekeringen sluiten met een dekking van meer dan € 14.000 per begunstigde per potentieel schadegeval; en
+
+- g. die geen schaden verzekeren veroorzaakt door of ontstaan uit gewapend conflict, burgeroorlog, opstand, binnenlandse onlusten, oproer of muiterij die zich in Nederland voordoen, behoudens het verzekeren van risico’s van molest in de algemeen gebruikelijke molestclausules in zee-, transport-, luchtvaart- en reisverzekeringen, zolang de Nederlandsche Bank daartegen geen bedenkingen naar voren heeft gebracht.
+
+2. [Artikel 1e, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1e&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+
+##### Artikel 1g
+
+1. Van [artikel 2:50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) zijn vrijgesteld natura-uitvaartverzekeraars die voldoen aan de eisen, bedoeld in [artikel 1e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1e&z=2026-01-01&g=2026-01-01).
+
+2. Van [artikel 2:50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) zijn vrijgesteld schadeverzekeraars die voldoen aan de eisen, bedoeld in [artikel 1f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1f&z=2026-01-01&g=2026-01-01).
+
+3. Het eerste en tweede lid zijn niet van toepassing op een verzekeraar die ervoor gekozen heeft zijn werkzaamheden met een vergunning als bedoeld in [artikel 2:50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) te verrichten.
+
+4. [Artikel 1e, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1e&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+
+#### § 2.0d. Bedrijf van wisselinstelling
+
+##### Vrijstelling als bedoeld in artikel 2:54k, eerste lid, van de wet
+
+##### Artikel 1h
+
+1. Van [artikel 2:54i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i) zijn vrijgesteld ondernemingen die het bedrijf van hotel uitoefenen en die als logiesverstrekkend bedrijf zijn ingeschreven in een door het Bedrijfschap Horeca en Catering bijgehouden register, voor zover het betreft het wisselen van munten of bankbiljetten en het uitbetalen van munten of bankbiljetten op vertoon van een creditcard of tegen inlevering van een of meer cheques, met een tegenwaarde van ten hoogste €  500 per gast per overnachting, voor natuurlijke personen aan wie tevens door het hotel tegen betaling logies wordt verstrekt.
+
+2. Aan de vrijstelling, bedoeld in het eerste lid, zijn de volgende voorschriften verbonden:
+
+- a. reclame-uitingen met betrekking tot de vrijgestelde werkzaamheden zijn slechts toegelaten voorzover het betreft:
+
+   - 1°. het uitstallen van koersenborden die niet vanaf de openbare weg leesbaar zijn;
+
+   - 2°. vermelding in folders en brochures die in hoofdzaak de hoofdactiviteit betreffen;
+
+   - 3°. vermelding, al dan niet met behulp van pictogrammen, in hotelgidsen;
+
+   - 4°. vermelding in het interne communicatiecircuit van het hotel;
+
+- b. buitenlandse munten en bankbiljetten die worden gebruikt of verworven bij de vrijgestelde werkzaamheden mogen slechts worden betrokken of afgestort bij een financiële onderneming die bevoegd is in Nederland het bedrijf van betaaldienstagent, betaaldienstverlener of bank uit te oefenen dan wel bij een wisselinstelling die beschikt over een vergunning, bedoeld in [artikel 2:54i, eerste lid, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i), waartoe met de desbetreffende betaaldienstagent, betaaldienstverlener, bank of wisselinstelling een duurzame overeenkomst is gesloten;
+
+- c. er wordt een administratie bijgehouden waaruit blijkt waar en wanneer buitenlandse munten en bankbiljetten zijn betrokken en afgestort, en waarin van iedere wisseltransactie wordt vastgelegd: de datum, het type transactie, de betrokken valuta’s, de omvang van de transactie, de naam van de cliënt en het kamernummer van de cliënt;
+
+- d. de onder c bedoelde gegevens blijven tot vijf jaar na het uitvoeren van de transactie bewaard.
+
+##### Artikel 1i
+
+Van [artikel 2:54i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i) zijn vrijgesteld beleggingsondernemingen waaraan een vergunning als bedoeld in [artikel 2:96, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) is verleend, voor zover het betreft het uitbetalen van munten en bankbiljetten tegen inlevering van een of meer onderdelen van het couponblad van een waardepapier aan toonder tegen inlevering waarvan de rente op dit waardepapier kan worden geïnd.
+
+#### § 2.0e. Bedrijf van kredietunie
+
+##### Vrijstelling als bedoeld in artikel 2:54q van de wet
+
+##### Artikel 1j
+
+1. Van [artikel 2:54o van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54o) zijn vrijgesteld kredietunies waarvan het bedrag aan aangetrokken opvorderbare gelden minder bedraagt dan € 10.000.000.
+
+2. Een kredietunie als bedoel in het eerste lid vermeldt op haar website, in reclame-uitingen en in documenten over de bedrijfsactiviteiten van de onderneming, dat de onderneming voor de uitoefening van haar activiteiten niet vergunningplichtig is ingevolge de wet en niet onder toezicht staat van de Nederlandsche Bank en de Autoriteit Financiële Markten.
+
+#### § 2.1. Aanbieden van beleggingsobjecten
+
+##### Vrijstelling als bedoeld in artikel 2:59, eerste lid, van de wet
 
 ##### Artikel 2
 
@@ -67,45 +211,71 @@ In deze regeling wordt, voorzover niet anders is bepaald, verstaan onder:
 
 - a. aanbieders van beleggingsobjecten voorzover die beleggingsobjecten:
 
-- 1°. aan minder dan honderd consumenten worden aangeboden;
+   - 1°. aan minder dan honderd consumenten worden aangeboden;
 
-- 2°. deel uitmaken van een serie van beleggingsobjecten als bedoeld in [artikel 1, onderdeel bb, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1) die minder dan twintig beleggingsobjecten omvat;
+   - 2°. deel uitmaken van een serie van beleggingsobjecten als bedoeld in [artikel 1, onderdeel bb, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1) die minder dan twintig beleggingsobjecten omvat;
 
-- 3°. een waarde hebben die niet volgens de regels van [artikel 110 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=110), indien dat van toepassing zou zijn, kan worden bepaald;
+   - 3°. een waarde hebben die niet volgens de regels van [artikel 110 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=110), indien dat van toepassing zou zijn, kan worden bepaald;
 
-- 4°. worden aangeboden voor een nominaal bedrag per beleggingsobject van ten minste € 100 000; of
+   - 4°. worden aangeboden voor een nominaal bedrag per beleggingsobject van ten minste € 100 000; of
 
-- 5°. cryptoactiva zijn als gedefinieerd in artikel 3, eerste lid, punt 5, van [Verordening (EU) 2023/1114](32023R1114); en
+   - 5°. cryptoactiva zijn als gedefinieerd in artikel 3, eerste lid, punt 5, van Verordening (EU) 2023/1114; en
 
 - b. aanbieders van beleggingsobjecten voorzover zij financiële diensten verlenen aan:
 
-- 1°. consumenten die bij hen werkzaam zijn of anderszins onder hun verantwoordelijkheid vallen;
+   - 1°. consumenten die bij hen werkzaam zijn of anderszins onder hun verantwoordelijkheid vallen;
 
-- 2°. consumenten die werkzaam zijn bij of anderszins onder de verantwoordelijkheid vallen van andere rechtspersonen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden; of
+   - 2°. consumenten die werkzaam zijn bij of anderszins onder de verantwoordelijkheid vallen van andere rechtspersonen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden; of
 
-- 3°. consumenten waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden.
+   - 3°. consumenten waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden.
 
 2. Indien een aanbieding niet uitsluitend aan gekwalificeerde beleggers wordt gedaan is het eerste lid, aanhef en onderdeel a, slechts van toepassing voor zover de aanbieder bij een aanbod van beleggingsobjecten als bedoeld in het eerste lid, en in reclame-uitingen en documenten waarin een dergelijk aanbod in het vooruitzicht wordt gesteld, vermeldt dat hij voor het aanbieden niet vergunningplichtig is ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) en niet onder toezicht staat van de Autoriteit Financiële Markten.
 
-#### § 2.1. Aanbieden van beleggingsobjecten
+#### § 2.2. Aanbieden van krediet
 
-#### Vrijstelling als bedoeld in [artikel 2:59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59)
+##### Vrijstelling als bedoeld in artikel 2:64, eerste lid, van de wet
 
 ##### Artikel 3
 
 Van [artikel 2:60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) zijn vrijgesteld ondernemingen waaraan vorderingen uit hoofde van overeenkomsten inzake krediet zijn overgedragen die zij niet zelf als wederpartij zijn aangegaan, indien het beheer en de uitvoering van die overeenkomsten krachtens overeenkomst geschiedt door een kredietbeheerder.
 
-#### § 2.2. Aanbieden van krediet
+##### Artikel 3a
 
-#### Vrijstelling als bedoeld in [artikel 2:64, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:64)
+Van [artikel 2:60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) zijn vrijgesteld instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b), voorzover:
+
+- a. zij krediet aanbieden ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1);
+
+- b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120); en
+
+- c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.
+
+##### Artikel 3b
+
+Van [artikel 2:60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) zijn vrijgesteld:
+
+- a. betaaldienstverleners die voor het uitoefenen van het bedrijf van betaaldienstverlener een door de Nederlandsche Bank op grond van [artikel 2:3b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3b) verleende vergunning hebben, voorzover zij in Nederland uitsluitend krediet aanbieden in verband met betaaldiensten als bedoeld in de punten 4, 5 en 7 van de bijlage bij de richtlijn betaaldiensten mits is voldaan aan de voorwaarden van [artikel 40c Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40c); en
+
+- b. betaaldienstverleners met zetel in een andere lidstaat die voor het uitoefenen van het bedrijf van betaaldienstverlener een door de toezichthoudende instantie van die lidstaat verleende vergunning hebben, voorzover zij in Nederland uitsluitend krediet in verband met betaaldiensten als bedoeld in de punten 4, 5, en 7 van de bijlage bij de richtlijn betaaldiensten aanbieden vanuit een in Nederland gelegen bijkantoor of door middel van het verrichten van diensten naar Nederland mits is voldaan aan de voorwaarden van artikel 16, derde lid, van de richtlijn betaaldiensten.
+
+##### Artikel 3c
+
+Van [artikel 2:60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) zijn vrijgesteld personen die aan een consument kosteloos uitstel van betaling verlenen van een uit een overeenkomst inzake krediet als bedoeld in [artikel 1:20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:20) voortvloeiende vordering tot betaling van een geldsom.
+
+##### Artikel 3d
+
+Van [artikel 2:60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) zijn vrijgesteld kredietkopers met zetel in Nederland die uitsluitend de rechten van een kredietgever op grond van een niet-renderende kredietovereenkomst met een consument of niet-renderende kredietovereenkomsten met een consument kopen en die op grond van [artikel 4:81i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:81i) een financiële onderneming als bedoeld in dat artikel hebben aangewezen voor het servicen van niet-renderende kredietovereenkomsten.
+
+#### § 2.3. Aanbieden van rechten van deelneming
+
+##### Vrijstelling als bedoeld in artikel 2:74 van de wet
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 #### § 2.4. Adviseren
 
-#### Vrijstelling als bedoeld in [artikel 2:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79)
+##### Vrijstelling als bedoeld in artikel 2:79, eerste lid, van de wet
 
 ##### Artikel 5
 
@@ -115,13 +285,13 @@ Vervallen
 
 - b. adviseurs voorzover zij adviseren over verzekeringen aan:
 
-- 1°. rechtspersonen waarin zij deelnemen;
+   - 1°. rechtspersonen waarin zij deelnemen;
 
-- 2°. vennootschappen waarvan zij vennoot zijn; of
+   - 2°. vennootschappen waarvan zij vennoot zijn; of
 
-- 3°. rechtspersonen of vennootschappen waarin of waarvan andere rechtspersonen of vennootschappen waarmee zij in een formele of feitelijke zeggenschapsstructuur verbonden zijn, deelnemen onderscheidenlijk vennoot zijn;
+   - 3°. rechtspersonen of vennootschappen waarin of waarvan andere rechtspersonen of vennootschappen waarmee zij in een formele of feitelijke zeggenschapsstructuur verbonden zijn, deelnemen onderscheidenlijk vennoot zijn;
 
-- c. vervallen;
+- c. *vervallen;*
 
 - d. adviseurs voorzover zij tevens optreden als bemiddelaar ten aanzien van het aanbevolen financiële product en zij als bemiddelaar zijn vrijgesteld ingevolge [artikel 6, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01);
 
@@ -149,9 +319,21 @@ Vervallen
 
 4. Het eerste lid, aanhef en onderdeel d, is slechts van toepassing indien de in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01), bedoelde andere onderneming volledig verantwoordelijk is voor het adviseren.
 
-#### § 2.0c. **Bedrijf van wisselinstelling**
+##### Artikel 5a
 
-#### Vrijstelling als bedoeld in [artikel 2:54k, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54k)
+1. Van [artikel 2:75, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:75) zijn vrijgesteld instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b), voorzover:
+
+- a. zij adviseren over krediet dat zij tevens aanbieden of waarin zij tevens bemiddelen ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1);
+
+- b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120); en
+
+- c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.
+
+2. Instellingen die zijn vrijgesteld op grond van het eerste lid, zijn tevens vrijgesteld van [artikel 2:75, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:75), voor wat betreft het adviseren over het openen van een betaalrekening of spaarrekening, met inbegrip van de aan een dergelijke rekening verbonden betaal-, spaar-, of elektronischgeldfaciliteiten, ten behoeve van krediet als bedoeld in het eerste lid.
+
+#### § 2.5. Bemiddelen
+
+##### Vrijstelling als bedoeld in artikel 2:85, eerste lid, van de wet
 
 ##### Artikel 6
 
@@ -169,11 +351,11 @@ Vervallen
 
 - f. bemiddelaars, met uitzondering van bemiddelaars in krediet, voorzover zij bemiddelen ten behoeve van:
 
-- 1°. consumenten die bij hen werkzaam zijn of anderszins onder hun verantwoordelijkheid vallen;
+   - 1°. consumenten die bij hen werkzaam zijn of anderszins onder hun verantwoordelijkheid vallen;
 
-- 2°. consumenten die werkzaam zijn bij of anderszins onder de verantwoordelijkheid vallen van andere rechtspersonen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden; of
+   - 2°. consumenten die werkzaam zijn bij of anderszins onder de verantwoordelijkheid vallen van andere rechtspersonen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden; of
 
-- 3°. consumenten of, indien het financiële diensten met betrekking tot verzekeringen of herverzekeringsbemiddeling betreft, cliënten waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden;
+   - 3°. consumenten of, indien het financiële diensten met betrekking tot verzekeringen of herverzekeringsbemiddeling betreft, cliënten waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden;
 
 - g. gemeenten voorzover zij bemiddelen in zorgverzekeringen of ziektekostenverzekeringen ter aanvulling van zorgverzekeringen tussen financiëledienstverleners en consumenten van wie het inkomen niet meer dan 130 procent van de relevante bijstandnorm als bedoeld in [hoofdstuk 3 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3) bedraagt;
 
@@ -195,6 +377,20 @@ Vervallen
 
 - b. een andere hoofdberoepswerkzaamheid heeft dan bemiddeling in goederenkrediet en het goederenkrediet dient ter verschaffing van het genot van een roerende zaak, dan wel het verlenen van een dienst.
 
+##### Artikel 6a
+
+1. Van [artikel 2:80, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80) zijn vrijgesteld instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b), voorzover:
+
+- a. zij bemiddelen in krediet ter overbrugging van tijdelijke liquiditeitstekorten ten behoeve van natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1);
+
+- b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120); en
+
+- c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.
+
+2. Instellingen die zijn vrijgesteld op grond van het eerste lid, zijn tevens vrijgesteld van [artikel 2:80, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80), voor wat betreft het bemiddelen in het openen van een betaalrekening of spaarrekening, met inbegrip van de aan een dergelijke rekening verbonden betaal-, spaar-, of elektronischgeldfaciliteiten, ten behoeve van krediet als bedoeld in het eerste lid.
+
+3. Instellingen die zijn vrijgesteld op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.2&artikel=3a&z=2026-01-01&g=2026-01-01), zijn tevens vrijgesteld van [artikel 2:80, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80), voor wat betreft het bemiddelen in het openen van een betaalrekening of spaarrekening, met inbegrip van de aan een dergelijke rekening verbonden betaal-, spaar-, of elektronischgeldfaciliteiten, ten behoeve van krediet als bedoeld in artikel 3a.
+
 ##### Artikel 7
 
 1. Van [artikel 2:80, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80) zijn vrijgesteld bemiddelaars in verzekeringen voorzover:
@@ -203,31 +399,31 @@ Vervallen
 
 - b. zij bemiddelen voor:
 
-- 1°. rechtspersonen waarin zij deelnemen;
+   - 1°. rechtspersonen waarin zij deelnemen;
 
-- 2°. vennootschappen waarvan zij vennoot zijn; of
+   - 2°. vennootschappen waarvan zij vennoot zijn; of
 
-- 3°. rechtspersonen of vennootschappen waarin of waarvan andere rechtspersonen of vennootschappen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden, deelnemen onderscheidenlijk vennoot zijn;
+   - 3°. rechtspersonen of vennootschappen waarin of waarvan andere rechtspersonen of vennootschappen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden, deelnemen onderscheidenlijk vennoot zijn;
 
 - c. zij een andere hoofdberoepswerkzaamheid hebben dan het bemiddelen in verzekeringen en de verzekering:
 
-- 1°. een aanvulling is op de levering van een zaak of de verlening van een dienst door de desbetreffende bemiddelaar, en de verzekering het risico dekt van defect, verlies, of beschadiging van de geleverde zaak of het niet-gebruik van de verleende dienst; of
+   - 1°. een aanvulling is op de levering van een zaak of de verlening van een dienst door de desbetreffende bemiddelaar, en de verzekering het risico dekt van defect, verlies, of beschadiging van de geleverde zaak of het niet-gebruik van de verleende dienst; of
 
-- 2°. het risico dekt van beschadiging of verlies van bagage of andere risico’s die verband houden met een bij die bemiddelaar geboekte reis; en het bedrag van de premie voor de verzekering niet hoger is dan € 600 pro rata per jaar, of, indien de verzekering een aanvulling is op een dienst en de duur van de dienst gelijk is aan of minder is dan drie maanden, het bedrag van de premie niet hoger is dan € 200 per persoon.
+   - 2°. het risico dekt van beschadiging of verlies van bagage of andere risico’s die verband houden met een bij die bemiddelaar geboekte reis; en het bedrag van de premie voor de verzekering niet hoger is dan € 600 pro rata per jaar, of, indien de verzekering een aanvulling is op een dienst en de duur van de dienst gelijk is aan of minder is dan drie maanden, het bedrag van de premie niet hoger is dan € 200 per persoon.
 
 2. Het eerste lid, aanhef en onderdeel c, is slechts van toepassing op een bemiddelaar indien de verzekeraar of bemiddelaar in verzekeringen waarvoor de bemiddelaar bemiddelt ervoor zorg draagt dat de bemiddelaar voldoet aan [artikel 47, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=4&paragraaf=4.7&artikel=47&z=2026-01-01&g=2026-01-01).
 
-#### § 2.0d. Bedrijf van kredietunie
+#### § 2.6. Herverzekeringsbemiddelen
 
-#### Vrijstelling als bedoeld in [artikel 2:54q van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54q)
+##### Vrijstelling als bedoeld in artikel 2:91, eerste lid, van de wet
 
 ##### Artikel 8
 
 Van [artikel 2:86, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:86) zijn vrijgesteld herverzekeringsbemiddelaars voorzover zij financiële diensten verlenen aan cliënten waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden.
 
-#### § 2.0e. Bedrijf van kredietunie
+#### § 2.7. Optreden als gevolmachtigde agent of ondergevolmachtigde agent
 
-#### Vrijstelling als bedoeld in [artikel 2:54q van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54q)
+##### Vrijstelling als bedoeld in artikel 2:95, eerste lid, van de wet
 
 ##### Artikel 9
 
@@ -239,9 +435,9 @@ Van [artikel 2:92, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - c. consumenten of, indien het financiële diensten met betrekking tot verzekeringen of herverzekeringsbemiddeling betreft, cliënten, waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden.
 
-#### § 2.1. Aanbieden van beleggingsobjecten
+#### § 2.8. Verlenen van beleggingsdiensten
 
-#### Vrijstelling als bedoeld in [artikel 2:59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59)
+##### Vrijstelling als bedoeld in artikel 2:104, eerste en tweede lid, van de wet
 
 ##### Artikel 10
 
@@ -257,7 +453,21 @@ Van [artikel 2:92, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 4. Het eerste lid is niet van toepassing op beleggingsondernemingen die op grond van artikel 47, derde lid, eerste en tweede volzin, van de verordening markten voor financiële instrumenten bevoegd zijn om vanuit een bijkantoor dat is gelegen in een andere lidstaat in Nederland de in het eerste lid bedoelde beleggingsdiensten te verlenen of in de uitoefening van hun beroep of bedrijf te handelen voor eigen rekening.
 
-5. Beleggingsondernemingen als bedoeld in het eerste lid die op het tijdstip dat onmiddellijk voorafgaat aan de inwerkingtreding van de Wet implementatie richtlijn markten voor financiële instrumenten 2014 zijn vrijgesteld van [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) zijn daarvan ook na dat tijdstip vrijgesteld, mits zij voor 1 januari 2019 aan de Autoriteit Financiële Markten op een door haar voorgeschreven wijze melden dat zij in Nederland geen beleggingsdiensten verlenen aan niet-professionele beleggers of professionele beleggers als bedoeld in bijlage II, afdeling II, van de richtlijn markten voor financiële instrumenten 2014.
+5. Beleggingsondernemingen als bedoeld in het eerste lid die op het tijdstip dat onmiddellijk voorafgaat aan de inwerkingtreding van de Wet implementatie richtlijn markten voor financiële instrumenten 2014 zijn vrijgesteld van [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) zijn daarvan ook na dat tijdstip vrijgesteld, mits zij voor 1 januari 2019 aan de Autoriteit Financiële Markten op een door haar voorgeschreven wijze melden dat zij in Nederland geen beleggingsdiensten verlenen aan niet-professionele beleggers of professionele beleggers als bedoeld in bijlage II, afdeling II, van de richtlijn markten voor financiële instrumenten 2014.
+
+##### Artikel 10a
+
+1. Onverminderd [artikel 1:18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:18) en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.8&artikel=10&z=2026-01-01&g=2026-01-01) van deze regeling, zijn van [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) vrijgesteld beleggingsondernemingen met zetel in een staat die geen lidstaat is, die in Nederland uitsluitend in de uitoefening van hun beroep of bedrijf voor eigen rekening handelen met of door middel van personen die ingevolge de wet bevoegd zijn in Nederland beleggingsdiensten te verlenen of in de uitoefening van hun beroep of bedrijf voor eigen rekening te handelen.
+
+2. Het eerste lid is niet van toepassing op beleggingsondernemingen die op grond van artikel 47, derde lid, eerste en tweede volzin, van de verordening markten voor financiële instrumenten bevoegd zijn vanuit een bijkantoor gelegen in een andere lidstaat in Nederland beleggingsdiensten te verlenen of in de uitoefening van hun beroep of bedrijf te handelen voor eigen rekening.
+
+##### Artikel 10b
+
+Van [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26) zijn vrijgesteld personen met zetel in Singapore of de Verenigde Staten van Amerika, die in Nederland in de uitoefening van hun beroep of bedrijf een georganiseerde handelsfaciliteit of multilaterale handelsfaciliteit exploiteren voor zover op dat handelsplatform wordt gehandeld in derivaten, met dien verstande dat de vrijstelling slechts geldt indien deze personen of door hen geëxploiteerde handelsplatformen worden genoemd in de bijlage bij een van de hierna genoemde uitvoeringsbesluiten van de Europese Commissie:
+
+- a. Uitvoeringsbesluit (EU) 2017/2238 van de Commissie van 5 december 2017 betreffende de gelijkwaardigheid van het wettelijk en toezichtskader dat in de Verenigde Staten van Amerika overeenkomstig Verordening (EU) nr. 600/2014 van het Europees Parlement en de Raad van toepassing is op designated contract markets en swap execution facilities (PbEU 2017, L 130);
+
+- b. Uitvoeringsbesluit (EU) 2019/541 van de Commissie van 1 april 2019 betreffende de gelijkwaardigheid van het wettelijke en toezichtskader dat in Singapore op goedgekeurde beurzen en erkende marktexploitanten van toepassing is in overeenstemming met Verordening (EU) nr. 600/2014 van het Europees Parlement en de Raad (PbEU 2019, L 93).
 
 ##### Artikel 11
 
@@ -281,11 +491,11 @@ Van [artikel 2:92, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 3. Andere personen dan bedoeld in het eerste lid, indien zij voldoen aan het tweede lid, zijn vrijgesteld van [artikel 2:99, eerste lid, onderdelen d, e, g, h, j tot en met m, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:99). Het ingevolge de [artikelen 4:11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11), [4:15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15), en [4:83 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:83) bepaalde is van overeenkomstige toepassing.
 
-4. [Artikel 4:75, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:75), is van overeenkomstige toepassing, met dien verstande dat de beroepsaansprakelijkheidsverzekering of de daarmee vergelijkbare voorziening de aansprakelijkheid wegens fouten, verzuimen of nalatigheden voortvloeiend uit de in dit artikel bedoelde beleggingsdiensten dekt en de dekking ten minste € 500.000 per schadegeval en ten minste € 750.000 per jaar voor alle schadegevallen gezamenlijk bedraagt;
+4. [Artikel 4:75, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:75), is van overeenkomstige toepassing, met dien verstande dat de beroepsaansprakelijkheidsverzekering of de daarmee vergelijkbare voorziening de aansprakelijkheid wegens fouten, verzuimen of nalatigheden voortvloeiend uit de in dit artikel bedoelde beleggingsdiensten dekt en de dekking ten minste € 500.000 per schadegeval en ten minste € 750.000 per jaar voor alle schadegevallen gezamenlijk bedraagt;
 
 ##### Artikel 12
 
-Van [artikel 2:96, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) zijn vrijgesteld crowdfundingdienstverleners als bedoeld in artikel 2, eerste lid, onderdeel e, van de verordening Europese crowdfundingdienstverleners voor zover zij ingevolge die verordening gerechtigd zijn crowdfundingdiensten als bedoeld in artikel 2, eerste lid, onderdeel a, onder ii, van de verordening Europese crowdfundingdienstverleners te verlenen.
+Van [artikel 2:96, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) zijn vrijgesteld crowdfundingdienstverleners als bedoeld in artikel 2, eerste lid, onderdeel e, van de verordening Europese crowdfundingdienstverleners voor zover zij ingevolge die verordening gerechtigd zijn crowdfundingdiensten als bedoeld in artikel 2, eerste lid, onderdeel a, onder ii, van de verordening Europese crowdfundingdienstverleners te verlenen.
 
 ##### Artikel 13
 
@@ -299,11 +509,11 @@ Van [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&ar
 
 - b. beheerders van een individueel vermogen die een stichting zijn met als enig doel het beheren van individuele vermogens van een kring van bloed- of aanverwanten, voorzover zij individuele vermogens beheren van de tot die kring behorende personen.
 
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
+### Hoofdstuk 3. Vrijstelling van het Deel Prudentieel toezicht financiële ondernemingen
 
-#### § 2.3. Aanbieden van rechten van deelneming
+#### § 3.1. Beheerders, beleggingsinstellingen, beleggingsondernemingen en bewaarders
 
-#### Vrijstelling als bedoeld in [artikel 2:74 van de wet](onbekend)
+##### Vrijstelling als bedoeld in artikel 3:3 van de wet
 
 ##### Artikel 15
 
@@ -313,11 +523,11 @@ Van [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&ar
 
 ##### Artikel 16
 
-Personen die zijn vrijgesteld op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.8&artikel=12&z=2026-01-01&g=2026-01-01) zijn tevens vrijgesteld van het ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3) bepaalde, met uitzondering van de [artikelen 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) en [3:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7).
+Personen die zijn vrijgesteld op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.8&artikel=12&z=2026-01-01&g=2026-01-01) zijn tevens vrijgesteld van het ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3) bepaalde, met uitzondering van de [artikelen 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) en [3:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7).
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
@@ -327,9 +537,53 @@ Vervallen
 
 3. Personen die ingevolge [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.8&artikel=10b&z=2026-01-01&g=2026-01-01) zijn vrijgesteld van [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96), zijn tevens vrijgesteld van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), met uitzondering van de [artikelen 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) en [3:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7).
 
-#### § 3.1. Beheerders, beleggingsinstellingen, beleggingsondernemingen en bewaarders
+#### § 3.1a. Elektronischgeldinstellingen
 
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
+##### Vrijstelling als bedoeld in artikel 3:3 van de wet
+
+##### Artikel 18a
+
+1. Elektronischgeldinstellingen als bedoeld in [artikel 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0b&artikel=1d&z=2026-01-01&g=2026-01-01) zijn vrijgesteld van hetgeen ingevolge het Deel Prudentieel toezicht financiële ondernemingen, met uitzondering van de [artikelen 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), [3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6), [3:7](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7), [3:29a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29a), [3:29b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29b), [3:29c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29c), en [3:34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:34) is bepaald.
+
+2. De vrijstelling, bedoeld in het eerste lid, is slechts van toepassing op voorwaarde dat de elektronischgeldinstelling eenmaal per jaar staten aan de Nederlandse Bank verstrekt overeenkomstig [artikel 130, derde lid, onderdeel c, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130).
+
+#### § 3.1aa. Herverzekeraars
+
+##### Vrijstelling als bedoeld in artikel 3:3 van de wet
+
+##### Artikel 18aa
+
+Herverzekeraars met zetel in de Verenigde Staten van Amerika die voldoen aan artikel 3, vierde lid, van de bilaterale overeenkomst tussen de Europese Unie en de Verenigde Staten van Amerika inzake prudentiële maatregelen betreffende verzekering en herverzekering (PbEU 2017, L 258) zijn vrijgesteld van het Deel Prudentieel toezicht financiële ondernemingen, met uitzondering van de [artikelen 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), [3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6) en [3:7](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7).
+
+#### § 3.1b. Verzekeraars met beperkte risico-omvang
+
+##### Vrijstelling als bedoeld in artikel 3:3 van de wet
+
+##### Artikel 18b
+
+Natura-uitvaartverzekeraars die ingevolge [artikel 1e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1e&z=2026-01-01&g=2026-01-01), of [1g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1g&z=2026-01-01&g=2026-01-01), zijn vrijgesteld van [artikel 2:48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:48) respectievelijk [artikel 2:50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) en schadeverzekeraars die ingevolge [artikel 1f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1f&z=2026-01-01&g=2026-01-01), of 1g, tweede lid, zijn vrijgesteld van artikel 2:48, eerste lid respectievelijk artikel 2:50, eerste lid, van de wet zijn tevens vrijgesteld van hetgeen ingevolge het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), met uitzondering van de [artikelen 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), [3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6), [3:7](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7) en [3:20, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:20), is bepaald.
+
+#### § 3.1c. Kredietunies
+
+##### Vrijstelling als bedoeld in artikel 3:3 van de wet
+
+##### Artikel 18c
+
+Kredietunies zijn vrijgesteld van het Deel Prudentieel toezicht financiële ondernemingen, met uitzondering van de [artikelen 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6) en [3:7 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7), indien:
+
+- a. het bedrag aan aangetrokken opvorderbare gelden minder bedraagt dan € 10.000.000; en
+
+- b. de onderneming op haar website, in reclame-uitingen en in documenten over de bedrijfsactiviteiten van de onderneming, vermeldt dat de onderneming voor de uitoefening van haar activiteiten niet vergunningplichtig is ingevolge de wet en niet onder toezicht staat van de Nederlandsche Bank en de Autoriteit Financiële Markten.
+
+#### § 3.1d. Rekeninginformatiediensten
+
+##### Artikel 18d
+
+Betaalinstellingen die uitsluitend rekeninginformatiediensten verlenen zijn vrijgesteld van [artikel 3:72, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72).
+
+#### § 3.2. Aantrekken van opvorderbare gelden van het publiek
+
+##### Vrijstelling als bedoeld in artikel 3:5, derde lid, van de wet
 
 ##### Artikel 19
 
@@ -353,9 +607,9 @@ Van [artikel 3:5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 - b. jaarlijks binnen zes maanden na afloop van het boekjaar een jaarrekening als bedoeld in [artikel 361, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361) bij de Nederlandsche Bank indienen, waarbij wordt vermeld het totale bedrag aan:
 
-- 1°. verkooptransacties; en
+   - 1°. verkooptransacties; en
 
-- 2°. uitgegeven waardepapieren.
+   - 2°. uitgegeven waardepapieren.
 
 ##### Artikel 22
 
@@ -381,17 +635,51 @@ Betaaldienstverleners als bedoeld in [artikel 1a, eerste lid](https://wetten.ove
 
 - b. die als enige activiteit hebben het tijdelijke beheer van opvorderbare gelden van degene met wie een trustkantoor als bedoeld in onderdeel a een overeenkomst als bedoeld in [artikel 23, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2026-01-01&g=2026-01-01) is aangegaan, voorzover:
 
-- 1°. de opvorderbare gelden uitsluitend worden aangetrokken, ter beschikking worden gehouden of ter beschikking worden verkregen door de stichting ter uitvoering van die overeenkomst en het aantrekken, ter beschikking verkrijgen of ter beschikking hebben van de opvorderbare gelden rechtstreeks voortvloeit uit de administratieve activiteiten die op grond van die overeenkomst door het trustkantoor worden verricht; en
+   - 1°. de opvorderbare gelden uitsluitend worden aangetrokken, ter beschikking worden gehouden of ter beschikking worden verkregen door de stichting ter uitvoering van die overeenkomst en het aantrekken, ter beschikking verkrijgen of ter beschikking hebben van de opvorderbare gelden rechtstreeks voortvloeit uit de administratieve activiteiten die op grond van die overeenkomst door het trustkantoor worden verricht; en
 
-- 2°. de stichting de opvorderbare gelden alleen uitkeert, indien degene met wie het trustkantoor de overeenkomst is aangegaan hiertoe een opdracht aan het trustkantoor heeft gegeven; en
+   - 2°. de stichting de opvorderbare gelden alleen uitkeert, indien degene met wie het trustkantoor de overeenkomst is aangegaan hiertoe een opdracht aan het trustkantoor heeft gegeven; en
 
 - c. waarvan het beleid wordt bepaald of mede bepaald door personen wier betrouwbaarheid ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) of de [Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189) buiten twijfel staat.
 
 2. De vrijstelling, bedoeld in het eerste lid, is slechts van toepassing voorzover de stichtingen, bedoeld in het eerste lid, zorg dragen voor een onvoorwaardelijke garantie voor alle verplichtingen ontstaan door het aantrekken, ter beschikking verkrijgen of ter beschikking hebben van de opvorderbare gelden, welke is afgegeven door het desbetreffende trustkantoor of een onderneming die deel uitmaakt van dezelfde groep als dit trustkantoor en dit trustkantoor onderscheidenlijk die onderneming een eigen vermogen heeft dat gedurende de gehele looptijd van de garantie positief is.
 
-#### § 2.6. Herverzekeringsbemiddelen
+##### Artikel 24a
 
-#### Vrijstelling als bedoeld in [artikel 2:91, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:91)
+Bewindvoerders, die:
+
+- a. benoemd zijn op grond van [artikel 287, derde lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287); en
+
+- b. personen zijn als bedoeld in [artikel 3, eerste lid, van het Besluit subsidie bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0012226&artikel=3),
+
+zijn vrijgesteld van [artikel 3:5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) voor zover zij opvorderbare gelden aantrekken, ter beschikking verkrijgen of ter beschikking hebben ten behoeve van de uitvoering van de taken, bedoeld in [Titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III).
+
+##### Artikel 24b
+
+Van [artikel 3:5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) zijn vrijgesteld projecteigenaren als bedoeld in artikel 2, eerste lid, onderdeel h, van de verordening Europese crowdfundingdienstverleners die opvorderbare gelden aantrekken of ter beschikking verkrijgen door middel van een lening als bedoeld in artikel 2, eerste lid, onderdeel b, van de verordening Europese crowdfundingdienstverleners, alsmede personen die als gevolg van een zodanige aantrekking of verkrijging opvorderbare gelden ter beschikking hebben, mits:
+
+- a. het aantrekken of ter beschikking verkrijgen van de opvorderbare gelden geschiedt door tussenkomst van een crowdfundingdienstverlener als bedoeld in artikel 2, eerste lid, onderdeel e, van de verordening Europese crowdfundingdienstverleners die over een vergunning als bedoeld in artikel 12, eerste lid, van die verordening beschikt;
+
+- b. het aantrekken of ter beschikking verkrijgen van de opvorderbare gelden geschiedt ten behoeve van een crowdfundingproject als bedoeld in artikel 2, eerste lid, onderdeel l, van de verordening Europese crowdfundingdienstverleners; en
+
+- c. het totale bedrag aan opvorderbare gelden dat middels een crowdfundingaanbod als bedoeld in artikel 2, eerste lid, onderdeel f, van de verordening Europese crowdfundingdienstverleners dat door de projecteigenaar wordt aangetrokken of ter beschikking wordt gekregen de in artikel 1, tweede lid, onderdeel c, van die verordening bedoelde grenswaarde niet overschrijdt.
+
+##### Artikel 24c
+
+Van [artikel 3:5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) zijn vrijgesteld:
+
+- a. houders van een vergunning tot het organiseren van kansspelen op afstand als bedoeld in [artikel 31a, eerste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a), voor zover zij opvorderbare gelden aanhouden op een rekening als bedoeld in [artikel 31l, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31l);
+
+- b. stichtingen die:
+
+   - 1°. uitsluitend werkzaam zijn voor houders van een vergunning als bedoeld in onderdeel a, hetgeen uit een schriftelijke overeenkomst tussen de houder van een vergunning en de stichting blijkt;
+
+   - 2°. als enige activiteit hebben het tijdelijke beheer van opvorderbare gelden ten behoeve van spelers die zijn ingeschreven bij een houder van een vergunning als bedoeld in onderdeel a; en
+
+   - 3°. voldoen aan het bij of krachtens [artikel 31l, eerste, tweede en vierde lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31l) bepaalde.
+
+#### § 3.3. Waarborg- en garantiefondsen
+
+##### Vrijstelling als bedoeld in artikel 3:6, derde lid, van de wet
 
 ##### Artikel 25
 
@@ -401,11 +689,11 @@ Betaaldienstverleners als bedoeld in [artikel 1a, eerste lid](https://wetten.ove
 
 - b. rechtspersonen.
 
-2. Het eerste lid is niet van toepassing op waarborg- en garantiefondsen die hun werkzaamheden hebben aangevangen na 31 december 2015.
+2. Het eerste lid is niet van toepassing op waarborg- en garantiefondsen die hun werkzaamheden hebben aangevangen na 31 december 2015.
 
-#### § 2.7. Optreden als gevolmachtigde agent of ondergevolmachtigde agent
+#### § 3.4. Gebruik van het woord ‘bank’
 
-#### Vrijstelling als bedoeld in [artikel 2:95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:95)
+##### Vrijstelling als bedoeld in artikel 3:7, derde lid, van de wet
 
 ##### Artikel 26
 
@@ -449,19 +737,19 @@ Dochterondernemingen van een financiële onderneming die in Nederland het bedrij
 
 Personen of vennootschappen die bemiddelen of als tussenpersoon werkzaamheden verrichten als bedoeld in [artikel 4:3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3), ten behoeve van een financiële onderneming die in Nederland het bedrijf van bank mag uitoefenen, zijn vrijgesteld van [artikel 3:7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7), voorzover zij bij het bemiddelen of bij het verrichten van werkzaamheden als tussenpersoon gebruik maken van de naam van die financiële onderneming.
 
-#### § 3.4. Gebruik van het woord ‘bank’
+#### § 3.5. Regime voor banken aangesloten bij een centrale kredietinstelling
 
-#### Vrijstelling als bedoeld in [artikel 3:7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7)
+##### Vrijstelling als bedoeld in artikel 3:111, eerste lid, van de wet
 
 ##### Artikel 32
 
 De banken die zijn aangesloten bij de Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A. zijn vrijgesteld van het toezicht door de Nederlandsche Bank op de naleving van hetgeen ingevolge de [artikelen 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10), [3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), [3:17a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17a), [3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:18), [3:18a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:18a), [3:57](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), [3:62a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62a), [3:62b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62b), [3:63](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:63) en [3:159ai van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:159ai) en de delen 2 tot en met 8 van de verordening kapitaalvereisten en hoofdstuk 2 van de securitisatieverordening is bepaald, voorzover de Coöperatieve Centrale Raiffeissen-Boerenleenbank B.A. en de aangesloten banken voldoen aan [artikel 3:111, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111).
 
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
+### Hoofdstuk 4. Vrijstelling van het Deel Gedragstoezicht financiële ondernemingen
 
-#### § 3.1. Beheerders, beleggingsinstellingen, beleggingsondernemingen en bewaarders
+#### § 4.1. Werkzaamheden als tussenpersoon bij het aantrekken van opvorderbare gelden van het publiek
 
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
+##### Vrijstelling als bedoeld in artikel 4:3, derde lid van de wet
 
 ##### Artikel 33
 
@@ -481,21 +769,19 @@ De banken die zijn aangesloten bij de Coöperatieve Centrale Raiffeisen-Boerenle
 
 - c. de tussenpersoon geeft bij zijn werkzaamheden aan voor welke financiële onderneming hij de werkzaamheden verricht.
 
-3. Van [artikel 4:3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3) zijn vrijgesteld crowdfundingdienstverleners als bedoeld in artikel 2, eerste lid, onderdeel e, van de verordening Europese crowdfundingdienstverleners die faciliteren bij het verstrekken van leningen als bedoeld in artikel 2, eerste lid, onderdeel a, onder ii, van die verordening, indien de tegenwaarde van een crowdfundingaanbod als bedoeld in artikel 2, eerste lid, onderdeel f, van de verordening Europese crowdfundingdienstverleners ten behoeve waarvan de crowdfundingdienstverlener een crowdfundingdienst als bedoeld in artikel 2, eerste lid, onderdeel a, van de verordening Europese crowdfundingdienstverleners verleent de in artikel 1, tweede lid, onderdeel c, van die verordening bedoelde grenswaarde niet overschrijdt.
+3. Van [artikel 4:3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3) zijn vrijgesteld crowdfundingdienstverleners als bedoeld in artikel 2, eerste lid, onderdeel e, van de verordening Europese crowdfundingdienstverleners die faciliteren bij het verstrekken van leningen als bedoeld in artikel 2, eerste lid, onderdeel a, onder ii, van die verordening, indien de tegenwaarde van een crowdfundingaanbod als bedoeld in artikel 2, eerste lid, onderdeel f, van de verordening Europese crowdfundingdienstverleners ten behoeve waarvan de crowdfundingdienstverlener een crowdfundingdienst als bedoeld in artikel 2, eerste lid, onderdeel a, van de verordening Europese crowdfundingdienstverleners verleent de in artikel 1, tweede lid, onderdeel c, van die verordening bedoelde grenswaarde niet overschrijdt.
 
-#### § 3.1a. Elektronischgeldinstellingen
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
+#### § 4.2. Kredietunies
 
 ##### Artikel 34
 
-1. Kredietunies zijn vrijgesteld van het Deel Gedragstoezicht financiële ondernemingen indien het bedrag aan aangetrokken opvorderbare gelden minder bedraagt dan € 10.000.000
+1. Kredietunies zijn vrijgesteld van het Deel Gedragstoezicht financiële ondernemingen indien het bedrag aan aangetrokken opvorderbare gelden minder bedraagt dan € 10.000.000
 
 2. Een kredietunie als bedoel in het eerste lid vermeldt op haar website, in reclame-uitingen en in documenten over de bedrijfsactiviteiten van de onderneming, dat de onderneming voor de uitoefening van haar activiteiten niet vergunningplichtig is ingevolge de wet en niet onder toezicht staat van de Nederlandsche Bank of de Autoriteit Financiële Markten.
 
-#### § 3.1a. Elektronischgeldinstellingen
+#### § 4.3. Beleggingsondernemingen
 
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
+##### Vrijstelling als bedoeld in artikel 4:7 van de wet
 
 ##### Artikel 35
 
@@ -504,640 +790,6 @@ De banken die zijn aangesloten bij de Coöperatieve Centrale Raiffeisen-Boerenle
 2. Beleggingsondernemingen die ingevolge [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.8&artikel=10a&z=2026-01-01&g=2026-01-01), zijn vrijgesteld van [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) zijn tevens vrijgesteld van het bepaalde ingevolge de [hoofdstukken 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=4.2) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=4.3), met uitzondering van [artikel 4:91n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:91n).
 
 3. Personen die ingevolge [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.8&artikel=10b&z=2026-01-01&g=2026-01-01) zijn vrijgesteld van [artikel 2:96](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) van de wet, zijn tevens vrijgesteld van het bepaalde ingevolge het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4), met uitzondering van [artikel 4:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3).
-
-##### Artikel 36
-
-Beleggingsondernemingen als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.8&artikel=14&z=2026-01-01&g=2026-01-01) zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde.
-
-##### Artikel 37
-
-Beleggingsondernemingen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.8&artikel=13&z=2026-01-01&g=2026-01-01) zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4), met uitzondering van de [artikelen 4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), [4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22), [4:23](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23), [4:24](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24), [4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25), [4:88](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:88) en [4:89, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:89) bepaalde.
-
-##### Artikel 38
-
-Vervallen
-
-#### § 3.1b. Verzekeraars met beperkte risico-omvang
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-##### Artikel 39
-
-Financiëledienstverleners zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde voorzover zij financiële diensten, anders dan met betrekking tot krediet, verlenen aan:
-
-- a. consumenten die bij hen werkzaam zijn of anderszins onder hun verantwoordelijkheid vallen;
-
-- b. consumenten die werkzaam zijn bij of anderszins onder de verantwoordelijkheid vallen van andere rechtspersonen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden; of
-
-- c. consumenten of, indien het financiële diensten met betrekking tot verzekeringen of herverzekeringsbemiddeling betreft, cliënten waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden.
-
-##### Artikel 40
-
-Gemeentelijke kredietbanken ten aanzien waarvan [artikel 4:37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37) is toegepast zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4), met uitzondering van [artikel 4:20, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20) bepaalde, voorzover zij financiële diensten verlenen met betrekking tot betaalrekeningen en de daaraan verbonden betaalfaciliteiten in het kader van het beheer van cliëntgelden als onderdeel van een integraal hulpverleningstraject.
-
-##### Artikel 41
-
-1. Financiëledienstverleners zijn vrijgesteld van [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) voorzover zij financiële diensten verlenen met betrekking tot:
-
-- a. betaalrekeningen en de daaraan verbonden betaalfaciliteiten;
-
-- b. spaarrekeningen en de daaraan verbonden spaarfaciliteiten, tenzij het spaarrekeningen betreft waarvan de rentevergoeding is gekoppeld aan de koersontwikkeling van tot de handel op een markt in financiële instrumenten toegelaten financiële instrumenten.
-
-2. Financiëledienstverleners zijn vrijgesteld van [artikel 4:23, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23) voorzover zij financiële diensten verlenen met betrekking tot financiële producten, met uitzondering van:
-
-- a. complexe producten als bedoeld in [artikel 1, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1);
-
-- b. spaarrekeningen en de daaraan verbonden spaarfaciliteiten, waarvan de rentevergoeding is gekoppeld aan de koersontwikkeling van tot de handel op een markt in financiële instrumenten toegelaten financiële instrumenten;
-
-- c. financiële instrumenten;
-
-- d. krediet waarvan de kredietsom meer dan € 1.000 bedraagt;
-
-- e. hypothecair krediet;
-
-- f. verzekeringen in verband met het geheel of gedeeltelijk wegvallen van het inkomen van een cliënt;
-
-- g. combinaties van twee of meer van de financiële producten, bedoeld in de onderdelen a tot en met h van de definitie van financieel product in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
-
-#### § 3.1c. Kredietunies
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-##### Artikel 42
-
-Aanbieders van complexe producten als bedoeld in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1) zijn vrijgesteld van [artikel 150 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=150), voorzover het complexe producten betreft waarvoor de consument eenmalig een premie betaalt of eenmalig een storting doet.
-
-##### Artikel 43
-
-1. Aanbieders van beleggingsobjecten als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-01-01&g=2026-01-01), zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde.
-
-2. Aanbieders zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde, voorzover zij financiële producten, met uitzondering van krediet, aanbieden aan:
-
-- 1°. consumenten die bij hen werkzaam zijn of anderszins onder hun verantwoordelijkheid vallen;
-
-- 2°. consumenten die werkzaam zijn bij of anderszins onder de verantwoordelijkheid vallen van andere rechtspersonen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden; of
-
-- 3°. consumenten of, indien het aanbieden van verzekeringen betreft, cliënten waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden.
-
-3. Aanbieders van krediet zijn vrijgesteld van [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) voorzover dat betrekking heeft op personen als bedoeld in [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) die geen andere werkzaamheden met betrekking tot krediet verrichten dan het incasseren van vorderingen.
-
-4. Ondernemingen waarop de vrijstelling bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2026-01-01&g=2026-01-01), van toepassing is, zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde.
-
-4. Personen waarop de vrijstelling, bedoeld in [artikel 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.2&artikel=3c&z=2026-01-01&g=2026-01-01) van toepassing is, zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde.
-
-6. Aanbieders van verzekeringen zijn vrijgesteld van [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), voorzover dat betrekking heeft op personen als bedoeld in [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), die geen andere werkzaamheden verrichten met betrekking tot verzekeringen dan schadebehandeling of het innen van premies.
-
-7. Aanbieders van zorgverzekeringen als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) zijn vrijgesteld van [artikel 4:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17) en de [artikelen 57, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=57), en [77, eerste lid, aanhef en onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=77).
-
-8. Kredietkopers waarop de vrijstelling, bedoeld in [artikel 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.2&artikel=3d&z=2026-01-01&g=2026-01-01), van toepassing is, zijn vrijgesteld van het bepaalde ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4), met uitzondering van de [artikelen 4:81g](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:81g), [4:81j](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:81j), [4:81k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:81k), en [4:81m, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:81m).
-
-##### Artikel 44
-
-Ziektekostenverzekeraars als bedoeld in [artikel 1, onderdeel f, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1), zijn vrijgesteld van de [artikelen 4:19](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:19), [4:20, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), en [4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22).
-
-#### § 3.3. Waarborg- en garantiefondsen
-
-#### Vrijstelling als bedoeld in [artikel 3:6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6)
-
-##### Artikel 45
-
-1. Van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde zijn vrijgesteld:
-
-- a. adviseurs voorzover zij adviseren over beleggingsobjecten als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-01-01&g=2026-01-01);
-
-- b. adviseurs voorzover zij adviseren over verzekeringen aan:
-
-- 1°. rechtspersonen waarin zij deelnemen;
-
-- 2°. vennootschappen waarvan zij vennoot zijn; of
-
-- 3°. rechtspersonen of vennootschappen waarin of waarvan andere rechtspersonen of vennootschappen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden, deelnemen onderscheidenlijk vennoot zijn;
-
-- c. adviseurs in verzekeringen voorzover zij als bemiddelaar ten aanzien van de aanbevolen verzekering zijn vrijgesteld ingevolge [artikel 47, eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=4&paragraaf=4.7&artikel=47&z=2026-01-01&g=2026-01-01);
-
-- d. de Staat der Nederlanden voorzover hij in het kader van publieksvoorlichting adviseert over zorgverzekeringen of ziektekostenverzekeringen ter aanvulling van een zorgverzekering;
-
-- e. adviseurs die een andere hoofdberoepswerkzaamheid hebben dan het verlenen van financiële diensten en uit hoofde van die hoofdberoepswerkzaamheid inzicht hebben in de financiële situatie van consumenten, voorzover zij, zonder daarvoor van de aanbieder provisie te ontvangen, consumenten adviseren en de door hen verstrekte adviezen in het verlengde liggen van hun hoofdberoepswerkzaamheid;
-
-- f. adviseurs voorzover zij adviseren over financiële instrumenten aan personen die handelen in de uitoefening van een beroep of bedrijf en niet tevens beleggingsdiensten verlenen.
-
-2. Het eerste lid, aanhef en onderdeel e, is slechts van toepassing indien het adviseren slechts een marginaal onderdeel uitmaakt van de totale werkzaamheden van de adviseur en hij het aanbevolen financiële product niet tevens aanbiedt of met betrekking tot het aanbevolen financiële product niet tevens een beleggingsdienst verleent, bemiddelt, optreedt als gevolmachtigde agent of optreedt als ondergevolmachtigde agent.
-
-3. Het eerste lid, aanhef en onderdeel a, is slechts van toepassing voorzover de adviseurs in reclame-uitingen en andere onverplichte precontractuele informatie inzake het beleggingsobject vermelden dat zij voor het adviseren over het beleggingsobject niet onder toezicht staan van de Autoriteit Financiële Markten.
-
-##### Artikel 46
-
-1. Adviseurs in financiële instrumenten die tevens beleggingsdiensten verlenen zijn vrijgesteld van de [artikelen 4:9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), en [4:15, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15).
-
-2. Adviseurs in rechten van deelneming in een beleggingsinstelling of icbe zijn vrijgesteld van de [artikelen 4:9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), [4:15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15), [4:17, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17), en [4:20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), voorzover zij adviseren over rechten van deelneming in henzelf onderscheidenlijk in door hen beheerde beleggingsinstellingen of icbe’s.
-
-3. Adviseurs in financiële instrumenten als bedoeld in bijlage B bij de richtlijn beleggingsdiensten die tevens beheerders van icbe’s zijn, zijn vrijgesteld van de [artikelen 4:9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), [4:15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15), [4:17, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17), en [4:20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20).
-
-4. Adviseurs in financiële instrumenten die niet tevens beleggingsdiensten verlenen zijn vrijgesteld van [artikel 4:20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20) indien zij adviseren aan personen die handelen in de uitoefening van hun beroep of bedrijf.
-
-#### § 3.4. Gebruik van het woord ‘bank’
-
-#### Vrijstelling als bedoeld in [artikel 3:7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7)
-
-##### Artikel 47
-
-1. Van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde zijn vrijgesteld:
-
-- a. bemiddelaars voorzover zij bemiddelen in beleggingsobjecten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-01-01&g=2026-01-01);
-
-- b. bemiddelaars in krediet als bedoeld in [artikel 6, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01);
-
-- c. bemiddelaars voorzover zij bemiddelen in verzekeringen aan:
-
-- 1°. rechtspersonen waarin zij deelnemen;
-
-- 2°. vennootschappen waarvan zij vennoot zijn; of
-
-- 3°. rechtspersonen of vennootschappen waarin of waarvan andere rechtspersonen of vennootschappen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden, deelnemen onderscheidenlijk vennoot zijn;
-
-- d. bemiddelaars in verzekeringen als bedoeld in [artikel 7, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=7&z=2026-01-01&g=2026-01-01);
-
-- e. bemiddelaars in verzekeringen als bedoeld in [artikel 7, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=7&z=2026-01-01&g=2026-01-01);
-
-- f. gemeenten voorzover zij bemiddelen in zorgverzekeringen of ziektekostenverzekeringen ter aanvulling van een zorgverzekering tussen financiëledienstverleners en consumenten van wie het inkomen niet meer dan 130 procent van de relevante bijstandnorm als bedoeld in [hoofdstuk 3 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3) bedraagt;
-
-- g. gemeenten als bedoeld in onderdeel f voorzover zij adviseren over de verzekering waarin zij bemiddelen;
-
-- h. bewindvoerders als bedoeld in [artikel 6, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01);
-
-- i. curatoren als bedoeld in [artikel 6, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01).
-
-2. Het eerste lid, aanhef en onderdeel a, is slechts van toepassing voorzover de desbetreffende bemiddelaar in reclame-uitingen en documenten waarin een aanbod van het beleggingsobject in het vooruitzicht wordt gesteld vermeldt dat hij voor het bemiddelen in het beleggingsobject niet onder toezicht staat van de Autoriteit Financiële Markten.
-
-3. Het eerste lid, aanhef en onderdeel e, is niet van toepassing ten aanzien van [artikel 4:104 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:104).
-
-4. De vrijstelling ingevolge het eerste lid, aanhef en onderdeel d, is niet van toepassing op de [artikelen 4:19, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:19), [4:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), [4:22a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22a), [4:24a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24a), [4:75a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:75a) en de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=28), [63a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=63a) en [65b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=65b).
-
-5. Een bemiddelaar in verzekeringen als bedoeld in [artikel 7, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=7&z=2026-01-01&g=2026-01-01), verstrekt de cliënt voorafgaand aan de overeenkomst informatie over de identiteit en het adres van de verzekeraar of bemiddelaar in verzekeringen waarvoor de bemiddelaar bemiddelt en over de procedure om een klacht in te dienen.
-
-##### Artikel 48
-
-Bemiddelaars in verzekeringen als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01), zijn vrijgesteld van [artikel 4:75, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:75) voorzover de andere onderneming volledig voor hen verantwoordelijk is als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01), en:
-
-- a. een financiële onderneming is die een door de Nederlandsche Bank verleende vergunning voor het uitoefenen van het bedrijf van bank heeft; of
-
-- b. een financiële onderneming is die een door de Nederlandsche Bank verleende vergunning voor het uitoefenen van het bedrijf van verzekeraar heeft.
-
-##### Artikel 49
-
-1. Bemiddelaars in goederenkrediet als bedoeld in [artikel 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01), zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde, met uitzondering van de [artikelen 4:19](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:19), [4:20, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), [4:16](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:16), [4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22), [4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25), [4:28](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:28), [4:29](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:29), [4:74](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:74), [4:92](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:92), [4:96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:96), [4:94, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:94), en [4:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:99).
-
-2. Het eerste lid is slechts van toepassing voorzover het goederenkrediet betreft waarvan de looptijd niet langer is dan de verwachte economische levensduur van de verschafte roerende zaak, of dan de periode van dienstverlening en indien het goederenkrediet dient ter verschaffing van het genot van een roerende zaak, dan wel het verlenen van een dienst en de desbetreffende bemiddelaar in goederenkrediet:
-
-- a. de consument niet adviseert over het goederenkrediet; en
-
-- b. een andere hoofdberoepswerkzaamheid heeft dan bemiddeling in goederenkrediet.
-
-##### Artikel 50
-
-1. Bemiddelaars die voor het verlenen van beleggingsdiensten een op grond van [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) verleende vergunning hebben zijn vrijgesteld van de [artikelen 4:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), [4:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:10) en [4:11, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11) voorzover zij bemiddelen in financiële producten, anders dan verzekeringen of hypothecair krediet.
-
-2. Adviseurs, die tevens bemiddelaars zijn als bedoeld in het eerste lid, zijn vrijgesteld van de [artikelen 4:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), [4:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:10), en [4:11, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11), voorzover zij adviseren over de financiële producten waarin zij bemiddelen.
-
-#### § 3.3. Waarborg- en garantiefondsen
-
-#### Vrijstelling als bedoeld in [artikel 3:6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6)
-
-##### Artikel 51
-
-Beleggingsondernemingen zijn vrijgesteld van de [artikelen 85](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=85) en [86 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86) voorzover zij beleggingsdiensten verlenen aan professionele beleggers.
-
-#### § 3.4. Gebruik van het woord ‘bank’
-
-#### Vrijstelling als bedoeld in [artikel 3:7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7)
-
-##### Artikel 52
-
-Herverzekeringsbemiddelaars zijn vrijgesteld van de [artikelen 4:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:16), [4:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17), en [4:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:99) en, indien ten minste een van de feitelijk leidinggevenden van de betreffende herverzekeringsbemiddelaar ten minste drie jaar relevante werkervaring heeft, van de [artikelen 5 tot en met 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=5). Voorzover zij adviseren of bemiddelen zijn herverzekeringsbemiddelaars tevens vrijgesteld van [artikel 4:72](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:72), onderscheidenlijk [4:73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:73).
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 3.5. Regime voor banken aangesloten bij een centrale kredietinstelling
-
-#### Vrijstelling als bedoeld in [artikel 3:111, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111)
-
-##### Artikel 53
-
-1. Het aanbieden van effecten aan het publiek is vrijgesteld van artikel 3, eerste lid, van de prospectusverordening, voorzover het betreft effecten die deel uitmaken van een aanbieding waarbij de totale tegenwaarde van de aanbieding binnen de Europese Economische Ruimte, berekend per categorie en over een periode van twaalf maanden, minder dan € 5 miljoen bedraagt.
-
-2. Voor de toepassing van het eerste lid wordt de totale tegenwaarde van de aanbiedingen van in een groep verbonden groepsmaatschappijen opgeteld.
-
-3. Het eerste lid is slechts van toepassing indien de aanbieder:
-
-- a. voorafgaand aan de aanbieding van effecten als bedoeld in het eerste lid aan de Autoriteit Financiële Markten de aanbieding meldt onder gelijktijdige verstrekking van de volgende informatie:
-
-- 1°. de naam en het adres van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is en de naam, het e-mailadres en het telefoonnummer van de contactpersoon van de uitgevende instelling of aanbieder;
-
-- 2°. indien van toepassing: het nummer van inschrijving in het handelsregister van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is;
-
-- 3°. de datum van oprichting van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is;
-
-- 4°. de namen, geboortedata en geboorteplaatsen van de bestuurders van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is;
-
-- 5°. de namen van de aandeelhouders van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is;
-
-- 6°. de website van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is aanbieder en, indien van toepassing, de website van de aanbieding;
-
-- 7°. de maximale omvang van de aanbieding in euro’s;
-
-- 8°. de aanbiedingsperiode;
-
-- 9°. de categorie effect;
-
-- 10°. de besteding van de door beleggers ingelegde gelden;
-
-- 11°. een kopie van het uittreksel uit het handelsregister van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is, een kopie van het aanbiedingsdocument en eventueel reclamemateriaal en, voor zover van toepassing, een kopie van de vergunning van een toezichthoudende instantie; en
-
-- b. voorafgaand aan de aanbieding, bedoeld in het eerste lid, de in bijlage A bedoelde gegevens verstrekt met gebruikmaking van het in die bijlage opgenomen informatiedocument.
-
-4. Indien een aanbieding niet uitsluitend aan gekwalificeerde beleggers wordt gedaan is het eerste lid slechts van toepassing voor zover de aanbieders in reclame-uitingen en documenten waarin de aanbieding in het vooruitzicht wordt gesteld, vermelden dat ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) geen verplichting bestaat tot het algemeen verkrijgbaar stellen van een prospectus dat is goedgekeurd door de Autoriteit Financiële Markten ter zake van de aanbieding en dat op de aanbieding geen toezicht wordt uitgeoefend door de Autoriteit Financiële Markten.
-
-5. De informatie, bedoeld in het derde lid, onderdeel b, is evenwichtig en begrijpelijk.
-
-6. Het derde lid, onderdeel b, en het vijfde lid zijn niet van toepassing op aanbieders van effecten die vallen onder de werking van de verordening essentiële-informatiedocumenten en op beheerders van beleggingsinstellingen die op grond van [artikel 4:37l, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37l), een prospectus aan beleggers dienen te verstrekken.
-
-##### Artikel 54
-
-Vervallen
-
-##### Artikel 55
-
-Vervallen
-
-#### § 4.1. Werkzaamheden als tussenpersoon bij het aantrekken van opvorderbare gelden van het publiek
-
-#### Vrijstelling als bedoeld in [artikel 4:3, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3)
-
-##### Artikel 56
-
-1. Van [artikel 5:68 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68) zijn vrijgesteld:
-
-- a. beleggingsinstellingen of icbe’s die een startersfonds zijn als bedoeld in [artikel 3.10.1 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.1);
-
-- b. beleggingsinstellingen of icbe’s waarvan:
-
-- 1°. het balanstotaal voor minder dan vijftig procent bestaat uit beleggingen, en
-
-- 2°. minder dan vijftig procent van de totale gerealiseerde opbrengsten gegenereerd wordt uit beleggingen;
-
-- c. beleggingsinstellingen of icbe’s waarvan alleen rechten van deelneming zijn aangeboden aan bestuurders, leden van de raad van commissarissen of werknemers van die beleggingsinstelling, of aan bestuurders, leden van de raad van commissarissen of werknemers van een met die beleggingsinstelling in een formele of feitelijke zeggenschapsstructuur verbonden rechtspersoon, vennootschap of instelling;
-
-- d. beleggingsinstellingen of icbe’s waarvan rechten van deelneming worden aangeboden aan minder dan honderdvijftig personen die geen gekwalificeerde belegger zijn; of
-
-- e. beheerders van beleggingsinstellingen of icbe’s als bedoeld in de onderdelen a tot en met d.
-
-2. Van [artikel 5:68 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68) zijn vrijgesteld degenen op wie [artikel 3:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2) van toepassing is.
-
-#### § 4.1. Werkzaamheden als tussenpersoon bij het aantrekken van opvorderbare gelden van het publiek
-
-#### Vrijstelling als bedoeld in [artikel 4:3, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3)
-
-##### Artikel 57
-
-Van [artikel 5:86, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:86) zijn vrijgesteld beheerders van beleggingsinstellingen of icbe’s:
-
-- a. waarvan de rechten van deelneming slechts kunnen worden verworven tegen een tegenwaarde van ten minste € 100.000 per deelnemer;
-
-- b. waarvan de rechten van deelneming een nominale waarde per recht hebben van ten minste € 100.000;
-
-- c. die rechten van deelneming aanbieden aan minder dan 150 personen die geen gekwalificeerde belegger zijn;
-
-- d. die rechten van deelneming uitsluitend aanbieden aan gekwalificeerde beleggers;
-
-- e. die een startersfonds zijn als bedoeld in [artikel 3.10.1 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.1);
-
-- f. waarvan:
-
-- 1°. het balanstotaal voor minder dan vijftig procent bestaat uit beleggingen, en
-
-- 2°. minder dan vijftig procent van de totale gerealiseerde opbrengsten gegenereerd wordt uit beleggingen; of
-
-- g. waarvan alleen rechten van deelneming zijn aangeboden aan bestuurders, leden van de raad van commissarissen of werknemers van die beleggingsinstelling, of aan bestuurders, leden van de raad van commissarissen of werknemers van een met die beleggingsinstelling in een formele of feitelijke zeggenschapsstructuur verbonden rechtspersoon, vennootschap of instelling.
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-#### § 4.3. Beleggingsondernemingen
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-##### Artikel 58
-
-1. Van de [artikelen 2:55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55), [2:60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60), [2:75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:75), [2:80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80), [2:86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:86), [2:92, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:92) en [2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) zijn vrijgesteld rechtspersonen als bedoeld in [artikel 20, vijfde lid, onderdeel a, van de Vrijstellingsregeling Wfd](https://wetten.overheid.nl/jci1.3:c:BWBR0019322&artikel=20) en, voorzover het [artikel 2:80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80) betreft, onderbemiddelaars in krediet als bedoeld in [artikel 20, vijfde lid, onderdeel b, van de Vrijstellingsregeling Wfd](https://wetten.overheid.nl/jci1.3:c:BWBR0019322&artikel=20), die overeenkomstig het [eerste lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0019322&artikel=20) een vergunning of ontheffing hebben aangevraagd, op welke aanvraag op het tijdstip van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) nog niet is beslist.
-
-2. Het eerste lid is van toepassing totdat de Autoriteit Financiële Markten op de in dat lid bedoelde aanvraag heeft beslist. Artikel 31, tweede tot en met vierde lid, van de Invoerings- en aanpassingswet Wet op het financieel toezicht is van overeenkomstige toepassing.
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-##### Artikel 59
-
-Vervallen
-
-##### Artikel 60
-
-De [vrijstellingsregeling Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007777) wordt ingetrokken.
-
-##### Artikel 61
-
-Deze regeling treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in werking treedt.
-
-##### Artikel 62
-
-Deze regeling wordt aangehaald als: Vrijstellingsregeling Wft.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 52a
-
-Een kredietbeheerder is vrijgesteld van [artikel 86c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86c).
-
-#### § 4.2. Kredietunies
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-#### § 4.3. Beleggingsondernemingen
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-##### Artikel 56a
-
-Van [artikel 5:74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:74) zijn vrijgesteld bieders voor zover zij een openbaar bod uitbrengen op effecten:
-
-- a. waar geen rechtstreeks of potentieel stemrecht aan verbonden is, met uitzondering van niet-royeerbare certificaten; of
-
-- b. die door henzelf zijn uitgegeven.
-
-##### Artikel 56b
-
-Van [artikel 5:79 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:79) zijn vrijgesteld bieders voor zover zij effecten verwerven:
-
-- a. in regelmatig verkeer op markten in financiële instrumenten;
-
-- b. met toepassing van de [artikelen 92a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=92a), [201a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=201a) of [336 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=336); of
-
-- c. ingevolge een openbaar bod waarvan de aanmeldingstermijn geheel of ten dele samenvalt met een openbaar bod dat door een derde wordt uitgebracht op effecten van de doelvennootschap.
-
-##### Artikel 56c
-
-Van [artikel 8, eerste lid van het Besluit openbare biedingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=8), voor zover het de verplichting betreft tot vermelding in het biedingsbericht van de gegevens bedoeld in [bijlage B, paragraaf 1, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=B), [Bijlage C, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=C) en [Bijlage D, onderdeel 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=D), zijn vrijgesteld bieders voor zover zij een openbaar bod aankondigen of uitbrengen op rechten van deelneming in een beleggingsinstelling waarvan de rechten van deelneming op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald of in een icbe.
-
-#### § 4.8. Beleggingsondernemingen
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-#### § 4.4. Financiële dienstverleners
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-Van [artikel 2:60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) zijn vrijgesteld instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b), voorzover:
-
-- a. zij krediet aanbieden ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1);
-
-- b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120); en
-
-- c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.
-
-#### § 2.0b. **Bedrijf van elektronischgeldinstelling**
-
-#### Vrijstelling als bedoeld in [artikel 2:10d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10d)
-
-#### § 2.0c. Bedrijf van natura-uitvaartverzekeraar of schadeverzekeraar met beperkte risico-omvang
-
-#### Vrijstelling als bedoeld in de [artikelen 2:49b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:49b) en [2:54.0a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54.0a)
-
-##### Artikel 5a
-
-1. Van [artikel 2:75, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:75) zijn vrijgesteld instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b), voorzover:
-
-- a. zij adviseren over krediet dat zij tevens aanbieden of waarin zij tevens bemiddelen ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1);
-
-- b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120); en
-
-- c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.
-
-2. Instellingen die zijn vrijgesteld op grond van het eerste lid, zijn tevens vrijgesteld van [artikel 2:75, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:75), voor wat betreft het adviseren over het openen van een betaalrekening of spaarrekening, met inbegrip van de aan een dergelijke rekening verbonden betaal-, spaar-, of elektronischgeldfaciliteiten, ten behoeve van krediet als bedoeld in het eerste lid.
-
-#### § 2.2. Aanbieden van krediet
-
-#### Vrijstelling als bedoeld in [artikel 2:64, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:64)
-
-##### Artikel 6a
-
-1. Van [artikel 2:80, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80) zijn vrijgesteld instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b), voorzover:
-
-- a. zij bemiddelen in krediet ter overbrugging van tijdelijke liquiditeitstekorten ten behoeve van natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1);
-
-- b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120); en
-
-- c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.
-
-2. Instellingen die zijn vrijgesteld op grond van het eerste lid, zijn tevens vrijgesteld van [artikel 2:80, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80), voor wat betreft het bemiddelen in het openen van een betaalrekening of spaarrekening, met inbegrip van de aan een dergelijke rekening verbonden betaal-, spaar-, of elektronischgeldfaciliteiten, ten behoeve van krediet als bedoeld in het eerste lid.
-
-3. Instellingen die zijn vrijgesteld op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.2&artikel=3a&z=2026-01-01&g=2026-01-01), zijn tevens vrijgesteld van [artikel 2:80, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80), voor wat betreft het bemiddelen in het openen van een betaalrekening of spaarrekening, met inbegrip van de aan een dergelijke rekening verbonden betaal-, spaar-, of elektronischgeldfaciliteiten, ten behoeve van krediet als bedoeld in artikel 3a.
-
-#### § 2.2. Aanbieden van krediet
-
-#### Vrijstelling als bedoeld in [artikel 2:64, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:64)
-
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
-
-#### § 2.4. Adviseren
-
-#### Vrijstelling als bedoeld in [artikel 2:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79)
-
-#### § 2.5. Bemiddelen
-
-#### Vrijstelling als bedoeld in [artikel 2:85, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85)
-
-#### § 2.8. Verlenen van beleggingsdiensten
-
-#### Vrijstelling als bedoeld in [artikel 2:104, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104)
-
-#### § 3.1. Beheerders, beleggingsinstellingen, beleggingsondernemingen en bewaarders
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 3.1aa. Herverzekeraars
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-#### § 3.1c. Kredietunies
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-##### Artikel 39a
-
-Instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) zijn vrijgesteld van het ingevolge het Deel Gedragstoezicht financiële ondernemingen van de wet bepaalde met betrekking tot het aanbieden van, adviseren over en bemiddelen in krediet, alsmede met betrekking tot het adviseren over of bemiddelen in het openen van een betaalrekening of spaarrekening, met inbegrip van de aan een dergelijke rekening verbonden betaal-, spaar-, of elektronischgeldfaciliteiten, ten behoeve van krediet, voorzover:
-
-- a. zij krediet aanbieden ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1);
-
-- b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120); en
-
-- c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.
-
-#### § 3.2. Aantrekken van opvorderbare gelden van het publiek
-
-#### Vrijstelling als bedoeld in [artikel 3:5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5)
-
-#### § 3.4. Gebruik van het woord ‘bank’
-
-#### Vrijstelling als bedoeld in [artikel 3:7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7)
-
-#### § 3.5. Regime voor banken aangesloten bij een centrale kredietinstelling
-
-#### Vrijstelling als bedoeld in [artikel 3:111, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 3.5. Regime voor banken aangesloten bij een centrale kredietinstelling
-
-#### Vrijstelling als bedoeld in [artikel 3:111, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111)
-
-#### § 4.2. Kredietunies
-
-#### Vrijstelling als bedoeld in [artikel 5:5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:5)
-
-#### § 4.3. Beleggingsondernemingen
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-#### § 4.5. Aanbieders
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 24a
-
-Bewindvoerders, die:
-
-- a. benoemd zijn op grond van [artikel 287, derde lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287); en
-
-- b. personen zijn als bedoeld in [artikel 3, eerste lid, van het Besluit subsidie bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0012226&artikel=3),
-
-zijn vrijgesteld van [artikel 3:5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) voor zover zij opvorderbare gelden aantrekken, ter beschikking verkrijgen of ter beschikking hebben ten behoeve van de uitvoering van de taken, bedoeld in [Titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III).
-
-#### § 2.7. Optreden als gevolmachtigde agent of ondergevolmachtigde agent
-
-#### Vrijstelling als bedoeld in [artikel 2:95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:95)
-
-#### § 2.8. Verlenen van beleggingsdiensten
-
-#### Vrijstelling als bedoeld in [artikel 2:104, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104)
-
-#### § 3.1. Beheerders, beleggingsinstellingen, beleggingsondernemingen en bewaarders
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
-
-#### § 3.1. Beheerders, beleggingsinstellingen, beleggingsondernemingen en bewaarders
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-#### § 3.1a. Elektronischgeldinstellingen
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-#### § 3.1a. Elektronischgeldinstellingen
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-#### § 3.1b. Verzekeraars met beperkte risico-omvang
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-#### § 3.1d. Rekeninginformatiediensten
-
-#### Vrijstelling als bedoeld in [artikel 3:5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5)
-
-#### § 3.3. Waarborg- en garantiefondsen
-
-#### Vrijstelling als bedoeld in [artikel 3:6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6)
-
-#### § 3.3. Waarborg- en garantiefondsen
-
-#### Vrijstelling als bedoeld in [artikel 3:6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6)
-
-#### § 3.5. Regime voor banken aangesloten bij een centrale kredietinstelling
-
-#### Vrijstelling als bedoeld in [artikel 3:111, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 3.5. Regime voor banken aangesloten bij een centrale kredietinstelling
-
-#### Vrijstelling als bedoeld in [artikel 3:111, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111)
-
-#### § 4.1. Werkzaamheden als tussenpersoon bij het aantrekken van opvorderbare gelden van het publiek
-
-#### Vrijstelling als bedoeld in [artikel 4:3, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3)
-
-#### § 4.4. Financiële dienstverleners
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-#### § 4.5. Aanbieders
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 3.1a. Elektronischgeldinstellingen
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 3.1aa. Herverzekeraars
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-#### § 3.1c. Kredietunies
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-#### § 3.3. Waarborg- en garantiefondsen
-
-#### Vrijstelling als bedoeld in [artikel 3:6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6)
-
-#### § 4.1. Werkzaamheden als tussenpersoon bij het aantrekken van opvorderbare gelden van het publiek
-
-#### Vrijstelling als bedoeld in [artikel 4:3, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 4.2. Kredietunies
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-#### § 4.5. Aanbieders
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 35a
 
@@ -1183,920 +835,416 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. met haar cliënt een overeenkomst sluit die:
 
-- 1°. schriftelijk of anderszins op een duurzame drager wordt vastgelegd;
+   - 1°. schriftelijk of anderszins op een duurzame drager wordt vastgelegd;
 
-- 2°. in het dossier als bedoeld in [artikel 4:89, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:89) wordt opgenomen;
+   - 2°. in het dossier als bedoeld in [artikel 4:89, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:89) wordt opgenomen;
 
-- 3°. in ieder geval de aard en reikwijdte van de dienstverlening van de beleggingsonderneming in haar relatie met de betreffende cliënt bevat; en
+   - 3°. in ieder geval de aard en reikwijdte van de dienstverlening van de beleggingsonderneming in haar relatie met de betreffende cliënt bevat; en
 
-- 4°. door de beleggingsonderneming en de betreffende cliënt uiterlijk aan het einde van de dienstverlening wordt ondertekend;
+   - 4°. door de beleggingsonderneming en de betreffende cliënt uiterlijk aan het einde van de dienstverlening wordt ondertekend;
 
 - b. elke ontvangen order door haar cliënt laat ondertekenen alvorens deze wordt doorgegeven;
 
 - c. zich onthoudt van het aanbevelen van transacties of het doorgeven van orders in rechten van deelneming met een zodanige frequentie of van een zodanige omvang dat dit gezien de omstandigheden kennelijk slechts strekt tot bevoordeling van de beleggingsonderneming.
 
-#### § 3.1b. Verzekeraars met beperkte risico-omvang
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-#### § 3.1d. Rekeninginformatiediensten
-
-#### Vrijstelling als bedoeld in [artikel 4:3, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3)
-
-#### § 3.3. Waarborg- en garantiefondsen
-
-#### Vrijstelling als bedoeld in [artikel 3:6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6)
-
-#### § 3.3. Waarborg- en garantiefondsen
-
-#### Vrijstelling als bedoeld in [artikel 3:6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6)
-
-#### § 3.4. Gebruik van het woord ‘bank’
-
-#### Vrijstelling als bedoeld in [artikel 3:7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 4.2. Kredietunies
-
-#### Vrijstelling als bedoeld in [artikel 5:5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:5)
-
-#### § 4.4. Financiële dienstverleners
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-#### § 4.4. Financiële dienstverleners
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 3.5. Regime voor banken aangesloten bij een centrale kredietinstelling
-
-#### Vrijstelling als bedoeld in [artikel 3:111, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 4.5. Aanbieders
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-1. Van [artikel 2:3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3a) zijn vrijgesteld betaaldienstverleners:
-
-- a. voor zover zij in Nederland betaaldiensten aanbieden als bedoeld onder 1 tot en met 5 van de bijlage bij de richtlijn betaaldiensten;
-
-- b. waarvan het gemiddelde van het totale bedrag van de betalingstransacties die zij de voorafgaande twaalf maanden hebben verricht, met inbegrip van die van agenten waarvoor zij volledig aansprakelijk zijn, niet hoger is dan € 3.000.000 per maand;
-
-- c. waarvan geen van de personen die het beleid bepalen of mede bepalen personen zijn met antecedenten als bedoeld in [artikel 6, onderdelen a, b en d, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=6) voor zover deze betrekking hebben op het witwassen van geld, terrorismefinanciering of vermogensmisdrijven of als misdrijf aangemerkte overtredingen van financiële toezichtswetgeving; en
-
-- d. die de Nederlandsche Bank in kennis hebben gesteld van hun voornemen om de bedoelde betaaldiensten te verlenen.
-
-2. Het ingevolge [artikel 3:29a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29a) en de [artikelen 26e tot en met 26h van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26e) bepaalde is van overeenkomstige toepassing op betaaldienstverleners als bedoeld in het eerste lid.
-
-3. Indien een betaaldienstverlener als bedoeld in het eerste lid zijn werkzaamheden niet gedurende de gehele periode van de voorafgaande twaalf maanden heeft verricht, kan voor de toepassing van het eerste lid, onderdeel b, worden uitgegaan van een programma van werkzaamheden waarin naar het oordeel van de Nederlandsche Bank een reële begroting van het totale bedrag aan betalingstransacties is opgenomen.
-
-4. Een betaaldienstverlener als bedoeld in het eerste lid stelt de Nederlandsche Bank in kennis van elke verandering in zijn situatie die relevant is voor het naleven van de in het eerste lid gestelde voorschriften.
-
-#### § 2.4. Adviseren
-
-#### Vrijstelling als bedoeld in [artikel 2:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79)
-
-#### § 2.5. Bemiddelen
-
-#### Vrijstelling als bedoeld in [artikel 2:85, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85)
-
-#### § 2.8. Verlenen van beleggingsdiensten
-
-#### Vrijstelling als bedoeld in [artikel 2:104, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104)
-
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
-
-#### § 2.6. Herverzekeringsbemiddelen
-
-#### Vrijstelling als bedoeld in [artikel 2:91, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:91)
-
-#### § 3.2. Aantrekken van opvorderbare gelden van het publiek
-
-#### Vrijstelling als bedoeld in [artikel 3:5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 3.2. Aantrekken van opvorderbare gelden van het publiek
-
-#### Vrijstelling als bedoeld in [artikel 3:5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 4.5. Aanbieders
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1b
-
-Elektronischgeldinstellingen als bedoeld in [artikel 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0b&artikel=1d&z=2026-01-01&g=2026-01-01) zijn vrijgesteld van [artikel 2:3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3a), voor zover zij betaaldiensten aanbieden als bedoeld onder 1 tot en met 5 van de bijlage bij de richtlijn betaaldiensten die verband houden met de uitgifte van elektronisch geld.
-
-#### § 2.0a. Bedrijf van bewaarder
-
-#### Vrijstelling als bedoeld in [artikel 2:3h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3h)
-
-##### Artikel 1c
-
-Van [artikel 2:3g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3g), van de wet zijn vrijgesteld entiteiten voorzover zij:
-
-- a. optreden als bewaarder van beleggingsinstellingen waarvan door de deelnemers gedurende een periode van vijf jaar vanaf het tijdstip waarop de rechten van deelneming voor het eerst zijn verworven geen recht tot inkoop of terugbetaling van rechten van deelneming kan worden uitgeoefend en de beleggingsinstellingen:
-
-- 1°. overeenkomstig hun beleggingsbeleid over het algemeen niet beleggen in activa die in bewaring moeten worden gegeven; of
-
-- 2°. over het algemeen beleggen in uitgevende instellingen en niet-beursgenoteerde uitgevende instellingen om controle als bedoeld in de [artikelen 4:37q](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37q) en [4:37w van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37w) in deze instellingen te verkrijgen;
-
-- b. de taken als bewaarder verrichten in het kader van hun beroeps- of bedrijfsuitoefening; en
-
-- c. in het kader van de in onderdeel b bedoelde beroeps- of bedrijfsuitoefening verplicht zijn zich in te schrijven in een wettelijk erkend beroepsregister of moeten voldoen aan regelgeving inzake de beroepsmoraal.
-
-#### § 2.5. Bemiddelen
-
-#### Vrijstelling als bedoeld in [artikel 2:85, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85)
-
-#### § 2.5. Bemiddelen
-
-#### Vrijstelling als bedoeld in [artikel 2:85, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85)
-
-#### § 2.8. Verlenen van beleggingsdiensten
-
-#### Vrijstelling als bedoeld in [artikel 2:104, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104)
-
-#### § 2.3. Aanbieden van rechten van deelneming
-
-#### Vrijstelling als bedoeld in [artikel 2:74 van de wet](onbekend)
-
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
-
-#### § 3.1. Beheerders, beleggingsinstellingen, beleggingsondernemingen en bewaarders
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-#### § 2.7. Optreden als gevolmachtigde agent of ondergevolmachtigde agent
-
-#### Vrijstelling als bedoeld in [artikel 2:95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:95)
-
-##### Artikel 18a
-
-1. Elektronischgeldinstellingen als bedoeld in [artikel 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0b&artikel=1d&z=2026-01-01&g=2026-01-01) zijn vrijgesteld van hetgeen ingevolge het Deel Prudentieel toezicht financiële ondernemingen, met uitzondering van de [artikelen 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), [3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6), [3:7](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7), [3:29a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29a), [3:29b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29b), [3:29c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:29c), en [3:34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:34) is bepaald.
-
-2. De vrijstelling, bedoeld in het eerste lid, is slechts van toepassing op voorwaarde dat de elektronischgeldinstelling eenmaal per jaar staten aan de Nederlandse Bank verstrekt overeenkomstig [artikel 130, derde lid, onderdeel c, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130).
-
-#### § 2.8. Verlenen van beleggingsdiensten
-
-#### Vrijstelling als bedoeld in [artikel 2:104, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104)
-
-#### § 3.4. Gebruik van het woord ‘bank’
-
-#### Vrijstelling als bedoeld in [artikel 3:7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 3.5. Regime voor banken aangesloten bij een centrale kredietinstelling
-
-#### Vrijstelling als bedoeld in [artikel 3:111, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111)
-
-#### § 4.7. Bemiddelaars
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-#### § 4.7. Bemiddelaars
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 4.8. Beleggingsondernemingen
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3b
-
-Van [artikel 2:60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) zijn vrijgesteld:
-
-- a. betaaldienstverleners die voor het uitoefenen van het bedrijf van betaaldienstverlener een door de Nederlandsche Bank op grond van [artikel 2:3b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3b) verleende vergunning hebben, voorzover zij in Nederland uitsluitend krediet aanbieden in verband met betaaldiensten als bedoeld in de punten 4, 5 en 7 van de bijlage bij de richtlijn betaaldiensten mits is voldaan aan de voorwaarden van [artikel 40c Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40c); en
-
-- b. betaaldienstverleners met zetel in een andere lidstaat die voor het uitoefenen van het bedrijf van betaaldienstverlener een door de toezichthoudende instantie van die lidstaat verleende vergunning hebben, voorzover zij in Nederland uitsluitend krediet in verband met betaaldiensten als bedoeld in de punten 4, 5, en 7 van de bijlage bij de richtlijn betaaldiensten aanbieden vanuit een in Nederland gelegen bijkantoor of door middel van het verrichten van diensten naar Nederland mits is voldaan aan de voorwaarden van artikel 16, derde lid, van de richtlijn betaaldiensten.
-
-#### § 2.1. Aanbieden van beleggingsobjecten
-
-#### Vrijstelling als bedoeld in [artikel 2:59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59)
-
-#### § 2.5. Bemiddelen
-
-#### Vrijstelling als bedoeld in [artikel 2:85, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85)
-
-#### § 2.6. Herverzekeringsbemiddelen
-
-#### Vrijstelling als bedoeld in [artikel 2:91, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:91)
-
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
-
-#### § 2.5. Bemiddelen
-
-#### Vrijstelling als bedoeld in [artikel 2:85, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85)
-
-#### § 2.6. Herverzekeringsbemiddelen
-
-#### Vrijstelling als bedoeld in [artikel 2:91, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:91)
-
-#### § 3.3. Waarborg- en garantiefondsen
-
-#### Vrijstelling als bedoeld in [artikel 3:6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 3.1a. Elektronischgeldinstellingen
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-#### § 3.1aa. Herverzekeraars
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 4.6. Adviseurs
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 2.0d. **Bedrijf van wisselinstelling**
-
-#### Vrijstelling als bedoeld in [artikel 2:54k, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54k)
-
-#### § 2.3. Aanbieden van rechten van deelneming
-
-#### Vrijstelling als bedoeld in [artikel 2:74 van de wet](onbekend)
-
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
-
-#### § 3.1. Beheerders, beleggingsinstellingen, beleggingsondernemingen en bewaarders
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 4.4. Financiële dienstverleners
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-#### § 4.5. Aanbieders
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-#### § 4.6. Adviseurs
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-#### § 4.7. Bemiddelaars
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1c*
-
-1. Van [artikel 2:54i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i) zijn vrijgesteld ondernemingen die het bedrijf van hotel uitoefenen en die als logiesverstrekkend bedrijf zijn ingeschreven in een door het Bedrijfschap Horeca en Catering bijgehouden register, voor zover het betreft het wisselen van munten of bankbiljetten en het uitbetalen van munten of bankbiljetten op vertoon van een creditcard of tegen inlevering van een of meer cheques, met een tegenwaarde van ten hoogste € 500 per gast per overnachting, voor natuurlijke personen aan wie tevens door het hotel tegen betaling logies wordt verstrekt.
-
-2. Aan de vrijstelling, bedoeld in het eerste lid, zijn de volgende voorschriften verbonden:
-
-- a. reclame-uitingen met betrekking tot de vrijgestelde werkzaamheden zijn slechts toegelaten voorzover het betreft:
-
-- 1°. het uitstallen van koersenborden die niet vanaf de openbare weg leesbaar zijn;
-
-- 2°. vermelding in folders en brochures die in hoofdzaak de hoofdactiviteit betreffen;
-
-- 3°. vermelding, al dan niet met behulp van pictogrammen, in hotelgidsen;
-
-- 4°. vermelding in het interne communicatiecircuit van het hotel;
-
-- b. buitenlandse munten en bankbiljetten die worden gebruikt of verworven bij de vrijgestelde werkzaamheden mogen slechts worden betrokken of afgestort bij een financiële onderneming die bevoegd is in Nederland het bedrijf van betaaldienstagent, betaaldienstverlener of bank uit te oefenen dan wel bij een wisselinstelling die beschikt over een vergunning, bedoeld in [artikel 2:54i, eerste lid, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i), waartoe met de desbetreffende betaaldienstagent, betaaldienstverlener, bank of wisselinstelling een duurzame overeenkomst is gesloten;
-
-- c. er wordt een administratie bijgehouden waaruit blijkt waar en wanneer buitenlandse munten en bankbiljetten zijn betrokken en afgestort, en waarin van iedere wisseltransactie wordt vastgelegd: de datum, het type transactie, de betrokken valuta’s, de omvang van de transactie, de naam van de cliënt en het kamernummer van de cliënt;
-
-- d. de onder c bedoelde gegevens blijven tot vijf jaar na het uitvoeren van de transactie bewaard.
-
-##### Artikel 1d
-
-1. Van [artikel 2:10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10a) zijn vrijgesteld elektronischgeldinstellingen met rechtspersoonlijkheid, indien:
-
-- a. het elektronisch geld in Nederland wordt uitgegeven en de gezamenlijke waarde van de financiële verplichtingen van de onderneming die met de uitgifte van elektronisch geld verband houden, gemiddeld niet hoger is dan € 5.000.000;
-
-- b. geen van de personen die het beleid bepalen of mede bepalen personen zijn met antecedenten als bedoeld in [artikel 6, onderdeel a, b of d, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=6), voor zover deze betrekking hebben op het witwassen van geld, terrorismefinanciering of vermogensmisdrijven of als misdrijf aangemerkte overtredingen van financiële toezichtswetgeving;
-
-- c. de onderneming elektronisch geld slechts uitgeeft via een betaalinstrument of rekening voor elektronisch geld waarop maximaal een bedrag van € 150 tegelijk kan worden opgeslagen; en
-
-- d. de onderneming de Nederlandsche Bank in kennis heeft gesteld van haar voornemen om elektronisch geld uit te geven.
-
-2. Indien een elektronischgeldinstelling als bedoeld in het eerste lid zijn werkzaamheden niet gedurende de gehele periode van de voorafgaande twaalf maanden heeft verricht, kan voor de toepassing van het eerste lid, onderdeel a, worden uitgegaan van een programma van werkzaamheden waarin naar het oordeel van de Nederlandsche Bank een reële begroting is opgenomen van de gezamenlijke waarde van de financiële verplichtingen die verband houden met de uitgifte van elektronisch geld.
-
-3. Een elektronischgeldinstelling als bedoeld in het eerste lid stelt de Nederlandsche Bank onverwijld in kennis van elke verandering in zijn situatie die relevant is voor het naleven van de in het eerste lid gestelde regels.
-
-#### § 2.3. Aanbieden van rechten van deelneming
-
-#### Vrijstelling als bedoeld in [artikel 2:74 van de wet](onbekend)
-
-#### § 2.4. Adviseren
-
-#### Vrijstelling als bedoeld in [artikel 2:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79)
-
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 3.3. Waarborg- en garantiefondsen
-
-#### Vrijstelling als bedoeld in [artikel 3:6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 4.4. Financiële dienstverleners
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-##### Artikel 54a
-
-Vervallen
-
-##### Artikel 55a
-
-Vervallen
-
-#### § 4.6. Adviseurs
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-#### § 4.6. Adviseurs
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-#### § 4.8. Beleggingsondernemingen
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 4.8. Beleggingsondernemingen
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 54b
-
-Vervallen
-
-#### § 4.7. Bemiddelaars
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-#### § 4.8. Beleggingsondernemingen
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-#### § 4.8. Beleggingsondernemingen
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1e
-
-1. Van [artikel 2:48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:48) zijn vrijgesteld natura-uitvaartverzekeraars:
-
-- a. waarvan de jaarlijkse bruto geboekte premie-inkomsten niet meer bedragen dan € 2.200.000;
-
-- b. waarvan de technische voorzieningen, berekend overeenkomstig [titel 9, afdeling 15, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten en op entiteiten voor risico-acceptatie kunnen worden verhaald, niet meer bedragen dan € 10.700.000;
-
-- c. die niet behoren tot een groep waarvan de totale technische voorzieningen, berekend overeenkomstig [titel 9, afdeling 15, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), meer dan € 26.600.000 bedragen of waarvan een verzekeraar, niet zijnde een verzekeraar met beperkte risico-omvang, deel uitmaakt;
-
-- d. waarvan het bedrijf geen herverzekeringsactiviteiten omvat die:
-
-- 1°. meer bedragen dan € 600.000 van de bruto geboekte premie-inkomsten, of meer dan € 2.700.000 van de technische voorzieningen berekend ingevolge [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045), zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten en van entiteiten voor risico-acceptatie kunnen worden verhaald, of
-
-- 2°. meer dan 10% uitmaken van de bruto geboekte premie-inkomsten of meer dan 10% uitmaken van de technische voorzieningen, zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten en op entiteiten voor risico-acceptatie kunnen worden verhaald;
-
-- e. die geen ander bedrijf uitoefenen dan het natura-uitvaartverzekeringsbedrijf, met uitzondering van handelsactiviteiten die voortvloeien uit het natura-uitvaartverzekeringsbedrijf en het uitoefenen van het bedrijf van herverzekeraar in de activiteit natura-uitvaartherverzekering; en
-
-- f. die geen verzekeringen sluiten met een dekking van meer dan € 14.000 per overlijdensgeval.
-
-2. Het eerste lid is niet van toepassing op een natura-uitvaartverzekeraar die ervoor gekozen heeft zijn werkzaamheden met een vergunning als bedoeld in [artikel 2:48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:48) te verrichten.
-
-3. Een ingevolge het eerste lid vrijgestelde natura-uitvaartverzekeraar informeert binnen zes maanden volgend op het van toepassing worden van de vrijstelling eenmalig alle verzekeringnemers over het feit dat hij niet meer onder prudentieel toezicht staat van de Nederlandsche Bank. Bij ieder aanbod voor het sluiten van een verzekering, in reclame-uitingen en documenten waarin een dergelijk aanbod in het vooruitzicht wordt gesteld, in andere precontractuele informatie aan aspirant-verzekeringnemers en in de verzekeringovereenkomst, vermeldt de verzekeraar dat hij voor het sluiten van natura-uitvaartverzekeringen niet onder prudentieel toezicht staat van de Nederlandsche Bank.
-
-4. Een ingevolge het eerste lid vrijgestelde natura-uitvaartverzekeraar stelt de Nederlandsche Bank in kennis van elke verandering in zijn situatie die relevant is voor de toepassing van de vrijstelling van het eerste lid.
-
-5. Indien de in het eerste lid, onderdelen a tot en met d, genoemde bedragen onderscheidenlijk percentages drie achtereenvolgende jaren worden overschreden, is de vrijstelling met ingang van het vierde jaar niet meer van toepassing. De vrijstelling is opnieuw van toepassing indien de verzekeraar gedurende drie achtereenvolgende jaren aan de eisen van het eerste lid heeft voldaan.
-
-##### Artikel 1f
-
-1. Van [artikel 2:48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:48) zijn vrijgesteld schadeverzekeraars:
-
-- a. waarvan de jaarlijkse bruto geboekte premie-inkomsten niet meer bedragen dan € 2.200.000;
-
-- b. waarvan de technische voorzieningen, berekend overeenkomstig [titel 9, afdeling 15, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten of op entiteiten voor risico-acceptatie kunnen worden verhaald, niet meer bedragen dan € 10.700.000;
-
-- c. die niet behoort tot een groep waarvan de totale technische voorzieningen, berekend overeenkomstig [titel 9, afdeling 15, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), meer dan € 26.600.000 bedragen of waarvan een verzekeraar, niet zijnde een verzekeraar met beperkte risico-omvang, deel uitmaakt;
-
-- d. waarvan het bedrijf geen herverzekeringsactiviteiten omvat die:
-
-- 1°. meer bedragen dan € 600.000 van de bruto geboekte premie-inkomsten, of meer dan € 2.700.000 van de technische voorzieningen berekend ingevolge [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045), zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten en van entiteiten voor risico-acceptatie kunnen worden verhaald, of
-
-- 2°. meer dan 10% uitmaken van de bruto geboekte premie-inkomsten of meer dan 10% uitmaken van de technische voorzieningen, zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten en op entiteiten voor risico-acceptatie kunnen worden verhaald;
-
-- e. die geen ander bedrijf uitoefenen dan het schadeverzekeringsbedrijf, met uitzondering van handelsactiviteiten die voortvloeien uit het schadeverzekeringsbedrijf en het uitoefenen van het bedrijf van herverzekeraar in de activiteit schadeherverzekering;
-
-- f. die geen verzekeringen sluiten met een dekking van meer dan € 14.000 per begunstigde per potentieel schadegeval; en
-
-- g. die geen schaden verzekeren veroorzaakt door of ontstaan uit gewapend conflict, burgeroorlog, opstand, binnenlandse onlusten, oproer of muiterij die zich in Nederland voordoen, behoudens het verzekeren van risico’s van molest in de algemeen gebruikelijke molestclausules in zee-, transport-, luchtvaart- en reisverzekeringen, zolang de Nederlandsche Bank daartegen geen bedenkingen naar voren heeft gebracht.
-
-2. [Artikel 1e, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1e&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
-
-##### Artikel 1h
-
-1. Van [artikel 2:54i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i) zijn vrijgesteld ondernemingen die het bedrijf van hotel uitoefenen en die als logiesverstrekkend bedrijf zijn ingeschreven in een door het Bedrijfschap Horeca en Catering bijgehouden register, voor zover het betreft het wisselen van munten of bankbiljetten en het uitbetalen van munten of bankbiljetten op vertoon van een creditcard of tegen inlevering van een of meer cheques, met een tegenwaarde van ten hoogste € 500 per gast per overnachting, voor natuurlijke personen aan wie tevens door het hotel tegen betaling logies wordt verstrekt.
-
-2. Aan de vrijstelling, bedoeld in het eerste lid, zijn de volgende voorschriften verbonden:
-
-- a. reclame-uitingen met betrekking tot de vrijgestelde werkzaamheden zijn slechts toegelaten voorzover het betreft:
-
-- 1°. het uitstallen van koersenborden die niet vanaf de openbare weg leesbaar zijn;
-
-- 2°. vermelding in folders en brochures die in hoofdzaak de hoofdactiviteit betreffen;
-
-- 3°. vermelding, al dan niet met behulp van pictogrammen, in hotelgidsen;
-
-- 4°. vermelding in het interne communicatiecircuit van het hotel;
-
-- b. buitenlandse munten en bankbiljetten die worden gebruikt of verworven bij de vrijgestelde werkzaamheden mogen slechts worden betrokken of afgestort bij een financiële onderneming die bevoegd is in Nederland het bedrijf van betaaldienstagent, betaaldienstverlener of bank uit te oefenen dan wel bij een wisselinstelling die beschikt over een vergunning, bedoeld in [artikel 2:54i, eerste lid, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i), waartoe met de desbetreffende betaaldienstagent, betaaldienstverlener, bank of wisselinstelling een duurzame overeenkomst is gesloten;
-
-- c. er wordt een administratie bijgehouden waaruit blijkt waar en wanneer buitenlandse munten en bankbiljetten zijn betrokken en afgestort, en waarin van iedere wisseltransactie wordt vastgelegd: de datum, het type transactie, de betrokken valuta’s, de omvang van de transactie, de naam van de cliënt en het kamernummer van de cliënt;
-
-- d. de onder c bedoelde gegevens blijven tot vijf jaar na het uitvoeren van de transactie bewaard.
-
-##### Artikel 1i
-
-Van [artikel 2:54i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54i) zijn vrijgesteld beleggingsondernemingen waaraan een vergunning als bedoeld in [artikel 2:96, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) is verleend, voor zover het betreft het uitbetalen van munten en bankbiljetten tegen inlevering van een of meer onderdelen van het couponblad van een waardepapier aan toonder tegen inlevering waarvan de rente op dit waardepapier kan worden geïnd.
-
-##### Artikel 1j
-
-1. Van [artikel 2:54o van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54o) zijn vrijgesteld kredietunies waarvan het bedrag aan aangetrokken opvorderbare gelden minder bedraagt dan € 10.000.000.
-
-2. Een kredietunie als bedoel in het eerste lid vermeldt op haar website, in reclame-uitingen en in documenten over de bedrijfsactiviteiten van de onderneming, dat de onderneming voor de uitoefening van haar activiteiten niet vergunningplichtig is ingevolge de wet en niet onder toezicht staat van de Nederlandsche Bank en de Autoriteit Financiële Markten.
-
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
-
-#### § 3.1. Beheerders, beleggingsinstellingen, beleggingsondernemingen en bewaarders
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-##### Artikel 18b
-
-Natura-uitvaartverzekeraars die ingevolge [artikel 1e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1e&z=2026-01-01&g=2026-01-01), of [1g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1g&z=2026-01-01&g=2026-01-01), zijn vrijgesteld van [artikel 2:48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:48) respectievelijk [artikel 2:50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) en schadeverzekeraars die ingevolge [artikel 1f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1f&z=2026-01-01&g=2026-01-01), of 1g, tweede lid, zijn vrijgesteld van artikel 2:48, eerste lid respectievelijk artikel 2:50, eerste lid, van de wet zijn tevens vrijgesteld van hetgeen ingevolge het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), met uitzondering van de [artikelen 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), [3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6), [3:7](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7) en [3:20, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:20), is bepaald.
-
-##### Artikel 18c
-
-Kredietunies zijn vrijgesteld van het Deel Prudentieel toezicht financiële ondernemingen, met uitzondering van de [artikelen 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6) en [3:7 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7), indien:
-
-- a. het bedrag aan aangetrokken opvorderbare gelden minder bedraagt dan € 10.000.000; en
-
-- b. de onderneming op haar website, in reclame-uitingen en in documenten over de bedrijfsactiviteiten van de onderneming, vermeldt dat de onderneming voor de uitoefening van haar activiteiten niet vergunningplichtig is ingevolge de wet en niet onder toezicht staat van de Nederlandsche Bank en de Autoriteit Financiële Markten.
-
-#### § 3.3. Waarborg- en garantiefondsen
-
-#### Vrijstelling als bedoeld in [artikel 3:6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 4.10. Kredietbeheerder
-
-#### Vrijstelling als bedoeld in [artikel 5:4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:4)
-
-#### § 5.1. Aanbieden van effecten
-
-#### Vrijstelling als bedoeld in [artikel 5:4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:4)
-
-#### § 5.1. Aanbieden van effecten
-
-#### Vrijstelling als bedoeld in [artikel 5:4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:4)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-#### § 5.2. Optreden op markten in financiële instrumenten
-
-#### Vrijstelling als bedoeld in [artikel 5:68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1d
-
-1. Van [artikel 2:10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10a) zijn vrijgesteld elektronischgeldinstellingen met rechtspersoonlijkheid, indien:
-
-- a. de gezamenlijke waarde van de financiële verplichtingen van de onderneming die met de uitgifte van elektronisch geld verband houden, gemiddeld niet hoger is dan € 5.000.000;
-
-- b. geen van de personen die het beleid bepalen of mede bepalen personen zijn met antecedenten als bedoeld in [artikel 6, onderdeel a, b of d, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=6), voor zover deze betrekking hebben op het witwassen van geld, terrorismefinanciering of vermogensmisdrijven of als misdrijf aangemerkte overtredingen van financiële toezichtswetgeving;
-
-- c. de onderneming elektronisch geld slechts uitgeeft via een betaalinstrument of rekening voor elektronisch geld waarop maximaal een bedrag van € 150 tegelijk kan worden opgeslagen; en
-
-- d. de onderneming de Nederlandsche Bank in kennis heeft gesteld van haar voornemen om elektronisch geld uit te geven.
-
-2. Indien een elektronischgeldinstelling als bedoeld in het eerste lid zijn werkzaamheden niet gedurende de gehele periode van de voorafgaande twaalf maanden heeft verricht, kan voor de toepassing van het eerste lid, onderdeel a, worden uitgegaan van een programma van werkzaamheden waarin naar het oordeel van de Nederlandsche Bank een reële begroting is opgenomen van de gezamenlijke waarde van de financiële verplichtingen die verband houden met de uitgifte van elektronisch geld.
-
-3. Een elektronischgeldinstelling als bedoeld in het eerste lid stelt de Nederlandsche Bank onverwijld in kennis van elke verandering in zijn situatie die relevant is voor het naleven van de in het eerste lid gestelde regels.
-
-##### Artikel 1g
-
-1. Van [artikel 2:50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) zijn vrijgesteld natura-uitvaartverzekeraars die voldoen aan de eisen, bedoeld in [artikel 1e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1e&z=2026-01-01&g=2026-01-01).
-
-2. Van [artikel 2:50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) zijn vrijgesteld schadeverzekeraars die voldoen aan de eisen, bedoeld in [artikel 1f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1f&z=2026-01-01&g=2026-01-01).
-
-3. Het eerste en tweede lid zijn niet van toepassing op een verzekeraar die ervoor gekozen heeft zijn werkzaamheden met een vergunning als bedoeld in [artikel 2:50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) te verrichten.
-
-4. [Artikel 1e, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.0c&artikel=1e&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
-
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 5.2. Optreden op markten in financiële instrumenten
-
-#### Vrijstelling als bedoeld in [artikel 5:68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68)
-
-#### § 5.2. Optreden op markten in financiële instrumenten
-
-#### Vrijstelling als bedoeld in [artikel 5:68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-#### § 5.2. Optreden op markten in financiële instrumenten
-
-#### Vrijstelling als bedoeld in [artikel 5:68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 24b
-
-Van [artikel 3:5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) zijn vrijgesteld projecteigenaren als bedoeld in artikel 2, eerste lid, onderdeel h, van de verordening Europese crowdfundingdienstverleners die opvorderbare gelden aantrekken of ter beschikking verkrijgen door middel van een lening als bedoeld in artikel 2, eerste lid, onderdeel b, van de verordening Europese crowdfundingdienstverleners, alsmede personen die als gevolg van een zodanige aantrekking of verkrijging opvorderbare gelden ter beschikking hebben, mits:
-
-- a. het aantrekken of ter beschikking verkrijgen van de opvorderbare gelden geschiedt door tussenkomst van een crowdfundingdienstverlener als bedoeld in artikel 2, eerste lid, onderdeel e, van de verordening Europese crowdfundingdienstverleners die over een vergunning als bedoeld in artikel 12, eerste lid, van die verordening beschikt;
-
-- b. het aantrekken of ter beschikking verkrijgen van de opvorderbare gelden geschiedt ten behoeve van een crowdfundingproject als bedoeld in artikel 2, eerste lid, onderdeel l, van de verordening Europese crowdfundingdienstverleners; en
-
-- c. het totale bedrag aan opvorderbare gelden dat middels een crowdfundingaanbod als bedoeld in artikel 2, eerste lid, onderdeel f, van de verordening Europese crowdfundingdienstverleners dat door de projecteigenaar wordt aangetrokken of ter beschikking wordt gekregen de in artikel 1, tweede lid, onderdeel c, van die verordening bedoelde grenswaarde niet overschrijdt.
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 4.10. Kredietbeheerder
-
-#### Vrijstelling als bedoeld in [artikel 5:4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:4)
-
-#### § 5.1. Aanbieden van effecten
-
-#### Vrijstelling als bedoeld in [artikel 5:4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:4)
-
-#### § 5.2. Optreden op markten in financiële instrumenten
-
-#### Vrijstelling als bedoeld in [artikel 5:68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68)
-
-### Hoofdstuk 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage A. Informatiedocument voor aanbiedingen van effecten
-
-Tekst die tussen vierkante haken staat, wordt vervangen door de toepasselijke gegevens. Telkens als «indien van toepassing» is vermeld, moet de aanbieder of uitgevende instelling de vereiste informatie invullen indien de informatie relevant is voor de aanbieding. Indien de informatie niet relevant is voor de aanbieding, schrapt de aanbieder of uitgevende instelling de desbetreffende informatie of de hele rubriek.
-
-De onderstaande informatie wordt in één enkel document meegedeeld. Het gebruikte lettertype moet duidelijk leesbaar zijn.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a
-
-1. Onverminderd [artikel 1:18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:18) en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.8&artikel=10&z=2026-01-01&g=2026-01-01) van deze regeling, zijn van [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) vrijgesteld beleggingsondernemingen met zetel in een staat die geen lidstaat is, die in Nederland uitsluitend in de uitoefening van hun beroep of bedrijf voor eigen rekening handelen met of door middel van personen die ingevolge de wet bevoegd zijn in Nederland beleggingsdiensten te verlenen of in de uitoefening van hun beroep of bedrijf voor eigen rekening te handelen.
-
-2. Het eerste lid is niet van toepassing op beleggingsondernemingen die op grond van artikel 47, derde lid, eerste en tweede volzin, van de verordening markten voor financiële instrumenten bevoegd zijn vanuit een bijkantoor gelegen in een andere lidstaat in Nederland beleggingsdiensten te verlenen of in de uitoefening van hun beroep of bedrijf te handelen voor eigen rekening.
-
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
-
-#### § 3.1. Beheerders, beleggingsinstellingen, beleggingsondernemingen en bewaarders
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### § 4.8. Beleggingsondernemingen
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-#### § 4.10. Kredietbeheerder
-
-#### Vrijstelling als bedoeld in [artikel 5:4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:4)
-
-#### § 5.2. Optreden op markten in financiële instrumenten
-
-#### Vrijstelling als bedoeld in [artikel 5:68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-#### § 5.3. Toepassen van een gedragscode door institutionele beleggers
-
-#### Vrijstelling als bedoeld in artikel 5:87 van de wet
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-## Bijlage A. Informatiedocument voor aanbiedingen van effecten
-
-Tekst die tussen vierkante haken staat, wordt vervangen door de toepasselijke gegevens. Telkens als «indien van toepassing» is vermeld, moet de aanbieder of uitgevende instelling de vereiste informatie invullen indien de informatie relevant is voor de aanbieding. Indien de informatie niet relevant is voor de aanbieding, schrapt de aanbieder of uitgevende instelling de desbetreffende informatie of de hele rubriek.
-
-De onderstaande informatie wordt in één enkel document meegedeeld. Het gebruikte lettertype moet duidelijk leesbaar zijn.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3c
-
-Van [artikel 2:60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) zijn vrijgesteld personen die aan een consument kosteloos uitstel van betaling verlenen van een uit een overeenkomst inzake krediet als bedoeld in [artikel 1:20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:20) voortvloeiende vordering tot betaling van een geldsom.
-
-#### § 2.5. Bemiddelen
-
-#### Vrijstelling als bedoeld in [artikel 2:85, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85)
-
-### Hoofdstuk 3. Vrijstelling van het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3)
-
-#### § 3.1a. Elektronischgeldinstellingen
-
-#### Vrijstelling als bedoeld in [artikel 3:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3)
-
-#### § 4.7. Bemiddelaars
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 4.9. Herverzekeringsbemiddelaars
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-#### § 5.2. Optreden op markten in financiële instrumenten
-
-#### Vrijstelling als bedoeld in [artikel 5:68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68)
-
-#### § 5.2a. Openbaar bod op effecten
-
-#### Vrijstelling als bedoeld in [artikel 5:81, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:81)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-#### § 5.2a. Openbaar bod op effecten
-
-#### Vrijstelling als bedoeld in [artikel 5:81, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:81)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-## Bijlage A. Informatiedocument voor aanbiedingen van effecten
-
-Tekst die tussen vierkante haken staat, wordt vervangen door de toepasselijke gegevens. Telkens als «indien van toepassing» is vermeld, moet de aanbieder of uitgevende instelling de vereiste informatie invullen indien de informatie relevant is voor de aanbieding. Indien de informatie niet relevant is voor de aanbieding, schrapt de aanbieder of uitgevende instelling de desbetreffende informatie of de hele rubriek.
-
-De onderstaande informatie wordt in één enkel document meegedeeld. Het gebruikte lettertype moet duidelijk leesbaar zijn.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 5.2. Optreden op markten in financiële instrumenten
-
-#### Vrijstelling als bedoeld in [artikel 5:68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68)
-
-#### § 5.2a. Openbaar bod op effecten
-
-#### Vrijstelling als bedoeld in [artikel 5:81, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:81)
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-## Bijlage A. Informatiedocument voor aanbiedingen van effecten
-
-Tekst die tussen vierkante haken staat, wordt vervangen door de toepasselijke gegevens. Telkens als «indien van toepassing» is vermeld, moet de aanbieder of uitgevende instelling de vereiste informatie invullen indien de informatie relevant is voor de aanbieding. Indien de informatie niet relevant is voor de aanbieding, schrapt de aanbieder of uitgevende instelling de desbetreffende informatie of de hele rubriek.
-
-De onderstaande informatie wordt in één enkel document meegedeeld. Het gebruikte lettertype moet duidelijk leesbaar zijn.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 18aa
-
-Herverzekeraars met zetel in de Verenigde Staten van Amerika die voldoen aan artikel 3, vierde lid, van de bilaterale overeenkomst tussen de Europese Unie en de Verenigde Staten van Amerika inzake prudentiële maatregelen betreffende verzekering en herverzekering (PbEU 2017, L 258) zijn vrijgesteld van het Deel Prudentieel toezicht financiële ondernemingen, met uitzondering van de [artikelen 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), [3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6) en [3:7](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7).
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 5.3. Toepassen van een gedragscode door institutionele beleggers
-
-#### Vrijstelling als bedoeld in artikel 5:87 van de wet
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-## Bijlage A. Informatiedocument voor aanbiedingen van effecten
-
-Tekst die tussen vierkante haken staat, wordt vervangen door de toepasselijke gegevens. Telkens als «indien van toepassing» is vermeld, moet de aanbieder of uitgevende instelling de vereiste informatie invullen indien de informatie relevant is voor de aanbieding. Indien de informatie niet relevant is voor de aanbieding, schrapt de aanbieder of uitgevende instelling de desbetreffende informatie of de hele rubriek.
-
-De onderstaande informatie wordt in één enkel document meegedeeld. Het gebruikte lettertype moet duidelijk leesbaar zijn.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10b
-
-Van [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26) zijn vrijgesteld personen met zetel in Singapore of de Verenigde Staten van Amerika, die in Nederland in de uitoefening van hun beroep of bedrijf een georganiseerde handelsfaciliteit of multilaterale handelsfaciliteit exploiteren voor zover op dat handelsplatform wordt gehandeld in derivaten, met dien verstande dat de vrijstelling slechts geldt indien deze personen of door hen geëxploiteerde handelsplatformen worden genoemd in de bijlage bij een van de hierna genoemde uitvoeringsbesluiten van de Europese Commissie:
-
-- a. Uitvoeringsbesluit (EU) 2017/2238 van de Commissie van 5 december 2017 betreffende de gelijkwaardigheid van het wettelijk en toezichtskader dat in de Verenigde Staten van Amerika overeenkomstig Verordening (EU) nr. 600/2014 van het Europees Parlement en de Raad van toepassing is op designated contract markets en swap execution facilities (PbEU 2017, L 130);
-
-- b. Uitvoeringsbesluit (EU) 2019/541 van de Commissie van 1 april 2019 betreffende de gelijkwaardigheid van het wettelijke en toezichtskader dat in Singapore op goedgekeurde beurzen en erkende marktexploitanten van toepassing is in overeenstemming met Verordening (EU) nr. 600/2014 van het Europees Parlement en de Raad (PbEU 2019, L 93).
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 4.9. Herverzekeringsbemiddelaars
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-#### § 6.1. Bijzondere bepalingen
-
-#### Vrijstelling als bedoeld in de [artikelen 2:59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59), [2:64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:64), [2:79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79), [2:85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85), [2:91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:91), [2:95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:95) en [2:104, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104)
-
-### Hoofdstuk 7. Slotbepalingen
-
-## Bijlage A. Informatiedocument voor aanbiedingen van effecten
-
-Tekst die tussen vierkante haken staat, wordt vervangen door de toepasselijke gegevens. Telkens als «indien van toepassing» is vermeld, moet de aanbieder of uitgevende instelling de vereiste informatie invullen indien de informatie relevant is voor de aanbieding. Indien de informatie niet relevant is voor de aanbieding, schrapt de aanbieder of uitgevende instelling de desbetreffende informatie of de hele rubriek.
-
-De onderstaande informatie wordt in één enkel document meegedeeld. Het gebruikte lettertype moet duidelijk leesbaar zijn.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 5.3. Toepassen van een gedragscode door institutionele beleggers
-
-#### Vrijstelling als bedoeld in artikel 5:87 van de wet
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-## Bijlage A. Informatiedocument voor aanbiedingen van effecten
-
-Tekst die tussen vierkante haken staat, wordt vervangen door de toepasselijke gegevens. Telkens als «indien van toepassing» is vermeld, moet de aanbieder of uitgevende instelling de vereiste informatie invullen indien de informatie relevant is voor de aanbieding. Indien de informatie niet relevant is voor de aanbieding, schrapt de aanbieder of uitgevende instelling de desbetreffende informatie of de hele rubriek.
-
-De onderstaande informatie wordt in één enkel document meegedeeld. Het gebruikte lettertype moet duidelijk leesbaar zijn.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 24c
-
-Van [artikel 3:5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) zijn vrijgesteld:
-
-- a. houders van een vergunning tot het organiseren van kansspelen op afstand als bedoeld in [artikel 31a, eerste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a), voor zover zij opvorderbare gelden aanhouden op een rekening als bedoeld in [artikel 31l, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31l);
-
-- b. stichtingen die:
-
-- 1°. uitsluitend werkzaam zijn voor houders van een vergunning als bedoeld in onderdeel a, hetgeen uit een schriftelijke overeenkomst tussen de houder van een vergunning en de stichting blijkt;
-
-- 2°. als enige activiteit hebben het tijdelijke beheer van opvorderbare gelden ten behoeve van spelers die zijn ingeschreven bij een houder van een vergunning als bedoeld in onderdeel a; en
-
-- 3°. voldoen aan het bij of krachtens [artikel 31l, eerste, tweede en vierde lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31l) bepaalde.
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 5.3. Toepassen van een gedragscode door institutionele beleggers
-
-#### Vrijstelling als bedoeld in artikel 5:87 van de wet
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-#### § 5.3. Toepassen van een gedragscode door institutionele beleggers
-
-#### Vrijstelling als bedoeld in artikel 5:87 van de wet
-
-### Hoofdstuk 6. Overgangsbepalingen
-
-## Bijlage A. Informatiedocument voor aanbiedingen van effecten
-
-Tekst die tussen vierkante haken staat, wordt vervangen door de toepasselijke gegevens. Telkens als «indien van toepassing» is vermeld, moet de aanbieder of uitgevende instelling de vereiste informatie invullen indien de informatie relevant is voor de aanbieding. Indien de informatie niet relevant is voor de aanbieding, schrapt de aanbieder of uitgevende instelling de desbetreffende informatie of de hele rubriek.
-
-De onderstaande informatie wordt in één enkel document meegedeeld. Het gebruikte lettertype moet duidelijk leesbaar zijn.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 12
-
-Vervallen
-
-##### Artikel 16
-
-Vervallen
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
 ##### Artikel 35b
 
 Personen die zijn vrijgesteld op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.8&artikel=12&z=2026-01-01&g=2026-01-01) zijn tevens vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde.
 
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
+##### Artikel 36
 
-#### § 6.1. Bijzondere bepalingen
+Beleggingsondernemingen als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.8&artikel=14&z=2026-01-01&g=2026-01-01) zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde.
 
-#### Vrijstelling als bedoeld in de [artikelen 2:59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59), [2:64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:64), [2:79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79), [2:85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85), [2:91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:91), [2:95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:95) en [2:104, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104)
+##### Artikel 37
 
-### Hoofdstuk 7. Slotbepalingen
+Beleggingsondernemingen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.8&artikel=13&z=2026-01-01&g=2026-01-01) zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4), met uitzondering van de [artikelen 4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), [4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22), [4:23](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23), [4:24](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24), [4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25), [4:88](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:88) en [4:89, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:89) bepaalde.
 
-## Bijlage A. Informatiedocument voor aanbiedingen van effecten
+##### Artikel 38
 
-Tekst die tussen vierkante haken staat, wordt vervangen door de toepasselijke gegevens. Telkens als «indien van toepassing» is vermeld, moet de aanbieder of uitgevende instelling de vereiste informatie invullen indien de informatie relevant is voor de aanbieding. Indien de informatie niet relevant is voor de aanbieding, schrapt de aanbieder of uitgevende instelling de desbetreffende informatie of de hele rubriek.
+*Vervallen*
 
-De onderstaande informatie wordt in één enkel document meegedeeld. Het gebruikte lettertype moet duidelijk leesbaar zijn.
+#### § 4.4. Financiële dienstverleners
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Vrijstelling als bedoeld in artikel 4:7 van de wet
+
+##### Artikel 39
+
+Financiëledienstverleners zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde voorzover zij financiële diensten, anders dan met betrekking tot krediet, verlenen aan:
+
+- a. consumenten die bij hen werkzaam zijn of anderszins onder hun verantwoordelijkheid vallen;
+
+- b. consumenten die werkzaam zijn bij of anderszins onder de verantwoordelijkheid vallen van andere rechtspersonen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden; of
+
+- c. consumenten of, indien het financiële diensten met betrekking tot verzekeringen of herverzekeringsbemiddeling betreft, cliënten waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden.
+
+##### Artikel 39a
+
+Instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) zijn vrijgesteld van het ingevolge het Deel Gedragstoezicht financiële ondernemingen van de wet bepaalde met betrekking tot het aanbieden van, adviseren over en bemiddelen in krediet, alsmede met betrekking tot het adviseren over of bemiddelen in het openen van een betaalrekening of spaarrekening, met inbegrip van de aan een dergelijke rekening verbonden betaal-, spaar-, of elektronischgeldfaciliteiten, ten behoeve van krediet, voorzover:
+
+- a. zij krediet aanbieden ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1);
+
+- b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120); en
+
+- c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.
+
+##### Artikel 40
+
+Gemeentelijke kredietbanken ten aanzien waarvan [artikel 4:37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37) is toegepast zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4), met uitzondering van [artikel 4:20, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20) bepaalde, voorzover zij financiële diensten verlenen met betrekking tot betaalrekeningen en de daaraan verbonden betaalfaciliteiten in het kader van het beheer van cliëntgelden als onderdeel van een integraal hulpverleningstraject.
+
+##### Artikel 41
+
+1. Financiëledienstverleners zijn vrijgesteld van [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) voorzover zij financiële diensten verlenen met betrekking tot:
+
+- a. betaalrekeningen en de daaraan verbonden betaalfaciliteiten;
+
+- b. spaarrekeningen en de daaraan verbonden spaarfaciliteiten, tenzij het spaarrekeningen betreft waarvan de rentevergoeding is gekoppeld aan de koersontwikkeling van tot de handel op een markt in financiële instrumenten toegelaten financiële instrumenten.
+
+2. Financiëledienstverleners zijn vrijgesteld van [artikel 4:23, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23) voorzover zij financiële diensten verlenen met betrekking tot financiële producten, met uitzondering van:
+
+- a. complexe producten als bedoeld in [artikel 1, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1);
+
+- b. spaarrekeningen en de daaraan verbonden spaarfaciliteiten, waarvan de rentevergoeding is gekoppeld aan de koersontwikkeling van tot de handel op een markt in financiële instrumenten toegelaten financiële instrumenten;
+
+- c. financiële instrumenten;
+
+- d. krediet waarvan de kredietsom meer dan € 1.000 bedraagt;
+
+- e. hypothecair krediet;
+
+- f. verzekeringen in verband met het geheel of gedeeltelijk wegvallen van het inkomen van een cliënt;
+
+- g. combinaties van twee of meer van de financiële producten, bedoeld in de onderdelen a tot en met h van de definitie van financieel product in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+
+#### § 4.5. Aanbieders
+
+##### Vrijstelling als bedoeld in artikel 4:7 van de wet
+
+##### Artikel 42
+
+Aanbieders van complexe producten als bedoeld in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1) zijn vrijgesteld van [artikel 150 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=150), voorzover het complexe producten betreft waarvoor de consument eenmalig een premie betaalt of eenmalig een storting doet.
+
+##### Artikel 43
+
+1. Aanbieders van beleggingsobjecten als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-01-01&g=2026-01-01), zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde.
+
+2. Aanbieders zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde, voorzover zij financiële producten, met uitzondering van krediet, aanbieden aan:
+
+- 1°. consumenten die bij hen werkzaam zijn of anderszins onder hun verantwoordelijkheid vallen;
+
+- 2°. consumenten die werkzaam zijn bij of anderszins onder de verantwoordelijkheid vallen van andere rechtspersonen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden; of
+
+- 3°. consumenten of, indien het aanbieden van verzekeringen betreft, cliënten waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden.
+
+3. Aanbieders van krediet zijn vrijgesteld van [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) voorzover dat betrekking heeft op personen als bedoeld in [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) die geen andere werkzaamheden met betrekking tot krediet verrichten dan het incasseren van vorderingen.
+
+4. Ondernemingen waarop de vrijstelling bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2026-01-01&g=2026-01-01), van toepassing is, zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde.
+
+4. Personen waarop de vrijstelling, bedoeld in [artikel 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.2&artikel=3c&z=2026-01-01&g=2026-01-01) van toepassing is, zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde.
+
+6. Aanbieders van verzekeringen zijn vrijgesteld van [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), voorzover dat betrekking heeft op personen als bedoeld in [artikel 4:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), die geen andere werkzaamheden verrichten met betrekking tot verzekeringen dan schadebehandeling of het innen van premies.
+
+7. Aanbieders van zorgverzekeringen als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) zijn vrijgesteld van [artikel 4:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17) en de [artikelen 57, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=57), en [77, eerste lid, aanhef en onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=77).
+
+8. Kredietkopers waarop de vrijstelling, bedoeld in [artikel 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.2&artikel=3d&z=2026-01-01&g=2026-01-01), van toepassing is, zijn vrijgesteld van het bepaalde ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4), met uitzondering van de [artikelen 4:81g](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:81g), [4:81j](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:81j), [4:81k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:81k), en [4:81m, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:81m).
+
+##### Artikel 44
+
+Ziektekostenverzekeraars als bedoeld in [artikel 1, onderdeel f, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1), zijn vrijgesteld van de [artikelen 4:19](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:19), [4:20, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), en [4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22).
+
+#### § 4.6. Adviseurs
+
+##### Vrijstelling als bedoeld in artikel 4:7 van de wet
+
+##### Artikel 45
+
+1. Van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde zijn vrijgesteld:
+
+- a. adviseurs voorzover zij adviseren over beleggingsobjecten als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-01-01&g=2026-01-01);
+
+- b. adviseurs voorzover zij adviseren over verzekeringen aan:
+
+   - 1°. rechtspersonen waarin zij deelnemen;
+
+   - 2°. vennootschappen waarvan zij vennoot zijn; of
+
+   - 3°. rechtspersonen of vennootschappen waarin of waarvan andere rechtspersonen of vennootschappen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden, deelnemen onderscheidenlijk vennoot zijn;
+
+- c. adviseurs in verzekeringen voorzover zij als bemiddelaar ten aanzien van de aanbevolen verzekering zijn vrijgesteld ingevolge [artikel 47, eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=4&paragraaf=4.7&artikel=47&z=2026-01-01&g=2026-01-01);
+
+- d. de Staat der Nederlanden voorzover hij in het kader van publieksvoorlichting adviseert over zorgverzekeringen of ziektekostenverzekeringen ter aanvulling van een zorgverzekering;
+
+- e. adviseurs die een andere hoofdberoepswerkzaamheid hebben dan het verlenen van financiële diensten en uit hoofde van die hoofdberoepswerkzaamheid inzicht hebben in de financiële situatie van consumenten, voorzover zij, zonder daarvoor van de aanbieder provisie te ontvangen, consumenten adviseren en de door hen verstrekte adviezen in het verlengde liggen van hun hoofdberoepswerkzaamheid;
+
+- f. adviseurs voorzover zij adviseren over financiële instrumenten aan personen die handelen in de uitoefening van een beroep of bedrijf en niet tevens beleggingsdiensten verlenen.
+
+2. Het eerste lid, aanhef en onderdeel e, is slechts van toepassing indien het adviseren slechts een marginaal onderdeel uitmaakt van de totale werkzaamheden van de adviseur en hij het aanbevolen financiële product niet tevens aanbiedt of met betrekking tot het aanbevolen financiële product niet tevens een beleggingsdienst verleent, bemiddelt, optreedt als gevolmachtigde agent of optreedt als ondergevolmachtigde agent.
+
+3. Het eerste lid, aanhef en onderdeel a, is slechts van toepassing voorzover de adviseurs in reclame-uitingen en andere onverplichte precontractuele informatie inzake het beleggingsobject vermelden dat zij voor het adviseren over het beleggingsobject niet onder toezicht staan van de Autoriteit Financiële Markten.
+
+##### Artikel 46
+
+1. Adviseurs in financiële instrumenten die tevens beleggingsdiensten verlenen zijn vrijgesteld van de [artikelen 4:9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), en [4:15, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15).
+
+2. Adviseurs in rechten van deelneming in een beleggingsinstelling of icbe zijn vrijgesteld van de [artikelen 4:9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), [4:15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15), [4:17, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17), en [4:20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), voorzover zij adviseren over rechten van deelneming in henzelf onderscheidenlijk in door hen beheerde beleggingsinstellingen of icbe’s.
+
+3. Adviseurs in financiële instrumenten als bedoeld in bijlage B bij de richtlijn beleggingsdiensten die tevens beheerders van icbe’s zijn, zijn vrijgesteld van de [artikelen 4:9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), [4:15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15), [4:17, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17), en [4:20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20).
+
+4. Adviseurs in financiële instrumenten die niet tevens beleggingsdiensten verlenen zijn vrijgesteld van [artikel 4:20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20) indien zij adviseren aan personen die handelen in de uitoefening van hun beroep of bedrijf.
+
+#### § 4.7. Bemiddelaars
+
+##### Vrijstelling als bedoeld in artikel 4:7 van de wet
+
+##### Artikel 47
+
+1. Van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde zijn vrijgesteld:
+
+- a. bemiddelaars voorzover zij bemiddelen in beleggingsobjecten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-01-01&g=2026-01-01);
+
+- b. bemiddelaars in krediet als bedoeld in [artikel 6, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01);
+
+- c. bemiddelaars voorzover zij bemiddelen in verzekeringen aan:
+
+   - 1°. rechtspersonen waarin zij deelnemen;
+
+   - 2°. vennootschappen waarvan zij vennoot zijn; of
+
+   - 3°. rechtspersonen of vennootschappen waarin of waarvan andere rechtspersonen of vennootschappen waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden, deelnemen onderscheidenlijk vennoot zijn;
+
+- d. bemiddelaars in verzekeringen als bedoeld in [artikel 7, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=7&z=2026-01-01&g=2026-01-01);
+
+- e. bemiddelaars in verzekeringen als bedoeld in [artikel 7, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=7&z=2026-01-01&g=2026-01-01);
+
+- f. gemeenten voorzover zij bemiddelen in zorgverzekeringen of ziektekostenverzekeringen ter aanvulling van een zorgverzekering tussen financiëledienstverleners en consumenten van wie het inkomen niet meer dan 130 procent van de relevante bijstandnorm als bedoeld in [hoofdstuk 3 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3) bedraagt;
+
+- g. gemeenten als bedoeld in onderdeel f voorzover zij adviseren over de verzekering waarin zij bemiddelen;
+
+- h. bewindvoerders als bedoeld in [artikel 6, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01);
+
+- i. curatoren als bedoeld in [artikel 6, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01).
+
+2. Het eerste lid, aanhef en onderdeel a, is slechts van toepassing voorzover de desbetreffende bemiddelaar in reclame-uitingen en documenten waarin een aanbod van het beleggingsobject in het vooruitzicht wordt gesteld vermeldt dat hij voor het bemiddelen in het beleggingsobject niet onder toezicht staat van de Autoriteit Financiële Markten.
+
+3. Het eerste lid, aanhef en onderdeel e, is niet van toepassing ten aanzien van [artikel 4:104 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:104).
+
+4. De vrijstelling ingevolge het eerste lid, aanhef en onderdeel d, is niet van toepassing op de [artikelen 4:19, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:19), [4:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), [4:22a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22a), [4:24a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:24a), [4:75a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:75a) en de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=28), [63a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=63a) en [65b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=65b).
+
+5. Een bemiddelaar in verzekeringen als bedoeld in [artikel 7, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=7&z=2026-01-01&g=2026-01-01), verstrekt de cliënt voorafgaand aan de overeenkomst informatie over de identiteit en het adres van de verzekeraar of bemiddelaar in verzekeringen waarvoor de bemiddelaar bemiddelt en over de procedure om een klacht in te dienen.
+
+##### Artikel 48
+
+Bemiddelaars in verzekeringen als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01), zijn vrijgesteld van [artikel 4:75, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:75) voorzover de andere onderneming volledig voor hen verantwoordelijk is als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01), en:
+
+- a. een financiële onderneming is die een door de Nederlandsche Bank verleende vergunning voor het uitoefenen van het bedrijf van bank heeft; of
+
+- b. een financiële onderneming is die een door de Nederlandsche Bank verleende vergunning voor het uitoefenen van het bedrijf van verzekeraar heeft.
+
+##### Artikel 49
+
+1. Bemiddelaars in goederenkrediet als bedoeld in [artikel 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020536&hoofdstuk=2&paragraaf=2.5&artikel=6&z=2026-01-01&g=2026-01-01), zijn vrijgesteld van het ingevolge het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) bepaalde, met uitzondering van de [artikelen 4:19](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:19), [4:20, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), [4:16](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:16), [4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22), [4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25), [4:28](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:28), [4:29](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:29), [4:74](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:74), [4:92](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:92), [4:96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:96), [4:94, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:94), en [4:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:99).
+
+2. Het eerste lid is slechts van toepassing voorzover het goederenkrediet betreft waarvan de looptijd niet langer is dan de verwachte economische levensduur van de verschafte roerende zaak, of dan de periode van dienstverlening en indien het goederenkrediet dient ter verschaffing van het genot van een roerende zaak, dan wel het verlenen van een dienst en de desbetreffende bemiddelaar in goederenkrediet:
+
+- a. de consument niet adviseert over het goederenkrediet; en
+
+- b. een andere hoofdberoepswerkzaamheid heeft dan bemiddeling in goederenkrediet.
+
+##### Artikel 50
+
+1. Bemiddelaars die voor het verlenen van beleggingsdiensten een op grond van [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) verleende vergunning hebben zijn vrijgesteld van de [artikelen 4:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), [4:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:10) en [4:11, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11) voorzover zij bemiddelen in financiële producten, anders dan verzekeringen of hypothecair krediet.
+
+2. Adviseurs, die tevens bemiddelaars zijn als bedoeld in het eerste lid, zijn vrijgesteld van de [artikelen 4:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), [4:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:10), en [4:11, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11), voorzover zij adviseren over de financiële producten waarin zij bemiddelen.
+
+#### § 4.8. Beleggingsondernemingen
+
+##### Vrijstelling als bedoeld in artikel 4:7 van de wet
+
+##### Artikel 51
+
+Beleggingsondernemingen zijn vrijgesteld van de [artikelen 85](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=85) en [86 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86) voorzover zij beleggingsdiensten verlenen aan professionele beleggers.
 
 #### § 4.9. Herverzekeringsbemiddelaars
 
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
+##### Vrijstelling als bedoeld in artikel 4:7 van de wet
+
+##### Artikel 52
+
+Herverzekeringsbemiddelaars zijn vrijgesteld van de [artikelen 4:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:16), [4:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17), en [4:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:99) en, indien ten minste een van de feitelijk leidinggevenden van de betreffende herverzekeringsbemiddelaar ten minste drie jaar relevante werkervaring heeft, van de [artikelen 5 tot en met 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=5). Voorzover zij adviseren of bemiddelen zijn herverzekeringsbemiddelaars tevens vrijgesteld van [artikel 4:72](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:72), onderscheidenlijk [4:73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:73).
+
+#### § 4.10. Kredietbeheerder
+
+##### Artikel 52a
+
+Een kredietbeheerder is vrijgesteld van [artikel 86c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86c).
+
+### Hoofdstuk 5. Vrijstelling van het Deel Gedragstoezicht financiële markten
+
+#### § 5.1. Aanbieden van effecten
+
+##### Vrijstelling als bedoeld in artikel 5:4 van de wet
+
+##### Artikel 53
+
+1. Het aanbieden van effecten aan het publiek is vrijgesteld van artikel 3, eerste lid, van de prospectusverordening, voorzover het betreft effecten die deel uitmaken van een aanbieding waarbij de totale tegenwaarde van de aanbieding binnen de Europese Economische Ruimte, berekend per categorie en over een periode van twaalf maanden, minder dan € 5 miljoen bedraagt.
+
+2. Voor de toepassing van het eerste lid wordt de totale tegenwaarde van de aanbiedingen van in een groep verbonden groepsmaatschappijen opgeteld.
+
+3. Het eerste lid is slechts van toepassing indien de aanbieder:
+
+- a. voorafgaand aan de aanbieding van effecten als bedoeld in het eerste lid aan de Autoriteit Financiële Markten de aanbieding meldt onder gelijktijdige verstrekking van de volgende informatie:
+
+   - 1°. de naam en het adres van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is en de naam, het e-mailadres en het telefoonnummer van de contactpersoon van de uitgevende instelling of aanbieder;
+
+   - 2°. indien van toepassing: het nummer van inschrijving in het handelsregister van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is;
+
+   - 3°. de datum van oprichting van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is;
+
+   - 4°. de namen, geboortedata en geboorteplaatsen van de bestuurders van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is;
+
+   - 5°. de namen van de aandeelhouders van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is;
+
+   - 6°. de website van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is aanbieder en, indien van toepassing, de website van de aanbieding;
+
+   - 7°. de maximale omvang van de aanbieding in euro’s;
+
+   - 8°. de aanbiedingsperiode;
+
+   - 9°. de categorie effect;
+
+   - 10°. de besteding van de door beleggers ingelegde gelden;
+
+   - 11°. een kopie van het uittreksel uit het handelsregister van de uitgevende instelling en de aanbieder indien de uitgevende instelling niet tevens de aanbieder is, een kopie van het aanbiedingsdocument en eventueel reclamemateriaal en, voor zover van toepassing, een kopie van de vergunning van een toezichthoudende instantie; en
+
+- b. voorafgaand aan de aanbieding, bedoeld in het eerste lid, de in bijlage A bedoelde gegevens verstrekt met gebruikmaking van het in die bijlage opgenomen informatiedocument.
+
+4. Indien een aanbieding niet uitsluitend aan gekwalificeerde beleggers wordt gedaan is het eerste lid slechts van toepassing voor zover de aanbieders in reclame-uitingen en documenten waarin de aanbieding in het vooruitzicht wordt gesteld, vermelden dat ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) geen verplichting bestaat tot het algemeen verkrijgbaar stellen van een prospectus dat is goedgekeurd door de Autoriteit Financiële Markten ter zake van de aanbieding en dat op de aanbieding geen toezicht wordt uitgeoefend door de Autoriteit Financiële Markten.
+
+5. De informatie, bedoeld in het derde lid, onderdeel b, is evenwichtig en begrijpelijk.
+
+6. Het derde lid, onderdeel b, en het vijfde lid zijn niet van toepassing op aanbieders van effecten die vallen onder de werking van de verordening essentiële-informatiedocumenten en op beheerders van beleggingsinstellingen die op grond van [artikel 4:37l, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37l), een prospectus aan beleggers dienen te verstrekken.
+
+##### Artikel 54
+
+*Vervallen*
+
+##### Artikel 54a
+
+*Vervallen*
+
+##### Artikel 54b
+
+*Vervallen*
+
+##### Artikel 55
+
+*Vervallen*
+
+##### Artikel 55a
+
+*Vervallen*
+
+#### § 5.2. Optreden op markten in financiële instrumenten
+
+##### Vrijstelling als bedoeld in artikel 5:68, tweede lid, van de wet
+
+##### Artikel 56
+
+1. Van [artikel 5:68 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68) zijn vrijgesteld:
+
+- a. beleggingsinstellingen of icbe’s die een startersfonds zijn als bedoeld in [artikel 3.10.1 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.1);
+
+- b. beleggingsinstellingen of icbe’s waarvan:
+
+   - 1°. het balanstotaal voor minder dan vijftig procent bestaat uit beleggingen, en
+
+   - 2°. minder dan vijftig procent van de totale gerealiseerde opbrengsten gegenereerd wordt uit beleggingen;
+
+- c. beleggingsinstellingen of icbe’s waarvan alleen rechten van deelneming zijn aangeboden aan bestuurders, leden van de raad van commissarissen of werknemers van die beleggingsinstelling, of aan bestuurders, leden van de raad van commissarissen of werknemers van een met die beleggingsinstelling in een formele of feitelijke zeggenschapsstructuur verbonden rechtspersoon, vennootschap of instelling;
+
+- d. beleggingsinstellingen of icbe’s waarvan rechten van deelneming worden aangeboden aan minder dan honderdvijftig personen die geen gekwalificeerde belegger zijn; of
+
+- e. beheerders van beleggingsinstellingen of icbe’s als bedoeld in de onderdelen a tot en met d.
+
+2. Van [artikel 5:68 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68) zijn vrijgesteld degenen op wie [artikel 3:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2) van toepassing is.
+
+#### § 5.2a. Openbaar bod op effecten
+
+##### Vrijstelling als bedoeld in artikel 5:81, tweede lid, van de wet
+
+##### Artikel 56a
+
+Van [artikel 5:74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:74) zijn vrijgesteld bieders voor zover zij een openbaar bod uitbrengen op effecten:
+
+- a. waar geen rechtstreeks of potentieel stemrecht aan verbonden is, met uitzondering van niet-royeerbare certificaten; of
+
+- b. die door henzelf zijn uitgegeven.
+
+##### Artikel 56b
+
+Van [artikel 5:79 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:79) zijn vrijgesteld bieders voor zover zij effecten verwerven:
+
+- a. in regelmatig verkeer op markten in financiële instrumenten;
+
+- b. met toepassing van de [artikelen 92a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=92a), [201a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=201a) of [336 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=336); of
+
+- c. ingevolge een openbaar bod waarvan de aanmeldingstermijn geheel of ten dele samenvalt met een openbaar bod dat door een derde wordt uitgebracht op effecten van de doelvennootschap.
+
+##### Artikel 56c
+
+Van [artikel 8, eerste lid van het Besluit openbare biedingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=8), voor zover het de verplichting betreft tot vermelding in het biedingsbericht van de gegevens bedoeld in [bijlage B, paragraaf 1, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=B), [Bijlage C, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=C) en [Bijlage D, onderdeel 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=D), zijn vrijgesteld bieders voor zover zij een openbaar bod aankondigen of uitbrengen op rechten van deelneming in een beleggingsinstelling waarvan de rechten van deelneming op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald of in een icbe.
+
+#### § 5.3. Toepassen van een gedragscode door institutionele beleggers
+
+##### Vrijstelling als bedoeld in artikel 5:87 van de wet
+
+##### Artikel 57
+
+Van [artikel 5:86, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:86) zijn vrijgesteld beheerders van beleggingsinstellingen of icbe’s:
+
+- a. waarvan de rechten van deelneming slechts kunnen worden verworven tegen een tegenwaarde van ten minste € 100.000 per deelnemer;
+
+- b. waarvan de rechten van deelneming een nominale waarde per recht hebben van ten minste € 100.000;
+
+- c. die rechten van deelneming aanbieden aan minder dan 150 personen die geen gekwalificeerde belegger zijn;
+
+- d. die rechten van deelneming uitsluitend aanbieden aan gekwalificeerde beleggers;
+
+- e. die een startersfonds zijn als bedoeld in [artikel 3.10.1 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.1);
+
+- f. waarvan:
+
+   - 1°. het balanstotaal voor minder dan vijftig procent bestaat uit beleggingen, en
+
+   - 2°. minder dan vijftig procent van de totale gerealiseerde opbrengsten gegenereerd wordt uit beleggingen; of
+
+- g. waarvan alleen rechten van deelneming zijn aangeboden aan bestuurders, leden van de raad van commissarissen of werknemers van die beleggingsinstelling, of aan bestuurders, leden van de raad van commissarissen of werknemers van een met die beleggingsinstelling in een formele of feitelijke zeggenschapsstructuur verbonden rechtspersoon, vennootschap of instelling.
+
+### Hoofdstuk 6. Overgangsbepalingen
 
 #### § 6.1. Bijzondere bepalingen
 
-#### Vrijstelling als bedoeld in de [artikelen 2:59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59), [2:64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:64), [2:79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79), [2:85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85), [2:91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:91), [2:95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:95) en [2:104, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104)
+##### Vrijstelling als bedoeld in de artikelen 2:59, eerste lid, 2:64, eerste lid, 2:79, eerste lid, 2:85, eerste lid, 2:91, eerste lid, 2:95, eerste lid en 2:104, eerste en tweede lid, van de wet
+
+##### Artikel 58
+
+1. Van de [artikelen 2:55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55), [2:60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60), [2:75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:75), [2:80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80), [2:86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:86), [2:92, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:92) en [2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) zijn vrijgesteld rechtspersonen als bedoeld in [artikel 20, vijfde lid, onderdeel a, van de Vrijstellingsregeling Wfd](https://wetten.overheid.nl/jci1.3:c:BWBR0019322&artikel=20) en, voorzover het [artikel 2:80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80) betreft, onderbemiddelaars in krediet als bedoeld in [artikel 20, vijfde lid, onderdeel b, van de Vrijstellingsregeling Wfd](https://wetten.overheid.nl/jci1.3:c:BWBR0019322&artikel=20), die overeenkomstig het [eerste lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0019322&artikel=20) een vergunning of ontheffing hebben aangevraagd, op welke aanvraag op het tijdstip van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) nog niet is beslist.
+
+2. Het eerste lid is van toepassing totdat de Autoriteit Financiële Markten op de in dat lid bedoelde aanvraag heeft beslist. Artikel 31, tweede tot en met vierde lid, van de Invoerings- en aanpassingswet Wet op het financieel toezicht is van overeenkomstige toepassing.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage A. Informatiedocument voor aanbiedingen van effecten
+##### Artikel 59
 
-Tekst die tussen vierkante haken staat, wordt vervangen door de toepasselijke gegevens. Telkens als «indien van toepassing» is vermeld, moet de aanbieder of uitgevende instelling de vereiste informatie invullen indien de informatie relevant is voor de aanbieding. Indien de informatie niet relevant is voor de aanbieding, schrapt de aanbieder of uitgevende instelling de desbetreffende informatie of de hele rubriek.
+*Vervallen*
 
-De onderstaande informatie wordt in één enkel document meegedeeld. Het gebruikte lettertype moet duidelijk leesbaar zijn.
+##### Artikel 60
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+De [vrijstellingsregeling Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007777) wordt ingetrokken.
 
-##### Artikel 18d
+##### Artikel 61
 
-Betaalinstellingen die uitsluitend rekeninginformatiediensten verlenen zijn vrijgesteld van [artikel 3:72, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72).
+Deze regeling treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in werking treedt.
 
-##### Artikel 3d
+##### Artikel 62
 
-Van [artikel 2:60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60) zijn vrijgesteld kredietkopers met zetel in Nederland die uitsluitend de rechten van een kredietgever op grond van een niet-renderende kredietovereenkomst met een consument of niet-renderende kredietovereenkomsten met een consument kopen en die op grond van [artikel 4:81i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:81i) een financiële onderneming als bedoeld in dat artikel hebben aangewezen voor het servicen van niet-renderende kredietovereenkomsten.
-
-#### § 2.4. Adviseren
-
-#### Vrijstelling als bedoeld in [artikel 2:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79)
-
-### Hoofdstuk 4. Vrijstelling van het [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4)
-
-#### Vrijstelling als bedoeld in [artikel 4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7)
-
-### Hoofdstuk 5. Vrijstelling van het [Deel Gedragstoezicht financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=5)
-
-#### § 6.1. Bijzondere bepalingen
-
-#### Vrijstelling als bedoeld in de [artikelen 2:59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59), [2:64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:64), [2:79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79), [2:85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85), [2:91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:91), [2:95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:95) en [2:104, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104)
-
-### Hoofdstuk 7. Slotbepalingen
-
-## Bijlage A. Informatiedocument voor aanbiedingen van effecten
-
-Tekst die tussen vierkante haken staat, wordt vervangen door de toepasselijke gegevens. Telkens als «indien van toepassing» is vermeld, moet de aanbieder of uitgevende instelling de vereiste informatie invullen indien de informatie relevant is voor de aanbieding. Indien de informatie niet relevant is voor de aanbieding, schrapt de aanbieder of uitgevende instelling de desbetreffende informatie of de hele rubriek.
-
-De onderstaande informatie wordt in één enkel document meegedeeld. Het gebruikte lettertype moet duidelijk leesbaar zijn.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Vrijstellingsregeling Wft.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-04
 status: geldig
 toestand: 2026-08-04
 bron: "https://wetten.overheid.nl/BWBR0034955"
-opgehaald: 2026-08-09
+opgehaald: 2026-08-10
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 19 maart 2014, nr. MinBuZa.2014.119597, houdende beperkende maatregelen in verband met acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen (Sanctieregeling territoriale integriteit Oekraïne 2014)

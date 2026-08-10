@@ -1,103 +1,74 @@
 ---
 title: "Wet van 7 juli 2006 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met de buitengerechtelijke afdoening van strafbare feiten (Wet OM-afdoening)"
+citeertitel: "Wet OM-afdoening"
 identifier: "BWBR0020074"
-country: "nl"
-rank: "wet"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020074"
+categorie: "Strafrecht"
 soort: "wet"
-stam_id: "8512603"
-version_id: "13425862"
-internal_id: "C20558661"
-label_id: "8493174"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020074/2013-04-01/0"
-intitule_bron: "Stb.2006-330"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-07"
-intitule_published: "2006-07-18"
-intitule_in_force: "2008-01-10"
-intitule_status: "goed"
-original_publication: "Stb.2006-330"
-original_signed_date: "2006-07-07"
-original_published_date: "2006-07-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "29849"
-original_url_id: "stb-2006-330"
-entry_into_force_date: "2008-02-01"
-jci_1_3: "jci1.3:c:BWBR0020074&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0020074&g=2013-04-01"
-citeertitel_status: "officieel"
-short_title: "Wet OM-afdoening"
-signed_date: "2006-07-07"
-entry_into_force: "2008-02-01"
+publicatiedatum: 2008-02-01
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0020074"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 7 juli 2006 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met de buitengerechtelijke afdoening van strafbare feiten (Wet OM-afdoening)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het wettelijk kader voor buitengerechtelijke afdoening van strafzaken aan te passen en de mogelijkheden te verruimen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel II
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel IV
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel V
 
-Wijzigt de Wegenverkeerswet 1994.
+*Wijzigt de Wegenverkeerswet 1994.*
 
 ##### Artikel Va
 
-Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
+*Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.*
 
 ##### Artikel Vb
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel VI
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel VIa
 
-Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
+*Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.*
 
 ##### Artikel VII
 
-Wijzigt de Wet justitiële en strafvorderlijke gegevens.
+*Wijzigt de Wet justitiële en strafvorderlijke gegevens.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel X
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel Xa
 
-Wijzigt de Wet melding ongebruikelijke transacties en de Wet identificatie bij dienstverlening.
+*Wijzigt de Wet melding ongebruikelijke transacties en de Wet identificatie bij dienstverlening.*
 
 ##### Artikel XI
 
@@ -109,11 +80,11 @@ In strafzaken waarin voor het in werking treden van [artikel II, onderdelen O to
 
 ##### Artikel XIII
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet DNA-onderzoek bij veroordeelden.
+*Wijzigt de Wet DNA-onderzoek bij veroordeelden.*
 
 ##### Artikel XV
 
@@ -121,27 +92,27 @@ In de gevallen waarin de wet bepaalt dat een bestuursorgaan geen bestuurlijke bo
 
 ##### Artikel XVI
 
-Wijzigt de Wet gewetensbezwaren militaire dienst.
+*Wijzigt de Wet gewetensbezwaren militaire dienst.*
 
 ##### Artikel XVII
 
-Wijzigt de Overleveringswet.
+*Wijzigt de Overleveringswet.*
 
 ##### Artikel XVIII
 
-Wijzigt de Uitleveringswet.
+*Wijzigt de Uitleveringswet.*
 
 ##### Artikel XIX
 
-Wijzigt de Flora- en faunawet.
+*Wijzigt de Flora- en faunawet.*
 
 ##### Artikel XX
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXI
 
-Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen.
+*Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen.*
 
 ##### Artikel XXIa
 
@@ -154,5 +125,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel XXIII
 
 Deze wet wordt aangehaald als: Wet OM-afdoening.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

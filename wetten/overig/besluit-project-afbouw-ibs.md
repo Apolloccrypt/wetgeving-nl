@@ -1,45 +1,17 @@
 ---
 title: "Besluit project afbouw IBS"
 identifier: "BWBR0020005"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-07-06"
-last_updated: "2006-03-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020005"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8470413"
-version_id: "13356992"
-internal_id: "C29272641"
-label_id: "8450964"
-dtd_version: "2.0"
-original_entry_into_force: "2006-07-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020005/2006-07-06/0"
-intitule_bron: "Stcrt.2006-127"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-06-26"
-intitule_published: "2006-07-04"
-intitule_in_force: "2006-07-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-127"
-original_signed_date: "2006-06-26"
-original_published_date: "2006-07-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-127-p24-SC75809"
-entry_into_force_date: "2006-07-06"
-jci_1_3: "jci1.3:c:BWBR0020005&z=2006-07-06&g=2006-07-06"
-jci_1_0: "1.0:c:BWBR0020005&g=2006-07-06"
-citeertitel_status: "officieel"
-signed_date: "2006-06-26"
-entry_into_force: "2006-07-06"
+publicatiedatum: 2006-07-06
+laatste_update: 2006-07-06
+status: geldig
+toestand: 2006-07-06
+bron: "https://wetten.overheid.nl/BWBR0020005"
+opgehaald: 2026-08-10
 ---
+
 # Besluit project afbouw IBS
-
-Gelet op [artikel 2, eerste en tweede lid, van het Coördinatiebesluit Inrichting en formatie rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0009500);
-
-Gelet op het [Organisatiebesluit VROM 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017824);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -88,5 +60,3 @@ Aan de programmamanager afbouw IBS is mandaat, volmacht en machtiging verleend i
 1. Deze regeling wordt aangehaald als: Besluit project afbouw IBS.
 
 2. Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, werkt terug tot 15 maart 2006 en vervalt op een door de Minister te bepalen datum.
-
-Deze regeling zal worden geplaatst in de Staatscourant.

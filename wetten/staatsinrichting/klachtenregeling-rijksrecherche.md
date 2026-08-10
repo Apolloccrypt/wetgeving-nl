@@ -1,44 +1,18 @@
 ---
 title: "Regeling van 15 september 2006, nr. 5443243/06, houdende regels ten aanzien van de behandeling van klachten over de Rijksrecherche (Klachtenregeling Rijksrecherche)"
+citeertitel: "Klachtenregeling Rijksrecherche"
 identifier: "BWBR0020307"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-04"
-last_updated: "2025-09-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020307"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8631253"
-version_id: "13605052"
-internal_id: "C18289681"
-label_id: "8611724"
-dtd_version: "2.0"
-original_entry_into_force: "2006-09-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020307/2025-09-04/0"
-intitule_bron: "Stcrt.2006-189"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-09-15"
-intitule_published: "2006-09-28"
-intitule_in_force: "2006-09-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-189"
-original_signed_date: "2006-09-15"
-original_published_date: "2006-09-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-189-p12-SC76972"
-entry_into_force_date: "2006-09-30"
-jci_1_3: "jci1.3:c:BWBR0020307&z=2025-09-04&g=2025-09-04"
-jci_1_0: "1.0:c:BWBR0020307&g=2025-09-04"
-citeertitel_status: "officieel"
-short_title: "Klachtenregeling Rijksrecherche"
-signed_date: "2006-09-15"
-entry_into_force: "2006-09-30"
+publicatiedatum: 2006-09-30
+laatste_update: 2025-09-04
+status: geldig
+toestand: 2025-09-04
+bron: "https://wetten.overheid.nl/BWBR0020307"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van 15 september 2006, nr. 5443243/06, houdende regels ten aanzien van de behandeling van klachten over de Rijksrecherche (Klachtenregeling Rijksrecherche)
-
-Gelet op de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=61) en [62 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=62);
-
-Stelt vast de volgende regels over de behandeling, het onderzoek en de afdoening van klachten over de bij de Rijksrecherche werkzame bijzondere ambtenaren van politie en de directeur Rijksrecherche:
 
 #### § 1. Begripsbepalingen
 
@@ -78,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Het indienen van een klacht
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4. De ontvangstbevestiging
 
@@ -130,11 +104,11 @@ Vervallen
 
 ##### Artikel 9. Termijnen van afdoening
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10. Afdoening
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -144,55 +118,59 @@ Het College registreert de bij hem ingediende klachten, de wijze waarop de klach
 
 ##### Artikel 12. De klachtencommissie Rijksrecherche
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13. Het indienen van een klacht
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. De ontvangstbevestiging
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15. Het onderzoek
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16. De wijze van onderzoek en rapportage
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17. Advies van de klachtencommissie Rijksrecherche
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18. Onderzoek door de klachtencommissie Rijksrecherche
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19. Termijnen van afdoening
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20. Afdoening
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21. Registratie en publicatie
 
-Vervallen
+*Vervallen*
 
 #### § 4. Klachten die zowel de directeur Rijksrecherche als een bijzondere ambtenaar van politie betreffen
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 #### § 5. Slotbepalingen
 
 ##### Artikel 23
 
 De [Klachtenregeling bijzondere ambtenaren van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007408) en de [Klachtenregeling Rijksrecherche 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009115) worden ingetrokken.
+
+##### Artikel 23a
+
+Deze regeling berust op [artikel 68, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=68).
 
 ##### Artikel 24. Inwerkingtreding
 
@@ -201,11 +179,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Klachtenregeling Rijksrecherche.
-
-Deze regeling zal met toelichting worden geplaatst in de Staatscourant. Van de plaatsing wordt mededeling gedaan in het Algemeen Politieblad.
-
-##### Artikel 23a
-
-Deze regeling berust op [artikel 68, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=68).
-
-Deze regeling zal met toelichting worden geplaatst in de Staatscourant. Van de plaatsing wordt mededeling gedaan in het Algemeen Politieblad.

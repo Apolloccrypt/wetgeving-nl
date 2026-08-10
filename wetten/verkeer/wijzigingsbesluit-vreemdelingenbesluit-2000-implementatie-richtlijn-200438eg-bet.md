@@ -1,54 +1,22 @@
 ---
 title: "Besluit van 24 april 2006, houdende wijziging van het Vreemdelingenbesluit 2000 in verband met de implementatie van Richtlijn 2004/38/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229)"
+citeertitel: "Wijzigingsbesluit Vreemdelingenbesluit 2000 (implementatie Richtlijn 2004/38/EG betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten)"
 identifier: "BWBR0019791"
-country: "nl"
-rank: "amvb"
-publication_date: "2006-12-01"
-last_updated: "2006-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019791"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "8244963"
-version_id: "13081312"
-internal_id: "C17623331"
-label_id: "8226134"
-dtd_version: "2.0"
-original_entry_into_force: "2006-04-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019791/2006-12-01/0"
-intitule_bron: "Stb.2006-215"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-04-24"
-intitule_published: "2006-04-27"
-intitule_in_force: "2006-04-27"
-intitule_status: "goed"
-original_publication: "Stb.2006-215"
-original_signed_date: "2006-04-24"
-original_published_date: "2006-04-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2006-215"
-entry_into_force_date: "2006-04-29"
-jci_1_3: "jci1.3:c:BWBR0019791&z=2006-12-01&g=2006-12-01"
-jci_1_0: "1.0:c:BWBR0019791&g=2006-12-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsbesluit Vreemdelingenbesluit 2000 (implementatie Richtlijn 2004/38/EG betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten)"
-signed_date: "2006-04-24"
-entry_into_force: "2006-04-29"
+publicatiedatum: 2006-04-29
+laatste_update: 2006-12-01
+status: geldig
+toestand: 2006-12-01
+bron: "https://wetten.overheid.nl/BWBR0019791"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 24 april 2006, houdende wijziging van het Vreemdelingenbesluit 2000 in verband met de implementatie van Richtlijn 2004/38/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229)
-
-Op de voordracht van Onze Minister voor Vreemdelingenzaken en Integratie van 20 februari 2006, nr. 5405850/06/6;
-
-Gelet op [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=12), [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54), en [112 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=112);
-
-De Raad van State gehoord (advies van 17 maart 2006, nr. W03.06.0057/I);
-
-Gezien het nader rapport van Onze Minister voor Vreemdelingenzaken en Integratie van 14 april 2006, nr. 5414373/06/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Wijzigt het Vreemdelingenbesluit 2000.
+*Wijzigt het Vreemdelingenbesluit 2000.*
 
 ##### Artikel II
 
@@ -87,5 +55,3 @@ Op onderdanen van staten, die op 1 mei 2004 zijn toegetreden of daarna toetreden
 ##### Artikel X
 
 Dit besluit treedt in werking met ingang van 29 april 2006.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

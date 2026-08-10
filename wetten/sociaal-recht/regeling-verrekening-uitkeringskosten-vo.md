@@ -1,56 +1,26 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 16 november 2006, nr. VO/F/2006/40694, houdende nadere voorschriften met betrekking tot de verrekening van uitkeringskosten (Regeling nadere voorschriften met betrekking tot de verrekening van uitkeringskosten)"
+citeertitel: "Regeling verrekening uitkeringskosten vo"
 identifier: "BWBR0020544"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-03-16"
-last_updated: "2023-03-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020544"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "8738663"
-version_id: "28000082"
-internal_id: "C39494481"
-label_id: "8718604"
-dtd_version: "2.0"
-original_entry_into_force: "2021-08-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020544/2023-03-16/0"
-intitule_bron: "Stcrt.2006-232"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-16"
-intitule_published: "2006-11-28"
-intitule_in_force: "2006-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-40703"
-original_signed_date: "2021-08-25"
-original_published_date: "2021-09-13"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2021-40703"
-entry_into_force_date: "2021-08-25"
-jci_1_3: "jci1.3:c:BWBR0020544&z=2023-03-16&g=2023-03-16"
-jci_1_0: "1.0:c:BWBR0020544&g=2023-03-16"
-citeertitel_status: "officieel"
-short_title: "Regeling verrekening uitkeringskosten vo"
-signed_date: "2021-08-25"
-entry_into_force: "2021-08-25"
+publicatiedatum: 2021-08-25
+laatste_update: 2023-03-16
+status: geldig
+toestand: 2023-03-16
+bron: "https://wetten.overheid.nl/BWBR0020544"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 16 november 2006, nr. VO/F/2006/40694, houdende nadere voorschriften met betrekking tot de verrekening van uitkeringskosten (Regeling nadere voorschriften met betrekking tot de verrekening van uitkeringskosten)
-
-Mede namens de Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-Gelet op de [artikelen 15f, eerste lid, tweede lid, onder b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=15f), en [15g, derde lid, van het Bekostigingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=15g);
-
-Besluit:
-
-Treedt volgens Stcrt. 2007/1 in werking op het tijdstip waarop het Wijzigingsbesluit Bekostigingsbesluit W.V.O. (verrekening kosten van werkloosheidsuitkeringen en suppleties inzake arbeidsongeschiktheid) (Stb. 2006/652) in werking treedt.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **collectieve deel:** uitkeringskosten als bedoeld in [artikel 6.4, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.4);
+- *collectieve deel:* uitkeringskosten als bedoeld in [artikel 6.4, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.4);
 
-- **individuele deel:** uitkeringskosten als bedoeld in [artikel 6.4, tweede lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.4).
+- *individuele deel:* uitkeringskosten als bedoeld in [artikel 6.4, tweede lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.4).
 
 ##### Artikel 2. Percentage collectieve deel uitkeringskosten
 
@@ -70,6 +40,10 @@ Het percentage van het individuele deel wordt vastgesteld op 25.
 
 Met inachtneming van [artikel 6.5, vijfde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.5) vindt het moment van het in mindering brengen, bedoeld in artikel 6.5, eerste en tweede lid, van het Uitvoeringsbesluit WVO 2020, maandelijks plaats.
 
+##### Artikel 5a. Omhang
+
+Deze regeling berust op de [artikelen 6.4, eerste lid, tweede lid onder b en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.4), en [6.14, derde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.14).
+
 ##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking op een bij ministeriële regeling te bepalen tijdstip.
@@ -77,11 +51,3 @@ Deze regeling treedt in werking op een bij ministeriële regeling te bepalen tij
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling verrekening uitkeringskosten vo.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a. Omhang
-
-Deze regeling berust op de [artikelen 6.4, eerste lid, tweede lid onder b en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.4), en [6.14, derde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.14).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling tot uitvoering van enige artikelen van de Luchtvaartwet inzake de vaststelling en afdracht van luchtvaartheffingen (Regeling luchtvaartheffingen)"
+citeertitel: "Regeling luchtvaartheffingen"
 identifier: "BWBR0019721"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019721"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "8182503"
-version_id: "16781112"
-internal_id: "C23103381"
-label_id: "8163684"
-dtd_version: "2.0"
-original_entry_into_force: "2009-10-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019721/2024-07-01/0"
-intitule_bron: "Stcrt.2006-65"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-03-30"
-intitule_published: "2006-03-31"
-intitule_in_force: "2006-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-16329"
-original_signed_date: "2009-10-27"
-original_published_date: "2009-10-30"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2009-16329"
-entry_into_force_date: "2009-10-27"
-jci_1_3: "jci1.3:c:BWBR0019721&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0019721&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling luchtvaartheffingen"
-signed_date: "2009-10-27"
-entry_into_force: "2009-10-27"
+publicatiedatum: 2009-10-27
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0019721"
+opgehaald: 2026-08-10
 ---
+
 # Regeling tot uitvoering van enige artikelen van de Luchtvaartwet inzake de vaststelling en afdracht van luchtvaartheffingen (Regeling luchtvaartheffingen)
-
-Gelet op de [artikelen 77a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=77a), en [77c van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=77c);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -52,13 +26,17 @@ heffingen: heffingen als bedoeld in [titel 8A.3 van de wet](https://wetten.overh
 
 minister: Minister van Infrastructuur en Waterstaat;
 
-**vlucht:** verplaatsing van het luchtvaartuig gedurende het tijdsverloop dat het in beweging komt met de bedoeling om op te stijgen, tot het ogenblik dat het weer volledig tot stilstand is gekomen na de landing;
+*vlucht:* verplaatsing van het luchtvaartuig gedurende het tijdsverloop dat het in beweging komt met de bedoeling om op te stijgen, tot het ogenblik dat het weer volledig tot stilstand is gekomen na de landing;
 
 wet: [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
 
 winterseizoen: periode van de laatste zondag van oktober tot en met de laatste zaterdag van maart;
 
 zomerseizoen: periode van de laatste zondag van maart tot en met de laatste zaterdag van oktober.
+
+##### Artikel 1a
+
+Deze regeling berust op de [artikelen 8a.39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.39), [8a.41](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.41), en [8a.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.42), en [artikel 22 van het Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=22).
 
 ##### Artikel 2
 
@@ -116,13 +94,13 @@ De exploitant van een luchthaven draagt uiterlijk een maand na afloop van iedere
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
 1. Voor de bepaling van de geluidsproductie met betrekking tot de luchthaven Schiphol en de geluidsproductie met betrekking tot burgerluchthavens van nationale betekenis met luchthavenbesluit, bedoeld in [artikel 22 van het Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=22), wordt gebruikgemaakt van de volgende formule:
 
-basistarief, bedoeld in [artikel 8a.38, vijfde lid en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.38), * k.
+basistarief, bedoeld in [artikel 8a.38, vijfde lid en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.38), * k.
 
 2. De factor k, bedoeld in het eerste lid, wordt per geluidsklasse vastgesteld met toepassing van de volgende tabel:
 
@@ -143,11 +121,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling luchtvaartheffingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op de [artikelen 8a.39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.39), [8a.41](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.41), en [8a.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.42), en [artikel 22 van het Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=22).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,38 +1,16 @@
 ---
 title: "Circulaire Nadere uitleg Arbeidsvoorwaardenovereenkomst sector Rijk (Arbeid en Gezondheid)"
 identifier: "BWBR0019911"
-country: "nl"
-rank: "circulaire"
-publication_date: "2006-06-08"
-last_updated: "2006-06-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019911"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "8326583"
-version_id: "13195882"
-internal_id: "C17765941"
-label_id: "8307534"
-dtd_version: "2.0"
-original_entry_into_force: "2006-06-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019911/2006-06-08/0"
-intitule_bron: "Stcrt.2006-109"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-05-29"
-intitule_published: "2006-06-08"
-intitule_in_force: "2006-06-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-109"
-original_signed_date: "2006-05-29"
-original_published_date: "2006-06-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-109-p22-SC75447"
-entry_into_force_date: "2006-06-08"
-jci_1_3: "jci1.3:c:BWBR0019911&z=2006-06-08&g=2006-06-08"
-jci_1_0: "1.0:c:BWBR0019911&g=2006-06-08"
-citeertitel_status: "redactioneel"
-signed_date: "2006-05-29"
-entry_into_force: "2006-06-08"
+publicatiedatum: 2006-06-08
+laatste_update: 2006-06-08
+status: geldig
+toestand: 2006-06-08
+bron: "https://wetten.overheid.nl/BWBR0019911"
+opgehaald: 2026-08-10
 ---
+
 # Circulaire Nadere uitleg Arbeidsvoorwaardenovereenkomst sector Rijk (Arbeid en Gezondheid)
 
 ### Inleiding
@@ -46,6 +24,14 @@ Gebleken is dat over een aantal onderdelen uit de genoemde circulaires enige ond
 In mijn circulaire van juni 2005 is opgenomen dat in aanvulling op de reeds bestaande rechten en plichten van werkgevers en werknemers op het gebied van arbeid en gezondheid, zoals vastgelegd in met name het ARAR en de Wet verbetering poortwachter, specifieke nadere afspraken zijn gemaakt over reïntegratie gedurende de eerste twee jaar van ziekte.
 
 Om te bereiken dat de reeds bestaande mogelijkheden optimaal worden benut, zijn met de centrales van overheidspersoneel de volgende aanvullende afspraken gemaakt:
+
+- a. het bevoegd gezag is verplicht de zieke ambtenaar te plaatsen in een andere bestaande of te creëren functie indien deze ambtenaar volgens het advies van de bedrijfsarts weer in staat is om geheel of gedeeltelijk te werken maar niet kan terugkeren in de eigen functie;
+
+- b. ter nadere invulling van het begrip ‘passende arbeid’, als bedoeld in [artikel 35 ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=35), geldt dat de voor de andere functie geldende salarisschaal in beginsel niet meer dan twee schalen lager is dan de salarisschaal die geldt voor de ambtenaar; bij wijziging van de mate van arbeidsongeschiktheid van de ambtenaar wordt daarbij passende arbeid aangeboden.
+
+- c. bedoelde ambtenaar heeft, net als de herplaatsingskandidaat bij reorganisaties, een voorrangspositie bij het vervullen van vacatures bij de sector Rijk.
+
+- d. voorafgaande aan de duurzame plaatsing in een andere functie is het bevoegd gezag verplicht om de ambtenaar werk aan te bieden voor het deel dat deze ambtenaar in staat is om te werken. Daarbij moet het gaan om loonvormende arbeid, dat wil zeggen arbeid die erop gericht is om productie te leveren. Indien de ambtenaar bereid is de hier bedoelde arbeid te verrichten, krijgt hij voor de gewerkte uren zijn salaris voor 100% doorbetaald (in plaats van de voor het tweede ziektejaar afgesproken 70%).
 
 Over de betekenis van deze aanvullende afspraken bestaat enige onduidelijkheid.
 

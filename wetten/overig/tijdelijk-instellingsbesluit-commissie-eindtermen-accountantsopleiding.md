@@ -1,43 +1,17 @@
 ---
 title: "Tijdelijk instellingsbesluit Commissie eindtermen accountantsopleiding"
 identifier: "BWBR0019484"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-02-05"
-last_updated: "2005-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019484"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "7948523"
-version_id: "12803982"
-internal_id: "C29207901"
-label_id: "7936154"
-dtd_version: "2.0"
-original_entry_into_force: "2006-02-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019484/2006-02-05/0"
-intitule_bron: "Stcrt.2006-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-01-24"
-intitule_published: "2006-02-03"
-intitule_in_force: "2006-02-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-25"
-original_signed_date: "2006-01-24"
-original_published_date: "2006-02-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-25-p8-SC73664"
-entry_into_force_date: "2006-02-05"
-jci_1_3: "jci1.3:c:BWBR0019484&z=2006-02-05&g=2006-02-05"
-jci_1_0: "1.0:c:BWBR0019484&g=2006-02-05"
-citeertitel_status: "redactioneel"
-signed_date: "2006-01-24"
-entry_into_force: "2006-02-05"
+publicatiedatum: 2006-02-05
+laatste_update: 2006-02-05
+status: geldig
+toestand: 2006-02-05
+bron: "https://wetten.overheid.nl/BWBR0019484"
+opgehaald: 2026-08-10
 ---
+
 # Tijdelijk instellingsbesluit Commissie eindtermen accountantsopleiding
-
-Gelet op het voorstel van Wet toezicht accountantsorganisaties (kamerstukken I 2004/05, 29 658 A);
-
-Besluit:
 
 ##### Artikel 1
 

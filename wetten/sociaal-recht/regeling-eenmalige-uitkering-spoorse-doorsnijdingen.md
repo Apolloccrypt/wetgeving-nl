@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Verkeer en Waterstaat houdende regels met betrekking tot de toekenning van een eenmalige specifieke uitkering voor de uitvoering van projecten tot het opheffen of verminderen van knelpunten rondom het spoor (Regeling eenmalige uitkering spoorse doorsnijdingen)"
+citeertitel: "Regeling eenmalige uitkering spoorse doorsnijdingen"
 identifier: "BWBR0019584"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-12-15"
-last_updated: "2013-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019584"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "8046843"
-version_id: "12888602"
-internal_id: "C17375151"
-label_id: "8028094"
-dtd_version: "2.0"
-original_entry_into_force: "2006-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019584/2013-12-15/0"
-intitule_bron: "Stcrt.2006-37"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-17"
-intitule_published: "2006-02-21"
-intitule_in_force: "2006-02-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-37"
-original_signed_date: "2006-02-17"
-original_published_date: "2006-02-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-37-p20-SC73908"
-entry_into_force_date: "2006-02-23"
-jci_1_3: "jci1.3:c:BWBR0019584&z=2013-12-15&g=2013-12-15"
-jci_1_0: "1.0:c:BWBR0019584&g=2013-12-15"
-citeertitel_status: "officieel"
-short_title: "Regeling eenmalige uitkering spoorse doorsnijdingen"
-signed_date: "2006-02-17"
-entry_into_force: "2006-02-23"
+publicatiedatum: 2006-02-23
+laatste_update: 2013-12-15
+status: geldig
+toestand: 2013-12-15
+bron: "https://wetten.overheid.nl/BWBR0019584"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Verkeer en Waterstaat houdende regels met betrekking tot de toekenning van een eenmalige specifieke uitkering voor de uitvoering van projecten tot het opheffen of verminderen van knelpunten rondom het spoor (Regeling eenmalige uitkering spoorse doorsnijdingen)
-
-Gelet op [artikel 17, vijfde lid van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -94,11 +68,11 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 - k. de voorbereiding, administratie en toezicht voor zover gerelateerd aan het project. Het percentage is afhankelijk van de hoogte van de bouwkosten:
 
-- I. Projecten met bouwsom van meer dan € 100 miljoen tot een maximum van 13,75%;
+   - I. Projecten met bouwsom van meer dan € 100 miljoen tot een maximum van 13,75%;
 
-- II. Projecten met bouwsom tussen de € 10 en € 100 miljoen tot een maximum van 17%;
+   - II. Projecten met bouwsom tussen de € 10 en € 100 miljoen tot een maximum van 17%;
 
-- III. Projecten met bouwsom kleiner dan € 10 miljoen tot een maximum van 24%.
+   - III. Projecten met bouwsom kleiner dan € 10 miljoen tot een maximum van 24%.
 
 - l. onvoorziene omstandigheden voorzover deze betrekking hebben op de kosten veroorzakende factoren genoemd in de onderdelen a tot en met i, waarbij een maximum geldt van 10%.
 
@@ -221,139 +195,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 16. Titel regeling
 
 Deze regeling wordt aangehaald als: Regeling eenmalige uitkering spoorse doorsnijdingen.
-
-## Bijlage 1. als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2013-12-15&g=2013-12-15), van de Regeling eenmalige uitkering spoorse doorsnijdingen
-
-## Bijlage 2. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=7&z=2006-02-23&g=2006-02-23)
-
-### **A. Stedelijke bereikbaarheid**
-
-Minister van Verkeer en Waterstaat
-
-### **B. Kwaliteit leefomgeving**
-
-Directie Spoorvervoer
-
-### **C. Veiligheid**
-
-### **D. Spoorgebruik**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-De aanvraag wordt gericht aan de minister onder vermelding van ‘aanvraag eenmalige uitkering spoorse doorsnijdingen’.
-
-Postadres:
-
-Directoraat-Generaal Mobiliteit
-
-Postbus 20901
-
-2500 EX Den Haag
-
-Bij de indiening van de aanvraag dient gebruik gemaakt te worden van onderstaand format. De minister gebruikt bij de beoordeling van de aanvraag de informatie zoals is vermeld in dit format.
-
-Bij de invulling van het format dient de gemeente:
-
-Informatie die niet in het format opgenomen is, wordt niet meegenomen in de beoordeling.
-
-De aanvraag dient door het bestuur van de gemeente ondertekend te worden. Zij staat garant voor de juistheid van de informatie in deze aanvraag.
-
-Een ondertekende aanvraag bestaande uit het format en eventueel onderliggende stukken dient in tweevoud te worden ingediend. Daarnaast dient een elektronische kopie van de aanvraag en eventuele onderliggende stukken te worden bijgevoegd.
-
-### Het format
-
-Naam gemeente
-
-Naam en functie contactpersoon
-
-Betrokken partners
-
-Bezoekadres
-
-Postadres
-
-Postcode
-
-Plaats
-
-Telefoonnummer
-
-Fax
-
-E-mail
-
-### **A. Criterium ‘stedelijke bereikbaarheid’**
-
-In hoeverre worden nieuwe of bestaande woonwijken beter ontsloten?
-
-Hierbij wordt een kwalitatieve beschrijving verwacht als mede een kwantitatieve aanduiding uitgedrukt in omrijtijd en reistijd.
-
-In hoeverre worden stedelijke voorzieningen beter ontsloten?
-
-Hierbij moet worden aangegeven om welke voorzieningen het gaat en, voorzover bekend, om hoeveel gebruikers het gaat.
-
-In hoeverre wordt de relatie tussen functioneel samenhangende stedelijke gebieden verbeterd?
-
-Hierbij moet worden aangegeven om welke samenhang het gaat en, indien bekend, om hoeveel gebruikers het gaat.
-
-In hoeverre wordt de capaciteit en doorstroming van het onderliggende wegennet verbeterd?
-
-Dit dient te worden uitgedrukt in wachttijden voor weggebruikers, onder te verdelen in gemotoriseerde voertuigen (behalve bromfietsen) en andere weggebruikers. Hierbij dient zowel de huidige als de toekomstige situatie te worden beschreven.
-
-### **B. Criterium ‘kwaliteit leefomgeving’**
-
-Is er sprake van een geluidssituatie waarbij de wettelijke normen worden overtreden? Verandert deze situatie als gevolg van realisatie van het project? Gaat het hier om een verhoging of verlaging van de geluidsoverlast? Voor hoeveel woningen, geluidsgevoelige bestemmingen, en geluidsgehinderden is dit het geval?
-
-Is er sprake van een geluidssituatie binnen de wettelijke normen? Verandert deze situatie als gevolg van de realisatie van het project? Gaat het hier om een verhoging of verlaging van de geluidsoverlast? Voor hoeveel woningen, geluidsgevoelige bestemmingen, en geluidsgehinderden is dit het geval?
-
-In hoeverre is er sprake van overlast voor de omgeving als gevolg van trillingen? In welke mate wijzigt dit door maatregelen uit het project.
-
-In hoeverre leiden de maatregelen uit het project tot een verandering van de luchtkwaliteit?
-
-Wat is het effect van het project op de sociale veiligheid in het plangebied?
-
-In hoeverre is er draagvlak voor het project bij de inwoners en maatschappelijke organisaties?
-
-Hoe beïnvloedt het project de economische ontwikkeling van het plangebied?
-
-Hoe beïnvloedt het project de toekomstige stedelijke ontwikkelingen?
-
-### **C. Criterium veiligheid**
-
-Wat is het effect van het project op de ongevalskans op overwegen in het plangebied?
-
-In welke mate draagt het project bij aan het verhinderen van vandalisme op en om het spoor?
-
-In welke mate draagt het project bij aan het verhinderen van suïcide op en om het spoor?
-
-Wat is het effect van het project op de bereikbaarheid van het spoor (voor hulpdiensten en als vluchtwegen)?
-
-Wat is het effect van het project op de veiligheid op het omliggende wegennet?
-
-### **D. Spoorgebruik**
-
-In hoeverre is de toekomstvastheid en duurzaamheid van het spoorsysteem geborgd?
-
-Wat is het effect van het project op:
-
-Deze vraag dient zowel voor de nieuwe situatie na realisatie als voor de tijdelijke situatie tijdens de realisatie beantwoord te worden.
-
-Wat is het effect van de maatregelen op de kosten van beheer en instandhouding van de spoorweginfrastructuur?
-
-Opmerking: Indien het niet mogelijk is deze gegevens voor 1 juni 2006 te leveren, zullen deze op verzoek van de minister ten behoeve van de beoordeling door ProRail worden bepaald.
-
-## Bijlage 2. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=7&z=2013-12-15&g=2013-12-15)
-
-### **A. Stedelijke bereikbaarheid**
-
-Voor wat betreft het criterium stedelijke bereikbaarheid wordt bezien in hoeverre het project de barrièrewerking van de spoorweginfrastructuur vermindert of opheft.
-
-### **B. Kwaliteit leefomgeving**
-
-Voor wat betreft dit criterium wordt gekeken bij de beoordeling van het project naar aspecten die de leefomgeving van mensen raakt in relatie tot het spoor. Het gaat hierbij om:
-
-### **C. Veiligheid**
-
-### **D. Spoorgebruik**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

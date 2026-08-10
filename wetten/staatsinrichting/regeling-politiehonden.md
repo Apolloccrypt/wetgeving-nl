@@ -1,45 +1,17 @@
 ---
 title: "Regeling politiehonden"
 identifier: "BWBR0019728"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-05-15"
-last_updated: "2020-05-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019728"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8217713"
-version_id: "15695692"
-internal_id: "C21460911"
-label_id: "8199064"
-dtd_version: "2.0"
-original_entry_into_force: "2008-08-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019728/2020-05-15/0"
-intitule_bron: "Stcrt.2006-72"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-04-04"
-intitule_published: "2006-04-11"
-intitule_in_force: "2006-04-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-170"
-original_signed_date: "2008-08-20"
-original_published_date: "2008-09-03"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2008-170-p16-SC87298"
-entry_into_force_date: "2008-08-20"
-jci_1_3: "jci1.3:c:BWBR0019728&z=2020-05-15&g=2020-05-15"
-jci_1_0: "1.0:c:BWBR0019728&g=2020-05-15"
-citeertitel_status: "officieel"
-signed_date: "2008-08-20"
-entry_into_force: "2008-08-20"
+publicatiedatum: 2008-08-20
+laatste_update: 2020-05-15
+status: geldig
+toestand: 2020-05-15
+bron: "https://wetten.overheid.nl/BWBR0019728"
+opgehaald: 2026-08-10
 ---
+
 # Regeling politiehonden
-
-Handelende in overeenstemming met de Minister van Justitie;
-
-Gelet op [artikel 49 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=49);
-
-Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -47,7 +19,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **aanhoudings- en ondersteuningsteam:** een team als bedoeld in [artikel 11, onder a, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=11);
+- a. *aanhoudings- en ondersteuningsteam:* een team als bedoeld in [artikel 11, onder a, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=11);
 
 - b. ambtenaar van politie: ambtenaar als bedoeld in [artikel 24, eerste en tweede lid, van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=24);
 
@@ -71,7 +43,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3. Uitrusting met politiespeurhond
 
@@ -137,43 +109,43 @@ Voor een keuring komen in aanmerking honden die:
 
 - a. voor alle politiespeurhonden met uitzondering van de politiespeurhonden menselijke geur:
 
-- 1°. gehoorzaamheid van de politiespeurhond aan de geleider;
+   - 1°. gehoorzaamheid van de politiespeurhond aan de geleider;
 
-- 2°. een goede samenwerking van de politiespeurhond met de geleider;
+   - 2°. een goede samenwerking van de politiespeurhond met de geleider;
 
-- 3°. het niet agressief zijn ten opzichte van mensen en dieren; en
+   - 3°. het niet agressief zijn ten opzichte van mensen en dieren; en
 
-- 4°. de vaardigheid van het kunnen nemen van alle hindernissen die voor een goed functioneren in de praktijk geen belemmering mogen zijn;
+   - 4°. de vaardigheid van het kunnen nemen van alle hindernissen die voor een goed functioneren in de praktijk geen belemmering mogen zijn;
 
 - b. voor de speurtaak van de politiespeurhonden menselijke geur:
 
-- 1°. het zelfstandig willen en kunnen zoeken van kleine en grote voorwerpen met menselijke geur;
+   - 1°. het zelfstandig willen en kunnen zoeken van kleine en grote voorwerpen met menselijke geur;
 
-- 2°. het opsporen en lokaliseren van een persoon; en
+   - 2°. het opsporen en lokaliseren van een persoon; en
 
-- 3°. het speuren over gecombineerde terreinen;
+   - 3°. het speuren over gecombineerde terreinen;
 
 - c. voor de geuridentificatietaak van de politiespeurhond menselijke geur: het uitvoeren van een tweetal geuridentificatieproeven, zoals in het keuringsreglement omschreven;
 
 - d. voor de politiespeurhond verdovende middelen:
 
-- 1°. het zelfstandig willen en kunnen zoeken van verdovende middelen; en
+   - 1°. het zelfstandig willen en kunnen zoeken van verdovende middelen; en
 
-- 2°. het vermogen om binnen een redelijke tijd alleen die soorten verdovende middelen, die in het keuringsreglement zijn aangewezen, op te sporen;
+   - 2°. het vermogen om binnen een redelijke tijd alleen die soorten verdovende middelen, die in het keuringsreglement zijn aangewezen, op te sporen;
 
 - e. voor de politiespeurhond explosieven:
 
-- 1°. het zelfstandig willen en kunnen zoeken naar explosieven, wapens en munitie; en
+   - 1°. het zelfstandig willen en kunnen zoeken naar explosieven, wapens en munitie; en
 
-- 2°. het vermogen om binnen redelijke tijd explosieven, wapens en munitie op te sporen en te lokaliseren;
+   - 2°. het vermogen om binnen redelijke tijd explosieven, wapens en munitie op te sporen en te lokaliseren;
 
 - f. voor de politiespeurhond stoffelijke resten: het zelfstandig willen en kunnen zoeken naar stoffelijke resten van mensen;
 
 - g. voor de politiespeurhond brandversnellende middelen:
 
-- 1°. het zelfstandig willen en kunnen zoeken naar brandversnellende middelen; en
+   - 1°. het zelfstandig willen en kunnen zoeken naar brandversnellende middelen; en
 
-- 2°. het vermogen om binnen een redelijke tijd alleen die brandversnellende middelen, die in het keuringsreglement zijn aangewezen, op te sporen;
+   - 2°. het vermogen om binnen een redelijke tijd alleen die brandversnellende middelen, die in het keuringsreglement zijn aangewezen, op te sporen;
 
 - h. voor de politiespeurhond geld: het zelfstandig willen en kunnen zoeken van een aantal bankbiljetten van verschillende soorten, verborgen bij personen, in handbagage, in kluisjes, in kasten en andere plaatsen.
 
@@ -323,42 +295,6 @@ Voor een keuring komen in aanmerking honden die:
 
 #### Paragraaf 4a. Protest
 
-##### Artikel 15
-
-Na inwerkingtreding van deze regeling berust het besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie van 29 oktober 2003 tot aanwijzing van rijksgecommitteerden politiespeurhond en politiesurveillancehond en samenstelling keuringscommissies op de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=6&z=2020-05-15&g=2020-05-15), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=7&z=2020-05-15&g=2020-05-15), van deze regeling.
-
-##### Artikel 16
-
-Na inwerkingtreding van deze regeling berusten de op grond van de [Regeling politiespeurhonden 1997](onbekend) en de [Regeling politiesurveillancehonden 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010333) afgegeven certificaten op [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=13&z=2020-05-15&g=2020-05-15) van deze regeling.
-
-##### Artikel 17
-
-Vervallen
-
-#### Paragraaf 6. Slotbepalingen
-
-##### Artikel 18
-
-De [Regeling politiesurveillancehonden 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010333) wordt ingetrokken.
-
-##### Artikel 19
-
-De [Regeling politiespeurhonden 1997](onbekend) wordt ingetrokken.
-
-##### Artikel 20
-
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-##### Artikel 21
-
-Deze regeling wordt aangehaald als: Regeling politiehonden.
-
-## Bijlage
-
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
 ##### Artikel 14a
 
 1. Betrokkenen bij de keuring of herkeuring kunnen bij de voorzitter van de rijksgecommitteerden die toezicht houden op de betreffende keuring of herkeuring, een gemotiveerd schriftelijk protest indienen tegen het keurings- of herkeuringsbesluit van de keuringscommissie. Het protest kan tot acht dagen na ontvangst van het keuringsrapport worden ingediend.
@@ -371,48 +307,36 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 #### Paragraaf 5. Overgangsrecht
 
+##### Artikel 15
+
+Na inwerkingtreding van deze regeling berust het besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie van 29 oktober 2003 tot aanwijzing van rijksgecommitteerden politiespeurhond en politiesurveillancehond en samenstelling keuringscommissies op de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=6&z=2020-05-15&g=2020-05-15), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=7&z=2020-05-15&g=2020-05-15), van deze regeling.
+
+##### Artikel 16
+
+Na inwerkingtreding van deze regeling berusten de op grond van de Regeling politiespeurhonden 1997 en de [Regeling politiesurveillancehonden 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010333) afgegeven certificaten op [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=13&z=2020-05-15&g=2020-05-15) van deze regeling.
+
+##### Artikel 17
+
+*Vervallen*
+
 #### Paragraaf 6. Slotbepalingen
 
-## Bijlage 1
+##### Artikel 18
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+De [Regeling politiesurveillancehonden 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010333) wordt ingetrokken.
 
-## Bijlage 1
+##### Artikel 19
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-## Bijlage 2
-
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-## Bijlage 3
-
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-## Bijlage 4
-
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-## Bijlage 5
-
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-## Bijlage 6
-
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-## Bijlage 7
-
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&bijlage=1&z=2008-09-05&g=2008-09-05), die ter inzage worden gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+De Regeling politiespeurhonden 1997 wordt ingetrokken.
 
 ##### Artikel 19a
 
 Deze regeling berust op [artikel 24, derde lid, van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=24).
 
-## Bijlage 8
+##### Artikel 20
 
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&bijlage=1&z=2020-05-15&g=2020-05-15), die ter inzage worden gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+##### Artikel 21
+
+Deze regeling wordt aangehaald als: Regeling politiehonden.

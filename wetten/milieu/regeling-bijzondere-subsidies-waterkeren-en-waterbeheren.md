@@ -1,43 +1,17 @@
 ---
 title: "Regeling bijzondere subsidies waterkeren en waterbeheren"
 identifier: "BWBR0019518"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019518"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "7994803"
-version_id: "22440672"
-internal_id: "C32210201"
-label_id: "7982564"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019518/2024-01-01/0"
-intitule_bron: "Stcrt.2006-28"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-02"
-intitule_published: "2006-02-08"
-intitule_in_force: "2006-02-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-15484"
-original_signed_date: "2015-06-11"
-original_published_date: "2015-06-15"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2015-15484"
-entry_into_force_date: "2015-07-01"
-jci_1_3: "jci1.3:c:BWBR0019518&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0019518&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2015-06-11"
-entry_into_force: "2015-07-01"
+publicatiedatum: 2015-07-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0019518"
+opgehaald: 2026-08-10
 ---
+
 # Regeling bijzondere subsidies waterkeren en waterbeheren
-
-Gelet op [artikel 12, tweede en derde lid, van de Wet op de waterkering](https://wetten.overheid.nl/jci1.3:c:BWBR0007801&artikel=12);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -54,6 +28,10 @@ In deze regeling wordt verstaan onder:
 - d. werk: een werk ter uitvoering van een projectbesluit als bedoeld in onderdeel b;
 
 - e. hoofdingenieur-directeur: de hoofdingenieur-directeur Rijkswaterstaat Grote Projecten en Onderhoud.
+
+##### Artikel 1a
+
+Deze regeling berust op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5).
 
 #### § 2. Subsidie
 
@@ -113,7 +91,7 @@ In deze regeling wordt verstaan onder:
 
 - h. een tijdschema en de geplande datum van voltooiing van het werk, conform een daartoe door de Minister voorgeschreven planningsmethodiek;
 
-- i. voor projecten met een startraming van meer dan € 25 miljoen: een kosten-batenanalyse, conform een door de Minister voorgeschreven systematiek.
+- i. voor projecten met een startraming van meer dan € 25 miljoen: een kosten-batenanalyse, conform een door de Minister voorgeschreven systematiek.
 
 ##### Artikel 4. Beslissing op aanvraag subsidieverlening
 
@@ -179,9 +157,9 @@ Op de intrekking of wijziging van de beschikking tot subsidieverlening zijn de [
 
 - a. een financiële eindverantwoording over het werk bestaande uit:
 
-- 1°. een overzicht van de gemaakte kosten voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), onderscheiden posten;
+   - 1°. een overzicht van de gemaakte kosten voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), onderscheiden posten;
 
-- 2°. een overzicht van de uitbetaalde voorschotten waarbij voorschotten voor de kosten van voorbereiding, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), afzonderlijk worden vermeld;
+   - 2°. een overzicht van de uitbetaalde voorschotten waarbij voorschotten voor de kosten van voorbereiding, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), afzonderlijk worden vermeld;
 
 - b. een verklaring over de financiële eindverantwoording, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt of het werk is uitgevoerd overeenkomstig de beschikking tot subsidieverlening en waaruit blijkt dat de in onderdeel a bedoelde kosten zijn gemaakt, overeenkomstig het daartoe door de Minister bekendgemaakte controleprotocol.
 
@@ -215,6 +193,8 @@ Op de intrekking of wijziging van de beschikking tot subsidieverlening zijn de [
 
 3. Binnen zes maanden na afronding van de gerechtelijke procedures, bedoeld in het eerste lid, dient de subsidieontvanger bij de hoofdingenieur-directeur een aanvraag tot subsidievaststelling in. Op deze afzonderlijke subsidievaststelling zijn [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
 
+#### § 4a. Overige bepalingen
+
 ##### Artikel 12. Hardheidsclausule voorbereidingskosten
 
 De Minister kan bij het verlenen en vaststellen van de subsidie afwijken van het in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), genoemde percentage voor zover toepassing daarvan, gelet op het doel of de strekking van die bepaling, voor de subsidieontvanger zal leiden tot een onbillijkheid van overwegende aard.
@@ -233,34 +213,10 @@ De Minister kan bij het verlenen en vaststellen van de subsidie afwijken van het
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
+##### Artikel 14a
+
+Op aanvragen voor subsidieverlening die zijn ingediend vóór 1 januari 2012 zijn [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=3&z=2024-01-01&g=2024-01-01), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01), [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), en [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=11&z=2024-01-01&g=2024-01-01), van toepassing zoals deze luidden onmiddellijk vóór de inwerkingtreding van de Regeling van de Staatssecretaris van Infrastructuur en Milieu van 30 november 2011, tot wijziging van de Regeling bijzondere subsidies waterkeren en waterbeheren in verband met vervanging van het forfait voor de subsidiëring van kosten voor voorbereiding van het werk in subsidie op basis van werkelijk gemaakte kosten en enige technische wijzigingen (Stcrt. 2011, 22111).
+
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bijzondere subsidies waterkeren en waterbeheren.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5).
-
-#### § 2. Subsidie
-
-#### § 3. Subsidieverlening
-
-#### § 4. Subsidievaststelling
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 14a
-
-Op aanvragen voor subsidieverlening die zijn ingediend vóór 1 januari 2012 zijn [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=3&z=2024-01-01&g=2024-01-01), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01), [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), en [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=11&z=2024-01-01&g=2024-01-01), van toepassing zoals deze luidden onmiddellijk vóór de inwerkingtreding van de Regeling van de Staatssecretaris van Infrastructuur en Milieu van 30 november 2011, tot wijziging van de Regeling bijzondere subsidies waterkeren en waterbeheren in verband met vervanging van het forfait voor de subsidiëring van kosten voor voorbereiding van het werk in subsidie op basis van werkelijk gemaakte kosten en enige technische wijzigingen (Stcrt. 2011, 22111).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 4a. Overige bepalingen
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

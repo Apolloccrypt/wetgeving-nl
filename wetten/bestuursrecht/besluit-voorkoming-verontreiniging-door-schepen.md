@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 11 december 2006, houdende regels ter voorkoming van verontreiniging door schepen (Besluit voorkoming verontreiniging door schepen)"
+citeertitel: "Besluit voorkoming verontreiniging door schepen"
 identifier: "BWBR0020762"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-06-01"
-last_updated: "2022-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020762"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "8796633"
-version_id: "13951062"
-internal_id: "C19025921"
-label_id: "8776894"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020762/2022-06-01/0"
-intitule_bron: "Stb.2006-693"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-12-11"
-intitule_published: "2006-12-21"
-intitule_in_force: "2006-12-21"
-intitule_status: "goed"
-original_publication: "Stb.2006-693"
-original_signed_date: "2006-12-11"
-original_published_date: "2006-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2006-693"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020762&z=2022-06-01&g=2022-06-01"
-jci_1_0: "1.0:c:BWBR0020762&g=2022-06-01"
-citeertitel_status: "officieel"
-short_title: "Besluit voorkoming verontreiniging door schepen"
-signed_date: "2006-12-11"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2022-06-01
+status: geldig
+toestand: 2022-06-01
+bron: "https://wetten.overheid.nl/BWBR0020762"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 11 december 2006, houdende regels ter voorkoming van verontreiniging door schepen (Besluit voorkoming verontreiniging door schepen)
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 23 augustus 2006, nr. HDJZ/SCH/2006-1285, Hoofddirectie Juridische Zaken, gedaan mede namens de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Gelet op het op 2 november 1973 te Londen totstandgekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen (Trb. 1975, 147) met het op 17 februari 1978 te Londen totstandgekomen Protocol bij dat Verdrag (Trb. 1978, 188), op Bijlage IV van het op 4 oktober 1991 te Madrid totstandgekomen Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica (Trb. 1992, 110), het op 5 oktober 2001 te Londen totstandgekomen Internationaal Verdrag inzake de beperking van schadelijke aangroeiwerende verfsystemen op schepen (Trb. 2004, 44), [richtlijn nr. 2000/59/EG](32000L0059) van het Europees Parlement en de Raad van de Europese Unie van 27 november 2000 betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332), [richtlijn nr. 2005/33/EG](32005L0033) van het Europees Parlement en de Raad van de Europese Unie van 6 juli 2005 tot wijziging van [richtlijn 1999/32/EG](31999L0032) wat het zwavelgehalte van scheepsbrandstoffen betreft (PbEU L 191), en de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8a), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=11), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12c), [12e](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12e), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=21), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=23), en [38 van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=38);
-
-De Raad van State gehoord (advies van 12 oktober 2006, nr. W09.06.0362/V);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 5 december 2006, nr. HDJZ/SCH/2006-1806, Hoofddirectie Juridische Zaken, uitgebracht mede namens de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -68,7 +36,7 @@ Hebben goedgevonden en verstaan:
 
 - h. uitstoot: emissie als bedoeld in voorschrift 2 van Bijlage VI van het Verdrag;
 
-- i. GT: de maateenheid bruto-tonnage waarin de totale inhoud van een schip, vastgesteld overeenkomstig het op 23 juni 1969 te Londen totstandgekomen Verdrag betreffende de meting van schepen (Trb. 1970, 122), wordt uitgedrukt;
+- i. GT: de maateenheid bruto-tonnage waarin de totale inhoud van een schip, vastgesteld overeenkomstig het op 23 juni 1969 te Londen totstandgekomen Verdrag betreffende de meting van schepen (Trb. 1970, 122), wordt uitgedrukt;
 
 - j. lengte: de overeenkomstig het verdrag, genoemd in onderdeel h, vastgestelde lengte van een schip;
 
@@ -80,17 +48,17 @@ Hebben goedgevonden en verstaan:
 
 - n. Mariene Milieucommissie: de gelijknamige commissie van de IMO;
 
-- o. BCH-Code: de bij resolutie MEPC.20(22) van de Mariene Milieucommissie aangenomen Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren (**Bulk Chemical Code**);
+- o. BCH-Code: de bij resolutie MEPC.20(22) van de Mariene Milieucommissie aangenomen Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren (*Bulk Chemical Code*);
 
-- p. IBC-Code: de bij resolutie MEPC.19(22) van de Mariene Milieucommissie aangenomen Internationale Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren (**International Bulk Chemical Code**);
+- p. IBC-Code: de bij resolutie MEPC.19(22) van de Mariene Milieucommissie aangenomen Internationale Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren (*International Bulk Chemical Code*);
 
-- q. NOx-Code: de Technische Code inzake de beheersing van de emissie van stikstofoxiden door scheepsdieselmotoren (**Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines**, Trb. 2005, 30), aangenomen als bijlage bij resolutie 2 bij het Protocol van 1997 tot wijziging van het Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978, met Bijlage (Trb. 1999, 169);
+- q. NOx-Code: de Technische Code inzake de beheersing van de emissie van stikstofoxiden door scheepsdieselmotoren (*Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines*, Trb. 2005, 30), aangenomen als bijlage bij resolutie 2 bij het Protocol van 1997 tot wijziging van het Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978, met Bijlage (Trb. 1999, 169);
 
-- q. **Ballastwaterverdrag:** het op 13 februari 2004 te Londen tot stand gekomen Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen (Trb. 2005, 44);
+- q. *Ballastwaterverdrag:* het op 13 februari 2004 te Londen tot stand gekomen Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen (Trb. 2005, 44);
 
-- r. **ballastwater:** water dat aan boord genomen wordt teneinde de trim, helling, diepgang, stabiliteit van of krachten op het schip te beheersen;
+- r. *ballastwater:* water dat aan boord genomen wordt teneinde de trim, helling, diepgang, stabiliteit van of krachten op het schip te beheersen;
 
-- s. **Scheepsrecyclingsverdrag:** het op 15 mei 2009 te Hongkong tot stand gekomen Internationaal verdrag voor het veilig en milieuvriendelijk recyclen van schepen (Trb. 2010, 227 en 2017, 29).
+- s. *Scheepsrecyclingsverdrag:* het op 15 mei 2009 te Hongkong tot stand gekomen Internationaal verdrag voor het veilig en milieuvriendelijk recyclen van schepen (Trb. 2010, 227 en 2017, 29).
 
 2. Voor de toepassing van de op grond van dit besluit toepasselijke verdragen en Codes wordt in dit besluit en de daarop berustende bepalingen, tenzij bij of krachtens dit besluit anders is bepaald, verstaan onder Administratie: Onze Minister.
 
@@ -98,9 +66,15 @@ Hebben goedgevonden en verstaan:
 
 4. Bij regeling van Onze Minister kan worden bepaald dat voor de toepassing van dit besluit ook reizen tussen landen van het Koninkrijk of delen daarvan binnen Caribisch Nederland met een internationale reis gelijk worden gesteld.
 
+##### Artikel 1a. Toepassing Bonaire, Sint Eustatius en Saba
+
+1. Dit besluit is tevens van toepassing op schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2).
+
+2. Bij ministeriële regeling kunnen de krachtens dit besluit gestelde regels ook van toepassing worden verklaard op schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2).
+
 ##### Artikel 2. Aanwijzing schadelijke stoffen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3. Aanwijzing verdragen
 
@@ -148,6 +122,16 @@ Aan boord van elk schip dat zich in het Antarctisch gebied bevindt zijn één of
 
 3. Het tweede lid is niet van toepassing op drijvende platforms, drijvende opslageenheden en drijvende productie-, opslag-, en overslageenheden.
 
+##### Artikel 7a. Eisen aan schepen op grond van het Ballastwaterverdrag
+
+1. Elk schip dat internationale reizen maakt, voldoet aan de op dat schip van toepassing zijnde eisen van voorschrift B-3 en voorschrift B-5, lid 2, van de bijlage van het Ballastwaterverdrag, tenzij er sprake is van een uitzondering als bedoeld in voorschrift A-3 van de bijlage bij het Ballastwaterverdrag.
+
+2. Elk schip dat internationale reizen maakt, voldoet aan de op dat schip van toepassing zijnde eisen van voorschrift B-1 van de bijlage bij het Ballastwaterverdrag voor het hebben van een ballastwaterbeheerplan.
+
+3. De in het eerste en tweede lid bedoelde eisen gelden niet voor schepen die niet ontworpen of gebouwd zijn voor het vervoer van ballastwater en voor schepen die ballastwater vervoeren in permanent verzegelde tanks en dit ballastwater niet lozen.
+
+4. In afwijking van het eerste lid is voor een schip waarop een ballastwaterbeheersysteem in gebruik is dat voldoet aan een bij ministeriële regeling vastgesteld programma voor het testen en beoordelen van technieken voor ballastwaterbehandeling, de norm van voorschrift D-2 van de bijlage bij het Ballastwaterverdrag niet van toepassing gedurende een in de bij die ministeriële regeling vastgestelde periode.
+
 ##### Artikel 8. Nadere eisen
 
 1. Bij regeling van Onze Minister kunnen eisen worden vastgesteld waaraan schepen in verband met een krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=15&z=2022-06-01&g=2022-06-01) vereist certificaat moeten voldoen.
@@ -180,9 +164,9 @@ Bij regeling van Onze Minister kunnen regels worden gesteld betreffende de voorw
 
 2. Voor een schip bestemd of gebruikt voor het vervoer van schadelijke vloeistoffen in bulk, waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2022-06-01&g=2022-06-01), en de met dat artikellid samenhangende eisen, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2022-06-01&g=2022-06-01), wordt, al naar gelang de categorie waartoe het schip behoort, een van de volgende certificaten afgegeven:
 
-- a. voor chemicaliëntankschepen gebouwd op of na 1 juli 1986: een certificaat van geschiktheid voor het vervoer van gevaarlijke chemicaliën in bulk, behorende bij de IBC-Code;
+- a. voor chemicaliëntankschepen gebouwd op of na 1 juli 1986: een certificaat van geschiktheid voor het vervoer van gevaarlijke chemicaliën in bulk, behorende bij de IBC-Code;
 
-- b. voor chemicaliëntankschepen gebouwd voor 1 juli 1986: een certificaat van geschiktheid voor het vervoer van gevaarlijke chemicaliën in bulk, behorende bij de BCH-Code;
+- b. voor chemicaliëntankschepen gebouwd voor 1 juli 1986: een certificaat van geschiktheid voor het vervoer van gevaarlijke chemicaliën in bulk, behorende bij de BCH-Code;
 
 - c. voor schepen die schadelijke vloeistoffen in bulk vervoeren en niet behoren tot de in de onderdelen a en b genoemde categorieën: een Internationaal certificaat van voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk als bedoeld in voorschrift 9 van Bijlage II van het Verdrag.
 
@@ -197,6 +181,12 @@ Bij regeling van Onze Minister kunnen regels worden gesteld betreffende de voorw
 ##### Artikel 13. Certificaten op grond van het AFS-verdrag
 
 1. Voor een schip van 400 GT of meer, waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=7&z=2022-06-01&g=2022-06-01) en de met dat artikellid samenhangende eisen, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2022-06-01&g=2022-06-01), wordt een Internationaal certificaat betreffende het aangroeiwerende verfsysteem als bedoeld in voorschrift 1.1. van Bijlage 4 van het AFS-verdrag afgegeven.
+
+2. Het eerste lid is niet van toepassing op drijvende platforms, drijvende opslageenheden en drijvende productie-, opslag-, en overslageenheden.
+
+##### Artikel 13a. Certificaten op grond van het Ballastwaterverdrag
+
+1. Voor een schip van 400 GT of meer dat internationale reizen maakt, waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=7a&z=2022-06-01&g=2022-06-01) en de met dat artikel samenhangende eisen, bedoeld in artikel 8, tweede en derde lid, wordt een Internationaal ballastwaterbeheercertificaat als bedoeld in voorschrift E-4 van de bijlage bij het Ballastwaterverdrag afgegeven.
 
 2. Het eerste lid is niet van toepassing op drijvende platforms, drijvende opslageenheden en drijvende productie-, opslag-, en overslageenheden.
 
@@ -237,6 +227,10 @@ De in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstu
 ##### Artikel 17. Onderzoeken in verband met het AFS-certificaat
 
 Ter verkrijging van een Internationaal certificaat betreffende het aangroeiwerende verfsysteem en tijdens de geldigheidsduur van dat certificaat wordt een schip onderworpen aan de in Bijlage 4 van het AFS-verdrag voorgeschreven onderzoeken.
+
+##### Artikel 17a. Onderzoeken in verband met het Ballastwaterbeheercertificaat
+
+Ter verkrijging van een Internationaal ballastwaterbeheercertificaat en tijdens de geldigheidsduur van dat certificaat wordt een schip onderworpen aan de in voorschrift E-1 van de bijlage bij het Ballastwaterverdrag voorgeschreven onderzoeken.
 
 ##### Artikel 18. Tijdstippen van onderzoek
 
@@ -360,7 +354,7 @@ Het lozen van lens- of ballastwater of andere restanten of mengsels die alleen s
 
 ##### Artikel 30. Verboden lozingen onder het Antarctica-verdrag
 
-1. Het is verboden vanaf een schip dat zich in het Antarctisch gebied bevindt, sanitair afval te lozen anders dan met inachtneming van de in Bijlage IV van het op 4 oktober 1991 te Madrid tot stand gekomen Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica, met Bijlagen (Trb. 1992, 110) gegeven voorschriften, met dien verstande dat voor de toepassing van die voorschriften onder «lozingen in zee van onbehandeld sanitair afval» wordt verstaan «lozingen van sanitair afval die niet voldoen aan voorschrift 11.1.2 van Bijlage IV van het MARPOL-verdrag» en onder «personen» wordt verstaan «passagiers».
+1. Het is verboden vanaf een schip dat zich in het Antarctisch gebied bevindt, sanitair afval te lozen anders dan met inachtneming van de in Bijlage IV van het op 4 oktober 1991 te Madrid tot stand gekomen Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica, met Bijlagen (Trb. 1992, 110) gegeven voorschriften, met dien verstande dat voor de toepassing van die voorschriften onder «lozingen in zee van onbehandeld sanitair afval» wordt verstaan «lozingen van sanitair afval die niet voldoen aan voorschrift 11.1.2 van Bijlage IV van het MARPOL-verdrag» en onder «personen» wordt verstaan «passagiers».
 
 2. Het is verboden vanaf een schip dat zich in het Antarctisch gebied bevindt, vuilnis als bedoeld in voorschrift 1 van Bijlage V van het Verdrag te lozen anders dan met inachtneming van de in het eerste lid bedoelde Bijlage IV gegeven voorschriften.
 
@@ -375,6 +369,18 @@ Het lozen van lens- of ballastwater of andere restanten of mengsels die alleen s
 - b. afval en andere stoffen als bedoeld in voorschrift 16 van Bijlage VI van het Verdrag aan boord van een schip te verbranden anders dan met inachtneming van de in die Bijlage gegeven voorschriften.
 
 3. Het eerste lid en het tweede lid, onderdeel b, zijn ook van toepassing op buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren.
+
+##### Artikel 31a
+
+1. Het is verboden met een schip ballastwater of sediment uit ballastwater in te nemen of te lozen, tenzij:
+
+- a. deze inname of lozing in overeenstemming is met het bepaalde in de bijlage bij het Ballastwaterverdrag, de krachtens [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2022-06-01&g=2022-06-01), gestelde voorschriften, of op grond van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=9&z=2022-06-01&g=2022-06-01) toegestane afwijkingen van de bijlage bij het Ballastwaterverdrag;
+
+- b. deze inname of lozing in overeenstemming is met de krachtens [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=5&artikel=38&z=2022-06-01&g=2022-06-01), gestelde voorschriften;
+
+- c. deze inname of lozing plaatsvindt om ballastwater te wisselen in een krachtens [artikel 33a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=5&artikel=33a&z=2022-06-01&g=2022-06-01), aangewezen gebied, in overeenstemming met de krachtens dat artikel gestelde voorschriften; of
+
+- d. voor het desbetreffende schip in overeenstemming met het Ballastwaterverdrag een vrijstellig of ontheffing is verleend als bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=35).
 
 ##### Artikel 32. Nadere regels
 
@@ -394,6 +400,12 @@ Het lozen van lens- of ballastwater of andere restanten of mengsels die alleen s
 
 4. Het derde lid is ook van toepassing op het vervoer van lege, niet gereinigde verpakkingen die eerder zijn gebruikt voor het vervoer van schadelijke stoffen in verpakte vorm, tenzij toereikende maatregelen zijn getroffen die verzekeren dat geen restanten zijn achtergebleven die schade kunnen toebrengen aan het mariene milieu.
 
+##### Artikel 33a
+
+1. Een schip waarvoor op grond van voorschrift B-3 van de bijlage van het Ballastwaterverdrag de normen van voorschrift D-1 van de bijlage van het Ballastwaterverdrag van toepassing zijn, wisselt ballastwater in overeenstemming met het bepaalde in voorschrift B-4 van de bijlage van het Ballastwaterverdrag.
+
+2. Bij ministeriële regeling kunnen gebieden worden aangewezen als bedoeld in voorschrift B-4, lid 2, van de bijlage bij het Ballastwaterverdrag, waar ballastwater wordt gewisseld overeenkomstig de daarbij gestelde regels.
+
 ##### Artikel 34. Verplichtingen van de kapitein
 
 1. De kapitein draagt er zorg voor dat aan boord van een schip de in Bijlage I, V en VI van het Verdrag opgenomen voorschriften en verplichtingen worden nageleefd.
@@ -401,6 +413,12 @@ Het lozen van lens- of ballastwater of andere restanten of mengsels die alleen s
 2. De kapitein draagt er zorg voor dat aan boord van een schip in het Antarctisch gebied geen stoffen als bedoeld in voorschrift 43 van Bijlage I van het Verdrag als brandstof worden gebruikt anders dan met inachtneming van dit voorschrift.
 
 3. De kapitein draagt er zorg voor dat aan boord van een schip de in de bijlage van het Ballastwaterverdrag opgenomen voorschriften en verplichtingen worden nageleefd.
+
+##### Artikel 34a. Voorwassen van ladingtanks
+
+1. De kapitein van een schip dat een haven aandoet die is aangewezen krachtens [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6) voert een voorwas uit van zijn tank voor zover deze voorwas verplicht is ingevolge de in Bijlage II van het Verdrag gegeven voorschriften.
+
+2. Het voorwassen van ladingtanks geschiedt uitsluitend met inachtneming van de in Bijlage II van het Verdrag gegeven voorschriften.
 
 ##### Artikel 35
 
@@ -429,6 +447,10 @@ draagt er zorg voor dat aan boord het vuilnisjournaal, bedoeld in voorschrift 9 
 7. De kapitein van een schip waarop voorschrift 6.1 van Bijlage VI van het Verdrag van toepassing is en dat navulbare systemen heeft die ozonlaagaantastende stoffen bevatten, draagt er zorg voor dat aan boord het journaal met betrekking tot ozonlaagaantastende stoffen, bedoeld in voorschrift 12 van bijlage VI van het Verdrag, wordt bijgehouden met inachtneming van hetgeen dienaangaande in dat voorschrift is bepaald.
 
 8. Onze Minister maakt aantekeningen in het ladingjournaal overeenkomstig de in Bijlage II van het Verdrag gegeven voorschriften.
+
+##### Artikel 36a. Bijhouden ballastwaterjournaal
+
+De kapitein van een schip waarop de in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=7a&z=2022-06-01&g=2022-06-01) bedoelde eisen van toepassing zijn, houdt een ballastwaterjournaal bij overeenkomstig het bepaalde in voorschrift B-2 van de bijlage bij het Ballastwaterverdrag.
 
 ##### Artikel 37. Wijze van handelen bij schade
 
@@ -478,23 +500,23 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 ##### Artikel 43. Overgangsbepalingen
 
-1. Voor een schip, waarvoor op grond van het [Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0004306) een certificaat is afgegeven waarvan de geldigheid eindigt op 1 januari 2007 of later, geeft Onze Minister een certificaat als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2022-06-01&g=2022-06-01), af met een vervaldatum die gelijk is aan de vervaldatum van het op grond van voornoemd Besluit afgegeven certificaat.
+1. Voor een schip, waarvoor op grond van het [Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0004306) een certificaat is afgegeven waarvan de geldigheid eindigt op 1 januari 2007 of later, geeft Onze Minister een certificaat als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2022-06-01&g=2022-06-01), af met een vervaldatum die gelijk is aan de vervaldatum van het op grond van voornoemd Besluit afgegeven certificaat.
 
-2. Voor schepen als bedoeld in [artikel 5, vierde lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2022-06-01&g=2022-06-01), worden de certificaten, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2022-06-01&g=2022-06-01), afgegeven met ingang van 28 september 2008.
+2. Voor schepen als bedoeld in [artikel 5, vierde lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2022-06-01&g=2022-06-01), worden de certificaten, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2022-06-01&g=2022-06-01), afgegeven met ingang van 28 september 2008.
 
 3. Voor schepen van 400 GT of meer, gebouwd voor 19 mei 2005, worden de certificaten, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2022-06-01&g=2022-06-01), afgegeven uiterlijk bij de eerstvolgende, geplande droogzetting na inwerkingtreding van dit besluit, maar in geen geval later dan 19 mei 2008.
 
 4. Voor schepen die voldoen aan de eisen van Bijlage 1 van het AFS-verdrag voor de datum waarop die eisen in werking treden, worden de certificaten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13&z=2022-06-01&g=2022-06-01), afgegeven uiterlijk twee jaar na de inwerkingtreding van die eisen.
 
-5. Het verbod, bedoeld in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=4&artikel=29&z=2022-06-01&g=2022-06-01), geldt voor schepen als bedoeld in [artikel 5, vierde lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2022-06-01&g=2022-06-01), met ingang van 28 september 2008.
+5. Het verbod, bedoeld in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=4&artikel=29&z=2022-06-01&g=2022-06-01), geldt voor schepen als bedoeld in [artikel 5, vierde lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2022-06-01&g=2022-06-01), met ingang van 28 september 2008.
 
-6. Voor schepen, gebouwd voor 18 juli 1982, waarvan de bruto-inhoud is vastgesteld overeenkomstig het op 10 juni 1947 te Oslo totstandgekomen Verdrag nopens een eenvormig stelsel voor de meting van zeeschepen (Stb. 1949, J 370; Trb. 1955, 52), wordt voor de toepassing van dit besluit de eenheid bruto-registerton gelijkgesteld met de eenheid GT.
+6. Voor schepen, gebouwd voor 18 juli 1982, waarvan de bruto-inhoud is vastgesteld overeenkomstig het op 10 juni 1947 te Oslo totstandgekomen Verdrag nopens een eenvormig stelsel voor de meting van zeeschepen (Stb. 1949, J 370; Trb. 1955, 52), wordt voor de toepassing van dit besluit de eenheid bruto-registerton gelijkgesteld met de eenheid GT.
 
 7. Voor een schip dat voorafgaand aan de datum waarop de norm van voorschrift D-2 van de bijlage bij het Ballastwaterverdrag voor het desbetreffende schip van toepassing wordt, een ballastwaterbeheersysteem in gebruik heeft genomen dat voldoet aan een bij ministeriële regeling vastgesteld programma voor het testen en beoordelen van technieken voor ballastwaterbehandeling, is de norm van voorschrift D-2 van de bijlage bij het Ballastwaterverdrag niet van toepassing gedurende een in de bij die ministeriële regeling vastgestelde periode.
 
-##### Artikel 44. Wijziging [Besluit havenontvangstvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0017136)
+##### Artikel 44. Wijziging Besluit havenontvangstvoorzieningen
 
-Wijzigt het Besluit havenontvangstvoorzieningen.
+*Wijzigt het Besluit havenontvangstvoorzieningen.*
 
 ##### Artikel 45. Intrekking regelgeving
 
@@ -521,103 +543,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 47. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit voorkoming verontreiniging door schepen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a. Eisen aan schepen op grond van het Ballastwaterverdrag
-
-1. Elk schip dat internationale reizen maakt, voldoet aan de op dat schip van toepassing zijnde eisen van voorschrift B-3 en voorschrift B-5, lid 2, van de bijlage van het Ballastwaterverdrag, tenzij er sprake is van een uitzondering als bedoeld in voorschrift A-3 van de bijlage bij het Ballastwaterverdrag.
-
-2. Elk schip dat internationale reizen maakt, voldoet aan de op dat schip van toepassing zijnde eisen van voorschrift B-1 van de bijlage bij het Ballastwaterverdrag voor het hebben van een ballastwaterbeheerplan.
-
-3. De in het eerste en tweede lid bedoelde eisen gelden niet voor schepen die niet ontworpen of gebouwd zijn voor het vervoer van ballastwater en voor schepen die ballastwater vervoeren in permanent verzegelde tanks en dit ballastwater niet lozen.
-
-4. In afwijking van het eerste lid is voor een schip waarop een ballastwaterbeheersysteem in gebruik is dat voldoet aan een bij ministeriële regeling vastgesteld programma voor het testen en beoordelen van technieken voor ballastwaterbehandeling, de norm van voorschrift D-2 van de bijlage bij het Ballastwaterverdrag niet van toepassing gedurende een in de bij die ministeriële regeling vastgestelde periode.
-
-### Hoofdstuk 3. Certificaten en onderzoeken
-
-#### § 1. Certificaten
-
-##### Artikel 13a. Certificaten op grond van het Ballastwaterverdrag
-
-1. Voor een schip van 400 GT of meer dat internationale reizen maakt, waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=7a&z=2022-06-01&g=2022-06-01) en de met dat artikel samenhangende eisen, bedoeld in artikel 8, tweede en derde lid, wordt een Internationaal ballastwaterbeheercertificaat als bedoeld in voorschrift E-4 van de bijlage bij het Ballastwaterverdrag afgegeven.
-
-2. Het eerste lid is niet van toepassing op drijvende platforms, drijvende opslageenheden en drijvende productie-, opslag-, en overslageenheden.
-
-#### § 2. Onderzoeken
-
-##### Artikel 17a. Onderzoeken in verband met het Ballastwaterbeheercertificaat
-
-Ter verkrijging van een Internationaal ballastwaterbeheercertificaat en tijdens de geldigheidsduur van dat certificaat wordt een schip onderworpen aan de in voorschrift E-1 van de bijlage bij het Ballastwaterverdrag voorgeschreven onderzoeken.
-
-#### § 3. Geldigheid van certificaten
-
-### Hoofdstuk 4. Lozing en overige gedragingen
-
-##### Artikel 31a
-
-1. Het is verboden met een schip ballastwater of sediment uit ballastwater in te nemen of te lozen, tenzij:
-
-- a. deze inname of lozing in overeenstemming is met het bepaalde in de bijlage bij het Ballastwaterverdrag, de krachtens [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2022-06-01&g=2022-06-01), gestelde voorschriften, of op grond van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=9&z=2022-06-01&g=2022-06-01) toegestane afwijkingen van de bijlage bij het Ballastwaterverdrag;
-
-- b. deze inname of lozing in overeenstemming is met de krachtens [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=5&artikel=38&z=2022-06-01&g=2022-06-01), gestelde voorschriften;
-
-- c. deze inname of lozing plaatsvindt om ballastwater te wisselen in een krachtens [artikel 33a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=5&artikel=33a&z=2022-06-01&g=2022-06-01), aangewezen gebied, in overeenstemming met de krachtens dat artikel gestelde voorschriften; of
-
-- d. voor het desbetreffende schip in overeenstemming met het Ballastwaterverdrag een vrijstellig of ontheffing is verleend als bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=35).
-
-### Hoofdstuk 5. Operationele voorschriften
-
-##### Artikel 33a
-
-1. Een schip waarvoor op grond van voorschrift B-3 van de bijlage van het Ballastwaterverdrag de normen van voorschrift D-1 van de bijlage van het Ballastwaterverdrag van toepassing zijn, wisselt ballastwater in overeenstemming met het bepaalde in voorschrift B-4 van de bijlage van het Ballastwaterverdrag.
-
-2. Bij ministeriële regeling kunnen gebieden worden aangewezen als bedoeld in voorschrift B-4, lid 2, van de bijlage bij het Ballastwaterverdrag, waar ballastwater wordt gewisseld overeenkomstig de daarbij gestelde regels.
-
-##### Artikel 36a. Bijhouden ballastwaterjournaal
-
-De kapitein van een schip waarop de in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=7a&z=2022-06-01&g=2022-06-01) bedoelde eisen van toepassing zijn, houdt een ballastwaterjournaal bij overeenkomstig het bepaalde in voorschrift B-2 van de bijlage bij het Ballastwaterverdrag.
-
-### Hoofdstuk 6. Losplaatsvoorzieningen
-
-### Hoofdstuk 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a. Toepassing Bonaire, Sint Eustatius en Saba
-
-1. Dit besluit is tevens van toepassing op schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2).
-
-2. Bij ministeriële regeling kunnen de krachtens dit besluit gestelde regels ook van toepassing worden verklaard op schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2).
-
-### Hoofdstuk 2. Eisen aan schepen
-
-### Hoofdstuk 3. Certificaten en onderzoeken
-
-#### § 1. Certificaten
-
-#### § 2. Onderzoeken
-
-#### § 3. Geldigheid van certificaten
-
-### Hoofdstuk 4. Lozing en overige gedragingen
-
-### Hoofdstuk 5. Operationele voorschriften
-
-### Hoofdstuk 6. Losplaatsvoorzieningen
-
-### Hoofdstuk 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 34a. Voorwassen van ladingtanks
-
-1. De kapitein van een schip dat een haven aandoet die is aangewezen krachtens [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6) voert een voorwas uit van zijn tank voor zover deze voorwas verplicht is ingevolge de in Bijlage II van het Verdrag gegeven voorschriften.
-
-2. Het voorwassen van ladingtanks geschiedt uitsluitend met inachtneming van de in Bijlage II van het Verdrag gegeven voorschriften.
-
-### Hoofdstuk 6. Losplaatsvoorzieningen
-
-### Hoofdstuk 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

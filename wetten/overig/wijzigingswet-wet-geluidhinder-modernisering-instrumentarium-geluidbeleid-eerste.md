@@ -1,67 +1,38 @@
 ---
 title: "Wet van 5 juli 2006, houdende wijziging Wet geluidhinder (modernisering instrumentarium geluidbeleid, eerste fase)"
+citeertitel: "Wijzigingswet Wet geluidhinder (modernisering instrumentarium geluidbeleid, eerste fase)"
 identifier: "BWBR0020051"
-country: "nl"
-rank: "wet"
-publication_date: "2010-02-24"
-last_updated: "2010-02-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020051"
+categorie: "Overig"
 soort: "wet"
-stam_id: "8546813"
-version_id: "13462432"
-internal_id: "C18864591"
-label_id: "8527184"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020051/2010-02-24/0"
-intitule_bron: "Stb.2006-350"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-05"
-intitule_published: "2006-08-01"
-intitule_in_force: "2006-12-19"
-intitule_status: "goed"
-original_publication: "Stb.2006-350"
-original_signed_date: "2006-07-05"
-original_published_date: "2006-08-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "29879"
-original_url_id: "stb-2006-350"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020051&z=2010-02-24&g=2010-02-24"
-jci_1_0: "1.0:c:BWBR0020051&g=2010-02-24"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet geluidhinder (modernisering instrumentarium geluidbeleid, eerste fase)"
-signed_date: "2006-07-05"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2010-02-24
+status: geldig
+toestand: 2010-02-24
+bron: "https://wetten.overheid.nl/BWBR0020051"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 5 juli 2006, houdende wijziging Wet geluidhinder (modernisering instrumentarium geluidbeleid, eerste fase)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) te wijzigen in verband met de herijking van regelgeving, de decentralisatie en aanpassing van de procedure tot het verlenen van een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting en de introductie van de nieuwe dosismaat Lden;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet geluidhinder.
+*Wijzigt de Wet geluidhinder.*
 
 ##### Artikel II
 
-Wijzigt de Spoedwet wegverbreding.
+*Wijzigt de Spoedwet wegverbreding.*
 
 ##### Artikel III
 
-Wijzigt de Wet bereikbaarheid en mobiliteit.
+*Wijzigt de Wet bereikbaarheid en mobiliteit.*
 
 ##### Artikel IV
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel V
 
-Wijzigt de Wet geluidhinder.
+*Wijzigt de Wet geluidhinder.*
 
 ##### Artikel VI
 
@@ -95,7 +66,7 @@ Na inwerkingtreding van deze wet berust:
 
 - g. het verlenen van een vergunning voor een inrichting waarvoor het ontwerp ter inzage is gelegd voorafgaand aan de inwerkingtreding van deze wet;
 
-- h. het vaststellen van een wegaanpassingsbesluit ten aanzien van de in de [bijlage, onder a, van de Spoedwet wegverbreding](onbekend) opgenomen projecten waarvoor het ontwerp-besluit ter inzage is gelegd voorafgaand aan de inwerkingtreding van deze wet.
+- h. het vaststellen van een wegaanpassingsbesluit ten aanzien van de in de [bijlage, onder a, van de Spoedwet wegverbreding](https://wetten.overheid.nl/BWBR0015158) opgenomen projecten waarvoor het ontwerp-besluit ter inzage is gelegd voorafgaand aan de inwerkingtreding van deze wet.
 
 2. De [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) en de daarop gebaseerde regelgeving zoals deze gold voor het tijdstip van inwerkingtreding van deze wet kan tevens worden toegepast op de in het eerste lid genoemde besluiten, totdat deze onherroepelijk zijn geworden, indien de in de onderdelen a tot en met h genoemde handelingen met betrekking tot deze besluiten hebben plaatsgevonden vóór de eerste dag van de derde kalendermaand volgend op het tijdstip van inwerkingtreding van deze wet.
 
@@ -106,5 +77,3 @@ Voor de plaatsing van deze wet in het Staatsblad vervangt Onze Minister van Volk
 ##### Artikel IX
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

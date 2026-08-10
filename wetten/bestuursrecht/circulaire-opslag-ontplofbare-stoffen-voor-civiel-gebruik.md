@@ -1,51 +1,17 @@
 ---
 title: "Circulaire opslag ontplofbare stoffen voor civiel gebruik"
 identifier: "BWBR0020120"
-country: "nl"
-rank: "circulaire"
-publication_date: "2006-07-26"
-last_updated: "2006-07-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020120"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "8560863"
-version_id: "13496732"
-internal_id: "C18135351"
-label_id: "8541844"
-dtd_version: "2.0"
-original_entry_into_force: "2006-07-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020120/2006-07-26/0"
-intitule_bron: "Stcrt.2006-161"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-19"
-intitule_published: "2006-08-21"
-intitule_in_force: "2006-08-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-161"
-original_signed_date: "2006-07-19"
-original_published_date: "2006-08-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-161-p12-SC76427"
-entry_into_force_date: "2006-07-26"
-jci_1_3: "jci1.3:c:BWBR0020120&z=2006-07-26&g=2006-07-26"
-jci_1_0: "1.0:c:BWBR0020120&g=2006-07-26"
-citeertitel_status: "redactioneel"
-signed_date: "2006-07-19"
-entry_into_force: "2006-07-26"
+publicatiedatum: 2006-07-26
+laatste_update: 2006-07-26
+status: geldig
+toestand: 2006-07-26
+bron: "https://wetten.overheid.nl/BWBR0020120"
+opgehaald: 2026-08-10
 ---
+
 # Circulaire opslag ontplofbare stoffen voor civiel gebruik
-
-Geacht College,
-
-Na de totstandkoming van het [Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360) en het [Besluit Externe Veiligheid Inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0016767), restte, ter invulling van het kabinetsstandpunt vuurwerkramp, nog een klein stukje regelgeving ten aanzien van de externe veiligheid van ontplofbare stoffen: de opslag van ontplofbare stoffen voor civiel gebruik. Hierbij moet u denken aan de opslag van ontplofbare stoffen die worden gebruikt voor het slopen van gebouwen en fundaties, het uitvoeren van seismisch onderzoek en dergelijke. Ook zwart buskruit – soms aanwezig bij wapenhandelaren – valt onder het begrip ontplofbare stof voor civiel gebruik.
-
-Op grond van het beleid dat in deze circulaire is vastgelegd, dient rond iedere opslagplaats voor ontplofbare stoffen een veiligheidsafstand te worden aangehouden tot kwetsbare objecten zoals woningen, kantoren en winkels. Deze veiligheidsafstand moet in het bestemmingsplan worden vastgelegd. De grootte van de veiligheidsafstand is afhankelijk van de hoeveelheid ontplofbare stof die wordt opgeslagen en van eventueel effectbeperkende maatregelen die zijn getroffen. De circulaire gaat hier in meer detail op in.
-
-De circulaire is alleen relevant voor u als er binnen de grenzen van uw gemeente opslag van ontplofbare stoffen plaatsvindt. Als dat zo is, dan verzoek ik u deze circulaire te gebruiken bij de vergunningverlening in het kader van de [Wet Milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) en bij het opstellen van bestemmingsplannen.
-
-Daarnaast vraag ik u aan de hand van deze circulaire na te gaan of de veiligheidssituatie van bestaande opslagplaatsen binnen uw gemeente voldoende is. Wanneer dit niet het geval is verzoek ik u waar nodig corrigerende maatregelen te nemen. In paragraaf 5.2 van de circulaire wordt uiteengezet op welke wijze dit kan geschieden.
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### 1. Inleiding
 
@@ -71,9 +37,9 @@ Effectgericht beleid leidt tot een groter ruimtebeslag dan het risicobeleid. Bij
 
 ### 1.2.4. Kwetsbare objecten
 
-In [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0020120&bijlage=IV&z=2006-07-26&g=2006-07-26) is de lijst kwetsbare objecten opgenomen, dat wil zeggen de lijst activiteiten en objecten die niet binnen de aangegeven zones aanwezig mogen zijn. De oorsprong van de lijst is de lijst van kwetsbare en beperkt kwetsbare objecten uit het [Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767). De lijst is aangevuld met enkele beperkingen uit de circulaire Van Houwelingen, waarin het externe veiligheidsbeleid voor Defensie is vastgelegd (zie par. 3.4).
+In [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0020120&bijlage=IV&z=2006-07-26&g=2006-07-26) is de lijst kwetsbare objecten opgenomen, dat wil zeggen de lijst activiteiten en objecten die niet binnen de aangegeven zones aanwezig mogen zijn. De oorsprong van de lijst is de lijst van kwetsbare en beperkt kwetsbare objecten uit het [Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767). De lijst is aangevuld met enkele beperkingen uit de circulaire Van Houwelingen, waarin het externe veiligheidsbeleid voor Defensie is vastgelegd (zie [par. 3.4](https://wetten.overheid.nl/BWBR0020120)).
 
-### 1.2.5. Samenloop met [Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767) en BRZO
+### 1.2.5. Samenloop met Bevi en BRZO
 
 Het [Besluit externe veiligheid inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0016767) (Bevi), en dus ook de [Regeling externe veiligheid inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0017168) (Revi), is niet van toepassing op inrichtingen voor de opslag van ontplofbare stoffen, tenzij het [Besluit risico’s zware ongevallen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010475) op de desbetreffende inrichting van toepassing is. Bedrijven die op grond van de aanwezigheid van andere gevaarlijke stoffen dan uit de gevarenklasse 1 onder het [Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767) vallen, maar ook ontplofbare stoffen opslaan, dienen bij het bepalen van de risico’s van de ontplofbare stoffen eerst de effectzones volgens deze circulaire te berekenen.
 
@@ -89,21 +55,48 @@ Onder het begrip ‘opslag’ worden ook verstaan al die handelingen (ompakken, 
 
 Deze circulaire handelt uitsluitend over de aan te houden afstand tussen een opslagplaats van ontplofbare stoffen en objecten die als kwetsbare objecten binnen de veiligheidszones worden beschouwd. Andere aspecten die een rol spelen bij de opslag van ontplofbare stoffen zijn niet in deze circulaire opgenomen, omdat die aspecten in andere bronnen te vinden zijn, zoals:
 
+- – constructievoorschriften voor gebouwen en de brandwerendheid volgen uit het [Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727);
+
+- – voorschriften voor het veilig werken met ontplofbare stoffen binnen bedrijven vloeien voort uit het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498);
+
+- – modelvoorschriften voor de milieuvergunning staan in het Handboek Milieuvergunningen;
+
+- – de kwaliteit van explosieven, CE-markering, overbrenging en voorhanden hebben anders dan in de zin van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) wordt geregeld in de [Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803).
+
 ### 2. Vóórkomen, indeling en gebruik
 
 Voor de indeling van ontplofbare stoffen en voorwerpen wordt gebruik gemaakt van de indeling die in de vervoersregelgeving wordt gehanteerd. In het ADR zijn ontplofbare stoffen en voorwerpen ingedeeld in klasse 1. Klasse 1 is onderverdeeld in subklassen. In de onderstaande tabel staan de gevarensubklassen vermeld, samen met de belangrijkste kenmerken en enkele verschijningsvormen.
 
+| Sub-klasse | Kenmerk | Voorbeelden |
+| --- | --- | --- |
+| 1.1 | massa-explosie | springstoffen, slagsnoer, zwart buskruit |
+| 1.2 | scherfwerking | komt normaliter niet voor |
+| 1.3 | massabrand met intense warmtestraling | rookzwak buskruit voor herladen van munitie |
+| 1.4 | geen/gering warmtestraling | vuurwapenpatronen |
+| 1.5 | zeer weinig gevoelige stoffen | niet relevant voor deze circulaire |
+| 1.6 | extreem weinig gevoelige voorwerpen | niet relevant voor deze circulaire |
+
 In Nederland voorkomende toepassingen van springstoffen (gevarensubklasse 1.1) zijn:
+
+- – seismisch onderzoek (offshore en ons⁠hore),
+
+- – winnen van delfstoffen
+
+- – slopen van gebouwen, funderingen en andere civiele bouwwerken,
+
+- – reinigen van ketels,
+
+- – vervormen van metalen.
 
 Ook zwart buskruit valt onder de gevarenklasse 1.1. Het wordt hoofdzakelijk gebruikt in de schietsport.
 
 ### 3. Relaties met andere regelgeving
 
-### 3.1. [Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
+### 3.1. Wm
 
 De grondslag voor de milieuvergunning voor de opslag van ontplofbare stoffen is [artikel 8.1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) in combinatie met [categorie 3 van bijlage I van het Inrichtingen- en vergunningenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005829&bijlage=I). Bij het verlenen van de milieuvergunning moet het bevoegd gezag onder meer nagaan of de externe veiligheid is gewaarborgd.
 
-### 3.2. [Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360)
+### 3.2. Vuurwerkbesluit
 
 Vuurwerk valt ook onder klasse 1 van het ADR, maar valt niet onder deze circulaire. Het [Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360) (Stb. 2002, 33) is van toepassing op zowel consumentenvuurwerk als professioneel vuurwerk. Het uitgangspunt van het beleid over de opslag van ontplofbare stoffen, het aanhouden van veiligheidsafstanden gebaseerd op effecten, is ook uitgangspunt geweest voor het [Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360).
 
@@ -111,7 +104,17 @@ Vuurwerk valt ook onder klasse 1 van het ADR, maar valt niet onder deze circulai
 
 In het kader van de herijking van de VROM-regelgeving wordt gewerkt aan het Activiteitenbesluit, gebaseerd op [artikel 8.40 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40). De opslag van ontplofbare stoffen zal van de werking van dit besluit worden uitgesloten, met uitzondering van:
 
-In dit besluit zullen onder meer voorschriften voor de opslag van bovengenoemde stoffen worden gegeven en aan te houden afstanden worden geformuleerd. Totdat deze amvb van kracht is, kunnen de afstandseisen aan deze circulaire worden ontleend. (zie ook 4.3.4)
+- – opslag tot 1000 kg consumentenvuurwerk overeenkomstig het [Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360)
+
+- – opslag van in beslag genomen vuurwerk bij een politiebureau tot 25 kg
+
+- – opslag van ontplofbare stoffen van de gevarensubklasse 1.3 tot 50 kg
+
+- – opslag van ontplofbare stoffen van de gevarensubklasse 1.4 tot 25 kg
+
+- – opslag van munitie van de gevarensubklasse 1.4 tot maximaal 250.000 patronen
+
+In dit besluit zullen onder meer voorschriften voor de opslag van bovengenoemde stoffen worden gegeven en aan te houden afstanden worden geformuleerd. Totdat deze amvb van kracht is, kunnen de afstandseisen aan deze circulaire worden ontleend. (zie ook [4.3.4](https://wetten.overheid.nl/BWBR0020120))
 
 ### 3.4. Opslag bij Defensie
 
@@ -131,7 +134,19 @@ De instrumenten uit de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.
 
 ### 4. Stappenplan opslag ontplofbare stoffen
 
-Kort samengevat komt het in deze circulaire neergelegde beleid voor de aan te houden afstanden bij de opslag van ontplofbare stoffen op het volgende neer (zie ook schema in paragraaf 1.3):
+Kort samengevat komt het in deze circulaire neergelegde beleid voor de aan te houden afstanden bij de opslag van ontplofbare stoffen op het volgende neer (zie ook schema in [paragraaf 1.3](https://wetten.overheid.nl/BWBR0020120)):
+
+- – stel vast voor welke hoeveelheden ontplofbare stoffen van welke gevarensubklasse uitgegaan moet worden, in wat voor type gebouw(en) wordt opgeslagen en welke fysieke maatregelen zijn of worden getroffen om de effecten te beheersen of te voorkomen.
+
+- – bepaal aan de hand van de tabellen uit de bijlagen of anderen kennisdocumenten, welke afstanden bij de gegeven hoeveelheden en de wijze van opslag, aangehouden moet worden; de grootste afstand is maatgevend.
+
+- – teken de van toepassing zijnde A-B-C-zones op een kaart en inventariseer of en welke kwetsbare objecten in de verschillende zones zijn gelegen.
+
+- – beoordeel de toelaatbaarheid van de situatie (zie [paragraaf 5](https://wetten.overheid.nl/BWBR0020120) voor een eventuele sanering).
+
+- – beoordeel of nadere effect-beperkende maatregelen mogelijk zijn om ruimtebeslag te vookomen.
+
+- – leg de situatie vast in de Wm-vergunning en het bestemmingsplan.
 
 Deze items worden in de navolgende paragrafen verder uitgewerkt. Wanneer aan dit beleid is voldaan, is het aspect externe veiligheid van een dergelijke opslag goed geregeld.
 
@@ -141,7 +156,7 @@ Bepaal op grond van de in de vergunningprocedure aangeleverde informatie in gevo
 
 ### 4.2. Effectbeperkende maatregelen
 
-Voor andere opslagvormen, andere gebouwconstructies, bijzondere compatibiliteitsklassen, de aanwezigheid of de mogelijkheid van fysieke maatregelen om effecten te beheersen en andere afwijkingen van paragraaf 4.1, geeft deze circulaire alleen de systematiek, maar geen concrete afstanden. Zo bestaat bij een open opslag geen kans op uitworp van brokstukken. Ook bestaan er voorzieningen die de gevolgen van een explosie van hele kleine hoeveelheden explosieven geheel kunnen insluiten. In al die gevallen moet worden teruggevallen op de NAVO-richtlijn AASTP-1 en andere kennisdocumenten om een gemotiveerde, onderbouwde keuze van de effectafstand te maken. In [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0020120&bijlage=VI&z=2006-07-26&g=2006-07-26) is een niet-limitatieve lijst kennisdocumenten opgenomen die daarvoor kan worden gebruikt. Het RIVM, Centrum voor Externe Veiligheid is beschikbaar voor een second opinion voor dergelijke situaties.
+Voor andere opslagvormen, andere gebouwconstructies, bijzondere compatibiliteitsklassen, de aanwezigheid of de mogelijkheid van fysieke maatregelen om effecten te beheersen en andere afwijkingen van [paragraaf 4.1](https://wetten.overheid.nl/BWBR0020120), geeft deze circulaire alleen de systematiek, maar geen concrete afstanden. Zo bestaat bij een open opslag geen kans op uitworp van brokstukken. Ook bestaan er voorzieningen die de gevolgen van een explosie van hele kleine hoeveelheden explosieven geheel kunnen insluiten. In al die gevallen moet worden teruggevallen op de NAVO-richtlijn AASTP-1 en andere kennisdocumenten om een gemotiveerde, onderbouwde keuze van de effectafstand te maken. In [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0020120&bijlage=VI&z=2006-07-26&g=2006-07-26) is een niet-limitatieve lijst kennisdocumenten opgenomen die daarvoor kan worden gebruikt. Het RIVM, Centrum voor Externe Veiligheid is beschikbaar voor een second opinion voor dergelijke situaties.
 
 ### 4.3. Bepalen van veiligheidsafstanden
 
@@ -163,7 +178,7 @@ In de [tabel in bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020120&bijl
 
 ### 4.3.4. Ontplofbare stoffen gevarensubklasse 1.4
 
-Zoals in paragraaf 3.3 is aan aangegeven, wordt gewerkt aan het Activiteitenbesluit, een amvb met opheffing van de vergunningplicht, waarin onder meer de opslag van ontplofbare stoffen van de gevarensubklasse 1.4 wordt geregeld. Zolang die amvb niet van kracht is, bevat deze circulaire de aan te houden afstanden bij deze gevarensubklasse, indien voor een dergelijke situatie een vergunning wordt aangevraagd. Deze zijn te vinden in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0020120&bijlage=III&z=2006-07-26&g=2006-07-26).
+Zoals in [paragraaf 3.3](https://wetten.overheid.nl/BWBR0020120) is aan aangegeven, wordt gewerkt aan het Activiteitenbesluit, een amvb met opheffing van de vergunningplicht, waarin onder meer de opslag van ontplofbare stoffen van de gevarensubklasse 1.4 wordt geregeld. Zolang die amvb niet van kracht is, bevat deze circulaire de aan te houden afstanden bij deze gevarensubklasse, indien voor een dergelijke situatie een vergunning wordt aangevraagd. Deze zijn te vinden in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0020120&bijlage=III&z=2006-07-26&g=2006-07-26).
 
 ### 4.4. Inventariseren van kwetsbare objecten binnen de veiligheidszones
 
@@ -185,7 +200,7 @@ Wanneer het bevoegd gezag voor de [Wet milieubeheer](https://wetten.overheid.nl/
 
 ### 5. Beleid voor bestaande situaties
 
-Op het moment dat geconstateerd wordt dat er zich kwetsbare objecten binnen de veiligheidszone bevinden (zie 4.4), mag bij bestaande situaties een tussenstap worden gezet. In deze tussenstap wordt beoordeeld of het feitelijke risico lager is dan de norm daarvoor. Deze beoordeling vindt plaats aan de hand van een kwantitatieve risico-analyse.
+Op het moment dat geconstateerd wordt dat er zich kwetsbare objecten binnen de veiligheidszone bevinden (zie [4.4](https://wetten.overheid.nl/BWBR0020120)), mag bij bestaande situaties een tussenstap worden gezet. In deze tussenstap wordt beoordeeld of het feitelijke risico lager is dan de norm daarvoor. Deze beoordeling vindt plaats aan de hand van een kwantitatieve risico-analyse.
 
 Indien de berekende risico’s lager zijn dan de normen, dan is de opslag toegestaan. Als de risico’s hoger zijn dan de normen dan is sprake van een saneringssituatie. Omdat in deze circulaire sprake is van nieuw, strenger beleid, ten opzichte van de situatie van vóór 2000, bestaat de mogelijkheid dat een belanghebbende in bepaalde gevallen een beroep kan doen op het Rijk voor de vergoeding van schade en kosten die rechtstreeks voortvloeien uit de sanering. In de onderstaande paragrafen wordt dit verder uiteen gezet.
 
@@ -199,11 +214,19 @@ De risicoanalyse moet geschieden zoals in het Paarse Boek (richtlijn CPR 18E, th
 
 Hoewel het [Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767) niet van toepassing is, zijn enkele normen uit het [Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767) gebruikt in deze circulaire. Dit bevordert de eenduidigheid en transparantie van het beleidsveld externe veiligheid. De uitkomsten van de risico-analyse moeten op de navolgende wijze worden getoetst aan de externe-veiligheidsnormen die zijn vastgelegd in het [Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767):
 
+- – De transportassen die in nieuwe situaties niet zijn toegestaan binnen de A-zone, worden niet getoetst aan het PR. Dit heeft te maken met de korte verblijftijd van personen op die transportassen.
+
+- – De beperkt kwetsbare bestemmingen (B-zone) moeten buiten de PR-contour van 10–5 per jaar blijven ([Bevi artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016767&artikel=8)).
+
+- – De kwetsbare bestemmingen (B-zone) moeten buiten de PR-contour van 10–6 per jaar blijven ([Bevi artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016767&artikel=6)).
+
+- – Het GR dient op dezelfde manier te worden verantwoord als omschreven in [artikel 12 van het Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767&artikel=12).
+
 Indien er sprake is van een overschrijding van de externe-veiligheidsnormen, dient te worden nagegaan op welke wijze de overschrijding kan worden weggenomen. Als eerste kan worden nagegaan of met de opslag van een geringere hoeveelheid ontplofbare stoffen kan worden volstaan. Soms kan een andere wijze van opslag of het aanbrengen van extra effectbeperkende maatregelen een oplossing dichterbij brengen. Biedt dit geen oplossing, dan zal gesaneerd moeten worden. Sanering kan zowel zijn het wegnemen van de inbreuk(en) als het beëindigen of verplaatsen van de opslag van ontplofbare stoffen of voorwerpen.
 
 ### 5.2. Schadevergoedingsregeling
 
-Inrichtingen voor de opslag van ontplofbare stoffen voor civiel gebruik, waarbij op grond van de beoordeling volgens 5.1.2 een inbreuk binnen een veiligheidszone is gelegen, komen voor sanering in aanmerking.
+Inrichtingen voor de opslag van ontplofbare stoffen voor civiel gebruik, waarbij op grond van de beoordeling volgens [5.1.2](https://wetten.overheid.nl/BWBR0020120) een inbreuk binnen een veiligheidszone is gelegen, komen voor sanering in aanmerking.
 
 Wie uiteindelijk de kosten van de sanering betaalt, is afhankelijk van de wijze waarop de saneringssituatie is ontstaan en welke saneringsoplossing is gekozen. Indien er ten opzichte van de criteria die zijn toegepast bij het verlenen van de oprichtingsvergunning sprake is van aanscherping van eisen en wanneer niet door het treffen van maatregelen hieraan kan worden tegemoet gekomen, is het noodzakelijk dat de vergunning met toepassing van [artikel 8.25, eerste lid, onder a, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.25) wordt ingetrokken. In dat geval zal de vergunninghouder aanspraak kunnen maken op een schadevergoeding als bedoeld in [artikel 15.20 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20). Indien de vergoeding is toegekend in overeenstemming met de [Circulaire Schadevergoedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008488), komen de kosten daarvan ten laste van het Rijk.
 
@@ -212,176 +235,3 @@ Wie uiteindelijk de kosten van de sanering betaalt, is afhankelijk van de wijze 
 Indien een bestaande situatie op basis van een risico-analyse is toegestaan, dienen de huidige regelingen en (nieuwbouw)mogelijkheden in bestemmingsplannen, voor zover gelegen binnen de veiligheidszones, zoveel als mogelijk te worden aangepast. Dit om te voorkomen dat de veiligheidssituatie verslechtert als gevolg van nieuwe bouwplannen.
 
 Voor woningen binnen de B-zone kan gedacht worden aan een extra beperking dat alleen dakkapellen, garages en soortgelijke bouwwerken zijn toegestaan. Uitbreidingen met serres moeten, vanwege een verhoogde sterftekans door glasscherven, zo veel mogelijk worden voorkomen. Ook andere uitbreidingen en vergrotingen die tot een toename van het aantal aanwezige personen leiden (splitsing in meer wooneenheden, ombouw tot hotel of andere verblijfssfaciliteiten), moeten worden voorkomen.
-
-## Bijlage I. Afstandentabel gevarensubklasse 1.1
-
-Bij de veiligheidsafstanden wordt onderscheid gemaakt in de A-, B- en C-zone. De A-zone ligt op een afstand van 2/3 van de B-zone en de C-zone (alleen bij klasse 1.1) ligt op een afstand van 2 maal de B-zone.
-
-| NEM tot en met [kg] | D (A-zone) [m] | D (B-zone) [m] | D (C-zone) [m] |
-| --- | --- | --- | --- |
-| 14,11Op grond van het Inrichtingen- en vergunningenbesluit geldt voor een hoeveelheid tot 1 kg zwart buskruit geen milieuvergunningplicht. | 41 | 62 | 124 |
-| 25,0 | 87 | 130 | 260 |
-| 50,0 | 141 | 212 | 424 |
-| 75,0 | 173 | 260 | 520 |
-| 100,0 | 196 | 294 | 588 |
-| 125,0 | 214 | 321 | 642 |
-| 150,0 | 228 | 342 | 684 |
-| 175,0 | 240 | 360 | 720 |
-| 200,0 | 251 | 376 | 752 |
-| 204,1 | 254 | 381 | 762 |
-| 500,0 | 254 | 381 | 762 |
-| 750,0 | 254 | 381 | 762 |
-| 1000,0 | 254 | 381 | 762 |
-| 2000,0 | 254 | 381 | 762 |
-| 5000,0 | 254 | 381 | 762 |
-| 6000,0 | 270 | 405 | 810 |
-
-NEM = netto explosieve massa in kg
-
-D = afstand in meters
-
-In bovenstaande tabel is uitgegaan van een enkelvoudige opslag in een lichte gebouwconstructie. Ontplofbare stoffen en voorwerpen worden niet alleen in gevaren(sub)klassen ingedeeld. Ook is sprake van een indeling in compatibiliteitsgroepen, afhankelijk van de wijze waarop die stoffen reageren op invloeden van buitenaf. Voor deze circulaire wordt ervan uitgegaan dat alleen ontplofbare stoffen van dezelfde subklasse èn dezelfde compatibiliteitsgroep bij elkaar mogen worden opgeslagen.
-
-Voor hoeveelheden van meer dan 6.000 kg, voor andere gebouwconstructies, voor meer dan 1 opslaggebouw of bij verschillende compatibiliteitsgroepen moet op basis van de NAVO-richtlijn AASTP-1 en andere kennisdocumenten een onderbouwde keuze voor de aan te houden afstand worden gemaakt. Het RIVM, Centrum voor Externe Veiligheid (Postbus 1, 3720 BA Bilthoven, tel. nr. 030-2749111) is beschikbaar voor een second opinion voor dergelijke situaties.
-
-## Bijlage II. Afstandentabel gevarensubklasse 1.3
-
-De A-zone ligt op een afstand van 2/3 van de B-zone. De C-zone is niet van belang omdat het belangrijkste kenmerk van subklasse 1.3 niet blast (overdruk), maar intense warmtestraling is.
-
-| NEM tot en met [kg] | D (A-zone) [m] | D (B-zone) [m] |
-| --- | --- | --- |
-| 501Op grond van het Inrichtingen- en vergunningenbesluit geldt voor een hoeveelheid tot 3 kg rookzwak buskruit geen milieuvergunningplicht.2Tot een hoeveelheid van 50 kg rookzwak buskruit kan het rookzwak buskruit in een speciale opslagvoorziening worden opgeslagen, waardoor met een kortere afstand kan worden volstaan. Dit wordt in de Activiteitenamvb geregeld.3Voor noodsignalen wordt in de Activiteitenamvb voorgesteld om maximaal 50 kg NEM toe te staan zonder dat externe veiligheidsafstanden moeten worden aangehouden. | 16 | 24 |
-| 100 | 20 | 30 |
-| 150 | 23 | 34 |
-| 200 | 25 | 37 |
-| 250 | 27 | 40 |
-| 300 | 29 | 43 |
-| 350 | 30 | 45 |
-| 400 | 31 | 47 |
-| 450 | 33 | 49 |
-| 500 | 34 | 51 |
-| 550 | 35 | 52 |
-| 600 | 36 | 54 |
-| 650 | 37 | 55 |
-| 700 | 38 | 57 |
-| 750 | 39 | 58 |
-| 800 | 39 | 59 |
-| 850 | 41 | 61 |
-| 900 | 41 | 62 |
-| 950 | 42 | 63 |
-| 1000 | 43 | 64 |
-
-NEM = netto explosieve massa in kg
-
-D = afstand in meters
-
-In bovenstaande tabel is uitgegaan van een enkelvoudige opslag in een lichte gebouwconstructie. Ontplofbare stoffen en voorwerpen worden niet alleen in gevaren(sub)klassen ingedeeld. Ook is sprake van een indeling in compatibiliteitsgroepen, afhankelijk van de wijze waarop die stoffen reageren op invloeden van buitenaf. Voor deze circulaire wordt ervan uitgegaan dat alleen ontplofbare stoffen van dezelfde subklasse èn dezelfde compatibiliteitsgroep bij elkaar mogen worden opgeslagen.
-
-Voor hoeveelheden van meer dan 1.000 kg, voor andere gebouwconstructies, voor meer dan 1 opslaggebouw of bij verschillende compatibiliteitsgroepen moet op basis van de NAVO-richtlijn AASTP-1 en andere kennisdocumenten een onderbouwde keuze voor de aan te houden afstand worden gemaakt. Het RIVM, Centrum voor Externe Veiligheid (Postbus 1, 3720 BA Bilthoven, tel. nr. 030-2749111) is beschikbaar voor een second opinion voor dergelijke situaties.
-
-## Bijlage III. Afstandentabel gevarensubklasse 1.4
-
-De aan te houden afstanden staan in onderstaande tabel. Bij deze gevarensubklasse is geen noodzaak voor het bepalen van een A- of C-zone.
-
-|   | Munitie | Vuurwerk | Overig (ontstekers, slaghoedjes, etc) | D [m] |
-| --- | --- | --- | --- | --- |
-| Activiteitenbesluit1Zolang de aangekondigde AmvB niet van kracht is, kunnen de afstanden aan deze circulaire worden ontleend. Zie ook 3.3. | < 250.000 patronen |   | < 25 kg (NEM) | 8 |
-|   | < 250.000 patronen in brandcompartiment |   |   | 0 |
-|   |   | < 25 kg bij politie in brandcompartiment |   | 0 |
-| deze circulaire | > 250.000 patronen |   | > 25 kg (NEM) | 20 |
-
-D = afstand tot een object dat als inbreuk wordt beschouwd
-
-NEM = netto explosieve massa in kg
-
-## Bijlage IV. Kwetsbare objecten binnen de veiligheidszones
-
-### **A-zone**
-
-Niet toegestaan zijn(geprojecteerde1D.w.z. nog niet aanwezige (beperkt) kwetsbare objecten die op grond van het geldende bestemmingsplan toelaatbaar zijn.):
-
-alsmede alle objecten die in de B-zone verboden zijn.
-
-### **B-zone**
-
-(1) Niet toegestaan zijn (geprojecteerde) beperkt kwetsbare objecten, zijnde:
-
-(2) Eveneens niet toegestaan zijn (geprojecteerde) kwetsbare objecten, zijnde:
-
-### **C-zone**
-
-Niet toegestaan zijn:
-
-## Bijlage V. Afkortingen
-
-AASTP-1: Allied Ammunition Storage and Transport Publication, edition-1
-
-ADR: Accord européen relatif au transport international des marchandises dangereuses par route
-
-BRZO: [Besluit risico’s Zware ongevallen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010475)
-
-Bevi: [Besluit externe veiligheid inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0016767)
-
-CPR: Commissie Preventie van Rampen door gevaarlijke stoffen. Deze commissie is opgeheven; uitgegeven richtlijnen worden nu gepubliceerd als PGS, Publicatie Gevaarlijke Stoffen
-
-GR: groepsrisico als bedoeld in [artikel 12 van het Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767&artikel=12)
-
-Ivb: [Inrichtingen- en vergunningenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005829)
-
-NEM: Netto Explosieve Massa (voor de gevarensubklasse 1.1 vrijwel gelijk aan bruto massa)
-
-PGS: Publicatie Gevaarlijke Stoffen
-
-PR: plaatsgebonden risico als bedoeld in [artikel 6 van het Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767&artikel=6)
-
-Revi: [Regeling externe veiligheid inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0017168)
-
-## Bijlage VI. Kennisdocumenten
-
-De lijst is niet-limitatief en in willekeurige volgorde opgesteld.
-
-- 1. Allied Ammunition Storage and Transport Publication, Edition no. 1 (AASTP); Manual of NATO safety principles for the storage of militairy ammunition and explosives
-
-- 2. National Fire Protection Association 495, Explosive Materials Code, 2001 Edition
-
-- 3. Explosives Law and Regulations: Bureau of Alcohol, Tobacco and Firearms. Department of the Treasury (paragraaf 55, onderdeel 27 CFR)
-
-- 4. Introduction to the Technology of Explosives. Paul W. Cooper, Stanley R. Kurowski, 1996, Wiley-VCH, inc.
-
-- 5. TNO-rapport PML 1993-18: Experimenteel onderzoek naar de uitworpafstanden van brokstukken bij explosies, april 1993
-
-- 6. AC/258 Group of Experts on the Safety Aspects of Transportation and Storage of Military Ammunition and Explosives. Storage Sub-Group. Proposed Amendments to AASTP-1 for the inclusion of Revised Hazard Division 1.2 Quantity Distance Rules. 6th October 1999. Working Paper AC/258(ST)WP/208 (3rd Revise).
-
-- 7. AC/258 CNAD Partnership Group. Group of Experts on the Safety Aspects of Transportation and Storage of Military Ammunition and Explosives. Storage Sub-Group. Chapter 5 of AASTP-1. Design Environment Criteria. 2nd May 2000. Working Paper AC/258(ST)WP/211.
-
-- 8. Ministeriële Publicatie 40-21: ‘Voorschrift vervoer en opslag van overige gevaarlijke stoffen’ van het Ministerie van Defensie.
-
-- 9. Recommendations on the Transport of Dangerous Goods. Manual of Tests and Criteria. New York and Geneva, 1999. ST/SG/AC.10/11/Rev. 3.
-
-- 10. DoD Ammunition and Explosives Safety Standard (DoD 6055.9-STD) van oktober 2004.
-
-- 11. The Manufacture and Storage of Explosives Regulations 2005.
-
-- 12. Timmers, PGJ. Berekening van het in- en extern risico van explosievenopslag met behulp van ‘RISKANAL’ (Draft). Rijswijk: TNO, 1997.
-
-## Bijlage VII. Definities
-
-A-zone: de veiligheidszone waarbinnen de verblijftijd van personen zo kort mogelijk moet zijn; de zone wordt afgeleid van de B-zone
-
-B-zone: de veiligheidszone waarbinnen geen permanente of langdurige aanwezigheid van personen moet plaatsvinden
-
-C-zone: de veiligheidszone waarbinnen geen gebouwen moeten staan die slecht bestand zijn tegen overdruk; de zone wordt afgeleid van de B-zone
-
-blasteffecten: effecten ten gevolge van een plotseling optredende druk- of schokgolf in de atmosfeer, met hoge druk, hoge dichtheid en hoge deeltjessnelheid
-
-compatibiliteitsgroep: indeling van ontplofbare stoffen rekening houdend met het gevaar dat zij vertegenwoordigen, de manier waarop zij reageren op invloeden van buitenaf en de wijze waarop een eventueel onheil moet worden bestreden
-
-fysieke effect-beperkende maatregelen: Feitelijk aanwezige bouwkundige voorzieningen of de afwezigheid van bouwkundige voorzieningen, waardoor bepaalde explosie-effecten aantoonbaar niet, of in beperktere mate zullen optreden of waardoor de dracht (reikwijdte) van bepaalde effecten aantoonbaar ingeperkt wordt. Werkprocedures, gedragsregels en dergelijke zijn geen fysieke effect-beperkende maatregelen.
-
-herladen van munitie: het opnieuw vullen van patroonhulzen met kruit en een kogelpunt ten einde een weer bruikbaar vuurwapenpatroon te verkrijgen. Door het wijzigen van de hoeveelheid kruit worden onder meer de ballistische eigenschappen van de kogel beïnvloed.
-
-kwetsbare objecten: die activiteiten en objecten die niet binnen de daarbij aangegeven zones aanwezig mogen zijn (zie [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0020120&bijlage=IV&z=2006-07-26&g=2006-07-26))
-
-lichte gebouwconstructie: een gebouwconstructie met ten hoogste 23 cm metselwerk of minder dan 20 cm beton
-
-Deze circulaire treedt één week na dagtekening ervan in werking en blijft van kracht totdat deze door het Ministerie van VROM wordt ingetrokken.

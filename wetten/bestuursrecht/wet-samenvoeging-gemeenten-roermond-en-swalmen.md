@@ -1,48 +1,18 @@
 ---
 title: "Wet van 14 september 2006 tot samenvoeging van de gemeenten Roermond en Swalmen"
+citeertitel: "Wet samenvoeging gemeenten Roermond en Swalmen"
 identifier: "BWBR0020301"
-country: "nl"
-rank: "wet"
-publication_date: "2006-09-22"
-last_updated: "2006-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020301"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "8597323"
-version_id: "13566442"
-internal_id: "C18246451"
-label_id: "8577594"
-dtd_version: "2.0"
-original_entry_into_force: "2006-09-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020301/2006-09-22/0"
-intitule_bron: "Stb.2006-424"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-09-14"
-intitule_published: "2006-09-21"
-intitule_in_force: "2006-09-21"
-intitule_status: "goed"
-original_publication: "Stb.2006-424"
-original_signed_date: "2006-09-14"
-original_published_date: "2006-09-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "30360"
-original_url_id: "stb-2006-424"
-entry_into_force_date: "2006-09-22"
-entry_into_force_dossier: "30360"
-jci_1_3: "jci1.3:c:BWBR0020301&z=2006-09-22&g=2006-09-22"
-jci_1_0: "1.0:c:BWBR0020301&g=2006-09-22"
-citeertitel_status: "redactioneel"
-short_title: "Wet samenvoeging gemeenten Roermond en Swalmen"
-signed_date: "2006-09-14"
-entry_into_force: "2006-09-22"
+publicatiedatum: 2006-09-22
+laatste_update: 2006-09-22
+status: geldig
+toestand: 2006-09-22
+bron: "https://wetten.overheid.nl/BWBR0020301"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 14 september 2006 tot samenvoeging van de gemeenten Roermond en Swalmen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Roermond en Swalmen samen te voegen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Opheffing en instelling van gemeenten
 
@@ -54,7 +24,7 @@ Met ingang van de datum van herindeling worden de gemeenten Roermond en Swalmen 
 
 1. Met ingang van de datum van herindeling wordt de nieuwe gemeente Roermond ingesteld.
 
-2. De nieuwe gemeente Roermond bestaat uit het grondgebied van de op te heffen gemeenten Roermond en Swalmen, zoals aangegeven op de bij deze wet behorende kaart.
+2. De nieuwe gemeente Roermond bestaat uit het grondgebied van de op te heffen gemeenten Roermond en Swalmen, zoals aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0020301).
 
 #### § 2. Overige bepalingen
 
@@ -84,16 +54,12 @@ Voor de op te heffen gemeenten Roermond en Swalmen wordt de nieuwe gemeente Roer
 
 ##### Artikel 6
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 7
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 8
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-## Kaart. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020301&paragraaf=1&artikel=2&z=2006-09-22&g=2006-09-22) van de Wet tot samenvoeging van de gemeenten Roermond en Swalmen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

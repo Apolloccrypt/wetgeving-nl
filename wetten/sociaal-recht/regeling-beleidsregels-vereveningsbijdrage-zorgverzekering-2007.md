@@ -1,43 +1,17 @@
 ---
 title: "Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007"
 identifier: "BWBR0020362"
-country: "nl"
-rank: "zbo"
-publication_date: "2010-10-02"
-last_updated: "2010-10-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020362"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "8649403"
-version_id: "17835212"
-internal_id: "C24618911"
-label_id: "8630234"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020362/2010-10-02/0"
-intitule_bron: "Stcrt.2006-196"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-09-28"
-intitule_published: "2006-10-09"
-intitule_in_force: "2006-10-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15160"
-original_published_date: "2010-09-30"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2010-15160"
-entry_into_force_date: "2010-10-02"
-jci_1_3: "jci1.3:c:BWBR0020362&z=2010-10-02&g=2010-10-02"
-jci_1_0: "1.0:c:BWBR0020362&g=2010-10-02"
-citeertitel_status: "officieel"
-entry_into_force: "2010-10-02"
+publicatiedatum: 2010-10-02
+laatste_update: 2010-10-02
+status: geldig
+toestand: 2010-10-02
+bron: "https://wetten.overheid.nl/BWBR0020362"
+opgehaald: 2026-08-10
 ---
+
 # Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Gelet op de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34) en [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3) en [Hoofdstuk 3 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=3);
-
-Gelezen de brief van de minister van Volksgezondheid, Welzijn en Sport van 26 september 2006 (kenmerk Z/F-2717188);
-
-Heeft in zijn vergadering van 28 september 2006 besloten:
 
 ### Hoofdstuk I. Algemene Bepalingen
 
@@ -131,25 +105,25 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 - f. Wanneer voor een zorgverzekeraar in een morbiditeitsrisicoklasse het geraamde totaal aantal verzekerden 2007 kleiner dan of gelijk is aan het totaal aantal verzekerden 2005 in die morbiditeitsrisicoklasse, wordt het aantal verzekerden 2007 per FKG 2007 als volgt berekend:
 
-- 1°. Per zorgverzekeraar en per morbiditeitsrisicoklasse wordt het aantal verzekerden per FKG 2007 berekend door de geraamde verzekerdenaantallen 2007 te vermenigvuldigen met de geraamde zorgverzekeraarspecifieke FKG 2007-prevalentie 2006 per morbiditeitsrisicoklasse. Dit resulteert in het geraamde aantal verzekerden met een FKG per FKG 2007 per morbiditeitsrisicoklasse.
+   - 1°. Per zorgverzekeraar en per morbiditeitsrisicoklasse wordt het aantal verzekerden per FKG 2007 berekend door de geraamde verzekerdenaantallen 2007 te vermenigvuldigen met de geraamde zorgverzekeraarspecifieke FKG 2007-prevalentie 2006 per morbiditeitsrisicoklasse. Dit resulteert in het geraamde aantal verzekerden met een FKG per FKG 2007 per morbiditeitsrisicoklasse.
 
-- 2°. Per zorgverzekeraar en per morbiditeitsrisicoklasse berekent het college per saldo de daling van het aantal verzekerden en brengt deze in in een pool per morbiditeitsrisicoklasse. Deze daling in het aantal verzekerden wordt per morbiditeitsrisicoklasse vermenigvuldigd met de geraamde zorgverzekeraarspecifieke FKG 2007-prevalentie 2006 en ingebracht in de eerdergenoemde pool per FKG per morbiditeitsrisicoklasse. Dit resulteert in het door een zorgverzekeraar ingebrachte aantal verzekerden met een FKG per FKG 2007 in de pool.
+   - 2°. Per zorgverzekeraar en per morbiditeitsrisicoklasse berekent het college per saldo de daling van het aantal verzekerden en brengt deze in in een pool per morbiditeitsrisicoklasse. Deze daling in het aantal verzekerden wordt per morbiditeitsrisicoklasse vermenigvuldigd met de geraamde zorgverzekeraarspecifieke FKG 2007-prevalentie 2006 en ingebracht in de eerdergenoemde pool per FKG per morbiditeitsrisicoklasse. Dit resulteert in het door een zorgverzekeraar ingebrachte aantal verzekerden met een FKG per FKG 2007 in de pool.
 
 - g. Het college sommeert het resultaat van onderdeel f, sub 2 voor alle zorgverzekeraars zodat per FKG 2007 per morbiditeitsrisicoklasse een landelijke pool met het totaal aantal ingebrachte verzekerden per morbiditeitsrisicoklasse en het totaal aantal ingebrachte verzekerden met een FKG per FKG 2007 onstaat.
 
 - h. De landelijke pool met het totaal aantal ingebrachte verzekerden, bedoeld in onderdeel g, wordt daarna als volgt opnieuw berekend:
 
-- 1°. Het aantal verzekerden in de pool per morbiditeitsrisicoklasse wordt opnieuw berekend door het verschil per morbiditeitsrisicoklasse van het landelijk geraamde aantal verzekerden 2007 met het aantal verzekerden 2005 toe te voegen aan het aantal verzekerden in de pool per morbiditeitsrisicoklasse.
+   - 1°. Het aantal verzekerden in de pool per morbiditeitsrisicoklasse wordt opnieuw berekend door het verschil per morbiditeitsrisicoklasse van het landelijk geraamde aantal verzekerden 2007 met het aantal verzekerden 2005 toe te voegen aan het aantal verzekerden in de pool per morbiditeitsrisicoklasse.
 
-- 2°. Het aantal verzekerden in de pool per FKG per morbiditeitsrisicoklasse wordt opnieuw berekend door het verschil per morbiditeitsrisicoklasse van het landelijk geraamde aantal verzekerden 2007 met het aantal verzekerden 2005 te vermenigvuldigen met de landelijke relatieve FKG 2007-prevalentie 2006 en toe te voegen aan het aantal verzekerden in de pool per FKG per morbiditeitsrisicoklasse.
+   - 2°. Het aantal verzekerden in de pool per FKG per morbiditeitsrisicoklasse wordt opnieuw berekend door het verschil per morbiditeitsrisicoklasse van het landelijk geraamde aantal verzekerden 2007 met het aantal verzekerden 2005 te vermenigvuldigen met de landelijke relatieve FKG 2007-prevalentie 2006 en toe te voegen aan het aantal verzekerden in de pool per FKG per morbiditeitsrisicoklasse.
 
-- 3°. Na de herberekening van het aantal verzekerden in de pool per FKG 2007 per morbiditeitsrisicoklasse wordt per FKG 2007 per morbiditeitsrisicoklasse de geraamde relatieve prevalentie FKG 2007-prevalentie 2006 van de pool bepaald door de som van aantal verzekerden met die FKG in de pool te delen door de som van het totaal aantal verzekerden in de pool per bijbehorende morbiditeitsrisicoklasse.
+   - 3°. Na de herberekening van het aantal verzekerden in de pool per FKG 2007 per morbiditeitsrisicoklasse wordt per FKG 2007 per morbiditeitsrisicoklasse de geraamde relatieve prevalentie FKG 2007-prevalentie 2006 van de pool bepaald door de som van aantal verzekerden met die FKG in de pool te delen door de som van het totaal aantal verzekerden in de pool per bijbehorende morbiditeitsrisicoklasse.
 
 - i. Wanneer voor een zorgverzekeraar in een morbiditeitsrisicoklasse het geraamde aantal verzekerden 2007 groter is dan het aantal verzekerden 2005 in die morbiditeitsrisicoklasse, wordt het aantal verzekerden 2007 per FKG 2007 per morbiditeitsrisicoklasse als volgt berekend:
 
-- 1°. Het college vermenigvuldigt het aantal verzekerden 2005 per morbiditeitsrisicoklasse met de geraamde zorgverzekeraarspecifieke FKG 2007-prevalentie 2006 per FKG 2007 per morbiditeitsrisicoklasse.
+   - 1°. Het college vermenigvuldigt het aantal verzekerden 2005 per morbiditeitsrisicoklasse met de geraamde zorgverzekeraarspecifieke FKG 2007-prevalentie 2006 per FKG 2007 per morbiditeitsrisicoklasse.
 
-- 2°. Het college voegt per FKG 2007 per morbiditeitsrisicoklasse aan het resultaat van onderdeel i, sub 1 toe de geraamde groei van het aantal verzekerden van 2007 op 2005, vermenigvuldigd met de geraamde relatieve prevalentie van de betreffende pool, zoals bepaald in onderdeel h, sub 3.
+   - 2°. Het college voegt per FKG 2007 per morbiditeitsrisicoklasse aan het resultaat van onderdeel i, sub 1 toe de geraamde groei van het aantal verzekerden van 2007 op 2005, vermenigvuldigd met de geraamde relatieve prevalentie van de betreffende pool, zoals bepaald in onderdeel h, sub 3.
 
 - j. Vervolgens worden per verzekeraar de verzekerdenaantallen 2007 per morbiditeitsrisicoklasse per FKG 2007 over de morbiditeitsrisicoklassen gesommeerd en afgerond op nul decimalen.
 
@@ -175,17 +149,17 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 - i. Het aantal verzekerden in de pool, bedoeld in onderdeel g, wordt als volgt opnieuw berekend:
 
-- 1°. Het aantal verzekerden in de pool per morbiditeitsrisicoklasse wordt opnieuw berekend door het verschil per morbiditeitsrisicoklasse van het landelijk geraamde aantal verzekerden 2007 met het aantal verzekerden 2004 toe te voegen aan het aantal verzekerden in de pool per morbiditeitsklasse.
+   - 1°. Het aantal verzekerden in de pool per morbiditeitsrisicoklasse wordt opnieuw berekend door het verschil per morbiditeitsrisicoklasse van het landelijk geraamde aantal verzekerden 2007 met het aantal verzekerden 2004 toe te voegen aan het aantal verzekerden in de pool per morbiditeitsklasse.
 
-- 2°. Het aantal verzekerden in de pool per DKG per morbiditeitsrisicoklasse wordt opnieuw berekend door het verschil per morbiditeitsrisicoklasse van het landelijk geraamde aantal verzekerden 2007 met het aantal verzekerden 2004 te vermenigvuldigen met de landelijke relatieve DKG 2007-prevalentie 2004 en toe te voegen aan het aantal verzekerden in de pool per DKG per morbiditeitsklasse.
+   - 2°. Het aantal verzekerden in de pool per DKG per morbiditeitsrisicoklasse wordt opnieuw berekend door het verschil per morbiditeitsrisicoklasse van het landelijk geraamde aantal verzekerden 2007 met het aantal verzekerden 2004 te vermenigvuldigen met de landelijke relatieve DKG 2007-prevalentie 2004 en toe te voegen aan het aantal verzekerden in de pool per DKG per morbiditeitsklasse.
 
-- 3°. Na de herberekening van het aantal verzekerden in de pool per DKG 2007 per morbiditeitsrisicoklasse bepaalt het college per morbiditeitsrisicoklasse de geraamde relatieve prevalentie 2007 van de pool per DKG 2007 per morbiditeitsrisicoklasse door de som van het aantal verzekerden in de pool per DKG per morbiditeitsrisicoklasse te delen door de som van het totaal aantal verzekerden in de betreffende morbiditeitsrisicoklasse.
+   - 3°. Na de herberekening van het aantal verzekerden in de pool per DKG 2007 per morbiditeitsrisicoklasse bepaalt het college per morbiditeitsrisicoklasse de geraamde relatieve prevalentie 2007 van de pool per DKG 2007 per morbiditeitsrisicoklasse door de som van het aantal verzekerden in de pool per DKG per morbiditeitsrisicoklasse te delen door de som van het totaal aantal verzekerden in de betreffende morbiditeitsrisicoklasse.
 
 - j. Wanneer voor een zorgverzekeraar in een morbiditeitsrisicoklasse het geraamde aantal verzekerden 2007 groter is dan het gemiddeld aantal verzekerden 2004, wordt het aantal verzekerden 2007 per DKG 2007 per morbiditeitsrisicoklasse als volgt berekend:
 
-- 1°. Het college vermenigvuldigt het aantal verzekerden 2004 per morbiditeitsrisicoklasse met de in onderdeel b berekende landelijke DKG 2007-prevalentie 2004 per DKG 2007 per morbiditeitsrisicoklasse en vermenigvuldigt dat resultaat weer met de onder d berekende zorgverzekeraarspecifieke DKG 2007-factor per DKG 2007
+   - 1°. Het college vermenigvuldigt het aantal verzekerden 2004 per morbiditeitsrisicoklasse met de in onderdeel b berekende landelijke DKG 2007-prevalentie 2004 per DKG 2007 per morbiditeitsrisicoklasse en vermenigvuldigt dat resultaat weer met de onder d berekende zorgverzekeraarspecifieke DKG 2007-factor per DKG 2007
 
-- 2°. Het college voegt per DKG 2007 per morbiditeitsrisicoklasse aan het resultaat van onderdeel a toe de geraamde groei van het aantal verzekerden van 2007 op 2004, vermenigvuldigd met de geraamde relatieve prevalentie 2007 van de betreffende pool per DKG per morbiditeitsrisicoklasse, zoals bepaald in onderdeel i, sub 3.
+   - 2°. Het college voegt per DKG 2007 per morbiditeitsrisicoklasse aan het resultaat van onderdeel a toe de geraamde groei van het aantal verzekerden van 2007 op 2004, vermenigvuldigd met de geraamde relatieve prevalentie 2007 van de betreffende pool per DKG per morbiditeitsrisicoklasse, zoals bepaald in onderdeel i, sub 3.
 
 - k. Vervolgens worden per zorgverzekeraar per DKG 2007 de aantallen verzekerden per DKG 1 tot met 13 2007 per morbiditeitsrisicoklasse over de morbiditeitsrisicoklassen gesommeerd en afgerond op vier decimalen.
 
@@ -197,7 +171,7 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp hanteert het college als uitgangspunten:
 
-- a. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2007 naar leeftijd en geslacht, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&bijlage=3&z=2010-10-02&g=2010-10-02) bij deze regeling beleidsregels;
+1. - a. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2007 naar leeftijd en geslacht, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&bijlage=3&z=2010-10-02&g=2010-10-02) bij deze regeling beleidsregels;
 
 - b. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 0 t/m 20 2007, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&bijlage=5&z=2010-10-02&g=2010-10-02) bij deze regeling beleidsregels;
 
@@ -239,7 +213,7 @@ Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverple
 
 2. Indien het gemiddelde aantal verzekerden van een zorgverzekeraar in 2005 minder dan 10.000 bedraagt, wordt voor de zorgverzekeraars bij de berekening bedoeld in het eerste lid, voor de onderdelen a en b voor voormalige ziekenfondsverzekerden uitgegaan van de kosten van ziekenhuisverpleging 2005 van alle ziekenfondsen en voor voormalig particulier verzekerden uitgegaan van de kosten van alle privaatrechtelijke en publiekrechtelijke ziektekostenverzekeraars. In de berekening wordt voor voormalig ziekenfondsverzekerden verder uitgegaan van de aantallen voormalig ziekenfondsverzekerden 2005 van alle ziekenfondsen en voor voormalig particulier verzekerden van het totaal aantal verzekerden 2005 van alle privaatrechtelijke en publiekrechtelijke ziektekostenverzekeraars. Deze werkwijze wordt ook gevolgd wanneer de zorgverzekeraar geen juiste of geen volledige opgave over 2005 aan het college heeft gedaan of wanneer een opgave niet mogelijk is.
 
-- a. Het college berekent per zorgverzekeraar het deelbedrag overige vaste kosten van ziekenhuisverpleging samenhangend met de overige vaste kosten van ziekenhuisverpleging 2007 voor voormalig ziekenfondsverzekerden door het zorgverzekeraarspecifieke bedrag vaste kosten van ziekenhuisverpleging samenhangend met de overige vaste kosten van ziekenhuisverpleging per geraamde voormalig ziekenfondsverzekerde 2007 te vermenigvuldigen met het totaal aantal geraamde voormalig ziekenfondsverzekerden 2007.
+3. - a. Het college berekent per zorgverzekeraar het deelbedrag overige vaste kosten van ziekenhuisverpleging samenhangend met de overige vaste kosten van ziekenhuisverpleging 2007 voor voormalig ziekenfondsverzekerden door het zorgverzekeraarspecifieke bedrag vaste kosten van ziekenhuisverpleging samenhangend met de overige vaste kosten van ziekenhuisverpleging per geraamde voormalig ziekenfondsverzekerde 2007 te vermenigvuldigen met het totaal aantal geraamde voormalig ziekenfondsverzekerden 2007.
 
 - b. Het college berekent per zorgverzekeraar het deelbedrag overige vaste kosten van ziekenhuisverpleging samenhangend met de overige vaste kosten van ziekenhuisverpleging 2007 voor voormalig particulier verzekerden door het zorgverzekeraarspecifieke bedrag vaste kosten van ziekenhuisverpleging samenhangend met de overige vaste kosten van ziekenhuisverpleging per geraamde voormalig particulier verzekerde 2007 te vermenigvuldigen met het totaal aantal geraamde voormalig particulier verzekerden 2007 van de betreffende zorgverzekeraar.
 
@@ -419,7 +393,7 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2007 besluit zich te
 
 12. Het resultaat van het elfde lid wordt aangeduid als het voorlopige herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2007.
 
-- a. Voor de toepassing van [artikel 3.9, twaalfde lid, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.9) trekt het college van het voorlopige herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2007 af de kosten van ziekenhuisverpleging en kosten van specialistische hulp 2007, zoals bepaald in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&artikel=17&z=2010-10-02&g=2010-10-02).
+13. - a. Voor de toepassing van [artikel 3.9, twaalfde lid, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.9) trekt het college van het voorlopige herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2007 af de kosten van ziekenhuisverpleging en kosten van specialistische hulp 2007, zoals bepaald in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&artikel=17&z=2010-10-02&g=2010-10-02).
 
 - b. Indien het in onderdeel a bepaalde bedrag groter is dan het aantal verzekerden van 18 jaar en ouder 2007 maal 17,50 euro, dan trekt het college 90 procent van het meerdere af van het voorlopig herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2007.
 
@@ -499,774 +473,7 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2007 besluit zich te
 
 6. Het college stelt de bijdrage 2007 voorlopig vast ter hoogte van de in het vorige lid berekende bijdrage.
 
-### Hoofdstuk IV. De vaststelling van de bijdrage 2007 aan een zorgverzekeraar
-
-##### Artikel 22. Algemene bepaling
-
-Het college herberekent de vereveningsbijdrage definitief met inachtneming van de correcties die voortkomen uit de reviewrapportage die de Nederlandse Zorgautoriteit uitbrengt over de lasten 2007 uit de opgave jaarstaat 2009 per 1 juli 2010.
-
-##### Artikel 23. De definitieve herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2007
-
-Het college herberekent definitief het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2007 overeenkomstig [artikel 21c](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IIIA&artikel=21c&z=2010-10-02&g=2010-10-02), met inachtneming van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IV&artikel=22&z=2010-10-02&g=2010-10-02).
-
-##### Artikel 24. De definitieve herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2007
-
-Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2007 overeenkomstig [artikel 21d](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IIIA&artikel=21d&z=2010-10-02&g=2010-10-02), met inachtneming van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IV&artikel=22&z=2010-10-02&g=2010-10-02).
-
-##### Artikel 25. De definitieve herberekening van het deelbedrag kosten van overige prestaties 2007
-
-Het college herberekent definitief het deelbedrag kosten van overige prestaties 2007 overeenkomstig [artikel 21e](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IIIA&artikel=21e&z=2010-10-02&g=2010-10-02), met inachtneming van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IV&artikel=22&z=2010-10-02&g=2010-10-02).
-
-##### Artikel 26. De definitieve herberekening van de normatieve no-claimteruggave 2006
-
-1. Het college herberekent de gewichten no-claimteruggave op basis van de verzekerdenaantallen 2007 en de door de zorgverzekeraars verantwoorde no-claimteruggave 2007 uit het financieel verslag 2007, inclusief de correctie hierop uit het financieel verslag 2008, definitief op de volgende wijze:
-
-- a. Het college herberekent definitief de landelijke gemiddelde no-claimteruggave per verzekerde van 18 jaar en ouder 2007 door de som van de no-claimteruggaven 2007 over alle zorgverzekeraars te delen door som van de aantallen verzekerden 2007 van 18 jaar en ouder in 2007 van alle zorgverzekeraars.
-
-- b. Het college herberekent definitief de normatieve no-claimteruggave 2007 voor alle verzekerden 2007 overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=11&z=2010-10-02&g=2010-10-02) op basis van de bij het college bekende totale verzekerdenaantallen 2007 naar risicoklassen naar leeftijd en geslacht 2007, naar aard van het inkomenklassen 2007 en naar regioklassen 2007.
-
-- c. Het college herberekent definitief de no-claimschalingsfactor 2007 door de landelijke gemiddelde no-claimteruggave per verzekerde van 18 jaar en ouder 2007, berekend in onderdeel a, te vermenigvuldigen met het totaal aantal verzekerden 2007 van 18 jaar en ouder 2007, en dat vervolgens weer te delen door de in onderdeel b herberekende normatieve no-claimteruggave voor alle verzekerden 2007, en deze vervolgens af te ronden op zeven decimalen.
-
-- d. Het college herberekent definitief de gewichten no-claimteruggave per verzekerde per risicoklasse 2007, per aard van het inkomenklasse 2007 en per regioklasse 2007 door de overeenkomstige gewichten uit [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=11&z=2010-10-02&g=2010-10-02) te vermenigvuldigen met de no-claimschalingsfactor 2007, herberekend in onderdeel c, en deze vervolgens op twee decimalen af te ronden.
-
-2. Het college herberekent definitief de normatieve no-claimteruggave als volgt:
-
-- a. Per zorgverzekeraar worden de op grond van het eerste lid, onderdeel d, definitief herberekende gewichten no-claimteruggave per verzekerde per risicoklasse 2007 naar leeftijd en geslacht per overeenkomstige risicoklasse vermenigvuldigd met de aantallen verzekerden van 18 jaar en ouder per risicoklasse 2007. De uitkomsten worden per zorgverzekeraar gesommeerd.
-
-- b. Per zorgverzekeraar worden de op grond van het eerste lid, onderdeel d, definitief herberekende gewichten no-claimteruggave per verzekerde per aard van het inkomenklasse 2007 per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per aard van het inkomenklasse 2007. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van onderdeel a.
-
-- c. Per zorgverzekeraar worden de op grond van het eerste lid, onderdeel d, definitief herberekende gewichten no-claimteruggave per verzekerde per regioklasse 2007 per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per regioklasse 2007. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van onderdeel b.
-
-- d. Het resultaat van onderdeel c wordt aangeduid als de definitieve normatieve no-claimteruggave 2007.
-
-##### Artikel 27. De definitieve herberekening van het normatieve bedrag 2007 en de definitieve herberekening en de vaststelling van de bijdrage 2007
-
-1. Het college herberekent het normatieve bedrag 2007 definitief als de som van het definitieve deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2007 na toepassing van [artikel 3.9, twaalfde lid van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.9), het definitieve deelbedrag vaste kosten van ziekenhuisverpleging 2007 en het definitieve deelbedrag kosten van overige prestaties 2007.
-
-2. Het college bepaalt de definitieve opbrengst van de nominale rekenpremie per zorgverzekeraar door de verzekerden van 18 jaar en ouder 2007 per zorgverzekeraar te vermenigvuldigen met de nominale rekenpremie 2007.
-
-3. Het college vermindert het resultaat van het tweede lid met het bedrag dat de zorgverzekeraar verantwoordt in zijn jaarverslag als gederfde inkomsten voor verzekerden van 18 jaar en ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
-
-4. Het college berekent de definitieve aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar door het aantal verzekerden jonger dan 18 jaar 2007 te vermenigvuldigen met 50 euro.
-
-5. Het college berekent de bijdrage 2007 definitief door van de som van het definitieve normatieve bedrag 2007 bedoeld in het eerste lid, de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in het vierde lid en de definitieve normatieve no-claimteruggave bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IV&artikel=26&z=2010-10-02&g=2010-10-02), de opbrengst van de nominale rekenpremie, bedoeld in het derde lid, af te trekken.
-
-6. Het college stelt de bijdrage 2007 vast ter hoogte van de in het vorige lid definitief berekende bijdrage.
-
-### Hoofdstuk V. De uitkering voor de kosten van prestaties die door het college naar het werkelijk bedrag worden vergoed
-
-##### Artikel 28
-
-1. Bij gelegenheid van de vaststelling van de bijdrage 2007 als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IV&artikel=27&z=2010-10-02&g=2010-10-02) stelt het college per zorgverzekeraar ook de uitkering 2007 vast voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed.
-
-2. In afwachting van de vaststelling van de uitkering 2007 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de voorlopige vaststelling van de bijdrage 2007 bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&artikel=21&z=2010-10-02&g=2010-10-02) ook de voorlopige uitkering 2007 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, vast.
-
-### Hoofdstuk VI. De betalingen aan de zorgverzekeraars
-
-##### Artikel 29
-
-1. Het college betaalt de zorgverzekeraars de bijdrage, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=12&z=2010-10-02&g=2010-10-02), uit, verminderd met het bedrag voor de geraamde normatieve no-claimteruggave. Het college maakt bij de betalingen onderscheid naar de volgende bestanddelen:
-
-- a. het deel van het normatieve bedrag 2007 dat betrekking heeft op het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en het deelbedrag vaste kosten van ziekenhuisverpleging, met uitzondering van het deelbedrag samenhangend met de academische component, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=9&z=2010-10-02&g=2010-10-02);
-
-- b. het deelbedrag samenhangend met de academische component, bedoeld in artikel 9, vierde lid;
-
-- c. het deel van het normatieve bedrag 2007 dat betrekking heeft op het deelbedrag kosten van overige prestaties;
-
-- d. een aftrekpost voor de geraamde opbrengst van de nominale rekenpremie;
-
-2. Het college betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=12&z=2010-10-02&g=2010-10-02).
-
-3. Het college betaalt de zorgverzekeraars de normatieve no-claimteruggave bedoeld in [artikel 14, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=14&z=2010-10-02&g=2010-10-02).
-
-4. Voor de betaling van de kosten, die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar werkelijke kosten worden vergoed, kan het college ambtshalve een bedrag vaststellen, waarmee de betaling aan de zorgverzekeraars wordt verhoogd.
-
-5. Indien toepassing van onderscheidenlijk het eerste, tweede en vierde lid resulteert in een negatief saldo voor de zorgverzekeraar, schort het CVZ de betalingen aan de zorgverzekeraar op, tot het negatieve saldo is verrekend.
-
-##### Artikel 30
-
-1. De bestanddelen genoemd in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=29&z=2010-10-02&g=2010-10-02), alsmede de uitkering bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=29&z=2010-10-02&g=2010-10-02), betaalt het college in termijnen op de eerste werkdag van de maand, overeenkomstig onderstaand betalingsschema:
-
-| Betaalmoment | Lid 1, onder a | Lid 1, onder b | Lid 1, onder c | Lid 1, onder d | Lid 2 |
-| --- | --- | --- | --- | --- | --- |
-| Januari 2007 |   |   |   | 8,333400% |   |
-| februari 2007 | 0,919500% | 8,333300% |   | 8,333300% | 8,333300% |
-| maart 2007 | 2,643700% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| april 2007 | 4,367800% | 8,333400% | 8,333400% | 8,333400% | 8,333400% |
-| mei 2007 | 6,092000% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| juni 2007 | 7,643500% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| juli 2007 | 8,333300% | 8,333400% | 8,333400% | 8,333400% | 8,333400% |
-| augustus 2007 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| september 2007 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| oktober 2007 | 8,333300% | 8,333400% | 8,333400% | 8,333400% | 8,333400% |
-| November 2007 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| December 2007 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
-| januari 2008 | 8,333300% | 8,333400% | 8,333400% |   | 8,333400% |
-| februari 2008 | 7,413900% |   | 8,333300% |   |   |
-| maart 2008 | 5,689700% |   |   |   |   |
-| april 2008 | 3,965600% |   |   |   |   |
-| mei 2008 | 2,241400% |   |   |   |   |
-| Juni 2008 | 0,689800% |   |   |   |   |
-
-2. Het college betaalt de normatieve no-claimteruggave, bedoeld in [artikel 14, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=14&z=2010-10-02&g=2010-10-02), aan de zorgverzekeraars in één termijn op de laatste werkdag van de maand maart 2008.
-
-3. Voor een zorgverzekeraar, die zich op grond van [artikel 25 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=25) aanmeldt bij het College van toezicht op de zorgverzekeringen nadat het College voor zorgverzekeringen de bijdragen voor de zorgverzekeraars heeft toegekend, kan het college voor die zorgverzekeraar afwijken van het betalingsschema in het eerste lid.
-
-4. In bijzondere omstandigheden, wanneer de betalingen voor een zorgverzekeraar kennelijk ontoereikend zijn, kan het college op verzoek van die zorgverzekeraar de betalingen verhogen. Indien de betalingen kennelijk ontoereikend zijn wegens toename van het aantal verzekerden dat bij de zorgverzekeraar is ingeschreven, voldoet het college aan een verzoek van de zorgverzekeraar om verhoging van de betalingen, wanneer die toename tenminste 5 procent bedraagt, met een minimum van 3.000 verzekerden, ten opzichte van het verzekerdenaantal dat aan de berekening van de bijdrage ten grondslag heeft gelegen. Het minimum van 3.000 verzekerden geldt niet als de toename 25 procent of meer bedraagt.
-
-##### Artikel 31
-
-1. Indien het college de bijdragen voor de zorgverzekeraars herziet, op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&artikel=16&z=2010-10-02&g=2010-10-02), herziet het college ook de te betalen termijnen overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02). Het college verrekent het verschil tussen de reeds betaalde termijnen en de herziene termijnen op de eerste werkdag van de maand juni 2007.
-
-2. Indien het college de bijdrage voorlopig vaststelt, op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&z=2010-10-02&g=2010-10-02), herziet het college ook de te betalen termijnen overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02). Op de eerste werkdag van de maand augustus 2008 verrekent het college het verschil tussen de voor het jaar 2008 betaalde termijnen en de herziene termijnen.
-
-3. Bij gelegenheid van de tweede voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IIIA&z=2010-10-02&g=2010-10-02), herziet het college de te betalen termijnen voor de derde keer overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02). Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de derde maal herziene termijnen.
-
-4. Bij gelegenheid van de definitieve vaststelling van de bijdrage, op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IV&z=2010-10-02&g=2010-10-02), stelt het college de te betalen termijnen definitief vast overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02). Het college verrekent het verschil tussen de reeds betaalde termijnen en de definitief te betalen termijnen.
-
-5. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een positief saldo voor de zorgverzekeraar, betaalt het college dat saldo ineens aan de zorgverzekeraar, behoudens een eventuele verrekening met een vordering op de zorgverzekeraar uit hoofde van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
-
-6. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een negatief saldo voor de zorgverzekeraar, wordt dat saldo ineens door de desbetreffende zorgverzekeraar aan het college terugbetaald, behoudens voor zover het college het bedrag heeft verrekend met enige vordering op de zorgverzekeraar op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
-
-##### Artikel 32
-
-1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02).
-
-2. De rente, bedoeld in het eerste lid, wordt bij de voorlopige, tweede voorlopige en definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
-
-##### Artikel 33
-
-1. Bij de verrekening van verschillen, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
-
-2. Bij de verrekening van de verschillen, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02), tot de datum van de voorlopige vaststelling van de bijdrage.
-
-3. Bij de verrekening van de verschillen, bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02) tot de datum van de tweede voorlopige vaststelling van de bijdrage.
-
-4. Bij de verrekening van de verschillen, bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02), tot de datum van de definitieve vaststelling van de bijdrage.
-
-5. Voor een zorgverzekeraar waarvoor krachtens artikel 30, derde en vierde lid, afwijkende betalingen hebben plaatsgevonden, kan het college bij de renteberekening afwijken van de vorige leden.
-
-6. Voor het rentepercentage gaat het college uit van het gemiddelde van de maandrentes van het Euro Interbank Offered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de periodes, bedoeld in het eerste, tweede en derde lid. Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand. Het percentage wordt verhoogd met 0,3 procentpunt bij een voor de zorgverzekeraar positief saldo, als bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02). Het percentage wordt verlaagd met 0,3 procentpunt bij een voor de zorgverzekeraar negatief saldo, als bedoeld in [artikel 31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02).
-
-7. De rente betreft een samengestelde rente en wordt op maandbasis berekend.
-
-Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
-
-8. Indien de situatie zich voordoet dat het in deze paragraaf bedoelde Euro Interbank Offered Rate (Euribortarief) niet meer kan worden toegepast, zal een zoveel als mogelijk overeenkomstig tarief worden gehanteerd.
-
-### Hoofdstuk VII. Slotbepalingen
-
-##### Artikel 34
-
-Deze regeling treedt in werking met ingang 1 januari 2007.
-
-##### Artikel 35
-
-Deze regeling wordt aangehaald als: Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007.
-
-## Bijlage 1. Prevalentie-ontwikkeling 2005–2006 per morbiditeitsrisicoklasse per FKG 2007
-
-Bron: College voor zorgverzekeringen
-
-| Mannen | 0 | 1 | 2 | 3 | 4 | 5 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd |   | Nieraandoeningen | HIV/AIDS | Aand. van hersenen/ruggemerg | Cystic fibrosis/pancreas | Parkinson |
-| 0 t/m 14 | 0,998893 | 1,426106 | 1,116083 | 1,122817 | 1,013606 | 1 |
-| 15 t/m 29 | 0,999173 | 1,302976 | 1,139497 | 1,101291 | 0,975536 | 1,187609 |
-| 30 t/m 44 | 0,996798 | 1,026366 | 1,031111 | 1,029009 | 1,085433 | 0,997834 |
-| 45 t/m 59 | 0,990436 | 1,032688 | 1,124911 | 1,039496 | 1,251895 | 1,015046 |
-| 60 t/m 74 | 0,976663 | 1,122469 | 1,091475 | 1,103261 | 1,2162 | 1,008873 |
-| 75 e.o. | 0,955354 | 1,279458 | 1,402485 | 1,00608 | 1,282163 | 1,03161 |
-
-| Vrouwen | 0 | 1 | 2 | 3 | 4 | 5 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd |   | Nieraandoeningen | HIV/AIDS | Aand. van hersenen/ruggemerg | Cystic fibrosis/pancreas | Parkinson |
-| 0 t/m 14 | 0,999351 | 1,366298 | 0,982776 | 0,817981 | 1,022354 | 1 |
-| 15 t/m 29 | 0,999453 | 0,996534 | 1,126552 | 1,078021 | 1,276635 | 0,832694 |
-| 30 t/m 44 | 0,997602 | 1,09796 | 1,107493 | 1,077631 | 1,1707 | 1,094064 |
-| 45 t/m 59 | 0,990936 | 1,073812 | 1,298909 | 1,066214 | 1,25804 | 1,069876 |
-| 60 t/m 74 | 0,982691 | 1,11182 | 1,191863 | 1,112355 | 1,229627 | 1,020888 |
-| 75 e.o. | 0,966982 | 1,400238 | 0,99307 | 0,977553 | 1,148017 | 0,996106 |
-|   |   |   |   |   |   |   |
-| Totaal | 0,991647 | 1,175924 | 1,091261 | 1,071878 | 1,190468 | 1,030972 |
-
-| Mannen | 6 | 7 | 8 | 9 | 10 | 11 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Transplantaties | Reuma | Hartaandoeningen | Hoog cholesterol | Epilepsie | Cara |
-| 0 t/m 14 | 0,978306 | 0,740194 | 1,179234 | 1,118515 | 1,075699 | 1,021368 |
-| 15 t/m 29 | 1,01518 | 1,244637 | 1,004787 | 1,054034 | 1,00318 | 0,992891 |
-| 30 t/m 44 | 1,075602 | 1,158817 | 0,989618 | 1,111098 | 1,01015 | 0,9832 |
-| 45 t/m 59 | 1,025653 | 1,100174 | 0,962873 | 1,070517 | 1,01898 | 1,016551 |
-| 60 t/m 74 | 1,07168 | 1,027907 | 0,968072 | 1,091431 | 1,03624 | 0,992519 |
-| 75 e.o. | 1,10505 | 1,080637 | 0,989317 | 1,194242 | 1,036795 | 1,006749 |
-
-| Vrouwen | 6 | 7 | 8 | 9 | 10 | 11 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Transplantaties | Reuma | Hartaandoeningen | Hoog cholesterol | Epilepsie | Cara |
-| 0 t/m 14 | 1,140979 | 1,121803 | 1,058374 | 1,132589 | 1,015053 | 1,038228 |
-| 15 t/m 29 | 1,109165 | 1,12695 | 1,04926 | 1,065054 | 1,042275 | 0,99953 |
-| 30 t/m 44 | 1,056403 | 1,113018 | 1,022049 | 1,111944 | 1,007104 | 1,008132 |
-| 45 t/m 59 | 1,058451 | 1,07509 | 0,97721 | 1,11477 | 1,032112 | 1,029547 |
-| 60 t/m 74 | 1,080378 | 1,072932 | 0,965843 | 1,09261 | 1,018717 | 1,016661 |
-| 75 e.o. | 1,079175 | 1,065545 | 0,989222 | 1,185164 | 1,005466 | 1,044856 |
-|   |   |   |   |   |   |   |
-| Totaal | 1,064863 | 1,092252 | 0,994021 | 1,126334 | 1,026266 | 1,022196 |
-
-| Mannen | 12 | 13 | 14 | 15 | 16 | 17 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Groeihormoon | Schildklieraandoeningen | Diabetes type I | Diabetes type IIa | Diabetes type IIb | Psychische aandoeningen |
-| 0 t/m 14 | 1,320428 | 0,967945 | 1,063786 | 1 | 1 | 1,078306 |
-| 15 t/m 29 | 1,179744 | 1,082847 | 1,014964 | 2,443081 | 0,915072 | 1,04363 |
-| 30 t/m 44 | 0,915834 | 1,045876 | 1,040504 | 1,276246 | 1,031939 | 1,038587 |
-| 45 t/m 59 | 1,256695 | 1,054377 | 1,051036 | 1,157666 | 0,98442 | 1,029787 |
-| 60 t/m 74 | 0,725482 | 1,051468 | 1,084016 | 1,188833 | 0,9752 | 1,03536 |
-| 75 e.o. |   |   |   |   |   |   |
-
-| Vrouwen | 12 | 13 | 14 | 15 | 16 | 17 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Groeihormoon | Schildklieraandoeningen | Diabetes type I | Diabetes type IIa | Diabetes type IIb | Psychische aandoeningen |
-| 0 t/m 14 | 1,347122 | 1,003934 | 1,05164 | 1 | 0,503373 | 1,122374 |
-| 15 t/m 29 | 1,064351 | 1,071563 | 1,041397 | 2,035474 | 1,173342 | 0,990094 |
-| 30 t/m 44 | 1,022724 | 1,052771 | 1,04737 | 1,286936 | 1,007593 | 1,005689 |
-| 45 t/m 59 | 1,099977 | 1,042328 | 1,040909 | 1,158184 | 0,99023 | 1,012821 |
-| 60 t/m 74 | 1,081733 | 1,019742 | 1,037509 | 1,173454 | 0,953899 | 1,009854 |
-| 75 e.o. | 2,317164 | 1,043468 | 1,069005 | 1,264793 | 0,974555 | 1,042182 |
-|   |   |   |   |   |   |   |
-| Totaal | 1,173485 | 1,050966 | 1,067289 | 1,218509 | 0,989934 | 1,026143 |
-
-| Mannen | 18 | 19 | 20 |
-| --- | --- | --- | --- |
-| Leeftijd | Glaucoom | Ziekte van Crohn/colitis ulcerosa | Kanker |
-| 0 t/m 14 | 0,907647 | 1,028547 | 4,026653 |
-| 15 t/m 29 | 1,037813 | 1,045435 | 0,990438 |
-| 30 t/m 44 | 1,04314 | 1,037084 | 1,150663 |
-| 45 t/m 59 | 1,038994 | 1,023383 | 1,237296 |
-| 60 t/m 74 | 1,022997 | 1,004742 | 1,31713 |
-| 75 e.o. | 1,023585 | 1,082889 | 1,40716 |
-
-| Vrouwen | 18 | 19 | 20 |
-| --- | --- | --- | --- |
-| Leeftijd | Glaucoom | Ziekte van Crohn/colitis ulcerosa | Kanker |
-| 0 t/m 14 | 1,073862 | 1,243627 | 1 |
-| 15 t/m 29 | 1,166832 | 1,021943 | 1,319289 |
-| 30 t/m 44 | 1,015858 | 0,99742 | 1,20268 |
-| 45 t/m 59 | 1,019488 | 1,064623 | 1,176525 |
-| 60 t/m 74 | 1,006107 | 1,057875 | 1,301372 |
-| 75 e.o. | 1,018396 | 1,057166 | 1,605584 |
-|   |   |   |   |
-| Totaal | 1,033657 | 1,037726 | 1,31075 |
-
-## Bijlage 2. Toewijzing FKG’s 2007 in het geval van samenloop van de een van de FKG’s Diabetes (Diabetes I, Diabetes IIa of Diabetes IIb) met een FKG voor Hoog Cholesterol en/of Hypertensie
-
-Bron: College voor zorgverzekeringen
-
-### **Toelichting**
-
-Groter of kleiner dan 180 verwijst naar de dagdosering voor de betreffende FKG. De tabel beschrijft de verschillende situaties die mogelijk zijn bij een samenloop van farmaciegebruik voor diabetes en cholesterol. In de laatste kolom staat aangegeven welke FKG’s toegewezen worden in de betreffende situatie.
-
-## Bijlage 3. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 4. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 5. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 6. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 7. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 8. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 9. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 10. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 11. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium Aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 12. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-**Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-| Regioklasse 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Zieken- vervoer | Kraamzorg | Farmaceutische hulp | Hulp- middelen | Totale overige prestaties |
-| 1 | 6,25 | 1,22 | 0,45 | –5,99 | –1,37 | –6,93 | 12,16 | –2,71 | 3,08 |
-| 2 | 6,1 | –0,08 | 0,24 | –4,67 | 0,64 | –5,99 | 4,27 | 2,18 | 2,69 |
-| 3 | 4,94 | –0,87 | 0,02 | –2,58 | 0,29 | –2,81 | 1,5 | 7,4 | 7,89 |
-| 4 | 4,29 | –1,73 | 0,34 | –1,76 | 0,48 | –1,23 | –2,95 | 5,98 | 3,42 |
-| 5 | 4,08 | –2,44 | 0,54 | –1,73 | 0,52 | –0,83 | –2,87 | 4,94 | 2,21 |
-| 6 | 3,95 | –2,04 | 0,79 | –1 | 2,14 | 0,92 | –7,8 | 4,67 | 1,63 |
-| 7 | 2,52 | –2,56 | 0,62 | –0,96 | 4,12 | 1,39 | –9,34 | 6,97 | 2,76 |
-| 8 | 1,91 | –3,71 | 0,47 | –0,66 | 4,72 | 1,37 | –14,67 | 4,36 | –6,21 |
-| 9 | 1 | –3,03 | 0,76 | –2,24 | 5,62 | 3,1 | –25,21 | 4,81 | –15,19 |
-| 10 | 0,24 | –5,08 | –0,06 | –3,3 | 5,73 | 1,5 | –29,64 | 0,73 | –29,88 |
-
-| Regioklasse 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Zieken- vervoer | Kraamzorg | Farmaceutische hulp | Hulp- middelen | Totale overige prestaties |
-| 1 | –8,96 | 2,27 | –1,65 | 0,74 | –5,87 | –2,18 | 25 | –7,92 | 1,43 |
-| 2 | –8,03 | 2,32 | –1,71 | 2,86 | –4,5 | –2,11 | 15,14 | –9,41 | –5,44 |
-| 3 | –5,98 | 3,63 | –0,88 | 4,11 | –3,94 | 0,31 | 19,38 | –6,99 | 9,64 |
-| 4 | –5,78 | 3,5 | –0,43 | 4,42 | –4,4 | 1,48 | 17,37 | –6,71 | 9,45 |
-| 5 | –5,04 | 3,84 | –0,43 | 4,33 | –3,6 | 1,6 | 14,58 | –6,77 | 8,51 |
-| 6 | –4,67 | 3,55 | –0,27 | 4,26 | –4,84 | 2,29 | 9,17 | –7,88 | 1,61 |
-| 7 | –5,29 | 3,75 | –0,46 | 4,38 | –3,27 | 1,86 | 7,58 | –8,82 | –0,27 |
-| 8 | –5,09 | 3,47 | –0,6 | 4,48 | –2,31 | 1,95 | 8,37 | –6,99 | 3,28 |
-| 9 | –5,54 | 3,95 | –0,53 | 2,13 | –2,75 | 2,15 | 6,55 | –7,25 | –1,29 |
-| 10 | –7,98 | 1,21 | –1,49 | 1,3 | –1,28 | 0,7 | –2,43 | –6,79 | –16,76 |
-
-| Regioklasse 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Zieken- vervoer | Kraamzorg | Farmaceutische hulp | Hulp- middelen | Totale overige prestaties |
-| 1 | –1,14 | 1,73 | –0,57 | –2,72 | –3,56 | –4,62 | 18,40 | –5,24 | 2,28 |
-| 2 | –0,77 | 1,09 | –0,71 | –1,01 | –1,86 | –4,10 | 9,55 | –3,45 | –1,26 |
-| 3 | –0,37 | 1,32 | –0,42 | 0,67 | –1,77 | –1,29 | 10,19 | 0,41 | 8,74 |
-| 4 | –0,60 | 0,81 | –0,03 | 1,24 | –1,89 | 0,09 | 6,93 | –0,19 | 6,36 |
-| 5 | –0,35 | 0,61 | 0,07 | 1,22 | –1,48 | 0,35 | 5,61 | –0,75 | 5,28 |
-| 6 | –0,24 | 0,68 | 0,27 | 1,56 | –1,25 | 1,59 | 0,45 | –1,43 | 1,63 |
-| 7 | –1,28 | 0,51 | 0,10 | 1,64 | 0,53 | 1,62 | –1,12 | –0,70 | 1,30 |
-| 8 | –1,49 | –0,22 | –0,05 | 1,84 | 1,30 | 1,65 | –3,47 | –1,16 | –1,60 |
-| 9 | –2,18 | 0,36 | 0,13 | –0,12 | 1,55 | 2,64 | –9,77 | –1,05 | –8,44 |
-| 10 | –3,75 | –2,02 | –0,75 | –1,06 | 2,32 | 1,11 | –16,42 | –2,92 | –23,49 |
-
-## Bijlage 13. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 6 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=6)
-
-### **Gewichten voor de no-claimteruggave per verzekerde per risicoklasse naar leeftijd en geslacht (in euro’s per verzekerde)**
-
-## Bijlage 14. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 6 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=6)
-
-### **Gewichten voor de no-claimteruggave per verzekerde per risicoklasse naar Aard van het inkomen (in euro’s per verzekerde)**
-
-## Bijlage 15. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 6 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=6)
-
-### **Gewichten voor de no-claimteruggave per verzekerde per risicoklasse naar regio (in euro’s per verzekerde)**
-
-PM Hier zijn 0–1 jarigen niet van toepassing omdat no-claim geldt vanaf 18 jaar.
-
-## Bijlage 16. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-PM Hier zijn 0–1 jarigen niet van toepassing omdat no-claim geldt vanaf 18 jaar.
-
-### **Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-## Bijlage 17. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5)
-
-### **Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-Bron: [Bijlage 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5)
-
-## Bijlage 18. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-### **Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-## Bijlage 19. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5)
-
-### **Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-## Bijlage 20. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5)
-
-### **Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-## Bijlage 21. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5)
-
-### **Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-## Bijlage 22. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5)
-
-### **Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-## Bijlage 23. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5)
-
-### **Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-## Bijlage 24. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5)
-
-### **Gewichten voor het criterium Aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-## Bijlage 25. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5)
-
-### **Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 29a
-
-1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&artikel=21&z=2010-10-02&g=2010-10-02), stelt het college het volgende vast:
-
-- a. De hoogte van het bedrag van de door de zorgverzekeraar ingevorderde boetes op grond van [artikel 96 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96);
-
-- b. Het vergoedingsbedrag waar de zorgverzekeraar voor de door hem zelf ingevorderde boetes op grond van [artikel 96, zesde lid, Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96) recht op heeft;
-
-- c. Het deel van het bedrag bedoeld onder a dat de zorgverzekeraar aan het Zorgverzekeringsfonds moet afdragen;
-
-- d. Het deel van het bedrag van de door het college zelf op grond van [artikel 96 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96) ingevorderde boetes waar de zorgverzekeraar als vergoeding recht op heeft.
-
-2. Het college verrekent de som van de onderdelen c tot en met d uit het eerste lid zo mogelijk met de op grond van [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&artikel=21&z=2010-10-02&g=2010-10-02), voorlopig vastgestelde bijdrage.
-
-3. Indien verrekening, als bedoeld in het tweede lid, niet mogelijk blijkt, vordert het college het door de zorgverzekeraar af te dragen bedrag bij de zorgverzekeraar in, dan wel betaalt het college het door de zorgverzekeraar te ontvangen bedrag, aan de zorgverzekeraar na.
-
-4. Bij gelegenheid van de tweede voorlopige vaststelling stelt het college opnieuw de hoogte van de in 2007 ingevorderde boetes vast, overeenkomstig de opgave van de zorgverzekeraars in de jaarstaat 2007 met inachtneming van de correcties van de Nederlandse Zorgautoriteit.
-
-5. Het college verrekent zo mogelijk, na toepassing van het vierde lid en overeenkomstig het tweede lid, de som van de onderdelen c en d uit het eerste lid met de op grond van [artikel 21g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IIIA&artikel=21g&z=2010-10-02&g=2010-10-02), voor de tweede maal voorlopig vastgestelde bijdrage.
-
-##### Artikel 29b
-
-1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&artikel=21&z=2010-10-02&g=2010-10-02), stelt het college het bedrag aan compensatie vast overeenkomstig [artikel 3.15a van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15a), voor iedere verzekerde ten aanzien van wie niet aan de premieplicht, bedoeld in [artikel 16 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=16), is of wordt voldaan.
-
-2. De zorgverzekeraar ontvangt compensatie onder de voorwaarde dat is voldaan aan het bepaalde in [artikel 3.18 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.18). Bij de voorlopige vaststelling baseert het college zich voor de vaststelling van de compensatie vanwege wanbetaling op de opgave van de zorgverzekeraars op 1 juli 2008 over het totale aantal wanbetalers en het totale aantal premieachterstandsdagen in de periode 1 januari 2006 tot en met 31 december 2007.
-
-3. De zorgverzekeraar dient de opgave, bedoeld in het tweede lid per wanbetaler als volgt te berekenen:
-
-- a. Een verzekerde wordt als wanbetaler aangemerkt als hij een premieschuld heeft van meer dan 6 maandpremies werkelijke nominale premie.
-
-- b. De zorgverzekeraar bepaalt per verzekerde de totale openstaande premieschuld over de periode 1 januari 2006 tot en met 31december 2007 op basis van de werkelijke nominale premies.
-
-- c. Het bedrag aan premieachterstand zet de zorgverzekeraar om in een periode van premieachterstand. Hierbij wordt verondersteld dat alle premie-inkomsten met de oudste openstaande premieschuld zijn verrekend.
-
-- d. De zorgverzekeraar berekent het compensatiebedrag per verzekerde door de verschuldigde nominale rekenpremie, op basis van de nominale premiebedragen 2006 en 2007, gedurende de totale periode, vastgesteld onder c te bepalen en dit bedrag te verminderen met de nominale rekenpremie gedurende de eerste 6 maanden van de onder c berekende periode.
-
-4. Het college stelt op basis van de opgave van de zorgverzekeraar het totaal van de berekende compensatiebedragen vast onder aftrek van de bedragen die eerder aan de zorgverzekeraar zijn uitgekeerd in het kader van de compensatieregeling voor wanbetalers.
-
-5. Het college keert het resultaat van het vierde lid uit.
-
-### Hoofdstuk VII. Slotbepalingen
-
-## Bijlage 1. Prevalentie-ontwikkeling 2005–2006 per morbiditeitsrisicoklasse per FKG 2007
-
-Bron: College voor zorgverzekeringen
-
-| Mannen | 0 | 1 | 2 | 3 | 4 | 5 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd |   | Nieraandoeningen | HIV/AIDS | Aand. van hersenen/ruggemerg | Cystic fibrosis/pancreas | Parkinson |
-| 0 t/m 14 | 0,998893 | 1,426106 | 1,116083 | 1,122817 | 1,013606 | 1 |
-| 15 t/m 29 | 0,999173 | 1,302976 | 1,139497 | 1,101291 | 0,975536 | 1,187609 |
-| 30 t/m 44 | 0,996798 | 1,026366 | 1,031111 | 1,029009 | 1,085433 | 0,997834 |
-| 45 t/m 59 | 0,990436 | 1,032688 | 1,124911 | 1,039496 | 1,251895 | 1,015046 |
-| 60 t/m 74 | 0,976663 | 1,122469 | 1,091475 | 1,103261 | 1,2162 | 1,008873 |
-| 75 e.o. | 0,955354 | 1,279458 | 1,402485 | 1,00608 | 1,282163 | 1,03161 |
-
-| Vrouwen | 0 | 1 | 2 | 3 | 4 | 5 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd |   | Nieraandoeningen | HIV/AIDS | Aand. van hersenen/ruggemerg | Cystic fibrosis/pancreas | Parkinson |
-| 0 t/m 14 | 0,999351 | 1,366298 | 0,982776 | 0,817981 | 1,022354 | 1 |
-| 15 t/m 29 | 0,999453 | 0,996534 | 1,126552 | 1,078021 | 1,276635 | 0,832694 |
-| 30 t/m 44 | 0,997602 | 1,09796 | 1,107493 | 1,077631 | 1,1707 | 1,094064 |
-| 45 t/m 59 | 0,990936 | 1,073812 | 1,298909 | 1,066214 | 1,25804 | 1,069876 |
-| 60 t/m 74 | 0,982691 | 1,11182 | 1,191863 | 1,112355 | 1,229627 | 1,020888 |
-| 75 e.o. | 0,966982 | 1,400238 | 0,99307 | 0,977553 | 1,148017 | 0,996106 |
-|   |   |   |   |   |   |   |
-| Totaal | 0,991647 | 1,175924 | 1,091261 | 1,071878 | 1,190468 | 1,030972 |
-
-| Mannen | 6 | 7 | 8 | 9 | 10 | 11 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Transplantaties | Reuma | Hartaandoeningen | Hoog cholesterol | Epilepsie | Cara |
-| 0 t/m 14 | 0,978306 | 0,740194 | 1,179234 | 1,118515 | 1,075699 | 1,021368 |
-| 15 t/m 29 | 1,01518 | 1,244637 | 1,004787 | 1,054034 | 1,00318 | 0,992891 |
-| 30 t/m 44 | 1,075602 | 1,158817 | 0,989618 | 1,111098 | 1,01015 | 0,9832 |
-| 45 t/m 59 | 1,025653 | 1,100174 | 0,962873 | 1,070517 | 1,01898 | 1,016551 |
-| 60 t/m 74 | 1,07168 | 1,027907 | 0,968072 | 1,091431 | 1,03624 | 0,992519 |
-| 75 e.o. | 1,10505 | 1,080637 | 0,989317 | 1,194242 | 1,036795 | 1,006749 |
-
-| Vrouwen | 6 | 7 | 8 | 9 | 10 | 11 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Transplantaties | Reuma | Hartaandoeningen | Hoog cholesterol | Epilepsie | Cara |
-| 0 t/m 14 | 1,140979 | 1,121803 | 1,058374 | 1,132589 | 1,015053 | 1,038228 |
-| 15 t/m 29 | 1,109165 | 1,12695 | 1,04926 | 1,065054 | 1,042275 | 0,99953 |
-| 30 t/m 44 | 1,056403 | 1,113018 | 1,022049 | 1,111944 | 1,007104 | 1,008132 |
-| 45 t/m 59 | 1,058451 | 1,07509 | 0,97721 | 1,11477 | 1,032112 | 1,029547 |
-| 60 t/m 74 | 1,080378 | 1,072932 | 0,965843 | 1,09261 | 1,018717 | 1,016661 |
-| 75 e.o. | 1,079175 | 1,065545 | 0,989222 | 1,185164 | 1,005466 | 1,044856 |
-|   |   |   |   |   |   |   |
-| Totaal | 1,064863 | 1,092252 | 0,994021 | 1,126334 | 1,026266 | 1,022196 |
-
-| Mannen | 12 | 13 | 14 | 15 | 16 | 17 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Groeihormoon | Schildklieraandoeningen | Diabetes type I | Diabetes type IIa | Diabetes type IIb | Psychische aandoeningen |
-| 0 t/m 14 | 1,320428 | 0,967945 | 1,063786 | 1 | 1 | 1,078306 |
-| 15 t/m 29 | 1,179744 | 1,082847 | 1,014964 | 2,443081 | 0,915072 | 1,04363 |
-| 30 t/m 44 | 0,915834 | 1,045876 | 1,040504 | 1,276246 | 1,031939 | 1,038587 |
-| 45 t/m 59 | 1,256695 | 1,054377 | 1,051036 | 1,157666 | 0,98442 | 1,029787 |
-| 60 t/m 74 | 0,725482 | 1,051468 | 1,084016 | 1,188833 | 0,9752 | 1,03536 |
-| 75 e.o. |   |   |   |   |   |   |
-
-| Vrouwen | 12 | 13 | 14 | 15 | 16 | 17 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Groeihormoon | Schildklieraandoeningen | Diabetes type I | Diabetes type IIa | Diabetes type IIb | Psychische aandoeningen |
-| 0 t/m 14 | 1,347122 | 1,003934 | 1,05164 | 1 | 0,503373 | 1,122374 |
-| 15 t/m 29 | 1,064351 | 1,071563 | 1,041397 | 2,035474 | 1,173342 | 0,990094 |
-| 30 t/m 44 | 1,022724 | 1,052771 | 1,04737 | 1,286936 | 1,007593 | 1,005689 |
-| 45 t/m 59 | 1,099977 | 1,042328 | 1,040909 | 1,158184 | 0,99023 | 1,012821 |
-| 60 t/m 74 | 1,081733 | 1,019742 | 1,037509 | 1,173454 | 0,953899 | 1,009854 |
-| 75 e.o. | 2,317164 | 1,043468 | 1,069005 | 1,264793 | 0,974555 | 1,042182 |
-|   |   |   |   |   |   |   |
-| Totaal | 1,173485 | 1,050966 | 1,067289 | 1,218509 | 0,989934 | 1,026143 |
-
-| Mannen | 18 | 19 | 20 |
-| --- | --- | --- | --- |
-| Leeftijd | Glaucoom | Ziekte van Crohn/colitis ulcerosa | Kanker |
-| 0 t/m 14 | 0,907647 | 1,028547 | 4,026653 |
-| 15 t/m 29 | 1,037813 | 1,045435 | 0,990438 |
-| 30 t/m 44 | 1,04314 | 1,037084 | 1,150663 |
-| 45 t/m 59 | 1,038994 | 1,023383 | 1,237296 |
-| 60 t/m 74 | 1,022997 | 1,004742 | 1,31713 |
-| 75 e.o. | 1,023585 | 1,082889 | 1,40716 |
-
-| Vrouwen | 18 | 19 | 20 |
-| --- | --- | --- | --- |
-| Leeftijd | Glaucoom | Ziekte van Crohn/colitis ulcerosa | Kanker |
-| 0 t/m 14 | 1,073862 | 1,243627 | 1 |
-| 15 t/m 29 | 1,166832 | 1,021943 | 1,319289 |
-| 30 t/m 44 | 1,015858 | 0,99742 | 1,20268 |
-| 45 t/m 59 | 1,019488 | 1,064623 | 1,176525 |
-| 60 t/m 74 | 1,006107 | 1,057875 | 1,301372 |
-| 75 e.o. | 1,018396 | 1,057166 | 1,605584 |
-|   |   |   |   |
-| Totaal | 1,033657 | 1,037726 | 1,31075 |
-
-## Bijlage 2. Toewijzing FKG’s 2007 in het geval van samenloop van de een van de FKG’s Diabetes (Diabetes I, Diabetes IIa of Diabetes IIb) met een FKG voor Hoog Cholesterol en/of Hypertensie
-
-### **Toelichting**
-
-## Bijlage 3. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 4. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 5. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 6. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 7. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 8. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 9. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 10. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 11. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium Aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 12. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-**Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-| Regioklasse 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Zieken- vervoer | Kraamzorg | Farmaceutische hulp | Hulp- middelen | Totale overige prestaties |
-| 1 | 6,25 | 1,22 | 0,45 | –5,99 | –1,37 | –6,93 | 12,16 | –2,71 | 3,08 |
-| 2 | 6,1 | –0,08 | 0,24 | –4,67 | 0,64 | –5,99 | 4,27 | 2,18 | 2,69 |
-| 3 | 4,94 | –0,87 | 0,02 | –2,58 | 0,29 | –2,81 | 1,5 | 7,4 | 7,89 |
-| 4 | 4,29 | –1,73 | 0,34 | –1,76 | 0,48 | –1,23 | –2,95 | 5,98 | 3,42 |
-| 5 | 4,08 | –2,44 | 0,54 | –1,73 | 0,52 | –0,83 | –2,87 | 4,94 | 2,21 |
-| 6 | 3,95 | –2,04 | 0,79 | –1 | 2,14 | 0,92 | –7,8 | 4,67 | 1,63 |
-| 7 | 2,52 | –2,56 | 0,62 | –0,96 | 4,12 | 1,39 | –9,34 | 6,97 | 2,76 |
-| 8 | 1,91 | –3,71 | 0,47 | –0,66 | 4,72 | 1,37 | –14,67 | 4,36 | –6,21 |
-| 9 | 1 | –3,03 | 0,76 | –2,24 | 5,62 | 3,1 | –25,21 | 4,81 | –15,19 |
-| 10 | 0,24 | –5,08 | –0,06 | –3,3 | 5,73 | 1,5 | –29,64 | 0,73 | –29,88 |
-
-| Regioklasse 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Zieken- vervoer | Kraamzorg | Farmaceutische hulp | Hulp- middelen | Totale overige prestaties |
-| 1 | –8,96 | 2,27 | –1,65 | 0,74 | –5,87 | –2,18 | 25 | –7,92 | 1,43 |
-| 2 | –8,03 | 2,32 | –1,71 | 2,86 | –4,5 | –2,11 | 15,14 | –9,41 | –5,44 |
-| 3 | –5,98 | 3,63 | –0,88 | 4,11 | –3,94 | 0,31 | 19,38 | –6,99 | 9,64 |
-| 4 | –5,78 | 3,5 | –0,43 | 4,42 | –4,4 | 1,48 | 17,37 | –6,71 | 9,45 |
-| 5 | –5,04 | 3,84 | –0,43 | 4,33 | –3,6 | 1,6 | 14,58 | –6,77 | 8,51 |
-| 6 | –4,67 | 3,55 | –0,27 | 4,26 | –4,84 | 2,29 | 9,17 | –7,88 | 1,61 |
-| 7 | –5,29 | 3,75 | –0,46 | 4,38 | –3,27 | 1,86 | 7,58 | –8,82 | –0,27 |
-| 8 | –5,09 | 3,47 | –0,6 | 4,48 | –2,31 | 1,95 | 8,37 | –6,99 | 3,28 |
-| 9 | –5,54 | 3,95 | –0,53 | 2,13 | –2,75 | 2,15 | 6,55 | –7,25 | –1,29 |
-| 10 | –7,98 | 1,21 | –1,49 | 1,3 | –1,28 | 0,7 | –2,43 | –6,79 | –16,76 |
-
-| Regioklasse 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Zieken- vervoer | Kraamzorg | Farmaceutische hulp | Hulp- middelen | Totale overige prestaties |
-| 1 | –1,14 | 1,73 | –0,57 | –2,72 | –3,56 | –4,62 | 18,40 | –5,24 | 2,28 |
-| 2 | –0,77 | 1,09 | –0,71 | –1,01 | –1,86 | –4,10 | 9,55 | –3,45 | –1,26 |
-| 3 | –0,37 | 1,32 | –0,42 | 0,67 | –1,77 | –1,29 | 10,19 | 0,41 | 8,74 |
-| 4 | –0,60 | 0,81 | –0,03 | 1,24 | –1,89 | 0,09 | 6,93 | –0,19 | 6,36 |
-| 5 | –0,35 | 0,61 | 0,07 | 1,22 | –1,48 | 0,35 | 5,61 | –0,75 | 5,28 |
-| 6 | –0,24 | 0,68 | 0,27 | 1,56 | –1,25 | 1,59 | 0,45 | –1,43 | 1,63 |
-| 7 | –1,28 | 0,51 | 0,10 | 1,64 | 0,53 | 1,62 | –1,12 | –0,70 | 1,30 |
-| 8 | –1,49 | –0,22 | –0,05 | 1,84 | 1,30 | 1,65 | –3,47 | –1,16 | –1,60 |
-| 9 | –2,18 | 0,36 | 0,13 | –0,12 | 1,55 | 2,64 | –9,77 | –1,05 | –8,44 |
-| 10 | –3,75 | –2,02 | –0,75 | –1,06 | 2,32 | 1,11 | –16,42 | –2,92 | –23,49 |
-
-## Bijlage 13. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 6 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=6)
-
-### **Gewichten voor de no-claimteruggave per verzekerde per risicoklasse naar leeftijd en geslacht (in euro’s per verzekerde)**
-
-## Bijlage 14. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 6 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=6)
-
-### **Gewichten voor de no-claimteruggave per verzekerde per risicoklasse naar Aard van het inkomen (in euro’s per verzekerde)**
-
-## Bijlage 15. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-### **Gewichten voor de no-claimteruggave per verzekerde per risicoklasse naar regio (in euro’s per verzekerde)**
-
-## Bijlage 16. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-### **Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 17. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-### **Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 18. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-### **Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 19. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-### **Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 20. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-### **Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 21. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-### **Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 22. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-### **Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 23. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-### **Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 24. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-### **Gewichten voor het criterium Aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 25. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-### **Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
+### Hoofdstuk IIIA. De tweede voorlopige vaststelling van de bijdrage aan een zorgverzekeraar
 
 ##### Artikel 21a. Algemene bepaling
 
@@ -1452,112 +659,205 @@ Het college bepaalt afzonderlijk gewichten voor de categorie ‘0–1’ jarigen
 
 ### Hoofdstuk IV. De vaststelling van de bijdrage 2007 aan een zorgverzekeraar
 
+##### Artikel 22. Algemene bepaling
+
+Het college herberekent de vereveningsbijdrage definitief met inachtneming van de correcties die voortkomen uit de reviewrapportage die de Nederlandse Zorgautoriteit uitbrengt over de lasten 2007 uit de opgave jaarstaat 2009 per 1 juli 2010.
+
+##### Artikel 23. De definitieve herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2007
+
+Het college herberekent definitief het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2007 overeenkomstig [artikel 21c](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IIIA&artikel=21c&z=2010-10-02&g=2010-10-02), met inachtneming van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IV&artikel=22&z=2010-10-02&g=2010-10-02).
+
+##### Artikel 24. De definitieve herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2007
+
+Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2007 overeenkomstig [artikel 21d](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IIIA&artikel=21d&z=2010-10-02&g=2010-10-02), met inachtneming van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IV&artikel=22&z=2010-10-02&g=2010-10-02).
+
+##### Artikel 25. De definitieve herberekening van het deelbedrag kosten van overige prestaties 2007
+
+Het college herberekent definitief het deelbedrag kosten van overige prestaties 2007 overeenkomstig [artikel 21e](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IIIA&artikel=21e&z=2010-10-02&g=2010-10-02), met inachtneming van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IV&artikel=22&z=2010-10-02&g=2010-10-02).
+
+##### Artikel 26. De definitieve herberekening van de normatieve no-claimteruggave 2006
+
+1. Het college herberekent de gewichten no-claimteruggave op basis van de verzekerdenaantallen 2007 en de door de zorgverzekeraars verantwoorde no-claimteruggave 2007 uit het financieel verslag 2007, inclusief de correctie hierop uit het financieel verslag 2008, definitief op de volgende wijze:
+
+- a. Het college herberekent definitief de landelijke gemiddelde no-claimteruggave per verzekerde van 18 jaar en ouder 2007 door de som van de no-claimteruggaven 2007 over alle zorgverzekeraars te delen door som van de aantallen verzekerden 2007 van 18 jaar en ouder in 2007 van alle zorgverzekeraars.
+
+- b. Het college herberekent definitief de normatieve no-claimteruggave 2007 voor alle verzekerden 2007 overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=11&z=2010-10-02&g=2010-10-02) op basis van de bij het college bekende totale verzekerdenaantallen 2007 naar risicoklassen naar leeftijd en geslacht 2007, naar aard van het inkomenklassen 2007 en naar regioklassen 2007.
+
+- c. Het college herberekent definitief de no-claimschalingsfactor 2007 door de landelijke gemiddelde no-claimteruggave per verzekerde van 18 jaar en ouder 2007, berekend in onderdeel a, te vermenigvuldigen met het totaal aantal verzekerden 2007 van 18 jaar en ouder 2007, en dat vervolgens weer te delen door de in onderdeel b herberekende normatieve no-claimteruggave voor alle verzekerden 2007, en deze vervolgens af te ronden op zeven decimalen.
+
+- d. Het college herberekent definitief de gewichten no-claimteruggave per verzekerde per risicoklasse 2007, per aard van het inkomenklasse 2007 en per regioklasse 2007 door de overeenkomstige gewichten uit [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=11&z=2010-10-02&g=2010-10-02) te vermenigvuldigen met de no-claimschalingsfactor 2007, herberekend in onderdeel c, en deze vervolgens op twee decimalen af te ronden.
+
+2. Het college herberekent definitief de normatieve no-claimteruggave als volgt:
+
+- a. Per zorgverzekeraar worden de op grond van het eerste lid, onderdeel d, definitief herberekende gewichten no-claimteruggave per verzekerde per risicoklasse 2007 naar leeftijd en geslacht per overeenkomstige risicoklasse vermenigvuldigd met de aantallen verzekerden van 18 jaar en ouder per risicoklasse 2007. De uitkomsten worden per zorgverzekeraar gesommeerd.
+
+- b. Per zorgverzekeraar worden de op grond van het eerste lid, onderdeel d, definitief herberekende gewichten no-claimteruggave per verzekerde per aard van het inkomenklasse 2007 per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per aard van het inkomenklasse 2007. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van onderdeel a.
+
+- c. Per zorgverzekeraar worden de op grond van het eerste lid, onderdeel d, definitief herberekende gewichten no-claimteruggave per verzekerde per regioklasse 2007 per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per regioklasse 2007. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van onderdeel b.
+
+- d. Het resultaat van onderdeel c wordt aangeduid als de definitieve normatieve no-claimteruggave 2007.
+
+##### Artikel 27. De definitieve herberekening van het normatieve bedrag 2007 en de definitieve herberekening en de vaststelling van de bijdrage 2007
+
+1. Het college herberekent het normatieve bedrag 2007 definitief als de som van het definitieve deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2007 na toepassing van [artikel 3.9, twaalfde lid van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.9), het definitieve deelbedrag vaste kosten van ziekenhuisverpleging 2007 en het definitieve deelbedrag kosten van overige prestaties 2007.
+
+2. Het college bepaalt de definitieve opbrengst van de nominale rekenpremie per zorgverzekeraar door de verzekerden van 18 jaar en ouder 2007 per zorgverzekeraar te vermenigvuldigen met de nominale rekenpremie 2007.
+
+3. Het college vermindert het resultaat van het tweede lid met het bedrag dat de zorgverzekeraar verantwoordt in zijn jaarverslag als gederfde inkomsten voor verzekerden van 18 jaar en ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
+
+4. Het college berekent de definitieve aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar door het aantal verzekerden jonger dan 18 jaar 2007 te vermenigvuldigen met 50 euro.
+
+5. Het college berekent de bijdrage 2007 definitief door van de som van het definitieve normatieve bedrag 2007 bedoeld in het eerste lid, de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in het vierde lid en de definitieve normatieve no-claimteruggave bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IV&artikel=26&z=2010-10-02&g=2010-10-02), de opbrengst van de nominale rekenpremie, bedoeld in het derde lid, af te trekken.
+
+6. Het college stelt de bijdrage 2007 vast ter hoogte van de in het vorige lid definitief berekende bijdrage.
+
+### Hoofdstuk V. De uitkering voor de kosten van prestaties die door het college naar het werkelijk bedrag worden vergoed
+
+##### Artikel 28
+
+1. Bij gelegenheid van de vaststelling van de bijdrage 2007 als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IV&artikel=27&z=2010-10-02&g=2010-10-02) stelt het college per zorgverzekeraar ook de uitkering 2007 vast voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed.
+
+2. In afwachting van de vaststelling van de uitkering 2007 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de voorlopige vaststelling van de bijdrage 2007 bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&artikel=21&z=2010-10-02&g=2010-10-02) ook de voorlopige uitkering 2007 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, vast.
+
+### Hoofdstuk VI. De betalingen aan de zorgverzekeraars
+
+##### Artikel 29
+
+1. Het college betaalt de zorgverzekeraars de bijdrage, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=12&z=2010-10-02&g=2010-10-02), uit, verminderd met het bedrag voor de geraamde normatieve no-claimteruggave. Het college maakt bij de betalingen onderscheid naar de volgende bestanddelen:
+
+- a. het deel van het normatieve bedrag 2007 dat betrekking heeft op het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en het deelbedrag vaste kosten van ziekenhuisverpleging, met uitzondering van het deelbedrag samenhangend met de academische component, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=9&z=2010-10-02&g=2010-10-02);
+
+- b. het deelbedrag samenhangend met de academische component, bedoeld in artikel 9, vierde lid;
+
+- c. het deel van het normatieve bedrag 2007 dat betrekking heeft op het deelbedrag kosten van overige prestaties;
+
+- d. een aftrekpost voor de geraamde opbrengst van de nominale rekenpremie;
+
+2. Het college betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=12&z=2010-10-02&g=2010-10-02).
+
+3. Het college betaalt de zorgverzekeraars de normatieve no-claimteruggave bedoeld in [artikel 14, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=14&z=2010-10-02&g=2010-10-02).
+
+4. Voor de betaling van de kosten, die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar werkelijke kosten worden vergoed, kan het college ambtshalve een bedrag vaststellen, waarmee de betaling aan de zorgverzekeraars wordt verhoogd.
+
+5. Indien toepassing van onderscheidenlijk het eerste, tweede en vierde lid resulteert in een negatief saldo voor de zorgverzekeraar, schort het CVZ de betalingen aan de zorgverzekeraar op, tot het negatieve saldo is verrekend.
+
+##### Artikel 29a
+
+1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&artikel=21&z=2010-10-02&g=2010-10-02), stelt het college het volgende vast:
+
+- a. De hoogte van het bedrag van de door de zorgverzekeraar ingevorderde boetes op grond van [artikel 96 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96);
+
+- b. Het vergoedingsbedrag waar de zorgverzekeraar voor de door hem zelf ingevorderde boetes op grond van [artikel 96, zesde lid, Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96) recht op heeft;
+
+- c. Het deel van het bedrag bedoeld onder a dat de zorgverzekeraar aan het Zorgverzekeringsfonds moet afdragen;
+
+- d. Het deel van het bedrag van de door het college zelf op grond van [artikel 96 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96) ingevorderde boetes waar de zorgverzekeraar als vergoeding recht op heeft.
+
+2. Het college verrekent de som van de onderdelen c tot en met d uit het eerste lid zo mogelijk met de op grond van [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&artikel=21&z=2010-10-02&g=2010-10-02), voorlopig vastgestelde bijdrage.
+
+3. Indien verrekening, als bedoeld in het tweede lid, niet mogelijk blijkt, vordert het college het door de zorgverzekeraar af te dragen bedrag bij de zorgverzekeraar in, dan wel betaalt het college het door de zorgverzekeraar te ontvangen bedrag, aan de zorgverzekeraar na.
+
+4. Bij gelegenheid van de tweede voorlopige vaststelling stelt het college opnieuw de hoogte van de in 2007 ingevorderde boetes vast, overeenkomstig de opgave van de zorgverzekeraars in de jaarstaat 2007 met inachtneming van de correcties van de Nederlandse Zorgautoriteit.
+
+5. Het college verrekent zo mogelijk, na toepassing van het vierde lid en overeenkomstig het tweede lid, de som van de onderdelen c en d uit het eerste lid met de op grond van [artikel 21g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IIIA&artikel=21g&z=2010-10-02&g=2010-10-02), voor de tweede maal voorlopig vastgestelde bijdrage.
+
+##### Artikel 29b
+
+1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&artikel=21&z=2010-10-02&g=2010-10-02), stelt het college het bedrag aan compensatie vast overeenkomstig [artikel 3.15a van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15a), voor iedere verzekerde ten aanzien van wie niet aan de premieplicht, bedoeld in [artikel 16 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=16), is of wordt voldaan.
+
+2. De zorgverzekeraar ontvangt compensatie onder de voorwaarde dat is voldaan aan het bepaalde in [artikel 3.18 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.18). Bij de voorlopige vaststelling baseert het college zich voor de vaststelling van de compensatie vanwege wanbetaling op de opgave van de zorgverzekeraars op 1 juli 2008 over het totale aantal wanbetalers en het totale aantal premieachterstandsdagen in de periode 1 januari 2006 tot en met 31 december 2007.
+
+3. De zorgverzekeraar dient de opgave, bedoeld in het tweede lid per wanbetaler als volgt te berekenen:
+
+- a. Een verzekerde wordt als wanbetaler aangemerkt als hij een premieschuld heeft van meer dan 6 maandpremies werkelijke nominale premie.
+
+- b. De zorgverzekeraar bepaalt per verzekerde de totale openstaande premieschuld over de periode 1 januari 2006 tot en met 31december 2007 op basis van de werkelijke nominale premies.
+
+- c. Het bedrag aan premieachterstand zet de zorgverzekeraar om in een periode van premieachterstand. Hierbij wordt verondersteld dat alle premie-inkomsten met de oudste openstaande premieschuld zijn verrekend.
+
+- d. De zorgverzekeraar berekent het compensatiebedrag per verzekerde door de verschuldigde nominale rekenpremie, op basis van de nominale premiebedragen 2006 en 2007, gedurende de totale periode, vastgesteld onder c te bepalen en dit bedrag te verminderen met de nominale rekenpremie gedurende de eerste 6 maanden van de onder c berekende periode.
+
+4. Het college stelt op basis van de opgave van de zorgverzekeraar het totaal van de berekende compensatiebedragen vast onder aftrek van de bedragen die eerder aan de zorgverzekeraar zijn uitgekeerd in het kader van de compensatieregeling voor wanbetalers.
+
+5. Het college keert het resultaat van het vierde lid uit.
+
+##### Artikel 30
+
+1. De bestanddelen genoemd in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=29&z=2010-10-02&g=2010-10-02), alsmede de uitkering bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=29&z=2010-10-02&g=2010-10-02), betaalt het college in termijnen op de eerste werkdag van de maand, overeenkomstig onderstaand betalingsschema:
+
+| Betaalmoment | Lid 1, onder a | Lid 1, onder b | Lid 1, onder c | Lid 1, onder d | Lid 2 |
+| --- | --- | --- | --- | --- | --- |
+| Januari 2007 |  |  |  | 8,333400% |  |
+| februari 2007 | 0,919500% | 8,333300% |  | 8,333300% | 8,333300% |
+| maart 2007 | 2,643700% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| april 2007 | 4,367800% | 8,333400% | 8,333400% | 8,333400% | 8,333400% |
+| mei 2007 | 6,092000% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| juni 2007 | 7,643500% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| juli 2007 | 8,333300% | 8,333400% | 8,333400% | 8,333400% | 8,333400% |
+| augustus 2007 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| september 2007 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| oktober 2007 | 8,333300% | 8,333400% | 8,333400% | 8,333400% | 8,333400% |
+| November 2007 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| December 2007 | 8,333300% | 8,333300% | 8,333300% | 8,333300% | 8,333300% |
+| januari 2008 | 8,333300% | 8,333400% | 8,333400% |  | 8,333400% |
+| februari 2008 | 7,413900% |  | 8,333300% |  |  |
+| maart 2008 | 5,689700% |  |  |  |  |
+| april 2008 | 3,965600% |  |  |  |  |
+| mei 2008 | 2,241400% |  |  |  |  |
+| Juni 2008 | 0,689800% |  |  |  |  |
+
+2. Het college betaalt de normatieve no-claimteruggave, bedoeld in [artikel 14, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=II&artikel=14&z=2010-10-02&g=2010-10-02), aan de zorgverzekeraars in één termijn op de laatste werkdag van de maand maart 2008.
+
+3. Voor een zorgverzekeraar, die zich op grond van [artikel 25 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=25) aanmeldt bij het College van toezicht op de zorgverzekeringen nadat het College voor zorgverzekeringen de bijdragen voor de zorgverzekeraars heeft toegekend, kan het college voor die zorgverzekeraar afwijken van het betalingsschema in het eerste lid.
+
+4. In bijzondere omstandigheden, wanneer de betalingen voor een zorgverzekeraar kennelijk ontoereikend zijn, kan het college op verzoek van die zorgverzekeraar de betalingen verhogen. Indien de betalingen kennelijk ontoereikend zijn wegens toename van het aantal verzekerden dat bij de zorgverzekeraar is ingeschreven, voldoet het college aan een verzoek van de zorgverzekeraar om verhoging van de betalingen, wanneer die toename tenminste 5 procent bedraagt, met een minimum van 3.000 verzekerden, ten opzichte van het verzekerdenaantal dat aan de berekening van de bijdrage ten grondslag heeft gelegen. Het minimum van 3.000 verzekerden geldt niet als de toename 25 procent of meer bedraagt.
+
+##### Artikel 31
+
+1. Indien het college de bijdragen voor de zorgverzekeraars herziet, op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&artikel=16&z=2010-10-02&g=2010-10-02), herziet het college ook de te betalen termijnen overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02). Het college verrekent het verschil tussen de reeds betaalde termijnen en de herziene termijnen op de eerste werkdag van de maand juni 2007.
+
+2. Indien het college de bijdrage voorlopig vaststelt, op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=III&z=2010-10-02&g=2010-10-02), herziet het college ook de te betalen termijnen overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02). Op de eerste werkdag van de maand augustus 2008 verrekent het college het verschil tussen de voor het jaar 2008 betaalde termijnen en de herziene termijnen.
+
+3. Bij gelegenheid van de tweede voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IIIA&z=2010-10-02&g=2010-10-02), herziet het college de te betalen termijnen voor de derde keer overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02). Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de derde maal herziene termijnen.
+
+4. Bij gelegenheid van de definitieve vaststelling van de bijdrage, op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=IV&z=2010-10-02&g=2010-10-02), stelt het college de te betalen termijnen definitief vast overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02). Het college verrekent het verschil tussen de reeds betaalde termijnen en de definitief te betalen termijnen.
+
+5. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een positief saldo voor de zorgverzekeraar, betaalt het college dat saldo ineens aan de zorgverzekeraar, behoudens een eventuele verrekening met een vordering op de zorgverzekeraar uit hoofde van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
+
+6. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een negatief saldo voor de zorgverzekeraar, wordt dat saldo ineens door de desbetreffende zorgverzekeraar aan het college terugbetaald, behoudens voor zover het college het bedrag heeft verrekend met enige vordering op de zorgverzekeraar op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
+
+##### Artikel 32
+
+1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02).
+
+2. De rente, bedoeld in het eerste lid, wordt bij de voorlopige, tweede voorlopige en definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
+
+##### Artikel 33
+
+1. Bij de verrekening van verschillen, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
+
+2. Bij de verrekening van de verschillen, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02), tot de datum van de voorlopige vaststelling van de bijdrage.
+
+3. Bij de verrekening van de verschillen, bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02) tot de datum van de tweede voorlopige vaststelling van de bijdrage.
+
+4. Bij de verrekening van de verschillen, bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=30&z=2010-10-02&g=2010-10-02), tot de datum van de definitieve vaststelling van de bijdrage.
+
+5. Voor een zorgverzekeraar waarvoor krachtens artikel 30, derde en vierde lid, afwijkende betalingen hebben plaatsgevonden, kan het college bij de renteberekening afwijken van de vorige leden.
+
+6. Voor het rentepercentage gaat het college uit van het gemiddelde van de maandrentes van het Euro Interbank Offered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de periodes, bedoeld in het eerste, tweede en derde lid. Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand. Het percentage wordt verhoogd met 0,3 procentpunt bij een voor de zorgverzekeraar positief saldo, als bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02). Het percentage wordt verlaagd met 0,3 procentpunt bij een voor de zorgverzekeraar negatief saldo, als bedoeld in [artikel 31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020362&hoofdstuk=VI&artikel=31&z=2010-10-02&g=2010-10-02).
+
+7. De rente betreft een samengestelde rente en wordt op maandbasis berekend.
+
+Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
+
+8. Indien de situatie zich voordoet dat het in deze paragraaf bedoelde Euro Interbank Offered Rate (Euribortarief) niet meer kan worden toegepast, zal een zoveel als mogelijk overeenkomstig tarief worden gehanteerd.
+
 ### Hoofdstuk VII. Slotbepalingen
 
-## Bijlage 3. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
+##### Artikel 34
 
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
+Deze regeling treedt in werking met ingang 1 januari 2007.
 
-### **Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
+##### Artikel 35
 
-## Bijlage 4. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 5. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 6. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 7. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp**
-
-## Bijlage 8. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-### **Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-## Bijlage 12. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
-
-**Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-| Regioklasse 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Zieken- vervoer | Kraamzorg | Farmaceutische hulp | Hulp- middelen | Totale overige prestaties |
-| 1 | 6,25 | 1,22 | 0,45 | –5,99 | –1,37 | –6,93 | 12,16 | –2,71 | 3,08 |
-| 2 | 6,1 | –0,08 | 0,24 | –4,67 | 0,64 | –5,99 | 4,27 | 2,18 | 2,69 |
-| 3 | 4,94 | –0,87 | 0,02 | –2,58 | 0,29 | –2,81 | 1,5 | 7,4 | 7,89 |
-| 4 | 4,29 | –1,73 | 0,34 | –1,76 | 0,48 | –1,23 | –2,95 | 5,98 | 3,42 |
-| 5 | 4,08 | –2,44 | 0,54 | –1,73 | 0,52 | –0,83 | –2,87 | 4,94 | 2,21 |
-| 6 | 3,95 | –2,04 | 0,79 | –1 | 2,14 | 0,92 | –7,8 | 4,67 | 1,63 |
-| 7 | 2,52 | –2,56 | 0,62 | –0,96 | 4,12 | 1,39 | –9,34 | 6,97 | 2,76 |
-| 8 | 1,91 | –3,71 | 0,47 | –0,66 | 4,72 | 1,37 | –14,67 | 4,36 | –6,21 |
-| 9 | 1 | –3,03 | 0,76 | –2,24 | 5,62 | 3,1 | –25,21 | 4,81 | –15,19 |
-| 10 | 0,24 | –5,08 | –0,06 | –3,3 | 5,73 | 1,5 | –29,64 | 0,73 | –29,88 |
-
-| Regioklasse 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Zieken- vervoer | Kraamzorg | Farmaceutische hulp | Hulp- middelen | Totale overige prestaties |
-| 1 | –8,96 | 2,27 | –1,65 | 0,74 | –5,87 | –2,18 | 25 | –7,92 | 1,43 |
-| 2 | –8,03 | 2,32 | –1,71 | 2,86 | –4,5 | –2,11 | 15,14 | –9,41 | –5,44 |
-| 3 | –5,98 | 3,63 | –0,88 | 4,11 | –3,94 | 0,31 | 19,38 | –6,99 | 9,64 |
-| 4 | –5,78 | 3,5 | –0,43 | 4,42 | –4,4 | 1,48 | 17,37 | –6,71 | 9,45 |
-| 5 | –5,04 | 3,84 | –0,43 | 4,33 | –3,6 | 1,6 | 14,58 | –6,77 | 8,51 |
-| 6 | –4,67 | 3,55 | –0,27 | 4,26 | –4,84 | 2,29 | 9,17 | –7,88 | 1,61 |
-| 7 | –5,29 | 3,75 | –0,46 | 4,38 | –3,27 | 1,86 | 7,58 | –8,82 | –0,27 |
-| 8 | –5,09 | 3,47 | –0,6 | 4,48 | –2,31 | 1,95 | 8,37 | –6,99 | 3,28 |
-| 9 | –5,54 | 3,95 | –0,53 | 2,13 | –2,75 | 2,15 | 6,55 | –7,25 | –1,29 |
-| 10 | –7,98 | 1,21 | –1,49 | 1,3 | –1,28 | 0,7 | –2,43 | –6,79 | –16,76 |
-
-| Regioklasse 2006 | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Zieken- vervoer | Kraamzorg | Farmaceutische hulp | Hulp- middelen | Totale overige prestaties |
-| 1 | –1,14 | 1,73 | –0,57 | –2,72 | –3,56 | –4,62 | 18,40 | –5,24 | 2,28 |
-| 2 | –0,77 | 1,09 | –0,71 | –1,01 | –1,86 | –4,10 | 9,55 | –3,45 | –1,26 |
-| 3 | –0,37 | 1,32 | –0,42 | 0,67 | –1,77 | –1,29 | 10,19 | 0,41 | 8,74 |
-| 4 | –0,60 | 0,81 | –0,03 | 1,24 | –1,89 | 0,09 | 6,93 | –0,19 | 6,36 |
-| 5 | –0,35 | 0,61 | 0,07 | 1,22 | –1,48 | 0,35 | 5,61 | –0,75 | 5,28 |
-| 6 | –0,24 | 0,68 | 0,27 | 1,56 | –1,25 | 1,59 | 0,45 | –1,43 | 1,63 |
-| 7 | –1,28 | 0,51 | 0,10 | 1,64 | 0,53 | 1,62 | –1,12 | –0,70 | 1,30 |
-| 8 | –1,49 | –0,22 | –0,05 | 1,84 | 1,30 | 1,65 | –3,47 | –1,16 | –1,60 |
-| 9 | –2,18 | 0,36 | 0,13 | –0,12 | 1,55 | 2,64 | –9,77 | –1,05 | –8,44 |
-| 10 | –3,75 | –2,02 | –0,75 | –1,06 | 2,32 | 1,11 | –16,42 | –2,92 | –23,49 |
-
-## Bijlage 14. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 6 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=6)
-
-### **Gewichten voor de no-claimteruggave per verzekerde per risicoklasse naar Aard van het inkomen (in euro’s per verzekerde)**
-
-## Bijlage 24. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5)
-
-### **Gewichten voor het criterium Aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-## Bijlage 25. van de Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007
-
-Bron: [Bijlage 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5)
-
-### **Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)**
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKV.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007.

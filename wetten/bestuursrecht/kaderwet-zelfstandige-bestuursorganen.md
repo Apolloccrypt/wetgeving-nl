@@ -1,48 +1,18 @@
 ---
 title: "Wet van 2 november 2006, houdende regels betreffende zelfstandige bestuursorganen (Kaderwet zelfstandige bestuursorganen)"
+citeertitel: "Kaderwet zelfstandige bestuursorganen"
 identifier: "BWBR0020495"
-country: "nl"
-rank: "wet"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020495"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "8745883"
-version_id: "13806382"
-internal_id: "C18637191"
-label_id: "8726284"
-dtd_version: "2.0"
-original_entry_into_force: "2007-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020495/2022-07-01/0"
-intitule_bron: "Stb.2006-587"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-02"
-intitule_published: "2006-11-30"
-intitule_in_force: "2006-11-30"
-intitule_status: "goed"
-original_publication: "Stb.2006-587"
-original_signed_date: "2006-11-02"
-original_published_date: "2006-11-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "27426"
-original_url_id: "stb-2006-587"
-entry_into_force_date: "2007-02-01"
-entry_into_force_dossier: "27426"
-jci_1_3: "jci1.3:c:BWBR0020495&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0020495&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Kaderwet zelfstandige bestuursorganen"
-signed_date: "2006-11-02"
-entry_into_force: "2007-02-01"
+publicatiedatum: 2007-02-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0020495"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 2 november 2006, houdende regels betreffende zelfstandige bestuursorganen (Kaderwet zelfstandige bestuursorganen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging hebben genomen, dat het wenselijk is basisregels vast te stellen betreffende zelfstandige bestuursorganen op het niveau van de centrale overheid;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -170,7 +140,7 @@ Het personeel dat werkzaam is ten behoeve van een zelfstandig bestuursorgaan sta
 
 1. Een zelfstandig bestuursorgaan stelt jaarlijks voor 15 maart een jaarverslag op. Het jaarverslag beschrijft de taakuitoefening en het gevoerde beleid. Het jaarverslag beschrijft voorts het gevoerde beleid met betrekking tot de kwaliteitszorg.
 
-2. Het zelfstandig bestuursorgaan zendt het jaarverslag voor 15 maart aan Onze Minister en voor de derde woensdag in mei aan beide Kamers der Staten-Generaal.
+2. Het zelfstandig bestuursorgaan zendt het jaarverslag voor 15 maart aan Onze Minister en voor de derde woensdag in mei aan beide Kamers der Staten-Generaal.
 
 ##### Artikel 19
 
@@ -198,6 +168,28 @@ Het personeel dat werkzaam is ten behoeve van een zelfstandig bestuursorgaan sta
 
 Onze Minister kan beleidsregels vaststellen met betrekking tot de taakuitoefening door een zelfstandig bestuursorgaan.
 
+##### Artikel 21a
+
+1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan, op verzoek van een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de staat en in overeenstemming met Onze Ministers wie het aangaat, bepalen dat het zelfstandig bestuursorgaan gebruik maakt van een voorziening die in stand wordt gehouden door een ander bestuursorgaan van de centrale overheid en die wordt ingezet ten behoeve van de uitvoering van de taak van een of meer bestuursorganen van de centrale overheid. Onder voorziening wordt verstaan een samenhangende verzameling van processen op het terrein van bedrijfsvoering; deze processen, waaronder automatisering en bestuurlijke informatievoorziening, huisvesting en personeelsbeheer, bepalen niet inhoudelijk de uitkomsten van het primaire proces van de gebruikende organisatie.
+
+2. Indien een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de staat taken strikt regelgebonden uitvoert in een groot aantal individuele gevallen kan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in overeenstemming met Onze Ministers wie het aangaat, zonder een daartoe strekkend verzoek van het zelfstandig bestuursorgaan bepalen dat het gebruik maakt van een voorziening als bedoeld in het eerste lid.
+
+3. Een besluit als bedoeld in het eerste of tweede lid wordt slechts genomen als daarmee naar het oordeel van de bij het besluit betrokken ministers de doelmatigheid en de doeltreffendheid van de uitvoering van de taak van het zelfstandig bestuursorgaan worden bevorderd.
+
+4. Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in overeenstemming met Onze Ministers wie het aangaat, kunnen regels worden gesteld omtrent de wijze waarop het zelfstandig bestuursorgaan van de voorziening gebruik maakt.
+
+5. Dit artikel is niet van toepassing op een zelfstandig bestuursorgaan als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&hoofdstuk=4&afdeling=3&artikel=38&z=2022-07-01&g=2022-07-01).
+
+##### Artikel 21b
+
+1. Een zelfstandig bestuursorgaan dat op grond van [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&hoofdstuk=3&artikel=21a&z=2022-07-01&g=2022-07-01) gebruik maakt van een voorziening draagt bij in de kosten in verband met de instandhouding van de voorziening.
+
+2. De bijdrage komt ten laste van de rechtspersoon waartoe het zelfstandig bestuursorgaan behoort. De bijdrage komt ten goede aan de rechtspersoon waartoe het bestuursorgaan behoort dat de voorziening in stand houdt.
+
+3. Bij algemene maatregel van bestuur wordt de grondslag van de bijdrage, bedoeld in het eerste lid, bepaald.
+
+4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de vaststelling en de betaling van de bijdrage. Daarbij kan worden bepaald dat het in rekening te brengen bedrag op nul wordt vastgesteld, voor zover een voorziening is getroffen in de rijksbegroting die in de plaats treedt van de bijdrage van het zelfstandig bestuursorgaan.
+
 ##### Artikel 22
 
 1. Onze Minister kan een besluit van een zelfstandig bestuursorgaan vernietigen.
@@ -214,7 +206,7 @@ Onze Minister kan beleidsregels vaststellen met betrekking tot de taakuitoefenin
 
 ### Hoofdstuk 4. Bepalingen betreffende financieel toezicht
 
-### Afdeling 1. Begroting publiekrechtelijke zelfstandige bestuursorganen
+#### Afdeling 1. Begroting publiekrechtelijke zelfstandige bestuursorganen
 
 ##### Artikel 24
 
@@ -222,7 +214,7 @@ Deze afdeling is van toepassing op zelfstandige bestuursorganen die orgaan zijn 
 
 ##### Artikel 25
 
-Een zelfstandig bestuursorgaan dat onderdeel is van de Staat, zendt jaarlijks voor 1 april aan Onze Minister de ontwerp-begroting voor het daaropvolgende jaar.
+Een zelfstandig bestuursorgaan dat onderdeel is van de Staat, zendt jaarlijks voor 1 april aan Onze Minister de ontwerp-begroting voor het daaropvolgende jaar.
 
 ##### Artikel 26
 
@@ -260,7 +252,7 @@ Een zelfstandig bestuursorgaan dat geen onderdeel is van de Staat, zendt jaarlij
 
 Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten dan wel inkomsten en uitgaven, doet een zelfstandig bestuursorgaan daarvan onverwijld mededeling aan Onze Minister onder vermelding van de oorzaak van de verschillen.
 
-### Afdeling 2. Beheer en verantwoording bij publiekrechtelijke zelfstandige bestuursorganen, die geen onderdeel zijn van de Staat
+#### Afdeling 2. Beheer en verantwoording bij publiekrechtelijke zelfstandige bestuursorganen, die geen onderdeel zijn van de Staat
 
 ##### Artikel 31
 
@@ -308,7 +300,7 @@ Onze Minister kan bepalen dat een zelfstandig bestuursorgaan zijn voorafgaande i
 
 3. De verklaring, bedoeld in het tweede lid, heeft mede betrekking op de rechtmatige inning en besteding van de middelen door een zelfstandig bestuursorgaan.
 
-### Afdeling 3. Beheer en verantwoording bij privaatrechtelijke zelfstandige bestuursorganen
+#### Afdeling 3. Beheer en verantwoording bij privaatrechtelijke zelfstandige bestuursorganen
 
 ##### Artikel 36
 
@@ -360,15 +352,15 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties houdt een openbaar r
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
@@ -377,41 +369,3 @@ Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaa
 ##### Artikel 46
 
 Deze wet wordt aangehaald als: Kaderwet zelfstandige bestuursorganen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 21a
-
-1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan, op verzoek van een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de staat en in overeenstemming met Onze Ministers wie het aangaat, bepalen dat het zelfstandig bestuursorgaan gebruik maakt van een voorziening die in stand wordt gehouden door een ander bestuursorgaan van de centrale overheid en die wordt ingezet ten behoeve van de uitvoering van de taak van een of meer bestuursorganen van de centrale overheid. Onder voorziening wordt verstaan een samenhangende verzameling van processen op het terrein van bedrijfsvoering; deze processen, waaronder automatisering en bestuurlijke informatievoorziening, huisvesting en personeelsbeheer, bepalen niet inhoudelijk de uitkomsten van het primaire proces van de gebruikende organisatie.
-
-2. Indien een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de staat taken strikt regelgebonden uitvoert in een groot aantal individuele gevallen kan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in overeenstemming met Onze Ministers wie het aangaat, zonder een daartoe strekkend verzoek van het zelfstandig bestuursorgaan bepalen dat het gebruik maakt van een voorziening als bedoeld in het eerste lid.
-
-3. Een besluit als bedoeld in het eerste of tweede lid wordt slechts genomen als daarmee naar het oordeel van de bij het besluit betrokken ministers de doelmatigheid en de doeltreffendheid van de uitvoering van de taak van het zelfstandig bestuursorgaan worden bevorderd.
-
-4. Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in overeenstemming met Onze Ministers wie het aangaat, kunnen regels worden gesteld omtrent de wijze waarop het zelfstandig bestuursorgaan van de voorziening gebruik maakt.
-
-5. Dit artikel is niet van toepassing op een zelfstandig bestuursorgaan als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&hoofdstuk=4&afdeling=3&artikel=38&z=2022-07-01&g=2022-07-01).
-
-##### Artikel 21b
-
-1. Een zelfstandig bestuursorgaan dat op grond van [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&hoofdstuk=3&artikel=21a&z=2022-07-01&g=2022-07-01) gebruik maakt van een voorziening draagt bij in de kosten in verband met de instandhouding van de voorziening.
-
-2. De bijdrage komt ten laste van de rechtspersoon waartoe het zelfstandig bestuursorgaan behoort. De bijdrage komt ten goede aan de rechtspersoon waartoe het bestuursorgaan behoort dat de voorziening in stand houdt.
-
-3. Bij algemene maatregel van bestuur wordt de grondslag van de bijdrage, bedoeld in het eerste lid, bepaald.
-
-4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de vaststelling en de betaling van de bijdrage. Daarbij kan worden bepaald dat het in rekening te brengen bedrag op nul wordt vastgesteld, voor zover een voorziening is getroffen in de rijksbegroting die in de plaats treedt van de bijdrage van het zelfstandig bestuursorgaan.
-
-### Hoofdstuk 4. Bepalingen betreffende financieel toezicht
-
-### Afdeling 1. Begroting publiekrechtelijke zelfstandige bestuursorganen
-
-### Afdeling 2. Beheer en verantwoording bij publiekrechtelijke zelfstandige bestuursorganen, die geen onderdeel zijn van de Staat
-
-### Afdeling 3. Beheer en verantwoording bij privaatrechtelijke zelfstandige bestuursorganen
-
-### Hoofdstuk 5. Overige bepalingen
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

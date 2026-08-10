@@ -1,47 +1,17 @@
 ---
 title: "Besluit mandaat en machtiging Stadsgewest Haaglanden en Stadsregio Rotterdam inzake RandstadRail"
 identifier: "BWBR0019900"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-06-05"
-last_updated: "2006-06-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019900"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8304413"
-version_id: "13169012"
-internal_id: "C17734951"
-label_id: "8285414"
-dtd_version: "2.0"
-original_entry_into_force: "2006-06-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019900/2006-06-05/0"
-intitule_bron: "Stcrt.2006-103"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-05-23"
-intitule_published: "2006-05-30"
-intitule_in_force: "2006-05-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-103"
-original_signed_date: "2006-05-23"
-original_published_date: "2006-05-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-103-p13-SC75303"
-entry_into_force_date: "2006-06-05"
-jci_1_3: "jci1.3:c:BWBR0019900&z=2006-06-05&g=2006-06-05"
-jci_1_0: "1.0:c:BWBR0019900&g=2006-06-05"
-citeertitel_status: "officieel"
-signed_date: "2006-05-23"
-entry_into_force: "2006-06-05"
+publicatiedatum: 2006-06-05
+laatste_update: 2006-06-05
+status: geldig
+toestand: 2006-06-05
+bron: "https://wetten.overheid.nl/BWBR0019900"
+opgehaald: 2026-08-10
 ---
+
 # Besluit mandaat en machtiging Stadsgewest Haaglanden en Stadsregio Rotterdam inzake RandstadRail
-
-Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Gezien de schriftelijke instemming van de voorzitter van het dagelijks bestuur van het Stadsgewest Haaglanden en de voorzitter van het dagelijks bestuur van de Stadsregio Rotterdam, als bedoeld in [artikel 10:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), bij brief van SR/2006/1597/pv en sh06.968;
-
-Besluit:
-
-Treedt voor het gedeelte Den Haag Centraal–Den Haag Laan van NOI in werking op 15 juli 2006
 
 ##### Artikel 1
 
@@ -98,5 +68,3 @@ Dit besluit treedt in werking met ingang van 5 juni 2006 met uitzondering van he
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging Stadsgewest Haaglanden en Stadsregio Rotterdam inzake RandstadRail.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden verzonden aan de voorzitter van het dagelijks bestuur van het Stadsgewest Haaglanden en aan de voorzitter van het dagelijks bestuur van de Stadsregio Rotterdam.

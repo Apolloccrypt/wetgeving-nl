@@ -1,46 +1,18 @@
 ---
 title: "Regeling van De Nederlandsche Bank N.V. van 6 december 2006, nr. Juza/2006/02364/IH, houdende regels met betrekking tot afgeschermde rekeningen onder de Wet op het financieel toezicht (Regeling afgeschermde rekeningen Wft)"
+citeertitel: "Regeling afgeschermde rekeningen Wft"
 identifier: "BWBR0020672"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-10-13"
-last_updated: "2018-10-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020672"
+categorie: "Financieel recht"
 soort: "zbo"
-stam_id: "8774183"
-version_id: "13899792"
-internal_id: "C18914171"
-label_id: "8754024"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020672/2018-10-13/0"
-intitule_bron: "Stcrt.2006-244"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-12-06"
-intitule_published: "2006-12-14"
-intitule_in_force: "2006-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-244"
-original_signed_date: "2006-12-06"
-original_published_date: "2006-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-244-p31-SC78165"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020672&z=2018-10-13&g=2018-10-13"
-jci_1_0: "1.0:c:BWBR0020672&g=2018-10-13"
-citeertitel_status: "officieel"
-short_title: "Regeling afgeschermde rekeningen Wft"
-signed_date: "2006-12-06"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2018-10-13
+status: geldig
+toestand: 2018-10-13
+bron: "https://wetten.overheid.nl/BWBR0020672"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van De Nederlandsche Bank N.V. van 6 december 2006, nr. Juza/2006/02364/IH, houdende regels met betrekking tot afgeschermde rekeningen onder de Wet op het financieel toezicht (Regeling afgeschermde rekeningen Wft)
-
-Gelet op [artikel 14, zesde lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=14);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Besluit prudentiële regels Wft in werking treedt.
 
 ##### Artikel 1
 
@@ -95,5 +67,3 @@ Deze regeling treedt in werking op het tijdstip waarop het [Besluit prudentiële
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling afgeschermde rekeningen Wft.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatsts.

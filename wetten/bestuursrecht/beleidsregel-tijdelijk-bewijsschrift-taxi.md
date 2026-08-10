@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel inzake de verstrekking van een tijdelijk bewijsschrift taxi ten behoeve van het verkorten van de procedure voor het verkrijgen van een chauffeurspas als bedoeld in artikel 75 van het Besluit personenvervoer 2000 (Beleidsregel tijdelijk bewijsschrift taxi)"
+citeertitel: "Beleidsregel tijdelijk bewijsschrift taxi"
 identifier: "BWBR0020455"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2006-11-02"
-last_updated: "2006-11-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020455"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "8698233"
-version_id: "13723882"
-internal_id: "C18526981"
-label_id: "8678444"
-dtd_version: "2.0"
-original_entry_into_force: "2006-11-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020455/2006-11-02/0"
-intitule_bron: "Stcrt.2006-212"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-10-24"
-intitule_published: "2006-10-31"
-intitule_in_force: "2006-10-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-212"
-original_signed_date: "2006-10-24"
-original_published_date: "2006-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-212-p16-SC77422"
-entry_into_force_date: "2006-11-02"
-jci_1_3: "jci1.3:c:BWBR0020455&z=2006-11-02&g=2006-11-02"
-jci_1_0: "1.0:c:BWBR0020455&g=2006-11-02"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel tijdelijk bewijsschrift taxi"
-signed_date: "2006-10-24"
-entry_into_force: "2006-11-02"
+publicatiedatum: 2006-11-02
+laatste_update: 2006-11-02
+status: geldig
+toestand: 2006-11-02
+bron: "https://wetten.overheid.nl/BWBR0020455"
+opgehaald: 2026-08-10
 ---
+
 # Beleidsregel inzake de verstrekking van een tijdelijk bewijsschrift taxi ten behoeve van het verkorten van de procedure voor het verkrijgen van een chauffeurspas als bedoeld in artikel 75 van het Besluit personenvervoer 2000 (Beleidsregel tijdelijk bewijsschrift taxi)
-
-Gelet op de [artikelen 88](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=88) en [93 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=93);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -91,9 +65,3 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel tijdelijk bewijsschrift tax
 ##### Artikel 8
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze wordt geplaatst en vervalt op een door de Minister te bepalen tijdstip.
-
-## Bijlage 1. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020455&artikel=6&z=2006-11-02&g=2006-11-02)
-
-## Bijlage 2. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020455&artikel=6&z=2006-11-02&g=2006-11-02)
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

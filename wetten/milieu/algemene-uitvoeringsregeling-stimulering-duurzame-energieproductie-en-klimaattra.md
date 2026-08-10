@@ -9,7 +9,7 @@ laatste_update: 2026-08-04
 status: geldig
 toestand: 2026-08-04
 bron: "https://wetten.overheid.nl/BWBR0023563"
-opgehaald: 2026-08-09
+opgehaald: 2026-08-10
 ---
 
 # Regeling van de Minister van Economische Zaken van 28 februari 2008, nr. WJZ 8024263, tot vaststelling van algemene uitvoeringsregels voor de subsidieverstrekking op grond van het Besluit stimulering duurzame energieproductie (Algemene uitvoeringsregeling stimulering duurzame energieproductie)

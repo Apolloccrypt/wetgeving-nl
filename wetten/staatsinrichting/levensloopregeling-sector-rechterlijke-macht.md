@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie van 28 augustus 2006, nr. 5418018/806, houdende regels met betrekking tot de mogelijkheid van levensloopverlof voor de sector Rechterlijke Macht"
+citeertitel: "Levensloopregeling sector Rechterlijke Macht"
 identifier: "BWBR0020233"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-09-27"
-last_updated: "2017-09-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020233"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "8577503"
-version_id: "13530902"
-internal_id: "C29288151"
-label_id: "8557734"
-dtd_version: "2.0"
-original_entry_into_force: "2006-09-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020233/2017-09-27/0"
-intitule_bron: "Stcrt.2006-171"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-08-28"
-intitule_published: "2006-09-04"
-intitule_in_force: "2006-09-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-171"
-original_signed_date: "2006-08-28"
-original_published_date: "2006-09-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-171-p13-SC76678"
-entry_into_force_date: "2006-09-06"
-jci_1_3: "jci1.3:c:BWBR0020233&z=2017-09-27&g=2017-09-27"
-jci_1_0: "1.0:c:BWBR0020233&g=2017-09-27"
-citeertitel_status: "officieel"
-short_title: "Levensloopregeling sector Rechterlijke Macht"
-signed_date: "2006-08-28"
-entry_into_force: "2006-09-06"
+publicatiedatum: 2006-09-06
+laatste_update: 2017-09-27
+status: geldig
+toestand: 2017-09-27
+bron: "https://wetten.overheid.nl/BWBR0020233"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Justitie van 28 augustus 2006, nr. 5418018/806, houdende regels met betrekking tot de mogelijkheid van levensloopverlof voor de sector Rechterlijke Macht
-
-Gelet op [artikel 38q, tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38q);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -81,5 +55,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Levensloopregeling sector Rechterlijke Macht.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

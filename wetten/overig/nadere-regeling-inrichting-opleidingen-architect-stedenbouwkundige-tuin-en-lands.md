@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, M. van der Laan, van 14 april 2006, nr. DJZ2006249520, Directie Juridische Zaken, Afdeling Wetgeving, houdende nadere regels over de te geven inrichting aan de opleidingen tot architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect (Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect)"
+citeertitel: "Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect"
 identifier: "BWBR0019763"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-09-02"
-last_updated: "2016-09-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019763"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "8258723"
-version_id: "13097112"
-internal_id: "C29235491"
-label_id: "8240014"
-dtd_version: "2.0"
-original_entry_into_force: "2006-05-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019763/2016-09-02/0"
-intitule_bron: "Stcrt.2006-87"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-04-14"
-intitule_published: "2006-05-04"
-intitule_in_force: "2006-05-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-87"
-original_signed_date: "2006-04-14"
-original_published_date: "2006-05-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-87-p17-SC74896"
-entry_into_force_date: "2006-05-06"
-jci_1_3: "jci1.3:c:BWBR0019763&z=2016-09-02&g=2016-09-02"
-jci_1_0: "1.0:c:BWBR0019763&g=2016-09-02"
-citeertitel_status: "officieel"
-short_title: "Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect"
-signed_date: "2006-04-14"
-entry_into_force: "2006-05-06"
+publicatiedatum: 2006-05-06
+laatste_update: 2016-09-02
+status: geldig
+toestand: 2016-09-02
+bron: "https://wetten.overheid.nl/BWBR0019763"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, M. van der Laan, van 14 april 2006, nr. DJZ2006249520, Directie Juridische Zaken, Afdeling Wetgeving, houdende nadere regels over de te geven inrichting aan de opleidingen tot architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect (Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect)
-
-Gelet op de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=9), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=10), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=11), en [12, tweede lid, van de Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=12);
-
-Besluiten:
 
 ### Hoofdstuk I. Begripsbepalingen
 
@@ -116,17 +90,17 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 - e. het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte diploma van het met goed gevolg afgelegd eindexamen van de afdeling architectuur aan:
 
-- 1°. de Academie van Bouwkunst te Amsterdam;
+   - 1°. de Academie van Bouwkunst te Amsterdam;
 
-- 2°. de Academie van Bouwkunst te Rotterdam;
+   - 2°. de Academie van Bouwkunst te Rotterdam;
 
-- 3°. de Academie van Bouwkunst dan wel de Academie voor Architectuur en Stedebouw te Tilburg;
+   - 3°. de Academie van Bouwkunst dan wel de Academie voor Architectuur en Stedebouw te Tilburg;
 
-- 4°. de Academie van Bouwkunst te Arnhem;
+   - 4°. de Academie van Bouwkunst te Arnhem;
 
-- 5°. de Academie van Bouwkunst te Groningen of
+   - 5°. de Academie van Bouwkunst te Groningen of
 
-- 6°. de (Limburgse) Academie van Bouwkunst te Maastricht;
+   - 6°. de (Limburgse) Academie van Bouwkunst te Maastricht;
 
 - f. het getuigschrift van het met goed gevolg afgelegd examen, verbonden aan de opleiding van de tweede fase, opleiding voor beroepen op het terrein van architectuur, aan een in onderdeel e genoemde Academie van Bouwkunst dan wel aan een Hogeschool waarvan die Academie deel uitmaakt;
 
@@ -212,11 +186,11 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 - h. het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte diploma van het met goed gevolg afgelegd eindexamen van de afdeling stedenbouwkunde aan:
 
-- 1°. de Academie van Bouwkunst te Amsterdam;
+   - 1°. de Academie van Bouwkunst te Amsterdam;
 
-- 2°. de Academie van Bouwkunst te Rotterdam;
+   - 2°. de Academie van Bouwkunst te Rotterdam;
 
-- 3°. de Academie van Bouwkunst dan wel de Academie voor Architectuur en Stedebouw te Tilburg;
+   - 3°. de Academie van Bouwkunst dan wel de Academie voor Architectuur en Stedebouw te Tilburg;
 
 - i. het getuigschrift van het met goed gevolg afgelegd examen, verbonden aan de opleiding van de tweede fase, opleiding voor beroepen op het terrein van stedenbouw, aan een in onderdeel h genoemde Academie van Bouwkunst dan wel aan een Hogeschool waarvan de Academie deel uitmaakt.
 
@@ -338,43 +312,43 @@ Voor de inschrijving in het register komt eveneens in aanmerking degene die in h
 
 - a. het getuigschrift van het met goed gevolg afgelegde examen, verbonden aan de bacheloropleiding Vormgeving, uitstroomprofiel Ruimtelijk Ontwerp, mits betrokkene uiterlijk op 31 december 2010 een aanvang heeft gemaakt met de studie voor dat getuigschrift en in de bijlage van het getuigschrift is vermeld dat is voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=V&artikel=11&z=2016-09-02&g=2016-09-02) van de Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect zoals deze luidde op 30 juni 2012, afgegeven door:
 
-- 1°. de Gerrit Rietveld academie;
+   - 1° de Gerrit Rietveld academie;
 
-- 2°. ArtEZ Hogeschool voor de Kunsten;
+   - 2° ArtEZ Hogeschool voor de Kunsten;
 
-- 3°. Avans Hogeschool;
+   - 3° Avans Hogeschool;
 
-- 4°. de Hogeschool der Kunsten Den Haag;
+   - 4° de Hogeschool der Kunsten Den Haag;
 
-- 5°. de Hanzehogeschool Groningen:
+   - 5° de Hanzehogeschool Groningen:
 
-- 6°. de Hogeschool Zuyd;
+   - 6° de Hogeschool Zuyd;
 
-- 7°. de Hogeschool Rotterdam;
+   - 7° de Hogeschool Rotterdam;
 
-- 8°. de Hogeschool voor de Kunsten Utrecht, of
+   - 8° de Hogeschool voor de Kunsten Utrecht, of
 
 - b. het getuigschrift van het met goed gevolg afgelegd examen op het gebied van de interieurarchitectuur, afgegeven door: dan wel een van de instellingen waaruit de genoemde instellingen ontstaan zijn, of
 
-- 1°. de Gerrit Rietveld Academie;
+   - 1°. de Gerrit Rietveld Academie;
 
-- 2°. de Hogeschool voor de Kunsten Arnhem;
+   - 2°. de Hogeschool voor de Kunsten Arnhem;
 
-- 3°. de Chr. Hogeschool voor de Kunsten ‘Constantijn Huygens’;
+   - 3°. de Chr. Hogeschool voor de Kunsten ‘Constantijn Huygens’;
 
-- 4°. het Instituut voor Hoger Beeldend Kunstonderwijs Oost-Nederland;
+   - 4°. het Instituut voor Hoger Beeldend Kunstonderwijs Oost-Nederland;
 
-- 5°. de Hogeschool Brabant;
+   - 5°. de Hogeschool Brabant;
 
-- 6°. de Koninklijke Academie van Beeldende Kunsten;
+   - 6°. de Koninklijke Academie van Beeldende Kunsten;
 
-- 7°. de Rijkshogeschool Groningen;
+   - 7°. de Rijkshogeschool Groningen;
 
-- 8°. de Rijkshogeschool Maastricht;
+   - 8°. de Rijkshogeschool Maastricht;
 
-- 9°. de Hogeschool Rotterdam en Omstreken of
+   - 9°. de Hogeschool Rotterdam en Omstreken of
 
-- 10°. de Hogeschool voor de Kunsten Utrecht,
+   - 10°. de Hogeschool voor de Kunsten Utrecht,
 
 - c. het op grond van artikel 29 van de Nijverheidsonderwijswet, [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) of artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte einddiploma van een Academie voor Beeldende kunsten, afdeling architectonische vormgeving, waarop is aangeduid dat het examen betrekking had op de interieurvormgeving.
 
@@ -391,5 +365,3 @@ Deze regeling treedt in werking op het tijdstip waarop de wet van 9 maart 2006 t
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en tevens worden bekendgemaakt in ‘Uitleg OCW-Regelingen’.

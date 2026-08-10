@@ -1,45 +1,22 @@
 ---
 title: "Wijzigingsverordening Bevoegdhedenverordening registerloodsen 1995"
+citeertitel: "Wijzigingsverordening Bevoegdhedenverordening registerloodsen 1995 (2006)"
 identifier: "BWBR0019411"
-country: "nl"
-rank: "pbo"
-publication_date: "2006-06-24"
-last_updated: "2006-06-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019411"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "8411163"
-version_id: "13285312"
-internal_id: "C17855981"
-label_id: "8391864"
-dtd_version: "2.0"
-original_entry_into_force: "2006-06-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019411/2006-06-24/0"
-intitule_bron: "Stcrt.2006-119"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2006-06-22"
-intitule_in_force: "2006-06-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-119"
-original_published_date: "2006-06-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-119-p17-SC75612"
-entry_into_force_date: "2006-06-24"
-jci_1_3: "jci1.3:c:BWBR0019411&z=2006-06-24&g=2006-06-24"
-jci_1_0: "1.0:c:BWBR0019411&g=2006-06-24"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsverordening Bevoegdhedenverordening registerloodsen 1995 (2006)"
-entry_into_force: "2006-06-24"
+publicatiedatum: 2006-06-24
+laatste_update: 2006-06-24
+status: geldig
+toestand: 2006-06-24
+bron: "https://wetten.overheid.nl/BWBR0019411"
+opgehaald: 2026-08-10
 ---
+
 # Wijzigingsverordening Bevoegdhedenverordening registerloodsen 1995
-
-Gelet op de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=4), en [15 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=15) (Stb. 1988, 353);
-
-Besluit:
 
 ##### Artikel I
 
-Wijzigt de Bevoegdhedenverordening registerloodsen 1995.
+*Wijzigt de Bevoegdhedenverordening registerloodsen 1995.*
 
 ##### Artikel II
 

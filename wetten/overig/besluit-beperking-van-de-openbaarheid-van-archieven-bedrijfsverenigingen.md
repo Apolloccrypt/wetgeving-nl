@@ -1,43 +1,17 @@
 ---
 title: "Besluit beperking van de openbaarheid van archieven bedrijfsverenigingen"
 identifier: "BWBR0020250"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-09-08"
-last_updated: "2006-09-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020250"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "8578863"
-version_id: "13533052"
-internal_id: "C18195151"
-label_id: "8559104"
-dtd_version: "2.0"
-original_entry_into_force: "2006-09-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020250/2006-09-08/0"
-intitule_bron: "Stcrt.2006-173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-08-31"
-intitule_published: "2006-09-06"
-intitule_in_force: "2006-09-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-173"
-original_signed_date: "2006-08-31"
-original_published_date: "2006-09-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-173-p24-SC76705"
-entry_into_force_date: "2006-09-08"
-jci_1_3: "jci1.3:c:BWBR0020250&z=2006-09-08&g=2006-09-08"
-jci_1_0: "1.0:c:BWBR0020250&g=2006-09-08"
-citeertitel_status: "redactioneel"
-signed_date: "2006-08-31"
-entry_into_force: "2006-09-08"
+publicatiedatum: 2006-09-08
+laatste_update: 2006-09-08
+status: geldig
+toestand: 2006-09-08
+bron: "https://wetten.overheid.nl/BWBR0020250"
+opgehaald: 2026-08-10
 ---
+
 # Besluit beperking van de openbaarheid van archieven bedrijfsverenigingen
-
-Gelet op [artikel 15, eerste lid onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -55,7 +29,7 @@ Het UWV is zorgdrager van de archieven van: Bedrijfsvereniging voor de Bouwnijve
 
 - a. De verzoeker doet een gemotiveerd schriftelijk verzoek tot inzage van de archiefbescheiden, waarin wordt aangegeven: de omschrijving van het onderzoeksdoel, de onderzoeksopzet en de wijze waarop de vertrouwelijkheid van de persoonsgegevens zal worden gewaarborgd;
 
-- b. De verzoeker vult hiertoe het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’ in en ondertekent het formulier. De verzoeker verklaart daarmee tevens zich te zullen houden aan de in het formulier opgenomen bepalingen. In de bijlage bij dit besluit is een exemplaar van het formulier opgenomen.
+- b. De verzoeker vult hiertoe het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’ in en ondertekent het formulier. De verzoeker verklaart daarmee tevens zich te zullen houden aan de in het formulier opgenomen bepalingen. In de [bijlage](https://wetten.overheid.nl/BWBR0020250) bij dit besluit is een exemplaar van het formulier opgenomen.
 
 2. Voordat hij toestemming verleent, beoordeelt de directeur van het Nationaal Archief het verzoek.
 
@@ -70,7 +44,3 @@ Publicatie van gegevens uit de ter inzage gegeven archiefbescheiden waarop de be
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin dit besluit wordt geplaatst.
-
-## Bijlage
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

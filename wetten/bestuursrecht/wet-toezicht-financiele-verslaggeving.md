@@ -1,85 +1,64 @@
 ---
 title: "Wet van 28 september 2006, houdende regels inzake het toezicht op en de handhaving van de voorschriften voor financiële verslaggeving van effectenuitgevende instellingen alsmede tot wijziging van enige wetten (Wet toezicht financiële verslaggeving)"
+citeertitel: "Wet toezicht financiële verslaggeving"
 identifier: "BWBR0020369"
-country: "nl"
-rank: "wet"
-publication_date: "2025-03-01"
-last_updated: "2025-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020369"
+categorie: "Financieel recht"
 soort: "wet"
-stam_id: "8724353"
-version_id: "13773682"
-internal_id: "C18613471"
-label_id: "8704764"
-dtd_version: "2.0"
-original_entry_into_force: "2006-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020369/2025-03-01/0"
-intitule_bron: "Stb.2006-569"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-09-28"
-intitule_published: "2006-11-23"
-intitule_in_force: "2006-11-23"
-intitule_status: "goed"
-original_publication: "Stb.2006-569"
-original_signed_date: "2006-09-28"
-original_published_date: "2006-11-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "30336"
-original_url_id: "stb-2006-569"
-entry_into_force_date: "2006-12-31"
-jci_1_3: "jci1.3:c:BWBR0020369&z=2025-03-01&g=2025-03-01"
-jci_1_0: "1.0:c:BWBR0020369&g=2025-03-01"
-citeertitel_status: "officieel"
-short_title: "Wet toezicht financiële verslaggeving"
-signed_date: "2006-09-28"
-entry_into_force: "2006-12-31"
+publicatiedatum: 2006-12-31
+laatste_update: 2025-03-01
+status: geldig
+toestand: 2025-03-01
+bron: "https://wetten.overheid.nl/BWBR0020369"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 28 september 2006, houdende regels inzake het toezicht op en de handhaving van de voorschriften voor financiële verslaggeving van effectenuitgevende instellingen alsmede tot wijziging van enige wetten (Wet toezicht financiële verslaggeving)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat een verbetering van het toezicht op de naleving en de handhaving van de voorschriften voor de financiële verslaggeving van effectenuitgevende instellingen gewenst is;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Definities en reikwijdte
 
 ##### Artikel 1
 
-In deze wet en de daarop berustende bepalingen wordt – voor zover niet anders is bepaald – verstaan onder:
+In deze wet en de daarop berustende bepalingen wordt – voor zover niet anders is bepaald – verstaan onder:
 
 - a. Autoriteit Financiële Markten: de Stichting Autoriteit Financiële Markten;
 
 - b. effectenuitgevende instelling: uitgevende instelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) waarvan Nederland de lidstaat van herkomst is als bedoeld in [artikel 5:25a, eerste lid, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25a):
 
-- 1°. met statutaire zetel in Nederland waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt, als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), of de handel op een met een gereglementeerde markt vergelijkbaar systeem uit een staat die geen lidstaat is, als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), die gelegen is of functioneert in een staat die niet een lidstaat is van de Europese Unie;
+   - 1°. met statutaire zetel in Nederland waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt, als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), of de handel op een met een gereglementeerde markt vergelijkbaar systeem uit een staat die geen lidstaat is, als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), die gelegen is of functioneert in een staat die niet een lidstaat is van de Europese Unie;
 
-- 2°. Met statutaire zetel in een andere lidstaat of een staat die geen lidstaat is waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+   - 2°. Met statutaire zetel in een andere lidstaat of een staat die geen lidstaat is waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- c. IAS-verordening: [verordening (EG) nr. 1606/2002](32002R1606) van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243);
+- c. IAS-verordening: verordening (EG) nr. 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243);
 
 - d. financiële verslaggeving:
 
-- 1°. de vastgestelde jaarrekening, bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361);
+   - 1°. de vastgestelde jaarrekening, bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361);
 
-- 2°. het bestuursverslag, bedoeld in [artikel 391 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391);
+   - 2°. het bestuursverslag, bedoeld in [artikel 391 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391);
 
-- 3°. de gegevens die op grond van [artikel 392 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392) aan de jaarrekening en het bestuursverslag worden toegevoegd;
+   - 3°. de gegevens die op grond van [artikel 392 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392) aan de jaarrekening en het bestuursverslag worden toegevoegd;
 
-- 4°. indien de effectenuitgevende instelling zetel heeft in een andere lidstaat, de overeenkomstig [artikel 5:25c, eerste en vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c) algemeen verkrijgbaar gestelde en opgestelde jaarrekening en het overeenkomstig [artikel 5:25c, eerste en vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c) algemeen verkrijgbaar gestelde en opgestelde bestuursverslag;
+   - 4°. indien de effectenuitgevende instelling zetel heeft in een andere lidstaat, de overeenkomstig [artikel 5:25c, eerste en vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c) algemeen verkrijgbaar gestelde en opgestelde jaarrekening en het overeenkomstig [artikel 5:25c, eerste en vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c) algemeen verkrijgbaar gestelde en opgestelde bestuursverslag;
 
-- 5°. indien de effectenuitgevende instelling zetel heeft in een staat die geen lidstaat is, de overeenkomstig [artikel 5:25c, eerste en vijfde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c) algemeen verkrijgbaar gestelde jaarrekening en bestuursverslag dan wel de op grond van [artikel 5:25c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c), jo. [artikel 5:25v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v), algemeen verkrijgbaar gestelde jaarlijkse financiële verslaggeving;
+   - 5°. indien de effectenuitgevende instelling zetel heeft in een staat die geen lidstaat is, de overeenkomstig [artikel 5:25c, eerste en vijfde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c) algemeen verkrijgbaar gestelde jaarrekening en bestuursverslag dan wel de op grond van [artikel 5:25c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c), jo. [artikel 5:25v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v), algemeen verkrijgbaar gestelde jaarlijkse financiële verslaggeving;
 
-- 6°. de algemeen verkrijgbaar gestelde verklaringen inzake de jaarrekening en het bestuursverslag, bedoeld in [artikel 5:25c, tweede lid, onderdeel c, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c); en
+   - 6°. de algemeen verkrijgbaar gestelde verklaringen inzake de jaarrekening en het bestuursverslag, bedoeld in [artikel 5:25c, tweede lid, onderdeel c, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c); en
 
-- 7°. de algemeen verkrijgbaar gestelde halfjaarrekening, het algemeen verkrijgbaar gestelde halfjaarlijks bestuursverslag en de algemeen verkrijgbaar gestelde verklaringen, bedoeld in [artikel 5:25d van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d) dan wel de op grond van [artikel 5:25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d) jo. [artikel 5:25v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) algemeen verkrijgbaar gestelde halfjaarlijkse financiële verslaggeving;
+   - 7°. de algemeen verkrijgbaar gestelde halfjaarrekening, het algemeen verkrijgbaar gestelde halfjaarlijks bestuursverslag en de algemeen verkrijgbaar gestelde verklaringen, bedoeld in [artikel 5:25d van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d) dan wel de op grond van [artikel 5:25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d) jo. [artikel 5:25v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) algemeen verkrijgbaar gestelde halfjaarlijkse financiële verslaggeving;
 
-- 8°. het opgemaakte jaarlijkse verslag over betalingen aan overheden, bedoeld in [artikel 5:25e van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25e) of genoemd in de desbetreffende algemene maatregel van bestuur krachtens [artikel 391a, tweede lid, van het Burgerlijk Wetboek](onbekend);
+   - 8°. het opgemaakte jaarlijkse verslag over betalingen aan overheden, bedoeld in [artikel 5:25e van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25e) of genoemd in de desbetreffende algemene maatregel van bestuur krachtens artikel 391a, tweede lid, van het Burgerlijk Wetboek;
 
-- 9°. het door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), gecontroleerde jaarlijkse bezoldigingsverslag, bedoeld in [artikel 135b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=135b).
+   - 9°. het door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), gecontroleerde jaarlijkse bezoldigingsverslag, bedoeld in [artikel 135b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=135b).
 
 - e. Onze Minister: Onze Minister van Financiën.
+
+##### Artikel 1a
+
+1. Deze wet is niet van toepassing op effectenuitgevende instellingen die uitsluitend obligaties of effecten zonder aandelenkarakter als bedoeld in [artikel 5:1, onderdeel e, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:1) uitgeven en waarvan de nominale waarde per eenheid ten minste € 100.000 bedraagt of de tegenwaarde daarvan, op de datum van uitgifte, in een andere munteenheid.
+
+2. Deze wet is niet van toepassing op effectenuitgevende instellingen met zetel in een door Onze Minster aangewezen staat die geen lidstaat is en die op grond van [artikel 5:25v van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) hun financiële verslaggeving opmaken overeenkomstig de in die staat geldende wettelijke voorschriften met betrekking tot financiële verslaggeving. Onze Minister kan een staat uitsluitend aanwijzen indien het in die staat uitgeoefende toezicht op de naleving van de in de vorige volzin bedoelde wettelijke voorschriften voldoende waarborgen biedt ter bescherming van de belangen die deze wet beoogt te beschermen.
+
+3. In afwijking van het eerste lid is deze wet niet van toepassing op effectenuitgevende instellingen die uitsluitend obligaties of effecten zonder aandelenkarakter uitgeven die tot de handel op een gereglementeerde markt in de Europese Unie zijn toegelaten en waarvan de nominale waarde per eenheid ten minste € 50 000 bedraagt of de tegenwaarde daarvan, op de datum van uitgifte, in een andere munteenheid, en die al voor 31 december 2010 tot de handel op een gereglementeerde markt in de Europese Unie zijn toegelaten, zulks voor de looptijd van deze obligaties of effecten zonder aandelenkarakter.
 
 ### Hoofdstuk 2. Toezicht op de naleving van financiële verslaggevingsvoorschriften
 
@@ -123,11 +102,11 @@ In deze wet en de daarop berustende bepalingen wordt – voor zover niet anders 
 
 1. De Autoriteit Financiële Markten kan een verzoek als bedoeld in [artikel 452 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=452) doen, indien een effectenuitgevende instelling onvoldoende gevolg heeft gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=2&z=2025-03-01&g=2025-03-01) bedoelde verzoek of [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
-2. De Autoriteit Financiële Markten kan, nadat zij een mededeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), aan de effectenuitgevende instelling heeft gedaan zonder dat zij daarbij een aanbeveling als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), heeft gedaan, in het belang van een adequate functionering van de effectenmarkten of de positie van de belegger op die markten, een verzoek als bedoeld in [artikel 447](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=447) of [454 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=454) doen.
+2. De Autoriteit Financiële Markten kan, nadat zij een mededeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), aan de effectenuitgevende instelling heeft gedaan zonder dat zij daarbij een aanbeveling als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), heeft gedaan, in het belang van een adequate functionering van de effectenmarkten of de positie van de belegger op die markten, een verzoek als bedoeld in [artikel 447](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=447) of [454 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=454) doen.
 
-3. De Autoriteit Financiële Markten kan een verzoek als bedoeld in [artikel 447](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=447) of [454 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=454) doen, indien de effectenuitgevende instelling onvoldoende gevolg heeft gegeven aan een aanbeveling als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), of aan het ingevolge [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), bepaalde.
+3. De Autoriteit Financiële Markten kan een verzoek als bedoeld in [artikel 447](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=447) of [454 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=454) doen, indien de effectenuitgevende instelling onvoldoende gevolg heeft gegeven aan een aanbeveling als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), of aan het ingevolge [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), bepaalde.
 
-4. De Autoriteit Financiële Markten brengt het feit dat zij een verzoek als bedoeld in [artikel 447](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=447), [452](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=452) of [454 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=454) heeft gedaan ter openbare kennis, nadat zij de effectenuitgevende instelling in de gelegenheid heeft gesteld binnen een redelijke termijn ter openbare kennis te brengen dat de Autoriteit Financiële Markten een verzoek als bedoeld in [artikel 447](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=447), [452](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=452) of [454 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=454) heeft gedaan en de effectenuitgevende instelling daarvan geen gebruik heeft gemaakt. Indien de Autoriteit Financiële Markten het feit dat een verzoek is ingediend ter openbare kennis brengt, vermeldt zij daarbij de naam van de effectenuitgevende instelling, de datum van indiening van het verzoek, de wettelijke grondslag voor het verzoek en, indien het een verzoek als bedoeld in het tweede of derde lid betreft, in welk opzicht de financiële verslaggeving volgens het verzoek herziening behoeft.
+4. De Autoriteit Financiële Markten brengt het feit dat zij een verzoek als bedoeld in [artikel 447](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=447), [452](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=452) of [454 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=454) heeft gedaan ter openbare kennis, nadat zij de effectenuitgevende instelling in de gelegenheid heeft gesteld binnen een redelijke termijn ter openbare kennis te brengen dat de Autoriteit Financiële Markten een verzoek als bedoeld in [artikel 447](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=447), [452](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=452) of [454 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=454) heeft gedaan en de effectenuitgevende instelling daarvan geen gebruik heeft gemaakt. Indien de Autoriteit Financiële Markten het feit dat een verzoek is ingediend ter openbare kennis brengt, vermeldt zij daarbij de naam van de effectenuitgevende instelling, de datum van indiening van het verzoek, de wettelijke grondslag voor het verzoek en, indien het een verzoek als bedoeld in het tweede of derde lid betreft, in welk opzicht de financiële verslaggeving volgens het verzoek herziening behoeft.
 
 5. [Artikel 2, lid 2 en 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=2&z=2025-03-01&g=2025-03-01), zijn van overeenkomstige toepassing op uit een nadere toelichting afkomstige gegevens en inlichtingen die aan de Autoriteit Financiële Markten is verstrekt op grond van een bevel ingevolge [artikel 452, vierde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=452) en op verzoeken als bedoeld in dit artikel.
 
@@ -143,7 +122,7 @@ In deze wet en de daarop berustende bepalingen wordt – voor zover niet anders 
 
 - b. het ingevolge [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=4&z=2025-03-01&g=2025-03-01), ter openbare kennis gebrachte feit dat een verzoek is gedaan; en
 
-- c. afschriften van de beschikkingen, bedoeld in [artikel 453](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=453) of [455 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=455), alsmede afschriften van uitspraken van beroep in cassatie tegen de eerstgenoemde beschikkingen.
+- c. afschriften van de beschikkingen, bedoeld in [artikel 453](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=453) of [455 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=455), alsmede afschriften van uitspraken van beroep in cassatie tegen de eerstgenoemde beschikkingen.
 
 2. De Autoriteit Financiële Markten draagt zorg voor het goed functioneren van het register.
 
@@ -177,45 +156,53 @@ In deze wet en de daarop berustende bepalingen wordt – voor zover niet anders 
 
 2. In afwijking van de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=2&z=2025-03-01&g=2025-03-01), en [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), en [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) kan de Autoriteit Financiële Markten gegevens of inlichtingen, verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan een instantie die in een staat die geen lidstaat is met het toezicht op financiële verslaggeving is belast, indien met betrekking tot de gegevens en inlichtingen krachtens de wet in die staat ten minste gelijkwaardige waarborgen gelden ten aanzien van geheimhouding als op grond van het eerste lid, en voor zover de uitwisseling ten behoeve van de uitoefening van het toezicht door de desbetreffende instantie geschiedt.
 
-3. In afwijking van de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=2&z=2025-03-01&g=2025-03-01), en [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), en [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) kan de Autoriteit Financiële Markten gegevens of inlichtingen, verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan een bij algemene maatregel van bestuur aan te wijzen instantie die tot taak heeft een eenvormige toepassing van de standaarden voor de jaarrekening binnen de Europese Unie of in internationaal verband te bevorderen en een gemeenschappelijke aanpak op het vlak van de handhaving daarvan te ontwikkelen. De in het eerste lid gestelde waarborgen zijn van overeenkomstige toepassing.
+3. In afwijking van de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=2&z=2025-03-01&g=2025-03-01), en [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), en [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) kan de Autoriteit Financiële Markten gegevens of inlichtingen, verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan een bij algemene maatregel van bestuur aan te wijzen instantie die tot taak heeft een eenvormige toepassing van de standaarden voor de jaarrekening binnen de Europese Unie of in internationaal verband te bevorderen en een gemeenschappelijke aanpak op het vlak van de handhaving daarvan te ontwikkelen. De in het eerste lid gestelde waarborgen zijn van overeenkomstige toepassing.
 
 4. De Autoriteit Financiële Markten zendt onverwijld nadat met inachtneming van het tweede lid met een instantie van een staat die geen lidstaat is een overeenkomst is gesloten ten einde gegevens of inlichtingen te kunnen uitwisselen, een afschrift van de overeenkomst aan Onze Minister.
 
 5. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de wijze waarop en de voorwaarden waaronder door de Autoriteit Financiële Markten gegevens of inlichtingen kunnen worden verstrekt.
 
+##### Artikel 6a
+
+1. De Autoriteit Financiële Markten verstrekt, indien zij deelneemt aan een samenwerkingsverband als bedoeld in de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), in afwijking van de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=2&z=2025-03-01&g=2025-03-01), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), aan het samenwerkingsverband gegevens behorend tot de in [hoofdstuk 2 van de Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2) of bij algemene maatregel van bestuur op grond van die wet aangewezen categorieën, voor zover dat noodzakelijk is voor het doel van dat samenwerkingsverband, tenzij naar het oordeel van de Autoriteit Financiële Markten zwaarwegende redenen zich daartegen verzetten.
+
+2. Indien voor de verstrekking aan bepaalde partijen op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=4&artikel=6&z=2025-03-01&g=2025-03-01) bijzondere regels gelden, geschiedt de in het eerste lid bedoelde verstrekking steeds met inachtneming van die regels.
+
+3. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.
+
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. Rekening en verantwoording van de autoriteit financiële markten
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
@@ -231,19 +218,19 @@ Vervallen
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
@@ -263,41 +250,41 @@ Vervallen
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 6. Wijziging van andere wetten
 
 ##### Artikel 24
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 25
 
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
+*Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.*
 
 ##### Artikel 26
 
-Wijzigt Burgerlijk Wetboek Boek 2.
+*Wijzigt Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel 27
 
-Wijzigt het Wetboek van Burgerlijke rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke rechtsvordering.*
 
 ##### Artikel 28
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 29
 
-Wijzigt de Wet toezicht effectenverkeer 1995.
+*Wijzigt de Wet toezicht effectenverkeer 1995.*
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
@@ -320,43 +307,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 32
 
 Deze wet wordt aangehaald als: Wet toezicht financiële verslaggeving.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-1. Deze wet is niet van toepassing op effectenuitgevende instellingen die uitsluitend obligaties of effecten zonder aandelenkarakter als bedoeld in [artikel 5:1, onderdeel e, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:1) uitgeven en waarvan de nominale waarde per eenheid ten minste € 100.000 bedraagt of de tegenwaarde daarvan, op de datum van uitgifte, in een andere munteenheid.
-
-2. Deze wet is niet van toepassing op effectenuitgevende instellingen met zetel in een door Onze Minster aangewezen staat die geen lidstaat is en die op grond van [artikel 5:25v van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) hun financiële verslaggeving opmaken overeenkomstig de in die staat geldende wettelijke voorschriften met betrekking tot financiële verslaggeving. Onze Minister kan een staat uitsluitend aanwijzen indien het in die staat uitgeoefende toezicht op de naleving van de in de vorige volzin bedoelde wettelijke voorschriften voldoende waarborgen biedt ter bescherming van de belangen die deze wet beoogt te beschermen.
-
-3. In afwijking van het eerste lid is deze wet niet van toepassing op effectenuitgevende instellingen die uitsluitend obligaties of effecten zonder aandelenkarakter uitgeven die tot de handel op een gereglementeerde markt in de Europese Unie zijn toegelaten en waarvan de nominale waarde per eenheid ten minste € 50 000 bedraagt of de tegenwaarde daarvan, op de datum van uitgifte, in een andere munteenheid, en die al voor 31 december 2010 tot de handel op een gereglementeerde markt in de Europese Unie zijn toegelaten, zulks voor de looptijd van deze obligaties of effecten zonder aandelenkarakter.
-
-### Hoofdstuk 2. Toezicht op de naleving van financiële verslaggevingsvoorschriften
-
-### Hoofdstuk 3. Het register
-
-### Hoofdstuk 4. Uitwisseling van gegevens en samenwerking
-
-### Hoofdstuk 5. Rekening en verantwoording van de autoriteit financiële markten
-
-### Hoofdstuk 6. Wijziging van andere wetten
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6a
-
-1. De Autoriteit Financiële Markten verstrekt, indien zij deelneemt aan een samenwerkingsverband als bedoeld in de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), in afwijking van de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=2&z=2025-03-01&g=2025-03-01), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), aan het samenwerkingsverband gegevens behorend tot de in [hoofdstuk 2 van de Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2) of bij algemene maatregel van bestuur op grond van die wet aangewezen categorieën, voor zover dat noodzakelijk is voor het doel van dat samenwerkingsverband, tenzij naar het oordeel van de Autoriteit Financiële Markten zwaarwegende redenen zich daartegen verzetten.
-
-2. Indien voor de verstrekking aan bepaalde partijen op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=4&artikel=6&z=2025-03-01&g=2025-03-01) bijzondere regels gelden, geschiedt de in het eerste lid bedoelde verstrekking steeds met inachtneming van die regels.
-
-3. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.
-
-### Hoofdstuk 5. Rekening en verantwoording van de autoriteit financiële markten
-
-### Hoofdstuk 6. Wijziging van andere wetten
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

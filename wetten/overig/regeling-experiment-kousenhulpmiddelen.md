@@ -1,43 +1,18 @@
 ---
 title: "Regeling Experiment kousenhulpmiddelen"
+citeertitel: "Regeling experiment kousenhulpmiddelen"
 identifier: "BWBR0020765"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-12-20"
-last_updated: "2006-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020765"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "8809993"
-version_id: "13963882"
-internal_id: "C18985571"
-label_id: "8789714"
-dtd_version: "2.0"
-original_entry_into_force: "2006-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020765/2006-12-20/0"
-intitule_bron: "Stcrt.2006-246"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2006-12-18"
-intitule_in_force: "2006-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-246"
-original_published_date: "2006-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-246-p45-SC78520"
-entry_into_force_date: "2006-12-20"
-jci_1_3: "jci1.3:c:BWBR0020765&z=2006-12-20&g=2006-12-20"
-jci_1_0: "1.0:c:BWBR0020765&g=2006-12-20"
-citeertitel_status: "officieel"
-short_title: "Regeling experiment kousenhulpmiddelen"
-entry_into_force: "2006-12-20"
+publicatiedatum: 2006-12-20
+laatste_update: 2006-12-20
+status: geldig
+toestand: 2006-12-20
+bron: "https://wetten.overheid.nl/BWBR0020765"
+opgehaald: 2026-08-10
 ---
+
 # Regeling Experiment kousenhulpmiddelen
-
-De Nederlandse Zorgautoriteit (NZa),
-
-Gelet op de [artikelen 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg);
-
-Heeft de volgende regeling vastgesteld:
 
 ##### Artikel 1. Algemeen
 

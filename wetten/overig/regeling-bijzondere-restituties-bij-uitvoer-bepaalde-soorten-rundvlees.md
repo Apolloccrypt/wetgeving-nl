@@ -1,50 +1,18 @@
 ---
 title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 december 2006, nr. TRCJZ/2006/3802, houdende regeling bijzondere restituties bij uitvoer bepaalde soorten rundvlees"
+citeertitel: "Regeling bijzondere restituties bij uitvoer bepaalde soorten rundvlees"
 identifier: "BWBR0020740"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-06-27"
-last_updated: "2014-06-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020740"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "8791143"
-version_id: "13933512"
-internal_id: "C18944841"
-label_id: "8771194"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020740/2014-06-27/0"
-intitule_bron: "Stcrt.2006-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-12-11"
-intitule_published: "2006-12-19"
-intitule_in_force: "2006-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-247"
-original_signed_date: "2006-12-11"
-original_published_date: "2006-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-247-p16-SC78219"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020740&z=2014-06-27&g=2014-06-27"
-jci_1_0: "1.0:c:BWBR0020740&g=2014-06-27"
-citeertitel_status: "officieel"
-short_title: "Regeling bijzondere restituties bij uitvoer bepaalde soorten rundvlees"
-signed_date: "2006-12-11"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2014-06-27
+status: geldig
+toestand: 2014-06-27
+bron: "https://wetten.overheid.nl/BWBR0020740"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 december 2006, nr. TRCJZ/2006/3802, houdende regeling bijzondere restituties bij uitvoer bepaalde soorten rundvlees
-
-Gelet op [Verordening (EEG) nr. 32/82](31982R0032) van de Commissie van 7 januari 1982 tot vaststelling van de voorwaarden voor de toekenning van bijzondere restituties bij uitvoer in de rundvleessector;
-
-Gelet op [Verordening (EEG) nr. 1964/82](31982R1964) van de Commissie van 20 juli 1982 tot vaststelling van de voorwaarden voor de toekenning van bijzondere restituties bij uitvoer van bepaalde soorten rundvlees zonder been;
-
-Gelet op [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003360&artikel=11) en [artikel 13, eerste lid, van het In- en uitvoerbesluit landbouwgoederen 1980](https://wetten.overheid.nl/jci1.3:c:BWBR0003360&artikel=13);
-
-Handelende in overeenstemming met de Minister van Financiën;
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -56,49 +24,53 @@ In deze regeling wordt verstaan onder:
 
 - b. NVWA: Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;
 
-- c. [verordening 32/82](31982R0032): [verordening (EEG) nr. 32/82](31982R0032) van de Commissie van 7 januari 1982, tot vaststelling van de voorwaarden voor de toekenning van bijzondere restituties bij uitvoer in de rundvleessector (PbEG L 4);
+- c. verordening 32/82: verordening (EEG) nr. 32/82 van de Commissie van 7 januari 1982, tot vaststelling van de voorwaarden voor de toekenning van bijzondere restituties bij uitvoer in de rundvleessector (PbEG L 4);
 
-- d. [verordening 1964/82](31982R1964): [verordening (EEG) nr. 1964/82](31982R1964) van de Commissie van 20 juli 1982, tot vaststelling van de voorwaarden voor de toekenning van bijzondere restituties bij uitvoer van bepaalde soorten rundvlees zonder been (PbEG L 212);
+- d. verordening 1964/82: verordening (EEG) nr. 1964/82 van de Commissie van 20 juli 1982, tot vaststelling van de voorwaarden voor de toekenning van bijzondere restituties bij uitvoer van bepaalde soorten rundvlees zonder been (PbEG L 212);
 
-- e. [verordening 853/2004](32004R0853): [verordening (EG) nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139);
+- e. verordening 853/2004: verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139);
 
 - f. karkas: het geslachte dier, zonder kop en zonder poten, zonder de organen in de borst- en buikholte, zonder nieren, het niervet en het slotvet, zonder de geslachtsorganen met de bijbehorende spieren, zonder middenrif en longhaas, zonder staart, zonder ruggenmerg, zonder zakvet, zonder bovenbilvet en zonder vette nekaders;
 
-- g. oormerknummer: oormerknummer, als bedoeld in [verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad van 17 juli 2000 tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van [Verordening (EG) nr. 820/97](31997R0820) van de Raad (PbEG L 2004);
+- g. oormerknummer: oormerknummer, als bedoeld in verordening (EG) nr. 1760/2000 van het Europees Parlement en de Raad van 17 juli 2000 tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van Verordening (EG) nr. 820/97 van de Raad (PbEG L 2004);
 
 - h. volwassen mannelijke runderen: mannelijke runderen met een levend gewicht van meer dan 300 kg of, indien het levend gewicht niet kan worden vastgesteld, met een geslacht gewicht van ten minste 150 kg;
 
-- i. identificatieattest: attest waarvan het model is opgenomen in de bijlage van [verordening 32/82](31982R0032);
+- i. identificatieattest: attest waarvan het model is opgenomen in de bijlage van verordening 32/82;
 
-- j. attest uitgebeend vlees: attest uitgebeend vlees van voorvoeten of achtervoeten waarvan het model is opgenomen in de bijlagen van [verordening 1964/82](31982R1964);
+- j. attest uitgebeend vlees: attest uitgebeend vlees van voorvoeten of achtervoeten waarvan het model is opgenomen in de bijlagen van verordening 1964/82;
 
-- k. vlees: vers of gekoeld vlees in de vorm van hele dieren of halve dieren, compensated quarters, voorvoeten of achtervoeten, als bedoeld in artikel 1, tweede lid, van [verordening 32/82](31982R0032);
+- k. vlees: vers of gekoeld vlees in de vorm van hele dieren of halve dieren, compensated quarters, voorvoeten of achtervoeten, als bedoeld in artikel 1, tweede lid, van verordening 32/82;
 
-- l. technische delen: de in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=1&z=2014-06-27&g=2014-06-27) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=2&z=2014-06-27&g=2014-06-27) bij deze regeling omschreven afzonderlijk verpakte delen, zonder been, met een magervleesaandeel van ten minste 55% afkomstig van verse of gekoelde voor- en achtervoeten van volwassen mannelijke runderen, als bedoeld in artikel 1 van [verordening 1964/82](31982R1964);
+- l. technische delen: de in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=1&z=2014-06-27&g=2014-06-27) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=2&z=2014-06-27&g=2014-06-27) bij deze regeling omschreven afzonderlijk verpakte delen, zonder been, met een magervleesaandeel van ten minste 55% afkomstig van verse of gekoelde voor- en achtervoeten van volwassen mannelijke runderen, als bedoeld in artikel 1 van verordening 1964/82;
 
 - m. belanghebbende: degene die aanspraak maakt op een bijzondere restitutie of degene die namens deze handelt;
 
-- n. uitsnijderij: een inrichting voor het uitbenen of uitsnijden van vlees zoals gedefinieerd in bijlage 1, onderdeel 1.17, van [verordening 853/2004](32004R0853);
+- n. uitsnijderij: een inrichting voor het uitbenen of uitsnijden van vlees zoals gedefinieerd in bijlage 1, onderdeel 1.17, van verordening 853/2004;
 
-- o. [verordening 800/1999](31999R0800): [verordening (EG) nr. 800/1999](31999R0800) van de Commissie van 15 april 1999 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEG L 102);
+- o. verordening 800/1999: verordening (EG) nr. 800/1999 van de Commissie van 15 april 1999 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEG L 102);
 
-- p. uitvoer: uitvoer uit de Gemeenschap of leveranties als bedoeld in artikel 36 van [verordening 800/1999](31999R0800);
+- p. uitvoer: uitvoer uit de Gemeenschap of leveranties als bedoeld in artikel 36 van verordening 800/1999;
 
-- q. aanvullende aantekeningen: aanvullende aantekeningen bij hoofdstuk 2, bijlage 1 van [verordening (EEG) nr. 2658/87](31987R2658) van de Raad met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 286).
+- q. aanvullende aantekeningen: aanvullende aantekeningen bij hoofdstuk 2, bijlage 1 van verordening (EEG) nr. 2658/87 van de Raad met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 286).
+
+##### Artikel 1a
+
+Deze regeling berust op [artikel 3:3, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:3), en [3:4, eerste lid, van het Algemeen douanebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:4).
 
 ##### Artikel 2
 
-1. Overeenkomstig de bepalingen van [verordening 32/82](31982R0032) en [verordening 1964/82](31982R1964) en van deze regeling kan door de Minister een bijzondere restitutie worden toegekend ter zake van uitvoer van de volgende producten:
+1. Overeenkomstig de bepalingen van verordening 32/82 en verordening 1964/82 en van deze regeling kan door de Minister een bijzondere restitutie worden toegekend ter zake van uitvoer van de volgende producten:
 
 - a. vlees;
 
 - b. technische delen.
 
-2. Het in artikel 2, tweede lid, van [verordening 32/82](31982R0032) bedoelde bewijs dat de uitgevoerde producten afkomstig zijn van volwassen mannelijke runderen wordt afgegeven door de NVWA.
+2. Het in artikel 2, tweede lid, van verordening 32/82 bedoelde bewijs dat de uitgevoerde producten afkomstig zijn van volwassen mannelijke runderen wordt afgegeven door de NVWA.
 
 3. Alle handelingen in het kader van deze regeling vinden plaats op werkdagen tussen 7.00 uur en 17.00 uur onder toezicht van een ambtenaar van de Algemene Inspectiedienst.
 
-4. De bijzondere restitutie voor technische delen wordt niet verleend indien de producten onder de in artikel 40 van [verordening 800/1999](31999R0800) bedoelde regeling zijn geplaatst.
+4. De bijzondere restitutie voor technische delen wordt niet verleend indien de producten onder de in artikel 40 van verordening 800/1999 bedoelde regeling zijn geplaatst.
 
 #### Paragraaf 2. Bepalingen betreffende de bijzondere restitutie voor vlees
 
@@ -148,7 +120,7 @@ In deze paragraaf wordt verstaan onder:
 
 - a. of de lever of nieren nog vastzitten aan het karkas of de achtervoeten;
 
-- b. het nettogewicht, na toepassing van artikel 1, derde lid, van [verordening 32/82](31982R0032).
+- b. het nettogewicht, na toepassing van artikel 1, derde lid, van verordening 32/82.
 
 2. De ambtenaar van de NVWA vermeldt het nettogewicht waarvoor restitutie kan worden aangevraagd in het daartoe bestemde vak van het identificatieattest.
 
@@ -176,9 +148,9 @@ AID. XMY
 
 Het in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2014-06-27&g=2014-06-27), bedoelde merk wordt aangebracht op:
 
-- –. de voorvoet: op de fijne rib of op de naborst;
+- – de voorvoet: op de fijne rib of op de naborst;
 
-- –. de achtervoet: op de schenkel of op de platte rib.
+- – de achtervoet: op de schenkel of op de platte rib.
 
 ##### Artikel 9
 
@@ -204,9 +176,9 @@ Onmiddellijk nadat het vlees van het merk is voorzien wordt het vlees onder toez
 
 In deze paragraaf wordt verstaan onder:
 
-- a. voorvoeten: voorvoeten of voorspannen, zoals gedefinieerd in artikel 1, eerste gedachtestreepje, van [verordening 1964/82](31982R1964);
+- a. voorvoeten: voorvoeten of voorspannen, zoals gedefinieerd in artikel 1, eerste gedachtestreepje, van verordening 1964/82;
 
-- b. achtervoeten: achtervoeten of achterspannen, zoals gedefinieerd in artikel 1, tweede gedachtestreepje, van [verordening 1964/82](31982R1964).
+- b. achtervoeten: achtervoeten of achterspannen, zoals gedefinieerd in artikel 1, tweede gedachtestreepje, van verordening 1964/82.
 
 ##### Artikel 12
 
@@ -268,7 +240,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 16
 
-Het uitbenen van de voor- of achtervoeten en het verpakken van de door uitbening verkregen delen vindt plaats in een uitsnijderij die is erkend op grond van [verordening 853/2004](32004R0853).
+Het uitbenen van de voor- of achtervoeten en het verpakken van de door uitbening verkregen delen vindt plaats in een uitsnijderij die is erkend op grond van verordening 853/2004.
 
 ##### Artikel 17
 
@@ -380,7 +352,7 @@ Bij het uitbenen en verpakken worden de volgende voorschriften in acht genomen:
 
 ##### Artikel 24
 
-Wijzigt de Regeling medebewind gemeenschappelijk landbouwbeleid.
+*Wijzigt de Regeling medebewind gemeenschappelijk landbouwbeleid.*
 
 ##### Artikel 25
 
@@ -393,128 +365,3 @@ Deze regeling treedt in werking met ingang 1 januari 2007.
 ##### Artikel 27
 
 Deze regeling wordt aangehaald als: Regeling bijzondere restituties bij uitvoer bepaalde soorten rundvlees.
-
-## Bijlage 1
-
-Technische delen afkomstig van achtervoeten, zoals genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=17&z=2007-01-01&g=2007-01-01) van deze regeling:
-
-- A. achterschenkel;
-
-- B. platte bil;
-
-- C. muis;
-
-- D. peeseind;
-
-- E. bovenbil;
-
-- F. spierstuk
-
-- G. staartstuk
-
-- H. dikke lende;
-
-- I. slip van de lende;
-
-- J. fijne rib van de achtervoet;
-
-- K. dunne lende;
-
-- L. haas;
-
-- M. vang (inclusief vinkenlap) van de achtervoet.
-
-## Bijlage 1
-
-Technische delen afkomstig van achtervoeten, zoals genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=17&z=2014-06-27&g=2014-06-27) van deze regeling:
-
-- A. achterschenkel;
-
-- B. platte bil;
-
-- C. muis;
-
-- D. peeseind;
-
-- E. bovenbil;
-
-- F. spierstuk
-
-- G. staartstuk
-
-- H. dikke lende;
-
-- I. slip van de lende;
-
-- J. fijne rib van de achtervoet;
-
-- K. dunne lende;
-
-- L. haas;
-
-- M. vang (inclusief vinkenlap) van de achtervoet.
-
-## Bijlage 2
-
-Technische delen van voorvoeten, zoals genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=17&z=2014-06-27&g=2014-06-27) van deze regeling:
-
-- P. voorschenkel;
-
-- Q. nek
-
-- R. fijne rib van de voorvoet;
-
-- S. onderrib;
-
-- T. schouder;
-
-- U. borst inclusief naborst;
-
-- V. vang (eventueel inclusief vinkenlap) van de voorvoet.
-
-## Bijlage 3
-
-Minimumgewichten overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=5&z=2014-06-27&g=2014-06-27), van deze regeling:
-
-| Hele geslachte dier | 150 kg |
-| --- | --- |
-| Halve geslachte dier en ‘compensated quarter’ | 75 kg |
-| Voorvoet | 35 kg |
-| Voorspan | 70 kg |
-| Achtervoet | 40 kg |
-| Achterspan | 80 kg |
-| Achtervoet met meer dan acht ribben | 45 kg |
-| Achterspan met meer dan acht paar ribben | 90 kg |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 3:3, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:3), en [3:4, eerste lid, van het Algemeen douanebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:4).
-
-#### Paragraaf 2. Bepalingen betreffende de bijzondere restitutie voor vlees
-
-#### Paragraaf 3. Bepalingen betreffende de bijzondere restitutie voor technische delen
-
-#### Paragraaf 4. Bijzondere bepalingen betreffende de douaneformaliteiten bij uitvoer
-
-#### Paragraaf 5. Slotbepalingen
-
-## Bijlage 4
-
-| Slachtafval | Bij halve karkas/compensated quarter voorvoet/achtervoet in kg | Hele karkas voorspan/achterspan in kg |
-| --- | --- | --- |
-| Nier(en) | 0,25 | 0,5 |
-| Niervet | 1,9 | 3,8 |
-| Slotvet | 0,4 | 0,8 |
-| Lever | 4,5 | 4,5 |
-| Middenrif | 0,3 | 0,6 |
-| Longhaas | 0,6 | 0,6 |
-| Staart | 0,6 | 0,6 |
-| Ruggenmerg | 0,2 | 0,2 |
-| Teelballen | 0,3 | 0,6 |
-| Zakvet | 0,4 | 0,8 |
-| Bovenbilvet | 0,3 | 0,6 |
-| Vette nekaders | 0,3 | 0,6 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

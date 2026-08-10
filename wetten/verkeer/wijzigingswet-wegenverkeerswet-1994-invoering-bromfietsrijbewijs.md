@@ -1,60 +1,30 @@
 ---
 title: "Wet van 28 juni 2006 tot wijziging van de Wegenverkeerswet 1994 in verband met de invoering van een bromfietsrijbewijs"
+citeertitel: "Wijzigingswet Wegenverkeerswet 1994 (invoering bromfietsrijbewijs)"
 identifier: "BWBR0020020"
-country: "nl"
-rank: "wet"
-publication_date: "2007-11-14"
-last_updated: "2007-11-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020020"
+categorie: "Verkeer"
 soort: "wet"
-stam_id: "8512383"
-version_id: "13853312"
-internal_id: "C18783781"
-label_id: "8492844"
-dtd_version: "2.0"
-original_entry_into_force: "2006-11-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020020/2007-11-14/0"
-intitule_bron: "Stb.2006-322"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-06-28"
-intitule_published: "2006-07-13"
-intitule_in_force: "2006-08-29"
-intitule_status: "goed"
-original_publication: "Stb.2006-616"
-original_signed_date: "2006-11-02"
-original_published_date: "2006-12-07"
-original_effect: "structuurwijziging"
-original_dossier: "30476"
-original_url_id: "stb-2006-616"
-entry_into_force_date: "2006-11-02"
-entry_into_force_dossier: "30476"
-jci_1_3: "jci1.3:c:BWBR0020020&z=2007-11-14&g=2007-11-14"
-jci_1_0: "1.0:c:BWBR0020020&g=2007-11-14"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wegenverkeerswet 1994 (invoering bromfietsrijbewijs)"
-signed_date: "2006-11-02"
-entry_into_force: "2006-11-02"
+publicatiedatum: 2006-11-02
+laatste_update: 2007-11-14
+status: geldig
+toestand: 2007-11-14
+bron: "https://wetten.overheid.nl/BWBR0020020"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 28 juni 2006 tot wijziging van de Wegenverkeerswet 1994 in verband met de invoering van een bromfietsrijbewijs
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het met het oog op de ongevalsrisico’s voor met name jonge brom- en snorfietsers wenselijk is over te gaan tot invoering van een bromfietsrijbewijs;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wegenverkeerswet 1994.
+*Wijzigt de Wegenverkeerswet 1994.*
 
 ##### Artikel II
 
-Wijzigt de Invoeringswet Wegenverkeerswet 1994.
+*Wijzigt de Invoeringswet Wegenverkeerswet 1994.*
 
 ##### Artikel III
 
-Wijzigt de Wet rijonderricht motorrijtuigen 1993.
+*Wijzigt de Wet rijonderricht motorrijtuigen 1993.*
 
 ##### Artikel IV
 
@@ -75,6 +45,14 @@ Aanvragen tot afgifte van een bromfietscertificaat ingediend voor het tijdstip v
 2. Aanvragen tot afgifte van een bromfietscertificaat ter vervanging van een geldig certificaat dat verloren geraakt of teniet gegaan is, ingediend op of na het tijdstip van inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0020020&artikel=I&z=2007-11-14&g=2007-11-14), worden behandeld overeenkomstig bij of krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) vastgestelde bepalingen inzake de aanvraag van een vervangend rijbewijs, met dien verstande dat ten aanzien van de aanvrager geen verklaring van geschiktheid behoeft te zijn geregistreerd, dat de registratie in het bromfietscertificatenregister dat aan de aanvrager ooit een bromfietscertificaat is afgegeven wordt gelijkgesteld met de registratie een verklaring van rijvaardigheid, dat geen proces-verbaal terzake van vermissing of diefstal vereist is en dat geen vervangend bromfietscertificaat wordt afgegeven, maar een vervangend rijbewijs dat geldig is voor het besturen van bromfietsen.
 
 3. Aanvragen tot afgifte van een bromfietscertificaat ter vervanging van een geldig certificaat dat verloren geraakt of teniet gegaan is, ingediend op of na het tijdstip van inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0020020&artikel=I&z=2007-11-14&g=2007-11-14), afkomstig van personen die overeenkomstig de bepalingen bij of krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) zoals die gelden na inwerkingtreding van deze wet, niet in aanmerking komen voor afgifte van een vervangend rijbewijs dat geldig is voor het besturen van bromfietsen, worden behandeld overeenkomstig de bepalingen zoals die golden voor inwerkingtreding van deze wet.
+
+##### Artikel VB
+
+1. Vreemdelingen die rechtmatig in Nederland verblijven op grond van [artikel 8, onderdelen e tot en met k, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en die beschikken over een document als bedoeld in [artikel 1, eerste lid, 2°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) of [artikel 2, eerste of tweede lid, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2), kunnen een aanvraag indienen tot afgifte van een bromfietscertificaat. Deze aanvragen worden behandeld overeenkomstig bij ministeriële regeling te stellen voorschriften.
+
+2. Bromfietscertificaten, afgegeven op grond van het eerste lid, behouden hun geldigheid tot maximaal drie jaar na inwerkingtreding van deze wet.
+
+3. [Artikel VI, tweede tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020020&artikel=VI&z=2007-11-14&g=2007-11-14), is van overeenkomstige toepassing.
 
 ##### Artikel VI
 
@@ -104,6 +82,10 @@ Aanvragen tot afgifte van een bromfietscertificaat ingediend voor het tijdstip v
 
 3. De houder van het ongeldig verklaarde bromfietscertificaat levert dat certificaat in bij degene die het ongeldig heeft verklaard, zodra de ongeldigverklaring van kracht is geworden.
 
+##### Artikel VIIA
+
+Bromfietscertificaten dienen te voldoen aan de eisen zoals die golden voor inwerkingtreding van deze wet en dienen behoorlijk leesbaar te zijn.
+
 ##### Artikel VIII
 
 Op de eerste vordering van de in [artikel 159 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=159) bedoelde personen is de bestuurder van een bromfiets verplicht die bromfiets te doen stilhouden alsmede het bromfietscertificaat of een rijbewijs behoorlijk ter inzage af te geven.
@@ -126,30 +108,12 @@ Ten aanzien van tweede onderzoeken als bedoeld in [artikel 134, derde lid, van d
 
 ##### Artikel XIII
 
-Wijzigt de Wegenverkeerswet 1994.
+*Wijzigt de Wegenverkeerswet 1994.*
 
 ##### Artikel XIV
 
-Wijzigt de Wijzigingswet Wegenverkeerswet 1994(invoering puntenstelsel rijbewijzen)(Kst. 30324).
+*Wijzigt de Wijzigingswet Wegenverkeerswet 1994(invoering puntenstelsel rijbewijzen)(Kst. 30324).*
 
 ##### Artikel XV
 
 Deze wet treedt in werking op een bij koninklijk besluit nader te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel VB
-
-1. Vreemdelingen die rechtmatig in Nederland verblijven op grond van [artikel 8, onderdelen e tot en met k, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en die beschikken over een document als bedoeld in [artikel 1, eerste lid, 2°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) of [artikel 2, eerste of tweede lid, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2), kunnen een aanvraag indienen tot afgifte van een bromfietscertificaat. Deze aanvragen worden behandeld overeenkomstig bij ministeriële regeling te stellen voorschriften.
-
-2. Bromfietscertificaten, afgegeven op grond van het eerste lid, behouden hun geldigheid tot maximaal drie jaar na inwerkingtreding van deze wet.
-
-3. [Artikel VI, tweede tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020020&artikel=VI&z=2007-11-14&g=2007-11-14), is van overeenkomstige toepassing.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel VIIA
-
-Bromfietscertificaten dienen te voldoen aan de eisen zoals die golden voor inwerkingtreding van deze wet en dienen behoorlijk leesbaar te zijn.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

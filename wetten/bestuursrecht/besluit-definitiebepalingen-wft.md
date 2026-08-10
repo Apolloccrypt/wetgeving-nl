@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 12 oktober 2006, houdende bepalingen met betrekking tot enkele definities uit artikel 1:1 van de Wet op het financieel toezicht (Besluit definitiebepalingen Wft)"
+citeertitel: "Besluit definitiebepalingen Wft"
 identifier: "BWBR0020412"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020412"
+categorie: "Financieel recht"
 soort: "AMvB"
-stam_id: "8684223"
-version_id: "13707292"
-internal_id: "C18900791"
-label_id: "8664394"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020412/2012-01-01/0"
-intitule_bron: "Stb.2006-505"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-10-12"
-intitule_published: "2006-10-31"
-intitule_in_force: "2006-12-20"
-intitule_status: "goed"
-original_publication: "Stb.2006-505"
-original_signed_date: "2006-10-12"
-original_published_date: "2006-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2006-505"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020412&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0020412&g=2012-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit definitiebepalingen Wft"
-signed_date: "2006-10-12"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0020412"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 12 oktober 2006, houdende bepalingen met betrekking tot enkele definities uit artikel 1:1 van de Wet op het financieel toezicht (Besluit definitiebepalingen Wft)
-
-Op de voordracht van Onze Minister van Financiën van 26 juni 2006, nr. FM 2006-01571 M;
-
-Gelet op artikel 1 van [richtlijn nr. 87/102/EEG](31987L0102) van de Raad van de Europese Gemeenschappen van 22 december 1986 betreffende de harmonisatie van de wettelijke en bestuursrechtelijke bepalingen der lidstaten inzake het consumentenkrediet (PbEG L 42), artikel 2 van [richtlijn nr. 2003/71/EG](32003L0071) van het Europees parlement en de Raad van de Europese Unie van 4 november 2003 betreffende het prospectus dat gepubliceerd moet worden wanneer effecten aan het publiek worden aangeboden of tot de handel worden toegelaten en tot wijziging van [richtlijn 2001/34/EG](32001L0034) (PbEU L 345) en [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
-
-De Raad van State gehoord (advies van 20 juli 2006, nr. W06.06.0267/IV);
-
-Gezien het nader rapport van Onze Minister van Financiën van 9 oktober 2006, nr. FM 2006-01837 U;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -52,7 +20,7 @@ In dit besluit wordt verstaan onder:
 
 - a. wet: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
 
-- b. afgeleide instrumenten voor de overdracht van kredietrisico: financiële instrumenten als bedoeld in Bijlage I, Deel C, onderdeel 8 van [richtlijn nr. 2004/39/EG](32004L0039) van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende markten voor financiële instrumenten tot wijziging van de [richtlijnen 85/611/EEG](31985L0611) en [93/6/EEG](31993L0006) van de Raad en van [richtlijn 2000/12/EG](32000L0012) van het Europees Parlement en de Raad en houdende intrekking van [richtlijn 93/22/EEG](31993L0022) van de Raad (PbEU L 145).
+- b. afgeleide instrumenten voor de overdracht van kredietrisico: financiële instrumenten als bedoeld in Bijlage I, Deel C, onderdeel 8 van richtlijn nr. 2004/39/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende markten voor financiële instrumenten tot wijziging van de richtlijnen 85/611/EEG en 93/6/EEG van de Raad en van richtlijn 2000/12/EG van het Europees Parlement en de Raad en houdende intrekking van richtlijn 93/22/EEG van de Raad (PbEU L 145).
 
 ##### Artikel 2
 
@@ -70,11 +38,11 @@ Als beleggingsobject in de zin van onderdeel b van de definitie van beleggingsob
 
 - d. rechtspersonen of vennootschappen die speciaal zijn opgericht:
 
-- 1°. voor het verrichten van transacties ter verkrijging van vorderingen die strekken tot zekerheid van aangeboden of aan te bieden effecten;
+   - 1°. voor het verrichten van transacties ter verkrijging van vorderingen die strekken tot zekerheid van aangeboden of aan te bieden effecten;
 
-- 2°. voor het verrichten van transacties ter belegging in subparticipaties of afgeleide instrumenten voor de overdracht van kredietrisico die kunnen worden afgewikkeld door de vorderingen aan hen over te dragen, waarbij de rechten die voor hen voortvloeien uit de subparticipaties of uit de afgeleide instrumenten strekken tot zekerheid van aangeboden of aan te bieden effecten; of
+   - 2°. voor het verrichten van transacties ter belegging in subparticipaties of afgeleide instrumenten voor de overdracht van kredietrisico die kunnen worden afgewikkeld door de vorderingen aan hen over te dragen, waarbij de rechten die voor hen voortvloeien uit de subparticipaties of uit de afgeleide instrumenten strekken tot zekerheid van aangeboden of aan te bieden effecten; of
 
-- 3°. om kredietuitzettingen te verrichten ten behoeve van uitsluitend een of meer professionele marktpartijen als bedoeld in [artikel 1:1, onderdeel a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+   - 3°. om kredietuitzettingen te verrichten ten behoeve van uitsluitend een of meer professionele marktpartijen als bedoeld in [artikel 1:1, onderdeel a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
 2. Personen of vennootschappen van wie opvorderbare gelden worden aangetrokken, ter beschikking worden verkregen of ter beschikking worden gehouden, worden in hun rechtsverhouding tot degene die de opvorderbare gelden aantrekt, ter beschikking verkrijgt onderscheidenlijk ter beschikking heeft, aangewezen als professionele marktpartij in de zin van onderdeel c van de definitie van professionele marktpartij in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), indien:
 
@@ -86,7 +54,7 @@ Als beleggingsobject in de zin van onderdeel b van de definitie van beleggingsob
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
@@ -95,5 +63,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit definitiebepalingen Wft.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

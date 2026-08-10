@@ -1,46 +1,18 @@
 ---
 title: "Regeling houdende regels betreffende de bestelling, het transport en de beveiliging van rijbewijzen en wijziging van enkele regelingen op het gebied van de rijbewijsreglementering (Regeling bestelling, transport en beveiliging rijbewijzen)"
+citeertitel: "Regeling bestelling, transport en beveiliging rijbewijzen"
 identifier: "BWBR0020227"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020227"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "8571933"
-version_id: "19339992"
-internal_id: "C27017391"
-label_id: "8552534"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020227/2015-07-01/0"
-intitule_bron: "Stcrt.2006-170"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-08-25"
-intitule_published: "2006-09-01"
-intitule_in_force: "2006-08-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-7389"
-original_signed_date: "2012-03-27"
-original_published_date: "2012-04-17"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2012-7389"
-entry_into_force_date: "2013-01-19"
-jci_1_3: "jci1.3:c:BWBR0020227&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0020227&g=2015-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling bestelling, transport en beveiliging rijbewijzen"
-signed_date: "2012-03-27"
-entry_into_force: "2013-01-19"
+publicatiedatum: 2013-01-19
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0020227"
+opgehaald: 2026-08-10
 ---
+
 # Regeling houdende regels betreffende de bestelling, het transport en de beveiliging van rijbewijzen en wijziging van enkele regelingen op het gebied van de rijbewijsreglementering (Regeling bestelling, transport en beveiliging rijbewijzen)
-
-Gelet op de [artikelen 107, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107), en [116, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=116) en [119, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=119), [120](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=120) en [122, eerste en tweede lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=122);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel I, onderdelen A, B, C, D tot en met F, G, H tot en met K, L, M, N, O, P en Pa, van de Wijzigingswet Wegenverkeerswet 1994 (wijziging procedure aanvraag en afgifte rijbewijzen) (Stb. 321) in werking treedt.
 
 ##### Artikel 1. De bevoegdheid tot het bestellen en in ontvangst nemen van rijbewijzen
 
@@ -142,39 +114,39 @@ De [Regeling bestelling rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 ##### Artikel 13. Wijziging van de Regeling vaststelling modellen rijbewijzen
 
-Wijzigt de Regeling vaststelling modellen rijbewijzen.
+*Wijzigt de Regeling vaststelling modellen rijbewijzen.*
 
 ##### Artikel 14. Wijziging van de Regeling coderingen beperkingen rijbevoegdheid
 
-Wijzigt de Regeling coderingen beperkingen rijbevoegdheid.
+*Wijzigt de Regeling coderingen beperkingen rijbevoegdheid.*
 
 ##### Artikel 15. Wijziging van de Regeling omwisseling niet-Nederlandse rijbewijzen
 
-Wijzigt de Regeling omwisseling niet-Nederlandse rijbewijzen.
+*Wijzigt de Regeling omwisseling niet-Nederlandse rijbewijzen.*
 
 ##### Artikel 16. Wijziging van de Regeling afdracht vergoeding afgifte rijbewijzen
 
-Wijzigt de Regeling afdracht vergoeding afgifte rijbewijzen.
+*Wijzigt de Regeling afdracht vergoeding afgifte rijbewijzen.*
 
 ##### Artikel 17. Wijziging van de Regeling eisen praktijkexamens rijbewijscategorie A
 
-Wijzigt de Regeling eisen praktijkexamens rijbewijscategorie A.
+*Wijzigt de Regeling eisen praktijkexamens rijbewijscategorie A.*
 
 ##### Artikel 18. Wijziging van de Regeling eisen praktijkexamens rijbewijscategorie B en E bij B
 
-Wijzigt de Regeling eisen praktijkexamens rijbewijscategorie B en E bij B.
+*Wijzigt de Regeling eisen praktijkexamens rijbewijscategorie B en E bij B.*
 
 ##### Artikel 19. Wijziging van de Regeling eisen praktijkexamens rijbewijscategorie C en E bij C
 
-Wijzigt de Regeling eisen praktijkexamens rijbewijscategorie C en E bij C.
+*Wijzigt de Regeling eisen praktijkexamens rijbewijscategorie C en E bij C.*
 
 ##### Artikel 20. Wijziging van de Regeling eisen praktijkexamens rijbewijscategorie D en E bij D
 
-Wijzigt de Regeling eisen praktijkexamens rijbewijscategorie D en E bij D.
+*Wijzigt de Regeling eisen praktijkexamens rijbewijscategorie D en E bij D.*
 
 ##### Artikel 21. Wijziging van de Regeling eisen pasfoto’s
 
-Wijzigt de Regeling eisen pasfoto’s.
+*Wijzigt de Regeling eisen pasfoto’s.*
 
 ##### Artikel 22. Citeertitel
 
@@ -183,39 +155,3 @@ Deze regeling wordt aangehaald als: Regeling bestelling, transport en beveiligin
 ##### Artikel 23. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop artikel I, onderdelen A, B, C, D tot en met F, G, H tot en met K, L, M, N, O, P en Pa, van de wet van 28 juni 2006 tot wijziging van de Wegenverkeerswet 1994 in verband met de wijziging in de procedure betreffende de aanvraag en afgifte van rijbewijzen (Stb. 321) in werking treedt.
-
-## Bijlage
-
-Ligt ter inzage bij het Ministerie van Infrastructuur en Milieu, Hoofddirectie Bestuurlijke en Juridische Zaken, Koningskade 4, te Den Haag.
-
-## Bijlage 7
-
-## Bijlage 8
-
-## Bijlage 9
-
-## Bijlage 10
-
-## Bijlage 11
-
-## Bijlage 12
-
-## Bijlage 13
-
-## Bijlage 14
-
-## Bijlage 15
-
-## Bijlage 11
-
-## Bijlage 12
-
-## Bijlage 13
-
-## Bijlage 14
-
-## Bijlage 15
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 1 tot en met 6 die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat te Den Haag.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 1 tot en met 6 die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat te Den Haag.

@@ -1,39 +1,17 @@
 ---
 title: "Beleidsregel Wet op het financieel toezicht 06-02 van de Stichting Autoriteit Financiële Markten van 12 december 2006 inzake het meldingsformulier transacties in financiële instrumenten in de eigen uitgevende instelling als bedoeld in artikel 5:60"
+citeertitel: "Beleidsregel Meldingsformulier transacties in financiële instrumenten in de eigen uigevende instelling"
 identifier: "BWBR0020754"
-country: "nl"
-rank: "zbo"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020754"
+categorie: "Financieel recht"
 soort: "zbo"
-stam_id: "8795043"
-version_id: "13938802"
-internal_id: "C18958061"
-label_id: "8774804"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020754/2007-01-01/0"
-intitule_bron: "Stcrt.2006-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-12-12"
-intitule_published: "2006-12-20"
-intitule_in_force: "2006-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-248"
-original_signed_date: "2006-12-12"
-original_published_date: "2006-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-248-p42-SC78386"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020754&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0020754&g=2007-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel Meldingsformulier transacties in financiële instrumenten in de eigen uigevende instelling"
-signed_date: "2006-12-12"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0020754"
+opgehaald: 2026-08-10
 ---
+
 # Beleidsregel Wet op het financieel toezicht 06-02 van de Stichting Autoriteit Financiële Markten van 12 december 2006 inzake het meldingsformulier transacties in financiële instrumenten in de eigen uitgevende instelling als bedoeld in artikel 5:60
 
 ### Wettelijk kader
@@ -44,17 +22,62 @@ Ten aanzien van het meldingsformulier transacties in financiële instrumenten in
 
 Dit is een beleidsregel als bedoeld in [artikel 1:3, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3) (Awb). De bevoegdheid van de AFM tot het vaststellen van deze beleidsregel is gebaseerd op [artikel 4:81, eerste lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81).
 
-### Meldingsformulier transacties in financiële instrumenten van de eigen uitgevende instelling ([artikel 5:60 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:60))
+### Meldingsformulier transacties in financiële instrumenten van de eigen uitgevende instelling (artikel 5:60 Wft)
 
 ### Deel I
+
+- 1. de naam van de uitgevende instelling:
+
+- 2. de naam van de meldingsplichtige:
+
+Soort effect
+
+- 3. Soort financieel instrument: (aandelen, optie, warrant, anders)
+
+- 4. In te vullen voor zover van toepassing
+
+   - – nominale waarde van het financieel instrument:
+
+   - – soort optie (call/put/personeelsoptie/anders):
+
+   - – uitoefenprijs:
+
+Kenmerken transactie in vraag 3 en 4 aangegeven financieel instrument
+
+- 5. Datum transactie:
+
+- 6. Aantal verkregen financiële instrumenten bij de transactie:
+
+- 7. Aantal verkochte financiële instrumenten bij de transactie:
+
+- 8. Prijs van het financieel instrument:
+
+- 9. Open/close (in geval van opties):
+
+- 10. Plaats van uitvoering van de transactie (indien de transactie plaatsvindt via een gereglementeerde markt):
 
 ### Deel II
 
 Reden voor de melding: wat is de relatie tussen de meldingsplichtige en de uitgevende instelling?
 
+|  | Groep meldingsplichtige |  |  |
+| --- | --- | --- | --- |
+| 1 | een ieder die het dagelijks beleid bepaalt of mede bepaalt van de uitgevende instelling | Ja/Nee |  |
+| 2 | een ieder die toezicht houdt op het beleid van het bestuur en de algemene gang van zaken in de uitgevende instelling en de daarmee verbonden onderneming | Ja/Nee |  |
+| 3 | een ieder die een leidinggevende functie heeft en uit dien hoofde de bevoegdheid heeft om besluiten te nemen die gevolgen hebben voor de toekomstige ontwikkelingen en bedrijfsvooruitzichten van de uitgevende instelling die regelmatig kennis kan hebben van voorwetenschap | Ja/Nee |  |
+| 4 | echtgenoten, geregistreerde partners of levensgezellen van de onder 1 tot en met 3 bedoelde personen, of andere personen die op daarmee vergelijkbare wijze samenleven met de onder 1 tot en met 3 bedoelde personen | Ja/Nee |  |
+| 5 | kinderen van de onder 1 tot en met 3 bedoelde personen die onder hun gezag vallen of die onder curatele zijn gesteld en waarvoor deze personen als curator zijn benoemd | Ja/Nee |  |
+| 6 | andere bloed- of aanverwanten van de onder 1 tot en met 3 bedoelde personen, die op de datum van de desbetreffende transactie ten minste een jaar een gemeenschappelijke huishouding hebben gevoerd met deze personen | Ja/Nee |  |
+| 7 | rechtspersonen, trusts als bedoeld in artikel 1, onder c, van de Wet toezicht trustkantoren of personenvennootschappen: | i. waarvan de leidinggevende verantwoordelijkheid berust bij een persoon als bedoeld onder 1 tot en met 6 | Ja/Nee |
+|  |  | ii. die onder de zeggenschap staat van een persoon als bedoeld onder 1 tot en met 6 | Ja/Nee |
+|  |  | iii. die is opgericht ten gunste van een persoon als bedoeld onder 1 tot en met 6 | Ja/Nee |
+|  |  | iv. waarvan de economische belangen in wezen gelijkwaardig zijn aan die van een persoon bedoeld onder 1 tot en met 6 | Ja/Nee |
+
 Wordt de melding van de meldingsplichtige verzorgd door tussenkomst van een door de uitgevende instelling aangewezen persoon?: Ja/nee
 
 Zo ja, naam en functie van deze persoon:
+
+Gegevens meldingsplichtige (onderstaande gegevens zullen niet in het register worden opgenomen)
 
 Adres:
 
@@ -73,7 +96,3 @@ Handtekening:
 ### Slotbepalingen
 
 De bekendmaking van deze beleidsregel geschiedt door publicatie in de Staatscourant.
-
-De beleidsregel treedt in werking op 1 januari 2007.
-
-Deze beleidsregel wordt aangehaald als Beleidsregel Meldingsformulier transacties in financiële instrumenten in de eigen uigevende instelling.

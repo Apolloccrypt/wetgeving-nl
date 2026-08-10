@@ -1,60 +1,30 @@
 ---
 title: "Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer"
+citeertitel: "Wijzigingswet Elektriciteitswet 1998 en Gaswet (nadere regels omtrent een onafhankelijk netbeheer)"
 identifier: "BWBR0020608"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020608"
+categorie: "Overig"
 soort: "wet"
-stam_id: "8757653"
-version_id: "30585182"
-internal_id: "C43840961"
-label_id: "8737614"
-dtd_version: "2.0"
-original_entry_into_force: "2024-12-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020608/2026-01-01/0"
-intitule_bron: "Stb.2006-614"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-23"
-intitule_published: "2006-12-07"
-intitule_in_force: "2007-01-11"
-intitule_status: "goed"
-original_publication: "Stb.2025-12"
-original_signed_date: "2024-12-11"
-original_published_date: "2025-01-23"
-original_effect: "structuurwijziging"
-original_dossier: "36378"
-original_url_id: "stb-2025-12"
-entry_into_force_date: "2024-12-11"
-entry_into_force_dossier: "36378"
-jci_1_3: "jci1.3:c:BWBR0020608&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0020608&g=2026-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Elektriciteitswet 1998 en Gaswet (nadere regels omtrent een onafhankelijk netbeheer)"
-signed_date: "2024-12-11"
-entry_into_force: "2024-12-11"
+publicatiedatum: 2024-12-11
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0020608"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een onafhankelijke positie van netbeheerders ten aanzien van productie-, handels- en leveringsbedrijven van elektriciteit en gas te bevorderen en ook overigens nadere eisen te stellen aan de taken van netbeheerders en aan de uitvoering daarvan;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Elektriciteitswet 1998.
+*Wijzigt de Elektriciteitswet 1998.*
 
 ##### Artikel II
 
-Wijzigt de Gaswet.
+*Wijzigt de Gaswet.*
 
 ##### Artikel III
 
-Wijzigt de Wijziging Elektriciteitswet 1998 en Gaswet in verband met implementatie en aanscherping toezicht netbeheer.
+*Wijzigt de Wijziging Elektriciteitswet 1998 en Gaswet in verband met implementatie en aanscherping toezicht netbeheer.*
 
 ##### Artikel IV
 
@@ -64,9 +34,13 @@ Wijzigt de Wijziging Elektriciteitswet 1998 en Gaswet in verband met implementat
 
 3. Onze Minister onthoudt zijn instemming of kan voorschriften verbinden aan de instemming, indien niet is voldaan aan [artikel 16 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=16).
 
+##### Artikel IVa
+
+Waar in de [artikelen V tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=V&z=2026-01-01&g=2026-01-01) wordt verwezen naar artikelen van de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) of de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440), wordt verwezen naar deze artikelen zoals deze luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714).
+
 ##### Artikel V
 
-1. In de [artikelen VI tot en met VId](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2026-01-01&g=2026-01-01) wordt onder overeenkomst verstaan een overeenkomst van huur en verhuur of een soortgelijke overeenkomst met betrekking tot een net waarbij partij is een naar buitenlands recht opgerichte entiteit, of diens rechtsopvolger, en die is gesloten voor 14 juli 2004. Onder rechtsopvolger als bedoeld in de vorige volzin wordt niet begrepen een vennootschap of rechtspersoon naar Nederlands recht die bij het aangaan van de overeenkomst partij was, of een groepsmaatschappij van deze rechtspersoon of vennootschap.
+1. In de [artikelen VI tot en met VId](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2026-01-01&g=2026-01-01) wordt onder overeenkomst verstaan een overeenkomst van huur en verhuur of een soortgelijke overeenkomst met betrekking tot een net waarbij partij is een naar buitenlands recht opgerichte entiteit, of diens rechtsopvolger, en die is gesloten voor 14 juli 2004. Onder rechtsopvolger als bedoeld in de vorige volzin wordt niet begrepen een vennootschap of rechtspersoon naar Nederlands recht die bij het aangaan van de overeenkomst partij was, of een groepsmaatschappij van deze rechtspersoon of vennootschap.
 
 2. In de [artikelen VI tot en met VId](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2026-01-01&g=2026-01-01) wordt onder economische eigendom van een net mede verstaan een recht van gebruik van het net op grond van een overeenkomst als bedoeld in het eerste lid en onder degene die de economische eigendom verkrijgt wordt mede verstaan degene die op grond van een overeenkomst als bedoeld in het eerste lid het recht verkrijgt of dient te verkrijgen om het net in bezit te nemen of te gebruiken.
 
@@ -112,7 +86,7 @@ Indien uit een overeenkomst met betrekking tot een net of een ander bedrijfsmidd
 
 ##### Artikel VId
 
-1. Netbeheerders of maatschappijen die daarmee in een groep verbonden zijn of waren kunnen garanties, contragaranties of andere zekerheden verstrekken in verband met een overeenkomst die betrekking heeft op een net of op een ander bedrijfsmiddel, mits dat bedrijfsmiddel voor 14 juli 2004 werd aangewend in het bedrijf van een groepsmaatschappij van die netbeheerder. Dit wordt niet belet door het bepaalde in de [artikelen 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=17), [17a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=17a), en [18, eerste en tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=18) onderscheidenlijk de [artikelen 10b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10b), [10c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10c), en [10d, eerste en tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10d).
+1. Netbeheerders of maatschappijen die daarmee in een groep verbonden zijn of waren kunnen garanties, contragaranties of andere zekerheden verstrekken in verband met een overeenkomst die betrekking heeft op een net of op een ander bedrijfsmiddel, mits dat bedrijfsmiddel voor 14 juli 2004 werd aangewend in het bedrijf van een groepsmaatschappij van die netbeheerder. Dit wordt niet belet door het bepaalde in de [artikelen 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=17), [17a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=17a), en [18, eerste en tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=18) onderscheidenlijk de [artikelen 10b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10b), [10c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10c), en [10d, eerste en tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10d).
 
 2. Indien uit een overeenkomst voortvloeit dat met ingang van een datum, gelegen na het tijdstip van inwerkingtreding van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2026-01-01&g=2026-01-01), dan wel [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=II&z=2026-01-01&g=2026-01-01), een netbeheerder behoort tot een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) waartoe ook een rechtspersoon of vennootschap behoort die handelingen of activiteiten verricht die niet op enigerlei wijze betrekking hebben op of verband houden met infrastructurele voorzieningen of aanverwante activiteiten, is het in [artikel I, onderdeel I, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2026-01-01&g=2026-01-01), voorgestelde [artikel 17, derde lid, onder a, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=17), onderscheidenlijk het onder [artikel II, onderdeel I, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=II&z=2026-01-01&g=2026-01-01) voorgestelde [artikel 10b, derde lid, onder a, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10b), niet van toepassing.
 
@@ -136,13 +110,13 @@ Indien uit een overeenkomst met betrekking tot een net of een ander bedrijfsmidd
 
 ##### Artikel IX
 
-Vervallen
+*Vervallen*
 
 ##### Artikel IXa
 
-1. Kosten, veroorzaakt door handelingen die na 20 maart 2006 zijn verricht, en die voortvloeien uit de gevolgen van een overeenkomst als bedoeld in [artikel V, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=V&z=2026-01-01&g=2026-01-01), met betrekking tot een net als bedoeld in het derde lid van dat artikel of een ander bedrijfsmiddel, worden niet doorberekend in de tarieven die netbeheerders, producenten, handelaren en leveranciers van elektriciteit, gas of warmte hun afnemers in rekening brengen.
+1. Kosten, veroorzaakt door handelingen die na 20 maart 2006 zijn verricht, en die voortvloeien uit de gevolgen van een overeenkomst als bedoeld in [artikel V, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=V&z=2026-01-01&g=2026-01-01), met betrekking tot een net als bedoeld in het derde lid van dat artikel of een ander bedrijfsmiddel, worden niet doorberekend in de tarieven die netbeheerders, producenten, handelaren en leveranciers van elektriciteit, gas of warmte hun afnemers in rekening brengen.
 
-2. Vervallen.
+2. *Vervallen.*
 
 3. De toebedeling van vermogensbestanddelen, anders dan als gevolg van toepassing van het eerste en tweede lid, in een splitsingsplan als bedoeld in [artikel IXb, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXb&z=2026-01-01&g=2026-01-01), vindt zodanig plaats dat deze zoveel mogelijk bijdraagt aan een beheerste ontwikkeling van de tarieven die afnemers zijn verschuldigd voor het transport en de levering van elektriciteit, gas of warmte.
 
@@ -194,13 +168,13 @@ Vervallen
 
 5. Ingeval van overtreding van het bepaalde bij of krachtens [artikel IXb](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXb&z=2026-01-01&g=2026-01-01), of het eerste of tweede lid van dit artikel, kan de Autoriteit Consument en Markt de overtreder:
 
-- a. een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 1% van de omzet van de overtreder;
+- a. een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 1% van de omzet van de overtreder;
 
 - b. een last onder dwangsom opleggen.
 
 ##### Artikel X
 
-In afwijking van [artikel 41a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41a), en [artikel 41e, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41e) bedraagt de in die artikelen bedoelde periode, welke aanvangt met ingang van 1 januari 2007, één jaar.
+In afwijking van [artikel 41a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41a), en [artikel 41e, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41e) bedraagt de in die artikelen bedoelde periode, welke aanvangt met ingang van 1 januari 2007, één jaar.
 
 ##### Artikel Xa
 
@@ -232,12 +206,4 @@ Bij de vaststelling van de tarieven, bedoeld in [artikel 41c, eerste lid, van de
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2026-01-01&g=2026-01-01), treedt in werking met ingang van 1 januari 2008.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel IVa
-
-Waar in de [artikelen V tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=V&z=2026-01-01&g=2026-01-01) wordt verwezen naar artikelen van de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) of de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440), wordt verwezen naar deze artikelen zoals deze luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714).
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+2. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2026-01-01&g=2026-01-01), treedt in werking met ingang van 1 januari 2008.

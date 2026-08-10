@@ -1,45 +1,17 @@
 ---
 title: "Keuringsreglement COKZ Boerenkaas 2006"
 identifier: "BWBR0019408"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019408"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "8255933"
-version_id: "13093222"
-internal_id: "C17637281"
-label_id: "8237384"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019408/2006-01-01/0"
-intitule_bron: "Stcrt.2006-85"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-29"
-intitule_published: "2006-05-02"
-intitule_in_force: "2006-05-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-85"
-original_signed_date: "2005-12-29"
-original_published_date: "2006-05-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-85-p23-SC74773"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0019408&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0019408&g=2006-01-01"
-citeertitel_status: "officieel"
-signed_date: "2005-12-29"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0019408"
+opgehaald: 2026-08-10
 ---
+
 # Keuringsreglement COKZ Boerenkaas 2006
-
-Gelet op [artikel 10, eerste lid, onder e, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) (Stb. 1971, 371), [artikel 6 van de Landbouwkwaliteitsregeling kaas 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019231&artikel=6), alsmede artikel 36, tweede lid, van de statuten van genoemde Stichting (Stcrt. 1992, 63);
-
-Heeft op 29 december 2005 vastgesteld het navolgende reglement:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1
 
@@ -85,7 +57,7 @@ bestuur: bestuur van het COKZ.
 
 3. Het in het tweede lid genoemde volgnummer en de lettercombinatie of letter- en cijfercombinatie dienen, indien het rijkskaasmerk rechtstreeks op de verpakking, als bedoeld in het eerste lid onder c, wordt aangebracht, op de verpakking in het rijkskaasmerk of in de onmiddellijke nabijheid van het rijkskaasmerk te worden gedrukt.
 
-#### Rijkskaasmerken in de vorm van caseïneplaatjes
+##### Rijkskaasmerken in de vorm van caseïneplaatjes
 
 ##### Artikel 3
 
@@ -107,7 +79,7 @@ bestuur: bestuur van het COKZ.
 
 4. De bereider is verplicht een administratie te voeren omtrent het verloop van de voorraad van de aan hem verstrekte rijkskaasmerken in de vorm van caseïneplaatjes. Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze waarop deze administratie moet worden gevoerd.
 
-#### Rijkskaasmerken in de vorm van etiketten of rechtstreeks aangebracht op de verpakking
+##### Rijkskaasmerken in de vorm van etiketten of rechtstreeks aangebracht op de verpakking
 
 ##### Artikel 4
 
@@ -159,17 +131,17 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 - b. een administratie te voeren van onbruikbaar geworden met een rijkskaasmerk bedrukt verpakkingsmateriaal. In deze administratie dient ten minste te worden vermeld:
 
-- –. de hoeveelheid verpakkingsmateriaal;
+   - – de hoeveelheid verpakkingsmateriaal;
 
-- –. de letters en volgnummers van het rijkskaasmerk, dan wel van het eerste en het laatste rijkskaasmerk van het verpakkingsmateriaal;
+   - – de letters en volgnummers van het rijkskaasmerk, dan wel van het eerste en het laatste rijkskaasmerk van het verpakkingsmateriaal;
 
-- –. de wijze van vernietiging van het verpakkingsmateriaal.
+   - – de wijze van vernietiging van het verpakkingsmateriaal.
 
 ### Hoofdstuk 3
 
 #### Voorschriften inzake boerenkaas
 
-#### Administratieve voorschriften met betrekking tot boerenkaas
+##### Administratieve voorschriften met betrekking tot boerenkaas
 
 ##### Artikel 6
 
@@ -183,37 +155,37 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 - a. bij de bereiding:
 
-- –. de datum van de eerste dag van de bereiding;
+   - – de datum van de eerste dag van de bereiding;
 
-- –. de verkaasde hoeveelheid melk en het aantal melkmalen, in voorkomend geval met vermelding van de hoeveelheid bijgekochte melk en de herkomst van deze melk;
+   - – de verkaasde hoeveelheid melk en het aantal melkmalen, in voorkomend geval met vermelding van de hoeveelheid bijgekochte melk en de herkomst van deze melk;
 
-- –. de kaassoort dan wel de naam van de kaas en het geschatte gewicht per boerenkaas in kg nauwkeurig;
+   - – de kaassoort dan wel de naam van de kaas en het geschatte gewicht per boerenkaas in kg nauwkeurig;
 
-- –. het aantal boerenkazen;
+   - – het aantal boerenkazen;
 
-- –. indien de boerenkaas is voorzien van een rijkskaasmerk, de letters en volgnummers van de aangebrachte rijkskaasmerken in de vorm van een caseïneplaatje;
+   - – indien de boerenkaas is voorzien van een rijkskaasmerk, de letters en volgnummers van de aangebrachte rijkskaasmerken in de vorm van een caseïneplaatje;
 
 - b. bij aflevering aan anderen dan particulieren voor elke aflevering afzonderlijk:
 
-- –. de datum van aflevering;
+   - – de datum van aflevering;
 
-- –. het aantal boerenkazen en het totale gewicht van de kaas;
+   - – het aantal boerenkazen en het totale gewicht van de kaas;
 
-- –. de naam en de plaats van vestiging van de afnemer;
+   - – de naam en de plaats van vestiging van de afnemer;
 
 - c. op de dag waarop boerenkaas bestemd wordt voor aflevering aan particulieren of voor eigen huishoudelijk gebruik:
 
-- –. de datum;
+   - – de datum;
 
-- –. het aantal boerenkazen en het totale gewicht van de boerenkaas;
+   - – het aantal boerenkazen en het totale gewicht van de boerenkaas;
 
-- –. de aanduiding ‘particulieren’;
+   - – de aanduiding ‘particulieren’;
 
-- –. eventuele andere, door of namens het bestuur in het belang van de controle gevraagde bijzonderheden, het bedrijf van de bereider betreffende.
+   - – eventuele andere, door of namens het bestuur in het belang van de controle gevraagde bijzonderheden, het bedrijf van de bereider betreffende.
 
 2. Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze waarop de in het eerste lid genoemde administratie moet worden gevoerd.
 
-#### Voorschriften inzake de keuring van boerenkaas
+##### Voorschriften inzake de keuring van boerenkaas
 
 ##### Artikel 8
 
@@ -229,35 +201,35 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 - a. onderzoek op de bij het besluit en de [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0019231) aan de desbetreffende boerenkaassoort resp. op de bij het productdossier aan de desbetreffende boerenkaas gestelde algemene en bijzondere eisen met betrekking tot:
 
-- –. het rijkskaasmerk;
+   - – het rijkskaasmerk;
 
-- –. de vorm;
+   - – de vorm;
 
-- –. het uiterlijk;
+   - – het uiterlijk;
 
-- –. de korst en de op de boerenkaas aangebrachte kaaskorstbehandelingsmiddelen;
+   - – de korst en de op de boerenkaas aangebrachte kaaskorstbehandelingsmiddelen;
 
-- –. het zuivel, consistentie, kleur en ogenvorming daaronder begrepen;
+   - – het zuivel, consistentie, kleur en ogenvorming daaronder begrepen;
 
-- –. de geur en de smaak;
+   - – de geur en de smaak;
 
-- –. het vetgehalte in de droge stof;
+   - – het vetgehalte in de droge stof;
 
-- –. het vochtgehalte;
+   - – het vochtgehalte;
 
-- –. het zoutgehalte in de droge stof;
+   - – het zoutgehalte in de droge stof;
 
-- –. de bacteriologische gesteldheid;
+   - – de bacteriologische gesteldheid;
 
-- –. hulpstoffen en toevoegingen;
+   - – hulpstoffen en toevoegingen;
 
-- –. vreemde bestanddelen, vuil en andere verontreinigingen;
+   - – vreemde bestanddelen, vuil en andere verontreinigingen;
 
-- –. het gewicht;
+   - – het gewicht;
 
-- –. de verpakking;
+   - – de verpakking;
 
-- –. de aanduiding;
+   - – de aanduiding;
 
 - b. onderzoek op de bij het productdossier aan de desbetreffende boerenkaas gestelde overige genoemde eisen.
 
@@ -319,15 +291,15 @@ Voor de vaststelling of boerenkaas voldoet aan het bij het besluit of bij de [re
 
 #### Voorschriften inzake het maken van bezwaar tegen monsterneming en keuringsuitslagen
 
-#### Het maken van bezwaar tegen de monsterneming
+##### Het maken van bezwaar tegen de monsterneming
 
 ##### Artikel 14
 
 1. De aangeslotene kan bezwaar maken tegen
 
-- –. de wijze waarop een monster door of namens het COKZ wordt genomen;
+- – de wijze waarop een monster door of namens het COKZ wordt genomen;
 
-- –. de keuze van een monster uit de aanwezige voorraad.
+- – de keuze van een monster uit de aanwezige voorraad.
 
 2. Het in het eerste lid bedoelde bezwaar moet onmiddellijk bij de monsterneming aan degene, die het monster neemt, worden bekend gemaakt. Deze beslist of het genomen monster wordt gehandhaafd.
 
@@ -335,7 +307,7 @@ Voor de vaststelling of boerenkaas voldoet aan het bij het besluit of bij de [re
 
 4. De directeur beslist of de bezwaren gegrond zijn. Indien hij de bezwaren gegrond acht, doet hij het genomen monster vervallen. In alle overige gevallen blijft het monster gehandhaafd. De aangeslotene ontvangt hiervan schriftelijk bericht.
 
-#### Het maken van bezwaar tegen de keuringsuitslag
+##### Het maken van bezwaar tegen de keuringsuitslag
 
 ##### Artikel 15
 
@@ -347,7 +319,7 @@ Voor de vaststelling of boerenkaas voldoet aan het bij het besluit of bij de [re
 
 Indien bij de keuringsuitslag, waartegen bezwaar was gericht, een verbod tot aflevering van de desbetreffende partij boerenkaas is opgelegd, kan de directeur dit verbod op verzoek van de aangeslotene opheffen, al dan niet onder het stellen van voorwaarden en beperkingen. In voorkomend geval zendt hij daarvan schriftelijk bericht aan de aangeslotene.
 
-#### Het inwinnen van advies
+##### Het inwinnen van advies
 
 ##### Artikel 16
 
@@ -368,63 +340,3 @@ Aangeslotenen zijn verplicht alle plaatsen, waar bereidingshandelingen plaatsvin
 ##### Artikel 18
 
 Dit reglement kan worden aangehaald als ‘Keuringsreglement COKZ boerenkaas 2006’, en treedt in werking met ingang van 1 januari 2006.
-
-## Bijlage 1
-
-### **Methoden van monsterneming en onderzoek**
-
-Indien in het navolgende wordt verwezen naar elders gepubliceerde methoden van monsterneming en onderzoek is de versie waarnaar hier wordt verwezen van toepassing, tenzij anders is bepaald.
-
-In het geval van grensreacties is bij de desbetreffende methode aangegeven het aantal malen (n) dat een in de eis vermelde hoeveelheid analysemonster moet worden onderzocht en het maximum aantal malen dat een positief resultaat wordt toegelaten (a).
-
-1. Monsterneming: volgens de methoden beschreven in annex 1
-
-2. Voorbehandeling voor fysisch en chemisch onderzoek: volgens NEN 3742: 1994
-
-3. Bepaling van de zuurtegraad: volgens NEN 913: 1963, met dien verstande dat het resultaat wordt uitgedrukt in mmol NaOH per liter. In geval van room wordt de werkwijze toegepast zoals voor melk is beschreven in NEN 913: 1963, met dien verstande dat:
-
-4. Bepaling van het lactaatgehalte: volgens de methode beschreven in annex 2. Monsters met een lactaatgehalte hoger dan 80 mg per 100 g vetvrije droge stof worden onderzocht volgens IDF 69B: 1987, met dien verstande dat 10 g monster wordt ingewogen. Om het resultaat uit te drukken in vetvrije droge stof wordt het vetgehalte in melk bepaald volgens IDF 1D: 1996, en het drogestofgehalte volgens de methode vermeld onder A.8.
-
-1. Monsterneming: volgens de methode beschreven in annex 6.
-
-1. Monsterneming: volgens de methode beschreven in annex 14.
-
-2. Voorbehandeling voor fysisch en chemisch onderzoek: volgens NEN 3752: 1979.
-
-3. Bepaling van het vochtgehalte;
-
-referentiemethode: volgens NEN 3754: 1981;
-
-routinemethode: volgens ontwerp-NEN 3755: 1997, toepasbaar op kaas die niet ouder is dan vier weken.
-
-4. Bepaling van het vetgehalte:
-
-referentiemethode: volgens NEN 3757: 1979;
-
-routinemethode: volgens NEN 3758: 1980, toepasbaar op kaas die niet ouder is dan een half jaar.
-
-5. Bepaling van het nitraat- en nitrietgehalte: volgens IDF 189-2:2001.
-
-6. Bepaling van de fosfatase-activiteit in kaas: volgens NEN 3774: 1978.
-
-7. Bepaling van de pH van kaas: volgens NEN 3775: 1979.
-
-8. Bepaling van het natriumgehalte in kaas die niet meer dan 1 g natrium per kg bevat: volgens NEN 3771: 1979
-
-9. Bepaling van het natamycinegehalte in kaas(korst): volgens IDF 140A: 1992.
-
-10. Aantonen bijmenging koemelk in geiten- of schapenkaas: volgens de methode beschreven in [Verordening (EG) Nr. 1081/96](31996R1081) van de Commissie van 14 juni 1996.
-
-11. Organoleptische keuring: volgens de methode beschreven in annex 19.
-
-12. Bepaling van het aantal lactobacillen: volgens NEN 6815: 2001.
-
-13. Bepaling van het aantal coli-achtige micro-organismen: volgens ISO 4832:2006
-
-14. Bepaling van het aantal Escherichia coli: volgens IDF 170B: 1998.
-
-15. Bepaling van het aantal Staphylococcus aureus: volgens ISO 6888.
-
-16. Onderzoek naar afwezigheid van Listeria ssp. in 1 of 25 g volgens screeningmethode COKZ-A 348 en bevestiging van aanwezigheid van Listeria monocytogenes volgens ISO 11290-1 (1996), met dien verstande:
-
-17. Onderzoek naar afwezigheid van Salmonella in 5 x 25 g: volgens screeningmethode COKZ–A 349 en bevestiging van aanwezigheid van Salmonella volgens IDF 93B: 1995.

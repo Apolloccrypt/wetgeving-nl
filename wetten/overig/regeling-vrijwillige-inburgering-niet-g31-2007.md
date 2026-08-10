@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister voor Vreemdelingenzaken en Integratie van 6 december 2006, nr. DDS 5456934, houdende regels tot bevordering van vrijwillige inburgering in de niet-G31 gemeenten"
+citeertitel: "Regeling vrijwillige inburgering niet-G31 2007"
 identifier: "BWBR0020646"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020646"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "8766813"
-version_id: "13880632"
-internal_id: "C18815911"
-label_id: "8746744"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020646/2013-01-01/0"
-intitule_bron: "Stcrt.2006-244"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-12-06"
-intitule_published: "2006-12-14"
-intitule_in_force: "2006-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-244"
-original_signed_date: "2006-12-06"
-original_published_date: "2006-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-244-p18-SC78163"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020646&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0020646&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vrijwillige inburgering niet-G31 2007"
-signed_date: "2006-12-06"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0020646"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie van 6 december 2006, nr. DDS 5456934, houdende regels tot bevordering van vrijwillige inburgering in de niet-G31 gemeenten
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) en de [artikelen 48r](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48r) en [48s van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48s);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsomschrijvingen en strekking van de regeling
 
@@ -62,17 +36,17 @@ In deze regeling wordt verstaan onder:
 
 - h. inburgeraar: de Nederlander, of de rechtmatig in Nederland verblijvende vreemdeling, bedoeld in [artikel 5, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5), of het rechtmatig in Nederland verblijvende familielid van voornoemde vreemdeling, of de rechtmatige in Nederland verblijvende vreemdeling van een staat wiens onderdanen op grond van bepalingen van verdragen of besluiten van volkenrechtelijke organisaties geen inburgeringsplicht als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5) kan worden opgelegd, en die.
 
-- 1°. ouder is dan 15 jaar;
+   - 1°. ouder is dan 15 jaar;
 
-- 2°. minder dan acht jaren tijdens de leerplichtige leeftijd in Nederland heeft verbleven, en;
+   - 2°. minder dan acht jaren tijdens de leerplichtige leeftijd in Nederland heeft verbleven, en;
 
-- 3°. niet beschikt over een diploma, certificaat of document, bedoeld in [artikel 2.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.3);
+   - 3°. niet beschikt over een diploma, certificaat of document, bedoeld in [artikel 2.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.3);
 
-- 4°. niet leerplichtig of kwalificatieplichtig is, dan wel een opleiding volgt waarvan de afronding leidt tot uitreiking van een diploma, certificaat of document, bedoeld in [artikel 2.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.3);
+   - 4°. niet leerplichtig of kwalificatieplichtig is, dan wel een opleiding volgt waarvan de afronding leidt tot uitreiking van een diploma, certificaat of document, bedoeld in [artikel 2.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.3);
 
-- 5°. geen overeenkomst heeft afgesloten op grond van de [Regeling inburgering allochtone vrouwen niet-G31](https://wetten.overheid.nl/jci1.3:c:BWBR0019949), de [Regeling inburgering allochtone vrouwen G31](https://wetten.overheid.nl/jci1.3:c:BWBR0020127), dan wel het extensieve deel van de Pilot inburgering allochtone vrouwen Taal Totaal;
+   - 5°. geen overeenkomst heeft afgesloten op grond van de [Regeling inburgering allochtone vrouwen niet-G31](https://wetten.overheid.nl/jci1.3:c:BWBR0019949), de [Regeling inburgering allochtone vrouwen G31](https://wetten.overheid.nl/jci1.3:c:BWBR0020127), dan wel het extensieve deel van de Pilot inburgering allochtone vrouwen Taal Totaal;
 
-- 6°. niet eerder een overeenkomst heeft afgesloten op grond van de onderhavige regeling;
+   - 6°. niet eerder een overeenkomst heeft afgesloten op grond van de onderhavige regeling;
 
 - i. geestelijke bedienaar: de persoon, bedoeld in [artikel 1, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=1);
 
@@ -136,6 +110,14 @@ In deze regeling wordt verstaan onder:
 
 5. De inburgeraar is de in [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=23) bedoelde eigen bijdrage verschuldigd, tenzij hij op last van het college of bestuur, dan wel een andere instantie, genoemd in [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=21), een gecombineerde inburgeringsvoorziening dient te volgen.
 
+##### Artikel 4a
+
+1. Indien een inburgeraar in aanmerking wordt gebracht voor een inburgeringsvoorziening, een gecombineerde inburgeringsvoorziening dan wel een taalkennisvoorziening doet het college of het bestuur de inburgeraar terzake een aanbod.
+
+2. Indien het aanbod, bedoeld in het eerste lid, geheel of gedeeltelijk bestaat uit een persoonlijk inburgeringsbudget begeleidt het college of het bestuur de inburgeraar op diens verzoek bij de vormgeving van zijn inburgeringsprogramma en de keuze van een inburgeringsbedrijf. Het college of het bestuur beoordeelt het voorstel van de inburgeraar en sluit vervolgens een overeenkomst met het inburgeringsbedrijf.
+
+3. Indien een inburgeraar tevens geestelijke bedienaar is, wordt hem, onverminderd het bepaalde in het eerste en tweede lid, de cursus, bedoeld in [artikel 4.25 van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.25) aangeboden.
+
 ##### Artikel 5
 
 1. Tegelijkertijd met het doen van het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2013-01-01&g=2013-01-01), informeert het college of het bestuur de inburgeraar omtrent de hoofdlijnen van de met hem te sluiten overeenkomst terzake van de vaststelling van zijn inburgeringsvoorziening, gecombineerde inburgeringsvoorziening dan wel taalkennisvoorziening.
@@ -148,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de verschuldigdheid van de eigen bijdrage en de mogelijkheid van betaling in termijnen;
 
-- c. de verlening van toestemming om de in de [bijlage bij artikel 6.1, tweede lid, van het besluit](onbekend) bedoelde (persoons)gegevens welke betrekking hebben op de inburgeraar, op te nemen in het Informatiesysteem Inburgering;
+- c. de verlening van toestemming om de in de [bijlage bij artikel 6.1, tweede lid, van het besluit](https://wetten.overheid.nl/BWBR0020674) bedoelde (persoons)gegevens welke betrekking hebben op de inburgeraar, op te nemen in het Informatiesysteem Inburgering;
 
 - d. de gevolgen van niet-nakoming van de overeenkomst.
 
@@ -214,53 +196,53 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
 1. De Minister stelt de financiële bijdrage vast aan de hand van de formule A – Q = [ ( B × C ) + ( D × E ) + ( F × G ) + ( H × I ) + ( J × K ) + ( L × M ) + ( N × O ) + ( R × S ) + ( T × U )] × P waarin wordt voorgesteld:
 
-- –. met de letter A: de financiële bijdrage;
+- – met de letter A: de financiële bijdrage;
 
-- –. met de letter B: het aantal inburgeraars, niet zijnde geestelijke bedienaar, met wie in respectievelijk 2007, 2008 en 2009 een overeenkomst tot vaststelling van een inburgeringsvoorziening is gesloten;
+- – met de letter B: het aantal inburgeraars, niet zijnde geestelijke bedienaar, met wie in respectievelijk 2007, 2008 en 2009 een overeenkomst tot vaststelling van een inburgeringsvoorziening is gesloten;
 
-- –. met de letter C: de bijdragevergoeding ten aanzien van de vaststelling van een inburgeringsvoorziening, bedoeld in letter B;
+- – met de letter C: de bijdragevergoeding ten aanzien van de vaststelling van een inburgeringsvoorziening, bedoeld in letter B;
 
-- –. met de letter D: het aantal inburgeraars, niet zijnde geestelijke bedienaar, met wie in respectievelijk 2007, 2008 en 2009 een overeenkomst tot vaststelling van een gecombineerde inburgeringsvoorziening is gesloten;
+- – met de letter D: het aantal inburgeraars, niet zijnde geestelijke bedienaar, met wie in respectievelijk 2007, 2008 en 2009 een overeenkomst tot vaststelling van een gecombineerde inburgeringsvoorziening is gesloten;
 
-- –. met de letter E: de bijdragevergoeding ten aanzien van de vaststelling van een gecombineerde inburgeringsvoorziening, bedoeld in letter D;
+- – met de letter E: de bijdragevergoeding ten aanzien van de vaststelling van een gecombineerde inburgeringsvoorziening, bedoeld in letter D;
 
-- –. met de letter F: het aantal inburgeraars, tevens zijnde geestelijke bedienaar, met wie in respectievelijk 2007, 2008 en 2009 een overeenkomst tot vaststelling van een inburgeringsvoorziening is gesloten;
+- – met de letter F: het aantal inburgeraars, tevens zijnde geestelijke bedienaar, met wie in respectievelijk 2007, 2008 en 2009 een overeenkomst tot vaststelling van een inburgeringsvoorziening is gesloten;
 
-- –. met de letter G: de bijdragevergoeding ten aanzien van de vaststelling van een inburgeringsvoorziening, bedoeld in letter F;
+- – met de letter G: de bijdragevergoeding ten aanzien van de vaststelling van een inburgeringsvoorziening, bedoeld in letter F;
 
-- –. met de letter H: het aantal in de letter B bedoelde inburgeraars dat uiterlijk respectievelijk 31 december 2009, 31 december 2010, 31 december 2011 heeft deelgenomen aan het inburgeringsexamen of het staatsexamen;
+- – met de letter H: het aantal in de letter B bedoelde inburgeraars dat uiterlijk respectievelijk 31 december 2009, 31 december 2010, 31 december 2011 heeft deelgenomen aan het inburgeringsexamen of het staatsexamen;
 
-- –. met de letter I: de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen en het staatsexamen, bedoeld in letter H;
+- – met de letter I: de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen en het staatsexamen, bedoeld in letter H;
 
-- –. met de letter J: het aantal in de letter D bedoelde inburgeraars dat uiterlijk respectievelijk 31 december 2009, 31 december 2010, 31 december 2011 heeft deelgenomen aan het inburgeringsexamen of het staatsexamen;
+- – met de letter J: het aantal in de letter D bedoelde inburgeraars dat uiterlijk respectievelijk 31 december 2009, 31 december 2010, 31 december 2011 heeft deelgenomen aan het inburgeringsexamen of het staatsexamen;
 
-- –. met de letter K: de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen en het staatsexamen, bedoeld in letter J;
+- – met de letter K: de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen en het staatsexamen, bedoeld in letter J;
 
-- –. met de letter L: het aantal in de letter F bedoelde inburgeraars dat uiterlijk respectievelijk 31 december 2009, 31 december 2010, 31 december 2011 heeft deelgenomen aan het inburgeringsexamen of het staatsexamen;
+- – met de letter L: het aantal in de letter F bedoelde inburgeraars dat uiterlijk respectievelijk 31 december 2009, 31 december 2010, 31 december 2011 heeft deelgenomen aan het inburgeringsexamen of het staatsexamen;
 
-- –. met de letter M: de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen en het staatsexamen, bedoeld in letter L;
+- – met de letter M: de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen en het staatsexamen, bedoeld in letter L;
 
-- –. met de letter N: het aantal in de letter F bedoelde inburgeraars dat uiterlijk respectievelijk 31 december 2009, 31 december 2010, 31 december 2011 heeft deelgenomen aan het aanvullend praktijkdeel, bedoeld in [artikel 3.8 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.8);
+- – met de letter N: het aantal in de letter F bedoelde inburgeraars dat uiterlijk respectievelijk 31 december 2009, 31 december 2010, 31 december 2011 heeft deelgenomen aan het aanvullend praktijkdeel, bedoeld in [artikel 3.8 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.8);
 
-- –. met de letter O: de bijdragevergoeding ten aanzien van de deelname aan het aanvullend praktijkdeel, bedoeld in letter N;
+- – met de letter O: de bijdragevergoeding ten aanzien van de deelname aan het aanvullend praktijkdeel, bedoeld in letter N;
 
-- –. met de letter P: de door de Minister vast te stellen correctiefactor;
+- – met de letter P: de door de Minister vast te stellen correctiefactor;
 
-- –. met de letter Q: het bedrag, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=3&artikel=9&z=2013-01-01&g=2013-01-01);
+- – met de letter Q: het bedrag, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=3&artikel=9&z=2013-01-01&g=2013-01-01);
 
-- –. met de letter R: het aantal inburgeraars met wie in respectievelijk 2008 en 2009 een overeenkomst tot vaststelling van een duale inburgeringsvoorziening is gesloten;
+- – met de letter R: het aantal inburgeraars met wie in respectievelijk 2008 en 2009 een overeenkomst tot vaststelling van een duale inburgeringsvoorziening is gesloten;
 
-- –. met de letter S: de bijdragevergoeding ten aanzien van de vaststelling van een duale inburgeringsvoorziening, bedoeld in letter R;
+- – met de letter S: de bijdragevergoeding ten aanzien van de vaststelling van een duale inburgeringsvoorziening, bedoeld in letter R;
 
-- –. met de letter T: het aantal inburgeraars, niet zijnde geestelijke bedienaar, met wie in respectievelijk 2008 en 2009 een overeenkomst tot vaststelling van een taalkennisvoorziening is gesloten;
+- – met de letter T: het aantal inburgeraars, niet zijnde geestelijke bedienaar, met wie in respectievelijk 2008 en 2009 een overeenkomst tot vaststelling van een taalkennisvoorziening is gesloten;
 
-- –. met de letter U: de bijdragevergoeding ten aanzien van de vaststelling van een taalkennisvoorziening, bedoeld in letter T.
+- – met de letter U: de bijdragevergoeding ten aanzien van de vaststelling van een taalkennisvoorziening, bedoeld in letter T.
 
 2. De Minister stelt de financiële bijdrage uiterlijk 1 oktober 2012 vast.
 
@@ -277,19 +259,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2007.
 ##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling vrijwillige inburgering niet-G31 2007.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-1. Indien een inburgeraar in aanmerking wordt gebracht voor een inburgeringsvoorziening, een gecombineerde inburgeringsvoorziening dan wel een taalkennisvoorziening doet het college of het bestuur de inburgeraar terzake een aanbod.
-
-2. Indien het aanbod, bedoeld in het eerste lid, geheel of gedeeltelijk bestaat uit een persoonlijk inburgeringsbudget begeleidt het college of het bestuur de inburgeraar op diens verzoek bij de vormgeving van zijn inburgeringsprogramma en de keuze van een inburgeringsbedrijf. Het college of het bestuur beoordeelt het voorstel van de inburgeraar en sluit vervolgens een overeenkomst met het inburgeringsbedrijf.
-
-3. Indien een inburgeraar tevens geestelijke bedienaar is, wordt hem, onverminderd het bepaalde in het eerste en tweede lid, de cursus, bedoeld in [artikel 4.25 van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.25) aangeboden.
-
-### Hoofdstuk 3. Verstrekking prestatiegegevens, vaststelling financiële bijdrage
-
-### Hoofdstuk 4. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

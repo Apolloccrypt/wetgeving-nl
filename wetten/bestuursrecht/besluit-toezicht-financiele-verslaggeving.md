@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 31 oktober 2006, houdende regels inzake het toezicht op de naleving van de voorschriften voor financiële verslaggeving van effectenuitgevende instellingen, de doorberekening van aan dat toezicht verbonden kosten, alsmede tot wijziging van enige besluiten (Besluit toezicht financiële verslaggeving)"
+citeertitel: "Besluit toezicht financiële verslaggeving"
 identifier: "BWBR0020486"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-07-12"
-last_updated: "2017-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020486"
+categorie: "Financieel recht"
 soort: "AMvB"
-stam_id: "8726593"
-version_id: "13776832"
-internal_id: "C18613641"
-label_id: "8706724"
-dtd_version: "2.0"
-original_entry_into_force: "2006-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020486/2017-07-12/0"
-intitule_bron: "Stb.2006-570"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-10-31"
-intitule_published: "2006-11-23"
-intitule_in_force: "2006-11-23"
-intitule_status: "goed"
-original_publication: "Stb.2006-570"
-original_signed_date: "2006-10-31"
-original_published_date: "2006-11-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2006-570"
-entry_into_force_date: "2006-12-31"
-jci_1_3: "jci1.3:c:BWBR0020486&z=2017-07-12&g=2017-07-12"
-jci_1_0: "1.0:c:BWBR0020486&g=2017-07-12"
-citeertitel_status: "officieel"
-short_title: "Besluit toezicht financiële verslaggeving"
-signed_date: "2006-10-31"
-entry_into_force: "2006-12-31"
+publicatiedatum: 2006-12-31
+laatste_update: 2017-07-12
+status: geldig
+toestand: 2017-07-12
+bron: "https://wetten.overheid.nl/BWBR0020486"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 31 oktober 2006, houdende regels inzake het toezicht op de naleving van de voorschriften voor financiële verslaggeving van effectenuitgevende instellingen, de doorberekening van aan dat toezicht verbonden kosten, alsmede tot wijziging van enige besluiten (Besluit toezicht financiële verslaggeving)
-
-Op voordracht van Onze Minister van Financiën van 11 september 2006, FM 2006-2108;
-
-Gelet op de [artikelen 3, vierde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=3), [5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=5), [6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=6), en [18, derde lid, van de Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&artikel=18), [artikel 47, vierde en achtste lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=47), [artikel 1a, eerste lid, onderdeel e, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a) en [artikel 1a, eerste lid, onderdeel d, en tweede lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=1a);
-
-De Raad van State gehoord (advies van 12 oktober 2006, No.W06.06.0395/IV);
-
-Gezien het nader rapport van Onze Minister van Financiën van 25 oktober 2006, FM 2006-02500 M;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -52,7 +20,7 @@ In dit besluit wordt verstaan onder:
 
 - a. wet: [Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369).
 
-- b. vervallen.
+- b. *vervallen.*
 
 ##### Artikel 2
 
@@ -78,23 +46,23 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Wijzigt het Besluit Marktmisbruik.
+*Wijzigt het Besluit Marktmisbruik.*
 
 ##### Artikel 8
 
-Wijzigt het Besluit bestuursorganen WNo en Wob.
+*Wijzigt het Besluit bestuursorganen WNo en Wob.*
 
 ##### Artikel 9
 
-Wijzigt Besluit marktmisbruik Wft.
+*Wijzigt Besluit marktmisbruik Wft.*
 
 ##### Artikel 10
 
@@ -103,5 +71,3 @@ Dit besluit treedt in werking op een koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit toezicht financiële verslaggeving.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

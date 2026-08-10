@@ -9,7 +9,7 @@ laatste_update: 2026-08-08
 status: geldig
 toestand: 2026-08-08
 bron: "https://wetten.overheid.nl/BWBR0032523"
-opgehaald: 2026-08-09
+opgehaald: 2026-08-10
 ---
 
 # Regeling van de Minister van Economische Zaken van 12 december 2012 , nr. WJZ/12363115, houdende regels met betrekking tot de handhaving van de Wet dieren en enige andere aangelegenheden met betrekking tot die wet (Regeling handhaving en overige zaken Wet dieren)

@@ -1,45 +1,17 @@
 ---
 title: "Regeling luchtvaartmeteorologische inlichtingen 2006"
 identifier: "BWBR0019375"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019375"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "7783663"
-version_id: "22892282"
-internal_id: "C33108521"
-label_id: "7771394"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019375/2024-01-01/0"
-intitule_bron: "Stcrt.2006-14"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-22"
-intitule_published: "2006-01-19"
-intitule_in_force: "2006-01-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-44671"
-original_signed_date: "2015-12-08"
-original_published_date: "2015-12-22"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2015-44671"
-entry_into_force_date: "2015-12-08"
-jci_1_3: "jci1.3:c:BWBR0019375&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0019375&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2015-12-08"
-entry_into_force: "2015-12-08"
+publicatiedatum: 2015-12-08
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0019375"
+opgehaald: 2026-08-10
 ---
+
 # Regeling luchtvaartmeteorologische inlichtingen 2006
-
-Handelende in overeenstemming met de Staatssecretaris van Defensie;
-
-Gelet op [artikel 8 van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](https://wetten.overheid.nl/jci1.3:c:BWBR0012952&artikel=8) en [artikel 61 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=61);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -93,9 +65,9 @@ TAF lang: 6-uurlijkse luchthavenweersverwachting in luchtvaartmeteorologische co
 
 TREND-forecast: weersverwachting voor de komende 2 uur in luchtvaartmeteorologische code met significante veranderingen, toegevoegd aan de luchtvaartmeteorologische waarnemingen in de vorm van (AUTO) METAR, (AUTO) MET REPORT en (AUTO) SPECIAL;
 
-uitvoeringsverordening (EU) 2017/373: uitvoeringsverordening (EU) 2017/373 van de Commissie van 1 maart 2017 tot vaststelling van de gemeenschappelijke eisen voor verleners van luchtverkeersbeheers-/luchtvaartnavigatiediensten en andere netwerkfuncties voor luchtverkeersbeheer en het toezicht daarop, en tot intrekking van Verordening (EG) nr. 482/2008, Uitvoeringsverordeningen (EU) nr. 1034/2011, (EU) nr. 1035/2011 en (EU) 2016/1377 en tot wijziging van Verordening (EU) nr. 677/2011 (PbEU 2017, L 62);
+uitvoeringsverordening (EU) 2017/373: uitvoeringsverordening (EU) 2017/373 van de Commissie van 1 maart 2017 tot vaststelling van de gemeenschappelijke eisen voor verleners van luchtverkeersbeheers-/luchtvaartnavigatiediensten en andere netwerkfuncties voor luchtverkeersbeheer en het toezicht daarop, en tot intrekking van Verordening (EG) nr. 482/2008, Uitvoeringsverordeningen (EU) nr. 1034/2011, (EU) nr. 1035/2011 en (EU) 2016/1377 en tot wijziging van Verordening (EU) nr. 677/2011 (PbEU 2017, L 62);
 
-verdrag: het op 7 december 1944 gesloten Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
+verdrag: het op 7 december 1944 gesloten Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
 
 VOLMET: uitzending met (AUTO) METAR en TREND bestemd voor luchtvaartuigen tijdens de vlucht, uitgezonden door Europese meteorologische radiostations volgens EUR ANP en in Nederland aangeduid als AMB (routine broadcast of meteorological information for aircraft in flight);
 
@@ -104,6 +76,28 @@ W/T: kaarten met WAFS informatie over wind en temperatuur op relevante hoogtes (
 weerradar: samengesteld beeld van Nederlandse weerradar-ontvangers;
 
 windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verticale of horizontale windrichtingsverandering of windsnelheidsveranderingen.
+
+##### Artikel 1a. Grondslag
+
+Deze regeling berust op [artikel 5.13a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13a) en [artikel 26, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=26).
+
+##### Artikel 1b. Aanwijzing
+
+1. Het Koninklijk Nederlands Meteorologisch Instituut wordt aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie ten behoeve van het burgerluchtverkeer, als bedoeld in artikel 9, eerste lid, van de luchtvaartnavigatiedienstenverordening, voor het gehele luchtruim dat onder de verantwoordelijkheid van de Minister van Infrastructuur en Waterstaat valt. Hiertoe vervult het Koninklijk Nederlands Meteorologisch Instituut in ieder geval de functies van:
+
+- a. luchtvaartmeteorologisch waarnemingscentrum voor het vluchtinformatiegebied Amsterdam;
+
+- b. luchthavenmeteorologische dienst en luchtvaartmeteorologisch station voor de luchthavens Schiphol, Groningen Airport Eelde, Lelystad Airport, Maastricht Aachen Airport en Rotterdam The Hague Airport;
+
+- c. luchthavenmeteorologische dienst onder voorwaarden en beperkingen als bedoeld in uitvoeringsverordening (EU) 2017/373 en luchtvaartmeteorologisch station onder voorwaarden en beperkingen als bedoeld in uitvoeringsverordening (EU) 2017/373 voor gebieden op de Noordzee gelegen in het gebied ten noorden van 53 graden noorderbreedte; en
+
+- d. luchtvaartmeteorologisch station onder voorwaarden en beperkingen als bedoeld in uitvoeringsverordening (EU) 2017/373 voor de luchthaven Budel.
+
+2. De aangewezen dienstverlener, bedoeld in het eerste lid, draagt zorg voor het regelmatig raadplegen van gebruikers van meteorologische diensten voor de luchtvaartnavigatie omtrent de kostengrondslag en het vergoedingenbeleid van die dienstverlening. De raadpleging kan tevens op verzoek van de gebruikers plaatsvinden.
+
+3. De Minister van Defensie wordt aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie ten behoeve van het militaire luchtverkeer voor het gehele luchtruim dat onder de verantwoordelijkheid van de Minister van Infrastructuur en Waterstaat valt.
+
+4. Onverminderd het eerste lid wordt de Minister van Defensie aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie voor de functie van luchthavenmeteorologische dienst en luchtvaartmeteorologisch station voor het burgerluchtverkeer op de militaire luchthavens Eindhoven en De Kooy.
 
 ##### Artikel 2. Luchtvaartmeteorologische inlichtingen ten behoeve van de burgerluchtvaart
 
@@ -121,7 +115,7 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 - f. Onderzoeksraad voor veiligheid;
 
-- g. vervallen;
+- g. *vervallen;*
 
 - h. Politie, Dienst specialistische operaties;
 
@@ -135,25 +129,25 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 - a. producten en diensten gebaseerd op de internationale eisen die zijn vastgelegd in Annex 3 bij het verdrag, voor zover toepasselijk nader omschreven in deel V van het EUR ANP en in bijlage V Deel-MET van uitvoeringsverordening (EU) 2017/373:
 
-- 1°. bewaakte weerwaarnemingen en rapporten,
+   - 1°. bewaakte weerwaarnemingen en rapporten,
 
-- 2°. bewaakte weersverwachtingen,
+   - 2°. bewaakte weersverwachtingen,
 
-- 3°. bewaakte weerswaarschuwingen,
+   - 3°. bewaakte weerswaarschuwingen,
 
-- 4°. meteorologische satellietwaarnemingen,
+   - 4°. meteorologische satellietwaarnemingen,
 
-- 5°. weerradarinformatie,
+   - 5°. weerradarinformatie,
 
-- 6°. klimatologische rapporten,
+   - 6°. klimatologische rapporten,
 
-- 7°. WAFC producten,
+   - 7°. WAFC producten,
 
-- 8°. OPMET data (SADIS),
+   - 8°. OPMET data (SADIS),
 
-- 9°. briefing,
+   - 9°. briefing,
 
-- 10°. consultatie;
+   - 10°. consultatie;
 
 - b. producten en diensten nationaal bepaald en opgedragen door de Minister van Infrastructuur en Waterstaat.
 
@@ -199,33 +193,33 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 - a. voor de taakuitvoering van de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers:
 
-- 1°. aerodrome Warning,
+   - 1°. aerodrome Warning,
 
-- 2°. windshear waarschuwingen;
+   - 2°. windshear waarschuwingen;
 
 - b. voor de taakuitoefening van de onder [artikel 2, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers:
 
-- 1°. TAF lang,
+   - 1°. TAF lang,
 
-- 2°. TREND,
+   - 2°. TREND,
 
-- 3°. METAR,
+   - 3°. METAR,
 
-- 4°. take-off forecast, indien daarom wordt verzocht;
+   - 4°. take-off forecast, indien daarom wordt verzocht;
 
 - c. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen f tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers:
 
-- 1°. MET REPORT en SPECIAL voor de instrumentlandingsbanen,
+   - 1°. MET REPORT en SPECIAL voor de instrumentlandingsbanen,
 
-- 2°. LLTI,
+   - 2°. LLTI,
 
-- 3°. informatie voor het luchtverkeerssysteem van het luchthaven ten aanzien van de wind onder 900 meter (3000 voet) en de hoogte van het nul graden Celsius niveau,
+   - 3°. informatie voor het luchtverkeerssysteem van het luchthaven ten aanzien van de wind onder 900 meter (3000 voet) en de hoogte van het nul graden Celsius niveau,
 
-- 4°. windinformatie representatief voor de landingsplek op de instrumentlandingsbaan,
+   - 4°. windinformatie representatief voor de landingsplek op de instrumentlandingsbaan,
 
-- 5°. windinformatie representatief voor de vertrekplek op de instrumentlandingsbaan,
+   - 5°. windinformatie representatief voor de vertrekplek op de instrumentlandingsbaan,
 
-- 6°. Runway Visual Range information voor de landingszone van de instrumentlandingsbaan ingeval van een categorie 1 instrumentlandingsbaan, voor de landingszone en het midden van de baan ingeval van een categorie 2 instrumentlandingsbaan en voor de landingszone, het midden en het einddeel van de instrumentlandingsbaan ingeval van een categorie 3 instrumentlandingsbaan;
+   - 6°. Runway Visual Range information voor de landingszone van de instrumentlandingsbaan ingeval van een categorie 1 instrumentlandingsbaan, voor de landingszone en het midden van de baan ingeval van een categorie 2 instrumentlandingsbaan en voor de landingszone, het midden en het einddeel van de instrumentlandingsbaan ingeval van een categorie 3 instrumentlandingsbaan;
 
 - d. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdeel b, en onderdelen f tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers en alleen voor de luchthaven Schiphol, advisering door middel van het weersafhankelijk beschikbaar stellen van specifieke informatie door een meteorologisch adviseur.
 
@@ -241,17 +235,17 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 - a. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers:
 
-- 1°. TAF lang,
+   - 1°. TAF lang,
 
-- 2°. AUTO METAR.
+   - 2°. AUTO METAR.
 
 - b. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen f tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers:
 
-- 1°. windinformatie, representatief voor de landingsplek op de instrumentlandingsbaan,
+   - 1°. windinformatie, representatief voor de landingsplek op de instrumentlandingsbaan,
 
-- 2°. windinformatie, representatief voor de vertrekplek op de instrumentlandingsbaan,
+   - 2°. windinformatie, representatief voor de vertrekplek op de instrumentlandingsbaan,
 
-- 3°. Runway Visual Range informatie voor de landingszone van de instrumentlandingsbaan ingeval van een categorie 1 instrumentlandingsbaan, voor de landingszone en het midden van de baan ingeval van een categorie 2 instrumentlandingsbaan, en voor de landingszone, het midden en het einddeel van de instrumentlandingsbaan ingeval van een categorie 3 instrumentlandingsbaan.
+   - 3°. Runway Visual Range informatie voor de landingszone van de instrumentlandingsbaan ingeval van een categorie 1 instrumentlandingsbaan, voor de landingszone en het midden van de baan ingeval van een categorie 2 instrumentlandingsbaan, en voor de landingszone, het midden en het einddeel van de instrumentlandingsbaan ingeval van een categorie 3 instrumentlandingsbaan.
 
 4. Luchtvaartmeteorologische inlichtingen beschikbaar gemaakt als bedoeld in dit artikel, hebben een bewaartermijn van minimaal 100 dagen.
 
@@ -340,31 +334,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling luchtvaartmeteorologische inlichtingen 2006.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Grondslag
-
-Deze regeling berust op [artikel 5.13a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13a) en [artikel 26, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=26).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1b. Aanwijzing
-
-1. Het Koninklijk Nederlands Meteorologisch Instituut wordt aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie ten behoeve van het burgerluchtverkeer, als bedoeld in artikel 9, eerste lid, van de luchtvaartnavigatiedienstenverordening, voor het gehele luchtruim dat onder de verantwoordelijkheid van de Minister van Infrastructuur en Waterstaat valt. Hiertoe vervult het Koninklijk Nederlands Meteorologisch Instituut in ieder geval de functies van:
-
-- a. luchtvaartmeteorologisch waarnemingscentrum voor het vluchtinformatiegebied Amsterdam;
-
-- b. luchthavenmeteorologische dienst en luchtvaartmeteorologisch station voor de luchthavens Schiphol, Groningen Airport Eelde, Lelystad Airport, Maastricht Aachen Airport en Rotterdam The Hague Airport;
-
-- c. luchthavenmeteorologische dienst onder voorwaarden en beperkingen als bedoeld in uitvoeringsverordening (EU) 2017/373 en luchtvaartmeteorologisch station onder voorwaarden en beperkingen als bedoeld in uitvoeringsverordening (EU) 2017/373 voor gebieden op de Noordzee gelegen in het gebied ten noorden van 53 graden noorderbreedte; en
-
-- d. luchtvaartmeteorologisch station onder voorwaarden en beperkingen als bedoeld in uitvoeringsverordening (EU) 2017/373 voor de luchthaven Budel.
-
-2. De aangewezen dienstverlener, bedoeld in het eerste lid, draagt zorg voor het regelmatig raadplegen van gebruikers van meteorologische diensten voor de luchtvaartnavigatie omtrent de kostengrondslag en het vergoedingenbeleid van die dienstverlening. De raadpleging kan tevens op verzoek van de gebruikers plaatsvinden.
-
-3. De Minister van Defensie wordt aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie ten behoeve van het militaire luchtverkeer voor het gehele luchtruim dat onder de verantwoordelijkheid van de Minister van Infrastructuur en Waterstaat valt.
-
-4. Onverminderd het eerste lid wordt de Minister van Defensie aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie voor de functie van luchthavenmeteorologische dienst en luchtvaartmeteorologisch station voor het burgerluchtverkeer op de militaire luchthavens Eindhoven en De Kooy.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

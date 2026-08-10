@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 20 oktober 2006 tot vaststelling van het Besluit technische hulpmiddelen strafvordering"
+citeertitel: "Besluit technische hulpmiddelen strafvordering"
 identifier: "BWBR0020444"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020444"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "8707673"
-version_id: "13738312"
-internal_id: "C18542281"
-label_id: "8688104"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020444/2019-01-01/0"
-intitule_bron: "Stb.2006-524"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-10-20"
-intitule_published: "2006-11-07"
-intitule_in_force: "2006-11-07"
-intitule_status: "goed"
-original_publication: "Stb.2006-524"
-original_signed_date: "2006-10-20"
-original_published_date: "2006-11-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2006-524"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020444&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0020444&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit technische hulpmiddelen strafvordering"
-signed_date: "2006-10-20"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0020444"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 20 oktober 2006 tot vaststelling van het Besluit technische hulpmiddelen strafvordering
-
-Op de voordracht van Onze Minister van Justitie van 1 mei 2006, nr. 5417624/06/6;
-
-Gelet op de [artikelen 126m, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m) en [126ee van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ee) en [artikel 3.10 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10);
-
-De Raad van State gehoord (advies van 19 juni 2006, nr. W03.06.0141/l );
-
-Gezien het nader rapport van Onze Minister van Justitie van 13 oktober 2006, nr. 5446307/06/6;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -255,5 +223,3 @@ Dit besluit treedt in werking op 1 januari 2007.
 ##### Artikel 29. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit technische hulpmiddelen strafvordering.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 maart 2006, nr. TRCJZ/2006/769, tot instelling van de DR-Raad"
+citeertitel: "Instellingsbesluit DR-raad"
 identifier: "BWBR0019646"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-03-18"
-last_updated: "2006-01-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019646"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "8140163"
-version_id: "12955502"
-internal_id: "C29224341"
-label_id: "8121294"
-dtd_version: "2.0"
-original_entry_into_force: "2006-03-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019646/2006-03-18/0"
-intitule_bron: "Stcrt.2006-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-03-10"
-intitule_published: "2006-03-16"
-intitule_in_force: "2006-03-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-54"
-original_signed_date: "2006-03-10"
-original_published_date: "2006-03-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-54-p17-SC74231"
-entry_into_force_date: "2006-03-18"
-jci_1_3: "jci1.3:c:BWBR0019646&z=2006-03-18&g=2006-03-18"
-jci_1_0: "1.0:c:BWBR0019646&g=2006-03-18"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit DR-raad"
-signed_date: "2006-03-10"
-entry_into_force: "2006-03-18"
+publicatiedatum: 2006-03-18
+laatste_update: 2006-03-18
+status: geldig
+toestand: 2006-03-18
+bron: "https://wetten.overheid.nl/BWBR0019646"
+opgehaald: 2026-08-10
 ---
-# Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 maart 2006, nr. TRCJZ/2006/769, tot instelling van de DR-Raad
 
-Besluit:
+# Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 maart 2006, nr. TRCJZ/2006/769, tot instelling van de DR-Raad
 
 ##### Artikel 1
 
@@ -76,9 +52,9 @@ In dit besluit wordt verstaan onder:
 
 Voor de eerste periode worden benoemd:
 
-- –. A.W. Bierens, als voorzitter;
+- – A.W. Bierens, als voorzitter;
 
-- –. ir. M.A.E. Calon en J.W.E.M. Roemaat, als lid.
+- – ir. M.A.E. Calon en J.W.E.M. Roemaat, als lid.
 
 ##### Artikel 5
 
@@ -95,5 +71,3 @@ Dit besluit wordt aangehaald als: Instellingsbesluit DR-raad.
 ##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 januari 2006.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

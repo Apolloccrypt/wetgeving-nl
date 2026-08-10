@@ -1,44 +1,18 @@
 ---
 title: "Voorlopig Bestuursreglement van de Nederlandse Zorgautoriteit, zoals vastgesteld op grond van artikel 124, derde lid, van de Wet marktordening gezondheidszorg door de Minister van Volksgezondheid, Welzijn en Sport bij brief van 29 september 2006, nr. MC/MO-2716649"
+citeertitel: "Voorlopig Bestuursreglement van de Nederlandse Zorgautoriteit"
 identifier: "BWBR0020370"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-10-01"
-last_updated: "2006-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020370"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "8632723"
-version_id: "13608772"
-internal_id: "C18299361"
-label_id: "8613084"
-dtd_version: "2.0"
-original_entry_into_force: "2006-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020370/2006-10-01/0"
-intitule_bron: "Stcrt.2006-190"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-09-29"
-intitule_published: "2006-09-29"
-intitule_in_force: "2006-09-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-190"
-original_signed_date: "2006-09-29"
-original_published_date: "2006-09-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-190-p22-SC77074"
-entry_into_force_date: "2006-10-01"
-jci_1_3: "jci1.3:c:BWBR0020370&z=2006-10-01&g=2006-10-01"
-jci_1_0: "1.0:c:BWBR0020370&g=2006-10-01"
-citeertitel_status: "redactioneel"
-short_title: "Voorlopig Bestuursreglement van de Nederlandse Zorgautoriteit"
-signed_date: "2006-09-29"
-entry_into_force: "2006-10-01"
+publicatiedatum: 2006-10-01
+laatste_update: 2006-10-01
+status: geldig
+toestand: 2006-10-01
+bron: "https://wetten.overheid.nl/BWBR0020370"
+opgehaald: 2026-08-10
 ---
+
 # Voorlopig Bestuursreglement van de Nederlandse Zorgautoriteit, zoals vastgesteld op grond van artikel 124, derde lid, van de Wet marktordening gezondheidszorg door de Minister van Volksgezondheid, Welzijn en Sport bij brief van 29 september 2006, nr. MC/MO-2716649
-
-Gelet op [artikel 124, derde lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=124);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -172,7 +146,7 @@ De Raad legt het beleid inzake de integriteit van de NZa-organisatie vast in een
 
 2. Voor de behandeling van klachten stelt de Raad een klachtencommissie in. De instelling en werkwijze van deze commissie is geregeld in de Klachtenregeling.
 
-##### Artikel 13. Verplichtingen ingevolge [artikel 3:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:2)
+##### Artikel 13. Verplichtingen ingevolge artikel 3:2 van de Algemene wet bestuursrecht
 
 1. De wijze waarop de NZa invulling zal geven aan zijn verplichtingen ingevolge [artikel 3:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:2) om bij de voorbereiding van besluiten de nodige kennis omtrent de relevante feiten en de af te wegen belangen te vergaren, zal door de NZa worden vastgelegd in een afzonderlijk document.
 

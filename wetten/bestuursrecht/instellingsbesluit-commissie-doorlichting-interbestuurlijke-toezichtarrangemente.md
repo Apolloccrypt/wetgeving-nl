@@ -1,43 +1,17 @@
 ---
 title: "Instellingsbesluit Commissie Doorlichting Interbestuurlijke Toezichtarrangementen"
 identifier: "BWBR0020203"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-05-16"
-last_updated: "2007-05-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020203"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "8580193"
-version_id: "13536632"
-internal_id: "C18200421"
-label_id: "8560454"
-dtd_version: "2.0"
-original_entry_into_force: "2006-09-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020203/2007-05-16/0"
-intitule_bron: "Stcrt.2006-173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-08-22"
-intitule_published: "2006-09-06"
-intitule_in_force: "2006-09-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-173"
-original_signed_date: "2006-08-22"
-original_published_date: "2006-09-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-173-p10-SC76737"
-entry_into_force_date: "2006-09-08"
-jci_1_3: "jci1.3:c:BWBR0020203&z=2007-05-16&g=2007-05-16"
-jci_1_0: "1.0:c:BWBR0020203&g=2007-05-16"
-citeertitel_status: "officieel"
-signed_date: "2006-08-22"
-entry_into_force: "2006-09-08"
+publicatiedatum: 2006-09-08
+laatste_update: 2007-05-16
+status: geldig
+toestand: 2007-05-16
+bron: "https://wetten.overheid.nl/BWBR0020203"
+opgehaald: 2026-08-10
 ---
+
 # Instellingsbesluit Commissie Doorlichting Interbestuurlijke Toezichtarrangementen
-
-Handelend in overeenstemming met het gevoelen van de ministerraad;
-
-Besluit:
 
 ##### Artikel 1
 

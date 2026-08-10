@@ -1,41 +1,17 @@
 ---
 title: "Instellingsbesluit draaginsigne Dutchbat III"
 identifier: "BWBR0020313"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-11-30"
-last_updated: "2006-11-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020313"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8708093"
-version_id: "13738462"
-internal_id: "C18542431"
-label_id: "8688254"
-dtd_version: "2.0"
-original_entry_into_force: "2006-11-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020313/2006-11-30/0"
-intitule_bron: "Stcrt.2006-217"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-09-18"
-intitule_published: "2006-11-07"
-intitule_in_force: "2006-11-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-217"
-original_signed_date: "2006-09-18"
-original_published_date: "2006-11-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-217-p13-SC77497"
-entry_into_force_date: "2006-11-09"
-jci_1_3: "jci1.3:c:BWBR0020313&z=2006-11-30&g=2006-11-30"
-jci_1_0: "1.0:c:BWBR0020313&g=2006-11-30"
-citeertitel_status: "officieel"
-signed_date: "2006-09-18"
-entry_into_force: "2006-11-09"
+publicatiedatum: 2006-11-09
+laatste_update: 2006-11-30
+status: geldig
+toestand: 2006-11-30
+bron: "https://wetten.overheid.nl/BWBR0020313"
+opgehaald: 2026-08-10
 ---
-# Instellingsbesluit draaginsigne Dutchbat III
 
-Besluit:
+# Instellingsbesluit draaginsigne Dutchbat III
 
 ##### Artikel 1
 
@@ -78,9 +54,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit draaginsigne Dutchbat III.
-
-## Bijlage. behorende bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020313&artikel=1&z=2006-11-30&g=2006-11-30)
-
-### **Afbeelding draaginsigne**
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

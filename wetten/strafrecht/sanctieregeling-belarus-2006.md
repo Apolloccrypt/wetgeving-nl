@@ -9,7 +9,7 @@ laatste_update: 2026-08-04
 status: geldig
 toestand: 2026-08-04
 bron: "https://wetten.overheid.nl/BWBR0020371"
-opgehaald: 2026-08-09
+opgehaald: 2026-08-10
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 29 september 2006, nr. DJZ/BR/0965-06, betreffende beperkende maatregelen tegen president Loekasjenko en bepaalde functionarissen van Belarus (Sanctieregeling Belarus 2006)

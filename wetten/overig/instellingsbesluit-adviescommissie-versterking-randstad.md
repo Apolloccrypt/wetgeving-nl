@@ -1,43 +1,17 @@
 ---
 title: "Instellingsbesluit Adviescommissie Versterking Randstad"
 identifier: "BWBR0020348"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-10-07"
-last_updated: "2006-10-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020348"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8637073"
-version_id: "13624552"
-internal_id: "C18317021"
-label_id: "8617294"
-dtd_version: "2.0"
-original_entry_into_force: "2006-10-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020348/2006-10-07/0"
-intitule_bron: "Stcrt.2006-194"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-09-27"
-intitule_published: "2006-10-05"
-intitule_in_force: "2006-10-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-194"
-original_signed_date: "2006-09-27"
-original_published_date: "2006-10-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-194-p10-SC77077"
-entry_into_force_date: "2006-10-07"
-jci_1_3: "jci1.3:c:BWBR0020348&z=2006-10-07&g=2006-10-07"
-jci_1_0: "1.0:c:BWBR0020348&g=2006-10-07"
-citeertitel_status: "officieel"
-signed_date: "2006-09-27"
-entry_into_force: "2006-10-07"
+publicatiedatum: 2006-10-07
+laatste_update: 2006-10-07
+status: geldig
+toestand: 2006-10-07
+bron: "https://wetten.overheid.nl/BWBR0020348"
+opgehaald: 2026-08-10
 ---
+
 # Instellingsbesluit Adviescommissie Versterking Randstad
-
-Handelend in afstemming met de Minister van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer en de leden van de groep ‘Holland Acht’;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -57,15 +31,15 @@ Er is een Adviescommissie Versterking Randstad.
 
 1. De commissie heeft de opdracht een oordeel te geven over de bestaande analyses omtrent de (internationale) concurrentiepositie van de Randstad, alsmede over de aard en rol van bestuurlijke knelpunten daarbij. Voor de inhoudelijke analyse dient in elk geval gekeken te worden naar de volgende thema’s:
 
-- –. Vestigingslokaties
+- – Vestigingslokaties
 
-- –. Verkeers- en vervoersinfrastructuur
+- – Verkeers- en vervoersinfrastructuur
 
-- –. Verstedelijking in relatie met groen-blauw
+- – Verstedelijking in relatie met groen-blauw
 
-- –. Kennisinfrastructuur
+- – Kennisinfrastructuur
 
-- –. Marketing
+- – Marketing
 
 De voorgelegde bestuurlijke scenario’s uit de notitie Middenbestuur dienen te worden getoetst op de bijdrage die zij zouden kunnen leveren aan een structureel sterkere concurrentiepositie van de Randstad in internationaal verband.
 
@@ -98,5 +72,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Versterking Randstad.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

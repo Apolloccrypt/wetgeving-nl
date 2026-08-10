@@ -1,43 +1,17 @@
 ---
 title: "Controlevoorschriften Wet arbeid en zorg 2006"
 identifier: "BWBR0020117"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-08-03"
-last_updated: "2006-08-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020117"
+categorie: "Arbeidsrecht"
 soort: "zbo"
-stam_id: "8549583"
-version_id: "13476292"
-internal_id: "C18092801"
-label_id: "8529954"
-dtd_version: "2.0"
-original_entry_into_force: "2006-08-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020117/2006-08-03/0"
-intitule_bron: "Stcrt.2006-147"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-18"
-intitule_published: "2006-08-01"
-intitule_in_force: "2006-08-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-147"
-original_signed_date: "2006-07-18"
-original_published_date: "2006-08-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-147-p13-SC76205"
-entry_into_force_date: "2006-08-03"
-jci_1_3: "jci1.3:c:BWBR0020117&z=2006-08-03&g=2006-08-03"
-jci_1_0: "1.0:c:BWBR0020117&g=2006-08-03"
-citeertitel_status: "officieel"
-signed_date: "2006-07-18"
-entry_into_force: "2006-08-03"
+publicatiedatum: 2006-08-03
+laatste_update: 2006-08-03
+status: geldig
+toestand: 2006-08-03
+bron: "https://wetten.overheid.nl/BWBR0020117"
+opgehaald: 2026-08-10
 ---
+
 # Controlevoorschriften Wet arbeid en zorg 2006
-
-Gelet op [artikel 3:28 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:28);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -106,5 +80,3 @@ De Controlevoorschriften Wet arbeid en zorg 2001 worden ingetrokken.
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Controlevoorschriften Wet arbeid en zorg 2006.
-
-Dit besluit wordt met de toelichting in de Staatscourant gepubliceerd.

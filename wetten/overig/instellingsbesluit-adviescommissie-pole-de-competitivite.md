@@ -1,41 +1,17 @@
 ---
 title: "Instellingsbesluit Adviescommissie Pôle de Compétitivité"
 identifier: "BWBR0019699"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-03-31"
-last_updated: "2006-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019699"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8175483"
-version_id: "12989582"
-internal_id: "C29227991"
-label_id: "8156634"
-dtd_version: "2.0"
-original_entry_into_force: "2006-03-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019699/2006-03-31/0"
-intitule_bron: "Stcrt.2006-63"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-03-25"
-intitule_published: "2006-03-29"
-intitule_in_force: "2006-03-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-63"
-original_signed_date: "2006-03-25"
-original_published_date: "2006-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-63-p24-SC74416"
-entry_into_force_date: "2006-03-31"
-jci_1_3: "jci1.3:c:BWBR0019699&z=2006-03-31&g=2006-03-31"
-jci_1_0: "1.0:c:BWBR0019699&g=2006-03-31"
-citeertitel_status: "officieel"
-signed_date: "2006-03-25"
-entry_into_force: "2006-03-31"
+publicatiedatum: 2006-03-31
+laatste_update: 2006-03-31
+status: geldig
+toestand: 2006-03-31
+bron: "https://wetten.overheid.nl/BWBR0019699"
+opgehaald: 2026-08-10
 ---
-# Instellingsbesluit Adviescommissie Pôle de Compétitivité
 
-Besluit:
+# Instellingsbesluit Adviescommissie Pôle de Compétitivité
 
 ##### Artikel 1
 
@@ -118,5 +94,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Pôle de Compétitivité.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Defensie in overeenstemming met de Minister van Justitie, nr. D2006038017, Den Haag, 23 november 2006, houdende de instelling van de commissie van onderzoek naar de betrokkenheid van Nederlandse militairen bij mogelijke misstanden bij gesprekken met gedetineerden in Irak"
+citeertitel: "Besluit instelling Commissie van onderzoek naar de betrokkenheid van Nederlandse militairen bij mogelijke misstanden bij gesprekken met gedetineerden in Irak"
 identifier: "BWBR0020570"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-11-23"
-last_updated: "2006-11-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020570"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8742023"
-version_id: "13798342"
-internal_id: "C18625731"
-label_id: "8721974"
-dtd_version: "2.0"
-original_entry_into_force: "2006-11-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020570/2006-11-23/0"
-intitule_bron: "Stcrt.2006-233"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-23"
-intitule_published: "2006-11-29"
-intitule_in_force: "2006-11-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-233"
-original_signed_date: "2006-11-23"
-original_published_date: "2006-11-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-233-p8-SC77921"
-entry_into_force_date: "2006-11-23"
-jci_1_3: "jci1.3:c:BWBR0020570&z=2006-11-23&g=2006-11-23"
-jci_1_0: "1.0:c:BWBR0020570&g=2006-11-23"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling Commissie van onderzoek naar de betrokkenheid van Nederlandse militairen bij mogelijke misstanden bij gesprekken met gedetineerden in Irak"
-signed_date: "2006-11-23"
-entry_into_force: "2006-11-23"
+publicatiedatum: 2006-11-23
+laatste_update: 2006-11-23
+status: geldig
+toestand: 2006-11-23
+bron: "https://wetten.overheid.nl/BWBR0020570"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van de Minister van Defensie in overeenstemming met de Minister van Justitie, nr. D2006038017, Den Haag, 23 november 2006, houdende de instelling van de commissie van onderzoek naar de betrokkenheid van Nederlandse militairen bij mogelijke misstanden bij gesprekken met gedetineerden in Irak
-
-In overeenstemming met de Minister van Justitie,
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -82,8 +54,6 @@ b. De commissie is gerechtigd in het kader van haar onderzoek kennis te nemen va
 
 c. Op de commissie rust een geheimhoudingsplicht met betrekking tot gemerkte en gerubriceerde gegevens als bedoeld sub b.
 
-d.
-
 De verplichting medewerking te verlenen houdt tevens in dat de commissie toegang wordt verleend tot direct of indirect bij het voorval betrokken gebouwen, terreinen en materieel van Defensie.
 
 ##### Artikel 6
@@ -113,5 +83,3 @@ Dit besluit treedt in werking met ingang van 23 november 2006 en vervalt met ing
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit instelling Commissie van onderzoek naar de betrokkenheid van Nederlandse militairen bij mogelijke misstanden bij gesprekken met gedetineerden in Irak.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

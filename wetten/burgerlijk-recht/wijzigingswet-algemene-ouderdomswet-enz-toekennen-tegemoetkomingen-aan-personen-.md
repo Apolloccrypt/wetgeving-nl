@@ -1,57 +1,34 @@
 ---
 title: "Wet van 22 december 2005 tot wijziging van de Algemene Ouderdomswet, Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet financiering sociale verzekeringen en de Wet op de huurtoeslag en enige andere wetten in verband met het toekennen van tegemoetkomingen aan personen die een uitkering ontvangen op grond van de Algemene Ouderdomswet of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en enkele aanpassingen in de berekening van de uitkeringen"
+citeertitel: "Wijzigingswet Algemene Ouderdomswet, enz. (toekennen tegemoetkomingen aan personen die een uitkering ontvangen op grond van de Algemene Ouderdomswet of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten)"
 identifier: "BWBR0019385"
-country: "nl"
-rank: "wet"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019385"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "7766203"
-version_id: "12674842"
-internal_id: "C17067551"
-label_id: "7753894"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019385/2006-01-01/0"
-intitule_bron: "Stb.2005-713"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-22"
-intitule_published: "2005-12-28"
-intitule_in_force: "2005-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2005-713"
-original_signed_date: "2005-12-22"
-original_published_date: "2005-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "30314"
-original_url_id: "stb-2005-713"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0019385&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0019385&g=2006-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Algemene Ouderdomswet, enz. (toekennen tegemoetkomingen aan personen die een uitkering ontvangen op grond van de Algemene Ouderdomswet of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten)"
-signed_date: "2005-12-22"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0019385"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 22 december 2005 tot wijziging van de Algemene Ouderdomswet, Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet financiering sociale verzekeringen en de Wet op de huurtoeslag en enige andere wetten in verband met het toekennen van tegemoetkomingen aan personen die een uitkering ontvangen op grond van de Algemene Ouderdomswet of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en enkele aanpassingen in de berekening van de uitkeringen
 
 ##### Artikel I
 
-Wijzigt de Algemene Ouderdomswet.
+*Wijzigt de Algemene Ouderdomswet.*
 
 ##### Artikel II
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de huurtoeslag.
+*Wijzigt de Wet op de huurtoeslag.*
 
 ##### Artikel IV
 
-Wijzigt de Wet bevordering eigenwoningbezit.
+*Wijzigt de Wet bevordering eigenwoningbezit.*
 
 ##### Artikel V
 
@@ -67,30 +44,20 @@ a. actueel inkomen: het gezamenlijk inkomen van degenen die behoren tot het huis
 
 ##### Artikel VII
 
-Wijzigt de Algemene nabestaandenwet.
+*Wijzigt de Algemene nabestaandenwet.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet werk en bijstand.
+*Wijzigt de Wet werk en bijstand.*
 
 ##### Artikel VIIIA
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.*
 
 ##### Artikel VIIIB
 
-Wijzigt de Wet werk en bijstand.
+*Wijzigt de Wet werk en bijstand.*
 
 ##### Artikel IX
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is toekenning van tegemoetkomingen aan personen die een uitkering ontvangen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) bij wet te regelen en in verband daarmee te voorkomen, dat deze doorwerkt bij de vaststelling van de huurtoeslag, de bijzondere bijdrage in de huurlasten en de eigenwoningbijdrage;
-
-Dat het voorts wenselijk is in verband met de invoering van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) de bepaling over het vaststellen van het netto-minimumloon en het bruto-ouderdomspensioen aan te passen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

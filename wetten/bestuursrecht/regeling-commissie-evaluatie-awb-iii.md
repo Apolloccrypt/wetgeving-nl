@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 juni 2006, nr. 5429821/06/6, houdende instelling van de Commissie Evaluatie Awb III"
+citeertitel: "Regeling Commissie Evaluatie Awb III"
 identifier: "BWBR0020026"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-07-20"
-last_updated: "2006-07-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020026"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "8524893"
-version_id: "13426392"
-internal_id: "C18006701"
-label_id: "8505254"
-dtd_version: "2.0"
-original_entry_into_force: "2006-07-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020026/2006-07-20/0"
-intitule_bron: "Stcrt.2006-137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-06-29"
-intitule_published: "2006-07-18"
-intitule_in_force: "2006-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-137"
-original_signed_date: "2006-06-29"
-original_published_date: "2006-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-137-p10-SC75983"
-entry_into_force_date: "2006-07-20"
-jci_1_3: "jci1.3:c:BWBR0020026&z=2006-07-20&g=2006-07-20"
-jci_1_0: "1.0:c:BWBR0020026&g=2006-07-20"
-citeertitel_status: "officieel"
-short_title: "Regeling Commissie Evaluatie Awb III"
-signed_date: "2006-06-29"
-entry_into_force: "2006-07-20"
+publicatiedatum: 2006-07-20
+laatste_update: 2006-07-20
+status: geldig
+toestand: 2006-07-20
+bron: "https://wetten.overheid.nl/BWBR0020026"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 juni 2006, nr. 5429821/06/6, houdende instelling van de Commissie Evaluatie Awb III
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste en derde lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6) en [artikel 3 van het Vergoedingenbesluit adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008353&artikel=3);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -93,5 +65,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: regeling Commissie Evaluatie Awb III.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

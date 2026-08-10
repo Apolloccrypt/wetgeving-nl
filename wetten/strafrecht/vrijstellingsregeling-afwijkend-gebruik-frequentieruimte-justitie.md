@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 1 februari 2006, nr. WJZ 6008406, houdende regels ter zake vrijstelling van het toestemmingsvereiste ex artikel 3.10, eerste lid, van de Telecommunicatiewet (Vrijstellingsregeling afwijkend gebruik frequentieruimte Justitie)"
+citeertitel: "Vrijstellingsregeling afwijkend gebruik frequentieruimte Justitie"
 identifier: "BWBR0019509"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-04"
-last_updated: "2025-09-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019509"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "7995443"
-version_id: "12860992"
-internal_id: "C17338671"
-label_id: "7983114"
-dtd_version: "2.0"
-original_entry_into_force: "2006-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019509/2025-09-04/0"
-intitule_bron: "Stcrt.2006-37"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-01"
-intitule_published: "2006-02-21"
-intitule_in_force: "2006-02-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-37"
-original_signed_date: "2006-02-01"
-original_published_date: "2006-02-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-37-p8-SC73796"
-entry_into_force_date: "2006-02-23"
-jci_1_3: "jci1.3:c:BWBR0019509&z=2025-09-04&g=2025-09-04"
-jci_1_0: "1.0:c:BWBR0019509&g=2025-09-04"
-citeertitel_status: "officieel"
-short_title: "Vrijstellingsregeling afwijkend gebruik frequentieruimte Justitie"
-signed_date: "2006-02-01"
-entry_into_force: "2006-02-23"
+publicatiedatum: 2006-02-23
+laatste_update: 2025-09-04
+status: geldig
+toestand: 2025-09-04
+bron: "https://wetten.overheid.nl/BWBR0019509"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Economische Zaken van 1 februari 2006, nr. WJZ 6008406, houdende regels ter zake vrijstelling van het toestemmingsvereiste ex artikel 3.10, eerste lid, van de Telecommunicatiewet (Vrijstellingsregeling afwijkend gebruik frequentieruimte Justitie)
-
-Gelet op [artikel 3.10, derde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10)j° [3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), van de Telecommunicatiewet;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -133,5 +107,3 @@ Dit besluit wordt aangehaald als: Vrijstellingsregeling afwijkend gebruik freque
 ##### Artikel 11
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

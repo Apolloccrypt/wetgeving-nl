@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 12 oktober 2006, houdende bepalingen ter uitvoering van de artikelen 1:10, 1:11, 3:5, 3:36 en 3:110 van de Wet op het financieel toezicht (Besluit Reikwijdtebepalingen Wft)"
+citeertitel: "Besluit reikwijdtebepalingen Wft"
 identifier: "BWBR0020419"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020419"
+categorie: "Financieel recht"
 soort: "AMvB"
-stam_id: "8691903"
-version_id: "20989072"
-internal_id: "C30148531"
-label_id: "8672574"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020419/2024-07-01/0"
-intitule_bron: "Stb.2006-518"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-10-12"
-intitule_published: "2006-10-31"
-intitule_in_force: "2006-12-20"
-intitule_status: "goed"
-original_publication: "Stb.2013-537"
-original_signed_date: "2013-12-06"
-original_published_date: "2013-12-17"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2013-537"
-entry_into_force_date: "2013-12-06"
-jci_1_3: "jci1.3:c:BWBR0020419&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0020419&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit reikwijdtebepalingen Wft"
-signed_date: "2013-12-06"
-entry_into_force: "2013-12-06"
+publicatiedatum: 2013-12-06
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0020419"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 12 oktober 2006, houdende bepalingen ter uitvoering van de artikelen 1:10, 1:11, 3:5, 3:36 en 3:110 van de Wet op het financieel toezicht (Besluit Reikwijdtebepalingen Wft)
-
-Op de voordracht van Onze Minister van Financiën van 12 juli 2006, no. FM 2006-01704 M;
-
-Gelet op de [artikelen 1:10](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10), [1:11](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:11), [3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), [3:36](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:36) en [3:110 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110);
-
-De Raad van State gehoord (advies van 17 augustus 2006, no. W06.06.0333/IV);
-
-Gezien het nader rapport van Onze Minister van Financiën van 9 oktober 2006, FM 2006-02265 U;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Definities
 
@@ -58,65 +26,65 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Reikwijdte
 
-### Afdeling 2.1. Bepalingen ter uitvoering van de [artikelen 1:10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10), en [3:36, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:36)
+#### Afdeling 2.1. Bepalingen ter uitvoering van de artikelen 1:10, aanhef en onderdeel a, en 3:36, zesde lid, van de wet
 
 #### § 2.1.1. Onderlinge waarborgmaatschappijen met zetel in Nederland
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 #### § 2.1.2. Ondernemingen of instellingen op onderlinge grondslag met zetel buiten Nederland
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
-### Afdeling 2.2. Bepalingen ter uitvoering van [artikel 1:10, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10)
+#### Afdeling 2.2. Bepalingen ter uitvoering van artikel 1:10, aanhef en onderdeel a, van de wet
 
 ##### Artikel 15
 
@@ -130,17 +98,17 @@ Een schadeverzekeraar als bedoeld in [artikel 15](https://wetten.overheid.nl/jci
 
 - b. vermeldt in de jaarrekening dat alleen risico’s in verzekering zijn genomen voor rekening of met garantie van de Staat der Nederlanden.
 
-### Afdeling 2.3. Bepalingen ter uitvoering van [artikel 1:10, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10)
+#### Afdeling 2.3. Bepalingen ter uitvoering van artikel 1:10, aanhef en onderdeel b, van de wet
 
 ##### Artikel 17
 
 Met uitzondering van de [hoofdstukken 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.1), [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.3) en [5.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.5), zijn de ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) gestelde regels niet van toepassing op verenigingen en onderlinge waarborgmaatschappijen van beperkte omvang met zetel in Nederland die het bedrijf van natura-uitvaartverzekeraar uitoefenen en:
 
-- a. die naar Nederlands recht zijn opgericht voor 1 januari 1995; en
+- a. die naar Nederlands recht zijn opgericht voor 1 januari 1995; en
 
 - b. waarvan het aantal meerderjarige verzekerden minder dan 3000 bedraagt.
 
-### Afdeling 2.4. Bepalingen ter uitvoering van [artikel 1:11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:11)
+#### Afdeling 2.4. Bepalingen ter uitvoering van artikel 1:11 van de wet
 
 ##### Artikel 18
 
@@ -236,19 +204,35 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 ### Hoofdstuk 2a. Samenwerking tussen de toezichthouders
 
+##### Artikel 26a
+
+1. De Nederlandsche Bank vraagt vooraf advies aan de Autoriteit Financiële Markten indien zij dient te beslissen op:
+
+- a. een aanvraag als bedoeld in de [artikelen 2:3.0d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0d), [2:3.0i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0i), [2:3.0m, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0m) teneinde te beoordelen of wordt voldaan aan hetgeen is bepaald bij of krachtens de [artikelen 3:73b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73b), en [4:76a tot en met 4:76d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:76a)en aan krachtens de [artikelen 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=17b) en [18 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=18) gestelde regels voor zover die regels uitvoering geven aan internationaal aanvaarde standaarden inzake bestuur; of
+
+- b. een aanvraag als bedoeld in de [artikel 37a van het Besluit prudentiële regels Wf](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=37a)t, teneinde te beoordelen of wordt voldaan aan hetgeen is bepaald bij of krachtens de [artikelen 3:73b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73b) en aan de krachtens [artikel 17b Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=17b) gestelde regels voor zover die regels uitvoering geven aan internationaal aanvaarde standaarden inzake bestuur.
+
+2. De Autoriteit Financiële Markten brengt het advies schriftelijk uit binnen zes weken na het verzoek.
+
+3. De Nederlandsche Bank volgt het advies, bedoeld in het eerste lid, tenzij zwaarwegende redenen betreffende de soliditeit van de aanvrager of de stabiliteit van het financiële stelsel naar het oordeel van de Nederlandsche Bank aanleiding tot afwijking geven. Indien de Nederlandsche Bank overweegt af te wijken, stelt zij de Autoriteit Financiële Markten in de gelegenheid om haar advies mondeling toe te lichten. De Nederlandsche Bank motiveert een afwijking schriftelijk.
+
+4. Het advies, bedoeld in het eerste lid, maakt deel uit van het besluit ten aanzien van de vergunning of de instemming.
+
+### Hoofdstuk 3. Ontheffingen
+
 ##### Artikel 27
 
 1. Een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), kan, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2024-07-01&g=2024-07-01), worden verleend indien;
 
 - a. de nakoming van alle verplichtingen van de aanvrager die zijn ontstaan door het in de uitoefening van een bedrijf van het publiek opvorderbare gelden aan te trekken, ter beschikking te verkrijgen of ter beschikking te hebben, wordt gegarandeerd door:
 
-- 1°. een onderneming met een positief geconsolideerd eigen vermogen, waarvan de aanvrager dochtermaatschappij is;
+   - 1°. een onderneming met een positief geconsolideerd eigen vermogen, waarvan de aanvrager dochtermaatschappij is;
 
-- 2°. een financiële onderneming die in Nederland het bedrijf van bank mag uitoefenen of een bank met zetel in een door Onze Minister aan te wijzen staat waar toezicht op het uitoefenen van het bedrijf van bank wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen;
+   - 2°. een financiële onderneming die in Nederland het bedrijf van bank mag uitoefenen of een bank met zetel in een door Onze Minister aan te wijzen staat waar toezicht op het uitoefenen van het bedrijf van bank wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen;
 
-- 3°. de Staat der Nederlanden of een openbaar lichaam als bedoeld in [artikel 1, onderdeel a, van de Wet financiering decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1); of
+   - 3°. de Staat der Nederlanden of een openbaar lichaam als bedoeld in [artikel 1, onderdeel a, van de Wet financiering decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1); of
 
-- 4°. een onderneming die behoort tot een door de Nederlandsche Bank aan te wijzen categorie; of
+   - 4°. een onderneming die behoort tot een door de Nederlandsche Bank aan te wijzen categorie; of
 
 - b. de aanvrager een door de Nederlandsche Bank of de Autoriteit Financiële Markten op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) verleende vergunning heeft.
 
@@ -280,15 +264,15 @@ De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoe
 
 De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2024-07-01&g=2024-07-01), in ieder geval in aanmerking:
 
-- a. de in onderdelen 1 en 2 van de bijlage genoemde strafrechtelijke antecedenten;
+- a. de in [onderdelen 1 en 2 van de bijlage](https://wetten.overheid.nl/BWBR0020419) genoemde strafrechtelijke antecedenten;
 
-- b. de in onderdeel 3 van de bijlage genoemde financiële antecedenten;
+- b. de in [onderdeel 3 van de bijlage](https://wetten.overheid.nl/BWBR0020419) genoemde financiële antecedenten;
 
-- c. de in onderdeel 4 van de bijlage genoemde toezichtantecedenten;
+- c. de in [onderdeel 4 van de bijlage](https://wetten.overheid.nl/BWBR0020419) genoemde toezichtantecedenten;
 
-- d. de in onderdeel 5 van de bijlage genoemde fiscaal bestuursrechtelijke antecedenten; en
+- d. de in [onderdeel 5 van de bijlage](https://wetten.overheid.nl/BWBR0020419) genoemde fiscaal bestuursrechtelijke antecedenten; en
 
-- e. de in onderdeel 6 van de bijlage genoemde overige antecedenten.
+- e. de in [onderdeel 6 van de bijlage](https://wetten.overheid.nl/BWBR0020419) genoemde overige antecedenten.
 
 ##### Artikel 31
 
@@ -328,13 +312,13 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 1. De betrouwbaarheid van een persoon als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2024-07-01&g=2024-07-01) staat niet buiten twijfel indien:
 
-- a. deze onherroepelijk veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage, waarbij sinds het onherroepelijk worden van de uitspraak minder dan acht jaren zijn verstreken;
+- a. deze onherroepelijk veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de [bijlage](https://wetten.overheid.nl/BWBR0020419), waarbij sinds het onherroepelijk worden van de uitspraak minder dan acht jaren zijn verstreken;
 
-- b. deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage, waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;
+- b. deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de [bijlage](https://wetten.overheid.nl/BWBR0020419), waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;
 
 - c. deze veroordeeld is terzake van een overtreding van [artikel 69 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69) of [artikel 65 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65), waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of
 
-- d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit als genoemd in onderdeel 5 van de bijlage, en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.
+- d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit als genoemd in onderdeel 5 van de [bijlage](https://wetten.overheid.nl/BWBR0020419), en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.
 
 2. De Nederlandsche bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=33&z=2024-07-01&g=2024-07-01), afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.
 
@@ -450,7 +434,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 - b. een kopie van een geldig identiteitsbewijs;
 
-- c. gegevens met betrekking tot de antecedenten, bedoeld in de bijlage bij dit besluit; en
+- c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0020419) bij dit besluit; en
 
 - d. een opgave van referenten.
 
@@ -460,11 +444,11 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
@@ -473,181 +457,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 41
 
 Dit besluit wordt aangehaald als: Besluit reikwijdtebepalingen Wft.
-
-## Bijlage. behorend bij [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2013-01-01&g=2013-01-01)
-
-### 1. Strafrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2013-01-01&g=2013-01-01)
-
-### 1.1. Veroordelingen
-
-Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
-
-### 1.1. Veroordelingen
-
-### 2.1. Veroordelingen
-
-Bij rechterlijke uitspraak is betrokkene in Nederland of in het buitenland veroordeeld terzake van poging tot, voorbereiding van, doen plegen van, uitlokken van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
-
-### 2.1. Veroordelingen
-
-### **Algemene wet inzake de rijksbelastingen (AWR):**
-
-– overtreding fiscale wetgeving ([artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=68) en[69](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69)).
-
-### **Algemene wet inzake de rijksbelastingen (AWR):**
-
-### **Wet op de economische delicten (WED):**
-
-Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&wetgeving) strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=17), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
-
-### **Wet op de economische delicten (WED):**
-
-### **Wegenverkeerswet 1994:**
-
-### **Wet wapens en munitie:**
-
-– Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
-
-### **Algemene Douanewet**
-
-– Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
-
-### **Buitenlandse strafbepalingen**
-
-– Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
-
-Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
-
-### 2.4. Andere feiten of omstandigheden
-
-Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
-
-### 2.4. Andere feiten of omstandigheden
-
-### 2.4. (Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging
-
-### 2.4. Andere feiten of omstandigheden
-
-### 3.1. Persoonlijk
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voorzover die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 3.1. Persoonlijk
-
-### 3. Financiële antecedenten als bedoeld in [artikel 30, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2024-07-01&g=2024-07-01)
-
-### 3.1. Persoonlijk
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voorzover die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 3.3. Andere feiten of omstandigheden
-
-### 4.1. Toezichtantecedenten
-
-Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
-
-### 4.1. Toezichtantecedenten
-
-Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
-
-### 5.1. Persoonlijk
-
-Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
-
-### 5.1. Persoonlijk
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-### **Wegenverkeerswet 1994:**
-
-### 2.2. Strafbeschikkingen
-
-Tegen betrokkene is een strafbeschikking als bedoeld in [artikel 257a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a), [artikel 76 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) of [artikel 10:15 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:15) uitgevaardigd ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder strafbeschikkingen wordt ook verstaan een daarmee vergelijkbare buitengerechtelijke afdoening ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, opgelegd door een daartoe bevoegde autoriteit.
-
-Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
-
-### 2.5. Andere feiten of omstandigheden
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voorzover die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 3.2. Zakelijk
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voorzover die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 4. Toezichtantecedenten als bedoeld in [artikel 30, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2024-07-01&g=2024-07-01)
-
-Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
-
-### 5.2. Zakelijk
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 26a
-
-1. De Nederlandsche Bank vraagt vooraf advies aan de Autoriteit Financiële Markten indien zij dient te beslissen op:
-
-- a. een aanvraag als bedoeld in de [artikelen 2:3.0d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0d), [2:3.0i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0i), [2:3.0m, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0m) teneinde te beoordelen of wordt voldaan aan hetgeen is bepaald bij of krachtens de [artikelen 3:73b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73b), en [4:76a tot en met 4:76d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:76a)en aan krachtens de [artikelen 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=17b) en [18 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=18) gestelde regels voor zover die regels uitvoering geven aan internationaal aanvaarde standaarden inzake bestuur; of
-
-- b. een aanvraag als bedoeld in de [artikel 37a van het Besluit prudentiële regels Wf](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=37a)t, teneinde te beoordelen of wordt voldaan aan hetgeen is bepaald bij of krachtens de [artikelen 3:73b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73b) en aan de krachtens [artikel 17b Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=17b) gestelde regels voor zover die regels uitvoering geven aan internationaal aanvaarde standaarden inzake bestuur.
-
-2. De Autoriteit Financiële Markten brengt het advies schriftelijk uit binnen zes weken na het verzoek.
-
-3. De Nederlandsche Bank volgt het advies, bedoeld in het eerste lid, tenzij zwaarwegende redenen betreffende de soliditeit van de aanvrager of de stabiliteit van het financiële stelsel naar het oordeel van de Nederlandsche Bank aanleiding tot afwijking geven. Indien de Nederlandsche Bank overweegt af te wijken, stelt zij de Autoriteit Financiële Markten in de gelegenheid om haar advies mondeling toe te lichten. De Nederlandsche Bank motiveert een afwijking schriftelijk.
-
-4. Het advies, bedoeld in het eerste lid, maakt deel uit van het besluit ten aanzien van de vergunning of de instemming.
-
-### Hoofdstuk 3. Ontheffingen
-
-### Hoofdstuk 4. Ondertoezichtstelling financiële instellingen
-
-### Hoofdstuk 5. Slotbepalingen
-
-## Bijlage. behorend bij [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2024-07-01&g=2024-07-01)
-
-### 1. Strafrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2024-07-01&g=2024-07-01)
-
-Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
-
-### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2024-07-01&g=2024-07-01)
-
-Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van poging tot, voorbereiding van, doen plegen van, uitlokken van, mislukte uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
-
-### **Wetboek van Strafrecht:**
-
-– overtreding fiscale wetgeving ([artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=68) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69)).
-
-### **Opiumwet:**
-
-Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=17), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
-
-### **Invorderingswet 1990**
-
-### 2.3. **Transacties**
-
-Betrokkene heeft een transactie als bedoeld in [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteit.
-
-Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 4.2. Andere feiten of omstandigheden
-
-Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
-
-### 5.3. Andere feiten of omstandigheden
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
-
-Andere feiten of omstandigheden die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, zoals blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is (geweest) bij een of meer van de onder 2.1 genoemde strafbare feiten. Onder processen-verbaal of rapporten wordt ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 2.1 genoemde.
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 30, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2024-07-01&g=2024-07-01)
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor DNB van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 6. Overige antecedenten als bedoeld in [artikel 30, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=30&z=2024-07-01&g=2024-07-01)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

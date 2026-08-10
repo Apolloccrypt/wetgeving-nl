@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16 januari 2006, nr. TRCJZ/2006/99, houdende regels met betrekking tot de werkzaamheden van de Raad voor plantenrassen (Regeling werkzaamheden Raad voor plantenrassen)"
+citeertitel: "Regeling werkzaamheden Raad voor plantenrassen"
 identifier: "BWBR0019435"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019435"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "7898123"
-version_id: "18981812"
-internal_id: "C26484541"
-label_id: "7886254"
-dtd_version: "2.0"
-original_entry_into_force: "2011-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019435/2026-01-01/0"
-intitule_bron: "Stcrt.2006-15"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-01-16"
-intitule_published: "2006-01-20"
-intitule_in_force: "2006-01-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-22370"
-original_signed_date: "2011-12-13"
-original_published_date: "2011-12-14"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2011-22370"
-entry_into_force_date: "2011-12-13"
-jci_1_3: "jci1.3:c:BWBR0019435&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0019435&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling werkzaamheden Raad voor plantenrassen"
-signed_date: "2011-12-13"
-entry_into_force: "2011-12-13"
+publicatiedatum: 2011-12-13
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0019435"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16 januari 2006, nr. TRCJZ/2006/99, houdende regels met betrekking tot de werkzaamheden van de Raad voor plantenrassen (Regeling werkzaamheden Raad voor plantenrassen)
-
-Gelet op de [artikelen 6, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=6), [49, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=49) en [72 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=72) en gelet op [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=1), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=8), [9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=9), [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=12), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=17), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=19), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=22), en [23 van het Besluit werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=23);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Zaaizaad- en plantgoedwet 2005 in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -50,23 +22,23 @@ Treedt in werking op het tijdstip waarop de Zaaizaad- en plantgoedwet 2005 in we
 
 - a. besluit: [Besluit werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019209);
 
-- b. [richtlijn (EEG) 66/401](31966L0401): [richtlijn nr. 66/401/EEG](31966L0401) van de Raad van de Europese Gemeenschappen van 14 juni 1966 betreffende het in de handel brengen van zaaizaad van groenvoedergewassen (PbEG L 125);
+- b. richtlijn (EEG) 66/401: richtlijn nr. 66/401/EEG van de Raad van de Europese Gemeenschappen van 14 juni 1966 betreffende het in de handel brengen van zaaizaad van groenvoedergewassen (PbEG L 125);
 
-- c. [richtlijn (EEG) 66/402](31966L0402): [richtlijn nr. 66/402/EEG](31966L0402) van de Raad van de Europese Gemeenschappen van 14 juni 1966 betreffende het in de handel brengen van zaaigranen (PbEG L 125);
+- c. richtlijn (EEG) 66/402: richtlijn nr. 66/402/EEG van de Raad van de Europese Gemeenschappen van 14 juni 1966 betreffende het in de handel brengen van zaaigranen (PbEG L 125);
 
-- d. [richtlijn (EG) 2002/53](32002L0053): [richtlijn nr. 2002/53/EG](32002L0053) van de Raad van de Europese Unie van 13 juni 2002 betreffende de gemeenschappelijke rassenlijst van landbouwgewassen (PbEG L 193);
+- d. richtlijn (EG) 2002/53: richtlijn nr. 2002/53/EG van de Raad van de Europese Unie van 13 juni 2002 betreffende de gemeenschappelijke rassenlijst van landbouwgewassen (PbEG L 193);
 
-- e. [richtlijn (EG) 2002/54](32002L0054): [richtlijn nr. 2002/54/EG](32002L0054) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van bietenzaad (PbEG L 193);
+- e. richtlijn (EG) 2002/54: richtlijn nr. 2002/54/EG van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van bietenzaad (PbEG L 193);
 
-- f. [richtlijn (EG) 2002/55](32002L0055): richtlijn 20002/55/EG van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van groentezaad (PbEG L 193);
+- f. richtlijn (EG) 2002/55: richtlijn 20002/55/EG van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van groentezaad (PbEG L 193);
 
-- g. [richtlijn (EG) 2002/56](32002L0056): [richtlijn 2002/56/EG](32002L0056) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van pootaardappelen (PbEG L 193);
+- g. richtlijn (EG) 2002/56: richtlijn 2002/56/EG van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van pootaardappelen (PbEG L 193);
 
-- h. [richtlijn (EG) 2002/57](32002L0057): [richtlijn nr. 2002/57/EG](32002L0057) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van zaaizaad van oliehoudende planten en vezelgewassen (PbEG L 193);
+- h. richtlijn (EG) 2002/57: richtlijn nr. 2002/57/EG van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van zaaizaad van oliehoudende planten en vezelgewassen (PbEG L 193);
 
-- i. [richtlijn (EG) 2003/90](32003L0090): [richtlijn nr. 2003/90/EG](32003L0090) van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van [Richtlijn 2002/53/EG](32002L0053) van de Raad met betrekking tot de kenmerken waartoe het onderzoek van bepaalde rassen van landbouwgewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek (PbEG L 254);
+- i. richtlijn (EG) 2003/90: richtlijn nr. 2003/90/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlijn 2002/53/EG van de Raad met betrekking tot de kenmerken waartoe het onderzoek van bepaalde rassen van landbouwgewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek (PbEG L 254);
 
-- j. [richtlijn (EG) 2003/91](32003L0091): [richtlijn nr. 2003/91/EG](32003L0091) van de Commissie van 6 oktober 2003, houdende bepalingen ter uitvoering van artikel 7 van [Richtlijn 2002/55/EG](32002L0055) van de Raad wat betreft de kenmerken waartoe het onderzoek van bepaalde rassen van groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek (PbEG L 254);
+- j. richtlijn (EG) 2003/91: richtlijn nr. 2003/91/EG van de Commissie van 6 oktober 2003, houdende bepalingen ter uitvoering van artikel 7 van Richtlijn 2002/55/EG van de Raad wat betreft de kenmerken waartoe het onderzoek van bepaalde rassen van groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek (PbEG L 254);
 
 - k. richtlijn (EG) 2008/90: richtlijn nr. 2008/90/EG van de Raad van de Europese Unie van 29 september 2008, betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEU L 267);
 
@@ -74,25 +46,25 @@ Treedt in werking op het tijdstip waarop de Zaaizaad- en plantgoedwet 2005 in we
 
 - m. richtlijn (EG) 2009/145: richtlijn (EG) nr. 2009/145 van de Commissie van 26 november 2009 tot vaststelling van bepaalde afwijkingen voor de toelating van landrassen en rassen van groenten die van oudsher op bepaalde plaatsen en in bepaalde gebieden worden gekweekt en die door genetische erosie worden bedreigd, en van groenterassen die geen intrinsieke waarde hebben voor de commerciële productie van gewassen maar die ontwikkeld zijn voor de teelt onder bijzondere omstandigheden, en voor het in de handel brengen van zaaizaad van die landrassen en rassen (PbEU L 312);
 
-- n. [richtlijn (EU) 2014/97](32014L0097): uitvoerings[richtlijn nr. 2014/97](32014L0097)/EU van de Commissie van 15 oktober 2014 tot uitvoering van [Richtlijn 2008/90/EG](32008L0090) van de Raad wat betreft de registratie van leveranciers en van rassen en de gemeenschappelijke lijst van rassen (PbEU 2014, L 298);
+- n. richtlijn (EU) 2014/97: uitvoeringsrichtlijn nr. 2014/97/EU van de Commissie van 15 oktober 2014 tot uitvoering van Richtlijn 2008/90/EG van de Raad wat betreft de registratie van leveranciers en van rassen en de gemeenschappelijke lijst van rassen (PbEU 2014, L 298);
 
-- o. basiszaad: zaad als bedoeld in artikel 2, eerste lid, onderdeel c, van [richtlijn (EG) 2002/55](32002L0055), voor zover het groentegewassen betreft, zaad als bedoeld in artikel 2, onderdeel b, van [richtlijn (EG) 66/401](31966L0401) voor zover het groenvoedergewassen betreft, zaad als bedoeld in artikel 2, eerste lid, onderdelen c, c bis, en d, van [richtlijn (EG) 66/402](31966L0402) voor zover het zaaigranen betreft, zaad als bedoeld in artikel 2, eerste lid, onderdeel c, van [richtlijn (EG) 2002/54](32002L0054) voor zover het bieten betreft of zaad als bedoeld in artikel 2, eerste lid, onderdelen c en d, van [richtlijn (EG) 2002/57](32002L0057) voor zover het oliehoudende planten en vezelgewassen betreft;
+- o. basiszaad: zaad als bedoeld in artikel 2, eerste lid, onderdeel c, van richtlijn (EG) 2002/55, voor zover het groentegewassen betreft, zaad als bedoeld in artikel 2, onderdeel b, van richtlijn (EG) 66/401 voor zover het groenvoedergewassen betreft, zaad als bedoeld in artikel 2, eerste lid, onderdelen c, c bis, en d, van richtlijn (EG) 66/402 voor zover het zaaigranen betreft, zaad als bedoeld in artikel 2, eerste lid, onderdeel c, van richtlijn (EG) 2002/54 voor zover het bieten betreft of zaad als bedoeld in artikel 2, eerste lid, onderdelen c en d, van richtlijn (EG) 2002/57 voor zover het oliehoudende planten en vezelgewassen betreft;
 
-- p. basispootgoed: pootgoed als bedoeld in artikel 2, aanhef, onderdeel b, van [richtlijn (EG) 2002/56](32002L0056);
+- p. basispootgoed: pootgoed als bedoeld in artikel 2, aanhef, onderdeel b, van richtlijn (EG) 2002/56;
 
-- q. standaardzaad: zaad als bedoeld in artikel 2, eerste lid, onderdeel e, van [richtlijn (EG) 2002/55](32002L0055);
+- q. standaardzaad: zaad als bedoeld in artikel 2, eerste lid, onderdeel e, van richtlijn (EG) 2002/55;
 
 - r. identiteitsmonster: materiaal dat ten behoeve van het technisch onderzoek, bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), ter beschikking wordt gesteld aan de Raad of aan een instelling als bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=16);
 
 - s. instandhoudingsras: dat door genetische erosie wordt bedreigd;
 
-- 1°. landras van een landbouwgewas;
+   - 1°. landras van een landbouwgewas;
 
-- 2°. ras van een landbouwgewas, dat zich op natuurlijke wijze heeft aangepast aan de lokale en regionale omstandigheden;
+   - 2°. ras van een landbouwgewas, dat zich op natuurlijke wijze heeft aangepast aan de lokale en regionale omstandigheden;
 
-- 3°. landras van een groentegewas, of
+   - 3°. landras van een groentegewas, of
 
-- 4°. ras van een groentegewas, dat van oudsher op bepaalde plaatsen en in bepaalde gebieden wordt gekweekt,
+   - 4°. ras van een groentegewas, dat van oudsher op bepaalde plaatsen en in bepaalde gebieden wordt gekweekt,
 
 - t. landras: een stel populaties of klonen van een plantensoort die zich op natuurlijke wijze hebben aangepast aan de milieuomstandigheden van hun gebied;
 
@@ -106,17 +78,21 @@ Treedt in werking op het tijdstip waarop de Zaaizaad- en plantgoedwet 2005 in we
 
 2. Een hybride ras als bedoeld in [artikel 1, aanhef, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=1) is het product van een bewuste, voor elke zaadproductie herhaalde kruising tussen twee of meer ouderlijnen die hiertoe afzonderlijk in stand gehouden worden.
 
+##### Artikel 1a
+
+Deze regeling is mede gebaseerd op [artikel 14 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14).
+
 ### Hoofdstuk 2. Het rassenregister
 
 ##### Artikel 2
 
 1. Bij inschrijving in het rassenregister kan aantekening worden gedaan van de cultuur- en gebruikswaarde-aspecten die gebleken zijn uit het onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35) voor:
 
-- a. rassen van landbouwgewassen als opgenomen in de richtlijnen, bedoeld in artikel 1, eerste lid, van [richtlijn (EG) 2002/53](32002L0053), of
+- a. rassen van landbouwgewassen als opgenomen in de richtlijnen, bedoeld in artikel 1, eerste lid, van richtlijn (EG) 2002/53, of
 
 - b. rassen van groentegewassen als bedoeld in [artikel 8, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=18).
 
-2. Bij inschrijving in het rassenregister kan bij rassen van bosbouwgewassen, als opgenomen in bijlage I van [richtlijn (EG) 1999/105](31999L0105), aantekening worden gedaan van cultuur- en gebruikswaarde-aspecten die gebleken zijn bij de inspectie, beoordeling of test, bedoeld in [artikel 10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=10).
+2. Bij inschrijving in het rassenregister kan bij rassen van bosbouwgewassen, als opgenomen in bijlage I van richtlijn (EG) 1999/105, aantekening worden gedaan van cultuur- en gebruikswaarde-aspecten die gebleken zijn bij de inspectie, beoordeling of test, bedoeld in [artikel 10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=10).
 
 3. Voor zover rassen worden toegelaten overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=8) en [10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=10) wordt het technisch onderzoek tot vaststelling van de cultuur- en gebruikswaarde-aspecten uitgevoerd op verzoek en op kosten van de aanvrager tot toelating.
 
@@ -124,17 +100,53 @@ Treedt in werking op het tijdstip waarop de Zaaizaad- en plantgoedwet 2005 in we
 
 ##### Artikel 3
 
-De groentegewassen, bedoeld in [artikel 8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=8), zijn de gewassen zoals opgenomen in artikel 2, eerste lid, onderdeel b, van [richtlijn (EG) 2002/55](32002L0055).
+De groentegewassen, bedoeld in [artikel 8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=8), zijn de gewassen zoals opgenomen in artikel 2, eerste lid, onderdeel b, van richtlijn (EG) 2002/55.
+
+##### Artikel 3a
+
+De fruitgewassen, bedoeld in [artikel 8a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=8a), zijn de gewassen zoals opgenomen in bijlage 1 van richtlijn (EG) 2008/90.
+
+##### Artikel 3b
+
+1. Een ras van een fruitgewas als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=3a&z=2026-01-01&g=2026-01-01), wordt toegelaten indien het voldoet aan de eisen genoemd in artikel 4, eerste lid, onderdelen a, b en c, en tweede lid, van richtlijn (EU) 2014/97.
+
+2. Indien de aanvrager bij de aanvraag informatie verstrekt waaruit naar het oordeel van de Raad blijkt dat aan de voorwaarden, bedoeld in het eerste lid, is voldaan wordt geen technisch onderzoek uitgevoerd.
+
+##### Artikel 3c
+
+1. In afwijking van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=3b&z=2026-01-01&g=2026-01-01) wordt een ras van een fruitgewas als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=3a&z=2026-01-01&g=2026-01-01), waarvan teeltmateriaal reeds voor 30 september 2012 in Nederland in de handel is gebracht, toegelaten indien de Raad van oordeel is dat het ras voldoet aan het voor dergelijke rassen in artikel 7, vierde lid, van richtlijn (EG) 2008/90 bepaalde.
+
+2. In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2026-01-01&g=2026-01-01) bedraagt het aanvraagtarief voor de toelating van de rassen, bedoeld in het eerste lid, € 0 en het tarief voor het opstellen van een officieel erkende beschrijving als bedoeld in artikel 7, vierde lid, van richtlijn (EG) 2008/90, € 383.
+
+##### Artikel 3d
+
+1. De Raad draagt zorg voor de bewaring van het dossier waarop een toelating van een ras van een fruitgewas berust.
+
+2. De toelating van een ras van een fruitgewas geldt ten hoogste 30 jaar of, ingeval van een genetisch gemodificeerd ras, voor de periode dat het desbetreffende genetisch gemodificeerde organisme krachtens de richtlijnen (EU) 2001/18 of (EU) 1829/2003 tot de teelt is toegelaten.
+
+3. De toelating van een ras kan op aanvraag bij een door de Raad beschikbaar gesteld middel voor ten hoogste 30 jaar worden verlengd:
+
+- a. indien het materiaal van het desbetreffende ras nog beschikbaar is, en
+
+- b. ingeval van een genetisch gemodificeerd ras, indien en voor de periode dat het desbetreffende genetisch gemodificeerde organisme krachtens de richtlijnen (EU) 2001/18 of (EU) 1829/2003 tot de teelt is toegelaten.
+
+4. De Raad kan de toelating van een ras tevens verlengen indien hij van oordeel is dat zulks bijdraagt aan het behoud van de genetische diversiteit en duurzame productie of een ander algemeen belang dient.
+
+5. De Raad trekt een toelating van een fruitgewas in, ingeval:
+
+- a. naar zijn oordeel niet of niet meer aan de aan de toelating gestelde eisen wordt voldaan, of
+
+- b. bij de aanvraag van de toelating of tijdens het onderzoek ernaar onjuiste of misleidende inlichtingen zijn verstrekt ten aanzien van de feiten op basis waarvan het ras is toegelaten.
 
 ##### Artikel 4
 
-De landbouwgewassen, bedoeld in [artikel 9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=9), zijn de gewassen als opgenomen in de richtlijnen, bedoeld in artikel 1, eerste lid, van [richtlijn (EG) 2002/53](32002L0053).
+De landbouwgewassen, bedoeld in [artikel 9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=9), zijn de gewassen als opgenomen in de richtlijnen, bedoeld in artikel 1, eerste lid, van richtlijn (EG) 2002/53.
 
 ##### Artikel 5
 
-1. De bosbouwgewassen, bedoeld in [artikel 10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=10), zijn de gewassen als opgenomen in bijlage I van [richtlijn (EG) 1999/105](31999L0105).
+1. De bosbouwgewassen, bedoeld in [artikel 10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=10), zijn de gewassen als opgenomen in bijlage I van richtlijn (EG) 1999/105.
 
-2. Als opstand van bekende origine worden uitsluitend autochtone opstanden als bedoeld in artikel 2, onderdeel d, subonderdeel i, van richtlijn (EG) 1999/105 bestaande uit ten minste dertig individuen van het desbetreffende geslacht toegelaten.
+2. Als opstand van bekende origine worden uitsluitend autochtone opstanden als bedoeld in artikel 2, onderdeel d, subonderdeel i, van richtlijn (EG) 1999/105 bestaande uit ten minste dertig individuen van het desbetreffende geslacht toegelaten.
 
 ##### Artikel 6
 
@@ -148,7 +160,7 @@ De landbouwgewassen, bedoeld in [artikel 9, eerste lid, van het besluit](https:/
 
 ##### Artikel 8
 
-1. De toelating van een ras als bedoeld in [richtlijn (EG) 2001/18](32001L0018) kan worden gewijzigd ingeval de voorwaarden verbonden aan de toestemming, bedoeld in [artikel 12, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=12), om dat materiaal in de handel te brengen worden gewijzigd.
+1. De toelating van een ras als bedoeld in richtlijn (EG) 2001/18 kan worden gewijzigd ingeval de voorwaarden verbonden aan de toestemming, bedoeld in [artikel 12, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=12), om dat materiaal in de handel te brengen worden gewijzigd.
 
 2. De toelating van een ras of een opstand wordt ingetrokken ingeval de toestemming om dat materiaal in de handel te brengen wordt ingetrokken.
 
@@ -160,27 +172,35 @@ Voor rassen van groentegewassen waarvan het zaad slechts als standaardzaad kan w
 
 1. Het onderzoek, bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=16), wordt bij rassen van groentegewassen uitgevoerd overeenkomstig de voorschriften bedoeld in:
 
-- a. bijlage I of bijlage II van [richtlijn (EG) 2003/91](32003L0091), voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit van de in die bijlagen opgenomen gewassen waarbij:
+- a. bijlage I of bijlage II van richtlijn (EG) 2003/91, voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit van de in die bijlagen opgenomen gewassen waarbij:
 
-- –. alle raskenmerken zoals opgenomen in de voorschriften, bedoeld in bijlage I, in aanmerking worden genomen, of
+   - – alle raskenmerken zoals opgenomen in de voorschriften, bedoeld in bijlage I, in aanmerking worden genomen, of
 
-- –. de met een asterisk aangeduide raskenmerken zoals opgenomen in de voorschriften, bedoeld in bijlage II, in aanmerking worden genomen, en
+   - – de met een asterisk aangeduide raskenmerken zoals opgenomen in de voorschriften, bedoeld in bijlage II, in aanmerking worden genomen, en
 
-- b. bijlage III van [richtlijn (EG) 2003/91](32003L0091), voor wat betreft de in die bijlage genoemde soorten biologische rassen die geschikt zijn voor biologische teelt.
+- b. bijlage III van richtlijn (EG) 2003/91, voor wat betreft de in die bijlage genoemde soorten biologische rassen die geschikt zijn voor biologische teelt.
 
 2. Het technisch onderzoek, bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=16), wordt bij rassen van groentegewassen die niet zijn opgenomen in de bijlagen, bedoeld in het eerste lid, voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit uitgevoerd overeenkomstig de voor de desbetreffende gewassen opgestelde protocollen, bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=18).
+
+##### Artikel 10a
+
+Het onderzoek, bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=16), wordt bij rassen van fruitgewassen uitgevoerd overeenkomstig:
+
+- a. artikel 6, tweede en vierde lid, van richtlijn (EU) 2014/97, en
+
+- b. de voor het desbetreffende gewas opgestelde protocollen, bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=18).
 
 ##### Artikel 11
 
 1. Het technisch onderzoek, bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=16), wordt bij rassen van landbouwgewassen uitgevoerd overeenkomstig:
 
-- a. de voorschriften, bedoeld in bijlage I of bijlage II van [richtlijn (EG) 2003/90](32003L0090) voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit van de in die bijlagen opgenomen gewassen, waarbij:
+- a. de voorschriften, bedoeld in bijlage I of bijlage II van richtlijn (EG) 2003/90 voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit van de in die bijlagen opgenomen gewassen, waarbij:
 
-- –. alle in de voorschriften, bedoeld in bijlage I, opgenomen raskenmerken in aanmerking worden genomen, of
+   - – alle in de voorschriften, bedoeld in bijlage I, opgenomen raskenmerken in aanmerking worden genomen, of
 
-- –. de in de voorschriften, bedoeld in bijlage II, met een asterisk aangeduide raskenmerken in aanmerking worden genomen, of de voorschriften, bedoeld in bijlagen IV en V van [richtlijn (EG) 2003/90](32003L0090) voor wat betreft de vaststelling van onderscheidbaarheid, homogeniteit, bestendigheid en de cultuur- en gebruikswaarde van de in die bijlagen opgenomen gewassen geschikt voor biologische teelt, en
+   - – de in de voorschriften, bedoeld in bijlage II, met een asterisk aangeduide raskenmerken in aanmerking worden genomen, of de voorschriften, bedoeld in bijlagen IV en V van richtlijn (EG) 2003/90 voor wat betreft de vaststelling van onderscheidbaarheid, homogeniteit, bestendigheid en de cultuur- en gebruikswaarde van de in die bijlagen opgenomen gewassen geschikt voor biologische teelt, en
 
-- b. de voorschriften opgenomen in bijlage III van [richtlijn (EG) 2003/90](32003L0090) met betrekking tot de kenmerken aan de hand waarvan de cultuur- en gebruikswaarde wordt onderzocht.
+- b. de voorschriften opgenomen in bijlage III van richtlijn (EG) 2003/90 met betrekking tot de kenmerken aan de hand waarvan de cultuur- en gebruikswaarde wordt onderzocht.
 
 2. Het technisch onderzoek, bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=16), wordt bij rassen van landbouwgewassen die niet zijn opgenomen in de bijlagen, bedoeld in het eerste lid, onderdeel a, voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit uitgevoerd overeenkomstig de voor de desbetreffende gewassen opgestelde protocollen, bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=18).
 
@@ -193,6 +213,84 @@ De Raad kan de beoordeling van een aanvraag tot toelating van een ras of tot ver
 - b. de Raad de instelling, belast met het technisch onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=2&artikel=35&z=2026-01-01&g=2026-01-01), heeft erkend als onderzoeksinstelling voor het desbetreffende gewas, en
 
 - c. de aanvrager aangeeft dat het identiteitsmonster dat zal worden onderzocht, wordt onderzocht of is onderzocht behoort bij de aanvraag in Nederland.
+
+##### Artikel 12a
+
+1. Een instandhoudingsras wordt toegelaten indien de Raad, met inachtneming van de basiskenmerken voor landbouwgewassen, bedoeld in artikel 4, tweede lid, van richtlijn (EG) 2008/62, onderscheidenlijk voor groentegewassen, bedoeld in artikel 4, tweede lid, van richtlijn (EG) 2009/145, betreffende onderscheidbaarheid, bestendigheid en homogeniteit, van oordeel is dat:
+
+- a. het betrokken ras, blijkens onderzoek of kennis, verkregen door praktische ervaring tijdens teelt, vermeerdering en gebruik:
+
+   - 1°. voldoende duidelijk te onderscheiden is van elk ander instandhoudingsras uit het gebied van oorsprong,
+
+   - 2°. voldoende homogeen is, en
+
+   - 3°. voldoende bestendig is;
+
+- b. het betrokken ras blijkens de aan de Raad ter beschikking staande informatie van belang is voor de instandhouding van plantaardige genetische bronnen;
+
+- c. het betrokken ras in stand wordt gehouden in zijn gebied van oorsprong, en
+
+- d. de beschrijving en benaming van het betrokken ras wat landbouwgewassen betreft voldoet aan de eisen van richtlijn (EG) 2008/62 en wat groentegewassen betreft aan de eisen van richtlijn (EG) 2009/145.
+
+2. Indien de homogeniteit wordt vastgesteld op basis van afwijkende typen, wordt een populatienorm van 10% en een toelatingskans van ten minste 90% toegepast.
+
+3. Een ras is voldoende bestendig indien gebleken is dat de kenmerkende eigenschappen onveranderd blijven na achtereenvolgende vermeerdering.
+
+4. De Raad kan protocollen vaststellen met betrekking tot de eisen aan de documentatie behorende bij een aanvraag tot toelating als instandhoudingsras, om de Raad in staat te stellen de aanvraag te toetsen aan de eisen, bedoeld in het eerste, tweede en derde lid.
+
+5. Bij een toelating als bedoeld in het eerste lid vermeldt de Raad in het rassenregister Nederland als gebied van oorsprong
+
+##### Artikel 12b
+
+Een instandhoudingsras wordt niet toegelaten indien:
+
+- a. het ras reeds in de gemeenschappelijke rassenlijst, bedoeld in artikel 1 van richtlijn (EG) 2002/53 of in de gemeenschappelijke rassenlijst, bedoeld in artikel 3, derde lid, van richtlijn (EG) 2002/55, is opgenomen als ander ras dan instandhoudingsras;
+
+- b. het ras van de gemeenschappelijke rassenlijst is afgevoerd binnen de laatste twee jaar;
+
+- c. de overeenkomstig artikel 15, tweede lid, van richtlijn (EG) 2002/53, onderscheidenlijk artikel 15, tweede lid, van richtlijn (EG) 2002/55, geldende termijn minder dan twee jaar geleden is verstreken, of.
+
+- d. het ras wordt beschermd door communautair kwekersrecht als bedoeld in verordening nr. 2100/94/EG van de Raad van 27 juli 1994 inzake het communautaire kwekersrecht (PbEG L 227) of door nationaal kwekersrecht of hiertoe een aanvraag aanhangig is.
+
+##### Artikel 12c
+
+1. Een voor teelt onder bijzondere omstandigheden ontwikkeld ras van een groentegewas wordt toegelaten indien de Raad met inachtneming van de basiskenmerken, bedoeld in artikel 22, tweede lid, van richtlijn (EG) 2009/145 betreffende onderscheidbaarheid, bestendigheid en homogeniteit, van oordeel is dat:
+
+- a. het betrokken ras, blijkens onderzoek of kennis, verkregen door praktische ervaring tijdens teelt, vermeerdering en gebruik:
+
+   - 1°. voldoende duidelijk te onderscheiden is van elk ander voor teelt onder bijzondere omstandigheden ontwikkeld ras;
+
+   - 2°. voldoende homogeen is, en
+
+   - 3°. voldoende bestendig is;
+
+- b. het betrokken ras blijkens de aan de Raad ter beschikking staande informatie geen intrinsieke waarde heeft voor de commerciële productie van gewassen, maar ontwikkeld is voor teelt onder bijzondere landbouwtechnische, klimatologische of bodemkundige omstandigheden;
+
+- c. de beschrijving en benaming van het betrokken ras voldoet aan de eisen van richtlijn (EG) 2009/145.
+
+2. Indien de homogeniteit wordt vastgesteld op basis van afwijkende typen, wordt een populatienorm van 10% en een toelatingskans van ten minste 90% toegepast.
+
+3. Een ras is voldoende bestendig indien gebleken is dat de kenmerkende eigenschappen onveranderd blijven na achtereenvolgende vermeerdering.
+
+4. De Raad kan protocollen vaststellen met betrekking tot de eisen aan de documentatie behorende bij een aanvraag tot toelating als voor teelt onder bijzondere omstandigheden ontwikkeld ras, om de Raad in staat te stellen de aanvraag te toetsen aan de eisen, bedoeld in het eerste, tweede en derde lid.
+
+##### Artikel 12d
+
+Een voor teelt onder bijzondere omstandigheden ontwikkeld ras wordt niet toegelaten indien:
+
+- a. het ras reeds in de gemeenschappelijke rassenlijst, bedoeld in artikel 3, derde lid, van richtlijn (EG) 2002/55 is opgenomen als ander ras dan voor teelt onder bijzondere omstandigheden ontwikkeld ras;
+
+- b. het ras van de gemeenschappelijke rassenlijst in afgevoerd binnen de laatste twee jaar;
+
+- c. de overeenkomstig artikel 15, tweede lid, van richtlijn (EG) 2002/55, geldende termijn minder dan twee jaar geleden is verstreken, of
+
+- d. het ras wordt beschermd door communautair kwekersrecht als bedoeld in verordening nr. 2100/94/EG van de Raad van de Europese Unie van 27 juli 1994 inzake het communautaire kwekersrecht (PbEG L 227) of door nationaal kwekersrecht of hiertoe een aanvraag aanhangig is.
+
+##### Artikel 12e
+
+1. Bij de vaststelling van de benaming van instandhoudingsrassen en voor teelt onder bijzondere omstandigheden ontwikkelde rassen die voor 25 mei 2000 bekend waren, kan worden afgeweken van verordening nr. 637/2009/EG van de Commissie van 22 juli 2009 tot vaststelling van uitvoeringsbepalingen betreffende de geschiktheid van rasbenamingen voor landbouw- en groentegewassen (PbEU L 191).
+
+2. De Raad kan meer dan één naam voor een instandhoudingsras toelaten indien de desbetreffende namen voor dat ras van oudsher bekend zijn.
 
 ### Hoofdstuk 4. Kwekersrecht
 
@@ -226,7 +324,7 @@ Voor de volgende rassen bedraagt de duur van het kwekersrecht 30 jaar:
 
 - b. De rassen van bolgewassen als bedoeld in [bijlage II van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II), alsmede freesia en nerine.
 
-### Hoofdstuk 4. Kwekersrecht
+### Hoofdstuk 5. Aanvragen en verzoeken bij de Raad voor plantenrassen
 
 ##### Artikel 15
 
@@ -254,7 +352,7 @@ Voor de volgende rassen bedraagt de duur van het kwekersrecht 30 jaar:
 
 3. De Raad kan de termijn, bedoeld in het tweede lid, verlengen en de verzoeker en de houder van het kwekersrecht in de gelegenheid stellen schriftelijk nadere toelichting te geven.
 
-### Hoofdstuk 5. Aanvragen en verzoeken bij de Raad voor plantenrassen
+### Hoofdstuk 6. Tarieven
 
 #### § 1. Tarieven voor werkzaamheden Raad voor plantenrassen
 
@@ -262,39 +360,39 @@ Voor de volgende rassen bedraagt de duur van het kwekersrecht 30 jaar:
 
 1. Voor de behandeling van een aanvraag:
 
-- a. tot verlening van kwekersrecht als bedoeld in [artikel 55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=55), is de aanvrager aan de Raad een bedrag verschuldigd van € 608;
+- a. tot verlening van kwekersrecht als bedoeld in [artikel 55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=55), is de aanvrager aan de Raad een bedrag verschuldigd van € 608;
 
-- b. tot toelating van een ras als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=36) of [85 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=85), is de aanvrager aan de Raad een bedrag verschuldigd van € 608 voor een ras van een tuinbouwgewas of fruitgewas en € 812 voor een ras van een landbouwgewas;
+- b. tot toelating van een ras als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=36) of [85 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=85), is de aanvrager aan de Raad een bedrag verschuldigd van € 608 voor een ras van een tuinbouwgewas of fruitgewas en € 812 voor een ras van een landbouwgewas;
 
-- c. tot zowel de verlening van kwekersrecht voor een ras als bedoeld onder a als de toelating van datzelfde ras als bedoeld onder b, mits de aanvragen gelijktijdig zijn ingediend, is de aanvrager aan de Raad een bedrag verschuldigd van € 608 voor een ras van een tuinbouwgewas of fruitgewas en € 812 voor een ras van een landbouwgewas.
+- c. tot zowel de verlening van kwekersrecht voor een ras als bedoeld onder a als de toelating van datzelfde ras als bedoeld onder b, mits de aanvragen gelijktijdig zijn ingediend, is de aanvrager aan de Raad een bedrag verschuldigd van € 608 voor een ras van een tuinbouwgewas of fruitgewas en € 812 voor een ras van een landbouwgewas.
 
-2. Indien een aanvraag tot kwekersrechtverlening en toelating van eenzelfde ras van een tuinbouwgewas of fruitgewas in dezelfde teeltperiode plaatsvindt en niet gelijktijdig zijn ingediend, is de aanvrager voor de laatst ingediende aanvraag aan de Raad een bedrag verschuldigd van € 84.
+2. Indien een aanvraag tot kwekersrechtverlening en toelating van eenzelfde ras van een tuinbouwgewas of fruitgewas in dezelfde teeltperiode plaatsvindt en niet gelijktijdig zijn ingediend, is de aanvrager voor de laatst ingediende aanvraag aan de Raad een bedrag verschuldigd van € 84.
 
-3. Indien een aanvraag tot kwekersrechtverlening en toelating van eenzelfde ras van een landbouwgewas in dezelfde teeltperiode plaatsvindt en niet gelijktijdig zijn ingediend, is de aanvrager voor de laatst ingediende aanvraag aan de Raad een bedrag verschuldigd van € 227.
+3. Indien een aanvraag tot kwekersrechtverlening en toelating van eenzelfde ras van een landbouwgewas in dezelfde teeltperiode plaatsvindt en niet gelijktijdig zijn ingediend, is de aanvrager voor de laatst ingediende aanvraag aan de Raad een bedrag verschuldigd van € 227.
 
 4. Het eerste lid is niet van toepassing op een aanvraag die onmiddellijk volgt op en in de plaats komt van de eerste aanvraag voor het desbetreffende ras, indien deze laatste aanvraag voor het desbetreffende ras wegens gebreken bij de inzending van het identiteitsmonster geacht wordt te zijn ingetrokken of is afgewezen.
 
-5. In afwijking van het eerste lid is de aanvrager voor de behandeling van een aanvraag tot toelating van een instandhoudingsras aan de Raad een bedrag verschuldigd van € 135.
+5. In afwijking van het eerste lid is de aanvrager voor de behandeling van een aanvraag tot toelating van een instandhoudingsras aan de Raad een bedrag verschuldigd van € 135.
 
 6. De bedragen, bedoeld in het eerste en tweede lid, worden bij vooruitbetaling aan de Raad voldaan.
 
-7. Voor de behandeling van op papier ingediende aanvragen voor toelating en kwekersrecht is, naast het tarief bedoeld in het eerste lid, een bedrag van € 72 verschuldigd.
+7. Voor de behandeling van op papier ingediende aanvragen voor toelating en kwekersrecht is, naast het tarief bedoeld in het eerste lid, een bedrag van € 72 verschuldigd.
 
 8. In afwijking van de tarieven in het eerste lid is voor de behandeling van volledig elektronisch ingediende aanvragen als bedoeld in het eerste lid voor:
 
-- a. een ras van een tuinbouwgewas of fruitgewas een bedrag van € 354 verschuldigd;
+- a. een ras van een tuinbouwgewas of fruitgewas een bedrag van € 354 verschuldigd;
 
-- b. een ras van een landbouwgewas als bedoeld in het eerste lid, onderdelen b en c, een bedrag van € 354 verschuldigd.
+- b. een ras van een landbouwgewas als bedoeld in het eerste lid, onderdelen b en c, een bedrag van € 354 verschuldigd.
 
-9. Ingeval van verlenging van de toelating van een ras als bedoeld in artikel 14, tweede lid, van het besluit, is de instandhouder aan de Raad een bedrag verschuldigd van € 293.
+9. Ingeval van verlenging van de toelating van een ras als bedoeld in artikel 14, tweede lid, van het besluit, is de instandhouder aan de Raad een bedrag verschuldigd van € 293.
 
-10. In afwijking van het negende lid bedraagt het tarief voor de verlenging van de toelating van een instandhoudingsras of van een voor teelt onder bijzondere omstandigheden ontwikkeld ras € 135.
+10. In afwijking van het negende lid bedraagt het tarief voor de verlenging van de toelating van een instandhoudingsras of van een voor teelt onder bijzondere omstandigheden ontwikkeld ras € 135.
 
 ##### Artikel 18
 
-1. Een houder van een kwekersrecht en een in het rassenregister ingeschreven instandhouder van een ras is voor ieder jaar of gedeelte daarvan aan de Raad een bedrag verschuldigd van € 0.
+1. Een houder van een kwekersrecht en een in het rassenregister ingeschreven instandhouder van een ras is voor ieder jaar of gedeelte daarvan aan de Raad een bedrag verschuldigd van € 0.
 
-2. De houder van een kwekersrecht die tevens als instandhouder is ingeschreven in het Rassenregister is voor ieder jaar of gedeelte daarvan aan de Raad een bedrag verschuldigd van € 0.
+2. De houder van een kwekersrecht die tevens als instandhouder is ingeschreven in het Rassenregister is voor ieder jaar of gedeelte daarvan aan de Raad een bedrag verschuldigd van € 0.
 
 3. De vergoedingen, bedoeld in het eerste en tweede lid, zijn bij vooruitbetaling verschuldigd vanaf de eerste dag van de maand volgend op die waarin het kwekersrecht of de instandhouding in het rassenregister is ingeschreven.
 
@@ -307,6 +405,10 @@ Voor de volgende rassen bedraagt de duur van het kwekersrecht 30 jaar:
 1. Indien binnen veertien dagen na de dag, bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2026-01-01&g=2026-01-01), niet is betaald, wordt de betrokken instandhouder door de Raad bij aangetekende brief aan zijn betalingsverplichting herinnerd.
 
 2. De inschrijving van een instandhouder in het rassenregister wordt van rechtswege doorgehaald, zodra zes maanden zijn verstreken sinds de vergoeding, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2026-01-01&g=2026-01-01), verschuldigd is geworden zonder dat deze betaald is.
+
+##### Artikel 20a
+
+In geval de Raad inlichtingen bij een instelling in het buitenland inwint voor werkzaamheden in het kader van artikel 15, vierde lid, van het besluit, is de instandhouder, een bedrag van € 183 verschuldigd.
 
 ##### Artikel 21
 
@@ -330,6 +432,10 @@ Voor de volgende rassen bedraagt de duur van het kwekersrecht 30 jaar:
 
 3. Ingeval het niet mogelijk is het voornemen, bedoeld in het eerste lid, te realiseren, is, onder verrekening van het bedrag, bedoeld in het eerste lid, [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2026-01-01&g=2026-01-01) van toepassing met dien verstande dat het bedrag verschuldigd voor de eerste teeltperiode binnen een door de Raad gestelde termijn moet worden voldaan.
 
+##### Artikel 22a
+
+*Vervallen*
+
 ##### Artikel 23
 
 Ingeval de Raad op verzoek van de aanvrager en op grond van na de aanvang van het onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), van de aanvrager ontvangen gegevens tot een verdergaand onderzoek besluit, kunnen in afwijking van de bedragen, bedoeld in [artikel 21 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2026-01-01&g=2026-01-01), en [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2026-01-01&g=2026-01-01), de werkelijke kosten van dat onderzoek in rekening worden gebracht.
@@ -350,21 +456,21 @@ Ingeval de Raad op verzoek van de aanvrager en op grond van na de aanvang van he
 
 ##### Artikel 26
 
-1. Voor de behandeling van een verzoek om advies als bedoeld in [artikel 58, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=58), is een bedrag verschuldigd van € 84.
+1. Voor de behandeling van een verzoek om advies als bedoeld in [artikel 58, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=58), is een bedrag verschuldigd van € 84.
 
 2. Onverminderd het eerste lid is degene op wiens verzoek het advies, bedoeld in het eerste lid, wordt gegeven binnen een door de Raad gestelde termijn een bedrag verschuldigd dat overeenkomt met de kosten van het onderzoek dat ten behoeve van dat advies is uitgevoerd.
 
 ##### Artikel 27
 
-Voor de behandeling van een verzoek strekkende tot aanvulling van de beschrijving als bedoeld in [artikel 31, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=31) is een bedrag verschuldigd van € 84.
+Voor de behandeling van een verzoek strekkende tot aanvulling van de beschrijving als bedoeld in [artikel 31, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=31) is een bedrag verschuldigd van € 84.
 
 ##### Artikel 28
 
-Voor de inschrijving van een verzoek tot verlening van een licentie door de Raad als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=62) is een bedrag verschuldigd van € 31.
+Voor de inschrijving van een verzoek tot verlening van een licentie door de Raad als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=62) is een bedrag verschuldigd van € 31.
 
 ##### Artikel 29
 
-Voor de inschrijving van een akte van overdracht als bedoeld in [artikel 65, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=65) alsmede van overgang van het recht door vererving is met betrekking tot een ras een bedrag verschuldigd van € 31.
+Voor de inschrijving van een akte van overdracht als bedoeld in [artikel 65, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=65) alsmede van overgang van het recht door vererving is met betrekking tot een ras een bedrag verschuldigd van € 31.
 
 ##### Artikel 30
 
@@ -378,21 +484,25 @@ Voor de inschrijving van een akte van overdracht als bedoeld in [artikel 65, vie
 
 - d. de titel waaruit de toewijzing van de verkoop van een in beslag genomen kwekersrecht blijkt, of
 
-- e. andere stukken, waarvan de belanghebbende inschrijving heeft verzocht, is per ras een bedrag verschuldigd van € 31 voor zover hiervoor geen bijzonder tarief verschuldigd is.
+- e. andere stukken, waarvan de belanghebbende inschrijving heeft verzocht, is per ras een bedrag verschuldigd van € 31 voor zover hiervoor geen bijzonder tarief verschuldigd is.
 
-2. Voor het vaststellen van de voorlopige karakteriserende beschrijving van een ras en het inschrijven op grond van [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=25), in samenhang met [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=31), is een bedrag verschuldigd van € 114.
+2. Voor het vaststellen van de voorlopige karakteriserende beschrijving van een ras en het inschrijven op grond van [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=25), in samenhang met [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=31), is een bedrag verschuldigd van € 114.
 
 ##### Artikel 31
 
-Indien op verzoek van de aanvrager, de houder van het kwekersrecht, een instandhouder of hun rechtsopvolgers een wijziging, verbetering of aanvulling van de in het register ingeschreven gegevens noodzakelijk is, is, voor zover voor die wijziging, verbetering of aanvulling geen bijzonder tarief is gegeven, een bedrag van € 13 verschuldigd per ingeschreven ras.
+Indien op verzoek van de aanvrager, de houder van het kwekersrecht, een instandhouder of hun rechtsopvolgers een wijziging, verbetering of aanvulling van de in het register ingeschreven gegevens noodzakelijk is, is, voor zover voor die wijziging, verbetering of aanvulling geen bijzonder tarief is gegeven, een bedrag van € 13 verschuldigd per ingeschreven ras.
 
 ##### Artikel 32
 
-1. Voor de verstrekking van een gewaarmerkt afschrift of gewaarmerkt uittreksel uit het register van aanvragen of het register van inschrijving is een bedrag verschuldigd van € 30.
+1. Voor de verstrekking van een gewaarmerkt afschrift of gewaarmerkt uittreksel uit het register van aanvragen of het register van inschrijving is een bedrag verschuldigd van € 30.
 
 2. De Raad kan afschriften of uittreksels kosteloos verstrekken aan commissies of instellingen, die betrokken zijn bij de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040), alsmede aan de met verlening van kwekersrecht of rassentoelating belaste autoriteiten in Unie-staten.
 
-3. Voor een verzoek aan de Raad om legalisatie van documenten is een bedrag verschuldigd van € 30 vermeerderd met de kosten die door een bij de specifieke legalisatie betrokken derde partij zijn berekend.
+3. Voor een verzoek aan de Raad om legalisatie van documenten is een bedrag verschuldigd van € 30 vermeerderd met de kosten die door een bij de specifieke legalisatie betrokken derde partij zijn berekend.
+
+##### Artikel 32a
+
+De bedragen, genoemd in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2026-01-01&g=2026-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2026-01-01&g=2026-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2026-01-01&g=2026-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=26&z=2026-01-01&g=2026-01-01) en [27 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=27&z=2026-01-01&g=2026-01-01), worden vermeerderd met het van toepassing zijnde BTW-percentage indien het bureau als bedoeld in [artikel 3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=3) gehouden is dit te heffen.
 
 ##### Artikel 33
 
@@ -456,7 +566,7 @@ De schuldenaar is in verzuim indien hij niet binnen de voorgeschreven termijn he
 
 ##### Artikel 41
 
-1. De Raad kan voor de aanmaning een vergoeding in rekening brengen. De vergoeding bedraagt € 7 indien de schuld minder dan € 500 bedraagt en € 15 indien de schuld € 500 of meer bedraagt.
+1. De Raad kan voor de aanmaning een vergoeding in rekening brengen. De vergoeding bedraagt € 7 indien de schuld minder dan € 500 bedraagt en € 15 indien de schuld € 500 of meer bedraagt.
 
 2. De aanmaning vermeldt de vergoeding die in rekening wordt gebracht.
 
@@ -480,7 +590,27 @@ De schuldenaar is in verzuim indien hij niet binnen de voorgeschreven termijn he
 
 - b. de ingangsdatum van de wettelijke rente.
 
+### Hoofdstuk 6a. Vacatiegelden en reis- en verblijfkostenvergoeding
+
+##### Artikel 42a
+
+1. Aan de voorzitter van de Raad wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld overeenkomstig het maximum van schaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn met toepassing van een arbeidsduurfactor van 0,166.
+
+2. De overige leden van de Raad ontvangen voor een vergadering van de Raad een vergoeding van € 383. Twee of meer vergaderingen op dezelfde dag worden beschouwd als 1 vergadering
+
+##### Artikel 42b
+
+De reis- en verblijfkosten van de leden van de Raad worden per zittingsdag vergoed op basis van hetgeen in verband met dienstreizen binnen Nederland daarover overeenkomstig is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
+
 ### Hoofdstuk 7. Overige bepalingen
+
+##### Artikel 42c
+
+Indien een Europese richtlijn tot wijziging van een bijlage, genoemd in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), of [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01), daartoe de mogelijkheid biedt, worden onderzoeken die zijn begonnen overeenkomstig de bijlage zoals die gold voor de wijziging van toepassing werd, voortgezet overeenkomstig die eerdere versie van de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&bijlage=1&z=2026-01-01&g=2026-01-01).
+
+##### Artikel 42d
+
+Een wijziging van de richtlijnen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=1&artikel=1&z=2026-01-01&g=2026-01-01), gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 43
 
@@ -507,513 +637,3 @@ Deze regeling treedt in werking op het bij koninklijk besluit te bepalen tijdsti
 ##### Artikel 45
 
 Deze regeling wordt aangehaald als: Regeling werkzaamheden Raad voor plantenrassen.
-
-## Bijlage 1. Bedragen als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2007-06-22&g=2007-06-22)
-
-| Nr. | Gewasgroep | Bedrag |
-| --- | --- | --- |
-| **Landbouwgewassen** | **Landbouwgewassen** | **Landbouwgewassen** |
-| 1 | Zaadgewassen | € 1250 |
-| 2 | Vegetatief vermeerderde gewassen | € 1820 |
-| 3 | Oliehoudende gewassen | € 1410 |
-| 4A | Grassen (engelsraaigras, veldbeemgras) | €1200 |
-| 4B | Grassen (overige) | € 1500 |
-| 5 | Bieten | € 1350 |
-| 6 | Vezelgewassen | € 1200 |
-| 7 | Gewassen met bijzonder onderzoeksprogramma | € 1410 |
-| 8 | Andere landbouwgewassen | € 1410 |
-| **Siergewassen** | **Siergewassen** | **Siergewassen** |
-| 9 | Gewassen met levende referentiecollectie, onderzoek onder glas, lange teelt | € 1820 |
-| 9A | Gewassen met levende referentiecollectie, onderzoek onder glas, lange teelt, bijzondere fytosanitaire maatregelen | € 2330 |
-| 10 | Gewassen met levende referentiecollectie, onderzoek onder glas, korte teelt | € 1710 |
-| 11 | Gewassen met levende referentiecollectie, veldonderzoek, lange teelt | € 1510 |
-| 12 | Gewassen met levende referentiecollectie, veldonderzoek, korte teelt | € 1350 |
-| 13 | Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange teelt | € 1510 |
-| 13A | Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange teelt met verdere vermeerdering | € 2330 |
-| 14 | Gewassen zonder levende referentiecollectie, onderzoek onder glas, korte teelt | € 1200 |
-| 15 | Gewassen zonder levende referentiecollectie, veldonderzoek, lange teelt | € 1300 |
-| 16 | Gewassen zonder levende referentiecollectie, veldonderzoek, korte teelt | € 1410 |
-| 17 | Nieuwe gewassen, onderzoek onder glas | € 1300 |
-| 18 | Nieuwe gewassen, veldonderzoek | € 1300 |
-| 19 | Zaadgewassen, anders dan bedoeld onder 9 t/m 18 | € 1920 |
-| **Groentegewassen** | **Groentegewassen** | **Groentegewassen** |
-| 20 | Zaadgewassen, veldonderzoek | € 1510 |
-| 20A | Zaadgewassen, tweede en volgende teeltperiode | € 755 |
-| 21 | Zaadgewassen, onderzoek onder glas | € 1920 |
-| 21A | Zaadgewassen, onderzoek onder glas, tweede en volgende teeltperiode | € 960 |
-| 22 | Vegetatieve gewassen, veldonderzoek | € 2120 |
-| 22A | Vegetatieve gewassen, veldonderzoek, tweede en volgende teeltperiode | € 1060 |
-| 23 | Vegetatieve gewassen, onderzoek onder glas | € 1710 |
-| 23A | Vegetatieve gewassen, onderzoek onder glas, tweede en volgende teeltperiode | € 855 |
-| **Fruitgewassen** | **Fruitgewassen** | **Fruitgewassen** |
-| 24 | Fruitgewassen | € 1920 |
-| 24A | Fruitgewassen met grote permanente referentiecollectie | € 2740 |
-| 25 | Struiken | € 1300 |
-
-Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
-
-##### Artikel 32a
-
-De bedragen, genoemd in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2026-01-01&g=2026-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2026-01-01&g=2026-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2026-01-01&g=2026-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=26&z=2026-01-01&g=2026-01-01) en [27 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=27&z=2026-01-01&g=2026-01-01), worden vermeerderd met het van toepassing zijnde BTW-percentage indien het bureau als bedoeld in [artikel 3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=3) gehouden is dit te heffen.
-
-#### § 2. Oplegging en inning
-
-### Hoofdstuk 7. Overige bepalingen
-
-## Bijlage 1. behorende bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2009-01-01&g=2009-01-01), van de Regeling werkzaamheden Raad voor plantenrassen
-
-| Nr. Gewasgroep | Bedrag |
-| --- | --- |
-| Landbouwgewassen |   |
-| 1. Zaadgewassen | € 1.360,00 |
-| 2. Vegetatief vermeerderende gewassen | € 1.600,00 |
-| 3. Oliehoudende gewassen | € 1.735,00 |
-| 4A Grassen (Engelse raaigras, veldbeemgras) | € 1.600,00 |
-| 4B Grasgewassen (overige) | € 1.600,00 |
-| 5 Bieten | € 1.500,00 |
-| 6. Vezelgewassen | € 2.000,00 |
-| 7. Gewassen met bijzonder onderzoeksprogramma | € 1.580,00 |
-| 8. Andere landbouwgewassen | € 1.735,00 |
-| Siergewassen |   |
-| 9. Gewassen met levende referentiecollectie, onderzoek onder glas, lange teelt | € 2.100,00 |
-| 9A. Gewassen met levende referentiecollectie, onderzoek onder glas, lange teelt, bijzondere fytosanitaire maatregelen | € 2.670,00 |
-| 10. Gewassen met levende referentiecollectie, onderzoek onder glas, korte teelt | € 1.970,00 |
-| 11. Gewassen met levende referentiecollectie, veldonderzoek, lange teelt | € 1.740,00 |
-| 12. Gewassen met levende referentiecollectie, veldonderzoek, korte teelt | € 1.270,00 |
-| 13. Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange teelt | € 1.630,00 |
-| 13A. Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange teelt met verder vermeerdering | € 2.670,00 |
-| 14. Gewassen zonder levende referentiecollectie, onderzoek onder glas, korte teelt | € 1.400,00 |
-| 15. Gewassen zonder levende referentiecollectie, veldonderzoek, lange teelt | € 1.370,00 |
-| 16. Gewassen zonder levende referentiecollectie, veldonderzoek, korte teelt | € 1.370,00 |
-| 17. Nieuwe gewassen, onderzoek onder glas | – |
-| 17A. Zaadgewassen, veldonderzoek | € 1.700,00 |
-| 18 Nieuwe gewassen, veldonderzoek | - |
-| 18A Zaadgewassen, onderzoek onder glas | € 2.350,00 |
-| 19 Zaadgewassen, anders dan bedoeld onder 9 t/m 18A | – |
-| Groentegewassen |   |
-| 20 Zaadgewassen, veldonderzoek | € 1.650,00 |
-| 20A Zaadgewassen, tweede en volgende teeltperiode | € 1.240,00 |
-| 21 Zaadgewassen, onderzoek onder glas | € 2.100,00 |
-| 21A Zaadgewassen, onderzoek onder glas, tweede en volgende teeltperiode | € 1.580,00 |
-| 22 Vegetatieve gewassen, veldonderzoek | € 2.100,00 |
-| 22A Vegetatieve gewassen, veldonderzoek, tweede en volgende teeltperiode | € 1.580,00 |
-| 23 Vegetatieve gewassen, onderzoek onder glas | € 1.890,00 |
-| 23A Vegetatieve gewassen, onderzoek onder glas, tweede en volgende teeltperiode | € 1.420,00 |
-| Fruitgewassen |   |
-| 24 Fruitgewassen | € 2.310,00 |
-| 24A Fruitgewassen met grote permanente referentiecollectie | € 3.235,00 |
-| 25 Struiken | € 2.310,00 |
-
-Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
-
-##### Artikel 12a
-
-1. Een instandhoudingsras wordt toegelaten indien de Raad, met inachtneming van de basiskenmerken voor landbouwgewassen, bedoeld in artikel 4, tweede lid, van richtlijn (EG) 2008/62, onderscheidenlijk voor groentegewassen, bedoeld in artikel 4, tweede lid, van richtlijn (EG) 2009/145, betreffende onderscheidbaarheid, bestendigheid en homogeniteit, van oordeel is dat:
-
-- a. het betrokken ras, blijkens onderzoek of kennis, verkregen door praktische ervaring tijdens teelt, vermeerdering en gebruik:
-
-- 1°. voldoende duidelijk te onderscheiden is van elk ander instandhoudingsras uit het gebied van oorsprong,
-
-- 2°. voldoende homogeen is, en
-
-- 3°. voldoende bestendig is;
-
-- b. het betrokken ras blijkens de aan de Raad ter beschikking staande informatie van belang is voor de instandhouding van plantaardige genetische bronnen;
-
-- c. het betrokken ras in stand wordt gehouden in zijn gebied van oorsprong, en
-
-- d. de beschrijving en benaming van het betrokken ras wat landbouwgewassen betreft voldoet aan de eisen van richtlijn (EG) 2008/62 en wat groentegewassen betreft aan de eisen van richtlijn (EG) 2009/145.
-
-2. Indien de homogeniteit wordt vastgesteld op basis van afwijkende typen, wordt een populatienorm van 10% en een toelatingskans van ten minste 90% toegepast.
-
-3. Een ras is voldoende bestendig indien gebleken is dat de kenmerkende eigenschappen onveranderd blijven na achtereenvolgende vermeerdering.
-
-4. De Raad kan protocollen vaststellen met betrekking tot de eisen aan de documentatie behorende bij een aanvraag tot toelating als instandhoudingsras, om de Raad in staat te stellen de aanvraag te toetsen aan de eisen, bedoeld in het eerste, tweede en derde lid.
-
-5. Bij een toelating als bedoeld in het eerste lid vermeldt de Raad in het rassenregister Nederland als gebied van oorsprong
-
-##### Artikel 12b
-
-Een instandhoudingsras wordt niet toegelaten indien:
-
-- a. het ras reeds in de gemeenschappelijke rassenlijst, bedoeld in artikel 1 van richtlijn (EG) 2002/53 of in de gemeenschappelijke rassenlijst, bedoeld in artikel 3, derde lid, van richtlijn (EG) 2002/55, is opgenomen als ander ras dan instandhoudingsras;
-
-- b. het ras van de gemeenschappelijke rassenlijst is afgevoerd binnen de laatste twee jaar;
-
-- c. de overeenkomstig artikel 15, tweede lid, van richtlijn (EG) 2002/53, onderscheidenlijk artikel 15, tweede lid, van richtlijn (EG) 2002/55, geldende termijn minder dan twee jaar geleden is verstreken, of.
-
-- d. het ras wordt beschermd door communautair kwekersrecht als bedoeld in verordening nr. 2100/94/EG van de Raad van 27 juli 1994 inzake het communautaire kwekersrecht (PbEG L 227) of door nationaal kwekersrecht of hiertoe een aanvraag aanhangig is.
-
-##### Artikel 12c
-
-1. Een voor teelt onder bijzondere omstandigheden ontwikkeld ras van een groentegewas wordt toegelaten indien de Raad met inachtneming van de basiskenmerken, bedoeld in artikel 22, tweede lid, van richtlijn (EG) 2009/145 betreffende onderscheidbaarheid, bestendigheid en homogeniteit, van oordeel is dat:
-
-- a. het betrokken ras, blijkens onderzoek of kennis, verkregen door praktische ervaring tijdens teelt, vermeerdering en gebruik:
-
-- 1°. voldoende duidelijk te onderscheiden is van elk ander voor teelt onder bijzondere omstandigheden ontwikkeld ras;
-
-- 2°. voldoende homogeen is, en
-
-- 3°. voldoende bestendig is;
-
-- b. het betrokken ras blijkens de aan de Raad ter beschikking staande informatie geen intrinsieke waarde heeft voor de commerciële productie van gewassen, maar ontwikkeld is voor teelt onder bijzondere landbouwtechnische, klimatologische of bodemkundige omstandigheden;
-
-- c. de beschrijving en benaming van het betrokken ras voldoet aan de eisen van richtlijn (EG) 2009/145.
-
-2. Indien de homogeniteit wordt vastgesteld op basis van afwijkende typen, wordt een populatienorm van 10% en een toelatingskans van ten minste 90% toegepast.
-
-3. Een ras is voldoende bestendig indien gebleken is dat de kenmerkende eigenschappen onveranderd blijven na achtereenvolgende vermeerdering.
-
-4. De Raad kan protocollen vaststellen met betrekking tot de eisen aan de documentatie behorende bij een aanvraag tot toelating als voor teelt onder bijzondere omstandigheden ontwikkeld ras, om de Raad in staat te stellen de aanvraag te toetsen aan de eisen, bedoeld in het eerste, tweede en derde lid.
-
-### Hoofdstuk 6. Tarieven
-
-#### § 1. Tarieven voor werkzaamheden Raad voor plantenrassen
-
-##### Artikel 22a
-
-Vervallen
-
-#### § 2. Oplegging en inning
-
-### Hoofdstuk 7. Overige bepalingen
-
-## Bijlage 1. behorende bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2010-01-01&g=2010-01-01), van de Regeling werkzaamheden van de Raad voor plantenrassen
-
-| Nr. | Gewasgroep | Bedrag |
-| --- | --- | --- |
-| Landbouwgewassen | Landbouwgewassen | Landbouwgewassen |
-| 1 | Zaadgewassen | € 1360 |
-| 2 | Vegetatief vermeerderde gewassen | € 1600 |
-| 3 | Oliehoudende gewassen | € 1735 |
-| 4A | Grassen (Engels raaigras, veldbeemgras) | € 1600 |
-| 4B | Grasgewassen (overige) | € 1600 |
-| 5 | Bieten | € 1500 |
-| 6 | Vezelgewassen | € 2000 |
-| 7 | Gewassen met bijzonder onderzoeksprogramma | € 1580 |
-| 8 | Andere landbouwgewassen | € 1735 |
-| Siergewassen | Siergewassen | Siergewassen |
-| 9 | Gewassen met levende referentiecollectie, onderzoek onder glas, lange teelt | € 2200 |
-| 9A | Gewassen met levende referentiecollectie, onderzoek onder glas, lange teelt, bijzondere fytosanytaire maatregelen | € 2770 |
-| 10 | Gewassen met levende referentiecollectie, onderzoek onder glas, korte teelt | € 2070 |
-| 11 | Gewassen met levende referentiecollectie, veldonderzoek, lange teelt | € 1840 |
-| 12 | Gewassen met levende referentiecollectie, veldonderzoek, korte teelt | € 1370 |
-| 13 | Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange teelt | € 1730 |
-| 13A | Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange teelt met verdere vermeerdering | € 2770 |
-| 14 | Gewassen zonder levende referentiecollectie, onderzoek onder glas, korte teelt | € 1500 |
-| 15 | Gewassen zonder levende referentiecollectie, veldonderzoek, lange teelt | € 1470 |
-| 16 | Gewassen zonder levende referentiecollectie, veldonderzoek, korte teelt | € 1470 |
-| 17 | Nieuwe gewassen, onderzoek onder glas | – |
-| 17A | Zaadgewassen, veldonderzoek | € 1700 |
-| 18 | Nieuwe gewassen, veldonderzoek | – |
-| 18A | Zaadgewassen, onderzoek onder glas | € 2350 |
-| 19 | Zaadgewassen, anders dan bedoeld onder 9 t/m 18A | – |
-| Groentegewassen | Groentegewassen | Groentegewassen |
-| 20 | Zaadgewassen, veldonderzoek | € 1650 |
-| 21 | Zaadgewassen, onderzoek onder glas | € 2100 |
-| 22 | Vegetatieve gewassen, veldonderzoek | € 2100 |
-| 23 | Vegetatieve gewassen, onderzoek onder glas | € 1890 |
-| Fruitgewassen | Fruitgewassen | Fruitgewassen |
-| 24 | Fruitgewassen | € 2310 |
-| 24A | Fruitgewassen met grote permanente referentiecollectie | € 3235 |
-| 25 | Struiken | € 2310 |
-
-Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
-
-##### Artikel 3a
-
-De fruitgewassen, bedoeld in [artikel 8a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=8a), zijn de gewassen zoals opgenomen in bijlage 1 van richtlijn (EG) 2008/90.
-
-##### Artikel 10a
-
-Het onderzoek, bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=16), wordt bij rassen van fruitgewassen uitgevoerd overeenkomstig:
-
-- a. artikel 6, tweede en vierde lid, van richtlijn (EU) 2014/97, en
-
-- b. de voor het desbetreffende gewas opgestelde protocollen, bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=18).
-
-##### Artikel 12d
-
-Een voor teelt onder bijzondere omstandigheden ontwikkeld ras wordt niet toegelaten indien:
-
-- a. het ras reeds in de gemeenschappelijke rassenlijst, bedoeld in artikel 3, derde lid, van richtlijn (EG) 2002/55 is opgenomen als ander ras dan voor teelt onder bijzondere omstandigheden ontwikkeld ras;
-
-- b. het ras van de gemeenschappelijke rassenlijst in afgevoerd binnen de laatste twee jaar;
-
-- c. de overeenkomstig artikel 15, tweede lid, van richtlijn (EG) 2002/55, geldende termijn minder dan twee jaar geleden is verstreken, of
-
-- d. het ras wordt beschermd door communautair kwekersrecht als bedoeld in verordening nr. 2100/94/EG van de Raad van de Europese Unie van 27 juli 1994 inzake het communautaire kwekersrecht (PbEG L 227) of door nationaal kwekersrecht of hiertoe een aanvraag aanhangig is.
-
-##### Artikel 12e
-
-1. Bij de vaststelling van de benaming van instandhoudingsrassen en voor teelt onder bijzondere omstandigheden ontwikkelde rassen die voor 25 mei 2000 bekend waren, kan worden afgeweken van verordening nr. 637/2009/EG van de Commissie van 22 juli 2009 tot vaststelling van uitvoeringsbepalingen betreffende de geschiktheid van rasbenamingen voor landbouw- en groentegewassen (PbEU L 191).
-
-2. De Raad kan meer dan één naam voor een instandhoudingsras toelaten indien de desbetreffende namen voor dat ras van oudsher bekend zijn.
-
-### Hoofdstuk 4. Kwekersrecht
-
-### Hoofdstuk 4. Kwekersrecht
-
-### Hoofdstuk 5. Aanvragen en verzoeken bij de Raad voor plantenrassen
-
-#### § 1. Tarieven voor werkzaamheden Raad voor plantenrassen
-
-#### § 2. Oplegging en inning
-
-##### Artikel 42a
-
-1. Aan de voorzitter van de Raad wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld overeenkomstig het maximum van schaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn met toepassing van een arbeidsduurfactor van 0,166.
-
-2. De overige leden van de Raad ontvangen voor een vergadering van de Raad een vergoeding van € 383. Twee of meer vergaderingen op dezelfde dag worden beschouwd als 1 vergadering
-
-### Hoofdstuk 6a. Vacatiegelden en reis- en verblijfkostenvergoeding
-
-## Bijlage 1. behorende bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2011-01-01&g=2011-01-01), van de Regeling werkzaamheden Raad voor plantenrassen
-
-| Nr. | Gewasgroep | Bedrag |
-| --- | --- | --- |
-|   | Landbouwgewassen |   |
-| 1 | Zaadgewassen | € 1430 |
-| 2 | Vegetatief vermeerderde gewassen | € 1680 |
-| 3 | Oliehoudende gewassen | € 1820 |
-| 4 | Grasgewassen | € 1800 |
-| 5 | Bieten | € 1580 |
-| 6 | Vezelgewassen | € 2100 |
-| 7 | Gewassen met bijzonder onderzoeksprogramma | € 1660 |
-| 8 | Andere landbouwgewassen | € 1820 |
-|   | Siergewassen |   |
-| 9 | Gewassen met levende referentiecollectie, onderzoek onder glas, lange teelt | € 2310 |
-| 10 | Gewassen met levende referentiecollectie, onderzoek onder glas, korte teelt | € 2200 |
-| 11 | Gewassen met levende referentiecollectie, veldonderzoek, lange teelt | € 1935 |
-| 12 | Gewassen met levende referentiecollectie, veldonderzoek, korte teelt | € 1500 |
-| 13 | Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange teelt | € 1850 |
-| 14 | Gewassen zonder levende referentiecollectie, onderzoek onder glas, korte teelt | € 1650 |
-| 15 | Gewassen zonder levende referentiecollectie, veldonderzoek, lange teelt | € 1600 |
-| 16 | Gewassen zonder levende referentiecollectie, veldonderzoek, korte teelt | € 1600 |
-|   | Groentegewassen |   |
-| 20 | Gewassen, veldonderzoek | € 1740 |
-| 21 | Gewassen, onderzoek onder glas | € 2205 |
-|   | Fruitgewassen |   |
-| 24 | Fruitgewassen | € 2425 |
-| 25 | Struiken | € 2425 |
-
-Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
-
-##### Artikel 1a
-
-Deze regeling is mede gebaseerd op [artikel 14 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14).
-
-### Hoofdstuk 2. Het rassenregister
-
-### Hoofdstuk 3. De toelating van rassen en opstanden
-
-### Hoofdstuk 4. Kwekersrecht
-
-### Hoofdstuk 4. Kwekersrecht
-
-### Hoofdstuk 5. Aanvragen en verzoeken bij de Raad voor plantenrassen
-
-#### § 1. Tarieven voor werkzaamheden Raad voor plantenrassen
-
-#### § 2. Oplegging en inning
-
-##### Artikel 42b
-
-De reis- en verblijfkosten van de leden van de Raad worden per zittingsdag vergoed op basis van hetgeen in verband met dienstreizen binnen Nederland daarover overeenkomstig is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
-
-### Hoofdstuk 6a. Vacatiegelden en reis- en verblijfkostenvergoeding
-
-##### Artikel 42c
-
-Indien een Europese richtlijn tot wijziging van een bijlage, genoemd in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), of [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01), daartoe de mogelijkheid biedt, worden onderzoeken die zijn begonnen overeenkomstig de bijlage zoals die gold voor de wijziging van toepassing werd, voortgezet overeenkomstig die eerdere versie van de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&bijlage=1&z=2026-01-01&g=2026-01-01).
-
-## Bijlage 1. behorende bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2012-01-01&g=2012-01-01), van de Regeling werkzaamheden Raad voor plantenrassen
-
-| Nr. | Gewasgroep | Bedrag |
-| --- | --- | --- |
-|   | **Landbouwgewassen** |   |
-| 1 | Zaadgewassen | € 1460 |
-| 2 | Vegetatief vermeerderde gewassen | € 1715 |
-| 3 | Oliehoudende gewassen | € 1855 |
-| 4 | Grasgewassen | € 1835 |
-| 5 | Bieten | € 1615 |
-| 6 | Vezelgewassen | € 2145 |
-| 7 | Gewassen met bijzonder onderzoeksprogramma | € 1695 |
-| 8 | Andere landbouwgewassen | € 1855 |
-|   | **Siergewassen** |   |
-| 9 | Gewassen met levende referentiecollectie, onderzoek onder glas, lange teelt | € 2355 |
-| 10 | Gewassen met levende referentiecollectie, onderzoek onder glas, korte teelt | € 2245 |
-| 11 | Gewassen met levende referentiecollectie, veldonderzoek, lange teelt | € 1975 |
-| 12 | Gewassen met levende referentiecollectie, veldonderzoek, korte teelt | € 1530 |
-| 13 | Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange teelt | € 1890 |
-| 14 | Gewassen zonder levende referentiecollectie, onderzoek onder glas, korte teelt | € 1685 |
-| 15 | Gewassen zonder levende referentiecollectie, veldonderzoek, lange teelt | € 1635 |
-| 16 | Gewassen zonder levende referentiecollectie, veldonderzoek, korte teelt | € 1635 |
-|   | **Groentegewassen** |   |
-| 20 | Gewassen, veldonderzoek | € 1775 |
-| 21 | Gewassen, onderzoek onder glas | € 2250 |
-|   | **Fruitgewassen** |   |
-| 24 | Fruitgewassen | € 2475 |
-| 25 | Struiken | € 2475 |
-
-Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
-
-##### Artikel 3b
-
-1. Een ras van een fruitgewas als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=3a&z=2026-01-01&g=2026-01-01), wordt toegelaten indien het voldoet aan de eisen genoemd in artikel 4, eerste lid, onderdelen a, b en c, en tweede lid, van richtlijn (EU) 2014/97.
-
-2. Indien de aanvrager bij de aanvraag informatie verstrekt waaruit naar het oordeel van de Raad blijkt dat aan de voorwaarden, bedoeld in het eerste lid, is voldaan wordt geen technisch onderzoek uitgevoerd.
-
-##### Artikel 3c
-
-1. In afwijking van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=3b&z=2026-01-01&g=2026-01-01) wordt een ras van een fruitgewas als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=3&artikel=3a&z=2026-01-01&g=2026-01-01), waarvan teeltmateriaal reeds voor 30 september 2012 in Nederland in de handel is gebracht, toegelaten indien de Raad van oordeel is dat het ras voldoet aan het voor dergelijke rassen in artikel 7, vierde lid, van richtlijn (EG) 2008/90 bepaalde.
-
-2. In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2026-01-01&g=2026-01-01) bedraagt het aanvraagtarief voor de toelating van de rassen, bedoeld in het eerste lid, € 0 en het tarief voor het opstellen van een officieel erkende beschrijving als bedoeld in artikel 7, vierde lid, van [richtlijn (EG) 2008/90](32008L0090), € 383.
-
-### Hoofdstuk 6. Tarieven
-
-#### § 1. Tarieven voor werkzaamheden Raad voor plantenrassen
-
-#### § 2. Oplegging en inning
-
-### Hoofdstuk 6a. Vacatiegelden en reis- en verblijfkostenvergoeding
-
-### Hoofdstuk 7. Overige bepalingen
-
-##### Artikel 42d
-
-Een wijziging van de richtlijnen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=1&artikel=1&z=2026-01-01&g=2026-01-01), gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
-
-## Bijlage 1. , behorende bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2016-01-01&g=2016-01-01), van de Regeling werkzaamheden Raad voor plantenrassen
-
-| Nr. | Gewasgroep | Bedrag |
-| --- | --- | --- |
-|   | **Landbouwgewassen** |   |
-| 1 | Zaadgewassen | € 1.544 |
-| 2 | Vegetatief vermeerderde gewassen | € 1.855 |
-| 3 | Oliehoudende gewassen | € 1.964 |
-| 4 | Grasgewassen | € 2.020 |
-| 5 | Bieten | € 1.485 |
-| 6 | Instandhoudingsrassen van aardappelgewassen | € 416 |
-| 7 | Instandhoudingsrassen van granen | € 261 |
-| 8 | Andere landbouwgewassen | € 1.994 |
-|   | **Siergewassen** |   |
-| 9 | Gewassen met levende referentiecollectie, onderzoek onder glas, lange en korte teelt | € 2.419 |
-| 10 | Gewassen met levende referentiecollectie, veldonderzoek, lange en korte teelt | € 1.979 |
-| 11 | Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange en korte teelt | € 1.972 |
-| 12 | Gewassen zonder levende referentiecollectie, veldonderzoek, lange en korte teelt | € 1.717 |
-|   | **Groentegewassen** |   |
-| 13 | Veldonderzoek | € 1.882 |
-| 14 | Veldonderzoek instandhoudingsrassen | € 217 |
-| 15 | Veldonderzoek heropname versneld | € 158 |
-| 16 | Velonderzoek heropname uitgebreid | € 1.882 |
-| 17 | Onderzoek onder glas | € 2.530 |
-| 18 | Onderzoek onder glas instandhoudingsrassen | € 339 |
-| 19 | Onderzoek onder glas heropname versneld | € 388 |
-| 20 | Onderzoek onder glas heropname uitgebreid | € 2.530 |
-
-Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
-
-##### Artikel 3d
-
-1. De Raad draagt zorg voor de bewaring van het dossier waarop een toelating van een ras van een fruitgewas berust.
-
-2. De toelating van een ras van een fruitgewas geldt ten hoogste 30 jaar of, ingeval van een genetisch gemodificeerd ras, voor de periode dat het desbetreffende genetisch gemodificeerde organisme krachtens de richtlijnen (EU) 2001/18 of (EU) 1829/2003 tot de teelt is toegelaten.
-
-3. De toelating van een ras kan op aanvraag bij een door de Raad beschikbaar gesteld middel voor ten hoogste 30 jaar worden verlengd:
-
-- a. indien het materiaal van het desbetreffende ras nog beschikbaar is, en
-
-- b. ingeval van een genetisch gemodificeerd ras, indien en voor de periode dat het desbetreffende genetisch gemodificeerde organisme krachtens de richtlijnen (EU) 2001/18 of (EU) 1829/2003 tot de teelt is toegelaten.
-
-4. De Raad kan de toelating van een ras tevens verlengen indien hij van oordeel is dat zulks bijdraagt aan het behoud van de genetische diversiteit en duurzame productie of een ander algemeen belang dient.
-
-5. De Raad trekt een toelating van een fruitgewas in, ingeval:
-
-- a. naar zijn oordeel niet of niet meer aan de aan de toelating gestelde eisen wordt voldaan, of
-
-- b. bij de aanvraag van de toelating of tijdens het onderzoek ernaar onjuiste of misleidende inlichtingen zijn verstrekt ten aanzien van de feiten op basis waarvan het ras is toegelaten.
-
-### Hoofdstuk 6. Tarieven
-
-#### § 1. Tarieven voor werkzaamheden Raad voor plantenrassen
-
-#### § 2. Oplegging en inning
-
-### Hoofdstuk 7. Overige bepalingen
-
-## Bijlage 1. behorende bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2018-01-01&g=2018-01-01), van de Regeling werkzaamheden Raad voor plantenrassen
-
-| Nr. | Gewasgroep | Bedrag |
-| --- | --- | --- |
-|   | **Landbouwgewassen, onderzoekstarieven:** |   |
-| 1 | Andere dan de hieronder genoemde zaadgewassen | € 1.582 |
-| 2 | Aardappelen (vegetatief en zaadvermeerderd) | € 1.902 |
-| 3 | Oliehoudende zaden | € 2.014 |
-| 4 | Grasgewassen | € 2.071 |
-| 5 | Bieten | € 1.523 |
-| 6 | Instandhoudingsras van aardappelgewassen | € 426 |
-| 7 | Instandhoudingsras van granen | € 268 |
-| 8 | Overige gewassen: teff, veldboon en landbouwerwt | € 2.044 |
-| 9 | Medicinale gewassen (inclusief analyses) | € 3.530 |
-|   | **Siergewassen, onderzoekstarieven:** |   |
-| 10 | Gewassen met levende referentiecollectie, onderzoek onder glas, lange en korte teelt | C 2.480 |
-| 11 | Gewassen met levende referentiecollectie, veldonderzoek, lange en korte teelt | € 2.029 |
-| 12 | Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange en korte teelt | € 2.022 |
-| 13 | Gewassen zonder levende referentiecollectie, veldonderzoek, lange en korte teelt | € 1.760 |
-|   | **Groentegewassen, onderzoekstarieven:** |   |
-| 14 | Veldonderzoek | € 1.930 |
-| 15 | Veldonderzoek instandhoudingsrassen | € 222 |
-| 16 | Veldonderzoek heropname versneld | € 162 |
-| 17 | Veldonderzoek heropname uitgebreid | € 1.930 |
-| 18 | Onderzoek onder glas | € 2.593 |
-| 19 | Onderzoek onder glas instandhoudingsrassen | € 347 |
-| 20 | Onderzoek onder glas heropname versneld | € 398 |
-| 21 | Onderzoek onder glas heropname uitgebreid | € 2.593 |
-
-Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
-
-##### Artikel 20a
-
-In geval de Raad inlichtingen bij een instelling in het buitenland inwint voor werkzaamheden in het kader van artikel 15, vierde lid, van het besluit, is de instandhouder, een bedrag van € 183 verschuldigd.
-
-#### § 2. Oplegging en inning
-
-### Hoofdstuk 6a. Vacatiegelden en reis- en verblijfkostenvergoeding
-
-### Hoofdstuk 7. Overige bepalingen
-
-## Bijlage 1. behorende bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2026-01-01&g=2026-01-01), van de Regeling werkzaamheden Raad voor plantenrassen
-
-| Nr. | Gewasgroep | Bedrag |
-| --- | --- | --- |
-|   | **Landbouwgewassen, onderzoekstarieven** |   |
-| 1 | Andere dan de hieronder genoemde zaadgewassen (o.a. vezelhennep) | € 2.277 |
-| 2 | Aardappelen (vegetatief en zaadvermeerderend) | € 2.739 |
-| 3 | Oliehoudende zaden | € 2.898 |
-| 4 | Grasgewassen | € 2.982 |
-| 5 | Bieten | € 2.192 |
-| 6 | Instandhoudingsras van aardappelgewassen | € 613 |
-| 7 | Instandhoudingsras van granen | € 386 |
-| 8 | Overige gewassen: teff, veldboon en landbouwerwt | € 2.942 |
-| 9 | Medicinale hennep, uit zaad vermeerderd | € 5.082 |
-| 10 | Medicinale hennep, vegetatief vermeerderd | € 3.647 |
-| 11 | Aardappel uit zaad (TPS) | € 5.477 |
-|   | **Siergewassen, onderzoekstarieven** |   |
-| 12 | Gewassen met levende referentiecollectie: onderzoek onder glas (lange en korte teelt) | € 3.568 |
-| 13 | Gewassen met levende referentiecollectie: veldonderzoek (lange en korte teelt) | € 2.920 |
-| 14 | Gewassen zonder levende referentiecollectie: onderzoek onder glas (lange en korte teelt) | € 2.911 |
-| 15 | Gewassen zonder levende referentiecollectie: veldonderzoek (lange en korte teelt) | € 2.532 |
-|   | **Groentegewassen, onderzoekstarieven** |   |
-| 16 | Veldonderzoek | € 2.778 |
-| 17 | Veldonderzoek instandhoudingsrassen | € 320 |
-| 18 | Veldonderzoek heropname versneld | € 466 |
-| 19 | Veldonderzoek heropname uitgebreid | € 2.778 |
-| 20 | Onderzoek onder glas | € 3.733 |
-| 21 | Onderzoek onder glas instandhoudingsrassen | € 499 |
-| 22 | Onderzoek onder glas heropname versneld | € 1.144 |
-| 23 | Onderzoek onder glas uitgebreid | € 3.733 |
-| 24 | Bedrijfsproef, met beoordeling van het bedrijf zelf | € 135 |
-| 25 | Bedrijfsproef, met beoordeling van de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw | € 334 |
-
-Deze regeling zal met toelichting in de Staatscourant geplaatst worden.

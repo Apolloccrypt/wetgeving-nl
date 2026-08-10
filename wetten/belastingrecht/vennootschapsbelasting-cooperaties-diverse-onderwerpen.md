@@ -1,40 +1,17 @@
 ---
 title: "Vennootschapsbelasting, coöperaties; diverse onderwerpen"
 identifier: "BWBR0019445"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2006-01-17"
-last_updated: "2006-01-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019445"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8272413"
-version_id: "13131732"
-internal_id: "C17693321"
-label_id: "8253554"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019445/2006-01-17/0"
-intitule_bron: "Stcrt.2006-64"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-01-17"
-intitule_published: "2006-03-30"
-intitule_in_force: "2006-03-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-64"
-original_signed_date: "2006-01-17"
-original_published_date: "2006-03-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2006-01-17"
-jci_1_3: "jci1.3:c:BWBR0019445&z=2006-01-17&g=2006-01-17"
-jci_1_0: "1.0:c:BWBR0019445&g=2006-01-17"
-citeertitel_status: "redactioneel"
-signed_date: "2006-01-17"
-entry_into_force: "2006-01-17"
+publicatiedatum: 2006-01-17
+laatste_update: 2006-01-17
+status: geldig
+toestand: 2006-01-17
+bron: "https://wetten.overheid.nl/BWBR0019445"
+opgehaald: 2026-08-10
 ---
-# Vennootschapsbelasting, coöperaties; diverse onderwerpen
 
-De directeur-generaal Belastingdienst heeft namens de staatssecretaris van Financiën het volgende besloten.
+# Vennootschapsbelasting, coöperaties; diverse onderwerpen
 
 Dit besluit is een actualisering aan de wet- en regelgeving per 1 januari 2006 van het besluit van 1 juli 1971, B 71/12 651, punt 4, van 26 januari 1976, nr. 27-503 964, van 17 februari 1976, nr. 27- 602 669, en van het besluit van 19 december 2001, CPP2001/1556M. Een inhoudelijke wijziging is niet beoogd.
 
@@ -45,6 +22,12 @@ De bijzonderheden eigen aan de rechtsvorm van de coöperatie hebben mij aanleidi
 ### 2. Aftrekbare winstuitdelingen aan leden-rechtspersonen
 
 De in artikel 9, eerste lid, onderdeel g, van de Wet op de vennootschapsbelasting 1969 (hierna Wet VPB 1969) bedoelde uitdelingen van een coöperatie komen op de winst slechts in aftrek voor zover zij zijn toegekend aan leden-natuurlijke personen. Ik keur echter goed dat op een daartoe strekkend (en aan de inspecteur gericht) verzoek artikel 9, eerste lid, onderdeel g, Wet VPB 1969 ook toepassing vindt op uitdelingen aan lichamen onderworpen aan de vennootschapsbelasting, niet zijnde coöperaties, mits:
+
+- a. hun aantal niet groter is dan 5;
+
+- b. hun aantal bovendien niet meer bedraagt dan 5% van het totaal aantal leden en
+
+- c. hun aandeel in de geldswaarde van de omzet van de coöperatie niet meer bedraagt dan 5% van die omzet.
 
 Aan de te verlenen goedkeuring verbind ik de voorwaarde, dat bij het door de coöperatie in te dienen verzoek een verklaring van de betrokken rechtsperso(o)n(en) wordt overgelegd waarin deze zich met betrekking tot de heffing van de vennootschapsbelasting ter zake van vorenbedoelde van de coöperatie ontvangen uitdelingen verbind(t)(en), afstand te doen van het recht op de deelnemingsvrijstelling.
 

@@ -1,41 +1,17 @@
 ---
 title: "Beleidsregels kostenvergoeding subsidie milieukwaliteit elektriciteitsproductie 2006"
 identifier: "BWBR0020580"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2006-12-15"
-last_updated: "2006-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020580"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "8751013"
-version_id: "13817502"
-internal_id: "C18744711"
-label_id: "8730874"
-dtd_version: "2.0"
-original_entry_into_force: "2006-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020580/2006-12-15/0"
-intitule_bron: "Stcrt.2006-237"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-29"
-intitule_published: "2006-12-05"
-intitule_in_force: "2006-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-237"
-original_signed_date: "2006-11-29"
-original_published_date: "2006-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-237-p12-SC78019"
-entry_into_force_date: "2006-12-15"
-jci_1_3: "jci1.3:c:BWBR0020580&z=2006-12-15&g=2006-12-15"
-jci_1_0: "1.0:c:BWBR0020580&g=2006-12-15"
-citeertitel_status: "officieel"
-signed_date: "2006-11-29"
-entry_into_force: "2006-12-15"
+publicatiedatum: 2006-12-15
+laatste_update: 2006-12-15
+status: geldig
+toestand: 2006-12-15
+bron: "https://wetten.overheid.nl/BWBR0020580"
+opgehaald: 2026-08-10
 ---
-# Beleidsregels kostenvergoeding subsidie milieukwaliteit elektriciteitsproductie 2006
 
-Besluit:
+# Beleidsregels kostenvergoeding subsidie milieukwaliteit elektriciteitsproductie 2006
 
 ##### Artikel 1
 
@@ -115,9 +91,9 @@ De Minister besluit de beslissing tot kostenvergoeding in te trekken of te wijzi
 
 - a. aan een verzoeker voor een productie-installatie in verband waarmee eerder een kostenvergoeding is verstrekt;
 
-- 1°. MEP-subsidie wordt verleend, of
+   - 1°. MEP-subsidie wordt verleend, of
 
-- 2°. een subsidie die vergelijkbaar is met de MEP-subsidie wordt verleend, voor zover de vergoede kosten ook gemaakt moeten worden voor de met de MEP-subsidie vergelijkbare subsidie,
+   - 2°. een subsidie die vergelijkbaar is met de MEP-subsidie wordt verleend, voor zover de vergoede kosten ook gemaakt moeten worden voor de met de MEP-subsidie vergelijkbare subsidie,
 
 - b. aan de verzoeker kosten zijn vergoed die hij heeft gemaakt in verband met het aanvragen van een ontheffing op grond van [artikel 72m, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72m), of [artikel 72s, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72s) en hij na de beslissing tot kostenvergoeding voordeel geniet van het feit dat zijn productie-installatie is gerenoveerd of uitgebreid.
 
@@ -128,5 +104,3 @@ Deze beleidsregels treden op 15 december 2006 in werking.
 ##### Artikel 11
 
 Deze beleidsregels worden aangehaald als: Beleidsregels kostenvergoeding subsidie milieukwaliteit elektriciteitsproductie 2006.
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.

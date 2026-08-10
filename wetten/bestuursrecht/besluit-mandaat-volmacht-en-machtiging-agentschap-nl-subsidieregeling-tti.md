@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 augustus 2006, nr. 2006GMT/FBI 2661573, houdende verlening van mandaat, volmacht en machtiging aan de algemeen directeur van SenterNovem tot het nemen van besluiten op grond van de subsidieregeling TTI"
+citeertitel: "Besluit mandaat, volmacht en machtiging Agentschap NL Subsidieregeling TTI"
 identifier: "BWBR0020215"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-03-24"
-last_updated: "2010-03-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020215"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "8570883"
-version_id: "17214462"
-internal_id: "C23748091"
-label_id: "8551184"
-dtd_version: "2.0"
-original_entry_into_force: "2010-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020215/2010-03-24/0"
-intitule_bron: "Stcrt.2006-169"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-08-23"
-intitule_published: "2006-08-31"
-intitule_in_force: "2006-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-4308"
-original_signed_date: "2010-03-15"
-original_published_date: "2010-03-23"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2010-4308"
-entry_into_force_date: "2010-03-15"
-jci_1_3: "jci1.3:c:BWBR0020215&z=2010-03-24&g=2010-03-24"
-jci_1_0: "1.0:c:BWBR0020215&g=2010-03-24"
-citeertitel_status: "redactioneel"
-short_title: "Besluit mandaat, volmacht en machtiging Agentschap NL Subsidieregeling TTI"
-signed_date: "2010-03-15"
-entry_into_force: "2010-03-15"
+publicatiedatum: 2010-03-15
+laatste_update: 2010-03-24
+status: geldig
+toestand: 2010-03-24
+bron: "https://wetten.overheid.nl/BWBR0020215"
+opgehaald: 2026-08-10
 ---
-# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 augustus 2006, nr. 2006GMT/FBI 2661573, houdende verlening van mandaat, volmacht en machtiging aan de algemeen directeur van SenterNovem tot het nemen van besluiten op grond van de subsidieregeling TTI
 
-Besluit:
+# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 augustus 2006, nr. 2006GMT/FBI 2661573, houdende verlening van mandaat, volmacht en machtiging aan de algemeen directeur van SenterNovem tot het nemen van besluiten op grond van de subsidieregeling TTI
 
 ##### Artikel 1
 
@@ -94,10 +70,6 @@ De algemeen directeur van verstrekt de minister periodiek en op diens verzoek al
 
 Dit besluit treedt inwerking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het is geplaatst.
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Agentschap NL Subsidieregeling TTI.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

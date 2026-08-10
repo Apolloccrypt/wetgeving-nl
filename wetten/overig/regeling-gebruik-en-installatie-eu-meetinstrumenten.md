@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 23 november 2006, nr. WJZ 6098739, houdende regels omtrent de eisen bij het gebruik van in Europese richtlijnen opgenomen en in het Meetinstrumentenbesluit I en Meetinstrumentenbesluit II geregelde meetinstrumenten en houdende enkele voorschriften inzake de installatie van die instrumenten (Regeling gebruik en installatie EU-meetinstrumenten)"
+citeertitel: "Regeling gebruik en installatie EU-meetinstrumenten"
 identifier: "BWBR0020566"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020566"
+categorie: "Internationaal recht"
 soort: "ministeriele-regeling"
-stam_id: "8739073"
-version_id: "13794222"
-internal_id: "C18618791"
-label_id: "8719234"
-dtd_version: "2.0"
-original_entry_into_force: "2006-11-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020566/2026-01-01/0"
-intitule_bron: "Stcrt.2006-231"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-23"
-intitule_published: "2006-11-27"
-intitule_in_force: "2006-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-231"
-original_signed_date: "2006-11-23"
-original_published_date: "2006-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-231-p11-SC77904"
-entry_into_force_date: "2006-11-29"
-jci_1_3: "jci1.3:c:BWBR0020566&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0020566&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling gebruik en installatie EU-meetinstrumenten"
-signed_date: "2006-11-23"
-entry_into_force: "2006-11-29"
+publicatiedatum: 2006-11-29
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0020566"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Economische Zaken van 23 november 2006, nr. WJZ 6098739, houdende regels omtrent de eisen bij het gebruik van in Europese richtlijnen opgenomen en in het Meetinstrumentenbesluit I en Meetinstrumentenbesluit II geregelde meetinstrumenten en houdende enkele voorschriften inzake de installatie van die instrumenten (Regeling gebruik en installatie EU-meetinstrumenten)
-
-Gelet op de[artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019897&artikel=9) en [14 van het Meetinstrumentenbesluit I](https://wetten.overheid.nl/jci1.3:c:BWBR0019897&artikel=14) en [artikel 8 van het Meetinstrumentenbesluit II](https://wetten.overheid.nl/jci1.3:c:BWBR0020554&artikel=8);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -130,11 +104,19 @@ Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een
 
 2. Bijlage II, module F, onderdelen 5.2, 5.3 en 5.4, eerste volzin, van de richtlijn meetinstrumenten is van overeenkomstige toepassing.
 
+##### Artikel 8a
+
+1. Thermische energiemeters voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage VI van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout in onderdeel 3 telkens met de factor 2 wordt vermenigvuldigd.
+
+2. Voordat een thermische energiemeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorg draagt voor de installatie hiervan vast of in de gegeven omstandigheden de thermische energiemeter geschikt is voor een correcte meting van het te verwachten gebruik.
+
+3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020566&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) en het eerste lid zijn tien jaar na inwerkingtreding van dit artikel niet van toepassing op thermische energiemeters die reeds in gebruik zijn genomen voor de inwerkingtreding van deze regeling en die voldoen aan de nauwkeurigheidseis ten aanzien van thermische energiemeters van klasse 3 als bedoeld in onderdeel 3 van bijlage VI van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout met de factor 2 wordt vermenigvuldigd.
+
 ##### Artikel 9
 
 1. Vloeistofmeetinstallaties voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage VII van de richtlijn meetinstrumenten.
 
-2. Vloeistofmeetinstallaties die voor 1 januari 2009 ingevolge [artikel 45 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=45) rechtmatig in gebruik zijn genomen, voldoen aan het ingevolge [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) toegelaten model van de installaties, zoals aangepast volgens een aanhangsel bij de verklaring van toelating van het model, mits
+2. Vloeistofmeetinstallaties die voor 1 januari 2009 ingevolge [artikel 45 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=45) rechtmatig in gebruik zijn genomen, voldoen aan het ingevolge [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) toegelaten model van de installaties, zoals aangepast volgens een aanhangsel bij de verklaring van toelating van het model, mits
 
 - a. de aanpassing noodzakelijk is als gevolg van ontwikkelingen in andere regelgeving dan bij of krachtens de Metrologiewet is vastgesteld of van ontwikkelingen in het betalingsverkeer,
 
@@ -150,7 +132,7 @@ Automatische weeginstrumenten met een in [artikel 2, onderdeel e, onder 1°,](ht
 
 - a. de in hoofdstuk II, onderdeel 4.1, opgenomen gemiddelde fout voor categorie X weeginstrumenten telkens met een factor 2 wordt vermenigvuldigd;
 
-- b. automatische weeginstrumenten voor metingen ter controle van voorverpakkingen die zijn samengesteld volgens de eisen van [richtlijn 76/211/EEG](31976L0211) van de Raad van de Europese Gemeenschappen van 20 januari 1976 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake het voorverpakken naar gewicht of volume van bepaalde producten in voorverpakkingen (PbEG L 46) voldoen aan de eisen voor weeginstrumenten van categorie X, zoals bedoeld in Hoofdstuk II, onderdeel 2.1, met inachtneming van de hiervoor onder a vermelde wijziging van de maximaal toelaatbare gemiddelde fout;
+- b. automatische weeginstrumenten voor metingen ter controle van voorverpakkingen die zijn samengesteld volgens de eisen van richtlijn 76/211/EEG van de Raad van de Europese Gemeenschappen van 20 januari 1976 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake het voorverpakken naar gewicht of volume van bepaalde producten in voorverpakkingen (PbEG L 46) voldoen aan de eisen voor weeginstrumenten van categorie X, zoals bedoeld in Hoofdstuk II, onderdeel 2.1, met inachtneming van de hiervoor onder a vermelde wijziging van de maximaal toelaatbare gemiddelde fout;
 
 - c. in plaats van de in onderdeel 4.1 opgenomen maximaal toelaatbare fout van ± 1 e, ± 1,5 e en ± 2 e voor categorie Y een maximaal toelaatbare fout geldt van respectievelijk ± 1,5 e, ± 2,5 e en ± 3,5 e;
 
@@ -222,15 +204,15 @@ mag slechts worden gebruikt voor:
 
 2. Taxameters voldoen na installatie bij gebruik aan de toepasselijke essentiële eisen van bijlage IX van de richtlijn meetinstrumenten, met dien verstande dat:
 
-- a. de in onderdeel 2 bedoelde resolutie € 0,10 bedraagt;
+- a. de in onderdeel 2 bedoelde resolutie € 0,10 bedraagt;
 
 - b. in plaats van onderdeel 7 een maximaal toelaatbare fout voor de gemeten tijd van ± 0,2% en een maximaal toelaatbare fout voor de gemeten afstand van ± 2% geldt, onder de volgende nor⁠momstandigheden:
 
-- 1°. een gesimuleerde snelheid van 20 km/h;
+   - 1°. een gesimuleerde snelheid van 20 km/h;
 
-- 2°. de taxi is voorzien van voor het type voertuig normale banden op een door de fabrikant van het voertuig voorgeschreven druk en met een gemiddelde profielhoogte;
+   - 2°. de taxi is voorzien van voor het type voertuig normale banden op een door de fabrikant van het voertuig voorgeschreven druk en met een gemiddelde profielhoogte;
 
-- 3°. de taxi is ingericht overeenkomstig zijn bestemming en is belast overeenkomstig een voor de helft gevulde brandstoftank en het vervoer van twee personen, waaronder de bestuurder.
+   - 3°. de taxi is ingericht overeenkomstig zijn bestemming en is belast overeenkomstig een voor de helft gevulde brandstoftank en het vervoer van twee personen, waaronder de bestuurder.
 
 3. Taxameters die voor 15 oktober 2011 ingevolge [artikel 45 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=45) rechtmatig in gebruik zijn genomen, voldoen aan het ingevolge artikel 11a van de IJkwet toegelaten model van de meters, zoals aangepast volgens een aanhangsel bij de verklaring van toelating van het model, mits:
 
@@ -238,7 +220,7 @@ mag slechts worden gebruikt voor:
 
 - b. het model nog steeds voldoet aan de eisen zoals die op grond van de IJkwet waren gesteld en
 
-- c. het model met goed gevolg een onderzoek heeft ondergaan overeenkomstig bijlage II, module B.
+- c. het model met goed gevolg een onderzoek heeft ondergaan overeenkomstig bijlage II, module B.
 
 4. Bij gebruik van de taxameter is in de taxi een voorziening aanwezig waarop de volgende gegevens zijn vermeld:
 
@@ -280,17 +262,25 @@ Een niet-automatisch weegwerktuig dat niet voldoet aan een hogere nauwkeurigheid
 
 - f. het wegen van beladen containers, bedoeld in hoofdstuk VI, deel A, voorschrift 2, vierde lid, onderdeel 1, van de bijlage van het SOLAS-verdrag.
 
+##### Artikel 19a
+
+Een niet-automatisch weegwerktuig dat wordt gebruikt voor het wegen van visserijproducten aan boord van een vissersvaartuig is deiningsgecompenseerd.
+
 #### § 5. Specifieke bepalingen inzake korenschalen, alcoholmeters en areometers voor alcohol
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 #### § 6. Slotbepalingen
+
+##### Artikel 21a
+
+Deze regeling berust op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=11) en [14, derde lid, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=14).
 
 ##### Artikel 22
 
@@ -299,37 +289,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 23
 
 Deze regeling wordt aangehaald als: Regeling gebruik en installatie EU-meetinstrumenten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 19a
-
-Een niet-automatisch weegwerktuig dat wordt gebruikt voor het wegen van visserijproducten aan boord van een vissersvaartuig is deiningsgecompenseerd.
-
-#### § 5. Specifieke bepalingen inzake korenschalen, alcoholmeters en areometers voor alcohol
-
-#### § 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a
-
-1. Thermische energiemeters voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage VI van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout in onderdeel 3 telkens met de factor 2 wordt vermenigvuldigd.
-
-2. Voordat een thermische energiemeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorg draagt voor de installatie hiervan vast of in de gegeven omstandigheden de thermische energiemeter geschikt is voor een correcte meting van het te verwachten gebruik.
-
-3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020566&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) en het eerste lid zijn tien jaar na inwerkingtreding van dit artikel niet van toepassing op thermische energiemeters die reeds in gebruik zijn genomen voor de inwerkingtreding van deze regeling en die voldoen aan de nauwkeurigheidseis ten aanzien van thermische energiemeters van klasse 3 als bedoeld in onderdeel 3 van bijlage VI van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout met de factor 2 wordt vermenigvuldigd.
-
-#### § 4. Specifieke bepalingen inzake niet-automatische weegwerktuigen
-
-#### § 5. Specifieke bepalingen inzake korenschalen, alcoholmeters en areometers voor alcohol
-
-#### § 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 21a
-
-Deze regeling berust op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=11) en [14, derde lid, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=14).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

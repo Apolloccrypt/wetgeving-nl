@@ -1,50 +1,18 @@
 ---
 title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 30 januari 2006, nr. TRCJZ/2006/323, Directie Juridische Zaken, houdende vaststelling van de tegemoetkoming voor de oogstschade 2002 (Tegemoetkomingsregeling oogstschade 2002)"
+citeertitel: "Tegemoetkomingsregeling oogstschade 2002"
 identifier: "BWBR0019496"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-11-09"
-last_updated: "2006-11-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019496"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "7928273"
-version_id: "12799832"
-internal_id: "C17272951"
-label_id: "7916024"
-dtd_version: "2.0"
-original_entry_into_force: "2006-02-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019496/2006-11-09/0"
-intitule_bron: "Stcrt.2006-23"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-01-30"
-intitule_published: "2006-02-01"
-intitule_in_force: "2006-02-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-23"
-original_signed_date: "2006-01-30"
-original_published_date: "2006-02-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-23-p23-SC73663"
-entry_into_force_date: "2006-02-03"
-jci_1_3: "jci1.3:c:BWBR0019496&z=2006-11-09&g=2006-11-09"
-jci_1_0: "1.0:c:BWBR0019496&g=2006-11-09"
-citeertitel_status: "officieel"
-short_title: "Tegemoetkomingsregeling oogstschade 2002"
-signed_date: "2006-01-30"
-entry_into_force: "2006-02-03"
+publicatiedatum: 2006-02-03
+laatste_update: 2006-11-09
+status: geldig
+toestand: 2006-11-09
+bron: "https://wetten.overheid.nl/BWBR0019496"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 30 januari 2006, nr. TRCJZ/2006/323, Directie Juridische Zaken, houdende vaststelling van de tegemoetkoming voor de oogstschade 2002 (Tegemoetkomingsregeling oogstschade 2002)
-
-Gelet op artikel 87, derde lid, onderdeel c, van het Verdrag tot oprichting van de Europese Gemeenschap (Trb. 1957, 74 en 91);
-
-Gelet op de Communautaire richtsnoeren voor staatssteun in de landbouwsector (Pb EG 2000, C 28);
-
-Gelet op de goedkeuring van de Commissie van de Europese Gemeenschappen bij beschikking nr. SG(2005) D/206688 van 7 december 2005;
-
-Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2) en [4 van de Kaderwet LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=4);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -144,21 +112,21 @@ De tegemoetkoming in de schade, bedoeld in [artikel 3](https://wetten.overheid.n
 
 - a. een taxatierapport, binnen de schadetermijn opgemaakt door een taxateur, dat ten minste de volgende gegevens bevat:
 
-- i). de naam, het adres en het relatienummer;
+   - i) de naam, het adres en het relatienummer;
 
-- ii). de datum, plaats en wijze van de taxatie;
+   - ii) de datum, plaats en wijze van de taxatie;
 
-- iii). een omschrijving van het type schadegewas, het ras, het type grond en de teeltmethoden;
+   - iii) een omschrijving van het type schadegewas, het ras, het type grond en de teeltmethoden;
 
-- iv). een beschrijving van de fysieke opbrengst die in 2002 voor het desbetreffende gewas is behaald;
+   - iv) een beschrijving van de fysieke opbrengst die in 2002 voor het desbetreffende gewas is behaald;
 
-- v). een beschrijving van de financiële opbrengst die in het jaar 2002 voor het desbetreffende gewas is behaald;
+   - v) een beschrijving van de financiële opbrengst die in het jaar 2002 voor het desbetreffende gewas is behaald;
 
-- vi). een beschrijving van de kwantitatieve en kwalitatieve schade;
+   - vi) een beschrijving van de kwantitatieve en kwalitatieve schade;
 
-- vii). een omschrijving van de wijze waarop de schade zich heeft gemanifesteerd, en
+   - vii) een omschrijving van de wijze waarop de schade zich heeft gemanifesteerd, en
 
-- viii). een handtekening van de aanvrager en de taxateur;
+   - viii) een handtekening van de aanvrager en de taxateur;
 
 - b. een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) inhoudende dat het protocol uit [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&bijlage=2&z=2006-11-09&g=2006-11-09) bij deze regeling in acht is genomen;
 
@@ -168,21 +136,21 @@ De tegemoetkoming in de schade, bedoeld in [artikel 3](https://wetten.overheid.n
 
 - b. een schaderapport, opgesteld door een schade-expert als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=1&z=2006-11-09&g=2006-11-09), dat ten minste de volgende gegevens bevat:
 
-- i). de naam, het adres en het relatienummer;
+   - i) de naam, het adres en het relatienummer;
 
-- ii). de datum, plaats en wijze van de taxatie;
+   - ii) de datum, plaats en wijze van de taxatie;
 
-- iii). een omschrijving van het type schadegewas, het ras, het type grond en de teeltmethoden;
+   - iii) een omschrijving van het type schadegewas, het ras, het type grond en de teeltmethoden;
 
-- iv). een beschrijving van de fysieke opbrengst die in 2002 voor het desbetreffende gewas is behaald;
+   - iv) een beschrijving van de fysieke opbrengst die in 2002 voor het desbetreffende gewas is behaald;
 
-- v). een beschrijving van de financiële opbrengst die in het jaar 2002 voor het desbetreffende gewas is behaald;
+   - v) een beschrijving van de financiële opbrengst die in het jaar 2002 voor het desbetreffende gewas is behaald;
 
-- vi). een beschrijving van de kwantitatieve en kwalitatieve schade;
+   - vi) een beschrijving van de kwantitatieve en kwalitatieve schade;
 
-- vii). een omschrijving van de wijze waarop de schade zich heeft gemanifesteerd, en
+   - vii) een omschrijving van de wijze waarop de schade zich heeft gemanifesteerd, en
 
-- viii). een handtekening van de aanvrager en de schade-expert, bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=1&z=2006-11-09&g=2006-11-09);
+   - viii) een handtekening van de aanvrager en de schade-expert, bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=1&z=2006-11-09&g=2006-11-09);
 
 3. Het taxatierapport, bedoeld in het eerste lid, onderdeel a, en het schaderapport, bedoeld in het tweede lid, onderdeel b, gaan vergezeld van:
 
@@ -209,159 +177,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Tegemoetkomingsregeling oogstschade 2002.
-
-## Bijlage 1. Tabel van normbedragen
-
-| Gewas | Specificatie | Normbedrag in € inclusief BTW per ha, tenzij anders vermeld |
-| --- | --- | --- |
-| Aardbei |   | 50.200 |
-| Andijvie | verse markt | 18.700 |
-| Appel | productie | 15.000 |
-| Bloemkool |   | 9.800 |
-| Bloemkool | verse markt biologisch | 9.500 |
-| Boerenkool | Industrie | 1.600 |
-| Bospeen |   | 13.000 |
-| Bruine bonen |   | € 1.900 |
-| Cichorei |   | 2.400 |
-| Coniferen | éénjarig plantgoed | 232.000 |
-| Coniferen | twee en driejarig | 125.000 |
-| Coniferen | tweejarig leverbaar | 405.000 |
-| Coniferen | tweejarig gezaaid | 79.000 |
-| Coniferen | tweejarig tweej. Pl. | 94.900 |
-| Consumptieaardappel | klei biologisch | 7.700 |
-| Consumptieaardappel | klei | 3.800 |
-| Consumptieaardappel | zand/veen | 3.600 |
-| Gerst |   | 880 |
-| Graszaad |   | 1.500 |
-| Groenselderij |   | 23.100 |
-| Heesters | éénjarig winterstek | 147.000 |
-| Heesters | overige éénjarigen | 252.000 |
-| Heesters | tweejarig winterstek | 93.700 |
-| Heesters | overige tweejarigen | 172.000 |
-| Heesters | tweejarige veredeld | 292.000 |
-| Heesters | tweejarige geënt | 430.000 |
-| IJssla |   | 10.300 |
-| Knolselderij | verse markt | 14.600 |
-| Knolselderij | Industrie | 3.400 |
-| Knolselderij | Industrie biologisch | 8.400 |
-| Krulandijvie | verse markt | 22.400 |
-| Laanbomen | jaaraanwas | 36.000 |
-| Peer | productie | 19.100 |
-| Peterselie | verse markt | 51.300 |
-| Peterselie | industrie | 4.500 |
-| Pootaardappel | klei biologisch | 10.000 |
-| Pootaardappel | klei | 7.700 |
-| Pootaardappel | zand/veen | 4.100 |
-| Rode kool | verse markt | 10.400 |
-| Rode kool | Industrie | 4.600 |
-| Rode kool | verse markt biologisch | 11.900 |
-| Rode kool | Industrie biologisch | 6.600 |
-| Savooiekool | groen | 10.500 |
-| Spinazie | verse markt | 20.100 |
-| Spinazie | Industrie | 1.700 |
-| Spinazie | verse markt biologisch | 14.600 |
-| Spruitkool |   | 8.600 |
-| Stamslabonen | verse markt | 4.800 |
-| Stamslabonen | Industrie | 1.900 |
-| Stamslabonen | verse markt biologisch | 8.000 |
-| Suikerbieten |   | 3.200 |
-| Suikerbieten | biologisch | 3.900 |
-| Suikermaïs | industrie | 1.400 |
-| Tarwe |   | 1.200 |
-| Uien |   | 4.400 |
-| Uien | biologisch | 8.800 |
-| Vlas | totaal | 1.800 |
-| Waspeen |   | 4.600 |
-| Winterpeen |   | 6.700 |
-| Winterpeen | biologisch | 15.900 |
-| Witlofwortel |   | 4.200 |
-| Witlofwortel | biologisch | 6.600 |
-| Wittekool | verse markt | 11.300 |
-| Wittekool | Industrie | 6.100 |
-| Wittekool | verse markt biologisch | 12.700 |
-| Zetmeelaardappel |   | 2.600 |
-| Andijvie | industrie | 2.900 |
-| Bladselderij | industrie | 3.500 |
-| Boerenkool | industrie biologisch | 5.300 |
-| Koolrapen | verse markt biologisch | 12.000 |
-| Koolrapen | industrie | 3.100 |
-| Knolselderij | verse markt biologisch | 17.400 |
-| Kervel | industrie nateelt | 2.200 |
-| Koriander |   | 4.800 |
-| Thijm | industrie | 2.600 |
-| Tuinkers | drogerij | 1.700 |
-| Pastinaak |   | 7.500 |
-| Pastinaak | biologisch | 8.000 |
-| Prei | verse markt | 13.900 |
-| Prei | industrie | 7.100 |
-| Rode bieten |   | 7.400 |
-| Rode bieten | verse markt biologisch | 17.700 |
-| Rode bieten | industrie biologisch | 13.000 |
-| Savooiekool | biologisch | 14.400 |
-| Spinazie | industrie biologisch | 4.300 |
-| Stamslabonen | industrie biologisch | 3.600 |
-| Winterpeen | industrie biologisch | 11.500 |
-| Broccoli | herfstteelt | 7.100 |
-| Digitalis lanata | kruiden | 4.800 |
-| Erwten | zaadteelt | 1.100 |
-| Groene asperge | eerste oogstjaar | 2.400 |
-| Groene asperge | derde t/m negende oogstjaar | 15.100 |
-| Groene asperge | vervangingswaarde | 0,29/plant |
-| Bloemkool | zaadteelt | 6.800 |
-| Kruiden | potteelt potmaat < 13 cm | 0,46/pot |
-| Kruiden | potteelt potmaat ≥ 13 cm | 0,68/pot |
-| Bieslook | pollenteelt | 29.700 |
-| Skimmia | potteelt | 1,90/pot |
-| Potchrysanten |   | 1,68/pot |
-| Hypericum | snijheester derde – vierde oogstjaar | 58.300 |
-| Hypericum | snijheester zesde oogstjaar | 15.500 |
-| Brassica olearacea | snijteelt | 0,32/stuk |
-| Euphorbia Amyg. ‘Purpurea’ | potteelt | 1,52/pot |
-| Hebe | potteelt potmaat < 15 cm | 0,67/pot |
-| Hebe | potteelt potmaat ≥ 15 cm | 1,10/pot |
-| Pernethya | potteelt potmaat < 15 cm | 0,70/pot |
-| Pernethya | potteelt potmaat ≥ 15 cm | 1,80/pot |
-| Framboos | voorjaar/verwarmd | 153.000 |
-| Appelbomen | vervangingswaarde driejarige bomen | 36.000 |
-
-## Bijlage 2. Protocol als bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=4&artikel=8&z=2006-11-09&g=2006-11-09)
-
-Het onderzoek van de aanvraag, de opgave van het gerealiseerde teeltplan 2002 voor de Landbouwtelling 2002 en de teeltplanschade heeft ten doel vast te stellen of deze juist is. De door de accountant uit te voeren werkzaamheden zijn:
-
-Vaststellen dat de op de aanvraag aangegeven gewassen daadwerkelijk in de schadeperiode zijn geteeld en wel voor de oppervlakte zoals vermeld in de opgave van de aanvrager. Hierbij dient, voorzover beschikbaar, voor het onderzoek ondermeer gebruikt gemaakt te worden van:
-
-- –. het voor het bedrijf beschikbare areaal, op basis van kadastrale gegevens en (erf)pachtovereenkomsten;
-
-- –. de hoeveelheid aangekocht en gebruikt poot-, plant- en zaaigoed;
-
-- –. eventuele nota’s van loonwerkbedrijven;
-
-- –. de opgave voor de Landbouwtelling 2002;
-
-- –. het overzicht gewaspercelen 2002 overgelegd bij het aanvragen van premies voor de [Regeling dierlijke EG-premies](https://wetten.overheid.nl/jci1.3:c:BWBR0008007) of de [Regeling EG-steunverlening akkerbouwgewassen](https://wetten.overheid.nl/jci1.3:c:BWBR0008301);
-
-- –. controlerapporten van stichting SKAL (Certificatie Biologische Productie) te Zwolle;
-
-- –. bewijzen of certificaten van de Bloembollen Keuringsdienst (BKD) te Lisse;
-
-- –. bewijzen of certificaten van de Nederlandse Algemene Keuringsdienst voor pootgoed en zaaizaad van landbouwgewassen en voor boomkwekerijgewassen.
-
-De accountant dient in zijn rapport uitdrukkelijk te vermelden:
-
-- –. of en zo ja in welke mate het gerealiseerde teeltplan 2002 afwijkt van de opgave bij de Landbouwtelling 2002 en de ‘Boekhouding gewassen 2002’;
-
-- –. of de aanvrager recht heeft op verrekening van omzetbelasting. Dit is van belang voor de hoogte van de toe te kennen tegemoetkoming in de schade;
-
-- –. of de aanvrager de juiste gerealiseerde opbrengst en gerealiseerde marktwaarde in het jaar 2002 heeft opgegeven voor de gewassen waarvoor een tegemoetkoming wordt aangevraagd.
-
-Het onderzoek of de aanvrager in 2002 voor eigen rekening en risico een landbouwbedrijf exploiteert heeft ten doel vast te stellen of de door de aanvrager ter zake gedane opgave juist is.
-
-De door de accountant bij bovengenoemde onder meer uit te voeren werkzaamheden zijn:
-
-- –. afstemming met de eigendomsverhoudingen ten aanzien van het bedrijf;
-
-- –. afstemming met de administratie.
-
-De minister behoudt zich het recht voor een review te laten uitvoeren op de door de accountant van de aanvrager in het kader van de Tegemoetkomingsregeling oogstschade 2002 verrichte werkzaamheden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

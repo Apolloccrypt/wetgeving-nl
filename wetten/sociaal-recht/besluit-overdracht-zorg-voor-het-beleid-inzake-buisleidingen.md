@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 11 december 2006, houdende de overdracht van de zorg voor het beleid inzake buisleidingen"
+citeertitel: "Besluit overdracht zorg voor het beleid inzake buisleidingen"
 identifier: "BWBR0020758"
-country: "nl"
-rank: "kb"
-publication_date: "2006-12-22"
-last_updated: "2006-12-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020758"
+categorie: "Overig"
 soort: "KB"
-stam_id: "8796053"
-version_id: "13949472"
-internal_id: "C18971091"
-label_id: "8775784"
-dtd_version: "2.0"
-original_entry_into_force: "2006-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020758/2006-12-22/0"
-intitule_bron: "Stb.2006-679"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-12-11"
-intitule_published: "2006-12-21"
-intitule_in_force: "2006-12-21"
-intitule_status: "goed"
-original_publication: "Stb.2006-679"
-original_signed_date: "2006-12-11"
-original_published_date: "2006-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2006-679"
-entry_into_force_date: "2006-12-22"
-jci_1_3: "jci1.3:c:BWBR0020758&z=2006-12-22&g=2006-12-22"
-jci_1_0: "1.0:c:BWBR0020758&g=2006-12-22"
-citeertitel_status: "redactioneel"
-short_title: "Besluit overdracht zorg voor het beleid inzake buisleidingen"
-signed_date: "2006-12-11"
-entry_into_force: "2006-12-22"
+publicatiedatum: 2006-12-22
+laatste_update: 2006-12-22
+status: geldig
+toestand: 2006-12-22
+bron: "https://wetten.overheid.nl/BWBR0020758"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 11 december 2006, houdende de overdracht van de zorg voor het beleid inzake buisleidingen
-
-Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, van 4 december 2006, nr. 06M487777;
-
-Gelet op [artikel 44, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -63,5 +35,3 @@ De zorg voor de behandeling van aanvragen om een concessie als bedoeld in [artik
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Onze Minister-President, Minister van Algemene Zaken, en Onze Ministers van Economische Zaken en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

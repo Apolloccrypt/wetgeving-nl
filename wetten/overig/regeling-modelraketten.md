@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Verkeer en Waterstaat, houdende vrijstelling van het verbod om modelraketten als toestellen die geen luchtvaartuig zijn, in het luchtruim te gebruiken (Regeling modelraketten)"
+citeertitel: "Regeling modelraketten"
 identifier: "BWBR0020593"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-11-07"
-last_updated: "2015-11-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020593"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "8755333"
-version_id: "13823622"
-internal_id: "C18750911"
-label_id: "8735164"
-dtd_version: "2.0"
-original_entry_into_force: "2006-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020593/2015-11-07/0"
-intitule_bron: "Stcrt.2006-237"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-29"
-intitule_published: "2006-12-05"
-intitule_in_force: "2006-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-237"
-original_signed_date: "2006-11-29"
-original_published_date: "2006-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-237-p23-SC78002"
-entry_into_force_date: "2006-12-07"
-jci_1_3: "jci1.3:c:BWBR0020593&z=2015-11-07&g=2015-11-07"
-jci_1_0: "1.0:c:BWBR0020593&g=2015-11-07"
-citeertitel_status: "officieel"
-short_title: "Regeling modelraketten"
-signed_date: "2006-11-29"
-entry_into_force: "2006-12-07"
+publicatiedatum: 2006-12-07
+laatste_update: 2015-11-07
+status: geldig
+toestand: 2015-11-07
+bron: "https://wetten.overheid.nl/BWBR0020593"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Verkeer en Waterstaat, houdende vrijstelling van het verbod om modelraketten als toestellen die geen luchtvaartuig zijn, in het luchtruim te gebruiken (Regeling modelraketten)
-
-Handelende in overeenstemming met de Staatssecretaris van Defensie;
-
-Gelet op [artikel 1.2a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.2a);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -90,17 +62,17 @@ Een kleine modelraket wordt niet gebruikt:
 
 - e. binnen een afstand van 10 km van de grens van een luchthaven als bedoeld in [artikel 1.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1) waarboven geen plaatselijk luchtverkeersleidingsgebied is ingesteld, tenzij de havenmeester als bedoeld in [artikel 6 van de Regeling veilig gebruik luchthavens en andere terreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&artikel=6), respectievelijk de beheerder van het terrein tenminste 24 uur van tevoren, maar niet langer dan 48 uur van tevoren, is geïnformeerd over:
 
-- 1°. naam, adres en telefoonnummer van het lid van de betreffende vereniging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=2&z=2015-11-07&g=2015-11-07), dat als coördinator van de lancering optreedt;
+   - 1°. naam, adres en telefoonnummer van het lid van de betreffende vereniging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=2&z=2015-11-07&g=2015-11-07), dat als coördinator van de lancering optreedt;
 
-- 2°. lanceerplaats;
+   - 2°. lanceerplaats;
 
-- 3°. de periode waarbinnen de modelraket worden gebruikt;
+   - 3°. de periode waarbinnen de modelraket worden gebruikt;
 
-- 4°. een indicatie van het aantal te lanceren modelraketten;
+   - 4°. een indicatie van het aantal te lanceren modelraketten;
 
-- 5°. de afmeting en de massa van de modelraket, en
+   - 5°. de afmeting en de massa van de modelraket, en
 
-- 6°. de berekende maximale hoogte en afstand die de modelraket kan bereiken;
+   - 6°. de berekende maximale hoogte en afstand die de modelraket kan bereiken;
 
 - f. in een plaatselijk luchtverkeersleidingsgebied en binnen een afstand van 10 km van de grens van een dergelijk gebied, niet zijnde de Schiphol CTR, tenzij na overleg van een lid van een vereniging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=2&z=2015-11-07&g=2015-11-07), met de instantie die de plaatselijke luchtverkeersleiding verzorgt is gebleken dat voldoende separatie van het overige luchtverkeer is gewaarborgd. Het overleg vindt plaats tenminste één week vóór het beoogde gebruik van de modelraket ten behoeve waarvan de informatie bedoeld in onderdeel e is overgelegd.
 
@@ -115,5 +87,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling modelraketten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,43 +1,17 @@
 ---
 title: "Beschikking rendementen gesubsidieerde woningbouw, november 2006"
 identifier: "BWBR0020545"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020545"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8742773"
-version_id: "13799432"
-internal_id: "C18629631"
-label_id: "8722674"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020545/2007-01-01/0"
-intitule_bron: "Stcrt.2006-234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-16"
-intitule_published: "2006-11-30"
-intitule_in_force: "2006-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-234"
-original_signed_date: "2006-11-16"
-original_published_date: "2006-11-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-234-p41-SC77852"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020545&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0020545&g=2007-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2006-11-16"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0020545"
+opgehaald: 2026-08-10
 ---
+
 # Beschikking rendementen gesubsidieerde woningbouw, november 2006
-
-Gelet op artikel 17, vierde lid, van de Beschikking geldelijke steun huurwoningen 1975, en artikel 18, vierde lid, van de Regeling geldelijke steun huurwoningen in proefgemeenten normkostensysteem 1986, en gelet op artikel 31 onderdeel i., op artikel 56, tweede lid, op artikel 57, eerste lid, en op artikel 58, derde lid, van de Regeling geldelijke steun huurwoningen normkostensysteem 1988, en voorts gelet op artikel 17, tweede lid, van de Beschikking geldelijke steun eigen woningen 1984 alsmede gelet op artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoningen 1987;
-
-Besluit:
 
 ##### Artikel 1
 

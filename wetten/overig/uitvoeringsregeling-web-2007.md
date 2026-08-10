@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0024795"
-opgehaald: 2026-08-09
+opgehaald: 2026-08-10
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 november 2008, nr. BVE/Stelsel/73928, houdende uitvoeringsregels voor het bekostigen van het middelbaar beroepsonderwijs en de educatie (Uitvoeringsregeling WEB 2007)

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 29 mei 2006 tot vaststelling van regels met betrekking tot de bijzondere opsporingsdiensten en de instelling van het functioneel parket (Wet op de bijzondere opsporingsdiensten)"
+citeertitel: "Wet op de bijzondere opsporingsdiensten"
 identifier: "BWBR0019919"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019919"
+categorie: "Overig"
 soort: "wet"
-stam_id: "8421353"
-version_id: "13297062"
-internal_id: "C19706411"
-label_id: "8402304"
-dtd_version: "2.0"
-original_entry_into_force: "2007-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019919/2025-07-01/0"
-intitule_bron: "Stb.2006-285"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-05-29"
-intitule_published: "2006-06-27"
-intitule_in_force: "2007-05-22"
-intitule_status: "goed"
-original_publication: "Stb.2006-285"
-original_signed_date: "2006-05-29"
-original_published_date: "2006-06-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "30182"
-original_url_id: "stb-2006-285"
-entry_into_force_date: "2007-06-01"
-jci_1_3: "jci1.3:c:BWBR0019919&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0019919&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de bijzondere opsporingsdiensten"
-signed_date: "2006-05-29"
-entry_into_force: "2007-06-01"
+publicatiedatum: 2007-06-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0019919"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 29 mei 2006 tot vaststelling van regels met betrekking tot de bijzondere opsporingsdiensten en de instelling van het functioneel parket (Wet op de bijzondere opsporingsdiensten)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in een afzonderlijke wet regels te stellen voor de bijzondere opsporingsdiensten, in verband met de samenhang van de rechtshandhaving en de democratische controle en ter verbetering van de handhaving van de ordeningswetgeving, alsmede de instelling van het functioneel parket;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemeen
 
@@ -81,7 +52,7 @@ Een bijzondere opsporingsdienst is onder gezag van de officier van justitie bela
 
 - d. de opsporing van andere strafbare feiten, indien de bijzondere opsporingsdienst daarmee is belast door de officier van justitie;
 
-- e. de opsporing van strafbare feiten als bedoeld in de artikelen 22 en 25 van de Verordening (EU) 2017/1939 van de Raad van 12 oktober 2017 betreffende nauwere samenwerking bij de instelling van het Europees Openbaar Ministerie («EOM») (PbEU 2017, L 283).
+- e. de opsporing van strafbare feiten als bedoeld in de artikelen 22 en 25 van de Verordening (EU) 2017/1939 van de Raad van 12 oktober 2017 betreffende nauwere samenwerking bij de instelling van het Europees Openbaar Ministerie («EOM») (PbEU 2017, L 283).
 
 ##### Artikel 4
 
@@ -102,6 +73,10 @@ De opsporingsambtenaar is bevoegd zijn taak uit te oefenen in het gehele land.
 4. De uitoefening van de bevoegdheden, bedoeld in het eerste en derde lid, dient in verhouding tot het beoogde doel redelijk en gematigd te zijn.
 
 5. Met overeenkomstige toepassing van [artikel 9 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=9) wordt een ambtsinstructie voor de opsporingsambtenaren vastgesteld.
+
+##### Artikel 6a
+
+De opsporingsambtenaar is bevoegd tot het vorderen van inzage in een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) van personen, voor zover dat redelijkerwijs noodzakelijk is voor de uitoefening van zijn taak.
 
 ### Hoofdstuk III. Toezicht op de bijzondere opsporingsdiensten en opsporingsambtenaren
 
@@ -187,23 +162,23 @@ In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](h
 
 ##### Artikel 17
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel 18
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
 ##### Artikel 19
 
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
 
 ##### Artikel 20
 
-Wijzigt de Wet wapens en munitie.
+*Wijzigt de Wet wapens en munitie.*
 
 ##### Artikel 21
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 22
 
@@ -212,21 +187,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 23
 
 Deze wet wordt aangehaald als: Wet op de bijzondere opsporingsdiensten.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6a
-
-De opsporingsambtenaar is bevoegd tot het vorderen van inzage in een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) van personen, voor zover dat redelijkerwijs noodzakelijk is voor de uitoefening van zijn taak.
-
-### Hoofdstuk III. Toezicht op de bijzondere opsporingsdiensten en opsporingsambtenaren
-
-### Hoofdstuk IV. Organisatie en beleid
-
-### Hoofdstuk V. Samenwerking met de politie en andere diensten
-
-### Hoofdstuk VI. Behandeling van klachten
-
-### Hoofdstuk VII. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

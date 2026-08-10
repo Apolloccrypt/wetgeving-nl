@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0049661"
-opgehaald: 2026-08-09
+opgehaald: 2026-08-10
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 26 april 2024. Nr. MBO/45666836, houdende een uitleg van de regels voor het aanbieden van oriëntatieprogramma’s aan mbo-studenten op de niveaus 2, 3 en 4

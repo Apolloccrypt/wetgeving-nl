@@ -1,46 +1,18 @@
 ---
 title: "Toezichtreglement Landbouwkwaliteitsregeling Kaas 2006"
+citeertitel: "Toezichtreglement Landbouwkwaliteitsregeling kaas 2006"
 identifier: "BWBR0019407"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019407"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "8255743"
-version_id: "13092742"
-internal_id: "C17636801"
-label_id: "8236934"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019407/2006-01-01/0"
-intitule_bron: "Stcrt.2006-85"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-29"
-intitule_published: "2006-05-02"
-intitule_in_force: "2006-05-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-85"
-original_signed_date: "2005-12-29"
-original_published_date: "2006-05-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-85-p22-SC74772"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0019407&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0019407&g=2006-01-01"
-citeertitel_status: "officieel"
-short_title: "Toezichtreglement Landbouwkwaliteitsregeling kaas 2006"
-signed_date: "2005-12-29"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0019407"
+opgehaald: 2026-08-10
 ---
+
 # Toezichtreglement Landbouwkwaliteitsregeling Kaas 2006
-
-Gelet op [artikel 10, eerste lid, onder e, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10)(Stb. 1971, 371), op de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019231&artikel=7) en [17 van de Landbouwkwaliteitsregeling kaas 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019231&artikel=17), alsmede op artikel 36 van de Statuten van genoemde Stichting;
-
-Heeft op 29 december 2005 vastgesteld het navolgende reglement:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Definities
 
@@ -168,9 +140,9 @@ De bereider wordt hierover schriftelijk geïnformeerd.
 
 1. De aangeslotene kan bezwaar maken tegen
 
-- –. de wijze waarop een monster door of namens het COKZ wordt genomen;
+- – de wijze waarop een monster door of namens het COKZ wordt genomen;
 
-- –. de keuze van een monster uit de aanwezige voorraad.
+- – de keuze van een monster uit de aanwezige voorraad.
 
 2. Het in het eerste lid bedoelde bezwaar moet onmiddellijk bij de monsterneming aan degene, die het toezicht uitvoert dan wel het monster heeft genomen, kenbaar worden gemaakt. Deze beslist of het genomen monster wordt gehandhaafd.
 

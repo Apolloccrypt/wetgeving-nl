@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel tot vaststelling van voorwaarden die gelden tijdens de overgangsperiode na afloop van de proef met langere of langere en zwaardere vrachtautocombinaties voor ontheffingen verleend ten tijde van die proef (Beleidsregel overgangsperiode proef ontheffingverlening LZV)"
+citeertitel: "Beleidsregel overgangsperiode proef ontheffingverlening LZV"
 identifier: "BWBR0020292"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2006-09-21"
-last_updated: "2006-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020292"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "8594613"
-version_id: "13559522"
-internal_id: "C18238871"
-label_id: "8574854"
-dtd_version: "2.0"
-original_entry_into_force: "2006-09-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020292/2006-09-21/0"
-intitule_bron: "Stcrt.2006-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-09-13"
-intitule_published: "2006-09-19"
-intitule_in_force: "2006-09-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-182"
-original_signed_date: "2006-09-13"
-original_published_date: "2006-09-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-182-p20-SC76877"
-entry_into_force_date: "2006-09-21"
-jci_1_3: "jci1.3:c:BWBR0020292&z=2006-09-21&g=2006-09-21"
-jci_1_0: "1.0:c:BWBR0020292&g=2006-09-21"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel overgangsperiode proef ontheffingverlening LZV"
-signed_date: "2006-09-13"
-entry_into_force: "2006-09-21"
+publicatiedatum: 2006-09-21
+laatste_update: 2006-09-21
+status: geldig
+toestand: 2006-09-21
+bron: "https://wetten.overheid.nl/BWBR0020292"
+opgehaald: 2026-08-10
 ---
+
 # Beleidsregel tot vaststelling van voorwaarden die gelden tijdens de overgangsperiode na afloop van de proef met langere of langere en zwaardere vrachtautocombinaties voor ontheffingen verleend ten tijde van die proef (Beleidsregel overgangsperiode proef ontheffingverlening LZV)
-
-Gelet op [artikel 149a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a), het [Besluit ontheffingverlening exceptionele transporten](https://wetten.overheid.nl/jci1.3:c:BWBR0018680), het [Instellingsbesluit Ambtelijke adviescommissie LZV](https://wetten.overheid.nl/jci1.3:c:BWBR0016098) en de [Beleidsregel ontheffingverlening LZV 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019724);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -74,7 +48,7 @@ Bij verlenging van een ontheffingsbesluit als bedoeld in [artikel 2](https://wet
 
 ##### Artikel 4
 
-De Dienst Wegverkeer zal aan de ontheffingsbesluiten die worden verlengd met ingang van 1 november 2006 tot 1 november 2007, met uitzondering van het bepaalde in [hoofdstuk I, paragraaf 3, onderdeel B van de bijlage bij het Instellingsbesluit Ambtelijke adviescommissie LZV](onbekend), niet meer de voorwaarde verbinden dat deelnemers aan de proef data moet aanleveren ten behoeve van de monitoring van de proef.
+De Dienst Wegverkeer zal aan de ontheffingsbesluiten die worden verlengd met ingang van 1 november 2006 tot 1 november 2007, met uitzondering van het bepaalde in [hoofdstuk I, paragraaf 3, onderdeel B van de bijlage bij het Instellingsbesluit Ambtelijke adviescommissie LZV](https://wetten.overheid.nl/BWBR0016098), niet meer de voorwaarde verbinden dat deelnemers aan de proef data moet aanleveren ten behoeve van de monitoring van de proef.
 
 ##### Artikel 5
 
@@ -97,5 +71,3 @@ Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekeni
 ##### Artikel 7
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel overgangsperiode proef ontheffingverlenging LZV.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

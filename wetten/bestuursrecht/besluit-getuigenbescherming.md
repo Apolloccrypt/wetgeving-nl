@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 21 december 2005, houdende regels ter uitvoering van artikel 226l van het Wetboek van Strafvordering (Besluit getuigenbescherming)"
+citeertitel: "Besluit getuigenbescherming"
 identifier: "BWBR0019359"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019359"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "7857173"
-version_id: "12763972"
-internal_id: "C17482171"
-label_id: "7844874"
-dtd_version: "2.0"
-original_entry_into_force: "2006-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019359/2018-08-01/0"
-intitule_bron: "Stb.2006-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-21"
-intitule_published: "2006-01-17"
-intitule_in_force: "2006-03-23"
-intitule_status: "goed"
-original_publication: "Stb.2006-21"
-original_signed_date: "2005-12-21"
-original_published_date: "2006-01-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2006-21"
-entry_into_force_date: "2006-04-01"
-jci_1_3: "jci1.3:c:BWBR0019359&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0019359&g=2018-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit getuigenbescherming"
-signed_date: "2005-12-21"
-entry_into_force: "2006-04-01"
+publicatiedatum: 2006-04-01
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0019359"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 21 december 2005, houdende regels ter uitvoering van artikel 226l van het Wetboek van Strafvordering (Besluit getuigenbescherming)
-
-Op de voordracht van Onze Minister van Justitie van 27 augustus 2001, nr. 5116667/01/6;
-
-Gelet op [artikel 226l van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=226l);
-
-De Raad van State gehoord (advies van 29 oktober 2001, no. W03.01.0454/1);
-
-Gezien het nader rapport van Onze Minister van Justitie van 14 december 2005, nr. 5390597/05/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -119,5 +87,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit getuigenbescherming.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

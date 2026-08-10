@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 3 juli 2006 tot vaststelling van een eenmalige uitkering 2004, een aflopende uitkering in het kader van de intrekking van de Regeling ziektekostenvoorziening defensiepersoneel en een vergoeding van de inkomensafhankelijke bijdrage voor gewezen defensiepersoneel en tot wijziging van enige besluiten in het kader van enige arbeidsvoorwaardenmaatregelen voor de sector Defensie, alsmede tot vaststelling van enige technische wijzigingen"
+citeertitel: "Besluit vaststelling eenmalige uitkering 2004, enz. (arbeidsvoorwaardenmaatregelen sector Defensie)"
 identifier: "BWBR0020039"
-country: "nl"
-rank: "amvb"
-publication_date: "2007-07-04"
-last_updated: "2007-07-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020039"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "8555213"
-version_id: "13485122"
-internal_id: "C29468861"
-label_id: "8535674"
-dtd_version: "2.0"
-original_entry_into_force: "2006-08-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020039/2007-07-04/0"
-intitule_bron: "Stb.2006-364"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-03"
-intitule_published: "2006-08-15"
-intitule_in_force: "2006-08-15"
-intitule_status: "goed"
-original_publication: "Stb.2006-364"
-original_signed_date: "2006-07-03"
-original_published_date: "2006-08-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2006-364"
-entry_into_force_date: "2006-08-16"
-jci_1_3: "jci1.3:c:BWBR0020039&z=2007-07-04&g=2007-07-04"
-jci_1_0: "1.0:c:BWBR0020039&g=2007-07-04"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vaststelling eenmalige uitkering 2004, enz. (arbeidsvoorwaardenmaatregelen sector Defensie)"
-signed_date: "2006-07-03"
-entry_into_force: "2006-08-16"
+publicatiedatum: 2006-08-16
+laatste_update: 2007-07-04
+status: geldig
+toestand: 2007-07-04
+bron: "https://wetten.overheid.nl/BWBR0020039"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 3 juli 2006 tot vaststelling van een eenmalige uitkering 2004, een aflopende uitkering in het kader van de intrekking van de Regeling ziektekostenvoorziening defensiepersoneel en een vergoeding van de inkomensafhankelijke bijdrage voor gewezen defensiepersoneel en tot wijziging van enige besluiten in het kader van enige arbeidsvoorwaardenmaatregelen voor de sector Defensie, alsmede tot vaststelling van enige technische wijzigingen
-
-Op de voordracht van de Staatssecretaris van Defensie van 24 april 2006, nr. P/2006012115;
-
-Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) alsmede [artikel 12, eerste lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12);
-
-De Raad van State gehoord (advies van 24 mei 2006, nr. W07.06.0126/II);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 27 juni 2006, nr. P/2006018501;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Toekenning van een eenmalige uitkering 2004 aan het defensiepersoneel
 
@@ -54,25 +22,25 @@ Hebben goedgevonden en verstaan:
 
 - a. militair: de militaire ambtenaar in de zin van [artikel 1 van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1) die is aangesteld bij het beroepspersoneel;
 
-- b. peildatum: 1 januari 2006;
+- b. peildatum: 1 januari 2006;
 
 - c. betrokkene:
 
-- 1°. de militair met een lagere rang dan vice-admiraal of luitenant-generaal die op de peildatum in werkelijke dienst was;
+   - 1°. de militair met een lagere rang dan vice-admiraal of luitenant-generaal die op de peildatum in werkelijke dienst was;
 
-- 2°. de burgerlijke ambtenaar defensie die aanspraak heeft op een salaris volgens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A) of [B van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=B) en die op de peildatum in dienst van het Ministerie van Defensie was;
+   - 2°. de burgerlijke ambtenaar defensie die aanspraak heeft op een salaris volgens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A) of [B van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=B) en die op de peildatum in dienst van het Ministerie van Defensie was;
 
-- 3°. de gewezen militair met een lagere rang dan vice-admiraal of luitenant-generaal die ingevolge [artikel 18, zesde lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&artikel=18) op de peildatum in het genot was van wachtgeld of een uitkering, dan wel een uitkering op grond van de Uitkeringswet gewezen militairen genoot;
+   - 3°. de gewezen militair met een lagere rang dan vice-admiraal of luitenant-generaal die ingevolge [artikel 18, zesde lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&artikel=18) op de peildatum in het genot was van wachtgeld of een uitkering, dan wel een uitkering op grond van de Uitkeringswet gewezen militairen genoot;
 
-- 4°. de gewezen burgerlijke ambtenaar defensie die aanspraak heeft op salaris volgens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A) of [B van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=B) en die ingevolge [artikel 18, zesde lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&artikel=18) op de peildatum in het genot was van wachtgeld of een uitkering, dan wel van een uitkering op grond van het [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006041);
+   - 4°. de gewezen burgerlijke ambtenaar defensie die aanspraak heeft op salaris volgens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A) of [B van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=B) en die ingevolge [artikel 18, zesde lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&artikel=18) op de peildatum in het genot was van wachtgeld of een uitkering, dan wel van een uitkering op grond van het [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006041);
 
 - d. berekeningsbasis:
 
-- 1°. de over de maand januari van het jaar 2006 genoten bezoldiging vermeerderd met de vakantie-uitkering en eindejaarsuitkering volgens hetgeen daaronder wordt verstaan in het [Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816);
+   - 1°. de over de maand januari van het jaar 2006 genoten bezoldiging vermeerderd met de vakantie-uitkering en eindejaarsuitkering volgens hetgeen daaronder wordt verstaan in het [Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816);
 
-- 2°. het over de maand januari van het jaar 2006 genoten salaris vermeerderd met de vakantie-uitkering en eindejaarsuitkering volgens hetgeen daaronder wordt verstaan in het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191);
+   - 2°. het over de maand januari van het jaar 2006 genoten salaris vermeerderd met de vakantie-uitkering en eindejaarsuitkering volgens hetgeen daaronder wordt verstaan in het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191);
 
-- 3°. het wachtgeld of de uitkering die over de maand januari 2006, op grond van één van de in onderdeel c, subonderdeel 3° en 4°, genoemde besluiten is genoten na toepassing van de bij of krachtens die besluiten geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.
+   - 3°. het wachtgeld of de uitkering die over de maand januari 2006, op grond van één van de in onderdeel c, subonderdeel 3° en 4°, genoemde besluiten is genoten na toepassing van de bij of krachtens die besluiten geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.
 
 2. De betrokkene heeft op de peildatum aanspraak op een eenmalige uitkering 2004 ter grootte van 0,8% van het twaalfvoud van de voor betrokkene geldende berekeningsbasis.
 
@@ -80,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 4. De eenmalige uitkering 2004 maakt voor de betrokkene, bedoeld in het eerste lid, onderdeel c, subonderdeel 2° en 4°, deel uit van de pensioengrondslag.
 
-### Hoofdstuk 2. Vaststelling van een aflopende uitkering in het kader van de intrekking van de [Regeling ziektekostenvoorziening defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008817)
+### Hoofdstuk 2. Vaststelling van een aflopende uitkering in het kader van de intrekking van de Regeling ziektekostenvoorziening defensiepersoneel
 
 ##### Artikel 2
 
@@ -138,27 +106,27 @@ van de in het derde lid bedoelde grondslag.
 
 ##### Artikel 4
 
-Wijzigt het Algemeen militair ambtenarenreglement.
+*Wijzigt het Algemeen militair ambtenarenreglement.*
 
 ##### Artikel 5
 
-Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
+*Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.*
 
 ##### Artikel 6
 
-Wijzigt het Inkomstenbesluit militairen.
+*Wijzigt het Inkomstenbesluit militairen.*
 
 ### Hoofdstuk 5. Overgangsbepalingen
 
 ##### Artikel 7
 
-1. De [Regeling ziektekostenvoorziening defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008817) blijft van toepassing zoals deze luidde op de dag voorafgaand aan de datum van intrekking ten aanzien van aanspraken welke zijn opgebouwd in het jaar 2005. In afwijking van [artikel 8 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008817&artikel=8) kan een tegemoetkoming betrekking hebben op een tijdvak korter dan twaalf aaneengesloten maanden indien dit tijdvak aanvangt na 1 januari 2005, waarbij de hoogte van het drempelbedrag naar evenredigheid wordt vastgesteld. De aanvraag van de tegemoetkoming geschiedt voor 1 juli 2006.
+1. De [Regeling ziektekostenvoorziening defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008817) blijft van toepassing zoals deze luidde op de dag voorafgaand aan de datum van intrekking ten aanzien van aanspraken welke zijn opgebouwd in het jaar 2005. In afwijking van [artikel 8 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008817&artikel=8) kan een tegemoetkoming betrekking hebben op een tijdvak korter dan twaalf aaneengesloten maanden indien dit tijdvak aanvangt na 1 januari 2005, waarbij de hoogte van het drempelbedrag naar evenredigheid wordt vastgesteld. De aanvraag van de tegemoetkoming geschiedt voor 1 juli 2006.
 
-2. In afwijking van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008817&artikel=8), geldt dat de beschikking op de aanvraag ingediend na 31 december 2005 wordt gegeven voor 1 januari 2007. Indien een beschikking niet voor 1 januari 2007 kan worden gegeven, wordt de aanvrager hiervan schriftelijk in kennis gesteld onder opgave van redenen en met vermelding van de termijn waarbinnen de beschikking wel kan worden gegeven. Deze termijn bedraagt ten hoogste acht weken.
+2. In afwijking van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008817&artikel=8), geldt dat de beschikking op de aanvraag ingediend na 31 december 2005 wordt gegeven voor 1 januari 2007. Indien een beschikking niet voor 1 januari 2007 kan worden gegeven, wordt de aanvrager hiervan schriftelijk in kennis gesteld onder opgave van redenen en met vermelding van de termijn waarbinnen de beschikking wel kan worden gegeven. Deze termijn bedraagt ten hoogste acht weken.
 
 ##### Artikel 8
 
-In afwijking van [artikel 6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0020039&hoofdstuk=4&artikel=6&z=2007-07-04&g=2007-07-04), is het percentage in [artikel 6 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=6) voor de periode 1 januari 2004 tot en met 31 december 2004 bepaald op 0,8%.
+In afwijking van [artikel 6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0020039&hoofdstuk=4&artikel=6&z=2007-07-04&g=2007-07-04), is het percentage in [artikel 6 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=6) voor de periode 1 januari 2004 tot en met 31 december 2004 bepaald op 0,8%.
 
 ##### Artikel 9
 
@@ -172,6 +140,4 @@ De [Regeling ziektekostenvoorziening defensiepersoneel](https://wetten.overheid.
 
 ##### Artikel 11
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2006.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2006.

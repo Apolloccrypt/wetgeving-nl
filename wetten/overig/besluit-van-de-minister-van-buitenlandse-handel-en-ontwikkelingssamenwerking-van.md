@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0052924"
-opgehaald: 2026-08-09
+opgehaald: 2026-08-10
 ---
 
 # Besluit van de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking van 27 juli 2026, nr. BZ2630255, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 in verband met aanvullende middelen voor activiteiten op het gebied van veiligheid voor mensen en gemeenschappen en op het gebied van vredesopbouw en conflictbemiddeling (Aanvullende middelen Subsidieprogramma Contributing to Peaceful and Safe Societies 2024–2031)

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 2 februari 2006, houdende regels omtrent meeteenheden en omtrent het in de handel brengen en het gebruik van meetinstrumenten (Metrologiewet)"
+citeertitel: "Metrologiewet"
 identifier: "BWBR0019517"
-country: "nl"
-rank: "wet"
-publication_date: "2023-04-19"
-last_updated: "2023-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019517"
+categorie: "Overig"
 soort: "wet"
-stam_id: "8140293"
-version_id: "12956282"
-internal_id: "C18619931"
-label_id: "8122064"
-dtd_version: "2.0"
-original_entry_into_force: "2006-11-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019517/2023-04-19/0"
-intitule_bron: "Stb.2006-137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-02"
-intitule_published: "2006-03-16"
-intitule_in_force: "2006-11-28"
-intitule_status: "goed"
-original_publication: "Stb.2006-137"
-original_signed_date: "2006-02-02"
-original_published_date: "2006-03-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "30208"
-original_url_id: "stb-2006-137"
-entry_into_force_date: "2006-11-29"
-jci_1_3: "jci1.3:c:BWBR0019517&z=2023-04-19&g=2023-04-19"
-jci_1_0: "1.0:c:BWBR0019517&g=2023-04-19"
-citeertitel_status: "officieel"
-short_title: "Metrologiewet"
-signed_date: "2006-02-02"
-entry_into_force: "2006-11-29"
+publicatiedatum: 2006-11-29
+laatste_update: 2023-04-19
+status: geldig
+toestand: 2023-04-19
+bron: "https://wetten.overheid.nl/BWBR0019517"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 2 februari 2006, houdende regels omtrent meeteenheden en omtrent het in de handel brengen en het gebruik van meetinstrumenten (Metrologiewet)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de regels met betrekking tot meeteenheden en het in de handel brengen en het gebruik van meetinstrumenten op een aan de eisen van deze tijd aangepaste en overzichtelijke wijze vast te stellen, daarbij onder meer rekening houdend met de implementatie van EG-regelgeving op het terrein van de metrologie en in het bijzonder van [richtlijn 2004/22/EG](32004L0022) van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten (PbEU L 135);
-
-Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -83,15 +54,59 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - q. interne instantie: een afzonderlijk en te onderscheiden onderdeel binnen de onderneming van de fabrikant dat niet is betrokken bij het ontwerp, de productie, de levering, de installatie, het gebruik of het onderhoud van de meetinstrumenten, dat zij moet beoordelen;
 
-- r. verordening (EU) 2019/1020:[Verordening (EU) 2019/1020](32920R2019) van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van [Richtlijn 2004/42/EG](32004L0042) en de [Verordeningen (EG) nr. 765/2008](32008R0765) en (EU) [nr. 305/2011](32011R0305) (PbEU 2019, L 169);
+- r. verordening (EU) 2019/1020:Verordening (EU) 2019/1020 van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van Richtlijn 2004/42/EG en de Verordeningen (EG) nr. 765/2008 en (EU) nr. 305/2011 (PbEU 2019, L 169);
 
-- s. fulfilmentdienstverlener: fulfilmentdienstverlener als bedoeld in artikel 3, onderdeel 11, van [verordening (EU) 2019/1020](32920R2019);
+- s. fulfilmentdienstverlener: fulfilmentdienstverlener als bedoeld in artikel 3, onderdeel 11, van verordening (EU) 2019/1020;
 
-- t. aanbieder van diensten van de informatiemaatschappij: aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
+- t. aanbieder van diensten van de informatiemaatschappij: aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van Richtlijn (EU) 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
 
-- u. online interface: online interface als bedoeld in artikel 3, onderdeel 15, van [verordening (EU) 2019/1020](32920R2019).
+- u. online interface: online interface als bedoeld in artikel 3, onderdeel 15, van verordening (EU) 2019/1020.
 
 ### Hoofdstuk 2. Meeteenheden en standaarden
+
+##### Artikel 2
+
+Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden vastgesteld en kunnen tevens regels worden gesteld betreffende:
+
+- a. het symbool, de aanduiding, de omschrijving en het gebruik van een meeteenheid;
+
+- b. de benaming en de meetstandaard van een grootheid.
+
+##### Artikel 3
+
+1. Indien krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=2&artikel=2&z=2023-04-19&g=2023-04-19) een nationale meetstandaard van een grootheid wordt verwezenlijkt of beheerd, wijst Onze Minister één in Nederland gevestigde instelling aan die tot taak heeft zorg te dragen voor het verwezenlijken en beheren van die nationale meetstandaard.
+
+2. Voor een aanwijzing komt in aanmerking een instelling die
+
+- a. wat betreft organisatie, personeel en materieel zodanig is ingericht dat de verwezenlijking of het beheer van de nationale meetstandaard van de betrokken grootheid kan worden verricht met inachtneming van hetgeen terzake door de bevoegde organen van het op 20 mei 1875 te Parijs gesloten verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel (Stb. 1929, 219) in het kader van dat verdrag is bepaald of in overeenstemming met het terzake bepaalde in een EU-besluit en
+
+- b. de in het eerste lid bedoelde taak onafhankelijk kan vervullen.
+
+3. De aanwijzing kan worden ingetrokken indien:
+
+- a. de betrokken instelling daarom verzoekt;
+
+- b. blijkt dat de instelling de op grond van deze wet gestelde regels ten aanzien van de meetstandaard niet naleeft;
+
+- c. de instelling niet meer voldoet aan de in het tweede lid bedoelde eisen;
+
+- d. de instelling niet voldoet aan andere uit deze wet voortvloeiende verplichtingen.
+
+4. Een op grond van het eerste lid aangewezen instelling herleidt de meetstandaarden van aangewezen instanties en toezichthouders op hun verzoek naar de nationale meetstandaard van de betrokken grootheid.
+
+5. Onze Minister kan een instelling aanwijzingen geven met betrekking tot de uitoefening van haar taak.
+
+##### Artikel 4
+
+1. Er is een Raad van deskundigen voor de nationale meetstandaarden die tot taak heeft:
+
+- a. toezicht uit te oefenen op de verwezenlijking en het beheer van nationale meetstandaarden en omtrent dat toezicht jaarlijks verslag uit te brengen aan Onze Minister en hem overigens van raad te dienen;
+
+- b. advies uit te brengen over aangelegenheden in verband met de meetstandaarden van grootheden.
+
+2. De raad wordt door Onze Minister in de gelegenheid gesteld zijn zienswijze te geven over het voornemen tot een aanwijzing of tot een intrekking van een aanwijzing op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=2&artikel=3&z=2023-04-19&g=2023-04-19).
+
+3. De raad bestaat uit ten hoogste negen leden.
 
 ### Hoofdstuk 3. Meetinstrumenten
 
@@ -137,7 +152,21 @@ Een meetinstrument dat bij de conformiteitsbeoordeling voldoet aan de aan dat me
 
 Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het in de handel brengen, op de markt aanbieden of in gebruik nemen van andere meetinstrumenten dan geregelde meetinstrumenten, in verband met de uitvoering van een EU-besluit, regels als bedoeld in [artikel 5, eerste lid, onderdelen a tot en met d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2023-04-19&g=2023-04-19), worden vastgesteld.
 
-### Hoofdstuk 4. Toetsende instanties bij overeenstemmingsbeoordelingen
+##### Artikel 9a
+
+1. Indien Onze Minister vaststelt dat een meetinstrument dat aan de gestelde eisen voldoet een risico vormt voor de bescherming van een algemeen belang, kan hij de marktdeelnemer of de fulfilmentdienstverlener die het meetinstrument op de markt aanbiedt ertoe verplichten maatregelen te nemen.
+
+2. De in het eerste lid bedoelde maatregelen kunnen, afhankelijk van het vastgestelde risico, bestaan uit:
+
+- a. aanpassing van het meetinstrument waardoor het risico wordt weggenomen;
+
+- b. het niet langer op de markt aanbieden van een meetinstrument;
+
+- c. het uit de handel nemen van het meetinstrument of het terughalen bij gebruikers;
+
+- d. de in artikel 16, derde lid, onderdelen d tot en met g, van verordening (EU) 2019/1020 bedoelde maatregelen, voor zover het een meetinstrument betreft waar die verordening op van toepassing is.
+
+### Hoofdstuk 4. Toetsende instanties bij conformiteitsbeoordelingen
 
 #### Paragraaf 1. Aangewezen instanties en erkenningen
 
@@ -217,7 +246,7 @@ Met een aangewezen instantie als bedoeld in [artikel 12](https://wetten.overheid
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
@@ -230,6 +259,12 @@ Vervallen
 1. Een aangewezen instantie zendt jaarlijks voor 1 juni een verslag van de werkzaamheden in het afgelopen kalenderjaar aan Onze Minister.
 
 2. Bij ministeriële regeling kunnen nadere eisen worden gesteld aan het verslag.
+
+#### Paragraaf 3a. Interne instantie
+
+##### Artikel 21a
+
+Bij of krachtens algemene maatregel van bestuur worden eisen vastgesteld waaraan een interne instantie die werkzaamheden uitvoert in het kader van een conformiteitsbeoordeling moet voldoen en waaraan de fabrikant waar de interne instantie onderdeel van uitmaakt moet voldoen inzake het verstrekken van inlichtingen aan Onze Minister over deze instantie.
 
 ### Hoofdstuk 5. Verboden
 
@@ -259,6 +294,20 @@ Vervallen
 
 6. Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding van de kosten voor de behandeling van een aanvraag om ontheffing, alsmede omtrent de wijze van betaling.
 
+##### Artikel 23a
+
+1. Het is een ieder verboden een meetinstrument waar verordening (EU) 2019/1020 op van toepassing is, in de handel te brengen in strijd met artikel 4, eerste lid, van die verordening.
+
+2. Het is ten aanzien van een meetinstrument waar verordening (EU) 2019/1020 op van toepassing is, de fabrikant, de importeur, de gemachtigde, die is aangewezen om de in artikel 4, derde lid, van die verordening vermelde taken namens de fabrikant te verrichten of de fulfilmentdienstverlener verboden te handelen in strijd met artikel 4, derde en vierde lid, van die verordening.
+
+3. Het is de gemachtigde, bedoeld in het tweede lid, verboden te handelen in strijd met artikel 5, tweede lid, van verordening (EU) 2019/1020.
+
+##### Artikel 23b
+
+1. Het is een marktdeelnemer en een fulfilmentdienstverlener ten aanzien van een meetinstrument waar verordening (EU) 2019/1020 op van toepassing is, verboden te handelen in strijd met artikel 7, eerste lid, van die verordening.
+
+2. Het is aanbieders van diensten van de informatiemaatschappij ten aanzien van een meetinstrument waar verordening (EU) 2019/1020 op van toepassing is, verboden te handelen in strijd met artikel 7, tweede lid, van die verordening.
+
 ##### Artikel 24
 
 1. Het is een ieder verboden een meetinstrument te gebruiken, te bezitten of voorhanden te hebben voor een geregelde meettaak indien dat meetinstrument:
@@ -285,17 +334,21 @@ Vervallen
 
 2. Het is een ieder verboden een meetinstrument te voorzien van een merkteken dat kan leiden tot verwarring met krachtens de [artikelen 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2023-04-19&g=2023-04-19), of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9&z=2023-04-19&g=2023-04-19) voorgeschreven merktekens.
 
+##### Artikel 25a
+
+Het is de marktdeelnemer verboden te handelen in strijd met de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2023-04-19&g=2023-04-19), of [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9a&z=2023-04-19&g=2023-04-19) gestelde verplichtingen.
+
 ##### Artikel 26
 
 De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9&z=2023-04-19&g=2023-04-19) bedoelde regels kunnen een verbod inhouden om meetinstrumenten die niet aan de daarin gestelde eisen voldoen, in de handel te brengen, in gebruik te nemen of te op de markt aanbieden.
 
 ### Hoofdstuk 6. Toezicht en maatregelen
 
-#### Paragraaf 1. Toezichthoudende instantie
+#### Paragraaf 1. Toezicht
 
 ##### Artikel 27
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&z=2023-04-19&g=2023-04-19) en [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=8&artikel=39&z=2023-04-19&g=2023-04-19) van deze wet en [verordening (EU) 2019/1020](32920R2019), voor zover die betrekking heeft op de in bijlage I van die verordening, onder 3, 6, 28, 50 en 51 genoemde richtlijnen zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&z=2023-04-19&g=2023-04-19) en [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=8&artikel=39&z=2023-04-19&g=2023-04-19) van deze wet en verordening (EU) 2019/1020, voor zover die betrekking heeft op de in bijlage I van die verordening, onder 3, 6, 28, 50 en 51 genoemde richtlijnen zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Indien ambtenaren worden aangewezen die ressorteren onder een andere Minister, wordt het besluit tot aanwijzing van die ambtenaren genomen door Onze Minister in overeenstemming met die andere Minister.
 
@@ -307,7 +360,53 @@ De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&ar
 
 2. De ambtenaren, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2023-04-19&g=2023-04-19) mogen bij het toezicht in hun oordeel betrekken de bevindingen van personen, die in de uitoefening van een beroep of bedrijf meetinstrumenten controleren of onderhouden, indien de ambtenaren zich er van hebben verzekerd dat die personen over de vereiste deskundigheid beschikken en de onafhankelijkheid van het toezicht niet in het geding is.
 
-3. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover de ambtenaren, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2023-04-19&g=2023-04-19), bijstand verlenen aan een markttoezichtautoriteit als bedoeld in artikel 3, onderdeel 4, van [verordening (EU) 2019/1020](32920R2019) uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van die verordening.
+3. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover de ambtenaren, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2023-04-19&g=2023-04-19), bijstand verlenen aan een markttoezichtautoriteit als bedoeld in artikel 3, onderdeel 4, van verordening (EU) 2019/1020 uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van die verordening.
+
+##### Artikel 28a
+
+1. De ambtenaren, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2023-04-19&g=2023-04-19), zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van verordening (EU) 2019/1020.
+
+2. Voor het uitoefenen van de bevoegdheid, bedoeld in het eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
+
+3. Tegen de beslissing van de rechter-commissaris, bedoeld in het tweede lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
+
+4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
+
+##### Artikel 28b
+
+1. De ambtenaren, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2023-04-19&g=2023-04-19), zijn bevoegd om, ter uitvoering van verordening (EU) 2019/1020, onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, meetinstrumenten te verkrijgen en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
+
+2. De ambtenaar die gebruik heeft gemaakt van de bevoegdheid, bedoeld in het eerste lid, maakt daarvan een schriftelijk verslag op waarin hij vermeldt:
+
+- a. zijn naam of nummer en hoedanigheid;
+
+- b. de motivering van de noodzaak tot uitoefening van de bevoegdheid;
+
+- c. de voorschriften op de naleving waarvan wordt toegezien;
+
+- d. het adres, waaronder indien van toepassing, het elektronische adres, waar het meetinstrument is verkregen en, voor zover bekend, de omschrijving van de betrokken marktdeelnemer;
+
+- e. de onjuiste of onvolledige gegevens die bij de handelingen ten behoeve van het verkrijgen van het meetinstrument zijn verstrekt;
+
+- f. de wijze waarop en het tijdvak waarin de handelingen hebben plaatsgevonden;
+
+- g. hetgeen tijdens het onderzoek van het meetinstrument is verricht, gebleken en overigens is voorgevallen.
+
+##### Artikel 28c
+
+1. Ter uitvoering van verordening (EU) 2019/1020 kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een meetinstrument dat een risico vormt waarvoor, op basis van een risicobeoordeling en rekening houdend met het normale en voorzienbare gebruik van het meetinstrument, de combinatie van de waarschijnlijkheid dat zich een gevaar voordoet dat schade veroorzaakt en de ernst van die schade, een snel ingrijpen noodzakelijk wordt geacht, met inbegrip van de gevallen waarin de gevolgen van het risico zich niet onmiddellijk voordoen, een zelfstandige last opleggen aan degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface of opdracht te geven tot de duidelijke weergave van een waarschuwing voor eindgebruikers wanneer zij zich toegang verschaffen tot een online interface.
+
+2. Indien niet binnen de daarvoor gestelde termijn aan een last als bedoeld in het eerste lid is voldaan, kan Onze Minister een zelfstandige last opleggen aan een aanbieder van diensten van de informatiemaatschappij om alle maatregelen te treffen die redelijkerwijs van hem kunnen worden gevergd om de toegang tot een online interface te beperken, onder meer door een daarvoor in aanmerking komende derde te verzoeken dergelijke maatregelen uit te voeren.
+
+3. Degene tot wie een zelfstandige last als bedoeld in het eerste of tweede lid is gericht, handelt overeenkomstig die last.
+
+4. Op grond van het eerste of tweede lid kan geen zelfstandige last worden opgelegd die leidt tot het blokkeren of filteren van internetverkeer.
+
+5. Voor een zelfstandige last als bedoeld in het eerste of tweede lid is voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
+
+6. Tegen de beslissing van de rechter-commissaris, bedoeld in het vijfde lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
+
+7. Onze Minister maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste of tweede lid, bekend.
 
 ##### Artikel 29
 
@@ -315,19 +414,19 @@ Volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels k
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 2. Maatregelen
 
@@ -357,9 +456,9 @@ Beslissingen van een aangewezen instantie of van een natuurlijke persoon of een 
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk 7. Rechtsbescherming
+### Hoofdstuk 8. Overige bepalingen
 
 ##### Artikel 39
 
@@ -369,25 +468,25 @@ Indien krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoo
 
 1. Onze Minister zendt elke vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid van het functioneren van de aangewezen instanties.
 
-2. Vervallen.
+2. *Vervallen.*
 
-### Hoofdstuk 7. Rechtsbescherming
+### Hoofdstuk 9. Wijziging andere wetten
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
@@ -395,15 +494,15 @@ Vervallen
 
 ##### Artikel 45
 
-1. In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=23&z=2023-04-19&g=2023-04-19) mogen geregelde meetinstrumenten waarop [richtlijn 2004/22/EG](32004L0022) van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten van toepassing is, in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld, indien uiterlijk 29 oktober 2006 overeenkomstig [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.
+1. In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=23&z=2023-04-19&g=2023-04-19) mogen geregelde meetinstrumenten waarop richtlijn 2004/22/EG van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten van toepassing is, in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld, indien uiterlijk 29 oktober 2006 overeenkomstig [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.
 
-2. Het eerste lid is van toepassing tot de datum waarop de geldigheidsduur van de op grond van [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) afgegeven verklaring inzake de toelating van het model van het meetinstrument is verstreken, dan wel bij gebreke daaraan, tot 1 november 2016 of een door Onze Minister te bepalen eerdere datum.
+2. Het eerste lid is van toepassing tot de datum waarop de geldigheidsduur van de op grond van [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) afgegeven verklaring inzake de toelating van het model van het meetinstrument is verstreken, dan wel bij gebreke daaraan, tot 1 november 2016 of een door Onze Minister te bepalen eerdere datum.
 
-3. Indien voor een meetinstrument als bedoeld in het eerste lid op grond van [artikel 21b van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=21b) een vrijstelling of ontheffing is verleend, blijft deze vrijstelling of ontheffing geldig tot 1 november 2016.
+3. Indien voor een meetinstrument als bedoeld in het eerste lid op grond van [artikel 21b van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=21b) een vrijstelling of ontheffing is verleend, blijft deze vrijstelling of ontheffing geldig tot 1 november 2016.
 
 ##### Artikel 46
 
-1. In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=23&z=2023-04-19&g=2023-04-19) mogen andere geregelde meetinstrumenten dan bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=45&z=2023-04-19&g=2023-04-19) in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld indien uiterlijk 29 oktober 2006 overeenkomstig [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.
+1. In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=23&z=2023-04-19&g=2023-04-19) mogen andere geregelde meetinstrumenten dan bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=45&z=2023-04-19&g=2023-04-19) in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld indien uiterlijk 29 oktober 2006 overeenkomstig [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.
 
 2. Indien voor een ander geregeld meetinstrument dan bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=45&z=2023-04-19&g=2023-04-19), regels worden gesteld, worden daarbij de verkregen rechten uit een op grond van [artikel 21b](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=21b) of [21c, van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=21c) verleende ontheffing voor het desbetreffende meetinstrument die onmiddellijk voorafgaand aan de inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=9&artikel=44&z=2023-04-19&g=2023-04-19) geldig was, geëerbiedigd.
 
@@ -417,7 +516,7 @@ Vervallen
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49
 
@@ -429,7 +528,7 @@ Vervallen
 
 4. De in het derde lid bedoelde ijkbevoegde die beschikt over een krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2023-04-19&g=2023-04-19) verleende erkenning, is bevoegd:
 
-- a. de in het derde lid bedoelde werkzaamheden tot 1 november 2016 te verrichten;
+- a. de in het derde lid bedoelde werkzaamheden tot 1 november 2016 te verrichten;
 
 - b. de werkzaamheden die ingevolge de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) tot zijn bevoegdheid behoorden ten aanzien van de in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=47&z=2023-04-19&g=2023-04-19) bedoelde meetinstrumenten te verrichten.
 
@@ -437,11 +536,11 @@ Vervallen
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 2. Slotbepalingen
 
@@ -452,229 +551,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 53
 
 Deze wet wordt aangehaald als: Metrologiewet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2
-
-Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden vastgesteld en kunnen tevens regels worden gesteld betreffende:
-
-- a. het symbool, de aanduiding, de omschrijving en het gebruik van een meeteenheid;
-
-- b. de benaming en de meetstandaard van een grootheid.
-
-##### Artikel 3
-
-1. Indien krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=2&artikel=2&z=2023-04-19&g=2023-04-19) een nationale meetstandaard van een grootheid wordt verwezenlijkt of beheerd, wijst Onze Minister één in Nederland gevestigde instelling aan die tot taak heeft zorg te dragen voor het verwezenlijken en beheren van die nationale meetstandaard.
-
-2. Voor een aanwijzing komt in aanmerking een instelling die
-
-- a. wat betreft organisatie, personeel en materieel zodanig is ingericht dat de verwezenlijking of het beheer van de nationale meetstandaard van de betrokken grootheid kan worden verricht met inachtneming van hetgeen terzake door de bevoegde organen van het op 20 mei 1875 te Parijs gesloten verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel (Stb. 1929, 219) in het kader van dat verdrag is bepaald of in overeenstemming met het terzake bepaalde in een EU-besluit en
-
-- b. de in het eerste lid bedoelde taak onafhankelijk kan vervullen.
-
-3. De aanwijzing kan worden ingetrokken indien:
-
-- a. de betrokken instelling daarom verzoekt;
-
-- b. blijkt dat de instelling de op grond van deze wet gestelde regels ten aanzien van de meetstandaard niet naleeft;
-
-- c. de instelling niet meer voldoet aan de in het tweede lid bedoelde eisen;
-
-- d. de instelling niet voldoet aan andere uit deze wet voortvloeiende verplichtingen.
-
-4. Een op grond van het eerste lid aangewezen instelling herleidt de meetstandaarden van aangewezen instanties en toezichthouders op hun verzoek naar de nationale meetstandaard van de betrokken grootheid.
-
-5. Onze Minister kan een instelling aanwijzingen geven met betrekking tot de uitoefening van haar taak.
-
-##### Artikel 4
-
-1. Er is een Raad van deskundigen voor de nationale meetstandaarden die tot taak heeft:
-
-- a. toezicht uit te oefenen op de verwezenlijking en het beheer van nationale meetstandaarden en omtrent dat toezicht jaarlijks verslag uit te brengen aan Onze Minister en hem overigens van raad te dienen;
-
-- b. advies uit te brengen over aangelegenheden in verband met de meetstandaarden van grootheden.
-
-2. De raad wordt door Onze Minister in de gelegenheid gesteld zijn zienswijze te geven over het voornemen tot een aanwijzing of tot een intrekking van een aanwijzing op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=2&artikel=3&z=2023-04-19&g=2023-04-19).
-
-3. De raad bestaat uit ten hoogste negen leden.
-
-### Hoofdstuk 3. Meetinstrumenten
-
-### Hoofdstuk 4. Toetsende instanties bij overeenstemmingsbeoordelingen
-
-#### Paragraaf 1. Aangewezen instanties en erkenningen
-
-#### Paragraaf 2. Aanwijzing ingevolge wederzijdse erkenningsovereenkomst
-
-#### Paragraaf 3. Tarieven en jaarverslag
-
-### Hoofdstuk 5. Verboden
-
-#### Paragraaf 3a. Interne instantie
-
-### Hoofdstuk 6. Toezicht en maatregelen
-
-#### Paragraaf 1. Toezichthoudende instantie
-
-#### Paragraaf 2. Maatregelen
-
-### Hoofdstuk 8. Overige bepalingen
-
-### Hoofdstuk 10. Overgangs- en slotbepalingen
-
-#### Paragraaf 1. Overgangsbepalingen
-
-#### Paragraaf 2. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-1. Indien Onze Minister vaststelt dat een meetinstrument dat aan de gestelde eisen voldoet een risico vormt voor de bescherming van een algemeen belang, kan hij de marktdeelnemer of de fulfilmentdienstverlener die het meetinstrument op de markt aanbiedt ertoe verplichten maatregelen te nemen.
-
-2. De in het eerste lid bedoelde maatregelen kunnen, afhankelijk van het vastgestelde risico, bestaan uit:
-
-- a. aanpassing van het meetinstrument waardoor het risico wordt weggenomen;
-
-- b. het niet langer op de markt aanbieden van een meetinstrument;
-
-- c. het uit de handel nemen van het meetinstrument of het terughalen bij gebruikers;
-
-- d. de in artikel 16, derde lid, onderdelen d tot en met g, van [verordening (EU) 2019/1020](32920R2019) bedoelde maatregelen, voor zover het een meetinstrument betreft waar die verordening op van toepassing is.
-
-### Hoofdstuk 4. Toetsende instanties bij conformiteitsbeoordelingen
-
-#### Paragraaf 1. Aangewezen instanties en erkenningen
-
-#### Paragraaf 2. Aanwijzing ingevolge wederzijdse erkenningsovereenkomst
-
-#### Paragraaf 3. Tarieven en jaarverslag
-
-### Hoofdstuk 5. Verboden
-
-#### Paragraaf 1. Verboden
-
-##### Artikel 25a
-
-Het is de marktdeelnemer verboden te handelen in strijd met de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2023-04-19&g=2023-04-19), of [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9a&z=2023-04-19&g=2023-04-19) gestelde verplichtingen.
-
-### Hoofdstuk 6. Toezicht en maatregelen
-
-#### Paragraaf 1. Toezicht
-
-#### Paragraaf 2. Maatregelen
-
-### Hoofdstuk 7. Rechtsbescherming
-
-### Hoofdstuk 10. Overgangs- en slotbepalingen
-
-#### Paragraaf 1. Overgangsbepalingen
-
-#### Paragraaf 2. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 21a
-
-Bij of krachtens algemene maatregel van bestuur worden eisen vastgesteld waaraan een interne instantie die werkzaamheden uitvoert in het kader van een conformiteitsbeoordeling moet voldoen en waaraan de fabrikant waar de interne instantie onderdeel van uitmaakt moet voldoen inzake het verstrekken van inlichtingen aan Onze Minister over deze instantie.
-
-### Hoofdstuk 5. Verboden
-
-#### Paragraaf 1. Verboden
-
-### Hoofdstuk 6. Toezicht en maatregelen
-
-#### Paragraaf 1. Toezicht
-
-#### Paragraaf 2. Maatregelen
-
-### Hoofdstuk 7. Rechtsbescherming
-
-### Hoofdstuk 8. Overige bepalingen
-
-### Hoofdstuk 9. Wijziging andere wetten
-
-### Hoofdstuk 9. Wijziging andere wetten
-
-#### Paragraaf 1. Overgangsbepalingen
-
-#### Paragraaf 2. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 23a
-
-1. Het is een ieder verboden een meetinstrument waar [verordening (EU) 2019/1020](32920R2019) op van toepassing is, in de handel te brengen in strijd met artikel 4, eerste lid, van die verordening.
-
-2. Het is ten aanzien van een meetinstrument waar [verordening (EU) 2019/1020](32920R2019) op van toepassing is, de fabrikant, de importeur, de gemachtigde, die is aangewezen om de in artikel 4, derde lid, van die verordening vermelde taken namens de fabrikant te verrichten of de fulfilmentdienstverlener verboden te handelen in strijd met artikel 4, derde en vierde lid, van die verordening.
-
-3. Het is de gemachtigde, bedoeld in het tweede lid, verboden te handelen in strijd met artikel 5, tweede lid, van [verordening (EU) 2019/1020](32920R2019).
-
-##### Artikel 23b
-
-1. Het is een marktdeelnemer en een fulfilmentdienstverlener ten aanzien van een meetinstrument waar [verordening (EU) 2019/1020](32920R2019) op van toepassing is, verboden te handelen in strijd met artikel 7, eerste lid, van die verordening.
-
-2. Het is aanbieders van diensten van de informatiemaatschappij ten aanzien van een meetinstrument waar [verordening (EU) 2019/1020](32920R2019) op van toepassing is, verboden te handelen in strijd met artikel 7, tweede lid, van die verordening.
-
-### Hoofdstuk 6. Toezicht en maatregelen
-
-#### Paragraaf 1. Toezicht
-
-##### Artikel 28a
-
-1. De ambtenaren, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2023-04-19&g=2023-04-19), zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van [verordening (EU) 2019/1020](32920R2019).
-
-2. Voor het uitoefenen van de bevoegdheid, bedoeld in het eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
-
-3. Tegen de beslissing van de rechter-commissaris, bedoeld in het tweede lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
-
-4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
-
-##### Artikel 28b
-
-1. De ambtenaren, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2023-04-19&g=2023-04-19), zijn bevoegd om, ter uitvoering van [verordening (EU) 2019/1020](32920R2019), onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, meetinstrumenten te verkrijgen en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
-
-2. De ambtenaar die gebruik heeft gemaakt van de bevoegdheid, bedoeld in het eerste lid, maakt daarvan een schriftelijk verslag op waarin hij vermeldt:
-
-- a. zijn naam of nummer en hoedanigheid;
-
-- b. de motivering van de noodzaak tot uitoefening van de bevoegdheid;
-
-- c. de voorschriften op de naleving waarvan wordt toegezien;
-
-- d. het adres, waaronder indien van toepassing, het elektronische adres, waar het meetinstrument is verkregen en, voor zover bekend, de omschrijving van de betrokken marktdeelnemer;
-
-- e. de onjuiste of onvolledige gegevens die bij de handelingen ten behoeve van het verkrijgen van het meetinstrument zijn verstrekt;
-
-- f. de wijze waarop en het tijdvak waarin de handelingen hebben plaatsgevonden;
-
-- g. hetgeen tijdens het onderzoek van het meetinstrument is verricht, gebleken en overigens is voorgevallen.
-
-##### Artikel 28c
-
-1. Ter uitvoering van [verordening (EU) 2019/1020](32920R2019) kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een meetinstrument dat een risico vormt waarvoor, op basis van een risicobeoordeling en rekening houdend met het normale en voorzienbare gebruik van het meetinstrument, de combinatie van de waarschijnlijkheid dat zich een gevaar voordoet dat schade veroorzaakt en de ernst van die schade, een snel ingrijpen noodzakelijk wordt geacht, met inbegrip van de gevallen waarin de gevolgen van het risico zich niet onmiddellijk voordoen, een zelfstandige last opleggen aan degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface of opdracht te geven tot de duidelijke weergave van een waarschuwing voor eindgebruikers wanneer zij zich toegang verschaffen tot een online interface.
-
-2. Indien niet binnen de daarvoor gestelde termijn aan een last als bedoeld in het eerste lid is voldaan, kan Onze Minister een zelfstandige last opleggen aan een aanbieder van diensten van de informatiemaatschappij om alle maatregelen te treffen die redelijkerwijs van hem kunnen worden gevergd om de toegang tot een online interface te beperken, onder meer door een daarvoor in aanmerking komende derde te verzoeken dergelijke maatregelen uit te voeren.
-
-3. Degene tot wie een zelfstandige last als bedoeld in het eerste of tweede lid is gericht, handelt overeenkomstig die last.
-
-4. Op grond van het eerste of tweede lid kan geen zelfstandige last worden opgelegd die leidt tot het blokkeren of filteren van internetverkeer.
-
-5. Voor een zelfstandige last als bedoeld in het eerste of tweede lid is voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
-
-6. Tegen de beslissing van de rechter-commissaris, bedoeld in het vijfde lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
-
-7. Onze Minister maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste of tweede lid, bekend.
-
-#### Paragraaf 2. Maatregelen
-
-### Hoofdstuk 8. Overige bepalingen
-
-### Hoofdstuk 10. Overgangs- en slotbepalingen
-
-#### Paragraaf 1. Overgangsbepalingen
-
-#### Paragraaf 2. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

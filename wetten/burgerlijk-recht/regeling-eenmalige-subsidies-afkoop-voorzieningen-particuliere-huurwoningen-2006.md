@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 oktober 2006, nr. DJZ2006309407, Directie Juridische Zaken, Afdeling Wetgeving, houdende regels terzake van afkoop van jaarlijkse bijdragen, die krachtens de Regeling geldelijke steun voorzieningen aan particuliere huurwoningen 1985 zijn toegekend aan gemeenten (Regeling eenmalige subsidies afkoop voorzieningen particuliere huurwoningen 2006)"
+citeertitel: "Regeling eenmalige subsidies afkoop voorzieningen particuliere huurwoningen 2006"
 identifier: "BWBR0020425"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-11-29"
-last_updated: "2006-11-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020425"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "8671513"
-version_id: "13693842"
-internal_id: "C18494241"
-label_id: "8651804"
-dtd_version: "2.0"
-original_entry_into_force: "2006-10-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020425/2006-11-29/0"
-intitule_bron: "Stcrt.2006-207"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-10-13"
-intitule_published: "2006-10-24"
-intitule_in_force: "2006-10-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-207"
-original_signed_date: "2006-10-13"
-original_published_date: "2006-10-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-207-p9-SC77378"
-entry_into_force_date: "2006-10-26"
-jci_1_3: "jci1.3:c:BWBR0020425&z=2006-11-29&g=2006-11-29"
-jci_1_0: "1.0:c:BWBR0020425&g=2006-11-29"
-citeertitel_status: "officieel"
-short_title: "Regeling eenmalige subsidies afkoop voorzieningen particuliere huurwoningen 2006"
-signed_date: "2006-10-13"
-entry_into_force: "2006-10-26"
+publicatiedatum: 2006-10-26
+laatste_update: 2006-11-29
+status: geldig
+toestand: 2006-11-29
+bron: "https://wetten.overheid.nl/BWBR0020425"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 oktober 2006, nr. DJZ2006309407, Directie Juridische Zaken, Afdeling Wetgeving, houdende regels terzake van afkoop van jaarlijkse bijdragen, die krachtens de Regeling geldelijke steun voorzieningen aan particuliere huurwoningen 1985 zijn toegekend aan gemeenten (Regeling eenmalige subsidies afkoop voorzieningen particuliere huurwoningen 2006)
-
-Gelet op [artikel 2, eerste lid, van het Invoeringsbesluit Wet stedelijke vernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0011957&artikel=2);
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepaling
 
@@ -137,5 +111,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling eenmalige subsidies afkoop voorzieningen particuliere huurwoningen 2006.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

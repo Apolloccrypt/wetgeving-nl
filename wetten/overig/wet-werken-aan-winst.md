@@ -1,84 +1,54 @@
 ---
 title: "Wet van 30 november 2006, houdende wijziging van belastingwetten ter realisering van de doelstelling uit de nota «Werken aan winst» (Wet werken aan winst)"
+citeertitel: "Wet werken aan winst"
 identifier: "BWBR0020645"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020645"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "8766553"
-version_id: "13880382"
-internal_id: "C18815611"
-label_id: "8746504"
-dtd_version: "2.0"
-original_entry_into_force: "2006-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020645/2019-01-01/0"
-intitule_bron: "Stb.2006-631"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-30"
-intitule_published: "2006-12-12"
-intitule_in_force: "2006-12-12"
-intitule_status: "goed"
-original_publication: "Stb.2006-631"
-original_signed_date: "2006-11-30"
-original_published_date: "2006-12-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "30572"
-original_url_id: "stb-2006-631"
-entry_into_force_date: "2006-12-31"
-entry_into_force_dossier: "30572"
-jci_1_3: "jci1.3:c:BWBR0020645&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0020645&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet werken aan winst"
-signed_date: "2006-11-30"
-entry_into_force: "2006-12-31"
+publicatiedatum: 2006-12-31
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0020645"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 30 november 2006, houdende wijziging van belastingwetten ter realisering van de doelstelling uit de nota «Werken aan winst» (Wet werken aan winst)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het ondernemingsklimaat in Nederland wenselijk is fiscale wetgeving aan te passen om de doelstellingen uit de nota «Werken aan winst; naar een laag tarief en een brede grondslag» (Kamerstukken II 2004–2005, 30 107, nr. 2), te realiseren;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel IIIa
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel IIIb
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel IV
 
-Wijzigt het Belastingplan 2005.
+*Wijzigt het Belastingplan 2005.*
 
 ##### Artikel V
 
-Wijzigt de Wijzigingswet Wet op de vennootschapsbelasting 1969 (invoering aftrekverbod aankoopkosten van een deelneming).
+*Wijzigt de Wijzigingswet Wet op de vennootschapsbelasting 1969 (invoering aftrekverbod aankoopkosten van een deelneming).*
 
 ##### Artikel VI
 
-Wijzigt de Wijzigingswet van enkele belastingwetten (herziening behandeling omzetting en kwijtschelding van afgewaardeerde vorderingen en aanpassing regeling voor afwaarderingsverliezen van deelnemingen).
+*Wijzigt de Wijzigingswet van enkele belastingwetten (herziening behandeling omzetting en kwijtschelding van afgewaardeerde vorderingen en aanpassing regeling voor afwaarderingsverliezen van deelnemingen).*
 
 ##### Artikel VII
 
-Wijzigt de Wijzigingswet van enkele belastingwetten (implementatie van Richtlijn 2003/123/EG).
+*Wijzigt de Wijzigingswet van enkele belastingwetten (implementatie van Richtlijn 2003/123/EG).*
 
 ##### Artikel VIII
 
@@ -104,7 +74,7 @@ De wijziging ingevolge [artikel II, onderdeel J](https://wetten.overheid.nl/jci1
 
 ##### Artikel VIIIc
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VIIId
 
@@ -150,7 +120,7 @@ Ingeval ten aanzien van een belastingplichtige voor de inwerkingtreding van deze
 
 4. In afwijking van het eerste lid treedt [artikel II, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2019-01-01&g=2019-01-01), voor zover dat betrekking heeft op het in te voegen [artikel 12b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben en vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
 
-5. Vervallen.
+5. *Vervallen.*
 
 6. In afwijking van het eerste lid treden [artikel I, onderdelen Da en Ea](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=I&z=2019-01-01&g=2019-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben.
 
@@ -159,5 +129,3 @@ Ingeval ten aanzien van een belastingplichtige voor de inwerkingtreding van deze
 ##### Artikel XIV
 
 Deze wet wordt aangehaald als: Wet werken aan winst.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

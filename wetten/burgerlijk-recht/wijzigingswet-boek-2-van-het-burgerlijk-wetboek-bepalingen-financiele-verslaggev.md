@@ -1,51 +1,22 @@
 ---
 title: "Wet van 22 maart 2006 tot wijziging van Boek 2 van het Burgerlijk Wetboek in verband met de wijziging van bepalingen voor de financiële verslaggeving door verzekeringsmaatschappijen"
+citeertitel: "Wijzigingswet Boek 2 van het Burgerlijk Wetboek (bepalingen financiële verslaggeving verzekeringsmaatschappijen)"
 identifier: "BWBR0019682"
-country: "nl"
-rank: "wet"
-publication_date: "2006-06-01"
-last_updated: "2006-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019682"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "8182683"
-version_id: "13001742"
-internal_id: "C17674601"
-label_id: "8163774"
-dtd_version: "2.0"
-original_entry_into_force: "2006-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019682/2006-06-01/0"
-intitule_bron: "Stb.2006-180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-03-22"
-intitule_published: "2006-04-04"
-intitule_in_force: "2006-05-11"
-intitule_status: "goed"
-original_publication: "Stb.2006-180"
-original_signed_date: "2006-03-22"
-original_published_date: "2006-04-04"
-original_effect: "nieuwe-regeling"
-original_dossier: "28799"
-original_url_id: "stb-2006-180"
-entry_into_force_date: "2006-06-01"
-jci_1_3: "jci1.3:c:BWBR0019682&z=2006-06-01&g=2006-06-01"
-jci_1_0: "1.0:c:BWBR0019682&g=2006-06-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Boek 2 van het Burgerlijk Wetboek (bepalingen financiële verslaggeving verzekeringsmaatschappijen)"
-signed_date: "2006-03-22"
-entry_into_force: "2006-06-01"
+publicatiedatum: 2006-06-01
+laatste_update: 2006-06-01
+status: geldig
+toestand: 2006-06-01
+bron: "https://wetten.overheid.nl/BWBR0019682"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 22 maart 2006 tot wijziging van Boek 2 van het Burgerlijk Wetboek in verband met de wijziging van bepalingen voor de financiële verslaggeving door verzekeringsmaatschappijen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het Burgerlijk Wetboek te wijzigen met het oog op de verbetering van de kwaliteit en de transparantie van de financiële verslaggeving door verzekeringsmaatschappijen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt Boek 2 van het Burgerlijk Wetboek.
+*Wijzigt Boek 2 van het Burgerlijk Wetboek.*
 
 ##### Artikel II
 
@@ -56,5 +27,3 @@ Wijzigt Boek 2 van het Burgerlijk Wetboek.
 ##### Artikel III
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

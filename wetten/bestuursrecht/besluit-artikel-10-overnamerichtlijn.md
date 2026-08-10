@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 5 april 2006 tot uitvoering van artikel 10 van Richtlijn 2004/25/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende het openbaar overnamebod (Besluit artikel 10 overnamerichtlijn)"
+citeertitel: "Besluit artikel 10 overnamerichtlijn"
 identifier: "BWBR0019731"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-11-01"
-last_updated: "2015-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019731"
+categorie: "Internationaal recht"
 soort: "AMvB"
-stam_id: "8226873"
-version_id: "13032502"
-internal_id: "C17864661"
-label_id: "8207974"
-dtd_version: "2.0"
-original_entry_into_force: "2006-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019731/2015-11-01/0"
-intitule_bron: "Stb.2006-191"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-04-05"
-intitule_published: "2006-04-20"
-intitule_in_force: "2006-06-27"
-intitule_status: "goed"
-original_publication: "Stb.2006-191"
-original_signed_date: "2006-04-05"
-original_published_date: "2006-04-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2006-191"
-entry_into_force_date: "2006-12-31"
-jci_1_3: "jci1.3:c:BWBR0019731&z=2015-11-01&g=2015-11-01"
-jci_1_0: "1.0:c:BWBR0019731&g=2015-11-01"
-citeertitel_status: "officieel"
-short_title: "Besluit artikel 10 overnamerichtlijn"
-signed_date: "2006-04-05"
-entry_into_force: "2006-12-31"
+publicatiedatum: 2006-12-31
+laatste_update: 2015-11-01
+status: geldig
+toestand: 2015-11-01
+bron: "https://wetten.overheid.nl/BWBR0019731"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van 5 april 2006 tot uitvoering van artikel 10 van Richtlijn 2004/25/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende het openbaar overnamebod (Besluit artikel 10 overnamerichtlijn)
-
-Op de voordracht van Onze Minister van Justitie van 8 juli 2005, nr. 5362278/05/6;
-
-Gelet op artikel 10 van [Richtlijn 2004/25/EG](32004L0025) van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende het openbaar overnamebod en [artikel 391 lid 5 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391);
-
-De Raad van State gehoord (advies van 28 september 2005, nr. W03.05.0309/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 28 maart 2006, Directie Wetgeving, nr. 5411517/06/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -83,5 +51,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit artikel 10 overnamerichtlijn.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

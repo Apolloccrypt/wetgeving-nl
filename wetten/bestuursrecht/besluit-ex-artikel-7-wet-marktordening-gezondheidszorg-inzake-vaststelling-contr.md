@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 24 oktober 2006, nr. MC-2725263, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de vaststelling van de contracteerruimte 2007 voor de Algemene Wet Bijzondere Ziektekosten"
+citeertitel: "Besluit ex artikel 7 Wet marktordening gezondheidszorg inzake vaststelling contracteerruimte 2007 voor AWBZ"
 identifier: "BWBR0020456"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-10-31"
-last_updated: "2006-10-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020456"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "8698503"
-version_id: "13724382"
-internal_id: "C18527481"
-label_id: "8678694"
-dtd_version: "2.0"
-original_entry_into_force: "2006-10-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020456/2006-10-31/0"
-intitule_bron: "Stcrt.2006-212"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-10-24"
-intitule_published: "2006-10-31"
-intitule_in_force: "2006-10-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-212"
-original_signed_date: "2006-10-24"
-original_published_date: "2006-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-212-p13-SC77424"
-entry_into_force_date: "2006-10-31"
-jci_1_3: "jci1.3:c:BWBR0020456&z=2006-10-31&g=2006-10-31"
-jci_1_0: "1.0:c:BWBR0020456&g=2006-10-31"
-citeertitel_status: "redactioneel"
-short_title: "Besluit ex artikel 7 Wet marktordening gezondheidszorg inzake vaststelling contracteerruimte 2007 voor AWBZ"
-signed_date: "2006-10-24"
-entry_into_force: "2006-10-31"
+publicatiedatum: 2006-10-31
+laatste_update: 2006-10-31
+status: geldig
+toestand: 2006-10-31
+bron: "https://wetten.overheid.nl/BWBR0020456"
+opgehaald: 2026-08-10
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 24 oktober 2006, nr. MC-2725263, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de vaststelling van de contracteerruimte 2007 voor de Algemene Wet Bijzondere Ziektekosten
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -58,37 +32,37 @@ De Nederlandse Zorgautoriteit bepaalt de totale contracteerruimte voor het jaar 
 
 - 3. Het bedrag voortvloeiend uit 2. wordt verlaagd met:
 
-- a. de € 95 miljoen die incidenteel aan de contracteerruimte 2006 is toegevoegd voor knelpunten (zie ook [artikel 4, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020456&artikel=4&z=2006-10-31&g=2006-10-31).);
+   - a. de € 95 miljoen die incidenteel aan de contracteerruimte 2006 is toegevoegd voor knelpunten (zie ook [artikel 4, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020456&artikel=4&z=2006-10-31&g=2006-10-31).);
 
-- b. bedragen die samenhangen met relevante overhevelingen met ingang van 2007 vanuit de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) naar elders. Het gaat om de volgende overhevelingen:
+   - b. bedragen die samenhangen met relevante overhevelingen met ingang van 2007 vanuit de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) naar elders. Het gaat om de volgende overhevelingen:
 
-- –. van huishoudelijke verzorging (ca. € 1.200 miljoen) naar de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031);
+      - – van huishoudelijke verzorging (ca. € 1.200 miljoen) naar de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031);
 
-- –. van de Openbare Geestelijke Gezondheidszorg (waarvan € 30 miljoen ten laste van de contracteerruimte en € 24,1 miljoen ten laste van de groeimiddelen, zodat in totaal € 54,1 miljoen wordt overgeheveld) naar de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031);
+      - – van de Openbare Geestelijke Gezondheidszorg (waarvan € 30 miljoen ten laste van de contracteerruimte en € 24,1 miljoen ten laste van de groeimiddelen, zodat in totaal € 54,1 miljoen wordt overgeheveld) naar de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031);
 
-- –. van de collectieve, preventieve Geestelijke Gezondheidszorg (€ 9,5 miljoen) naar de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031);
+      - – van de collectieve, preventieve Geestelijke Gezondheidszorg (€ 9,5 miljoen) naar de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031);
 
-- –. van het product Advies, Instructie en Voorlichting gericht op preventie en voedingsvoorlichting naar de begroting van het Ministerie van Volksgezondheid, Welzijn en Sport (€ 16 miljoen);
+      - – van het product Advies, Instructie en Voorlichting gericht op preventie en voedingsvoorlichting naar de begroting van het Ministerie van Volksgezondheid, Welzijn en Sport (€ 16 miljoen);
 
-- –. van forensische zorg in een strafrechtelijk kader naar de begroting van het Ministerie van Justitie (€ 213,8 miljoen).
+      - – van forensische zorg in een strafrechtelijk kader naar de begroting van het Ministerie van Justitie (€ 213,8 miljoen).
 
 - 4. Het bedrag voortvloeiend uit 3. wordt verhoogd met de zogenaamde groeimiddelen, die beschikbaar zijn voor het maken van extra productieafspraken. Voor 2007 gaat het om maximaal € 561 miljoen:
 
-- a. Op de maximaal beschikbare groeimiddelen voor 2007 worden in mindering gebracht de uitgaven waarvoor geen dekking is. Het betreft: Voor 2007 resteert dus € 489,9 miljoen voor het maken van extra productieafspraken.
+   - a. Op de maximaal beschikbare groeimiddelen voor 2007 worden in mindering gebracht de uitgaven waarvoor geen dekking is. Het betreft: Voor 2007 resteert dus € 489,9 miljoen voor het maken van extra productieafspraken.
 
-- –. reserveringen voor de overheveling Openbare Geestelijke Gezondheidszorg naar de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) (€ 24,1 miljoen);
+      - – reserveringen voor de overheveling Openbare Geestelijke Gezondheidszorg naar de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) (€ 24,1 miljoen);
 
-- –. indexering van huishoudelijke verzorging van 2006 naar 2007 bij overheveling naar de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) (€ 17 miljoen);
+      - – indexering van huishoudelijke verzorging van 2006 naar 2007 bij overheveling naar de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) (€ 17 miljoen);
 
-- –. overschrijding van het macro kader voor het persoonsgebonden budget in 2006 (geschat op € 30 miljoen).
+      - – overschrijding van het macro kader voor het persoonsgebonden budget in 2006 (geschat op € 30 miljoen).
 
-- b. Van deze resterende groeimiddelen is in 2007 een deel reeds gereserveerd voor voorziene productieafspraken. Het gaat om: De omvang van de groeimiddelen voor 2007 die niet zijn belegd bedraagt op basis van het voorgaande € 271,9 miljoen.
+   - b. Van deze resterende groeimiddelen is in 2007 een deel reeds gereserveerd voor voorziene productieafspraken. Het gaat om: De omvang van de groeimiddelen voor 2007 die niet zijn belegd bedraagt op basis van het voorgaande € 271,9 miljoen.
 
-- –. de geschatte exploitatie gevolgen van nieuw in gebruik genomen en uitbreiding van bestaande voorzieningen waarvoor contracteerplicht bestaat (€ 125 miljoen);
+      - – de geschatte exploitatie gevolgen van nieuw in gebruik genomen en uitbreiding van bestaande voorzieningen waarvoor contracteerplicht bestaat (€ 125 miljoen);
 
-- –. terugdringen van wachtlijsten in de Jeugd Geestelijke Gezondheidszorg (waarvan € 33 miljoen ten laste van de groeimiddelen; in totaal is in 2007 maximaal € 48 miljoen beschikbaar);
+      - – terugdringen van wachtlijsten in de Jeugd Geestelijke Gezondheidszorg (waarvan € 33 miljoen ten laste van de groeimiddelen; in totaal is in 2007 maximaal € 48 miljoen beschikbaar);
 
-- –. inzet voor maatschappelijke opvang in de vier grote steden (€ 60 miljoen).
+      - – inzet voor maatschappelijke opvang in de vier grote steden (€ 60 miljoen).
 
 ##### Artikel 4
 

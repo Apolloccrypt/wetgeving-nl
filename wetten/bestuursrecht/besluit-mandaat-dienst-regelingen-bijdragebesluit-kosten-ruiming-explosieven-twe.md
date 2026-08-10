@@ -1,43 +1,17 @@
 ---
 title: "Besluit mandaat Dienst Regelingen Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999"
 identifier: "BWBR0020045"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-02-08"
-last_updated: "2008-02-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020045"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "8525033"
-version_id: "15151522"
-internal_id: "C20655031"
-label_id: "8505384"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020045/2008-02-08/0"
-intitule_bron: "Stcrt.2006-137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-05"
-intitule_published: "2006-07-18"
-intitule_in_force: "2006-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-26"
-original_signed_date: "2008-01-25"
-original_published_date: "2008-02-06"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2008-26-p9-SC84358"
-entry_into_force_date: "2008-01-25"
-jci_1_3: "jci1.3:c:BWBR0020045&z=2008-02-08&g=2008-02-08"
-jci_1_0: "1.0:c:BWBR0020045&g=2008-02-08"
-citeertitel_status: "officieel"
-signed_date: "2008-01-25"
-entry_into_force: "2008-01-25"
+publicatiedatum: 2008-01-25
+laatste_update: 2008-02-08
+status: geldig
+toestand: 2008-02-08
+bron: "https://wetten.overheid.nl/BWBR0020045"
+opgehaald: 2026-08-10
 ---
+
 # Besluit mandaat Dienst Regelingen Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999
-
-In overeenstemming met de Minister van Landbouw Natuur en Voedselkwaliteit;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -95,6 +69,14 @@ De teammanagers uitvoering, de regelingsmanagers en de unitmanagers van de Diens
 
 - b. verzoeken tot vergoeding van kosten die een indiener in verband met de behandeling van een bezwaarschrift heeft gemaakt, zoals bedoeld in [artikel 7:15, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15).
 
+##### Artikel 4a
+
+De algemeen directeur, de directeur projecten, de directeur uitvoering en de manager en plaatsvervangend manager recht en rechtsbescherming zijn bevoegd om namens de minister besluiten te nemen en stukken te ondertekenen met betrekking tot:
+
+- a. de machtiging van medewerkers werkzaam bij Dienst Regelingen om de minister te vertegenwoordigen bij de bestuursrechter inzake beroepen en andere rechtsmiddelen als onder b. bedoeld, die aanhangig zijn tegen of betrekking hebben op beslissingen die zijn genomen in het kader van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010700);
+
+- b. het instellen van hoger beroep of verzet, het indienen van een verzoek om voorlopige voorziening of een verzoek om opheffing van een voorlopige voorziening of het instellen van een ander rechtsmiddel tegen rechterlijke uitspraken in gedingen in het kader van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010700).
+
 ##### Artikel 5
 
 De ondertekening, bedoeld in de [artikelen 2 tot en met 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020045&artikel=2&z=2008-02-08&g=2008-02-08), luidt:
@@ -144,15 +126,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit mandaat Dienst Regelingen Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-De algemeen directeur, de directeur projecten, de directeur uitvoering en de manager en plaatsvervangend manager recht en rechtsbescherming zijn bevoegd om namens de minister besluiten te nemen en stukken te ondertekenen met betrekking tot:
-
-- a. de machtiging van medewerkers werkzaam bij Dienst Regelingen om de minister te vertegenwoordigen bij de bestuursrechter inzake beroepen en andere rechtsmiddelen als onder b. bedoeld, die aanhangig zijn tegen of betrekking hebben op beslissingen die zijn genomen in het kader van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010700);
-
-- b. het instellen van hoger beroep of verzet, het indienen van een verzoek om voorlopige voorziening of een verzoek om opheffing van een voorlopige voorziening of het instellen van een ander rechtsmiddel tegen rechterlijke uitspraken in gedingen in het kader van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010700).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

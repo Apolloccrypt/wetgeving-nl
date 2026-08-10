@@ -1,42 +1,17 @@
 ---
 title: "Regeling Instructie DBC-registratie"
 identifier: "BWBR0020767"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-12-20"
-last_updated: "2006-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020767"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "8810363"
-version_id: "13964312"
-internal_id: "C18986001"
-label_id: "8790114"
-dtd_version: "2.0"
-original_entry_into_force: "2006-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020767/2006-12-20/0"
-intitule_bron: "Stcrt.2006-246"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2006-12-18"
-intitule_in_force: "2006-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-246"
-original_published_date: "2006-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-246-p39-SC78534"
-entry_into_force_date: "2006-12-20"
-jci_1_3: "jci1.3:c:BWBR0020767&z=2006-12-20&g=2006-12-20"
-jci_1_0: "1.0:c:BWBR0020767&g=2006-12-20"
-citeertitel_status: "officieel"
-entry_into_force: "2006-12-20"
+publicatiedatum: 2006-12-20
+laatste_update: 2006-12-20
+status: geldig
+toestand: 2006-12-20
+bron: "https://wetten.overheid.nl/BWBR0020767"
+opgehaald: 2026-08-10
 ---
+
 # Regeling Instructie DBC-registratie
-
-De Nederlandse Zorgautoriteit (NZa),
-
-Gelet op de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg);
-
-Heeft de volgende regeling vastgesteld:
 
 ##### Artikel 1. Algemeen
 
@@ -46,9 +21,13 @@ Deze regeling is van toepassing op zorg of dienst als omschreven bij of krachten
 
 In het vervolg van deze regeling wordt verstaan onder:
 
+2.1 Zorgaanbieder
+
 De natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig
 
 zorg verleent, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020767&artikel=1&z=2006-12-20&g=2006-12-20) van deze regeling.
+
+2.2 DBC
 
 Diagnose behandeling combinatie: het geheel van activiteiten en verrichtingen van een zorgaanbieder voortvloeiend uit de zorgvraag waarmee een cliënt de zorgaanbieders consulteert.
 

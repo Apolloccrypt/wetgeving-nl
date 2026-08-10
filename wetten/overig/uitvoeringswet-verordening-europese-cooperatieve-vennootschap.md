@@ -1,47 +1,18 @@
 ---
 title: "Wet van 14 september 2006 tot uitvoering van verordening (EG) Nr. 1435/2003 van de Raad van de Europese Unie van 22 juli 2003 betreffende het statuut voor een Europese Coöperatieve Vennootschap (SCE) (Uitvoeringswet verordening Europese coöperatieve vennootschap)"
+citeertitel: "Uitvoeringswet verordening Europese coöperatieve vennootschap"
 identifier: "BWBR0020302"
-country: "nl"
-rank: "wet"
-publication_date: "2017-09-01"
-last_updated: "2017-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020302"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "8598883"
-version_id: "13569922"
-internal_id: "C18366001"
-label_id: "8579334"
-dtd_version: "2.0"
-original_entry_into_force: "2006-10-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020302/2017-09-01/0"
-intitule_bron: "Stb.2006-425"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-09-14"
-intitule_published: "2006-09-26"
-intitule_in_force: "2006-10-12"
-intitule_status: "goed"
-original_publication: "Stb.2006-425"
-original_signed_date: "2006-09-14"
-original_published_date: "2006-09-26"
-original_effect: "nieuwe-regeling"
-original_dossier: "30382"
-original_url_id: "stb-2006-425"
-entry_into_force_date: "2006-10-13"
-jci_1_3: "jci1.3:c:BWBR0020302&z=2017-09-01&g=2017-09-01"
-jci_1_0: "1.0:c:BWBR0020302&g=2017-09-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet verordening Europese coöperatieve vennootschap"
-signed_date: "2006-09-14"
-entry_into_force: "2006-10-13"
+publicatiedatum: 2006-10-13
+laatste_update: 2017-09-01
+status: geldig
+toestand: 2017-09-01
+bron: "https://wetten.overheid.nl/BWBR0020302"
+opgehaald: 2026-08-10
 ---
+
 # Wet van 14 september 2006 tot uitvoering van verordening (EG) Nr. 1435/2003 van de Raad van de Europese Unie van 22 juli 2003 betreffende het statuut voor een Europese Coöperatieve Vennootschap (SCE) (Uitvoeringswet verordening Europese coöperatieve vennootschap)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat [Verordening (EG) 1435/2003](32003R1435) van de Raad van de Europese Unie van 22 juli 2003 betreffende het statuut voor een Europese Coöperatieve Vennootschap (SCE) (PbEU L 207) moet worden uitgevoerd;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Voor de toepassing van de [artikelen 2 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020302&hoofdstuk=1&artikel=2&z=2017-09-01&g=2017-09-01) van deze wet wordt verstaan onder:
 
-- a. Verordening: de [Verordening (EG) nr. 1435/2003](32003R1435) van de Raad van de Europese Unie van 22 juli 2003 betreffende het statuut voor een Europese Coöperatieve Vennootschap (SCE) (PbEU L 207);
+- a. Verordening: de Verordening (EG) nr. 1435/2003 van de Raad van de Europese Unie van 22 juli 2003 betreffende het statuut voor een Europese Coöperatieve Vennootschap (SCE) (PbEU L 207);
 
 - b. Europese coöperatieve vennootschap: een vennootschap, opgericht overeenkomstig de Verordening.
 
@@ -157,15 +128,15 @@ Als bevoegde autoriteit in de zin van artikel 73, vijfde lid, van de Verordening
 
 ##### Artikel 22
 
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel 23
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 24
 
-Wijzigt de Handelsregisterwet 1996.
+*Wijzigt de Handelsregisterwet 1996.*
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -176,5 +147,3 @@ Deze wet wordt aangehaald als: Uitvoeringswet verordening Europese coöperatieve
 ##### Artikel 26
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

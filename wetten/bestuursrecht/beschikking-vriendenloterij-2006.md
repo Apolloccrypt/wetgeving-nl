@@ -1,52 +1,18 @@
 ---
 title: "Beschikking van de Minister van Justitie van 23 december 2005, nr. L.O. 730/0002/5393381, tot afgifte van de Beschikking Sponsorloterij"
+citeertitel: "Beschikking Vriendenloterij 2006"
 identifier: "BWBR0019398"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019398"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "8102813"
-version_id: "12939322"
-internal_id: "C17434481"
-label_id: "8084054"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019398/2011-01-01/0"
-intitule_bron: "Stcrt.2006-49"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-23"
-intitule_published: "2006-03-09"
-intitule_in_force: "2006-03-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-49"
-original_signed_date: "2005-12-23"
-original_published_date: "2006-03-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-49-p23-SC74124"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0019398&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0019398&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Beschikking Vriendenloterij 2006"
-signed_date: "2005-12-23"
-entry_into_force: "2006-01-01"
+publicatiedatum: 2006-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0019398"
+opgehaald: 2026-08-10
 ---
+
 # Beschikking van de Minister van Justitie van 23 december 2005, nr. L.O. 730/0002/5393381, tot afgifte van de Beschikking Sponsorloterij
-
-Overwegende dat de geldigheidsduur van de Beschikking Sponsorloterij op 31 december 2005 verstrijkt;
-
-Overwegende dat Sponsor Loterij B.V. op 16 augustus 2005 heeft verzocht haar opnieuw vergunning te verlenen voor het organiseren van de Sponsor Loterij;
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3),[5](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=5) en[34 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34), en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=2) en [5 van het Kansspelbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=5);
-
-Gezien het advies van het College van toezicht op de kansspelen van 29 september 2005, nr. C.753/05;
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -209,5 +175,3 @@ De [beschikking Sponsorloterij](https://wetten.overheid.nl/jci1.3:c:BWBR0009233)
 ##### Artikel 20
 
 Deze beschikking wordt aangehaald als: Beschikking Vriendenloterij 2006.
-
-Deze beschikking treedt in werking met ingang van 1 januari 2006 en zal worden gepubliceerd in de Staatscourant.

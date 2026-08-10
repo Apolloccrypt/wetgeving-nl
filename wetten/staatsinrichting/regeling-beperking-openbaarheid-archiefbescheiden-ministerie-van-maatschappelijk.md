@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 3 februari 2006, nr. KICK 2652266, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van het Ministerie van Maatschappelijk Werk over de periode 1952–1965"
+citeertitel: "Regeling beperking openbaarheid archiefbescheiden (Ministerie van Maatschappelijk Werk 1952–1965)"
 identifier: "BWBR0019526"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-02-11"
-last_updated: "2006-02-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019526"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "7995323"
-version_id: "12860802"
-internal_id: "C17338311"
-label_id: "7982934"
-dtd_version: "2.0"
-original_entry_into_force: "2006-02-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019526/2006-02-11/0"
-intitule_bron: "Stcrt.2006-29"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-03"
-intitule_published: "2006-02-09"
-intitule_in_force: "2006-02-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-29"
-original_signed_date: "2006-02-03"
-original_published_date: "2006-02-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-29-p21-SC73772"
-entry_into_force_date: "2006-02-11"
-jci_1_3: "jci1.3:c:BWBR0019526&z=2006-02-11&g=2006-02-11"
-jci_1_0: "1.0:c:BWBR0019526&g=2006-02-11"
-citeertitel_status: "redactioneel"
-short_title: "Regeling beperking openbaarheid archiefbescheiden (Ministerie van Maatschappelijk Werk 1952–1965)"
-signed_date: "2006-02-03"
-entry_into_force: "2006-02-11"
+publicatiedatum: 2006-02-11
+laatste_update: 2006-02-11
+status: geldig
+toestand: 2006-02-11
+bron: "https://wetten.overheid.nl/BWBR0019526"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 3 februari 2006, nr. KICK 2652266, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van het Ministerie van Maatschappelijk Werk over de periode 1952–1965
-
-Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -55,7 +29,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer worden de in de [a
 
 ##### Artikel 2
 
-Raadpleging van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019526&artikel=1&z=2006-02-11&g=2006-02-11) bedoelde archiefbescheiden is slechts mogelijk na ondertekening van het door het Nationaal Archief gehanteerde ‘Formulier voor toestemming tot raadpleging van niet-openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd.
+Raadpleging van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019526&artikel=1&z=2006-02-11&g=2006-02-11) bedoelde archiefbescheiden is slechts mogelijk na ondertekening van het door het Nationaal Archief gehanteerde ‘Formulier voor toestemming tot raadpleging van niet-openbare archieven’; een exemplaar van dit formulier is als [bijlage](https://wetten.overheid.nl/BWBR0019526) bij dit besluit gevoegd.
 
 ##### Artikel 3
 
@@ -64,7 +38,3 @@ Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden uit do
 ##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
-
-## Bijlage
-
-Deze regeling zal in de Staatscourant worden geplaatst.

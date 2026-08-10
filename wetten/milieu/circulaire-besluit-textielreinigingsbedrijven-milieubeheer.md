@@ -1,38 +1,16 @@
 ---
 title: "Circulaire Besluit textielreinigingsbedrijven milieubeheer"
 identifier: "BWBR0019712"
-country: "nl"
-rank: "circulaire"
-publication_date: "2006-04-01"
-last_updated: "2006-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019712"
+categorie: "Milieu"
 soort: "circulaire"
-stam_id: "8215253"
-version_id: "13024792"
-internal_id: "C17529761"
-label_id: "8196324"
-dtd_version: "2.0"
-original_entry_into_force: "2006-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019712/2006-04-01/0"
-intitule_bron: "Stcrt.2006-71"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-03-28"
-intitule_published: "2006-04-10"
-intitule_in_force: "2006-04-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-71"
-original_signed_date: "2006-03-28"
-original_published_date: "2006-04-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-71-p19-SC74548"
-entry_into_force_date: "2006-04-01"
-jci_1_3: "jci1.3:c:BWBR0019712&z=2006-04-01&g=2006-04-01"
-jci_1_0: "1.0:c:BWBR0019712&g=2006-04-01"
-citeertitel_status: "redactioneel"
-signed_date: "2006-03-28"
-entry_into_force: "2006-04-01"
+publicatiedatum: 2006-04-01
+laatste_update: 2006-04-01
+status: geldig
+toestand: 2006-04-01
+bron: "https://wetten.overheid.nl/BWBR0019712"
+opgehaald: 2026-08-10
 ---
+
 # Circulaire Besluit textielreinigingsbedrijven milieubeheer
 
 Geacht college,
@@ -46,43 +24,3 @@ Het onderzoek naar een vereenvoudigde methode voor het meten in de buitenlucht h
 Om de lasten voor de textielreingigingsbedrijven te beperken bij het voldoen aan [voorschrift 2.1.2, onderdeel a, van bijlage 1 bij het Besluit textielreinigingsbedrijven milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0012328&bijlage=1) verzoek ik u uit te gaan van de methoden voor het meten in de buitenlucht, zoals omschreven in de bij deze brief behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019712&bijlage=2&z=2006-04-01&g=2006-04-01). Dat betekent dat de drijver van een textielreinigingsbedrijf de keuze heeft om door middel van of de vereenvoudigde meetmethode of de methode met continu registrerende meetapparatuur. Voorts verzoek ik u de meetrapportages van de textielreinigingsbedrijven, die vooruitlopend op het inwerking treden van [voorschrift 2.1.2, onderdeel a, van bijlage 1 bij het Besluit textielreinigingsbedrijven milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0012328&bijlage=1) al metingen hebben (laten) verrichten op basis van het meetprotocol dat ten grondslag heeft gelegen aan bijgaande vereenvoudigde methode voor het meten in de buitenlucht, te accepteren als ware de metingen verricht volgens de vereenvoudigde meetmethode.
 
 Ik vertrouw er op dat u aan het bovenstaande medewerking zult verlenen, te meer daar in het voorjaar van 2007 de vereenvoudigde methode voor het meten in de buitenlucht wettelijk zal zijn voorgeschreven.
-
-## Bijlage 2. behorende bij het [Besluit textielreinigingsbedrijven milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0012328)
-
-### **1. Meetvoorschriften voor metingen in de binnenlucht**
-
-### **1.1. Methoden en meetinstrumentarium**
-
-### **1.1.1. Methode met adsorptiemateriaal**
-
-### **1.1.2. Methode met continu registrerende meetapparatuur**
-
-### **1.2. Bepaling weekgemiddelde immissieconcentratie**
-
-### **1.3. Weerscondities**
-
-### **1.4. Meetplaats**
-
-### **1.5. Omstandigheden bemonsterde ruimte**
-
-### **2. Meetvoorschriften voor metingen in de buitenlucht**
-
-### **2.1. Methoden en meetinstrumentarium**
-
-Voor het bepalen van de PER-concentratie in de buitenlucht kan één van de volgende methoden worden toegepast:
-
-### **2.1.1. Meetmethode met adsorptiemateriaal**
-
-### **2.1.2. Methode met continu registrerende meetapparatuur**
-
-### **2.2. Weerscondities**
-
-### **2.3. Meetplaats**
-
-### **2.4. Berekening jaargemiddelde immissieconcentratie**
-
-### **2.5. Selectielijst meetplaatsen PER-immisiemeting**
-
-### **3. Bedrijfsomstandigheden in de inrichting tijdens binnen- en buitenmetingen**
-
-Voor het verkrijgen van een reëel beeld van de immissieconcentraties op leefniveau worden de metingen onder representatieve bedrijfsomstandigheden uitgevoerd. Daarbij worden de volgende aspecten in acht genomen en worden in het meetverslag vastgelegd:

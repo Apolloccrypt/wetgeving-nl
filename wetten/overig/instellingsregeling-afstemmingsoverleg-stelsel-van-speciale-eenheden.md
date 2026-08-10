@@ -1,42 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 28 juni 2006, nr. 5427438/06/NCTb, tot instelling van een Afstemmingsoverleg voor het stelsel van speciale eenheden (Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden)"
+citeertitel: "Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden"
 identifier: "BWBR0020016"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020016"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "8454943"
-version_id: "13336512"
-internal_id: "C17909221"
-label_id: "8435534"
-dtd_version: "2.0"
-original_entry_into_force: "2006-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020016/2013-01-01/0"
-intitule_bron: "Stcrt.2006-124"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-06-28"
-intitule_published: "2006-06-29"
-intitule_in_force: "2006-06-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-124"
-original_signed_date: "2006-06-28"
-original_published_date: "2006-06-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-124-p14-SC75712"
-entry_into_force_date: "2006-07-01"
-jci_1_3: "jci1.3:c:BWBR0020016&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0020016&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden"
-signed_date: "2006-06-28"
-entry_into_force: "2006-07-01"
+publicatiedatum: 2006-07-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0020016"
+opgehaald: 2026-08-10
 ---
-# Regeling van de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 28 juni 2006, nr. 5427438/06/NCTb, tot instelling van een Afstemmingsoverleg voor het stelsel van speciale eenheden (Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden)
 
-Besluiten:
+# Regeling van de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 28 juni 2006, nr. 5427438/06/NCTb, tot instelling van een Afstemmingsoverleg voor het stelsel van speciale eenheden (Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden)
 
 ##### Artikel 1. Begripsbepaling
 
@@ -54,15 +30,15 @@ Er is een Afstemmingsoverleg voor het stelsel van speciale eenheden, in samenhan
 
 - a. de beleidsvoorbereiding en -vorming, ten aanzien van de DSI, hetgeen o.a. omvat het beleid ten aanzien van:
 
-- –. de personele vulling van de DSI;
+   - – de personele vulling van de DSI;
 
-- –. de opleiding en training van het personeel van de DSI;
+   - – de opleiding en training van het personeel van de DSI;
 
-- –. de inzetcriteria van de DSI;
+   - – de inzetcriteria van de DSI;
 
-- –. de ondersteuning van de DSI door middelen die niet organiek binnen de DSI zijn ingebracht;
+   - – de ondersteuning van de DSI door middelen die niet organiek binnen de DSI zijn ingebracht;
 
-- –. de systematiek van evaluatie en auditing;
+   - – de systematiek van evaluatie en auditing;
 
 - b. de vast te stellen begroting van de DSI en overige diensten en onderdelen voor zover van belang voor het stelsel;
 
@@ -111,5 +87,3 @@ Er is een Afstemmingsoverleg voor het stelsel van speciale eenheden, in samenhan
 ##### Artikel 7. Instellingsregeling
 
 Deze regeling wordt aangehaald als: Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden.
-
-De regeling zal in de Staatscourant worden geplaatst.

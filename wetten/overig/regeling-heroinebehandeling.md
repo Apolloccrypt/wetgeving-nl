@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 november 2006, nr. VGP/ADT 2728896, houdende een specifieke uitkering voor heroïnebehandeling (Regeling heroïnebehandeling)"
+citeertitel: "Regeling heroïnebehandeling"
 identifier: "BWBR0020561"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020561"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "8741823"
-version_id: "27102582"
-internal_id: "C38328441"
-label_id: "8721814"
-dtd_version: "2.0"
-original_entry_into_force: "2020-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020561/2025-01-01/0"
-intitule_bron: "Stcrt.2006-232"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-22"
-intitule_published: "2006-11-28"
-intitule_in_force: "2006-11-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-54742"
-original_signed_date: "2020-10-15"
-original_published_date: "2020-10-23"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2020-54742"
-entry_into_force_date: "2020-10-15"
-jci_1_3: "jci1.3:c:BWBR0020561&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0020561&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling heroïnebehandeling"
-signed_date: "2020-10-15"
-entry_into_force: "2020-10-15"
+publicatiedatum: 2020-10-15
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0020561"
+opgehaald: 2026-08-10
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 november 2006, nr. VGP/ADT 2728896, houdende een specifieke uitkering voor heroïnebehandeling (Regeling heroïnebehandeling)
-
-Gelet op [artikel 3 van de Kaderwet volksgezondheidssubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -51,6 +25,10 @@ In deze regeling wordt verstaan onder:
 - c. behandelplaats: capaciteit om gedurende een kalenderjaar één cliënt een heroïnebehandeling te verlenen;
 
 - d. behandeleenheid: inrichting voor heroïnebehandeling.
+
+##### Artikel 1a
+
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
 ##### Artikel 2
 
@@ -84,27 +62,27 @@ In deze regeling wordt verstaan onder:
 
 - a. de behandelend arts voorafgaand aan de heroïnebehandeling heeft vastgesteld dat voor de cliënten die worden behandeld op een behandelplaats van de behandeleenheid geldt dat de cliënt:
 
-- 1º. de Nederlandse nationaliteit bezit, op grond van een wettelijke bepaling als Nederlander wordt behandeld of vreemdeling is en rechtmatig verblijf geniet als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
+   - 1º. de Nederlandse nationaliteit bezit, op grond van een wettelijke bepaling als Nederlander wordt behandeld of vreemdeling is en rechtmatig verblijf geniet als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
 
-- 2º. volgens de basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2), ten minste 3 jaar als ingezetene is ingeschreven met een adres in de gemeente of een adres in een gemeente in het maatschappelijk zorggebied, bedoeld in [artikel 1, onder e, van de Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1).
+   - 2º. volgens de basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2), ten minste 3 jaar als ingezetene is ingeschreven met een adres in de gemeente of een adres in een gemeente in het maatschappelijk zorggebied, bedoeld in [artikel 1, onder e, van de Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1).
 
-- 3º. de leeftijd van 35 jaar heeft bereikt tenzij de cliënt voor 2006 is gestart met de heroïnebehandeling;
+   - 3º. de leeftijd van 35 jaar heeft bereikt tenzij de cliënt voor 2006 is gestart met de heroïnebehandeling;
 
-- 4º. vrijwel dagelijks heroïne gebruikt;
+   - 4º. vrijwel dagelijks heroïne gebruikt;
 
-- 5º. reeds vijf jaar of langer verslaafd is aan heroïne en ondanks therapietrouw methadonbehandeling geen uitzicht op abstinentie van opiaten heeft;
+   - 5º. reeds vijf jaar of langer verslaafd is aan heroïne en ondanks therapietrouw methadonbehandeling geen uitzicht op abstinentie van opiaten heeft;
 
-- 6º. ten gevolge van de heroïneverslaving chronisch ernstige problemen heeft met de lichamelijke of geestelijke gezondheid of met het sociaal of maatschappelijk functioneren;
+   - 6º. ten gevolge van de heroïneverslaving chronisch ernstige problemen heeft met de lichamelijke of geestelijke gezondheid of met het sociaal of maatschappelijk functioneren;
 
-- 7º. in staat is de behandeleenheid ten minste drie dagen per week te bezoeken en zich te houden aan het behandelplan;
+   - 7º. in staat is de behandeleenheid ten minste drie dagen per week te bezoeken en zich te houden aan het behandelplan;
 
-- 8º. uiterlijk vijf jaar voor de aanvang van de heroïnebehandeling gedurende ten minste een maand dagelijks meer dan 50 mg methadon is toegediend indien het een patiënt betreft die de heroïne inhaleert of meer dan 60 mg methadon is toegediend indien het een patiënt betreft die de heroïne injecteert;
+   - 8º. uiterlijk vijf jaar voor de aanvang van de heroïnebehandeling gedurende ten minste een maand dagelijks meer dan 50 mg methadon is toegediend indien het een patiënt betreft die de heroïne inhaleert of meer dan 60 mg methadon is toegediend indien het een patiënt betreft die de heroïne injecteert;
 
-- b. de heroïnebehandeling plaats vindt conform de richtlijnen en protocollen zoals opgenomen in de Handreiking Opiaatonderhoudsbehandeling bij heroïneverslaving met medische heroïne, methadon en buprenorfine, versie 4 mei 2021.
+- b. de heroïnebehandeling plaats vindt conform de richtlijnen en protocollen zoals opgenomen in de Handreiking Opiaatonderhoudsbehandeling bij heroïneverslaving met medische heroïne, methadon en buprenorfine, versie 4 mei 2021.
 
 - c. de kwaliteit van de heroïnebehandeling systematisch wordt bewaakt, beheerst en verbeterd;
 
-- d. maatregelen zijn getroffen om te waarborgen dat er uitsluitend heroïne wordt aangewend voor heroïnebehandeling.
+- d maatregelen zijn getroffen om te waarborgen dat er uitsluitend heroïne wordt aangewend voor heroïnebehandeling.
 
 2. De Minister kan ontheffing verlenen van de in het eerste lid, onder b, vervatte voorwaarde voor de duur van maximaal één jaar en mits de gemeente hiervan gelijktijdig melding doet aan de Inspectie Gezondheidszorg en Jeugd.
 
@@ -122,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -140,7 +118,7 @@ Het college van burgemeester en wethouders doet zo spoedig mogelijk schriftelijk
 
 1. Het college van burgemeester en wethouders werkt mee aan door of namens de Minister ingestelde onderzoekingen die erop zijn gericht de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
 
-2. Het college van burgemeester en wethouders verstrekt aan de Minister jaarlijks voor 1 april in ieder geval:
+2. Het college van burgemeester en wethouders verstrekt aan de Minister jaarlijks voor 1 april in ieder geval:
 
 - a. een overzicht per behandeleenheid van de bezetting van de behandelplaatsen in het kalenderjaar voorafgaand aan het kalenderjaar ten behoeve waarvan de uitkering is verstrekt;
 
@@ -148,13 +126,13 @@ Het college van burgemeester en wethouders doet zo spoedig mogelijk schriftelijk
 
 - c. een overzicht per behandeleenheid van het aantal personen dat is gescreend in het kalenderjaar voorafgaand aan het kalenderjaar ten behoeve waarvan de uitkering is verstrekt.
 
-3. Vervallen.
+3. *Vervallen.*
 
 4. Het college van burgemeester en wethouders verstrekt de overzichten, bedoeld in het tweede en derde lid, conform een door de Minister vastgesteld model.
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -176,24 +154,14 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 3. Bij een daling van minimaal 20% in de feitelijke bezetting van het aantal behandelplaatsen ten opzichte van het voorgaande kalenderjaar, stelt de Minister in afwijking van het tweede lid ambtshalve de specifieke uitkering vast op het bedrag van de werkelijke kosten van het exploiteren van de behandeleenheid, maar op ten hoogste het bedrag en aantal behandelplaatsen genoemd in de verleningsbeschikking van het kalenderjaar voorafgaand aan het kalenderjaar waarvoor wordt vastgesteld. Als de feitelijke bezetting minder dan 20 behandelplaatsen is dan tellen de behandelplaatsen onder de 20 als 20 voor het berekenen van dalingspercentage.
 
-##### Artikel 12
-
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2006.
-
-##### Artikel 13
-
-Deze regeling wordt aangehaald als: Regeling heroïnebehandeling.
-
-Deze regeling zal met de toelichting in Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
-
-Deze regeling zal met de toelichting in Staatscourant worden geplaatst.
-
 ##### Artikel 11a
 
 De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-Deze regeling zal met de toelichting in Staatscourant worden geplaatst.
+##### Artikel 12
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2006.
+
+##### Artikel 13
+
+Deze regeling wordt aangehaald als: Regeling heroïnebehandeling.
