@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het Commissariaat voor de Media van 5 juni 2007, houdende ontheffing van het bepaalde in het eerste lid van artikel 71m van de Mediawet in verband met de vermeldingen en vertoningen van namen, (beeld)merken, producten of diensten van commerciële omroepinstellingen (Besluit ontheffing zelfpromotie commerciële omroep)"
+citeertitel: "Besluit ontheffing zelfpromotie commerciële omroep"
 identifier: "BWBR0022116"
-country: "nl"
-rank: "zbo"
-publication_date: "2008-07-01"
-last_updated: "2008-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022116"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "9124613"
-version_id: "14585222"
-internal_id: "C19845321"
-label_id: "9103534"
-dtd_version: "2.0"
-original_entry_into_force: "2007-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022116/2008-07-01/0"
-intitule_bron: "Stcrt.2007-118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-06-05"
-intitule_published: "2007-06-22"
-intitule_in_force: "2007-06-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-118"
-original_signed_date: "2007-06-05"
-original_published_date: "2007-06-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-118-p13-SC81033"
-entry_into_force_date: "2007-07-01"
-jci_1_3: "jci1.3:c:BWBR0022116&z=2008-07-01&g=2008-07-01"
-jci_1_0: "1.0:c:BWBR0022116&g=2008-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ontheffing zelfpromotie commerciële omroep"
-signed_date: "2007-06-05"
-entry_into_force: "2007-07-01"
+publicatiedatum: 2007-07-01
+laatste_update: 2008-07-01
+status: geldig
+toestand: 2008-07-01
+bron: "https://wetten.overheid.nl/BWBR0022116"
+opgehaald: 2026-08-11
 ---
+
 # Besluit van het Commissariaat voor de Media van 5 juni 2007, houdende ontheffing van het bepaalde in het eerste lid van artikel 71m van de Mediawet in verband met de vermeldingen en vertoningen van namen, (beeld)merken, producten of diensten van commerciële omroepinstellingen (Besluit ontheffing zelfpromotie commerciële omroep)
-
-Het Commissariaat voor de Media,
-
-Gelet op [artikel 71m, derde lid, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=71m);
-
-Besluit:
 
 ### Definities
 
@@ -48,7 +20,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. de Europese richtlijn: [Richtlijn 97/36/EG](31997L0036) van het Europees parlement en de Raad van 30 juni 1997 tot wijziging van [Richtlijn 89/552/EEG](31989L0552) van de Raad betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake de uitoefening van televisie-omroepactiviteiten;
+- a. de Europese richtlijn: Richtlijn 97/36/EG van het Europees parlement en de Raad van 30 juni 1997 tot wijziging van Richtlijn 89/552/EEG van de Raad betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake de uitoefening van televisie-omroepactiviteiten;
 
 - b. de wet: de [Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149);
 

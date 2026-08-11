@@ -1,38 +1,16 @@
 ---
 title: "Franse uitvoeringsvoorschriften 2007 belastingovereenkomst Nederland-Frankrijk"
 identifier: "BWBR0021495"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2007-03-17"
-last_updated: "2007-03-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021495"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8993093"
-version_id: "14306982"
-internal_id: "C19461961"
-label_id: "8972314"
-dtd_version: "2.0"
-original_entry_into_force: "2007-03-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021495/2007-03-17/0"
-intitule_bron: "Stcrt.2007-53"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-03-06"
-intitule_published: "2007-03-15"
-intitule_in_force: "2007-03-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-53"
-original_signed_date: "2007-03-06"
-original_published_date: "2007-03-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-53-p10-SC79674"
-entry_into_force_date: "2007-03-17"
-jci_1_3: "jci1.3:c:BWBR0021495&z=2007-03-17&g=2007-03-17"
-jci_1_0: "1.0:c:BWBR0021495&g=2007-03-17"
-citeertitel_status: "officieel"
-signed_date: "2007-03-06"
-entry_into_force: "2007-03-17"
+publicatiedatum: 2007-03-17
+laatste_update: 2007-03-17
+status: geldig
+toestand: 2007-03-17
+bron: "https://wetten.overheid.nl/BWBR0021495"
+opgehaald: 2026-08-11
 ---
+
 # Franse uitvoeringsvoorschriften 2007 belastingovereenkomst Nederland-Frankrijk
 
 In dit besluit zijn opgenomen de nieuwe Franse uitvoeringsvoorschriften die van toepassing zijn onder het belastingverdrag Nederland-Frankrijk.
@@ -48,6 +26,14 @@ In dit besluit wordt aangegeven hoe inwoners van Nederland in aanmerking kunnen 
 Vanaf 1 januari 2007 gebruikt Frankrijk universele formulieren voor de vermindering, teruggaaf of vrijstelling van bronbelasting ten behoeve van inwoners van verdragslanden. Deze formulieren vervangen de tot dusverre gebruikte formulieren (RF1, RF2, RF3, RF4, RF5 en RF6) en zijn in 6 talen beschikbaar (Frans, Nederlands, Engels, Duits, Italiaans en Spaans).
 
 De volgende formulieren zijn beschikbaar:
+
+- – formulier 5000: verklaring van woonplaats
+
+- – formulier 5001: berekening van de bronbelasting op dividenden
+
+- – formulier 5002: berekening en teruggave van de bronbelasting op interest
+
+- – formulier 5003: aanvraag tot verlaging van de bronbelasting op royalty’s
 
 De formulieren bestaan uit een set van drie identieke formulieren, waarvan de eerste twee formulieren in de gekozen taal en het derde formulier in de Franse taal. Het eerste formulier is bestemd voor de Nederlandse belastingdienst, het tweede formulier is bestemd voor de verzoeker en het derde exemplaar is bestemd voor de Franse belastingdienst.
 
@@ -79,6 +65,12 @@ Verzoeken om teruggaaf van Franse bronbelasting dienen binnen een tijdvak van dr
 
 De formulieren zijn verkrijgbaar:
 
+- – via de website www.impots.gouv.fr (onder het kopje ‘recherche de formulaires’).
+
+- – bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn. Het e-mailadres daarvan luidt: Lrc.apeldoorn@tiscali.nl.
+
+- – bij de Franse autoriteiten:
+
 Indien het betreft dividenden en interest :
 
 Recette des impôts des non-résidents, 10 rue du Centre, TSA, 50014 93465 NOISY LE GRAND Cedex, France.
@@ -105,6 +97,10 @@ Bij het formulier 5000 behoort een toelichting met betrekking tot de formulieren
 
 De volgende regelingen zijn ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
+- 1. Regeling van 28 december 1990, nr. IFZ 90-1829, Stcrt. 252 (Rectificatie Stcrt. 1991,5), zoals deze regeling is gewijzigd bij de regeling van 9 juni 1997, nr. IFZ 97/651M, Stcrt. 112 ([Algemene Franse uitvoeringsvoorschriften belastingovereenkomst Nederland-Frankrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0004960)).
+
+- 2. Regeling van 28 december 1990, nr. IFZ 90-1870, Stcrt. 252, zoals deze regeling is gewijzigd bij de regeling van 9 juni 1997, nr. IFZ 97/651M, Stcrt. 112 ([Bijzondere Franse uitvoeringsvoorschriften belastingovereenkomst Nederland-Frankrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0004962)).
+
 ### 8. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
@@ -112,5 +108,3 @@ De volgende regelingen zijn ingetrokken met ingang van de inwerkingtreding van d
 2. Dit besluit vindt, met inachtneming van het bepaalde in onderdeel 4, toepassing op dividenden, interest en royalty’s die na 28 december 1990 zijn betaald of betaalbaar zijn gesteld.
 
 3. Dit besluit kan worden aangehaald als: Franse uitvoeringsvoorschriften 2007 belastingovereenkomst Nederland-Frankrijk.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

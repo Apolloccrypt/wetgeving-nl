@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 21 maart 2007 tot het stellen van veiligheidsvoorschriften bij het tatoeëren en piercen (Warenwetbesluit tatoeëren en piercen)"
+citeertitel: "Warenwetbesluit tatoeëren en piercen"
 identifier: "BWBR0021605"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021605"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9021803"
-version_id: "14365482"
-internal_id: "C19534671"
-label_id: "9000994"
-dtd_version: "2.0"
-original_entry_into_force: "2007-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021605/2022-01-01/0"
-intitule_bron: "Stb.2007-114"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-03-21"
-intitule_published: "2007-03-29"
-intitule_in_force: "2007-03-29"
-intitule_status: "goed"
-original_publication: "Stb.2007-114"
-original_signed_date: "2007-03-21"
-original_published_date: "2007-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2007-114"
-entry_into_force_date: "2007-06-01"
-jci_1_3: "jci1.3:c:BWBR0021605&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0021605&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit tatoeëren en piercen"
-signed_date: "2007-03-21"
-entry_into_force: "2007-06-01"
+publicatiedatum: 2007-06-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0021605"
+opgehaald: 2026-08-11
 ---
+
 # Besluit van 21 maart 2007 tot het stellen van veiligheidsvoorschriften bij het tatoeëren en piercen (Warenwetbesluit tatoeëren en piercen)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 14 november 2006, kenmerk VGP/PSL 2728403, gedaan in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Justitie;
-
-Gelet op de [artikelen 5, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=5), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14), [24, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24), [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25), [32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b) en [33, eerste lid, onderdeel b, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=33);
-
-De Raad van State gehoord (advies van 4 januari 2007, nr. W13.06.0488/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 19 maart 2007, VGP/PSL 2756009, uitgebracht in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Justitie;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -178,13 +146,13 @@ Bij regeling van Onze Minister kunnen regels worden gesteld omtrent:
 
 ##### Artikel 11
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.
+*Wijzigt het Warenwetbesluit bestuurlijke boeten.*
 
 #### § 6. Overgangs- en slotbepalingen
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -193,5 +161,3 @@ Dit besluit treedt in werking met ingang van de eerste dag van de derde kalender
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Warenwetbesluit tatoeëren en piercen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,43 +1,17 @@
 ---
 title: "Regels vrijwillige werkloosheidsverzekering 2007"
 identifier: "BWBR0021882"
-country: "nl"
-rank: "zbo"
-publication_date: "2007-05-25"
-last_updated: "2007-05-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021882"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "9080693"
-version_id: "14491262"
-internal_id: "C19710741"
-label_id: "9059734"
-dtd_version: "2.0"
-original_entry_into_force: "2007-05-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021882/2007-05-25/0"
-intitule_bron: "Stcrt.2007-97"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-03-29"
-intitule_published: "2007-05-23"
-intitule_in_force: "2007-05-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-97"
-original_signed_date: "2007-03-29"
-original_published_date: "2007-05-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-97-p25-SC80552"
-entry_into_force_date: "2007-05-25"
-jci_1_3: "jci1.3:c:BWBR0021882&z=2007-05-25&g=2007-05-25"
-jci_1_0: "1.0:c:BWBR0021882&g=2007-05-25"
-citeertitel_status: "officieel"
-signed_date: "2007-03-29"
-entry_into_force: "2007-05-25"
+publicatiedatum: 2007-05-25
+laatste_update: 2007-05-25
+status: geldig
+toestand: 2007-05-25
+bron: "https://wetten.overheid.nl/BWBR0021882"
+opgehaald: 2026-08-11
 ---
+
 # Regels vrijwillige werkloosheidsverzekering 2007
-
-Gelet op [artikel 59 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=59) en [artikel 73, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=73);
-
-Besluit:
 
 ### Hoofdstuk I. Begripsomschrijvingen
 

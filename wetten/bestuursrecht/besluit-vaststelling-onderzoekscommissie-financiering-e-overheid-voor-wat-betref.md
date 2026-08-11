@@ -1,41 +1,17 @@
 ---
 title: "Besluit vaststelling onderzoekscommissie financiering e-overheid voor wat betreft gemeenten"
 identifier: "BWBR0022440"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-08-31"
-last_updated: "2007-08-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022440"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "9192653"
-version_id: "14717852"
-internal_id: "C20028071"
-label_id: "9171384"
-dtd_version: "2.0"
-original_entry_into_force: "2007-08-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022440/2007-08-31/0"
-intitule_bron: "Stcrt.2007-166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-08-20"
-intitule_published: "2007-08-29"
-intitule_in_force: "2007-08-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-166"
-original_signed_date: "2007-08-20"
-original_published_date: "2007-08-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-166-p6-SC81913"
-entry_into_force_date: "2007-08-31"
-jci_1_3: "jci1.3:c:BWBR0022440&z=2007-08-31&g=2007-08-31"
-jci_1_0: "1.0:c:BWBR0022440&g=2007-08-31"
-citeertitel_status: "redactioneel"
-signed_date: "2007-08-20"
-entry_into_force: "2007-08-31"
+publicatiedatum: 2007-08-31
+laatste_update: 2007-08-31
+status: geldig
+toestand: 2007-08-31
+bron: "https://wetten.overheid.nl/BWBR0022440"
+opgehaald: 2026-08-11
 ---
-# Besluit vaststelling onderzoekscommissie financiering e-overheid voor wat betreft gemeenten
 
-Besluit:
+# Besluit vaststelling onderzoekscommissie financiering e-overheid voor wat betreft gemeenten
 
 ##### Artikel 1
 

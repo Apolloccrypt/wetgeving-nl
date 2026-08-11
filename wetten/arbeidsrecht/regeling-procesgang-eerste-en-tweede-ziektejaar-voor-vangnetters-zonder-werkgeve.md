@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 juli 2007, nr. SV/WV/07/24387, houdende regels omtrent de verdere activering van zieke werknemers zonder werkgever door middel van het vastleggen van een procesgang met betrekking tot de inschakeling in het arbeidsproces in het eerste en tweede ziektejaar (Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever)"
+citeertitel: "Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever"
 identifier: "BWBR0022309"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022309"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "9167553"
-version_id: "29408932"
-internal_id: "C42047281"
-label_id: "9146414"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022309/2025-07-01/0"
-intitule_bron: "Stcrt.2007-140"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-07-13"
-intitule_published: "2007-07-24"
-intitule_in_force: "2007-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-13931"
-original_signed_date: "2023-05-09"
-original_published_date: "2023-05-17"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-13931"
-entry_into_force_date: "2023-05-09"
-jci_1_3: "jci1.3:c:BWBR0022309&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0022309&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever"
-signed_date: "2023-05-09"
-entry_into_force: "2023-05-09"
+publicatiedatum: 2023-05-09
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0022309"
+opgehaald: 2026-08-11
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 juli 2007, nr. SV/WV/07/24387, houdende regels omtrent de verdere activering van zieke werknemers zonder werkgever door middel van het vastleggen van een procesgang met betrekking tot de inschakeling in het arbeidsproces in het eerste en tweede ziektejaar (Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever)
-
-Gelet op [artikel 26, vierde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Wet houdende regels bevordering activering personen die aanspraak maken op een uitkering op grond van de Ziektewet (Stb. 2007/553) in werking treedt.
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -70,15 +42,25 @@ In deze regeling wordt verstaan onder:
 
 2. Het plan van aanpak omvat in ieder geval:
 
-- a. de door de vangnetter en het UWV te ondernemen activiteiten gericht op inschakeling in de arbeid, de daarmee te bereiken doelstellingen, de termijnen waarbinnen die doelstellingen naar verwachting kunnen worden bereikt, alsmede de visie van de werknemer hierop;
+- a. de door de vangnetter en het UWV te ondernemen activiteiten gericht op inschakeling in de arbeid, de daarmee te bereiken doelstellingen, de termijnen waarbinnen die doelstellingen naar verwachting kunnen worden bereikt, alsmede de visie van de werknemer hierop;
 
-- b. afspraken omtrent de momenten waarop de in het plan van aanpak vastgelegde activiteiten door de vangnetter en het UWV periodiek worden geëvalueerd, waarbij die evaluatie de visie van de werknemer hierop omvat; en
+- b. afspraken omtrent de momenten waarop de in het plan van aanpak vastgelegde activiteiten door de vangnetter en het UWV periodiek worden geëvalueerd, waarbij die evaluatie de visie van de werknemer hierop omvat; en
 
 - c. aanwijzing van een persoon die de vastgelegde activiteiten begeleidt en het contact verzorgt tussen de vangnetter en het UWV.
 
 3. Het plan van aanpak wordt schriftelijk vastgelegd. Het UWV verstrekt hiervan onverwijld een afschrift aan de vangnetter en de in het tweede lid, onderdeel c, bedoelde persoon.
 
 4. Het plan van aanpak wordt bijgesteld indien de evaluatie van dat plan van aanpak of het geneeskundige onderzoek, bedoeld in [artikel 28 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=28), daartoe aanleiding geeft. Het eerste tot en met derde lid zijn van overeenkomstige toepassing.
+
+##### Artikel 4a. Afspraken over werkhervatting bij oude werkgever
+
+Het UWV verwijst de vangnetter voor werkhervatting naar de werkgever waar hij laatstelijk op grond van een uitzendovereenkomst met een uitzendbeding als bedoeld in [artikel 7:691, lid 2, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) in dienst was, indien:
+
+- a. de werkgever op grond van [artikel 5.2 van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.2) is aangesloten bij sector 52;
+
+- b. sprake is van dreigend langdurig ziekteverzuim van de vangnetter; en
+
+- c. de vangnetter in staat is passende arbeid als bedoeld in [artikel 30, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30) te verrichten.
 
 ##### Artikel 5. Periodieke herijking
 
@@ -120,30 +102,14 @@ Het re-integratieverslag, bedoeld in [artikel 25, derde lid, van de Wet werk en 
 
 Deze regeling is niet van toepassing met betrekking tot personen die voor de dag van de inwerkingtreding van deze regeling recht hadden op ziekengeld voor de duur van dat recht op ziekengeld.
 
+##### Artikel 8a. Overgangsrecht in verband met visie werknemer
+
+*Vervallen*
+
 ##### Artikel 9. Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip waarop het bij koninklijke boodschap van 13 december 2006 ingediende voorstel van wet houdende regels tot bevordering van de activering van personen die aanspraak maken op een uitkering op grond van de Ziektewet (Kamerstukken II 2006/2007, 30 909, nr. 1), tot wet wordt verheven en in werking treedt.
+Deze regeling treedt in werking op het tijdstip waarop het bij koninklijke boodschap van 13 december 2006 ingediende voorstel van wet houdende regels tot bevordering van de activering van personen die aanspraak maken op een uitkering op grond van de Ziektewet (Kamerstukken II 2006/2007, 30 909, nr. 1), tot wet wordt verheven en in werking treedt.
 
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a. Afspraken over werkhervatting bij oude werkgever
-
-Het UWV verwijst de vangnetter voor werkhervatting naar de werkgever waar hij laatstelijk op grond van een uitzendovereenkomst met een uitzendbeding als bedoeld in [artikel 7:691, lid 2, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) in dienst was, indien:
-
-- a. de werkgever op grond van [artikel 5.2 van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.2) is aangesloten bij sector 52;
-
-- b. sprake is van dreigend langdurig ziekteverzuim van de vangnetter; en
-
-- c. de vangnetter in staat is passende arbeid als bedoeld in [artikel 30, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30) te verrichten.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a. Overgangsrecht in verband met visie werknemer
-
-Vervallen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

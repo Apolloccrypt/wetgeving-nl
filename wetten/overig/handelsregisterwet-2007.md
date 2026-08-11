@@ -1,121 +1,20 @@
 ---
 title: "Wet van 22 maart 2007, houdende regels omtrent een basisregister van ondernemingen en rechtspersonen (Handelsregisterwet 2007)"
+citeertitel: "Handelsregisterwet 2007"
 identifier: "BWBR0021777"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-16"
-last_updated: "2025-07-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021777"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9058733"
-version_id: "14443982"
-internal_id: "C20359711"
-label_id: "9038684"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021777/2025-07-16/0"
-intitule_bron: "Stb.2007-153"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-03-22"
-intitule_published: "2007-05-01"
-intitule_in_force: "2007-12-18"
-intitule_status: "goed"
-original_publication: "Stb.2007-153"
-original_signed_date: "2007-03-22"
-original_published_date: "2007-05-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "30656"
-original_url_id: "stb-2007-153"
-entry_into_force_date: "2008-01-01"
-jci_1_3: "jci1.3:c:BWBR0021777&z=2025-07-16&g=2025-07-16"
-jci_1_0: "1.0:c:BWBR0021777&g=2025-07-16"
-citeertitel_status: "officieel"
-short_title: "Handelsregisterwet 2007"
-signed_date: "2007-03-22"
-entry_into_force: "2008-01-01"
+publicatiedatum: 2008-01-01
+laatste_update: 2025-07-16
+status: geldig
+toestand: 2025-07-16
+bron: "https://wetten.overheid.nl/BWBR0021777"
+opgehaald: 2026-08-11
 ---
+
 # Wet van 22 maart 2007, houdende regels omtrent een basisregister van ondernemingen en rechtspersonen (Handelsregisterwet 2007)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ter bevordering van een goede vervulling van publiekrechtelijke taken wenselijk is om het handelsregister uit te breiden en om te vormen tot een basisregister van ondernemingen en rechtspersonen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
 ### Hoofdstuk 1. Begripsbepalingen
-
-### Hoofdstuk 2. Het handelsregister
-
-### Hoofdstuk 2. Het handelsregister
-
-### Hoofdstuk 4. De verstrekking en het gebruik van gegevens
-
-### Hoofdstuk 5. Verstrekking van gegevens aan bestuursorganen en gebruik van gegevens door bestuursorganen
-
-### Hoofdstuk 6. Wijziging van de in het handelsregister opgenomen gegevens
-
-### Hoofdstuk 7. Kwaliteitscontrole van het handelsregister
-
-### Hoofdstuk 8. Toezicht en handhaving
-
-### Hoofdstuk 9. Financiën
-
-### Hoofdstuk 10. Overige bepalingen
-
-### Hoofdstuk 11. Wijziging andere wetten
-
-##### Artikel 53
-
-Wijzigt de Wet op de kamers van koophandel en fabrieken 1997.
-
-##### Artikel 54
-
-Wijzigt de Wet op de economische delicten.
-
-##### Artikel 55
-
-Wijzigt de Wet op de bedrijfsorganisatie.
-
-##### Artikel 55a
-
-Wijzigt het Burgerlijk Wetboek Boek 2 en de Wet op de formeel buitenlandse vennootschappen.
-
-##### Artikel 55b
-
-Wijzigt het Burgerlijk Wetboek Boek 6.
-
-##### Artikel 55c
-
-Wijzigt het Wetboek van Koophandel.
-
-##### Artikel 55d
-
-Wijzigt de Wet documentatie vennootschappen.
-
-##### Artikel 55e
-
-Wijzigt de Uitvoeringswet verordening Europese coöperatieve vennootschap, de Uitvoeringswet verordening Europese vennootschap en de Uitvoeringswet Verordening tot instelling van Europese economische samenwerkingsverbanden.
-
-##### Artikel 55f
-
-Wijzigt de Kieswet.
-
-##### Artikel 55g
-
-Wijzigt de Wet nationaliteit zeeschepen in rompbevrachting.
-
-##### Artikel 55h
-
-Wijzigt de Uitvoeringswet Visserijverdrag 1967.
-
-##### Artikel 55i
-
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet structuur uitvoeringsorganisatie werk en inkomen, de Wet werk en bijstand en de Wet werk en inkomen kunstenaars.
-
-### Hoofdstuk 3. De inschrijving in het handelsregister
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 1
 
@@ -147,15 +46,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - m. hoofdnederzetting: een in Nederland gelegen nevenvestiging van een buiten Nederland gevestigde onderneming of rechtspersoon of, indien er meer nevenvestigingen zijn, de door een onderneming of rechtspersoon als hoofdnederzetting aangemerkte nevenvestiging;
 
-- n. [verordening 2137/85](31985R2137): [verordening (EEG) nr. 2137/85](31985R2137) van de Raad van de Europese Gemeenschappen van 25 juli 1985 tot instelling van Europese economische samenwerkingsverbanden (EESV) (PbEG L 199);
+- n. verordening 2137/85: verordening (EEG) nr. 2137/85 van de Raad van de Europese Gemeenschappen van 25 juli 1985 tot instelling van Europese economische samenwerkingsverbanden (EESV) (PbEG L 199);
 
-- o. [verordening 2157/2001](32001R2157): [verordening (EG) nr. 2157/2001](32001R2157) van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294);
+- o. verordening 2157/2001: verordening (EG) nr. 2157/2001 van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294);
 
-- p. uiteindelijk belanghebbende: uiteindelijk belanghebbende als bedoeld in [artikel 10a, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](onbekend);
+- p. uiteindelijk belanghebbende: uiteindelijk belanghebbende als bedoeld in artikel 10a, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme;
 
 - q. Financiële inlichtingen eenheid: de Financiële inlichtingen eenheid, bedoeld in [artikel 12, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=12).
 
-2. Onder publiekrechtelijke rechtspersoon wordt mede verstaan een Europese groepering voor territoriale samenwerking als bedoeld in artikel 1 van verordening (EG) nr. 1082/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (PbEU L 210).
+2. Onder publiekrechtelijke rechtspersoon wordt mede verstaan een Europese groepering voor territoriale samenwerking als bedoeld in artikel 1 van verordening (EG) nr. 1082/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (PbEU L 210).
+
+### Hoofdstuk 2. Het handelsregister
 
 #### § 2.1. Instellen handelsregister
 
@@ -277,27 +178,27 @@ In het handelsregister worden over een onderneming opgenomen:
 
 - e. de leden, maten of vennoten, met uitzondering van de commanditaire vennoten, en:
 
-- 1°. indien deze natuurlijke personen zijn,
+   - 1°. indien deze natuurlijke personen zijn,
 
-- –. het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), het geslacht, de geboorteplaats en het geboorteland,
+      - – het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), het geslacht, de geboorteplaats en het geboorteland,
 
-- –. de naam,
+      - – de naam,
 
-- –. het adres,
+      - – het adres,
 
-- –. de geboortedatum,
+      - – de geboortedatum,
 
-- –. de datum van overlijden;
+      - – de datum van overlijden;
 
-- 2°. indien deze geen natuurlijke personen zijn,
+   - 2°. indien deze geen natuurlijke personen zijn,
 
-- –. een door een kamer toegekend uniek nummer;
+      - – een door een kamer toegekend uniek nummer;
 
-- –. de naam;
+      - – de naam;
 
-- –. de rechtsvorm en de statutaire zetel,
+      - – de rechtsvorm en de statutaire zetel,
 
-- –. de datum van aanvang of beëindiging.
+      - – de datum van aanvang of beëindiging.
 
 ##### Artikel 11
 
@@ -355,6 +256,28 @@ In het handelsregister worden over een activiteit van een rechtspersoon waaraan 
 
 De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2025-07-16&g=2025-07-16) genoemde gegevens zijn authentieke gegevens.
 
+##### Artikel 15a
+
+1. In het handelsregister wordt opgenomen wie de uiteindelijk belanghebbende is of de uiteindelijk belanghebbenden zijn van vennootschappen of andere juridische entiteiten als bedoeld in [artikel 10a, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=10a) die overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2025-07-16&g=2025-07-16) of [6, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2025-07-16&g=2025-07-16), zijn ingeschreven in het handelsregister, met uitzondering van verenigingen van eigenaars en overige privaatrechtelijke rechtspersonen als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2025-07-16&g=2025-07-16).
+
+2. In het handelsregister wordt over een uiteindelijk belanghebbende opgenomen:
+
+- a. het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), indien dat aan hem is toegekend;
+
+- b. een fiscaal identificatienummer van een ander land dan Nederland waarvan hij ingezetene is, indien dat door zijn woonstaat aan hem is toegekend;
+
+- c. de naam, de geboortemaand en het geboortejaar, de woonstaat en de nationaliteit;
+
+- d. de geboortedag, de geboorteplaats, het geboorteland en het woonadres;
+
+- e. de aard van het door de uiteindelijk belanghebbende gehouden economische belang en de omvang van dit belang, aangeduid in bij algemene maatregel van bestuur vast te stellen klassen.
+
+3. In het handelsregister worden ten aanzien van een uiteindelijk belanghebbende gedeponeerd:
+
+- a. afschriften van de documenten op grond waarvan de gegevens, bedoeld in het tweede lid, onderdelen a, b, c en d, zijn geverifieerd;
+
+- b. afschriften van de documenten, behorende tot bij algemene maatregel van bestuur aan te wijzen categorieën, waaruit de aard en omvang van het economische belang, bedoeld in het tweede lid, onderdeel e, blijken.
+
 ##### Artikel 16
 
 1. In het handelsregister worden gegevens opgenomen die noodzakelijk zijn voor een goede vastlegging en verstrekking van de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2025-07-16&g=2025-07-16) bedoelde gegevens en gegevens omtrent de herkomst van die gegevens.
@@ -366,6 +289,14 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 1. In het handelsregister wordt de door een publiekrechtelijke rechtspersoon verleende volmacht tot het verrichten van privaatrechtelijke rechtshandelingen opgenomen.
 
 2. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.3&artikel=25&z=2025-07-16&g=2025-07-16) is niet van toepassing op de in het eerste lid bedoelde gegevens.
+
+##### Artikel 16b
+
+1. In het handelsregister wordt over een rechtspersoon dan wel een onderneming een indicatie van het aantal arbeidsverhoudingen opgenomen, samengesteld op basis van gegevens uit de polisadministratie, bedoeld in [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33), met een aanduiding van de verhouding naar in ieder geval geslacht en arbeidsduur.
+
+2. Bij algemene maatregel van bestuur worden regels gesteld ter uitvoering van het eerste lid, betreffende in ieder geval de werkwijze omtrent het opnemen van de indicatie van het aantal arbeidsverhoudingen in het handelsregister en de samenstelling van die indicatie.
+
+3. De [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.3&artikel=25&z=2025-07-16&g=2025-07-16) en [32, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2025-07-16&g=2025-07-16), zijn niet van toepassing op de in het eerste lid bedoelde gegevens.
 
 ##### Artikel 17
 
@@ -411,6 +342,16 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 - b. het verrichten van betalingen.
 
+##### Artikel 19a
+
+1. Bij algemene maatregel van bestuur wordt voor daarbij aangewezen rechtspersonen bepaald dat voor daarbij aangewezen bescheiden waarvan bij of krachtens de wet is voorgeschreven dat die bij het handelsregister worden gedeponeerd, deponering daarvan uitsluitend langs elektronische weg plaatsvindt en worden regels gesteld over de wijze waarop die deponering moet plaatsvinden.
+
+2. Voor aangewezen bescheiden als bedoeld in het eerste lid, waarvan de inhoud betrekking heeft op enig boekjaar, wordt bij de in het eerste lid bedoelde algemene maatregel van bestuur tevens bepaald vanaf welk boekjaar de in het eerste lid bedoelde verplichting daarop van toepassing is.
+
+3. De Kamer draagt zorg voor het langs elektronische weg kunnen ontvangen van aangewezen bescheiden als bedoeld in het eerste lid op de in dat lid genoemde algemene maatregel van bestuur vastgestelde wijze.
+
+4. Bij algemene maatregel van bestuur kan worden bepaald dat de Kamer ondersteunende voorzieningen beschikbaar stelt, voor zover dit ten behoeve van het deponeren van op grond van het eerste lid aangewezen bescheiden door op grond van het eerste lid aangewezen rechtspersonen noodzakelijk is.
+
 ##### Artikel 20
 
 1. De opgave voor de eerste inschrijving van een onderneming wordt gedaan binnen een periode van twee weken, die begint een week vóór en eindigt een week ná de aanvang van de bedrijfsuitoefening. De opgave voor de eerste inschrijving van een rechtspersoon wordt gedaan binnen één week na het plaatsvinden van het feit ten gevolge waarvan de verplichting tot inschrijving ontstaat.
@@ -435,7 +376,7 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 ##### Artikel 21
 
-1. De in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2025-07-16&g=2025-07-16), [10, met uitzondering van het tweede lid, onderdeel a en het derde lid, onderdeel e, onder 1°, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2025-07-16&g=2025-07-16), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2025-07-16&g=2025-07-16), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2025-07-16&g=2025-07-16), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2025-07-16&g=2025-07-16), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=14&z=2025-07-16&g=2025-07-16), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2025-07-16&g=2025-07-16), en [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16a&z=2025-07-16&g=2025-07-16), genoemde gegevens, de in [artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2025-07-16&g=2025-07-16), bedoelde gegevens, en de krachtens wettelijk voorschrift gedeponeerde bescheiden, met uitzondering van de bescheiden, bedoeld in [artikel 15a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), kunnen door een ieder worden ingezien.
+1. De in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2025-07-16&g=2025-07-16), [10, met uitzondering van het tweede lid, onderdeel a en het derde lid, onderdeel e, onder 1°, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2025-07-16&g=2025-07-16), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2025-07-16&g=2025-07-16), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2025-07-16&g=2025-07-16), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2025-07-16&g=2025-07-16), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=14&z=2025-07-16&g=2025-07-16), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2025-07-16&g=2025-07-16), en [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16a&z=2025-07-16&g=2025-07-16), genoemde gegevens, de in [artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2025-07-16&g=2025-07-16), bedoelde gegevens, en de krachtens wettelijk voorschrift gedeponeerde bescheiden, met uitzondering van de bescheiden, bedoeld in [artikel 15a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), kunnen door een ieder worden ingezien.
 
 2. Een handtekening kan niet in elektronische vorm worden ingezien.
 
@@ -449,17 +390,47 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 4. In afwijking van het eerste lid verstrekt de Kamer een handtekening niet in elektronische vorm.
 
-5. Dit lid is nog niet in werking getreden.
+5. *Dit lid is nog niet in werking getreden.*
 
-6. De Kamer geeft een uiteindelijk belanghebbende op verzoek inzicht in het aantal keer dat zijn gegevens, bedoeld in [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), zijn verstrekt, met uitzondering van verstrekkingen aan de Financiële inlichtingen eenheid, bevoegde autoriteiten en bestuursorganen, instellingen of andere personen of rechtspersonen als bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2025-07-16&g=2025-07-16). Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de uiteindelijk belanghebbende inzicht kan krijgen.
+6. De Kamer geeft een uiteindelijk belanghebbende op verzoek inzicht in het aantal keer dat zijn gegevens, bedoeld in [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), zijn verstrekt, met uitzondering van verstrekkingen aan de Financiële inlichtingen eenheid, bevoegde autoriteiten en bestuursorganen, instellingen of andere personen of rechtspersonen als bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2025-07-16&g=2025-07-16). Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de uiteindelijk belanghebbende inzicht kan krijgen.
 
-7. Dit lid is nog niet in werking getreden.
+7. *Dit lid is nog niet in werking getreden.*
 
-8. De Kamer verstrekt aan een vennootschap of andere juridische entiteit op elektronisch verzoek, indien gewenst in elektronische vorm, een afschrift van haar gegevens, bedoeld in artikel 15a, tweede lid, onderdelen c en e.
+8. De Kamer verstrekt aan een vennootschap of andere juridische entiteit op elektronisch verzoek, indien gewenst in elektronische vorm, een afschrift van haar gegevens, bedoeld in artikel 15a, tweede lid, onderdelen c en e.
+
+##### Artikel 22a
+
+1. De in [artikel 15a, tweede lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), bedoelde gegevens kunnen worden ingezien door:
+
+- a. een instelling als bedoeld in [artikel 1, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1) ten behoeve van een op grond van die wet of de Wet toezicht trustkantoren 2018 verplicht cliëntenonderzoek;
+
+- b. een instelling als bedoeld in [artikel 10, tweede lid, onderdelen a tot en met m, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) ten behoeve van de naleving van de bij of krachtens [afdeling 5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5) bepaalde verplichtingen met betrekking tot het financieel verkeer.
+
+2. Voor zover zij een aantoonbaar legitiem belang hebben bij inzage van de in het eerste lid bedoelde gegevens, kunnen die gegevens op verzoek tevens worden ingezien door bij algemene maatregel van bestuur aan te wijzen categorieën van natuurlijke personen en rechtspersonen. Dit legitiem belang houdt verband met het voorkomen of bestrijden van witwassen, daarmee verband houdende basisdelicten, of financieren van terrorisme.
+
+3. Indien een verzoek als bedoeld in het tweede lid is toegewezen, stelt de kamer de uiteindelijk belanghebbende op wiens gegevens het verzoek ziet daarvan op de hoogte, alsmede van welk doel het verzoek dient.
+
+4. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2025-07-16&g=2025-07-16) is van overeenkomstige toepassing op verstrekking van gegevens als bedoeld in het eerste of tweede lid.
+
+5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over:
+
+- a. de wijze waarop de in het eerste en tweede lid bedoelde gegevens kunnen worden ingezien;
+
+- b. de bij het inzien van die gegevens te stellen voorschriften;
+
+- c. de wijze waarop een legitiem belang als bedoeld in het tweede lid kan worden aangetoond;
+
+- d. het in behandeling nemen van een aanvraag om gegevens in te zien voor personen en rechtspersonen met een legitiem belang als bedoeld in het tweede lid en de beslissing op deze aanvraag; en
+
+- e. het verlenen van een certificaat of het weigeren, opschorten of intrekken van de toegang, bedoeld in artikel 13, zesde tot en met achtste lid en tiende lid, van Richtlijn (EU) 2024/1640 van het Europees Parlement en de Raad van 31 mei 2024 betreffende de mechanismen die de lidstaten moeten invoeren om het gebruik van het financiële stelsel voor witwassen of terrorismefinanciering te voorkomen, tot wijziging van Richtlijn (EU) 2019/1937, en tot wijziging en intrekking van Richtlijn (EU) 2015/849 (PbEU 2024, L 2024/1640).
+
+6. De in [artikel 15a, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), genoemde gegevens en bescheiden kunnen worden ingezien door degene die tot het doen van opgave ter inschrijving in het handelsregister is verplicht voor zover het die vennootschap of de andere juridische entiteit betreft.
+
+7. De voordracht voor een krachtens het tweede of vierde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 23
 
-Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke levenssfeer van de personen die in het handelsregister staan ingeschreven voor daarbij aangewezen gegevens of bescheiden of categorieën van gegevens of bescheiden, beperkingen worden vastgesteld ten aanzien van het bepaalde in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2025-07-16&g=2025-07-16), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2025-07-16&g=2025-07-16), [22a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22a&z=2025-07-16&g=2025-07-16) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2025-07-16&g=2025-07-16).
+Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke levenssfeer van de personen die in het handelsregister staan ingeschreven voor daarbij aangewezen gegevens of bescheiden of categorieën van gegevens of bescheiden, beperkingen worden vastgesteld ten aanzien van het bepaalde in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2025-07-16&g=2025-07-16), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2025-07-16&g=2025-07-16), [22a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22a&z=2025-07-16&g=2025-07-16) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2025-07-16&g=2025-07-16).
 
 #### § 4.2. Publicatie inschrijvingen
 
@@ -471,7 +442,7 @@ Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke le
 
 3. Bij algemene maatregel van bestuur kunnen gegevens en bescheiden worden aangewezen waarvoor het eerste of tweede lid niet geldt.
 
-#### § 4.2. Publicatie inschrijvingen
+#### § 4.3. Derdenwerking
 
 ##### Artikel 25
 
@@ -485,7 +456,7 @@ Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke le
 
 - a. artikel 811, tweede lid, van Boek 7 van het Burgerlijk Wetboek;
 
-- b. opgaven betreffende aangelegenheden die ingevolge enig wettelijk voorschrift – niet zijnde [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045), [verordening 2137/85](31985R2137) of [verordening 2157/2001](32001R2157) – ook op andere wijze worden bekend gemaakt;
+- b. opgaven betreffende aangelegenheden die ingevolge enig wettelijk voorschrift – niet zijnde [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045), verordening 2137/85 of verordening 2157/2001 – ook op andere wijze worden bekend gemaakt;
 
 - c. de bij algemene maatregel van bestuur aangewezen gegevens;
 
@@ -493,9 +464,9 @@ Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke le
 
 ##### Artikel 26
 
-De Kamer draagt zorg voor mededeling aan het Bureau voor officiële publicaties der Europese Gemeenschappen als bedoeld in artikel 39, tweede lid, van [verordening 2137/85](31985R2137) en artikel 14, derde lid, van [verordening 2157/2001](32001R2157).
+De Kamer draagt zorg voor mededeling aan het Bureau voor officiële publicaties der Europese Gemeenschappen als bedoeld in artikel 39, tweede lid, van verordening 2137/85 en artikel 14, derde lid, van verordening 2157/2001.
 
-#### § 4.3. Derdenwerking
+#### § 4.4. Verplichte vermelding nummer
 
 ##### Artikel 27
 
@@ -513,15 +484,15 @@ De Kamer draagt zorg voor mededeling aan het Bureau voor officiële publicaties 
 
 - b. voor zover het betreft brieven en orders, aan naamloze vennootschappen, besloten vennootschappen met beperkte aansprakelijkheid en Europese naamloze vennootschappen.
 
-### Hoofdstuk 5. Verstrekking van gegevens aan bestuursorganen en gebruik van gegevens door bestuursorganen
+### Hoofdstuk 5. Verstrekking van gegevens aan bestuursorganen en andere bevoegde autoriteiten en gebruik van gegevens door bestuursorganen
 
-#### § 4.4. Verplichte vermelding nummer
+#### § 5.1. Verstrekking aan bestuursorganen en andere bevoegde autoriteiten
 
 ##### Artikel 28
 
 1. De in [artikel 10, tweede lid, onderdeel a, en derde lid, onderdeel e, onder 1°, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2025-07-16&g=2025-07-16), en [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2025-07-16&g=2025-07-16), bedoelde gegevens kunnen worden ingezien door een bestuursorgaan in het kader van de uitoefening van zijn wettelijke taak of bevoegdheid of een rechtspersoon met een overheidstaak als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1) in het kader van de uitoefening van zijn wettelijke bevoegdheid.
 
-2. De in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), genoemde gegevens en de in artikel 15a, derde lid, genoemde bescheiden kunnen worden ingezien door:
+2. De in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), genoemde gegevens en de in artikel 15a, derde lid, genoemde bescheiden kunnen worden ingezien door:
 
 - a. de Financiële inlichtingen eenheid en een bij algemene maatregel van bestuur aangewezen bevoegde autoriteit;
 
@@ -529,9 +500,9 @@ De Kamer draagt zorg voor mededeling aan het Bureau voor officiële publicaties 
 
 - c. een krachtens [artikel 10, tweede lid, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) door Onze Minister van Financiën aangewezen rechtspersoon in het kader van het toezicht op de naleving van het bij of krachtens [afdeling 5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5) bepaalde met betrekking tot het financieel verkeer;
 
-- d. bij algemene maatregel van bestuur aangewezen bestuursorganen en rechtspersonen met een overheidstaak, voor zover dit noodzakelijk is in het kader van de uitoefening van een taak of bevoegdheid waar bestuursorganen en rechtspersonen met een overheidstaak bij of krachtens de wet dan wel bij of krachtens een verordening als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie mee zijn belast;
+- d. bij algemene maatregel van bestuur aangewezen bestuursorganen en rechtspersonen met een overheidstaak, voor zover dit noodzakelijk is in het kader van de uitoefening van een taak of bevoegdheid waar bestuursorganen en rechtspersonen met een overheidstaak bij of krachtens de wet dan wel bij of krachtens een verordening als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie mee zijn belast;
 
-- e. de instellingen, genoemd in artikel 11, eerste lid, onderdelen e tot en met h, van [Richtlijn (EU) 2024/1640](32024L1640) van het Europees Parlement en de Raad van 31 mei 2024 betreffende de mechanismen die de lidstaten moeten invoeren om het gebruik van het financiële stelsel voor witwassen of terrorismefinanciering te voorkomen, tot wijziging van [Richtlijn (EU) 2019/1937](32019L1937), en tot wijziging en intrekking van [Richtlijn (EU) 2015/849](32015L0849) (PbEU 2024, L 2024/1640).
+- e. de instellingen, genoemd in artikel 11, eerste lid, onderdelen e tot en met h, van Richtlijn (EU) 2024/1640 van het Europees Parlement en de Raad van 31 mei 2024 betreffende de mechanismen die de lidstaten moeten invoeren om het gebruik van het financiële stelsel voor witwassen of terrorismefinanciering te voorkomen, tot wijziging van Richtlijn (EU) 2019/1937, en tot wijziging en intrekking van Richtlijn (EU) 2015/849 (PbEU 2024, L 2024/1640).
 
 3. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2025-07-16&g=2025-07-16) is van overeenkomstige toepassing op verstrekking van gegevens als bedoeld in het eerste of tweede lid.
 
@@ -557,7 +528,7 @@ De Kamer draagt zorg voor mededeling aan het Bureau voor officiële publicaties 
 
 5. De betrokken bestuurder of commissaris kan bij de Kamer een opgave doen om ervoor te zorgen dat de gegevens, bedoeld in het derde lid, juist en volledig bij het handelsregister zijn geregistreerd.
 
-#### § 5.1. Verstrekking aan bestuursorganen en andere bevoegde autoriteiten
+#### § 5.2. Gebruik door bestuursorganen
 
 ##### Artikel 30
 
@@ -573,7 +544,7 @@ De Kamer draagt zorg voor mededeling aan het Bureau voor officiële publicaties 
 
 - d. een goede vervulling van de taak van het bestuursorgaan door de onverkorte toepassing van het eerste lid wordt belet.
 
-#### § 5.2. Gebruik door bestuursorganen
+#### § 5.3. Eenmalige gegevensverstrekking
 
 ##### Artikel 31
 
@@ -622,6 +593,18 @@ Op een melding als bedoeld in [artikel 32, tweede lid](https://wetten.overheid.n
 2. Bij algemene maatregel van bestuur kunnen niet-authentieke gegevens worden aangewezen waarop het eerste lid van overeenkomstige toepassing is.
 
 3. Op een verzoek als bedoeld in de artikelen 16 en 17 van de Algemene verordening gegevensbescherming, zijn de [artikelen 33 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2025-07-16&g=2025-07-16) van overeenkomstige toepassing.
+
+##### Artikel 38a
+
+1. Een instelling als bedoeld in [artikel 22a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22a&z=2025-07-16&g=2025-07-16), of een krachtens [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2025-07-16&g=2025-07-16), aangewezen bevoegde autoriteit of bestuursorgaan of andere persoon of rechtspersoon doet melding aan de Kamer van iedere discrepantie die zij aantreft tussen een gegeven omtrent een uiteindelijk belanghebbende dat zij verstrekt heeft gekregen uit het handelsregister en de informatie over die uiteindelijk belanghebbende waarover zij uit anderen hoofde beschikt.
+
+2. Het eerste lid is niet van toepassing indien nakoming van de in dat lid neergelegde verplichting de uitoefening van de wettelijke taak of bevoegdheid van de betreffende bevoegde autoriteit onnodig zou doorkruisen.
+
+3. Op een melding als bedoeld in het eerste lid is het bepaalde bij of krachtens de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2025-07-16&g=2025-07-16), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2025-07-16&g=2025-07-16), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=35&z=2025-07-16&g=2025-07-16) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=36&z=2025-07-16&g=2025-07-16) van toepassing.
+
+4. Bij een melding als bedoeld in het eerste lid verstrekt een instelling of aangewezen bevoegde autoriteit, bestuursorgaan of andere persoon of rechtspersoon de gegevens, bedoeld in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), waarover zij beschikt en kan zij de bescheiden, bedoeld in artikel 15a, derde lid, verstrekken waarover zij beschikt.
+
+5. De Kamer bepaalt de wijze waarop een melding als bedoeld in het eerste lid wordt gedaan.
 
 ##### Artikel 39
 
@@ -677,29 +660,29 @@ De Kamer treft maatregelen die ertoe strekken te waarborgen dat het handelsregis
 
 3. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.
 
-### Hoofdstuk 7. Kwaliteitscontrole van het handelsregister
+### Hoofdstuk 8. Toezicht en handhaving
 
 #### § 8.1. Toezicht op het beheer van het handelsregister
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
-Vervallen
+*Vervallen*
 
 #### § 8.2. Handhaving
 
@@ -707,7 +690,23 @@ Vervallen
 
 Het is verboden te handelen in strijd met dan wel niet te voldoen aan een bij of krachtens deze wet gestelde verplichting tot het doen van een opgave ter inschrijving in het handelsregister.
 
-#### § 8.2. Handhaving
+##### Artikel 47a
+
+Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van overtreding van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.2&artikel=47&z=2025-07-16&g=2025-07-16), indien er sprake is van het handelen in strijd met [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=3&artikel=19&z=2025-07-16&g=2025-07-16), voor zover de daartoe verplichte persoon niet de opgave doet die de Kamer nodig heeft om ervoor te zorgen dat de in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), bedoelde gegevens te allen tijde juist en volledig zijn ingeschreven in het handelsregister.
+
+##### Artikel 47b
+
+1. Onze Minister van Financiën kan een bestuurlijke boete opleggen ter zake van overtreding van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.2&artikel=47&z=2025-07-16&g=2025-07-16), indien er sprake is van het handelen in strijd met [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=3&artikel=19&z=2025-07-16&g=2025-07-16), voor zover de daartoe verplichte persoon niet de opgave doet die de Kamer nodig heeft om ervoor te zorgen dat de in [artikel 15a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), bedoelde gegevens en bescheiden te allen tijde juist en volledig zijn ingeschreven in het handelsregister.
+
+2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+
+##### Artikel 47c
+
+1. Onze Minister van Financiën is bevoegd van een vennootschap of andere juridische entiteit waarvan op grond van [artikel 15a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), de uiteindelijk belanghebbenden zijn ingeschreven in het handelsregister, inlichtingen te vorderen die hij redelijkerwijs voor de vervulling van zijn taak, bedoeld in de [artikelen 47a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.2&artikel=47a&z=2025-07-16&g=2025-07-16) en [47b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.2&artikel=47b&z=2025-07-16&g=2025-07-16), nodig heeft. De vennootschappen en andere juridische entiteiten zijn verplicht aan Onze Minister van Financiën binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitvoering van deze bevoegdheid.
+
+2. Het eerste lid is van overeenkomstige toepassing op een instelling die een melding als bedoeld in [artikel 10c, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=10c) heeft gedaan.
+
+#### § 8.3. Klachtenbehandeling
 
 ##### Artikel 48
 
@@ -731,7 +730,7 @@ De Kamer draagt zorg voor een procedure voor de behandeling van klachten over de
 
 1. Voor de inzage of de verstrekking van gegevens is een bij of krachtens algemene maatregel van bestuur te bepalen vergoeding verschuldigd, welke kan variëren naar de wijze van inzage of verstrekking van gegevens en de hoeveelheid gegevens.
 
-2. [Artikel 9a, derde lid, van de Wet hergebruik van overheidsinformatie](onbekend) is van toepassing op de vergoeding, bedoeld in het eerste lid.
+2. Artikel 9a, derde lid, van de Wet hergebruik van overheidsinformatie is van toepassing op de vergoeding, bedoeld in het eerste lid.
 
 3. De verplichting tot betaling van een vergoeding als bedoeld in het eerste lid geldt niet indien het verzoek om gegevens wordt gedaan door de directeur-generaal van de statistiek op grond van [artikel 33, vierde lid, van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=33).
 
@@ -745,17 +744,77 @@ De Kamer draagt zorg voor een procedure voor de behandeling van klachten over de
 
 De Kamer is bevoegd de betaling van een vergoeding of bijdrage af te dwingen door het uitvaardigen van een dwangbevel.
 
+##### Artikel 50b
+
+1. Voor de identificatiecode voor juridische entiteiten (Legal Entity Identifier), bedoeld in de [artikelen 9, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2025-07-16&g=2025-07-16), en [12, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2025-07-16&g=2025-07-16), welke door de Kamer wordt uitgegeven, is een bij of krachtens algemene maatregel van bestuur te bepalen eenmalige uitgiftevergoeding en een jaarlijkse vergoeding verschuldigd.
+
+2. De in het eerste lid bedoelde vergoedingen zijn verschuldigd zonder dat deze bij beschikking zijn vastgesteld.
+
+3. Bij algemene maatregel van bestuur wordt de betalingstermijn vastgesteld.
+
 ### Hoofdstuk 10. Overige bepalingen
 
 ##### Artikel 51
 
 Indien in deze wet geregelde of daarmee verband houdende onderwerpen in het belang van een goede uitvoering van de wet of in het belang van de uitvoering van een bindend besluit van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen regeling of nadere regeling behoeven, kan deze geschieden bij algemene maatregel van bestuur.
 
+##### Artikel 51a
+
+Het recht, bedoeld in [artikel 2, eerste lid, van de Databankenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=I) is, ten aanzien van het handelsregister, voorbehouden aan de Kamer.
+
 ##### Artikel 52
 
 Onze Minister overlegt periodiek met een representatieve vertegenwoordiging van de gebruikers van het handelsregister over de inhoud, de inrichting, de werking en de beveiliging van het handelsregister.
 
-### Hoofdstuk 9. Financiën
+### Hoofdstuk 11. Wijziging andere wetten
+
+##### Artikel 53
+
+*Wijzigt de Wet op de kamers van koophandel en fabrieken 1997.*
+
+##### Artikel 54
+
+*Wijzigt de Wet op de economische delicten.*
+
+##### Artikel 55
+
+*Wijzigt de Wet op de bedrijfsorganisatie.*
+
+##### Artikel 55a
+
+*Wijzigt het Burgerlijk Wetboek Boek 2 en de Wet op de formeel buitenlandse vennootschappen.*
+
+##### Artikel 55b
+
+*Wijzigt het Burgerlijk Wetboek Boek 6.*
+
+##### Artikel 55c
+
+*Wijzigt het Wetboek van Koophandel.*
+
+##### Artikel 55d
+
+*Wijzigt de Wet documentatie vennootschappen.*
+
+##### Artikel 55e
+
+*Wijzigt de Uitvoeringswet verordening Europese coöperatieve vennootschap, de Uitvoeringswet verordening Europese vennootschap en de Uitvoeringswet Verordening tot instelling van Europese economische samenwerkingsverbanden.*
+
+##### Artikel 55f
+
+*Wijzigt de Kieswet.*
+
+##### Artikel 55g
+
+*Wijzigt de Wet nationaliteit zeeschepen in rompbevrachting.*
+
+##### Artikel 55h
+
+*Wijzigt de Uitvoeringswet Visserijverdrag 1967.*
+
+##### Artikel 55i
+
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet structuur uitvoeringsorganisatie werk en inkomen, de Wet werk en bijstand en de Wet werk en inkomen kunstenaars.*
 
 ### Hoofdstuk 12. Overgangs- en slotbepalingen
 
@@ -769,7 +828,7 @@ De [Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893) ve
 
 2. Indien op het tijdstip van inwerkingtreding van deze wet in het handelsregister gegevens staan ingeschreven die niet op grond van een wettelijk voorschrift behoeven te worden ingeschreven, haalt de Kamer die gegevens binnen drie maanden na het eerder genoemde tijdstip door.
 
-3. In afwijking van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=3&artikel=20&z=2025-07-16&g=2025-07-16), doen vennootschappen en andere juridische entiteiten die op het tijdstip van inwerkingtreding van de [Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten](onbekend) zijn ingeschreven in het handelsregister, de eerste opgave van gegevens en deponering van bescheiden als bedoeld in [artikel 15a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), binnen 18 maanden na dat tijdstip.
+3. In afwijking van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=3&artikel=20&z=2025-07-16&g=2025-07-16), doen vennootschappen en andere juridische entiteiten die op het tijdstip van inwerkingtreding van de Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten zijn ingeschreven in het handelsregister, de eerste opgave van gegevens en deponering van bescheiden als bedoeld in [artikel 15a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), binnen 18 maanden na dat tijdstip.
 
 ##### Artikel 58
 
@@ -777,7 +836,7 @@ Bij ministeriële regeling kunnen, in overeenstemming met Onze betrokken Ministe
 
 ##### Artikel 59
 
-1. In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.2&artikel=30&z=2025-07-16&g=2025-07-16) kunnen gedurende zes jaar na de inwerkingtreding van artikel 30 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 30 genoemde verplichting uitsluitend geldt.
+1. In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.2&artikel=30&z=2025-07-16&g=2025-07-16) kunnen gedurende zes jaar na de inwerkingtreding van artikel 30 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 30 genoemde verplichting uitsluitend geldt.
 
 2. In afwijking van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2025-07-16&g=2025-07-16) kunnen gedurende zes jaar na de inwerkingtreding van artikel 32 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 32 genoemde verplichting uitsluitend geldt.
 
@@ -791,15 +850,15 @@ Bij algemene maatregel van bestuur kan gedurende vier jaar na inwerkingtreding v
 
 ##### Artikel 62
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 62a
 
-Wijzigt de Postwet.
+*Wijzigt de Postwet.*
 
 ##### Artikel 62b
 
-Wijzigt kamerstuk 30536.
+*Wijzigt kamerstuk 30536.*
 
 ##### Artikel 63
 
@@ -812,245 +871,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 65
 
 Deze wet wordt aangehaald als: Handelsregisterwet met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 19a
-
-1. Bij algemene maatregel van bestuur wordt voor daarbij aangewezen rechtspersonen bepaald dat voor daarbij aangewezen bescheiden waarvan bij of krachtens de wet is voorgeschreven dat die bij het handelsregister worden gedeponeerd, deponering daarvan uitsluitend langs elektronische weg plaatsvindt en worden regels gesteld over de wijze waarop die deponering moet plaatsvinden.
-
-2. Voor aangewezen bescheiden als bedoeld in het eerste lid, waarvan de inhoud betrekking heeft op enig boekjaar, wordt bij de in het eerste lid bedoelde algemene maatregel van bestuur tevens bepaald vanaf welk boekjaar de in het eerste lid bedoelde verplichting daarop van toepassing is.
-
-3. De Kamer draagt zorg voor het langs elektronische weg kunnen ontvangen van aangewezen bescheiden als bedoeld in het eerste lid op de in dat lid genoemde algemene maatregel van bestuur vastgestelde wijze.
-
-4. Bij algemene maatregel van bestuur kan worden bepaald dat de Kamer ondersteunende voorzieningen beschikbaar stelt, voor zover dit ten behoeve van het deponeren van op grond van het eerste lid aangewezen bescheiden door op grond van het eerste lid aangewezen rechtspersonen noodzakelijk is.
-
-### Hoofdstuk 4. De verstrekking en het gebruik van gegevens
-
-#### § 4.1. De verstrekking van gegevens, algemeen
-
-#### § 4.2. Publicatie inschrijvingen
-
-#### § 4.2. Publicatie inschrijvingen
-
-#### § 4.3. Derdenwerking
-
-### Hoofdstuk 5. Verstrekking van gegevens aan bestuursorganen en gebruik van gegevens door bestuursorganen
-
-#### § 4.4. Verplichte vermelding nummer
-
-#### § 5.1. Verstrekking aan bestuursorganen en andere bevoegde autoriteiten
-
-#### § 5.2. Gebruik door bestuursorganen
-
-### Hoofdstuk 6. Wijziging van de in het handelsregister opgenomen gegevens
-
-### Hoofdstuk 7. Kwaliteitscontrole van het handelsregister
-
-### Hoofdstuk 7. Kwaliteitscontrole van het handelsregister
-
-#### § 8.1. Toezicht op het beheer van het handelsregister
-
-#### § 8.2. Handhaving
-
-#### § 8.3. Klachtenbehandeling
-
-### Hoofdstuk 9. Financiën
-
-### Hoofdstuk 10. Overige bepalingen
-
-### Hoofdstuk 9. Financiën
-
-### Hoofdstuk 12. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 16b
-
-1. In het handelsregister wordt over een rechtspersoon dan wel een onderneming een indicatie van het aantal arbeidsverhoudingen opgenomen, samengesteld op basis van gegevens uit de polisadministratie, bedoeld in [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33), met een aanduiding van de verhouding naar in ieder geval geslacht en arbeidsduur.
-
-2. Bij algemene maatregel van bestuur worden regels gesteld ter uitvoering van het eerste lid, betreffende in ieder geval de werkwijze omtrent het opnemen van de indicatie van het aantal arbeidsverhoudingen in het handelsregister en de samenstelling van die indicatie.
-
-3. De [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.3&artikel=25&z=2025-07-16&g=2025-07-16) en [32, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2025-07-16&g=2025-07-16), zijn niet van toepassing op de in het eerste lid bedoelde gegevens.
-
-### Hoofdstuk 4. De verstrekking en het gebruik van gegevens
-
-#### § 4.1. De verstrekking van gegevens, algemeen
-
-#### § 4.2. Publicatie inschrijvingen
-
-#### § 4.4. Verplichte vermelding nummer
-
-### Hoofdstuk 5. Verstrekking van gegevens aan bestuursorganen en gebruik van gegevens door bestuursorganen
-
-#### § 5.1. Verstrekking aan bestuursorganen
-
-#### § 5.2. Gebruik door bestuursorganen
-
-### Hoofdstuk 6. Wijziging van de in het handelsregister opgenomen gegevens
-
-### Hoofdstuk 7. Kwaliteitscontrole van het handelsregister
-
-### Hoofdstuk 8. Toezicht en handhaving
-
-#### § 8.1. Toezicht op het beheer van het handelsregister
-
-#### § 8.2. Handhaving
-
-### Hoofdstuk 9. Financiën
-
-##### Artikel 50b
-
-1. Voor de identificatiecode voor juridische entiteiten (Legal Entity Identifier), bedoeld in de [artikelen 9, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2025-07-16&g=2025-07-16), en [12, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2025-07-16&g=2025-07-16), welke door de Kamer wordt uitgegeven, is een bij of krachtens algemene maatregel van bestuur te bepalen eenmalige uitgiftevergoeding en een jaarlijkse vergoeding verschuldigd.
-
-2. De in het eerste lid bedoelde vergoedingen zijn verschuldigd zonder dat deze bij beschikking zijn vastgesteld.
-
-3. Bij algemene maatregel van bestuur wordt de betalingstermijn vastgesteld.
-
-##### Artikel 51a
-
-Het recht, bedoeld in [artikel 2, eerste lid, van de Databankenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=I) is, ten aanzien van het handelsregister, voorbehouden aan de Kamer.
-
-### Hoofdstuk 10. Overige bepalingen
-
-### Hoofdstuk 12. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 15a
-
-1. In het handelsregister wordt opgenomen wie de uiteindelijk belanghebbende is of de uiteindelijk belanghebbenden zijn van vennootschappen of andere juridische entiteiten als bedoeld in [artikel 10a, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=10a) die overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2025-07-16&g=2025-07-16) of [6, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2025-07-16&g=2025-07-16), zijn ingeschreven in het handelsregister, met uitzondering van verenigingen van eigenaars en overige privaatrechtelijke rechtspersonen als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2025-07-16&g=2025-07-16).
-
-2. In het handelsregister wordt over een uiteindelijk belanghebbende opgenomen:
-
-- a. het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), indien dat aan hem is toegekend;
-
-- b. een fiscaal identificatienummer van een ander land dan Nederland waarvan hij ingezetene is, indien dat door zijn woonstaat aan hem is toegekend;
-
-- c. de naam, de geboortemaand en het geboortejaar, de woonstaat en de nationaliteit;
-
-- d. de geboortedag, de geboorteplaats, het geboorteland en het woonadres;
-
-- e. de aard van het door de uiteindelijk belanghebbende gehouden economische belang en de omvang van dit belang, aangeduid in bij algemene maatregel van bestuur vast te stellen klassen.
-
-3. In het handelsregister worden ten aanzien van een uiteindelijk belanghebbende gedeponeerd:
-
-- a. afschriften van de documenten op grond waarvan de gegevens, bedoeld in het tweede lid, onderdelen a, b, c en d, zijn geverifieerd;
-
-- b. afschriften van de documenten, behorende tot bij algemene maatregel van bestuur aan te wijzen categorieën, waaruit de aard en omvang van het economische belang, bedoeld in het tweede lid, onderdeel e, blijken.
-
-### Hoofdstuk 3. De inschrijving in het handelsregister
-
-### Hoofdstuk 4. De verstrekking en het gebruik van gegevens
-
-#### § 4.1. De verstrekking van gegevens, algemeen
-
-### Hoofdstuk 5. Verstrekking van gegevens aan bestuursorganen en andere bevoegde autoriteiten en gebruik van gegevens door bestuursorganen
-
-#### § 5.3. Eenmalige gegevensverstrekking
-
-### Hoofdstuk 6. Wijziging van de in het handelsregister opgenomen gegevens
-
-##### Artikel 38a
-
-1. Een instelling als bedoeld in [artikel 22a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22a&z=2025-07-16&g=2025-07-16), of een krachtens [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2025-07-16&g=2025-07-16), aangewezen bevoegde autoriteit of bestuursorgaan of andere persoon of rechtspersoon doet melding aan de Kamer van iedere discrepantie die zij aantreft tussen een gegeven omtrent een uiteindelijk belanghebbende dat zij verstrekt heeft gekregen uit het handelsregister en de informatie over die uiteindelijk belanghebbende waarover zij uit anderen hoofde beschikt.
-
-2. Het eerste lid is niet van toepassing indien nakoming van de in dat lid neergelegde verplichting de uitoefening van de wettelijke taak of bevoegdheid van de betreffende bevoegde autoriteit onnodig zou doorkruisen.
-
-3. Op een melding als bedoeld in het eerste lid is het bepaalde bij of krachtens de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2025-07-16&g=2025-07-16), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2025-07-16&g=2025-07-16), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=35&z=2025-07-16&g=2025-07-16) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=36&z=2025-07-16&g=2025-07-16) van toepassing.
-
-4. Bij een melding als bedoeld in het eerste lid verstrekt een instelling of aangewezen bevoegde autoriteit, bestuursorgaan of andere persoon of rechtspersoon de gegevens, bedoeld in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), waarover zij beschikt en kan zij de bescheiden, bedoeld in artikel 15a, derde lid, verstrekken waarover zij beschikt.
-
-5. De Kamer bepaalt de wijze waarop een melding als bedoeld in het eerste lid wordt gedaan.
-
-### Hoofdstuk 8. Toezicht en handhaving
-
-#### § 8.1. Toezicht op het beheer van het handelsregister
-
-##### Artikel 47a
-
-Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van overtreding van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.2&artikel=47&z=2025-07-16&g=2025-07-16), indien er sprake is van het handelen in strijd met [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=3&artikel=19&z=2025-07-16&g=2025-07-16), voor zover de daartoe verplichte persoon niet de opgave doet die de Kamer nodig heeft om ervoor te zorgen dat de in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), bedoelde gegevens te allen tijde juist en volledig zijn ingeschreven in het handelsregister.
-
-##### Artikel 47b
-
-1. Onze Minister van Financiën kan een bestuurlijke boete opleggen ter zake van overtreding van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.2&artikel=47&z=2025-07-16&g=2025-07-16), indien er sprake is van het handelen in strijd met [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=3&artikel=19&z=2025-07-16&g=2025-07-16), voor zover de daartoe verplichte persoon niet de opgave doet die de Kamer nodig heeft om ervoor te zorgen dat de in [artikel 15a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), bedoelde gegevens en bescheiden te allen tijde juist en volledig zijn ingeschreven in het handelsregister.
-
-2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
-
-#### § 8.3. Klachtenbehandeling
-
-### Hoofdstuk 9. Financiën
-
-### Hoofdstuk 11. Wijziging andere wetten
-
-### Hoofdstuk 12. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 47c
-
-1. Onze Minister van Financiën is bevoegd van een vennootschap of andere juridische entiteit waarvan op grond van [artikel 15a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), de uiteindelijk belanghebbenden zijn ingeschreven in het handelsregister, inlichtingen te vorderen die hij redelijkerwijs voor de vervulling van zijn taak, bedoeld in de [artikelen 47a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.2&artikel=47a&z=2025-07-16&g=2025-07-16) en [47b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.2&artikel=47b&z=2025-07-16&g=2025-07-16), nodig heeft. De vennootschappen en andere juridische entiteiten zijn verplicht aan Onze Minister van Financiën binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitvoering van deze bevoegdheid.
-
-2. Het eerste lid is van overeenkomstige toepassing op een instelling die een melding als bedoeld in [artikel 10c, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=10c) heeft gedaan.
-
-#### § 8.3. Klachtenbehandeling
-
-### Hoofdstuk 10. Overige bepalingen
-
-### Hoofdstuk 11. Wijziging andere wetten
-
-### Hoofdstuk 12. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 22a
-
-1. De in [artikel 15a, tweede lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), bedoelde gegevens kunnen worden ingezien door:
-
-- a. een instelling als bedoeld in [artikel 1, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1) ten behoeve van een op grond van die wet of de Wet toezicht trustkantoren 2018 verplicht cliëntenonderzoek;
-
-- b. een instelling als bedoeld in [artikel 10, tweede lid, onderdelen a tot en met m, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) ten behoeve van de naleving van de bij of krachtens [afdeling 5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5) bepaalde verplichtingen met betrekking tot het financieel verkeer.
-
-2. Voor zover zij een aantoonbaar legitiem belang hebben bij inzage van de in het eerste lid bedoelde gegevens, kunnen die gegevens op verzoek tevens worden ingezien door bij algemene maatregel van bestuur aan te wijzen categorieën van natuurlijke personen en rechtspersonen. Dit legitiem belang houdt verband met het voorkomen of bestrijden van witwassen, daarmee verband houdende basisdelicten, of financieren van terrorisme.
-
-3. Indien een verzoek als bedoeld in het tweede lid is toegewezen, stelt de kamer de uiteindelijk belanghebbende op wiens gegevens het verzoek ziet daarvan op de hoogte, alsmede van welk doel het verzoek dient.
-
-4. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2025-07-16&g=2025-07-16) is van overeenkomstige toepassing op verstrekking van gegevens als bedoeld in het eerste of tweede lid.
-
-5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over:
-
-- a. de wijze waarop de in het eerste en tweede lid bedoelde gegevens kunnen worden ingezien;
-
-- b. de bij het inzien van die gegevens te stellen voorschriften;
-
-- c. de wijze waarop een legitiem belang als bedoeld in het tweede lid kan worden aangetoond;
-
-- d. het in behandeling nemen van een aanvraag om gegevens in te zien voor personen en rechtspersonen met een legitiem belang als bedoeld in het tweede lid en de beslissing op deze aanvraag; en
-
-- e. het verlenen van een certificaat of het weigeren, opschorten of intrekken van de toegang, bedoeld in artikel 13, zesde tot en met achtste lid en tiende lid, van [Richtlijn (EU) 2024/1640](32024L1640) van het Europees Parlement en de Raad van 31 mei 2024 betreffende de mechanismen die de lidstaten moeten invoeren om het gebruik van het financiële stelsel voor witwassen of terrorismefinanciering te voorkomen, tot wijziging van [Richtlijn (EU) 2019/1937](32019L1937), en tot wijziging en intrekking van [Richtlijn (EU) 2015/849](32015L0849) (PbEU 2024, L 2024/1640).
-
-6. De in [artikel 15a, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2025-07-16&g=2025-07-16), genoemde gegevens en bescheiden kunnen worden ingezien door degene die tot het doen van opgave ter inschrijving in het handelsregister is verplicht voor zover het die vennootschap of de andere juridische entiteit betreft.
-
-7. De voordracht voor een krachtens het tweede of vierde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
-
-### Hoofdstuk 5. Verstrekking van gegevens aan bestuursorganen en andere bevoegde autoriteiten en gebruik van gegevens door bestuursorganen
-
-#### § 5.3. Eenmalige gegevensverstrekking
-
-### Hoofdstuk 6. Wijziging van de in het handelsregister opgenomen gegevens
-
-### Hoofdstuk 8. Toezicht en handhaving
-
-#### § 8.1. Toezicht op het beheer van het handelsregister
-
-#### § 8.2. Handhaving
-
-#### § 8.3. Klachtenbehandeling
-
-### Hoofdstuk 10. Overige bepalingen
-
-### Hoofdstuk 11. Wijziging andere wetten
-
-### Hoofdstuk 12. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,159 +1,130 @@
 ---
 title: "Wet van 5 maart 2007, houdende wijziging van de Kadasterwet, de Organisatiewet Kadaster en enige andere wetten in verband met de aanwijzing van de kadastrale registratie, de kadastrale kaart en het geografisch bestand als basisregistraties en enkele andere wijzigingen (Wet basisregistraties kadaster en topografie)"
+citeertitel: "Wet basisregistraties kadaster en topografie"
 identifier: "BWBR0021547"
-country: "nl"
-rank: "wet"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021547"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9007683"
-version_id: "14339762"
-internal_id: "C20360941"
-label_id: "8986994"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021547/2010-01-01/0"
-intitule_bron: "Stb.2007-105"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-03-05"
-intitule_published: "2007-03-22"
-intitule_in_force: "2007-12-18"
-intitule_status: "goed"
-original_publication: "Stb.2007-105"
-original_signed_date: "2007-03-05"
-original_published_date: "2007-03-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "30544"
-original_url_id: "stb-2007-105"
-entry_into_force_date: "2008-01-01"
-jci_1_3: "jci1.3:c:BWBR0021547&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBR0021547&g=2010-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet basisregistraties kadaster en topografie"
-signed_date: "2007-03-05"
-entry_into_force: "2008-01-01"
+publicatiedatum: 2008-01-01
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBR0021547"
+opgehaald: 2026-08-11
 ---
+
 # Wet van 5 maart 2007, houdende wijziging van de Kadasterwet, de Organisatiewet Kadaster en enige andere wetten in verband met de aanwijzing van de kadastrale registratie, de kadastrale kaart en het geografisch bestand als basisregistraties en enkele andere wijzigingen (Wet basisregistraties kadaster en topografie)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is als onderdeel van de invoering van een stelsel van basisregistraties de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541), de [Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463) en enige andere wetten te wijzigen in verband met de aanwijzing van de kadastrale registratie, de kadastrale kaart en het geografisch bestand als basisregistraties en de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) op enkele onderdelen te vereenvoudigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Kadasterwet.
+*Wijzigt de Kadasterwet.*
 
 ##### Artikel II
 
-Wijzigt de Organisatiewet Kadaster.
+*Wijzigt de Organisatiewet Kadaster.*
 
 ##### Artikel IIA
 
-Wijzigt de Belemmeringenwet privaatrecht.
+*Wijzigt de Belemmeringenwet privaatrecht.*
 
 ##### Artikel IIB
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel III
 
-Wijzigt de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën.
+*Wijzigt de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën.*
 
 ##### Artikel IIIA
 
-Vervallen
+*Vervallen*
 
 ##### Artikel IIIB
 
-Wijzigt de Interimwet stad- en milieubenadering.
+*Wijzigt de Interimwet stad- en milieubenadering.*
 
 ##### Artikel IV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel V
 
-Wijzigt de Luchtvaartwet en deze wet.
+*Wijzigt de Luchtvaartwet en deze wet.*
 
 ##### Artikel VI
 
-Wijzigt de Monumentenwet 1988.
+*Wijzigt de Monumentenwet 1988.*
 
 ##### Artikel VII
 
-Wijzigt de Natuurbeschermingswet 1998.
+*Wijzigt de Natuurbeschermingswet 1998.*
 
 ##### Artikel VIII
 
-Wijzigt de Natuurschoonwet 1928.
+*Wijzigt de Natuurschoonwet 1928.*
 
 ##### Artikel IX
 
-Wijzigt de Onteigeningswet.
+*Wijzigt de Onteigeningswet.*
 
 ##### Artikel IXA
 
-Vervallen
+*Vervallen*
 
 ##### Artikel X
 
-Wijzigt de Reconstructiewet Midden-Delfland.
+*Wijzigt de Reconstructiewet Midden-Delfland.*
 
 ##### Artikel XI
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel XII
 
-Wijzigt de Waterstaatswet 1900.
+*Wijzigt de Waterstaatswet 1900.*
 
 ##### Artikel XIIA
 
-Wijzigt de Wet aansprakelijkheid olietankschepen.
+*Wijzigt de Wet aansprakelijkheid olietankschepen.*
 
 ##### Artikel XIIB
 
-Wijzigt de Wet agrarisch grondverkeer.
+*Wijzigt de Wet agrarisch grondverkeer.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet bodembescherming.
+*Wijzigt de Wet bodembescherming.*
 
 ##### Artikel XIIIA
 
-Wijzigt de Wet geluidhinder.
+*Wijzigt de Wet geluidhinder.*
 
 ##### Artikel XIIIB
 
-Wijzigt de Wet inrichting landelijk gebied.
+*Wijzigt de Wet inrichting landelijk gebied.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
+*Wijzigt de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.*
 
 ##### Artikel XV
 
-Wijzigt de Wet voorkeursrecht gemeenten.
+*Wijzigt de Wet voorkeursrecht gemeenten.*
 
 ##### Artikel XVI
 
-Wijzigt de Wet op de Ruimtelijke Ordening.
+*Wijzigt de Wet op de Ruimtelijke Ordening.*
 
 ##### Artikel XVII
 
-Wijzigt de Wet ruimtelijke ordening.
+*Wijzigt de Wet ruimtelijke ordening.*
 
 ##### Artikel XVIII
 
-Wijzigt deze wet en de Wet ruimtelijke ordening.
+*Wijzigt deze wet en de Wet ruimtelijke ordening.*
 
 ##### Artikel XIX
 
-Wijzigt de Zeebrievenwet.
+*Wijzigt de Zeebrievenwet.*
 
 ##### Artikel XX
 
@@ -182,5 +153,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel XXIII
 
 Deze wet wordt aangehaald als: Wet basisregistraties kadaster en topografie.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

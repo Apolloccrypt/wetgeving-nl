@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Justitie van 27 september 2007, houdende de instelling van het Adviescollege Verloftoetsing tbs (Regeling Adviescollege Verloftoetsing tbs)"
+citeertitel: "Besluit Adviescollege Verloftoetsing tbs"
 identifier: "BWBR0022548"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-10-19"
-last_updated: "2013-10-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022548"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9214403"
-version_id: "14774892"
-internal_id: "C20099651"
-label_id: "9193104"
-dtd_version: "2.0"
-original_entry_into_force: "2007-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022548/2013-10-19/0"
-intitule_bron: "Stcrt.2007-189"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-09-27"
-intitule_published: "2007-10-01"
-intitule_in_force: "2007-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-189"
-original_signed_date: "2007-09-27"
-original_published_date: "2007-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-189-p10-SC82390"
-entry_into_force_date: "2007-10-01"
-jci_1_3: "jci1.3:c:BWBR0022548&z=2013-10-19&g=2013-10-19"
-jci_1_0: "1.0:c:BWBR0022548&g=2013-10-19"
-citeertitel_status: "officieel"
-short_title: "Besluit Adviescollege Verloftoetsing tbs"
-signed_date: "2007-09-27"
-entry_into_force: "2007-10-01"
+publicatiedatum: 2007-10-01
+laatste_update: 2013-10-19
+status: geldig
+toestand: 2013-10-19
+bron: "https://wetten.overheid.nl/BWBR0022548"
+opgehaald: 2026-08-11
 ---
-# Besluit van de Staatssecretaris van Justitie van 27 september 2007, houdende de instelling van het Adviescollege Verloftoetsing tbs (Regeling Adviescollege Verloftoetsing tbs)
 
-Besluit:
+# Besluit van de Staatssecretaris van Justitie van 27 september 2007, houdende de instelling van het Adviescollege Verloftoetsing tbs (Regeling Adviescollege Verloftoetsing tbs)
 
 ##### Artikel 1. Begrippen
 
@@ -54,19 +30,19 @@ In dit besluit wordt verstaan onder:
 
 1. Het Avt heeft een voorzitter en bestaat uit diverse disciplines:
 
-- –. tenminste negen forensisch psychiaters en psychologen,
+- – tenminste negen forensisch psychiaters en psychologen,
 
-- –. ten minste drie juristen en
+- – ten minste drie juristen en
 
-- –. tenminste één wetenschappelijk adviseur op het gebied van risicotaxatie.
+- – tenminste één wetenschappelijk adviseur op het gebied van risicotaxatie.
 
 2. De benoeming van de forensische psychiaters en psychologen, die plaats zullen nemen in het Adviescollegeverloftoetsing tbs zal geschieden op basis van de volgende voordracht:
 
-- –. ten minste drie leden vanuit het Nederlands Instituut voor Psychiatrie en Psychologie (NIFP);
+- – ten minste drie leden vanuit het Nederlands Instituut voor Psychiatrie en Psychologie (NIFP);
 
-- –. ten minste drie leden vanuit de Forensisch Psychiatrische Centra (FPC’s);
+- – ten minste drie leden vanuit de Forensisch Psychiatrische Centra (FPC’s);
 
-- –. ten minste drie leden vanuit de forensische psychiatrie, niet werkzaam binnen de FPC’s (via GGZ Nederland).
+- – ten minste drie leden vanuit de forensische psychiatrie, niet werkzaam binnen de FPC’s (via GGZ Nederland).
 
 3. De voorzitter deelt het Avt in commissies in, bestaande elk uit drie forensisch psychiaters en/of psychologen, met als voorzitter een van de juristen. De commissies betrekken desgewenst de wetenschappelijk adviseur bij de advisering.
 
@@ -161,5 +137,3 @@ Besluit Adviescollege Verloftoetsing tbs.
 ##### Artikel 16. Inwerkingtreding
 
 Dit besluit treedt in werking op 1 oktober 2007.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van de teelt van vollegrondsgroenten voor het jaar 2007 (Verordening PT bijzondere heffing vollegrondsgroenten 2007)"
+citeertitel: "Verordening PT bijzondere heffing vollegrondsgroenten 2007"
 identifier: "BWBR0021052"
-country: "nl"
-rank: "pbo"
-publication_date: "2007-01-14"
-last_updated: "2007-01-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021052"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "8875493"
-version_id: "14096272"
-internal_id: "C19194401"
-label_id: "8854874"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021052/2007-01-14/0"
-intitule_bron: "Vbbo.2007-4"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-06"
-intitule_published: "2007-01-12"
-intitule_in_force: "2007-01-12"
-intitule_status: "goed"
-original_publication: "Vbbo.2007-4"
-original_signed_date: "2006-07-06"
-original_published_date: "2007-01-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2007-01-14"
-jci_1_3: "jci1.3:c:BWBR0021052&z=2007-01-14&g=2007-01-14"
-jci_1_0: "1.0:c:BWBR0021052&g=2007-01-14"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing vollegrondsgroenten 2007"
-signed_date: "2006-07-06"
-entry_into_force: "2007-01-14"
+publicatiedatum: 2007-01-14
+laatste_update: 2007-01-14
+status: geldig
+toestand: 2007-01-14
+bron: "https://wetten.overheid.nl/BWBR0021052"
+opgehaald: 2026-08-11
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van de teelt van vollegrondsgroenten voor het jaar 2007 (Verordening PT bijzondere heffing vollegrondsgroenten 2007)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-Gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-Gehoord de Commissie voor groenten en fruit, d.d. 20 juni 2006;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -55,7 +26,7 @@ Besluit:
 
 | a. | het braakland: | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
 | --- | --- | --- |
-| b. | de cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0021052&paragraaf=3&artikel=4&z=2007-01-14&g=2007-01-14) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| b. | de cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in artikel 4 genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | c. | de teelt onder glas: | iedere andere teelt dan die in de open grond; |
 | d. | de gemeten maat: | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | e. | de contractteelt: | de teelt van gewassen of producten ingevolge een overeenkomst. |
@@ -144,5 +115,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 10
 
 Deze verordening wordt aangehaald als: Verordening PT bijzondere heffing vollegrondsgroenten 2007.
-
-Deze verordening en de toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

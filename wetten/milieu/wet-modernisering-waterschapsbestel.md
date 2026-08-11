@@ -1,63 +1,34 @@
 ---
 title: "Wet van 21 mei 2007 tot wijziging van de Waterschapswet en de Wet verontreiniging oppervlaktewateren in verband met de modernisering en vereenvoudiging van de bestuurlijke structuur en de financieringsstructuur van waterschappen (Wet modernisering waterschapsbestel)"
+citeertitel: "Wet modernisering waterschapsbestel"
 identifier: "BWBR0022075"
-country: "nl"
-rank: "wet"
-publication_date: "2009-05-02"
-last_updated: "2009-05-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022075"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "9117563"
-version_id: "14568302"
-internal_id: "C20476771"
-label_id: "9096554"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022075/2009-05-02/0"
-intitule_bron: "Stb.2007-208"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-05-21"
-intitule_published: "2007-06-14"
-intitule_in_force: "2007-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2007-208"
-original_signed_date: "2007-05-21"
-original_published_date: "2007-06-14"
-original_effect: "nieuwe-regeling"
-original_dossier: "30601"
-original_url_id: "stb-2007-208"
-entry_into_force_date: "2007-12-29"
-jci_1_3: "jci1.3:c:BWBR0022075&z=2009-05-02&g=2009-05-02"
-jci_1_0: "1.0:c:BWBR0022075&g=2009-05-02"
-citeertitel_status: "officieel"
-short_title: "Wet modernisering waterschapsbestel"
-signed_date: "2007-05-21"
-entry_into_force: "2007-12-29"
+publicatiedatum: 2007-12-29
+laatste_update: 2009-05-02
+status: geldig
+toestand: 2009-05-02
+bron: "https://wetten.overheid.nl/BWBR0022075"
+opgehaald: 2026-08-11
 ---
+
 # Wet van 21 mei 2007 tot wijziging van de Waterschapswet en de Wet verontreiniging oppervlaktewateren in verband met de modernisering en vereenvoudiging van de bestuurlijke structuur en de financieringsstructuur van waterschappen (Wet modernisering waterschapsbestel)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de bestuurlijke structuur en de financieringsstructuur van waterschappen te vereenvoudigen en daartoe de [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108) en de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682) te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel II
 
-Wijzigt de Wet verontreiniging oppervlaktewateren.
+*Wijzigt de Wet verontreiniging oppervlaktewateren.*
 
 ##### Artikel III
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel IV
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel IVa
 
@@ -118,5 +89,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel XV
 
 Deze wet wordt aangehaald als: Wet modernisering waterschapsbestel.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

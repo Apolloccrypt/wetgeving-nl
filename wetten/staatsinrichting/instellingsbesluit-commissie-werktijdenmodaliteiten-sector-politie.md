@@ -1,43 +1,17 @@
 ---
 title: "Instellingsbesluit commissie werktijdenmodaliteiten sector Politie"
 identifier: "BWBR0021965"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-12-01"
-last_updated: "2022-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021965"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9098013"
-version_id: "14530622"
-internal_id: "C19758171"
-label_id: "9076964"
-dtd_version: "2.0"
-original_entry_into_force: "2007-06-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021965/2022-12-01/0"
-intitule_bron: "Stcrt.2007-102"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-05-21"
-intitule_published: "2007-05-31"
-intitule_in_force: "2007-05-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-102"
-original_signed_date: "2007-05-21"
-original_published_date: "2007-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-102-p8-SC80660"
-entry_into_force_date: "2007-06-02"
-jci_1_3: "jci1.3:c:BWBR0021965&z=2022-12-01&g=2022-12-01"
-jci_1_0: "1.0:c:BWBR0021965&g=2022-12-01"
-citeertitel_status: "officieel"
-signed_date: "2007-05-21"
-entry_into_force: "2007-06-02"
+publicatiedatum: 2007-06-02
+laatste_update: 2022-12-01
+status: geldig
+toestand: 2022-12-01
+bron: "https://wetten.overheid.nl/BWBR0021965"
+opgehaald: 2026-08-11
 ---
+
 # Instellingsbesluit commissie werktijdenmodaliteiten sector Politie
-
-Gelet op [artikel 12a, derde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=12a);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -102,5 +76,3 @@ Dit besluit treedt in werking met ingang van de tweede na dagtekening van de Sta
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Instellingsbesluit commissie werktijdenmodaliteiten sector Politie.
-
-Dit besluit zal in de Staatscourant worden bekendgemaakt.

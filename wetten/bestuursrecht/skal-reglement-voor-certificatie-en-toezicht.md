@@ -1,38 +1,16 @@
 ---
 title: "Skal-Reglement voor Certificatie en Toezicht"
 identifier: "BWBR0021345"
-country: "nl"
-rank: "zbo"
-publication_date: "2007-03-04"
-last_updated: "2007-03-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021345"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "8962013"
-version_id: "14250542"
-internal_id: "C19386861"
-label_id: "8941964"
-dtd_version: "2.0"
-original_entry_into_force: "2007-03-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021345/2007-03-04/0"
-intitule_bron: "Stcrt.2007-44"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-09-22"
-intitule_published: "2007-03-02"
-intitule_in_force: "2007-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-44"
-original_signed_date: "2006-09-22"
-original_published_date: "2007-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-44-p14-SC79461"
-entry_into_force_date: "2007-03-04"
-jci_1_3: "jci1.3:c:BWBR0021345&z=2007-03-04&g=2007-03-04"
-jci_1_0: "1.0:c:BWBR0021345&g=2007-03-04"
-citeertitel_status: "officieel"
-signed_date: "2006-09-22"
-entry_into_force: "2007-03-04"
+publicatiedatum: 2007-03-04
+laatste_update: 2007-03-04
+status: geldig
+toestand: 2007-03-04
+bron: "https://wetten.overheid.nl/BWBR0021345"
+opgehaald: 2026-08-11
 ---
+
 # Skal-Reglement voor Certificatie en Toezicht
 
 Het gebruik van dit reglement door derden, voor welk doel dan ook, is uitsluitend toegestaan nadat een schriftelijke overeenkomst met Stichting Skal is gesloten waarin het gebruiksrecht is geregeld.
@@ -61,15 +39,23 @@ Internet: www.skal.nl
 
 2. Als algemene begripsomschrijvingen zijn van toepassing de termen en definities, zoals vastgelegd in:
 
+- – van toepassing zijnde publiekrechtelijke voorschriften;
+
+- – statuten van Skal;
+
+- – andere door Skal gehanteerde eisenstellende documenten;
+
+- – NEN-ISO 9000: 2000.
+
 ### 1.2. Specifieke begripsomschrijvingen
 
 Aanvullend op de algemene begripsomschrijvingen wordt in dit reglement verstaan onder:
 
-1. Publiekrechtelijke voorschriften: [Verordening (EEG) Nr. 2092/91](31991R2092) en de daarbij behorende bijlagen, de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755) (Stb. 1971, 371), het [Landbouwkwaliteitsbesluit biologische produktiemethode](https://wetten.overheid.nl/jci1.3:c:BWBR0005740) en de [Landbouwkwaliteitsregeling biologische productiemethode 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008176).
+1. Publiekrechtelijke voorschriften: Verordening (EEG) Nr. 2092/91 en de daarbij behorende bijlagen, de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755) (Stb. 1971, 371), het [Landbouwkwaliteitsbesluit biologische produktiemethode](https://wetten.overheid.nl/jci1.3:c:BWBR0005740) en de [Landbouwkwaliteitsregeling biologische productiemethode 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008176).
 
-2. Biologische productiemethode: Voortbrenging van plantaardige en dierlijke landbouwproducten en houden van dieren overeenkomstig de bij of krachtens de [Verordening (EEG) Nr. 2092/91](31991R2092), zoals deze is of zal komen te luiden, gestelde voorschriften, die door Skal worden gehanteerd als grondslag voor certificatie en waarnaar wordt verwezen in de Skal-Certificatiegrondslagen Biologische Productie Nederland.
+2. Biologische productiemethode: Voortbrenging van plantaardige en dierlijke landbouwproducten en houden van dieren overeenkomstig de bij of krachtens de Verordening (EEG) Nr. 2092/91, zoals deze is of zal komen te luiden, gestelde voorschriften, die door Skal worden gehanteerd als grondslag voor certificatie en waarnaar wordt verwezen in de Skal-Certificatiegrondslagen Biologische Productie Nederland.
 
-3. Toezicht: De werkzaamheden die door of namens Skal worden verricht om na te gaan of aan de voorschriften voor de biologische productiemethode zoals vastgelegd in [Verordening (EEG) Nr. 2092/91](31991R2092), het [Landbouwkwaliteitsbesluit biologische produktiemethode](https://wetten.overheid.nl/jci1.3:c:BWBR0005740), de [Landbouwkwaliteitsregeling biologische productiemethode 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008176) en de interpretaties hieromtrent zoals vastgesteld door de Minister en de voorschriften in het Skal-Reglement voor Certificatie en Toezicht wordt voldaan.
+3. Toezicht: De werkzaamheden die door of namens Skal worden verricht om na te gaan of aan de voorschriften voor de biologische productiemethode zoals vastgelegd in Verordening (EEG) Nr. 2092/91, het [Landbouwkwaliteitsbesluit biologische produktiemethode](https://wetten.overheid.nl/jci1.3:c:BWBR0005740), de [Landbouwkwaliteitsregeling biologische productiemethode 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008176) en de interpretaties hieromtrent zoals vastgesteld door de Minister en de voorschriften in het Skal-Reglement voor Certificatie en Toezicht wordt voldaan.
 
 4. Certificatiegrondslagen: Document van Skal waarin alle eisen zijn gebundeld die door Skal worden gehanteerd als grondslag voor certificatie van en toezicht op een bepaald product of proces1In de Skal-Certificatiegrondslagen Biologische Productie Nederland zijn opgenomen of wordt verwezen naar de eisen die voortvloeien uit de publiekrechtelijke voorschriften en de vastgestelde interpretaties van die eisen, en andere eisenstellende documenten, zonodig aangevuld met andere eisen, die moeten verzekeren dat producten en voortbrengingsprocessen aan de daaraan gestelde eisen voldoen..
 
@@ -103,7 +89,7 @@ Skal-Sanctiereglement;
 
 Skal-Reglement van Beroep.
 
-Skal en de leverancier zijn aan deze voorwaarden gebonden, behoudens het in artikel 2.1, lid 2 en lid 3 bepaalde.
+Skal en de leverancier zijn aan deze voorwaarden gebonden, behoudens het in [artikel 2.1, lid 2 en lid 3](https://wetten.overheid.nl/BWBR0021345) bepaalde.
 
 2. Bij de uitvoering van certificatie is Skal gebonden aan de accreditatiereglementen en -criteria, die door de Raad voor Accreditatie worden gehanteerd. Voor zover deze accreditatiereglementen en -criteria betrekking hebben op de verhouding tussen Skal, de leverancier en/of de Raad van Accreditatie, geldt het bepaalde in die reglementen en criteria, ook als er sprake is van strijdigheid met dit reglement3Toelichting: indien de door de Raad voor Accreditatie in accreditatiereglementen en interpretatiedocumenten van de norm EN 45011 vastgestelde eisen strenger zijn dan de bepalingen van dit reglement, dan prevaleren deze eisen. In alle andere situaties gelden de bepalingen van dit Reglement voor Certificatie en Toezicht..
 
@@ -119,13 +105,25 @@ Skal en de leverancier zijn aan deze voorwaarden gebonden, behoudens het in arti
 
 ### 2.2. Certificaathouder
 
-Alleen leveranciers, die voldoen aan de onder artikel 1.2, lid 5 vermelde begripsomschrijving, kunnen certificaathouder zijn.
+Alleen leveranciers, die voldoen aan de onder [artikel 1.2, lid 5](https://wetten.overheid.nl/BWBR0021345) vermelde begripsomschrijving, kunnen certificaathouder zijn.
 
 Wanneer de leverancier de producten waarvoor hij is gecertificeerd niet zelf produceert, bereidt, importeert of onverpakt opslaat, moet de kwaliteitsverantwoordelijkheid van de leverancier zijn vastgelegd in een schriftelijke overeenkomst tussen hem en de feitelijke producent, waarin ten minste is geregeld:
+
+- – op welke manier de leverancier verifieert dat de producten van de feitelijke producent voldoen aan de in de certificatiegrondslagen gestelde eisen;
+
+- – dat de leverancier bij de producent kan afdwingen dat producten worden voortgebracht die voldoen aan de in het certificaat vermelde specificatie;
+
+- – dat Skal alle noodzakelijke werkzaamheden in het kader van certificatie zowel in het bedrijf van de leverancier als bij de feitelijke producent mag (laten) uitvoeren, zonodig met inbegrip van het treffen van maatregelen bij geconstateerde tekortkomingen;
+
+- – dat een certificatiemerk uitsluitend mag worden aangebracht op producten die aan de leverancier worden geleverd.
 
 ### 2.3. Betekenis van Skal-certificaten
 
 Een certificaat van Skal betekent dat:
+
+- – certificatie is verleend voor de daarin gespecificeerde producten en dat deze dus geacht kunnen worden te voldoen aan en te zijn voortgebracht volgens de voor die producten door Skal gehanteerde certificatiegrondslagen;
+
+- – certificatie is verleend voor de daarin gespecificeerde voortbrengingsprocessen en dat deze dus geacht kunnen worden te voldoen aan de voor die processen door Skal gehanteerde certificatiegrondslagen.
 
 ### 2.4. Uitvoeringsvorm van Skal-certificaten
 
@@ -133,7 +131,7 @@ Het model van het certificaat Biologische Productie Nederland is als [bijlage 1]
 
 ### 2.5. Geldigheidsduur
 
-1. Een certificatie wordt verleend voor onbepaalde tijd. Een certificatie kan worden opgeschort of ingetrokken bij tekortkomingen of overtredingen, conform het gestelde in hoofdstuk 5 van dit reglement.
+1. Een certificatie wordt verleend voor onbepaalde tijd. Een certificatie kan worden opgeschort of ingetrokken bij tekortkomingen of overtredingen, conform het gestelde in [hoofdstuk 5](https://wetten.overheid.nl/BWBR0021345) van dit reglement.
 
 2. Een Skal-certificaat (het document) wordt steeds na maximaal drie jaar verlengd. Verlenging is een verklaring die is mede gebaseerd op het feit dat Skal de leverancier gedurende de voorgaande drie jaren heeft beoordeeld op alle normelementen.
 
@@ -147,6 +145,10 @@ Het model van het certificaat Biologische Productie Nederland is als [bijlage 1]
 
 2. Het certificatiemerk en de wijze van merken moeten worden uitgevoerd overeenkomstig:
 
+- – het Skal-Aanduidingenreglement; en, indien van toepassing:
+
+- – de door licentieverleners gestelde eisen.
+
 3. Producten die niet voldoen aan of die niet zijn voortgebracht volgens de in de certificatiegrondslagen gestelde eisen, mogen niet worden voorzien van een certificatiemerk. De leverancier is verplicht om hierop toe te zien en eventueel reeds aangebrachte merken te verwijderen.
 
 ### 2.7. Certificatieovereenkomst en aansluiting
@@ -157,11 +159,15 @@ Voor de uitvoering van certificatie en toezicht sluiten de leverancier en Skal e
 
 1. De leverancier is verplicht tot betaling van een vergoeding (bijdrage) aan Skal. De aard, de hoogte van de bijdrage en de overige voorwaarden zijn geregeld in:
 
+- – het [Skal-Bijdragereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0018852);
+
+- – het jaarlijks vastgestelde Tarievenblad.
+
 2. Op alle producten die voorzien zijn van een certificatiemerk zijn de bepalingen van dit reglement en het in dit reglement van toepassing verklaarde [Skal-Bijdragereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0018852) van toepassing.
 
 ### 2.9. Openbaarmaking
 
-1. De leverancier mag publiceren dat zijn producten of voortbrengingsprocessen gecertificeerd zijn, maar uitsluitend en ondubbelzinnig voor de in het certificaat gespecificeerde producten of voortbrengingsprocessen. Elke andere wijze van openbaarmaking wordt door Skal beschouwd als oneigenlijk gebruik van het certificaat, zoals omschreven in artikel 4.4 van dit reglement.
+1. De leverancier mag publiceren dat zijn producten of voortbrengingsprocessen gecertificeerd zijn, maar uitsluitend en ondubbelzinnig voor de in het certificaat gespecificeerde producten of voortbrengingsprocessen. Elke andere wijze van openbaarmaking wordt door Skal beschouwd als oneigenlijk gebruik van het certificaat, zoals omschreven in [artikel 4.4](https://wetten.overheid.nl/BWBR0021345) van dit reglement.
 
 2. Skal houdt een register bij, waarin alle Skal-certificaten zijn opgenomen met vermelding van de naam van de leverancier en de gecertificeerde producten of voortbrengingsprocessen. Dit register is openbaar.
 
@@ -175,17 +181,45 @@ Skal zal een leverancier die daarom verzoekt op de hoogte stellen van de hoofdza
 
 ### 3.2. In behandeling nemen van de aanvraag
 
-1. Nadat Skal het door de leverancier ingevulde en voor akkoord getekende aanmeldingsformulier heeft ontvangen en indien de leverancier nog niet is aangesloten, de betaling van de aansluitingsbijdrage als bedoeld in artikel 2.7 is ontvangen, neemt Skal zonodig contact op met de leverancier om een afspraak te maken voor het uit te voeren onderzoek.
+1. Nadat Skal het door de leverancier ingevulde en voor akkoord getekende aanmeldingsformulier heeft ontvangen en indien de leverancier nog niet is aangesloten, de betaling van de aansluitingsbijdrage als bedoeld in [artikel 2.7](https://wetten.overheid.nl/BWBR0021345) is ontvangen, neemt Skal zonodig contact op met de leverancier om een afspraak te maken voor het uit te voeren onderzoek.
 
 2. Wanneer bij de aanvraag de noodzakelijke gegevens ontbreken voor het uitvoeren van het toelatingsonderzoek stelt Skal de leverancier in de gelegenheid om deze gegevens alsnog binnen redelijke tijd aan te vullen. Vanaf het moment van verzoek om aanvulling van ontbrekende gegevens wordt de behandeling van de aanvraag opgeschort.
 
 3. Wanneer de leverancier nalaat om de gevraagde gegevens binnen de daarvoor door Skal gestelde termijn aan te leveren kan Skal binnen vier weken na het verstrijken van deze termijn besluiten om de aanvraag niet in behandeling te nemen. De leverancier heeft geen recht op restitutie van de door hem betaalde aansluitingsbijdrage.
 
-4. De leverancier mag niet de indruk wekken dat de producten of voortbrengingsprocessen, waarvoor hij een aanvraag heeft ingediend, zijn gecertificeerd zolang het certificaat niet is verstrekt. Overtreding van deze bepaling wordt door Skal beschouwd als oneigenlijk gebruik van het certificaat, zoals omschreven in artikel 4.4 van dit reglement.
+4. De leverancier mag niet de indruk wekken dat de producten of voortbrengingsprocessen, waarvoor hij een aanvraag heeft ingediend, zijn gecertificeerd zolang het certificaat niet is verstrekt. Overtreding van deze bepaling wordt door Skal beschouwd als oneigenlijk gebruik van het certificaat, zoals omschreven in [artikel 4.4](https://wetten.overheid.nl/BWBR0021345) van dit reglement.
 
 ### 3.3. Toelatingsonderzoek
 
 ### Algemeen
+
+1. Het door Skal uit te voeren toelatingsonderzoek vindt plaats aan de hand van de geldende certificatiegrondslagen, en omvat ten minste:
+
+- – beoordeling van het voortbrengingsproces;
+
+- – beoordeling van het kwaliteitsplan van de leverancier en de in verband daarmee door hem bijgehouden administratie;
+
+- – beoordeling van de door de leverancier gehanteerde klachtenprocedure.
+
+Zonodig vindt beoordeling plaats op in de certificatiegrondslagen opgenomen nadere eisen met betrekking tot:
+
+- – het (ontwerp van het) product;
+
+- – monsteronderzoek;
+
+- – overige procedures.
+
+De uitvoering van onderdelen van het toelatingsonderzoek kan door Skal worden opgedragen aan derden, overeenkomstig het in [artikel 2.1, lid 6](https://wetten.overheid.nl/BWBR0021345) bepaalde.
+
+2. De leverancier verleent de noodzakelijke medewerking aan het toelatingsonderzoek door:
+
+- – inspecteurs, die met het toelatingsonderzoek zijn belast, toe te laten tot alle bedrijfsonderdelen die voor het uitvoeren van het onderzoek noodzakelijk zijn;
+
+- – inzage te verschaffen in de administratie die de leverancier als onderdeel van zijn kwaliteitsplan moet bijhouden;
+
+- – inzage te verschaffen in het klachtenregister.
+
+De leverancier stelt Skal alle monsters en voor de beoordeling relevante gegevens, gratis ter beschikking.
 
 ### Beoordeling van het voortbrengingsproces
 
@@ -227,7 +261,7 @@ Skal zal de aanwezigheid en het functioneren van deze klachtenprocedure toetsen.
 
 ### Contractbeoordeling
 
-8. Wanneer de leverancier niet de feitelijke producent is van de te certificeren producten, zal Skal de in artikel 2.2 bedoelde overeenkomst tussen de leverancier en de producent beoordelen.
+8. Wanneer de leverancier niet de feitelijke producent is van de te certificeren producten, zal Skal de in [artikel 2.2](https://wetten.overheid.nl/BWBR0021345) bedoelde overeenkomst tussen de leverancier en de producent beoordelen.
 
 ### 3.4. Rapportage over het toelatingsonderzoek
 
@@ -235,7 +269,7 @@ Degene die het toelatingsonderzoek heeft uitgevoerd legt zijn bevindingen vast i
 
 ### 3.5. Besluit op de aanvraag
 
-1. Behoudens het gestelde in artikel 5.3, lid 8 beslist7Het certificatiebesluit vindt plaats door een daartoe gekwalificeerde beslisser die niet zelf bij het toelatingsonderzoek was betrokken. Skal over de aanvraag binnen een maand nadat het onderzoek en de rapportage daarover is afgerond. Het besluit wordt schriftelijk meegedeeld aan de leverancier.
+1. Behoudens het gestelde in [artikel 5.3, lid 8](https://wetten.overheid.nl/BWBR0021345) beslist7Het certificatiebesluit vindt plaats door een daartoe gekwalificeerde beslisser die niet zelf bij het toelatingsonderzoek was betrokken. Skal over de aanvraag binnen een maand nadat het onderzoek en de rapportage daarover is afgerond. Het besluit wordt schriftelijk meegedeeld aan de leverancier.
 
 2. Bij een positief besluit ontvangt de leverancier het certificaat.
 
@@ -259,11 +293,23 @@ Degene die het toelatingsonderzoek heeft uitgevoerd legt zijn bevindingen vast i
 
 ### 4.2. Inspecties
 
-1. Skal voert regelmatig inspecties uit op naleving door de leverancier van zijn verplichtingen. Deze inspecties vinden op willekeurige tijdstippen plaats met een frequentie die door het bestuur van Skal is vastgesteld met een minimum van éénmaal per kalenderjaar. De uitvoering van de inspecties kan door Skal worden opgedragen aan derden, overeenkomstig het in artikel 2.1, lid 6 bepaalde.
+1. Skal voert regelmatig inspecties uit op naleving door de leverancier van zijn verplichtingen. Deze inspecties vinden op willekeurige tijdstippen plaats met een frequentie die door het bestuur van Skal is vastgesteld met een minimum van éénmaal per kalenderjaar. De uitvoering van de inspecties kan door Skal worden opgedragen aan derden, overeenkomstig het in [artikel 2.1, lid 6](https://wetten.overheid.nl/BWBR0021345) bepaalde.
 
 2. Skal kent de volgende inspecties:
 
+- a. Basisinspectie minimaal één keer per jaar een fysieke inspectie en beoordeling op risico’s. Minimaal één keer in de drie jaar een volledige beoordeling op alle normelementen.
+
+- b. Extra inspectie een aanvullende inspectie op de basisinspectie, te denken valt aan bijvoorbeeld flitsinspectie, diepte-inspecties, financiële inspectie en projectinspectie.
+
 3. De leverancier verleent de noodzakelijke medewerking aan de inspecties door:
+
+- – inspecteurs, die met het inspecties zijn belast, toe te laten tot alle bedrijfsonderdelen die voor het uitvoeren van inspecties noodzakelijk zijn;
+
+- – inzage te verschaffen in de administratie die de leverancier als onderdeel van zijn kwaliteitsplan moet bijhouden;
+
+- – inzage te verschaffen in het klachtenregister;
+
+- – indien daarom wordt verzocht, gevraagde informatie toe te zenden.
 
 4. De leverancier stelt kosteloos de benodigde monsters en apparatuur ter beschikking.
 
@@ -271,9 +317,9 @@ Degene die het toelatingsonderzoek heeft uitgevoerd legt zijn bevindingen vast i
 
 1. Uitvoeren van inspecties vindt plaats op het bedrijf van de leverancier. Wanneer de leverancier niet de producent is, vinden bovendien inspecties plaats in het bedrijf van de feitelijke producent.
 
-2. Wanneer de leverancier niet de producent is van de gecertificeerde producten, zal Skal bovendien nagaan of de in artikel 2.2 bedoelde overeenkomst wordt nagekomen.
+2. Wanneer de leverancier niet de producent is van de gecertificeerde producten, zal Skal bovendien nagaan of de in [artikel 2.2](https://wetten.overheid.nl/BWBR0021345) bedoelde overeenkomst wordt nagekomen.
 
-3. Skal is bevoegd naast het in artikel 4.2, lid 1 en artikel 4.3, lid 1 gestelde op andere wijze na te gaan of de leverancier aan zijn verplichtingen voldoet8Deze bevoegdheid is mede gebaseerd op de Landbouwkwaliteitswet, artikel 15, waarin is geregeld dat controles ook kunnen plaats vinden in voertuigen en andere plaatsen waar gecertificeerde producten aanwezig zijn..
+3. Skal is bevoegd naast het in [artikel 4.2, lid 1](https://wetten.overheid.nl/BWBR0021345) en [artikel 4.3, lid 1](https://wetten.overheid.nl/BWBR0021345) gestelde op andere wijze na te gaan of de leverancier aan zijn verplichtingen voldoet8Deze bevoegdheid is mede gebaseerd op de Landbouwkwaliteitswet, artikel 15, waarin is geregeld dat controles ook kunnen plaats vinden in voertuigen en andere plaatsen waar gecertificeerde producten aanwezig zijn..
 
 4. Skal verstrekt aan de leverancier een rapport over de uitgevoerde inspectie. Dit rapport wordt mede ondertekend door de leverancier.
 
@@ -282,6 +328,14 @@ Degene die het toelatingsonderzoek heeft uitgevoerd legt zijn bevindingen vast i
 1. Skal ziet er op toe dat geen oneigenlijk gebruik wordt gemaakt van certificaten en certificatiemerken door aangeslotenen of door derden.
 
 2. Als oneigenlijk gebruik door aangeslotenen wordt in ieder geval beschouwd:
+
+- – het wekken van de indruk dat producten of voortbrengingsprocessen, waarvoor een aanvraag is ingediend, reeds gecertificeerd zijn;
+
+- – het wekken van de indruk dat een certificaat betrekking heeft op andere producten of voortbrengingsprocessen dan waarvoor certificatie is verleend;
+
+- – het wekken van de indruk dat een certificaat nog geldig is tijdens een periode van opschorting van de certificatie;
+
+- – het gebruik van onjuiste certificatiemerken.
 
 3. Acties ter bescherming van certificatiemerken tegen oneigenlijk gebruik door derden komen aan Skal c.q. de beheerder van het certificatiemerk toe.
 
@@ -309,9 +363,15 @@ Degene die het toelatingsonderzoek heeft uitgevoerd legt zijn bevindingen vast i
 
 1. Een certificatie kan door Skal worden opgeschort in de volgende gevallen:
 
+- – ernstige tekortkomingen, vastgesteld tijdens de inspecties;
+
+- – het niet treffen van corrigerende maatregelen op vastgestelde tekortkomingen die op zich nog geen reden tot opschorting waren;
+
+- – door de leverancier doorgevoerde wijzigingen, die nader onderzoek door Skal vereisen als bedoeld in [artikel 7.3, lid 2](https://wetten.overheid.nl/BWBR0021345).
+
 2. Tijdens een periode van opschorting van de certificatie blijft de overeenkomst tussen Skal en de leverancier van kracht.
 
-3. Tijdens een periode van opschorting van de certificatie mag de leverancier geen gebruik maken van het certificaat en geen producten verhandelen die zijn voorzien van het certificatiemerk. De leverancier mag ook niet de indruk wekken dat hij nog het recht zou hebben op het gebruik van het certificaat en het certificatiemerk. Overtreding van deze bepaling wordt door Skal beschouwd als oneigenlijk gebruik van het certificaat in de zin van artikel 4.4 van dit reglement.
+3. Tijdens een periode van opschorting van de certificatie mag de leverancier geen gebruik maken van het certificaat en geen producten verhandelen die zijn voorzien van het certificatiemerk. De leverancier mag ook niet de indruk wekken dat hij nog het recht zou hebben op het gebruik van het certificaat en het certificatiemerk. Overtreding van deze bepaling wordt door Skal beschouwd als oneigenlijk gebruik van het certificaat in de zin van [artikel 4.4](https://wetten.overheid.nl/BWBR0021345) van dit reglement.
 
 4. Een certificatie blijft gedurende een periode van maximaal 12 maanden opgeschort. De leverancier dient bij een opschorting zelf tijdig Skal te informeren dat hij de afwijking heeft gecorrigeerd. Skal zal dan een her-inspectie uitvoeren ter verificatie. Indien de afwijking is opgeheven, zal de opschorting worden beëindigd. Indien de afwijking niet binnen de termijn van 12 maanden wordt opgeheven, zal de betreffende certificatie worden ingetrokken.
 
@@ -319,11 +379,21 @@ Degene die het toelatingsonderzoek heeft uitgevoerd legt zijn bevindingen vast i
 
 1. Een certificatie kan door Skal met onmiddellijke ingang worden ingetrokken in de volgende gevallen:
 
-2. In andere dan de hierboven genoemde gevallen, en behoudens het in artikel 7.3, lid 3 bepaalde (intrekking als gevolg van door de leverancier niet geaccepteerde wijziging van de certificatiegrondslagen), kan de certificatie worden beëindigd met inachtneming van een termijn van ten minste drie volle kalendermaanden. Beëindiging moet per aangetekende brief aan de andere partij worden meegedeeld, onder vermelding van de datum van de beëindiging. Bij een opzegging door Skal zal daarbij de reden van opzegging worden aangegeven.
+- – ernstige tekortkomingen, als bedoeld in [artikel 5.2, lid 1](https://wetten.overheid.nl/BWBR0021345), vastgesteld tijdens een inspectie;
+
+- – het niet treffen van corrigerende maatregelen tijdens een periode van opschorting;
+
+- – de leverancier in ernstige mate in strijd heeft gehandeld met één of meer van zijn verplichtingen, waaronder tevens vallen zijn financiële verplichtingen;
+
+- – de leverancier de belangen van Skal ernstig heeft geschaad;
+
+- – ernstige tekortkomingen, vastgesteld na het op de markt brengen van producten en het mogelijk niet voldoen aan de eisen.
+
+2. In andere dan de hierboven genoemde gevallen, en behoudens het in [artikel 7.3, lid 3](https://wetten.overheid.nl/BWBR0021345) bepaalde (intrekking als gevolg van door de leverancier niet geaccepteerde wijziging van de certificatiegrondslagen), kan de certificatie worden beëindigd met inachtneming van een termijn van ten minste drie volle kalendermaanden. Beëindiging moet per aangetekende brief aan de andere partij worden meegedeeld, onder vermelding van de datum van de beëindiging. Bij een opzegging door Skal zal daarbij de reden van opzegging worden aangegeven.
 
 3. Skal kan een certificatie intrekken of opschorten wanneer de leverancier gedurende langere tijd een zo geringe of onregelmatige voortbrenging heeft dat dit voor Skal gerede twijfels oplevert of de leverancier in staat is om te voldoen aan de in de certificatiegrondslagen gestelde eisen.
 
-4. Vanaf de datum van beëindiging van de certificatie mag de leverancier geen gebruik maken van het certificaat en geen producten meer afleveren die zijn voorzien van het certificatiemerk. De leverancier mag ook niet de indruk wekken dat hij nog het recht zou hebben op het gebruik van het certificaat en het certificatiemerk. Overtreding van deze bepaling wordt door Skal beschouwd als oneigenlijk gebruik van het certificaat in de zin van artikel 4.4 van dit reglement.
+4. Vanaf de datum van beëindiging van de certificatie mag de leverancier geen gebruik maken van het certificaat en geen producten meer afleveren die zijn voorzien van het certificatiemerk. De leverancier mag ook niet de indruk wekken dat hij nog het recht zou hebben op het gebruik van het certificaat en het certificatiemerk. Overtreding van deze bepaling wordt door Skal beschouwd als oneigenlijk gebruik van het certificaat in de zin van [artikel 4.4](https://wetten.overheid.nl/BWBR0021345) van dit reglement.
 
 5. Beëindiging van de certificatie laat de financiële verplichtingen van de leverancier tegenover Skal onverlet.
 
@@ -339,7 +409,7 @@ Degene die het toelatingsonderzoek heeft uitgevoerd legt zijn bevindingen vast i
 
 1. Skal behoudt zich het recht voor om naar aanleiding van een ontvangen klacht door een derde, over een leverancier een onafhankelijk onderzoek in te stellen.
 
-2. Indien een klacht gegrond blijkt, kan dit voor Skal aanleiding zijn tot overleg met de leverancier over maatregelen ter verbetering, herziening van het kwaliteitsplan, of tot het treffen van een maatregel zoals bedoeld in artikel 5.1.
+2. Indien een klacht gegrond blijkt, kan dit voor Skal aanleiding zijn tot overleg met de leverancier over maatregelen ter verbetering, herziening van het kwaliteitsplan, of tot het treffen van een maatregel zoals bedoeld in [artikel 5.1](https://wetten.overheid.nl/BWBR0021345).
 
 ### 6.2. Klachten van leveranciers
 
@@ -359,15 +429,19 @@ Degene die het toelatingsonderzoek heeft uitgevoerd legt zijn bevindingen vast i
 
 1. Het instellen van beroep vindt plaats overeenkomstig het [Skal-Reglement Bezwaar](https://wetten.overheid.nl/jci1.3:c:BWBR0015357). Dit betekent dat:
 
+- a. indien de beslissing op bezwaar is gebaseerd op het Besluit er beroep openstaat bij de Sector Bestuursrecht van de Rechtbank, dan wel indien er sprake is van een beslissing op bezwaar als bedoeld in [artikel 14 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=14) het College van Beroep voor het bedrijfsleven;
+
+- b. in de overige beslissingen op bezwaar er beroep open staat bij het Skal-College van Beroep.
+
 Het instellen van beroep laat het besluit of de maatregel van Skal onverlet, tenzij bij of krachtens wettelijk voorschrift anders is bepaald, totdat dienaangaande een uitspraak is voldaan.
 
 ### 6.5. Beroep tegen een uitspraak van het Tuchtgerecht
 
-Beroep tegen een uitspraak van het Tuchtgerecht als bedoeld in artikel 5.1, lid 2 kan worden ingesteld bij het College van Beroep voor het bedrijfsleven op grond van de [Wet Tuchtrechtspraak Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0016341).
+Beroep tegen een uitspraak van het Tuchtgerecht als bedoeld in [artikel 5.1, lid 2](https://wetten.overheid.nl/BWBR0021345) kan worden ingesteld bij het College van Beroep voor het bedrijfsleven op grond van de [Wet Tuchtrechtspraak Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0016341).
 
 ### 6.6. Beroep tegen een uitspraak van de Sanctiecommissie
 
-Beroep tegen een uitspraak van de Sanctiecommissie als bedoeld in artikel 5.1, lid 3 kan overeenkomstig het Skal-Reglement van Beroep worden ingesteld bij het Skal-College van Beroep.
+Beroep tegen een uitspraak van de Sanctiecommissie als bedoeld in [artikel 5.1, lid 3](https://wetten.overheid.nl/BWBR0021345) kan overeenkomstig het Skal-Reglement van Beroep worden ingesteld bij het Skal-College van Beroep.
 
 ### 7. Overige bepalingen
 
@@ -393,7 +467,7 @@ De leverancier dient er zorg voor te dragen, onverlet zijn verplichting uit hoof
 
 1. Skal is jegens de leverancier aansprakelijk voor tekortkomingen in de uitvoering van haar werkzaamheden, voor zover deze het gevolg zijn van het niet in acht nemen door Skal van de zorgvuldigheid, deskundigheid en het vakmanschap waarop bij het uitvoeren van de werkzaamheden mag worden vertrouwd. De aansprakelijkheid voor de schade veroorzaakt door de tekortkomingen wordt beperkt tot het bedrag van driemaal het totaal van de door leverancier verschuldigde bijdragen als bedoeld in [artikel 3 van het Skal-Bijdragereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0018852&artikel=3) in het jaar waarin de aanspraak op de schade wordt ingediend bij Skal.
 
-2. Eventuele aanspraken van de leverancier als bedoeld in artikel 7.4, lid 1 dienen binnen één jaar na het ontstaan van de schade te zijn ingediend, bij gebreke waarvan de leverancier zijn rechten heeft verwerkt.
+2. Eventuele aanspraken van de leverancier als bedoeld in [artikel 7.4, lid 1](https://wetten.overheid.nl/BWBR0021345) dienen binnen één jaar na het ontstaan van de schade te zijn ingediend, bij gebreke waarvan de leverancier zijn rechten heeft verwerkt.
 
 ### 8. Slotbepalingen
 
@@ -408,39 +482,3 @@ De leverancier dient er zorg voor te dragen, onverlet zijn verplichting uit hoof
 5. In alle gevallen waarin dit reglement niet voorziet, beslist het Bestuur van Skal.
 
 Dit reglement is door het Bestuur van Stichting Skal vastgesteld op 22 september 2006.
-
-## Bijlage 1. Model certificaat
-
-## Bijlage 2. Maatregelen bij afwijkingen
-
-Een situatie die niet in overeenstemming is met de eisen van de van toepassing zijnde certificatiegrondslagen of de relevante reglementen van Skal, wordt bestempeld als een afwijking. Een afwijking wordt, afhankelijk van de ernst, volgens onderstaande richtlijnen en tabel ingedeeld en afgehandeld.
-
-Certificatie wordt slechts verleend c.q. uitgebreid, indien bij het toelatingsonderzoek is vastgesteld dat geen afwijkingen (meer) aanwezig zijn. Indien bij het toelatingsonderzoek een afwijking wordt geconstateerd zal dus geen certificatie worden verleend, totdat deze afwijking is opgeheven.
-
-### Indeling van afwijkingen in categorieën
-
-NC C, lichte afwijking: een kleine afwijking die niet direct van invloed is op het product. Of een kleine afwijking in het kader van een toelatingsonderzoek.
-
-NC B, ernstige afwijking: een op zich zelf staande afwijking die direct van invloed is, of kan zijn, op het eindproduct. Of een niet binnen de gestelde termijn opgeloste lichte afwijking. Of een lichte afwijking die binnen 24 maanden na opheffen opnieuw geconstateerd wordt.
-
-NC A, fatale afwijking: een afwijking die systematisch is (en nog steeds voortduurt) en daardoor betrekking heeft op meerdere partijen, producten, percelen of dieren en die direct van invloed is, of kan zijn, op het eindproduct. Of een afwijking met langdurige gevolgen die de basisprincipes van de biologische landbouw schendt (bijvoorbeeld: gebruik kunstmest of een niet toegelaten gewasbeschermingsmiddel). Of een niet binnen de gestelde termijn opgeloste ernstige afwijking. Of een ernstige afwijking die binnen 24 maanden na opheffen opnieuw geconstateerd wordt.
-
-### Opheffen van afwijkingen
-
-Een afwijking wordt opgeheven indien de leverancier de afwijking afdoende heeft gecorrigeerd (door middel van een corrigerende maatregel en zomogelijk correctie) en dit door Skal is geverifieerd.
-
-### Maatregelen bij afwijkingen
-
-Leveranciers moeten elke afwijking binnen de kortst mogelijke termijn aantoonbaar corrigeren, uiterlijk binnen de door Skal gestelde periode. Skal kan een kortere periode opleggen waarbinnen de afwijking gecorrigeerd moet zijn, gebaseerd op het advies van de inspecteur.
-
-In een individueel geval kan bij zeer bijzondere omstandigheden de opgelegde termijn om een afwijking te corrigeren door Skal worden verlengd.
-
-Bij een afwijking kan de verplichting worden opgelegd de naar de biologische productiemethode en/of Skal verwijzende aanduidingen te verwijderen van (of deze niet aan te brengen op) de afwijkende producten.
-
-Skal zal bij in ieder geval een ernstige of fatale afwijking overwegen een Tuchtrechtelijke Verklaring (TV) of een Verklaring van Overtreding (VO) aan te zeggen, ten behoeve van het kunnen opleggen van een sanctie. Een Tuchtrechtelijke Verklaring wordt overeenkomstig het [Tuchtrechtreglement Skal](https://wetten.overheid.nl/jci1.3:c:BWBR0005891) ter afhandeling voorgelegd aan het Tuchtgerecht. Een Verklaring van Overtreding wordt overeenkomstig het Sanctiereglement Skal ter afhandeling voorgelegd aan de Sanctiecommissie van Skal.
-
-Skal kan een aparte her-inspectie uitvoeren ter verificatie van de opgelegde verplichting aanduidingen te verwijderen en/of ter verificatie van de corrigerende maatregel en/of correctie.
-
-Een certificatie blijft maximaal 12 maanden opgeschort. De leverancier dient bij een opschorting zelf tijdig Skal te informeren dat hij de afwijking heeft gecorrigeerd. Skal zal dan een her-inspectie uitvoeren ter verificatie. Indien de afwijking wordt opgeheven, zal de opschorting worden beëindigd. Indien de afwijking niet binnen de termijn van 12 maanden wordt opgeheven, zal de betreffende certificatie worden ingetrokken.
-
-Indien binnen 24 maanden na constatering van de eerste, een tweede of dezelfde fatale afwijking wordt geconstateerd, zal Skal alle certificaties van de leverancier intrekken en alle lopende aanvragen voor certificatie afwijzen. Dit geldt ook indien tegelijkertijd twee fatale afwijkingen worden geconstateerd.

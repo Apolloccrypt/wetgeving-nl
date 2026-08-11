@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie van 22 mei 2007 tot aanwijzing van de rechtspersoon belast met de inning en de verdeling van de vergoeding, bedoeld in artikel 16c van de Auteurswet 1912 en in artikel 10, onderdeel e, van de Wet op de naburige rechten"
+citeertitel: "Regeling aanwijzing rechtspersoon ex art.16c van de Auteurswet 1912 en art.10, onderdeel e, van de Wet op de naburige rechten (inning en verdeling van de vergoeding)"
 identifier: "BWBR0021968"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-06-03"
-last_updated: "2007-06-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021968"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9098543"
-version_id: "14531182"
-internal_id: "C19758921"
-label_id: "9077464"
-dtd_version: "2.0"
-original_entry_into_force: "2007-06-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021968/2007-06-03/0"
-intitule_bron: "Stcrt.2007-103"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-05-22"
-intitule_published: "2007-06-01"
-intitule_in_force: "2007-06-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-103"
-original_signed_date: "2007-05-22"
-original_published_date: "2007-06-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-103-p10-SC80641"
-entry_into_force_date: "2007-06-03"
-jci_1_3: "jci1.3:c:BWBR0021968&z=2007-06-03&g=2007-06-03"
-jci_1_0: "1.0:c:BWBR0021968&g=2007-06-03"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing rechtspersoon ex art.16c van de Auteurswet 1912 en art.10, onderdeel e, van de Wet op de naburige rechten (inning en verdeling van de vergoeding)"
-signed_date: "2007-05-22"
-entry_into_force: "2007-06-03"
+publicatiedatum: 2007-06-03
+laatste_update: 2007-06-03
+status: geldig
+toestand: 2007-06-03
+bron: "https://wetten.overheid.nl/BWBR0021968"
+opgehaald: 2026-08-11
 ---
+
 # Regeling van de Minister van Justitie van 22 mei 2007 tot aanwijzing van de rechtspersoon belast met de inning en de verdeling van de vergoeding, bedoeld in artikel 16c van de Auteurswet 1912 en in artikel 10, onderdeel e, van de Wet op de naburige rechten
-
-Gelet op [artikel 16d, eerste lid, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16d) en [artikel 10, onderdeel e, van de Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -99,5 +73,3 @@ De stichting voldoet uiterlijk op 1 januari 2008 aan de [artikelen 3](https://we
 ##### Artikel 8. Bekendmaking en inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

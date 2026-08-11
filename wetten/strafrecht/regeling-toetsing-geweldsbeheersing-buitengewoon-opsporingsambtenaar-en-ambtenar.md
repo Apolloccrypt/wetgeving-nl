@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie d.d. 23 mei 2007, nr. 5484160/07/CBK, houdende vaststelling van bepalingen inzake toetsing van buitengewoon opsporingsambtenaren en ambtenaren in dienst van een bijzondere opsporingsdienst terzake van geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid (Regeling toetsing geweldsbeheersing buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten)"
+citeertitel: "Regeling toetsing geweldsbeheersing buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten"
 identifier: "BWBR0021973"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021973"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9099133"
-version_id: "14532352"
-internal_id: "C19761951"
-label_id: "9078054"
-dtd_version: "2.0"
-original_entry_into_force: "2007-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021973/2023-01-01/0"
-intitule_bron: "Stcrt.2007-103"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-05-23"
-intitule_published: "2007-06-01"
-intitule_in_force: "2007-06-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-103"
-original_signed_date: "2007-05-23"
-original_published_date: "2007-06-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-103-p8-SC80679"
-entry_into_force_date: "2007-06-01"
-jci_1_3: "jci1.3:c:BWBR0021973&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0021973&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling toetsing geweldsbeheersing buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten"
-signed_date: "2007-05-23"
-entry_into_force: "2007-06-01"
+publicatiedatum: 2007-06-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0021973"
+opgehaald: 2026-08-11
 ---
+
 # Regeling van de Minister van Justitie d.d. 23 mei 2007, nr. 5484160/07/CBK, houdende vaststelling van bepalingen inzake toetsing van buitengewoon opsporingsambtenaren en ambtenaren in dienst van een bijzondere opsporingsdienst terzake van geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid (Regeling toetsing geweldsbeheersing buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten)
-
-Gelet op [artikel 3a van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=3a);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -108,10 +82,8 @@ De [Regeling toetsing geweldbeheersing buitengewoon opsporingsambtenaar 2005](ht
 
 ##### Artikel 7
 
-Deze regeling treedt in werking met ingang van 1 juni 2007.
+Deze regeling treedt in werking met ingang van 1 juni 2007.
 
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling toetsing geweldsbeheersing buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

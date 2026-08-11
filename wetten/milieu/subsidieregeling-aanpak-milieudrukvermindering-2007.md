@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 maart 2007, nr. SAS2007015288, houdende regels met betrekking tot subsidies aan gemeenten om hen te stimuleren tot het verminderen van milieudruk door het bevorderen van preventie en scheiding van huishoudelijke afvalstoffen (Subsidieregeling aanpak milieudrukvermindering 2007)"
+citeertitel: "Subsidieregeling aanpak milieudrukvermindering 2007"
 identifier: "BWBR0021493"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-02-22"
-last_updated: "2008-02-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021493"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "8992523"
-version_id: "14305362"
-internal_id: "C19460341"
-label_id: "8971664"
-dtd_version: "2.0"
-original_entry_into_force: "2007-03-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021493/2008-02-22/0"
-intitule_bron: "Stcrt.2007-52"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-03-09"
-intitule_published: "2007-03-14"
-intitule_in_force: "2007-03-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-52"
-original_signed_date: "2007-03-09"
-original_published_date: "2007-03-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-52-p10-SC79656"
-entry_into_force_date: "2007-03-27"
-jci_1_3: "jci1.3:c:BWBR0021493&z=2008-02-22&g=2008-02-22"
-jci_1_0: "1.0:c:BWBR0021493&g=2008-02-22"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling aanpak milieudrukvermindering 2007"
-signed_date: "2007-03-09"
-entry_into_force: "2007-03-27"
+publicatiedatum: 2007-03-27
+laatste_update: 2008-02-22
+status: geldig
+toestand: 2008-02-22
+bron: "https://wetten.overheid.nl/BWBR0021493"
+opgehaald: 2026-08-11
 ---
+
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 maart 2007, nr. SAS2007015288, houdende regels met betrekking tot subsidies aan gemeenten om hen te stimuleren tot het verminderen van milieudruk door het bevorderen van preventie en scheiding van huishoudelijke afvalstoffen (Subsidieregeling aanpak milieudrukvermindering 2007)
-
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -56,17 +30,17 @@ Besluit:
 
 - f. sorteeranalyse: onderzoek naar de samenstelling van het huishoudelijk afval uitgevoerd overeenkomstig de handreiking ‘Sorteeranalyses Handreiking voor gemeenten’, opgesteld door SenterNovem, AOO uitgave 2003-15;
 
-- g. nulmeting: inventarisatie van gegevens over afvalscheiding en afvalpreventie, voor zover het huishoudelijke afvalstoffen betreft, volgens de opgave in de bijlage bij deze regeling;
+- g. nulmeting: inventarisatie van gegevens over afvalscheiding en afvalpreventie, voor zover het huishoudelijke afvalstoffen betreft, volgens de opgave in de [bijlage](https://wetten.overheid.nl/BWBR0021493) bij deze regeling;
 
 - h. plan van aanpak: de beschrijving van feitelijk voorgenomen maatregelen met betrekking tot huishoudelijke afvalstoffen ter bereiking van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=2&z=2008-02-22&g=2008-02-22) beschreven doel waarin in elk geval de volgende onderdelen zijn uitgewerkt en opgenomen:
 
-- 1°. maatregelen, gericht op het optimaliseren van voorzieningen en werkprocessen ten behoeve van afvalscheiding, en die in elk geval betrekking hebben op twee categorieën huishoudelijke afvalstoffen, waarvan één afvalstoffencategorie groente-, fruit- en tuinafval, papier en karton of grove huishoudelijke afvalstoffen betreft;
+   - 1°. maatregelen, gericht op het optimaliseren van voorzieningen en werkprocessen ten behoeve van afvalscheiding, en die in elk geval betrekking hebben op twee categorieën huishoudelijke afvalstoffen, waarvan één afvalstoffencategorie groente-, fruit- en tuinafval, papier en karton of grove huishoudelijke afvalstoffen betreft;
 
-- 2°. maatregelen, gericht op het realiseren van afvalpreventie;
+   - 2°. maatregelen, gericht op het realiseren van afvalpreventie;
 
-- 3°. communicatiemaatregelen, gericht op gedragsbeïnvloeding van burgers ten behoeve van afvalscheiding en afvalpreventie;
+   - 3°. communicatiemaatregelen, gericht op gedragsbeïnvloeding van burgers ten behoeve van afvalscheiding en afvalpreventie;
 
-- 4°. monitoring, gericht op het systematisch en gedurig verzamelen, bewerken en presenteren van gegevens over de gemeentelijke situatie ten aanzien van huishoudelijk afval;
+   - 4°. monitoring, gericht op het systematisch en gedurig verzamelen, bewerken en presenteren van gegevens over de gemeentelijke situatie ten aanzien van huishoudelijk afval;
 
 - i. plusproject: samenhangend geheel van maatregelen, inhoudende het uitvoeren van een plan van aanpak;
 
@@ -74,15 +48,15 @@ Besluit:
 
 - k. groep: economische eenheid waarin organisatorisch zijn verbonden:
 
-- 1°. een natuurlijke persoon of rechtspersoon die direct of indirect:
+   - 1°. een natuurlijke persoon of rechtspersoon die direct of indirect:
 
-- –. meer dan de helft van het geplaatste kapitaal verschaft aan rechtspersonen of vennootschappen,
+      - – meer dan de helft van het geplaatste kapitaal verschaft aan rechtspersonen of vennootschappen,
 
-- –. volledig aansprakelijk vennoot is van rechtspersonen of vennootschappen, of
+      - – volledig aansprakelijk vennoot is van rechtspersonen of vennootschappen, of
 
-- –. overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en
+      - – overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en
 
-- 2°. rechtspersonen of vennootschappen.
+   - 2°. rechtspersonen of vennootschappen.
 
 2. Deze regeling is van toepassing op de volgende categorieën van huishoudelijke afvalstoffen: groente-, fruit- en tuinafval, papier en karton, glas, textiel, wit- en bruingoed, klein chemisch afval en grove huishoudelijke afvalstoffen.
 
@@ -142,11 +116,11 @@ Een aanvraag tot subsidieverlening wordt afgewezen indien:
 
 - a. de volgende noodzakelijke, rechtstreeks aan het project toe te rekenen en door de aanvrager tot subsidieverlening gemaakte en betaalde kosten:
 
-- 1°. loonkosten van het bij de uitvoering van het project direct betrokken personeel, berekend op basis van een totaalbedrag van € 34,– per uur verrichte arbeid;
+   - 1°. loonkosten van het bij de uitvoering van het project direct betrokken personeel, berekend op basis van een totaalbedrag van € 34,– per uur verrichte arbeid;
 
-- 2°. aan derden verschuldigde kosten terzake van door hen verleende diensten en terzake van de verwerving van kennis en intellectuele eigendomsrechten alsmede terzake van de bescherming van die rechten, exclusief winstopslagen bij transacties binnen een groep;
+   - 2°. aan derden verschuldigde kosten terzake van door hen verleende diensten en terzake van de verwerving van kennis en intellectuele eigendomsrechten alsmede terzake van de bescherming van die rechten, exclusief winstopslagen bij transacties binnen een groep;
 
-- 3°. een opslag voor algemene kosten, ter grootte van 40% van de loonkosten, bedoeld in onderdeel a, onder 1°;
+   - 3°. een opslag voor algemene kosten, ter grootte van 40% van de loonkosten, bedoeld in onderdeel a, onder 1°;
 
 - b. de kosten van verbruikte materialen en hulpmiddelen, gebaseerd op historische aanschafprijzen, exclusief winstopslagen binnen een groep.
 
@@ -203,23 +177,3 @@ Deze regeling treedt in werking met ingang van 27 maart 2007.
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling aanpak milieudrukvermindering 2007.
-
-## Bijlage behorende bij [artikel 1, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=1&z=2008-02-22&g=2008-02-22)
-
-| Onderdeel | Subonderdelen of methode |
-| --- | --- |
-| Gemeentelijk beleid | Vastgestelde uitgangspunten Geïmplementeerd beleid |
-|   |   |
-| Inzamel- en verwerkingstraject per huishoudelijke afvalstof | Inzamelmiddel Inzamellocatie (dichtheid) Inzamelvoertuig + bemensing Inzamelfrequentie Inzamelmoment (dag/tijdstip) Aanbiedings- en acceptatie-eisen Locatie van verwerking |
-|   |   |
-| Inzamelrespons per huishoudelijke afvalstof | Ingezamelde hoeveelheid per huishoudelijke afvalstof Samenstelling van de te verwijderen huishoudelijke afvalstoffen, als resultaat van een sorteeranalyse Totaal vrijkomende hoeveelheid per huishoudelijke afvalstof en gescheiden ingezameld deel (inzamelrespons) |
-|   |   |
-| Inzamel- en verwerkingskosten en opbrengsten per huishoudelijke afvalstof | Inzamelkosten per huishoudelijke afvalstof Transportkosten Overslagkosten Verwerkingskosten c.q. opbrengsten Overige kosten |
-|   |   |
-| Flankerende maatregelen | Motiverende maatregelen voor burgers Communicatie-inspanning voor burgers Tarievenstructuur Regelgeving afvalscheiding Controle/handhaving afvalscheiding |
-|   |   |
-| Achtergrondkenmerken | Bebouwingstype, tuingrootte, bevolkingssamenstelling op basis van nationaliteit, gezinssamenstelling |
-|   |   |
-| Kennis, houding, gedrag, behoeften en suggesties van burgers met betrekking tot afvalscheiding en afvalpreventie | Bewonersonderzoek, gebaseerd op in elk geval een representatieve schriftelijke of telefonische enquête |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

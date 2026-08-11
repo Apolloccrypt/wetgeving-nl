@@ -1,116 +1,122 @@
 ---
-title: "Besluit aanwijzing nationale parken"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 8 augustus 2007, nr. TRCJZ/2007/1221, houdende aanwijzing nationale parken (Regeling aanwijzing nationale parken)"
+citeertitel: "Besluit aanwijzing nationale parken"
 identifier: "BWBR0022396"
-categorie: "Overig"
-publicatiedatum: 2026-05-12
+categorie: "Milieu"
+soort: "ministeriele-regeling"
+publicatiedatum: 2024-10-17
 laatste_update: 2026-05-12
 status: geldig
+toestand: 2026-05-12
 bron: "https://wetten.overheid.nl/BWBR0022396"
+opgehaald: 2026-08-11
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 8 augustus 2007, nr. TRCJZ/2007/1221, houdende aanwijzing nationale parken (Regeling aanwijzing nationale parken)
-
-Besluit:
 
 #### § 1. Algemeen
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
+
+##### Artikel 1a
+
+Dit besluit berust op [artikel 2.44, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.44).
 
 ##### Artikel 2
 
 1. Als nationaal park zijn aangewezen:
 
-- –. De Alde Feanen;
+- – De Alde Feanen;
 
-- –. De Biesbosch;
+- – De Biesbosch;
 
-- –. Drentsche Aa;
+- – Drentsche Aa;
 
-- –. Drents-Friese Wold;
+- – Drents-Friese Wold;
 
-- –. Duinen van Texel;
+- – Duinen van Texel;
 
-- –. Dwingelderveld;
+- – Dwingelderveld;
 
-- –. De Groote Peel;
+- – De Groote Peel;
 
-- –. Hollandse Duinen;
+- – Hollandse Duinen;
 
-- –. Lauwersmeer;
+- – Lauwersmeer;
 
-- –. De Maasduinen;
+- – De Maasduinen;
 
-- –. De Meinweg;
+- – De Meinweg;
 
-- –. Nieuw Land;
+- – Nieuw Land;
 
-- –. Oosterschelde;
+- – Oosterschelde;
 
-- –. De Sallandse Heuvelrug;
+- – De Sallandse Heuvelrug;
 
-- –. Schiermonnikoog;
+- – Schiermonnikoog;
 
-- –. Utrechtse Heuvelrug;
+- – Utrechtse Heuvelrug;
 
-- –. Weerribben-Wieden;
+- – Weerribben-Wieden;
 
-- –. Van Gogh;
+- – Van Gogh;
 
-- –. Zuid-Kennemerland.
+- – Zuid-Kennemerland.
 
-2. De nationale parken, bedoeld in het eerste lid, omvatten de gebieden, zoals aangegeven op de kaarten, opgenomen in de bijlage bij deze regeling.
+2. De nationale parken, bedoeld in het eerste lid, omvatten de gebieden, zoals aangegeven op de kaarten, opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0022396) bij deze regeling.
 
 #### § 2. Het overlegorgaan
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 #### § 3. Nationaal park in oprichting
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 #### § 4. Slotbepalingen
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -119,171 +125,3 @@ Deze regeling treedt in werking met ingang van 1 september 2007.
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing nationale parken.
-
-## Bijlage
-
-## Bijlage
-
-Bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=1&artikel=1&z=2009-01-01&g=2009-01-01), [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=2&artikel=5&z=2009-01-01&g=2009-01-01), en [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=2&artikel=8&z=2009-01-01&g=2009-01-01), van de regeling.
-
-### **I Nationaal park De Alde Feanen**
-
-Aangewezen per 26 april 2006
-
-1. Zestien leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Friesland.
-
-### **II Nationaal park De Biesbosch**
-
-Aangewezen per 10 maart 1994
-
-1. Veertien leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Noord-Brabant.
-
-### **III Nationaal park Drents-Friese Wold**
-
-Aangewezen per 22 juli 1999
-
-1. Dertien leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Drenthe.
-
-### **IV Nationaal park Duinen van Texel**
-
-Aangewezen per 1 mei 2002
-
-1. Veertien leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Noord-Holland.
-
-### **V Nationaal park Dwingelderveld**
-
-Aangewezen per 22 augustus 1991
-
-1. Negen leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Drenthe.
-
-### **VI Nationaal park De Groote Peel**
-
-Aangewezen per 1 juli 1993
-
-1. Negen leden, als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Limburg.
-
-### **VII Nationaal park De Maasduinen**
-
-Aangewezen per 30 oktober 1996
-
-1. Negen leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Limburg.
-
-### **VIII Nationaal park Lauwersmeer**
-
-Aangewezen per 12 november 2003
-
-1. Dertien leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Groningen.
-
-### **IX Nationaal park De Loonse en Drunense Duinen**
-
-Aangewezen per 28 maart 2002
-
-1. Elf leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Noord-Brabant.
-
-### **X Nationaal park De Meinweg**
-
-Aangewezen per 8 juni 1995
-
-1. Acht leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Limburg.
-
-### **XI Nationaal park Nationaal beek- en esdorpenlandschap Drentsche Aa**
-
-Aangewezen per 4 december 2002
-
-1. Twaalf leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Drenthe.
-
-### **XII Nationaal park Oosterschelde**
-
-Aangewezen per 8 mei 2002
-
-1. Negentien leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Zeeland.
-
-### **XIII Nationaal park De Sallandse Heuvelrug**
-
-Aangewezen per 16 oktober 2004
-
-1. Tien leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Overijssel.
-
-### **XIV Nationaal park Schiermonnikoog**
-
-Aangewezen per 19 juli 1989
-
-1. Zeven leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Friesland.
-
-### **XV Nationaal park Utrechtse Heuvelrug**
-
-Aangewezen per 11 oktober 2003
-
-1. Vijftien leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Utrecht.
-
-### **XVI Nationaal park Zuid-Kennemerland**
-
-Aangewezen per 21 november 1995
-
-1. Tien leden als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Noord-Holland.
-
-### **XVII Nationaal Park Weerribben-Wieden**
-
-Aangewezen per 1 januari 2009
-
-1. Vijftien leden, als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Overijssel.
-
-### **XVIII Nationaal Park in oprichting Weerribben-Wieden**
-
-Aangewezen per 1 september 2007
-
-1. Vijftien leden, als vertegenwoordiger van onderscheidenlijk:
-
-2. Het secretariaat van het overlegorgaan berust bij de provincie Overijssel.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2007-09-01&g=2007-09-01) die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2009-01-01&g=2009-01-01) die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van bijlage 1 die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
-
-##### Artikel 1a
-
-Dit besluit berust op [artikel 2.44, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.44).
-
-#### § 2. Het overlegorgaan
-
-#### § 3. Nationaal park in oprichting
-
-#### § 4. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van bijlage 1 die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.

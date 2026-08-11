@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Economische Zaken van 2 juli 2007, nr. WJZ 7079770, houdende vaststelling van de elektronische aanvraagprocedure voor subsidies via Senterloket"
+citeertitel: "Beleidsregel elektronische aanvraagprocedure voor subsidies via SenterNovem"
 identifier: "BWBR0022183"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2009-04-10"
-last_updated: "2009-04-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022183"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "9139013"
-version_id: "16291982"
-internal_id: "C22346191"
-label_id: "9117934"
-dtd_version: "2.0"
-original_entry_into_force: "2009-03-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022183/2009-04-10/0"
-intitule_bron: "Stcrt.2007-128"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-07-02"
-intitule_published: "2007-07-06"
-intitule_in_force: "2007-07-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-68"
-original_signed_date: "2009-03-27"
-original_published_date: "2009-04-08"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2009-5251"
-entry_into_force_date: "2009-03-27"
-jci_1_3: "jci1.3:c:BWBR0022183&z=2009-04-10&g=2009-04-10"
-jci_1_0: "1.0:c:BWBR0022183&g=2009-04-10"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel elektronische aanvraagprocedure voor subsidies via SenterNovem"
-signed_date: "2009-03-27"
-entry_into_force: "2009-03-27"
+publicatiedatum: 2009-03-27
+laatste_update: 2009-04-10
+status: geldig
+toestand: 2009-04-10
+bron: "https://wetten.overheid.nl/BWBR0022183"
+opgehaald: 2026-08-11
 ---
+
 # Beleidsregel van de Minister van Economische Zaken van 2 juli 2007, nr. WJZ 7079770, houdende vaststelling van de elektronische aanvraagprocedure voor subsidies via Senterloket
-
-Gelet op de [artikelen 2:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -58,6 +32,8 @@ In deze beleidsregel wordt verstaan onder:
 
 - f. website: website van SenterNovem voor het elektronisch indienen van subsidieaanvragen.
 
+#### § 2. De aanvraagprocedure met authenticatie door middel van een certificaat
+
 ##### Artikel 2
 
 1. De [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022183&paragraaf=2&artikel=4&z=2009-04-10&g=2009-04-10) van deze beleidsregel zijn van toepassing op het elektronisch indienen van een aanvraag met betrekking tot subsidieverstrekking met authenticatie door middel van een certificaat.
@@ -66,9 +42,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 3
 
-Vervallen
-
-#### § 2. De aanvraagprocedure
+*Vervallen*
 
 ##### Artikel 4
 
@@ -97,14 +71,6 @@ Het elektronisch indienen van subsidieaanvragen geschiedt op de volgende wijze:
 2. Indien de certificaathouder niet de tekenbevoegde van de organisatie is, kan hij een tekenbevoegde autoriseren om de aanvraag te ondertekenen of in te dienen.
 
 #### § 3. De aanvraagprocedure met authenticatie door middel van DigiD
-
-##### Artikel 7
-
-Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 2. De aanvraagprocedure met authenticatie door middel van een certificaat
 
 ##### Artikel 6a
 
@@ -138,4 +104,6 @@ Indien een aanvraag met betrekking tot subsidieverstrekking wordt ingediend over
 
 De beleidsregel wordt aangehaald als: Beleidsregel elektronische aanvraagprocedure voor subsidies via SenterNovem.
 
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 7
+
+Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.

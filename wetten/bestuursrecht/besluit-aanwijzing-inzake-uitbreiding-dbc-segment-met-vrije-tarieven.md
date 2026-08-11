@@ -1,50 +1,22 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 10 september 2007, MC-U- 2794139, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake uitbreiding DBC-segment met vrije tarieven"
+citeertitel: "Besluit aanwijzing inzake uitbreiding DBC-segment met vrije tarieven"
 identifier: "BWBR0022529"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-09-19"
-last_updated: "2007-09-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022529"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9208763"
-version_id: "14760962"
-internal_id: "C20078721"
-label_id: "9187384"
-dtd_version: "2.0"
-original_entry_into_force: "2007-09-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022529/2007-09-19/0"
-intitule_bron: "Stcrt.2007-181"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-09-10"
-intitule_published: "2007-09-19"
-intitule_in_force: "2007-09-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-181"
-original_signed_date: "2007-09-10"
-original_published_date: "2007-09-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-181-p18-SC82269"
-entry_into_force_date: "2007-09-19"
-jci_1_3: "jci1.3:c:BWBR0022529&z=2007-09-19&g=2007-09-19"
-jci_1_0: "1.0:c:BWBR0022529&g=2007-09-19"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing inzake uitbreiding DBC-segment met vrije tarieven"
-signed_date: "2007-09-10"
-entry_into_force: "2007-09-19"
+publicatiedatum: 2007-09-19
+laatste_update: 2007-09-19
+status: geldig
+toestand: 2007-09-19
+bron: "https://wetten.overheid.nl/BWBR0022529"
+opgehaald: 2026-08-11
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 10 september 2007, MC-U- 2794139, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake uitbreiding DBC-segment met vrije tarieven
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 13 juni 2007 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II, 2006/07, 29 248, nr. 37);
-
-Besluit:
 
 ##### Artikel 1
 
-Deze aanwijzing is van toepassing op zorg gerelateerd aan aandoeningen, opgenomen in de bijlage bij deze aanwijzing, voor zover daarvoor prestatiebeschrijvingen zijn vastgesteld.
+Deze aanwijzing is van toepassing op zorg gerelateerd aan aandoeningen, opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0022529) bij deze aanwijzing, voor zover daarvoor prestatiebeschrijvingen zijn vastgesteld.
 
 Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit, verder te noemen de zorgautoriteit, met ingang van 1 januari 2008 beleidsregels vast.
 
@@ -71,9 +43,3 @@ De zorgautoriteit evalueert op basis van objectieve evaluatiecriteria de ontwikk
 ##### Artikel 6
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
-
-## Bijlage. Aandoeningen DBC-segment met vrije prijzen
-
-### **Aandoeningen in het reeds bestaande DBC-segment met vrije prijzen**
-
-### **Aandoeningen waarmee het reeds bestaande DBC-segment met vrije prijzen wordt uitgebreid**

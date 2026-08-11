@@ -1,52 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor aanpassing van de bedragen van de onkostenvergoedingen van politieke ambtsdragers"
+citeertitel: "Regeling aanpassing bedragen onkostenvergoedingen politieke ambtsdragers"
 identifier: "BWBR0021103"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-02-01"
-last_updated: "2007-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021103"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "8884633"
-version_id: "14111072"
-internal_id: "C19227741"
-label_id: "8863904"
-dtd_version: "2.0"
-original_entry_into_force: "2007-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021103/2007-02-01/0"
-intitule_bron: "Stcrt.2007-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-01-17"
-intitule_published: "2007-01-30"
-intitule_in_force: "2007-01-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-21"
-original_signed_date: "2007-01-17"
-original_published_date: "2007-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-21-p9-SC78954"
-entry_into_force_date: "2007-02-01"
-jci_1_3: "jci1.3:c:BWBR0021103&z=2007-02-01&g=2007-02-01"
-jci_1_0: "1.0:c:BWBR0021103&g=2007-02-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanpassing bedragen onkostenvergoedingen politieke ambtsdragers"
-signed_date: "2007-01-17"
-entry_into_force: "2007-02-01"
+publicatiedatum: 2007-02-01
+laatste_update: 2007-02-01
+status: geldig
+toestand: 2007-02-01
+bron: "https://wetten.overheid.nl/BWBR0021103"
+opgehaald: 2026-08-11
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor aanpassing van de bedragen van de onkostenvergoedingen van politieke ambtsdragers
-
-Gelet op:
-
-– [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=8) en [artikel 9, derde lid, van de Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=9);
-
-– [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007402&artikel=10), [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007402&artikel=16) en [artikel 18, tweede en derde lid, van de Wet vergoedingen leden Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0007402&artikel=18);
-
-– [artikel 1, eerste lid, onder de letters a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005966&artikel=1) en [artikel 2, eerste lid, onder de letters a en b, van de Regeling van een vergoeding voor de vice-president van de Raad van State en de staatsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0005966&artikel=2);
-
-– [artikel 2, eerste lid, onder de letters a en b, van de nadere regeling van de rechtspositie van de Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0004905&artikel=2);
-
-Besluit:
 
 ##### Artikel I
 
@@ -54,7 +20,7 @@ In de [Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci
 
 a. De bedragen in [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=8), komen te luiden:
 
-| Reisafstand | Ingevolge [art. 8 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=8) | Ingevolge [art. 8 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=8) | Ingevolge [art. 8 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=8) | Ingevolge [art. 8 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=8) |
+| Reisafstand | Ingevolge art. 8 lid 2 | Ingevolge art. 8 lid 3 |  |  |
 | --- | --- | --- | --- | --- |
 | 0 km | € | 5.642,90 | € | 11.756,04 |
 | 10 km | € | 9.311,60 | € | 19.399,17 |
@@ -77,7 +43,7 @@ c. Het bedrag in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 d. De bedragen in [artikel 18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007402&artikel=18), komen te luiden:
 
-| Reisafstand | Ingevolge [art. 18 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007402&artikel=18) | Ingevolge [art. 18 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007402&artikel=18) | Ingevolge [art. 18 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007402&artikel=18) | Ingevolge [art. 18 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007402&artikel=18) |
+| Reisafstand | Ingevolge art. 18 lid 2 | Ingevolge art. 18 lid 3 |  |  |
 | --- | --- | --- | --- | --- |
 | 0 km | € | 266,55 | € | 555,31 |
 | 10 km | € | 2.654,01 | € | 5.529,18 |
@@ -103,5 +69,3 @@ De bedragen in [artikel 2, eerste lid, onder a en b, van de nadere regeling van 
 ##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling wordt met de toelichting in de Staatscourant geplaatst.

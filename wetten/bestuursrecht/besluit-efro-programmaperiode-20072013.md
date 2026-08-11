@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 3 oktober 2007, houdende regels inzake bestuurlijke organisatie en cofinanciering door het Rijk van projecten uit het Europees Fonds voor Regionale Ontwikkeling voor de programmaperiode 2007–2013 (Besluit EFRO programmaperiode 2007–2013)"
+citeertitel: "Besluit EFRO programmaperiode 2007–2013"
 identifier: "BWBR0022685"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-12-07"
-last_updated: "2012-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022685"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "9245953"
-version_id: "14827582"
-internal_id: "C20173321"
-label_id: "9224654"
-dtd_version: "2.0"
-original_entry_into_force: "2007-10-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022685/2012-12-07/0"
-intitule_bron: "Stb.2007-387"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-10-03"
-intitule_published: "2007-10-23"
-intitule_in_force: "2007-10-23"
-intitule_status: "goed"
-original_publication: "Stb.2007-387"
-original_signed_date: "2007-10-03"
-original_published_date: "2007-10-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2007-387"
-entry_into_force_date: "2007-10-24"
-jci_1_3: "jci1.3:c:BWBR0022685&z=2012-12-07&g=2012-12-07"
-jci_1_0: "1.0:c:BWBR0022685&g=2012-12-07"
-citeertitel_status: "officieel"
-short_title: "Besluit EFRO programmaperiode 2007–2013"
-signed_date: "2007-10-03"
-entry_into_force: "2007-10-24"
+publicatiedatum: 2007-10-24
+laatste_update: 2012-12-07
+status: geldig
+toestand: 2012-12-07
+bron: "https://wetten.overheid.nl/BWBR0022685"
+opgehaald: 2026-08-11
 ---
+
 # Besluit van 3 oktober 2007, houdende regels inzake bestuurlijke organisatie en cofinanciering door het Rijk van projecten uit het Europees Fonds voor Regionale Ontwikkeling voor de programmaperiode 2007–2013 (Besluit EFRO programmaperiode 2007–2013)
-
-Op de voordracht van de Staatssecretaris van Economische Zaken van 20 december 2006, nr. WJZ 6111566, gedaan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties;
-
-Gelet op [Verordening (EG) nr. 1083/2006](32006R1083) van de Raad van de Europese Unie van 11 juli 2006 houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds en tot intrekking van [Verordening (EG) nr. 1260/1999](31999R1260) (PbEG L 210), [Verordening (EG) nr. 1080/2006](32006R1080) van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende het Europees Fonds voor Regionale Ontwikkeling en tot intrekking van [Verordening (EG) nr. 1783/1999](31999R1783) (PbEG L 210), [artikel 89 Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=89) en [artikel 3 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-De Raad van State gehoord (advies van 14 februari 2007, nr. W10.06.0570/II);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 26 september 2007, nr. WJZ 7111782, uitgebracht in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Definities
 
@@ -52,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Kaderverordening: [Verordening (EG) nr. 1083/2006](32006R1083) van de Raad van de Europese Unie van 11 juli 2006 houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds en tot intrekking van [Verordening (EG) nr. 1260/1999](31999R1260) (PbEG L 210);
+- a. Kaderverordening: Verordening (EG) nr. 1083/2006 van de Raad van de Europese Unie van 11 juli 2006 houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds en tot intrekking van Verordening (EG) nr. 1260/1999 (PbEG L 210);
 
-- b. EFRO-verordening: [Verordening (EG) nr. 1080/2006](32006R1080) van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende het Europees Fonds voor Regionale Ontwikkeling en tot intrekking van [Verordening (EG) nr. 1783/1999](31999R1783) (PbEG L 210);
+- b. EFRO-verordening: Verordening (EG) nr. 1080/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende het Europees Fonds voor Regionale Ontwikkeling en tot intrekking van Verordening (EG) nr. 1783/1999 (PbEG L 210);
 
-- c. Uitvoeringsverordening: [Verordening (EG) nr. 1828/2006](32006R1828) van de Commissie van 8 december 2006 tot vaststelling van de uitvoeringsbepalingen van [Verordening (EG) nr. 1083/2006](32006R1083) van de Raad houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds, en van [Verordening (EG) nr. 1080/2006](32006R1080) van het Europees Parlement en de Raad betreffende het Europees Fonds voor Regionale Ontwikkeling (PbEG L371);
+- c. Uitvoeringsverordening: Verordening (EG) nr. 1828/2006 van de Commissie van 8 december 2006 tot vaststelling van de uitvoeringsbepalingen van Verordening (EG) nr. 1083/2006 van de Raad houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds, en van Verordening (EG) nr. 1080/2006 van het Europees Parlement en de Raad betreffende het Europees Fonds voor Regionale Ontwikkeling (PbEG L371);
 
 - d. Europees programma: operationeel programma als bedoeld in artikel 2 van de Kaderverordening;
 
@@ -126,17 +94,17 @@ De managementautoriteit kan van bevoegdheden krachtens Kaderverordening, EFRO-ve
 
 ##### Artikel 8
 
-1. De algemeen directeur van de Dienst Regelingen van het Ministerie van Economische Zaken is certificeringsautoriteit als bedoeld in artikel 59, eerste lid, onderdeel b, van de Kader[verordening 1083/2006](32006R1083) voor de Europese Programma’s genoemd in [artikel 5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07).
+1. De algemeen directeur van de Dienst Regelingen van het Ministerie van Economische Zaken is certificeringsautoriteit als bedoeld in artikel 59, eerste lid, onderdeel b, van de Kaderverordening 1083/2006 voor de Europese Programma’s genoemd in [artikel 5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07).
 
-2. Het bestuur van de Stichting Euregio Maasrijn is certificeringsautoriteit als bedoeld in artikel 59, eerste lid, onderdeel b, van de Kader[verordening 1083/2006](32006R1083) voor het grensoverschrijdend programma, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07).
+2. Het bestuur van de Stichting Euregio Maasrijn is certificeringsautoriteit als bedoeld in artikel 59, eerste lid, onderdeel b, van de Kaderverordening 1083/2006 voor het grensoverschrijdend programma, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07).
 
 3. De in het eerste en tweede lid aangewezen certificeringsautoriteit is de in artikel 76, tweede lid van de Kaderverordening bedoelde instantie.
 
 ##### Artikel 9
 
-1. De directeur van de auditdienst van het Ministerie van Financiën is auditautoriteit als bedoeld in artikel 59, eerste lid, onderdeel c, van de Kader[verordening 1083/2006](32006R1083) voor de aangewezen Europese programma’s genoemd in [artikel 5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07).
+1. De directeur van de auditdienst van het Ministerie van Financiën is auditautoriteit als bedoeld in artikel 59, eerste lid, onderdeel c, van de Kaderverordening 1083/2006 voor de aangewezen Europese programma’s genoemd in [artikel 5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07).
 
-2. De directeur van de auditdienst van het Ministerie van Economische Zaken is auditautoriteit als bedoeld in artikel 59, eerste lid, onderdeel c, van de Kader[verordening 1083/2006](32006R1083) voor het aangewezen Europese programma genoemd in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07).
+2. De directeur van de auditdienst van het Ministerie van Economische Zaken is auditautoriteit als bedoeld in artikel 59, eerste lid, onderdeel c, van de Kaderverordening 1083/2006 voor het aangewezen Europese programma genoemd in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&paragraaf=3&artikel=5&z=2012-12-07&g=2012-12-07).
 
 ##### Artikel 10
 
@@ -157,5 +125,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit EFRO programmaperiode 2007–2013.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

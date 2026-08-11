@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 12 april 2007 met kenmerk SAS 2007018801, houdende vaststelling van regels met betrekking tot de sanering van wegen in de omgeving van de gemeenten Hof van Twente en Harderwijk, waarin asbestbevattend materiaal is verwerkt"
+citeertitel: "Saneringsregeling asbestwegen derde fase"
 identifier: "BWBR0021724"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021724"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "9046013"
-version_id: "14416192"
-internal_id: "C19612211"
-label_id: "9025144"
-dtd_version: "2.0"
-original_entry_into_force: "2007-04-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021724/2024-01-01/0"
-intitule_bron: "Stcrt.2007-75"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-04-12"
-intitule_published: "2007-04-18"
-intitule_in_force: "2007-04-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-75"
-original_signed_date: "2007-04-12"
-original_published_date: "2007-04-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-75-p25-SC80166"
-entry_into_force_date: "2007-04-20"
-jci_1_3: "jci1.3:c:BWBR0021724&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0021724&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Saneringsregeling asbestwegen derde fase"
-signed_date: "2007-04-12"
-entry_into_force: "2007-04-20"
+publicatiedatum: 2007-04-20
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0021724"
+opgehaald: 2026-08-11
 ---
+
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 12 april 2007 met kenmerk SAS 2007018801, houdende vaststelling van regels met betrekking tot de sanering van wegen in de omgeving van de gemeenten Hof van Twente en Harderwijk, waarin asbestbevattend materiaal is verwerkt
-
-Gelet op [artikel 15.13, eerste en tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
-
-Besluit:
 
 #### § 1. Definities en reikwijdte
 
@@ -96,7 +70,7 @@ Besluit:
 
 - b. asbest uit asbestbevattende stroken doen verwijderen.
 
-2. Een aanvraag als bedoeld in het eerste lid kan worden ingediend door eigenaren van wegen of stroken die zijn aangemeld in het kader van de aanvullende inventarisatie van asbestwegen, zoals die is uitgevoerd door de provincies Overijssel en Gelderland in de periode 15 mei 2006 tot en met 1 juli 2006.
+2. Een aanvraag als bedoeld in het eerste lid kan worden ingediend door eigenaren van wegen of stroken die zijn aangemeld in het kader van de aanvullende inventarisatie van asbestwegen, zoals die is uitgevoerd door de provincies Overijssel en Gelderland in de periode 15 mei 2006 tot en met 1 juli 2006.
 
 ##### Artikel 4
 
@@ -132,7 +106,7 @@ Zolang de handelingen waarvoor een beschikking op de aanvraag is gegeven, nog ni
 
 3. Bij een aanvraag met betrekking tot een weg of strook, gelegen buiten een straal van twaalf kilometer rond de voormalige gemeente Goor of buiten een straal van twaalf kilometer rond de gemeente Harderwijk, te rekenen vanaf de gemeentegrenzen, worden stukken gevoegd waaruit blijkt dat de weg of strook niet is aan te merken als een weg of strook, als bedoeld in [artikel 2, tweede lid, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01).
 
-4. Een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) wordt ingediend voor 1 januari 2010, tenzij toepassing is gegeven aan [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01).
+4. Een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) wordt ingediend voor 1 januari 2010, tenzij toepassing is gegeven aan [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01).
 
 #### § 3. Saneringen voor de datum van aanvang van de aanvullende inventarisatie
 
@@ -146,7 +120,7 @@ Zolang de handelingen waarvoor een beschikking op de aanvraag is gegeven, nog ni
 
 De minister kan een subsidie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) slechts vaststellen indien:
 
-- a. de opdracht voor het verrichten van de desbetreffende handeling is verleend tussen 1 juli 2003 en 15 mei 2006;
+- a. de opdracht voor het verrichten van de desbetreffende handeling is verleend tussen 1 juli 2003 en 15 mei 2006;
 
 - b. de desbetreffende handeling is verricht met betrekking tot een weg of strook die ten tijde van het verrichten van de handeling niet in eigendom was van een publiekrechtelijke rechtspersoon, Asbestona, Eternit, een dochtermaatschappij van Asbestona of Eternit, een rechtspersoon waarin Asbestona of Eternit deelneemt of deelnam of een anderszins organisatorisch aan Asbestona of Eternit verbonden eenheid;
 
@@ -158,7 +132,7 @@ De minister kan een subsidie als bedoeld in [artikel 9](https://wetten.overheid.
 
 1. Aanvragen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) kunnen uitsluitend worden ingediend door eigenaren van wegen of stroken.
 
-2. Een aanvraag wordt ingediend bij het het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, directie Stoffen, Afvalstoffen, Straling, postbus 30945, 2500 GX Den Haag, met gebruikmaking van het formulier dat is opgenomen in de bijlage bij deze regeling.
+2. Een aanvraag wordt ingediend bij het het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, directie Stoffen, Afvalstoffen, Straling, postbus 30945, 2500 GX Den Haag, met gebruikmaking van het formulier dat is opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0021724) bij deze regeling.
 
 3. Bij een aanvraag als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) worden stukken gevoegd waaruit blijkt:
 
@@ -179,63 +153,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 13
 
 Deze regeling wordt aangehaald als: Saneringsregeling asbestwegen derde fase.
-
-## Bijlage. behorende bij [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01)
-
-### Aanvraagformulier
-
-Lees voor het invullen van het formulier eerst de toelichting op het aanvraagformulier met informatie over het verstrekken van subsidie voor de reeds uitgevoerde sanering van asbestbevattende wegen en asbestbevattende stroken. Indien u onjuiste gegevens verstrekt, kan de beschikking op een aanvraag met betrekking tot de subsidievaststelling door de minister voor een reeds uitgevoerde sanering van asbestbevattende wegen of asbestbevattende stroken worden ingetrokken of ten nadele van u worden gewijzigd.
-
-Waar * is aangegeven, wordt u verzocht door te halen wat niet van toepassing is.
-
-1. Gegevens aanvrager:
-
-2. Plaats en oppervlak van de gesaneerde asbestbevattende weg en/of de asbestbevattende stroken:
-
-3. Andere vragen over de asbestbevattende weg:
-
-4. Voor welke subsidie wenst u in aanmerking te komen? Omcirkel een van de onderstaande mogelijkheden:
-
-5. Bijgevoegde bescheiden die noodzakelijk zijn voor de behandeling van en de beslissing op de aanvraag:
-
-6. Bijgevoegde bescheiden die noodzakelijk zijn indien de afstand tussen de weg of de stroken en de voormalige gemeente Goor of de gemeente Harderwijk meer dan twaalf kilometer bedraagt:
-
-7. Ruimte voor aanvullende opmerkingen:
-
-...........................................................
-
-...........................................................
-
-8. Verklaring:
-
-Ik verklaar dit formulier volledig en naar waarheid te hebben ingevuld.
-
-Ik verklaar mijn eventuele aanspraken op grond van onrechtmatige daad jegens Asbestona of Eternit, dan wel een dochtermaatschappij van Asbestona of Eternit, een rechtspersoon waarin Asbestona of Eternit deelneemt of een anderszins organisatorisch aan Asbestona of Eternit verbonden eenheid, voor zover het betreft saneringskosten gemaakt in het kader van deze regeling, over te dragen aan de Staat (in dezen vertegenwoordigd door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer).
-
-9. Ondertekening:
-
-Het ingevulde formulier zenden naar: Ministerie van VROM, directie SAS, postbus 30945, (IPC 645) 2500 GX Den Haag. Het ingevulde formulier moet voor 1 juli 2007 zijn ontvangen. VROM zendt u een bericht van ontvangst van de aanvraag.
-
-### Toelichting op het aanvraagformulier
-
-### **Algemeen**
-
-Vul dit formulier volledig in. Indien u meer dan één asbestbevattende weg in eigendom heeft die in uw opdracht gesaneerd is in de periode 1 juli 2003 tot 15 mei 2006, dient u voor elke weg een apart aanvraagformulier in te vullen. Indien een vraag niet van toepassing is, ‘n.v.t.’ invullen. Het formulier dient gebruikt te worden voor het aanvragen van subsidie voor een in eigen beheer en voor eigen kosten uitgevoerde sanering van asbestbevattende wegen en stroken. Indien u vragen hebt over de invulling van dit formulier of deze regeling, kunt u contact opnemen met het het Ministerie van VROM, directie SAS, postbus 30945, 2500 GX Den Haag.
-
-### **Toelichting op de vragen**
-
-Het onder a genoemde kadastrale uittreksel mag niet ouder zijn dan een maand. U kunt het, evenals de bijbehorende kaart, (tegen vergoeding van de kosten) opvragen bij de desbetreffende kadastervestiging.
-
-Onder ‘bermen’ in de onderdelen 2d en 2e, worden ook taluds verstaan.
-
-U moet (kopieën van) de volgende stukken bij de aanvraag voegen:
-
-U moet (kopieën van) de volgende stukken bij de aanvraag voegen:
-
-Indien u failliet bent verklaard of aan u surséance van betaling is verleend, dan wel een verzoek daartoe bij de Rechtbank is ingediend, moet u dat hier vermelden. Ook andere informatie waarvan u denkt dat deze van belang kan zijn, kunt u hier verstrekken.
-
-Indien de eigenaar een ander persoon machtigt de aanvraag namens hem in te dienen, moet een door de eigenaar ondertekende schriftelijke machtiging bij de aanvraag worden gevoegd.
-
-U kunt andere stukken waarvan u denkt dat deze van belang zijn, bij de aanvraag voegen. Denk daarbij bijvoorbeeld aan een situatieschets waaruit blijkt op welk deel van de weg of de stroken zich asbest bevonden heeft.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

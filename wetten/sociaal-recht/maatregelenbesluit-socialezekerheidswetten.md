@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 23 augustus 2007, houdende regels omtrent de hoogte en duur van de op te leggen administratieve maatregelen op grond van de socialezekerheidswetten (Maatregelenbesluit socialezekerheidswetten)"
+citeertitel: "Maatregelenbesluit socialezekerheidswetten"
 identifier: "BWBR0022445"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022445"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "9193353"
-version_id: "21954142"
-internal_id: "C31495451"
-label_id: "9172134"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022445/2026-01-01/0"
-intitule_bron: "Stb.2007-304"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-08-23"
-intitule_published: "2007-08-30"
-intitule_in_force: "2007-08-30"
-intitule_status: "goed"
-original_publication: "Stb.2014-550"
-original_signed_date: "2014-12-16"
-original_published_date: "2014-12-23"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2014-550"
-entry_into_force_date: "2014-12-16"
-jci_1_3: "jci1.3:c:BWBR0022445&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0022445&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Maatregelenbesluit socialezekerheidswetten"
-signed_date: "2014-12-16"
-entry_into_force: "2014-12-16"
+publicatiedatum: 2014-12-16
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0022445"
+opgehaald: 2026-08-11
 ---
+
 # Besluit van 23 augustus 2007, houdende regels omtrent de hoogte en duur van de op te leggen administratieve maatregelen op grond van de socialezekerheidswetten (Maatregelenbesluit socialezekerheidswetten)
-
-Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 2 juli 2007, nr. SV/R&S/07/21943;
-
-Gelet op de [artikelen 27, tiende lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27), [45, zesde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45), [29, vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29), [90, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=90), [47, vijfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=47), [39, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=39), [14, zesde lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14), [17b, zesde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17b), [38, zesde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=38), en [17, zesde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17);
-
-De Raad van State gehoord (advies van 25 juli 2007, nummer W12.07.0188/III);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 17 augustus 2007, Directie Sociale Verzekeringen, nr. SV/R&S/07/26337;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Algemene begrippen
 
@@ -74,9 +42,11 @@ In dit besluit wordt verstaan onder:
 
 - l. AKW: [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368);
 
-- m. **IOW:** [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
+- m. *IOW:*
+ [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
 
-- n. **RW:** [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424);
+- n. *RW:*
+ [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424);
 
 - o. Wet SUWI: [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
 
@@ -86,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Hoogte en duur van een maatregel
 
-1. De hoogte en duur van een, op grond van de in [artikel 1, onderdelen b tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1&z=2026-01-01&g=2026-01-01), genoemde wetten, op te leggen maatregel wordt, met dien verstande dat de hoogte van de maatregel ten minste € 25 bedraagt, vastgesteld op:
+1. De hoogte en duur van een, op grond van de in [artikel 1, onderdelen b tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1&z=2026-01-01&g=2026-01-01), genoemde wetten, op te leggen maatregel wordt, met dien verstande dat de hoogte van de maatregel ten minste € 25 bedraagt, vastgesteld op:
 
 - a. 5 procent van het uitkeringsbedrag, met een mogelijkheid van afwijking tot ten minste 2 procent of ten hoogste 20 procent van het uitkeringsbedrag, gedurende ten minste een maand bij verplichtingen uit de eerste categorie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=3&z=2026-01-01&g=2026-01-01);
 
@@ -196,7 +166,7 @@ De verplichtingen, op grond van de in [artikel 1, onderdelen b tot en met d, f, 
 
 - a. het voorkomen van het ontstaan en bestaan van een recht op uitkering, bedoeld in [artikel 28 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=28);
 
-- b. het vergroten van de mogelijkheden tot het verrichten van arbeid, bedoeld in [artikel 29 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=29), [artikel 14, tweede lid, onderdeel c, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), [artikel 29g van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29g) en [artikel 2:31, tweede lid, onderdelen d en e, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:31); of
+- b. het vergroten van de mogelijkheden tot het verrichten van arbeid, bedoeld in [artikel 29 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=29), [artikel 14, tweede lid, onderdeel c, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), [artikel 29g van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29g) en [artikel 2:31, tweede lid, onderdelen d en e, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:31); of
 
 - c. inschakeling in de arbeid, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30)[artikel 30, eerste lid, onderdelen b en c, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30) en [artikel 2:32, tweede lid, onderdelen c en d, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:32).
 
@@ -214,6 +184,10 @@ De verplichtingen op grond van de in [artikel 1, onderdelen b tot en met h](http
 
 - d. het, tijdens het tijdvak, bedoeld in [artikel 25, negende lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), zonder deugdelijke grond nalaten verweer te voeren tegen of instemmen met een beëindiging van de dienstbetrekking, bedoeld in [artikel 88, eerste lid, onderdeel d, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=88).
 
+##### Artikel 7a. Vijfde categorie
+
+De verplichtingen op grond van de in [artikel 1, onderdelen b tot en met g en i tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1&z=2026-01-01&g=2026-01-01), genoemde wetten, worden ingedeeld in de vijfde categorie voor zover zij betrekking hebben op het zich onthouden van zeer ernstige misdragingen als bedoeld in de [artikelen 26, eerste lid, onderdeel a, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), [45, eerste lid, onderdeel r, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45), [28, onderdeel l, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=28), [27, tweede lid, onderdeel f, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27), [46, eerste lid, onderdeel k, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=46), [2:7, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:7), en [3:38, eerste lid, onderdeel k, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:38), [13, tweede lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=13), [15, derde lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=15), [36, derde lid, van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=36), [16, derde lid, van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=16), en [15, onderdeel f, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15).
+
 ##### Artikel 8. Recidive
 
 1. Indien aan de belanghebbende een maatregel is opgelegd en binnen twee jaar na de bekendmaking daarvan opnieuw dezelfde verplichting niet of niet behoorlijk wordt nagekomen worden het percentage van de op te leggen maatregel alsmede het minimumbedrag, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=2&z=2026-01-01&g=2026-01-01), met 50% verhoogd.
@@ -228,6 +202,10 @@ Indien sprake is van het niet of niet behoorlijk nakomen van meer dan één verp
 
 Het [Maatregelenbesluit UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0017084), het [Maatregelbesluit AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0007873), het [Maatregelbesluit Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0008018) en het [Maatregelbesluit AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0007870), zoals die luidden op de dag voorafgaande aan de dag van inwerkingtreding van dit besluit, blijven van toepassing op de niet, niet behoorlijke of niet tijdige nakoming van de desbetreffende verplichtingen, die voorafgaat aan 1 mei 2008.
 
+##### Artikel 10a. Grondslag
+
+Dit besluit is mede gebaseerd op [artikel 6aa, zesde lid, van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=6aa).
+
 ##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 mei 2008.
@@ -235,17 +213,3 @@ Dit besluit treedt in werking met ingang van 1 mei 2008.
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Maatregelenbesluit socialezekerheidswetten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10a. Grondslag
-
-Dit besluit is mede gebaseerd op [artikel 6aa, zesde lid, van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=6aa).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a. Vijfde categorie
-
-De verplichtingen op grond van de in [artikel 1, onderdelen b tot en met g en i tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1&z=2026-01-01&g=2026-01-01), genoemde wetten, worden ingedeeld in de vijfde categorie voor zover zij betrekking hebben op het zich onthouden van zeer ernstige misdragingen als bedoeld in de [artikelen 26, eerste lid, onderdeel a, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), [45, eerste lid, onderdeel r, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45), [28, onderdeel l, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=28), [27, tweede lid, onderdeel f, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27), [46, eerste lid, onderdeel k, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=46), [2:7, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:7), en [3:38, eerste lid, onderdeel k, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:38), [13, tweede lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=13), [15, derde lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=15), [36, derde lid, van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=36), [16, derde lid, van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=16), en [15, onderdeel f, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

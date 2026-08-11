@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 juli 2007, nr. OHW-U-2780021, houdende de instelling van de Raad van advies programma erfgoed van de oorlog"
+citeertitel: "Instellingsbesluit Raad van advies programma Erfgoed van de Oorlog"
 identifier: "BWBR0022214"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-07-13"
-last_updated: "2007-07-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022214"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9144223"
-version_id: "14625352"
-internal_id: "C29353601"
-label_id: "9123134"
-dtd_version: "2.0"
-original_entry_into_force: "2007-07-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022214/2007-07-13/0"
-intitule_bron: "Stcrt.2007-131"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-07-03"
-intitule_published: "2007-07-11"
-intitule_in_force: "2007-07-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-131"
-original_signed_date: "2007-07-03"
-original_published_date: "2007-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-131-p12-SC81229"
-entry_into_force_date: "2007-07-13"
-jci_1_3: "jci1.3:c:BWBR0022214&z=2007-07-13&g=2007-07-13"
-jci_1_0: "1.0:c:BWBR0022214&g=2007-07-13"
-citeertitel_status: "redactioneel"
-short_title: "Instellingsbesluit Raad van advies programma Erfgoed van de Oorlog"
-signed_date: "2007-07-03"
-entry_into_force: "2007-07-13"
+publicatiedatum: 2007-07-13
+laatste_update: 2007-07-13
+status: geldig
+toestand: 2007-07-13
+bron: "https://wetten.overheid.nl/BWBR0022214"
+opgehaald: 2026-08-11
 ---
-# Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 juli 2007, nr. OHW-U-2780021, houdende de instelling van de Raad van advies programma erfgoed van de oorlog
 
-Besluit:
+# Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 juli 2007, nr. OHW-U-2780021, houdende de instelling van de Raad van advies programma erfgoed van de oorlog
 
 ##### Artikel 1
 
@@ -78,15 +54,15 @@ Tot voorzitter van de Raad wordt benoemd de heer drs. E. van Thijn, te Amsterdam
 
 Tot lid van de Raad worden benoemd:
 
-- –. de heer drs. M.P. van Gastel, te Leidschendam;
+- – de heer drs. M.P. van Gastel, te Leidschendam;
 
-- –. mevrouw drs. J.A. van Kranendonk, te Amsterdam;
+- – mevrouw drs. J.A. van Kranendonk, te Amsterdam;
 
-- –. mevrouw ir. J.M. Leemhuis-Stout, te Rotterdam;
+- – mevrouw ir. J.M. Leemhuis-Stout, te Rotterdam;
 
-- –. mevrouw drs. C.E. van Rappard-Boon, te Amsterdam;
+- – mevrouw drs. C.E. van Rappard-Boon, te Amsterdam;
 
-- –. de heer mr. drs. G.J. Wolffensperger, te Amsterdam.
+- – de heer mr. drs. G.J. Wolffensperger, te Amsterdam.
 
 ##### Artikel 8
 
@@ -103,5 +79,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Raad van advies programma Erfgoed van de Oorlog.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

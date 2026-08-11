@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 12 april 2007, nr. MLB/JZ/2007/10.574, houdende nadere regels ter uitvoering van de Wet op de vaste boekenprijs en het Besluit vaste boekenprijs (Regeling vaste boekenprijs)"
+citeertitel: "Regeling vaste boekenprijs"
 identifier: "BWBR0021698"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-04-16"
-last_updated: "2007-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021698"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "9042293"
-version_id: "14409602"
-internal_id: "C19599771"
-label_id: "9021314"
-dtd_version: "2.0"
-original_entry_into_force: "2007-04-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021698/2007-04-16/0"
-intitule_bron: "Stcrt.2007-72"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-04-12"
-intitule_published: "2007-04-13"
-intitule_in_force: "2007-04-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-72"
-original_signed_date: "2007-04-12"
-original_published_date: "2007-04-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-72-p13-SC80148"
-entry_into_force_date: "2007-04-16"
-jci_1_3: "jci1.3:c:BWBR0021698&z=2007-04-16&g=2007-04-16"
-jci_1_0: "1.0:c:BWBR0021698&g=2007-04-16"
-citeertitel_status: "officieel"
-short_title: "Regeling vaste boekenprijs"
-signed_date: "2007-04-12"
-entry_into_force: "2007-04-16"
+publicatiedatum: 2007-04-16
+laatste_update: 2007-04-16
+status: geldig
+toestand: 2007-04-16
+bron: "https://wetten.overheid.nl/BWBR0021698"
+opgehaald: 2026-08-11
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 12 april 2007, nr. MLB/JZ/2007/10.574, houdende nadere regels ter uitvoering van de Wet op de vaste boekenprijs en het Besluit vaste boekenprijs (Regeling vaste boekenprijs)
-
-Gelet op de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=4), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=5), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=7), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=11) en [14 van de Wet op de vaste boekenprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=14) en de [artikelen 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&artikel=1), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&artikel=13), en [14, vierde lid, van het Besluit vaste boekenprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&artikel=14);
-
-Besluit:
 
 ##### Artikel 1. Mededeling van prijzen
 
@@ -89,5 +63,3 @@ Deze regeling treedt in werking met ingang van 16 april 2007.
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vaste boekenprijs.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

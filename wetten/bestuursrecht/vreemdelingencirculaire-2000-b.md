@@ -4,11 +4,11 @@ identifier: "BWBR0012289"
 categorie: "Overig"
 soort: "circulaire"
 publicatiedatum: 2019-03-14
-laatste_update: 2026-07-10
+laatste_update: 2026-08-07
 status: geldig
-toestand: 2026-07-10
+toestand: 2026-08-07
 bron: "https://wetten.overheid.nl/BWBR0012289"
-opgehaald: 2026-08-01
+opgehaald: 2026-08-11
 ---
 
 # Vreemdelingencirculaire 2000 (B)
@@ -670,11 +670,11 @@ De IND past de hardheidsclausule als bedoeld in [artikel 3.71, derde lid, Vb](ht
 
 - • het biologische of juridische minderjarige kind is van de referent, dat feitelijk behoort en al in het land van herkomst feitelijk behoorde tot het gezin van die referent en dat onder het rechtmatige gezag van de referent staat;
 
-- • de biologische of juridische ouder is van een hier te lande verblijvend minderjarig kind dat Nederlander is dan wel rechtmatig verblijf heeft als bedoeld in [artikel 8, onder a tot en met e, dan wel l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
+- • de biologische of juridische ouder is van een hier te lande verblijvend minderjarig kind dat Nederlander is dan wel rechtmatig verblijf heeft als bedoeld in[artikel 8, onder a tot en met e, dan wel l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
 
 - • de biologische of juridische ouder is van een minderjarig kind voor wie een aanvraag tot het verlenen van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘verblijf als familie- of gezinslid’ is ingediend; of
 
-- • aannemelijk heeft gemaakt dat van hem niet verwacht kan worden dat hij naar het land van herkomst of bestendig verblijf reist vanwege een ernstige ziekte of handicap van de referent. Bij de beoordeling hiervan wordt de vreemdeling in ieder geval gevraagd nader toe te lichten:
+- • aannemelijk heeft gemaakt dat van hem niet verwacht kan worden dat hij naar het land van herkomst of bestendig verblijf reist vanwege een ernstige ziekte of handicap van de referent. Het moet gaan om een ziekte of handicap die nog niet bekend was toen het huwelijk of de relatie werd aangegaan. Bij de beoordeling hiervan wordt de vreemdeling in ieder geval gevraagd nader toe te lichten:
 
    - – waarom van hem niet verwacht kan worden dat hij vanwege een ernstige ziekte of handicap van de referent reist naar het land van herkomst of bestendig verblijf;
 
@@ -1056,7 +1056,7 @@ Bovengenoemde omstandigheden zijn niet limitatief.
 
 ### 4.5. Medisch onderzoek
 
-Op grond van [artikel 16, eerste lid, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) wijst de IND de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd af of verleent de IND niet ambtshalve een verblijfsvergunning als de vreemdeling:
+Op grond van [artikel 16, eerste lid, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) wijst de IND de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd af of verleent de IND niet ambtshalve een verblijfsvergunning als de vreemdeling van 12 jaar of ouder:
 
 - • niet bereid is een tbc-onderzoek te ondergaan; of
 
@@ -1064,15 +1064,15 @@ Op grond van [artikel 16, eerste lid, aanhef en onder e, Vw](https://wetten.over
 
 De IND werpt het bovenstaande niet tegen bij de beoordeling van de voortzetting van het rechtmatig verblijf.
 
-Als de vreemdeling bij de indiening van de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd geen ‘intentieverklaring tbc-onderzoek’ ondertekent, geeft de IND hem een termijn van twee weken om dat alsnog te doen. De IND wijst de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd af als de vreemdeling de intentieverklaring niet binnen de hiervoor gegeven termijn ondertekent. Als sprake is van een erkende referent neemt de IND genoegen met een eigen verklaring van de referent waarin deze verklaard dat de vreemdeling bereid is een tbc-onderzoek te ondergaan.
+Als de vreemdeling van 12 jaar of ouder bij de indiening van de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd geen ‘intentieverklaring tbc-onderzoek’ ondertekent, geeft de IND hem een termijn van twee weken om dat alsnog te doen. De IND wijst de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd af als de vreemdeling van 12 jaar of ouder de intentieverklaring niet binnen de hiervoor gegeven termijn ondertekent. Als sprake is van een erkende referent neemt de IND genoegen met een eigen verklaring van de referent waarin deze verklaard dat de vreemdeling van 12 jaar of ouder bereid is een tbc-onderzoek te ondergaan.
 
-Als de vreemdeling aan de overige voorwaarden voor toelating voldoet, verleent de IND de verblijfsvergunning regulier voor bepaalde tijd onder de voorwaarde dat de vreemdeling daadwerkelijk binnen drie maanden na afgifte van het verblijfsdocument een tbc-onderzoek bij de GG&GD ondergaat.
+Als de vreemdeling van 12 jaar of ouder aan de overige voorwaarden voor toelating voldoet, verleent de IND de verblijfsvergunning regulier voor bepaalde tijd onder de voorwaarde dat de vreemdeling daadwerkelijk binnen drie maanden na afgifte van het verblijfsdocument een tbc-onderzoek bij de GG&GD ondergaat.
 
-In de volgende gevallen trekt de IND de verblijfsvergunning regulier voor bepaalde tijd in:
+De IND trekt de verblijfsvergunning regulier voor bepaalde tijd in als de vreemdeling van 12 jaar of ouder:
 
-- • de vreemdeling is niet bereid een tbc-onderzoek te ondergaan; of
+- • niet bereid is een tbc-onderzoek te ondergaan; of
 
-- • de vreemdeling werkt niet mee aan de behandeling van de tbc.
+- • niet meewerkt aan de behandeling van de tbc.
 
 ### 4.6. Niet voldoen aan de beperking
 
@@ -1340,7 +1340,7 @@ De IND neemt aan dat geen sprake is van verplaatsing van het hoofdverblijf buite
 
 - a. een verblijfsvergunning regulier voor bepaalde tijd heeft in het kader van studie aan het hoger onderwijs en in het kader van de voltooiing van zijn studie in Nederland tijdelijk hoger onderwijs in het buitenland gaat volgen. Tijdelijkheid wordt niet aangenomen als de periode van het volgen van hoger onderwijs in het buitenland langer is dan een jaar aaneengesloten;
 
-- b. een verblijfsvergunning regulier voor bepaalde tijd heeft in het kader van studie aan het hoger onderwijs en bij de IND is gemeld dat er sprake is van mobiliteit binnen de Europese Unie waarbij de vreemdeling ten hoogste 360 dagen per lidstaat een deel van de studie in één of meerdere tweede lidstaten volgt in het kader van de voltooiing van zijn studie in Nederland;
+- b. een verblijfsvergunning regulier voor bepaalde tijd heeft in het kader van studie aan het hoger onderwijs en bij de IND is gemeld dat er sprake is van mobiliteit binnen de Europese Unie waarbij de vreemdeling ten hoogste 360 dagen per lidstaat een deel van de studie in één of meerdere tweede lidstaten volgt in het kader van de voltooiing van zijn studie in Nederland;
 
 - c. een verblijfsvergunning regulier voor bepaalde tijd heeft voor het verrichten van arbeid die geheel of gedeeltelijk buiten Nederland plaatsvindt;
 
@@ -1360,7 +1360,13 @@ De IND neemt aan dat geen sprake is van verplaatsing van het hoofdverblijf buite
 
 - k. een verblijfsvergunning voor bepaalde tijd onder de beperking ‘overplaatsing binnen een onderneming’ heeft en op basis van die vergunning voor korte- of lange-termijnmobiliteit verblijft in een andere lidstaat van de Europese Unie; of
 
-- l. een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘verblijf als familie- of gezinslid’ heeft en bij de IND is gemeld dat er sprake is van mobiliteit binnen de Europese Unie waarbij de vreemdeling als gezinslid de onder h. genoemde onderzoeker vergezelt wanneer deze een deel van het onderzoek in één of meerdere tweede lidstaten uit gaat voeren, of de onder j. genoemde werknemer vergezelt wanneer deze voor lange-termijnmobiliteit verblijft in een andere lidstaat van de Europese Unie.
+- l. een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘verblijf als familie- of gezinslid’ heeft en:
+
+   - • deze vreemdeling als gezinslid de onder h genoemde onderzoeker vergezelt wanneer deze niet langer dan acht maanden arbeid buiten Nederland verricht en aan de voorwaarden van de verblijfsvergunning blijft voldoen; of
+
+   - • bij de IND is gemeld dat er sprake is van mobiliteit binnen de Europese Unie en deze vreemdeling als gezinslid de onder i genoemde onderzoeker vergezelt die een deel van het onderzoek in één of meerdere tweede lidstaten uit gaat voeren en aan de voorwaarden van de verblijfsvergunning blijft voldoen; of
+
+   - • de onder j genoemde werknemer vergezelt wanneer deze voor lange-termijnmobiliteit verblijft in een andere lidstaat van de Europese Unie en aan de voorwaarden van de verblijfsvergunning blijft voldoen.
 
 - m. een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘verblijf als familie- of gezinslid’ heeft waarbij de vreemdeling als gezinslid de onder g. genoemde kennismigrant vergezelt wanneer deze niet langer dan acht maanden arbeid buiten Nederland verricht en aan de voorwaarden van de verblijfsvergunning blijft voldoen.
 
@@ -1752,11 +1758,11 @@ Voor zover relevant beschouwt de IND ten aanzien van het arbeidsverleden als bew
 
 - • kopieën van arbeids- of uitzendovereenkomsten van het jaar dan wel de drie jaren (in geval van toetsing aan respectievelijk [artikel 3.24b VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.24b) dan wel [artikel 3.75, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.75)) voorafgaand aan de datum van indiening van de aanvraag;
 
-- • kopieën van jaaropgaven over het jaar dan wel de drie jaren (in geval van toetsing aan respectievelijk artikel 3.24b VV dan wel artikel 3.75, derde lid, Vb) voorafgaand aan de datum van indiening van de aanvraag; en
+- • kopieën van jaaropgaven over het jaar dan wel de drie jaren (in geval van toetsing aan respectievelijk [artikel 3.24b VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.24b) dan wel [artikel 3.75, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.75)) voorafgaand aan de datum van indiening van de aanvraag; en
 
 - • (voor zover van toepassing) uitkeringsbeschikkingen en specificaties over de drie jaren voorafgaand aan de datum van indiening van de aanvraag.
 
-De IND beschouwt als bewijsmiddel, waaruit moet blijken dat de middelen van bestaan als bedoeld in artikel 3.24b VV nog zes maanden beschikbaar zijn, een verklaring van de werkgever (bijvoorbeeld het uitzendbureau).
+De IND beschouwt als bewijsmiddel, waaruit moet blijken dat de middelen van bestaan als bedoeld in [artikel 3.24b VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.24b) nog zes maanden beschikbaar zijn, een verklaring van de werkgever (bijvoorbeeld het uitzendbureau).
 
 Inkomsten uit arbeid als zelfstandige
 
@@ -1766,11 +1772,11 @@ De IND beschouwt als bewijsmiddel, waaruit moet blijken dat de vreemdeling zelfs
 
 - • een verklaring inkomen ondernemer, volledig ingevuld door:
 
-   - − een registeraccountant, een Accountant Administratieconsulent, een Federatie Belastingadviseur, een College Belastingadviseur of een administrateur met een beconnummer van de Belastingdienst;
+   - – een registeraccountant, een Accountant Administratieconsulent, een Federatie Belastingadviseur, een College Belastingadviseur of een administrateur met een beconnummer van de Belastingdienst;
 
-   - − ondertekend door zowel de administrateur als door de ondernemer zelf; en
+   - – ondertekend door zowel de administrateur als door de ondernemer zelf; en
 
-   - − voorzien van de bijbehorende bijlagen.
+   - – voorzien van de bijbehorende bijlagen.
 
 De IND beschouwt als aanvullend bewijsmiddel, waaruit moet blijken dat de vreemdeling zelfstandig en duurzaam beschikt over voldoende middelen van bestaan uit arbeid als zelfstandige:
 
@@ -1820,7 +1826,7 @@ Als de vreemdeling niet in het bezit is van een geldig paspoort en heeft aangeto
 
 Tbc-onderzoek
 
-De IND beschouwt een ingevulde en ondertekende ‘intentieverklaring tbc-onderzoek’ als bewijsmiddel, waaruit moet blijken dat de vreemdeling zich bereid verklaart een medisch onderzoek en eventuele behandeling van tbc te ondergaan.
+De IND beschouwt een ingevulde en ondertekende ‘intentieverklaring tbc-onderzoek’ als bewijsmiddel, waaruit moet blijken dat de vreemdeling van 12 jaar of ouder zich bereid verklaart een medisch onderzoek en eventuele behandeling van tbc te ondergaan.
 
 Openbare orde
 
@@ -1856,9 +1862,9 @@ De IND beschouwt conform de [Wet inburgering](https://wetten.overheid.nl/jci1.3:
 
 - • het getuigschrift International Baccalaureate Middle Years certificate, International General Certificate of Secondary Education of Internationaal Baccalaureaat, als daartoe een cursus Engels-Nederlandstalig onderwijs of een cursus Internationaal baccalaureaat met daarin het vak Nederlands is gevolgd en voor dat vak een voldoende is behaald;
 
-- • het inburgeringsdiploma van de Wet inburgering;
+- • het inburgeringsdiploma van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611);
 
-- • het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) zoals die wet luidde voor de inwerkingtreding van de [wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031) (Stb. 2012, 430);
+- • het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) zoals die wet luidde voor de inwerkingtreding van de [wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031) (Stb. 2012, 430);
 
 - • een certificaat Inburgering in het kader van de [Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544) en bijbehorende verklaring van het ROC waaruit blijkt dat voor de onderdelen ‘luisteren’, ‘spreken’, ‘lezen’ en ‘schrijven’ ten minste NT2 niveau 2 is behaald en voor het onderdeel Maatschappij Oriëntatie 80% als die toets is afgelegd na 31 augustus 2001 respectievelijk 85% als de toets voor 1 september 2001 is afgelegd;
 
@@ -1870,7 +1876,7 @@ De IND beschouwt conform de [Wet inburgering](https://wetten.overheid.nl/jci1.3:
 
 De IND beschouwt als bewijsmiddel dat de mondelinge en schriftelijke vaardigheden van het basisexamen niet behoeven te worden behaald, het certificaat, bedoeld in [artikel 13, tweede lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=13), alsmede de verklaring van het regionaal opleidingencentrum op grond waarvan dat certificaat is afgegeven, indien uit die verklaring blijkt dat voor het onderdeel Nederlands als tweede taal ten minste niveau 2 van de eindtermen Referentiekader Nederlands als Tweede Taal is behaald.
 
-De IND beschouwt als bewijsmiddel dat de kennis van de Nederlandse samenleving van het basisexamen niet behoeft te worden behaald, het certificaat, bedoeld in artikel 13, tweede lid, van de Wet inburgering nieuwkomers, alsmede de verklaring van het regionaal opleidingencentrum op grond waarvan dat certificaat is afgegeven, indien uit die verklaring blijkt dat voor het onderdeel Maatschappij Oriëntatie is behaald het niveau van [artikel 11, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=11), of een score van de MO-Profieltoets van ten minste: 85%, indien die toets is afgelegd voor 1 september 2001, respectievelijk 80%, indien die toets is afgelegd na 31 augustus 2001.
+De IND beschouwt als bewijsmiddel dat de kennis van de Nederlandse samenleving van het basisexamen niet behoeft te worden behaald, het certificaat, bedoeld in [artikel 13, tweede lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=13), alsmede de verklaring van het regionaal opleidingencentrum op grond waarvan dat certificaat is afgegeven, indien uit die verklaring blijkt dat voor het onderdeel Maatschappij Oriëntatie is behaald het niveau van [artikel 11, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=11), of een score van de MO-Profieltoets van ten minste: 85%, indien die toets is afgelegd voor 1 september 2001, respectievelijk 80%, indien die toets is afgelegd na 31 augustus 2001.
 
 De IND beschouwt als bewijsmiddel voor het vereiste dat voor het vak Nederlands een voldoende is behaald, een door de onderwijsinstelling gewaarmerkte cijferlijst, waaruit blijkt dat voor Nederlands een voldoende is behaald.
 
@@ -1884,9 +1890,7 @@ De IND beschouwt als bewijsmiddel ter onderbouwing van het beroep op bijzondere 
 
 - • bescheiden waaruit blijkt dat de vreemdeling inspanningen heeft geleverd die in redelijkheid kunnen worden gevergd om het basisexamen inburgering met goed gevolg af te leggen. Dit kan onder meer blijken uit het één of meermalen afleggen van het basisexamen inburgering, waarbij een positief resultaat is behaald voor het onderdeel Spreekvaardigheid en de toets Kennis van de Nederlandse Samenleving, maar geen positief resultaat is behaald voor het onderdeel Leesvaardigheid. Een afschrift van deze resultaten voegt de vreemdeling bij de mvv-aanvraag;
 
-- • bescheiden waaruit blijkt dat sprake is van bijzondere individuele omstandigheden aan de hand waarvan de Minister van Sociale Zaken en Werkgelegenheid oordeelt of de vreemdeling bij handhaving van de verplichting om het basisexamen inburgering met goed gevolg af te leggen, onmogelijk of uiterst moeilijk zijn recht op gezinshereniging kan uitoefenen; en
-
-een kopie van het vragenformulier dat is ingevuld en ondertekend door een door het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging aangewezen arts, in het geval van medische omstandigheden ([bijlage 19 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=19)).
+- • bescheiden waaruit blijkt dat sprake is van bijzondere individuele omstandigheden aan de hand waarvan de Minister van Sociale Zaken en Werkgelegenheid oordeelt of de vreemdeling bij handhaving van de verplichting om het basisexamen inburgering met goed gevolg af te leggen, onmogelijk of uiterst moeilijk zijn recht op gezinshereniging kan uitoefenen; en een kopie van het vragenformulier dat is ingevuld en ondertekend door een door het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging aangewezen arts, in het geval van medische omstandigheden ([bijlage 19 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=19)).
 
 ### 8.3.5. Bewijsmiddelen aanvraag verlenging verblijfsvergunning
 
@@ -2314,13 +2318,13 @@ Een aanvraag kan worden ingediend bij een IND-loket in Nederland.
 
 De IND wijst de aanvraag van een vreemdeling die in het kader van de internationale overeenkomsten (MoU) WHS/WHP Australië, Canada of Nieuw-Zeeland in Nederland willen verblijven af als de vreemdeling:
 
-- – jonger dan 18 jaar is of ouder dan 30 jaar op het moment van indiening van de aanvraag;
+- • jonger dan 18 jaar is of ouder dan 30 jaar op het moment van indiening van de aanvraag;
 
-- – geen retourticket heeft dan wel niet de middelen van bestaan heeft voor de aanschaf van een retourticket;
+- • geen retourticket heeft dan wel niet de middelen van bestaan heeft voor de aanschaf van een retourticket;
 
-- – eerder in Nederland in het kader van uitwisseling heeft verbleven;
+- • eerder in Nederland een verblijfsvergunning heeft gehad;
 
-- – ten laste komt van de algemene middelen.
+- • ten laste komt van de algemene middelen.
 
 ### 2.1.2. WHP Argentinië, Hongkong, Zuid-Korea, Japan, Taiwan en Uruguay
 
@@ -2330,7 +2334,7 @@ Per 1 januari 2019 heeft Nederland met Hongkong een MoU betreffende een WHP afg
 
 WHP Zuid-Korea
 
-Per 1 oktober 2018 heeft Nederland met Zuid-Korea een MoU betreffende een WHP afgesloten. Met ingang van 1 januari 2024 is het maximum aantal WHP-verblijfsvergunningen dat jaarlijks wordt verstrekt verhoogd naar 200. Een aanvraag kan worden ingediend bij een IND-loket in Nederland. De IND stelt als voorwaarde voor het in behandeling nemen van de aanvraag dat deze vergezeld gaat van een geldig bewijs van pré-registratie voor deelname aan het WHP, welke is voorzien van een volgnummer, en is verstrekt door de IND. De uitwisselingsjongere moet binnen 90 dagen na afgifte van de pré-registratie bij de IND in Nederland een aanvraag om een WHP-verblijfsvergunning hebben ingediend.
+Per 1 oktober 2018 heeft Nederland met Zuid-Korea een MoU betreffende een WHP afgesloten. Met ingang van 1 januari 2024 is het maximum aantal WHP-verblijfsvergunningen dat jaarlijks wordt verstrekt verhoogd naar 200. Een aanvraag kan worden ingediend bij een IND-loket in Nederland.
 
 WHP Argentinië
 
@@ -2338,7 +2342,7 @@ Per 1 juli 2017 heeft Nederland met Argentinië een MoU betreffende een WHP afg
 
 WHP Japan
 
-Per 1 april 2020 heeft Nederland met Japan een Note Verbale uitgewisseld betreffende een WHP. Jaarlijks wordt een maximum van 200 WHP-verblijfsvergunningen verstrekt door de IND. Een aanvraag kan worden ingediend bij een IND-loket in Nederland. De IND stelt als voorwaarde voor het in behandeling nemen van de aanvraag dat deze vergezeld gaat van een geldig bewijs van pré-registratie voor deelname aan het WHP, welke is voorzien van een volgnummer, en wordt per 1 januari 2025 verstrekt door de IND. De uitwisselingsjongere moet binnen 90 dagen na afgifte van de pré-registratie bij de IND in Nederland een aanvraag om een WHP-verblijfsvergunning hebben ingediend.
+Per 1 april 2020 heeft Nederland met Japan een Note Verbale uitgewisseld betreffende een WHP. Jaarlijks wordt een maximum van 200 WHP-verblijfsvergunningen verstrekt door de IND. Een aanvraag kan worden ingediend bij een IND-loket in Nederland.
 
 WHP Taiwan
 
@@ -2350,15 +2354,15 @@ Per 1 april 2020 heeft Nederland met Uruguay een MoU betreffende een WHP afgesl
 
 De IND wijst de aanvraag van een vreemdeling die in het kader van de internationale overeenkomsten (MoU of Note Verbale) WHP Argentinië, Hongkong, Zuid-Korea, Japan, Taiwan of Uruguay af als de vreemdeling:
 
-- – jonger dan 18 jaar is of ouder dan 30 jaar op het moment van indiening van de aanvraag;
+- • jonger dan 18 jaar is of ouder dan 30 jaar op het moment van indiening van de aanvraag;
 
-- – geen retourticket heeft dan wel niet de financiële middelen heeft voor de aanschaf van een retourticket;
+- • geen retourticket heeft dan wel niet de financiële middelen heeft voor de aanschaf van een retourticket;
 
-- – eerder in Nederland in het kader van uitwisseling heeft verbleven;
+- • eerder in Nederland een verblijfsvergunning heeft gehad;
 
-- – ten laste komt van de algemene middelen;
+- • ten laste komt van de algemene middelen;
 
-- – het quotum voor het aantal inwilligingen van het WHP Zuid-Korea, Hongkong, Japan, Taiwan, Uruguay dan wel Argentinië is bereikt.
+- • het quotum voor het aantal inwilligingen van het WHP Zuid-Korea, Hongkong, Japan, Taiwan, Uruguay dan wel Argentinië is bereikt.
 
 ### 2.2. Au pairs
 
@@ -2366,7 +2370,9 @@ Het au-pairbureau moet erkend zijn door de IND. De aanvraag voor een verblijfsve
 
 Aard van het verblijf en de werkzaamheden
 
-De au pair woont bij een gastgezin, bestaande uit minimaal twee personen. De au pair heeft niet eerder voor het gastgezin werkzaamheden verricht. Voorts mag er geen sprake zijn van een familierechtelijke relatie tot en met de derde graad met het gastgezin. In ruil voor kost en inwoning mag de au pair maximaal acht uren per dag en maximaal 30 uren per week licht ondersteunende huishoudelijke werkzaamheden verrichten. Een au pair heeft minimaal twee dagen per week vrij. De taken met betrekking tot het verrichten van licht huishoudelijk werk worden opgenomen in een dagindeling (voor alle zeven dagen van de week) met het gastgezin. De dagindeling wordt door zowel het gastgezin als de au pair ondertekend.
+De au pair woont bij een gastgezin, bestaande uit minimaal twee personen. De au pair heeft niet eerder voor het gastgezin werkzaamheden verricht. Voorts mag er geen sprake zijn van een familierechtelijke relatie tot en met de derde graad met het gastgezin. In ruil voor kost en inwoning mag de au pair maximaal acht uren per dag en maximaal 30 uren per week licht ondersteunende huishoudelijke werkzaamheden verrichten. Een au pair heeft minimaal twee dagen per week vrij.
+
+De taken met betrekking tot het verrichten van licht huishoudelijk werk worden opgenomen in een dagindeling (voor alle zeven dagen van de week) met het gastgezin. De dagindeling wordt door zowel het gastgezin als de au pair ondertekend.
 
 De IND wijst de aanvraag voor verblijfsvergunning met als doel ‘au pair’ af als de vreemdeling:
 
@@ -2374,7 +2380,7 @@ De IND wijst de aanvraag voor verblijfsvergunning met als doel ‘au pair’ af 
 
 - b) gehuwd is en (pleeg)kinderen heeft;
 
-- c) eerder in Nederland een verblijfsvergunning heeft gehad voor uitwisseling;
+- c) eerder in Nederland een verblijfsvergunning heeft gehad;
 
 - d) een borg aan een (Nederlands of buitenlands) bemiddelingsbureau of uitwisselingsorganisatie ter beschikking heeft gesteld;
 
@@ -2396,19 +2402,19 @@ Ad f
 
 De IND betrekt bij de bepaling van de hoogte van het betaalde geldbedrag in ieder geval de volgende kosten:
 
-- – de kosten die de vreemdeling betaald heeft aan een (Nederlands of buitenlands) bemiddelingsbureau voor inschrijving en bemiddeling;
+- • de kosten die de vreemdeling betaald heeft aan een (Nederlands of buitenlands) bemiddelingsbureau voor inschrijving en bemiddeling;
 
-- – de kosten voor het volgen van een (door de eigen overheid voorgeschreven) cursus ter voorbereiding op het verblijf in Nederland.
+- • de kosten voor het volgen van een (door de eigen overheid voorgeschreven) cursus ter voorbereiding op het verblijf in Nederland.
 
 Bij de bepaling van de hoogte van het betaalde geldbedrag, laat de IND de volgende kosten buiten beschouwing:
 
-- – kosten voor de reis naar Nederland en de terugreis naar het land herkomst of bestendig verblijf;
+- • kosten voor de reis naar Nederland en de terugreis naar het land herkomst of bestendig verblijf;
 
-- – kosten voor het visum, inclusief de direct hiermee verband houdende reis- en verblijfskosten;
+- • kosten voor het visum, inclusief de direct hiermee verband houdende reis- en verblijfskosten;
 
-- – kosten voor het aanvragen, vertalen en legaliseren van de geboorteakte;
+- • kosten voor het aanvragen, vertalen en legaliseren van de geboorteakte;
 
-- – kosten voor het reisdocument.
+- • kosten voor het reisdocument.
 
 Overgangsrecht verlaging maximale leeftijd, ongehuwd zijn en geen (pleeg)kinderen hebben
 
@@ -2422,19 +2428,19 @@ Een uitwisselingsjongere die via een particuliere uitwisselingsorganisatie deeln
 
 Aard van het verblijf en de werkzaamheden
 
-De uitwisselingsjongere maakt kennis met de Nederlandse cultuur en samenleving via het verblijf in het gastgezin, via activiteiten van de organisatie en via het volgen van onderwijs. De uitwisselingsjongere heeft niet eerder voor het gastgezin (bestaande uit minimaal 2 personen) werkzaamheden verricht.
+De uitwisselingsjongere maakt kennis met de Nederlandse cultuur en samenleving via het verblijf in het gastgezin, via activiteiten van de organisatie en via het volgen van onderwijs. De uitwisselingsjongere heeft niet eerder voor het gastgezin (bestaande uit minimaal twee personen) werkzaamheden verricht.
 
 Eventueel te verrichten vrijwilligerswerk is uitsluitend toegestaan indien hiervoor een TWV is verleend. Als een jongere met de Canadese, Australische of Nieuw-Zeelandse nationaliteit ook voldoet aan alle in [2.1.1](https://wetten.overheid.nl/BWBR0012289). genoemde voorwaarden dan prevaleert de voor de jongere meest gunstige regeling.
 
 De IND wijst de aanvraag voor verblijfsvergunning met als doel uitwisseling af als de vreemdeling:
 
-- − jonger is dan 18 of ouder dan 30 jaar op het moment van indiening van de aanvraag, tenzij de jongere tussen de 15 en 18 jaar is en deze mogelijkheid is opgenomen in het culturele uitwisselingsprogramma;
+- • jonger is dan 18 of ouder dan 30 jaar op het moment van indiening van de aanvraag, tenzij de jongere tussen de 15 en 18 jaar is en deze mogelijkheid is opgenomen in het culturele uitwisselingsprogramma;
 
-- − eerder in Nederland een verblijfsvergunning heeft gehad voor uitwisseling;
+- • eerder in Nederland een verblijfsvergunning heeft gehad;
 
-- − een borg aan een (Nederlands of buitenlands) bemiddelingsbureau of uitwisselingsorganisatie ter beschikking heeft gesteld;
+- • een borg aan een (Nederlands of buitenlands) bemiddelingsbureau of uitwisselingsorganisatie ter beschikking heeft gesteld;
 
-- − een contract met een gastgezin of (Nederlands of buitenlands) bemiddelingsbureau of uitwisselingsorganisatie heeft ondertekend waarmee de aanvrager zich verplicht tot het betalen van geld of een geldboete als sanctie wegens het niet nakomen van een of meerdere bepalingen van dit contract.
+- • een contract met een gastgezin of (Nederlands of buitenlands) bemiddelingsbureau of uitwisselingsorganisatie heeft ondertekend waarmee de aanvrager zich verplicht tot het betalen van geld of een geldboete als sanctie wegens het niet nakomen van een of meerdere bepalingen van dit contract.
 
 ### 2.4. Europees Vrijwilligerswerk
 
@@ -3576,11 +3582,13 @@ De vereisten zoals opgenomen in de [artikelen 3.73 tot en met 3.75 Vb](https://w
 
 Verlaagd looncriterium
 
-De IND past het verlaagde looncriterium als bedoeld in [artikel 2.1, eerste lid, onder a, sub 2, BuWav](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.1) toe als:
+De IND past het verlaagde looncriterium als bedoeld in [artikel 2.1, eerste lid, onder a, sub 2, BuWav](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.1) toe in de volgende drie situaties:
 
-- – de vreemdeling voldoet aan de voorwaarden van het zoekjaar hoogopgeleiden zoals opgenomen in [artikel 3.42, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.42); en
+- • De kennismigrant heeft een verblijfsvergunning voor het zoekjaar hoogopgeleiden in de zin van [artikel 3.42, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.42) en de opvolgende vergunning als kennismigrant wordt tijdens of direct na dit zoekjaar aangevraagd;
 
-- – de in [artikel 3.42, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.42) genoemde periode van drie jaar niet is verstreken.
+- • De kennismigrant had in het verleden een verblijfsvergunning voor het zoekjaar hoogopgeleiden in de zin van [artikel 3.42, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.42) en de verblijfsvergunning als kennismigrant wordt aangevraagd binnen drie jaar na de afstudeerdatum of promotiedatum of binnen drie jaar na de datum waarop de verblijfsvergunning voor wetenschappelijk onderzoek is verlopen; of
+
+- • De kennismigrant heeft geen verblijfsvergunning voor het zoekjaar hoogopgeleiden in de zin van [artikel 3.42, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.42) gehad maar voldoet wel aan alle voorwaarden voor het zoekjaar hoogopgeleiden in de zin van artikel 3.42, eerste lid, Vb. De verblijfsvergunning als kennismigrant dient binnen drie jaar na de afstudeerdatum of promotiedatum te worden aangevraagd, of binnen drie jaar na de datum waarop – indien van toepassing – de verblijfsvergunning voor wetenschappelijk onderzoek is verlopen.
 
 Loon niet marktconform
 
@@ -3612,9 +3620,9 @@ De IND verleent de vreemdeling gedurende de geldigheidsduur van zijn verblijfsve
 
 De IND trekt de verblijfsvergunning regulier voor bepaalde tijd met als doel ‘arbeid als kennismigrant’ in:
 
-- – nadat de zoekperiode van drie maanden is verstreken; en
+- • nadat de zoekperiode van drie maanden is verstreken; en
 
-- – de vreemdeling geen nieuwe functie als kennismigrant heeft gevonden.
+- • de vreemdeling geen nieuwe functie als kennismigrant heeft gevonden.
 
 De IND trekt deze verblijfsvergunning in per datum einde zoekperiode.
 
@@ -4832,7 +4840,7 @@ De IND verleent de verblijfsvergunning regulier onder de beperking familie- of g
 
 - • de Staatssecretaris van Justitie en Veiligheid (die Rechtsbescherming in zijn portefeuille heeft) heeft ingestemd met de opneming van het buitenlandse adoptiekind in het gezin van de aspirant-adoptiefouders;
 
-- • er is een medische verklaring met betrekking tot het buitenlandse adoptiekind ([artikel 8, aanhef en onder b, Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=2)) overgelegd waaruit blijkt dat het kind niet lijdt aan een gevaarlijke besmettelijke of langdurige lichamelijke of geestelijke ziekte. Dit vereiste zal er niet toe leiden dat een gehandicapt kind nooit zou kunnen worden opgenomen. Als uit de medische verklaring blijkt dat het kind al op tbc is getest, hoeft het kind niet alsnog (hier te lande) een onderzoek naar tbc te ondergaan, voor zover dit onderzoek op grond van zijn nationaliteit vereist is;
+- • er is een medische verklaring met betrekking tot het buitenlandse adoptiekind [(artikel 8, aanhef en onder b, Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=2)) overgelegd waaruit blijkt dat het kind niet lijdt aan een gevaarlijke besmettelijke of langdurige lichamelijke of geestelijke ziekte. Dit vereiste zal er niet toe leiden dat een gehandicapt kind nooit zou kunnen worden opgenomen. Als uit de medische verklaring blijkt dat het kind al op tbc is getest, hoeft het kind niet alsnog (hier te lande) een onderzoek naar tbc te ondergaan, voor zover dit onderzoek op grond van zijn nationaliteit en zijn leeftijd vereist is
 
 - • de afstand door de biologische ouder(s) van het buitenlandse adoptiekind is naar behoren geregeld ([artikel 8, aanhef onder d, Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=8)); en
 
@@ -4904,11 +4912,11 @@ De IND neemt aan dat voor het kind geen aanvaardbare toekomst, als bedoeld in [a
 
 Onder naaste bloed- of aanverwanten wordt verstaan de ouders, grootouders, broers of zusters, van het buitenlandse pleegkind of de broers of zusters van de ouders van het buitenlandse pleegkind (ooms en tantes van het buitenlandse pleegkind).
 
-De IND neemt niet aan dat sprake is van een onaanvaardbare toekomst als bedoeld in artikel 3.28, eerste lid, aanhef en onder b, Vb als het kind verblijft bij zijn ouders in minder welvarende omstandigheden, voor zover die omstandigheden ter plaatse als normaal zijn te beschouwen.
+De IND neemt niet aan dat sprake is van een onaanvaardbare toekomst als bedoeld in [artikel 3.28, eerste lid, aanhef en onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.28) als het kind verblijft bij zijn ouders in minder welvarende omstandigheden, voor zover die omstandigheden ter plaatse als normaal zijn te beschouwen.
 
-De IND wijst de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd af als uit de medische verklaring met betrekking tot het buitenlandse pleegkind, genoemd in artikel 3.28, derde lid, Vb, blijkt dat het kind lijdt aan een gevaarlijke besmettelijke of langdurige lichamelijke of geestelijke ziekte.
+De IND wijst de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd af als uit de medische verklaring met betrekking tot het buitenlandse pleegkind, genoemd in [artikel 3.28, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.28), blijkt dat het kind lijdt aan een gevaarlijke besmettelijke of langdurige lichamelijke of geestelijke ziekte.
 
-Dit vereiste zal er echter niet toe leiden dat een gehandicapt kind nooit zou kunnen worden opgenomen. Als uit de medische verklaring blijkt dat het kind al op TBC is getest, hoeft het kind niet alsnog (hier te lande) een onderzoek naar TBC te ondergaan, voor zover dit onderzoek op grond van zijn nationaliteit vereist is.
+Dit vereiste zal er echter niet toe leiden dat een gehandicapt kind nooit zou kunnen worden opgenomen. Als uit de medische verklaring blijkt dat het kind al op tbc is getest, hoeft het kind niet alsnog (hier te lande) een onderzoek naar tbc te ondergaan, voor zover dit onderzoek op grond van zijn nationaliteit en leeftijd vereist is.
 
 ### 3.7.1.2. Aanvullende voorwaarden voor verlening van de verblijfsvergunning regulier voor bepaalde tijd
 
@@ -4938,23 +4946,33 @@ Alleen als het recht van het land van herkomst dit vereist, is zowel instemming 
 
 De IND neemt aan dat voor het kind geen aanvaardbare toekomst, als bedoeld in [artikel 3.28, eerste lid, aanhef en onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.28) is weggelegd in het land van herkomst, als het kind:
 
+- • is opgenomen in het gezin van de pleegouders, toen zij hun gewone verblijfplaats in het land van herkomst hadden;
+
 - • in het land van herkomst al feitelijk behoorde tot het gezin van de pleegouders en hier nog steeds toe behoort; en
 
-- • minimaal één jaar in het land van herkomst is verzorgd en opgevoed door de pleegouders omdat de eigen ouders overleden zijn of niet in staat waren om voor het kind te zorgen.
+- • op het moment van indiening van de aanvraag om een reguliere verblijfsvergunning voor bepaalde tijd onder de beperking “verblijf als familie- of gezinslid” minimaal één jaar in het land van herkomst is verzorgd en opgevoed door de pleegouders omdat de eigen ouders overleden zijn of niet in staat waren om voor het kind te zorgen.
 
 De IND neemt aan dat het kind feitelijk behoort en al in het buitenland behoorde tot het gezin van de pleegouders als tussen het kind en de pleegouders sprake is van gezinsleven in de zin van artikel 8 EVRM (zie [paragraaf B7/3.8.1](https://wetten.overheid.nl/BWBR0012289) Vc).
 
 De pleegouders hoeven geen bloed- of aanverwant te zijn van het kind.
 
+Overgangsrecht
+
+De voorwaarde “is opgenomen in het gezin van de pleegouders, toen zij hun gewone verblijfplaats hadden in het land van herkomst” geldt niet voor aanvragen om een reguliere verblijfsvergunning voor bepaalde tijd onder de beperking “verblijf als familie- of gezinslid” die zijn ingediend vóór 1 augustus 2026. Voor aanvragen om een reguliere verblijfsvergunning voor bepaalde tijd onder de beperking “verblijf als familie- of gezinslid” die zijn ingediend vóór 1 augustus 2026 geldt de voorwaarde dat het kind minimaal één jaar in het land van herkomst is verzorgd en opgevoed door de pleegouders omdat de eigen ouders overleden zijn of niet in staat waren om voor het kind te zorgen.
+
 ### 3.7.2.2. Aanvullende voorwaarden voor verlening van de verblijfsvergunning regulier voor bepaalde tijd
 
 In aanvulling op de in [artikel 3.28 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.28) opgenomen voorwaarden, verleent de IND uitsluitend een verblijfsvergunning regulier voor bepaalde tijd onder de beperking familie- of gezinslid, als ook wordt voldaan aan alle hierna genoemde voorwaarden:
 
-- • de pleegouders die het kind minimaal een jaar hebben verzorgd en opgevoed in het land van herkomst hebben in die periode de voogdij over het kind gekregen;
+- • de pleegouders die het kind op het moment van indiening van de aanvraag om een verblijfsvergunning minimaal één jaar hebben verzorgd en opgevoed in het land van herkomst hebben in die periode de voogdij over het kind gekregen;
 
 - • de voogdij van de aspirant-pleegouder(s) over het kind is geregeld door de bevoegde autoriteiten van het land van herkomst; en
 
 - • de autoriteiten van het land van herkomst stemmen in met het vertrek naar en het verblijf van het kind in het gezin van de pleegouders in Nederland.
+
+Overgangsrecht
+
+Voor aanvragen om een reguliere verblijfsvergunning voor bepaalde tijd onder de beperking “verblijf als familie- of gezinslid” die zijn ingediend vóór 1 augustus 2026 geldt de voorwaarde dat de pleegouders die het kind minimaal één jaar hebben verzorgd en opgevoed in het land van herkomst in die periode de voogdij over het kind hebben gekregen.
 
 ### 3.7.3. Meetellen gezinsinkomen
 

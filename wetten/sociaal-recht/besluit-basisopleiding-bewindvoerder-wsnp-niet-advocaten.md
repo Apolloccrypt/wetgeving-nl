@@ -1,55 +1,21 @@
 ---
 title: "Besluit basisopleiding bewindvoerder Wsnp niet-advocaten"
 identifier: "BWBR0022670"
-country: "nl"
-rank: "zbo"
-publication_date: "2007-11-01"
-last_updated: "2007-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022670"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "9243393"
-version_id: "14823202"
-internal_id: "C20167741"
-label_id: "9222004"
-dtd_version: "2.0"
-original_entry_into_force: "2007-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022670/2007-11-01/0"
-intitule_bron: "Stcrt.2007-203"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-10-01"
-intitule_published: "2007-10-19"
-intitule_in_force: "2007-10-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-203"
-original_signed_date: "2007-10-01"
-original_published_date: "2007-10-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-203-p18-SC82582"
-entry_into_force_date: "2007-11-01"
-jci_1_3: "jci1.3:c:BWBR0022670&z=2007-11-01&g=2007-11-01"
-jci_1_0: "1.0:c:BWBR0022670&g=2007-11-01"
-citeertitel_status: "redactioneel"
-signed_date: "2007-10-01"
-entry_into_force: "2007-11-01"
+publicatiedatum: 2007-11-01
+laatste_update: 2007-11-01
+status: geldig
+toestand: 2007-11-01
+bron: "https://wetten.overheid.nl/BWBR0022670"
+opgehaald: 2026-08-11
 ---
+
 # Besluit basisopleiding bewindvoerder Wsnp niet-advocaten
-
-Gezien:
-
-– [Artikel 48c](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48c) en [48d van de Wet justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48d) (Staatsblad 1998, nr. 447);
-
-– [Artikel 3, lid 1 van het Besluit subsidie bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0012226&artikel=3) (Staatsblad 2001, nr. 80 en Staatsblad 2004, nr. 200);
-
-– [Titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III) (Staatsblad 1998, nrs. 445 en 447);
-
-– [Art 1, lid 2 van het Reglement register bewindvoerder Wsnp](onbekend) van 1 oktober 2007.
-
-Stelt het navolgende beleid vast met betrekking tot de basisopleiding bewindvoerder Wsnp voor niet-advocaten.
 
 ##### Artikel 1
 
-De Raad kan opleidingen erkennen als basisopleiding bewindvoerder Wsnp. Met het succesvol afronden van zo’n opleidingstraject voldoet een kandidaat aan [art 1, lid 2 van het Reglement register bewindvoerders Wsnp](onbekend) van 1 oktober 2007.
+De Raad kan opleidingen erkennen als basisopleiding bewindvoerder Wsnp. Met het succesvol afronden van zo’n opleidingstraject voldoet een kandidaat aan [art 1, lid 2 van het Reglement register bewindvoerders Wsnp](https://wetten.overheid.nl/BWBR0022674) van 1 oktober 2007.
 
 ##### Artikel 2
 

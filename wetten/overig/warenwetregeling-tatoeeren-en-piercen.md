@@ -1,22 +1,20 @@
 ---
-title: "Warenwetregeling tatoeëren en piercen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2007, nr. VGP/PSL 2770998, houdende regels met betrekking tot het gebruik van tatoeage- en piercingmateriaal (Warenwetregeling tatoeëren en piercen)"
+citeertitel: "Warenwetregeling tatoeëren en piercen"
 identifier: "BWBR0021915"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
+categorie: "Gezondheidszorg"
+soort: "ministeriele-regeling"
+publicatiedatum: 2008-04-16
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0021915"
+opgehaald: 2026-08-11
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2007, nr. VGP/PSL 2770998, houdende regels met betrekking tot het gebruik van tatoeage- en piercingmateriaal (Warenwetregeling tatoeëren en piercen)
 
-Handelende in overeenstemming met de Minister van Economische Zaken;
-
-Gelet op de [artikelen 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), en [9, van het Warenwetbesluit tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=9) en [artikel 25, eerste en vierde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25);
-
-Besluit:
-
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +24,7 @@ In deze regeling wordt verstaan onder:
 
 - c. vergunning: vergunning als bedoeld in [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vergunning wordt door de ondernemer schriftelijk aangevraagd.
 
@@ -44,7 +42,7 @@ In deze regeling wordt verstaan onder:
 
 4. De aanvraag wordt ingediend bij de GGD van de gemeente waar de ruimte is gelegen waarvoor de vergunning wordt gevraagd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De vergunning heeft een geldigheidsduur van drie jaar.
 
@@ -64,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 5. Indien een vergunninghouder een verzoek tot wijziging van de vergunning indient, bedoeld in het vierde lid, wordt onderzocht of er gegronde redenen bestaan om aan te nemen dat de vergunninghouder voor de ruimte waarvoor de wijziging van de vergunning wordt gevraagd, niet zal voldoen aan de voorschriften gesteld bij of krachtens dit besluit, dan wel aan de voorschriften gesteld bij of krachtens [artikel 24 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24).
 
-6. Voor een onderzoek als bedoeld in het vijfde lid is een tarief verschuldigd als vermeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021915&artikel=5&z=2025-07-01&g=2025-07-01).
+6. Voor een onderzoek als bedoeld in het vijfde lid is een tarief verschuldigd als vermeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021915&artikel=5&z=2026-07-01&g=2026-07-01).
 
 7. Indien gevolg wordt gegeven aan een verzoek van een vergunninghouder als bedoeld in het vierde lid behoudt de vergunning de oorspronkelijke looptijd.
 
-#### Artikel 4
+##### Artikel 4
 
 De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bij waarin is opgenomen:
 
@@ -80,47 +78,51 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 - d. voor welke periode de vergunning geldig is.
 
-#### Artikel 5
+##### Artikel 4a
+
+In de vergunning worden de materialen vermeld, waarvoor de vergunning wordt verleend, alsmede de ruimte in het pand, waarvoor de vergunning is verleend.
+
+##### Artikel 5
 
 1. De retributie voor het in behandeling nemen van een aanvraag bedraagt:
 
-- a. € 561,57 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij geen gebruik wordt gemaakt van wegwerpartikelen;
+- a. € 581,79 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij geen gebruik wordt gemaakt van wegwerpartikelen;
 
-- b. € 491,38 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij gebruik wordt gemaakt van wegwerpartikelen;
+- b. € 509,06 voor een vergunning voor het gebruik van tatoeagemateriaal, waarbij gebruik wordt gemaakt van wegwerpartikelen;
 
-- c. € 280,80 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel, waarbij gebruik wordt gemaakt van wegwerpartikelen;
+- c. € 290,91 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel, waarbij gebruik wordt gemaakt van wegwerpartikelen;
 
-- d. € 561,57 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing, waarbij geen gebruik wordt gemaakt van wegwerpartikelen;
+- d. € 581,79 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing, waarbij geen gebruik wordt gemaakt van wegwerpartikelen;
 
-- e. € 491,38 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing, waarbij gebruik wordt gemaakt van wegwerpartikelen;
+- e. € 509,06 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing, waarbij gebruik wordt gemaakt van wegwerpartikelen;
 
-- f. € 701,98 indien:
+- f. € 727,25 indien:
 
-- –. de aanvraag betrekking heeft op twee of meer vormen van gebruik van tatoeage- of piercingmateriaal als bedoeld in de onderdelen a tot en met e, en
+   - – de aanvraag betrekking heeft op twee of meer vormen van gebruik van tatoeage- of piercingmateriaal als bedoeld in de onderdelen a tot en met e, en
 
-- –. die vormen van gebruik betrekking hebben op dezelfde ruimte;
+   - – die vormen van gebruik betrekking hebben op dezelfde ruimte;
 
-- g. € 561,57 voor een melding als bedoeld in [artikel 3 van de Warenwetregeling vrijstelling vergunningsplicht tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021914&artikel=3);
+- g. € 581,79 voor een melding als bedoeld in [artikel 3 van de Warenwetregeling vrijstelling vergunningsplicht tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021914&artikel=3);
 
-- h. € 210,61 voor een melding als bedoeld in [artikel 3 van de Warenwetregeling vrijstelling vergunningplicht tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021914&artikel=3), indien de medewerker van de gemeentelijke gezondheidsdienst waar de aanvraag voor vrijstelling is ingediend beslist heeft dat beoordeling van de veiligheid met verminderde inzet kan worden uitgevoerd. Een beslissing als bedoeld in de vorige zin wordt tenminste genomen indien:
+- h. € 218,19 voor een melding als bedoeld in [artikel 3 van de Warenwetregeling vrijstelling vergunningplicht tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021914&artikel=3), indien de medewerker van de gemeentelijke gezondheidsdienst waar de aanvraag voor vrijstelling is ingediend beslist heeft dat beoordeling van de veiligheid met verminderde inzet kan worden uitgevoerd. Een beslissing als bedoeld in de vorige zin wordt tenminste genomen indien:
 
-- –. de artiest(en), werkzaam zijn bij een vergunninghouder in Nederland en;
+   - – de artiest(en), werkzaam zijn bij een vergunninghouder in Nederland en;
 
-- –. er bij een eerder evenement van dezelfde organisator of op dezelfde locatie betreffende dezelfde verrichtingen geen tekortkomingen zijn geconstateerd.
+   - – er bij een eerder evenement van dezelfde organisator of op dezelfde locatie betreffende dezelfde verrichtingen geen tekortkomingen zijn geconstateerd.
 
-2. De retributie wordt vermeerderd met € 35,09 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt:
+2. De retributie wordt vermeerderd met € 36,36 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt:
 
 - a. aan de werkzaamheden die nodig zijn in verband met bij het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4) geconstateerde gebreken die aanleiding geven tot vervolgonderzoek, voordat tot het verlenen van de vergunning kan worden overgegaan; of
 
 - b. om te reizen, teneinde het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), en indien van toepassing het vervolgonderzoek bedoeld onder a, in te stellen.
 
-3. Indien het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 35,09 voor elk kwartier of gedeelte van een kwartier:
+3. Indien het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 36,36 voor elk kwartier of gedeelte van een kwartier:
 
 - a. dat de voortzetting duurt, en
 
 - b. voor de reistijd die nodig is om het onderzoek te kunnen voortzetten.
 
-4. De retributie wordt verminderd met een bedrag van € 140,40, indien:
+4. De retributie wordt verminderd met een bedrag van € 145,45, indien:
 
 - a. de aanvrager op het moment van aanvraag voor een andere ruimte dan waarop de aanvraag is gericht beschikt over een vergunning voor gelijksoortige activiteiten waarbij de activiteiten zijn beoordeeld ingevolge [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4);
 
@@ -128,7 +130,7 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 5. De aanvrager die in aanmerking komt voor een verlaagd tarief als bedoeld in het vierde lid, maakt in de aanvraag melding van de in dat lid bedoelde vergunning.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De ondernemer draagt er zorg voor dat in de ruimte waar tatoeage- of piercingmateriaal wordt gebruikt, schriftelijke informatie voorhanden is over het gebruik van het materiaal, betreffende:
 
@@ -142,22 +144,14 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 3. Indien de persoon ten aanzien van wie het tatoeage- of piercingmateriaal wordt gebruikt, wordt vergezeld van zijn wettige vertegenwoordiger, draagt de ondernemer er tevens zorg voor dat ook die persoon tijdig voor het gebruik van de schriftelijke informatie in kennis wordt gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 Als ambtenaren belast met het toezicht op de naleving van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24) en op de naleving van het bepaalde bij of krachtens het [Warenwetbesluit tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021605), worden aangewezen de ambtenaren werkzaam bij de GGD’en.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 juni 2007.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Warenwetregeling tatoeëren en piercen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Artikel 4a
-
-In de vergunning worden de materialen vermeld, waarvoor de vergunning wordt verleend, alsmede de ruimte in het pand, waarvoor de vergunning is verleend.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

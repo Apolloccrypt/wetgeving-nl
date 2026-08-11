@@ -1,43 +1,17 @@
 ---
 title: "Besluit verlening mandaat, volmacht en machtiging inzake Regeling bovenwettelijke uitkeringen bij werkloosheid en Suppletieregeling gedeeltijk arbeidsongeschikten"
 identifier: "BWBR0021299"
-country: "nl"
-rank: "zbo"
-publication_date: "2007-02-23"
-last_updated: "2007-02-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021299"
+categorie: "Arbeidsrecht"
 soort: "zbo"
-stam_id: "8935953"
-version_id: "14210932"
-internal_id: "C29326961"
-label_id: "8915194"
-dtd_version: "2.0"
-original_entry_into_force: "2007-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021299/2007-02-23/0"
-intitule_bron: "Stcrt.2007-37"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-01-07"
-intitule_published: "2007-02-21"
-intitule_in_force: "2007-02-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-37"
-original_signed_date: "2007-01-07"
-original_published_date: "2007-02-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-37-p32-SC79331"
-entry_into_force_date: "2007-02-23"
-jci_1_3: "jci1.3:c:BWBR0021299&z=2007-02-23&g=2007-02-23"
-jci_1_0: "1.0:c:BWBR0021299&g=2007-02-23"
-citeertitel_status: "officieel"
-signed_date: "2007-01-07"
-entry_into_force: "2007-02-23"
+publicatiedatum: 2007-02-23
+laatste_update: 2007-02-23
+status: geldig
+toestand: 2007-02-23
+bron: "https://wetten.overheid.nl/BWBR0021299"
+opgehaald: 2026-08-11
 ---
+
 # Besluit verlening mandaat, volmacht en machtiging inzake Regeling bovenwettelijke uitkeringen bij werkloosheid en Suppletieregeling gedeeltijk arbeidsongeschikten
-
-Gelet op [artikel 7, tweede lid, van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=7) en de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Besluit:
 
 ##### Artikel 1
 

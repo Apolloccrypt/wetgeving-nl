@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0029367"
-opgehaald: 2026-08-02
+opgehaald: 2026-08-11
 ---
 
 # Deelregeling projectsubsidies Fonds Podiumkunsten
@@ -275,7 +275,7 @@ Een aanvraag heeft betrekking op een ontwikkelingstraject met een looptijd van m
 
 2. Als onderdeel van de beoordelingsprocedure kunnen de aanvrager en de maker of groep makers worden uitgenodigd hun plannen mondeling toe te lichten.
 
-4. In afwijking van [artikel 1.6 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&artikel=1.6&z=2026-07-01&g=2026-07-01) worden aanvragen die een gelijke score hebben behaald, gerangschikt op basis van de behaalde scores op de beoordelingscriteria in de volgorde:
+3. In afwijking van [artikel 1.6 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&artikel=1.6&z=2026-07-01&g=2026-07-01) worden aanvragen die een gelijke score hebben behaald, gerangschikt op basis van de behaalde scores op de beoordelingscriteria in de volgorde:
 
 - 1. ondernemerschap;
 
@@ -365,7 +365,7 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 
 ##### Artikel 5.5. Inwerkingtreding en overgangsrecht
 
-Deze regeling treedt in werking met ingang van 22 juli 2026. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 22 juli 2026 treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 juli 2026.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 ##### Artikel 5.6. Intrekking
 

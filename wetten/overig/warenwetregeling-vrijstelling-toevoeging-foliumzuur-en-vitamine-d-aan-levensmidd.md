@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 januari 2007, nr. VGP/VV 2742234, houdende de Warenwetregeling vrijstelling toevoeging foliumzuur en vitamine D aan levensmiddelen"
+citeertitel: "Warenwetregeling vrijstelling toevoeging foliumzuur en vitamine D aan levensmiddelen"
 identifier: "BWBR0021039"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-12-13"
-last_updated: "2014-12-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021039"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "8873303"
-version_id: "14092432"
-internal_id: "C19189751"
-label_id: "8852584"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021039/2014-12-13/0"
-intitule_bron: "Stcrt.2007-12"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-01-12"
-intitule_published: "2007-01-17"
-intitule_in_force: "2007-01-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-12"
-original_signed_date: "2007-01-12"
-original_published_date: "2007-01-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-12-p11-SC78875"
-entry_into_force_date: "2007-01-19"
-jci_1_3: "jci1.3:c:BWBR0021039&z=2014-12-13&g=2014-12-13"
-jci_1_0: "1.0:c:BWBR0021039&g=2014-12-13"
-citeertitel_status: "officieel"
-short_title: "Warenwetregeling vrijstelling toevoeging foliumzuur en vitamine D aan levensmiddelen"
-signed_date: "2007-01-12"
-entry_into_force: "2007-01-19"
+publicatiedatum: 2007-01-19
+laatste_update: 2014-12-13
+status: geldig
+toestand: 2014-12-13
+bron: "https://wetten.overheid.nl/BWBR0021039"
+opgehaald: 2026-08-11
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 januari 2007, nr. VGP/VV 2742234, houdende de Warenwetregeling vrijstelling toevoeging foliumzuur en vitamine D aan levensmiddelen
-
-Handelende in overeenstemming met de Ministers van Landbouw, Natuur en Voedselkwaliteit, en van Economische Zaken;
-
-Gelet op [artikel 16, eerste en vierde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=16);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -48,7 +20,7 @@ In deze regeling wordt verstaan onder:
 
 - a. foliumzuur: pteroylmonoglutaminezuur;
 
-- b. light-product: eet- of drinkwaar ten aanzien waarvan een bewering over de verlaagde energetische waarde, in overeenstemming met de bijlage bij [Verordening (EG) nr. 1924/2006](32006R1924) van het Europees Parlement en de Raad van 20 december 2006 inzake voedings- en gezondheidsclaims voor levensmiddelen (Pb 2006, L 404), is gebezigd.
+- b. light-product: eet- of drinkwaar ten aanzien waarvan een bewering over de verlaagde energetische waarde, in overeenstemming met de bijlage bij Verordening (EG) nr. 1924/2006 van het Europees Parlement en de Raad van 20 december 2006 inzake voedings- en gezondheidsclaims voor levensmiddelen (Pb 2006, L 404), is gebezigd.
 
 ##### Artikel 2
 
@@ -67,5 +39,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Warenwetregeling vrijstelling toevoeging foliumzuur en vitamine D aan levensmiddelen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

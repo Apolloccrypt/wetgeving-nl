@@ -1,47 +1,47 @@
 ---
 title: "Premieheffing, volksverzekeringen, werknemersverzekeringen en Zorgverzekeringswet; Internationale aspecten"
 identifier: "BWBR0022216"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2007-07-12"
-last_updated: "2007-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022216"
+categorie: "Arbeidsrecht"
 soort: "beleidsregel"
-stam_id: "9144543"
-version_id: "14626222"
-internal_id: "C19909871"
-label_id: "9123944"
-dtd_version: "2.0"
-original_entry_into_force: "2007-07-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022216/2007-07-12/0"
-intitule_bron: "Stcrt.2007-130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-07-02"
-intitule_published: "2007-07-10"
-intitule_in_force: "2007-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-130"
-original_signed_date: "2007-07-02"
-original_published_date: "2007-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-130-p8-SC81228"
-entry_into_force_date: "2007-07-12"
-jci_1_3: "jci1.3:c:BWBR0022216&z=2007-07-12&g=2007-07-12"
-jci_1_0: "1.0:c:BWBR0022216&g=2007-07-12"
-citeertitel_status: "redactioneel"
-signed_date: "2007-07-02"
-entry_into_force: "2007-07-12"
+publicatiedatum: 2007-07-12
+laatste_update: 2007-07-12
+status: geldig
+toestand: 2007-07-12
+bron: "https://wetten.overheid.nl/BWBR0022216"
+opgehaald: 2026-08-11
 ---
+
 # Premieheffing, volksverzekeringen, werknemersverzekeringen en Zorgverzekeringswet; Internationale aspecten
 
 Dit besluit is een actualisering per 1 januari 2006 en samenvoeging van de besluiten van:
+
+- – 19 december 1986, nr. 086-3216, Vakstudie premie volksverzekeringen, onderdeel Wet financiering volksverzekeringen;
+
+- – 14 mei 1990, nr. IFZ89/1462, VN 1990/1717, pt. 15;
+
+- – 4 september 1991, nr. [DB91/3546](https://wetten.overheid.nl/jci1.3:c:BWBR0005192), VN 1991/2536, pt. 12;
+
+- – 1 juli 1994, nr. IFZ94/051, VN 1994/3370, pt 33;
+
+- – 13 april 2000, nr. [IFZ2000/380](https://wetten.overheid.nl/jci1.3:c:BWBR0011303), VN 2000/28.17;
+
+- – 14 april 2000, nr. [IFZ2000/394M](https://wetten.overheid.nl/jci1.3:c:BWBR0011305), Infobulletin 2000/395;
+
+- – 28 november 2000, nr. [IFZ2000/1192](https://wetten.overheid.nl/jci1.3:c:BWBR0011843), VN 2001/4.25;
+
+- – 15 juli 2004, nr. CPP2004/408M, VN 2004/39.21;
+
+- – 15 juli 2004, nr.
+
+- [CPP2004/415M](https://wetten.overheid.nl/jci1.3:c:BWBR0017047), VN 2004/39.22;
+
+- – 27 augustus 2004, nr. [CPP2004/1755M](https://wetten.overheid.nl/jci1.3:c:BWBR0017148), VN 2004/47.12.
 
 0. Inhoudsopgave
 
 1. Inleiding
 
-2. [Verordening (EEG) nr. 1408/71](31971R1408)
+2. Verordening (EEG) nr. 1408/71
 
 3. Verdragen
 
@@ -57,7 +57,7 @@ Bijlage
 
 De Belastingdienst is, naast de heffing van premie volksverzekeringen, met ingang van 1 januari 2006 ook verantwoordelijk voor de heffing van premie werknemersverzekeringen en de inkomensafhankelijke bijdrage [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450). De heffing van premie is onlosmakelijk verbonden met de verzekeringsplicht voor de sociale verzekeringen, respectievelijk de plicht tot het afsluiten van een zorgverzekering. De Belastingdienst is voor de premieheffing bevoegd vast te stellen of iemand onder het Nederlandse socialezekerheidsstelsel valt. Bij grensoverschrijdend wonen en werken wordt de verzekeringsplicht onder meer vastgesteld met toepassing van internationale socialezekerheidsregelingen.
 
-Een aantal besluiten met betrekking tot internationale socialezekerheidsregelingen is in de besluiten van 15 november 2005, nr. CPP2005/2172M, VN 2005/85.8 en van 10 juli 2006, nr. CPP2006/768M, Stcrt. 2006, 137, blz. 15, ingetrokken. De besluiten die resteren worden zoveel mogelijk samengevoegd. Onderhavig besluit dient er verder toe om het beleid over het vaststellen van de verzekeringsplicht te actualiseren aan de heffingen waarvoor de Belastingdienst met ingang van 1 januari 2006 verantwoordelijk is. De beleidsregel vervat in vraag/antwoord 9 van het besluit van 15 juli 2004, nr. [CPP2004/415M](https://wetten.overheid.nl/jci1.3:c:BWBR0017047) is opgenomen in onderdeel 2.3 van dit besluit.
+Een aantal besluiten met betrekking tot internationale socialezekerheidsregelingen is in de besluiten van 15 november 2005, nr. CPP2005/2172M, VN 2005/85.8 en van 10 juli 2006, nr. CPP2006/768M, Stcrt. 2006, 137, blz. 15, ingetrokken. De besluiten die resteren worden zoveel mogelijk samengevoegd. Onderhavig besluit dient er verder toe om het beleid over het vaststellen van de verzekeringsplicht te actualiseren aan de heffingen waarvoor de Belastingdienst met ingang van 1 januari 2006 verantwoordelijk is. De beleidsregel vervat in vraag/antwoord 9 van het besluit van 15 juli 2004, nr. [CPP2004/415M](https://wetten.overheid.nl/jci1.3:c:BWBR0017047) is opgenomen in [onderdeel 2.3](https://wetten.overheid.nl/BWBR0022216) van dit besluit.
 
 Het Uitvoeringsinstituut Werknemersverzekeringen, de Sociale verzekeringsbank, het College zorgverzekeringen en de Belastingdienst hebben al geruime tijd een gestructureerd overleg in de Commissie Verzekeringsaangelegenheden ter afstemming van het juridische beleidskader bij de beoordeling van de verzekeringsplicht. De Ministeries van Sociale Zaken en Werkgelegenheid, Volksgezondheid, Welzijn en Sport en Financiën zijn bij dit overleg betrokken. Vooral bij grensoverschrijdende situaties vindt in de praktijk coördinatie plaats. Onderhavig besluit is na overleg met de Ministeries van SZW en VWS en met de SVB, het UWV en CVZ tot stand gekomen.
 
@@ -85,9 +85,9 @@ Verordening (EG) nr. 859/2003 is gebaseerd op artikel 63, vierde lid, EG. Deze b
 
 Ierland en het Verenigd Koninkrijk zijn geen partij bij Titel IV van het EG-Verdrag, maar beide lidstaten hebben aangegeven aan Verordening (EG) nr. 859/2003 gebonden te willen worden.
 
-Denemarken heeft een voorbehoud gemaakt. Dit heeft tot gevolg dat de uitbreiding van Verordening (EEG) nr. 1408/71 en [Verordening (EEG) 574/72](31972R0574) tot personen met een andere dan een EU- nationaliteit, niet kan worden toegepast met betrekking tot Denemarken.
+Denemarken heeft een voorbehoud gemaakt. Dit heeft tot gevolg dat de uitbreiding van Verordening (EEG) nr. 1408/71 en Verordening (EEG) 574/72 tot personen met een andere dan een EU- nationaliteit, niet kan worden toegepast met betrekking tot Denemarken.
 
-Titel IV van het EG-Verdrag is geen onderdeel van de Overeenkomst betreffende de Europese Economische Ruimte (EER). Dit betekent dat [Verordening (EG) nr. 859/2003](32003R0859) niet kan worden toegepast in relatie tot Noorwegen, IJsland en Liechtenstein. In relatie tussen Nederland en Noorwegen moeten Verordening (EEG) nr. 1408/71 en [Verordening (EEG) 574/72](31972R0574) wel grotendeels worden toegepast op onderdanen van derde landen. Dit vloeit voort uit artikel 3 van het bilaterale sociale zekerheidsverdrag tussen Nederland en Noorwegen van 4 juni 1996 (Trb. 1996, 159 en 208 (vertaling)).
+Titel IV van het EG-Verdrag is geen onderdeel van de Overeenkomst betreffende de Europese Economische Ruimte (EER). Dit betekent dat Verordening (EG) nr. 859/2003 niet kan worden toegepast in relatie tot Noorwegen, IJsland en Liechtenstein. In relatie tussen Nederland en Noorwegen moeten Verordening (EEG) nr. 1408/71 en Verordening (EEG) 574/72 wel grotendeels worden toegepast op onderdanen van derde landen. Dit vloeit voort uit artikel 3 van het bilaterale sociale zekerheidsverdrag tussen Nederland en Noorwegen van 4 juni 1996 (Trb. 1996, 159 en 208 (vertaling)).
 
 Uit artikel 1 van de overeenkomst tussen de EG en Zwitserland blijkt dat deze overeenkomst beperkt blijft tot onderdanen van de overeenkomstsluitende partijen. Bovendien biedt de overeenkomst geen grondslag voor het opnemen van Verordening (EG) nr. 859/2003 in bijlage II bij deze overeenkomst. Er is dus geen mogelijkheid om Verordening (EG) nr. 859/2003 in relatie tot Zwitserland toe te passen.
 
@@ -119,6 +119,14 @@ Op grond van artikel 14, lid 2, sub b, onderdeel i, van de verordening is op deg
 
 Werkzaamheden die in de woonstaat van de werknemer worden verricht, worden als werkzaamheden van ondergeschikte aard beschouwd en voor de toepassing van artikel 14, lid 2, sub b, onderdeel i, van de verordening buiten beschouwing gelaten indien aan de volgende criteria wordt voldaan:
 
+- – de werkzaamheden hebben een ondersteunend karakter en ontberen zelfstandigheid;
+
+- – de werkzaamheden worden in het algemeen thuis verricht;
+
+- – de verrichte werkzaamheden staan in dienst van de hoofdactiviteit die in de andere lidstaat wordt uitgeoefend;
+
+- – de duur van de werkzaamheden is in relatieve en absolute zin beperkt; indien minder dan twee uur per week wordt gewerkt of minder dan een dag per maand over een referentieperiode van drie maanden, worden de werkzaamheden altijd buiten beschouwing gelaten.
+
 Als voorbeelden van werkzaamheden van ondergeschikte aard kunnen worden genoemd het lezen van stukken, het voorbereiden van vergaderingen en het ontvangen van bezoek door een persoon die zijn hoofdactiviteiten niet in zijn woonstaat verricht.
 
 Wordt aan de vorengenoemde criteria voldaan met betrekking tot werkzaamheden van een inwoner van Nederland op Nederlands grondgebied dan is op de betrokken werknemer niet artikel 14, lid 2, sub b, onderdeel i, van de verordening van toepassing, maar artikel 13, lid 2, sub a. Dit houdt in dat op hem niet de Nederlandse wetgeving (woonstaat) van toepassing is, maar de wetgeving van de lidstaat op wiens grondgebied hij zijn hoofdactiviteiten verricht. De criteria met betrekking tot werkzaamheden van ondergeschikte aard op Nederlands grondgebied zijn ook van toepassing op het bepalen van de toepasselijke wetgeving op grond van artikel 14 bis (zelfstandigen) en artikel 14 quater (combinatie loondienst en zelfstandige) van de verordening.
@@ -145,11 +153,15 @@ De toepassing van artikel 13, lid 2, sub f, geldt volgens HvJ EG 11 juni 1998, z
 
 ### Artikel 14, lid 1 en artikel 14 bis, lid 1; detachering
 
+Detachering
+
 Op grond van artikel 14, lid 1, sub a, van de verordening valt de werknemer die door een onderneming naar een andere lidstaat wordt gedetacheerd, onder de wetgeving van de lidstaat van waaruit de detachering plaatsvindt. Deze regel wijkt af van de hoofdregel van artikel 13, lid 2, sub a.
 
 De mogelijkheid van detachering vanuit Nederland doet zich alleen voor als de werknemer onmiddellijk voorafgaand aan de detachering verplicht verzekerd is ingevolge de Nederlandse socialeverzekeringswetten. Detachering in aansluiting op vrijwillige verzekering op grond van de [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en de [Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) dan wel de werknemersverzekeringen is niet mogelijk. Dit blijkt uit het feit dat artikel 14, lid 1, sub a, van de verordening uitgaat van het ’van toepassing blijven’ van de wetgeving van de lidstaat van waaruit de werknemer wordt gedetacheerd. De voorwaarde dat de Nederlandse wetgeving van toepassing blijft, wordt in ieder geval geacht te zijn vervuld als de detachering wordt voorafgegaan door ten minste één maand verzekering in Nederland.
 
 De detacheringstermijn bedraagt in beginsel één jaar, maar kan nog eens met maximaal één jaar worden verlengd. In een voorkomend geval kan ingeval van uitzending naar een andere lidstaat voor een periode van maximaal vijf jaren op grond van artikel 17 een overeenkomst worden gesloten met de lidstaat waarheen de werknemer wordt uitgezonden. De door de lidstaten aangewezen organen moeten op verzoek van de werkgever of van de werknemer een verklaring verstrekken, waaruit blijkt dat de werknemer onderworpen blijft aan de wettelijke regeling van de lidstaat van waaruit hij wordt uitgezonden en tot welke datum dit het geval is. Deze verklaring wordt verstrekt op zogenoemde E 101-formulieren. Voor Nederland is de Sociale verzekeringsbank (hierna: de SVB) het aangewezen orgaan. De E 01-formulieren worden verstrekt door de SVB, Kantoor Verzekeringen, Afdeling Internationale Detachering, Postbus 357, 1180 AJ Amstelveen (tel: 020-656 5277). Voor zelfstandigen geldt een overeenkomstige regeling.
+
+Gevolgen van Besluit nr. 181
 
 In Besluit nr. 181 van de Administratieve Commissie van de Europese Gemeenschap voor de sociale zekerheid van migrerende werknemers (hierna: AC) van 13 december 2000 (Publicatieblad van de Europese Gemeenschappen, 14 december 2001, L 329/73) zijn voorwaarden gesteld met betrekking tot detachering van een werknemer of een zelfstandige, welke voor de lidstaten als richtlijn gelden. Voor de voorwaarden verwijs ik naar de bijlage bij dit besluit.
 
@@ -169,37 +181,49 @@ Bij de toepassing van de detacheringsbepalingen in de bilaterale verdragen inzak
 
 Het navolgende is van belang in niet-verdrags- en niet-verordeningssituaties ten aanzien van inwoners van Nederland die in het buitenland werken of niet-inwoners die in Nederland werken.
 
-### [Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004613) (hierna: KB 402)
+### Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 (hierna: KB 402)
 
-### [Artikel 14 KB 402](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=14); zesmaandsperiode
+### Artikel 14 KB 402; zesmaandsperiode
 
 Volgens [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=14), wordt als werknemer in de zin van de werknemersverzekeringen niet beschouwd degene die buiten Nederland woont, in dienst is van een buiten Nederland wonende of gevestigde werkgever en tijdelijk in Nederland werkzaam is, indien bij de aanvang van zijn werkzaamheden kan worden aangenomen, dat deze niet langer dan zes maanden, gerekend vanaf de aanvang van die werkzaamheden, in Nederland zullen worden verricht. Of wordt gebleven binnen de periode van zes maanden moet worden gestaafd met schriftelijke bewijsstukken.
 
-### [Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182) (hierna: KB 746)
+### Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 (hierna: KB 746)
 
-### [Artikel 12 KB 746](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=12); detachering in concernrelaties
+### Artikel 12 KB 746; detachering in concernrelaties
 
 Uit [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=12), volgt dat de ingezetene in dienst van een in Nederland gevestigde of wonende werkgever en werkzaam buiten Nederland, in Nederland verplicht verzekerd is voor de volksverzekeringen ( de eis van ingezetenschap wordt in het kader van het EU-recht overigens niet gesteld). In het geval van (concern)detachering dient er ook gedurende de duur van de detachering een ‘organische band’ aanwezig te zijn tussen de in Nederland wonende werknemer en de onderneming die hem heeft gedetacheerd, wil er sprake zijn van een dienstbetrekking met een in Nederland wonende of gevestigde werkgever. Hierbij geldt naar analogie het beleid dat wordt gehanteerd bij detachering binnen de EU (zie gevolgen Besluit nr. 181). Deze analogie geldt ook voor de toepassing van [artikel 3, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=3).
 
 Bovendien moet er in alle gevallen sprake zijn van loondoorbetaling ten laste van de Nederlandse onderneming dan wel van een loonvordering op de Nederlandse werkgever als de inlenende buitenlandse werkgever het loon niet betaalt.
 
-### [Artikel 12 KB 746](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=12); onderbreking van driemaandsperiode door verlof
+### Artikel 12 KB 746; onderbreking van driemaandsperiode door verlof
 
 In situaties waarin beurtelings in Nederland en in het buitenland arbeid wordt verricht met tussenliggend verlof, wordt de periode van verlof die direct aansluit op een periode waarin arbeid is verricht, in beginsel toegerekend aan de direct aan het verlof voorafgaande werkperiode. Een verlofperiode die wordt genoten direct na een werkperiode in het buitenland wordt derhalve, tenzij in die verlofperiode in Nederland arbeid is verricht, toegerekend aan die buitenlandse periode. Lag de direct aan de verlofperiode voorafgaande werkperiode in Nederland, dan behoort de verlofperiode tot de Nederlandse werkperiode.
 
 Op deze regel is – teneinde te voorkomen dat de betrokkene door het opnemen van verlof afwisselend wel en niet verzekerd is (dan zou een ongewenste zgn. ‘knipperlichtverzekering’ ontstaan) – slechts één uitzondering. Deze houdt in dat een verlofperiode die genoten wordt na een buitenlandse werkperiode niet wordt toegerekend aan die buitenlandse werkperiode indien:
 
+- a. de periode van feitelijk werken in het buitenland korter was dan drie maanden en
+
+- b. betrokkene direct na de verlofperiode weer in Nederland is gaan werken.
+
 Om dezelfde reden wordt goedgekeurd dat een korte onderbreking van de arbeid in het buitenland, bijvoorbeeld wegens:
+
+- – het gedurende één of enkele dagen volgen van een (herhalings)cursus binnen Nederland;
+
+- – het deelnemen aan vergaderingen van de ondernemingsraad;
+
+- – het ophalen van bescheiden of
+
+- – het ondergaan van een keuring
 
 wordt beschouwd als een periode waarin uitsluitend buiten Nederland arbeid wordt verricht.
 
-### [Artikel 20 KB 746](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=20); tijdelijk in Nederland studerenden
+### Artikel 20 KB 746; tijdelijk in Nederland studerenden
 
 In [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=20) is bepaald dat niet verzekerd is op grond van de volksverzekeringen en indirect ook voor de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) de persoon die uitsluitend wegens studieredenen in Nederland woont en jonger is dan 30 jaar. Aan het vereiste dat betrokkene wegens studieredenen in Nederland woont, is voldaan indien hij daadwerkelijk studerend is en zijn voor werken beschikbare tijd grotendeels, dat wil zeggen voor meer dan de helft, in beslag wordt genomen door het volgen van onderwijs of van een beroepsopleiding. Voor de beoordeling van de vraag of betrokkene aan dit vereiste voldoet, dient te worden uitgegaan van een werkweek van 38 uur. Er moet derhalve sprake zijn van een studie of beroepsopleiding die meer dan 19 uur per week in beslag neemt. De term ‘uitsluitend’ brengt met zich mee dat er geen ruimte is voor een andere reden van verblijf in Nederland dan de studie of de opleiding voor een beroep. Dit houdt in dat, indien de student arbeid in het economische verkeer gaat verrichten buiten zijn studie, hij niet (langer) geacht kan worden uitsluitend wegens studieredenen in Nederland te wonen. De aard en de omvang van de arbeid is hierbij in beginsel niet van belang. Ook geringe (deeltijd)arbeid en vakantiewerk leiden ertoe dat niet meer aan de voorwaarden voor uitsluiting van de volksverzekeringen wordt voldaan. Alleen indien er sprake is van arbeid, welke wordt verricht uit hoofde van studie of beroepsopleiding – bijvoorbeeld tijdens een stageperiode die een verplicht onderdeel vormt van de studie of beroepsopleiding - wordt deze arbeid geacht te behoren tot de studieredenen.
 
 Verwezen wordt verder naar het besluit van 15 december 2006, nr. [CPP2006/1461M](https://wetten.overheid.nl/jci1.3:c:BWBR0020790), Stcrt. nr. 249 met betrekking tot de heffingsaspecten van stagiairs.
 
-### [Artikel 21 KB 746](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=21); [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
+### Artikel 21 KB 746; AWBZ
 
 In artikel 21, eerste lid, is het volgende bepaald:
 
@@ -207,7 +231,17 @@ In artikel 21, eerste lid, is het volgende bepaald:
 
 Deze bepaling is bedoeld om te voorkomen dat AWBZ-verzekering (en daarmee premieplicht) ontstaat voor personen die louter als gevolg van ingezetenschap verzekerd zouden worden, maar die op grond van Verordening (EEG) nr. 1408/71 of een verdrag ten laste van een andere staat recht hebben op zorg. Deze bepaling leidt onder bepaalde voorwaarden tot uitsluiting van de verzekerings- en premieplicht ingevolge de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), en met ingang van 1 januari 2006 ook tot uitsluiting van de verzekeringsplicht ingevolge de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450). Het gaat daarbij met name om de volgende groepen personen:
 
+- 1. In Nederland wonende pensioengerechtigden die op grond van artikel 28 van de verordening of een verdrag inzake sociale zekerheid recht hebben op zorg in Nederland ten laste van een andere staat;
+
+- 2. In Nederland wonende personen die niet langer als werknemer of zelfstandige werkzaam zijn, en die in een andere lidstaat een aanvraag hebben ingediend voor een pensioen of rente, mits die personen ingevolge de wetgeving van een andere lidstaat recht hebben op verstrekkingen of daarop recht zouden hebben indien zij daar zouden wonen, alsmede de gezinsleden en de nagelaten betrekkingen van de bedoelde pensioen- en rente-aanvragers.
+
 Dat deze personen niet zijn onderworpen aan de premieheffing AWBZ, en met ingang van 1 januari 2006 niet zijn onderworpen aan de bijdrageheffing [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), kan blijken uit een verklaring van het College zorgverzekeringen (CVZ), Postbus 320, 1110 AH Diemen, dat zij op grond van de verordening recht hebben op medische zorg in Nederland ten laste van een andere lidstaat. CVZ behoeft op grond van [artikel 21 KB 746](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=21) geen verklaringen af te geven voor personen op wie de wetgeving van een andere staat van toepassing is ingevolge de verordening of een verdrag, zoals in de volgende gevallen:
+
+- 1. De in Nederland wonende werknemer of zelfstandige en diens gezinsleden op wie op grond van de verordening of een verdrag inzake sociale zekerheid de sociale zekerheidswetgeving van een andere lidstaat van toepassing is en die ingevolge die wetgeving verzekerd is voor de ziektekosten;
+
+- 2. De werknemer of zelfstandige die ingevolge de sociale zekerheidswetgeving van een andere lidstaat verzekerd is voor ziektekosten en van het orgaan waarbij de betrokkene als verzekerde is ingeschreven, toestemming heeft gekregen om zijn woonplaats naar Nederland over te brengen, en zijn gezinsleden. Het betreft hier de zieke of arbeidsongeschikte werknemer of zelfstandige die nog onder behandeling is, en zijn in Nederland wonende gezinsleden;
+
+- 3. De in Nederland wonende werkloze, voorzover zijn medische zorg niet ingevolge artikel 25, tweede lid, van de verordening ten laste van Nederland is gebracht, en zijn in Nederland wonende gezinsleden.
 
 Afgezien van deze bijzondere situaties geldt de uitsluiting van de AWBZ-verzekering uiteraard ook voor in Nederland wonende pensioengerechtigden en/of hun gezinsleden die op grond van artikel 28 van de verordening of een verdrag inzake sociale zekerheid recht hebben op zorg in Nederland ten laste van een andere verdragsstaat.
 
@@ -217,50 +251,26 @@ Een verklaring kan eveneens worden verlangd, wanneer op grond van andere interna
 
 De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
+- – 19 december 1986, nr. 086-3216;
+
+- – 14 mei 1990, nr. IFZ89/1462;
+
+- – 4 september 1991, nr. [DB91/3546](https://wetten.overheid.nl/jci1.3:c:BWBR0005192);
+
+- – 1 juli 1994, nr. IFZ94/051;
+
+- – 13 april 2000, nr. [IFZ2000/380](https://wetten.overheid.nl/jci1.3:c:BWBR0011303);
+
+- – 14 april 2000, nr. [IFZ2000/394M](https://wetten.overheid.nl/jci1.3:c:BWBR0011305);
+
+- – 28 november 2000, nr. [IFZ2000/1192](https://wetten.overheid.nl/jci1.3:c:BWBR0011843);
+
+- – 15 juli 2004, nr. CPP2004/408M;
+
+- – 15 juli 2004, nr. [CPP2004/415M](https://wetten.overheid.nl/jci1.3:c:BWBR0017047);
+
+- – 27 augustus 2004, nr. [CPP2004/1755M](https://wetten.overheid.nl/jci1.3:c:BWBR0017148).
+
 ### 6. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-## Bijlage
-
-Voorwaarden met betrekking tot detachering van een werknemer of een zelfstandige, welke voor de lidstaten als richtlijn gelden (Besluit nr. 181 van de Administratieve Commissie van de Europese Gemeenschap voor de sociale zekerheid van migrerende werknemers van 13 december 2000 (Publicatieblad van de Europese Gemeenschappen, 14 december 2001, L 329/73).
-
-### **Relatie tussen de onderneming en de gedetacheerde werknemer**
-
-De tekst van artikel 14, lid 1, sub a, van de verordening veronderstelt een band tussen de werknemer en de onderneming waardoor hij wordt gedetacheerd. Uit het arrest HvJ EG 17 december 1979, zaak 35/70, Jur. 1970, blz. 1251, (Manpower), volgt dat de aanwezigheid van een dergelijke band afhankelijk is van de intensiteit van de arbeidsrechtelijke relatie tussen de onderneming en de werknemer. Blijkens het Besluit nr. 181 dient sprake te zijn van een ‘organische band’ tussen de werknemer en de onderneming. Om het bestaan van een dergelijke band vast te stellen, dient een reeks van elementen in aanmerking te worden genomen, met name de verantwoordelijkheid inzake aanwerving, arbeidsovereenkomst, ontslag en vaststelling van de aard van de werkzaamheden.
-
-Een organische band wordt in ieder geval aangenomen indien gedurende de periode van uitzending aan de volgende voorwaarden wordt voldaan:
-
-Indien aan de hand van deze criteria niet tot een duidelijk oordeel kan worden gekomen, wordt het bestaan van de organische band tussen werknemer en uitzendende onderneming vastgesteld op basis van een meer algemeen beeld van de intensiteit van de arbeidsrechtelijke relatie tussen de werknemer en de uitzendende onderneming. Hiertoe worden alle relevante feiten en omstandigheden gewogen, waaronder met name de vraag of de detacherende werkgever in beginsel zeggenschap heeft over de volgende zaken:
-
-Daarnaast wordt in de beoordeling betrokken:
-
-Toepassing van deze voorwaarden brengt veelal met zich dat zogenoemde concerndetacheringen waarbij sprake is van uitzending naar een in een andere lidstaat gevestigde dochteronderneming onder het bereik van artikel 14, lid 1, van de verordening vallen. Ook uitzending van werknemers door uitzendbureaus kan in beginsel onder het bereik van de detacheringsbepalingen worden gebracht.
-
-### **Omvang van de bedrijfsactiviteiten**
-
-In Besluit nr. 181 wordt als één van de voorwaarden voor detachering van werknemers genoemd dat de uitzendende onderneming haar activiteiten gewoonlijk uitoefent op het grondgebied van de uitzendende lidstaat. Bij de bepaling of hiervan sprake is worden onder meer de in HvJ EG 10 februari 2000, zaak C-202/97, Jur. 2000, blz. I-883, BNB 2000/219, (Fitzwilliam), neergelegde criteria gehanteerd die zijn vervat in punt 3, onder b, van Besluit nr. 181. Voorzover bij de beoordeling van deze voorwaarde naar de omzet van de onderneming in de afzonderlijke lidstaten wordt gekeken, is het voor de vaststelling van de omvang van de bedrijfsactiviteiten niet van belang wat de aard is van de werkzaamheden die in de respectieve lidstaten worden verricht. Dit volgt uit het arrest HvJ EG 5 december 1967, zaak 19/67, Jur. 1967, blz. 445, (Van der Vecht).
-
-Van detachering van een persoon die anders dan in loondienst werkt kan volgens punt 2 van Besluit nr. 181 uitsluitend sprake zijn, als deze persoon voorafgaand aan de uitzending gedurende een zekere periode werkzaamheden van een zekere omvang anders dan in loondienst in de lidstaat van vestiging heeft verricht. De betrokkene dient onder andere door overlegging van contracten die betrekking hebben op deze werkzaamheden, aan te tonen dat hij aan deze voorwaarde voldoet. Op de voet van punt 2 van Besluit nr. 181 wordt ervan uitgegaan dat de belanghebbende gedurende de periode van detachering alleen aan de voorwaarden voor detachering blijft voldoen zolang hij de infrastructurele voorzieningen in het land van uitzending, die hem in staat stellen aldaar werkzaamheden te verrichten, in stand houdt, en in dit land aan zijn administratieve en fiscale verplichtingen voldoet. De belanghebbende dient op verzoek aan te tonen dat hij gedurende de periode van detachering aan deze voorwaarden voldoet of heeft voldaan.
-
-Van detachering kan ingevolge punt 2 van Besluit nr. 181 alleen sprake zijn indien voorafgaand aan de uitzending door de onderneming of de zelfstandige werkzaamheden van betekenis in Nederland worden verricht. In het geval van een startende onderneming of zelfstandige wordt deze voorwaarde in ieder geval geacht te zijn vervuld als in een periode van ten minste drie maanden voorafgaande aan het verzoek om detachering substantiële handelsactiviteiten zijn ontplooid. Als substantiële handelsactiviteit worden onder meer aangemerkt activiteiten gericht op het opstarten van de onderneming, zoals de inschrijving bij de Kamer van Koophandel, de verwerving van bedrijfsruimte en het aanleggen van een handelsvoorraad. Eveneens als substantiële handelsactiviteit wordt aangemerkt de uitvoering van een opdracht tot werk door een opdrachtgever.
-
-### **Onderbreking van de detacheringsperiode**
-
-Op grond van het bepaalde in punt 3, onder c, van Besluit nr. 181 wordt een tijdelijke onderbreking van de werkzaamheden bij de werkgever in de ontvangende staat niet beschouwd als een onderbreking van de detachering. In elk geval is sprake van een tijdelijke onderbreking, als de onderbreking korter dan drie maanden duurt.
-
-### **Vervanging en doorzending**
-
-In artikel 14, lid 1, sub a, van de verordening is bepaald dat een werknemer niet mag worden uitgezonden ter vervanging van een andere persoon wiens detachering is geëindigd. Ook diverse vormen van doorzending van personeel vallen buiten het bereik van de detacheringsbepalingen. Dit laatste blijkt met name uit punt 4 van Besluit nr. 181.
-
-### **Verlengde detachering**
-
-Artikel 14, lid 1, sub b, van de verordening voorziet in een verlenging van de termijn voor de specifieke situatie dat de duur van de te verrichten arbeid door onvoorziene omstandigheden de maximale tijdsduur overschrijdt. Voor die situaties kan de termijn van aansluiting bij de wetgeving van de uitzendende lidstaat worden verlengd met nog eens twaalf maanden, zij het dat hiervoor uitdrukkelijke toestemming is vereist van de autoriteiten in de lidstaat waar de betrokkene is gedetacheerd. Deze toestemming blijkt uit de afgifte van een E 102-verklaring en moet worden aangevraagd vóór het einde van het eerste tijdvak van twaalf maanden.
-
-### **Status E 101-verklaring**
-
-Door middel van een E 101-verklaring bevestigt het bevoegde orgaan van de lidstaat waar de verklaring wordt afgegeven dat een gedetacheerde werknemer in afwijking van artikel 13, lid 2, sub a, van de verordening onderworpen blijft aan de socialezekerheidsregeling van die lidstaat. Het orgaan van de lidstaat waarin de werknemer zijn werkzaamheden verricht dient er derhalve rekening mee te houden, dat die werknemer reeds is aangesloten bij de socialezekerheidsregeling van de lidstaat waar de verklaring is afgegeven. In punt 7 van Besluit nr. 181 is daarom, in navolging van het de arresten Fitzwilliam en Banks, onder meer bepaald dat de E 101-verklaring bindend is voor de organen van de lidstaat van tewerkstelling. De verzekeringspositie van de gedetacheerde werknemer kan derhalve niet in afwijking van de detacheringsverklaring worden vastgesteld.
-
-Ter beantwoording van de vraag of er sprake is van detachering, is de feitelijke toestand beslissend. Indien een detacheringsverklaring ontbreekt, leidt dit derhalve niet zonder meer tot de conclusie dat er geen sprake is van detachering. In voorkomend geval kan ook na aanvang van de werkzaamheden een detacheringsverklaring worden aangevraagd.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

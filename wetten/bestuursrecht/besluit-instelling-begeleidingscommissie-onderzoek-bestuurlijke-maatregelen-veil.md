@@ -1,51 +1,17 @@
 ---
 title: "Besluit instelling begeleidingscommissie onderzoek bestuurlijke maatregelen veiligheid"
 identifier: "BWBR0021361"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-03-02"
-last_updated: "2006-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021361"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "8964873"
-version_id: "14254132"
-internal_id: "C29327931"
-label_id: "8943984"
-dtd_version: "2.0"
-original_entry_into_force: "2007-03-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021361/2007-03-02/0"
-intitule_bron: "Stcrt.2007-42"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-02-22"
-intitule_published: "2007-02-28"
-intitule_in_force: "2007-02-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-42"
-original_signed_date: "2007-02-22"
-original_published_date: "2007-02-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-42-p8-SC79476"
-entry_into_force_date: "2007-03-02"
-jci_1_3: "jci1.3:c:BWBR0021361&z=2007-03-02&g=2007-03-02"
-jci_1_0: "1.0:c:BWBR0021361&g=2007-03-02"
-citeertitel_status: "redactioneel"
-signed_date: "2007-02-22"
-entry_into_force: "2007-03-02"
+publicatiedatum: 2007-03-02
+laatste_update: 2007-03-02
+status: geldig
+toestand: 2007-03-02
+bron: "https://wetten.overheid.nl/BWBR0021361"
+opgehaald: 2026-08-11
 ---
+
 # Besluit instelling begeleidingscommissie onderzoek bestuurlijke maatregelen veiligheid
-
-Overwegende,
-
-Dat er behoefte bestaat aan onderzoek naar bestaande en nieuwe bestuurlijke en bestuursrechtelijke maatregelen op het terrein van veiligheid, alsmede aan onderzoek om te komen tot meer samenhang in de (visie op) burgemeesterlijke bevoegdheden op het gebied van handhaving van de openbare orde en veiligheid;
-
-Dat het onderzoek wordt verricht door deskundigen op het terrein van openbare orde en veiligheid, primair vanuit bestuur(srechte)lijk perspectief en met aandacht voor de afbakening met het straf(proces)recht;
-
-Dat de onderzoeksresultaten als basis dienen voor besluitvorming of en zo ja hoe bestaande bestuurlijke bevoegdheden op genoemde terreinen uitbreiding vergen en hoe de samenhang, structuur en ordening van bestaande en alsdan benodigde, nieuwe, bevoegdheden beter kan worden geborgd;
-
-Dat het onderzoek wordt verricht door deskundigen op het terrein van openbare orde en veiligheid, primair vanuit bestuur(srechte)lijk perspectief en met aandacht voor de afbakening met het straf(proces)recht;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -75,25 +41,25 @@ De Commissie heeft tot taak:
 
 - a. als voorzitter:
 
-- –. de heer R.J.G. Bandell, beheerder van het regionale politiekorps Zuid-Holland-Zuid, burgemeester van Dordrecht, voorzitter bestuur Nederlands Genootschap van Burgemeesters;
+   - – de heer R.J.G. Bandell, beheerder van het regionale politiekorps Zuid-Holland-Zuid, burgemeester van Dordrecht, voorzitter bestuur Nederlands Genootschap van Burgemeesters;
 
 - b. als leden:
 
-- –. de heer drs. E.S.M. Akerboom, Korpschef Politie Brabant Noord;
+   - – de heer drs. E.S.M. Akerboom, Korpschef Politie Brabant Noord;
 
-- –. de heer prof. mr. J.G. Brouwer, hoogleraar algemene rechtswetenschap/openbare orde, Rijksuniversiteit Groningen;
+   - – de heer prof. mr. J.G. Brouwer, hoogleraar algemene rechtswetenschap/openbare orde, Rijksuniversiteit Groningen;
 
-- –. de heer mr. P.A.G. Cammaert, burgemeester van Velsen, lid Commissie bestuur en veiligheid, Vereniging van Nederlandse Gemeenten;
+   - – de heer mr. P.A.G. Cammaert, burgemeester van Velsen, lid Commissie bestuur en veiligheid, Vereniging van Nederlandse Gemeenten;
 
-- –. de heer mr. H.Ph.J.A.M. Hennekens, lid van de Raad van State, voormalig hoogleraar bestuursrecht/openbare orderecht;
+   - – de heer mr. H.Ph.J.A.M. Hennekens, lid van de Raad van State, voormalig hoogleraar bestuursrecht/openbare orderecht;
 
-- –. de heer prof. mr. B.F. Keulen, hoogleraar strafrecht, Rijksuniversiteit Groningen;
+   - – de heer prof. mr. B.F. Keulen, hoogleraar strafrecht, Rijksuniversiteit Groningen;
 
-- –. de heer mr. H.J. Moraal, hoofdofficier van Justitie arrondissement Den Haag;
+   - – de heer mr. H.J. Moraal, hoofdofficier van Justitie arrondissement Den Haag;
 
-- –. twee vertegenwoordigers van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+   - – twee vertegenwoordigers van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. twee vertegenwoordigers van het Ministerie van Justitie.
+   - – twee vertegenwoordigers van het Ministerie van Justitie.
 
 2. De Commissie wordt bijgestaan door een ambtelijk secretaris, mr. A.B. Engberts, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 

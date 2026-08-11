@@ -9,7 +9,7 @@ laatste_update: 2026-07-21
 status: geldig
 toestand: 2026-07-21
 bron: "https://wetten.overheid.nl/BWBR0020368"
-opgehaald: 2026-08-10
+opgehaald: 2026-08-11
 ---
 
 # Wet van 28 september 2006, houdende regels met betrekking tot de financiële markten en het toezicht daarop (Wet op het financieel toezicht)
@@ -2766,6 +2766,14 @@ Indien een systeemexploitant als bedoeld in [artikel 212a, onderdeel q, van de F
 
 2. Een ontzegging als bedoeld in het eerste lid kan worden opgelegd voor de duur van ten hoogste een jaar en kan eenmaal met ten hoogste een jaar worden verlengd.
 
+##### Artikel 1:76e
+
+De Autoriteit Financiële Markten kan:
+
+- a. maatregelen nemen om te verifiëren dat een beleggingsonderneming organisatorische regelingen heeft getroffen die ervoor zorgen dat door een uitgevende instelling gefinancierd onderzoek op beleggingsgebied dat zij verricht of verspreidt, voldoet aan de EU-gedragscode voor door een uitgevende instelling gefinancierd beleggingsonderzoek, bedoeld in artikel 24, lid 3 quater, van de richtlijn markten voor financiële instrumenten 2014;
+
+- b. door middel van een aanwijzing een beleggingsonderneming verplichten de verspreiding van door een uitgevende instelling gefinancierd beleggingsonderzoek te schorsen, indien het onderzoek niet overeenkomstig de EU-gedragscode, bedoeld in onderdeel a, is verricht.
+
 ##### Artikel 1:77
 
 1. Indien een financiële onderneming van de toezichthouder of de Europese Centrale Bank een aanwijzing als bedoeld in [artikel 1:75](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=1&hoofdstuk=1.4&afdeling=1.4.2&artikel=1:75&z=2026-07-21&g=2026-07-21) heeft gekregen met betrekking tot de bedrijfsvoering of haar financiële positie, en die financiële onderneming hieraan niet of onvoldoende gevolg heeft gegeven, kan de toezichthouder dan wel de Europese Centrale Bank besluiten niet langer toe te staan dat die financiële onderneming vanuit het bijkantoor of de vestiging of door middel van het verrichten van diensten haar bedrijf uitoefent of financiële diensten verleent in de andere staat. De toezichthouder of de Europese Centrale Bank doet mededeling van dit besluit aan de toezichthoudende instantie van de betrokken staat. Vanaf het tijdstip van deze mededeling is het de financiële onderneming verboden nog langer vanuit het bijkantoor of de vestiging of door middel van het verrichten van diensten haar bedrijf uit te oefenen of diensten te verlenen in de andere staat.
@@ -2961,6 +2969,24 @@ De toezichthouder kan met inachtneming van de artikelen 45, eerste lid, onderde
 ##### Artikel 1:77p
 
 De Autoriteit Financiële Markten kan een kredietservicer of een kredietservicingaanbieder met zetel in Nederland die niet voldoet aan het ingevolge deze wet bepaalde ten aanzien kredietservicers of kredietservicingaanbieders verbieden kredietservicingactiviteiten te verrichten.
+
+##### Artikel 1:77q
+
+1. De Autoriteit Financiële Markten kan, overeenkomstig het bepaalde ingevolge artikel 41, eerste lid, onderdeel l, van de verordening financiële benchmarks, indien is voldaan aan de voorwaarden van de eerste volzin van dat onderdeel, een beheerder voor de duur van ten hoogste een jaar door middel van het geven van een aanwijzing verplichten om te staken met:
+
+- a. het aanbieden van een EU-klimaattransitiebenchmark of een op de Overeenkomst van Parijs afgestemde EU-benchmark;
+
+- b. het gebruiken van de aanduiding EU-klimaattransitiebenchmark of op de Overeenkomst van Parijs afgestemde EU-benchmark in de naam van een door de beheerder voor gebruik in de Europese Unie beschikbaar gestelde benchmark, reclame-uitingen of documenten met betrekking tot die benchmark;
+
+- c. het suggereren, in de naam van een door de beheerder voor gebruik in de Europese Unie beschikbaar gestelde benchmark, reclame-uitingen of documenten met betrekking tot die benchmark, dat de voorwaarden voor het aanbieden van een EU-klimaattransitiebenchmark of een op de Overeenkomst van Parijs afgestemde EU-benchmark in acht worden genomen.
+
+2. Voor de toepassing van het eerste lid wordt verstaan onder:
+
+- a. *beheerder:* een beheerder als bedoeld in artikel 3, eerste lid, punt 6, van de verordening financiële benchmarks;
+
+- b. *EU-klimaattransitiebenchmark:* een EU-klimaattransitiebenchmark als bedoeld in artikel 3, eerste lid, onderdeel 23 bis, van de verordening financiële benchmarks;
+
+- c. *op de Overeenkomst van Parijs afgestemde EU-benchmark:* een op de Overeenkomst van Parijs afgestemde EU-benchmark als bedoeld in artikel 3, eerste lid, onderdeel 23 ter, van de verordening financiële benchmarks.
 
 ##### Artikel 1:78
 
@@ -16641,6 +16667,36 @@ De Autoriteit Financiële Markten kan op aanvraag geheel of gedeeltelijk, al dan
 - b. de informatie, bedoeld in het eerste lid, onderdeel c, en de wijze waarop deze informatie openbaar wordt gemaakt;
 
 - c. de periodieke financiële verslaggeving, bedoeld in het eerste lid, onderdeel d.
+
+##### Artikel 4:91eb
+
+1. De Autoriteit Financiële Markten wijst op aanvraag van een beleggingsonderneming of marktexploitant die een in Nederland gelegen of beheerde multilaterale handelsfaciliteit exploiteert een segment daarvan aan als mkb-groeimarkt en registreert die aanwijzing in het openbaar register, bedoeld in [artikel 1:107, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=1&hoofdstuk=1.6&afdeling=1.6.2&artikel=1:107&z=2026-07-21&g=2026-07-21), indien het segment beschikt over regelingen, systemen en procedures die waarborgen dat:
+
+- a. is voldaan aan het bepaalde ingevolge in [artikel 4:91ea, eerste lid, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4&hoofdstuk=4.3&afdeling=4.3.7&paragraaf=4.3.7.2a&artikel=4:91ea&z=2026-07-21&g=2026-07-21);
+
+- b. het als mkb-groeimarkt geregistreerde segment van de multilaterale handelsfaciliteit duidelijk is gescheiden van de andere marktsegmenten die worden geëxploiteerd door de beleggingsonderneming of marktexploitant;
+
+- c. de transacties op het als mkb-groeimarkt geregistreerde segment van de multilaterale handelsfaciliteit duidelijk worden onderscheiden van andere marktactiviteiten op de andere segmenten van de multilaterale handelsfaciliteit;
+
+- d. de multilaterale handelsfaciliteit op verzoek van de Autoriteit Financiële Markten een volledige lijst van de financiële instrumenten die zijn toegelaten tot de handel op het als mkb-groeimarkt geregistreerde segment van de multilaterale handelsfaciliteit en alle informatie over de exploitatie van dat segment verstrekt.
+
+2. De Autoriteit Financiële Markten kan de registratie van een segment van een multilaterale handelsfaciliteit als mkb-groeimarkt doorhalen, indien:
+
+- a. de beleggingsonderneming of de marktexploitant die het als mkb-groeimarkt geregistreerde segment van een multilaterale handelsfaciliteit exploiteert daartoe een aanvraag heeft ingediend;
+
+- b. het als mkb-groeimarkt geregistreerde segment van een multilaterale handelsfaciliteit niet langer voldoet aan de bij of krachtens [artikel 4:91ea, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4&hoofdstuk=4.3&afdeling=4.3.7&paragraaf=4.3.7.2a&artikel=4:91ea&z=2026-07-21&g=2026-07-21), of dit artikel gestelde regels.
+
+3. Artikel 4:91ea, tweede, vierde en vijfde lid, is van overeenkomstige toepassing op een segment van een multilaterale handelsfaciliteit dat door de Autoriteit Financiële Markten is geregistreerd als mkb-groeimarkt.
+
+4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot:
+
+- a. de duidelijke scheiding van andere marktsegmenten, bedoeld in het eerste lid, onderdeel b;
+
+- b. het duidelijke onderscheid tussen de transacties en andere marktactiviteiten, bedoeld in het eerste lid, onderdeel c;
+
+- c. de volledige lijst van de financiële instrumenten die zijn toegelaten tot de handel op het als mkb-groeimarkt geregistreerde segment van de multilaterale handelsfaciliteit, bedoeld in het eerste lid, onderdeel d;
+
+- d. de informatie over de exploitatie van het als mkb-groeimarkt geregistreerde segment van de multilaterale handelsfaciliteit, bedoeld in het eerste lid, onderdeel d.
 
 #### § 4.3.7.3. Systematische interne afhandeling
 

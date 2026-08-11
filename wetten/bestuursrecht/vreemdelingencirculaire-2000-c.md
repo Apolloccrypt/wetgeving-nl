@@ -4,11 +4,11 @@ identifier: "BWBR0012288"
 categorie: "Overig"
 soort: "circulaire"
 publicatiedatum: 2026-06-12
-laatste_update: 2026-07-11
+laatste_update: 2026-08-07
 status: geldig
-toestand: 2026-07-11
+toestand: 2026-08-07
 bron: "https://wetten.overheid.nl/BWBR0012288"
-opgehaald: 2026-08-05
+opgehaald: 2026-08-11
 ---
 
 # Vreemdelingencirculaire 2000 (C)
@@ -1445,17 +1445,19 @@ Er zal in deze situatie geen verblijfsvergunning asiel op grond van artikel 29a
 
 Als de IND een aanvraag om verblijfsvergunning asiel afwijst of een verblijfsvergunning asiel intrekt, kan er sprake zijn van een terugkeerbeletsel. De IND beoordeelt in de regel of sprake is van een situatie waarbij de vreemdeling bij terugkeer naar het land van herkomst:
 
-- a. risico loopt op vervolging, zoals bedoeld in artikel 29, eerste lid, Vw of;
+- a. risico loopt op vervolging, zoals bedoeld in [artikel 29, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) of;
 
-- b. reëel risico loopt op ernstige schade, zoals bedoeld in artikel 29a, eerste lid, Vw.
+- b. reëel risico loopt op ernstige schade, zoals bedoeld in [artikel 29a, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29a).
 
-Als artikel 1F van het Vluchtelingenverdrag van toepassing is (artikel 12, tweede tot en met vijfde lid, Kwalificatieverordening) zal niet worden beoordeeld of er sprake is van risico op vervolging.
+Als artikel 1F van het Vluchtelingenverdrag van toepassing is (artikel 12, tweede tot en met vijfde lid, Kwalificatieverordening) zal niet worden beoordeeld of er sprake is van risico op vervolging.
 
-Als sprake is van één van bovengenoemde situaties of als er sprake is van schending van artikel 3 EVRM vanwege medische redenen en er is geen ander land waarnaar de vreemdeling kan terugkeren, neemt de IND geen terugkeerbesluit. De IND neemt dan in het besluit op dat de vreemdeling zelfstandig uit Nederland moet vertrekken, maar niet zal worden uitgezet naar het land van herkomst. De IND noemt in het besluit geen uiterste vertrektermijn.
+Als sprake is van één van bovengenoemde situaties of als er sprake is van schending van artikel 3 EVRM vanwege medische redenen en er is geen ander land waarnaar de vreemdeling kan terugkeren, neemt de IND geen terugkeerbesluit. De IND neemt dan in het besluit op dat de vreemdeling niet zal worden uitgezet naar het land van herkomst. De IND noemt in het besluit geen vertrektermijn.
 
-Als vanwege een terugkeerbeletsel geen terugkeerbesluit en daarmee geen inreisverbod kan worden gegeven, beoordeelt de IND of een besluit tot signalering kan worden opgelegd. In paragraaf A4/4 Vc staan de voorwaarden vermeld om wegens een gevaar voor de openbare orde of de nationale veiligheid een besluit tot signalering op te leggen.
+Als vanwege een terugkeerbeletsel geen terugkeerbesluit en daarmee geen inreisverbod kan worden gegeven, beoordeelt de IND of een besluit tot signalering kan worden opgelegd. In [paragraaf A4/4 Vc](https://wetten.overheid.nl/BWBR0012287) staan de voorwaarden vermeld om wegens een gevaar voor de openbare orde of de nationale veiligheid een besluit tot signalering op te leggen.
 
-Als op een later moment wordt vastgesteld dat de vreemdeling niet langer te vrezen heeft voor vervolging of ernstige schade of dat artikel 3 EVRM zich niet meer verzet tegen uitzetting van de vreemdeling, neemt de IND een terugkeerbesluit en legt, als dat aan de orde is, een besluit tot signalering, een ongewenstverklaring en/of inreisverbod op. De IND maakt dit besluit kenbaar aan de vreemdeling. Hiertegen kan de vreemdeling rechtsmiddelen aanwenden.
+Als op een later moment wordt vastgesteld dat de vreemdeling niet langer te vrezen heeft voor vervolging of ernstige schade of dat artikel 3 EVRM zich niet meer verzet tegen uitzetting van de vreemdeling, neemt de IND een terugkeerbesluit en legt, als dat aan de orde is, een besluit tot signalering, een ongewenstverklaring en/of inreisverbod op. De IND maakt dit besluit kenbaar aan de vreemdeling. Hiertegen kan de vreemdeling rechtsmiddelen aanwenden.
+
+Indien sprake is van een terugkeerbeletsel en aan de vreemdeling in een eerdere procedure een terugkeerbesluit is uitgevaardigd, dat in rechte vaststaat, dan wordt dat besluit niet opgeheven. In het nieuwe besluit wordt vermeld dat het eerdere terugkeerbesluit weer van kracht is. Daarbij wordt in het besluit opgenomen dat de feitelijke verwijdering naar het land van herkomst, op grond van artikel 9, eerste lid, onder a, van de Terugkeerrichtlijn (Richtlijn 2008/115/EG), wordt opgeschort zolang uitzetting in strijd is met het beginsel van non-refoulement.
 
 ### 3.3.3. Artikel 15, aanhef en onder c, Kwalificatieverordening
 

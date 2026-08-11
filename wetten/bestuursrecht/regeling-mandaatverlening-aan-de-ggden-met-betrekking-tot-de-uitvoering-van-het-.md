@@ -1,42 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2007, nr. VGP/PSL 2770996, houdende de Regeling mandaat- en volmachtverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen"
+citeertitel: "Regeling mandaatverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen"
 identifier: "BWBR0021917"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-05-01"
-last_updated: "2017-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021917"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9087523"
-version_id: "14508532"
-internal_id: "C19730251"
-label_id: "9066454"
-dtd_version: "2.0"
-original_entry_into_force: "2007-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021917/2017-05-01/0"
-intitule_bron: "Stcrt.2007-99"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-05-23"
-intitule_published: "2007-05-25"
-intitule_in_force: "2007-05-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-99"
-original_signed_date: "2007-05-23"
-original_published_date: "2007-05-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-99-p20-SC80553"
-entry_into_force_date: "2007-06-01"
-jci_1_3: "jci1.3:c:BWBR0021917&z=2017-05-01&g=2017-05-01"
-jci_1_0: "1.0:c:BWBR0021917&g=2017-05-01"
-citeertitel_status: "officieel"
-short_title: "Regeling mandaatverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen"
-signed_date: "2007-05-23"
-entry_into_force: "2007-06-01"
+publicatiedatum: 2007-06-01
+laatste_update: 2017-05-01
+status: geldig
+toestand: 2017-05-01
+bron: "https://wetten.overheid.nl/BWBR0021917"
+opgehaald: 2026-08-11
 ---
-# Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2007, nr. VGP/PSL 2770996, houdende de Regeling mandaat- en volmachtverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen
 
-Besluit:
+# Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2007, nr. VGP/PSL 2770996, houdende de Regeling mandaat- en volmachtverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen
 
 ##### Artikel 1
 
@@ -50,7 +26,7 @@ In deze regeling wordt verstaan onder:
 
 - d. besluit: [Warenwetbesluit tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021605);
 
-- e. door verlettering vervallen;
+- e. *door verlettering vervallen;*
 
 - f. retributie: retributie als bedoeld in [artikel 4, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4).
 
@@ -103,36 +79,3 @@ Deze regeling treedt in werking met ingang van 1 juni 2007.
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling mandaatverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen.
-
-## Bijlage 1
-
-| GGD | Gemandateerde |
-| --- | --- |
-| Dienst Gezondheid Jeugd | Directeur Publieke Gezondheid |
-| GGD Amsterdam | Directeur Publieke Gezondheid |
-| GGD Brabant Zuid-Oost | Directeur Publieke Gezondheid |
-| GGD Drenthe | Directeur Publieke Gezondheid |
-| GGD Flevoland | Directeur Publieke Gezondheid |
-| GGD Gelderland Zuid | Directeur Publieke Gezondheid |
-| GGD Gooi & Vechtstreek | Directeur Publieke Gezondheid |
-| GGD Groningen | Directeur Publieke Gezondheid |
-| GGD Haaglanden | Directeur Publieke Gezondheid |
-| GGD Hart voor Brabant | Directeur Publieke Gezondheid |
-| GGD Hollands Midden, Gouda | Directeur Publieke Gezondheid |
-| GGD Hollands Midden, Leiden | Directeur Publieke Gezondheid |
-| GGD Hollands Noorden | Directeur Publieke Gezondheid |
-| GGD IJsselland | Directeur Publieke Gezondheid |
-| GGD Noord en Oost Gelderland | Directeur Publieke Gezondheid |
-| GGD Rotterdam-Rijnmond | Directeur Publieke Gezondheid |
-| GGD Twente | Directeur Publieke Gezondheid |
-| GGD West Brabant | Directeur Publieke Gezondheid |
-| GGD Zaanstreek Waterland | Directeur Publieke Gezondheid |
-| GGD Zeeland | Directeur Publieke Gezondheid |
-| GGD Zuid Limburg | Directeur Publieke Gezondheid |
-| Veiligheids- en Gezondheidsregio Gelderland-Midden | Directeur Publieke Gezondheid |
-| Veiligheidsregio Fryslân | Directeur Publieke Gezondheid |
-| Veiligheidsregio Kennemerland | Directeur Publieke Gezondheid |
-| Veiligheidsregio Limburg Noord | Directeur Publieke Gezondheid |
-| GGD regio Utrecht | Directeur Publieke Gezondheid |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

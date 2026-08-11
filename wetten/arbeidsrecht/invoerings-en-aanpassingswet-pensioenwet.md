@@ -1,47 +1,18 @@
 ---
 title: "Wet van 7 december 2006 houdende invoering van de Pensioenwet (Invoerings- en aanpassingswet Pensioenwet)"
+citeertitel: "Invoerings- en aanpassingswet Pensioenwet"
 identifier: "BWBR0020828"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020828"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "8827163"
-version_id: "14010182"
-internal_id: "C19065441"
-label_id: "8808034"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020828/2019-01-01/0"
-intitule_bron: "Stb.2006-706"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-12-07"
-intitule_published: "2006-12-22"
-intitule_in_force: "2006-12-22"
-intitule_status: "goed"
-original_publication: "Stb.2006-706"
-original_signed_date: "2006-12-07"
-original_published_date: "2006-12-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "30655"
-original_url_id: "stb-2006-706"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020828&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0020828&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Invoerings- en aanpassingswet Pensioenwet"
-signed_date: "2006-12-07"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0020828"
+opgehaald: 2026-08-11
 ---
+
 # Wet van 7 december 2006 houdende invoering van de Pensioenwet (Invoerings- en aanpassingswet Pensioenwet)
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de invoering van de Pensioenwet en enkele daarmee samenhangende onderwerpen te regelen, zulks onder intrekking van de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Definities
 
@@ -49,9 +20,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. Pensioen- en spaarfondsenwet: de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) en de daarop berustende bepalingen zoals deze luidden op de peildatum;
+- – Pensioen- en spaarfondsenwet: de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) en de daarop berustende bepalingen zoals deze luidden op de peildatum;
 
-- –. peildatum: de dag voorafgaand aan de inwerkingtreding van [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1).
+- – peildatum: de dag voorafgaand aan de inwerkingtreding van [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1).
 
 2. De definities van [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) zijn van overeenkomstige toepassing op de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=7&z=2019-01-01&g=2019-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=8&z=2019-01-01&g=2019-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=9&z=2019-01-01&g=2019-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=10&z=2019-01-01&g=2019-01-01), het [eerste lid van de artikelen 11 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=11&z=2019-01-01&g=2019-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=18&z=2019-01-01&g=2019-01-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=20&z=2019-01-01&g=2019-01-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=21&z=2019-01-01&g=2019-01-01), [22, derde, vijfde, zevende, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=22&z=2019-01-01&g=2019-01-01), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=23&z=2019-01-01&g=2019-01-01), [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=24&z=2019-01-01&g=2019-01-01), [24a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=24a&z=2019-01-01&g=2019-01-01), [25, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=25&z=2019-01-01&g=2019-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=26&z=2019-01-01&g=2019-01-01), [29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=29&z=2019-01-01&g=2019-01-01), [30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=30&z=2019-01-01&g=2019-01-01), [32, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=32&z=2019-01-01&g=2019-01-01), [33, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=33&z=2019-01-01&g=2019-01-01) van de [artikelen 35 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=35&z=2019-01-01&g=2019-01-01), [42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=42&z=2019-01-01&g=2019-01-01), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=44&z=2019-01-01&g=2019-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=48&z=2019-01-01&g=2019-01-01), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=53&z=2019-01-01&g=2019-01-01), [59, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=59&z=2019-01-01&g=2019-01-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=63&z=2019-01-01&g=2019-01-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=64&z=2019-01-01&g=2019-01-01) en [66](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=66&z=2019-01-01&g=2019-01-01) van deze wet.
 
@@ -59,7 +30,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 2. Overgangsrecht
 
-##### Artikel 2. Intrekking van [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089)
+##### Artikel 2. Intrekking van Pensioen- en spaarfondsenwet
 
 De [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) wordt ingetrokken.
 
@@ -175,7 +146,7 @@ Indien uiterlijk op de peildatum een geldelijke, vastgestelde uitkering is overe
 
 5. Ten aanzien van de in het derde lid bedoelde pensioentoezegging waarbij na de datum van inwerkingtreding van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) geen verwerving van pensioen meer plaatsvindt, blijven, in afwijking van [artikel 2, de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=2) en [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0004195&hoofdstuk=I) en [III van de Regelen verzekeringsovereenkomsten Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004195&hoofdstuk=III) van toepassing.
 
-##### Artikel 19. Onderbrengingsplicht werkgever na toepassing [artikel 2, derde lid, PSW](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=2)
+##### Artikel 19. Onderbrengingsplicht werkgever na toepassing artikel 2, derde lid, PSW
 
 In afwijking van [artikel 2 blijft de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=2) van toepassing op een pensioentoezegging als bedoeld in [artikel 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=2), indien die pensioentoezegging op de peildatum niet is ondergebracht bij een pensioenuitvoerder op grond van:
 
@@ -311,7 +282,7 @@ In afwijking van [artikel 2 blijft de Pensioen- en spaarfondsenwet](https://wett
 
 ##### Artikel 28. Afkoop klein ouderdomspensioen bij beëindiging deelneming
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29. Afkoop klein partnerpensioen bij ingang
 
@@ -335,7 +306,7 @@ Vervallen
 
 ##### Artikel 31. Bevoegdheid tot afkoop van fiscaal bovenmatig pensioen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32. Waardeoverdracht bij wisseling
 
@@ -433,15 +404,19 @@ De [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=76), [
 
 ##### Artikel 45. Samenstelling bestuur pensioenfonds
 
-Vervallen
+*Vervallen*
+
+##### Artikel 45a. Raadpleging pensioengerechtigden
+
+*Vervallen*
 
 ##### Artikel 46. Statuten
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 47. Verbod instemmingsrecht
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48. Vrijwillige aansluiting bij een bedrijfstakpensioenfonds
 
@@ -449,23 +424,27 @@ Indien een werkgever zich uiterlijk op de peildatum heeft aangesloten bij een be
 
 ##### Artikel 48a. Solvabiliteitsvrijval
 
-Vervallen
+*Vervallen*
+
+##### Artikel 48b. Minimaal vereist eigen vermogen
+
+*Vervallen*
 
 ##### Artikel 49. Eisen ten aanzien van beleggingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49a. Parameters
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50. Jaarverslag
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51. Jaarrekening of verantwoording
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 52. Aanwijzing
 
@@ -605,33 +584,33 @@ Bij algemene maatregel van bestuur kunnen met het oog op de goede invoering van 
 
 #### Paragraaf 1. Sociale Zaken en Werkgelegenheid
 
-##### Artikel 68. [Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937)
+##### Artikel 68. Wet op de collectieve arbeidsovereenkomst
 
-Wijzigt de Wet op de collectieve arbeidsovereenkomst.
+*Wijzigt de Wet op de collectieve arbeidsovereenkomst.*
 
-##### Artikel 69. [Wet privatisering FVP](https://wetten.overheid.nl/jci1.3:c:BWBR0009756)
+##### Artikel 69. Wet privatisering FVP
 
-Wijzigt de Wet privatisering FVP.
+*Wijzigt de Wet privatisering FVP.*
 
-##### Artikel 70. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
+##### Artikel 70. Wet structuur uitvoeringsorganisatie werk en inkomen
 
-Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
+*Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.*
 
-##### Artikel 70a. [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809)
+##### Artikel 70a. Pensioenwet
 
-Wijzigt de Pensioenwet.
+*Wijzigt de Pensioenwet.*
 
-##### Artikel 71. [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092)
+##### Artikel 71. Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000
 
-Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
+*Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.*
 
-##### Artikel 71a. [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299)
+##### Artikel 71a. Wet gelijke behandeling van mannen en vrouwen
 
-Wijzigt de Wet gelijke behandeling van mannen en vrouwen.
+*Wijzigt de Wet gelijke behandeling van mannen en vrouwen.*
 
-##### Artikel 72. [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
+##### Artikel 72. Wet verplichte beroepspensioenregeling
 
-Wijzigt de Wet verplichte beroepspensioenregeling.
+*Wijzigt de Wet verplichte beroepspensioenregeling.*
 
 ##### Artikel 73. Integrale tekstpublicatie
 
@@ -643,91 +622,91 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 #### Paragraaf 2. Buitenlandse Zaken
 
-##### Artikel 74. [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296)
+##### Artikel 74. Sanctiewet 1977
 
-Wijzigt de Sanctiewet 1977.
+*Wijzigt de Sanctiewet 1977.*
 
-#### Paragraaf 2. Buitenlandse Zaken
+#### Paragraaf 3. Justitie
 
 ##### Artikel 75. Burgerlijk Wetboek
 
-Wijzigt het Burgerlijk Wetboek Boek 3 en Boek 7.
+*Wijzigt het Burgerlijk Wetboek Boek 3 en Boek 7.*
 
-##### Artikel 76. [Wet bestuursrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002144)
+##### Artikel 76. Wet bestuursrechtspraak bedrijfsorganisatie
 
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
+*Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.*
 
-##### Artikel 77. [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830)
+##### Artikel 77. Wet op de rechterlijke organisatie
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
-##### Artikel 78. [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388)
+##### Artikel 78. Wet op het notarisambt
 
-Wijzigt de Wet op het notarisambt.
+*Wijzigt de Wet op het notarisambt.*
 
-##### Artikel 79. [Wet verevening pensioenrechten bij scheiding](https://wetten.overheid.nl/jci1.3:c:BWBR0006641)
+##### Artikel 79. Wet verevening pensioenrechten bij scheiding
 
-Wijzigt de Wet verevening pensioenrechten bij scheiding.
+*Wijzigt de Wet verevening pensioenrechten bij scheiding.*
 
 #### Paragraaf 4. Binnenlandse Zaken en Koninkrijksrelaties
 
-##### Artikel 80. [Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding](https://wetten.overheid.nl/jci1.3:c:BWBR0008328)
+##### Artikel 80. Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding
 
-Wijzigt de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding.
+*Wijzigt de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding.*
 
-##### Artikel 81. [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791)
+##### Artikel 81. Wet privatisering ABP
 
-Wijzigt de Wet privatisering ABP.
+*Wijzigt de Wet privatisering ABP.*
 
 #### Paragraaf 5. Financiën
 
-##### Artikel 82. [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891)
+##### Artikel 82. Comptabiliteitswet 2001
 
-Wijzigt de Comptabiliteitswet 2001.
+*Wijzigt de Comptabiliteitswet 2001.*
 
-##### Artikel 83. [Fusiewet De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer](https://wetten.overheid.nl/jci1.3:c:BWBR0017317)
+##### Artikel 83. Fusiewet De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer
 
-Wijzigt de Fusiewet De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer.
+*Wijzigt de Fusiewet De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer.*
 
-##### Artikel 84. [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330)
+##### Artikel 84. Wet identificatie bij dienstverlening
 
-Wijzigt de Wet identificatie bij dienstverlening.
+*Wijzigt de Wet identificatie bij dienstverlening.*
 
-##### Artikel 85. [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
+##### Artikel 85. Wet op de loonbelasting 1964
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
-##### Artikel 85a. [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
+##### Artikel 85a. Wet inkomstenbelasting 2001
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
-##### Artikel 86. [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)
+##### Artikel 86. Wet op de vennootschapsbelasting 1969
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
-##### Artikel 87. [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657)
+##### Artikel 87. Wet toezicht effectenverkeer 1995
 
-Wijzigt de Wet toezicht effectenverkeer 1995.
+*Wijzigt de Wet toezicht effectenverkeer 1995.*
 
-##### Artikel 88. [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509)
+##### Artikel 88. Wet toezicht verzekeringsbedrijf 1993
 
-Wijzigt de Wet toezicht verzekeringsbedrijf 1993.
-
-#### Paragraaf 6. Defensie
-
-##### Artikel 89. [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955)
-
-Wijzigt de Kaderwet militaire pensioenen.
+*Wijzigt de Wet toezicht verzekeringsbedrijf 1993.*
 
 #### Paragraaf 6. Defensie
 
-##### Artikel 90. [Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819)
+##### Artikel 89. Kaderwet militaire pensioenen
 
-Wijzigt de Wet op de medische keuringen.
+*Wijzigt de Kaderwet militaire pensioenen.*
+
+#### Paragraaf 7. Volksgezondheid, Welzijn en Sport
+
+##### Artikel 90. Wet op de medische keuringen
+
+*Wijzigt de Wet op de medische keuringen.*
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-##### Artikel 91. Overgangsbepaling in verband met de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509)
+##### Artikel 91. Overgangsbepaling in verband met de Wet toezicht verzekeringsbedrijf 1993
 
 Als de uitoefening van het bedrijf van levensverzekeraar of het bedrijf van schadeverzekeraar wordt niet beschouwd:
 
@@ -735,35 +714,35 @@ Als de uitoefening van het bedrijf van levensverzekeraar of het bedrijf van scha
 
 - b. het handelen van een ondernemingsspaarfonds in de zin van [artikel 1, eerste lid, onderdeel d, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1), zoals deze luidde voor de datum van inwerkingtreding van deze wet, ter uitvoering van een door een werkgever getroffen regeling tot sparen voor een uitkering bij wijze van oudedagsvoorziening zolang sprake is van een spaarfonds als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&hoofdstuk=2&artikel=5&z=2019-01-01&g=2019-01-01).
 
-##### Artikel 92. Bepalingen in verband met inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+##### Artikel 92. Bepalingen in verband met inwerkingtreding van de Wet op het financieel toezicht
 
-Wijzigt de Wet op het financieel toezicht.
+*Wijzigt de Wet op het financieel toezicht.*
 
-##### Artikel 93. Wijziging [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) in verband met [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+##### Artikel 93. Wijziging Pensioenwet in verband met Wet op het financieel toezicht
 
-Wijzigt de Pensioenwet.
+*Wijzigt de Pensioenwet.*
 
-##### Artikel 93a. Wijziging [Invoerings- en aanpassingswet Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020616) in verband met latere invoering [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
+##### Artikel 93a. Wijziging Invoerings- en aanpassingswet Wet op het financieel toezicht in verband met latere invoering Wet verplichte beroepspensioenregeling
 
-Wijzigt de Invoerings- en aanpassingswet Wet op het financieel toezicht.
+*Wijzigt de Invoerings- en aanpassingswet Wet op het financieel toezicht.*
 
-##### Artikel 94. Wijziging [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) in verband met [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+##### Artikel 94. Wijziging Wet verplichte beroepspensioenregeling in verband met Wet op het financieel toezicht
 
-Wijzigt de Wet verplichte beroepspensioenregeling.
+*Wijzigt de Wet verplichte beroepspensioenregeling.*
 
-##### Artikel 95. Wijziging [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) in verband met eerdere invoering [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+##### Artikel 95. Wijziging Wet verplichte beroepspensioenregeling in verband met eerdere invoering Wet op het financieel toezicht
 
-Wijzigt de Wet verplichte beroepspensioenregeling.
+*Wijzigt de Wet verplichte beroepspensioenregeling.*
 
 ##### Artikel 95a. Bepalingen in verband met inwerkingtreding van de Wet algemene bepalingen burgerservicenummer
 
-Wijzigt de Pensioenwet.
+*Wijzigt de Pensioenwet.*
 
 ##### Artikel 95b. Bepalingen in verband met inwerkingtreding van de Wet tot wijziging van de Mededingingswet als gevolg van evaluatie van die wet
 
-Wijzigt de Mededingingswet.
+*Wijzigt de Mededingingswet.*
 
-##### Artikel 96. Overgangsbepalingen in verband met de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+##### Artikel 96. Overgangsbepalingen in verband met de Wet op het financieel toezicht
 
 1. Als de uitoefening van het bedrijf van levensverzekeraar of het bedrijf van schadeverzekeraar wordt niet beschouwd:
 
@@ -777,7 +756,7 @@ Wijzigt de Mededingingswet.
 
 - b. het beheren van individuele vermogens ten behoeve van ondernemingsspaarfondsen als bedoeld in onderdeel a of daaraan gelieerde fondsen door personen die zijn verbonden aan het fonds waaraan deze financiële dienst wordt verleend.
 
-##### Artikel 96a. Aanpassing in verband met hernummering [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+##### Artikel 96a. Aanpassing in verband met hernummering Wet op het financieel toezicht
 
 Onze Minister brengt voor de plaatsing van deze wet in het Staatsblad de in deze wet voorkomende verwijzingen naar artikelen uit de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in overeenstemming met de op grond van [artikel 7:1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=7:1) opnieuw vastgestelde nummering.
 
@@ -790,49 +769,3 @@ Onze Minister brengt voor de plaatsing van deze wet in het Staatsblad de in deze
 ##### Artikel 98. Citeertitel
 
 Deze wet wordt aangehaald als: Invoerings- en aanpassingswet Pensioenwet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 45a. Raadpleging pensioengerechtigden
-
-Vervallen
-
-### Hoofdstuk 3. Wijziging van andere wetten
-
-#### Paragraaf 1. Sociale Zaken en Werkgelegenheid
-
-#### Paragraaf 2. Buitenlandse Zaken
-
-#### Paragraaf 3. Justitie
-
-#### Paragraaf 4. Binnenlandse Zaken en Koninkrijksrelaties
-
-#### Paragraaf 5. Financiën
-
-#### Paragraaf 6. Defensie
-
-#### Paragraaf 7. Volksgezondheid, Welzijn en Sport
-
-### Hoofdstuk 4. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 48b. Minimaal vereist eigen vermogen
-
-Vervallen
-
-### Hoofdstuk 3. Wijziging van andere wetten
-
-#### Paragraaf 1. Sociale Zaken en Werkgelegenheid
-
-#### Paragraaf 3. Justitie
-
-#### Paragraaf 4. Binnenlandse Zaken en Koninkrijksrelaties
-
-#### Paragraaf 5. Financiën
-
-#### Paragraaf 7. Volksgezondheid, Welzijn en Sport
-
-### Hoofdstuk 4. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

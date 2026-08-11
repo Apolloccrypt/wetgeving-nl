@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 12 juli 2007, nr. WJZ 7081713, houdende regels inzake een erkenning als bedoeld in artikel 11, eerste lid, van de Metrologiewet (Regeling erkende keurders)"
+citeertitel: "Regeling erkende keurders meetinstrumenten"
 identifier: "BWBR0022278"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-20"
-last_updated: "2016-04-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022278"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9163373"
-version_id: "14662152"
-internal_id: "C19952461"
-label_id: "9142264"
-dtd_version: "2.0"
-original_entry_into_force: "2007-07-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022278/2016-04-20/0"
-intitule_bron: "Stcrt.2007-140"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-07-12"
-intitule_published: "2007-07-24"
-intitule_in_force: "2007-07-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-140"
-original_signed_date: "2007-07-12"
-original_published_date: "2007-07-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-140-p8-SC81422"
-entry_into_force_date: "2007-07-26"
-jci_1_3: "jci1.3:c:BWBR0022278&z=2016-04-20&g=2016-04-20"
-jci_1_0: "1.0:c:BWBR0022278&g=2016-04-20"
-citeertitel_status: "officieel"
-short_title: "Regeling erkende keurders meetinstrumenten"
-signed_date: "2007-07-12"
-entry_into_force: "2007-07-26"
+publicatiedatum: 2007-07-26
+laatste_update: 2016-04-20
+status: geldig
+toestand: 2016-04-20
+bron: "https://wetten.overheid.nl/BWBR0022278"
+opgehaald: 2026-08-11
 ---
+
 # Regeling van de Minister van Economische Zaken van 12 juli 2007, nr. WJZ 7081713, houdende regels inzake een erkenning als bedoeld in artikel 11, eerste lid, van de Metrologiewet (Regeling erkende keurders)
-
-Gelet op de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=11), en [21, tweede lid, van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=21);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -147,5 +121,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling erkende keurders meetinstrumenten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

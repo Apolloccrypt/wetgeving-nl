@@ -1,53 +1,28 @@
 ---
 title: "Wet van 6 december 2006 ter uitvoering van titel 7.5 (Pacht) van het Burgerlijk Wetboek inzake de samenstelling en werkwijze van de grondkamers en de centrale grondkamer (Uitvoeringswet grondkamers)"
+citeertitel: "Uitvoeringswet grondkamers"
 identifier: "BWBR0021912"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021912"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "9086073"
-version_id: "14503262"
-internal_id: "C19737891"
-label_id: "9065654"
-dtd_version: "2.0"
-original_entry_into_force: "2007-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021912/2024-01-01/0"
-intitule_bron: "Stb.2007-395"
-intitule_effect: "wijziging"
-intitule_signed: "2007-10-18"
-intitule_published: "2007-10-30"
-intitule_in_force: "2007-10-30"
-intitule_status: "goed"
-original_publication: "Stb.2007-164"
-original_signed_date: "2006-12-06"
-original_published_date: "2007-05-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "30833"
-original_url_id: "stb-2007-164"
-entry_into_force_date: "2007-09-01"
-jci_1_3: "jci1.3:c:BWBR0021912&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0021912&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet grondkamers"
-signed_date: "2006-12-06"
-entry_into_force: "2007-09-01"
+publicatiedatum: 2007-09-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0021912"
+opgehaald: 2026-08-11
 ---
+
 # Wet van 6 december 2006 ter uitvoering van titel 7.5 (Pacht) van het Burgerlijk Wetboek inzake de samenstelling en werkwijze van de grondkamers en de centrale grondkamer (Uitvoeringswet grondkamers)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is tegelijk met het wetsvoorstel tot vaststelling en invoering van [titel 5 van Boek 7 van het Burgerlijk Wetboek](onbekend) onder gelijktijdige intrekking van de [Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002269) de bepalingen van de [Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002269) over de samenstelling en werkwijze van de grondkamers en van de Centrale Grondkamer over te hevelen naar een wet tot uitvoering van [titel 5 van Boek 7 van het Burgerlijk Wetboek](onbekend), alsmede enige wetgeving aan te passen aan genoemde titel;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Samenstelling en werkwijze van de grondkamers en van de centrale grondkamer
 
 ##### Artikel 1
 
 Er zijn grondkamers, waarvan het rechtsgebied en de standplaats door Ons worden aangewezen.
+
+##### Artikel 1a
+
+Op de grondkamers is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing, met uitzondering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22).
 
 ##### Artikel 2
 
@@ -263,7 +238,7 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 ##### Artikel 28
 
-1. Indien bij een beslissing op een verzoek in andere dan de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=25&z=2024-01-01&g=2024-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=26&z=2024-01-01&g=2024-01-01) bedoelde gevallen naar het oordeel van de grondkamer uitsluitend de verzoeker belang heeft en de grondkamer het verzoek niet aanstonds kan toewijzen, is de grondkamer bevoegd – en op een daartoe strekkend verzoek verplicht – een mondelinge behandeling van het bij haar ingediende verzoek te doen plaats hebben op een door haar te bepalen zitting.
+1. Indien bij een beslissing op een verzoek in andere dan de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=25&z=2024-01-01&g=2024-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=26&z=2024-01-01&g=2024-01-01) bedoelde gevallen naar het oordeel van de grondkamer uitsluitend de verzoeker belang heeft en de grondkamer het verzoek niet aanstonds kan toewijzen, is de grondkamer bevoegd – en op een daartoe strekkend verzoek verplicht – een mondelinge behandeling van het bij haar ingediende verzoek te doen plaats hebben op een door haar te bepalen zitting.
 
 2. Indien een onderzoek door een van haar leden of door een deskundige heeft plaats gehad, zendt de grondkamer aan de verzoeker, tegelijk met haar oproep voor de mondelinge behandeling, een afschrift van het rapport van het onderzoek toe.
 
@@ -369,7 +344,7 @@ Bij algemene maatregel van bestuur worden regelen gesteld over de wijze waarop d
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
@@ -383,7 +358,7 @@ Vervallen
 
 Indien binnen de in de wet gestelde termijn een verzoek is ingediend of een vordering is ingesteld bij de pachtkamer van de rechtbank en deze beslist, dat zij niet bevoegd is daarvan kennis te nemen, kan het verzoek, indien de grondkamer bevoegd is daarvan kennis te nemen en een wettelijke termijn, waarbinnen het verzoek bij de grondkamer moet worden ingediend, niet meer in acht kan worden genomen, niettemin nog binnen een maand na de beslissing van de pachtkamer bij de grondkamer worden ingediend. Hetzelfde geldt, indien een dergelijke beslissing door de pachtkamer van het gerechtshof Arnhem-Leeuwarden wordt bevestigd dan wel door haar de pachtkamer bij de rechtbank alsnog niet bevoegd wordt verklaard van het verzoek of van de vordering kennis te nemen.
 
-### Hoofdstuk 6. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+### Hoofdstuk 6. Algemene wet bestuursrecht
 
 ##### Artikel 46
 
@@ -393,35 +368,35 @@ Op het bepaalde in deze wet is de [Algemene wet bestuursrecht](https://wetten.ov
 
 ##### Artikel 47
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel 48
 
-Wijzigt de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën.
+*Wijzigt de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën.*
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Wijzigt de Onteigeningswet.
+*Wijzigt de Onteigeningswet.*
 
 ##### Artikel 51
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 52
 
-Wijzigt de Reconstructiewet Midden-Delfland.
+*Wijzigt de Reconstructiewet Midden-Delfland.*
 
 ##### Artikel 53
 
-Wijzigt de Wet agrarisch grondverkeer.
+*Wijzigt de Wet agrarisch grondverkeer.*
 
 ##### Artikel 54
 
-Wijzigt de Wet voorkeursrecht gemeenten.
+*Wijzigt de Wet voorkeursrecht gemeenten.*
 
 ### Hoofdstuk 8. Slotartikelen
 
@@ -439,7 +414,7 @@ De [Wet van 12 oktober 1995 tot wijziging van de Pachtwet](https://wetten.overhe
 
 ##### Artikel 58
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 59
 
@@ -448,33 +423,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 60
 
 Deze wet wordt aangehaald als: Uitvoeringswet grondkamers.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-Op de grondkamers is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing, met uitzondering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22).
-
-### Hoofdstuk 2. Verzoeken aan de grondkamer
-
-#### Paragraaf 1. De indiening
-
-#### Paragraaf 2. Het onderzoek
-
-#### Paragraaf 3. De behandeling
-
-#### Paragraaf 4. De behandeling in hoger beroep
-
-### Hoofdstuk 3. Competentiegeschillen
-
-### Hoofdstuk 4. Algemene bepalingen
-
-### Hoofdstuk 5. Bijzondere processuele bepaling
-
-### Hoofdstuk 6. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
-
-### Hoofdstuk 7. Aanpassing wetgeving
-
-### Hoofdstuk 8. Slotartikelen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

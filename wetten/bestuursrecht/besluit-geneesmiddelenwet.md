@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 19 maart 2007, houdende uitvoeringsvoorschriften krachtens de Geneesmiddelenwet (Besluit Geneesmiddelenwet)"
+citeertitel: "Besluit Geneesmiddelenwet"
 identifier: "BWBR0021672"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021672"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "9038633"
-version_id: "14405002"
-internal_id: "C19866831"
-label_id: "9017764"
-dtd_version: "2.0"
-original_entry_into_force: "2007-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021672/2018-08-01/0"
-intitule_bron: "Stb.2007-128"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-03-19"
-intitule_published: "2007-04-12"
-intitule_in_force: "2007-06-28"
-intitule_status: "goed"
-original_publication: "Stb.2007-128"
-original_signed_date: "2007-03-19"
-original_published_date: "2007-04-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2007-128"
-entry_into_force_date: "2007-07-01"
-jci_1_3: "jci1.3:c:BWBR0021672&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0021672&g=2018-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Geneesmiddelenwet"
-signed_date: "2007-03-19"
-entry_into_force: "2007-07-01"
+publicatiedatum: 2007-07-01
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0021672"
+opgehaald: 2026-08-11
 ---
+
 # Besluit van 19 maart 2007, houdende uitvoeringsvoorschriften krachtens de Geneesmiddelenwet (Besluit Geneesmiddelenwet)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 10 juli 2006, kenmerk GMT/MVG 2697861;
-
-Gelet op de [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=65), [66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=66), en [75, eerste lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=75);
-
-De Raad van State gehoord (advies van 14 september 2006, no. W.13.06.0290/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 13 maart 2007, kenmerk DWJZ/SWW-2754188;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Geneesmiddelenwet in werking treedt.
 
 #### Paragraaf 1. Begripsbepaling
 
@@ -166,13 +132,19 @@ Ten aanzien van de geneesmiddelenvoorziening binnen de krijgsmacht:
 
 - a. zijn de [artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=18), en [40, tweede lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=40) niet van toepassing indien:
 
-- 1°. het geneesmiddel noodzakelijk is voor operationele inzet van de krijgsmacht, en
+   - 1°. het geneesmiddel noodzakelijk is voor operationele inzet van de krijgsmacht, en
 
-- 2°. over het gebruik van het geneesmiddel overeenstemming bestaat met de Inspectie gezondheidszorg en jeugd;
+   - 2°. over het gebruik van het geneesmiddel overeenstemming bestaat met de Inspectie gezondheidszorg en jeugd;
 
 - b. zijn de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61) en [62 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=62) niet van toepassing in gevallen waarin het ter hand stellen van het geneesmiddel geschiedt tijdens operationele inzet van de krijgsmacht dan wel tijdens de voorbereiding daarop, door een daartoe opgeleide militair.
 
 #### Paragraaf 4. Slotbepalingen
+
+##### Artikel 13a
+
+1. In dit artikel wordt verstaan onder transparantieregister: het register, gehouden door de Stichting Transparantieregister Zorg, ter bevordering van de transparantie inzake financiële betrekkingen tussen enerzijds artsen, apothekers, tandartsen, verloskundigen of verpleegkundigen als bedoeld in [artikel 36, veertiende lid, onder d, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36), en anderzijds ondernemers als bedoeld in [artikel 82, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=82).
+
+2. De ondernemers, bedoeld in [artikel 82, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=82), zijn gehouden bij de gegevens inzake de in het eerste lid bedoelde financiële betrekkingen die zij ten behoeve van de vermelding in het transparantieregister aan de rechtspersoon verstrekken, het nummer, bedoeld in artikel [3, tweede lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), te vermelden van degene op wie de gegevens betrekking hebben.
 
 ##### Artikel 14
 
@@ -181,13 +153,3 @@ Indien het bij koninklijke boodschap van 8 december 2003 ingediende voorstel van
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit Geneesmiddelenwet.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 13a
-
-1. In dit artikel wordt verstaan onder transparantieregister: het register, gehouden door de Stichting Transparantieregister Zorg, ter bevordering van de transparantie inzake financiële betrekkingen tussen enerzijds artsen, apothekers, tandartsen, verloskundigen of verpleegkundigen als bedoeld in [artikel 36, veertiende lid, onder d, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36), en anderzijds ondernemers als bedoeld in [artikel 82, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=82).
-
-2. De ondernemers, bedoeld in [artikel 82, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=82), zijn gehouden bij de gegevens inzake de in het eerste lid bedoelde financiële betrekkingen die zij ten behoeve van de vermelding in het transparantieregister aan de rechtspersoon verstrekken, het nummer, bedoeld in artikel [3, tweede lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), te vermelden van degene op wie de gegevens betrekking hebben.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,46 +1,32 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 december 2006, nr. AV/PB/2006/102511a, tot Vaststelling van regels met betrekking tot de verplichtstelling op grond van de Wet verplichte beroepspensioenregeling (Regeling verplichtstelling beroepspensioenregeling)"
+citeertitel: "Regeling verplichtstelling beroepspensioenregeling"
 identifier: "BWBR0020895"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020895"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "8846313"
-version_id: "19854522"
-internal_id: "C27885451"
-label_id: "8826104"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020895/2021-01-01/0"
-intitule_bron: "Stcrt.2006-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-12-19"
-intitule_published: "2006-12-28"
-intitule_in_force: "2006-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25826"
-original_signed_date: "2012-12-06"
-original_published_date: "2012-12-14"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2012-25826"
-entry_into_force_date: "2012-12-06"
-jci_1_3: "jci1.3:c:BWBR0020895&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0020895&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling verplichtstelling beroepspensioenregeling"
-signed_date: "2012-12-06"
-entry_into_force: "2012-12-06"
+publicatiedatum: 2012-12-06
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0020895"
+opgehaald: 2026-08-11
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 december 2006, nr. AV/PB/2006/102511a, tot Vaststelling van regels met betrekking tot de verplichtstelling op grond van de Wet verplichte beroepspensioenregeling (Regeling verplichtstelling beroepspensioenregeling)
 
-Gelet op [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=6), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=9), [13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=18) en [19, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=19);
-
-Besluit:
-
 #### Paragraaf 1. Verplichtstelling
+
+##### Artikel a1. Elektronische aanvraag en communicatie
+
+Tenzij naar het oordeel van de minister sprake is van omstandigheden die zich daartegen verzetten, geschieden uitsluitend langs elektronische weg de aanvragen en de daaropvolgende communicatie:
+
+- a. van de verplichtstelling, bedoeld in [artikel 5, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=5);
+
+- b. tot wijziging van de verplichtstelling, bedoeld in [artikel 9, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=9);
+
+- c. tot intrekking van de verplichtstelling, bedoeld in [artikel 13, eerste en tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13);
+
+- d. tot ontheffing van de verplichtstelling, bedoeld in [artikel 18, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=18).
 
 ##### Artikel 1. Aanvraag van de verplichtstelling
 
@@ -56,21 +42,21 @@ De aanvraag van de verplichtstelling, bedoeld in [artikel 5, eerste lid, van de 
 
 - e. een opgave van representativiteitgegevens in de vorm van:
 
-- 1°. het aantal beroepsgenoten, dat lid is van de bij de aanvraag van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in de beroepsgroep waarop de aanvraag van de verplichtstelling betrekking heeft, alsmede, indien de aanvraag ook betrekking heeft op beroepsgenoten in loondienst;
+   - 1°. het aantal beroepsgenoten, dat lid is van de bij de aanvraag van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in de beroepsgroep waarop de aanvraag van de verplichtstelling betrekking heeft, alsmede, indien de aanvraag ook betrekking heeft op beroepsgenoten in loondienst;
 
-- 2°. het aantal beroepsgenoten in loondienst dat lid is van de bij de aanvraag van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in loondienst in de beroepsgroep waarop de aanvraag van de verplichtstelling betrekking heeft; en
+   - 2°. het aantal beroepsgenoten in loondienst dat lid is van de bij de aanvraag van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in loondienst in de beroepsgroep waarop de aanvraag van de verplichtstelling betrekking heeft; en
 
 - f. een toelichting op de wijze van verzameling van de representativiteitgegevens, bedoeld in onderdeel e, die in ieder geval het volgende bevat:
 
-- 1°. een opgave van de gebruikte bronnen voor de aantallen beroepsgenoten en beroepsgenoten in loondienst als bedoeld in onderdeel e, onder 1° en 2°;
+   - 1°. een opgave van de gebruikte bronnen voor de aantallen beroepsgenoten en beroepsgenoten in loondienst als bedoeld in onderdeel e, onder 1° en 2°;
 
-- 2°. een opgave van de gehanteerde onderzoeksmethode;
+   - 2°. een opgave van de gehanteerde onderzoeksmethode;
 
-- 3°. een opgave van de wijze van meting;
+   - 3°. een opgave van de wijze van meting;
 
-- 4°. een opgave van de peildatum of de periode waarop de cijfers betrekking hebben;
+   - 4°. een opgave van de peildatum of de periode waarop de cijfers betrekking hebben;
 
-- 5°. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van het beroepspensioenfonds of dat deel van het beroepspensioenfonds waarop de aanvraag van de verplichtstelling betrekking heeft. Daarbij is duidelijk dat in de werkingssfeer van het beroepspensioenfonds uitgesloten categorieën beroepsgenoten en beroepsgenoten in loondienst in de tellingen buiten beschouwing zijn gelaten.
+   - 5°. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van het beroepspensioenfonds of dat deel van het beroepspensioenfonds waarop de aanvraag van de verplichtstelling betrekking heeft. Daarbij is duidelijk dat in de werkingssfeer van het beroepspensioenfonds uitgesloten categorieën beroepsgenoten en beroepsgenoten in loondienst in de tellingen buiten beschouwing zijn gelaten.
 
 ##### Artikel 2. Assurancerapport
 
@@ -88,21 +74,21 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 9, eerst
 
 - d. een opgave van representativiteitgegevens in de vorm van:
 
-- 1°. het aantal beroepsgenoten dat lid is van de bij de aanvraag tot wijziging van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in de beroepsgroep waarop de aanvraag tot wijziging van de verplichtstelling betrekking heeft, alsmede, indien de aanvraag ook betrekking heeft op beroepsgenoten in loondienst;
+   - 1°. het aantal beroepsgenoten dat lid is van de bij de aanvraag tot wijziging van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in de beroepsgroep waarop de aanvraag tot wijziging van de verplichtstelling betrekking heeft, alsmede, indien de aanvraag ook betrekking heeft op beroepsgenoten in loondienst;
 
-- 2°. het aantal beroepsgenoten in loondienst dat lid is van de bij de aanvraag tot wijziging van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in loondienst in de beroepsgroep waarop de aanvraag tot wijziging van de verplichtstelling betrekking heeft; en
+   - 2°. het aantal beroepsgenoten in loondienst dat lid is van de bij de aanvraag tot wijziging van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in loondienst in de beroepsgroep waarop de aanvraag tot wijziging van de verplichtstelling betrekking heeft; en
 
 - e. een toelichting op de wijze van verzameling van de representativiteitgegevens, bedoeld in onderdeel d, die in ieder geval het volgende bevat:
 
-- 1°. een opgave van de gebruikte bronnen voor de aantallen beroepsgenoten en beroepsgenoten in loondienst als bedoeld in onderdeel d, onder 1° en 2°;
+   - 1°. een opgave van de gebruikte bronnen voor de aantallen beroepsgenoten en beroepsgenoten in loondienst als bedoeld in onderdeel d, onder 1° en 2°;
 
-- 2°. een opgave van de gehanteerde onderzoeksmethode;
+   - 2°. een opgave van de gehanteerde onderzoeksmethode;
 
-- 3°. een opgave van de wijze van meting;
+   - 3°. een opgave van de wijze van meting;
 
-- 4°. een opgave van de peildatum of de periode waarop de cijfers betrekking hebben;
+   - 4°. een opgave van de peildatum of de periode waarop de cijfers betrekking hebben;
 
-- 5°. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van het beroepspensioenfonds of dat deel van het beroepspensioenfonds waarop de aanvraag tot wijziging van de verplichtstelling betrekking heeft. Daarbij is duidelijk dat in de werkingssfeer van het beroepspensioenfonds uitgesloten categorieën beroepsgenoten en beroepsgenoten in loondienst in de tellingen buiten beschouwing zijn gelaten.
+   - 5°. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van het beroepspensioenfonds of dat deel van het beroepspensioenfonds waarop de aanvraag tot wijziging van de verplichtstelling betrekking heeft. Daarbij is duidelijk dat in de werkingssfeer van het beroepspensioenfonds uitgesloten categorieën beroepsgenoten en beroepsgenoten in loondienst in de tellingen buiten beschouwing zijn gelaten.
 
 ##### Artikel 4. Assurancerapport
 
@@ -118,21 +104,21 @@ De Minister van Sociale Zaken en Werkgelegenheid kan naar aanleiding van de opga
 
 - c. een opgave van:
 
-- 1°. het aantal beroepsgenoten dat lid is van de bij de aanvraag tot intrekking van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in de beroepsgroep waarop de aanvraag tot intrekking van de verplichtstelling betrekking heeft, alsmede, indien de aanvraag ook betrekking heeft op beroepsgenoten in loondienst;
+   - 1°. het aantal beroepsgenoten dat lid is van de bij de aanvraag tot intrekking van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in de beroepsgroep waarop de aanvraag tot intrekking van de verplichtstelling betrekking heeft, alsmede, indien de aanvraag ook betrekking heeft op beroepsgenoten in loondienst;
 
-- 2°. het aantal beroepsgenoten in loondienst dat lid is van de bij de aanvraag tot intrekking van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in loondienst in de beroepsgroep waarop de aanvraag tot intrekking van de verplichtstelling betrekking heeft; en
+   - 2°. het aantal beroepsgenoten in loondienst dat lid is van de bij de aanvraag tot intrekking van de verplichtstelling betrokken beroepspensioenvereniging onderscheidenlijk het aantal beroepsgenoten in loondienst in de beroepsgroep waarop de aanvraag tot intrekking van de verplichtstelling betrekking heeft; en
 
 - d. een toelichting op de wijze van verzameling van de representativiteitgegevens, die in ieder geval het volgende bevat:
 
-- 1°. een opgave van de gebruikte bronnen voor de aantallen beroepsgenoten en beroepsgenoten in loondienst als bedoeld in onderdeel c, onder 1° en 2°;
+   - 1°. een opgave van de gebruikte bronnen voor de aantallen beroepsgenoten en beroepsgenoten in loondienst als bedoeld in onderdeel c, onder 1° en 2°;
 
-- 2°. een opgave van de gehanteerde onderzoeksmethode;
+   - 2°. een opgave van de gehanteerde onderzoeksmethode;
 
-- 3°. een opgave van de wijze van meting;
+   - 3°. een opgave van de wijze van meting;
 
-- 4°. een opgave van de peildatum of de periode waarop de cijfers betrekking hebben;
+   - 4°. een opgave van de peildatum of de periode waarop de cijfers betrekking hebben;
 
-- 5°. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van het beroepspensioenfonds of dat deel van het beroepspensioenfonds waarop de aanvraag tot intrekking van de verplichtstelling betrekking heeft. Daarbij is duidelijk dat in de werkingssfeer van het beroepspensioenfonds uitgesloten categorieën beroepsgenoten en beroepsgenoten in loondienst in de tellingen buiten beschouwing zijn gelaten.
+   - 5°. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van het beroepspensioenfonds of dat deel van het beroepspensioenfonds waarop de aanvraag tot intrekking van de verplichtstelling betrekking heeft. Daarbij is duidelijk dat in de werkingssfeer van het beroepspensioenfonds uitgesloten categorieën beroepsgenoten en beroepsgenoten in loondienst in de tellingen buiten beschouwing zijn gelaten.
 
 2. Onverminderd het eerste lid, bevat de aanvraag tot intrekking van de verplichtstelling voor één of meer bepaalde groepen van beroepsgenoten, bedoeld in [artikel 13, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13), tevens:
 
@@ -171,6 +157,10 @@ De aanvragen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BW
 2. Indien in verband met het nemen van een besluit als bedoeld in het eerste lid informatie of advies is gevraagd aan een persoon of instantie kan de termijn, bedoeld in het eerste lid, ten hoogste twee maal worden verlengd met een periode van maximaal dertien weken en worden verzoekende partijen van deze verlenging in kennis gesteld.
 
 3. Indien verzoekende partijen niet of niet volledig binnen zes weken reageren op een verzoek van de Minister van Sociale Zaken en Werkgelegenheid of De Nederlandsche Bank om aanvullende informatie dan wel binnen acht weken in geval van een verzoek van De Nederlandsche Bank om wijziging van statuten of reglementen, krijgen zij vier weken om alsnog te reageren. Indien ook na deze periode niet of niet volledig is gereageerd wordt de aanvraag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2021-01-01&g=2021-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2021-01-01&g=2021-01-01) niet verder behandeld. Hiervan wordt mededeling gedaan in de Staatscourant.
+
+##### Artikel 9a. Elektronische communicatie
+
+De minister draagt zorg voor de noodzakelijke elektronische infrastructuur waarmee de aanvragen, bedoeld in [artikel a1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=a1&z=2021-01-01&g=2021-01-01), betrouwbaar en vertrouwelijk kunnen worden verzonden. Bij de verzending van de aanvragen, bedoeld in artikel a1, wordt gebruik gemaakt van de door de minister ter beschikking gestelde elektronische formulieren en de door hem erkende methode van authenticatie.
 
 #### Paragraaf 2. Gemoedsbezwaren
 
@@ -218,7 +208,7 @@ De persoon die een ontheffing heeft, betaalt dezelfde bedragen welke hij verschu
 
 ##### Artikel 16. Overgangsrecht
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17. Intrekking regelingen
 
@@ -228,42 +218,8 @@ Vervallen
 
 ##### Artikel 18. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2007.
+Deze regeling treedt in werking met ingang van 1 januari 2007.
 
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling verplichtstelling beroepspensioenregeling.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a. Elektronische communicatie
-
-De minister draagt zorg voor de noodzakelijke elektronische infrastructuur waarmee de aanvragen, bedoeld in [artikel a1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=a1&z=2021-01-01&g=2021-01-01), betrouwbaar en vertrouwelijk kunnen worden verzonden. Bij de verzending van de aanvragen, bedoeld in artikel a1, wordt gebruik gemaakt van de door de minister ter beschikking gestelde elektronische formulieren en de door hem erkende methode van authenticatie.
-
-#### Paragraaf 2. Gemoedsbezwaren
-
-## Bijlage
-
-Ligt ter inzage bij de Directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving (UAW) van het Ministerie van Sociale Zaken en Werkgelegenheid en is gepubliceerd op http://cao.minszw.nl.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel a1. Elektronische aanvraag en communicatie
-
-Tenzij naar het oordeel van de minister sprake is van omstandigheden die zich daartegen verzetten, geschieden uitsluitend langs elektronische weg de aanvragen en de daaropvolgende communicatie:
-
-- a. van de verplichtstelling, bedoeld in [artikel 5, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=5);
-
-- b. tot wijziging van de verplichtstelling, bedoeld in [artikel 9, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=9);
-
-- c. tot intrekking van de verplichtstelling, bedoeld in [artikel 13, eerste en tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13);
-
-- d. tot ontheffing van de verplichtstelling, bedoeld in [artikel 18, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=18).
-
-#### Paragraaf 2. Gemoedsbezwaren
-
-## Bijlage
-
-Vervallen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

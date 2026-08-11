@@ -1,46 +1,22 @@
 ---
 title: "Wet van 11 mei 2007 tot wijziging van de Algemene pensioenwet politieke ambtsdragers in verband met de wijziging van de algemene voor pensioenfondsen en deelnemers aan pensioenregelingen geldende bepalingen inzake waardeoverdracht van pensioenaanspraken"
+citeertitel: "Wijzigingswet Algemene pensioenwet politieke ambtsdragers (wijziging bepalingen inzake waardeoverdracht pensioenaanspraken)"
 identifier: "BWBR0021985"
-country: "nl"
-rank: "wet"
-publication_date: "2007-06-06"
-last_updated: "2007-06-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021985"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "9101573"
-version_id: "14535962"
-internal_id: "C19770731"
-label_id: "9080434"
-dtd_version: "2.0"
-original_entry_into_force: "2007-06-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021985/2007-06-06/0"
-intitule_bron: "Stb.2007-189"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-05-11"
-intitule_published: "2007-06-05"
-intitule_in_force: "2007-06-05"
-intitule_status: "goed"
-original_publication: "Stb.2007-189"
-original_signed_date: "2007-05-11"
-original_published_date: "2007-06-05"
-original_effect: "nieuwe-regeling"
-original_dossier: "30898"
-original_url_id: "stb-2007-189"
-entry_into_force_date: "2007-06-06"
-entry_into_force_dossier: "30898"
-jci_1_3: "jci1.3:c:BWBR0021985&z=2007-06-06&g=2007-06-06"
-jci_1_0: "1.0:c:BWBR0021985&g=2007-06-06"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Algemene pensioenwet politieke ambtsdragers (wijziging bepalingen inzake waardeoverdracht pensioenaanspraken)"
-signed_date: "2007-05-11"
-entry_into_force: "2007-06-06"
+publicatiedatum: 2007-06-06
+laatste_update: 2007-06-06
+status: geldig
+toestand: 2007-06-06
+bron: "https://wetten.overheid.nl/BWBR0021985"
+opgehaald: 2026-08-11
 ---
+
 # Wet van 11 mei 2007 tot wijziging van de Algemene pensioenwet politieke ambtsdragers in verband met de wijziging van de algemene voor pensioenfondsen en deelnemers aan pensioenregelingen geldende bepalingen inzake waardeoverdracht van pensioenaanspraken
 
 ##### Artikel I
 
-Wijzigt de Algemene pensioenwet politieke ambtsdragers.
+*Wijzigt de Algemene pensioenwet politieke ambtsdragers.*
 
 ##### Artikel II
 
@@ -59,11 +35,3 @@ Tot het tijdstip waarop het bij koninklijk boodschap van 20 december 2005 ingedi
 - b. indien het bij koninklijk boodschap van 20 december 2005 ingediende voorstel van wet, houdende regels betreffende pensioenen ([Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809)) (Kamerstukken II 2005/06, 30 413, nr. 2) nadat het tot wet is verheven, op een eerder tijdstip in werking is getreden, [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0021985&artikel=I&z=2007-06-06&g=2007-06-06) terugwerkt tot en met dat tijdstip.
 
 2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0021985&artikel=II&z=2007-06-06&g=2007-06-06) werkt terug tot en met 8 februari 2005.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) de bepalingen inzake het recht op waardeoverdracht van pensioenaanspraken van politieke ambtsdragers aan te passen aan gewijzigde algemene bepalingen inzake waardeoverdracht die gelden voor pensioenfondsen en deelnemers aan pensioenregelingen, alsmede in genoemde wet enkele bepalingen aan te passen in verband met de invoering van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,48 +1,18 @@
 ---
 title: "Aspectgebied Internationaal belastingrecht; dividendbelasting; Belastingregeling voor het Koninkrijk, Aruba; vrijstelling- en teruggaafprocedures"
+citeertitel: "Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2007 (Aruba)"
 identifier: "BWBR0022598"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2007-10-12"
-last_updated: "2007-10-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022598"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "9222753"
-version_id: "14791882"
-internal_id: "C20120951"
-label_id: "9201534"
-dtd_version: "2.0"
-original_entry_into_force: "2007-10-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022598/2007-10-12/0"
-intitule_bron: "Stcrt.2007-196"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-09-27"
-intitule_published: "2007-10-10"
-intitule_in_force: "2007-10-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-196"
-original_signed_date: "2007-09-27"
-original_published_date: "2007-10-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-196-p12-SC82431"
-entry_into_force_date: "2007-10-12"
-jci_1_3: "jci1.3:c:BWBR0022598&z=2007-10-12&g=2007-10-12"
-jci_1_0: "1.0:c:BWBR0022598&g=2007-10-12"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2007 (Aruba)"
-signed_date: "2007-09-27"
-entry_into_force: "2007-10-12"
+publicatiedatum: 2007-10-12
+laatste_update: 2007-10-12
+status: geldig
+toestand: 2007-10-12
+bron: "https://wetten.overheid.nl/BWBR0022598"
+opgehaald: 2026-08-11
 ---
+
 # Aspectgebied Internationaal belastingrecht; dividendbelasting; Belastingregeling voor het Koninkrijk, Aruba; vrijstelling- en teruggaafprocedures
-
-De staatssecretaris van Financiën heeft het volgende besloten.
-
-Deze regeling bevat de geactualiseerde uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk (Aruba).
-
-Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2007 (Aruba)
-
-Ter uitvoering van [artikel 11, vierde lid, van de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=11), zoals deze is gewijzigd bij Rijkswet van 5 december 1985, Stb. 645, bij [Rijkswet van 13 december 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008424), Stb. 644, bij Rijkswet van 14 december 2001, Stb. 647 en bij Rijkswet van 26 mei 2005, Stb. 292, stel ik in overeenstemming met de Minister van Financiën van Aruba de navolgende regeling vast met bijlage (formulier IB 95(2) ARU):
 
 ### Algemeen
 
@@ -54,7 +24,7 @@ Deze regeling neemt over de begrippen van de Belastingregeling voor het Koninkri
 
 ##### Artikel 2
 
-1. Een lichaam dat inwoner van Aruba is, en dat ingevolge [artikel 11, derde lid, eerste en tweede volzin, van de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=11), aanspraak heeft op vermindering van dividendbelasting, levert voor het geldend maken van die aanspraak bij de bevoegde aanslagregelende autoriteit over zijn plaats van vestiging een ingevulde en ondertekende verklaring in tweevoud in op een formulier volgens het in de bijlage opgenomen model (formulier IB 95(2) ARU). Nadat het lichaam een exemplaar van de verklaring, voorzien van dagtekening en ondertekening van de daarop voorkomende bevestiging omtrent de woonplaats, van vorenbedoelde aanslagregelende autoriteit heeft terugontvangen, legt het dit over bij het innen van de dividenden.
+1. Een lichaam dat inwoner van Aruba is, en dat ingevolge [artikel 11, derde lid, eerste en tweede volzin, van de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=11), aanspraak heeft op vermindering van dividendbelasting, levert voor het geldend maken van die aanspraak bij de bevoegde aanslagregelende autoriteit over zijn plaats van vestiging een ingevulde en ondertekende verklaring in tweevoud in op een formulier volgens het in de [bijlage](https://wetten.overheid.nl/BWBR0022598) opgenomen model (formulier IB 95(2) ARU). Nadat het lichaam een exemplaar van de verklaring, voorzien van dagtekening en ondertekening van de daarop voorkomende bevestiging omtrent de woonplaats, van vorenbedoelde aanslagregelende autoriteit heeft terugontvangen, legt het dit over bij het innen van de dividenden.
 
 2. De vennootschap die het dividend verschuldigd is, is bevoegd het dividend uit te betalen onder aftrek van dividendbelasting naar een tarief van 7,5 percent indien de genieter van de opbrengst het van een ondertekende bevestiging omtrent het inwonerschap voorziene exemplaar van de in het eerste lid bedoelde verklaring heeft overgelegd en voorts op het formulier is verklaard dat het dividend in Aruba is onderworpen aan belasting met dien verstande dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op het dividend ten minste 8,3 percent bedraagt en deze verklaring op het formulier is bevestigd door de aanslagregelende autoriteit in Aruba.
 
@@ -86,7 +56,7 @@ Deze regeling neemt over de begrippen van de Belastingregeling voor het Koninkri
 
 2. Indien meer dan 5 percent dividendbelasting is ingehouden van dividenden betaald door een vennootschap aan een lichaam dat inwoner van Aruba is, terwijl ingevolge [artikel 11, derde lid, tweede volzin, van de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=11), de daarop in te houden dividendbelasting 5 percent bedraagt, heeft dat lichaam, indien het ter zake van die dividenden is onderworpen aan een tarief van tenminste 5,5 percent en indien tevens de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op het dividend ten minste 8,3 percent bedraagt, recht op teruggaaf van hetgeen aan dividendbelasting meer is ingehouden dan 5 percent.
 
-3. Tot het verkrijgen van de teruggaaf levert het lichaam bij de bevoegde aanslagregelende autoriteit over zijn plaats van vestiging een ingevulde en ondertekende verklaring in tweevoud in op een formulier volgens het in de bijlage opgenomen model (formulier IB 95(2)ARU). Nadat het lichaam een exemplaar van de verklaring, voorzien van dagtekening en ondertekening van de daarop voorkomende bevestiging van vorenbedoelde aanslagregelende autoriteit heeft terugontvangen, zendt het dit exemplaar toe aan de inspecteur binnen wiens ambtsgebied de vennootschap is gevestigd, onder bijvoeging van het bewijsstuk waaruit van de inhouding van de belasting blijkt. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
+3. Tot het verkrijgen van de teruggaaf levert het lichaam bij de bevoegde aanslagregelende autoriteit over zijn plaats van vestiging een ingevulde en ondertekende verklaring in tweevoud in op een formulier volgens het in de [bijlage](https://wetten.overheid.nl/BWBR0022598) opgenomen model (formulier IB 95(2)ARU). Nadat het lichaam een exemplaar van de verklaring, voorzien van dagtekening en ondertekening van de daarop voorkomende bevestiging van vorenbedoelde aanslagregelende autoriteit heeft terugontvangen, zendt het dit exemplaar toe aan de inspecteur binnen wiens ambtsgebied de vennootschap is gevestigd, onder bijvoeging van het bewijsstuk waaruit van de inhouding van de belasting blijkt. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
 4. In het in het derde lid bedoelde formulier wordt verklaard:
 
@@ -164,7 +134,7 @@ Verzoeken om teruggaaf van belasting, als bedoeld in [artikel 3](https://wetten.
 
 ##### Artikel 7
 
-De tekst van het in de bijlage opgenomen formulier is niet gepubliceerd in de Staatscourant, maar is te vinden op www.belastingdienst.nl.
+De tekst van het in de [bijlage](https://wetten.overheid.nl/BWBR0022598) opgenomen formulier is niet gepubliceerd in de Staatscourant, maar is te vinden op www.belastingdienst.nl.
 
 Het in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022598&artikel=2&z=2007-10-12&g=2007-10-12) en [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022598&artikel=3&z=2007-10-12&g=2007-10-12), bedoelde formulier wordt van rijkswege verstrekt. Het formulier is op aanvraag kosteloos verkrijgbaar in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn. Het e-mailadres daarvan luidt: Lrc.apeldoorn@tiscali.nl. Dit formulier kan ook worden gedownload via de website www.belastingdienst.nl.
 
@@ -183,9 +153,3 @@ De regeling van de Staatssecretaris van Financiën van 20 december 2001, nr. IFZ
 2. Deze regeling treedt in werking met ingang van de tweede dag na die van de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 3. Deze regeling vindt met inachtneming van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022598&artikel=6&z=2007-10-12&g=2007-10-12) toepassing met betrekking tot dividenden die betaald zijn of betaalbaar zijn gesteld op of na 1 januari 2007. Verzoeken met betrekking tot dividenden die betaald zijn of betaalbaar zijn gesteld op of na 1 januari 2007 welke vóór de inwerkingtreding van deze regeling zijn ingediend, hoeven niet opnieuw te worden ingediend. Op deze verzoeken zal – voor zover hierop niet reeds vooruitlopend op deze regeling is beslist bij voor bezwaar vatbare beschikking – door de inspecteur bij voor bezwaar vatbare beschikking worden beslist met inachtneming van deze regeling.
-
-## Bijlage
-
-Gepubliceerd op www.belastingdienst.nl.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

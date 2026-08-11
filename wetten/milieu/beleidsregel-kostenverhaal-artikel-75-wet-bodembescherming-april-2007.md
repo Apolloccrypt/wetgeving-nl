@@ -1,42 +1,23 @@
 ---
 title: "Beleidsregel kostenverhaal, artikel 75 Wet bodembescherming april 2007"
 identifier: "BWBR0021825"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2007-05-10"
-last_updated: "2007-05-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021825"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "9072263"
-version_id: "14475112"
-internal_id: "C19689931"
-label_id: "9051554"
-dtd_version: "2.0"
-original_entry_into_force: "2007-05-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021825/2007-05-10/0"
-intitule_bron: "Stcrt.2007-90"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2007-05-10"
-intitule_in_force: "2007-05-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-90"
-original_published_date: "2007-05-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-90-p15-SC80368"
-entry_into_force_date: "2007-05-10"
-jci_1_3: "jci1.3:c:BWBR0021825&z=2007-05-10&g=2007-05-10"
-jci_1_0: "1.0:c:BWBR0021825&g=2007-05-10"
-citeertitel_status: "redactioneel"
-entry_into_force: "2007-05-10"
+publicatiedatum: 2007-05-10
+laatste_update: 2007-05-10
+status: geldig
+toestand: 2007-05-10
+bron: "https://wetten.overheid.nl/BWBR0021825"
+opgehaald: 2026-08-11
 ---
+
 # Beleidsregel kostenverhaal, artikel 75 Wet bodembescherming april 2007
 
 ### 1. Inleiding
 
 Met toepassing van de richtlijnen zoals neergelegd in de beleidsregel kostenverhaal, [artikel 75 Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75)1Stcrt. 2002, 81, p.23. heeft de toenmalige uitvoeringsorganisatie Kostenverhaal van het Directoraat-Generaal Milieubeheer een groot aantal kostenverhaalszaken afgehandeld. Met ingang van 1 januari 2005 houdt Bodem+2Website: www.bodemplus.nl., onderdeel van SenterNovem, zich in opdracht van achtereenvolgens de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (VROM) en thans de Minister, bezig met de wettelijke taak kostenverhaal. Daartoe heeft de staatssecretaris de bevoegdheid tot het behandelen van kostenverhaalszaken formeel gemandateerd aan SenterNovem.3Besluit mandaat, volmacht en machtiging SenterNovem Bodem+, Stcrt. 2004, 243, p. 16. SenterNovem is een agentschap van het Ministerie van Economische Zaken. Het Ministerie van VROM heeft in samenwerking met Bodem+ het beleid inzake kostenverhaal opnieuw bezien en waar nodig aangepast. Dit heeft geleid tot de onderhavige beleidsregel die de in 2002 gepubliceerde beleidsregel vervangt.
 
-### 2. Achtergrond beleidsregel op grond van [artikel 75 Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75)
+### 2. Achtergrond beleidsregel op grond van artikel 75 Wet bodembescherming
 
 ### 2.1. Wettelijke taak kostenverhaal
 
@@ -46,11 +27,17 @@ Bij de uitvoering van de wettelijke taak kostenverhaal wordt Bodem+ door provinc
 
 Het belangrijkste doel van de beleidsregel is om richtlijnen te bieden teneinde te komen tot een zorgvuldige, efficiënte en consistente afhandeling van de werkvoorraad kostenverhaal. De beleidsregel kostenverhaal levert hiervoor het inhoudelijke mandaat. Het beleid inzake kostenverhaal moet worden gekwalificeerd als een beleidsregel in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Awb). In de beleidsregel kostenverhaal zijn begrenzingen aangebracht die elementen/overwegingen bevatten van juridische, beleidsmatige en beheersmatige/financiële aard. Daarnaast beoogt de beleidsregel op een aantal punten duidelijkheid te geven aan provincies en gemeenten die als bevoegd gezag bodemsanering zijn aangewezen in het [Besluit aanwijzing bevoegdgezaggemeenten Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0011935).4Besluit van 12 december 2000, Stb. 2000, 591; gewijzigd Stb. 2004, 477. Dit besluit van 12 december 2000 wijst de gemeenten aan die voor de toepassing van de Wet bodembescherming worden gelijkgesteld met een provincie. Naast de vier grote steden – Amsterdam, Rotterdam, Den Haag en Utrecht – zijn de volgende gemeenten bevoegd gezag Wbb: Alkmaar, Almelo, Amersfoort, Arnhem, Breda, Deventer, Dordrecht, Eindhoven, Emmen, Enschede, Groningen, Haarlem, Heerlen, Helmond, Hengelo, 's-Hertogenbosch, Leeuwarden, Leiden, Maastricht, Nijmegen, Schiedam, Tilburg, Venlo, Zaanstad en Zwolle. Aan deze overheden is bij [Besluit mandaat, volmacht en machtiging artikel 75 lid 7 Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0018615)5Stcrt. 2005, 159, p. 11., de bevoegdheid verleend om namens de Staat af te zien van kostenverhaal jegens derden in verband met gemaakte financiële afspraken in het kader van bodemsanering. Het bevoegd gezag, dat door middel van toepassing van dit besluit namens de Staat afstand doet van het recht het privaatrechtelijk instrumentarium van de [Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) in te zetten, zal de in de beleidsregel kostenverhaal neergelegde uitgangspunten in acht moeten nemen. Voor het uitoefenen van deze bevoegdheid vormt de beleidsregel derhalve voor het bevoegd gezag eveneens het beleidskader.
 
-### 3. Kostenverhaal op grond van [artikel 75 Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75)
+### 3. Kostenverhaal op grond van artikel 75 Wet bodembescherming
 
 ### 3.1. Juridisch instrumentarium
 
 Er zijn drie juridische instrumenten waarmee de kosten van bodemonderzoek en sanering kunnen worden neergelegd bij derden (zoals veroorzakers, eigenaren/erfpachters et cetera). Deze instrumenten zijn:
+
+- 1. Kostenverhaal
+
+- 2. Bevel
+
+- 3. Saneringsplicht bedrijfsterreinen
 
 Het kostenverhaal vindt zijn grondslag in het civiele recht. De Staat is in beginsel bevoegd tot kostenverhaal6Artikel 75 leden 1 en 3 Wbb. Zie artikel 75 lid 4 Wbb waarin is vastgelegd wanneer de provincie of de gemeente bevoegd is tot het verhalen van kosten.. Het bevelsinstrumentarium en de saneringsplicht vinden hun grondslag in het bestuursrecht en worden toegepast door het bevoegd gezag bodemsanering.
 
@@ -62,6 +49,8 @@ Met ingang van 1 januari 2006 rust op de eigenaar of de erfpachter van een bedri
 
 ### 3.2. Kostenverhaal op basis van onrechtmatige daad
 
+Achtergrond
+
 Tot 15 mei 1994, met de inwerkingtreding van [artikel 75 Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75), was het verhaal door de overheid van kosten van onderzoek en sanering van bodemverontreiniging geregeld in artikel 21 Interimwet bodemsanering (Ibs) . In een aantal door de Hoge Raad gewezen arresten van 9 februari 1990 (Staat/Van Amersfoort) en van 24 april 1992 (Staat/Van Wijngaarden en Staat/Akzo-Resins) werd de aansprakelijkheid van de veroorzaker ingeperkt.7NJ 1991, 462 en NJ 1993, 643 en 644. In deze arresten bepaalde de Hoge Raad dat in beginsel vóór 1 januari 1975 géén aansprakelijkheid van de vervuiler jegens de overheid kan worden aangenomen voor saneringskosten, omdat de vervuiler voor die datum nog niet kon weten dat het vervuilen van de bodem van het eigen bedrijfsterrein tot vermogensnadeel in de zin van saneringskosten bij de overheid zou gaan leiden (relativiteitsvereiste). Naar aanleiding van deze arresten en de daarmee verband houdende bezwaren van een minderheid in de Tweede Kamer en van een meerderheid in de Eerste Kamer, heeft de wetgever een lid aan het kostenverhaalsartikel toegevoegd, thans [artikel 75 lid 6 Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75).8Wetsvoorstel 21 556 en 23 589. De Eerste Kamer stemde op 10 mei 1994 met deze wetsvoorstellen in. In [artikel 75 lid 6 Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75) is een aantal (ten opzichte van [artikel 75 lid 1 Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75)) verscherpte, cumulatieve voorwaarden opgesomd waaraan voldaan moet zijn, wil de overheid de kosten van onderzoek en sanering kunnen verhalen op de veroorzaker die vóór 1 januari 1975 de bodem heeft verontreinigd.
 
 Kort na de aanvaarding van deze wetswijziging volgden op 30 september 1994 de vier arresten van de Hoge Raad, waarin de lijn van de 1990 en 1992-arresten werd bevestigd en doorgetrokken naar gevallen waarin sprake was van verontreiniging van locaties buiten het eigen bedrijfsterrein. Door deze zogenaamde ‘september-arresten’ – met name Staat/Shell (Gouderak) en Staat/Solvay Duphar9NJ 1996, 196 en 197. – werden de verhaalsmogelijkheden opnieuw ingeperkt.
@@ -70,13 +59,29 @@ Op 20 april 2001 heeft de Hoge Raad opnieuw deze sterk aansprakelijkheidsbeperke
 
 Door de laatstgenoemde arresten zijn de mogelijkheden om [artikel 75 lid 6 Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75) toe te passen verder beperkt.
 
+Beleid ten aanzien van
+
+artikel 75 lid 1 Wbb
+
 Op grond van [artikel 75 lid 1 Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75) is de Staat bevoegd om kosten van onderzoek en sanering die ten laste zijn gekomen van Rijk, provincie en gemeente op veroorzakers van bodemverontreiniging te verhalen.
 
+- – Het beleid ten aanzien van [artikel 75 lid 1 Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75) kent de volgende uitgangspunten:
+
+- – Kostenverhaal zal in beginsel worden toegepast ten aanzien van alle ernstige verontreiniging die na 1 januari 1975 is veroorzaakt. Kostenverhaal op de veroorzaker van bodemverontreiniging, waarvan het bevoegde gezag [Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) heeft beschikt dat deze weliswaar ernstig is, maar waarbij geen spoedige sanering noodzakelijk is, is tevens mogelijk.
+
+- – Indien de verontreiniging deels vóór en deels na 1 januari 1975 is veroorzaakt, vindt kostenverhaal van het deel dat na 1 januari 1975 is veroorzaakt ‘pro rata temporis’ plaats.12‘Pro rata temporis’ wil zeggen: verhaal van kosten vindt plaats naar verhouding van dat gedeelte van de verontreiniging die na 1975 heeft plaatsgevonden in relatie tot de totale verontreinigingsperiode. Voorbeeld: de verontreinigingsperiode is gelegen tussen 1945 en 1985. Tien jaar van de verontreinigingsperiode is gelegen na 1975, dit komt overeen met 25%. Dit laatste betekent dat 25% van de saneringskosten verhaald kan worden. De pro rata temporis methode wordt niet toegepast wanneer er aanknopingspunten zijn voor een meer exacte toerekening . In gevallen waarin het deel van de verontreiniging dat na 1 januari 1975 is veroorzaakt minder dan 10% bedraagt en de verhaalbare kosten € 11.345 of minder bedragen, zal worden afgezien van kostenverhaal.
+
 In de volgende gevallen wordt in ieder geval afgezien van kostenverhaal:
+
+- – als de totale kosten van onderzoek en sanering onder het voor de gemeente geldende drempelbedrag zijn gebleven. Voor gemeenten van 20.000 of meer inwoners gold een drempelbedrag van € 45.378,02. Voor de overige gemeenten was het bedrag gelijk aan het inwoneraantal vermenigvuldigd met € 2,27. Het gaat hier om de wettelijke bijdrage ingevolge het toenmalige [artikel 79 van de Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=79). [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=79) is met ingang van 1 januari 2005 vervallen.
+
+- – als uit financieel onderzoek blijkt dat de verwachte opbrengsten van het kostenverhaal niet opwegen tegen de daarmee gepaard gaande kosten.
 
 Hoewel de Staat in bovengenoemde gevallen afziet van kostenverhaal, staat het uiteraard de provincies en de gemeenten vrij om zelfstandig een kostenverhaalsactie te beginnen op grond van [artikel 75 lid 4 Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75).
 
 ### 3.3. Kostenverhaal op basis van ongerechtvaardigde verrijking
+
+Achtergrond
 
 Op grond van [artikel 75 lid 3 Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75) is de Staat bevoegd om kosten van onderzoek en sanering te verhalen op degene die door het onderzoek of de sanering ongerechtvaardigd wordt verrijkt. In de kamernotitie Ongerechtvaardigde verrijking in verband met bodemsanering van 8 juni 199413Tweede Kamer, vergaderjaar 1993–1994, 22 727, nr. 11 herdruk. heeft de Minister van VROM aangegeven wat zijn inziens in dit verband onder ongerechtvaardigde verrijking moet worden verstaan.
 
@@ -86,13 +91,65 @@ Het begrip verrijking is een zuiver economisch begrip. Verrijking kan bestaan ui
 
 Overigens dient te worden opgemerkt dat de gerechtshoven Leeuwarden en Arnhem bij het bepalen van de hoogte van de ongerechtvaardigde verrijking wel betekenis toekennen aan de betaalde koopprijs. Volgens Hof Leeuwarden kan de betaalde koopprijs een aanwijzing zijn voor de waarde in verontreinigde staat (Staat/Eimers16Hof Leeuwarden 10 december 2003, JM 2004, 17 m.nt. Bos; TMA 2004, 2, p. 59 m.nt. Simons-Vinckx.). Volgens Hof Arnhem zijn de historische koopprijs en de omstandigheden waaronder deze is betaald, factoren die in ogenschouw kunnen worden genomen in het kader van de redelijkheid van (volledige) toewijzing van de gevorderde schade ( Staat/Geveke17Hof Arnhem 9 december 2003, JM 2004, 19 m.nt. Bos, TMA 2004, 2, p. 50 m.nt. Simons-Vinckx.). De jurisprudentie op dit punt is nog niet uitgekristalliseerd.
 
+Artikel 75. lid 3 Wbb
+
 Voor kostenverhaal door de Staat op basis van ongerechtvaardigde verrijking moet aan de volgende vereisten zijn voldaan:
+
+- – er moet sprake zijn van verrijking;
+
+- – de verrijking moet ongerechtvaardigd zijn;
+
+- – tegenover de verrijking staat een verarming van de Staat;
+
+- – het kostenverhaal moet redelijk zijn.
 
 In de genoemde kamernotitie van 8 juni 1994 heeft de Minister van VROM de gevallen omschreven waarin kostenverhaal redelijk wordt geacht. Hiervan is sprake als:
 
+- – de verrijkte de verontreiniging zelf heeft veroorzaakt of daarbij (in)directe betrokkenheid had;
+
+- – de verrijkte een duurzame rechtsbetrekking heeft gehad met de veroorzaker. Incidentele rechtsverhoudingen als koop/verkoop vallen hier niet onder, erfpachtverhoudingen wel;
+
+- – door de betrokkene geen schadebeperkende maatregelen zijn genomen;
+
+- – de verrijkte op het moment dat hij een recht verkreeg op de onroerende zaak feitelijk op de hoogte was van de bodemverontreiniging of daarvan op de hoogte had kunnen zijn. Het ‘feitelijk weten’ kan worden afgeleid uit verklaringen van partijen, maar ook uit bepalingen in de koop/overdrachtsakte. Een vermoeden van wetenschap kan worden afgeleid uit het feit dat destijds een (zeer) lage prijs voor het terrein is betaald. Voor de bepaling van het ‘kunnen weten’ spelen verschillende factoren een rol, zoals de professionaliteit van de koper18Er dient een onderscheid te worden gemaakt tussen een professionele, minder professionele en niet-professionele koper. Professionele kopers zijn: projectontwikkelaars, institutionele beleggers, gemeenten, bedrijven die grond verkrijgen van bedrijven uit dezelfde branche, plaatselijk goed bekend zijnde verkrijgers van verdachte terreinen, makelaars, woningbouwverenigingen. Minder professionele kopers zijn: kleine bedrijven die grond verkrijgen van bedrijven uit een andere branche en die niet regelmatig grond aankopen, particulieren die meer dan incidenteel grond aankopen. Niet professionele kopers zijn: particuliere verkrijgers van woningen voor eigen bewoning, kleine bedrijven die grond verkrijgen ten behoeve van de uitoefening van het eigen bedrijf., de aard van het terrein, berichten in de pers omtrent vervuiling ter plaatse, bekendheid bij de gemeente en/of provincie omtrent de verontreiniging et cetera.
+
+Uitwerking beleid op grond van
+
+artikel 75 lid 3 Wbb
+
 Het beleid ten aanzien van [artikel 75 lid 3 Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75) is als volgt uitgewerkt:
 
+- – Kostenverhaal op de veroorzaker van bodemverontreiniging of op degene die betrokkenheid heeft gehad bij de veroorzaking is in beginsel redelijk, ook in die gevallen waar bodemverontreiniging (geheel) vóór 1 januari 1975 is veroorzaakt. Daarbij geldt als voorwaarde dat de veroorzaker of degene die betrokkenheid heeft gehad bij de veroorzaking, ten tijde van de sanering eigenaar is/was van het gesaneerde terrein. Deze voorwaarde geldt niet wanneer als gevolg van de sanering de verrijking op andere wijze dan door waardestijging heeft plaatsgevonden, bijvoorbeeld door het wegvallen van claims van de koper aan wie verontreinigde grond was geleverd en een expliciete of stilzwijgende saneringsgarantie was verstrekt.
+
+- – Kostenverhaal op de verrijkte die een duurzame rechtsbetrekking – waaronder een erfpachtrelatie – heeft gehad met de veroorzaker, is in beginsel redelijk indien de verrijkte wist of had kunnen weten dat er sprake was van bodemverontreinigende handelingen of de mogelijkheid had om op basis van de rechtsbetrekking in te grijpen, doch dat heeft nagelaten. Voldoende is dat de betrokkene (de verrijkte) in de positie was om enige invloed uit te oefenen, maar dat heeft nagelaten. Het antwoord op de vraag of dit verwijtbaar kan worden genoemd speelt geen rol. Aangenomen kan worden dat erfverpachters vanaf 1 januari 1975 wisten of hadden kunnen weten dat bepaalde activiteiten tot ernstige bodemverontreiniging zouden kunnen leiden. Wanneer sprake is van een relatie met een erfpachter die na 1 januari 1975 of in relevante mate (ook) na 1 januari 1975 bodemverontreiniging heeft veroorzaakt, is afroming redelijk, mits het ging om een activiteit waarvan de erfverpachter op de hoogte was of had kunnen zijn. Wanneer de erfverpachter niet van de activiteit op de hoogte was of had kunnen zijn, bijvoorbeeld wanneer eerst tijdens het bodemonderzoek blijkt dat door een niet in de erfpachtvoorwaarden of hinderwetvergunning vermelde activiteit bodemverontreiniging is ontstaan, dient te worden bezien of herstel in de oude toestand had kunnen worden gevorderd. Wanneer sprake is van een nog zittende erfpachter kan dit zonder meer worden aangenomen.
+
+- – Kostenverhaal op de verrijkte is redelijk indien door de verrijkte geen schadebeperkende maatregelen zijn genomen. Schadebeperkende maatregelen zijn maatregelen om te voorkomen dat onderzoeks- en saneringskosten hoger uitvallen dan noodzakelijk. Als voorbeeld kan worden genoemd: investeringen in onroerende zaken buiten het noodzakelijke onderhoud.
+
+- – Kostenverhaal op degene die ten tijde van verkrijging van een verontreinigd terrein wist of had kunnen weten dat het verontreinigd was, is in beginsel redelijk. De eigenaar die op het moment van koop niet wist of kon weten dat het terrein was verontreinigd maar ten tijde van de overdracht wél op de hoogte was, kan worden aangesproken op grond van ongerechtvaardigde verrijking, tenzij hij op grond van een rechterlijke uitspraak verplicht was tot overdracht. De wetenschap op het moment van overdracht die leidt tot eigendomsverkrijging is dus bepalend. Wanneer degene die een aanmerkelijk financieel belang (in beginsel meer dan 50%) heeft in de onderneming die is verrijkt, op een eerder moment eigenaar was van het verontreinigde terrein, wordt uitgegaan van de wetenschap op het moment van eigendomsverkrijging door deze voormalige eigenaar.19Rb Rotterdam 18 december 1992, Bouwrecht 1993, p. 606 e.v.; Milieu en Recht 1994/12, nr. 124.
+
 Hoe recenter de eigendom of het belang is verkregen, des te eerder wordt aangenomen dat de eigenaar/belanghebbende van de verontreiniging had kunnen weten. Relevante jaartallen hierbij zijn afgeleid van de inwerkingtreding van relevante regelgeving:
+
+- 1. Bij verkrijging vóór 1983: wordt een koper niet aangesproken, tenzij aangetoond kan worden dat deze koper wetenschap had van de verontreiniging. Wetenschap kan blijken uit: koper is zelf veroorzaker, verontreiniging staat vermeld in transportakte, veel publiciteit in media, getuigenverklaringen, er is een zeer lage prijs voor het terrein betaald et cetera.
+
+- 2. Na 1 januari 1983 (in dit jaar is de Ibs met een regeling van ongerechtvaardigde verrijking in werking getreden): kunnen aangesproken worden:
+
+   - – de koper die op de hoogte was van de bodemverontreiniging of op de hoogte had kunnen zijn;
+
+   - – de professionele koper die door eenvoudig onderzoek kennis had kunnen nemen van de bodemverontreiniging;
+
+   - – de professionele koper die bij ‘verdachte’ terreinen door bodemonderzoek kennis had kunnen nemen van de verontreiniging.
+
+- 3. Na 1 januari 1987: als 2. Verder de professionele koper die door bodemonderzoek kennis had kunnen nemen van de bodemverontreiniging. Op 1 januari 1987 is de zorgplichtbepaling in de [Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) in werking getreden. Daarnaast is in 1987 voor de bouw van woningen in de sociale huursector als subsidievoorwaarde gesteld dat voorafgaand aan de bouw, bodemonderzoek moest worden verricht. Voor professionele kopers wordt aangenomen dat in ieder geval vanaf die tijd, bij verwerving van een terrein20Onder terrein wordt in deze beleidsregel zowel bebouwd als onbebouwd grondgebied verstaan., bodemonderzoek werd verricht21Rb 's-Hertogenbosch 22 januari 1999, TMA 1999, 3, p. 97–98 (verkort opgenomen); Milieu en Recht 1999, nr. 105, nt. Gelpke, onder nr. 107..
+
+- 4. Na 1 januari 1990 (wetsvoorstel tot inbouw saneringsregeling in [Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)) iedere koper van een verontreinigd terrein is in beginsel ‘niet-onschuldig’ met uitzondering van: In 1990 werd het ontwerp voor inbouw van de saneringsregeling in de [Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994), zoals in januari 1995 in werking is getreden, ingediend.
+
+   - i. i. een bewoner, of
+
+   - ii. een ‘kleine zelfstandige’ die ten tijde van de koop niet was voorzien van deskundige bijstand.
+
+- 5. Vanaf 1993: iedere koper van een verontreinigd terrein is als niet onschuldig aan te merken. Gezien de actualiteit en publiciteit mogen de gevaren en risico’s van bodemverontreiniging algemeen bekend worden geacht.
+
+Uitzondering algemene regel bij asbestverontreiniging
 
 Ten aanzien van een met asbest verontreinigd terrein gelden bij aansprakelijkheid uit hoofde van ongerechtvaardigde verrijking andere relevante jaartallen dan die hierboven worden genoemd.
 
@@ -102,19 +159,35 @@ Pas in het jaar 2000 is asbest als niet-genormeerde stof opgenomen in de Circula
 
 In situaties waarin van professionele verkrijgers mag worden verondersteld dat zij bijzondere kennis hebben omtrent de risico's van de aanwezigheid van asbest in de bodem voor mens en dier, kan vóór 1 juli 1993 wetenschap worden aangenomen.
 
-**Verhaal ten aanzien van bespaarde onderzoeks- en saneringskosten**
+*Verhaal ten aanzien van bespaarde onderzoeks- en saneringskosten*
 
 In deze paragraaf is al aangegeven dat naast de waardevermeerdering van een onroerende zaak ook bespaarde onderzoeks- en saneringskosten kunnen worden verhaald. Hiermee zijn bedoeld de kosten die de verrijkte gelet op de systematiek van de [Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) zelf had moeten maken, maar dit heeft geweigerd. Denk hierbij aan een derde die heeft geweigerd mee te werken aan afkoop van een bevel ([artikel 46 lid 3 Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=46)). Het beleid dienaangaande kent de volgende uitgangspunten:
 
 Kosten van saneringsonderzoek en sanering zijn integraal als bespaarde kosten te verhalen:
 
+- – indien de kosten zijn gemaakt na inwerkingtreding van de saneringsregeling (1 januari 1995), én
+
+- – indien de verrijkte door het bevoegd gezag in de gelegenheid is gesteld eerst zelf saneringsonderzoek en sanering uit te voeren, én
+
+- – indien de verrijkte evident in aanmerking kwam voor een bevel tot saneringsonderzoek respectievelijk sanering, dan wel op hem een saneringsplicht rustte, doch het bevoegd gezag uiteindelijk saneringsonderzoek en sanering om haar moverende redenen heeft uitgevoerd, of
+
+- – voor zover het gaat om samenloopkosten die voor rekening van de verrijkte hadden behoren te komen.
+
 ### 3.4. Samenloop kostenverhaal wegens onrechtmatige daad en ongerechtvaardigde verrijking
 
 Bij kostenverhaal op een veroorzaker die ten tijde van de sanering ook eigenaar is/was van het gesaneerde onroerend goed, kan sprake zijn van samenloop . In dat geval gelden de volgende regels:
 
+- – Kostenverhaal uit hoofde van onrechtmatige daad sluit kostenverhaal wegens ongerechtvaardigde verrijking in de daarvoor in aanmerking komende gevallen niet uit en omgekeerd.
+
+- – In geval van cumulatie van vorderingen kan verhaal tot maximaal de ten laste van het Ibs/Wbb/ISV24ISV staat voor Investeringsbudget Stedelijke Vernieuwing. gemaakte onderzoeks- en saneringskosten plaatsvinden.
+
+- – Indien kostenverhaal wegens onrechtmatige daad ertoe leidt dat de verrijkte een deel van de onderzoeks- of saneringskosten voor zijn rekening moet nemen, dient dit naar evenredigheid in mindering te worden gebracht op het bedrag dat terzake van ongerechtvaardigde verrijking wordt gevorderd. Een uitzondering geldt voor die gevallen waar de verrijkte op basis van een afspraak met de overheid een deel van de saneringskosten vrijwillig voor zijn rekening neemt of een eigen bijdrage daarin betaalt. Deze afspraak moet zijn gemaakt vóórdat de sanering heeft plaatsgevonden. In dat geval kunnen deze kosten/kan deze bijdrage integraal in mindering worden gebracht op het bedrag dat op grond van ongerechtvaardigde verrijking kan worden verhaald.
+
 ### 4. Kostenverhaalsbeleid met betrekking tot ‘bijzondere categorieën’
 
 ### 4.1. Bewoners
+
+Historie
 
 In de kamernotitie Ongerechtvaardigde verrijking in verband met bodemsanering van 8 juni 1994 zijn bijzondere regels met betrekking tot het kostenverhaal op bewoners te vinden, waarin de terughoudendheid om het juridisch instrumentarium van de [Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) op bewoners toe te passen tot uitdrukking is gebracht.
 
@@ -122,7 +195,19 @@ De bijzondere regeling voor bewoners komt erop neer dat indien cumulatief is vol
 
 Hieronder zijn de vereisten neergelegd om in aanmerking te komen voor de bijzondere regeling voor bewoners.
 
+De vereisten om in aanmerking te komen voor de bijzondere regeling voor bewoners
+
 Indien een bewoner cumulatief voldoet aan de volgende voorwaarden, zal géén kostenverhaal worden toegepast:
+
+- – Op het moment waarop de bewoner een (bebouwd) perceel verwerft, rust op dat perceel de bestemming ‘wonen’25Hiermee wordt bedoeld zuiver wonen. of de bewoner toont aan dat hij mocht aannemen dat het perceel de bestemming wonen zou krijgen.
+
+- – De woning wordt vanaf het moment van verwerving gebruikt voor bewoning door de bewoner zelf, zijn huisgenoten of zijn bloed- en aanverwanten in rechte lijn.
+
+- – De bewoner moet een redelijke, marktconforme prijs hebben betaald voor de woning;
+
+- – De bewoner mag de verontreiniging niet zelf hebben veroorzaakt of bij de veroorzaking betrokken zijn geweest.
+
+- – Het mag niet gaan om een aan de woonfunctie gerelateerde verontreiniging, zoals verontreiniging veroorzaakt door een HBO-tank.
 
 Er mag bovendien geen sprake zijn van misbruik, dat wil zeggen dat met een beroep op de bewonersregeling verhaalsmogelijkheden (dreigen) te worden onttrokken aan de Staat door ontwijkgedrag van de wederpartij.
 
@@ -130,13 +215,21 @@ Er mag bovendien geen sprake zijn van misbruik, dat wil zeggen dat met een beroe
 
 Erfgenamen zijn rechtsopvolgers onder algemene titel. Dit betekent dat zij treden in de rechten en verplichtingen van de erflater. Zij treden als het ware in diens positie. Het beleid ten aanzien van erfgenamen, die niet als schuldig eigenaar kunnen worden aangemerkt, kent, met betrekking tot ongerechtvaardigde verrijking, de volgende uitgangspunten:
 
+- – In die gevallen waarin de erflater onschuldig zou zijn geweest, hij of zij dus niet zou kunnen worden aangesproken op grond van onrechtmatige daad en/of ongerechtvaardigde verrijking, gaat diens ‘onschuld’ over op de erfgenaam.
+
+- – Indien de erflater ‘schuldig’ zou zijn geweest levert dit een vordering van de Staat op. Het kostenverhaal blijft in deze gevallen evenwel beperkt tot de omvang van de boedel.
+
 Hoewel de erfgenaam aanspreekbaar is voor zijn gehele vermogen is besloten het kostenverhaal te beperken tot de omvang van de erfenisboedel, die bestaat uit het saldo van activa minus het saldo van de passiva tenzij de erfgenaam als (mede)veroorzaker is aan te merken, een duurzame rechtsbetrekking met de veroorzaker heeft gehad, dan wel onvoldoende schadebeperkende maatregelen heeft getroffen (in die gevallen acht de Staat kostenverhaal in ieder geval wel redelijk). De reden voor deze keuze is geweest dat het kostenverhaal ten aanzien van de erflater beperkt zou zijn gebleven tot diens vermogen. Een andere reden is geweest dat hiermee kan worden voorkomen dat erfenissen worden verworpen met als ultiem resultaat dat deze vervallen aan de Staat.
+
+Fusie, splitsing en boedelmenging
 
 Evenals bij de erfgenamen is in geval van fusie, als bedoeld in [artikel 309 van Boek 2 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=309) (BW), splitsing als bedoeld in [artikel 334a van Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a) en boedelmenging sprake van rechtsopvolging onder algemene titel. Hierbij geldt dat de rechtspositie van de rechtsvoorganger wordt overgenomen (schuldig of onschuldig). In deze gevallen zal het kostenverhaal zich echter niet beperken tot de omvang van het vermogen van de rechtsvoorganger. De rechtsopvolger onder algemene titel is met zijn gehele vermogen aansprakelijk.
 
 ### 4.3. Woningbouwcorporaties
 
 Eind jaren tachtig, begin jaren negentig heeft een omvangrijke privatisering plaatsgevonden van gemeentelijke woningbouwbedrijven. Een grote hoeveelheid woningen en toebehoren, die eigendom waren van gemeenten, zijn overgedragen aan daartoe in het leven geroepen of reeds bestaande woningbouwcorporaties. In dat kader is ook een aantal verontreinigde percelen overgedragen. Door privatisering van het gemeentelijk woningbezit, middels eigendomsoverdracht, ontstonden er geprivatiseerde stichtingen, die als ‘niet-onschuldig’ eigenaar konden worden beschouwd. Bestendig beleid is dat kostenverhaal op basis van ongerechtvaardigde verrijking in deze gevallen niet is uitgesloten. Indien corporaties, ingeval van eventuele sanering, de waardestijging bijdragen bestaat tegen financiering vanuit Wbb-budget geen bezwaar. Het beleid ten aanzien van woningbouwcorporaties kent het volgende uitgangspunt:
+
+- – Kostenverhaal op woningcorporaties, ook in geval zij hebben verkregen in het kader van het door VROM gevoerde beleid inzake verzelfstandiging/privatisering van gemeentelijke woningbouwbedrijven, zal/kan volgens de regels van ongerechtvaardigde verrijking plaatsvinden.
 
 ### 5. Kostenverhaalsbeleid ten aanzien van gemeenten
 
@@ -152,33 +245,55 @@ Hierna wordt beschreven welke omstandigheden van belang zijn bij de beoordeling 
 
 ### 5.2. Omstandigheden
 
-Zoals uiteengezet in paragraaf 3.3 is een viertal omstandigheden van belang bij de beoordeling of kostenverhaal wegens ongerechtvaardigde verrijking redelijk is, namelijk: (betrokkenheid bij) veroorzaking, duurzame rechtsbetrekking met de veroorzaker, achterwege laten van schadebeperkende maatregelen en kenbaarheid van de verontreiniging op het moment van verkrijging. Deze omstandigheden zijn ook van toepassing op de categorie ongerechtvaardigd verrijkte gemeenten en worden hieronder nader toegelicht.
+Zoals uiteengezet in [paragraaf 3.3](https://wetten.overheid.nl/BWBR0021825) is een viertal omstandigheden van belang bij de beoordeling of kostenverhaal wegens ongerechtvaardigde verrijking redelijk is, namelijk: (betrokkenheid bij) veroorzaking, duurzame rechtsbetrekking met de veroorzaker, achterwege laten van schadebeperkende maatregelen en kenbaarheid van de verontreiniging op het moment van verkrijging. Deze omstandigheden zijn ook van toepassing op de categorie ongerechtvaardigd verrijkte gemeenten en worden hieronder nader toegelicht.
 
 ### 5.2.1. Gemeente als veroorzaker
 
-Zie paragraaf 3.3. Een gemeente kan worden aangemerkt als veroorzaker indien sprake is van bijvoorbeeld één van de hierna genoemde situaties: de verontreiniging is veroorzaakt in het kader van de exploitatie van een gemeentelijk bedrijf, er is sprake van een gemeentelijke stortplaats, de verontreiniging is veroorzaakt door een (voormalige) gasfabriek, de verontreiniging is ontstaan doordat de gemeente heeft opgehoogd met verontreinigd slib of ander verontreinigd ophogingsmateriaal.
+Zie [paragraaf 3.3.](https://wetten.overheid.nl/BWBR0021825) Een gemeente kan worden aangemerkt als veroorzaker indien sprake is van bijvoorbeeld één van de hierna genoemde situaties: de verontreiniging is veroorzaakt in het kader van de exploitatie van een gemeentelijk bedrijf, er is sprake van een gemeentelijke stortplaats, de verontreiniging is veroorzaakt door een (voormalige) gasfabriek, de verontreiniging is ontstaan doordat de gemeente heeft opgehoogd met verontreinigd slib of ander verontreinigd ophogingsmateriaal.
+
+Het nalaten van een gemeente op te treden tegen bodemverontreinigende activiteiten
 
 De gemeentelijke bijdrage, die elke gemeente in de kosten van onderzoek en sanering verschuldigd was, is mede tot stand gekomen vanwege de bestuurlijke verantwoordelijkheid die gemeenten (naast het Rijk) voor het ontstaan van gevallen van bodemverontreiniging moeten dragen. Een nalaten van de gemeente op te treden tegen het ontstaan van gevallen van bodemverontreiniging zal niet snel leiden tot het aannemen van betrokkenheid bij veroorzaking. Van geval tot geval zal bekeken moeten worden of de gemeente de bodemverontreinigende handelingen had behoren te voorkomen. Hierbij kan onder andere van belang zijn of de gemeente eigenaar van het terrein was.26Vgl. Rb Groningen 2 april 1993, Bouwrecht 1993, p. 610, TMA 1993-5, p. 146; bekrachtigd door Hof Leeuwarden 17 november 1999, TMA 2000-1, p. 20; Milieu en Recht 2000-6, nr. 53 (Staat/Kooistra).
 
 ### 5.2.2. Duurzame rechtsbetrekking
 
-Zie paragraaf 3.3. Het gaat hierbij om gemeenten die gedurende de periode waarin de verontreiniging is veroorzaakt een duurzame rechtsbetrekking met de veroorzaker(s) hadden en daardoor invloed konden uitoefenen op het voorkomen of ongedaan maken van bodemverontreiniging.
+Zie [paragraaf 3.3.](https://wetten.overheid.nl/BWBR0021825) Het gaat hierbij om gemeenten die gedurende de periode waarin de verontreiniging is veroorzaakt een duurzame rechtsbetrekking met de veroorzaker(s) hadden en daardoor invloed konden uitoefenen op het voorkomen of ongedaan maken van bodemverontreiniging.
+
+Erfpacht
 
 In verreweg de meeste gevallen waarbij een gemeente in beginsel op grond van het hebben of het hebben gehad van een duurzame rechtsbetrekking met de veroorzaker in aanmerking komt voor een actie uit ongerechtvaardigde verrijking is er sprake van een situatie van erfpacht.
 
 De volgende twee relaties dienen met betrekking tot het onderwerp erfpacht onderscheiden te worden: a) de relatie tussen erfpachter en erfverpachter en b) de relatie tussen opeenvolgende erfpachters waarvan de eerste erfpachter vervuiler is en de opvolgend erfpachter geen betrokkenheid bij de bodemverontreiniging heeft gehad.
 
+- a. Relatie erfpachter-erfverpachter Het beleid dat wordt gevoerd ten aanzien van de relatie erfpachter-erfverpachter kent de volgende uitgangspunten:
+
+   - – Wanneer de verontreiniging is veroorzaakt door een activiteit (waaronder begrepen ‘nalaten’) waarvan de erfverpachter op de hoogte was of behoorde te zijn, terwijl hij wist of behoorde te weten dat deze activiteit tot bodemverontreiniging zou kunnen leiden, is afroming redelijk.
+
+   - – Aangenomen wordt dat erfverpachters vanaf 1 januari 1975 wisten of hadden behoren te weten dat bepaalde activiteiten tot ernstige bodemverontreiniging zouden kunnen leiden. Wanneer sprake is van een relatie met een erfpachter die na 1 januari 1975 of in relevante mate (ook) na 1 januari 1975 bodemverontreiniging heeft veroorzaakt is afroming redelijk, mits het ging om een activiteit waarvan de erfverpachter op de hoogte was of behoorde te zijn.
+
+   - – Wanneer de erfverpachter niet van de activiteit op de hoogte was of behoorde te zijn, bijvoorbeeld wanneer eerst tijdens het bodemonderzoek blijkt dat door een niet in de erfpachtvoorwaarden of hinderwetvergunning vermelde activiteit bodemverontreiniging is ontstaan, dient te worden bezien of herstel in de oude toestand had kunnen worden gevorderd. Wanneer sprake is van een nog zittende erfpachter kan dit zonder meer worden aangenomen.
+
+- b. Relatie opeenvolgende erfpachters Het beleid dat wordt gevoerd ten aanzien van opeenvolgende erfpachters kent het volgende uitgangspunt:
+
+   - – Wanneer sprake is van een erfpachter-niet veroorzaker (opvolgend erfpachter) die na 1 januari 1979 heeft verworven van een erfpachter-veroorzaker (voormalige erfpachter) die na of in relevante mate (ook) na 1 januari 1975 heeft veroorzaakt, kan worden verdedigd dat de erfverpachter van de erfpachter-niet veroorzaker (opvolgend erfpachter) herstel in oude toestand had kunnen vorderen. Afroming van de verrijking kan in dat geval redelijk worden geacht.
+
+Toelichting
+
 In navolging van het arrest inzake Staat/Jager27HR 24 mei 1995, NJ 1996, 744 nt. MB. is het redelijk om aan te nemen dat vanaf 1 januari 1979 bekend had kunnen zijn dat ernstige bodemverontreiniging tot waardedaling van de grond kan leiden. Wanneer de grond in een dergelijk geval door een nieuwe erfpachter wordt overgenomen kan worden verdedigd dat ook de verplichting jegens de erfverpachter tot opheffing van de waardevermindering op hem overgaat. Op de vorige erfpachter moet dan wel een verplichting tot opheffing van de waardevermindering hebben gerust. Aangenomen wordt dat een dergelijke verplichting in ieder geval ontstaat wanneer het terrein na of in relevante mate (ook) na 1 januari 1975 door de vorige erfpachter is verontreinigd.
 
 ### 5.2.3. Schadebeperkingsplicht
 
-Zie paragraaf 3.3. Deze omstandigheid kan worden ingeroepen ten aanzien van gemeenten die willens en wetens op verontreinigde grond hebben gebouwd. Een ander voorbeeld is het onzorgvuldig te werk gaan bij uitvoering van het bodemonderzoek waardoor de verontreiniging zich verder heeft verspreid met als gevolg dat de saneringskosten hoger zijn uitgevallen dan noodzakelijk.
+Zie [paragraaf 3.3](https://wetten.overheid.nl/BWBR0021825). Deze omstandigheid kan worden ingeroepen ten aanzien van gemeenten die willens en wetens op verontreinigde grond hebben gebouwd. Een ander voorbeeld is het onzorgvuldig te werk gaan bij uitvoering van het bodemonderzoek waardoor de verontreiniging zich verder heeft verspreid met als gevolg dat de saneringskosten hoger zijn uitgevallen dan noodzakelijk.
 
 ### 5.2.4. Kenbaarheid van de verontreiniging bij verwerving
 
-Zie paragraaf 3.3. Het ‘kunnen weten’ wordt ten aanzien van gemeenten – als professionele marktpartij – aangenomen bij verwerving vanaf 1983. Echter, per geval zal worden beoordeeld of het redelijk is om gemeenten aan te spreken op grond van ongerechtvaardigde verrijking. Hoe recenter de eigendom of het belang is verkregen, des te eerder wordt aangenomen dat de gemeente van de verontreiniging had kunnen weten. Hieronder wordt een aantal gronden genoemd waarbij, ondanks dat is verworven na 1983, toch niet tot kostenverhaal uit hoofde van ongerechtvaardigde verrijking zal worden overgegaan.
+Zie [paragraaf 3.3](https://wetten.overheid.nl/BWBR0021825). Het ‘kunnen weten’ wordt ten aanzien van gemeenten – als professionele marktpartij – aangenomen bij verwerving vanaf 1983. Echter, per geval zal worden beoordeeld of het redelijk is om gemeenten aan te spreken op grond van ongerechtvaardigde verrijking. Hoe recenter de eigendom of het belang is verkregen, des te eerder wordt aangenomen dat de gemeente van de verontreiniging had kunnen weten. Hieronder wordt een aantal gronden genoemd waarbij, ondanks dat is verworven na 1983, toch niet tot kostenverhaal uit hoofde van ongerechtvaardigde verrijking zal worden overgegaan.
+
+Verwerving in het kader van de regeling ‘Sanering van milieuhinderlijke bedrijven in de woonomgeving’
 
 In het verleden hebben veel bedrijfsverplaatsingen plaatsgevonden met toepassing van de regeling ‘Sanering van milieuhinderlijke bedrijven in de woonomgeving.’ Op grond van deze – per 1 januari 1985 vervallen – subsidieregeling waren gemeenten verplicht de eigendom van de betrokken gronden te verwerven. Aangezien in die gevallen niet of nauwelijks gesproken kan worden van een vrijwillige verwerving als bedoeld in de kamernotitie Ongerechtvaardigde verrijking in verband met bodemsanering, is in 1996 besloten om in dergelijke gevallen niet over te gaan tot stuiting van de verjaring van de vordering uit hoofde van ongerechtvaardigde verrijking op deze gemeenten.
+
+Voltooiing sanering vóór 1988
 
 Indien de sanering is afgerond vóór 1 januari 1988 zal er, wegens verjaring, geen vordering uit hoofde van ongerechtvaardigde verrijking jegens een gemeente worden ingesteld.28De vordering is in deze gevallen al voor het van toepassing worden van het verjaringsartikel uit het Burgerlijk Wetboek (1 januari 1993) verjaard.
 
@@ -188,8 +303,16 @@ In een uitspraak van de Rechtbank Maastricht van 5 juni 199729Staat – Gemeente
 
 Daarnaast zijn er situaties denkbaar dat een gemeente ter uitvoering van hoger overheidsbeleid eigenaar van een terrein is geworden. Indien een gemeente dan in het kader van:
 
+- 1. tijdelijke beveiligingsmaatregelen, of
+
+- 2. ter voorkoming van verdere bodemverontreiniging
+
 gebouwen moet slopen is het mogelijk dat deze ‘milieukosten’ aftrekbaar zijn. Deze regeling geldt alleen voor gevallen van verontreiniging veroorzaakt vóór 1 januari 1987.
 
 ### 6. Slotbeschouwing
 
 Deze beleidsregel is op een aantal punten gewijzigd ten opzichte van de vorige [beleidsregel kostenverhaal uit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013328). Hierbij wordt benadrukt dat bij de wijziging het accent heeft gelegen op versobering en dat de vorige beleidsregel niet rigoureus is aangepast. De beleidsregel is, daar waar nodig, geactualiseerd en aangepast aan de hand van nieuwe inzichten die Bodem+ en de Landsadvocaat in de lopende kostenverhaalszaken hebben opgedaan. De belangrijkste wijzigingen ten opzichte van de [beleidsregel kostenverhaal 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013328) zijn opgetreden op de volgende terreinen:
+
+- – Asbestverontreinigingen en aansprakelijkheid uit hoofde van ongerechtvaardigde verrijking.
+
+- – Bewonersregeling.

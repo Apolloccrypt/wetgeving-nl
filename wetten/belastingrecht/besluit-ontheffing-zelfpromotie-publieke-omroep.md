@@ -1,48 +1,18 @@
 ---
 title: "Besluit van het Commissariaat voor de Media van 5 juni 2007 houdende ontheffing van het bepaalde in de eerste volzin van het tweede lid van artikel 52 van de Mediawet in verband met de vermeldingen en vertoningen van namen, (beeld)merken of diensten van publieke omroepinstellingen (Besluit ontheffing zelfpromotie publieke omroep)"
+citeertitel: "Besluit ontheffing zelfpromotie publieke omroep"
 identifier: "BWBR0022112"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022112"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "9123943"
-version_id: "14584072"
-internal_id: "C19842961"
-label_id: "9102904"
-dtd_version: "2.0"
-original_entry_into_force: "2007-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022112/2016-01-01/0"
-intitule_bron: "Stcrt.2007-117"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-06-05"
-intitule_published: "2007-06-21"
-intitule_in_force: "2007-06-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-117"
-original_signed_date: "2007-06-05"
-original_published_date: "2007-06-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-117-p17-SC81034"
-entry_into_force_date: "2007-07-01"
-jci_1_3: "jci1.3:c:BWBR0022112&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0022112&g=2016-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ontheffing zelfpromotie publieke omroep"
-signed_date: "2007-06-05"
-entry_into_force: "2007-07-01"
+publicatiedatum: 2007-07-01
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0022112"
+opgehaald: 2026-08-11
 ---
+
 # Besluit van het Commissariaat voor de Media van 5 juni 2007 houdende ontheffing van het bepaalde in de eerste volzin van het tweede lid van artikel 52 van de Mediawet in verband met de vermeldingen en vertoningen van namen, (beeld)merken of diensten van publieke omroepinstellingen (Besluit ontheffing zelfpromotie publieke omroep)
-
-Het Commissariaat voor de Media,
-
-Gelet op [artikel 52, derde lid, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=52);
-
-Gelet op [artikel 1 van het ministerieel besluit van 17 februari 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004296&artikel=1) (Stcrt. 49);
-
-Besluit:
 
 ### Definities
 
@@ -50,7 +20,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. de Europese richtlijn: [Richtlijn 97/36/EG](31997L0036) van het Europees parlement en de Raad van 30 juni 1997 tot wijziging van [Richtlijn 89/552/EEG](31989L0552) van de Raad betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake de uitoefening van televisie-omroepactiviteiten;
+- a. de Europese richtlijn: Richtlijn 97/36/EG van het Europees parlement en de Raad van 30 juni 1997 tot wijziging van Richtlijn 89/552/EEG van de Raad betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake de uitoefening van televisie-omroepactiviteiten;
 
 - b. de wet: de [Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149);
 
@@ -64,11 +34,11 @@ In dit besluit wordt verstaan onder:
 
 1. Aan omroepinstellingen wordt ontheffing verleend, van het bepaalde in de eerste volzin van het tweede lid van [artikel 52 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=52), voor het vermelden of tonen van:
 
-- –. de naam of het (beeld)merk van de omroepinstelling,
+- – de naam of het (beeld)merk van de omroepinstelling,
 
-- –. de naam of het (beeld)merk van de door deze omroepinstelling uitgezonden of uit te zenden programmaonderdelen, en,
+- – de naam of het (beeld)merk van de door deze omroepinstelling uitgezonden of uit te zenden programmaonderdelen, en,
 
-- –. de naam en het (beeld)merk van de 3 televisieprogrammanetten, 5 radioprogrammanetten en toegestane neventaken.
+- – de naam en het (beeld)merk van de 3 televisieprogrammanetten, 5 radioprogrammanetten en toegestane neventaken.
 
 Deze vermelding of vertoning mag niet eveneens een vermijdbare vermelding of vertoning van een naam, (beeld)merk, product, dienst of activiteit van een derde bevatten.
 
@@ -94,7 +64,7 @@ Deze vermelding of vertoning mag niet eveneens een vermijdbare vermelding of ver
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ### Oproepen in het kader van verenigingsactiviteiten
 
@@ -106,7 +76,7 @@ Oproepen in het kader van verenigingsactiviteiten dienen beperkt te blijven tot 
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ### Duur
 

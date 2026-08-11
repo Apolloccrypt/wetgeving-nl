@@ -1,48 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken van 15 augustus 2007, nr. WJZ 7009370, houdende vaststelling van nadere regels met betrekking tot de bevoegdheid van de directeur-generaal van de statistiek om gegevens te verstrekken als bedoeld in artikel 42a van de Wet op het Centraal bureau voor de statistiek (Regeling verstrekking gegevens doodsoorzaken CBS)"
+citeertitel: "Regeling verstrekking gegevens doodsoorzaken CBS"
 identifier: "BWBR0022436"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022436"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9191633"
-version_id: "14715262"
-internal_id: "C20025461"
-label_id: "9170404"
-dtd_version: "2.0"
-original_entry_into_force: "2007-08-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022436/2018-08-01/0"
-intitule_bron: "Stcrt.2007-165"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-08-15"
-intitule_published: "2007-08-28"
-intitule_in_force: "2007-08-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-165"
-original_signed_date: "2007-08-15"
-original_published_date: "2007-08-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-165-p4-SC81911"
-entry_into_force_date: "2007-08-30"
-jci_1_3: "jci1.3:c:BWBR0022436&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0022436&g=2018-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling verstrekking gegevens doodsoorzaken CBS"
-signed_date: "2007-08-15"
-entry_into_force: "2007-08-30"
+publicatiedatum: 2007-08-30
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0022436"
+opgehaald: 2026-08-11
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken van 15 augustus 2007, nr. WJZ 7009370, houdende vaststelling van nadere regels met betrekking tot de bevoegdheid van de directeur-generaal van de statistiek om gegevens te verstrekken als bedoeld in artikel 42a van de Wet op het Centraal bureau voor de statistiek (Regeling verstrekking gegevens doodsoorzaken CBS)
-
-Handelende in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport;
-
-Gehoord de Centrale commissie voor de statistiek en het College bescherming persoonsgegevens;
-
-Gelet op [artikel 42a, vijfde lid, van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=42a);
-
-Besluit:
 
 ##### Artikel 1. begripsbepalingen
 
@@ -181,5 +151,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10. citeertitel
 
 Deze regeling wordt aangehaald als: Regeling verstrekking gegevens doodsoorzaken CBS.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

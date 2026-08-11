@@ -1,38 +1,16 @@
 ---
 title: "Omzetbelasting, artiesten"
 identifier: "BWBR0022135"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2007-06-29"
-last_updated: "2007-06-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022135"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "9127863"
-version_id: "14591902"
-internal_id: "C29351931"
-label_id: "9106904"
-dtd_version: "2.0"
-original_entry_into_force: "2007-06-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022135/2007-06-29/0"
-intitule_bron: "Stcrt.2007-121"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-06-13"
-intitule_published: "2007-06-27"
-intitule_in_force: "2007-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-121"
-original_signed_date: "2007-06-13"
-original_published_date: "2007-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-121-p7-SC81029"
-entry_into_force_date: "2007-06-29"
-jci_1_3: "jci1.3:c:BWBR0022135&z=2007-06-29&g=2007-06-29"
-jci_1_0: "1.0:c:BWBR0022135&g=2007-06-29"
-citeertitel_status: "redactioneel"
-signed_date: "2007-06-13"
-entry_into_force: "2007-06-29"
+publicatiedatum: 2007-06-29
+laatste_update: 2007-06-29
+status: geldig
+toestand: 2007-06-29
+bron: "https://wetten.overheid.nl/BWBR0022135"
+opgehaald: 2026-08-11
 ---
+
 # Omzetbelasting, artiesten
 
 De Staatssecretaris van Financiën heeft het volgende besloten.
@@ -61,7 +39,7 @@ Voor enkele bijzondere situaties geldt het volgende.
 
 ### 2.1. Privé-optredens
 
-Voor de loonbelastingwetgeving wordt degene die een optreden rechtstreeks is overeengekomen met een natuurlijk persoon, ten behoeve van diens persoonlijke aangelegenheden, niet aangemerkt als artiest ([artikel 5a, eerste lid, onderdeel b, van de wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5a)). Het optreden op een privé-feest vormt dus een uitzondering op de artiestenregeling in de [wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471). Als een artiest echter gebruik maakt van de goedkeuring in onderdeel 2 van dit besluit, moet hij die goedkeuring ook toepassen op eventuele optredens in de privé-sfeer zoals bedoeld in de [wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
+Voor de loonbelastingwetgeving wordt degene die een optreden rechtstreeks is overeengekomen met een natuurlijk persoon, ten behoeve van diens persoonlijke aangelegenheden, niet aangemerkt als artiest ([artikel 5a, eerste lid, onderdeel b, van de wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5a)). Het optreden op een privé-feest vormt dus een uitzondering op de artiestenregeling in de [wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471). Als een artiest echter gebruik maakt van de goedkeuring in [onderdeel 2](https://wetten.overheid.nl/BWBR0022135) van dit besluit, moet hij die goedkeuring ook toepassen op eventuele optredens in de privé-sfeer zoals bedoeld in de [wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
 
 De goedkeuring kan ook worden toegepast door personen die uitsluitend optreden in opdracht van natuurlijke personen, ten behoeve van hun persoonlijke aangelegenheden.
 
@@ -71,11 +49,11 @@ Voor de heffing van de loonbelasting kan een artiest gebruik maken van een zogen
 
 ### 2.3. Buitenlandse optredens/artiesten
 
-De goedkeuring in onderdeel 2 van dit besluit heeft alleen betrekking op optredens die in Nederland aan de heffing van omzetbelasting zijn onderworpen; zie in dit verband [artikel 6, tweede lid, onderdeel c, van de wet OB](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=6).
+De goedkeuring in [onderdeel 2](https://wetten.overheid.nl/BWBR0022135) van dit besluit heeft alleen betrekking op optredens die in Nederland aan de heffing van omzetbelasting zijn onderworpen; zie in dit verband [artikel 6, tweede lid, onderdeel c, van de wet OB](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=6).
 
-Met ingang van 2007 vallen buitenlandse artiesten en gezelschappen uit landen waarmee Nederland een verdrag ter voorkoming van dubbele belasting heeft gesloten, niet meer onder de artiestenregeling in de loonbelasting ([artikel 5a van de wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5a)). Dit geldt ook voor artiesten en gezelschappen uit de Nederlandse Antillen of Aruba. Wanneer het hier artiesten betreft die hun beroep zelfstandig uitoefenen (zie onderdeel 1), dan moeten zij over de door hen als zodanig verrichte prestaties omzetbelasting in rekening brengen.
+Met ingang van 2007 vallen buitenlandse artiesten en gezelschappen uit landen waarmee Nederland een verdrag ter voorkoming van dubbele belasting heeft gesloten, niet meer onder de artiestenregeling in de loonbelasting ([artikel 5a van de wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5a)). Dit geldt ook voor artiesten en gezelschappen uit de Nederlandse Antillen of Aruba. Wanneer het hier artiesten betreft die hun beroep zelfstandig uitoefenen (zie [onderdeel 1](https://wetten.overheid.nl/BWBR0022135)), dan moeten zij over de door hen als zodanig verrichte prestaties omzetbelasting in rekening brengen.
 
-Buitenlandse artiesten afkomstig uit landen waarmee Nederland geen verdrag ter voorkoming van dubbele belasting heeft gesloten, komen wel in aanmerking voor de artiestenregeling in de loonbelasting. Is dit het geval dan kunnen deze artiesten de goedkeuring in onderdeel 2 van dit besluit overeenkomstig toepassen.
+Buitenlandse artiesten afkomstig uit landen waarmee Nederland geen verdrag ter voorkoming van dubbele belasting heeft gesloten, komen wel in aanmerking voor de artiestenregeling in de loonbelasting. Is dit het geval dan kunnen deze artiesten de goedkeuring in [onderdeel 2](https://wetten.overheid.nl/BWBR0022135) van dit besluit overeenkomstig toepassen.
 
 ### 3. Vervangend artiest
 
@@ -83,11 +61,13 @@ Artiesten kunnen in dienstbetrekking zijn bij een werkgever. Deze situatie komt 
 
 Bij ziekte of in bijzondere situaties wordt voor de bezetting van deze orkesten vaak een beroep gedaan op individuele musici (remplaçanten) die tijdelijk deel gaan uitmaken van dat orkest. Hun feitelijke positie is geheel gelijk aan die van de vaste leden van het orkest.
 
+Goedkeuring
+
 Uit praktische overwegingen keur ik goed dat de prestaties van de tijdelijke vervangende artiesten, waarvan de feitelijke positie in het orkest geheel gelijk is aan die van de vaste leden, buiten de heffing van omzetbelasting blijven. Deze goedkeuring geldt ook indien de desbetreffende artiesten daarnaast zelfstandig het beroep van musicus enz. uitoefenen.
 
 ### 4. Orkesten en popgroepen
 
-Orkesten en popgroepen die in een bepaalde vaste samenstelling en met een zekere regelmaat als een eenheid aan het maatschappelijk verkeer deelnemen, moeten over de door hen als zodanig verrichte prestaties omzetbelasting in rekening brengen. Wanneer elk individueel lid van het orkest of de popgroep als artiest in de zin van de [wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) wordt aangemerkt, geldt het gestelde onder onderdeel 2.
+Orkesten en popgroepen die in een bepaalde vaste samenstelling en met een zekere regelmaat als een eenheid aan het maatschappelijk verkeer deelnemen, moeten over de door hen als zodanig verrichte prestaties omzetbelasting in rekening brengen. Wanneer elk individueel lid van het orkest of de popgroep als artiest in de zin van de [wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) wordt aangemerkt, geldt het gestelde onder [onderdeel 2](https://wetten.overheid.nl/BWBR0022135).
 
 ### 5. De vergoeding
 
@@ -108,5 +88,3 @@ besluit van 20 december 2001, nr. CPP/2167M.
 ### 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de dagtekening van dit besluit.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

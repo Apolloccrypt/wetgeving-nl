@@ -1,75 +1,46 @@
 ---
 title: "Wet van 24 mei 2007 tot wijziging van de Faillissementswet in verband met herziening van de schuldsaneringsregeling natuurlijke personen"
+citeertitel: "Wijzigingswet Faillissementswet (herziening schuldsaneringsregeling natuurlijke personen)"
 identifier: "BWBR0022010"
-country: "nl"
-rank: "wet"
-publication_date: "2008-01-01"
-last_updated: "2008-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022010"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "9106263"
-version_id: "14544342"
-internal_id: "C19846841"
-label_id: "9085184"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022010/2008-01-01/0"
-intitule_bron: "Stb.2007-192"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-05-24"
-intitule_published: "2007-06-07"
-intitule_in_force: "2007-06-26"
-intitule_status: "goed"
-original_publication: "Stb.2007-192"
-original_signed_date: "2007-05-24"
-original_published_date: "2007-06-07"
-original_effect: "nieuwe-regeling"
-original_dossier: "29942"
-original_url_id: "stb-2007-192"
-entry_into_force_date: "2008-01-01"
-jci_1_3: "jci1.3:c:BWBR0022010&z=2008-01-01&g=2008-01-01"
-jci_1_0: "1.0:c:BWBR0022010&g=2008-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Faillissementswet (herziening schuldsaneringsregeling natuurlijke personen)"
-signed_date: "2007-05-24"
-entry_into_force: "2008-01-01"
+publicatiedatum: 2008-01-01
+laatste_update: 2008-01-01
+status: geldig
+toestand: 2008-01-01
+bron: "https://wetten.overheid.nl/BWBR0022010"
+opgehaald: 2026-08-11
 ---
+
 # Wet van 24 mei 2007 tot wijziging van de Faillissementswet in verband met herziening van de schuldsaneringsregeling natuurlijke personen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het gewenst is dat de [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860) wordt gewijzigd teneinde de schuldsaneringsregeling natuurlijke personen te vereenvoudigen en de toegang tot de regeling beheersbaar te houden;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Faillissementswet.
+*Wijzigt de Faillissementswet.*
 
 ##### Artikel Ia
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel Ib
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel Ic
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel Id
 
-Wijzigt de Wet op het consumentenkrediet.
+*Wijzigt de Wet op het consumentenkrediet.*
 
 ##### Artikel II
 
-Wijzigt de Wijzigingswet Faillissementswet (bevorderen effectiviteit surséance van betaling en faillissement)(Kamerstuk 27244).
+*Wijzigt de Wijzigingswet Faillissementswet (bevorderen effectiviteit surséance van betaling en faillissement)(Kamerstuk 27244).*
 
 ##### Artikel III
 
-Wijzigt de Faillissementswet.
+*Wijzigt de Faillissementswet.*
 
 ##### Artikel IV
 
@@ -82,5 +53,3 @@ Wijzigt de Faillissementswet.
 ##### Artikel V
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

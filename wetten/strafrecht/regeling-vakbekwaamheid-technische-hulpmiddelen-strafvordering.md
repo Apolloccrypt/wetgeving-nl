@@ -1,43 +1,17 @@
 ---
 title: "Regeling vakbekwaamheid technische hulpmiddelen strafvordering"
 identifier: "BWBR0020826"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-02-27"
-last_updated: "2018-02-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020826"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling"
-stam_id: "8825693"
-version_id: "14006922"
-internal_id: "C19051801"
-label_id: "8805404"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020826/2018-02-27/0"
-intitule_bron: "Stcrt.2006-251"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-12-21"
-intitule_published: "2006-12-27"
-intitule_in_force: "2006-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-251"
-original_signed_date: "2006-12-21"
-original_published_date: "2006-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-251-p7-SC78593"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020826&z=2018-02-27&g=2018-02-27"
-jci_1_0: "1.0:c:BWBR0020826&g=2018-02-27"
-citeertitel_status: "officieel"
-signed_date: "2006-12-21"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2018-02-27
+status: geldig
+toestand: 2018-02-27
+bron: "https://wetten.overheid.nl/BWBR0020826"
+opgehaald: 2026-08-11
 ---
+
 # Regeling vakbekwaamheid technische hulpmiddelen strafvordering
-
-Gelet op de [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&artikel=7) en [16 van het Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&artikel=16);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -104,5 +78,3 @@ Deze regeling treedt in werking op 1 januari 2007.
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling vakbekwaamheid technische hulpmiddelen strafvordering.
-
-Deze regeling zal in de Staatscourant worden geplaatst. Van de plaatsing wordt mededeling gedaan in het Algemeen Politieblad.

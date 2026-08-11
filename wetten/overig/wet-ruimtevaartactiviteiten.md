@@ -1,48 +1,18 @@
 ---
 title: "Wet van 24 januari 2007, houdende regels omtrent ruimtevaartactiviteiten en de instelling van een register van ruimtevoorwerpen (Wet ruimtevaartactiviteiten)"
+citeertitel: "Wet ruimtevaartactiviteiten"
 identifier: "BWBR0021418"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021418"
+categorie: "Overig"
 soort: "wet"
-stam_id: "8976053"
-version_id: "17606962"
-internal_id: "C24364321"
-label_id: "8955424"
-dtd_version: "2.0"
-original_entry_into_force: "2010-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021418/2025-07-01/0"
-intitule_bron: "Stb.2007-80"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-01-24"
-intitule_published: "2007-03-06"
-intitule_in_force: "2007-12-13"
-intitule_status: "goed"
-original_publication: "Stb.2010-350"
-original_signed_date: "2010-05-17"
-original_published_date: "2010-09-01"
-original_effect: "structuurwijziging"
-original_dossier: "31959"
-original_url_id: "stb-2010-350"
-entry_into_force_date: "2010-05-17"
-entry_into_force_dossier: "31959"
-jci_1_3: "jci1.3:c:BWBR0021418&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0021418&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet ruimtevaartactiviteiten"
-signed_date: "2010-05-17"
-entry_into_force: "2010-05-17"
+publicatiedatum: 2010-05-17
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0021418"
+opgehaald: 2026-08-11
 ---
+
 # Wet van 24 januari 2007, houdende regels omtrent ruimtevaartactiviteiten en de instelling van een register van ruimtevoorwerpen (Wet ruimtevaartactiviteiten)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is ten aanzien van ruimtevaartactiviteiten en de instelling en beheer van een register van ruimtevoorwerpen regels te stellen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -76,6 +46,12 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 1a. Bonaire, Sint Eustatius en Saba
 
+##### Artikel 2a
+
+Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+### Hoofdstuk 2. Vergunningen
+
 #### § 1. Vergunning voor ruimtevaartactiviteiten
 
 ##### Artikel 3
@@ -106,7 +82,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het bepaalde in het vierde lid.
 
-#### § 1. Vergunning voor ruimtevaartactiviteiten
+#### § 2. Aanvraag vergunning
 
 ##### Artikel 4
 
@@ -218,7 +194,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ter uitvoering van dit artikel.
 
-### Hoofdstuk 3. Register ruimtevoorwerpen
+### Hoofdstuk 4. Regres
 
 ##### Artikel 12
 
@@ -230,7 +206,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De staat kan het recht van verhaal, bedoelt in het derde lid, in voorkomend geval eveneens uitoefenen tegen de verzekeraar van de vergunninghouder.
 
-### Hoofdstuk 4. Regres
+### Hoofdstuk 5. Handhaving
 
 ##### Artikel 13
 
@@ -246,51 +222,51 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 15
 
-1. Ingeval van overtreding van het bepaalde bij of krachtens [artikelen 3, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), [7, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450 000, of, indien dat meer is, 10 procent van de relevante jaaromzet van de onderneming in Nederland.
+1. Ingeval van overtreding van het bepaalde bij of krachtens [artikelen 3, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), [7, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450 000, of, indien dat meer is, 10 procent van de relevante jaaromzet van de onderneming in Nederland.
 
-2. Ingeval van overtreding van het bepaalde bij of krachtens [artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2025-07-01&g=2025-07-01), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100 000.
+2. Ingeval van overtreding van het bepaalde bij of krachtens [artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2025-07-01&g=2025-07-01), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100 000.
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 6. Wijziging in andere wetgeving
 
 ##### Artikel 24
 
-1. Wijzigt de Wet op de economische delicten.
+1. *Wijzigt de Wet op de economische delicten.*
 
-2. Wijzigt de Wet op de economische delicten.
+2. *Wijzigt de Wet op de economische delicten.*
 
-### Hoofdstuk 6. Wijziging in andere wetgeving
+### Hoofdstuk 7. Slotbepalingen
 
 ##### Artikel 25
 
@@ -300,7 +276,7 @@ Vervallen
 
 ##### Artikel 26
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 27
 
@@ -309,21 +285,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 28
 
 Deze wet wordt aangehaald als: Wet ruimtevaartactiviteiten.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a
-
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-### Hoofdstuk 2. Vergunningen
-
-#### § 2. Aanvraag vergunning
-
-#### § 3. Calamiteiten
-
-### Hoofdstuk 5. Handhaving
-
-### Hoofdstuk 7. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

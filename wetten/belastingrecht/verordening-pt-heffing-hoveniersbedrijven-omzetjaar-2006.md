@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d. 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven op te leggen in het jaar 2007 (Verordening PT heffing hoveniersbedrijven omzetjaar 2006)"
+citeertitel: "Verordening PT heffing hoveniersbedrijven omzetjaar 2006"
 identifier: "BWBR0020986"
-country: "nl"
-rank: "pbo"
-publication_date: "2006-12-24"
-last_updated: "2006-12-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020986"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "8862913"
-version_id: "14078072"
-internal_id: "C19171161"
-label_id: "8842394"
-dtd_version: "2.0"
-original_entry_into_force: "2006-12-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020986/2006-12-24/0"
-intitule_bron: "Vbbo.2006-69"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-03"
-intitule_published: "2006-12-22"
-intitule_in_force: "2006-12-22"
-intitule_status: "goed"
-original_publication: "Vbbo.2006-69"
-original_signed_date: "2006-07-03"
-original_published_date: "2006-12-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2006-12-24"
-jci_1_3: "jci1.3:c:BWBR0020986&z=2006-12-24&g=2006-12-24"
-jci_1_0: "1.0:c:BWBR0020986&g=2006-12-24"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing hoveniersbedrijven omzetjaar 2006"
-signed_date: "2006-07-03"
-entry_into_force: "2006-12-24"
+publicatiedatum: 2006-12-24
+laatste_update: 2006-12-24
+status: geldig
+toestand: 2006-12-24
+bron: "https://wetten.overheid.nl/BWBR0020986"
+opgehaald: 2026-08-11
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven op te leggen in het jaar 2007 (Verordening PT heffing hoveniersbedrijven omzetjaar 2006)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-Gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-Gehoord de Commissie voor hovenierswerkzaamheden, d.d. 12 april 2006;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -133,5 +104,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 13
 
 Deze verordening wordt aangehaald als: Verordening PT heffing hoveniersbedrijven omzetjaar 2006.
-
-Deze verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 21 juli 2007, houdende algemene bepalingen betreffende de toekenning, het beheer en het gebruik van het burgerservicenummer (Wet algemene bepalingen burgerservicenummer)"
+citeertitel: "Wet algemene bepalingen burgerservicenummer"
 identifier: "BWBR0022428"
-country: "nl"
-rank: "wet"
-publication_date: "2025-11-11"
-last_updated: "2025-11-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022428"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9189493"
-version_id: "14712602"
-internal_id: "C20256711"
-label_id: "9168524"
-dtd_version: "2.0"
-original_entry_into_force: "2007-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022428/2025-11-11/0"
-intitule_bron: "Stb.2007-288"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-07-21"
-intitule_published: "2007-08-28"
-intitule_in_force: "2007-11-15"
-intitule_status: "goed"
-original_publication: "Stb.2007-288"
-original_signed_date: "2007-07-21"
-original_published_date: "2007-08-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "30312"
-original_url_id: "stb-2007-288"
-entry_into_force_date: "2007-11-26"
-jci_1_3: "jci1.3:c:BWBR0022428&z=2025-11-11&g=2025-11-11"
-jci_1_0: "1.0:c:BWBR0022428&g=2025-11-11"
-citeertitel_status: "officieel"
-short_title: "Wet algemene bepalingen burgerservicenummer"
-signed_date: "2007-07-21"
-entry_into_force: "2007-11-26"
+publicatiedatum: 2007-11-26
+laatste_update: 2025-11-11
+status: geldig
+toestand: 2025-11-11
+bron: "https://wetten.overheid.nl/BWBR0022428"
+opgehaald: 2026-08-11
 ---
+
 # Wet van 21 juli 2007, houdende algemene bepalingen betreffende de toekenning, het beheer en het gebruik van het burgerservicenummer (Wet algemene bepalingen burgerservicenummer)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is algemene regels te stellen in verband met de invoering van een uniek persoonsnummer teneinde de doelmatigheid van de administraties van de overheid en enige andere sectoren te vergroten en de dienstverlening aan de burger te verbeteren, een en ander met inachtneming van de eisen die daaraan behoren te worden gesteld ter bescherming van de persoonlijke levenssfeer;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -55,19 +26,25 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. overheidsorgaan:
 
-- 1°. een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld, of
+   - 1°. een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld, of
 
-- 2°. een ander persoon of college, met enig openbaar gezag bekleed;
+   - 2°. een ander persoon of college, met enig openbaar gezag bekleed;
 
 - d. gebruiker:
 
-- 1°. een overheidsorgaan;
+   - 1°. een overheidsorgaan;
 
-- 2°. ieder ander dan een overheidsorgaan of degene aan wie het burgerservicenummer is toegekend, voor zover deze werkzaamheden verricht waarbij het gebruik door hem of haar van het burgerservicenummer bij of krachtens de wet is voorgeschreven;
+   - 2°. ieder ander dan een overheidsorgaan of degene aan wie het burgerservicenummer is toegekend, voor zover deze werkzaamheden verricht waarbij het gebruik door hem of haar van het burgerservicenummer bij of krachtens de wet is voorgeschreven;
 
 - e. beheervoorziening: de beheervoorziening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-11-11&g=2025-11-11);
 
 - f. nummerregister: het nummerregister dat deel uitmaakt van de beheervoorziening.
+
+##### Artikel 1a
+
+1. Deze wet en de daarop berustende bepalingen zijn mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+2. In afwijking van het eerste lid is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=1&artikel=13&z=2025-11-11&g=2025-11-11) eerst van toepassing met ingang van een bij Koninklijk Besluit te bepalen tijdstip.
 
 ##### Artikel 2
 
@@ -89,11 +66,11 @@ Het burgerservicenummer bevat geen informatie over de persoon aan wie het is toe
 
 - d. voorzieningen met behulp waarvan de daartoe bestemde registraties kunnen worden geraadpleegd teneinde na te gaan:
 
-- 1°. of aan een bepaalde persoon reeds een burgerservicenummer is toegekend en zo ja, welk burgerservicenummer;
+   - 1°. of aan een bepaalde persoon reeds een burgerservicenummer is toegekend en zo ja, welk burgerservicenummer;
 
-- 2°. aan welke persoon een bepaald burgerservicenummer is toegekend;
+   - 2°. aan welke persoon een bepaald burgerservicenummer is toegekend;
 
-- 3°. of het Nederlandse document, met behulp waarvan een persoon zich identificeert, een document is als bedoeld in [artikel 1, eerste lid, onder 1°, 2° of 4°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
+   - 3°. of het Nederlandse document, met behulp waarvan een persoon zich identificeert, een document is als bedoeld in [artikel 1, eerste lid, onder 1°, 2° of 4°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de inrichting, de instandhouding, de werking en de beveiliging van de beheervoorziening.
 
@@ -243,11 +220,11 @@ Aan een gebruiker worden op zijn verzoek uit het nummerregister de inlichtingen 
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
@@ -273,7 +250,7 @@ Na de inwerkingtreding van [artikel I, onderdeel C, van de Wet invoering BSN en 
 
 ##### Artikel 24
 
-Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.
+*Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.*
 
 ##### Artikel 25
 
@@ -282,33 +259,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 26
 
 Deze wet wordt aangehaald als: Wet algemene bepalingen burgerservicenummer.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-1. Deze wet en de daarop berustende bepalingen zijn mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-2. In afwijking van het eerste lid is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=1&artikel=13&z=2025-11-11&g=2025-11-11) eerst van toepassing met ingang van een bij Koninklijk Besluit te bepalen tijdstip.
-
-### Hoofdstuk 2. Nummerbeheer
-
-#### Paragraaf 1. De beheervoorziening
-
-#### Paragraaf 2. Het nummerregister
-
-### Hoofdstuk 3. Aanmaken en toekennen van burgerservicenummers
-
-### Hoofdstuk 4. Algemene bepalingen betreffende het gebruik van het burgerservicenummer en de beheervoorziening
-
-#### Paragraaf 1. Het gebruik van het burgerservicenummer
-
-#### Paragraaf 2. Het verstrekken van inlichtingen aan gebruikers
-
-#### Paragraaf 3. Sectorale berichtenvoorzieningen
-
-### Hoofdstuk 5. Bescherming van persoonsgegevens, toezicht en controle
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

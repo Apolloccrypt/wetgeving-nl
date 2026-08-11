@@ -1,43 +1,18 @@
 ---
-title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 2 november 2006, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2007 (Verordening GZP financieringsheffing jaar 2007)"
+title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 2 november 2006, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2007 (Verordening GZP financieringsheffing jaar 2007)."
+citeertitel: "Verordening GZP financieringsheffing jaar 2007"
 identifier: "BWBR0020982"
-country: "nl"
-rank: "pbo"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020982"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "8861703"
-version_id: "14076602"
-internal_id: "C19169221"
-label_id: "8841234"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020982/2007-01-01/0"
-intitule_bron: "Vbbo.2006-68"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-02"
-intitule_published: "2006-12-22"
-intitule_in_force: "2006-12-22"
-intitule_status: "goed"
-original_publication: "Vbbo.2006-68"
-original_signed_date: "2006-11-02"
-original_published_date: "2006-12-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2007-01-01"
-jci_1_3: "jci1.3:c:BWBR0020982&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0020982&g=2007-01-01"
-citeertitel_status: "officieel"
-short_title: "Verordening GZP financieringsheffing jaar 2007"
-signed_date: "2006-11-02"
-entry_into_force: "2007-01-01"
+publicatiedatum: 2007-01-01
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0020982"
+opgehaald: 2026-08-11
 ---
-# Verordening van het Productschap Granen, Zaden en Peulvruchten van 2 november 2006, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2007 (Verordening GZP financieringsheffing jaar 2007)
 
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 eerste lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=8) en [19 van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=19);
-
-Besluit:
+# Verordening van het Productschap Granen, Zaden en Peulvruchten van 2 november 2006, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2007 (Verordening GZP financieringsheffing jaar 2007).
 
 #### § 1. Begripsbepalingen
 
@@ -101,11 +76,11 @@ Ook indien in een bepaalde periode geen activiteiten als vermeld op het opgavenf
 
 2. De heffing bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020982&paragraaf=2&artikel=4&z=2007-01-01&g=2007-01-01), wordt door het productschap geïnd
 
-- –. voor de telers van graszaad op basis van de door de teler aan het Hoofdproductschap Akkerbouw ingevolge de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014846) verstrekte gegevens
+- – voor de telers van graszaad op basis van de door de teler aan het Hoofdproductschap Akkerbouw ingevolge de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014846) verstrekte gegevens
 
-- –. en overigens
+- – en overigens
 
-- –. door middel van de in het eerste lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020982&paragraaf=2&artikel=4&z=2007-01-01&g=2007-01-01) bedoelde ondernemers op basis van door hen afgesloten teeltcontracten.
+- – door middel van de in het eerste lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020982&paragraaf=2&artikel=4&z=2007-01-01&g=2007-01-01) bedoelde ondernemers op basis van door hen afgesloten teeltcontracten.
 
 ##### Artikel 8
 

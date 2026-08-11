@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 16 mei 2007, nr. MC-U-2770876, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake overschrijding financiële ruimte ziekenhuizen in 2007"
+citeertitel: "Besluit ex artikel 7 Wet marktordening gezondheidszorg inzake overschrijding financiële ruimte ziekenhuizen in 2007"
 identifier: "BWBR0021909"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-05-24"
-last_updated: "2007-05-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021909"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9084553"
-version_id: "14498592"
-internal_id: "C29347281"
-label_id: "9063484"
-dtd_version: "2.0"
-original_entry_into_force: "2007-05-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021909/2007-05-24/0"
-intitule_bron: "Stcrt.2007-98"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-05-16"
-intitule_published: "2007-05-24"
-intitule_in_force: "2007-05-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-98"
-original_signed_date: "2007-05-16"
-original_published_date: "2007-05-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-98-p32-SC80597"
-entry_into_force_date: "2007-05-24"
-jci_1_3: "jci1.3:c:BWBR0021909&z=2007-05-24&g=2007-05-24"
-jci_1_0: "1.0:c:BWBR0021909&g=2007-05-24"
-citeertitel_status: "redactioneel"
-short_title: "Besluit ex artikel 7 Wet marktordening gezondheidszorg inzake overschrijding financiële ruimte ziekenhuizen in 2007"
-signed_date: "2007-05-16"
-entry_into_force: "2007-05-24"
+publicatiedatum: 2007-05-24
+laatste_update: 2007-05-24
+status: geldig
+toestand: 2007-05-24
+bron: "https://wetten.overheid.nl/BWBR0021909"
+opgehaald: 2026-08-11
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 16 mei 2007, nr. MC-U-2770876, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake overschrijding financiële ruimte ziekenhuizen in 2007
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brieven van 5 april 2007, kenmerk MC-U-2759365 en MC-2758866);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -85,5 +57,3 @@ Voor de verdeling van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWB
 ##### Artikel 6
 
 Deze aanwijzing treedt terstond in werking en werkt terug tot 1 januari 2007.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

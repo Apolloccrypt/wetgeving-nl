@@ -1,38 +1,17 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 27 maart 2007, houdende de vaststelling van een aan telers van en handelaren in bloembollen op te leggen heffing voor het oogstjaar 2007 (Verordening PT vakheffing bloembollen oogstjaar 2007)"
+citeertitel: "Verordening PT vakheffing bloembollen oogstjaar 2007"
 identifier: "BWBR0022158"
-country: "nl"
-rank: "pbo"
-publication_date: "2010-12-26"
-last_updated: "2010-12-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022158"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "9132893"
-version_id: "14601002"
-internal_id: "C19879301"
-label_id: "9111934"
-dtd_version: "2.0"
-original_entry_into_force: "2007-06-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022158/2010-12-26/0"
-intitule_bron: "Vbbo.2007-31"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-03-27"
-intitule_published: "2007-06-22"
-intitule_in_force: "2007-06-22"
-intitule_status: "goed"
-original_publication: "Vbbo.2007-31"
-original_signed_date: "2007-03-27"
-original_published_date: "2007-06-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2007-06-24"
-jci_1_3: "jci1.3:c:BWBR0022158&z=2010-12-26&g=2010-12-26"
-jci_1_0: "1.0:c:BWBR0022158&g=2010-12-26"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing bloembollen oogstjaar 2007"
-signed_date: "2007-03-27"
-entry_into_force: "2007-06-24"
+publicatiedatum: 2007-06-24
+laatste_update: 2010-12-26
+status: geldig
+toestand: 2010-12-26
+bron: "https://wetten.overheid.nl/BWBR0022158"
+opgehaald: 2026-08-11
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 maart 2007, houdende de vaststelling van een aan telers van en handelaren in bloembollen op te leggen heffing voor het oogstjaar 2007 (Verordening PT vakheffing bloembollen oogstjaar 2007)
 
 #### § 1. Begripsbepalingen
@@ -47,13 +26,13 @@ entry_into_force: "2007-06-24"
 
 | a. | bloembollen: | 1. bollen of knollen van bloemgewassen; |
 | --- | --- | --- |
-|   |   | 2. afgebroeide bloembollen; |
-|   |   | 3. geholde en gesneden hyacinten; |
-|   |   | 4. eenjarige bollen van geholde en gesneden hyacinten, voor zover verhandeld per bed of per mand; |
-|   |   | 5. bollen van hyacinten, die zijn verkocht onder uitdrukkelijke voorwaarde dat deze zullen worden gebruikt als werkbollen, in welk geval deze voorwaarde op het koopbriefje dient te worden vermeld; |
-|   |   | 6. groen te velde per bed of per mand voor 15 juni van het kalenderjaar waarin het koopseizoen aanvangt verhandelde hyacinten, geplant in de maat onder zift 10, droog gesorteerd; |
-|   |   | 7. schubbollen van lelies; |
-|   |   | 8. voortkwekingsmateriaal, voor zover bestemd voor de teelt van bloembollen, met uitzondering van zaden; |
+|  |  | 2. afgebroeide bloembollen; |
+|  |  | 3. geholde en gesneden hyacinten; |
+|  |  | 4. eenjarige bollen van geholde en gesneden hyacinten, voor zover verhandeld per bed of per mand; |
+|  |  | 5. bollen van hyacinten, die zijn verkocht onder uitdrukkelijke voorwaarde dat deze zullen worden gebruikt als werkbollen, in welk geval deze voorwaarde op het koopbriefje dient te worden vermeld; |
+|  |  | 6. groen te velde per bed of per mand voor 15 juni van het kalenderjaar waarin het koopseizoen aanvangt verhandelde hyacinten, geplant in de maat onder zift 10, droog gesorteerd; |
+|  |  | 7. schubbollen van lelies; |
+|  |  | 8. voortkwekingsmateriaal, voor zover bestemd voor de teelt van bloembollen, met uitzondering van zaden; |
 | b. | factuurbedrag: | het bedrag van de factuur, exclusief behandelingskosten en exclusief kosten kleinverpakkingsmateriaal; |
 | c. | veiling: | Hobaho BV, Coöperatieve Nederlandse Bloembollencentrale (b.a.) en Floralia; |
 | d. | koopseizoen: | de periode van 1 juni 2007 tot en met 31 mei 2008; |
@@ -179,20 +158,6 @@ Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomend
 
 #### § 4. Oplegging en inning
 
-#### § 4. Oplegging en inning
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen, d.d. 13 februari 2007;
-
-Besluit:
-
-#### § 1. Begripsbepalingen
-
-#### § 2. Heffingsplicht
-
-#### § 3. Grondslag en hoogte
-
 ##### Artikel 12
 
 In die gevallen dat de heffing niet is voldaan op de wijze bedoeld in de [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022158&paragraaf=3&artikel=5&z=2010-12-26&g=2010-12-26), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022158&paragraaf=3&artikel=6&z=2010-12-26&g=2010-12-26), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022158&paragraaf=3&artikel=8&z=2010-12-26&g=2010-12-26), en [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022158&paragraaf=3&artikel=9&z=2010-12-26&g=2010-12-26), vindt de oplegging van de krachtens deze verordening verschuldigde heffing plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt deze door toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
@@ -220,5 +185,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 17
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing bloembollen oogstjaar 2007.
-
-Deze verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

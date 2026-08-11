@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 29 augustus 2006, houdende toestemming om drie vaandels van voorheen zelfstandige onderdelen van de Koninklijke Marine te blijven voeren"
+citeertitel: "Besluit houdende toestemming drie vaandels van voorheen zelfstandige onderdelen van de Koninklijke Marine te blijven voeren"
 identifier: "BWBR0020964"
-country: "nl"
-rank: "kb"
-publication_date: "2007-01-12"
-last_updated: "2007-01-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020964"
+categorie: "Overig"
 soort: "KB"
-stam_id: "8857793"
-version_id: "14070192"
-internal_id: "C19148691"
-label_id: "8837154"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020964/2007-01-12/0"
-intitule_bron: "Stb.2007-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-08-29"
-intitule_published: "2007-01-11"
-intitule_in_force: "2007-01-11"
-intitule_status: "goed"
-original_publication: "Stb.2007-9"
-original_signed_date: "2006-08-29"
-original_published_date: "2007-01-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2007-9"
-entry_into_force_date: "2007-01-12"
-jci_1_3: "jci1.3:c:BWBR0020964&z=2007-01-12&g=2007-01-12"
-jci_1_0: "1.0:c:BWBR0020964&g=2007-01-12"
-citeertitel_status: "redactioneel"
-short_title: "Besluit houdende toestemming drie vaandels van voorheen zelfstandige onderdelen van de Koninklijke Marine te blijven voeren"
-signed_date: "2006-08-29"
-entry_into_force: "2007-01-12"
+publicatiedatum: 2007-01-12
+laatste_update: 2007-01-12
+status: geldig
+toestand: 2007-01-12
+bron: "https://wetten.overheid.nl/BWBR0020964"
+opgehaald: 2026-08-11
 ---
+
 # Besluit van 29 augustus 2006, houdende toestemming om drie vaandels van voorheen zelfstandige onderdelen van de Koninklijke Marine te blijven voeren
-
-Op de voordracht van Onze Minister van Defensie van 21 augustus 2006, nr. DO 018/2006016831, bureau secretaris-generaal, sectie onderscheidingen;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -55,5 +29,3 @@ Aan de Mijnendienst van de Koninklijke Marine wordt toestemming verleend om het 
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Voorzitter van het Kapittel der Militaire Willems-Orde en aan Onze Adjudant-Generaal, tevens Chef van Ons Militaire Huis.

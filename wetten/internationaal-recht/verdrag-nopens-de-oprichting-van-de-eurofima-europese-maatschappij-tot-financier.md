@@ -8,7 +8,7 @@ laatste_update: 2026-06-09
 status: geldig
 toestand: 2026-06-09
 bron: "https://wetten.overheid.nl/BWBV0005045"
-opgehaald: 2026-08-10
+opgehaald: 2026-08-11
 ---
 
 # Verdrag nopens de oprichting van de “Eurofima”, Europese Maatschappij tot financiering van spoorwegmaterieel

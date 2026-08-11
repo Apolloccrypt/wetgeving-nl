@@ -1,47 +1,18 @@
 ---
 title: "Wet van 17 februari 2007, houdende regeling voor de toelating, het op de markt brengen en het gebruik van gewasbeschermingmiddelen en biociden (Wet gewasbeschermingsmiddelen en biociden)"
+citeertitel: "Wet gewasbeschermingsmiddelen en biociden"
 identifier: "BWBR0021670"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021670"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9036323"
-version_id: "14401932"
-internal_id: "C20143171"
-label_id: "9017124"
-dtd_version: "2.0"
-original_entry_into_force: "2007-10-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021670/2026-01-01/0"
-intitule_bron: "Stb.2007-125"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-02-17"
-intitule_published: "2007-04-10"
-intitule_in_force: "2007-10-16"
-intitule_status: "goed"
-original_publication: "Stb.2007-125"
-original_signed_date: "2007-02-17"
-original_published_date: "2007-04-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "30474"
-original_url_id: "stb-2007-125"
-entry_into_force_date: "2007-10-17"
-jci_1_3: "jci1.3:c:BWBR0021670&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0021670&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet gewasbeschermingsmiddelen en biociden"
-signed_date: "2007-02-17"
-entry_into_force: "2007-10-17"
+publicatiedatum: 2007-10-17
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0021670"
+opgehaald: 2026-08-11
 ---
+
 # Wet van 17 februari 2007, houdende regeling voor de toelating, het op de markt brengen en het gebruik van gewasbeschermingmiddelen en biociden (Wet gewasbeschermingsmiddelen en biociden)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is nieuwe regels te stellen voor de toelating, het op de markt brengen en het gebruik van gewasbeschermingsmiddelen alsmede voor de toelating en registratie, het op de markt brengen en het gebruik van biociden, mede gelet op [richtlijn nr. 91/414/EEG](31991L0414) van de Raad van de Europese Gemeenschappen van 15 juli 1991 betreffende het op de markt brengen van gewasbeschermingsmiddelen (PbEG L 230) en [richtlijn nr. 98/8/EG](31998L0008) van het Europees Parlement en de Raad van de Europese Unie van 16 februari 1998 betreffende het op de markt brengen van biociden (PbEG L 123);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -53,7 +24,7 @@ apparatuur voor de toepassing van gewasbeschermingsmiddelen: apparaat dat specif
 
 behandeld voorwerp: behandeld voorwerp als bedoeld in artikel 3, eerste lid, onder 1, van verordening (EU) Nr. 528/2012;
 
-biociden: biociden als bedoeld in artikel 3, eerste lid onder a, van verordening (EU) Nr. 528/2012;
+biociden: biociden als bedoeld in artikel 3, eerste lid onder a, van verordening (EU) Nr. 528/2012;
 
 college: College voor de toelating van gewasbeschermingsmiddelen en biociden, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01);
 
@@ -69,25 +40,25 @@ gewasbeschermingsmiddel: gewasbeschermingsmiddel als bedoeld in artikel 2, eerst
 
 Onze Minister:
 
-- –. voor gewasbeschermingsmiddelen, alsmede voor de toepassing van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=2&z=2026-01-01&g=2026-01-01): Onze Minister van Landbouw, Natuur en Voedselkwaliteit in overeenstemming met Onze Minister van Infrastructuur en Milieu;
+- – voor gewasbeschermingsmiddelen, alsmede voor de toepassing van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=2&z=2026-01-01&g=2026-01-01): Onze Minister van Landbouw, Natuur en Voedselkwaliteit in overeenstemming met Onze Minister van Infrastructuur en Milieu;
 
-- –. voor biociden: Onze Minister van Infrastructuur en Milieu in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
+- – voor biociden: Onze Minister van Infrastructuur en Milieu in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- –. voor de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=86&z=2026-01-01&g=2026-01-01) en [90](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=90&z=2026-01-01&g=2026-01-01): Onze Minister van Landbouw, Natuur en Voedselkwaliteit met betrekking tot overtredingen met gewasbeschermingsmiddelen of Onze Minister van Infrastructuur en Milieu met betrekking tot overtredingen met biociden;
+- – voor de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=7&titeldeel=1&paragraaf=2&artikel=86&z=2026-01-01&g=2026-01-01) en [90](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=7&titeldeel=2&paragraaf=1&artikel=90&z=2026-01-01&g=2026-01-01): Onze Minister van Landbouw, Natuur en Voedselkwaliteit met betrekking tot overtredingen met gewasbeschermingsmiddelen of Onze Minister van Infrastructuur en Milieu met betrekking tot overtredingen met biociden;
 
 Onze Ministers: Onze Minister van Landbouw, Natuur en Voedselkwaliteit, Onze Minister van Infrastructuur en Milieu, Onze Minister van Sociale Zaken en Werkgelegenheid, en Onze Minister van Volksgezondheid, Welzijn en Sport;
 
 professionele gebruiker: persoon die in de landbouwsector of in een andere sector, gewasbeschermingsmiddelen gebruikt in het kader van zijn beroepsactiviteiten, met inbegrip van bedieners van toepassingsapparatuur, technici, werkgevers en zelfstandigen;
 
-richtlijn 2009/128/EG: Richtlijn 2009/128/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van een kader voor communautaire actie ter verwezenlijking van een duurzaam gebruik van pesticiden (PbEU L 309);
+richtlijn 2009/128/EG: Richtlijn 2009/128/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van een kader voor communautaire actie ter verwezenlijking van een duurzaam gebruik van pesticiden (PbEU L 309);
 
-verordening (EG) nr. 1107/2009: Verordening (EG) Nr. 1107/2009 van het Europees Parlement en de Raad van 21 oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de Richtlijnen 79/117/EEG en 91/414/EEG van de Raad (PbEU, L 309);
+verordening (EG) nr. 1107/2009: Verordening (EG) Nr. 1107/2009 van het Europees Parlement en de Raad van 21 oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de Richtlijnen 79/117/EEG en 91/414/EEG van de Raad (PbEU, L 309);
 
-verordening (EU) Nr. 528/2012: Verordening (EU) Nr. 528/2012 van het Europees Parlement en de Raad van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden (PbEU, L 167);
+verordening (EU) Nr. 528/2012: Verordening (EU) Nr. 528/2012 van het Europees Parlement en de Raad van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden (PbEU, L 167);
 
-verordening (EU) nr. 2019/1020: [Verordening (EU) nr. 2019/1020](32920R2019) van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van [Richtlijn 2004/42/EG](32004L0042) en [Verordeningen (EG) nr. 765/2008](32008R0765) en (EU) [nr. 305/2011](32011R0305) (PbEU 2019, L 169);
+verordening (EU) nr. 2019/1020: Verordening (EU) nr. 2019/1020 van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van Richtlijn 2004/42/EG en Verordeningen (EG) nr. 765/2008 en (EU) nr. 305/2011 (PbEU 2019, L 169);
 
-verordening (EU) 2017/625: Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de [Richtlijnen 98/58/EG](31998L0058), [1999/74/EG](31999L0074), [2007/43/EG](32007L0043), [2008/119/EG](32008L0119) en [2008/120/EG](32008L0120) van de Raad, en tot intrekking van de Verordeningen (EG) nr. [854/2004](32754L2004) en (EG) nr. [882/2004](32782L2004) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](31989L0608), [89/662/EEG](31989L0662), [90/425/EEG](31990L0425), [91/496/EEG](31991L0496), [96/23/EG](31996L0023), [96/93/EG](31996L0093) en [97/78/EG](31997L0078) van de Raad en Besluit [92/438/EEG](31992L0438) van de Raad (verordening officiële controles) (PbEU 2017, L 95);
+verordening (EU) 2017/625: Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de Richtlijnen 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG en 2008/120/EG van de Raad, en tot intrekking van de Verordeningen (EG) nr. 854/2004 en (EG) nr. 882/2004 van het Europees Parlement en de Raad, de Richtlijnen 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG en 97/78/EG van de Raad en Besluit 92/438/EEG van de Raad (verordening officiële controles) (PbEU 2017, L 95);
 
 verpakking: omhulsel waarin een gewasbeschermingsmiddel of biocide aan of ten behoeve van een gebruiker wordt afgeleverd, of dat daartoe is bestemd.
 
@@ -99,6 +70,10 @@ verpakking: omhulsel waarin een gewasbeschermingsmiddel of biocide aan of ten be
 
 2. Een communautaire maatregel of wijziging daarvan gaat voor de toepassing van deze wet gelden met ingang van de dag waarop daaraan uiterlijk uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
+##### Artikel 2a. Zorgplicht
+
+Een ieder is verplicht op zorgvuldige wijze om te gaan met gewasbeschermingsmiddelen, biociden, de daarbij behorende werkzame stoffen of daarbij gebruikte toevoegingsstoffen, alsmede restanten daarvan of de aangebroken verpakkingen. Die zorgvuldigheid houdt in ieder geval in, dat een ieder, die weet of redelijkerwijs kan vermoeden dat door zijn handelen of nalaten gevaar ontstaat of kan ontstaan voor een mens, voor een dier of voor planten waarvan de instandhouding gewenst is, voor planten die aan anderen toebehoren, voor de bodem of voor het water, verplicht is dergelijk handelen achterwege te laten, tenzij zulks in redelijkheid niet van hem kan worden gevergd, dan wel onverwijld alle maatregelen te nemen die redelijkerwijs van hem kunnen worden gevergd teneinde voornoemd gevaar te voorkomen of de nadelige gevolgen daarvan te beperken en zoveel mogelijk ongedaan te maken.
+
 ### Hoofdstuk 2. Het college voor de toelating van gewasbeschermingsmiddelen en biociden
 
 ##### Artikel 3. College
@@ -109,13 +84,13 @@ Er is een College voor de toelating van gewasbeschermingsmiddelen en biociden. H
 
 1. Het college wordt aangewezen als de bevoegde autoriteit voor Nederland in de zin van artikel 75 van verordening (EG) 1107/2009. Het college is in dat kader belast met het optreden als rapporteur lidstaat voor de beoordeling van werkzame stoffen, beschermstoffen en synergisten, alsmede met de toelating van gewasbeschermingsmiddelen en toevoegingsstoffen, overeenkomstig verordening (EG) 1107/2009.
 
-2. Het college wordt aangewezen als de bevoegde autoriteit voor Nederland in de zin van artikel 81, eerste lid, van verordening (EU) Nr. 528/2012, tenzij in deze wet anders is bepaald.
+2. Het college wordt aangewezen als de bevoegde autoriteit voor Nederland in de zin van artikel 81, eerste lid, van verordening (EU) Nr. 528/2012, tenzij in deze wet anders is bepaald.
 
 3. Bij algemene maatregel van bestuur kunnen aan het college andere taken worden opgedragen, die samenhangen met het op de markt brengen of het gebruik van gewasbeschermingsmiddelen of biociden.
 
 4. In afwijking van het eerste lid is Onze Minister van Landbouw, Natuur en Voedselkwaliteit belast met het verstrekken van informatie als bedoeld in artikel 67, eerste lid, derde tekstblok, van verordening (EG) 1107/2009.
 
-5. In afwijking van het eerste lid verstrekt de houder van een toelating aan Onze Minister van Landbouw, Natuur en Voedselkwaliteit informatie over het verkoopvolume van gewasbeschermingsmiddelen als bedoeld in artikel 67, derde lid, van Verordening (EG) nr. 1107/2009.
+5. In afwijking van het eerste lid verstrekt de houder van een toelating aan Onze Minister van Landbouw, Natuur en Voedselkwaliteit informatie over het verkoopvolume van gewasbeschermingsmiddelen als bedoeld in artikel 67, derde lid, van Verordening (EG) nr. 1107/2009.
 
 ##### Artikel 5. Samenstelling college
 
@@ -135,7 +110,7 @@ Er is een College voor de toelating van gewasbeschermingsmiddelen en biociden. H
 
 ##### Artikel 6. Andere functies
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Secretariaat
 
@@ -157,19 +132,19 @@ Vervallen
 
 3. Het college kan bij het reglement de uitoefening van daarbij aan te wijzen taken en bevoegdheden opdragen aan een of meer leden of aan de secretaris.
 
-4. Vervallen.
+4. *Vervallen.*
 
-5. Vervallen.
+5. *Vervallen.*
 
 6. In aanvulling op het eerste lid, onderdeel b, kan het college in een bestuursreglement regels stellen voor het bij een schriftelijke aanvraag overleggen van gegevens op een elektronische gegevensdrager en de aanvrager daartoe verplichten, in afwijking van de [artikelen 2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:7), en [2:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:8).
 
 ##### Artikel 9. Personeel secretariaat
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10. Tarieven college
 
-1. Het college stelt zijn tarieven vast in verband met de uitvoering van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01) bedoelde wettelijke taken. Het tarief omvat een jaarlijkse bijdrage ten laste van de houder van een toelating voor ieder toegelaten gewasbeschermingsmiddel dat op 1 februari is opgenomen in het register van het college.
+1. Het college stelt zijn tarieven vast in verband met de uitvoering van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01) bedoelde wettelijke taken. Het tarief omvat een jaarlijkse bijdrage ten laste van de houder van een toelating voor ieder toegelaten gewasbeschermingsmiddel dat op 1 februari is opgenomen in het register van het college.
 
 2. De tarieven, bedoeld in het eerste lid, bedragen niet meer dan nodig is ter dekking van de gemaakte kosten in verband met de verrichte activiteiten.
 
@@ -205,39 +180,43 @@ Onze Minister stelt na overleg met het college een informatiestatuut vast. Het i
 
 ##### Artikel 14. Beleidsregels
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15. Bekendmaking
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16. Taakverwaarlozingsregeling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17. Gegevensbeveiliging
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk 3. Algemene verboden
+### Hoofdstuk 3
+
+### Hoofdstuk 4. Gewasbeschermingsmiddelen
+
+#### § 1. Algemene bepalingen
 
 ##### Artikel 18. Definities
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- **basisstof:** werkzame stof als bedoeld in artikel 23, eerste lid, van verordening (EG) 1107/2009;
+- *basisstof:* werkzame stof als bedoeld in artikel 23, eerste lid, van verordening (EG) 1107/2009;
 
-- **milieu:** hetgeen daaromtrent is bepaald in artikel 3, onderdeel 13, van verordening (EG) 1107/2009;
+- *milieu:* hetgeen daaromtrent is bepaald in artikel 3, onderdeel 13, van verordening (EG) 1107/2009;
 
-- **niet-chemische methoden:** methoden die een alternatief vormen voor het gebruik van gewasbeschermingsmiddelen en die berusten op landbouwtechnieken als bedoeld in punt 1 van bijlage III bij richtlijn 2009/128/EG, of fysische, mechanische of biologische bestrijdingsmethoden;
+- *niet-chemische methoden:* methoden die een alternatief vormen voor het gebruik van gewasbeschermingsmiddelen en die berusten op landbouwtechnieken als bedoeld in punt 1 van bijlage III bij richtlijn 2009/128/EG, of fysische, mechanische of biologische bestrijdingsmethoden;
 
-- **op de markt brengen:** hetgeen daaromtrent is bepaald in artikel 3, onderdeel 9, van verordening (EG) 1107/2009;
+- *op de markt brengen:* hetgeen daaromtrent is bepaald in artikel 3, onderdeel 9, van verordening (EG) 1107/2009;
 
-- **risico-indicator:** het resultaat van een berekeningsmethode die wordt gebruikt bij de beoordeling van risico’s van gewasbeschermingsmiddelen voor de menselijke gezondheid en het milieu;
+- *risico-indicator:* het resultaat van een berekeningsmethode die wordt gebruikt bij de beoordeling van risico’s van gewasbeschermingsmiddelen voor de menselijke gezondheid en het milieu;
 
-- **voorlichter:** persoon die beroepsmatig of in het kader van een commerciële dienst advies verstrekt over de bestrijding van schadelijke organismen en het veilig gebruik van gewasbeschermingsmiddelen, in voorkomend geval met inbegrip van particuliere en zelfstandige voorlichtingsdiensten, handelsagenten, levensmiddelenproducenten en detailhandelaren;
+- *voorlichter:* persoon die beroepsmatig of in het kader van een commerciële dienst advies verstrekt over de bestrijding van schadelijke organismen en het veilig gebruik van gewasbeschermingsmiddelen, in voorkomend geval met inbegrip van particuliere en zelfstandige voorlichtingsdiensten, handelsagenten, levensmiddelenproducenten en detailhandelaren;
 
-- **werkzame stof:** hetgeen daaromtrent is bepaald in artikel 2, tweede lid, van verordening (EG) 1107/2009.
+- *werkzame stof:* hetgeen daaromtrent is bepaald in artikel 2, tweede lid, van verordening (EG) 1107/2009.
 
 ##### Artikel 19. Gebruik van werkzame stoffen
 
@@ -263,29 +242,25 @@ Het is verboden zaad van een plant, dat met een gewasbeschermingsmiddel is behan
 
 3. De in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=4&paragraaf=1&artikel=19&z=2026-01-01&g=2026-01-01) of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=4&paragraaf=1&artikel=20&z=2026-01-01&g=2026-01-01) of het eerste en tweede lid bedoelde verboden gelden niet voor zover het college een voorziening heeft getroffen voor het kunnen verwijderen, op de markt brengen, opslaan of gebruiken van gewasbeschermingsmiddelen als bedoeld in artikel 46 van verordening (EG) 1107/2009.
 
-### Hoofdstuk 4. Gewasbeschermingsmiddelen
-
-#### § 1. Algemene bepalingen
-
 ##### Artikel 23. Procedure
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24. De aanvrager
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25. De aanvraag
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26. Proeven op gewervelde dieren
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27. Gegevensbescherming
 
-Vervallen
+*Vervallen*
 
 #### § 2. De toelatingsprocedure
 
@@ -329,33 +304,33 @@ De regels, bedoeld in onderdeel b, kunnen inhouden dat proeven en analysen eerst
 
 ##### Artikel 30. Toepasselijkheid paragrafen 1 en 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31. Vereenvoudigde uitbreidingstoelating
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32. Afgeleide toelating
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33. Parallelle toelating
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34. Voorlopige toelating
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35. Toelating op aanvraag van Onze Minister
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36. Wederzijdse erkenning van de toelating
 
-Vervallen
+*Vervallen*
 
-#### § 4. Vrijstelling
+#### § 4. Afwijkingen
 
 ##### Artikel 37. Proeven en experimenten
 
@@ -381,61 +356,59 @@ Vervallen
 
 5. Bij regeling van Onze Minister kan worden bepaald dat een aanvraag eerst in behandeling wordt genomen nadat een daarvoor vastgesteld bedrag is voldaan. Tevens kunnen regels worden gesteld omtrent de te volgen procedure en minimumvoorwaarden voor vrijstelling.
 
-#### § 5. Verandering van besluiten en informatieplicht
-
 ##### Artikel 39. Tijdelijk beperken of verbieden
 
 Het college kan ter uitvoering van artikel 71, eerste lid, van verordening (EG) 1107/2009 het op de markt brengen of het gebruik van een toegelaten gewasbeschermingsmiddel, met inbegrip van met een gewasbeschermingsmiddel behandeld zaaizaad, of een goedgekeurde werkzame stof, beschermstof, synergist of formuleringshulpstof tijdelijk beperken of verbieden, indien er duidelijke aanwijzingen bestaan dat het gewasbeschermingsmiddel, het met een gewasbeschermingsmiddel behandelde zaaizaad of de stof een ernstig risico inhoudt voor de gezondheid van mens en dier of voor het milieu.
+
+#### § 5
+
+#### § 6. Bekendmaking
 
 ##### Artikel 40. Bekendmaking
 
 Een besluit tot toelating of vrijstelling van een gewasbeschermingsmiddel, alsmede een tijdelijke beperking van of verbod op het op de markt brengen of gebruik van een toegelaten gewasbeschermingsmiddel, wordt in de Staatscourant bekendgemaakt en medegedeeld aan de aanvrager.
 
+### Hoofdstuk 5. Biociden
+
 ##### Artikel 41. Exclusieve economische zone
 
 Dit hoofdstuk en de daarop berustende bepalingen zijn mede van toepassing op biociden en behandelde voorwerpen binnen de exclusieve economische zone.
-
-#### § 6. Bekendmaking en openbaarmaking
 
 ##### Artikel 42. Definities biociden
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- **op de markt aanbieden:** de levering van een biocide of een behandeld voorwerp voor distributie of gebruik in het kader van een handelsactiviteit, al dan niet tegen betaling als bedoeld in artikel 3, eerste lid, onder i, van verordening (EU) Nr. 528/2012;
+- *op de markt aanbieden:* de levering van een biocide of een behandeld voorwerp voor distributie of gebruik in het kader van een handelsactiviteit, al dan niet tegen betaling als bedoeld in artikel 3, eerste lid, onder i, van verordening (EU) Nr. 528/2012;
 
-- **toelating:** toelating als bedoeld in artikel 3, eerste lid, onder o, van verordening (EU) Nr. 528/2012.
+- *toelating:* toelating als bedoeld in artikel 3, eerste lid, onder o, van verordening (EU) Nr. 528/2012.
 
-##### Artikel 43. Overtredingen van de verordening en van de [verordening (EU) nr. 2019/1020](32920R2019)
+##### Artikel 43. Overtredingen van de verordening en van de verordening (EU) nr. 2019/1020
 
-1. Het is verboden in strijd te handelen met de artikelen 17, eerste, vijfde en zesde lid, artikel 27, eerste lid, 47, eerste lid, 56, 58, eerste tot en met het zesde lid, 62, 68, eerste lid, 69, eerste en tweede lid, 72, eerste en derde lid en 95, tweede lid, van verordening (EU) Nr. 528/2012 of de ter uitvoering daarvan vastgestelde verordeningen.
+1. Het is verboden in strijd te handelen met de artikelen 17, eerste, vijfde en zesde lid, artikel 27, eerste lid, 47, eerste lid, 56, 58, eerste tot en met het zesde lid, 62, 68, eerste lid, 69, eerste en tweede lid, 72, eerste en derde lid en 95, tweede lid, van verordening (EU) Nr. 528/2012 of de ter uitvoering daarvan vastgestelde verordeningen.
 
-2. Het eerste lid is niet van toepassing indien het handelen, bedoeld in het eerste lid overeenkomstig verordening (EU) Nr. 528/2012 is toegestaan.
+2. Het eerste lid is niet van toepassing indien het handelen, bedoeld in het eerste lid overeenkomstig verordening (EU) Nr. 528/2012 is toegestaan.
 
 3. Het is verboden biociden zonder toelating voorhanden of op voorraad te hebben.
 
-4. Het is verboden in strijd te handelen met een passende voorlopige maatregel, bedoeld in artikel 88 van verordening (EU) Nr. 528/2012.
+4. Het is verboden in strijd te handelen met een passende voorlopige maatregel, bedoeld in artikel 88 van verordening (EU) Nr. 528/2012.
 
-5. Het is verboden in strijd te handelen met artikel 7 van [verordening (EU) nr. 2019/1020](32920R2019).
-
-### Hoofdstuk 5. Biociden
-
-#### § 1. Algemene bepalingen
+5. Het is verboden in strijd te handelen met artikel 7 van verordening (EU) nr. 2019/1020.
 
 ##### Artikel 44. Respijtperiode
 
-De in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01) bedoelde verboden gelden niet in de respijtperiode bedoeld in artikel 52 van verordening (EU) Nr. 528/2012.
+De in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01) bedoelde verboden gelden niet in de respijtperiode bedoeld in artikel 52 van verordening (EU) Nr. 528/2012.
 
 ##### Artikel 45. Nadere regels voor het op de markt brengen
 
-Bij regeling van Onze Minister kunnen ter uitvoering van verordening (EU) Nr. 528/2012 regels worden gesteld over:
+Bij regeling van Onze Minister kunnen ter uitvoering van verordening (EU) Nr. 528/2012 regels worden gesteld over:
 
-- a. vrijstellingen van verordening (EU) Nr. 528/2012 met betrekking tot bepaalde biociden vanwege belangen op het gebied van defensie, bedoeld in artikel 2, achtste lid, van verordening (EU) Nr. 528/2012;
+- a. vrijstellingen van verordening (EU) Nr. 528/2012 met betrekking tot bepaalde biociden vanwege belangen op het gebied van defensie, bedoeld in artikel 2, achtste lid, van verordening (EU) Nr. 528/2012;
 
-- b. de etikettering van biociden, bedoeld in artikel 69, derde lid, onder b, van verordening (EU) Nr. 528/2012.
+- b. de etikettering van biociden, bedoeld in artikel 69, derde lid, onder b, van verordening (EU) Nr. 528/2012.
 
 ##### Artikel 46. Afwijkingen van de eisen
 
-1. Onze Minister kan ter uitvoering van artikel 55 van verordening (EU) Nr. 528/2012 ambtshalve of op aanvraag vrijstelling verlenen van het verbod, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01), om te handelen in strijd met artikel 17, eerste lid, van verordening (EU) Nr. 528/2012 en van de voorwaarden van artikel 19 van verordening (EU) Nr. 528/2012 inzake het verlenen van een toelating voor een biocide.
+1. Onze Minister kan ter uitvoering van artikel 55 van verordening (EU) Nr. 528/2012 ambtshalve of op aanvraag vrijstelling verlenen van het verbod, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01), om te handelen in strijd met artikel 17, eerste lid, van verordening (EU) Nr. 528/2012 en van de voorwaarden van artikel 19 van verordening (EU) Nr. 528/2012 inzake het verlenen van een toelating voor een biocide.
 
 2. Indien een onverwijlde voorziening noodzakelijk is, kan Onze Minister bepalen dat de vrijstelling onmiddellijk na haar bekendmaking in werking treedt. In dat geval kan het vrijstellingsbesluit op andere dan de in [artikel 3:42 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:42) bedoelde wijze worden bekendgemaakt.
 
@@ -443,13 +416,11 @@ Bij regeling van Onze Minister kunnen ter uitvoering van verordening (EU) Nr. 52
 
 ##### Artikel 47. Toelating voor het op de markt aanbieden van biociden volgens de vereenvoudigde toelatingsprocedure
 
-Het college is belast met de uitvoering van artikel 27 van verordening (EU) Nr. 528/2012.
-
-#### § 2. De toelatingsprocedure
+Het college is belast met de uitvoering van artikel 27 van verordening (EU) Nr. 528/2012.
 
 ##### Artikel 48. Tijdelijk beperken of verbieden
 
-Het college is belast met de uitvoering van artikel 88 van verordening (EU) Nr. 528/2012.
+Het college is belast met de uitvoering van artikel 88 van verordening (EU) Nr. 528/2012.
 
 ##### Artikel 49. Bekendmaking
 
@@ -457,103 +428,91 @@ Een besluit omtrent toelating of vrijstelling van een biocide van Onze Minister 
 
 ##### Artikel 50. Voorschriften
 
-Vervallen
-
-#### § 3. Bijzondere vormen van toelating
+*Vervallen*
 
 ##### Artikel 51. Toepasselijkheid paragrafen 1 en 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 52. Afgeleide toelating
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 53. Parallelle toelating
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54. Voorlopige toelating
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55. Toelating op aanvraag van Onze Minister
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56. Wederzijdse erkenning van de toelating
 
-Vervallen
-
-#### § 4. De registratieprocedure
+*Vervallen*
 
 ##### Artikel 57. Toepasselijke procedure
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58. Voorwaarden
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59. Aanvraag
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 60. Wederzijdse erkenning registratie
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 61. Weigering van wederzijdse erkenning registratie
 
-Vervallen
-
-#### § 5. De Kaderformulering en de basisstof
+*Vervallen*
 
 ##### Artikel 62. De kaderformulering
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63. De basisstof
 
-Vervallen
-
-#### § 6. Vrijstelling
+*Vervallen*
 
 ##### Artikel 64. Proeven
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65. Niet op andere wijze te bestrijden gevaar
 
-Vervallen
-
-#### § 7. Verandering van besluiten en informatieplicht
+*Vervallen*
 
 ##### Artikel 66. Verlenging
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 67. Tijdelijk beperken of verbieden
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 68. Wijziging of intrekking
 
-Vervallen
-
-#### § 8. Bekendmaking en openbaarmaking
+*Vervallen*
 
 ##### Artikel 69. Bekendmaking
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 70. Openbaarmaking en vertrouwelijkheid
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 6. Handel en gebruik
 
-#### § 1. Handel en opslag
+#### § 1. Vakbekwaamheidseisen, reclame en opslag
 
 ##### Artikel 71. Opleiding en bewijs van vakbekwaamheid
 
@@ -597,7 +556,7 @@ Vervallen
 
 - b. de risico’s van dat gebruik voor de gezondheid en voor het milieu; en
 
-- c. de geldende veiligheidsinstructies voor het gewasbeschermingsmiddel.
+- c de geldende veiligheidsinstructies voor het gewasbeschermingsmiddel.
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de verstrekking van algemene informatie door distributeurs of producenten aan niet-professionele gebruikers over de risico's van het gebruik van gewasbeschermingsmiddelen of biociden voor de gezondheid van mens en dier of voor het milieu. De informatieverplichting omvat ten minste blootstelling, een veilige opslag, een veilig gebruik en veilige verwijdering van restanten volgens de geldende regels, alsmede informatie over alternatieve bestrijdingsmethoden die minder risico opleveren.
 
@@ -635,7 +594,7 @@ Vervallen
 
 ##### Artikel 76. Bewijs van vakbekwaamheid
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 77
 
@@ -659,6 +618,10 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 3. De voordracht voor een krachtens dit artikel vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
+##### Artikel 80a. Bescherming van milieu en volksgezondheid
+
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het gebruik van gewasbeschermingsmiddelen of biociden in specifieke gebieden als bedoeld in artikel 12 van richtlijn 2009/128/EG. Deze regels kunnen een verbod inhouden dan wel zijn gericht op een vermindering van het gebruik van alle of een bepaald type gewasbeschermingsmiddelen of biociden in bij die maatregel aangewezen gebieden.
+
 ##### Artikel 81. Vergunning tot toepassing
 
 1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de toepassing van een gewasbeschermingsmiddel of biocide of een gebruik als bedoeld in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=6&paragraaf=2&artikel=80&z=2026-01-01&g=2026-01-01), alleen is toegestaan na ontheffing, vergunning of vrijstelling door Onze Minister of nadat van vorenbedoelde toepassing of gebruik melding is gedaan aan Onze Minister.
@@ -669,11 +632,23 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 4. Het bepaalde in het tweede en derde lid is van overeenkomstige toepassing op ontheffingen, vrijstellingen of meldingen als bedoeld in het eerste lid.
 
+##### Artikel 81a. Nationaal actieplan
+
+1. Onze Ministers stellen een nationaal actieplan op ter uitvoering van artikel 4 van richtlijn 2009/128/EG.
+
+2. Het plan wordt ten minste iedere vijf jaren herzien.
+
+3. Op de voorbereiding en wijziging van een nationaal actieplan is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
+
 ### Hoofdstuk 7. Toezicht en handhaving
 
-## Titel 1. Algemeen
+### Titel 1. Algemeen
 
 #### § 1. Toezicht op de naleving
+
+##### Artikel 81b. Bevoegde autoriteit
+
+Onze Minister wordt aangewezen als bevoegde autoriteit als bedoeld in artikel 3, derde lid, van verordening (EU) 2017/625 voor zover het betreft het gebied, genoemd in artikel 1, tweede lid, onderdeel h, van verordening (EU) 2017/625.
 
 ##### Artikel 82. Aanwijzing toezichthouders
 
@@ -693,7 +668,21 @@ Bij regeling van Onze Ministers kunnen regels worden gesteld over de wijze van m
 
 Een toezichthouder is bevoegd met medeneming van de benodigde apparatuur een woning binnen te treden zonder toestemming van de bewoner.
 
-#### § 1. Toezicht op de naleving
+##### Artikel 84a
+
+1. Distributeurs en gebruikers zijn een retributie verschuldigd voor herinspectie.
+
+2. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de retributie.
+
+3. Het tarief van de retributie wordt bij ministeriële regeling vastgesteld.
+
+4. Onze Minister kan de verschuldigde bedragen, verhoogd met de invorderingskosten, invorderen bij dwangbevel.
+
+5. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+6. Een krachtens het derde lid vast te stellen ministeriële regeling wordt aan de beide kamers der Staten-Generaal overgelegd. De ministeriële regeling wordt niet eerder vastgesteld dan vier weken na de overlegging.
+
+#### § 2. Bestuursrechtelijke handhaving
 
 ##### Artikel 85. Intrekking bewijs van vakbekwaamheid of vergunning
 
@@ -729,7 +718,11 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 6. Ieder wie het aangaat is verplicht zich te gedragen overeenkomstig een krachtens dit artikel gegeven bevel of aanwijzing.
 
-#### § 4. Markttoezicht als bedoeld in [verordening (EU) nr. 2019/1020](32920R2019)
+##### Artikel 87a. Andere bestuursrechtelijke maatregelen
+
+Onze Minister is bevoegd ter handhaving van de bij of krachtens deze wet gestelde regels maatregelen te treffen als bedoeld in artikel 138, tweede lid, onderdelen d en g, van verordening (EU) 2017/625.
+
+#### § 3. Civielrechtelijke handhaving
 
 ##### Artikel 88. Verhalen schade
 
@@ -739,13 +732,65 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 3. Voor de toepassing van dit artikel is niet vereist dat op het tijdstip waarop de in het eerste lid bedoelde handeling met de in dat lid bedoelde gewasbeschermingsmiddelen en biociden zich heeft voorgedaan, reeds jegens de overheid onrechtmatig werd gehandeld.
 
-## Titel 2. Bestuurlijke boetes
+#### § 4. Markttoezicht als bedoeld in verordening (EU) nr. 2019/1020
+
+##### Artikel 88a
+
+1. De ingevolge [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=82&z=2026-01-01&g=2026-01-01), aangewezen ambtenaren, zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van verordening (EU) nr. 2019/1020.
+
+2. Voor het uitoefenen van de bevoegdheid, bedoeld in het eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
+
+3. Tegen de beslissing van de rechter-commissaris, bedoeld in het tweede lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
+
+4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
+
+##### Artikel 88b
+
+1. Een krachtens [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=82&z=2026-01-01&g=2026-01-01), aangewezen ambtenaar is bevoegd om, ter uitvoering van verordening (EU) nr. 2019/1020, onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot zijn identiteit en hoedanigheid, biociden te verkrijgen en hieraan gerelateerde handelingen te verrichten, verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
+
+2. De ambtenaar die gebruik heeft gemaakt van de bevoegdheid, bedoeld in het eerste lid, maakt daarvan een schriftelijk verslag op waarin hij vermeldt:
+
+- a. zijn naam of nummer en hoedanigheid;
+
+- b. de motivering van de noodzaak tot uitoefening van de bevoegdheid;
+
+- c. de voorschriften op de naleving waarvan wordt toegezien;
+
+- d. het adres, waaronder indien van toepassing het elektronische adres, waar de biocide is verkregen, en voor zover bekend, de omschrijving van de betrokken marktdeelnemer;
+
+- e. de onjuiste of onvolledige gegevens die zijn verstrekt de verkrijging van de biocide;
+
+- f. de wijze waarop en het tijdvak waarin de handelingen hebben plaatsgevonden;
+
+- g. wat de uitkomst is van het onderzoek van de verkregen biocide.
+
+##### Artikel 88c
+
+1. Ter uitvoering van verordening (EU) nr. 2019/1020 kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van verordening (EU) nr. 2019/1020, gevormd door een biocide, weg te nemen, een zelfstandige last opleggen aan degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface als bedoeld in artikel 3, onderdeel 15, van verordening (EU) 2019/1020 of opdracht te geven tot de duidelijke weergave van een waarschuwing voor eindgebruikers, bedoeld in artikel 3, onderdeel 21, van verordening (EU) nr. 2019/1020, wanneer zij zich toegang verschaffen tot een online interface.
+
+2. Indien niet binnen de daarvoor gestelde termijn aan een last als bedoeld in het eerste lid is voldaan, kan Onze Minister een zelfstandige last opleggen aan een aanbieder van diensten van de informatiemaatschappij, als bedoeld in artikel 3, onderdeel 14, van verordening (EU) nr. 2019/1020 om alle maatregelen te treffen die redelijkerwijs van hem kunnen worden gevergd om de toegang tot een online interface te beperken, onder meer door een daarvoor in aanmerking komende derde te verzoeken dergelijke maatregelen uit te voeren.
+
+3. Degene tot wie een zelfstandige last als bedoeld in het eerste of tweede lid is gericht, handelt overeenkomstig die last.
+
+4. Op grond van het eerste of tweede lid kan geen zelfstandige last worden opgelegd die leidt tot het blokkeren of filteren van internetverkeer.
+
+5. Voor een zelfstandige last als bedoeld in het eerste of tweede lid is voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
+
+6. Tegen de beslissing van de rechter-commissaris, bedoeld in het vijfde lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister, binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
+
+7. Onze Minister maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste of tweede lid, bekend.
+
+##### Artikel 88d
+
+[Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover een krachtens [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=82&z=2026-01-01&g=2026-01-01), aangewezen ambtenaar bijstand verleent aan een markttoezichtautoriteit als bedoeld in artikel 3, onderdeel 4, van verordening (EU) nr. 2019/1020, uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van die verordening.
+
+### Titel 2. Bestuurlijke boetes
 
 #### § 1. Bevoegdheid
 
 ##### Artikel 89. Begripsbepalingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 90. Bestuurlijke boete
 
@@ -753,15 +798,15 @@ Onze Minister kan een bestuurlijke boete opleggen in geval van overtreding van h
 
 ##### Artikel 91. Geen straf zonder schuld
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 92. Ne bis in idem
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 93. Verhouding tot strafvervolging
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 94. Afstemming met openbaar ministerie
 
@@ -769,13 +814,13 @@ Indien de ernst van de overtreding of de omstandigheden waaronder zij is begaan 
 
 ##### Artikel 95. Vervallen van de bevoegdheid tot het opleggen van een bestuurlijke boete
 
-Vervallen
+*Vervallen*
 
 #### § 2. Hoogte bestuurlijke boete
 
 ##### Artikel 96. Proportionaliteit en evenredigheid
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 97. Hoogte bestuurlijke boete
 
@@ -785,49 +830,49 @@ Vervallen
 
 3. De berekening van de omzet, bedoeld in het tweede lid, geschiedt op voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) voor de netto-omzet.
 
-#### § 2. Hoogte bestuurlijke boete
+#### § 3. De procedure
 
 ##### Artikel 98. Boeterapport
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 99. Recht op inzage
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 100. Zienswijze overtreder
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 101. Zwijgrecht
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 102. Beslistermijn
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 103. Beschikking
 
-Vervallen
+*Vervallen*
 
 #### § 4. Betaling
 
 ##### Artikel 104. Betaling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 105. Uitstel van betaling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 106. Verzuim
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 107. Aanmaning
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 108
 
@@ -835,11 +880,11 @@ Bij gebreke van volledige betaling binnen de in [artikel 4:87 van de Algemene we
 
 ##### Artikel 109. Geen zienswijze bij aanmaning en dwangbevel
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 110. Bekendmaking dwangbevel
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 8. Overige bepalingen
 
@@ -895,7 +940,7 @@ Een ieder is tot naleving van een voor hem geldende algemeen verbindend verklaar
 
 2. Indien een verzoek als bedoeld in het eerste lid is ingediend, kan Onze Minister een onderzoek instellen. Nadat het onderzoek is afgerond licht Onze Minister degene of degenen, die om het onderzoek hebben verzocht, in over de uitkomsten van het onderzoek.
 
-#### § 4. Bevoegdheden ministers
+#### § 2. Implementatie
 
 ##### Artikel 117. Begripsbepaling
 
@@ -939,11 +984,11 @@ Een ieder is tot naleving van een voor hem geldende algemeen verbindend verklaar
 
 - j. nadere regels ter uitvoering van verordening (EU) 2017/625.
 
-#### § 2. Implementatie
+#### § 3. Beroepen
 
 ##### Artikel 119. Beroep
 
-Vervallen
+*Vervallen*
 
 #### § 4. Bevoegdheden ministers
 
@@ -953,53 +998,53 @@ Vervallen
 
 2. Een ministeriële regeling op grond van deze wet wordt vastgesteld in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, Onze Minister van Volksgezondheid, Welzijn en Sport, dan wel Onze Minister van Verkeer en Waterstaat voor zover belangen van arbeidsomstandigheden, volksgezondheid, dan wel waterbeheer in het geding zijn.
 
-### Hoofdstuk 9. Bepalingen in verband met bijlage I bij [richtlijn 91/414/EEG](31991L0414) en bijlagen I, IA of IB bij [richtlijn 98/8/EG](31998L0008)
-
-#### § 4. Bevoegdheden ministers
-
-##### Artikel 121. Aanvragen voor besluiten inzake biociden met bestaande werkzame stoffen
-
-Vervallen
-
-##### Artikel 121a. Beoordeling van de aanvraag
-
-Vervallen
+### Hoofdstuk 9. Bepalingen in verband met bijlagen I, IA of IB bij richtlijn 98/8/EG
 
 #### § 1. Algemene bepalingen
 
+##### Artikel 121. Aanvragen voor besluiten inzake biociden met bestaande werkzame stoffen
+
+*Vervallen*
+
+##### Artikel 121a. Beoordeling van de aanvraag
+
+*Vervallen*
+
+#### § 2. Bepalingen inzake nog niet in bijlagen I, IA of IB bij richtlijn 98/8/EG opgenomen werkzame stoffen
+
 ##### Artikel 122. Verlenging van besluiten tot toelating
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 123. Besluiten inzake een dringend vereist biocide
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 124. Besluiten inzake biociden waarvan de werkzame stoffen zijn opgenomen in de vierde fase van het werkprogramma of zijn bestemd voor biologische landbouw
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 125. Besluiten inzake gewijzigde samenstelling van een biocide
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 126. Besluiten inzake vereenvoudigde uitbreidingstoelating van biociden
 
-Vervallen
+*Vervallen*
 
-#### § 3. Overgangsbepalingen in verband met de opneming of niet opneming van werkzame stoffen bij [richtlijn 91/414/EEG](31991L0414) en [richtlijn 98/8/EG](31998L0008)
+#### § 3. Overgangsbepalingen in verband met de opneming of niet opneming van werkzame stoffen bij richtlijn 98/8/EG
 
 ##### Artikel 127. Besluiten na een communautaire maatregel tot niet opneming
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 128. Besluiten na een communautaire maatregel tot opneming
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
-#### § 3. Overgangsbepalingen in verband met de opneming of niet opneming van werkzame stoffen bij [richtlijn 98/8/EG](31998L0008)
+#### § 1. Overgangsbepalingen
 
 ##### Artikel 129. Overgangsrecht toelatingen, registraties, vrijstellingen, ontheffingen en uitzonderingen
 
@@ -1019,37 +1064,47 @@ Vervallen
 
 ##### Artikel 130. Overgangsrecht register, aanvragen, bezwaarschriften en beroepen
 
-Vervallen
+*Vervallen*
 
-#### § 1. Overgangsbepalingen
+##### Artikel 130a. Overgangsrecht ingevolge de verordening
 
-##### Artikel 131. Wijziging [WED](onbekend)
+1. De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de Wet van 24 maart 2011 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden in verband met de implementatie van Europese regelgeving op het gebied van het op de markt brengen en het duurzame gebruik van gewasbeschermingsmiddelen (Stb. 235) blijft voor zover nodig van toepassing in de in artikel 80, eerste lid, van verordening (EG) 1107/2009 bedoelde gevallen.
 
-Vervallen
+2. Op de voet van artikel 8o, tweede lid, van verordening (EG) 1107/2009 blijft het bepaalde bij of krachtens de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=4&paragraaf=1&artikel=25&z=2026-01-01&g=2026-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=4&paragraaf=1&artikel=27&z=2026-01-01&g=2026-01-01) van toepassing zoals deze bepalingen luidden voor de inwerkingtreding van de Wet van 24 maart 2011 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden in verband met de implementatie van Europese regelgeving op het gebied van het op de markt brengen en het duurzame gebruik van gewasbeschermingsmiddelen (Stb. 235).
 
-##### Artikel 132. Wijziging [bijlage Awb](onbekend)
+3. De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de Wet van 24 maart 2011 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden in verband met de implementatie van Europese regelgeving op het gebied van het op de markt brengen en het duurzame gebruik van gewasbeschermingsmiddelen (Stb. 235), blijft van toepassing op aanvragen tot toelating, in de in artikel 80, vijfde lid, van verordening (EG) 1107/2009 bedoelde gevallen, totdat op die aanvragen is beslist.
 
-Vervallen
+4. De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de [Wet van 6 november 2013 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden ter uitvoering van Verordening (EU) Nr. 528/2012 van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0034208) (PbEU, L 167) (Stb. 459) blijven voor zover nodig van toepassing in de in artikelen 89, tweede lid, en 93 van verordening (EG) Nr. 528/2012 bedoelde gevallen.
 
-##### Artikel 133. Wijziging [bijlage Wet bestuursrechtspraak bedrijfsorganisatie](onbekend)
+#### § 2. Wijzigingsbepalingen
 
-Vervallen
+##### Artikel 131. Wijziging WED
 
-##### Artikel 134. Wijziging [Diergeneesmiddelenwet](onbekend)
+*Vervallen*
 
-Vervallen
+##### Artikel 132. Wijziging bijlage Awb
 
-##### Artikel 135. Wijziging [Flora- en faunawet](onbekend)
+*Vervallen*
 
-Vervallen
+##### Artikel 133. Wijziging bijlage Wet bestuursrechtspraak bedrijfsorganisatie
 
-##### Artikel 136. Wijziging [Wet milieubeheer](onbekend)
+*Vervallen*
 
-Vervallen
+##### Artikel 134. Wijziging Diergeneesmiddelenwet
 
-##### Artikel 137. Wijziging [Wet milieugevaarlijke stoffen](onbekend)
+*Vervallen*
 
-Vervallen
+##### Artikel 135. Wijziging Flora- en faunawet
+
+*Vervallen*
+
+##### Artikel 136. Wijziging Wet milieubeheer
+
+*Vervallen*
+
+##### Artikel 137. Wijziging Wet milieugevaarlijke stoffen
+
+*Vervallen*
 
 #### § 3. Slotbepalingen
 
@@ -1057,9 +1112,9 @@ Vervallen
 
 Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-##### Artikel 139. Intrekking [Bestrijdingsmiddelenwet 1962](onbekend) en wijzigingswetten
+##### Artikel 139. Intrekking Bestrijdingsmiddelenwet 1962 en wijzigingswetten
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 140. Inwerkingtreding
 
@@ -1068,291 +1123,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 141. Citeertitel
 
 Deze wet wordt aangehaald als: Wet gewasbeschermingsmiddelen en biociden.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a. Zorgplicht
-
-Een ieder is verplicht op zorgvuldige wijze om te gaan met gewasbeschermingsmiddelen, biociden, de daarbij behorende werkzame stoffen of daarbij gebruikte toevoegingsstoffen, alsmede restanten daarvan of de aangebroken verpakkingen. Die zorgvuldigheid houdt in ieder geval in, dat een ieder, die weet of redelijkerwijs kan vermoeden dat door zijn handelen of nalaten gevaar ontstaat of kan ontstaan voor een mens, voor een dier of voor planten waarvan de instandhouding gewenst is, voor planten die aan anderen toebehoren, voor de bodem of voor het water, verplicht is dergelijk handelen achterwege te laten, tenzij zulks in redelijkheid niet van hem kan worden gevergd, dan wel onverwijld alle maatregelen te nemen die redelijkerwijs van hem kunnen worden gevergd teneinde voornoemd gevaar te voorkomen of de nadelige gevolgen daarvan te beperken en zoveel mogelijk ongedaan te maken.
-
-### Hoofdstuk 2. Het college voor de toelating van gewasbeschermingsmiddelen en biociden
-
-### Hoofdstuk 3
-
-### Hoofdstuk 4. Gewasbeschermingsmiddelen
-
-#### § 1. Algemene bepalingen
-
-#### § 2. De toelatingsprocedure
-
-#### § 3. Bijzondere vormen van toelating
-
-#### § 4. Afwijkingen
-
-#### § 5
-
-#### § 6. Bekendmaking
-
-### Hoofdstuk 5. Biociden
-
-#### § 1. Algemene bepalingen
-
-##### Artikel 43a. Verbod op handelen in strijd met voorschriften en beperkingen
-
-1. Het is verboden te handelen in strijd met de voorschriften of beperkingen die bij de toelating, vergunning, melding, erkenning, registratie, vrijstelling, voorziening of goedkeuring zijn vastgesteld door de bevoegde autoriteit.
-
-2. Het is verboden een toegelaten of geregistreerde biocide op de markt te brengen, voorhanden te hebben, in voorraad te hebben, in Nederland te brengen of te gebruiken, indien de wettelijke of door het college bij de toelating of registratie vastgestelde voorschriften voor het gebruik niet of niet op de voorgeschreven wijze op, aan of bij de verpakking zijn vermeld.
-
-3. Het is verboden een toegelaten of geregistreerde biocide op de markt te brengen, voorhanden te hebben, in voorraad te hebben, in Nederland te brengen of te gebruiken, indien het gehalte aan werkzame stof en de verdere samenstelling waaronder kleur, vorm, afwerking, verpakking, andere aanduidingen of vermeldingen afwijkt van de toelating of de desbetreffende voorschriften, gesteld bij of krachtens deze wet.
-
-4. De in de [artikelen 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=5&paragraaf=1&artikel=42&z=2013-01-01&g=2013-09-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=5&paragraaf=1&artikel=43&z=2013-01-01&g=2013-09-01) en het tweede en derde lid bedoelde verboden gelden niet voor zover het college een voorziening heeft getroffen voor het op de markt brengen, voorhanden hebben of gebruiken van de biocide als bedoeld in [artikel 68, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=5&paragraaf=7&artikel=68&z=2013-01-01&g=2013-09-01).
-
-#### § 2. De toelatingsprocedure
-
-#### § 3. Bijzondere vormen van toelating
-
-#### § 4. De registratieprocedure
-
-#### § 5. De Kaderformulering en de basisstof
-
-#### § 6. Vrijstelling
-
-#### § 7. Verandering van besluiten en informatieplicht
-
-#### § 8. Bekendmaking en openbaarmaking
-
-### Hoofdstuk 6. Handel en gebruik
-
-#### § 1. Vakbekwaamheidseisen, reclame en opslag
-
-#### § 2. Gebruik
-
-##### Artikel 80a. Bescherming van milieu en volksgezondheid
-
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het gebruik van gewasbeschermingsmiddelen of biociden in specifieke gebieden als bedoeld in artikel 12 van richtlijn 2009/128/EG. Deze regels kunnen een verbod inhouden dan wel zijn gericht op een vermindering van het gebruik van alle of een bepaald type gewasbeschermingsmiddelen of biociden in bij die maatregel aangewezen gebieden.
-
-##### Artikel 81a. Nationaal actieplan
-
-1. Onze Ministers stellen een nationaal actieplan op ter uitvoering van artikel 4 van richtlijn 2009/128/EG.
-
-2. Het plan wordt ten minste iedere vijf jaren herzien.
-
-3. Op de voorbereiding en wijziging van een nationaal actieplan is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
-
-### Hoofdstuk 7. Toezicht en handhaving
-
-## Titel 1. Algemeen
-
-#### § 3. Civielrechtelijke handhaving
-
-## Titel 2. Bestuurlijke boetes
-
-#### § 1. Bevoegdheid
-
-#### § 2. Hoogte bestuurlijke boete
-
-#### § 3. De procedure
-
-#### § 1. Algemeen verbindend verklaring
-
-### Hoofdstuk 8. Overige bepalingen
-
-#### § 1. Algemeen verbindend verklaring
-
-#### § 2. Implementatie
-
-#### § 3. Beroepen
-
-#### § 2. Bepalingen inzake nog niet in bijlagen I, IA of IB bij [richtlijn 98/8/EG](31998L0008) opgenomen werkzame stoffen
-
-### Hoofdstuk 9. Bepalingen in verband met bijlagen I, IA of IB bij [richtlijn 98/8/EG](31998L0008)
-
-#### § 3. Overgangsbepalingen in verband met de opneming of niet opneming van werkzame stoffen bij [richtlijn 98/8/EG](31998L0008)
-
-#### § 3. Overgangsbepalingen in verband met de opneming of niet opneming van werkzame stoffen bij [richtlijn 98/8/EG](31998L0008)
-
-### Hoofdstuk 10. Overgangs- en slotbepalingen
-
-#### § 1. Overgangsbepalingen
-
-##### Artikel 130a. Overgangsrecht ingevolge de verordening
-
-1. De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de Wet van 24 maart 2011 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden in verband met de implementatie van Europese regelgeving op het gebied van het op de markt brengen en het duurzame gebruik van gewasbeschermingsmiddelen (Stb. 235) blijft voor zover nodig van toepassing in de in artikel 80, eerste lid, van verordening (EG) 1107/2009 bedoelde gevallen.
-
-2. Op de voet van artikel 8o, tweede lid, van verordening (EG) 1107/2009 blijft het bepaalde bij of krachtens de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=4&paragraaf=1&artikel=25&z=2026-01-01&g=2026-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=4&paragraaf=1&artikel=27&z=2026-01-01&g=2026-01-01) van toepassing zoals deze bepalingen luidden voor de inwerkingtreding van de Wet van 24 maart 2011 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden in verband met de implementatie van Europese regelgeving op het gebied van het op de markt brengen en het duurzame gebruik van gewasbeschermingsmiddelen (Stb. 235).
-
-3. De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de Wet van 24 maart 2011 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden in verband met de implementatie van Europese regelgeving op het gebied van het op de markt brengen en het duurzame gebruik van gewasbeschermingsmiddelen (Stb. 235), blijft van toepassing op aanvragen tot toelating, in de in artikel 80, vijfde lid, van verordening (EG) 1107/2009 bedoelde gevallen, totdat op die aanvragen is beslist.
-
-4. De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de [Wet van 6 november 2013 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden ter uitvoering van Verordening (EU) Nr. 528/2012 van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0034208) (PbEU, L 167) (Stb. 459) blijven voor zover nodig van toepassing in de in artikelen 89, tweede lid, en 93 van verordening (EG) Nr. 528/2012 bedoelde gevallen.
-
-#### § 2. Wijzigingsbepalingen
-
-#### § 3. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 6. Handel en gebruik
-
-#### § 1. Vakbekwaamheidseisen, reclame en opslag
-
-#### § 2. Gebruik
-
-### Hoofdstuk 7. Toezicht en handhaving
-
-## Titel 1. Algemeen
-
-#### § 1. Toezicht op de naleving
-
-#### § 2. Bestuursrechtelijke handhaving
-
-#### § 3. Civielrechtelijke handhaving
-
-## Titel 2. Bestuurlijke boetes
-
-#### § 3. Civielrechtelijke handhaving
-
-#### § 1. Bevoegdheid
-
-#### § 2. Hoogte bestuurlijke boete
-
-#### § 4. Betaling
-
-### Hoofdstuk 8. Overige bepalingen
-
-#### § 2. Implementatie
-
-#### § 2. Implementatie
-
-### Hoofdstuk 9. Bepalingen in verband met bijlagen I, IA of IB bij [richtlijn 98/8/EG](31998L0008)
-
-#### § 3. Beroepen
-
-### Hoofdstuk 10. Overgangs- en slotbepalingen
-
-#### § 1. Overgangsbepalingen
-
-#### § 3. Overgangsbepalingen in verband met de opneming of niet opneming van werkzame stoffen bij [richtlijn 98/8/EG](31998L0008)
-
-#### § 2. Wijzigingsbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 81b. Bevoegde autoriteit
-
-Onze Minister wordt aangewezen als bevoegde autoriteit als bedoeld in artikel 3, derde lid, van verordening (EU) 2017/625 voor zover het betreft het gebied, genoemd in artikel 1, tweede lid, onderdeel h, van verordening (EU) 2017/625.
-
-##### Artikel 84a
-
-1. Distributeurs en gebruikers zijn een retributie verschuldigd voor herinspectie.
-
-2. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de retributie.
-
-3. Het tarief van de retributie wordt bij ministeriële regeling vastgesteld.
-
-4. Onze Minister kan de verschuldigde bedragen, verhoogd met de invorderingskosten, invorderen bij dwangbevel.
-
-5. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
-
-6. Een krachtens het derde lid vast te stellen ministeriële regeling wordt aan de beide kamers der Staten-Generaal overgelegd. De ministeriële regeling wordt niet eerder vastgesteld dan vier weken na de overlegging.
-
-#### § 2. Bestuursrechtelijke handhaving
-
-##### Artikel 87a. Andere bestuursrechtelijke maatregelen
-
-Onze Minister is bevoegd ter handhaving van de bij of krachtens deze wet gestelde regels maatregelen te treffen als bedoeld in artikel 138, tweede lid, onderdelen d en g, van verordening (EU) 2017/625.
-
-## Titel 2. Bestuurlijke boetes
-
-#### § 1. Bevoegdheid
-
-#### § 3. De procedure
-
-#### § 4. Betaling
-
-### Hoofdstuk 8. Overige bepalingen
-
-#### § 1. Algemeen verbindend verklaring
-
-#### § 3. Beroepen
-
-### Hoofdstuk 9. Bepalingen in verband met bijlagen I, IA of IB bij [richtlijn 98/8/EG](31998L0008)
-
-### Hoofdstuk 10. Overgangs- en slotbepalingen
-
-#### § 1. Overgangsbepalingen
-
-#### § 2. Wijzigingsbepalingen
-
-#### § 3. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 88a
-
-1. De ingevolge [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=82&z=2026-01-01&g=2026-01-01), aangewezen ambtenaren, zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van [verordening (EU) nr. 2019/1020](32920R2019).
-
-2. Voor het uitoefenen van de bevoegdheid, bedoeld in het eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
-
-3. Tegen de beslissing van de rechter-commissaris, bedoeld in het tweede lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
-
-4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
-
-##### Artikel 88b
-
-1. Een krachtens [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=82&z=2026-01-01&g=2026-01-01), aangewezen ambtenaar is bevoegd om, ter uitvoering van [verordening (EU) nr. 2019/1020](32920R2019), onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot zijn identiteit en hoedanigheid, biociden te verkrijgen en hieraan gerelateerde handelingen te verrichten, verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
-
-2. De ambtenaar die gebruik heeft gemaakt van de bevoegdheid, bedoeld in het eerste lid, maakt daarvan een schriftelijk verslag op waarin hij vermeldt:
-
-- a. zijn naam of nummer en hoedanigheid;
-
-- b. de motivering van de noodzaak tot uitoefening van de bevoegdheid;
-
-- c. de voorschriften op de naleving waarvan wordt toegezien;
-
-- d. het adres, waaronder indien van toepassing het elektronische adres, waar de biocide is verkregen, en voor zover bekend, de omschrijving van de betrokken marktdeelnemer;
-
-- e. de onjuiste of onvolledige gegevens die zijn verstrekt de verkrijging van de biocide;
-
-- f. de wijze waarop en het tijdvak waarin de handelingen hebben plaatsgevonden;
-
-- g. wat de uitkomst is van het onderzoek van de verkregen biocide.
-
-##### Artikel 88c
-
-1. Ter uitvoering van [verordening (EU) nr. 2019/1020](32920R2019) kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van [verordening (EU) nr. 2019/1020](32920R2019), gevormd door een biocide, weg te nemen, een zelfstandige last opleggen aan degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface als bedoeld in artikel 3, onderdeel 15, van [verordening (EU) 2019/1020](32920R2019) of opdracht te geven tot de duidelijke weergave van een waarschuwing voor eindgebruikers, bedoeld in artikel 3, onderdeel 21, van [verordening (EU) nr. 2019/1020](32920R2019), wanneer zij zich toegang verschaffen tot een online interface.
-
-2. Indien niet binnen de daarvoor gestelde termijn aan een last als bedoeld in het eerste lid is voldaan, kan Onze Minister een zelfstandige last opleggen aan een aanbieder van diensten van de informatiemaatschappij, als bedoeld in artikel 3, onderdeel 14, van [verordening (EU) nr. 2019/1020](32920R2019) om alle maatregelen te treffen die redelijkerwijs van hem kunnen worden gevergd om de toegang tot een online interface te beperken, onder meer door een daarvoor in aanmerking komende derde te verzoeken dergelijke maatregelen uit te voeren.
-
-3. Degene tot wie een zelfstandige last als bedoeld in het eerste of tweede lid is gericht, handelt overeenkomstig die last.
-
-4. Op grond van het eerste of tweede lid kan geen zelfstandige last worden opgelegd die leidt tot het blokkeren of filteren van internetverkeer.
-
-5. Voor een zelfstandige last als bedoeld in het eerste of tweede lid is voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
-
-6. Tegen de beslissing van de rechter-commissaris, bedoeld in het vijfde lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister, binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
-
-7. Onze Minister maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste of tweede lid, bekend.
-
-##### Artikel 88d
-
-[Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover een krachtens [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&hoofdstuk=7&titeldeel=1&paragraaf=1&artikel=82&z=2026-01-01&g=2026-01-01), aangewezen ambtenaar bijstand verleent aan een markttoezichtautoriteit als bedoeld in artikel 3, onderdeel 4, van [verordening (EU) nr. 2019/1020](32920R2019), uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van die verordening.
-
-## Titel 2. Bestuurlijke boetes
-
-#### § 3. De procedure
-
-#### § 4. Betaling
-
-### Hoofdstuk 8. Overige bepalingen
-
-#### § 1. Algemeen verbindend verklaring
-
-### Hoofdstuk 9. Bepalingen in verband met bijlagen I, IA of IB bij [richtlijn 98/8/EG](31998L0008)
-
-#### § 2. Bepalingen inzake nog niet in bijlagen I, IA of IB bij [richtlijn 98/8/EG](31998L0008) opgenomen werkzame stoffen
-
-### Hoofdstuk 10. Overgangs- en slotbepalingen
-
-#### § 3. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

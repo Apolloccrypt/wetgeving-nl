@@ -1,45 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 1 maart 2007, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van voedergewassen in Nederland voor het jaar 2007 (Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2007)"
+citeertitel: "Heffìngsverordening GZP fonds zaaizaad van voedergewassen jaar 2007"
 identifier: "BWBR0021840"
-country: "nl"
-rank: "pbo"
-publication_date: "2007-04-29"
-last_updated: "2007-04-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021840"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "9074843"
-version_id: "14480632"
-internal_id: "C27049681"
-label_id: "9053894"
-dtd_version: "2.0"
-original_entry_into_force: "2007-04-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021840/2007-04-29/0"
-intitule_bron: "Vbbo.2007-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-03-01"
-intitule_published: "2007-04-27"
-intitule_in_force: "2007-04-27"
-intitule_status: "goed"
-original_publication: "Vbbo.2007-21"
-original_signed_date: "2007-03-01"
-original_published_date: "2007-04-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2007-04-29"
-jci_1_3: "jci1.3:c:BWBR0021840&z=2007-04-29&g=2007-04-29"
-jci_1_0: "1.0:c:BWBR0021840&g=2007-04-29"
-citeertitel_status: "officieel"
-short_title: "Heffìngsverordening GZP fonds zaaizaad van voedergewassen jaar 2007"
-signed_date: "2007-03-01"
-entry_into_force: "2007-04-29"
+publicatiedatum: 2007-04-29
+laatste_update: 2007-04-29
+status: geldig
+toestand: 2007-04-29
+bron: "https://wetten.overheid.nl/BWBR0021840"
+opgehaald: 2026-08-11
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 1 maart 2007, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van voedergewassen in Nederland voor het jaar 2007 (Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2007)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=8) en [19 van het Instellingsbesluit akkerbouwproductschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=19);
-
-Besluit:
-
-Werkt terug met uitzondering van de toepassing van de Verordening GZP algemene bepalingen 2003.
 
 #### § 1. Begripsbepalingen
 
@@ -60,15 +33,18 @@ Deze verordening verstaat onder:
 
 1. De ondernemer, die in het jaar 2007 werkzaamheden verricht in het kweekbedrijf voor zaaizaad van voedergewassen en/of met betrekking tot de be- en verwerking en/of met betrekking tot het in de handel brengen van zaaizaad van voedergewassen, is verplicht aan het productschap te betalen:
 
-- a. een basisheffing volgens onderstaand tarief: Voor de berekening van de basisheffing wordt gebruik gemaakt van het op basis van het derde lid verstrekte omzetgegeven, verminderd met het omzetbedrag dat is behaald over door de ondernemer geïmporteerde producten uit andere lidstaten.
-
-| omzet | heffing |
-| --- | --- |
-| € 20.000 – 200.000 | € 68,07 |
-| € 200.000 – 1.000.000 | € 340,34 |
-| € 1.000.000 – 2.000.000 | € 680,67 |
-| € 2.000.000 – 4.000.000 | € 1.361,34 |
-| > € 4.000.000 | € 6.806,70 |
+- a. een basisheffing volgens onderstaand tarief: omzet
+ heffing
+ € 20.000 – 200.000
+ € 68,07
+ € 200.000 – 1.000.000
+ € 340,34
+ € 1.000.000 – 2.000.000
+ € 680,67
+ € 2.000.000 – 4.000.000
+ € 1.361,34
+ > € 4.000.000
+ € 6.806,70 Voor de berekening van de basisheffing wordt gebruik gemaakt van het op basis van het derde lid verstrekte omzetgegeven, verminderd met het omzetbedrag dat is behaald over door de ondernemer geïmporteerde producten uit andere lidstaten.
 
 - b. een heffing van € 0,– per ha aangekocht zaaizaad van voedergewassen, dat op contractbasis in Nederland is geteeld.
 
@@ -82,11 +58,11 @@ Deze verordening verstaat onder:
 
 6. De heffing bedoeld in het tweede lid wordt door het productschap geïnd
 
-- –. voor de telers van graszaad op basis van de door de teler aan het Hoofdproductschap Akkerbouw ingevolge de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014846) verstrekte gegevens,
+- – voor de telers van graszaad op basis van de door de teler aan het Hoofdproductschap Akkerbouw ingevolge de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014846) verstrekte gegevens,
 
 en overigens
 
-- –. door tussenkomst van de in het eerste lid bedoelde ondernemers en berekend op basis van door hen afgesloten teeltcontracten.
+- – door tussenkomst van de in het eerste lid bedoelde ondernemers en berekend op basis van door hen afgesloten teeltcontracten.
 
 ##### Artikel 3
 

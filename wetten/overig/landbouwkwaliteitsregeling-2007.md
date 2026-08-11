@@ -1,98 +1,131 @@
 ---
-title: "Landbouwkwaliteitsregeling 2007"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 september 2007, nr. TRCJZ/2007/2968, houdende regels inzake de kwaliteit van landbouwproducten (Landbouwkwaliteitsregeling 2007)"
+citeertitel: "Landbouwkwaliteitsregeling 2007"
 identifier: "BWBR0022543"
-categorie: "Overig"
-publicatiedatum: 2023-10-14
-laatste_update: 2023-10-14
+categorie: "Milieu"
+soort: "ministeriele-regeling"
+publicatiedatum: 2010-07-09
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0022543"
+opgehaald: 2026-08-11
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 september 2007, nr. TRCJZ/2007/2968, houdende regels inzake de kwaliteit van landbouwproducten (Landbouwkwaliteitsregeling 2007)
 
-Gelet op de Europese verordeningen en richtlijnen met betrekking tot het in de handel brengen van verschillende landbouwproducten, alsmede gelet op [artikel 10 van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=10);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Landbouwkwaliteitsbesluit 2007 in werking treedt.
-
 ### Hoofdstuk 1. Biologische productiemethode
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **exploitant:** de persoon als bedoeld in artikel 3, onderdeel 13, van [verordening (EU) 2018/848](32748R2018);
+- *exploitant:* de persoon als bedoeld in artikel 3, onderdeel 13, van verordening (EU) 2018/848;
 
-- **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
+- *minister:* Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- **verordening (EG) 1580/2007:** Verordening (EG) nr. 1580/2007 van de Commissie van 21 december 2007 tot vaststelling van bepalingen voor de uitvoering van de Verordeningen (EG) nr. 2200/96, (EG) nr. 2201/96 en (EG) nr. 1182/2007 van de Raad in de sector groenten en fruit (PbEU 2007, L 350);
+- *verordening (EG) 1580/2007:* Verordening (EG) nr. 1580/2007 van de Commissie van 21 december 2007 tot vaststelling van bepalingen voor de uitvoering van de Verordeningen (EG) nr. 2200/96, (EG) nr. 2201/96 en (EG) nr. 1182/2007 van de Raad in de sector groenten en fruit (PbEU 2007, L 350);
 
-- **verordening (EU) 2020/464:** [Uitvoeringsverordening 2020/464](32364R2020) van de Commissie van 26 maart 2020 tot vaststelling van een aantal uitvoeringsbepalingen voor [Verordening (EU) 2018/848](32748R2018) van het Europees Parlement en de Raad wat betreft de documenten die nodig zijn voor de erkenning met terugwerkende kracht van perioden in het kader van de omschakeling, de productie van biologische producten en de door de lidstaten te verstrekken informatie (PbEU 2020, L 98);
+- *verordening (EU) 2020/464:*
+ Uitvoeringsverordening 2020/464 van de Commissie van 26 maart 2020 tot vaststelling van een aantal uitvoeringsbepalingen voor Verordening (EU) 2018/848 van het Europees Parlement en de Raad wat betreft de documenten die nodig zijn voor de erkenning met terugwerkende kracht van perioden in het kader van de omschakeling, de productie van biologische producten en de door de lidstaten te verstrekken informatie (PbEU 2020, L 98);
 
-- **verordening (EU) 2021/279:** [Uitvoeringsverordening (EU) 2021/279](32179R2021) van de Commissie van 22 februari 2021 tot vaststelling van bepalingen ter uitvoering van [Verordening (EU) 2018/848](32748R2018) van het Europees Parlement en de Raad wat betreft controles en andere maatregelen ter waarborging van de traceerbaarheid en naleving in de biologische productie en de etikettering van biologische producten (PbEU 2021, L 62);
+- *verordening (EU) 2021/279:*
+ Uitvoeringsverordening (EU) 2021/279 van de Commissie van 22 februari 2021 tot vaststelling van bepalingen ter uitvoering van Verordening (EU) 2018/848 van het Europees Parlement en de Raad wat betreft controles en andere maatregelen ter waarborging van de traceerbaarheid en naleving in de biologische productie en de etikettering van biologische producten (PbEU 2021, L 62);
 
-- **verordening (EU) 2021/2305:** Gedelegeerde [Verordening (EU) 2021/2305](32305R2021) van de Commissie van 21 oktober 2021 tot aanvulling van [Verordening (EU) 2017/625](32525R2017) van het Europees Parlement en de Raad met regels inzake de gevallen waarin en de voorwaarden waaronder biologische producten en omschakelingsproducten zijn vrijgesteld van officiële controles aan grenscontroleposten en inzake de plaats van officiële controles voor dergelijke producten, en tot wijziging van de Gedelegeerde [Verordeningen (EU) 2019/2123](32123R2019) en [(EU) 2019/2124](32124R2019) van de Commissie (PbEU 2021, L 461);
+- *verordening (EU) 2021/2305:* Gedelegeerde Verordening (EU) 2021/2305 van de Commissie van 21 oktober 2021 tot aanvulling van Verordening (EU) 2017/625 van het Europees Parlement en de Raad met regels inzake de gevallen waarin en de voorwaarden waaronder biologische producten en omschakelingsproducten zijn vrijgesteld van officiële controles aan grenscontroleposten en inzake de plaats van officiële controles voor dergelijke producten, en tot wijziging van de Gedelegeerde Verordeningen (EU) 2019/2123 en (EU) 2019/2124 van de Commissie (PbEU 2021, L 461);
 
-- **verordening (EU) 2021/2306:** Gedelegeerde [Verordening (EU) 2021/2306](32306R2021) van de Commissie van 21 oktober 2021 tot aanvulling van [Verordening (EU) 2018/848](32748R2018) van het Europees Parlement en de Raad met regels betreffende de officiële controles van zendingen biologische producten en omschakelingsproducten die bestemd zijn voor invoer in de Unie en betreffende het inspectiecertificaat (PbEU 2021, L 461);
+- *verordening (EU) 2021/2306:* Gedelegeerde Verordening (EU) 2021/2306 van de Commissie van 21 oktober 2021 tot aanvulling van Verordening (EU) 2018/848 van het Europees Parlement en de Raad met regels betreffende de officiële controles van zendingen biologische producten en omschakelingsproducten die bestemd zijn voor invoer in de Unie en betreffende het inspectiecertificaat (PbEU 2021, L 461);
 
-- **verordening (EU) 2021/2307:** [Uitvoeringsverordening (EU) 2021/2307](32307R2021) van de Commissie van 21 oktober 2021 tot vaststelling van regels betreffende documenten en kennisgevingen die vereist zijn voor biologische en omschakelingsproducten die bestemd zijn voor invoer in de Unie (PbEU 2021, L 461).
+- *verordening (EU) 2021/2307:*
+ Uitvoeringsverordening (EU) 2021/2307 van de Commissie van 21 oktober 2021 tot vaststelling van regels betreffende documenten en kennisgevingen die vereist zijn voor biologische en omschakelingsproducten die bestemd zijn voor invoer in de Unie (PbEU 2021, L 461).
 
-#### Artikel 2
+##### Artikel 2
 
-1. Exploitanten en groepen exploitanten, als bedoeld in artikel 36 van [verordening (EU) 2018/848](32748R2018), melden zich overeenkomstig artikel 15, aanhef en onderdeel b, van het Landbouwkwaliteitsbesluit 2007 bij de Stichting Skal overeenkomstig artikel 34, eerste lid, van [verordening (EU) 2018/848](32748R2018).
+1. Exploitanten en groepen exploitanten, als bedoeld in artikel 36 van verordening (EU) 2018/848, melden zich overeenkomstig artikel 15, aanhef en onderdeel b, van het Landbouwkwaliteitsbesluit 2007 bij de Stichting Skal overeenkomstig artikel 34, eerste lid, van verordening (EU) 2018/848.
 
-2. Exploitanten die onverpakte biologische producten, met uitzondering van diervoeders, direct aan de eindconsument of eindgebruiker verkopen zijn vrijgesteld van de toepassing van artikel 34, eerste lid, van [verordening (EU) 2018/848](32748R2018), mits ze voldoen aan artikel 35, achtste lid, van [verordening (EU) 2018/848](32748R2018).
+2. Exploitanten die onverpakte biologische producten, met uitzondering van diervoeders, direct aan de eindconsument of eindgebruiker verkopen zijn vrijgesteld van de toepassing van artikel 34, eerste lid, van verordening (EU) 2018/848, mits ze voldoen aan artikel 35, achtste lid, van verordening (EU) 2018/848.
 
-#### Artikel 3
+##### Artikel 3
 
-Indien de Stichting Skal constateert dat de bij of krachtens [verordening (EU) 2018/848](32748R2018) gestelde voorschriften niet worden nageleefd met betrekking tot een product waarvoor overeenkomstig die verordeningen aanduidingen worden gebezigd, kan zij de betreffende marktdeelnemers de verplichting opleggen om de aanduidingen van de desbetreffende producten te verwijderen of te doen verwijderen overeenkomstig artikel 42 van [verordening (EU) 2018/848](32748R2018).
+Indien de Stichting Skal constateert dat de bij of krachtens verordening (EU) 2018/848 gestelde voorschriften niet worden nageleefd met betrekking tot een product waarvoor overeenkomstig die verordeningen aanduidingen worden gebezigd, kan zij de betreffende marktdeelnemers de verplichting opleggen om de aanduidingen van de desbetreffende producten te verwijderen of te doen verwijderen overeenkomstig artikel 42 van verordening (EU) 2018/848.
 
-#### Artikel 4
+##### Artikel 4
 
-De Stichting Skal wordt aangewezen als bevoegde autoriteit met betrekking tot biologische productie en etikettering van biologische producten, bedoeld in artikel 1, tweede lid, aanhef en onderdeel i, van [verordening (EU) 2017/625](32525R2017), voor zover het betreft:
+De Stichting Skal wordt aangewezen als bevoegde autoriteit met betrekking tot biologische productie en etikettering van biologische producten, bedoeld in artikel 1, tweede lid, aanhef en onderdeel i, van verordening (EU) 2017/625, voor zover het betreft:
 
-- a. het beoordelen van een verzoek tot erkenning met terugwerkende kracht van perioden in het kader van de omschakeling als bedoeld artikel 1, eerste en tweede lid van [verordening 2020/464](32364R2020);
+- a. het beoordelen van een verzoek tot erkenning met terugwerkende kracht van perioden in het kader van de omschakeling als bedoeld artikel 1, eerste en tweede lid van verordening 2020/464;
 
-- b. het verlengen van de omschakelingsperiode als bedoeld in bijlage II, deel I, punt 1.7.2 van [verordening (EU) 2018/848](32748R2018);
+- b. het verlengen van de omschakelingsperiode als bedoeld in bijlage II, deel I, punt 1.7.2 van verordening (EU) 2018/848;
 
 - c. het opleggen van een nieuwe omschakelingsperiode als bedoeld in bijlage II, deel I, punt 1.7.3.
 
-#### Artikel 5
+##### Artikel 5
 
-Vervallen
+*Vervallen*
 
-#### Artikel 6
+##### Artikel 6
 
-1. De Stichting Skal kan op aanvraag een vrijstelling verlenen voor het gebruik in Nederland van niet volgens de biologische productiemethode verkregen ingrediënten van agrarische oorsprong, als bedoeld in artikel 25, eerste en derde lid, van [verordening (EU) 2018/848](32748R2018).
+1. De Stichting Skal kan op aanvraag een vrijstelling verlenen voor het gebruik in Nederland van niet volgens de biologische productiemethode verkregen ingrediënten van agrarische oorsprong, als bedoeld in artikel 25, eerste en derde lid, van verordening (EU) 2018/848.
 
-2. Overeenkomstig [artikel 16, eerste lid, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16) kan de minister een gebeurtenis formeel als rampzalige gebeurtenis overeenkomstig artikel 22 van [verordening (EU) 2018/848](32748R2018) jo. artikel 1 van [verordening (EU) 2020/2146](32146R2020) erkennen en dan door middel van een vrijstelling of ontheffing toestemming verlenen om gedurende een beperkte periode, tot de biologische productie kan worden hervat, af te wijken van de biologische productievoorschriften onder de bij of krachtens artikel 22 [verordening (EU) 2018/848](32748R2018) gestelde voorwaarden.
+2. Overeenkomstig [artikel 16, eerste lid, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16) kan de minister een gebeurtenis formeel als rampzalige gebeurtenis overeenkomstig artikel 22 van verordening (EU) 2018/848 jo. artikel 1 van verordening (EU) 2020/2146 erkennen en dan door middel van een vrijstelling of ontheffing toestemming verlenen om gedurende een beperkte periode, tot de biologische productie kan worden hervat, af te wijken van de biologische productievoorschriften onder de bij of krachtens artikel 22 verordening (EU) 2018/848 gestelde voorwaarden.
 
-3. De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van plantaardig niet overeenkomstig de biologische productiemethode verkregen teeltmateriaal overeenkomstig bijlage II, deel I, punten 1.8.5.1 en 1.8.6, van [verordening (EU) 2018/848](32748R2018).
+3. De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van plantaardig niet overeenkomstig de biologische productiemethode verkregen teeltmateriaal overeenkomstig bijlage II, deel I, punten 1.8.5.1 en 1.8.6, van verordening (EU) 2018/848.
 
-#### Artikel 7
+##### Artikel 7
 
-Vervallen
+*Vervallen*
 
-#### Artikel 8
+##### Artikel 7a
 
-Vervallen
+*Vervallen*
+
+##### Artikel 7b
+
+*Vervallen*
+
+##### Artikel 8
+
+*Vervallen*
+
+##### Artikel 8a
+
+1. Voor het reinigen en ontsmetten van gebouwen en installaties voor de plantaardige productie, inclusief opslag in een landbouwbedrijf, en van verwerkings- en opslagfaciliteiten mag overeenkomstig artikel 5, vierde lid, van verordening (EU) 2021/1165, slechts gebruik worden gemaakt van de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=III&z=2026-07-01&g=2026-07-01) genoemde producten onder de daarbij genoemde beperkingen.
+
+2. Om gebouwen en andere installaties voor de plantaardige productie te ontdoen van insecten en andere parasieten, mag gebruik worden gemaakt van rodenticiden en de in bijlage I van verordening (EU) 2021/1165 opgenomen producten. Rodenticiden worden uitsluitend gebruikt in vallen.
+
+##### Artikel 8b
+
+1. De Stichting Skal informeert de Commissie over:
+
+- a. vrijstellingen verleend op grond van artikel 6, eerste lid, overeenkomstig artikel 25, tweede lid, van verordening (EU) 2018/848;
+
+- b. gevallen van verontreiniging met niet-toegelaten producten of stoffen als bedoeld in artikel 29, negende lid, van verordening (EU) 2018/848;
+
+- c. waar officiële controles worden uitgevoerd op grond van artikel 4, eerste lid, van verordening (EU) 2021/2305.
+
+2. Stichting Skal informeert de Commissie en andere lidstaten middels het systeem, bedoeld in artikel 9, eerste lid, van verordening (EU) 2021/279, over:
+
+- a. een vermoeden van niet-naleving als bedoeld in artikel 43, eerste lid, van verordening (EU) 2018/848;
+
+- b. een vermoede of vastgestelde niet-naleving als bedoeld in artikel 7 van verordening (EU) 2021/2307.
+
+3. Stichting Skal informeert de Commissie en andere lidstaten over de afwijkingen, bedoeld in artikel 4, eerste lid, van verordening (EU) 2020/2146.
 
 ### Hoofdstuk 2. Het in de handel brengen van groenten en fruit
 
-#### Artikel 9
+##### Artikel 9
 
 Marktdeelnemers als bedoeld in artikel 10, tweede lid, van verordening (EU) 543/2011 verstrekken de in het vijfde en zesde lid van dat artikel bedoelde gegevens aan de Stichting KCB ten behoeve van de gegevensbank, bedoeld in het eerste lid van dat artikel, die wordt beheerd door deze Stichting.
 
-#### Artikel 10
+##### Artikel 10
 
-Marktdeelnemers die bananen in de handel brengen, die op grond van artikel 7, eerste lid, van [verordening (EG) 2898/95](31995R2898) worden vrijgesteld van de controle, registreren zich bij de Stichting KCB overeenkomstig artikel 7, tweede lid, van deze verordening.
+Marktdeelnemers die bananen in de handel brengen, die op grond van artikel 7, eerste lid, van verordening (EG) 2898/95 worden vrijgesteld van de controle, registreren zich bij de Stichting KCB overeenkomstig artikel 7, tweede lid, van deze verordening.
 
-#### Artikel 11
+##### Artikel 11
 
 De Minister is de coördinerende autoriteit, bedoeld in artikel 9, eerste lid, onderdeel a, van verordening (EU) 543/2011.
 
-#### Artikel 12
+##### Artikel 12
 
 De Stichting KCB is belast met:
 
@@ -100,15 +133,15 @@ De Stichting KCB is belast met:
 
 - b. de vaststelling van het minimum percentage, bedoeld in artikel 11, tweede lid, onderdeel b, van verordening (EU) 543/2011;
 
-- c. het verlenen van vrijstellingen en de afgifte van vrijstellingscertificaten, bedoeld in artikel 7, eerste lid, van [verordening (EG) 2898/95](31995R2898).
+- c. het verlenen van vrijstellingen en de afgifte van vrijstellingscertificaten, bedoeld in artikel 7, eerste lid, van verordening (EG) 2898/95.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De controle van groenten en fruit door de Stichting KCB geschiedt overeenkomstig de artikelen 11 en 17 en bijlage V van verordening (EU) 543/2011 en artikel 113 bis, vierde lid en de krachtens artikel 194 van verordening (EG) 1234/2007 vastgestelde voorschriften bij de normcontroles op de interne markt.
 
-2. De keuring en controle van bananen door de Stichting KCB geschiedt overeenkomstig de artikelen 2 tot en met 7 van [verordening (EG) 2898/95](31995R2898).
+2. De keuring en controle van bananen door de Stichting KCB geschiedt overeenkomstig de artikelen 2 tot en met 7 van verordening (EG) 2898/95.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien door de Stichting KCB bij een normcontrole wordt vastgesteld dat een partij groenten of fruit, die zich in het vrije verkeer binnen de Europese Unie bevindt, niet voldoet aan de in de verordening (EU) 543/2011 en de bij of krachtens verordening (EU) 1308/2013 gestelde eisen, wordt een verklaring van niet-conformiteit opgesteld als bedoeld in artikel 17, derde lid, van verordening (EU) 543/2011.
 
@@ -116,19 +149,41 @@ De Stichting KCB is belast met:
 
 3. Voor de toestemming, bedoeld in het tweede lid kan als voorwaarde worden gesteld dat aan door de Stichting KCB gestelde eisen wordt voldaan.
 
-### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
+### Hoofdstuk 3. Het in de handel brengen van hop en hopproducten
 
-#### Artikel 15
+##### Artikel 15
 
-Vervallen
+De voorschriften voor het in de handel brengen of uitvoeren van hop en hopproducten van de gedelegeerde verordening hop en hopproducten en de uitvoeringsverordening hop en hopproducten, bedoeld in [artikel 5 van het Landbouwkwaliteitsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=5), zijn de artikelen 4 tot en met 8 van de gedelegeerde verordening hop en hopproducten en de artikelen 2, eerste lid, tweede lid, derde volzin, derde lid, vierde lid en zevende lid, 3 tot en met 6, 8, eerste lid en derde lid, 9, eerste lid, tweede lid en derde lid, tweede volzin, van de uitvoeringsverordening hop en hopproducten.
 
-#### Artikel 16
+##### Artikel 16
 
-Vervallen
+De Stichting KCB is belast met:
 
-### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
+- a. het uitvoeren van controles in overeenstemming met artikel 77, tweede lid, van verordening (EU) 1308/2013 en de artikelen 7, 8 en 11 en bijlage IV van de uitvoeringsverordening hop en hopproducten;
 
-#### Artikel 17
+- b. het afgeven van certificaten als bedoeld in artikel 77, tweede en derde lid, van verordening (EU) nr. 1308/2013;
+
+- c. het erkennen van de bevoegde certificeringscentra, bedoeld in artikel 11, eerste lid, van de uitvoeringsverordening hop en hopproducten, en de intrekking van die erkenning, bedoeld in artikel 12, eerste lid, van de uitvoeringsverordening hop en hopproducten;
+
+- d. het registreren van de informatie en de documenten, bedoeld in de artikelen 9, eerste lid, en 13 van de uitvoeringsverordening hop en hopproducten, en artikel 6, eerste en tweede lid, van de gedelegeerde verordening hop en hopproducten;
+
+- e. het doen van meldingen als bedoeld in artikel 14, van de uitvoeringsverordening hop en hopproducten;
+
+- f. in het geval van mogelijk frauduleuze of bedrieglijke praktijken, het ondernemen van gepaste acties overeenkomstig verordening (EU) 2017/625;
+
+- g. overige taken die noodzakelijk zijn voor een goede uitvoering van de gedelegeerde verordening hop en hopproducten en de uitvoeringsverordening hop en hopproducten.
+
+##### Artikel 16a
+
+Onder adequate voorzieningen als bedoeld in artikel 11, eerste lid, van de uitvoeringsverordening hop en hopproducten waarover certificeringscentra moeten beschikken, voor zover zij de beoordeling op minimumeisen, bedoeld in bijlage I van de gedelegeerde verordening hop en hopproducten, zelf uitvoeren, wordt verstaan:
+
+- a. de apparatuur genoemd in bijlage IV, deel B, onderdeel 1, of een voorziening genoemd in bijlage IV, deel B, onderdeel 2, van de uitvoeringsverordening hop en hopproducten;
+
+- b. de voorzieningen genoemd in bijlage IV, deel C, onderdelen 1 en 2, van de uitvoeringsverordening hop en hopproducten.
+
+### Hoofdstuk 4. Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
+
+##### Artikel 17
 
 1. Bij de Minister worden ingediend:
 
@@ -148,7 +203,7 @@ Vervallen
 
 6. De Minister voorziet in de openbaarmaking, bedoeld in artikel 49, vierde lid, laatste alinea, van verordening (EU) 1151/2012.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Minister geeft kennis van een door de Europese Commissie voorgenomen of ingeschreven registratie, wijziging van een productdossier of annulering van een registratie onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie in de Staatscourant.
 
@@ -156,35 +211,35 @@ Vervallen
 
 3. De minister betrekt de verklaring, bedoeld in het tweede lid, bij de overweging omtrent het instellen van bezwaar tegen een registratie of niet-minimale wijziging van een productdossier bij de Europese Commissie als bedoeld in artikel 51 van verordening (EU) 1151/2012.
 
-#### Artikel 19
+##### Artikel 19
 
-Vervallen
+*Vervallen*
 
-#### Artikel 20
+##### Artikel 20
 
-Vervallen
+*Vervallen*
 
-#### Artikel 21
+##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
 
-#### Artikel 22
+##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bloembollen
 
-#### Artikel 23
+##### Artikel 23
 
-Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2023-10-14&g=2023-10-14) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
+Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2026-07-01&g=2026-07-01) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
-#### Artikel 24
+##### Artikel 24
 
-Leveranciers van teeltmateriaal van bloembollen registreren zich overeenkomstig artikel 6 van [richtlijn 98/56/EG](31998L0056) voor de activiteiten die zij uit hoofde van deze richtlijn uitoefenen bij de Stichting BKD.
+Leveranciers van teeltmateriaal van bloembollen registreren zich overeenkomstig artikel 6 van richtlijn 98/56/EG voor de activiteiten die zij uit hoofde van deze richtlijn uitoefenen bij de Stichting BKD.
 
-#### Artikel 25
+##### Artikel 25
 
 De aanvraag tot registratie vindt plaats door inzending van een volledig ingevuld, door de Stichting BKD te verstrekken aanvraagformulier dat vergezeld gaat van de volgende bescheiden:
 
@@ -192,9 +247,9 @@ De aanvraag tot registratie vindt plaats door inzending van een volledig ingevul
 
 - b. een bewijs van inschrijving in het handelsregister, dat door de bevoegde instantie niet langer dan twee maanden vóór de datum van aanvraag tot registratie is afgegeven.
 
-### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bloembollen
+### Hoofdstuk 7. Toezichthouders
 
-#### Artikel 26
+##### Artikel 26
 
 Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, eerste lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=15) worden aangewezen:
 
@@ -208,205 +263,11 @@ Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, 
 
 ### Hoofdstuk 8. Overige bepalingen
 
-#### Artikel 27
-
-De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=4&artikel=17&z=2023-10-14&g=2023-10-14), worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
-
-#### Artikel 28
-
-De volgende regelingen worden ingetrokken:
-
-- a. [Landbouwkwaliteitsregeling aanwijzing groenten en fruit](https://wetten.overheid.nl/jci1.3:c:BWBR0003129);
-
-- b. [Landbouwkwaliteitsregeling biologische productiemethode 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008176);
-
-- c. [Landbouwkwaliteitsregeling controle groenten en fruit 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0005914)
-
-- d. [Landbouwkwaliteitsregeling delegatie bevoegdheden eieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014118);
-
-- e. [Landbouwkwaliteitsregeling etikettering rundvlees](https://wetten.overheid.nl/jci1.3:c:BWBR0008931);
-
-- f. [Landbouwkwaliteitsregeling geografische aanduidingen, oorsprongsbenamingen en specificiteitscertificeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0006397);
-
-- g. [Landbouwkwaliteitsbeschikking vrijstellingen, ontheffingen en nadere voorschriften groenten en fruit](https://wetten.overheid.nl/jci1.3:c:BWBR0003128);
-
-- h. [Landbouwkwaliteitsregeling zuigelingenvoeding 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006750);
-
-- i. [Vrijstellingsregeling grootverpakkingen zuigelingenvoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0008155);
-
-- j. [Besluit aanwijzing toezichthouders Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0013679);
-
-- k. De [Regeling van de Minister van Landbouw en Visserij van 15 augustus 1977 inzake het rijkstoezicht op de controle-instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003121) (Stcrt. 1977, 159).
-
-#### Artikel 29
-
-Deze regeling wordt aangehaald als: Landbouwkwaliteitsregeling 2007.
-
-#### Artikel 30
-
-Deze regeling treedt in werking op het tijdstip waarop het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) in werking treedt.
-
-## Bijlage I. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=7&z=2008-08-01&g=2008-08-01) van de Landbouwkwaliteitsregeling 2007
-
-**Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 7**
-
-| Diersoorten | Onderscheiden categorieën dieren binnen de diersoorten | Omvang mestproductie per dier van de onderscheiden diercategorieën per jaar, uitgedrukt in kilogrammen stikstof |
-| --- | --- | --- |
-| I Rundvee | Fok- en gebruiksvee |   |
-|   | – Melk- en kalfkoeien (alle koeien die ten minste één maal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden; ook koeien die drooggezet zijn alsmede koeien die worden vetgemest en in de mesttijd worden gemolken) | 96,1 |
-|   | In grupstal met vaste mest | 90,6 |
-|   | In potstal met vaste mest | 86,4 |
-|   | – Vrouwelijk jongvee (alle vrouwelijke dieren die nog nooit gekalfd hebben en die worden aangehouden voor de vervanging van de eigen veestapel of de veestapel van derden; ook drachtige dieren die niet eerder hebben gekalfd): |   |
-|   | – jonger dan 1 jaar | 32,3 |
-|   | – 1 jaar en ouder | 66,0 |
-|   | – Stieren voor de fokkerij (stieren bestemd voor het fokken van melk- of vleesvee): |   |
-|   | – jonger dan 1 jaar | 26,7 |
-|   | – 1 jaar en ouder | 51,0 |
-|   |   |   |
-|   | Roodvleesproductie |   |
-|   | – Weide- en zoogkoeien (koeien die niet meer worden gemolken, maar worden vetgeweid) | 66,2 |
-|   | – Vleesstieren, alsook vrouwelijke dieren en ossen die op dezelfde wijze worden gemest (vee dat tot ca. 16 maanden wordt gemest voor roodvlees): |   |
-|   | – startkalf t.b.v. vleesstier, ca. 0 tot 3 maanden (kalveren die worden opgefokt van ca. 0 tot ca. 3 maanden, waarna ze voor afmesting aan een ander bedrijf worden geleverd) | 6,6 |
-|   | – van startkalf tot vleesstier, ca. 3 tot ca. 16 maanden (kalveren die zijn aangeleverd als startkalf van ca. 3 maanden en die verder worden afgemest tot vleesstier van ca. 16 maanden) | 27,2 |
-|   | – vleesstier, ca. 0 tot ca. 16 maanden (stieren die worden gemest van ca. 0 tot ca. 16 maanden) | 23,4 |
-|   | – Overig vleesvee (vee bestemd voor roodvleesproductie, dat niet behoort tot de categorieën ‘weidekoeien’ of ‘vleesstieren’; ook vleesstieren, vrouwelijkedieren en ossen ouder dan ca. 16 maanden): |   |
-|   | – jonger dan 1 jaar | 26,4 |
-|   | – 1 jaar en ouder | 65,4 |
-|   |   |   |
-| II Varkens | Fokkerij/vermeerdering |   |
-|   | – Fokzeugen (ten minste éénmaal gedekt of geïnsemineerd: guste zeugen, gedekte maar nog niet drachtige zeugen, drachtige zeugen, zeugen met biggen, zeugen waarvan de biggen gespeend zijn): |   |
-|   | – waarvan de biggen aan een ander bedrijf worden geleverd ca. 6 weken na hun geboorte (ook fokzeugen die nog geen biggen hebben) | 12,0 |
-|   | – waarvan de biggen worden gehouden tot een gewicht van ca. 25 kg (ook fokzeugen waarvan de biggen op het eigen bedrijf worden gehouden) | 15,3 |
-|   | – Opfokzeugen (jonge zeugen, nooit gedekt of geïnsemineerd, gehouden voor de fokkerij): |   |
-|   | – van ca. 25 kg tot ca. 7 maanden (aangeleverde opfokzeugen van ca. 25 kg die worden afgeleverd op ca. 7 maanden of iets ouder; ook opfokzeugen afkomstig van het eigen bedrijf van exact 25 kg, die worden afgeleverd op ca. 7 maanden) | 5,9 |
-|   | – van ca. 7 maanden tot de eerste dekking (opfokzeugen die zijn aangeleverd op ca. 7 maanden of iets jonger, tot de eerste dekking) | 9,1 |
-|   | – van ca. 25 kg tot de eerste dekking (opfokzeugen die zijn aangeleverd op ca. 25 kg, die niet op 7 maanden worden afgeleverd, maar worden aangehouden tot de eerste dekking; ook opfokzeugen afkomstig van het eigen bedrijf die worden aangehouden van exact | 6,1 |
-|   | – Opfokberen van ca. 25 kg tot ca. 7 maanden (jonge nog niet dekrijpe beren, die worden aangehouden voor de fokkerij, van ca. 25 kg tot ca. 7 maanden of iets ouder; ook beren afkomstig van het eigen bedrijf vanaf exact 25 kg) | 5,5 |
-|   | – Dekberen, van ca. 7 maanden en ouder (dekrijpe beren – ook zoekberen – van ca. 7 maanden en ouder; ook aangeleverde beren van iets jonger dan 7 maanden; beren afkomstig van het eigen bedrijf te rekenen vanaf exact 7 maanden) | 11,7 |
-|   | – Biggen, aangeleverd op ca. 6 weken, tot ca. 25 kg (gespeende biggen die op ca. 6 weken zijn aangeleverd, die worden afgeleverd op ca. 25 kg; ook op 6 weken aangeleverde biggen die op het eigen bedrijf worden aangehouden voor de mesterij, tot exact 25 kg) | 2,0 |
-|   |   |   |
-|   | Mesterij |   |
-|   | – Slachtzeugen (zeugen die niet meer gebruikt worden voor de fokkerij, maar worden afgemest) | 12,8 |
-|   | – Vleesvarkens (varkens 6,1 die doorgaans worden gemest vanaf ca. 25 kg of iets lichter tot ca. 110 kg; ook biggen afkomstig van het eigen, gesloten bedrijf vanaf exact 25kg) | 6,1 |
-|   |   |   |
-| III Kippen | Legrassen |   |
-|   | – Opfokhennen en -hanen van legrassen, jonger dan ca. 18 weken (opfokhennenen -hanen voor de vervanging van hennen enhanen van legrassen,inclusief (groot)ouderdieren, die worden afgeleverd op ca. 18 weken; dieren die op het eigen bedrijf worden aangehouden worden tot exact 18 weken meegeteld) | 0,159 |
-|   | – Hennen en hanen van legrassen, ca. 18 weken en ouder (hennen en hanen – inclusief (groot)ouderdieren – die zijn aangeleverd op ca. 18 weken; ook van het eigen bedrijf afkomstige hennen en hanen – inclusief (groot)ouderdieren -, vanaf exact 18 weken) | 0,371 |
-|   |   |   |
-|   | Vleesrassen |   |
-|   | – Opfokhennen en -hanen van vleesrassen, jonger dan ca. 19 weken (opfokhennen en -hanen ter vervanging van (groot-)ouderdieren van vleesrassen, die worden afgeleverd op ca. 19 weken; dieren die op het eigen bedrijf worden aangehouden worden tot exact 19 weken meegeteld) | 0,110 |
-|   | – Ouderdieren van vleesrassen, ca. 19 weken en ouder (ouderdieren – inclusief grootouderdieren – van vleesrassen, die zijn aangeleverd op ca. 19 weken; ook van het eigen bedrijf afkomstige (ouder)dieren, vanaf exact 19 weken) | 0,411 |
-|   | – Vleeskuikens (kuikens die voor de slacht worden afgeleverd) | 0,332 |
-|   |   |   |
-| IV Kalkoenen | Voor broedeieren |   |
-|   | – Hennen en hanen voor de productie van broedeieren: |   |
-|   | – ca. 0 tot ca. 6 weken (hennen en hanen van ca. 0 tot ca. 6 weken, gehouden op een quarantainebedrijf) | 0,290 |
-|   | – ca. 6 tot ca. 30 weken (hennen en hanen van ca. 6 tot ca. 30 weken, gehouden op een opfokbedrijf) | 1,165 |
-|   | – ca. 30 weken en ouder (hennen en hanen van ca. 30 weken en ouder) | 1,513 |
-|   |   |   |
-|   | Vleeskalkoenen |   |
-|   | – Vleeskalkoenen (vanaf het opzetten bij aanvang van de mestperiode tot de aflevering voor de slacht) | 0,884 |
-|   |   |   |
-| V Schapen | – Fokschapen, inclusief de lammeren tot ca. 25 kg (alle ooien die ten minste éénmaal hebben gelammerd) | 10,3 |
-|   | – Overige schapen (alle lammeren zwaarder dan 25 kg, alle fokrammen en overhouders) | 9,3 |
-|   |   |   |
-| VI Geiten | – Melkgeiten, inclusief lammeren tot ca. 10 kg (alle geiten die ten minste éénmaal hebben gelammerd) | 7,3 |
-|   | – Overige geiten (geitelammeren en opfokgeiten zwaarder dan ca. 10 kg en bokken) | 5,2 |
-|   |   |   |
-| VII Eenden | – Ouderdieren van vleeseenden (opfok- en legeenden) | 0,50 |
-|   | – Vleeseenden (eenden die worden gehouden voor de slacht) | 0,39 |
-|   |   |   |
-| VIII Konijnen | – Voedsters, inclusief de niet-gespeende jongen (alle vrouwelijke dieren die ten minste éénmaal zijn gedekt) | 1,24 |
-|   | – Fokrammen (rammen bestemd voor het fokken van vleeskonijnen) | 0,75 |
-|   | – Opfokkonijnen (jonge nog niet dekrijpe konijnen, die worden aangehouden voor de fokkerij, vanaf de leeftijd van ca. 80 dagen tot de eerste dekking) | 1,01 |
-|   | – Vleeskonijnen (jonge konijnen vanaf het spenen tot de leeftijd van ca. 80 dagen; ook opfokkonijnen tot 80 dagen) | 0,40 |
-|   |   |   |
-| IX Parelhoenders | – Vleesparelhoenders | 0,437 |
-
-## Bijlage I. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=7&z=2009-07-01&g=2009-07-01) van de Landbouwkwaliteitsregeling 2007
-
-**Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 7**
-
-| Diersoorten | Onderscheiden categorieën dieren binnen de diersoorten | Omvang mestproductie per dier van de onderscheiden diercategorieën per jaar, uitgedrukt in kilogrammen stikstof |
-| --- | --- | --- |
-| I Rundvee | Fok- en gebruiksvee |   |
-|   | – Melk- en kalfkoeien (alle koeien die ten minste één maal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden; ook koeien die drooggezet zijn alsmede koeien die worden vetgemest en in de mesttijd worden gemolken) | 96,1 |
-|   | In grupstal met vaste mest | 90,6 |
-|   | In potstal met vaste mest | 86,4 |
-|   | – Vrouwelijk jongvee (alle vrouwelijke dieren die nog nooit gekalfd hebben en die worden aangehouden voor de vervanging van de eigen veestapel of de veestapel van derden; ook drachtige dieren die niet eerder hebben gekalfd): |   |
-|   | – jonger dan 1 jaar | 32,3 |
-|   | – 1 jaar en ouder | 66,0 |
-|   | – Stieren voor de fokkerij (stieren bestemd voor het fokken van melk- of vleesvee): |   |
-|   | – jonger dan 1 jaar | 26,7 |
-|   | – 1 jaar en ouder | 51,0 |
-|   |   |   |
-|   | Roodvleesproductie |   |
-|   | – Weide- en zoogkoeien (koeien die niet meer worden gemolken, maar worden vetgeweid) | 66,2 |
-|   | – Vleesstieren, alsook vrouwelijke dieren en ossen die op dezelfde wijze worden gemest (vee dat tot ca. 16 maanden wordt gemest voor roodvlees): |   |
-|   | – startkalf t.b.v. vleesstier, ca. 0 tot 3 maanden (kalveren die worden opgefokt van ca. 0 tot ca. 3 maanden, waarna ze voor afmesting aan een ander bedrijf worden geleverd) | 6,6 |
-|   | – van startkalf tot vleesstier, ca. 3 tot ca. 16 maanden (kalveren die zijn aangeleverd als startkalf van ca. 3 maanden en die verder worden afgemest tot vleesstier van ca. 16 maanden) | 27,2 |
-|   | – vleesstier, ca. 0 tot ca. 16 maanden (stieren die worden gemest van ca. 0 tot ca. 16 maanden) | 23,4 |
-|   | – Overig vleesvee (vee bestemd voor roodvleesproductie, dat niet behoort tot de categorieën ‘weidekoeien’ of ‘vleesstieren’; ook vleesstieren, vrouwelijkedieren en ossen ouder dan ca. 16 maanden): |   |
-|   | – jonger dan 1 jaar | 26,4 |
-|   | – 1 jaar en ouder | 65,4 |
-|   |   |   |
-| II Varkens | Fokkerij/vermeerdering |   |
-|   | – Fokzeugen (ten minste éénmaal gedekt of geïnsemineerd: guste zeugen, gedekte maar nog niet drachtige zeugen, drachtige zeugen, zeugen met biggen, zeugen waarvan de biggen gespeend zijn): |   |
-|   | – waarvan de biggen aan een ander bedrijf worden geleverd ca. 6 weken na hun geboorte (ook fokzeugen die nog geen biggen hebben) | 12,0 |
-|   | – waarvan de biggen worden gehouden tot een gewicht van ca. 25 kg (ook fokzeugen waarvan de biggen op het eigen bedrijf worden gehouden) | 15,3 |
-|   | – Opfokzeugen (jonge zeugen, nooit gedekt of geïnsemineerd, gehouden voor de fokkerij): |   |
-|   | – van ca. 25 kg tot ca. 7 maanden (aangeleverde opfokzeugen van ca. 25 kg die worden afgeleverd op ca. 7 maanden of iets ouder; ook opfokzeugen afkomstig van het eigen bedrijf van exact 25 kg, die worden afgeleverd op ca. 7 maanden) | 5,9 |
-|   | – van ca. 7 maanden tot de eerste dekking (opfokzeugen die zijn aangeleverd op ca. 7 maanden of iets jonger, tot de eerste dekking) | 9,1 |
-|   | – van ca. 25 kg tot de eerste dekking (opfokzeugen die zijn aangeleverd op ca. 25 kg, die niet op 7 maanden worden afgeleverd, maar worden aangehouden tot de eerste dekking; ook opfokzeugen afkomstig van het eigen bedrijf die worden aangehouden van exact | 6,1 |
-|   | – Opfokberen van ca. 25 kg tot ca. 7 maanden (jonge nog niet dekrijpe beren, die worden aangehouden voor de fokkerij, van ca. 25 kg tot ca. 7 maanden of iets ouder; ook beren afkomstig van het eigen bedrijf vanaf exact 25 kg) | 5,5 |
-|   | – Dekberen, van ca. 7 maanden en ouder (dekrijpe beren – ook zoekberen – van ca. 7 maanden en ouder; ook aangeleverde beren van iets jonger dan 7 maanden; beren afkomstig van het eigen bedrijf te rekenen vanaf exact 7 maanden) | 11,7 |
-|   | – Biggen, aangeleverd op ca. 6 weken, tot ca. 25 kg (gespeende biggen die op ca. 6 weken zijn aangeleverd, die worden afgeleverd op ca. 25 kg; ook op 6 weken aangeleverde biggen die op het eigen bedrijf worden aangehouden voor de mesterij, tot exact 25 kg) | 2,0 |
-|   |   |   |
-|   | Mesterij |   |
-|   | – Slachtzeugen (zeugen die niet meer gebruikt worden voor de fokkerij, maar worden afgemest) | 12,8 |
-|   | – Vleesvarkens (varkens 6,1 die doorgaans worden gemest vanaf ca. 25 kg of iets lichter tot ca. 110 kg; ook biggen afkomstig van het eigen, gesloten bedrijf vanaf exact 25kg) | 6,1 |
-|   |   |   |
-| III Kippen | Legrassen |   |
-|   | – Opfokhennen en -hanen van legrassen, jonger dan ca. 18 weken (opfokhennenen -hanen voor de vervanging van hennen enhanen van legrassen,inclusief (groot)ouderdieren, die worden afgeleverd op ca. 18 weken; dieren die op het eigen bedrijf worden aangehouden worden tot exact 18 weken meegeteld) | 0,159 |
-|   | – Hennen en hanen van legrassen, ca. 18 weken en ouder (hennen en hanen – inclusief (groot)ouderdieren – die zijn aangeleverd op ca. 18 weken; ook van het eigen bedrijf afkomstige hennen en hanen – inclusief (groot)ouderdieren -, vanaf exact 18 weken) | 0,371 |
-|   |   |   |
-|   | Vleesrassen |   |
-|   | – Opfokhennen en -hanen van vleesrassen, jonger dan ca. 19 weken (opfokhennen en -hanen ter vervanging van (groot-)ouderdieren van vleesrassen, die worden afgeleverd op ca. 19 weken; dieren die op het eigen bedrijf worden aangehouden worden tot exact 19 weken meegeteld) | 0,110 |
-|   | – Ouderdieren van vleesrassen, ca. 19 weken en ouder (ouderdieren – inclusief grootouderdieren – van vleesrassen, die zijn aangeleverd op ca. 19 weken; ook van het eigen bedrijf afkomstige (ouder)dieren, vanaf exact 19 weken) | 0,411 |
-|   | – Vleeskuikens (kuikens die voor de slacht worden afgeleverd) | 0,332 |
-|   |   |   |
-| IV Kalkoenen | Voor broedeieren |   |
-|   | – Hennen en hanen voor de productie van broedeieren: |   |
-|   | – ca. 0 tot ca. 6 weken (hennen en hanen van ca. 0 tot ca. 6 weken, gehouden op een quarantainebedrijf) | 0,290 |
-|   | – ca. 6 tot ca. 30 weken (hennen en hanen van ca. 6 tot ca. 30 weken, gehouden op een opfokbedrijf) | 1,165 |
-|   | – ca. 30 weken en ouder (hennen en hanen van ca. 30 weken en ouder) | 1,513 |
-|   |   |   |
-|   | Vleeskalkoenen |   |
-|   | – Vleeskalkoenen (vanaf het opzetten bij aanvang van de mestperiode tot de aflevering voor de slacht) | 0,884 |
-|   |   |   |
-| V Schapen | – Fokschapen, inclusief de lammeren tot ca. 25 kg (alle ooien die ten minste éénmaal hebben gelammerd) | 10,3 |
-|   | – Overige schapen (alle lammeren zwaarder dan 25 kg, alle fokrammen en overhouders) | 9,3 |
-|   |   |   |
-| VI Geiten | – Melkgeiten, inclusief lammeren tot ca. 10 kg (alle geiten die ten minste éénmaal hebben gelammerd) | 7,3 |
-|   | – Overige geiten (geitelammeren en opfokgeiten zwaarder dan ca. 10 kg en bokken) | 5,2 |
-|   |   |   |
-| VII Eenden | – Ouderdieren van vleeseenden (opfok- en legeenden) | 0,50 |
-|   | – Vleeseenden (eenden die worden gehouden voor de slacht) | 0,39 |
-|   |   |   |
-| VIII Konijnen | – Voedsters, inclusief de niet-gespeende jongen (alle vrouwelijke dieren die ten minste éénmaal zijn gedekt) | 1,24 |
-|   | – Fokrammen (rammen bestemd voor het fokken van vleeskonijnen) | 0,75 |
-|   | – Opfokkonijnen (jonge nog niet dekrijpe konijnen, die worden aangehouden voor de fokkerij, vanaf de leeftijd van ca. 80 dagen tot de eerste dekking) | 1,01 |
-|   | – Vleeskonijnen (jonge konijnen vanaf het spenen tot de leeftijd van ca. 80 dagen; ook opfokkonijnen tot 80 dagen) | 0,40 |
-|   |   |   |
-| IX Parelhoenders | – Vleesparelhoenders | 0,437 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Artikel 26a
+##### Artikel 26a
 
 In dit hoofdstuk wordt verstaan onder marktdeelnemer: iedere natuurlijke persoon of rechtspersoon die bedrijfsmatig betrokken is bij het in de handel brengen van producten.
 
-#### Artikel 26b
+##### Artikel 26b
 
 1. Een controle-instelling kan de tarieven, bedoeld in [artikel 11, eerste lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), in rekening brengen bij aan haar toezicht of keuring onderworpen marktdeelnemers.
 
@@ -436,1509 +297,44 @@ In dit hoofdstuk wordt verstaan onder marktdeelnemer: iedere natuurlijke persoon
 
 - 4°. de omvang van het risico op niet-naleving van het bij of krachtens de wet bepaalde door de desbetreffende marktdeelnemer.
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2009-07-01&g=2009-07-01) van de Landbouwkwaliteitsregeling 2007
-
-| I | II |
-| --- | --- |
-| Bravoa | Agavaceae |
-| Polianthes | Agavaceae |
-| Pseudobravoa | Agavaceae |
-|   |   |
-| Allium | Alliaceae |
-| Ancrumia | Alliaceae |
-| Androstephium | Alliaceae |
-| Bessera | Alliaceae |
-| Bloomeria | Alliaceae |
-| Brodiaea | Alliaceae |
-| Caloscordum | Alliaceae |
-| Dandya | Alliaceae |
-| Dichelostemma | Alliaceae |
-| Erinna | Alliaceae |
-| Garaventia | Alliaceae |
-| Gethyum | Alliaceae |
-| Gilliesia | Alliaceae |
-| Ipheion | Alliaceae |
-| Latace | Alliaceae |
-| Leucocoryne | Alliaceae |
-| Miersia | Alliaceae |
-| Milla | Alliaceae |
-| Milula | Alliaceae |
-| Muilla | Alliaceae |
-| Nectaroscordum | Alliaceae |
-| Nothoscordum | Alliaceae |
-| Petronymphe | Alliaceae |
-| Solaria | Alliaceae |
-| Speea | Alliaceae |
-| Trichlora | Alliaceae |
-| Tristagma | Alliaceae |
-| Triteleia | Alliaceae |
-| Triteleiopsis | Alliaceae |
-| Tulbaghia | Alliaceae |
-|   |   |
-| Amaryllis | Amaryllidaceae |
-| Ammocharis | Amaryllidaceae |
-| Apodolirion | Amaryllidaceae |
-| Bokkeveldia | Amaryllidaceae |
-| Boophone | Amaryllidaceae |
-| Braxireon | Amaryllidaceae |
-| Brunsvigia | Amaryllidaceae |
-| Caliphruria | Amaryllidaceae |
-| Calostemma | Amaryllidaceae |
-| Carpolyza | Amaryllidaceae |
-| Castellanoa | Amaryllidaceae |
-| Champmanolirion | Amaryllidaceae |
-| Chlidanthus | Amaryllidaceae |
-| Clivia | Amaryllidaceae |
-| Crinum | Amaryllidaceae |
-| Cryptostephanus | Amaryllidaceae |
-| Cybistetes | Amaryllidaceae |
-| Cyrtanthus | Amaryllidaceae |
-| Elisena | Amaryllidaceae |
-| Eucharis | Amaryllidaceae |
-| Eucrosia | Amaryllidaceae |
-| Eustephia | Amaryllidaceae |
-| Famatina | Amaryllidaceae |
-| Galanthus | Amaryllidaceae |
-| Gemmaria | Amaryllidaceae |
-| Gethyllis | Amaryllidaceae |
-| Griffinia | Amaryllidaceae |
-| Habranthus | Amaryllidaceae |
-| Haemanthus | Amaryllidaceae |
-| Hannonia | Amaryllidaceae |
-| Haylockia | Amaryllidaceae |
-| Hessea | Amaryllidaceae |
-| Hieronymiella | Amaryllidaceae |
-| Hippeastrum | Amaryllidaceae |
-| Hyline | Amaryllidaceae |
-| Hymenocallis | Amaryllidaceae |
-| Ismene | Amaryllidaceae |
-| Lapiedra | Amaryllidaceae |
-| Leucojum | Amaryllidaceae |
-| Lycoris | Amaryllidaceae |
-| Mathieua | Amaryllidaceae |
-| Namaquanula | Amaryllidaceae |
-| Narcissus | Amaryllidaceae |
-| Pamianthe | Amaryllidaceae |
-| Pancratium | Amaryllidaceae |
-| Paramongaia | Amaryllidaceae |
-| Phaedranassa | Amaryllidaceae |
-| Placea | Amaryllidaceae |
-| Plagiolirion | Amaryllidaceae |
-| Proiphys | Amaryllidaceae |
-| Pseudostenomesson | Amaryllidaceae |
-| Pyrolirion | Amaryllidaceae |
-| Rauhia | Amaryllidaceae |
-| Rhodophiala | Amaryllidaceae |
-| Scadoxus | Amaryllidaceae |
-| Sprekelia | Amaryllidaceae |
-| Stenomesson | Amaryllidaceae |
-| Sternbergia | Amaryllidaceae |
-| Strumaria | Amaryllidaceae |
-| Tedingea | Amaryllidaceae |
-| Traubia | Amaryllidaceae |
-| Ungernia | Amaryllidaceae |
-| Urceolina | Amaryllidaceae |
-| Vagaria | Amaryllidaceae |
-| Vallota | Amaryllidaceae |
-| Zephyranthes | Amaryllidaceae |
-|   |   |
-| Aphyllanthes | Aphyllanthaceae |
-|   |   |
-| Amorphophallus | Araceae |
-| Arisaema | Araceae |
-| Arum | Araceae |
-| Biarum | Araceae |
-| Dracontium | Araceae |
-| Dracunculus | Araceae |
-| Helicodiceros | Araceae |
-| Pinellia | Araceae |
-| Sauromatum | Araceae |
-| Zantedeschia | Araceae |
-|   |   |
-| Asphodelus | Asphodelaceae |
-| Bulbine | Asphodelaceae |
-| Bulbinella | Asphodelaceae |
-| Eremurus | Asphodelaceae |
-| Hemiphylacus | Asphodelaceae |
-| Jodrellia | Asphodelaceae |
-| Paradisea | Asphodelaceae |
-| Simethis | Asphodelaceae |
-| Trachyandra | Asphodelaceae |
-|   |   |
-| Dahlia | Asteraceae |
-|   |   |
-| Begonia tuberhybrida | Begoniaceae |
-|   |   |
-| Blanfordia | Blanfordiaceae |
-|   |   |
-| Canna | Cannaceae |
-|   |   |
-| Androcymbium | Colchicaceae |
-| Baeometra | Colchicaceae |
-| Bulbocodium | Colchicaceae |
-| Burchardia | Colchicaceae |
-| Camptorrhiza | Colchicaceae |
-| Colchicum | Colchicaceae |
-| Gloriosa | Colchicaceae |
-| Hexacyrtis | Colchicaceae |
-| Iphigenia | Colchicaceae |
-| Littonia | Colchicaceae |
-| Merendera | Colchicaceae |
-| Neodregea | Colchicaceae |
-| Onixotis | Colchicaceae |
-| Ornithoglossum | Colchicaceae |
-| Sandersonia | Colchicaceae |
-| Wurmbea | Colchicaceae |
-|   |   |
-| Cyanastrum | Cyanastraceae |
-|   |   |
-| Eriospermum | Eriospermaceae |
-|   |   |
-| Albuca | Hyacinthaceae |
-| Alrawia | Hyacinthaceae |
-| Amphisiphon | Hyacinthaceae |
-| Androsiphon | Hyacinthaceae |
-| Bellevalia | Hyacinthaceae |
-| Bowiea | Hyacinthaceae |
-| Brimeura | Hyacinthaceae |
-| Camassia | Hyacinthaceae |
-| Chionodoxa | Hyacinthaceae |
-| Chlorogalum | Hyacinthaceae |
-| Daubenya | Hyacinthaceae |
-| Dipcadi | Hyacinthaceae |
-| Drimia | Hyacinthaceae |
-| Drimiopsis | Hyacinthaceae |
-| Eucomis | Hyacinthaceae |
-| Fortunatia | Hyacinthaceae |
-| Galtonia | Hyacinthaceae |
-| Hastingsia | Hyacinthaceae |
-| Hesperocallis | Hyacinthaceae |
-| Hyacinthella | Hyacinthaceae |
-| Hyacinthoides | Hyacinthaceae |
-| Hyacinthus | Hyacinthaceae |
-| Lachenalia | Hyacinthaceae |
-| Ledebouria | Hyacinthaceae |
-| Leopoldia | Hyacinthaceae |
-| Litanthus | Hyacinthaceae |
-| Massonia | Hyacinthaceae |
-| Muscari | Hyacinthaceae |
-| Muscarimia | Hyacinthaceae |
-| Neopatersonia | Hyacinthaceae |
-| Ornithogalum | Hyacinthaceae |
-| Polyxena | Hyacinthaceae |
-| Pseudogaltonia | Hyacinthaceae |
-| Pseudomuscari | Hyacinthaceae |
-| Puschkinia | Hyacinthaceae |
-| Rhadamanthus | Hyacinthaceae |
-| Rhodocodon | Hyacinthaceae |
-| Schizobasis | Hyacinthaceae |
-| Schoenolirion | Hyacinthaceae |
-| Scilla | Hyacinthaceae |
-| Sypharissa | Hyacinthaceae |
-| Thuranthos | Hyacinthaceae |
-| Urginea | Hyacinthaceae |
-| Veltheimia | Hyacinthaceae |
-| Whiteheadia | Hyacinthaceae |
-|   |   |
-| Curculigo | Hypoxidaceae |
-| Empodium | Hypoxidaceae |
-| Hypoxidia | Hypocidaceae |
-| Hypoxis | Hypoxidaceae |
-| Molineria | Hypoxidaceae |
-| Pauridia | Hypoxidaceae |
-| Rhodohypoxis | Hypoxidaceae |
-| Saniella | Hypoxidaceae |
-| Spiloxene | Hypoxidaceae |
-|   |   |
-| Ainea | Iridaceae |
-| Alophia | Iridaceae |
-| Anapalina | Iridaceae |
-| Anomatheca | Iridaceae |
-| Antholyza | Iridaceae |
-| Aristea | Iridaceae |
-| Babiana | Iridaceae |
-| Barnardiella | Iridaceae |
-| Belamcanda | Iridaceae |
-| Bobartia | Iridaceae |
-| Calydorea | Iridaceae |
-| Cardenanthus | Iridaceae |
-| Chasmanthe | Iridaceae |
-| Cipura | Iridaceae |
-| Cobana | Iridaceae |
-| Crocosmia | Iridaceae |
-| Crocus | Iridaceae |
-| Cypella | Iridaceae |
-| Devia | Iridaceae |
-| Dierama | Iridaceae |
-| Dietes | Iridaceae |
-| Diplarrhena | Iridaceae |
-| Duthiastrum | Iridaceae |
-| Eleutherine | Iridaceae |
-| Ennealophus | Iridaceae |
-| Eurynotia | Iridaceae |
-| Ferraria | Iridaceae |
-| Fosteria | Iridaceae |
-| Galaxia | Iridaceae |
-| Geissorhiza | Iridaceae |
-| Gelasine | Iridaceae |
-| Geosiris | Iridaceae |
-| Gladiolus | Iridaceae |
-| Gynandriris | Iridaceae |
-| Herbertia | Iridaceae |
-| Hermodactylus | Iridaceae |
-| Hesperantha | Iridaceae |
-| Hesperoxiphion | Iridaceae |
-| Hexaglottis | Iridaceae |
-| Homeria | Iridaceae |
-| Iris excl. I.germanica, I.kaempferi, I.ensata, I.pumila, I.foetidissima, I.laevigata, I.sibirica, I.japonica (incl. I.Chinensis), I.chryso- | Iridaceae |
-| graphes, I.halophila (I.spuria ssp halophila) en I.spuria |   |
-| Isophysis | Iridaceae |
-| Ixia | Iridaceae |
-| Kelissa | Iridaceae |
-| Klattia | Iridaceae |
-| Lapeirousia | Iridaceae |
-| Larentia | Iridaceae |
-| Lethia | Iridaceae |
-| Libertia | Iridaceae |
-| Mastigostyla | Iridaceae |
-| Melasphaerula | Iridaceae |
-| Micranthus | Iridaceae |
-| Moraea | Iridaceae |
-| Nemastylis | Iridaceae |
-| Neomarica | Iridaceae |
-| Nivenia | Iridaceae |
-| Olsynium | Iridaceae |
-| Onira | Iridaceae |
-| Orthrosanthus | Iridaceae |
-| Pardanthopsis | Iridaceae |
-| Patersonia | Iridaceae |
-| Phalocallis | Iridaceae |
-| Pillansia | Iridaceae |
-| Pseudotrimezia | Iridaceae |
-| Radinosiphon | Iridaceae |
-| Rheome | Iridaceae |
-| Rigidella | Iridaceae |
-| Roggeveldia | Iridaceae |
-| Romulea | Iridaceae |
-| Savannosiphon | Iridaceae |
-| Schizostylis | Iridaceae |
-| Sessilanthera | Iridaceae |
-| Sessilistigma | Iridaceae |
-| Solenomelus | Iridaceae |
-| Sparaxis | Iridaceae |
-| Sphenostigma | Iridaceae |
-| Syringodea | Iridaceae |
-| Tapeinia | Iridaceae |
-| Thereianthus | Iridaceae |
-| Tigridia | Iridaceae |
-| Trimezia | Iridaceae |
-| Tritonia | Iridaceae |
-| Tritoniopsis | Iridaceae |
-| Watsonia | Iridaceae |
-| Witsenia | Iridaceae |
-| Zygotritonia | Iridaceae |
-|   |   |
-| Ixiolirion | Ixioliriaceae |
-|   |   |
-| Calochortus | Liliaceae |
-| Cardiocrinum | Liliaceae |
-| Erythronium | Liliaceae |
-| Fritillaria | Liliaceae |
-| Gagea | Liliaceae |
-| Korolkowia | Liliaceae |
-| Lilium | Liliaceae |
-| Lloydia | Liliaceae |
-| Nomocharis | Liliaceae |
-| Notholirion | Liliaceae |
-| Tulipa | Liliaceae |
-|   |   |
-| Zigadenus | Melanthiaceae |
-|   |   |
-| Mirabilis | Nyctaginaceae |
-|   |   |
-| Oxalis | Oxalidaceae |
-|   |   |
-| Cyclamen excl. C. persicum cultivars | Primulaceae |
-|   |   |
-| Anemone apennina | Ranunculaceae |
-| A. blanda | Ranunculaceae |
-| A. coronaria | Ranunculaceae |
-| A. cylindrica | Ranunculaceae |
-| A. flaccida | Ranunculaceae |
-| A. fulgens | Ranunculaceae |
-| A. ranunculoides | Ranunculaceae |
-| A. trifolia | Ranunculaceae |
-| Eranthis | Ranunculaceae |
-| Ranunculus ficaria | Ranunculaceae |
-| R. asiaticus | Ranunculaceae |
-| R. millefoliatus | Ranunculaceae |
-|   |   |
-| Conanthera | Tecophilaeaceae |
-| Cyanella | Tecophilaeaceae |
-| Odontostomum | Tecophilaeaceae |
-| Tecophilaea | Tecophilaeaceae |
-| Walleria | Tecophilaeaceae |
-| Zephyra | Tecophilaeaceae |
-|   |   |
-| Abolboda | Xyridaceae |
-| Achlyphila | Xyridaceae |
-| Aratitiyopea | Xyridaceae |
-| Orectanthe | Xyridaceae |
-| Xyris | Xyridaceae |
-|   |   |
-| Aframomum | Zingiberaceae |
-| Alpinia | Zingiberaceae |
-| Amomum | Zingiberaceae |
-| Aulotandra | Zingiberaceae |
-| Boesenbergia | Zingiberaceae |
-| Burbidgea | Zingiberaceae |
-| Camptandra | Zingiberaceae |
-| Caulokaempferia | Zingiberaceae |
-| Cautleya | Zingiberaceae |
-| Curcuma | Zingiberaceae |
-| Curcumorpha | Zingiberaceae |
-| Cyphostigma | Zingiberaceae |
-| Elettaria | Zingiberaceae |
-| Elettariopsis | Zingiberaceae |
-| Etlingera | Zingiberaceae |
-| Gagnepainia | Zingiberaceae |
-| Geocharis | Zingiberaceae |
-| Geostachys | Zingiberaceae |
-| Globba | Zingiberaceae |
-| Haniffia | Zingiberaceae |
-| Haplochorema | Zingiberaceae |
-| Hedychium | Zingiberaceae |
-| Hemiorchis | Zingiberaceae |
-| Hitchenia | Zingiberaceae |
-| Hornstedtia | Zingiberaceae |
-| Kaempferia | Zingiberaceae |
-| Leptosolena | Zingiberaceae |
-| Mantisia | Zingiberaceae |
-| Nanochilus | Zingiberaceae |
-| Paracautleya | Zingiberaceae |
-| Parakeampferia | Zingiberaceae |
-| Plagiostachys | Zingiberaceae |
-| Pleuranthodium | Zingiberaceae |
-| Pommereschea | Zingiberaceae |
-| Pyrgophyllum | Zingiberaceae |
-| Renealmia | Zingiberaceae |
-| Rhynchanthus | Zingiberaceae |
-| Riedelia | Zingiberaceae |
-| Roscoea | Zingiberaceae |
-| Scaphochlamys | Zingiberaceae |
-| Siliquamomum | Zingiberaceae |
-| Siphonochilus | Zingiberaceae |
-| Stadiochilus | Zingiberaceae |
-| Stahlianthus | Zingiberaceae |
-| Vanoverberghia | Zingiberaceae |
-| Zingiber | Zingiberaceae |
-
-## Bijlage I. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=7&z=2010-07-17&g=2010-07-17) van de Landbouwkwaliteitsregeling 2007
-
-**Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 7**
-
-| Diersoorten | Onderscheiden categorieën dieren binnen de diersoorten | Omvang mestproductie per dier van de onderscheiden diercategorieën per jaar, uitgedrukt in kilogrammen stikstof |
-| --- | --- | --- |
-| I Rundvee | Fok- en gebruiksvee |   |
-|   | – Melk- en kalfkoeien (alle koeien die ten minste één maal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden; ook koeien die drooggezet zijn alsmede koeien die worden vetgemest en in de mesttijd worden gemolken) | 96,1 |
-|   | In grupstal met vaste mest | 90,6 |
-|   | In potstal met vaste mest | 86,4 |
-|   | – Vrouwelijk jongvee (alle vrouwelijke dieren die nog nooit gekalfd hebben en die worden aangehouden voor de vervanging van de eigen veestapel of de veestapel van derden; ook drachtige dieren die niet eerder hebben gekalfd): |   |
-|   | – jonger dan 1 jaar | 32,3 |
-|   | – 1 jaar en ouder | 66,0 |
-|   | – Stieren voor de fokkerij (stieren bestemd voor het fokken van melk- of vleesvee): |   |
-|   | – jonger dan 1 jaar | 26,7 |
-|   | – 1 jaar en ouder | 51,0 |
-|   |   |   |
-|   | Roodvleesproductie |   |
-|   | – Weide- en zoogkoeien (koeien die niet meer worden gemolken, maar worden vetgeweid) | 66,2 |
-|   | – Vleesstieren, alsook vrouwelijke dieren en ossen die op dezelfde wijze worden gemest (vee dat tot ca. 16 maanden wordt gemest voor roodvlees): |   |
-|   | – startkalf t.b.v. vleesstier, ca. 0 tot 3 maanden (kalveren die worden opgefokt van ca. 0 tot ca. 3 maanden, waarna ze voor afmesting aan een ander bedrijf worden geleverd) | 6,6 |
-|   | – van startkalf tot vleesstier, ca. 3 tot ca. 16 maanden (kalveren die zijn aangeleverd als startkalf van ca. 3 maanden en die verder worden afgemest tot vleesstier van ca. 16 maanden) | 27,2 |
-|   | – vleesstier, ca. 0 tot ca. 16 maanden (stieren die worden gemest van ca. 0 tot ca. 16 maanden) | 23,4 |
-|   | – Overig vleesvee (vee bestemd voor roodvleesproductie, dat niet behoort tot de categorieën ‘weidekoeien’ of ‘vleesstieren’; ook vleesstieren, vrouwelijkedieren en ossen ouder dan ca. 16 maanden): |   |
-|   | – jonger dan 1 jaar | 26,4 |
-|   | – 1 jaar en ouder | 65,4 |
-|   |   |   |
-| II Varkens | Fokkerij/vermeerdering |   |
-|   | – Fokzeugen (ten minste éénmaal gedekt of geïnsemineerd: guste zeugen, gedekte maar nog niet drachtige zeugen, drachtige zeugen, zeugen met biggen, zeugen waarvan de biggen gespeend zijn): |   |
-|   | – waarvan de biggen aan een ander bedrijf worden geleverd ca. 6 weken na hun geboorte (ook fokzeugen die nog geen biggen hebben) | 12,0 |
-|   | – waarvan de biggen worden gehouden tot een gewicht van ca. 25 kg (ook fokzeugen waarvan de biggen op het eigen bedrijf worden gehouden) | 15,3 |
-|   | – Opfokzeugen (jonge zeugen, nooit gedekt of geïnsemineerd, gehouden voor de fokkerij): |   |
-|   | – van ca. 25 kg tot ca. 7 maanden (aangeleverde opfokzeugen van ca. 25 kg die worden afgeleverd op ca. 7 maanden of iets ouder; ook opfokzeugen afkomstig van het eigen bedrijf van exact 25 kg, die worden afgeleverd op ca. 7 maanden) | 5,9 |
-|   | – van ca. 7 maanden tot de eerste dekking (opfokzeugen die zijn aangeleverd op ca. 7 maanden of iets jonger, tot de eerste dekking) | 9,1 |
-|   | – van ca. 25 kg tot de eerste dekking (opfokzeugen die zijn aangeleverd op ca. 25 kg, die niet op 7 maanden worden afgeleverd, maar worden aangehouden tot de eerste dekking; ook opfokzeugen afkomstig van het eigen bedrijf die worden aangehouden van exact | 6,1 |
-|   | – Opfokberen van ca. 25 kg tot ca. 7 maanden (jonge nog niet dekrijpe beren, die worden aangehouden voor de fokkerij, van ca. 25 kg tot ca. 7 maanden of iets ouder; ook beren afkomstig van het eigen bedrijf vanaf exact 25 kg) | 5,5 |
-|   | – Dekberen, van ca. 7 maanden en ouder (dekrijpe beren – ook zoekberen – van ca. 7 maanden en ouder; ook aangeleverde beren van iets jonger dan 7 maanden; beren afkomstig van het eigen bedrijf te rekenen vanaf exact 7 maanden) | 11,7 |
-|   | – Biggen, aangeleverd op ca. 6 weken, tot ca. 25 kg (gespeende biggen die op ca. 6 weken zijn aangeleverd, die worden afgeleverd op ca. 25 kg; ook op 6 weken aangeleverde biggen die op het eigen bedrijf worden aangehouden voor de mesterij, tot exact 25 kg) | 2,0 |
-|   |   |   |
-|   | Mesterij |   |
-|   | – Slachtzeugen (zeugen die niet meer gebruikt worden voor de fokkerij, maar worden afgemest) | 12,8 |
-|   | – Vleesvarkens (varkens 6,1 die doorgaans worden gemest vanaf ca. 25 kg of iets lichter tot ca. 110 kg; ook biggen afkomstig van het eigen, gesloten bedrijf vanaf exact 25kg) | 6,1 |
-|   |   |   |
-| III Kippen | Legrassen |   |
-|   | – Opfokhennen en -hanen van legrassen, jonger dan ca. 18 weken (opfokhennenen -hanen voor de vervanging van hennen enhanen van legrassen,inclusief (groot)ouderdieren, die worden afgeleverd op ca. 18 weken; dieren die op het eigen bedrijf worden aangehouden worden tot exact 18 weken meegeteld) | 0,159 |
-|   | – Hennen en hanen van legrassen, ca. 18 weken en ouder (hennen en hanen – inclusief (groot)ouderdieren – die zijn aangeleverd op ca. 18 weken; ook van het eigen bedrijf afkomstige hennen en hanen – inclusief (groot)ouderdieren -, vanaf exact 18 weken) | 0,371 |
-|   |   |   |
-|   | Vleesrassen |   |
-|   | – Opfokhennen en -hanen van vleesrassen, jonger dan ca. 19 weken (opfokhennen en -hanen ter vervanging van (groot-)ouderdieren van vleesrassen, die worden afgeleverd op ca. 19 weken; dieren die op het eigen bedrijf worden aangehouden worden tot exact 19 weken meegeteld) | 0,110 |
-|   | – Ouderdieren van vleesrassen, ca. 19 weken en ouder (ouderdieren – inclusief grootouderdieren – van vleesrassen, die zijn aangeleverd op ca. 19 weken; ook van het eigen bedrijf afkomstige (ouder)dieren, vanaf exact 19 weken) | 0,411 |
-|   | – Vleeskuikens (kuikens die voor de slacht worden afgeleverd) | 0,332 |
-|   |   |   |
-| IV Kalkoenen | Voor broedeieren |   |
-|   | – Hennen en hanen voor de productie van broedeieren: |   |
-|   | – ca. 0 tot ca. 6 weken (hennen en hanen van ca. 0 tot ca. 6 weken, gehouden op een quarantainebedrijf) | 0,290 |
-|   | – ca. 6 tot ca. 30 weken (hennen en hanen van ca. 6 tot ca. 30 weken, gehouden op een opfokbedrijf) | 1,165 |
-|   | – ca. 30 weken en ouder (hennen en hanen van ca. 30 weken en ouder) | 1,513 |
-|   |   |   |
-|   | Vleeskalkoenen |   |
-|   | – Vleeskalkoenen (vanaf het opzetten bij aanvang van de mestperiode tot de aflevering voor de slacht) | 0,884 |
-|   |   |   |
-| V Schapen | – Fokschapen, inclusief de lammeren tot ca. 25 kg (alle ooien die ten minste éénmaal hebben gelammerd) | 10,3 |
-|   | – Overige schapen (alle lammeren zwaarder dan 25 kg, alle fokrammen en overhouders) | 9,3 |
-|   |   |   |
-| VI Geiten | – Melkgeiten, inclusief lammeren tot ca. 10 kg (alle geiten die ten minste éénmaal hebben gelammerd) | 7,3 |
-|   | – Overige geiten (geitelammeren en opfokgeiten zwaarder dan ca. 10 kg en bokken) | 5,2 |
-|   |   |   |
-| VII Eenden | – Ouderdieren van vleeseenden (opfok- en legeenden) | 0,50 |
-|   | – Vleeseenden (eenden die worden gehouden voor de slacht) | 0,39 |
-|   |   |   |
-| VIII Konijnen | – Voedsters, inclusief de niet-gespeende jongen (alle vrouwelijke dieren die ten minste éénmaal zijn gedekt) | 1,24 |
-|   | – Fokrammen (rammen bestemd voor het fokken van vleeskonijnen) | 0,75 |
-|   | – Opfokkonijnen (jonge nog niet dekrijpe konijnen, die worden aangehouden voor de fokkerij, vanaf de leeftijd van ca. 80 dagen tot de eerste dekking) | 1,01 |
-|   | – Vleeskonijnen (jonge konijnen vanaf het spenen tot de leeftijd van ca. 80 dagen; ook opfokkonijnen tot 80 dagen) | 0,40 |
-|   |   |   |
-| IX Parelhoenders | – Vleesparelhoenders | 0,437 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Artikel 8
-
-De periode waarin uitlopen leeg moeten blijven als bedoeld in bijlage I, onderdeel B, punt 8.4.6 van [verordening (EEG) 2092/91](31991R2092), wordt vastgesteld op 60 dagen, telkens na het houden van een koppel pluimvee.
-
-### Hoofdstuk 2. Het in de handel brengen van groenten en fruit
-
-### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
-
-### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
-
-### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
-
-### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
-
-### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bloembollen
-
-### Hoofdstuk 7. Toezichthouders
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2011-01-01&g=2011-01-01) van de Landbouwkwaliteitsregeling 2007
-
-**Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 4**
-
-| Diersoorten | Onderscheiden categorieën dieren binnen de diersoorten | Omvang mestproductie per dier van de onderscheiden diercategorieën per jaar, uitgedrukt in kilogrammen stikstof |
-| --- | --- | --- |
-| I Rundvee | Fok- en gebruiksvee |   |
-|   | – Melk- en kalfkoeien (alle koeien die ten minste één maal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden; ook koeien die drooggezet zijn alsmede koeien die worden vetgemest en in de mesttijd worden gemolken) | 96,1 |
-|   | In grupstal met vaste mest | 90,6 |
-|   | In potstal met vaste mest | 86,4 |
-|   | – Vrouwelijk jongvee (alle vrouwelijke dieren die nog nooit gekalfd hebben en die worden aangehouden voor de vervanging van de eigen veestapel of de veestapel van derden; ook drachtige dieren die niet eerder hebben gekalfd): |   |
-|   | – jonger dan 1 jaar | 32,3 |
-|   | – 1 jaar en ouder | 66,0 |
-|   | – Stieren voor de fokkerij (stieren bestemd voor het fokken van melk- of vleesvee): |   |
-|   | – jonger dan 1 jaar | 26,7 |
-|   | – 1 jaar en ouder | 51,0 |
-|   |   |   |
-|   | Roodvleesproductie |   |
-|   | – Weide- en zoogkoeien (koeien die niet meer worden gemolken, maar worden vetgeweid) | 66,2 |
-|   | – Vleesstieren, alsook vrouwelijke dieren en ossen die op dezelfde wijze worden gemest (vee dat tot ca. 16 maanden wordt gemest voor roodvlees): |   |
-|   | – startkalf t.b.v. vleesstier, ca. 0 tot 3 maanden (kalveren die worden opgefokt van ca. 0 tot ca. 3 maanden, waarna ze voor afmesting aan een ander bedrijf worden geleverd) | 6,6 |
-|   | – van startkalf tot vleesstier, ca. 3 tot ca. 16 maanden (kalveren die zijn aangeleverd als startkalf van ca. 3 maanden en die verder worden afgemest tot vleesstier van ca. 16 maanden) | 27,2 |
-|   | – vleesstier, ca. 0 tot ca. 16 maanden (stieren die worden gemest van ca. 0 tot ca. 16 maanden) | 23,4 |
-|   | – Overig vleesvee (vee bestemd voor roodvleesproductie, dat niet behoort tot de categorieën ‘weidekoeien’ of ‘vleesstieren’; ook vleesstieren, vrouwelijkedieren en ossen ouder dan ca. 16 maanden): |   |
-|   | – jonger dan 1 jaar | 26,4 |
-|   | – 1 jaar en ouder | 65,4 |
-|   |   |   |
-| II Varkens | Fokkerij/vermeerdering |   |
-|   | – Fokzeugen (ten minste éénmaal gedekt of geïnsemineerd: guste zeugen, gedekte maar nog niet drachtige zeugen, drachtige zeugen, zeugen met biggen, zeugen waarvan de biggen gespeend zijn): |   |
-|   | – waarvan de biggen aan een ander bedrijf worden geleverd ca. 6 weken na hun geboorte (ook fokzeugen die nog geen biggen hebben) | 12,0 |
-|   | – waarvan de biggen worden gehouden tot een gewicht van ca. 25 kg (ook fokzeugen waarvan de biggen op het eigen bedrijf worden gehouden) | 15,3 |
-|   | – Opfokzeugen (jonge zeugen, nooit gedekt of geïnsemineerd, gehouden voor de fokkerij): |   |
-|   | – van ca. 25 kg tot ca. 7 maanden (aangeleverde opfokzeugen van ca. 25 kg die worden afgeleverd op ca. 7 maanden of iets ouder; ook opfokzeugen afkomstig van het eigen bedrijf van exact 25 kg, die worden afgeleverd op ca. 7 maanden) | 5,9 |
-|   | – van ca. 7 maanden tot de eerste dekking (opfokzeugen die zijn aangeleverd op ca. 7 maanden of iets jonger, tot de eerste dekking) | 9,1 |
-|   | – van ca. 25 kg tot de eerste dekking (opfokzeugen die zijn aangeleverd op ca. 25 kg, die niet op 7 maanden worden afgeleverd, maar worden aangehouden tot de eerste dekking; ook opfokzeugen afkomstig van het eigen bedrijf die worden aangehouden van exact | 6,1 |
-|   | – Opfokberen van ca. 25 kg tot ca. 7 maanden (jonge nog niet dekrijpe beren, die worden aangehouden voor de fokkerij, van ca. 25 kg tot ca. 7 maanden of iets ouder; ook beren afkomstig van het eigen bedrijf vanaf exact 25 kg) | 5,5 |
-|   | – Dekberen, van ca. 7 maanden en ouder (dekrijpe beren – ook zoekberen – van ca. 7 maanden en ouder; ook aangeleverde beren van iets jonger dan 7 maanden; beren afkomstig van het eigen bedrijf te rekenen vanaf exact 7 maanden) | 11,7 |
-|   | – Biggen, aangeleverd op ca. 6 weken, tot ca. 25 kg (gespeende biggen die op ca. 6 weken zijn aangeleverd, die worden afgeleverd op ca. 25 kg; ook op 6 weken aangeleverde biggen die op het eigen bedrijf worden aangehouden voor de mesterij, tot exact 25 kg) | 2,0 |
-|   |   |   |
-|   | Mesterij |   |
-|   | – Slachtzeugen (zeugen die niet meer gebruikt worden voor de fokkerij, maar worden afgemest) | 12,8 |
-|   | – Vleesvarkens (varkens 6,1 die doorgaans worden gemest vanaf ca. 25 kg of iets lichter tot ca. 110 kg; ook biggen afkomstig van het eigen, gesloten bedrijf vanaf exact 25kg) | 6,1 |
-|   |   |   |
-| III Kippen | Legrassen |   |
-|   | – Opfokhennen en -hanen van legrassen, jonger dan ca. 18 weken (opfokhennenen -hanen voor de vervanging van hennen enhanen van legrassen,inclusief (groot)ouderdieren, die worden afgeleverd op ca. 18 weken; dieren die op het eigen bedrijf worden aangehouden worden tot exact 18 weken meegeteld) | 0,159 |
-|   | – Hennen en hanen van legrassen, ca. 18 weken en ouder (hennen en hanen – inclusief (groot)ouderdieren – die zijn aangeleverd op ca. 18 weken; ook van het eigen bedrijf afkomstige hennen en hanen – inclusief (groot)ouderdieren -, vanaf exact 18 weken) | 0,371 |
-|   |   |   |
-|   | Vleesrassen |   |
-|   | – Opfokhennen en -hanen van vleesrassen, jonger dan ca. 19 weken (opfokhennen en -hanen ter vervanging van (groot-)ouderdieren van vleesrassen, die worden afgeleverd op ca. 19 weken; dieren die op het eigen bedrijf worden aangehouden worden tot exact 19 weken meegeteld) | 0,110 |
-|   | – Ouderdieren van vleesrassen, ca. 19 weken en ouder (ouderdieren – inclusief grootouderdieren – van vleesrassen, die zijn aangeleverd op ca. 19 weken; ook van het eigen bedrijf afkomstige (ouder)dieren, vanaf exact 19 weken) | 0,411 |
-|   | – Vleeskuikens (kuikens die voor de slacht worden afgeleverd) | 0,332 |
-|   |   |   |
-| IV Kalkoenen | Voor broedeieren |   |
-|   | – Hennen en hanen voor de productie van broedeieren: |   |
-|   | – ca. 0 tot ca. 6 weken (hennen en hanen van ca. 0 tot ca. 6 weken, gehouden op een quarantainebedrijf) | 0,290 |
-|   | – ca. 6 tot ca. 30 weken (hennen en hanen van ca. 6 tot ca. 30 weken, gehouden op een opfokbedrijf) | 1,165 |
-|   | – ca. 30 weken en ouder (hennen en hanen van ca. 30 weken en ouder) | 1,513 |
-|   |   |   |
-|   | Vleeskalkoenen |   |
-|   | – Vleeskalkoenen (vanaf het opzetten bij aanvang van de mestperiode tot de aflevering voor de slacht) | 0,884 |
-|   |   |   |
-| V Schapen | – Fokschapen, inclusief de lammeren tot ca. 25 kg (alle ooien die ten minste éénmaal hebben gelammerd) | 10,3 |
-|   | – Overige schapen (alle lammeren zwaarder dan 25 kg, alle fokrammen en overhouders) | 9,3 |
-|   |   |   |
-| VI Geiten | – Melkgeiten, inclusief lammeren tot ca. 10 kg (alle geiten die ten minste éénmaal hebben gelammerd) | 5,8 |
-|   | – Overige geiten (geitelammeren en opfokgeiten zwaarder dan ca. 10 kg en bokken) | 3,1 |
-|   |   |   |
-| VII Eenden | – Ouderdieren van vleeseenden (opfok- en legeenden) | 0,50 |
-|   | – Vleeseenden (eenden die worden gehouden voor de slacht) | 0,39 |
-|   |   |   |
-| VIII Konijnen | – Voedsters, inclusief de niet-gespeende jongen (alle vrouwelijke dieren die ten minste éénmaal zijn gedekt) | 1,24 |
-|   | – Fokrammen (rammen bestemd voor het fokken van vleeskonijnen) | 0,75 |
-|   | – Opfokkonijnen (jonge nog niet dekrijpe konijnen, die worden aangehouden voor de fokkerij, vanaf de leeftijd van ca. 80 dagen tot de eerste dekking) | 1,01 |
-|   | – Vleeskonijnen (jonge konijnen vanaf het spenen tot de leeftijd van ca. 80 dagen; ook opfokkonijnen tot 80 dagen) | 0,40 |
-|   |   |   |
-| IX Parelhoenders | – Vleesparelhoenders | 0,437 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Artikel 7a
-
-Vervallen
-
-#### Artikel 8a
-
-1. Voor het reinigen en ontsmetten van gebouwen en installaties voor de plantaardige productie, inclusief opslag in een landbouwbedrijf, en van verwerkings- en opslagfaciliteiten mag overeenkomstig artikel 5, vierde lid, van [verordening (EU) 2021/1165](33065R2021), slechts gebruik worden gemaakt van de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=III&z=2023-10-14&g=2023-10-14) genoemde producten onder de daarbij genoemde beperkingen.
-
-2. Om gebouwen en andere installaties voor de plantaardige productie te ontdoen van insecten en andere parasieten, mag gebruik worden gemaakt van rodenticiden en de in bijlage I van [verordening (EU) 2021/1165](33065R2021) opgenomen producten. Rodenticiden worden uitsluitend gebruikt in vallen.
-
-### Hoofdstuk 2. Het in de handel brengen van groenten en fruit
-
-### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
-
-#### Artikel 16a
-
-Vervallen
-
-### Hoofdstuk 4. Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
-
-### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
-
-### Hoofdstuk 7. Toezichthouders
-
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2011-01-01&g=2011-01-01) van de Landbouwkwaliteitsregeling 2007
-
-| I | II |
-| --- | --- |
-| Bravoa | Agavaceae |
-| Polianthes | Agavaceae |
-| Pseudobravoa | Agavaceae |
-|   |   |
-| Allium | Alliaceae |
-| Ancrumia | Alliaceae |
-| Androstephium | Alliaceae |
-| Bessera | Alliaceae |
-| Bloomeria | Alliaceae |
-| Brodiaea | Alliaceae |
-| Caloscordum | Alliaceae |
-| Dandya | Alliaceae |
-| Dichelostemma | Alliaceae |
-| Erinna | Alliaceae |
-| Garaventia | Alliaceae |
-| Gethyum | Alliaceae |
-| Gilliesia | Alliaceae |
-| Ipheion | Alliaceae |
-| Latace | Alliaceae |
-| Leucocoryne | Alliaceae |
-| Miersia | Alliaceae |
-| Milla | Alliaceae |
-| Milula | Alliaceae |
-| Muilla | Alliaceae |
-| Nectaroscordum | Alliaceae |
-| Nothoscordum | Alliaceae |
-| Petronymphe | Alliaceae |
-| Solaria | Alliaceae |
-| Speea | Alliaceae |
-| Trichlora | Alliaceae |
-| Tristagma | Alliaceae |
-| Triteleia | Alliaceae |
-| Triteleiopsis | Alliaceae |
-| Tulbaghia | Alliaceae |
-|   |   |
-| Amaryllis | Amaryllidaceae |
-| Ammocharis | Amaryllidaceae |
-| Apodolirion | Amaryllidaceae |
-| Bokkeveldia | Amaryllidaceae |
-| Boophone | Amaryllidaceae |
-| Braxireon | Amaryllidaceae |
-| Brunsvigia | Amaryllidaceae |
-| Caliphruria | Amaryllidaceae |
-| Calostemma | Amaryllidaceae |
-| Carpolyza | Amaryllidaceae |
-| Castellanoa | Amaryllidaceae |
-| Champmanolirion | Amaryllidaceae |
-| Chlidanthus | Amaryllidaceae |
-| Clivia | Amaryllidaceae |
-| Crinum | Amaryllidaceae |
-| Cryptostephanus | Amaryllidaceae |
-| Cybistetes | Amaryllidaceae |
-| Cyrtanthus | Amaryllidaceae |
-| Elisena | Amaryllidaceae |
-| Eucharis | Amaryllidaceae |
-| Eucrosia | Amaryllidaceae |
-| Eustephia | Amaryllidaceae |
-| Famatina | Amaryllidaceae |
-| Galanthus | Amaryllidaceae |
-| Gemmaria | Amaryllidaceae |
-| Gethyllis | Amaryllidaceae |
-| Griffinia | Amaryllidaceae |
-| Habranthus | Amaryllidaceae |
-| Haemanthus | Amaryllidaceae |
-| Hannonia | Amaryllidaceae |
-| Haylockia | Amaryllidaceae |
-| Hessea | Amaryllidaceae |
-| Hieronymiella | Amaryllidaceae |
-| Hippeastrum | Amaryllidaceae |
-| Hyline | Amaryllidaceae |
-| Hymenocallis | Amaryllidaceae |
-| Ismene | Amaryllidaceae |
-| Lapiedra | Amaryllidaceae |
-| Leucojum | Amaryllidaceae |
-| Lycoris | Amaryllidaceae |
-| Mathieua | Amaryllidaceae |
-| Namaquanula | Amaryllidaceae |
-| Narcissus | Amaryllidaceae |
-| Pamianthe | Amaryllidaceae |
-| Pancratium | Amaryllidaceae |
-| Paramongaia | Amaryllidaceae |
-| Phaedranassa | Amaryllidaceae |
-| Placea | Amaryllidaceae |
-| Plagiolirion | Amaryllidaceae |
-| Proiphys | Amaryllidaceae |
-| Pseudostenomesson | Amaryllidaceae |
-| Pyrolirion | Amaryllidaceae |
-| Rauhia | Amaryllidaceae |
-| Rhodophiala | Amaryllidaceae |
-| Scadoxus | Amaryllidaceae |
-| Sprekelia | Amaryllidaceae |
-| Stenomesson | Amaryllidaceae |
-| Sternbergia | Amaryllidaceae |
-| Strumaria | Amaryllidaceae |
-| Tedingea | Amaryllidaceae |
-| Traubia | Amaryllidaceae |
-| Ungernia | Amaryllidaceae |
-| Urceolina | Amaryllidaceae |
-| Vagaria | Amaryllidaceae |
-| Vallota | Amaryllidaceae |
-| Zephyranthes | Amaryllidaceae |
-|   |   |
-| Aphyllanthes | Aphyllanthaceae |
-|   |   |
-| Amorphophallus | Araceae |
-| Arisaema | Araceae |
-| Arum | Araceae |
-| Biarum | Araceae |
-| Dracontium | Araceae |
-| Dracunculus | Araceae |
-| Helicodiceros | Araceae |
-| Pinellia | Araceae |
-| Sauromatum | Araceae |
-| Zantedeschia | Araceae |
-|   |   |
-| Asphodelus | Asphodelaceae |
-| Bulbine | Asphodelaceae |
-| Bulbinella | Asphodelaceae |
-| Eremurus | Asphodelaceae |
-| Hemiphylacus | Asphodelaceae |
-| Jodrellia | Asphodelaceae |
-| Paradisea | Asphodelaceae |
-| Simethis | Asphodelaceae |
-| Trachyandra | Asphodelaceae |
-|   |   |
-| Dahlia | Asteraceae |
-|   |   |
-| Begonia tuberhybrida | Begoniaceae |
-|   |   |
-| Blanfordia | Blanfordiaceae |
-|   |   |
-| Canna | Cannaceae |
-|   |   |
-| Androcymbium | Colchicaceae |
-| Baeometra | Colchicaceae |
-| Bulbocodium | Colchicaceae |
-| Burchardia | Colchicaceae |
-| Camptorrhiza | Colchicaceae |
-| Colchicum | Colchicaceae |
-| Gloriosa | Colchicaceae |
-| Hexacyrtis | Colchicaceae |
-| Iphigenia | Colchicaceae |
-| Littonia | Colchicaceae |
-| Merendera | Colchicaceae |
-| Neodregea | Colchicaceae |
-| Onixotis | Colchicaceae |
-| Ornithoglossum | Colchicaceae |
-| Sandersonia | Colchicaceae |
-| Wurmbea | Colchicaceae |
-|   |   |
-| Cyanastrum | Cyanastraceae |
-|   |   |
-| Eriospermum | Eriospermaceae |
-|   |   |
-| Albuca | Hyacinthaceae |
-| Alrawia | Hyacinthaceae |
-| Amphisiphon | Hyacinthaceae |
-| Androsiphon | Hyacinthaceae |
-| Bellevalia | Hyacinthaceae |
-| Bowiea | Hyacinthaceae |
-| Brimeura | Hyacinthaceae |
-| Camassia | Hyacinthaceae |
-| Chionodoxa | Hyacinthaceae |
-| Chlorogalum | Hyacinthaceae |
-| Daubenya | Hyacinthaceae |
-| Dipcadi | Hyacinthaceae |
-| Drimia | Hyacinthaceae |
-| Drimiopsis | Hyacinthaceae |
-| Eucomis | Hyacinthaceae |
-| Fortunatia | Hyacinthaceae |
-| Galtonia | Hyacinthaceae |
-| Hastingsia | Hyacinthaceae |
-| Hesperocallis | Hyacinthaceae |
-| Hyacinthella | Hyacinthaceae |
-| Hyacinthoides | Hyacinthaceae |
-| Hyacinthus | Hyacinthaceae |
-| Lachenalia | Hyacinthaceae |
-| Ledebouria | Hyacinthaceae |
-| Leopoldia | Hyacinthaceae |
-| Litanthus | Hyacinthaceae |
-| Massonia | Hyacinthaceae |
-| Muscari | Hyacinthaceae |
-| Muscarimia | Hyacinthaceae |
-| Neopatersonia | Hyacinthaceae |
-| Ornithogalum | Hyacinthaceae |
-| Polyxena | Hyacinthaceae |
-| Pseudogaltonia | Hyacinthaceae |
-| Pseudomuscari | Hyacinthaceae |
-| Puschkinia | Hyacinthaceae |
-| Rhadamanthus | Hyacinthaceae |
-| Rhodocodon | Hyacinthaceae |
-| Schizobasis | Hyacinthaceae |
-| Schoenolirion | Hyacinthaceae |
-| Scilla | Hyacinthaceae |
-| Sypharissa | Hyacinthaceae |
-| Thuranthos | Hyacinthaceae |
-| Urginea | Hyacinthaceae |
-| Veltheimia | Hyacinthaceae |
-| Whiteheadia | Hyacinthaceae |
-|   |   |
-| Curculigo | Hypoxidaceae |
-| Empodium | Hypoxidaceae |
-| Hypoxidia | Hypocidaceae |
-| Hypoxis | Hypoxidaceae |
-| Molineria | Hypoxidaceae |
-| Pauridia | Hypoxidaceae |
-| Rhodohypoxis | Hypoxidaceae |
-| Saniella | Hypoxidaceae |
-| Spiloxene | Hypoxidaceae |
-|   |   |
-| Ainea | Iridaceae |
-| Alophia | Iridaceae |
-| Anapalina | Iridaceae |
-| Anomatheca | Iridaceae |
-| Antholyza | Iridaceae |
-| Aristea | Iridaceae |
-| Babiana | Iridaceae |
-| Barnardiella | Iridaceae |
-| Belamcanda | Iridaceae |
-| Bobartia | Iridaceae |
-| Calydorea | Iridaceae |
-| Cardenanthus | Iridaceae |
-| Chasmanthe | Iridaceae |
-| Cipura | Iridaceae |
-| Cobana | Iridaceae |
-| Crocosmia | Iridaceae |
-| Crocus | Iridaceae |
-| Cypella | Iridaceae |
-| Devia | Iridaceae |
-| Dierama | Iridaceae |
-| Dietes | Iridaceae |
-| Diplarrhena | Iridaceae |
-| Duthiastrum | Iridaceae |
-| Eleutherine | Iridaceae |
-| Ennealophus | Iridaceae |
-| Eurynotia | Iridaceae |
-| Ferraria | Iridaceae |
-| Fosteria | Iridaceae |
-| Galaxia | Iridaceae |
-| Geissorhiza | Iridaceae |
-| Gelasine | Iridaceae |
-| Geosiris | Iridaceae |
-| Gladiolus | Iridaceae |
-| Gynandriris | Iridaceae |
-| Herbertia | Iridaceae |
-| Hermodactylus | Iridaceae |
-| Hesperantha | Iridaceae |
-| Hesperoxiphion | Iridaceae |
-| Hexaglottis | Iridaceae |
-| Homeria | Iridaceae |
-| Iris excl. I.germanica, I.kaempferi, I.ensata, I.pumila, I.foetidissima, I.laevigata, I.sibirica, I.japonica (incl. I.Chinensis), I.chryso- | Iridaceae |
-| graphes, I.halophila (I.spuria ssp halophila) en I.spuria |   |
-| Isophysis | Iridaceae |
-| Ixia | Iridaceae |
-| Kelissa | Iridaceae |
-| Klattia | Iridaceae |
-| Lapeirousia | Iridaceae |
-| Larentia | Iridaceae |
-| Lethia | Iridaceae |
-| Libertia | Iridaceae |
-| Mastigostyla | Iridaceae |
-| Melasphaerula | Iridaceae |
-| Micranthus | Iridaceae |
-| Moraea | Iridaceae |
-| Nemastylis | Iridaceae |
-| Neomarica | Iridaceae |
-| Nivenia | Iridaceae |
-| Olsynium | Iridaceae |
-| Onira | Iridaceae |
-| Orthrosanthus | Iridaceae |
-| Pardanthopsis | Iridaceae |
-| Patersonia | Iridaceae |
-| Phalocallis | Iridaceae |
-| Pillansia | Iridaceae |
-| Pseudotrimezia | Iridaceae |
-| Radinosiphon | Iridaceae |
-| Rheome | Iridaceae |
-| Rigidella | Iridaceae |
-| Roggeveldia | Iridaceae |
-| Romulea | Iridaceae |
-| Savannosiphon | Iridaceae |
-| Schizostylis | Iridaceae |
-| Sessilanthera | Iridaceae |
-| Sessilistigma | Iridaceae |
-| Solenomelus | Iridaceae |
-| Sparaxis | Iridaceae |
-| Sphenostigma | Iridaceae |
-| Syringodea | Iridaceae |
-| Tapeinia | Iridaceae |
-| Thereianthus | Iridaceae |
-| Tigridia | Iridaceae |
-| Trimezia | Iridaceae |
-| Tritonia | Iridaceae |
-| Tritoniopsis | Iridaceae |
-| Watsonia | Iridaceae |
-| Witsenia | Iridaceae |
-| Zygotritonia | Iridaceae |
-|   |   |
-| Ixiolirion | Ixioliriaceae |
-|   |   |
-| Calochortus | Liliaceae |
-| Cardiocrinum | Liliaceae |
-| Erythronium | Liliaceae |
-| Fritillaria | Liliaceae |
-| Gagea | Liliaceae |
-| Korolkowia | Liliaceae |
-| Lilium | Liliaceae |
-| Lloydia | Liliaceae |
-| Nomocharis | Liliaceae |
-| Notholirion | Liliaceae |
-| Tulipa | Liliaceae |
-|   |   |
-| Zigadenus | Melanthiaceae |
-|   |   |
-| Mirabilis | Nyctaginaceae |
-|   |   |
-| Oxalis | Oxalidaceae |
-|   |   |
-| Cyclamen excl. C. persicum cultivars | Primulaceae |
-|   |   |
-| Anemone apennina | Ranunculaceae |
-| A. blanda | Ranunculaceae |
-| A. coronaria | Ranunculaceae |
-| A. cylindrica | Ranunculaceae |
-| A. flaccida | Ranunculaceae |
-| A. fulgens | Ranunculaceae |
-| A. ranunculoides | Ranunculaceae |
-| A. trifolia | Ranunculaceae |
-| Eranthis | Ranunculaceae |
-| Ranunculus ficaria | Ranunculaceae |
-| R. asiaticus | Ranunculaceae |
-| R. millefoliatus | Ranunculaceae |
-|   |   |
-| Conanthera | Tecophilaeaceae |
-| Cyanella | Tecophilaeaceae |
-| Odontostomum | Tecophilaeaceae |
-| Tecophilaea | Tecophilaeaceae |
-| Walleria | Tecophilaeaceae |
-| Zephyra | Tecophilaeaceae |
-|   |   |
-| Abolboda | Xyridaceae |
-| Achlyphila | Xyridaceae |
-| Aratitiyopea | Xyridaceae |
-| Orectanthe | Xyridaceae |
-| Xyris | Xyridaceae |
-|   |   |
-| Aframomum | Zingiberaceae |
-| Alpinia | Zingiberaceae |
-| Amomum | Zingiberaceae |
-| Aulotandra | Zingiberaceae |
-| Boesenbergia | Zingiberaceae |
-| Burbidgea | Zingiberaceae |
-| Camptandra | Zingiberaceae |
-| Caulokaempferia | Zingiberaceae |
-| Cautleya | Zingiberaceae |
-| Curcuma | Zingiberaceae |
-| Curcumorpha | Zingiberaceae |
-| Cyphostigma | Zingiberaceae |
-| Elettaria | Zingiberaceae |
-| Elettariopsis | Zingiberaceae |
-| Etlingera | Zingiberaceae |
-| Gagnepainia | Zingiberaceae |
-| Geocharis | Zingiberaceae |
-| Geostachys | Zingiberaceae |
-| Globba | Zingiberaceae |
-| Haniffia | Zingiberaceae |
-| Haplochorema | Zingiberaceae |
-| Hedychium | Zingiberaceae |
-| Hemiorchis | Zingiberaceae |
-| Hitchenia | Zingiberaceae |
-| Hornstedtia | Zingiberaceae |
-| Kaempferia | Zingiberaceae |
-| Leptosolena | Zingiberaceae |
-| Mantisia | Zingiberaceae |
-| Nanochilus | Zingiberaceae |
-| Paracautleya | Zingiberaceae |
-| Parakeampferia | Zingiberaceae |
-| Plagiostachys | Zingiberaceae |
-| Pleuranthodium | Zingiberaceae |
-| Pommereschea | Zingiberaceae |
-| Pyrgophyllum | Zingiberaceae |
-| Renealmia | Zingiberaceae |
-| Rhynchanthus | Zingiberaceae |
-| Riedelia | Zingiberaceae |
-| Roscoea | Zingiberaceae |
-| Scaphochlamys | Zingiberaceae |
-| Siliquamomum | Zingiberaceae |
-| Siphonochilus | Zingiberaceae |
-| Stadiochilus | Zingiberaceae |
-| Stahlianthus | Zingiberaceae |
-| Vanoverberghia | Zingiberaceae |
-| Zingiber | Zingiberaceae |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2011-01-01&g=2011-01-01) van de Landbouwkwaliteitsregeling 2007
-
-Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
-
-| Producten | Beperkingen |
-| --- | --- |
-| Kalium- en natriumzeep |   |
-| Water en stoom |   |
-| Kalkmelk |   |
-| Kalk |   |
-| Ongebluste kalk |   |
-| Natriumhypochloriet |   |
-| Bijtende soda |   |
-| Bijtende potas |   |
-| Waterstofperoxide |   |
-| Natuurlijke plantenextracten |   |
-| Citroenzuur, perazijnzuur, mierenzuur, melkzuur, oxaalzuur en azijnzuur |   |
-| Alcohol |   |
-| Salpeterzuur | Alleen voor de reiniging van druppelaars in kassen |
-| Formaldehyde | Alleen bij het ontsmetten van entruimten voor paddestoelen |
-| Natriumcarbonaat |   |
-| Chloramine-T |   |
-| Sulfiet | Alleen voor het reinigen van plukgereedschap en opslagruimte voor druiven |
-| Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
-| Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
-
-## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2023-07-01&g=2023-07-01) van de Landbouwkwaliteitsregeling 2007
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Artikel 7b
-
-Vervallen
-
-### Hoofdstuk 2. Het in de handel brengen van groenten en fruit
-
-### Hoofdstuk 4. Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
-
-### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
-
-### Hoofdstuk 7. Toezichthouders
-
-### Hoofdstuk 8. Overige bepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2023-10-14&g=2023-10-14) van de Landbouwkwaliteitsregeling 2007
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Artikel 26c
+##### Artikel 26c
 
 Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), bekend op haar website.
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2023-10-14&g=2023-10-14) van de Landbouwkwaliteitsregeling 2007
+##### Artikel 27
 
-| I | II |
-| --- | --- |
-| Bravoa | Agavaceae |
-| Polianthes | Agavaceae |
-| Pseudobravoa | Agavaceae |
-|   |   |
-| Allium | Alliaceae |
-| Ancrumia | Alliaceae |
-| Androstephium | Alliaceae |
-| Bessera | Alliaceae |
-| Bloomeria | Alliaceae |
-| Brodiaea | Alliaceae |
-| Caloscordum | Alliaceae |
-| Dandya | Alliaceae |
-| Dichelostemma | Alliaceae |
-| Erinna | Alliaceae |
-| Garaventia | Alliaceae |
-| Gethyum | Alliaceae |
-| Gilliesia | Alliaceae |
-| Ipheion | Alliaceae |
-| Latace | Alliaceae |
-| Leucocoryne | Alliaceae |
-| Miersia | Alliaceae |
-| Milla | Alliaceae |
-| Milula | Alliaceae |
-| Muilla | Alliaceae |
-| Nectaroscordum | Alliaceae |
-| Nothoscordum | Alliaceae |
-| Petronymphe | Alliaceae |
-| Solaria | Alliaceae |
-| Speea | Alliaceae |
-| Trichlora | Alliaceae |
-| Tristagma | Alliaceae |
-| Triteleia | Alliaceae |
-| Triteleiopsis | Alliaceae |
-| Tulbaghia | Alliaceae |
-|   |   |
-| Amaryllis | Amaryllidaceae |
-| Ammocharis | Amaryllidaceae |
-| Apodolirion | Amaryllidaceae |
-| Bokkeveldia | Amaryllidaceae |
-| Boophone | Amaryllidaceae |
-| Braxireon | Amaryllidaceae |
-| Brunsvigia | Amaryllidaceae |
-| Caliphruria | Amaryllidaceae |
-| Calostemma | Amaryllidaceae |
-| Carpolyza | Amaryllidaceae |
-| Castellanoa | Amaryllidaceae |
-| Champmanolirion | Amaryllidaceae |
-| Chlidanthus | Amaryllidaceae |
-| Clivia | Amaryllidaceae |
-| Crinum | Amaryllidaceae |
-| Cryptostephanus | Amaryllidaceae |
-| Cybistetes | Amaryllidaceae |
-| Cyrtanthus | Amaryllidaceae |
-| Elisena | Amaryllidaceae |
-| Eucharis | Amaryllidaceae |
-| Eucrosia | Amaryllidaceae |
-| Eustephia | Amaryllidaceae |
-| Famatina | Amaryllidaceae |
-| Galanthus | Amaryllidaceae |
-| Gemmaria | Amaryllidaceae |
-| Gethyllis | Amaryllidaceae |
-| Griffinia | Amaryllidaceae |
-| Habranthus | Amaryllidaceae |
-| Haemanthus | Amaryllidaceae |
-| Hannonia | Amaryllidaceae |
-| Haylockia | Amaryllidaceae |
-| Hessea | Amaryllidaceae |
-| Hieronymiella | Amaryllidaceae |
-| Hippeastrum | Amaryllidaceae |
-| Hyline | Amaryllidaceae |
-| Hymenocallis | Amaryllidaceae |
-| Ismene | Amaryllidaceae |
-| Lapiedra | Amaryllidaceae |
-| Leucojum | Amaryllidaceae |
-| Lycoris | Amaryllidaceae |
-| Mathieua | Amaryllidaceae |
-| Namaquanula | Amaryllidaceae |
-| Narcissus | Amaryllidaceae |
-| Pamianthe | Amaryllidaceae |
-| Pancratium | Amaryllidaceae |
-| Paramongaia | Amaryllidaceae |
-| Phaedranassa | Amaryllidaceae |
-| Placea | Amaryllidaceae |
-| Plagiolirion | Amaryllidaceae |
-| Proiphys | Amaryllidaceae |
-| Pseudostenomesson | Amaryllidaceae |
-| Pyrolirion | Amaryllidaceae |
-| Rauhia | Amaryllidaceae |
-| Rhodophiala | Amaryllidaceae |
-| Scadoxus | Amaryllidaceae |
-| Sprekelia | Amaryllidaceae |
-| Stenomesson | Amaryllidaceae |
-| Sternbergia | Amaryllidaceae |
-| Strumaria | Amaryllidaceae |
-| Tedingea | Amaryllidaceae |
-| Traubia | Amaryllidaceae |
-| Ungernia | Amaryllidaceae |
-| Urceolina | Amaryllidaceae |
-| Vagaria | Amaryllidaceae |
-| Vallota | Amaryllidaceae |
-| Zephyranthes | Amaryllidaceae |
-|   |   |
-| Aphyllanthes | Aphyllanthaceae |
-|   |   |
-| Amorphophallus | Araceae |
-| Arisaema | Araceae |
-| Arum | Araceae |
-| Biarum | Araceae |
-| Dracontium | Araceae |
-| Dracunculus | Araceae |
-| Helicodiceros | Araceae |
-| Pinellia | Araceae |
-| Sauromatum | Araceae |
-| Zantedeschia | Araceae |
-|   |   |
-| Asphodelus | Asphodelaceae |
-| Bulbine | Asphodelaceae |
-| Bulbinella | Asphodelaceae |
-| Eremurus | Asphodelaceae |
-| Hemiphylacus | Asphodelaceae |
-| Jodrellia | Asphodelaceae |
-| Paradisea | Asphodelaceae |
-| Simethis | Asphodelaceae |
-| Trachyandra | Asphodelaceae |
-|   |   |
-| Dahlia | Asteraceae |
-|   |   |
-| Begonia tuberhybrida | Begoniaceae |
-|   |   |
-| Blanfordia | Blanfordiaceae |
-|   |   |
-| Canna | Cannaceae |
-|   |   |
-| Androcymbium | Colchicaceae |
-| Baeometra | Colchicaceae |
-| Bulbocodium | Colchicaceae |
-| Burchardia | Colchicaceae |
-| Camptorrhiza | Colchicaceae |
-| Colchicum | Colchicaceae |
-| Gloriosa | Colchicaceae |
-| Hexacyrtis | Colchicaceae |
-| Iphigenia | Colchicaceae |
-| Littonia | Colchicaceae |
-| Merendera | Colchicaceae |
-| Neodregea | Colchicaceae |
-| Onixotis | Colchicaceae |
-| Ornithoglossum | Colchicaceae |
-| Sandersonia | Colchicaceae |
-| Wurmbea | Colchicaceae |
-|   |   |
-| Cyanastrum | Cyanastraceae |
-|   |   |
-| Eriospermum | Eriospermaceae |
-|   |   |
-| Albuca | Hyacinthaceae |
-| Alrawia | Hyacinthaceae |
-| Amphisiphon | Hyacinthaceae |
-| Androsiphon | Hyacinthaceae |
-| Bellevalia | Hyacinthaceae |
-| Bowiea | Hyacinthaceae |
-| Brimeura | Hyacinthaceae |
-| Camassia | Hyacinthaceae |
-| Chionodoxa | Hyacinthaceae |
-| Chlorogalum | Hyacinthaceae |
-| Daubenya | Hyacinthaceae |
-| Dipcadi | Hyacinthaceae |
-| Drimia | Hyacinthaceae |
-| Drimiopsis | Hyacinthaceae |
-| Eucomis | Hyacinthaceae |
-| Fortunatia | Hyacinthaceae |
-| Galtonia | Hyacinthaceae |
-| Hastingsia | Hyacinthaceae |
-| Hesperocallis | Hyacinthaceae |
-| Hyacinthella | Hyacinthaceae |
-| Hyacinthoides | Hyacinthaceae |
-| Hyacinthus | Hyacinthaceae |
-| Lachenalia | Hyacinthaceae |
-| Ledebouria | Hyacinthaceae |
-| Leopoldia | Hyacinthaceae |
-| Litanthus | Hyacinthaceae |
-| Massonia | Hyacinthaceae |
-| Muscari | Hyacinthaceae |
-| Muscarimia | Hyacinthaceae |
-| Neopatersonia | Hyacinthaceae |
-| Ornithogalum | Hyacinthaceae |
-| Polyxena | Hyacinthaceae |
-| Pseudogaltonia | Hyacinthaceae |
-| Pseudomuscari | Hyacinthaceae |
-| Puschkinia | Hyacinthaceae |
-| Rhadamanthus | Hyacinthaceae |
-| Rhodocodon | Hyacinthaceae |
-| Schizobasis | Hyacinthaceae |
-| Schoenolirion | Hyacinthaceae |
-| Scilla | Hyacinthaceae |
-| Sypharissa | Hyacinthaceae |
-| Thuranthos | Hyacinthaceae |
-| Urginea | Hyacinthaceae |
-| Veltheimia | Hyacinthaceae |
-| Whiteheadia | Hyacinthaceae |
-|   |   |
-| Curculigo | Hypoxidaceae |
-| Empodium | Hypoxidaceae |
-| Hypoxidia | Hypocidaceae |
-| Hypoxis | Hypoxidaceae |
-| Molineria | Hypoxidaceae |
-| Pauridia | Hypoxidaceae |
-| Rhodohypoxis | Hypoxidaceae |
-| Saniella | Hypoxidaceae |
-| Spiloxene | Hypoxidaceae |
-|   |   |
-| Ainea | Iridaceae |
-| Alophia | Iridaceae |
-| Anapalina | Iridaceae |
-| Anomatheca | Iridaceae |
-| Antholyza | Iridaceae |
-| Aristea | Iridaceae |
-| Babiana | Iridaceae |
-| Barnardiella | Iridaceae |
-| Belamcanda | Iridaceae |
-| Bobartia | Iridaceae |
-| Calydorea | Iridaceae |
-| Cardenanthus | Iridaceae |
-| Chasmanthe | Iridaceae |
-| Cipura | Iridaceae |
-| Cobana | Iridaceae |
-| Crocosmia | Iridaceae |
-| Crocus | Iridaceae |
-| Cypella | Iridaceae |
-| Devia | Iridaceae |
-| Dierama | Iridaceae |
-| Dietes | Iridaceae |
-| Diplarrhena | Iridaceae |
-| Duthiastrum | Iridaceae |
-| Eleutherine | Iridaceae |
-| Ennealophus | Iridaceae |
-| Eurynotia | Iridaceae |
-| Ferraria | Iridaceae |
-| Fosteria | Iridaceae |
-| Galaxia | Iridaceae |
-| Geissorhiza | Iridaceae |
-| Gelasine | Iridaceae |
-| Geosiris | Iridaceae |
-| Gladiolus | Iridaceae |
-| Gynandriris | Iridaceae |
-| Herbertia | Iridaceae |
-| Hermodactylus | Iridaceae |
-| Hesperantha | Iridaceae |
-| Hesperoxiphion | Iridaceae |
-| Hexaglottis | Iridaceae |
-| Homeria | Iridaceae |
-| Iris excl. I.germanica, I.kaempferi, I.ensata, I.pumila, I.foetidissima, I.laevigata, I.sibirica, I.japonica (incl. I.Chinensis), I.chryso- | Iridaceae |
-| graphes, I.halophila (I.spuria ssp halophila) en I.spuria |   |
-| Isophysis | Iridaceae |
-| Ixia | Iridaceae |
-| Kelissa | Iridaceae |
-| Klattia | Iridaceae |
-| Lapeirousia | Iridaceae |
-| Larentia | Iridaceae |
-| Lethia | Iridaceae |
-| Libertia | Iridaceae |
-| Mastigostyla | Iridaceae |
-| Melasphaerula | Iridaceae |
-| Micranthus | Iridaceae |
-| Moraea | Iridaceae |
-| Nemastylis | Iridaceae |
-| Neomarica | Iridaceae |
-| Nivenia | Iridaceae |
-| Olsynium | Iridaceae |
-| Onira | Iridaceae |
-| Orthrosanthus | Iridaceae |
-| Pardanthopsis | Iridaceae |
-| Patersonia | Iridaceae |
-| Phalocallis | Iridaceae |
-| Pillansia | Iridaceae |
-| Pseudotrimezia | Iridaceae |
-| Radinosiphon | Iridaceae |
-| Rheome | Iridaceae |
-| Rigidella | Iridaceae |
-| Roggeveldia | Iridaceae |
-| Romulea | Iridaceae |
-| Savannosiphon | Iridaceae |
-| Schizostylis | Iridaceae |
-| Sessilanthera | Iridaceae |
-| Sessilistigma | Iridaceae |
-| Solenomelus | Iridaceae |
-| Sparaxis | Iridaceae |
-| Sphenostigma | Iridaceae |
-| Syringodea | Iridaceae |
-| Tapeinia | Iridaceae |
-| Thereianthus | Iridaceae |
-| Tigridia | Iridaceae |
-| Trimezia | Iridaceae |
-| Tritonia | Iridaceae |
-| Tritoniopsis | Iridaceae |
-| Watsonia | Iridaceae |
-| Witsenia | Iridaceae |
-| Zygotritonia | Iridaceae |
-|   |   |
-| Ixiolirion | Ixioliriaceae |
-|   |   |
-| Calochortus | Liliaceae |
-| Cardiocrinum | Liliaceae |
-| Erythronium | Liliaceae |
-| Fritillaria | Liliaceae |
-| Gagea | Liliaceae |
-| Korolkowia | Liliaceae |
-| Lilium | Liliaceae |
-| Lloydia | Liliaceae |
-| Nomocharis | Liliaceae |
-| Notholirion | Liliaceae |
-| Tulipa | Liliaceae |
-|   |   |
-| Zigadenus | Melanthiaceae |
-|   |   |
-| Mirabilis | Nyctaginaceae |
-|   |   |
-| Oxalis | Oxalidaceae |
-|   |   |
-| Cyclamen excl. C. persicum cultivars | Primulaceae |
-|   |   |
-| Anemone apennina | Ranunculaceae |
-| A. blanda | Ranunculaceae |
-| A. coronaria | Ranunculaceae |
-| A. cylindrica | Ranunculaceae |
-| A. flaccida | Ranunculaceae |
-| A. fulgens | Ranunculaceae |
-| A. ranunculoides | Ranunculaceae |
-| A. trifolia | Ranunculaceae |
-| Eranthis | Ranunculaceae |
-| Ranunculus ficaria | Ranunculaceae |
-| R. asiaticus | Ranunculaceae |
-| R. millefoliatus | Ranunculaceae |
-|   |   |
-| Conanthera | Tecophilaeaceae |
-| Cyanella | Tecophilaeaceae |
-| Odontostomum | Tecophilaeaceae |
-| Tecophilaea | Tecophilaeaceae |
-| Walleria | Tecophilaeaceae |
-| Zephyra | Tecophilaeaceae |
-|   |   |
-| Abolboda | Xyridaceae |
-| Achlyphila | Xyridaceae |
-| Aratitiyopea | Xyridaceae |
-| Orectanthe | Xyridaceae |
-| Xyris | Xyridaceae |
-|   |   |
-| Aframomum | Zingiberaceae |
-| Alpinia | Zingiberaceae |
-| Amomum | Zingiberaceae |
-| Aulotandra | Zingiberaceae |
-| Boesenbergia | Zingiberaceae |
-| Burbidgea | Zingiberaceae |
-| Camptandra | Zingiberaceae |
-| Caulokaempferia | Zingiberaceae |
-| Cautleya | Zingiberaceae |
-| Curcuma | Zingiberaceae |
-| Curcumorpha | Zingiberaceae |
-| Cyphostigma | Zingiberaceae |
-| Elettaria | Zingiberaceae |
-| Elettariopsis | Zingiberaceae |
-| Etlingera | Zingiberaceae |
-| Gagnepainia | Zingiberaceae |
-| Geocharis | Zingiberaceae |
-| Geostachys | Zingiberaceae |
-| Globba | Zingiberaceae |
-| Haniffia | Zingiberaceae |
-| Haplochorema | Zingiberaceae |
-| Hedychium | Zingiberaceae |
-| Hemiorchis | Zingiberaceae |
-| Hitchenia | Zingiberaceae |
-| Hornstedtia | Zingiberaceae |
-| Kaempferia | Zingiberaceae |
-| Leptosolena | Zingiberaceae |
-| Mantisia | Zingiberaceae |
-| Nanochilus | Zingiberaceae |
-| Paracautleya | Zingiberaceae |
-| Parakeampferia | Zingiberaceae |
-| Plagiostachys | Zingiberaceae |
-| Pleuranthodium | Zingiberaceae |
-| Pommereschea | Zingiberaceae |
-| Pyrgophyllum | Zingiberaceae |
-| Renealmia | Zingiberaceae |
-| Rhynchanthus | Zingiberaceae |
-| Riedelia | Zingiberaceae |
-| Roscoea | Zingiberaceae |
-| Scaphochlamys | Zingiberaceae |
-| Siliquamomum | Zingiberaceae |
-| Siphonochilus | Zingiberaceae |
-| Stadiochilus | Zingiberaceae |
-| Stahlianthus | Zingiberaceae |
-| Vanoverberghia | Zingiberaceae |
-| Zingiber | Zingiberaceae |
+De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=4&artikel=17&z=2026-07-01&g=2026-07-01), worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 28
 
-#### Artikel 8b
+De volgende regelingen worden ingetrokken:
 
-1. De Stichting Skal informeert de Commissie over:
+- a. [Landbouwkwaliteitsregeling aanwijzing groenten en fruit](https://wetten.overheid.nl/jci1.3:c:BWBR0003129);
 
-- a. vrijstellingen verleend op grond van artikel 6, eerste lid, overeenkomstig artikel 25, tweede lid, van [verordening (EU) 2018/848](32748R2018);
+- b. [Landbouwkwaliteitsregeling biologische productiemethode 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008176);
 
-- b. gevallen van verontreiniging met niet-toegelaten producten of stoffen als bedoeld in artikel 29, negende lid, van [verordening (EU) 2018/848](32748R2018);
+- c. [Landbouwkwaliteitsregeling controle groenten en fruit 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0005914)
 
-- c. waar officiële controles worden uitgevoerd op grond van artikel 4, eerste lid, van [verordening (EU) 2021/2305](32305R2021).
+- d. [Landbouwkwaliteitsregeling delegatie bevoegdheden eieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014118);
 
-2. Stichting Skal informeert de Commissie en andere lidstaten middels het systeem, bedoeld in artikel 9, eerste lid, van [verordening (EU) 2021/279](32179R2021), over:
+- e. [Landbouwkwaliteitsregeling etikettering rundvlees](https://wetten.overheid.nl/jci1.3:c:BWBR0008931);
 
-- a. een vermoeden van niet-naleving als bedoeld in artikel 43, eerste lid, van [verordening (EU) 2018/848](32748R2018);
+- f. [Landbouwkwaliteitsregeling geografische aanduidingen, oorsprongsbenamingen en specificiteitscertificeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0006397);
 
-- b. een vermoede of vastgestelde niet-naleving als bedoeld in artikel 7 van [verordening (EU) 2021/2307](32307R2021).
+- g. [Landbouwkwaliteitsbeschikking vrijstellingen, ontheffingen en nadere voorschriften groenten en fruit](https://wetten.overheid.nl/jci1.3:c:BWBR0003128);
 
-3. Stichting Skal informeert de Commissie en andere lidstaten over de afwijkingen, bedoeld in artikel 4, eerste lid, van [verordening (EU) 2020/2146](32146R2020).
+- h. [Landbouwkwaliteitsregeling zuigelingenvoeding 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006750);
 
-### Hoofdstuk 2. Het in de handel brengen van groenten en fruit
+- i. [Vrijstellingsregeling grootverpakkingen zuigelingenvoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0008155);
 
-### Hoofdstuk 4. Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
+- j. [Besluit aanwijzing toezichthouders Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0013679);
 
-### Hoofdstuk 8. Overige bepalingen
+- k. De [Regeling van de Minister van Landbouw en Visserij van 15 augustus 1977 inzake het rijkstoezicht op de controle-instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003121) (Stcrt. 1977, 159).
 
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2023-10-14&g=2023-10-14) van de Landbouwkwaliteitsregeling 2007
+##### Artikel 29
 
-Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
+Deze regeling wordt aangehaald als: Landbouwkwaliteitsregeling 2007.
 
-| Producten | Beperkingen |
-| --- | --- |
-| Kalium- en natriumzeep |   |
-| Water en stoom |   |
-| Kalkmelk |   |
-| Kalk |   |
-| Ongebluste kalk |   |
-| Natriumhypochloriet |   |
-| Bijtende soda |   |
-| Bijtende potas |   |
-| Waterstofperoxide |   |
-| Natuurlijke plantenextracten |   |
-| Citroenzuur, perazijnzuur, mierenzuur, melkzuur, oxaalzuur en azijnzuur |   |
-| Alcohol |   |
-| Salpeterzuur | Alleen voor de reiniging van druppelaars in kassen |
-| Formaldehyde | Alleen bij het ontsmetten van entruimten voor paddestoelen |
-| Natriumcarbonaat |   |
-| Chloramine-T |   |
-| Sulfiet | Alleen voor het reinigen van plukgereedschap en opslagruimte voor druiven |
-| Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
-| Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
+##### Artikel 30
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking op het tijdstip waarop het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) in werking treedt.

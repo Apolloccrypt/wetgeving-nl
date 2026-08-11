@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2006, nr. DPenO 2733644, houdende regels omtrent vergoedingen aan het bestuur van ZorgOnderzoek Nederland"
+citeertitel: "Vergoedingenregeling bestuur ZorgOnderzoek Nederland"
 identifier: "BWBR0020781"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0020781"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "8813133"
-version_id: "13975962"
-internal_id: "C29315791"
-label_id: "8792864"
-dtd_version: "2.0"
-original_entry_into_force: "2006-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0020781/2020-01-01/0"
-intitule_bron: "Stcrt.2006-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-12-11"
-intitule_published: "2006-12-21"
-intitule_in_force: "2006-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-249"
-original_signed_date: "2006-12-11"
-original_published_date: "2006-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-249-p31-SC78447"
-entry_into_force_date: "2006-12-23"
-jci_1_3: "jci1.3:c:BWBR0020781&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0020781&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Vergoedingenregeling bestuur ZorgOnderzoek Nederland"
-signed_date: "2006-12-11"
-entry_into_force: "2006-12-23"
+publicatiedatum: 2006-12-23
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0020781"
+opgehaald: 2026-08-11
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2006, nr. DPenO 2733644, houdende regels omtrent vergoedingen aan het bestuur van ZorgOnderzoek Nederland
-
-Gelet op [artikel 5 van de Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=5),
-
-Besluit:
 
 ##### Artikel 1
 
@@ -63,5 +37,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Vergoedingenregeling bestuur ZorgOnderzoek Nederland.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,45 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een bestemmingsheffing ten behoeve van de handel in groenten en fruit voor het jaar 2007 (Verordening PT bestemmingsheffing handel groenten en fruit 2007)"
+citeertitel: "Verordening PT bestemmingsheffing handel groenten en fruit 2007"
 identifier: "BWBR0021286"
-country: "nl"
-rank: "pbo"
-publication_date: "2007-02-11"
-last_updated: "2007-02-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021286"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "8931933"
-version_id: "14203082"
-internal_id: "C19334581"
-label_id: "8911224"
-dtd_version: "2.0"
-original_entry_into_force: "2007-02-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021286/2007-02-11/0"
-intitule_bron: "Vbbo.2007-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-06"
-intitule_published: "2007-02-09"
-intitule_in_force: "2007-02-09"
-intitule_status: "goed"
-original_publication: "Vbbo.2007-9"
-original_signed_date: "2006-07-06"
-original_published_date: "2007-02-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2007-02-11"
-jci_1_3: "jci1.3:c:BWBR0021286&z=2007-02-11&g=2007-02-11"
-jci_1_0: "1.0:c:BWBR0021286&g=2007-02-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bestemmingsheffing handel groenten en fruit 2007"
-signed_date: "2006-07-06"
-entry_into_force: "2007-02-11"
+publicatiedatum: 2007-02-11
+laatste_update: 2007-02-11
+status: geldig
+toestand: 2007-02-11
+bron: "https://wetten.overheid.nl/BWBR0021286"
+opgehaald: 2026-08-11
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een bestemmingsheffing ten behoeve van de handel in groenten en fruit voor het jaar 2007 (Verordening PT bestemmingsheffing handel groenten en fruit 2007)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en gelet op de [artikelen 12 tot en met 14, van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-Gehoord de Commissie voor groenten en fruit, d.d. 20 juni 2006;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -57,9 +30,9 @@ Besluit:
 
 - c. de ondernemer: de natuurlijke of rechtspersoon die een onderneming drijft waarin de handel wordt uitgeoefend in de verse of bewerkte producten:
 
-- 1. fruit, met uitzondering van slaggrondnoten en kopra;
+   - 1. fruit, met uitzondering van slaggrondnoten en kopra;
 
-- 2. groenten, met uitzondering van zaden van groenten;
+   - 2. groenten, met uitzondering van zaden van groenten;
 
 - d. de aankoopwaarde handel: het bedrag van de door de ondernemer, al dan niet via een afzetorganisatie, gedurende een kalenderjaar bij telers aangekochte en in Nederland geteelde groenten en fruitproducten;
 
@@ -109,8 +82,6 @@ Besluit:
 
 ##### Artikel 4
 
-1.
-
 De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door de voorzitter door middel van toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
 2. In afwijking van het eerste lid, kan de voorzitter de heffingsplichtige een voorlopige heffing opleggen tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
@@ -144,5 +115,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 9
 
 Deze verordening wordt aangehaald als: Verordening PT bestemmingsheffing handel groenten en fruit 2007.
-
-De verordening en de toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

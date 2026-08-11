@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Staatssecretaris van Economische Zaken van 23 augustus 2007, nr. AT-EZ/5891756.JZ, houdende vaststelling van regels met betrekking tot toezicht op en handhaving van de naleving van de vergunningsvoorwaarden door de houder van een IMT-2000 vergunning (Beleidsregel sancties frequentiegebruik UMTS)"
+citeertitel: "Beleidsregel sancties frequentiegebruik UMTS"
 identifier: "BWBR0022424"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2007-08-26"
-last_updated: "2007-08-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022424"
+categorie: "Bestuursrecht"
 soort: "beleidsregel"
-stam_id: "9188783"
-version_id: "14711542"
-internal_id: "C20019671"
-label_id: "9167564"
-dtd_version: "2.0"
-original_entry_into_force: "2007-08-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022424/2007-08-26/0"
-intitule_bron: "Stcrt.2007-163"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-08-23"
-intitule_published: "2007-08-24"
-intitule_in_force: "2007-08-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-163"
-original_signed_date: "2007-08-23"
-original_published_date: "2007-08-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-163-p6-SC81710"
-entry_into_force_date: "2007-08-26"
-jci_1_3: "jci1.3:c:BWBR0022424&z=2007-08-26&g=2007-08-26"
-jci_1_0: "1.0:c:BWBR0022424&g=2007-08-26"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel sancties frequentiegebruik UMTS"
-signed_date: "2007-08-23"
-entry_into_force: "2007-08-26"
+publicatiedatum: 2007-08-26
+laatste_update: 2007-08-26
+status: geldig
+toestand: 2007-08-26
+bron: "https://wetten.overheid.nl/BWBR0022424"
+opgehaald: 2026-08-11
 ---
+
 # Beleidsregel van de Staatssecretaris van Economische Zaken van 23 augustus 2007, nr. AT-EZ/5891756.JZ, houdende vaststelling van regels met betrekking tot toezicht op en handhaving van de naleving van de vergunningsvoorwaarden door de houder van een IMT-2000 vergunning (Beleidsregel sancties frequentiegebruik UMTS)
-
-Gelet op de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.5), [3.7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7), [15.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), en [15.2, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.2), de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=17) en [21 van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=21) en de [artikelen 5:32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32) en [4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -66,7 +40,7 @@ Deze beleidsregel geeft aan op welke wijze de Minister van Economische Zaken de 
 
 1. Ter vaststelling of de vergunninghouder voldoet aan de voorschriften betreffende dekking en minimum serviceniveau, genoemd in artikel 3, onderdeel b, van de vergunning, worden op driehonderd verschillende locaties in Nederland metingen verricht.
 
-2. De metingen geschieden overeenkomstig de in de bijlage opgenomen meetmethode.
+2. De metingen geschieden overeenkomstig de in de [bijlage](https://wetten.overheid.nl/BWBR0022424) opgenomen meetmethode.
 
 ##### Artikel 4
 
@@ -143,81 +117,3 @@ Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekeni
 ##### Artikel 9
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel sancties frequentiegebruik UMTS.
-
-## Bijlage. als bedoeld in [artikel drie, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022424&paragraaf=1&artikel=3&z=2007-08-26&g=2007-08-26)
-
-### Meetmethode
-
-### ****Inleiding****
-
-Om te kunnen constateren of aan de uitrolverplichting zoals die is opgenomen in de vergunningen voor IMT-2000 is voldaan is een meetmethode ontwikkeld. Met behulp van deze meetmethode wordt gecontroleerd of de in de vergunning voorgeschreven dekking en het vereiste minimum serviceniveau worden gerealiseerd.
-
-In dit document is uiteengezet wat gemeten wordt en hoe de meting in zijn werk gaat. Het document bevat tevens de statistische methode waarmee wordt berekend of een vergunninghouder verdoet aan zijn vergunningvoorwaarden.
-
-### **Dekking:**
-
-Allereerst wordt gemeten of in het in de vergunningsvoorschriften beschreven gebied dekking is.
-
-Onder dekking wordt verstaan de aanwezigheid van een bruikbaar hoogfrequent signaal in de diverse toegewezen UMTS-frequentiebanden. De aanwezigheid van hoogfrequente signalen zal worden geconstateerd door het gebruik van voor UMTS-geschikte meetapparatuur. Naast de aanwezigheid van UMTS-signalen zal ook worden onderzocht of mogelijk storende signalen op deze frequenties aanwezig zijn, die een (nadelige) invloed kunnen hebben op te verrichten metingen.
-
-### **Serviceniveau:**
-
-Om het serviceniveau te bepalen zal daadwerkelijk gebruik worden gemaakt van de UMTS-netwerken van de verschillende vergunninghouders, door middel van commercieel beschikbare UMTS-abonnementen van de vergunninghouders. Tijdens de meting wordt alleen de downloadsnelheid gemeten, omdat dit het meest voorkomende internet gedrag is en de uplink technologie op dit moment door de beschikbare apparatuur beperkt is tot 64kbit/s.
-
-Bij het succesvol tot stand komen van een verbinding wordt de meting op laag 7 van het OSI model (applicatielaag) uitgevoerd en bestaat deze uit het downloaden van een binair bestand van 5Mb vanaf de server van Agentschap Telecom naar de laptop computer van de toezichthouder. Er wordt geen spraak of combinatie van spraak en data gemeten. Er wordt alleen een databestand gedownload. Het bestand is niet comprimeerbaar om te voorkomen dat tijdens de meting de diverse compressieoplossingen van de providers invloed hebben op de grootte van het bestand. Voor het downloaden wordt gebruik gemaakt van een FTP applicatie. Deze registreert tijdens de download de start en stoptijd van de sessie en de getransporteerde bytes. Deze informatie wordt opgeslagen in een logbestand die als bestandsnaam de XY coördinaten krijgt van de gemeten locatie. Deze coördinaten worden overgenomen van de bij de toezichthouder aanwezige GPS ontvanger.
-
-### **Werkinstructie:**
-
-Om de meetmethode uniform toe te passen wordt gebruik gemaakt van een werkinstructie voor de toezichthouder.
-
-### **Volledige beschrijving meetmethode en gebruikte apparatuur**
-
-In het document ‘Van vergunningsvoorwaarden naar toezicht v2.0’ wordt de werkwijze bij de ontwikkelde meetmethode en de gebruikte meetapparatuur gedetailleerd beschreven. Dit document is vanaf 1 september 2007 beschikbaar en zal dan aan de vergunninghouders worden verstrekt.
-
-### **Statistiek**
-
-Door middel van steekproeven zal worden vastgesteld of de vergunninghouders voldoen aan hun vergunningsvoorwaarden. Deze steekproeven dienen echter niet onderhevig te zijn aan subjectieve oordelen of willekeur. In dit document wordt zo volledig mogelijk de procedure van het selecteren en het verwerken van deze steekproeven besproken. Deze moet leiden tot een ook statistisch verantwoorde conclusie over het al dan niet voldoen van de UMTS-operators aan de vergunningsvoorwaarden.
-
-### **Selectie locaties**
-
-Met een random coördinatengenerator in Microsoft Excel is een lijst met een ruime hoeveelheid locaties verkregen die in of rond Nederland liggen. Van deze punten zijn de eerste 600 bewaard en de punten die buiten het in de vergunningsvoorschriften beschreven gebied liggen zijn verwijderd. Op de eerste 300 locaties zullen de metingen in beginsel worden verricht. De overige 300 locaties zijn bedoeld als reservelocaties, die kunnen worden gebruikt in gevallen dat van de eerste 300 meetlocaties, locaties moeten worden afgewezen. Dit kan bijvoorbeeld het geval zijn als een locatie fysiek niet bereikbaar is.
-
-De afzonderlijke locaties genoemd in de vergunningsvoorwaarden (verbindingswegen, vliegvelden, grote gemeenten) zijn gelijkwaardig. Er vindt daarom geen weging plaats van de locaties.
-
-Aangezien wegen en spoorwegen als lijn zonder breedte zijn opgeslagen in de database van het kaartmateriaal, is de kans dat op zo’n lijn een meetpunt valt zeer klein. Daarom is er uit praktische overwegingen voor gekozen dat de dekkingseis ook geldt indien de meetpunten zich op maximaal 50 meter van het midden van de hoofdverbindingswegen en de autosnelwegen bevinden. Deze praktische invulling van de dekkingseis betekent dat daaraan ook is voldaan als het meetpunt zich op maximaal 50 meter van de hoofdverbindingswegen en de autosnelwegen bevindt. Praktisch gezien zullen voor de hoofdverbindingswegen en autosnelwegen de metingen op de openbare weg, zo dicht mogelijk bij de betreffende hoofdverbindingsweg of autosnelweg, worden uitgevoerd. Deze meetlocatie mag zich maximaal 50 meter van de exacte meetlocatie bevinden. Dit om rekening te houden met het feit dat het exacte meetpunt fysiek moeilijk bereikbaar kan zijn of dat metingen op exacte meetlocaties gevaar op kunnen leveren voor de toezichthouder of andere personen. Indien aan deze ‘50 meter’ eis niet kan worden voldaan wordt de eerst beschikbare reserve meetlocatie van dezelfde categorie gebruikt.
-
-Voor de overige categorieën geldt dat als ter plaatse blijkt dat een locatie waar gemeten moet worden niet bereikbaar of ongeschikt is voor metingen, er gezocht zal worden naar de dichtstbijzijnde plek binnen een straal van 100 meter rond dit punt waar de meting wel kan worden uitgevoerd. Indien een meting dan toch onmogelijk blijkt wordt de locatie afgewezen en wordt de eerstvolgende locatie van dezelfde categorie uit de reservelijst genomen.
-
-### **Metingen**
-
-Per locatie wordt voor elke vergunninghouder vastgesteld of het juiste signaal aanwezig is, met andere woorden of er dekking is. Vervolgens wordt bepaald of het minimum serviceniveau groter of gelijk is aan 144 kbit/s. Het eindresultaat per vergunninghouder wordt bepaald door 300 metingen. Een locatie waar geen dekking is wordt meegeteld als locatie waar wél serviceniveau is, dat om te voorkomen dat een vergunninghouder tweemaal gesanctioneerd zou worden: voor zowel onvoldoende dekking als onvoldoende serviceniveau.
-
-### **Verwerking data**
-
-Er worden twee toetsen uitgevoerd. Eén toets voor de dekking en één toets voor de datasnelheid ofwel het serviceniveau. De toetsprocedure biedt de mogelijkheid om op basis van de verrichte metingen een betrouwbare uitspraak te doen of een vergunninghouder wel of niet voldoet aan de uitleg van de vergunningseisen. Voor de toetsing van dekking en datasnelheid is gekozen voor een lage onbetrouwbaarheid: α = 0.01. Dat wil zeggen, de kans op een foute beslissing in het nadeel van de operator is maximaal 1%.
-
-### **Toets 1: Dekking**
-
-H0 : Op 98% van alle locaties is er dekking (p ≥ 0.98)
-
-H1 : Op minder dan 98% van alle locaties is er dekking. (p < 0.98)
-
-Neem n = 300. Als we het resultaat van de n metingen X1, X2, ... , Xn noemen, met Xiε {0,1} gaat de berekening als volgt:
-
-Bereken de som: S = X1 + X2 + ... + Xn.
-
-Verwerp H0 als blijkt dat S < 288.
-
-### **Toets 2: Snelheid**
-
-Volgens de vergunningsvoorschriften dient er op 95% van de locaties in het in de vergunningsvoorschriften beschreven gebied voldoende datasnelheid te zijn. Omdat er geen datasnelheid kan zijn zonder dat er überhaupt dekking is, is er voor gekozen om te toetsen op 95% van 98% van het in de vergunningsvoorschriften beschreven gebied, ofwel 93.1%.
-
-H0: Op minimaal 93.1% van alle locaties is de snelheid minstens 144 kbits/s (p ≥ 0.931)ε1Waarbij de lokaties waar geen dekking is geconstateerd meetellen alsof er wél is voldaan aan het serviceniveau.
-
-H1: Op minder dan 93.1 % van alle locaties wordt deze snelheid gehaald (p < 0.931)
-
-Uit de dekkingsmetingen is gebleken dat er op S meetpunten dekking is. Om te bepalen of er wat betreft serviceniveau een sanctie moet worden opgelegd, wordt alleen gekeken naar het resultaat van de S meetpunten waar aan de dekking is voldaan. Als we het resultaat van deze S metingen Y1, Y2, ... , YS noemen, met Yiε {0,1} gaat de berekening als volgt:
-
-Bereken de som: T = Y1 + ... + Ys +300 - S.
-
-Verwerp H0 als blijkt dat T < 268
